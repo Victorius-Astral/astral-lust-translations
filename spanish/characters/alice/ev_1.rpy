@@ -34,7 +34,7 @@ translate spanish alice_1_1_babd21e8:
 translate spanish alice_1_1_39520277:
 
     # "You proceed and finally realize these are moans!"
-    "You proceed and finally realize these are moans!"
+    "¡Avanzas y finalmente te das cuenta de que son gemidos!"
 
 # game/characters/alice/ev_1.rpy:22
 translate spanish alice_1_1_1e7409fe:
