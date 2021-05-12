@@ -4,7 +4,7 @@ translate polish strings:
 
     # game/screens.rpy:251
     old "Back"
-    new "Wstecz"
+    new "Wróć"
 
     # game/screens.rpy:252
     old "History"
@@ -36,7 +36,7 @@ translate polish strings:
 
     # game/screens.rpy:299
     old "Start"
-    new "Start"
+    new "Nowa Gra"
 
     # game/screens.rpy:307
     old "Load"
@@ -232,7 +232,7 @@ translate polish strings:
 
     # game/screens.rpy:1033
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "Kólko myszy w górę\nNaciśnij stronę wstecz"
+    new "Kólko myszy w górę\nNaciśnij stronę powrotu"
 
     # game/screens.rpy:1037
     old "Mouse Wheel Down"
