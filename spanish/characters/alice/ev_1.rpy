@@ -4,7 +4,7 @@
 translate spanish alice_1_9364b9d6:
 
     # "As you're about to open the door, you hear strange sounds coming from inside."
-    "As you're about to open the door, you hear strange sounds coming from inside."
+    "Cuando estas por abrir la puerta, escuchas sonidos extraños desde adentro."
 
 # game/characters/alice/ev_1.rpy:6
 translate spanish alice_1_b07917a1:
@@ -16,13 +16,13 @@ translate spanish alice_1_b07917a1:
 translate spanish alice_1_bdd8af2f:
 
     # "Do you want to enter?"
-    "Do you want to enter?"
+    "¿Quieres entrar?"
 
 # game/characters/alice/ev_1.rpy:17
 translate spanish alice_1_1_a60713b9:
 
     # "You can't see anyone but the sound is still there."
-    "You can't see anyone but the sound is still there."
+    "No puedes ver a nadie pero el sonido sigue ahì."
 
 # game/characters/alice/ev_1.rpy:18
 translate spanish alice_1_1_babd21e8:
@@ -327,4 +327,3 @@ translate spanish strings:
     # game/characters/alice/ev_1.rpy:46
     old "Wait"
     new "Wait"
-
