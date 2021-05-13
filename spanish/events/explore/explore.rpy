@@ -4,5 +4,4 @@
 translate spanish explore_6b1e9b63:
 
     # "You walk down the foggy road looking for anything of interest."
-    "You walk down the foggy road looking for anything of interest."
-
+    "Caminas por el camino entre la niebla buscando algo de interés."
