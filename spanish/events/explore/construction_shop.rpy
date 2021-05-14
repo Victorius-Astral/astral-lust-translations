@@ -4,139 +4,139 @@
 translate spanish explore_construction_shop_1ae0b4e9:
 
     # "You notice something amidst the mist."
-    "You notice something amidst the mist."
+    "Notas algo en medio de la niebla."
 
 # game/events/explore/construction_shop.rpy:8
 translate spanish explore_construction_shop_ce65f4cb:
 
     # "It seems to be a warehouse!"
-    "It seems to be a warehouse!"
+    "¡Parece ser un almacén!"
 
 # game/events/explore/construction_shop.rpy:14
 translate spanish explore_construction_shop_e8bfea22:
 
     # "As you enter you notice you are not alone!"
-    "As you enter you notice you are not alone!"
+    "¡Al entrar, te das cuenta de que no estás solo!"
 
 # game/events/explore/construction_shop.rpy:16
 translate spanish explore_construction_shop_54f73515:
 
     # "On top of it, the sound of the door opening attracted the people inside!"
-    "On top of it, the sound of the door opening attracted the people inside!"
+    "¡Además, el sonido de la puerta atrajo a la gente que estaba adentro!"
 
 # game/events/explore/construction_shop.rpy:17
 translate spanish explore_construction_shop_776f2729:
 
     # scavenger "Who are you?!"
-    scavenger "Who are you?!"
+    scavenger "¡¿Quién eres?!"
 
 # game/events/explore/construction_shop.rpy:21
 translate spanish explore_construction_shop_38e53ca2:
 
     # scavenger "What do you want?"
-    scavenger "What do you want?"
+    scavenger "¿Qué quieres?"
 
 # game/events/explore/construction_shop.rpy:24
 translate spanish explore_construction_shop_79e1b978:
 
     # "You quickly retreat."
-    "You quickly retreat."
+    "Rápidamente te retiras."
 
 # game/events/explore/construction_shop.rpy:29
 translate spanish explore_construction_shop_6f0d74f4:
 
     # "{color=#FF958F}[[Charisma check passed]{/color}"
-    "{color=#FF958F}[[Charisma check passed]{/color}"
+    "{color=#FF958F}[[Carisma suficiente]{/color}"
 
 # game/events/explore/construction_shop.rpy:30
 translate spanish explore_construction_shop_48f73d19:
 
     # scavenger "Fine, times are hard, help yourself."
-    scavenger "Fine, times are hard, help yourself."
+    scavenger "Bien, son tiempos difíciles."
 
 # game/events/explore/construction_shop.rpy:31
 translate spanish explore_construction_shop_4383423c:
 
     # me "Thank you!"
-    me "Thank you!"
+    me "¡Gracias!"
 
 # game/events/explore/construction_shop.rpy:33
 translate spanish explore_construction_shop_4a98daf8:
 
     # "You quickly look for anything usefull left."
-    "You quickly look for anything usefull left."
+    "Buscas rápidamente cualquier cosa útil que quede."
 
 # game/events/explore/construction_shop.rpy:35
 translate spanish explore_construction_shop_f4ddac4e:
 
     # "You found something!"
-    "You found something!"
+    "¡Encontraste algo!"
 
 # game/events/explore/construction_shop.rpy:36
 translate spanish explore_construction_shop_91a6210b:
 
     # th "Great, now it's time to leave before they change their minds."
-    th "Great, now it's time to leave before they change their minds."
+    th "Genial, ahora es el momento de irse antes de que cambien de opinión."
 
 # game/events/explore/construction_shop.rpy:40
 translate spanish explore_construction_shop_2282bb54:
 
     # "{color=#FF958F}[[Charisma check failed]{/color}"
-    "{color=#FF958F}[[Charisma check failed]{/color}"
+    "{color=#FF958F}[[Carisma insuficiente]{/color}"
 
 # game/events/explore/construction_shop.rpy:41
 translate spanish explore_construction_shop_aeee13d9:
 
     # scavenger "This place is ours, leave while you still can!"
-    scavenger "This place is ours, leave while you still can!"
+    scavenger "Este lugar es nuestro, ¡vete mientras puedas!"
 
 # game/events/explore/construction_shop.rpy:45
 translate spanish explore_construction_shop_b1b6f539:
 
     # "You decided that it's wise to leave."
-    "You decided that it's wise to leave."
+    "Decidiste que es prudente irse."
 
 # game/events/explore/construction_shop.rpy:55
 translate spanish explore_construction_shop_7ee13a29:
 
     # th "It looks empty, let's gather what I can and return."
-    th "It looks empty, let's gather what I can and return."
+    th "Parece vacío, vamos a juntar lo que pueda y regresemos."
 
 # game/events/explore/construction_shop.rpy:58
 translate spanish explore_construction_shop_5c8ba152:
 
     # th "That should be everything."
-    th "That should be everything."
+    th "Eso debería ser todo."
 
 # game/events/explore/construction_shop.rpy:62
 translate spanish explore_construction_shop_fa66eb21:
 
     # "You decide that you won't go in."
-    "You decide that you won't go in."
+    "Decides que no entrarás."
 
 # game/events/explore/construction_shop.rpy:70
 translate spanish exp_const_win_19e7ada1:
 
     # th "Let's gather what I can and return."
-    th "Let's gather what I can and return."
+    th "Juntemos lo que pueda y regresemos."
 
 # game/events/explore/construction_shop.rpy:72
 translate spanish exp_const_win_4a27dd7e:
 
     # th "That should be it. Should I have some fun with this girl before returning?"
-    th "That should be it. Should I have some fun with this girl before returning?"
+    th "Eso debería ser todo. ¿Debería divertirme un poco con esta chica antes de regresar?"
 
 # game/events/explore/construction_shop.rpy:83
 translate spanish exp_const_win_53f1417a:
 
     # scavenger_girl "W-What do you want to do?"
-    scavenger_girl "W-What do you want to do?"
+    scavenger_girl "¿Q-qué vas a hacer?"
 
 # game/events/explore/construction_shop.rpy:85
 translate spanish exp_const_win_6e0913e2:
 
     # "Fear in her voice excites you even more. You quickly throw her against the floor."
-    "Fear in her voice excites you even more. You quickly throw her against the floor."
+    "El miedo en su voz te excita aún más. Rápidamente la arrojas al suelo."
 
 # game/events/explore/construction_shop.rpy:86
 translate spanish exp_const_win_2630c45b:
@@ -255,4 +255,3 @@ translate spanish strings:
     # game/events/explore/construction_shop.rpy:42
     old "{color=#800080}[[Corruption / Madness]{/color} Attack"
     new "{color=#800080}[[Corruption / Madness]{/color} Attack"
-
