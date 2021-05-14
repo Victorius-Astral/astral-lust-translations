@@ -24,11 +24,11 @@ translate polish strings:
 
     # game/screens.rpy:256
     old "Q.Save"
-    new "Szybki Zapis"
+    new "S.Zapis"
 
     # game/screens.rpy:257
     old "Q.Load"
-    new "Szybkie Wczytanie"
+    new "S.Wczytanie"
 
     # game/screens.rpy:258
     old "Settings"

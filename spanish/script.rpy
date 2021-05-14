@@ -172,7 +172,7 @@ translate spanish start_0e7d107f:
 translate spanish start_3cfd7355:
 
     # u_lexi "{size=-10}Hey! Wake up!{/size}"
-    u_lexi "{size=-10}¡Hey! ¡Despierta!{/size}"
+    u_lexi "{small}¡Hey! ¡Despierta!{/small}"
 
 # game/script.rpy:117
 translate spanish start_18415716:
@@ -184,7 +184,7 @@ translate spanish start_18415716:
 translate spanish start_f0ebf71e:
 
     # u_lexi "{size=-10}Wake up!{/size}"
-    u_lexi "{size=-10}¡Despierta!{/size}"
+    u_lexi "{small}¡Despierta!{/small}"
 
 # game/script.rpy:120
 translate spanish start_20c73366:
@@ -661,7 +661,7 @@ translate spanish strings:
     new "Eso es todo"
 
     # game/script.rpy:288
-    old "Daily necesities"
+    old "Daily necessities"
     new "Necesidades diarias"
 
     # game/script.rpy:288
