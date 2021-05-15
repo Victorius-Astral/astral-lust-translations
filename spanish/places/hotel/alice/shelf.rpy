@@ -4,23 +4,22 @@
 translate spanish room_alice_shelf_d05846c2:
 
     # me "A gun?"
-    me "A gun?"
+    me "¿Un arma?"
 
 # game/places/hotel/alice/shelf.rpy:11
 translate spanish room_alice_shelf_3c34bc9e:
 
     # th "I have one already, I don't need a second one."
-    th "I have one already, I don't need a second one."
+    th "Ya tengo una, no necesito otra."
 
 # game/places/hotel/alice/shelf.rpy:12
 translate spanish room_alice_shelf_053e7fef:
 
     # th "I should take it, only, when I need it."
-    th "I should take it, only, when I need it."
+    th "Debería tomarla sólo cuando la necesite."
 
 # game/places/hotel/alice/shelf.rpy:16
 translate spanish room_alice_shelf_987af0ba:
 
     # th "I'll put it to a good use."
-    th "I'll put it to a good use."
-
+    th "Le voy a dar buen uso."

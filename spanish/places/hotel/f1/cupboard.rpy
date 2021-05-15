@@ -4,5 +4,4 @@
 translate spanish room_f1_cupboard_a938a2fd:
 
     # "WiP - will be available in ver. 0.1.6"
-    "WiP - will be available in ver. 0.1.6"
-
+    "WiP - estará disponible en 0.1.6"

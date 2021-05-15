@@ -4,5 +4,4 @@
 translate spanish forge_upgrade_e0592c43:
 
     # "WiP - Cards upgrades coming soon."
-    "WiP - Cards upgrades coming soon."
-
+    "WiP - Mejoras a las cartas vendrán pronto."

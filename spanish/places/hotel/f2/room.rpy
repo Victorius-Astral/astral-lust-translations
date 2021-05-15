@@ -4,5 +4,4 @@
 translate spanish room_hotel_f2_cc506d76:
 
     # "Second floor blocked. In future version you'll be able to rebuild the second floor to make rooms for new girls."
-    "Second floor blocked. In future version you'll be able to rebuild the second floor to make rooms for new girls."
-
+    "Segundo piso bloqueado. En una versión futura, podrás reconstruir el segundo piso para hacer habitaciones para nuevas chicas."
