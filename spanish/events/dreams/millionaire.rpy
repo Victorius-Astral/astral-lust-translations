@@ -4,127 +4,127 @@
 translate spanish d_Millionaire_2_5dd3ff77:
 
     # th "Where is it?"
-    th "Where is it?"
+    th "¿Dónde es ésto?"
 
 # game/events/dreams/millionaire.rpy:14
 translate spanish d_Millionaire_2_122769ff:
 
     # th "I feel like I've been here before."
-    th "I feel like I've been here before."
+    th "Siento que he estado aquí antes."
 
 # game/events/dreams/millionaire.rpy:17
 translate spanish d_Millionaire_2_0611c0b1:
 
     # th "But I can't pinpoint it.."
-    th "But I can't pinpoint it.."
+    th "Pero no puedo precisarlo..."
 
 # game/events/dreams/millionaire.rpy:19
 translate spanish d_Millionaire_2_2b06c187:
 
     # secretary "Sir?"
-    secretary "Sir?"
+    secretary "¿Señor?"
 
 # game/events/dreams/millionaire.rpy:22
 translate spanish d_Millionaire_2_2930e26f:
 
     # me "Yes?"
-    me "Yes?"
+    me "¿Sí?"
 
 # game/events/dreams/millionaire.rpy:23
 translate spanish d_Millionaire_2_3b599bf0:
 
     # secretary "Everything alright?"
-    secretary "Everything alright?"
+    secretary "¿Todo está bien?"
 
 # game/events/dreams/millionaire.rpy:24
 translate spanish d_Millionaire_2_eedc722e:
 
     # me "Yes. What is it?"
-    me "Yes. What is it?"
+    me "Sí. ¿Qué es?"
 
 # game/events/dreams/millionaire.rpy:27
 translate spanish d_Millionaire_2_583e680c:
 
     # secretary "Mr. Aharon has arrived, should I invite him in?"
-    secretary "Mr. Aharon has arrived, should I invite him in?"
+    secretary "El Sr. Aharon ha llegado, ¿Debería invitarlo?"
 
 # game/events/dreams/millionaire.rpy:28
 translate spanish d_Millionaire_2_aa0ea6e3:
 
     # th "Mr. Aharon? Ah, yes! My friend. He helped me start my own company.."
-    th "Mr. Aharon? Ah, yes! My friend. He helped me start my own company.."
+    th "¿Sr. Aharon? Ah, yes! Mi amigo. Me ayudó a empezar mi propia empresa..."
 
 # game/events/dreams/millionaire.rpy:29
 translate spanish d_Millionaire_2_ba54e75b:
 
     # th "How could have I forget him?"
-    th "How could have I forget him?"
+    th "¿Cómo podría olvidarlo?"
 
 # game/events/dreams/millionaire.rpy:37
 translate spanish d_Millionaire_2_47186f78:
 
     # secretary "Of course sir."
-    secretary "Of course sir."
+    secretary "Por supuesto señor."
 
 # game/events/dreams/millionaire.rpy:42
 translate spanish d_Millionaire_2_sec_d4705743:
 
     # secretary "Of course sir, what is it?"
-    secretary "Of course sir, what is it?"
+    secretary "Por supuesto señor, ¿qué es?"
 
 # game/events/dreams/millionaire.rpy:46
 translate spanish d_Millionaire_2_menu1_47186f78:
 
     # secretary "Of course sir."
-    secretary "Of course sir."
+    secretary "Por supuesto señor."
 
 # game/events/dreams/millionaire.rpy:51
 translate spanish d_Millionaire_2_menu1_65e4be4e:
 
     # secretary "I don't understand?"
-    secretary "I don't understand?"
+    secretary "¿No entiendo?"
 
 # game/events/dreams/millionaire.rpy:52
 translate spanish d_Millionaire_2_menu1_8b652184:
 
     # me "What does my company do."
-    me "What does my company do."
+    me "¿Qué hace mi empresa?"
 
 # game/events/dreams/millionaire.rpy:55
 translate spanish d_Millionaire_2_menu1_506533f2:
 
     # secretary "Of course, Hollow Market is an online marketplace, where people can find things needed to survive."
-    secretary "Of course, Hollow Market is an online marketplace, where people can find things needed to survive."
+    secretary "Por supuesto, Mercado Hueco es un mercado en línea, donde la gente puede encontrar lo necesario para sobrevivir."
 
 # game/events/dreams/millionaire.rpy:56
 translate spanish d_Millionaire_2_menu1_5660af82:
 
     # me "{quiet}Hollow market..{/quiet}"
-    me "{quiet}Hollow market..{/quiet}"
+    me "{quiet}Mercado Hueco...{/quiet}"
 
 # game/events/dreams/millionaire.rpy:57
 translate spanish d_Millionaire_2_menu1_5a2eb38b:
 
     # me "What is our revenue?"
-    me "What is our revenue?"
+    me "¿Cómo están nuestros ingresos?"
 
 # game/events/dreams/millionaire.rpy:60
 translate spanish d_Millionaire_2_menu1_5b95dfaa:
 
     # secretary "We are proud, to double company's worth every month."
-    secretary "We are proud, to double company's worth every month."
+    secretary "Estamos orgullosos de duplicar el valor de la empresa cada mes."
 
 # game/events/dreams/millionaire.rpy:61
 translate spanish d_Millionaire_2_menu1_864c009b:
 
     # me "That's some crazy progression."
-    me "That's some crazy progression."
+    me "Éste progreso es una locura."
 
 # game/events/dreams/millionaire.rpy:62
 translate spanish d_Millionaire_2_menu1_241b1113:
 
     # secretary "Indeed sir."
-    secretary "Indeed sir."
+    secretary "Así es señor."
 
 # game/events/dreams/millionaire.rpy:65
 translate spanish d_Millionaire_2_menu1_159a4b42:
@@ -407,4 +407,3 @@ translate spanish strings:
     # game/events/dreams/millionaire.rpy:196
     old "Will I?"
     new "Will I?"
-
