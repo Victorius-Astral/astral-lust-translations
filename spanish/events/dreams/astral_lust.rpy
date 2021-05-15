@@ -4,7 +4,7 @@
 translate spanish d_Astral_Lust_2_2e6a4d69:
 
     # "You open your eyes to find yourself floating in a star filled expanse."
-    "You open your eyes to find yourself floating in a star filled expanse."
+    "Abres los ojos para encontrarte flotando en una extensión llena de estrellas."
 
 # game/events/dreams/astral_lust.rpy:12
 translate spanish d_Astral_Lust_2_5a098037:
@@ -213,4 +213,3 @@ translate spanish strings:
     # game/events/dreams/astral_lust.rpy:30
     old "No, thanks"
     new "No, thanks"
-
