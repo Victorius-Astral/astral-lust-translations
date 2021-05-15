@@ -220,31 +220,31 @@ translate spanish counter_menu_d4781143:
 translate spanish counter_menu_80804fa8:
 
     # "Upgrading it costs 25 Stone and 20 Metal. Do you wish to proceed?"
-    "Upgrading it costs 25 Stone and 20 Metal. Do you wish to proceed?"
+    "Mejorarlo cuesta 25 Piedras y 20 de Metales. ¿Desea continuar?"
 
 # game/places/hotel/lobby/counter.rpy:178
 translate spanish counter_menu_873b9e9f_7:
 
     # "It's too late."
-    "It's too late."
+    "Es demasiado tarde."
 
 # game/places/hotel/lobby/counter.rpy:184
 translate spanish counter_menu_7e88de67_2:
 
     # "Vault was upgraded succesfully."
-    "Vault was upgraded succesfully."
+    "Bóveda mejorada con éxito."
 
 # game/places/hotel/lobby/counter.rpy:189
 translate spanish counter_menu_3688fcdf_7:
 
     # "Insufficient materials!"
-    "Insufficient materials!"
+    "¡Materiales insuficientes!"
 
 # game/places/hotel/lobby/counter.rpy:199
 translate spanish counter_menu_82a0b18b:
 
     # "Build a forge to upgrade rooms."
-    "Build a forge to upgrade rooms."
+    "Construye una forja para mejorar las habitaciones."
 
 translate spanish strings:
 
@@ -291,4 +291,3 @@ translate spanish strings:
     # game/places/hotel/lobby/counter.rpy:125
     old "Vault T4 (25 Stone, 20 Metal)"
     new "Vault T4 (25 Stone, 20 Metal)"
-
