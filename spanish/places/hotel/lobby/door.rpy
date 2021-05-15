@@ -28,13 +28,13 @@ translate spanish room_lobby_door_b73dfa9c:
 translate spanish room_lobby_door_df3b8a27:
 
     # "It's too late for that."
-    "It's too late for that."
+    "Es demasiado tarde para eso."
 
 # game/places/hotel/lobby/door.rpy:39
 translate spanish room_lobby_door_8ee7ff38:
 
     # "You travel carefully through the fog, slowly moving towards Wanderers Hideout."
-    "You travel carefully through the fog, slowly moving towards Wanderers Hideout."
+    "Viajas cuidadosamente a través de la niebla, moviéndote lentamente hacia el Escondite de Errantes."
 
 # game/places/hotel/lobby/door.rpy:48
 translate spanish room_lobby_door_df3b8a27_1:

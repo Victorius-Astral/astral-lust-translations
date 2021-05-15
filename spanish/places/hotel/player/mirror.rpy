@@ -4,43 +4,43 @@
 translate spanish mirror_player_873b9e9f:
 
     # "It's too late."
-    "It's too late."
+    "Es demasiado tarde."
 
 # game/places/hotel/player/mirror.rpy:19
 translate spanish mirror_player_f26693f2:
 
     # "You speak for a few hours."
-    "You speak for a few hours."
+    "Hablas por unas horas."
 
 # game/places/hotel/player/mirror.rpy:23
 translate spanish mirror_player_f26693f2_1:
 
     # "You speak for a few hours."
-    "You speak for a few hours."
+    "Hablas por unas horas."
 
 # game/places/hotel/player/mirror.rpy:28
 translate spanish mirror_player_e94b717b:
 
     # "Your head hurts after stressing out so much today, you need rest."
-    "Your head hurts after stressing out so much today, you need rest."
+    "Tu cabeza duele después de estresarte tanto por hoy, y necesitas descansar."
 
 translate spanish strings:
 
     # game/places/hotel/player/mirror.rpy:9
     old "Train speech"
-    new "Train speech"
+    new "Entrenar habla"
 
     # game/places/hotel/player/mirror.rpy:9
     old "Change petname"
-    new "Change petname"
+    new "Cambiar apodo"
 
     # game/places/hotel/player/mirror.rpy:32
     old "Cat ([cat])"
-    new "Cat ([cat])"
+    new "Gato ([cat])"
 
     # game/places/hotel/player/mirror.rpy:32
     old "Dog ([dog])"
-    new "Dog ([dog])"
+    new "Perro ([dog])"
 
     # game/places/hotel/player/mirror.rpy:32
     old "Lexi ([lexi])"
@@ -57,4 +57,3 @@ translate spanish strings:
     # game/places/hotel/player/mirror.rpy:32
     old "Alice ([alice])"
     new "Alice ([alice])"
-
