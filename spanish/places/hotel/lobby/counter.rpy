@@ -28,7 +28,7 @@ translate spanish counter_menu_a7a005e4:
 translate spanish counter_menu_3688fcdf:
 
     # "Insufficient materials!"
-    "Insufficient materials!"
+    "¡Materiales insuficientes!"
 
 # game/places/hotel/lobby/counter.rpy:29
 translate spanish counter_menu_f159d6e1:
@@ -58,7 +58,7 @@ translate spanish counter_menu_9cb3b5f3:
 translate spanish counter_menu_3688fcdf_1:
 
     # "Insufficient materials!"
-    "Insufficient materials!"
+    "¡Materiales insuficientes!"
 
 # game/places/hotel/lobby/counter.rpy:52
 translate spanish counter_menu_bb87d76d:
@@ -88,7 +88,7 @@ translate spanish counter_menu_cb260629:
 translate spanish counter_menu_3688fcdf_2:
 
     # "Insufficient materials!"
-    "Insufficient materials!"
+    "¡Materiales insuficientes!"
 
 # game/places/hotel/lobby/counter.rpy:75
 translate spanish counter_menu_d8418d2c:
@@ -118,7 +118,7 @@ translate spanish counter_menu_912e68ef:
 translate spanish counter_menu_3688fcdf_3:
 
     # "Insufficient materials!"
-    "Insufficient materials!"
+    "¡Materiales insuficientes!"
 
 # game/places/hotel/lobby/counter.rpy:98
 translate spanish counter_menu_33e305ee:
@@ -148,7 +148,7 @@ translate spanish counter_menu_84de8c4b:
 translate spanish counter_menu_3688fcdf_4:
 
     # "Insufficient materials!"
-    "Insufficient materials!"
+    "¡Materiales insuficientes!"
 
 # game/places/hotel/lobby/counter.rpy:127
 translate spanish counter_menu_6bcc023f:
@@ -178,7 +178,7 @@ translate spanish counter_menu_7e88de67:
 translate spanish counter_menu_3688fcdf_5:
 
     # "Insufficient materials!"
-    "Insufficient materials!"
+    "¡Materiales insuficientes!"
 
 # game/places/hotel/lobby/counter.rpy:150
 translate spanish counter_menu_5f2fcb19:
@@ -208,7 +208,7 @@ translate spanish counter_menu_7e88de67_1:
 translate spanish counter_menu_3688fcdf_6:
 
     # "Insufficient materials!"
-    "Insufficient materials!"
+    "¡Materiales insuficientes!"
 
 # game/places/hotel/lobby/counter.rpy:173
 translate spanish counter_menu_d4781143:
@@ -250,44 +250,44 @@ translate spanish strings:
 
     # game/places/hotel/lobby/counter.rpy:2
     old "Build room"
-    new "Build room"
+    new "Construye habitación"
 
     # game/places/hotel/lobby/counter.rpy:2
     old "Upgrade room"
-    new "Upgrade room"
+    new "Mejora habitación"
 
     # game/places/hotel/lobby/counter.rpy:4
     old "Vault (8 Wood, 8 Stone, 5 Metal)"
-    new "Vault (8 Wood, 8 Stone, 5 Metal)"
+    new "Bóveda (8 Madera, 8 Piedra, 5 Metal)"
 
     # game/places/hotel/lobby/counter.rpy:4
     old "Gym (5 Wood, 4 Stone, 3 Metal, 3 Cloth)"
-    new "Gym (5 Wood, 4 Stone, 3 Metal, 3 Cloth)"
+    new "Gym (5 Madera, 4 Piedra, 3 Metal, 3 Tela)"
 
     # game/places/hotel/lobby/counter.rpy:4
     old "Forge (5 Wood, 5 Stone, 15 Metal, 5 Cloth)"
-    new "Forge (5 Wood, 5 Stone, 15 Metal, 5 Cloth)"
+    new "Forge (5 Madera, 5 Piedra, 15 Metal, 5 Tela)"
 
     # game/places/hotel/lobby/counter.rpy:4
     old "Dungeon (7 Wood, 30 Stone, 10 Metal, 12 Cloth)"
-    new "Dungeon (7 Wood, 30 Stone, 10 Metal, 12 Cloth)"
+    new "Dungeon (7 Madera, 30 Piedra, 10 Metal, 12 Tela)"
 
     # game/places/hotel/lobby/counter.rpy:4
     old "Playroom (16 Wood, 10 Stone, 18 Metal, 20 Cloth)"
-    new "Playroom (16 Wood, 10 Stone, 18 Metal, 20 Cloth)"
+    new "Playroom (16 Madera, 10 Piedra, 18 Metal, 20 Cloth)"
 
     # game/places/hotel/lobby/counter.rpy:8
     old "Build"
-    new "Build"
+    new "Construye"
 
     # game/places/hotel/lobby/counter.rpy:125
     old "Vault T2 (12 Wood, 10 Stone, 7 Metal)"
-    new "Vault T2 (12 Wood, 10 Stone, 7 Metal)"
+    new "Vault T2 (12 Madera, 10 Piedra, 7 Metal)"
 
     # game/places/hotel/lobby/counter.rpy:125
     old "Vault T3 (20 Stone, 10 Metal)"
-    new "Vault T3 (20 Stone, 10 Metal)"
+    new "Vault T3 (20 Piedra, 10 Metal)"
 
     # game/places/hotel/lobby/counter.rpy:125
     old "Vault T4 (25 Stone, 20 Metal)"
-    new "Vault T4 (25 Stone, 20 Metal)"
+    new "Vault T4 (25 Piedra, 20 Metal)"
