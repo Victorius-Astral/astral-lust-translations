@@ -4,13 +4,12 @@ translate spanish strings:
 
     # game/places/hotel/lobby/door2.rpy:2
     old "Forge"
-    new "Forge"
+    new "Forja"
 
     # game/places/hotel/lobby/door2.rpy:2
     old "Dungeon"
-    new "Dungeon"
+    new "Calabozo"
 
     # game/places/hotel/lobby/door2.rpy:2
     old "Vault"
-    new "Vault"
-
+    new "Bóveda"

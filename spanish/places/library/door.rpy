@@ -4,5 +4,4 @@
 translate spanish room_library_door_5ae9413c:
 
     # "Coming soon."
-    "Coming soon."
-
+    "Pronto."
