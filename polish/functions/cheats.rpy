@@ -200,3 +200,17 @@ translate polish v2_win_fbc5fe03:
     # me "Time to go back."
     me "Time to go back."
 
+# TODO: Translation updated at 2021-05-17 12:54
+
+# game/functions/cheats.rpy:97
+translate polish v2_win_a9c3e71e:
+
+    # me "Oh young lady, you overdid it.. Don't you dare to bring {color=#672c2c}Him{/color} into this!"
+    me "Oh young lady, you overdid it.. Don't you dare to bring {color=#672c2c}Him{/color} into this!"
+
+# game/functions/cheats.rpy:150
+translate polish v2_win_61dd3a44:
+
+    # me "How do I even go back?"
+    me "How do I even go back?"
+

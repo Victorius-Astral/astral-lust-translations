@@ -201,3 +201,11 @@ translate polish strings:
     # game/events/dreams/deal_with_the_devil.rpy:97
     old "I won't take your offer"
     new "I won't take your offer"
+# TODO: Translation updated at 2021-05-17 12:54
+
+translate polish strings:
+
+    # game/events/dreams/deal_with_the_devil.rpy:97
+    old "[[Sanity will become 1%%, your deck will reset. Eldritch influence will weaken.]"
+    new "[[Sanity will become 1%%, your deck will reset. Eldritch influence will weaken.]"
+

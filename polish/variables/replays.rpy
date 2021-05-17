@@ -397,3 +397,47 @@ translate polish strings:
     # game/variables/replays.rpy:173
     old "Wanderers"
     new "Wanderers"
+# TODO: Translation updated at 2021-05-17 12:54
+
+translate polish strings:
+
+    # game/variables/replays.rpy:3
+    old "Exploration - Sex Shop"
+    new "Exploration - Sex Shop"
+
+    # game/variables/replays.rpy:56
+    old "First Exploration"
+    new "First Exploration"
+
+    # game/variables/replays.rpy:56
+    old "Exploration - Small House"
+    new "Exploration - Small House"
+
+    # game/variables/replays.rpy:56
+    old "Exploration - Damsel in Distress"
+    new "Exploration - Damsel in Distress"
+
+    # game/variables/replays.rpy:73
+    old "Exploration - Madman"
+    new "Exploration - Madman"
+
+    # game/variables/replays.rpy:73
+    old "Exploration - Library part 1"
+    new "Exploration - Library part 1"
+
+    # game/variables/replays.rpy:73
+    old "Exploration - Library part 2"
+    new "Exploration - Library part 2"
+
+    # game/variables/replays.rpy:154
+    old "Virginity"
+    new "Virginity"
+
+    # game/variables/replays.rpy:163
+    old "Dragon Slayer (Discord)"
+    new "Dragon Slayer (Discord)"
+
+    # game/variables/replays.rpy:167
+    old "Secret"
+    new "Secret"
+

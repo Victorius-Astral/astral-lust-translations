@@ -320,3 +320,27 @@ translate polish strings:
     # game/screens.rpy:605
     old "\nModels made in {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} by {a=http://www.illusion.jp}Illusion{/a}"
     new "\nModele zrobione w {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} od {a=http://www.illusion.jp}Illusion{/a}"
+# TODO: Translation updated at 2021-05-17 12:54
+
+translate polish strings:
+
+    # game/screens.rpy:599
+    old "{color=#DB3A17}\nPR: nickthewolf{/color}"
+    new "{color=#DB3A17}\nPR: nickthewolf{/color}"
+
+    # game/screens.rpy:600
+    old "{color=#c13a3a}\nCommunity: Denker{/color}"
+    new "{color=#c13a3a}\nCommunity: Denker{/color}"
+
+    # game/screens.rpy:602
+    old "{color=#b96d19}\nTranslation: Denker(Spanish), Victorius(Polish){/color}"
+    new "{color=#b96d19}\nTranslation: Denker(Spanish), Victorius(Polish){/color}"
+
+    # game/screens.rpy:607
+    old "\nArt: Niklaus, Victorius{a=https://www.pixabay.com}www.pixabay.com{/a}"
+    new "\nArt: Niklaus, Victorius{a=https://www.pixabay.com}www.pixabay.com{/a}"
+
+    # game/screens.rpy:610
+    old "\n\n{quiet}Legal:\nAstral Lust is the intellectual property of Victorius.\nVictorius can be contacted through Discord (https://discord.gg/rvnBC39USx) or Patreon (https://www.patreon.com/Victorius).\n\n(a) Permission is granted for this material to be shared for non-commercial purposes provided that this statement appears in the reproduced materials.\n(b) You may NOT sell these files or modify these files to sell, either grouped together or separately.\n(c) You may NOT remove or alter the credit of the creator as it is shown here and in the game's files.\n(d) You may redistribute these files (Astral Lust) as Astral Lust for free. Given a credit to the developer (Victorius) is provided.{/quiet}"
+    new "\n\n{quiet}Legal:\nAstral Lust is the intellectual property of Victorius.\nVictorius can be contacted through Discord (https://discord.gg/rvnBC39USx) or Patreon (https://www.patreon.com/Victorius).\n\n(a) Permission is granted for this material to be shared for non-commercial purposes provided that this statement appears in the reproduced materials.\n(b) You may NOT sell these files or modify these files to sell, either grouped together or separately.\n(c) You may NOT remove or alter the credit of the creator as it is shown here and in the game's files.\n(d) You may redistribute these files (Astral Lust) as Astral Lust for free. Given a credit to the developer (Victorius) is provided.{/quiet}"
+
