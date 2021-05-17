@@ -148,7 +148,7 @@ translate spanish d_Millionaire_2_menu1_c9b9573b:
 translate spanish d_Millionaire_2_menu1_fd2499ce:
 
     # secretary "Yes, sir?"
-    secretary ¿Sí, señor?"
+    secretary "¿Sí, señor?"
 
 # game/events/dreams/millionaire.rpy:75
 translate spanish d_Millionaire_2_menu1_ac55955d:
