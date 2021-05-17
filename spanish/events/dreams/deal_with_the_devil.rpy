@@ -97,7 +97,7 @@ translate spanish strings:
     new "Make me lucky [[Reset your deck and lose 40 random attribute points. Gain +2 luck, max 5 purchases]"
 
     # game/events/dreams/deal_with_the_devil.rpy:36
-    old "I want three powerful abilities [[Reset your deck and loose 20 random attribute points. Choose a card from three high rarity choices three times.]"
+    old "I want three powerful abilities [[Reset your deck and lose 20 random attribute points. Choose a card from three high rarity choices three times.]"
     new "I want three powerful abilities [[Reset your deck and loose 20 random attribute points. Choose a card from three high rarity choices three times.]"
 
     # game/events/dreams/deal_with_the_devil.rpy:36
@@ -115,4 +115,3 @@ translate spanish strings:
     # game/events/dreams/deal_with_the_devil.rpy:36
     old "I want nothing from you"
     new "I want nothing from you"
-

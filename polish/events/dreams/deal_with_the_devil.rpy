@@ -97,7 +97,7 @@ translate polish strings:
     new "Make me lucky [[Reset your deck and lose 40 random attribute points. Gain +2 luck, max 5 purchases]"
 
     # game/events/dreams/deal_with_the_devil.rpy:36
-    old "I want three powerful abilities [[Reset your deck and loose 20 random attribute points. Choose a card from three high rarity choices three times.]"
+    old "I want three powerful abilities [[Reset your deck and lose 20 random attribute points. Choose a card from three high rarity choices three times.]"
     new "I want three powerful abilities [[Reset your deck and loose 20 random attribute points. Choose a card from three high rarity choices three times.]"
 
     # game/events/dreams/deal_with_the_devil.rpy:36
@@ -116,3 +116,88 @@ translate polish strings:
     old "I want nothing from you"
     new "I want nothing from you"
 
+# TODO: Translation updated at 2021-05-15 14:21
+
+# game/events/dreams/deal_with_the_devil.rpy:88
+translate polish d_Deal_with_the_Devil_3_menu1_3f9ebed0:
+
+    # devil "I don't want to involve Myself into these games. But I can help you a little."
+    devil "I don't want to involve Myself into these games. But I can help you a little."
+
+# game/events/dreams/deal_with_the_devil.rpy:89
+translate polish d_Deal_with_the_Devil_3_menu1_2fc0e6f2:
+
+    # me "How?"
+    me "How?"
+
+# game/events/dreams/deal_with_the_devil.rpy:90
+translate polish d_Deal_with_the_Devil_3_menu1_fd1dac3b:
+
+    # devil "I'll weaken influence someone has on you."
+    devil "I'll weaken influence someone has on you."
+
+# game/events/dreams/deal_with_the_devil.rpy:91
+translate polish d_Deal_with_the_Devil_3_menu1_273f3d1f:
+
+    # me "Who?!"
+    me "Who?!"
+
+# game/events/dreams/deal_with_the_devil.rpy:92
+translate polish d_Deal_with_the_Devil_3_menu1_dc4cc646:
+
+    # devil "You will know when you need to."
+    devil "You will know when you need to."
+
+# game/events/dreams/deal_with_the_devil.rpy:93
+translate polish d_Deal_with_the_Devil_3_menu1_d7945924:
+
+    # th "What the hell, someone is influencing me and I don't even know?"
+    th "What the hell, someone is influencing me and I don't even know?"
+
+# game/events/dreams/deal_with_the_devil.rpy:94
+translate polish d_Deal_with_the_Devil_3_menu1_65f639db:
+
+    # me "What is the price?"
+    me "What is the price?"
+
+# game/events/dreams/deal_with_the_devil.rpy:95
+translate polish d_Deal_with_the_Devil_3_menu1_ee5e4510:
+
+    # devil "I'll take most of your sanity, and I'll take most of your abilities."
+    devil "I'll take most of your sanity, and I'll take most of your abilities."
+
+# game/events/dreams/deal_with_the_devil.rpy:96
+translate polish d_Deal_with_the_Devil_3_menu1_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/events/dreams/deal_with_the_devil.rpy:105
+translate polish d_Deal_with_the_Devil_3_menu1_9539ab5a:
+
+    # devil "This will give you more time. Check yourself often, as one day He might replace you if you're not careful."
+    devil "This will give you more time. Check yourself often, as one day He might replace you if you're not careful."
+
+# game/events/dreams/deal_with_the_devil.rpy:106
+translate polish d_Deal_with_the_Devil_3_menu1_b5966159:
+
+    # me "What do you mean?!"
+    me "What do you mean?!"
+
+translate polish strings:
+
+    # game/events/dreams/deal_with_the_devil.rpy:36
+    old "I want to be a master of my own destiny"
+    new "I want to be a master of my own destiny"
+
+    # game/events/dreams/deal_with_the_devil.rpy:97
+    old "[[Sanity will become 1%, your deck will reset. Eldritch influence will weaken.]"
+    new "[[Sanity will become 1%, your deck will reset. Eldritch influence will weaken.]"
+
+    # game/events/dreams/deal_with_the_devil.rpy:97
+    old "Deal"
+    new "Deal"
+
+    # game/events/dreams/deal_with_the_devil.rpy:97
+    old "I won't take your offer"
+    new "I won't take your offer"

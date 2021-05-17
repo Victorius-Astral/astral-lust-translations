@@ -4,15 +4,15 @@ translate polish strings:
 
     # game/variables/items.rpy:4
     old "Wood"
-    new "Wood"
+    new "Drewno"
 
     # game/variables/items.rpy:4
     old "Materials"
-    new "Materials"
+    new "Materiały"
 
     # game/variables/items.rpy:4
     old "Stone"
-    new "Stone"
+    new "Kamień"
 
     # game/variables/items.rpy:4
     old "Metal"
@@ -20,137 +20,136 @@ translate polish strings:
 
     # game/variables/items.rpy:4
     old "Cloth"
-    new "Cloth"
+    new "Tkanina"
 
     # game/variables/items.rpy:4
     old "Coal"
-    new "Coal"
+    new "Węgiel"
 
     # game/variables/items.rpy:4
     old "Fur"
-    new "Fur"
+    new "Futro"
 
     # game/variables/items.rpy:4
     old "Bone"
-    new "Bone"
+    new "Kość"
 
     # game/variables/items.rpy:4
     old "Venom"
-    new "Venom"
+    new "Jad"
 
     # game/variables/items.rpy:4
     old "Leather"
-    new "Leather"
+    new "Skóra"
 
     # game/variables/items.rpy:4
     old "Feather"
-    new "Feather"
+    new "Pióro"
 
     # game/variables/items.rpy:4
     old "Carapace"
-    new "Carapace"
+    new "Skorupa"
 
     # game/variables/items.rpy:4
     old "Abyssal Blood"
-    new "Abyssal Blood"
+    new "Krew z Otchłani"
 
     # game/variables/items.rpy:4
     old "Black Bone"
-    new "Black Bone"
+    new "Czarna Kość"
 
     # game/variables/items.rpy:4
     old "Maddened Heart"
-    new "Maddened Heart"
+    new "Oszalałe Serce"
 
     # game/variables/items.rpy:4
     old "Gun Parts"
-    new "Gun Parts"
+    new "Części Broni"
 
     # game/variables/items.rpy:4
     old "Dragon Bone"
-    new "Dragon Bone"
+    new "Smocza Kość"
 
     # game/variables/items.rpy:4
     old "Dragon Scale"
-    new "Dragon Scale"
+    new "Smocza Łuska"
 
     # game/variables/items.rpy:4
     old "Dragon Heart"
-    new "Dragon Heart"
+    new "Smocze Serce"
 
     # game/variables/items.rpy:4
     old "Succubus Wing"
-    new "Succubus Wing"
+    new "Skrzydło Sukuba"
 
     # game/variables/items.rpy:4
     old "Squirming Stomach"
-    new "Squirming Stomach"
+    new "Wijący się Żołądek"
 
     # game/variables/items.rpy:4
     old "Frozen Screams"
-    new "Frozen Screams"
+    new "Zamrożone Krzyki"
 
     # game/variables/items.rpy:4
     old "Orcish Steel"
-    new "Orcish Steel"
+    new "Orcza Stal"
 
     # game/variables/items.rpy:4
     old "Werewolf Heart"
-    new "Werewolf Heart"
+    new "Serce Wilkołaka"
 
     # game/variables/items.rpy:4
     old "Spider Leg"
-    new "Spider Leg"
+    new "Noga Pająka"
 
     # game/variables/items.rpy:4
     old "Commodity"
-    new "Commodity"
+    new "Dobra Handlowe"
 
     # game/variables/items.rpy:4
     old "Ghoul Tooth"
-    new "Ghoul Tooth"
+    new "Ząb Ghula"
 
     # game/variables/items.rpy:4
     old "Sigil of the Black"
-    new "Sigil of the Black"
+    new "Pieczęć Czerni"
 
     # game/variables/items.rpy:4
     old "Mysterious Coin"
-    new "Mysterious Coin"
+    new "Tajemnicza Moneta"
 
     # game/variables/items.rpy:4
     old "Currency"
-    new "Currency"
+    new "Waluty"
 
     # game/variables/items.rpy:4
     old "Cap"
-    new "Cap"
+    new "Kapsel"
 
     # game/variables/items.rpy:4
     old "Gold Bar"
-    new "Gold Bar"
+    new "Sztabka Złota"
 
     # game/variables/items.rpy:4
     old "Gold Nugget"
-    new "Gold Nugget"
+    new "Samorodek Złota"
 
     # game/variables/items.rpy:4
     old "Diamond"
-    new "Diamond"
+    new "Diament"
 
     # game/variables/items.rpy:4
     old "Ice Creams"
-    new "Ice Creams"
+    new "Lody"
 
     # game/variables/items.rpy:4
     old "Quest"
-    new "Quest"
+    new "Zadanie"
 
     # game/variables/items.rpy:4
     old "Rose"
-    new "Rose"
+    new "Róża"
 
     # game/variables/items.rpy:4
     old "Antibiotics"
-    new "Antibiotics"
-
+    new "Antybiotyki"

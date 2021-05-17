@@ -274,7 +274,7 @@ translate polish alice_5_2_9403bafe:
 translate polish alice_5_2_eff848bf:
 
     # "As your tongue dances across her pussy you can feel how terryfingly tight she actually is."
-    "As your tongue dances across her pussy you can feel how terryfingly tight she actually is."
+    "As your tongue dances across her pussy you can feel how zajebiście tight she actually is."
 
 # game/characters/alice/ev_5.rpy:105
 translate polish alice_5_2_5e89a703:
@@ -435,4 +435,3 @@ translate polish strings:
     # game/characters/alice/ev_5.rpy:148
     old "Cuddle with her"
     new "Cuddle with her"
-

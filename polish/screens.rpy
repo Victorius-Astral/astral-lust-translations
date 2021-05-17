@@ -281,3 +281,42 @@ translate polish strings:
     # game/screens.rpy:1405
     old "Menu"
     new "Menu"
+# TODO: Translation updated at 2021-05-15 14:21
+
+translate polish strings:
+
+    # game/screens.rpy:595
+    old "{color=#FF424D}Game can develop thanks to all my Patrons!{/color}"
+    new "{color=#FF424D}Gra może się rozwijać dzięki wszystkim moim Patronom!{/color}"
+
+    # game/screens.rpy:596
+    old "{color=#FF424D}\nHigh tier Patrons:{/color}"
+    new "{color=#FF424D}\nPatroni wysokiej rangi:{/color}"
+
+    # game/screens.rpy:598
+    old "{color=#00ffb6}\nEditor: Strectmar{/color}"
+    new "{color=#00ffb6}\nEdytor: Strectmar{/color}"
+
+    # game/screens.rpy:600
+    old "\n\nMusic: {a=https://www.bensound.com}www.bensound.com{/a}, {a=https://www.zapsplat.com}www.zapsplat.com{/a}"
+    new "\n\nMuzyka: {a=https://www.bensound.com}www.bensound.com{/a}, {a=https://www.zapsplat.com}www.zapsplat.com{/a}"
+
+    # game/screens.rpy:601
+    old "\nSounds: {a=https://www.zapsplat.com}www.zapsplat.com{/a}"
+    new "\nDźwięki: {a=https://www.zapsplat.com}www.zapsplat.com{/a}"
+
+    # game/screens.rpy:602
+    old "\nIcons: {a=https://www.game-icons.net}Lorc, Dealpouite, Guard13007, sbed and Faithtoken (some icons merged with other icons) from Game-icons.net{/a} under {a=https://creativecommons.org/licenses/by/3.0/}CC BY 3.0{/a}, {a=https://www.iconpacks.net}iconpacks.net{/a}, {a=https://www.freepik.com}Freepik{/a} from {a=https://www.flaticon.com/}www.flaticon.com{/a}"
+    new "\nIkony: {a=https://www.game-icons.net}Lorc, Dealpouite, Guard13007, sbed and Faithtoken (niektóre ikony połączone) z Game-icons.net{/a} pod {a=https://creativecommons.org/licenses/by/3.0/}CC BY 3.0{/a}, {a=https://www.iconpacks.net}iconpacks.net{/a}, {a=https://www.freepik.com}Freepik{/a} z {a=https://www.flaticon.com/}www.flaticon.com{/a}"
+
+    # game/screens.rpy:603
+    old "\nArt: Niklaus, Victorius, {a=https://www.pixabay.com}www.pixabay.com{/a}"
+    new "\nGrafika: Niklaus, Victorius, {a=https://www.pixabay.com}www.pixabay.com{/a}"
+
+    # game/screens.rpy:604
+    old "\nCreepypasta: Ashley Rose Wellman (phone calls), Andrew LaBelle (shower), Mycool of The Fear Collective (sleep), Ryan Brennaman (gravedigger)"
+    new "\nCreepypasta: Ashley Rose Wellman (telefony), Andrew LaBelle (prysznic), Mycool of The Fear Collective (sen), Ryan Brennaman (grabarz)"
+
+    # game/screens.rpy:605
+    old "\nModels made in {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} by {a=http://www.illusion.jp}Illusion{/a}"
+    new "\nModele zrobione w {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} od {a=http://www.illusion.jp}Illusion{/a}"

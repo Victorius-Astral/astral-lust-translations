@@ -4,15 +4,15 @@ translate polish strings:
 
     # game/variables/replays.rpy:3
     old "First Impression"
-    new "First Impression"
+    new "Pierwsze Wrażenie"
 
     # game/variables/replays.rpy:3
     old "Teasing"
-    new "Teasing"
+    new "Drażnienie Się"
 
     # game/variables/replays.rpy:3
-    old "Exploration - Sex Shop"
-    new "Exploration - Sex Shop"
+    old "Eksploracja - Sex Shop"
+    new "Eksploracja - Sex Shop"
 
     # game/variables/replays.rpy:3
     old "Returning Favor"
@@ -131,12 +131,12 @@ translate polish strings:
     new "Feet Massage"
 
     # game/variables/replays.rpy:56
-    old "First Exploration"
-    new "First Exploration"
+    old "First Eksploracja"
+    new "First Eksploracja"
 
     # game/variables/replays.rpy:56
-    old "Exploration - Small House"
-    new "Exploration - Small House"
+    old "Eksploracja - Small House"
+    new "Eksploracja - Small House"
 
     # game/variables/replays.rpy:56
     old "Ice Cream for a Kiss"
@@ -151,8 +151,8 @@ translate polish strings:
     new "Café Date part 1"
 
     # game/variables/replays.rpy:56
-    old "Exploration - Damsel in Distress"
-    new "Exploration - Damsel in Distress"
+    old "Eksploracja - Damsel in Distress"
+    new "Eksploracja - Damsel in Distress"
 
     # game/variables/replays.rpy:73
     old "Prologue"
@@ -163,24 +163,24 @@ translate polish strings:
     new "Dream - First Night"
 
     # game/variables/replays.rpy:73
-    old "Exploration - Madman"
-    new "Exploration - Madman"
+    old "Eksploracja - Madman"
+    new "Eksploracja - Madman"
 
     # game/variables/replays.rpy:73
     old "Dream - Purpose part 1"
     new "Dream - Purpose part 1"
 
     # game/variables/replays.rpy:73
-    old "Exploration - Library part 1"
-    new "Exploration - Library part 1"
+    old "Eksploracja - Library part 1"
+    new "Eksploracja - Library part 1"
 
     # game/variables/replays.rpy:73
     old "Dream - Purpose part 2"
     new "Dream - Purpose part 2"
 
     # game/variables/replays.rpy:73
-    old "Exploration - Library part 2"
-    new "Exploration - Library part 2"
+    old "Eksploracja - Library part 2"
+    new "Eksploracja - Library part 2"
 
     # game/variables/replays.rpy:73
     old "Dream - Beginning of Recurring Nightmare"
@@ -291,8 +291,8 @@ translate polish strings:
     new "Found"
 
     # game/variables/replays.rpy:136
-    old "Story - First Exploration"
-    new "Story - First Exploration"
+    old "Story - First Eksploracja"
+    new "Story - First Eksploracja"
 
     # game/variables/replays.rpy:136
     old "Story - Small House"
@@ -397,4 +397,3 @@ translate polish strings:
     # game/variables/replays.rpy:173
     old "Wanderers"
     new "Wanderers"
-

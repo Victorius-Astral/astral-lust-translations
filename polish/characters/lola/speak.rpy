@@ -114,3 +114,11 @@ translate polish strings:
     old "Why do you like sex so much?"
     new "Why do you like sex so much?"
 
+# TODO: Translation updated at 2021-05-15 22:53
+
+translate polish strings:
+
+    # game/characters/lola/speak.rpy:15
+    old "Reversed Pilediver"
+    new "Reversed Pilediver"
+
