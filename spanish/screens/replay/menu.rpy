@@ -4,5 +4,4 @@ translate spanish strings:
 
     # game/screens/replay/menu.rpy:69
     old "--- Locked ---"
-    new "--- Locked ---"
-
+    new "--- Bloqueado ---"

@@ -4,13 +4,12 @@ translate spanish strings:
 
     # game/variables/characters/relations.rpy:1
     old "sister"
-    new "sister"
+    new "hermana"
 
     # game/variables/characters/relations.rpy:2
     old "sis"
-    new "sis"
+    new "hermana"
 
     # game/variables/characters/relations.rpy:5
     old "Master"
-    new "Master"
-
+    new "Amo"
