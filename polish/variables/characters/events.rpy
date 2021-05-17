@@ -4,41 +4,40 @@ translate polish strings:
 
     # game/variables/characters/events.rpy:1
     old "Madman"
-    new "Madman"
+    new "Szaleniec"
 
     # game/variables/characters/events.rpy:2
     old "Cultist"
-    new "Cultist"
+    new "Kultysta"
 
     # game/variables/characters/events.rpy:3
     old "Bandit"
-    new "Bandit"
+    new "Bandyta"
 
     # game/variables/characters/events.rpy:4
     old "Bandit Leader"
-    new "Bandit Leader"
+    new "Przywódca Bandytów"
 
     # game/variables/characters/events.rpy:5
     old "Scavenger"
-    new "Scavenger"
+    new "Szabrownik"
 
     # game/variables/characters/events.rpy:6
     old "Scavenger Girl"
-    new "Scavenger Girl"
+    new "Szabrowniczka"
 
     # game/variables/characters/events.rpy:7
     old "Girl"
-    new "Girl"
+    new "Dziewczyna"
 
     # game/variables/characters/events.rpy:9
     old "Orc"
-    new "Orc"
+    new "Ork"
 
     # game/variables/characters/events.rpy:10
     old "Woman"
-    new "Woman"
+    new "Kobieta"
 
     # game/variables/characters/events.rpy:11
     old "Man"
-    new "Man"
-
+    new "Mężczyzna"

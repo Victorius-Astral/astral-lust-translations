@@ -4,47 +4,47 @@ translate polish strings:
 
     # game/variables/help.rpy:3
     old "{gold}{big}Congratulations! You've caught your first succubus!{/big}{/gold}\n"
-    new "{gold}{big}Congratulations! You've caught your first succubus!{/big}{/gold}\n"
+    new "{gold}{big}Gratulacje! Złapałeś swojego pierwszego sukuba!{/big}{/gold}\n"
 
     # game/variables/help.rpy:3
     old "You can visit her in the dungeon. Her lust will be increasing everyday, all pets need attention, she's no different."
-    new "You can visit her in the dungeon. Her lust will be increasing everyday, all pets need attention, she's no different."
+    new "Możesz ją odwiedzić w lochach. Jej pożądanie będzie rosnąc każdego dnia, wszystkie zwierzaki potrzebują troski, ona nie jest inna."
 
     # game/variables/help.rpy:3
     old "Play with her, or wait for her lust to reach the critical point.. What will she do once her lust goes over the roof?"
-    new "Play with her, or wait for her lust to reach the critical point.. What will she do once her lust goes over the roof?"
+    new "Baw się z nią lub czekaj, aż jej pożądanie osiągnie punkt krytyczny.. Co zrobi gdy będzie napalona poza skalę?"
 
     # game/variables/help.rpy:3
     old "{lust}Will she run? Will she cheat on you? I know, but you don't have this privilege. Do you have the balls to check?{/lust}"
-    new "{lust}Will she run? Will she cheat on you? I know, but you don't have this privilege. Do you have the balls to check?{/lust}"
+    new "{lust}Ucieknie? Zacznie Cię zdradzać? Ja wiem, ale ty nie masz tego przywileju. Masz jaja to sprawdzić?{/lust}"
 
     # game/variables/help.rpy:3
     old "1. You can view help by pressing 'Q'. As you play, you'll unlock new tutorials."
-    new "1. You can view help by pressing 'Q'. As you play, you'll unlock new tutorials."
+    new "1. Możesz zobaczyć Pomoc naciskając 'Q'. W trakcie rozgrywki będziesz odblokowywał nowe samouczki."
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}2. Not all dangers can be overcome at the beginning. Hide and run.{/color}"
-    new "{color=#45B6FE}2. Not all dangers can be overcome at the beginning. Hide and run.{/color}"
+    new "{color=#45B6FE}2. Nie będziesz w stanie przezwyciężyć wszystkich niebezpieczeństw na początku. Chowaj się i uciekaj.{/color}"
 
     # game/variables/help.rpy:3
     old "3. In this broken world idiom \"curiosity killed a cat\" is something you should take to heart."
-    new "3. In this broken world idiom \"curiosity killed a cat\" is something you should take to heart."
+    new "3. W tym zepsutym świecie, powiedzenie \"ciekawość zabiła kota\" jest czymś co powinieneś wziąć do serca."
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}4. Help Lexi to unlock exploration.{/color}"
-    new "{color=#45B6FE}4. Help Lexi to unlock exploration.{/color}"
+    new "{color=#45B6FE}4. Pomóż Lexi, aby odblokować eksplorację.{/color}"
 
     # game/variables/help.rpy:3
     old "5. Menus can be displayed either by keys 1-6 or by expanding the menu in top right corner."
-    new "5. Menus can be displayed either by keys 1-6 or by expanding the menu in top right corner."
+    new "5. Menu można wyświetlić zarówno przyciskami '1-6' lub rozwijając menu w prawym górnym rogu."
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}6. If you are stuck check out the journal (key '5') for tips.{/color}"
-    new "{color=#45B6FE}6. If you are stuck check out the journal (key '5') for tips.{/color}"
+    new "{color=#45B6FE}6. Jeśli nie wiesz co robić dalej, sprawdź notatnik (przycisk '5') po podpowiedzi.{/color}"
 
     # game/variables/help.rpy:3
     old "7. To start girls events, you need to either talk to them or to be in a right place at the right time."
-    new "7. To start girls events, you need to either talk to them or to be in a right place at the right time."
+    new "7. Aby rozpocząć zdarzenie fabularne dziewczyn musisz albo z nią porozmawiać, albo być w odpowiednim miejscu o odpowiednim czasie."
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}8. Some events have other conditions like having other girl affection above some value.{/color}"
@@ -301,4 +301,3 @@ translate polish strings:
     # game/variables/help.rpy:3
     old "{gold}Remember, raising your stats can increase your combat ability severely!{/gold}"
     new "{gold}Remember, raising your stats can increase your combat ability severely!{/gold}"
-

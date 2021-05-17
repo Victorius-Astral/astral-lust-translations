@@ -8,9 +8,8 @@ translate polish strings:
 
     # game/variables/characters/dreams.rpy:2
     old "Devil"
-    new "Devil"
+    new "Diabeł"
 
     # game/variables/characters/dreams.rpy:3
     old "Secretary"
-    new "Secretary"
-
+    new "Sekretarka"

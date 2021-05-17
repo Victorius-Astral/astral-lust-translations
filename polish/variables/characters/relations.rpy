@@ -4,13 +4,12 @@ translate polish strings:
 
     # game/variables/characters/relations.rpy:1
     old "sister"
-    new "sister"
+    new "siostra"
 
     # game/variables/characters/relations.rpy:2
     old "sis"
-    new "sis"
+    new "siostrzyczka"
 
     # game/variables/characters/relations.rpy:5
     old "Master"
-    new "Master"
-
+    new "Panie"
