@@ -218,3 +218,15 @@ translate spanish strings:
     old "I should ask her about her powers."
     new "I should ask her about her powers."
 
+# TODO: Translation updated at 2021-05-17 12:56
+
+translate spanish strings:
+
+    # game/variables/tips.rpy:4
+    old "Maybe someone will notice me if I travel often?"
+    new "Maybe someone will notice me if I travel often?"
+
+    # game/variables/tips.rpy:4
+    old "I should talk with her, didn't have a chance last time."
+    new "I should talk with her, didn't have a chance last time."
+

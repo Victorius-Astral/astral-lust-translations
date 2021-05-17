@@ -281,3 +281,63 @@ translate spanish strings:
     # game/screens.rpy:1405
     old "Menu"
     new "Menu"
+# TODO: Translation updated at 2021-05-17 12:56
+
+translate spanish strings:
+
+    # game/screens.rpy:256
+    old "Q.Save"
+    new "Q.Save"
+
+    # game/screens.rpy:595
+    old "{color=#FF424D}Game can develop thanks to all my Patrons!{/color}"
+    new "{color=#FF424D}Game can develop thanks to all my Patrons!{/color}"
+
+    # game/screens.rpy:596
+    old "{color=#FF424D}\nHigh tier Patrons:{/color}"
+    new "{color=#FF424D}\nHigh tier Patrons:{/color}"
+
+    # game/screens.rpy:598
+    old "{color=#00ffb6}\nEditor: Strectmar{/color}"
+    new "{color=#00ffb6}\nEditor: Strectmar{/color}"
+
+    # game/screens.rpy:599
+    old "{color=#DB3A17}\nPR: nickthewolf{/color}"
+    new "{color=#DB3A17}\nPR: nickthewolf{/color}"
+
+    # game/screens.rpy:600
+    old "{color=#c13a3a}\nCommunity: Denker{/color}"
+    new "{color=#c13a3a}\nCommunity: Denker{/color}"
+
+    # game/screens.rpy:602
+    old "{color=#b96d19}\nTranslation: Denker(Spanish), Victorius(Polish){/color}"
+    new "{color=#b96d19}\nTranslation: Denker(Spanish), Victorius(Polish){/color}"
+
+    # game/screens.rpy:604
+    old "\n\nMusic: {a=https://www.bensound.com}www.bensound.com{/a}, {a=https://www.zapsplat.com}www.zapsplat.com{/a}"
+    new "\n\nMusic: {a=https://www.bensound.com}www.bensound.com{/a}, {a=https://www.zapsplat.com}www.zapsplat.com{/a}"
+
+    # game/screens.rpy:605
+    old "\nSounds: {a=https://www.zapsplat.com}www.zapsplat.com{/a}"
+    new "\nSounds: {a=https://www.zapsplat.com}www.zapsplat.com{/a}"
+
+    # game/screens.rpy:606
+    old "\nIcons: {a=https://www.game-icons.net}Lorc, Dealpouite, Guard13007, sbed and Faithtoken (some icons merged with other icons) from Game-icons.net{/a} under {a=https://creativecommons.org/licenses/by/3.0/}CC BY 3.0{/a}, {a=https://www.iconpacks.net}iconpacks.net{/a}, {a=https://www.freepik.com}Freepik{/a} from {a=https://www.flaticon.com/}www.flaticon.com{/a}"
+    new "\nIcons: {a=https://www.game-icons.net}Lorc, Dealpouite, Guard13007, sbed and Faithtoken (some icons merged with other icons) from Game-icons.net{/a} under {a=https://creativecommons.org/licenses/by/3.0/}CC BY 3.0{/a}, {a=https://www.iconpacks.net}iconpacks.net{/a}, {a=https://www.freepik.com}Freepik{/a} from {a=https://www.flaticon.com/}www.flaticon.com{/a}"
+
+    # game/screens.rpy:607
+    old "\nArt: Niklaus, Victorius{a=https://www.pixabay.com}www.pixabay.com{/a}"
+    new "\nArt: Niklaus, Victorius{a=https://www.pixabay.com}www.pixabay.com{/a}"
+
+    # game/screens.rpy:608
+    old "\nCreepypasta: Ashley Rose Wellman (phone calls), Andrew LaBelle (shower), Mycool of The Fear Collective (sleep), Ryan Brennaman (gravedigger)"
+    new "\nCreepypasta: Ashley Rose Wellman (phone calls), Andrew LaBelle (shower), Mycool of The Fear Collective (sleep), Ryan Brennaman (gravedigger)"
+
+    # game/screens.rpy:609
+    old "\nModels made in {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} by {a=http://www.illusion.jp}Illusion{/a}"
+    new "\nModels made in {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} by {a=http://www.illusion.jp}Illusion{/a}"
+
+    # game/screens.rpy:610
+    old "\n\n{quiet}Legal:\nAstral Lust is the intellectual property of Victorius.\nVictorius can be contacted through Discord (https://discord.gg/rvnBC39USx) or Patreon (https://www.patreon.com/Victorius).\n\n(a) Permission is granted for this material to be shared for non-commercial purposes provided that this statement appears in the reproduced materials.\n(b) You may NOT sell these files or modify these files to sell, either grouped together or separately.\n(c) You may NOT remove or alter the credit of the creator as it is shown here and in the game's files.\n(d) You may redistribute these files (Astral Lust) as Astral Lust for free. Given a credit to the developer (Victorius) is provided.{/quiet}"
+    new "\n\n{quiet}Legal:\nAstral Lust is the intellectual property of Victorius.\nVictorius can be contacted through Discord (https://discord.gg/rvnBC39USx) or Patreon (https://www.patreon.com/Victorius).\n\n(a) Permission is granted for this material to be shared for non-commercial purposes provided that this statement appears in the reproduced materials.\n(b) You may NOT sell these files or modify these files to sell, either grouped together or separately.\n(c) You may NOT remove or alter the credit of the creator as it is shown here and in the game's files.\n(d) You may redistribute these files (Astral Lust) as Astral Lust for free. Given a credit to the developer (Victorius) is provided.{/quiet}"
+

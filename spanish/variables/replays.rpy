@@ -398,3 +398,19 @@ translate spanish strings:
     old "Wanderers"
     new "Wanderers"
 
+# TODO: Translation updated at 2021-05-17 12:56
+
+translate spanish strings:
+
+    # game/variables/replays.rpy:154
+    old "Virginity"
+    new "Virginity"
+
+    # game/variables/replays.rpy:163
+    old "Dragon Slayer (Discord)"
+    new "Dragon Slayer (Discord)"
+
+    # game/variables/replays.rpy:167
+    old "Secret"
+    new "Secret"
+

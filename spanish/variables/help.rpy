@@ -286,3 +286,19 @@ translate spanish strings:
     old "From time to time you can meet Mysterious Trader at the library, offering tarot cards for special coins."
     new "From time to time you can meet Mysterious Trader at the library, offering tarot cards for special coins."
 
+# TODO: Translation updated at 2021-05-17 12:56
+
+translate spanish strings:
+
+    # game/variables/help.rpy:3
+    old "This is character menu, here you can check your state. Most of stats find their use, most can help in combat, many can help you to unlock additional content, by making successful checks."
+    new "This is character menu, here you can check your state. Most of stats find their use, most can help in combat, many can help you to unlock additional content, by making successful checks."
+
+    # game/variables/help.rpy:3
+    old "You can check what any given thing do, just hover over it, and tooltip explaining this stat will appear."
+    new "You can check what any given thing do, just hover over it, and tooltip explaining this stat will appear."
+
+    # game/variables/help.rpy:3
+    old "{gold}Remember, raising your stats can increase your combat ability severely!{/gold}"
+    new "{gold}Remember, raising your stats can increase your combat ability severely!{/gold}"
+
