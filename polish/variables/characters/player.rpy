@@ -4,5 +4,4 @@ translate polish strings:
 
     # game/variables/characters/player.rpy:4
     old "Thoughts"
-    new "Thoughts"
-
+    new "Myśli"

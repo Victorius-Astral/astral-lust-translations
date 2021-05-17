@@ -11,20 +11,16 @@ translate polish strings:
     new "Drażnienie Się"
 
     # game/variables/replays.rpy:3
-    old "Eksploracja - Sex Shop"
-    new "Eksploracja - Sex Shop"
-
-    # game/variables/replays.rpy:3
     old "Returning Favor"
-    new "Returning Favor"
+    new "Zwrot Przysługi"
 
     # game/variables/replays.rpy:3
     old "Taste of a Good Girl"
-    new "Taste of a Good Girl"
+    new "Smak Dobrej Dziewczynki"
 
     # game/variables/replays.rpy:3
     old "Training"
-    new "Training"
+    new "Trening"
 
     # game/variables/replays.rpy:3
     old "Q&A"
@@ -32,251 +28,211 @@ translate polish strings:
 
     # game/variables/replays.rpy:3
     old "Bathroom Friend"
-    new "Bathroom Friend"
+    new "Łazienkowy Przyjaciel"
 
     # game/variables/replays.rpy:3
     old "Sick Alice"
-    new "Sick Alice"
+    new "Chora Alice"
 
     # game/variables/replays.rpy:3
     old "First Time"
-    new "First Time"
+    new "Pierwszy Raz"
 
     # game/variables/replays.rpy:3
     old "Talk about outfits"
-    new "Talk about outfits"
+    new "Rozmowa o Strojach"
 
     # game/variables/replays.rpy:3
     old "Night Cuddler"
-    new "Night Cuddler"
+    new "Nocny Przytulacz"
 
     # game/variables/replays.rpy:3
     old "Shower"
-    new "Shower"
+    new "Prysznic"
 
     # game/variables/replays.rpy:3
     old "Pee"
-    new "Pee"
+    new "Sikanie"
 
     # game/variables/replays.rpy:3
     old "Wakeup Blowjob"
-    new "Wakeup Blowjob"
+    new "Poranny Lodzik"
 
     # game/variables/replays.rpy:3
     old "Wakeup Sex"
-    new "Wakeup Sex"
+    new "Poranny Seks"
 
     # game/variables/replays.rpy:32
     old "Questionnaire"
-    new "Questionnaire"
+    new "Kwestionariusz"
 
     # game/variables/replays.rpy:32
     old "Birthday Gift part 1"
-    new "Birthday Gift part 1"
+    new "Prezent Urodzinowy część 1"
 
     # game/variables/replays.rpy:32
     old "Peeking Tom"
-    new "Peeking Tom"
+    new "Podglądacz"
 
     # game/variables/replays.rpy:32
     old "Good Ol' Bottle"
-    new "Good Ol' Bottle"
+    new "Stara Dobra Butelka"
 
     # game/variables/replays.rpy:32
     old "Birthday Gift part 2"
-    new "Birthday Gift part 2"
+    new "Prezent Urodzinowy część 2"
 
     # game/variables/replays.rpy:32
     old "Aftermath"
-    new "Aftermath"
+    new "Następstwa"
 
     # game/variables/replays.rpy:32
     old "Bed Talk"
-    new "Bed Talk"
+    new "Rozmowa w Łóżku"
 
     # game/variables/replays.rpy:32
     old "Concerned Friend"
-    new "Concerned Friend"
+    new "Zmartwiona Przyjaciółka"
 
     # game/variables/replays.rpy:32
     old "Sleepover"
-    new "Sleepover"
+    new "Nocowanie"
 
     # game/variables/replays.rpy:32
     old "Proposal"
-    new "Proposal"
+    new "Oświadczyny"
 
     # game/variables/replays.rpy:32
     old "Café Date part 2"
-    new "Café Date part 2"
+    new "Randka w Kawiarence część 2"
 
     # game/variables/replays.rpy:32
     old "What Happened?"
-    new "What Happened?"
+    new "Do się stało?"
 
     # game/variables/replays.rpy:32
     old "Sofa Stories part 1"
-    new "Sofa Stories part 1"
+    new "Opowieści z Kanapy część 1"
 
     # game/variables/replays.rpy:32
     old "Sofa Stories part 2"
-    new "Sofa Stories part 2"
+    new "Opowieści z Kanapy część 2"
 
     # game/variables/replays.rpy:32
     old "Drunken Night"
-    new "Drunken Night"
+    new "Pijacka Noc"
 
     # game/variables/replays.rpy:32
     old "Feet Massage"
-    new "Feet Massage"
-
-    # game/variables/replays.rpy:56
-    old "First Eksploracja"
-    new "First Eksploracja"
-
-    # game/variables/replays.rpy:56
-    old "Eksploracja - Small House"
-    new "Eksploracja - Small House"
+    new "Masaż Stóp"
 
     # game/variables/replays.rpy:56
     old "Ice Cream for a Kiss"
-    new "Ice Cream for a Kiss"
+    new "Lody za Całusa"
 
     # game/variables/replays.rpy:56
     old "Unrestful Night"
-    new "Unrestful Night"
+    new "Niespokojna Noc"
 
     # game/variables/replays.rpy:56
     old "Café Date part 1"
-    new "Café Date part 1"
-
-    # game/variables/replays.rpy:56
-    old "Eksploracja - Damsel in Distress"
-    new "Eksploracja - Damsel in Distress"
+    new "Randka w Kawiarence część 1"
 
     # game/variables/replays.rpy:73
     old "Prologue"
-    new "Prologue"
+    new "Prolog"
 
     # game/variables/replays.rpy:73
     old "Dream - First Night"
-    new "Dream - First Night"
-
-    # game/variables/replays.rpy:73
-    old "Eksploracja - Madman"
-    new "Eksploracja - Madman"
+    new "Sen - Pierwsza Noc"
 
     # game/variables/replays.rpy:73
     old "Dream - Purpose part 1"
-    new "Dream - Purpose part 1"
-
-    # game/variables/replays.rpy:73
-    old "Eksploracja - Library part 1"
-    new "Eksploracja - Library part 1"
+    new "Sen - Cel część 1"
 
     # game/variables/replays.rpy:73
     old "Dream - Purpose part 2"
-    new "Dream - Purpose part 2"
-
-    # game/variables/replays.rpy:73
-    old "Eksploracja - Library part 2"
-    new "Eksploracja - Library part 2"
+    new "Sen - Cel część 2"
 
     # game/variables/replays.rpy:73
     old "Dream - Beginning of Recurring Nightmare"
-    new "Dream - Beginning of Recurring Nightmare"
+    new "Sen - Początek Powracającego Koszmaru"
 
     # game/variables/replays.rpy:73
     old "Meeting Aharon"
-    new "Meeting Aharon"
+    new "Pierwsze Spotkanie z Aharonem"
 
     # game/variables/replays.rpy:73
     old "At the Library Again"
-    new "At the Library Again"
+    new "Z Powrotem w Bibliotece"
 
     # game/variables/replays.rpy:88
     old "First Meeting"
-    new "First Meeting"
+    new "Pierwsze Spotkanie"
 
     # game/variables/replays.rpy:88
     old "Flowers part 1"
-    new "Flowers part 1"
+    new "Kwiaty część 1"
 
     # game/variables/replays.rpy:88
     old "Longing"
-    new "Longing"
+    new "Tęsknota"
 
     # game/variables/replays.rpy:88
     old "Flowers part 2"
-    new "Flowers part 2"
+    new "Kwiaty część 2"
 
     # game/variables/replays.rpy:88
     old "Flowers part 3"
-    new "Flowers part 3"
+    new "Kwiaty część 3"
 
     # game/variables/replays.rpy:88
     old "Dinner with Grace"
-    new "Dinner with Grace"
+    new "Obiad z Grace"
 
     # game/variables/replays.rpy:88
     old "Flowers part 4"
-    new "Flowers part 4"
+    new "Kwiaty część 4"
 
     # game/variables/replays.rpy:88
     old "Dinner with Alice & Grace"
-    new "Dinner with Alice & Grace"
+    new "Obiad Z Alice & Grace"
 
     # game/variables/replays.rpy:88
     old "Bath"
-    new "Bath"
+    new "Kąpiel"
 
     # game/variables/replays.rpy:107
     old "Curiosity"
-    new "Curiosity"
+    new "Ciekawość"
 
     # game/variables/replays.rpy:107
     old "Experiment part 1"
-    new "Experiment part 1"
+    new "Eksperyment część 1"
 
     # game/variables/replays.rpy:107
     old "Her Powers"
-    new "Her Powers"
-
-    # game/variables/replays.rpy:113
-    old "Story - First Night"
-    new "Story - First Night"
-
-    # game/variables/replays.rpy:113
-    old "Story - Purpose part 1"
-    new "Story - Purpose part 1"
-
-    # game/variables/replays.rpy:113
-    old "Story - Purpose part 2"
-    new "Story - Purpose part 2"
-
-    # game/variables/replays.rpy:113
-    old "Story - Beginning of Recurring Nightmare"
-    new "Story - Beginning of Recurring Nightmare"
+    new "Jej Moce"
 
     # game/variables/replays.rpy:113
     old "Recurring Nightmare"
-    new "Recurring Nightmare"
+    new "Powracający Koszmar"
 
     # game/variables/replays.rpy:113
     old "Darkness"
-    new "Darkness"
+    new "Ciemność"
 
     # game/variables/replays.rpy:113
     old "Light"
-    new "Light"
+    new "Światłość"
 
     # game/variables/replays.rpy:113
     old "Deal with the Devil"
-    new "Deal with the Devil"
+    new "Umowa z Diabłem"
 
     # game/variables/replays.rpy:113
     old "First Love"
-    new "First Love"
+    new "Pierwsza Miłość"
 
     # game/variables/replays.rpy:113
     old "Dekesha"
@@ -284,79 +240,51 @@ translate polish strings:
 
     # game/variables/replays.rpy:113
     old "Millionaire"
-    new "Millionaire"
+    new "Milioner"
 
     # game/variables/replays.rpy:128
     old "Found"
-    new "Found"
-
-    # game/variables/replays.rpy:136
-    old "Story - First Eksploracja"
-    new "Story - First Eksploracja"
-
-    # game/variables/replays.rpy:136
-    old "Story - Small House"
-    new "Story - Small House"
-
-    # game/variables/replays.rpy:136
-    old "Story - Damsel in Distress"
-    new "Story - Damsel in Distress"
-
-    # game/variables/replays.rpy:136
-    old "Story - Sex Shop"
-    new "Story - Sex Shop"
-
-    # game/variables/replays.rpy:136
-    old "Story - Madman"
-    new "Story - Madman"
-
-    # game/variables/replays.rpy:136
-    old "Story - Library part 1"
-    new "Story - Library part 1"
-
-    # game/variables/replays.rpy:136
-    old "Story - Library part 2"
-    new "Story - Library part 2"
+    new "Znaleziony"
 
     # game/variables/replays.rpy:136
     old "Bandits Rape"
-    new "Bandits Rape"
+    new "Gwałt Bandytów"
 
     # game/variables/replays.rpy:136
     old "Bandits - Guns"
-    new "Bandits - Guns"
+    new "Bandyci - Broń Palna"
 
     # game/variables/replays.rpy:136
     old "Bandits - Melee"
-    new "Bandits - Melee"
+    new "Bandyci - Broń Biała"
 
     # game/variables/replays.rpy:136
     old "Car"
-    new "Car"
+    new "Samochód"
 
     # game/variables/replays.rpy:136
     old "Cat"
-    new "Cat"
+    new "Kot"
 
     # game/variables/replays.rpy:136
     old "Crying Horror"
-    new "Crying Horror"
+    new "Płacząca Zgroza"
 
     # game/variables/replays.rpy:136
     old "Dog"
-    new "Dog"
+    new "Pies"
 
     # game/variables/replays.rpy:136
     old "Intact House"
-    new "Intact House"
+    new "Nienaruszony Dom"
 
     # game/variables/replays.rpy:136
     old "Market"
-    new "Market"
+    new "Supermarket"
 
     # game/variables/replays.rpy:136
     old "Orcs' Slaves"
-    new "Orcs' Slaves"
+    new "Niewolnicy Orków"
 
     # game/variables/replays.rpy:136
     old "Chimera"
@@ -364,19 +292,19 @@ translate polish strings:
 
     # game/variables/replays.rpy:136
     old "Roars in the Sky"
-    new "Roars in the Sky"
+    new "Ryki w Niebiosach"
 
     # game/variables/replays.rpy:136
     old "Wandering Trader"
-    new "Wandering Trader"
+    new "Wędrowny Handlarz"
 
     # game/variables/replays.rpy:136
     old "Warehouse"
-    new "Warehouse"
+    new "Magazyn"
 
     # game/variables/replays.rpy:161
     old "Found Hideout"
-    new "Found Hideout"
+    new "Znaleziono Kryjówkę"
 
     # game/variables/replays.rpy:169
     old "Pyjamas Party"
@@ -384,7 +312,7 @@ translate polish strings:
 
     # game/variables/replays.rpy:173
     old "Main Story"
-    new "Main Story"
+    new "Fabuła Główna"
 
     # game/variables/replays.rpy:173
     old "Lola"
@@ -392,52 +320,51 @@ translate polish strings:
 
     # game/variables/replays.rpy:173
     old "Activities"
-    new "Activities"
+    new "Aktywności"
 
     # game/variables/replays.rpy:173
     old "Wanderers"
-    new "Wanderers"
+    new "Wędrowcy"
 # TODO: Translation updated at 2021-05-17 12:54
 
 translate polish strings:
 
     # game/variables/replays.rpy:3
     old "Exploration - Sex Shop"
-    new "Exploration - Sex Shop"
+    new "Eksploracja - Sex Shop"
 
     # game/variables/replays.rpy:56
     old "First Exploration"
-    new "First Exploration"
+    new "Pierwsza Eksploracja"
 
     # game/variables/replays.rpy:56
     old "Exploration - Small House"
-    new "Exploration - Small House"
+    new "Eksploracja - Mały Dom"
 
     # game/variables/replays.rpy:56
     old "Exploration - Damsel in Distress"
-    new "Exploration - Damsel in Distress"
+    new "Eksploracja - Dama w Opałach"
 
     # game/variables/replays.rpy:73
     old "Exploration - Madman"
-    new "Exploration - Madman"
+    new "Eksploracja - Szaleniec"
 
     # game/variables/replays.rpy:73
     old "Exploration - Library part 1"
-    new "Exploration - Library part 1"
+    new "Eksploracja - Biblioteka część 1"
 
     # game/variables/replays.rpy:73
     old "Exploration - Library part 2"
-    new "Exploration - Library part 2"
+    new "Eksploracja - Biblioteka część 2"
 
     # game/variables/replays.rpy:154
     old "Virginity"
-    new "Virginity"
+    new "Dziewictwo"
 
     # game/variables/replays.rpy:163
     old "Dragon Slayer (Discord)"
-    new "Dragon Slayer (Discord)"
+    new "Zabójca Smoków (Discord)"
 
     # game/variables/replays.rpy:167
     old "Secret"
-    new "Secret"
-
+    new "Sekrety"

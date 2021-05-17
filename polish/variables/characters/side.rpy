@@ -12,5 +12,4 @@ translate polish strings:
 
     # game/variables/characters/side.rpy:15
     old "Governor"
-    new "Governor"
-
+    new "Zarządca"

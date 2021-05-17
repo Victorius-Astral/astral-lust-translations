@@ -105,6 +105,6 @@ translate spanish wc_grace_hate_16d4093b:
 translate spanish strings:
 
     # game/characters/grace/wc.rpy:5
-    old "Return quietely"
-    new "Return quietely"
+    old "Return quietly"
+    new "Return quietly"
 
