@@ -439,6 +439,5 @@ translate polish strings:
     new "Are you human?"
 
     # game/characters/kiara/speak.rpy:45
-    old "How does this teleportation works?"
-    new "How does this teleportation works?"
-
+    old "How does this teleportation work?"
+    new "How does this teleportation work?"

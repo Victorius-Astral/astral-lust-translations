@@ -285,10 +285,6 @@ translate spanish strings:
 
 translate spanish strings:
 
-    # game/screens.rpy:256
-    old "Q.Save"
-    new "Q.Save"
-
     # game/screens.rpy:595
     old "{color=#FF424D}Game can develop thanks to all my Patrons!{/color}"
     new "{color=#FF424D}Game can develop thanks to all my Patrons!{/color}"
