@@ -67,8 +67,8 @@ translate polish strings:
     new "{color=#45B6FE}12. Game in its current version is unbalanced, use this to your advantage to prepare for future releases.{/color}"
 
     # game/variables/help.rpy:3
-    old "13. If sanity reaches 0% or corruption 100% it's game over, be careful."
-    new "13. If sanity reaches 0% or corruption 100% it's game over, be careful."
+    old "13. If sanity reaches 0%% or corruption 100% it's game over, be careful."
+    new "13. If sanity reaches 0%% or corruption 100% it's game over, be careful."
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}14. You can find collectibles to unlock additional pictures on pc. Look for golden condoms and condom packs.{/color}"
@@ -295,9 +295,9 @@ translate polish strings:
     new "This is character menu, here you can check your state. Most of stats find their use, most can help in combat, many can help you to unlock additional content, by making successful checks."
 
     # game/variables/help.rpy:3
-    old "You can check what any given thing do, just hover over it, and tooltip explaining this stat will appear."
+    old "You can check what any given thing does, just hover over it, and tooltip explaining this stat will appear."
     new "You can check what any given thing do, just hover over it, and tooltip explaining this stat will appear."
 
     # game/variables/help.rpy:3
-    old "{gold}Remember, raising your stats can increase your combat ability severely!{/gold}"
-    new "{gold}Remember, raising your stats can increase your combat ability severely!{/gold}"
+    old "{gold}Remember, raising your stats can increase your combat ability dramatically!{/gold}"
+    new "{gold}Remember, raising your stats can increase your combat ability dramatically!{/gold}"
