@@ -4,37 +4,36 @@ translate spanish strings:
 
     # game/screens/settings/sound.rpy:8
     old "Notifications"
-    new "Notifications"
+    new "Notificaciónes"
 
     # game/screens/settings/sound.rpy:9
     old "Emotions"
-    new "Emotions"
+    new "Emociones"
 
     # game/screens/settings/sound.rpy:10
     old "Level Up"
-    new "Level Up"
+    new "Subida de Nivel"
 
     # game/screens/settings/sound.rpy:11
     old "Codex"
-    new "Codex"
+    new "Códice"
 
     # game/screens/settings/sound.rpy:20
     old "Music Volume"
-    new "Music Volume"
+    new "Volumen de Música"
 
     # game/screens/settings/sound.rpy:27
     old "Sound Volume"
-    new "Sound Volume"
+    new "Volumen de Sonido"
 
     # game/screens/settings/sound.rpy:33
     old "Test"
-    new "Test"
+    new "Prueba"
 
     # game/screens/settings/sound.rpy:37
     old "Voice Volume"
-    new "Voice Volume"
+    new "Volumen de Voz"
 
     # game/screens/settings/sound.rpy:48
     old "Mute All"
-    new "Mute All"
-
+    new "Silenciar Todo"

@@ -4,17 +4,16 @@ translate spanish strings:
 
     # game/screens/replay/gallery.rpy:32
     old "Replay Gallery - "
-    new "Replay Gallery - "
+    new "Galería de Replay - "
 
     # game/screens/replay/gallery.rpy:34
     old "Replay Gallery"
-    new "Replay Gallery"
+    new "Galería de Replay"
 
     # game/screens/replay/gallery.rpy:36
     old "Unlocked: "
-    new "Unlocked: "
+    new "Desbloqueado: "
 
     # game/screens/replay/gallery.rpy:38
     old "Fix Gallery"
-    new "Fix Gallery"
-
+    new "Arregla Gallery"

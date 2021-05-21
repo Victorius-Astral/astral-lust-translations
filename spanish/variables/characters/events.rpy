@@ -4,41 +4,40 @@ translate spanish strings:
 
     # game/variables/characters/events.rpy:1
     old "Madman"
-    new "Madman"
+    new "Loco"
 
     # game/variables/characters/events.rpy:2
     old "Cultist"
-    new "Cultist"
+    new "Cultista"
 
     # game/variables/characters/events.rpy:3
     old "Bandit"
-    new "Bandit"
+    new "Bandido"
 
     # game/variables/characters/events.rpy:4
     old "Bandit Leader"
-    new "Bandit Leader"
+    new "Líder Bandido"
 
     # game/variables/characters/events.rpy:5
     old "Scavenger"
-    new "Scavenger"
+    new "Carroñero"
 
     # game/variables/characters/events.rpy:6
     old "Scavenger Girl"
-    new "Scavenger Girl"
+    new "Chica Carroñera"
 
     # game/variables/characters/events.rpy:7
     old "Girl"
-    new "Girl"
+    new "Chica"
 
     # game/variables/characters/events.rpy:9
     old "Orc"
-    new "Orc"
+    new "Orco"
 
     # game/variables/characters/events.rpy:10
     old "Woman"
-    new "Woman"
+    new "Mujer"
 
     # game/variables/characters/events.rpy:11
     old "Man"
-    new "Man"
-
+    new "Hombre"

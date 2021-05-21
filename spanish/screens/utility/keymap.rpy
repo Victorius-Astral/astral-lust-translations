@@ -8,33 +8,32 @@ translate spanish strings:
 
     # game/screens/utility/keymap.rpy:10
     old "Quick Save"
-    new "Quick Save"
+    new "Guardado Rápido"
 
     # game/screens/utility/keymap.rpy:14
     old "Quick Load"
-    new "Quick Load"
+    new "Carga Rápida"
 
     # game/screens/utility/keymap.rpy:18
     old "Opens inventory."
-    new "Opens inventory."
+    new "Abrir inventario."
 
     # game/screens/utility/keymap.rpy:22
     old "Shows character statistics menu."
-    new "Shows character statistics menu."
+    new "Muestra menú de estadísticas."
 
     # game/screens/utility/keymap.rpy:26
     old "Shows player deck."
-    new "Shows player deck."
+    new "Muestra mazo."
 
     # game/screens/utility/keymap.rpy:30
     old "Shows characteristics menu."
-    new "Shows characteristics menu."
+    new "Muestra características menú."
 
     # game/screens/utility/keymap.rpy:34
     old "Opens journal."
-    new "Opens journal."
+    new "Abrir diario."
 
     # game/screens/utility/keymap.rpy:38
     old "Opens character relations menu."
-    new "Opens character relations menu."
-
+    new "Abrir character relations menu."

@@ -102,8 +102,8 @@ translate spanish strings:
 
     # game/events/dreams/deal_with_the_devil.rpy:36
     old "Remove my corruption [[-50%% Sanity, -5%% Corruption]"
-    new "remueve mi corrupción [[-50%% Cordura, -5%% Corrupción]"
- 
+    new "Remueve mi corrupción [[-50%% Cordura, -5%% Corrupción]"
+
     # game/events/dreams/deal_with_the_devil.rpy:36
     old "Restore my clarity [[+100%% Sanity, +5%% Corruption]"
     new "Restaura mi claridad [[+100%% Cordura, +5%% Corrupción]"
@@ -121,49 +121,49 @@ translate spanish strings:
 translate spanish d_Deal_with_the_Devil_3_menu1_3f9ebed0:
 
     # devil "I don't want to involve Myself into these games. But I can help you a little."
-    devil "I don't want to involve Myself into these games. But I can help you a little."
+    devil "No quiero tener que involucrarme a Mi mismo en esos juegos. Pero puedo ayudarte un poco."
 
 # game/events/dreams/deal_with_the_devil.rpy:89
 translate spanish d_Deal_with_the_Devil_3_menu1_2fc0e6f2:
 
     # me "How?"
-    me "How?"
+    me "¿Cómo?"
 
 # game/events/dreams/deal_with_the_devil.rpy:90
 translate spanish d_Deal_with_the_Devil_3_menu1_fd1dac3b:
 
     # devil "I'll weaken influence someone has on you."
-    devil "I'll weaken influence someone has on you."
+    devil "Voy a debilitar la influencia que alguien tiene sobre tí."
 
 # game/events/dreams/deal_with_the_devil.rpy:91
 translate spanish d_Deal_with_the_Devil_3_menu1_273f3d1f:
 
     # me "Who?!"
-    me "Who?!"
+    me "¡¿Quién?!"
 
 # game/events/dreams/deal_with_the_devil.rpy:92
 translate spanish d_Deal_with_the_Devil_3_menu1_dc4cc646:
 
     # devil "You will know when you need to."
-    devil "You will know when you need to."
+    devil "Lo sabrás cuando lo necesites."
 
 # game/events/dreams/deal_with_the_devil.rpy:93
 translate spanish d_Deal_with_the_Devil_3_menu1_d7945924:
 
     # th "What the hell, someone is influencing me and I don't even know?"
-    th "What the hell, someone is influencing me and I don't even know?"
+    th "¿Qué demonios, alguien me están influenciando y ni siquiero lo sé?"
 
 # game/events/dreams/deal_with_the_devil.rpy:94
 translate spanish d_Deal_with_the_Devil_3_menu1_65f639db:
 
     # me "What is the price?"
-    me "What is the price?"
+    me "¿Cuál es el precio?"
 
 # game/events/dreams/deal_with_the_devil.rpy:95
 translate spanish d_Deal_with_the_Devil_3_menu1_ee5e4510:
 
     # devil "I'll take most of your sanity, and I'll take most of your abilities."
-    devil "I'll take most of your sanity, and I'll take most of your abilities."
+    devil "Tomaré la mayoría de tu cordura, y tomaré la mayoría de tus habilidades."
 
 # game/events/dreams/deal_with_the_devil.rpy:96
 translate spanish d_Deal_with_the_Devil_3_menu1_3820771a:
@@ -175,29 +175,28 @@ translate spanish d_Deal_with_the_Devil_3_menu1_3820771a:
 translate spanish d_Deal_with_the_Devil_3_menu1_9539ab5a:
 
     # devil "This will give you more time. Check yourself often, as one day He might replace you if you're not careful."
-    devil "This will give you more time. Check yourself often, as one day He might replace you if you're not careful."
+    devil "Esto te dará mas tiempo. Revísate seguido, ya que un día Él podría reemplazarte."
 
 # game/events/dreams/deal_with_the_devil.rpy:106
 translate spanish d_Deal_with_the_Devil_3_menu1_b5966159:
 
     # me "What do you mean?!"
-    me "What do you mean?!"
+    me "¡¿Qué quieres decir?!"
 
 translate spanish strings:
 
     # game/events/dreams/deal_with_the_devil.rpy:36
     old "I want to be a master of my own destiny"
-    new "I want to be a master of my own destiny"
+    new "Quiero ser el dueño de mi propio destino"
 
     # game/events/dreams/deal_with_the_devil.rpy:97
     old "[[Sanity will become 1%%, your deck will reset. Eldritch influence will weaken.]"
-    new "[[Sanity will become 1%%, your deck will reset. Eldritch influence will weaken.]"
+    new "[[Cordura se volverá 1%%, tu mazo se reiniciará. Influencia Eldritch se debilitará.]"
 
     # game/events/dreams/deal_with_the_devil.rpy:97
     old "Deal"
-    new "Deal"
+    new "Hecho"
 
     # game/events/dreams/deal_with_the_devil.rpy:97
     old "I won't take your offer"
-    new "I won't take your offer"
-
+    new "No tomaré tu oferta"

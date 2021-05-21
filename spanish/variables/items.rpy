@@ -4,15 +4,15 @@ translate spanish strings:
 
     # game/variables/items.rpy:4
     old "Wood"
-    new "Wood"
+    new "Madera"
 
     # game/variables/items.rpy:4
     old "Materials"
-    new "Materials"
+    new "Materiales"
 
     # game/variables/items.rpy:4
     old "Stone"
-    new "Stone"
+    new "Piedra"
 
     # game/variables/items.rpy:4
     old "Metal"
@@ -20,137 +20,136 @@ translate spanish strings:
 
     # game/variables/items.rpy:4
     old "Cloth"
-    new "Cloth"
+    new "Tela"
 
     # game/variables/items.rpy:4
     old "Coal"
-    new "Coal"
+    new "Carbón"
 
     # game/variables/items.rpy:4
     old "Fur"
-    new "Fur"
+    new "Pelaje"
 
     # game/variables/items.rpy:4
     old "Bone"
-    new "Bone"
+    new "Hueso"
 
     # game/variables/items.rpy:4
     old "Venom"
-    new "Venom"
+    new "Veneno"
 
     # game/variables/items.rpy:4
     old "Leather"
-    new "Leather"
+    new "Cuero"
 
     # game/variables/items.rpy:4
     old "Feather"
-    new "Feather"
+    new "Pluma"
 
     # game/variables/items.rpy:4
     old "Carapace"
-    new "Carapace"
+    new "Caparazón"
 
     # game/variables/items.rpy:4
     old "Abyssal Blood"
-    new "Abyssal Blood"
+    new "Sangre Abisal"
 
     # game/variables/items.rpy:4
     old "Black Bone"
-    new "Black Bone"
+    new "Hueso Negro"
 
     # game/variables/items.rpy:4
     old "Maddened Heart"
-    new "Maddened Heart"
+    new "Corazón Enloquecido"
 
     # game/variables/items.rpy:4
     old "Gun Parts"
-    new "Gun Parts"
+    new "Partes de Armas"
 
     # game/variables/items.rpy:4
     old "Dragon Bone"
-    new "Dragon Bone"
+    new "Hueso de Dragón"
 
     # game/variables/items.rpy:4
     old "Dragon Scale"
-    new "Dragon Scale"
+    new "Escala de Dragón"
 
     # game/variables/items.rpy:4
     old "Dragon Heart"
-    new "Dragon Heart"
+    new "Corazón de Dragón"
 
     # game/variables/items.rpy:4
     old "Succubus Wing"
-    new "Succubus Wing"
+    new "Ála de Succubus"
 
     # game/variables/items.rpy:4
     old "Squirming Stomach"
-    new "Squirming Stomach"
+    new "Estómago Retorciéndose"
 
     # game/variables/items.rpy:4
     old "Frozen Screams"
-    new "Frozen Screams"
+    new "Gritos Congelados"
 
     # game/variables/items.rpy:4
     old "Orcish Steel"
-    new "Orcish Steel"
+    new "Acero de Orco"
 
     # game/variables/items.rpy:4
     old "Werewolf Heart"
-    new "Werewolf Heart"
+    new "Corazón de Hombre Lobo"
 
     # game/variables/items.rpy:4
     old "Spider Leg"
-    new "Spider Leg"
+    new "Pata de Araña"
 
     # game/variables/items.rpy:4
     old "Commodity"
-    new "Commodity"
+    new "Materia Prima"
 
     # game/variables/items.rpy:4
     old "Ghoul Tooth"
-    new "Ghoul Tooth"
+    new "Diente de Ghoul"
 
     # game/variables/items.rpy:4
     old "Sigil of the Black"
-    new "Sigil of the Black"
+    new "Sígil de lo Negro"
 
     # game/variables/items.rpy:4
     old "Mysterious Coin"
-    new "Mysterious Coin"
+    new "Monéda Misteriosa"
 
     # game/variables/items.rpy:4
     old "Currency"
-    new "Currency"
+    new "Monéda"
 
     # game/variables/items.rpy:4
     old "Cap"
-    new "Cap"
+    new "Tapa"
 
     # game/variables/items.rpy:4
     old "Gold Bar"
-    new "Gold Bar"
+    new "Barra de Oro"
 
     # game/variables/items.rpy:4
     old "Gold Nugget"
-    new "Gold Nugget"
+    new "Pepita de Oro"
 
     # game/variables/items.rpy:4
     old "Diamond"
-    new "Diamond"
+    new "Diamante"
 
     # game/variables/items.rpy:4
     old "Ice Creams"
-    new "Ice Creams"
+    new "Helados"
 
     # game/variables/items.rpy:4
     old "Quest"
-    new "Quest"
+    new "Búsqueda"
 
     # game/variables/items.rpy:4
     old "Rose"
-    new "Rose"
+    new "Rosa"
 
     # game/variables/items.rpy:4
     old "Antibiotics"
-    new "Antibiotics"
-
+    new "Antibioticos"
