@@ -772,67 +772,67 @@ translate spanish girl_night_part2_0452124f:
 translate spanish girl_night_part2_1ca6c0ef:
 
     # th "Yeah, I'm dying of laughter.. I have an idea, though."
-    th "Yeah, I'm dying of laughter.. I have an idea, though."
+    th "Si, me muero de la risa... Pero ahora tengo una idea."
 
 # game/events/activities/pyjamas_party.rpy:240
 translate spanish girl_night_part2_eabf8e58:
 
     # me "How would I know, you're not turning into a werewolf?"
-    me "How would I know, you're not turning into a werewolf?"
+    me "¿Cómo podría saber si tú no te estás volviendo una mujer lobo?"
 
 # game/events/activities/pyjamas_party.rpy:243
 translate spanish girl_night_part2_d2d8ae59:
 
     # grace "I am not!"
-    grace "I am not!"
+    grace "¡No lo estoy!"
 
 # game/events/activities/pyjamas_party.rpy:244
 translate spanish girl_night_part2_cebdd445:
 
     # mina "{small}What is he trying to do?{/small}"
-    mina "{small}What is he trying to do?{/small}"
+    mina "{small}¿Qué está tratando de hacer?{/small}"
 
 # game/events/activities/pyjamas_party.rpy:245
 translate spanish girl_night_part2_4a123c10:
 
     # alice "{small}No way, this bastard is doing it..{/small}"
-    alice "{small}No way, this bastard is doing it..{/small}"
+    alice "{small}No puede ser, este bastardo lo está haciendo...{/small}"
 
 # game/events/activities/pyjamas_party.rpy:246
 translate spanish girl_night_part2_1c4968ad:
 
     # mina "Huh?"
-    mina "Huh?"
+    mina "¿Huh?"
 
 # game/events/activities/pyjamas_party.rpy:247
 translate spanish girl_night_part2_2b075b0a:
 
     # me "I don't believe you!"
-    me "I don't believe you!"
+    me "¡No te creo!"
 
 # game/events/activities/pyjamas_party.rpy:248
 translate spanish girl_night_part2_a61b3db4:
 
     # grace "Ymm.."
-    grace "Ymm.."
+    grace "Ymm..."
 
 # game/events/activities/pyjamas_party.rpy:259
 translate spanish girl_night_undress_8e3acbcd:
 
     # me "How about you undress, and let me see?"
-    me "How about you undress, and let me see?"
+    me "¿Qué tal si te desvistes, y me dejas ver?"
 
 # game/events/activities/pyjamas_party.rpy:262
 translate spanish girl_night_undress_f044dc36:
 
     # mina "{small}I don't believe it..{/small}"
-    mina "{small}I don't believe it..{/small}"
+    mina "{small}No lo puedo creer...{/small}"
 
 # game/events/activities/pyjamas_party.rpy:263
 translate spanish girl_night_undress_f9616106:
 
     # grace "Umm.."
-    grace "Umm.."
+    grace "Umm..."
 
 # game/events/activities/pyjamas_party.rpy:264
 translate spanish girl_night_undress_a93b9ef5:
