@@ -40,151 +40,151 @@ translate spanish discover_wanderers_part2_25b4b7c0:
 translate spanish discover_wanderers_part2_f4807aa2:
 
     # th "Seems I don't have a choice now.."
-    th "Seems I don't have a choice now.."
+    th "Parece que no tengo otra opción ahora..."
 
 # game/places/wanderers/discover.rpy:31
 translate spanish discover_wanderers_win_acfe05be:
 
     # u_governor "Hah. You're not bad my friend."
-    u_governor "Hah. You're not bad my friend."
+    u_governor "Hah. No tan mal, amigo mío."
 
 # game/places/wanderers/discover.rpy:34
 translate spanish discover_wanderers_win_109d9d71:
 
     # me "You are not too bad yourself."
-    me "You are not too bad yourself."
+    me "Tú tampoco eres tan malo."
 
 # game/places/wanderers/discover.rpy:35
 translate spanish discover_wanderers_win_d839f1bd:
 
     # u_governor "Let's go."
-    u_governor "Let's go."
+    u_governor "Vamos."
 
 # game/places/wanderers/discover.rpy:36
 translate spanish discover_wanderers_win_2b5f54cc:
 
     # me "Where?"
-    me "Where?"
+    me "¿A dónde?"
 
 # game/places/wanderers/discover.rpy:37
 translate spanish discover_wanderers_win_3219fc3c:
 
     # u_governor "Away, there is a nest nearby, and soon there will be dozens of them."
-    u_governor "Away, there is a nest nearby, and soon there will be dozens of them."
+    u_governor "Lejos. Hay un nido cerca, y pronto habrá docenas de ellos."
 
 # game/places/wanderers/discover.rpy:38
 translate spanish discover_wanderers_win_2529f3eb:
 
     # me "Oh, shit. Alright, after you!"
-    me "Oh, shit. Alright, after you!"
+    me "Oh, mierda. ¡Muy bien, después de ti!"
 
 # game/places/wanderers/discover.rpy:41
 translate spanish discover_wanderers_win_e7938e38:
 
     # me "Do you know any safe place nearby?"
-    me "Do you know any safe place nearby?"
+    me "¿Conoces algún lugar seguro que esté cerca?"
 
 # game/places/wanderers/discover.rpy:42
 translate spanish discover_wanderers_win_d5f8bdf6:
 
     # u_governor "Of course, it'll be night soon, and I've seen what happens to people that stay out there at night. Believe me, I don't want to be one of them."
-    u_governor "Of course, it'll be night soon, and I've seen what happens to people that stay out there at night. Believe me, I don't want to be one of them."
+    u_governor "Por supuesto, pronto será de noche, y he visto lo que les pasa a las personas que se quedan afuera. Créeme, no quiero ser uno de ellos."
 
 # game/places/wanderers/discover.rpy:45
 translate spanish discover_wanderers_win_16fce20f:
 
     # me "How fa.."
-    me "How fa.."
+    me "Cuánto-"
 
 # game/places/wanderers/discover.rpy:48
 translate spanish discover_wanderers_win_b68452fb:
 
     # "Tremendous roars echo from behind you."
-    "Tremendous roars echo from behind you."
+    "Tremendos rugidos resuenan detrás de ti."
 
 # game/places/wanderers/discover.rpy:51
 translate spanish discover_wanderers_win_c89f3dc6:
 
     # me "Shit! What the fuck is that?!"
-    me "Shit! What the fuck is that?!"
+    me "¡Mierda! ¡¿Qué carajo es eso?!"
 
 # game/places/wanderers/discover.rpy:52
 translate spanish discover_wanderers_win_a721d6b4:
 
     # u_governor "We call it Abaddon! Don't worry, it won't pursue us for long. It also fears the night."
-    u_governor "We call it Abaddon! Don't worry, it won't pursue us for long. It also fears the night."
+    u_governor "¡Lo llamamos Abaddon! No te preocupes, no nos perseguirá por mucho tiempo. También le teme a la noche."
 
 # game/places/wanderers/discover.rpy:55
 translate spanish discover_wanderers_win_28eb48a0:
 
     # me "What the hell is it?"
-    me "What the hell is it?"
+    me "¿Qué demonios es?"
 
 # game/places/wanderers/discover.rpy:56
 translate spanish discover_wanderers_win_4cd32798:
 
     # u_governor "Time is tight. Don't talk, run!"
-    u_governor "Time is tight. Don't talk, run!"
+    u_governor "No hay tiempo. ¡No hables, corre!"
 
 # game/places/wanderers/discover.rpy:63
 translate spanish discover_wanderers_win_a58e9d67:
 
     # "After a long time you finally stop in small shanty town."
-    "After a long time you finally stop in small shanty town."
+    "Después de mucho tiempo, finalmente te detienes en una especie de barrio desgastado."
 
 # game/places/wanderers/discover.rpy:64
 translate spanish discover_wanderers_win_a310548c:
 
     # me "Ahh... *Cough* My lungs.."
-    me "Ahh... *Cough* My lungs.."
+    me "Ahh... *Tos* Mis pulmones..."
 
 # game/places/wanderers/discover.rpy:65
 translate spanish discover_wanderers_win_8f076c8d:
 
     # th "Shit, I'm so tired.."
-    th "Shit, I'm so tired.."
+    th "Mierda, estoy tan cansado..."
 
 # game/places/wanderers/discover.rpy:66
 translate spanish discover_wanderers_win_b5c22da3:
 
     # u_governor "Aaa.. It was a close call."
-    u_governor "Aaa.. It was a close call."
+    u_governor "Aaa.. Estuvo muy cerca."
 
 # game/places/wanderers/discover.rpy:69
 translate spanish discover_wanderers_win_df426f64:
 
     # me "It's time to talk, don't you think? Let's go inside."
-    me "It's time to talk, don't you think? Let's go inside."
+    me "Es hora de hablar, ¿no crees? Entremos."
 
 # game/places/wanderers/discover.rpy:70
 translate spanish discover_wanderers_win_618f7ce2:
 
     # u_governor "Don't worry, the fog can't enter into the hideout."
-    u_governor "Don't worry, the fog can't enter into the hideout."
+    u_governor "No te preocupes, la niebla no puede entrar en el escondite."
 
 # game/places/wanderers/discover.rpy:71
 translate spanish discover_wanderers_win_314086b3:
 
     # me "What?"
-    me "What?"
+    me "¿Qué?"
 
 # game/places/wanderers/discover.rpy:77
 translate spanish discover_wanderers_win_ab5eea35:
 
     # u_governor "I also don't know the reason, but fog avoids this place. It avoids all places humans hide, but you have probably already noticed."
-    u_governor "I also don't know the reason, but fog avoids this place. It avoids all places humans hide, but you have probably already noticed."
+    u_governor "Tampoco sé la razón, pero la niebla evita este lugar. Evita todos los lugares donde se esconden los humanos, pero probablemente ya lo habías notado."
 
 # game/places/wanderers/discover.rpy:78
 translate spanish discover_wanderers_win_effb048c:
 
     # me "But everything is in the open."
-    me "But everything is in the open."
+    me "Pero todo al aire libre."
 
 # game/places/wanderers/discover.rpy:79
 translate spanish discover_wanderers_win_4fb61e3a:
 
     # u_governor "It is."
-    u_governor "It is."
+    u_governor "Lo está."
 
 # game/places/wanderers/discover.rpy:80
 translate spanish discover_wanderers_win_b2f20a8e:
@@ -395,4 +395,3 @@ translate spanish discover_wanderers_win_e4e5e3cf:
 
     # th "Ahh.. That was really tiring day. This guy [governor] seems nice enough. I think we'll be able to get along just fine."
     th "Ahh.. That was really tiring day. This guy [governor] seems nice enough. I think we'll be able to get along just fine."
-

@@ -838,25 +838,25 @@ translate spanish girl_night_undress_f9616106:
 translate spanish girl_night_undress_a93b9ef5:
 
     # alice "You don't need to do this Gracie. Don't listen to this idiot."
-    alice "You don't need to do this Gracie. Don't listen to this idiot."
+    alice "No tienes que hacer esto Gracie. No escuches a este idiota."
 
 # game/events/activities/pyjamas_party.rpy:265
 translate spanish girl_night_undress_c25224a3:
 
     # th "You talk too much.."
-    th "You talk too much.."
+    th "Hablas demasiado..."
 
 # game/events/activities/pyjamas_party.rpy:269
 translate spanish girl_night_undress_361a2ee9:
 
     # "{cha}[[Charisma check failed]{/cha}"
-    "{cha}[[Charisma check failed]{/cha}"
+    "{cha}[[Carisma insuficiente]{/cha}"
 
 # game/events/activities/pyjamas_party.rpy:270
 translate spanish girl_night_undress_80aa708e:
 
     # grace "I don't want to."
-    grace "I don't want to."
+    grace "No quiero."
 
 # game/events/activities/pyjamas_party.rpy:271
 translate spanish girl_night_undress_3820771a:
@@ -868,7 +868,7 @@ translate spanish girl_night_undress_3820771a:
 translate spanish girl_night_undress_f6ff1e7a:
 
     # alice "Good girl."
-    alice "Good girl."
+    alice "Buena chica."
 
 # game/events/activities/pyjamas_party.rpy:275
 translate spanish girl_night_undress_baf8f4db:
@@ -880,7 +880,7 @@ translate spanish girl_night_undress_baf8f4db:
 translate spanish girl_night_undress_a42d48cd:
 
     # mina "You're so cute Grace."
-    mina "You're so cute Grace."
+    mina "Eres tan linda Grace."
 
 # game/events/activities/pyjamas_party.rpy:277
 translate spanish girl_night_undress_3820771a_1:
@@ -892,25 +892,25 @@ translate spanish girl_night_undress_3820771a_1:
 translate spanish girl_night_undress2_2cfc9e05:
 
     # "{cha}[[Charisma check passed]{/cha}"
-    "{cha}[[Charisma check passed]{/cha}"
+    "{cha}[[Carisma suficiente]{/cha}"
 
 # game/events/activities/pyjamas_party.rpy:286
 translate spanish girl_night_undress2_1ad475da:
 
     # grace "Are you trying to cheat me?"
-    grace "Are you trying to cheat me?"
+    grace "¿Estás tratando de engañarme?"
 
 # game/events/activities/pyjamas_party.rpy:287
 translate spanish girl_night_undress2_26416f7c:
 
     # me "No, of course not."
-    me "No, of course not."
+    me "No, por supuesto que no."
 
 # game/events/activities/pyjamas_party.rpy:290
 translate spanish girl_night_undress2_5489e72d:
 
     # grace "Pay up!"
-    grace "Pay up!"
+    grace "¡Paga!"
 
 # game/events/activities/pyjamas_party.rpy:293
 translate spanish girl_night_undress2_fd2d2824:
@@ -928,13 +928,13 @@ translate spanish girl_night_undress2_fc8821a4:
 translate spanish girl_night_undress2_314086b3:
 
     # me "What?"
-    me "What?"
+    me "¿Qué?"
 
 # game/events/activities/pyjamas_party.rpy:296
 translate spanish girl_night_undress2_eb5e01f4:
 
     # grace "I want a rose."
-    grace "I want a rose."
+    grace "Quiero una rosa."
 
 # game/events/activities/pyjamas_party.rpy:297
 translate spanish girl_night_undress2_7397df86:
@@ -946,25 +946,25 @@ translate spanish girl_night_undress2_7397df86:
 translate spanish girl_night_menu1_b98d5ed7:
 
     # th "I don't have it.."
-    th "I don't have it.."
+    th "No la tengo..."
 
 # game/events/activities/pyjamas_party.rpy:311
 translate spanish girl_night_menu1_c349dd14:
 
     # grace "Cheap!"
-    grace "Cheap!"
+    grace "¡Tacaño!"
 
 # game/events/activities/pyjamas_party.rpy:312
 translate spanish girl_night_menu1_6ec37086:
 
     # th "You're cheap.."
-    th "You're cheap.."
+    th "Tú eres tacaña..."
 
 # game/events/activities/pyjamas_party.rpy:319
 translate spanish girl_night_undress3_14b865a4:
 
     # grace "Yay! I got a rose!"
-    grace "Yay! I got a rose!"
+    grace "¡Yay! ¡Conseguí una rosa!"
 
 # game/events/activities/pyjamas_party.rpy:320
 translate spanish girl_night_undress3_3820771a:
@@ -976,25 +976,25 @@ translate spanish girl_night_undress3_3820771a:
 translate spanish girl_night_undress3_b83ec917:
 
     # th "Where did she put it?"
-    th "Where did she put it?"
+    th "¿Dónde la puso?"
 
 # game/events/activities/pyjamas_party.rpy:322
 translate spanish girl_night_undress3_0afbcd02:
 
     # alice "Ah.."
-    alice "Ah.."
+    alice "Ah..."
 
 # game/events/activities/pyjamas_party.rpy:325
 translate spanish girl_night_undress3_127318c4:
 
     # alice "Undress for him, before he starts crying."
-    alice "Undress for him, before he starts crying."
+    alice "Desnúdate para él, antes de que empiece a llorar."
 
 # game/events/activities/pyjamas_party.rpy:326
 translate spanish girl_night_undress3_3b431f83:
 
     # th "Not gonna object."
-    th "Not gonna object."
+    th "No voy a objetar."
 
 # game/events/activities/pyjamas_party.rpy:327
 translate spanish girl_night_undress3_7402cda2:
@@ -1006,13 +1006,13 @@ translate spanish girl_night_undress3_7402cda2:
 translate spanish girl_night_undress3_67f3499a:
 
     # th "Worth it."
-    th "Worth it."
+    th "Valió la pena."
 
 # game/events/activities/pyjamas_party.rpy:331
 translate spanish girl_night_undress3_2361d8fd:
 
     # mina "{quiet}Nice..{/quiet}"
-    mina "{quiet}Nice..{/quiet}"
+    mina "{quiet}Bien...{/quiet}"
 
 # game/events/activities/pyjamas_party.rpy:334
 translate spanish girl_night_undress3_4e2a8876:
@@ -1024,49 +1024,49 @@ translate spanish girl_night_undress3_4e2a8876:
 translate spanish girl_night_undress3_9757709b:
 
     # th "Why does [mina] looks at me like with this?"
-    th "Why does [mina] looks at me like with this?"
+    th "¿Por qué [mina] me mira así?"
 
 # game/events/activities/pyjamas_party.rpy:336
 translate spanish girl_night_undress3_0da22ed4:
 
     # me "What do you want?"
-    me "What do you want?"
+    me "¿Qué quieres?"
 
 # game/events/activities/pyjamas_party.rpy:337
 translate spanish girl_night_undress3_814a90fa:
 
     # mina "Ice cream."
-    mina "Ice cream."
+    mina "Helado."
 
 # game/events/activities/pyjamas_party.rpy:338
 translate spanish girl_night_undress3_64c52efe:
 
     # me "What for?"
-    me "What for?"
+    me "¿Por qué?"
 
 # game/events/activities/pyjamas_party.rpy:339
 translate spanish girl_night_undress3_2f841bd4:
 
     # mina "Don't bullshit me, you're going to find some reasons for us all to undress. I want an ice cream."
-    mina "Don't bullshit me, you're going to find some reasons for us all to undress. I want an ice cream."
+    mina "No mientas, vas a encontrar alguna razón para que todos nos desnudemos. Quiero un helado."
 
 # game/events/activities/pyjamas_party.rpy:340
 translate spanish girl_night_undress3_adf1224d:
 
     # me "Smartass.."
-    me "Smartass.."
+    me "Sabelotodo.."
 
 # game/events/activities/pyjamas_party.rpy:349
 translate spanish girl_night_menu2_b98d5ed7:
 
     # th "I don't have it.."
-    th "I don't have it.."
+    th "No lo tengo..."
 
 # game/events/activities/pyjamas_party.rpy:354
 translate spanish girl_night_menu2_ce7ecdd0:
 
     # mina "How poor.."
-    mina "How poor.."
+    mina "Qué pobre..."
 
 # game/events/activities/pyjamas_party.rpy:355
 translate spanish girl_night_menu2_3820771a:
@@ -1078,7 +1078,7 @@ translate spanish girl_night_menu2_3820771a:
 translate spanish girl_night_undress4_b8c741b2:
 
     # me "That was fast.."
-    me "That was fast.."
+    me "Eso fue rápido..."
 
 # game/events/activities/pyjamas_party.rpy:362
 translate spanish girl_night_undress4_7eab3647:
@@ -1090,19 +1090,19 @@ translate spanish girl_night_undress4_7eab3647:
 translate spanish girl_night_undress4_5d2f0ca8:
 
     # alice "Ahh.."
-    alice "Ahh.."
+    alice "Ahh..."
 
 # game/events/activities/pyjamas_party.rpy:364
 translate spanish girl_night_undress4_e17cf256:
 
     # me "Alice?"
-    me "Alice?"
+    me "¿Alice?"
 
 # game/events/activities/pyjamas_party.rpy:367
 translate spanish girl_night_undress4_de471696:
 
     # me "Don't glare at me like that.."
-    me "Don't glare at me like that.."
+    me "No me mires así..."
 
 # game/events/activities/pyjamas_party.rpy:368
 translate spanish girl_night_undress4_74f05a4e:
@@ -1114,67 +1114,67 @@ translate spanish girl_night_undress4_74f05a4e:
 translate spanish girl_night_undress4_5f7a4392:
 
     # alice "Eh.."
-    alice "Eh.."
+    alice "Eh..."
 
 # game/events/activities/pyjamas_party.rpy:374
 translate spanish girl_night_undress4_02621109:
 
     # alice "I want an cloth."
-    alice "I want an cloth."
+    alice "Quiero una tela."
 
 # game/events/activities/pyjamas_party.rpy:375
 translate spanish girl_night_undress4_5f4aa1ad:
 
     # th "Nice, she's going to play the game too!"
-    th "Nice, she's going to play the game too!"
+    th "¡Bien, ella también va a entrar al juego!"
 
 # game/events/activities/pyjamas_party.rpy:384
 translate spanish girl_night_menu3_b98d5ed7:
 
     # th "I don't have it.."
-    th "I don't have it.."
+    th "No la tengo..."
 
 # game/events/activities/pyjamas_party.rpy:390
 translate spanish girl_night_menu3_d75c0e78:
 
     # alice "Hmph! Asshole."
-    alice "Hmph! Asshole."
+    alice "¡Hmph! Idiota."
 
 # game/events/activities/pyjamas_party.rpy:391
 translate spanish girl_night_menu3_c4d20f7b:
 
     # me "Sorry.."
-    me "Sorry.."
+    me "Lo siento..."
 
 # game/events/activities/pyjamas_party.rpy:396
 translate spanish girl_night_undress5_6ef8634c:
 
     # alice "Enjoy."
-    alice "Enjoy."
+    alice "Disfruta."
 
 # game/events/activities/pyjamas_party.rpy:397
 translate spanish girl_night_undress5_947ce162:
 
     # me "What about the rest?"
-    me "What about the rest?"
+    me "¿Qué hay del resto?"
 
 # game/events/activities/pyjamas_party.rpy:398
 translate spanish girl_night_undress5_4ebed993:
 
     # mina "Yeah, what about the rest?"
-    mina "Yeah, what about the rest?"
+    mina "Si, ¿qué hay del resto?"
 
 # game/events/activities/pyjamas_party.rpy:399
 translate spanish girl_night_undress5_7b9fe782:
 
     # th "[mina].."
-    th "[mina].."
+    th "[mina]..."
 
 # game/events/activities/pyjamas_party.rpy:402
 translate spanish girl_night_undress5_2ab81640:
 
     # alice "I want some fur. But leather will do too."
-    alice "I want some fur. But leather will do too."
+    alice "Quiero algo de pelaje. Pero cuero también sirve."
 
 # game/events/activities/pyjamas_party.rpy:403
 translate spanish girl_night_undress5_3820771a:
@@ -1186,19 +1186,19 @@ translate spanish girl_night_undress5_3820771a:
 translate spanish girl_night_menu4_b98d5ed7:
 
     # th "I don't have it.."
-    th "I don't have it.."
+    th "No lo tengo..."
 
 # game/events/activities/pyjamas_party.rpy:421
 translate spanish girl_night_menu4_b98d5ed7_1:
 
     # th "I don't have it.."
-    th "I don't have it.."
+    th "No lo tengo..."
 
 # game/events/activities/pyjamas_party.rpy:426
 translate spanish girl_night_menu4_fef0bad9:
 
     # alice "Bo-o-o-o-ring!"
-    alice "Bo-o-o-o-ring!"
+    alice "Aburri-i-i-ido!"
 
 # game/events/activities/pyjamas_party.rpy:427
 translate spanish girl_night_menu4_3820771a:
@@ -1216,43 +1216,43 @@ translate spanish girl_night_undress6_3820771a:
 translate spanish girl_night_undress6_8565a30f:
 
     # me "What now?"
-    me "What now?"
+    me "¿Ahora qué?"
 
 # game/events/activities/pyjamas_party.rpy:434
 translate spanish girl_night_undress6_5055fb09:
 
     # alice "Gold nugget."
-    alice "Gold nugget."
+    alice "Pepita de oro."
 
 # game/events/activities/pyjamas_party.rpy:437
 translate spanish girl_night_undress6_4fe6744a:
 
     # grace "Oh! Gold!"
-    grace "Oh! Gold!"
+    grace "¡Oh! ¡Oro!"
 
 # game/events/activities/pyjamas_party.rpy:438
 translate spanish girl_night_undress6_3d01aa6b:
 
     # mina "Woah.."
-    mina "Woah.."
+    mina "Woah..."
 
 # game/events/activities/pyjamas_party.rpy:441
 translate spanish girl_night_undress6_f9aff106:
 
     # grace "Why does she get so many things?"
-    grace "Why does she get so many things?"
+    grace "¿Por qué ella recibe tantas cosas?"
 
 # game/events/activities/pyjamas_party.rpy:444
 translate spanish girl_night_undress6_e18d0b6c:
 
     # mina "She's smarter than us.."
-    mina "She's smarter than us.."
+    mina "Es más inteligente que nosotras..."
 
 # game/events/activities/pyjamas_party.rpy:445
 translate spanish girl_night_undress6_4a046a80:
 
     # grace "Makes sense."
-    grace "Makes sense."
+    grace "Tiene sentido."
 
 # game/events/activities/pyjamas_party.rpy:446
 translate spanish girl_night_undress6_3820771a_1:
@@ -1264,13 +1264,13 @@ translate spanish girl_night_undress6_3820771a_1:
 translate spanish girl_night_menu5_b98d5ed7:
 
     # th "I don't have it.."
-    th "I don't have it.."
+    th "No lo tengo..."
 
 # game/events/activities/pyjamas_party.rpy:460
 translate spanish girl_night_menu5_d3157af5:
 
     # alice "You finally outta stuff?"
-    alice "You finally outta stuff?"
+    alice "¿Al fin te quedaste sin nada?"
 
 # game/events/activities/pyjamas_party.rpy:461
 translate spanish girl_night_menu5_3820771a:
@@ -1282,91 +1282,91 @@ translate spanish girl_night_menu5_3820771a:
 translate spanish girl_night_undress7_d5c2f9ac:
 
     # me "You gotta be kidding me.."
-    me "You gotta be kidding me.."
+    me "Tienes que estar bromeando..."
 
 # game/events/activities/pyjamas_party.rpy:469
 translate spanish girl_night_undress7_c7a833db:
 
     # alice "It is what it is."
-    alice "It is what it is."
+    alice "Es lo que es."
 
 # game/events/activities/pyjamas_party.rpy:470
 translate spanish girl_night_undress7_f976852e:
 
     # me "What do you want now?"
-    me "What do you want now?"
+    me "Qué quieres ahora?"
 
 # game/events/activities/pyjamas_party.rpy:471
 translate spanish girl_night_undress7_f83730ab:
 
     # alice "Diamond."
-    alice "Diamond."
+    alice "Diamante."
 
 # game/events/activities/pyjamas_party.rpy:472
 translate spanish girl_night_undress7_314086b3:
 
     # me "What?"
-    me "What?"
+    me "¿Qué?"
 
 # game/events/activities/pyjamas_party.rpy:475
 translate spanish girl_night_undress7_c63a2899:
 
     # alice "D-i-a-m-o-n-d."
-    alice "D-i-a-m-o-n-d."
+    alice "D-i-a-m-a-n-t-e."
 
 # game/events/activities/pyjamas_party.rpy:476
 translate spanish girl_night_undress7_c903f8cd:
 
     # me "I've heard it the first time."
-    me "I've heard it the first time."
+    me "Escuché la primera vez."
 
 # game/events/activities/pyjamas_party.rpy:477
 translate spanish girl_night_undress7_d7bfd000:
 
     # alice "Then don't ask stupid questions."
-    alice "Then don't ask stupid questions."
+    alice "Entonces no hagas preguntas estúpidas."
 
 # game/events/activities/pyjamas_party.rpy:478
 translate spanish girl_night_undress7_cc2d287c:
 
     # me "I hate you.."
-    me "I hate you.."
+    me "Te odio..."
 
 # game/events/activities/pyjamas_party.rpy:481
 translate spanish girl_night_undress7_25732ab5:
 
     # alice "Pay up!"
-    alice "Pay up!"
+    alice "¡Paga!"
 
 # game/events/activities/pyjamas_party.rpy:490
 translate spanish girl_night_menu6_b98d5ed7:
 
     # th "I don't have it.."
-    th "I don't have it.."
+    th "No lo tengo..."
 
 # game/events/activities/pyjamas_party.rpy:495
 translate spanish girl_night_menu6_2cfc9e05:
 
     # "{cha}[[Charisma check passed]{/cha}"
-    "{cha}[[Charisma check passed]{/cha}"
+    "{cha}[[Carisma suficiente]{/cha}"
 
 # game/events/activities/pyjamas_party.rpy:497
 translate spanish girl_night_menu6_6673becb:
 
     # alice "I guess, I can give you some bonus."
-    alice "I guess, I can give you some bonus."
+    alice "Supongo que puedo darte unos bonus."
 
 # game/events/activities/pyjamas_party.rpy:501
 translate spanish girl_night_menu6_361a2ee9:
 
     # "{cha}[[Charisma check failed]{/cha}"
-    "{cha}[[Charisma check failed]{/cha}"
+    "{cha}[[Carisma insuficiente]{/cha}"
 
 # game/events/activities/pyjamas_party.rpy:502
 translate spanish girl_night_menu6_f719d02f:
 
     # alice "Pfft~ You wish. Pay up!"
-    alice "Pfft~ You wish. Pay up!"
+    alice "Pfft~ Ya quisieras. ¡Paga!"
 
 # game/events/activities/pyjamas_party.rpy:503
 translate spanish girl_night_menu6_3820771a:
@@ -1378,19 +1378,19 @@ translate spanish girl_night_menu6_3820771a:
 translate spanish girl_night_menu6_24826bd1:
 
     # alice "Cheap!"
-    alice "Cheap!"
+    alice "¡Tacaño!"
 
 # game/events/activities/pyjamas_party.rpy:510
 translate spanish girl_night_menu6_8e826fbe:
 
     # me "Oh, shut up."
-    me "Oh, shut up."
+    me "Oh, cállate."
 
 # game/events/activities/pyjamas_party.rpy:513
 translate spanish girl_night_menu6_84d72ed5:
 
     # alice "Haha, aren't you tired already?"
-    alice "Haha, aren't you tired already?"
+    alice "Haha, ¿No estás cansado ya?"
 
 # game/events/activities/pyjamas_party.rpy:514
 translate spanish girl_night_menu6_3820771a_1:
@@ -1402,121 +1402,121 @@ translate spanish girl_night_menu6_3820771a_1:
 translate spanish girl_night_undress8_ac58914b:
 
     # me "Finally."
-    me "Finally."
+    me "Finalmente."
 
 # game/events/activities/pyjamas_party.rpy:522
 translate spanish girl_night_undress8_a68129ac:
 
     # alice "How does it feel?"
-    alice "How does it feel?"
+    alice "¿Cómo se siente?"
 
 # game/events/activities/pyjamas_party.rpy:523
 translate spanish girl_night_undress8_314086b3:
 
     # me "What?"
-    me "What?"
+    me "¿El qué?"
 
 # game/events/activities/pyjamas_party.rpy:524
 translate spanish girl_night_undress8_1ad3bc6d:
 
     # alice "Being broke."
-    alice "Being broke."
+    alice "Estar en bancarrota."
 
 # game/events/activities/pyjamas_party.rpy:525
 translate spanish girl_night_undress8_77dc0a9f:
 
     # me "Not bad, I can see its perks."
-    me "Not bad, I can see its perks."
+    me "No está mal. Puedo ver las ventajas."
 
 # game/events/activities/pyjamas_party.rpy:528
 translate spanish girl_night_undress8_54177b76:
 
     # mina "Yeah.."
-    mina "Yeah.."
+    mina "Si..."
 
 # game/events/activities/pyjamas_party.rpy:529
 translate spanish girl_night_undress8_2ed86d5e:
 
     # th "You should return my ice cream.."
-    th "You should return my ice cream.."
+    th "Deberías devolver mi helado..."
 
 # game/events/activities/pyjamas_party.rpy:532
 translate spanish girl_night_undress8_ac3bbb56:
 
     # alice "Now that you've eyed us enough, I think it's time you go to sleep."
-    alice "Now that you've eyed us enough, I think it's time you go to sleep."
+    alice "Ahora que nos ha mirado lo suficiente, creo que es hora de que te vayas a dormir."
 
 # game/events/activities/pyjamas_party.rpy:533
 translate spanish girl_night_undress8_f84fd2f2:
 
     # me "No way, I just lost a fortune."
-    me "No way, I just lost a fortune."
+    me "De ninguna manera, acabo de perder una fortuna."
 
 # game/events/activities/pyjamas_party.rpy:536
 translate spanish girl_night_undress8_05d07e8b:
 
     # alice "Oh, let's not exaggerate."
-    alice "Oh, let's not exaggerate."
+    alice "Oh, no exageremos."
 
 # game/events/activities/pyjamas_party.rpy:537
 translate spanish girl_night_undress8_be33ddff:
 
     # me "You can't do this to me."
-    me "You can't do this to me."
+    me "No pueden hacerme ésto."
 
 # game/events/activities/pyjamas_party.rpy:540
 translate spanish girl_night_undress8_374e7a88:
 
     # alice "I can, and I do."
-    alice "I can, and I do."
+    alice "Puedo, y lo haré."
 
 # game/events/activities/pyjamas_party.rpy:541
 translate spanish girl_night_undress8_dc41ff9d:
 
     # grace "Isn't it bad of us?"
-    grace "Isn't it bad of us?"
+    grace "¿No es malo de nuestra parte?"
 
 # game/events/activities/pyjamas_party.rpy:544
 translate spanish girl_night_undress8_d75ed3ac:
 
     # alice "Gracie.. not now."
-    alice "Gracie.. not now."
+    alice "Gracie... ahora no."
 
 # game/events/activities/pyjamas_party.rpy:545
 translate spanish girl_night_undress8_9b5b742e:
 
     # me "Exactly Grace, it's bad, you can't do this."
-    me "Exactly Grace, it's bad, you can't do this."
+    me "Exactamente Grace, es malo, no puedes hacer esto."
 
 # game/events/activities/pyjamas_party.rpy:548
 translate spanish girl_night_undress8_ea66375a:
 
     # mina "He can stay, if you ask me."
-    mina "He can stay, if you ask me."
+    mina "En mi opinión, puede quedarse."
 
 # game/events/activities/pyjamas_party.rpy:549
 translate spanish girl_night_undress8_24963654:
 
     # th "Thanks [mina]."
-    th "Thanks [mina]."
+    th "Gracias [mina]."
 
 # game/events/activities/pyjamas_party.rpy:550
 translate spanish girl_night_undress8_1d1b3b35:
 
     # alice "Even you against me?"
-    alice "Even you against me?"
+    alice "¿Incluso tú estás en mi contra?"
 
 # game/events/activities/pyjamas_party.rpy:553
 translate spanish girl_night_undress8_f1ceaab2:
 
     # mina "Easy, Caesar. I just feel bad about throwing him out."
-    mina "Easy, Caesar. I just feel bad about throwing him out."
+    mina "Tranquila, Caesar. Sólo me siento mal por echarlo."
 
 # game/events/activities/pyjamas_party.rpy:554
 translate spanish girl_night_undress8_f03f8be6:
 
     # me "See Caesar, I'm staying."
-    me "See Caesar, I'm staying."
+    me "¿Ves, Caesar? Me estoy quedando."
 
 # game/events/activities/pyjamas_party.rpy:557
 translate spanish girl_night_undress8_74f05a4e:
@@ -1528,157 +1528,157 @@ translate spanish girl_night_undress8_74f05a4e:
 translate spanish girl_night_undress8_d9075607:
 
     # grace "Great. Now, maybe you'll tell me about your adventures."
-    grace "Great. Now, maybe you'll tell me about your adventures."
+    grace "Grandioso. Ahora, tal vez me cuentes sobre tus aventuras."
 
 # game/events/activities/pyjamas_party.rpy:559
 translate spanish girl_night_undress8_6bc1ef32:
 
     # me "Curious about me, are you?"
-    me "Curious about me, are you?"
+    me "¿Curiosa sobre mi, eh?"
 
 # game/events/activities/pyjamas_party.rpy:560
 translate spanish girl_night_undress8_1a514d0c:
 
     # grace "Mm. You have so many funny adventures, and you do so many weird things."
-    grace "Mm. You have so many funny adventures, and you do so many weird things."
+    grace "Mm. Tienes tantas aventuras divertidas y haces tantas cosas raras."
 
 # game/events/activities/pyjamas_party.rpy:561
 translate spanish girl_night_undress8_2d0fa32f:
 
     # th "What else did she tell her.."
-    th "What else did she tell her.."
+    th "¿Qué más le dijo...?"
 
 # game/events/activities/pyjamas_party.rpy:562
 translate spanish girl_night_undress8_d1328ab7:
 
     # me "Like?"
-    me "Like?"
+    me "¿Por ejemplo?"
 
 # game/events/activities/pyjamas_party.rpy:565
 translate spanish girl_night_undress8_39f14cac:
 
     # alice "You're supposed to tell her your tales, not ask her questions."
-    alice "You're supposed to tell her your tales, not ask her questions."
+    alice "Se supone que debes contarle tus historias, no hacerle preguntas."
 
 # game/events/activities/pyjamas_party.rpy:566
 translate spanish girl_night_undress8_a84a7688:
 
     # grace "Yeah, no questions."
-    grace "Yeah, no questions."
+    grace "Si, sin preguntas."
 
 # game/events/activities/pyjamas_party.rpy:567
 translate spanish girl_night_undress8_ffa90095:
 
     # me "Fine."
-    me "Fine."
+    me "Bien."
 
 # game/events/activities/pyjamas_party.rpy:570
 translate spanish girl_night_undress8_4b682339:
 
     # "You tell them of your encounters for the whole hour."
-    "You tell them of your encounters for the whole hour."
+    "Les hablas de tus encuentros durante toda la hora."
 
 # game/events/activities/pyjamas_party.rpy:573
 translate spanish girl_night_undress8_5d0d0193:
 
     # grace "No way!"
-    grace "No way!"
+    grace "¡No puede ser!"
 
 # game/events/activities/pyjamas_party.rpy:574
 translate spanish girl_night_undress8_e2cdc1ff:
 
     # alice "Now, you're telling fairy tales.."
-    alice "Now, you're telling fairy tales.."
+    alice "Ahora estás contando cuentos..."
 
 # game/events/activities/pyjamas_party.rpy:575
 translate spanish girl_night_undress8_a60ce629:
 
     # mina "Bullshit."
-    mina "Bullshit."
+    mina "Mentiras."
 
 # game/events/activities/pyjamas_party.rpy:576
 translate spanish girl_night_undress8_990797a9:
 
     # me "No, no. I've really defeated a cultist with one look."
-    me "No, no. I've really defeated a cultist with one look."
+    me "No, no. De verdad he derrotado a un cultita con una mirada."
 
 # game/events/activities/pyjamas_party.rpy:577
 translate spanish girl_night_undress8_03de5801:
 
     # th "I've forced him to commit suicide with my murderous gaze, yeah, I remember it was like this.."
-    th "I've forced him to commit suicide with my murderous gaze, yeah, I remember it was like this.."
+    th "Lo he obligado a suicidarse con mi mirada asesina, sí, recuerdo que fue así..."
 
 # game/events/activities/pyjamas_party.rpy:578
 translate spanish girl_night_undress8_7aaefab2:
 
     # th "I didn't panic one bit. Not at all."
-    th "I didn't panic one bit. Not at all."
+    th "No me asusté ni un poco. Para nada."
 
 # game/events/activities/pyjamas_party.rpy:581
 translate spanish girl_night_undress8_f101e178:
 
     # "Half an hour later."
-    "Half an hour later."
+    "Media hora después."
 
 # game/events/activities/pyjamas_party.rpy:582
 translate spanish girl_night_undress8_fd16caf4:
 
     # grace "*Yawn*"
-    grace "*Yawn*"
+    grace "*Bostezando*"
 
 # game/events/activities/pyjamas_party.rpy:583
 translate spanish girl_night_undress8_aeee2ad7:
 
     # me "Sleepy?"
-    me "Sleepy?"
+    me "¿Cansada?"
 
 # game/events/activities/pyjamas_party.rpy:586
 translate spanish girl_night_undress8_f704852e:
 
     # grace "Mm. I want to sleep."
-    grace "Mm. I want to sleep."
+    grace "Mm. Quiero dormir."
 
 # game/events/activities/pyjamas_party.rpy:589
 translate spanish girl_night_undress8_1fc48104:
 
     # me "Alright, gimme a goodnight kiss, and I'll get going."
-    me "Alright, gimme a goodnight kiss, and I'll get going."
+    me "Está bien, dame un beso de buenas noches, y me iré."
 
 # game/events/activities/pyjamas_party.rpy:592
 translate spanish girl_night_undress8_c025f3c2:
 
     # mina "{quiet}He's hopeless..{/quiet}"
-    mina "{quiet}He's hopeless..{/quiet}"
+    mina "{quiet}No tiene remedio...{/quiet}"
 
 # game/events/activities/pyjamas_party.rpy:595
 translate spanish girl_night_undress8_74f59dd7:
 
     # alice "{quiet}The best boyfriend ever..{/quiet}"
-    alice "{quiet}The best boyfriend ever..{/quiet}"
+    alice "{quiet}El mejor novio del mundo...{/quiet}"
 
 # game/events/activities/pyjamas_party.rpy:597
 translate spanish girl_night_undress8_7dddcec3:
 
     # grace "What for? I don't get it.."
-    grace "What for? I don't get it.."
+    grace "¿Para qué? No lo entiendo..."
 
 # game/events/activities/pyjamas_party.rpy:598
 translate spanish girl_night_undress8_b76557d8:
 
     # me "It's so that I can sleep in peace. Didn't your mom give you a kiss before sleep?"
-    me "It's so that I can sleep in peace. Didn't your mom give you a kiss before sleep?"
+    me "Es para que pueda dormir en paz. ¿Tu mamá no te daba un beso antes de dormir?"
 
 # game/events/activities/pyjamas_party.rpy:601
 translate spanish girl_night_undress8_57245707:
 
     # grace "She did, when I was little."
-    grace "She did, when I was little."
+    grace "Lo hizo, cuando era pequeña."
 
 # game/events/activities/pyjamas_party.rpy:602
 translate spanish girl_night_undress8_2d741e02:
 
     # me "I might not be little, but it would still make me sleep better."
-    me "I might not be little, but it would still make me sleep better."
+    me "Puede que no sea pequeño, pero aun así me haría dormir mejor."
 
 # game/events/activities/pyjamas_party.rpy:605
 translate spanish girl_night_undress8_9c2b5ada:
@@ -1690,13 +1690,13 @@ translate spanish girl_night_undress8_9c2b5ada:
 translate spanish girl_night_undress8_8065de9f:
 
     # grace "Goodnight."
-    grace "Goodnight."
+    grace "Buenas noches."
 
 # game/events/activities/pyjamas_party.rpy:609
 translate spanish girl_night_undress8_a58e739e:
 
     # me "I didn't mean a kiss on the forehead.."
-    me "I didn't mean a kiss on the forehead.."
+    me "No quise decir un beso en la frente..."
 
 # game/events/activities/pyjamas_party.rpy:612
 translate spanish girl_night_undress8_3820771a:
@@ -1708,25 +1708,25 @@ translate spanish girl_night_undress8_3820771a:
 translate spanish girl_night_undress8_3efc1909:
 
     # mina "Hahaha!"
-    mina "Hahaha!"
+    mina "¡Hahaha!"
 
 # game/events/activities/pyjamas_party.rpy:614
 translate spanish girl_night_undress8_45485e70:
 
     # alice "You got what you deserve, haha!"
-    alice "You got what you deserve, haha!"
+    alice "¡Tienes lo que te mereces, haha!"
 
 # game/events/activities/pyjamas_party.rpy:616
 translate spanish girl_night_undress8_fc1dd289:
 
     # me "I'm going to sleep..."
-    me "I'm going to sleep..."
+    me "Me voy a dormir..."
 
 # game/events/activities/pyjamas_party.rpy:619
 translate spanish girl_night_undress8_661c194c:
 
     # mina "See ya."
-    mina "See ya."
+    mina "Nos vemos."
 
 # game/events/activities/pyjamas_party.rpy:620
 translate spanish girl_night_undress8_e2950561:
@@ -1738,31 +1738,31 @@ translate spanish girl_night_undress8_e2950561:
 translate spanish girl_night_undress8_9002a5c4:
 
     # th "[alice], you little troublemaker.."
-    th "[alice], you little troublemaker.."
+    th "[alice], tu pequeña agitadora.."
 
 # game/events/activities/pyjamas_party.rpy:622
 translate spanish girl_night_undress8_37282866:
 
     # me "See ya, girls. Sleep tight."
-    me "See ya, girls. Sleep tight."
+    me "Nos vemos, chicas. Que descansen."
 
 # game/events/activities/pyjamas_party.rpy:626
 translate spanish girl_night_undress8_55965097:
 
     # "Someone holds your hand from behind."
-    "Someone holds your hand from behind."
+    "Alguien sostiene tu mano desde atrás."
 
 # game/events/activities/pyjamas_party.rpy:629
 translate spanish girl_night_undress8_61660bd0:
 
     # me "[alice]?"
-    me "[alice]?"
+    me "¿[alice]?"
 
 # game/events/activities/pyjamas_party.rpy:630
 translate spanish girl_night_undress8_e93d1692:
 
     # alice "What a bad boyfriend you are. You didn't even think of kissing your pitiful girlfriend goodnight.."
-    alice "What a bad boyfriend you are. You didn't even think of kissing your pitiful girlfriend goodnight.."
+    alice "Qué mal novio eres. Ni siquiera pensaste en darle un beso de buenas noches a tu pobre novia.."
 
 # game/events/activities/pyjamas_party.rpy:633
 translate spanish girl_night_undress8_9c8d6101:
@@ -1774,176 +1774,176 @@ translate spanish girl_night_undress8_9c8d6101:
 translate spanish girl_night_undress8_9b9dedc6:
 
     # th "Cheery taste."
-    th "Cheery taste."
+    th "Sabe a cereza."
 
 # game/events/activities/pyjamas_party.rpy:638
 translate spanish girl_night_undress8_61699d95:
 
     # alice "I love you, [me]."
-    alice "I love you, [me]."
+    alice "Te amo, [me]."
 
 # game/events/activities/pyjamas_party.rpy:639
 translate spanish girl_night_undress8_88b813ba:
 
     # me "I love you too, [alice]. Go to sleep."
-    me "I love you too, [alice]. Go to sleep."
+    me "Yo también te amo, [alice]. Ve a dormir."
 
 # game/events/activities/pyjamas_party.rpy:640
 translate spanish girl_night_undress8_a9015f5c:
 
     # alice "Mm. See you tomorrow."
-    alice "Mm. See you tomorrow."
+    alice "Mm. Te veo mañana."
 
 # game/events/activities/pyjamas_party.rpy:643
 translate spanish girl_night_undress8_dda7ec31:
 
     # me "Yeah, see ya."
-    me "Yeah, see ya."
+    me "Si, nos vemos."
 
 # game/events/activities/pyjamas_party.rpy:646
 translate spanish girl_night_undress8_e3b456e2:
 
     # me "Time to sleep."
-    me "Time to sleep."
+    me "Hora de dormir."
 
 # game/events/activities/pyjamas_party.rpy:657
 translate spanish girl_night_sleep_68a8d7f9:
 
     # me "Alright I've had enough, I'm going to sleep."
-    me "Alright I've had enough, I'm going to sleep."
+    me "Muy bien, ya tuve suficiente. Me voy a dormir."
 
 # game/events/activities/pyjamas_party.rpy:660
 translate spanish girl_night_sleep_6b62055f:
 
     # grace "Bye bye!"
-    grace "Bye bye!"
+    grace "¡Bye bye!"
 
 # game/events/activities/pyjamas_party.rpy:661
 translate spanish girl_night_sleep_661c194c:
 
     # mina "See ya."
-    mina "See ya."
+    mina "Nos vemos."
 
 # game/events/activities/pyjamas_party.rpy:662
 translate spanish girl_night_sleep_9b915c4a:
 
     # alice "Good for you, haha."
-    alice "Good for you, haha."
+    alice "Que bien por ti, haha."
 
 # game/events/activities/pyjamas_party.rpy:663
 translate spanish girl_night_sleep_9002a5c4:
 
     # th "[alice], you little troublemaker.."
-    th "[alice], you little troublemaker.."
+    th "[alice], tu pequeña agitadora..."
 
 # game/events/activities/pyjamas_party.rpy:664
 translate spanish girl_night_sleep_db063429:
 
     # me "See ya, girls."
-    me "See ya, girls."
+    me "Nos vemos, chicas."
 
 # game/events/activities/pyjamas_party.rpy:667
 translate spanish girl_night_sleep_b273d15b:
 
     # me "Ah.."
-    me "Ah.."
+    me "Ah..."
 
 # game/events/activities/pyjamas_party.rpy:668
 translate spanish girl_night_sleep_f4d51d64:
 
     # me "Time to sleep.."
-    me "Time to sleep.."
+    me "Hora de dormir..."
 
 translate spanish strings:
 
     # game/events/activities/pyjamas_party.rpy:21
     old "Should I check it out?"
-    new "Should I check it out?"
+    new "¿Debería ir a ver?"
 
     # game/events/activities/pyjamas_party.rpy:250
     old "Ask her to undress"
-    new "Ask her to undress"
+    new "Pídele que se desvista"
 
     # game/events/activities/pyjamas_party.rpy:250
     old "I've had enough, time to sleep"
-    new "I've had enough, time to sleep"
+    new "Ya tuve suficiente, hora de dormir"
 
     # game/events/activities/pyjamas_party.rpy:299
     old "[grace] wants a rose."
-    new "[grace] wants a rose."
+    new "[grace] quiere una rosa."
 
     # game/events/activities/pyjamas_party.rpy:299
     old "Alright, here you go"
-    new "Alright, here you go"
+    new "Muy bien, aquí tienes"
 
     # game/events/activities/pyjamas_party.rpy:299
     old "I won't give you any"
-    new "I won't give you any"
+    new "No te voy a dar ninguna"
 
     # game/events/activities/pyjamas_party.rpy:342
     old "[mina] wants an ice cream."
-    new "[mina] wants an ice cream."
+    new "[mina] quiere un helado."
 
     # game/events/activities/pyjamas_party.rpy:342
     old "Take it"
-    new "Take it"
+    new "Tómalo"
 
     # game/events/activities/pyjamas_party.rpy:342
     old "I don't have any.."
-    new "I don't have any.."
+    new "No tengo ninguna.."
 
     # game/events/activities/pyjamas_party.rpy:377
     old "[alice] wants an cloth."
-    new "[alice] wants an cloth."
+    new "[alice] quiere una tela."
 
     # game/events/activities/pyjamas_party.rpy:377
     old "Here you go"
-    new "Here you go"
+    new "Aquí tienes"
 
     # game/events/activities/pyjamas_party.rpy:377
     old "Not worth it"
-    new "Not worth it"
+    new "No lo vale"
 
     # game/events/activities/pyjamas_party.rpy:405
     old "[alice] wants some fur or leather."
-    new "[alice] wants some fur or leather."
+    new "[alice] quiere un pelaje o cuero."
 
     # game/events/activities/pyjamas_party.rpy:405
     old "Give her fur"
-    new "Give her fur"
+    new "Darle pelaje"
 
     # game/events/activities/pyjamas_party.rpy:405
     old "Give her leather"
-    new "Give her leather"
+    new "Darle cuero"
 
     # game/events/activities/pyjamas_party.rpy:405
     old "You wish"
-    new "You wish"
+    new "Ya quisieras"
 
     # game/events/activities/pyjamas_party.rpy:448
     old "This little gold digger wants gold nugget.."
-    new "This little gold digger wants gold nugget.."
+    new "Esta pequeña gold digger quiere una pepita de oro..."
 
     # game/events/activities/pyjamas_party.rpy:448
     old "Give her"
-    new "Give her"
+    new "Dárselo"
 
     # game/events/activities/pyjamas_party.rpy:448
     old "You'll get nothing more"
-    new "You'll get nothing more"
+    new "No obtendrás nada más"
 
     # game/events/activities/pyjamas_party.rpy:483
     old "She wants a.. diamond.."
-    new "She wants a.. diamond.."
+    new "Quiere un... diamante..."
 
     # game/events/activities/pyjamas_party.rpy:483
     old "Give her a diamond."
-    new "Give her a diamond."
+    new "Dale un diamante."
 
     # game/events/activities/pyjamas_party.rpy:483
     old "Just get naked already"
-    new "Just get naked already"
+    new "Tan sólo desnúdate de una vez"
 
     # game/events/activities/pyjamas_party.rpy:483
     old "No diamonds for you"
-    new "No diamonds for you"
+    new "Ningún diamante para ti"
