@@ -4,49 +4,49 @@
 translate spanish discover_wanderers_65fc5510:
 
     # "Gunshots break the silence."
-    "Gunshots break the silence."
+    "Disparos rompen el silencio."
 
 # game/places/wanderers/discover.rpy:6
 translate spanish discover_wanderers_8198f605:
 
     # th "Someone's in trouble.."
-    th "Someone's in trouble.."
+    th "Alguien está en problemas..."
 
 # game/places/wanderers/discover.rpy:7
 translate spanish discover_wanderers_ca2e464b:
 
     # th "Should I check it out?"
-    th "Should I check it out?"
+    th "¿Debería ir a comprobar?"
 
 # game/places/wanderers/discover.rpy:14
 translate spanish discover_wanderers_e2560b69:
 
     # th "That's not my business."
-    th "That's not my business."
+    th "No es mi problema."
 
 # game/places/wanderers/discover.rpy:19
 translate spanish discover_wanderers_part2_1e41129d:
 
     # "You soon find the source of the shots."
-    "You soon find the source of the shots."
+    "Pronto encuentras la fuente de los disparos."
 
 # game/places/wanderers/discover.rpy:22
 translate spanish discover_wanderers_part2_25b4b7c0:
 
     # th "Hmm.. Should I help him?"
-    th "Hmm.. Should I help him?"
+    th "Hmm... ¿Debería ayudarlo?"
 
 # game/places/wanderers/discover.rpy:25
 translate spanish discover_wanderers_part2_f4807aa2:
 
     # th "Seems I don't have a choice now.."
-    th "Parece que no tengo otra opción ahora..."
+    th "Parece que ahora no tengo otra opción..."
 
 # game/places/wanderers/discover.rpy:31
 translate spanish discover_wanderers_win_acfe05be:
 
     # u_governor "Hah. You're not bad my friend."
-    u_governor "Hah. No tan mal, amigo mío."
+    u_governor "Hah. No está mal, mi amigo."
 
 # game/places/wanderers/discover.rpy:34
 translate spanish discover_wanderers_win_109d9d71:
@@ -178,7 +178,7 @@ translate spanish discover_wanderers_win_ab5eea35:
 translate spanish discover_wanderers_win_effb048c:
 
     # me "But everything is in the open."
-    me "Pero todo al aire libre."
+    me "Pero todo está al aire libre."
 
 # game/places/wanderers/discover.rpy:79
 translate spanish discover_wanderers_win_4fb61e3a:
@@ -190,208 +190,208 @@ translate spanish discover_wanderers_win_4fb61e3a:
 translate spanish discover_wanderers_win_b2f20a8e:
 
     # me "That's fucked.. This whole situation is fucked up."
-    me "That's fucked.. This whole situation is fucked up."
+    me "Eso es extraño... Toda esta situación es extraña."
 
 # game/places/wanderers/discover.rpy:83
 translate spanish discover_wanderers_win_09b8ddaf:
 
     # governor "It is indeed. Let me introduce myself, I'm the governor of this hideout."
-    governor "It is indeed. Let me introduce myself, I'm the governor of this hideout."
+    governor "En efecto. Permítanme presentarme, soy el gobernador de este escondite."
 
 # game/places/wanderers/discover.rpy:84
 translate spanish discover_wanderers_win_a265d218:
 
     # governor "While we wanderers are free spirits, this place is a safe haven one can use to trade and rest."
-    governor "While we wanderers are free spirits, this place is a safe haven one can use to trade and rest."
+    governor "Si bien los errantes somos espíritus libres, este lugar es un refugio seguro para comerciar y descansar."
 
 # game/places/wanderers/discover.rpy:87
 translate spanish discover_wanderers_win_9204eebd:
 
     # me "Wanderers?"
-    me "Wanderers?"
+    me "¿Errantes?"
 
 # game/places/wanderers/discover.rpy:89
 translate spanish discover_wanderers_win_ec126fe2:
 
     # governor "Yes, the wanderers consist of independent groups of people that help each other survive. You can think of us as a faction."
-    governor "Yes, the wanderers consist of independent groups of people that help each other survive. You can think of us as a faction."
+    governor "Sí, los errantes consisten en grupos independientes de personas que se ayudan mutuamente a sobrevivir. Puedes pensar en nosotros como una facción."
 
 # game/places/wanderers/discover.rpy:90
 translate spanish discover_wanderers_win_46d27802:
 
     # me "I see."
-    me "I see."
+    me "Ya veo."
 
 # game/places/wanderers/discover.rpy:92
 translate spanish discover_wanderers_win_f991a53c:
 
     # me "But if wanderers are independent groups of people, what's up with the hideout and governor thing?"
-    me "But if wanderers are independent groups of people, what's up with the hideout and governor thing?"
+    me "Pero si los errantes son grupos independientes de personas, ¿qué es eso de un escondite y un gobernador?"
 
 # game/places/wanderers/discover.rpy:95
 translate spanish discover_wanderers_win_dcdb7b98:
 
     # governor "Haha, this place is one of a kind."
-    governor "Haha, this place is one of a kind."
+    governor "Haha, este lugar es único."
 
 # game/places/wanderers/discover.rpy:98
 translate spanish discover_wanderers_win_8027bf6c:
 
     # governor "I wanted a place like this to appear, so I built it from the scratch. Later more people joined, and it grew to what it is now."
-    governor "I wanted a place like this to appear, so I built it from the scratch. Later more people joined, and it grew to what it is now."
+    governor "Quería que apareciera un lugar como este, así que lo construí desde cero. Después se unieron más personas y creció hasta lo que es ahora."
 
 # game/places/wanderers/discover.rpy:99
 translate spanish discover_wanderers_win_5331fc6c:
 
     # governor "It's a free trade outpost and safehouse. It's not a needy group, but you can help out wherever you want. You're also free to leave anytime."
-    governor "It's a free trade outpost and safehouse. It's not a needy group, but you can help out wherever you want. You're also free to leave anytime."
+    governor "Es un puesto de avanzada de libre comercio y un refugio. No es un grupo necesitado, pero puedes ayudar donde quieras. También puedes irte en cualquier momento."
 
 # game/places/wanderers/discover.rpy:100
 translate spanish discover_wanderers_win_3f14e1ac:
 
     # me "I see. I think I understand now. So what should I call you?"
-    me "I see. I think I understand now. So what should I call you?"
+    me "Ya veo. Creo que ahora entiendo. Entonces, ¿cómo debería llamarte?"
 
 # game/places/wanderers/discover.rpy:103
 translate spanish discover_wanderers_win_df1a4e9b:
 
     # governor "Call me [governor], no one's called me any different since The End began. I've already abandoned my old name."
-    governor "Call me [governor], no one's called me any different since The End began. I've already abandoned my old name."
+    governor "Llámame [governor], nadie me llama de otra forma desde que El Fin comenzó. Ya he abandonado my viejo nombre."
 
 # game/places/wanderers/discover.rpy:104
 translate spanish discover_wanderers_win_1de8d0c4:
 
     # me "Fine then, [governor]. I'm [me]."
-    me "Fine then, [governor]. I'm [me]."
+    me "Muy bien, [governor]. Yo soy [me]."
 
 # game/places/wanderers/discover.rpy:107
 translate spanish discover_wanderers_win_2509e37b:
 
     # governor "It's nice to meet you, [me]."
-    governor "It's nice to meet you, [me]."
+    governor "Un gusto conocerte, [me]."
 
 # game/places/wanderers/discover.rpy:108
 translate spanish discover_wanderers_win_87b3c51c:
 
     # governor "Also, thank you for your help. I would be hard pressed to return before night if not for you."
-    governor "Also, thank you for your help. I would be hard pressed to return before night if not for you."
+    governor "Además, gracias por tu ayuda. Sería difícil volver antes de la noche si no fuera por ti."
 
 # game/places/wanderers/discover.rpy:109
 translate spanish discover_wanderers_win_2797c9ff:
 
     # me "I do what I can."
-    me "I do what I can."
+    me "Hago lo que puedo."
 
 # game/places/wanderers/discover.rpy:113
 translate spanish discover_wanderers_win_4a6d623b:
 
     # governor "Take this."
-    governor "Take this."
+    governor "Toma ésto."
 
 # game/places/wanderers/discover.rpy:114
 translate spanish discover_wanderers_win_40e60644:
 
     # me "Are those.."
-    me "Are those.."
+    me "¿Esas son...?"
 
 # game/places/wanderers/discover.rpy:117
 translate spanish discover_wanderers_win_d02b95ea:
 
     # governor "Bottle caps? Yes, they are."
-    governor "Bottle caps? Yes, they are."
+    governor "¿Tapas de botella? Sí, lo son."
 
 # game/places/wanderers/discover.rpy:118
 translate spanish discover_wanderers_win_23be24fb:
 
     # me "Thanks.."
-    me "Thanks.."
+    me "Gracias..."
 
 # game/places/wanderers/discover.rpy:119
 translate spanish discover_wanderers_win_cf3a6cd0:
 
     # th "What the hell am I supposed to do with them?"
-    th "What the hell am I supposed to do with them?"
+    th "¿Qué demonios se supone que haga con ellas?"
 
 # game/places/wanderers/discover.rpy:122
 translate spanish discover_wanderers_win_9c3fc517:
 
     # governor "A pity you can't see your face!"
-    governor "A pity you can't see your face!"
+    governor "¡Lástima que no puedas ver tu cara!"
 
 # game/places/wanderers/discover.rpy:123
 translate spanish discover_wanderers_win_12190c3a:
 
     # me "Haha.. Sorry.."
-    me "Haha.. Sorry.."
+    me "Haha... Lo siento..."
 
 # game/places/wanderers/discover.rpy:126
 translate spanish discover_wanderers_win_c5d28f49:
 
     # governor "These are our local currency. They are accepted by all wanderers."
-    governor "These are our local currency. They are accepted by all wanderers."
+    governor "Éstas son nuestra moneda local. Son aceptadas por todos los errantes."
 
 # game/places/wanderers/discover.rpy:127
 translate spanish discover_wanderers_win_225ecd31:
 
     # me "Oh, they will be useful then."
-    me "Oh, they will be useful then."
+    me "Oh, entonces serán útiles."
 
 # game/places/wanderers/discover.rpy:130
 translate spanish discover_wanderers_win_acb81293:
 
     # governor "Come, I'll take you to a place you can stay at."
-    governor "Come, I'll take you to a place you can stay at."
+    governor "Ven, te llevaré a un lugar donde puedas quedarte."
 
 # game/places/wanderers/discover.rpy:131
 translate spanish discover_wanderers_win_12cf7b69:
 
     # me "Thanks."
-    me "Thanks."
+    me "Gracias."
 
 # game/places/wanderers/discover.rpy:137
 translate spanish discover_wanderers_win_d611ebaa:
 
     # governor "It's not much, but it's better than nothing. The first room is yours."
-    governor "It's not much, but it's better than nothing. The first room is yours."
+    governor "No es mucho, pero es mejor que nada. La primera habitación es tuya."
 
 # game/places/wanderers/discover.rpy:138
 translate spanish discover_wanderers_win_a0a697c9:
 
     # me "Thank you."
-    me "Thank you."
+    me "Gracias de nuevo."
 
 # game/places/wanderers/discover.rpy:141
 translate spanish discover_wanderers_win_650ce5b6:
 
     # governor "You can stay here anytime. Normally one needs to pay for a night at the motel, but you saved my ass today. Let that stay between us."
-    governor "You can stay here anytime. Normally one needs to pay for a night at the motel, but you saved my ass today. Let that stay between us."
+    governor "Puedes quedarte aquí en cualquier momento. Normalmente uno tiene que pagar por una noche en el motel, pero me salvaste el culo hoy. Deja que eso quede entre nosotros."
 
 # game/places/wanderers/discover.rpy:142
 translate spanish discover_wanderers_win_b5c73233:
 
     # me "Sure thing, [governor], and thank you, I appreciate your hospitality."
-    me "Sure thing, [governor], and thank you, I appreciate your hospitality."
+    me "Seguro, [governor], y una vez más gracias. De verdad aprecio la hospitalidad."
 
 # game/places/wanderers/discover.rpy:145
 translate spanish discover_wanderers_win_636d1176:
 
     # governor "It's the least I can do. Alright, my friend, I believe we both need to rest. We'll speak again soon."
-    governor "It's the least I can do. Alright, my friend, I believe we both need to rest. We'll speak again soon."
+    governor "Es lo mínimo que puedo hacer. Muy bien, amigo mío, creo que los dos necesitamos descansar. Hablaremos de nuevo pronto."
 
 # game/places/wanderers/discover.rpy:146
 translate spanish discover_wanderers_win_0ec0d987:
 
     # me "Yeah, that was very tiring evening. See you."
-    me "Yeah, that was very tiring evening. See you."
+    me "Sí, esa fue una noche muy agotadora. Nos vemos."
 
 # game/places/wanderers/discover.rpy:147
 translate spanish discover_wanderers_win_6309f547:
 
     # governor "Sleep well, friend."
-    governor "Sleep well, friend."
+    governor "Que descanses, amigo."
 
 # game/places/wanderers/discover.rpy:150
 translate spanish discover_wanderers_win_e4e5e3cf:
 
     # th "Ahh.. That was really tiring day. This guy [governor] seems nice enough. I think we'll be able to get along just fine."
-    th "Ahh.. That was really tiring day. This guy [governor] seems nice enough. I think we'll be able to get along just fine."
+    th "Ahh... Ese fue un día realmente agotador. Este tipo [governor] parece bastante agradable. Creo que podremos llevarnos bien."
