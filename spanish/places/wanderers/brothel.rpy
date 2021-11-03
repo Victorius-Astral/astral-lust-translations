@@ -4,13 +4,13 @@
 translate spanish wanderers_brothel_753a405b:
 
     # madam_hof "Welcome again, [me]. How can I help you today?"
-    madam_hof "Welcome again, [me]. How can I help you today?"
+    madam_hof "Bienvenido de nuevo, [me]. ¿Cómo puedo ayudarte hoy?"
 
 # game/places/wanderers/brothel.rpy:42
 translate spanish wanderers_brothel_5e87e989:
 
     # madam_hof "It seems you've took a liking to our girls, I'll give you 5% discount on all future visits."
-    madam_hof "It seems you've took a liking to our girls, I'll give you 5% discount on all future visits."
+    madam_hof "Parece que te han gustado nuestras chicas, te daré un 5% de descuento en todas las visitas futuras."
 
 # game/places/wanderers/brothel.rpy:43
 translate spanish wanderers_brothel_12cf7b69:
@@ -259,4 +259,3 @@ translate spanish strings:
     # game/places/wanderers/brothel.rpy:56
     old "Can I take a look at your girls before paying?"
     new "Can I take a look at your girls before paying?"
-
