@@ -38,3 +38,11 @@ translate polish strings:
     old "Trick or Treat"
     new "Trick or Treat"
 
+# TODO: Translation updated at 2021-07-11 16:45
+
+translate polish strings:
+
+    # game/screens/settings/music.rpy:25
+    old "An Innermost Glow"
+    new "An Innermost Glow"
+

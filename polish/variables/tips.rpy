@@ -225,3 +225,39 @@ translate polish strings:
     # game/variables/tips.rpy:4
     old "I should talk with her, didn't have a chance last time."
     new "Powinienem z nią porozmawiać, ostatnio nie miałem zbytnio okazji.."
+# TODO: Translation updated at 2021-07-11 16:45
+
+translate polish strings:
+
+    # game/variables/tips.rpy:4
+    old "I should go out to explore."
+    new "I should go out to explore."
+
+    # game/variables/tips.rpy:4
+    old "Maybe I'll meet her outside."
+    new "Maybe I'll meet her outside."
+
+    # game/variables/tips.rpy:4
+    old "I bet she would want to talk about something in a few days, I should wait at my room for her."
+    new "I bet she would want to talk about something in a few days, I should wait at my room for her."
+
+    # game/variables/tips.rpy:4
+    old "She probably misses her mom, I should check on her from time to time, maybe she needs me."
+    new "She probably misses her mom, I should check on her from time to time, maybe she needs me."
+
+    # game/variables/tips.rpy:4
+    old "I wonder if this wench will come to my bed again."
+    new "I wonder if this wench will come to my bed again."
+
+    # game/variables/tips.rpy:4
+    old "I want to have some fun with her. Playroom would be useful."
+    new "I want to have some fun with her. Playroom would be useful."
+
+    # game/variables/tips.rpy:4
+    old "Who knows what awaits me outside? I should built next hotel floor first."
+    new "Who knows what awaits me outside? I should built next hotel floor first."
+
+    # game/variables/tips.rpy:4
+    old "If I'm lucky, a hidden treasure can turn out to be a new friend."
+    new "If I'm lucky, a hidden treasure can turn out to be a new friend."
+

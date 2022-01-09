@@ -423,14 +423,14 @@ translate spanish lexi_3_3_9b6034a6:
 # game/characters/lexi/ev_3.rpy:148
 translate spanish lexi_3_3_f099865d:
 
-    # me "Alice still hasn't come back, did something happen to her, it's late already."
-    me "Alice still hasn't come back, did something happen to her, it's late already."
+    # me "Alice still hasn't come back. Could something have happened to her? Its pretty late already..."
+    me "Alice still hasn't come back. Could something have happened to her? Its pretty late already..."
 
 # game/characters/lexi/ev_3.rpy:150
 translate spanish lexi_3_3_c230c816:
 
-    # lexi "No, it's safe here. She's sleeping with Grace today I guess. she does that sometimes."
-    lexi "No, it's safe here. She's sleeping with Grace today I guess. she does that sometimes."
+    # lexi "No, it's safe here. She's sleeping with Grace today I guess. She does that sometimes."
+    lexi "No, it's safe here. She's sleeping with Grace today I guess. She does that sometimes."
 
 # game/characters/lexi/ev_3.rpy:151
 translate spanish lexi_3_3_f32a6159:

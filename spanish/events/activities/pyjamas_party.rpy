@@ -1893,6 +1893,7 @@ translate spanish strings:
     new "No tengo.."
 
     # game/events/activities/pyjamas_party.rpy:377
+
     old "[alice] wants an cloth."
     new "[alice] quiere tela."
 

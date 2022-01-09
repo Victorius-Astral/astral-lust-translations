@@ -102,3 +102,47 @@ translate polish strings:
     old "Open the gates to your kingdom."
     new "Open the gates to your kingdom."
 
+# TODO: Translation updated at 2021-07-11 16:45
+
+# game/places/hotel/player/altar.rpy:43
+translate polish room_player_altar_kiara_a864fc90:
+
+    # me "What have I wanted to say?"
+    me "What have I wanted to say?"
+
+# game/places/hotel/player/altar.rpy:44
+translate polish room_player_altar_kiara_0dd984d6:
+
+    # me ".. Weird..."
+    me ".. Weird..."
+
+# game/places/hotel/player/altar.rpy:55
+translate polish room_player_altar_kiara_97991f8f:
+
+    # "There is no response."
+    "There is no response."
+
+# game/places/hotel/player/altar.rpy:56
+translate polish room_player_altar_kiara_fac33955:
+
+    # me "Perhaps I should wait more. I hope she's alright."
+    me "Perhaps I should wait more. I hope she's alright."
+
+# game/places/hotel/player/altar.rpy:60
+translate polish room_player_altar_kiara_02089ca2:
+
+    # me "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar."
+    me "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar."
+
+# game/places/hotel/player/altar.rpy:61
+translate polish room_player_altar_kiara_365931bb:
+
+    # me "Open the gates to your kingdom."
+    me "Open the gates to your kingdom."
+
+# game/places/hotel/player/altar.rpy:63
+translate polish room_player_altar_kiara_97991f8f_1:
+
+    # "There is no response."
+    "There is no response."
+

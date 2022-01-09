@@ -344,3 +344,23 @@ translate polish strings:
     old "\n\n{quiet}Legal:\nAstral Lust is the intellectual property of Victorius.\nVictorius can be contacted through Discord (https://discord.gg/rvnBC39USx) or Patreon (https://www.patreon.com/Victorius).\n\n(a) Permission is granted for this material to be shared for non-commercial purposes provided that this statement appears in the reproduced materials.\n(b) You may NOT sell these files or modify these files to sell, either grouped together or separately.\n(c) You may NOT remove or alter the credit of the creator as it is shown here and in the game's files.\n(d) You may redistribute these files (Astral Lust) as Astral Lust for free. Given a credit to the developer (Victorius) is provided.{/quiet}"
     new "\n\n{quiet}Legal:\nAstral Lust is the intellectual property of Victorius.\nVictorius can be contacted through Discord (https://discord.gg/rvnBC39USx) or Patreon (https://www.patreon.com/Victorius).\n\n(a) Permission is granted for this material to be shared for non-commercial purposes provided that this statement appears in the reproduced materials.\n(b) You may NOT sell these files or modify these files to sell, either grouped together or separately.\n(c) You may NOT remove or alter the credit of the creator as it is shown here and in the game's files.\n(d) You may redistribute these files (Astral Lust) as Astral Lust for free. Given a credit to the developer (Victorius) is provided.{/quiet}"
 
+# TODO: Translation updated at 2021-07-11 16:45
+
+translate polish strings:
+
+    # game/screens.rpy:346
+    old "Check for Updates"
+    new "Check for Updates"
+
+    # game/screens.rpy:443
+    old "About"
+    new "About"
+
+    # game/screens.rpy:690
+    old "\nContributed Code: cuckoo4cocoapuffs"
+    new "\nContributed Code: cuckoo4cocoapuffs"
+
+    # game/screens.rpy:692
+    old "\n\nMusic: {a=https://www.bensound.com}www.bensound.com{/a}, {a=https://www.zapsplat.com}www.zapsplat.com{/a}, An Innermost Glow by The Longshore Striders"
+    new "\n\nMusic: {a=https://www.bensound.com}www.bensound.com{/a}, {a=https://www.zapsplat.com}www.zapsplat.com{/a}, An Innermost Glow by The Longshore Striders"
+

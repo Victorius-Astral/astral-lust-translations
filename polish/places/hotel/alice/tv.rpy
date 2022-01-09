@@ -50,3 +50,11 @@ translate polish room_alice_tv_bd0f6867:
     # th "It's too late for that."
     th "It's too late for that."
 
+# TODO: Translation updated at 2021-07-11 16:45
+
+# game/places/hotel/alice/tv.rpy:53
+translate polish room_alice_tv_series_4474b87a:
+
+    # th "We used to think that problems like in those series are important. How foolish we were."
+    th "We used to think that problems like in those series are important. How foolish we were."
+

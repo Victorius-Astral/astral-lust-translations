@@ -435,3 +435,11 @@ translate polish strings:
     # game/characters/alice/ev_5.rpy:148
     old "Cuddle with her"
     new "Cuddle with her"
+# TODO: Translation updated at 2021-07-11 16:45
+
+# game/characters/alice/ev_5.rpy:25
+translate polish alice_5_1_b44a53e7:
+
+    # "As you open the doors you notice moans are coming from the sofa."
+    "As you open the doors you notice moans are coming from the sofa."
+

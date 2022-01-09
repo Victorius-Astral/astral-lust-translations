@@ -452,3 +452,23 @@ translate polish strings:
     old "Tell me something about yourself"
     new "Tell me something about yourself"
 
+# TODO: Translation updated at 2021-07-11 16:45
+
+translate polish strings:
+
+    # game/characters/mina/speak.rpy:30
+    old "How are you? {gold}(Story){/gold}"
+    new "How are you? {gold}(Story){/gold}"
+
+    # game/characters/mina/speak.rpy:30
+    old "Let's chat {gold}(Story){/gold}"
+    new "Let's chat {gold}(Story){/gold}"
+
+    # game/characters/mina/speak.rpy:30
+    old "Let's have a chat again {gold}(Story){/gold}"
+    new "Let's have a chat again {gold}(Story){/gold}"
+
+    # game/characters/mina/speak.rpy:30
+    old "Do you need some help? {trust}(Trust+){/trust}"
+    new "Do you need some help? {trust}(Trust+){/trust}"
+

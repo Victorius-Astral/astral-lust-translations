@@ -82,3 +82,19 @@ translate polish strings:
     old "[player.luck]\n[player.card_draw]\n[player.max_hand]"
     new "[player.luck]\n[player.card_draw]\n[player.max_hand]"
 
+# TODO: Translation updated at 2021-07-11 16:45
+
+translate polish strings:
+
+    # game/screens/menus/character.rpy:32
+    old "{color=#d26a6a}Health{/color} - how much damage you can take.\n\n{color=#C6E2FF}Spirituality{/color} - consumed when using cards in combat. Recovers at the beginning of new turn."
+    new "{color=#d26a6a}Health{/color} - how much damage you can take.\n\n{color=#C6E2FF}Spirituality{/color} - consumed when using cards in combat. Recovers at the beginning of new turn."
+
+    # game/screens/menus/character.rpy:36
+    old "{color=#d26a6a}Health:{/color}\n{color=#C6E2FF}Spirituality:{/color}"
+    new "{color=#d26a6a}Health:{/color}\n{color=#C6E2FF}Spirituality:{/color}"
+
+    # game/screens/menus/character.rpy:37
+    old "{color=#d26a6a}[player.hp]/[player.hp_max]{/color}\n{color=#C6E2FF}[player.spirit]/[player.spirit_max]{/color}"
+    new "{color=#d26a6a}[player.hp]/[player.hp_max]{/color}\n{color=#C6E2FF}[player.spirit]/[player.spirit_max]{/color}"
+

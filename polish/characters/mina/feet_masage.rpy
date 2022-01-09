@@ -1648,3 +1648,15 @@ translate polish strings:
     old "Stop"
     new "Stop"
 
+# TODO: Translation updated at 2021-07-11 16:45
+
+translate polish strings:
+
+    # game/characters/mina/feet_masage.rpy:45
+    old "That's my fetish {lust}(Lust+){/lust}"
+    new "That's my fetish {lust}(Lust+){/lust}"
+
+    # game/characters/mina/feet_masage.rpy:45
+    old "I simply want to spend some time with you {trust}(Trust+){/trust}"
+    new "I simply want to spend some time with you {trust}(Trust+){/trust}"
+

@@ -962,3 +962,101 @@ translate polish strings:
     old "Do you have any advice for exploration?"
     new "Do you have any advice for exploration?"
 
+# TODO: Translation updated at 2021-07-11 16:45
+
+# game/characters/alice/speak.rpy:272
+translate polish alice_menu_outfits_aae4df87:
+
+    # alice "Why do you want me to make something like this?"
+    alice "Why do you want me to make something like this?"
+
+# game/characters/alice/speak.rpy:273
+translate polish alice_menu_outfits_a8870946:
+
+    # me "Just tell me if you can do it."
+    me "Just tell me if you can do it."
+
+# game/characters/alice/speak.rpy:277
+translate polish alice_menu_outfits_cfa939e4:
+
+    # alice "Of course I can. Gimme Maddened Heart, and three vials of Abyssal Blood."
+    alice "Of course I can. Gimme Maddened Heart, and three vials of Abyssal Blood."
+
+# game/characters/alice/speak.rpy:284
+translate polish alice_menu_outfits_2ac692e4:
+
+    # alice "Sure, I'll start immediately."
+    alice "Sure, I'll start immediately."
+
+# game/characters/alice/speak.rpy:294
+translate polish alice_menu_outfits_89407595_3:
+
+    # alice "First get the stuff needed."
+    alice "First get the stuff needed."
+
+# game/characters/alice/speak.rpy:300
+translate polish alice_menu_outfits_07ab9ca6_3:
+
+    # alice "If you wish so.."
+    alice "If you wish so.."
+
+# game/characters/alice/speak.rpy:431
+translate polish alice_menu_outfits_af5f5d0a:
+
+    # alice "You want to torture my pussy again, daddy?"
+    alice "You want to torture my pussy again, daddy?"
+
+translate polish strings:
+
+    # game/characters/alice/speak.rpy:21
+    old "How are you feeling? {gold}(Story){/gold}"
+    new "How are you feeling? {gold}(Story){/gold}"
+
+    # game/characters/alice/speak.rpy:21
+    old "Ask how she feels {gold}(Story){/gold}"
+    new "Ask how she feels {gold}(Story){/gold}"
+
+    # game/characters/alice/speak.rpy:21
+    old "How about some fun? {gold}(Story){/gold}"
+    new "How about some fun? {gold}(Story){/gold}"
+
+    # game/characters/alice/speak.rpy:21
+    old "Are you alright? {gold}(Story){/gold}"
+    new "Are you alright? {gold}(Story){/gold}"
+
+    # game/characters/alice/speak.rpy:21
+    old "Ask about her mood. {gold}(Story){/gold}"
+    new "Ask about her mood. {gold}(Story){/gold}"
+
+    # game/characters/alice/speak.rpy:21
+    old "Bring on your questions. {gold}(Story){/gold}"
+    new "Bring on your questions. {gold}(Story){/gold}"
+
+    # game/characters/alice/speak.rpy:21
+    old "It's time to help [mina] {gold}(Story){/gold}"
+    new "It's time to help [mina] {gold}(Story){/gold}"
+
+    # game/characters/alice/speak.rpy:21
+    old "Can I use your tv? {trust}(Trust+){/trust}"
+    new "Can I use your tv? {trust}(Trust+){/trust}"
+
+    # game/characters/alice/speak.rpy:21
+    old "Do you want to train together? {trust}(Trust+){/trust}"
+    new "Do you want to train together? {trust}(Trust+){/trust}"
+
+    # game/characters/alice/speak.rpy:21
+    old "Kiss {lust}(Lust+){/lust}"
+    new "Kiss {lust}(Lust+){/lust}"
+
+    # game/characters/alice/speak.rpy:21
+    old "Have fun {lust}(Lust+){/lust}"
+    new "Have fun {lust}(Lust+){/lust}"
+
+    # game/characters/alice/speak.rpy:268
+    old "Tentacles"
+    new "Tentacles"
+
+    # game/characters/alice/speak.rpy:312
+    old "Kiss"
+    new "Kiss"
+

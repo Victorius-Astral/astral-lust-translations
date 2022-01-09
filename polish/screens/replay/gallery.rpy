@@ -18,3 +18,11 @@ translate polish strings:
     old "Fix Gallery"
     new "Fix Gallery"
 
+# TODO: Translation updated at 2021-07-11 16:45
+
+translate polish strings:
+
+    # game/screens/replay/gallery.rpy:38
+    old "Recover Gallery"
+    new "Recover Gallery"
+

@@ -9,8 +9,8 @@ translate spanish speak_lexi_b267fd29:
 # game/characters/lexi/speak.rpy:23
 translate spanish lexi_menu1_197a6b26:
 
-    # "She already told me what to do. Perhaps I should go back, ther might still be food there."
-    "She already told me what to do. Perhaps I should go back, ther might still be food there."
+    # "She already told me what to do. Perhaps I should go back, there might still be food there."
+    "She already told me what to do. Perhaps I should go back, there might still be food there."
 
 # game/characters/lexi/speak.rpy:38
 translate spanish lexi_menu1_1f45fd8a:

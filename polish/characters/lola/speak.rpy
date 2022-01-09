@@ -122,3 +122,15 @@ translate polish strings:
     old "Reversed Pilediver"
     new "Reversed Pilediver"
 
+# TODO: Translation updated at 2021-07-11 16:45
+
+translate polish strings:
+
+    # game/characters/lola/speak.rpy:7
+    old "Why do you like sex so much? {gold}(Story){/gold}"
+    new "Why do you like sex so much? {gold}(Story){/gold}"
+
+    # game/characters/lola/speak.rpy:7
+    old "Let's have fun {lust}(Lust+){/lust}"
+    new "Let's have fun {lust}(Lust+){/lust}"
+
