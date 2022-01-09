@@ -334,3 +334,11 @@ translate polish strings:
     old "Explain it to me again"
     new "Explain it to me again"
 
+# TODO: Translation updated at 2021-07-11 16:45
+
+translate polish strings:
+
+    # game/characters/kiara/ev_2.rpy:72
+    old "Yes, if you keep my stuff safe for me"
+    new "Yes, if you keep my stuff safe for me"
+

@@ -368,3 +368,67 @@ translate polish strings:
     # game/variables/replays.rpy:167
     old "Secret"
     new "Sekrety"
+# TODO: Translation updated at 2021-07-11 16:45
+
+translate polish strings:
+
+    # game/variables/replays.rpy:3
+    old "Night Cuddler part 1"
+    new "Night Cuddler part 1"
+
+    # game/variables/replays.rpy:3
+    old "Night Cuddler part 2"
+    new "Night Cuddler part 2"
+
+    # game/variables/replays.rpy:3
+    old "Horse Ridding Lessons"
+    new "Horse Ridding Lessons"
+
+    # game/variables/replays.rpy:36
+    old "Lonely Mina (Friend)"
+    new "Lonely Mina (Friend)"
+
+    # game/variables/replays.rpy:36
+    old "Lonely Mina (Love)"
+    new "Lonely Mina (Love)"
+
+    # game/variables/replays.rpy:62
+    old "Agorafobia"
+    new "Agorafobia"
+
+    # game/variables/replays.rpy:62
+    old "Trouble in the Paradise"
+    new "Trouble in the Paradise"
+
+    # game/variables/replays.rpy:82
+    old "Aharon's Call"
+    new "Aharon's Call"
+
+    # game/variables/replays.rpy:98
+    old "Playing Home"
+    new "Playing Home"
+
+    # game/variables/replays.rpy:118
+    old "Accident"
+    new "Accident"
+
+    # game/variables/replays.rpy:118
+    old "Meeting Girls"
+    new "Meeting Girls"
+
+    # game/variables/replays.rpy:148
+    old "Treasure Hunt"
+    new "Treasure Hunt"
+
+    # game/variables/replays.rpy:180
+    old "Ending - Author"
+    new "Ending - Author"
+
+    # game/variables/replays.rpy:180
+    old "Ending - Loss of Control"
+    new "Ending - Loss of Control"
+
+    # game/variables/replays.rpy:180
+    old "Ending - Corrupted"
+    new "Ending - Corrupted"
+

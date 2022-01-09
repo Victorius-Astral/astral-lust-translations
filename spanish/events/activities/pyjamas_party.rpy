@@ -1119,8 +1119,8 @@ translate spanish girl_night_undress4_5f7a4392:
 # game/events/activities/pyjamas_party.rpy:374
 translate spanish girl_night_undress4_02621109:
 
-    # alice "I want an cloth."
-    alice "I want an cloth."
+    # alice "I want a cloth."
+    alice "I want a cloth."
 
 # game/events/activities/pyjamas_party.rpy:375
 translate spanish girl_night_undress4_5f4aa1ad:
@@ -1893,8 +1893,8 @@ translate spanish strings:
     new "I don't have any.."
 
     # game/events/activities/pyjamas_party.rpy:377
-    old "[alice] wants an cloth."
-    new "[alice] wants an cloth."
+    old "[alice] wants a cloth."
+    new "[alice] wants a cloth."
 
     # game/events/activities/pyjamas_party.rpy:377
     old "Here you go"

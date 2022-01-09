@@ -616,3 +616,61 @@ translate polish strings:
     old "Have you ever had a boyfriend?"
     new "Have you ever had a boyfriend?"
 
+# TODO: Translation updated at 2021-07-11 16:45
+
+# game/characters/grace/speak.rpy:165
+translate polish grace_menu1_96b66108:
+
+    # grace "I don't want to get dirty.."
+    grace "I don't want to get dirty.."
+
+# game/characters/grace/speak.rpy:166
+translate polish grace_menu1_4c608055:
+
+    # me "Such is life, [grace]. It can be hard, but think of my smile."
+    me "Such is life, [grace]. It can be hard, but think of my smile."
+
+# game/characters/grace/speak.rpy:167
+translate polish grace_menu1_8e76b51e:
+
+    # grace "It doesn't help."
+    grace "It doesn't help."
+
+# game/characters/grace/speak.rpy:168
+translate polish grace_menu1_a2552b81:
+
+    # me "You won't do it?"
+    me "You won't do it?"
+
+# game/characters/grace/speak.rpy:169
+translate polish grace_menu1_29fac845:
+
+    # grace "I will."
+    grace "I will."
+
+# game/characters/grace/speak.rpy:170
+translate polish grace_menu1_e74c4459:
+
+    # me "Sweet."
+    me "Sweet."
+
+# game/characters/grace/speak.rpy:174
+translate polish grace_menu1_7cbd3365:
+
+    # grace "Do you want me to change clothes?"
+    grace "Do you want me to change clothes?"
+
+translate polish strings:
+
+    # game/characters/grace/speak.rpy:16
+    old "Do you like roses? {gold}(Story){/gold}"
+    new "Do you like roses? {gold}(Story){/gold}"
+
+    # game/characters/grace/speak.rpy:16
+    old "Want me to help you with your flowers? {gold}(Story){/gold}"
+    new "Want me to help you with your flowers? {gold}(Story){/gold}"
+
+    # game/characters/grace/speak.rpy:16
+    old "Want me to help you with your flowers? {trust}(Trust+){/trust}"
+    new "Want me to help you with your flowers? {trust}(Trust+){/trust}"
+

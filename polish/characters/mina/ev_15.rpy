@@ -1688,3 +1688,11 @@ translate polish strings:
     old "I was drunk"
     new "I was drunk"
 
+# TODO: Translation updated at 2021-07-11 16:45
+
+translate polish strings:
+
+    # game/characters/mina/ev_15.rpy:451
+    old "[[This choice has major impact on a story! It can't be reversed!]"
+    new "[[This choice has major impact on a story! It can't be reversed!]"
+

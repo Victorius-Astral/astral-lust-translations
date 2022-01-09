@@ -42,3 +42,11 @@ translate polish strings:
     old "Get tissue"
     new "Get tissue"
 
+# TODO: Translation updated at 2021-07-11 16:45
+
+# game/places/hotel/f1/cupboard.rpy:12
+translate polish room_f1_cupboard_menu1_628ba9fa:
+
+    # me "I shouldn't eat at night."
+    me "I shouldn't eat at night."
+

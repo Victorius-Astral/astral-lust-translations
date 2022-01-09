@@ -9,8 +9,8 @@ translate polish speak_lexi_b267fd29:
 # game/characters/lexi/speak.rpy:23
 translate polish lexi_menu1_197a6b26:
 
-    # "She already told me what to do. Perhaps I should go back, ther might still be food there."
-    "She already told me what to do. Perhaps I should go back, ther might still be food there."
+    # "She already told me what to do. Perhaps I should go back, there might still be food there."
+    "She already told me what to do. Perhaps I should go back, there might still be food there."
 
 # game/characters/lexi/speak.rpy:38
 translate polish lexi_menu1_1f45fd8a:
@@ -409,4 +409,65 @@ translate polish strings:
     # game/characters/lexi/speak.rpy:118
     old "What were you doing before The End?"
     new "What were you doing before The End?"
+# TODO: Translation updated at 2021-07-11 16:45
+
+# game/characters/lexi/speak.rpy:28
+translate polish lexi_menu1_6057173a:
+
+    # "She already told me what to do. Perhaps I should go back, there might still be food there."
+    "She already told me what to do. Perhaps I should go back, there might still be food there."
+
+# game/characters/lexi/speak.rpy:130
+translate polish lexi_menu1_21aa2165:
+
+    # lexi "Alright. I can't wait."
+    lexi "Alright. I can't wait."
+
+# game/characters/lexi/speak.rpy:131
+translate polish lexi_menu1_7c380e1d:
+
+    # lexi "Should I change?"
+    lexi "Should I change?"
+
+translate polish strings:
+
+    # game/characters/lexi/speak.rpy:12
+    old "How about we do it again? {gold}(Story){/gold}"
+    new "How about we do it again? {gold}(Story){/gold}"
+
+    # game/characters/lexi/speak.rpy:12
+    old "Let's go on a date {gold}(Story){/gold}"
+    new "Let's go on a date {gold}(Story){/gold}"
+
+    # game/characters/lexi/speak.rpy:12
+    old "Are you.. alright? {gold}(Story){/gold}"
+    new "Are you.. alright? {gold}(Story){/gold}"
+
+    # game/characters/lexi/speak.rpy:12
+    old "Ask if she is alright {gold}(Story){/gold}"
+    new "Ask if she is alright {gold}(Story){/gold}"
+
+    # game/characters/lexi/speak.rpy:12
+    old "Need some help? {gold}(Story){/gold}"
+    new "Need some help? {gold}(Story){/gold}"
+
+    # game/characters/lexi/speak.rpy:12
+    old "Can I help you somehow? {gold}(Story){/gold}"
+    new "Can I help you somehow? {gold}(Story){/gold}"
+
+    # game/characters/lexi/speak.rpy:12
+    old "I have the ice cream {gold}(Story){/gold}"
+    new "I have the ice cream {gold}(Story){/gold}"
+
+    # game/characters/lexi/speak.rpy:12
+    old "Need someone to watch your back outside? {loot}(Materials+){/loot}{trust}(Trust+){/trust}"
+    new "Need someone to watch your back outside? {loot}(Materials+){/loot}{trust}(Trust+){/trust}"
+
+    # game/characters/lexi/speak.rpy:133
+    old "Outside"
+    new "Outside"
+
+    # game/characters/lexi/speak.rpy:133
+    old "Nude"
+    new "Nude"
 

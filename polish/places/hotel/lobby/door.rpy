@@ -80,3 +80,27 @@ translate polish strings:
     old "Wanderers Hideout"
     new "Wanderers Hideout"
 
+# TODO: Translation updated at 2021-07-11 16:45
+
+# game/places/hotel/lobby/door.rpy:88
+translate polish room_lobby_door_wanderers_df3b8a27:
+
+    # "It's too late for that."
+    "It's too late for that."
+
+# game/places/hotel/lobby/door.rpy:92
+translate polish room_lobby_door_wanderers_8ee7ff38:
+
+    # "You travel carefully through the fog, slowly moving towards Wanderers Hideout."
+    "You travel carefully through the fog, slowly moving towards Wanderers Hideout."
+
+translate polish strings:
+
+    # game/places/hotel/lobby/door.rpy:13
+    old "{gold}Return for food{/gold}"
+    new "{gold}Return for food{/gold}"
+
+    # game/places/hotel/lobby/door.rpy:13
+    old "Explore {gold}(Chance for a story event){/gold}"
+    new "Explore {gold}(Chance for a story event){/gold}"
+

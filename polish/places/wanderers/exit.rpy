@@ -24,3 +24,17 @@ translate polish strings:
     old "Jade Hotel"
     new "Jade Hotel"
 
+# TODO: Translation updated at 2021-07-11 16:45
+
+# game/places/wanderers/exit.rpy:31
+translate polish wanderers_exit_hotel_df3b8a27:
+
+    # "It's too late for that."
+    "It's too late for that."
+
+# game/places/wanderers/exit.rpy:40
+translate polish wanderers_exit_hotel_351ac535:
+
+    # "You travel carefully through the fog, slowly moving towards the hotel."
+    "You travel carefully through the fog, slowly moving towards the hotel."
+
