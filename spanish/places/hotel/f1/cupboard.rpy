@@ -11,33 +11,32 @@ translate spanish room_f1_cupboard_a938a2fd:
 translate spanish room_f1_cupboard_menu1_d9c7af06:
 
     # me "Tasty!"
-    me "Tasty!"
+    me "¡Sabroso!"
 
 # game/places/hotel/f1/cupboard.rpy:12
 translate spanish room_f1_cupboard_menu1_cbf14987:
 
     # th "Where did they get it, though?"
-    th "Where did they get it, though?"
+    th "Aunque, ¿de dónde las consiguieron?"
 
 # game/places/hotel/f1/cupboard.rpy:23
 translate spanish room_f1_cupboard_menu1_4fee96dd:
 
     # me "*Cough*"
-    me "*Cough*"
+    me "*Tos*"
 
 # game/places/hotel/f1/cupboard.rpy:24
 translate spanish room_f1_cupboard_menu1_d93ae52b:
 
     # th "Ehm.. It might come in handy.."
-    th "Ehm.. It might come in handy.."
+    th "Ehm... Podría ser útil..."
 
 translate spanish strings:
 
     # game/places/hotel/f1/cupboard.rpy:4
     old "Eat banana"
-    new "Eat banana"
+    new "Comer banana"
 
     # game/places/hotel/f1/cupboard.rpy:4
     old "Get tissue"
-    new "Get tissue"
-
+    new "Obtener pañuelo"

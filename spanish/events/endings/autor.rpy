@@ -4,7 +4,7 @@
 translate spanish end_autor_165f6ec2:
 
     # "You became Author's persona."
-    "Te convertiste en la persona del autor."
+    "Te convertiste en la persona del Autor."
 
 # game/events/endings/autor.rpy:7
 translate spanish end_autor_0c09b600:
