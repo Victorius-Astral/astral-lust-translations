@@ -4,43 +4,43 @@
 translate spanish alice_3_dbbe60f3:
 
     # "Just as you are about to go out someone appears before you!"
-    "Just as you are about to go out someone appears before you!"
+    "¡Justo cuando estás a punto de salir, alguien aparece ante ti!"
 
 # game/characters/alice/ev_3.rpy:5
 translate spanish alice_3_ff1d900a:
 
     # th "Oh, it's [alice]."
-    th "Oh, it's [alice]."
+    th "Oh, es [alice]."
 
 # game/characters/alice/ev_3.rpy:6
 translate spanish alice_3_be48bf25:
 
     # alice "Hey, going out?"
-    alice "Hey, going out?"
+    alice "Hey, ¿saliendo?"
 
 # game/characters/alice/ev_3.rpy:7
 translate spanish alice_3_028467c2:
 
     # me "Yeah, need something?"
-    me "Yeah, need something?"
+    me "Sí, ¿necesitas algo?"
 
 # game/characters/alice/ev_3.rpy:9
 translate spanish alice_3_f57e66f6:
 
     # alice "Can you accompany me somewhere?"
-    alice "Can you accompany me somewhere?"
+    alice "¿Puedes acompañarme a un lugar?"
 
 # game/characters/alice/ev_3.rpy:10
 translate spanish alice_3_2b5f54cc:
 
     # me "Where?"
-    me "Where?"
+    me "¿Adónde?"
 
 # game/characters/alice/ev_3.rpy:12
 translate spanish alice_3_a83cd955:
 
     # alice "Seeecret~"
-    alice "Seeecret~"
+    alice "Secreeeto~"
 
 # game/characters/alice/ev_3.rpy:13
 translate spanish alice_3_3820771a:
@@ -568,27 +568,26 @@ translate spanish alice_3_1_124c1aa0:
 translate spanish alice_3_1_50663dc8:
 
     # alice "Now I owe you one too my guardian."
-    alice "Now I owe you one too my guardian."
+    alice "Ahora también te debo una, mi guardián."
 
 # game/characters/alice/ev_3.rpy:169
 translate spanish alice_3_1_867cf5c5:
 
     # alice "Wait for it."
-    alice "Wait for it."
+    alice "Espéralo."
 
 # game/characters/alice/ev_3.rpy:170
 translate spanish alice_3_1_bfda5a71:
 
     # th "I surely will."
-    th "I surely will."
+    th "Seguro lo haré."
 
 translate spanish strings:
 
     # game/characters/alice/ev_3.rpy:20
     old "Sure"
-    new "Sure"
+    new "Seguro"
 
     # game/characters/alice/ev_3.rpy:20
     old "Not now"
-    new "Not now"
-
+    new "Ahora no"
