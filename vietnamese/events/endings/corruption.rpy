@@ -4,49 +4,49 @@
 translate vietnamese end_corruption_3f5c8e25:
 
     # me "Where is it?"
-    me "Where is it?"
+    me "Đây là đâu?"
 
 # game/events/endings/corruption.rpy:13
 translate vietnamese end_corruption_135e79b6:
 
     # me_cor "Who are you?"
-    me_cor "Who are you?"
+    me_cor "Mày là ai?"
 
 # game/events/endings/corruption.rpy:16
 translate vietnamese end_corruption_97782c45:
 
     # "Before you endless black sea floats amidst the stars, yet this breathtaking sight doesn't impress you. You feel nothing."
-    "Before you endless black sea floats amidst the stars, yet this breathtaking sight doesn't impress you. You feel nothing."
+    "biển đen vô tận trôi giữa những vì sao, nhưng cảnh tượng ngoạn mục này không gây ấn tượng với bạn. Bạn không cảm thấy gì."
 
 # game/events/endings/corruption.rpy:19
 translate vietnamese end_corruption_cfba2653:
 
     # me "I am [me]."
-    me "I am [me]."
+    me "Tôi là [me]."
 
 # game/events/endings/corruption.rpy:20
 translate vietnamese end_corruption_34a982b3:
 
     # me_cor "Who are we?"
-    me_cor "Who are we?"
+    me_cor "Chúng ta là ai?"
 
 # game/events/endings/corruption.rpy:21
 translate vietnamese end_corruption_62412696:
 
     # me "We are us."
-    me "We are us."
+    me "Chúng ta là chúng ta."
 
 # game/events/endings/corruption.rpy:23
 translate vietnamese end_corruption_3cc822f3:
 
     # "The last bits of your consciousness panic, yet they were quickly silenced, no hope remains."
-    "The last bits of your consciousness panic, yet they were quickly silenced, no hope remains."
+    "Những chút ý thức cuối cùng của bạn hoảng loạn, nhưng chúng nhanh chóng bị im lặng, không còn hy vọng."
 
 # game/events/endings/corruption.rpy:26
 translate vietnamese end_corruption_73503cd6:
 
     # me_cor "What is our name?"
-    me_cor "What is our name?"
+    me_cor "Tên của chúng ta là gì?"
 
 # game/events/endings/corruption.rpy:27
 translate vietnamese end_corruption_fb30c850:
@@ -58,7 +58,7 @@ translate vietnamese end_corruption_fb30c850:
 translate vietnamese end_corruption_73503cd6_1:
 
     # me_cor "What is our name?"
-    me_cor "What is our name?"
+    me_cor "Tên của chúng ta là gì?"
 
 # game/events/endings/corruption.rpy:31
 translate vietnamese end_corruption_56eb095b:
@@ -70,7 +70,7 @@ translate vietnamese end_corruption_56eb095b:
 translate vietnamese end_corruption_950a8fea:
 
     # me_cor "{big}What is our name?{/big}"
-    me_cor "{big}What is our name?{/big}"
+    me_cor "{big}Tên của chúng ta là gì?{/big}"
 
 # game/events/endings/corruption.rpy:35
 translate vietnamese end_corruption_3837f3d7:
@@ -82,19 +82,19 @@ translate vietnamese end_corruption_3837f3d7:
 translate vietnamese end_corruption_d701e5a9:
 
     # me_cor "{loud}What is our name?{/loud}"
-    me_cor "{loud}What is our name?{/loud}"
+    me_cor "{loud}Tên của chúng ta là gì?{/loud}"
 
 # game/events/endings/corruption.rpy:39
 translate vietnamese end_corruption_772d2c83:
 
     # me "I am..."
-    me "I am..."
+    me "Tôi là..."
 
 # game/events/endings/corruption.rpy:42
 translate vietnamese end_corruption_dcce7bcc:
 
     # me_cor "{loud}WHAT IS OUR NAME?!{/loud}"
-    me_cor "{loud}WHAT IS OUR NAME?!{/loud}"
+    me_cor "{loud}TÊN CỦA CHÚNG TA LÀ GÌ?!{/loud}"
 
 # game/events/endings/corruption.rpy:45
 translate vietnamese end_corruption_3217e8b9:
@@ -106,19 +106,19 @@ translate vietnamese end_corruption_3217e8b9:
 translate vietnamese end_corruption_dcce7bcc_1:
 
     # me_cor "{loud}WHAT IS OUR NAME?!{/loud}"
-    me_cor "{loud}WHAT IS OUR NAME?!{/loud}"
+    me_cor "{loud}TÊN CỦA CHÚNG TA LÀ GÌ?!{/loud}"
 
 # game/events/endings/corruption.rpy:48
 translate vietnamese end_corruption_636fceb9:
 
     # "The voice makes your very being tremble. You hear your bones cracking under its pressure."
-    "The voice makes your very being tremble. You hear your bones cracking under its pressure."
+    "Giọng nói làm cho chính bạn run sợ. Bạn nghe thấy xương của bạn nứt ra dưới áp lực của nó."
 
 # game/events/endings/corruption.rpy:50
 translate vietnamese end_corruption_9e7b4647:
 
     # me_cor "{loud}WHAT IS OUR NAME?! WHAT IS OUR NAME?! WHAT IS OUR NAME?!{/loud}"
-    me_cor "{loud}WHAT IS OUR NAME?! WHAT IS OUR NAME?! WHAT IS OUR NAME?!{/loud}"
+    me_cor "{loud}TÊN CỦA CHÚNG TA LÀ GÌ?! TÊN CỦA CHÚNG TA LÀ GÌ?! TÊN CỦA CHÚNG TA LÀ GÌ?!{/loud}"
 
 # game/events/endings/corruption.rpy:52
 translate vietnamese end_corruption_916407f3:
@@ -130,19 +130,19 @@ translate vietnamese end_corruption_916407f3:
 translate vietnamese end_corruption_9e7b4647_1:
 
     # me_cor "{loud}WHAT IS OUR NAME?! WHAT IS OUR NAME?! WHAT IS OUR NAME?!{/loud}"
-    me_cor "{loud}WHAT IS OUR NAME?! WHAT IS OUR NAME?! WHAT IS OUR NAME?!{/loud}"
+    me_cor "{loud}TÊN CỦA CHÚNG TA LÀ GÌ?! TÊN CỦA CHÚNG TA LÀ GÌ?! TÊN CỦA CHÚNG TA LÀ GÌ?!{/loud}"
 
 # game/events/endings/corruption.rpy:61
 translate vietnamese end_corruption_93d8a70e:
 
     # "You perish instantly, letting death become your new life."
-    "You perish instantly, letting death become your new life."
+    "Bạn chết ngay lập tức, để cái chết trở thành cuộc sống mới của bạn."
 
 # game/events/endings/corruption.rpy:69
 translate vietnamese end_corruption_cd2785aa:
 
     # "You are purified, perishing along with the corruption."
-    "You are purified, perishing along with the corruption."
+    "Bạn được thanh lọc, diệt vong cùng với sự thối nát."
 
 # game/events/endings/corruption.rpy:77
 translate vietnamese end_corruption_succumb_1167a582:
@@ -154,7 +154,7 @@ translate vietnamese end_corruption_succumb_1167a582:
 translate vietnamese end_corruption_succumb_9e7b4647:
 
     # me_cor "{loud}WHAT IS OUR NAME?! WHAT IS OUR NAME?! WHAT IS OUR NAME?!{/loud}"
-    me_cor "{loud}WHAT IS OUR NAME?! WHAT IS OUR NAME?! WHAT IS OUR NAME?!{/loud}"
+    me_cor "{loud}TÊN CỦA CHÚNG TA LÀ GÌ?! TÊN CỦA CHÚNG TA LÀ GÌ?! TÊN CỦA CHÚNG TA LÀ GÌ?!{/loud}"
 
 # game/events/endings/corruption.rpy:81
 translate vietnamese end_corruption_succumb_3820771a:
@@ -166,7 +166,7 @@ translate vietnamese end_corruption_succumb_3820771a:
 translate vietnamese end_corruption_succumb_73503cd6:
 
     # me_cor "What is our name?"
-    me_cor "What is our name?"
+    me_cor "Tên của chung ta là gì?"
 
 # game/events/endings/corruption.rpy:85
 translate vietnamese end_corruption_succumb_3820771a_1:
@@ -178,7 +178,7 @@ translate vietnamese end_corruption_succumb_3820771a_1:
 translate vietnamese end_corruption_succumb_73503cd6_1:
 
     # me_cor "What is our name?"
-    me_cor "What is our name?"
+    me_cor "Tên của chung ta là gì?"
 
 # game/events/endings/corruption.rpy:89
 translate vietnamese end_corruption_succumb_3820771a_2:
@@ -190,13 +190,13 @@ translate vietnamese end_corruption_succumb_3820771a_2:
 translate vietnamese end_corruption_succumb_73503cd6_2:
 
     # me_cor "What is our name?"
-    me_cor "What is our name?"
+    me_cor "Tên của chung ta là gì?"
 
 # game/events/endings/corruption.rpy:93
 translate vietnamese end_corruption_succumb_73503cd6_3:
 
     # me_cor "What is our name?"
-    me_cor "What is our name?"
+    me_cor "Tên của chung ta là gì?"
 
 # game/events/endings/corruption.rpy:94
 translate vietnamese end_corruption_succumb_3820771a_3:
@@ -208,7 +208,7 @@ translate vietnamese end_corruption_succumb_3820771a_3:
 translate vietnamese end_corruption_succumb_73503cd6_4:
 
     # me_cor "What is our name?"
-    me_cor "What is our name?"
+    me_cor "Tên của chung ta là gì?"
 
 # game/events/endings/corruption.rpy:98
 translate vietnamese end_corruption_succumb_3820771a_4:
@@ -220,25 +220,24 @@ translate vietnamese end_corruption_succumb_3820771a_4:
 translate vietnamese end_corruption_succumb_73503cd6_5:
 
     # me_cor "What is our name?"
-    me_cor "What is our name?"
+    me_cor "Tên của chung ta là gì?"
 
 # game/events/endings/corruption.rpy:102
 translate vietnamese end_corruption_succumb_43c79d8c:
 
     # me "We are.... {color=#54244e}Trinity of Horror.{/color}"
-    me "We are.... {color=#54244e}Trinity of Horror.{/color}"
+    me "Chúng ta là.... {color=#54244e}Trinity of Horror.{/color}"
 
 translate vietnamese strings:
 
     # game/events/endings/corruption.rpy:9
     old "Your corruption reached 100%!"
-    new "Your corruption reached 100%!"
+    new "Sự sa đọa của bạn đạt 100%!"
 
     # game/events/endings/corruption.rpy:56
     old "Use [[Freedom in Death]"
-    new "Use [[Freedom in Death]"
+    new "Sử dụng [[Tự do trong cái chết]"
 
     # game/events/endings/corruption.rpy:56
     old "Use [[Freedom]"
-    new "Use [[Freedom]"
-
+    new "Sử dụng [[Tự do]"

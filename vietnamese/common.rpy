@@ -4,7 +4,7 @@ translate vietnamese strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new "Self-voicing disabled."
+    new "Tự lồng tiếng bị tắt."
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
@@ -12,7 +12,7 @@ translate vietnamese strings:
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new "Self-voicing enabled. "
+    new "Đã bật tự lồng tiếng. "
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
@@ -20,43 +20,43 @@ translate vietnamese strings:
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new "selected"
+    new "đã chọn"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new "viewport"
+    new "khung nhìn"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new "horizontal scroll"
+    new "cuộn ngang"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new "vertical scroll"
+    new "cuộn dọc"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new "activate"
+    new "đã kích hoạt"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new "deactivate"
+    new "hủy kích hoạt"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
-    new "increase"
+    new "tăng"
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
-    new "decrease"
+    new "giảm bớt"
 
     # renpy/common/00accessibility.rpy:138
     old "Font Override"
-    new "Font Override"
+    new "Ghi đè phông chữ"
 
     # renpy/common/00accessibility.rpy:142
     old "Default"
-    new "Default"
+    new "mặc định"
 
     # renpy/common/00accessibility.rpy:146
     old "DejaVu Sans"
@@ -68,7 +68,7 @@ translate vietnamese strings:
 
     # renpy/common/00accessibility.rpy:156
     old "Text Size Scaling"
-    new "Text Size Scaling"
+    new "Tỷ lệ kích thước văn bản"
 
     # renpy/common/00accessibility.rpy:162
     old "Reset"
@@ -80,31 +80,31 @@ translate vietnamese strings:
 
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
-    new "High Contrast Text"
+    new "Văn bản có độ tương phản cao"
 
     # renpy/common/00accessibility.rpy:182
     old "Enable"
-    new "Enable"
+    new "Cho phép"
 
     # renpy/common/00accessibility.rpy:186
     old "Disable"
-    new "Disable"
+    new "Vô hiệu hóa"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
-    new "Self-Voicing"
+    new "Tự nói"
 
     # renpy/common/00accessibility.rpy:197
     old "Off"
-    new "Off"
+    new "Tắt"
 
     # renpy/common/00accessibility.rpy:201
     old "Text-to-speech"
-    new "Text-to-speech"
+    new "Chuyển văn bản thành giọng nói"
 
     # renpy/common/00accessibility.rpy:205
     old "Clipboard"
-    new "Clipboard"
+    new "Bảng tạm"
 
     # renpy/common/00accessibility.rpy:209
     old "Debug"
@@ -116,159 +116,159 @@ translate vietnamese strings:
 
     # renpy/common/00accessibility.rpy:224
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
+    new "Các tùy chọn trên menu này nhằm cải thiện khả năng tiếp cận. Chúng có thể không hoạt động với tất cả các trò chơi và một số kết hợp tùy chọn có thể khiến trò chơi không thể chơi được. Đây không phải là vấn đề với trò chơi hoặc công cụ. Để có kết quả tốt nhất khi thay đổi phông chữ, hãy cố gắng giữ nguyên kích thước văn bản như ban đầu."
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new "{#weekday}Monday"
+    new "{#weekday}thứ hai"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new "{#weekday}Tuesday"
+    new "{#weekday}thứ ba"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new "{#weekday}Wednesday"
+    new "{#weekday}Thứ Tư"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new "{#weekday}Thursday"
+    new "{#weekday}Thứ năm"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new "{#weekday}Friday"
+    new "{#weekday}Thứ sáu"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new "{#weekday}Saturday"
+    new "{#weekday}Thứ bảy"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new "{#weekday}Sunday"
+    new "{#weekday}Chủ nhật"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new "{#weekday_short}Mon"
+    new "{#weekday_short}Thứ 2"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new "{#weekday_short}Tue"
+    new "{#weekday_short}Thứ 3"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new "{#weekday_short}Wed"
+    new "{#weekday_short}Thứ 4"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new "{#weekday_short}Thu"
+    new "{#weekday_short}Thứ 5"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new "{#weekday_short}Fri"
+    new "{#weekday_short}Thứ 6"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new "{#weekday_short}Sat"
+    new "{#weekday_short}Thứ bảy"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new "{#weekday_short}Sun"
+    new "{#weekday_short}Chủ nhật"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
-    new "{#month}January"
+    new "{#month}Tháng một"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
-    new "{#month}February"
+    new "{#month}Tháng 2"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
-    new "{#month}March"
+    new "{#month}Tháng 3"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
-    new "{#month}April"
+    new "{#month}Tháng 4"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
-    new "{#month}May"
+    new "{#month}tháng 5"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}June"
-    new "{#month}June"
+    new "{#month}Tháng 6"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}July"
-    new "{#month}July"
+    new "{#month}Tháng 7"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}August"
-    new "{#month}August"
+    new "{#month}Tháng 8"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
-    new "{#month}September"
+    new "{#month}Tháng 9"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"
-    new "{#month}October"
+    new "{#month}Tháng 10"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}November"
-    new "{#month}November"
+    new "{#month}Tháng 11"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}December"
-    new "{#month}December"
+    new "{#month}Tháng 12"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jan"
-    new "{#month_short}Jan"
+    new "{#month_short}Tháng 1"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Feb"
-    new "{#month_short}Feb"
+    new "{#month_short}Tháng 2"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Mar"
-    new "{#month_short}Mar"
+    new "{#month_short}Tháng 3"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Apr"
-    new "{#month_short}Apr"
+    new "{#month_short}Tháng 4"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
-    new "{#month_short}May"
+    new "{#month_short}Tháng 5"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
-    new "{#month_short}Jun"
+    new "{#month_short}Tháng 6"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jul"
-    new "{#month_short}Jul"
+    new "{#month_short}Tháng 7"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Aug"
-    new "{#month_short}Aug"
+    new "{#month_short}Tháng 8"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Sep"
-    new "{#month_short}Sep"
+    new "{#month_short}Tháng 9"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Oct"
-    new "{#month_short}Oct"
+    new "{#month_short}Tháng 10"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Nov"
-    new "{#month_short}Nov"
+    new "{#month_short}Tháng 11"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Dec"
-    new "{#month_short}Dec"
+    new "{#month_short}Tháng 12"
 
     # renpy/common/00action_file.rpy:250
     old "%b %d, %H:%M"
@@ -276,15 +276,15 @@ translate vietnamese strings:
 
     # renpy/common/00action_file.rpy:363
     old "Save slot %s: [text]"
-    new "Save slot %s: [text]"
+    new "Slot Lưu %s: [text]"
 
     # renpy/common/00action_file.rpy:444
     old "Load slot %s: [text]"
-    new "Load slot %s: [text]"
+    new "Slot tải %s: [text]"
 
     # renpy/common/00action_file.rpy:497
     old "Delete slot [text]"
-    new "Delete slot [text]"
+    new "Xóa slot [text]"
 
     # renpy/common/00action_file.rpy:576
     old "File page auto"
@@ -312,15 +312,15 @@ translate vietnamese strings:
 
     # renpy/common/00action_file.rpy:930
     old "Quick save."
-    new "Quick save."
+    new "Lưu nhanh."
 
     # renpy/common/00action_file.rpy:949
     old "Quick load."
-    new "Quick load."
+    new "Tải nhanh."
 
     # renpy/common/00action_other.rpy:375
     old "Language [text]"
-    new "Language [text]"
+    new "Ngôn ngữ [text]"
 
     # renpy/common/00director.rpy:708
     old "The interactive director is not enabled here."
@@ -336,7 +336,7 @@ translate vietnamese strings:
 
     # renpy/common/00director.rpy:1551
     old "Done"
-    new "Done"
+    new "Làm xong"
 
     # renpy/common/00director.rpy:1561
     old "(statement)"
@@ -348,7 +348,7 @@ translate vietnamese strings:
 
     # renpy/common/00director.rpy:1563
     old "(attributes)"
-    new "(attributes)"
+    new "(thuộc tính)"
 
     # renpy/common/00director.rpy:1564
     old "(transform)"
@@ -368,23 +368,23 @@ translate vietnamese strings:
 
     # renpy/common/00director.rpy:1631
     old "Change"
-    new "Change"
+    new "Thay đổi"
 
     # renpy/common/00director.rpy:1633
     old "Add"
-    new "Add"
+    new "Thêm"
 
     # renpy/common/00director.rpy:1636
     old "Cancel"
-    new "Cancel"
+    new "Hủy bỏ"
 
     # renpy/common/00director.rpy:1639
     old "Remove"
-    new "Remove"
+    new "loại bỏ"
 
     # renpy/common/00director.rpy:1674
     old "Statement:"
-    new "Statement:"
+    new "Bản tường trình:"
 
     # renpy/common/00director.rpy:1695
     old "Tag:"
@@ -392,15 +392,15 @@ translate vietnamese strings:
 
     # renpy/common/00director.rpy:1711
     old "Attributes:"
-    new "Attributes:"
+    new "Thuộc tính:"
 
     # renpy/common/00director.rpy:1729
     old "Transforms:"
-    new "Transforms:"
+    new "Biến đổi:"
 
     # renpy/common/00director.rpy:1748
     old "Behind:"
-    new "Behind:"
+    new "Phía sau:"
 
     # renpy/common/00director.rpy:1767
     old "Transition:"
@@ -416,43 +416,43 @@ translate vietnamese strings:
 
     # renpy/common/00gui.rpy:423
     old "Are you sure?"
-    new "Are you sure?"
+    new "Bạn có chắc không?"
 
     # renpy/common/00gui.rpy:424
     old "Are you sure you want to delete this save?"
-    new "Are you sure you want to delete this save?"
+    new "Bạn có chắc chắn muốn xóa phần lưu này không?"
 
     # renpy/common/00gui.rpy:425
     old "Are you sure you want to overwrite your save?"
-    new "Are you sure you want to overwrite your save?"
+    new "Bạn có chắc chắn muốn ghi đè phần lưu của mình không?"
 
     # renpy/common/00gui.rpy:426
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "Loading will lose unsaved progress.\nAre you sure you want to do this?"
+    new "Việc tải sẽ làm mất tiến trình chưa lưu.\nBạn có chắc chắn muốn thực hiện việc này không?"
 
     # renpy/common/00gui.rpy:427
     old "Are you sure you want to quit?"
-    new "Are you sure you want to quit?"
+    new "Bạn có chắc bạn muốn thoát không?"
 
     # renpy/common/00gui.rpy:428
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
+    new "Bạn có chắc chắn muốn quay lại menu chính không?\nThao tác này sẽ làm mất tiến trình chưa lưu."
 
     # renpy/common/00gui.rpy:429
     old "Are you sure you want to end the replay?"
-    new "Are you sure you want to end the replay?"
+    new "Bạn có chắc chắn muốn kết thúc phát lại không?"
 
     # renpy/common/00gui.rpy:430
     old "Are you sure you want to begin skipping?"
-    new "Are you sure you want to begin skipping?"
+    new "Bạn có chắc chắn muốn bắt đầu bỏ qua không?"
 
     # renpy/common/00gui.rpy:431
     old "Are you sure you want to skip to the next choice?"
-    new "Are you sure you want to skip to the next choice?"
+    new "Bạn có chắc chắn muốn bỏ qua lựa chọn tiếp theo không?"
 
     # renpy/common/00gui.rpy:432
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "Are you sure you want to skip unseen dialogue to the next choice?"
+    new "Bạn có chắc chắn muốn bỏ qua đoạn hội thoại chưa nhìn thấy để chuyển sang lựa chọn tiếp theo không?"
 
     # renpy/common/00keymap.rpy:306
     old "Failed to save screenshot as %s."
@@ -464,7 +464,7 @@ translate vietnamese strings:
 
     # renpy/common/00library.rpy:195
     old "Skip Mode"
-    new "Skip Mode"
+    new "Chế độ bỏ qua"
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
@@ -472,15 +472,15 @@ translate vietnamese strings:
 
     # renpy/common/00preferences.rpy:254
     old "display"
-    new "display"
+    new "hiển thị"
 
     # renpy/common/00preferences.rpy:266
     old "transitions"
-    new "transitions"
+    new "Chuyển cảnh"
 
     # renpy/common/00preferences.rpy:275
     old "skip transitions"
-    new "skip transitions"
+    new "bỏ qua chuyển cảnh"
 
     # renpy/common/00preferences.rpy:277
     old "video sprites"
@@ -488,11 +488,11 @@ translate vietnamese strings:
 
     # renpy/common/00preferences.rpy:286
     old "show empty window"
-    new "show empty window"
+    new "hiển thị cửa sổ trống"
 
     # renpy/common/00preferences.rpy:295
     old "text speed"
-    new "text speed"
+    new "tốc độ văn bản"
 
     # renpy/common/00preferences.rpy:303
     old "joystick"
@@ -504,55 +504,55 @@ translate vietnamese strings:
 
     # renpy/common/00preferences.rpy:310
     old "skip"
-    new "skip"
+    new "Bỏ qua"
 
     # renpy/common/00preferences.rpy:313
     old "skip unseen [text]"
-    new "skip unseen [text]"
+    new "Bỏ qua đoạn chưa xem [text]"
 
     # renpy/common/00preferences.rpy:318
     old "skip unseen text"
-    new "skip unseen text"
+    new "bỏ qua văn bản chưa nhìn thấy"
 
     # renpy/common/00preferences.rpy:320
     old "begin skipping"
-    new "begin skipping"
+    new "bắt đầu bỏ qua"
 
     # renpy/common/00preferences.rpy:324
     old "after choices"
-    new "after choices"
+    new "sau những lựa chọn"
 
     # renpy/common/00preferences.rpy:331
     old "skip after choices"
-    new "skip after choices"
+    new "bỏ qua sau khi lựa chọn"
 
     # renpy/common/00preferences.rpy:333
     old "auto-forward time"
-    new "auto-forward time"
+    new "thời gian tự động chuyển tiếp"
 
     # renpy/common/00preferences.rpy:347
     old "auto-forward"
-    new "auto-forward"
+    new "tự động chuyển tiếp"
 
     # renpy/common/00preferences.rpy:354
     old "Auto forward"
-    new "Auto forward"
+    new "Tự động chuyển tiếp"
 
     # renpy/common/00preferences.rpy:357
     old "auto-forward after click"
-    new "auto-forward after click"
+    new "tự động chuyển tiếp sau khi nhấp chuột"
 
     # renpy/common/00preferences.rpy:366
     old "automatic move"
-    new "automatic move"
+    new "di chuyển tự động"
 
     # renpy/common/00preferences.rpy:375
     old "wait for voice"
-    new "wait for voice"
+    new "đợi giọng nói"
 
     # renpy/common/00preferences.rpy:384
     old "voice sustain"
-    new "voice sustain"
+    new "duy trì giọng nói"
 
     # renpy/common/00preferences.rpy:393
     old "self voicing"
@@ -592,15 +592,15 @@ translate vietnamese strings:
 
     # renpy/common/00preferences.rpy:459
     old "font transform"
-    new "font transform"
+    new "biến đổi phông chữ"
 
     # renpy/common/00preferences.rpy:462
     old "font size"
-    new "font size"
+    new "cỡ chữ"
 
     # renpy/common/00preferences.rpy:470
     old "font line spacing"
-    new "font line spacing"
+    new "khoảng cách dòng phông chữ"
 
     # renpy/common/00preferences.rpy:478
     old "system cursor"
@@ -608,35 +608,35 @@ translate vietnamese strings:
 
     # renpy/common/00preferences.rpy:487
     old "renderer menu"
-    new "renderer menu"
+    new "menu trình kết xuất"
 
     # renpy/common/00preferences.rpy:490
     old "accessibility menu"
-    new "accessibility menu"
+    new "menu trợ năng"
 
     # renpy/common/00preferences.rpy:493
     old "high contrast text"
-    new "high contrast text"
+    new "văn bản tương phản cao"
 
     # renpy/common/00preferences.rpy:512
     old "music volume"
-    new "music volume"
+    new "âm lượng nhạc"
 
     # renpy/common/00preferences.rpy:513
     old "sound volume"
-    new "sound volume"
+    new "âm thanh"
 
     # renpy/common/00preferences.rpy:514
     old "voice volume"
-    new "voice volume"
+    new "âm lượng giọng nói"
 
     # renpy/common/00preferences.rpy:515
     old "mute music"
-    new "mute music"
+    new "tắt tiếng nhạc"
 
     # renpy/common/00preferences.rpy:516
     old "mute sound"
-    new "mute sound"
+    new "Tắt âm thanh"
 
     # renpy/common/00preferences.rpy:517
     old "mute voice"
@@ -644,11 +644,11 @@ translate vietnamese strings:
 
     # renpy/common/00preferences.rpy:518
     old "mute all"
-    new "mute all"
+    new "tắt tất cả"
 
     # renpy/common/00preferences.rpy:599
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "Clipboard voicing enabled. Press 'shift+C' to disable."
+    new "Đã bật lồng tiếng cho khay nhớ tạm. Nhấn 'shift + C' để tắt."
 
     # renpy/common/00preferences.rpy:601
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
@@ -656,19 +656,19 @@ translate vietnamese strings:
 
     # renpy/common/00preferences.rpy:603
     old "Self-voicing enabled. Press 'v' to disable."
-    new "Self-voicing enabled. Press 'v' to disable."
+    new "Đã bật tính năng tự lồng tiếng. Nhấn 'v' để tắt."
 
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
-    new "Empty Slot."
+    new "Chỗ trống."
 
     # renpy/common/_compat/gamemenu.rpym:355
     old "Previous"
-    new "Previous"
+    new "Trước"
 
     # renpy/common/_compat/gamemenu.rpym:362
     old "Next"
-    new "Next"
+    new "Kế tiếp"
 
     # renpy/common/_compat/preferences.rpym:428
     old "Joystick Mapping"
@@ -676,7 +676,7 @@ translate vietnamese strings:
 
     # renpy/common/_developer/developer.rpym:38
     old "Developer Menu"
-    new "Developer Menu"
+    new "Menu nhà phát triển"
 
     # renpy/common/_developer/developer.rpym:43
     old "Interactive Director (D)"
@@ -684,7 +684,7 @@ translate vietnamese strings:
 
     # renpy/common/_developer/developer.rpym:45
     old "Reload Game (Shift+R)"
-    new "Reload Game (Shift+R)"
+    new "Tải lại trò chơi (Shift+R)"
 
     # renpy/common/_developer/developer.rpym:47
     old "Console (Shift+O)"
@@ -704,11 +704,11 @@ translate vietnamese strings:
 
     # renpy/common/_developer/developer.rpym:57
     old "Show Image Load Log (F4)"
-    new "Show Image Load Log (F4)"
+    new "Hiển thị nhật ký tải hình ảnh (F4)"
 
     # renpy/common/_developer/developer.rpym:60
     old "Hide Image Load Log (F4)"
-    new "Hide Image Load Log (F4)"
+    new "Ẩn nhật ký tải hình ảnh (F4)"
 
     # renpy/common/_developer/developer.rpym:63
     old "Image Attributes"
@@ -724,11 +724,11 @@ translate vietnamese strings:
 
     # renpy/common/_developer/developer.rpym:143
     old "Nothing to inspect."
-    new "Nothing to inspect."
+    new "Không có gì để kiểm tra."
 
     # renpy/common/_developer/developer.rpym:154
     old "Hide deleted"
-    new "Hide deleted"
+    new "Ẩn đã xóa"
 
     # renpy/common/_developer/developer.rpym:154
     old "Show deleted"
@@ -788,15 +788,15 @@ translate vietnamese strings:
 
     # renpy/common/_developer/inspector.rpym:61
     old "Size"
-    new "Size"
+    new "Kích cỡ"
 
     # renpy/common/_developer/inspector.rpym:65
     old "Style"
-    new "Style"
+    new "Phong cách"
 
     # renpy/common/_developer/inspector.rpym:71
     old "Location"
-    new "Location"
+    new "Vị trí"
 
     # renpy/common/_developer/inspector.rpym:122
     old "Inspecting Styles of [displayable_name!q]"
@@ -832,11 +832,11 @@ translate vietnamese strings:
 
     # renpy/common/00updater.rpy:391
     old "The Ren'Py Updater is not supported on mobile devices."
-    new "The Ren'Py Updater is not supported on mobile devices."
+    new "Ren'Py Updater không được hỗ trợ trên thiết bị di động."
 
     # renpy/common/00updater.rpy:520
     old "An error is being simulated."
-    new "An error is being simulated."
+    new "Một lỗi đang được mô phỏng."
 
     # renpy/common/00updater.rpy:704
     old "Either this project does not support updating, or the update status file was deleted."
@@ -1108,7 +1108,7 @@ translate vietnamese strings:
 
     # renpy/common/_errorhandling.rpym:624
     old "Ignores the exception, allowing you to continue."
-    new "Ignores the exception, allowing you to continue."
+    new "Bỏ qua ngoại lệ, cho phép bạn tiếp tục."
 
     # renpy/common/_errorhandling.rpym:626
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
@@ -1132,9 +1132,8 @@ translate vietnamese strings:
 
     # renpy/common/_errorhandling.rpym:650
     old "Quits the game."
-    new "Quits the game."
+    new "Thoát khỏi trò chơi."
 
     # renpy/common/_errorhandling.rpym:671
     old "Parsing the script failed."
     new "Parsing the script failed."
-

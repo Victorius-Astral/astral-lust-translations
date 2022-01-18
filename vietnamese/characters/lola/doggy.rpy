@@ -4,7 +4,7 @@
 translate vietnamese lola_doggy_bc7f21d0:
 
     # lola "Get naked."
-    lola "Get naked."
+    lola "Cởi hết ra đi."
 
 # game/characters/lola/doggy.rpy:13
 translate vietnamese lola_doggy_3820771a:
@@ -16,37 +16,37 @@ translate vietnamese lola_doggy_3820771a:
 translate vietnamese lola_doggy_776aaa3d:
 
     # me "Your turn."
-    me "Your turn."
+    me "Đến lượt của cô đấy."
 
 # game/characters/lola/doggy.rpy:19
 translate vietnamese lola_doggy_6efce1fd:
 
     # me "No wasted words, right?"
-    me "No wasted words, right?"
+    me "Không có lời nào lãng phí, đúng không?"
 
 # game/characters/lola/doggy.rpy:22
 translate vietnamese lola_doggy_51cd3edc:
 
     # lola "Why waste time talking, when we can fuck?"
-    lola "Why waste time talking, when we can fuck?"
+    lola "Tại sao lại lãng phí thời gian nói chuyện, khi chúng ta có thể làm tình?"
 
 # game/characters/lola/doggy.rpy:23
 translate vietnamese lola_doggy_f561bbee:
 
     # me "Can't deny.."
-    me "Can't deny.."
+    me "Không thể phủ nhận.."
 
 # game/characters/lola/doggy.rpy:26
 translate vietnamese lola_doggy_fc2d1489:
 
     # lola "Fuck me. Hard."
-    lola "Fuck me. Hard."
+    lola "Địt tôi đi. Mạnh vào."
 
 # game/characters/lola/doggy.rpy:27
 translate vietnamese lola_doggy_daa90337:
 
     # me "That's what I'm here for."
-    me "That's what I'm here for."
+    me "Đó là lý do tôi ở đây mà."
 
 # game/characters/lola/doggy.rpy:35
 translate vietnamese lola_doggy_c2c116f3:
@@ -64,25 +64,25 @@ translate vietnamese lola_doggy_4d83a86e:
 translate vietnamese lola_doggy_7457938f:
 
     # th "Shit, she is soaking wet.."
-    th "Shit, she is soaking wet.."
+    th "Đù, cô ấy ướt đẫm rồi.."
 
 # game/characters/lola/doggy.rpy:38
 translate vietnamese lola_doggy_05ac0f8a:
 
     # lola "Harder!"
-    lola "Harder!"
+    lola "Mạnh nữa đi!"
 
 # game/characters/lola/doggy.rpy:39
 translate vietnamese lola_doggy_eca6a1fd:
 
     # me "W-What? We've just started."
-    me "W-What? We've just started."
+    me "C-cái gì? Chúng ta vừa mới bắt đầu."
 
 # game/characters/lola/doggy.rpy:40
 translate vietnamese lola_doggy_05ac0f8a_1:
 
     # lola "Harder!"
-    lola "Harder!"
+    lola "Mạnh hơn nữa!"
 
 # game/characters/lola/doggy.rpy:41
 translate vietnamese lola_doggy_3820771a_1:
@@ -106,13 +106,13 @@ translate vietnamese lola_doggy_7362326b:
 translate vietnamese lola_doggy_2bc21288:
 
     # lola "Harder!!"
-    lola "Harder!!"
+    lola "Mạnh bạo hơn đi!!"
 
 # game/characters/lola/doggy.rpy:59
 translate vietnamese lola_doggy_4073ab8d:
 
     # th "What is wrong with her?"
-    th "What is wrong with her?"
+    th "Có chuyện gì với cô ấy vậy?"
 
 # game/characters/lola/doggy.rpy:60
 translate vietnamese lola_doggy_933f9edf:
@@ -124,13 +124,13 @@ translate vietnamese lola_doggy_933f9edf:
 translate vietnamese lola_doggy_ee1ad726:
 
     # me "You're taking my breath away!"
-    me "You're taking my breath away!"
+    me "Cô đang làm tôi hết hơi rồi!"
 
 # game/characters/lola/doggy.rpy:62
 translate vietnamese lola_doggy_2bc21288_1:
 
     # lola "Harder!!"
-    lola "Harder!!"
+    lola "Mạnh hơn nữa!!"
 
 # game/characters/lola/doggy.rpy:63
 translate vietnamese lola_doggy_3820771a_2:
@@ -142,19 +142,19 @@ translate vietnamese lola_doggy_3820771a_2:
 translate vietnamese lola_doggy_d3430968:
 
     # lola "Ahhh!!! That's so good!!!"
-    lola "Ahhh!!! That's so good!!!"
+    lola "Ahhh!!! Đỡ hơn rồi!!!"
 
 # game/characters/lola/doggy.rpy:73
 translate vietnamese lola_doggy_f266a8d6:
 
     # me "Yeah it is."
-    me "Yeah it is."
+    me "Yeah."
 
 # game/characters/lola/doggy.rpy:74
 translate vietnamese lola_doggy_2a85d52b:
 
     # th "I will die.."
-    th "I will die.."
+    th "Mình chết con mẹ nó mất.."
 
 # game/characters/lola/doggy.rpy:82
 translate vietnamese lola_doggy_166d9144:
@@ -172,7 +172,7 @@ translate vietnamese lola_doggy_ecd1bbdc:
 translate vietnamese lola_doggy_248636b3:
 
     # th "I can't hold it back anymore."
-    th "I can't hold it back anymore."
+    th "Éo giữ nổi nữa rồi."
 
 # game/characters/lola/doggy.rpy:87
 translate vietnamese lola_doggy_a22eb0aa:
@@ -196,29 +196,28 @@ translate vietnamese lola_doggy_b2cd1c61:
 translate vietnamese lola_doggy_09f17666:
 
     # me "I almost died just now."
-    me "I almost died just now."
+    me "Bây giờ tôi sắp chết rồi."
 
 # game/characters/lola/doggy.rpy:93
 translate vietnamese lola_doggy_bed02dbd:
 
     # lola "That only means that it was great."
-    lola "That only means that it was great."
+    lola "Đó có nghĩa là vừa rồi rất tuyệt."
 
 # game/characters/lola/doggy.rpy:104
 translate vietnamese lola_doggy_bdcaf2ec:
 
     # lola "Great, now that I'm satisfied, it's time for you to go."
-    lola "Great, now that I'm satisfied, it's time for you to go."
+    lola "Tuyệt, bây giờ tôi đã hài lòng, đến lúc anh phải đi rồi."
 
 # game/characters/lola/doggy.rpy:107
 translate vietnamese lola_doggy_227b0c03:
 
     # me "Huh, I was treated like.. a sex toy?"
-    me "Huh, I was treated like.. a sex toy?"
+    me "Huh, mình đã bị đối xử như .. một cái sex toy?"
 
 # game/characters/lola/doggy.rpy:108
 translate vietnamese lola_doggy_3820771a_3:
 
     # me "..."
     me "..."
-

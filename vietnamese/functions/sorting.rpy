@@ -4,21 +4,20 @@ translate vietnamese strings:
 
     # game/functions/sorting.rpy:110
     old "Sort by: "
-    new "Sort by: "
+    new "Sắp xếp theo: "
 
     # game/functions/sorting.rpy:116
     old "Name"
-    new "Name"
+    new "Tên"
 
     # game/functions/sorting.rpy:131
     old "Rarity"
-    new "Rarity"
+    new "Độ hiếm"
 
     # game/functions/sorting.rpy:148
     old "Cost"
-    new "Cost"
+    new "Phí"
 
     # game/functions/sorting.rpy:163
     old "Type"
-    new "Type"
-
+    new "Loại"

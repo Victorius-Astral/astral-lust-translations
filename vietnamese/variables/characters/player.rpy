@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/variables/characters/player.rpy:4
     old "Thoughts"
-    new "Thoughts"
-
+    new "Suy nghĩ"

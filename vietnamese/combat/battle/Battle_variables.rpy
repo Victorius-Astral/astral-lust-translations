@@ -4,27 +4,27 @@ translate vietnamese strings:
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Unknown"
-    new "Unknown"
+    new "không xác định"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Human"
-    new "Human"
+    new "loài người"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Dragon"
-    new "Dragon"
+    new "Rồng"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Spider"
-    new "Spider"
+    new "Nhện"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Crab"
-    new "Crab"
+    new "Cua"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Flamingo"
-    new "Flamingo"
+    new "Trym hồng hạc"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Manticore"
@@ -32,15 +32,15 @@ translate vietnamese strings:
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Werewolf"
-    new "Werewolf"
+    new "Người sói"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Ghoul"
-    new "Ghoul"
+    new "Ngạ quỷ"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Abomination"
-    new "Abomination"
+    new "quái vật gớm ghiếc"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Succubus"
@@ -52,15 +52,15 @@ translate vietnamese strings:
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Fox Tribe"
-    new "Fox Tribe"
+    new "Tộc Sói"
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Beast"
-    new "Beast"
+    new "Quái thú"
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Monster"
-    new "Monster"
+    new "Quái vật"
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Undead"
@@ -68,19 +68,19 @@ translate vietnamese strings:
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Demon"
-    new "Demon"
+    new "Quỷ"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Jade Hotel"
-    new "Jade Hotel"
+    new "Khách sạn Jade"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "The Abyss"
-    new "The Abyss"
+    new "Vực thẳm"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Wanderers"
-    new "Wanderers"
+    new "người lang thang"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Horde"
@@ -88,13 +88,12 @@ translate vietnamese strings:
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Cult of the Black"
-    new "Cult of the Black"
+    new "Giáo phái bóng tối"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Outlaws"
-    new "Outlaws"
+    new "Kẻ ngoài vòng pháp luật"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Deserters"
-    new "Deserters"
-
+    new "lính đào ngũ"

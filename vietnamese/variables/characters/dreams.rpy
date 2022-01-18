@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+# TODO: Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -8,13 +8,12 @@ translate vietnamese strings:
 
     # game/variables/characters/dreams.rpy:2
     old "Devil"
-    new "Devil"
+    new "Quỷ"
 
     # game/variables/characters/dreams.rpy:3
     old "Secretary"
-    new "Secretary"
+    new "Thư ký"
 
     # game/variables/characters/dreams.rpy:4
     old "Dekesha"
     new "Dekesha"
-

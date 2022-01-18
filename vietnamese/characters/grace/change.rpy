@@ -4,7 +4,7 @@
 translate vietnamese change_grace_c648af59:
 
     # "You enter [grace]'s room only to be greeted with her bare ass."
-    "You enter [grace]'s room only to be greeted with her bare ass."
+    "Bạn bước vào phòng của [Grace] chỉ để được chào đón bằng cặp mông trần của cô ấy."
 
 # game/characters/grace/change.rpy:9
 translate vietnamese change_grace_7fb00842:
@@ -269,4 +269,3 @@ translate vietnamese change_grace_522fcc81:
 
     # th "I'll come some other time."
     th "I'll come some other time."
-

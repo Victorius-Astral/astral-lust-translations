@@ -4,153 +4,152 @@ translate vietnamese strings:
 
     # game/variables/items.rpy:4
     old "Wood"
-    new "Wood"
+    new "Gỗ"
 
     # game/variables/items.rpy:4
     old "Materials"
-    new "Materials"
+    new "Vật liệu"
 
     # game/variables/items.rpy:4
     old "Stone"
-    new "Stone"
+    new "Đá"
 
     # game/variables/items.rpy:4
     old "Metal"
-    new "Metal"
+    new "Sắt"
 
     # game/variables/items.rpy:4
     old "Cloth"
-    new "Cloth"
+    new "Vải"
 
     # game/variables/items.rpy:4
     old "Coal"
-    new "Coal"
+    new "Than"
 
     # game/variables/items.rpy:4
     old "Fur"
-    new "Fur"
+    new "Lông thú"
 
     # game/variables/items.rpy:4
     old "Bone"
-    new "Bone"
+    new "Xương"
 
     # game/variables/items.rpy:4
     old "Venom"
-    new "Venom"
+    new "Chất độc"
 
     # game/variables/items.rpy:4
     old "Leather"
-    new "Leather"
+    new "Da"
 
     # game/variables/items.rpy:4
     old "Feather"
-    new "Feather"
+    new "Lông vũ"
 
     # game/variables/items.rpy:4
     old "Carapace"
-    new "Carapace"
+    new "Cái mai"
 
     # game/variables/items.rpy:4
     old "Abyssal Blood"
-    new "Abyssal Blood"
+    new "Máu vực thẳm"
 
     # game/variables/items.rpy:4
     old "Black Bone"
-    new "Black Bone"
+    new "Xương đen"
 
     # game/variables/items.rpy:4
     old "Maddened Heart"
-    new "Maddened Heart"
+    new "Trái tim điên dại"
 
     # game/variables/items.rpy:4
     old "Gun Parts"
-    new "Gun Parts"
+    new "Bộ phận súng"
 
     # game/variables/items.rpy:4
     old "Dragon Bone"
-    new "Dragon Bone"
+    new "Xương rồng"
 
     # game/variables/items.rpy:4
     old "Dragon Scale"
-    new "Dragon Scale"
+    new "Vảy rồng"
 
     # game/variables/items.rpy:4
     old "Dragon Heart"
-    new "Dragon Heart"
+    new "Tim rồng"
 
     # game/variables/items.rpy:4
     old "Succubus Wing"
-    new "Succubus Wing"
+    new "Cánh Succubus"
 
     # game/variables/items.rpy:4
     old "Squirming Stomach"
-    new "Squirming Stomach"
+    new "Dạ dày săn chắc"
 
     # game/variables/items.rpy:4
     old "Frozen Screams"
-    new "Frozen Screams"
+    new "Tiếng het băng giá"
 
     # game/variables/items.rpy:4
     old "Orcish Steel"
-    new "Orcish Steel"
+    new "Thép Orcish"
 
     # game/variables/items.rpy:4
     old "Werewolf Heart"
-    new "Werewolf Heart"
+    new "Tim Người sói"
 
     # game/variables/items.rpy:4
     old "Spider Leg"
-    new "Spider Leg"
+    new "Chân nhện"
 
     # game/variables/items.rpy:4
     old "Commodity"
-    new "Commodity"
+    new "Hàng hóa"
 
     # game/variables/items.rpy:4
     old "Ghoul Tooth"
-    new "Ghoul Tooth"
+    new "Răng ngạ quỷ"
 
     # game/variables/items.rpy:4
     old "Sigil of the Black"
-    new "Sigil of the Black"
+    new "Con dấu đen"
 
     # game/variables/items.rpy:4
     old "Mysterious Coin"
-    new "Mysterious Coin"
+    new "Đồng xu bí ẩn"
 
     # game/variables/items.rpy:4
     old "Currency"
-    new "Currency"
+    new "Tiền tệ"
 
     # game/variables/items.rpy:4
     old "Cap"
-    new "Cap"
+    new "Nắp chai"
 
     # game/variables/items.rpy:4
     old "Gold Bar"
-    new "Gold Bar"
+    new "Thỏi vàng"
 
     # game/variables/items.rpy:4
     old "Gold Nugget"
-    new "Gold Nugget"
+    new "Miếng vàng"
 
     # game/variables/items.rpy:4
     old "Diamond"
-    new "Diamond"
+    new "Kim cương"
 
     # game/variables/items.rpy:4
     old "Ice Creams"
-    new "Ice Creams"
+    new "Kem"
 
     # game/variables/items.rpy:4
     old "Quest"
-    new "Quest"
+    new "Nhiệm Vụ"
 
     # game/variables/items.rpy:4
     old "Rose"
-    new "Rose"
+    new "Hoa hồng"
 
     # game/variables/items.rpy:4
     old "Antibiotics"
-    new "Antibiotics"
-
+    new "Thuốc kháng sinh"

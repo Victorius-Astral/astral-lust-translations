@@ -4,51 +4,51 @@ translate vietnamese strings:
 
     # game/screens.rpy:254
     old "Back"
-    new "Back"
+    new "Trở lại"
 
     # game/screens.rpy:255
     old "History"
-    new "History"
+    new "Lịch sử"
 
     # game/screens.rpy:256
     old "Skip"
-    new "Skip"
+    new "Bỏ qua"
 
     # game/screens.rpy:257
     old "Auto"
-    new "Auto"
+    new "Tự Động"
 
     # game/screens.rpy:258
     old "Save"
-    new "Save"
+    new "Lưu"
 
     # game/screens.rpy:259
     old "Q.Save"
-    new "Q.Save"
+    new "Lưu nhanh"
 
     # game/screens.rpy:260
     old "Q.Load"
-    new "Q.Load"
+    new "Tải nhanh"
 
     # game/screens.rpy:261
     old "Settings"
-    new "Settings"
+    new "Cài đặt"
 
     # game/screens.rpy:304
     old "Start"
-    new "Start"
+    new "Bắt đầu"
 
     # game/screens.rpy:312
-    old "Load"
-    new "Load"
+    old "Tải"
+    new "Tải"
 
     # game/screens.rpy:318
     old "End Replay"
-    new "End Replay"
+    new "Kết thúc phát lại"
 
     # game/screens.rpy:322
     old "Main Menu"
-    new "Main Menu"
+    new "Màn hình chính"
 
     # game/screens.rpy:324
     old "Credits"
@@ -56,15 +56,15 @@ translate vietnamese strings:
 
     # game/screens.rpy:333
     old "Help"
-    new "Help"
+    new "Giúp đỡ"
 
     # game/screens.rpy:339
     old "Quit"
-    new "Quit"
+    new "Thoát"
 
     # game/screens.rpy:346
     old "Check for Updates"
-    new "Check for Updates"
+    new "Kiểm tra cập nhật"
 
     # game/screens.rpy:444
     old "About"
@@ -72,15 +72,15 @@ translate vietnamese strings:
 
     # game/screens.rpy:593
     old "Return"
-    new "Return"
+    new "Quay lại"
 
     # game/screens.rpy:677
     old "Version [config.version!t]\n"
-    new "Version [config.version!t]\n"
+    new "Phiên bản [config.version!t]\n"
 
     # game/screens.rpy:680
-    old "{color=#FF424D}\nSupporters:{/color}"
-    new "{color=#FF424D}\nSupporters:{/color}"
+    old "{color=#FF424D}\Donators:{/color}"
+    new "{color=#FF424D}\nNhững người ủng hộ:{/color}"
 
     # game/screens.rpy:682
     old "{color=#00ffb6}\nEditor: Strectmar{/color}"
@@ -104,11 +104,11 @@ translate vietnamese strings:
 
     # game/screens.rpy:689
     old "\n\nMusic: {a=https://www.bensound.com}www.bensound.com{/a}, {a=https://www.zapsplat.com}www.zapsplat.com{/a}, An Innermost Glow by The Longshore Striders"
-    new "\n\nMusic: {a=https://www.bensound.com}www.bensound.com{/a}, {a=https://www.zapsplat.com}www.zapsplat.com{/a}, An Innermost Glow by The Longshore Striders"
+    new "\n\nÂm nhạc: {a=https://www.bensound.com}www.bensound.com{/a}, {a=https://www.zapsplat.com}www.zapsplat.com{/a}, An Innermost Glow by The Longshore Striders"
 
     # game/screens.rpy:690
     old "\nSounds: {a=https://www.zapsplat.com}www.zapsplat.com{/a}"
-    new "\nSounds: {a=https://www.zapsplat.com}www.zapsplat.com{/a}"
+    new "\nÂm thanh: {a=https://www.zapsplat.com}www.zapsplat.com{/a}"
 
     # game/screens.rpy:691
     old "\nIcons: {a=https://www.game-icons.net}Lorc, Dealpouite, Guard13007, sbed, Skoll and Faithtoken (some icons merged with other icons) from Game-icons.net{/a} under {a=https://creativecommons.org/licenses/by/3.0/}CC BY 3.0{/a}, {a=https://www.iconpacks.net}iconpacks.net{/a}, {a=https://www.freepik.com}Freepik{/a} from {a=https://www.flaticon.com/}www.flaticon.com{/a}"
@@ -136,15 +136,15 @@ translate vietnamese strings:
 
     # game/screens.rpy:742
     old "Page {}"
-    new "Page {}"
+    new "Trang {}"
 
     # game/screens.rpy:742
     old "Automatic saves"
-    new "Automatic saves"
+    new "Tự động lưu"
 
     # game/screens.rpy:742
     old "Quick saves"
-    new "Quick saves"
+    new "Lưu nhanh"
 
     # game/screens.rpy:784
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -152,7 +152,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:784
     old "empty slot"
-    new "empty slot"
+    new "chỗ trống"
 
     # game/screens.rpy:801
     old "<"
@@ -180,11 +180,11 @@ translate vietnamese strings:
 
     # game/screens.rpy:869
     old "Sound"
-    new "Sound"
+    new "Âm thanh"
 
     # game/screens.rpy:870
     old "Music"
-    new "Music"
+    new "Nhạc"
 
     # game/screens.rpy:874
     old "Mods"
@@ -192,15 +192,15 @@ translate vietnamese strings:
 
     # game/screens.rpy:1001
     old "The dialogue history is empty."
-    new "The dialogue history is empty."
+    new "Lịch sử đối thoại trống."
 
     # game/screens.rpy:1071
     old "Keyboard"
-    new "Keyboard"
+    new "Bàn phím"
 
     # game/screens.rpy:1072
     old "Mouse"
-    new "Mouse"
+    new "chuột"
 
     # game/screens.rpy:1075
     old "Gamepad"
@@ -212,7 +212,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:1092
     old "Advances dialogue and activates the interface."
-    new "Advances dialogue and activates the interface."
+    new "đối thoại nâng cao và kích hoạt giao diện."
 
     # game/screens.rpy:1095
     old "Space"
@@ -220,15 +220,15 @@ translate vietnamese strings:
 
     # game/screens.rpy:1096
     old "Advances dialogue without selecting choices."
-    new "Advances dialogue without selecting choices."
+    new "đối thoại mà không cần chọn lựa."
 
     # game/screens.rpy:1099
     old "Arrow Keys"
-    new "Arrow Keys"
+    new "Phím mũi tên"
 
     # game/screens.rpy:1100
     old "Navigate the interface."
-    new "Navigate the interface."
+    new "Điều hướng giao diện."
 
     # game/screens.rpy:1103
     old "Escape"
@@ -236,7 +236,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:1104
     old "Accesses the game menu."
-    new "Accesses the game menu."
+    new "Truy cập menu trò chơi."
 
     # game/screens.rpy:1107
     old "Ctrl"
@@ -244,7 +244,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:1108
     old "Skips dialogue while held down."
-    new "Skips dialogue while held down."
+    new "Bỏ qua đối thoại khi bị nhấn giữ."
 
     # game/screens.rpy:1111
     old "Tab"
@@ -252,7 +252,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:1112
     old "Toggles dialogue skipping."
-    new "Toggles dialogue skipping."
+    new "Chuyển đổi chế độ bỏ qua đối thoại."
 
     # game/screens.rpy:1115
     old "Page Up"
@@ -260,7 +260,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:1116
     old "Rolls back to earlier dialogue."
-    new "Rolls back to earlier dialogue."
+    new "Quay lại đoạn hội thoại trước đó."
 
     # game/screens.rpy:1119
     old "Page Down"
@@ -268,11 +268,11 @@ translate vietnamese strings:
 
     # game/screens.rpy:1120
     old "Rolls forward to later dialogue."
-    new "Rolls forward to later dialogue."
+    new "Chuyển tới đoạn hội thoại sau."
 
     # game/screens.rpy:1124
     old "Hides the user interface."
-    new "Hides the user interface."
+    new "Ẩn giao diện người dùng."
 
     # game/screens.rpy:1128
     old "Takes a screenshot."
@@ -320,7 +320,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:1178
     old "Start, Guide"
-    new "Start, Guide"
+    new "Bắt đầu, Hướng dẫn"
 
     # game/screens.rpy:1182
     old "Y/Top Button"
@@ -328,7 +328,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:1185
     old "Calibrate"
-    new "Calibrate"
+    new "Hiệu chỉnh"
 
     # game/screens.rpy:1250
     old "Yes"
@@ -340,9 +340,8 @@ translate vietnamese strings:
 
     # game/screens.rpy:1297
     old "Skipping"
-    new "Skipping"
+    new "Đang bỏ qua"
 
     # game/screens.rpy:1522
     old "Menu"
-    new "Menu"
-
+    new "Màn hình chính"

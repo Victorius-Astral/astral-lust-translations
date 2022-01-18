@@ -4,7 +4,7 @@ translate vietnamese strings:
 
     # game/variables/characters/side.rpy:1
     old "Cat"
-    new "Cat"
+    new "Mèo"
 
     # game/variables/characters/side.rpy:5
     old "Lola"
@@ -20,7 +20,7 @@ translate vietnamese strings:
 
     # game/variables/characters/side.rpy:15
     old "Governor"
-    new "Governor"
+    new "Thống đốc"
 
     # game/variables/characters/side.rpy:20
     old "Demeter"
@@ -33,4 +33,3 @@ translate vietnamese strings:
     # game/variables/characters/side.rpy:28
     old "[Lil_Fox.name]"
     new "[Lil_Fox.name]"
-

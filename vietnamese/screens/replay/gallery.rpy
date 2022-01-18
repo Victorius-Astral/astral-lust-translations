@@ -4,13 +4,12 @@ translate vietnamese strings:
 
     # game/screens/replay/gallery.rpy:35
     old "Replay Gallery - "
-    new "Replay Gallery - "
+    new "phát lại Bộ sưu tập - "
 
     # game/screens/replay/gallery.rpy:37
     old "Replay Gallery"
-    new "Replay Gallery"
+    new "phát lại Bộ sưu tập"
 
     # game/screens/replay/gallery.rpy:39
     old "Unlocked: "
-    new "Unlocked: "
-
+    new "Đã mở khóa: "

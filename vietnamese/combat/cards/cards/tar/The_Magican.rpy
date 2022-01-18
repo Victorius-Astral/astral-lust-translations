@@ -4,9 +4,8 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_Magican.rpy:33
     old "mental"
-    new "mental"
+    new "trí óc"
 
     # game/combat/cards/cards/tar/The_Magican.rpy:33
     old "half physical"
-    new "half physical"
-
+    new "một nửa vật lý"

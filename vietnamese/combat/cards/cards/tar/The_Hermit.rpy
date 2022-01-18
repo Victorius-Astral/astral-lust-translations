@@ -4,25 +4,24 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "intelligence"
-    new "intelligence"
+    new "Trí tuệ"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "vitality"
-    new "vitality"
+    new "sức sống"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "charisma"
-    new "charisma"
+    new "sức thu hút"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "agility"
-    new "agility"
+    new "nhanh nhẹn"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "wisdom"
-    new "wisdom"
+    new "sự thông thái"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "strength"
-    new "strength"
-
+    new "sức mạnh"

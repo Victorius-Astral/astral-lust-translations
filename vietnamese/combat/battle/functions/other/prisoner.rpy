@@ -4,13 +4,12 @@ translate vietnamese strings:
 
     # game/combat/battle/functions/other/prisoner.rpy:18
     old "Do you want to catch the enemy?"
-    new "Do you want to catch the enemy?"
+    new "Bạn có muốn bắt giũ kẻ thù không?"
 
     # game/combat/battle/functions/other/prisoner.rpy:19
     old "Catch {}"
-    new "Catch {}"
+    new "Bắt {}"
 
     # game/combat/battle/functions/other/prisoner.rpy:19
     old "Kill"
-    new "Kill"
-
+    new "Giết"

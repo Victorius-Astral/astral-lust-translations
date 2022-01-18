@@ -4,25 +4,25 @@
 translate vietnamese rachel_7_c04e1dc2:
 
     # rachel "Thank you!"
-    rachel "Thank you!"
+    rachel "Cảm ơn anh!"
 
 # game/characters/rachel/ev_7.rpy:10
 translate vietnamese rachel_7_b72e4a55:
 
     # rachel "I will put it on."
-    rachel "I will put it on."
+    rachel "Tôi sẽ mặc nó đây."
 
 # game/characters/rachel/ev_7.rpy:11
 translate vietnamese rachel_7_cda89780:
 
     # me "Be my guest."
-    me "Be my guest."
+    me "Cứ tự nhiên."
 
 # game/characters/rachel/ev_7.rpy:18
 translate vietnamese rachel_7_7cb9fa27:
 
     # me "Woah. Didn't expect that."
-    me "Woah. Didn't expect that."
+    me "Woah. Tôi không ngờ đến điều đó."
 
 # game/characters/rachel/ev_7.rpy:24
 translate vietnamese rachel_7_b54e2663:
@@ -34,187 +34,187 @@ translate vietnamese rachel_7_b54e2663:
 translate vietnamese rachel_7_b5c727ea:
 
     # rachel "Am I pretty?"
-    rachel "Am I pretty?"
+    rachel "Tôi có xinh không?"
 
 # game/characters/rachel/ev_7.rpy:26
 translate vietnamese rachel_7_c3643422:
 
     # me "Very.."
-    me "Very.."
+    me "Rất.."
 
 # game/characters/rachel/ev_7.rpy:31
 translate vietnamese rachel_7_0e37e280:
 
     # rachel "This outfit is so nice.."
-    rachel "This outfit is so nice.."
+    rachel "Bộ đồ này đẹp quá.."
 
 # game/characters/rachel/ev_7.rpy:38
 translate vietnamese rachel_7_e8aa681a:
 
     # rachel "I love it!"
-    rachel "I love it!"
+    rachel "tôi thích nó!"
 
 # game/characters/rachel/ev_7.rpy:39
 translate vietnamese rachel_7_cbd92e51:
 
     # me "I'm glad you like it."
-    me "I'm glad you like it."
+    me "tôi vui vì cô thích nó."
 
 # game/characters/rachel/ev_7.rpy:40
 translate vietnamese rachel_7_f7815299:
 
     # rachel "Thank you. I'll go show it to Little Fox. She'll be green with envy."
-    rachel "Thank you. I'll go show it to Little Fox. She'll be green with envy."
+    rachel "Cảm ơn anh. Tôi sẽ show nó cho Cáo nhỏ. Và em ấy sẽ xanh mặt vì ghen tị."
 
 # game/characters/rachel/ev_7.rpy:41
 translate vietnamese rachel_7_9b9546d7:
 
     # rachel "She has awakened by the way."
-    rachel "She has awakened by the way."
+    rachel "Nhân tiện thì em ấy đã thức tỉnh."
 
 # game/characters/rachel/ev_7.rpy:42
 translate vietnamese rachel_7_4fee96dd:
 
     # me "*Cough*"
-    me "*Cough*"
+    me "*Khụ khụ*"
 
 # game/characters/rachel/ev_7.rpy:47
 translate vietnamese rachel_7_346483d3:
 
     # rachel "Yes?"
-    rachel "Yes?"
+    rachel "Vâng?"
 
 # game/characters/rachel/ev_7.rpy:48
 translate vietnamese rachel_7_926ee9bd:
 
     # me "What about my reward?"
-    me "What about my reward?"
+    me "Còn phần thưởng của tôi thì sao?"
 
 # game/characters/rachel/ev_7.rpy:49
 translate vietnamese rachel_7_7efac08c:
 
     # rachel "Silly.. You got your reward already."
-    rachel "Silly.. You got your reward already."
+    rachel "Ngốc à.. Anh đã nhận được phần thưởng của mình rồi đấy."
 
 # game/characters/rachel/ev_7.rpy:50
 translate vietnamese rachel_7_6bc7342a:
 
     # me "I did? You mean seeing you naked?"
-    me "I did? You mean seeing you naked?"
+    me "Tôi đã có sao? Ý cô là nhìn thấy cô khỏa thân?"
 
 # game/characters/rachel/ev_7.rpy:51
 translate vietnamese rachel_7_7b746825:
 
     # rachel "Yes. Did you want something more?"
-    rachel "Yes. Did you want something more?"
+    rachel "Đúng rồi. Anh có muốn một cái gì đó nữa à?"
 
 # game/characters/rachel/ev_7.rpy:52
 translate vietnamese rachel_7_08343b4b:
 
     # me "I did expect a little more.."
-    me "I did expect a little more.."
+    me "Tôi đã mong đợi nhiều hơn một chút.."
 
 # game/characters/rachel/ev_7.rpy:58
 translate vietnamese rachel_7_08ade331:
 
     # me "I've helped you so much. I deserve more. How about blowing me?"
-    me "I've helped you so much. I deserve more. How about blowing me?"
+    me "Tôi đã giúp cô rất nhiều. Tôi xứng đáng được nhiều hơn thế. Blowjob thì sao nào?"
 
 # game/characters/rachel/ev_7.rpy:63
 translate vietnamese rachel_7_b1a6ea5c:
 
     # rachel "I'm not crazy with hunger like Little Fox."
-    rachel "I'm not crazy with hunger like Little Fox."
+    rachel "Tôi không phát điên vì đói như Cáo nhỏ đâu."
 
 # game/characters/rachel/ev_7.rpy:64
 translate vietnamese rachel_7_75fa188e:
 
     # rachel "Don't think there's going to be anything between us if you don't show a lot of effort."
-    rachel "Don't think there's going to be anything between us if you don't show a lot of effort."
+    rachel "Đừng nghĩ giữa chúng ta sẽ có bất cứ điều gì xảy ra nếu anh không cố gắng nhiều."
 
 # game/characters/rachel/ev_7.rpy:65
 translate vietnamese rachel_7_df30cc3c:
 
     # me "Do you know how hard it was to help you build this shrine?"
-    me "Do you know how hard it was to help you build this shrine?"
+    me "Cô có biết tôi đã vất vả như thế nào để giúp cô xây dựng ngôi đền này không?"
 
 # game/characters/rachel/ev_7.rpy:66
 translate vietnamese rachel_7_01b9e384:
 
     # rachel "You did it to get Little Fox to live here."
-    rachel "You did it to get Little Fox to live here."
+    rachel "Anh làm điều đó để Cáo nhỏ đến sống ở đây."
 
 # game/characters/rachel/ev_7.rpy:67
 translate vietnamese rachel_7_fe203686:
 
     # me "It changes nothing."
-    me "It changes nothing."
+    me "Nó không thay đổi cái gì hết."
 
 # game/characters/rachel/ev_7.rpy:74
 translate vietnamese rachel_7_4f5658e1:
 
     # rachel "I'm not a whore to buy me with some materials."
-    rachel "I'm not a whore to buy me with some materials."
+    rachel "Tôi không phải là một con điếm để anh mua bằng một ít vật liệu đâu."
 
 # game/characters/rachel/ev_7.rpy:75
 translate vietnamese rachel_7_3614256f:
 
     # rachel "I expect better from you."
-    rachel "I expect better from you."
+    rachel "Tôi mong đợi nhiều hơn từ anh."
 
 # game/characters/rachel/ev_7.rpy:79
 translate vietnamese rachel_7_19c83176:
 
     # me "Great.. I fucked up."
-    me "Great.. I fucked up."
+    me "Tuyệt vời.. Tôi làm hỏng hết rồi."
 
 # game/characters/rachel/ev_7.rpy:86
 translate vietnamese rachel_7_7c629fae:
 
     # rachel "You didn't look carefully enough the first time?"
-    rachel "You didn't look carefully enough the first time?"
+    rachel "Anh đã không nhìn kỹ ở lần đầu tiên á?"
 
 # game/characters/rachel/ev_7.rpy:87
 translate vietnamese rachel_7_bc0928f6:
 
     # me "I didn't know it was the reward so I didn't enjoy it enough."
-    me "I didn't know it was the reward so I didn't enjoy it enough."
+    me "Tôi không biết đó là phần thưởng nên tôi không tận hưởng nó đủ."
 
 # game/characters/rachel/ev_7.rpy:94
 translate vietnamese rachel_7_85deb9bd:
 
     # rachel "Here. Next time enjoy me whenever you can."
-    rachel "Here. Next time enjoy me whenever you can."
+    rachel "Đây này. Lần sau hãy tận hưởng tôi bất cứ khi nào anh có thể."
 
 # game/characters/rachel/ev_7.rpy:95
 translate vietnamese rachel_7_b1f13bb8:
 
     # rachel "Blessings don't last long."
-    rachel "Blessings don't last long."
+    rachel "Phước lành không tồn tại lâu."
 
 # game/characters/rachel/ev_7.rpy:96
 translate vietnamese rachel_7_effe0fa9:
 
     # me "Oh, I will. I will.."
-    me "Oh, I will. I will.."
+    me "Oh, Tôi sẽ. Tôi sẽ.."
 
 # game/characters/rachel/ev_7.rpy:101
 translate vietnamese rachel_7_dc7745f2:
 
     # rachel "I'm going. Bye~"
-    rachel "I'm going. Bye~"
+    rachel "Tôi đi đây. Tạm biệt~"
 
 # game/characters/rachel/ev_7.rpy:102
 translate vietnamese rachel_7_4095caad:
 
     # me "See you."
-    me "See you."
+    me "Gặp lại sau."
 
 # game/characters/rachel/ev_7.rpy:109
 translate vietnamese rachel_7_4095caad_1:
 
     # me "See you."
-    me "See you."
+    me "Gặp lại sau."
 
 # game/characters/rachel/ev_7.rpy:110
 translate vietnamese rachel_7_12d9b7e5:
@@ -226,9 +226,8 @@ translate vietnamese strings:
 
     # game/characters/rachel/ev_7.rpy:54
     old "Demand more"
-    new "Demand more"
+    new "Yêu cầu nhiều hơn"
 
     # game/characters/rachel/ev_7.rpy:54
     old "Ask her to undress again"
-    new "Ask her to undress again"
-
+    new "Cởi lại lần nữa đi"

@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/enemies/neutral/Crab.rpy:7
     old "Giant Crab"
-    new "Giant Crab"
-
+    new "Cua khổng lồ"

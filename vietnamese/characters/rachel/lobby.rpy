@@ -4,5 +4,4 @@
 translate vietnamese rachel_sleep_lobby_ebf3f51d:
 
     # th "I shouldn't wake her up. I can talk with her tomorrow."
-    th "I shouldn't wake her up. I can talk with her tomorrow."
-
+    th "Mình không nên đánh thức cô ấy. Mình có thể nói chuyện với cô ấy vào ngày mai."

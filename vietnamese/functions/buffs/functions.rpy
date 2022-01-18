@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/functions/buffs/functions.rpy:23
     old "{{b}}{{u}}{name}{{/u}}{{/b}}\n{{small}}{description} \n\n Trigger: {trigger}{{/small}}"
-    new "{{b}}{{u}}{name}{{/u}}{{/b}}\n{{small}}{description} \n\n Trigger: {trigger}{{/small}}"
-
+    new "{{b}}{{u}}{Tên}{{/u}}{{/b}}\n{{small}}{Mô tả} \n\n Kích hoạt: {Kích hoạt}{{/small}}"

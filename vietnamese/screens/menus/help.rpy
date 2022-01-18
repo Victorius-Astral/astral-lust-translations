@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/screens/menus/help.rpy:4
     old "Beginner Guide"
-    new "Beginner Guide"
-
+    new "Hướng dẫn cho tân thủ"

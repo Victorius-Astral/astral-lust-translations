@@ -4,5 +4,4 @@
 translate vietnamese explore_6b1e9b63:
 
     # "You walk down the foggy road looking for anything of interest."
-    "You walk down the foggy road looking for anything of interest."
-
+    "Bạn đi bộ trên con đường đầy sương mù để tìm kiếm bất cứ thứ gì khiến bạn quan tâm."

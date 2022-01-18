@@ -4,19 +4,19 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Ordinary"
-    new "Ordinary"
+    new "Bình thường"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Extraordinary"
-    new "Extraordinary"
+    new "Hiếm"
 
     # game/combat/cards/lists/rarities.rpy:1
-    old "Mythical"
-    new "Mythical"
+    old "Thần thoại"
+    new "Huyền thoại"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Angelic"
-    new "Angelic"
+    new "thiên thần"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Divine"
@@ -28,5 +28,4 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Unique"
-    new "Unique"
-
+    new "Độc nhất"

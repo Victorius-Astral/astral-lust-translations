@@ -8,9 +8,8 @@ translate vietnamese strings:
 
     # game/places/hotel/lobby/door2.rpy:2
     old "Vault"
-    new "Vault"
+    new "Kho chứa"
 
     # game/places/hotel/lobby/door2.rpy:2
     old "Fox Shrine"
-    new "Fox Shrine"
-
+    new "Đền Cáo"

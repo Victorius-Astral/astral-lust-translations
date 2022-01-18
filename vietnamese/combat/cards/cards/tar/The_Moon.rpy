@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_Moon.rpy:27
     old "physical"
-    new "physical"
-
+    new "Vật lý"

@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_Empress.rpy:39
     old "(10 - the lowest mental attribute ({}) )"
-    new "(10 - the lowest mental attribute ({}) )"
-
+    new "(10 - thuộc tính tinh thần thấp nhất ({}) )"

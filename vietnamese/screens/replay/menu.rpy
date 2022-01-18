@@ -4,9 +4,8 @@ translate vietnamese strings:
 
     # game/screens/replay/menu.rpy:56
     old "No image"
-    new "No image"
+    new "Không có hình ảnh"
 
     # game/screens/replay/menu.rpy:77
     old "--- Locked ---"
-    new "--- Locked ---"
-
+    new "--- Đã khóa ---"

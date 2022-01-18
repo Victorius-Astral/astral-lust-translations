@@ -4,25 +4,25 @@
 translate vietnamese christ_2f5165f1:
 
     # me "What's with the noise..?"
-    me "What's with the noise..?"
+    me "Tiếng gì vậy..?"
 
 # game/events/special/christmas.rpy:80
 translate vietnamese christ_bde95fa8:
 
     # aharon "That would be the Christmas carols."
-    aharon "That would be the Christmas carols."
+    aharon "Đó sẽ là bài hát mừng Giáng sinh."
 
 # game/events/special/christmas.rpy:96
 translate vietnamese christ_intro_b48a3b15:
 
     # me "[aharon]?! What are you doing in my room? And what are you wearing..?"
-    me "[aharon]?! What are you doing in my room? And what are you wearing..?"
+    me "[aharon]?! Mày đang làm cái đeos gì trong phòng của tao thế? Và mày đang mặc cái gì..?"
 
 # game/events/special/christmas.rpy:97
 translate vietnamese christ_intro_4f281b23:
 
     # aharon "What's necessary, as always."
-    aharon "What's necessary, as always."
+    aharon "Những gì cần thiết, như mọi khi."
 
 # game/events/special/christmas.rpy:98
 translate vietnamese christ_intro_af9f2995:
@@ -34,7 +34,7 @@ translate vietnamese christ_intro_af9f2995:
 translate vietnamese christ_intro_75c7caa9:
 
     # aharon "The last present you received on Christmas from your mother seems to have left an impression."
-    aharon "The last present you received on Christmas from your mother seems to have left an impression."
+    aharon "Món quà cuối cùng ngươi nhận được vào Giáng sinh từ mẹ của ngươu dường như đã để lại ấn tượng sâu đậm."
 
 # game/events/special/christmas.rpy:103
 translate vietnamese christ_intro_3820771a:
@@ -46,25 +46,25 @@ translate vietnamese christ_intro_3820771a:
 translate vietnamese christ_intro_1f31d264:
 
     # aharon "Now, onto more pressing matters: Every year, around this period of time, a meddlesome entity would make itself known."
-    aharon "Now, onto more pressing matters: Every year, around this period of time, a meddlesome entity would make itself known."
+    aharon "Bây giờ, về những vấn đề cấp bách hơn: Hàng năm, trong khoảng thời gian này, một thực thể hay quấy rầy sẽ được biết đến là."
 
 # game/events/special/christmas.rpy:105
 translate vietnamese christ_intro_8132e4a5:
 
     # aharon "It's called the Christmas Spirit."
-    aharon "It's called the Christmas Spirit."
+    aharon "Nó được gọi là linh hồn Giáng sinh."
 
 # game/events/special/christmas.rpy:106
 translate vietnamese christ_intro_5315173a:
 
     # me "There's no way this is real."
-    me "There's no way this is real."
+    me "Không đời nào chuyện này là thật."
 
 # game/events/special/christmas.rpy:107
 translate vietnamese christ_intro_4e30b7f9:
 
     # aharon "Indeed. It's a dream the Christmas Spirit forced you into."
-    aharon "Indeed. It's a dream the Christmas Spirit forced you into."
+    aharon "Thật. Đó là một giấc mơ mà Thần Giáng sinh buộc ngươi phải làm."
 
 # game/events/special/christmas.rpy:108
 translate vietnamese christ_intro_60341cdb:
@@ -1833,4 +1833,3 @@ translate vietnamese strings:
     # game/events/special/christmas.rpy:594
     old "Previous position"
     new "Previous position"
-

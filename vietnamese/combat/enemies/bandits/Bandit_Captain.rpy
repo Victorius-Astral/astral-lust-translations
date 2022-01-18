@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/enemies/bandits/Bandit_Captain.rpy:7
     old "Bandit Captain"
-    new "Bandit Captain"
-
+    new "Tướng cướp"

@@ -8,21 +8,20 @@ translate vietnamese strings:
 
     # game/variables/characters/events.rpy:7
     old "Bandit Leader"
-    new "Bandit Leader"
+    new "Tướng cướp"
 
     # game/variables/characters/events.rpy:9
     old "Scavenger Girl"
-    new "Scavenger Girl"
+    new "Cô gái nhặt đồ"
 
     # game/variables/characters/events.rpy:11
     old "Wandering Trader"
-    new "Wandering Trader"
+    new "Thương nhân lang thang"
 
     # game/variables/characters/events.rpy:13
     old "Woman"
-    new "Woman"
+    new "Người phụ nữ"
 
     # game/variables/characters/events.rpy:16
     old "Something"
-    new "Something"
-
+    new "Thứ gì đó"

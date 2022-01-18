@@ -4,5 +4,4 @@
 translate vietnamese room_hotel_wc_1ccf6df0:
 
     # "It seems someone is inside."
-    "It seems someone is inside."
-
+    "Có vẻ như ai đó đang ở bên trong."

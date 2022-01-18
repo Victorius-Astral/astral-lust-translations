@@ -12,19 +12,19 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/alice.rpy:25
     old "\nEmotions"
-    new "\nEmotions"
+    new "\nCảm xúc"
 
     # game/screens/menus/girls/alice.rpy:27
     old "• {love}Affection: "
-    new "• {love}Affection: "
+    new "• {love}Tình cảm: "
 
     # game/screens/menus/girls/alice.rpy:28
     old "• {trust}Trust: "
-    new "• {trust}Trust: "
+    new "• {trust}Sự tin tưởng: "
 
     # game/screens/menus/girls/alice.rpy:29
     old "• {lust}Lust: "
-    new "• {lust}Lust: "
+    new "• {lust}Dục vọng: "
 
     # game/screens/menus/girls/alice.rpy:30
     old "• {subm}Submission: "
@@ -32,19 +32,19 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/alice.rpy:33
     old "• {love}Relationship: girlfriend{/love}"
-    new "• {love}Relationship: girlfriend{/love}"
+    new "• {love}Mối quan hệ: bạn gái{/love}"
 
     # game/screens/menus/girls/alice.rpy:36
     old "• {love}Relationship: none{/love}"
-    new "• {love}Relationship: none{/love}"
+    new "• {love}Mối quan hệ: không có{/love}"
 
     # game/screens/menus/girls/alice.rpy:38
     old "\nStatistics"
-    new "\nStatistics"
+    new "\nSố liệu thống kê"
 
     # game/screens/menus/girls/alice.rpy:40
     old "• Kisses: "
-    new "• Kisses: "
+    new "• hôn: "
 
     # game/screens/menus/girls/alice.rpy:43
     old "• Massage: "
@@ -52,7 +52,7 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/alice.rpy:44
     old "• Masturbation: "
-    new "• Masturbation: "
+    new "• Thủ dâm: "
 
     # game/screens/menus/girls/alice.rpy:45
     old "• Blowjob: "
@@ -68,15 +68,15 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/alice.rpy:48
     old "• Vaginal: "
-    new "• Vaginal: "
+    new "• Âm đạo: "
 
     # game/screens/menus/girls/alice.rpy:49
     old "• Anal: "
-    new "• Anal: "
+    new "• Hậu môn: "
 
     # game/screens/menus/girls/alice.rpy:50
     old "• Cunnilingus: "
-    new "• Cunnilingus: "
+    new "• Liếm lồn: "
 
     # game/screens/menus/girls/alice.rpy:51
     old "• Sleep sex: "
@@ -92,9 +92,8 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/alice.rpy:54
     old "• Came inside: "
-    new "• Came inside: "
+    new "• Ra bên trong: "
 
     # game/screens/menus/girls/alice.rpy:55
     old "• Came outside: "
-    new "• Came outside: "
-
+    new "• Ra bên ngoài: "

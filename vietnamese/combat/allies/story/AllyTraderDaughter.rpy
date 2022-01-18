@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/allies/story/AllyTraderDaughter.rpy:8
     old "Trader's Daughter"
-    new "Trader's Daughter"
-
+    new "Con gái của thương nhân"

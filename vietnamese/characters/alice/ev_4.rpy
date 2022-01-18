@@ -4,13 +4,13 @@
 translate vietnamese alice_4_131c6a3a:
 
     # "A soft, wet feeling slowly wakes you up from your dreams."
-    "A soft, wet feeling slowly wakes you up from your dreams."
+    "Một cảm giác mềm mại, ẩm ướt từ từ đánh thức bạn khỏi giấc mơ."
 
 # game/characters/alice/ev_4.rpy:10
 translate vietnamese alice_4_3a514469:
 
     # th "What is going on? It feels so nice.."
-    th "What is going on? It feels so nice.."
+    th "Điều gì đang xảy ra? Cảm giác thật tuyệt.."
 
 # game/characters/alice/ev_4.rpy:22
 translate vietnamese alice_4_f9e0fb50:
@@ -22,13 +22,13 @@ translate vietnamese alice_4_f9e0fb50:
 translate vietnamese alice_4_40694db1:
 
     # "You slowly open your eyes."
-    "You slowly open your eyes."
+    "Bạn từ từ mở mắt."
 
 # game/characters/alice/ev_4.rpy:25
 translate vietnamese alice_4_9c39106f:
 
     # th "Shit it's [alice]!"
-    th "Shit it's [alice]!"
+    th "Đây là [alice]!"
 
 # game/characters/alice/ev_4.rpy:27
 translate vietnamese alice_4_c00df9d9:
@@ -40,13 +40,13 @@ translate vietnamese alice_4_c00df9d9:
 translate vietnamese alice_4_8cf97514:
 
     # th "She's blowing me!"
-    th "She's blowing me!"
+    th "Em ấy đang thổi kèn cho mình!"
 
 # game/characters/alice/ev_4.rpy:29
 translate vietnamese alice_4_4098db4f:
 
     # "As [alice] continues to envelop your manhood in her soft, tender mouth you feel indescribable pleasure."
-    "As [alice] continues to envelop your manhood in her soft, tender mouth you feel indescribable pleasure."
+    "Khi [alice] tiếp tục bao bọc cái cần tăng dân số của bạn trong khuôn miệng mềm mại, dịu dàng của cô ấy, bạn cảm thấy sung sướng không thể tả."
 
 # game/characters/alice/ev_4.rpy:30
 translate vietnamese alice_4_530cb419:
@@ -58,7 +58,7 @@ translate vietnamese alice_4_530cb419:
 translate vietnamese alice_4_c5a013b4:
 
     # th "Fuck! So good!"
-    th "Fuck! So good!"
+    th "Mẹ nó! Tuyệt quá!"
 
 # game/characters/alice/ev_4.rpy:34
 translate vietnamese alice_4_fea5e951:
@@ -76,13 +76,13 @@ translate vietnamese alice_4_7eb2787f:
 translate vietnamese alice_4_7a7cdb4b:
 
     # "With that she returns to your manhood."
-    "With that she returns to your manhood."
+    "Sau đó, cô ấy trở lại với công việc chính."
 
 # game/characters/alice/ev_4.rpy:40
 translate vietnamese alice_4_89025964:
 
     # me "That's all you're gonna say? Not that I'm complaining."
-    me "That's all you're gonna say? Not that I'm complaining."
+    me "Đó là tất cả những gì em sẽ nói hả? Cũng Không hẳn anh đang phàn nàn về việc đó đâu."
 
 # game/characters/alice/ev_4.rpy:41
 translate vietnamese alice_4_17a7cdad:
@@ -94,13 +94,13 @@ translate vietnamese alice_4_17a7cdad:
 translate vietnamese alice_4_eee7258e:
 
     # "She ignores your question and continues to pleasure you with even greater eagerness."
-    "She ignores your question and continues to pleasure you with even greater eagerness."
+    "Cô ấy phớt lờ câu hỏi của bạn và tiếp tục làm hài lòng bạn với sự háo hức hơn cả."
 
 # game/characters/alice/ev_4.rpy:46
 translate vietnamese alice_4_790ac4ed:
 
     # th "Guess I'll just lay back and enjoy it."
-    th "Guess I'll just lay back and enjoy it."
+    th "Đoán là mình sẽ chỉ nằm xuống và tận hưởng nó vậy ."
 
 # game/characters/alice/ev_4.rpy:47
 translate vietnamese alice_4_17a7cdad_1:
@@ -112,13 +112,13 @@ translate vietnamese alice_4_17a7cdad_1:
 translate vietnamese alice_4_55fb9cd8:
 
     # th "Fuck it's like I'm in heaven!"
-    th "Fuck it's like I'm in heaven!"
+    th "ohhh, giống như mình đang ở trên thiên đường vậy!"
 
 # game/characters/alice/ev_4.rpy:54
 translate vietnamese alice_4_1_5683bc63:
 
     # "[alice] blows you even more passionately bringing you to the edge!"
-    "[alice] blows you even more passionately bringing you to the edge!"
+    "[alice] thổi kèn bạn say mê hơn nữa đưa bạn đến giới hạn!"
 
 # game/characters/alice/ev_4.rpy:55
 translate vietnamese alice_4_1_c00df9d9:
@@ -136,7 +136,7 @@ translate vietnamese alice_4_1_fd29b35c:
 translate vietnamese alice_4_1_77cf2f99:
 
     # "You feel so good, you can barely think straight."
-    "You feel so good, you can barely think straight."
+    "Bạn cảm thấy quá phê, bạn hầu như không thể nghĩ nổi gì nữa."
 
 # game/characters/alice/ev_4.rpy:58
 translate vietnamese alice_4_1_aeddd870:
@@ -154,19 +154,19 @@ translate vietnamese alice_4_1_9c8d6101:
 translate vietnamese alice_4_1_c9e889cf:
 
     # me "Fuck! I'm cumming!"
-    me "Fuck! I'm cumming!"
+    me "Anh, sắp bắn rồi!"
 
 # game/characters/alice/ev_4.rpy:62
 translate vietnamese alice_4_1_c69dd89e:
 
     # "Hearing that you're about to cum makes [alice] take you even deeper!"
-    "Hearing that you're about to cum makes [alice] take you even deeper!"
+    "Nghe rằng bạn sắp ra [alice] mút bạn sâu hơn nữa!"
 
 # game/characters/alice/ev_4.rpy:64
 translate vietnamese alice_4_1_2f3d23c6:
 
     # "You are cumming!"
-    "You are cumming!"
+    "Bạn đang ra!"
 
 # game/characters/alice/ev_4.rpy:66
 translate vietnamese alice_4_1_d2df6683:
@@ -178,7 +178,7 @@ translate vietnamese alice_4_1_d2df6683:
 translate vietnamese alice_4_1_366b9cf9:
 
     # "It seems your load was too much for [alice] as she clearly gags."
-    "It seems your load was too much for [alice] as she clearly gags."
+    "Có vẻ như sữa chua của bạn quá nhiều cho [alice] khiến cô ấy nghẹn đôi chút."
 
 # game/characters/alice/ev_4.rpy:69
 translate vietnamese alice_4_1_43c29e43:
@@ -196,13 +196,13 @@ translate vietnamese alice_4_1_0b60a0c3:
 translate vietnamese alice_4_1_9a2d86a0:
 
     # "[alice] shows you her empty mouth and looks at you expectantly as if waiting for you to praise her."
-    "[alice] shows you her empty mouth and looks at you expectantly as if waiting for you to praise her."
+    "[alice] cho bạn thấy cái miệng trống rỗng của cô ấy và nhìn bạn đầy mong đợi như thể đang chờ bạn khen ngợi cô ấy."
 
 # game/characters/alice/ev_4.rpy:79
 translate vietnamese alice_4_1_42d922c5:
 
     # th "She actually swallowed it all!"
-    th "She actually swallowed it all!"
+    th "em ấy thực sự đã nuốt tất cả!"
 
 # game/characters/alice/ev_4.rpy:84
 translate vietnamese alice_4_1_c805dcde:
@@ -214,25 +214,25 @@ translate vietnamese alice_4_1_c805dcde:
 translate vietnamese alice_4_1_ca8804c7:
 
     # me "To what do I owe the pleasure?"
-    me "To what do I owe the pleasure?"
+    me "Anh nợ em cái gì cho cuộc vui này đây?"
 
 # game/characters/alice/ev_4.rpy:87
 translate vietnamese alice_4_1_b1c46a00:
 
     # alice "I told you to wait for it~"
-    alice "I told you to wait for it~"
+    alice "Em đã nói với anh là hãy đợi đi~"
 
 # game/characters/alice/ev_4.rpy:88
 translate vietnamese alice_4_1_b14c49f7:
 
     # "Giving you one final look, she leaves your room."
-    "Giving you one final look, she leaves your room."
+    "Nhìn bạn một cái nhìn cuối cùng, cô ấy rời khỏi phòng của bạn."
 
 # game/characters/alice/ev_4.rpy:90
 translate vietnamese alice_4_1_409ae55d:
 
     # th "She can play with me like that more.. like everyday."
-    th "She can play with me like that more.. like everyday."
+    th "Em ấy có thể chơi đùa với mình như vậy nhiều hơn.. mỗi ngày."
 
 # game/characters/alice/ev_4.rpy:97
 translate vietnamese alice_4_1_b94a6a0f:
@@ -244,35 +244,34 @@ translate vietnamese alice_4_1_b94a6a0f:
 translate vietnamese alice_4_1_9dcfa7da:
 
     # "At your words [alice] pouts cutely, she is unhappy though."
-    "At your words [alice] pouts cutely, she is unhappy though."
+    "Theo lời của bạn [alice] bĩu môi dễ thương, mặc dù cô ấy không vui."
 
 # game/characters/alice/ev_4.rpy:99
 translate vietnamese alice_4_1_b14c49f7_1:
 
     # "Giving you one final look, she leaves your room."
-    "Giving you one final look, she leaves your room."
+    "Nhìn bạn một cái nhìn cuối cùng, cô ấy rời khỏi phòng của bạn."
 
 # game/characters/alice/ev_4.rpy:101
 translate vietnamese alice_4_1_c0b9b273:
 
     # th "She can play with me like that more.. like every day."
-    th "She can play with me like that more.. like every day."
+    th "Em ấy có thể chơi đùa với mình như vậy nhiều hơn.. mỗi ngày."
 
 translate vietnamese strings:
 
     # game/characters/alice/ev_4.rpy:32
     old "Say hi"
-    new "Say hi"
+    new "Nói câu chào"
 
     # game/characters/alice/ev_4.rpy:32
     old "Pretend to sleep"
-    new "Pretend to sleep"
+    new "Giả vờ ngủ"
 
     # game/characters/alice/ev_4.rpy:80
     old "Good girl, that was amazing!"
-    new "Good girl, that was amazing!"
+    new "tuyệt lắm, điều đó thật amazing gút chóp em!"
 
     # game/characters/alice/ev_4.rpy:80
     old "Could be better"
-    new "Could be better"
-
+    new "Đã có thể khá hơn thế này"

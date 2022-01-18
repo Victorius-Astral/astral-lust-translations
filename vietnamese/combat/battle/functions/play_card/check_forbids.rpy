@@ -3,6 +3,5 @@
 translate vietnamese strings:
 
     # game/combat/battle/functions/play_card/check_forbids.rpy:10
-    old "Playing cards of this type is forbidden."
-    new "Playing cards of this type is forbidden."
-
+    old "This type of card is forbiden."
+    new "Lá bài dạng này bị cấm."

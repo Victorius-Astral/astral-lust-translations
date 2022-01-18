@@ -4,9 +4,8 @@ translate vietnamese strings:
 
     # game/combat/battle/Battle_screen.rpy:190
     old "Turn [battle.turn]."
-    new "Turn [battle.turn]."
+    new "Lượt [battle.turn]."
 
     # game/combat/battle/Battle_screen.rpy:246
     old "End Turn"
-    new "End Turn"
-
+    new "Kết thúc lượt"

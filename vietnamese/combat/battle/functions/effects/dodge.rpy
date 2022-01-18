@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/battle/functions/effects/dodge.rpy:16
     old "{agi}Dodged{/agi}"
-    new "{agi}Dodged{/agi}"
-
+    new "{agi}Né đòn{/agi}"

@@ -4,13 +4,12 @@ translate vietnamese strings:
 
     # game/combat/decks/Deck.rpy:10
     old "Deck"
-    new "Deck"
+    new "Bộ bài"
 
     # game/combat/decks/Deck.rpy:89
     old "Card '{}' added to the {}"
-    new "Card '{}' added to the {}"
+    new "Lá bài '{}' đã được thêm vào {}"
 
     # game/combat/decks/Deck.rpy:207
     old "Cards in {}:"
-    new "Cards in {}:"
-
+    new "Lá bài ở {}:"

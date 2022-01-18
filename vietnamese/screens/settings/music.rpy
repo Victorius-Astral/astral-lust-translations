@@ -28,11 +28,11 @@ translate vietnamese strings:
 
     # game/screens/settings/music.rpy:28
     old "Dreams"
-    new "Dreams"
+    new "Những giấc mơ"
 
     # game/screens/settings/music.rpy:35
     old "Exploration"
-    new "Exploration"
+    new "Thám hiểm"
 
     # game/screens/settings/music.rpy:36
     old "Offelia's Dream"
@@ -41,4 +41,3 @@ translate vietnamese strings:
     # game/screens/settings/music.rpy:37
     old "Trick or Treat"
     new "Trick or Treat"
-

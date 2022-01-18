@@ -4,7 +4,7 @@ translate vietnamese strings:
 
     # game/screens/settings/sound.rpy:8
     old "Notifications"
-    new "Notifications"
+    new "Thông báo"
 
     # game/screens/settings/sound.rpy:9
     old "Emotions"
@@ -16,11 +16,11 @@ translate vietnamese strings:
 
     # game/screens/settings/sound.rpy:20
     old "Music Volume"
-    new "Music Volume"
+    new "Âm lượng nhạc"
 
     # game/screens/settings/sound.rpy:27
     old "Sound Volume"
-    new "Sound Volume"
+    new "Âm lượng"
 
     # game/screens/settings/sound.rpy:33
     old "Test"
@@ -28,9 +28,8 @@ translate vietnamese strings:
 
     # game/screens/settings/sound.rpy:37
     old "Voice Volume"
-    new "Voice Volume"
+    new "Âm lượng giọng nói"
 
     # game/screens/settings/sound.rpy:48
     old "Mute All"
-    new "Mute All"
-
+    new "Tắt tất cả"

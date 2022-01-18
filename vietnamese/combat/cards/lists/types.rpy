@@ -4,17 +4,16 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/types.rpy:3
     old "Offensive"
-    new "Offensive"
+    new "Tấn công"
 
     # game/combat/cards/lists/types.rpy:3
     old "Defensive"
-    new "Defensive"
+    new "Phòng thủ"
 
     # game/combat/cards/lists/types.rpy:3
     old "Ability"
-    new "Ability"
+    new "Năng lực"
 
     # game/combat/cards/lists/types.rpy:3
     old "Power"
-    new "Power"
-
+    new "Siêu năng lực"

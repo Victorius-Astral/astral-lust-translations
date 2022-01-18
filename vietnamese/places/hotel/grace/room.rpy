@@ -4,5 +4,4 @@
 translate vietnamese room_hotel_grace_d86e264b:
 
     # "It's late so you leave."
-    "It's late so you leave."
-
+    "Muộn rồi nên bạn rời đi."
