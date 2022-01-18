@@ -16,7 +16,7 @@ translate polish alice_anal_1_df37bd7e:
 translate polish alice_anal_1_ff41d66b:
 
     # me "Fuck! You are tight."
-    me "Fuck! You are tight."
+    me "Kurwa, ale jesteś ciasna!"
 
 # game/characters/alice/anal_1.rpy:18
 translate polish alice_anal_1_007f1501:
@@ -155,4 +155,3 @@ translate polish alice_anal_1_446fd9a0:
 
     # me "Sleep tight my beautiful girl."
     me "Sleep tight my beautiful girl."
-
