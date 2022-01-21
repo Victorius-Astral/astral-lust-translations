@@ -928,7 +928,7 @@ translate vietnamese girl_night_undress2_fc8821a4:
 translate vietnamese girl_night_undress2_314086b3:
 
     # me "What?"
-    me "{small}Cáilồnquègìvậytrời{small}"
+    me "{small}Cáilồnquègìvậytrời{/small}"
 
 # game/events/activities/pyjamas_party.rpy:296
 translate vietnamese girl_night_undress2_eb5e01f4:

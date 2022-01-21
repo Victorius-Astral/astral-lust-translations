@@ -22,7 +22,7 @@ translate spanish wanderers_brothel_12cf7b69:
 translate spanish wanderers_brothel_ce34d8e9:
 
     # madam_hof "It seems I was right about you being a regular. Let's increase your discount to 15% instead."
-    madam_hof "Parece que tenía razón sobre que serías un habitual. En su lugar, aumentemos su descuento al 15%."
+    madam_hof "Parece que tenía razón sobre que serías un habitual. En su lugar, aumentemos su descuento al 15\%."
 
 # game/places/wanderers/brothel.rpy:48
 translate spanish wanderers_brothel_48ce703f:
@@ -34,7 +34,7 @@ translate spanish wanderers_brothel_48ce703f:
 translate spanish wanderers_brothel_427075a6:
 
     # madam_hof "Our girls keep talking about you, you're quite a stallion. Let me give you 25% discount."
-    madam_hof "Nuestras chicas siguen hablando de ti, semental. Déjame darte un descuento de 25%."
+    madam_hof "Nuestras chicas siguen hablando de ti, semental. Déjame darte un descuento de 25\%."
 
 # game/places/wanderers/brothel.rpy:53
 translate spanish wanderers_brothel_1522ce89:

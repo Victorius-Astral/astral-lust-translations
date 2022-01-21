@@ -28,7 +28,7 @@ translate vietnamese alice_5_1e7409fe:
 translate vietnamese alice_5_97e3a8ce:
 
     # "{color=#800080}[[Need 5%% Corruption]{/color} Kill human enemies to increase corruption."
-    "{color=#800080}[[Cần 5 %% sự đồi bại]{/color} Giết hoặc hiếp dâm người vô tội hoặc làm những điều sai trái khác... sẽ tăng sự đồi bại (Nhớ rằng nếu điểm này chạm 100% bạn sẽ chết)."
+    "{color=#800080}[[Cần 5\% sự đồi bại]{/color} Giết hoặc hiếp dâm người vô tội hoặc làm những điều sai trái khác... sẽ tăng sự đồi bại (Nhớ rằng nếu điểm này chạm 100\% bạn sẽ chết)."
 
 # game/characters/alice/ev_5.rpy:12
 translate vietnamese alice_5_cc3ee69f:

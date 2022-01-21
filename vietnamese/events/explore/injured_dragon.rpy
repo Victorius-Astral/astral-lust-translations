@@ -4,7 +4,7 @@
 translate vietnamese 8df27b44:
 
     # "When walking down the streets we hear roars filled with rage and pain, when we check it out we see the dragon among corpses of giants. He's clearly weakened, and hurt. We can attack it. It has only 40%% hp. This event is very rare, with one instance in the bag. Only the first instance at 40%%, It will get 50%% the next time if we defeat it, and 60%% the third, as a maximum."
-    "Khi đi trên đường, bạn nghe thấy một tiếng gầm đầy phẫn nộ và đau đớn, khi đến kiểm tra nó, bạn thấy con rồng ở giữa xác chết của những tên khổng lồ. Nó rõ ràng đã bị thương và yếu đi rất nhiều. bạn có thể tấn công nó. Nó chỉ có 40% hp. Sự kiện này rất hiếm. Ở lần đầu tiên lượng máu sẽ là 40 %, nó sẽ nhận được 50 %% trong lần tiếp theo nếu bạn đánh bại nó và tối đa là 60 %% trong lần thứ ba."
+    "Khi đi trên đường, bạn nghe thấy một tiếng gầm đầy phẫn nộ và đau đớn, khi đến kiểm tra nó, bạn thấy con rồng ở giữa xác chết của những tên khổng lồ. Nó rõ ràng đã bị thương và yếu đi rất nhiều. bạn có thể tấn công nó. Nó chỉ có 40\% hp. Sự kiện này rất hiếm. Ở lần đầu tiên lượng máu sẽ là 40\%, nó sẽ nhận được 50\% trong lần tiếp theo nếu bạn đánh bại nó và tối đa là 60\% trong lần thứ ba."
 
 # game/events/explore/injured_dragon.rpy:1
 translate vietnamese 25b7c9f1:
