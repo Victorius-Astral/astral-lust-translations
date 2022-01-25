@@ -942,3 +942,89 @@ translate spanish strings:
     old "Succumb"
     new "Succumb"
 
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/characters/mina/ev_13.rpy:39
+translate spanish mina_13_0be25483:
+
+    # mina "Go to hell, you bastard."
+    mina "Go to hell, you bastard."
+
+# game/characters/mina/ev_13.rpy:40
+translate spanish mina_13_2db26566:
+
+    # me "Alright, getting back to the topic, is there nothing specific?"
+    me "Alright, getting back to the topic, is there nothing specific?"
+
+# game/characters/mina/ev_13.rpy:56
+translate spanish mina_13_faffc2fb:
+
+    # mina "Don't propose to me again, that was aaawwwkward!!"
+    mina "Don't propose to me again, that was aaawwwkward!!"
+
+# game/characters/mina/ev_13.rpy:65
+translate spanish mina_13_0a4e6eef:
+
+    # mina "Well, of course, I like her not only because she's the only option, look at her, she's so sexy."
+    mina "Well, of course, I like her not only because she's the only option, look at her, she's so sexy."
+
+# game/characters/mina/ev_13.rpy:67
+translate spanish mina_13_5980b8c4:
+
+    # mina "She's so open minded and nice."
+    mina "She's so open minded and nice."
+
+# game/characters/mina/ev_13.rpy:101
+translate spanish mina_13_fe9f1933:
+
+    # th "So, she is horny! And definitely bi."
+    th "So, she is horny! And definitely bi."
+
+# game/characters/mina/ev_13.rpy:102
+translate spanish mina_13_9b78ad75:
+
+    # me "So, about your orientation.."
+    me "So, about your orientation.."
+
+# game/characters/mina/ev_13.rpy:109
+translate spanish mina_13_76a29fbe:
+
+    # mina "What? I'm.. As you've said, I'm dripping wet right now, and you can help me with that. Friends gotta look out for each other, remember?"
+    mina "What? I'm.. As you've said, I'm dripping wet right now, and you can help me with that. Friends gotta look out for each other, remember?"
+
+# game/characters/mina/ev_13.rpy:113
+translate spanish mina_13_0dc505ed:
+
+    # mina "If you don't want to, then I won't force you."
+    mina "If you don't want to, then I won't force you."
+
+# game/characters/mina/ev_13.rpy:122
+translate spanish mina_13_1e4150a0:
+
+    # "You two stayed in an awkward silence for half an hour."
+    "You two stayed in an awkward silence for half an hour."
+
+# game/characters/mina/ev_13.rpy:144
+translate spanish mina_13_94a72ce0:
+
+    # mina "Bitch, please, don't call me that! I'm too young for being called ma'am!"
+    mina "Bitch, please, don't call me that! I'm too young for being called ma'am!"
+
+# game/characters/mina/ev_13.rpy:161
+translate spanish mina_13_591bb31b:
+
+    # mina "But, really pull these down already. You won't believe how horny I'm right now."
+    mina "But, really pull these down already. You won't believe how horny I'm right now."
+
+# game/characters/mina/ev_13.rpy:276
+translate spanish mina_13_d89cf294:
+
+    # mina "It was amazing, by the way."
+    mina "It was amazing, by the way."
+
+# game/characters/mina/ev_13.rpy:303
+translate spanish mina_13_17799ec9:
+
+    # th "Who am I lying to? Of course, I do.."
+    th "Who am I lying to? Of course, I do.."
+

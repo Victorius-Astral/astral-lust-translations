@@ -101,3 +101,11 @@ translate spanish death_2_b8f501e3:
 
     # "You get up from your bed after a while."
     "Te levantas de la cama después de un rato."
+# TODO: Translation updated at 2022-01-25 22:41
+
+translate spanish strings:
+
+    # game/events/death.rpy:31
+    old "You died"
+    new "You died"
+

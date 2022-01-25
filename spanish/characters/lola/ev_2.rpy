@@ -216,3 +216,35 @@ translate spanish lola_2_afb436ab:
     # th "It was just a while.."
     th "It was just a while.."
 
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/characters/lola/ev_2.rpy:21
+translate spanish lola_2_b9469040:
+
+    # lola "In the end, I shouldn't have told you this.."
+    lola "In the end, I shouldn't have told you this.."
+
+# game/characters/lola/ev_2.rpy:23
+translate spanish lola_2_2808256e:
+
+    # me "So, you want to tell me I took your virginity?"
+    me "So, you want to tell me I took your virginity?"
+
+# game/characters/lola/ev_2.rpy:29
+translate spanish lola_2_7c4fdb92:
+
+    # me "No, they do not..."
+    me "No, they do not..."
+
+# game/characters/lola/ev_2.rpy:48
+translate spanish lola_2_5e6d4ce1:
+
+    # lola "So, what did you want, anyway? When are we having sex again?"
+    lola "So, what did you want, anyway? When are we having sex again?"
+
+# game/characters/lola/ev_2.rpy:70
+translate spanish lola_2_0e77cc26:
+
+    # th "I don't have the heart to reject her, do I?"
+    th "I don't have the heart to reject her, do I?"
+

@@ -218,3 +218,11 @@ translate spanish strings:
     old "If you defeat ghouls, you'll get the rose, [grace] likes them."
     new "If you defeat ghouls, you'll get the rose, [grace] likes them."
 
+# TODO: Translation updated at 2022-01-25 22:41
+
+translate spanish strings:
+
+    # game/mods/modes/walkthrough/stories/explore.rpy:3
+    old "Look around for supplies – {trust}50\\% loot 2-6 basic material / 20\\% ice creams{/trust} (if you don’t have them in inventory already) or {trust}loot 1-5 basic material{/trust}"
+    new "Look around for supplies – {trust}50\\% loot 2-6 basic material / 20\\% ice creams{/trust} (if you don’t have them in inventory already) or {trust}loot 1-5 basic material{/trust}"
+

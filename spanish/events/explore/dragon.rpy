@@ -101,3 +101,11 @@ translate spanish strings:
     # game/events/explore/dragon.rpy:15
     old "Shoot at the sky"
     new "Dispara al cielo"
+# TODO: Translation updated at 2022-01-25 22:41
+
+translate spanish strings:
+
+    # game/events/explore/dragon.rpy:22
+    old "Shoot at the sky {#visible}"
+    new "Shoot at the sky {#visible}"
+

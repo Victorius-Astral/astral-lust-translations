@@ -200,3 +200,31 @@ translate spanish strings:
     # game/events/dreams/deal_with_the_devil.rpy:97
     old "I won't take your offer"
     new "No tomaré tu oferta"
+# TODO: Translation updated at 2022-01-25 22:41
+
+translate spanish strings:
+
+    # game/events/dreams/deal_with_the_devil.rpy:36
+    old "Make me lucky [[Lose 40 random attribute points. Gain +2 luck, max 5 purchases] {#visible}"
+    new "Make me lucky [[Lose 40 random attribute points. Gain +2 luck, max 5 purchases] {#visible}"
+
+    # game/events/dreams/deal_with_the_devil.rpy:36
+    old "I want three powerful abilities [[Lose 20 random attribute points. Choose a card from three high rarity choices.]"
+    new "I want three powerful abilities [[Lose 20 random attribute points. Choose a card from three high rarity choices.]"
+
+    # game/events/dreams/deal_with_the_devil.rpy:36
+    old "I want to be a master of my own destiny {#visible}"
+    new "I want to be a master of my own destiny {#visible}"
+
+    # game/events/dreams/deal_with_the_devil.rpy:74
+    old "Sanity -50%\nCorruption -5%"
+    new "Sanity -50%\nCorruption -5%"
+
+    # game/events/dreams/deal_with_the_devil.rpy:81
+    old "Sanity +100%\nCorruption +5%"
+    new "Sanity +100%\nCorruption +5%"
+
+    # game/events/dreams/deal_with_the_devil.rpy:95
+    old "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
+    new "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
+

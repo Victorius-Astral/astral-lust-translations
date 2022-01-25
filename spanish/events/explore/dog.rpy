@@ -407,3 +407,11 @@ translate spanish strings:
     # game/events/explore/dog.rpy:99
     old "Get it!"
     new "¡Consíguelo!"
+# TODO: Translation updated at 2022-01-25 22:41
+
+translate spanish strings:
+
+    # game/events/explore/dog.rpy:164
+    old "How should I call it?"
+    new "How should I call it?"
+

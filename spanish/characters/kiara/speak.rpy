@@ -442,3 +442,23 @@ translate spanish strings:
     old "How does this teleportation work?"
     new "How does this teleportation work?"
 
+# TODO: Translation updated at 2022-01-25 22:41
+
+translate spanish strings:
+
+    # game/characters/kiara/speak.rpy:16
+    old "Can you help me somehow? {gold}(Story){/gold}"
+    new "Can you help me somehow? {gold}(Story){/gold}"
+
+    # game/characters/kiara/speak.rpy:16
+    old "Let's talk about your offer {gold}(Story){/gold}"
+    new "Let's talk about your offer {gold}(Story){/gold}"
+
+    # game/characters/kiara/speak.rpy:16
+    old "I've got a question about you {gold}(Story){/gold}"
+    new "I've got a question about you {gold}(Story){/gold}"
+
+    # game/characters/kiara/speak.rpy:16
+    old "Do you have anything for me to do? {loot}(Materials+){/loot}"
+    new "Do you have anything for me to do? {loot}(Materials+){/loot}"
+

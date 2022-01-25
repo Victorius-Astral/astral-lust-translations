@@ -122,3 +122,21 @@ translate spanish strings:
     old "Reversed Pilediver"
     new "Reversed Pilediver"
 
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/characters/lola/speak.rpy:45
+translate spanish speak_lola_menu1_b358e020:
+
+    # lola "You're lost in your thoughts again."
+    lola "You're lost in your thoughts again."
+
+translate spanish strings:
+
+    # game/characters/lola/speak.rpy:7
+    old "Why do you like sex so much? {gold}(Story){/gold}"
+    new "Why do you like sex so much? {gold}(Story){/gold}"
+
+    # game/characters/lola/speak.rpy:7
+    old "Let's have fun {lust}(Lust+){/lust}"
+    new "Let's have fun {lust}(Lust+){/lust}"
+

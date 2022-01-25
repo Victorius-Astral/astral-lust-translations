@@ -130,3 +130,11 @@ translate spanish strings:
     old "Touch her boobs - {bad}trust -3 or -1{/bad}, if affection below 5."
     new "Touch her boobs - {bad}trust -3 or -1{/bad}, if affection below 5."
 
+# TODO: Translation updated at 2022-01-25 22:41
+
+translate spanish strings:
+
+    # game/mods/modes/walkthrough/stories/grace.rpy:3
+    old "Reassuring her, saying her mom will be back will increase her trust by 1. Since 0.1.9 naming teddy bear Victorius grants increased vault space."
+    new "Reassuring her, saying her mom will be back will increase her trust by 1. Since 0.1.9 naming teddy bear Victorius grants increased vault space."
+

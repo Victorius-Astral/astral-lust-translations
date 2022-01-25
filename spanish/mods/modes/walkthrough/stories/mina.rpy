@@ -202,3 +202,11 @@ translate spanish strings:
     old "You will lose {bad}trust{/bad} if you don't have her affection above 8, otherwise you'll stay the night there."
     new "You will lose {bad}trust{/bad} if you don't have her affection above 8, otherwise you'll stay the night there."
 
+# TODO: Translation updated at 2022-01-25 22:41
+
+translate spanish strings:
+
+    # game/mods/modes/walkthrough/stories/mina.rpy:3
+    old "The event will play out different depending on your choice in the previous event. You can get a blowjob if you told her you want her back then."
+    new "The event will play out different depending on your choice in the previous event. You can get a blowjob if you told her you want her back then."
+

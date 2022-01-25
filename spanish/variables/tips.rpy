@@ -229,3 +229,91 @@ translate spanish strings:
     # game/variables/tips.rpy:4
     old "I should talk with her, didn't have a chance last time."
     new "Debería hablar con ella, no tuve oportunidad la última vez."
+# TODO: Translation updated at 2022-01-25 22:41
+
+translate spanish strings:
+
+    # game/variables/tips.rpy:4
+    old "I should go out to explore."
+    new "I should go out to explore."
+
+    # game/variables/tips.rpy:4
+    old "Maybe I'll meet her outside."
+    new "Maybe I'll meet her outside."
+
+    # game/variables/tips.rpy:4
+    old "We could go out to explore together again."
+    new "We could go out to explore together again."
+
+    # game/variables/tips.rpy:4
+    old "I bet she would want to talk about something in a few days, I should wait at my room for her."
+    new "I bet she would want to talk about something in a few days, I should wait at my room for her."
+
+    # game/variables/tips.rpy:4
+    old "She probably misses her mom, I should check on her from time to time, maybe she needs me."
+    new "She probably misses her mom, I should check on her from time to time, maybe she needs me."
+
+    # game/variables/tips.rpy:4
+    old "I wonder if this wench will come to my bed again."
+    new "I wonder if this wench will come to my bed again."
+
+    # game/variables/tips.rpy:4
+    old "I want to have some fun with her. Playroom would be useful."
+    new "I want to have some fun with her. Playroom would be useful."
+
+    # game/variables/tips.rpy:4
+    old "Who knows what awaits me outside? I should built next hotel floor first."
+    new "Who knows what awaits me outside? I should built next hotel floor first."
+
+    # game/variables/tips.rpy:4
+    old "I hope she stays in the hotel and recuperates. Although I have a feeling I'll meet her outside."
+    new "I hope she stays in the hotel and recuperates. Although I have a feeling I'll meet her outside."
+
+    # game/variables/tips.rpy:4
+    old "I should check on her after a few days."
+    new "I should check on her after a few days."
+
+    # game/variables/tips.rpy:4
+    old "Maybe a month would be enough for her leg to get better. Then, I might be able to find her bike."
+    new "Maybe a month would be enough for her leg to get better. Then, I might be able to find her bike."
+
+    # game/variables/tips.rpy:4
+    old "I believe her leg would get better soon. She will let me know I guess."
+    new "I believe her leg would get better soon. She will let me know I guess."
+
+    # game/variables/tips.rpy:4
+    old "She left for home."
+    new "She left for home."
+
+    # game/variables/tips.rpy:4
+    old "I hope her trip with Lexi went well."
+    new "I hope her trip with Lexi went well."
+
+    # game/variables/tips.rpy:4
+    old "If I'm lucky, a hidden treasure can turn out to be a new friend."
+    new "If I'm lucky, a hidden treasure can turn out to be a new friend."
+
+    # game/variables/tips.rpy:4
+    old "I should find a way to build a shrine to make her move to the hotel."
+    new "I should find a way to build a shrine to make her move to the hotel."
+
+    # game/variables/tips.rpy:4
+    old "She seems to be sulking lately I should ask her about it. Maybe Alice could help."
+    new "She seems to be sulking lately I should ask her about it. Maybe Alice could help."
+
+    # game/variables/tips.rpy:4
+    old "I wonder if she knows where to find more treasures. Maybe it's the time for a little adventure."
+    new "I wonder if she knows where to find more treasures. Maybe it's the time for a little adventure."
+
+    # game/variables/tips.rpy:4
+    old "I should help her with building the shrine."
+    new "I should help her with building the shrine."
+
+    # game/variables/tips.rpy:4
+    old "Rachel wants me to get magician outfit. Alice could help."
+    new "Rachel wants me to get magician outfit. Alice could help."
+
+    # game/variables/tips.rpy:4
+    old "I should speak with her."
+    new "I should speak with her."
+

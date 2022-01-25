@@ -349,3 +349,35 @@ translate spanish strings:
     # game/events/explore/friendly_wanderers.rpy:66
     old "I changed my mind"
     new "Cambié de opinión"
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/events/explore/friendly_wanderers.rpy:59
+translate spanish exp_friendly_wanderers_7bd5c60a:
+
+    # girl "Y-You're alive?"
+    girl "Y-You're alive?"
+
+# game/events/explore/friendly_wanderers.rpy:60
+translate spanish exp_friendly_wanderers_b32e5b81:
+
+    # wanderer "What?"
+    wanderer "What?"
+
+# game/events/explore/friendly_wanderers.rpy:61
+translate spanish exp_friendly_wanderers_239f2316:
+
+    # girl "N-nothing... {small}I must be imagining things... Was it someone else...?{/small}"
+    girl "N-nothing... {small}I must be imagining things... Was it someone else...?{/small}"
+
+# game/events/explore/friendly_wanderers.rpy:62
+translate spanish exp_friendly_wanderers_b5f39981:
+
+    # wanderer "We're in the middle of business. Focus."
+    wanderer "We're in the middle of business. Focus."
+
+# game/events/explore/friendly_wanderers.rpy:63
+translate spanish exp_friendly_wanderers_dfbca531:
+
+    # th "It was me, but it's better if she doesn't know I can resurrect."
+    th "It was me, but it's better if she doesn't know I can resurrect."
+

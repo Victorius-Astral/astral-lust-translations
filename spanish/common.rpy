@@ -1129,3 +1129,23 @@ translate spanish strings:
     # renpy/common/_errorhandling.rpym:694
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Copia el archivo errors.txt al portapapeles como Markdown for Discord."
+# TODO: Translation updated at 2022-01-25 22:41
+
+translate spanish strings:
+
+    # renpy/common/00accessibility.rpy:180
+    old "High Contrast Text"
+    new "High Contrast Text"
+
+    # renpy/common/00preferences.rpy:487
+    old "renderer menu"
+    new "renderer menu"
+
+    # renpy/common/00preferences.rpy:490
+    old "accessibility menu"
+    new "accessibility menu"
+
+    # renpy/common/00preferences.rpy:493
+    old "high contrast text"
+    new "high contrast text"
+

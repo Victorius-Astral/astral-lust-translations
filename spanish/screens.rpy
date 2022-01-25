@@ -336,3 +336,43 @@ translate spanish strings:
     # game/screens.rpy:610
     old "\n\n{quiet}Legal:\nAstral Lust is the intellectual property of Victorius.\nVictorius can be contacted through Discord (https://discord.gg/rvnBC39USx) or Patreon (https://www.patreon.com/Victorius).\n\n(a) Permission is granted for this material to be shared for non-commercial purposes provided that this statement appears in the reproduced materials.\n(b) You may NOT sell these files or modify these files to sell, either grouped together or separately.\n(c) You may NOT remove or alter the credit of the creator as it is shown here and in the game's files.\n(d) You may redistribute these files (Astral Lust) as Astral Lust for free. Given a credit to the developer (Victorius) is provided.{/quiet}"
     new "\n\n{quiet}Legal:\nAstral Lust is the intellectual property of Victorius.\nVictorius can be contacted through Discord (https://discord.gg/rvnBC39USx) or Patreon (https://www.patreon.com/Victorius).\n\n(a) Permission is granted for this material to be shared for non-commercial purposes provided that this statement appears in the reproduced materials.\n(b) You may NOT sell these files or modify these files to sell, either grouped together or separately.\n(c) You may NOT remove or alter the credit of the creator as it is shown here and in the game's files.\n(d) You may redistribute these files (Astral Lust) as Astral Lust for free. Given a credit to the developer (Victorius) is provided.{/quiet}"
+# TODO: Translation updated at 2022-01-25 22:41
+
+translate spanish strings:
+
+    # game/screens.rpy:324
+    old "Check for Updates"
+    new "Check for Updates"
+
+    # game/screens.rpy:422
+    old "About"
+    new "About"
+
+    # game/screens.rpy:663
+    old "{color=#FF424D}\nSupporters:{/color}"
+    new "{color=#FF424D}\nSupporters:{/color}"
+
+    # game/screens.rpy:665
+    old "{color=#00ffb6}\nEditor: {a=https://kasami-lee.carrd.co/}Kasami Lee{/a}, Strectmar{/color}"
+    new "{color=#00ffb6}\nEditor: {a=https://kasami-lee.carrd.co/}Kasami Lee{/a}, Strectmar{/color}"
+
+    # game/screens.rpy:670
+    old "\nContributed Code: cuckoo4cocoapuffs"
+    new "\nContributed Code: cuckoo4cocoapuffs"
+
+    # game/screens.rpy:672
+    old "\n\nMusic: {a=https://www.bensound.com}www.bensound.com{/a}, {a=https://www.zapsplat.com}www.zapsplat.com{/a}, An Innermost Glow by The Longshore Striders"
+    new "\n\nMusic: {a=https://www.bensound.com}www.bensound.com{/a}, {a=https://www.zapsplat.com}www.zapsplat.com{/a}, An Innermost Glow by The Longshore Striders"
+
+    # game/screens.rpy:674
+    old "\nIcons: {a=https://www.game-icons.net}Lorc, Dealpouite, Guard13007, sbed, Skoll and Faithtoken (some icons merged with other icons) from Game-icons.net{/a} under {a=https://creativecommons.org/licenses/by/3.0/}CC BY 3.0{/a}, {a=https://www.iconpacks.net}iconpacks.net{/a}, {a=https://www.freepik.com}Freepik{/a} from {a=https://www.flaticon.com/}www.flaticon.com{/a}"
+    new "\nIcons: {a=https://www.game-icons.net}Lorc, Dealpouite, Guard13007, sbed, Skoll and Faithtoken (some icons merged with other icons) from Game-icons.net{/a} under {a=https://creativecommons.org/licenses/by/3.0/}CC BY 3.0{/a}, {a=https://www.iconpacks.net}iconpacks.net{/a}, {a=https://www.freepik.com}Freepik{/a} from {a=https://www.flaticon.com/}www.flaticon.com{/a}"
+
+    # game/screens.rpy:675
+    old "\nArt: Niklaus, Victorius {a=https://www.pixabay.com}www.pixabay.com{/a}"
+    new "\nArt: Niklaus, Victorius {a=https://www.pixabay.com}www.pixabay.com{/a}"
+
+    # game/screens.rpy:857
+    old "Mods"
+    new "Mods"
+

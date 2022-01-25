@@ -40,3 +40,11 @@ translate spanish strings:
     # game/places/hotel/f1/cupboard.rpy:4
     old "Get tissue"
     new "Obtener pañuelo"
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/places/hotel/f1/cupboard.rpy:12
+translate spanish room_f1_cupboard_menu1_628ba9fa:
+
+    # me "I shouldn't eat at night."
+    me "I shouldn't eat at night."
+

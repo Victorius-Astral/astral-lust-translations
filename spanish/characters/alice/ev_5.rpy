@@ -436,3 +436,17 @@ translate spanish strings:
     old "Cuddle with her"
     new "Cuddle with her"
 
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/characters/alice/ev_5.rpy:25
+translate spanish alice_5_1_b44a53e7:
+
+    # "As you open the doors you notice moans are coming from the sofa."
+    "As you open the doors you notice moans are coming from the sofa."
+
+# game/characters/alice/ev_5.rpy:143
+translate spanish alice_5_2_5c6f5e7b:
+
+    # alice "Ahhhmm!~"
+    alice "Ahhhmm!~"
+

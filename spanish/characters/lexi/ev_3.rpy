@@ -544,3 +544,17 @@ translate spanish strings:
     old "Where is my kiss?"
     new "Where is my kiss?"
 
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/characters/lexi/ev_3.rpy:146
+translate spanish lexi_3_3_84d91694:
+
+    # me "Alice still hasn't come back. Could something have happened to her? Its pretty late already..."
+    me "Alice still hasn't come back. Could something have happened to her? Its pretty late already..."
+
+# game/characters/lexi/ev_3.rpy:148
+translate spanish lexi_3_3_3b8c4bc3:
+
+    # lexi "No, it's safe here. She's sleeping with Grace today I guess. She does that sometimes."
+    lexi "No, it's safe here. She's sleeping with Grace today I guess. She does that sometimes."
+

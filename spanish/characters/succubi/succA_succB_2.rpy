@@ -1464,3 +1464,35 @@ translate spanish strings:
     old "Slower"
     new "Slower"
 
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/characters/succubi/succA_succB_2.rpy:37
+translate spanish succA_succB_2_4386b3c0:
+
+    # "Soon, two naked, hot succubi with their asses raised wait for you to fuck them."
+    "Soon, two naked, hot succubi with their asses raised wait for you to fuck them."
+
+# game/characters/succubi/succA_succB_2.rpy:225
+translate spanish succA_succB_2_slowB3_664b75cb:
+
+    # me "Ahn! Don't argue, you two."
+    me "Ahn! Don't argue, you two."
+
+# game/characters/succubi/succA_succB_2.rpy:442
+translate spanish succA_succB_2_fastB3_ac9d03aa:
+
+    # "You fuck [succB] with ferocity, making her scream out with every thrust."
+    "You fuck [succB] with ferocity, making her scream out with every thrust."
+
+# game/characters/succubi/succA_succB_2.rpy:738
+translate spanish succA_succB_2_cumA_df70783b:
+
+    # succA "...Was I forgotten?"
+    succA "...Was I forgotten?"
+
+# game/characters/succubi/succA_succB_2.rpy:788
+translate spanish succA_succB_2_cumB_d8ad5789:
+
+    # succA "Why am I even here?"
+    succA "Why am I even here?"
+
