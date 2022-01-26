@@ -108,7 +108,7 @@ translate spanish v2_win_eff0e9a6:
 translate spanish v2_win_0768b7f4:
 
     # me "Was that a moan? You are such a whore.."
-    me "¿Éso fue un gemido? Eres una tremenda puta..."
+    me "¿Eso fue un gemido? Eres una tremenda puta..."
 
 # game/functions/cheats.rpy:119
 translate spanish v2_win_33b99f15:
@@ -205,5 +205,4 @@ translate spanish strings:
 
     # game/functions/cheats.rpy:317
     old "Alice's lust and trust + 10"
-    new "Alice's lust and trust + 10"
-
+    new "La lujuria y la confianza de Alice + 10"

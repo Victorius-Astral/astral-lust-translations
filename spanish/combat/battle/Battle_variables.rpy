@@ -4,35 +4,35 @@ translate spanish strings:
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Unknown"
-    new "Unknown"
+    new "Desaparecido"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Human"
-    new "Human"
+    new "Humano"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Dragon"
-    new "Dragon"
+    new "Dragón"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Spider"
-    new "Spider"
+    new "Araña"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Crab"
-    new "Crab"
+    new "Cangrejo"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Flamingo"
-    new "Flamingo"
+    new "Flamenco"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Manticore"
-    new "Manticore"
+    new "Mantícora"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Werewolf"
-    new "Werewolf"
+    new "Hombre Lobo"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Ghoul"
@@ -40,45 +40,44 @@ translate spanish strings:
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Abomination"
-    new "Abomination"
+    new "Abominación"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Fox Tribe"
-    new "Fox Tribe"
+    new "Tribu Zorro"
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Beast"
-    new "Beast"
+    new "Bestia"
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Monster"
-    new "Monster"
+    new "Monstruo"
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Undead"
-    new "Undead"
+    new "No Muerto"
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Demon"
-    new "Demon"
+    new "Demonio"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "The Abyss"
-    new "The Abyss"
+    new "El Abismo"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Horde"
-    new "Horde"
+    new "Horda"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Cult of the Black"
-    new "Cult of the Black"
+    new "Culto de Negro"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Outlaws"
-    new "Outlaws"
+    new "Forajidos"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Deserters"
-    new "Deserters"
-
+    new "Desertores"

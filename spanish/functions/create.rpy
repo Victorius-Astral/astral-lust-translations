@@ -4,13 +4,12 @@ translate spanish strings:
 
     # game/functions/create.rpy:31
     old "Gun Assembly Station"
-    new "Gun Assembly Station"
+    new "Estación de ensamblaje de armas"
 
     # game/functions/create.rpy:42
     old "Craft"
-    new "Craft"
+    new "Crear"
 
     # game/functions/create.rpy:206
     old "Table level insufficient!"
-    new "Table level insufficient!"
-
+    new "¡Nivel de mesa insuficiente!"

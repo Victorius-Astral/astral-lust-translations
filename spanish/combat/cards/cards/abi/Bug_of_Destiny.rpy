@@ -4,5 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/abi/Bug_of_Destiny.rpy:6
     old "Bug of Destiny"
-    new "Bug of Destiny"
-
+    new "Error del Destino"

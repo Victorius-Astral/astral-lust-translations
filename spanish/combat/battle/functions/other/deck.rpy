@@ -4,5 +4,4 @@ translate spanish strings:
 
     # game/combat/battle/functions/other/deck.rpy:7
     old "{} was lost!"
-    new "{} was lost!"
-
+    new "¡{} fue perdido!"

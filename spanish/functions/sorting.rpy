@@ -4,21 +4,20 @@ translate spanish strings:
 
     # game/functions/sorting.rpy:110
     old "Sort by: "
-    new "Sort by: "
+    new "Ordenar por: "
 
     # game/functions/sorting.rpy:116
     old "Name"
-    new "Name"
+    new "Nombre"
 
     # game/functions/sorting.rpy:131
     old "Rarity"
-    new "Rarity"
+    new "Rareza"
 
     # game/functions/sorting.rpy:148
     old "Cost"
-    new "Cost"
+    new "Costo"
 
     # game/functions/sorting.rpy:163
     old "Type"
-    new "Type"
-
+    new "Tipo"

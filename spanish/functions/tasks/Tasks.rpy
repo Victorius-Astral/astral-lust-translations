@@ -4,33 +4,32 @@ translate spanish strings:
 
     # game/functions/tasks/Tasks.rpy:109
     old "Task"
-    new "Task"
+    new "Tarea"
 
     # game/functions/tasks/Tasks.rpy:140
     old "{} week"
-    new "{} week"
+    new "{} semana"
 
     # game/functions/tasks/Tasks.rpy:143
     old "{} weeks"
-    new "{} weeks"
+    new "{} semanas"
 
     # game/functions/tasks/Tasks.rpy:150
     old "{} day"
-    new "{} day"
+    new "{} día"
 
     # game/functions/tasks/Tasks.rpy:153
     old "{} days"
-    new "{} days"
+    new "{} días"
 
     # game/functions/tasks/Tasks.rpy:158
     old "{} period"
-    new "{} period"
+    new "{} periodo"
 
     # game/functions/tasks/Tasks.rpy:161
     old "{} periods"
-    new "{} periods"
+    new "{} periodos"
 
     # game/functions/tasks/Tasks.rpy:165
     old "Completed"
-    new "Completed"
-
+    new "Completado"

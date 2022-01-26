@@ -4,21 +4,20 @@ translate spanish strings:
 
     # game/functions/buffs/list.rpy:1
     old "Well Fed"
-    new "Well Fed"
+    new "Alimentado"
 
     # game/functions/buffs/list.rpy:1
     old "Gain {} regeneration and {} strength."
-    new "Gain {} regeneration and {} strength."
+    new "Gana {} regeneración and {} fuerza."
 
     # game/functions/buffs/list.rpy:1
     old "Reinforced Armor"
-    new "Reinforced Armor"
+    new "Armadura Reforzada"
 
     # game/functions/buffs/list.rpy:1
     old "Gain {} armor."
-    new "Gain {} armor."
+    new "Gain {} armadura."
 
     # game/functions/buffs/list.rpy:28
     old "Battle start"
-    new "Battle start"
-
+    new "Inicio de batalla"
