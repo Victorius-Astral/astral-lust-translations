@@ -444,3 +444,11 @@ translate spanish strings:
     old "Ask if she is okay"
     new "Ask if she is okay"
 
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/characters/lexi/ev_7.rpy:77
+translate spanish lexi_7_3_904e899a:
+
+    # "You have managed to defeat the monster."
+    "You have managed to defeat the monster."
+

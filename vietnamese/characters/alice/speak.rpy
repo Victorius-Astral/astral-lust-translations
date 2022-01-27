@@ -1410,7 +1410,7 @@ translate vietnamese strings:
 
     # game/characters/alice/speak.rpy:317
     old "Gym"
-    new "Gym"
+    new "Phòng tập"
 
     # game/characters/alice/speak.rpy:429
     old "Naked"

@@ -56,3 +56,11 @@ translate spanish strings:
     # game/places/hotel/lexi/laptop.rpy:30
     old "Try again"
     new "Inténtalo de nuevo"
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/places/hotel/lexi/laptop.rpy:29
+translate spanish room_lexi_laptop_insert_f80bd77c:
+
+    # victorius "{gold}Nice try! You can try this in another game.{/gold}"
+    victorius "{gold}Nice try! You can try this in another game.{/gold}"
+

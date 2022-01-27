@@ -34,7 +34,7 @@ translate vietnamese lil_fox_hj_1_slow_ba22c891:
 translate vietnamese lil_fox_hj_1_slow_19d6a054:
 
     # lil_fox "Slow~ly first, but it'll get better."
-    lil_fox "Đầu tiên là từ~từ, nhưng sẽ tốt hơn."
+    lil_fox "Đầu tiên là từ~từ đã, nhưng nó sẽ tốt hơn đấy."
 
 # game/characters/little fox/hj_1.rpy:107
 translate vietnamese lil_fox_hj_1_slow_a76d03f9:

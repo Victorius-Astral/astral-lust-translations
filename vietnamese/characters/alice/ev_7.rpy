@@ -612,7 +612,7 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_7.rpy:116
     old "Kiss her"
-    new "Hôn cô ấy"
+    new "Hôn"
 
     # game/characters/alice/ev_7.rpy:116
     old "Not for free"

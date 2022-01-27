@@ -5,3 +5,11 @@ translate spanish strings:
     # game/screens/replay/menu.rpy:69
     old "--- Locked ---"
     new "--- Bloqueado ---"
+# TODO: Translation updated at 2022-01-25 22:41
+
+translate spanish strings:
+
+    # game/screens/replay/menu.rpy:56
+    old "No image"
+    new "No image"
+

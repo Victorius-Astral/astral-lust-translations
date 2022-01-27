@@ -23,3 +23,17 @@ translate spanish strings:
     # game/places/wanderers/exit.rpy:8
     old "Jade Hotel"
     new "Hotel Jade"
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/places/wanderers/exit.rpy:31
+translate spanish wanderers_exit_hotel_df3b8a27:
+
+    # "It's too late for that."
+    "It's too late for that."
+
+# game/places/wanderers/exit.rpy:40
+translate spanish wanderers_exit_hotel_351ac535:
+
+    # "You travel carefully through the fog, slowly moving towards the hotel."
+    "You travel carefully through the fog, slowly moving towards the hotel."
+

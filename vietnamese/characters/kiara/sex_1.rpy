@@ -112,7 +112,7 @@ translate vietnamese kiara_sex_1_sex1_17ad2901:
 translate vietnamese kiara_sex_1_sex1_7372a713:
 
     # kiara "Yes!! I'm your bitch so fuck me! Fuck me!"
-    kiara "Đúng vậy!! Tôi là con đĩ của anh nên đụ tôi đi! Đụ em đi!"
+    kiara "Đúng vậy!! Tôi là con đĩ của anh nên đụ tôi đi! Đụ tôi đi!"
 
 # game/characters/kiara/sex_1.rpy:62
 translate vietnamese kiara_sex_1_sex1_91a733d1:
@@ -142,13 +142,13 @@ translate vietnamese kiara_sex_1_sex2_6f102118:
 translate vietnamese kiara_sex_1_sex2_be39421d:
 
     # kiara "Mmmmnn~ Please fill me with your seed! Make it drip from my pussy!"
-    kiara "Mmmmnn~ Hãy lấp đầy em với hạt giống của anh! Làm cho nó nhỏ giọt từ âm hộ của em điii!"
+    kiara "Mmmmnn~ Hãy lấp đầy tôi với hạt giống của anh! Làm cho nó chảy ra từ âm hộ của tôi điii!"
 
 # game/characters/kiara/sex_1.rpy:85
 translate vietnamese kiara_sex_1_sex2_61c4033d:
 
     # "Her begging takes you over the edge!"
-    "Sự cầu xin của cô ấy đưa bạn đến cực hạn!"
+    "Sự cầu xin của cô ấy khiến bạn đến cực khoái!"
 
 # game/characters/kiara/sex_1.rpy:87
 translate vietnamese kiara_sex_1_sex2_2f3d23c6:

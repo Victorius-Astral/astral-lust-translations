@@ -37,3 +37,23 @@ translate spanish strings:
     # game/screens/utility/keymap.rpy:38
     old "Opens character relations menu."
     new "Abrir character relations menu."
+# TODO: Translation updated at 2022-01-25 22:41
+
+translate spanish strings:
+
+    # game/screens/utility/keymap.rpy:42
+    old "End turn in combat."
+    new "End turn in combat."
+
+    # game/screens/utility/keymap.rpy:46
+    old "Open/Close map."
+    new "Open/Close map."
+
+    # game/screens/utility/keymap.rpy:50
+    old "Toggle interaction menu."
+    new "Toggle interaction menu."
+
+    # game/screens/utility/keymap.rpy:54
+    old "Toggle task menu."
+    new "Toggle task menu."
+

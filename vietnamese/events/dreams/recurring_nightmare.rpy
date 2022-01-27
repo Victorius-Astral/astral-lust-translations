@@ -10,7 +10,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_97b5882d:
 translate vietnamese d_Recurring_Nightmare_1_part2_fde24efd:
 
     # girl "When I got the first one, I was literally seconds away from stepping onto the plane when a call from “UNKNOWN” blared from my cell phone."
-    girl "Khi tôi nhận được cuộc đầu tiên, tôi chỉ còn vài giây nữa là bước lên máy bay khi một cuộc gọi từ KHÔNG XÁC ĐỊNH vang lên từ điện thoại di động của tôi."
+    girl "Khi tôi nhận được cuộc đầu tiên, tôi chỉ còn vài giây nữa là bước lên máy bay khi một cuộc gọi từ số KHÔNG XÁC ĐỊNH vang lên từ điện thoại của tôi."
 
 # game/events/dreams/recurring_nightmare.rpy:62
 translate vietnamese d_Recurring_Nightmare_1_part2_fb5f18ff:
@@ -40,19 +40,19 @@ translate vietnamese d_Recurring_Nightmare_1_part2_73a24cd5:
 translate vietnamese d_Recurring_Nightmare_1_part2_1239fc0d:
 
     # girl "“Do not get on the plane.” A woman’s voice, garbled and strange, as if her vocal chords had been shredded, and she was trying desperately to choke out speech."
-    girl "Đừng có lên máy bay. Giọng nói của một người phụ nữ, bị cắt xén và lạ lùng, như thể hợp âm của cô ấy đã bị cắt nhỏ và cô ấy đang cố gắng tuyệt vọng để nghẹn lời."
+    girl "Đừng có lên máy bay. Giọng nói của một người phụ nữ, như bị cắt xén và khá kỳ lạ, như thể hợp âm của cô ấy đã bị cắt nhỏ và cô ấy đang cố gắng tuyệt vọng để nghẹn ngào nói lên vậy."
 
 # game/events/dreams/recurring_nightmare.rpy:72
 translate vietnamese d_Recurring_Nightmare_1_part2_54de4487:
 
     # girl "Despite the unnerving, fractured quality of her voice, her tone was insistent and eerily calm. Then the call ended."
-    girl "Mặc dù chất giọng khó nghe, đứt quãng, nhưng giọng điệu của cô ấy vẫn khăng khăng và điềm tĩnh lạ thường. Sau đó cuộc gọi kết thúc."
+    girl "Mặc dù chất giọng khó nghe, đứt quãng, nhưng giọng điệu của cô ấy rất khăng khăng và điềm tĩnh lạ thường. Sau đó cuộc gọi kết thúc."
 
 # game/events/dreams/recurring_nightmare.rpy:74
 translate vietnamese d_Recurring_Nightmare_1_part2_d698489f:
 
     # girl "I froze. I had always had a slight phobia of air travel, and something about this call just… there’s no way I was about to get on a seven hour flight now."
-    girl "Tôi đóng băng. Tôi đã luôn có một chút ám ảnh về việc đi lại bằng đường hàng không, và điều gì đó về cuộc gọi này chỉ là... không đời nào tôi sẽ lên một cái chuyến bay dài 7 tiếng ngay bây giờ."
+    girl "Tôi đông cứng lại. Tôi đã luôn có một chút ám ảnh về việc đi lại bằng đường hàng không, và điều gì đó về cuộc gọi này chỉ là... không đời nào tôi sẽ lên một cái chuyến bay dài 7 tiếng này đâu."
 
 # game/events/dreams/recurring_nightmare.rpy:76
 translate vietnamese d_Recurring_Nightmare_1_part2_421b7851:
@@ -76,7 +76,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_bc7f4c61:
 translate vietnamese d_Recurring_Nightmare_1_part2_ab2ced9c:
 
     # girl "I tried to trace the call. So did the police. But there was nothing to trace."
-    girl "Tôi đã cố gắng lần theo cuộc gọi. Cảnh sát cũng vậy. Nhưng không có gì để lần theo."
+    girl "Tôi đã cố gắng lần theo cuộc gọi. Cảnh sát cũng vậy. Nhưng không có gì để lần theo cả."
 
 # game/events/dreams/recurring_nightmare.rpy:84
 translate vietnamese d_Recurring_Nightmare_1_part2_bd51ca37:
@@ -88,13 +88,13 @@ translate vietnamese d_Recurring_Nightmare_1_part2_bd51ca37:
 translate vietnamese d_Recurring_Nightmare_1_part2_37a98374:
 
     # girl "They analyzed phone records, incoming and outgoing communication to my phone… nothing."
-    girl "Họ phân tích hồ sơ điện thoại, cuộc gọi đến và đi của điện thoại tôi ... không có gì."
+    girl "Họ phân tích hồ sơ điện thoại, cuộc gọi đến và đi của điện thoại tôi… nhưng không có gì."
 
 # game/events/dreams/recurring_nightmare.rpy:88
 translate vietnamese d_Recurring_Nightmare_1_part2_f12f50a0:
 
     # girl "I wasn’t making it up. I couldn’t have been."
-    girl "Tôi đã không bịa ra. Tôi không thể."
+    girl "Tôi không bịa ra đâu. Tôi không thể."
 
 # game/events/dreams/recurring_nightmare.rpy:90
 translate vietnamese d_Recurring_Nightmare_1_part2_b62b5aff:
@@ -106,7 +106,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_b62b5aff:
 translate vietnamese d_Recurring_Nightmare_1_part2_1877f646:
 
     # girl "“Do not go on that blind date tonight.”"
-    girl "“Đừng đi đến cuộc hẹn hò mù tối nay.”"
+    girl "“Đừng đi đến buổi hẹn hò mù tối nay.”"
 
 # game/events/dreams/recurring_nightmare.rpy:94
 translate vietnamese d_Recurring_Nightmare_1_part2_8c176096:
@@ -118,7 +118,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_8c176096:
 translate vietnamese d_Recurring_Nightmare_1_part2_d10f4704:
 
     # girl "Found them in a shallow grave about 250 feet from the diner he offered to take me to."
-    girl "Họ được Tìm trong một ngôi mộ nông cách quán ăn khoảng 250 feet mà anh a đã đề nghị đưa tôi đến."
+    girl "Họ được Tìm trong một ngôi mộ nông cách quán ăn khoảng 250 feet mà anh ta từng ngỏ ý muốn đưa tôi đến."
 
 # game/events/dreams/recurring_nightmare.rpy:98
 translate vietnamese d_Recurring_Nightmare_1_part2_e86aaae5:
@@ -130,7 +130,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_e86aaae5:
 translate vietnamese d_Recurring_Nightmare_1_part2_8cbb51df:
 
     # girl "Eighteen-wheeler lost control and plowed into a line of cars. Every driver crushed. Every driver killed. In the stretch of freeway I would have been driving down."
-    girl "Xe ô tô 18 bánh mất lái lao thẳng vào dòng xe ô tô. Mọi người lái xe nát bét. Tất cả các tài xế đều bị giết. Trong đoạn đường cao tốc, tôi đã lái xe xuống."
+    girl "Một chiếc xe 18 bánh mất lái lao thẳng vào dòng xe ô tô. Mọi người lái xe đều bị nghiền nát. Tất cả các tài xế đều bị giết. Trong đoạn đường cao tốc, tôi đã lái xe xuống."
 
 # game/events/dreams/recurring_nightmare.rpy:102
 translate vietnamese d_Recurring_Nightmare_1_part2_90eaa6d9:
@@ -160,7 +160,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_95106561:
 translate vietnamese d_Recurring_Nightmare_1_part2_1e741921:
 
     # girl "If I hadn’t had a job interview I was waiting to hear back from, I’d have never listened to that first call. And that would be it for me."
-    girl "If I hadn’t had a job interview I was waiting to hear back from, I’d have never listened to that first call. And that would be it for me."
+    girl "Nếu tôi chưa có một cuộc phỏng vấn việc làm mà tôi đang chờ đợi để nhận được phản hồi từ họ, tôi sẽ chưa bao giờ nghe cuộc gọi đầu tiên đó. Và đó sẽ là kết thúc của tôi."
 
 # game/events/dreams/recurring_nightmare.rpy:112
 translate vietnamese d_Recurring_Nightmare_1_part2_2496f8d6:
@@ -184,7 +184,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_dd5b80c2:
 translate vietnamese d_Recurring_Nightmare_1_part2_2193857a:
 
     # girl "I had planned it as a girl’s week out with some of my old friends from college, and was looking forward to a week in the tropics in the dead of winter—but part of me could almost sense that the call was coming."
-    girl "Tôi đã lên kế hoạch cho nó là một tuần đi chơi của con gái với một số người bạn cũ của tôi từ thời đại học và mong chờ một tuần ở vùng nhiệt đới vào cuối mùa đông — nhưng một phần trong tôi hầu như có thể cảm nhận được rằng cuộc gọi đang đến."
+    girl "Tôi đã lên kế hoạch cho nó là một tuần đi chơi của các cô gái với một số người bạn cũ của tôi từ thời đại học và mong chờ một tuần ở vùng nhiệt đới vào cuối mùa đông — nhưng một phần trong tôi hầu như có thể cảm nhận được rằng cuộc gọi đang đến."
 
 # game/events/dreams/recurring_nightmare.rpy:120
 translate vietnamese d_Recurring_Nightmare_1_part2_2e6284a5:

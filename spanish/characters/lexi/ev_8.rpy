@@ -1156,3 +1156,11 @@ translate spanish strings:
     old "Give up"
     new "Give up"
 
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/characters/lexi/ev_8.rpy:107
+translate spanish lexi_8_533ea457:
+
+    # me "What an honest apology.."
+    me "What an honest apology.."
+

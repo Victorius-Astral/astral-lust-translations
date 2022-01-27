@@ -330,3 +330,29 @@ translate spanish kiara_3_8dc22e2d:
     # me "Alright then."
     me "Alright then."
 
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/characters/kiara/ev_3.rpy:36
+translate spanish kiara_3_f0c31c52:
+
+    # kiara "Some spells are rather normal, summoning flames or lightning, but some have more complex uses."
+    kiara "Some spells are rather normal, summoning flames or lightning, but some have more complex uses."
+
+# game/characters/kiara/ev_3.rpy:70
+translate spanish kiara_3_35845c0c:
+
+    # kiara "So, about the price.."
+    kiara "So, about the price.."
+
+# game/characters/kiara/ev_3.rpy:90
+translate spanish kiara_3_b1552bc6:
+
+    # me "We've talked about resurrections. Are they like additional lives?"
+    me "We've talked about resurrections. Are they like additional lives?"
+
+# game/characters/kiara/ev_3.rpy:93
+translate spanish kiara_3_a0e98964:
+
+    # kiara "Yes. There are some limitations, though."
+    kiara "Yes. There are some limitations, though."
+

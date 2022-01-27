@@ -46,3 +46,11 @@ translate spanish strings:
     # game/places/hotel/alice/tv.rpy:20
     old "Watch series"
     new "Mirar serie"
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/places/hotel/alice/tv.rpy:55
+translate spanish room_alice_tv_series_4474b87a:
+
+    # th "We used to think that problems like in those series are important. How foolish we were."
+    th "We used to think that problems like in those series are important. How foolish we were."
+

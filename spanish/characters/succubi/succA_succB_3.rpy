@@ -716,3 +716,65 @@ translate spanish strings:
     old "No is no"
     new "No is no"
 
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/characters/succubi/succA_succB_3.rpy:14
+translate spanish succA_succB_3_fe39f067:
+
+    # me "No, I'll fuck no one. You take care of each other instead."
+    me "No, I'll fuck no one. You take care of each other instead."
+
+# game/characters/succubi/succA_succB_3.rpy:18
+translate spanish succA_succB_3_1da778ed:
+
+    # me "No, you are friends, sisters, or something of the sort, so you need to take care of each other."
+    me "No, you are friends, sisters, or something of the sort, so you need to take care of each other."
+
+# game/characters/succubi/succA_succB_3.rpy:60
+translate spanish succA_succB_3_part2_e98ee53e:
+
+    # succA "Don't disappoint me, bitch.."
+    succA "Don't disappoint me, bitch.."
+
+# game/characters/succubi/succA_succB_3.rpy:68
+translate spanish succA_succB_3_part2_cb203021:
+
+    # me ".. Have you heard what I just said?"
+    me ".. Have you heard what I just said?"
+
+# game/characters/succubi/succA_succB_3.rpy:89
+translate spanish succA_succB_3_part2_d466f254:
+
+    # me "Whoah! Where are your clothes?! And what about your wings?!"
+    me "Whoah! Where are your clothes?! And what about your wings?!"
+
+# game/characters/succubi/succA_succB_3.rpy:95
+translate spanish succA_succB_3_part2_4335665c:
+
+    # succB "Ready for the show, [succB_master]?"
+    succB "Ready for the show, [succB_master]?"
+
+# game/characters/succubi/succA_succB_3.rpy:106
+translate spanish succA_succB_3_part2_eb6945a5:
+
+    # "You don't need to remind them anymore as they start to please each other very quickly."
+    "You don't need to remind them anymore as they start to please each other very quickly."
+
+# game/characters/succubi/succA_succB_3.rpy:152
+translate spanish succA_succB_3_part2_39849220:
+
+    # "They both came at the same time as promised."
+    "They both came at the same time as promised."
+
+# game/characters/succubi/succA_succB_3.rpy:212
+translate spanish succA_succB_3_part2_76b6b56e:
+
+    # succA "Yes, [succA_master].. I'm disappointed in you."
+    succA "Yes, [succA_master].. I'm disappointed in you."
+
+translate spanish strings:
+
+    # game/characters/succubi/succA_succB_3.rpy:181
+    old "It better be worth my time.."
+    new "It better be worth my time.."
+

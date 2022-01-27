@@ -82,7 +82,7 @@ translate vietnamese room_player_altar_kiara_02089ca2:
 translate vietnamese room_player_altar_kiara_365931bb:
 
     # me "Open the gates to your kingdom."
-    me "Mở ra cánh cổng đến vương quốc của ngươi."
+    me "Mở ra cánh cổng đến với vương quốc của ngươi."
 
 # game/places/hotel/player/altar.rpy:64
 translate vietnamese room_player_altar_kiara_97991f8f_1:

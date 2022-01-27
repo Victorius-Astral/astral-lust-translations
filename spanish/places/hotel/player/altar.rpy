@@ -101,3 +101,53 @@ translate spanish strings:
     # game/places/hotel/player/altar.rpy:30
     old "Open the gates to your kingdom."
     new "Abre las puertas a tu reino."
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/places/hotel/player/altar.rpy:43
+translate spanish room_player_altar_kiara_da7c91f7:
+
+    # me "What did I want to say?"
+    me "What did I want to say?"
+
+# game/places/hotel/player/altar.rpy:44
+translate spanish room_player_altar_kiara_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/places/hotel/player/altar.rpy:45
+translate spanish room_player_altar_kiara_1228f336:
+
+    # me "Weird..."
+    me "Weird..."
+
+# game/places/hotel/player/altar.rpy:56
+translate spanish room_player_altar_kiara_97991f8f:
+
+    # "There is no response."
+    "There is no response."
+
+# game/places/hotel/player/altar.rpy:57
+translate spanish room_player_altar_kiara_fac33955:
+
+    # me "Perhaps I should wait more. I hope she's alright."
+    me "Perhaps I should wait more. I hope she's alright."
+
+# game/places/hotel/player/altar.rpy:61
+translate spanish room_player_altar_kiara_02089ca2:
+
+    # me "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar."
+    me "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar."
+
+# game/places/hotel/player/altar.rpy:62
+translate spanish room_player_altar_kiara_365931bb:
+
+    # me "Open the gates to your kingdom."
+    me "Open the gates to your kingdom."
+
+# game/places/hotel/player/altar.rpy:64
+translate spanish room_player_altar_kiara_97991f8f_1:
+
+    # "There is no response."
+    "There is no response."
+

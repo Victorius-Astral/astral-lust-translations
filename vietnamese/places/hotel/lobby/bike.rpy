@@ -16,4 +16,4 @@ translate vietnamese room_lobby_bike_f3b7a612:
 translate vietnamese room_lobby_bike_e60a7be4:
 
     # me "Maybe Savenia will take me for a ride after she's better, I really don't get how could it be safe."
-    me "Có lẽ Savenia sẽ đưa tôi đi vài vòng sau khi cô ấy khỏe hơn, tôi thực sự không hiểu làm sao nó có thể an toàn được."
+    me "Có lẽ Savenia sẽ đưa mình đi vài vòng sau khi cô ấy khỏe hơn, mình thực sự không hiểu làm sao nó có thể an toàn được."

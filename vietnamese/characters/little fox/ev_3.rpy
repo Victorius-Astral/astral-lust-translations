@@ -988,19 +988,19 @@ translate vietnamese lil_fox_3_alice_5024f182:
 translate vietnamese lil_fox_3_alice_47c4dba2:
 
     # rachel "Don't worry, if I ever want a second daughter, I'll consider you."
-    rachel "Don't worry, if I ever want a second daughter, I'll consider you."
+    rachel "Đừng lo, nếu tôi muốn có một đứa con gái thứ hai, tôi sẽ cân nhắc đến anh."
 
 # game/characters/little fox/ev_3.rpy:362
 translate vietnamese lil_fox_3_alice_ed52018a:
 
     # me "Oh? Little Fox wouldn't mind?"
-    me "Oh? Little Fox wouldn't mind?"
+    me "Oh? Cáo nhỏ sẽ không phiền chứ?"
 
 # game/characters/little fox/ev_3.rpy:363
 translate vietnamese lil_fox_3_alice_be0f2135:
 
     # rachel "Sisters share everything."
-    rachel "Sisters share everything."
+    rachel "Chị em sẽ chia sẻ mọi thứ."
 
 # game/characters/little fox/ev_3.rpy:364
 translate vietnamese lil_fox_3_alice_3820771a_2:
@@ -1012,43 +1012,43 @@ translate vietnamese lil_fox_3_alice_3820771a_2:
 translate vietnamese lil_fox_3_alice_11b33b34:
 
     # rachel "And of course she would mind. She is a jealous type, she was jealous of my pet. Imagine with another daughter."
-    rachel "And of course she would mind. She is a jealous type, she was jealous of my pet. Imagine with another daughter."
+    rachel "Và tất nhiên em ấy sẽ phiền. Em ấy là kiểu người hay ghen, em ấy đã ghen tị với thú cưng của tôi. Hãy tưởng tượng với một người con gái khác đi."
 
 # game/characters/little fox/ev_3.rpy:366
 translate vietnamese lil_fox_3_alice_01d5f839:
 
     # me "Oh.. So she wouldn't be jealous about me?"
-    me "Oh.. So she wouldn't be jealous about me?"
+    me "Oh.. Vì thế, em ấy sẽ không ghen về tôi?"
 
 # game/characters/little fox/ev_3.rpy:367
 translate vietnamese lil_fox_3_alice_65912e23:
 
     # rachel "Sorry to hurt you, but I really doubt she would mind."
-    rachel "Sorry to hurt you, but I really doubt she would mind."
+    rachel "Xin lỗi vì làm tổn thương anh, nhưng tôi thực sự nghi ngờ em ấy sẽ phiền."
 
 # game/characters/little fox/ev_3.rpy:368
 translate vietnamese lil_fox_3_alice_dfbe5feb:
 
     # me "Well, it would be weird if I was more important to her than you. Even if I'm feeding her."
-    me "Well, it would be weird if I was more important to her than you. Even if I'm feeding her."
+    me "Chà, sẽ thật kỳ lạ nếu tôi quan trọng với em ấy hơn cả cô. Dù cho tôi có cho em ấy ăn."
 
 # game/characters/little fox/ev_3.rpy:374
 translate vietnamese lil_fox_3_alice_c1fe7d83:
 
     # lil_fox "Are you talking about me behind my back?"
-    lil_fox "Are you talking about me behind my back?"
+    lil_fox "Anh đang nói đằng sau sau lưng em sao?"
 
 # game/characters/little fox/ev_3.rpy:375
 translate vietnamese lil_fox_3_alice_33715bb9:
 
     # rachel "Oh, you look good in this."
-    rachel "Oh, you look good in this."
+    rachel "Oh, nhìn em cũng ổn đấy chứ."
 
 # game/characters/little fox/ev_3.rpy:379
 translate vietnamese lil_fox_3_alice_f199b1c4:
 
     # lil_fox "I know, right?"
-    lil_fox "I know, right?"
+    lil_fox "Em biết mà, phải không?"
 
 # game/characters/little fox/ev_3.rpy:380
 translate vietnamese lil_fox_3_alice_a96749f4:
@@ -1060,7 +1060,7 @@ translate vietnamese lil_fox_3_alice_a96749f4:
 translate vietnamese lil_fox_3_alice_930219b3:
 
     # me "Beautiful."
-    me "Beautiful."
+    me "Em đẹp lắm."
 
 # game/characters/little fox/ev_3.rpy:385
 translate vietnamese lil_fox_3_alice_08255693:
@@ -1072,58 +1072,58 @@ translate vietnamese lil_fox_3_alice_08255693:
 translate vietnamese lil_fox_3_alice_27727a8e:
 
     # me "It's good you're happy with your outfit."
-    me "It's good you're happy with your outfit."
+    me "Thật tốt khi em hài lòng với trang phục của mình."
 
 # game/characters/little fox/ev_3.rpy:387
 translate vietnamese lil_fox_3_alice_350316f1:
 
     # th "And alive.."
-    th "And alive.."
+    th "Và còn sống.."
 
 # game/characters/little fox/ev_3.rpy:391
 translate vietnamese lil_fox_3_alice_e1eb5fc2:
 
     # lil_fox "Thank you for bringing Alice. She's really good at this."
-    lil_fox "Thank you for bringing Alice. She's really good at this."
+    lil_fox "Cảm ơn anh đã mang Alice. Chị ấy khá là giỏi trong việc này."
 
 # game/characters/little fox/ev_3.rpy:392
 translate vietnamese lil_fox_3_alice_50ca1cfd:
 
     # me "Yeah, Alice knows what she's doing for sure. Were there any problems?"
-    me "Yeah, Alice knows what she's doing for sure. Were there any problems?"
+    me "Ừ, Alice biết cô ấy đang làm gì mà. Có vấn đề gì không?"
 
 # game/characters/little fox/ev_3.rpy:393
 translate vietnamese lil_fox_3_alice_01670dff:
 
     # lil_fox "Not at all. We get along well."
-    lil_fox "Not at all. We get along well."
+    lil_fox "Không có gì hết. Bọn em rất hợp nhau."
 
 # game/characters/little fox/ev_3.rpy:394
 translate vietnamese lil_fox_3_alice_dbf7be91:
 
     # th "That's really hard to believe."
-    th "That's really hard to believe."
+    th "Khó tin quá."
 
 # game/characters/little fox/ev_3.rpy:398
 translate vietnamese lil_fox_3_alice_97c3dae4:
 
     # lil_fox "Come sis, I'll show you each part of this outfit."
-    lil_fox "Come sis, I'll show you each part of this outfit."
+    lil_fox "Đi nào chị ơi, em sẽ cho chị xem từng phần của bộ trang phục này."
 
 # game/characters/little fox/ev_3.rpy:402
 translate vietnamese lil_fox_3_alice_51a39694:
 
     # rachel "Ahh.. Fine. See you [me]."
-    rachel "Ahh.. Fine. See you [me]."
+    rachel "Ahh.. Được thôi. Hẹn gặp lại [me]."
 
 # game/characters/little fox/ev_3.rpy:403
 translate vietnamese lil_fox_3_alice_ac9fc388:
 
     # lil_fox "Bye, bye, mister!~"
-    lil_fox "Bye, bye, mister!~"
+    lil_fox "Bye, bye, ngài!~"
 
 # game/characters/little fox/ev_3.rpy:404
 translate vietnamese lil_fox_3_alice_4822b6c9:
 
     # me "See you around girls."
-    me "See you around girls."
+    me "Gặp lại sau nha."

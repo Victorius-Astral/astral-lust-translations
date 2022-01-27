@@ -94,3 +94,31 @@ translate spanish strings:
     old "If you enter (you don't know when she's there), you'll get {bad}trust -1{/bad}."
     new "If you enter (you don't know when she's there), you'll get {bad}trust -1{/bad}."
 
+# TODO: Translation updated at 2022-01-25 22:41
+
+translate spanish strings:
+
+    # game/mods/modes/walkthrough/stories/lexi.rpy:3
+    old "You will unlock Lexi outside outfit at the end."
+    new "You will unlock Lexi outside outfit at the end."
+
+    # game/mods/modes/walkthrough/stories/lexi.rpy:3
+    old "It doesn't change much, but choosing 'Go back to sleep' will give you some more dialogue."
+    new "It doesn't change much, but choosing 'Go back to sleep' will give you some more dialogue."
+
+    # game/mods/modes/walkthrough/stories/lexi.rpy:3
+    old "After Lexi tells you she likes you choosing 'I like you too' will increase Lexi's trust."
+    new "After Lexi tells you she likes you choosing 'I like you too' will increase Lexi's trust."
+
+    # game/mods/modes/walkthrough/stories/lexi.rpy:3
+    old "After sex scene, you can tell Lexi to stay the night, it's recommended to do so, it will increase her trust."
+    new "After sex scene, you can tell Lexi to stay the night, it's recommended to do so, it will increase her trust."
+
+    # game/mods/modes/walkthrough/stories/lexi.rpy:3
+    old "One note here. Don't promise anything to her. It will come to bite you back later."
+    new "One note here. Don't promise anything to her. It will come to bite you back later."
+
+    # game/mods/modes/walkthrough/stories/lexi.rpy:3
+    old "If you stay, you'll get {bad}trust -1{/bad}, unless you have at least 11 Affection with Lexi. If you do, you can shower with her, choose 'Let's not waste water'. You can get thighjob scene if you ask her for some fun."
+    new "If you stay, you'll get {bad}trust -1{/bad}, unless you have at least 11 Affection with Lexi. If you do, you can shower with her, choose 'Let's not waste water'. You can get thighjob scene if you ask her for some fun."
+

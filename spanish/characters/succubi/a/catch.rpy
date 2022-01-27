@@ -154,3 +154,15 @@ translate spanish strings:
     old "I've caught a succubus. She says I can become her master with a kiss."
     new "I've caught a succubus. She says I can become her master with a kiss."
 
+# TODO: Translation updated at 2022-01-25 22:41
+
+translate spanish strings:
+
+    # game/characters/succubi/a/catch.rpy:37
+    old "How should she be called?"
+    new "How should she be called?"
+
+    # game/characters/succubi/a/catch.rpy:44
+    old "You've caught a succubus! She is going to live in the dungeon from now on."
+    new "You've caught a succubus! She is going to live in the dungeon from now on."
+

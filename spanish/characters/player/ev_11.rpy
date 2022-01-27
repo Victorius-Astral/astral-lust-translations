@@ -438,3 +438,35 @@ translate spanish main_11_ab92d0c8:
     # kiara "Now, I'll send you back. I need to rest for a while."
     kiara "Now, I'll send you back. I need to rest for a while."
 
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/characters/player/ev_11.rpy:68
+translate spanish main_11_968c1d3d:
+
+    # me "You just said the cosmos is going to end and you want me not to worry?!"
+    me "You just said the cosmos is going to end and you want me not to worry?!"
+
+# game/characters/player/ev_11.rpy:91
+translate spanish main_11_659d0dfa:
+
+    # me "How long?"
+    me "How long?"
+
+# game/characters/player/ev_11.rpy:93
+translate spanish main_11_3b764037:
+
+    # me "... What will happen, exactly?"
+    me "... What will happen, exactly?"
+
+# game/characters/player/ev_11.rpy:120
+translate spanish main_11_fad6d3d3:
+
+    # th "Now, I know what I need to do."
+    th "Now, I know what I need to do."
+
+# game/characters/player/ev_11.rpy:121
+translate spanish main_11_8f38a483:
+
+    # kiara "I can't help you now, I'm currently in an unstable state. If I try to help you now, I'll lose control on the spot."
+    kiara "I can't help you now, I'm currently in an unstable state. If I try to help you now, I'll lose control on the spot."
+

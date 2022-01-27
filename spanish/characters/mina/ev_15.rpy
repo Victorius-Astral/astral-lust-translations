@@ -1688,3 +1688,203 @@ translate spanish strings:
     old "I was drunk"
     new "I was drunk"
 
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/characters/mina/ev_15.rpy:32
+translate spanish mina_15_c3e34bb4:
+
+    # me "You've got drinks?"
+    me "You've got drinks?"
+
+# game/characters/mina/ev_15.rpy:33
+translate spanish mina_15_5ec3f2b4:
+
+    # mina "I do, give me a minute, I'm going to look for it."
+    mina "I do, give me a minute, I'm going to look for it."
+
+# game/characters/mina/ev_15.rpy:37
+translate spanish mina_15_828dd5ac:
+
+    # th "Poor thing. Well, that was unavoidable.."
+    th "Poor thing. Well, that was unavoidable.."
+
+# game/characters/mina/ev_15.rpy:43
+translate spanish mina_15_241b3e19:
+
+    # "You waited for ten minutes already, but she hasn't returned yet."
+    "You waited for ten minutes already, but she hasn't returned yet."
+
+# game/characters/mina/ev_15.rpy:49
+translate spanish mina_15_16a89a1f:
+
+    # "She returns after a while, bottle in hand."
+    "She returns after a while, bottle in hand."
+
+# game/characters/mina/ev_15.rpy:52
+translate spanish mina_15_32779390:
+
+    # mina "Sorry, it took me so long."
+    mina "Sorry, it took me so long."
+
+# game/characters/mina/ev_15.rpy:53
+translate spanish mina_15_4440152a:
+
+    # me "Don't worry."
+    me "Don't worry."
+
+# game/characters/mina/ev_15.rpy:73
+translate spanish mina_15_ad1346b3:
+
+    # mina "I forgot where it was, so it took me a while to figure it out."
+    mina "I forgot where it was, so it took me a while to figure it out."
+
+# game/characters/mina/ev_15.rpy:83
+translate spanish mina_15_part2_20eeb56b:
+
+    # mina "No, I forgot to take them.. Let's just drink directly from the bottle."
+    mina "No, I forgot to take them.. Let's just drink directly from the bottle."
+
+# game/characters/mina/ev_15.rpy:116
+translate spanish mina_15_part2_224285d9:
+
+    # me "Hey, don't be so impatient. You'll get dead drunk in half an hour.."
+    me "Hey, don't be so impatient. You'll get dead drunk in half an hour.."
+
+# game/characters/mina/ev_15.rpy:121
+translate spanish mina_15_part2_539f5b96:
+
+    # me "Let's slow down a bit."
+    me "Let's slow down a bit."
+
+# game/characters/mina/ev_15.rpy:138
+translate spanish mina_15_part2_d640541c:
+
+    # th "Crabs? Am I drunk already? Think, [me].. What do I know about fuckin' crabs.."
+    th "Crabs? Am I drunk already? Think, [me].. What do I know about fuckin' crabs.."
+
+# game/characters/mina/ev_15.rpy:142
+translate spanish mina_15_part2_fe1128e9:
+
+    # mina "Wait? You don't have pubic lice, right? It's not funny at all. I touched your dick!"
+    mina "Wait? You don't have pubic lice, right? It's not funny at all. I touched your dick!"
+
+# game/characters/mina/ev_15.rpy:148
+translate spanish mina_15_part2_b1634c47:
+
+    # mina "That's good. You had me worried for a bit.."
+    mina "That's good. You had me worried for a bit.."
+
+# game/characters/mina/ev_15.rpy:151
+translate spanish mina_15_part2_c30a4fe8:
+
+    # mina "That's some really 'fun' topic. I feel better already, thanks."
+    mina "That's some really 'fun' topic. I feel better already, thanks."
+
+# game/characters/mina/ev_15.rpy:204
+translate spanish mina_15_part2_3c50fea3:
+
+    # th "Hell, what was in this wine? I didn't feel much alcohol in it, but I can barely move.."
+    th "Hell, what was in this wine? I didn't feel much alcohol in it, but I can barely move.."
+
+# game/characters/mina/ev_15.rpy:205
+translate spanish mina_15_part2_f1479bd2:
+
+    # me "Do you have more of this?"
+    me "Do you have more of this?"
+
+# game/characters/mina/ev_15.rpy:235
+translate spanish mina_15_part2_4fb82c4c:
+
+    # me "I know. Don't worry, there is nothing wrong with you."
+    me "I know. Don't worry, there is nothing wrong with you."
+
+# game/characters/mina/ev_15.rpy:252
+translate spanish mina_15_part2_0d5d1aa2:
+
+    # mina "Even {i}you{/i} don't like me.."
+    mina "Even {i}you{/i} don't like me.."
+
+# game/characters/mina/ev_15.rpy:256
+translate spanish mina_15_part2_82f0ea4f:
+
+    # mina "I thought we were friends."
+    mina "I thought we were friends."
+
+# game/characters/mina/ev_15.rpy:258
+translate spanish mina_15_part2_b070406a:
+
+    # me "Hey, I was just joking. You know my weird sense of humor."
+    me "Hey, I was just joking. You know my weird sense of humor."
+
+# game/characters/mina/ev_15.rpy:269
+translate spanish mina_15_part2_b070406a_1:
+
+    # me "Hey, I was just joking. You know my weird sense of humor."
+    me "Hey, I was just joking. You know my weird sense of humor."
+
+# game/characters/mina/ev_15.rpy:285
+translate spanish mina_15_part3_6e98e204:
+
+    # mina "[me], is that-?"
+    mina "[me], is that-?"
+
+# game/characters/mina/ev_15.rpy:327
+translate spanish mina_15_part3_fbf2b9ef:
+
+    # "She doesn't finish and instead kisses you again."
+    "She doesn't finish and instead kisses you again."
+
+# game/characters/mina/ev_15.rpy:345
+translate spanish mina_15_part3_36b5caf3:
+
+    # mina "If you promise that you'll never leave me, I'll be yours."
+    mina "If you promise that you'll never leave me, I'll be yours."
+
+# game/characters/mina/ev_15.rpy:348
+translate spanish mina_15_part3_44ddef70:
+
+    # me "You only feel like this because you're heartbroken and drunk."
+    me "You only feel like this because you're heartbroken and drunk."
+
+# game/characters/mina/ev_15.rpy:350
+translate spanish mina_15_part3_26416f7c:
+
+    # me "No, of course not."
+    me "No, of course not."
+
+# game/characters/mina/ev_15.rpy:354
+translate spanish mina_15_part3_c6a12ecb:
+
+    # me "Of course you do. You're a great girl."
+    me "Of course you do. You're a great girl."
+
+# game/characters/mina/ev_15.rpy:356
+translate spanish mina_15_part3_a2339b36:
+
+    # me "That's not it Mina. You should know how much I want you, but not like this."
+    me "That's not it Mina. You should know how much I want you, but not like this."
+
+# game/characters/mina/ev_15.rpy:389
+translate spanish mina_15_part3_c538d7f9:
+
+    # th "Yeah, I'm a horny bastard.. But at least she's happy now."
+    th "Yeah, I'm a horny bastard.. But at least she's happy now."
+
+# game/characters/mina/ev_15.rpy:495
+translate spanish mina_15_part3_fb975665:
+
+    # th "I hope, I'm more than just a consolation prize. Well, even if I am, I'll just make her change her mind."
+    th "I hope, I'm more than just a consolation prize. Well, even if I am, I'll just make her change her mind."
+
+# game/characters/mina/ev_15.rpy:517
+translate spanish mina_15_part3_eb6adecc:
+
+    # me "What can I say? It was thanks to me."
+    me "What can I say? It was thanks to me."
+
+translate spanish strings:
+
+    # game/characters/mina/ev_15.rpy:451
+    old "[[This choice has major impact on a story! It can't be reversed!]"
+    new "[[This choice has major impact on a story! It can't be reversed!]"
+

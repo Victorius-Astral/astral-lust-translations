@@ -17,3 +17,23 @@ translate spanish exp_generic_win_74538478:
 
     # "You have won the battle. Tired, you find your way back."
     "Has ganado la batalla. Cansado, encuentras el camino de regreso."
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/events/explore/generic_combat.rpy:225
+translate spanish exp_generic_combat_649360a6:
+
+    # "You walk down the foggy road. During your journey, adversary crossed your path."
+    "You walk down the foggy road. During your journey, adversary crossed your path."
+
+# game/events/explore/generic_combat.rpy:226
+translate spanish exp_generic_combat_f2e5fac1:
+
+    # "It's time to battle."
+    "It's time to battle."
+
+# game/events/explore/generic_combat.rpy:248
+translate spanish exp_generic_combat_win_74538478:
+
+    # "You have won the battle. Tired, you find your way back."
+    "You have won the battle. Tired, you find your way back."
+

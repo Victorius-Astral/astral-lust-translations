@@ -41,3 +41,11 @@ translate spanish strings:
     # game/variables/characters/events.rpy:11
     old "Man"
     new "Hombre"
+# TODO: Translation updated at 2022-01-25 22:41
+
+translate spanish strings:
+
+    # game/variables/characters/events.rpy:16
+    old "Something"
+    new "Something"
+

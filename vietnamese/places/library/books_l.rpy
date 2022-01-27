@@ -34,7 +34,7 @@ translate vietnamese room_library_books_l_secrets_0906916e:
 translate vietnamese room_library_books_l_secrets_a37e4be7:
 
     # bbs "Countless temptations weaken our mind, make us submit to them. This is a fatal flaw for those interested in mysticism."
-    bbs "Vô số cám dỗ làm suy yếu tâm trí chúng ta, khiến chúng ta phải phục tùng chúng. Đây là một lỗ hổng chết người đối với những người quan tâm đến chủ nghĩa thần bí."
+    bbs "Vô số cám dỗ làm suy yếu tâm trí chúng ta, khiến chúng ta phải phục tùng chúng. Đây là một lỗ hổng chết người đối với những người quan tâm đến huyền học."
 
 # game/places/library/books_l.rpy:30
 translate vietnamese room_library_books_l_secrets_46a4911d:
@@ -46,7 +46,7 @@ translate vietnamese room_library_books_l_secrets_46a4911d:
 translate vietnamese room_library_books_l_secrets_6bafabcc:
 
     # bbs "None of them ended well.. Curiosity is the greatest crime one can commit against oneself when involved in mysticism."
-    bbs "Không ai trong số chúng có một kết thúc tốt đẹp .. Tò mò là tội ác lớn nhất mà một người có thể phạm phải khi tham gia vào chủ nghĩa thần bí."
+    bbs "Không ai trong số chúng có một kết thúc tốt đẹp .. Tò mò là tội ác lớn nhất mà một người có thể phạm phải khi tham gia vào huyền học."
 
 # game/places/library/books_l.rpy:32
 translate vietnamese room_library_books_l_secrets_f5b7f571:

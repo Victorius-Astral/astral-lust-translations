@@ -334,7 +334,7 @@ translate vietnamese room_lobby_counter_3688fcdf_10:
 translate vietnamese room_lobby_counter_2919f262:
 
     # "Increase capacity to 600 units {small}(+100%% space per tier){/small}, can store 32 cards {small}(+100%% space per tier){/small}."
-    "Tăng lên 600 đơn vị {small}(+100%% diện tích mỗi cấp){/small}, có thể lưu trữ 32 thẻ {small}(+100 %% diện tích mỗi cấp){ small}."
+    "Tăng lên 600 đơn vị {small}(+100%% diện tích mỗi cấp){/small}, có thể lưu trữ 32 thẻ {small}(+100 %% diện tích mỗi cấp){/small}."
 
 # game/places/hotel/lobby/counter.rpy:289
 translate vietnamese room_lobby_counter_d2f6ffb2:

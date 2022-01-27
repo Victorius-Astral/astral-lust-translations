@@ -496,7 +496,7 @@ translate vietnamese lexi_3_3_0c86ac19:
 translate vietnamese lexi_3_3_19f8bdb9:
 
     # "You didn't manage to react as her lips pressed yours. Her soft, warm lips feel like velvet, making you forget everything else."
-    "Bạn không phản ứng kịp khi môi cô ấy áp vào môi bạn. Đôi môi mềm mại, ấm áp của cô ấy như là nhung, khiến bạn quên đi mọi thứ khác."
+    "Bạn không phản ứng kịp khi môi cô ấy áp vào môi bạn. Đôi môi mềm mại, ấm áp của cô ấy mềm mại, khiến bạn quên đi mọi thứ khác."
 
 # game/characters/lexi/ev_3.rpy:169
 translate vietnamese lexi_3_3_11b549d4:

@@ -4,7 +4,7 @@
 translate vietnamese alice_anal_1_4877092e:
 
     # "You enter her. She's incredibly tight, yet you went in without problem."
-    "Bạn đút cô ấy. Cô ấy cực kỳ chặt, nhưng bạn vào mà không có vấn đề gì."
+    "Bạn đút vào cô ấy. Cô ấy cực kỳ chặt, nhưng bạn vẫn vào mà không có vấn đề gì."
 
 # game/characters/alice/anal_1.rpy:17
 translate vietnamese alice_anal_1_df37bd7e:
@@ -22,7 +22,7 @@ translate vietnamese alice_anal_1_ff41d66b:
 translate vietnamese alice_anal_1_007f1501:
 
     # alice "Fuck me~ Fuck me~ I want you soooo much!"
-    alice "Địt em đi~ Địt em đi~ Em muốn Anh nhiều hơn nữa!"
+    alice "Địt em đi~ Địt em đi~ Em muốn nhiều hơn nữa!"
 
 # game/characters/alice/anal_1.rpy:30
 translate vietnamese alice_anal_1_7f7259f6:

@@ -645,3 +645,47 @@ translate spanish strings:
     # game/events/dreams/dekesha.rpy:164
     old "Fuck her, let her know how good dick feels"
     new "Fóllala, hazle saber cómo se siente un buen pene"
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/events/dreams/dekesha.rpy:28
+translate spanish d_Dekesha_by_Darrdorack_2_c54e7519:
+
+    # th "This is.. [dekesha], I hate this stuck up, bitch.."
+    th "This is.. [dekesha], I hate this stuck up, bitch.."
+
+# game/events/dreams/dekesha.rpy:29
+translate spanish d_Dekesha_by_Darrdorack_2_9edafb02:
+
+    # th "She would do everything to make my work hell on Earth. But what is she doing here?"
+    th "She would do everything to make my work hell on Earth. But what is she doing here?"
+
+# game/events/dreams/dekesha.rpy:59
+translate spanish d_Dekesha_by_Darrdorack_2_83babf93:
+
+    # th "She's irritable, even now.."
+    th "She's irritable, even now.."
+
+# game/events/dreams/dekesha.rpy:115
+translate spanish d_Dekesha_by_Darrdorack_2_29b08e81:
+
+    # th "I wish, I could let this whore know her place."
+    th "I wish, I could let this whore know her place."
+
+# game/events/dreams/dekesha.rpy:153
+translate spanish d_Dekesha_by_Darrdorack_2_c6fda5df:
+
+    # dekesha "What the fuck are you doing, asshole?!"
+    dekesha "What the fuck are you doing, asshole?!"
+
+# game/events/dreams/dekesha.rpy:216
+translate spanish d_Dekesha_by_Darrdorack_2_slap_01ce172a:
+
+    # th "Ah.. time to go, I guess this bitch never learns."
+    th "Ah.. time to go, I guess this bitch never learns."
+
+# game/events/dreams/dekesha.rpy:230
+translate spanish d_Dekesha_by_Darrdorack_2_sex_aef18e13:
+
+    # dekesha "What the fuck do you think you're doing, asshole?!"
+    dekesha "What the fuck do you think you're doing, asshole?!"
+

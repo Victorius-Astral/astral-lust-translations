@@ -35,3 +35,109 @@ translate spanish strings:
     # game/places/hotel/player/bed.rpy:4
     old "Dreamwalk"
     new "Viaja entre sueños"
+# TODO: Translation updated at 2022-01-25 22:41
+
+# game/places/hotel/player/bed.rpy:25
+translate spanish room_player_bed_menu1_43080d74:
+
+    # "You are not tired."
+    "You are not tired."
+
+# game/places/hotel/player/bed.rpy:117
+translate spanish room_player_bed_suicide_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/places/hotel/player/bed.rpy:120
+translate spanish room_player_bed_suicide_9575ab13:
+
+    # th "Is this really the way?"
+    th "Is this really the way?"
+
+# game/places/hotel/player/bed.rpy:121
+translate spanish room_player_bed_suicide_5df1801c:
+
+    # th "But this life.. is it worth living?"
+    th "But this life.. is it worth living?"
+
+# game/places/hotel/player/bed.rpy:124
+translate spanish room_player_bed_suicide_c269be12:
+
+    # th "Will anyone miss me? I don't think so.."
+    th "Will anyone miss me? I don't think so.."
+
+# game/places/hotel/player/bed.rpy:125
+translate spanish room_player_bed_suicide_ad2e2887:
+
+    # th "No one cares about me.."
+    th "No one cares about me.."
+
+# game/places/hotel/player/bed.rpy:128
+translate spanish room_player_bed_suicide_31419c04:
+
+    # th "It would be better that way, right?"
+    th "It would be better that way, right?"
+
+# game/places/hotel/player/bed.rpy:131
+translate spanish room_player_bed_suicide_f00629a9:
+
+    # th "That would be the end, true end. I will die, forever.."
+    th "That would be the end, true end. I will die, forever.."
+
+# game/places/hotel/player/bed.rpy:135
+translate spanish room_player_bed_suicide_3820771a_1:
+
+    # me "..."
+    me "..."
+
+# game/places/hotel/player/bed.rpy:138
+translate spanish room_player_bed_suicide_750552df:
+
+    # me "Ah..."
+    me "Ah..."
+
+# game/places/hotel/player/bed.rpy:147
+translate spanish room_player_bed_suicide_3820771a_2:
+
+    # me "..."
+    me "..."
+
+# game/places/hotel/player/bed.rpy:148
+translate spanish room_player_bed_suicide_2c174eb9:
+
+    # th "Maybe there is still something good waiting for me.."
+    th "Maybe there is still something good waiting for me.."
+
+# game/places/hotel/player/bed.rpy:151
+translate spanish room_player_bed_suicide_6626904a:
+
+    # th "Not today."
+    th "Not today."
+
+translate spanish strings:
+
+    # game/places/hotel/player/bed.rpy:5
+    old "Rest {#visible}"
+    new "Rest {#visible}"
+
+    # game/places/hotel/player/bed.rpy:5
+    old "Sleep with.. {#visible}"
+    new "Sleep with.. {#visible}"
+
+    # game/places/hotel/player/bed.rpy:5
+    old "Sleep {#visible}"
+    new "Sleep {#visible}"
+
+    # game/places/hotel/player/bed.rpy:5
+    old "Commit Suicide {cor}[[Corruption / Madness]{/cor}"
+    new "Commit Suicide {cor}[[Corruption / Madness]{/cor}"
+
+    # game/places/hotel/player/bed.rpy:41
+    old "Health + 5, Sanity + 2%"
+    new "Health + 5, Sanity + 2%"
+
+    # game/places/hotel/player/bed.rpy:133
+    old "Pull the trigger"
+    new "Pull the trigger"
+

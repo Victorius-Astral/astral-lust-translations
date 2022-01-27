@@ -100,7 +100,7 @@ translate vietnamese kiara_2_2_ff09ba6b:
 translate vietnamese kiara_2_2_fc073ced:
 
     # kiara "Your resurrection challenges everything I know about mysticism. I simply want to clarify some things."
-    kiara "Sự phục sinh của anh thách thức tất cả những gì tôi biết về chủ nghĩa thần bí. Tôi chỉ muốn làm rõ một số điều."
+    kiara "Sự phục sinh của anh thách thức tất cả những gì tôi biết về huyền học. Tôi chỉ muốn làm rõ một số điều."
 
 # game/characters/kiara/ev_2.rpy:50
 translate vietnamese kiara_2_2_cff809f4:

@@ -424,7 +424,7 @@ translate vietnamese strings:
 
     # renpy/common/00gui.rpy:425
     old "Are you sure you want to overwrite your save?"
-    new "Bạn có chắc chắn muốn ghi đè phần lưu của mình không?"
+    new "Bạn có muốn lưu đè phần lưu này không?"
 
     # renpy/common/00gui.rpy:426
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"

@@ -4,7 +4,7 @@
 translate vietnamese alice_bj2_7ff0ca37:
 
     # "[alice] starts to blow you passionately."
-    "[alice] bắt đầu giảng hòa cho bạn 1 cách say mê."
+    "[alice] Bắt đầu giảng hòa cho bạn 1 cách say mê."
 
 # game/characters/alice/bj_2.rpy:35
 translate vietnamese alice_bj2_1b0f217a:
