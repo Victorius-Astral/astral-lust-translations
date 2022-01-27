@@ -1252,11 +1252,7 @@ translate vietnamese grace_kiss_night_cor_d695fb34:
 translate vietnamese grace_kiss_night_cor_a9250b04:
 
     # me "{mad}This girl.. What an ungrateful brat.{/mad} I only wanted to make her happy."
-<<<<<<< HEAD
-    me "{mad}Con này.. Đúng là một đứa nhóc vô ơn. {/mad} Tao chỉ muốn làm cho em ấy hạnh phúc."
-=======
     me "{mad}Đứa này.. Đúng là một con nhóc vô ơn. {/mad} Tôi chỉ muốn làm cho em ấy hạnh phúc."
->>>>>>> 4e4622b410e00ed1350404437c1113d82815fd92
 
 # game/characters/grace/kiss.rpy:703
 translate vietnamese grace_kiss_night_cor_1d792a22:
@@ -1526,11 +1522,7 @@ translate vietnamese grace_kiss_night_cor2_0f3e19fa:
 translate vietnamese grace_kiss_night_cor2_90d2dd7e:
 
     # me "{mad}I'm perfectly fine as I am now.{/mad} Don't worry."
-<<<<<<< HEAD
-    me "{mad}Bây giờ anh hoàn toàn ổn.{/mad} Đừng lo lắng."
-=======
     me "{mad}Anh hoàn toàn ổn như hiện tại.{/mad} Đừng lo lắng."
->>>>>>> 4e4622b410e00ed1350404437c1113d82815fd92
 
 # game/characters/grace/kiss.rpy:805
 translate vietnamese grace_kiss_night_cor2_4867e9f3:

@@ -22,11 +22,7 @@ translate vietnamese wanderers_brothel_12cf7b69:
 translate vietnamese wanderers_brothel_ce34d8e9:
 
     # madam_hof "It seems I was right about you being a regular. Let's increase your discount to 15% instead."
-<<<<<<< HEAD
-    madam_hof "Có vẻ như tôi đã đúng khi chú em là một người khách quen. Hãy tăng mức giảm giá của chú em lên 15 phần trăm nào."
-=======
     madam_hof "Có vẻ như tôi đã đúng khi chú em là một người thường xuyên. Thay vào đó, hãy tăng giảm giá của chú em lên 15\%."
->>>>>>> 4e4622b410e00ed1350404437c1113d82815fd92
 
 # game/places/wanderers/brothel.rpy:48
 translate vietnamese wanderers_brothel_48ce703f:
@@ -38,11 +34,7 @@ translate vietnamese wanderers_brothel_48ce703f:
 translate vietnamese wanderers_brothel_427075a6:
 
     # madam_hof "Our girls keep talking about you, you're quite a stallion. Let me give you 25% discount."
-<<<<<<< HEAD
-    madam_hof "Các cô gái của tôi tiếp tục nói về chú em, chú em đúng là một con ngựa giống. Hãy để tôi giảm giá cho chú em 25 phần trăm nào."
-=======
     madam_hof "Các cô gái của tôi tiếp tục nói về chú em, chú em đúng là một con ngựa giống. Hãy để tôi giảm giá cho chú em 25\%."
->>>>>>> 4e4622b410e00ed1350404437c1113d82815fd92
 
 # game/places/wanderers/brothel.rpy:53
 translate vietnamese wanderers_brothel_1522ce89:
