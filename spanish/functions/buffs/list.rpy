@@ -16,7 +16,7 @@ translate spanish strings:
 
     # game/functions/buffs/list.rpy:1
     old "Gain {} armor."
-    new "Gain {} armadura."
+    new "Gana {} armadura."
 
     # game/functions/buffs/list.rpy:28
     old "Battle start"

@@ -328,7 +328,7 @@ translate spanish lexi_3_menu_bb025b6a:
 translate spanish lexi_3_menu_db3b6364:
 
     # lexi "It was bliss to live focusing on the future. Being worried about grades, not worrying about living to see tomorrow."
-    lexi "It was bliss to live focusing on the future. Being worried about grades, not worrying about living to see tomorrow."
+    lexi "Era una dicha vivir enfocándose en el futuro. Estar preocupado por las calificaciones, no preocuparse por vivir para ver el mañana."
 
 # game/characters/lexi/ev_3.rpy:113
 translate spanish lexi_3_menu_ba1f1634:

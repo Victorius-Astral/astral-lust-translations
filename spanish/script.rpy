@@ -673,5 +673,4 @@ translate spanish strings:
 
     # game/script.rpy:20
     old "What's your name? ("
-    new "What's your name? ("
-
+    new "¿Cuál es tu nombre? ("

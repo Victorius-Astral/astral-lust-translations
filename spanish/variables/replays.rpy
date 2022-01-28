@@ -28,7 +28,7 @@ translate spanish strings:
 
     # game/variables/replays.rpy:3
     old "Q&A"
-    new "Q&A"
+    new "Preguntas y respuestas"
 
     # game/variables/replays.rpy:3
     old "Bathroom Friend"
@@ -92,11 +92,11 @@ translate spanish strings:
 
     # game/variables/replays.rpy:32
     old "Bed Talk"
-    new "Charla en la cama"
+    new "Charla en la Cama"
 
     # game/variables/replays.rpy:32
     old "Concerned Friend"
-    new "Amido Preocupado"
+    new "Amigo Preocupado"
 
     # game/variables/replays.rpy:32
     old "Sleepover"
@@ -108,7 +108,7 @@ translate spanish strings:
 
     # game/variables/replays.rpy:32
     old "Café Date part 2"
-    new "Café Date part 2"
+    new "Cita en Café parte 2"
 
     # game/variables/replays.rpy:32
     old "What Happened?"
@@ -419,27 +419,27 @@ translate spanish strings:
 
     # game/variables/replays.rpy:30
     old "Talk About Outfits"
-    new "Talk About Outfits"
+    new "Charla Sobre Disfraces"
 
     # game/variables/replays.rpy:30
     old "Night Cuddler part 1"
-    new "Night Cuddler part 1"
+    new "Abrazo Nocturno parte 1"
 
     # game/variables/replays.rpy:30
     old "Night Cuddler part 2"
-    new "Night Cuddler part 2"
+    new "Abrazo Nocturno parte 2"
 
     # game/variables/replays.rpy:30
     old "Horse Ridding Lessons"
-    new "Horse Ridding Lessons"
+    new "Clases de Equitación"
 
     # game/variables/replays.rpy:63
     old "Lonely Mina (Friend)"
-    new "Lonely Mina (Friend)"
+    new "Mina Solitaria (Amiga)"
 
     # game/variables/replays.rpy:63
     old "Lonely Mina (Love)"
-    new "Lonely Mina (Love)"
+    new "Mina Solitaria (Amor)"
 
     # game/variables/replays.rpy:89
     old "Agorafobia"
@@ -447,193 +447,192 @@ translate spanish strings:
 
     # game/variables/replays.rpy:89
     old "Trouble in the Paradise"
-    new "Trouble in the Paradise"
+    new "Problemas en el Paraíso"
 
     # game/variables/replays.rpy:89
     old "Trouble at the Market"
-    new "Trouble at the Market"
+    new "Problema en el Mercado"
 
     # game/variables/replays.rpy:111
     old "Aharon's Call"
-    new "Aharon's Call"
+    new "Llamada de Aharon"
 
     # game/variables/replays.rpy:111
     old "Past Lives part 1"
-    new "Past Lives part 1"
+    new "Vidas Pasadas parte 1"
 
     # game/variables/replays.rpy:130
     old "Playing Home"
-    new "Playing Home"
+    new "Jugando al Hogar"
 
     # game/variables/replays.rpy:130
     old "Play House"
-    new "Play House"
+    new "Jugando a la Casita"
 
     # game/variables/replays.rpy:151
     old "Accident"
-    new "Accident"
+    new "Accidente"
 
     # game/variables/replays.rpy:151
     old "Meeting Girls"
-    new "Meeting Girls"
+    new "Conociendo Chicas"
 
     # game/variables/replays.rpy:151
     old "Spider Problem"
-    new "Spider Problem"
+    new "Problema Arácnido"
 
     # game/variables/replays.rpy:151
     old "Returning Her Bike"
-    new "Returning Her Bike"
+    new "Devolviendo su Moto"
 
     # game/variables/replays.rpy:151
     old "Leaving for Home"
-    new "Leaving for Home"
+    new "Volviendo al Hogar"
 
     # game/variables/replays.rpy:151
     old "What has gotten into her?"
-    new "What has gotten into her?"
+    new "¿Qué le pasa?"
 
     # game/variables/replays.rpy:168
     old "Life with Alice"
-    new "Life with Alice"
+    new "Vida con Alice"
 
     # game/variables/replays.rpy:188
     old "Bandits - Assault"
-    new "Bandits - Assault"
+    new "Bandidos - Asalto"
 
     # game/variables/replays.rpy:188
     old "Treasure Hunt"
-    new "Treasure Hunt"
+    new "Búsqueda del Tesoro"
 
     # game/variables/replays.rpy:188
     old "Midnight Kiss"
-    new "Midnight Kiss"
+    new "Beso de Medianoche"
 
     # game/variables/replays.rpy:188
     old "Damsel in Distress - Soldier"
-    new "Damsel in Distress - Soldier"
+    new "Damisela en Apuros - Soldada"
 
     # game/variables/replays.rpy:188
     old "Damsel in Distress - Bimbo"
-    new "Damsel in Distress - Bimbo"
+    new "Damisela en Apuros - Bimbo"
 
     # game/variables/replays.rpy:188
     old "Damsel in Distress - Brunette"
-    new "Damsel in Distress - Brunette"
+    new "Damisela en Apuros - Morena"
 
     # game/variables/replays.rpy:188
     old "Damsel in Distress - Devotee"
-    new "Damsel in Distress - Devotee"
+    new "Damisela en Apuros - Devota"
 
     # game/variables/replays.rpy:188
     old "Damsel in Distress - Milf"
-    new "Damsel in Distress - Milf"
+    new "Damisela en Apuros - Milf"
 
     # game/variables/replays.rpy:188
     old "Damsel in Distress - Pregnant"
-    new "Damsel in Distress - Pregnant"
+    new "Damisela en Apuros - Embarazada"
 
     # game/variables/replays.rpy:188
     old "Damsel in Distress - Bandit"
-    new "Damsel in Distress - Bandit"
+    new "Damisela en Apuros - Bandido"
 
     # game/variables/replays.rpy:188
     old "Injured Dragon"
-    new "Injured Dragon"
+    new "Dragon Herido"
 
     # game/variables/replays.rpy:188
     old "Chased Trader's Daughter"
-    new "Chased Trader's Daughter"
+    new "Hija del Comerciante Perseguida"
 
     # game/variables/replays.rpy:230
     old "Ending - Author"
-    new "Ending - Author"
+    new "Final - Autor"
 
     # game/variables/replays.rpy:230
     old "Ending - Loss of Control"
-    new "Ending - Loss of Control"
+    new "Final - Pérdida de Control"
 
     # game/variables/replays.rpy:230
     old "Ending - Corrupted"
-    new "Ending - Corrupted"
+    new "Final - Corrompido"
 
     # game/variables/replays.rpy:230
     old "Ending - Assault on Grace"
-    new "Ending - Assault on Grace"
+    new "Final - Asalto a Grace"
 
     # game/variables/replays.rpy:230
     old "Christmas - The Beginning"
-    new "Christmas - The Beginning"
+    new "Navidad - El Comienzo"
 
     # game/variables/replays.rpy:230
     old "Christmas - Deer Gracie"
-    new "Christmas - Deer Gracie"
+    new "Navidad - Rena Gracie"
 
     # game/variables/replays.rpy:230
     old "Christmas - Santa Lexi"
-    new "Christmas - Santa Lexi"
+    new "Navidad - Santa Lexi"
 
     # game/variables/replays.rpy:230
     old "Christmas - Kitty"
-    new "Christmas - Kitty"
+    new "Navidad - Gatita"
 
     # game/variables/replays.rpy:230
     old "Christmas - Alice the Christmas Elf"
-    new "Christmas - Alice the Christmas Elf"
+    new "Navidad - Alice la Duende del Taller"
 
     # game/variables/replays.rpy:230
     old "Christmas - Sober"
-    new "Christmas - Sober"
+    new "Navidad - Sobria"
 
     # game/variables/replays.rpy:230
     old "Christmas - Holy Night"
-    new "Christmas - Holy Night"
+    new "Navidad - Noche de Paz"
 
     # game/variables/replays.rpy:245
     old "Fox Hunt"
-    new "Fox Hunt"
+    new "Caza de Zorros"
 
     # game/variables/replays.rpy:245
     old "Building Shrine part 1"
-    new "Building Shrine part 1"
+    new "Construyendo Santuario parte 1"
 
     # game/variables/replays.rpy:245
     old "Building Shrine part 2"
-    new "Building Shrine part 2"
+    new "Construyendo Santuario parte 2"
 
     # game/variables/replays.rpy:245
     old "Building Shrine part 3"
-    new "Building Shrine part 3"
+    new "Construyendo Santuario parte 3"
 
     # game/variables/replays.rpy:245
     old "Building Shrine part 4"
-    new "Building Shrine part 4"
+    new "Construyendo Santuario parte 4"
 
     # game/variables/replays.rpy:245
     old "Building Shrine part 5"
-    new "Building Shrine part 5"
+    new "Construyendo Santuario parte 5"
 
     # game/variables/replays.rpy:245
     old "Magical Outfit"
-    new "Magical Outfit"
+    new "Atuendo Mágico"
 
     # game/variables/replays.rpy:245
     old "The Arrival"
-    new "The Arrival"
+    new "La Llegada"
 
     # game/variables/replays.rpy:257
     old "Surprising Treasure"
-    new "Surprising Treasure"
+    new "Tesoro Sorprendente"
 
     # game/variables/replays.rpy:257
     old "At the Hotel"
-    new "At the Hotel"
+    new "En el Hotel"
 
     # game/variables/replays.rpy:257
     old "Tight Fit Outfit"
-    new "Tight Fit Outfit"
+    new "Traje Ajustado"
 
     # game/variables/replays.rpy:257
     old "Treasure Finder"
-    new "Treasure Finder"
-
+    new "Buscador de Tesoros"
