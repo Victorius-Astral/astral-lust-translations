@@ -376,3 +376,11 @@ translate spanish strings:
     old "Mods"
     new "Mods"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/screens.rpy:423
+    old "Resume"
+    new "Resume"
+

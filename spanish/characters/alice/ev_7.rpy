@@ -618,3 +618,43 @@ translate spanish strings:
     old "Not for free"
     new "Not for free"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/alice/ev_7.rpy:204
+    old "age"
+    new "age"
+
+    # game/characters/alice/ev_7.rpy:215
+    old "tomorrow"
+    new "tomorrow"
+
+    # game/characters/alice/ev_7.rpy:226
+    old "palm"
+    new "palm"
+
+    # game/characters/alice/ev_7.rpy:237
+    old "all"
+    new "all"
+
+    # game/characters/alice/ev_7.rpy:260
+    old "six"
+    new "six"
+
+    # game/characters/alice/ev_7.rpy:271
+    old "1939"
+    new "1939"
+
+    # game/characters/alice/ev_7.rpy:285
+    old "two"
+    new "two"
+
+    # game/characters/alice/ev_7.rpy:289
+    old "three"
+    new "three"
+
+    # game/characters/alice/ev_7.rpy:312
+    old "help me"
+    new "help me"
+

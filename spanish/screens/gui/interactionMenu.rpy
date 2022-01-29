@@ -238,3 +238,11 @@ translate spanish strings:
     old "*Toggle with '{b}I{/b}' key"
     new "*Toggle with '{b}I{/b}' key"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/screens/gui/interactionMenu.rpy:75
+    old "Test Notifications"
+    new "Test Notifications"
+

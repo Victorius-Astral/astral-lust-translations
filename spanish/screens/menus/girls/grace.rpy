@@ -18,3 +18,11 @@ translate spanish strings:
     old "• Thighjob: "
     new "• Thighjob: "
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/screens/menus/girls/grace.rpy:23
+    old "Nicknames: Gracie"
+    new "Nicknames: Gracie"
+

@@ -356,3 +356,11 @@ translate spanish kiara_3_a0e98964:
     # kiara "Yes. There are some limitations, though."
     kiara "Yes. There are some limitations, though."
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/kiara/ev_3.rpy:23
+    old "She possesses authority over the domain of knowledge."
+    new "She possesses authority over the domain of knowledge."
+

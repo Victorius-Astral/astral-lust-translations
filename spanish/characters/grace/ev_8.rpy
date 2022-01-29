@@ -692,3 +692,15 @@ translate spanish grace_8_part3_8135c3bd:
     # alice "{size=-15}Hurt her, and I'll cut your balls off. My. Boy.{/size}"
     alice "{size=-15}Hurt her, and I'll cut your balls off. My. Boy.{/size}"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/grace/ev_8.rpy:14
+    old "She knows about Grace and me."
+    new "She knows about Grace and me."
+
+    # game/characters/grace/ev_8.rpy:148
+    old "Alice told her it's okay to do anything with me, as long as it makes her happy."
+    new "Alice told her it's okay to do anything with me, as long as it makes her happy."
+

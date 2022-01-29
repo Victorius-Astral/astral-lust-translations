@@ -1052,3 +1052,15 @@ translate spanish strings:
     old "Tidy up the boxes (Duration: [minaTasks.tidyUp.duration]) {loot}(Materials+){/loot} {#visible}"
     new "Tidy up the boxes (Duration: [minaTasks.tidyUp.duration]) {loot}(Materials+){/loot} {#visible}"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/mina/speak.rpy:154
+    old "The hotel was under construction before The End. There is a lot of unoccupied space I can use to expand the community."
+    new "The hotel was under construction before The End. There is a lot of unoccupied space I can use to expand the community."
+
+    # game/characters/mina/speak.rpy:161
+    old "She likes pink."
+    new "She likes pink."
+

@@ -14,3 +14,11 @@ translate spanish strings:
     old "Cards in {}:"
     new "Cards in {}:"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/combat/decks/Deck.rpy:61
+    old "{}, {}"
+    new "{}, {}"
+

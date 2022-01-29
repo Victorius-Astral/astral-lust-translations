@@ -254,3 +254,15 @@ translate spanish strings:
     old "Error when registering replay, category '{category}' doesn't exist!"
     new "Error when registering replay, category '{category}' doesn't exist!"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/variables/lists/error_messages.rpy:3
+    old "Error! No help with id \"{id}\" exists!"
+    new "Error! No help with id \"{id}\" exists!"
+
+    # game/variables/lists/error_messages.rpy:3
+    old "Error! No field {field} in persistent!"
+    new "Error! No field {field} in persistent!"
+

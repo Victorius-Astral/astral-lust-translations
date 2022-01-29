@@ -381,3 +381,15 @@ translate spanish exp_friendly_wanderers_dfbca531:
     # th "It was me, but it's better if she doesn't know I can resurrect."
     th "It was me, but it's better if she doesn't know I can resurrect."
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/events/explore/friendly_wanderers.rpy:88
+    old "The Wanderers"
+    new "The Wanderers"
+
+    # game/events/explore/friendly_wanderers.rpy:88
+    old "They consist of independent groups of people that help each other."
+    new "They consist of independent groups of people that help each other."
+

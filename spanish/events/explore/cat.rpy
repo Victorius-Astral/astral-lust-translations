@@ -363,3 +363,11 @@ translate spanish strings:
     # game/events/explore/cat.rpy:124
     old "I named it [cat]."
     new "Lo nombré [cat]."
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/events/explore/cat.rpy:95
+    old "I discovered it while outside, in an abandoned house."
+    new "I discovered it while outside, in an abandoned house."
+

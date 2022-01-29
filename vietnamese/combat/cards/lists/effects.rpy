@@ -116,7 +116,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/effects.rpy:3
     old "Each turn deals {}x damage. +{:.0%} damage if target has Frail. Decreases by {} every turn."
-    new "Mỗi lượt gây sát thương {} x. + {:. 0%} sát thương nếu mục tiêu có Yếu đuối. Giảm {} mỗi lượt."
+    new "Mỗi lượt gây sát thương {}x. + {:.0%} sát thương nếu mục tiêu có Yếu đuối. Giảm {} mỗi lượt."
 
     # game/combat/cards/lists/effects.rpy:3
     old "Burning"

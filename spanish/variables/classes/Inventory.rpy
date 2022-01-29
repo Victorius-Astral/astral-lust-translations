@@ -18,3 +18,15 @@ translate spanish strings:
     old "Lost all materials."
     new "Lost all materials."
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/variables/classes/Inventory.rpy:132
+    old "Lost {}"
+    new "Lost {}"
+
+    # game/variables/classes/Inventory.rpy:136
+    old "Required item missing."
+    new "Required item missing."
+

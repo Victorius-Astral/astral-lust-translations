@@ -412,3 +412,31 @@ translate spanish strings:
     old "No, I get it"
     new "No, I get it"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/kiara/ev_1.rpy:8
+    old "She knows things about me, maybe even things I don't know about myself."
+    new "She knows things about me, maybe even things I don't know about myself."
+
+    # game/characters/kiara/ev_1.rpy:42
+    old "Kiara claims It to be terrifying beyond her imagination."
+    new "Kiara claims It to be terrifying beyond her imagination."
+
+    # game/characters/kiara/ev_1.rpy:53
+    old "There are many ways to resurrect, among them: miracles, awakening inside someone, replacing someone, reappearing from one's order, a loophole in time."
+    new "There are many ways to resurrect, among them: miracles, awakening inside someone, replacing someone, reappearing from one's order, a loophole in time."
+
+    # game/characters/kiara/ev_1.rpy:70
+    old "Sea of Consciousness"
+    new "Sea of Consciousness"
+
+    # game/characters/kiara/ev_1.rpy:70
+    old "It seems I'm resurrecting through it."
+    new "It seems I'm resurrecting through it."
+
+    # game/characters/kiara/ev_1.rpy:109
+    old "For some extremely potent beings just a random thought about something involving them would be like screaming right into their ears."
+    new "For some extremely potent beings just a random thought about something involving them would be like screaming right into their ears."
+

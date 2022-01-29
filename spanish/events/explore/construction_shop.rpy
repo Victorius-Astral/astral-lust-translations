@@ -775,3 +775,11 @@ translate spanish strings:
     old "Rape her"
     new "Rape her"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/events/explore/construction_shop.rpy:278
+    old "I raped someone. Can I live with it?"
+    new "I raped someone. Can I live with it?"
+

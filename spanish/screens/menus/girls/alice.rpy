@@ -98,3 +98,11 @@ translate spanish strings:
     old "• Came outside: "
     new "• Came outside: "
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/screens/menus/girls/alice.rpy:23
+    old "Nicknames: Al"
+    new "Nicknames: Al"
+

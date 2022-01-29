@@ -26,3 +26,19 @@ translate spanish strings:
     old "{}'s lust - {}"
     new "{}'s lust - {}"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/variables/classes/NPC.rpy:148
+    old "{} outfit unlocked ({})."
+    new "{} outfit unlocked ({})."
+
+    # game/variables/classes/NPC.rpy:211
+    old "{}'s affection + {}"
+    new "{}'s affection + {}"
+
+    # game/variables/classes/NPC.rpy:220
+    old "{}'s affection - {}"
+    new "{}'s affection - {}"
+

@@ -443,3 +443,35 @@ translate spanish strings:
     # game/characters/lexi/ev_2.rpy:84
     old "I'll take care of her if something happens"
     new "Me encargaré de ella si algo sucede"
+# TODO: Translation updated at 2022-01-29 20:12
+
+# game/characters/lexi/ev_2.rpy:46
+translate spanish lexi_2_1_6e998f81_1:
+
+    # "You answer with a straight face."
+    "You answer with a straight face."
+
+# game/characters/lexi/ev_2.rpy:68
+translate spanish lexi_2_1a_818dc10f:
+
+    # lexi "I don't want to talk about it."
+    lexi "I don't want to talk about it."
+
+# game/characters/lexi/ev_2.rpy:80
+translate spanish lexi_2_1a_215b0feb:
+
+    # lexi "She goes out sometimes, but not much. I don't want her to take risks."
+    lexi "She goes out sometimes, but not much. I don't want her to take risks."
+
+# game/characters/lexi/ev_2.rpy:121
+translate spanish lexi_2_2_6c166f21:
+
+    # "A family of three lies bathed in their own blood in the middle of the room. The mother is naked, you can imagine why. [lexi] quickly checks their bodies."
+    "A family of three lies bathed in their own blood in the middle of the room. The mother is naked, you can imagine why. [lexi] quickly checks their bodies."
+
+translate spanish strings:
+
+    # game/characters/lexi/ev_2.rpy:67
+    old "She doesn't want to talk about her parents."
+    new "She doesn't want to talk about her parents."
+

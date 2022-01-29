@@ -348,3 +348,11 @@ translate spanish strings:
     old "During the night, shadows come alive in the fogs of Asthar. They corrupt and distort everything, even prayers."
     new "During the night, shadows come alive in the fogs of Asthar. They corrupt and distort everything, even prayers."
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/player/ev_6.rpy:42
+    old "Names have heavy meaning. They are beacons through which higher beings connect with the spiritual world. They can hear, locate and respond to someone calling Their name."
+    new "Names have heavy meaning. They are beacons through which higher beings connect with the spiritual world. They can hear, locate and respond to someone calling Their name."
+

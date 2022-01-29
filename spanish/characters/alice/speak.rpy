@@ -2318,3 +2318,657 @@ translate spanish strings:
     old "Reinforce coat (Duration: [aliceTasks.reinforceCoat.duration]) {trust}(Buff+){/trust} {#visible}"
     new "Reinforce coat (Duration: [aliceTasks.reinforceCoat.duration]) {trust}(Buff+){/trust} {#visible}"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+# game/characters/alice/speak.rpy:181
+translate spanish speak_alice_menuev9_b211a70c:
+
+    # alice "Daddy wants to pound [alice]'s little pussy again?"
+    alice "Daddy wants to pound [alice]'s little pussy again?"
+
+# game/characters/alice/speak.rpy:182
+translate spanish speak_alice_menuev9_2d7dbb9a:
+
+    # alice "Should I dress up for you?"
+    alice "Should I dress up for you?"
+
+# game/characters/alice/speak.rpy:205
+translate spanish speak_alice_menuev9_1b3457b5:
+
+    # alice "You know I could use you for something.."
+    alice "You know I could use you for something.."
+
+# game/characters/alice/speak.rpy:206
+translate spanish speak_alice_menuev9_e20c2277:
+
+    # me "Oh? What is it?"
+    me "Oh? What is it?"
+
+# game/characters/alice/speak.rpy:209
+translate spanish speak_alice_menuev9_a5d3abf8:
+
+    # alice "I could use some cleaning down there~"
+    alice "I could use some cleaning down there~"
+
+# game/characters/alice/speak.rpy:210
+translate spanish speak_alice_menuev9_376747c4:
+
+    # me "Haha, got it."
+    me "Haha, got it."
+
+# game/characters/alice/speak.rpy:211
+translate spanish speak_alice_menuev9_8bd0d7e1:
+
+    # alice "Should I change?"
+    alice "Should I change?"
+
+# game/characters/alice/speak.rpy:217
+translate spanish speak_alice_menuev9_cb8a02c6:
+
+    # alice "Ohh.. This little girl is going to be played by you again mister."
+    alice "Ohh.. This little girl is going to be played by you again mister."
+
+# game/characters/alice/speak.rpy:227
+translate spanish speak_alice_menuev9_b971ae2f:
+
+    # me "Wanna reward me once more?"
+    me "Wanna reward me once more?"
+
+# game/characters/alice/speak.rpy:230
+translate spanish speak_alice_menuev9_81e18fa7:
+
+    # alice "You can just ask directly you know?"
+    alice "You can just ask directly you know?"
+
+# game/characters/alice/speak.rpy:231
+translate spanish speak_alice_menuev9_c1769394:
+
+    # me "Then will you blow me?"
+    me "Then will you blow me?"
+
+# game/characters/alice/speak.rpy:234
+translate spanish speak_alice_menuev9_7b75f538:
+
+    # alice "W-What are you talking about mister? I'm only a little girl.."
+    alice "W-What are you talking about mister? I'm only a little girl.."
+
+# game/characters/alice/speak.rpy:235
+translate spanish speak_alice_menuev9_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/characters/alice/speak.rpy:236
+translate spanish speak_alice_menuev9_388c714f:
+
+    # me "Come to daddy."
+    me "Come to daddy."
+
+# game/characters/alice/speak.rpy:239
+translate spanish speak_alice_menuev9_0b60a0c3:
+
+    # alice "Hehe~"
+    alice "Hehe~"
+
+# game/characters/alice/speak.rpy:240
+translate spanish speak_alice_menuev9_e2b90efc:
+
+    # alice "Lay down, daddy~"
+    alice "Lay down, daddy~"
+
+# game/characters/alice/speak.rpy:241
+translate spanish speak_alice_menuev9_fec91136:
+
+    # "You do as told and lie down waiting for her to join."
+    "You do as told and lie down waiting for her to join."
+
+# game/characters/alice/speak.rpy:242
+translate spanish speak_alice_menuev9_a69a8806:
+
+    # alice "What outfit do you want this little girl to wear, daddy?"
+    alice "What outfit do you want this little girl to wear, daddy?"
+
+# game/characters/alice/speak.rpy:248
+translate spanish speak_alice_menuev9_f4b76968:
+
+    # alice "Hehe~ You pervert~"
+    alice "Hehe~ You pervert~"
+
+# game/characters/alice/speak.rpy:261
+translate spanish speak_alice_menuev9_f6adff98:
+
+    # me "Can you give me a footjob?"
+    me "Can you give me a footjob?"
+
+# game/characters/alice/speak.rpy:266
+translate spanish speak_alice_menuev9_4bcaf3b9:
+
+    # alice "You're becoming more and more daring."
+    alice "You're becoming more and more daring."
+
+# game/characters/alice/speak.rpy:267
+translate spanish speak_alice_menuev9_f660d172:
+
+    # me "So?"
+    me "So?"
+
+# game/characters/alice/speak.rpy:268
+translate spanish speak_alice_menuev9_c313e6b5:
+
+    # alice "And impatient."
+    alice "And impatient."
+
+# game/characters/alice/speak.rpy:269
+translate spanish speak_alice_menuev9_f660d172_1:
+
+    # me "So?"
+    me "So?"
+
+# game/characters/alice/speak.rpy:270
+translate spanish speak_alice_menuev9_74f05a4e:
+
+    # alice "..."
+    alice "..."
+
+# game/characters/alice/speak.rpy:273
+translate spanish speak_alice_menuev9_e8149e61:
+
+    # alice "Lie down. What do you want me to wear?"
+    alice "Lie down. What do you want me to wear?"
+
+# game/characters/alice/speak.rpy:279
+translate spanish speak_alice_menuev9_35cada6d:
+
+    # alice "Hehe~ You love this outfit so much, right?"
+    alice "Hehe~ You love this outfit so much, right?"
+
+# game/characters/alice/speak.rpy:289
+translate spanish speak_alice_menuev9_011de6f2:
+
+    # alice "Time for another workout."
+    alice "Time for another workout."
+
+# game/characters/alice/speak.rpy:294
+translate spanish speak_alice_menuev9_af5f5d0a:
+
+    # alice "You want to torture my pussy again, daddy?"
+    alice "You want to torture my pussy again, daddy?"
+
+# game/characters/alice/speak.rpy:326
+translate spanish speak_alice_menuev9_8f7b6901:
+
+    # alice "Sure, what is it?"
+    alice "Sure, what is it?"
+
+# game/characters/alice/speak.rpy:560
+translate spanish speak_alice_alice_str_e98034ac:
+
+    # alice "So you are going to get me to make a gift for myself? How.. original.."
+    alice "So you are going to get me to make a gift for myself? How.. original.."
+
+# game/characters/alice/speak.rpy:561
+translate spanish speak_alice_alice_str_f660d172:
+
+    # me "So?"
+    me "So?"
+
+# game/characters/alice/speak.rpy:565
+translate spanish speak_alice_alice_str_0115c481:
+
+    # alice "It's simple. I'll start immediately."
+    alice "It's simple. I'll start immediately."
+
+# game/characters/alice/speak.rpy:566
+translate spanish speak_alice_alice_str_640dffc0:
+
+    # me "Good luck."
+    me "Good luck."
+
+# game/characters/alice/speak.rpy:567
+translate spanish speak_alice_alice_str_74f05a4e:
+
+    # alice "..."
+    alice "..."
+
+# game/characters/alice/speak.rpy:571
+translate spanish speak_alice_alice_str_83f16524:
+
+    # alice "Here."
+    alice "Here."
+
+# game/characters/alice/speak.rpy:572
+translate spanish speak_alice_alice_str_3f5d85fc:
+
+    # me "Good job."
+    me "Good job."
+
+# game/characters/alice/speak.rpy:573
+translate spanish speak_alice_alice_str_37267f30:
+
+    # alice "No problem, I was bored anyway."
+    alice "No problem, I was bored anyway."
+
+# game/characters/alice/speak.rpy:574
+translate spanish speak_alice_alice_str_9dcc12f0:
+
+    # me "[alice]."
+    me "[alice]."
+
+# game/characters/alice/speak.rpy:575
+translate spanish speak_alice_alice_str_74d8ac69:
+
+    # alice "Yeah?"
+    alice "Yeah?"
+
+# game/characters/alice/speak.rpy:576
+translate spanish speak_alice_alice_str_4e5be125:
+
+    # me "I've got a gift for you."
+    me "I've got a gift for you."
+
+# game/characters/alice/speak.rpy:580
+translate spanish speak_alice_alice_str_5eeaea5b:
+
+    # alice "Cheap."
+    alice "Cheap."
+
+# game/characters/alice/speak.rpy:581
+translate spanish speak_alice_alice_str_10582fda:
+
+    # me "It's called convenient."
+    me "It's called convenient."
+
+# game/characters/alice/speak.rpy:582
+translate spanish speak_alice_alice_str_f6549f2b:
+
+    # alice "Cheap as fuck."
+    alice "Cheap as fuck."
+
+# game/characters/alice/speak.rpy:583
+translate spanish speak_alice_alice_str_570f8a6c:
+
+    # me "You don't want it?"
+    me "You don't want it?"
+
+# game/characters/alice/speak.rpy:587
+translate spanish speak_alice_alice_str_c8de865d:
+
+    # alice "Gimme."
+    alice "Gimme."
+
+# game/characters/alice/speak.rpy:588
+translate spanish speak_alice_alice_str_aa93b10c:
+
+    # me "Good girl."
+    me "Good girl."
+
+# game/characters/alice/speak.rpy:596
+translate spanish speak_alice_alice_sch_1a4fbd01:
+
+    # alice "Someone's going to get naughty, right daddy?"
+    alice "Someone's going to get naughty, right daddy?"
+
+# game/characters/alice/speak.rpy:597
+translate spanish speak_alice_alice_sch_651554f5:
+
+    # me "I get it you're going to do it?"
+    me "I get it you're going to do it?"
+
+# game/characters/alice/speak.rpy:598
+translate spanish speak_alice_alice_sch_cde3d046:
+
+    # alice "Of course, daddy~"
+    alice "Of course, daddy~"
+
+# game/characters/alice/speak.rpy:604
+translate spanish speak_alice_alice_sch_3286c790:
+
+    # alice "Now I got it."
+    alice "Now I got it."
+
+# game/characters/alice/speak.rpy:605
+translate spanish speak_alice_alice_sch_5bc2d7b3:
+
+    # me "Well.. Are you going to show me?"
+    me "Well.. Are you going to show me?"
+
+# game/characters/alice/speak.rpy:606
+translate spanish speak_alice_alice_sch_cba3e917:
+
+    # alice "Be a good boy and I'll think about it."
+    alice "Be a good boy and I'll think about it."
+
+# game/characters/alice/speak.rpy:607
+translate spanish speak_alice_alice_sch_07ed60be:
+
+    # me "I'm always good."
+    me "I'm always good."
+
+# game/characters/alice/speak.rpy:615
+translate spanish speak_alice_alice_maid_2614c887:
+
+    # alice "Grace isn't enough for you? You beast~"
+    alice "Grace isn't enough for you? You beast~"
+
+# game/characters/alice/speak.rpy:616
+translate spanish speak_alice_alice_maid_125c7056:
+
+    # alice "I'll be right back."
+    alice "I'll be right back."
+
+# game/characters/alice/speak.rpy:622
+translate spanish speak_alice_alice_maid_68df90bf:
+
+    # alice "Okay!~ Done!"
+    alice "Okay!~ Done!"
+
+# game/characters/alice/speak.rpy:623
+translate spanish speak_alice_alice_maid_bdab3c6b:
+
+    # me "Sweet!"
+    me "Sweet!"
+
+# game/characters/alice/speak.rpy:631
+translate spanish speak_alice_lexi_ten_aae4df87:
+
+    # alice "Why do you want me to make something like this?"
+    alice "Why do you want me to make something like this?"
+
+# game/characters/alice/speak.rpy:632
+translate spanish speak_alice_lexi_ten_a8870946:
+
+    # me "Just tell me if you can do it."
+    me "Just tell me if you can do it."
+
+# game/characters/alice/speak.rpy:636
+translate spanish speak_alice_lexi_ten_3a186df0:
+
+    # alice "No worries. I got it."
+    alice "No worries. I got it."
+
+# game/characters/alice/speak.rpy:642
+translate spanish speak_alice_lexi_ten_4cbbde7b:
+
+    # alice "I made your weird thing."
+    alice "I made your weird thing."
+
+# game/characters/alice/speak.rpy:655
+translate spanish speak_alice_outfits_kiara_c296745b:
+
+    # alice "Who?"
+    alice "Who?"
+
+# game/characters/alice/speak.rpy:656
+translate spanish speak_alice_outfits_kiara_44e5ad59:
+
+    # me "Well.. You won't know her."
+    me "Well.. You won't know her."
+
+# game/characters/alice/speak.rpy:660
+translate spanish speak_alice_outfits_kiara_eda2db3c:
+
+    # alice "Ehh.."
+    alice "Ehh.."
+
+# game/characters/alice/speak.rpy:661
+translate spanish speak_alice_outfits_kiara_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/characters/alice/speak.rpy:662
+translate spanish speak_alice_outfits_kiara_63ebf2db:
+
+    # alice "What are her sizes?"
+    alice "What are her sizes?"
+
+# game/characters/alice/speak.rpy:663
+translate spanish speak_alice_outfits_kiara_32898ed9:
+
+    # th "As if I know.."
+    th "As if I know.."
+
+# game/characters/alice/speak.rpy:664
+translate spanish speak_alice_outfits_kiara_7b0f67e5:
+
+    # me "Make them Mina's size."
+    me "Make them Mina's size."
+
+# game/characters/alice/speak.rpy:665
+translate spanish speak_alice_outfits_kiara_5570ddf0:
+
+    # th "I think she can make them fit herself with some power. Probably."
+    th "I think she can make them fit herself with some power. Probably."
+
+# game/characters/alice/speak.rpy:669
+translate spanish speak_alice_outfits_kiara_b00edcf0:
+
+    # alice "Okay, Mr. Adventurer."
+    alice "Okay, Mr. Adventurer."
+
+# game/characters/alice/speak.rpy:670
+translate spanish speak_alice_outfits_kiara_82c76ca5:
+
+    # me "Thanks, [alice]."
+    me "Thanks, [alice]."
+
+# game/characters/alice/speak.rpy:674
+translate spanish speak_alice_outfits_kiara_02ce5de8:
+
+    # alice "When will you tell me about your rendezvous outside?"
+    alice "When will you tell me about your rendezvous outside?"
+
+# game/characters/alice/speak.rpy:675
+translate spanish speak_alice_outfits_kiara_230731c3:
+
+    # me "Maybe tomorrow.. Or a day after tomorrow.. Or.."
+    me "Maybe tomorrow.. Or a day after tomorrow.. Or.."
+
+# game/characters/alice/speak.rpy:679
+translate spanish speak_alice_outfits_kiara_ebad61b8:
+
+    # alice "Or never?"
+    alice "Or never?"
+
+# game/characters/alice/speak.rpy:680
+translate spanish speak_alice_outfits_kiara_71766273:
+
+    # me "Yeah... Yeah. That's a compromise I could accept."
+    me "Yeah... Yeah. That's a compromise I could accept."
+
+# game/characters/alice/speak.rpy:681
+translate spanish speak_alice_outfits_kiara_74f05a4e:
+
+    # alice "..."
+    alice "..."
+
+# game/characters/alice/speak.rpy:685
+translate spanish speak_alice_outfits_kiara_a11d089c:
+
+    # alice "Well, whatever. Just don't bring your hoes home."
+    alice "Well, whatever. Just don't bring your hoes home."
+
+# game/characters/alice/speak.rpy:689
+translate spanish speak_alice_outfits_kiara_dc937837:
+
+    # me "Sometimes it's just stronger than me."
+    me "Sometimes it's just stronger than me."
+
+# game/characters/alice/speak.rpy:693
+translate spanish speak_alice_outfits_kiara_eda2db3c_1:
+
+    # alice "Ehh.."
+    alice "Ehh.."
+
+# game/characters/alice/speak.rpy:694
+translate spanish speak_alice_outfits_kiara_80a82614:
+
+    # alice "You're hopeless, [me]."
+    alice "You're hopeless, [me]."
+
+# game/characters/alice/speak.rpy:698
+translate spanish speak_alice_outfits_kiara_7dee622e:
+
+    # alice "When doing various things outside, just consider, we're also living here. Don't put us in danger just to get laid, okay?"
+    alice "When doing various things outside, just consider, we're also living here. Don't put us in danger just to get laid, okay?"
+
+# game/characters/alice/speak.rpy:700
+translate spanish speak_alice_outfits_kiara_188d9695:
+
+    # me "Got it. Don't worry."
+    me "Got it. Don't worry."
+
+# game/characters/alice/speak.rpy:706
+translate spanish speak_alice_outfits_kiara_4ee90635:
+
+    # alice "Your outside hoe again?"
+    alice "Your outside hoe again?"
+
+# game/characters/alice/speak.rpy:707
+translate spanish speak_alice_outfits_kiara_5f5cfd66:
+
+    # me "I wouldn't call her that, though."
+    me "I wouldn't call her that, though."
+
+# game/characters/alice/speak.rpy:711
+translate spanish speak_alice_outfits_kiara_4963bffa:
+
+    # alice "Whatever, Mina's size?"
+    alice "Whatever, Mina's size?"
+
+# game/characters/alice/speak.rpy:712
+translate spanish speak_alice_outfits_kiara_3f6c9cde:
+
+    # me "Mina's size."
+    me "Mina's size."
+
+# game/characters/alice/speak.rpy:723
+translate spanish speak_alice_kiara_ang_bf733006:
+
+    # alice "Here you go."
+    alice "Here you go."
+
+# game/characters/alice/speak.rpy:724
+translate spanish speak_alice_kiara_ang_52a1db70:
+
+    # me "Many thanks, [alice]."
+    me "Many thanks, [alice]."
+
+# game/characters/alice/speak.rpy:735
+translate spanish speak_alice_kiara_par_ab1d8716:
+
+    # alice "Enjoy the party.."
+    alice "Enjoy the party.."
+
+# game/characters/alice/speak.rpy:736
+translate spanish speak_alice_kiara_par_1ba957cc:
+
+    # me "Hey, don't be jealous."
+    me "Hey, don't be jealous."
+
+# game/characters/alice/speak.rpy:737
+translate spanish speak_alice_kiara_par_29314cd1:
+
+    # alice "As if someone would be jealous about you."
+    alice "As if someone would be jealous about you."
+
+# game/characters/alice/speak.rpy:738
+translate spanish speak_alice_kiara_par_282f3876:
+
+    # me "Hahaha!"
+    me "Hahaha!"
+
+# game/characters/alice/speak.rpy:749
+translate spanish speak_alice_kiara_nym_10a760a0:
+
+    # alice "Take it."
+    alice "Take it."
+
+# game/characters/alice/speak.rpy:750
+translate spanish speak_alice_kiara_nym_96db5d1c:
+
+    # me "Thanks! What's up with you?"
+    me "Thanks! What's up with you?"
+
+# game/characters/alice/speak.rpy:751
+translate spanish speak_alice_kiara_nym_9ed9c9ac:
+
+    # alice "Nothing, take it to your slut, and let me rest. It was annoying doing this fishnet."
+    alice "Nothing, take it to your slut, and let me rest. It was annoying doing this fishnet."
+
+# game/characters/alice/speak.rpy:752
+translate spanish speak_alice_kiara_nym_f9b08f48:
+
+    # me "Heads up."
+    me "Heads up."
+
+# game/characters/alice/speak.rpy:753
+translate spanish speak_alice_kiara_nym_74f05a4e:
+
+    # alice "..."
+    alice "..."
+
+# game/characters/alice/speak.rpy:754
+translate spanish speak_alice_kiara_nym_8e0c5a1a:
+
+    # me "Why did you make it, then?"
+    me "Why did you make it, then?"
+
+# game/characters/alice/speak.rpy:758
+translate spanish speak_alice_kiara_nym_fb321aeb:
+
+    # alice "As if I knew, idiot. Go already."
+    alice "As if I knew, idiot. Go already."
+
+# game/characters/alice/speak.rpy:759
+translate spanish speak_alice_kiara_nym_a0a697c9:
+
+    # me "Thank you."
+    me "Thank you."
+
+# game/characters/alice/speak.rpy:760
+translate spanish speak_alice_kiara_nym_7d834efa:
+
+    # alice "I'm amazing. I know. Go, go."
+    alice "I'm amazing. I know. Go, go."
+
+# game/characters/alice/speak.rpy:761
+translate spanish speak_alice_kiara_nym_3820771a:
+
+    # me "..."
+    me "..."
+
+translate spanish strings:
+
+    # game/characters/alice/speak.rpy:331
+    old "She's responsible for crafting things at the Jade Hotel. Every so often she takes on the role of the scavenger."
+    new "She's responsible for crafting things at the Jade Hotel. Every so often she takes on the role of the scavenger."
+
+    # game/characters/alice/speak.rpy:352
+    old "She’s been at the Jade Hotel since the beginning. She arrived on the fifth day of The End."
+    new "She’s been at the Jade Hotel since the beginning. She arrived on the fifth day of The End."
+
+    # game/characters/alice/speak.rpy:382
+    old "The End"
+    new "The End"
+
+    # game/characters/alice/speak.rpy:382
+    old "On the outside, curiosity remains the swiftest way to the afterlife."
+    new "On the outside, curiosity remains the swiftest way to the afterlife."
+
+    # game/characters/alice/speak.rpy:397
+    old "At night, in the depths of fog, the whispers appear. They have turned anyone that has heard them crazy."
+    new "At night, in the depths of fog, the whispers appear. They have turned anyone that has heard them crazy."
+
+    # game/characters/alice/speak.rpy:406
+    old "The rumor says that three minutes after steeping into the fog at night, your shadow rises from the ground and follows you. It's smiling literally from ear to ear. Victims all claim the whispers you hear outside come from the shadow."
+    new "The rumor says that three minutes after steeping into the fog at night, your shadow rises from the ground and follows you. It's smiling literally from ear to ear. Victims all claim the whispers you hear outside come from the shadow."
+
+    # game/characters/alice/speak.rpy:418
+    old "The hotel's owner's name was Jack. He disappeared a week before my arrival."
+    new "The hotel's owner's name was Jack. He disappeared a week before my arrival."
+
+    # game/characters/alice/speak.rpy:552
+    old "Outfits"
+    new "Outfits"
+

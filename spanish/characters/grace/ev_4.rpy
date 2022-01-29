@@ -363,3 +363,11 @@ translate spanish strings:
     # game/characters/grace/ev_4.rpy:110
     old "I'm fine"
     new "Estoy bien"
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/grace/ev_4.rpy:84
+    old "She never met her father. Her mother kept saying he has never visited Grace because he doesn't love her."
+    new "She never met her father. Her mother kept saying he has never visited Grace because he doesn't love her."
+

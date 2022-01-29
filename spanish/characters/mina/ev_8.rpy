@@ -706,3 +706,11 @@ translate spanish strings:
     old "Promise"
     new "Promise"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/mina/ev_8.rpy:41
+    old "I told her I did it with Alice. She wasn't angry, though."
+    new "I told her I did it with Alice. She wasn't angry, though."
+

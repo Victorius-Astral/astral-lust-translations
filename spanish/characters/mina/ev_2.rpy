@@ -257,3 +257,11 @@ translate spanish mina_2_f551ceb0:
 
     # mina "Thanks! She'll be sooo happy!"
     mina "¡Gracias! ¡Lexi va a estar taaan feliz!"
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/mina/ev_2.rpy:71
+    old "She tasked me to find a golden pendant from S&M Jewellery Shop for Lexi's birthday."
+    new "She tasked me to find a golden pendant from S&M Jewellery Shop for Lexi's birthday."
+

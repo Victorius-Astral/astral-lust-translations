@@ -103,7 +103,7 @@ translate vietnamese past_lives_a0737bea:
     past_me "..."
 
 # game/characters/player/past_lives.rpy:37
-translate vietnamese past_lives_/248e66e0:
+translate vietnamese past_lives_248e66e0:
 
     # me "Who are you?"
     me "Mày là ai?"

@@ -812,3 +812,47 @@ translate spanish strings:
     old "Have you ever heard of Throdog R'luhhor?"
     new "Have you ever heard of Throdog R'luhhor?"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/player/ev_4.rpy:52
+    old "She's the librarian of the Asthar Library."
+    new "She's the librarian of the Asthar Library."
+
+    # game/characters/player/ev_4.rpy:103
+    old "Asthar"
+    new "Asthar"
+
+    # game/characters/player/ev_4.rpy:103
+    old "Asthar is a city enormous beyond imagination, and also home to the headquarters of the Cult of The Black. What is curious is that it doesn't exist in a fixed place. When I asked Kiara about details, she said humans can't possibly grasp or imagine the power and means of Gods."
+    new "Asthar is a city enormous beyond imagination, and also home to the headquarters of the Cult of The Black. What is curious is that it doesn't exist in a fixed place. When I asked Kiara about details, she said humans can't possibly grasp or imagine the power and means of Gods."
+
+    # game/characters/player/ev_4.rpy:121
+    old "This cult made The End descend. It is shepherded by seven Elders, two High Elders and Aharon, the cult leader. All of them immortal and powerful beyond all imagination."
+    new "This cult made The End descend. It is shepherded by seven Elders, two High Elders and Aharon, the cult leader. All of them immortal and powerful beyond all imagination."
+
+    # game/characters/player/ev_4.rpy:125
+    old "The library is outside of Gods perception."
+    new "The library is outside of Gods perception."
+
+    # game/characters/player/ev_4.rpy:131
+    old "He's close to being a God, saying His name is enough to draw His attention."
+    new "He's close to being a God, saying His name is enough to draw His attention."
+
+    # game/characters/player/ev_4.rpy:143
+    old "Monsters are in fact humans and animals that were corrupted."
+    new "Monsters are in fact humans and animals that were corrupted."
+
+    # game/characters/player/ev_4.rpy:164
+    old "Domains"
+    new "Domains"
+
+    # game/characters/player/ev_4.rpy:164
+    old "Domains can be understood as a group of extraordinary powers and abilities belonging to similar authorities. Those abilities are fueled by its user spirituality."
+    new "Domains can be understood as a group of extraordinary powers and abilities belonging to similar authorities. Those abilities are fueled by its user spirituality."
+
+    # game/characters/player/ev_4.rpy:195
+    old "The mere mention of Throdog R'luhhor caused her to drown in terror and throw me out immediately."
+    new "The mere mention of Throdog R'luhhor caused her to drown in terror and throw me out immediately."
+

@@ -462,3 +462,27 @@ translate spanish strings:
     old "Do you have anything for me to do? {loot}(Materials+){/loot}"
     new "Do you have anything for me to do? {loot}(Materials+){/loot}"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/kiara/speak.rpy:49
+    old "She was born human, yet she claims to no longer be mortal."
+    new "She was born human, yet she claims to no longer be mortal."
+
+    # game/characters/kiara/speak.rpy:107
+    old "Aharon, who is close to being a God, would crumble under a simple glance from \"Them\"."
+    new "Aharon, who is close to being a God, would crumble under a simple glance from \"Them\"."
+
+    # game/characters/kiara/speak.rpy:114
+    old "He was a human and He still has some of His humanity remaining."
+    new "He was a human and He still has some of His humanity remaining."
+
+    # game/characters/kiara/speak.rpy:125
+    old "To become a God, one needs to complete an apotheosis ritual."
+    new "To become a God, one needs to complete an apotheosis ritual."
+
+    # game/characters/kiara/speak.rpy:173
+    old "She seems to always know what I'm thinking about."
+    new "She seems to always know what I'm thinking about."
+

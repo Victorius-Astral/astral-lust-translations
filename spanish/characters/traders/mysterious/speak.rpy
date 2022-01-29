@@ -304,3 +304,15 @@ translate spanish strings:
     old "Decrease corruption [[1 Mysterious Coins]"
     new "Decrease corruption [[1 Mysterious Coins]"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/traders/mysterious/speak.rpy:13
+    old "Mysterious Trader"
+    new "Mysterious Trader"
+
+    # game/characters/traders/mysterious/speak.rpy:13
+    old "I have met a very weird, odd being, It claims to be a trader."
+    new "I have met a very weird, odd being, It claims to be a trader."
+
