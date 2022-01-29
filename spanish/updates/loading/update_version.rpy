@@ -4,9 +4,8 @@ translate spanish strings:
 
     # game/updates/loading/update_version.rpy:6
     old "Save version: "
-    new "Save version: "
+    new "Versión de partida: "
 
     # game/updates/loading/update_version.rpy:88
     old "Apply patch: "
-    new "Apply patch: "
-
+    new "Aplicar patch: "

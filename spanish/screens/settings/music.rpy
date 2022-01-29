@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/screens/settings/music.rpy:13
     old "None, Atmospheric"
-    new "None, Atmospheric"
+    new "Ninguna, Atmospheric"
 
     # game/screens/settings/music.rpy:14
     old "Little Planet"
@@ -45,4 +45,3 @@ translate spanish strings:
     # game/screens/settings/music.rpy:25
     old "An Innermost Glow"
     new "An Innermost Glow"
-

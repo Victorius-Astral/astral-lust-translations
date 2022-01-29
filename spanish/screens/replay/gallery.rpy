@@ -16,4 +16,4 @@ translate spanish strings:
 
     # game/screens/replay/gallery.rpy:38
     old "Fix Gallery"
-    new "Arregla Gallery"
+    new "Arregla Galería"

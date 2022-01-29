@@ -176,7 +176,7 @@ translate spanish strings:
 
     # game/variables/tips.rpy:4
     old "Maybe I should wait \"for it\" a few days."
-    new "Quizás debería esperar \"por éso\" unos días."
+    new "Quizás debería esperar \"por eso\" unos días."
 
     # game/variables/tips.rpy:4
     old "I wonder how she deals with lust after blowing me so much."
@@ -192,7 +192,7 @@ translate spanish strings:
 
     # game/variables/tips.rpy:4
     old "She takes a shower sometimes during the evening, it might be fun if she likes me enough."
-    new "A veces se da una ducha durante el anochecer, sería divertido si le agrado lo suficiente."
+    new "A veces se da una ducha durante el anochecer. Sería divertido si le gusto lo suficiente."
 
     # game/variables/tips.rpy:4
     old "I should check on her again in a while."
@@ -235,85 +235,84 @@ translate spanish strings:
 
     # game/variables/tips.rpy:4
     old "I should go out to explore."
-    new "I should go out to explore."
+    new "Debería salir a explorar."
 
     # game/variables/tips.rpy:4
     old "Maybe I'll meet her outside."
-    new "Maybe I'll meet her outside."
+    new "Quizás la encuentre afuera."
 
     # game/variables/tips.rpy:4
     old "We could go out to explore together again."
-    new "We could go out to explore together again."
+    new "Podríamos ir a explorar juntos otra vez."
 
     # game/variables/tips.rpy:4
     old "I bet she would want to talk about something in a few days, I should wait at my room for her."
-    new "I bet she would want to talk about something in a few days, I should wait at my room for her."
+    new "Apuesto a que ella querrá hablarme de algo en unos días. Debería esperar por ella en mi habitación."
 
     # game/variables/tips.rpy:4
     old "She probably misses her mom, I should check on her from time to time, maybe she needs me."
-    new "She probably misses her mom, I should check on her from time to time, maybe she needs me."
+    new "Ella probablemente extraña a su madre. Quizás me necesite, así que debería visitarla de vez en cuando. ."
 
     # game/variables/tips.rpy:4
     old "I wonder if this wench will come to my bed again."
-    new "I wonder if this wench will come to my bed again."
+    new "Me pregunto si esta chica vendrá a mi cama otra vez."
 
     # game/variables/tips.rpy:4
     old "I want to have some fun with her. Playroom would be useful."
-    new "I want to have some fun with her. Playroom would be useful."
+    new "Quiero divertirme un poco con ella. El cuarto de juegos sería útil."
 
     # game/variables/tips.rpy:4
     old "Who knows what awaits me outside? I should built next hotel floor first."
-    new "Who knows what awaits me outside? I should built next hotel floor first."
+    new "¿Quién sabe lo que me espera afuera? Debería construir el siguiente piso del hotel primero."
 
     # game/variables/tips.rpy:4
     old "I hope she stays in the hotel and recuperates. Although I have a feeling I'll meet her outside."
-    new "I hope she stays in the hotel and recuperates. Although I have a feeling I'll meet her outside."
+    new "Espero que se quede en el hotel y se recupere. Aunque tengo el presentimiento de que la encontraré afuera."
 
     # game/variables/tips.rpy:4
     old "I should check on her after a few days."
-    new "I should check on her after a few days."
+    new "Debería ir a verla después de unos días."
 
     # game/variables/tips.rpy:4
     old "Maybe a month would be enough for her leg to get better. Then, I might be able to find her bike."
-    new "Maybe a month would be enough for her leg to get better. Then, I might be able to find her bike."
+    new "Tal vez un mes sería suficiente para que su pierna mejorara. Entonces, podría ser capaz de encontrar su bicicleta."
 
     # game/variables/tips.rpy:4
     old "I believe her leg would get better soon. She will let me know I guess."
-    new "I believe her leg would get better soon. She will let me know I guess."
+    new "Creo que su pierna mejorará pronto. Ella me lo hará saber, supongo."
 
     # game/variables/tips.rpy:4
     old "She left for home."
-    new "She left for home."
+    new "Partió hacia su hogar."
 
     # game/variables/tips.rpy:4
     old "I hope her trip with Lexi went well."
-    new "I hope her trip with Lexi went well."
+    new "Espero que su viaje con Lexi haya ido bien."
 
     # game/variables/tips.rpy:4
     old "If I'm lucky, a hidden treasure can turn out to be a new friend."
-    new "If I'm lucky, a hidden treasure can turn out to be a new friend."
+    new "Si tengo suerte, un tesoro escondido puede convertirse en un nuevo amigo."
 
     # game/variables/tips.rpy:4
     old "I should find a way to build a shrine to make her move to the hotel."
-    new "I should find a way to build a shrine to make her move to the hotel."
+    new "Debería encontrar una manera de construir un santuario para que se mude al hotel."
 
     # game/variables/tips.rpy:4
     old "She seems to be sulking lately I should ask her about it. Maybe Alice could help."
-    new "She seems to be sulking lately I should ask her about it. Maybe Alice could help."
+    new "Parece estar de mal humor últimamente. Debería preguntarle al respecto. Tal vez Alice podría ayudar."
 
     # game/variables/tips.rpy:4
     old "I wonder if she knows where to find more treasures. Maybe it's the time for a little adventure."
-    new "I wonder if she knows where to find more treasures. Maybe it's the time for a little adventure."
+    new "Me pregunto si sabe dónde encontrar más tesoros. Quizás es hora para una pequeña aventura."
 
     # game/variables/tips.rpy:4
     old "I should help her with building the shrine."
-    new "I should help her with building the shrine."
+    new "Debería ayudarla con la construcción del santuario."
 
     # game/variables/tips.rpy:4
     old "Rachel wants me to get magician outfit. Alice could help."
-    new "Rachel wants me to get magician outfit. Alice could help."
+    new "Rachel quiere que le consiga un atuendo de maga. Alice podría ayudar."
 
     # game/variables/tips.rpy:4
     old "I should speak with her."
-    new "I should speak with her."
-
+    new "Debería hablar con ella."

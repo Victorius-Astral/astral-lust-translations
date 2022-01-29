@@ -4,9 +4,8 @@ translate spanish strings:
 
     # game/variables/classes/Trader.rpy:408
     old "Trade successful"
-    new "Trade successful"
+    new "Intercambio exitoso"
 
     # game/variables/classes/Trader.rpy:417
     old "Player goods are worth too little"
-    new "Player goods are worth too little"
-
+    new "Bienes del jugador valen muy poco"

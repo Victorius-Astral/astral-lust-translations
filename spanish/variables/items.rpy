@@ -80,7 +80,7 @@ translate spanish strings:
 
     # game/variables/items.rpy:4
     old "Succubus Wing"
-    new "Ála de Succubus"
+    new "Ala de Succubus"
 
     # game/variables/items.rpy:4
     old "Squirming Stomach"
@@ -112,15 +112,15 @@ translate spanish strings:
 
     # game/variables/items.rpy:4
     old "Sigil of the Black"
-    new "Sígil de lo Negro"
+    new "Sigil de lo Negro"
 
     # game/variables/items.rpy:4
     old "Mysterious Coin"
-    new "Monéda Misteriosa"
+    new "Moneda Misteriosa"
 
     # game/variables/items.rpy:4
     old "Currency"
-    new "Monéda"
+    new "Moneda"
 
     # game/variables/items.rpy:4
     old "Cap"
@@ -152,4 +152,4 @@ translate spanish strings:
 
     # game/variables/items.rpy:4
     old "Antibiotics"
-    new "Antibioticos"
+    new "Antibióticos"

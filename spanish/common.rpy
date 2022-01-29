@@ -1135,17 +1135,16 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
-    new "High Contrast Text"
+    new "Texto de Alto Contraste"
 
     # renpy/common/00preferences.rpy:487
     old "renderer menu"
-    new "renderer menu"
+    new "menú de renderes"
 
     # renpy/common/00preferences.rpy:490
     old "accessibility menu"
-    new "accessibility menu"
+    new "menú de accesibilidad"
 
     # renpy/common/00preferences.rpy:493
     old "high contrast text"
-    new "high contrast text"
-
+    new "texto de alto contraste"

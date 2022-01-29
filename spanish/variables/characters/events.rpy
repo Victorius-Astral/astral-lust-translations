@@ -47,5 +47,4 @@ translate spanish strings:
 
     # game/variables/characters/events.rpy:16
     old "Something"
-    new "Something"
-
+    new "Algo"

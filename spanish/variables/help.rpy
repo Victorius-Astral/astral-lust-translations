@@ -264,7 +264,7 @@ translate spanish strings:
 
     # game/variables/help.rpy:3
     old "beware though. Succubi are strong, and you don't have any hope of defeating them with your starting deck."
-    new "pero ten cuidado. Succubi son fuertes, y no tienes ninguna esperanza de derrotarlos con tu mazo inicial."
+    new "pero ten cuidado. Succubi son fuertes, y no tienes ninguna esperanza de derrotarlas con tu mazo inicial."
 
     # game/variables/help.rpy:3
     old "Defeat weaker opponents to get cards, train your body and mind, and only then, face powerful monsters."
@@ -272,7 +272,7 @@ translate spanish strings:
 
     # game/variables/help.rpy:3
     old "{gold}{big}Congratulations! You've began your journey towards the knowledge, and madness accompanying it!{/big}{/gold}"
-    new "{gold}{big}¡Felicidades! ¡Has comenzado tu viaje hacia el conocimiento y la locura que lo acompaña!{/big}{/gold}"
+    new "{gold}{big}¡Felicidades! ¡Has comenzado tu viaje hacia el conocimiento, y la locura que lo acompaña!{/big}{/gold}"
 
     # game/variables/help.rpy:3
     old "You can enter it by praying to Keeper of Wisdom at the altar (box with candles at your room)."
@@ -307,13 +307,12 @@ translate spanish strings:
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over, be careful.{/color}"
-    new "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over, be careful.{/color}"
+    new "{color=#45B6FE}12. Si sanidad llega al 0\\% o corrupción 100%, es fin del juego. Ten cuidado.{/color}"
 
     # game/variables/help.rpy:3
     old "13. You can find collectibles to unlock additional pictures on pc. Look for golden condoms and condom packs."
-    new "13. You can find collectibles to unlock additional pictures on pc. Look for golden condoms and condom packs."
+    new "13. Puedes encontrar coleccionables para desbloquear imágenes adicionales en la PC. Busca condones dorados y paquetes de condones."
 
     # game/variables/help.rpy:3
     old "Forge allows you to do mostly two things:"
-    new "Forge allows you to do mostly two things:"
-
+    new "La forja te permite hacer principalmente dos cosas:"

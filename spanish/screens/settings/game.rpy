@@ -52,7 +52,7 @@ translate spanish strings:
 
     # game/screens/settings/game.rpy:37
     old "Debug Mode"
-    new "Modo de depuración"
+    new "Modo de Depuración"
 
     # game/screens/settings/game.rpy:45
     old "Other"
@@ -76,7 +76,7 @@ translate spanish strings:
 
     # game/screens/settings/game.rpy:54
     old "Text Speed"
-    new "VelocidadTexto"
+    new "Velocidad de Texto"
 
     # game/screens/settings/game.rpy:58
     old "Auto-Forward Time"
@@ -87,117 +87,116 @@ translate spanish strings:
 
     # game/screens/settings/game.rpy:39
     old "SFW Mode"
-    new "SFW Mode"
+    new "Modo SFW"
 
     # game/screens/settings/game.rpy:40
     old "Full"
-    new "Full"
+    new "Completo"
 
     # game/screens/settings/game.rpy:41
     old "Half"
-    new "Half"
+    new "Medio"
 
     # game/screens/settings/game.rpy:43
     old "(Disables erotic content, safe for streaming.)\n\nErotic content will be skipped. To check full previous events, disable sfw, and use Replay Gallery app on player pc.\nSFW Mode can be safely turned on/off mid-game, but already playing event might not be affected till it's triggered again. Half allows not overly explicit nudity, for streaming on Twitch use full.\n\n(BETA - full functionality not guaranteed)"
-    new "(Disables erotic content, safe for streaming.)\n\nErotic content will be skipped. To check full previous events, disable sfw, and use Replay Gallery app on player pc.\nSFW Mode can be safely turned on/off mid-game, but already playing event might not be affected till it's triggered again. Half allows not overly explicit nudity, for streaming on Twitch use full.\n\n(BETA - full functionality not guaranteed)"
+    new "(Contenido erótico deshabilitado, seguro para la streaming.)\n\nSe omitirá el contenido erótico. Para ver eventos anteriores completos, deshabilite SFW y use la aplicación Galería de Replay en la PC del jugador.\nModo SFW puede ser quitado seguramente a mitad del juego, pero el evento que ya se está reproduciendo podría no verse afectado hasta que se vuelva a empezar. Medio permite desnudez no explícita, para hacer streaming en Twitch, utiliza el completo.\n\n(BETA - funcionalidad completa no garantizada)"
 
     # game/screens/settings/game.rpy:49
     old "(Disables random combat encounter.)"
-    new "(Disables random combat encounter.)"
+    new "(Desactiva el encuentro de combate aleatorio.)"
 
     # game/screens/settings/game.rpy:51
     old "(Needs restart, disables rollback.)"
-    new "(Needs restart, disables rollback.)"
+    new "(Requiere reinicio, deshabilita el regresar.)"
 
     # game/screens/settings/game.rpy:62
     old "Block Rollback (Version Upgrade)"
-    new "Block Rollback (Version Upgrade)"
+    new "Bloquea el regresar (Actualización de versión)"
 
     # game/screens/settings/game.rpy:65
     old "(Using rollback after loading save from older game version will likely cause errors in the future, this option ensures that when loading save from older version, you can't rollback prior to loading.)"
-    new "(Using rollback after loading save from older game version will likely cause errors in the future, this option ensures that when loading save from older version, you can't rollback prior to loading.)"
+    new "(Regresar después de haber cargado una partida guardada en una versión anterior del juego posiblemente causará errores en el futuro. Esta opción garantiza que al cargar dichas partidas no puedas retroceder desde el punto guardado.)"
 
     # game/screens/settings/game.rpy:77
     old "Quick Menu"
-    new "Quick Menu"
+    new "Menú Rápido"
 
     # game/screens/settings/game.rpy:84
     old "Text Outline Color"
-    new "Text Outline Color"
+    new "Color del Borde de Texto"
 
     # game/screens/settings/game.rpy:86
     old "White"
-    new "White"
+    new "Blanco"
 
     # game/screens/settings/game.rpy:87
     old "Black"
-    new "Black"
+    new "Negro"
 
     # game/screens/settings/game.rpy:88
     old "Gray"
-    new "Gray"
+    new "Gris"
 
     # game/screens/settings/game.rpy:98
     old "{color=#FFD700}Thank you for being part of our community!{/color}"
-    new "{color=#FFD700}Thank you for being part of our community!{/color}"
+    new "{color=#FFD700}¡Gracias por ser parte de nuestra comunidad!{/color}"
 
     # game/screens/settings/game.rpy:100
     old "{gold}(Become a patron of sufficient rank to unlock.){/gold}"
-    new "{gold}(Become a patron of sufficient rank to unlock.){/gold}"
+    new "{gold}(Conviértete en un patrón de rango suficiente para desbloquear.){/gold}"
 
     # game/screens/settings/game.rpy:112
     old "Masks"
-    new "Masks"
+    new "Máscaras"
 
     # game/screens/settings/game.rpy:113
     old "Always show masks"
-    new "Always show masks"
+    new "Siempre mostrar máscaras"
 
     # game/screens/settings/game.rpy:115
     old "Masks Opacity (Idle, Forced only)"
-    new "Masks Opacity (Idle, Forced only)"
+    new "Opacidad de máscaras (Inactivo, solo Forzado)"
 
     # game/screens/settings/game.rpy:118
     old "Current opacity: "
-    new "Current opacity: "
+    new "Opacidad actual: "
 
     # game/screens/settings/game.rpy:121
     old "Masks Opacity (Hover, Forced only)"
-    new "Masks Opacity (Hover, Forced only)"
+    new "Opacidad de máscaras (Hover, solo Forzado)"
 
     # game/screens/settings/game.rpy:129
     old "Menus"
-    new "Menus"
+    new "Menús"
 
     # game/screens/settings/game.rpy:130
     old "Show interaction menu"
-    new "Show interaction menu"
+    new "Mostrar menú de interacción"
 
     # game/screens/settings/game.rpy:131
     old "Show tasks menu"
-    new "Show tasks menu"
+    new "Mostrar menú de tareas"
 
     # game/screens/settings/game.rpy:135
     old "Choice Menu Position"
-    new "Choice Menu Position"
+    new "Posición del Menú de Opciones"
 
     # game/screens/settings/game.rpy:137
     old "Center"
-    new "Center"
+    new "Centro"
 
     # game/screens/settings/game.rpy:167
     old "Textbox Opacity"
-    new "Textbox Opacity"
+    new "Opacidad de Caja de Texto"
 
     # game/screens/settings/game.rpy:174
     old "Text Outline"
-    new "Text Outline"
+    new "Borde de Texto"
 
     # game/screens/settings/game.rpy:183
     old "[persistent.text_outline] pixel-wide border."
-    new "[persistent.text_outline] pixel-wide border."
+    new "[persistent.text_outline] borde del ancho de píxel."
 
     # game/screens/settings/game.rpy:186
     old "Not Set"
-    new "Not Set"
-
+    new "No Establecido"

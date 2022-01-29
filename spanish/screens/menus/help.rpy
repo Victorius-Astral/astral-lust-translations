@@ -4,5 +4,4 @@ translate spanish strings:
 
     # game/screens/menus/help.rpy:4
     old "Beginner Guide"
-    new "Beginner Guide"
-
+    new "Guía para Principiantes"

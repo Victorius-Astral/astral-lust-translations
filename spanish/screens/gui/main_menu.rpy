@@ -4,5 +4,4 @@ translate spanish strings:
 
     # game/screens/gui/main_menu.rpy:92
     old "Legacy (Black Hole)"
-    new "Legacy (Black Hole)"
-
+    new "Legado (Agujero Negro)"

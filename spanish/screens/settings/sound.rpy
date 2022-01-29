@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/screens/settings/sound.rpy:8
     old "Notifications"
-    new "Notificaciónes"
+    new "Notificaciones"
 
     # game/screens/settings/sound.rpy:9
     old "Emotions"
