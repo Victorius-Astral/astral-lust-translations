@@ -209,3 +209,23 @@ translate polish strings:
     old "[[Sanity will become 1%%, your deck will reset. Eldritch influence will weaken.]"
     new "[[Sanity will become 1%%, your deck will reset. Eldritch influence will weaken.]"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/events/dreams/deal_with_the_devil.rpy:36
+    old "Make me lucky [[Lose 40 random attribute points. Gain +2 luck, max 5 purchases] {#visible}"
+    new "Make me lucky [[Lose 40 random attribute points. Gain +2 luck, max 5 purchases] {#visible}"
+
+    # game/events/dreams/deal_with_the_devil.rpy:36
+    old "I want three powerful abilities [[Lose 20 random attribute points. Choose a card from three high rarity choices.]"
+    new "I want three powerful abilities [[Lose 20 random attribute points. Choose a card from three high rarity choices.]"
+
+    # game/events/dreams/deal_with_the_devil.rpy:36
+    old "I want to be a master of my own destiny {#visible}"
+    new "I want to be a master of my own destiny {#visible}"
+
+    # game/events/dreams/deal_with_the_devil.rpy:95
+    old "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
+    new "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
+

@@ -336,3 +336,47 @@ translate polish grace_mass_3_499b26f3:
     # th "Time to go.."
     th "Time to go.."
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/grace/mass_3.rpy:65
+translate polish grace_mass_3_b30fd3aa:
+
+    # "You start to play with her pussy without warning her before she has a change of heart."
+    "You start to play with her pussy without warning her before she has a change of heart."
+
+# game/characters/grace/mass_3.rpy:69
+translate polish grace_mass_3_b01e138a:
+
+    # th "Wow, it seems, she's much more eager than she would like to show."
+    th "Wow, it seems, she's much more eager than she would like to show."
+
+# game/characters/grace/mass_3.rpy:102
+translate polish grace_mass_3_8badc79b:
+
+    # me "Don't worry, I won't hurt you."
+    me "Don't worry, I won't hurt you."
+
+# game/characters/grace/mass_3.rpy:115
+translate polish grace_mass_3_7587d855:
+
+    # "You put your fingers deeper with every move. You can feel her twitch in excitement."
+    "You put your fingers deeper with every move. You can feel her twitch in excitement."
+
+# game/characters/grace/mass_3.rpy:119
+translate polish grace_mass_3_9d1f8b0f:
+
+    # grace "I-I'm.. Mmmm!~"
+    grace "I-I'm.. Mmmm!~"
+
+# game/characters/grace/mass_3.rpy:126
+translate polish grace_mass_3_70cd7f55:
+
+    # "Just as she said it, you can feel her vagina tighten around your fingers, making you unable to take them out."
+    "Just as she said it, you can feel her vagina tighten around your fingers, making you unable to take them out."
+
+# game/characters/grace/mass_3.rpy:147
+translate polish grace_mass_3_43a6aea0:
+
+    # th "One, final look. Shit.. she is gorgeous.."
+    th "One, final look. Shit.. she is gorgeous.."
+

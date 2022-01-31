@@ -662,3 +662,39 @@ translate polish strings:
     old "I was joking"
     new "I was joking"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/characters/alice/ev_8.rpy:144
+    old "Charisma check passed]"
+    new "Charisma check passed]"
+
+    # game/characters/alice/ev_8.rpy:146
+    old "Charisma check failed]"
+    new "Charisma check failed]"
+
+    # game/characters/alice/ev_8.rpy:149
+    old " [Relationship check passed]"
+    new " [Relationship check passed]"
+
+    # game/characters/alice/ev_8.rpy:151
+    old " [Relationship check failed]"
+    new " [Relationship check failed]"
+
+    # game/characters/alice/ev_8.rpy:154
+    old " [Trust check passed]"
+    new " [Trust check passed]"
+
+    # game/characters/alice/ev_8.rpy:156
+    old " [Trust check failed]"
+    new " [Trust check failed]"
+
+    # game/characters/alice/ev_8.rpy:159
+    old " [Lust check passed]"
+    new " [Lust check passed]"
+
+    # game/characters/alice/ev_8.rpy:161
+    old " [Lust check failed]"
+    new " [Lust check failed]"
+

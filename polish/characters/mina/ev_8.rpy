@@ -706,3 +706,11 @@ translate polish strings:
     old "Promise"
     new "Promise"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/characters/mina/ev_8.rpy:41
+    old "I told her I did it with Alice. She wasn't angry, though."
+    new "I told her I did it with Alice. She wasn't angry, though."
+

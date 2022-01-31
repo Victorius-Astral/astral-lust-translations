@@ -414,3 +414,347 @@ translate polish strings:
     old "Range of Motion"
     new "Range of Motion"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/savenia/ev_4.rpy:16
+translate polish savenia_4_14d0c35c:
+
+    # savenia "It's getting better. Too slow, though."
+    savenia "It's getting better. Too slow, though."
+
+# game/characters/savenia/ev_4.rpy:35
+translate polish savenia_4_4b4b40b9:
+
+    # me "They might help you recover. As I said, I'm not a doctor, but if it was ineffective doctors wouldn't make patients do this, right?"
+    me "They might help you recover. As I said, I'm not a doctor, but if it was ineffective doctors wouldn't make patients do this, right?"
+
+# game/characters/savenia/ev_4.rpy:36
+translate polish savenia_4_1833986e:
+
+    # savenia "There might be something in this after all.."
+    savenia "There might be something in this after all.."
+
+# game/characters/savenia/ev_4.rpy:43
+translate polish savenia_4_403e9916:
+
+    # savenia "I have no idea what kind of exercise it should be. I imagine squats won't do."
+    savenia "I have no idea what kind of exercise it should be. I imagine squats won't do."
+
+# game/characters/savenia/ev_4.rpy:76
+translate polish savenia_4_menu1_423d99c9:
+
+    # savenia "And, how is an exercise for arms and pecs gonna help with my leg?"
+    savenia "And, how is an exercise for arms and pecs gonna help with my leg?"
+
+# game/characters/savenia/ev_4.rpy:132
+translate polish savenia_4_part2_4fa42041:
+
+    # me "Let's do it ten times, then rest for a while, and again. We will do five repeats. How does it sound?"
+    me "Let's do it ten times, then rest for a while, and again. We will do five repeats. How does it sound?"
+
+# game/characters/savenia/ev_4.rpy:150
+translate polish savenia_4_part2_a8eb156f:
+
+    # me "Give it some time, it's not gonna help after one round."
+    me "Give it some time, it's not gonna help after one round."
+
+# game/characters/savenia/ev_4.rpy:179
+translate polish savenia_4_part2_a4a0fb5a:
+
+    # me "Oh? What's up with you?"
+    me "Oh? What's up with you?"
+
+# game/characters/savenia/ev_4.rpy:180
+translate polish savenia_4_part2_f75392f1:
+
+    # savenia "You don't like it?"
+    savenia "You don't like it?"
+
+# game/characters/savenia/ev_4.rpy:181
+translate polish savenia_4_part2_50052b4d:
+
+    # me "Of course I do, but I don't understand."
+    me "Of course I do, but I don't understand."
+
+# game/characters/savenia/ev_4.rpy:182
+translate polish savenia_4_part2_254f6633:
+
+    # savenia "I felt like it."
+    savenia "I felt like it."
+
+# game/characters/savenia/ev_4.rpy:183
+translate polish savenia_4_part2_40bb4888:
+
+    # me "Oh, okay.."
+    me "Oh, okay.."
+
+# game/characters/savenia/ev_4.rpy:184
+translate polish savenia_4_part2_fc0a8ec1:
+
+    # savenia "I owe you a favor of two."
+    savenia "I owe you a favor of two."
+
+# game/characters/savenia/ev_4.rpy:185
+translate polish savenia_4_part2_2d0904d2:
+
+    # me "So, this is a repayment of sorts?"
+    me "So, this is a repayment of sorts?"
+
+# game/characters/savenia/ev_4.rpy:186
+translate polish savenia_4_part2_c30a90b6:
+
+    # savenia "Let's call this interest."
+    savenia "Let's call this interest."
+
+# game/characters/savenia/ev_4.rpy:194
+translate polish savenia_4_part2_fbc1f3d2:
+
+    # me "I can't say, I don't like this interest."
+    me "I can't say, I don't like this interest."
+
+# game/characters/savenia/ev_4.rpy:195
+translate polish savenia_4_part2_9c704e53:
+
+    # savenia "Heh, I would be surprised if you thought otherwise."
+    savenia "Heh, I would be surprised if you thought otherwise."
+
+# game/characters/savenia/ev_4.rpy:196
+translate polish savenia_4_part2_d9525af0:
+
+    # me "I am a man after all."
+    me "I am a man after all."
+
+# game/characters/savenia/ev_4.rpy:197
+translate polish savenia_4_part2_fdc2826a:
+
+    # savenia "Heh."
+    savenia "Heh."
+
+# game/characters/savenia/ev_4.rpy:198
+translate polish savenia_4_part2_b7a83025:
+
+    # me "Fuck."
+    me "Fuck."
+
+# game/characters/savenia/ev_4.rpy:206
+translate polish savenia_4_part2_a4e385d6:
+
+    # savenia "Does it feel good?"
+    savenia "Does it feel good?"
+
+# game/characters/savenia/ev_4.rpy:207
+translate polish savenia_4_part2_157559ab:
+
+    # me "Hell yea."
+    me "Hell yea."
+
+# game/characters/savenia/ev_4.rpy:208
+translate polish savenia_4_part2_f3ca118f:
+
+    # me "I can't help but praise your tits."
+    me "I can't help but praise your tits."
+
+# game/characters/savenia/ev_4.rpy:209
+translate polish savenia_4_part2_2f433d86:
+
+    # savenia "Thanks."
+    savenia "Thanks."
+
+# game/characters/savenia/ev_4.rpy:210
+translate polish savenia_4_part2_9fa6b13e:
+
+    # me "You don't seem to like this compliment much."
+    me "You don't seem to like this compliment much."
+
+# game/characters/savenia/ev_4.rpy:211
+translate polish savenia_4_part2_690185f3:
+
+    # savenia "I've heard it a lot."
+    savenia "I've heard it a lot."
+
+# game/characters/savenia/ev_4.rpy:219
+translate polish savenia_4_part2_c84d0038:
+
+    # me "Your outfit can be seen as a showcase."
+    me "Your outfit can be seen as a showcase."
+
+# game/characters/savenia/ev_4.rpy:220
+translate polish savenia_4_part2_0e6eb0e4:
+
+    # savenia "I've heard that too."
+    savenia "I've heard that too."
+
+# game/characters/savenia/ev_4.rpy:221
+translate polish savenia_4_part2_b32316bf:
+
+    # me "No wonder."
+    me "No wonder."
+
+# game/characters/savenia/ev_4.rpy:222
+translate polish savenia_4_part2_d1c35c75:
+
+    # savenia "Do you always talk so much?"
+    savenia "Do you always talk so much?"
+
+# game/characters/savenia/ev_4.rpy:223
+translate polish savenia_4_part2_7e9d4ce4:
+
+    # me "Sometimes."
+    me "Sometimes."
+
+# game/characters/savenia/ev_4.rpy:227
+translate polish savenia_4_part2_7e07c87b:
+
+    # savenia "Ah.. Now that we are complimenting, I must say your dick is not of an average size."
+    savenia "Ah.. Now that we are complimenting, I must say your dick is not of an average size."
+
+# game/characters/savenia/ev_4.rpy:228
+translate polish savenia_4_part2_12e6f9db:
+
+    # me "It hardly could be described as average. Let's call it a beast, instead."
+    me "It hardly could be described as average. Let's call it a beast, instead."
+
+# game/characters/savenia/ev_4.rpy:229
+translate polish savenia_4_part2_c5637f0a:
+
+    # savenia "..."
+    savenia "..."
+
+# game/characters/savenia/ev_4.rpy:230
+translate polish savenia_4_part2_314086b3:
+
+    # me "What?"
+    me "What?"
+
+# game/characters/savenia/ev_4.rpy:231
+translate polish savenia_4_part2_be52fc90:
+
+    # savenia "Forget I said anything.."
+    savenia "Forget I said anything.."
+
+# game/characters/savenia/ev_4.rpy:232
+translate polish savenia_4_part2_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/characters/savenia/ev_4.rpy:233
+translate polish savenia_4_part2_955e8225:
+
+    # me "Whatever. I'll be coming soon."
+    me "Whatever. I'll be coming soon."
+
+# game/characters/savenia/ev_4.rpy:234
+translate polish savenia_4_part2_47601737:
+
+    # savenia "Got it."
+    savenia "Got it."
+
+# game/characters/savenia/ev_4.rpy:237
+translate polish savenia_4_part2_57f0a9e0:
+
+    # me "Fuck!"
+    me "Fuck!"
+
+# game/characters/savenia/ev_4.rpy:238
+translate polish savenia_4_part2_c8cf92b6:
+
+    # th "Shit, I will get dirty.."
+    th "Shit, I will get dirty.."
+
+# game/characters/savenia/ev_4.rpy:242
+translate polish savenia_4_part2_86c986b4:
+
+    # savenia "You should go clean yourself."
+    savenia "You should go clean yourself."
+
+# game/characters/savenia/ev_4.rpy:243
+translate polish savenia_4_part2_ecd768ba:
+
+    # me "Yeah."
+    me "Yeah."
+
+# game/characters/savenia/ev_4.rpy:244
+translate polish savenia_4_part2_644c4edd:
+
+    # savenia "Don't dirty my bedsheets."
+    savenia "Don't dirty my bedsheets."
+
+# game/characters/savenia/ev_4.rpy:245
+translate polish savenia_4_part2_3820771a_1:
+
+    # me "..."
+    me "..."
+
+# game/characters/savenia/ev_4.rpy:251
+translate polish savenia_4_part2_2edd7ee2:
+
+    # savenia "Thanks for this range of motion thing."
+    savenia "Thanks for this range of motion thing."
+
+# game/characters/savenia/ev_4.rpy:252
+translate polish savenia_4_part2_166e7fd5:
+
+    # me "I will come to help you with your leg every day."
+    me "I will come to help you with your leg every day."
+
+# game/characters/savenia/ev_4.rpy:253
+translate polish savenia_4_part2_8429a86b:
+
+    # savenia "That won't be necessary. My leg is not in as bad of a shape that I can't move it up and down by myself."
+    savenia "That won't be necessary. My leg is not in as bad of a shape that I can't move it up and down by myself."
+
+# game/characters/savenia/ev_4.rpy:254
+translate polish savenia_4_part2_87a76aa3:
+
+    # me "Are you sure?"
+    me "Are you sure?"
+
+# game/characters/savenia/ev_4.rpy:255
+translate polish savenia_4_part2_f269827f:
+
+    # savenia "I got it."
+    savenia "I got it."
+
+# game/characters/savenia/ev_4.rpy:256
+translate polish savenia_4_part2_525e9d61:
+
+    # me "Fine, but if you need help with it, tell me. Don't be stubborn."
+    me "Fine, but if you need help with it, tell me. Don't be stubborn."
+
+# game/characters/savenia/ev_4.rpy:257
+translate polish savenia_4_part2_99f4a37b_1:
+
+    # savenia "Whatever."
+    savenia "Whatever."
+
+# game/characters/savenia/ev_4.rpy:258
+translate polish savenia_4_part2_d3a930f9:
+
+    # me "At least pretend to take my words to heart.."
+    me "At least pretend to take my words to heart.."
+
+# game/characters/savenia/ev_4.rpy:259
+translate polish savenia_4_part2_5f805d1c:
+
+    # savenia "I'm not good at pretending."
+    savenia "I'm not good at pretending."
+
+# game/characters/savenia/ev_4.rpy:260
+translate polish savenia_4_part2_87ddf6bd:
+
+    # me "Fine, whatever.."
+    me "Fine, whatever.."
+
+# game/characters/savenia/ev_4.rpy:261
+translate polish savenia_4_part2_a6a3c53d:
+
+    # me "I'll be going then, see ya."
+    me "I'll be going then, see ya."
+
+# game/characters/savenia/ev_4.rpy:262
+translate polish savenia_4_part2_0ed012b0:
+
+    # savenia "Take care."
+    savenia "Take care."
+

@@ -126,3 +126,17 @@ translate polish cat_pat_player_0b761bdb:
     # me "You're welcome..."
     me "You're welcome..."
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/cat/pat.rpy:17
+translate polish cat_pat_kitchen_5a22204e:
+
+    # me "Hello, little one."
+    me "Hello, little one."
+
+# game/characters/cat/pat.rpy:42
+translate polish cat_pat_lobby_075be167:
+
+    # me "Fine, don't glare at me like this. I'll let you rest."
+    me "Fine, don't glare at me like this. I'll let you rest."
+

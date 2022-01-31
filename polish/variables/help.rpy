@@ -313,3 +313,15 @@ translate polish strings:
     old "13. You can find collectibles to unlock additional pictures on pc. Look for golden condoms and condom packs."
     new "13. You can find collectibles to unlock additional pictures on pc. Look for golden condoms and condom packs."
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/variables/help.rpy:3
+    old "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over. Be careful.{/color}"
+    new "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over. Be careful.{/color}"
+
+    # game/variables/help.rpy:3
+    old "Forge allows you to do mostly two things:"
+    new "Forge allows you to do mostly two things:"
+

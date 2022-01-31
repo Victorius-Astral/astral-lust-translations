@@ -524,3 +524,11 @@ translate polish strings:
     old "Not at all"
     new "Not at all"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/characters/mina/ev_9.rpy:163
+    old "She wanted to sleep with me saying I make her feel secure. I promised her I would welcome her again."
+    new "She wanted to sleep with me saying I make her feel secure. I promised her I would welcome her again."
+

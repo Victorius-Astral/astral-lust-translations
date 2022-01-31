@@ -1000,3 +1000,221 @@ translate polish strings:
     old "Pretend you don't hear her"
     new "Pretend you don't hear her"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/lexi/ev_11.rpy:11
+translate polish lexi_11_73555af4:
+
+    # me "What the hell has happened to you?!"
+    me "What the hell has happened to you?!"
+
+# game/characters/lexi/ev_11.rpy:19
+translate polish lexi_11_264f319f:
+
+    # me "How did you use it, then?"
+    me "How did you use it, then?"
+
+# game/characters/lexi/ev_11.rpy:27
+translate polish lexi_11_bf2d48a2:
+
+    # me "Home at last."
+    me "Home at last."
+
+# game/characters/lexi/ev_11.rpy:30
+translate polish lexi_11_f57b53f8:
+
+    # lexi "Nothing really. Bullets and meds are lacking, so I guess I would like to find these things the most."
+    lexi "Nothing really. Bullets and meds are lacking, so I guess I would like to find these things the most."
+
+# game/characters/lexi/ev_11.rpy:32
+translate polish lexi_11_fa6759b7:
+
+    # lexi "I don't know where to get the things we lack the most, so exploration itself is my goal, I guess."
+    lexi "I don't know where to get the things we lack the most, so exploration itself is my goal, I guess."
+
+# game/characters/lexi/ev_11.rpy:36
+translate polish lexi_11_1a2007cc:
+
+    # me "Yeah, you should go take a shower and change."
+    me "Yeah, you should go take a shower and change."
+
+# game/characters/lexi/ev_11.rpy:51
+translate polish lexi_11_be1c5ae4:
+
+    # th "Well, I doubt she would be angry about something like this. She's not so petty."
+    th "Well, I doubt she would be angry about something like this. She's not so petty."
+
+# game/characters/lexi/ev_11.rpy:77
+translate polish lexi_11_1f1f0643:
+
+    # lexi "You need to be careful. What if it was an intruder? He would hurt you."
+    lexi "You need to be careful. What if it was an intruder? He would hurt you."
+
+# game/characters/lexi/ev_11.rpy:82
+translate polish lexi_11_01798ebc:
+
+    # me "Okay. So, what do you need me for?"
+    me "Okay. So, what do you need me for?"
+
+# game/characters/lexi/ev_11.rpy:90
+translate polish lexi_11_part2_b059c2c8:
+
+    # me "Well, it doesn't really matter, right?"
+    me "Well, it doesn't really matter, right?"
+
+# game/characters/lexi/ev_11.rpy:91
+translate polish lexi_11_part2_14ac27bd:
+
+    # lexi "That's not how you use the word sassy."
+    lexi "That's not how you use the word sassy."
+
+# game/characters/lexi/ev_11.rpy:96
+translate polish lexi_11_part2_89e0f582:
+
+    # me "Why is there still a fresh water?"
+    me "Why is there still a fresh water?"
+
+# game/characters/lexi/ev_11.rpy:106
+translate polish lexi_11_part2_6d591b0c:
+
+    # lexi "When you'd first awakened here, my first thought was to kill you.."
+    lexi "When you'd first awakened here, my first thought was to kill you.."
+
+# game/characters/lexi/ev_11.rpy:107
+translate polish lexi_11_part2_c5d22fd6:
+
+    # th "Then it's good she has changed her mind.. Would I still resurrect in the hotel if she did it?"
+    th "Then it's good she has changed her mind.. Would I still resurrect in the hotel if she did it?"
+
+# game/characters/lexi/ev_11.rpy:111
+translate polish lexi_11_part2_bda40286:
+
+    # lexi "I was worried about you being dangerous, but for some reason, I changed my mind."
+    lexi "I was worried about you being dangerous, but for some reason, I changed my mind."
+
+# game/characters/lexi/ev_11.rpy:112
+translate polish lexi_11_part2_3828aee0:
+
+    # lexi "Suddenly, you looked defenseless to me; adorable actually."
+    lexi "Suddenly, you looked defenseless to me; adorable actually."
+
+# game/characters/lexi/ev_11.rpy:116
+translate polish lexi_11_part2_b4e0d576:
+
+    # lexi "Haha! You're so strong, my hero."
+    lexi "Haha! You're so strong, my hero."
+
+# game/characters/lexi/ev_11.rpy:124
+translate polish lexi_11_part2_02eb3584:
+
+    # lexi "While sometimes I have a hard time understanding your actions, like, why would you keep ice cream in your pocket?"
+    lexi "While sometimes I have a hard time understanding your actions, like, why would you keep ice cream in your pocket?"
+
+# game/characters/lexi/ev_11.rpy:129
+translate polish lexi_11_part2_2208b1f5:
+
+    # me "What can I say? I'm a man of many talents."
+    me "What can I say? I'm a man of many talents."
+
+# game/characters/lexi/ev_11.rpy:132
+translate polish lexi_11_part2_12c55354:
+
+    # lexi "It's hard not to notice."
+    lexi "It's hard not to notice."
+
+# game/characters/lexi/ev_11.rpy:133
+translate polish lexi_11_part2_1b4d398f:
+
+    # me "It is also hard not to notice you are in a towel. Where are your clothes?"
+    me "It is also hard not to notice you are in a towel. Where are your clothes?"
+
+# game/characters/lexi/ev_11.rpy:156
+translate polish lexi_11_part3_523255ac:
+
+    # lexi "If everything was normal, I would want to be sure, check, and wait for more. But it is what it is."
+    lexi "If everything was normal, I would want to be sure, check, and wait for more. But it is what it is."
+
+# game/characters/lexi/ev_11.rpy:159
+translate polish lexi_11_part3_d5c53657:
+
+    # lexi "We can die anytime, so, umm.."
+    lexi "We can die anytime, so, umm.."
+
+# game/characters/lexi/ev_11.rpy:184
+translate polish lexi_11_part3_39820204:
+
+    # me "I'm one lucky bastard, for you to feel like this about me."
+    me "I'm one lucky bastard, for you to feel like this about me."
+
+# game/characters/lexi/ev_11.rpy:187
+translate polish lexi_11_part3_94e232d6:
+
+    # lexi "Mina tends to say, you're one unlucky bastard."
+    lexi "Mina tends to say, you're one unlucky bastard."
+
+# game/characters/lexi/ev_11.rpy:222
+translate polish lexi_11_part3_f5e5fdbf:
+
+    # lexi "It hurts, but it also feels good. It's weird, [me]."
+    lexi "It hurts, but it also feels good. It's weird, [me]."
+
+# game/characters/lexi/ev_11.rpy:274
+translate polish lexi_11_part3_f3d1bbb0:
+
+    # lexi "I used to think differently."
+    lexi "I used to think differently."
+
+# game/characters/lexi/ev_11.rpy:294
+translate polish lexi_11_part3_611e3227:
+
+    # "You take a nap with a naked [lexi] in tow."
+    "You take a nap with a naked [lexi] in tow."
+
+# game/characters/lexi/ev_11.rpy:297
+translate polish lexi_11_part3_26539415:
+
+    # "Many hours pass by, as you enjoy each other's presence."
+    "Many hours pass by, as you enjoy each other's presence."
+
+# game/characters/lexi/ev_11.rpy:304
+translate polish lexi_11_part3_745a75f4:
+
+    # lexi "It's night already.."
+    lexi "It's night already.."
+
+# game/characters/lexi/ev_11.rpy:310
+translate polish lexi_11_part3_8e1f2ac5:
+
+    # me "I wouldn't be surprised if she looked up for you here already."
+    me "I wouldn't be surprised if she looked up for you here already."
+
+# game/characters/lexi/ev_11.rpy:313
+translate polish lexi_11_part3_c0424cb9:
+
+    # lexi "Then, I'll get a lot of question once I'm back."
+    lexi "Then, I'll get a lot of question once I'm back."
+
+# game/characters/lexi/ev_11.rpy:324
+translate polish lexi_11_part3_a529b37f:
+
+    # me "I think I know what you're talking about."
+    me "I think I know what you're talking about."
+
+# game/characters/lexi/ev_11.rpy:334
+translate polish lexi_11_part3_7160a415:
+
+    # "You two talked for a long time, laughing and gossiping, till you fell asleep again."
+    "You two talked for a long time, laughing and gossiping, till you fell asleep again."
+
+# game/characters/lexi/ev_11.rpy:353
+translate polish lexi_11_part3_5b3c804e:
+
+    # lexi "Ha, ha, great idea."
+    lexi "Ha, ha, great idea."
+
+# game/characters/lexi/ev_11.rpy:356
+translate polish lexi_11_part3_98679773:
+
+    # lexi "I'll just tell her to go ask you, instead."
+    lexi "I'll just tell her to go ask you, instead."
+

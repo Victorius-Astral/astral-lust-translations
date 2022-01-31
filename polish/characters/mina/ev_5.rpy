@@ -1510,3 +1510,45 @@ translate polish strings:
     old "She already learned her lesson"
     new "She already learned her lesson"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/mina/ev_5.rpy:30
+translate polish mina_5_e1dfcfa9:
+
+    # me "Why did you wake me up? It's the middle of the night!"
+    me "Why did you wake me up? It's the middle of the night!"
+
+# game/characters/mina/ev_5.rpy:141
+translate polish mina_5_26efd3d9:
+
+    # th "Not a bad ending I guess. At least I'll live on in the memories of some beautiful women haha!"
+    th "Not a bad ending I guess. At least I'll live on in the memories of some beautiful women haha!"
+
+# game/characters/mina/ev_5.rpy:220
+translate polish mina_5_1_587dc3dd:
+
+    # "After regaining consciousness, your first thoughts are of the girls' safety."
+    "After regaining consciousness, your first thoughts are of the girls' safety."
+
+# game/characters/mina/ev_5.rpy:311
+translate polish mina_5_2_c0981deb:
+
+    # me "It wasn't. I suddenly woke up inside my room. I felt like someone poured a bucket of cold water on me."
+    me "It wasn't. I suddenly woke up inside my room. I felt like someone poured a bucket of cold water on me."
+
+# game/characters/mina/ev_5.rpy:432
+translate polish mina_5_5_13605053:
+
+    # lexi "It's bad. She slept for a while but woke up screaming.. I've never seen her so scared before. She was soaked with sweat."
+    lexi "It's bad. She slept for a while but woke up screaming.. I've never seen her so scared before. She was soaked with sweat."
+
+translate polish strings:
+
+    # game/characters/mina/ev_5.rpy:326
+    old "I have revealed to the girls I can resurrect."
+    new "I have revealed to the girls I can resurrect."
+
+    # game/characters/mina/ev_5.rpy:476
+    old "I failed to recover the pendant and Mina tried to retrieve it on her own. She almost got raped, but thankfully, Lexi and I were swift enough to prevent the worst from happening. I hope she can overcome the trauma soon."
+    new "I failed to recover the pendant and Mina tried to retrieve it on her own. She almost got raped, but thankfully, Lexi and I were swift enough to prevent the worst from happening. I hope she can overcome the trauma soon."
+

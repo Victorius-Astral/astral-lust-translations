@@ -210,3 +210,15 @@ translate polish strings:
     old "If you stay the night - {trust}lust + 1{/trust}, {cor}-1% corruption{/cor}"
     new "If you stay the night - {trust}lust + 1{/trust}, {cor}-1% corruption{/cor}"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/mods/modes/walkthrough/stories/alice.rpy:3
+    old "You better tell her you love her or she's gonna be hella pissed."
+    new "You better tell her you love her or she's gonna be hella pissed."
+
+    # game/mods/modes/walkthrough/stories/alice.rpy:3
+    old "'How could I reject a lady?' That's the answer Alice is looking forward to."
+    new "'How could I reject a lady?' That's the answer Alice is looking forward to."
+

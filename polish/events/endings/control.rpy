@@ -110,3 +110,11 @@ translate polish strings:
     old "Your sanity fallen to 0%!"
     new "Your sanity fallen to 0%!"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/events/endings/control.rpy:32
+translate polish end_control_b9863f18:
+
+    # me "Hahaha, come out, come out, COMEEE OUT!"
+    me "Hahaha, come out, come out, COMEEE OUT!"
+

@@ -408,3 +408,23 @@ translate polish strings:
     old "Will I?"
     new "Will I?"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/events/dreams/millionaire.rpy:82
+translate polish d_Millionaire_2_menu1_8004a140:
+
+    # th "My friend? Do I have a friend called Aharon?"
+    th "My friend? Do I have a friend called Aharon?"
+
+# game/events/dreams/millionaire.rpy:169
+translate polish d_Millionaire_2_part2_32f410cf:
+
+    # "After a while your secretary returns, this time, not alone."
+    "After a while your secretary returns, this time, not alone."
+
+# game/events/dreams/millionaire.rpy:188
+translate polish d_Millionaire_2_part2_7c2ac7f4:
+
+    # aharon "If you had a chance to achieve everything you ever wished to, spend eternity with the people you love if you had a chance to be happy.."
+    aharon "If you had a chance to achieve everything you ever wished to, spend eternity with the people you love if you had a chance to be happy.."
+

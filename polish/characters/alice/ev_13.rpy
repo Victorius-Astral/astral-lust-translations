@@ -240,3 +240,11 @@ translate polish strings:
     old "I love you"
     new "I love you"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/alice/ev_13.rpy:16
+translate polish alice_13_c4a7f2e0:
+
+    # alice "You piss me off. Like, a loooot."
+    alice "You piss me off. Like, a loooot."
+

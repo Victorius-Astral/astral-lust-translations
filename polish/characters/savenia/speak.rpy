@@ -142,3 +142,65 @@ translate polish strings:
     old "Tell me about your group"
     new "Tell me about your group"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/savenia/speak.rpy:41
+translate polish speak_savenia_sex_menu_af5bf166:
+
+    # savenia "And, for what reason would I do this?"
+    savenia "And, for what reason would I do this?"
+
+# game/characters/savenia/speak.rpy:42
+translate polish speak_savenia_sex_menu_18055ee8:
+
+    # me "For pleasure. I think we will both like it."
+    me "For pleasure. I think we will both like it."
+
+# game/characters/savenia/speak.rpy:47
+translate polish speak_savenia_sex_menu_5dffd61a:
+
+    # savenia "Fine, whatever."
+    savenia "Fine, whatever."
+
+# game/characters/savenia/speak.rpy:48
+translate polish speak_savenia_sex_menu_f83534c0:
+
+    # th "That was surprisingly easy."
+    th "That was surprisingly easy."
+
+# game/characters/savenia/speak.rpy:59
+translate polish speak_savenia_question1_94f1d2d0:
+
+    # savenia "We are called Wasteland Outlaws, and my brother Darr is our leader."
+    savenia "We are called Wasteland Outlaws, and my brother Darr is our leader."
+
+# game/characters/savenia/speak.rpy:61
+translate polish speak_savenia_question1_4a97ab67:
+
+    # savenia "We travel through the city on our bikes, mainly scavenging supplies."
+    savenia "We travel through the city on our bikes, mainly scavenging supplies."
+
+# game/characters/savenia/speak.rpy:68
+translate polish speak_savenia_question1_2a769a25:
+
+    # savenia "There are two dozens of us. We used to have more people, but they didn't make it."
+    savenia "There are two dozens of us. We used to have more people, but they didn't make it."
+
+# game/characters/savenia/speak.rpy:73
+translate polish speak_savenia_question1_7830d4bf:
+
+    # me "They died despite their guns, and a rocket launcher?"
+    me "They died despite their guns, and a rocket launcher?"
+
+# game/characters/savenia/speak.rpy:79
+translate polish speak_savenia_question1_3469acda:
+
+    # savenia "Anything that is humanly possible. There are some things humans just can't overcome."
+    savenia "Anything that is humanly possible. There are some things humans just can't overcome."
+
+translate polish strings:
+
+    # game/characters/savenia/speak.rpy:8
+    old "How is your leg? {gold}(Story){/gold}"
+    new "How is your leg? {gold}(Story){/gold}"
+

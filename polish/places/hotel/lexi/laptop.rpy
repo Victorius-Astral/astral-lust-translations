@@ -58,3 +58,11 @@ translate polish strings:
     old "Try again"
     new "Try again"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/places/hotel/lexi/laptop.rpy:29
+translate polish room_lexi_laptop_insert_f80bd77c:
+
+    # victorius "{gold}Nice try! You can try this in another game.{/gold}"
+    victorius "{gold}Nice try! You can try this in another game.{/gold}"
+

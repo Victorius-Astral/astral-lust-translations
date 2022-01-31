@@ -50,3 +50,11 @@ translate polish room_f1_cupboard_menu1_628ba9fa:
     # me "I shouldn't eat at night."
     me "I shouldn't eat at night."
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/places/hotel/f1/cupboard.rpy:31
+    old "Wallpaper 'Secret 1' unlocked!"
+    new "Wallpaper 'Secret 1' unlocked!"
+

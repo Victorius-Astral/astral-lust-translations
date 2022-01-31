@@ -466,3 +466,17 @@ translate polish strings:
     old "Reassure her"
     new "Reassure her"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/mina/ev_7.rpy:118
+translate polish mina_7_2_d61975be:
+
+    # mina "Naturally. How could I forget?"
+    mina "Naturally. How could I forget?"
+
+translate polish strings:
+
+    # game/characters/mina/ev_7.rpy:34
+    old "Sandwich"
+    new "Sandwich"
+

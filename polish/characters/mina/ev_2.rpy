@@ -258,3 +258,11 @@ translate polish mina_2_f551ceb0:
     # mina "Thanks! She'll be sooo happy!"
     mina "Thanks! She'll be sooo happy!"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/characters/mina/ev_2.rpy:71
+    old "She tasked me to find a golden pendant from S&M Jewellery Shop for Lexi's birthday."
+    new "She tasked me to find a golden pendant from S&M Jewellery Shop for Lexi's birthday."
+

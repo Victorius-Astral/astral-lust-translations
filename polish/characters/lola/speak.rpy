@@ -134,3 +134,11 @@ translate polish strings:
     old "Let's have fun {lust}(Lust+){/lust}"
     new "Let's have fun {lust}(Lust+){/lust}"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/lola/speak.rpy:45
+translate polish speak_lola_menu1_b358e020:
+
+    # lola "You're lost in your thoughts again."
+    lola "You're lost in your thoughts again."
+

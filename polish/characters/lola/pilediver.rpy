@@ -170,3 +170,11 @@ translate polish lola_pilediver_cum_96a9dcb6:
     # me "Again.. What a girl she is."
     me "Again.. What a girl she is."
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/lola/pilediver.rpy:43
+translate polish lola_pilediver_slow_a9af1e5e:
+
+    # th "Why does she excite me so much?"
+    th "Why does she excite me so much?"
+

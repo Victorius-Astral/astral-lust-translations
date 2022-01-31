@@ -392,3 +392,11 @@ translate polish strings:
     old "I won't play your games"
     new "I won't play your games"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/characters/alice/ev_2.rpy:84
+    old "Toying with me seems to be her hobby."
+    new "Toying with me seems to be her hobby."
+

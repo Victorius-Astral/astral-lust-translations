@@ -216,3 +216,23 @@ translate polish strings:
     old "Go out"
     new "Go out"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/grace/tj_1.rpy:120
+translate polish grace_tj_1_fast_7eba37dd:
+
+    # grace "So, it's very nice, tee-hee~"
+    grace "So, it's very nice, tee-hee~"
+
+# game/characters/grace/tj_1.rpy:162
+translate polish grace_tj_1_before_62c8c06e:
+
+    # grace "Will I get dirty again?"
+    grace "Will I get dirty again?"
+
+# game/characters/grace/tj_1.rpy:168
+translate polish grace_tj_1_before_703fb775:
+
+    # me "Sorry to say that, but it's amazing."
+    me "Sorry to say that, but it's amazing."
+

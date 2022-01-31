@@ -432,3 +432,175 @@ translate polish strings:
     old "Ending - Corrupted"
     new "Ending - Corrupted"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/variables/replays.rpy:30
+    old "Talk About Outfits"
+    new "Talk About Outfits"
+
+    # game/variables/replays.rpy:30
+    old "Horse Riding Lessons"
+    new "Horse Riding Lessons"
+
+    # game/variables/replays.rpy:89
+    old "Agoraphobia"
+    new "Agoraphobia"
+
+    # game/variables/replays.rpy:89
+    old "Trouble at the Market"
+    new "Trouble at the Market"
+
+    # game/variables/replays.rpy:111
+    old "Past Lives part 1"
+    new "Past Lives part 1"
+
+    # game/variables/replays.rpy:130
+    old "Play House"
+    new "Play House"
+
+    # game/variables/replays.rpy:151
+    old "Spider Problem"
+    new "Spider Problem"
+
+    # game/variables/replays.rpy:151
+    old "Returning Her Bike"
+    new "Returning Her Bike"
+
+    # game/variables/replays.rpy:151
+    old "Leaving for Home"
+    new "Leaving for Home"
+
+    # game/variables/replays.rpy:151
+    old "What has gotten into her?"
+    new "What has gotten into her?"
+
+    # game/variables/replays.rpy:168
+    old "Life with Alice"
+    new "Life with Alice"
+
+    # game/variables/replays.rpy:188
+    old "Bandits - Assault"
+    new "Bandits - Assault"
+
+    # game/variables/replays.rpy:188
+    old "Midnight Kiss"
+    new "Midnight Kiss"
+
+    # game/variables/replays.rpy:188
+    old "Damsel in Distress - Soldier"
+    new "Damsel in Distress - Soldier"
+
+    # game/variables/replays.rpy:188
+    old "Damsel in Distress - Bimbo"
+    new "Damsel in Distress - Bimbo"
+
+    # game/variables/replays.rpy:188
+    old "Damsel in Distress - Brunette"
+    new "Damsel in Distress - Brunette"
+
+    # game/variables/replays.rpy:188
+    old "Damsel in Distress - Devotee"
+    new "Damsel in Distress - Devotee"
+
+    # game/variables/replays.rpy:188
+    old "Damsel in Distress - Milf"
+    new "Damsel in Distress - Milf"
+
+    # game/variables/replays.rpy:188
+    old "Damsel in Distress - Pregnant"
+    new "Damsel in Distress - Pregnant"
+
+    # game/variables/replays.rpy:188
+    old "Damsel in Distress - Bandit"
+    new "Damsel in Distress - Bandit"
+
+    # game/variables/replays.rpy:188
+    old "Injured Dragon"
+    new "Injured Dragon"
+
+    # game/variables/replays.rpy:188
+    old "Chased Trader's Daughter"
+    new "Chased Trader's Daughter"
+
+    # game/variables/replays.rpy:230
+    old "Ending - Assault on Grace"
+    new "Ending - Assault on Grace"
+
+    # game/variables/replays.rpy:230
+    old "Christmas - The Beginning"
+    new "Christmas - The Beginning"
+
+    # game/variables/replays.rpy:230
+    old "Christmas - Deer Gracie"
+    new "Christmas - Deer Gracie"
+
+    # game/variables/replays.rpy:230
+    old "Christmas - Santa Lexi"
+    new "Christmas - Santa Lexi"
+
+    # game/variables/replays.rpy:230
+    old "Christmas - Kitty"
+    new "Christmas - Kitty"
+
+    # game/variables/replays.rpy:230
+    old "Christmas - Alice the Christmas Elf"
+    new "Christmas - Alice the Christmas Elf"
+
+    # game/variables/replays.rpy:230
+    old "Christmas - Sober"
+    new "Christmas - Sober"
+
+    # game/variables/replays.rpy:230
+    old "Christmas - Holy Night"
+    new "Christmas - Holy Night"
+
+    # game/variables/replays.rpy:245
+    old "Fox Hunt"
+    new "Fox Hunt"
+
+    # game/variables/replays.rpy:245
+    old "Building Shrine part 1"
+    new "Building Shrine part 1"
+
+    # game/variables/replays.rpy:245
+    old "Building Shrine part 2"
+    new "Building Shrine part 2"
+
+    # game/variables/replays.rpy:245
+    old "Building Shrine part 3"
+    new "Building Shrine part 3"
+
+    # game/variables/replays.rpy:245
+    old "Building Shrine part 4"
+    new "Building Shrine part 4"
+
+    # game/variables/replays.rpy:245
+    old "Building Shrine part 5"
+    new "Building Shrine part 5"
+
+    # game/variables/replays.rpy:245
+    old "Magical Outfit"
+    new "Magical Outfit"
+
+    # game/variables/replays.rpy:245
+    old "The Arrival"
+    new "The Arrival"
+
+    # game/variables/replays.rpy:257
+    old "Surprising Treasure"
+    new "Surprising Treasure"
+
+    # game/variables/replays.rpy:257
+    old "At the Hotel"
+    new "At the Hotel"
+
+    # game/variables/replays.rpy:257
+    old "Tight Fit Outfit"
+    new "Tight Fit Outfit"
+
+    # game/variables/replays.rpy:257
+    old "Treasure Finder"
+    new "Treasure Finder"
+

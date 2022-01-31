@@ -294,3 +294,41 @@ translate polish strings:
     old "Make her cum"
     new "Make her cum"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/lexi/cunn_1.rpy:77
+translate polish lexi_cunn_1_62271432:
+
+    # me "Take it easy. It will feel good, I promise."
+    me "Take it easy. It will feel good, I promise."
+
+# game/characters/lexi/cunn_1.rpy:147
+translate polish lexi_cunn_1_slow_293e9080:
+
+    # lexi "Eehk!"
+    lexi "Eehk!"
+
+# game/characters/lexi/cunn_1.rpy:150
+translate polish lexi_cunn_1_slow_9edbd9eb:
+
+    # me "Is it good weird or bad weird?"
+    me "Is it good weird or bad weird?"
+
+# game/characters/lexi/cunn_1.rpy:159
+translate polish lexi_cunn_1_fast_96c941f6:
+
+    # me "That's it, baby, scream my name."
+    me "That's it, baby, scream my name."
+
+# game/characters/lexi/cunn_1.rpy:173
+translate polish lexi_cunn_1_before_2ffc2c6c:
+
+    # lexi "Yeah, it tickles, but it's so weird and so good.."
+    lexi "Yeah, it tickles, but it's so weird and so good.."
+
+# game/characters/lexi/cunn_1.rpy:244
+translate polish lexi_cunn_1_story_90504657:
+
+    # lexi "Can we do it... again sometime?"
+    lexi "Can we do it... again sometime?"
+

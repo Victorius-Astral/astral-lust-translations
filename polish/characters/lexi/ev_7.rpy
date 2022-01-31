@@ -444,3 +444,17 @@ translate polish strings:
     old "Ask if she is okay"
     new "Ask if she is okay"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/lexi/ev_7.rpy:77
+translate polish lexi_7_3_904e899a:
+
+    # "You have managed to defeat the monster."
+    "You have managed to defeat the monster."
+
+translate polish strings:
+
+    # game/characters/lexi/ev_7.rpy:130
+    old "Most monsters are territorial, it's rare to see two beasts close to one another, they would typically eliminate anything that enters their territory."
+    new "Most monsters are territorial, it's rare to see two beasts close to one another, they would typically eliminate anything that enters their territory."
+
