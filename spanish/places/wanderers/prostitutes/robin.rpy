@@ -4,295 +4,295 @@
 translate spanish w_booth_robin_5d695e8c:
 
     # robin "Hello, [me_robin]. Madam told me to make you happy."
-    robin "Hello, [me_robin]. Madam told me to make you happy."
+    robin "Hola, [me_robin]. La Madam me dijo que te hiciera feliz."
 
 # game/places/wanderers/prostitutes/robin.rpy:39
 translate spanish w_booth_robin_2ebfa009:
 
     # me "I can think of a way or two."
-    me "I can think of a way or two."
+    me "Puedo pensar de una manera o dos."
 
 # game/places/wanderers/prostitutes/robin.rpy:53
 translate spanish w_booth_robin_menu1_f5fce709:
 
     # robin "Of course, [me_robin]. I'll remember that."
-    robin "Of course, [me_robin]. I'll remember that."
+    robin "Por supuesto, [me_robin]. Lo recordaré."
 
 # game/places/wanderers/prostitutes/robin.rpy:54
 translate spanish w_booth_robin_menu1_390858d1:
 
     # me "Thanks, [robin]."
-    me "Thanks, [robin]."
+    me "Gracias, [robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:59
 translate spanish w_booth_robin_menu1_73588ee7:
 
     # robin "You won't get refund, [me_robin]."
-    robin "You won't get refund, [me_robin]."
+    robin "No recibirás un reembolso, [me_robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:60
 translate spanish w_booth_robin_menu1_3cdbfa0d:
 
     # me "I see.."
-    me "I see.."
+    me "Ya veo..."
 
 # game/places/wanderers/prostitutes/robin.rpy:65
 translate spanish w_booth_robin_menu1_ec12248f:
 
     # robin "If I've insulted you somehow, it was unintentional, [me_robin]."
-    robin "If I've insulted you somehow, it was unintentional, [me_robin]."
+    robin "Si te he insultado de alguna manera, no fue mi intención, [me_robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:66
 translate spanish w_booth_robin_menu1_8c94b495:
 
     # me "No, of course not. I've just got no time for this. Bye."
-    me "No, of course not. I've just got no time for this. Bye."
+    me "No, por supuesto no. Tan sólo no tengo tiempo para esto. Adiós."
 
 # game/places/wanderers/prostitutes/robin.rpy:67
 translate spanish w_booth_robin_menu1_5155e4c3:
 
     # robin "I see, come back when you've got time for me, [me_robin]. Bye, bye."
-    robin "I see, come back when you've got time for me, [me_robin]. Bye, bye."
+    robin "Ya veo, vuelve cuando tengas tiempo para mí, [me_robin]. Bye, bye."
 
 # game/places/wanderers/prostitutes/robin.rpy:72
 translate spanish w_booth_robin_menu1_9bb4e884:
 
     # robin "Thank you for staying with me, [me_robin]."
-    robin "Thank you for staying with me, [me_robin]."
+    robin "Gracias por quedarte conmigo, [me_robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:82
 translate spanish w_booth_robin_end_5b8a83c2:
 
     # "[robin] left."
-    "[robin] left."
+    "[robin] se fue."
 
 # game/places/wanderers/prostitutes/robin.rpy:84
 translate spanish w_booth_robin_end_655add4a:
 
     # th "It was nice, and these boobs.. Shit she got that thing."
-    th "It was nice, and these boobs.. Shit she got that thing."
+    th "Fue agradable, y estas tetas... Mierda, ella tenía todo."
 
 # game/places/wanderers/prostitutes/robin.rpy:85
 translate spanish w_booth_robin_end_299cdfad:
 
     # th "Time for me to go, though."
-    th "Time for me to go, though."
+    th "Aunque es hora de que me vaya."
 
 # game/places/wanderers/prostitutes/robin.rpy:94
 translate spanish w_booth_robin_tj_d2d79a6a:
 
     # robin "I'll show you what these were made for, [me_robin]."
-    robin "I'll show you what these were made for, [me_robin]."
+    robin "Te mostraré para qué fueron hechas, [me_robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:95
 translate spanish w_booth_robin_tj_a6bebc1f:
 
     # me "I can't wait."
-    me "I can't wait."
+    me "No puedo esperar."
 
 # game/places/wanderers/prostitutes/robin.rpy:96
 translate spanish w_booth_robin_tj_5d2372dc:
 
     # robin "Hehe. So let's not wait anymore."
-    robin "Hehe. So let's not wait anymore."
+    robin "Hehe. Así que no esperemos más."
 
 # game/places/wanderers/prostitutes/robin.rpy:106
 translate spanish w_booth_robin_tj_slow_40976ab2:
 
     # me "Ohh.."
-    me "Ohh.."
+    me "Ohh..."
 
 # game/places/wanderers/prostitutes/robin.rpy:107
 translate spanish w_booth_robin_tj_slow_a33e6bd5:
 
     # robin "You like that?"
-    robin "You like that?"
+    robin "¿Te gusta esto?"
 
 # game/places/wanderers/prostitutes/robin.rpy:108
 translate spanish w_booth_robin_tj_slow_bd50aa28:
 
     # me "Yeah, they are so soft, I love them!"
-    me "Yeah, they are so soft, I love them!"
+    me "¡Sí, son tan suaves, las adoro!"
 
 # game/places/wanderers/prostitutes/robin.rpy:109
 translate spanish w_booth_robin_tj_slow_6e13be3f:
 
     # robin "Thank you, [me_robin]!"
-    robin "Thank you, [me_robin]!"
+    robin "¡Gracias, [me_robin]!"
 
 # game/places/wanderers/prostitutes/robin.rpy:110
 translate spanish w_booth_robin_tj_slow_268c44fc:
 
     # me "Mmm.."
-    me "Mmm.."
+    me "Mmm..."
 
 # game/places/wanderers/prostitutes/robin.rpy:111
 translate spanish w_booth_robin_tj_slow_f4645876:
 
     # robin "Are you feeling comfortable? I'm sorry you have to lie on the ground."
-    robin "Are you feeling comfortable? I'm sorry you have to lie on the ground."
+    robin "¿Te sientes cómodo? Lamento que tengas que acostarte en el suelo..."
 
 # game/places/wanderers/prostitutes/robin.rpy:112
 translate spanish w_booth_robin_tj_slow_9299b925:
 
     # me "Oh, believe me [robin], that's the last thing I'm thinking about."
-    me "Oh, believe me [robin], that's the last thing I'm thinking about."
+    me "Oh, créeme [robin], eso es lo último en lo que estoy pensando."
 
 # game/places/wanderers/prostitutes/robin.rpy:113
 translate spanish w_booth_robin_tj_slow_b47b38b5:
 
     # robin "That's good! I'm happy, you're not angry, [me_robin]."
-    robin "That's good! I'm happy, you're not angry, [me_robin]."
+    robin "¡Que bien! Me alegra que no estés enojado, [me_robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:114
 translate spanish w_booth_robin_tj_slow_961b6abc:
 
     # me "I couldn't be angry at you, dear."
-    me "I couldn't be angry at you, dear."
+    me "No podría estar enojado contigo, querida".
 
 # game/places/wanderers/prostitutes/robin.rpy:115
 translate spanish w_booth_robin_tj_slow_8cc78fe5:
 
     # robin "Ohhh. That's so sweet."
-    robin "Ohhh. That's so sweet."
+    robin "Ohhh. Eso es tan dulce."
 
 # game/places/wanderers/prostitutes/robin.rpy:116
 translate spanish w_booth_robin_tj_slow_41d21855:
 
     # me "Ahh.. don't stop."
-    me "Ahh.. don't stop."
+    me "Ahh... no pares."
 
 # game/places/wanderers/prostitutes/robin.rpy:135
 translate spanish w_booth_robin_tj_slow2_40976ab2:
 
     # me "Ohh.."
-    me "Ohh.."
+    me "Ohh..."
 
 # game/places/wanderers/prostitutes/robin.rpy:136
 translate spanish w_booth_robin_tj_slow2_a33e6bd5:
 
     # robin "You like that?"
-    robin "You like that?"
+    robin "¿Te gusta esto?"
 
 # game/places/wanderers/prostitutes/robin.rpy:137
 translate spanish w_booth_robin_tj_slow2_bd50aa28:
 
     # me "Yeah, they are so soft, I love them!"
-    me "Yeah, they are so soft, I love them!"
+    me "¡Sí, son tan suaves, las adoro!"
 
 # game/places/wanderers/prostitutes/robin.rpy:138
 translate spanish w_booth_robin_tj_slow2_6e13be3f:
 
     # robin "Thank you, [me_robin]!"
-    robin "Thank you, [me_robin]!"
+    robin "¡Gracias, [me_robin]!"
 
 # game/places/wanderers/prostitutes/robin.rpy:139
 translate spanish w_booth_robin_tj_slow2_268c44fc:
 
     # me "Mmm.."
-    me "Mmm.."
+    me "Mmm..."
 
 # game/places/wanderers/prostitutes/robin.rpy:140
 translate spanish w_booth_robin_tj_slow2_f4645876:
 
     # robin "Are you feeling comfortable? I'm sorry you have to lie on the ground."
-    robin "Are you feeling comfortable? I'm sorry you have to lie on the ground."
+    robin "¿Te sientes cómodo? Lamento que tengas que acostarte en el suelo..."
 
 # game/places/wanderers/prostitutes/robin.rpy:141
 translate spanish w_booth_robin_tj_slow2_9299b925:
 
     # me "Oh, believe me [robin], that's the last thing I'm thinking about."
-    me "Oh, believe me [robin], that's the last thing I'm thinking about."
+    me "Oh, créeme [robin], eso es lo último en lo que estoy pensando."
 
 # game/places/wanderers/prostitutes/robin.rpy:142
 translate spanish w_booth_robin_tj_slow2_b47b38b5:
 
     # robin "That's good! I'm happy, you're not angry, [me_robin]."
-    robin "That's good! I'm happy, you're not angry, [me_robin]."
+    robin "¡Que bien! Me alegra que no estés enojado, [me_robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:143
 translate spanish w_booth_robin_tj_slow2_961b6abc:
 
     # me "I couldn't be angry at you, dear."
-    me "I couldn't be angry at you, dear."
+    me "No podría estar enojado contigo, querida".
 
 # game/places/wanderers/prostitutes/robin.rpy:144
 translate spanish w_booth_robin_tj_slow2_8cc78fe5:
 
     # robin "Ohhh. That's so sweet."
-    robin "Ohhh. That's so sweet."
+    robin "Ohhh. Eso es tan dulce."
 
 # game/places/wanderers/prostitutes/robin.rpy:145
 translate spanish w_booth_robin_tj_slow2_41d21855:
 
     # me "Ahh.. don't stop."
-    me "Ahh.. don't stop."
+    me "Ahh... no pares."
 
 # game/places/wanderers/prostitutes/robin.rpy:164
 translate spanish w_booth_robin_tj_slow3_40976ab2:
 
     # me "Ohh.."
-    me "Ohh.."
+    me "Ohh..."
 
 # game/places/wanderers/prostitutes/robin.rpy:165
 translate spanish w_booth_robin_tj_slow3_a33e6bd5:
 
     # robin "You like that?"
-    robin "You like that?"
+    robin "¿Te gusta esto?"
 
 # game/places/wanderers/prostitutes/robin.rpy:166
 translate spanish w_booth_robin_tj_slow3_bd50aa28:
 
     # me "Yeah, they are so soft, I love them!"
-    me "Yeah, they are so soft, I love them!"
+    me "¡Sí, son tan suaves, las adoro!"
 
 # game/places/wanderers/prostitutes/robin.rpy:167
 translate spanish w_booth_robin_tj_slow3_6e13be3f:
 
     # robin "Thank you, [me_robin]!"
-    robin "Thank you, [me_robin]!"
+    robin "¡Gracias, [me_robin]!"
 
 # game/places/wanderers/prostitutes/robin.rpy:168
 translate spanish w_booth_robin_tj_slow3_268c44fc:
 
     # me "Mmm.."
-    me "Mmm.."
+    me "Mmm..."
 
 # game/places/wanderers/prostitutes/robin.rpy:169
 translate spanish w_booth_robin_tj_slow3_f4645876:
 
     # robin "Are you feeling comfortable? I'm sorry you have to lie on the ground."
-    robin "Are you feeling comfortable? I'm sorry you have to lie on the ground."
+    robin "¿Te sientes cómodo? Lamento que tengas que acostarte en el suelo..."
 
 # game/places/wanderers/prostitutes/robin.rpy:170
 translate spanish w_booth_robin_tj_slow3_9299b925:
 
     # me "Oh, believe me [robin], that's the last thing I'm thinking about."
-    me "Oh, believe me [robin], that's the last thing I'm thinking about."
+    me "Oh, créeme [robin], eso es lo último en lo que estoy pensando."
 
 # game/places/wanderers/prostitutes/robin.rpy:171
 translate spanish w_booth_robin_tj_slow3_b47b38b5:
 
     # robin "That's good! I'm happy, you're not angry, [me_robin]."
-    robin "That's good! I'm happy, you're not angry, [me_robin]."
+    robin "¡Que bien! Me alegra que no estés enojado, [me_robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:172
 translate spanish w_booth_robin_tj_slow3_961b6abc:
 
     # me "I couldn't be angry at you, dear."
-    me "I couldn't be angry at you, dear."
+    me "No podría estar enojado contigo, querida".
 
 # game/places/wanderers/prostitutes/robin.rpy:173
 translate spanish w_booth_robin_tj_slow3_8cc78fe5:
 
     # robin "Ohhh. That's so sweet."
-    robin "Ohhh. That's so sweet."
+    robin "Ohhh. Eso es tan dulce."
 
 # game/places/wanderers/prostitutes/robin.rpy:174
 translate spanish w_booth_robin_tj_slow3_41d21855:
 
     # me "Ahh.. don't stop."
-    me "Ahh.. don't stop."
+    me "Ahh... no pares."
 
 # game/places/wanderers/prostitutes/robin.rpy:193
 translate spanish w_booth_robin_tj_fast_5dea091a:
@@ -304,37 +304,37 @@ translate spanish w_booth_robin_tj_fast_5dea091a:
 translate spanish w_booth_robin_tj_fast_f85744bf:
 
     # me "Oh! Shit.."
-    me "Oh! Shit.."
+    me "¡Oh! Mierda..."
 
 # game/places/wanderers/prostitutes/robin.rpy:195
 translate spanish w_booth_robin_tj_fast_924be671:
 
     # robin "Everything alright, [me_robin]?"
-    robin "Everything alright, [me_robin]?"
+    robin "¿Todo bien, [me_robin]?"
 
 # game/places/wanderers/prostitutes/robin.rpy:196
 translate spanish w_booth_robin_tj_fast_68be1a2c:
 
     # me "Yeah, don't stop."
-    me "Yeah, don't stop."
+    me "Sí, no pares."
 
 # game/places/wanderers/prostitutes/robin.rpy:197
 translate spanish w_booth_robin_tj_fast_e1a7bef7:
 
     # robin "Got it!"
-    robin "Got it!"
+    robin "¡Entendido!"
 
 # game/places/wanderers/prostitutes/robin.rpy:198
 translate spanish w_booth_robin_tj_fast_bffe540f:
 
     # me "Your tits were made for this, girl."
-    me "Your tits were made for this, girl."
+    me "Tus tetas fueron hechas para esto, chica."
 
 # game/places/wanderers/prostitutes/robin.rpy:199
 translate spanish w_booth_robin_tj_fast_34f2eb74:
 
     # robin "Hehe!"
-    robin "Hehe!"
+    robin "¡Hehe!"
 
 # game/places/wanderers/prostitutes/robin.rpy:221
 translate spanish w_booth_robin_tj_fast2_5dea091a:
@@ -346,37 +346,37 @@ translate spanish w_booth_robin_tj_fast2_5dea091a:
 translate spanish w_booth_robin_tj_fast2_f85744bf:
 
     # me "Oh! Shit.."
-    me "Oh! Shit.."
+    me "¡Oh! Mierda..."
 
 # game/places/wanderers/prostitutes/robin.rpy:223
 translate spanish w_booth_robin_tj_fast2_924be671:
 
     # robin "Everything alright, [me_robin]?"
-    robin "Everything alright, [me_robin]?"
+    robin "¿Todo bien, [me_robin]?"
 
 # game/places/wanderers/prostitutes/robin.rpy:224
 translate spanish w_booth_robin_tj_fast2_68be1a2c:
 
     # me "Yeah, don't stop."
-    me "Yeah, don't stop."
+    me "Sí, no pares."
 
 # game/places/wanderers/prostitutes/robin.rpy:225
 translate spanish w_booth_robin_tj_fast2_e1a7bef7:
 
     # robin "Got it!"
-    robin "Got it!"
+    robin "¡Entendido!"
 
 # game/places/wanderers/prostitutes/robin.rpy:226
 translate spanish w_booth_robin_tj_fast2_bffe540f:
 
     # me "Your tits were made for this, girl."
-    me "Your tits were made for this, girl."
+    me "Tus tetas fueron hechas para esto, chica."
 
 # game/places/wanderers/prostitutes/robin.rpy:227
 translate spanish w_booth_robin_tj_fast2_34f2eb74:
 
     # robin "Hehe!"
-    robin "Hehe!"
+    robin "¡Hehe!"
 
 # game/places/wanderers/prostitutes/robin.rpy:249
 translate spanish w_booth_robin_tj_fast3_5dea091a:
@@ -388,265 +388,265 @@ translate spanish w_booth_robin_tj_fast3_5dea091a:
 translate spanish w_booth_robin_tj_fast3_f85744bf:
 
     # me "Oh! Shit.."
-    me "Oh! Shit.."
+    me "¡Oh! Mierda..."
 
 # game/places/wanderers/prostitutes/robin.rpy:251
 translate spanish w_booth_robin_tj_fast3_924be671:
 
     # robin "Everything alright, [me_robin]?"
-    robin "Everything alright, [me_robin]?"
+    robin "¿Todo bien, [me_robin]?"
 
 # game/places/wanderers/prostitutes/robin.rpy:252
 translate spanish w_booth_robin_tj_fast3_68be1a2c:
 
     # me "Yeah, don't stop."
-    me "Yeah, don't stop."
+    me "Sí, no pares."
 
 # game/places/wanderers/prostitutes/robin.rpy:253
 translate spanish w_booth_robin_tj_fast3_e1a7bef7:
 
     # robin "Got it!"
-    robin "Got it!"
+    robin "¡Entendido!"
 
 # game/places/wanderers/prostitutes/robin.rpy:254
 translate spanish w_booth_robin_tj_fast3_bffe540f:
 
     # me "Your tits were made for this, girl."
-    me "Your tits were made for this, girl."
+    me "Tus tetas fueron hechas para esto, chica."
 
 # game/places/wanderers/prostitutes/robin.rpy:255
 translate spanish w_booth_robin_tj_fast3_34f2eb74:
 
     # robin "Hehe!"
-    robin "Hehe!"
+    robin "¡Hehe!"
 
 # game/places/wanderers/prostitutes/robin.rpy:277
 translate spanish w_booth_robin_tj_before_6f956dff:
 
     # robin "Your dick became so hard, [me_robin]. Are you cumming soon?"
-    robin "Your dick became so hard, [me_robin]. Are you cumming soon?"
+    robin "Tu pene se puso tan duro, [me_robin]. ¿Estás por venirte?"
 
 # game/places/wanderers/prostitutes/robin.rpy:278
 translate spanish w_booth_robin_tj_before_015bf784:
 
     # me "Well, I can explode any moment now."
-    me "Well, I can explode any moment now."
+    me "Bueno, podría explotar en cualquier momento ahora."
 
 # game/places/wanderers/prostitutes/robin.rpy:279
 translate spanish w_booth_robin_tj_before_706212ec:
 
     # robin "Oh, I'll be sure to catch as much as I can with my mouth!"
-    robin "Oh, I'll be sure to catch as much as I can with my mouth!"
+    robin "¡Oh, entonces voy a atrapar todo lo que pueda con mi boca!"
 
 # game/places/wanderers/prostitutes/robin.rpy:280
 translate spanish w_booth_robin_tj_before_816fd409:
 
     # me "Eager bitch!"
-    me "Eager bitch!"
+    me "¡Perra ansiosa!"
 
 # game/places/wanderers/prostitutes/robin.rpy:281
 translate spanish w_booth_robin_tj_before_90843ef2:
 
     # robin "Hey! Don't call me bitch, it's not nice, although, I kind of liked it."
-    robin "Hey! Don't call me bitch, it's not nice, although, I kind of liked it."
+    robin "¡Hey! No me llames perra, no es agradable. Aunque me gustó un poco".
 
 # game/places/wanderers/prostitutes/robin.rpy:282
 translate spanish w_booth_robin_tj_before_0288855f:
 
     # me "Fickle aren't you?"
-    me "Fickle aren't you?"
+    me "¿Fogosa, eh?"
 
 # game/places/wanderers/prostitutes/robin.rpy:283
 translate spanish w_booth_robin_tj_before_8f4e3c4e:
 
     # robin "Hmm.. I can be a fickle bitch sometimes, [me_robin]. Haha."
-    robin "Hmm.. I can be a fickle bitch sometimes, [me_robin]. Haha."
+    robin "Hmm... A veces puedo ser una perra fogosa, [me_robin]. Haha."
 
 # game/places/wanderers/prostitutes/robin.rpy:284
 translate spanish w_booth_robin_tj_before_ba42b9f8:
 
     # me "Hah.. Ahh.. That's fine.. You're a good bitch, [robin]."
-    me "Hah.. Ahh.. That's fine.. You're a good bitch, [robin]."
+    me "Hah... Ahh... Eso está bien... Eres una buena perra, [robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:285
 translate spanish w_booth_robin_tj_before_a4902d5e:
 
     # robin "I do what I can."
-    robin "I do what I can."
+    robin "Hago lo que puedo."
 
 # game/places/wanderers/prostitutes/robin.rpy:286
 translate spanish w_booth_robin_tj_before_5726c65e:
 
     # "Your dick is throbbing, your breath short. You can come anytime."
-    "Your dick is throbbing, your breath short. You can come anytime."
+    "Tu pene palpita, tu respiración se corta. Podrías venirte en cualquier momento."
 
 # game/places/wanderers/prostitutes/robin.rpy:308
 translate spanish w_booth_robin_tj_before2_6f956dff:
 
     # robin "Your dick became so hard, [me_robin]. Are you cumming soon?"
-    robin "Your dick became so hard, [me_robin]. Are you cumming soon?"
+    robin "Tu pene se puso tan duro, [me_robin]. ¿Estás por venirte?"
 
 # game/places/wanderers/prostitutes/robin.rpy:309
 translate spanish w_booth_robin_tj_before2_015bf784:
 
     # me "Well, I can explode any moment now."
-    me "Well, I can explode any moment now."
+    me "Bueno, podría explotar en cualquier momento ahora."
 
 # game/places/wanderers/prostitutes/robin.rpy:310
 translate spanish w_booth_robin_tj_before2_706212ec:
 
     # robin "Oh, I'll be sure to catch as much as I can with my mouth!"
-    robin "Oh, I'll be sure to catch as much as I can with my mouth!"
+    robin "¡Oh, entonces voy a atrapar todo lo que pueda con mi boca!"
 
 # game/places/wanderers/prostitutes/robin.rpy:311
 translate spanish w_booth_robin_tj_before2_816fd409:
 
     # me "Eager bitch!"
-    me "Eager bitch!"
+    me "¡Perra ansiosa!"
 
 # game/places/wanderers/prostitutes/robin.rpy:312
 translate spanish w_booth_robin_tj_before2_90843ef2:
 
     # robin "Hey! Don't call me bitch, it's not nice, although, I kind of liked it."
-    robin "Hey! Don't call me bitch, it's not nice, although, I kind of liked it."
+    robin "¡Hey! No me llames perra, no es agradable. Aunque me gustó un poco".
 
 # game/places/wanderers/prostitutes/robin.rpy:313
 translate spanish w_booth_robin_tj_before2_0288855f:
 
     # me "Fickle aren't you?"
-    me "Fickle aren't you?"
+    me "¿Fogosa, eh?"
 
 # game/places/wanderers/prostitutes/robin.rpy:314
 translate spanish w_booth_robin_tj_before2_8f4e3c4e:
 
     # robin "Hmm.. I can be a fickle bitch sometimes, [me_robin]. Haha."
-    robin "Hmm.. I can be a fickle bitch sometimes, [me_robin]. Haha."
+    robin "Hmm... A veces puedo ser una perra fogosa, [me_robin]. Haha."
 
 # game/places/wanderers/prostitutes/robin.rpy:315
 translate spanish w_booth_robin_tj_before2_ba42b9f8:
 
     # me "Hah.. Ahh.. That's fine.. You're a good bitch, [robin]."
-    me "Hah.. Ahh.. That's fine.. You're a good bitch, [robin]."
+    me "Hah... Ahh... Eso está bien... Eres una buena perra, [robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:316
 translate spanish w_booth_robin_tj_before2_a4902d5e:
 
     # robin "I do what I can."
-    robin "I do what I can."
+    robin "Hago lo que puedo."
 
 # game/places/wanderers/prostitutes/robin.rpy:317
 translate spanish w_booth_robin_tj_before2_5726c65e:
 
     # "Your dick is throbbing, your breath short. You can come anytime."
-    "Your dick is throbbing, your breath short. You can come anytime."
+    "Tu pene palpita, tu respiración se corta. Podrías venirte en cualquier momento."
 
 # game/places/wanderers/prostitutes/robin.rpy:339
 translate spanish w_booth_robin_tj_before3_6f956dff:
 
     # robin "Your dick became so hard, [me_robin]. Are you cumming soon?"
-    robin "Your dick became so hard, [me_robin]. Are you cumming soon?"
+    robin "Tu pene se puso tan duro, [me_robin]. ¿Estás por venirte?"
 
 # game/places/wanderers/prostitutes/robin.rpy:340
 translate spanish w_booth_robin_tj_before3_015bf784:
 
     # me "Well, I can explode any moment now."
-    me "Well, I can explode any moment now."
+    me "Bueno, podría explotar en cualquier momento ahora."
 
 # game/places/wanderers/prostitutes/robin.rpy:341
 translate spanish w_booth_robin_tj_before3_706212ec:
 
     # robin "Oh, I'll be sure to catch as much as I can with my mouth!"
-    robin "Oh, I'll be sure to catch as much as I can with my mouth!"
+    robin "¡Oh, entonces voy a atrapar todo lo que pueda con mi boca!"
 
 # game/places/wanderers/prostitutes/robin.rpy:342
 translate spanish w_booth_robin_tj_before3_816fd409:
 
     # me "Eager bitch!"
-    me "Eager bitch!"
+    me "¡Perra ansiosa!"
 
 # game/places/wanderers/prostitutes/robin.rpy:343
 translate spanish w_booth_robin_tj_before3_90843ef2:
 
     # robin "Hey! Don't call me bitch, it's not nice, although, I kind of liked it."
-    robin "Hey! Don't call me bitch, it's not nice, although, I kind of liked it."
+    robin "¡Hey! No me llames perra, no es agradable. Aunque me gustó un poco".
 
 # game/places/wanderers/prostitutes/robin.rpy:344
 translate spanish w_booth_robin_tj_before3_0288855f:
 
     # me "Fickle aren't you?"
-    me "Fickle aren't you?"
+    me "¿Fogosa, eh?"
 
 # game/places/wanderers/prostitutes/robin.rpy:345
 translate spanish w_booth_robin_tj_before3_8f4e3c4e:
 
     # robin "Hmm.. I can be a fickle bitch sometimes, [me_robin]. Haha."
-    robin "Hmm.. I can be a fickle bitch sometimes, [me_robin]. Haha."
+    robin "Hmm... A veces puedo ser una perra fogosa, [me_robin]. Haha."
 
 # game/places/wanderers/prostitutes/robin.rpy:346
 translate spanish w_booth_robin_tj_before3_ba42b9f8:
 
     # me "Hah.. Ahh.. That's fine.. You're a good bitch, [robin]."
-    me "Hah.. Ahh.. That's fine.. You're a good bitch, [robin]."
+    me "Hah... Ahh... Eso está bien... Eres una buena perra, [robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:347
 translate spanish w_booth_robin_tj_before3_a4902d5e:
 
     # robin "I do what I can."
-    robin "I do what I can."
+    robin "Hago lo que puedo."
 
 # game/places/wanderers/prostitutes/robin.rpy:348
 translate spanish w_booth_robin_tj_before3_5726c65e:
 
     # "Your dick is throbbing, your breath short. You can come anytime."
-    "Your dick is throbbing, your breath short. You can come anytime."
+    "Tu pene palpita, tu respiración se corta. Podrías venirte en cualquier momento."
 
 # game/places/wanderers/prostitutes/robin.rpy:365
 translate spanish w_booth_robin_tj_cum_372a4323:
 
     # "You're cumming!"
-    "You're cumming!"
+    "¡Te estás viniendo!"
 
 # game/places/wanderers/prostitutes/robin.rpy:366
 translate spanish w_booth_robin_tj_cum_3217e8b9:
 
     # me "Ahh!!"
-    me "Ahh!!"
+    me "¡¡Ahh!!"
 
 # game/places/wanderers/prostitutes/robin.rpy:367
 translate spanish w_booth_robin_tj_cum_9c6ac455:
 
     # "[robin] did as promised and catches your cum with her mouth."
-    "[robin] did as promised and catches your cum with her mouth."
+    "[robin] hizo lo prometido y atrapa tu semen con su boca."
 
 # game/places/wanderers/prostitutes/robin.rpy:370
 translate spanish w_booth_robin_tj_cum_81303875:
 
     # robin "Mghmm.."
-    robin "Mghmm.."
+    robin "Mghmm..."
 
 # game/places/wanderers/prostitutes/robin.rpy:371
 translate spanish w_booth_robin_tj_cum_2559c919:
 
     # "It seems it's still too much, not only has your cum spilled all over [robin], whatever she managed to catch, tickles down her mouth."
-    "It seems it's still too much, not only has your cum spilled all over [robin], whatever she managed to catch, tickles down her mouth."
+    "Parece que todavía es demasiado. No solo tu semen se derramó encima de [robin], sino que lo que sea que logró atrapar, le hace cosquillas en la boca."
 
 # game/places/wanderers/prostitutes/robin.rpy:372
 translate spanish w_booth_robin_tj_cum_fdae9b48:
 
     # me "Are you alright?"
-    me "Are you alright?"
+    me "¿Estás bien?"
 
 # game/places/wanderers/prostitutes/robin.rpy:373
 translate spanish w_booth_robin_tj_cum_8e12a2be:
 
     # robin "Yeshhm."
-    robin "Yeshhm."
+    robin "Shíim."
 
 # game/places/wanderers/prostitutes/robin.rpy:381
 translate spanish w_booth_robin_tj_cum_584cd1f6:
 
     # robin "Now I need to go, come see me again, I'll be waiting for you."
-    robin "Now I need to go, come see me again, I'll be waiting for you."
+    robin "Ahora me tengo que ir, ven a verme de nuevo, te estaré esperando."
 
 # game/places/wanderers/prostitutes/robin.rpy:382
 translate spanish w_booth_robin_tj_cum_fca811a5:
@@ -1107,4 +1107,3 @@ translate spanish strings:
     # game/places/wanderers/prostitutes/robin.rpy:41
     old "Wall"
     new "Wall"
-

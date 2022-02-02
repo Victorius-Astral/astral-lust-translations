@@ -886,19 +886,19 @@ translate spanish w_booth_sukki_thigh_fast_f8918f9a:
 translate spanish w_booth_sukki_thigh_fast_73f078a6:
 
     # sukki "[sukki] has been very dirty girl~ [sukki] needs to be punished, [me_sukki]."
-    sukki "[sukki] has been very dirty girl~ [sukki] needs to be punished, [me_sukki]."
+    sukki "[sukki] ha sido una chica muy sucia~ [sukki] necesita ser castigada, [me_sukki]."
 
 # game/places/wanderers/prostitutes/sukki.rpy:540
 translate spanish w_booth_sukki_thigh_fast_12b282d3:
 
     # me "Oh, [me_sukki] is going to punish your pussy, no [me_sukki]'s dick for it today."
-    me "Oh, [me_sukki] is going to punish your pussy, no [me_sukki]'s dick for it today."
+    me "Oh, [me_sukki] va a castigar tu vagina. No habrá verga de [me_sukki] por eso hoy."
 
 # game/places/wanderers/prostitutes/sukki.rpy:541
 translate spanish w_booth_sukki_thigh_fast_ec8bffac:
 
     # sukki "Ohh.. So sad.."
-    sukki "Ohh.. So sad.."
+    sukki "Ohh... Qué triste..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:563
 translate spanish w_booth_sukki_thigh_fast2_3ba26f98:
@@ -940,19 +940,19 @@ translate spanish w_booth_sukki_thigh_fast2_f8918f9a:
 translate spanish w_booth_sukki_thigh_fast2_73f078a6:
 
     # sukki "[sukki] has been very dirty girl~ [sukki] needs to be punished, [me_sukki]."
-    sukki "[sukki] has been very dirty girl~ [sukki] needs to be punished, [me_sukki]."
+    sukki "[sukki] ha sido una chica muy sucia~ [sukki] necesita ser castigada, [me_sukki]."
 
 # game/places/wanderers/prostitutes/sukki.rpy:570
 translate spanish w_booth_sukki_thigh_fast2_12b282d3:
 
     # me "Oh, [me_sukki] is going to punish your pussy, no [me_sukki]'s dick for it today."
-    me "Oh, [me_sukki] is going to punish your pussy, no [me_sukki]'s dick for it today."
+    me "Oh, [me_sukki] va a castigar tu vagina. No habrá verga de [me_sukki] por eso hoy."
 
 # game/places/wanderers/prostitutes/sukki.rpy:571
 translate spanish w_booth_sukki_thigh_fast2_ec8bffac:
 
     # sukki "Ohh.. So sad.."
-    sukki "Ohh.. So sad.."
+    sukki "Ohh... Qué triste..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:593
 translate spanish w_booth_sukki_thigh_fast3_3ba26f98:
@@ -994,19 +994,19 @@ translate spanish w_booth_sukki_thigh_fast3_f8918f9a:
 translate spanish w_booth_sukki_thigh_fast3_73f078a6:
 
     # sukki "[sukki] has been very dirty girl~ [sukki] needs to be punished, [me_sukki]."
-    sukki "[sukki] has been very dirty girl~ [sukki] needs to be punished, [me_sukki]."
+    sukki "[sukki] ha sido una chica muy sucia~ [sukki] necesita ser castigada, [me_sukki]."
 
 # game/places/wanderers/prostitutes/sukki.rpy:600
 translate spanish w_booth_sukki_thigh_fast3_12b282d3:
 
     # me "Oh, [me_sukki] is going to punish your pussy, no [me_sukki]'s dick for it today."
-    me "Oh, [me_sukki] is going to punish your pussy, no [me_sukki]'s dick for it today."
+    me "Oh, [me_sukki] va a castigar tu vagina. No habrá verga de [me_sukki] por eso hoy."
 
 # game/places/wanderers/prostitutes/sukki.rpy:601
 translate spanish w_booth_sukki_thigh_fast3_ec8bffac:
 
     # sukki "Ohh.. So sad.."
-    sukki "Ohh.. So sad.."
+    sukki "Ohh... Qué triste..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:623
 translate spanish w_booth_sukki_thigh_before_37e11a73:
@@ -1018,13 +1018,13 @@ translate spanish w_booth_sukki_thigh_before_37e11a73:
 translate spanish w_booth_sukki_thigh_before_31278352:
 
     # sukki "Your cock, so good~ [sukki]'s so horny right now."
-    sukki "Your cock, so good~ [sukki]'s so horny right now."
+    sukki "Tu polla, tan buena~ [sukki] está tan excitada ahora mismo."
 
 # game/places/wanderers/prostitutes/sukki.rpy:625
 translate spanish w_booth_sukki_thigh_before_b3bb9f1a:
 
     # me "Haha, [me_sukki] is horny too. A good girl would help [me_sukki], right?"
-    me "Haha, [me_sukki] is horny too. A good girl would help [me_sukki], right?"
+    me "Haha, [me_sukki] también está excitado. Una buena chica ayudaría a [me_sukki], ¿verdad?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:626
 translate spanish w_booth_sukki_thigh_before_ff339ac4:
@@ -1036,7 +1036,7 @@ translate spanish w_booth_sukki_thigh_before_ff339ac4:
 translate spanish w_booth_sukki_thigh_before_93b12062:
 
     # sukki "Yes! [sukki] will make [me_sukki]'s dick explode in ecstasy!"
-    sukki "Yes! [sukki] will make [me_sukki]'s dick explode in ecstasy!"
+    sukki "¡Sí! ¡[sukki] hará que la polla de [me_sukki] explote en éxtasis!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:628
 translate spanish w_booth_sukki_thigh_before_9f3d19bf:
@@ -1048,13 +1048,13 @@ translate spanish w_booth_sukki_thigh_before_9f3d19bf:
 translate spanish w_booth_sukki_thigh_before_4e5f1b48:
 
     # sukki "[sukki] loves [me_sukki]'s dick so much!~"
-    sukki "[sukki] loves [me_sukki]'s dick so much!~"
+    sukki "¡[sukki] ama tanto la polla de [me_sukki]!~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:630
 translate spanish w_booth_sukki_thigh_before_8de46012:
 
     # "You're close to cumming. Anything could make you cum right now."
-    "You're close to cumming. Anything could make you cum right now."
+    "Estás cerca de venirte. Cualquier cosa podría hacer que te vengas ahora mismo."
 
 # game/places/wanderers/prostitutes/sukki.rpy:652
 translate spanish w_booth_sukki_thigh_before2_37e11a73:
@@ -1066,13 +1066,13 @@ translate spanish w_booth_sukki_thigh_before2_37e11a73:
 translate spanish w_booth_sukki_thigh_before2_31278352:
 
     # sukki "Your cock, so good~ [sukki]'s so horny right now."
-    sukki "Your cock, so good~ [sukki]'s so horny right now."
+    sukki "Tu polla, tan buena~ [sukki] está tan excitada ahora mismo."
 
 # game/places/wanderers/prostitutes/sukki.rpy:654
 translate spanish w_booth_sukki_thigh_before2_b3bb9f1a:
 
     # me "Haha, [me_sukki] is horny too. A good girl would help [me_sukki], right?"
-    me "Haha, [me_sukki] is horny too. A good girl would help [me_sukki], right?"
+    me "Haha, [me_sukki] también está excitado. Una buena chica ayudaría a [me_sukki], ¿verdad?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:655
 translate spanish w_booth_sukki_thigh_before2_ff339ac4:
@@ -1084,7 +1084,7 @@ translate spanish w_booth_sukki_thigh_before2_ff339ac4:
 translate spanish w_booth_sukki_thigh_before2_93b12062:
 
     # sukki "Yes! [sukki] will make [me_sukki]'s dick explode in ecstasy!"
-    sukki "Yes! [sukki] will make [me_sukki]'s dick explode in ecstasy!"
+    sukki "¡Sí! ¡[sukki] hará que la polla de [me_sukki] explote en éxtasis!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:657
 translate spanish w_booth_sukki_thigh_before2_9f3d19bf:
@@ -1096,13 +1096,13 @@ translate spanish w_booth_sukki_thigh_before2_9f3d19bf:
 translate spanish w_booth_sukki_thigh_before2_4e5f1b48:
 
     # sukki "[sukki] loves [me_sukki]'s dick so much!~"
-    sukki "[sukki] loves [me_sukki]'s dick so much!~"
+    sukki "¡[sukki] ama tanto la polla de [me_sukki]!~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:659
 translate spanish w_booth_sukki_thigh_before2_8de46012:
 
     # "You're close to cumming. Anything could make you cum right now."
-    "You're close to cumming. Anything could make you cum right now."
+    "Estás cerca de venirte. Cualquier cosa podría hacer que te vengas ahora mismo."
 
 # game/places/wanderers/prostitutes/sukki.rpy:681
 translate spanish w_booth_sukki_thigh_before3_37e11a73:
@@ -1114,13 +1114,13 @@ translate spanish w_booth_sukki_thigh_before3_37e11a73:
 translate spanish w_booth_sukki_thigh_before3_31278352:
 
     # sukki "Your cock, so good~ [sukki]'s so horny right now."
-    sukki "Your cock, so good~ [sukki]'s so horny right now."
+    sukki "Tu polla, tan buena~ [sukki] está tan excitada ahora mismo."
 
 # game/places/wanderers/prostitutes/sukki.rpy:683
 translate spanish w_booth_sukki_thigh_before3_b3bb9f1a:
 
     # me "Haha, [me_sukki] is horny too. A good girl would help [me_sukki], right?"
-    me "Haha, [me_sukki] is horny too. A good girl would help [me_sukki], right?"
+    me "Haha, [me_sukki] también está excitado. Una buena chica ayudaría a [me_sukki], ¿verdad?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:684
 translate spanish w_booth_sukki_thigh_before3_ff339ac4:
@@ -1132,7 +1132,7 @@ translate spanish w_booth_sukki_thigh_before3_ff339ac4:
 translate spanish w_booth_sukki_thigh_before3_93b12062:
 
     # sukki "Yes! [sukki] will make [me_sukki]'s dick explode in ecstasy!"
-    sukki "Yes! [sukki] will make [me_sukki]'s dick explode in ecstasy!"
+    sukki "¡Sí! ¡[sukki] hará que la polla de [me_sukki] explote en éxtasis!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:686
 translate spanish w_booth_sukki_thigh_before3_9f3d19bf:
@@ -1144,13 +1144,13 @@ translate spanish w_booth_sukki_thigh_before3_9f3d19bf:
 translate spanish w_booth_sukki_thigh_before3_4e5f1b48:
 
     # sukki "[sukki] loves [me_sukki]'s dick so much!~"
-    sukki "[sukki] loves [me_sukki]'s dick so much!~"
+    sukki "¡[sukki] ama tanto la polla de [me_sukki]!~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:688
 translate spanish w_booth_sukki_thigh_before3_8de46012:
 
     # "You're close to cumming. Anything could make you cum right now."
-    "You're close to cumming. Anything could make you cum right now."
+    "Estás cerca de venirte. Cualquier cosa podría hacer que te vengas ahora mismo."
 
 # game/places/wanderers/prostitutes/sukki.rpy:710
 translate spanish w_booth_sukki_thigh_before4_37e11a73:
@@ -1162,13 +1162,13 @@ translate spanish w_booth_sukki_thigh_before4_37e11a73:
 translate spanish w_booth_sukki_thigh_before4_31278352:
 
     # sukki "Your cock, so good~ [sukki]'s so horny right now."
-    sukki "Your cock, so good~ [sukki]'s so horny right now."
+    sukki "Tu polla, tan buena~ [sukki] está tan excitada ahora mismo."
 
 # game/places/wanderers/prostitutes/sukki.rpy:712
 translate spanish w_booth_sukki_thigh_before4_b3bb9f1a:
 
     # me "Haha, [me_sukki] is horny too. A good girl would help [me_sukki], right?"
-    me "Haha, [me_sukki] is horny too. A good girl would help [me_sukki], right?"
+    me "Haha, [me_sukki] también está excitado. Una buena chica ayudaría a [me_sukki], ¿verdad?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:713
 translate spanish w_booth_sukki_thigh_before4_ff339ac4:
@@ -1180,7 +1180,7 @@ translate spanish w_booth_sukki_thigh_before4_ff339ac4:
 translate spanish w_booth_sukki_thigh_before4_93b12062:
 
     # sukki "Yes! [sukki] will make [me_sukki]'s dick explode in ecstasy!"
-    sukki "Yes! [sukki] will make [me_sukki]'s dick explode in ecstasy!"
+    sukki "¡Sí! ¡[sukki] hará que la polla de [me_sukki] explote en éxtasis!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:715
 translate spanish w_booth_sukki_thigh_before4_9f3d19bf:
@@ -1192,37 +1192,37 @@ translate spanish w_booth_sukki_thigh_before4_9f3d19bf:
 translate spanish w_booth_sukki_thigh_before4_4e5f1b48:
 
     # sukki "[sukki] loves [me_sukki]'s dick so much!~"
-    sukki "[sukki] loves [me_sukki]'s dick so much!~"
+    sukki "¡[sukki] ama tanto la polla de [me_sukki]!~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:717
 translate spanish w_booth_sukki_thigh_before4_8de46012:
 
     # "You're close to cumming. Anything could make you cum right now."
-    "You're close to cumming. Anything could make you cum right now."
+    "Estás cerca de venirte. Cualquier cosa podría hacer que te vengas ahora mismo."
 
 # game/places/wanderers/prostitutes/sukki.rpy:735
 translate spanish w_booth_sukki_thigh_cum_372a4323:
 
     # "You're cumming!"
-    "You're cumming!"
+    "¡Te estás viniendo!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:736
 translate spanish w_booth_sukki_thigh_cum_3217e8b9:
 
     # me "Ahh!!"
-    me "Ahh!!"
+    me "¡¡Ahh!!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:739
 translate spanish w_booth_sukki_thigh_cum_b8f920ab:
 
     # sukki "Woah, that's a lot [me_sukki]."
-    sukki "Woah, that's a lot [me_sukki]."
+    sukki "Woah, eso es mucho [me_sukki]."
 
 # game/places/wanderers/prostitutes/sukki.rpy:740
 translate spanish w_booth_sukki_thigh_cum_b833a3fe:
 
     # me "You're adorable a lot, so I came a lot."
-    me "You're adorable a lot, so I came a lot."
+    me "Eres adorable mucho, así que me vine mucho."
 
 # game/places/wanderers/prostitutes/sukki.rpy:741
 translate spanish w_booth_sukki_thigh_cum_634dd1ef:
@@ -1234,7 +1234,7 @@ translate spanish w_booth_sukki_thigh_cum_634dd1ef:
 translate spanish w_booth_sukki_thigh_cum_24406f4d:
 
     # sukki "I would love to stay with you longer, [me_sukki], but Madam Hof would be angry.."
-    sukki "I would love to stay with you longer, [me_sukki], but Madam Hof would be angry.."
+    sukki "Me encantaría quedarme más tiempo contigo, [me_sukki], pero la Madam Hof se enfadaría..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:750
 translate spanish w_booth_sukki_thigh_cum_7ca09d1c:
@@ -1258,7 +1258,7 @@ translate spanish w_booth_sukki_thigh_cum_03efbf8e:
 translate spanish w_booth_sukki_thigh_cum_f537c7ab:
 
     # me "I'm eager for next visit already."
-    me "I'm eager for next visit already."
+    me "Ya estoy ansioso por la próxima visita."
 
 # game/places/wanderers/prostitutes/sukki.rpy:754
 translate spanish w_booth_sukki_thigh_cum_555c53c6:
@@ -1270,14 +1270,14 @@ translate spanish w_booth_sukki_thigh_cum_555c53c6:
 translate spanish w_booth_sukki_thigh_cum_5cdebf03:
 
     # me "Bye."
-    me "Bye."
+    me "Adiós."
 
 translate spanish strings:
 
     # game/places/wanderers/prostitutes/sukki.rpy:36
     old "Lifting"
-    new "Lifting"
+    new "Levantarla"
 
     # game/places/wanderers/prostitutes/sukki.rpy:36
     old "Thighjob"
-    new "Thighjob"
+    new "Con sus muslos"
