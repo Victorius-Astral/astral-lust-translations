@@ -4,115 +4,115 @@
 translate spanish w_booth_sukki_76995093:
 
     # sukki "Welcome home, [me_sukki]."
-    sukki "Welcome home, [me_sukki]."
+    sukki "Bienvenido a casa, [me_sukki]."
 
 # game/places/wanderers/prostitutes/sukki.rpy:34
 translate spanish w_booth_sukki_f9d3052c:
 
     # me "Daddy's home."
-    me "Daddy's home."
+    me "Papi está en casa."
 
 # game/places/wanderers/prostitutes/sukki.rpy:48
 translate spanish w_booth_sukki_menu1_5483674f:
 
     # sukki "[sukki] will remember, [me_sukki]. Say, am I being a good girl?"
-    sukki "[sukki] will remember, [me_sukki]. Say, am I being a good girl?"
+    sukki "[sukki] lo recordará, [me_sukki]. ¿Dime, soy una buena chica?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:49
 translate spanish w_booth_sukki_menu1_900895d9:
 
     # me "You're a good girl, [sukki]."
-    me "You're a good girl, [sukki]."
+    me "Eres una buena chica, [sukki]."
 
 # game/places/wanderers/prostitutes/sukki.rpy:54
 translate spanish w_booth_sukki_menu1_25b5632c:
 
     # sukki "You won't get refund, [me_sukki]."
-    sukki "You won't get refund, [me_sukki]."
+    sukki "No vas a conseguir reembolso, [me_sukki]."
 
 # game/places/wanderers/prostitutes/sukki.rpy:55
 translate spanish w_booth_sukki_menu1_3cdbfa0d:
 
     # me "I see.."
-    me "I see.."
+    me "Ya veo..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:60
 translate spanish w_booth_sukki_menu1_912ccf00:
 
     # sukki "Was [sukki] a bad girl?"
-    sukki "Was [sukki] a bad girl?"
+    sukki "¿Fue [sukki] una chica mala?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:61
 translate spanish w_booth_sukki_menu1_8c94b495:
 
     # me "No, of course not. I've just got no time for this. Bye."
-    me "No, of course not. I've just got no time for this. Bye."
+    me "No, por supuesto que no. Simplemente no tengo tiempo ahora. Adiós."
 
 # game/places/wanderers/prostitutes/sukki.rpy:62
 translate spanish w_booth_sukki_menu1_73684ace:
 
     # sukki "Come see me again, [me_sukki]. I'll be waiting for you."
-    sukki "Come see me again, [me_sukki]. I'll be waiting for you."
+    sukki "Vuelve para verme, [me_sukki]. Voy a estar esperándote."
 
 # game/places/wanderers/prostitutes/sukki.rpy:67
 translate spanish w_booth_sukki_menu1_4a4bd359:
 
     # sukki "Thank you. Don't ever leave me, [me_sukki]."
-    sukki "Thank you. Don't ever leave me, [me_sukki]."
+    sukki "Gracias. Nunca me dejes, [me_sukki]."
 
 # game/places/wanderers/prostitutes/sukki.rpy:77
 translate spanish w_booth_sukki_end_ea0e858a:
 
     # "[sukki] left."
-    "[sukki] left."
+    "[sukki] se fue."
 
 # game/places/wanderers/prostitutes/sukki.rpy:79
 translate spanish w_booth_sukki_end_bbd977e0:
 
     # th "It was nice, she is such an adorable girl, I feel bad for her.."
-    th "It was nice, she is such an adorable girl, I feel bad for her.."
+    th "Fue agradable. Es una niña tan adorable. Me siento mal por ella..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:80
 translate spanish w_booth_sukki_end_d9e94be7:
 
     # th "The world is so cruel.."
-    th "The world is so cruel.."
+    th "El mundo es tan cruel..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:81
 translate spanish w_booth_sukki_end_3c11807e:
 
     # th "But it's time for me to go."
-    th "But it's time for me to go."
+    th "Pero es hora de que me vaya."
 
 # game/places/wanderers/prostitutes/sukki.rpy:90
 translate spanish w_booth_sukki_lift_02da1272:
 
     # sukki "Can I ask a favor, [me_sukki]?"
-    sukki "Can I ask a favor, [me_sukki]?"
+    sukki "¿Puedo pedirte un favor, [me_sukki]?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:91
 translate spanish w_booth_sukki_lift_de326baa:
 
     # me "Yeah, sure. What is it?"
-    me "Yeah, sure. What is it?"
+    me "Si, seguro. ¿Qué es?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:92
 translate spanish w_booth_sukki_lift_e16d61c2:
 
     # sukki "Fuck me hard, [me_sukki]."
-    sukki "Fuck me hard, [me_sukki]."
+    sukki "Fóllame duro, [me_sukki]."
 
 # game/places/wanderers/prostitutes/sukki.rpy:93
 translate spanish w_booth_sukki_lift_b9f09524:
 
     # me "How could [me_sukki] refuse?"
-    me "How could [me_sukki] refuse?"
+    me "¿Cómo podría [me_sukki] rehusarse?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:94
 translate spanish w_booth_sukki_lift_6515ddaa:
 
     # sukki "Thank you very much~"
-    sukki "Thank you very much~"
+    sukki "Muchas gracias~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:104
 translate spanish w_booth_sukki_lift_slow_05a45bcb:
@@ -124,31 +124,31 @@ translate spanish w_booth_sukki_lift_slow_05a45bcb:
 translate spanish w_booth_sukki_lift_slow_ed092077:
 
     # me "Ahhh.."
-    me "Ahhh.."
+    me "Ahhh..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:106
 translate spanish w_booth_sukki_lift_slow_aee201cc:
 
     # sukki "Haaa.. [sukki]'s pussy loves [me_sukki]'s cock~"
-    sukki "Haaa.. [sukki]'s pussy loves [me_sukki]'s cock~"
+    sukki "Haaa... la vagina de [sukki] ama el pene de [me_sukki]~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:107
 translate spanish w_booth_sukki_lift_slow_22543b2d:
 
     # me "You're so sexy, [sukki]."
-    me "You're so sexy, [sukki]."
+    me "Eres tan sexy, [sukki]."
 
 # game/places/wanderers/prostitutes/sukki.rpy:108
 translate spanish w_booth_sukki_lift_slow_9da01029:
 
     # sukki "Thank you! My pussy wants to hear it too!"
-    sukki "Thank you! My pussy wants to hear it too!"
+    sukki "¡Gracias! ¡Mi coño también quiere escucharlo!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:109
 translate spanish w_booth_sukki_lift_slow_3e4ba64e:
 
     # me "Your little pussy is sexy too. Good pussy."
-    me "Your little pussy is sexy too. Good pussy."
+    me "Tu coñito también es sexy. Buen coño."
 
 # game/places/wanderers/prostitutes/sukki.rpy:110
 translate spanish w_booth_sukki_lift_slow_4de736b3:
@@ -166,31 +166,31 @@ translate spanish w_booth_sukki_lift_slow2_05a45bcb:
 translate spanish w_booth_sukki_lift_slow2_ed092077:
 
     # me "Ahhh.."
-    me "Ahhh.."
+    me "Ahhh..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:131
 translate spanish w_booth_sukki_lift_slow2_aee201cc:
 
     # sukki "Haaa.. [sukki]'s pussy loves [me_sukki]'s cock~"
-    sukki "Haaa.. [sukki]'s pussy loves [me_sukki]'s cock~"
+    sukki "Haaa... la vagina de [sukki] ama el pene de [me_sukki]~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:132
 translate spanish w_booth_sukki_lift_slow2_22543b2d:
 
     # me "You're so sexy, [sukki]."
-    me "You're so sexy, [sukki]."
+    me "Eres tan sexy, [sukki]."
 
 # game/places/wanderers/prostitutes/sukki.rpy:133
 translate spanish w_booth_sukki_lift_slow2_9da01029:
 
     # sukki "Thank you! My pussy wants to hear it too!"
-    sukki "Thank you! My pussy wants to hear it too!"
+    sukki "¡Gracias! ¡Mi coño también quiere escucharlo!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:134
 translate spanish w_booth_sukki_lift_slow2_3e4ba64e:
 
     # me "Your little pussy is sexy too. Good pussy."
-    me "Your little pussy is sexy too. Good pussy."
+    me "Tu coñito también es sexy. Buen coño."
 
 # game/places/wanderers/prostitutes/sukki.rpy:135
 translate spanish w_booth_sukki_lift_slow2_4de736b3:
@@ -208,31 +208,31 @@ translate spanish w_booth_sukki_lift_slow3_05a45bcb:
 translate spanish w_booth_sukki_lift_slow3_ed092077:
 
     # me "Ahhh.."
-    me "Ahhh.."
+    me "Ahhh..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:156
 translate spanish w_booth_sukki_lift_slow3_aee201cc:
 
     # sukki "Haaa.. [sukki]'s pussy loves [me_sukki]'s cock~"
-    sukki "Haaa.. [sukki]'s pussy loves [me_sukki]'s cock~"
+    sukki "Haaa... la vagina de [sukki] ama el pene de [me_sukki]~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:157
 translate spanish w_booth_sukki_lift_slow3_22543b2d:
 
     # me "You're so sexy, [sukki]."
-    me "You're so sexy, [sukki]."
+    me "Eres tan sexy, [sukki]."
 
 # game/places/wanderers/prostitutes/sukki.rpy:158
 translate spanish w_booth_sukki_lift_slow3_9da01029:
 
     # sukki "Thank you! My pussy wants to hear it too!"
-    sukki "Thank you! My pussy wants to hear it too!"
+    sukki "¡Gracias! ¡Mi coño también quiere escucharlo!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:159
 translate spanish w_booth_sukki_lift_slow3_3e4ba64e:
 
     # me "Your little pussy is sexy too. Good pussy."
-    me "Your little pussy is sexy too. Good pussy."
+    me "Tu coñito también es sexy. Buen coño."
 
 # game/places/wanderers/prostitutes/sukki.rpy:160
 translate spanish w_booth_sukki_lift_slow3_4de736b3:
@@ -250,31 +250,31 @@ translate spanish w_booth_sukki_lift_slow4_05a45bcb:
 translate spanish w_booth_sukki_lift_slow4_ed092077:
 
     # me "Ahhh.."
-    me "Ahhh.."
+    me "Ahhh..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:181
 translate spanish w_booth_sukki_lift_slow4_aee201cc:
 
     # sukki "Haaa.. [sukki]'s pussy loves [me_sukki]'s cock~"
-    sukki "Haaa.. [sukki]'s pussy loves [me_sukki]'s cock~"
+    sukki "Haaa... la vagina de [sukki] ama el pene de [me_sukki]~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:182
 translate spanish w_booth_sukki_lift_slow4_22543b2d:
 
     # me "You're so sexy, [sukki]."
-    me "You're so sexy, [sukki]."
+    me "Eres tan sexy, [sukki]."
 
 # game/places/wanderers/prostitutes/sukki.rpy:183
 translate spanish w_booth_sukki_lift_slow4_9da01029:
 
     # sukki "Thank you! My pussy wants to hear it too!"
-    sukki "Thank you! My pussy wants to hear it too!"
+    sukki "¡Gracias! ¡Mi coño también quiere escucharlo!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:184
 translate spanish w_booth_sukki_lift_slow4_3e4ba64e:
 
     # me "Your little pussy is sexy too. Good pussy."
-    me "Your little pussy is sexy too. Good pussy."
+    me "Tu coñito también es sexy. Buen coño."
 
 # game/places/wanderers/prostitutes/sukki.rpy:185
 translate spanish w_booth_sukki_lift_slow4_4de736b3:
@@ -286,19 +286,19 @@ translate spanish w_booth_sukki_lift_slow4_4de736b3:
 translate spanish w_booth_sukki_lift_fast_166d9144:
 
     # me "Ahh!"
-    me "Ahh!"
+    me "¡Ahh!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:205
 translate spanish w_booth_sukki_lift_fast_56148ceb:
 
     # sukki "Ahnn!~"
-    sukki "Ahnn!~"
+    sukki "¡Ahnn!~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:206
 translate spanish w_booth_sukki_lift_fast_b5e899ba:
 
     # "[sukki]'s moans are melody for your ears."
-    "[sukki]'s moans are melody for your ears."
+    "Los gemidos de [sukki] son una melodía para tus oídos."
 
 # game/places/wanderers/prostitutes/sukki.rpy:207
 translate spanish w_booth_sukki_lift_fast_9f3d19bf:
@@ -310,25 +310,25 @@ translate spanish w_booth_sukki_lift_fast_9f3d19bf:
 translate spanish w_booth_sukki_lift_fast_6eb15f24:
 
     # sukki "Ohhh! My pussy is in love, [me_sukki]!"
-    sukki "Ohhh! My pussy is in love, [me_sukki]!"
+    sukki "¡Oh! ¡Mi coño está enamorado, [me_sukki]!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:230
 translate spanish w_booth_sukki_lift_fast2_166d9144:
 
     # me "Ahh!"
-    me "Ahh!"
+    me "¡Ahh!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:231
 translate spanish w_booth_sukki_lift_fast2_56148ceb:
 
     # sukki "Ahnn!~"
-    sukki "Ahnn!~"
+    sukki "¡Ahnn!~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:232
 translate spanish w_booth_sukki_lift_fast2_b5e899ba:
 
     # "[sukki]'s moans are melody for your ears."
-    "[sukki]'s moans are melody for your ears."
+    "Los gemidos de [sukki] son una melodía para tus oídos."
 
 # game/places/wanderers/prostitutes/sukki.rpy:233
 translate spanish w_booth_sukki_lift_fast2_9f3d19bf:
@@ -340,25 +340,25 @@ translate spanish w_booth_sukki_lift_fast2_9f3d19bf:
 translate spanish w_booth_sukki_lift_fast2_6eb15f24:
 
     # sukki "Ohhh! My pussy is in love, [me_sukki]!"
-    sukki "Ohhh! My pussy is in love, [me_sukki]!"
+    sukki "¡Oh! ¡Mi coño está enamorado, [me_sukki]!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:256
 translate spanish w_booth_sukki_lift_fast3_166d9144:
 
     # me "Ahh!"
-    me "Ahh!"
+    me "¡Ahh!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:257
 translate spanish w_booth_sukki_lift_fast3_56148ceb:
 
     # sukki "Ahnn!~"
-    sukki "Ahnn!~"
+    sukki "¡Ahnn!~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:258
 translate spanish w_booth_sukki_lift_fast3_b5e899ba:
 
     # "[sukki]'s moans are melody for your ears."
-    "[sukki]'s moans are melody for your ears."
+    "Los gemidos de [sukki] son una melodía para tus oídos."
 
 # game/places/wanderers/prostitutes/sukki.rpy:259
 translate spanish w_booth_sukki_lift_fast3_9f3d19bf:
@@ -370,7 +370,7 @@ translate spanish w_booth_sukki_lift_fast3_9f3d19bf:
 translate spanish w_booth_sukki_lift_fast3_6eb15f24:
 
     # sukki "Ohhh! My pussy is in love, [me_sukki]!"
-    sukki "Ohhh! My pussy is in love, [me_sukki]!"
+    sukki "¡Oh! ¡Mi coño está enamorado, [me_sukki]!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:282
 translate spanish w_booth_sukki_lift_before_46bfd397:
@@ -382,55 +382,55 @@ translate spanish w_booth_sukki_lift_before_46bfd397:
 translate spanish w_booth_sukki_lift_before_11ecf0bd:
 
     # sukki "Ahhmm!~ Thank you for fucking me!"
-    sukki "Ahhmm!~ Thank you for fucking me!"
+    sukki "¡Ahhmm!~ ¡Gracias por follarme!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:284
 translate spanish w_booth_sukki_lift_before_13333349:
 
     # me "The pleasure is mine."
-    me "The pleasure is mine."
+    me "El placer es mío."
 
 # game/places/wanderers/prostitutes/sukki.rpy:285
 translate spanish w_booth_sukki_lift_before_0ccf9ea3:
 
     # sukki "Thank you!"
-    sukki "Thank you!"
+    sukki "¡Gracias!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:286
 translate spanish w_booth_sukki_lift_before_d50856e9:
 
     # me "What about your pussy?"
-    me "What about your pussy?"
+    me "¿Qué hay de tu coño?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:287
 translate spanish w_booth_sukki_lift_before_8c013449:
 
     # sukki "She thanks you too, [me_sukki]~"
-    sukki "She thanks you too, [me_sukki]~"
+    sukki "Ella también te lo agradece, [me_sukki]~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:288
 translate spanish w_booth_sukki_lift_before_415fec28:
 
     # sukki "Oh, it also wants you to fill it with your seed, [me_sukki]~"
-    sukki "Oh, it also wants you to fill it with your seed, [me_sukki]~"
+    sukki "Oh, también quiere que la llenes con tu semen, [me_sukki]~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:289
 translate spanish w_booth_sukki_lift_before_ebbd7a26:
 
     # me "I'll see what I can do."
-    me "I'll see what I can do."
+    me "Veré lo que puedo hacer."
 
 # game/places/wanderers/prostitutes/sukki.rpy:290
 translate spanish w_booth_sukki_lift_before_8688b6e8:
 
     # me "Ah!"
-    me "Ah!"
+    me "¡Ah!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:291
 translate spanish w_booth_sukki_lift_before_55ee49b2:
 
     # "You feel an orgasm coming."
-    "You feel an orgasm coming."
+    "Sientes que viene un orgasmo."
 
 # game/places/wanderers/prostitutes/sukki.rpy:316
 translate spanish w_booth_sukki_lift_before2_46bfd397:
@@ -442,55 +442,55 @@ translate spanish w_booth_sukki_lift_before2_46bfd397:
 translate spanish w_booth_sukki_lift_before2_11ecf0bd:
 
     # sukki "Ahhmm!~ Thank you for fucking me!"
-    sukki "Ahhmm!~ Thank you for fucking me!"
+    sukki "¡Ahhmm!~ ¡Gracias por follarme!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:318
 translate spanish w_booth_sukki_lift_before2_13333349:
 
     # me "The pleasure is mine."
-    me "The pleasure is mine."
+    me "El placer es mío."
 
 # game/places/wanderers/prostitutes/sukki.rpy:319
 translate spanish w_booth_sukki_lift_before2_0ccf9ea3:
 
     # sukki "Thank you!"
-    sukki "Thank you!"
+    sukki "¡Gracias!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:320
 translate spanish w_booth_sukki_lift_before2_d50856e9:
 
     # me "What about your pussy?"
-    me "What about your pussy?"
+    me "¿Qué hay de tu coño?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:321
 translate spanish w_booth_sukki_lift_before2_8c013449:
 
     # sukki "She thanks you too, [me_sukki]~"
-    sukki "She thanks you too, [me_sukki]~"
+    sukki "Ella también te lo agradece, [me_sukki]~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:322
 translate spanish w_booth_sukki_lift_before2_415fec28:
 
     # sukki "Oh, it also wants you to fill it with your seed, [me_sukki]~"
-    sukki "Oh, it also wants you to fill it with your seed, [me_sukki]~"
+    sukki "Oh, también quiere que la llenes con tu semen, [me_sukki]~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:323
 translate spanish w_booth_sukki_lift_before2_ebbd7a26:
 
     # me "I'll see what I can do."
-    me "I'll see what I can do."
+    me "Veré lo que puedo hacer."
 
 # game/places/wanderers/prostitutes/sukki.rpy:324
 translate spanish w_booth_sukki_lift_before2_8688b6e8:
 
     # me "Ah!"
-    me "Ah!"
+    me "¡Ah!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:325
 translate spanish w_booth_sukki_lift_before2_55ee49b2:
 
     # "You feel an orgasm coming."
-    "You feel an orgasm coming."
+    "Sientes que viene un orgasmo."
 
 # game/places/wanderers/prostitutes/sukki.rpy:350
 translate spanish w_booth_sukki_lift_before3_46bfd397:
@@ -502,121 +502,121 @@ translate spanish w_booth_sukki_lift_before3_46bfd397:
 translate spanish w_booth_sukki_lift_before3_11ecf0bd:
 
     # sukki "Ahhmm!~ Thank you for fucking me!"
-    sukki "Ahhmm!~ Thank you for fucking me!"
+    sukki "¡Ahhmm!~ ¡Gracias por follarme!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:352
 translate spanish w_booth_sukki_lift_before3_13333349:
 
     # me "The pleasure is mine."
-    me "The pleasure is mine."
+    me "El placer es mío."
 
 # game/places/wanderers/prostitutes/sukki.rpy:353
 translate spanish w_booth_sukki_lift_before3_0ccf9ea3:
 
     # sukki "Thank you!"
-    sukki "Thank you!"
+    sukki "¡Gracias!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:354
 translate spanish w_booth_sukki_lift_before3_d50856e9:
 
     # me "What about your pussy?"
-    me "What about your pussy?"
+    me "¿Qué hay de tu coño?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:355
 translate spanish w_booth_sukki_lift_before3_8c013449:
 
     # sukki "She thanks you too, [me_sukki]~"
-    sukki "She thanks you too, [me_sukki]~"
+    sukki "Ella también te lo agradece, [me_sukki]~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:356
 translate spanish w_booth_sukki_lift_before3_415fec28:
 
     # sukki "Oh, it also wants you to fill it with your seed, [me_sukki]~"
-    sukki "Oh, it also wants you to fill it with your seed, [me_sukki]~"
+    sukki "Oh, también quiere que la llenes con tu semen, [me_sukki]~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:357
 translate spanish w_booth_sukki_lift_before3_ebbd7a26:
 
     # me "I'll see what I can do."
-    me "I'll see what I can do."
+    me "Veré lo que puedo hacer."
 
 # game/places/wanderers/prostitutes/sukki.rpy:358
 translate spanish w_booth_sukki_lift_before3_8688b6e8:
 
     # me "Ah!"
-    me "Ah!"
+    me "¡Ah!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:359
 translate spanish w_booth_sukki_lift_before3_55ee49b2:
 
     # "You feel an orgasm coming."
-    "You feel an orgasm coming."
+    "Sientes que viene un orgasmo."
 
 # game/places/wanderers/prostitutes/sukki.rpy:379
 translate spanish w_booth_sukki_lift_inside_4731d435:
 
     # sukki "Ahh!~"
-    sukki "Ahh!~"
+    sukki "¡Ahh!~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:380
 translate spanish w_booth_sukki_lift_inside_a8a31173:
 
     # me "Ahhh!!"
-    me "Ahhh!!"
+    me "¡¡Ahhh!!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:381
 translate spanish w_booth_sukki_lift_inside_8a2af81a:
 
     # "You are cumming together with [sukki]."
-    "You are cumming together with [sukki]."
+    "Te estás corriendo junto a [sukki]."
 
 # game/places/wanderers/prostitutes/sukki.rpy:384
 translate spanish w_booth_sukki_lift_inside_8178781d:
 
     # sukki "Ahm.. Look at my pussy, how grateful she is."
-    sukki "Ahm.. Look at my pussy, how grateful she is."
+    sukki "Ahm... Mira mi coño, lo agradecida que está."
 
 # game/places/wanderers/prostitutes/sukki.rpy:385
 translate spanish w_booth_sukki_lift_inside_cdb2cc2f:
 
     # me "Yeah, she does looks happy."
-    me "Yeah, she does looks happy."
+    me "Sí, se ve feliz.."
 
 # game/places/wanderers/prostitutes/sukki.rpy:386
 translate spanish w_booth_sukki_lift_inside_6da58893:
 
     # sukki "She is, thank you, [me_sukki]."
-    sukki "She is, thank you, [me_sukki]."
+    sukki "Lo está. Gracias, [me_sukki]."
 
 # game/places/wanderers/prostitutes/sukki.rpy:395
 translate spanish w_booth_sukki_lift_inside_16511b57:
 
     # sukki "I would love to play with you again, [me_sukki], but Madam Hof would be angry.."
-    sukki "I would love to play with you again, [me_sukki], but Madam Hof would be angry.."
+    sukki "Me encantaría volver a jugar contigo, [me_sukki], pero la Madam Hof se enfadaría..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:396
 translate spanish w_booth_sukki_lift_inside_7ca09d1c:
 
     # me "That's alright, I understand."
-    me "That's alright, I understand."
+    me "Está bien, entiendo."
 
 # game/places/wanderers/prostitutes/sukki.rpy:397
 translate spanish w_booth_sukki_lift_inside_0ccf9ea3:
 
     # sukki "Thank you!"
-    sukki "Thank you!"
+    sukki "¡Gracias!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:398
 translate spanish w_booth_sukki_lift_inside_03efbf8e:
 
     # sukki "Please come again, [sukki] will be waiting for you!"
-    sukki "Please come again, [sukki] will be waiting for you!"
+    sukki "¡Por favor ven de nuevo, [sukki] te estará esperando!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:399
 translate spanish w_booth_sukki_lift_inside_bde7073e:
 
     # me "I'm eager for the next visit already."
-    me "I'm eager for the next visit already."
+    me "Ya estoy ansioso por la próxima visita."
 
 # game/places/wanderers/prostitutes/sukki.rpy:400
 translate spanish w_booth_sukki_lift_inside_555c53c6:
@@ -628,91 +628,91 @@ translate spanish w_booth_sukki_lift_inside_555c53c6:
 translate spanish w_booth_sukki_lift_inside_5cdebf03:
 
     # me "Bye."
-    me "Bye."
+    me "Adiós."
 
 # game/places/wanderers/prostitutes/sukki.rpy:407
 translate spanish w_booth_sukki_lift_outside_2f3d23c6:
 
     # "You are cumming!"
-    "You are cumming!"
+    "¡Te estás viniendo!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:408
 translate spanish w_booth_sukki_lift_outside_3217e8b9:
 
     # me "Ahh!!"
-    me "Ahh!!"
+    me "¡¡Ahh!!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:411
 translate spanish w_booth_sukki_lift_outside_dfb7c5b8:
 
     # me "Ahh.. That was good."
-    me "Ahh.. That was good."
+    me "Ahh... Eso fue bueno."
 
 # game/places/wanderers/prostitutes/sukki.rpy:412
 translate spanish w_booth_sukki_lift_outside_d856b86f:
 
     # "You've covered [sukki] in your sperm."
-    "You've covered [sukki] in your sperm."
+    "Has cubierto [sukki] en tu esperma."
 
 # game/places/wanderers/prostitutes/sukki.rpy:413
 translate spanish w_booth_sukki_lift_outside_4df644cf:
 
     # sukki "Oh, I got dirty, it seems [me_sukki] likes [sukki] a lot!"
-    sukki "Oh, I got dirty, it seems [me_sukki] likes [sukki] a lot!"
+    sukki "Oh, estoy toda sucia. ¡Parece que a [me_sukki] le gusta mucho [sukki]!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:416
 translate spanish w_booth_sukki_lift_outside_90b6d89c:
 
     # me "Yeah, you're good girl, [sukki]."
-    me "Yeah, you're good girl, [sukki]."
+    me "Sí, eres una buena chica, [sukki]."
 
 # game/places/wanderers/prostitutes/sukki.rpy:417
 translate spanish w_booth_sukki_lift_outside_0fdce16f:
 
     # sukki "Thank you, [me_sukki]! My pussy is sad you didn't fill it, though."
-    sukki "Thank you, [me_sukki]! My pussy is sad you didn't fill it, though."
+    sukki "¡Gracias, [me_sukki]! Aunque mi vagina está triste porque no la llenaste."
 
 # game/places/wanderers/prostitutes/sukki.rpy:418
 translate spanish w_booth_sukki_lift_outside_e29f5996:
 
     # me "Sorry for that, [sukki]'s pussy. Next time, maybe."
-    me "Sorry for that, [sukki]'s pussy. Next time, maybe."
+    me "Lo siento por eso, coño de [sukki]. Tal vez la próxima vez."
 
 # game/places/wanderers/prostitutes/sukki.rpy:419
 translate spanish w_booth_sukki_lift_outside_feb827e3:
 
     # sukki "It'll be waiting."
-    sukki "It'll be waiting."
+    sukki "Va a estar esperando."
 
 # game/places/wanderers/prostitutes/sukki.rpy:428
 translate spanish w_booth_sukki_lift_outside_16511b57:
 
     # sukki "I would love to play with you again, [me_sukki], but Madam Hof would be angry.."
-    sukki "I would love to play with you again, [me_sukki], but Madam Hof would be angry.."
+    sukki "Me encantaría volver a jugar contigo, [me_sukki], pero la Madam Hof se enfadaría..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:429
 translate spanish w_booth_sukki_lift_outside_7ca09d1c:
 
     # me "That's alright, I understand."
-    me "That's alright, I understand."
+    me "Está bien, entiendo."
 
 # game/places/wanderers/prostitutes/sukki.rpy:430
 translate spanish w_booth_sukki_lift_outside_0ccf9ea3:
 
     # sukki "Thank you!"
-    sukki "Thank you!"
+    sukki "¡Gracias!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:431
 translate spanish w_booth_sukki_lift_outside_03efbf8e:
 
     # sukki "Please come again, [sukki] will be waiting for you!"
-    sukki "Please come again, [sukki] will be waiting for you!"
+    sukki "¡Por favor ven de nuevo, [sukki] te estará esperando!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:432
 translate spanish w_booth_sukki_lift_outside_bde7073e:
 
     # me "I'm eager for the next visit already."
-    me "I'm eager for the next visit already."
+    me "Ya estoy ansioso por la próxima visita."
 
 # game/places/wanderers/prostitutes/sukki.rpy:433
 translate spanish w_booth_sukki_lift_outside_555c53c6:
@@ -730,157 +730,157 @@ translate spanish w_booth_sukki_lift_outside_5cdebf03:
 translate spanish w_booth_sukki_thigh_380609f7:
 
     # "Without hesitation, you thrust your penis between her thighs."
-    "Without hesitation, you thrust your penis between her thighs."
+    "Sin dudarlo, empujas tu pene entre sus muslos."
 
 # game/places/wanderers/prostitutes/sukki.rpy:450
 translate spanish w_booth_sukki_thigh_da6e0128:
 
     # sukki "How impatient.. [sukki] likes impatient [me_sukki]s."
-    sukki "How impatient.. [sukki] likes impatient [me_sukki]s."
+    sukki "Qué impaciente... a [sukki] le gustan [me_sukki]s impacientes."
 
 # game/places/wanderers/prostitutes/sukki.rpy:461
 translate spanish w_booth_sukki_thigh_slow_9eb4b0f2:
 
     # sukki "Mmm.."
-    sukki "Mmm.."
+    sukki "Mmm..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:462
 translate spanish w_booth_sukki_thigh_slow_dae9d3f1:
 
     # me "Your smooth skin feels amazing."
-    me "Your smooth skin feels amazing."
+    me "Tu piel suave se siente increíble."
 
 # game/places/wanderers/prostitutes/sukki.rpy:463
 translate spanish w_booth_sukki_thigh_slow_c58fd2cf:
 
     # sukki "Hehe~ Thank you, [me_sukki]!"
-    sukki "Hehe~ Thank you, [me_sukki]!"
+    sukki "Hehe~ ¡Gracias, [me_sukki]!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:464
 translate spanish w_booth_sukki_thigh_slow_c4261cf4:
 
     # sukki "[sukki] loves compliments!"
-    sukki "[sukki] loves compliments!"
+    sukki "¡[sukki] ama los cumplidos!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:465
 translate spanish w_booth_sukki_thigh_slow_adf8bc37:
 
     # me "I've done better things in life, but it feels so fresh and nice."
-    me "I've done better things in life, but it feels so fresh and nice."
+    me "He hecho mejores cosas en la vida, pero esto se siente tan fresco y agradable."
 
 # game/places/wanderers/prostitutes/sukki.rpy:466
 translate spanish w_booth_sukki_thigh_slow_5f71c766:
 
     # sukki "[sukki]'ll always make [me_sukki]'s day amazing~"
-    sukki "[sukki]'ll always make [me_sukki]'s day amazing~"
+    sukki "[sukki] siempre hará que el día de [me_sukki] sea increíble~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:485
 translate spanish w_booth_sukki_thigh_slow2_9eb4b0f2:
 
     # sukki "Mmm.."
-    sukki "Mmm.."
+    sukki "Mmm..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:486
 translate spanish w_booth_sukki_thigh_slow2_dae9d3f1:
 
     # me "Your smooth skin feels amazing."
-    me "Your smooth skin feels amazing."
+    me "Tu piel suave se siente increíble."
 
 # game/places/wanderers/prostitutes/sukki.rpy:487
 translate spanish w_booth_sukki_thigh_slow2_c58fd2cf:
 
     # sukki "Hehe~ Thank you, [me_sukki]!"
-    sukki "Hehe~ Thank you, [me_sukki]!"
+    sukki "Hehe~ ¡Gracias, [me_sukki]!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:488
 translate spanish w_booth_sukki_thigh_slow2_c4261cf4:
 
     # sukki "[sukki] loves compliments!"
-    sukki "[sukki] loves compliments!"
+    sukki "¡[sukki] ama los cumplidos!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:489
 translate spanish w_booth_sukki_thigh_slow2_adf8bc37:
 
     # me "I've done better things in life, but it feels so fresh and nice."
-    me "I've done better things in life, but it feels so fresh and nice."
+    me "He hecho mejores cosas en la vida, pero esto se siente tan fresco y agradable."
 
 # game/places/wanderers/prostitutes/sukki.rpy:490
 translate spanish w_booth_sukki_thigh_slow2_5f71c766:
 
     # sukki "[sukki]'ll always make [me_sukki]'s day amazing~"
-    sukki "[sukki]'ll always make [me_sukki]'s day amazing~"
+    sukki "[sukki] siempre hará que el día de [me_sukki] sea increíble~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:509
 translate spanish w_booth_sukki_thigh_slow3_9eb4b0f2:
 
     # sukki "Mmm.."
-    sukki "Mmm.."
+    sukki "Mmm..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:510
 translate spanish w_booth_sukki_thigh_slow3_dae9d3f1:
 
     # me "Your smooth skin feels amazing."
-    me "Your smooth skin feels amazing."
+    me "Tu piel suave se siente increíble."
 
 # game/places/wanderers/prostitutes/sukki.rpy:511
 translate spanish w_booth_sukki_thigh_slow3_c58fd2cf:
 
     # sukki "Hehe~ Thank you, [me_sukki]!"
-    sukki "Hehe~ Thank you, [me_sukki]!"
+    sukki "Hehe~ ¡Gracias, [me_sukki]!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:512
 translate spanish w_booth_sukki_thigh_slow3_c4261cf4:
 
     # sukki "[sukki] loves compliments!"
-    sukki "[sukki] loves compliments!"
+    sukki "¡[sukki] ama los cumplidos!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:513
 translate spanish w_booth_sukki_thigh_slow3_adf8bc37:
 
     # me "I've done better things in life, but it feels so fresh and nice."
-    me "I've done better things in life, but it feels so fresh and nice."
+    me "He hecho mejores cosas en la vida, pero esto se siente tan fresco y agradable."
 
 # game/places/wanderers/prostitutes/sukki.rpy:514
 translate spanish w_booth_sukki_thigh_slow3_5f71c766:
 
     # sukki "[sukki]'ll always make [me_sukki]'s day amazing~"
-    sukki "[sukki]'ll always make [me_sukki]'s day amazing~"
+    sukki "[sukki] siempre hará que el día de [me_sukki] sea increíble~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:533
 translate spanish w_booth_sukki_thigh_fast_3ba26f98:
 
     # sukki "Your penis teases my little pussy so much, [me_sukki].."
-    sukki "Your penis teases my little pussy so much, [me_sukki].."
+    sukki "Tu pene provoca tanto a mi coñito, [me_sukki]..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:534
 translate spanish w_booth_sukki_thigh_fast_4cf460e6:
 
     # me "Mmm.. You would like me to fuck your little pussy, right?"
-    me "Mmm.. You would like me to fuck your little pussy, right?"
+    me "Mmm... Te gustaría que me follara tu coñito, ¿verdad?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:535
 translate spanish w_booth_sukki_thigh_fast_f0f2a3a7:
 
     # sukki "Mm~ [sukki]'s pussy would like nothing more!"
-    sukki "Mm~ [sukki]'s pussy would like nothing more!"
+    sukki "Mm~ ¡Al coño de [sukki] no le gustaría nada más!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:536
 translate spanish w_booth_sukki_thigh_fast_1bb2b9a8:
 
     # me "That's your pussy, what about you?"
-    me "That's your pussy, what about you?"
+    me "Ese es tu coño, ¿y tú?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:537
 translate spanish w_booth_sukki_thigh_fast_67dbd1e2:
 
     # sukki "[sukki] wants [me_sukki]'s cock too!"
-    sukki "[sukki] wants [me_sukki]'s cock too!"
+    sukki "¡[sukki] también quiere la polla de [me_sukki]!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:538
 translate spanish w_booth_sukki_thigh_fast_f8918f9a:
 
     # me "Good girl. Daddy loves dirty talk."
-    me "Good girl. Daddy loves dirty talk."
+    me "Buena chica. A papi le encanta hablar sucio."
 
 # game/places/wanderers/prostitutes/sukki.rpy:539
 translate spanish w_booth_sukki_thigh_fast_73f078a6:
@@ -904,37 +904,37 @@ translate spanish w_booth_sukki_thigh_fast_ec8bffac:
 translate spanish w_booth_sukki_thigh_fast2_3ba26f98:
 
     # sukki "Your penis teases my little pussy so much, [me_sukki].."
-    sukki "Your penis teases my little pussy so much, [me_sukki].."
+    sukki "Tu pene provoca tanto a mi coñito, [me_sukki]..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:564
 translate spanish w_booth_sukki_thigh_fast2_4cf460e6:
 
     # me "Mmm.. You would like me to fuck your little pussy, right?"
-    me "Mmm.. You would like me to fuck your little pussy, right?"
+    me "Mmm... Te gustaría que me follara tu coñito, ¿verdad?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:565
 translate spanish w_booth_sukki_thigh_fast2_f0f2a3a7:
 
     # sukki "Mm~ [sukki]'s pussy would like nothing more!"
-    sukki "Mm~ [sukki]'s pussy would like nothing more!"
+    sukki "Mm~ ¡Al coño de [sukki] no le gustaría nada más!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:566
 translate spanish w_booth_sukki_thigh_fast2_1bb2b9a8:
 
     # me "That's your pussy, what about you?"
-    me "That's your pussy, what about you?"
+    me "Ese es tu coño, ¿y tú?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:567
 translate spanish w_booth_sukki_thigh_fast2_67dbd1e2:
 
     # sukki "[sukki] wants [me_sukki]'s cock too!"
-    sukki "[sukki] wants [me_sukki]'s cock too!"
+    sukki "¡[sukki] también quiere la polla de [me_sukki]!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:568
 translate spanish w_booth_sukki_thigh_fast2_f8918f9a:
 
     # me "Good girl. Daddy loves dirty talk."
-    me "Good girl. Daddy loves dirty talk."
+    me "Buena chica. A papi le encanta hablar sucio."
 
 # game/places/wanderers/prostitutes/sukki.rpy:569
 translate spanish w_booth_sukki_thigh_fast2_73f078a6:
@@ -958,37 +958,37 @@ translate spanish w_booth_sukki_thigh_fast2_ec8bffac:
 translate spanish w_booth_sukki_thigh_fast3_3ba26f98:
 
     # sukki "Your penis teases my little pussy so much, [me_sukki].."
-    sukki "Your penis teases my little pussy so much, [me_sukki].."
+    sukki "Tu pene provoca tanto a mi coñito, [me_sukki]..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:594
 translate spanish w_booth_sukki_thigh_fast3_4cf460e6:
 
     # me "Mmm.. You would like me to fuck your little pussy, right?"
-    me "Mmm.. You would like me to fuck your little pussy, right?"
+    me "Mmm... Te gustaría que me follara tu coñito, ¿verdad?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:595
 translate spanish w_booth_sukki_thigh_fast3_f0f2a3a7:
 
     # sukki "Mm~ [sukki]'s pussy would like nothing more!"
-    sukki "Mm~ [sukki]'s pussy would like nothing more!"
+    sukki "Mm~ ¡Al coño de [sukki] no le gustaría nada más!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:596
 translate spanish w_booth_sukki_thigh_fast3_1bb2b9a8:
 
     # me "That's your pussy, what about you?"
-    me "That's your pussy, what about you?"
+    me "Ese es tu coño, ¿y tú?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:597
 translate spanish w_booth_sukki_thigh_fast3_67dbd1e2:
 
     # sukki "[sukki] wants [me_sukki]'s cock too!"
-    sukki "[sukki] wants [me_sukki]'s cock too!"
+    sukki "¡[sukki] también quiere la polla de [me_sukki]!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:598
 translate spanish w_booth_sukki_thigh_fast3_f8918f9a:
 
     # me "Good girl. Daddy loves dirty talk."
-    me "Good girl. Daddy loves dirty talk."
+    me "Buena chica. A papi le encanta hablar sucio."
 
 # game/places/wanderers/prostitutes/sukki.rpy:599
 translate spanish w_booth_sukki_thigh_fast3_73f078a6:
@@ -1240,19 +1240,19 @@ translate spanish w_booth_sukki_thigh_cum_24406f4d:
 translate spanish w_booth_sukki_thigh_cum_7ca09d1c:
 
     # me "That's alright, I understand."
-    me "That's alright, I understand."
+    me "Está bien, entiendo."
 
 # game/places/wanderers/prostitutes/sukki.rpy:751
 translate spanish w_booth_sukki_thigh_cum_0ccf9ea3:
 
     # sukki "Thank you!"
-    sukki "Thank you!"
+    sukki "¡Gracias!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:752
 translate spanish w_booth_sukki_thigh_cum_03efbf8e:
 
     # sukki "Please come again, [sukki] will be waiting for you!"
-    sukki "Please come again, [sukki] will be waiting for you!"
+    sukki "¡Por favor ven de nuevo, [sukki] te estará esperando!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:753
 translate spanish w_booth_sukki_thigh_cum_f537c7ab:
@@ -1281,4 +1281,3 @@ translate spanish strings:
     # game/places/wanderers/prostitutes/sukki.rpy:36
     old "Thighjob"
     new "Thighjob"
-

@@ -4,5 +4,4 @@
 translate spanish room_f2_savenia_54340ad2:
 
     # th "Why would I enter at this hour? I should return earlier."
-    th "Why would I enter at this hour? I should return earlier."
-
+    th "¿Por qué debería entrar a esta hora? Debería volver cuando sea más temprano."

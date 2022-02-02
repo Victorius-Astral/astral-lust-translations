@@ -597,5 +597,4 @@ translate spanish strings:
 
     # game/characters/alice/ev_3.rpy:146
     old "She brought me to watch her back when she went out to get a.. \"friend\"...."
-    new "She brought me to watch her back when she went out to get a.. \"friend\"...."
-
+    new "Ella me trajo para hacer de guardia cuando salía a buscar un... \"amigo\"...."
