@@ -63,14 +63,6 @@ translate polish strings:
     new "11. You can expand your hotel at lobby counter, build vault as quick as possible to store materials you find."
 
     # game/variables/help.rpy:3
-    old "{color=#45B6FE}12. Game in its current version is unbalanced, use this to your advantage to prepare for future releases.{/color}"
-    new "{color=#45B6FE}12. Game in its current version is unbalanced, use this to your advantage to prepare for future releases.{/color}"
-
-    # game/variables/help.rpy:3
-    old "13. If sanity reaches 0%% or corruption 100% it's game over, be careful."
-    new "13. If sanity reaches 0%% or corruption 100% it's game over, be careful."
-
-    # game/variables/help.rpy:3
     old "{color=#45B6FE}14. You can find collectibles to unlock additional pictures on pc. Look for golden condoms and condom packs.{/color}"
     new "{color=#45B6FE}14. You can find collectibles to unlock additional pictures on pc. Look for golden condoms and condom packs.{/color}"
 
@@ -301,27 +293,23 @@ translate polish strings:
     # game/variables/help.rpy:3
     old "{gold}Remember, raising your stats can increase your combat ability dramatically!{/gold}"
     new "{gold}Remember, raising your stats can increase your combat ability dramatically!{/gold}"
-# TODO: Translation updated at 2021-07-11 16:45
+
+# Translation updated at 2021-07-11 16:45
 
 translate polish strings:
 
     # game/variables/help.rpy:3
-    old "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over, be careful.{/color}"
-    new "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over, be careful.{/color}"
-
-    # game/variables/help.rpy:3
     old "13. You can find collectibles to unlock additional pictures on pc. Look for golden condoms and condom packs."
-    new "13. You can find collectibles to unlock additional pictures on pc. Look for golden condoms and condom packs."
+    new "13. Możesz szukać znajdziek, aby odblokować dodatkowe zdjęcia na komputerze. Szukaj złote kondomy i paczki kondomów."
 
-# TODO: Translation updated at 2022-01-31 15:20
+# Translation updated at 2022-01-31 15:20
 
 translate polish strings:
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over. Be careful.{/color}"
-    new "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over. Be careful.{/color}"
+    new "{color=#45B6FE}12. Przegrasz jeśli zdrowie psychiczne osiągnie 0\\%, albo korupcja osiągnie 100%. Bądź ostrożny.{/color}"
 
     # game/variables/help.rpy:3
     old "Forge allows you to do mostly two things:"
-    new "Forge allows you to do mostly two things:"
-
+    new "Kuźnia pozwala głównie na dwie rzeczy:"

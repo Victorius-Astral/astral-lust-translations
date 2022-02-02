@@ -207,8 +207,8 @@ translate polish strings:
     new "Spirituality"
 
     # game/combat/battle/tutorial.rpy:43
-    old "Spirituality is an energy used to perform actions in combat. It is restored every turn. By default the maximum spirituality is three, but you can increase it by training wisdom with the Rubik cube in your room."
-    new "Spirituality is an energy used to perform actions in combat. It is restored every turn. By default the maximum spirituality is three, but you can increase it by training wisdom with the Rubik cube in your room."
+    old "Spirituality is an energy used to perform actions in combat. It is restored every turn. By default the maximum spirituality is three, but you can increase it by training wisdom with the books in your room."
+    new "Spirituality is an energy used to perform actions in combat. It is restored every turn. By default the maximum spirituality is three, but you can increase it by training wisdom with the books in your room."
 
     # game/combat/battle/tutorial.rpy:48
     old "Use Strike card"
