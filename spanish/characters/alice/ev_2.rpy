@@ -397,5 +397,4 @@ translate spanish strings:
 
     # game/characters/alice/ev_2.rpy:84
     old "Toying with me seems to be her hobby."
-    new "Toying with me seems to be her hobby."
-
+    new "Jugar conmigo parece ser su pasatiempo."

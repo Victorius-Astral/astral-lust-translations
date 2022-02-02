@@ -630,5 +630,4 @@ translate spanish strings:
 
     # game/characters/alice/ev_10.rpy:49
     old "She's officially my girl now."
-    new "She's officially my girl now."
-
+    new "Ella es oficialmente mi chica ahora."
