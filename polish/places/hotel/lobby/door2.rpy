@@ -14,3 +14,11 @@ translate polish strings:
     old "Vault"
     new "Vault"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/places/hotel/lobby/door2.rpy:2
+    old "Fox Shrine"
+    new "Fox Shrine"
+

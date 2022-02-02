@@ -362,3 +362,11 @@ translate polish strings:
     old "..."
     new "..."
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/characters/alice/ev_6.rpy:90
+    old "She trains at the gym from time to time. It makes her tranquil. I can accompany her if I want."
+    new "She trains at the gym from time to time. It makes her tranquil. I can accompany her if I want."
+

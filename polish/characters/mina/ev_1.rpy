@@ -398,3 +398,11 @@ translate polish strings:
     old "She is great"
     new "She is great"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/characters/mina/ev_1.rpy:64
+    old "She seems to believe I'm courting Lexi. This thought makes her excited."
+    new "She seems to believe I'm courting Lexi. This thought makes her excited."
+

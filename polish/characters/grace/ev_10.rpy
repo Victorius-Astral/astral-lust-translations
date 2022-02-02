@@ -664,3 +664,79 @@ translate polish strings:
     old "No, she'll be back"
     new "No, she'll be back"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/grace/ev_10.rpy:63
+translate polish grace_10_part2_4d894038:
+
+    # me "Is there any game you would like to play with me?"
+    me "Is there any game you would like to play with me?"
+
+# game/characters/grace/ev_10.rpy:83
+translate polish grace_10_part2_312e4a61:
+
+    # me "Wait.. Why are we playing family? Don't you hate men?"
+    me "Wait.. Why are we playing family? Don't you hate men?"
+
+# game/characters/grace/ev_10.rpy:94
+translate polish grace_10_part2_7ff8664f:
+
+    # me "I believe the girls have more important stuff to do. Can't we play as two characters at once?"
+    me "I believe the girls have more important stuff to do. Can't we play as two characters at once?"
+
+# game/characters/grace/ev_10.rpy:120
+translate polish grace_10_part2_9d553f52:
+
+    # th "That bitch of a mother is really unforgivable."
+    th "That bitch of a mother is really unforgivable."
+
+# game/characters/grace/ev_10.rpy:139
+translate polish grace_10_part2_1850b507:
+
+    # "While you can't say it's the most 'mature' thing you've done, her happy face is enough to make it worth it."
+    "While you can't say it's the most 'mature' thing you've done, her happy face is enough to make it worth it."
+
+# game/characters/grace/ev_10.rpy:170
+translate polish grace_10_part2_9b724c97:
+
+    # me "No, you massage my penis with your boobs."
+    me "No, you massage my penis with your boobs."
+
+# game/characters/grace/ev_10.rpy:178
+translate polish grace_10_part2_681867ae:
+
+    # grace "Should I start moving?"
+    grace "Should I start moving?"
+
+# game/characters/grace/ev_10.rpy:204
+translate polish grace_10_part2_50958781:
+
+    # grace "That's good, should I move even faster?"
+    grace "That's good, should I move even faster?"
+
+# game/characters/grace/ev_10.rpy:218
+translate polish grace_10_part2_2c94258a:
+
+    # me "Do it a bit more.. I'm almost there."
+    me "Do it a bit more.. I'm almost there."
+
+# game/characters/grace/ev_10.rpy:235
+translate polish grace_10_part2_f7a1bfec:
+
+    # me "Yeah, it happens, don't worry about it. Go clean yourself before it gets sticky."
+    me "Yeah, it happens, don't worry about it. Go clean yourself before it gets sticky."
+
+translate polish strings:
+
+    # game/characters/grace/ev_10.rpy:5
+    old "Ted"
+    new "Ted"
+
+    # game/characters/grace/ev_10.rpy:18
+    old "Yes, she doesn't want you, anymore"
+    new "Yes, she doesn't want you, anymore"
+
+    # game/characters/grace/ev_10.rpy:77
+    old "Secret found! Victorius is pleased. +50% vault space multiplier!"
+    new "Secret found! Victorius is pleased. +50% vault space multiplier!"
+

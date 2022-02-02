@@ -396,3 +396,11 @@ translate polish strings:
     old "Thank her"
     new "Thank her"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/characters/grace/ev_6.rpy:28
+    old "Her cooking is the best!"
+    new "Her cooking is the best!"
+

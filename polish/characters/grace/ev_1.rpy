@@ -264,3 +264,11 @@ translate polish strings:
     old "It's too risky"
     new "It's too risky"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/characters/grace/ev_1.rpy:71
+    old "This silly girl seems to despise men to the bone. I wonder why?"
+    new "This silly girl seems to despise men to the bone. I wonder why?"
+

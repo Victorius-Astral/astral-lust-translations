@@ -1188,3 +1188,201 @@ translate polish strings:
     old "Let her win"
     new "Let her win"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/mina/kiss.rpy:19
+translate polish mina_kiss_100ef60d:
+
+    # mina "You pervert! What are you asking of such an innocent girl like me?"
+    mina "You pervert! What are you asking of such an innocent girl like me?"
+
+# game/characters/mina/kiss.rpy:20
+translate polish mina_kiss_e4095f14:
+
+    # me "This face looks silly, not innocent."
+    me "This face looks silly, not innocent."
+
+# game/characters/mina/kiss.rpy:52
+translate polish mina_kiss_3dc18494:
+
+    # mina "So, you've fallen for me."
+    mina "So, you've fallen for me."
+
+# game/characters/mina/kiss.rpy:73
+translate polish mina_kiss_7f8cdfca:
+
+    # mina "Oh, you mean when we talked on the sofa. Yes, I remember."
+    mina "Oh, you mean when we talked on the sofa. Yes, I remember."
+
+# game/characters/mina/kiss.rpy:82
+translate polish mina_kiss_260be9f0:
+
+    # me "I don't question it. I just offered some fun time."
+    me "I don't question it. I just offered some fun time."
+
+# game/characters/mina/kiss.rpy:99
+translate polish mina_kiss_friend_route_2f351f33:
+
+    # mina "We are buddies. Why involve things like kisses?"
+    mina "We are buddies. Why involve things like kisses?"
+
+# game/characters/mina/kiss.rpy:100
+translate polish mina_kiss_friend_route_532c77d6:
+
+    # me "I think it would help our friendship grow stronger!"
+    me "I think it would help our friendship grow stronger!"
+
+# game/characters/mina/kiss.rpy:105
+translate polish mina_kiss_friend_route_b09878ce:
+
+    # mina "Now that's bullshit."
+    mina "Now that's bullshit."
+
+# game/characters/mina/kiss.rpy:113
+translate polish mina_kiss_friend_route_a22a35a4:
+
+    # mina "What are you going to do about that."
+    mina "What are you going to do about that."
+
+# game/characters/mina/kiss.rpy:123
+translate polish mina_kiss_friend_route_49d9cd27:
+
+    # mina "You laugh, and in a while, you'll be crying."
+    mina "You laugh, and in a while, you'll be crying."
+
+# game/characters/mina/kiss.rpy:133
+translate polish mina_kiss_friend_route_d435e0c2:
+
+    # me "Now, now, now. Not a good enough."
+    me "Now, now, now. Not a good enough."
+
+# game/characters/mina/kiss.rpy:144
+translate polish mina_kiss_friend_route_6530978f:
+
+    # mina "Now, that's aaawkward~"
+    mina "Now, that's aaawkward~"
+
+# game/characters/mina/kiss.rpy:147
+translate polish mina_kiss_friend_route_afab8cdd:
+
+    # me "So, what about.."
+    me "So, what about.."
+
+# game/characters/mina/kiss.rpy:180
+translate polish mina_kiss_friend_route_86caa441:
+
+    # mina "I'm not some reward.. "
+    mina "I'm not some reward.. "
+
+# game/characters/mina/kiss.rpy:197
+translate polish mina_kiss_friend_route_c611e6c3:
+
+    # mina "Next time, I'll get you."
+    mina "Next time, I'll get you."
+
+# game/characters/mina/kiss.rpy:198
+translate polish mina_kiss_friend_route_ad99c039:
+
+    # me "Good luck, loser."
+    me "Good luck, loser."
+
+# game/characters/mina/kiss.rpy:214
+translate polish mina_kiss_friend_route_79fe1a52:
+
+    # mina "Now, that's awkward."
+    mina "Now, that's awkward."
+
+# game/characters/mina/kiss.rpy:215
+translate polish mina_kiss_friend_route_4e2a8876_2:
+
+    # mina "..."
+    mina "..."
+
+# game/characters/mina/kiss.rpy:317
+translate polish mina_kiss_love_route_8cf106ed:
+
+    # mina "We'll be kissing until one of us has an orgasm. He will be the loser."
+    mina "We'll be kissing until one of us has an orgasm. He will be the loser."
+
+# game/characters/mina/kiss.rpy:447
+translate polish mina_kiss_contest_failed_55176ae3:
+
+    # mina "Oh! Look at that."
+    mina "Oh! Look at that."
+
+# game/characters/mina/kiss.rpy:458
+translate polish mina_kiss_contest_failed_e9a71358:
+
+    # mina "Give it your all, [me]. Let it be worth it."
+    mina "Give it your all, [me]. Let it be worth it."
+
+# game/characters/mina/kiss.rpy:459
+translate polish mina_kiss_contest_failed_2beb98cc:
+
+    # me "Of course, I owe you this."
+    me "Of course, I owe you this."
+
+# game/characters/mina/kiss.rpy:475
+translate polish mina_kiss_contest_failed_8ba89177:
+
+    # mina "Yeah, I can tell."
+    mina "Yeah, I can tell."
+
+# game/characters/mina/kiss.rpy:485
+translate polish mina_kiss_contest_failed_acfd95eb:
+
+    # me "Yeah, cum for me, [mina]."
+    me "Yeah, cum for me, [mina]."
+
+# game/characters/mina/kiss.rpy:527
+translate polish mina_kiss_contest_reward_42ead177:
+
+    # me "Now it's time to get my reward. Don't forget to lose some clothes."
+    me "Now it's time to get my reward. Don't forget to lose some clothes."
+
+# game/characters/mina/kiss.rpy:536
+translate polish mina_kiss_contest_reward_f02b4a04:
+
+    # me "Only top?"
+    me "Only top?"
+
+# game/characters/mina/kiss.rpy:537
+translate polish mina_kiss_contest_reward_cfdee94f:
+
+    # mina "Mhhgmm."
+    mina "Mhhgmm."
+
+# game/characters/mina/kiss.rpy:538
+translate polish mina_kiss_contest_reward_cad1fd2b:
+
+    # me "You try to say that it's not like I can see it anyway?"
+    me "You try to say that it's not like I can see it anyway?"
+
+# game/characters/mina/kiss.rpy:540
+translate polish mina_kiss_contest_reward_ab468352:
+
+    # me "Don't doubt my imagination. I can imagine your boobs before my eyes."
+    me "Don't doubt my imagination. I can imagine your boobs before my eyes."
+
+# game/characters/mina/kiss.rpy:541
+translate polish mina_kiss_contest_reward_4e2a8876:
+
+    # mina "..."
+    mina "..."
+
+# game/characters/mina/kiss.rpy:574
+translate polish mina_kiss_contest_reward_31eb3894:
+
+    # mina "You're the one losing next time, though."
+    mina "You're the one losing next time, though."
+
+translate polish strings:
+
+    # game/characters/mina/kiss.rpy:243
+    old "Let her know her place {cor}[[Madness]{/cor}"
+    new "Let her know her place {cor}[[Madness]{/cor}"
+
+    # game/characters/mina/kiss.rpy:331
+    old "Hell yeah, I'm in. Stretch your mouth well. You'll need to keep it wide open for a long time"
+    new "Hell yeah, I'm in. Stretch your mouth well. You'll need to keep it wide open for a long time"
+

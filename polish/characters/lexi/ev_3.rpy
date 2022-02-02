@@ -544,3 +544,51 @@ translate polish strings:
     old "Where is my kiss?"
     new "Where is my kiss?"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/lexi/ev_3.rpy:30
+translate polish lexi_3_1_ed5e738e:
+
+    # th "So this is Alice's room. Now that I think about it I have never met her before."
+    th "So this is Alice's room. Now that I think about it I have never met her before."
+
+# game/characters/lexi/ev_3.rpy:41
+translate polish lexi_3_1_2f16c8e3:
+
+    # lexi "Our baby, Grace. Don't tell me you never met her?"
+    lexi "Our baby, Grace. Don't tell me you never met her?"
+
+# game/characters/lexi/ev_3.rpy:61
+translate polish lexi_3_1_192e2160:
+
+    # me "Just now you looked so sad tha-"
+    me "Just now you looked so sad tha-"
+
+# game/characters/lexi/ev_3.rpy:63
+translate polish lexi_3_1_3a00834b:
+
+    # "[lexi] puts her finger across your mouth to prevent you from speaking and shakes her head indicating that you shouldn't ask."
+    "[lexi] puts her finger across your mouth to prevent you from speaking and shakes her head indicating that you shouldn't ask."
+
+# game/characters/lexi/ev_3.rpy:146
+translate polish lexi_3_3_84d91694:
+
+    # me "Alice still hasn't come back. Could something have happened to her? Its pretty late already..."
+    me "Alice still hasn't come back. Could something have happened to her? Its pretty late already..."
+
+# game/characters/lexi/ev_3.rpy:148
+translate polish lexi_3_3_3b8c4bc3:
+
+    # lexi "No, it's safe here. She's sleeping with Grace today I guess. She does that sometimes."
+    lexi "No, it's safe here. She's sleeping with Grace today I guess. She does that sometimes."
+
+translate polish strings:
+
+    # game/characters/lexi/ev_3.rpy:6
+    old "She loves ice cream a lot. It would be an excellent gift for her."
+    new "She loves ice cream a lot. It would be an excellent gift for her."
+
+    # game/characters/lexi/ev_3.rpy:98
+    old "The electricity and fresh water are abundant, I wonder why?"
+    new "The electricity and fresh water are abundant, I wonder why?"
+

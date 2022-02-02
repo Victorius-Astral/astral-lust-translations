@@ -90,3 +90,15 @@ translate polish strings:
     old "• Came outside: "
     new "• Came outside: "
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/screens/menus/girls/alice.rpy:23
+    old "Nicknames: Al"
+    new "Nicknames: Al"
+
+    # game/screens/menus/girls/alice.rpy:44
+    old "• Masturbation: "
+    new "• Masturbation: "
+

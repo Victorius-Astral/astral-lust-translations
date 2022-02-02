@@ -284,3 +284,221 @@ translate polish strings:
     old "Can I stay?"
     new "Can I stay?"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/alice/shower.rpy:103
+translate polish shower_alice_masturbate_07eb243a:
+
+    # "She said nothing and instead started to play with herself leaning on the wall."
+    "She said nothing and instead started to play with herself leaning on the wall."
+
+# game/characters/alice/shower.rpy:104
+translate polish shower_alice_masturbate_cf76ec19:
+
+    # alice "Mmmmm~"
+    alice "Mmmmm~"
+
+# game/characters/alice/shower.rpy:105
+translate polish shower_alice_masturbate_be97a00c:
+
+    # me "Your moans always make me go crazy."
+    me "Your moans always make me go crazy."
+
+# game/characters/alice/shower.rpy:109
+translate polish shower_alice_masturbate_0b60a0c3:
+
+    # alice "Hehe~"
+    alice "Hehe~"
+
+# game/characters/alice/shower.rpy:110
+translate polish shower_alice_masturbate_265db70d:
+
+    # alice "Ahh~ Yesss~"
+    alice "Ahh~ Yesss~"
+
+# game/characters/alice/shower.rpy:114
+translate polish shower_alice_masturbate_817b7f6b:
+
+    # "Soon she orgasms fiercely."
+    "Soon she orgasms fiercely."
+
+# game/characters/alice/shower.rpy:121
+translate polish shower_alice_masturbate_e28e963c:
+
+    # alice "That was so nice.."
+    alice "That was so nice.."
+
+# game/characters/alice/shower.rpy:122
+translate polish shower_alice_masturbate_9117c7ce:
+
+    # alice "Now if you could, I want to take a shower."
+    alice "Now if you could, I want to take a shower."
+
+# game/characters/alice/shower.rpy:123
+translate polish shower_alice_masturbate_85acbbff:
+
+    # me "Sure, bye."
+    me "Sure, bye."
+
+# game/characters/alice/shower.rpy:124
+translate polish shower_alice_masturbate_30e104f3:
+
+    # alice "Bye~"
+    alice "Bye~"
+
+# game/characters/alice/shower.rpy:125
+translate polish shower_alice_masturbate_7527001a:
+
+    # "You left the bath."
+    "You left the bath."
+
+# game/characters/alice/shower.rpy:132
+translate polish shower_alice_masturbate_9bb2dd43:
+
+    # alice "No. Go now, I want to take a shower."
+    alice "No. Go now, I want to take a shower."
+
+# game/characters/alice/shower.rpy:133
+translate polish shower_alice_masturbate_1f291146:
+
+    # th "Maybe I need to make her trust me more, or more horny."
+    th "Maybe I need to make her trust me more, or more horny."
+
+# game/characters/alice/shower.rpy:134
+translate polish shower_alice_masturbate_85acbbff_1:
+
+    # me "Sure, bye."
+    me "Sure, bye."
+
+# game/characters/alice/shower.rpy:135
+translate polish shower_alice_masturbate_74f05a4e:
+
+    # alice "..."
+    alice "..."
+
+# game/characters/alice/shower.rpy:136
+translate polish shower_alice_masturbate_7527001a_1:
+
+    # "You left the bath."
+    "You left the bath."
+
+# game/characters/alice/shower.rpy:168
+translate polish shower_alice_anal_f64eae46:
+
+    # "{color=#FF958F}[tes]{/color} Her cheeks flush a deep red, but you don't see any signs of rejection in her expression."
+    "{color=#FF958F}[tes]{/color} Her cheeks flush a deep red, but you don't see any signs of rejection in her expression."
+
+# game/characters/alice/shower.rpy:174
+translate polish shower_alice_anal_42df419f:
+
+    # "{color=#FF958F}[tes]{/color} She doesn't look pleased with your question."
+    "{color=#FF958F}[tes]{/color} She doesn't look pleased with your question."
+
+# game/characters/alice/shower.rpy:178
+translate polish shower_alice_anal_9bb2dd43:
+
+    # alice "No. Go now, I want to take a shower."
+    alice "No. Go now, I want to take a shower."
+
+# game/characters/alice/shower.rpy:179
+translate polish shower_alice_anal_db28aabd:
+
+    # me "Sorry, bye."
+    me "Sorry, bye."
+
+# game/characters/alice/shower.rpy:180
+translate polish shower_alice_anal_74f05a4e:
+
+    # alice "..."
+    alice "..."
+
+# game/characters/alice/shower.rpy:181
+translate polish shower_alice_anal_7527001a:
+
+    # "You left the bath."
+    "You left the bath."
+
+# game/characters/alice/shower.rpy:191
+translate polish shower_alice_dildo_bj_792be0bc:
+
+    # alice "Well..."
+    alice "Well..."
+
+# game/characters/alice/shower.rpy:192
+translate polish shower_alice_dildo_bj_c164498d:
+
+    # me "How about taking it out?"
+    me "How about taking it out?"
+
+# game/characters/alice/shower.rpy:193
+translate polish shower_alice_dildo_bj_e1f5b415:
+
+    # alice "Why is that?"
+    alice "Why is that?"
+
+# game/characters/alice/shower.rpy:194
+translate polish shower_alice_dildo_bj_0c602ea3:
+
+    # me "I want to make acquaintance with your friend."
+    me "I want to make acquaintance with your friend."
+
+# game/characters/alice/shower.rpy:198
+translate polish shower_alice_dildo_bj_2fdd878d:
+
+    # alice "You want to- in your.."
+    alice "You want to- in your.."
+
+# game/characters/alice/shower.rpy:199
+translate polish shower_alice_dildo_bj_73df1ec9:
+
+    # me "God, no! Shit. Girl, I don't want to know what's inside this blue head of yours."
+    me "God, no! Shit. Girl, I don't want to know what's inside this blue head of yours."
+
+# game/characters/alice/shower.rpy:203
+translate polish shower_alice_dildo_bj_5af32107:
+
+    # alice "It's your fault for telling me sequence with such unclear meaning."
+    alice "It's your fault for telling me sequence with such unclear meaning."
+
+# game/characters/alice/shower.rpy:204
+translate polish shower_alice_dildo_bj_2b371272:
+
+    # me "I will say it directly. Blow me while fucking your dildo."
+    me "I will say it directly. Blow me while fucking your dildo."
+
+# game/characters/alice/shower.rpy:208
+translate polish shower_alice_dildo_bj_3a334b09:
+
+    # alice "Hmmm..."
+    alice "Hmmm..."
+
+# game/characters/alice/shower.rpy:213
+translate polish shower_alice_dildo_bj_a05336a2:
+
+    # alice "Sounds good!"
+    alice "Sounds good!"
+
+# game/characters/alice/shower.rpy:214
+translate polish shower_alice_dildo_bj_aa93b10c:
+
+    # me "Good girl."
+    me "Good girl."
+
+# game/characters/alice/shower.rpy:218
+translate polish shower_alice_dildo_bj_d7d3aba1:
+
+    # alice "We would avoid this embarrassment if you were so direct in the first place."
+    alice "We would avoid this embarrassment if you were so direct in the first place."
+
+# game/characters/alice/shower.rpy:219
+translate polish shower_alice_dildo_bj_128d69dc:
+
+    # me "Eh.."
+    me "Eh.."
+
+translate polish strings:
+
+    # game/characters/alice/shower.rpy:60
+    old "Is your {i}'friend'{/i} around?"
+    new "Is your {i}'friend'{/i} around?"
+

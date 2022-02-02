@@ -26,3 +26,11 @@ translate polish strings:
     old "One of your mods' code is broken! It's not recommended to ignore the problem. Fault at trigger -> turn_dmg_end ,load order -> "
     new "One of your mods' code is broken! It's not recommended to ignore the problem. Fault at trigger -> turn_dmg_end ,load order -> "
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/variables/classes/Being.rpy:1116
+    old "Health +{} ({}/{})"
+    new "Health +{} ({}/{})"
+

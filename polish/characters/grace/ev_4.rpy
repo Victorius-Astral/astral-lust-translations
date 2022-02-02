@@ -364,3 +364,11 @@ translate polish strings:
     old "I'm fine"
     new "I'm fine"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/characters/grace/ev_4.rpy:84
+    old "She never met her father. Her mother kept saying he has never visited Grace because he doesn't love her."
+    new "She never met her father. Her mother kept saying he has never visited Grace because he doesn't love her."
+

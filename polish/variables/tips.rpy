@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
-
 translate polish strings:
 
     # game/variables/tips.rpy:4
@@ -214,8 +212,6 @@ translate polish strings:
     old "I should ask her about her powers."
     new "Chcę zapytać o jej moce."
 
-# TODO: Translation updated at 2021-05-15 14:21
-
 translate polish strings:
 
     # game/variables/tips.rpy:4
@@ -225,39 +221,109 @@ translate polish strings:
     # game/variables/tips.rpy:4
     old "I should talk with her, didn't have a chance last time."
     new "Powinienem z nią porozmawiać, ostatnio nie miałem zbytnio okazji.."
-# TODO: Translation updated at 2021-07-11 16:45
 
 translate polish strings:
 
     # game/variables/tips.rpy:4
     old "I should go out to explore."
-    new "I should go out to explore."
+    new "Powinienem spróbować odkryć nowe sekrety na zewnątrz."
 
     # game/variables/tips.rpy:4
     old "Maybe I'll meet her outside."
-    new "Maybe I'll meet her outside."
+    new "Może spotkam ją na zewnątrz."
 
     # game/variables/tips.rpy:4
     old "I bet she would want to talk about something in a few days, I should wait at my room for her."
-    new "I bet she would want to talk about something in a few days, I should wait at my room for her."
+    new "Założyłbym się, że chciałaby o czymś ze mną porozmawiać w ciągu kilku dni. Powinienem poczekać na nią w moim pokoju."
 
     # game/variables/tips.rpy:4
     old "She probably misses her mom, I should check on her from time to time, maybe she needs me."
-    new "She probably misses her mom, I should check on her from time to time, maybe she needs me."
+    new "Pewnie tęskni za swoją mamą. Powinienem sprawdzić jak się czuje od czasu do czasu, może mnie potrzebuje."
 
     # game/variables/tips.rpy:4
     old "I wonder if this wench will come to my bed again."
-    new "I wonder if this wench will come to my bed again."
+    new "Zastanawiam się czy ta dziewucha znowu przyjdzie do mojego łóżka."
 
     # game/variables/tips.rpy:4
     old "I want to have some fun with her. Playroom would be useful."
-    new "I want to have some fun with her. Playroom would be useful."
+    new "Chciałbym się z nią jeszcze trochę zabawić. Pokój zabaw by się przydał."
 
     # game/variables/tips.rpy:4
     old "Who knows what awaits me outside? I should built next hotel floor first."
-    new "Who knows what awaits me outside? I should built next hotel floor first."
+    new "Kto wie co czeka mnie na zewnątrz? Powinienem najpierw zbudować następne piętro hotelu."
 
     # game/variables/tips.rpy:4
     old "If I'm lucky, a hidden treasure can turn out to be a new friend."
-    new "If I'm lucky, a hidden treasure can turn out to be a new friend."
+    new "Jeśli będę miał szczęście, ukryty skarb może okazać się nową przyjaciółką."
 
+# Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/variables/tips.rpy:4
+    old "We could go out to explore together again."
+    new "Moglibyśmy znowu razem wyjść na poszukiwania."
+
+    # game/variables/tips.rpy:4
+    old "I bet she would want to talk about something in a few days. I should wait at my room for her."
+    new "Założyłbym się, że chciałaby o czymś ze mną porozmawiać w ciągu kilku dni. Powinienem poczekać na nią w moim pokoju."
+
+    # game/variables/tips.rpy:4
+    old "She probably misses her mom. Maybe she needs me, so I should check on her from time to time."
+    new "Pewnie tęskni za mamą. Może mnie potrzebuje? Powinienem odwiedzać ją od czasu do czasu."
+
+    # game/variables/tips.rpy:4
+    old "She looks down lately. I should speak with her."
+    new "Ostatnio wygląda na smutną. Powinienem z nią porozmawiać."
+
+    # game/variables/tips.rpy:4
+    old "She takes a shower sometimes during the evening. It might be fun if she likes me enough."
+    new "Bierze prysznic wieczorami. Mogłoby by być zabawnie jeśli lubiłaby mnie wystarczająco bardzo."
+
+    # game/variables/tips.rpy:4
+    old "I hope she stays in the hotel and recuperates. Although I have a feeling I'll meet her outside."
+    new "Mam nadzieję że zostanie w hotelu i będzie dochodzić do siebie. Choć.. Coś czuję, że spotkam ją na zewnątrz."
+
+    # game/variables/tips.rpy:4
+    old "I should check on her after a few days."
+    new "Po kilku dniach powinienem sprawdzić co u niej."
+
+    # game/variables/tips.rpy:4
+    old "Maybe a month would be enough for her leg to get better. Then, I might be able to find her bike."
+    new "Może miesiąc wystarczy, aby stan jej nogi się poprawił. Może wtedy uda mi się wreszcie znaleźć jej motocykl."
+
+    # game/variables/tips.rpy:4
+    old "I believe her leg would get better soon. She will let me know I guess."
+    new "Wierzę, że wkrótce jej noga wyzdrowieje. Pewnie mi powie, gdy do tego dojdzie."
+
+    # game/variables/tips.rpy:4
+    old "She left for home."
+    new "Odeszła w poszukiwaniu swojego domu."
+
+    # game/variables/tips.rpy:4
+    old "I hope her trip with Lexi went well."
+    new "Mam nadzieję że jej wyprawa z Lexi poszła dobrze."
+
+    # game/variables/tips.rpy:4
+    old "I should find a way to build a shrine to make her move to the hotel."
+    new "Muszę znaleźć sposób, aby zbudować świątynię. Wtedy, zamieszka w hotelu."
+
+    # game/variables/tips.rpy:4
+    old "She seems to be sulking lately I should ask her about it. Maybe Alice could help."
+    new "Ostatnio wygląda na niezadowoloną, może powinienem zapytać ją o to? Alice może pomóc."
+
+    # game/variables/tips.rpy:4
+    old "I wonder if she knows where to find more treasures. Maybe it's the time for a little adventure."
+    new "Ciekawe czy wie, gdzie znaleźć więcej skarbów. Może to czas na małą przygodę."
+
+    # game/variables/tips.rpy:4
+    old "I should help her with building the shrine."
+    new "Najlepiej jeśli pomogę jej zbudować świątynię."
+
+    # game/variables/tips.rpy:4
+    old "Rachel wants me to get a magician outfit. Alice could help."
+    new "Rachel chce kostium czarodziejki. Alice jest osobą odpowiednią do tego zadania."
+
+    # game/variables/tips.rpy:4
+    old "I should speak with her."
+    new "Powinienem z nią porozmawiać."

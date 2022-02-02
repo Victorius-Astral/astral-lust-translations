@@ -282,3 +282,41 @@ translate polish lexi_hj_2_3dae959c:
     # "[lexi] left your room."
     "[lexi] left your room."
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/lexi/hj_2.rpy:16
+translate polish lexi_hj_2_14a0b818:
+
+    # lexi "So, what are we going to do now?"
+    lexi "So, what are we going to do now?"
+
+# game/characters/lexi/hj_2.rpy:17
+translate polish lexi_hj_2_a150486f:
+
+    # me "Do you even have to ask? You should start with pulling up your top."
+    me "Do you even have to ask? You should start with pulling up your top."
+
+# game/characters/lexi/hj_2.rpy:18
+translate polish lexi_hj_2_568cb1b3:
+
+    # lexi "I guess I can give you something to look at."
+    lexi "I guess I can give you something to look at."
+
+# game/characters/lexi/hj_2.rpy:25
+translate polish lexi_hj_2_1ba7d187:
+
+    # me "Can't say I don't."
+    me "Can't say I don't."
+
+# game/characters/lexi/hj_2.rpy:34
+translate polish lexi_hj_2_e57abbc4:
+
+    # lexi "We are both comedians, it seems."
+    lexi "We are both comedians, it seems."
+
+# game/characters/lexi/hj_2.rpy:108
+translate polish lexi_hj_2_77418f3d:
+
+    # th "She's joking, isn't she? If not then that would be hot."
+    th "She's joking, isn't she? If not then that would be hot."
+

@@ -162,3 +162,63 @@ translate polish strings:
     old "Not Set"
     new "Not Set"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/screens/settings/game.rpy:43
+    old "(Disables erotic content, safe for streaming.)\n\nErotic content will be skipped. To check full previous events, disable sfw, and use Replay Gallery app on player pc.\nSFW Mode can be safely turned on/off mid-game, but already playing event might not be affected till it's triggered again. Half allows not overly explicit nudity, for streaming on Twitch use full.\n\n(BETA - full functionality not guaranteed)"
+    new "(Disables erotic content, safe for streaming.)\n\nErotic content will be skipped. To check full previous events, disable sfw, and use Replay Gallery app on player pc.\nSFW Mode can be safely turned on/off mid-game, but already playing event might not be affected till it's triggered again. Half allows not overly explicit nudity, for streaming on Twitch use full.\n\n(BETA - full functionality not guaranteed)"
+
+    # game/screens/settings/game.rpy:49
+    old "(Disables random combat encounter.)"
+    new "(Disables random combat encounter.)"
+
+    # game/screens/settings/game.rpy:62
+    old "Block Rollback (Version Upgrade)"
+    new "Block Rollback (Version Upgrade)"
+
+    # game/screens/settings/game.rpy:65
+    old "(Using rollback after loading save from older game version will likely cause errors in the future, this option ensures that when loading save from older version, you can't rollback prior to loading.)"
+    new "(Using rollback after loading save from older game version will likely cause errors in the future, this option ensures that when loading save from older version, you can't rollback prior to loading.)"
+
+    # game/screens/settings/game.rpy:112
+    old "Masks"
+    new "Masks"
+
+    # game/screens/settings/game.rpy:113
+    old "Always show masks"
+    new "Always show masks"
+
+    # game/screens/settings/game.rpy:115
+    old "Masks Opacity (Idle, Forced only)"
+    new "Masks Opacity (Idle, Forced only)"
+
+    # game/screens/settings/game.rpy:118
+    old "Current opacity: "
+    new "Current opacity: "
+
+    # game/screens/settings/game.rpy:121
+    old "Masks Opacity (Hover, Forced only)"
+    new "Masks Opacity (Hover, Forced only)"
+
+    # game/screens/settings/game.rpy:129
+    old "Menus"
+    new "Menus"
+
+    # game/screens/settings/game.rpy:130
+    old "Show interaction menu"
+    new "Show interaction menu"
+
+    # game/screens/settings/game.rpy:131
+    old "Show tasks menu"
+    new "Show tasks menu"
+
+    # game/screens/settings/game.rpy:135
+    old "Choice Menu Position"
+    new "Choice Menu Position"
+
+    # game/screens/settings/game.rpy:137
+    old "Center"
+    new "Center"
+

@@ -304,3 +304,15 @@ translate polish strings:
     old "Decrease corruption [[1 Mysterious Coins]"
     new "Decrease corruption [[1 Mysterious Coins]"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/characters/traders/mysterious/speak.rpy:13
+    old "Mysterious Trader"
+    new "Mysterious Trader"
+
+    # game/characters/traders/mysterious/speak.rpy:13
+    old "I have met a very weird, odd being, It claims to be a trader."
+    new "I have met a very weird, odd being, It claims to be a trader."
+

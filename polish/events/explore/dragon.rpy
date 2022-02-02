@@ -102,3 +102,11 @@ translate polish strings:
     old "Shoot at the sky"
     new "Shoot at the sky"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/events/explore/dragon.rpy:22
+    old "Shoot at the sky {#visible}"
+    new "Shoot at the sky {#visible}"
+

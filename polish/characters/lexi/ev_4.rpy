@@ -264,3 +264,11 @@ translate polish strings:
     old "I can't promise anything"
     new "I can't promise anything"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/characters/lexi/ev_4.rpy:14
+    old "Don't worry with, me here you're safe"
+    new "Don't worry with, me here you're safe"
+

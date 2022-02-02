@@ -36,3 +36,11 @@ translate polish wc_lexi_2e39132c:
     # "You leave."
     "You leave."
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/lexi/wc.rpy:7
+translate polish wc_lexi_5a823cce:
+
+    # me "Sorry, I thought it was unoccu-"
+    me "Sorry, I thought it was unoccu-"
+
