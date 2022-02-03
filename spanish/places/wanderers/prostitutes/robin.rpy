@@ -148,7 +148,7 @@ translate spanish w_booth_robin_tj_slow_b47b38b5:
 translate spanish w_booth_robin_tj_slow_961b6abc:
 
     # me "I couldn't be angry at you, dear."
-    me "No podría estar enojado contigo, querida".
+    me "No podría estar enojado contigo, querida."
 
 # game/places/wanderers/prostitutes/robin.rpy:115
 translate spanish w_booth_robin_tj_slow_8cc78fe5:
@@ -214,7 +214,7 @@ translate spanish w_booth_robin_tj_slow2_b47b38b5:
 translate spanish w_booth_robin_tj_slow2_961b6abc:
 
     # me "I couldn't be angry at you, dear."
-    me "No podría estar enojado contigo, querida".
+    me "No podría estar enojado contigo, querida."
 
 # game/places/wanderers/prostitutes/robin.rpy:144
 translate spanish w_booth_robin_tj_slow2_8cc78fe5:
@@ -280,7 +280,7 @@ translate spanish w_booth_robin_tj_slow3_b47b38b5:
 translate spanish w_booth_robin_tj_slow3_961b6abc:
 
     # me "I couldn't be angry at you, dear."
-    me "No podría estar enojado contigo, querida".
+    me "No podría estar enojado contigo, querida."
 
 # game/places/wanderers/prostitutes/robin.rpy:173
 translate spanish w_booth_robin_tj_slow3_8cc78fe5:
@@ -448,7 +448,7 @@ translate spanish w_booth_robin_tj_before_816fd409:
 translate spanish w_booth_robin_tj_before_90843ef2:
 
     # robin "Hey! Don't call me bitch, it's not nice, although, I kind of liked it."
-    robin "¡Hey! No me llames perra, no es agradable. Aunque me gustó un poco".
+    robin "¡Hey! No me llames perra, no es agradable. Aunque me gustó un poco."
 
 # game/places/wanderers/prostitutes/robin.rpy:282
 translate spanish w_booth_robin_tj_before_0288855f:
@@ -508,7 +508,7 @@ translate spanish w_booth_robin_tj_before2_816fd409:
 translate spanish w_booth_robin_tj_before2_90843ef2:
 
     # robin "Hey! Don't call me bitch, it's not nice, although, I kind of liked it."
-    robin "¡Hey! No me llames perra, no es agradable. Aunque me gustó un poco".
+    robin "¡Hey! No me llames perra, no es agradable. Aunque me gustó un poco."
 
 # game/places/wanderers/prostitutes/robin.rpy:313
 translate spanish w_booth_robin_tj_before2_0288855f:
@@ -568,7 +568,7 @@ translate spanish w_booth_robin_tj_before3_816fd409:
 translate spanish w_booth_robin_tj_before3_90843ef2:
 
     # robin "Hey! Don't call me bitch, it's not nice, although, I kind of liked it."
-    robin "¡Hey! No me llames perra, no es agradable. Aunque me gustó un poco".
+    robin "¡Hey! No me llames perra, no es agradable. Aunque me gustó un poco."
 
 # game/places/wanderers/prostitutes/robin.rpy:344
 translate spanish w_booth_robin_tj_before3_0288855f:

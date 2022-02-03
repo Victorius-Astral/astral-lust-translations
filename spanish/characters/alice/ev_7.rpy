@@ -304,7 +304,7 @@ translate spanish al_7_questions_d5b6cc22:
 translate spanish al_7_questions_d2e18c69:
 
     # alice "I will go easy on you, you're not good at this."
-    alice "Voy a hacerlo simple, no eres bueno en esto".
+    alice "Voy a hacerlo simple, no eres bueno en esto."
 
 # game/characters/alice/ev_7.rpy:254
 translate spanish al_7_questions_2eb0c5cf:
