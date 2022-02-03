@@ -280,7 +280,7 @@ translate spanish alice_6_1_d9ae1796:
 translate spanish alice_6_1_9b2c4cb4:
 
     # alice "It's not that, working out makes me tranquil. I like this feeling a lot."
-    alice "No es eso. Hacer ejercicio me tranquiliza. Me gusta mucho este sentimiento."
+    alice "No es eso. Hacer ejercicio me tranquiliza. Esta sensación me gusta mucho."
 
 # game/characters/alice/ev_6.rpy:103
 translate spanish alice_6_1_d0137f8e:

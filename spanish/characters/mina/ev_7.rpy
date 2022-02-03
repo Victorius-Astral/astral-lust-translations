@@ -310,7 +310,7 @@ translate spanish mina_7_2_92bfcb57:
 translate spanish mina_7_2_20a37fa5:
 
     # mina "Naturally. How could I forget."
-    mina "Naturalmente. ¿Cómo podría olvidarlo?."
+    mina "Naturalmente. ¿Cómo podría olvidarlo?"
 
 # game/characters/mina/ev_7.rpy:121
 translate spanish mina_7_2_376ec1d9:
@@ -478,4 +478,3 @@ translate spanish strings:
     # game/characters/mina/ev_7.rpy:34
     old "Sandwich"
     new "Sandwich"
-

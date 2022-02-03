@@ -220,7 +220,7 @@ translate spanish mina_4_menu_1e2308b3:
 translate spanish mina_4_menu_d7eb679f:
 
     # me "No of course not! I was just thinking that I want to get you a gift."
-    me "¡No, claro que no! Solo estaba pensando que quiero conseguirte un regalo..."
+    me "¡No, claro que no! Solo estaba pensando que quiero conseguirte un regalo."
 
 # game/characters/mina/ev_4.rpy:79
 translate spanish mina_4_menu_74e61066:
@@ -1522,4 +1522,3 @@ translate spanish strings:
     # game/characters/mina/ev_4.rpy:288
     old "What would you do if you could do anything?"
     new "What would you do if you could do anything?"
-

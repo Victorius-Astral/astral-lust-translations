@@ -590,4 +590,3 @@ translate spanish strings:
     # game/characters/lexi/ev_3.rpy:98
     old "The electricity and fresh water are abundant, I wonder why?"
     new "The electricity and fresh water are abundant, I wonder why?"
-

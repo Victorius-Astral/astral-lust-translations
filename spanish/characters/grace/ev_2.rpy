@@ -451,31 +451,30 @@ translate spanish strings:
 translate spanish grace_2_dd6e1385:
 
     # th "This won't get me anywhere. I need to change the topic. What should I talk about?"
-    th "This won't get me anywhere. I need to change the topic. What should I talk about?"
+    th "Esto no me llevará a ninguna parte. Necesito cambiar de tema. ¿De qué debería hablar?"
 
 # game/characters/grace/ev_2.rpy:59
 translate spanish grace_2_1_937794d5:
 
     # grace "Yes! I love flowers! And trees and bushes and-"
-    grace "Yes! I love flowers! And trees and bushes and-"
+    grace "¡Sí! ¡Amo las flores! Y árboles y arbustos y-"
 
 # game/characters/grace/ev_2.rpy:80
 translate spanish grace_2_1_64ea0ee0:
 
     # th "It seems that her mother is quite a weird one. Overprotective parents don't understand that they're hurting their children instead of helping them."
-    th "It seems that her mother is quite a weird one. Overprotective parents don't understand that they're hurting their children instead of helping them."
+    th "Parece que su madre es bastante rara. Los padres sobreprotectores no entienden que están lastimando a sus hijos en lugar de ayudarlos."
 
 translate spanish strings:
 
     # game/characters/grace/ev_2.rpy:20
     old "Her mother seems to be an extreme, militant feminist. It was her that instilled the hatred for men in Grace."
-    new "Her mother seems to be an extreme, militant feminist. It was her that instilled the hatred for men in Grace."
+    new "Su madre parece ser una feminista extrema y hasta militante. Ella fue quien inculcó el odio a los hombres en Grace."
 
     # game/characters/grace/ev_2.rpy:58
     old "She's obsessed with any sort of plant. I can utilize this to my advantage and get more familiar with her."
-    new "She's obsessed with any sort of plant. I can utilize this to my advantage and get more familiar with her."
+    new "Está obsesionada con cualquier tipo de planta. Puedo utilizar esto a mi favor y familiarizarme más con ella."
 
     # game/characters/grace/ev_2.rpy:90
     old "Her mother never sent her to school, even playing with other kids was forbidden. She left Grace at the hotel, though. I don't understand why, but I hope she never comes back."
-    new "Her mother never sent her to school, even playing with other kids was forbidden. She left Grace at the hotel, though. I don't understand why, but I hope she never comes back."
-
+    new "Su madre nunca la envió a la escuela, incluso estaba prohibido jugar con otros niños. Sin embargo, dejó a Grace en el hotel. No entiendo por qué, pero espero que nunca regrese."

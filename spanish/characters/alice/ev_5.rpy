@@ -154,7 +154,7 @@ translate spanish alice_5_1_73d3458f:
 translate spanish alice_5_1_401b8bfc:
 
     # alice "O-okay, umm can you leave me alone?"
-    alice "O-okay. Umm, me puedes dejar en paz?"
+    alice "O-okay. Umm, puedes irte ahora?"
 
 # game/characters/alice/ev_5.rpy:62
 translate spanish alice_5_1_1e9dbee1:
