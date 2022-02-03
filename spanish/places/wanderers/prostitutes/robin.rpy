@@ -148,7 +148,7 @@ translate spanish w_booth_robin_tj_slow_b47b38b5:
 translate spanish w_booth_robin_tj_slow_961b6abc:
 
     # me "I couldn't be angry at you, dear."
-    me "No podría estar enojado contigo, querida".
+    me "No podría estar enojado contigo, querida."
 
 # game/places/wanderers/prostitutes/robin.rpy:115
 translate spanish w_booth_robin_tj_slow_8cc78fe5:
@@ -214,7 +214,7 @@ translate spanish w_booth_robin_tj_slow2_b47b38b5:
 translate spanish w_booth_robin_tj_slow2_961b6abc:
 
     # me "I couldn't be angry at you, dear."
-    me "No podría estar enojado contigo, querida".
+    me "No podría estar enojado contigo, querida."
 
 # game/places/wanderers/prostitutes/robin.rpy:144
 translate spanish w_booth_robin_tj_slow2_8cc78fe5:
@@ -280,7 +280,7 @@ translate spanish w_booth_robin_tj_slow3_b47b38b5:
 translate spanish w_booth_robin_tj_slow3_961b6abc:
 
     # me "I couldn't be angry at you, dear."
-    me "No podría estar enojado contigo, querida".
+    me "No podría estar enojado contigo, querida."
 
 # game/places/wanderers/prostitutes/robin.rpy:173
 translate spanish w_booth_robin_tj_slow3_8cc78fe5:
