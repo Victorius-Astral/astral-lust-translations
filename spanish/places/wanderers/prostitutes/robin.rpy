@@ -652,373 +652,373 @@ translate spanish w_booth_robin_tj_cum_584cd1f6:
 translate spanish w_booth_robin_tj_cum_fca811a5:
 
     # me "Sure."
-    me "Sure."
+    me "Seguro."
 
 # game/places/wanderers/prostitutes/robin.rpy:383
 translate spanish w_booth_robin_tj_cum_dcd99dcb:
 
     # robin "See ya, [me_robin]."
-    robin "See ya, [me_robin]."
+    robin "Nos vemos, [me_robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:384
 translate spanish w_booth_robin_tj_cum_5cdebf03:
 
     # me "Bye."
-    me "Bye."
+    me "Adiós."
 
 # game/places/wanderers/prostitutes/robin.rpy:393
 translate spanish w_booth_robin_wall_e7cb55f3:
 
     # "In just a minute, you are against the wall, with your dick in [robin]'s pussy."
-    "In just a minute, you are against the wall, with your dick in [robin]'s pussy."
+    "En solo un minuto, estás contra la pared, con tu polla en el coño de [robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:394
 translate spanish w_booth_robin_wall_e0197ec1:
 
     # robin "Mmm, you're so big, [me_robin]."
-    robin "Mmm, you're so big, [me_robin]."
+    robin "Mmm, eres tan grande, [me_robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:395
 translate spanish w_booth_robin_wall_3e08f15a:
 
     # me "I hear that a lot."
-    me "I hear that a lot."
+    me "Escucho eso un montón."
 
 # game/places/wanderers/prostitutes/robin.rpy:396
 translate spanish w_booth_robin_wall_1b402415:
 
     # robin "Really? It's absolutely the truth."
-    robin "Really? It's absolutely the truth."
+    robin "¿En serio? Es absolutamente la verdad."
 
 # game/places/wanderers/prostitutes/robin.rpy:406
 translate spanish w_booth_robin_wall_slow_0cc37f85:
 
     # me "Mnn!"
-    me "Mnn!"
+    me "¡Mnn!"
 
 # game/places/wanderers/prostitutes/robin.rpy:407
 translate spanish w_booth_robin_wall_slow_280bde08:
 
     # robin "Ahh!"
-    robin "Ahh!"
+    robin "¡Ahh!"
 
 # game/places/wanderers/prostitutes/robin.rpy:408
 translate spanish w_booth_robin_wall_slow_66e13bc5:
 
     # "[robin] moves up and down, letting you know what a good fucking means."
-    "[robin] moves up and down, letting you know what a good fucking means."
+    "[robin] se mueve hacia arriba y hacia abajo, haciéndote saber lo que significa una buena follada."
 
 # game/places/wanderers/prostitutes/robin.rpy:409
 translate spanish w_booth_robin_wall_slow_42174ddf:
 
     # robin "Ahmm! Your cock is so good!"
-    robin "Ahmm! Your cock is so good!"
+    robin "¡Ahmm! ¡Tu polla es tan buena!"
 
 # game/places/wanderers/prostitutes/robin.rpy:410
 translate spanish w_booth_robin_wall_slow_8bde2710:
 
     # me "Yeah, it seems you like playing with it."
-    me "Yeah, it seems you like playing with it."
+    me "Sí, parece que te gusta jugar con ella."
 
 # game/places/wanderers/prostitutes/robin.rpy:411
 translate spanish w_booth_robin_wall_slow_0ff3c549:
 
     # robin "It's my favorite toy, [me_robin]."
-    robin "It's my favorite toy, [me_robin]."
+    robin "Es mi juguete favorito, [me_robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:412
 translate spanish w_booth_robin_wall_slow_ac89664c:
 
     # me "As long as you're happy [robin]."
-    me "As long as you're happy [robin]."
+    me "Mientras seas feliz, [robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:431
 translate spanish w_booth_robin_wall_slow2_0cc37f85:
 
     # me "Mnn!"
-    me "Mnn!"
+    me "¡Mnn!"
 
 # game/places/wanderers/prostitutes/robin.rpy:432
 translate spanish w_booth_robin_wall_slow2_280bde08:
 
     # robin "Ahh!"
-    robin "Ahh!"
+    robin "¡Ahh!"
 
 # game/places/wanderers/prostitutes/robin.rpy:433
 translate spanish w_booth_robin_wall_slow2_66e13bc5:
 
     # "[robin] moves up and down, letting you know what a good fucking means."
-    "[robin] moves up and down, letting you know what a good fucking means."
+    "[robin] se mueve hacia arriba y hacia abajo, haciéndote saber lo que significa una buena follada."
 
 # game/places/wanderers/prostitutes/robin.rpy:434
 translate spanish w_booth_robin_wall_slow2_42174ddf:
 
     # robin "Ahmm! Your cock is so good!"
-    robin "Ahmm! Your cock is so good!"
+    robin "¡Ahmm! ¡Tu polla es tan buena!"
 
 # game/places/wanderers/prostitutes/robin.rpy:435
 translate spanish w_booth_robin_wall_slow2_8bde2710:
 
     # me "Yeah, it seems you like playing with it."
-    me "Yeah, it seems you like playing with it."
+    me "Sí, parece que te gusta jugar con ella."
 
 # game/places/wanderers/prostitutes/robin.rpy:436
 translate spanish w_booth_robin_wall_slow2_0ff3c549:
 
     # robin "It's my favorite toy, [me_robin]."
-    robin "It's my favorite toy, [me_robin]."
+    robin "Es mi juguete favorito, [me_robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:437
 translate spanish w_booth_robin_wall_slow2_ac89664c:
 
     # me "As long as you're happy [robin]."
-    me "As long as you're happy [robin]."
+    me "Mientras seas feliz, [robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:456
 translate spanish w_booth_robin_wall_slow3_0cc37f85:
 
     # me "Mnn!"
-    me "Mnn!"
+    me "¡Mnn!"
 
 # game/places/wanderers/prostitutes/robin.rpy:457
 translate spanish w_booth_robin_wall_slow3_280bde08:
 
     # robin "Ahh!"
-    robin "Ahh!"
+    robin "¡Ahh!"
 
 # game/places/wanderers/prostitutes/robin.rpy:458
 translate spanish w_booth_robin_wall_slow3_66e13bc5:
 
     # "[robin] moves up and down, letting you know what a good fucking means."
-    "[robin] moves up and down, letting you know what a good fucking means."
+    "[robin] se mueve hacia arriba y hacia abajo, haciéndote saber lo que significa una buena follada."
 
 # game/places/wanderers/prostitutes/robin.rpy:459
 translate spanish w_booth_robin_wall_slow3_42174ddf:
 
     # robin "Ahmm! Your cock is so good!"
-    robin "Ahmm! Your cock is so good!"
+    robin "¡Ahmm! ¡Tu polla es tan buena!"
 
 # game/places/wanderers/prostitutes/robin.rpy:460
 translate spanish w_booth_robin_wall_slow3_8bde2710:
 
     # me "Yeah, it seems you like playing with it."
-    me "Yeah, it seems you like playing with it."
+    me "Sí, parece que te gusta jugar con ella."
 
 # game/places/wanderers/prostitutes/robin.rpy:461
 translate spanish w_booth_robin_wall_slow3_0ff3c549:
 
     # robin "It's my favorite toy, [me_robin]."
-    robin "It's my favorite toy, [me_robin]."
+    robin "Es mi juguete favorito, [me_robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:462
 translate spanish w_booth_robin_wall_slow3_ac89664c:
 
     # me "As long as you're happy [robin]."
-    me "As long as you're happy [robin]."
+    me "Mientras seas feliz, [robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:481
 translate spanish w_booth_robin_wall_fast_166d9144:
 
     # me "Ahh!"
-    me "Ahh!"
+    me "¡Ahh!"
 
 # game/places/wanderers/prostitutes/robin.rpy:482
 translate spanish w_booth_robin_wall_fast_0425ec79:
 
     # "Your dick plunges deeper, filling [robin] completely."
-    "Your dick plunges deeper, filling [robin] completely."
+    "Tu pene se sumerge más profundo, llenando a [robin] por completo."
 
 # game/places/wanderers/prostitutes/robin.rpy:483
 translate spanish w_booth_robin_wall_fast_24fe3849:
 
     # robin "Mmnn!~ It's so deep!"
-    robin "Mmnn!~ It's so deep!"
+    robin "¡Mmmnn!~ ¡Es tan profundo!"
 
 # game/places/wanderers/prostitutes/robin.rpy:484
 translate spanish w_booth_robin_wall_fast_280bde08:
 
     # robin "Ahh!"
-    robin "Ahh!"
+    robin "¡Ahh!"
 
 # game/places/wanderers/prostitutes/robin.rpy:485
 translate spanish w_booth_robin_wall_fast_da173fb7:
 
     # robin "I love it, fuck me harder!"
-    robin "I love it, fuck me harder!"
+    robin "¡Me encanta, fóllame más fuerte!"
 
 # game/places/wanderers/prostitutes/robin.rpy:507
 translate spanish w_booth_robin_wall_fast2_166d9144:
 
     # me "Ahh!"
-    me "Ahh!"
+    me "¡Ahh!"
 
 # game/places/wanderers/prostitutes/robin.rpy:508
 translate spanish w_booth_robin_wall_fast2_0425ec79:
 
     # "Your dick plunges deeper, filling [robin] completely."
-    "Your dick plunges deeper, filling [robin] completely."
+    "Tu pene se sumerge más profundo, llenando a [robin] por completo."
 
 # game/places/wanderers/prostitutes/robin.rpy:509
 translate spanish w_booth_robin_wall_fast2_24fe3849:
 
     # robin "Mmnn!~ It's so deep!"
-    robin "Mmnn!~ It's so deep!"
+    robin "¡Mmmnn!~ ¡Es tan profundo!"
 
 # game/places/wanderers/prostitutes/robin.rpy:510
 translate spanish w_booth_robin_wall_fast2_280bde08:
 
     # robin "Ahh!"
-    robin "Ahh!"
+    robin "¡Ahh!"
 
 # game/places/wanderers/prostitutes/robin.rpy:511
 translate spanish w_booth_robin_wall_fast2_da173fb7:
 
     # robin "I love it, fuck me harder!"
-    robin "I love it, fuck me harder!"
+    robin "¡Me encanta, fóllame más fuerte!"
 
 # game/places/wanderers/prostitutes/robin.rpy:533
 translate spanish w_booth_robin_wall_fast3_166d9144:
 
     # me "Ahh!"
-    me "Ahh!"
+    me "¡Ahh!"
 
 # game/places/wanderers/prostitutes/robin.rpy:534
 translate spanish w_booth_robin_wall_fast3_0425ec79:
 
     # "Your dick plunges deeper, filling [robin] completely."
-    "Your dick plunges deeper, filling [robin] completely."
+    "Tu pene se sumerge más profundo, llenando a [robin] por completo."
 
 # game/places/wanderers/prostitutes/robin.rpy:535
 translate spanish w_booth_robin_wall_fast3_24fe3849:
 
     # robin "Mmnn!~ It's so deep!"
-    robin "Mmnn!~ It's so deep!"
+    robin "¡Mmmnn!~ ¡Es tan profundo!"
 
 # game/places/wanderers/prostitutes/robin.rpy:536
 translate spanish w_booth_robin_wall_fast3_280bde08:
 
     # robin "Ahh!"
-    robin "Ahh!"
+    robin "¡Ahh!"
 
 # game/places/wanderers/prostitutes/robin.rpy:537
 translate spanish w_booth_robin_wall_fast3_da173fb7:
 
     # robin "I love it, fuck me harder!"
-    robin "I love it, fuck me harder!"
+    robin "¡Me encanta, fóllame más fuerte!"
 
 # game/places/wanderers/prostitutes/robin.rpy:559
 translate spanish w_booth_robin_wall_before_08b3b941:
 
     # robin "Ahnn! Sooo deep~"
-    robin "Ahnn! Sooo deep~"
+    robin "¡Ahnn! Taaan profundo~"
 
 # game/places/wanderers/prostitutes/robin.rpy:560
 translate spanish w_booth_robin_wall_before_166d9144:
 
     # me "Ahh!"
-    me "Ahh!"
+    me "¡Ahh!"
 
 # game/places/wanderers/prostitutes/robin.rpy:561
 translate spanish w_booth_robin_wall_before_cff26610:
 
     # "Your sex is so intense, you two can barely let out sounds other than moans."
-    "Your sex is so intense, you two can barely let out sounds other than moans."
+    "Su sexo es tan intenso que los dos apenas pueden dejar escapar otros sonidos que no sean gemidos."
 
 # game/places/wanderers/prostitutes/robin.rpy:562
 translate spanish w_booth_robin_wall_before_5f5f6554:
 
     # robin "Ahhh!!"
-    robin "Ahhh!!"
+    robin "¡¡Ahhh!!"
 
 # game/places/wanderers/prostitutes/robin.rpy:563
 translate spanish w_booth_robin_wall_before_3eb9ceb2:
 
     # me "Mmm! Fuck!"
-    me "Mmm! Fuck!"
+    me "¡Mmm! ¡Mierda!"
 
 # game/places/wanderers/prostitutes/robin.rpy:564
 translate spanish w_booth_robin_wall_before_123596a5:
 
     # robin "Aaaa!"
-    robin "Aaaa!"
+    robin "¡Aaaa!"
 
 # game/places/wanderers/prostitutes/robin.rpy:586
 translate spanish w_booth_robin_wall_before2_08b3b941:
 
     # robin "Ahnn! Sooo deep~"
-    robin "Ahnn! Sooo deep~"
+    robin "¡Ahnn! Taaan profundo~"
 
 # game/places/wanderers/prostitutes/robin.rpy:587
 translate spanish w_booth_robin_wall_before2_166d9144:
 
     # me "Ahh!"
-    me "Ahh!"
+    me "¡Ahh!"
 
 # game/places/wanderers/prostitutes/robin.rpy:588
 translate spanish w_booth_robin_wall_before2_abdb5ed8:
 
     # "Your sex is so intense, you two can barely let out other sounds than moans."
-    "Your sex is so intense, you two can barely let out other sounds than moans."
+    "Tu sexo es tan intenso que los dos apenas pueden dejar escapar otros sonidos que no sean gemidos."
 
 # game/places/wanderers/prostitutes/robin.rpy:589
 translate spanish w_booth_robin_wall_before2_5f5f6554:
 
     # robin "Ahhh!!"
-    robin "Ahhh!!"
+    robin "¡¡Ahhh!!"
 
 # game/places/wanderers/prostitutes/robin.rpy:590
 translate spanish w_booth_robin_wall_before2_3eb9ceb2:
 
     # me "Mmm! Fuck!"
-    me "Mmm! Fuck!"
+    me "¡Mmm! ¡Mierda!"
 
 # game/places/wanderers/prostitutes/robin.rpy:591
 translate spanish w_booth_robin_wall_before2_123596a5:
 
     # robin "Aaaa!"
-    robin "Aaaa!"
+    robin "¡Aaaa!"
 
 # game/places/wanderers/prostitutes/robin.rpy:613
 translate spanish w_booth_robin_wall_before3_08b3b941:
 
     # robin "Ahnn! Sooo deep~"
-    robin "Ahnn! Sooo deep~"
+    robin "¡Ahnn! Taaan profundo~"
 
 # game/places/wanderers/prostitutes/robin.rpy:614
 translate spanish w_booth_robin_wall_before3_166d9144:
 
     # me "Ahh!"
-    me "Ahh!"
+    me "¡Ahh!"
 
 # game/places/wanderers/prostitutes/robin.rpy:615
 translate spanish w_booth_robin_wall_before3_abdb5ed8:
 
     # "Your sex is so intense, you two can barely let out other sounds than moans."
-    "Your sex is so intense, you two can barely let out other sounds than moans."
+    "Tu sexo es tan intenso que los dos apenas pueden dejar escapar otros sonidos que no sean gemidos."
 
 # game/places/wanderers/prostitutes/robin.rpy:616
 translate spanish w_booth_robin_wall_before3_5f5f6554:
 
     # robin "Ahhh!!"
-    robin "Ahhh!!"
+    robin "¡¡Ahhh!!"
 
 # game/places/wanderers/prostitutes/robin.rpy:617
 translate spanish w_booth_robin_wall_before3_3eb9ceb2:
 
     # me "Mmm! Fuck!"
-    me "Mmm! Fuck!"
+    me "¡Mmm! ¡Mierda!"
 
 # game/places/wanderers/prostitutes/robin.rpy:618
 translate spanish w_booth_robin_wall_before3_123596a5:
 
     # robin "Aaaa!"
-    robin "Aaaa!"
+    robin "¡Aaaa!"
 
 # game/places/wanderers/prostitutes/robin.rpy:635
 translate spanish w_booth_robin_wall_cum_372a4323:
 
     # "You're cumming!"
-    "You're cumming!"
+    "¡Te estás viniendo!"
 
 # game/places/wanderers/prostitutes/robin.rpy:636
 translate spanish w_booth_robin_wall_cum_3217e8b9:
@@ -1030,80 +1030,80 @@ translate spanish w_booth_robin_wall_cum_3217e8b9:
 translate spanish w_booth_robin_wall_cum_0fe57f37:
 
     # "[robin]'s pussy is overflowing with your cum."
-    "[robin]'s pussy is overflowing with your cum."
+    "El coño de [robin] se desborda con tu semen."
 
 # game/places/wanderers/prostitutes/robin.rpy:640
 translate spanish w_booth_robin_wall_cum_76638a79:
 
     # robin "Ahmm!"
-    robin "Ahmm!"
+    robin "¡Ahmm!"
 
 # game/places/wanderers/prostitutes/robin.rpy:641
 translate spanish w_booth_robin_wall_cum_4187e8bd:
 
     # "It seems that your orgasm took [robin] over the edge!"
-    "It seems that your orgasm took [robin] over the edge!"
+    "¡Parece que tu orgasmo llevó a [robin] al límite!"
 
 # game/places/wanderers/prostitutes/robin.rpy:644
 translate spanish w_booth_robin_wall_cum_8f7490e4:
 
     # robin "That was incredible, [me_robin]!"
-    robin "That was incredible, [me_robin]!"
+    robin "¡Eso fue increíble, [me_robin]!"
 
 # game/places/wanderers/prostitutes/robin.rpy:645
 translate spanish w_booth_robin_wall_cum_2d930077:
 
     # me "Yeah, that was amazing. You're amazing, [robin]."
-    me "Yeah, that was amazing. You're amazing, [robin]."
+    me "Sí, eso fue increíble. Eres increíble, [robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:646
 translate spanish w_booth_robin_wall_cum_8800b130:
 
     # robin "Thank you."
-    robin "Thank you."
+    robin "Gracias."
 
 # game/places/wanderers/prostitutes/robin.rpy:654
 translate spanish w_booth_robin_wall_cum_cd547114:
 
     # robin "I need to go.."
-    robin "I need to go.."
+    robin "Tengo que irme..."
 
 # game/places/wanderers/prostitutes/robin.rpy:655
 translate spanish w_booth_robin_wall_cum_af80294d:
 
     # me "I understand."
-    me "I understand."
+    me "Entiendo."
 
 # game/places/wanderers/prostitutes/robin.rpy:658
 translate spanish w_booth_robin_wall_cum_0ba16ade:
 
     # robin "Thank you. Come see me again, I'll be waiting for your cock."
-    robin "Thank you. Come see me again, I'll be waiting for your cock."
+    robin "Gracias. Ven a verme de nuevo. Estaré esperando tu polla."
 
 # game/places/wanderers/prostitutes/robin.rpy:659
 translate spanish w_booth_robin_wall_cum_fca811a5:
 
     # me "Sure."
-    me "Sure."
+    me "Seguro."
 
 # game/places/wanderers/prostitutes/robin.rpy:660
 translate spanish w_booth_robin_wall_cum_dcd99dcb:
 
     # robin "See ya, [me_robin]."
-    robin "See ya, [me_robin]."
+    robin "Nos vemos, [me_robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:661
 translate spanish w_booth_robin_wall_cum_5cdebf03:
 
     # me "Bye."
-    me "Bye."
+    me "Adiós."
 
 translate spanish strings:
 
     # game/places/wanderers/prostitutes/robin.rpy:41
     old "Boobjob"
-    new "Boobjob"
+    new "Con las tetas"
 
     # game/places/wanderers/prostitutes/robin.rpy:41
     old "Wall"
-    new "Wall"
+    new "Muro"

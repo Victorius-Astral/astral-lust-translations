@@ -4,31 +4,31 @@
 translate spanish main_11_c0147db6:
 
     # "You appear in the library."
-    "You appear in the library."
+    "Apareces en la biblioteca."
 
 # game/characters/player/ev_11.rpy:8
 translate spanish main_11_4602ca73:
 
     # me "[kiara]!"
-    me "[kiara]!"
+    me "¡[kiara]!"
 
 # game/characters/player/ev_11.rpy:11
 translate spanish main_11_7ef6f4a2:
 
     # kiara "The troublemaker is back."
-    kiara "The troublemaker is back."
+    kiara "El alborotador ha vuelto."
 
 # game/characters/player/ev_11.rpy:14
 translate spanish main_11_fdae9b48:
 
     # me "Are you alright?"
-    me "Are you alright?"
+    me "¿Estás bien?"
 
 # game/characters/player/ev_11.rpy:15
 translate spanish main_11_a882554a:
 
     # kiara "Yes, as you can see."
-    kiara "Yes, as you can see."
+    kiara "Sí, como puedes ver."
 
 # game/characters/player/ev_11.rpy:19
 translate spanish main_11_2f65fc96:
@@ -469,4 +469,3 @@ translate spanish main_11_8f38a483:
 
     # kiara "I can't help you now, I'm currently in an unstable state. If I try to help you now, I'll lose control on the spot."
     kiara "I can't help you now, I'm currently in an unstable state. If I try to help you now, I'll lose control on the spot."
-
