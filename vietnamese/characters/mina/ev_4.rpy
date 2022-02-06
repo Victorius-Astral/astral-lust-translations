@@ -1399,3 +1399,55 @@ translate vietnamese strings:
     # game/characters/mina/ev_4.rpy:288
     old "What would you do if you could do anything."
     new "Em sẽ làm gì nếu em có thể làm bất cứ điều gì mình muốn."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/mina/ev_4.rpy:322
+translate vietnamese mina_4_4_fef53613:
+
+    # alice "Mina, your turn!" id mina_4_4_fef53613
+    alice "Mina, your turn!" id mina_4_4_fef53613
+
+# game/characters/mina/ev_4.rpy:365
+translate vietnamese mina_4_5_b20b6cfe:
+
+    # "Although [mina]'s expression didn't change, you notice that her cheeks burn bright red." id mina_4_5_b20b6cfe
+    "Although [mina]'s expression didn't change, you notice that her cheeks burn bright red." id mina_4_5_b20b6cfe
+
+# game/characters/mina/ev_4.rpy:396
+translate vietnamese mina_4_5_a71a0273:
+
+    # th "What the.. [mina], I'm as straight as the dick in my pants looking at you right now.. I probably shouldn't word it that way, though." id mina_4_5_a71a0273
+    th "What the.. [mina], I'm as straight as the dick in my pants looking at you right now.. I probably shouldn't word it that way, though." id mina_4_5_a71a0273
+
+# game/characters/mina/ev_4.rpy:404
+translate vietnamese mina_4_5_019bd554:
+
+    # "[mina] seems really happy about this revelation, as if she found some kind of support in you." id mina_4_5_019bd554
+    "[mina] seems really happy about this revelation, as if she found some kind of support in you." id mina_4_5_019bd554
+
+# game/characters/mina/ev_4.rpy:447
+translate vietnamese mina_4_6_83874159:
+
+    # th "Hmm, I promised [mina] that I'd help her with [alice], so I can't waste this opportunity." id mina_4_6_83874159
+    th "Hmm, I promised [mina] that I'd help her with [alice], so I can't waste this opportunity." id mina_4_6_83874159
+
+# game/characters/mina/ev_4.rpy:448
+translate vietnamese mina_4_6_4f7ec574:
+
+    # me "Make out with Mina." id mina_4_6_4f7ec574
+    me "Make out with Mina." id mina_4_6_4f7ec574
+
+translate vietnamese strings:
+
+    # game/characters/mina/ev_4.rpy:23
+    old "She knows about me dating both Alice and Lexi."
+    new "She knows about me dating both Alice and Lexi."
+
+    # game/characters/mina/ev_4.rpy:126
+    old "To make her accept me double dating Lexi and Alice I promised her I would aid her with Alice."
+    new "To make her accept me double dating Lexi and Alice I promised her I would aid her with Alice."
+
+    # game/characters/mina/ev_4.rpy:288
+    old "What would you do if you could do anything?"
+    new "What would you do if you could do anything?"
+

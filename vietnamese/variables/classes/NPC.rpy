@@ -25,3 +25,19 @@ translate vietnamese strings:
     # game/variables/classes/NPC.rpy:170
     old "{}'s lust - {}"
     new "{} Ham muốn - {}"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/variables/classes/NPC.rpy:148
+    old "{} outfit unlocked ({})."
+    new "{} outfit unlocked ({})."
+
+    # game/variables/classes/NPC.rpy:211
+    old "{}'s affection + {}"
+    new "{}'s affection + {}"
+
+    # game/variables/classes/NPC.rpy:220
+    old "{}'s affection - {}"
+    new "{}'s affection - {}"
+

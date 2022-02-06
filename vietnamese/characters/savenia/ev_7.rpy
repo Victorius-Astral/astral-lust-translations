@@ -299,3 +299,47 @@ translate vietnamese savenia_7_e5a99df0:
 
     # me "Let's close the door."
     me "Đóng cửa thôi."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/savenia/ev_7.rpy:42
+translate vietnamese savenia_7_85fe1685:
+
+    # me "Without any luck, I guess."
+    me "Without any luck, I guess."
+
+# game/characters/savenia/ev_7.rpy:54
+translate vietnamese savenia_7_f8bbda9b:
+
+    # me "But, you couldn't find them."
+    me "But, you couldn't find them."
+
+# game/characters/savenia/ev_7.rpy:59
+translate vietnamese savenia_7_ca3de137:
+
+    # savenia "I returned to our club and stayed there for some time. Ultimately, there was nothing left there. It was no longer safe."
+    savenia "I returned to our club and stayed there for some time. Ultimately, there was nothing left there. It was no longer safe."
+
+# game/characters/savenia/ev_7.rpy:67
+translate vietnamese savenia_7_99a34865:
+
+    # me "But, you will need to gain the girls' trust. Show them you mean no harm."
+    me "But, you will need to gain the girls' trust. Show them you mean no harm."
+
+# game/characters/savenia/ev_7.rpy:84
+translate vietnamese savenia_7_2e37485b:
+
+    # lexi "I'm going out for food. We need to talk, after I get back, [me]."
+    lexi "I'm going out for food. We need to talk, after I get back, [me]."
+
+# game/characters/savenia/ev_7.rpy:96
+translate vietnamese savenia_7_3b4e5da9:
+
+    # savenia "Before they approach, we would be far away."
+    savenia "Before they approach, we would be far away."
+
+# game/characters/savenia/ev_7.rpy:105
+translate vietnamese savenia_7_2e18990f:
+
+    # th "So, she means - 'do something if I get stabbed in the back'."
+    th "So, she means - 'do something if I get stabbed in the back'."
+

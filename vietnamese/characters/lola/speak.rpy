@@ -121,3 +121,11 @@ translate vietnamese strings:
     # game/characters/lola/speak.rpy:32
     old "Why do you like sex so much?"
     new "Tại sao cô thích chịch nhau đến vậy?"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/lola/speak.rpy:45
+translate vietnamese speak_lola_menu1_b358e020:
+
+    # lola "You're lost in your thoughts again."
+    lola "You're lost in your thoughts again."
+

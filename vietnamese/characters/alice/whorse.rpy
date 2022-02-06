@@ -263,3 +263,17 @@ translate vietnamese alice_whorse_a9e42f77:
 
     # me "Heh, this little, playful wench.."
     me "Heh, cái con nhỏ, ham chơi này.."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/alice/whorse.rpy:85
+translate vietnamese alice_whorse_bab5de6b:
+
+    # alice "Mm.. I want to have an orgasm. I'm dripping wet.."
+    alice "Mm.. I want to have an orgasm. I'm dripping wet.."
+
+# game/characters/alice/whorse.rpy:120
+translate vietnamese alice_whorse_96558721:
+
+    # alice "I love it when you watch me.."
+    alice "I love it when you watch me.."
+

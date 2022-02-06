@@ -223,3 +223,27 @@ translate vietnamese strings:
     # game/characters/player/ev_3.rpy:24
     old "I don't have anymore questions"
     new "I don't have anymore questions"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/player/ev_3.rpy:26
+    old "\"\"What We are is beyond your understanding, beyond your imagination and beyond your perception.\"\""
+    new "\"\"What We are is beyond your understanding, beyond your imagination and beyond your perception.\"\""
+
+    # game/characters/player/ev_3.rpy:33
+    old "It claims that knowing Its name alone would cause my death and madness."
+    new "It claims that knowing Its name alone would cause my death and madness."
+
+    # game/characters/player/ev_3.rpy:46
+    old "It requires us to open the gates of Mgehye'lloig from which It would rise again."
+    new "It requires us to open the gates of Mgehye'lloig from which It would rise again."
+
+    # game/characters/player/ev_3.rpy:60
+    old "It was forced into eternal slumber by the Outside Gods. The same Gods want to descend again, only by reawakening It would there be a chance for salvation as It is a Pillar. Whatever that means."
+    new "It was forced into eternal slumber by the Outside Gods. The same Gods want to descend again, only by reawakening It would there be a chance for salvation as It is a Pillar. Whatever that means."
+
+    # game/characters/player/ev_3.rpy:77
+    old "I can resurrect through a blessing of Throdog R'luhhor. It comes with a price, though."
+    new "I can resurrect through a blessing of Throdog R'luhhor. It comes with a price, though."
+

@@ -861,3 +861,113 @@ translate vietnamese strings:
     # game/characters/lexi/ev_12.rpy:276
     old "I can't promise this."
     new "Anh không thể hứa điều này."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/lexi/ev_12.rpy:48
+translate vietnamese lexi_12_58e2035e:
+
+    # me "Yet you still stand strong. This just shows how amazing you are."
+    me "Yet you still stand strong. This just shows how amazing you are."
+
+# game/characters/lexi/ev_12.rpy:54
+translate vietnamese lexi_12_8582c23a:
+
+    # me "I don't care anymore about that. I just want you to feel better."
+    me "I don't care anymore about that. I just want you to feel better."
+
+# game/characters/lexi/ev_12.rpy:87
+translate vietnamese lexi_12_7d321906:
+
+    # me "Have you ever had an orgasm?"
+    me "Have you ever had an orgasm?"
+
+# game/characters/lexi/ev_12.rpy:96
+translate vietnamese lexi_12_92ebf4ad:
+
+    # me "Hey, don't look at me like that, and let's do cunnilingus."
+    me "Hey, don't look at me like that, and let's do cunnilingus."
+
+# game/characters/lexi/ev_12.rpy:98
+translate vietnamese lexi_12_71f25179:
+
+    # me "Cunnilingus. It's like a blowjob but reversed. I'll lick you till you cum, how about it?"
+    me "Cunnilingus. It's like a blowjob but reversed. I'll lick you till you cum, how about it?"
+
+# game/characters/lexi/ev_12.rpy:103
+translate vietnamese lexi_12_3d322e60:
+
+    # lexi "So, it's still about getting into my panties.."
+    lexi "So, it's still about getting into my panties.."
+
+# game/characters/lexi/ev_12.rpy:117
+translate vietnamese lexi_12_1346edbd:
+
+    # lexi "Will it make you happy, if I agree?"
+    lexi "Will it make you happy, if I agree?"
+
+# game/characters/lexi/ev_12.rpy:123
+translate vietnamese lexi_12_0e4fa930:
+
+    # lexi "It's not that I doubt in your good intentions, but.. Well, I totally doubt them."
+    lexi "It's not that I doubt in your good intentions, but.. Well, I totally doubt them."
+
+# game/characters/lexi/ev_12.rpy:129
+translate vietnamese lexi_12_7d3cd777:
+
+    # lexi "Then, do you want to explain what is between you and Alice?"
+    lexi "Then, do you want to explain what is between you and Alice?"
+
+# game/characters/lexi/ev_12.rpy:142
+translate vietnamese lexi_12_9fac199e:
+
+    # lexi "I'm not stupid, these walls are not thick, and I have heard Alice screaming your name more than once.."
+    lexi "I'm not stupid, these walls are not thick, and I have heard Alice screaming your name more than once.."
+
+# game/characters/lexi/ev_12.rpy:167
+translate vietnamese lexi_12_54a74ffb:
+
+    # lexi "I want you to show me, what is it that makes her scream your name."
+    lexi "I want you to show me, what is it that makes her scream your name."
+
+# game/characters/lexi/ev_12.rpy:169
+translate vietnamese lexi_12_77a73dda:
+
+    # lexi "Can I not be?"
+    lexi "Can I not be?"
+
+# game/characters/lexi/ev_12.rpy:171
+translate vietnamese lexi_12_4e174540:
+
+    # th "What to do now.. Man, this is fucked up.."
+    th "What to do now.. Man, this is fucked up.."
+
+# game/characters/lexi/ev_12.rpy:179
+translate vietnamese lexi_12_22db0ae5:
+
+    # lexi "Then, why won't you do this? It was your idea after all."
+    lexi "Then, why won't you do this? It was your idea after all."
+
+# game/characters/lexi/ev_12.rpy:195
+translate vietnamese lexi_12_033a94e9:
+
+    # lexi "We had sex, nothing is going to change it. You have a thing with Alice at the same time... You had it when we had sex.."
+    lexi "We had sex, nothing is going to change it. You have a thing with Alice at the same time... You had it when we had sex.."
+
+# game/characters/lexi/ev_12.rpy:202
+translate vietnamese lexi_12_a609d9fc:
+
+    # lexi "I'm so... fucked up.."
+    lexi "I'm so... fucked up.."
+
+# game/characters/lexi/ev_12.rpy:247
+translate vietnamese lexi_12_9519c3ac:
+
+    # lexi "Yeah... Wait! No.."
+    lexi "Yeah... Wait! No.."
+
+# game/characters/lexi/ev_12.rpy:284
+translate vietnamese lexi_12_a6edef69:
+
+    # me "My word is my bond."
+    me "My word is my bond."
+

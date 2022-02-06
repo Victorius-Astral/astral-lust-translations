@@ -259,3 +259,11 @@ translate vietnamese strings:
     # game/characters/lexi/ev_4.rpy:72
     old "I can't promise anything"
     new "Anh không thể hứa trước bất cứ điều gì"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/lexi/ev_4.rpy:14
+    old "Don't worry, with me here, you're safe"
+    new "Don't worry, with me here, you're safe"
+

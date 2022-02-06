@@ -257,3 +257,11 @@ translate vietnamese mina_2_f551ceb0:
 
     # mina "Thanks! She'll be sooo happy!"
     mina "Cảm ơn! Chị ấy sẽ rất hạnh phúc đấy!"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/mina/ev_2.rpy:71
+    old "She tasked me to find a golden pendant from S&M Jewellery Shop for Lexi's birthday."
+    new "She tasked me to find a golden pendant from S&M Jewellery Shop for Lexi's birthday."
+

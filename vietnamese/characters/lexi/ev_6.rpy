@@ -476,3 +476,11 @@ translate vietnamese strings:
     # game/characters/lexi/ev_6.rpy:11
     old "Take care"
     new "Bye"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/lexi/ev_6.rpy:120
+    old "When we were on a date, she felt as if something terrible was about to happen. We returned home quickly."
+    new "When we were on a date, she felt as if something terrible was about to happen. We returned home quickly."
+

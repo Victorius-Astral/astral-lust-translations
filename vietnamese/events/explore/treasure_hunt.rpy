@@ -1449,3 +1449,143 @@ translate vietnamese strings:
     # game/events/explore/treasure_hunt.rpy:540
     old "Bullshit + 1"
     new "Bullshit + 1"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/events/explore/treasure_hunt.rpy:58
+translate vietnamese exp_treasure_hunt_part1_96368534:
+
+    # me "Hm.. Some scrap metal and wood?"
+    me "Hm.. Some scrap metal and wood?"
+
+# game/events/explore/treasure_hunt.rpy:96
+translate vietnamese exp_treasure_hunt_part2_15bb5cc0:
+
+    # me "Huh? Even content is the same..."
+    me "Huh? Even content is the same..."
+
+# game/events/explore/treasure_hunt.rpy:139
+translate vietnamese exp_treasure_hunt_part3_fd00959f:
+
+    # me "Now, only one remains."
+    me "Now, only one remains."
+
+# game/events/explore/treasure_hunt.rpy:317
+translate vietnamese exp_treasure_hunt_reward3_b2b31b02:
+
+    # lil_fox smile "That's good, but she knows I'm out there."
+    lil_fox smile "That's good, but she knows I'm out there."
+
+# game/events/explore/treasure_hunt.rpy:325
+translate vietnamese exp_treasure_hunt_reward3_b5ae7dac:
+
+    # lil_fox smile "Don't worry. Maybe, you'll be faster next time."
+    lil_fox smile "Don't worry. Maybe, you'll be faster next time."
+
+# game/events/explore/treasure_hunt.rpy:342
+translate vietnamese exp_treasure_hunt_reward3_8a74af91:
+
+    # lil_fox "Oh, [me]. You made me blush!"
+    lil_fox "Oh, [me]. You made me blush!"
+
+# game/events/explore/treasure_hunt.rpy:422
+translate vietnamese exp_treasure_hunt_reward3_fa194d45:
+
+    # th "Now, that sounds hot.."
+    th "Now, that sounds hot.."
+
+# game/events/explore/treasure_hunt.rpy:452
+translate vietnamese exp_treasure_hunt_menu_fox_77542540:
+
+    # lil_fox "No one. It's like that, without shrine I can only stay in the fog. It sustains my life."
+    lil_fox "No one. It's like that, without shrine I can only stay in the fog. It sustains my life."
+
+# game/events/explore/treasure_hunt.rpy:456
+translate vietnamese exp_treasure_hunt_menu_fox_f4bd2560:
+
+    # lil_fox "Yeah. I am, but it's another thing."
+    lil_fox "Yeah. I am, but it's another thing."
+
+# game/events/explore/treasure_hunt.rpy:462
+translate vietnamese exp_treasure_hunt_menu_fox_35654aaa:
+
+    # me "Then, why do you stay outside then?"
+    me "Then, why do you stay outside then?"
+
+# game/events/explore/treasure_hunt.rpy:473
+translate vietnamese exp_treasure_hunt_menu_fox_eb144747:
+
+    # lil_fox "It's scary, but reassuring at the same time."
+    lil_fox "It's scary, but reassuring at the same time."
+
+# game/events/explore/treasure_hunt.rpy:492
+translate vietnamese exp_treasure_hunt_menu_fox_2eff2aac:
+
+    # me "So, what other reason could it be?"
+    me "So, what other reason could it be?"
+
+# game/events/explore/treasure_hunt.rpy:515
+translate vietnamese exp_treasure_hunt_menu_fox_fa8da3d4:
+
+    # me "I guess, it will make you some 'pure' spirituality, right?"
+    me "I guess, it will make you some 'pure' spirituality, right?"
+
+# game/events/explore/treasure_hunt.rpy:535
+translate vietnamese exp_treasure_hunt_menu_fox_43f0bc2b:
+
+    # me "Oh! I guess I could've expected that. After all, you're a mo.."
+    me "Oh! I guess I could've expected that. After all, you're a mo.."
+
+# game/events/explore/treasure_hunt.rpy:546
+translate vietnamese exp_treasure_hunt_menu_fox_d706da71:
+
+    # lil_fox "No, no, silly. My beauty doesn't have anything to do with it, but you're right, it would be weird if I wasn't special."
+    lil_fox "No, no, silly. My beauty doesn't have anything to do with it, but you're right, it would be weird if I wasn't special."
+
+# game/events/explore/treasure_hunt.rpy:551
+translate vietnamese exp_treasure_hunt_menu_fox_dd1eda32:
+
+    # me "Actually, I'm building a fox shrine."
+    me "Actually, I'm building a fox shrine."
+
+# game/events/explore/treasure_hunt.rpy:560
+translate vietnamese exp_treasure_hunt_menu_fox_748eb19c:
+
+    # lil_fox "It needs to be fully completed, so it can purify me."
+    lil_fox "It needs to be fully completed, so it can purify me."
+
+# game/events/explore/treasure_hunt.rpy:577
+translate vietnamese exp_treasure_hunt_reward3_kiss_95cac67c:
+
+    # me "I can give you a kiss, if that helps at all."
+    me "I can give you a kiss, if that helps at all."
+
+# game/events/explore/treasure_hunt.rpy:613
+translate vietnamese exp_treasure_hunt_reward3_sex_7c2cc6fb:
+
+    # lil_fox "Yes? Is there anything wrong?"
+    lil_fox "Yes? Is there anything wrong?"
+
+# game/events/explore/treasure_hunt.rpy:614
+translate vietnamese exp_treasure_hunt_reward3_sex_457024e3:
+
+    # me "So, you were doing it with your sisters?"
+    me "So, you were doing it with your sisters?"
+
+# game/events/explore/treasure_hunt.rpy:625
+translate vietnamese exp_treasure_hunt_reward3_sex_5742f499:
+
+    # lil_fox "I told you, I trained. I never slacked off!"
+    lil_fox "I told you, I trained. I never slacked off!"
+
+# game/events/explore/treasure_hunt.rpy:669
+translate vietnamese exp_treasure_hunt_reward3_sex_df782da0:
+
+    # lil_fox "There is so much, it's dripping."
+    lil_fox "There is so much, it's dripping."
+
+# game/events/explore/treasure_hunt.rpy:702
+translate vietnamese exp_treasure_hunt_reward4_c6f8568d:
+
+    # me "So, that was an ambush.."
+    me "So, that was an ambush.."
+

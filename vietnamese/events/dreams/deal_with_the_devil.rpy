@@ -205,3 +205,11 @@ translate vietnamese strings:
     # game/events/dreams/deal_with_the_devil.rpy:95
     old "I won't take your offer"
     new "Ta sẽ không nhận lời đề nghị của ngươi"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/events/dreams/deal_with_the_devil.rpy:95
+    old "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
+    new "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
+

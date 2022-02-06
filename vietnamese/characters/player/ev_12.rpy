@@ -521,3 +521,59 @@ translate vietnamese main_12_b17b1bf2:
 
     # me "Haha.. It's so fucked up.. I.. need to rest.."
     me "Haha.. Thật là toang mà.. Mình .. cần phải nghỉ ngơi.."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/player/ev_12.rpy:49
+translate vietnamese main_12_3100fcf9:
+
+    # aharon "What you believe to be The End, is not the end."
+    aharon "What you believe to be The End, is not the end."
+
+# game/characters/player/ev_12.rpy:73
+translate vietnamese main_12_2aefa9a2:
+
+    # aharon "At the beginning, I wanted to turn you into my puppet, and open the gates right away.."
+    aharon "At the beginning, I wanted to turn you into my puppet, and open the gates right away.."
+
+# game/characters/player/ev_12.rpy:75
+translate vietnamese main_12_9b7ad031:
+
+    # aharon "The key, it can't be stolen. It has the trait of omnilock. It exists outside of everything, can't be reached nor affected."
+    aharon "The key, it can't be stolen. It has the trait of omnilock. It exists outside of everything, can't be reached nor affected."
+
+# game/characters/player/ev_12.rpy:79
+translate vietnamese main_12_09873be0:
+
+    # me "How can you be so cruel, and want me to trust you?" id main_12_09873be0
+    me "How can you be so cruel, and want me to trust you?" id main_12_09873be0
+
+# game/characters/player/ev_12.rpy:87
+translate vietnamese main_12_76b71697:
+
+    # aharon "I've lived through thousands of years, seen rise and fall of countless nations, birth, and death of billions. Human nature.. it was never kind."
+    aharon "I've lived through thousands of years, seen rise and fall of countless nations, birth, and death of billions. Human nature.. it was never kind."
+
+# game/characters/player/ev_12.rpy:92
+translate vietnamese main_12_1247e2ef:
+
+    # aharon "Indeed, becoming a God is the goal that kept me going for millennia. Greed, or rather lust, lust for power is the biggest part of humanity I have retained."
+    aharon "Indeed, becoming a God is the goal that kept me going for millennia. Greed, or rather lust, lust for power is the biggest part of humanity I have retained."
+
+# game/characters/player/ev_12.rpy:98
+translate vietnamese main_12_ea9d9581:
+
+    # aharon "While I can't tell you everything, I can at least help you understand your destiny, and the reason you, and those you care about suffer."
+    aharon "While I can't tell you everything, I can at least help you understand your destiny, and the reason you, and those you care about suffer."
+
+# game/characters/player/ev_12.rpy:100
+translate vietnamese main_12_34f429b5:
+
+    # me "Then what is the price for this 'precious' knowledge?"
+    me "Then what is the price for this 'precious' knowledge?"
+
+translate vietnamese strings:
+
+    # game/characters/player/ev_12.rpy:43
+    old "Higher Beings should be referred to with respect, They should be described as He/She/It, using he/she/it is considered lack of respect and thus dangerous."
+    new "Higher Beings should be referred to with respect, They should be described as He/She/It, using he/she/it is considered lack of respect and thus dangerous."
+

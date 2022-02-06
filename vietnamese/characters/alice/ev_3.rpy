@@ -591,3 +591,11 @@ translate vietnamese strings:
     # game/characters/alice/ev_3.rpy:20
     old "Not now"
     new "Không phải bây giờ"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/alice/ev_3.rpy:146
+    old "She brought me to watch her back when she went out to get a.. \"friend\"...."
+    new "She brought me to watch her back when she went out to get a.. \"friend\"...."
+

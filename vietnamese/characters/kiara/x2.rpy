@@ -485,3 +485,11 @@ translate vietnamese kiara_x2_cum_41bd298d:
 
     # kiara "I know, come back when you're horny. I'll be happy to have sex again."
     kiara "Tôi biết, hãy quay lại khi anh đang nứng. Tôi sẽ rất vui khi được làm tình một lần nữa."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/kiara/x2.rpy:22
+translate vietnamese kiara_x2_e3c59672:
+
+    # me "Holy.. Am I in the heavens?"
+    me "Holy.. Am I in the heavens?"
+

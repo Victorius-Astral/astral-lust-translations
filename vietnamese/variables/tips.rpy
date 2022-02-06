@@ -305,3 +305,31 @@ translate vietnamese strings:
     # game/variables/tips.rpy:4
     old "I should talk with her, didn't have a chance last time."
     new "Tôi nên nói chuyện với cô ấy, lần trước mình không có cơ hội làm vậy."
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/variables/tips.rpy:4
+    old "I bet she would want to talk about something in a few days. I should wait at my room for her."
+    new "I bet she would want to talk about something in a few days. I should wait at my room for her."
+
+    # game/variables/tips.rpy:4
+    old "She probably misses her mom. Maybe she needs me, so I should check on her from time to time."
+    new "She probably misses her mom. Maybe she needs me, so I should check on her from time to time."
+
+    # game/variables/tips.rpy:4
+    old "She looks down lately. I should speak with her."
+    new "She looks down lately. I should speak with her."
+
+    # game/variables/tips.rpy:4
+    old "She takes a shower sometimes during the evening. It might be fun if she likes me enough."
+    new "She takes a shower sometimes during the evening. It might be fun if she likes me enough."
+
+    # game/variables/tips.rpy:4
+    old "Rachel wants me to get a magician outfit. Alice could help."
+    new "Rachel wants me to get a magician outfit. Alice could help."
+
+    # game/variables/tips.rpy:4
+    old "I should ask her next day how she gets along with the girls."
+    new "I should ask her next day how she gets along with the girls."
+

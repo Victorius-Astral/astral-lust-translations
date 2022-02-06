@@ -357,3 +357,11 @@ translate vietnamese strings:
     # game/characters/alice/ev_6.rpy:26
     old "You would make a great camgirl"
     new "Em sẽ trở thành nữ hoàng Bigo live mà"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/alice/ev_6.rpy:90
+    old "She trains at the gym from time to time. It makes her tranquil. I can accompany her if I want."
+    new "She trains at the gym from time to time. It makes her tranquil. I can accompany her if I want."
+

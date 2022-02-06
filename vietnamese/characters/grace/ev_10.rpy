@@ -667,3 +667,45 @@ translate vietnamese strings:
     # game/characters/grace/ev_10.rpy:18
     old "No, she'll be back"
     new "Không, cô ấy sẽ trở lại"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/grace/ev_10.rpy:83
+translate vietnamese grace_10_part2_312e4a61:
+
+    # me "Wait.. Why are we playing family? Don't you hate men?"
+    me "Wait.. Why are we playing family? Don't you hate men?"
+
+# game/characters/grace/ev_10.rpy:170
+translate vietnamese grace_10_part2_9b724c97:
+
+    # me "No, you massage my penis with your boobs."
+    me "No, you massage my penis with your boobs."
+
+# game/characters/grace/ev_10.rpy:204
+translate vietnamese grace_10_part2_50958781:
+
+    # grace "That's good, should I move even faster?"
+    grace "That's good, should I move even faster?"
+
+# game/characters/grace/ev_10.rpy:218
+translate vietnamese grace_10_part2_2c94258a:
+
+    # me "Do it a bit more.. I'm almost there."
+    me "Do it a bit more.. I'm almost there."
+
+# game/characters/grace/ev_10.rpy:235
+translate vietnamese grace_10_part2_f7a1bfec:
+
+    # me "Yeah, it happens, don't worry about it. Go clean yourself before it gets sticky."
+    me "Yeah, it happens, don't worry about it. Go clean yourself before it gets sticky."
+
+translate vietnamese strings:
+
+    # game/characters/grace/ev_10.rpy:18
+    old "Yes, she doesn't want you, anymore"
+    new "Yes, she doesn't want you, anymore"
+
+    # game/characters/grace/ev_10.rpy:77
+    old "Secret found! Victorius is pleased. +50% vault space multiplier!"
+    new "Secret found! Victorius is pleased. +50% vault space multiplier!"
+

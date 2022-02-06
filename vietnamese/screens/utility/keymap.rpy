@@ -41,3 +41,15 @@ translate vietnamese strings:
     # game/screens/utility/keymap.rpy:46
     old "Open/Close map."
     new "Mở/Đóng bản đồ."
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/screens/utility/keymap.rpy:50
+    old "Toggle interaction menu."
+    new "Toggle interaction menu."
+
+    # game/screens/utility/keymap.rpy:54
+    old "Toggle task menu."
+    new "Toggle task menu."
+

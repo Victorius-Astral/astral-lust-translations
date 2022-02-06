@@ -511,3 +511,15 @@ translate vietnamese strings:
     # game/characters/lexi/speak.rpy:230
     old "Look for caps (Duration: [lexiTasks.scavengeCaps.duration]) {loot}(Caps+){/loot} {#visible}"
     new "Tìm nắp chai (Thời gian: [lexiTasks.scavengeCaps.duration]) {loot}(Nắp chai+){/loot} {#visible}"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/lexi/speak.rpy:58
+    old "She talks about her death with ease, as if she was discussing someone else."
+    new "She talks about her death with ease, as if she was discussing someone else."
+
+    # game/characters/lexi/speak.rpy:191
+    old "The End arrived before her 20th birthday."
+    new "The End arrived before her 20th birthday."
+

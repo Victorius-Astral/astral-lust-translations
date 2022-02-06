@@ -1236,3 +1236,107 @@ translate vietnamese strings:
     # game/characters/mina/kiss.rpy:509
     old "Let her win"
     new "Để cô ấy thắng"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/mina/kiss.rpy:19
+translate vietnamese mina_kiss_100ef60d:
+
+    # mina "You pervert! What are you asking of such an innocent girl like me?"
+    mina "You pervert! What are you asking of such an innocent girl like me?"
+
+# game/characters/mina/kiss.rpy:20
+translate vietnamese mina_kiss_e4095f14:
+
+    # me "This face looks silly, not innocent."
+    me "This face looks silly, not innocent."
+
+# game/characters/mina/kiss.rpy:52
+translate vietnamese mina_kiss_3dc18494:
+
+    # mina "So, you've fallen for me."
+    mina "So, you've fallen for me."
+
+# game/characters/mina/kiss.rpy:73
+translate vietnamese mina_kiss_7f8cdfca:
+
+    # mina "Oh, you mean when we talked on the sofa. Yes, I remember."
+    mina "Oh, you mean when we talked on the sofa. Yes, I remember."
+
+# game/characters/mina/kiss.rpy:82
+translate vietnamese mina_kiss_260be9f0:
+
+    # me "I don't question it. I just offered some fun time."
+    me "I don't question it. I just offered some fun time."
+
+# game/characters/mina/kiss.rpy:99
+translate vietnamese mina_kiss_friend_route_2f351f33:
+
+    # mina "We are buddies. Why involve things like kisses?"
+    mina "We are buddies. Why involve things like kisses?"
+
+# game/characters/mina/kiss.rpy:100
+translate vietnamese mina_kiss_friend_route_532c77d6:
+
+    # me "I think it would help our friendship grow stronger!"
+    me "I think it would help our friendship grow stronger!"
+
+# game/characters/mina/kiss.rpy:105
+translate vietnamese mina_kiss_friend_route_b09878ce:
+
+    # mina "Now that's bullshit."
+    mina "Now that's bullshit."
+
+# game/characters/mina/kiss.rpy:123
+translate vietnamese mina_kiss_friend_route_49d9cd27:
+
+    # mina "You laugh, and in a while, you'll be crying."
+    mina "You laugh, and in a while, you'll be crying."
+
+# game/characters/mina/kiss.rpy:133
+translate vietnamese mina_kiss_friend_route_d435e0c2:
+
+    # me "Now, now, now. Not a good enough."
+    me "Now, now, now. Not a good enough."
+
+# game/characters/mina/kiss.rpy:144
+translate vietnamese mina_kiss_friend_route_6530978f:
+
+    # mina "Now, that's aaawkward~"
+    mina "Now, that's aaawkward~"
+
+# game/characters/mina/kiss.rpy:147
+translate vietnamese mina_kiss_friend_route_afab8cdd:
+
+    # me "So, what about.."
+    me "So, what about.."
+
+# game/characters/mina/kiss.rpy:197
+translate vietnamese mina_kiss_friend_route_c611e6c3:
+
+    # mina "Next time, I'll get you."
+    mina "Next time, I'll get you."
+
+# game/characters/mina/kiss.rpy:214
+translate vietnamese mina_kiss_friend_route_79fe1a52:
+
+    # mina "Now, that's awkward."
+    mina "Now, that's awkward."
+
+# game/characters/mina/kiss.rpy:317
+translate vietnamese mina_kiss_love_route_8cf106ed:
+
+    # mina "We'll be kissing until one of us has an orgasm. He will be the loser."
+    mina "We'll be kissing until one of us has an orgasm. He will be the loser."
+
+# game/characters/mina/kiss.rpy:447
+translate vietnamese mina_kiss_contest_failed_55176ae3:
+
+    # mina "Oh! Look at that."
+    mina "Oh! Look at that."
+
+translate vietnamese strings:
+
+    # game/characters/mina/kiss.rpy:331
+    old "Hell yeah, I'm in. Stretch your mouth well. You'll need to keep it wide open for a long time"
+    new "Hell yeah, I'm in. Stretch your mouth well. You'll need to keep it wide open for a long time"
+

@@ -807,3 +807,101 @@ translate vietnamese strings:
     # game/characters/mina/vault_fj.rpy:136
     old "I don't think about her like that"
     new "Anh không nghĩ về em ấy như vậy"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/mina/vault_fj.rpy:62
+translate vietnamese mina_vault_fj_pride_cf2acb70:
+
+    # me "Still, I have my rules and standards. Not just anyone can get my interest."
+    me "Still, I have my rules and standards. Not just anyone can get my interest."
+
+# game/characters/mina/vault_fj.rpy:68
+translate vietnamese mina_vault_fj_pride_f94e361c:
+
+    # me "You're quite a minx, [mina]. I should slap that juicy ass of yours."
+    me "You're quite a minx, [mina]. I should slap that juicy ass of yours."
+
+# game/characters/mina/vault_fj.rpy:73
+translate vietnamese mina_vault_fj_pride_2b714ee4:
+
+    # mina "Gosh, is everything you can think of related to boobs, butts, and pussies?"
+    mina "Gosh, is everything you can think of related to boobs, butts, and pussies?"
+
+# game/characters/mina/vault_fj.rpy:94
+translate vietnamese mina_vault_fj_shameless_c5df8732:
+
+    # mina "Don't worry. I'll play with your dick. Man, you've got no backbone at all."
+    mina "Don't worry. I'll play with your dick. Man, you've got no backbone at all."
+
+# game/characters/mina/vault_fj.rpy:149
+translate vietnamese mina_vault_fj_slow_4c276094:
+
+    # mina "This situation is not something a human could plot, even Grace with all her hatred towards men."
+    mina "This situation is not something a human could plot, even Grace with all her hatred towards men."
+
+# game/characters/mina/vault_fj.rpy:150
+translate vietnamese mina_vault_fj_slow_5c41ae61:
+
+    # me "She doesn't hate men. Her mother just made her think so. I don't think hatred lies in her nature at all."
+    me "She doesn't hate men. Her mother just made her think so. I don't think hatred lies in her nature at all."
+
+# game/characters/mina/vault_fj.rpy:151
+translate vietnamese mina_vault_fj_slow_9ec24131:
+
+    # mina "Yeah, she's a good girl. It's a pity her mother did that to her. She has no common sense. She's an adult. But silly like a child."
+    mina "Yeah, she's a good girl. It's a pity her mother did that to her. She has no common sense. She's an adult. But silly like a child."
+
+# game/characters/mina/vault_fj.rpy:152
+translate vietnamese mina_vault_fj_slow_d2ef1368:
+
+    # me "I believe she'll grow up. Now that her mother is not here."
+    me "I believe she'll grow up. Now that her mother is not here."
+
+# game/characters/mina/vault_fj.rpy:153
+translate vietnamese mina_vault_fj_slow_417166e0:
+
+    # mina "Hopefully, it's like that."
+    mina "Hopefully, it's like that."
+
+# game/characters/mina/vault_fj.rpy:158
+translate vietnamese mina_vault_fj_slow_c13eb2cd:
+
+    # mina "So, you do plan to do it."
+    mina "So, you do plan to do it."
+
+# game/characters/mina/vault_fj.rpy:162
+translate vietnamese mina_vault_fj_slow_f4a16e6e:
+
+    # me "Just like that? You're not going to tell me not to touch her?"
+    me "Just like that? You're not going to tell me not to touch her?"
+
+# game/characters/mina/vault_fj.rpy:168
+translate vietnamese mina_vault_fj_slow_808c5357:
+
+    # me "That's a harsh thing for you to say, a little bit of optimism wouldn't kill you. [mina]."
+    me "That's a harsh thing for you to say, a little bit of optimism wouldn't kill you. [mina]."
+
+# game/characters/mina/vault_fj.rpy:179
+translate vietnamese mina_vault_fj_slow_c18dcaeb:
+
+    # me "It's not about liking her or not. I just don't feel attraction towards her."
+    me "It's not about liking her or not. I just don't feel attraction towards her."
+
+# game/characters/mina/vault_fj.rpy:197
+translate vietnamese mina_vault_fj_fast_adcb8023:
+
+    # me "Hey, I'm complimenting you right now. Why be nasty?"
+    me "Hey, I'm complimenting you right now. Why be nasty?"
+
+# game/characters/mina/vault_fj.rpy:205
+translate vietnamese mina_vault_fj_fast_e9a3cad6:
+
+    # mina "It seems someone is in heaven right now."
+    mina "It seems someone is in heaven right now."
+
+# game/characters/mina/vault_fj.rpy:227
+translate vietnamese mina_vault_fj_fast_d96a650b:
+
+    # mina "Mm. Hanging out with you is exciting in many ways. It's never boring."
+    mina "Mm. Hanging out with you is exciting in many ways. It's never boring."
+

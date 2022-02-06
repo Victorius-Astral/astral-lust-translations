@@ -479,3 +479,29 @@ translate vietnamese strings:
     # game/events/explore/damsel_pregnant.rpy:148
     old "Buy her 'services' with goods"
     new "Mua 'dịch vụ' của cô ấy bằng hàng hóa"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/events/explore/damsel_pregnant.rpy:97
+translate vietnamese damsel_pregnant_4616e46a:
+
+    # bandit "Hey! What are you trying to do, you little shit?! \n [[{agi}Agility{/agi} check failed, {str}Strength{/str} check failed]"
+    bandit "Hey! What are you trying to do, you little shit?! \n [[{agi}Agility{/agi} check failed, {str}Strength{/str} check failed]"
+
+# game/events/explore/damsel_pregnant.rpy:200
+translate vietnamese damsel_pregnant_traded_682045df:
+
+    # th "I wish, I could use these boobs as a pillow every night.."
+    th "I wish, I could use these boobs as a pillow every night.."
+
+# game/events/explore/damsel_pregnant.rpy:212
+translate vietnamese damsel_pregnant_traded_c51e14d9:
+
+    # me "Now, get on top of me."
+    me "Now, get on top of me."
+
+# game/events/explore/damsel_pregnant.rpy:229
+translate vietnamese damsel_pregnant_traded_28fb9070:
+
+    # me "Why not admit, you love it?"
+    me "Why not admit, you love it?"
+

@@ -395,3 +395,11 @@ translate vietnamese strings:
     # game/characters/grace/ev_6.rpy:68
     old "Thank her"
     new "Cảm ơn cô ấy"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/grace/ev_6.rpy:28
+    old "Her cooking is the best!"
+    new "Her cooking is the best!"
+

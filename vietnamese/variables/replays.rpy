@@ -545,3 +545,15 @@ translate vietnamese strings:
     # game/variables/replays.rpy:265
     old "Secret"
     new "Bí mật"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/variables/replays.rpy:30
+    old "Horse Riding Lessons"
+    new "Horse Riding Lessons"
+
+    # game/variables/replays.rpy:89
+    old "Agoraphobia"
+    new "Agoraphobia"
+

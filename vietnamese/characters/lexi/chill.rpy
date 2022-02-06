@@ -1261,3 +1261,95 @@ translate vietnamese strings:
     # game/characters/lexi/chill.rpy:280
     old "Bath towel"
     new "Khăn tắm"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/lexi/chill.rpy:51
+translate vietnamese lexi_chill_946b66dd:
+
+    # lexi "Why not? Give me a minute. I promised Alice to help with something."
+    lexi "Why not? Give me a minute. I promised Alice to help with something."
+
+# game/characters/lexi/chill.rpy:53
+translate vietnamese lexi_chill_993f419a:
+
+    # lexi "Just a bit. I'll be back in a few minutes. Let's meet in your room."
+    lexi "Just a bit. I'll be back in a few minutes. Let's meet in your room."
+
+# game/characters/lexi/chill.rpy:63
+translate vietnamese lexi_chill_4684b5b5:
+
+    # th "It was her who I saw first, right after awakening. It was also her who explained everything to me."
+    th "It was her who I saw first, right after awakening. It was also her who explained everything to me."
+
+# game/characters/lexi/chill.rpy:83
+translate vietnamese lexi_chill_08ba8a9b:
+
+    # lexi "I'm not worthy of anyone's admiration. I do what I have to survive. We all do."
+    lexi "I'm not worthy of anyone's admiration. I do what I have to survive. We all do."
+
+# game/characters/lexi/chill.rpy:90
+translate vietnamese lexi_chill_709d4b81:
+
+    # lexi "Let's change the subject. How have you been these days, were you safe?"
+    lexi "Let's change the subject. How have you been these days, were you safe?"
+
+# game/characters/lexi/chill.rpy:96
+translate vietnamese lexi_chill_50ad420a:
+
+    # lexi "I know. I can be a comedian if I want to."
+    lexi "I know. I can be a comedian if I want to."
+
+# game/characters/lexi/chill.rpy:100
+translate vietnamese lexi_chill_11eec720:
+
+    # lexi "Not more than usual."
+    lexi "Not more than usual."
+
+# game/characters/lexi/chill.rpy:104
+translate vietnamese lexi_chill_9b770cb4:
+
+    # lexi "At that time, I won't care."
+    lexi "At that time, I won't care."
+
+# game/characters/lexi/chill.rpy:140
+translate vietnamese lexi_chill_90e8d1d4:
+
+    # me "I guess, I'm too manly for you to buy this."
+    me "I guess, I'm too manly for you to buy this."
+
+# game/characters/lexi/chill.rpy:143
+translate vietnamese lexi_chill_caa16d04:
+
+    # lexi "Seems you're leveling up, your bullshitting skill."
+    lexi "Seems you're leveling up, your bullshitting skill."
+
+# game/characters/lexi/chill.rpy:144
+translate vietnamese lexi_chill_483ad4f4:
+
+    # me "I do what I can. Don't tell me my eloquence, didn't stir your little heart."
+    me "I do what I can. Don't tell me my eloquence, didn't stir your little heart."
+
+# game/characters/lexi/chill.rpy:209
+translate vietnamese lexi_chill_skilled_b5c54685:
+
+    # me "What is that, you're murmuring under your breath?"
+    me "What is that, you're murmuring under your breath?"
+
+# game/characters/lexi/chill.rpy:296
+translate vietnamese lexi_chill_fj_c7b59a57:
+
+    # lexi "So, you've helped my feet to relax only to tire them again?"
+    lexi "So, you've helped my feet to relax only to tire them again?"
+
+# game/characters/lexi/chill.rpy:354
+translate vietnamese lexi_chill_fj_start_8748e4ad:
+
+    # lexi "Okay.."
+    lexi "Okay.."
+
+# game/characters/lexi/chill.rpy:368
+translate vietnamese lexi_chill_fj_start_e385d4c6:
+
+    # lexi "Okay, now I got it."
+    lexi "Okay, now I got it."
+

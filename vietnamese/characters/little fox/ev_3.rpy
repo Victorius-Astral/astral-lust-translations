@@ -1127,3 +1127,89 @@ translate vietnamese lil_fox_3_alice_4822b6c9:
 
     # me "See you around girls."
     me "Gặp lại sau nha."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/little fox/ev_3.rpy:45
+translate vietnamese lil_fox_3_d2747da5:
+
+    # me "If I take it back, she won't pick a fight with you anymore, right? Easy enough."
+    me "If I take it back, she won't pick a fight with you anymore, right? Easy enough."
+
+# game/characters/little fox/ev_3.rpy:125
+translate vietnamese lil_fox_3_alice_4b638b0c:
+
+    # alice "So, you make her call you mister?"
+    alice "So, you make her call you mister?"
+
+# game/characters/little fox/ev_3.rpy:126
+translate vietnamese lil_fox_3_alice_d281a37e:
+
+    # th "Okay, bad start."
+    th "Okay, bad start."
+
+# game/characters/little fox/ev_3.rpy:165
+translate vietnamese lil_fox_3_alice_228d4940:
+
+    # lil_fox "So, not a dress?"
+    lil_fox "So, not a dress?"
+
+# game/characters/little fox/ev_3.rpy:192
+translate vietnamese lil_fox_3_alice_cd2fd82d:
+
+    # th "Now, she's just making things difficult for her.."
+    th "Now, she's just making things difficult for her.."
+
+# game/characters/little fox/ev_3.rpy:296
+translate vietnamese lil_fox_3_alice_b9694d26:
+
+    # me "I think, I should keep eye on both of you.."
+    me "I think, I should keep eye on both of you.."
+
+# game/characters/little fox/ev_3.rpy:323
+translate vietnamese lil_fox_3_alice_99781e7d:
+
+    # me "I'm afraid for Little Fox.. Alice seemed pretty upset.."
+    me "I'm afraid for Little Fox.. Alice seemed pretty upset.."
+
+# game/characters/little fox/ev_3.rpy:327
+translate vietnamese lil_fox_3_alice_4b0e66e2:
+
+    # me "If your instinct says they are friends, then it's broken."
+    me "If your instinct says they are friends, then it's broken."
+
+# game/characters/little fox/ev_3.rpy:337
+translate vietnamese lil_fox_3_alice_f7faac05:
+
+    # rachel "Alice is a little territorial, I guess."
+    rachel "Alice is a little territorial, I guess."
+
+# game/characters/little fox/ev_3.rpy:348
+translate vietnamese lil_fox_3_alice_7350b84d:
+
+    # me "I didn't mean anything. So, if you want to get pregnant, you're gonna find a random guy to impregnate you?"
+    me "I didn't mean anything. So, if you want to get pregnant, you're gonna find a random guy to impregnate you?"
+
+# game/characters/little fox/ev_3.rpy:353
+translate vietnamese lil_fox_3_alice_fd7eae5d:
+
+    # rachel "I guess? I would prefer to find someone that respects and cares about me, but I'm not afraid of sacrifice for the survival of my kind."
+    rachel "I guess? I would prefer to find someone that respects and cares about me, but I'm not afraid of sacrifice for the survival of my kind."
+
+# game/characters/little fox/ev_3.rpy:354
+translate vietnamese lil_fox_3_alice_de46e428:
+
+    # me "From the human perspective, it's really sad."
+    me "From the human perspective, it's really sad."
+
+# game/characters/little fox/ev_3.rpy:357
+translate vietnamese lil_fox_3_alice_9a646b65:
+
+    # rachel "The stronger the mate the better. Our kind has a dominant bloodline, all our children would be kitsune, but they can be strong or weak."
+    rachel "The stronger the mate the better. Our kind has a dominant bloodline, all our children would be kitsune, but they can be strong or weak."
+
+# game/characters/little fox/ev_3.rpy:374
+translate vietnamese lil_fox_3_alice_fa07b2f7:
+
+    # lil_fox "Are you talking about me, behind my back?"
+    lil_fox "Are you talking about me, behind my back?"
+

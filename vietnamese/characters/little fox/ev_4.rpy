@@ -197,3 +197,23 @@ translate vietnamese lil_fox_4_512cb467:
 
     # "Both of you return safely, free of interruptions, and with full pockets."
     "Cả hai bạn đều trở về an toàn, không bị làm sao và có một cái túi đầy."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/little fox/ev_4.rpy:30
+translate vietnamese lil_fox_4_80af8264:
+
+    # lil_fox "Yup~ There're plenty of places like that, you know?"
+    lil_fox "Yup~ There're plenty of places like that, you know?"
+
+# game/characters/little fox/ev_4.rpy:58
+translate vietnamese lil_fox_4_2a2bbe81:
+
+    # "But by the end, she seems to doubt as to where take you, finally settling for one building."
+    "But by the end, she seems to doubt as to where take you, finally settling for one building."
+
+# game/characters/little fox/ev_4.rpy:93
+translate vietnamese lil_fox_4_ecad83da:
+
+    # me "It means, I can use this to get more things later."
+    me "It means, I can use this to get more things later."
+

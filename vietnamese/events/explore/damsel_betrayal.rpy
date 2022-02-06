@@ -425,3 +425,47 @@ translate vietnamese strings:
     # game/events/explore/damsel_betrayal.rpy:152
     old "Massage my dick with your boobs"
     new "Massage thằng nhỏ của tôi với bộ ngực của cô"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/events/explore/damsel_betrayal.rpy:28
+translate vietnamese damsel_betrayal_66565643:
+
+    # bandit "What, new hideout?! When did anyone say we would move?"
+    bandit "What, new hideout?! When did anyone say we would move?"
+
+# game/events/explore/damsel_betrayal.rpy:29
+translate vietnamese damsel_betrayal_60544acd:
+
+    # th "It seems that their leader is angry and will take it out on one of his own."
+    th "It seems that their leader is angry and will take it out on one of his own."
+
+# game/events/explore/damsel_betrayal.rpy:32
+translate vietnamese damsel_betrayal_7fb2eb1e:
+
+    # th "But, I can't discard the possibility that she {i}is{/i} a back-stabber and stole their stuff."
+    th "But, I can't discard the possibility that she {i}is{/i} a back-stabber and stole their stuff."
+
+# game/events/explore/damsel_betrayal.rpy:80
+translate vietnamese damsel_betrayal_win_6fbd4293:
+
+    # th "Now, she gets where I am going with this."
+    th "Now, she gets where I am going with this."
+
+# game/events/explore/damsel_betrayal.rpy:134
+translate vietnamese damsel_betrayal_traitorbetrayed_1f9c7d80:
+
+    # th "What a nice day it was."
+    th "What a nice day it was."
+
+# game/events/explore/damsel_betrayal.rpy:146
+translate vietnamese damsel_betrayal_traitorcaught_ed40cd2b:
+
+    # me "You know what will happen, if you keep playing around, right?"
+    me "You know what will happen, if you keep playing around, right?"
+
+# game/events/explore/damsel_betrayal.rpy:150
+translate vietnamese damsel_betrayal_traitorcaught_fa5992ce:
+
+    # flashy "Alright, alright! I got it. So, just tell me what you want."
+    flashy "Alright, alright! I got it. So, just tell me what you want."
+

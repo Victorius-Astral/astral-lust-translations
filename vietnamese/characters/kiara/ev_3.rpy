@@ -329,3 +329,11 @@ translate vietnamese kiara_3_8dc22e2d:
 
     # me "Alright then."
     me "Được rồi."
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/kiara/ev_3.rpy:23
+    old "She possesses authority over the domain of knowledge."
+    new "She possesses authority over the domain of knowledge."
+

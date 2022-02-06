@@ -425,3 +425,35 @@ translate vietnamese lexi_10_70dac702:
 
     # lexi "Mm."
     lexi "Mm."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/lexi/ev_10.rpy:62
+translate vietnamese lexi_10_d1abe798:
+
+    # lexi "After she's safe, I can consider it."
+    lexi "After she's safe, I can consider it."
+
+# game/characters/lexi/ev_10.rpy:67
+translate vietnamese lexi_10_f6ac03b3:
+
+    # me "Good [lex_min!t], won't think about dying, and leaving her [lex_min!t] alone."
+    me "Good [lex_min!t], won't think about dying, and leaving her [lex_min!t] alone."
+
+# game/characters/lexi/ev_10.rpy:90
+translate vietnamese lexi_10_acbc0ff7:
+
+    # me "I'm happy to be here, with all of you."
+    me "I'm happy to be here, with all of you."
+
+# game/characters/lexi/ev_10.rpy:112
+translate vietnamese lexi_10_d731bc0c:
+
+    # th "Alright, a bag full, time to go back."
+    th "Alright, a bag full, time to go back."
+
+# game/characters/lexi/ev_10.rpy:126
+translate vietnamese lexi_10_20a565e8:
+
+    # me "Scared I won't make it or are you so hungry already?"
+    me "Scared I won't make it or are you so hungry already?"
+

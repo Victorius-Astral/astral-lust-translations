@@ -163,3 +163,17 @@ translate vietnamese strings:
     # game/characters/little fox/speak.rpy:77
     old "Little Cum-Stealer"
     new "Kẻ cắp tinh trùng"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/little fox/speak.rpy:21
+translate vietnamese speak_lilfox_d2d117ea:
+
+    # lil_fox "Hehe, you're a naughty charmer."
+    lil_fox "Hehe, you're a naughty charmer."
+
+# game/characters/little fox/speak.rpy:62
+translate vietnamese speak_lilfox_feed_int_1aa98482:
+
+    # lil_fox "Hungry fox is a bad fox. So, you will have to feed me a lot."
+    lil_fox "Hungry fox is a bad fox. So, you will have to feed me a lot."
+

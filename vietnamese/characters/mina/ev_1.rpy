@@ -397,3 +397,11 @@ translate vietnamese strings:
     # game/characters/mina/ev_1.rpy:76
     old "She is great"
     new "Cô ấy rất tuyệt"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/mina/ev_1.rpy:64
+    old "She seems to believe I'm courting Lexi. This thought makes her excited."
+    new "She seems to believe I'm courting Lexi. This thought makes her excited."
+

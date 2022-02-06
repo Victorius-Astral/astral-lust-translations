@@ -29,3 +29,11 @@ translate vietnamese strings:
     # game/functions/tasks/screens.rpy:147
     old "/"
     new "/"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/functions/tasks/screens.rpy:148
+    old "Toggle tasks menu with '{b}T{/b}' key"
+    new "Toggle tasks menu with '{b}T{/b}' key"
+

@@ -173,3 +173,17 @@ translate vietnamese mina_vault_cunn_75f16f80:
 
     # mina "Yeah, see ya."
     mina "Yeah, bye."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/mina/vault_cunn.rpy:17
+translate vietnamese mina_vault_cunn_a0224e59:
+
+    # me "I will. You'll beg me not to stop."
+    me "I will. You'll beg me not to stop."
+
+# game/characters/mina/vault_cunn.rpy:18
+translate vietnamese mina_vault_cunn_58774000:
+
+    # mina "I'll take your word for it. No one is going to hear us here, so I can let myself go wild."
+    mina "I'll take your word for it. No one is going to hear us here, so I can let myself go wild."
+

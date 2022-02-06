@@ -213,3 +213,27 @@ translate vietnamese strings:
     # game/variables/lists/sexpos.rpy:3
     old "Group - Threesome"
     new "Threesome"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Vaginal - Lifting"
+    new "Vaginal - Lifting"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Anal - Lifting"
+    new "Anal - Lifting"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Anal - Reverse Cowgirl"
+    new "Anal - Reverse Cowgirl"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Group - Threesome - Two Males"
+    new "Group - Threesome - Two Males"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Group - Threesome - Two Females"
+    new "Group - Threesome - Two Females"
+

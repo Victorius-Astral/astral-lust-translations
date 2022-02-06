@@ -13,3 +13,11 @@ translate vietnamese strings:
     # game/combat/decks/DeckSelect.rpy:65
     old "* Hover outside to see enemies"
     new "* Di chuột ra ngoài để xem kẻ thù"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/combat/decks/DeckSelect.rpy:130
+    old "* Click outside to toggle enemies view"
+    new "* Click outside to toggle enemies view"
+

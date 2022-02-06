@@ -301,3 +301,29 @@ translate vietnamese strings:
     # game/characters/lexi/cunn_1.rpy:106
     old "Slower"
     new "Chậm hơn"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/lexi/cunn_1.rpy:147
+translate vietnamese lexi_cunn_1_slow_293e9080:
+
+    # lexi "Eehk!"
+    lexi "Eehk!"
+
+# game/characters/lexi/cunn_1.rpy:159
+translate vietnamese lexi_cunn_1_fast_96c941f6:
+
+    # me "That's it, baby, scream my name."
+    me "That's it, baby, scream my name."
+
+# game/characters/lexi/cunn_1.rpy:173
+translate vietnamese lexi_cunn_1_before_2ffc2c6c:
+
+    # lexi "Yeah, it tickles, but it's so weird and so good.."
+    lexi "Yeah, it tickles, but it's so weird and so good.."
+
+# game/characters/lexi/cunn_1.rpy:244
+translate vietnamese lexi_cunn_1_story_90504657:
+
+    # lexi "Can we do it... again sometime?"
+    lexi "Can we do it... again sometime?"
+

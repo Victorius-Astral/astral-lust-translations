@@ -443,3 +443,11 @@ translate vietnamese strings:
     # game/characters/lexi/ev_2.rpy:84
     old "I'll take care of her if something happens"
     new "Anh sẽ chăm sóc em ấy nếu có chuyện gì xảy ra"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/lexi/ev_2.rpy:67
+    old "She doesn't want to talk about her parents."
+    new "She doesn't want to talk about her parents."
+

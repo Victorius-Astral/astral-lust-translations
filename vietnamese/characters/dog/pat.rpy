@@ -71,3 +71,11 @@ translate vietnamese dog_pat_player_2cee00b1:
 
     # dog "Woof."
     dog "Gâu."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/dog/pat.rpy:17
+translate vietnamese dog_pat_f0_f093f43c:
+
+    # me "Hello, buddy. You're getting comfortable here, aren't you?"
+    me "Hello, buddy. You're getting comfortable here, aren't you?"
+

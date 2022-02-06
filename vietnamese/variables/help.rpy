@@ -233,3 +233,11 @@ translate vietnamese strings:
     # game/variables/help.rpy:3
     old "{gold}Remember, raising your stats can increase your combat ability dramatically!{/gold}"
     new "{gold}Hãy nhớ rằng, tăng chỉ số của bạn có thể tăng khả năng chiến đấu của bạn một cách đáng kể!{/gold}"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/variables/help.rpy:3
+    old "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over. Be careful.{/color}"
+    new "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over. Be careful.{/color}"
+

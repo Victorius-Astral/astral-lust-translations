@@ -29,3 +29,35 @@ translate vietnamese strings:
     # game/combat/cards/lists/tips.rpy:1
     old "\n________________\n {{patreon1}}Thank you for being with us since the beginning!{{/patreon1}}"
     new "\n________________\n {{patreon1}}Thank you for being with us since the beginning!{{/patreon1}}"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/combat/cards/lists/tips.rpy:1
+    old "{{b}}{{u}}Summoning{{/u}}{{/b}}\n{{small}}Summon an ally to help you in combat. You need to have an empty space in your team for summoning to succeed. Summons disappear after combat.{{/small}}"
+    new "{{b}}{{u}}Summoning{{/u}}{{/b}}\n{{small}}Summon an ally to help you in combat. You need to have an empty space in your team for summoning to succeed. Summons disappear after combat.{{/small}}"
+
+    # game/combat/cards/lists/tips.rpy:1
+    old "{{i}}{{small}}{{patreon1}}Thank you for support!{{/patreon1}}{{/small}}{{/i}}"
+    new "{{i}}{{small}}{{patreon1}}Thank you for support!{{/patreon1}}{{/small}}{{/i}}"
+
+    # game/combat/cards/lists/tips.rpy:1
+    old "{{small}}{{patreon1}}Patron - The Beginning, January 2021{{/patreon1}}{{/small}}"
+    new "{{small}}{{patreon1}}Patron - The Beginning, January 2021{{/patreon1}}{{/small}}"
+
+    # game/combat/cards/lists/tips.rpy:1
+    old "{{small}}{{patreon1}}Patron - 1st Anniversary, January 2022{{/patreon1}}{{/small}}"
+    new "{{small}}{{patreon1}}Patron - 1st Anniversary, January 2022{{/patreon1}}{{/small}}"
+
+    # game/combat/cards/lists/tips.rpy:1
+    old "{{small}}{{patreon1}}Helped the community by reporting a bug.{{/patreon1}}{{/small}}"
+    new "{{small}}{{patreon1}}Helped the community by reporting a bug.{{/patreon1}}{{/small}}"
+
+    # game/combat/cards/lists/tips.rpy:1
+    old "{{small}}{{patreon1}}Helped the community by making a suggestion that made it into a game.{{/patreon1}}{{/small}}"
+    new "{{small}}{{patreon1}}Helped the community by making a suggestion that made it into a game.{{/patreon1}}{{/small}}"
+
+    # game/combat/cards/lists/tips.rpy:1
+    old "\n________________"
+    new "\n________________"
+

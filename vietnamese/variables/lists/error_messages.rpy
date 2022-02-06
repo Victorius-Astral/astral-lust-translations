@@ -225,3 +225,55 @@ translate vietnamese strings:
     # game/variables/lists/error_messages.rpy:3
     old "RandomBag object doesn't have called update() with no updates nor provided updated. \n Object: {obj} \n updates: {updates} \n {updated}"
     new "RandomBag object doesn't have called update() with no updates nor provided updated. \n Object: {obj} \n updates: {updates} \n {updated}"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/variables/lists/error_messages.rpy:3
+    old "Buff has incorrect trigger. \n Buff: {buff} \n Trigger: {trigger}"
+    new "Buff has incorrect trigger. \n Buff: {buff} \n Trigger: {trigger}"
+
+    # game/variables/lists/error_messages.rpy:3
+    old "Buff image doesn't exist! \n Buff: {buff}, \n Image: {image}"
+    new "Buff image doesn't exist! \n Buff: {buff}, \n Image: {image}"
+
+    # game/variables/lists/error_messages.rpy:3
+    old "Interaction Menu: Evaluating code failed! \n Place: {place}, \n Item name: {name}, \n Item index: {ind}"
+    new "Interaction Menu: Evaluating code failed! \n Place: {place}, \n Item name: {name}, \n Item index: {ind}"
+
+    # game/variables/lists/error_messages.rpy:3
+    old "Interaction Menu: Running function failed! \n Place: {place}, \n Item name: {name}, \n Item index: {ind}"
+    new "Interaction Menu: Running function failed! \n Place: {place}, \n Item name: {name}, \n Item index: {ind}"
+
+    # game/variables/lists/error_messages.rpy:3
+    old "Interaction Menu: Image doesn't exist! \n Image: {image}, \n Place: {place}, \n Item name: {name}, \n Item index: {ind}"
+    new "Interaction Menu: Image doesn't exist! \n Image: {image}, \n Place: {place}, \n Item name: {name}, \n Item index: {ind}"
+
+    # game/variables/lists/error_messages.rpy:3
+    old "Image change failed! Three basic states images for '{image}' not found."
+    new "Image change failed! Three basic states images for '{image}' not found."
+
+    # game/variables/lists/error_messages.rpy:3
+    old "Shape-shifting failed! There is no enough room for a bigger form."
+    new "Shape-shifting failed! There is no enough room for a bigger form."
+
+    # game/variables/lists/error_messages.rpy:3
+    old "Summoning {being} failed! There is no enough space for this being."
+    new "Summoning {being} failed! There is no enough space for this being."
+
+    # game/variables/lists/error_messages.rpy:3
+    old "Error when registering replay, category '{category}' doesn't exist!"
+    new "Error when registering replay, category '{category}' doesn't exist!"
+
+    # game/variables/lists/error_messages.rpy:3
+    old "Error! No help with id \"{id}\" exists!"
+    new "Error! No help with id \"{id}\" exists!"
+
+    # game/variables/lists/error_messages.rpy:3
+    old "Error! No field {field} in persistent!"
+    new "Error! No field {field} in persistent!"
+
+    # game/variables/lists/error_messages.rpy:3
+    old "Movie '{file}' doesn't exist!"
+    new "Movie '{file}' doesn't exist!"
+

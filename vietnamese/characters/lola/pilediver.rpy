@@ -161,3 +161,11 @@ translate vietnamese lola_pilediver_cum_96a9dcb6:
 
     # me "Again.. What a girl she is."
     me "Lại nữa.. đúng là 1 cô gái kỳ là."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/lola/pilediver.rpy:43
+translate vietnamese lola_pilediver_slow_a9af1e5e:
+
+    # th "Why does she excite me so much?"
+    th "Why does she excite me so much?"
+

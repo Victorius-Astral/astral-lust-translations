@@ -285,3 +285,47 @@ translate vietnamese strings:
     # game/combat/cards/lists/descriptions.rpy:1
     old "Stop corruption and madness from increasing."
     new "Không cho đồi bại và điên loạn tăng lên."
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/combat/cards/lists/descriptions.rpy:1
+    old "Deal {damage} damage and inflict {amount} {{ef}}{buff}{{/ef}} to all enemies."
+    new "Deal {damage} damage and inflict {amount} {{ef}}{buff}{{/ef}} to all enemies."
+
+    # game/combat/cards/lists/descriptions.rpy:1
+    old "Grant {amount} {{ef}}{buff}{{/ef}} to your team."
+    new "Grant {amount} {{ef}}{buff}{{/ef}} to your team."
+
+    # game/combat/cards/lists/descriptions.rpy:1
+    old "Enemy will appear to be one of the girls you know."
+    new "Enemy will appear to be one of the girls you know."
+
+    # game/combat/cards/lists/descriptions.rpy:1
+    old "Allow the mist to manifest your thoughts in the reality. Summoned {{ef}}{summon}{{/ef}} will help you in combat."
+    new "Allow the mist to manifest your thoughts in the reality. Summoned {{ef}}{summon}{{/ef}} will help you in combat."
+
+    # game/combat/cards/lists/descriptions.rpy:1
+    old "Take the last step towards the afterlife and force everyone to face madness of The Last Journey."
+    new "Take the last step towards the afterlife and force everyone to face madness of The Last Journey."
+
+    # game/combat/cards/lists/descriptions.rpy:1
+    old "Create {{b}}{item}{{/b}}."
+    new "Create {{b}}{item}{{/b}}."
+
+    # game/combat/cards/lists/descriptions.rpy:1
+    old "Create {amount} {{b}}{item}{{/b}}."
+    new "Create {amount} {{b}}{item}{{/b}}."
+
+    # game/combat/cards/lists/descriptions.rpy:1
+    old "Consume {amount} {{b}}{item}{{/b}}."
+    new "Consume {amount} {{b}}{item}{{/b}}."
+
+    # game/combat/cards/lists/descriptions.rpy:1
+    old "Sacrifice {health} health and {amount} {consume} to create a {create}."
+    new "Sacrifice {health} health and {amount} {consume} to create a {create}."
+
+    # game/combat/cards/lists/descriptions.rpy:1
+    old "{{cor}}Corruption {amount:+}%.{{/cor}}"
+    new "{{cor}}Corruption {amount:+}%.{{/cor}}"
+

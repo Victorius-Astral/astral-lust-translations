@@ -713,3 +713,47 @@ translate vietnamese strings:
     # game/characters/savenia/ev_4.rpy:52
     old "Range of Motion"
     new "Phạm vi chuyển động"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/savenia/ev_4.rpy:76
+translate vietnamese savenia_4_menu1_423d99c9:
+
+    # savenia "And, how is an exercise for arms and pecs gonna help with my leg?"
+    savenia "And, how is an exercise for arms and pecs gonna help with my leg?"
+
+# game/characters/savenia/ev_4.rpy:132
+translate vietnamese savenia_4_part2_4fa42041:
+
+    # me "Let's do it ten times, then rest for a while, and again. We will do five repeats. How does it sound?"
+    me "Let's do it ten times, then rest for a while, and again. We will do five repeats. How does it sound?"
+
+# game/characters/savenia/ev_4.rpy:150
+translate vietnamese savenia_4_part2_a8eb156f:
+
+    # me "Give it some time, it's not gonna help after one round."
+    me "Give it some time, it's not gonna help after one round."
+
+# game/characters/savenia/ev_4.rpy:185
+translate vietnamese savenia_4_part2_2d0904d2:
+
+    # me "So, this is a repayment of sorts?"
+    me "So, this is a repayment of sorts?"
+
+# game/characters/savenia/ev_4.rpy:227
+translate vietnamese savenia_4_part2_7e07c87b:
+
+    # savenia "Ah.. Now that we are complimenting, I must say your dick is not of an average size."
+    savenia "Ah.. Now that we are complimenting, I must say your dick is not of an average size."
+
+# game/characters/savenia/ev_4.rpy:242
+translate vietnamese savenia_4_part2_86c986b4:
+
+    # savenia "You should go clean yourself."
+    savenia "You should go clean yourself."
+
+# game/characters/savenia/ev_4.rpy:252
+translate vietnamese savenia_4_part2_166e7fd5:
+
+    # me "I will come to help you with your leg every day."
+    me "I will come to help you with your leg every day."
+

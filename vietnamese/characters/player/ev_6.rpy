@@ -347,3 +347,11 @@ translate vietnamese strings:
     # game/characters/player/ev_6.rpy:93
     old "During the night, shadows come alive in the fogs of Asthar. They corrupt and distort everything, even prayers."
     new "Trong màn đêm, bóng tối trở nên sống dậy trong sương mù của Asthar. Họ làm tha hóa và bóp méo mọi thứ, ngay cả những lời cầu nguyện."
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/player/ev_6.rpy:42
+    old "Names have heavy meaning. They are beacons through which higher beings connect with the spiritual world. They can hear, locate and respond to someone calling Their name."
+    new "Names have heavy meaning. They are beacons through which higher beings connect with the spiritual world. They can hear, locate and respond to someone calling Their name."
+

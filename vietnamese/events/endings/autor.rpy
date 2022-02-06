@@ -137,3 +137,11 @@ translate vietnamese strings:
     # game/events/endings/autor.rpy:36
     old "Card 'Aharon' destroyed!"
     new "Thẻ 'Aharon' bị phá hủy!"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/events/endings/autor.rpy:20
+translate vietnamese end_author_31573d51:
+
+    # "Forget this name. You had never heard of it before."
+    "Forget this name. You had never heard of it before."
+

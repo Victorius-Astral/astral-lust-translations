@@ -161,3 +161,35 @@ translate vietnamese savenia_tj_1_9370fd7a:
 
     # me "See ya."
     me "Gặp lại sau."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/savenia/tj_1.rpy:13
+translate vietnamese savenia_tj_1_864f1c6b:
+
+    # me "Now, this does feel good."
+    me "Now, this does feel good."
+
+# game/characters/savenia/tj_1.rpy:29
+translate vietnamese savenia_tj_1_47458809:
+
+    # me "So, let me say this again. They are damn nice."
+    me "So, let me say this again. They are damn nice."
+
+# game/characters/savenia/tj_1.rpy:41
+translate vietnamese savenia_tj_1_dbc3b1ed:
+
+    # me "It's one of my most charming points."
+    me "It's one of my most charming points."
+
+# game/characters/savenia/tj_1.rpy:51
+translate vietnamese savenia_tj_1_8bb708e3:
+
+    # savenia "So, don't be chatty."
+    savenia "So, don't be chatty."
+
+# game/characters/savenia/tj_1.rpy:57
+translate vietnamese savenia_tj_1_718bdd87:
+
+    # me "Now that you have mentioned it.."
+    me "Now that you have mentioned it.."
+

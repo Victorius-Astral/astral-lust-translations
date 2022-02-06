@@ -443,3 +443,11 @@ translate vietnamese strings:
     # game/characters/lexi/ev_7.rpy:100
     old "Ask if she is okay"
     new "Hỏi xem cô ấy có ổn không"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/lexi/ev_7.rpy:130
+    old "Most monsters are territorial, it's rare to see two beasts close to one another, they would typically eliminate anything that enters their territory."
+    new "Most monsters are territorial, it's rare to see two beasts close to one another, they would typically eliminate anything that enters their territory."
+

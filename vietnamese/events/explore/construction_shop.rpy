@@ -651,3 +651,11 @@ translate vietnamese strings:
     # game/events/explore/construction_shop.rpy:116
     old "Rape her"
     new "Hiếp dâm cô ấy"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/events/explore/construction_shop.rpy:278
+    old "I raped someone. Can I live with it?"
+    new "I raped someone. Can I live with it?"
+

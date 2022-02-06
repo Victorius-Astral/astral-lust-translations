@@ -705,3 +705,77 @@ translate vietnamese strings:
     # game/characters/rachel/ev_8.rpy:144
     old "I don't like them"
     new "Tôi không thích chúng"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/rachel/ev_8.rpy:47
+translate vietnamese rachel_8_743cf85c:
+
+    # rachel "That's sad. Actually, I'm in a similar situation. I suddenly appeared in this city some time ago. Around the same time as you. I was immediately corrupted."
+    rachel "That's sad. Actually, I'm in a similar situation. I suddenly appeared in this city some time ago. Around the same time as you. I was immediately corrupted."
+
+# game/characters/rachel/ev_8.rpy:48
+translate vietnamese rachel_8_a6e9a882:
+
+    # me "Really? Weird.. Most of the people I've met said that they were here since the beginning. You're the only one that has suddenly appeared here."
+    me "Really? Weird.. Most of the people I've met said that they were here since the beginning. You're the only one that has suddenly appeared here."
+
+# game/characters/rachel/ev_8.rpy:57
+translate vietnamese rachel_8_7505c4b2:
+
+    # rachel "It was a man that once came to my shrine. I don't know what his race was. He was wearing a trench coat reaching the ground. It had a high collar, on his head big top hat."
+    rachel "It was a man that once came to my shrine. I don't know what his race was. He was wearing a trench coat reaching the ground. It had a high collar, on his head big top hat."
+
+# game/characters/rachel/ev_8.rpy:74
+translate vietnamese rachel_8_c669846f:
+
+    # rachel "He had a cold, masculine, low voice. And our tribe has only women. Besides, he didn't feel close to nature at all, like my kind. He felt foreign."
+    rachel "He had a cold, masculine, low voice. And our tribe has only women. Besides, he didn't feel close to nature at all, like my kind. He felt foreign."
+
+# game/characters/rachel/ev_8.rpy:100
+translate vietnamese rachel_8_185e65e6:
+
+    # rachel "I think, it's probably somewhat related to the Gods."
+    rachel "I think, it's probably somewhat related to the Gods."
+
+# game/characters/rachel/ev_8.rpy:104
+translate vietnamese rachel_8_c427bc99:
+
+    # rachel "Not like an order, more like storytelling of what I would do in the future. And whatever it said I would do, I did. At these moments, no matter what my desires were, I acted according to this voice's story."
+    rachel "Not like an order, more like storytelling of what I would do in the future. And whatever it said I would do, I did. At these moments, no matter what my desires were, I acted according to this voice's story."
+
+# game/characters/rachel/ev_8.rpy:122
+translate vietnamese rachel_8_e6f74af9:
+
+    # rachel "It said 'Rachel blanked out and waited in place for many hours. During this period, all monsters ignored her for various reasons. She had awakened from her stupor only when a man approached her.'"
+    rachel "It said 'Rachel blanked out and waited in place for many hours. During this period, all monsters ignored her for various reasons. She had awakened from her stupor only when a man approached her.'"
+
+# game/characters/rachel/ev_8.rpy:154
+translate vietnamese rachel_8_cb9b87cb:
+
+    # me "Fox girl had a fox as a pet?"
+    me "Fox girl had a fox as a pet?"
+
+# game/characters/rachel/ev_8.rpy:158
+translate vietnamese rachel_8_5db11197:
+
+    # me "You're a fox, too."
+    me "You're a fox, too."
+
+# game/characters/rachel/ev_8.rpy:173
+translate vietnamese rachel_8_58aa173b:
+
+    # rachel "Are you saying, I'm not adorable?"
+    rachel "Are you saying, I'm not adorable?"
+
+# game/characters/rachel/ev_8.rpy:208
+translate vietnamese rachel_8_part2_fa0ccac4:
+
+    # rachel "It's cleaning itself, more often than you do."
+    rachel "It's cleaning itself, more often than you do."
+
+# game/characters/rachel/ev_8.rpy:214
+translate vietnamese rachel_8_part2_dd8b6e02:
+
+    # lil_fox crestfallen "But, I'm an adult too.. I even went through the adulthood ceremony.."
+    lil_fox crestfallen "But, I'm an adult too.. I even went through the adulthood ceremony.."
+

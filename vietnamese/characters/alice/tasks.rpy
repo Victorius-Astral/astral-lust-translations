@@ -299,3 +299,17 @@ translate vietnamese task_alice_reinforce_coat_83fa7619:
 
     # alice "'Key~"
     alice "'OK~"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/alice/tasks.rpy:60
+translate vietnamese task_alice_dismantle_clothes_6047b616:
+
+    # alice "So, what do you want to do with this?"
+    alice "So, what do you want to do with this?"
+
+# game/characters/alice/tasks.rpy:76
+translate vietnamese task_alice_dismantle_clothes_4f31bc8b:
+
+    # alice "If you don't need me to do anything else, I'll be going to do my own stuff."
+    alice "If you don't need me to do anything else, I'll be going to do my own stuff."
+

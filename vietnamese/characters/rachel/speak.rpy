@@ -405,3 +405,41 @@ translate vietnamese strings:
     # game/characters/rachel/speak.rpy:23
     old "Do you need anything? {gold}(Story){/gold}"
     new "Cô có cần gì không? {gold}(Cốt truyện){/gold}"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/rachel/speak.rpy:78
+translate vietnamese speak_rachel_built_shrine_b2ddf88b:
+
+    # lil_fox "I knew it was a shrine! The feeling was weak but familiar. Thanks a lot, you two!"
+    lil_fox "I knew it was a shrine! The feeling was weak but familiar. Thanks a lot, you two!"
+
+# game/characters/rachel/speak.rpy:98
+translate vietnamese speak_rachel_built_shrine_a934d3c9:
+
+    # me "So, you two are sisters?"
+    me "So, you two are sisters?"
+
+# game/characters/rachel/speak.rpy:99
+translate vietnamese speak_rachel_built_shrine_4268e37a:
+
+    # lil_fox "I'm an orphan. My parents were eaten by a monster, when I was young."
+    lil_fox "I'm an orphan. My parents were eaten by a monster, when I was young."
+
+# game/characters/rachel/speak.rpy:102
+translate vietnamese speak_rachel_built_shrine_bb3d13c8:
+
+    # lil_fox calm "It's alright. It was a long time ago. Rachel was a priestess at the local shrine. She took care of me."
+    lil_fox calm "It's alright. It was a long time ago. Rachel was a priestess at the local shrine. She took care of me."
+
+# game/characters/rachel/speak.rpy:113
+translate vietnamese speak_rachel_built_shrine_8f8462c7:
+
+    # me "So, I get it that the two of you will stay around?"
+    me "So, I get it that the two of you will stay around?"
+
+# game/characters/rachel/speak.rpy:115
+translate vietnamese speak_rachel_built_shrine_9625645a:
+
+    # lil_fox hungry thinking "I will fall into a slumber for a while. A few days, maybe more.."
+    lil_fox hungry thinking "I will fall into a slumber for a while. A few days, maybe more.."
+

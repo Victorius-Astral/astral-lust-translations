@@ -199,3 +199,11 @@ translate vietnamese strings:
     # game/characters/grace/ev_3.rpy:18
     old "I'm sure she's alright"
     new "Anh nghĩ là bà ấy ổn"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/grace/ev_3.rpy:49
+    old "She wants me to convey her words to her mother if I were to encounter her outside."
+    new "She wants me to convey her words to her mother if I were to encounter her outside."
+

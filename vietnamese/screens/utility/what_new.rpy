@@ -209,3 +209,79 @@ translate vietnamese strings:
     # game/screens/utility/what_new.rpy:532
     old "{b}Other changes{/b}\nThere is a lot of other changes, both big and small. Many gui elements were made bigger, some new things were added, including secret event. Wallpapers & collectibles screens will load >90% faster now. A lot of issues were fixed."
     new "{b}Các thay đổi khác{/b}\nCó rất nhiều thay đổi khác, cả lớn và nhỏ. Nhiều yếu tố gui đã được làm lớn hơn, một số thứ mới đã được thêm vào, bao gồm cả sự kiện bí mật. Hình nền và màn hình sưu tầm sẽ tải nhanh hơn 90% ngay bây giờ. Rất nhiều vấn đề đã được khắc phục."
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/screens/utility/what_new.rpy:68
+    old "{a=https://astral-lust-documentation.readthedocs.io/en/latest/changelogs/full.html#changelog-full}{color=#2839fc}{i}Read full changelog{/i}{/color}{/a}"
+    new "{a=https://astral-lust-documentation.readthedocs.io/en/latest/changelogs/full.html#changelog-full}{color=#2839fc}{i}Read full changelog{/i}{/color}{/a}"
+
+    # game/screens/utility/what_new.rpy:69
+    old "You can see more news, previews, and content on the {a=https://www.patreon.com/Victorius}{color=#2839fc}{i}Patreon{/i}{/color}{/a} and {a=https://discord.gg/rvnBC39USx}{color=#2839fc}{i}Discord{/i}{/color}{/a}."
+    new "You can see more news, previews, and content on the {a=https://www.patreon.com/Victorius}{color=#2839fc}{i}Patreon{/i}{/color}{/a} and {a=https://discord.gg/rvnBC39USx}{color=#2839fc}{i}Discord{/i}{/color}{/a}."
+
+    # game/screens/utility/what_new.rpy:171
+    old "{b}Rhainda{/b}"
+    new "{b}Rhainda{/b}"
+
+    # game/screens/utility/what_new.rpy:172
+    old "A new Kitsune arrived in Asthar, and she's extra hot! She loves sex, and also loves girls. She has (toggleable) lesbian content with [lil_fox] available. Moreover she's designed after a real person, join our {a=https://discord.gg/rvnBC39USx}Discord{/a} server, and chat with her! Let's just hope your admiration won't get into her head :P"
+    new "A new Kitsune arrived in Asthar, and she's extra hot! She loves sex, and also loves girls. She has (toggleable) lesbian content with [lil_fox] available. Moreover she's designed after a real person, join our {a=https://discord.gg/rvnBC39USx}Discord{/a} server, and chat with her! Let's just hope your admiration won't get into her head :P"
+
+    # game/screens/utility/what_new.rpy:183
+    old "{b}Kiara event{/b}"
+    new "{b}Kiara event{/b}"
+
+    # game/screens/utility/what_new.rpy:184
+    old "Kiara got new story event explaining the creation myth believed by extraordinary beings. Don't forget to have fun afterwards, 6 new sex scenes, 3 new outfits, and almost 300 animations! Have you ever banged a girl with your clone?"
+    new "Kiara got new story event explaining the creation myth believed by extraordinary beings. Don't forget to have fun afterwards, 6 new sex scenes, 3 new outfits, and almost 300 animations! Have you ever banged a girl with your clone?"
+
+    # game/screens/utility/what_new.rpy:195
+    old "{b}Alice Shower Event{/b}"
+    new "{b}Alice Shower Event{/b}"
+
+    # game/screens/utility/what_new.rpy:196
+    old "[alice]'s shower event was expanded with a new scene. Have some fun with your little girl, and help her wash her back!"
+    new "[alice]'s shower event was expanded with a new scene. Have some fun with your little girl, and help her wash her back!"
+
+    # game/screens/utility/what_new.rpy:207
+    old "{b}Lexi Brings Food{/b}"
+    new "{b}Lexi Brings Food{/b}"
+
+    # game/screens/utility/what_new.rpy:208
+    old "This new random interaction between [lexi] & [grace] will let you know girl a little more. There are five different conversations."
+    new "This new random interaction between [lexi] & [grace] will let you know girl a little more. There are five different conversations."
+
+    # game/screens/utility/what_new.rpy:211
+    old "{b}Outfit Crafting Menu{/b}"
+    new "{b}Outfit Crafting Menu{/b}"
+
+    # game/screens/utility/what_new.rpy:212
+    old "Now when asking [alice] to make outfit, you'll be able to use a new outfits menu!"
+    new "Now when asking [alice] to make outfit, you'll be able to use a new outfits menu!"
+
+    # game/screens/utility/what_new.rpy:232
+    old "{b}Unique Cards!{/b}"
+    new "{b}Unique Cards!{/b}"
+
+    # game/screens/utility/what_new.rpy:233
+    old "This release four new unique cards appeared in Asthar! These all are part of Astral Lust 1st Anniversary. Fireworks card is available on {a=https://www.patreon.com/Victorius}{patreon1}Patreon{/patreon1}{/a} and {a=https://discord.gg/rvnBC39USx}{patreon1}Discord{/patreon1}{/a} to everyone, the remaining three cards are for all Patrons. One of the cards allows to summon various girls as allies - Delusions!"
+    new "This release four new unique cards appeared in Asthar! These all are part of Astral Lust 1st Anniversary. Fireworks card is available on {a=https://www.patreon.com/Victorius}{patreon1}Patreon{/patreon1}{/a} and {a=https://discord.gg/rvnBC39USx}{patreon1}Discord{/patreon1}{/a} to everyone, the remaining three cards are for all Patrons. One of the cards allows to summon various girls as allies - Delusions!"
+
+    # game/screens/utility/what_new.rpy:246
+    old "{b}Interactions Menu{/b}"
+    new "{b}Interactions Menu{/b}"
+
+    # game/screens/utility/what_new.rpy:247
+    old "There is a big QoL here! Now you don't need to check what is clickable one by one. Besides secrets, the other interactable elements in the free roam have now the button in the bottom left corner! This window can be disabled in the settings, and with the 'I' key."
+    new "There is a big QoL here! Now you don't need to check what is clickable one by one. Besides secrets, the other interactable elements in the free roam have now the button in the bottom left corner! This window can be disabled in the settings, and with the 'I' key."
+
+    # game/screens/utility/what_new.rpy:251
+    old "{b}Other Changes{/b}"
+    new "{b}Other Changes{/b}"
+
+    # game/screens/utility/what_new.rpy:252
+    old "Of the many changes, the most noticeable ones would be choice menus that are now on the right part of the screen (can be changed in settings), and task menu can now be disabled with 'T' key or in the settings. There was also a new arena added, and leech attacks have now new intent icon. This release fixes a lot of bugs, and hundreds of typos and grammar issues."
+    new "Of the many changes, the most noticeable ones would be choice menus that are now on the right part of the screen (can be changed in settings), and task menu can now be disabled with 'T' key or in the settings. There was also a new arena added, and leech attacks have now new intent icon. This release fixes a lot of bugs, and hundreds of typos and grammar issues."
+

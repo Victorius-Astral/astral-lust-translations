@@ -39,3 +39,11 @@ translate vietnamese strings:
     # game/places/hotel/f1/cupboard.rpy:9
     old "Get tissue"
     new "Lấy khăn giấy"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/places/hotel/f1/cupboard.rpy:31
+    old "Wallpaper 'Secret 1' unlocked!"
+    new "Wallpaper 'Secret 1' unlocked!"
+

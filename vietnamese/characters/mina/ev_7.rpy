@@ -465,3 +465,11 @@ translate vietnamese strings:
     # game/characters/mina/ev_7.rpy:126
     old "Reassure her"
     new "Trấn an em ấy"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/mina/ev_7.rpy:34
+    old "Sandwich"
+    new "Sandwich"
+

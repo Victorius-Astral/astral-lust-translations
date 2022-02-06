@@ -999,3 +999,89 @@ translate vietnamese strings:
     # game/characters/lexi/ev_11.rpy:315
     old "Pretend you don't hear her"
     new "Giả vờ không nghe thấy"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/lexi/ev_11.rpy:11
+translate vietnamese lexi_11_73555af4:
+
+    # me "What the hell has happened to you?!"
+    me "What the hell has happened to you?!"
+
+# game/characters/lexi/ev_11.rpy:36
+translate vietnamese lexi_11_1a2007cc:
+
+    # me "Yeah, you should go take a shower and change."
+    me "Yeah, you should go take a shower and change."
+
+# game/characters/lexi/ev_11.rpy:90
+translate vietnamese lexi_11_part2_b059c2c8:
+
+    # me "Well, it doesn't really matter, right?"
+    me "Well, it doesn't really matter, right?"
+
+# game/characters/lexi/ev_11.rpy:96
+translate vietnamese lexi_11_part2_89e0f582:
+
+    # me "Why is there still a fresh water?"
+    me "Why is there still a fresh water?"
+
+# game/characters/lexi/ev_11.rpy:111
+translate vietnamese lexi_11_part2_bda40286:
+
+    # lexi "I was worried about you being dangerous, but for some reason, I changed my mind."
+    lexi "I was worried about you being dangerous, but for some reason, I changed my mind."
+
+# game/characters/lexi/ev_11.rpy:112
+translate vietnamese lexi_11_part2_3828aee0:
+
+    # lexi "Suddenly, you looked defenseless to me; adorable actually."
+    lexi "Suddenly, you looked defenseless to me; adorable actually."
+
+# game/characters/lexi/ev_11.rpy:116
+translate vietnamese lexi_11_part2_b4e0d576:
+
+    # lexi "Haha! You're so strong, my hero."
+    lexi "Haha! You're so strong, my hero."
+
+# game/characters/lexi/ev_11.rpy:129
+translate vietnamese lexi_11_part2_2208b1f5:
+
+    # me "What can I say? I'm a man of many talents."
+    me "What can I say? I'm a man of many talents."
+
+# game/characters/lexi/ev_11.rpy:132
+translate vietnamese lexi_11_part2_12c55354:
+
+    # lexi "It's hard not to notice."
+    lexi "It's hard not to notice."
+
+# game/characters/lexi/ev_11.rpy:133
+translate vietnamese lexi_11_part2_1b4d398f:
+
+    # me "It is also hard not to notice you are in a towel. Where are your clothes?"
+    me "It is also hard not to notice you are in a towel. Where are your clothes?"
+
+# game/characters/lexi/ev_11.rpy:156
+translate vietnamese lexi_11_part3_523255ac:
+
+    # lexi "If everything was normal, I would want to be sure, check, and wait for more. But it is what it is."
+    lexi "If everything was normal, I would want to be sure, check, and wait for more. But it is what it is."
+
+# game/characters/lexi/ev_11.rpy:187
+translate vietnamese lexi_11_part3_94e232d6:
+
+    # lexi "Mina tends to say, you're one unlucky bastard."
+    lexi "Mina tends to say, you're one unlucky bastard."
+
+# game/characters/lexi/ev_11.rpy:313
+translate vietnamese lexi_11_part3_c0424cb9:
+
+    # lexi "Then, I'll get a lot of question once I'm back."
+    lexi "Then, I'll get a lot of question once I'm back."
+
+# game/characters/lexi/ev_11.rpy:356
+translate vietnamese lexi_11_part3_98679773:
+
+    # lexi "I'll just tell her to go ask you, instead."
+    lexi "I'll just tell her to go ask you, instead."
+

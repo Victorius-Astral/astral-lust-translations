@@ -223,3 +223,35 @@ translate vietnamese strings:
     # game/characters/mina/vault.rpy:98
     old "Eat you out"
     new "Thịtttt"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/mina/vault.rpy:27
+translate vietnamese mina_vault_speak_doing_here_fc457dbd:
+
+    # me "Heh, what do you know?"
+    me "Heh, what do you know?"
+
+# game/characters/mina/vault.rpy:38
+translate vietnamese mina_vault_speak_doing_here_458c5f89:
+
+    # mina "I've never heard a more obvious lie."
+    mina "I've never heard a more obvious lie."
+
+# game/characters/mina/vault.rpy:39
+translate vietnamese mina_vault_speak_doing_here_5a189412:
+
+    # me "Well, I would lie if I said, I know where this stuff came from?"
+    me "Well, I would lie if I said, I know where this stuff came from?"
+
+# game/characters/mina/vault.rpy:45
+translate vietnamese mina_vault_speak_doing_here_13dc3b2a:
+
+    # mina "You have tons of gold here and don't remember from where? Mate, you must've been carrying it for days."
+    mina "You have tons of gold here and don't remember from where? Mate, you must've been carrying it for days."
+
+# game/characters/mina/vault.rpy:78
+translate vietnamese mina_vault_speak_fool_around_939ad799:
+
+    # mina "You're still yourself, I see."
+    mina "You're still yourself, I see."
+

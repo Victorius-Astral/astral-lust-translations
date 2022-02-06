@@ -389,3 +389,35 @@ translate vietnamese mina_14_2e39132c:
 
     # "You leave."
     "Bạn rời đi."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/mina/ev_14.rpy:14
+translate vietnamese mina_14_a106143b:
+
+    # me "That's because I'm extraordinary."
+    me "That's because I'm extraordinary."
+
+# game/characters/mina/ev_14.rpy:29
+translate vietnamese mina_14_70775318:
+
+    # mina "You don't remember why you've come here, or you've realized how stupid your question was?"
+    mina "You don't remember why you've come here, or you've realized how stupid your question was?"
+
+# game/characters/mina/ev_14.rpy:37
+translate vietnamese mina_14_9e90437b:
+
+    # mina "Alright, then. Let's just chill. I like your presence."
+    mina "Alright, then. Let's just chill. I like your presence."
+
+# game/characters/mina/ev_14.rpy:74
+translate vietnamese mina_14_92cc5387:
+
+    # mina "It was nice. I haven't slept that good in a while, although my neck hurts a little."
+    mina "It was nice. I haven't slept that good in a while, although my neck hurts a little."
+
+# game/characters/mina/ev_14.rpy:82
+translate vietnamese mina_14_eea2011a:
+
+    # th "She is right. trouble always follows me around."
+    th "She is right. trouble always follows me around."
+

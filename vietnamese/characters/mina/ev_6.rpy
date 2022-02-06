@@ -305,3 +305,11 @@ translate vietnamese strings:
     # game/characters/mina/ev_6.rpy:28
     old "Try to cheer her up"
     new "Cố gắng cổ vũ em ấy"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/mina/ev_6.rpy:77
+    old "She considers me both her friend and her savior."
+    new "She considers me both her friend and her savior."
+

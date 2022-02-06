@@ -731,3 +731,29 @@ translate vietnamese grace_9_499b26f3:
 
     # th "Time to go.."
     th "Đến lúc đi rồi.."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/grace/ev_9.rpy:47
+translate vietnamese grace_9_8ee752b2:
+
+    # grace "Hehe~ I've got a rose. They are sooo beautiful. I haven't seen a rose in so long.."
+    grace "Hehe~ I've got a rose. They are sooo beautiful. I haven't seen a rose in so long.."
+
+# game/characters/grace/ev_9.rpy:164
+translate vietnamese grace_9_7e46c4bf:
+
+    # me "Never mind, I'm coming for ya."
+    me "Never mind, I'm coming for ya."
+
+# game/characters/grace/ev_9.rpy:168
+translate vietnamese grace_9_cf1eef7c:
+
+    # me "Someone had a pillow talk with Alice again."
+    me "Someone had a pillow talk with Alice again."
+
+# game/characters/grace/ev_9.rpy:218
+translate vietnamese grace_9_bb4f74f8:
+
+    # "You put your fingers deeper with every move, you can feel her twitch in excitement."
+    "You put your fingers deeper with every move, you can feel her twitch in excitement."
+

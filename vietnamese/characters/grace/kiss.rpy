@@ -2573,3 +2573,77 @@ translate vietnamese strings:
     # game/characters/grace/kiss.rpy:875
     old "Now you can finish changing"
     new "Bây giờ em có thể hoàn tất việc thay đồ rồi"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/grace/kiss.rpy:69
+translate vietnamese grace_kiss_6e891d11:
+
+    # me "[grace], I have a hard time outside, I need some fun to not go crazy."
+    me "[grace], I have a hard time outside, I need some fun to not go crazy."
+
+# game/characters/grace/kiss.rpy:70
+translate vietnamese grace_kiss_ca527222:
+
+    # grace "Will it be fun for you?"
+    grace "Will it be fun for you?"
+
+# game/characters/grace/kiss.rpy:119
+translate vietnamese grace_kiss_7d10bfd1:
+
+    # grace "It's not late yet, why would I need a goodnight kiss?"
+    grace "It's not late yet, why would I need a goodnight kiss?"
+
+# game/characters/grace/kiss.rpy:304
+translate vietnamese grace_kiss_lobby_bb12b602:
+
+    # me "Thanks for the help, [grace]."
+    me "Thanks for the help, [grace]."
+
+# game/characters/grace/kiss.rpy:386
+translate vietnamese grace_kiss_night_13218dc8:
+
+    # "You can hear the sound of the closet door opening, followed by the sound of cloth falling to the ground."
+    "You can hear the sound of the closet door opening, followed by the sound of cloth falling to the ground."
+
+# game/characters/grace/kiss.rpy:463
+translate vietnamese grace_kiss_night1_693e2696:
+
+    # me "[grace], that's a misunderstanding."
+    me "[grace], that's a misunderstanding."
+
+# game/characters/grace/kiss.rpy:782
+translate vietnamese grace_kiss_night_cor2_42e88ed8:
+
+    # me "Whatever lets you sleep at night."
+    me "Whatever lets you sleep at night."
+
+# game/characters/grace/kiss.rpy:939
+translate vietnamese grace_kiss_bad_end_8909adaf:
+
+    # mina "Alice.. Why are you pointing a gun at him, why is Grace naked??"
+    mina "Alice.. Why are you pointing a gun at him, why is Grace naked??"
+
+# game/characters/grace/kiss.rpy:985
+translate vietnamese grace_kiss_bad_end_36ee72c4:
+
+    # th "What a tragic death.."
+    th "What a tragic death.."
+
+# game/characters/grace/kiss.rpy:1022
+translate vietnamese grace_kiss_bad_end_86c05d51:
+
+    # victorius "This is not your place to comment, child. Scram."
+    victorius "This is not your place to comment, child. Scram."
+
+# game/characters/grace/kiss.rpy:1031
+translate vietnamese grace_kiss_bad_end_41ee9acd:
+
+    # victorius "Now where have I left off..."
+    victorius "Now where have I left off..."
+
+# game/characters/grace/kiss.rpy:1174
+translate vietnamese grace_kiss_night_cor3_6ba39ef8:
+
+    # me "Yeah, yeah. Go change, I still owe you a goodnight kiss, don't I?"
+    me "Yeah, yeah. Go change, I still owe you a goodnight kiss, don't I?"
+

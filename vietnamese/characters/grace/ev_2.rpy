@@ -445,3 +445,19 @@ translate vietnamese strings:
     # game/characters/grace/ev_2.rpy:39
     old "Ask about her flowers"
     new "Hỏi về hoa của em ấy"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/grace/ev_2.rpy:20
+    old "Her mother seems to be an extreme, militant feminist. It was her that instilled the hatred for men in Grace."
+    new "Her mother seems to be an extreme, militant feminist. It was her that instilled the hatred for men in Grace."
+
+    # game/characters/grace/ev_2.rpy:58
+    old "She's obsessed with any sort of plant. I can utilize this to my advantage and get more familiar with her."
+    new "She's obsessed with any sort of plant. I can utilize this to my advantage and get more familiar with her."
+
+    # game/characters/grace/ev_2.rpy:90
+    old "Her mother never sent her to school, even playing with other kids was forbidden. She left Grace at the hotel, though. I don't understand why, but I hope she never comes back."
+    new "Her mother never sent her to school, even playing with other kids was forbidden. She left Grace at the hotel, though. I don't understand why, but I hope she never comes back."
+

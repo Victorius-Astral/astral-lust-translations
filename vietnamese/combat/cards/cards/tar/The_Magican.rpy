@@ -9,3 +9,11 @@ translate vietnamese strings:
     # game/combat/cards/cards/tar/The_Magican.rpy:33
     old "half physical"
     new "một nửa vật lý"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/combat/cards/cards/tar/The_Magican.rpy:6
+    old "The Magician"
+    new "The Magician"
+

@@ -623,3 +623,11 @@ translate vietnamese strings:
     # game/characters/alice/ev_10.rpy:217
     old "Cum outside"
     new "Ra bên ngoài"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/alice/ev_10.rpy:49
+    old "She's officially my girl now."
+    new "She's officially my girl now."
+

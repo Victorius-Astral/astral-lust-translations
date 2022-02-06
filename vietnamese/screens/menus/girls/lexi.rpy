@@ -10,3 +10,11 @@ translate vietnamese strings:
     old "{gold}[lexi]{/gold}"
     new "{gold}[lexi]{/gold}"
 
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/screens/menus/girls/lexi.rpy:22
+    old "Nicknames: Lex"
+    new "Nicknames: Lex"
+

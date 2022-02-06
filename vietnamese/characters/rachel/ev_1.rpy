@@ -419,3 +419,65 @@ translate vietnamese strings:
     # game/characters/rachel/ev_1.rpy:15
     old "Approach her"
     new "Tiếp cận cô ấy"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/rachel/ev_1.rpy:68
+translate vietnamese rachel_1_part3_f24febd4:
+
+    # "???" "What have happened?" (who_color=rachel.who_args["color"])
+    "???" "What have happened?" (who_color=rachel.who_args["color"])
+
+# game/characters/rachel/ev_1.rpy:73
+translate vietnamese rachel_1_part3_efdeafdd:
+
+    # "???" "Did I get corrupted? But why did I recover? It's impossible.." (who_color=rachel.who_args["color"])
+    "???" "Did I get corrupted? But why did I recover? It's impossible.." (who_color=rachel.who_args["color"])
+
+# game/characters/rachel/ev_1.rpy:74
+translate vietnamese rachel_1_part3_d03ad052:
+
+    # me "I don't know what happened to you, but I've met one of your kind, Little Fox. She was completely fine, just hungry."
+    me "I don't know what happened to you, but I've met one of your kind, Little Fox. She was completely fine, just hungry."
+
+# game/characters/rachel/ev_1.rpy:79
+translate vietnamese rachel_1_part3_604d5677:
+
+    # me "[me]. So you know, Little Fox?"
+    me "[me]. So you know, Little Fox?"
+
+# game/characters/rachel/ev_1.rpy:84
+translate vietnamese rachel_1_part3_65355671:
+
+    # me "Was it you? That's literally the worst name for a fox girl.."
+    me "Was it you? That's literally the worst name for a fox girl.."
+
+# game/characters/rachel/ev_1.rpy:101
+translate vietnamese rachel_1_part3_bca0f1e3:
+
+    # rachel "If there were any shrines, I would feel it, but I feel nothing. Little Fox would be able to find me once the shrine was built."
+    rachel "If there were any shrines, I would feel it, but I feel nothing. Little Fox would be able to find me once the shrine was built."
+
+# game/characters/rachel/ev_1.rpy:112
+translate vietnamese rachel_1_part3_2e13858c:
+
+    # rachel "Yes, I was the priestess. Establishing shrines was my job. First, I would need a safe place."
+    rachel "Yes, I was the priestess. Establishing shrines was my job. First, I would need a safe place."
+
+# game/characters/rachel/ev_1.rpy:126
+translate vietnamese rachel_1_part3_b8877e27:
+
+    # me "So, are you going with me?"
+    me "So, are you going with me?"
+
+# game/characters/rachel/ev_1.rpy:135
+translate vietnamese rachel_1_part3_6ac1c420:
+
+    # rachel "So, this is the hotel?"
+    rachel "So, this is the hotel?"
+
+# game/characters/rachel/ev_1.rpy:147
+translate vietnamese rachel_1_part3_389ce1c9:
+
+    # me "I guess, you would need some materials, right?"
+    me "I guess, you would need some materials, right?"
+

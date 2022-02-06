@@ -18,3 +18,11 @@ translate vietnamese strings:
     old "• Thighjob: "
     new "• Thighjob: "
 
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/screens/menus/girls/grace.rpy:22
+    old "Nicknames: Gracie"
+    new "Nicknames: Gracie"
+

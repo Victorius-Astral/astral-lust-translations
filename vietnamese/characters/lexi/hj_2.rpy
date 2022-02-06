@@ -281,3 +281,23 @@ translate vietnamese lexi_hj_2_3dae959c:
 
     # "[lexi] left your room."
     "[lexi] rời khỏi phòng của bạn."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/lexi/hj_2.rpy:16
+translate vietnamese lexi_hj_2_14a0b818:
+
+    # lexi "So, what are we going to do now?"
+    lexi "So, what are we going to do now?"
+
+# game/characters/lexi/hj_2.rpy:17
+translate vietnamese lexi_hj_2_a150486f:
+
+    # me "Do you even have to ask? You should start with pulling up your top."
+    me "Do you even have to ask? You should start with pulling up your top."
+
+# game/characters/lexi/hj_2.rpy:108
+translate vietnamese lexi_hj_2_77418f3d:
+
+    # th "She's joking, isn't she? If not then that would be hot."
+    th "She's joking, isn't she? If not then that would be hot."
+

@@ -917,3 +917,119 @@ translate vietnamese grace_cleaning_lobbyb_0377f1ec:
 
     # me "My pleasure, [grace]."
     me "Rất hân hạn."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/grace/cleaning.rpy:48
+translate vietnamese grace_cleaning_f1a_5075838f:
+
+    # grace "Yes, to protect Mina. She was afraid some monster will suddenly appear inside."
+    grace "Yes, to protect Mina. She was afraid some monster will suddenly appear inside."
+
+# game/characters/grace/cleaning.rpy:52
+translate vietnamese grace_cleaning_f1a_381d854d:
+
+    # th "Should have been hard to peek when your older [lex_min] doesn't want to leave you alone."
+    th "Should have been hard to peek when your older [lex_min] doesn't want to leave you alone."
+
+# game/characters/grace/cleaning.rpy:53
+translate vietnamese grace_cleaning_f1a_052de262:
+
+    # th "Then again, maybe she also felt anxious and was happy to have Lexi close."
+    th "Then again, maybe she also felt anxious and was happy to have Lexi close."
+
+# game/characters/grace/cleaning.rpy:85
+translate vietnamese grace_cleaning_f1a_1ba53d41:
+
+    # "You two get back to work. Indeed, you finish in no time."
+    "You two get back to work. Indeed, you finish in no time."
+
+# game/characters/grace/cleaning.rpy:102
+translate vietnamese grace_cleaning_f1b_3cc847ff:
+
+    # grace "What do you mean? We are just going to clean it like any room.."
+    grace "What do you mean? We are just going to clean it like any room.."
+
+# game/characters/grace/cleaning.rpy:123
+translate vietnamese grace_cleaning_f1b_d8374d01:
+
+    # me "Or, when a water pipe breaks, it can flood a wall, floor, or ceiling."
+    me "Or, when a water pipe breaks, it can flood a wall, floor, or ceiling."
+
+# game/characters/grace/cleaning.rpy:126
+translate vietnamese grace_cleaning_f1b_11d98465:
+
+    # me "Hygiene in the home depends on the bathroom. Got it?"
+    me "Hygiene in the home depends on the bathroom. Got it?"
+
+# game/characters/grace/cleaning.rpy:147
+translate vietnamese grace_cleaning_f2a_ca9984dd:
+
+    # me "Why is that? Sounds like you are willing to do it."
+    me "Why is that? Sounds like you are willing to do it."
+
+# game/characters/grace/cleaning.rpy:153
+translate vietnamese grace_cleaning_f2a_f166c519:
+
+    # grace "She insisted on it. But I kept it clean, so she didn't really have much to do."
+    grace "She insisted on it. But I kept it clean, so she didn't really have much to do."
+
+# game/characters/grace/cleaning.rpy:171
+translate vietnamese grace_cleaning_f2a_277164f5:
+
+    # th "Yeah.. Could've expected that."
+    th "Yeah.. Could've expected that."
+
+# game/characters/grace/cleaning.rpy:201
+translate vietnamese grace_cleaning_f2b_3b46319e:
+
+    # grace "It's her job. When I need anything, I'm telling her this, and she brings me the things I need."
+    grace "It's her job. When I need anything, I'm telling her this, and she brings me the things I need."
+
+# game/characters/grace/cleaning.rpy:221
+translate vietnamese grace_cleaning_f2b_e769a53b:
+
+    # grace "I don't know how to use those tools. Mommy didn't have those."
+    grace "I don't know how to use those tools. Mommy didn't have those."
+
+# game/characters/grace/cleaning.rpy:231
+translate vietnamese grace_cleaning_f2b_0e38ff1b:
+
+    # grace "She never did. That's a pity, it's indeed an useful skill."
+    grace "She never did. That's a pity, it's indeed an useful skill."
+
+# game/characters/grace/cleaning.rpy:257
+translate vietnamese grace_cleaning_lobbya_4e49d942:
+
+    # me "Well, it is a hotel after all. I guess it was bound to be big."
+    me "Well, it is a hotel after all. I guess it was bound to be big."
+
+# game/characters/grace/cleaning.rpy:282
+translate vietnamese grace_cleaning_lobbya_b0bacab3:
+
+    # th "I feel surreal right now.. Am I going crazy, or is it [grace]?"
+    th "I feel surreal right now.. Am I going crazy, or is it [grace]?"
+
+# game/characters/grace/cleaning.rpy:283
+translate vietnamese grace_cleaning_lobbya_8bc4c501:
+
+    # me "The coat is fine, [grace].. It's just normal clothing.. Thank you for worrying."
+    me "The coat is fine, [grace].. It's just normal clothing.. Thank you for worrying."
+
+# game/characters/grace/cleaning.rpy:301
+translate vietnamese grace_cleaning_lobbyb_022dd3cd:
+
+    # grace "Yes, it's massive."
+    grace "Yes, it's massive."
+
+# game/characters/grace/cleaning.rpy:328
+translate vietnamese grace_cleaning_lobbyb_f79d451f:
+
+    # me "Ah, we could get that.. I doubt it's high in the list of priorities for scavengers."
+    me "Ah, we could get that.. I doubt it's high in the list of priorities for scavengers."
+
+# game/characters/grace/cleaning.rpy:342
+translate vietnamese grace_cleaning_lobbyb_5311cea2:
+
+    # me "Shit. That sounds scary."
+    me "Shit. That sounds scary."
+

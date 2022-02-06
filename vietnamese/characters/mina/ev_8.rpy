@@ -705,3 +705,11 @@ translate vietnamese strings:
     # game/characters/mina/ev_8.rpy:218
     old "Promise"
     new "Hứa"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/mina/ev_8.rpy:41
+    old "I told her I did it with Alice. She wasn't angry, though."
+    new "I told her I did it with Alice. She wasn't angry, though."
+

@@ -303,3 +303,15 @@ translate vietnamese strings:
     # game/characters/traders/mysterious/speak.rpy:97
     old "Decrease corruption [[1 Mysterious Coins]"
     new "Giảm sa đọa [[1 Đồng xu bí ẩn]"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/traders/mysterious/speak.rpy:13
+    old "Mysterious Trader"
+    new "Mysterious Trader"
+
+    # game/characters/traders/mysterious/speak.rpy:13
+    old "I have met a very weird, odd being, It claims to be a trader."
+    new "I have met a very weird, odd being, It claims to be a trader."
+

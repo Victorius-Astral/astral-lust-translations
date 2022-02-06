@@ -173,3 +173,11 @@ translate vietnamese strings:
     # game/characters/savenia/speak.rpy:19
     old "Tell me about your group"
     new "Kể cho tớ nghe về nhóm của cậu đi"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/savenia/speak.rpy:41
+translate vietnamese speak_savenia_sex_menu_af5bf166:
+
+    # savenia "And, for what reason would I do this?"
+    savenia "And, for what reason would I do this?"
+

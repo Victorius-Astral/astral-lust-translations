@@ -17,3 +17,15 @@ translate vietnamese strings:
     # game/variables/classes/Inventory.rpy:163
     old "Lost all materials."
     new "Mất tất cả vật liệu."
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/variables/classes/Inventory.rpy:132
+    old "Lost {}"
+    new "Lost {}"
+
+    # game/variables/classes/Inventory.rpy:136
+    old "Required item missing."
+    new "Required item missing."
+

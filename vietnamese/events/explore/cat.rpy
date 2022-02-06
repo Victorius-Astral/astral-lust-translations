@@ -363,3 +363,11 @@ translate vietnamese strings:
     # game/events/explore/cat.rpy:126
     old "I named it [cat]."
     new "Anh đã đặt tên cho nó là [cat]."
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/events/explore/cat.rpy:95
+    old "I discovered it while outside, in an abandoned house."
+    new "I discovered it while outside, in an abandoned house."
+

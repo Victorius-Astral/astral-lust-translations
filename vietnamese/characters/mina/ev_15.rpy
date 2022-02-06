@@ -1691,3 +1691,77 @@ translate vietnamese strings:
     # game/characters/mina/ev_15.rpy:451
     old "I was drunk"
     new "LÚc đấy anh say quá"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/mina/ev_15.rpy:37
+translate vietnamese mina_15_828dd5ac:
+
+    # th "Poor thing. Well, that was unavoidable.."
+    th "Poor thing. Well, that was unavoidable.."
+
+# game/characters/mina/ev_15.rpy:52
+translate vietnamese mina_15_32779390:
+
+    # mina "Sorry, it took me so long."
+    mina "Sorry, it took me so long."
+
+# game/characters/mina/ev_15.rpy:73
+translate vietnamese mina_15_ad1346b3:
+
+    # mina "I forgot where it was, so it took me a while to figure it out."
+    mina "I forgot where it was, so it took me a while to figure it out."
+
+# game/characters/mina/ev_15.rpy:116
+translate vietnamese mina_15_part2_224285d9:
+
+    # me "Hey, don't be so impatient. You'll get dead drunk in half an hour.."
+    me "Hey, don't be so impatient. You'll get dead drunk in half an hour.."
+
+# game/characters/mina/ev_15.rpy:142
+translate vietnamese mina_15_part2_fe1128e9:
+
+    # mina "Wait? You don't have pubic lice, right? It's not funny at all. I touched your dick!"
+    mina "Wait? You don't have pubic lice, right? It's not funny at all. I touched your dick!"
+
+# game/characters/mina/ev_15.rpy:148
+translate vietnamese mina_15_part2_b1634c47:
+
+    # mina "That's good. You had me worried for a bit.."
+    mina "That's good. You had me worried for a bit.."
+
+# game/characters/mina/ev_15.rpy:235
+translate vietnamese mina_15_part2_4fb82c4c:
+
+    # me "I know. Don't worry, there is nothing wrong with you."
+    me "I know. Don't worry, there is nothing wrong with you."
+
+# game/characters/mina/ev_15.rpy:327
+translate vietnamese mina_15_part3_fbf2b9ef:
+
+    # "She doesn't finish and instead kisses you again."
+    "She doesn't finish and instead kisses you again."
+
+# game/characters/mina/ev_15.rpy:345
+translate vietnamese mina_15_part3_36b5caf3:
+
+    # mina "If you promise that you'll never leave me, I'll be yours."
+    mina "If you promise that you'll never leave me, I'll be yours."
+
+# game/characters/mina/ev_15.rpy:348
+translate vietnamese mina_15_part3_44ddef70:
+
+    # me "You only feel like this because you're heartbroken and drunk."
+    me "You only feel like this because you're heartbroken and drunk."
+
+# game/characters/mina/ev_15.rpy:354
+translate vietnamese mina_15_part3_c6a12ecb:
+
+    # me "Of course you do. You're a great girl."
+    me "Of course you do. You're a great girl."
+
+# game/characters/mina/ev_15.rpy:356
+translate vietnamese mina_15_part3_a2339b36:
+
+    # me "That's not it Mina. You should know how much I want you, but not like this."
+    me "That's not it Mina. You should know how much I want you, but not like this."
+

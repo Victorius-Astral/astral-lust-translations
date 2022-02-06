@@ -149,3 +149,17 @@ translate vietnamese savenia_6_90b1b863:
 
     # th "Still, what the hell was His plan with this? What was the point?"
     th "Tuy nhiên, kế hoạch của Hấn là gì? Mục đích là gì?"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/savenia/ev_6.rpy:61
+translate vietnamese savenia_6_db7df5e7:
+
+    # savenia "I won't forget, I owe you."
+    savenia "I won't forget, I owe you."
+
+# game/characters/savenia/ev_6.rpy:66
+translate vietnamese savenia_6_611747ac:
+
+    # "She doesn't say another word, and looks forwards as she starts up the engine."
+    "She doesn't say another word, and looks forwards as she starts up the engine."
+

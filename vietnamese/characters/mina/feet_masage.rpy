@@ -1647,3 +1647,83 @@ translate vietnamese strings:
     # game/characters/mina/feet_masage.rpy:368
     old "Stop"
     new "Dừng lại"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/mina/feet_masage.rpy:60
+translate vietnamese mina_feet_massage_61d2ff02:
+
+    # mina "I'm always nice. You should be thankful."
+    mina "I'm always nice. You should be thankful."
+
+# game/characters/mina/feet_masage.rpy:70
+translate vietnamese mina_feet_massage_54a8d224:
+
+    # mina "Why, is that also your fetish?"
+    mina "Why, is that also your fetish?"
+
+# game/characters/mina/feet_masage.rpy:109
+translate vietnamese mina_feet_massage_48ab9ffc:
+
+    # mina "Too bad, I know better than to believe in your conscience."
+    mina "Too bad, I know better than to believe in your conscience."
+
+# game/characters/mina/feet_masage.rpy:237
+translate vietnamese mina_feet_massage_low_skill_c84825d4:
+
+    # mina "Oh, is that so? I thought that you see a girl, and your dick raises, and that's all to you."
+    mina "Oh, is that so? I thought that you see a girl, and your dick raises, and that's all to you."
+
+# game/characters/mina/feet_masage.rpy:259
+translate vietnamese mina_feet_massage_low_skill_5cecf63a:
+
+    # mina "I wish so, good luck with that. I'll count on you."
+    mina "I wish so, good luck with that. I'll count on you."
+
+# game/characters/mina/feet_masage.rpy:265
+translate vietnamese mina_feet_massage_low_skill_9a92f6bb:
+
+    # me "I know. I feel I've improved today, though."
+    me "I know. I feel I've improved today, though."
+
+# game/characters/mina/feet_masage.rpy:281
+translate vietnamese mina_feet_massage_medium_skill_f68a9e96:
+
+    # mina "Still, there is room for improvement."
+    mina "Still, there is room for improvement."
+
+# game/characters/mina/feet_masage.rpy:330
+translate vietnamese mina_feet_massage_medium_skill_d70420b6:
+
+    # mina "If you like my foot so much, you can give it a kiss."
+    mina "If you like my foot so much, you can give it a kiss."
+
+# game/characters/mina/feet_masage.rpy:525
+translate vietnamese mina_feet_massage_kiss2_8cabbdeb:
+
+    # mina "Do you mind leaving me to rest?"
+    mina "Do you mind leaving me to rest?"
+
+# game/characters/mina/feet_masage.rpy:607
+translate vietnamese mina_feet_massage_fj_cb30e136:
+
+    # mina "Don't be a dick when I'm doing you a footjob. You don't want me to stop, do you?"
+    mina "Don't be a dick when I'm doing you a footjob. You don't want me to stop, do you?"
+
+# game/characters/mina/feet_masage.rpy:649
+translate vietnamese mina_feet_massage_fj_0ac570cb:
+
+    # me "Thanks for the advice."
+    me "Thanks for the advice."
+
+# game/characters/mina/feet_masage.rpy:660
+translate vietnamese mina_feet_massage_end_5115cf04:
+
+    # mina "I'm tired. I guess I'm going to lay down for a bit. Care to leave me alone?"
+    mina "I'm tired. I guess I'm going to lay down for a bit. Care to leave me alone?"
+
+translate vietnamese strings:
+
+    # game/characters/mina/feet_masage.rpy:316
+    old "Massage can't be improved further in this version. More coming soon!"
+    new "Massage can't be improved further in this version. More coming soon!"
+

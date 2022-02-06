@@ -441,3 +441,51 @@ translate vietnamese strings:
     # game/characters/kiara/speak.rpy:45
     old "How does this teleportation work?"
     new "Dịch chuyển này hoạt động như thế nào?"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/kiara/speak.rpy:15
+    old "Can you tell me more about extraordinary world? {gold}(Story){/gold}"
+    new "Can you tell me more about extraordinary world? {gold}(Story){/gold}"
+
+    # game/characters/kiara/speak.rpy:35
+    old "Footjob, and maybe something more"
+    new "Footjob, and maybe something more"
+
+    # game/characters/kiara/speak.rpy:44
+    old "Pick outfit."
+    new "Pick outfit."
+
+    # game/characters/kiara/speak.rpy:44
+    old "Angel"
+    new "Angel"
+
+    # game/characters/kiara/speak.rpy:44
+    old "Party Girl"
+    new "Party Girl"
+
+    # game/characters/kiara/speak.rpy:44
+    old "Nympho"
+    new "Nympho"
+
+    # game/characters/kiara/speak.rpy:71
+    old "She was born human, yet she claims to no longer be mortal."
+    new "She was born human, yet she claims to no longer be mortal."
+
+    # game/characters/kiara/speak.rpy:129
+    old "Aharon, who is close to being a God, would crumble under a simple glance from \"Them\"."
+    new "Aharon, who is close to being a God, would crumble under a simple glance from \"Them\"."
+
+    # game/characters/kiara/speak.rpy:136
+    old "He was a human and He still has some of His humanity remaining."
+    new "He was a human and He still has some of His humanity remaining."
+
+    # game/characters/kiara/speak.rpy:147
+    old "To become a God, one needs to complete an apotheosis ritual."
+    new "To become a God, one needs to complete an apotheosis ritual."
+
+    # game/characters/kiara/speak.rpy:195
+    old "She seems to always know what I'm thinking about."
+    new "She seems to always know what I'm thinking about."
+

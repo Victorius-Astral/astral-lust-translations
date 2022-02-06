@@ -883,3 +883,15 @@ translate vietnamese strings:
     # game/characters/grace/speak.rpy:168
     old "Bed"
     new "Giường"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/grace/speak.rpy:324
+    old "She is the maid at the Jade Hotel. She cooks and cleans."
+    new "She is the maid at the Jade Hotel. She cooks and cleans."
+
+    # game/characters/grace/speak.rpy:366
+    old "She is 21 years old."
+    new "She is 21 years old."
+

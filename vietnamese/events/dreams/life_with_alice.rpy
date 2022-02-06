@@ -551,3 +551,35 @@ translate vietnamese strings:
     # game/events/dreams/life_with_alice.rpy:67
     old "Let's just relax like this"
     new "Hãy cứ thư giãn như thế này đi"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/events/dreams/life_with_alice.rpy:55
+translate vietnamese d_Life_with_Alice_2_1b553c1e:
+
+    # th "So... that really happened? But, how did it all end?"
+    th "So... that really happened? But, how did it all end?"
+
+# game/events/dreams/life_with_alice.rpy:56
+translate vietnamese d_Life_with_Alice_2_4d8d3db0:
+
+    # th "I am a father now. Am I even a good one? What's my daughter's name? Why can't I remember?"
+    th "I am a father now. Am I even a good one? What's my daughter's name? Why can't I remember?"
+
+# game/events/dreams/life_with_alice.rpy:64
+translate vietnamese d_Life_with_Alice_2_d5122b8a:
+
+    # me "Some things just won't change, huh?"
+    me "Some things just won't change, huh?"
+
+# game/events/dreams/life_with_alice.rpy:105
+translate vietnamese d_Life_with_Alice_2_cowgirl_0085ed59:
+
+    # me "The second child is on its way, and you still feel fantastic."
+    me "The second child is on its way, and you still feel fantastic."
+
+# game/events/dreams/life_with_alice.rpy:165
+translate vietnamese d_Life_with_Alice_2_blow_3c9a1226:
+
+    # th "Maybe it's a little weird to call her 'my little girl' when we have children?"
+    th "Maybe it's a little weird to call her 'my little girl' when we have children?"
+

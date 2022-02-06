@@ -1389,3 +1389,89 @@ translate vietnamese strings:
     # game/characters/grace/play_house.rpy:264
     old "A mother is 21 years older than her child. In 6 years the child will be 5 times younger than mother. Where is the father?"
     new "Mẹ hơn con 21 tuổi. 6 năm nữa con sẽ nhỏ hơn mẹ 5 lần. Hỏi cha ở đâu?"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/grace/play_house.rpy:21
+translate vietnamese grace_play_house_eaff2be8:
+
+    # th "I didn't want to spend that much time.. but I can't get myself to say no to those eyes."
+    th "I didn't want to spend that much time.. but I can't get myself to say no to those eyes."
+
+# game/characters/grace/play_house.rpy:68
+translate vietnamese grace_play_house_change_bb3b0159:
+
+    # grace "But.. I'm an adult now."
+    grace "But.. I'm an adult now."
+
+# game/characters/grace/play_house.rpy:146
+translate vietnamese grace_play_house_changed_d0167fb9:
+
+    # "[teddy]" "Don't think about him. By the way, where is our darling?"
+    "[teddy]" "Don't think about him. By the way, where is our darling?"
+
+# game/characters/grace/play_house.rpy:175
+translate vietnamese grace_play_house_changed_ab95d167:
+
+    # "[teddy]" "Yes, I've said to bring it on. Don't worry, daddy is smart."
+    "[teddy]" "Yes, I've said to bring it on. Don't worry, daddy is smart."
+
+# game/characters/grace/play_house.rpy:223
+translate vietnamese grace_play_house_question1_d2c0ae22:
+
+    # grace "First, we divide legs (206) by two. We will get 103 pairs of legs."
+    grace "First, we divide legs (206) by two. We will get 103 pairs of legs."
+
+# game/characters/grace/play_house.rpy:246
+translate vietnamese grace_play_house_question2_90456959:
+
+    # grace "Well. We have an 8cm long box. We can fit 8 balls in the first row. Then we can fit only 7 balls in the second row."
+    grace "Well. We have an 8cm long box. We can fit 8 balls in the first row. Then we can fit only 7 balls in the second row."
+
+# game/characters/grace/play_house.rpy:252
+translate vietnamese grace_play_house_question2_85cd6061:
+
+    # grace "Not at all. As I said, imagine it. When you place balls between other balls, they overlap. The balls fill the gaps between the bottom row. So actually, each row takes less than 1cm in height."
+    grace "Not at all. As I said, imagine it. When you place balls between other balls, they overlap. The balls fill the gaps between the bottom row. So actually, each row takes less than 1cm in height."
+
+# game/characters/grace/play_house.rpy:253
+translate vietnamese grace_play_house_question2_cf459f34:
+
+    # grace "The first row takes a whole 1cm of height. The remaining seven rows take around 14%% less. If I remember correctly, it was around 0.866cm."
+    grace "The first row takes a whole 1cm of height. The remaining seven rows take around 14%% less. If I remember correctly, it was around 0.866cm."
+
+# game/characters/grace/play_house.rpy:255
+translate vietnamese grace_play_house_question2_e4078711:
+
+    # grace "Mommy told me. Anyway, you can get this answer too if you have good spatial perception and imagination."
+    grace "Mommy told me. Anyway, you can get this answer too if you have good spatial perception and imagination."
+
+# game/characters/grace/play_house.rpy:263
+translate vietnamese grace_play_house_question3_4cce9ca2:
+
+    # "Gracie" "A mother is 21 years older than her child. In 6 years, the child will be 5 times younger than the mother. Where is the father?"
+    "Gracie" "A mother is 21 years older than her child. In 6 years, the child will be 5 times younger than the mother. Where is the father?"
+
+# game/characters/grace/play_house.rpy:275
+translate vietnamese grace_play_house_question3_dffde9b8:
+
+    # grace "The child will be 5 times younger than the mother so: x+27 = 5 * (x+6). Counting that, x+27 = 5x + 30."
+    grace "The child will be 5 times younger than the mother so: x+27 = 5 * (x+6). Counting that, x+27 = 5x + 30."
+
+# game/characters/grace/play_house.rpy:308
+translate vietnamese grace_play_house_part2_9d55af36:
+
+    # "Audrey" "Now, go play by yourself. Mommy needs to speak with daddy."
+    "Audrey" "Now, go play by yourself. Mommy needs to speak with daddy."
+
+# game/characters/grace/play_house.rpy:348
+translate vietnamese grace_play_house_part2_67ae1c4b:
+
+    # me "Dogs or cats. Basically, all mammals produce milk."
+    me "Dogs or cats. Basically, all mammals produce milk."
+
+# game/characters/grace/play_house.rpy:361
+translate vietnamese grace_play_house_part2_a3876481:
+
+    # grace "I'm not a cow. I don't like cows. They are scary."
+    grace "I'm not a cow. I don't like cows. They are scary."
+

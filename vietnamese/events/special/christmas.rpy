@@ -1833,3 +1833,197 @@ translate vietnamese strings:
     # game/events/special/christmas.rpy:594
     old "Previous position"
     new "Previous position"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/events/special/christmas.rpy:105
+translate vietnamese christ_intro_e17b6c5a:
+
+    # aharon "Now, onto more pressing matters: Every year, around this time, a meddlesome entity would make itself known."
+    aharon "Now, onto more pressing matters: Every year, around this time, a meddlesome entity would make itself known."
+
+# game/events/special/christmas.rpy:125
+translate vietnamese christ_intro_2de14ba2:
+
+    # aharon "Only you'll be aware of the singularity of this event. Your women won't. They'll return to normalcy along with you."
+    aharon "Only you'll be aware of the singularity of this event. Your women won't. They'll return to normalcy along with you."
+
+# game/events/special/christmas.rpy:137
+translate vietnamese christ_intro_e52b900a:
+
+    # aharon "One more thing. As I said, it is most worried over appearances, so don't be surprised by what you see. Just telling them this is a dream will be enough."
+    aharon "One more thing. As I said, it is most worried over appearances, so don't be surprised by what you see. Just telling them this is a dream will be enough."
+
+# game/events/special/christmas.rpy:181
+translate vietnamese xmas_savenia_ee72378d:
+
+    # savenia "This eggnog is way too light for that. God, what do I need to do to get drunk here?"
+    savenia "This eggnog is way too light for that. God, what do I need to do to get drunk here?"
+
+# game/events/special/christmas.rpy:183
+translate vietnamese xmas_savenia_3fc9ea32:
+
+    # savenia "But, if you mean dressing up on those silly costumes.. No, no way I'm 'affected'."
+    savenia "But, if you mean dressing up on those silly costumes.. No, no way I'm 'affected'."
+
+# game/events/special/christmas.rpy:187
+translate vietnamese xmas_savenia_7b649fff:
+
+    # savenia "Always, appreciate free drinks though, light as they are."
+    savenia "Always, appreciate free drinks though, light as they are."
+
+# game/events/special/christmas.rpy:193
+translate vietnamese xmas_savenia_36d9457a:
+
+    # savenia "Out, where?"
+    savenia "Out, where?"
+
+# game/events/special/christmas.rpy:213
+translate vietnamese xmas_grace_34b03f08:
+
+    # me "[grace], behave yourself or there won't be any treats for you."
+    me "[grace], behave yourself or there won't be any treats for you."
+
+# game/events/special/christmas.rpy:221
+translate vietnamese xmas_grace_2ac61717:
+
+    # me "Okay, [grace]. I've got cookies for you."
+    me "Okay, [grace]. I've got cookies for you."
+
+# game/events/special/christmas.rpy:227
+translate vietnamese xmas_grace_f6a193b4:
+
+    # me "Come, let me give you a cookie!"
+    me "Come, let me give you a cookie!"
+
+# game/events/special/christmas.rpy:250
+translate vietnamese xmas_grace_9ccfe06e:
+
+    # me "So, you need to milk me."
+    me "So, you need to milk me."
+
+# game/events/special/christmas.rpy:260
+translate vietnamese xmas_grace_48d481bf:
+
+    # grace "Okay.."
+    grace "Okay.."
+
+# game/events/special/christmas.rpy:343
+translate vietnamese xmas_grace_slow_cf1355ac:
+
+    # me "That speed is good.. But, it's the time for you to take it to your little mouth."
+    me "That speed is good.. But, it's the time for you to take it to your little mouth."
+
+# game/events/special/christmas.rpy:386
+translate vietnamese xmas_grace_end_08d56d8a:
+
+    # me "Well, you can take a sip. If you don't like it, try something else, okay?"
+    me "Well, you can take a sip. If you don't like it, try something else, okay?"
+
+# game/events/special/christmas.rpy:387
+translate vietnamese xmas_grace_end_21a8ca52:
+
+    # grace "Okay..."
+    grace "Okay..."
+
+# game/events/special/christmas.rpy:400
+translate vietnamese xmas_lexi_8d616d1b:
+
+    # me "I guess I'm on the naughty list?"
+    me "I guess I'm on the naughty list?"
+
+# game/events/special/christmas.rpy:407
+translate vietnamese xmas_lexi_cf6a12a8:
+
+    # th "Even if it's a dream, she's going out for others' sake.. but I don't feel comfortable with her going out like this, even in a dream."
+    th "Even if it's a dream, she's going out for others' sake.. but I don't feel comfortable with her going out like this, even in a dream."
+
+# game/events/special/christmas.rpy:418
+translate vietnamese xmas_lexi_52697761:
+
+    # me "Mhm. I'm sure they are, but right now it's my turn to get you nice and ready."
+    me "Mhm. I'm sure they are, but right now it's my turn to get you nice and ready."
+
+# game/events/special/christmas.rpy:549
+translate vietnamese xmas_mina_067fa64e:
+
+    # mina "I see you have quite the cattitude! Good, you'll need it."
+    mina "I see you have quite the cattitude! Good, you'll need it."
+
+# game/events/special/christmas.rpy:570
+translate vietnamese xmas_mina_c536ae56:
+
+    # me "It's freezing. So, let's get to the warming up part."
+    me "It's freezing. So, let's get to the warming up part."
+
+# game/events/special/christmas.rpy:574
+translate vietnamese xmas_mina_683d6c7e:
+
+    # mina "B-but, I just wanted to-! Aahh~!"
+    mina "B-but, I just wanted to-! Aahh~!"
+
+# game/events/special/christmas.rpy:668
+translate vietnamese xmas_mina_end_ad149ea8:
+
+    # me "[mina]? You okay?"
+    me "[mina]? You okay?"
+
+# game/events/special/christmas.rpy:682
+translate vietnamese xmas_alice_15cdb4db:
+
+    # alice "Oh thank you! I thought I would have to do this all alone!"
+    alice "Oh thank you! I thought I would have to do this all alone!"
+
+# game/events/special/christmas.rpy:811
+translate vietnamese xmas_alice_end_f013b3b7:
+
+    # me "Oh! Goodnight then. Tonight there's no more presents I guess. I'm sure the kids will understand."
+    me "Oh! Goodnight then. Tonight there's no more presents I guess. I'm sure the kids will understand."
+
+# game/events/special/christmas.rpy:847
+translate vietnamese xmas_ending_90a8de6c:
+
+    # me "See, the others are also lazing around. So, just enjoy yourself!"
+    me "See, the others are also lazing around. So, just enjoy yourself!"
+
+# game/events/special/christmas.rpy:849
+translate vietnamese xmas_ending_3d4bf4d3:
+
+    # "Voice" "{small}Okay, so you distract them for a bit, I get in and out.{/small}"
+    "Voice" "{small}Okay, so you distract them for a bit, I get in and out.{/small}"
+
+# game/events/special/christmas.rpy:850
+translate vietnamese xmas_ending_7ee71420:
+
+    # "Voice" "It's okay. It'll be easy- What are you two doing?!"
+    "Voice" "It's okay. It'll be easy- What are you two doing?!"
+
+# game/events/special/christmas.rpy:895
+translate vietnamese xmas_ending_d8d1e3fa:
+
+    # me "Okay, just lower your hips, yeah, now we just have to-!"
+    me "Okay, just lower your hips, yeah, now we just have to-!"
+
+# game/events/special/christmas.rpy:901
+translate vietnamese xmas_ending_714109bd:
+
+    # me "I can tell that you're enjoying it! If you want to feel better, do it faster."
+    me "I can tell that you're enjoying it! If you want to feel better, do it faster."
+
+# game/events/special/christmas.rpy:909
+translate vietnamese xmas_ending_cbfcd479:
+
+    # lexi ".. Screw this! Guys, let's go to the floor!"
+    lexi ".. Screw this! Guys, let's go to the floor!"
+
+# game/events/special/christmas.rpy:921
+translate vietnamese xmas_ending_f740543b:
+
+    # mina "Me.. too.."
+    mina "Me.. too.."
+
+translate vietnamese strings:
+
+    # game/events/special/christmas.rpy:154
+    old "End this {#visible}"
+    new "End this {#visible}"
+

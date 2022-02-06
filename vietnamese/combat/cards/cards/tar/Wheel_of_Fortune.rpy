@@ -37,3 +37,11 @@ translate vietnamese strings:
     # game/combat/cards/cards/tar/Wheel_of_Fortune.rpy:141
     old "Your wounds heal rapidly."
     new "Vết thương của bạn nhanh chóng lành lại."
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/combat/cards/cards/tar/Wheel_of_Fortune.rpy:6
+    old "Wheel of Fortune"
+    new "Wheel of Fortune"
+

@@ -13,3 +13,11 @@ translate vietnamese strings:
     # game/combat/decks/Deck.rpy:207
     old "Cards in {}:"
     new "Lá bài ở {}:"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/combat/decks/Deck.rpy:61
+    old "{}, {}"
+    new "{}, {}"
+

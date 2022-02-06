@@ -821,3 +821,53 @@ translate vietnamese strings:
     # game/characters/alice/kiss.rpy:437
     old "I've changed my mind, next time, [alice]"
     new "Anh đổi ý rồi để lần sau đi, [alice]"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/alice/kiss.rpy:83
+translate vietnamese alice_kiss_gym_68117194:
+
+    # th "When did she lose her shorts?"
+    th "When did she lose her shorts?"
+
+# game/characters/alice/kiss.rpy:169
+translate vietnamese alice_kiss_gym_cow_f3b906a5:
+
+    # me "Of course it is. How could some dildo compare."
+    me "Of course it is. How could some dildo compare."
+
+# game/characters/alice/kiss.rpy:183
+translate vietnamese alice_kiss_gym_cow_bcc32c73:
+
+    # alice "You love it when I call you daddy, don't you?"
+    alice "You love it when I call you daddy, don't you?"
+
+# game/characters/alice/kiss.rpy:212
+translate vietnamese alice_kiss_gym_cow_dbd915e7:
+
+    # me "I'll have to give you a lesson, young lady."
+    me "I'll have to give you a lesson, young lady."
+
+# game/characters/alice/kiss.rpy:228
+translate vietnamese alice_kiss_gym_cow_f79ea1f0:
+
+    # me "I'm gonna teach you who is superior here."
+    me "I'm gonna teach you who is superior here."
+
+# game/characters/alice/kiss.rpy:280
+translate vietnamese alice_kiss_gym_cow_218d920c:
+
+    # me "Shit, that was nice."
+    me "Shit, that was nice."
+
+# game/characters/alice/kiss.rpy:371
+translate vietnamese alice_kiss_gym_bj_77e131fb:
+
+    # th "Before, I've never known life can be so exciting.."
+    th "Before, I've never known life can be so exciting.."
+
+# game/characters/alice/kiss.rpy:435
+translate vietnamese alice_kiss_alice_3ebf1c71:
+
+    # alice "What do you mean, honey?"
+    alice "What do you mean, honey?"
+

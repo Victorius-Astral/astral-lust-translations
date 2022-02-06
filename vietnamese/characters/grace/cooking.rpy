@@ -527,3 +527,53 @@ translate vietnamese grace_cooking_end_33ff609b:
 
     # grace "See you!"
     grace "Gặp anh sau!"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/grace/cooking.rpy:42
+translate vietnamese grace_cooking_topic1_f2a95ae0:
+
+    # me "But not a lot. The other, historical reason is related to religion actually."
+    me "But not a lot. The other, historical reason is related to religion actually."
+
+# game/characters/grace/cooking.rpy:46
+translate vietnamese grace_cooking_topic1_2e498c30:
+
+    # me "Yes. It's about price. Back then, meat was something luxurious, and fish was the food of the poor."
+    me "Yes. It's about price. Back then, meat was something luxurious, and fish was the food of the poor."
+
+# game/characters/grace/cooking.rpy:84
+translate vietnamese grace_cooking_topic2_6d0a5df2:
+
+    # grace "I was little, and mommy didn't want me doing anything dangerous."
+    grace "I was little, and mommy didn't want me doing anything dangerous."
+
+# game/characters/grace/cooking.rpy:108
+translate vietnamese grace_cooking_topic2_59875a56:
+
+    # me "... My help wasn't {i}nice{/i} at all, though. We got to this point where she asked me to pass her the sugar.."
+    me "... My help wasn't {i}nice{/i} at all, though. We got to this point where she asked me to pass her the sugar.."
+
+# game/characters/grace/cooking.rpy:119
+translate vietnamese grace_cooking_topic2_cdbeac05:
+
+    # grace "Hehe~ Guess, I was made for cooking."
+    grace "Hehe~ Guess, I was made for cooking."
+
+# game/characters/grace/cooking.rpy:145
+translate vietnamese grace_cooking_topic3_852aee79:
+
+    # grace "Mmm, there are days I feel like I am cooking almost the same dishes. I want to do something special, something complex."
+    grace "Mmm, there are days I feel like I am cooking almost the same dishes. I want to do something special, something complex."
+
+# game/characters/grace/cooking.rpy:146
+translate vietnamese grace_cooking_topic3_abf4c51a:
+
+    # me "This can't be helped. Ingredients aren't abundant. At least not in variety."
+    me "This can't be helped. Ingredients aren't abundant. At least not in variety."
+
+# game/characters/grace/cooking.rpy:162
+translate vietnamese grace_cooking_topic3_79a287c0:
+
+    # grace "That was only when I was little. When I grew up, she let me use the kitchen. I got to ice cream recently.. before The End."
+    grace "That was only when I was little. When I grew up, she let me use the kitchen. I got to ice cream recently.. before The End."
+

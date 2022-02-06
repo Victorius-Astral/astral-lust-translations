@@ -68,3 +68,59 @@ translate vietnamese strings:
     old "Sample Mod"
     new "Sample Mod"
 
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/mods/Sample Mod/sample_mod.rpy:151
+translate vietnamese Sample_Dream_8cdda6e0:
+
+    # "Weird stickman dances before your eyes."
+    "Weird stickman dances before your eyes."
+
+# game/mods/Sample Mod/sample_mod.rpy:154
+translate vietnamese Sample_Dream_6106590e:
+
+    # me "What the hell?"
+    me "What the hell?"
+
+# game/mods/Sample Mod/sample_mod.rpy:157
+translate vietnamese Sample_Dream_9f4aeda0:
+
+    # sample_stickman "Go on, dance with me!"
+    sample_stickman "Go on, dance with me!"
+
+# game/mods/Sample Mod/sample_mod.rpy:159
+translate vietnamese Sample_Dream_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/mods/Sample Mod/sample_mod.rpy:160
+translate vietnamese Sample_Dream_7de70658:
+
+    # me "What is wrong with me to have a dream like that?"
+    me "What is wrong with me to have a dream like that?"
+
+# game/mods/Sample Mod/sample_mod.rpy:162
+translate vietnamese Sample_Dream_d2d05186:
+
+    # sample_stickman "What are you waiting for?"
+    sample_stickman "What are you waiting for?"
+
+# game/mods/Sample Mod/sample_mod.rpy:170
+translate vietnamese Sample_Dream_8df2e8c6:
+
+    # "You dance along with it."
+    "You dance along with it."
+
+# game/mods/Sample Mod/sample_mod.rpy:180
+translate vietnamese Sample_Dream_e3ee1aff:
+
+    # "You stay silent, not answering to any of it invites."
+    "You stay silent, not answering to any of it invites."
+
+translate vietnamese strings:
+
+    # game/mods/Sample Mod/sample_mod.rpy:127
+    old "Dream - Dancing Stickman"
+    new "Dream - Dancing Stickman"
+

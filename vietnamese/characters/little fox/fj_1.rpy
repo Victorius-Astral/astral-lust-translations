@@ -173,3 +173,23 @@ translate vietnamese lil_fox_fj_1_cum_ca30c183:
 
     # lil_fox "Uh-huh!"
     lil_fox "Uh-huh!"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/little fox/fj_1.rpy:42
+translate vietnamese lil_fox_fj_1_1060c925:
+
+    # lil_fox "But, how I'm supposed to eat it?"
+    lil_fox "But, how I'm supposed to eat it?"
+
+# game/characters/little fox/fj_1.rpy:50
+translate vietnamese lil_fox_fj_1_dbb43a1f:
+
+    # me "You have such cute feet, so of course, I do."
+    me "You have such cute feet, so of course, I do."
+
+# game/characters/little fox/fj_1.rpy:165
+translate vietnamese lil_fox_fj_1_cum_8268cc1e:
+
+    # lil_fox "It's fun. Not much food, though. You need to work harder next time."
+    lil_fox "It's fun. Not much food, though. You need to work harder next time."
+

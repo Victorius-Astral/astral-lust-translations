@@ -647,3 +647,15 @@ translate vietnamese strings:
     # game/characters/mina/speak.rpy:218
     old "Tidy up the boxes (Duration: [minaTasks.tidyUp.duration]) {loot}(Materials+){/loot} {#visible}"
     new "Thu dọn hộp (Thời gian: [minaTasks.tidyUp.duration]) {loot}(Vât liệu+){/loot} {#visible}"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/mina/speak.rpy:154
+    old "The hotel was under construction before The End. There is a lot of unoccupied space I can use to expand the community."
+    new "The hotel was under construction before The End. There is a lot of unoccupied space I can use to expand the community."
+
+    # game/characters/mina/speak.rpy:161
+    old "She likes pink."
+    new "She likes pink."
+

@@ -222,3 +222,11 @@ translate vietnamese strings:
     old "If you stay the night - {trust}lust + 1{/trust}, {cor}-1% corruption{/cor}"
     new "If you stay the night - {trust}lust + 1{/trust}, {cor}-1% corruption{/cor}"
 
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/mods/modes/walkthrough/stories/alice.rpy:3
+    old "Of course – {trust}trust + 5{/trust}. She would consider herself your girlfriend from now on. Don’t worry, it wouldn’t block other girls routes\n"
+    new "Of course – {trust}trust + 5{/trust}. She would consider herself your girlfriend from now on. Don’t worry, it wouldn’t block other girls routes\n"
+

@@ -357,3 +357,41 @@ translate vietnamese strings:
     # game/characters/lexi/kiss.rpy:57
     old "Nah, I'm a traditionalist"
     new "Nah, anh là người theo chủ nghĩa truyền thống"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/lexi/kiss.rpy:24
+translate vietnamese lexi_kiss_2e9132c7:
+
+    # lexi "You should watch more movies, besides, the world is over, traditions are also over."
+    lexi "You should watch more movies, besides, the world is over, traditions are also over."
+
+# game/characters/lexi/kiss.rpy:31
+translate vietnamese lexi_kiss_3fffbcdf:
+
+    # lexi "Nope, but I will make it into a heaven, if you do."
+    lexi "Nope, but I will make it into a heaven, if you do."
+
+# game/characters/lexi/kiss.rpy:71
+translate vietnamese lexi_kiss_6805e8b6:
+
+    # me "Now, you're playing with me.."
+    me "Now, you're playing with me.."
+
+# game/characters/lexi/kiss.rpy:107
+translate vietnamese lexi_kiss_1b9e2c1e:
+
+    # "You stayed in each other arms for a few minutes."
+    "You stayed in each other arms for a few minutes."
+
+# game/characters/lexi/kiss.rpy:140
+translate vietnamese lexi_kiss_1806f0f4:
+
+    # me "Now, that's really sexist."
+    me "Now, that's really sexist."
+
+# game/characters/lexi/kiss.rpy:149
+translate vietnamese lexi_kiss_cd9e73df:
+
+    # me "I really don't understand, where does your confidence came from."
+    me "I really don't understand, where does your confidence came from."
+

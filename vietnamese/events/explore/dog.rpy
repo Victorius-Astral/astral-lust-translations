@@ -416,3 +416,11 @@ translate vietnamese strings:
     old "Dog"
     new "Dog"
 
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/events/explore/dog.rpy:181
+    old "I saved it from two madmen, the cultist wanted to perform some sort of ritual on it."
+    new "I saved it from two madmen, the cultist wanted to perform some sort of ritual on it."
+

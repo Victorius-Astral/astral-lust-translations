@@ -379,3 +379,15 @@ translate vietnamese strings:
     # game/events/explore/friendly_wanderers.rpy:116
     old "I changed my mind"
     new "Tôi đã đổi ý"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/events/explore/friendly_wanderers.rpy:88
+    old "The Wanderers"
+    new "The Wanderers"
+
+    # game/events/explore/friendly_wanderers.rpy:88
+    old "They consist of independent groups of people that help each other."
+    new "They consist of independent groups of people that help each other."
+

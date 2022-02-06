@@ -29,3 +29,11 @@ translate vietnamese strings:
     # game/combat/cards/lists/rarities.rpy:1
     old "Unique"
     new "Độc nhất"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/combat/cards/lists/rarities.rpy:1
+    old "Mythical"
+    new "Mythical"
+

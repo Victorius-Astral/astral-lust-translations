@@ -523,3 +523,11 @@ translate vietnamese strings:
     # game/characters/mina/ev_9.rpy:71
     old "Not at all"
     new "Không hề"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/mina/ev_9.rpy:163
+    old "She wanted to sleep with me saying I make her feel secure. I promised her I would welcome her again."
+    new "She wanted to sleep with me saying I make her feel secure. I promised her I would welcome her again."
+

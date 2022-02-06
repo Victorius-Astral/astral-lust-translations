@@ -363,3 +363,29 @@ translate vietnamese strings:
     # game/characters/savenia/ev_8.rpy:78
     old "Let's stop here"
     new "Hãy dừng lại ở đây thôi"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/savenia/ev_8.rpy:47
+translate vietnamese savenia_8_1d647c4b:
+
+    # savenia "I'm not here for that, though."
+    savenia "I'm not here for that, though."
+
+# game/characters/savenia/ev_8.rpy:76
+translate vietnamese savenia_8_9cc1d0dd:
+
+    # savenia "You don't understand not to speak, do you?"
+    savenia "You don't understand not to speak, do you?"
+
+# game/characters/savenia/ev_8.rpy:105
+translate vietnamese savenia_8_stop_145aaabc:
+
+    # savenia "I guess she lost some doubts about me. But, it's still far from the trust."
+    savenia "I guess she lost some doubts about me. But, it's still far from the trust."
+
+# game/characters/savenia/ev_8.rpy:120
+translate vietnamese savenia_8_stop_5192dd99:
+
+    # me "It will change, they just don't trust your background."
+    me "It will change, they just don't trust your background."
+

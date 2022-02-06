@@ -449,3 +449,11 @@ translate vietnamese strings:
     # game/characters/lexi/ev_1.rpy:60
     old "Run back to the hotel"
     new "Chạy về khách sạn"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/lexi/ev_1.rpy:71
+    old "I encountered a terrifying abomination on my first trip outside, it was gigantic and looked like a lion."
+    new "I encountered a terrifying abomination on my first trip outside, it was gigantic and looked like a lion."
+

@@ -391,3 +391,11 @@ translate vietnamese strings:
     # game/characters/alice/ev_2.rpy:23
     old "I won't play your games"
     new "Anh sẽ không chơi mấy cái trò chơi của em đâu"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/alice/ev_2.rpy:84
+    old "Toying with me seems to be her hobby."
+    new "Toying with me seems to be her hobby."
+

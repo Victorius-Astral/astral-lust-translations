@@ -1509,3 +1509,39 @@ translate vietnamese strings:
     # game/characters/mina/ev_5.rpy:381
     old "She already learned her lesson"
     new "Cô ấy đã học được một bài học rồi"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/mina/ev_5.rpy:141
+translate vietnamese mina_5_26efd3d9:
+
+    # th "Not a bad ending I guess. At least I'll live on in the memories of some beautiful women haha!" id mina_5_26efd3d9
+    th "Not a bad ending I guess. At least I'll live on in the memories of some beautiful women haha!" id mina_5_26efd3d9
+
+# game/characters/mina/ev_5.rpy:220
+translate vietnamese mina_5_1_587dc3dd:
+
+    # "After regaining consciousness, your first thoughts are of the girls' safety." id mina_5_1_587dc3dd
+    "After regaining consciousness, your first thoughts are of the girls' safety." id mina_5_1_587dc3dd
+
+# game/characters/mina/ev_5.rpy:311
+translate vietnamese mina_5_2_c0981deb:
+
+    # me "It wasn't. I suddenly woke up inside my room. I felt like someone poured a bucket of cold water on me." id mina_5_2_c0981deb
+    me "It wasn't. I suddenly woke up inside my room. I felt like someone poured a bucket of cold water on me." id mina_5_2_c0981deb
+
+# game/characters/mina/ev_5.rpy:432
+translate vietnamese mina_5_5_13605053:
+
+    # lexi "It's bad. She slept for a while but woke up screaming.. I've never seen her so scared before. She was soaked with sweat." id mina_5_5_13605053
+    lexi "It's bad. She slept for a while but woke up screaming.. I've never seen her so scared before. She was soaked with sweat." id mina_5_5_13605053
+
+translate vietnamese strings:
+
+    # game/characters/mina/ev_5.rpy:326
+    old "I have revealed to the girls I can resurrect."
+    new "I have revealed to the girls I can resurrect."
+
+    # game/characters/mina/ev_5.rpy:476
+    old "I failed to recover the pendant and Mina tried to retrieve it on her own. She almost got raped, but thankfully, Lexi and I were swift enough to prevent the worst from happening. I hope she can overcome the trauma soon."
+    new "I failed to recover the pendant and Mina tried to retrieve it on her own. She almost got raped, but thankfully, Lexi and I were swift enough to prevent the worst from happening. I hope she can overcome the trauma soon."
+

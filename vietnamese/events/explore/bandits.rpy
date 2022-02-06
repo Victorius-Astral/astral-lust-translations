@@ -427,3 +427,103 @@ translate vietnamese strings:
     # game/events/explore/bandits.rpy:181
     old "{color=#FF958F}[[Charisma]{/color} Be human, I won't survive without this little bit of supplies"
     new "{color=#FF958F}[[Sức thu hút]{/color} Hãy là một con người, tôi sẽ không sống sót nếu không có ít vật dụng mà tôi có"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/events/explore/bandits.rpy:54
+translate vietnamese explore_banditsA_a4079a28:
+
+    # "{agi}[[Agility check passed]{/agi} You stab one of them. The rest turn to attack!"
+    "{agi}[[Agility check passed]{/agi} You stab one of them. The rest turn to attack!"
+
+# game/events/explore/bandits.rpy:58
+translate vietnamese explore_banditsA_a24180ce:
+
+    # "{agi}[[Agility check failed]{/agi} They heard you!"
+    "{agi}[[Agility check failed]{/agi} They heard you!"
+
+# game/events/explore/bandits.rpy:81
+translate vietnamese banditsA_menu_2cfc9e05:
+
+    # "{cha}[[Charisma check passed]{/cha}"
+    "{cha}[[Charisma check passed]{/cha}"
+
+# game/events/explore/bandits.rpy:104
+translate vietnamese banditsA_menu_91eb8b5f:
+
+    # "{cha}[[Charisma check failed]{/cha} They raise their guns."
+    "{cha}[[Charisma check failed]{/cha} They raise their guns."
+
+# game/events/explore/bandits.rpy:149
+translate vietnamese explore_banditsB_9a16acba:
+
+    # "{agi}[[Agility check passed]{/agi} You stab one of them in the back. The rest turn to attack!"
+    "{agi}[[Agility check passed]{/agi} You stab one of them in the back. The rest turn to attack!"
+
+# game/events/explore/bandits.rpy:153
+translate vietnamese explore_banditsB_a24180ce:
+
+    # "{agi}[[Agility check failed]{/agi} They heard you!"
+    "{agi}[[Agility check failed]{/agi} They heard you!"
+
+# game/events/explore/bandits.rpy:169
+translate vietnamese banditsB_menu_b86240ab:
+
+    # "{agi}[[Agility check passed]{/agi} You manage to lose your pursuers."
+    "{agi}[[Agility check passed]{/agi} You manage to lose your pursuers."
+
+# game/events/explore/bandits.rpy:173
+translate vietnamese banditsB_menu_9fddcfb2:
+
+    # "{agi}[[Agility check failed]{/agi} You're too slow to run!"
+    "{agi}[[Agility check failed]{/agi} You're too slow to run!"
+
+# game/events/explore/bandits.rpy:179
+translate vietnamese banditsB_menu_2cfc9e05:
+
+    # "{cha}[[Charisma check passed]{/cha}"
+    "{cha}[[Charisma check passed]{/cha}"
+
+# game/events/explore/bandits.rpy:193
+translate vietnamese banditsB_menu_62ac88eb:
+
+    # "{agi}[[Agility check passed]{/agi} You managed to dodge!"
+    "{agi}[[Agility check passed]{/agi} You managed to dodge!"
+
+# game/events/explore/bandits.rpy:196
+translate vietnamese banditsB_menu_21b48379:
+
+    # "{agi}[[Agility check failed]{/agi} You tried to dodge but failed!"
+    "{agi}[[Agility check failed]{/agi} You tried to dodge but failed!"
+
+# game/events/explore/bandits.rpy:212
+translate vietnamese banditsB_menu_aced6660:
+
+    # "{cha}[[Charisma check failed]{/cha} One of them attacks!"
+    "{cha}[[Charisma check failed]{/cha} One of them attacks!"
+
+# game/events/explore/bandits.rpy:215
+translate vietnamese banditsB_menu_62ac88eb_1:
+
+    # "{agi}[[Agility check passed]{/agi} You managed to dodge!"
+    "{agi}[[Agility check passed]{/agi} You managed to dodge!"
+
+# game/events/explore/bandits.rpy:218
+translate vietnamese banditsB_menu_21b48379_1:
+
+    # "{agi}[[Agility check failed]{/agi} You tried to dodge but failed!"
+    "{agi}[[Agility check failed]{/agi} You tried to dodge but failed!"
+
+translate vietnamese strings:
+
+    # game/events/explore/bandits.rpy:83
+    old "{cha}[[Charisma]{/cha} Be humcha won't survive without what few supplies I have"
+    new "{cha}[[Charisma]{/cha} Be humcha won't survive without what few supplies I have"
+
+    # game/events/explore/bandits.rpy:181
+    old "{cha}[[Charisma]{/cha} Be human, I won't survive without this little bit of supplies"
+    new "{cha}[[Charisma]{/cha} Be human, I won't survive without this little bit of supplies"
+
+    # game/events/explore/bandits.rpy:198
+    old "Health -10"
+    new "Health -10"
+

@@ -335,3 +335,23 @@ translate vietnamese strings:
     # game/characters/savenia/ev_3.rpy:8
     old "Go check it out"
     new "Đi xem thế nào"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/savenia/ev_3.rpy:57
+translate vietnamese savenia_3_part2_e8f1bc60:
+
+    # savenia "Fine, don't nag. What made you so embittered so young?"
+    savenia "Fine, don't nag. What made you so embittered so young?"
+
+# game/characters/savenia/ev_3.rpy:74
+translate vietnamese savenia_3_part2_cc2821f8:
+
+    # me "Come on, let me give you a ride."
+    me "Come on, let me give you a ride."
+
+# game/characters/savenia/ev_3.rpy:98
+translate vietnamese savenia_3_part2_79934ff0:
+
+    # me "You're killing yourself right now. You should know what such handicap means outside."
+    me "You're killing yourself right now. You should know what such handicap means outside."
+

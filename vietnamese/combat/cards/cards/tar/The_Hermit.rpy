@@ -25,3 +25,11 @@ translate vietnamese strings:
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "strength"
     new "sức mạnh"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/combat/cards/cards/tar/The_Hermit.rpy:6
+    old "The Hermit"
+    new "The Hermit"
+

@@ -17,3 +17,11 @@ translate vietnamese strings:
     # game/functions/create.rpy:206
     old "Table level insufficient!"
     new "Cấp độ bàn không đủ!"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/functions/create.rpy:204
+    old "Create"
+    new "Create"
+

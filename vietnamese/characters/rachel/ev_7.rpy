@@ -231,3 +231,23 @@ translate vietnamese strings:
     # game/characters/rachel/ev_7.rpy:54
     old "Ask her to undress again"
     new "Cởi lại lần nữa đi"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/rachel/ev_7.rpy:41
+translate vietnamese rachel_7_dad6c67a:
+
+    # rachel "She has awakened, by the way."
+    rachel "She has awakened, by the way."
+
+# game/characters/rachel/ev_7.rpy:63
+translate vietnamese rachel_7_78dc0f6c:
+
+    # rachel "I'm not crazy with hunger, like Little Fox."
+    rachel "I'm not crazy with hunger, like Little Fox."
+
+# game/characters/rachel/ev_7.rpy:87
+translate vietnamese rachel_7_5f75d24c:
+
+    # me "I didn't know it was the reward, so I didn't enjoy it enough."
+    me "I didn't know it was the reward, so I didn't enjoy it enough."
+

@@ -347,3 +347,59 @@ translate vietnamese savenia_1_8952b9d4:
 
     # th "With her leg, she wouldn't be able to hurt anyone. At least for now."
     th "Với cái chân đấy, cô ấy sẽ không thể làm ai bị thương được. Ít nhất là bây giờ."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/savenia/ev_1.rpy:15
+translate vietnamese savenia_1_53d66eac:
+
+    # "Her gear makes you wonder if she was in an army. She doesn't look like someone you would want to fuck around with."
+    "Her gear makes you wonder if she was in an army. She doesn't look like someone you would want to fuck around with."
+
+# game/characters/savenia/ev_1.rpy:19
+translate vietnamese savenia_1_3372340a:
+
+    # me "Wait.. Why the fuck am I taking her with me just like that?"
+    me "Wait.. Why the fuck am I taking her with me just like that?"
+
+# game/characters/savenia/ev_1.rpy:21
+translate vietnamese savenia_1_8780c390:
+
+    # th "She seems useful, though.."
+    th "She seems useful, though.."
+
+# game/characters/savenia/ev_1.rpy:51
+translate vietnamese savenia_1_2d280c26:
+
+    # me "Yeah, sure. You were lying unconscious in the middle of a street."
+    me "Yeah, sure. You were lying unconscious in the middle of a street."
+
+# game/characters/savenia/ev_1.rpy:58
+translate vietnamese savenia_1_987c4f15:
+
+    # me "Go find it on your own, I can tell you the general directions."
+    me "Go find it on your own, I can tell you the general directions."
+
+# game/characters/savenia/ev_1.rpy:70
+translate vietnamese savenia_1_43facc7b:
+
+    # th "Outlaws? So, she's a bandit then?"
+    th "Outlaws? So, she's a bandit then?"
+
+# game/characters/savenia/ev_1.rpy:98
+translate vietnamese savenia_1_002f279e:
+
+    # me "I will carry you to a room, where you can sleep."
+    me "I will carry you to a room, where you can sleep."
+
+# game/characters/savenia/ev_1.rpy:102
+translate vietnamese savenia_1_151e6eac:
+
+    # savenia "I said, I got it!"
+    savenia "I said, I got it!"
+
+# game/characters/savenia/ev_1.rpy:104
+translate vietnamese savenia_1_f85cedd7:
+
+    # th "Is she going to jump on a single leg?"
+    th "Is she going to jump on a single leg?"
+

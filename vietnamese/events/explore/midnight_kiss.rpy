@@ -2156,3 +2156,209 @@ translate vietnamese strings:
     old "Ask about Angels"
     new "Ask about Angels"
 
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/events/explore/midnight_kiss.rpy:28
+translate vietnamese midnight_kiss_leave_977192e4:
+
+    # th "It's better not to risk it."
+    th "It's better not to risk it."
+
+# game/events/explore/midnight_kiss.rpy:29
+translate vietnamese midnight_kiss_leave_a06f19af:
+
+    # th "Who knows what it was..?"
+    th "Who knows what it was..?"
+
+# game/events/explore/midnight_kiss.rpy:41
+translate vietnamese midnight_kiss_part2_5059f8f1:
+
+    # "You slowly peek behind the shelf, reading yourself for a possible confrontation."
+    "You slowly peek behind the shelf, reading yourself for a possible confrontation."
+
+# game/events/explore/midnight_kiss.rpy:53
+translate vietnamese midnight_kiss_part2_262ee021:
+
+    # "???" "Who?! Hey, listen, I want no trouble, there is enough stuff for both of us, no need to fight."
+    "???" "Who?! Hey, listen, I want no trouble, there is enough stuff for both of us, no need to fight."
+
+# game/events/explore/midnight_kiss.rpy:157
+translate vietnamese midnight_kiss_part3_641be1ac:
+
+    # lori "Alright, I can do this. But, I want a kiss first."
+    lori "Alright, I can do this. But, I want a kiss first."
+
+# game/events/explore/midnight_kiss.rpy:181
+translate vietnamese midnight_kiss_part3_c5bcbe73:
+
+    # me "Great. So, now you can get on your knees."
+    me "Great. So, now you can get on your knees."
+
+# game/events/explore/midnight_kiss.rpy:192
+translate vietnamese midnight_kiss_part3_b4e6bbab:
+
+    # me "I feel so good, I could faint at any moment."
+    me "I feel so good, I could faint at any moment."
+
+# game/events/explore/midnight_kiss.rpy:290
+translate vietnamese midnight_kiss_part3_ba89bf20:
+
+    # me "Go away."
+    me "Go away."
+
+# game/events/explore/midnight_kiss.rpy:306
+translate vietnamese midnight_kiss_part3_4da43d11:
+
+    # lori "To give you some feelings."
+    lori "To give you some feelings."
+
+# game/events/explore/midnight_kiss.rpy:327
+translate vietnamese midnight_kiss_part3_aa75594f:
+
+    # lori "Of course, no need for such impatience. I will do as I promised."
+    lori "Of course, no need for such impatience. I will do as I promised."
+
+# game/events/explore/midnight_kiss.rpy:331
+translate vietnamese midnight_kiss_part3_87c9ba49:
+
+    # me "You're not going to wait forever, are you?"
+    me "You're not going to wait forever, are you?"
+
+# game/events/explore/midnight_kiss.rpy:449
+translate vietnamese midnight_kiss_part4_42fca7b4:
+
+    # "A terrible whisper enters your ears, it's calling you."
+    "A terrible whisper enters your ears, it's calling you."
+
+# game/events/explore/midnight_kiss.rpy:451
+translate vietnamese midnight_kiss_part4_e65532db:
+
+    # "Three voices can be discerned among the whispers as if nothing could silence them."
+    "Three voices can be discerned among the whispers as if nothing could silence them."
+
+# game/events/explore/midnight_kiss.rpy:457
+translate vietnamese midnight_kiss_part4_d07fe369:
+
+    # "You can't help but imagine your mother opening her arms, welcoming you. Yet her face is twisted. As if resembling the greatest abomination among the stars."
+    "You can't help but imagine your mother opening her arms, welcoming you. Yet her face is twisted. As if resembling the greatest abomination among the stars."
+
+# game/events/explore/midnight_kiss.rpy:468
+translate vietnamese midnight_kiss_part4_e92c7c78:
+
+    # "This voice is weird and eerie. It's contradictory in the truest sense."
+    "This voice is weird and eerie. It's contradictory in the truest sense."
+
+# game/events/explore/midnight_kiss.rpy:469
+translate vietnamese midnight_kiss_part4_8bdff63c:
+
+    # "It's like the most secretive whisper, and at the same time, it's indomitable and absolute, like an Emperor overseeing 'His' domain."
+    "It's like the most secretive whisper, and at the same time, it's indomitable and absolute, like an Emperor overseeing 'His' domain."
+
+# game/events/explore/midnight_kiss.rpy:480
+translate vietnamese midnight_kiss_part4_9cdfeb8e:
+
+    # "The mysterious Being that calls Itself 'Throdog R'luhhor' is behind this voice. Yet it's totally different from before."
+    "The mysterious Being that calls Itself 'Throdog R'luhhor' is behind this voice. Yet it's totally different from before."
+
+# game/events/explore/midnight_kiss.rpy:481
+translate vietnamese midnight_kiss_part4_532854e8:
+
+    # "You know 'It' doesn't speak to you. Instead, you feel 'It' is speaking to 'Itself'."
+    "You know 'It' doesn't speak to you. Instead, you feel 'It' is speaking to 'Itself'."
+
+# game/events/explore/midnight_kiss.rpy:497
+translate vietnamese midnight_kiss_part4_a405b84e:
+
+    # "You feel as if the whole cosmos, with all its secrets, could be explained with one word spoken by it."
+    "You feel as if the whole cosmos, with all its secrets, could be explained with one word spoken by it."
+
+# game/events/explore/midnight_kiss.rpy:507
+translate vietnamese midnight_kiss_part4_6d47a467:
+
+    # "It sounds like metal grinding against other metal. Piercing directly into your soul."
+    "It sounds like metal grinding against other metal. Piercing directly into your soul."
+
+# game/events/explore/midnight_kiss.rpy:523
+translate vietnamese midnight_kiss_part4_40a32e15:
+
+    # me "You are.. I've seen you in my dream.."
+    me "You are.. I've seen you in my dream.."
+
+# game/events/explore/midnight_kiss.rpy:539
+translate vietnamese midnight_kiss_part4_dc559eae:
+
+    # me "*Gasp* Shit!!"
+    me "*Gasp* Shit!!"
+
+# game/events/explore/midnight_kiss.rpy:574
+translate vietnamese midnight_kiss_part4_a70a3176:
+
+    # demeter "You could say so. He divined that you'll face great calamity tonight and asked me to take care of you."
+    demeter "You could say so. He divined that you'll face great calamity tonight and asked me to take care of you."
+
+# game/events/explore/midnight_kiss.rpy:665
+translate vietnamese midnight_kiss_demeter_night_9a8688a0:
+
+    # demeter "There is no good way to die, no matter what, the result is always bad."
+    demeter "There is no good way to die, no matter what, the result is always bad."
+
+# game/events/explore/midnight_kiss.rpy:672
+translate vietnamese midnight_kiss_demeter_night_2e7d78e2:
+
+    # demeter "I lie within the darkest parts of the mind, but that is just pure chaos and madness."
+    demeter "I lie within the darkest parts of the mind, but that is just pure chaos and madness."
+
+# game/events/explore/midnight_kiss.rpy:691
+translate vietnamese midnight_kiss_demeter_night_9fdfa6cb:
+
+    # demeter "It's a sacrifice. You sacrifice your peace and self for power. Constant corruption of characteristics will make you change."
+    demeter "It's a sacrifice. You sacrifice your peace and self for power. Constant corruption of characteristics will make you change."
+
+# game/events/explore/midnight_kiss.rpy:713
+translate vietnamese midnight_kiss_demeter_night_5084b822:
+
+    # demeter "He makes His own anchors.. He is His own anchor."
+    demeter "He makes His own anchors.. He is His own anchor."
+
+# game/events/explore/midnight_kiss.rpy:721
+translate vietnamese midnight_kiss_demeter_night_5a619d54:
+
+    # demeter "Yes, exactly. He makes His believers not think They are Him and worship the image of Him created in their minds."
+    demeter "Yes, exactly. He makes His believers not think They are Him and worship the image of Him created in their minds."
+
+# game/events/explore/midnight_kiss.rpy:769
+translate vietnamese midnight_kiss_demeter_angels_193fd28d:
+
+    # demeter "You can say you're lucky or perhaps unlucky."
+    demeter "You can say you're lucky or perhaps unlucky."
+
+# game/events/explore/midnight_kiss.rpy:776
+translate vietnamese midnight_kiss_demeter_angels_ea5c2f12:
+
+    # demeter "Yes, it's a megacity. Most of them became monsters now. But there are at least a hundred thousand alive, and sane humans."
+    demeter "Yes, it's a megacity. Most of them became monsters now. But there are at least a hundred thousand alive, and sane humans."
+
+# game/events/explore/midnight_kiss.rpy:803
+translate vietnamese midnight_kiss_demeter_angels_f2244d74:
+
+    # demeter "You should know who I'm reffering to. I bet you have fucked her at least once."
+    demeter "You should know who I'm reffering to. I bet you have fucked her at least once."
+
+# game/events/explore/midnight_kiss.rpy:819
+translate vietnamese midnight_kiss_demeter_angels_7046864e:
+
+    # demeter "Yes, I can't say you His name nor title."
+    demeter "Yes, I can't say you His name nor title."
+
+# game/events/explore/midnight_kiss.rpy:821
+translate vietnamese midnight_kiss_demeter_angels_7508f55d:
+
+    # me "So, if you talk about Him, He'll know?"
+    me "So, if you talk about Him, He'll know?"
+
+# game/events/explore/midnight_kiss.rpy:830
+translate vietnamese midnight_kiss_demeter_angels_8a85f3bc:
+
+    # demeter "We have noted the activity of unknown Angel level power. The domain of death."
+    demeter "We have noted the activity of unknown Angel level power. The domain of death."
+

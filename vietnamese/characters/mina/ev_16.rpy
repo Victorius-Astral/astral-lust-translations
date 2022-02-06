@@ -611,3 +611,59 @@ translate vietnamese mina_16_end_60e682cb:
 
     # th "Well, time to do my own stuff."
     th "Đến lúc làm những việc của riêng mình rồi."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/mina/ev_16.rpy:23
+translate vietnamese mina_16_bfe75d24:
+
+    # mina "Yeah, before all this, I had a lot of friends, now there are only a few of us."
+    mina "Yeah, before all this, I had a lot of friends, now there are only a few of us."
+
+# game/characters/mina/ev_16.rpy:27
+translate vietnamese mina_16_58d0b73c:
+
+    # mina "What do you take me for, a dog chasing after skirts? I'm not you, [me]."
+    mina "What do you take me for, a dog chasing after skirts? I'm not you, [me]."
+
+# game/characters/mina/ev_16.rpy:28
+translate vietnamese mina_16_284f456b:
+
+    # me "You wish you were me. I got to do a lot of funny things with Alice."
+    me "You wish you were me. I got to do a lot of funny things with Alice."
+
+# game/characters/mina/ev_16.rpy:34
+translate vietnamese mina_16_05e8d521:
+
+    # mina "But it only shows that I'm right. The only thing you think about is defenseless, innocent girls like me."
+    mina "But it only shows that I'm right. The only thing you think about is defenseless, innocent girls like me."
+
+# game/characters/mina/ev_16.rpy:73
+translate vietnamese mina_16_951d0e95:
+
+    # mina "Is everything alright with your head? Why are you asking so many questions?"
+    mina "Is everything alright with your head? Why are you asking so many questions?"
+
+# game/characters/mina/ev_16.rpy:98
+translate vietnamese mina_16_friend_e5ea6520:
+
+    # mina "Gosh, don't glare at me like this. I was joking."
+    mina "Gosh, don't glare at me like this. I was joking."
+
+# game/characters/mina/ev_16.rpy:103
+translate vietnamese mina_16_friend_90401a59:
+
+    # me "Yeah. So, what girl stuff do you want to talk about?"
+    me "Yeah. So, what girl stuff do you want to talk about?"
+
+# game/characters/mina/ev_16.rpy:159
+translate vietnamese mina_16_love_888933e7:
+
+    # mina "Is that what you tell Alice before you put a dick up her mouth?"
+    mina "Is that what you tell Alice before you put a dick up her mouth?"
+
+# game/characters/mina/ev_16.rpy:163
+translate vietnamese mina_16_love_ab78741f:
+
+    # me "Well, why waste time talking. Let's get straight to the fun part."
+    me "Well, why waste time talking. Let's get straight to the fun part."
+

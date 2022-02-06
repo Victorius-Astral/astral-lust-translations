@@ -263,3 +263,11 @@ translate vietnamese strings:
     # game/characters/grace/ev_1.rpy:12
     old "It's too risky"
     new "Quá rủi ro"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/grace/ev_1.rpy:71
+    old "This silly girl seems to despise men to the bone. I wonder why?"
+    new "This silly girl seems to despise men to the bone. I wonder why?"
+

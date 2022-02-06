@@ -327,3 +327,11 @@ translate vietnamese strings:
     # game/characters/alice/ev_1.rpy:60
     old "Wait"
     new "Đợi"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/alice/ev_1.rpy:117
+    old "When I first encountered her, she was masturbating. She caught me, but instead of making a fuss over it she told me I owe her a favor. She seems mischievous and clever, A dangerous combination."
+    new "When I first encountered her, she was masturbating. She caught me, but instead of making a fuss over it she told me I owe her a favor. She seems mischievous and clever, A dangerous combination."
+

@@ -543,3 +543,15 @@ translate vietnamese strings:
     # game/characters/lexi/ev_3.rpy:105
     old "Where is my kiss?"
     new "Nụ hôn của anh đâu rồi?"
+# TODO: Translation updated at 2022-02-06 08:10
+
+translate vietnamese strings:
+
+    # game/characters/lexi/ev_3.rpy:6
+    old "She loves ice cream a lot. It would be an excellent gift for her."
+    new "She loves ice cream a lot. It would be an excellent gift for her."
+
+    # game/characters/lexi/ev_3.rpy:98
+    old "The electricity and fresh water are abundant, I wonder why?"
+    new "The electricity and fresh water are abundant, I wonder why?"
+

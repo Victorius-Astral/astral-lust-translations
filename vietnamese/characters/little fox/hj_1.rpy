@@ -209,3 +209,11 @@ translate vietnamese lil_fox_hj_1_cum_55de605d:
 
     # lil_fox "..."
     lil_fox "..."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/little fox/hj_1.rpy:127
+translate vietnamese lil_fox_hj_1_before_c2040f21:
+
+    # lil_fox "Fall for me, and fed me every day!~"
+    lil_fox "Fall for me, and fed me every day!~"
+

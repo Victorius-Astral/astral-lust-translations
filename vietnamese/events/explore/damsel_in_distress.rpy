@@ -2331,3 +2331,137 @@ translate vietnamese strings:
     # game/events/explore/damsel_in_distress.rpy:685
     old "Don't take anything"
     new "Không lấy bất cứ thứ gì"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/events/explore/damsel_in_distress.rpy:62
+translate vietnamese damsel_in_distress_26c3e88d:
+
+    # th "She'll die for sure if I don't help her. Alas, if I help her I might die myself."
+    th "She'll die for sure if I don't help her. Alas, if I help her I might die myself."
+
+# game/events/explore/damsel_in_distress.rpy:97
+translate vietnamese damsel_in_distress_milf_3df18484:
+
+    # d_milf smile "Then, I have nothing else to give you."
+    d_milf smile "Then, I have nothing else to give you."
+
+# game/events/explore/damsel_in_distress.rpy:126
+translate vietnamese damsel_in_distress_milf_506e1ca8:
+
+    # me "We can take it slow, if you want."
+    me "We can take it slow, if you want."
+
+# game/events/explore/damsel_in_distress.rpy:134
+translate vietnamese damsel_in_distress_milf_c4d77b3e:
+
+    # d_milf "Haha, I don't remember the last time I had something in there."
+    d_milf "Haha, I don't remember the last time I had something in there."
+
+# game/events/explore/damsel_in_distress.rpy:196
+translate vietnamese damsel_in_distress_short_bc4c3ae3:
+
+    # me "So, it's His goodwill, not mine?"
+    me "So, it's His goodwill, not mine?"
+
+# game/events/explore/damsel_in_distress.rpy:197
+translate vietnamese damsel_in_distress_short_f1f40166:
+
+    # d_short "You were chosen by God to save me."
+    d_short "You were chosen by God to save me."
+
+# game/events/explore/damsel_in_distress.rpy:198
+translate vietnamese damsel_in_distress_short_670e18b4:
+
+    # me "So, it wasn't my own free will?"
+    me "So, it wasn't my own free will?"
+
+# game/events/explore/damsel_in_distress.rpy:200
+translate vietnamese damsel_in_distress_short_7ea41bb5:
+
+    # me "So, how did he send me to save you?"
+    me "So, how did he send me to save you?"
+
+# game/events/explore/damsel_in_distress.rpy:246
+translate vietnamese damsel_in_distress_short_menu_30fad685:
+
+    # me "Anyway, I'm not God, loving unconditionally, and you received help. Now, it's time to repay me."
+    me "Anyway, I'm not God, loving unconditionally, and you received help. Now, it's time to repay me."
+
+# game/events/explore/damsel_in_distress.rpy:339
+translate vietnamese damsel_in_distress_bimbo_menu_1db1c4fe:
+
+    # d_bimbo "Will you tell me, if I do this right?"
+    d_bimbo "Will you tell me, if I do this right?"
+
+# game/events/explore/damsel_in_distress.rpy:341
+translate vietnamese damsel_in_distress_bimbo_menu_650494c1:
+
+    # d_bimbo "Thank you! My dad never taught me anything."
+    d_bimbo "Thank you! My dad never taught me anything."
+
+# game/events/explore/damsel_in_distress.rpy:445
+translate vietnamese damsel_in_distress_bimbo_menu_59f954e1:
+
+    # me "Then, I won't beat around the bush. Take your panties off."
+    me "Then, I won't beat around the bush. Take your panties off."
+
+# game/events/explore/damsel_in_distress.rpy:538
+translate vietnamese damsel_in_distress_soldier_770b05f7:
+
+    # d_soldier "Your primal instincts are so strong, you'll chose boobs instead of a gun?"
+    d_soldier "Your primal instincts are so strong, you'll chose boobs instead of a gun?"
+
+# game/events/explore/damsel_in_distress.rpy:550
+translate vietnamese damsel_in_distress_soldier_9c5f7c17:
+
+    # me "You can say, I'm talented."
+    me "You can say, I'm talented."
+
+# game/events/explore/damsel_in_distress.rpy:595
+translate vietnamese damsel_in_distress_soldier_d8c7e6e3:
+
+    # d_soldier "How are they? Soft, tender, hot, firm?"
+    d_soldier "How are they? Soft, tender, hot, firm?"
+
+# game/events/explore/damsel_in_distress.rpy:642
+translate vietnamese damsel_in_distress_soldier_d7c98011:
+
+    # me "Aye, better keep going before more things come."
+    me "Aye, better keep going before more things come."
+
+# game/events/explore/damsel_in_distress.rpy:670
+translate vietnamese damsel_in_distress_brunette_3bba7a2b:
+
+    # d_brunette "Yes, thank you very much, sir."
+    d_brunette "Yes, thank you very much, sir."
+
+# game/events/explore/damsel_in_distress.rpy:682
+translate vietnamese damsel_in_distress_brunette_0f5b5ad8:
+
+    # th "Who knows what's in their heads.. It might have really happened."
+    th "Who knows what's in their heads.. It might have really happened."
+
+# game/events/explore/damsel_in_distress.rpy:693
+translate vietnamese damsel_in_distress_brunette_64fd89f4:
+
+    # d_brunette "It doesn't matter. Dead, I would have no use for this bone."
+    d_brunette "It doesn't matter. Dead, I would have no use for this bone."
+
+# game/events/explore/damsel_in_distress.rpy:729
+translate vietnamese damsel_in_distress_brunette_99ecd9ff:
+
+    # me "So, you have a sister. What about your parents?"
+    me "So, you have a sister. What about your parents?"
+
+# game/events/explore/damsel_in_distress.rpy:741
+translate vietnamese damsel_in_distress_brunette_92cd901f:
+
+    # d_brunette "So, you are a scavenger or a scout?"
+    d_brunette "So, you are a scavenger or a scout?"
+
+# game/events/explore/damsel_in_distress.rpy:742
+translate vietnamese damsel_in_distress_brunette_251da3a8:
+
+    # me "I guess, I could be called a scavenger."
+    me "I guess, I could be called a scavenger."
+

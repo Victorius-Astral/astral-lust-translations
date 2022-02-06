@@ -141,3 +141,11 @@ translate vietnamese strings:
     # game/events/explore/injured_dragon.rpy:61
     old "Fight it"
     new "Chiếnnnnn"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/events/explore/injured_dragon.rpy:1
+translate vietnamese 10aee039:
+
+    # "When walking down the streets, we hear roars filled with rage and pain when we check it out. We see the dragon among corpses of giants. He's weakened and hurt. We can attack it. It has only 40%% hp. This event is very rare with one instance in the bag. Only the first instance at 40%%, It will get 50%% the next time if we defeat it, and 60%% the third, as a maximum."
+    "When walking down the streets, we hear roars filled with rage and pain when we check it out. We see the dragon among corpses of giants. He's weakened and hurt. We can attack it. It has only 40%% hp. This event is very rare with one instance in the bag. Only the first instance at 40%%, It will get 50%% the next time if we defeat it, and 60%% the third, as a maximum."
+

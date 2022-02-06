@@ -623,3 +623,81 @@ translate vietnamese strings:
     # game/characters/grace/ev_8.rpy:119
     old "Stay silent"
     new "Im lặng"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/grace/ev_8.rpy:7
+translate vietnamese grace_8_6127e022:
+
+    # grace "[me]. We were talking about you. Do you want to join us?"
+    grace "[me]. We were talking about you. Do you want to join us?"
+
+# game/characters/grace/ev_8.rpy:26
+translate vietnamese grace_8_39e0250d:
+
+    # th "So, that's why [alice] is glaring at me like that."
+    th "So, that's why [alice] is glaring at me like that."
+
+# game/characters/grace/ev_8.rpy:37
+translate vietnamese grace_8_3a417da2:
+
+    # grace "Oh, okay. Should we not try to help because he is a man?"
+    grace "Oh, okay. Should we not try to help because he is a man?"
+
+# game/characters/grace/ev_8.rpy:38
+translate vietnamese grace_8_905c79be:
+
+    # alice "That's right, Grace."
+    alice "That's right, Grace."
+
+# game/characters/grace/ev_8.rpy:40
+translate vietnamese grace_8_e36f9ad1:
+
+    # grace "So, that's it!"
+    grace "So, that's it!"
+
+# game/characters/grace/ev_8.rpy:92
+translate vietnamese grace_8_part2_df45ee26:
+
+    # grace "I don't want to see his penis, and I don't want to show him my pussy."
+    grace "I don't want to see his penis, and I don't want to show him my pussy."
+
+# game/characters/grace/ev_8.rpy:138
+translate vietnamese grace_8_part3_37d55d72:
+
+    # alice "If it makes you happy, then it's okay."
+    alice "If it makes you happy, then it's okay."
+
+# game/characters/grace/ev_8.rpy:142
+translate vietnamese grace_8_part3_9c2585e5:
+
+    # th "So, it seems she's okay with sharing.."
+    th "So, it seems she's okay with sharing.."
+
+# game/characters/grace/ev_8.rpy:152
+translate vietnamese grace_8_part3_842f35ec:
+
+    # th "What the fuck just happened. [alice] became my wingman?"
+    th "What the fuck just happened. [alice] became my wingman?"
+
+# game/characters/grace/ev_8.rpy:160
+translate vietnamese grace_8_part3_07554898:
+
+    # "As [alice] walks past you, she stops and glares at you."
+    "As [alice] walks past you, she stops and glares at you."
+
+# game/characters/grace/ev_8.rpy:163
+translate vietnamese grace_8_part3_8135c3bd:
+
+    # alice "{size=-15}Hurt her, and I'll cut your balls off. My. Boy.{/size}"
+    alice "{size=-15}Hurt her, and I'll cut your balls off. My. Boy.{/size}"
+
+translate vietnamese strings:
+
+    # game/characters/grace/ev_8.rpy:14
+    old "She knows about Grace and me."
+    new "She knows about Grace and me."
+
+    # game/characters/grace/ev_8.rpy:148
+    old "Alice told her it's okay to do anything with me, as long as it makes her happy."
+    new "Alice told her it's okay to do anything with me, as long as it makes her happy."
+

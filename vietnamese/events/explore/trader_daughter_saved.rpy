@@ -401,3 +401,23 @@ translate vietnamese strings:
     # game/events/explore/trader_daughter_saved.rpy:77
     old "I will take the discount"
     new "Anh sẽ nhận giảm giá"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/events/explore/trader_daughter_saved.rpy:69
+translate vietnamese chased_trader_daughter_win_d77ecd27:
+
+    # me "Would your dad be okay with you making that decision?"
+    me "Would your dad be okay with you making that decision?"
+
+# game/events/explore/trader_daughter_saved.rpy:70
+translate vietnamese chased_trader_daughter_win_f99a9ccd:
+
+    # girl "It'll be okay."
+    girl "It'll be okay."
+
+# game/events/explore/trader_daughter_saved.rpy:113
+translate vietnamese chased_trader_daughter_anal_e1a90044:
+
+    # th "That's better. She doesn't seem to hate it either."
+    th "That's better. She doesn't seem to hate it either."
+

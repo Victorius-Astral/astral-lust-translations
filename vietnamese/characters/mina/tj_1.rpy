@@ -185,3 +185,23 @@ translate vietnamese mina_tj_1_de0b4b41:
 
     # me "Time to go."
     me "Đến lúc phải đi rồi."
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/mina/tj_1.rpy:32
+translate vietnamese mina_tj_1_415e94a2:
+
+    # "[mina] starts to move her breasts keep your penis in their soft embrace."
+    "[mina] starts to move her breasts keep your penis in their soft embrace."
+
+# game/characters/mina/tj_1.rpy:55
+translate vietnamese mina_tj_1_6a218955:
+
+    # me "Ahhh. You're doing a really good job, [mina]."
+    me "Ahhh. You're doing a really good job, [mina]."
+
+# game/characters/mina/tj_1.rpy:69
+translate vietnamese mina_tj_1_02ade31f:
+
+    # me "Yeah, I want to see you covered in my cum."
+    me "Yeah, I want to see you covered in my cum."
+

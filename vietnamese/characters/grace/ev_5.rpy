@@ -843,3 +843,35 @@ translate vietnamese strings:
     # game/characters/grace/ev_5.rpy:138
     old "Forget it. I hate you"
     new "Quên nó đi. Anh ghét em vl"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/grace/ev_5.rpy:7
+translate vietnamese grace_5_0c073ba2:
+
+    # "You try to approach [grace] as quietly as you can."
+    "You try to approach [grace] as quietly as you can."
+
+# game/characters/grace/ev_5.rpy:48
+translate vietnamese grace_5_f9998e9a:
+
+    # me "Yep, you're too good for me."
+    me "Yep, you're too good for me."
+
+# game/characters/grace/ev_5.rpy:51
+translate vietnamese grace_5_06b4b459:
+
+    # grace "Mm. I am."
+    grace "Mm. I am."
+
+# game/characters/grace/ev_5.rpy:52
+translate vietnamese grace_5_95f93169:
+
+    # "As you see her contented face you must admit that talking with yourself before the mirror is actually having some effect." id grace_5_95f93169
+    "As you see her contented face you must admit that talking with yourself before the mirror is actually having some effect." id grace_5_95f93169
+
+# game/characters/grace/ev_5.rpy:57
+translate vietnamese grace_5_4540d3de:
+
+    # "As you walk in [grace] turns to face you."
+    "As you walk in [grace] turns to face you."
+

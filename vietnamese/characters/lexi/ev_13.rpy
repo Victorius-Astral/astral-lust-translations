@@ -729,3 +729,23 @@ translate vietnamese strings:
     # game/characters/lexi/ev_13.rpy:80
     old "Take the gunner hostage {int}[[Intelligence]{/int} {#visible}"
     new "Bắt xạ thủ làm con tin {int}[[Trí tuệ]{/int} {#visible}"
+# TODO: Translation updated at 2022-02-06 08:10
+
+# game/characters/lexi/ev_13.rpy:27
+translate vietnamese lexi_13_dbc642e8:
+
+    # lexi "No, that's not it. I've never felt safe before, so I didn't have time to consider life."
+    lexi "No, that's not it. I've never felt safe before, so I didn't have time to consider life."
+
+# game/characters/lexi/ev_13.rpy:55
+translate vietnamese lexi_13_29a08d4d:
+
+    # me "Why is everything still fresh? I don't get it. It should be all rotten a long time already."
+    me "Why is everything still fresh? I don't get it. It should be all rotten a long time already."
+
+# game/characters/lexi/ev_13.rpy:236
+translate vietnamese lexi_13_escape_c43eafaa:
+
+    # lexi "All they do every day is drink and smoke. No way they're going to catch us."
+    lexi "All they do every day is drink and smoke. No way they're going to catch us."
+
