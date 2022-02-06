@@ -612,3 +612,107 @@ translate polish mina_16_end_60e682cb:
     # th "Well, time to do my own stuff."
     th "Well, time to do my own stuff."
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/mina/ev_16.rpy:16
+translate polish mina_16_c59ca957:
+
+    # me "I can imagine. So, what do you want to talk about?"
+    me "I can imagine. So, what do you want to talk about?"
+
+# game/characters/mina/ev_16.rpy:19
+translate polish mina_16_a2816f88:
+
+    # mina "Nothing special. I was just looking for someone to open my mouth to."
+    mina "Nothing special. I was just looking for someone to open my mouth to."
+
+# game/characters/mina/ev_16.rpy:23
+translate polish mina_16_bfe75d24:
+
+    # mina "Yeah, before all this, I had a lot of friends, now there are only a few of us."
+    mina "Yeah, before all this, I had a lot of friends, now there are only a few of us."
+
+# game/characters/mina/ev_16.rpy:27
+translate polish mina_16_58d0b73c:
+
+    # mina "What do you take me for, a dog chasing after skirts? I'm not you, [me]."
+    mina "What do you take me for, a dog chasing after skirts? I'm not you, [me]."
+
+# game/characters/mina/ev_16.rpy:28
+translate polish mina_16_284f456b:
+
+    # me "You wish you were me. I got to do a lot of funny things with Alice."
+    me "You wish you were me. I got to do a lot of funny things with Alice."
+
+# game/characters/mina/ev_16.rpy:34
+translate polish mina_16_05e8d521:
+
+    # mina "But it only shows that I'm right. The only thing you think about is defenseless, innocent girls like me."
+    mina "But it only shows that I'm right. The only thing you think about is defenseless, innocent girls like me."
+
+# game/characters/mina/ev_16.rpy:37
+translate polish mina_16_a198f2d0:
+
+    # me "Did you take lessons in being shameless? You certainly lost all remains of humility.."
+    me "Did you take lessons in being shameless? You certainly lost all remains of humility.."
+
+# game/characters/mina/ev_16.rpy:73
+translate polish mina_16_951d0e95:
+
+    # mina "Is everything alright with your head? Why are you asking so many questions?"
+    mina "Is everything alright with your head? Why are you asking so many questions?"
+
+# game/characters/mina/ev_16.rpy:94
+translate polish mina_16_friend_53cfbcfd:
+
+    # mina "What's up with you and periods? Is this your new fetish?"
+    mina "What's up with you and periods? Is this your new fetish?"
+
+# game/characters/mina/ev_16.rpy:98
+translate polish mina_16_friend_e5ea6520:
+
+    # mina "Gosh, don't glare at me like this. I was joking."
+    mina "Gosh, don't glare at me like this. I was joking."
+
+# game/characters/mina/ev_16.rpy:102
+translate polish mina_16_friend_77e7c285:
+
+    # mina "Alright, alright, I'm sorry. Happy now?"
+    mina "Alright, alright, I'm sorry. Happy now?"
+
+# game/characters/mina/ev_16.rpy:103
+translate polish mina_16_friend_90401a59:
+
+    # me "Yeah. So, what girl stuff do you want to talk about?"
+    me "Yeah. So, what girl stuff do you want to talk about?"
+
+# game/characters/mina/ev_16.rpy:114
+translate polish mina_16_friend_d268ab66:
+
+    # mina "Thanks for the talk, [me]."
+    mina "Thanks for the talk, [me]."
+
+# game/characters/mina/ev_16.rpy:123
+translate polish mina_16_love_b13aed6c:
+
+    # mina "Oh, yeah. How could I ever forget [me], the man that takes care of all sad girls."
+    mina "Oh, yeah. How could I ever forget [me], the man that takes care of all sad girls."
+
+# game/characters/mina/ev_16.rpy:128
+translate polish mina_16_love_bb2e0b57:
+
+    # me "Easy, I'm not enough of a kid to be offended so easily."
+    me "Easy, I'm not enough of a kid to be offended so easily."
+
+# game/characters/mina/ev_16.rpy:159
+translate polish mina_16_love_888933e7:
+
+    # mina "Is that what you tell Alice before you put a dick up her mouth?"
+    mina "Is that what you tell Alice before you put a dick up her mouth?"
+
+# game/characters/mina/ev_16.rpy:163
+translate polish mina_16_love_ab78741f:
+
+    # me "Well, why waste time talking. Let's get straight to the fun part."
+    me "Well, why waste time talking. Let's get straight to the fun part."
+

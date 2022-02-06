@@ -500,3 +500,35 @@ translate polish strings:
     old "Slow down"
     new "Slow down"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/kiara/x2.rpy:22
+translate polish kiara_x2_e3c59672:
+
+    # me "Holy.. Am I in the heavens?"
+    me "Holy.. Am I in the heavens?"
+
+# game/characters/kiara/x2.rpy:40
+translate polish kiara_x2_slow1_9a50719b:
+
+    # "You fuck [kiara] gently, or is it her clone? You can't tell."
+    "You fuck [kiara] gently, or is it her clone? You can't tell."
+
+# game/characters/kiara/x2.rpy:198
+translate polish kiara_x2_before1_67cb1615:
+
+    # "Your penis in [kiara]'s pussy is rock hard, and getting even harder by the moment."
+    "Your penis in [kiara]'s pussy is rock hard, and getting even harder by the moment."
+
+# game/characters/kiara/x2.rpy:227
+translate polish kiara_x2_before2_67cb1615:
+
+    # "Your penis in [kiara]'s pussy is rock hard, and getting even harder by the moment."
+    "Your penis in [kiara]'s pussy is rock hard, and getting even harder by the moment."
+
+# game/characters/kiara/x2.rpy:256
+translate polish kiara_x2_before3_67cb1615:
+
+    # "Your penis in [kiara]'s pussy is rock hard, and getting even harder by the moment."
+    "Your penis in [kiara]'s pussy is rock hard, and getting even harder by the moment."
+

@@ -350,3 +350,45 @@ translate polish strings:
     old "I changed my mind"
     new "I changed my mind"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/events/explore/friendly_wanderers.rpy:59
+translate polish exp_friendly_wanderers_7bd5c60a:
+
+    # girl "Y-You're alive?"
+    girl "Y-You're alive?"
+
+# game/events/explore/friendly_wanderers.rpy:60
+translate polish exp_friendly_wanderers_b32e5b81:
+
+    # wanderer "What?"
+    wanderer "What?"
+
+# game/events/explore/friendly_wanderers.rpy:61
+translate polish exp_friendly_wanderers_239f2316:
+
+    # girl "N-nothing... {small}I must be imagining things... Was it someone else...?{/small}"
+    girl "N-nothing... {small}I must be imagining things... Was it someone else...?{/small}"
+
+# game/events/explore/friendly_wanderers.rpy:62
+translate polish exp_friendly_wanderers_b5f39981:
+
+    # wanderer "We're in the middle of business. Focus."
+    wanderer "We're in the middle of business. Focus."
+
+# game/events/explore/friendly_wanderers.rpy:63
+translate polish exp_friendly_wanderers_dfbca531:
+
+    # th "It was me, but it's better if she doesn't know I can resurrect."
+    th "It was me, but it's better if she doesn't know I can resurrect."
+
+translate polish strings:
+
+    # game/events/explore/friendly_wanderers.rpy:88
+    old "The Wanderers"
+    new "The Wanderers"
+
+    # game/events/explore/friendly_wanderers.rpy:88
+    old "They consist of independent groups of people that help each other."
+    new "They consist of independent groups of people that help each other."
+

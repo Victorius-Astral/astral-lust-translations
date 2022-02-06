@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "2F Corridor"
-    new "2F Corridor"
+    new "Pasillo P2"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "TV"
@@ -16,11 +16,11 @@ translate spanish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "1F Corridor"
-    new "1F Corridor"
+    new "Pasillo P1"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Prisoners"
-    new "Prisoners"
+    new "Prisioneros"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Lobby"
@@ -28,11 +28,11 @@ translate spanish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Kitchen"
-    new "Kitchen"
+    new "Cocina"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Toilet"
-    new "Toilet"
+    new "Baño"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[grace]"
@@ -44,63 +44,63 @@ translate spanish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Your Room"
-    new "Your Room"
+    new "Tu Habitación"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[lexi]'s & [mina]'s Room"
-    new "[lexi]'s & [mina]'s Room"
+    new "Habitación de [lexi] & [mina]"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[alice] Room"
-    new "[alice] Room"
+    new "Habitación de [alice]"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[grace] Room"
-    new "[grace] Room"
+    new "Habitación de [grace]"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "3rd Floor"
-    new "3rd Floor"
+    new "Tercer Piso"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Cupboard"
-    new "Cupboard"
+    new "Alacena"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Other side"
-    new "Other side"
+    new "Otro lado"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "2nd Floor"
-    new "2nd Floor"
+    new "Segundo Piso"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[savenia]'s Room"
-    new "[savenia]'s Room"
+    new "Habitación de [savenia]"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "F2 Corridor"
-    new "F2 Corridor"
+    new "Pasillo P2"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Barbell Bench"
-    new "Barbell Bench"
+    new "Banco con Barra"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Stationary Bike"
-    new "Stationary Bike"
+    new "Bicicleta Estacionaria"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Obstacle"
-    new "Obstacle"
+    new "Obstáculos"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "F1 Corridor"
-    new "F1 Corridor"
+    new "Pasillo P1"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Fridge"
-    new "Fridge"
+    new "Nevera"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[cat]"
@@ -108,7 +108,7 @@ translate spanish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Documents"
-    new "Documents"
+    new "Documentos"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Laptop"
@@ -120,15 +120,15 @@ translate spanish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Books (Left)"
-    new "Books (Left)"
+    new "Libros (Izquierda)"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Books (Right)"
-    new "Books (Right)"
+    new "Libros (Derecha)"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Door"
-    new "Door"
+    new "Puerta"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[kiara]"
@@ -140,19 +140,19 @@ translate spanish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Outside Door"
-    new "Outside Door"
+    new "Puerta Afuera"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Expansions"
-    new "Expansions"
+    new "Expansiones"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Counter"
-    new "Counter"
+    new "Mostrador"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Bike"
-    new "Bike"
+    new "Moto"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[rachel]"
@@ -172,15 +172,15 @@ translate spanish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Mirror"
-    new "Mirror"
+    new "Espejo"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Rubik's Cube"
-    new "Rubik's Cube"
+    new "Cubo de Rubik"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Books"
-    new "Books"
+    new "Libros"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Altar"
@@ -188,23 +188,23 @@ translate spanish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Chest"
-    new "Chest"
+    new "Cofre"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Gray Cupboard"
-    new "Gray Cupboard"
+    new "Alacena Gris"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "White Cupboard"
-    new "White Cupboard"
+    new "Alacena Blanca"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Wardrobe"
-    new "Wardrobe"
+    new "Armario"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "3F Corridor"
-    new "3F Corridor"
+    new "Pasillo P3"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[savenia]"
@@ -212,19 +212,19 @@ translate spanish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Gun Workshop"
-    new "Gun Workshop"
+    new "Taller de Armas"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Brothel"
-    new "Brothel"
+    new "Burdel"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Main Plaza"
-    new "Main Plaza"
+    new "Plaza Principal"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[lola] Room"
-    new "[lola] Room"
+    new "Habitación de [lola]"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[lil_fox]"
@@ -232,9 +232,16 @@ translate spanish strings:
 
     # game/screens/gui/interactionMenu.rpy:358
     old "Interact:"
-    new "Interact:"
+    new "Interactuar:"
 
     # game/screens/gui/interactionMenu.rpy:378
     old "*Toggle with '{b}I{/b}' key"
-    new "*Toggle with '{b}I{/b}' key"
+    new "*Alternar con la tecla '{b}I{/b}'"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/screens/gui/interactionMenu.rpy:75
+    old "Test Notifications"
+    new "Test Notifications"

@@ -1732,3 +1732,11 @@ translate spanish strings:
     old "I simply want to spend some time with you {trust}(Trust+){/trust}"
     new "I simply want to spend some time with you {trust}(Trust+){/trust}"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/mina/feet_masage.rpy:316
+    old "Massage can't be improved further in this version. More coming soon!"
+    new "Massage can't be improved further in this version. More coming soon!"
+

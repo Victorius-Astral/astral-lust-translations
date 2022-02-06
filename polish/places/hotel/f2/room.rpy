@@ -44,3 +44,11 @@ translate polish strings:
     old "Do you want to build next hotel floor? (30 Stone, 15 Wood, 15 Metal)"
     new "Do you want to build next hotel floor? (30 Stone, 15 Wood, 15 Metal)"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/places/hotel/f2/room.rpy:47
+    old "Hotel expanded successfully!"
+    new "Hotel expanded successfully!"
+

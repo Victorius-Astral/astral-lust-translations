@@ -262,3 +262,11 @@ translate polish strings:
     old "Use [[Freedom]"
     new "Use [[Freedom]"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/events/endings/corruption.rpy:16
+translate polish end_corruption_838d8644:
+
+    # "Before you, an endless black sea floats amidst the stars, yet this breathtaking sight doesn't impress you. You feel nothing."
+    "Before you, an endless black sea floats amidst the stars, yet this breathtaking sight doesn't impress you. You feel nothing."
+

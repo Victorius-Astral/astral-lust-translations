@@ -46,5 +46,12 @@ translate spanish strings:
 translate spanish room_f1_cupboard_menu1_628ba9fa:
 
     # me "I shouldn't eat at night."
-    me "I shouldn't eat at night."
+    me "No debería comer de noche."
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/places/hotel/f1/cupboard.rpy:31
+    old "Wallpaper 'Secret 1' unlocked!"
+    new "¡Fondo de pantalla 'Secreto 1' desbloqueada!"

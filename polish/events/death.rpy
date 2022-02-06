@@ -102,3 +102,11 @@ translate polish death_2_b8f501e3:
     # "You get up from your bed after a while."
     "You get up from your bed after a while."
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/events/death.rpy:31
+    old "You died"
+    new "You died"
+

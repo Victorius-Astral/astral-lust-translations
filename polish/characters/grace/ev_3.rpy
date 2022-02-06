@@ -200,3 +200,11 @@ translate polish strings:
     old "I'm sure she's alright"
     new "I'm sure she's alright"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/characters/grace/ev_3.rpy:49
+    old "She wants me to convey her words to her mother if I were to encounter her outside."
+    new "She wants me to convey her words to her mother if I were to encounter her outside."
+

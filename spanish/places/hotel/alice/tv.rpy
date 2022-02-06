@@ -52,5 +52,4 @@ translate spanish strings:
 translate spanish room_alice_tv_series_4474b87a:
 
     # th "We used to think that problems like in those series are important. How foolish we were."
-    th "We used to think that problems like in those series are important. How foolish we were."
-
+    th "Solíamos pensar que problemas como los de esa serie son importantes. Qué tontos éramos."

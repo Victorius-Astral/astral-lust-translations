@@ -364,3 +364,11 @@ translate polish strings:
     old "I named it [cat]."
     new "I named it [cat]."
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/events/explore/cat.rpy:95
+    old "I discovered it while outside, in an abandoned house."
+    new "I discovered it while outside, in an abandoned house."
+

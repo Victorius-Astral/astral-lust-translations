@@ -12,5 +12,4 @@ translate spanish strings:
 
     # game/screens/menus/girls/kiara.rpy:34
     old "• Threesome: "
-    new "• Threesome: "
-
+    new "• Tríos: "

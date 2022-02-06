@@ -592,3 +592,11 @@ translate polish strings:
     old "Not now"
     new "Not now"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/characters/alice/ev_3.rpy:146
+    old "She brought me to watch her back when she went out to get a.. \"friend\"...."
+    new "She brought me to watch her back when she went out to get a.. \"friend\"...."
+

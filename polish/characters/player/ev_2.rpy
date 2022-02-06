@@ -300,3 +300,15 @@ translate polish main_2_0e11d432:
     # "Not saying anything more she leaves you alone. After taking a long shower you return to your room."
     "Not saying anything more she leaves you alone. After taking a long shower you return to your room."
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/characters/player/ev_2.rpy:90
+    old "Me"
+    new "Me"
+
+    # game/characters/player/ev_2.rpy:90
+    old "I have encountered a cultist. He knew my name. Astonishingly he said they didn't know how The End would look; they were deceived by their leader. Nevertheless, this encounter gives me the creeps. The cultist committed suicide after thinking of the cult leader, just how terrifying is he?"
+    new "I have encountered a cultist. He knew my name. Astonishingly he said they didn't know how The End would look; they were deceived by their leader. Nevertheless, this encounter gives me the creeps. The cultist committed suicide after thinking of the cult leader, just how terrifying is he?"
+

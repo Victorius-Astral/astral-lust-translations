@@ -29,13 +29,13 @@ translate spanish room_lexi_laptop_40056b29:
 translate spanish room_lexi_laptop_0ec44295:
 
     # th "Should I ask them? Better not, I would need to explain why I was snooping on their laptop, when I have my own pc.."
-    th "¿Debería preguntarles? Mejor no, tendría que explicar por qué estaba fisgoneando en su computadora portátil, cuando tengo mi propia PC..."
+    th "¿Debería preguntarles? Mejor no, tendría que explicar por qué estaba fisgoneando en su portátil cuando tengo mi propia PC..."
 
 # game/places/hotel/lexi/laptop.rpy:27
 translate spanish room_lexi_laptop_insert_98a5625b:
 
     # th "It doesn't work.."
-    th "no funciona..."
+    th "No funciona..."
 
 # game/places/hotel/lexi/laptop.rpy:28
 translate spanish room_lexi_laptop_insert_4802d0af:
@@ -62,5 +62,4 @@ translate spanish strings:
 translate spanish room_lexi_laptop_insert_f80bd77c:
 
     # victorius "{gold}Nice try! You can try this in another game.{/gold}"
-    victorius "{gold}Nice try! You can try this in another game.{/gold}"
-
+    victorius "{gold}¡Buen intento! Puedes probar esto en otro juego.{/gold}"

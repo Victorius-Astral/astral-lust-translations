@@ -732,3 +732,95 @@ translate polish grace_9_499b26f3:
     # th "Time to go.."
     th "Time to go.."
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/grace/ev_9.rpy:10
+translate polish grace_9_7e643fc5:
+
+    # me "I have one. So, do you like them?"
+    me "I have one. So, do you like them?"
+
+# game/characters/grace/ev_9.rpy:22
+translate polish grace_9_d26a4197:
+
+    # me "Easy there."
+    me "Easy there."
+
+# game/characters/grace/ev_9.rpy:33
+translate polish grace_9_7776fda0:
+
+    # grace "Yay!"
+    grace "Yay!"
+
+# game/characters/grace/ev_9.rpy:35
+translate polish grace_9_3901df7f:
+
+    # th "What's with her today?"
+    th "What's with her today?"
+
+# game/characters/grace/ev_9.rpy:47
+translate polish grace_9_8ee752b2:
+
+    # grace "Hehe~ I've got a rose. They are sooo beautiful. I haven't seen a rose in so long.."
+    grace "Hehe~ I've got a rose. They are sooo beautiful. I haven't seen a rose in so long.."
+
+# game/characters/grace/ev_9.rpy:62
+translate polish grace_9_00622cc6:
+
+    # th "Look at this change in attitude."
+    th "Look at this change in attitude."
+
+# game/characters/grace/ev_9.rpy:164
+translate polish grace_9_7e46c4bf:
+
+    # me "Never mind, I'm coming for ya."
+    me "Never mind, I'm coming for ya."
+
+# game/characters/grace/ev_9.rpy:168
+translate polish grace_9_cf1eef7c:
+
+    # me "Someone had a pillow talk with Alice again."
+    me "Someone had a pillow talk with Alice again."
+
+# game/characters/grace/ev_9.rpy:170
+translate polish grace_9_e26b0ab4:
+
+    # th "Oh, I never had any doubt about that."
+    th "Oh, I never had any doubt about that."
+
+# game/characters/grace/ev_9.rpy:180
+translate polish grace_9_47b14ad3:
+
+    # "A loud moan immediately escapes her mouth."
+    "A loud moan immediately escapes her mouth."
+
+# game/characters/grace/ev_9.rpy:181
+translate polish grace_9_a60dc51c:
+
+    # th "Wow, it seems she's much more eager than she would want to show."
+    th "Wow, it seems she's much more eager than she would want to show."
+
+# game/characters/grace/ev_9.rpy:208
+translate polish grace_9_8badc79b:
+
+    # me "Don't worry, I won't hurt you."
+    me "Don't worry, I won't hurt you."
+
+# game/characters/grace/ev_9.rpy:211
+translate polish grace_9_43760c32:
+
+    # me "Shhh.. don't talk, enjoy."
+    me "Shhh.. don't talk, enjoy."
+
+# game/characters/grace/ev_9.rpy:218
+translate polish grace_9_bb4f74f8:
+
+    # "You put your fingers deeper with every move, you can feel her twitch in excitement."
+    "You put your fingers deeper with every move, you can feel her twitch in excitement."
+
+# game/characters/grace/ev_9.rpy:245
+translate polish grace_9_9596359c:
+
+    # th "One final look. Shit, she's gorgeous.."
+    th "One final look. Shit, she's gorgeous.."
+

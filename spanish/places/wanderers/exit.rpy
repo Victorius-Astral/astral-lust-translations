@@ -10,7 +10,7 @@ translate spanish wanderers_exit_menu1_df3b8a27:
 translate spanish wanderers_exit_menu1_351ac535:
 
     # "You travel carefully through the fog, slowly moving towards the hotel."
-    "Viajas con cuidado a través de la niebla, avanzando lentamente hacia el hotel. ."
+    "Viajas con cuidado a través de la niebla, avanzando lentamente hacia el hotel."
 
 # game/places/wanderers/exit.rpy:26
 translate spanish wanderers_exit_menu1_df3b8a27_1:
@@ -29,11 +29,10 @@ translate spanish strings:
 translate spanish wanderers_exit_hotel_df3b8a27:
 
     # "It's too late for that."
-    "It's too late for that."
+    "Es muy tarde para eso."
 
 # game/places/wanderers/exit.rpy:40
 translate spanish wanderers_exit_hotel_351ac535:
 
     # "You travel carefully through the fog, slowly moving towards the hotel."
-    "You travel carefully through the fog, slowly moving towards the hotel."
-
+    "Viajas con cuidado a través de la niebla, avanzando lentamente hacia el hotel."

@@ -120,3 +120,25 @@ translate polish strings:
     old "Pull the trigger"
     new "Pull the trigger"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/places/hotel/player/bed.rpy:25
+translate polish room_player_bed_menu1_43080d74:
+
+    # "You are not tired."
+    "You are not tired."
+
+translate polish strings:
+
+    # game/places/hotel/player/bed.rpy:5
+    old "Rest {#visible}"
+    new "Rest {#visible}"
+
+    # game/places/hotel/player/bed.rpy:5
+    old "Sleep with.. {#visible}"
+    new "Sleep with.. {#visible}"
+
+    # game/places/hotel/player/bed.rpy:5
+    old "Sleep {#visible}"
+    new "Sleep {#visible}"
+

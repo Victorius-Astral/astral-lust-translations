@@ -624,3 +624,11 @@ translate polish strings:
     old "Cum outside"
     new "Cum outside"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/characters/alice/ev_10.rpy:49
+    old "She's officially my girl now."
+    new "She's officially my girl now."
+

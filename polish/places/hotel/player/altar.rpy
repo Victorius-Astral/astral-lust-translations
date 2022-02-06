@@ -146,3 +146,23 @@ translate polish room_player_altar_kiara_97991f8f_1:
     # "There is no response."
     "There is no response."
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/places/hotel/player/altar.rpy:43
+translate polish room_player_altar_kiara_da7c91f7:
+
+    # me "What did I want to say?"
+    me "What did I want to say?"
+
+# game/places/hotel/player/altar.rpy:44
+translate polish room_player_altar_kiara_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/places/hotel/player/altar.rpy:45
+translate polish room_player_altar_kiara_1228f336:
+
+    # me "Weird..."
+    me "Weird..."
+

@@ -906,3 +906,15 @@ translate spanish strings:
     old "Look for caps (Duration: [lexiTasks.scavengeCaps.duration]) {loot}(Caps+){/loot} {#visible}"
     new "Look for caps (Duration: [lexiTasks.scavengeCaps.duration]) {loot}(Caps+){/loot} {#visible}"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/lexi/speak.rpy:58
+    old "She talks about her death with ease, as if she was discussing someone else."
+    new "She talks about her death with ease, as if she was discussing someone else."
+
+    # game/characters/lexi/speak.rpy:191
+    old "The End arrived before her 20th birthday."
+    new "The End arrived before her 20th birthday."
+

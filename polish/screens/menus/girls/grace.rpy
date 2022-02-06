@@ -14,3 +14,11 @@ translate polish strings:
     old "• Boobjob: "
     new "• Boobjob: "
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/screens/menus/girls/grace.rpy:23
+    old "Nicknames: Gracie"
+    new "Nicknames: Gracie"
+

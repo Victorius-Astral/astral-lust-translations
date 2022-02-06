@@ -478,3 +478,11 @@ translate spanish strings:
     old "Take care"
     new "Take care"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/lexi/ev_6.rpy:120
+    old "When we were on a date, she felt as if something terrible was about to happen. We returned home quickly."
+    new "When we were on a date, she felt as if something terrible was about to happen. We returned home quickly."
+

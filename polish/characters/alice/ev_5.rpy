@@ -443,3 +443,11 @@ translate polish alice_5_1_b44a53e7:
     # "As you open the doors you notice moans are coming from the sofa."
     "As you open the doors you notice moans are coming from the sofa."
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/alice/ev_5.rpy:143
+translate polish alice_5_2_5c6f5e7b:
+
+    # alice "Ahhhmm!~"
+    alice "Ahhhmm!~"
+

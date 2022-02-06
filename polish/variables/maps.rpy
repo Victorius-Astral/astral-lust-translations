@@ -1,14 +1,14 @@
-﻿# TODO: Translation updated at 2021-07-11 16:45
+﻿# Translation updated at 2021-07-11 16:45
 
 translate polish strings:
 
     # game/variables/maps.rpy:3
     old "Bedroom"
-    new "Bedroom"
+    new "Sypialnia"
 
     # game/variables/maps.rpy:3
     old "Front Door"
-    new "Front Door"
+    new "Przednie Drzwi"
 
     # game/variables/maps.rpy:3
     old "Lobby"
@@ -16,47 +16,47 @@ translate polish strings:
 
     # game/variables/maps.rpy:3
     old "Library"
-    new "Library"
+    new "Biblioteka"
 
     # game/variables/maps.rpy:3
     old "Second Floor"
-    new "Second Floor"
+    new "Pierwsze Piętro"
 
     # game/variables/maps.rpy:3
     old "Alice Room"
-    new "Alice Room"
+    new "Pokój Alice"
 
     # game/variables/maps.rpy:3
     old "Grace Room"
-    new "Grace Room"
+    new "Pokój Grace"
 
     # game/variables/maps.rpy:3
     old "Lexi & Mina Room"
-    new "Lexi & Mina Room"
+    new "Pokój Lexi & Miny"
 
     # game/variables/maps.rpy:3
     old "Third Floor"
-    new "Third Floor"
+    new "Drugie Piętro"
 
     # game/variables/maps.rpy:3
     old "Savenia Room"
-    new "Savenia Room"
+    new "Pokój Saveni"
 
     # game/variables/maps.rpy:3
     old "Kitchen"
-    new "Kitchen"
+    new "Kuchnia"
 
     # game/variables/maps.rpy:3
     old "Toilet"
-    new "Toilet"
+    new "Łazienka"
 
     # game/variables/maps.rpy:3
     old "First Floor"
-    new "First Floor"
+    new "Parter"
 
     # game/variables/maps.rpy:42
     old "Main Square"
-    new "Main Square"
+    new "Plac Główny"
 
     # game/variables/maps.rpy:42
     old "Motel"
@@ -64,9 +64,8 @@ translate polish strings:
 
     # game/variables/maps.rpy:42
     old "Lola Room"
-    new "Lola Room"
+    new "Pokój Loli"
 
     # game/variables/maps.rpy:42
     old "Hotel"
     new "Hotel"
-

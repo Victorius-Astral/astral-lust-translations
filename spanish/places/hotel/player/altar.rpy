@@ -28,7 +28,7 @@ translate spanish room_player_altar_fac33955:
 translate spanish room_player_altar_02089ca2:
 
     # me "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar."
-    me "Buscador de Sbiduría, Ojo de Secretos, Guardián del Conocimiento de Asthar ."
+    me "Buscador de Sabiduría, Ojo de Secretos, Guardián del Conocimiento de Asthar."
 
 # game/places/hotel/player/altar.rpy:32
 translate spanish room_player_altar_365931bb:
@@ -107,7 +107,7 @@ translate spanish strings:
 translate spanish room_player_altar_kiara_da7c91f7:
 
     # me "What did I want to say?"
-    me "What did I want to say?"
+    me "¿Qué he querido decir?"
 
 # game/places/hotel/player/altar.rpy:44
 translate spanish room_player_altar_kiara_3820771a:
@@ -119,35 +119,34 @@ translate spanish room_player_altar_kiara_3820771a:
 translate spanish room_player_altar_kiara_1228f336:
 
     # me "Weird..."
-    me "Weird..."
+    me "Raro..."
 
 # game/places/hotel/player/altar.rpy:56
 translate spanish room_player_altar_kiara_97991f8f:
 
     # "There is no response."
-    "There is no response."
+    "No hay respuesta."
 
 # game/places/hotel/player/altar.rpy:57
 translate spanish room_player_altar_kiara_fac33955:
 
     # me "Perhaps I should wait more. I hope she's alright."
-    me "Perhaps I should wait more. I hope she's alright."
+    me "Quizás debería esperar más. Espero que esté bien."
 
 # game/places/hotel/player/altar.rpy:61
 translate spanish room_player_altar_kiara_02089ca2:
 
     # me "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar."
-    me "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar."
+    me "Buscador de Sabiduría, Ojo de Secretos, Guardián del Conocimiento de Asthar."
 
 # game/places/hotel/player/altar.rpy:62
 translate spanish room_player_altar_kiara_365931bb:
 
     # me "Open the gates to your kingdom."
-    me "Open the gates to your kingdom."
+    me "Abre las puertas a tu reino."
 
 # game/places/hotel/player/altar.rpy:64
 translate spanish room_player_altar_kiara_97991f8f_1:
 
     # "There is no response."
-    "There is no response."
-
+    "No hay respuesta."

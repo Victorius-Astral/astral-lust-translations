@@ -196,7 +196,7 @@ translate spanish lexi_2_1a_d7760fc7:
 translate spanish lexi_2_1a_9e409cd0:
 
     # lexi "I don't to talk about it."
-    lexi "No quiero hablar al respecto."
+    lexi "No quiero hablar sobre eso."
 
 # game/characters/lexi/ev_2.rpy:70
 translate spanish lexi_2_1a_db7acf4b:
@@ -443,3 +443,34 @@ translate spanish strings:
     # game/characters/lexi/ev_2.rpy:84
     old "I'll take care of her if something happens"
     new "Me encargaré de ella si algo sucede"
+# TODO: Translation updated at 2022-01-29 20:12
+
+# game/characters/lexi/ev_2.rpy:46
+translate spanish lexi_2_1_6e998f81_1:
+
+    # "You answer with a straight face."
+    "Respondes con una cara seria."
+
+# game/characters/lexi/ev_2.rpy:68
+translate spanish lexi_2_1a_818dc10f:
+
+    # lexi "I don't want to talk about it."
+    lexi "No quiero hablar sobre eso."
+
+# game/characters/lexi/ev_2.rpy:80
+translate spanish lexi_2_1a_215b0feb:
+
+    # lexi "She goes out sometimes, but not much. I don't want her to take risks."
+    lexi "Ella sale a veces, pero no mucho. No quiero que se arriesgue."
+
+# game/characters/lexi/ev_2.rpy:121
+translate spanish lexi_2_2_6c166f21:
+
+    # "A family of three lies bathed in their own blood in the middle of the room. The mother is naked, you can imagine why. [lexi] quickly checks their bodies."
+    "A family of three lies bathed in their own blood in the middle of the room. The mother is naked, you can imagine why. [lexi] quickly checks their bodies."
+
+translate spanish strings:
+
+    # game/characters/lexi/ev_2.rpy:67
+    old "She doesn't want to talk about her parents."
+    new "She doesn't want to talk about her parents."

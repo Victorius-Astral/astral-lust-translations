@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# Translation updated at 2021-05-12 10:09
 
 translate polish strings:
 
@@ -41,10 +41,6 @@ translate polish strings:
     # game/variables/replays.rpy:3
     old "Talk about outfits"
     new "Rozmowa o Strojach"
-
-    # game/variables/replays.rpy:3
-    old "Night Cuddler"
-    new "Nocny Przytulacz"
 
     # game/variables/replays.rpy:3
     old "Shower"
@@ -325,13 +321,14 @@ translate polish strings:
     # game/variables/replays.rpy:173
     old "Wanderers"
     new "Wędrowcy"
-# TODO: Translation updated at 2021-05-17 12:54
+
+# Translation updated at 2021-05-17 12:54
 
 translate polish strings:
 
     # game/variables/replays.rpy:3
     old "Exploration - Sex Shop"
-    new "Eksploracja - Sex Shop"
+    new "Eksploracja - Sklep Erotyczny"
 
     # game/variables/replays.rpy:56
     old "First Exploration"
@@ -368,67 +365,231 @@ translate polish strings:
     # game/variables/replays.rpy:167
     old "Secret"
     new "Sekrety"
-# TODO: Translation updated at 2021-07-11 16:45
+
+# Translation updated at 2021-07-11 16:45
 
 translate polish strings:
 
     # game/variables/replays.rpy:3
     old "Night Cuddler part 1"
-    new "Night Cuddler part 1"
+    new "Nocny Przytulacz część 1"
 
     # game/variables/replays.rpy:3
     old "Night Cuddler part 2"
-    new "Night Cuddler part 2"
-
-    # game/variables/replays.rpy:3
-    old "Horse Ridding Lessons"
-    new "Horse Ridding Lessons"
+    new "Nocny Przytulacz część 2"
 
     # game/variables/replays.rpy:36
     old "Lonely Mina (Friend)"
-    new "Lonely Mina (Friend)"
+    new "Samotna Mina (Przyjaźń)"
 
     # game/variables/replays.rpy:36
     old "Lonely Mina (Love)"
-    new "Lonely Mina (Love)"
-
-    # game/variables/replays.rpy:62
-    old "Agorafobia"
-    new "Agorafobia"
+    new "Samotna Mina (Miłość)"
 
     # game/variables/replays.rpy:62
     old "Trouble in the Paradise"
-    new "Trouble in the Paradise"
+    new "Kłopoty w Raju"
 
     # game/variables/replays.rpy:82
     old "Aharon's Call"
-    new "Aharon's Call"
+    new "Wezwanie Aharona"
 
     # game/variables/replays.rpy:98
     old "Playing Home"
-    new "Playing Home"
+    new "Gra w Dom"
 
     # game/variables/replays.rpy:118
     old "Accident"
-    new "Accident"
+    new "Wypadek"
 
     # game/variables/replays.rpy:118
     old "Meeting Girls"
-    new "Meeting Girls"
+    new "Spotkanie Dziewczyn"
 
     # game/variables/replays.rpy:148
     old "Treasure Hunt"
-    new "Treasure Hunt"
+    new "Poszukiwanie Skarbów"
 
     # game/variables/replays.rpy:180
     old "Ending - Author"
-    new "Ending - Author"
+    new "Zakończenie - Autor"
 
     # game/variables/replays.rpy:180
     old "Ending - Loss of Control"
-    new "Ending - Loss of Control"
+    new "Zakończenie - Utrata Kontroli"
 
     # game/variables/replays.rpy:180
     old "Ending - Corrupted"
-    new "Ending - Corrupted"
+    new "Zakończenie - Skorumpowany"
 
+# Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/variables/replays.rpy:30
+    old "Talk About Outfits"
+    new "Rozmowa o Strojach"
+
+    # game/variables/replays.rpy:30
+    old "Horse Riding Lessons"
+    new "Nauka Jazdy Konnej"
+
+    # game/variables/replays.rpy:89
+    old "Agoraphobia"
+    new "Agoraphobia"
+
+    # game/variables/replays.rpy:89
+    old "Trouble at the Market"
+    new "Problemy w Markecie"
+
+    # game/variables/replays.rpy:111
+    old "Past Lives part 1"
+    new "Poprzednie Życia część 1"
+
+    # game/variables/replays.rpy:130
+    old "Play House"
+    new "Gra w Dom"
+
+    # game/variables/replays.rpy:151
+    old "Spider Problem"
+    new "Problem z Pająkami"
+
+    # game/variables/replays.rpy:151
+    old "Returning Her Bike"
+    new "Zwrócenie jej Motocyklu"
+
+    # game/variables/replays.rpy:151
+    old "Leaving for Home"
+    new "Odejście do Domu"
+
+    # game/variables/replays.rpy:151
+    old "What has gotten into her?"
+    new "Co w nią weszło?"
+
+    # game/variables/replays.rpy:168
+    old "Life with Alice"
+    new "Życie z Alice"
+
+    # game/variables/replays.rpy:188
+    old "Bandits - Assault"
+    new "Bandyci - Atak"
+
+    # game/variables/replays.rpy:188
+    old "Midnight Kiss"
+    new "Pocałunek o Północy"
+
+    # game/variables/replays.rpy:188
+    old "Damsel in Distress - Soldier"
+    new "Dama w Opałach - Żołnierz"
+
+    # game/variables/replays.rpy:188
+    old "Damsel in Distress - Bimbo"
+    new "Dama w Opałach - Idiotka"
+
+    # game/variables/replays.rpy:188
+    old "Damsel in Distress - Brunette"
+    new "Dama w Opałach - Brunetka"
+
+    # game/variables/replays.rpy:188
+    old "Damsel in Distress - Devotee"
+    new "Dama w Opałach - Dewotka"
+
+    # game/variables/replays.rpy:188
+    old "Damsel in Distress - Milf"
+    new "Dama w Opałach - Milf"
+
+    # game/variables/replays.rpy:188
+    old "Damsel in Distress - Pregnant"
+    new "Dama w Opałach - w Ciąży"
+
+    # game/variables/replays.rpy:188
+    old "Damsel in Distress - Bandit"
+    new "Dama w Opałach - Bandyta"
+
+    # game/variables/replays.rpy:188
+    old "Injured Dragon"
+    new "Ranny Smok"
+
+    # game/variables/replays.rpy:188
+    old "Chased Trader's Daughter"
+    new "Pościg za Córką Handlarza"
+
+    # game/variables/replays.rpy:230
+    old "Ending - Assault on Grace"
+    new "Zakończenie - Atak na Grace"
+
+    # game/variables/replays.rpy:230
+    old "Christmas - The Beginning"
+    new "Boże Narodzenie - Początek"
+
+    # game/variables/replays.rpy:230
+    old "Christmas - Deer Gracie"
+    new "Boże Narodzenie - Reniferek Gracie"
+
+    # game/variables/replays.rpy:230
+    old "Christmas - Santa Lexi"
+    new "Boże Narodzenie - Święta Lexi"
+
+    # game/variables/replays.rpy:230
+    old "Christmas - Kitty"
+    new "Boże Narodzenie - Kotek"
+
+    # game/variables/replays.rpy:230
+    old "Christmas - Alice the Christmas Elf"
+    new "Boże Narodzenie - Alice, Bożonarodzeniowy Elf"
+
+    # game/variables/replays.rpy:230
+    old "Christmas - Sober"
+    new "Boże Narodzenie - Trzeźwość"
+
+    # game/variables/replays.rpy:230
+    old "Christmas - Holy Night"
+    new "Boże Narodzenie - Święta Noc"
+
+    # game/variables/replays.rpy:245
+    old "Fox Hunt"
+    new "Polowanie na Lisy"
+
+    # game/variables/replays.rpy:245
+    old "Building Shrine part 1"
+    new "Budowanie Świątyni część 1"
+
+    # game/variables/replays.rpy:245
+    old "Building Shrine part 2"
+    new "Budowanie Świątyni część 2"
+
+    # game/variables/replays.rpy:245
+    old "Building Shrine part 3"
+    new "Budowanie Świątyni część 3"
+
+    # game/variables/replays.rpy:245
+    old "Building Shrine part 4"
+    new "Budowanie Świątyni część 4"
+
+    # game/variables/replays.rpy:245
+    old "Building Shrine part 5"
+    new "Budowanie Świątyni część 5"
+
+    # game/variables/replays.rpy:245
+    old "Magical Outfit"
+    new "Strój Czarodziejki"
+
+    # game/variables/replays.rpy:245
+    old "The Arrival"
+    new "Przybycie"
+
+    # game/variables/replays.rpy:257
+    old "Surprising Treasure"
+    new "Zaskakujący Skarb"
+
+    # game/variables/replays.rpy:257
+    old "At the Hotel"
+    new "W Hotelu"
+
+    # game/variables/replays.rpy:257
+    old "Tight Fit Outfit"
+    new "Obcisły Strój"
+
+    # game/variables/replays.rpy:257
+    old "Treasure Finder"
+    new "Poszukiwaczka Skarbów"

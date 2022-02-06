@@ -280,3 +280,23 @@ translate polish strings:
     old "Nah"
     new "Nah"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/alice/ev_14.rpy:28
+translate polish alice_14_402f0fee:
+
+    # alice "You've even built a playroom. A fucking playroom, [me]."
+    alice "You've even built a playroom. A fucking playroom, [me]."
+
+# game/characters/alice/ev_14.rpy:33
+translate polish alice_14_754668c5:
+
+    # alice "And the worst part? You didn't invite ME!"
+    alice "And the worst part? You didn't invite ME!"
+
+# game/characters/alice/ev_14.rpy:109
+translate polish alice_14_part2_1e9b6953:
+
+    # me "Then put some trust in me, and close your eyes, don't open them before I tell you to."
+    me "Then put some trust in me, and close your eyes, don't open them before I tell you to."
+

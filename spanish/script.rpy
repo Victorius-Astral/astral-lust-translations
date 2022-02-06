@@ -673,5 +673,60 @@ translate spanish strings:
 
     # game/script.rpy:20
     old "What's your name? ("
-    new "What's your name? ("
+    new "¿Cuál es tu nombre? ("
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/script.rpy:85
+    old "Something terrifying spoke to me, in a language I've never heard before. Its voice alone was enough to take me to the edge of madness."
+    new "Something terrifying spoke to me, in a language I've never heard before. Its voice alone was enough to take me to the edge of madness."
+
+    # game/script.rpy:158
+    old "Monsters wander outside devouring anyone they encounter. For unknown reasons they never enter communities."
+    new "Monsters wander outside devouring anyone they encounter. For unknown reasons they never enter communities."
+
+    # game/script.rpy:203
+    old "Cultists performed a grand ritual to make The End descend."
+    new "Cultists performed a grand ritual to make The End descend."
+
+    # game/script.rpy:214
+    old "Radio doesn't work. Most of humanity is gone, government and army have fallen. There is no salvation and no hope."
+    new "Radio doesn't work. Most of humanity is gone, government and army have fallen. There is no salvation and no hope."
+
+    # game/script.rpy:215
+    old "The remnants of the human race have gathered in communities."
+    new "The remnants of the human race have gathered in communities."
+
+    # game/script.rpy:230
+    old "I have awakened one year after The End broke loose. What happened to me during the past year?"
+    new "I have awakened one year after The End broke loose. What happened to me during the past year?"
+
+    # game/script.rpy:252
+    old "She's the first person I met after awakening, she discovered me sleeping on her sofa."
+    new "She's the first person I met after awakening, she discovered me sleeping on her sofa."
+
+    # game/script.rpy:258
+    old "This is the community I have awakened to. It's inhabited by four girls: Alice, Grace, Lexi and Mina."
+    new "This is the community I have awakened to. It's inhabited by four girls: Alice, Grace, Lexi and Mina."
+
+    # game/script.rpy:288
+    old "While most sites are down, the internet is somehow working."
+    new "While most sites are down, the internet is somehow working."
+
+    # game/script.rpy:292
+    old "Hollow Market"
+    new "Hollow Market"
+
+    # game/script.rpy:292
+    old "It's online shopping service created by Hed the Gamer. They provide express delivery. I can access it from the pc in my room."
+    new "It's online shopping service created by Hed the Gamer. They provide express delivery. I can access it from the pc in my room."
+
+    # game/script.rpy:306
+    old "Cultists are extremely dangerous, much more so than monsters."
+    new "Cultists are extremely dangerous, much more so than monsters."
+
+    # game/script.rpy:312
+    old "She's the scavenger in the Jade Hotel."
+    new "She's the scavenger in the Jade Hotel."

@@ -263,3 +263,11 @@ translate spanish strings:
     # game/characters/grace/ev_1.rpy:12
     old "It's too risky"
     new "Es demasiado arriesgado"
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/grace/ev_1.rpy:71
+    old "This silly girl seems to despise men to the bone. I wonder why?"
+    new "This silly girl seems to despise men to the bone. I wonder why?"
+

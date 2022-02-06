@@ -667,3 +667,62 @@ translate polish strings:
     # game/script.rpy:288
     old "Equipment"
     new "Sprzęt"
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/script.rpy:20
+    old "What's your name? ("
+    new "Jak masz na imię? ("
+
+    # game/script.rpy:85
+    old "Something terrifying spoke to me, in a language I've never heard before. Its voice alone was enough to take me to the edge of madness."
+    new "Coś przerażającego przemówiło do mnie, w języku jakiego nigdy wcześniej nie słyszałem. Sam Tego głos wystarczył by stawić mnie przed granicą szaleństwa."
+
+    # game/script.rpy:158
+    old "Monsters wander outside devouring anyone they encounter. For unknown reasons they never enter communities."
+    new "Potwory wędrują na zewnątrz pożerając każdego kogo napotkają. Z nieznanych powodów potwory nigdy nie atakują społeczności."
+
+    # game/script.rpy:203
+    old "Cultists performed a grand ritual to make The End descend."
+    new "Kultyści sprowadzili Koniec za pomocą wielkiego rytuału."
+
+    # game/script.rpy:214
+    old "Radio doesn't work. Most of humanity is gone, government and army have fallen. There is no salvation and no hope."
+    new "Radio nie działa. Większość ludzkości przepadła, rząd wraz z armią upadły. Nie ma wybawienia, nie ma nadziei."
+
+    # game/script.rpy:215
+    old "The remnants of the human race have gathered in communities."
+    new "Resztki ludzkiej rasy zebrały się w społecznościach."
+
+    # game/script.rpy:230
+    old "I have awakened one year after The End broke loose. What happened to me during the past year?"
+    new "Przebudziłem się rok po początku Końca. Co się ze mną działo przez ten rok?"
+
+    # game/script.rpy:252
+    old "She's the first person I met after awakening, she discovered me sleeping on her sofa."
+    new "Jest pierwszą osobą, którą spotkałem po przebudzeniu. Znalazła mnie śpiącego na jej sofie."
+
+    # game/script.rpy:258
+    old "This is the community I have awakened to. It's inhabited by four girls: Alice, Grace, Lexi and Mina."
+    new "Jest to społeczność, w której się przebudziłem. Mieszkają w niej cztery dziewczyny: Alice, Grace, Lexi oraz Mina."
+
+    # game/script.rpy:288
+    old "While most sites are down, the internet is somehow working."
+    new "Podczas, gdy większość stron znikła, Internet nadal działa."
+
+    # game/script.rpy:292
+    old "Hollow Market"
+    new "Hollow Market"
+
+    # game/script.rpy:292
+    old "It's online shopping service created by Hed the Gamer. They provide express delivery. I can access it from the pc in my room."
+    new "Jest to platforma z zakupami online. Została stworzona przez Heda. Zapewniają nawet szybkie dostawy. Mogę wejść na stronę za pomocą komputera w moim pokoju."
+
+    # game/script.rpy:306
+    old "Cultists are extremely dangerous, much more so than monsters."
+    new "Kultyści są niezmiernie niebezpieczni, o wiele bardziej niż potwory."
+
+    # game/script.rpy:312
+    old "She's the scavenger in the Jade Hotel."
+    new "Jest poszukiwaczem w Jadeitowym Hotelu."

@@ -35,3 +35,11 @@ translate spanish wc_lexi_2e39132c:
 
     # "You leave."
     "Te vas."
+# TODO: Translation updated at 2022-01-29 20:12
+
+# game/characters/lexi/wc.rpy:7
+translate spanish wc_lexi_5a823cce:
+
+    # me "Sorry, I thought it was unoccu-"
+    me "Sorry, I thought it was unoccu-"
+

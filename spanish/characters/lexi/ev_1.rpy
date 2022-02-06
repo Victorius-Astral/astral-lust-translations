@@ -449,3 +449,22 @@ translate spanish strings:
     # game/characters/lexi/ev_1.rpy:60
     old "Run back to the hotel"
     new "Corre devuelta al hotel"
+# TODO: Translation updated at 2022-01-29 20:12
+
+# game/characters/lexi/ev_1.rpy:31
+translate spanish lexi_1_1_8a1ffebc:
+
+    # th "I wonder how bad it is out there. According to [lexi], there's little outside but despair and tragedy."
+    th "Me pregunto qué tan mal está ahí afuera. Según [lexi], afuera hay poco más que desesperación y tragedia."
+
+# game/characters/lexi/ev_1.rpy:152
+translate spanish lexi_1_2_e119c197:
+
+    # me "Yes, I know."
+    me "Sí, lo sé."
+
+translate spanish strings:
+
+    # game/characters/lexi/ev_1.rpy:71
+    old "I encountered a terrifying abomination on my first trip outside, it was gigantic and looked like a lion."
+    new "Me encontré con una abominación aterradora en mi primer viaje al exterior, era gigantesca y parecía un león."

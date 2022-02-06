@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# Translation updated at 2021-05-12 10:09
 
 translate polish strings:
 
@@ -144,7 +144,7 @@ translate polish strings:
 
     # game/variables/items.rpy:4
     old "Quest"
-    new "Zadanie"
+    new "Fabularne"
 
     # game/variables/items.rpy:4
     old "Rose"

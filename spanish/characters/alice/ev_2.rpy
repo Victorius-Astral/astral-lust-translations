@@ -391,3 +391,10 @@ translate spanish strings:
     # game/characters/alice/ev_2.rpy:25
     old "I won't play your games"
     new "No jugaré tus juegos"
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/alice/ev_2.rpy:84
+    old "Toying with me seems to be her hobby."
+    new "Jugar conmigo parece ser su pasatiempo."

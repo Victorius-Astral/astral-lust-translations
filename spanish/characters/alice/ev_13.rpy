@@ -4,67 +4,67 @@
 translate spanish alice_13_61660bd0:
 
     # me "[alice]?"
-    me "[alice]?"
+    me "¿[alice]?"
 
 # game/characters/alice/ev_13.rpy:5
 translate spanish alice_13_690ef4ae:
 
     # alice "Mm?"
-    alice "Mm?"
+    alice "¿Mm?"
 
 # game/characters/alice/ev_13.rpy:6
 translate spanish alice_13_8f437618:
 
     # me "What are you doing here, again?"
-    me "What are you doing here, again?"
+    me "¿Qué estás haciendo aquí, otra vez?"
 
 # game/characters/alice/ev_13.rpy:9
 translate spanish alice_13_62e0407e:
 
     # alice "I'm trying to sleep, but it's hard with how chatty you are."
-    alice "I'm trying to sleep, but it's hard with how chatty you are."
+    alice "Estoy tratando de dormir, pero es difícil con lo hablador que estás."
 
 # game/characters/alice/ev_13.rpy:10
 translate spanish alice_13_fdb67b12:
 
     # me "You know what I mean."
-    me "You know what I mean."
+    me "Sabes lo que quiero decir."
 
 # game/characters/alice/ev_13.rpy:13
 translate spanish alice_13_0afbcd02:
 
     # alice "Ah.."
-    alice "Ah.."
+    alice "Ah..."
 
 # game/characters/alice/ev_13.rpy:16
 translate spanish alice_13_c4a7f2e0:
 
     # alice "You piss me off. Like, a loooot."
-    alice "You piss me off. Like, a loooot."
+    alice "Me haces enojar. Como, un tantíiiisimo."
 
 # game/characters/alice/ev_13.rpy:17
 translate spanish alice_13_a6a79e45:
 
     # me "What did I do?"
-    me "What did I do?"
+    me "¿Qué hice?"
 
 # game/characters/alice/ev_13.rpy:20
 translate spanish alice_13_f3757095:
 
     # alice "I can't get you out of my head!"
-    alice "I can't get you out of my head!"
+    alice "¡No puedo sacarte de mi cabeza!"
 
 # game/characters/alice/ev_13.rpy:23
 translate spanish alice_13_bed4ee9f:
 
     # me "Oh? Nice!"
-    me "Oh? Nice!"
+    me "¿Oh? ¡Qué bueno!"
 
 # game/characters/alice/ev_13.rpy:26
 translate spanish alice_13_df5824a2:
 
     # alice "Nice your ass!"
-    alice "Nice your ass!"
+    alice "¡Bueno será tu culo!"
 
 # game/characters/alice/ev_13.rpy:27
 translate spanish alice_13_752ffc6a:
@@ -239,4 +239,3 @@ translate spanish strings:
     # game/characters/alice/ev_13.rpy:67
     old "I love you"
     new "I love you"
-

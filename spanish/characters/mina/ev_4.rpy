@@ -220,7 +220,7 @@ translate spanish mina_4_menu_1e2308b3:
 translate spanish mina_4_menu_d7eb679f:
 
     # me "No of course not! I was just thinking that I want to get you a gift."
-    me "¡No, claro que no! Solo estaba pensando que quiero conseguirte un regalo..."
+    me "¡No, claro que no! Solo estaba pensando que quiero conseguirte un regalo."
 
 # game/characters/mina/ev_4.rpy:79
 translate spanish mina_4_menu_74e61066:
@@ -1399,3 +1399,126 @@ translate spanish strings:
     # game/characters/mina/ev_4.rpy:288
     old "What would you do if you could do anything."
     new "Qué harías si pudieras hacer lo que sea?"
+# TODO: Translation updated at 2022-01-29 20:12
+
+# game/characters/mina/ev_4.rpy:18
+translate spanish mina_4_52945ecd:
+
+    # me "Listen, I know that you like her but-"
+    me "Listen, I know that you like her but-"
+
+# game/characters/mina/ev_4.rpy:56
+translate spanish mina_4_1_d62897e3:
+
+    # "[mina] appears conflicted over your words, but doesn't stop you."
+    "[mina] appears conflicted over your words, but doesn't stop you."
+
+# game/characters/mina/ev_4.rpy:66
+translate spanish mina_4_1_b0ae4082:
+
+    # me "The world isn't like it used to be. What's acceptable now may not necessarily be the same as before. Don't you think so?"
+    me "The world isn't like it used to be. What's acceptable now may not necessarily be the same as before. Don't you think so?"
+
+# game/characters/mina/ev_4.rpy:69
+translate spanish mina_4_1_750fe1df:
+
+    # th "It seems it's still not enough to fully convince her. I need to think of something else."
+    th "It seems it's still not enough to fully convince her. I need to think of something else."
+
+# game/characters/mina/ev_4.rpy:77
+translate spanish mina_4_menu_9d67819a:
+
+    # me "No, of course not! I was just thinking that I want to get you a gift."
+    me "No, of course not! I was just thinking that I want to get you a gift."
+
+# game/characters/mina/ev_4.rpy:109
+translate spanish mina_4_2_359cc6e5:
+
+    # me "Probably exactly what you're imagining. Maybe more."
+    me "Probably exactly what you're imagining. Maybe more."
+
+# game/characters/mina/ev_4.rpy:143
+translate spanish mina_4_3_8bbc53ed:
+
+    # me "You go get Mina and meet me in my room. I'll get the bottle."
+    me "You go get Mina and meet me in my room. I'll get the bottle."
+
+# game/characters/mina/ev_4.rpy:148
+translate spanish mina_4_3_1595ccd4:
+
+    # me "Who wants to st-"
+    me "Who wants to st-"
+
+# game/characters/mina/ev_4.rpy:261
+translate spanish mina_4_3_b98323a8:
+
+    # alice "Didn't expect that."
+    alice "Didn't expect that."
+
+# game/characters/mina/ev_4.rpy:287
+translate spanish mina_4_4_388c0ece:
+
+    # th "Not funny [mina]. Not funny."
+    th "Not funny [mina]. Not funny."
+
+# game/characters/mina/ev_4.rpy:293
+translate spanish mina_4_4_4b13dda3:
+
+    # mina "N-No, never.."
+    mina "N-No, never.."
+
+# game/characters/mina/ev_4.rpy:295
+translate spanish mina_4_4_122deea0:
+
+    # "[alice] seems surprised by this revelation, and you're a little shocked too. Even straight girls experiment sometimes."
+    "[alice] seems surprised by this revelation, and you're a little shocked too. Even straight girls experiment sometimes."
+
+# game/characters/mina/ev_4.rpy:322
+translate spanish mina_4_4_fef53613:
+
+    # alice "Mina, your turn!"
+    alice "Mina, your turn!"
+
+# game/characters/mina/ev_4.rpy:365
+translate spanish mina_4_5_b20b6cfe:
+
+    # "Although [mina]'s expression didn't change, you notice that her cheeks burn bright red."
+    "Although [mina]'s expression didn't change, you notice that her cheeks burn bright red."
+
+# game/characters/mina/ev_4.rpy:396
+translate spanish mina_4_5_a71a0273:
+
+    # th "What the.. [mina], I'm as straight as the dick in my pants looking at you right now.. I probably shouldn't word it that way, though."
+    th "What the.. [mina], I'm as straight as the dick in my pants looking at you right now.. I probably shouldn't word it that way, though."
+
+# game/characters/mina/ev_4.rpy:404
+translate spanish mina_4_5_019bd554:
+
+    # "[mina] seems really happy about this revelation, as if she found some kind of support in you."
+    "[mina] seems really happy about this revelation, as if she found some kind of support in you."
+
+# game/characters/mina/ev_4.rpy:447
+translate spanish mina_4_6_83874159:
+
+    # th "Hmm, I promised [mina] that I'd help her with [alice], so I can't waste this opportunity."
+    th "Hmm, I promised [mina] that I'd help her with [alice], so I can't waste this opportunity."
+
+# game/characters/mina/ev_4.rpy:448
+translate spanish mina_4_6_4f7ec574:
+
+    # me "Make out with Mina."
+    me "Make out with Mina."
+
+translate spanish strings:
+
+    # game/characters/mina/ev_4.rpy:23
+    old "She knows about me dating both Alice and Lexi."
+    new "She knows about me dating both Alice and Lexi."
+
+    # game/characters/mina/ev_4.rpy:126
+    old "To make her accept me double dating Lexi and Alice I promised her I would aid her with Alice."
+    new "To make her accept me double dating Lexi and Alice I promised her I would aid her with Alice."
+
+    # game/characters/mina/ev_4.rpy:288
+    old "What would you do if you could do anything?"
+    new "What would you do if you could do anything?"

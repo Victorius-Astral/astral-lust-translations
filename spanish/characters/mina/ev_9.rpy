@@ -524,3 +524,11 @@ translate spanish strings:
     old "Not at all"
     new "Not at all"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/mina/ev_9.rpy:163
+    old "She wanted to sleep with me saying I make her feel secure. I promised her I would welcome her again."
+    new "She wanted to sleep with me saying I make her feel secure. I promised her I would welcome her again."
+

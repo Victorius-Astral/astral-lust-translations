@@ -51,29 +51,28 @@ translate spanish strings:
 
     # game/screens/settings/video.rpy:18
     old "Power Save Mode"
-    new "Power Save Mode"
+    new "Modo de Ahorro de Energía"
 
     # game/screens/settings/video.rpy:28
     old "Frame Skip"
-    new "Frame Skip"
+    new "Saltar Fotograma"
 
     # game/screens/settings/video.rpy:66
     old "Image cache size: [persistent.cache_size]MB RAM.\nDefault 1000, consider increasing to 2000 if using 4K version."
-    new "Image cache size: [persistent.cache_size]MB RAM.\nDefault 1000, consider increasing to 2000 if using 4K version."
+    new "Tamaño de caché de imagen: [persistent.cache_size]MB RAM.\n1000 de defecto, considere aumentar a 2000 si usa la versión 4K."
 
     # game/screens/settings/video.rpy:67
     old "Can store {images} full screen images."
-    new "Can store {images} full screen images."
+    new "Puede almacenar {images} imágenes de pantalla completa."
 
     # game/screens/settings/video.rpy:70
     old "Image cache size: [persistent.cache_size]MB RAM, [persistent.cache_size]MB GRAM.\nDefault 1000, consider increasing to 2000 if using 4K version."
-    new "Image cache size: [persistent.cache_size]MB RAM, [persistent.cache_size]MB GRAM.\nDefault 1000, consider increasing to 2000 if using 4K version."
+    new "Tamaño de caché de imagen: [persistent.cache_size]MB RAM, [persistent.cache_size]MB GRAM.\n1000 de defecto, considere aumentar a 2000 si usa la versión 4K."
 
     # game/screens/settings/video.rpy:73
     old "\nIf set too large, this can waste memory. In most cases waste of memory is {b}NOT{/b} a problem\nIf set too small, images can be repeatedly loaded, hurting performance."
-    new "\nIf set too large, this can waste memory. In most cases waste of memory is {b}NOT{/b} a problem\nIf set too small, images can be repeatedly loaded, hurting performance."
+    new "\nSi el valor es demasiado alto, puede desperdiciar memoria. En la mayoría de los casos {b}NO{/b} es un problema\nSi el valor es demasiado bajo, las imágenes pueden cargarse repetidamente, lo que perjudica el rendimiento."
 
     # game/screens/settings/video.rpy:74
     old "\nNeeds restart."
-    new "\nNeeds restart."
-
+    new "\nNecesita reinicio."

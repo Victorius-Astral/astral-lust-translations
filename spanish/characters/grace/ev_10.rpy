@@ -668,3 +668,11 @@ translate spanish strings:
     old "No, she'll be back"
     new "No, she'll be back"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/grace/ev_10.rpy:77
+    old "Secret found! Victorius is pleased. +50% vault space multiplier!"
+    new "Secret found! Victorius is pleased. +50% vault space multiplier!"
+

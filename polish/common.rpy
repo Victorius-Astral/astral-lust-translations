@@ -1129,3 +1129,22 @@ translate polish strings:
     # renpy/common/_errorhandling.rpym:694
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Kopiuje errors.txt do schowka jako Markdown dla Discorda."
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # renpy/common/00accessibility.rpy:180
+    old "High Contrast Text"
+    new "Tekst z Wysokim Kontrastem"
+
+    # renpy/common/00preferences.rpy:487
+    old "renderer menu"
+    new "menu renderera"
+
+    # renpy/common/00preferences.rpy:490
+    old "accessibility menu"
+    new "menu dostępu"
+
+    # renpy/common/00preferences.rpy:493
+    old "high contrast text"
+    new "tekst z wysokim kontrastem"

@@ -154,3 +154,17 @@ translate polish strings:
     old "Aharon! [[Aharon]"
     new "Aharon! [[Aharon]"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/events/endings/autor.rpy:20
+translate polish end_author_31573d51:
+
+    # "Forget this name. You had never heard of it before."
+    "Forget this name. You had never heard of it before."
+
+translate polish strings:
+
+    # game/events/endings/autor.rpy:36
+    old "Card 'Aharon' destroyed!"
+    new "Card 'Aharon' destroyed!"
+

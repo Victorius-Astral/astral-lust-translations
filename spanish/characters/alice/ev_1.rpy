@@ -327,3 +327,10 @@ translate spanish strings:
     # game/characters/alice/ev_1.rpy:46
     old "Wait"
     new "Espera"
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/alice/ev_1.rpy:117
+    old "When I first encountered her, she was masturbating. She caught me, but instead of making a fuss over it she told me I owe her a favor. She seems mischievous and clever, A dangerous combination."
+    new "Cuando la conocí por primera vez, se estaba masturbando. Me atrapó, pero en vez de armar un alboroto me dijo que le debo un favor. Parece traviesa e inteligente, una combinación peligrosa."

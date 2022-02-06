@@ -452,3 +452,11 @@ translate spanish lexi_7_3_904e899a:
     # "You have managed to defeat the monster."
     "You have managed to defeat the monster."
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/lexi/ev_7.rpy:130
+    old "Most monsters are territorial, it's rare to see two beasts close to one another, they would typically eliminate anything that enters their territory."
+    new "Most monsters are territorial, it's rare to see two beasts close to one another, they would typically eliminate anything that enters their territory."
+

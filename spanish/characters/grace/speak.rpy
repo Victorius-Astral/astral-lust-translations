@@ -1458,3 +1458,15 @@ translate spanish strings:
     old "Cook a dinner (Duration: [graceTasks.cookDiner.duration]) {vit}(Health+){/vit}{trust}(Buff+){/trust} {#visible}"
     new "Cook a dinner (Duration: [graceTasks.cookDiner.duration]) {vit}(Health+){/vit}{trust}(Buff+){/trust} {#visible}"
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/grace/speak.rpy:324
+    old "She is the maid at the Jade Hotel. She cooks and cleans."
+    new "She is the maid at the Jade Hotel. She cooks and cleans."
+
+    # game/characters/grace/speak.rpy:366
+    old "She is 21 years old."
+    new "She is 21 years old."
+

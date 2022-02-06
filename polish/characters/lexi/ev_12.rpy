@@ -858,3 +858,203 @@ translate polish strings:
     old "I can't promise this."
     new "I can't promise this."
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+# game/characters/lexi/ev_12.rpy:24
+translate polish lexi_12_123ee7fe:
+
+    # me "Too sudden?"
+    me "Too sudden?"
+
+# game/characters/lexi/ev_12.rpy:33
+translate polish lexi_12_5e95bdcf:
+
+    # lexi "It felt nice for some time, and fun too, but it was also painful."
+    lexi "It felt nice for some time, and fun too, but it was also painful."
+
+# game/characters/lexi/ev_12.rpy:40
+translate polish lexi_12_4966d1ee:
+
+    # lexi "It's not about that. Before The End I would never think of doing stuff like that; I feel I've changed, I'm no longer myself.."
+    lexi "It's not about that. Before The End I would never think of doing stuff like that; I feel I've changed, I'm no longer myself.."
+
+# game/characters/lexi/ev_12.rpy:48
+translate polish lexi_12_58e2035e:
+
+    # me "Yet you still stand strong. This just shows how amazing you are."
+    me "Yet you still stand strong. This just shows how amazing you are."
+
+# game/characters/lexi/ev_12.rpy:54
+translate polish lexi_12_8582c23a:
+
+    # me "I don't care anymore about that. I just want you to feel better."
+    me "I don't care anymore about that. I just want you to feel better."
+
+# game/characters/lexi/ev_12.rpy:59
+translate polish lexi_12_1c04ddf4:
+
+    # lexi "It's alright, [me]. I'll get over it. It's not like you hurt me or anything. We just did what we wanted to do."
+    lexi "It's alright, [me]. I'll get over it. It's not like you hurt me or anything. We just did what we wanted to do."
+
+# game/characters/lexi/ev_12.rpy:87
+translate polish lexi_12_7d321906:
+
+    # me "Have you ever had an orgasm?"
+    me "Have you ever had an orgasm?"
+
+# game/characters/lexi/ev_12.rpy:93
+translate polish lexi_12_6e436213:
+
+    # lexi "No.. I haven't.."
+    lexi "No.. I haven't.."
+
+# game/characters/lexi/ev_12.rpy:94
+translate polish lexi_12_dc12af9a:
+
+    # me "Really? You never masturbate?"
+    me "Really? You never masturbate?"
+
+# game/characters/lexi/ev_12.rpy:96
+translate polish lexi_12_92ebf4ad:
+
+    # me "Hey, don't look at me like that, and let's do cunnilingus."
+    me "Hey, don't look at me like that, and let's do cunnilingus."
+
+# game/characters/lexi/ev_12.rpy:98
+translate polish lexi_12_71f25179:
+
+    # me "Cunnilingus. It's like a blowjob but reversed. I'll lick you till you cum, how about it?"
+    me "Cunnilingus. It's like a blowjob but reversed. I'll lick you till you cum, how about it?"
+
+# game/characters/lexi/ev_12.rpy:103
+translate polish lexi_12_3d322e60:
+
+    # lexi "So, it's still about getting into my panties.."
+    lexi "So, it's still about getting into my panties.."
+
+# game/characters/lexi/ev_12.rpy:112
+translate polish lexi_12_76810949:
+
+    # me "I promise you that you'll feel better than ever before, trust me."
+    me "I promise you that you'll feel better than ever before, trust me."
+
+# game/characters/lexi/ev_12.rpy:117
+translate polish lexi_12_1346edbd:
+
+    # lexi "Will it make you happy, if I agree?"
+    lexi "Will it make you happy, if I agree?"
+
+# game/characters/lexi/ev_12.rpy:118
+translate polish lexi_12_9ecbff03:
+
+    # me "What, it's you who I want to make happy!"
+    me "What, it's you who I want to make happy!"
+
+# game/characters/lexi/ev_12.rpy:123
+translate polish lexi_12_0e4fa930:
+
+    # lexi "It's not that I doubt in your good intentions, but.. Well, I totally doubt them."
+    lexi "It's not that I doubt in your good intentions, but.. Well, I totally doubt them."
+
+# game/characters/lexi/ev_12.rpy:129
+translate polish lexi_12_7d3cd777:
+
+    # lexi "Then, do you want to explain what is between you and Alice?"
+    lexi "Then, do you want to explain what is between you and Alice?"
+
+# game/characters/lexi/ev_12.rpy:142
+translate polish lexi_12_9fac199e:
+
+    # lexi "I'm not stupid, these walls are not thick, and I have heard Alice screaming your name more than once.."
+    lexi "I'm not stupid, these walls are not thick, and I have heard Alice screaming your name more than once.."
+
+# game/characters/lexi/ev_12.rpy:167
+translate polish lexi_12_54a74ffb:
+
+    # lexi "I want you to show me, what is it that makes her scream your name."
+    lexi "I want you to show me, what is it that makes her scream your name."
+
+# game/characters/lexi/ev_12.rpy:169
+translate polish lexi_12_77a73dda:
+
+    # lexi "Can I not be?"
+    lexi "Can I not be?"
+
+# game/characters/lexi/ev_12.rpy:171
+translate polish lexi_12_4e174540:
+
+    # th "What to do now.. Man, this is fucked up.."
+    th "What to do now.. Man, this is fucked up.."
+
+# game/characters/lexi/ev_12.rpy:179
+translate polish lexi_12_22db0ae5:
+
+    # lexi "Then, why won't you do this? It was your idea after all."
+    lexi "Then, why won't you do this? It was your idea after all."
+
+# game/characters/lexi/ev_12.rpy:188
+translate polish lexi_12_3ba0645b:
+
+    # lexi "I had my suspicions, but I didn't want to accept it, so I pretended to know nothing, but I can't do that anymore.."
+    lexi "I had my suspicions, but I didn't want to accept it, so I pretended to know nothing, but I can't do that anymore.."
+
+# game/characters/lexi/ev_12.rpy:195
+translate polish lexi_12_033a94e9:
+
+    # lexi "We had sex, nothing is going to change it. You have a thing with Alice at the same time... You had it when we had sex.."
+    lexi "We had sex, nothing is going to change it. You have a thing with Alice at the same time... You had it when we had sex.."
+
+# game/characters/lexi/ev_12.rpy:202
+translate polish lexi_12_a609d9fc:
+
+    # lexi "I'm so... fucked up.."
+    lexi "I'm so... fucked up.."
+
+# game/characters/lexi/ev_12.rpy:225
+translate polish lexi_12_87883b7d:
+
+    # lexi "My hero. Such bullshitting skill is almost legendary..."
+    lexi "My hero. Such bullshitting skill is almost legendary..."
+
+# game/characters/lexi/ev_12.rpy:237
+translate polish lexi_12_0e8775bd:
+
+    # lexi "So, now you're trying to make it sound like you do us a favor?"
+    lexi "So, now you're trying to make it sound like you do us a favor?"
+
+# game/characters/lexi/ev_12.rpy:247
+translate polish lexi_12_9519c3ac:
+
+    # lexi "Yeah... Wait! No.."
+    lexi "Yeah... Wait! No.."
+
+# game/characters/lexi/ev_12.rpy:284
+translate polish lexi_12_a6edef69:
+
+    # me "My word is my bond."
+    me "My word is my bond."
+
+# game/characters/lexi/ev_12.rpy:291
+translate polish lexi_12_47640aa4:
+
+    # lexi "Yes, I would rather live in a happiness built on a lie, than to despair."
+    lexi "Yes, I would rather live in a happiness built on a lie, than to despair."
+
+# game/characters/lexi/ev_12.rpy:298
+translate polish lexi_12_97c22871:
+
+    # lexi "Yeah, cunnilingus, that's a weird word, by the way."
+    lexi "Yeah, cunnilingus, that's a weird word, by the way."
+
+# game/characters/lexi/ev_12.rpy:307
+translate polish lexi_12_d1324e76:
+
+    # me "This place is too small, I can't promise you anything like that."
+    me "This place is too small, I can't promise you anything like that."
+
+# game/characters/lexi/ev_12.rpy:324
+translate polish lexi_12_1f8bd74b:
+
+    # me "So, can you accept it?"
+    me "So, can you accept it?"
+

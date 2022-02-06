@@ -12,9 +12,16 @@ translate spanish strings:
 
     # game/screens/menus/girls/grace.rpy:39
     old "• Handjob: "
-    new "• Handjob: "
+    new "• Con manos: "
 
     # game/screens/menus/girls/grace.rpy:41
     old "• Thighjob: "
-    new "• Thighjob: "
+    new "• Con muslos: "
 
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/screens/menus/girls/grace.rpy:23
+    old "Nicknames: Gracie"
+    new "Nicknames: Gracie"

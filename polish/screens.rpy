@@ -364,3 +364,14 @@ translate polish strings:
     old "\n\nMusic: {a=https://www.bensound.com}www.bensound.com{/a}, {a=https://www.zapsplat.com}www.zapsplat.com{/a}, An Innermost Glow by The Longshore Striders"
     new "\n\nMusic: {a=https://www.bensound.com}www.bensound.com{/a}, {a=https://www.zapsplat.com}www.zapsplat.com{/a}, An Innermost Glow by The Longshore Striders"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/screens.rpy:423
+    old "Resume"
+    new "Wznów"
+
+    # game/screens.rpy:806
+    old "Mods"
+    new "Mody"

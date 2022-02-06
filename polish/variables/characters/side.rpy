@@ -25,3 +25,19 @@ translate polish strings:
     old "[Lil_Fox.name]"
     new "[Lil_Fox.name]"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/variables/characters/side.rpy:20
+    old "Demeter"
+    new "Demeter"
+
+    # game/variables/characters/side.rpy:24
+    old "Rachel"
+    new "Rachel"
+
+    # game/variables/characters/side.rpy:30
+    old "[Rhainda.name]"
+    new "[Rhainda.name]"
+

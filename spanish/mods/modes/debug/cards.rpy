@@ -4,17 +4,16 @@ translate spanish strings:
 
     # game/mods/modes/debug/cards.rpy:16
     old "Add:"
-    new "Add:"
+    new "Añadir:"
 
     # game/mods/modes/debug/cards.rpy:17
     old "Tarot Deck"
-    new "Tarot Deck"
+    new "Mazo de Tarot"
 
     # game/mods/modes/debug/cards.rpy:18
     old "Cultist Loot"
-    new "Cultist Loot"
+    new "Botín de Cultista"
 
     # game/mods/modes/debug/cards.rpy:27
     old "Cards added."
-    new "Cards added."
-
+    new "Cartas añadidas."

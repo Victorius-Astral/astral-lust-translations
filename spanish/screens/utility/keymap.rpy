@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/screens/utility/keymap.rpy:6
     old "Displays help."
-    new "Displays help."
+    new "Muestra ayuda."
 
     # game/screens/utility/keymap.rpy:10
     old "Quick Save"
@@ -32,18 +32,18 @@ translate spanish strings:
 
     # game/screens/utility/keymap.rpy:34
     old "Opens journal."
-    new "Abrir diario."
+    new "Abre diario."
 
     # game/screens/utility/keymap.rpy:38
     old "Opens character relations menu."
-    new "Abrir character relations menu."
+    new "Abre character relations menu."
 # TODO: Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 
     # game/screens/utility/keymap.rpy:42
     old "End turn in combat."
-    new "End turn in combat."
+    new "Terminar turno en combate."
 
     # game/screens/utility/keymap.rpy:46
     old "Open/Close map."
@@ -51,9 +51,8 @@ translate spanish strings:
 
     # game/screens/utility/keymap.rpy:50
     old "Toggle interaction menu."
-    new "Toggle interaction menu."
+    new "Alternar menú de interacción."
 
     # game/screens/utility/keymap.rpy:54
     old "Toggle task menu."
-    new "Toggle task menu."
-
+    new "Alternar menú de tareas."

@@ -591,3 +591,10 @@ translate spanish strings:
     # game/characters/alice/ev_3.rpy:20
     old "Not now"
     new "Ahora no"
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/alice/ev_3.rpy:146
+    old "She brought me to watch her back when she went out to get a.. \"friend\"...."
+    new "Ella me trajo para hacer de guardia cuando salía a buscar un... \"amigo\"...."

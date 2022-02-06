@@ -397,3 +397,11 @@ translate spanish strings:
     # game/characters/mina/ev_1.rpy:78
     old "She is great"
     new "Ella es genial"
+# TODO: Translation updated at 2022-01-29 20:12
+
+translate spanish strings:
+
+    # game/characters/mina/ev_1.rpy:64
+    old "She seems to believe I'm courting Lexi. This thought makes her excited."
+    new "She seems to believe I'm courting Lexi. This thought makes her excited."
+

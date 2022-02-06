@@ -11,5 +11,4 @@ translate spanish strings:
 
     # game/screens/replay/menu.rpy:56
     old "No image"
-    new "No image"
-
+    new "Sin imagen"

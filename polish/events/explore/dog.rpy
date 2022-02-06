@@ -408,3 +408,15 @@ translate polish strings:
     old "Get it!"
     new "Get it!"
 
+# TODO: Translation updated at 2022-01-31 15:20
+
+translate polish strings:
+
+    # game/events/explore/dog.rpy:164
+    old "How should I call it?"
+    new "How should I call it?"
+
+    # game/events/explore/dog.rpy:181
+    old "I saved it from two madmen, the cultist wanted to perform some sort of ritual on it."
+    new "I saved it from two madmen, the cultist wanted to perform some sort of ritual on it."
+
