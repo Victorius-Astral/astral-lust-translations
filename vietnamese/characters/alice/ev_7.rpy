@@ -705,3 +705,11 @@ translate vietnamese strings:
     old "What year had World War II began?"
     new "What year had World War II began?"
 
+# TODO: Translation updated at 2022-02-06 09:30
+
+translate vietnamese strings:
+
+    # game/characters/alice/ev_7.rpy:248
+    old "mushroom"
+    new "mushroom"
+
