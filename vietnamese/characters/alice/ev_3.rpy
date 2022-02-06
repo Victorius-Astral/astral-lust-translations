@@ -4,7 +4,7 @@
 translate vietnamese alice_3_dbbe60f3:
 
     # "Just as you are about to go out someone appears before you!"
-    "Ngay khi bạn chuẩn bị đi ra ngoài, một người nào đó xuất hiện trước bạn!"
+    "Ngay khi bạn chuẩn bị đi ra ngoài, thì có ai nào đó xuất hiện trước bạn!"
 
 # game/characters/alice/ev_3.rpy:5
 translate vietnamese alice_3_ff1d900a:
@@ -28,7 +28,7 @@ translate vietnamese alice_3_028467c2:
 translate vietnamese alice_3_f57e66f6:
 
     # alice "Can you accompany me somewhere?"
-    alice "Cậu có thể đi cùng tôi không?"
+    alice "Anh có thể đi cùng em không?"
 
 # game/characters/alice/ev_3.rpy:10
 translate vietnamese alice_3_2b5f54cc:
@@ -52,13 +52,13 @@ translate vietnamese alice_3_3820771a:
 translate vietnamese alice_3_e4ba1798:
 
     # me "Really? Secret? You want me to go with you there.."
-    me "Thật luôn? Bí mật? cậu muốn tớ đi cùng cậu đến đấy .."
+    me "Thật luôn? Bí mật? Em muốn anh đi cùng em đấy.."
 
 # game/characters/alice/ev_3.rpy:15
 translate vietnamese alice_3_7a5d2770:
 
     # alice "Yes, I'm leading the way, soooo?"
-    alice "Ừ, Tớ sẽ dẫn đường, thế nênnnn ?"
+    alice "Đúng rồi, em sẽ dẫn đường, nênnnn?"
 
 # game/characters/alice/ev_3.rpy:16
 translate vietnamese alice_3_f660d172:
@@ -70,7 +70,7 @@ translate vietnamese alice_3_f660d172:
 translate vietnamese alice_3_c7084b41:
 
     # alice "Are you coming?"
-    alice "Cậu có đi không?"
+    alice "Anh có đi không?"
 
 # game/characters/alice/ev_3.rpy:25
 translate vietnamese alice_3_bf742f94:
@@ -94,7 +94,7 @@ translate vietnamese alice_3_1_9e79d9d9:
 translate vietnamese alice_3_1_3d1c690c:
 
     # me "Can you tell me where we are going now?"
-    me "Cậu có thể cho tớ biết là chúng ta đang đi đâu không?"
+    me "Em có thể cho anh biết là chúng ta đang đi đâu không?"
 
 # game/characters/alice/ev_3.rpy:39
 translate vietnamese alice_3_1_22fd8dc4:
@@ -112,7 +112,7 @@ translate vietnamese alice_3_1_3820771a:
 translate vietnamese alice_3_1_96075e9c:
 
     # me "You know it's dangerous out here. Are you sure you know what you're doing?"
-    me "Cậu biết là goài này rất nguy hiểm mà. Cậu có chắc là đang biết mình làm gì không đấy?"
+    me "Em biết là ngoài này rất nguy hiểm mà. Em có chắc là biết mình đang làm gì không đấy?"
 
 # game/characters/alice/ev_3.rpy:43
 translate vietnamese alice_3_1_f53e0c5b:
@@ -124,7 +124,7 @@ translate vietnamese alice_3_1_f53e0c5b:
 translate vietnamese alice_3_1_feac5b32:
 
     # alice "I'm not stupid, I won't put us in danger. Little faith [me]."
-    alice "Tớ không có ngu, tớ sẽ không đặt 2 ta vào nguy hiểm đâu. [me]."
+    alice "Em không có ngu, em sẽ không đặt hai ta vào nguy hiểm đâu [me]."
 
 # game/characters/alice/ev_3.rpy:45
 translate vietnamese alice_3_1_07b93b8e:
@@ -142,25 +142,25 @@ translate vietnamese alice_3_1_87071583:
 translate vietnamese alice_3_1_d5643b0c:
 
     # me "Can I ask you something?"
-    me "Tớ có thể hỏi cậu một chút không ?"
+    me "Anh có thể hỏi em một chút không ?"
 
 # game/characters/alice/ev_3.rpy:50
 translate vietnamese alice_3_1_8a57b81f:
 
     # alice "Curious about me huh? Sure, ask."
-    alice "Tò mò về mình hả? Được rồi, hỏi đi."
+    alice "Tò mò về em hả? Được rồi, hỏi đi."
 
 # game/characters/alice/ev_3.rpy:51
 translate vietnamese alice_3_1_bbe80594:
 
     # me "What were you doing before all of this?"
-    me "Cậu đã làm gì trước đây khi những điều này chưa xảy ra?"
+    me "Em đã làm gì trước đây khi những điều này chưa xảy ra?"
 
 # game/characters/alice/ev_3.rpy:53
 translate vietnamese alice_3_1_3129b9be:
 
     # alice "I was a high school student." id alice_3_1_3129b9be
-    alice "Tớ là một học sinh trung học phổ thông." id alice_3_1_3129b9be
+    alice "Em là một học sinh." id alice_3_1_3129b9be
 
 # game/characters/alice/ev_3.rpy:55
 translate vietnamese alice_3_1_875dc67a:
@@ -172,7 +172,7 @@ translate vietnamese alice_3_1_875dc67a:
 translate vietnamese alice_3_1_fb5d89be:
 
     # alice "Nope~ I'm officially adult now!"
-    alice "Không ~ bây giờ tôi đã chính thức trưởng thành rồi!"
+    alice "Không~ bây giờ em đã chính thức trưởng thành rồi!"
 
 # game/characters/alice/ev_3.rpy:59
 translate vietnamese alice_3_1_56d606a0:
@@ -184,13 +184,13 @@ translate vietnamese alice_3_1_56d606a0:
 translate vietnamese alice_3_1_3fed6dba:
 
     # me "Yeah.. I sometimes wonder what I would be doing now if not for.. you know.. the apocalypse."
-    me "Ừ .. đôi khi anh tự hỏi mình sẽ làm gì bây giờ nếu không có .. em biết đấy .. ngày tận thế."
+    me "Ừ.. đôi khi anh tự hỏi mình sẽ làm gì bây giờ nếu không có.. em biết đấy.. ngày tận thế."
 
 # game/characters/alice/ev_3.rpy:62
 translate vietnamese alice_3_1_0829e956:
 
     # alice "I know what I would be doing if The End never came and I prefer it this way."
-    alice "em biết mình sẽ làm gì nếu The End không bao giờ xảy ra và tôi thích nó theo cách này."
+    alice "em biết mình sẽ làm gì nếu The End không bao giờ xảy ra và em thích nó theo cách này."
 
 # game/characters/alice/ev_3.rpy:64
 translate vietnamese alice_3_1_ad55ac50:
@@ -208,19 +208,19 @@ translate vietnamese alice_3_1_da6e2ff3:
 translate vietnamese alice_3_1_54131249:
 
     # me "Sorry to hear that."
-    me "Rất tiếc khi biết điều đó."
+    me "Rất tiếc khi nghe điều đó."
 
 # game/characters/alice/ev_3.rpy:70
 translate vietnamese alice_3_1_f349c9d9:
 
     # alice "It's fine. They weren't bad people they just thought that everything the church told them was the absolute truth."
-    alice "Nó ổn mà. Họ không phải là người xấu, họ chỉ nghĩ rằng tất cả những gì nhà thờ nói với họ là sự thật tuyệt đối."
+    alice "Ổn mà. Họ không phải là người xấu, họ chỉ nghĩ rằng tất cả những gì nhà thờ nói với họ là sự thật tuyệt đối."
 
 # game/characters/alice/ev_3.rpy:72
 translate vietnamese alice_3_1_aa21f88d:
 
     # me "Oh, so they were very religious then."
-    me "Ồ, vậy là họ rất sùng đạo."
+    me "Ồ, vậy hẳn là họ rất sùng đạo."
 
 # game/characters/alice/ev_3.rpy:73
 translate vietnamese alice_3_1_783da19e:
@@ -244,7 +244,7 @@ translate vietnamese alice_3_1_4ff9a028:
 translate vietnamese alice_3_1_8874ca02:
 
     # th "Is this that secret? She wants to check what happened to her parents?"
-    th "Đây có phải là bí mật? Cô ấy muốn kiểm tra những gì đã xảy ra với cha mẹ cô ấy?"
+    th "Đây có phải là bí mật không? Em ấy muốn kiểm tra những gì đã xảy ra với cha mẹ em ấy?"
 
 # game/characters/alice/ev_3.rpy:81
 translate vietnamese alice_3_1_52efff50:
@@ -262,7 +262,7 @@ translate vietnamese alice_3_1_eaf1aaec:
 translate vietnamese alice_3_1_a8055d02:
 
     # alice "Why are you so quiet suddenly?"
-    alice "Sao anh lại đột nhiên im lặng t vậy?"
+    alice "Sao anh lại đột nhiên im lặng vậy?"
 
 # game/characters/alice/ev_3.rpy:86
 translate vietnamese alice_3_1_ae4069bb:
@@ -286,7 +286,7 @@ translate vietnamese alice_3_1_364498e5:
 translate vietnamese alice_3_1_c6d1b33c:
 
     # th "T-This isn't her home.."
-    th "T-This isn't her home.."
+    th "Đây không phải nhà em ấy.."
 
 # game/characters/alice/ev_3.rpy:94
 translate vietnamese alice_3_1_c9840755:
@@ -316,13 +316,13 @@ translate vietnamese alice_3_1_3820771a_1:
 translate vietnamese alice_3_1_3bca9e35:
 
     # th "To hell with her! I thought that we were going somewhere important.."
-    th "Đến chịu với em ấy! Mình nghĩ rằng chúng ta sẽ đến một nơi nào đó quan trọng.."
+    th "Đến chịu luôn đấy! Tưởng là phải đến đến  nơi nào đó quan trọng lắm chứ.."
 
 # game/characters/alice/ev_3.rpy:101
 translate vietnamese alice_3_1_1a3f82f1:
 
     # alice "Hey, hey what's with that look?"
-    alice "Này, này có gì với ánh mắt đó thế?"
+    alice "Này, này có gì với ánh mắt đó vậy?"
 
 # game/characters/alice/ev_3.rpy:102
 translate vietnamese alice_3_1_39d22280:
@@ -388,7 +388,7 @@ translate vietnamese alice_3_1_3820771a_4:
 translate vietnamese alice_3_1_f53def4e:
 
     # me "Just take what you want and let's return before something finds us."
-    me "Chỉ cần lấy những gì mình muốn và hãy quay lại trước khi có thứ gì đó tìm thấy chúng ta."
+    me "Hãy lấy những gì mình muốn và hãy quay lại trước khi có thứ gì đó tìm thấy chúng ta."
 
 # game/characters/alice/ev_3.rpy:117
 translate vietnamese alice_3_1_784903c5:
@@ -406,19 +406,19 @@ translate vietnamese alice_3_1_3820771a_5:
 translate vietnamese alice_3_1_41506b6a:
 
     # th "Of course I want to.. help you choose the biggest dildo and shove it up your ass."
-    th "Tất nhiên anh muốn .. giúp em chọn cái sẽ toy lớn nhất và nhét nó vào mông của em."
+    th "Tất nhiên anh muốn.. giúp em chọn cái seg toy lớn nhất và nhét nó vào đít của em."
 
 # game/characters/alice/ev_3.rpy:121
 translate vietnamese alice_3_1_53f472f5:
 
     # alice "What's with that smile? You're thinking about something weird aren't you.."
-    alice "Nụ cười đó là gì? Bạn đang nghĩ về điều gì đó kỳ lạ phải không.."
+    alice "Điệu cười gì đây? Anh đang nghĩ về điều gì đó kỳ lạ phải không.."
 
 # game/characters/alice/ev_3.rpy:122
 translate vietnamese alice_3_1_36c8efc6:
 
     # th "Women's intuition.. horrifying."
-    th "Trực giác của phụ nữ.. đúng là kinh hoàng."
+    th "Trực giác của phụ nữ.. đúng là kinh hoàng mà."
 
 # game/characters/alice/ev_3.rpy:123
 translate vietnamese alice_3_1_76e91a67:
@@ -436,19 +436,19 @@ translate vietnamese alice_3_1_763f2ea5:
 translate vietnamese alice_3_1_1913de47:
 
     # me "Ahhh.. What am I doing with my life.. Waiting for a barely legal girl to choose a sex toy.."
-    me "Ahhh .. Tôi đang làm gì với cuộc sống của mình thế này.. Chờ một cô gái chọn sex toy.."
+    me "Ahhh.. mình đang làm gì với cuộc sống khốn khổ khốn nạn của mình thế này.. Chờ một cô gái chọn sex toy.."
 
 # game/characters/alice/ev_3.rpy:128
 translate vietnamese alice_3_1_9a479cb1:
 
     # me "What am I doing, where are we going? What's the point of life?"
-    me "What am I doing, where are we going? What's the point of life?"
+    me "Mình đang làm làm gì vậy, ta đang đi đâu vậy? Ý nghĩa của cuốc sống là gì?"
 
 # game/characters/alice/ev_3.rpy:130
 translate vietnamese alice_3_1_73a003ba:
 
     # alice "Umm.. should I leave you to talk it out with yourself?"
-    alice "Umm .. Em có nên để anh nói chuyện với chính mình không?"
+    alice "Umm.. Em có nên để anh tự kỷ một mình tiếp không?"
 
 # game/characters/alice/ev_3.rpy:131
 translate vietnamese alice_3_1_3820771a_6:
@@ -490,7 +490,7 @@ translate vietnamese alice_3_1_babcba7b:
 translate vietnamese alice_3_1_19a3c35d:
 
     # me "Where are these girls? I don't see any."
-    me "Những cô gái ấy ở đâu? Anh có thấy ai đâu."
+    me "Những cô gái đấy ở đâu? Anh không thấy ai cả."
 
 # game/characters/alice/ev_3.rpy:142
 translate vietnamese alice_3_1_b94a6a0f:
@@ -538,7 +538,7 @@ translate vietnamese alice_3_1_1efb8c3d:
 translate vietnamese alice_3_1_bc2f54ce:
 
     # me "Yeah, have fun with your new friend."
-    me "Vâng, hãy vui vẻ với người bạn mới của em."
+    me "Ừ, hãy vui vẻ với người bạn mới của em."
 
 # game/characters/alice/ev_3.rpy:157
 translate vietnamese alice_3_1_3b6a23e4:
@@ -568,19 +568,19 @@ translate vietnamese alice_3_1_124c1aa0:
 translate vietnamese alice_3_1_50663dc8:
 
     # alice "Now I owe you one too my guardian."
-    alice "Bây giờ tôi cũng nợ anh một lần rồi người giám hộ của em."
+    alice "Bây giờ em cũng nợ anh một lần rồi người bảo hộ của em."
 
 # game/characters/alice/ev_3.rpy:167
 translate vietnamese alice_3_1_867cf5c5:
 
     # alice "Wait for it."
-    alice "Đợi đây đi ."
+    alice "Hãy đợi đi ."
 
 # game/characters/alice/ev_3.rpy:168
 translate vietnamese alice_3_1_bfda5a71:
 
     # th "I surely will."
-    th "Anh chắc chắn sẽ ."
+    th "Tát nhiên anh sẽ đợi rồi."
 
 translate vietnamese strings:
 

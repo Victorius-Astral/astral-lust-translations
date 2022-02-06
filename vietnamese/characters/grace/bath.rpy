@@ -10,7 +10,7 @@ translate vietnamese grace_bath_efb4765f:
 translate vietnamese grace_bath_68a634fe:
 
     # th "She seems asleep. Oh, [grace], it's dangerous to sleep in a water."
-    th "Cô ấy có vẻ như đang ngủ. ồ, [grace], thật nguy hiểm khi ngủ trong nước đấy."
+    th "Em ấy có vẻ như đang ngủ. Ê [grace] ngủ trong nước rấy nguy hiểm đấy."
 
 # game/characters/grace/bath.rpy:20
 translate vietnamese grace_bath_menu1_9b6d9c06:
@@ -112,13 +112,13 @@ translate vietnamese grace_bath_menu1_5cdebf03:
 translate vietnamese grace_bath_menu1_6042568a:
 
     # grace "Wait.. Are you eyeing me?!"
-    grace "Chờ đã .. Anh đang để mắt đến em?!"
+    grace "Chờ đã.. Anh đang tia em sao?!"
 
 # game/characters/grace/bath.rpy:72
 translate vietnamese grace_bath_menu1_2dd3526b:
 
     # me "No, of course not. I'm going out, make sure you don't fall asleep again."
-    me "Tất nhiên là không rồi. Anh ra ngoài đây, hãy chắc chắn rằng em sẽ không ngủ quên nữa."
+    me "Tất nhiên là không rồi. Anh ra ngoài đây, hãy chắc chắn rằng em sẽ không ngủ quên nữa dấdy."
 
 # game/characters/grace/bath.rpy:73
 translate vietnamese grace_bath_menu1_b9a81edd:
@@ -244,7 +244,7 @@ translate vietnamese grace_bath_mass_3914fa30:
 translate vietnamese grace_bath_mass_11f2aa56:
 
     # me "My little friend is happy too, perhaps even too much. Haha."
-    me "Bạn nhỏ của anh cũng vui, mà có lẽ là quá nhiều. Haha."
+    me "Bạn nhỏ của anh cũng vui, mà có lẽ là hơi quá. Haha."
 
 # game/characters/grace/bath.rpy:132
 translate vietnamese grace_bath_mass_e4b58587:
@@ -268,7 +268,7 @@ translate vietnamese grace_bath_mass_928ca7ef:
 translate vietnamese grace_bath_mass_a635cdda:
 
     # th "Yeah, my heart.."
-    th "Yeah, tim của mình.."
+    th "Yeah, tim thôi.."
 
 # game/characters/grace/bath.rpy:143
 translate vietnamese grace_bath_mass_2691c12f:
@@ -298,13 +298,13 @@ translate vietnamese grace_bath_mass_baf8f4db:
 translate vietnamese grace_bath_mass_372ade50:
 
     # th "I was not wrong. True nympho."
-    th "Mình không sai đâu. dâm nữ đích thực."
+    th "Mình không sai đâu. dâm nữ đích thực luôn."
 
 # game/characters/grace/bath.rpy:163
 translate vietnamese grace_bath_mass_9304ae08:
 
     # th "I can feel her legs close to my dick. Maybe I should get her to do me a footjob one day."
-    th "Tôi có thể cảm thấy chân của em ấy gần với thằng nhỏ của mình. Có lẽ tôi nên để em ấy footjob cho mình vào một ngày nào đó."
+    th "Mình có thể cảm thấy chân của em ấy gần với thằng nhỏ của mình. Có lẽ mình nên để em ấy footjob cho mình vào một ngày nào đó."
 
 # game/characters/grace/bath.rpy:164
 translate vietnamese grace_bath_mass_38632534:
@@ -340,7 +340,7 @@ translate vietnamese grace_bath_mass_068ef23d:
 translate vietnamese grace_bath_mass_db268a43:
 
     # grace "I feel funny, haha~"
-    grace "Em cảm thấy hật lạ, haha~"
+    grace "Em cảm thấy lạ quá, haha~"
 
 # game/characters/grace/bath.rpy:177
 translate vietnamese grace_bath_mass_4c2d9423:

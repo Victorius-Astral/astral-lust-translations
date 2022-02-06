@@ -16,4 +16,4 @@ translate vietnamese strings:
 
     # game/functions/create.rpy:206
     old "Table level insufficient!"
-    new "Table level insufficient!"
+    new "Cấp độ bàn không đủ!"

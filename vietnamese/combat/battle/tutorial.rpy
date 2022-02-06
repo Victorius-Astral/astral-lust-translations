@@ -154,7 +154,7 @@ translate vietnamese tutorial_combat_end_40cde874:
 translate vietnamese tutorial_combat_end_84b3e835:
 
     # lexi "You should also prioritize building a {i}{b}gym{/b}{/i}. You can build expansions at the counter in the lobby. There you can train your {i}{str}strength{/str}{/i}, {i}{vit}vitality{/vit}{/i} and {i}{agi}agility{/agi}{/i}."
-    lexi "Bạn cũng nên ưu tiên xây dựng {i}{b}phòng thể dục{/b}{/i}. Bạn có thể xây dựng các phòng tại quầy ở sảnh đợi. Ở đó bạn có thể tập luyện {i}{str}sức mạnh{/str}{/i}, {i}{vit}sức sống{/vit}{/i} và {i}{agi}nhanh nhẹn{/agi}{/i}."
+    lexi "Bạn cũng nên ưu tiên xây dựng {i}{b}phòng thể dục{/b}{/i}. Bạn có thể xây dựng các phòng tại quầy ở sảnh đợi. Ở đó bạn có thể tập luyện {i}{str}sức mạnh{/str}{/i}, {i}{vit}Sức bền bỉ{/vit}{/i} và {i}{agi}nhanh nhẹn{/agi}{/i}."
 
 # game/combat/battle/tutorial.rpy:190
 translate vietnamese tutorial_combat_end_a3f1f7e7:

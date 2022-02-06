@@ -120,27 +120,27 @@ translate vietnamese strings:
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new "{#weekday}thứ hai"
+    new "{#weekday}thứ 2"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new "{#weekday}thứ ba"
+    new "{#weekday}thứ 3"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new "{#weekday}Thứ Tư"
+    new "{#weekday}Thứ 4"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new "{#weekday}Thứ năm"
+    new "{#weekday}Thứ 5"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new "{#weekday}Thứ sáu"
+    new "{#weekday}Thứ 6"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new "{#weekday}Thứ bảy"
+    new "{#weekday}Thứ 7"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
@@ -168,15 +168,15 @@ translate vietnamese strings:
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new "{#weekday_short}Thứ bảy"
+    new "{#weekday_short}Thứ 7"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new "{#weekday_short}Chủ nhật"
+    new "{#weekday_short}CN"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
-    new "{#month}Tháng một"
+    new "{#month}Tháng 1"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
@@ -280,7 +280,7 @@ translate vietnamese strings:
 
     # renpy/common/00action_file.rpy:444
     old "Load slot %s: [text]"
-    new "Slot tải %s: [text]"
+    new "Slot Load %s: [text]"
 
     # renpy/common/00action_file.rpy:497
     old "Delete slot [text]"
@@ -308,7 +308,7 @@ translate vietnamese strings:
 
     # renpy/common/00action_file.rpy:912
     old "Quick save complete."
-    new "Quick save complete."
+    new "Lưu nhanh hoàn tất."
 
     # renpy/common/00action_file.rpy:930
     old "Quick save."
@@ -336,7 +336,7 @@ translate vietnamese strings:
 
     # renpy/common/00director.rpy:1551
     old "Done"
-    new "Làm xong"
+    new "Xong"
 
     # renpy/common/00director.rpy:1561
     old "(statement)"
@@ -356,7 +356,7 @@ translate vietnamese strings:
 
     # renpy/common/00director.rpy:1589
     old "(transition)"
-    new "(transition)"
+    new "(Chuyển cảnh)"
 
     # renpy/common/00director.rpy:1601
     old "(channel)"
@@ -364,7 +364,7 @@ translate vietnamese strings:
 
     # renpy/common/00director.rpy:1602
     old "(filename)"
-    new "(filename)"
+    new "(tên file)"
 
     # renpy/common/00director.rpy:1631
     old "Change"
@@ -384,7 +384,7 @@ translate vietnamese strings:
 
     # renpy/common/00director.rpy:1674
     old "Statement:"
-    new "Bản tường trình:"
+    new "Statement:"
 
     # renpy/common/00director.rpy:1695
     old "Tag:"
@@ -428,7 +428,7 @@ translate vietnamese strings:
 
     # renpy/common/00gui.rpy:426
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "Việc tải sẽ làm mất tiến trình chưa lưu.\nBạn có chắc chắn muốn thực hiện việc này không?"
+    new "Tải lại sẽ làm mất tiến trình chưa lưu.\nBạn có chắc là muốn thực hiện việc này không?"
 
     # renpy/common/00gui.rpy:427
     old "Are you sure you want to quit?"
@@ -512,7 +512,7 @@ translate vietnamese strings:
 
     # renpy/common/00preferences.rpy:318
     old "skip unseen text"
-    new "bỏ qua văn bản chưa nhìn thấy"
+    new "bỏ qua đoạn chưa thấy"
 
     # renpy/common/00preferences.rpy:320
     old "begin skipping"

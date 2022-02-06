@@ -8,7 +8,7 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "Who knows what awaits me outside?"
-    new "Ai biết điều gì đang chờ mình bên ngoài?"
+    new "Ai biết điều gì đang chờ mình bên ngoài chứ?"
 
     # game/variables/tips.rpy:4
     old "I need to take care of my mental health."
@@ -16,27 +16,27 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "Maybe someone can answer my questions out there."
-    new "Có lẽ ai đó có thể trả lời câu hỏi của tôi ngoài kia."
+    new "Có lẽ ai đó có thể trả lời câu hỏi của mình ở ngoài kia."
 
     # game/variables/tips.rpy:4
     old "I wonder if I would turn insane if it spoke to me again.."
-    new "Tôi tự hỏi liệu tôi có trở nên mất trí nếu nó nói với tôi một lần nữa không.."
+    new "Mình tự hỏi nếu mình có trở nên mất trí nếu nó nói với mình một lần nữa không.."
 
     # game/variables/tips.rpy:4
     old "My dreams are becoming more disturbing as of late."
-    new "Những giấc mơ của tôi ngày càng trở nên xáo trộn hơn."
+    new "Những giấc mơ của mình ngày càng trở nên xáo trộn hơn."
 
     # game/variables/tips.rpy:4
     old "I should focus on my relationship with Lexi."
-    new "Tôi nên tập trung vào mối quan hệ của tôi với Lexi."
+    new "Mình nên tập trung vào mối quan hệ của mình với Lexi."
 
     # game/variables/tips.rpy:4
     old "I need to ask Kiara about this.. being.."
-    new "Tôi cần hỏi Kiara về điều này .. đang.."
+    new "Mình cần hỏi Kiara về.. thực thể này.."
 
     # game/variables/tips.rpy:4
     old "I should wait for her to return, I hope, she's safe."
-    new "Tôi nên đợi cô ấy trở về, tôi hy vọng, cô ấy an toàn."
+    new "Mình nên đợi cô ấy trở về, mình mong là cô ấy an toàn."
 
     # game/variables/tips.rpy:4
     old "More coming soon."
@@ -44,15 +44,15 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "She might need some help."
-    new "Cô ấy có thể cần một số trợ giúp."
+    new "Cô ấy có thể cần trợ giúp."
 
     # game/variables/tips.rpy:4
     old "Maybe I should go out?"
-    new "Có lẽ tôi nên đi ra ngoài?"
+    new "Có lẽ mình nên đi ra ngoài?"
 
     # game/variables/tips.rpy:4
     old "Maybe I'll find something she likes outside, should I ask her?"
-    new "Có lẽ tôi sẽ tìm thấy thứ gì đó cô ấy thích ở bên ngoài, tôi có nên hỏi cô ấy không?"
+    new "Có lẽ mình sẽ tìm thấy thứ gì đó cô ấy thích ở bên ngoài, mình có nên hỏi cô ấy không?"
 
     # game/variables/tips.rpy:4
     old "I have trouble falling asleep at night."
@@ -60,11 +60,11 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "I think I should hang out with Mina."
-    new "Tôi nghĩ tôi nên đi chơi với Mina."
+    new "Mình nghĩ tôi nên đi chơi với Mina."
 
     # game/variables/tips.rpy:4
     old "She seems to have something on her mind recently. I should ask."
-    new "Gần đây cô ấy có vẻ có điều gì đó bận tâm. Tôi nên hỏi."
+    new "Gần đây cô ấy có vẻ có điều gì đó bận tâm. Mình nên hỏi xem."
 
     # game/variables/tips.rpy:4
     old "Maybe she knows another café nearby."
@@ -76,7 +76,7 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "I should go out to explore."
-    new "Tôi nên đi ra ngoài để khám phá."
+    new "Mình nên đi ra ngoài để khám phá."
 
     # game/variables/tips.rpy:4
     old "Maybe I'll meet her outside."
@@ -84,7 +84,7 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "I should talk with her."
-    new "Tôi nên nói chuyện với cô ấy."
+    new "Mình nên nói chuyện với cô ấy."
 
     # game/variables/tips.rpy:4
     old "We could go out to explore together again."
@@ -92,27 +92,27 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "Let's say hello and wait for her to find me."
-    new "Hãy chào và đợi cô ấy tìm thấy tôi."
+    new "Hãy chào và đợi cô ấy tìm thấy mình."
 
     # game/variables/tips.rpy:4
     old "Something tells me that she will need me in near future."
-    new "Có điều gì đó nói với tôi rằng cô ấy sẽ cần tôi trong tương lai gần."
+    new "Có điều gì đó nói với mình rằng cô ấy sẽ cần mình trong tương lai gần."
 
     # game/variables/tips.rpy:4
     old "I should go out off my room sometimes."
-    new "Thỉnh thoảng tôi nên ra khỏi phòng."
+    new "Thỉnh thoảng tôi mình ra khỏi phòng."
 
     # game/variables/tips.rpy:4
     old "When Alice likes me enough (Affection > 4, Trust > 0) I should talk with Mina and then Alice at the evening."
-    new "Khi Alice đủ thích tôi (Tình cảm> 4, Sự tin  tưởng > 0) Tôi nên nói chuyện với Mina và sau đó là Alice vào buổi tối."
+    new "Khi Alice đủ thích mình (Tình cảm> 4, tin tưởng > 0) mình nên nói chuyện với Mina và sau đó là Alice vào buổi tối."
 
     # game/variables/tips.rpy:4
     old "I wonder what's up with Lexi."
-    new "Tôi tự hỏi có chuyện gì với Lexi."
+    new "Mình tự hỏi là có chuyện gì với Lexi."
 
     # game/variables/tips.rpy:4
     old "I should check on her."
-    new "Tôi nên kiểm tra cô ấy."
+    new "Mình nên kiểm tra cô ấy."
 
     # game/variables/tips.rpy:4
     old "It would be nice to accompany her a little."
@@ -120,51 +120,51 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "I should give her a few days to think."
-    new "Tôi nên cho cô ấy một vài ngày để suy nghĩ."
+    new "Mình nên cho cô ấy một vài ngày để suy nghĩ."
 
     # game/variables/tips.rpy:4
     old "I should talk with Lexi."
-    new "Tôi nên nói chuyện với Lexi."
+    new "Mình nên nói chuyện với Lexi."
 
     # game/variables/tips.rpy:4
     old "I should hang out with her."
-    new "Tôi nên đi chơi với cô ấy."
+    new "Mình nên đi chơi với cô ấy."
 
     # game/variables/tips.rpy:4
     old "I kind of liked sitting with her at the sofa, we should do this again. I think she would find some time at the evening."
-    new "Tôi thích ngồi với cô ấy ở ghế sofa, chúng ta nên làm điều này một lần nữa. Tôi nghĩ cô ấy sẽ có một chút thời gian vào buổi tối."
+    new "Mình thích ngồi với cô ấy ở ghế sofa, cả hai nên làm điều này một lần nữa. Mình nghĩ cô ấy sẽ có một chút thời gian vào buổi tối."
 
     # game/variables/tips.rpy:4
     old "I should wait for her to settle her own thing with Alice."
-    new "Tôi nên đợi cô ấy giải quyết chuyện riêng của mình với Alice."
+    new "Mình nên đợi cô ấy giải quyết chuyện riêng của cô ấy với Alice."
 
     # game/variables/tips.rpy:4
     old "I bet she would want to talk about something in a few days, I should wait at my room for her."
-    new "Tôi cá là cô ấy sẽ muốn nói về điều gì đó trong vài ngày tới, tôi nên đợi cô ấy tại phòng của mình."
+    new "Mình cá là cô ấy sẽ muốn nói về điều gì đó trong vài ngày tới, mình nên đợi cô ấy tại phòng của mình."
 
     # game/variables/tips.rpy:4
     old "I should prepare before coming out of my room."
-    new "Tôi nên chuẩn bị trước khi ra khỏi phòng của mình."
+    new "Mình nên chuẩn bị trước khi ra khỏi phòng của mình."
 
     # game/variables/tips.rpy:4
     old "I should find her when she is in her room."
-    new "Tôi nên tìm cô ấy khi cô ấy ở trong phòng."
+    new "Mình nên tìm cô ấy khi cô ấy ở trong phòng."
 
     # game/variables/tips.rpy:4
     old "I wonder what she does in her room during evenings."
-    new "Tôi tự hỏi cô ấy làm gì trong phòng của mình vào buổi tối."
+    new "Mình tự hỏi cô ấy làm gì trong phòng của mình vào buổi tối."
 
     # game/variables/tips.rpy:4
     old "I suddenly feel like seeing her, should I check if she is at home?"
-    new "Tôi đột nhiên cảm thấy muốn nhìn thấy cô ấy, tôi có nên kiểm tra xem cô ấy có ở nhà không?"
+    new "Mình đột nhiên cảm thấy muốn nhìn thấy cô ấy, mình có nên kiểm tra xem cô ấy có ở nhà không?"
 
     # game/variables/tips.rpy:4
     old "Maybe she needs my help again."
-    new "Có lẽ cô ấy cần tôi giúp một lần nữa."
+    new "Có lẽ cô ấy cần mình giúp một lần nữa."
 
     # game/variables/tips.rpy:4
     old "I could use a meal, maybe Grace left something for me in the fridge."
-    new "Mình đói quá, có lẽ Grace đã để lại thứ gì đó cho tôi trong tủ lạnh."
+    new "Mình đói quá, có lẽ Grace đã để lại thứ gì đó cho mình trong tủ lạnh."
 
     # game/variables/tips.rpy:4
     old "I wonder if she is cooking this afternoon."
@@ -172,11 +172,11 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "Maybe there are some beautiful flowers outside. I'm sure she would appreciate them."
-    new "Có thể có một số bông hoa đẹp bên ngoài. Tôi chắc rằng cô ấy sẽ muốn nó."
+    new "Có thể có một số bông hoa đẹp bên ngoài. Mình chắc rằng cô ấy sẽ muốn nó."
 
     # game/variables/tips.rpy:4
     old "She probably misses her mom, I should check on her from time to time, maybe she needs me."
-    new "Chắc cô ấy nhớ mẹ lắm, thỉnh thoảng mình nên đến kiểm tra em ấy, có lẽ em ấy cần mình."
+    new "Chắc cô ấy nhớ mẹ lắm, thỉnh thoảng mình nên đến kiểm tra cô ấy, có lẽ cô ấy cần mình."
 
     # game/variables/tips.rpy:4
     old "I should go and say hello."
@@ -184,23 +184,23 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "I should wait and see."
-    new "Tôi nên chờ xem."
+    new "Mình nên chờ xem."
 
     # game/variables/tips.rpy:4
     old "I should go out sometimes."
-    new "Thỉnh thoảng tôi nên ra ngoài."
+    new "Thỉnh thoảng mình nên ra ngoài."
 
     # game/variables/tips.rpy:4
     old "Maybe I should wait \"for it\" a few days."
-    new "Có lẽ tôi nên đợi \"nó\" một vài ngày."
+    new "Có lẽ mình nên \"đợi\" một vài ngày."
 
     # game/variables/tips.rpy:4
     old "I wonder how she deals with lust after blowing me so much."
-    new "I wonder how she deals with lust after blowing me so much."
+    new "Không biết cô ấy đối phó với ham muốn như nào sau khi thổi kèn cho mình nhiều như vậy."
 
     # game/variables/tips.rpy:4
     old "I should train from time to time."
-    new "Tôi nên tập luyện liên tục."
+    new "Mình nên tập luyện liên tục."
 
     # game/variables/tips.rpy:4
     old "She looks down lately, I should speak with her."

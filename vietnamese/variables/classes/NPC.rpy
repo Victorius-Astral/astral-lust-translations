@@ -4,11 +4,11 @@ translate vietnamese strings:
 
     # game/variables/classes/NPC.rpy:91
     old "{}'s trust + {}"
-    new "{} Sự tin tưởng + {}"
+    new "{} Tin tưởng + {}"
 
     # game/variables/classes/NPC.rpy:102
     old "{}'s trust - {}"
-    new "{} Sự tin tưởng - {}"
+    new "{} Tin tưởng - {}"
 
     # game/variables/classes/NPC.rpy:117
     old "{}'s submission + {}"
@@ -20,8 +20,8 @@ translate vietnamese strings:
 
     # game/variables/classes/NPC.rpy:159
     old "{}'s lust + {}"
-    new "{} Dục vọng + {}"
+    new "{} Ham muốn + {}"
 
     # game/variables/classes/NPC.rpy:170
     old "{}'s lust - {}"
-    new "{} Dục vọng - {}"
+    new "{} Ham muốn - {}"

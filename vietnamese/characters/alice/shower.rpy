@@ -88,7 +88,7 @@ translate vietnamese shower_alice_f06e3081:
 translate vietnamese shower_alice_a901fa57:
 
     # alice "It is. If you have anything else to say, be quick. I want to take a shower."
-    alice "Nếu anh có bất cứ điều gì khác muốn nói thì nhanh lên . Em muốn tắmn."
+    alice "Nếu anh có bất cứ điều gì khác muốn nói thì nhanh lên. Em muốn tắmn."
 
 # game/characters/alice/shower.rpy:71
 translate vietnamese shower_alice_f64eae46:

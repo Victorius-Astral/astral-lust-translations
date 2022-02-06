@@ -214,7 +214,7 @@ translate vietnamese exp_treasure_hunt_reward1_33ee5272:
 translate vietnamese exp_treasure_hunt_reward1_fd83afc4:
 
     # me "That's all?!"
-    me "Đó là tất cả?!"
+    me "Thế thôi á?!"
 
 # game/events/explore/treasure_hunt.rpy:260
 translate vietnamese exp_treasure_hunt_reward1_2d2bc4ad:

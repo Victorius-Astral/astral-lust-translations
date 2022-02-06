@@ -4,7 +4,7 @@
 translate vietnamese dog_pat_f0_02da90bd:
 
     # me "Hello buddy. You're getting comfortable here, aren't you?"
-    me "Xin chào cậu bé. đang cảm thấy thoải mái ở đây, phải không?"
+    me "Xin chào cậu bé. cảm thấy thoải mái ở đây chứ?"
 
 # game/characters/dog/pat.rpy:26
 translate vietnamese dog_pat_f0_74efd751:
@@ -16,7 +16,7 @@ translate vietnamese dog_pat_f0_74efd751:
 translate vietnamese dog_pat_lobby_cee43bc8:
 
     # me "Look at you! You jumped to the sofa in a flash."
-    me "Nhìn mày kìa! Chưa gì đã nhảy đến ghế sofa rồi kìa."
+    me "Nhìn mày kìa! Chưa gì đã nhảy đến ghế sofa rồi."
 
 # game/characters/dog/pat.rpy:34
 translate vietnamese dog_pat_lobby_c7fffbee:

@@ -22,13 +22,13 @@ translate vietnamese alice_13_8f437618:
 translate vietnamese alice_13_62e0407e:
 
     # alice "I'm trying to sleep, but it's hard with how chatty you are."
-    alice "Em đang cố ngủ, nhưng thật khó với cách anh nói chuyện phiếm."
+    alice "Em đang cố ngủ, nhưng rất khó với sự lắm mồm của anh."
 
 # game/characters/alice/ev_13.rpy:10
 translate vietnamese alice_13_fdb67b12:
 
     # me "You know what I mean."
-    me "Em biết ý anh gì mà."
+    me "Em biết ý anh là gì mà."
 
 # game/characters/alice/ev_13.rpy:13
 translate vietnamese alice_13_0afbcd02:
@@ -40,7 +40,7 @@ translate vietnamese alice_13_0afbcd02:
 translate vietnamese alice_13_c4a7f2e0:
 
     # alice "You piss me off. Like, a loooot."
-    alice "Anh làm em bực mình. Rất nhiềuuuuuu"
+    alice "Anh làm em bực mình. Rất nhiềuuuuuu đấy"
 
 # game/characters/alice/ev_13.rpy:17
 translate vietnamese alice_13_a6a79e45:
@@ -52,7 +52,7 @@ translate vietnamese alice_13_a6a79e45:
 translate vietnamese alice_13_f3757095:
 
     # alice "I can't get you out of my head!"
-    alice "Em không thể bỏ anh ra khỏi tâm trí của mình!"
+    alice "Em không thể gạt anh ra khỏi tâm trí của mình được!"
 
 # game/characters/alice/ev_13.rpy:23
 translate vietnamese alice_13_bed4ee9f:
@@ -70,13 +70,13 @@ translate vietnamese alice_13_df5824a2:
 translate vietnamese alice_13_752ffc6a:
 
     # alice "I think of you waking up, and falling asleep. It doesn't matter what I do, talk with Grace, take a shower or masturbate, I fuckin' think about you."
-    alice "Em nghĩ về anh khi thức dậy, và chìm vào giấc ngủ. Không quan trọng em làm gì, nói chuyện với Grace, đi tắm hay thủ dâm, tôi sẽ nghĩ về anh."
+    alice "Em nghĩ về anh khi thức dậy, và chìm vào giấc ngủ. Không quan trọng em làm gì, nói chuyện với Grace, đi tắm hay thủ dâm, em sẽ nghĩ về anh."
 
 # game/characters/alice/ev_13.rpy:30
 translate vietnamese alice_13_1a9f7fba:
 
     # alice "And it's annoying as hell, do you think I have no better things to think about?"
-    alice "Và nó rất khó chịu, anh có nghĩ rằng em không có điều gì tốt hơn để nghĩ về?"
+    alice "Và nó rất khó chịu, anh có nghĩ rằng em không có điều gì tốt hơn để nghĩ về sao?"
 
 # game/characters/alice/ev_13.rpy:31
 translate vietnamese alice_13_78d8ff6a:
@@ -148,7 +148,7 @@ translate vietnamese alice_13_2899d2c5:
 translate vietnamese alice_13_d69344a8:
 
     # alice "Why would I even love you? I know nothing about you, you might have had a wife and a kids before, I don't even know how old you are.."
-    alice "Tại sao em thậm chí sẽ yêu anh? em không biết tí gì về anh, anh có thể đã có vợ và một đứa con trước đó, em thậm chí không biết anh bao nhiêu tuổi.."
+    alice "Tại sao em lại yêu anh chứ? em không biết tí gì về anh, anh có thể đã có vợ và một đứa con trước đó, em thậm chí không biết anh bao nhiêu tuổi.."
 
 # game/characters/alice/ev_13.rpy:52
 translate vietnamese alice_13_c13cfca0:
@@ -172,7 +172,7 @@ translate vietnamese alice_13_61660bd0_1:
 translate vietnamese alice_13_df262f2d:
 
     # alice "I'm totally unlike myself with you.."
-    alice "Em hoàn toàn không giống bản thân khi ở với anh.."
+    alice "Em hoàn toàn không giống bản thân mình khi ở với anh.."
 
 # game/characters/alice/ev_13.rpy:58
 translate vietnamese alice_13_38c24143:
@@ -190,13 +190,13 @@ translate vietnamese alice_13_685b5f2f:
 translate vietnamese alice_13_0fc2a206:
 
     # alice "Can you say, that you love me?"
-    alice "Anh có thể nói, rằng Anh yêu em không?"
+    alice "Anh có thể nói là Anh yêu em không?"
 
 # game/characters/alice/ev_13.rpy:72
 translate vietnamese alice_13_eed245c4:
 
     # alice "I love you too, [me], no matter how annoying you are."
-    alice "Em cũng yêu anh, [me], không có vấn đề dù anh có phiền phức đến mức nào."
+    alice "Em cũng yêu anh, [me], dù cho anh có phiền phức đến mức nào."
 
 # game/characters/alice/ev_13.rpy:73
 translate vietnamese alice_13_f7f4883a:
@@ -214,7 +214,7 @@ translate vietnamese alice_13_9ec32461:
 translate vietnamese alice_13_69966521:
 
     # me "Yeah, my little, fussy girlfriend."
-    me "Vâng, cô bạn gái nhỏ bé, kén chọn của tôi."
+    me "Vâng, cô bạn gái nhỏ bé, kén chọn của anh."
 
 # game/characters/alice/ev_13.rpy:78
 translate vietnamese alice_13_b57cdc5e:

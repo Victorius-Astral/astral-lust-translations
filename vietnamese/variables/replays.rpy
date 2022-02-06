@@ -68,7 +68,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:30
     old "Wakeup Blowjob"
-    new "Đánh thức bằng Blowjob"
+    new "Đánh thức bằng bú cu"
 
     # game/variables/replays.rpy:30
     old "Wakeup Sex"
@@ -84,7 +84,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:63
     old "Peeking Tom"
-    new "Nhìn trộm Tom"
+    new "Nhìn trộm"
 
     # game/variables/replays.rpy:63
     old "Good Ol' Bottle"
@@ -116,7 +116,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:63
     old "Café Date part 2"
-    new "Cuộc hẹn Café phần 2"
+    new "Cuộc hẹn hò Cà phê phần 2"
 
     # game/variables/replays.rpy:63
     old "What Happened?"
@@ -156,7 +156,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:89
     old "Ice Cream for a Kiss"
-    new "Kem cho nụ hôn"
+    new "Kem đổi lấy nụ hôn"
 
     # game/variables/replays.rpy:89
     old "Unrestful Night"
@@ -164,7 +164,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:89
     old "Café Date part 1"
-    new "Cuộc hẹn Café phần 1"
+    new "Cuộc hẹn hò Cà phê phần 1"
 
     # game/variables/replays.rpy:89
     old "Exploration - Damsel in Distress"
@@ -220,7 +220,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:111
     old "At the Library Again"
-    new "Tại thư viện một lần nữa"
+    new "Tại thư viện lần nữa"
 
     # game/variables/replays.rpy:111
     old "Aharon's Call"
@@ -288,7 +288,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:151
     old "Leaving for Home"
-    new "Về nhà"
+    new "Rời khỏi nhà"
 
     # game/variables/replays.rpy:151
     old "What has gotten into her?"
@@ -304,7 +304,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:162
     old "Her Powers"
-    new "Năng lực của cổ"
+    new "Năng lực của cô ấy"
 
     # game/variables/replays.rpy:168
     old "Recurring Nightmare"
@@ -340,7 +340,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:188
     old "Bandits - Assault"
-    new "Kẻ cướp - Tấn công"
+    new "Kẻ cướp - Đột kích"
 
     # game/variables/replays.rpy:188
     old "Bandits - Guns"
@@ -360,7 +360,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:188
     old "Intact House"
-    new "Nhà nguyên vẹn"
+    new "Ngôi nhà nguyên vẹn"
 
     # game/variables/replays.rpy:188
     old "Market"
@@ -416,15 +416,15 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:188
     old "Damsel in Distress - Bandit"
-    new "Thiếu nữ gặp nguy - Bandit"
+    new "Thiếu nữ gặp nguy - Kẻ cướp"
 
     # game/variables/replays.rpy:188
     old "Injured Dragon"
-    new "Rồng bị thương"
+    new "Con rồng bị thương"
 
     # game/variables/replays.rpy:188
     old "Chased Trader's Daughter"
-    new "Con gái của thương nhân dịch bị truy đuổi"
+    new "Con gái của thương nhân bị truy đuổi"
 
     # game/variables/replays.rpy:217
     old "Found Hideout"
@@ -452,7 +452,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:230
     old "Ending - Assault on Grace"
-    new "Ending - Tấn công vào Grace"
+    new "Ending - Tấn công Grace"
 
     # game/variables/replays.rpy:230
     old "Dragon Slayer (Discord)"

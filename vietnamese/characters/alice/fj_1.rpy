@@ -22,7 +22,7 @@ translate vietnamese alice_fj_1_b21cb911:
 translate vietnamese alice_fj_1_54f6e78f:
 
     # "She starts the massage by teasing the tip with her toes."
-    "Cô ấy bắt đầu mát-xa bằng cách dùng ngón chân nghịch đầu cu của bạn."
+    "Cô ấy bắt đầu massage bằng cách dùng ngón chân nghịch đầu cu của bạn."
 
 # game/characters/alice/fj_1.rpy:44
 translate vietnamese alice_fj_1_46bfd397:
@@ -64,7 +64,7 @@ translate vietnamese alice_fj_1_313c921f:
 translate vietnamese alice_fj_1_408b6834:
 
     # alice "Good to hear, but I'm not done yet."
-    alice "Nghe hay đấy, nhưng em chưa nói xong đâu."
+    alice "Nghe hay đấy, nhưng em chưa xong đâu."
 
 # game/characters/alice/fj_1.rpy:69
 translate vietnamese alice_fj_1_1b87d18d:
@@ -112,7 +112,7 @@ translate vietnamese alice_fj_1_22147cf3:
 translate vietnamese alice_fj_1_fcefdb1e:
 
     # alice "You look kind of hot like this."
-    alice "Anh trông khá mlem như thế này đấy."
+    alice "Anh trông khá mlem khi như thế này đấy."
 
 # game/characters/alice/fj_1.rpy:95
 translate vietnamese alice_fj_1_3820771a:
@@ -142,7 +142,7 @@ translate vietnamese alice_fj_1_4ef07d77:
 translate vietnamese alice_fj_1_f27c5771:
 
     # me "Now I know how the girls feel."
-    me "Bây giờ tôi biết các cô gái cảm thấy thế nào."
+    me "Giờ mình biết con gái cảm thấy thế nào rồi."
 
 # game/characters/alice/fj_1.rpy:102
 translate vietnamese alice_fj_1_02f12850:

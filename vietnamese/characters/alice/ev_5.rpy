@@ -28,13 +28,13 @@ translate vietnamese alice_5_1e7409fe:
 translate vietnamese alice_5_97e3a8ce:
 
     # "{color=#800080}[[Need 5%% Corruption]{/color} Kill human enemies to increase corruption."
-    "{color=#800080}[[Cần 5\%% sự đồi bại]{/color} Giết hoặc hiếp dâm người vô tội hoặc làm những điều sai trái khác... sẽ tăng sự đồi bại."
+    "{color=#800080}[[Cần 5\%% sự sa đọa]{/color} Giết hoặc hiếp dâm người vô tội hoặc làm những điều sai trái khác sẽ tăng sự đồi bại."
 
 # game/characters/alice/ev_5.rpy:12
 translate vietnamese alice_5_cc3ee69f:
 
     # th "No, I shouldn't walk on her like that. She deserves some privacy."
-    th "Không, mình không nên đi vào phòng em ấy như vậy. Cô ấy xứng đáng có một chút sự riêng tư."
+    th "Không, mình không nên đi vào phòng em ấy như vậy. Em ấy xứng đáng có một chút riêng tư."
 
 # game/characters/alice/ev_5.rpy:25
 translate vietnamese alice_5_1_b44a53e7:
@@ -70,13 +70,13 @@ translate vietnamese alice_5_1_f49ec515:
 translate vietnamese alice_5_1_118cccfe:
 
     # th "There won't be a reward without risks."
-    th "Sẽ không có phần thưởng mà không có rủi ro (học trò thầy huấn đây rồi)."
+    th "Sẽ không có phần thưởng mà không có rủi ro."
 
 # game/characters/alice/ev_5.rpy:51
 translate vietnamese alice_5_1_6ad34a69:
 
     # th "Exactly how I remember it!"
-    th "Chính xác như những gì mình nhớ !"
+    th "Chính xác như những gì mình nhớ!"
 
 # game/characters/alice/ev_5.rpy:53
 translate vietnamese alice_5_1_a59f767c:
@@ -118,7 +118,7 @@ translate vietnamese alice_5_1_5ed48bd0:
 translate vietnamese alice_5_1_3d8e4b2a:
 
     # th "Didn't realize I was this charming hehe."
-    th "Không nhận ra mình quyến rũ thế này hehe."
+    th "Không nghĩ là mình quyến rũ đến thế này đấy hehe."
 
 # game/characters/alice/ev_5.rpy:69
 translate vietnamese alice_5_1_9908a727:
@@ -136,7 +136,7 @@ translate vietnamese alice_5_1_203f0bb7:
 translate vietnamese alice_5_1_644a2f39:
 
     # "Her voice wakes you up from your thoughts. You notice she seems less confident than usual, as if she's embarrassed." id alice_5_1_644a2f39
-    "Giọng nói của cô ấy đánh thức bạn khỏi suy nghĩ của bạn. Bạn nhận thấy cô ấy có vẻ kém tự tin hơn bình thường, như thể cô ấy đang xấu hổ." id alice_5_1_644a2f39
+    "Giọng nói của cô ấy đánh thức bạn khỏi suy nghĩ của mình. Bạn nhận thấy cô ấy có vẻ kém tự tin hơn bình thường, như thể cô ấy đang xấu hổ." id alice_5_1_644a2f39
 
 # game/characters/alice/ev_5.rpy:73
 translate vietnamese alice_5_1_e5c8c852:
@@ -148,7 +148,7 @@ translate vietnamese alice_5_1_e5c8c852:
 translate vietnamese alice_5_1_73d3458f:
 
     # me "Sorry for that, I forgot to knock."
-    me "Xin lỗi vì điều đó, anh quên gõ cửa."
+    me "Xin lỗi nha, anh quên gõ cửa."
 
 # game/characters/alice/ev_5.rpy:80
 translate vietnamese alice_5_1_401b8bfc:
@@ -196,7 +196,7 @@ translate vietnamese alice_5_1_689bede6:
 translate vietnamese alice_5_1_8af9ef50:
 
     # me "Can't say no to the beauty can I?"
-    me " không thể nói không người đẹp được?"
+    me "Sao có thể nói không với người đẹp được chứ?"
 
 # game/characters/alice/ev_5.rpy:92
 translate vietnamese alice_5_1_35dec494:
@@ -226,7 +226,7 @@ translate vietnamese alice_5_1_31675492:
 translate vietnamese alice_5_1_b1ae5d70:
 
     # me "You are in dire need of my tongue!"
-    me "Em đang rất cần lưỡi của tôi!"
+    me "Em đang rất cần lưỡi của anh!"
 
 # game/characters/alice/ev_5.rpy:103
 translate vietnamese alice_5_1_9e13df63:
@@ -244,7 +244,7 @@ translate vietnamese alice_5_1_689bede6_1:
 translate vietnamese alice_5_1_cee7d335:
 
     # alice "What are you waiting for then?"
-    alice "Anh đang chờ đợi điều gì nữa?"
+    alice "Anh còn chờ cái gì nữa?"
 
 # game/characters/alice/ev_5.rpy:109
 translate vietnamese alice_5_1_a62c8c15:
@@ -256,7 +256,7 @@ translate vietnamese alice_5_1_a62c8c15:
 translate vietnamese alice_5_2_706cd899:
 
     # me "You don't need to ask twice."
-    me "Em không cần phải hỏi hai lần."
+    me "Em không cần phải hỏi hai lần đâu."
 
 # game/characters/alice/ev_5.rpy:120
 translate vietnamese alice_5_2_a688eb90:
@@ -304,7 +304,7 @@ translate vietnamese alice_5_2_dbd8e68f:
 translate vietnamese alice_5_2_0ca7996d:
 
     # "[alice] appears to completely give in to the pleasure. You can't believe that a pussy can taste this good."
-    "[alice] dường như hoàn toàn nhượng bộ cho khoái cảm. Bạn không thể tin rằng một âm hộ có thể ngon như thế này."
+    "[alice] dường như hoàn toàn nhượng bộ cho khoái cảm. Bạn không thể tin rằng một cái âm hộ có thể ngon như thế này."
 
 # game/characters/alice/ev_5.rpy:131
 translate vietnamese alice_5_2_830b5768:
@@ -316,7 +316,7 @@ translate vietnamese alice_5_2_830b5768:
 translate vietnamese alice_5_2_83e8a734:
 
     # "As she calls your name so playfully in her moans your dick is about to burst out of your pants."
-    "Khi cô ấy gọi tên bạn thật Khiêu gợi trong tiếng rên  của cô ấy, máu não dồn hết xuống con cặc của bạn khiến nó sắp bung ra khỏi quần của."
+    "Khi cô ấy gọi tên bạn một cách Khiêu gợi trong tiếng rên của cô ấy, máu não dồn hết xuống con cặc của bạn khiến nó sắp bung ra khỏi quần."
 
 # game/characters/alice/ev_5.rpy:136
 translate vietnamese alice_5_2_c76466c9:
@@ -334,7 +334,7 @@ translate vietnamese alice_5_2_8fda8a83:
 translate vietnamese alice_5_2_50b23672:
 
     # th "Shit, I wish I could fuck her right now!"
-    th "Chết tiệt, tôi ước gì tôi có thể địt cô ấy ngay bây giờ!"
+    th "Chết tiệt, mình ước gì mình có thể địt em ấy ngay bây giờ!"
 
 # game/characters/alice/ev_5.rpy:139
 translate vietnamese alice_5_2_42c3730b:
@@ -352,37 +352,37 @@ translate vietnamese alice_5_2_5c6f5e7b:
 translate vietnamese alice_5_2_d4e6e5d3:
 
     # th "W-wow she was so loud that everyone around definitely heard this!" id alice_5_2_d4e6e5d3
-    th "W-wow cô ấy hét lớn đến nỗi mọi người xung quanh chắc chắn nghe thấy điều này!" id alice_5_2_d4e6e5d3
+    th "W-wow em ấy hét lớn đến nỗi mọi người xung quanh chắc chắn sẽ nghe thấy điều này!" id alice_5_2_d4e6e5d3
 
 # game/characters/alice/ev_5.rpy:159
 translate vietnamese alice_5_2_f0d79d11:
 
     # mina "D-Did she just?"
-    mina "C-Có phải cô ấy vừa?"
+    mina "C-Có phải cậu ấy vừa?"
 
 # game/characters/alice/ev_5.rpy:161
 translate vietnamese alice_5_2_bd890498:
 
     # u_mina "D-Did she just?"
-    u_mina "C-Có phải cô ấy vừa?"
+    u_mina "C-Có phải cậu ấy vừa?"
 
 # game/characters/alice/ev_5.rpy:163
 translate vietnamese alice_5_2_874ebc2b:
 
     # lexi "Y-Yeah.. this girl.."
-    lexi "V-Yeah .. cô gái này.."
+    lexi "Y-Yeah.. cô gái này.."
 
 # game/characters/alice/ev_5.rpy:166
 translate vietnamese alice_5_2_3023c501:
 
     # mina "*Gulp*"
-    mina "*Nuốt nước bọt*"
+    mina "*Ực*"
 
 # game/characters/alice/ev_5.rpy:168
 translate vietnamese alice_5_2_3a6ed496:
 
     # u_mina "*Gulp*"
-    u_mina "*Nuốt nước bọt*"
+    u_mina "*Ực*"
 
 # game/characters/alice/ev_5.rpy:172
 translate vietnamese alice_5_2_5dbb6932:
@@ -406,7 +406,7 @@ translate vietnamese alice_5_2_1456ce50:
 translate vietnamese alice_5_2_c096bac5:
 
     # "[alice]'s smile betrays that she enjoys your embrace."
-    "[alice] Nụ cười phản bội rằng cô ấy thích vòng tay của bạn."
+    "Nụ cười của [alice] phản bội rằng cô ấy thích vòng tay của bạn."
 
 # game/characters/alice/ev_5.rpy:188
 translate vietnamese alice_5_2_21d746a4:
@@ -418,7 +418,7 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_5.rpy:9
     old "{color=#800080}[[Corruption]{/color} Yes"
-    new "{color=#800080}[[Corruption]{/color} Yes"
+    new "{color=#800080}[[Sa đọa]{/color} Có"
 
     # game/characters/alice/ev_5.rpy:75
     old "Apologize"
@@ -430,8 +430,8 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_5.rpy:173
     old "Time to go"
-    new "Đến lúc để đi"
+    new "Đến lúc để đi rồi"
 
     # game/characters/alice/ev_5.rpy:173
     old "Cuddle with her"
-    new "Âu yếm với cô ấy"
+    new "Âu yếm với em ấy"

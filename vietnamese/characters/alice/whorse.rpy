@@ -10,7 +10,7 @@ translate vietnamese alice_whorse_25f6ef10:
 translate vietnamese alice_whorse_aff3fe1d:
 
     # me "How does it feel?"
-    me "Em cảm thấy như thế nào?"
+    me "Em cảm thấy như nào rồi?"
 
 # game/characters/alice/whorse.rpy:47
 translate vietnamese alice_whorse_88c4ed8d:
@@ -22,7 +22,7 @@ translate vietnamese alice_whorse_88c4ed8d:
 translate vietnamese alice_whorse_7990679d:
 
     # me "Painful in a good way?"
-    me "Đau một cách tốt?"
+    me "Đau một cách tốt á?"
 
 # game/characters/alice/whorse.rpy:49
 translate vietnamese alice_whorse_6da174dc:
@@ -100,7 +100,7 @@ translate vietnamese alice_whorse_5ee5a691:
 translate vietnamese alice_whorse_00ad3e15:
 
     # me "I do."
-    me "Anh đã."
+    me "Đúng òi đấy em iu."
 
 # game/characters/alice/whorse.rpy:82
 translate vietnamese alice_whorse_079b8f53:
@@ -112,19 +112,19 @@ translate vietnamese alice_whorse_079b8f53:
 translate vietnamese alice_whorse_9930f875:
 
     # alice "If you didn't tie my hands, I would pounce on you right now~"
-    alice "Nếu anh không trói tay em, em sẽ lao vào bạn ngay bây giờ~"
+    alice "Nếu anh không trói tay em, thì em sẽ lao vào anh ngay lập tức~"
 
 # game/characters/alice/whorse.rpy:84
 translate vietnamese alice_whorse_daadb2e4:
 
     # me "Be a good little girl, and listen to your boyfriend."
-    me "Hãy là một cô bé ngoan và nghe lời bạn trai của mình."
+    me "Hãy là một cô bé ngoan và nghe lời bạn trai của mình đi."
 
 # game/characters/alice/whorse.rpy:85
 translate vietnamese alice_whorse_8271d54c:
 
     # alice "Mm.. I want to have orgasm, I'm dripping wet.."
-    alice "Mm.. Tôi muốn lên đỉnh, em ướt lắm rồi.."
+    alice "Mm.. em muốn lên đỉnh, em ướt lắm rồi.."
 
 # game/characters/alice/whorse.rpy:86
 translate vietnamese alice_whorse_4f813d1a:
@@ -184,7 +184,7 @@ translate vietnamese alice_whorse_f18c8091:
 translate vietnamese alice_whorse_473c31a6:
 
     # me "Now, now, my little nympho."
-    me "Bây giờ, bây giờ, kẻ cuồng dâm nhỏ của anh."
+    me "Nào, nào, kẻ cuồng dâm nhỏ của anh."
 
 # game/characters/alice/whorse.rpy:119
 translate vietnamese alice_whorse_b622ec17:
@@ -214,7 +214,7 @@ translate vietnamese alice_whorse_bf8bc5d1:
 translate vietnamese alice_whorse_91ac1610:
 
     # me "We will see. Now, let's get you down."
-    me "Chúng ta sẽ xem. Bây giờ, hãy em bạn xuống."
+    me "Chúng ta sẽ xem. Bây giờ hãy cho em xuống nào."
 
 # game/characters/alice/whorse.rpy:130
 translate vietnamese alice_whorse_06408542:
@@ -262,4 +262,4 @@ translate vietnamese alice_whorse_231915ff:
 translate vietnamese alice_whorse_a9e42f77:
 
     # me "Heh, this little, playful wench.."
-    me "Heh, cái con nhỏ, vui chơi này.."
+    me "Heh, cái con nhỏ, ham chơi này.."

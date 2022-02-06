@@ -8,7 +8,7 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "vitality"
-    new "sức sống"
+    new "Sức bền bỉ"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "charisma"

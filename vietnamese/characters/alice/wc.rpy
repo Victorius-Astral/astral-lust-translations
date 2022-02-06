@@ -106,7 +106,7 @@ translate vietnamese wc_alice_30e6ea26:
 translate vietnamese wc_alice_d8805dfa:
 
     # me "Your my lovely, beautiful, darling. You're mine, and you don't need to be ashamed or afraid with me by your side."
-    me "Em yêu của anh, xinh đẹp, yêu dấu. Em là của anh, và em không cần phải xấu hổ hay sợ hãi khi có anh ở bên cạnh bạn."
+    me "Em yêu của anh, xinh đẹp, yêu dấu. Em là của anh, và em không cần phải xấu hổ hay sợ hãi khi có anh ở bên cạnh đâu."
 
 # game/characters/alice/wc.rpy:59
 translate vietnamese wc_alice_14de9ef1:
@@ -118,7 +118,7 @@ translate vietnamese wc_alice_14de9ef1:
 translate vietnamese wc_alice_1d445196:
 
     # me "Haha. Look at her, how eager for compliments she is."
-    me "Haha. Nhìn cô ấy này, thật háo hức biết bao những lời khen ngợi."
+    me "Haha. Nhìn cô ấy này, thật háo hức biết bao trước những lời khen ngợi."
 
 # game/characters/alice/wc.rpy:61
 translate vietnamese wc_alice_74631f0a:
@@ -142,13 +142,13 @@ translate vietnamese wc_alice_0781252c:
 translate vietnamese wc_alice_1f877649:
 
     # me "What do you mean?"
-    me "Ý bạn em gì?"
+    me "Ý em gì?"
 
 # game/characters/alice/wc.rpy:70
 translate vietnamese wc_alice_d378f6f9:
 
     # alice "You have some dirty thoughts in your mind right now." id wc_alice_d378f6f9
-    alice "Anh có một số suy nghĩ bẩn thỉu trong tâm trí của anh ngay bây giờ." id wc_alice_d378f6f9
+    alice "Anh đang có một số suy nghĩ bẩn thỉu trong tâm trí của anh ngay lúc này." id wc_alice_d378f6f9
 
 # game/characters/alice/wc.rpy:71
 translate vietnamese wc_alice_debafdc7:
@@ -214,13 +214,13 @@ translate vietnamese wc_alice_3820771a_1:
 translate vietnamese wc_alice_437bdac6:
 
     # th "I've pissed her a lot now.."
-    th "Tôi đã chọc cô ấy rất nhiều rồi.."
+    th "Mình đã chọc em ấy rất nhiều rồi.."
 
 # game/characters/alice/wc.rpy:97
 translate vietnamese wc_alice_6534439d:
 
     # alice "Go now, alright?"
-    alice "Đi ngay bây giờ, được chưa?"
+    alice "Đi ngay lập tức, được chứ?"
 
 # game/characters/alice/wc.rpy:98
 translate vietnamese wc_alice_5385b15a:
@@ -238,7 +238,7 @@ translate vietnamese wc_alice_704fc0ff:
 translate vietnamese wc_alice_5e24d098:
 
     # alice "We both know, you're not, go now."
-    alice "Cả hai chúng ta đều biết, là anh không có, hãy đi ngay bây giờ."
+    alice "Cả hai chúng ta đều biết, là anh không có đâu, hãy đi đi."
 
 # game/characters/alice/wc.rpy:105
 translate vietnamese wc_alice_3820771a_2:
@@ -424,7 +424,7 @@ translate vietnamese wc_alice_anal_f1f6e6e3:
 translate vietnamese wc_alice_anal_1cc49010:
 
     # "Her ass squirms taking you over the edge."
-    "Lỗ đít săn chắc của cô ấy đưa bạn qua giới hạn."
+    "Lỗ đít săn chắc của cô ấy đưa bạn đến giới hạn."
 
 # game/characters/alice/wc.rpy:217
 translate vietnamese wc_alice_anal_166d9144:
@@ -472,7 +472,7 @@ translate vietnamese wc_alice_anal_280743f5:
 translate vietnamese wc_alice_anal_9dc4fbb6:
 
     # me "Haha. You always make me happy."
-    me "Haha. Em luôn luôn làm cho tôi hạnh phúc."
+    me "Haha. Em luôn luôn làm cho anh hạnh phúc."
 
 # game/characters/alice/wc.rpy:233
 translate vietnamese wc_alice_anal_9538ef88:

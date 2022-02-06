@@ -22,7 +22,7 @@ translate vietnamese task_alice_combat_gear_b495f7c5:
 translate vietnamese task_alice_combat_gear_12c9144c:
 
     # me "You're horny?"
-    me "Em đang horny?"
+    me "Em đang nứng á?"
 
 # game/characters/alice/tasks.rpy:12
 translate vietnamese task_alice_combat_gear_49bd343b:
@@ -172,7 +172,7 @@ translate vietnamese task_alice_dismantle_clothes_2bb92ab2:
 translate vietnamese task_alice_dismantle_clothes_ab4fe073:
 
     # alice "You do have some uses."
-    alice "Anh cũng có một số công dụng."
+    alice "Anh cũng có một ít công dụng."
 
 # game/characters/alice/tasks.rpy:76
 translate vietnamese task_alice_dismantle_clothes_46ed909a:
@@ -184,7 +184,7 @@ translate vietnamese task_alice_dismantle_clothes_46ed909a:
 translate vietnamese task_alice_dismantle_clothes_2c1a8f3a:
 
     # alice "If you don't need me to do anything else I'll be going to do my own stuff."
-    alice "Nếu anh không cần em làm bất cứ điều gì khác, em sẽ làm việc riêng đây."
+    alice "Nếu anh không cần em làm bất cứ điều gì khác, thì em sẽ làm việc riêng đây."
 
 # game/characters/alice/tasks.rpy:81
 translate vietnamese task_alice_dismantle_clothes_4faa892e:
@@ -220,13 +220,13 @@ translate vietnamese task_alice_dismantle_clothes_779be3b3:
 translate vietnamese task_alice_dismantle_clothes_06f3e035:
 
     # alice "Fine, I'll find out anyway."
-    alice "Được rồi, em vẫn sẽ biết thôi."
+    alice "Được rồi, em vẫn sẽ tìm ra thôi."
 
 # game/characters/alice/tasks.rpy:96
 translate vietnamese task_alice_dismantle_clothes_d248edec:
 
     # me "Let me think."
-    me "Để anh suy nghĩ."
+    me "Để anh nghĩ đã."
 
 # game/characters/alice/tasks.rpy:106
 translate vietnamese task_alice_reinforce_coat_0c4e31c8:
@@ -244,7 +244,7 @@ translate vietnamese task_alice_reinforce_coat_21a8499a:
 translate vietnamese task_alice_reinforce_coat_44a6ec79:
 
     # alice "My pleasure. I've added some reinforced pads."
-    alice "Rất hân hạnh. Em đã thêm một số miếng đệm gia cố."
+    alice "Rất hân hạnh. Em đã thêm một số miếng đệm gia cố rồi đấy."
 
 # game/characters/alice/tasks.rpy:109
 translate vietnamese task_alice_reinforce_coat_998caaea:

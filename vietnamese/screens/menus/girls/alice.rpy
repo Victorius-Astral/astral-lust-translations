@@ -20,15 +20,15 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/alice.rpy:28
     old "• {trust}Trust: "
-    new "• {trust}Sự tin tưởng: "
+    new "• {trust}Tin tưởng: "
 
     # game/screens/menus/girls/alice.rpy:29
     old "• {lust}Lust: "
-    new "• {lust}Dục vọng: "
+    new "• {lust}Ham muốn: "
 
     # game/screens/menus/girls/alice.rpy:30
     old "• {subm}Submission: "
-    new "• {subm}Submission: "
+    new "• {subm}Sự phục tùng: "
 
     # game/screens/menus/girls/alice.rpy:33
     old "• {love}Relationship: girlfriend{/love}"
@@ -56,15 +56,15 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/alice.rpy:45
     old "• Blowjob: "
-    new "• Blowjob: "
+    new "• Bú cu: "
 
     # game/screens/menus/girls/alice.rpy:46
     old "• Boobjob: "
-    new "• Boobjob: "
+    new "• Ngực: "
 
     # game/screens/menus/girls/alice.rpy:47
     old "• Footjob: "
-    new "• Footjob: "
+    new "• Chân: "
 
     # game/screens/menus/girls/alice.rpy:48
     old "• Vaginal: "
@@ -76,15 +76,15 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/alice.rpy:50
     old "• Cunnilingus: "
-    new "• Liếm lồn: "
+    new "• Liếm âm hộ: "
 
     # game/screens/menus/girls/alice.rpy:51
     old "• Sleep sex: "
-    new "• Sleep sex: "
+    new "• Chịch khi ngủ: "
 
     # game/screens/menus/girls/alice.rpy:52
     old "• BDSM plays: "
-    new "• BDSM plays: "
+    new "• BDSM: "
 
     # game/screens/menus/girls/alice.rpy:53
     old "• Creampie: "

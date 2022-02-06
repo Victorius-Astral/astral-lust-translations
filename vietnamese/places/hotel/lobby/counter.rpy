@@ -34,7 +34,7 @@ translate vietnamese room_lobby_counter_3688fcdf:
 translate vietnamese room_lobby_counter_f159d6e1:
 
     # "Gym allows you to train your body. Physical stats include strength, agility and vitality. These stats take part in checks and provide bonuses in combat."
-    "Phòng tập thể dục cho phép bạn rèn luyện cơ thể. Các chỉ số thể chất bao gồm sức mạnh, sự nhanh nhẹn và sức sống. Các số liệu thống kê này tham gia kiểm tra và cung cấp lợi thế trong chiến đấu."
+    "Phòng tập thể dục cho phép bạn rèn luyện cơ thể. Các chỉ số thể chất bao gồm sức mạnh, sự nhanh nhẹn và Sức bền bỉ. Các số liệu thống kê này tham gia kiểm tra và cung cấp lợi thế trong chiến đấu."
 
 # game/places/hotel/lobby/counter.rpy:33
 translate vietnamese room_lobby_counter_0b1da42f:

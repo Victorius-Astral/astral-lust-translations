@@ -58,7 +58,7 @@ translate vietnamese alice_6_c56c0a67:
 translate vietnamese alice_6_0dc74d24:
 
     # alice "No need, I ended up enjoying your peeking after all~"
-    alice "Không cần đâu, cuối cùng thì em cũng thích anh nhìn trộm rồi~"
+    alice "Không cần đâu, cuối cùng thì em cũng thích việc anh nhìn trộm rồi~"
 
 # game/characters/alice/ev_6.rpy:22
 translate vietnamese alice_6_69f2c3b1:
@@ -76,13 +76,13 @@ translate vietnamese alice_6_633a1a62:
 translate vietnamese alice_6_e739bfca:
 
     # alice "Yeees. Do you really have to ask?"
-    alice "Đúng vậy. Anh có nhất thiết phải hỏi không?"
+    alice "Có. Anh có nhất thiết phải hỏi không?"
 
 # game/characters/alice/ev_6.rpy:29
 translate vietnamese alice_6_246b0afc:
 
     # me "I see it as it is."
-    me "Anh thấy nó như nó là vậy đó."
+    me "Anh thì thấy giống vậy thật."
 
 # game/characters/alice/ev_6.rpy:31
 translate vietnamese alice_6_78ec1cd2:
@@ -100,13 +100,13 @@ translate vietnamese alice_6_382501ba:
 translate vietnamese alice_6_fd1133d6:
 
     # alice "Shut up, will you?"
-    alice "Im đi, được không?"
+    alice "Im đi được không?"
 
 # game/characters/alice/ev_6.rpy:34
 translate vietnamese alice_6_a5ccc06a:
 
     # me "How could I say no to my good little girl."
-    me "Làm sao tôi có thể nói không với cô con gái nhỏ ngoan ngoãn của tôi được."
+    me "Làm sao tôi có thể nói không với cô gái nhỏ ngoan ngoãn của mình được chứ."
 
 # game/characters/alice/ev_6.rpy:35
 translate vietnamese alice_6_38c43ffc:
@@ -130,7 +130,7 @@ translate vietnamese alice_6_b49c3cc1:
 translate vietnamese alice_6_49609981:
 
     # me "Now, now only little girls cry."
-    me "Bây giờ, bây giờ chỉ có những cô gái nhỏ mới khóc."
+    me "Nào, nào chỉ có những cô bé mới khóc thôi."
 
 # game/characters/alice/ev_6.rpy:41
 translate vietnamese alice_6_623b3093:
@@ -148,13 +148,13 @@ translate vietnamese alice_6_88eab5f5:
 translate vietnamese alice_6_15d0258d:
 
     # th "Got her this time."
-    th "Nắm được cô ấy lần này rồi."
+    th "Nắm được em ấy lần này rồi."
 
 # game/characters/alice/ev_6.rpy:52
 translate vietnamese alice_6_279f2471:
 
     # alice "I know, right?"
-    alice "Em biết, đúng?"
+    alice "Em biết mà."
 
 # game/characters/alice/ev_6.rpy:54
 translate vietnamese alice_6_072f77c9:
@@ -190,7 +190,7 @@ translate vietnamese alice_6_4dd9f3d2:
 translate vietnamese alice_6_3ae655a5:
 
     # me "You would beg me to play with you."
-    me "Em sẽ cầu xin tôi chơi em đấy."
+    me "Em sẽ cầu xin anh chơi em đấy."
 
 # game/characters/alice/ev_6.rpy:66
 translate vietnamese alice_6_988c3ef0:
@@ -214,7 +214,7 @@ translate vietnamese alice_6_7c82e351:
 translate vietnamese alice_6_2644c289:
 
     # alice "What's up with this lack of an answer?"
-    alice "Chuyện gì Vậy mất lếu lều nhiều quá nên anh rơi mất lưỡi hả?"
+    alice "Chuyện gì Vậy lếu lều nhiều quá nên anh rơi mất lưỡi hả?"
 
 # game/characters/alice/ev_6.rpy:75
 translate vietnamese alice_6_3820771a_1:
@@ -280,13 +280,13 @@ translate vietnamese alice_6_1_d9ae1796:
 translate vietnamese alice_6_1_9b2c4cb4:
 
     # alice "It's not that, working out makes me tranquil. I like this feeling a lot."
-    alice "Không phải vậy, tập thể dục làm cho em yên tĩnh. Tôi thích cảm giác này rất nhiều."
+    alice "Không phải vậy, tập thể dục làm cho em yên tĩnh. Em thích cảm giác này rất nhiều."
 
 # game/characters/alice/ev_6.rpy:101
 translate vietnamese alice_6_1_d0137f8e:
 
     # me "I thought you would rather go crazy."
-    me "Tôi nghĩ em sẽ phát điên lên."
+    me "Anh tưởng em sẽ phát điên lên chứ."
 
 # game/characters/alice/ev_6.rpy:103
 translate vietnamese alice_6_1_835d9cb0:
@@ -328,7 +328,7 @@ translate vietnamese alice_6_1_a4fbccf1:
 translate vietnamese alice_6_1_e3bdb375:
 
     # alice "Don't regret those words later."
-    alice "Sau này đừng hối hận vì những lời nói đó."
+    alice "Sau này đừng hối hận vì những lời nói đó đấy."
 
 # game/characters/alice/ev_6.rpy:113
 translate vietnamese alice_6_1_59182cf8:
@@ -356,4 +356,4 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_6.rpy:26
     old "You would make a great camgirl"
-    new "Em sẽ trở thành nữ hoàng Bigo live thôi"
+    new "Em sẽ trở thành nữ hoàng Bigo live mà"

@@ -16,7 +16,7 @@ translate vietnamese strings:
 
     # game/variables/lists/error_messages.rpy:3
     old "Can't load card image: {image}. \n Card: {card}"
-    new "Can't load card image: {image}. \n Card: {card}"
+    new "Không thể tải hình ảnh thẻ: {image}. \n thẻ: {card}"
 
     # game/variables/lists/error_messages.rpy:3
     old "Card doesn't have description defined. \n Card: {card}"
@@ -225,4 +225,3 @@ translate vietnamese strings:
     # game/variables/lists/error_messages.rpy:3
     old "RandomBag object doesn't have called update() with no updates nor provided updated. \n Object: {obj} \n updates: {updates} \n {updated}"
     new "RandomBag object doesn't have called update() with no updates nor provided updated. \n Object: {obj} \n updates: {updates} \n {updated}"
-

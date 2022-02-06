@@ -10,7 +10,7 @@ translate vietnamese alice_7_cf77ba87:
 translate vietnamese alice_7_77040e8e:
 
     # alice "I'm fine, just bored. What about you? Anything interesting going on?"
-    alice "Em không sao, chỉ là hơi chán. Còn anh thì sao? Có gì thú vị hả?"
+    alice "Em không sao, chỉ là hơi chán thôi. Còn anh thì sao? Có gì thú vị hả?"
 
 # game/characters/alice/ev_7.rpy:21
 translate vietnamese alice_7_459f9370:
@@ -22,7 +22,7 @@ translate vietnamese alice_7_459f9370:
 translate vietnamese alice_7_37214622:
 
     # "You tell her about your journey."
-    "Bạn kể cho cô ấy nghe về cuộc hành trình của bạn."
+    "Bạn kể cho cô ấy nghe về cuộc hành trình của mình."
 
 # game/characters/alice/ev_7.rpy:28
 translate vietnamese alice_7_8a7cdd22:
@@ -52,13 +52,13 @@ translate vietnamese alice_7_8177c361:
 translate vietnamese alice_7_3de9f756:
 
     # alice "To fight with monsters? No thanks."
-    alice "Để chiến đấu với quái vật à? Không, cám ơn."
+    alice "Để chiến đấu với quái vật à? Không cám ơn."
 
 # game/characters/alice/ev_7.rpy:40
 translate vietnamese alice_7_9f6393d7:
 
     # alice "I've got only one life, unlike you."
-    alice "Em chỉ có một mạng thôi, không giống như anh đâu."
+    alice "Em chỉ có một mạng thôi, không giống như anh."
 
 # game/characters/alice/ev_7.rpy:42
 translate vietnamese alice_7_33e1c77b:
@@ -76,7 +76,7 @@ translate vietnamese alice_7_542ad362:
 translate vietnamese alice_7_1_fdc44ce5:
 
     # alice "You know what? I've got an idea. Let's play a game."
-    alice "Anh biết gì không? Anh có ý này. Hãy chơi 1 trò chơi đi."
+    alice "Anh biết gì không? Em có ý này. Hãy chơi 1 trò chơi đi."
 
 # game/characters/alice/ev_7.rpy:59
 translate vietnamese alice_7_1_c2739e5a:
@@ -88,7 +88,7 @@ translate vietnamese alice_7_1_c2739e5a:
 translate vietnamese alice_7_1_4e64e798:
 
     # alice "I'll ask you a question, and if you answer correctly I'll give you something."
-    alice "Em sẽ hỏi anh một câu hỏi và nếu Anh trả lời đúng, Em sẽ cho bạn một thứ."
+    alice "Em sẽ hỏi anh một câu hỏi và nếu Anh trả lời đúng, Em sẽ cho anh một thứ."
 
 # game/characters/alice/ev_7.rpy:65
 translate vietnamese alice_7_1_8a8496e8:
@@ -130,7 +130,7 @@ translate vietnamese alice_7_1_f6971219:
 translate vietnamese alice_7_1_1420afa3:
 
     # me "If I answer wrong, are you going to ask the same question twice?"
-    me "Nếu Anh trả lời sai, em sẽ hỏi cùng một câu hỏi hai lần không?"
+    me "Nếu Anh trả lời sai, em có hỏi cùng một câu hỏi hai lần không?"
 
 # game/characters/alice/ev_7.rpy:78
 translate vietnamese alice_7_1_1d67529c:
@@ -148,7 +148,7 @@ translate vietnamese alice_7_1_b0e73989:
 translate vietnamese alice_7_1_2d2d65af:
 
     # alice "I have only two items on me."
-    alice "Em chỉ có hai món đồ trên người."
+    alice "Em chỉ có hai món đồ trên người thôi."
 
 # game/characters/alice/ev_7.rpy:81
 translate vietnamese alice_7_1_3cc01e00:
@@ -166,7 +166,7 @@ translate vietnamese alice_7_1_df3767c2:
 translate vietnamese alice_7_1_51ba2fbd:
 
     # th "Seems I'll win if I answer three questions."
-    th "Có vẻ như anh sẽ thắng nếu anh trả lời được ba câu hỏi."
+    th "Có vẻ như mình sẽ thắng nếu mình trả lời được ba câu hỏi."
 
 # game/characters/alice/ev_7.rpy:89
 translate vietnamese al_7_me_74a950c2:
@@ -202,7 +202,7 @@ translate vietnamese al_7_me_227724ba:
 translate vietnamese al_7_me_23e68f81:
 
     # alice "Find me again when you change your mind."
-    alice "Tìm lại em khi anh thay đổi quyết định."
+    alice "Tìm em khi anh thay đổi quyết định."
 
 # game/characters/alice/ev_7.rpy:104
 translate vietnamese al_7_me_fca811a5:
@@ -286,19 +286,19 @@ translate vietnamese al_7_questions_8da92649:
 translate vietnamese al_7_questions_14137979:
 
     # alice "What kind of tree can you carry in your hand?"
-    alice "loại cây gì mà bạn có thể cầm trên tay?"
+    alice "Đỉnh Fansipan cao bao nhiêu m?"
 
 # game/characters/alice/ev_7.rpy:231
 translate vietnamese al_7_questions_6671e4cd:
 
     # alice "Some months have 31 days, others have 30 days. How many have 28 days?"
-    alice "Một số tháng có 31 ngày, những tháng khác có 30 ngày. Có bao nhiêu tháng có 28 ngày?"
+    alice "Một vài tháng có 31 ngày, những tháng khác có 30 ngày. Có bao nhiêu tháng có 28 ngày?"
 
 # game/characters/alice/ev_7.rpy:242
 translate vietnamese al_7_questions_d5b6cc22:
 
     # alice "Which room has no walls?"
-    alice "Phòng nào không có tường?"
+    alice "Nhà Nam có 4 anh chị em, 3 đứa lớn tên là Xuân, Hạ, Thu. Vậy người em út tên gì?"
 
 # game/characters/alice/ev_7.rpy:253
 translate vietnamese al_7_questions_d2e18c69:
@@ -334,7 +334,7 @@ translate vietnamese al_7_questions_a1e9073c:
 translate vietnamese al_7_questions_e5aef61a:
 
     # alice "Yeah, I started to pity you a while ago."
-    alice "Yeah, em đã bắt đầu thương hại anh rồi ."
+    alice "Yeah, em đã bắt đầu cảm thấy thương hại anh rồi ."
 
 # game/characters/alice/ev_7.rpy:279
 translate vietnamese al_7_questions_3820771a:
@@ -358,7 +358,7 @@ translate vietnamese al_7_questions_d601de8b:
 translate vietnamese al_7_questions_3b5a6acf:
 
     # alice "Repeat: Help me."
-    alice "Nói lại: Help me."
+    alice "Lặp lại theo em: Help me."
 
 # game/characters/alice/ev_7.rpy:303
 translate vietnamese al_7_questions_3820771a_1:
@@ -436,7 +436,7 @@ translate vietnamese al_7_questions_fail_f2a02951:
 translate vietnamese al_7_questions_fail_6ae81f13:
 
     # alice "Lose like this some more and I'll go easy on you."
-    alice "Thua như thế này một vài nữa và em sẽ dễ dàng với bạn."
+    alice "Thua như thế này vài ván nữa và em sẽ dễ dàng hơn với anh."
 
 # game/characters/alice/ev_7.rpy:351
 translate vietnamese al_7_questions_fail_23be24fb:
@@ -454,7 +454,7 @@ translate vietnamese al_7_questions_reward_1be97641:
 translate vietnamese al_7_questions_reward_ca698b98:
 
     # alice "I kind of.. don't have anything else to give you."
-    alice "em đại loại là .. không có bất cứ thứ gì khác để đưa cho anh."
+    alice "em đại loại là.. không có bất cứ thứ gì khác để đưa cho anh."
 
 # game/characters/alice/ev_7.rpy:360
 translate vietnamese al_7_questions_reward_989dc348:
@@ -472,7 +472,7 @@ translate vietnamese al_7_questions_reward_74f05a4e:
 translate vietnamese al_7_questions_reward_ffc53b55:
 
     # me "Pay up."
-    me "nào."
+    me "Nào."
 
 # game/characters/alice/ev_7.rpy:365
 translate vietnamese al_7_questions_reward_74f05a4e_1:
@@ -484,7 +484,7 @@ translate vietnamese al_7_questions_reward_74f05a4e_1:
 translate vietnamese al_7_questions_reward_6ee5cf18:
 
     # alice "Let's go to my room."
-    alice "Hãy về phòng của em."
+    alice "Hãy về phòng của em đi."
 
 # game/characters/alice/ev_7.rpy:371
 translate vietnamese al_7_questions_reward_8dd7b859:
@@ -514,7 +514,7 @@ translate vietnamese al_7_questions_reward_0d64bbfe:
 translate vietnamese al_7_questions_reward_dcaec663:
 
     # alice "Undress."
-    alice "Cởi quần áo."
+    alice "Cởi đồ đi."
 
 # game/characters/alice/ev_7.rpy:388
 translate vietnamese al_7_questions_reward_58fcd08c:
@@ -574,13 +574,13 @@ translate vietnamese al_7_questions_ask_2cb774de:
 translate vietnamese al_7_questions_ask_39888bac:
 
     # me "No, I'm just giving you time to prepare some rewards."
-    me "Không, anh chỉ cho em thời gian để chuẩn bị phần thưởng."
+    me "Không, anh chỉ cho em thời gian để chuẩn bị phần thưởng thôi."
 
 # game/characters/alice/ev_7.rpy:443
 translate vietnamese al_7_questions_ask_6712f3de:
 
     # alice "Sure~"
-    alice "Chắc rồi~"
+    alice "Phải rồi~"
 
 # game/characters/alice/ev_7.rpy:444
 translate vietnamese al_7_questions_ask_69e73332:

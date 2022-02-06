@@ -100,7 +100,7 @@ translate vietnamese alice_sex_1_947a6876:
 translate vietnamese alice_sex_1_0013467a:
 
     # alice "Do you want to fuck [alice]'s pussy, daddy?"
-    alice "Có muốn địt vào lồn [alice] không, daddy?"
+    alice "Có muốn địt vào lồn [alice] không daddy?"
 
 # game/characters/alice/sex_1.rpy:80
 translate vietnamese alice_sex_1_23aa4577:
@@ -154,7 +154,7 @@ translate vietnamese alice_sex_1_part3_38c341ab:
 translate vietnamese alice_sex_1_part3_a80d6c56:
 
     # alice "Fuck~ Fuck me, daddy! Fuck your little girl~ It feels so good!"
-    alice "Địt con~ Địt con đi, daddy! Hãy địt cô gái nhỏ của bố ddi~ Nó thạt tuyệt quá!"
+    alice "Địt em~ Địt em đi, daddy! Hãy địt cô gái nhỏ của anh đi~ Thật tuyệt quá!"
 
 # game/characters/alice/sex_1.rpy:105
 translate vietnamese alice_sex_1_part3_3951cfbc:
@@ -166,7 +166,7 @@ translate vietnamese alice_sex_1_part3_3951cfbc:
 translate vietnamese alice_sex_1_part3_8bf5efba:
 
     # "Her pussy is exceptionally tight, it's hard to move, but at the same time it's beyond nice."
-    "Cái lồn của em ấy chặt quá sức tưởng tượng, nó khó để di chuyển, nhưng cùng lúc nó cũng trên cả tuyệt vời."
+    "Cái lồn của cô ấy chặt quá sức tưởng tượng, nó khó để di chuyển, nhưng cùng lúc nó cũng trên cả tuyệt vời."
 
 # game/characters/alice/sex_1.rpy:116
 translate vietnamese alice_sex_1_part3_388a1480:
@@ -202,7 +202,7 @@ translate vietnamese alice_sex_1_part3_ad1fcfae:
 translate vietnamese alice_sex_1_part3_4ff42f79:
 
     # me "How could I say no to my little girl."
-    me "Sao anh lại không với cô gái nhỏ của mình đc."
+    me "Sao anh lại nói không với cô gái của mình được chứ."
 
 # game/characters/alice/sex_1.rpy:132
 translate vietnamese alice_sex_1_part3_cf76ec19:
@@ -238,7 +238,7 @@ translate vietnamese alice_sex_1_part3_5d2f0ca8:
 translate vietnamese alice_sex_1_part3_4f5b42dd:
 
     # alice "S-Sooo gooood, daddy~"
-    alice "Thật tuyệttttttt quá, daddy~"
+    alice "Thật tuyệtttt quá, daddy~"
 
 # game/characters/alice/sex_1.rpy:152
 translate vietnamese alice_sex_1_part3_5cf833a6:
@@ -250,7 +250,7 @@ translate vietnamese alice_sex_1_part3_5cf833a6:
 translate vietnamese alice_sex_1_part3_41370fb2:
 
     # alice "I want to sleep, [me]. I'm tired."
-    alice "Em muốn đi ngủ, [me]. Em mệt rồi."
+    alice "Em muốn đi ngủ [me]. Em mệt rồi."
 
 # game/characters/alice/sex_1.rpy:159
 translate vietnamese alice_sex_1_part3_89aa34d6:
@@ -262,7 +262,7 @@ translate vietnamese alice_sex_1_part3_89aa34d6:
 translate vietnamese alice_sex_1_part3_c2cf6768:
 
     # alice "That's sweet, but no need."
-    alice "Nó thật ngọt ngào, nhưng không cần đâu."
+    alice "Cảm ơn, nhưng không cần đâu."
 
 # game/characters/alice/sex_1.rpy:161
 translate vietnamese alice_sex_1_part3_b88f58d8:

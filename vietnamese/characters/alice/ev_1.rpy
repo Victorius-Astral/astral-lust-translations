@@ -58,7 +58,7 @@ translate vietnamese alice_1_1_0ae7cc52:
 translate vietnamese alice_1_1_ec40802e:
 
     # "A girl lies on the sofa.. Playing with herself.."
-    "Một cô gái nằm trên ghế sofa .. Đang thủ dâm.."
+    "Một cô gái nằm trên ghế sofa.. Đang thủ dâm.."
 
 # game/characters/alice/ev_1.rpy:45
 translate vietnamese alice_1_1_e1cedbc4:
@@ -100,7 +100,7 @@ translate vietnamese alice_1_1_fcefa0e3:
 translate vietnamese alice_1_1_18563a57:
 
     # "You don't think twice and immediately exit her room, just as you are about to close her door you can hear her shouting at you."
-    "Bạn không cần suy nghĩ kỹ mà lập tức thoát ra khỏi phòng của cô ấy, ngay khi bạn định đóng cửa lại, bạn có thể nghe thấy tiếng cô ấy hét vào mặt bạn."
+    "Bạn không suy nghĩ gì thêm mà lập tức ra khỏi phòng của cô ấy, ngay khi bạn định đóng cửa lại, bạn có thể nghe thấy tiếng cô ấy hét vào mặt bạn."
 
 # game/characters/alice/ev_1.rpy:56
 translate vietnamese alice_1_1_2b1cfc68:
@@ -112,7 +112,7 @@ translate vietnamese alice_1_1_2b1cfc68:
 translate vietnamese alice_1_1_ef0be3f4:
 
     # th "Fuck, fuck, fuck, I'm done, she'll kill me."
-    th "Ôi địt mẹ cuộc đời, thôi xong rồi, cô ấy sẽ giết mình mất."
+    th "Ôi địt mẹ cuộc đời, thôi xong rồi, em ấy sẽ giết mình mất."
 
 # game/characters/alice/ev_1.rpy:59
 translate vietnamese alice_1_1_9e39cfd5:
@@ -130,7 +130,7 @@ translate vietnamese alice_1_1_cbaa04c9:
 translate vietnamese alice_1_1_e1923206:
 
     # th "Shit! Where I'm supposed to run to anyway. I guess I'll have to bite the bullet."
-    th "Chết tiệt! Đáng lẽ ra mình phải chạy đi dù sao. Mình đoán là phải chịu rồi."
+    th "Chết tiệt! Đáng lẽ ra mình phải chạy đi chứ. Mình đoán là phải chịu rồi."
 
 # game/characters/alice/ev_1.rpy:67
 translate vietnamese alice_1_1_2572a6ad:
@@ -154,13 +154,13 @@ translate vietnamese alice_1_2_0ead946a:
 translate vietnamese alice_1_2_6cbb5942:
 
     # th "Was I ever this nervous before? It's sooo awkward, I guess I can forget about living here now.."
-    th "Mình đã từng lo lắng như vậy trước đây chưa? Thật là khó xử, Mình đoán bây giờ tôi có thể quên được việc sống ở đây.."
+    th "Mình đã từng lo lắng như vậy trước đây chưa? Thật là khó xử, Mình đoán bây giờ mình có thể quên luôn việc sống ở đây.."
 
 # game/characters/alice/ev_1.rpy:79
 translate vietnamese alice_1_2_53a52211:
 
     # "As you continue to weave various dark thoughts the door opens."
-    "Khi bạn tiếp tục thêu dệt những suy nghĩ đen tối khác nhau, cánh cửa bắt đầu mở ra."
+    "Khi bạn tiếp tục thêu dệt những viễn cảnh đen tối khác nhau, cánh cửa bắt đầu mở ra."
 
 # game/characters/alice/ev_1.rpy:80
 translate vietnamese alice_1_2_d83aba27:
@@ -178,13 +178,13 @@ translate vietnamese alice_1_2_6a26a629:
 translate vietnamese alice_1_2_a7b21877:
 
     # u_alice "So you are [me] I guess?"
-    u_alice "Thế cậu là [me] phải không ?"
+    u_alice "Thế anh là [me] phải không?"
 
 # game/characters/alice/ev_1.rpy:85
 translate vietnamese alice_1_2_e60b9470:
 
     # me "Yes."
-    me "Ừ."
+    me "Phải."
 
 # game/characters/alice/ev_1.rpy:86
 translate vietnamese alice_1_2_5651ca6d:
@@ -196,13 +196,13 @@ translate vietnamese alice_1_2_5651ca6d:
 translate vietnamese alice_1_2_07475d9e:
 
     # alice "Hmmm.. {size=-20}nice.{/size} I'm Alice. Knock next time."
-    alice "Hmmm.. {size=-20}Tốt.{/size} Tôi là Alice. lần sau gõ cửa nhé."
+    alice "Hmmm.. {size=-20}Tốt.{/size} Em là Alice. lần sau gõ cửa nhé."
 
 # game/characters/alice/ev_1.rpy:89
 translate vietnamese alice_1_2_8850b4e3:
 
     # th "Wait.. that's it?"
-    th "Từ từ đã... thế thôi á?"
+    th "Từ từ đã.. thế thôi á?"
 
 # game/characters/alice/ev_1.rpy:91
 translate vietnamese alice_1_2_8ee83b15:
@@ -214,7 +214,7 @@ translate vietnamese alice_1_2_8ee83b15:
 translate vietnamese alice_1_2_661f2a87:
 
     # alice "What, you thought I would eat you?"
-    alice "gì, Cậu nghĩ rằng tôi sẽ ăn cậu à?"
+    alice "Gì, anh nghĩ rằng em sẽ ăn anh à?"
 
 # game/characters/alice/ev_1.rpy:93
 translate vietnamese alice_1_2_b0005a51:
@@ -226,25 +226,25 @@ translate vietnamese alice_1_2_b0005a51:
 translate vietnamese alice_1_2_11791089:
 
     # "As you think what to say she continues in completely different tone."
-    "Khi bạn nghĩ phải nói gì, cô ấy tiếp tục với giọng điệu hoàn toàn khác."
+    "Khi bạn đang nghĩ phải nói gì tiếp, cô ấy tiếp tục với giọng điệu hoàn toàn khác."
 
 # game/characters/alice/ev_1.rpy:96
 translate vietnamese alice_1_2_1fcfaa2e:
 
     # alice "You walked in on an innocent little girl like me.."
-    alice "Cậu đã bước vào phòng của một cô gái nhỏ ngây thơ như tôi.."
+    alice "Anh đã bước vào phòng của một cô gái nhỏ ngây thơ như em.."
 
 # game/characters/alice/ev_1.rpy:97
 translate vietnamese alice_1_2_811d26b4:
 
     # th "What?"
-    th "What?"
+    th "Cái gì?"
 
 # game/characters/alice/ev_1.rpy:99
 translate vietnamese alice_1_2_5ec3c743:
 
     # alice "You're such a bully mister. I think I'll cry."
-    alice "Anh đúng là tên chuyên bắt nạt. Tôi nghĩ tôi sẽ khóc đây."
+    alice "Anh đúng là tên bắt nạt. Em nghĩ mình sẽ khóc đây."
 
 # game/characters/alice/ev_1.rpy:100
 translate vietnamese alice_1_2_3820771a:
@@ -262,7 +262,7 @@ translate vietnamese alice_1_2_89a19d14:
 translate vietnamese alice_1_2_7aa87df9:
 
     # me "W-What do you want?"
-    me "T-Thế cậu muốn cái cái gì?"
+    me "T-Thế em muốn cái cái gì?"
 
 # game/characters/alice/ev_1.rpy:104
 translate vietnamese alice_1_2_ffdb1574:
@@ -274,37 +274,37 @@ translate vietnamese alice_1_2_ffdb1574:
 translate vietnamese alice_1_2_c31e4a0c:
 
     # "As she makes you speechless again you start to feel powerless."
-    "Khi cô ấy khiến bạn không cạn lời lời một lần nữa, bạn bắt đầu cảm thấy bất lực."
+    "Khi cô ấy khiến bạn cứng họng một lần nữa, bạn bắt đầu cảm thấy bất lực."
 
 # game/characters/alice/ev_1.rpy:107
 translate vietnamese alice_1_2_5e2eafcb:
 
     # alice ".. buuut I guess you'll owe me one."
-    alice ".. Nhưnggg Tôi đoán cậu sẽ nợ tôi một lần."
+    alice ".. Nhưnggg em đoán anh sẽ nợ em một lần này."
 
 # game/characters/alice/ev_1.rpy:108
 translate vietnamese alice_1_2_5495be7b:
 
     # th "I'm in the wrong here. I can only agree, hope she doesn't want me to do anything dangerous."
-    th "Tôi sai ở đây. Tôi chỉ có thể đồng ý, hy vọng cô ấy không muốn tôi làm bất cứ điều gì nguy hiểm."
+    th "Mình là người sai ở đây. MÌnh chỉ có thể đồng ý thôi, hy vọng em ấy không muốn mình làm bất cứ điều gì nguy hiểm."
 
 # game/characters/alice/ev_1.rpy:109
 translate vietnamese alice_1_2_d1c58f2e:
 
     # me "Sure. Tell me when you need something."
-    me "Chắc rồi. Hãy nói với tớ khi cậu cần điều gì đó."
+    me "Chắc rồi. Hãy nói với anh khi em cần điều gì đó."
 
 # game/characters/alice/ev_1.rpy:114
 translate vietnamese alice_1_2_14987c19:
 
     # alice "Mmm.. I will."
-    alice "Mmm.. Tớ sẽ."
+    alice "Mmm.. em sẽ."
 
 # game/characters/alice/ev_1.rpy:115
 translate vietnamese alice_1_2_88a57f08:
 
     # th "This girl means trouble.."
-    th "Cô gái này đúng là là rắc rối.."
+    th "Cô gái này đúng là là rắc rối mà.."
 
 # game/characters/alice/ev_1.rpy:117
 translate vietnamese alice_1_2_4e0bedde:

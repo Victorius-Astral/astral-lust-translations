@@ -4,7 +4,7 @@
 translate vietnamese grace_4_b09367ee:
 
     # "As you enter you see [grace] tending to her plants."
-    "As you enter you see [grace] tending to her plants."
+    "Khi bạn bước vào pòng bạn thấy [grace] đang chắm sóc cho mấy cây hoa của em ấy."
 
 # game/characters/grace/ev_4.rpy:7
 translate vietnamese grace_4_4cb18f90:
@@ -106,7 +106,7 @@ translate vietnamese grace_4_06b4b459:
 translate vietnamese grace_4_95f93169:
 
     # "As you see her contented face you must admit that talking with yourself before the mirror is actually having some effect." id grace_4_95f93169
-    "Khi bạn nhìn thấy khuôn mặt mãn nguyện của cô ấy, bạn phải thừa nhận rằng việc nói chuyện với chính mình trước gương thực sự có tác dụng." id grace_4_95f93169
+    "Khi bạn nhìn thấy khuôn mặt mãn nguyện của cô ấy, bạn phải thừa nhận rằng việc tự kỷ trước gương thực sự có tác dụng." id grace_4_95f93169
 
 # game/characters/grace/ev_4.rpy:57
 translate vietnamese grace_4_4540d3de:
@@ -142,7 +142,7 @@ translate vietnamese grace_4_1_1a688c68:
 translate vietnamese grace_4_1_7b8cc5f0:
 
     # "As you help [grace] with plants silence takes over. After a while you start to feel awkward and decide to break the silence."
-    "Khi bạn giúp [grace] với đống hoa hòe, sự im lặng sẽ tiếp tục. Sau một thời gian, bạn bắt đầu cảm thấy khó xử và quyết định phá vỡ sự im lặng."
+    "Khi bạn giúp [grace] với đống hoa hòe của em ấy, sự im lặng sẽ tiếp tục. Sau một thời gian, bạn bắt đầu cảm thấy khó xử và quyết định phá vỡ sự im lặng."
 
 # game/characters/grace/ev_4.rpy:73
 translate vietnamese grace_4_1_5c74f662:
@@ -154,7 +154,7 @@ translate vietnamese grace_4_1_5c74f662:
 translate vietnamese grace_4_1_8531bc70:
 
     # grace "I don't have dad. I have only mommy."
-    grace "Em không có bố. Em chỉ có mẹ."
+    grace "Em không có bố. Em chỉ có mẹ thôi."
 
 # game/characters/grace/ev_4.rpy:76
 translate vietnamese grace_4_1_49584483:
@@ -172,7 +172,7 @@ translate vietnamese grace_4_1_f17e7ca2:
 translate vietnamese grace_4_1_61f9dc4a:
 
     # th "I think I know where her mother's hatred towards men comes from."
-    th "Mình nghĩ Mình biết sự căm ghét đàn ông của mẹ cô ấy bắt nguồn từ đâu."
+    th "Mình nghĩ là mình biết sự căm ghét đàn ông của mẹ em ấy bắt nguồn từ đâu rồi."
 
 # game/characters/grace/ev_4.rpy:80
 translate vietnamese grace_4_1_1d0ab609:
@@ -220,13 +220,13 @@ translate vietnamese grace_4_1_94ba051c:
 translate vietnamese grace_4_1_5c19073c:
 
     # grace "Was mommy wrong?"
-    grace "Was mommy wrong?"
+    grace "Mẹ đã sai sao?"
 
 # game/characters/grace/ev_4.rpy:92
 translate vietnamese grace_4_1_6240084b:
 
     # th "Yes [grace]. Your mother is a psycho."
-    th "Đúng rồi [grace]. Mẹ của em là một người tâm thần đấy."
+    th "Đúng rồi [grace]. Mẹ của em là một con tâm thần đấy."
 
 # game/characters/grace/ev_4.rpy:93
 translate vietnamese grace_4_1_a530049e:
@@ -268,7 +268,7 @@ translate vietnamese grace_4_1_f563f0f2:
 translate vietnamese grace_4_1_7e6693fd:
 
     # "With that [grace] returns to silence and starts tending to the flowers again. You've no idea what she is thinking about."
-    "Với điều đó [grace] trở lại im lặng và bắt đầu chăm sóc những bông hoa một lần nữa. Bạn không biết cô ấy đang nghĩ gì."
+    "Với điều đó [grace] lại im lặng và bắt đầu chăm sóc những bông hoa một lần nữa. Bạn không biết cô ấy đang nghĩ gì."
 
 # game/characters/grace/ev_4.rpy:103
 translate vietnamese grace_4_1_3d8d85ba:
@@ -280,19 +280,19 @@ translate vietnamese grace_4_1_3d8d85ba:
 translate vietnamese grace_4_1_3bb5ec11:
 
     # grace "Thanks for the help! Mommy said that if someone helps you then you should also help her. How can I help you?"
-    grace "Cảm ơn đã giúp đỡ! Mẹ nói rằng nếu ai đó giúp con thì con cũng nên giúp cô ấy. Làm thế nào để em giúp được anh?"
+    grace "Cảm ơn vì sự giúp đỡ! Mẹ nói rằng nếu ai đó giúp con thì con cũng nên giúp cô ấy. Làm thế nào để em giúp được anh?"
 
 # game/characters/grace/ev_4.rpy:107
 translate vietnamese grace_4_1_b1e81a03:
 
     # th "I can guess that her mother had only women in mind but it's good that [grace] doesn't seem to get it."
-    th "Mình có thể đoán rằng mẹ em ấy chỉ có phụ nữ trong tâm trí nhưng thật tốt là [grace] dường như không hiểu."
+    th "Mình có thể đoán ra rằng mẹ em ấy chỉ có phụ nữ trong đầu thôi nhưng thật tốt là [grace] dường như không hiểu."
 
 # game/characters/grace/ev_4.rpy:112
 translate vietnamese grace_4_1_75ccee79:
 
     # grace "Mommy was right you beast! Get out!"
-    grace "Mẹ đã đúng, anh là mọt con thú! Ra ngoài!"
+    grace "Mẹ đã đúng, anh là một con thú! Ra ngoài đi!"
 
 # game/characters/grace/ev_4.rpy:114
 translate vietnamese grace_4_1_a51c3c0f:

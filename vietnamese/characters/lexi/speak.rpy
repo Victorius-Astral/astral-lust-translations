@@ -474,7 +474,7 @@ translate vietnamese strings:
 
     # game/characters/lexi/speak.rpy:12
     old "Need someone to watch your back outside? {loot}(Materials+){/loot}{trust}(Trust+){/trust}"
-    new "Cần ai đó trông chừng sau lưng em bên ngoài không? {loot}(Vật liệu+){/loot}{trust}(Sự tin tưởng+){/trust}"
+    new "Cần ai đó trông chừng sau lưng em bên ngoài không? {loot}(Vật liệu+){/loot}{trust}(Tin tưởng+){/trust}"
 
     # game/characters/lexi/speak.rpy:12
     old "Do you want a massage? {#visible}"

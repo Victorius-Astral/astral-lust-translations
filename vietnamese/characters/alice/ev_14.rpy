@@ -16,7 +16,7 @@ translate vietnamese alice_14_a55068a2:
 translate vietnamese alice_14_081b15bf:
 
     # alice "Do you really think I don't know about your dungeon thing?"
-    alice "Anh có thực sự nghĩ rằng tôi không biết về thứ trong dungeon của anh không?"
+    alice "Anh thực sự nghĩ rằng em không biết về thứ trong dungeon của anh sao?"
 
 # game/characters/alice/ev_14.rpy:19
 translate vietnamese alice_14_3820771a:
@@ -28,19 +28,19 @@ translate vietnamese alice_14_3820771a:
 translate vietnamese alice_14_11d28569:
 
     # alice "You even locked someone there.. Not sure if I want to know what you do with your prisoners."
-    alice "Anh thậm chí còn nhốt ai đó ở đó .. Không chắc em có muốn biết anh làm gì với tù nhân của anh không."
+    alice "Anh thậm chí còn nhốt ai đó ở đó nữa.. em còn không chắc là mình có muốn biết anh làm gì với tù nhân của anh không nữa."
 
 # game/characters/alice/ev_14.rpy:27
 translate vietnamese alice_14_ad31009f:
 
     # alice "And really, you don't have better ways to use your materials?"
-    alice "Và thực sự, Anh không có cách nào tốt hơn để sử dụng tài nguyên của mình à?"
+    alice "Và thật luôn, Anh không có cách nào tốt hơn để sử dụng tài nguyên của mình à?"
 
 # game/characters/alice/ev_14.rpy:28
 translate vietnamese alice_14_402f0fee:
 
     # alice "You've even built a playroom. A fucking playroom, [me]."
-    alice "Anh thậm chí đã xây hẳn một cái phòng tình yêu. Một cái phòng tình yêu chết tiệt, [me]."
+    alice "Anh thậm chí đã xây hẳn một cái phòng tình yêu. Một cái phòng tình yêu chết tiệt đấy [me]."
 
 # game/characters/alice/ev_14.rpy:33
 translate vietnamese alice_14_754668c5:
@@ -52,7 +52,7 @@ translate vietnamese alice_14_754668c5:
 translate vietnamese alice_14_0873721e:
 
     # alice "Me, your fucking girlfriend, [me]!"
-    alice "Em, bạn gái của anh đấy, [me]!"
+    alice "Em, bạn gái của anh đấy [me]!"
 
 # game/characters/alice/ev_14.rpy:39
 translate vietnamese alice_14_4f7233d1:
@@ -112,7 +112,7 @@ translate vietnamese alice_14_part2_237582ec:
 translate vietnamese alice_14_part2_8d7fd32f:
 
     # alice "I would like to do something, we didn't do before."
-    alice "Em muốn làm điều gì đó, mà chúng ta đã không làm trước đây."
+    alice "Em muốn làm điều gì đó mà chúng ta đã chưa từng làm trước đây."
 
 # game/characters/alice/ev_14.rpy:96
 translate vietnamese alice_14_part2_da61283f:
@@ -124,7 +124,7 @@ translate vietnamese alice_14_part2_da61283f:
 translate vietnamese alice_14_part2_a9d7bf98:
 
     # me "I think I got an idea.."
-    me "Anh nghĩ rằng anh có một ý tưởng.."
+    me "Anh nghĩ là anh có một ý tưởng đấy.."
 
 # game/characters/alice/ev_14.rpy:102
 translate vietnamese alice_14_part2_c7e67419:
@@ -154,7 +154,7 @@ translate vietnamese alice_14_part2_1e9b6953:
 translate vietnamese alice_14_part2_4b95af6f:
 
     # alice "Alright, I trust you, [me]. Do whatever you want with me."
-    alice "Được rồi, em tin anh, [me]. Làm bất cứ điều gì anh muốn với em đi."
+    alice "Được rồi, em tin anh đấy. Làm bất cứ điều gì anh muốn với em đi."
 
 # game/characters/alice/ev_14.rpy:115
 translate vietnamese alice_14_part2_3352070d:
@@ -172,13 +172,13 @@ translate vietnamese alice_14_part2_f38d9210:
 translate vietnamese alice_14_part2_d009a09d:
 
     # alice "Cold.. What is it?"
-    alice "Lạnh .. Gì vậy?"
+    alice "Lạnh quá.. Cái gì vậy?"
 
 # game/characters/alice/ev_14.rpy:121
 translate vietnamese alice_14_part2_5a013792:
 
     # me "Patience."
-    me "Bình tĩnh."
+    me "Kiên nhẫn nào."
 
 # game/characters/alice/ev_14.rpy:122
 translate vietnamese alice_14_part2_64d2cba3:
@@ -196,7 +196,7 @@ translate vietnamese alice_14_part2_f96fadd5:
 translate vietnamese alice_14_part2_292612fa:
 
     # alice "A little, it feels weird."
-    alice "Một chút, em cảm giác khá kỳ lạ."
+    alice "Một chút, em cảm thấy khá kỳ lạ."
 
 # game/characters/alice/ev_14.rpy:125
 translate vietnamese alice_14_part2_48ddd1ae:
@@ -226,13 +226,13 @@ translate vietnamese alice_14_part2_a6b77de4:
 translate vietnamese alice_14_part2_a915c093:
 
     # alice "And, ummm.. What's its use?"
-    alice "Và, ummm .. Công dụng của nó là gì?"
+    alice "Và, ummm.. Công dụng của nó là gì?"
 
 # game/characters/alice/ev_14.rpy:136
 translate vietnamese alice_14_part2_9ca4bd2b:
 
     # me "You're light, so it might not be obvious yet, but worry not, you'll figure it out soon enough."
-    me "em khá là nhẹ nên có thể chưa rõ ràng, nhưng đừng lo, em sẽ sớm nhận ra thôi."
+    me "em khá là nhẹ nên có thể chưa thấy gì hết, nhưng đừng lo, em sẽ sớm nhận ra thôi."
 
 # game/characters/alice/ev_14.rpy:137
 translate vietnamese alice_14_part2_2fe6da5c:
@@ -256,7 +256,7 @@ translate vietnamese alice_14_part2_1dbe2ddc:
 translate vietnamese alice_14_part2_28d63b25:
 
     # alice "If I'm to be honest, being bound by you like this.. is hot."
-    alice "Để mà nói thật thì, bị trói bởi anh như thế này cũng.. Thật là nóng bỏng."
+    alice "Để mà nói thật thì, bị trói bởi anh như thế này cũng.. khá là nóng bỏng."
 
 # game/characters/alice/ev_14.rpy:147
 translate vietnamese alice_14_part2_a68f7064:
@@ -274,7 +274,7 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_14.rpy:47
     old "How could I reject a lady?"
-    new "Làm sao tôi có thể từ chối một Quý cô được?"
+    new "Làm sao anh có thể từ chối một Quý cô được?"
 
     # game/characters/alice/ev_14.rpy:47
     old "Nah"

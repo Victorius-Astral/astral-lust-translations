@@ -92,11 +92,11 @@ translate vietnamese strings:
 
     # game/screens.rpy:684
     old "{color=#c13a3a}\nCommunity: Denker{/color}"
-    new "{color=#c13a3a}\nCommunity: Denker{/color}"
+    new "{color=#c13a3a}\nCộng đồng: Denker{/color}"
 
     # game/screens.rpy:686
     old "{color=#b96d19}\nTranslation: Denker(Spanish), Victorius(Polish){/color}"
-    new "{color=#b96d19}\nTranslation: Denker(Spanish), Victorius(Polish){/color}"
+    new "{color=#b96d19}\nbản dịch: Natsuki(Việt nam) Denker(Spanish), Victorius(Polish){/color}"
 
     # game/screens.rpy:687
     old "\nContributed Code: cuckoo4cocoapuffs"
@@ -120,11 +120,11 @@ translate vietnamese strings:
 
     # game/screens.rpy:693
     old "\nCreepypasta: Ashley Rose Wellman (phone calls), Andrew LaBelle (shower), Mycool of The Fear Collective (sleep), Ryan Brennaman (gravedigger)"
-    new "\nCreepypasta: Ashley Rose Wellman (phone calls), Andrew LaBelle (shower), Mycool of The Fear Collective (sleep), Ryan Brennaman (gravedigger)"
+    new "\nCreepypasta: Ashley Rose Wellman (Cuộc gại), Andrew LaBelle (Phòng tắm), Mycool of The Fear Collective (giấc ngủ), Ryan Brennaman (Người đào mộ)"
 
     # game/screens.rpy:694
     old "\nModels made in {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} by {a=http://www.illusion.jp}Illusion{/a}"
-    new "\nModels made in {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} by {a=http://www.illusion.jp}Illusion{/a}"
+    new "\nCác models được tạo ra bằng {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} bởi {a=http://www.illusion.jp}Illusion{/a}"
 
     # game/screens.rpy:695
     old "\n\n{quiet}Legal:\nAstral Lust is the intellectual property of Victorius.\nVictorius can be contacted through Discord (https://discord.gg/rvnBC39USx) or Patreon (https://www.patreon.com/Victorius).\n\n(a) Permission is granted for this material to be shared for non-commercial purposes provided that this statement appears in the reproduced materials.\n(b) You may NOT sell these files or modify these files to sell, either grouped together or separately.\n(c) You may NOT remove or alter the credit of the creator as it is shown here and in the game's files.\n(d) You may redistribute these files (Astral Lust) as Astral Lust for free. Given a credit to the developer (Victorius) is provided.{/quiet}"
@@ -276,7 +276,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:1128
     old "Takes a screenshot."
-    new "Takes a screenshot."
+    new "Chụp màn hình."
 
     # game/screens.rpy:1132
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
@@ -284,15 +284,15 @@ translate vietnamese strings:
 
     # game/screens.rpy:1138
     old "Left Click"
-    new "Left Click"
+    new "Chuột trái"
 
     # game/screens.rpy:1142
     old "Middle Click"
-    new "Middle Click"
+    new "Chuột giữa"
 
     # game/screens.rpy:1146
     old "Right Click"
-    new "Right Click"
+    new "Chuột phải"
 
     # game/screens.rpy:1150
     old "Mouse Wheel Up\nClick Rollback Side"
