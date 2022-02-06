@@ -357,3 +357,11 @@ translate vietnamese strings:
     old "Resume"
     new "Resume"
 
+# TODO: Translation updated at 2022-02-06 09:10
+
+translate vietnamese strings:
+
+    # game/screens.rpy:189
+    old "CONFIRM"
+    new "CONFIRM"
+

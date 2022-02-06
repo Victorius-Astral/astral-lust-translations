@@ -661,3 +661,15 @@ translate vietnamese strings:
     old "help me"
     new "help me"
 
+# TODO: Translation updated at 2022-02-06 09:10
+
+translate vietnamese strings:
+
+    # game/characters/alice/ev_7.rpy:281
+    old "Solve: 1 + 1"
+    new "Solve: 1 + 1"
+
+    # game/characters/alice/ev_7.rpy:308
+    old "Repeat: Help me."
+    new "Repeat: Help me."
+
