@@ -673,3 +673,35 @@ translate vietnamese strings:
     old "Repeat: Help me."
     new "Repeat: Help me."
 
+# TODO: Translation updated at 2022-02-06 09:15
+
+translate vietnamese strings:
+
+    # game/characters/alice/ev_7.rpy:200
+    old "What goes up but never ever comes down?"
+    new "What goes up but never ever comes down?"
+
+    # game/characters/alice/ev_7.rpy:211
+    old "What is always coming, but never arrives?"
+    new "What is always coming, but never arrives?"
+
+    # game/characters/alice/ev_7.rpy:222
+    old "What kind of tree can you carry in your hand?"
+    new "What kind of tree can you carry in your hand?"
+
+    # game/characters/alice/ev_7.rpy:233
+    old "Some months have 31 days, others have 30 days. How many have 28 days?"
+    new "Some months have 31 days, others have 30 days. How many have 28 days?"
+
+    # game/characters/alice/ev_7.rpy:244
+    old "Which room has no walls?"
+    new "Which room has no walls?"
+
+    # game/characters/alice/ev_7.rpy:256
+    old "Solve: 2 + 2 * 2"
+    new "Solve: 2 + 2 * 2"
+
+    # game/characters/alice/ev_7.rpy:267
+    old "What year had World War II began?"
+    new "What year had World War II began?"
+
