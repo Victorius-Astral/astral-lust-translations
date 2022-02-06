@@ -16,7 +16,7 @@ translate vietnamese alice_bj2_1b0f217a:
 translate vietnamese alice_bj2_eb95e18a:
 
     # me "Yeah.. Just like that."
-    me "Yeahh .. Cứ như vậy đi."
+    me "Yeahh.. Cứ như vậy đi."
 
 # game/characters/alice/bj_2.rpy:37
 translate vietnamese alice_bj2_e9f56da6:
@@ -28,7 +28,7 @@ translate vietnamese alice_bj2_e9f56da6:
 translate vietnamese alice_bj2_cf463697:
 
     # me "Fuck! You are good."
-    me "Fuck! em làm tốt quá."
+    me "Em làm tốt quá."
 
 # game/characters/alice/bj_2.rpy:48
 translate vietnamese alice_bj2_de2fdb39:
@@ -40,13 +40,13 @@ translate vietnamese alice_bj2_de2fdb39:
 translate vietnamese alice_bj2_ac43d8d0:
 
     # alice "I kmnw."
-    alice "Em kmnw."
+    alice "Em bimnw."
 
 # game/characters/alice/bj_2.rpy:50
 translate vietnamese alice_bj2_096de50a:
 
     # "It clearly isn't easy for her to talk with a mouth full of dick."
-    "Rõ ràng là không dễ dàng để cô ấy nói chuyện với một cái miệng lấp đầy cặc."
+    "Rõ ràng là không dễ dàng để cô ấy nói chuyện với một cái miệng lấp đầy dương vật."
 
 # game/characters/alice/bj_2.rpy:60
 translate vietnamese alice_bj2_8312c002:
@@ -106,4 +106,4 @@ translate vietnamese alice_bj2_b9bc022e:
 translate vietnamese alice_bj2_5cb454dc:
 
     # "You rest for a while and leave her to clean herself."
-    "Bạn nghỉ ngơi một lúc để cô ấy tự lau dọn chính mình."
+    "Bạn nghỉ ngơi một lúc để cô ấy tự lau chính mình."

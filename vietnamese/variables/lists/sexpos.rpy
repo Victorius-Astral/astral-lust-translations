@@ -16,7 +16,7 @@ translate vietnamese strings:
 
     # game/variables/lists/sexpos.rpy:3
     old "Kiss - Kneeling"
-    new "Hôn - Quỳ xuống"
+    new "Hôn - Quỳ"
 
     # game/variables/lists/sexpos.rpy:3
     old "Kiss - Lying"
@@ -56,15 +56,15 @@ translate vietnamese strings:
 
     # game/variables/lists/sexpos.rpy:3
     old "Anal - Doggy"
-    new "Anal - Doggy"
+    new "Lỗ nhị - Doggy"
 
     # game/variables/lists/sexpos.rpy:3
     old "Anal - Cowgirl"
-    new "Anal - Cowgirl"
+    new "Lỗ nhị - Cowgirl"
 
     # game/variables/lists/sexpos.rpy:3
     old "Anal - Missionary"
-    new "Anal - Missionary"
+    new "Lỗ nhị - Missionary"
 
     # game/variables/lists/sexpos.rpy:3
     old "Boobjob - Sucking"
@@ -148,7 +148,7 @@ translate vietnamese strings:
 
     # game/variables/lists/sexpos.rpy:3
     old "Cunnilingus - Sitting"
-    new "Cunnilingus - Ngồi"
+    new "Lếu lều - Ngồi"
 
     # game/variables/lists/sexpos.rpy:3
     old "Cunnilingus - 69"

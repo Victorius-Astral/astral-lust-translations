@@ -106,7 +106,7 @@ translate vietnamese exp_bandits_rape_win_fd0f8812:
 translate vietnamese exp_bandits_rape_win_868eba1b:
 
     # "Her blowjob feels perfect, it's not too fast or too slow. She seems to have had a lot of practice at this."
-    "Kỹ thuật Blowjob của cô ấy cảm giác thật hoàn hảo, nó không quá nhanh hoặc quá chậm. Cô ấy dường như đã phải luyện tập rất nhiều trong việc này."
+    "Kỹ thuật bú cu của cô ấy thật hoàn hảo, nó không quá nhanh hoặc quá chậm. Dường như đã phải luyện tập rất nhiều trong việc này."
 
 # game/events/explore/bandits_rape.rpy:80
 translate vietnamese exp_bandits_rape_win_57aaedf3:

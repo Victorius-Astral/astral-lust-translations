@@ -4,7 +4,7 @@
 translate vietnamese alice_9_90e426af:
 
     # "You enter [alice]'s room."
-    "Bạn đi vào phòng của alice [alice]."
+    "Bạn đi vào phòng của [alice]."
 
 # game/characters/alice/ev_9.rpy:6
 translate vietnamese alice_9_8b6f0399:
@@ -16,7 +16,7 @@ translate vietnamese alice_9_8b6f0399:
 translate vietnamese alice_9_f5f4b6ad:
 
     # alice "Yeah, much better, all thanks to you."
-    alice "Ừ, đỡ hơn rất nhiều rồi, tất cả là nhờ anh."
+    alice "Có, đỡ hơn rất nhiều rồi, tất cả là nhờ anh đấy."
 
 # game/characters/alice/ev_9.rpy:9
 translate vietnamese alice_9_9e0777f9:
@@ -46,7 +46,7 @@ translate vietnamese alice_9_98180b3e:
 translate vietnamese alice_9_aa1c0b9a:
 
     # me "So? What are we doing this time?"
-    me "Thế thì? Bây giờ chúng ta đang làm gì?"
+    me "Thế thì? Lần chúng ta sẽ làm gì?"
 
 # game/characters/alice/ev_9.rpy:16
 translate vietnamese alice_9_054540eb:
@@ -105,8 +105,8 @@ translate vietnamese alice_9_72298e75:
 # game/characters/alice/ev_9.rpy:30
 translate vietnamese alice_9_2effea9b:
 
-    # me "Rất vui khi đcược giúp em."
-    me "."
+    # me "Glad to be of help."
+    me "Rất vui khi được giúp em."
 
 # game/characters/alice/ev_9.rpy:32
 translate vietnamese alice_9_0eccee7c:

@@ -24,23 +24,23 @@ translate vietnamese strings:
 
     # game/screens/settings/video.rpy:38
     old "Animations"
-    new "Animations"
+    new "Ảnh động"
 
     # game/screens/settings/video.rpy:40
     old "Animated Arenas"
-    new "Animated Arenas"
+    new "Các khu vực động"
 
     # game/screens/settings/video.rpy:41
     old "Animated People"
-    new "Animated People"
+    new "Người động"
 
     # game/screens/settings/video.rpy:42
     old "Animated Wallpapers"
-    new "Animated Wallpapers"
+    new "Hình nền động"
 
     # game/screens/settings/video.rpy:43
     old "Animated Scenes"
-    new "Animated Scenes"
+    new "Cảnh động"
 
     # game/screens/settings/video.rpy:47
     old "Memory"

@@ -28,7 +28,7 @@ translate vietnamese grace_2_c7d87fe5:
 translate vietnamese grace_2_4395f090:
 
     # grace "It was."
-    grace "Đã từng."
+    grace "Đã từng thôi."
 
 # game/characters/grace/ev_2.rpy:9
 translate vietnamese grace_2_3820771a:
@@ -58,13 +58,13 @@ translate vietnamese grace_2_02ee4afc:
 translate vietnamese grace_2_c7182bbf:
 
     # th "Woah! What?!"
-    th "Woah! What?!"
+    th "Woah! cái giề?!"
 
 # game/characters/grace/ev_2.rpy:16
 translate vietnamese grace_2_1d2e65ca:
 
     # me "I never did anything to you.. did I?"
-    me "Anh chưa bao giờ làm bất cứ điều gì với em.. Đúng không?"
+    me "Anh chưa bao giờ làm bất cứ điều gì với em mà.. Đúng không?"
 
 # game/characters/grace/ev_2.rpy:18
 translate vietnamese grace_2_85be6e9d:
@@ -82,7 +82,7 @@ translate vietnamese grace_2_2f379027:
 translate vietnamese grace_2_2d11311a:
 
     # grace "My mom told me. She would never lie to me."
-    grace "Mẹ nói với em. Bà ấy sẽ không bao giờ nói dối."
+    grace "Mẹ nói với em. Mẹ sẽ không bao giờ nói dối."
 
 # game/characters/grace/ev_2.rpy:22
 translate vietnamese grace_2_d1dad0c1:
@@ -136,13 +136,13 @@ translate vietnamese grace_2_3820771a_1:
 translate vietnamese grace_2_7171711b:
 
     # "[grace] appears to be thinking about something while looking at you. You have no idea what's going on in her head right now."
-    "[grace] dường như đang suy nghĩ về điều gì đó khi nhìn vào bạn. Bạn không biết điều gì đang xảy ra trong đầu cô ấy ngay bây giờ."
+    "[grace] dường như đang suy nghĩ về điều gì đó khi nhìn vào bạn. Bạn không biết điều gì đang xảy ra trong đầu cô ấy ngay lúc này."
 
 # game/characters/grace/ev_2.rpy:35
 translate vietnamese grace_2_b50ba9c2:
 
     # grace "You are not getting into my panties!"
-    grace "Anh sẽ không chui vào quần lót tôi được đâu!"
+    grace "Anh sẽ không chui vào quần lót em được đâu!"
 
 # game/characters/grace/ev_2.rpy:37
 translate vietnamese grace_2_3820771a_2:
@@ -154,13 +154,13 @@ translate vietnamese grace_2_3820771a_2:
 translate vietnamese grace_2_5a66446b:
 
     # th "This won't get my anywhere. I need to change the topic. What should I talk about?"
-    th "Việc này sẽ không đi đến đâu hết. Mình cần phải thay đổi chủ đề. Mình nên nói về cái gì nhỉ?"
+    th "Việc này sẽ không đi đến đâu hết. Mình cần phải thay đổi chủ đề thôi. Mình nên nói về cái gì nhỉ?"
 
 # game/characters/grace/ev_2.rpy:41
 translate vietnamese grace_2_menu_6183dd66:
 
     # th "I was supposed to change topic. I shouldn't ask about her mother. It'll only make things worse." id grace_2_menu_6183dd66
-    th "Mình đã phải chuyển chủ đề. Mình không nên hỏi về mẹ của ẻm. Nó sẽ chỉ làm cho mọi thứ tồi tệ hơn." id grace_2_menu_6183dd66
+    th "Mình đã phải chuyển chủ đề. Mình không nên hỏi về mẹ của em ấy. Nó sẽ chỉ làm cho mọi thứ tồi tệ hơn." id grace_2_menu_6183dd66
 
 # game/characters/grace/ev_2.rpy:44
 translate vietnamese grace_2_menu_4c25c4d7:
@@ -184,7 +184,7 @@ translate vietnamese grace_2_menu_4be56140:
 translate vietnamese grace_2_menu_c79f2d5f:
 
     # me "No, I just.. Nevermind.." id grace_2_menu_c79f2d5f
-    me "Không, anh chỉ... thôi bỏ đi.." id grace_2_menu_c79f2d5f
+    me "Không, anh chỉ.. thôi bỏ đi.." id grace_2_menu_c79f2d5f
 
 # game/characters/grace/ev_2.rpy:56
 translate vietnamese grace_2_1_deea571a:
@@ -202,7 +202,7 @@ translate vietnamese grace_2_1_5084ff6e:
 translate vietnamese grace_2_1_ee66e53f:
 
     # "As she continues to mention every single type of plant, you blank out. Honestly, you're quite shocked by her enthusiasm. After a long while the tirade ceases."
-    "Khi cô ấy tiếp tục đề cập đến từng loại cây, bạn đơ như nghe cô dạy văn ru ngủ. Thành thật mà nói, bạn khá sốc trước sự nhiệt tình của cô ấy. Sau một thời gian dài, cơn thủy triều chấm dứt."
+    "Khi cô ấy tiếp tục đề cập đến từng loại cây, bạn đơ như nghe cô dạy văn ru ngủ. Thành thật mà nói, bạn khá sốc trước sự nhiệt tình của cô ấy. Sau một thời gian dài, cơn thủy triều cũng chấm dứt."
 
 # game/characters/grace/ev_2.rpy:61
 translate vietnamese grace_2_1_db357f42:
@@ -304,19 +304,19 @@ translate vietnamese grace_2_1_bfa90d41:
 translate vietnamese grace_2_1_57b92095:
 
     # grace "No, Mommy never allowed me, she said that they'll make me bad."
-    grace "Không, mẹ không bao giờ cho phép em, mẹ nói rằng họ sẽ làm em tôi hư."
+    grace "Không, mẹ không bao giờ cho phép em, mẹ nói rằng họ sẽ làm em hư."
 
 # game/characters/grace/ev_2.rpy:84
 translate vietnamese grace_2_1_476760e2:
 
     # th "I lack words for her mother. I wonder what happened to her."
-    th "Mình cạn lời với mẹ em ấy rồi. Mình tự hỏi điều gì đã xảy ra với bà ấy."
+    th "Mình cạn lời với mẹ em ấy rồi. Mình tự hỏi điều gì đã xảy ra với bà ta."
 
 # game/characters/grace/ev_2.rpy:85
 translate vietnamese grace_2_1_4e451c5e:
 
     # me "What happened to your mom?"
-    me "Chuyện gì đã xảy ra với mẹ của em?"
+    me "Chuyện gì đã xảy ra với mẹ của em vậy?"
 
 # game/characters/grace/ev_2.rpy:87
 translate vietnamese grace_2_1_e792089f:
@@ -334,19 +334,19 @@ translate vietnamese grace_2_1_83087c50:
 translate vietnamese grace_2_1_979a2de3:
 
     # grace "She told me that I was a big girl and big girls need to live on their own."
-    grace "Cô ấy nói với tôi rằng tôi là một cô gái lớn và những cô gái lớn cần phải sống cho riêng mình."
+    grace "Mẹ nói với tôi rằng tôi là một cô gái lớn và những cô gái lớn cần phải sống cho riêng mình."
 
 # game/characters/grace/ev_2.rpy:91
 translate vietnamese grace_2_1_913c8f7c:
 
     # th "Isn't it a tad too different from how she behaved before The End?"
-    th "Nó không phải là quá khác so với cách bà ta cư xử trước The End sao?"
+    th "Thế không phải là quá khác so với cách bà ta cư xử trước The End sao?"
 
 # game/characters/grace/ev_2.rpy:92
 translate vietnamese grace_2_1_49584483:
 
     # me "I'm sorry."
-    me "Anh rấ tiếc."
+    me "Anh rất tiếc."
 
 # game/characters/grace/ev_2.rpy:94
 translate vietnamese grace_2_1_e69cab3d:
@@ -364,7 +364,7 @@ translate vietnamese grace_2_1_41c8cfcc:
 translate vietnamese grace_2_1_f37ba371:
 
     # th "It's totally not. Although I don't know why she would leave [grace] here, her return doesn't spell anything good. Neither for me nor [grace]."
-    th "Nó hoàn toàn không phải. Mặc dù tôi không biết tại sao bà ấy lại bỏ [grace] ở đây, sự trở lại của bà ấy không có gì tốt đẹp cả. Đối với mình cũng như [grace]."
+    th "Không có chuyện như vậy đậu. Mặc dù mình không biết tại sao bà ấy lại bỏ [grace] ở đây, sự trở lại của bà ấy không có gì tốt đẹp cả. Đối với mình cũng như [grace]."
 
 # game/characters/grace/ev_2.rpy:99
 translate vietnamese grace_2_1_24ac6622:
@@ -406,7 +406,7 @@ translate vietnamese grace_2_1_3820771a_1:
 translate vietnamese grace_2_1_058ebf9d:
 
     # th "I'm done."
-    th "OK I'm fine."
+    th "Cái..."
 
 # game/characters/grace/ev_2.rpy:110
 translate vietnamese grace_2_1_f0e36bb4:
@@ -430,7 +430,7 @@ translate vietnamese grace_2_1_357ea562:
 translate vietnamese grace_2_1_c48cf75d:
 
     # "You leave [grace] to her plants and go outside."
-    "Bạn để [grace] với đống cây cối của cô ấy và đi ra ngoài."
+    "Bạn để [grace] ở lại với đống cây cối của cô ấy và đi ra ngoài."
 
 translate vietnamese strings:
 

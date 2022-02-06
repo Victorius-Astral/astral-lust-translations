@@ -106,7 +106,7 @@ translate vietnamese banditsA_menu_e52445f3:
 translate vietnamese banditsA_menu_063ee65a:
 
     # me "That's all."
-    me "Đó là tất cả."
+    me "Đó là tất cả rồi."
 
 # game/events/explore/bandits.rpy:87
 translate vietnamese banditsA_menu_10f8183e:
@@ -286,7 +286,7 @@ translate vietnamese banditsB_menu_e52445f3:
 translate vietnamese banditsB_menu_063ee65a:
 
     # me "That's all."
-    me "Đó là tất cả."
+    me "Đó là tất cả rồi."
 
 # game/events/explore/bandits.rpy:185
 translate vietnamese banditsB_menu_10f8183e:

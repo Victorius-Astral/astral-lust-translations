@@ -4,33 +4,32 @@ translate vietnamese strings:
 
     # game/functions/tasks/Tasks.rpy:85
     old "Task"
-    new "Task"
+    new "Nhiệm vụ"
 
     # game/functions/tasks/Tasks.rpy:116
     old "{} week"
-    new "{} week"
+    new "{} tuần"
 
     # game/functions/tasks/Tasks.rpy:119
     old "{} weeks"
-    new "{} weeks"
+    new "{} tuần"
 
     # game/functions/tasks/Tasks.rpy:126
     old "{} day"
-    new "{} day"
+    new "{} ngày"
 
     # game/functions/tasks/Tasks.rpy:129
     old "{} days"
-    new "{} days"
+    new "{} ngày"
 
     # game/functions/tasks/Tasks.rpy:134
     old "{} period"
-    new "{} period"
+    new "{} giai đoạn"
 
     # game/functions/tasks/Tasks.rpy:137
     old "{} periods"
-    new "{} periods"
+    new "{} giai đoạn"
 
     # game/functions/tasks/Tasks.rpy:141
     old "Completed"
-    new "Completed"
-
+    new "Hoàn thành"

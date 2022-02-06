@@ -64,7 +64,7 @@ translate vietnamese alice_anal_1_f8d4a858:
 translate vietnamese alice_anal_1_aa93b10c:
 
     # me "Good girl."
-    me "Cô gái ngoan."
+    me "Cô bé ngoan."
 
 # game/characters/alice/anal_1.rpy:37
 translate vietnamese alice_anal_1_3d79359c:
@@ -124,7 +124,7 @@ translate vietnamese alice_anal_1_eba39e74:
 translate vietnamese alice_anal_1_dd017547:
 
     # "After clothing yourself and putting a towel on [alice] you piggyback her."
-    "Sau khi mặc quần áo và quàng thêm khăn tắm [alice] bạn cõng cô ấy."
+    "Sau khi mặc quần áo và quấn khăn tắm cho [alice] bạn cõng cô ấy."
 
 # game/characters/alice/anal_1.rpy:60
 translate vietnamese alice_anal_1_18b07e92:
@@ -142,7 +142,7 @@ translate vietnamese alice_anal_1_34cff1b3:
 translate vietnamese alice_anal_1_8d5c5cb3:
 
     # th "She appears so innocent right now, totally unlike her usual playful self."
-    th "Cô ấy hiện giờ trông rất ngây thơ, hoàn toàn không giống với vẻ vui tươi thường ngày của cô ấy."
+    th "Em ấy bây giờ trông rất ngây thơ, hoàn toàn không giống với vẻ nghịch ngợm thường ngày của em ấy."
 
 # game/characters/alice/anal_1.rpy:68
 translate vietnamese alice_anal_1_b109c02e:
@@ -154,4 +154,4 @@ translate vietnamese alice_anal_1_b109c02e:
 translate vietnamese alice_anal_1_446fd9a0:
 
     # me "Sleep tight my beautiful girl."
-    me "Ngủ ngon nha cô gái xinh đẹp của Anh."
+    me "Ngủ ngon nha cô gái xinh đẹp của anh."

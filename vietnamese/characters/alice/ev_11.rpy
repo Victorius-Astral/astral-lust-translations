@@ -4,19 +4,19 @@
 translate vietnamese alice_11_9f30d9e0:
 
     # me "How is my young woman feeling?"
-    me "Người phụ nữ trẻ của tôi cảm thấy thế nào rồi?"
+    me "Người phụ nữ trẻ của anh cảm thấy thế nào rồi?"
 
 # game/characters/alice/ev_11.rpy:14
 translate vietnamese alice_11_59669d75:
 
     # alice "Oh, wow. You're joking about taking my virginity."
-    alice "Oh, wow. Anh đang nói đùa về việc lấy đi trinh tiết của Em."
+    alice "Oh, quào. Anh còn nói đùa về việc lấy đi trinh tiết của em đấy."
 
 # game/characters/alice/ev_11.rpy:15
 translate vietnamese alice_11_e5c0f9f9:
 
     # me "What joking, it was a serious question."
-    me "Đùa gì vậy, đó là một câu hỏi nghiêm túc."
+    me "Đùa gì chứ, đó là một câu hỏi nghiêm túc đấy."
 
 # game/characters/alice/ev_11.rpy:16
 translate vietnamese alice_11_5e930aad:
@@ -70,13 +70,13 @@ translate vietnamese alice_11_ca1ef9e1:
 translate vietnamese alice_11_64ec7548:
 
     # alice "Lexi definitely needs something new, Mina too. Grace can manage, but she could use some more."
-    alice "Lexi chắc chắn cần một cái gì đó mới, Mina cũng vậy. Grace thì chắc không cần, Nhưng có thể em ấy sẽ cần thêm."
+    alice "Lexi chắc chắn cần một cái gì đó mới, Mina cũng vậy. Grace thì chắc cũng xoay sở được, Nhưng có thể em ấy sẽ cần thêm."
 
 # game/characters/alice/ev_11.rpy:39
 translate vietnamese alice_11_bf436f67:
 
     # me "Let me guess, I'm supposed to gather materials for that."
-    me "Để anh đoán nhớ, anh sẽ phải thu thập đồ cho việc đó."
+    me "Để anh đoán nhớ, anh là người phải thu thập vải đúng không?"
 
 # game/characters/alice/ev_11.rpy:43
 translate vietnamese alice_11_dd215bd0:
@@ -88,13 +88,13 @@ translate vietnamese alice_11_dd215bd0:
 translate vietnamese alice_11_5c0dfe33:
 
     # me "Isn't it a little early in our relationship for blackmail?"
-    me "Không phải là hơi sớm để tống tiền trong mối quan hệ của chúng ta à?"
+    me "Không phải là hơi sớm để tống tiền mối quan hệ của chúng ta à?"
 
 # game/characters/alice/ev_11.rpy:48
 translate vietnamese alice_11_09e44c27:
 
     # alice "What blackmail, we both know who's going to benefit the most from new outfits."
-    alice "Tống tiền cái gì, cả hai chúng ta đều biết ai sẽ là người hưởng lợi nhiều nhất từ những bộ trang phục mới."
+    alice "Tống tiền cái gì, cả hai chúng ta đều biết ai sẽ là người hưởng lợi nhiều nhất từ những bộ trang phục mới đấy."
 
 # game/characters/alice/ev_11.rpy:49
 translate vietnamese alice_11_3820771a:
@@ -118,7 +118,7 @@ translate vietnamese alice_11_8cba92d4:
 translate vietnamese alice_11_af139e4b:
 
     # me "Are you reading my mind?"
-    me "Em có đang đọc suy nghĩ của anh không?"
+    me "Em có đang đọc suy nghĩ của anh không đấy?"
 
 # game/characters/alice/ev_11.rpy:56
 translate vietnamese alice_11_7936f166:
@@ -160,7 +160,7 @@ translate vietnamese alice_11_40d78429:
 translate vietnamese alice_11_5e754567:
 
     # "[alice] kisses you passionately, her tongue dancing around yours."
-    "[alice] hôn bạn say đắm, lưỡi cô ấy nhảy múa xung quanh bạn."
+    "[alice] hôn bạn say đắm, lưỡi cô ấy nhảy múa xung quanh lưỡi bạn."
 
 # game/characters/alice/ev_11.rpy:76
 translate vietnamese alice_11_300c246d:
@@ -172,7 +172,7 @@ translate vietnamese alice_11_300c246d:
 translate vietnamese alice_11_7f0c7ce2:
 
     # me "Shit, I could use more rewards like this."
-    me "Chết tiệt, Anh có thể nhận nhiều phần thưởng như thế này hơn."
+    me "Đù, Anh có thể nhận nhiều phần thưởng như thế này hơn."
 
 # game/characters/alice/ev_11.rpy:81
 translate vietnamese alice_11_4300f2d4:
@@ -196,13 +196,13 @@ translate vietnamese alice_11_c01d5466:
 translate vietnamese alice_11_8a815fb0:
 
     # me "Come back when you're ready? How would I know that?"
-    me "Quay lại khi bạn đã sẵn sàng? Làm sao anh biết được điều đó?"
+    me "Quay lại khi em đã sẵn sàng? Làm sao anh biết được điều đó?"
 
 # game/characters/alice/ev_11.rpy:91
 translate vietnamese alice_11_aea25f1d:
 
     # alice "Read the changelog."
-    alice "đọc bảng cập nhật."
+    alice "đọc bảng cập nhật phiên bản."
 
 # game/characters/alice/ev_11.rpy:92
 translate vietnamese alice_11_314086b3:
@@ -250,4 +250,4 @@ translate vietnamese alice_11_7a6affff:
 translate vietnamese alice_11_a6221258:
 
     # th "What was that?"
-    th "Cái gì vậy tr?"
+    th "Cái gì vậy trời?"

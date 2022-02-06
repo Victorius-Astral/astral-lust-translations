@@ -23,7 +23,7 @@ translate vietnamese strings:
 
     # game/screens/settings/game.rpy:17
     old "Story Mode"
-    new "Story Mode"
+    new "Chế độ cốt truyện"
 
     # game/screens/settings/game.rpy:18
     old "(Disables random combat encounter)"
@@ -31,7 +31,7 @@ translate vietnamese strings:
 
     # game/screens/settings/game.rpy:19
     old "Ironman Mode"
-    new "Ironman Mode"
+    new "Chế độ người sắt"
 
     # game/screens/settings/game.rpy:20
     old "(Needs restart, disables rollback.)"
@@ -39,23 +39,23 @@ translate vietnamese strings:
 
     # game/screens/settings/game.rpy:24
     old "Rollback Side"
-    new "Rollback Side"
+    new "Phía lăn lại"
 
     # game/screens/settings/game.rpy:26
     old "Left"
-    new "Left"
+    new "Trái"
 
     # game/screens/settings/game.rpy:27
     old "Right"
-    new "Right"
+    new "Phải"
 
     # game/screens/settings/game.rpy:31
     old "Block Rollback (Version Upgrade)"
-    new "Block Rollback (Version Upgrade)"
+    new "Chặn lăn lại (Phiên bản nâng cấp)"
 
     # game/screens/settRollbackings/game.rpy:34
     old "(Using rollback after loading save from older game version will likely cause errors in the future, this option ensures that when loading save from older version, you can't rollback prior to loading.)"
-    new "(Sử dụng Rollback lại sau khi load lại phần lưu từ phiên bản trò chơi cũ hơn sẽ có thể gây ra lỗi trong tương lai, tùy chọn này đảm bảo rằng khi tải lưu từ phiên bản cũ hơn, bạn không thể khôi phục trước khi tải.)"
+    new "(Sử dụng lăn lại lại sau khi load lại phần lưu từ phiên bản trò chơi cũ hơn sẽ có thể gây ra lỗi trong tương lai, tùy chọn này đảm bảo rằng khi tải lưu từ phiên bản cũ hơn, bạn không thể khôi phục trước khi tải.)"
 
     # game/screens/settings/game.rpy:39
     old "Unseen Text"
@@ -67,7 +67,7 @@ translate vietnamese strings:
 
     # game/screens/settings/game.rpy:41
     old "Transitions"
-    new "Transitions"
+    new "Chuyển cảnh"
 
     # game/screens/settings/game.rpy:54
     old "Quick Menu"
@@ -103,7 +103,7 @@ translate vietnamese strings:
 
     # game/screens/settings/game.rpy:79
     old "Dreams Mode"
-    new "Dreams Mode"
+    new "Chế độ giấc mơ"
 
     # game/screens/settings/game.rpy:81
     old "Debug Mode"
@@ -135,11 +135,11 @@ translate vietnamese strings:
 
     # game/screens/settings/game.rpy:93
     old "Emoticons"
-    new "Emoticons"
+    new "Biểu tượng cảm xúc"
 
     # game/screens/settings/game.rpy:94
     old "Force Masks Display"
-    new "Force Masks Display"
+    new "Buộc hiển thị mặt nạ"
 
     # game/screens/settings/game.rpy:104
     old "Text Speed"
@@ -150,16 +150,16 @@ translate vietnamese strings:
     new "Tự động-chuyển tiếp"
 
     # game/screens/settings/game.rpy:115
-    old "Masks Opacity (Idle, Forced only)"
-    new "Masks Opacity (Idle, Forced only)"
+    old "Masks Opacity (Idle, Chỉ bắt buộc)"
+    new "Độ mờ của mặt nạ (nhàn rỗi, bắt buộc)"
 
     # game/screens/settings/game.rpy:122
     old "Masks Opacity (Hover, Forced only)"
-    new "Masks Opacity (Hover, Forced only)"
+    new "Độ mờ của mặt nạ (di chuột, Chỉ bắt buộc)"
 
     # game/screens/settings/game.rpy:129
     old "Textbox Opacity"
-    new "Độ mờ hộp văn bản"
+    new "Độ mờ của khung"
 
     # game/screens/settings/game.rpy:136
     old "Text Outline"
@@ -167,7 +167,7 @@ translate vietnamese strings:
 
     # game/screens/settings/game.rpy:145
     old "[persistent.text_outline] pixel-wide border."
-    new "[persistent.text_outline] pixel đường viền rộng."
+    new "đường viền rộng [persistent.text_outline] pixel."
 
     # game/screens/settings/game.rpy:148
     old "Not Set"

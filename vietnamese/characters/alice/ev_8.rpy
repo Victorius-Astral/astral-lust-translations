@@ -4,7 +4,7 @@
 translate vietnamese alice_8_54226dc9:
 
     # "Upon entering the bath, you are greeted with a wonderful scene."
-    "Khi bước vào bồn tắm, bạn được chào đón bằng một khung cảnh tuyệt vời."
+    "Khi bước vào phòng tắm, bạn được chào đón bằng một khung cảnh tuyệt vời."
 
 # game/characters/alice/ev_8.rpy:26
 translate vietnamese alice_8_05acec03:
@@ -16,25 +16,25 @@ translate vietnamese alice_8_05acec03:
 translate vietnamese alice_8_c063322e:
 
     # th "I'm peeking at her again. I wonder if she's ever going to hate me because of it."
-    th "Mình lại nhìn trộm em ấy. Mình tự hỏi liệu ẻm có bao giờ ghét tôi vì điều đó không."
+    th "Mình lại nhìn trộm em ấy. Không biết em ấy có bao giờ ghét vì điều này không."
 
 # game/characters/alice/ev_8.rpy:28
 translate vietnamese alice_8_4417ab7c:
 
     # th "Alas, I can't help myself."
-    th "TRời ơi, tôi không thể tự giúp mình."
+    th "Lậy chúa con không thể kìm lại dược."
 
 # game/characters/alice/ev_8.rpy:31
 translate vietnamese alice_8_5a73f1cc:
 
     # "It doesn't take her long to realize she's not alone."
-    "Em ấy không mất nhiều thời gian để nhận ra mình không đơn độc."
+    "Cố ấy không mất nhiều thời gian để nhận ra mình không hề đơn độc."
 
 # game/characters/alice/ev_8.rpy:32
 translate vietnamese alice_8_f2ea86a9:
 
     # alice "Again?"
-    alice "Lần nữa hả?"
+    alice "Lại nữa hả?"
 
 # game/characters/alice/ev_8.rpy:35
 translate vietnamese alice_8_8889009f:
@@ -64,7 +64,7 @@ translate vietnamese alice_8_6840ed28:
 translate vietnamese alice_8_bbf2ab96:
 
     # me "Since when are you so shy."
-    me "Từ khi nào em lại nhút nhát thế này."
+    me "Từ khi nào em lại nhút nhát thế này vậy."
 
 # game/characters/alice/ev_8.rpy:42
 translate vietnamese alice_8_74f05a4e:
@@ -76,7 +76,7 @@ translate vietnamese alice_8_74f05a4e:
 translate vietnamese alice_8_89d1d55e:
 
     # alice "Do you have to walk in on me every single time?"
-    alice "Anh có phải đến vào những lúc như này mọi lúc không?"
+    alice "Anh có cần phải đến vào mọi lúc như này không?"
 
 # game/characters/alice/ev_8.rpy:46
 translate vietnamese alice_8_30b918b8:
@@ -88,7 +88,7 @@ translate vietnamese alice_8_30b918b8:
 translate vietnamese alice_8_681dc97b:
 
     # th "Yeah, I overdid it."
-    th "Yeah, Tôi đã làm quá rồi."
+    th "Yeah, mình đã làm quá rồi."
 
 # game/characters/alice/ev_8.rpy:50
 translate vietnamese alice_8_3684eb43:
@@ -130,7 +130,7 @@ translate vietnamese alice_8_a9333f96:
 translate vietnamese alice_8_87b3a410:
 
     # me "That dildo on the wall."
-    me "Đó là sextoy gắn trên tường."
+    me "Cái sextoy gắn trên tường."
 
 # game/characters/alice/ev_8.rpy:66
 translate vietnamese alice_8_74f05a4e_1:
@@ -142,7 +142,7 @@ translate vietnamese alice_8_74f05a4e_1:
 translate vietnamese alice_8_755f1b67:
 
     # me "Isn't it the one you took from that sex shop?"
-    me "Nó không phải là người bạn mà em lấy từ cửa Sex shop hả?"
+    me "Không phải nó là người bạn mà em lấy từ Sex shop sao?"
 
 # game/characters/alice/ev_8.rpy:68
 translate vietnamese alice_8_6de3c1f2:
@@ -154,13 +154,13 @@ translate vietnamese alice_8_6de3c1f2:
 translate vietnamese alice_8_41ae283d:
 
     # me "So why are you so shy suddenly? This isn't exactly the first time I've seen you play with yourself."
-    me "Vậy tại sao tự nhiên em lại mắc cỡ như vậy? Đây không phải là lần đầu tiên anh thấy em chơi với chính mình."
+    me "Vậy tại sao tự nhiên em lại mắc cỡ như vậy? Đây có phải là lần đầu tiên anh thấy em chơi với chính mình đâu em."
 
 # game/characters/alice/ev_8.rpy:70
 translate vietnamese alice_8_8fbba2f2:
 
     # alice "That's different."
-    alice "Đó là khác nhau."
+    alice "Cái đấy khác."
 
 # game/characters/alice/ev_8.rpy:71
 translate vietnamese alice_8_5b7e75a2:
@@ -226,13 +226,13 @@ translate vietnamese alice_8_2a0b50bb:
 translate vietnamese alice_8_157fd410:
 
     # alice "Fuck off before I crush your balls."
-    alice "Cút đi trước khi tôi nghiền nát quả bóng của anh."
+    alice "Cút đi trước khi em nghiền nát quả cà của anh."
 
 # game/characters/alice/ev_8.rpy:90
 translate vietnamese alice_8_6bbb7d93:
 
     # alice "Sorry to disappoint you.."
-    alice "Xin lỗi đã làm bạn thất vọng.."
+    alice "Xin lỗi đã làm anh thất vọng.."
 
 # game/characters/alice/ev_8.rpy:94
 translate vietnamese alice_8_3ba34f9b:
@@ -244,19 +244,19 @@ translate vietnamese alice_8_3ba34f9b:
 translate vietnamese alice_8_c2c1ae3e:
 
     # me "[alice] you were still in high school when the world ended. Honestly, I don't know why I'm that surprised."
-    me "[alice] Anh vẫn còn học trung học phổ thông khi thế giới kết thúc. Thành thật mà nói, em không biết tại sao em lại ngạc nhiên."
+    me "[alice] Anh vẫn còn học trung học phổ thông khi thế giới kết thúc á. Thành thật mà nói, em không biết tại sao mình lại ngạc nhiên nữa."
 
 # game/characters/alice/ev_8.rpy:97
 translate vietnamese alice_8_42b27750:
 
     # alice "So, you don't think I'm weird or.. I don't know.. I just.."
-    alice "Thế thì, Anh không nghĩ em kỳ lạ hay .. em không biết .. em chỉ.."
+    alice "Thế thì, Anh không nghĩ em kỳ lạ hay.. em không biết nữa.. em chỉ.."
 
 # game/characters/alice/ev_8.rpy:98
 translate vietnamese alice_8_978fb13d:
 
     # me "I like you for you. You're smart, funny, and beautiful. You almost make waking up during the apocalypse worth it."
-    me "Anh thích em là chính mình. Em thông minh, hài hước và xinh đẹp. Em gần như khiến việc anh thức dậy trong ngày tận thế trở nên xứng đáng."
+    me "Anh thích em là chính mình. Em thông minh, hài hước và xinh đẹp. Em gần như khiến việc thức dậy trong cái thể giới tận thế này trở nên xứng đáng."
 
 # game/characters/alice/ev_8.rpy:100
 translate vietnamese alice_8_60905c4f:
@@ -304,13 +304,13 @@ translate vietnamese alice_8_b94a6a0f:
 translate vietnamese alice_8_bb114a05:
 
     # alice "You should stop dreaming about being my man."
-    alice "Anh dừng mơ mộng về việc trở thành người đàn ông của em đi."
+    alice "Anh nên dừng mơ mộng về việc trở thành người đàn ông của em đi."
 
 # game/characters/alice/ev_8.rpy:124
 translate vietnamese alice_8_c7a7618e:
 
     # me "As if I did."
-    me "Như thể anh đã làm."
+    me "Như thể anh đã làm vậy."
 
 # game/characters/alice/ev_8.rpy:126
 translate vietnamese alice_8_74f05a4e_3:
@@ -328,7 +328,7 @@ translate vietnamese alice_8_part2_94b06af1:
 translate vietnamese alice_8_menu1_3f702ddf:
 
     # "{color=#FF958F}[tes]{/color} Blood rushes to her cheeks, but you don't see any signs of rejection in her expression."
-    "{color=#FF958F}[tes]{/color} Máu dồn lên má cô ấy, nhưng bạn không thấy biểu hiện của cô ấy có dấu hiệu từ chối."
+    "{color=#FF958F}[tes]{/color} Máu dồn lên má cô ấy, nhưng bạn không thấy dấu hiệu nào của việc cô ấy từ chối cả."
 
 # game/characters/alice/ev_8.rpy:166
 translate vietnamese alice_8_menu1_c2112f1d:
@@ -340,19 +340,19 @@ translate vietnamese alice_8_menu1_c2112f1d:
 translate vietnamese alice_8_menu1_7addf0d7:
 
     # th "Holy shit!"
-    th "Holy shit!"
+    th "Hô lỳ Shít!"
 
 # game/characters/alice/ev_8.rpy:168
 translate vietnamese alice_8_menu1_4a6824d7:
 
     # me "Don't worry, I will."
-    me "Đừng lo lắng, anh sẽ làm vậy."
+    me "Đừng lo, anh sẽ nhẹ nhàng mà."
 
 # game/characters/alice/ev_8.rpy:178
 translate vietnamese alice_8_menu1_c44d808d:
 
     # "You press the head of your dick against her. She is already stretched and lubed from using the dildo, so you glide in with little resistance."
-    "Bạn ấn đầu con cặc của mình vào nàng. Cô ấy đã được kéo giãn và được bôi trơn từ việc sử sextoy, vì vậy bạn đi vào mà không có chút lực cản nào."
+    "Bạn ấn đầu cu của mình vào. Cô ấy đã được kéo giãn và được bôi trơn từ việc sử sextoy, vì vậy bạn đi vào mà không có chút lực cản nào."
 
 # game/characters/alice/ev_8.rpy:179
 translate vietnamese alice_8_menu1_b09091bb:
@@ -376,7 +376,7 @@ translate vietnamese alice_8_menu1_ff41d66b:
 translate vietnamese alice_8_menu1_007f1501:
 
     # alice "Fuck me~ Fuck me~ I want you soooo much!"
-    alice "Địt em~ Địt em ddi~ Em muốn anh rất nhiều!"
+    alice "Địt em~ Địt em đi~ Em muốn anh rất nhiều!"
 
 # game/characters/alice/ev_8.rpy:198
 translate vietnamese alice_8_menu1_7f7259f6:
@@ -424,7 +424,7 @@ translate vietnamese alice_8_menu1_aa93b10c:
 translate vietnamese alice_8_menu1_3d79359c:
 
     # alice "More~ Just a little more~"
-    alice "Còn nữa ~ Chỉ một chút nữa thôi~"
+    alice "Nữa~ Chỉ một chút nữa thôi~"
 
 # game/characters/alice/ev_8.rpy:209
 translate vietnamese alice_8_menu1_46acb026:
@@ -472,7 +472,7 @@ translate vietnamese alice_8_menu1_61660bd0:
 translate vietnamese alice_8_menu1_eba39e74:
 
     # th "It seems she's fallen asleep."
-    th "Có vẻ như cô ấy đã ngủ."
+    th "Có vẻ như em ấy đã ngủ rồi."
 
 # game/characters/alice/ev_8.rpy:223
 translate vietnamese alice_8_menu1_dd017547:
@@ -490,7 +490,7 @@ translate vietnamese alice_8_menu1_18b07e92:
 translate vietnamese alice_8_menu1_34cff1b3:
 
     # "You gently lay her down to rest."
-    "Bạn nhẹ nhàng đặt cô ấy nằm nghỉ ngơi."
+    "Bạn nhẹ nhàng đặt cô ấy xuống."
 
 # game/characters/alice/ev_8.rpy:228
 translate vietnamese alice_8_menu1_8d5c5cb3:
@@ -520,7 +520,7 @@ translate vietnamese alice_8_menu1_42df419f:
 translate vietnamese alice_8_menu1_eeefd5d3:
 
     # alice "How about I shove this dildo up your ass?"
-    alice "Làm thế nào về việc em nhét cái dương vật giả này vào mông của anh?"
+    alice "Thế em nhét cái dương vật giả này vào đít của anh được không?"
 
 # game/characters/alice/ev_8.rpy:248
 translate vietnamese alice_8_menu1_24bcfe06:
@@ -556,7 +556,7 @@ translate vietnamese alice_8_part3_74f05a4e:
 translate vietnamese alice_8_part3_c1fd6fcd:
 
     # "She kicked you square in the balls!"
-    "Cô ấy đá bạn vào 2 quả bóng của bạn!"
+    "Cô ấy đá vào, à nhầm xin vĩnh biệt cụ"
 
 # game/characters/alice/ev_8.rpy:276
 translate vietnamese alice_8_part3_958f00c0:
@@ -574,7 +574,7 @@ translate vietnamese alice_8_part3_f58e393b:
 translate vietnamese alice_8_part3_73b3c848:
 
     # alice "Maybe now you'll learn to not peek on innocent, little girls like me."
-    alice "Có lẽ bây giờ anh sẽ học cách không nhìn trộm những cô gái ngây thơ, nhỏ bé như em."
+    alice "Có lẽ bây giờ anh sẽ học được cách không nhìn trộm những cô gái ngây thơ, nhỏ bé như em."
 
 # game/characters/alice/ev_8.rpy:281
 translate vietnamese alice_8_part3_48c25620:
@@ -592,7 +592,7 @@ translate vietnamese alice_8_part3_80a8d0fb:
 translate vietnamese alice_8_part3_f6f33ca8:
 
     # alice "Good."
-    alice "Good."
+    alice "Tốt."
 
 # game/characters/alice/ev_8.rpy:285
 translate vietnamese alice_8_part3_7527001a:
@@ -616,11 +616,11 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_8.rpy:79
     old "I didn't expect that"
-    new "Tôi không nghĩ đến điều đó"
+    new "Anh không ngờ đến điều đó"
 
     # game/characters/alice/ev_8.rpy:91
     old "Are you kidding me, that's fantastic!"
-    new "Em có đang đùa Anh không, điều đó thật tuyệt vời!"
+    new "Em có đang đùa anh không, điều đó thật tuyệt vời!"
 
     # game/characters/alice/ev_8.rpy:91
     old "It's alright"

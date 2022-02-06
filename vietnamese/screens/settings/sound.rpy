@@ -8,11 +8,11 @@ translate vietnamese strings:
 
     # game/screens/settings/sound.rpy:9
     old "Emotions"
-    new "Emotions"
+    new "Biểu tượng cảm xúc"
 
     # game/screens/settings/sound.rpy:10
     old "Level Up"
-    new "Level Up"
+    new "Lên Level"
 
     # game/screens/settings/sound.rpy:20
     old "Music Volume"

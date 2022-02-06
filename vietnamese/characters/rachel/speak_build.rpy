@@ -124,7 +124,7 @@ translate vietnamese speak_rachel_build_part2_caffe323:
 translate vietnamese speak_rachel_build_part2_55109dfc:
 
     # rachel "I'll deal with the vitality part. You just need to bring me some stones. 20 will do."
-    rachel "Tôi sẽ giải quyết phần sinh lực. Anh chỉ cần mang cho tôi một ít đá. 20 sẽ đủ đấy."
+    rachel "Tôi sẽ giải quyết phần sinh lực. Anh chỉ cần mang cho tôi một ít đá. 20 cục sẽ đủ đấy."
 
 # game/characters/rachel/speak_build.rpy:114
 translate vietnamese speak_rachel_build_part2_732c53f6:

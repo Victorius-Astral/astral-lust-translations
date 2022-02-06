@@ -58,7 +58,7 @@ translate vietnamese alice_train_c5d81501:
 translate vietnamese alice_train_28d54261:
 
     # "You spend the rest of your time training in silence."
-    "You spend the rest of your time training in silence."
+    "Bạn dành thời gian còn lại để luyện tập trong im lặng."
 
 # game/characters/alice/train.rpy:26
 translate vietnamese alice_train_d763bd4b:
@@ -70,13 +70,13 @@ translate vietnamese alice_train_d763bd4b:
 translate vietnamese alice_train_a4fbccf1:
 
     # me "Always at your service."
-    me "Luôn phục vụ em."
+    me "Rất hân hạnh."
 
 # game/characters/alice/train.rpy:29
 translate vietnamese alice_train_9984490a:
 
     # alice "Can't you think of something new?"
-    alice "Anh không thể nghĩ ra một cái gì đó mới hả?"
+    alice "Anh không thể nghĩ ra một Câu gì đó mới hả?"
 
 # game/characters/alice/train.rpy:30
 translate vietnamese alice_train_2bf848f6:

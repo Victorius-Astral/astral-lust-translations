@@ -82,7 +82,7 @@ translate vietnamese grace_3_e490246d:
 translate vietnamese grace_3_51c29516:
 
     # grace "Of course she is! Mom is the best, nothing could have happened to her!"
-    grace "Tất nhiên Bà ấy là! Người mẹ tốt nhất , không có gì có thể xảy ra với mẹ!"
+    grace "Tất nhiên mẹ là người mẹ tốt nhất rồi, không có gì có thể xảy ra với mẹ!"
 
 # game/characters/grace/ev_3.rpy:39
 translate vietnamese grace_3_1_c76c1218:
@@ -130,7 +130,7 @@ translate vietnamese grace_3_1_4e101807:
 translate vietnamese grace_3_1_7cadaf64:
 
     # grace "S-So, if you met her outside can you tell her that I miss her very much?"
-    grace "V-Vậy, nếu anh gặp cô bà ở bên ngoài, anh có thể nói với mẹ rằng em nhớ mẹ rất nhiều không?"
+    grace "V-Vậy, nếu anh gặp mẹ bên ngoài, anh có thể nói với mẹ rằng em nhớ mẹ rất nhiều không?"
 
 # game/characters/grace/ev_3.rpy:51
 translate vietnamese grace_3_1_ea986f7b:
@@ -172,7 +172,7 @@ translate vietnamese grace_3_1_8083abc2:
 translate vietnamese grace_3_1_56c6a2af:
 
     # me "Sure, have it your way [grace]."
-    me "Chắc chắn rồi, hãy làm theo cách của em [grace]."
+    me "Chắc chắn rồi, hãy làm theo cách của em vậy."
 
 # game/characters/grace/ev_3.rpy:64
 translate vietnamese grace_3_1_b25b848b:
@@ -190,7 +190,7 @@ translate vietnamese strings:
 
     # game/characters/grace/ev_3.rpy:18
     old "Don't worry I'm sure you'll see her again soon"
-    new "Đừng lo lắng, anh chắc rằng em sẽ sớm gặp lại cô ấy"
+    new "Đừng lo anh chắc là em sẽ sớm gặp lại cô ấy"
 
     # game/characters/grace/ev_3.rpy:18
     old "You should forget about her"
@@ -198,4 +198,4 @@ translate vietnamese strings:
 
     # game/characters/grace/ev_3.rpy:18
     old "I'm sure she's alright"
-    new "Anh chắc rằng bà ấy ổn"
+    new "Anh nghĩ là bà ấy ổn"

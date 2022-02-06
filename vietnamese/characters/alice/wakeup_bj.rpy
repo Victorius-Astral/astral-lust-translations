@@ -28,7 +28,7 @@ translate vietnamese alice_wakeup_bj_40694db1:
 translate vietnamese alice_wakeup_bj_4efb96fb:
 
     # th "[alice].. This girl surely knows what I like, haha."
-    th "[alice].. Cô gái này chắc chắn biết tôi thích gì, haha."
+    th "[alice].. Cô gái này chắc chắn biết mình thích gì đấy, haha."
 
 # game/characters/alice/wakeup_bj.rpy:21
 translate vietnamese alice_wakeup_bj_c00df9d9:
@@ -70,7 +70,7 @@ translate vietnamese alice_wakeup_bj_64a9d068:
 translate vietnamese alice_wakeup_bj_57f0a9e0:
 
     # me "Fuck!"
-    me "Fuck!"
+    me "Ah!"
 
 # game/characters/alice/wakeup_bj.rpy:34
 translate vietnamese alice_wakeup_bj_8afec2be:
@@ -82,7 +82,7 @@ translate vietnamese alice_wakeup_bj_8afec2be:
 translate vietnamese alice_wakeup_bj_536d8350:
 
     # "Her tongue dances skillfully around your dick, making the sensation too much to describe with simple words."
-    "Lưỡi cô ấy múa khéo léo xung quanh con cặc của bạn, tạo nên cảm giác đê mê khó tả bằng những từ ngữ đơn giản."
+    "Lưỡi cô ấy múa một cách khéo léo xung quanh thằng nhỏ của bạn, tạo nên cảm giác đê mê khó để tả được bằng những từ ngữ đơn giản."
 
 # game/characters/alice/wakeup_bj.rpy:42
 translate vietnamese alice_wakeup_bj_e79564ac:
@@ -106,7 +106,7 @@ translate vietnamese alice_wakeup_bj_7a09d2de:
 translate vietnamese alice_wakeup_bj_cd696e80:
 
     # alice "Alice lovesh daddy."
-    alice "Alice yều daddy."
+    alice "Alice yềus daddy."
 
 # game/characters/alice/wakeup_bj.rpy:46
 translate vietnamese alice_wakeup_bj_5c79fab8:
@@ -154,19 +154,19 @@ translate vietnamese alice_wakeup_bj_6c0dbee3:
 translate vietnamese alice_wakeup_bj_d1d81a2c:
 
     # alice "That was a lot, how do you even produce so much of cum, anyway?"
-    alice "Đó là rất nhiều, làm thế nào để anh có thể sản xuất nhiều tinh dịch như vậy?"
+    alice "Đó là rất nhiều đấy, làm thế nào để anh có thể sản xuất nhiều tinh dịch như vậy?"
 
 # game/characters/alice/wakeup_bj.rpy:65
 translate vietnamese alice_wakeup_bj_34c63baf:
 
     # me "My dick is enchanted."
-    me "Con cặc của anh đã được enchanted rồi."
+    me "Thằng đệ của anh đã được enchanted rồi em."
 
 # game/characters/alice/wakeup_bj.rpy:68
 translate vietnamese alice_wakeup_bj_0d9d3736:
 
     # alice "Enchantments won't protect you from syphilis. You better be careful, or I won't touch it ever again."
-    alice "Enchant sẽ không bảo vệ anh khỏi bệnh giang mai. Tốt hơn hết anh nên cẩn thận, nếu không em sẽ không chạm vào nó nữa."
+    alice "Enchant sẽ không bảo vệ anh khỏi bệnh giang mai đâu. Tốt hơn hết anh nên cẩn thận, nếu không em sẽ không chạm vào nó nữa."
 
 # game/characters/alice/wakeup_bj.rpy:69
 translate vietnamese alice_wakeup_bj_082c0f9f:

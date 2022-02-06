@@ -16,7 +16,7 @@ translate vietnamese grace_1_e9a6088d:
 translate vietnamese grace_1_82bb84ed:
 
     # th "Seems she's got a 'little' wardrobe malfunction."
-    th "Có vẻ như cô ấy có 'một chút' vấn đề với quần áo."
+    th "Có vẻ như em ấy có 'một chút' vấn đề với quần áo."
 
 # game/characters/grace/ev_1.rpy:9
 translate vietnamese grace_1_efdb0809:
@@ -46,7 +46,7 @@ translate vietnamese grace_1_e8075465:
 translate vietnamese grace_1_8aa16e6a:
 
     # me "Hey!"
-    me "Hey!"
+    me "Chào em!"
 
 # game/characters/grace/ev_1.rpy:21
 translate vietnamese grace_1_07703f7e:
@@ -64,7 +64,7 @@ translate vietnamese grace_1_7b14659b:
 translate vietnamese grace_1_072e3731:
 
     # "{color=#32CD32}[[Agility check failed]{/color} You come closer, but she seems to have heard you!"
-    "{color=#32CD32}[[Độ nhanh nhẹn không đu]{/color} Bạn đến gần hơn, nhưng cô ấy dường như đã nghe thấy bạn!"
+    "{color=#32CD32}[[Độ nhanh nhẹn không đủ]{/color} Bạn đến gần hơn, nhưng cô ấy dường như đã nghe thấy bạn!"
 
 # game/characters/grace/ev_1.rpy:28
 translate vietnamese grace_1_99dab784:
@@ -100,7 +100,7 @@ translate vietnamese grace_1_9b0301b5:
 translate vietnamese grace_1_8aa16e6a_1:
 
     # me "Hey!"
-    me "Hey!"
+    me "Chào em!"
 
 # game/characters/grace/ev_1.rpy:40
 translate vietnamese grace_1_07703f7e_1:
@@ -118,7 +118,7 @@ translate vietnamese grace_1_7b14659b_1:
 translate vietnamese grace_1_8aa16e6a_2:
 
     # me "Hey!"
-    me "Hey!"
+    me "Chào em!"
 
 # game/characters/grace/ev_1.rpy:47
 translate vietnamese grace_1_07703f7e_2:
@@ -142,7 +142,7 @@ translate vietnamese grace_1_1_19144c91:
 translate vietnamese grace_1_1_26c9ed5a:
 
     # me "I'm [me]. Lexi told me I can stay here."
-    me "Anh [me]. Lexi nói rằng anh có thể ở lại đây."
+    me "Anh là [me]. Lexi nói rằng anh có thể ở lại đây."
 
 # game/characters/grace/ev_1.rpy:59
 translate vietnamese grace_1_1_6bf0df04:
@@ -196,7 +196,7 @@ translate vietnamese grace_1_1_8ae7fdfd:
 translate vietnamese grace_1_1_7a0ddb59:
 
     # th "Is she serious?"
-    th "Đuma thật luôn?"
+    th "Đù má thật luôn?"
 
 # game/characters/grace/ev_1.rpy:69
 translate vietnamese grace_1_1_5e234dc0:
@@ -208,7 +208,7 @@ translate vietnamese grace_1_1_5e234dc0:
 translate vietnamese grace_1_1_cc419edf:
 
     # grace "Hmmm.. You're right.. I think. My name is Grace."
-    grace "Hmmm.. Anh nói đúng ... Tên tôi là Grace."
+    grace "Hmmm.. cũng đúng.. Tên em là Grace."
 
 # game/characters/grace/ev_1.rpy:73
 translate vietnamese grace_1_1_ed754388:
@@ -238,13 +238,13 @@ translate vietnamese grace_1_1_492cc0e2:
 translate vietnamese grace_1_1_97887a4f:
 
     # th "That could've been worse.. Probably."
-    th "Nó đã có thể tệ hơn.. Có lẽ."
+    th "Nó đã có thể tệ hơn rồi.. Có lẽ."
 
 # game/characters/grace/ev_1.rpy:81
 translate vietnamese grace_1_1_32efe826:
 
     # th "I wonder why she hates men so much."
-    th "Minhhf tự hỏi tại sao em ấy ghét đàn ông đến vậy."
+    th "Tại sao em ấy ghét đàn ông đến vậy."
 
 translate vietnamese strings:
 

@@ -22,7 +22,7 @@ translate vietnamese past_lives_ed19b6de:
 translate vietnamese past_lives_a4907e08:
 
     # me "Is this a human?"
-    me "Đo scos phải là một con người không?"
+    me "Đó có phải là một con người không?"
 
 # game/characters/player/past_lives.rpy:18
 translate vietnamese past_lives_8aa16e6a:
@@ -46,7 +46,7 @@ translate vietnamese past_lives_b7f44064:
 translate vietnamese past_lives_c63058ab:
 
     # me "Fuck, is he deaf?"
-    me "Đệt, thanh niên này điếc hả?"
+    me "Đù má, thanh niên này điếc hả?"
 
 # game/characters/player/past_lives.rpy:28
 translate vietnamese past_lives_843ac613:
@@ -103,7 +103,7 @@ translate vietnamese past_lives_a0737bea:
     past_me "..."
 
 # game/characters/player/past_lives.rpy:37
-translate vietnamese past_lives_/248e66e0:
+translate vietnamese past_lives_248e66e0:
 
     # me "Who are you?"
     me "Mày là ai?"

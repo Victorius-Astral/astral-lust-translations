@@ -52,7 +52,7 @@ translate vietnamese alice_cunn1_dbd8e68f:
 translate vietnamese alice_cunn1_5245ff49:
 
     # "[alice] appears to completely give in to the pleasure. You can't believe a pussy can taste this good."
-    "[alice] dường như hoàn toàn đầu hàng trước sự khoái lạc. Bạn không thể tin được một cái lồn có thể ngon như thế này."
+    "[alice] dường như hoàn toàn đầu hàng trước cơn khoái lạc. Bạn không thể tin được một cái lồn có thể ngon như thế này."
 
 # game/characters/alice/cunn_1.rpy:52
 translate vietnamese alice_cunn1_830b5768:
@@ -64,7 +64,7 @@ translate vietnamese alice_cunn1_830b5768:
 translate vietnamese alice_cunn1_29b76d86:
 
     # "As she calls your name so playfully in her moans your dick is about to burst from your pants."
-    "Khi cô ấy gọi tên bạn một cách khiêu gợi trong tiếng rên của cô ấy, máu não bắt đầu dồn hết xuống thằng nhỏ của bạn như sắp sửa bung ra khỏi bạn."
+    "Khi cô ấy gọi tên bạn một cách khiêu gợi trong tiếng rên của cô ấy, khiến thằng nhỏ của bạn sắp sửa bung ra khỏi quần."
 
 # game/characters/alice/cunn_1.rpy:63
 translate vietnamese alice_cunn1_f795fb20:
@@ -76,13 +76,13 @@ translate vietnamese alice_cunn1_f795fb20:
 translate vietnamese alice_cunn1_8fda8a83:
 
     # alice "I am! Please make your little girl cum daddy!"
-    alice "Là em! Hãy làm cho cô bé nhỏ của anh ra đi daddy!"
+    alice "Là em! Hãy làm cho cô bé của anh ra đi daddy!"
 
 # game/characters/alice/cunn_1.rpy:66
 translate vietnamese alice_cunn1_50b23672:
 
     # th "Shit, I wish I could fuck her right now!"
-    th "Đạ mấu... Tôi ước gì tôi có thể đụ em ấy ngay bây giờ!"
+    th "Đạ mấu... Mình ước gì mình có thể đụ em ấy ngay bây giờ!"
 
 # game/characters/alice/cunn_1.rpy:67
 translate vietnamese alice_cunn1_42c3730b:
@@ -94,7 +94,7 @@ translate vietnamese alice_cunn1_42c3730b:
 translate vietnamese alice_cunn1_f73075dd:
 
     # "[alice] is cumming!"
-    "[alice] Đang ra !"
+    "[alice] Đang ra!"
 
 # game/characters/alice/cunn_1.rpy:78
 translate vietnamese alice_cunn1_f73075dd_1:

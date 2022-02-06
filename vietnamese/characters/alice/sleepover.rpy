@@ -4,7 +4,7 @@
 translate vietnamese sleep_with_alice_dbce692f:
 
     # me "Look at her, isn't it too early for you?"
-    me "Nhìn em ấy, có phải là quá sớm cho bạn không?"
+    me "Nhìn em ấy này, có phải là quá sớm cho em không?"
 
 # game/characters/alice/sleepover.rpy:28
 translate vietnamese sleep_with_alice_36246f80:
@@ -22,7 +22,7 @@ translate vietnamese sleep_with_alice_0df91372:
 translate vietnamese sleep_with_alice_22d060b8:
 
     # me "Oh, me too darling.."
-    me "Oh, anh nữ em yêu.."
+    me "Oh, anh nữa em yêu.."
 
 # game/characters/alice/sleepover.rpy:43
 translate vietnamese sleep_with_alice_53956def:
@@ -34,7 +34,7 @@ translate vietnamese sleep_with_alice_53956def:
 translate vietnamese sleep_with_alice_7f6d815b:
 
     # me "Morning, honey."
-    me " Chàob uổi sáng em yêu."
+    me " Chào buổi sáng em yêu."
 
 # game/characters/alice/sleepover.rpy:55
 translate vietnamese sleep_with_alice_584162f5:
@@ -58,7 +58,7 @@ translate vietnamese sleep_with_alice_65f18765:
 translate vietnamese sleep_with_alice_9b2c6e5e:
 
     # me "Stay then."
-    me "Vậy thì ở lại."
+    me "Vậy thì ở lại đi."
 
 # game/characters/alice/sleepover.rpy:70
 translate vietnamese sleep_with_alice_ce111e9e:
