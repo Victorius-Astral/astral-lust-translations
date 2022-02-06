@@ -22,7 +22,7 @@ translate spanish main_7_027bc502:
 translate spanish main_7_99f8888a:
 
     # girl "When I got the first one, I was literally seconds away from stepping onto the plane when a call from “UNKNOWN” blared from my cell phone. It was a ringtone I hadn’t heard before, one I was pretty sure hadn’t come with the phone."
-    girl "Cuando obtuve el primero, estaba literalmente a segundos de subir al avión cuando una llamada de "DESCONOCIDO" sonó desde mi teléfono celular. Era un tono de llamada que no había escuchado antes, uno que estaba bastante seguro de que no venía con el teléfono."
+    girl "Cuando obtuve el primero, estaba literalmente a segundos de subir al avión cuando una llamada de “DESCONOCIDO” sonó desde mi teléfono celular. Era un tono de llamada que no había escuchado antes, uno que estaba bastante seguro de que no venía con el teléfono."
 
 # game/characters/player/ev_7.rpy:25
 translate spanish main_7_47b18528:

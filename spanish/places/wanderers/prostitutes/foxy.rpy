@@ -388,7 +388,7 @@ translate spanish w_booth_foxy_wall_cum_outside_fdbb0c0c:
 translate spanish w_booth_foxy_cowgirl_2a9bba86:
 
     # foxy "I do three hundred squats everyday, are you ready to see the results, [me_foxy]?"
-foxy "Hago trescientas sentadillas todos los días, ¿estás listo para ver los resultados, [me_foxy]?"
+    foxy "Hago trescientas sentadillas todos los días, ¿estás listo para ver los resultados, [me_foxy]?"
 
 # game/places/wanderers/prostitutes/foxy.rpy:267
 translate spanish w_booth_foxy_cowgirl_ee3f4f03:

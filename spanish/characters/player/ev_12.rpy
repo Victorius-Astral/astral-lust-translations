@@ -64,7 +64,7 @@ translate spanish main_12_11ac9eee:
 translate spanish main_12_a5ac0527:
 
     # me "Talk with me? You weren't very friendly when we met last time."
-    me "¿Hablar conmigo? No fuiste muy amigable cuando nos vimos la última vez".
+    me "¿Hablar conmigo? No fuiste muy amigable cuando nos vimos la última vez."
 
 # game/characters/player/ev_12.rpy:20
 translate spanish main_12_17a6c48f:
@@ -394,7 +394,7 @@ translate spanish main_12_76b71697:
 translate spanish main_12_dfb9bcd6:
 
     # aharon "Through eras, many things have changed, the culture, faith, and tradition. There was only one thing that has never changed, human greed. Be it peace or war, the greed was always present."
-    aharon "A través de las eras, mucho ha cambiado. La cultura, la fe, la tradición. Solo había una cosa que nunca ha cambiado: la codicia humana. Ya sea en paz o en guerra, la codicia siempre estuvo presente".
+    aharon "A través de las eras, mucho ha cambiado. La cultura, la fe, la tradición. Solo había una cosa que nunca ha cambiado: la codicia humana. Ya sea en paz o en guerra, la codicia siempre estuvo presente."
 
 # game/characters/player/ev_12.rpy:89
 translate spanish main_12_d5e07d2a:
