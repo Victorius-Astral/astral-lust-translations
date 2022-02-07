@@ -2162,7 +2162,7 @@ translate spanish speak_alice_question_jack_f2c30fa9:
 translate spanish speak_alice_question_jack_e7d9e0e8:
 
     # me "What about scavenging? Did he ask you to help?"
-    me "¿Qué hay de hurgar? ¿Te pidió ayuda con eso?"
+    me "¿Qué hay de recolectar? ¿Te pidió ayuda con eso?"
 
 # game/characters/alice/speak.rpy:756
 translate spanish speak_alice_question_jack_7187ae19:
@@ -2174,7 +2174,7 @@ translate spanish speak_alice_question_jack_7187ae19:
 translate spanish speak_alice_question_jack_966fe5ca:
 
     # me "I see. And he went out to scavenge himself."
-    me "Ya veo. Y salió a hurgar él mismo."
+    me "Ya veo. Y salió a recolectar él mismo."
 
 # game/characters/alice/speak.rpy:761
 translate spanish speak_alice_question_jack_678573e6:
