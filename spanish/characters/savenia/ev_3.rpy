@@ -4,7 +4,7 @@
 translate spanish savenia_3_0416811d:
 
     # "As you wander through the fog, gunshots enter your ears."
-    "Mientras deambulas por la niebla, los disparos entran en tus oídos."
+    "Mientras deambulas por la niebla, disparos entran en tus oídos."
 
 # game/characters/savenia/ev_3.rpy:5
 translate spanish savenia_3_8058fca9:

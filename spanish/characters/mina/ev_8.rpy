@@ -4,43 +4,43 @@
 translate spanish mina_8_16cf47a5:
 
     # mina "[me]? Come, sit down."
-    mina "[me]? Come, sit down."
+    mina "¿[me]? Ven, siéntate."
 
 # game/characters/mina/ev_8.rpy:17
 translate spanish mina_8_ac6f9df3:
 
     # "You both sit on the bed, facing each other."
-    "You both sit on the bed, facing each other."
+    "Ambos se sientan en la cama, uno frente al otro."
 
 # game/characters/mina/ev_8.rpy:18
 translate spanish mina_8_d8814824:
 
     # mina "What do you want to talk about?"
-    mina "What do you want to talk about?"
+    mina "¿De qué quieres hablar?"
 
 # game/characters/mina/ev_8.rpy:22
 translate spanish mina_8_menu1_b6bf6e1f:
 
     # mina "Thank you for your concern."
-    mina "Thank you for your concern."
+    mina "Gracias por preocuparte."
 
 # game/characters/mina/ev_8.rpy:23
 translate spanish mina_8_menu1_7be647eb:
 
     # mina "I'll be alright. Things are different from before The End. We don't have the luxury of being weak anymore."
-    mina "I'll be alright. Things are different from before The End. We don't have the luxury of being weak anymore."
+    mina "Voy a estar bien. Las cosas son diferentes de antes de El Fin. Ya no tenemos el lujo de ser débiles."
 
 # game/characters/mina/ev_8.rpy:24
 translate spanish mina_8_menu1_656397f8:
 
     # mina "We all need to be strong. It's the way of the world now."
-    mina "We all need to be strong. It's the way of the world now."
+    mina "Todos necesitamos ser fuertes. Así es el mundo ahora."
 
 # game/characters/mina/ev_8.rpy:25
 translate spanish mina_8_menu1_70618b63:
 
     # me "I'm sorry you had to go through that."
-    me "I'm sorry you had to go through that."
+    me "Lamento que hayas tenido que pasar por eso.."
 
 # game/characters/mina/ev_8.rpy:28
 translate spanish mina_8_menu1_c8d6f574:
@@ -713,4 +713,3 @@ translate spanish strings:
     # game/characters/mina/ev_8.rpy:41
     old "I told her I did it with Alice. She wasn't angry, though."
     new "I told her I did it with Alice. She wasn't angry, though."
-
