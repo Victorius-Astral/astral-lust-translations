@@ -250,7 +250,7 @@ translate spanish savenia_8_slow_dfa4fbbb:
 translate spanish savenia_8_slow_d4ffcc4b:
 
     # th "Fuck, she really did it!"
-    th "Mierda, ¡de verdad lo hizo!".
+    th "Mierda, ¡de verdad lo hizo!"
 
 # game/characters/savenia/ev_8.rpy:134
 translate spanish savenia_8_slow_dd9636c7:
