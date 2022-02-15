@@ -34,7 +34,7 @@ translate vietnamese start_c63451cd:
 translate vietnamese start_4302c4f4:
 
     # th "It's raining.."
-    th "Trời đang mưa.."
+    th "Trời đang mưa..."
 
 # game/script.rpy:47
 translate vietnamese start_936dc2b1:
@@ -46,7 +46,7 @@ translate vietnamese start_936dc2b1:
 translate vietnamese start_2cf6ee55:
 
     # th "What has become of this world.."
-    th "Thứ gì đã khiến thế giới trở nên thế này.."
+    th "Thứ gì đã khiến thế giới trở nên thế này..."
 
 # game/script.rpy:49
 translate vietnamese start_7483d7a0:
@@ -726,4 +726,3 @@ translate vietnamese strings:
     # game/script.rpy:312
     old "She's the scavenger in the Jade Hotel."
     new "She's the scavenger in the Jade Hotel."
-

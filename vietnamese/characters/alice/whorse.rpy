@@ -269,11 +269,10 @@ translate vietnamese alice_whorse_a9e42f77:
 translate vietnamese alice_whorse_bab5de6b:
 
     # alice "Mm.. I want to have an orgasm. I'm dripping wet.."
-    alice "Mm.. I want to have an orgasm. I'm dripping wet.."
+    alice "Mm.. em muốn lên đỉnh. Em ướt lắm rồi.."
 
 # game/characters/alice/whorse.rpy:120
 translate vietnamese alice_whorse_96558721:
 
     # alice "I love it when you watch me.."
-    alice "I love it when you watch me.."
-
+    alice "Em rất thích khi anh nhìn em.."

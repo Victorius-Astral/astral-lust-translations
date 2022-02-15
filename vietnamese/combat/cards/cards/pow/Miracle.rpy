@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/pow/Miracle.rpy:6
     old "Miracle"
-    new "Miracle"
-
+    new "Phép Màu"

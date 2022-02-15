@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/off/Crush.rpy:6
     old "Crush"
-    new "Crush"
-
+    new "Nghiền Nát"

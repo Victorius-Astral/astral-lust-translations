@@ -10,7 +10,7 @@ translate vietnamese alice_wakeup_bj_131c6a3a:
 translate vietnamese alice_wakeup_bj_3a514469:
 
     # th "What is going on? It feels so nice.."
-    th "Chuyện gì đang xảy ra vậy? Cảm giác thật tuyệt.."
+    th "Chuyện gì đang xảy ra vậy? Cảm giác thật tuyệt..."
 
 # game/characters/alice/wakeup_bj.rpy:12
 translate vietnamese alice_wakeup_bj_ac0973f4:
@@ -28,7 +28,7 @@ translate vietnamese alice_wakeup_bj_40694db1:
 translate vietnamese alice_wakeup_bj_4efb96fb:
 
     # th "[alice].. This girl surely knows what I like, haha."
-    th "[alice].. Cô gái này chắc chắn biết mình thích gì đấy, haha."
+    th "[alice]... Cô gái này chắc chắn biết mình thích gì đấy, haha."
 
 # game/characters/alice/wakeup_bj.rpy:21
 translate vietnamese alice_wakeup_bj_c00df9d9:
@@ -40,7 +40,7 @@ translate vietnamese alice_wakeup_bj_c00df9d9:
 translate vietnamese alice_wakeup_bj_4e56d0da:
 
     # me "That is one fuckin' good girl over there.."
-    me "Và đây là một Alicetino một cái tình huống bú phải gọi là cực gắt.."
+    me "Và đây là một Alicetino một cái tình huống bú phải gọi là cực gắt..."
 
 # game/characters/alice/wakeup_bj.rpy:23
 translate vietnamese alice_wakeup_bj_4098db4f:
@@ -64,7 +64,7 @@ translate vietnamese alice_wakeup_bj_9dacff6c:
 translate vietnamese alice_wakeup_bj_64a9d068:
 
     # me "Just like that.."
-    me "Cứ như vậy.."
+    me "Cứ như vậy đi..."
 
 # game/characters/alice/wakeup_bj.rpy:33
 translate vietnamese alice_wakeup_bj_57f0a9e0:
@@ -112,7 +112,7 @@ translate vietnamese alice_wakeup_bj_cd696e80:
 translate vietnamese alice_wakeup_bj_5c79fab8:
 
     # me "Mmmm.."
-    me "Mmmm.."
+    me "Mmmm..."
 
 # game/characters/alice/wakeup_bj.rpy:47
 translate vietnamese alice_wakeup_bj_95684b9c:
@@ -172,7 +172,7 @@ translate vietnamese alice_wakeup_bj_0d9d3736:
 translate vietnamese alice_wakeup_bj_082c0f9f:
 
     # me ".. What do you take me for?"
-    me ".. Em nói với anh làm gì?"
+    me "... Em nói với anh làm gì?"
 
 # game/characters/alice/wakeup_bj.rpy:72
 translate vietnamese alice_wakeup_bj_caf87c49:
@@ -184,7 +184,7 @@ translate vietnamese alice_wakeup_bj_caf87c49:
 translate vietnamese alice_wakeup_bj_7a6ea886:
 
     # me ".. What is that supposed to even mean?"
-    me ".. Điều đó có nghĩa là gì?"
+    me "... Điều đó có nghĩa là gì?"
 
 # game/characters/alice/wakeup_bj.rpy:76
 translate vietnamese alice_wakeup_bj_24e7bfe9:
@@ -208,4 +208,4 @@ translate vietnamese alice_wakeup_bj_a9907d7e:
 translate vietnamese alice_wakeup_bj_bddb3446:
 
     # me "This little wench.."
-    me "Cô gái này.."
+    me "Cô gái này..."

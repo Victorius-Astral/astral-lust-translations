@@ -10,13 +10,13 @@ translate vietnamese alice_cunn1_c839e5b0:
 translate vietnamese alice_cunn1_a688eb90:
 
     # "You don't let her wait any longer and bury yourself between her thighs."
-    "Không để cô ấy đợi lâu hơn nữa bạn vùi mặt vào giữa đùi của cô ấy."
+    "Không để cô ấy đợi lâu hơn bạn vùi mặt vào giữa đùi của cô ấy."
 
 # game/characters/alice/cunn_1.rpy:36
 translate vietnamese alice_cunn1_9403bafe:
 
     # alice "Ummm~"
-    alice "Ummm~"
+    alice "Ưmmm~"
 
 # game/characters/alice/cunn_1.rpy:37
 translate vietnamese alice_cunn1_c03d28ea:
@@ -28,7 +28,7 @@ translate vietnamese alice_cunn1_c03d28ea:
 translate vietnamese alice_cunn1_5e89a703:
 
     # alice "Mmm.. just like that."
-    alice "Mmm.. Cứ như thế."
+    alice "Mmm.. Cứ như vậy đi."
 
 # game/characters/alice/cunn_1.rpy:39
 translate vietnamese alice_cunn1_6de696ef:
@@ -64,19 +64,19 @@ translate vietnamese alice_cunn1_830b5768:
 translate vietnamese alice_cunn1_29b76d86:
 
     # "As she calls your name so playfully in her moans your dick is about to burst from your pants."
-    "Khi cô ấy gọi tên bạn một cách khiêu gợi trong tiếng rên của cô ấy, khiến thằng nhỏ của bạn sắp sửa bung ra khỏi quần."
+    "Cái cách cô ấy gọi tên bạn một cách khiêu gợi trong tiếng rên của cô ấy, khiến thằng nhỏ của bạn sắp sửa bung ra khỏi quần."
 
 # game/characters/alice/cunn_1.rpy:63
 translate vietnamese alice_cunn1_f795fb20:
 
     # me "Who's a good little girl?"
-    me "Ai là cô bé ngoan nào?"
+    me "Ai là con đĩ của anh nào?"
 
 # game/characters/alice/cunn_1.rpy:65
 translate vietnamese alice_cunn1_8fda8a83:
 
     # alice "I am! Please make your little girl cum daddy!"
-    alice "Là em! Hãy làm cho cô bé của anh ra đi daddy!"
+    alice "Là em! Hãy làm cho con đĩ của anh ra đi!"
 
 # game/characters/alice/cunn_1.rpy:66
 translate vietnamese alice_cunn1_50b23672:
@@ -88,7 +88,7 @@ translate vietnamese alice_cunn1_50b23672:
 translate vietnamese alice_cunn1_42c3730b:
 
     # alice "Ahh~ I-I'm cumminggg!!!"
-    alice "Ahh~ E-Em đang ra!!!"
+    alice "Ahh~ Em đang ra!!!"
 
 # game/characters/alice/cunn_1.rpy:73
 translate vietnamese alice_cunn1_f73075dd:

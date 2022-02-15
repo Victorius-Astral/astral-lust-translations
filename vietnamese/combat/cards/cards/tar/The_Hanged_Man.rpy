@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_Hanged_Man.rpy:6
     old "The Hanged Man"
-    new "The Hanged Man"
-
+    new "Người Treo Cổ"

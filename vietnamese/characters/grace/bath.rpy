@@ -10,7 +10,7 @@ translate vietnamese grace_bath_efb4765f:
 translate vietnamese grace_bath_68a634fe:
 
     # th "She seems asleep. Oh, [grace], it's dangerous to sleep in a water."
-    th "Em ấy có vẻ như đang ngủ. Ê [grace] ngủ trong nước rấy nguy hiểm đấy."
+    th "Em ấy có vẻ như đang ngủ. Ê [grace] ngủ trong nước rất nguy hiểm đấy."
 
 # game/characters/grace/bath.rpy:20
 translate vietnamese grace_bath_menu1_9b6d9c06:
@@ -34,7 +34,7 @@ translate vietnamese grace_bath_menu1_f724d76e:
 translate vietnamese grace_bath_menu1_5eb408fc:
 
     # grace "Oh. I'm okay. I didn't fall asleep underwater."
-    grace "Oh. Em không sao. Em không có ngủ dưới nước."
+    grace "Oh. Em không sao. Em có ngủ dưới nước đâu."
 
 # game/characters/grace/bath.rpy:40
 translate vietnamese grace_bath_menu1_142e9786:
@@ -46,7 +46,7 @@ translate vietnamese grace_bath_menu1_142e9786:
 translate vietnamese grace_bath_menu1_dc8cef6a:
 
     # grace "No?"
-    grace "Không?"
+    grace "Không á?"
 
 # game/characters/grace/bath.rpy:44
 translate vietnamese grace_bath_menu1_5e60407a:
@@ -82,7 +82,7 @@ translate vietnamese grace_bath_menu1_8d7d24e7:
 translate vietnamese grace_bath_menu1_38684c7d:
 
     # me "No.."
-    me "Không.."
+    me "Không..."
 
 # game/characters/grace/bath.rpy:61
 translate vietnamese grace_bath_menu1_19cdc3bc:
@@ -94,7 +94,7 @@ translate vietnamese grace_bath_menu1_19cdc3bc:
 translate vietnamese grace_bath_menu1_5ba08969:
 
     # me "Alright, [grace]. Finish your bath, I'm leaving."
-    me "Được rồi, [grace]. Em tắm đi, anh đi đây."
+    me "Được rồi, [grace]. Em tắm đi, anh té đây."
 
 # game/characters/grace/bath.rpy:65
 translate vietnamese grace_bath_menu1_aa29680b:
@@ -112,7 +112,7 @@ translate vietnamese grace_bath_menu1_5cdebf03:
 translate vietnamese grace_bath_menu1_6042568a:
 
     # grace "Wait.. Are you eyeing me?!"
-    grace "Chờ đã.. Anh đang tia em sao?!"
+    grace "Chờ đã... Anh đang tia em sao?!"
 
 # game/characters/grace/bath.rpy:72
 translate vietnamese grace_bath_menu1_2dd3526b:
@@ -130,7 +130,7 @@ translate vietnamese grace_bath_menu1_b9a81edd:
 translate vietnamese grace_bath_menu1_4f32ddf0:
 
     # grace "It's not your concern.."
-    grace "Đó không phải là chuyện của anh.."
+    grace "Đó không phải là chuyện của anh..."
 
 # game/characters/grace/bath.rpy:79
 translate vietnamese grace_bath_menu1_589f9c27:
@@ -190,7 +190,7 @@ translate vietnamese grace_bath_mass_f849fc0f:
 translate vietnamese grace_bath_mass_abc170e0:
 
     # me "Don't sleep in the bathtub, you'll drown."
-    me "Đừng ngủ trong bồn tắm, em sẽ chìm đấy."
+    me "Đừng có ngủ trong bồn tắm, em sẽ bị chìm đấy."
 
 # game/characters/grace/bath.rpy:114
 translate vietnamese grace_bath_mass_33e300dd:
@@ -208,7 +208,7 @@ translate vietnamese grace_bath_mass_87f9de78:
 translate vietnamese grace_bath_mass_a1a1cc60:
 
     # grace "Oh, they like when you're playing with them. I like when you're playing with them."
-    grace "Oh, chúng rất thích khi anh chơi với chúng. Em cũng thích khi anh chơi với chúng."
+    grace "Oh, chúng rất thích khi anh chơi với chúng đấy. Em cũng thích nữa."
 
 # game/characters/grace/bath.rpy:119
 translate vietnamese grace_bath_mass_b47a5ae1:
@@ -226,7 +226,7 @@ translate vietnamese grace_bath_mass_b342731a:
 translate vietnamese grace_bath_mass_cea3d9ce:
 
     # grace "Mmm.."
-    grace "Mmm.."
+    grace "Mmm..."
 
 # game/characters/grace/bath.rpy:129
 translate vietnamese grace_bath_mass_4b2158be:
@@ -256,7 +256,7 @@ translate vietnamese grace_bath_mass_e4b58587:
 translate vietnamese grace_bath_mass_5ea4214c:
 
     # me "My.. heart, it's very happy to see you glad."
-    me "Trái tim.. Trái tim của anh, rất hạnh phúc khi nhìn thấy em vui."
+    me "Trái tim... trái tim của anh, rất hạnh phúc khi nhìn thấy em vui."
 
 # game/characters/grace/bath.rpy:141
 translate vietnamese grace_bath_mass_928ca7ef:
@@ -268,7 +268,7 @@ translate vietnamese grace_bath_mass_928ca7ef:
 translate vietnamese grace_bath_mass_a635cdda:
 
     # th "Yeah, my heart.."
-    th "Yeah, tim thôi.."
+    th "Yeah, tym..."
 
 # game/characters/grace/bath.rpy:143
 translate vietnamese grace_bath_mass_2691c12f:
@@ -280,7 +280,7 @@ translate vietnamese grace_bath_mass_2691c12f:
 translate vietnamese grace_bath_mass_e4cca4c5:
 
     # th "She seems to have lost herself in lust, this girl is such a nympho deep down."
-    th "Em ấy dường như đã đánh mất mình trong dục vọng, trong sâu thẳm cô gái này là một dâm nữ."
+    th "Em ấy dường như đã đánh mất mình trong ham muốn rồi, trong sâu thẳm cô gái này là một dâm nữ."
 
 # game/characters/grace/bath.rpy:153
 translate vietnamese grace_bath_mass_a44e7306:
@@ -298,7 +298,7 @@ translate vietnamese grace_bath_mass_baf8f4db:
 translate vietnamese grace_bath_mass_372ade50:
 
     # th "I was not wrong. True nympho."
-    th "Mình không sai đâu. dâm nữ đích thực luôn."
+    th "Mình không sai đâu. Dâm nữ đích thực luôn."
 
 # game/characters/grace/bath.rpy:163
 translate vietnamese grace_bath_mass_9304ae08:
@@ -316,7 +316,7 @@ translate vietnamese grace_bath_mass_38632534:
 translate vietnamese grace_bath_mass_1a21ca5d:
 
     # grace "Could you massage my puppies every day?"
-    grace "Anh có thể massage những chú cún con của em mỗi ngày được không??"
+    grace "Anh có thể massage những chú cún con của em mỗi ngày được không?"
 
 # game/characters/grace/bath.rpy:166
 translate vietnamese grace_bath_mass_593a0b10:
@@ -358,13 +358,13 @@ translate vietnamese grace_bath_mass_8ce0b9d0:
 translate vietnamese grace_bath_mass_528b59f0:
 
     # grace "It was sooo good."
-    grace "Nó thật tuyệt."
+    grace "Tuyệt quá."
 
 # game/characters/grace/bath.rpy:186
 translate vietnamese grace_bath_mass_b576210e:
 
     # grace "I will.."
-    grace "Em sẽ.."
+    grace "Em sẽ..."
 
 # game/characters/grace/bath.rpy:189
 translate vietnamese grace_bath_mass_fdb4e830:
@@ -400,13 +400,13 @@ translate vietnamese grace_bath_mass_183e7ca0:
 translate vietnamese grace_bath_mass_673d1d9a:
 
     # th "Should I tell her, she has forgotten the towel?"
-    th "Mình có nên nói với em ấy rằng, em ấy đã quên khăn tắm rồi không?"
+    th "Mình có nên nói với em ấy là, ẻm đã quên khăn tắm rồi không?"
 
 # game/characters/grace/bath.rpy:203
 translate vietnamese grace_bath_mass_6064d1e3:
 
     # me "Nah.."
-    me "Thôi.."
+    me "Thôi..."
 
 # game/characters/grace/bath.rpy:206
 translate vietnamese grace_bath_mass_a3e11883:
@@ -448,7 +448,7 @@ translate vietnamese grace_bath_mass_0a0540f2:
 translate vietnamese grace_bath_mass_a6effc0c:
 
     # me "Ahh.. I got to dry myself."
-    me "Ahh.. mình phải lau khô người."
+    me "Ahh... mình phải lau khô người rồi."
 
 translate vietnamese strings:
 

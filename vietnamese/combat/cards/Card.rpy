@@ -20,7 +20,7 @@ translate vietnamese strings:
 
     # game/combat/cards/Card.rpy:78
     old ", card: "
-    new ", card: "
+    new ", bài: "
 
     # game/combat/cards/Card.rpy:354
     old "Error playing card! \n Missing play() method."

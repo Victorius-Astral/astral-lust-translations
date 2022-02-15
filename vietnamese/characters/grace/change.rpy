@@ -4,7 +4,7 @@
 translate vietnamese change_grace_c648af59:
 
     # "You enter [grace]'s room only to be greeted with her bare ass."
-    "Bạn bước vào phòng của [Grace] chỉ để được chào đón bằng cặp mông trần của cô ấy."
+    "Bạn bước vào phòng của [Grace] và được chào đón bằng cặp mông trần của cô ấy."
 
 # game/characters/grace/change.rpy:9
 translate vietnamese change_grace_7fb00842:
@@ -28,7 +28,7 @@ translate vietnamese change_grace_c5227f7a:
 translate vietnamese change_grace_6a5028be:
 
     # "I wish to touch her all over now.."
-    "Mình ước được chạm vào em ấy ngay bây giờ.."
+    "Mình ước được chạm vào em ấy ngay bây giờ..."
 
 # game/characters/grace/change.rpy:36
 translate vietnamese change_grace_ccadd33d:
@@ -40,7 +40,7 @@ translate vietnamese change_grace_ccadd33d:
 translate vietnamese change_grace_476e7034:
 
     # th "I'm about to get caught red handed, surprisingly it turns me on.."
-    th "Mình sắp bị bắt quả tang, nhưng ngạc nhiên là nó khiến mình hứng lên mới sợ.."
+    th "Mình sắp bị bắt quả tang, nhưng ngạc nhiên là nó còn khiến mình hứng lên mới sợ chứ..."
 
 # game/characters/grace/change.rpy:44
 translate vietnamese change_grace_fdb4e830:
@@ -58,13 +58,13 @@ translate vietnamese change_grace_f35ebef3:
 translate vietnamese change_grace_a586c671:
 
     # me "Why not both?"
-    me "Tại sao không phải cả hai?"
+    me "Tại sao không phải là cả hai?"
 
 # game/characters/grace/change.rpy:52
 translate vietnamese change_grace_1d37c456:
 
     # grace "I-It must feel good.."
-    grace "C-Chắc sẽ cảm thấy tốt lắm.."
+    grace "C-Chắc sẽ có cảm giác tốt lắm..."
 
 # game/characters/grace/change.rpy:53
 translate vietnamese change_grace_81a390ba:
@@ -88,7 +88,7 @@ translate vietnamese change_grace_5c984960:
 translate vietnamese change_grace_48dd05de:
 
     # grace "I need to prepare dinner for everyone, they count on me."
-    grace "Em cần chuẩn bị bữa tối cho mọi người, họ trông cậy vào em."
+    grace "Em cần chuẩn bị bữa tối cho mọi người, họ đều trông cậy vào em."
 
 # game/characters/grace/change.rpy:59
 translate vietnamese change_grace_4cbaac8b:
@@ -118,7 +118,7 @@ translate vietnamese change_grace_5cdebf03:
 translate vietnamese change_grace_3d15e6fb:
 
     # grace "I was wrong about you.."
-    grace "Em đã lầm về anh rồi.."
+    grace "Em đã lầm về anh rồi..."
 
 # game/characters/grace/change.rpy:72
 translate vietnamese change_grace_f2802b7e:
@@ -142,7 +142,7 @@ translate vietnamese change_grace_908322bc:
 translate vietnamese change_grace_1fe1b689:
 
     # grace "Hmm.."
-    grace "Hmm.."
+    grace "Hmm..."
 
 # game/characters/grace/change.rpy:81
 translate vietnamese change_grace_6f0d74f4:
@@ -166,7 +166,7 @@ translate vietnamese change_grace_43752ac2:
 translate vietnamese change_grace_ea30b105:
 
     # grace "Oh! I see.."
-    grace "Oh! Em hiểu rồi.."
+    grace "Oh! Em hiểu rồi..."
 
 # game/characters/grace/change.rpy:90
 translate vietnamese change_grace_5ad2876a:
@@ -232,7 +232,7 @@ translate vietnamese change_grace_4989fe05:
 translate vietnamese change_grace_6496b235:
 
     # "[grace] moves storm towards the door without another word."
-    "[grace] Lướt về phía cửa mà không có một lời nào khác."
+    "[grace] Lướt về phía cửa mà không nói một lời nào nữa."
 
 # game/characters/grace/change.rpy:116
 translate vietnamese change_grace_a20cefa7:
@@ -250,7 +250,7 @@ translate vietnamese change_grace_7ac05c73:
 translate vietnamese change_grace_406a8d31:
 
     # me "Wait! I.."
-    me "Đợi đã! Anh.."
+    me "Đợi đã! Anh..."
 
 # game/characters/grace/change.rpy:123
 translate vietnamese change_grace_4e55c466:
@@ -268,4 +268,4 @@ translate vietnamese change_grace_3790cddd:
 translate vietnamese change_grace_522fcc81:
 
     # th "I'll come some other time."
-    th "Mình sẽ đến vào lúc khác."
+    th "Mình sẽ đến vào lúc khác vậy."

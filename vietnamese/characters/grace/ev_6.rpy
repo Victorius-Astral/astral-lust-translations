@@ -4,7 +4,7 @@
 translate vietnamese grace_6_fa04d506:
 
     # "As you are about to grab something to eat you hear someone talking to you."
-    "Khi bạn chuẩn bị lấy một thứ gì đó để ăn, bạn nghe thấy ai đó đang nói chuyện với bạn."
+    "Khi bạn chuẩn bị lấy một thứ gì đó để ăn, thì nghe thấy ai đó đang nói chuyện với bạn."
 
 # game/characters/grace/ev_6.rpy:7
 translate vietnamese grace_6_379d3df7:
@@ -16,7 +16,7 @@ translate vietnamese grace_6_379d3df7:
 translate vietnamese grace_6_fdf28740:
 
     # me "Oh, [grace]. Yes I was just about to eat something, why?"
-    me "Oh, [grace]. Ừ, anh vừa định ăn gì đó, sao vậy?"
+    me "Oh, [grace]. Ừ, anh đang định ăn gì đó đây, sao vậy?"
 
 # game/characters/grace/ev_6.rpy:11
 translate vietnamese grace_6_3fd647c4:
@@ -46,7 +46,7 @@ translate vietnamese grace_6_4f536fe2:
 translate vietnamese grace_6_279619cb:
 
     # "A short time later [grace] is back with two bowls."
-    "Một thời gian ngắn sau [grace] đã trở lại với hai cái bát."
+    "Một lúc sau [grace] đã trở lại với hai cái bát."
 
 # game/characters/grace/ev_6.rpy:19
 translate vietnamese grace_6_2dd441b3:
@@ -401,5 +401,4 @@ translate vietnamese strings:
 
     # game/characters/grace/ev_6.rpy:28
     old "Her cooking is the best!"
-    new "Her cooking is the best!"
-
+    new "Cô ấy nấu ăn là ngon nhất!"

@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/pow/Unshakable.rpy:6
     old "Unshakable"
-    new "Unshakable"
-
+    new "Chiến Thần"

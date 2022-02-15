@@ -10,7 +10,7 @@ translate vietnamese alice_4_131c6a3a:
 translate vietnamese alice_4_3a514469:
 
     # th "What is going on? It feels so nice.."
-    th "Điều gì đang xảy ra? Cảm giác thật tuyệt.."
+    th "Cái gì đang xảy ra vậy? Phê quá..."
 
 # game/characters/alice/ev_4.rpy:22
 translate vietnamese alice_4_f9e0fb50:
@@ -64,13 +64,13 @@ translate vietnamese alice_4_c5a013b4:
 translate vietnamese alice_4_fea5e951:
 
     # me "Hey [alice].."
-    me "Chào [alice].."
+    me "Hế lu [alice]."
 
 # game/characters/alice/ev_4.rpy:37
 translate vietnamese alice_4_7eb2787f:
 
     # alice "Hey~"
-    alice "Hey~"
+    alice "Chào anh~"
 
 # game/characters/alice/ev_4.rpy:39
 translate vietnamese alice_4_7a7cdb4b:
@@ -94,7 +94,7 @@ translate vietnamese alice_4_17a7cdad:
 translate vietnamese alice_4_eee7258e:
 
     # "She ignores your question and continues to pleasure you with even greater eagerness."
-    "Cô ấy phớt lờ câu hỏi của bạn và tiếp tục làm hài lòng bạn với sự háo hức hơn cả."
+    "Cô ấy phớt lờ câu hỏi của bạn và tiếp tục làm hài lòng bạn với một sự háo hức hơn cả."
 
 # game/characters/alice/ev_4.rpy:46
 translate vietnamese alice_4_790ac4ed:
@@ -130,7 +130,7 @@ translate vietnamese alice_4_1_c00df9d9:
 translate vietnamese alice_4_1_fd29b35c:
 
     # me "Nnngh.."
-    me "Nnngh.."
+    me "Nnngh..."
 
 # game/characters/alice/ev_4.rpy:57
 translate vietnamese alice_4_1_77cf2f99:
@@ -142,7 +142,7 @@ translate vietnamese alice_4_1_77cf2f99:
 translate vietnamese alice_4_1_aeddd870:
 
     # me "Ohhh.."
-    me "Ohhh.."
+    me "Ohh..."
 
 # game/characters/alice/ev_4.rpy:59
 translate vietnamese alice_4_1_9c8d6101:
@@ -154,13 +154,13 @@ translate vietnamese alice_4_1_9c8d6101:
 translate vietnamese alice_4_1_c9e889cf:
 
     # me "Fuck! I'm cumming!"
-    me "Anh, sắp bắn rồi!"
+    me "Anh, sắp ra rồi!"
 
 # game/characters/alice/ev_4.rpy:62
 translate vietnamese alice_4_1_c69dd89e:
 
     # "Hearing that you're about to cum makes [alice] take you even deeper!"
-    "Nghe thấy bạn sắp ra [alice] mút bạn sâu hơn nữa!"
+    "Nghe thấy bạn sắp ra [alice] còn đưa vào sâu hơn nữa!"
 
 # game/characters/alice/ev_4.rpy:64
 translate vietnamese alice_4_1_2f3d23c6:
@@ -226,13 +226,13 @@ translate vietnamese alice_4_1_b1c46a00:
 translate vietnamese alice_4_1_b14c49f7:
 
     # "Giving you one final look, she leaves your room."
-    "Nhìn bạn một cái nhìn cuối cùng, cô ấy rời khỏi phòng của bạn."
+    "Nhìn bạn một cái nữa, và rời khỏi phòng của bạn."
 
 # game/characters/alice/ev_4.rpy:90
 translate vietnamese alice_4_1_409ae55d:
 
     # th "She can play with me like that more.. like everyday."
-    th "Em ấy có thể chơi đùa với mình như vậy nhiều hơn.. mỗi ngày cũng được."
+    th "Em ấy có thể chơi đùa với mình như vậy nhiều hơn... mỗi ngày cũng được."
 
 # game/characters/alice/ev_4.rpy:97
 translate vietnamese alice_4_1_b94a6a0f:
@@ -256,7 +256,7 @@ translate vietnamese alice_4_1_b14c49f7_1:
 translate vietnamese alice_4_1_c0b9b273:
 
     # th "She can play with me like that more.. like every day."
-    th "Em ấy có thể chơi đùa với mình như vậy nhiều hơn.. mỗi ngày."
+    th "Em ấy có thể chơi đùa với mình như vậy nhiều hơn... mỗi ngày."
 
 translate vietnamese strings:
 

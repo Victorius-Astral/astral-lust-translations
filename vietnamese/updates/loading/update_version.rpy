@@ -4,9 +4,8 @@ translate vietnamese strings:
 
     # game/updates/loading/update_version.rpy:6
     old "Save version: "
-    new "Save version: "
+    new "Lưu phiên bản: "
 
     # game/updates/loading/update_version.rpy:88
     old "Apply patch: "
-    new "Apply patch: "
-
+    new "Sử dụng bản vá: "

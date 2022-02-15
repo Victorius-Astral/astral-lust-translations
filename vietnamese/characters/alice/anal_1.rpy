@@ -4,7 +4,7 @@
 translate vietnamese alice_anal_1_4877092e:
 
     # "You enter her. She's incredibly tight, yet you went in without problem."
-    "Bạn đút vào cô ấy. Cô ấy cực kỳ chặt, nhưng bạn vẫn vào mà không có vấn đề gì."
+    "Bạn đút vào bên trong cô ấy. Cô ấy cực kỳ chặt, nhưng bạn vẫn vào mà không có vấn đề gì."
 
 # game/characters/alice/anal_1.rpy:17
 translate vietnamese alice_anal_1_df37bd7e:
@@ -16,7 +16,7 @@ translate vietnamese alice_anal_1_df37bd7e:
 translate vietnamese alice_anal_1_ff41d66b:
 
     # me "Fuck! You are tight."
-    me "Trời đụ! em chặt quá."
+    me "Em chặt quá."
 
 # game/characters/alice/anal_1.rpy:20
 translate vietnamese alice_anal_1_007f1501:
@@ -40,7 +40,7 @@ translate vietnamese alice_anal_1_117a772e:
 translate vietnamese alice_anal_1_617fc709:
 
     # alice "Yeeesss~"
-    alice "Yeeesss~"
+    alice "Đúng rồiii~"
 
 # game/characters/alice/anal_1.rpy:33
 translate vietnamese alice_anal_1_6015a7a4:
@@ -100,7 +100,7 @@ translate vietnamese alice_anal_1_8b6f0399:
 translate vietnamese alice_anal_1_1eda25ab:
 
     # alice "{size=-10}Mm~.{/size}"
-    alice "{size=-10}Mm~.{/size}"
+    alice "{size=-10}Ừm~.{/size}"
 
 # game/characters/alice/anal_1.rpy:52
 translate vietnamese alice_anal_1_ae7efb49:
@@ -124,19 +124,19 @@ translate vietnamese alice_anal_1_eba39e74:
 translate vietnamese alice_anal_1_dd017547:
 
     # "After clothing yourself and putting a towel on [alice] you piggyback her."
-    "Sau khi mặc quần áo và quấn khăn tắm cho [alice] bạn cõng cô ấy."
+    "Sau khi mặc quần áo và quấn khăn tắm cho [alice] bạn cõng cô ấy lên."
 
 # game/characters/alice/anal_1.rpy:60
 translate vietnamese alice_anal_1_18b07e92:
 
     # me "I'll take you to bed."
-    me "Anh sẽ đưa em đi ngủ."
+    me "Để anh đưa em đi ngủ nào."
 
 # game/characters/alice/anal_1.rpy:63
 translate vietnamese alice_anal_1_34cff1b3:
 
     # "You gently lay her down to rest."
-    "Bạn nhẹ nhàng đặt cô ấy nằm nghỉ ngơi."
+    "Bạn nhẹ nhàng đặt cô ấy nằm xuống."
 
 # game/characters/alice/anal_1.rpy:64
 translate vietnamese alice_anal_1_8d5c5cb3:

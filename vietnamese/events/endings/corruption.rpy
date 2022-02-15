@@ -236,7 +236,7 @@ translate vietnamese strings:
 
     # game/events/endings/corruption.rpy:56
     old "Use [[Freedom in Death]"
-    new "Sử dụng [[Tự do trong cái chết]"
+    new "Sử dụng [[Cái chết tự do]"
 
     # game/events/endings/corruption.rpy:56
     old "Use [[Freedom]"
@@ -248,4 +248,3 @@ translate vietnamese end_corruption_838d8644:
 
     # "Before you, an endless black sea floats amidst the stars, yet this breathtaking sight doesn't impress you. You feel nothing."
     "Before you, an endless black sea floats amidst the stars, yet this breathtaking sight doesn't impress you. You feel nothing."
-

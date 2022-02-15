@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/pow/Mutate.rpy:6
     old "Mutate"
-    new "Mutate"
-
+    new "Đột Biến"

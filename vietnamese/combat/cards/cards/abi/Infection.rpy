@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/abi/Infection.rpy:6
     old "Infection"
-    new "Infection"
-
+    new "Lây Nhiễm"

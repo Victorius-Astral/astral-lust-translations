@@ -737,23 +737,22 @@ translate vietnamese grace_9_499b26f3:
 translate vietnamese grace_9_8ee752b2:
 
     # grace "Hehe~ I've got a rose. They are sooo beautiful. I haven't seen a rose in so long.."
-    grace "Hehe~ I've got a rose. They are sooo beautiful. I haven't seen a rose in so long.."
+    grace "Hehe~ Em có một bông hồng. Chúng thật đẹp. Em đã không nhìn thấy một bông quá lâu rồi.."
 
 # game/characters/grace/ev_9.rpy:164
 translate vietnamese grace_9_7e46c4bf:
 
     # me "Never mind, I'm coming for ya."
-    me "Never mind, I'm coming for ya."
+    me "Đừng bận tâm, anh đến vì em đấy."
 
 # game/characters/grace/ev_9.rpy:168
 translate vietnamese grace_9_cf1eef7c:
 
     # me "Someone had a pillow talk with Alice again."
-    me "Someone had a pillow talk with Alice again."
+    me "Ai đó lại có một cuộc nói chuyện chăn gối với Alice một lần nữa này."
 
 # game/characters/grace/ev_9.rpy:218
 translate vietnamese grace_9_bb4f74f8:
 
     # "You put your fingers deeper with every move, you can feel her twitch in excitement."
-    "You put your fingers deeper with every move, you can feel her twitch in excitement."
-
+    "Bạn đưa ngón tay vào sâu hơn theo từng cử động, bạn có thể cảm nhận được cô ấy co giật vì phấn khích."

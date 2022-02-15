@@ -16,7 +16,7 @@ translate vietnamese alice_p_bed_a745d184:
 translate vietnamese alice_p_bed_a48cf8c7:
 
     # alice "Eh.. Not so loud."
-    alice "Eh.. Đừng làm ồn."
+    alice "Eh... Đừng làm ồn."
 
 # game/characters/alice/p_bed.rpy:36
 translate vietnamese alice_p_bed_c1bf7232:
@@ -34,7 +34,7 @@ translate vietnamese alice_p_bed_267feeb3:
 translate vietnamese alice_p_bed_a2104072:
 
     # alice "I hate you.."
-    alice "Em ghét anh.."
+    alice "Em ghét anh..."
 
 # game/characters/alice/p_bed.rpy:43
 translate vietnamese alice_p_bed_25f6ef10:
@@ -112,7 +112,7 @@ translate vietnamese alice_p_bed_undress_724ce286:
 translate vietnamese alice_p_bed_undress_1c77a2e1:
 
     # alice "[me].."
-    alice "[me].."
+    alice "[me]..."
 
 # game/characters/alice/p_bed.rpy:107
 translate vietnamese alice_p_bed_undress_210a8368:
@@ -154,13 +154,13 @@ translate vietnamese alice_p_bed_undress_fda92617:
 translate vietnamese alice_p_bed_undress_24463355:
 
     # alice "Try harder next time, young man."
-    alice "Lần sau cố gắng hơn đi chàng trai trẻ."
+    alice "Lần sau cố gắng hơn đi cậu bé."
 
 # game/characters/alice/p_bed.rpy:132
 translate vietnamese alice_p_bed_undress_38cab369:
 
     # me "I'm older than you.."
-    me "Anh lớn tuổi hơn em đấy.."
+    me "Anh lớn tuổi hơn em đấy..."
 
 # game/characters/alice/p_bed.rpy:145
 translate vietnamese alice_p_bed_cunn_b2495cea:
@@ -232,7 +232,7 @@ translate vietnamese alice_p_bed_cunn_b2df2fd6:
 translate vietnamese alice_p_bed_cunn_4cdf02ac:
 
     # th "I love her taste, taste of a good girl huh?"
-    th "Mình thích vị của em ấy, vị của goodgirl hả?"
+    th "Mình thích vị của em ấy, vị của goodgirl huh?"
 
 # game/characters/alice/p_bed.rpy:168
 translate vietnamese alice_p_bed_cunn_9ec30113:
@@ -280,7 +280,7 @@ translate vietnamese alice_p_bed_cunn_97f6e87a:
 translate vietnamese alice_p_bed_cunn_140a960f:
 
     # alice "So good.."
-    alice "Thật tuyệt.."
+    alice "Thật tuyệt..."
 
 # game/characters/alice/p_bed.rpy:200
 translate vietnamese alice_p_bed_cunn_1e15a74f:
@@ -364,7 +364,7 @@ translate vietnamese alice_p_bed_bj_69c59417:
 translate vietnamese alice_p_bed_bj_45ac051d:
 
     # me "Yeah.. good girl."
-    me "Yeah.. cô bé ngoan."
+    me "Yeah... cô bé ngoan."
 
 # game/characters/alice/p_bed.rpy:278
 translate vietnamese alice_p_bed_bj_8a7fd093:
@@ -520,7 +520,7 @@ translate vietnamese alice_p_bed_sex_04c8ed9e:
 translate vietnamese alice_p_bed_sex_380702b8:
 
     # me "Ehh.. You feel so good, god, you're so tight!"
-    me "Ehh.. Em tuyệt thật đấy, định mệnh, em chặt quá!"
+    me "Ehh... Em tuyệt thật đấy, định mệnh, em chặt quá!"
 
 # game/characters/alice/p_bed.rpy:378
 translate vietnamese alice_p_bed_sex_81981010:
@@ -562,7 +562,7 @@ translate vietnamese alice_p_bed_sex_cc2dd92e:
 translate vietnamese alice_p_bed_sex_605be236:
 
     # alice "That was crazy, daddy~"
-    alice "Vừa rồi tuyệt thật đấy, daddy~"
+    alice "Vừa rồi tuyệt thật đấy~"
 
 # game/characters/alice/p_bed.rpy:396
 translate vietnamese alice_p_bed_sex_a2c6e2eb:

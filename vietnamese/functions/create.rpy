@@ -4,7 +4,7 @@ translate vietnamese strings:
 
     # game/functions/create.rpy:25
     old "Forge"
-    new "lò rèn"
+    new "Lò rèn"
 
     # game/functions/create.rpy:31
     old "Gun Assembly Station"
@@ -24,4 +24,3 @@ translate vietnamese strings:
     # game/functions/create.rpy:204
     old "Create"
     new "Create"
-

@@ -28,7 +28,7 @@ translate vietnamese alice_11_5e930aad:
 translate vietnamese alice_11_2924c5fd:
 
     # me "Pff. Of course I am. I got the best girl in the world for myself."
-    me "Pff. Tất nhiên ròi. Anh đã có được cô gái tốt nhất trên thế giới cho riêng mình."
+    me "Pff. Tất nhiên ròi. Anh đã có được cô gái tuyệt nhất trên thế giới cho riêng mình."
 
 # game/characters/alice/ev_11.rpy:23
 translate vietnamese alice_11_f3891591:
@@ -40,7 +40,7 @@ translate vietnamese alice_11_f3891591:
 translate vietnamese alice_11_3274361e:
 
     # me "So, what's up?"
-    me "Vậy thì, có chuyện gì sao?"
+    me "Vậy, có chuyện gì sao?"
 
 # game/characters/alice/ev_11.rpy:28
 translate vietnamese alice_11_28365e37:
@@ -52,7 +52,7 @@ translate vietnamese alice_11_28365e37:
 translate vietnamese alice_11_ca1d5247:
 
     # me "Mhm, I could use something new."
-    me "Mhm, anh có thể sử dụng một cái gì đó mới."
+    me "Mhm, anh có thể mặc một cái gì đó mới đấy."
 
 # game/characters/alice/ev_11.rpy:33
 translate vietnamese alice_11_4e3af0ca:
@@ -64,7 +64,7 @@ translate vietnamese alice_11_4e3af0ca:
 translate vietnamese alice_11_ca1ef9e1:
 
     # me ".. Well, thanks?"
-    me ".. Chà, cảm ơn?"
+    me "...Chà, cảm ơn?"
 
 # game/characters/alice/ev_11.rpy:38
 translate vietnamese alice_11_64ec7548:
@@ -148,7 +148,7 @@ translate vietnamese alice_11_fcafb8dd:
 translate vietnamese alice_11_f968e0b2:
 
     # alice "Mhm~"
-    alice "Mhm~"
+    alice "Ừ hứ~"
 
 # game/characters/alice/ev_11.rpy:71
 translate vietnamese alice_11_40d78429:
@@ -166,13 +166,13 @@ translate vietnamese alice_11_5e754567:
 translate vietnamese alice_11_300c246d:
 
     # alice "Your reward, daddy~"
-    alice "Phần thưởng của anh này, daddy~"
+    alice "Phần thưởng của anh này~"
 
 # game/characters/alice/ev_11.rpy:77
 translate vietnamese alice_11_7f0c7ce2:
 
     # me "Shit, I could use more rewards like this."
-    me "Đù, Anh có thể nhận nhiều phần thưởng như thế này hơn."
+    me "Đù, Anh có thể nhận nhiều phần thưởng như thế này hơn đấy."
 
 # game/characters/alice/ev_11.rpy:81
 translate vietnamese alice_11_4300f2d4:
@@ -190,7 +190,7 @@ translate vietnamese alice_11_62b6ee04:
 translate vietnamese alice_11_c01d5466:
 
     # alice "Hmm.. I don't know, I need to design them first. It might take a while, remember to come back when I'm ready."
-    alice "Hmm.. Em không biết, em cần thiết kế chúng trước. Có thể mất một lúc, hãy nhớ quay lại khi em đã sẵn sàng."
+    alice "Hmm... Em không biết, em cần thiết kế chúng trước. Có thể mất một lúc, hãy nhớ quay lại khi em đã sẵn sàng."
 
 # game/characters/alice/ev_11.rpy:87
 translate vietnamese alice_11_8a815fb0:

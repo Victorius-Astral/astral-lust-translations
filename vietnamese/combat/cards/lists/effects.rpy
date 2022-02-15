@@ -76,7 +76,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/effects.rpy:3
     old "Gain {}x spirituality each turn."
-    new "Nhận được {} x sức mạnh tâm linh mỗi lượt."
+    new "Nhận được {} x năng lượng mỗi lượt."
 
     # game/combat/cards/lists/effects.rpy:3
     old "Fury"
@@ -288,7 +288,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/effects.rpy:54
     old "Empower"
-    new "Trao quyền"
+    new "Tăng sức mạnh"
 
     # game/combat/cards/lists/effects.rpy:54
     old "Gain {}x Strength every turn."

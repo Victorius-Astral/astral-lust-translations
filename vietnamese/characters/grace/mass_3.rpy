@@ -341,41 +341,40 @@ translate vietnamese grace_mass_3_499b26f3:
 translate vietnamese grace_mass_3_b30fd3aa:
 
     # "You start to play with her pussy without warning her before she has a change of heart."
-    "You start to play with her pussy without warning her before she has a change of heart."
+    "Bạn bắt đầu chơi với âm hộ của cô ấy mà không cảnh báo cho cô ấy trước khi cô ấy thay đổi ý định."
 
 # game/characters/grace/mass_3.rpy:69
 translate vietnamese grace_mass_3_b01e138a:
 
     # th "Wow, it seems, she's much more eager than she would like to show."
-    th "Wow, it seems, she's much more eager than she would like to show."
+    th "Chà, có vẻ như, em ấy háo hức hơn nhiều so với những gì em ấy muốn thể hiện."
 
 # game/characters/grace/mass_3.rpy:102
 translate vietnamese grace_mass_3_8badc79b:
 
     # me "Don't worry, I won't hurt you."
-    me "Don't worry, I won't hurt you."
+    me "Đừng lo, anh sẽ không làm tổn thương em đâu."
 
 # game/characters/grace/mass_3.rpy:115
 translate vietnamese grace_mass_3_7587d855:
 
     # "You put your fingers deeper with every move. You can feel her twitch in excitement."
-    "You put your fingers deeper with every move. You can feel her twitch in excitement."
+    "Bạn đưa ngón tay vào sâu hơn với mỗi lần di chuyển. Bạn có thể cảm thấy cô ấy co giật vì phấn khích."
 
 # game/characters/grace/mass_3.rpy:119
 translate vietnamese grace_mass_3_9d1f8b0f:
 
     # grace "I-I'm.. Mmmm!~"
-    grace "I-I'm.. Mmmm!~"
+    grace "E-Em.. Mmmm!~"
 
 # game/characters/grace/mass_3.rpy:126
 translate vietnamese grace_mass_3_70cd7f55:
 
     # "Just as she said it, you can feel her vagina tighten around your fingers, making you unable to take them out."
-    "Just as she said it, you can feel her vagina tighten around your fingers, making you unable to take them out."
+    "Đúng như lời cô ấy nói, bạn có thể cảm thấy âm đạo của cô ấy siết chặt lấy ngón tay của bạn, khiến bạn không thể đưa chúng ra ngoài.."
 
 # game/characters/grace/mass_3.rpy:147
 translate vietnamese grace_mass_3_43a6aea0:
 
     # th "One, final look. Shit.. she is gorgeous.."
-    th "One, final look. Shit.. she is gorgeous.."
-
+    th "Một cái nhìn cuối cùng. Đù.. em ấy đẹp quá.."

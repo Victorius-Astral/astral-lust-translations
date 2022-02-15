@@ -34,7 +34,7 @@ translate vietnamese alice_12_e347eb66:
 translate vietnamese alice_12_2b2473cf:
 
     # alice "Are you not happy to see your girlfriend?"
-    alice "Anh không thấy vui khi gặp bạn gái của mình à??"
+    alice "Anh không thấy vui khi gặp bạn gái của mình à?"
 
 # game/characters/alice/ev_12.rpy:16
 translate vietnamese alice_12_3682cf61:
@@ -58,25 +58,25 @@ translate vietnamese alice_12_1dca5e89:
 translate vietnamese alice_12_721421d9:
 
     # alice "What do you take me for? Can't I just want to cuddle with my boyfriend, being the good, cute girlfriend that I am?"
-    alice "LÀ sao? Em không thể ôm ấp bạn trai của mình khi ngủ hả, người bạn gái tốt, dễ thương như em?"
+    alice "Là sao? Em không thể ôm ấp bạn trai của mình khi ngủ hả, người bạn gái tốt, dễ thương như em?"
 
 # game/characters/alice/ev_12.rpy:24
 translate vietnamese alice_12_8668261b:
 
     # me "You're what?"
-    me "Em.. cái gì cơ?"
+    me "Em... cái gì cơ?"
 
 # game/characters/alice/ev_12.rpy:27
 translate vietnamese alice_12_c751b58c:
 
     # alice "I'm cuttttte, don't you even try to deny it.."
-    alice "Em rất dễ thương, và đừng có cố phủ nhận nó.."
+    alice "Em rất dễ thương, và đừng có cố phủ nhận nó..."
 
 # game/characters/alice/ev_12.rpy:31
 translate vietnamese alice_12_61f9dc7d:
 
     # me "I don't know.. Grace is quite cute, but you.. meh."
-    me "Anh không biết nữa.. Grace khá dễ thương, nhưng em thì.. mà thôi."
+    me "Anh không biết nữa... Grace khá dễ thương, nhưng em thì... mà thôi."
 
 # game/characters/alice/ev_12.rpy:34
 translate vietnamese alice_12_74f05a4e:
@@ -106,7 +106,7 @@ translate vietnamese alice_12_4f05c3d7:
 translate vietnamese alice_12_c2ce840a:
 
     # alice "Hmph."
-    alice "Hmph."
+    alice "Hứ."
 
 # game/characters/alice/ev_12.rpy:45
 translate vietnamese alice_12_c097f153:
@@ -118,7 +118,7 @@ translate vietnamese alice_12_c097f153:
 translate vietnamese alice_12_a63a02f8:
 
     # alice ".. You're such a bother.."
-    alice ".. Anh thật là phiền phức.."
+    alice "...Anh thật là phiền phức..."
 
 # game/characters/alice/ev_12.rpy:47
 translate vietnamese alice_12_88eab5f5:
@@ -262,7 +262,7 @@ translate vietnamese alice_12_part2_b7c2dda8:
 translate vietnamese alice_12_part2_76091f17:
 
     # me ".. Sorry."
-    me ".. Xin lỗi."
+    me "... Xin lỗi."
 
 # game/characters/alice/ev_12.rpy:102
 translate vietnamese alice_12_part2_089531f6:
@@ -280,7 +280,7 @@ translate vietnamese alice_12_part2_0cf8453a:
 translate vietnamese alice_12_part2_81624589:
 
     # alice "Nothing.."
-    alice "Không có gì.."
+    alice "Không có gì..."
 
 # game/characters/alice/ev_12.rpy:107
 translate vietnamese alice_12_part2_90426219:
@@ -322,7 +322,7 @@ translate vietnamese alice_12_part2_7459a238:
 translate vietnamese alice_12_part2_661869fe:
 
     # th "[alice]? This feeling.. is she fucking me right now..?"
-    th "[alice]? Cảm giác này.. là em ấy đang cưỡi mình đúng không..?"
+    th "[alice]? Cảm giác này... là em ấy đang cưỡi mình đúng không...?"
 
 # game/characters/alice/ev_12.rpy:131
 translate vietnamese alice_12_part2_d4013e91:
@@ -358,7 +358,7 @@ translate vietnamese alice_12_part2_9060503e:
 translate vietnamese alice_12_part2_a1e9f971:
 
     # alice "Hehe~ If you wish so, we can think of something.."
-    alice "Hehe~ Nếu anh muốn như vậy, chúng em có thể nghĩ ra một vài thứ.."
+    alice "Hehe~ Nếu anh muốn như vậy, chúng em có thể nghĩ ra một vài thứ..."
 
 # game/characters/alice/ev_12.rpy:143
 translate vietnamese alice_12_part2_631a30a6:
@@ -382,7 +382,7 @@ translate vietnamese alice_12_part2_4d4c0b9c:
 translate vietnamese alice_12_part2_fb554a98:
 
     # alice "Your dick is the best, daddy~!"
-    alice "Con cặc của anh là tuyệt nhất đấy, daddy~!"
+    alice "Con cặc của anh là tuyệt nhất đấy~!"
 
 # game/characters/alice/ev_12.rpy:154
 translate vietnamese alice_12_part2_ac2f5672:
@@ -412,7 +412,7 @@ translate vietnamese alice_12_part2_92d553fb:
 translate vietnamese alice_12_part2_05e694c8:
 
     # alice "Cum inside, fill me, daddy~!"
-    alice "Hãy ra bên trong, lấp đầy em đi daddy~!"
+    alice "Hãy ra bên trong, lấp đầy em đi!"
 
 # game/characters/alice/ev_12.rpy:176
 translate vietnamese alice_12_part2_9edee612:
@@ -430,31 +430,31 @@ translate vietnamese alice_12_part2_5533f925:
 translate vietnamese alice_12_part2_04a5a874:
 
     # alice "You're so good to me, daddy~"
-    alice "Anh tốt với em quá, daddy~"
+    alice "Anh tốt với em quá~"
 
 # game/characters/alice/ev_12.rpy:181
 translate vietnamese alice_12_part2_047bb6e2:
 
     # me "I sure am, who is the best daddy?"
-    me "Anh chắc chắn, ai là daddy tuyệt nhất nào?"
+    me "Anh chắc chắn, ai là bạn trai tuyệt nhất nào?"
 
 # game/characters/alice/ev_12.rpy:184
 translate vietnamese alice_12_part2_3b2a1d8f:
 
     # alice "[me] is the best daddy."
-    alice "[me] là daddy tốt nhất."
+    alice "[me] là bạn trai tốt nhất."
 
 # game/characters/alice/ev_12.rpy:185
 translate vietnamese alice_12_part2_aa93b10c:
 
     # me "Good girl."
-    me "Cô gái ngoan."
+    me "Tốt."
 
 # game/characters/alice/ev_12.rpy:188
 translate vietnamese alice_12_part2_e061a7ed:
 
     # alice "I need to get going, though. I've got many things to do."
-    alice "Tuy nhiên, em cần phải đi. Em có nhiều việc phải làm."
+    alice "Tuy nhiên, em cần phải đi rồi. Em còn nhiều việc phải làm lắm."
 
 # game/characters/alice/ev_12.rpy:189
 translate vietnamese alice_12_part2_decdc482:
@@ -466,7 +466,7 @@ translate vietnamese alice_12_part2_decdc482:
 translate vietnamese alice_12_part2_1d652677:
 
     # alice "Of course daddy. Alice will come play with you again."
-    alice "Tất nhiên rồi daddy. Alice sẽ lại chơi với daddy lần nữa ."
+    alice "Tất nhiên rồi daddy. Alice sẽ lại chơi với daddy lần nữa."
 
 # game/characters/alice/ev_12.rpy:195
 translate vietnamese alice_12_part2_3b94b0d1:
@@ -490,7 +490,7 @@ translate vietnamese alice_12_part2_9edee612_1:
 translate vietnamese alice_12_part2_29d0a9b6:
 
     # alice "Daddy~ Why didn't you fill me? I was soooo close~"
-    alice "Daddy~ Tại sao anh không lấp đầy em? Em đã rất gần~"
+    alice "Tại sao anh không lấp đầy em? Em đã rất gần rồi mà."
 
 # game/characters/alice/ev_12.rpy:207
 translate vietnamese alice_12_part2_dfcddf81:
@@ -502,7 +502,7 @@ translate vietnamese alice_12_part2_dfcddf81:
 translate vietnamese alice_12_part2_a2ade314:
 
     # alice "No fun.."
-    alice "Không vui.."
+    alice "Không vui đâu..."
 
 # game/characters/alice/ev_12.rpy:211
 translate vietnamese alice_12_part2_6d414a0a:
@@ -550,7 +550,7 @@ translate vietnamese alice_12_part2_b49b2821:
 translate vietnamese alice_12_part2_3cdf7951:
 
     # th "This lass.."
-    th "Cô gái này.."
+    th "Cô gái này..."
 
 # game/characters/alice/ev_12.rpy:225
 translate vietnamese alice_12_part2_7ec019f4_1:

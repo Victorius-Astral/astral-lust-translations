@@ -4,13 +4,13 @@
 translate vietnamese kiara_threesome_1_27d8e24f:
 
     # me "Whoah?! What the hell?"
-    me "Whoah?! What the hell?"
+    me "Whoah?! Cái đéo gì thế?"
 
 # game/characters/kiara/threesome_1.rpy:67
 translate vietnamese kiara_threesome_1_aca246a9:
 
     # kiara "I can make a second me, of course I can make a second you."
-    kiara "I can make a second me, of course I can make a second you."
+    kiara "Tôi có thể tạo ra bản sao của mình, thì dĩ nhiên là cũng có thể làm vậy với anh rồi."
 
 # game/characters/kiara/threesome_1.rpy:68
 translate vietnamese kiara_threesome_1_3820771a:
@@ -365,4 +365,3 @@ translate vietnamese strings:
     # game/characters/kiara/threesome_1.rpy:80
     old "I'll pass"
     new "I'll pass"
-

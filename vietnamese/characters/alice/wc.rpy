@@ -10,7 +10,7 @@ translate vietnamese wc_alice_140e23eb:
 translate vietnamese wc_alice_c27fabf8:
 
     # th "Should I re.. Ohh.."
-    th "Mình có nên.. Ohh.."
+    th "Mình có nê... Ohh..."
 
 # game/characters/alice/wc.rpy:20
 translate vietnamese wc_alice_3820771a:
@@ -40,13 +40,13 @@ translate vietnamese wc_alice_a6167a27:
 translate vietnamese wc_alice_ff74becb:
 
     # me "You're my babe, [alice]. You can always be at ease with me around, no matter the place."
-    me "Em là em yêu của anh, [alice]. Em luôn có thể thoải mái khi ở bên anh, bất kể nơi đâu."
+    me "Em là em yêu của anh mà [alice]. Em luôn có thể thoải mái khi ở bên anh, bất kể nơi đâu."
 
 # game/characters/alice/wc.rpy:34
 translate vietnamese wc_alice_eb463745:
 
     # alice "But I'm using a toilet.."
-    alice "Nhưng em đang sử dụng toilet mà.."
+    alice "Nhưng em đang sử dụng toilet mà..."
 
 # game/characters/alice/wc.rpy:35
 translate vietnamese wc_alice_6120c272:
@@ -58,7 +58,7 @@ translate vietnamese wc_alice_6120c272:
 translate vietnamese wc_alice_879e62b7:
 
     # alice "It's awkward.."
-    alice "Thật khó xử.."
+    alice "Thật khó xử..."
 
 # game/characters/alice/wc.rpy:41
 translate vietnamese wc_alice_efb5e00f:
@@ -214,7 +214,7 @@ translate vietnamese wc_alice_3820771a_1:
 translate vietnamese wc_alice_437bdac6:
 
     # th "I've pissed her a lot now.."
-    th "Mình đã chọc em ấy rất nhiều rồi.."
+    th "Mình đã chọc em ấy rất nhiều rồi..."
 
 # game/characters/alice/wc.rpy:97
 translate vietnamese wc_alice_6534439d:
@@ -262,7 +262,7 @@ translate vietnamese wc_alice_menu1_74f05a4e:
 translate vietnamese wc_alice_menu1_7192fee5:
 
     # alice "You're so indecisive.."
-    alice "Anh thật thiếu quyết đoán.."
+    alice "Anh thật thiếu quyết đoán..."
 
 # game/characters/alice/wc.rpy:128
 translate vietnamese wc_alice_menu1_befa1e13:
@@ -340,7 +340,7 @@ translate vietnamese wc_alice_anal_d8a80f0a:
 translate vietnamese wc_alice_anal_7b0e5233:
 
     # alice "Yes~ I love this feeling. You're indeed filling me to the brim.."
-    alice "Vâng~ Em thích cảm giác này. anh thực sự lấp đầy em.."
+    alice "Vâng~ Em thích cảm giác này. anh thực sự lấp đầy em..."
 
 # game/characters/alice/wc.rpy:185
 translate vietnamese wc_alice_anal_66e6de5d:
@@ -364,7 +364,7 @@ translate vietnamese wc_alice_anal_1a002905:
 translate vietnamese wc_alice_anal_8bd24074:
 
     # me "You're such a good girl.."
-    me "Em đúng là một cô gái ngoan.."
+    me "Em đúng là một cô gái ngoan..."
 
 # game/characters/alice/wc.rpy:195
 translate vietnamese wc_alice_anal_d05d9434:
@@ -388,7 +388,7 @@ translate vietnamese wc_alice_anal_f809b8b8:
 translate vietnamese wc_alice_anal_dd9636c7:
 
     # me "Ahh.."
-    me "Ahh.."
+    me "Ahh..."
 
 # game/characters/alice/wc.rpy:206
 translate vietnamese wc_alice_anal_ddb4a347:
@@ -442,7 +442,7 @@ translate vietnamese wc_alice_anal_988469f3:
 translate vietnamese wc_alice_anal_5fbffdab:
 
     # alice "Ahh... So good.."
-    alice "Ahh... Thật truyệt.."
+    alice "Ahh... Thật truyệt..."
 
 # game/characters/alice/wc.rpy:226
 translate vietnamese wc_alice_anal_29f05ea7:
@@ -460,7 +460,7 @@ translate vietnamese wc_alice_anal_d2c5eb61:
 translate vietnamese wc_alice_anal_dd9636c7_1:
 
     # me "Ahh.."
-    me "Ahh.."
+    me "Ahh..."
 
 # game/characters/alice/wc.rpy:231
 translate vietnamese wc_alice_anal_280743f5:
@@ -478,7 +478,7 @@ translate vietnamese wc_alice_anal_9dc4fbb6:
 translate vietnamese wc_alice_anal_9538ef88:
 
     # alice "Hm.. I'm happy with you too."
-    alice "Hm.. em cũng hạnh phúc với anh nữa."
+    alice "Hm... em cũng hạnh phúc với anh nữa."
 
 # game/characters/alice/wc.rpy:234
 translate vietnamese wc_alice_anal_4d8bc13c:
@@ -532,7 +532,7 @@ translate vietnamese strings:
 
     # game/characters/alice/wc.rpy:117
     old "Anal"
-    new "Lỗ nhị"
+    new "Cửa sau"
 
     # game/characters/alice/wc.rpy:117
     old "Nevermind"

@@ -43,5 +43,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/Wheel_of_Fortune.rpy:6
     old "Wheel of Fortune"
-    new "Wheel of Fortune"
-
+    new "Bánh Xe Của Vận may"

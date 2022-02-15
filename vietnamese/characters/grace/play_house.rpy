@@ -610,7 +610,7 @@ translate vietnamese grace_play_house_question1_10b2d224:
 translate vietnamese grace_play_house_question1_f7a59f07:
 
     # grace "We can check. 41 dogs * 4 legs = 164 dog legs. 21 owners * 2 legs = 42 owner legs. 164 + 42 = 206 legs."
-    grace "Chúng ta có thể kiểm tra: 41 (con chó) . 4 (chân) = 164 (chân chó) 21 (chủ) . 2 (chân) = 42 (chân của chủ) 164 + 42 = 206 (chân)."
+    grace "Chúng ta có thể kiểm tra: 41 (con chó) * 4 (chân) = 164 (chân chó) 21 (chủ) * 2 (chân) = 42 (chân của chủ) 164 + 42 = 206 (chân)."
 
 # game/characters/grace/play_house.rpy:229
 translate vietnamese grace_play_house_question1_95a379f7:
@@ -676,7 +676,7 @@ translate vietnamese grace_play_house_question2_4c97273a:
 translate vietnamese grace_play_house_question2_fa9187e6:
 
     # grace "The third row is 8 balls again, then 7, 8, 7, 8, 7, 8 balls. If we count that it's 5*8 + 4*7 = 40 + 28 = 68 balls."
-    grace "Hàng thứ ba lại là 8 quả bóng, sau đó là 7, 8, 7, 8, 7, 8 quả bóng. Nếu chúng ta đếm thì đó là 5 . 8 + 4 . 7 = 40 + 28 = 68 quả bóng."
+    grace "Hàng thứ ba lại là 8 quả bóng, sau đó là 7, 8, 7, 8, 7, 8 quả bóng. Nếu chúng ta đếm thì đó là 5 * 8 + 4 * 7 = 40 + 28 = 68 quả bóng."
 
 # game/characters/grace/play_house.rpy:251
 translate vietnamese grace_play_house_question2_a1375db3:
@@ -736,13 +736,13 @@ translate vietnamese grace_play_house_question3_964ff828:
 translate vietnamese grace_play_house_question3_ecd064fc:
 
     # grace "He's with the mother."
-    grace "Người bố ấy với mẹ."
+    grace "Người bố ở với mẹ."
 
 # game/characters/grace/play_house.rpy:272
 translate vietnamese grace_play_house_question3_63280a2d:
 
     # me "Eh?"
-    me "Eh?"
+    me "Ể?"
 
 # game/characters/grace/play_house.rpy:273
 translate vietnamese grace_play_house_question3_f1b2a259:
@@ -760,7 +760,7 @@ translate vietnamese grace_play_house_question3_8876fc0e:
 translate vietnamese grace_play_house_question3_08bb624e:
 
     # grace "The child will be 5 times younger than mother so: x+27 = 5 * (x+6). Counting that, x+27 = 5x + 30."
-    grace "Con sẽ nhỏ hơn mẹ 5 lần nên: x + 27 = 5 * (x + 6). Đếm rằng, x + 27 = 5x + 30."
+    grace "Con sẽ nhỏ hơn mẹ 5 lần nên: x + 27 = 5 * (x + 6). Đếm nó, x + 27 = 5x + 30."
 
 # game/characters/grace/play_house.rpy:276
 translate vietnamese grace_play_house_question3_985169f4:
@@ -1395,83 +1395,82 @@ translate vietnamese strings:
 translate vietnamese grace_play_house_eaff2be8:
 
     # th "I didn't want to spend that much time.. but I can't get myself to say no to those eyes."
-    th "I didn't want to spend that much time.. but I can't get myself to say no to those eyes."
+    th "Mình không muốn mất nhiều thời gian như vậy.. nhưng mình không thể nói không với đôi mắt đó được."
 
 # game/characters/grace/play_house.rpy:68
 translate vietnamese grace_play_house_change_bb3b0159:
 
     # grace "But.. I'm an adult now."
-    grace "But.. I'm an adult now."
+    grace "Nhưng.. bây giờ em đã trưởng thành rồi mà."
 
 # game/characters/grace/play_house.rpy:146
 translate vietnamese grace_play_house_changed_d0167fb9:
 
     # "[teddy]" "Don't think about him. By the way, where is our darling?"
-    "[teddy]" "Don't think about him. By the way, where is our darling?"
+    "[teddy]" "Đừng nghĩ về ông ta nữa. Nhân tiện đứa con yêu dấu của chúng ta đâu rồi?"
 
 # game/characters/grace/play_house.rpy:175
 translate vietnamese grace_play_house_changed_ab95d167:
 
     # "[teddy]" "Yes, I've said to bring it on. Don't worry, daddy is smart."
-    "[teddy]" "Yes, I've said to bring it on. Don't worry, daddy is smart."
+    "[teddy]" "Rồi, bố đã nói rằng hãy mang nó lên đi. Đừng lo, bố rất thông minh mà."
 
 # game/characters/grace/play_house.rpy:223
 translate vietnamese grace_play_house_question1_d2c0ae22:
 
     # grace "First, we divide legs (206) by two. We will get 103 pairs of legs."
-    grace "First, we divide legs (206) by two. We will get 103 pairs of legs."
+    grace "Đầu tiên, chúng ta chia chân (206) cho hai. Chúng ta sẽ nhận được 103 cặp chân."
 
 # game/characters/grace/play_house.rpy:246
 translate vietnamese grace_play_house_question2_90456959:
 
     # grace "Well. We have an 8cm long box. We can fit 8 balls in the first row. Then we can fit only 7 balls in the second row."
-    grace "Well. We have an 8cm long box. We can fit 8 balls in the first row. Then we can fit only 7 balls in the second row."
+    grace "Tốt. Chúng ta có một chiếc hộp dài 8cm. Chúng ta có thể xếp được 8 quả bóng ở hàng đầu tiên. Sau đó, chúng ta chỉ có thể xếp được 7 quả bóng ở hàng thứ hai."
 
 # game/characters/grace/play_house.rpy:252
 translate vietnamese grace_play_house_question2_85cd6061:
 
     # grace "Not at all. As I said, imagine it. When you place balls between other balls, they overlap. The balls fill the gaps between the bottom row. So actually, each row takes less than 1cm in height."
-    grace "Not at all. As I said, imagine it. When you place balls between other balls, they overlap. The balls fill the gaps between the bottom row. So actually, each row takes less than 1cm in height."
+    grace "Không hề. Như con đã nói, hãy tưởng tượng nó. Khi bố đặt các quả bóng giữa các quả bóng khác, chúng sẽ chồng lên nhau. Các quả bóng lấp đầy khoảng trống giữa hàng dưới cùng. Vì vậy, thực tế mỗi hàng có chiều cao ít hơn 1 cm."
 
 # game/characters/grace/play_house.rpy:253
 translate vietnamese grace_play_house_question2_cf459f34:
 
     # grace "The first row takes a whole 1cm of height. The remaining seven rows take around 14%% less. If I remember correctly, it was around 0.866cm."
-    grace "The first row takes a whole 1cm of height. The remaining seven rows take around 14%% less. If I remember correctly, it was around 0.866cm."
+    grace "Hàng đầu tiên có chiều cao toàn bộ là 1 cm. Bảy hàng còn lại mất khoảng 14 %% ít hơn. Nếu con nhớ không nhầm thì nó vào khoảng 0,866cm."
 
 # game/characters/grace/play_house.rpy:255
 translate vietnamese grace_play_house_question2_e4078711:
 
     # grace "Mommy told me. Anyway, you can get this answer too if you have good spatial perception and imagination."
-    grace "Mommy told me. Anyway, you can get this answer too if you have good spatial perception and imagination."
+    grace "Mẹ nói với con. Dù sao, ba cũng có thể ra được câu trả lời này nếu ba có nhận nhận thức về không gian và trí tưởng tượng tốt."
 
 # game/characters/grace/play_house.rpy:263
 translate vietnamese grace_play_house_question3_4cce9ca2:
 
     # "Gracie" "A mother is 21 years older than her child. In 6 years, the child will be 5 times younger than the mother. Where is the father?"
-    "Gracie" "A mother is 21 years older than her child. In 6 years, the child will be 5 times younger than the mother. Where is the father?"
+    "Gracie" "Mẹ hơn con 21 tuổi. Trong 6 năm nữa, con sẽ nhỏ hơn mẹ 5 lần. Hỏi người cha ở đâu?"
 
 # game/characters/grace/play_house.rpy:275
 translate vietnamese grace_play_house_question3_dffde9b8:
 
     # grace "The child will be 5 times younger than the mother so: x+27 = 5 * (x+6). Counting that, x+27 = 5x + 30."
-    grace "The child will be 5 times younger than the mother so: x+27 = 5 * (x+6). Counting that, x+27 = 5x + 30."
+    grace "Con sẽ nhỏ hơn mẹ 5 lần nên: x + 27 = 5 * (x + 6). Đếm nó, x + 27 = 5x + 30."
 
 # game/characters/grace/play_house.rpy:308
 translate vietnamese grace_play_house_part2_9d55af36:
 
     # "Audrey" "Now, go play by yourself. Mommy needs to speak with daddy."
-    "Audrey" "Now, go play by yourself. Mommy needs to speak with daddy."
+    "Audrey "" Bây giờ, hãy chơi một mình đi. Mẹ cần nói chuyện với bố."
 
 # game/characters/grace/play_house.rpy:348
 translate vietnamese grace_play_house_part2_67ae1c4b:
 
     # me "Dogs or cats. Basically, all mammals produce milk."
-    me "Dogs or cats. Basically, all mammals produce milk."
+    me "Chó hay mèo. Về cơ bản thì tất cả các loài động vật có vú đều sản xuất sữa."
 
 # game/characters/grace/play_house.rpy:361
 translate vietnamese grace_play_house_part2_a3876481:
 
     # grace "I'm not a cow. I don't like cows. They are scary."
-    grace "I'm not a cow. I don't like cows. They are scary."
-
+    grace "Em không phải là một con bò. Em không thích bò. Chúng thật đáng sợ."

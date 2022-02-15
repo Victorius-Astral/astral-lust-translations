@@ -269,5 +269,4 @@ translate vietnamese strings:
 
     # game/characters/grace/ev_1.rpy:71
     old "This silly girl seems to despise men to the bone. I wonder why?"
-    new "This silly girl seems to despise men to the bone. I wonder why?"
-
+    new "Cô gái ngốc nghếch này có vẻ coi thường đàn ông đến tận xương tủy. Tại sao nhỉ?"

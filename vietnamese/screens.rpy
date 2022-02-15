@@ -188,7 +188,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:874
     old "Mods"
-    new "Mods"
+    new "Mod"
 
     # game/screens.rpy:1001
     old "The dialogue history is empty."
@@ -332,11 +332,11 @@ translate vietnamese strings:
 
     # game/screens.rpy:1250
     old "Yes"
-    new "Yes"
+    new "Có"
 
     # game/screens.rpy:1251
     old "No"
-    new "No"
+    new "Không"
 
     # game/screens.rpy:1297
     old "Skipping"
@@ -351,11 +351,11 @@ translate vietnamese strings:
 
     # game/screens.rpy:290
     old "Load"
-    new "Load"
+    new "Tải lại"
 
     # game/screens.rpy:423
     old "Resume"
-    new "Resume"
+    new "Tiếp tục"
 
 # TODO: Translation updated at 2022-02-06 09:10
 
@@ -363,5 +363,4 @@ translate vietnamese strings:
 
     # game/screens.rpy:189
     old "CONFIRM"
-    new "CONFIRM"
-
+    new "XÁC NHẬN"

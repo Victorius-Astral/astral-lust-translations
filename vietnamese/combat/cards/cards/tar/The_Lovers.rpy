@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_Lovers.rpy:6
     old "The Lovers"
-    new "The Lovers"
-
+    new "Cặp Tình Nhân"

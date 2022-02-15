@@ -442,13 +442,13 @@ translate vietnamese main_4_menu_3104829e:
 translate vietnamese main_4_menu_5a9d50ea:
 
     # kiara "The best option would be to find beings with abilities from domains of light or mind."
-    kiara "Lựa chọn tốt nhất sẽ là tìm những thực thể với năng lực từ các lãnh địa của ánh sáng hoặc tâm trí."
+    kiara "Lựa chọn tốt nhất sẽ là tìm những thực thể với năng lực từ các lĩnh vực của ánh sáng hoặc tâm trí."
 
 # game/characters/player/ev_4.rpy:151
 translate vietnamese main_4_menu_d5ee42d8:
 
     # me "What are those domains?"
-    me "Những lãnh địa đó là gì?"
+    me "Những lĩnh vực đó là gì?"
 
 # game/characters/player/ev_4.rpy:152
 translate vietnamese main_4_menu_9e5409c3:
@@ -478,13 +478,13 @@ translate vietnamese main_4_menu_f2c1bddb:
 translate vietnamese main_4_menu_e514ddbb:
 
     # kiara "Basically yes, extraordinary beings can be understood like eldritch versions of mages, but there are great differences between these beings. Some are more similar to mages, some to warriors, and some, like the ones from the light domain, resemble priests."
-    kiara "Về cơ bản là vậy, những sinh vật phi thường có thể được hiểu giống như phiên bản kinh dị của các pháp sư, nhưng có sự khác biệt lớn giữa những sinh vật này. Một số giống với pháp sư hơn, một số giống chiến binh và một số, giống như người từ lãnh địa ánh sáng, cũng giống với các linh mục."
+    kiara "Về cơ bản là vậy, những sinh vật phi thường có thể được hiểu giống như phiên bản kinh dị của các pháp sư, nhưng có sự khác biệt lớn giữa những sinh vật này. Một số giống với pháp sư hơn, một số giống chiến binh và một số, giống như người từ lĩnh vực ánh sáng, cũng giống với các linh mục."
 
 # game/characters/player/ev_4.rpy:159
 translate vietnamese main_4_menu_48d0efdf:
 
     # me "So these domains are like classes in RPG games?"
-    me "Vì vậy, các lãnh địa này giống như các class trong trò chơi RPG á?"
+    me "Thế các lĩnh vực này giống như các class trong trò chơi RPG á?"
 
 # game/characters/player/ev_4.rpy:161
 translate vietnamese main_4_menu_f4360272:
@@ -854,4 +854,3 @@ translate vietnamese strings:
     # game/characters/player/ev_4.rpy:195
     old "The mere mention of Throdog R'luhhor caused her to drown in terror and throw me out immediately."
     new "The mere mention of Throdog R'luhhor caused her to drown in terror and throw me out immediately."
-

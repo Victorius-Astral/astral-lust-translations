@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/off/Kiaras_Gambit.rpy:6
     old "Kiara's Gambit"
-    new "Kiara's Gambit"
-
+    new "Ván Cờ Của Kiara"

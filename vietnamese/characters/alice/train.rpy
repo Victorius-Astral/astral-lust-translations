@@ -22,7 +22,7 @@ translate vietnamese alice_train_8b6a2d62:
 translate vietnamese alice_train_41fe1b9a:
 
     # alice "By the way, thanks for building a gym. I missed it a lot."
-    alice "Nhân tiện, cảm ơn anh đã vì đã xây dựng một phòng tập thể dục. Em đã nhớ nó rất nhiều."
+    alice "Nhân tiện, cảm ơn anh đã vì đã xây dựng một phòng tập thể dục nha. Em đã nhớ nó rất nhiều đấy."
 
 # game/characters/alice/train.rpy:15
 translate vietnamese alice_train_a96bedeb:

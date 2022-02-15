@@ -4,7 +4,7 @@ translate vietnamese strings:
 
     # game/screens/pc/pc.rpy:3
     old "Collectibles"
-    new "Collectibles"
+    new "Sưu tầm"
 
     # game/screens/pc/pc.rpy:3
     old "Debug Menu"
@@ -12,21 +12,20 @@ translate vietnamese strings:
 
     # game/screens/pc/pc.rpy:3
     old "Replay Menu"
-    new "Replay Menu"
+    new "Menu Phát Lại"
 
     # game/screens/pc/pc.rpy:3
     old "Insert Code"
-    new "Insert Code"
+    new "Nhập code"
 
     # game/screens/pc/pc.rpy:14
     old "What's new"
-    new "What's new"
+    new "Có gì mới"
 
     # game/screens/pc/pc.rpy:14
     old "Show all existing cards"
-    new "Show all existing cards"
+    new "Hiển Thị Tất Cả Thẻ"
 
     # game/screens/pc/pc.rpy:99
     old "|{#pcSeparator}"
     new "|{#pcSeparator}"
-

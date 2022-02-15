@@ -490,7 +490,7 @@ translate vietnamese strings:
 
     # game/characters/lexi/speak.rpy:149
     old "Outside"
-    new "Ngoài"
+    new "Bên ngoài"
 
     # game/characters/lexi/speak.rpy:149
     old "Nude"
@@ -522,4 +522,3 @@ translate vietnamese strings:
     # game/characters/lexi/speak.rpy:191
     old "The End arrived before her 20th birthday."
     new "The End arrived before her 20th birthday."
-

@@ -2579,71 +2579,70 @@ translate vietnamese strings:
 translate vietnamese grace_kiss_6e891d11:
 
     # me "[grace], I have a hard time outside, I need some fun to not go crazy."
-    me "[grace], I have a hard time outside, I need some fun to not go crazy."
+    me "[grace] anh có một khoảng thời gian khó khăn ở bên ngoài, nên anh cần một chút vui vẻ để không trở nên điên loạn."
 
 # game/characters/grace/kiss.rpy:70
 translate vietnamese grace_kiss_ca527222:
 
     # grace "Will it be fun for you?"
-    grace "Will it be fun for you?"
+    grace "Nó sẽ làm anh chứ?"
 
 # game/characters/grace/kiss.rpy:119
 translate vietnamese grace_kiss_7d10bfd1:
 
     # grace "It's not late yet, why would I need a goodnight kiss?"
-    grace "It's not late yet, why would I need a goodnight kiss?"
+    grace "Vẫn chưa muộn mà, tại sao em lại cần một nụ hôn chúc ngủ ngon chứ?"
 
 # game/characters/grace/kiss.rpy:304
 translate vietnamese grace_kiss_lobby_bb12b602:
 
     # me "Thanks for the help, [grace]."
-    me "Thanks for the help, [grace]."
+    me "Cảm ơn đã giúp đỡ nha [grace]."
 
 # game/characters/grace/kiss.rpy:386
 translate vietnamese grace_kiss_night_13218dc8:
 
     # "You can hear the sound of the closet door opening, followed by the sound of cloth falling to the ground."
-    "You can hear the sound of the closet door opening, followed by the sound of cloth falling to the ground."
+    "Bạn có thể nghe thấy tiếng mở cửa tủ quần áo, sau đó là tiếng vải rơi xuống đất."
 
 # game/characters/grace/kiss.rpy:463
 translate vietnamese grace_kiss_night1_693e2696:
 
     # me "[grace], that's a misunderstanding."
-    me "[grace], that's a misunderstanding."
+    me "[grace] đó là một sự hiểu lầm thôi."
 
 # game/characters/grace/kiss.rpy:782
 translate vietnamese grace_kiss_night_cor2_42e88ed8:
 
     # me "Whatever lets you sleep at night."
-    me "Whatever lets you sleep at night."
+    me "Bất cứ điều gì kiến em ngủ vào ban đêm."
 
 # game/characters/grace/kiss.rpy:939
 translate vietnamese grace_kiss_bad_end_8909adaf:
 
     # mina "Alice.. Why are you pointing a gun at him, why is Grace naked??"
-    mina "Alice.. Why are you pointing a gun at him, why is Grace naked??"
+    mina "Alice .. Tại sao cậu lại chĩa súng vào anh ấy, tại sao Grace lại khỏa thân??"
 
 # game/characters/grace/kiss.rpy:985
 translate vietnamese grace_kiss_bad_end_36ee72c4:
 
     # th "What a tragic death.."
-    th "What a tragic death.."
+    th "Thật là một cái chết bi thảm.."
 
 # game/characters/grace/kiss.rpy:1022
 translate vietnamese grace_kiss_bad_end_86c05d51:
 
     # victorius "This is not your place to comment, child. Scram."
-    victorius "This is not your place to comment, child. Scram."
+    victorius "Đây không phải là nơi để mày bình luận đâu nhóc ác. Xéo đi."
 
 # game/characters/grace/kiss.rpy:1031
 translate vietnamese grace_kiss_bad_end_41ee9acd:
 
     # victorius "Now where have I left off..."
-    victorius "Now where have I left off..."
+    victorius "Giờ chúng ta đến đâu rồi..."
 
 # game/characters/grace/kiss.rpy:1174
 translate vietnamese grace_kiss_night_cor3_6ba39ef8:
 
     # me "Yeah, yeah. Go change, I still owe you a goodnight kiss, don't I?"
-    me "Yeah, yeah. Go change, I still owe you a goodnight kiss, don't I?"
-
+    me "Yeah. Đi thay đồ đi, anh vẫn nợ em một nụ hôn chúc ngủ ngon đúng không?"

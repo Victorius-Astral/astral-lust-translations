@@ -52,7 +52,7 @@ translate vietnamese kiara_3_9854bc46:
 translate vietnamese kiara_3_3ccd6423:
 
     # kiara "I have powers encompassing many different domains, but the main one remains the domain of knowledge."
-    kiara "Tôi có quyền lực bao gồm nhiều lĩnh vực khác nhau, nhưng lĩnh vực chính vẫn là lãnh địa của kiến thức."
+    kiara "Tôi có quyền lực bao gồm nhiều lĩnh vực khác nhau, nhưng cái chính vẫn là lĩnh vực của kiến thức."
 
 # game/characters/kiara/ev_3.rpy:25
 translate vietnamese kiara_3_26c705e6:
@@ -335,5 +335,4 @@ translate vietnamese strings:
 
     # game/characters/kiara/ev_3.rpy:23
     old "She possesses authority over the domain of knowledge."
-    new "She possesses authority over the domain of knowledge."
-
+    new "Cô ấy có quyền đối với lĩnh vực kiến thức."

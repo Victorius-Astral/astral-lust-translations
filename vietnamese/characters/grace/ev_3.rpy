@@ -205,5 +205,4 @@ translate vietnamese strings:
 
     # game/characters/grace/ev_3.rpy:49
     old "She wants me to convey her words to her mother if I were to encounter her outside."
-    new "She wants me to convey her words to her mother if I were to encounter her outside."
-
+    new "Cô ấy muốn tôi chuyển lời của cô ấy với mẹ cô ấy nếu tôi gặp bà ấy ở bên ngoài."

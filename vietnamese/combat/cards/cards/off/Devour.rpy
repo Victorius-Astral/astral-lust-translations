@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/off/Devour.rpy:6
     old "Devour"
-    new "Devour"
-
+    new "Xơi Tái"

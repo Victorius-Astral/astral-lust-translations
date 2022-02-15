@@ -241,17 +241,16 @@ translate vietnamese strings:
 translate vietnamese grace_tj_1_fast_7eba37dd:
 
     # grace "So, it's very nice, tee-hee~"
-    grace "So, it's very nice, tee-hee~"
+    grace "Vậy, nó rất tốt, tee-hee~"
 
 # game/characters/grace/tj_1.rpy:162
 translate vietnamese grace_tj_1_before_62c8c06e:
 
     # grace "Will I get dirty again?"
-    grace "Will I get dirty again?"
+    grace "Em có bị bẩn lần nữa không?"
 
 # game/characters/grace/tj_1.rpy:168
 translate vietnamese grace_tj_1_before_703fb775:
 
     # me "Sorry to say that, but it's amazing."
-    me "Sorry to say that, but it's amazing."
-
+    me "Xin lỗi vì nói điều đó, nhưng tuyệt thật đấy."

@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/abi/Flirtatious_Look.rpy:6
     old "Flirtatious Look"
-    new "Flirtatious Look"
-
+    new "Ánh nhìn say mê"

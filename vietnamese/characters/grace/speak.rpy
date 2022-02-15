@@ -889,9 +889,8 @@ translate vietnamese strings:
 
     # game/characters/grace/speak.rpy:324
     old "She is the maid at the Jade Hotel. She cooks and cleans."
-    new "She is the maid at the Jade Hotel. She cooks and cleans."
+    new "Cô ấy là người giúp việc ở khách sạn Jade. Cô ấy nấu ăn và dọn dẹp."
 
     # game/characters/grace/speak.rpy:366
     old "She is 21 years old."
-    new "She is 21 years old."
-
+    new "Cô ấy 21 tuổi."

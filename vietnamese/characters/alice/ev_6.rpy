@@ -28,19 +28,19 @@ translate vietnamese alice_6_e8a11934:
 translate vietnamese alice_6_c0e87b2b:
 
     # alice "Well, maybe you just came to peek at me.."
-    alice "Chà, có lẽ anh chỉ đến để nhìn trộm.."
+    alice "Chà, có lẽ anh chỉ đến để nhìn trộm em..."
 
 # game/characters/alice/ev_6.rpy:16
 translate vietnamese alice_6_1f56af50:
 
     # me "I wouldn't do some.."
-    me "Anh sẽ không làm những thứ.."
+    me "Anh sẽ không làm những thứ..."
 
 # game/characters/alice/ev_6.rpy:17
 translate vietnamese alice_6_0a2ec3a3:
 
     # alice ".. again."
-    alice ".. lại nữa."
+    alice "... lại nữa."
 
 # game/characters/alice/ev_6.rpy:18
 translate vietnamese alice_6_3820771a:
@@ -76,7 +76,7 @@ translate vietnamese alice_6_633a1a62:
 translate vietnamese alice_6_e739bfca:
 
     # alice "Yeees. Do you really have to ask?"
-    alice "Có. Anh có nhất thiết phải hỏi không?"
+    alice "Cóoo. Anh có nhất thiết phải hỏi không?"
 
 # game/characters/alice/ev_6.rpy:29
 translate vietnamese alice_6_246b0afc:
@@ -88,7 +88,7 @@ translate vietnamese alice_6_246b0afc:
 translate vietnamese alice_6_78ec1cd2:
 
     # alice "Ahh, screw you."
-    alice "Ahh, kệ anh."
+    alice "Aaa, kệ anh đấy."
 
 # game/characters/alice/ev_6.rpy:32
 translate vietnamese alice_6_382501ba:
@@ -124,7 +124,7 @@ translate vietnamese alice_6_8bb43492:
 translate vietnamese alice_6_b49c3cc1:
 
     # alice "You're bullying me again.."
-    alice "anh lại bắt nạt em nữa rồi.."
+    alice "anh lại bắt nạt em nữa rồi..."
 
 # game/characters/alice/ev_6.rpy:39
 translate vietnamese alice_6_49609981:
@@ -148,7 +148,7 @@ translate vietnamese alice_6_88eab5f5:
 translate vietnamese alice_6_15d0258d:
 
     # th "Got her this time."
-    th "Nắm được em ấy lần này rồi."
+    th "Bắt được em ấy lần này rồi."
 
 # game/characters/alice/ev_6.rpy:52
 translate vietnamese alice_6_279f2471:
@@ -208,7 +208,7 @@ translate vietnamese alice_6_87a76aa3:
 translate vietnamese alice_6_7c82e351:
 
     # alice "Who knows.."
-    alice "Ai biết.."
+    alice "Ai biết..."
 
 # game/characters/alice/ev_6.rpy:74
 translate vietnamese alice_6_2644c289:
@@ -238,7 +238,7 @@ translate vietnamese alice_6_1_a46c9944:
 translate vietnamese alice_6_1_d01e1146:
 
     # me "Mhm."
-    me "Mhm."
+    me "Ừ hứ."
 
 # game/characters/alice/ev_6.rpy:84
 translate vietnamese alice_6_1_618c87bd:
@@ -268,7 +268,7 @@ translate vietnamese alice_6_1_8b6a2d62:
 translate vietnamese alice_6_1_41fe1b9a:
 
     # alice "By the way, thanks for building a gym. I missed it a lot."
-    alice "Mà nhân tiện, cảm ơn vì đã xây dựng phòng tập nha. Em nhớ nó rất nhiều."
+    alice "Mà nhân tiện, cảm ơn vì đã xây dựng phòng tập nha. Em nhớ nó rất nhiều đấy."
 
 # game/characters/alice/ev_6.rpy:98
 translate vietnamese alice_6_1_d9ae1796:
@@ -280,7 +280,7 @@ translate vietnamese alice_6_1_d9ae1796:
 translate vietnamese alice_6_1_9b2c4cb4:
 
     # alice "It's not that, working out makes me tranquil. I like this feeling a lot."
-    alice "Không phải vậy, tập thể dục làm cho em yên tĩnh. Em thích cảm giác này rất nhiều."
+    alice "Không phải vậy, tập thể dục làm cho em thấy yên bình. Em thích cảm giác này rất nhiều."
 
 # game/characters/alice/ev_6.rpy:101
 translate vietnamese alice_6_1_d0137f8e:
@@ -316,7 +316,7 @@ translate vietnamese alice_6_1_9bd0606b:
 translate vietnamese alice_6_1_d763bd4b:
 
     # alice "Thanks for keeping me company."
-    alice "Cảm ơn vì đã tham gia với em."
+    alice "Cảm ơn vì đã tham gia cùng em."
 
 # game/characters/alice/ev_6.rpy:110
 translate vietnamese alice_6_1_a4fbccf1:
@@ -363,5 +363,4 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_6.rpy:90
     old "She trains at the gym from time to time. It makes her tranquil. I can accompany her if I want."
-    new "She trains at the gym from time to time. It makes her tranquil. I can accompany her if I want."
-
+    new "Cô ấy tập luyện tại phòng gym ngày qua ngày. Nó làm cho cô ấy cảm thấy yên bình. Mình có thể vào tập cùng cô ấy nếu mình muốn."

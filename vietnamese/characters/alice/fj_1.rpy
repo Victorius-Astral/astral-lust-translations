@@ -58,7 +58,7 @@ translate vietnamese alice_fj_1_e58fcd19:
 translate vietnamese alice_fj_1_313c921f:
 
     # me "Yeah, shit, that's nice."
-    me "Yeah, ahhhh, thật tuyệt."
+    me "Yeah, ahhhh, tốt đấy."
 
 # game/characters/alice/fj_1.rpy:59
 translate vietnamese alice_fj_1_408b6834:

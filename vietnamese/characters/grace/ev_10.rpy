@@ -673,39 +673,38 @@ translate vietnamese strings:
 translate vietnamese grace_10_part2_312e4a61:
 
     # me "Wait.. Why are we playing family? Don't you hate men?"
-    me "Wait.. Why are we playing family? Don't you hate men?"
+    me "Chờ đã.. Tại sao chúng ta chơi trò gia đình? Em không ghét đàn ông sao?"
 
 # game/characters/grace/ev_10.rpy:170
 translate vietnamese grace_10_part2_9b724c97:
 
     # me "No, you massage my penis with your boobs."
-    me "No, you massage my penis with your boobs."
+    me "Không, en xoa bóp dương vật của anh với bộ ngực của em."
 
 # game/characters/grace/ev_10.rpy:204
 translate vietnamese grace_10_part2_50958781:
 
     # grace "That's good, should I move even faster?"
-    grace "That's good, should I move even faster?"
+    grace "Tốt quá, em có nên di chuyển nhanh hơn nữa không?"
 
 # game/characters/grace/ev_10.rpy:218
 translate vietnamese grace_10_part2_2c94258a:
 
     # me "Do it a bit more.. I'm almost there."
-    me "Do it a bit more.. I'm almost there."
+    me "Làm vậy một chút nữa.. anh sắp ra rồi."
 
 # game/characters/grace/ev_10.rpy:235
 translate vietnamese grace_10_part2_f7a1bfec:
 
     # me "Yeah, it happens, don't worry about it. Go clean yourself before it gets sticky."
-    me "Yeah, it happens, don't worry about it. Go clean yourself before it gets sticky."
+    me "Ừ, mà đừng lo về nó nữa. Hãy tự làm sạch trước khi nó dính đi."
 
 translate vietnamese strings:
 
     # game/characters/grace/ev_10.rpy:18
     old "Yes, she doesn't want you, anymore"
-    new "Yes, she doesn't want you, anymore"
+    new "Ừ, cô ấy không muốn em nữa"
 
     # game/characters/grace/ev_10.rpy:77
     old "Secret found! Victorius is pleased. +50% vault space multiplier!"
-    new "Secret found! Victorius is pleased. +50% vault space multiplier!"
-
+    new "Bí mật được tìm thấy! Victorius rất vui. +50% diện tích của kho!"

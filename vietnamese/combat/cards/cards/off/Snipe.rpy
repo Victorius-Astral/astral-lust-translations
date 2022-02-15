@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/off/Snipe.rpy:6
     old "Snipe"
-    new "Snipe"
-
+    new "Bắn Tỉa"

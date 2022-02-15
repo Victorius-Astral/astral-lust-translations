@@ -100,13 +100,13 @@ translate vietnamese room_library_books_l_secrets_9358a20d:
 translate vietnamese room_library_books_l_secrets_502ae156:
 
     # bbs "They grant abilities to its user but beware. Characteristics all contain mental corruption. Accommodation can help lessen the negative influence of characteristics."
-    bbs "Họ cấp khả năng cho người dùng của nó nhưng hãy cẩn thận. Tất cả đặc điểm đều chứa đựng sự tha hóa về tinh thần. Chỗ ở có thể giúp giảm bớt ảnh hưởng tiêu cực của các đặc điểm."
+    bbs "Họ cấp khả năng cho người dùng của nó nhưng hãy cẩn thận. Tất cả đặc điểm đều chứa đựng sự tha hóa về tinh thần. Chỗ ở có thể giúp giảm bớt ảnh hưởng tiêu cực lên các đặc tính."
 
 # game/places/library/books_l.rpy:41
 translate vietnamese room_library_books_l_secrets_7e48f2ba:
 
     # bbs "But one needs to be careful. Characteristics connect to an array of domains. Some domains are incompatible, and accommodating incompatible characteristics leads to a semi-deranged state at best."
-    bbs "Nhưng một người cần phải cẩn thận. Nhân cách kết nối với một mảng của lãnh địa. Một số lãnh địa là không tương thích và kết quả của các nhân cách không tương thích dẫn đến trạng thái nửa loạn trí là tốt nhất."
+    bbs "Nhưng một người cần phải cẩn thận. Nhân cách kết nối với một mảng của lĩnh vực. Một số lĩnh vực là không tương thích và kết quả của các nhân cách không tương thích dẫn đến trạng thái nửa loạn trí là tốt nhất."
 
 # game/places/library/books_l.rpy:42
 translate vietnamese room_library_books_l_secrets_8a05950c:
