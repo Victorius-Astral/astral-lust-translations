@@ -130,7 +130,7 @@ translate spanish mina_2_3820771a:
 translate spanish mina_2_3395799e:
 
     # th "[lex_min]'s man? Backbone? Jeez, does she need to make such a buzz over a simple kiss?"
-    th "¿El hombre de su [lex_min]? Carácter? Dios, ¿necesita hacer tanto alboroto por un simple beso?"
+    th "¿El hombre de su [lex_min]? ¿Carácter? Dios, ¿necesita hacer tanto alboroto por un simple beso?"
 
 # game/characters/mina/ev_2.rpy:48
 translate spanish mina_2_4cdc7709:
