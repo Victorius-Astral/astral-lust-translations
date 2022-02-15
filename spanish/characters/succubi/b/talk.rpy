@@ -4,13 +4,13 @@
 translate spanish talk_SuccubusB_94df512a:
 
     # succB "How can I serve you [succB_master]?"
-    succB "How can I serve you [succB_master]?"
+    succB "¿Como puedo servirte [succB_master]?"
 
 # game/characters/succubi/b/talk.rpy:68
 translate spanish talk_SuccubusB_menu1_2da51337:
 
     # "You need to first build a playroom."
-    "You need to first build a playroom."
+    "Primero necesitas construir un cuarto de juegos."
 
 # game/characters/succubi/b/talk.rpy:74
 translate spanish talk_SuccubusB_menu1_ee73917f:
@@ -22,37 +22,37 @@ translate spanish talk_SuccubusB_menu1_ee73917f:
 translate spanish talk_SuccubusB_menu1_3ae0f06e:
 
     # "You two last in a romantic kiss for a while."
-    "You two last in a romantic kiss for a while."
+    "Los dos duran bastante en un beso romántico por un tiempo."
 
 # game/characters/succubi/b/talk.rpy:77
 translate spanish talk_SuccubusB_menu1_6c0201e6:
 
     # succB "Thank you, [succB_master]~ I love youuu~"
-    succB "Thank you, [succB_master]~ I love youuu~"
+    succB "Gracias, [succB_master]~ Te amooo~"
 
 # game/characters/succubi/b/talk.rpy:87
 translate spanish talk_SuccubusB_menu1_989b705e:
 
     # succB "By your will, [succB_master]."
-    succB "By your will, [succB_master]."
+    succB "Como desees, [succB_master]."
 
 # game/characters/succubi/b/talk.rpy:95
 translate spanish talk_SuccubusB_menu1_12eae5ff:
 
     # succB "[succB] it is, I'll make you scream it in pleasure, [succB_master] hehe~"
-    succB "[succB] it is, I'll make you scream it in pleasure, [succB_master] hehe~"
+    succB "[succB] entonces, te haré gritar de placer, [succB_master] hehe~"
 
 # game/characters/succubi/b/talk.rpy:100
 translate spanish talk_SuccubusB_menu1_677be7d9:
 
     # succB "Ohh, [succB_master]~ You won't fuck me today?? Whyyy~?"
-    succB "Ohh, [succB_master]~ You won't fuck me today?? Whyyy~?"
+    succB "Ohh, [succB_master]~ ¿¿No me follarás hoy?? ¿Por quéee~?"
 
 # game/characters/succubi/b/talk.rpy:101
 translate spanish talk_SuccubusB_menu1_2e39132c:
 
     # "You leave."
-    "You leave."
+    "Te vas."
 
 # game/characters/succubi/b/talk.rpy:113
 translate spanish talk_SuccubusB_wall_2051ef6f:
@@ -1150,31 +1150,30 @@ translate spanish talk_SuccubusB_end_cell_c976a3a6:
 translate spanish talk_SuccubusB_end_cell_cc93ce23:
 
     # me "I said no."
-    me "I said no."
+    me "Dije que no."
 
 # game/characters/succubi/b/talk.rpy:584
 translate spanish talk_SuccubusB_end_cell_209113b4:
 
     # succB "Buut.."
-    succB "Buut.."
+    succB "Peroo..."
 
 # game/characters/succubi/b/talk.rpy:585
 translate spanish talk_SuccubusB_end_cell_47f414c6:
 
     # "You don't let her finish and leave before she changes your mind."
-    "You don't let her finish and leave before she changes your mind."
+    "No la dejas terminar y te vas antes de que cambie de opinión.."
 
 translate spanish strings:
 
     # game/characters/succubi/b/talk.rpy:32
     old "Threesome with [succA]"
-    new "Threesome with [succA]"
+    new "Trío con [succA]"
 
     # game/characters/succubi/b/talk.rpy:81
     old "How she address you ([succB_master])"
-    new "How she address you ([succB_master])"
+    new "Cómo te llama ([succB_master])"
 
     # game/characters/succubi/b/talk.rpy:81
     old "Her name ([succB])"
-    new "Her name ([succB])"
-
+    new "Su nombre es ([succB])"

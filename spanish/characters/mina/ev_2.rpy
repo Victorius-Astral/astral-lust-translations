@@ -263,5 +263,4 @@ translate spanish strings:
 
     # game/characters/mina/ev_2.rpy:71
     old "She tasked me to find a golden pendant from S&M Jewellery Shop for Lexi's birthday."
-    new "She tasked me to find a golden pendant from S&M Jewellery Shop for Lexi's birthday."
-
+    new "Me encargó encontrar un colgante de oro en Tienda de Joyería S&M para el cumpleaños de Lexi."

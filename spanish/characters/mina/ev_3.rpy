@@ -603,13 +603,13 @@ translate spanish strings:
 translate spanish mina_3_1_aace8f0b:
 
     # mina "W-What subject, y-you haven't said anything."
-    mina "W-What subject, y-you haven't said anything."
+    mina "Q-Qué tema, n-no has dicho nada."
 
 # game/characters/mina/ev_3.rpy:147
 translate spanish mina_3_menu_6bdc0ae0:
 
     # th "I could play with them forever but it's time to stop. If [lexi] walks out she would kill me for sure."
-    th "I could play with them forever but it's time to stop. If [lexi] walks out she would kill me for sure."
+    th "Podría jugar con ellos para siempre, pero es hora de parar. Si [lexi] pasara seguro que me mataría."
 
 # game/characters/mina/ev_3.rpy:161
 translate spanish mina_3_menu_409081df:
@@ -621,11 +621,10 @@ translate spanish mina_3_menu_409081df:
 translate spanish mina_3_2a_9d7c9a6e:
 
     # "It takes [mina] a while to collect herself. You feel terrible."
-    "It takes [mina] a while to collect herself. You feel terrible."
+    "Le toma a [mina] un tiempo recuperarse. Te sientes terrible."
 
 translate spanish strings:
 
     # game/characters/mina/ev_3.rpy:236
     old "She has a crush on Alice."
-    new "She has a crush on Alice."
-
+    new "Le gusta Alice."

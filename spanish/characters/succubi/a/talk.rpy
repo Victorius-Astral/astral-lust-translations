@@ -4,13 +4,13 @@
 translate spanish talk_SuccubusA_9d4e3500:
 
     # succA "How can I serve you [succA_master]?"
-    succA "How can I serve you [succA_master]?"
+    succA "¿Como puedo servirte [succA_master]?"
 
 # game/characters/succubi/a/talk.rpy:68
 translate spanish talk_SuccubusA_menu1_2da51337:
 
     # "You need to first build a playroom."
-    "You need to first build a playroom."
+    "Primero necesitas construir un cuarto de juegos."
 
 # game/characters/succubi/a/talk.rpy:74
 translate spanish talk_SuccubusA_menu1_bfd474d7:
@@ -22,37 +22,37 @@ translate spanish talk_SuccubusA_menu1_bfd474d7:
 translate spanish talk_SuccubusA_menu1_3ae0f06e:
 
     # "You two last in a romantic kiss for a while."
-    "You two last in a romantic kiss for a while."
+    "Los dos duran bastante en un beso romántico por un tiempo."
 
 # game/characters/succubi/a/talk.rpy:77
 translate spanish talk_SuccubusA_menu1_48c5eac2:
 
     # succA "Thank you, [succA_master]."
-    succA "Thank you, [succA_master]."
+    succA "Gracias, [succA_master]."
 
 # game/characters/succubi/a/talk.rpy:87
 translate spanish talk_SuccubusA_menu1_60539a1f:
 
     # succA "As you wish, [succA_master]."
-    succA "As you wish, [succA_master]."
+    succA "Como desees, [succA_master]."
 
 # game/characters/succubi/a/talk.rpy:95
 translate spanish talk_SuccubusA_menu1_d19e0967:
 
     # succA "Understood, this one is [succA] from now on."
-    succA "Understood, this one is [succA] from now on."
+    succA "Entendido, ésta es [succA] a partir de ahora."
 
 # game/characters/succubi/a/talk.rpy:100
 translate spanish talk_SuccubusA_menu1_f819b0c1:
 
     # succA "Why don't we fuck first?"
-    succA "Why don't we fuck first?"
+    succA "¿Por qué no follamos primero?"
 
 # game/characters/succubi/a/talk.rpy:101
 translate spanish talk_SuccubusA_menu1_2e39132c:
 
     # "You leave."
-    "You leave."
+    "Te vas."
 
 # game/characters/succubi/a/talk.rpy:113
 translate spanish talk_SuccubusA_wall_2051ef6f:
@@ -1150,41 +1150,41 @@ translate spanish talk_SuccubusA_end_cell_c976a3a6:
 translate spanish talk_SuccubusA_end_cell_cc93ce23:
 
     # me "I said no."
-    me "I said no."
+    me "Dije que no."
 
 # game/characters/succubi/a/talk.rpy:584
 translate spanish talk_SuccubusA_end_cell_02eb392b:
 
     # succA "Buut.."
-    succA "Buut.."
+    succA "Peroo..."
 
 # game/characters/succubi/a/talk.rpy:585
 translate spanish talk_SuccubusA_end_cell_47f414c6:
 
     # "You don't let her finish and leave before she changes your mind."
-    "You don't let her finish and leave before she changes your mind."
+    "No la dejas terminar y te vas antes de que cambie de opinión.."
 
 translate spanish strings:
 
     # game/characters/succubi/a/talk.rpy:30
     old "Playroom"
-    new "Playroom"
+    new "Cuarto de Juego"
 
     # game/characters/succubi/a/talk.rpy:30
     old "Change names"
-    new "Change names"
+    new "Cambiar nombres"
 
     # game/characters/succubi/a/talk.rpy:32
     old "Threesome with [succB]"
-    new "Threesome with [succB]"
+    new "Trío con [succB]"
 
     # game/characters/succubi/a/talk.rpy:32
     old "Against a wall"
-    new "Against a wall"
+    new "Contra el muro"
 
     # game/characters/succubi/a/talk.rpy:32
     old "Cowgirl"
-    new "Cowgirl"
+    new "Vaquera"
 
     # game/characters/succubi/a/talk.rpy:44
     old "69"
@@ -1192,29 +1192,28 @@ translate spanish strings:
 
     # game/characters/succubi/a/talk.rpy:44
     old "Wooden Horse"
-    new "Wooden Horse"
+    new "Caballo de Madera"
 
     # game/characters/succubi/a/talk.rpy:44
     old "Anal Missionary"
-    new "Anal Missionary"
+    new "Misionero Anal"
 
     # game/characters/succubi/a/talk.rpy:46
     old "Lesbian"
-    new "Lesbian"
+    new "Lesbiana"
 
     # game/characters/succubi/a/talk.rpy:81
     old "How she address you ([succA_master])"
-    new "How she address you ([succA_master])"
+    new "Cómo te llama ([succA_master])"
 
     # game/characters/succubi/a/talk.rpy:81
     old "Her name ([succA])"
-    new "Her name ([succA])"
+    new "Su nombre es ([succA])"
 
     # game/characters/succubi/a/talk.rpy:289
     old "Fuck her"
-    new "Fuck her"
+    new "Fóllala"
 
     # game/characters/succubi/a/talk.rpy:576
     old "Fuck her again"
-    new "Fuck her again"
-
+    new "Fóllala otra vez"

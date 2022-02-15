@@ -16,7 +16,7 @@ translate spanish mina_5_3028b4ad:
 translate spanish mina_5_23afe514:
 
     # u_mina "[me]!"
-    u_mina "[me]!"
+    u_mina "¡[me]!"
 
 # game/characters/mina/ev_5.rpy:6
 translate spanish mina_5_5b1c5aa2:
@@ -28,7 +28,7 @@ translate spanish mina_5_5b1c5aa2:
 translate spanish mina_5_793132ed:
 
     # me "M-Mina?"
-    me "M-Mina?"
+    me "¿M-Mina?"
 
 # game/characters/mina/ev_5.rpy:11
 translate spanish mina_5_97ef269a:
@@ -1545,9 +1545,8 @@ translate spanish strings:
 
     # game/characters/mina/ev_5.rpy:326
     old "I have revealed to the girls I can resurrect."
-    new "I have revealed to the girls I can resurrect."
+    new "Les revelé a las chicas que puedo resucitar."
 
     # game/characters/mina/ev_5.rpy:476
     old "I failed to recover the pendant and Mina tried to retrieve it on her own. She almost got raped, but thankfully, Lexi and I were swift enough to prevent the worst from happening. I hope she can overcome the trauma soon."
-    new "I failed to recover the pendant and Mina tried to retrieve it on her own. She almost got raped, but thankfully, Lexi and I were swift enough to prevent the worst from happening. I hope she can overcome the trauma soon."
-
+    new "No pude recuperar el colgante y Mina trató de conseguirlo por su cuenta. Casi la violan, pero afortunadamente, Lexi y yo fuimos lo suficientemente rápidos para evitar que sucediera lo peor. Espero que pueda superar el trauma pronto."

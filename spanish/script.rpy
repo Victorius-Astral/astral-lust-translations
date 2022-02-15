@@ -514,7 +514,7 @@ translate spanish first_room_player_ask_b5fc903a:
 translate spanish first_room_player_ask_4caf147c:
 
     # lexi "You can go and ask around, there is no lack of things to do so I'm sure you'll find something. If you want, you can always go out to scavenge but it's really dangerous."
-    lexi "Puedes ir y preguntar, no hay falta de cosas para hacer, así que estoy seguro de que encontrarás algo. Si quieres, siempre puedes salir a hurgar por comida, pero es realmente peligroso."
+    lexi "Puedes ir y preguntar, no hay falta de cosas para hacer, así que estoy seguro de que encontrarás algo. Si quieres, siempre puedes salir a recolectar por comida, pero es realmente peligroso."
 
 # game/script.rpy:286
 translate spanish first_room_player_ask_cfa6a805:
