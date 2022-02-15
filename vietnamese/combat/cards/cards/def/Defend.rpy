@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/def/Defend.rpy:6
     old "Defend"
-    new "Defend"
-
+    new "Phòng Thủ"

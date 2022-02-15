@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/abi/Cease_Fire_Treaty.rpy:6
     old "Cease Fire Treaty"
-    new "Cease Fire Treaty"
-
+    new "Hiệp Ước Ngừng Bắn"

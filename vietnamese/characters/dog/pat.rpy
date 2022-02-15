@@ -77,5 +77,4 @@ translate vietnamese dog_pat_player_2cee00b1:
 translate vietnamese dog_pat_f0_f093f43c:
 
     # me "Hello, buddy. You're getting comfortable here, aren't you?"
-    me "Hello, buddy. You're getting comfortable here, aren't you?"
-
+    me "Xin chào cậu bé. cảm thấy thoải mái ở đây chứ?"

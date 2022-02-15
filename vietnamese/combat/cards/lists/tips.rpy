@@ -4,7 +4,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/tips.rpy:1
     old "{{b}}{{u}}Exhaust{{/u}}{{/b}}\n{{small}}Card is removed from your deck until the end of combat.{{/small}}"
-    new "{{b}}{{u}}Kiệt sức{{/u}}{{/b}}\n{{small}}Lá bài sẽ không thể sử dụng cho đến khi kết thức ván đấu.{{/small}}"
+    new "{{b}}{{u}}Kiệt sức{{/u}}{{/b}}\n{{small}}Lá bài sẽ không thể sử dụng cho đến khi kết thúc ván đấu.{{/small}}"
 
     # game/combat/cards/lists/tips.rpy:1
     old "{{b}}{{u}}Destroy{{/u}}{{/b}}\n{{small}}Card is permanently removed from your deck.{{/small}}"
@@ -24,11 +24,11 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/tips.rpy:1
     old "\n________________\n {{patreon1}}Thank you for support!{{/patreon1}}"
-    new "\n________________\n {{patreon1}}Thank you for support!{{/patreon1}}"
+    new "\n________________\n {{patreon1}}Cảm ơn vì đã ủng hộ!{{/patreon1}}"
 
     # game/combat/cards/lists/tips.rpy:1
     old "\n________________\n {{patreon1}}Thank you for being with us since the beginning!{{/patreon1}}"
-    new "\n________________\n {{patreon1}}Thank you for being with us since the beginning!{{/patreon1}}"
+    new "\n________________\n {{patreon1}}Cảm ơn bạn đã ở bên chúng tôi từ những ngày đầu!{{/patreon1}}"
 # TODO: Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
@@ -39,25 +39,24 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/tips.rpy:1
     old "{{i}}{{small}}{{patreon1}}Thank you for support!{{/patreon1}}{{/small}}{{/i}}"
-    new "{{i}}{{small}}{{patreon1}}Thank you for support!{{/patreon1}}{{/small}}{{/i}}"
+    new "{{i}}{{small}}{{patreon1}}Cảm ơn vì đã ủng hộ!{{/patreon1}}{{/small}}{{/i}}"
 
     # game/combat/cards/lists/tips.rpy:1
     old "{{small}}{{patreon1}}Patron - The Beginning, January 2021{{/patreon1}}{{/small}}"
-    new "{{small}}{{patreon1}}Patron - The Beginning, January 2021{{/patreon1}}{{/small}}"
+    new "{{small}}{{patreon1}}Patron - Vũ Trụ Khởi Nguyên, tháng 1 2021{{/patreon1}}{{/small}}"
 
     # game/combat/cards/lists/tips.rpy:1
     old "{{small}}{{patreon1}}Patron - 1st Anniversary, January 2022{{/patreon1}}{{/small}}"
-    new "{{small}}{{patreon1}}Patron - 1st Anniversary, January 2022{{/patreon1}}{{/small}}"
+    new "{{small}}{{patreon1}}Patron - Kỷ niệm ngày 1, tháng 1 2022{{/patreon1}}{{/small}}"
 
     # game/combat/cards/lists/tips.rpy:1
     old "{{small}}{{patreon1}}Helped the community by reporting a bug.{{/patreon1}}{{/small}}"
-    new "{{small}}{{patreon1}}Helped the community by reporting a bug.{{/patreon1}}{{/small}}"
+    new "{{small}}{{patreon1}}Giúp đỡ cộng đồng bằng cách báo cáo lỗi.{{/patreon1}}{{/small}}"
 
     # game/combat/cards/lists/tips.rpy:1
     old "{{small}}{{patreon1}}Helped the community by making a suggestion that made it into a game.{{/patreon1}}{{/small}}"
-    new "{{small}}{{patreon1}}Helped the community by making a suggestion that made it into a game.{{/patreon1}}{{/small}}"
+    new "{{small}}{{patreon1}}Giúp đỡ cộng đồng bằng cách đưa ra đề xuất và đưa nó vào trong game.{{/patreon1}}{{/small}}"
 
     # game/combat/cards/lists/tips.rpy:1
     old "\n________________"
     new "\n________________"
-

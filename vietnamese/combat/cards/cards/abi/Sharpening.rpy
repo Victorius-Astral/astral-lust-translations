@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/abi/Sharpening.rpy:6
     old "Sharpening"
-    new "Sharpening"
-
+    new "Sắc Lẻm"

@@ -291,41 +291,40 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Deal {damage} damage and inflict {amount} {{ef}}{buff}{{/ef}} to all enemies."
-    new "Deal {damage} damage and inflict {amount} {{ef}}{buff}{{/ef}} to all enemies."
+    new "Gây {damage} sát thương và gây ra {amount} {{ef}}{buff}{{/ef}} lên tất cả kẻ địch."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Grant {amount} {{ef}}{buff}{{/ef}} to your team."
-    new "Grant {amount} {{ef}}{buff}{{/ef}} to your team."
+    new "Buff {amount} {{ef}}{buff}{{/ef}} cho đội của của bạn."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Enemy will appear to be one of the girls you know."
-    new "Enemy will appear to be one of the girls you know."
+    new "Kẻ thù sẽ xuất hiện là một trong những cô gái mà bạn biết."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Allow the mist to manifest your thoughts in the reality. Summoned {{ef}}{summon}{{/ef}} will help you in combat."
-    new "Allow the mist to manifest your thoughts in the reality. Summoned {{ef}}{summon}{{/ef}} will help you in combat."
+    new "Cho phép màn sương hiển thực hóa suy nghĩ của bạn. Triệu hồi {{ef}}{summon}{{/ef}} sẽ giúp bạn trong trận đấu."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Take the last step towards the afterlife and force everyone to face madness of The Last Journey."
-    new "Take the last step towards the afterlife and force everyone to face madness of The Last Journey."
+    new "Thực hiện bước cuối cùng đến thế giới bên kia và buộc mọi người phải đối mặt với sự điên loạn của Hành trình cuối cùng."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Create {{b}}{item}{{/b}}."
-    new "Create {{b}}{item}{{/b}}."
+    new "Tạo ra {{b}}{item}{{/b}}."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Create {amount} {{b}}{item}{{/b}}."
-    new "Create {amount} {{b}}{item}{{/b}}."
+    new "Tạo ra {amount} {{b}}{item}{{/b}}."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Consume {amount} {{b}}{item}{{/b}}."
-    new "Consume {amount} {{b}}{item}{{/b}}."
+    new "Tiêu thụ {amount} {{b}}{item}{{/b}}."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Sacrifice {health} health and {amount} {consume} to create a {create}."
-    new "Sacrifice {health} health and {amount} {consume} to create a {create}."
+    new "Hy sinh {health} máu và {amount} {consume} để tạo ra {create}."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "{{cor}}Corruption {amount:+}%.{{/cor}}"
-    new "{{cor}}Corruption {amount:+}%.{{/cor}}"
-
+    new "{{cor}}Sa đọa {amount:+}%.{{/cor}}"

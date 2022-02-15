@@ -827,47 +827,46 @@ translate vietnamese strings:
 translate vietnamese alice_kiss_gym_68117194:
 
     # th "When did she lose her shorts?"
-    th "When did she lose her shorts?"
+    th "Quần em ấy bay màu từ khi nào vậy??"
 
 # game/characters/alice/kiss.rpy:169
 translate vietnamese alice_kiss_gym_cow_f3b906a5:
 
     # me "Of course it is. How could some dildo compare."
-    me "Of course it is. How could some dildo compare."
+    me "Tất nhiên là thế rồi. Làm sao mà đồ chơi có thể so sánh được chứ."
 
 # game/characters/alice/kiss.rpy:183
 translate vietnamese alice_kiss_gym_cow_bcc32c73:
 
     # alice "You love it when I call you daddy, don't you?"
-    alice "You love it when I call you daddy, don't you?"
+    alice "Anh thích khi mà em gọi anh là daddy, phải không?"
 
 # game/characters/alice/kiss.rpy:212
 translate vietnamese alice_kiss_gym_cow_dbd915e7:
 
     # me "I'll have to give you a lesson, young lady."
-    me "I'll have to give you a lesson, young lady."
+    me "Tôi sẽ phải cho cô một bài học đấy cô gái trẻ."
 
 # game/characters/alice/kiss.rpy:228
 translate vietnamese alice_kiss_gym_cow_f79ea1f0:
 
     # me "I'm gonna teach you who is superior here."
-    me "I'm gonna teach you who is superior here."
+    me "Tôi sẽ dạy cho cô ai là người nắm quyền ở đây."
 
 # game/characters/alice/kiss.rpy:280
 translate vietnamese alice_kiss_gym_cow_218d920c:
 
     # me "Shit, that was nice."
-    me "Shit, that was nice."
+    me "Phê thật đấy."
 
 # game/characters/alice/kiss.rpy:371
 translate vietnamese alice_kiss_gym_bj_77e131fb:
 
     # th "Before, I've never known life can be so exciting.."
-    th "Before, I've never known life can be so exciting.."
+    th "Trước đây, mình chưa bao giờ nghĩ là cuộc sống có thể thú vị như vậy.."
 
 # game/characters/alice/kiss.rpy:435
 translate vietnamese alice_kiss_alice_3ebf1c71:
 
     # alice "What do you mean, honey?"
-    alice "What do you mean, honey?"
-
+    alice "Ý anh là sao vậy anh yêu?"

@@ -10,7 +10,7 @@ translate vietnamese sleep_with_alice_dbce692f:
 translate vietnamese sleep_with_alice_36246f80:
 
     # alice "Pff.."
-    alice "Pff.."
+    alice "Pff..."
 
 # game/characters/alice/sleepover.rpy:29
 translate vietnamese sleep_with_alice_0df91372:
@@ -22,7 +22,7 @@ translate vietnamese sleep_with_alice_0df91372:
 translate vietnamese sleep_with_alice_22d060b8:
 
     # me "Oh, me too darling.."
-    me "Oh, anh nữa em yêu.."
+    me "Oh, anh nữa em yêu..."
 
 # game/characters/alice/sleepover.rpy:43
 translate vietnamese sleep_with_alice_53956def:
@@ -52,7 +52,7 @@ translate vietnamese sleep_with_alice_3d1ff008:
 translate vietnamese sleep_with_alice_65f18765:
 
     # alice "I want more.."
-    alice "Em muốn nhiều hơn nữa.."
+    alice "Em muốn nhiều hơn nữa..."
 
 # game/characters/alice/sleepover.rpy:64
 translate vietnamese sleep_with_alice_9b2c6e5e:
@@ -70,7 +70,7 @@ translate vietnamese sleep_with_alice_ce111e9e:
 translate vietnamese sleep_with_alice_369980ec:
 
     # alice "You have very comfy bed."
-    alice "Anh có một chiếc giường rất thoải mái."
+    alice "Anh có một cái giường rất thoải mái đấy."
 
 # game/characters/alice/sleepover.rpy:82
 translate vietnamese sleep_with_alice_ba8ee696:

@@ -256,7 +256,7 @@ translate vietnamese kiara_2_5_a66aeb6f:
 translate vietnamese kiara_2_5_adf915d5:
 
     # kiara "Yes, I tried to shift the place you resurrect to be here, in my demesne.. My interference didn't even cause a ripple in the process."
-    kiara "Có, tôi đã cố gắng chuyển nơi mà bạn hồi sinh để ở đây, trong lãnh địa của tôi.. Sự can thiệp của tôi thậm chí không gây ra một chút gì trong quá trình này."
+    kiara "Có, tôi đã cố gắng chuyển nơi mà anh hồi sinh là ở đây, trong lãnh địa của tôi.. Sự can thiệp của tôi thậm chí không gây ra chút thay đổi gì trong quá trình này."
 
 # game/characters/kiara/ev_2.rpy:130
 translate vietnamese kiara_2_5_44883df8:

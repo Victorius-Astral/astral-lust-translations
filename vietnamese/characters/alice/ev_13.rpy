@@ -40,7 +40,7 @@ translate vietnamese alice_13_0afbcd02:
 translate vietnamese alice_13_c4a7f2e0:
 
     # alice "You piss me off. Like, a loooot."
-    alice "Anh làm em bực mình. Rất nhiềuuuuuu đấy"
+    alice "Anh làm em bực mình. Rất nhiềuuuu đấy"
 
 # game/characters/alice/ev_13.rpy:17
 translate vietnamese alice_13_a6a79e45:
@@ -106,7 +106,7 @@ translate vietnamese alice_13_822ae2ab:
 translate vietnamese alice_13_68ab6f46:
 
     # me "Now, now, give daddy a hug."
-    me "Nào, bây giờ, hãy ôm daddy nào."
+    me "Nào, bây giờ, hãy ôm anh đi nào."
 
 # game/characters/alice/ev_13.rpy:43
 translate vietnamese alice_13_6c495d7d:
@@ -118,7 +118,7 @@ translate vietnamese alice_13_6c495d7d:
 translate vietnamese alice_13_ba8cbe15:
 
     # me "Now, now. I believe you."
-    me "Chà, chà. anh tin em."
+    me "Chà, chà. Anh tin em mà."
 
 # game/characters/alice/ev_13.rpy:45
 translate vietnamese alice_13_74f05a4e:
@@ -142,13 +142,13 @@ translate vietnamese alice_13_ecd768ba:
 translate vietnamese alice_13_2899d2c5:
 
     # alice "It's annoying.."
-    alice "Phiền thật đấy.."
+    alice "Phiền thật đấy..."
 
 # game/characters/alice/ev_13.rpy:51
 translate vietnamese alice_13_d69344a8:
 
     # alice "Why would I even love you? I know nothing about you, you might have had a wife and a kids before, I don't even know how old you are.."
-    alice "Tại sao em lại yêu anh chứ? em không biết tí gì về anh, anh có thể đã có vợ và một đứa con trước đó, em thậm chí không biết anh bao nhiêu tuổi.."
+    alice "Tại sao em lại yêu anh chứ? em không biết tí gì về anh, anh có thể đã có vợ và một đứa con trước đó rồi, em thậm chí không biết anh bao nhiêu tuổi nữa..."
 
 # game/characters/alice/ev_13.rpy:52
 translate vietnamese alice_13_c13cfca0:
@@ -184,7 +184,7 @@ translate vietnamese alice_13_38c24143:
 translate vietnamese alice_13_685b5f2f:
 
     # alice "Maybe.."
-    alice "Có thể.."
+    alice "Có thể..."
 
 # game/characters/alice/ev_13.rpy:62
 translate vietnamese alice_13_0fc2a206:

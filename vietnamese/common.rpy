@@ -404,7 +404,7 @@ translate vietnamese strings:
 
     # renpy/common/00director.rpy:1767
     old "Transition:"
-    new "Transition:"
+    new "Chuyển cảnh:"
 
     # renpy/common/00director.rpy:1785
     old "Channel:"
@@ -432,7 +432,7 @@ translate vietnamese strings:
 
     # renpy/common/00gui.rpy:427
     old "Are you sure you want to quit?"
-    new "Bạn có chắc bạn muốn thoát không?"
+    new "Bạn có chắc là muốn thoát không?"
 
     # renpy/common/00gui.rpy:428
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
@@ -444,7 +444,7 @@ translate vietnamese strings:
 
     # renpy/common/00gui.rpy:430
     old "Are you sure you want to begin skipping?"
-    new "Bạn có chắc chắn muốn bắt đầu bỏ qua không?"
+    new "Bạn có chắc chắn là muốn bắt đầu bỏ qua không?"
 
     # renpy/common/00gui.rpy:431
     old "Are you sure you want to skip to the next choice?"

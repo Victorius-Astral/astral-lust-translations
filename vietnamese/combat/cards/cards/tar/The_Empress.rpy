@@ -11,5 +11,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_Empress.rpy:6
     old "The Empress"
-    new "The Empress"
-
+    new "Hoàng hậu"

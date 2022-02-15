@@ -10,7 +10,7 @@ translate vietnamese alice_5_2c311c19:
 translate vietnamese alice_5_9403bafe:
 
     # alice "Ummm~"
-    alice "Ummm~"
+    alice "Ưmmm~"
 
 # game/characters/alice/ev_5.rpy:7
 translate vietnamese alice_5_cdfb7261:
@@ -28,13 +28,13 @@ translate vietnamese alice_5_1e7409fe:
 translate vietnamese alice_5_97e3a8ce:
 
     # "{color=#800080}[[Need 5%% Corruption]{/color} Kill human enemies to increase corruption."
-    "{color=#800080}[[Cần 5\%% sự sa đọa]{/color} Giết hoặc hiếp dâm người vô tội hoặc làm những điều sai trái khác sẽ tăng sự đồi bại."
+    "{color=#800080}[[Cần 5\%% sự sa đọa]{/color} làm những điều sai trái sẽ tăng sự đồi bại."
 
 # game/characters/alice/ev_5.rpy:12
 translate vietnamese alice_5_cc3ee69f:
 
     # th "No, I shouldn't walk on her like that. She deserves some privacy."
-    th "Không, mình không nên đi vào phòng em ấy như vậy. Em ấy xứng đáng có một chút riêng tư."
+    th "Không, mình không nên đi vào phòng em ấy như vậy. Em ấy xứng đáng có một chút riêng tư mà."
 
 # game/characters/alice/ev_5.rpy:25
 translate vietnamese alice_5_1_b44a53e7:
@@ -64,7 +64,7 @@ translate vietnamese alice_5_1_e8f40812:
 translate vietnamese alice_5_1_f49ec515:
 
     # th "I'm risking it for real?"
-    th "Mình đang mạo hiểm thật à?"
+    th "Mình đang mạo hiểm vì cái gì vậy?"
 
 # game/characters/alice/ev_5.rpy:35
 translate vietnamese alice_5_1_118cccfe:
@@ -130,7 +130,7 @@ translate vietnamese alice_5_1_9908a727:
 translate vietnamese alice_5_1_203f0bb7:
 
     # alice "Y-you don't like to knock do you?"
-    alice "A-Anh không thích gõ cửa phải không?"
+    alice "A-Anh không thích gõ cửa đúng không?"
 
 # game/characters/alice/ev_5.rpy:72
 translate vietnamese alice_5_1_644a2f39:
@@ -154,7 +154,7 @@ translate vietnamese alice_5_1_73d3458f:
 translate vietnamese alice_5_1_401b8bfc:
 
     # alice "O-okay, umm can you leave me alone?"
-    alice "O-okay, umm anh có thể để em một mình không?"
+    alice "O-okay, Ờmm anh có thể để em một mình không?"
 
 # game/characters/alice/ev_5.rpy:81
 translate vietnamese alice_5_1_1e9dbee1:
@@ -184,7 +184,7 @@ translate vietnamese alice_5_1_2930e26f:
 translate vietnamese alice_5_1_47459da1:
 
     # alice "Umm.. come here~"
-    alice "Umm.. Đến đây~"
+    alice "Ờ... Đến đây~"
 
 # game/characters/alice/ev_5.rpy:89
 translate vietnamese alice_5_1_689bede6:
@@ -268,7 +268,7 @@ translate vietnamese alice_5_2_a688eb90:
 translate vietnamese alice_5_2_9403bafe:
 
     # alice "Ummm~"
-    alice "Ummm~"
+    alice "Ưmmm~"
 
 # game/characters/alice/ev_5.rpy:122
 translate vietnamese alice_5_2_eff848bf:
@@ -280,7 +280,7 @@ translate vietnamese alice_5_2_eff848bf:
 translate vietnamese alice_5_2_5e89a703:
 
     # alice "Mmm.. just like that."
-    alice "Mmm.. Cứ như thế."
+    alice "Mmm... Cứ như vậy đi."
 
 # game/characters/alice/ev_5.rpy:124
 translate vietnamese alice_5_2_6de696ef:
@@ -310,7 +310,7 @@ translate vietnamese alice_5_2_0ca7996d:
 translate vietnamese alice_5_2_830b5768:
 
     # alice "Mmnn~ [me]~"
-    alice "Mmnn~ [me]~"
+    alice "Ưmmn~ [me]~"
 
 # game/characters/alice/ev_5.rpy:132
 translate vietnamese alice_5_2_83e8a734:
@@ -352,7 +352,7 @@ translate vietnamese alice_5_2_5c6f5e7b:
 translate vietnamese alice_5_2_d4e6e5d3:
 
     # th "W-wow she was so loud that everyone around definitely heard this!" id alice_5_2_d4e6e5d3
-    th "W-wow em ấy hét lớn đến nỗi mọi người xung quanh chắc chắn sẽ nghe thấy điều này!" id alice_5_2_d4e6e5d3
+    th "U-uầy em ấy hét lớn đến nỗi mọi người xung quanh chắc chắn sẽ nghe thấy điều này!" id alice_5_2_d4e6e5d3
 
 # game/characters/alice/ev_5.rpy:159
 translate vietnamese alice_5_2_f0d79d11:
@@ -370,7 +370,7 @@ translate vietnamese alice_5_2_bd890498:
 translate vietnamese alice_5_2_874ebc2b:
 
     # lexi "Y-Yeah.. this girl.."
-    lexi "Y-Yeah.. cô gái này.."
+    lexi "Y-Yeah... cô gái này..."
 
 # game/characters/alice/ev_5.rpy:166
 translate vietnamese alice_5_2_3023c501:
@@ -418,7 +418,7 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_5.rpy:9
     old "{color=#800080}[[Corruption]{/color} Yes"
-    new "{color=#800080}[[Sa đọa]{/color} Có"
+    new "{color=#800080}[[Sa đọa]{/color} Có chứ"
 
     # game/characters/alice/ev_5.rpy:75
     old "Apologize"

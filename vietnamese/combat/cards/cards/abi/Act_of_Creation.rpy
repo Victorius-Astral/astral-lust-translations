@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/abi/Act_of_Creation.rpy:6
     old "Act of Creation"
-    new "Act of Creation"
-
+    new "Đạo Luật Sáng Tạo"

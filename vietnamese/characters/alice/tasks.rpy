@@ -305,11 +305,10 @@ translate vietnamese task_alice_reinforce_coat_83fa7619:
 translate vietnamese task_alice_dismantle_clothes_6047b616:
 
     # alice "So, what do you want to do with this?"
-    alice "So, what do you want to do with this?"
+    alice "Vậy, anh muốn làm gì với cái này?"
 
 # game/characters/alice/tasks.rpy:76
 translate vietnamese task_alice_dismantle_clothes_4f31bc8b:
 
     # alice "If you don't need me to do anything else, I'll be going to do my own stuff."
-    alice "If you don't need me to do anything else, I'll be going to do my own stuff."
-
+    alice "Nếu anh không cần em làm cái gì khác nữa, thì em sẽ làm những việc của riêng tôi."

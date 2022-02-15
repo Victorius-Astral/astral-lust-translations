@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/off/Lunge.rpy:6
     old "Lunge"
-    new "Lunge"
-
+    new "Vồ đến"

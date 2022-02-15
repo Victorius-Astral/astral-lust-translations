@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_Star.rpy:6
     old "The Star"
-    new "The Star"
-
+    new "Ngôi Sao"

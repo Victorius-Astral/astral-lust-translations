@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_Sun.rpy:6
     old "The Sun"
-    new "The Sun"
-
+    new "Mặt Trời"

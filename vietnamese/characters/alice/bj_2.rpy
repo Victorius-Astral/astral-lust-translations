@@ -4,7 +4,7 @@
 translate vietnamese alice_bj2_7ff0ca37:
 
     # "[alice] starts to blow you passionately."
-    "[alice] Bắt đầu giảng hòa cho bạn 1 cách say mê."
+    "[alice] Bắt đầu thổi kèn cho bạn một cách say mê."
 
 # game/characters/alice/bj_2.rpy:35
 translate vietnamese alice_bj2_1b0f217a:
@@ -16,7 +16,7 @@ translate vietnamese alice_bj2_1b0f217a:
 translate vietnamese alice_bj2_eb95e18a:
 
     # me "Yeah.. Just like that."
-    me "Yeahh.. Cứ như vậy đi."
+    me "Đúng rồi.. Cứ như vậy đi."
 
 # game/characters/alice/bj_2.rpy:37
 translate vietnamese alice_bj2_e9f56da6:
@@ -28,7 +28,7 @@ translate vietnamese alice_bj2_e9f56da6:
 translate vietnamese alice_bj2_cf463697:
 
     # me "Fuck! You are good."
-    me "Em làm tốt quá."
+    me "Em làm tốt lắm."
 
 # game/characters/alice/bj_2.rpy:48
 translate vietnamese alice_bj2_de2fdb39:
@@ -40,13 +40,13 @@ translate vietnamese alice_bj2_de2fdb39:
 translate vietnamese alice_bj2_ac43d8d0:
 
     # alice "I kmnw."
-    alice "Em bimnw."
+    alice "Em biecc."
 
 # game/characters/alice/bj_2.rpy:50
 translate vietnamese alice_bj2_096de50a:
 
     # "It clearly isn't easy for her to talk with a mouth full of dick."
-    "Rõ ràng là không dễ dàng để cô ấy nói chuyện với một cái miệng lấp đầy dương vật."
+    "Rõ ràng là không dễ dàng để cô ấy nói chuyện với một cái miệng lấp đầy bởi dương vật."
 
 # game/characters/alice/bj_2.rpy:60
 translate vietnamese alice_bj2_8312c002:
@@ -94,7 +94,7 @@ translate vietnamese alice_bj2_74da33f9:
 translate vietnamese alice_bj2_83bc6bb3:
 
     # "[alice] gags for a while and finally spits out all of your seed into her hands."
-    "[alice] Nghẹn một lúc nhưng cuối cùng cũng nhả hết tất cả hạt giống của bạn vào tay cô ấy."
+    "[alice]bị Nghẹn một lúc nhưng cuối cùng cũng nhả hết tất cả hạt giống của bạn vào tay cô ấy."
 
 # game/characters/alice/bj_2.rpy:84
 translate vietnamese alice_bj2_b9bc022e:
@@ -106,4 +106,4 @@ translate vietnamese alice_bj2_b9bc022e:
 translate vietnamese alice_bj2_5cb454dc:
 
     # "You rest for a while and leave her to clean herself."
-    "Bạn nghỉ ngơi một lúc để cô ấy tự lau chính mình."
+    "Bạn nghỉ một lúc để cô ấy tự lau chính mình."

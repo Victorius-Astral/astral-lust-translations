@@ -31,5 +31,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:6
     old "The Hermit"
-    new "The Hermit"
-
+    new "Ẩn Sĩ"

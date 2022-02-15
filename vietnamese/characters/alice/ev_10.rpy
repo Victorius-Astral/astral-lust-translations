@@ -28,13 +28,13 @@ translate vietnamese alice_10_0faaa5ed:
 translate vietnamese alice_10_647087e1:
 
     # alice "You don't want to then? That's good, I almost undressed for you.."
-    alice "Anh không muốn sao? Tốt quá, em suýt nữa đã cởi quần cho anh.."
+    alice "Anh không muốn sao? Tốt quá, em suýt nữa đã cởi quần cho anh rồi..."
 
 # game/characters/alice/ev_10.rpy:21
 translate vietnamese alice_10_b920e932:
 
     # me "I never said I don't want to."
-    me "Anh chưa bao giờ nói anh không muốn."
+    me "Anh chưa bao giờ nói anh không muốn cả."
 
 # game/characters/alice/ev_10.rpy:22
 translate vietnamese alice_10_6b62c458:
@@ -52,7 +52,7 @@ translate vietnamese alice_10_cad5c0e5:
 translate vietnamese alice_10_8aecc055:
 
     # alice "What are you saying, mister.. I'm daddy's girl, I'm sooo innocent and well behaved.."
-    alice "Ông đang nói gì vậy, thưa ông .. Con là Daddy's girl, con rất ngây thơ và cư xử tốt.."
+    alice "Ông đang nói gì vậy, thưa ông... Con là daddy girl, con rất ngây thơ và cư xử tốt..."
 
 # game/characters/alice/ev_10.rpy:25
 translate vietnamese alice_10_19382b2b:
@@ -70,7 +70,7 @@ translate vietnamese alice_10_41c9654b:
 translate vietnamese alice_10_dcfafa9f:
 
     # th "I love this roleplay."
-    th " Mình thích cái trò này."
+    th "Mình thích cái trò này đấy."
 
 # game/characters/alice/ev_10.rpy:32
 translate vietnamese alice_10_6149eefe:
@@ -100,13 +100,13 @@ translate vietnamese alice_10_d4e22fe8:
 translate vietnamese alice_10_3bd7c746:
 
     # me "I'm sure you'll work something out."
-    me "Bố chắc rằng con sẽ làm được điều gì đó."
+    me "Bố chắc rằng con sẽ làm được điều gì đó đấy."
 
 # game/characters/alice/ev_10.rpy:45
 translate vietnamese alice_10_1854abac:
 
     # alice "Hmmm.. How about you lie down, daddy? [alice], will take care of you."
-    alice "Hmmm.. Thế bây giờ daddy nằm xuống đi? [alice] sẽ chăm sóc cho."
+    alice "Hmmm.. Thế bây giờ daddy nằm xuống được không? Rồi [alice] sẽ chăm sóc cho."
 
 # game/characters/alice/ev_10.rpy:60
 translate vietnamese alice_10_da600f48:
@@ -130,7 +130,7 @@ translate vietnamese alice_10_5ea2f352:
 translate vietnamese alice_10_cd1dda61:
 
     # me "Take your time, but don't make daddy wait too long."
-    me "Hãy thoải mái đi, nhưng đừng bắt bố phải đợi lâu."
+    me "Hãy thoải mái đi, nhưng đừng bắt daddy phải đợi lâu."
 
 # game/characters/alice/ev_10.rpy:64
 translate vietnamese alice_10_95b3f10d:
@@ -220,19 +220,19 @@ translate vietnamese alice_10_819df3d4:
 translate vietnamese alice_10_ed3fbe5c:
 
     # alice "What do you want to do?"
-    alice "Bố muốn làm cái gì?"
+    alice "Anh muốn làm cái gì?"
 
 # game/characters/alice/ev_10.rpy:103
 translate vietnamese alice_10_10253644:
 
     # me "I want to make you my woman."
     me "Anh muốn biến em thành người phụ nữ của mình."
-`   `
+
 # game/characters/alice/ev_10.rpy:106
 translate vietnamese alice_10_0cbf2496:
 
     # alice "You want to.."
-    alice "Có phải anh muốn.."
+    alice "Có phải anh muốn..."
 
 # game/characters/alice/ev_10.rpy:107
 translate vietnamese alice_10_78419f13:
@@ -250,7 +250,7 @@ translate vietnamese alice_10_74f05a4e:
 translate vietnamese alice_10_0b19baa3:
 
     # alice "I-I.."
-    alice "E-Em.."
+    alice "E-em..."
 
 # game/characters/alice/ev_10.rpy:115
 translate vietnamese alice_10_9ee2f291:
@@ -274,7 +274,7 @@ translate vietnamese alice_10_d24ffae9:
 translate vietnamese alice_10_3c16d757:
 
     # me "Of course, babe. I love you, Alice."
-    me "Tất nhiên rồi babe. Anh yêu em nhất đấy Alice."
+    me "Tất nhiên rồi babe. Anh yêu em nhất đấy."
 
 # game/characters/alice/ev_10.rpy:125
 translate vietnamese alice_10_b4d47dae:
@@ -328,13 +328,13 @@ translate vietnamese alice_10_ae1387b4:
 translate vietnamese alice_10_4989fe05:
 
     # me "I.."
-    me "Anh.."
+    me "Anh..."
 
 # game/characters/alice/ev_10.rpy:147
 translate vietnamese alice_10_f9e82162:
 
     # alice "Shh.."
-    alice "Suỵt.."
+    alice "Suỵt..."
 
 # game/characters/alice/ev_10.rpy:149
 translate vietnamese alice_10_6c5774fc:
@@ -418,7 +418,7 @@ translate vietnamese alice_10_part3_38c341ab:
 translate vietnamese alice_10_part3_a80d6c56:
 
     # alice "Fuck~ Fuck me, daddy! Fuck your little girl~ It feels so good!"
-    alice "Ah~ Địt em đi daddy! Địt cô gái nhỏ của anh đi~ Cảm giác thật tuyệt quá!"
+    alice "Ah~ Địt em đi! Địt cô gái nhỏ của anh đi~ Điều này thật tuyệt quá!"
 
 # game/characters/alice/ev_10.rpy:187
 translate vietnamese alice_10_part3_3951cfbc:
@@ -430,7 +430,7 @@ translate vietnamese alice_10_part3_3951cfbc:
 translate vietnamese alice_10_part3_8bf5efba:
 
     # "Her pussy is exceptionally tight, it's hard to move, but at the same time it's beyond nice."
-    "Âm hộ của em ấy cực kỳ chặt chẽ, rất khó để di chuyển, nhưng đồng thời nó cũng rất tuyệt."
+    "Âm hộ của em ấy cực kỳ chặt, rất khó để di chuyển, nhưng đồng thời nó cũng rất tuyệt."
 
 # game/characters/alice/ev_10.rpy:198
 translate vietnamese alice_10_part3_388a1480:
@@ -442,7 +442,7 @@ translate vietnamese alice_10_part3_388a1480:
 translate vietnamese alice_10_part3_40976ab2:
 
     # me "Ohh.."
-    me "Ohh.."
+    me "Ohh..."
 
 # game/characters/alice/ev_10.rpy:201
 translate vietnamese alice_10_part3_981bc7a1:
@@ -496,7 +496,7 @@ translate vietnamese alice_10_part3_7459a238:
 translate vietnamese alice_10_part3_5d2f0ca8:
 
     # alice "Ahh.."
-    alice "Ahh.."
+    alice "Ahh..."
 
 # game/characters/alice/ev_10.rpy:231
 translate vietnamese alice_10_part3_4f5b42dd:
@@ -629,5 +629,4 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_10.rpy:49
     old "She's officially my girl now."
-    new "She's officially my girl now."
-
+    new "Cô ấy chính thức là bạn gái của mình."

@@ -76,7 +76,7 @@ translate vietnamese room_library_books_r_kain_a4558b53:
 translate vietnamese room_library_books_r_kain_a04dc50c:
 
     # bkd "No one can imagine the powers of deities connected to the domain of mysteries. Perhaps all beings on that planet were It's avatars.. maybe puppets.. maybe both.."
-    bkd "Không ai có thể tưởng tượng được sức mạnh của các vị thần có liên quan đến lãnh địa của những bí ẩn. Có lẽ tất cả chúng sinh trên hành tinh đó đều là hiện thân .. có thể là con rối .. có thể là cả hai.."
+    bkd "Không ai có thể tưởng tượng được sức mạnh của các vị thần có liên quan đến lĩnh vực của những bí ẩn. Có lẽ tất cả chúng sinh trên hành tinh đó đều là hiện thân .. có thể là con rối .. có thể là cả hai.."
 
 # game/places/library/books_r.rpy:36
 translate vietnamese room_library_books_r_kain_bc4eadf2:
@@ -208,7 +208,7 @@ translate vietnamese room_library_books_r_vampires_0bce0179:
 translate vietnamese room_library_books_r_vampires_90844a92:
 
     # bcv "No. There is no curse like that. Vampires are extraordinary beings, mostly humans that accommodated characteristics from the domain of blood."
-    bcv "Không, không có lời nguyền nào như thế. Ma cà rồng là những sinh vật phi thường, chủ yếu là con người có các đặc điểm từ Huyết Lãnh địa."
+    bcv "Không, không có lời nguyền nào như thế. Ma cà rồng là những sinh vật phi thường, chủ yếu là con người có các đặc điểm từ Huyết lĩnh vực."
 
 # game/places/library/books_r.rpy:62
 translate vietnamese room_library_books_r_vampires_b304dce6:
@@ -256,7 +256,7 @@ translate vietnamese room_library_books_r_vampires_cd862459:
 translate vietnamese room_library_books_r_vampires_875fea17:
 
     # bcv "Outside of the domain of blood, vampires also have abilities in domains of death, war, and shadows. They are fast, strong, and resilient. Angel level vampires will resurrect upon death as long as there is a single drop of Their blood left."
-    bcv "Ngoài lãnh địa máu, ma cà rồng còn có khả năng trong lãnh địa của cái chết, chiến tranh và bóng tối. Họ nhanh, mạnh mẽ và kiên cường. Ma cà rồng cấp độ thiên thần sẽ hồi sinh khi chết miễn là còn lại một giọt máu của họ."
+    bcv "Ngoài lĩnh vực máu, ma cà rồng còn có khả năng trong lĩnh vực của cái chết, chiến tranh và bóng tối. Họ nhanh, mạnh mẽ và kiên cường. Ma cà rồng cấp độ thiên thần sẽ hồi sinh khi chết miễn là còn lại một giọt máu của họ."
 
 # game/places/library/books_r.rpy:70
 translate vietnamese room_library_books_r_vampires_270af2c0:

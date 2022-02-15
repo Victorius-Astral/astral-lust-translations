@@ -46,7 +46,7 @@ translate vietnamese kiara_x2_9169f763:
 translate vietnamese kiara_x2_c8dafd6d:
 
     # kiara "Ah.."
-    kiara "Ah.."
+    kiara "Ah..."
 
 # game/characters/kiara/x2.rpy:39
 translate vietnamese kiara_x2_slow1_6a316fd6:
@@ -492,4 +492,3 @@ translate vietnamese kiara_x2_e3c59672:
 
     # me "Holy.. Am I in the heavens?"
     me "Holy.. Am I in the heavens?"
-

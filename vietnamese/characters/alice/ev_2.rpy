@@ -22,7 +22,7 @@ translate vietnamese alice_2_6b2a5354:
 translate vietnamese alice_2_bef19229:
 
     # me "Umm.. What are you doing here?"
-    me "Umm.. em đang làm gì ở đây vậy?"
+    me "Ờm... em đang làm gì ở đây vậy?"
 
 # game/characters/alice/ev_2.rpy:10
 translate vietnamese alice_2_2a144350:
@@ -46,7 +46,7 @@ translate vietnamese alice_2_74f05a4e:
 translate vietnamese alice_2_727794f4:
 
     # "You look at each other for a minute, and you start feeling awkward."
-    "Bạn nhìn nhau trong một phút, và bạn bắt đầu cảm thấy khó xử."
+    "Cả hai nhìn nhau trong một phút, và bạn bắt đầu cảm thấy khó xử."
 
 # game/characters/alice/ev_2.rpy:14
 translate vietnamese alice_2_95db7dd8:
@@ -64,7 +64,7 @@ translate vietnamese alice_2_22fd8dc4:
 translate vietnamese alice_2_256ee0b6:
 
     # th "She is toying with me again!"
-    th "Em ấy lại đùa giỡn với mình rồi!"
+    th "Em ấy lại trêu mình rồi!"
 
 # game/characters/alice/ev_2.rpy:18
 translate vietnamese alice_2_ff123162:
@@ -94,7 +94,7 @@ translate vietnamese alice_2_33367e39:
 translate vietnamese alice_2_2eaa7b94:
 
     # alice "Do you take me for some kind of whore?"
-    alice "Vậy anh nghĩ em là loại phò gì?"
+    alice "Vậy anh nghĩ em là loại phụ nữ gì?"
 
 # game/characters/alice/ev_2.rpy:31
 translate vietnamese alice_2_d61fc031:
@@ -106,7 +106,7 @@ translate vietnamese alice_2_d61fc031:
 translate vietnamese alice_2_1c520ba9:
 
     # me "N-No, sorry I went overboard."
-    me "K-Không, xin lỗi anh đã đi quá mức."
+    me "Không, xin lỗi anh đã quá đà rồi."
 
 # game/characters/alice/ev_2.rpy:34
 translate vietnamese alice_2_684cff90:
@@ -160,7 +160,7 @@ translate vietnamese alice_2_13dffb78:
 translate vietnamese alice_2_9f032116:
 
     # alice "{color=#FF958F}[[Charisma check failed]{/color} Pfft! You wish!"
-    alice "{color=#FF958F}[[Sức thu hút không đủ]{/color} Pfft! mơ đi!"
+    alice "{color=#FF958F}[[Sức thu hút không đủ]{/color} Haha! mơ đi!"
 
 # game/characters/alice/ev_2.rpy:55
 translate vietnamese alice_2_87779cbd:
@@ -202,7 +202,7 @@ translate vietnamese alice_2_1a_c860093f:
 translate vietnamese alice_2_1a_376314ab:
 
     # alice "Well maybe I've just fallen for you?"
-    alice "Có lẽ em vừa đổ anh?"
+    alice "Chắc là tại em đổ anh rồi."
 
 # game/characters/alice/ev_2.rpy:71
 translate vietnamese alice_2_1a_3c835eda:
@@ -226,13 +226,13 @@ translate vietnamese alice_2_1a_e3fc31e0:
 translate vietnamese alice_2_1a_4e855eae:
 
     # alice "Yeah, that too."
-    alice "Ừ, điều đó nữa."
+    alice "Phải đấy, điều đó nữa."
 
 # game/characters/alice/ev_2.rpy:78
 translate vietnamese alice_2_1a_eeef5eba:
 
     # alice "So now that I've taken a look at you it's time to do something useful."
-    alice "Giờ en đã nhìn đủ rồi, đã đến lúc em làm điều gì đó hữu ích đây."
+    alice "Giờ em đã nhìn đủ rồi, đã đến lúc em làm điều gì đó hữu ích đây."
 
 # game/characters/alice/ev_2.rpy:79
 translate vietnamese alice_2_1a_cdb4ee28:
@@ -250,7 +250,7 @@ translate vietnamese alice_2_1a_65164b51:
 translate vietnamese alice_2_1a_30a2663a:
 
     # alice "Bye bye!"
-    alice "Bye bye!"
+    alice "Bái bai!"
 
 # game/characters/alice/ev_2.rpy:85
 translate vietnamese alice_2_1a_ad25ac73:
@@ -298,7 +298,7 @@ translate vietnamese alice_2_1b_c860093f:
 translate vietnamese alice_2_1b_376314ab:
 
     # alice "Well maybe I've just fallen for you?"
-    alice "Có lẽ em vừa đổ anh đấy?"
+    alice "Chắc là tại em đổ anh rồi."
 
 # game/characters/alice/ev_2.rpy:100
 translate vietnamese alice_2_1b_3c835eda:
@@ -390,12 +390,11 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_2.rpy:23
     old "I won't play your games"
-    new "Anh sẽ không chơi mấy cái trò chơi của em đâu"
+    new "Anh sẽ không chơi mấy cái trò nhảm nhí của em đâu"
 # TODO: Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
     # game/characters/alice/ev_2.rpy:84
     old "Toying with me seems to be her hobby."
-    new "Toying with me seems to be her hobby."
-
+    new "Đùa giỡn với mình dường như là sở thích của cô ấy."

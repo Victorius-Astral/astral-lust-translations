@@ -11,5 +11,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_Moon.rpy:6
     old "The Moon"
-    new "The Moon"
-
+    new "Mặt Trăng"

@@ -4,7 +4,7 @@
 translate vietnamese sleep_alice_23ee33cd:
 
     # th "[alice].. [alice].. Little, horny [alice].."
-    th "[alice].. [alice].. Một chút hứng tình [alice].."
+    th "[alice]... [alice]... Một chút hứng tình [alice].."
 
 # game/characters/alice/sleep.rpy:10
 translate vietnamese sleep_alice_9ebac051:
@@ -22,7 +22,7 @@ translate vietnamese sleep_alice_3fb5372e:
 translate vietnamese sleep_alice_f4e11991:
 
     # th "Her skin is so soft.. I wonder how she does it in the apocalypse."
-    th "Da em ấy thật mềm.. mình tự hỏi em ấy làm điều đó trong ngày tận thế như thế nào."
+    th "Da em ấy thật mềm... mình tự hỏi em ấy làm điều đó trong ngày tận thế như thế nào."
 
 # game/characters/alice/sleep.rpy:19
 translate vietnamese sleep_alice_26d391f2:
@@ -40,7 +40,7 @@ translate vietnamese sleep_alice_3820771a:
 translate vietnamese sleep_alice_2c0a3960:
 
     # th "She didn't kill me previously, this time it won't be very bad.. Probably."
-    th "Trước đây em ấy không giết mình, lần này sẽ không tệ lắm đâu.. chắc vậy."
+    th "Trước đây em ấy không giết mình, lần này sẽ không tệ lắm đâu... chắc vậy."
 
 # game/characters/alice/sleep.rpy:28
 translate vietnamese sleep_alice_e83b84f9:
@@ -166,7 +166,7 @@ translate vietnamese sleep_alice_sleepover_888d33a4:
 translate vietnamese sleep_alice_sleepover_312ba666:
 
     # me "How was yo.. wait.."
-    me "Em thế nà.. đợi đã.."
+    me "Em thế nà... đợi đã..."
 
 # game/characters/alice/sleep.rpy:90
 translate vietnamese sleep_alice_sleepover_ea2c91fb:
@@ -196,7 +196,7 @@ translate vietnamese sleep_alice_sleepover_799ded38:
 translate vietnamese sleep_alice_sleepover_19c66564:
 
     # me "I like where it is goin'."
-    me "Anh thích cách mà việc này sẽ đến'."
+    me "Anh thích cách mà việc này sắp xảy ra đấy."
 
 # game/characters/alice/sleep.rpy:99
 translate vietnamese sleep_alice_sleepover_4d75666d:
@@ -208,13 +208,13 @@ translate vietnamese sleep_alice_sleepover_4d75666d:
 translate vietnamese sleep_alice_sleepover_5c1bf8d4:
 
     # "{color=#FF958F}[[Relationship check failed]{/color}"
-    "{color=#FF958F}[[Mức độ tình cảm không]{/color}"
+    "{color=#FF958F}[[Mức độ tình cảm không đủ]{/color}"
 
 # game/characters/alice/sleep.rpy:109
 translate vietnamese sleep_alice_sleepover_619217b5:
 
     # alice "How about you sleep in your own bed?"
-    alice "Anh ngủ trên giường của chính mình thì sao?"
+    alice "Anh ngủ trên giường của chính mình thì sao nào?"
 
 # game/characters/alice/sleep.rpy:110
 translate vietnamese sleep_alice_sleepover_efe24489:
@@ -256,7 +256,7 @@ translate vietnamese sleep_alice_hj_c2861e65:
 translate vietnamese sleep_alice_hj_43ab313c:
 
     # me "This, I can see. I'll make sure to be a good student, professor."
-    me "Điều này, anh có thể thấy. Anh sẽ đảm bảo là một học sinh giỏi, thưa giáo sư."
+    me "Anh thấy rồi. Anh sẽ đảm bảo là một học sinh giỏi đấy, thưa giáo sư."
 
 # game/characters/alice/sleep.rpy:123
 translate vietnamese sleep_alice_hj_511a40af:
@@ -280,7 +280,7 @@ translate vietnamese sleep_alice_hj_3260d0a2:
 translate vietnamese sleep_alice_hj_90fb30f1:
 
     # me "Ohh.. You're good at this."
-    me "Ohh.. Em giỏi cái này đấy."
+    me "Ohh... Em giỏi vụ này đấy."
 
 # game/characters/alice/sleep.rpy:133
 translate vietnamese sleep_alice_hj_2de21fb9:
@@ -328,7 +328,7 @@ translate vietnamese sleep_alice_hj_4e84449c:
 translate vietnamese sleep_alice_hj_22033369:
 
     # alice "I know~"
-    alice "I know~"
+    alice "Em biết~"
 
 # game/characters/alice/sleep.rpy:154
 translate vietnamese sleep_alice_hj_0f0ba74d:
@@ -340,13 +340,13 @@ translate vietnamese sleep_alice_hj_0f0ba74d:
 translate vietnamese sleep_alice_hj_bf045400:
 
     # me "Very.. good.. girl.."
-    me "Very.. good.. girl.."
+    me "Cô gái... rất... tốt..."
 
 # game/characters/alice/sleep.rpy:156
 translate vietnamese sleep_alice_hj_4040ff0d:
 
     # alice "Haha~ I love it when you praise me."
-    alice "Haha~ Em thích nó khi anh khen ngợi em."
+    alice "Haha~ Em rất thích khi anh khen ngợi em."
 
 # game/characters/alice/sleep.rpy:163
 translate vietnamese sleep_alice_hj_1735f07e:
@@ -358,7 +358,7 @@ translate vietnamese sleep_alice_hj_1735f07e:
 translate vietnamese sleep_alice_hj_5ee5ec93:
 
     # alice "Cum for me. But, please don't get any on my ceiling. I'm too short to clean there."
-    alice "Ra cho em. Nhưng, xin đừng bắn bất kỳ thứ gì trên trần nhà của em đấy. Em quá lùn để lau ở đó."
+    alice "Ra cho em đi. Nhưng, xin đừng bắn bất kỳ thứ gì trên trần nhà của em đấy. Em quá lùn để lau ở đó."
 
 # game/characters/alice/sleep.rpy:165
 translate vietnamese sleep_alice_hj_4a8ccba2:
@@ -382,7 +382,7 @@ translate vietnamese sleep_alice_hj_ae2cb410:
 translate vietnamese sleep_alice_hj_bfe648fc:
 
     # alice "It seems I only need to clean my bed, and the floor."
-    alice "Có vẻ như em chỉ cần lau giường và sàn nhà."
+    alice "Có vẻ như em chỉ cần lau giường và sàn nhà thôi."
 
 # game/characters/alice/sleep.rpy:177
 translate vietnamese sleep_alice_hj_1ef2dafc:

@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/def/Healing.rpy:6
     old "Healing"
-    new "Healing"
-
+    new "Hồi Phục"

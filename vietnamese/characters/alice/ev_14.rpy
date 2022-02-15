@@ -28,7 +28,7 @@ translate vietnamese alice_14_3820771a:
 translate vietnamese alice_14_11d28569:
 
     # alice "You even locked someone there.. Not sure if I want to know what you do with your prisoners."
-    alice "Anh thậm chí còn nhốt ai đó ở đó nữa.. em còn không chắc là mình có muốn biết anh làm gì với tù nhân của anh không nữa."
+    alice "Anh thậm chí còn nhốt ai đó ở đấy cơ... em còn không chắc là mình có muốn biết anh làm gì với tù nhân của anh không nữa."
 
 # game/characters/alice/ev_14.rpy:27
 translate vietnamese alice_14_ad31009f:
@@ -64,7 +64,7 @@ translate vietnamese alice_14_4f7233d1:
 translate vietnamese alice_14_9e42975d:
 
     # me "Uh.. Wow.."
-    me "Uh.. Wow.."
+    me "Uh... Wow..."
 
 # game/characters/alice/ev_14.rpy:45
 translate vietnamese alice_14_a289625b:
@@ -88,13 +88,13 @@ translate vietnamese alice_14_part2_d180988e:
 translate vietnamese alice_14_part2_ec4e92c2:
 
     # alice "So.."
-    alice "Thế thì.."
+    alice "Thế..."
 
 # game/characters/alice/ev_14.rpy:73
 translate vietnamese alice_14_part2_f660d172:
 
     # me "So?"
-    me "Thì?"
+    me "Thế?"
 
 # game/characters/alice/ev_14.rpy:74
 translate vietnamese alice_14_part2_f85609cd:
@@ -124,7 +124,7 @@ translate vietnamese alice_14_part2_da61283f:
 translate vietnamese alice_14_part2_a9d7bf98:
 
     # me "I think I got an idea.."
-    me "Anh nghĩ là anh có một ý tưởng đấy.."
+    me "Anh nghĩ là anh có một ý tưởng đấy."
 
 # game/characters/alice/ev_14.rpy:102
 translate vietnamese alice_14_part2_c7e67419:
@@ -136,7 +136,7 @@ translate vietnamese alice_14_part2_c7e67419:
 translate vietnamese alice_14_part2_cadd1e0c:
 
     # me "Hehe, that's a surprise.."
-    me "Hêhê, đó sẽ là một sự bất ngờ.."
+    me "Hêhê, đó sẽ là một sự bất ngờ..."
 
 # game/characters/alice/ev_14.rpy:108
 translate vietnamese alice_14_part2_9e40943f:
@@ -166,13 +166,13 @@ translate vietnamese alice_14_part2_3352070d:
 translate vietnamese alice_14_part2_f38d9210:
 
     # me "Let's start with undressing you...."
-    me "Hãy bắt đầu với việc cởi quần áo cho em nào...."
+    me "Hãy bắt đầu với việc cởi quần áo cho em nào..."
 
 # game/characters/alice/ev_14.rpy:120
 translate vietnamese alice_14_part2_d009a09d:
 
     # alice "Cold.. What is it?"
-    alice "Lạnh quá.. Cái gì vậy?"
+    alice "Lạnh quá... Cái gì vậy?"
 
 # game/characters/alice/ev_14.rpy:121
 translate vietnamese alice_14_part2_5a013792:
@@ -202,7 +202,7 @@ translate vietnamese alice_14_part2_292612fa:
 translate vietnamese alice_14_part2_48ddd1ae:
 
     # me "You wanted something new."
-    me "Em muốn một cái gì đó mới mẻ đúng không."
+    me "Em muốn một cái gì đó mới mẻ đúng không?"
 
 # game/characters/alice/ev_14.rpy:126
 translate vietnamese alice_14_part2_82bdeeda:
@@ -214,7 +214,7 @@ translate vietnamese alice_14_part2_82bdeeda:
 translate vietnamese alice_14_part2_40325204:
 
     # alice "Oh? What is it?"
-    alice "Ồ? Nó là cái gì vậy?"
+    alice "Ồ? Đây là cái gì vậy?"
 
 # game/characters/alice/ev_14.rpy:131
 translate vietnamese alice_14_part2_a6b77de4:
@@ -226,7 +226,7 @@ translate vietnamese alice_14_part2_a6b77de4:
 translate vietnamese alice_14_part2_a915c093:
 
     # alice "And, ummm.. What's its use?"
-    alice "Và, ummm.. Công dụng của nó là gì?"
+    alice "Và, ummm... Công dụng của nó là gì?"
 
 # game/characters/alice/ev_14.rpy:136
 translate vietnamese alice_14_part2_9ca4bd2b:
@@ -244,7 +244,7 @@ translate vietnamese alice_14_part2_2fe6da5c:
 translate vietnamese alice_14_part2_0f4b199c:
 
     # alice "I think I've figured it out."
-    alice "Em nghĩ rằng em đã hiểu rồi."
+    alice "Em nghĩ là mình đã hiểu rồi."
 
 # game/characters/alice/ev_14.rpy:142
 translate vietnamese alice_14_part2_1dbe2ddc:
@@ -256,7 +256,7 @@ translate vietnamese alice_14_part2_1dbe2ddc:
 translate vietnamese alice_14_part2_28d63b25:
 
     # alice "If I'm to be honest, being bound by you like this.. is hot."
-    alice "Để mà nói thật thì, bị trói bởi anh như thế này cũng.. khá là nóng bỏng."
+    alice "Để mà nói thật thì, bị trói bởi anh như thế này cũng... khá là hot đấy."
 
 # game/characters/alice/ev_14.rpy:147
 translate vietnamese alice_14_part2_a68f7064:

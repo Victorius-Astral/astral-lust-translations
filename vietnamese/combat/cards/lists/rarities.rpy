@@ -11,7 +11,7 @@ translate vietnamese strings:
     new "Hiếm"
 
     # game/combat/cards/lists/rarities.rpy:1
-    old "Thần thoại"
+    old "Legendary"
     new "Huyền thoại"
 
     # game/combat/cards/lists/rarities.rpy:1
@@ -35,5 +35,4 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Mythical"
-    new "Mythical"
-
+    new "Thần thoại"

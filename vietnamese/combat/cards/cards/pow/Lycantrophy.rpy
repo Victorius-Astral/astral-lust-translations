@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/pow/Lycantrophy.rpy:6
     old "Lycanthropy"
-    new "Lycanthropy"
-
+    new "Nguyệt Lang"

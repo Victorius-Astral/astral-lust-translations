@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/off/Kick.rpy:6
     old "Kick"
-    new "Kick"
-
+    new "Đá Vòng"

@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/pow/Dragonborn.rpy:6
     old "Dragonborn"
-    new "Dragonborn"
-
+    new "Bạo Long"

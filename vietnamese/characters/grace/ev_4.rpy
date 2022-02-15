@@ -369,5 +369,4 @@ translate vietnamese strings:
 
     # game/characters/grace/ev_4.rpy:84
     old "She never met her father. Her mother kept saying he has never visited Grace because he doesn't love her."
-    new "She never met her father. Her mother kept saying he has never visited Grace because he doesn't love her."
-
+    new "Cô ấy chưa bao giờ gặp cha mình. Mẹ cô ấy luôn nói rằng ông ấy chưa bao giờ đến thăm Grace vì ông ấy không yêu cô."

@@ -16,13 +16,13 @@ translate vietnamese alice_8_05acec03:
 translate vietnamese alice_8_c063322e:
 
     # th "I'm peeking at her again. I wonder if she's ever going to hate me because of it."
-    th "Mình lại nhìn trộm em ấy. Không biết em ấy có bao giờ ghét vì điều này không."
+    th "Mình lại nhìn trộm em ấy. Không biết em ấy có bao giờ ghét mình vì điều này không."
 
 # game/characters/alice/ev_8.rpy:28
 translate vietnamese alice_8_4417ab7c:
 
     # th "Alas, I can't help myself."
-    th "Lậy chúa con không thể kìm lại dược."
+    th "Lậy chúa con không thể kìm lại được."
 
 # game/characters/alice/ev_8.rpy:31
 translate vietnamese alice_8_5a73f1cc:
@@ -142,7 +142,7 @@ translate vietnamese alice_8_74f05a4e_1:
 translate vietnamese alice_8_755f1b67:
 
     # me "Isn't it the one you took from that sex shop?"
-    me "Không phải nó là người bạn mà em lấy từ Sex shop sao?"
+    me "Không phải đây là người bạn mà em lấy từ Sex shop sao?"
 
 # game/characters/alice/ev_8.rpy:68
 translate vietnamese alice_8_6de3c1f2:
@@ -178,7 +178,7 @@ translate vietnamese alice_8_0b1c0703:
 translate vietnamese alice_8_1b6e7d5a:
 
     # me "Then wher.. oh.."
-    me "Thế thì ở... à.."
+    me "Thế thì ở... à..."
 
 # game/characters/alice/ev_8.rpy:75
 translate vietnamese alice_8_74f05a4e_2:
@@ -244,13 +244,13 @@ translate vietnamese alice_8_3ba34f9b:
 translate vietnamese alice_8_c2c1ae3e:
 
     # me "[alice] you were still in high school when the world ended. Honestly, I don't know why I'm that surprised."
-    me "[alice] Anh vẫn còn học trung học phổ thông khi thế giới kết thúc á. Thành thật mà nói, em không biết tại sao mình lại ngạc nhiên nữa."
+    me "[alice] Anh vẫn còn học trung học phổ thông khi thế giới kết thúc á? Thành thật mà nói, em không biết tại sao mình lại ngạc nhiên nữa."
 
 # game/characters/alice/ev_8.rpy:97
 translate vietnamese alice_8_42b27750:
 
     # alice "So, you don't think I'm weird or.. I don't know.. I just.."
-    alice "Thế thì, Anh không nghĩ em kỳ lạ hay.. em không biết nữa.. em chỉ.."
+    alice "Thế thì, Anh không nghĩ em kỳ lạ hay... em không biết nữa... em chỉ..."
 
 # game/characters/alice/ev_8.rpy:98
 translate vietnamese alice_8_978fb13d:
@@ -286,7 +286,7 @@ translate vietnamese alice_8_98a23564:
 translate vietnamese alice_8_14d2e185:
 
     # me "You didn't need to."
-    me "Em không cần phải."
+    me "Em không cần phải đồng ý đâu."
 
 # game/characters/alice/ev_8.rpy:115
 translate vietnamese alice_8_e235737e:
@@ -298,7 +298,7 @@ translate vietnamese alice_8_e235737e:
 translate vietnamese alice_8_b94a6a0f:
 
     # alice "Hmph!"
-    alice "Hmph!"
+    alice "Hứ!"
 
 # game/characters/alice/ev_8.rpy:123
 translate vietnamese alice_8_bb114a05:
@@ -310,7 +310,7 @@ translate vietnamese alice_8_bb114a05:
 translate vietnamese alice_8_c7a7618e:
 
     # me "As if I did."
-    me "Như thể anh đã làm vậy."
+    me "Như thể anh là người đàn ông của em vậy."
 
 # game/characters/alice/ev_8.rpy:126
 translate vietnamese alice_8_74f05a4e_3:
@@ -352,7 +352,7 @@ translate vietnamese alice_8_menu1_4a6824d7:
 translate vietnamese alice_8_menu1_c44d808d:
 
     # "You press the head of your dick against her. She is already stretched and lubed from using the dildo, so you glide in with little resistance."
-    "Bạn ấn đầu cu của mình vào. Cô ấy đã được kéo giãn và được bôi trơn từ việc sử sextoy, vì vậy bạn đi vào mà không có chút lực cản nào."
+    "Bạn ấn đầu cu của mình vào. Cô ấy đã được kéo giãn và được bôi trơn từ việc sử dụng sextoy, vì vậy bạn đi vào mà không có chút lực cản nào."
 
 # game/characters/alice/ev_8.rpy:179
 translate vietnamese alice_8_menu1_b09091bb:
@@ -394,7 +394,7 @@ translate vietnamese alice_8_menu1_117a772e:
 translate vietnamese alice_8_menu1_617fc709:
 
     # alice "Yeeesss~"
-    alice "Yeeesss~"
+    alice "Đúng rồiii~"
 
 # game/characters/alice/ev_8.rpy:201
 translate vietnamese alice_8_menu1_6015a7a4:
@@ -454,7 +454,7 @@ translate vietnamese alice_8_menu1_8b6f0399:
 translate vietnamese alice_8_menu1_1eda25ab:
 
     # alice "{size=-10}Mm~.{/size}"
-    alice "{size=-10}Mm~.{/size}"
+    alice "{size=-10}Ừm~.{/size}"
 
 # game/characters/alice/ev_8.rpy:216
 translate vietnamese alice_8_menu1_ae7efb49:
@@ -478,7 +478,7 @@ translate vietnamese alice_8_menu1_eba39e74:
 translate vietnamese alice_8_menu1_dd017547:
 
     # "After clothing yourself and putting a towel on [alice] you piggyback her."
-    "Sau khi tự mặc quần áo và chùm khăn tắm cho [alice], bạn cõng cô ấy."
+    "Sau khi tự mặc quần áo và quàng khăn tắm cho [alice], bạn cõng cô ấy."
 
 # game/characters/alice/ev_8.rpy:224
 translate vietnamese alice_8_menu1_18b07e92:
@@ -556,7 +556,7 @@ translate vietnamese alice_8_part3_74f05a4e:
 translate vietnamese alice_8_part3_c1fd6fcd:
 
     # "She kicked you square in the balls!"
-    "Cô ấy đá vào, à nhầm xin vĩnh biệt cụ"
+    "Xin vĩnh biệt cụ"
 
 # game/characters/alice/ev_8.rpy:276
 translate vietnamese alice_8_part3_958f00c0:
@@ -568,7 +568,7 @@ translate vietnamese alice_8_part3_958f00c0:
 translate vietnamese alice_8_part3_f58e393b:
 
     # th "Fuck! My precious.."
-    th "Mẹ kiếp! 2 quả cà của mình.."
+    th "Mẹ kiếp! thứ quý giá của mình..."
 
 # game/characters/alice/ev_8.rpy:280
 translate vietnamese alice_8_part3_73b3c848:
@@ -608,15 +608,15 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_8.rpy:48
     old "What's that thing behind you?"
-    new "Cái đó đằng em là gì?"
+    new "Cái đằng em là gì đấy?"
 
     # game/characters/alice/ev_8.rpy:79
     old "You're kidding me!"
-    new "Em hẳn đang đùa anh!"
+    new "Em đang đùa anh thôi!"
 
     # game/characters/alice/ev_8.rpy:79
     old "I didn't expect that"
-    new "Anh không ngờ đến điều đó"
+    new "Anh không ngờ đến điều đó đấy"
 
     # game/characters/alice/ev_8.rpy:91
     old "Are you kidding me, that's fantastic!"
@@ -656,7 +656,7 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_8.rpy:249
     old "Yeah, let's do this"
-    new "Yeahhhh, Hãy thử đi"
+    new "Yeah, Hãy làm đi"
 
     # game/characters/alice/ev_8.rpy:249
     old "I was joking"
@@ -666,34 +666,33 @@ translate vietnamese strings:
 translate vietnamese strings:
 
     # game/characters/alice/ev_8.rpy:144
-    old "Charisma check passed]"
-    new "Charisma check passed]"
+    old " [Charisma check passed]"
+    new " [Sức thu hút đạt yêu cầu]"
 
     # game/characters/alice/ev_8.rpy:146
-    old "Charisma check failed]"
-    new "Charisma check failed]"
+    old " [Charisma check failed]"
+    new " [Sức thu hút không đủ]"
 
     # game/characters/alice/ev_8.rpy:149
     old " [Relationship check passed]"
-    new " [Relationship check passed]"
+    new " [Mức độ quan hệ đạt yêu cầu]"
 
     # game/characters/alice/ev_8.rpy:151
     old " [Relationship check failed]"
-    new " [Relationship check failed]"
+    new " [Mức độ quan hệ không đủ]"
 
     # game/characters/alice/ev_8.rpy:154
     old " [Trust check passed]"
-    new " [Trust check passed]"
+    new " [Mức độ tin tưởng đạt yêu cầu]"
 
     # game/characters/alice/ev_8.rpy:156
     old " [Trust check failed]"
-    new " [Trust check failed]"
+    new " [Mức độ tin tưởng không đủ]"
 
     # game/characters/alice/ev_8.rpy:159
     old " [Lust check passed]"
-    new " [Lust check passed]"
+    new " [Mức độ ham muốn đạt yêu cầu]"
 
     # game/characters/alice/ev_8.rpy:161
     old " [Lust check failed]"
-    new " [Lust check failed]"
-
+    new " [Mức độ ham muốn không đủ]"

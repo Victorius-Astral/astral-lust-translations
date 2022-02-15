@@ -10,25 +10,25 @@ translate vietnamese speak_alice_56062ced:
 translate vietnamese speak_alice_ab868826:
 
     # alice "Hey.."
-    alice "Này.."
+    alice "Này..."
 
 # game/characters/alice/speak.rpy:19
 translate vietnamese speak_alice_6688f373:
 
     # alice "Heya~"
-    alice "Này anh~"
+    alice "Chào anh~"
 
 # game/characters/alice/speak.rpy:41
 translate vietnamese speak_alice_menu1_2efa8c0a:
 
     # alice "I'm feeling sick. I think I caught something when I was out scavenging."
-    alice "Em đang cảm thấy buồn nôn. Em nghĩ rằng mình đã bị bệnh khi em đang đi nhặt đồ."
+    alice "Em đang cảm thấy buồn nôn. Em nghĩ rằng mình đã bị bệnh khi em đang đi ra ngoài kiếm đồ."
 
 # game/characters/alice/speak.rpy:42
 translate vietnamese speak_alice_menu1_a9f53024:
 
     # alice "I feel like I'm dying.."
-    alice "Em cảm thấy như em sắp chết rồi.."
+    alice "Em cảm thấy như em sắp chết rồi..."
 
 # game/characters/alice/speak.rpy:46
 translate vietnamese speak_alice_menuev9_e9077839:
@@ -40,7 +40,7 @@ translate vietnamese speak_alice_menuev9_e9077839:
 translate vietnamese speak_alice_menuev9_3049d90d:
 
     # alice "Thank you. It should help."
-    alice "Cảm ơn anh. Nó sẽ giúp em đỡ hơn."
+    alice "Cảm ơn anh. Nó sẽ giúp em đỡ hơn đấy."
 
 # game/characters/alice/speak.rpy:50
 translate vietnamese speak_alice_menuev9_aa68854e:
@@ -64,7 +64,7 @@ translate vietnamese speak_alice_menuev9_71e87485:
 translate vietnamese speak_alice_menuev9_5d29181d:
 
     # alice "Weird. I feel better.. What's happening?"
-    alice "Kỳ lạ. Em cảm thấy tốt hơn rồi.. Chuyện gì vừa xảy ra vậy?"
+    alice "Kỳ lạ. Em cảm thấy tốt hơn rồi... Chuyện gì vừa xảy ra vậy?"
 
 # game/characters/alice/speak.rpy:67
 translate vietnamese speak_alice_menuev9_cb647bc0:
@@ -214,7 +214,7 @@ translate vietnamese speak_alice_menuev9_231e4f45:
 translate vietnamese speak_alice_menuev9_5d6b5979:
 
     # me "Wait, what? I'm very go.."
-    me "Chờ đã, cái gì? Anh rất ng.."
+    me "Chờ đã, cái gì? Anh rất ng..."
 
 # game/characters/alice/speak.rpy:126
 translate vietnamese speak_alice_menuev9_bce84c30:
@@ -238,37 +238,37 @@ translate vietnamese speak_alice_menuev9_3ab04ce7:
 translate vietnamese speak_alice_menuev9_ab32099c:
 
     # alice "Boooriiinggg.."
-    alice "Nhàm chánnnn.."
+    alice "Nhàm chánnn..."
 
 # game/characters/alice/speak.rpy:140
 translate vietnamese speak_alice_menuev9_6f372945:
 
     # me "... You're boring.."
-    me "... Em mới chán đấy.."
+    me "... Em mới chán đấy..."
 
 # game/characters/alice/speak.rpy:149
 translate vietnamese speak_alice_menuev9_cde3d046:
 
     # alice "Of course, daddy~"
-    alice "Tất nhiên rồi, daddy~"
+    alice "Tất nhiên rồi~"
 
 # game/characters/alice/speak.rpy:150
 translate vietnamese speak_alice_menuev9_7952d572:
 
     # alice "How do you want your little girl to wake you up?"
-    alice "Bố muốn con gái nhỏ của mình đánh thức như thế nào??"
+    alice "Anh muốn em đánh thức như thế nào??"
 
 # game/characters/alice/speak.rpy:154
 translate vietnamese speak_alice_menuev9_82b1d477:
 
     # alice "sure thing, daddy~"
-    alice "Chắc chắn rồi, daddy~"
+    alice "Chắc chắn rồi~"
 
 # game/characters/alice/speak.rpy:161
 translate vietnamese speak_alice_menuev9_82b1d477_1:
 
     # alice "sure thing, daddy~"
-    alice "Chắc rồi, daddy~"
+    alice "Được thôi~"
 
 # game/characters/alice/speak.rpy:168
 translate vietnamese speak_alice_menuev9_4988c52a:
@@ -280,7 +280,7 @@ translate vietnamese speak_alice_menuev9_4988c52a:
 translate vietnamese speak_alice_outfits_e98034ac:
 
     # alice "So you are going to get me to make a gift for myself? How.. original.."
-    alice "Vậy anh định để em làm một món quà cho chính mình...?"
+    alice "Vậy anh định để em làm một món quà cho chính mình á...?"
 
 # game/characters/alice/speak.rpy:174
 translate vietnamese speak_alice_outfits_3820771a:
@@ -316,31 +316,31 @@ translate vietnamese speak_alice_outfits_89407595:
 translate vietnamese speak_alice_outfits_07ab9ca6:
 
     # alice "If you wish so.."
-    alice "Nếu anh muốn như vậy.."
+    alice "Nếu anh muốn như vậy..."
 
 # game/characters/alice/speak.rpy:208
 translate vietnamese speak_alice_outfits_192bde7b:
 
     # alice "Someone's going to get naughty, right daddy?. I would need 15 Cloth to make it. Want me to do this?"
-    alice "Ai đó sắp trở nên hư hỏng này, phải không daddy? Con sẽ cần 15 Vải để làm nó."
+    alice "Ai đó sắp trở nên hư hỏng này, phải không? Em sẽ cần 15 Vải để làm nó."
 
 # game/characters/alice/speak.rpy:214
 translate vietnamese speak_alice_outfits_a838aa40_1:
 
     # alice "Sure I'll start immediately."
-    alice "Chắc chắn rồi con sẽ bắt đầu ngay lập tức."
+    alice "Chắc chắn rồi em sẽ bắt đầu ngay lập tức."
 
 # game/characters/alice/speak.rpy:224
 translate vietnamese speak_alice_outfits_89407595_1:
 
     # alice "First get the stuff needed."
-    alice "Trước tiên daddy hãy lấy những thứ cần thiết đã."
+    alice "Trước tiên anh hãy lấy những thứ cần thiết đã."
 
 # game/characters/alice/speak.rpy:230
 translate vietnamese speak_alice_outfits_07ab9ca6_1:
 
     # alice "If you wish so.."
-    alice "Nếu anh muốn vậy.."
+    alice "Nếu anh muốn vậy..."
 
 # game/characters/alice/speak.rpy:236
 translate vietnamese speak_alice_outfits_ae978bb1:
@@ -364,7 +364,7 @@ translate vietnamese speak_alice_outfits_89407595_2:
 translate vietnamese speak_alice_outfits_07ab9ca6_2:
 
     # alice "If you wish so.."
-    alice "Nếu anh muốn vậy.."
+    alice "Nếu anh muốn vậy..."
 
 # game/characters/alice/speak.rpy:269
 translate vietnamese speak_alice_outfits_aae4df87:
@@ -400,13 +400,13 @@ translate vietnamese speak_alice_outfits_89407595_3:
 translate vietnamese speak_alice_outfits_07ab9ca6_3:
 
     # alice "If you wish so.."
-    alice "Nếu anh muốn vậy.."
+    alice "Nếu anh muốn vậy..."
 
 # game/characters/alice/speak.rpy:315
 translate vietnamese speak_alice_outfits_b211a70c:
 
     # alice "Daddy wants to pound [alice]'s little pussy again?"
-    alice "Bố lại muốn dập nát cái lồn nhỏ của [alice] nữa hả?"
+    alice "Anh lại muốn dập nát cái lồn nhỏ của [alice] nữa hả?"
 
 # game/characters/alice/speak.rpy:316
 translate vietnamese speak_alice_outfits_2d7dbb9a:
@@ -418,7 +418,7 @@ translate vietnamese speak_alice_outfits_2d7dbb9a:
 translate vietnamese speak_alice_outfits_1b3457b5:
 
     # alice "You know I could use you for something.."
-    alice "Anh biết đấy em có thể sử dụng anh cho một cái gì đó.."
+    alice "Anh biết đấy em có thể sử dụng anh cho một cái gì đó..."
 
 # game/characters/alice/speak.rpy:340
 translate vietnamese speak_alice_outfits_e20c2277:
@@ -448,7 +448,7 @@ translate vietnamese speak_alice_outfits_8bd0d7e1:
 translate vietnamese speak_alice_outfits_cb8a02c6:
 
     # alice "Ohh.. This little girl is going to be played by you again mister."
-    alice "Ohh.. Cô gái nhỏ này sẽ lại được chơi bởi ngài đấy, thưa ngài."
+    alice "Ohh... Cô gái nhỏ này sẽ lại được chơi bởi ngài đấy, thưa ngài."
 
 # game/characters/alice/speak.rpy:361
 translate vietnamese speak_alice_outfits_b971ae2f:
@@ -460,19 +460,19 @@ translate vietnamese speak_alice_outfits_b971ae2f:
 translate vietnamese speak_alice_outfits_81e18fa7:
 
     # alice "You can just ask directly you know?"
-    alice "Anh chỉ cần hỏi trực tiếp thôi anh biết không?"
+    alice "Anh chỉ cần hỏi trực tiếp thôi mà?"
 
 # game/characters/alice/speak.rpy:365
 translate vietnamese speak_alice_outfits_c1769394:
 
     # me "Then will you blow me?"
-    me "Vậy thì em sẽ blowjob cho anh chứ?"
+    me "Vậy thì em sẽ buscu cho anh chứ?"
 
 # game/characters/alice/speak.rpy:368
 translate vietnamese speak_alice_outfits_7b75f538:
 
     # alice "W-What are you talking about mister? I'm only a little girl.."
-    alice "Ô-Ông đang nói gì vậy? Tôi chỉ là một cô bé.."
+    alice "Ô-Ông đang nói gì vậy? Tôi chỉ là một cô bé..."
 
 # game/characters/alice/speak.rpy:369
 translate vietnamese speak_alice_outfits_3820771a_1:
@@ -484,7 +484,7 @@ translate vietnamese speak_alice_outfits_3820771a_1:
 translate vietnamese speak_alice_outfits_388c714f:
 
     # me "Come to daddy."
-    me "Đến với bố nào."
+    me "Đến với daddy nào."
 
 # game/characters/alice/speak.rpy:373
 translate vietnamese speak_alice_outfits_0b60a0c3:
@@ -508,7 +508,7 @@ translate vietnamese speak_alice_outfits_fec91136:
 translate vietnamese speak_alice_outfits_a69a8806:
 
     # alice "What outfit do you want this little girl to wear, daddy?"
-    alice "Bố muốn cô gái nhỏ này mặc trang phục gì hả daddy?"
+    alice "Anh muốn cô gái nhỏ này mặc trang phục gì đây?"
 
 # game/characters/alice/speak.rpy:382
 translate vietnamese speak_alice_outfits_f4b76968:
@@ -520,7 +520,7 @@ translate vietnamese speak_alice_outfits_f4b76968:
 translate vietnamese speak_alice_outfits_f6adff98:
 
     # me "Can you give me a footjob?"
-    me "Em có thể footjob cho anh được không?"
+    me "Em có thể dùng chân được không?"
 
 # game/characters/alice/speak.rpy:400
 translate vietnamese speak_alice_outfits_4bcaf3b9:
@@ -556,7 +556,7 @@ translate vietnamese speak_alice_outfits_74f05a4e:
 translate vietnamese speak_alice_outfits_e8149e61:
 
     # alice "Lie down. What do you want me to wear?"
-    alice "Nằm xuống. Anh muốn em mặc gì?"
+    alice "Nằm xuống đi. Anh muốn em mặc gì nào?"
 
 # game/characters/alice/speak.rpy:413
 translate vietnamese speak_alice_outfits_35cada6d:
@@ -580,13 +580,13 @@ translate vietnamese speak_alice_outfits_af5f5d0a:
 translate vietnamese speak_alice_outfits_8f7b6901:
 
     # alice "Sure, what is it?"
-    alice "Chắc rồi, nó là gì?"
+    alice "Được thôi, anh muốn hỏi gì?"
 
 # game/characters/alice/speak.rpy:466
 translate vietnamese speak_alice_menu2_408e4544:
 
     # alice "I'm mostly responsible for making things. I use things Lexi brings from outside to make clothes or whatever we need. I have limited tools, though."
-    alice "Em chủ yếu chịu trách nhiệm về việc tạo ra mọi thứ. Em sử dụng những thứ Lexi mang từ bên ngoài để may quần áo hoặc bất cứ thứ gì chúng em cần. Tuy nhiên, em có một số hạn chế về công cụ ."
+    alice "Em chủ yếu chịu trách nhiệm về việc tạo ra mọi thứ. Em sử dụng những thứ Lexi mang từ bên ngoài để may quần áo hoặc bất cứ thứ gì chúng em cần. Tuy nhiên, em có một số hạn chế về công cụ."
 
 # game/characters/alice/speak.rpy:467
 translate vietnamese speak_alice_menu2_be011575:
@@ -622,7 +622,7 @@ translate vietnamese speak_alice_menu2_ec565397:
 translate vietnamese speak_alice_menu2_60af599e:
 
     # alice "Heh. Every.. single.. day.."
-    alice "Heh. Tất cả.. mọi.. ngày.."
+    alice "Heh. Tất cả... mọi... ngày..."
 
 # game/characters/alice/speak.rpy:475
 translate vietnamese speak_alice_menu2_b1096efb:
@@ -676,7 +676,7 @@ translate vietnamese speak_alice_menu2_3820771a_1:
 translate vietnamese speak_alice_menu2_940d8424:
 
     # alice "What, don't tell me you are tearing up. Don't be a pussy!"
-    alice "Cái gì, đừng nói với em là anh đang rơi nước mắt nhớ. Đungá là đồ đàn bà!"
+    alice "Cái gì, đừng nói với em là anh đang rơi nước mắt nhá? Đúng là đồ đàn bà mà!"
 
 # game/characters/alice/speak.rpy:494
 translate vietnamese speak_alice_menu2_dd2a341e:
@@ -700,7 +700,7 @@ translate vietnamese speak_alice_menu2_12038dc2:
 translate vietnamese speak_alice_menu2_a827a5cb:
 
     # alice "Hmph. No fun."
-    alice "Hừm. Không vui."
+    alice "Hứ. Không vui."
 
 # game/characters/alice/speak.rpy:500
 translate vietnamese speak_alice_menu2_e4dc27b7:
@@ -724,7 +724,7 @@ translate vietnamese speak_alice_menu2_3820771a_2:
 translate vietnamese speak_alice_menu2_340be731:
 
     # th "Be smarter [me], you are older than her.."
-    th "Thông minh lên đi [me], mày lớn tuổi hơn em nó mà.."
+    th "Thông minh lên đi [me], mày lớn tuổi hơn em nó mà..."
 
 # game/characters/alice/speak.rpy:506
 translate vietnamese speak_alice_menu2_0c482c39:
@@ -916,7 +916,7 @@ translate vietnamese speak_alice_magical_outfit_rachel_ee741fcf:
 translate vietnamese speak_alice_magical_outfit_rachel_393067ab:
 
     # me "I would rather not tell.."
-    me "Anh không muốn nói.."
+    me "Anh không muốn nói..."
 
 # game/characters/alice/speak.rpy:585
 translate vietnamese speak_alice_magical_outfit_rachel_1c77a2e1:
@@ -964,7 +964,7 @@ translate vietnamese speak_alice_magical_outfit_rachel_c1b9263a:
 translate vietnamese speak_alice_magical_outfit_rachel_1f14bced:
 
     # me "She had nowhere else to go.."
-    me "Cô ấy không có nơi nào khác để đi.."
+    me "Cô ấy không có nơi nào khác để đi..."
 
 # game/characters/alice/speak.rpy:601
 translate vietnamese speak_alice_magical_outfit_rachel_011e97e6:
@@ -988,7 +988,7 @@ translate vietnamese speak_alice_magical_outfit_rachel_257186c2:
 translate vietnamese speak_alice_magical_outfit_rachel_178d1453:
 
     # alice "You want magician girl outfit, right? Fine. I'll do it."
-    alice "Anh muốn trang phục nữ fap sư, phải không? Rồi. em sẽ làm nó."
+    alice "Anh muốn trang phục nữ pháp sư phải không? Rồi. em sẽ làm nó."
 
 # game/characters/alice/speak.rpy:613
 translate vietnamese speak_alice_magical_outfit_rachel_123f9f03:
@@ -1078,7 +1078,7 @@ translate vietnamese speak_alice_tasks_55a998d4:
 translate vietnamese speak_alice_tasks_d7144f1e:
 
     # me "Of course not.."
-    me "Dĩ nhiên là không.."
+    me "Dĩ nhiên là không rồi..."
 
 # game/characters/alice/speak.rpy:690
 translate vietnamese speak_alice_tasks_015461a6:
@@ -1138,7 +1138,7 @@ translate vietnamese speak_alice_tasks_4095caad:
 translate vietnamese speak_alice_question_jack_9b1f5d58:
 
     # alice "Oh.. He was a good, really nice person."
-    alice "Oh.. Anh ấy là một người tốt, thực sự tốt."
+    alice "Oh... Anh ấy là một người tốt, thực sự tốt."
 
 # game/characters/alice/speak.rpy:734
 translate vietnamese speak_alice_question_jack_5500212e:
@@ -1150,7 +1150,7 @@ translate vietnamese speak_alice_question_jack_5500212e:
 translate vietnamese speak_alice_question_jack_230f70ff:
 
     # alice "Well, that's how it is outside. I just hope he did die instead of becoming a monster.."
-    alice "Bên ngoài là vậy đấy. Em chỉ mong anh ấy chết thay vì biến thành một con quái vật.."
+    alice "Bên ngoài là vậy đấy. Em chỉ mong anh ấy chết thay vì biến thành một con quái vật..."
 
 # game/characters/alice/speak.rpy:736
 translate vietnamese speak_alice_question_jack_7d5722c2:
@@ -1168,7 +1168,7 @@ translate vietnamese speak_alice_question_jack_68aac134:
 translate vietnamese speak_alice_question_jack_6863b254:
 
     # alice "Well, before The End he was going to run this hotel. So much for that.."
-    alice "Trước khi có The End, anh ấy điều hành khách sạn này. Quá nhiều cho điều đó.."
+    alice "Trước khi có The End, anh ấy điều hành khách sạn này. Quá nhiều cho điều đó..."
 
 # game/characters/alice/speak.rpy:742
 translate vietnamese speak_alice_question_jack_d9064223:
@@ -1252,7 +1252,7 @@ translate vietnamese speak_alice_question_jack_461623ee:
 translate vietnamese speak_alice_question_jack_edf882a7:
 
     # me ".. Anything else you could tell me?"
-    me ".. Còn cái gì khác em có thể nói với anh không?"
+    me "... Còn cái gì khác em có thể nói với anh không?"
 
 # game/characters/alice/speak.rpy:771
 translate vietnamese speak_alice_question_jack_75b3cbfd:
@@ -1274,7 +1274,7 @@ translate vietnamese strings:
 
     # game/characters/alice/speak.rpy:21
     old "I need a magical girl outfit.. {gold}(Story){/gold}"
-    new "Anh cần một bộ đồ nữ pháp sư.. {gold}(Cốt truyện){/gold}"
+    new "Anh cần một bộ đồ nữ pháp sư... {gold}(Cốt truyện){/gold}"
 
     # game/characters/alice/speak.rpy:21
     old "Give 16 cloth for Rachel outfit {gold}(Story){/gold}"
@@ -1302,7 +1302,7 @@ translate vietnamese strings:
 
     # game/characters/alice/speak.rpy:21
     old "Bring on your questions. {gold}(Story){/gold}"
-    new "Mang đến những câu hỏi của bạn. {gold}(Cốt truyện){/gold}"
+    new "Mang lên những câu hỏi của bạn. {gold}(Cốt truyện){/gold}"
 
     # game/characters/alice/speak.rpy:21
     old "It's time to help [mina] {gold}(Story){/gold}"
@@ -1406,7 +1406,7 @@ translate vietnamese strings:
 
     # game/characters/alice/speak.rpy:317
     old "Stranded"
-    new "Stranded"
+    new "rách rưới"
 
     # game/characters/alice/speak.rpy:317
     old "Gym"
@@ -1465,91 +1465,91 @@ translate vietnamese strings:
 translate vietnamese alice_menu1_menuev9_5d6b5979:
 
     # me "Wait, what? I'm very go-" id alice_menu1_menuev9_5d6b5979
-    me "Wait, what? I'm very go-" id alice_menu1_menuev9_5d6b5979
+    me "Chờ đã, cái gì? Anh là m-" id alice_menu1_menuev9_5d6b5979
 
 # game/characters/alice/speak.rpy:154
 translate vietnamese alice_menu1_menuev9_82b1d477:
 
     # alice "Sure thing, daddy~" id alice_menu1_menuev9_82b1d477
-    alice "Sure thing, daddy~" id alice_menu1_menuev9_82b1d477
+    alice "Tất nhiên rồi daddy~" id alice_menu1_menuev9_82b1d477
 
 # game/characters/alice/speak.rpy:161
 translate vietnamese alice_menu1_menuev9_82b1d477_1:
 
     # alice "Sure thing, daddy~" id alice_menu1_menuev9_82b1d477_1
-    alice "Sure thing, daddy~" id alice_menu1_menuev9_82b1d477_1
+    alice "Tất nhiên rồi daddy~" id alice_menu1_menuev9_82b1d477_1
 
 # game/characters/alice/speak.rpy:181
 translate vietnamese speak_alice_menuev9_b211a70c:
 
     # alice "Daddy wants to pound [alice]'s little pussy again?"
-    alice "Daddy wants to pound [alice]'s little pussy again?"
+    alice "Daddy muốn nện âm hộ của [alice] lần nữa chứ?"
 
 # game/characters/alice/speak.rpy:182
 translate vietnamese speak_alice_menuev9_2d7dbb9a:
 
     # alice "Should I dress up for you?"
-    alice "Should I dress up for you?"
+    alice "Em có nên lên đồ cho anh không?"
 
 # game/characters/alice/speak.rpy:205
 translate vietnamese speak_alice_menuev9_1b3457b5:
 
     # alice "You know I could use you for something.."
-    alice "You know I could use you for something.."
+    alice "Anh biết em có thể sử dụng anh cho vài việc mà.."
 
 # game/characters/alice/speak.rpy:206
 translate vietnamese speak_alice_menuev9_e20c2277:
 
     # me "Oh? What is it?"
-    me "Oh? What is it?"
+    me "Ồ? Và đó là gì?"
 
 # game/characters/alice/speak.rpy:209
 translate vietnamese speak_alice_menuev9_a5d3abf8:
 
     # alice "I could use some cleaning down there~"
-    alice "I could use some cleaning down there~"
+    alice "Em có thể dùng anh để dọn dẹp dưới này~"
 
 # game/characters/alice/speak.rpy:210
 translate vietnamese speak_alice_menuev9_376747c4:
 
     # me "Haha, got it."
-    me "Haha, got it."
+    me "Haha, được rồi."
 
 # game/characters/alice/speak.rpy:211
 translate vietnamese speak_alice_menuev9_8bd0d7e1:
 
     # alice "Should I change?"
-    alice "Should I change?"
+    alice "Em có nên thay đồ không?"
 
 # game/characters/alice/speak.rpy:217
 translate vietnamese speak_alice_menuev9_cb8a02c6:
 
     # alice "Ohh.. This little girl is going to be played by you again mister."
-    alice "Ohh.. This little girl is going to be played by you again mister."
+    alice "Ohh.. Cô gái nhỏ này sẽ lại được chơi bởi anh, thưa anh."
 
 # game/characters/alice/speak.rpy:227
 translate vietnamese speak_alice_menuev9_b971ae2f:
 
     # me "Wanna reward me once more?"
-    me "Wanna reward me once more?"
+    me "Muốn thưởng cho em lần nữa không?"
 
 # game/characters/alice/speak.rpy:230
 translate vietnamese speak_alice_menuev9_81e18fa7:
 
     # alice "You can just ask directly you know?"
-    alice "You can just ask directly you know?"
+    alice "Anh chỉ cần hỏi thẳng em thôi mà?"
 
 # game/characters/alice/speak.rpy:231
 translate vietnamese speak_alice_menuev9_c1769394:
 
     # me "Then will you blow me?"
-    me "Then will you blow me?"
+    me "Vậy em sẽ bú kẹc cho anh chứ?"
 
 # game/characters/alice/speak.rpy:234
 translate vietnamese speak_alice_menuev9_7b75f538:
 
     # alice "W-What are you talking about mister? I'm only a little girl.."
-    alice "W-What are you talking about mister? I'm only a little girl.."
+    alice "Ô-Ông đang nói gì vậy? Tôi chỉ là một cô bé.."
 
 # game/characters/alice/speak.rpy:235
 translate vietnamese speak_alice_menuev9_3820771a:
@@ -1561,7 +1561,7 @@ translate vietnamese speak_alice_menuev9_3820771a:
 translate vietnamese speak_alice_menuev9_388c714f:
 
     # me "Come to daddy."
-    me "Come to daddy."
+    me "Đến với daddy nào."
 
 # game/characters/alice/speak.rpy:239
 translate vietnamese speak_alice_menuev9_0b60a0c3:
@@ -1573,55 +1573,55 @@ translate vietnamese speak_alice_menuev9_0b60a0c3:
 translate vietnamese speak_alice_menuev9_e2b90efc:
 
     # alice "Lay down, daddy~"
-    alice "Lay down, daddy~"
+    alice "Nằm xuống đi daddy~"
 
 # game/characters/alice/speak.rpy:241
 translate vietnamese speak_alice_menuev9_fec91136:
 
     # "You do as told and lie down waiting for her to join."
-    "You do as told and lie down waiting for her to join."
+    "Bạn làm như cô ấy nói và nằm xuống đợi cô ấy tham gia."
 
 # game/characters/alice/speak.rpy:242
 translate vietnamese speak_alice_menuev9_a69a8806:
 
     # alice "What outfit do you want this little girl to wear, daddy?"
-    alice "What outfit do you want this little girl to wear, daddy?"
+    alice "Anh muốn em mặc trang phục nào đây?"
 
 # game/characters/alice/speak.rpy:248
 translate vietnamese speak_alice_menuev9_f4b76968:
 
     # alice "Hehe~ You pervert~"
-    alice "Hehe~ You pervert~"
+    alice "Hehe~ Đồ biến thái~"
 
 # game/characters/alice/speak.rpy:261
 translate vietnamese speak_alice_menuev9_f6adff98:
 
     # me "Can you give me a footjob?"
-    me "Can you give me a footjob?"
+    me "Bạn có thể dùng chân được không?"
 
 # game/characters/alice/speak.rpy:266
 translate vietnamese speak_alice_menuev9_4bcaf3b9:
 
     # alice "You're becoming more and more daring."
-    alice "You're becoming more and more daring."
+    alice "Anh đang ngày càng trở nên táo bạo hơn đấy."
 
 # game/characters/alice/speak.rpy:267
 translate vietnamese speak_alice_menuev9_f660d172:
 
     # me "So?"
-    me "So?"
+    me "Thì?"
 
 # game/characters/alice/speak.rpy:268
 translate vietnamese speak_alice_menuev9_c313e6b5:
 
     # alice "And impatient."
-    alice "And impatient."
+    alice "Và mất kiên nhẫn nữa."
 
 # game/characters/alice/speak.rpy:269
 translate vietnamese speak_alice_menuev9_f660d172_1:
 
     # me "So?"
-    me "So?"
+    me "Thì?"
 
 # game/characters/alice/speak.rpy:270
 translate vietnamese speak_alice_menuev9_74f05a4e:
@@ -1633,55 +1633,55 @@ translate vietnamese speak_alice_menuev9_74f05a4e:
 translate vietnamese speak_alice_menuev9_e8149e61:
 
     # alice "Lie down. What do you want me to wear?"
-    alice "Lie down. What do you want me to wear?"
+    alice "Nằm xuống đi. Anh muốn em mặc gì?"
 
 # game/characters/alice/speak.rpy:279
 translate vietnamese speak_alice_menuev9_35cada6d:
 
     # alice "Hehe~ You love this outfit so much, right?"
-    alice "Hehe~ You love this outfit so much, right?"
+    alice "Hehe~ Anh yêu bộ trang phục này rất nhiều, phải không?"
 
 # game/characters/alice/speak.rpy:289
 translate vietnamese speak_alice_menuev9_011de6f2:
 
     # alice "Time for another workout."
-    alice "Time for another workout."
+    alice "Đến lúc cho một bài tậ khác rồi."
 
 # game/characters/alice/speak.rpy:294
 translate vietnamese speak_alice_menuev9_af5f5d0a:
 
     # alice "You want to torture my pussy again, daddy?"
-    alice "You want to torture my pussy again, daddy?"
+    alice "Anh muốn tra tấn âm hộ của em một lần nữa hả?"
 
 # game/characters/alice/speak.rpy:326
 translate vietnamese speak_alice_menuev9_8f7b6901:
 
     # alice "Sure, what is it?"
-    alice "Sure, what is it?"
+    alice "Được rồi, vậy nó là gì?"
 
 # game/characters/alice/speak.rpy:566
 translate vietnamese speak_alice_alice_str_e98034ac:
 
     # alice "So you are going to get me to make a gift for myself? How.. original.."
-    alice "So you are going to get me to make a gift for myself? How.. original.."
+    alice "Vậy anh định bắt em làm một món quà cho chính mình sao?"
 
 # game/characters/alice/speak.rpy:567
 translate vietnamese speak_alice_alice_str_f660d172:
 
     # me "So?"
-    me "So?"
+    me "Thế?"
 
 # game/characters/alice/speak.rpy:571
 translate vietnamese speak_alice_alice_str_0115c481:
 
     # alice "It's simple. I'll start immediately."
-    alice "It's simple. I'll start immediately."
+    alice "Cũng đơn giản thôi. Em sẽ bắt đầu ngay lập tức."
 
 # game/characters/alice/speak.rpy:572
 translate vietnamese speak_alice_alice_str_640dffc0:
 
     # me "Good luck."
-    me "Good luck."
+    me "Chúc may mắn."
 
 # game/characters/alice/speak.rpy:573
 translate vietnamese speak_alice_alice_str_74f05a4e:
@@ -1693,19 +1693,19 @@ translate vietnamese speak_alice_alice_str_74f05a4e:
 translate vietnamese speak_alice_alice_str_83f16524:
 
     # alice "Here."
-    alice "Here."
+    alice "Đây."
 
 # game/characters/alice/speak.rpy:578
 translate vietnamese speak_alice_alice_str_3f5d85fc:
 
     # me "Good job."
-    me "Good job."
+    me "Làm tốt lắm."
 
 # game/characters/alice/speak.rpy:579
 translate vietnamese speak_alice_alice_str_37267f30:
 
     # alice "No problem, I was bored anyway."
-    alice "No problem, I was bored anyway."
+    alice "Không sao hết, đằng nào thì em cũng đang chán này."
 
 # game/characters/alice/speak.rpy:580
 translate vietnamese speak_alice_alice_str_9dcc12f0:
@@ -1717,157 +1717,157 @@ translate vietnamese speak_alice_alice_str_9dcc12f0:
 translate vietnamese speak_alice_alice_str_74d8ac69:
 
     # alice "Yeah?"
-    alice "Yeah?"
+    alice "Sao vậy?"
 
 # game/characters/alice/speak.rpy:582
 translate vietnamese speak_alice_alice_str_4e5be125:
 
     # me "I've got a gift for you."
-    me "I've got a gift for you."
+    me "Anh có một món quà cho em đây."
 
 # game/characters/alice/speak.rpy:586
 translate vietnamese speak_alice_alice_str_5eeaea5b:
 
     # alice "Cheap."
-    alice "Cheap."
+    alice "Phèn vãi."
 
 # game/characters/alice/speak.rpy:587
 translate vietnamese speak_alice_alice_str_10582fda:
 
     # me "It's called convenient."
-    me "It's called convenient."
+    me "Nó được gọi là tiện lợi đấy em."
 
 # game/characters/alice/speak.rpy:588
 translate vietnamese speak_alice_alice_str_f6549f2b:
 
     # alice "Cheap as fuck."
-    alice "Cheap as fuck."
+    alice "Giẻ ráck."
 
 # game/characters/alice/speak.rpy:589
 translate vietnamese speak_alice_alice_str_570f8a6c:
 
     # me "You don't want it?"
-    me "You don't want it?"
+    me "Em không muốn sao?"
 
 # game/characters/alice/speak.rpy:593
 translate vietnamese speak_alice_alice_str_c8de865d:
 
     # alice "Gimme."
-    alice "Gimme."
+    alice "Đưa em."
 
 # game/characters/alice/speak.rpy:594
 translate vietnamese speak_alice_alice_str_aa93b10c:
 
     # me "Good girl."
-    me "Good girl."
+    me "Ngoan."
 
 # game/characters/alice/speak.rpy:602
 translate vietnamese speak_alice_alice_sch_1a4fbd01:
 
     # alice "Someone's going to get naughty, right daddy?"
-    alice "Someone's going to get naughty, right daddy?"
+    alice "Ai đó đang trở nên hư hỏng này"
 
 # game/characters/alice/speak.rpy:603
 translate vietnamese speak_alice_alice_sch_651554f5:
 
     # me "I get it you're going to do it?"
-    me "I get it you're going to do it?"
+    me "Anh hiểu em sẽ làm điều đó sao?"
 
 # game/characters/alice/speak.rpy:604
 translate vietnamese speak_alice_alice_sch_cde3d046:
 
     # alice "Of course, daddy~"
-    alice "Of course, daddy~"
+    alice "Tất nhiên rồi~"
 
 # game/characters/alice/speak.rpy:610
 translate vietnamese speak_alice_alice_sch_3286c790:
 
     # alice "Now I got it."
-    alice "Now I got it."
+    alice "Giờ thì em hiểu rồi."
 
 # game/characters/alice/speak.rpy:611
 translate vietnamese speak_alice_alice_sch_5bc2d7b3:
 
     # me "Well.. Are you going to show me?"
-    me "Well.. Are you going to show me?"
+    me "Chà.. anh định cho em xem à?"
 
 # game/characters/alice/speak.rpy:612
 translate vietnamese speak_alice_alice_sch_cba3e917:
 
     # alice "Be a good boy and I'll think about it."
-    alice "Be a good boy and I'll think about it."
+    alice "Hãy là một cậu bé ngoan và em sẽ nghĩ về điều đó."
 
 # game/characters/alice/speak.rpy:613
 translate vietnamese speak_alice_alice_sch_07ed60be:
 
     # me "I'm always good."
-    me "I'm always good."
+    me "Anh luôn luôn ngoan mà."
 
 # game/characters/alice/speak.rpy:621
 translate vietnamese speak_alice_alice_maid_2614c887:
 
     # alice "Grace isn't enough for you? You beast~"
-    alice "Grace isn't enough for you? You beast~"
+    alice "Grace còn chưa đủ cho anh sao? Đồ quái thú~"
 
 # game/characters/alice/speak.rpy:622
 translate vietnamese speak_alice_alice_maid_125c7056:
 
     # alice "I'll be right back."
-    alice "I'll be right back."
+    alice "Em sẽ quay lại ngay."
 
 # game/characters/alice/speak.rpy:628
 translate vietnamese speak_alice_alice_maid_68df90bf:
 
     # alice "Okay!~ Done!"
-    alice "Okay!~ Done!"
+    alice "Okay!~ xong rồi!"
 
 # game/characters/alice/speak.rpy:629
 translate vietnamese speak_alice_alice_maid_bdab3c6b:
 
     # me "Sweet!"
-    me "Sweet!"
+    me "Tuyệt!"
 
 # game/characters/alice/speak.rpy:637
 translate vietnamese speak_alice_lexi_ten_aae4df87:
 
     # alice "Why do you want me to make something like this?"
-    alice "Why do you want me to make something like this?"
+    alice "Tại sao anh lại muốn em làm mấy cái như này vậy?"
 
 # game/characters/alice/speak.rpy:638
 translate vietnamese speak_alice_lexi_ten_a8870946:
 
     # me "Just tell me if you can do it."
-    me "Just tell me if you can do it."
+    me "Chỉ cần anh biết em có làm được không thôi."
 
 # game/characters/alice/speak.rpy:642
 translate vietnamese speak_alice_lexi_ten_3a186df0:
 
     # alice "No worries. I got it."
-    alice "No worries. I got it."
+    alice "Không sao. Em lo được."
 
 # game/characters/alice/speak.rpy:648
 translate vietnamese speak_alice_lexi_ten_4cbbde7b:
 
     # alice "I made your weird thing."
-    alice "I made your weird thing."
+    alice "Em đã làm xong cái thứ kỳ lạ của anh rồi đây."
 
 # game/characters/alice/speak.rpy:661
 translate vietnamese speak_alice_outfits_kiara_c296745b:
 
     # alice "Who?"
-    alice "Who?"
+    alice "Ai?"
 
 # game/characters/alice/speak.rpy:662
 translate vietnamese speak_alice_outfits_kiara_44e5ad59:
 
     # me "Well.. You won't know her."
-    me "Well.. You won't know her."
+    me "Chà.. em sẽ không biết cô ấy đâu."
 
 # game/characters/alice/speak.rpy:666
 translate vietnamese speak_alice_outfits_kiara_eda2db3c:
 
     # alice "Ehh.."
-    alice "Ehh.."
+    alice "Ể.."
 
 # game/characters/alice/speak.rpy:667
 translate vietnamese speak_alice_outfits_kiara_3820771a:
@@ -1879,61 +1879,61 @@ translate vietnamese speak_alice_outfits_kiara_3820771a:
 translate vietnamese speak_alice_outfits_kiara_63ebf2db:
 
     # alice "What are her sizes?"
-    alice "What are her sizes?"
+    alice "Kích thước của cô ấy là bao nhiêu?"
 
 # game/characters/alice/speak.rpy:669
 translate vietnamese speak_alice_outfits_kiara_32898ed9:
 
     # th "As if I know.."
-    th "As if I know.."
+    th "Làm như là mình biết vậy..."
 
 # game/characters/alice/speak.rpy:670
 translate vietnamese speak_alice_outfits_kiara_7b0f67e5:
 
     # me "Make them Mina's size."
-    me "Make them Mina's size."
+    me "Làm cho chúng có kích thước giống Mina đi."
 
 # game/characters/alice/speak.rpy:671
 translate vietnamese speak_alice_outfits_kiara_5570ddf0:
 
     # th "I think she can make them fit herself with some power. Probably."
-    th "I think she can make them fit herself with some power. Probably."
+    th "Mình nghĩ em ấy có thể làm cho chúng vừa với năng lực của em ấy. Chắc vậy."
 
 # game/characters/alice/speak.rpy:675
 translate vietnamese speak_alice_outfits_kiara_b00edcf0:
 
     # alice "Okay, Mr. Adventurer."
-    alice "Okay, Mr. Adventurer."
+    alice "Được rồi, thưa nhà thám hiểm."
 
 # game/characters/alice/speak.rpy:676
 translate vietnamese speak_alice_outfits_kiara_82c76ca5:
 
     # me "Thanks, [alice]."
-    me "Thanks, [alice]."
+    me "Cảm ơn nha [alice]."
 
 # game/characters/alice/speak.rpy:680
 translate vietnamese speak_alice_outfits_kiara_02ce5de8:
 
     # alice "When will you tell me about your rendezvous outside?"
-    alice "When will you tell me about your rendezvous outside?"
+    alice "Khi nào anh sẽ cho em biết về điểm hẹn của anh ở bên ngoài đây?"
 
 # game/characters/alice/speak.rpy:681
 translate vietnamese speak_alice_outfits_kiara_230731c3:
 
     # me "Maybe tomorrow.. Or a day after tomorrow.. Or.."
-    me "Maybe tomorrow.. Or a day after tomorrow.. Or.."
+    me "Có lẽ ngày mai... Hoặc ngày kia... Hoặc..."
 
 # game/characters/alice/speak.rpy:685
 translate vietnamese speak_alice_outfits_kiara_ebad61b8:
 
     # alice "Or never?"
-    alice "Or never?"
+    alice "Hoặc không bao giờ?"
 
 # game/characters/alice/speak.rpy:686
 translate vietnamese speak_alice_outfits_kiara_71766273:
 
     # me "Yeah... Yeah. That's a compromise I could accept."
-    me "Yeah... Yeah. That's a compromise I could accept."
+    me "Yeah... Yeah là một thỏa hiệp mà anh có thể chấp nhận được."
 
 # game/characters/alice/speak.rpy:687
 translate vietnamese speak_alice_outfits_kiara_74f05a4e:
@@ -1945,91 +1945,91 @@ translate vietnamese speak_alice_outfits_kiara_74f05a4e:
 translate vietnamese speak_alice_outfits_kiara_a11d089c:
 
     # alice "Well, whatever. Just don't bring your hoes home."
-    alice "Well, whatever. Just don't bring your hoes home."
+    alice "Sao cũng được. Đừng đem bồ anh về nhà đấy."
 
 # game/characters/alice/speak.rpy:695
 translate vietnamese speak_alice_outfits_kiara_dc937837:
 
     # me "Sometimes it's just stronger than me."
-    me "Sometimes it's just stronger than me."
+    me "Đôi khi con tim sẽ áp đảo anh đấy."
 
 # game/characters/alice/speak.rpy:699
 translate vietnamese speak_alice_outfits_kiara_eda2db3c_1:
 
     # alice "Ehh.."
-    alice "Ehh.."
+    alice "Ể.."
 
 # game/characters/alice/speak.rpy:700
 translate vietnamese speak_alice_outfits_kiara_80a82614:
 
     # alice "You're hopeless, [me]."
-    alice "You're hopeless, [me]."
+    alice "Anh đúng là vô vọng rồi [me]."
 
 # game/characters/alice/speak.rpy:704
 translate vietnamese speak_alice_outfits_kiara_7dee622e:
 
     # alice "When doing various things outside, just consider, we're also living here. Don't put us in danger just to get laid, okay?"
-    alice "When doing various things outside, just consider, we're also living here. Don't put us in danger just to get laid, okay?"
+    alice "Khi làm những việc khác nhau bên ngoài, hãy xem xét, chúng ta cũng đang sống ở đây. Đừng khiến chúng ta gặp nguy hiểm, được chứ?"
 
 # game/characters/alice/speak.rpy:706
 translate vietnamese speak_alice_outfits_kiara_188d9695:
 
     # me "Got it. Don't worry."
-    me "Got it. Don't worry."
+    me "Hiểu rồi. Đừng lo."
 
 # game/characters/alice/speak.rpy:712
 translate vietnamese speak_alice_outfits_kiara_4ee90635:
 
     # alice "Your outside hoe again?"
-    alice "Your outside hoe again?"
+    alice "Lại là vợ bé của anh ở ngoài kia hả?"
 
 # game/characters/alice/speak.rpy:713
 translate vietnamese speak_alice_outfits_kiara_5f5cfd66:
 
     # me "I wouldn't call her that, though."
-    me "I wouldn't call her that, though."
+    me "Anh không gọi cô ấy như vậy đâu."
 
 # game/characters/alice/speak.rpy:717
 translate vietnamese speak_alice_outfits_kiara_4963bffa:
 
     # alice "Whatever, Mina's size?"
-    alice "Whatever, Mina's size?"
+    alice "sao cũng được, cỡ của Mina hả?"
 
 # game/characters/alice/speak.rpy:718
 translate vietnamese speak_alice_outfits_kiara_3f6c9cde:
 
     # me "Mina's size."
-    me "Mina's size."
+    me "Cỡ của Mina."
 
 # game/characters/alice/speak.rpy:729
 translate vietnamese speak_alice_kiara_ang_bf733006:
 
     # alice "Here you go."
-    alice "Here you go."
+    alice "Của anh đây."
 
 # game/characters/alice/speak.rpy:730
 translate vietnamese speak_alice_kiara_ang_52a1db70:
 
     # me "Many thanks, [alice]."
-    me "Many thanks, [alice]."
+    me "Cảm ơn em rất nhiều."
 
 # game/characters/alice/speak.rpy:741
 translate vietnamese speak_alice_kiara_par_ab1d8716:
 
     # alice "Enjoy the party.."
-    alice "Enjoy the party.."
+    alice "Thưởng thức bữa tiệc nha..."
 
 # game/characters/alice/speak.rpy:742
 translate vietnamese speak_alice_kiara_par_1ba957cc:
 
     # me "Hey, don't be jealous."
-    me "Hey, don't be jealous."
+    me "Này, đừng ghen tị mà."
 
 # game/characters/alice/speak.rpy:743
 translate vietnamese speak_alice_kiara_par_29314cd1:
 
     # alice "As if someone would be jealous about you."
-    alice "As if someone would be jealous about you."
+    alice "làm như có ai sẽ ghen tị với anh vậy."
 
 # game/characters/alice/speak.rpy:744
 translate vietnamese speak_alice_kiara_par_282f3876:
@@ -2041,25 +2041,25 @@ translate vietnamese speak_alice_kiara_par_282f3876:
 translate vietnamese speak_alice_kiara_nym_10a760a0:
 
     # alice "Take it."
-    alice "Take it."
+    alice "Lấy đi."
 
 # game/characters/alice/speak.rpy:756
 translate vietnamese speak_alice_kiara_nym_96db5d1c:
 
     # me "Thanks! What's up with you?"
-    me "Thanks! What's up with you?"
+    me "Cảm ơn! Có chuyện gì với em vậy?"
 
 # game/characters/alice/speak.rpy:757
 translate vietnamese speak_alice_kiara_nym_9ed9c9ac:
 
     # alice "Nothing, take it to your slut, and let me rest. It was annoying doing this fishnet."
-    alice "Nothing, take it to your slut, and let me rest. It was annoying doing this fishnet."
+    alice "Không có gì cả, hãy đưa nó cho con đĩ của anh đi, và để em nghỉ đi. Thật là khó chịu khi phải làm cái lưới cá này mà."
 
 # game/characters/alice/speak.rpy:758
 translate vietnamese speak_alice_kiara_nym_f9b08f48:
 
     # me "Heads up."
-    me "Heads up."
+    me "Ngẩng đầu lên đi."
 
 # game/characters/alice/speak.rpy:759
 translate vietnamese speak_alice_kiara_nym_74f05a4e:
@@ -2071,25 +2071,25 @@ translate vietnamese speak_alice_kiara_nym_74f05a4e:
 translate vietnamese speak_alice_kiara_nym_8e0c5a1a:
 
     # me "Why did you make it, then?"
-    me "Why did you make it, then?"
+    me "Vậy tại sao em làm ra nó?"
 
 # game/characters/alice/speak.rpy:764
 translate vietnamese speak_alice_kiara_nym_fb321aeb:
 
     # alice "As if I knew, idiot. Go already."
-    alice "As if I knew, idiot. Go already."
+    alice "Làm như em biết vậy đồ ngốc. Đi luôn đi."
 
 # game/characters/alice/speak.rpy:765
 translate vietnamese speak_alice_kiara_nym_a0a697c9:
 
     # me "Thank you."
-    me "Thank you."
+    me "Cảm ơn."
 
 # game/characters/alice/speak.rpy:766
 translate vietnamese speak_alice_kiara_nym_7d834efa:
 
     # alice "I'm amazing. I know. Go, go."
-    alice "I'm amazing. I know. Go, go."
+    alice "Em thật tuyệt vời. Em biết. Đi đi."
 
 # game/characters/alice/speak.rpy:767
 translate vietnamese speak_alice_kiara_nym_3820771a:
@@ -2101,11 +2101,11 @@ translate vietnamese strings:
 
     # game/characters/alice/speak.rpy:331
     old "She's responsible for crafting things at the Jade Hotel. Every so often she takes on the role of the scavenger."
-    new "She's responsible for crafting things at the Jade Hotel. Every so often she takes on the role of the scavenger."
+    new "Cô ấy chịu trách nhiệm chế tạo những thứ đồ ở khách sạn Jade. Cô ấy thường xuyên đảm nhận vai trò của người kiếm đồ."
 
     # game/characters/alice/speak.rpy:352
     old "She’s been at the Jade Hotel since the beginning. She arrived on the fifth day of The End."
-    new "She’s been at the Jade Hotel since the beginning. She arrived on the fifth day of The End."
+    new "Cô ấy đã ở khách sạn Jade từ những ngày đầu. Cô ấy đến vào ngày thứ năm của The End."
 
     # game/characters/alice/speak.rpy:382
     old "The End"
@@ -2113,25 +2113,24 @@ translate vietnamese strings:
 
     # game/characters/alice/speak.rpy:382
     old "On the outside, curiosity remains the swiftest way to the afterlife."
-    new "On the outside, curiosity remains the swiftest way to the afterlife."
+    new "Nhìn bên ngoài, sự tò mò vẫn là con đường nhanh nhất dẫn đến thế giới bên kia."
 
     # game/characters/alice/speak.rpy:397
     old "At night, in the depths of fog, the whispers appear. They have turned anyone that has heard them crazy."
-    new "At night, in the depths of fog, the whispers appear. They have turned anyone that has heard them crazy."
+    new "Vào ban đêm, trong làn sương mù sâu thẳm, những tiếng thì thầm hiện ra. Chúng đã biến bất cứ ai nghe thấy chúng trở nên phát điên."
 
     # game/characters/alice/speak.rpy:406
     old "The rumor says that three minutes after steeping into the fog at night, your shadow rises from the ground and follows you. It's smiling literally from ear to ear. Victims all claim the whispers you hear outside come from the shadow."
-    new "The rumor says that three minutes after steeping into the fog at night, your shadow rises from the ground and follows you. It's smiling literally from ear to ear. Victims all claim the whispers you hear outside come from the shadow."
+    new "Tin đồn nói rằng ba phút sau khi bước vào sương mù trong đêm, bóng của bạn nhô lên khỏi mặt đất và đi theo bạn. Nó mỉm cười từ tai này sang tai khác. Các nạn nhân đều khẳng định những lời thì thầm mà bạn nghe thấy bên ngoài đến từ bóng tối."
 
     # game/characters/alice/speak.rpy:418
     old "The hotel's owner's name was Jack. He disappeared a week before my arrival."
-    new "The hotel's owner's name was Jack. He disappeared a week before my arrival."
+    new "Chủ nhân của khách sạn tên là Jack. Anh ấy biến mất một tuần trước khi mình đến."
 
     # game/characters/alice/speak.rpy:552
     old "Outfits"
-    new "Outfits"
+    new "Trang phục"
 
     # game/characters/alice/speak.rpy:552
     old "Weave"
-    new "Weave"
-
+    new "Dệt"
