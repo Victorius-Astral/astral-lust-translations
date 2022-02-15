@@ -382,4 +382,4 @@ translate spanish strings:
 
     # game/screens.rpy:423
     old "Resume"
-    new "Resume"
+    new "Resumen"
