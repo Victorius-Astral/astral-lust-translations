@@ -772,7 +772,7 @@ translate vietnamese grace_kiss_night1_b2412935:
 translate vietnamese grace_kiss_night1_3150f528:
 
     # grace "...."
-    grace "...."
+    grace "..."
 
 # game/characters/grace/kiss.rpy:485
 translate vietnamese grace_kiss_night1_3820771a:

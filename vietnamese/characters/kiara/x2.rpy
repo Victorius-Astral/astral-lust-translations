@@ -70,7 +70,7 @@ translate vietnamese kiara_x2_slow1_c8418daf:
 translate vietnamese kiara_x2_slow1_0adb2ff6:
 
     # th "I'm fucking [kiara]. Two [kiara]s.. This world is.. amazing."
-    th "Mình đang pịch [kiara]. Hai [kiara].. Thế giới này.. thật toẹt zời."
+    th "Mình đang pịch [kiara]. Hai [kiara]... Thế giới này... thật toẹt zời."
 
 # game/characters/kiara/x2.rpy:43
 translate vietnamese kiara_x2_slow1_3700946f:
@@ -82,7 +82,7 @@ translate vietnamese kiara_x2_slow1_3700946f:
 translate vietnamese kiara_x2_slow1_f914153b:
 
     # kiara "Mm.. It's nice, but can you fuck me harder?"
-    kiara "Mm.. cũng tốt đấy, nhưng anh có thể đụ tôi mạnh hơn được không?"
+    kiara "Mm... cũng tốt đấy, nhưng anh có thể đụ tôi mạnh hơn được không?"
 
 # game/characters/kiara/x2.rpy:63
 translate vietnamese kiara_x2_slow2_6a316fd6:
@@ -106,7 +106,7 @@ translate vietnamese kiara_x2_slow2_c8418daf:
 translate vietnamese kiara_x2_slow2_0adb2ff6:
 
     # th "I'm fucking [kiara]. Two [kiara]s.. This world is.. amazing."
-    th "Mình đang pịch [kiara]. Hai [kiara].. Thế giới này.. thật toẹt zời."
+    th "Mình đang pịch [kiara]. Hai [kiara]... Thế giới này... thật toẹt zời."
 
 # game/characters/kiara/x2.rpy:67
 translate vietnamese kiara_x2_slow2_3700946f:
@@ -118,7 +118,7 @@ translate vietnamese kiara_x2_slow2_3700946f:
 translate vietnamese kiara_x2_slow2_f914153b:
 
     # kiara "Mm.. It's nice, but can you fuck me harder?"
-    kiara "Mm.. cũng tốt đấy, nhưng anh có thể đụ tôi mạnh hơn được không?"
+    kiara "Mm... cũng tốt đấy, nhưng anh có thể đụ tôi mạnh hơn được không?"
 
 # game/characters/kiara/x2.rpy:87
 translate vietnamese kiara_x2_slow3_6a316fd6:
@@ -142,7 +142,7 @@ translate vietnamese kiara_x2_slow3_c8418daf:
 translate vietnamese kiara_x2_slow3_0adb2ff6:
 
     # th "I'm fucking [kiara]. Two [kiara]s.. This world is.. amazing."
-    th "Mình đang pịch [kiara]. Hai [kiara].. Thế giới này.. thật toẹt zời."
+    th "Mình đang pịch [kiara]. Hai [kiara]... Thế giới này... thật toẹt zời."
 
 # game/characters/kiara/x2.rpy:91
 translate vietnamese kiara_x2_slow3_3700946f:
@@ -154,7 +154,7 @@ translate vietnamese kiara_x2_slow3_3700946f:
 translate vietnamese kiara_x2_slow3_f914153b:
 
     # kiara "Mm.. It's nice, but can you fuck me harder?"
-    kiara "Mm.. cũng tốt đấy, nhưng anh có thể đụ tôi mạnh hơn được không?"
+    kiara "Mm... cũng tốt đấy, nhưng anh có thể đụ tôi mạnh hơn được không?"
 
 # game/characters/kiara/x2.rpy:111
 translate vietnamese kiara_x2_fast1_c5191a32:
@@ -184,7 +184,7 @@ translate vietnamese kiara_x2_fast1_761f7f98:
 translate vietnamese kiara_x2_fast1_007ab615:
 
     # kiara "Ha. You wish! You would need to fuck me much harder for that."
-    kiara "Ha. Mơ đi! Anh sẽ cần phải đụ tôi mạnh hơn cho điều đó."
+    kiara "Ha. Mơ đi! Anh sẽ cần phải đụ tôi mạnh hơn để làm được điều đó đấy."
 
 # game/characters/kiara/x2.rpy:116
 translate vietnamese kiara_x2_fast1_20109a34:
@@ -196,7 +196,7 @@ translate vietnamese kiara_x2_fast1_20109a34:
 translate vietnamese kiara_x2_fast1_11f6b643:
 
     # kiara "Mmmm! Go on, fuck me harder!"
-    kiara "Mmmm! Tiếp tục đi, đụ tôi mạnh hơn!"
+    kiara "Mmmm! Tiếp tục đi, mạnh lên nào!"
 
 # game/characters/kiara/x2.rpy:139
 translate vietnamese kiara_x2_fast2_c5191a32:
@@ -226,19 +226,19 @@ translate vietnamese kiara_x2_fast2_761f7f98:
 translate vietnamese kiara_x2_fast2_007ab615:
 
     # kiara "Ha. You wish! You would need to fuck me much harder for that."
-    kiara "Ha. Mơ đi! Anh sẽ cần phải đụ tôi mạnh hơn cho điều đó."
+    kiara "Ha. Mơ đi! Anh sẽ cần phải đụ tôi mạnh hơn để làm được điều đó đấy."
 
 # game/characters/kiara/x2.rpy:144
 translate vietnamese kiara_x2_fast2_20109a34:
 
     # me "Hmm, that can be arranged."
-    me "Hmm, điều đó có thể được sắp xếp."
+    me "Hmm, chuyện này thì có thể được sắp xếp được."
 
 # game/characters/kiara/x2.rpy:145
 translate vietnamese kiara_x2_fast2_11f6b643:
 
     # kiara "Mmmm! Go on, fuck me harder!"
-    kiara "Mmmm! Tiếp đi, đụ tôi mạnh hơn!"
+    kiara "Mmmm! Tiếp đi, mạnh lên nào!"
 
 # game/characters/kiara/x2.rpy:167
 translate vietnamese kiara_x2_fast3_c5191a32:
@@ -268,13 +268,13 @@ translate vietnamese kiara_x2_fast3_761f7f98:
 translate vietnamese kiara_x2_fast3_007ab615:
 
     # kiara "Ha. You wish! You would need to fuck me much harder for that."
-    kiara "Ha. Mơ đi! Anh sẽ cần phải đụ tôi mạnh hơn cho điều đó."
+    kiara "Ha. Mơ đi! Anh sẽ cần phải đụ tôi mạnh hơn để làm được điều đó đấy."
 
 # game/characters/kiara/x2.rpy:172
 translate vietnamese kiara_x2_fast3_20109a34:
 
     # me "Hmm, that can be arranged."
-    me "Hmm, điều đó có thể được sắp xếp."
+    me "Hmm, chuyện này có thể thể sắp xếp được."
 
 # game/characters/kiara/x2.rpy:173
 translate vietnamese kiara_x2_fast3_11f6b643:
@@ -292,7 +292,7 @@ translate vietnamese kiara_x2_before1_04d8c388:
 translate vietnamese kiara_x2_before1_bb27c944:
 
     # kiara "That's amazing indeed!"
-    kiara "Điều đó thực sự tuyệt vời!"
+    kiara "Thực sự rất tuyệt đấy!"
 
 # game/characters/kiara/x2.rpy:197
 translate vietnamese kiara_x2_before1_166d9144:
@@ -316,7 +316,7 @@ translate vietnamese kiara_x2_before1_fc386045:
 translate vietnamese kiara_x2_before1_be5e74aa:
 
     # kiara "Ahh! I'm close, don't you dare stop now!"
-    kiara "Ahh! Tôi sắp rồi, anh đừng có dám dừng lại bây giờ!"
+    kiara "Ahh! Tôi sắp rồi, anh đừng có dám dừng lại bây giờ đấy!"
 
 # game/characters/kiara/x2.rpy:201
 translate vietnamese kiara_x2_before1_df965782:
@@ -328,7 +328,7 @@ translate vietnamese kiara_x2_before1_df965782:
 translate vietnamese kiara_x2_before1_6f848346:
 
     # kiara "Fill me, it's going to be so hot."
-    kiara "Lấp đầy tôi đi, nó sẽ rất nóng bên trong."
+    kiara "Lấp đầy tôi đi, nó sẽ rất nóng bên trong đây."
 
 # game/characters/kiara/x2.rpy:224
 translate vietnamese kiara_x2_before2_04d8c388:
@@ -340,7 +340,7 @@ translate vietnamese kiara_x2_before2_04d8c388:
 translate vietnamese kiara_x2_before2_bb27c944:
 
     # kiara "That's amazing indeed!"
-    kiara "Điều đó thực sự tuyệt vời!"
+    kiara "Thực sự rất tuyệt đấy!"
 
 # game/characters/kiara/x2.rpy:226
 translate vietnamese kiara_x2_before2_166d9144:
@@ -376,7 +376,7 @@ translate vietnamese kiara_x2_before2_df965782:
 translate vietnamese kiara_x2_before2_6f848346:
 
     # kiara "Fill me, it's going to be so hot."
-    kiara "Lấp đầy tôi đi, nó sẽ rất nóng bên trong."
+    kiara "Lấp đầy tôi đi, nó sẽ rất nóng bên trong đây."
 
 # game/characters/kiara/x2.rpy:253
 translate vietnamese kiara_x2_before3_04d8c388:
@@ -388,7 +388,7 @@ translate vietnamese kiara_x2_before3_04d8c388:
 translate vietnamese kiara_x2_before3_bb27c944:
 
     # kiara "That's amazing indeed!"
-    kiara "Điều đó thực sự tuyệt vời!"
+    kiara "Thực sự rất tuyệt đấy!"
 
 # game/characters/kiara/x2.rpy:255
 translate vietnamese kiara_x2_before3_166d9144:
@@ -424,7 +424,7 @@ translate vietnamese kiara_x2_before3_df965782:
 translate vietnamese kiara_x2_before3_6f848346:
 
     # kiara "Fill me, it's going to be so hot."
-    kiara "Lấp đầy tôi đi, nó sẽ rất nóng bên trong."
+    kiara "Lấp đầy tôi đi, nó sẽ rất nóng bên trong đây."
 
 # game/characters/kiara/x2.rpy:277
 translate vietnamese kiara_x2_cum_166d9144:
@@ -442,7 +442,7 @@ translate vietnamese kiara_x2_cum_136beec1:
 translate vietnamese kiara_x2_cum_1508fd69:
 
     # th "Just as you've asked."
-    th "Đúng như cô đã hỏi."
+    th "Đúng ý cô luôn rồi đấy."
 
 # game/characters/kiara/x2.rpy:284
 translate vietnamese kiara_x2_cum_ab54f68e:
@@ -466,7 +466,7 @@ translate vietnamese kiara_x2_cum_de8e9977:
 translate vietnamese kiara_x2_cum_53796a65:
 
     # me "Obviously, the whole experience was out of this world."
-    me "Hiển nhiên rồi, toàn bộ trải nghiệm đều nằm ngoài thế giới này."
+    me "Rõ ràng, phê hơn chơi đồ luôn."
 
 # game/characters/kiara/x2.rpy:290
 translate vietnamese kiara_x2_cum_bc4debf1:
@@ -478,7 +478,7 @@ translate vietnamese kiara_x2_cum_bc4debf1:
 translate vietnamese kiara_x2_cum_cd9c33d9:
 
     # me "That's great."
-    me "Thật tuyệt."
+    me "Tuyệt vời."
 
 # game/characters/kiara/x2.rpy:294
 translate vietnamese kiara_x2_cum_41bd298d:
@@ -491,4 +491,4 @@ translate vietnamese kiara_x2_cum_41bd298d:
 translate vietnamese kiara_x2_e3c59672:
 
     # me "Holy.. Am I in the heavens?"
-    me "Holy.. Am I in the heavens?"
+    me "Vãi... mình đang ở trên thiên đường sao?"

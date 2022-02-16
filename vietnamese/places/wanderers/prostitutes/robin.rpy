@@ -4,7 +4,7 @@
 translate vietnamese w_booth_robin_5d695e8c:
 
     # robin "Hello, [me_robin]. Madam told me to make you happy."
-    robin "Hello, [me_robin]. Madam told me to make you happy."
+    robin "Chào, [me_robin]. Tú bà bảo em phải làm cho anh vui."
 
 # game/places/wanderers/prostitutes/robin.rpy:39
 translate vietnamese w_booth_robin_2ebfa009:
@@ -1103,4 +1103,3 @@ translate vietnamese strings:
     # game/places/wanderers/prostitutes/robin.rpy:41
     old "Wall"
     new "Wall"
-

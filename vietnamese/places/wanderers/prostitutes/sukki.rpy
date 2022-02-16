@@ -1234,7 +1234,7 @@ translate vietnamese w_booth_sukki_thigh_cum_634dd1ef:
 translate vietnamese w_booth_sukki_thigh_cum_24406f4d:
 
     # sukki "I would love to stay with you longer, [me_sukki], but Madam Hof would be angry.."
-    sukki "I would love to stay with you longer, [me_sukki], but Madam Hof would be angry.."
+    sukki "I would love to stay with you longer, [me_sukki], but Madam Hof would be angry..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:750
 translate vietnamese w_booth_sukki_thigh_cum_7ca09d1c:
@@ -1281,4 +1281,3 @@ translate vietnamese strings:
     # game/places/wanderers/prostitutes/sukki.rpy:36
     old "Thighjob"
     new "Thighjob"
-

@@ -154,7 +154,7 @@ translate vietnamese kiara_cunn_1_before_88c552c5:
 translate vietnamese kiara_cunn_1_before_4e175dd3:
 
     # th "Eh.. Get out of my mind.."
-    th "Eh.. Ra khỏi đầu tôi đi.."
+    th "Eh... Ra khỏi đầu tôi đi..."
 
 # game/characters/kiara/cunn_1.rpy:108
 translate vietnamese kiara_cunn_1_before_e9f3e7cc:

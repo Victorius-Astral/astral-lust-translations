@@ -16,7 +16,7 @@ translate vietnamese kiara_1_2930e26f:
 translate vietnamese kiara_1_76761904:
 
     # kiara "It's the way you resurrect. I.. am unable to decipher it."
-    kiara "Đó là cách mà anh hồi sinh. Tôi .. không thể giải mã nó."
+    kiara "Đó là cách mà anh hồi sinh. Tôi... không thể giải mã nó."
 
 # game/characters/kiara/ev_1.rpy:10
 translate vietnamese kiara_1_d0655ce3:
@@ -52,7 +52,7 @@ translate vietnamese kiara_1_81732ecd:
 translate vietnamese kiara_1_c56ab22d:
 
     # me "I.. I never thought about it that way.."
-    me "Tôi .. tôi chưa bao giờ nghĩ theo cách đó.."
+    me "Tôi... tôi chưa bao giờ nghĩ theo cách đó.."
 
 # game/characters/kiara/ev_1.rpy:24
 translate vietnamese kiara_1_9fa6edcb:
@@ -438,4 +438,3 @@ translate vietnamese strings:
     # game/characters/kiara/ev_1.rpy:109
     old "For some extremely potent beings just a random thought about something involving them would be like screaming right into their ears."
     new "For some extremely potent beings just a random thought about something involving them would be like screaming right into their ears."
-

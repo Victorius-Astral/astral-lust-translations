@@ -10,7 +10,7 @@ translate vietnamese start_3cb4f043:
 translate vietnamese start_5b20539c:
 
     # th "This crunch is going to kill me.."
-    th "Cái tiếng này sẽ giết chết mình mất.."
+    th "Cái tiếng này sẽ giết chết mình mất..."
 
 # game/script.rpy:43
 translate vietnamese start_a54687a3:
@@ -58,7 +58,7 @@ translate vietnamese start_7483d7a0:
 translate vietnamese start_6276e074:
 
     # me "Rain was the last thing I needed.."
-    me "Những cơn mưa là thứ cuối cùng mà mình cần.."
+    me "Những cơn mưa là thứ cuối cùng mà mình cần..."
 
 # game/script.rpy:55
 translate vietnamese start_566ffa18:
@@ -250,13 +250,13 @@ translate vietnamese prologue_dialog1_a_228216f4:
 translate vietnamese prologue_dialog1_a_9e9d7500:
 
     # me "I have never heard anything about any monsters before. On the radio they said something about riots but monsters? Monsters don't even exist.."
-    me "Anh chưa bao giờ bất nghe là có quái vật cả. Trên radio họ nói gì đó về bạo loạn nhưng mà quái vật á? Chúng thậm chí còn không tồn tại.."
+    me "Anh chưa bao giờ bất nghe là có quái vật cả. Trên radio họ nói gì đó về bạo loạn nhưng mà quái vật á? Chúng thậm chí còn không tồn tại..."
 
 # game/script.rpy:165
 translate vietnamese prologue_dialog1_a_70b982c8:
 
     # u_lexi "Umm.. Radio? Radio broadcasts haven't worked since the fog appeared back then.."
-    u_lexi "Umm.. Radio? Các chương trình phát thanh đã không hoạt động kể từ khi sương mù xuất hiện rồi.."
+    u_lexi "Umm... Radio? Các chương trình phát thanh đã không hoạt động kể từ khi sương mù xuất hiện rồi..."
 
 # game/script.rpy:166
 translate vietnamese prologue_dialog1_a_ca2bb3de:
@@ -286,7 +286,7 @@ translate vietnamese prologue_dialog1_a_314086b3:
 translate vietnamese prologue_dialog1_a_eb270a08:
 
     # u_lexi "You don't look like you are lying.. You must have hit your head pretty hard."
-    u_lexi "Trông anh không giống như đang nói dối.. anh hẳn là bị đập đầu khá mạnh hoặc hút quá nhiều lá đu đủ rồi.."
+    u_lexi "Trông anh không giống như đang nói dối... anh hẳn là bị đập đầu khá mạnh hoặc hút quá nhiều lá đu đủ rồi..."
 
 # game/script.rpy:171
 translate vietnamese prologue_dialog1_a_3820771a:
@@ -310,7 +310,7 @@ translate vietnamese prologue_dialog1_b_268dfb50:
 translate vietnamese prologue_dialog1_b_3bb6aa1f:
 
     # th "Hmm.. The End.. What is this all about? I remember hearing on the radio that there was an occult gathering spreading panic with their prophecies about The End coming.."
-    th "Hmm.. The End.. Chuyện này là sao? Mình nhớ đã nghe trên đài phát thanh rằng có một nhóm người huyền bí tụ tập lại và lan truyền sự hoảng sợ với những lời tiên tri của họ về Sự kết thúc sắp xảy ra..."
+    th "Hmm... The End... Chuyện này là sao? Mình nhớ đã nghe trên đài phát thanh rằng có một nhóm người huyền bí tụ tập lại và lan truyền sự hoảng sợ với những lời tiên tri của họ về Sự kết thúc sắp xảy ra..."
 
 # game/script.rpy:181
 translate vietnamese prologue_dialog1_b_a7ad8598:
@@ -328,7 +328,7 @@ translate vietnamese prologue_dialog1_c_6c7c26a7:
 translate vietnamese prologue_dialog1_c_e385e47e:
 
     # me "And to think that everyone thought that they were mad.."
-    me "Và tất cả mọi người đều nghĩ rằng chúng bị điên.."
+    me "Và tất cả mọi người đều nghĩ rằng chúng bị điên..."
 
 # game/script.rpy:193
 translate vietnamese prologue_dialog1_c_c6f4bdb7:
@@ -382,7 +382,7 @@ translate vietnamese prologue_dialog1_c_9f08ae1d:
 translate vietnamese prologue_dialog1_c_673befaa:
 
     # u_lexi "Now there is no one around.."
-    u_lexi "Bây giờ không còn ai xung quanh nữa.."
+    u_lexi "Bây giờ không còn ai xung quanh nữa..."
 
 # game/script.rpy:216
 translate vietnamese prologue_part2_becbfbd2:
@@ -400,7 +400,7 @@ translate vietnamese prologue_part2_de505326:
 translate vietnamese prologue_part2_6061f05e:
 
     # u_lexi "No, they didn't come after us because they would rather see us suffer living than just die.. If you meet them outside, they will kill you for sure."
-    u_lexi "Không, chúng không đuổi theo chúng ta vì chúng muốn thấy chúng ta đau khổ sống không bằng chết.. Nếu anh gặp chúng ở bên ngoài, chúng chắc chắn sẽ giết anh ."
+    u_lexi "Không, chúng không đuổi theo chúng ta vì chúng muốn thấy chúng ta đau khổ sống không bằng chết... Nếu anh gặp chúng ở bên ngoài, chúng chắc chắn sẽ giết anh ."
 
 # game/script.rpy:219
 translate vietnamese prologue_part2_402f9bd1:
@@ -466,7 +466,7 @@ translate vietnamese prologue_part2_53fee24d:
 translate vietnamese prologue_part2_78178eed:
 
     # me "Thanks! Umm.. mind telling me your name?"
-    me "Cảm ơn! Umm.. em có thể cho tớ biết tên không?"
+    me "Cảm ơn! Umm... em có thể cho tớ biết tên không?"
 
 # game/script.rpy:248
 translate vietnamese prologue_part2_ff134ac7:
@@ -478,7 +478,7 @@ translate vietnamese prologue_part2_ff134ac7:
 translate vietnamese prologue_part2_e0f17b0b:
 
     # u_lexi "Right, I forgot.."
-    u_lexi "Phải rồi, tôi quên mất.."
+    u_lexi "Phải rồi, tôi quên mất..."
 
 # game/script.rpy:253
 translate vietnamese prologue_part2_2213c31d:
@@ -532,7 +532,7 @@ translate vietnamese first_room_player_ask_fecf3281:
 translate vietnamese first_room_player_ask_99c090da:
 
     # me ".. Online?"
-    me ".. Online?"
+    me "... Online?"
 
 # game/script.rpy:284
 translate vietnamese first_room_player_ask_b51f6f2b:
@@ -586,13 +586,13 @@ translate vietnamese first_room_player_ask_3820771a_2:
 translate vietnamese first_room_player_ask_3b277325:
 
     # th "Radio's not working, but there is the internet, online shopping and express delivery?"
-    th "Radio không hoạt động, nhưng có internet, mua sắm trực tuyến và chuyển phát nhanh? Hư cấu thế.."
+    th "Radio không hoạt động, nhưng có internet, mua sắm trực tuyến và chuyển phát nhanh? Hư cấu thế..."
 
 # game/script.rpy:296
 translate vietnamese first_room_player_ask_c8bb4f28:
 
     # th "If not for the fact that my cheek still hurts, I would suspect I'm dreaming."
-    th "Nếu không phải vì má vẫn còn đau, chắc mình sẽ nghĩ đây là mơ.."
+    th "Nếu không phải vì má vẫn còn đau, chắc mình sẽ nghĩ đây là mơ..."
 
 # game/script.rpy:301
 translate vietnamese first_room_player_ask_ce649c89:
@@ -677,39 +677,39 @@ translate vietnamese strings:
 
     # game/script.rpy:85
     old "Something terrifying spoke to me, in a language I've never heard before. Its voice alone was enough to take me to the edge of madness."
-    new "Something terrifying spoke to me, in a language I've never heard before. Its voice alone was enough to take me to the edge of madness."
+    new "Có điều gì đó đáng sợ đã nói với tôi, bằng thứ ngôn ngữ mà tôi chưa từng nghe bao giờ. Chỉ riêng giọng nói của nó đã đủ đưa tôi đến bờ vực của sự điên loạn."
 
     # game/script.rpy:158
     old "Monsters wander outside devouring anyone they encounter. For unknown reasons they never enter communities."
-    new "Monsters wander outside devouring anyone they encounter. For unknown reasons they never enter communities."
+    new "Quái vật lang thang bên ngoài nuốt chửng bất cứ ai chúng gặp phải. Vì những lý do không xác định, chúng không bao giờ tấn công vào  các cộng đồng."
 
     # game/script.rpy:203
     old "Cultists performed a grand ritual to make The End descend."
-    new "Cultists performed a grand ritual to make The End descend."
+    new "Những tên cuồng đạo đã thực hiện một nghi lễ lớn để đem cho The End đến đây."
 
     # game/script.rpy:214
     old "Radio doesn't work. Most of humanity is gone, government and army have fallen. There is no salvation and no hope."
-    new "Radio doesn't work. Most of humanity is gone, government and army have fallen. There is no salvation and no hope."
+    new "Đài không hoạt động. Hầu hết nhân loại đã biến mất, chính phủ và quân đội đã sụp đổ. Không có sự cứu rỗi và không có hy vọng."
 
     # game/script.rpy:215
     old "The remnants of the human race have gathered in communities."
-    new "The remnants of the human race have gathered in communities."
+    new "Tàn dư của loài người đã tập hợp lại trong các cộng đồng."
 
     # game/script.rpy:230
     old "I have awakened one year after The End broke loose. What happened to me during the past year?"
-    new "I have awakened one year after The End broke loose. What happened to me during the past year?"
+    new "Tôi đã thức tỉnh một năm sau khi The End tan rã. Điều gì đã xảy ra với mình trong năm qua vậy?"
 
     # game/script.rpy:252
     old "She's the first person I met after awakening, she discovered me sleeping on her sofa."
-    new "She's the first person I met after awakening, she discovered me sleeping on her sofa."
+    new "Cô ấy là người đầu tiên tôi gặp sau khi tỉnh dậy, cô ấy phát hiện ra tôi đang ngủ trên ghế sofa của cô ấy."
 
     # game/script.rpy:258
     old "This is the community I have awakened to. It's inhabited by four girls: Alice, Grace, Lexi and Mina."
-    new "This is the community I have awakened to. It's inhabited by four girls: Alice, Grace, Lexi and Mina."
+    new "Đây là cộng đồng mà tôi đã thức dậy. Nó là nơi sinh sống của bốn cô gái: Alice, Grace, Lexi và Mina."
 
     # game/script.rpy:288
     old "While most sites are down, the internet is somehow working."
-    new "While most sites are down, the internet is somehow working."
+    new "Mặc dù hầu hết các trang web không hoạt động, nhưng bằng cách nào đó internet vẫn hoạt động."
 
     # game/script.rpy:292
     old "Hollow Market"
@@ -717,12 +717,12 @@ translate vietnamese strings:
 
     # game/script.rpy:292
     old "It's online shopping service created by Hed the Gamer. They provide express delivery. I can access it from the pc in my room."
-    new "It's online shopping service created by Hed the Gamer. They provide express delivery. I can access it from the pc in my room."
+    new "Đó là dịch vụ mua sắm trực tuyến do Hed the Gamer tạo ra. Họ cung cấp chuyển phát nhanh. Tôi có thể truy cập nó từ máy tính trong phòng của mình."
 
     # game/script.rpy:306
     old "Cultists are extremely dangerous, much more so than monsters."
-    new "Cultists are extremely dangerous, much more so than monsters."
+    new "Lũ Cuồng giáo cực kỳ nguy hiểm, hơn cả quái vật."
 
     # game/script.rpy:312
     old "She's the scavenger in the Jade Hotel."
-    new "She's the scavenger in the Jade Hotel."
+    new "Cô ấy là người đi kiếm đồ của khách sạn jade."

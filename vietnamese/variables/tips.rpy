@@ -20,7 +20,7 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "I wonder if I would turn insane if it spoke to me again.."
-    new "Mình tự hỏi nếu mình có trở nên mất trí nếu nó nói với mình một lần nữa không.."
+    new "Không biết liệu mình có trở nên mất trí nếu nó nói chuyện với mình một lần nữa không..."
 
     # game/variables/tips.rpy:4
     old "My dreams are becoming more disturbing as of late."
@@ -32,7 +32,7 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "I need to ask Kiara about this.. being.."
-    new "Mình cần hỏi Kiara về.. thực thể này.."
+    new "Mình cần hỏi Kiara về... thực thể này..."
 
     # game/variables/tips.rpy:4
     old "I should wait for her to return, I hope, she's safe."
@@ -248,7 +248,7 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "I believe her leg would get better soon. She will let me know I guess."
-    new "Tôi tin rằng chân của cô ấy sẽ sớm tốt hơn. Cô ấy sẽ cho tôi biết, chắc thế.."
+    new "Tôi tin rằng chân của cô ấy sẽ sớm tốt hơn. Cô ấy sẽ cho tôi biết, chắc thế..."
 
     # game/variables/tips.rpy:4
     old "She left for home."
@@ -264,7 +264,7 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "I should find a way to build a shrine to make her move to the hotel."
-    new "Tôi nên tìm cách xây điện thờ để làm cô ấy chuyển đến khách sạn.."
+    new "Tôi nên tìm cách xây điện thờ để làm cô ấy chuyển đến khách sạn..."
 
     # game/variables/tips.rpy:4
     old "She seems to be sulking lately I should ask her about it. Maybe Alice could help."
@@ -332,4 +332,3 @@ translate vietnamese strings:
     # game/variables/tips.rpy:4
     old "I should ask her next day how she gets along with the girls."
     new "I should ask her next day how she gets along with the girls."
-

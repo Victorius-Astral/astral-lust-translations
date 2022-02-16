@@ -12,7 +12,7 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "Play with her, or wait for her lust to reach the critical point.. What will she do once her lust goes over the roof?"
-    new "Chơi với cô ấy, hoặc đợi cho sự ham muốn của cô ấy đạt đến điểm cực hạn .. Cô ấy sẽ làm gì đó một khi dục vọng của cô ấy vượt quá mức?"
+    new "Chơi với cô ấy, hoặc đợi cho sự ham muốn của cô ấy đạt đến điểm cực hạn... Cô ấy sẽ làm gì đó một khi dục vọng của cô ấy vượt quá mức?"
 
     # game/variables/help.rpy:3
     old "{lust}Will she run? Will she cheat on you? I know, but you don't have this privilege. Do you have the balls to check?{/lust}"
@@ -120,11 +120,11 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "The agility training facility is the easiest to notice, to the left, there is a vaulting horse, you can jump over, and a lot of mattresses."
-    new "Nơi sự nhanh nhẹn là dễ nhận thấy nhất, bên trái, có một con ngựa vòm, bạn có thể nhảy qua, và rất nhiều nệm.."
+    new "Nơi sự nhanh nhẹn là dễ nhận thấy nhất, bên trái, có một con ngựa vòm, bạn có thể nhảy qua, và rất nhiều nệm..."
 
     # game/variables/help.rpy:3
     old "Here you can.. store things! Surprising, I know."
-    new "Ở đây bạn có thể .. lưu trữ mọi thứ! ngạc nhiên, tôi biết."
+    new "Ở đây bạn có thể... lưu trữ mọi thứ! ngạc nhiên, tôi biết."
 
     # game/variables/help.rpy:3
     old "You can store both items and cards, per level of vault:"
@@ -240,4 +240,3 @@ translate vietnamese strings:
     # game/variables/help.rpy:3
     old "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over. Be careful.{/color}"
     new "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over. Be careful.{/color}"
-

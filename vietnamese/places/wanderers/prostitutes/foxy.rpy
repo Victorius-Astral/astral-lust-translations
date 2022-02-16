@@ -4,19 +4,19 @@
 translate vietnamese w_booth_foxy_4261b2ea:
 
     # foxy "Hello [me_foxy]. [foxy] here, all yours."
-    foxy "Hello [me_foxy]. [foxy] here, all yours."
+    foxy "Chào [me_foxy]. [foxy] đã ở đây rồi, tất cả là của [me_foxy] hết đấy."
 
 # game/places/wanderers/prostitutes/foxy.rpy:28
 translate vietnamese w_booth_foxy_7d6d797a:
 
     # me "Hey [foxy], what can you do for me?"
-    me "Hey [foxy], what can you do for me?"
+    me "Này [foxy], em có thể làm gì cho anh?"
 
 # game/places/wanderers/prostitutes/foxy.rpy:42
 translate vietnamese w_booth_foxy_menu1_c9097cfc:
 
     # foxy "Of course, [me_foxy]."
-    foxy "Of course, [me_foxy]."
+    foxy "Tất nhiên rồi [me_foxy]."
 
 # game/places/wanderers/prostitutes/foxy.rpy:47
 translate vietnamese w_booth_foxy_menu1_00bf11c7:
@@ -94,7 +94,7 @@ translate vietnamese w_booth_foxy_end_3c11807e:
 translate vietnamese w_booth_foxy_wall_d9792d98:
 
     # foxy "Here. Please, fuck me, [me_foxy]."
-    foxy "Here. Please, fuck me, [me_foxy]."
+    foxy "Đây này. Làm ơn hãy địt em đi, [me_foxy]."
 
 # game/places/wanderers/prostitutes/foxy.rpy:80
 translate vietnamese w_booth_foxy_wall_aa93b10c:
@@ -881,4 +881,3 @@ translate vietnamese strings:
     # game/places/wanderers/prostitutes/foxy.rpy:30
     old "Against the wall"
     new "Against the wall"
-
