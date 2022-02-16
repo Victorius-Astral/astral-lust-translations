@@ -1104,3 +1104,11 @@ translate vietnamese strings:
     old "Wall"
     new "Wall"
 
+# TODO: Translation updated at 2022-02-16 09:38
+
+translate vietnamese strings:
+
+    # game/places/wanderers/prostitutes/robin.rpy:2
+    old "mister"
+    new "mister"
+

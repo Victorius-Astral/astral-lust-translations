@@ -51,7 +51,7 @@ translate spanish kiara_help_0efd1122:
 # game/characters/kiara/help.rpy:60
 translate spanish kiara_help_20bb527d:
 
-    # kiara Bien, tu pago."
+    kiara "Bien, tu pago."
 
 # game/characters/kiara/help.rpy:62
 translate spanish kiara_help_f72d18fd:

@@ -77,3 +77,95 @@ translate vietnamese kiara_sex_3_fast_850030e7:
 
     # me ""
     me ""
+# TODO: Translation updated at 2022-02-16 09:38
+
+# game/characters/kiara/sex_3.rpy:92
+translate vietnamese kiara_sex_3_fast_b7a83025:
+
+    # me "Fuck."
+    me "Fuck."
+
+# game/characters/kiara/sex_3.rpy:93
+translate vietnamese kiara_sex_3_fast_6afa0f8d:
+
+    # kiara "How do I feel?"
+    kiara "How do I feel?"
+
+# game/characters/kiara/sex_3.rpy:94
+translate vietnamese kiara_sex_3_fast_4218bd69:
+
+    # me "Tight."
+    me "Tight."
+
+# game/characters/kiara/sex_3.rpy:100
+translate vietnamese kiara_sex_3_before_3c013828:
+
+    # kiara "Mmm!"
+    kiara "Mmm!"
+
+# game/characters/kiara/sex_3.rpy:101
+translate vietnamese kiara_sex_3_before_04d8c388:
+
+    # kiara "Ahh!!"
+    kiara "Ahh!!"
+
+# game/characters/kiara/sex_3.rpy:102
+translate vietnamese kiara_sex_3_before_5db79423:
+
+    # kiara "Ohhh!"
+    kiara "Ohhh!"
+
+# game/characters/kiara/sex_3.rpy:110
+translate vietnamese kiara_sex_3_cum_a5db8232:
+
+    # kiara "Ahhhh!!"
+    kiara "Ahhhh!!"
+
+# game/characters/kiara/sex_3.rpy:114
+translate vietnamese kiara_sex_3_cum_8eda3dd3:
+
+    # me "Oh.."
+    me "Oh.."
+
+# game/characters/kiara/sex_3.rpy:115
+translate vietnamese kiara_sex_3_cum_98654294:
+
+    # kiara "That felt great."
+    kiara "That felt great."
+
+# game/characters/kiara/sex_3.rpy:116
+translate vietnamese kiara_sex_3_cum_6b9f946a:
+
+    # me "It did."
+    me "It did."
+
+# game/characters/kiara/sex_3.rpy:120
+translate vietnamese kiara_sex_3_cum_6a316fd6:
+
+    # kiara "Mmm."
+    kiara "Mmm."
+
+# game/characters/kiara/sex_3.rpy:124
+translate vietnamese kiara_sex_3_cum_0d6e2182:
+
+    # kiara "It's the appropriate time for us to clothe ourselves."
+    kiara "It's the appropriate time for us to clothe ourselves."
+
+# game/characters/kiara/sex_3.rpy:125
+translate vietnamese kiara_sex_3_cum_b22dad99:
+
+    # me "Are you afraid of being caught?"
+    me "Are you afraid of being caught?"
+
+# game/characters/kiara/sex_3.rpy:126
+translate vietnamese kiara_sex_3_cum_951bdf8a:
+
+    # kiara "Haha, no."
+    kiara "Haha, no."
+
+# game/characters/kiara/sex_3.rpy:127
+translate vietnamese kiara_sex_3_cum_de7c1f1f:
+
+    # kiara "Now take you dick out, and get your clothes on."
+    kiara "Now take you dick out, and get your clothes on."
+
