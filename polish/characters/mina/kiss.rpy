@@ -1386,3 +1386,11 @@ translate polish strings:
     old "Hell yeah, I'm in. Stretch your mouth well. You'll need to keep it wide open for a long time"
     new "Hell yeah, I'm in. Stretch your mouth well. You'll need to keep it wide open for a long time"
 
+# TODO: Translation updated at 2022-02-16 09:42
+
+translate polish strings:
+
+    # game/characters/mina/kiss.rpy:331
+    old "I'll think about it. How about a simple kiss in the meanwhile"
+    new "I'll think about it. How about a simple kiss in the meanwhile"
+

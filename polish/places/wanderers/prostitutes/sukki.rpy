@@ -1282,3 +1282,11 @@ translate polish strings:
     old "Thighjob"
     new "Thighjob"
 
+# TODO: Translation updated at 2022-02-16 09:42
+
+translate polish strings:
+
+    # game/places/wanderers/prostitutes/sukki.rpy:2
+    old "daddy"
+    new "daddy"
+

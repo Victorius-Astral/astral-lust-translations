@@ -258,3 +258,11 @@ translate polish strings:
     old "I'm sure"
     new "I'm sure"
 
+# TODO: Translation updated at 2022-02-16 09:42
+
+translate polish strings:
+
+    # game/places/wanderers/prostitutes/amanda.rpy:2
+    old "sir"
+    new "sir"
+

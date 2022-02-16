@@ -1564,3 +1564,11 @@ translate polish strings:
     old "Rhainda"
     new "Rhainda"
 
+# TODO: Translation updated at 2022-02-16 09:42
+
+# game/characters/rhainda/ev_1.rpy:528
+translate polish rhainda_1_end_1fd0de5b:
+
+    # lil_fox "And I'm Little Fox, the most adorable fox to ever exist!"
+    lil_fox "And I'm Little Fox, the most adorable fox to ever exist!"
+

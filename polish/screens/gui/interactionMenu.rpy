@@ -226,3 +226,11 @@ translate polish strings:
     old "*Toggle with '{b}I{/b}' key"
     new "*Toggle with '{b}I{/b}' key"
 
+# TODO: Translation updated at 2022-02-16 09:42
+
+translate polish strings:
+
+    # game/screens/gui/interactionMenu.rpy:75
+    old "[rhainda] & [lil_fox]"
+    new "[rhainda] & [lil_fox]"
+
