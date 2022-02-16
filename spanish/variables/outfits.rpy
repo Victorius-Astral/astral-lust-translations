@@ -82,3 +82,11 @@ translate spanish strings:
     old "Hundreds of years of holding back, and now she's hornier than ever."
     new "Hundreds of years of holding back, and now she's hornier than ever."
 
+# TODO: Translation updated at 2022-02-16 09:41
+
+translate spanish strings:
+
+    # game/variables/outfits.rpy:3
+    old "Cheongsam"
+    new "Cheongsam"
+

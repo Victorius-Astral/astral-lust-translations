@@ -30,3 +30,11 @@ translate spanish strings:
     old "|{#pcSeparator}"
     new "|{#pcSeparator}"
 
+# TODO: Translation updated at 2022-02-16 09:41
+
+translate spanish strings:
+
+    # game/screens/pc/pc.rpy:3
+    old "Difficulty Settings"
+    new "Difficulty Settings"
+

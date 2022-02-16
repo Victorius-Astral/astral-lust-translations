@@ -316,3 +316,11 @@ translate spanish strings:
     # game/variables/help.rpy:3
     old "Forge allows you to do mostly two things:"
     new "La forja te permite hacer principalmente dos cosas:"
+# TODO: Translation updated at 2022-02-16 09:41
+
+translate spanish strings:
+
+    # game/variables/help.rpy:3
+    old "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over. Be careful.{/color}"
+    new "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over. Be careful.{/color}"
+

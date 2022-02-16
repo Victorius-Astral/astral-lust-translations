@@ -257,3 +257,11 @@ translate spanish strings:
     # game/places/wanderers/prostitutes/amanda.rpy:35
     old "I'm sure"
     new "Estoy seguro"
+# TODO: Translation updated at 2022-02-16 09:41
+
+translate spanish strings:
+
+    # game/places/wanderers/prostitutes/amanda.rpy:2
+    old "sir"
+    new "sir"
+

@@ -636,3 +636,15 @@ translate spanish strings:
     # game/variables/replays.rpy:257
     old "Treasure Finder"
     new "Buscador de Tesoros"
+# TODO: Translation updated at 2022-02-16 09:41
+
+translate spanish strings:
+
+    # game/variables/replays.rpy:30
+    old "Horse Riding Lessons"
+    new "Horse Riding Lessons"
+
+    # game/variables/replays.rpy:89
+    old "Agoraphobia"
+    new "Agoraphobia"
+
