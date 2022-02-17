@@ -48,47 +48,47 @@ translate polish strings:
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}8. Some events have other conditions like having other girl affection above some value.{/color}"
-    new "{color=#45B6FE}8. Some events have other conditions like having other girl affection above some value.{/color}"
+    new "{color=#45B6FE}8. Niektóre wydarzenia mają inne wymagania jak sympatia innej dziewczyny powyżej danego poziomu.{/color}"
 
     # game/variables/help.rpy:3
     old "9. Every girl can have only one story event any given day."
-    new "9. Every girl can have only one story event any given day."
+    new "9. Każda dziewczyna może mieć tylko JEDNO wydarzenie fabularne każdego dnia."
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}10. Later events require girls to trust you. You can increase girls trust by doing repeatable events with them.{/color}"
-    new "{color=#45B6FE}10. Later events require girls to trust you. You can increase girls trust by doing repeatable events with them.{/color}"
+    new "{color=#45B6FE}10. Późniejsze wydarzenia wymagają zaufania dziewczyn. Możesz zwiększyć ich zaufanie poprzez powtarzalne wydarzenia.{/color}"
 
     # game/variables/help.rpy:3
     old "11. You can expand your hotel at lobby counter, build vault as quick as possible to store materials you find."
-    new "11. You can expand your hotel at lobby counter, build vault as quick as possible to store materials you find."
+    new "11. Możesz rozbudować swój hotel na ladzie w lobby. Szybko wybuduj skarbiec by chować tam materiały, które zdobędziesz."
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}14. You can find collectibles to unlock additional pictures on pc. Look for golden condoms and condom packs.{/color}"
-    new "{color=#45B6FE}14. You can find collectibles to unlock additional pictures on pc. Look for golden condoms and condom packs.{/color}"
+    new "{color=#45B6FE}14. Możesz znaleźć znajdźki aby odblokować dodatkowe obrazki na komputerze. Szukaj złotych kondomów i paczek kondomów.{/color}"
 
     # game/variables/help.rpy:3
     old "Forge allows you to do four things:"
-    new "Forge allows you to do four things:"
+    new "Kuźnia pozwala na cztery rzeczy:"
 
     # game/variables/help.rpy:3
     old " • Craft cards"
-    new " • Craft cards"
+    new " • Tworzenie kart"
 
     # game/variables/help.rpy:3
     old " • Upgrade cards (Soon)"
-    new " • Upgrade cards (Soon)"
+    new " • Ulepszanie kart (Wkrótce)"
 
     # game/variables/help.rpy:3
     old " • Destroy unwanted cards"
-    new " • Destroy unwanted cards"
+    new " • Niszczenie niechcianych kart"
 
     # game/variables/help.rpy:3
     old " • Upgrade other rooms"
-    new " • Upgrade other rooms"
+    new " • Ulepszanie innych pokoi"
 
     # game/variables/help.rpy:3
     old "\nTry clicking on various forge utilities, like anvil."
-    new "\nTry clicking on various forge utilities, like anvil."
+    new "\nSpóbuj kliknąć na różne przyrządy kowalskie, jak kowadło."
 
     # game/variables/help.rpy:3
     old "You can get various materials from defeated monsters, you can also buy some stuff from traders."
@@ -292,7 +292,7 @@ translate polish strings:
 
     # game/variables/help.rpy:3
     old "{gold}Remember, raising your stats can increase your combat ability dramatically!{/gold}"
-    new "{gold}Remember, raising your stats can increase your combat ability dramatically!{/gold}"
+    new "{gold}Pamiętaj! Polepszanie swoich statystyk może drastycznie zwiększyć twoją sprawność bojową!{/gold}"
 
 # Translation updated at 2021-07-11 16:45
 

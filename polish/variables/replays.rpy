@@ -593,3 +593,27 @@ translate polish strings:
     # game/variables/replays.rpy:257
     old "Treasure Finder"
     new "Poszukiwaczka Skarbów"
+
+# Translation updated at 2022-02-17 20:50
+
+translate polish strings:
+
+    # game/variables/replays.rpy:130
+    old "Nightmare"
+    new "Koszmar"
+
+    # game/variables/replays.rpy:163
+    old "Creation Myth"
+    new "Mit Stworzenia"
+
+    # game/variables/replays.rpy:232
+    old "Ending - Reunion"
+    new "Zakończenie - Ponowne Spotkanie"
+
+    # game/variables/replays.rpy:268
+    old "Adventurous Vixen"
+    new "Podróżnicza Lisica"
+
+    # game/variables/replays.rpy:268
+    old "First Days in the Hotel"
+    new "Pierwsze Dnie w Hotelu"

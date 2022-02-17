@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# Translation updated at 2022-01-31 15:20
 
 translate polish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "2F Corridor"
-    new "2F Corridor"
+    new "Korytarz - Pierwsze Piętro"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "TV"
@@ -16,11 +16,11 @@ translate polish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "1F Corridor"
-    new "1F Corridor"
+    new "Korytarz - Parter"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Prisoners"
-    new "Prisoners"
+    new "Więźniowie"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[grace]"
@@ -32,67 +32,67 @@ translate polish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Your Room"
-    new "Your Room"
+    new "Twój pokój"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[lexi]'s & [mina]'s Room"
-    new "[lexi]'s & [mina]'s Room"
+    new "Pokój - [lexi] oraz [mina]"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[alice] Room"
-    new "[alice] Room"
+    new "Pokój - [alice]"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[grace] Room"
-    new "[grace] Room"
+    new "Pokój - [grace]"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "3rd Floor"
-    new "3rd Floor"
+    new "Korytarz - Drugie Piętro"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Cupboard"
-    new "Cupboard"
+    new "Szafka"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Other side"
-    new "Other side"
+    new "Druga strona"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "2nd Floor"
-    new "2nd Floor"
+    new "Pierwsze Piętro"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[savenia]'s Room"
-    new "[savenia]'s Room"
+    new "Pokój - [savenia]"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "F2 Corridor"
-    new "F2 Corridor"
+    new "Korytarz - Pierwsze Piętro"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Barbell Bench"
-    new "Barbell Bench"
+    new "Ławka ze sztangą"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Stationary Bike"
-    new "Stationary Bike"
+    new "Rower stacjonarny"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Obstacle"
-    new "Obstacle"
+    new "Przeszkoda"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "F1 Corridor"
-    new "F1 Corridor"
+    new "Korytarz - Parter"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Fridge"
-    new "Fridge"
+    new "Lodówka"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[lexi] & [grace]"
-    new "[lexi] & [grace]"
+    new "[lexi] i [grace]"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[cat]"
@@ -100,7 +100,7 @@ translate polish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Documents"
-    new "Documents"
+    new "Dokumenty"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Laptop"
@@ -108,15 +108,15 @@ translate polish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Books (Left)"
-    new "Books (Left)"
+    new "Książki (Lewa)"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Books (Right)"
-    new "Books (Right)"
+    new "Książki (Prawa)"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Door"
-    new "Door"
+    new "Drzwi"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[kiara]"
@@ -128,19 +128,19 @@ translate polish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Outside Door"
-    new "Outside Door"
+    new "Drzwi wejściowe"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Expansions"
-    new "Expansions"
+    new "Dobudówki"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Counter"
-    new "Counter"
+    new "Lada"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Bike"
-    new "Bike"
+    new "Motocykl"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[rachel]"
@@ -152,47 +152,47 @@ translate polish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "PC"
-    new "PC"
+    new "Komputer"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Mirror"
-    new "Mirror"
+    new "Lustro"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Rubik's Cube"
-    new "Rubik's Cube"
+    new "Kostka Rubika"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Books"
-    new "Books"
+    new "Książki"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Altar"
-    new "Altar"
+    new "Ołtarz"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Chest"
-    new "Chest"
+    new "Skrzynia"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Gray Cupboard"
-    new "Gray Cupboard"
+    new "Szara szafka"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "White Cupboard"
-    new "White Cupboard"
+    new "Biała szafka"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Wardrobe"
-    new "Wardrobe"
+    new "Szafa"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Test Notifications"
-    new "Test Notifications"
+    new "Test powiadomień"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "3F Corridor"
-    new "3F Corridor"
+    new "Korytarz - Drugie Piętro"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[savenia]"
@@ -200,19 +200,19 @@ translate polish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Gun Workshop"
-    new "Gun Workshop"
+    new "Warsztat Rusznikarza"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Brothel"
-    new "Brothel"
+    new "Burdel"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Main Plaza"
-    new "Main Plaza"
+    new "Plac Główny"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[lola] Room"
-    new "[lola] Room"
+    new "Pokój - [lola]"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[lil_fox]"
@@ -220,17 +220,16 @@ translate polish strings:
 
     # game/screens/gui/interactionMenu.rpy:367
     old "Interact:"
-    new "Interact:"
+    new "Użyj:"
 
     # game/screens/gui/interactionMenu.rpy:387
     old "*Toggle with '{b}I{/b}' key"
-    new "*Toggle with '{b}I{/b}' key"
+    new "*Przełącz za pomocą '{b}I{/b}'"
 
-# TODO: Translation updated at 2022-02-16 09:42
+# Translation updated at 2022-02-16 09:42
 
 translate polish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[rhainda] & [lil_fox]"
-    new "[rhainda] & [lil_fox]"
-
+    new "[rhainda] i [lil_fox]"

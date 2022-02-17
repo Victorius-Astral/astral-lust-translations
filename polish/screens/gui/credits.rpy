@@ -1,24 +1,70 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+# Translation updated at 2022-02-17 20:50
 
 translate polish strings:
 
-    # game/screens/gui/credits.rpy:25
-    old "{color=#FF424D}\nSupporters:{/color}"
-    new "{color=#FF424D}\nSupporters:{/color}"
+    # game/screens/gui/credits.rpy:48
+    old "\nSupporters:"
+    new "\nWspierający:"
 
-    # game/screens/gui/credits.rpy:27
-    old "{color=#00ffb6}\nEditor: Strectmar, {a=https://kasami-lee.carrd.co/}Kasami Lee{/a}{/color}"
-    new "{color=#00ffb6}\nEditor: Strectmar, {a=https://kasami-lee.carrd.co/}Kasami Lee{/a}{/color}"
+    # game/screens/gui/credits.rpy:53
+    old "\nLead Designer"
+    new "\nGłówny Projektant"
 
-    # game/screens/gui/credits.rpy:31
-    old "{color=#b96d19}\nTranslation: Denker {i}(Spanish){/i}, Natsuki {i}(Vietnamese){/i}{/color}"
-    new "{color=#b96d19}\nTranslation: Denker {i}(Spanish){/i}, Natsuki {i}(Vietnamese){/i}{/color}"
+    # game/screens/gui/credits.rpy:56
+    old "\nLead Programmer"
+    new "\nGłówny Programista"
 
-    # game/screens/gui/credits.rpy:36
-    old "\nIcons: {a=https://www.game-icons.net}Lorc, Dealpouite, Guard13007, sbed, Skoll and Faithtoken (some icons merged with other icons) from Game-icons.net{/a} under {a=https://creativecommons.org/licenses/by/3.0/}CC BY 3.0{/a}, {a=https://www.iconpacks.net}iconpacks.net{/a}, {a=https://www.freepik.com}Freepik{/a} from {a=https://www.flaticon.com/}www.flaticon.com{/a}"
-    new "\nIcons: {a=https://www.game-icons.net}Lorc, Dealpouite, Guard13007, sbed, Skoll and Faithtoken (some icons merged with other icons) from Game-icons.net{/a} under {a=https://creativecommons.org/licenses/by/3.0/}CC BY 3.0{/a}, {a=https://www.iconpacks.net}iconpacks.net{/a}, {a=https://www.freepik.com}Freepik{/a} from {a=https://www.flaticon.com/}www.flaticon.com{/a}"
+    # game/screens/gui/credits.rpy:59
+    old "\nLead Writer"
+    new "\nGłówny Pisarz"
 
-    # game/screens/gui/credits.rpy:37
-    old "\nArt: Niklaus, Victorius {a=https://www.pixabay.com}www.pixabay.com{/a}"
-    new "\nArt: Niklaus, Victorius {a=https://www.pixabay.com}www.pixabay.com{/a}"
+    # game/screens/gui/credits.rpy:60
+    old "Still Victorius"
+    new "Nadal Victorius"
 
+    # game/screens/gui/credits.rpy:62
+    old "\nWriter"
+    new "\nPisarz"
+
+    # game/screens/gui/credits.rpy:65
+    old "\nText Editor:"
+    new "\nEdytor:"
+
+    # game/screens/gui/credits.rpy:68
+    old "\nTranslation"
+    new "\nTłumaczenia"
+
+    # game/screens/gui/credits.rpy:71
+    old "\nMusic"
+    new "\nMuzyka"
+
+    # game/screens/gui/credits.rpy:74
+    old "\nSound"
+    new "\nDźwięk"
+
+    # game/screens/gui/credits.rpy:77
+    old "\nIcons"
+    new "\nIkony"
+    # game/screens/gui/credits.rpy:80
+    old "\nArt"
+    new "\nGrafika"
+
+    # game/screens/gui/credits.rpy:83
+    old "\nCreepypasta"
+    new "\nCreepypasta"
+
+    # game/screens/gui/credits.rpy:84
+    old "Ashley Rose Wellman (phone calls), Andrew LaBelle (shower), Mycool of The Fear Collective (sleep), Ryan Brennaman (gravedigger)"
+    new "Ashley Rose Wellman (phone calls), Andrew LaBelle (shower), Mycool of The Fear Collective (sleep), Ryan Brennaman (gravedigger)"
+
+    # game/screens/gui/credits.rpy:86
+    old "\nContributed Code"
+    new "\nWniesiono Kod"
+
+    # game/screens/gui/credits.rpy:89
+    old "\nPublic Relations"
+    new "\nRelacje Publiczne"
+
+    # game/screens/gui/credits.rpy:92
+    old "\nCommunity Manager:"
+    new "\nMenedżer Społeczności:"

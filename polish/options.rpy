@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# Translation updated at 2021-05-12 10:09
 
 translate polish strings:
 

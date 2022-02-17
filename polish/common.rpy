@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# Translation updated at 2021-05-12 10:09
 
 translate polish strings:
 
@@ -1147,4 +1147,4 @@ translate polish strings:
 
     # renpy/common/00preferences.rpy:493
     old "high contrast text"
-    new "tekst z wysokim kontrastem"
+    new "tekst o wysokim kontraście"
