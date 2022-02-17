@@ -50,3 +50,11 @@ translate spanish strings:
     old "\n________________"
     new "\n________________"
 
+# TODO: Translation updated at 2022-02-16 09:41
+
+translate spanish strings:
+
+    # game/combat/cards/lists/tips.rpy:1
+    old "{{small}}{{patreon1}}Anniversary - 19th January{{/patreon1}}{{/small}}"
+    new "{{small}}{{patreon1}}Anniversary - 19th January{{/patreon1}}{{/small}}"
+

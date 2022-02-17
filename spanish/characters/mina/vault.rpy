@@ -10,7 +10,7 @@ translate spanish mina_vault_speak_d04023c6:
 translate spanish mina_vault_speak_doing_here_7dc5e49c:
 
     # mina "I was taking a look at what you've been doing here all this time."
-    mina "I was taking a look at what you've been doing here all this time."
+    mina "Estaba echando un vistazo a lo que has estado haciendo aquí todo este tiempo."
 
 # game/characters/mina/vault.rpy:24
 translate spanish mina_vault_speak_doing_here_ae6c106f:
@@ -223,4 +223,3 @@ translate spanish strings:
     # game/characters/mina/vault.rpy:98
     old "Eat you out"
     new "Eat you out"
-

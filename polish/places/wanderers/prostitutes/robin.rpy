@@ -1108,3 +1108,11 @@ translate polish strings:
     old "Wall"
     new "Wall"
 
+# TODO: Translation updated at 2022-02-16 09:42
+
+translate polish strings:
+
+    # game/places/wanderers/prostitutes/robin.rpy:2
+    old "mister"
+    new "mister"
+

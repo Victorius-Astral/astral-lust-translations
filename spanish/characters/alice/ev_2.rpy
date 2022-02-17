@@ -4,7 +4,7 @@
 translate spanish alice_2_68ab42c9:
 
     # "You open your eyes ready to start your day only to find [alice] staring at you!"
-    "Yo¡Abres los ojos listo para comenzar tu día solo para encontrar a [alice] mirándote!"
+    "¡Abres los ojos listo para comenzar tu día solo para encontrar a [alice] mirándote!"
 
 # game/characters/alice/ev_2.rpy:7
 translate spanish alice_2_61660bd0:
@@ -118,7 +118,7 @@ translate spanish alice_2_684cff90:
 translate spanish alice_2_7ef9d6b1:
 
     # alice "{color=#FF958F}[[Charisma check passed]{/color} Sure, why not."
-    alice "{color=#FF958F}[[Charisma check passed]{/color} Claro, ¿por qué no?"
+    alice "{color=#FF958F}[[Carisma suficiente]{/color} Claro, ¿por qué no?"
 
 # game/characters/alice/ev_2.rpy:43
 translate spanish alice_2_a5fcc5f8:
@@ -160,7 +160,7 @@ translate spanish alice_2_13dffb78:
 translate spanish alice_2_9f032116:
 
     # alice "{color=#FF958F}[[Charisma check failed]{/color} Pfft! You wish!"
-    alice "{color=#FF958F}[[Charisma check failed]{/color} ¡Pfft! ¡Ya quisieras!"
+    alice "{color=#FF958F}[[Carisma insuficiente]{/color} ¡Pfft! ¡Ya quisieras!"
 
 # game/characters/alice/ev_2.rpy:57
 translate spanish alice_2_87779cbd:
@@ -262,7 +262,7 @@ translate spanish alice_2_1a_ad25ac73:
 translate spanish alice_2_1a_41a30f7c:
 
     # "With that she hops out of your room all smiles."
-    "Con eso ella salta de tu habitación, toda sonriente."
+    "Con eso ella sale de tu habitación, toda sonriente."
 
 # game/characters/alice/ev_2.rpy:90
 translate spanish alice_2_1a_3820771a:

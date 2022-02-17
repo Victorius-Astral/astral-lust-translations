@@ -382,4 +382,12 @@ translate spanish strings:
 
     # game/screens.rpy:423
     old "Resume"
-    new "Resume"
+    new "Resumen"
+# TODO: Translation updated at 2022-02-16 09:41
+
+translate spanish strings:
+
+    # game/screens.rpy:189
+    old "CONFIRM"
+    new "CONFIRM"
+

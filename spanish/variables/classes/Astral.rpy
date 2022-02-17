@@ -37,3 +37,11 @@ translate spanish strings:
     # game/variables/classes/Astral.rpy:477
     old "HELP"
     new "AYUDA"
+# TODO: Translation updated at 2022-02-16 09:41
+
+translate spanish strings:
+
+    # game/variables/classes/Astral.rpy:311
+    old "This is the end of {who} story in {ver}. This story will be continued soon! You can check for news, and new version on my {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreon{{/a}}{{/patreon1}}."
+    new "This is the end of {who} story in {ver}. This story will be continued soon! You can check for news, and new version on my {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreon{{/a}}{{/patreon1}}."
+

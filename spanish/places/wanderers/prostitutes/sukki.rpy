@@ -1281,3 +1281,11 @@ translate spanish strings:
     # game/places/wanderers/prostitutes/sukki.rpy:36
     old "Thighjob"
     new "Con sus muslos"
+# TODO: Translation updated at 2022-02-16 09:41
+
+translate spanish strings:
+
+    # game/places/wanderers/prostitutes/sukki.rpy:2
+    old "daddy"
+    new "daddy"
+

@@ -154,7 +154,7 @@ translate spanish lexi_4_1_bad809b9:
 translate spanish lexi_4_1_5745dff6:
 
     # lexi "Not in Asthar."
-    lexi "No in Asthar."
+    lexi "No en Asthar."
 
 # game/characters/lexi/ev_4.rpy:67
 translate spanish lexi_4_2_391f7d54:
@@ -214,7 +214,7 @@ translate spanish lexi_4_2_f46c03a7_1:
 translate spanish lexi_4_2_fe464ccb:
 
     # "Your words cause her to return to her depressed look again."
-    "Tus palabras hacen que vuelva a su mirada deprimida otra vez."
+    "Tus palabras hacen que vuelva a su deprimida apariencia otra vez."
 
 # game/characters/lexi/ev_4.rpy:93
 translate spanish lexi_4_2_99044e15:
@@ -270,4 +270,11 @@ translate spanish strings:
     # game/characters/lexi/ev_4.rpy:14
     old "Don't worry with, me here you're safe"
     new "Don't worry with, me here you're safe"
+# TODO: Translation updated at 2022-02-16 09:41
+
+translate spanish strings:
+
+    # game/characters/lexi/ev_4.rpy:14
+    old "Don't worry, with me here, you're safe"
+    new "Don't worry, with me here, you're safe"
 

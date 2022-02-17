@@ -265,3 +265,11 @@ translate spanish strings:
     # game/variables/lists/error_messages.rpy:3
     old "Error! No field {field} in persistent!"
     new "Error! No field {field} in persistent!"
+# TODO: Translation updated at 2022-02-16 09:41
+
+translate spanish strings:
+
+    # game/variables/lists/error_messages.rpy:3
+    old "Movie '{file}' doesn't exist!"
+    new "Movie '{file}' doesn't exist!"
+

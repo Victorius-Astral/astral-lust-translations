@@ -375,3 +375,11 @@ translate polish strings:
     # game/screens.rpy:806
     old "Mods"
     new "Mody"
+# TODO: Translation updated at 2022-02-16 09:42
+
+translate polish strings:
+
+    # game/screens.rpy:189
+    old "CONFIRM"
+    new "CONFIRM"
+

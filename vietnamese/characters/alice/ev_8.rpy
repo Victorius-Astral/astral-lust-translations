@@ -696,3 +696,15 @@ translate vietnamese strings:
     # game/characters/alice/ev_8.rpy:161
     old " [Lust check failed]"
     new " [Mức độ ham muốn không đủ]"
+# TODO: Translation updated at 2022-02-16 09:38
+
+translate vietnamese strings:
+
+    # game/characters/alice/ev_8.rpy:144
+    old "Charisma check passed]"
+    new "Charisma check passed]"
+
+    # game/characters/alice/ev_8.rpy:146
+    old "Charisma check failed]"
+    new "Charisma check failed]"
+

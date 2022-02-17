@@ -4,7 +4,7 @@
 translate vietnamese w_booth_amanda_2c482652:
 
     # amanda "Hello, [me_amanda]. I'm at your service."
-    amanda "Xin chào, [me_amanda]. Em sẵn sàng phục vụ anh rồi đây."
+    amanda "Chào, [me_amanda]. Em sẵn sàng phục vụ [me_amanda] rồi đây."
 
 # game/places/wanderers/prostitutes/amanda.rpy:27
 translate vietnamese w_booth_amanda_menu1_0cb75142:
@@ -16,7 +16,7 @@ translate vietnamese w_booth_amanda_menu1_0cb75142:
 translate vietnamese w_booth_amanda_menu1_04f4733b:
 
     # amanda "You won't get refund."
-    amanda "Anh sẽ không được hoàn tiền đâu."
+    amanda "[me_amanda] sẽ không được hoàn tiền đâu."
 
 # game/places/wanderers/prostitutes/amanda.rpy:33
 translate vietnamese w_booth_amanda_menu1_3cdbfa0d:
@@ -112,13 +112,13 @@ translate vietnamese w_booth_amanda_dt_fast_5919fd22:
 translate vietnamese w_booth_amanda_dt_fast_2d2dd2c2:
 
     # "Her warm mouth keeps sucking on your dick like it's made of candy."
-    "Cái miệng ấm áp cảu cô ấy tiếp tục mút cu bạn như thể nó được làm từ kẹo."
+    "Cái miệng ấm áp của cô ấy tiếp tục mút cu bạn như thể nó được làm từ kẹo."
 
 # game/places/wanderers/prostitutes/amanda.rpy:102
 translate vietnamese w_booth_amanda_dt_fast_aba72b93:
 
     # me "Ahh! You know how to use your tongue.."
-    me "Ahh! Em biết cách để dùng lưỡi cảu mình đấy..."
+    me "Ahh! Em biết cách để dùng lưỡi của mình đấy..."
 
 # game/places/wanderers/prostitutes/amanda.rpy:103
 translate vietnamese w_booth_amanda_dt_fast_c722aaf5:
@@ -136,7 +136,7 @@ translate vietnamese w_booth_amanda_dt_before_5115f097:
 translate vietnamese w_booth_amanda_dt_before_993b1122:
 
     # "[amanda] takes your dick really deep. Her gag reflex must be nonexistent."
-    "[amanda] đưa con cặc của bạn vào sâu hơn. Cô ấy hẳn không biết buồn nôn là gì."
+    "[amanda] đưa con cặc của bạn vào sâu hơn. Cô ấy hẳn không biết cảm giác buồn nôn là gì."
 
 # game/places/wanderers/prostitutes/amanda.rpy:124
 translate vietnamese w_booth_amanda_dt_before_3f6eeae6:
@@ -154,7 +154,7 @@ translate vietnamese w_booth_amanda_dt_before_f86e4ecc:
 translate vietnamese w_booth_amanda_dt_before_b353ee2a:
 
     # "Your dick is throbbing, your breath short. You can cum anytime."
-    "Con cặc của bạn đang giật lên, hơi thở gấp gáp. Bạn có thể xuất tinh bất cứ lúc nào."
+    "Con cặc của bạn đang giật lên, hơi thở của bạn trở nên gấp gáp. Bạn có thể xuất tinh bất cứ lúc nào."
 
 # game/places/wanderers/prostitutes/amanda.rpy:148
 translate vietnamese w_booth_amanda_dt_before2_5115f097:
@@ -166,7 +166,7 @@ translate vietnamese w_booth_amanda_dt_before2_5115f097:
 translate vietnamese w_booth_amanda_dt_before2_993b1122:
 
     # "[amanda] takes your dick really deep. Her gag reflex must be nonexistent."
-    "[amanda] đưa con cặc của bạn vào sâu hơn. Cô ấy hẳn không biết buồn nôn là gì."
+    "[amanda] đưa con cặc của bạn vào sâu hơn. Cô ấy hẳn phải không biết cảm giác buồn nôn là gì."
 
 # game/places/wanderers/prostitutes/amanda.rpy:150
 translate vietnamese w_booth_amanda_dt_before2_3f6eeae6:
@@ -220,7 +220,7 @@ translate vietnamese w_booth_amanda_dt_cum_6c57e085:
 translate vietnamese w_booth_amanda_dt_cum_8d3d317d:
 
     # amanda "Thank you. I need to go, though. I hope you'll choose me again."
-    amanda "Cảm ơn nha. Nhưng em cần phải đi rồi. Em mong là anh sẽ chọn em lần nữa."
+    amanda "Cảm ơn nha. Nhưng em cần phải đi rồi. Em mong là [me_amanda] sẽ chọn em lần nữa."
 
 # game/places/wanderers/prostitutes/amanda.rpy:182
 translate vietnamese w_booth_amanda_dt_cum_fca811a5:
@@ -256,4 +256,12 @@ translate vietnamese strings:
 
     # game/places/wanderers/prostitutes/amanda.rpy:35
     old "I'm sure"
-    new "Ừ"
+    new "Anh chắc mà"
+
+# TODO: Translation updated at 2022-02-16 09:38
+
+translate vietnamese strings:
+
+    # game/places/wanderers/prostitutes/amanda.rpy:2
+    old "sir"
+    new "Anh"

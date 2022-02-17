@@ -1708,7 +1708,7 @@ translate spanish mina_feet_massage_kiss2_8cabbdeb:
 translate spanish mina_feet_massage_fj_cb30e136:
 
     # mina "Don't be a dick when I'm doing you a footjob. You don't want me to stop, do you?"
-    mina "No seas un imbécil cuando estoy usando los pies para ti. No querrás que me detenga, ¿verdad?".
+    mina "No seas un imbécil cuando estoy usando los pies para ti. No querrás que me detenga, ¿verdad?"
 
 # game/characters/mina/feet_masage.rpy:649
 translate spanish mina_feet_massage_fj_0ac570cb:

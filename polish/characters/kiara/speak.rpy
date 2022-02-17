@@ -485,3 +485,19 @@ translate polish strings:
     old "She seems to always know what I'm thinking about."
     new "She seems to always know what I'm thinking about."
 
+# TODO: Translation updated at 2022-02-16 09:42
+
+translate polish strings:
+
+    # game/characters/kiara/speak.rpy:15
+    old "Can you tell me more about extraordinary world? {gold}(Story){/gold}"
+    new "Can you tell me more about extraordinary world? {gold}(Story){/gold}"
+
+    # game/characters/kiara/speak.rpy:35
+    old "Footjob, and maybe something more"
+    new "Footjob, and maybe something more"
+
+    # game/characters/kiara/speak.rpy:44
+    old "Pick outfit."
+    new "Pick outfit."
+

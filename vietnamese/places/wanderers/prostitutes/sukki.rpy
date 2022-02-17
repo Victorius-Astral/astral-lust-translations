@@ -1281,3 +1281,11 @@ translate vietnamese strings:
     # game/places/wanderers/prostitutes/sukki.rpy:36
     old "Thighjob"
     new "Thighjob"
+
+# TODO: Translation updated at 2022-02-16 09:38
+
+translate vietnamese strings:
+
+    # game/places/wanderers/prostitutes/sukki.rpy:2
+    old "daddy"
+    new "daddy"

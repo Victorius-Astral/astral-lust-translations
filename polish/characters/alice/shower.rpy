@@ -502,3 +502,465 @@ translate polish strings:
     old "Is your {i}'friend'{/i} around?"
     new "Is your {i}'friend'{/i} around?"
 
+# TODO: Translation updated at 2022-02-16 09:42
+
+# game/characters/alice/shower.rpy:229
+translate polish shower_alice_dildo_bj_17f73ef7:
+
+    # alice "I'm a little surprised, honey. To think you wouldn't want to fuck your little girl~"
+    alice "I'm a little surprised, honey. To think you wouldn't want to fuck your little girl~"
+
+# game/characters/alice/shower.rpy:230
+translate polish shower_alice_dildo_bj_1d7512e4:
+
+    # me "Well, I'm giving you a chance to fuck both yourself and me at once."
+    me "Well, I'm giving you a chance to fuck both yourself and me at once."
+
+# game/characters/alice/shower.rpy:231
+translate polish shower_alice_dildo_bj_59b7bc34:
+
+    # alice "Is a blowjob considered fucking you?"
+    alice "Is a blowjob considered fucking you?"
+
+# game/characters/alice/shower.rpy:232
+translate polish shower_alice_dildo_bj_3b843673:
+
+    # me "Does it matter?"
+    me "Does it matter?"
+
+# game/characters/alice/shower.rpy:236
+translate polish shower_alice_dildo_bj_ad1ffd82:
+
+    # alice "Not at all."
+    alice "Not at all."
+
+# game/characters/alice/shower.rpy:237
+translate polish shower_alice_dildo_bj_c8418daf:
+
+    # me "Ahh."
+    me "Ahh."
+
+# game/characters/alice/shower.rpy:238
+translate polish shower_alice_dildo_bj_25f6ef10:
+
+    # alice "Mmm~"
+    alice "Mmm~"
+
+# game/characters/alice/shower.rpy:239
+translate polish shower_alice_dildo_bj_cf5bf4ed:
+
+    # me "Seems you like it."
+    me "Seems you like it."
+
+# game/characters/alice/shower.rpy:240
+translate polish shower_alice_dildo_bj_ca48a810:
+
+    # alice "We should do it often!"
+    alice "We should do it often!"
+
+# game/characters/alice/shower.rpy:244
+translate polish shower_alice_dildo_bj_ee79b7a1:
+
+    # me "Yeah. I really love getting wet while being sucked by you."
+    me "Yeah. I really love getting wet while being sucked by you."
+
+# game/characters/alice/shower.rpy:245
+translate polish shower_alice_dildo_bj_48007cea:
+
+    # alice "I was talking about taking a shower together, idiot!"
+    alice "I was talking about taking a shower together, idiot!"
+
+# game/characters/alice/shower.rpy:246
+translate polish shower_alice_dildo_bj_acc07eae:
+
+    # me "Oh? Don't you like it?"
+    me "Oh? Don't you like it?"
+
+# game/characters/alice/shower.rpy:250
+translate polish shower_alice_dildo_bj_38115d0a:
+
+    # alice "I do, but I would rather want you to fuck me~"
+    alice "I do, but I would rather want you to fuck me~"
+
+# game/characters/alice/shower.rpy:251
+translate polish shower_alice_dildo_bj_c8ec771e:
+
+    # me "Little pervert!"
+    me "Little pervert!"
+
+# game/characters/alice/shower.rpy:252
+translate polish shower_alice_dildo_bj_05aeb0d7:
+
+    # alice "Hahaha, I know I'm a pervert."
+    alice "Hahaha, I know I'm a pervert."
+
+# game/characters/alice/shower.rpy:256
+translate polish shower_alice_dildo_bj_9ec30113:
+
+    # alice "Mmmm!~"
+    alice "Mmmm!~"
+
+# game/characters/alice/shower.rpy:257
+translate polish shower_alice_dildo_bj_7ee6e566:
+
+    # alice "But, do you know you're worse pervert than me?"
+    alice "But, do you know you're worse pervert than me?"
+
+# game/characters/alice/shower.rpy:258
+translate polish shower_alice_dildo_bj_3d8d7314:
+
+    # me "Am I?"
+    me "Am I?"
+
+# game/characters/alice/shower.rpy:259
+translate polish shower_alice_dildo_bj_a37c903b:
+
+    # alice "Totally, babe."
+    alice "Totally, babe."
+
+# game/characters/alice/shower.rpy:260
+translate polish shower_alice_dildo_bj_b2c3d45f:
+
+    # me "Well. I'm an generous guy, so I will let it have your way."
+    me "Well. I'm an generous guy, so I will let it have your way."
+
+# game/characters/alice/shower.rpy:261
+translate polish shower_alice_dildo_bj_ef0e442a:
+
+    # alice "Pfft!"
+    alice "Pfft!"
+
+# game/characters/alice/shower.rpy:265
+translate polish shower_alice_dildo_bj_aeddd870:
+
+    # me "Ohhh.."
+    me "Ohhh.."
+
+# game/characters/alice/shower.rpy:266
+translate polish shower_alice_dildo_bj_616f38e7:
+
+    # alice "You moan like a girl~"
+    alice "You moan like a girl~"
+
+# game/characters/alice/shower.rpy:267
+translate polish shower_alice_dildo_bj_28d6946a:
+
+    # me "Eh, must you destroy a mood?"
+    me "Eh, must you destroy a mood?"
+
+# game/characters/alice/shower.rpy:268
+translate polish shower_alice_dildo_bj_0b60a0c3:
+
+    # alice "Hehe~"
+    alice "Hehe~"
+
+# game/characters/alice/shower.rpy:269
+translate polish shower_alice_dildo_bj_39094940:
+
+    # alice "Ahh!~"
+    alice "Ahh!~"
+
+# game/characters/alice/shower.rpy:270
+translate polish shower_alice_dildo_bj_f84645e1:
+
+    # me "Alright?"
+    me "Alright?"
+
+# game/characters/alice/shower.rpy:274
+translate polish shower_alice_dildo_bj_320b70ed:
+
+    # alice "Mm!~ I'm getting close."
+    alice "Mm!~ I'm getting close."
+
+# game/characters/alice/shower.rpy:275
+translate polish shower_alice_dildo_bj_f164847e:
+
+    # me "Me too, just a while longer."
+    me "Me too, just a while longer."
+
+# game/characters/alice/shower.rpy:276
+translate polish shower_alice_dildo_bj_2708c06f:
+
+    # alice "Let's cum together, it will be so hot~"
+    alice "Let's cum together, it will be so hot~"
+
+# game/characters/alice/shower.rpy:277
+translate polish shower_alice_dildo_bj_166d9144:
+
+    # me "Ahh!"
+    me "Ahh!"
+
+# game/characters/alice/shower.rpy:278
+translate polish shower_alice_dildo_bj_14654a31:
+
+    # alice "Mmm!~"
+    alice "Mmm!~"
+
+# game/characters/alice/shower.rpy:279
+translate polish shower_alice_dildo_bj_e7c2fd75:
+
+    # me "Might I cum inside?"
+    me "Might I cum inside?"
+
+# game/characters/alice/shower.rpy:280
+translate polish shower_alice_dildo_bj_6712f3de:
+
+    # alice "Sure~"
+    alice "Sure~"
+
+# game/characters/alice/shower.rpy:283
+translate polish shower_alice_dildo_bj_219d27c5:
+
+    # th "Should I cum inside or outside?" nointeract
+    th "Should I cum inside or outside?" nointeract
+
+# game/characters/alice/shower.rpy:289
+translate polish shower_alice_dildo_bj_8688b6e8:
+
+    # me "Ah!"
+    me "Ah!"
+
+# game/characters/alice/shower.rpy:290
+translate polish shower_alice_dildo_bj_3df1231c:
+
+    # alice "Mghmmm!~"
+    alice "Mghmmm!~"
+
+# game/characters/alice/shower.rpy:294
+translate polish shower_alice_dildo_bj_dd1bc4cd:
+
+    # alice "*Gulp*"
+    alice "*Gulp*"
+
+# game/characters/alice/shower.rpy:298
+translate polish shower_alice_dildo_bj_9e37fe62:
+
+    # alice "Aaaaa~"
+    alice "Aaaaa~"
+
+# game/characters/alice/shower.rpy:299
+translate polish shower_alice_dildo_bj_aa93b10c_1:
+
+    # me "Good girl."
+    me "Good girl."
+
+# game/characters/alice/shower.rpy:303
+translate polish shower_alice_dildo_bj_33222d7b:
+
+    # alice "That was a lot daddy!~"
+    alice "That was a lot daddy!~"
+
+# game/characters/alice/shower.rpy:304
+translate polish shower_alice_dildo_bj_7910bd31:
+
+    # me "You were a good girl, so I gave you a big reward."
+    me "You were a good girl, so I gave you a big reward."
+
+# game/characters/alice/shower.rpy:305
+translate polish shower_alice_dildo_bj_0b60a0c3_1:
+
+    # alice "Hehe~"
+    alice "Hehe~"
+
+# game/characters/alice/shower.rpy:306
+translate polish shower_alice_dildo_bj_749ca045:
+
+    # alice "Would you stay?"
+    alice "Would you stay?"
+
+# game/characters/alice/shower.rpy:307
+translate polish shower_alice_dildo_bj_c297ce51:
+
+    # me "Of course, dear."
+    me "Of course, dear."
+
+# game/characters/alice/shower.rpy:315
+translate polish shower_alice_dildo_bj_0e51e6f6:
+
+    # alice "Ahhh!~"
+    alice "Ahhh!~"
+
+# game/characters/alice/shower.rpy:316
+translate polish shower_alice_dildo_bj_e1b91123:
+
+    # me "Shit!"
+    me "Shit!"
+
+# game/characters/alice/shower.rpy:320
+translate polish shower_alice_dildo_bj_3b8b759d:
+
+    # alice "Hehe~ That was lots of fun!"
+    alice "Hehe~ That was lots of fun!"
+
+# game/characters/alice/shower.rpy:324
+translate polish shower_alice_dildo_bj_22e458a7:
+
+    # me "Hm.."
+    me "Hm.."
+
+# game/characters/alice/shower.rpy:325
+translate polish shower_alice_dildo_bj_5e7221c4:
+
+    # alice "What's up?"
+    alice "What's up?"
+
+# game/characters/alice/shower.rpy:326
+translate polish shower_alice_dildo_bj_07a167b6:
+
+    # me "The cum is being washed away."
+    me "The cum is being washed away."
+
+# game/characters/alice/shower.rpy:330
+translate polish shower_alice_dildo_bj_744a9b31:
+
+    # alice "Well, we're under the shower, babe. Did you expect anything else?"
+    alice "Well, we're under the shower, babe. Did you expect anything else?"
+
+# game/characters/alice/shower.rpy:331
+translate polish shower_alice_dildo_bj_445f82e7:
+
+    # me "It's alright."
+    me "It's alright."
+
+# game/characters/alice/shower.rpy:332
+translate polish shower_alice_dildo_bj_f9dd4ce5:
+
+    # alice "Let's shower together."
+    alice "Let's shower together."
+
+# game/characters/alice/shower.rpy:333
+translate polish shower_alice_dildo_bj_fca811a5:
+
+    # me "Sure."
+    me "Sure."
+
+# game/characters/alice/shower.rpy:341
+translate polish shower_alice_after_sdb_25f6ef10:
+
+    # alice "Mmm~"
+    alice "Mmm~"
+
+# game/characters/alice/shower.rpy:342
+translate polish shower_alice_after_sdb_dc3734ff:
+
+    # me "You're so lewd. Moaning when I'm just washing your back."
+    me "You're so lewd. Moaning when I'm just washing your back."
+
+# game/characters/alice/shower.rpy:343
+translate polish shower_alice_after_sdb_076f6f4e:
+
+    # alice "I love your touch, [me]."
+    alice "I love your touch, [me]."
+
+# game/characters/alice/shower.rpy:344
+translate polish shower_alice_after_sdb_4c0e26f1:
+
+    # me "I also love to touch you."
+    me "I also love to touch you."
+
+# game/characters/alice/shower.rpy:348
+translate polish shower_alice_after_sdb_762abff7:
+
+    # me "Oh?"
+    me "Oh?"
+
+# game/characters/alice/shower.rpy:349
+translate polish shower_alice_after_sdb_258ec185:
+
+    # alice "Hold me, idiot."
+    alice "Hold me, idiot."
+
+# game/characters/alice/shower.rpy:353
+translate polish shower_alice_after_sdb_e5ac8007:
+
+    # me "Don't be impatient, dear."
+    me "Don't be impatient, dear."
+
+# game/characters/alice/shower.rpy:354
+translate polish shower_alice_after_sdb_2de21fb9:
+
+    # alice "Haha~"
+    alice "Haha~"
+
+# game/characters/alice/shower.rpy:355
+translate polish shower_alice_after_sdb_abbbc6b4:
+
+    # me "Hmm?"
+    me "Hmm?"
+
+# game/characters/alice/shower.rpy:356
+translate polish shower_alice_after_sdb_9cef0668:
+
+    # alice "Nothing. I just love it when you hold me."
+    alice "Nothing. I just love it when you hold me."
+
+# game/characters/alice/shower.rpy:357
+translate polish shower_alice_after_sdb_7d1bfa93:
+
+    # me "You're quite romantic today."
+    me "You're quite romantic today."
+
+# game/characters/alice/shower.rpy:361
+translate polish shower_alice_after_sdb_4b4a6e91:
+
+    # alice "Do you like me like this?"
+    alice "Do you like me like this?"
+
+# game/characters/alice/shower.rpy:362
+translate polish shower_alice_after_sdb_3359ab74:
+
+    # me "I always like you."
+    me "I always like you."
+
+# game/characters/alice/shower.rpy:363
+translate polish shower_alice_after_sdb_da08e6b9:
+
+    # alice "Good answer."
+    alice "Good answer."
+
+# game/characters/alice/shower.rpy:364
+translate polish shower_alice_after_sdb_af2762fb:
+
+    # me "Gimme reward."
+    me "Gimme reward."
+
+# game/characters/alice/shower.rpy:368
+translate polish shower_alice_after_sdb_25f6ef10_1:
+
+    # alice "Mmm~"
+    alice "Mmm~"
+
+# game/characters/alice/shower.rpy:369
+translate polish shower_alice_after_sdb_249f0e51:
+
+    # th "Her lips really taste like cheery."
+    th "Her lips really taste like cheery."
+
+# game/characters/alice/shower.rpy:375
+translate polish shower_alice_after_sdb_61699d95:
+
+    # alice "I love you, [me]."
+    alice "I love you, [me]."
+
+# game/characters/alice/shower.rpy:376
+translate polish shower_alice_after_sdb_c2e1f91a:
+
+    # me "I love you too, [alice]."
+    me "I love you too, [alice]."
+
+# game/characters/alice/shower.rpy:380
+translate polish shower_alice_after_sdb_d82f158d:
+
+    # "You two stay in each other arms for the rest of the shower, enjoying the feeling."
+    "You two stay in each other arms for the rest of the shower, enjoying the feeling."
+
+translate polish strings:
+
+    # game/characters/alice/shower.rpy:282
+    old "Fill her throat"
+    new "Fill her throat"
+
+    # game/characters/alice/shower.rpy:282
+    old "Cover her face in semen"
+    new "Cover her face in semen"
+

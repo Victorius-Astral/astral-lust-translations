@@ -272,3 +272,11 @@ translate polish strings:
     old "Don't worry with, me here you're safe"
     new "Don't worry with, me here you're safe"
 
+# TODO: Translation updated at 2022-02-16 09:42
+
+translate polish strings:
+
+    # game/characters/lexi/ev_4.rpy:14
+    old "Don't worry, with me here, you're safe"
+    new "Don't worry, with me here, you're safe"
+

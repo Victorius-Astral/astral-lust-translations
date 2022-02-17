@@ -659,3 +659,23 @@ translate vietnamese strings:
     old "She likes pink."
     new "She likes pink."
 
+# TODO: Translation updated at 2022-02-16 09:38
+
+# game/characters/mina/speak.rpy:55
+translate vietnamese mina_menu1_82625435:
+
+    # me "Go on." id mina_menu1_82625435
+    me "Go on." id mina_menu1_82625435
+
+# game/characters/mina/speak.rpy:65
+translate vietnamese mina_menu1_d5ee4fc2:
+
+    # mina "Wait a bit." id mina_menu1_d5ee4fc2
+    mina "Wait a bit." id mina_menu1_d5ee4fc2
+
+# game/characters/mina/speak.rpy:169
+translate vietnamese mina_menu2_3b37abd1:
+
+    # me "It seems someone is in the mood for jokes." id mina_menu2_3b37abd1
+    me "It seems someone is in the mood for jokes." id mina_menu2_3b37abd1
+
