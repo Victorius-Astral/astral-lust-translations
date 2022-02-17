@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 09:24
+﻿# Translation updated at 2021-05-12 09:24
 
 translate polish strings:
 
@@ -281,7 +281,8 @@ translate polish strings:
     # game/screens.rpy:1405
     old "Menu"
     new "Menu"
-# TODO: Translation updated at 2021-05-15 14:21
+
+# Translation updated at 2021-05-15 14:21
 
 translate polish strings:
 
@@ -320,51 +321,28 @@ translate polish strings:
     # game/screens.rpy:605
     old "\nModels made in {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} by {a=http://www.illusion.jp}Illusion{/a}"
     new "\nModele zrobione w {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} od {a=http://www.illusion.jp}Illusion{/a}"
-# TODO: Translation updated at 2021-05-17 12:54
+
+# Translation updated at 2021-05-17 12:54
 
 translate polish strings:
 
-    # game/screens.rpy:599
-    old "{color=#DB3A17}\nPR: nickthewolf{/color}"
-    new "{color=#DB3A17}\nPR: nickthewolf{/color}"
-
-    # game/screens.rpy:600
-    old "{color=#c13a3a}\nCommunity: Denker{/color}"
-    new "{color=#c13a3a}\nCommunity: Denker{/color}"
-
-    # game/screens.rpy:602
-    old "{color=#b96d19}\nTranslation: Denker(Spanish), Victorius(Polish){/color}"
-    new "{color=#b96d19}\nTranslation: Denker(Spanish), Victorius(Polish){/color}"
-
-    # game/screens.rpy:607
-    old "\nArt: Niklaus, Victorius{a=https://www.pixabay.com}www.pixabay.com{/a}"
-    new "\nArt: Niklaus, Victorius{a=https://www.pixabay.com}www.pixabay.com{/a}"
-
     # game/screens.rpy:610
     old "\n\n{quiet}Legal:\nAstral Lust is the intellectual property of Victorius.\nVictorius can be contacted through Discord (https://discord.gg/rvnBC39USx) or Patreon (https://www.patreon.com/Victorius).\n\n(a) Permission is granted for this material to be shared for non-commercial purposes provided that this statement appears in the reproduced materials.\n(b) You may NOT sell these files or modify these files to sell, either grouped together or separately.\n(c) You may NOT remove or alter the credit of the creator as it is shown here and in the game's files.\n(d) You may redistribute these files (Astral Lust) as Astral Lust for free. Given a credit to the developer (Victorius) is provided.{/quiet}"
-    new "\n\n{quiet}Legal:\nAstral Lust is the intellectual property of Victorius.\nVictorius can be contacted through Discord (https://discord.gg/rvnBC39USx) or Patreon (https://www.patreon.com/Victorius).\n\n(a) Permission is granted for this material to be shared for non-commercial purposes provided that this statement appears in the reproduced materials.\n(b) You may NOT sell these files or modify these files to sell, either grouped together or separately.\n(c) You may NOT remove or alter the credit of the creator as it is shown here and in the game's files.\n(d) You may redistribute these files (Astral Lust) as Astral Lust for free. Given a credit to the developer (Victorius) is provided.{/quiet}"
+    new "\n\n{quiet}Prawne:\nAstral Lust jest własnością intelektualną Victorius'a.\nZ Victoriusem można skontaktować się poprzez Discord (https://discord.gg/rvnBC39USx), lub Patreon (https://www.patreon.com/Victorius).\n\n(a) Udzielono zgodę na udostępnianie tego materiału w celach niekomercyjnych o ile te zapiski pojawią się z rozprowadzanych materiałach.\n(b) Nie możesz sprzedawać, lub modyfikować w celach komercyjnym tych plików, zarówno oddzielnie jak i grupowo.\n(c) Nie możesz usuwać ani zmieniać atrybucji twórcy, zarówno jak pokazano w grze jak i w plikach.\n(d) Możesz rozpowszechniać te pliki (Astral Lust) jako Astral Lust za darmo. Pod warunkiem atrybucji developera (Victorius).{/quiet}"
 
-# TODO: Translation updated at 2021-07-11 16:45
+# Translation updated at 2021-07-11 16:45
 
 translate polish strings:
 
     # game/screens.rpy:346
     old "Check for Updates"
-    new "Check for Updates"
+    new "Sprawdź aktualizacje"
 
     # game/screens.rpy:443
     old "About"
-    new "About"
+    new "O Grze"
 
-    # game/screens.rpy:690
-    old "\nContributed Code: cuckoo4cocoapuffs"
-    new "\nContributed Code: cuckoo4cocoapuffs"
-
-    # game/screens.rpy:692
-    old "\n\nMusic: {a=https://www.bensound.com}www.bensound.com{/a}, {a=https://www.zapsplat.com}www.zapsplat.com{/a}, An Innermost Glow by The Longshore Striders"
-    new "\n\nMusic: {a=https://www.bensound.com}www.bensound.com{/a}, {a=https://www.zapsplat.com}www.zapsplat.com{/a}, An Innermost Glow by The Longshore Striders"
-
-# TODO: Translation updated at 2022-01-31 15:20
+# Translation updated at 2022-01-31 15:20
 
 translate polish strings:
 
@@ -375,11 +353,11 @@ translate polish strings:
     # game/screens.rpy:806
     old "Mods"
     new "Mody"
-# TODO: Translation updated at 2022-02-16 09:42
+
+# Translation updated at 2022-02-16 09:42
 
 translate polish strings:
 
     # game/screens.rpy:189
     old "CONFIRM"
-    new "CONFIRM"
-
+    new "ZATWIERDŹ"

@@ -327,11 +327,19 @@ translate polish strings:
     # game/variables/tips.rpy:4
     old "I should speak with her."
     new "Powinienem z nią porozmawiać."
-# TODO: Translation updated at 2022-02-16 09:42
+
+# Translation updated at 2022-02-16 09:42
 
 translate polish strings:
 
     # game/variables/tips.rpy:4
     old "I should ask her next day how she gets along with the girls."
-    new "I should ask her next day how she gets along with the girls."
+    new "Powinienem jutro zapytać ją jak jej się układa z dziewczynami."
 
+# Translation updated at 2022-02-17 20:50
+
+translate polish strings:
+
+    # game/variables/tips.rpy:4
+    old "I should ask her more about the extraordinary world. (Main Story at least 12)"
+    new "Powinienem zapytać ją o świat nadnaturalny. (Główna Historia przynajmniej 12)"
