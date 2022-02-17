@@ -7,5 +7,6 @@ translate vietnamese strings:
     new "Được hỗ trợ bởi: "
 
 translate vietnamese style supporters_S_text:
-    font fonts.roboto
+    font fonts.oswald
     color col_gold
+    outlines [ (absolute(1), "#000", absolute(0), absolute(0)) ]
