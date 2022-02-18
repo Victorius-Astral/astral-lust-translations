@@ -27,8 +27,8 @@ translate vietnamese damsel_in_distress_e5139655:
 # game/events/explore/damsel_in_distress.rpy:85
 translate vietnamese damsel_in_distress_milf_edff52b6:
 
-    # d_milf "Holy.. That was close.."
-    d_milf "ôi chúa ơi.. Nó thật là nguy hiểm"
+    # d_milf "Holy... That was close..."
+    d_milf "ôi chúa ơi... Nó thật là nguy hiểm"
 
 # game/events/explore/damsel_in_distress.rpy:86
 translate vietnamese damsel_in_distress_milf_6ab7e8fe:
@@ -231,8 +231,8 @@ translate vietnamese damsel_in_distress_milf_58b266a9:
 # game/events/explore/damsel_in_distress.rpy:136
 translate vietnamese damsel_in_distress_milf_dd9636c7:
 
-    # me "Ahh.."
-    me "Ahh.."
+    # me "Ahh..."
+    me "Ahh..."
 
 # game/events/explore/damsel_in_distress.rpy:137
 translate vietnamese damsel_in_distress_milf_da9fef05:
@@ -465,8 +465,8 @@ translate vietnamese damsel_in_distress_short_menu_6478869c:
 # game/events/explore/damsel_in_distress.rpy:212
 translate vietnamese damsel_in_distress_short_menu_70452a22:
 
-    # me "Shh.."
-    me "Suỵttt.."
+    # me "Shh..."
+    me "Suỵttt..."
 
 # game/events/explore/damsel_in_distress.rpy:215
 translate vietnamese damsel_in_distress_short_menu_d6733ae6:
@@ -477,8 +477,8 @@ translate vietnamese damsel_in_distress_short_menu_d6733ae6:
 # game/events/explore/damsel_in_distress.rpy:216
 translate vietnamese damsel_in_distress_short_menu_c4a27a32:
 
-    # me "Shh.. Everything will be alright."
-    me "Suỵt.. Mọi thứ sẽ ổn thôi."
+    # me "Shh... Everything will be alright."
+    me "Suỵt... Mọi thứ sẽ ổn thôi."
 
 # game/events/explore/damsel_in_distress.rpy:220
 translate vietnamese damsel_in_distress_short_menu_af6b2e0e:
@@ -495,14 +495,14 @@ translate vietnamese damsel_in_distress_short_menu_46b766e1:
 # game/events/explore/damsel_in_distress.rpy:225
 translate vietnamese damsel_in_distress_short_menu_bfb00167:
 
-    # d_short "Please.."
-    d_short "Làm ơn.."
+    # d_short "Please..."
+    d_short "Làm ơn..."
 
 # game/events/explore/damsel_in_distress.rpy:226
 translate vietnamese damsel_in_distress_short_menu_70452a22_1:
 
-    # me "Shh.."
-    me "Suỵtt.."
+    # me "Shh..."
+    me "Suỵtt..."
 
 # game/events/explore/damsel_in_distress.rpy:232
 translate vietnamese damsel_in_distress_short_menu_3820771a:
@@ -621,8 +621,8 @@ translate vietnamese damsel_in_distress_bimbo_8759870c:
 # game/events/explore/damsel_in_distress.rpy:273
 translate vietnamese damsel_in_distress_bimbo_dcfbae7f:
 
-    # me "Flamingos are birds.."
-    me "Hồng hạc là loài chim.."
+    # me "Flamingos are birds..."
+    me "Hồng hạc là loài chim..."
 
 # game/events/explore/damsel_in_distress.rpy:274
 translate vietnamese damsel_in_distress_bimbo_3704b25c:
@@ -633,8 +633,8 @@ translate vietnamese damsel_in_distress_bimbo_3704b25c:
 # game/events/explore/damsel_in_distress.rpy:275
 translate vietnamese damsel_in_distress_bimbo_721ad3fb:
 
-    # th "I don't believe in prejudices, but this blonde is stupid.."
-    th "Mình không tin vào định kiến, nhưng cô gái tóc vàng này thật ngốc.."
+    # th "I don't believe in prejudices, but this blonde is stupid..."
+    th "Mình không tin vào định kiến, nhưng cô gái tóc vàng này thật ngốc..."
 
 # game/events/explore/damsel_in_distress.rpy:276
 translate vietnamese damsel_in_distress_bimbo_3313a2c7:
@@ -663,8 +663,8 @@ translate vietnamese damsel_in_distress_bimbo_menu_400d4803:
 # game/events/explore/damsel_in_distress.rpy:287
 translate vietnamese damsel_in_distress_bimbo_menu_29581ed5:
 
-    # d_bimbo "Nothing.."
-    d_bimbo "Không.."
+    # d_bimbo "Nothing..."
+    d_bimbo "Không..."
 
 # game/events/explore/damsel_in_distress.rpy:288
 translate vietnamese damsel_in_distress_bimbo_menu_56db6efa:
@@ -699,8 +699,8 @@ translate vietnamese damsel_in_distress_bimbo_menu_3820771a:
 # game/events/explore/damsel_in_distress.rpy:300
 translate vietnamese damsel_in_distress_bimbo_menu_eb0ebf0a:
 
-    # th "No shit, Sherlock.."
-    th "Tất nhiên là lạnh rồi.."
+    # th "No shit, Sherlock..."
+    th "Tất nhiên là lạnh rồi..."
 
 # game/events/explore/damsel_in_distress.rpy:301
 translate vietnamese damsel_in_distress_bimbo_menu_76a6eb96:
@@ -723,8 +723,8 @@ translate vietnamese damsel_in_distress_bimbo_menu_aa5d876b:
 # game/events/explore/damsel_in_distress.rpy:304
 translate vietnamese damsel_in_distress_bimbo_menu_7d7a8996:
 
-    # me "Bye.."
-    me "Bye.."
+    # me "Bye..."
+    me "Bye..."
 
 # game/events/explore/damsel_in_distress.rpy:310
 translate vietnamese damsel_in_distress_bimbo_menu_9d34110a:
@@ -807,8 +807,8 @@ translate vietnamese damsel_in_distress_bimbo_menu_e74fa622:
 # game/events/explore/damsel_in_distress.rpy:342
 translate vietnamese damsel_in_distress_bimbo_menu_7b83aeee:
 
-    # me "Wait.. What?"
-    me "Chờ đã .. Cái gì?"
+    # me "Wait... What?"
+    me "Chờ đã ... Cái gì?"
 
 # game/events/explore/damsel_in_distress.rpy:346
 translate vietnamese damsel_in_distress_bimbo_menu_f3e4b977:
@@ -819,8 +819,8 @@ translate vietnamese damsel_in_distress_bimbo_menu_f3e4b977:
 # game/events/explore/damsel_in_distress.rpy:347
 translate vietnamese damsel_in_distress_bimbo_menu_a32edf31:
 
-    # me "Dear God.."
-    me "Lậy chúa.."
+    # me "Dear God..."
+    me "Lậy chúa..."
 
 # game/events/explore/damsel_in_distress.rpy:348
 translate vietnamese damsel_in_distress_bimbo_menu_999363c3:
@@ -903,8 +903,8 @@ translate vietnamese damsel_in_distress_bimbo_menu_805cd8e6:
 # game/events/explore/damsel_in_distress.rpy:367
 translate vietnamese damsel_in_distress_bimbo_menu_53f580c6:
 
-    # me "Amazing.."
-    me "Tuyệt vời.."
+    # me "Amazing..."
+    me "Tuyệt vời..."
 
 # game/events/explore/damsel_in_distress.rpy:373
 translate vietnamese damsel_in_distress_bimbo_menu_b00cc2cd:
@@ -921,8 +921,8 @@ translate vietnamese damsel_in_distress_bimbo_menu_12a160ed:
 # game/events/explore/damsel_in_distress.rpy:378
 translate vietnamese damsel_in_distress_bimbo_menu_dd9636c7:
 
-    # me "Ahh.."
-    me "Ahh.."
+    # me "Ahh..."
+    me "Ahh..."
 
 # game/events/explore/damsel_in_distress.rpy:379
 translate vietnamese damsel_in_distress_bimbo_menu_c14a306e:
@@ -987,8 +987,8 @@ translate vietnamese damsel_in_distress_bimbo_menu_f68df7f3:
 # game/events/explore/damsel_in_distress.rpy:404
 translate vietnamese damsel_in_distress_bimbo_menu_1e033c52:
 
-    # d_bimbo "Your dick is so hard.. so big.."
-    d_bimbo "Con cặc của anh cứng quá .. to quá..."
+    # d_bimbo "Your dick is so hard... so big..."
+    d_bimbo "Con cặc của anh cứng quá ... to quá..."
 
 # game/events/explore/damsel_in_distress.rpy:408
 translate vietnamese damsel_in_distress_bimbo_menu_c22a47ef:
@@ -1041,8 +1041,8 @@ translate vietnamese damsel_in_distress_bimbo_menu_3a65ee12:
 # game/events/explore/damsel_in_distress.rpy:425
 translate vietnamese damsel_in_distress_bimbo_menu_0383f42f:
 
-    # me "That was so amazing.."
-    me "Điều đó thật tuyệt vời.."
+    # me "That was so amazing..."
+    me "Điều đó thật tuyệt vời..."
 
 # game/events/explore/damsel_in_distress.rpy:426
 translate vietnamese damsel_in_distress_bimbo_menu_2efbbfcf:
@@ -1167,8 +1167,8 @@ translate vietnamese damsel_in_distress_bimbo_menu_d6bec23a:
 # game/events/explore/damsel_in_distress.rpy:470
 translate vietnamese damsel_in_distress_bimbo_menu_7ccc07a5:
 
-    # me "Fuck.."
-    me "Địt.."
+    # me "Fuck..."
+    me "Địt..."
 
 # game/events/explore/damsel_in_distress.rpy:471
 translate vietnamese damsel_in_distress_bimbo_menu_0cd0c82a:
@@ -1197,8 +1197,8 @@ translate vietnamese damsel_in_distress_bimbo_menu_40346474:
 # game/events/explore/damsel_in_distress.rpy:478
 translate vietnamese damsel_in_distress_bimbo_menu_f98bf8ea:
 
-    # me "Uh.."
-    me "Uh.."
+    # me "Uh..."
+    me "Uh..."
 
 # game/events/explore/damsel_in_distress.rpy:482
 translate vietnamese damsel_in_distress_bimbo_menu_8e1b15ff:
@@ -1443,8 +1443,8 @@ translate vietnamese damsel_in_distress_soldier_60af0091:
 # game/events/explore/damsel_in_distress.rpy:576
 translate vietnamese damsel_in_distress_soldier_e4e2275d:
 
-    # d_soldier "I guess.."
-    d_soldier "tôi đoán.."
+    # d_soldier "I guess..."
+    d_soldier "tôi đoán..."
 
 # game/events/explore/damsel_in_distress.rpy:577
 translate vietnamese damsel_in_distress_soldier_f46121fb:
@@ -1587,14 +1587,14 @@ translate vietnamese damsel_in_distress_soldier_b596a715:
 # game/events/explore/damsel_in_distress.rpy:612
 translate vietnamese damsel_in_distress_soldier_5eafeea4:
 
-    # me "God.. Is that a heaven?"
-    me "Chúa ơi .. Đó có phải là thiên đường không?"
+    # me "God... Is that a heaven?"
+    me "Chúa ơi ... Đó có phải là thiên đường không?"
 
 # game/events/explore/damsel_in_distress.rpy:613
 translate vietnamese damsel_in_distress_soldier_74fd81b1:
 
-    # th "I want this girl.."
-    th "Mình muốn cô gái này.."
+    # th "I want this girl..."
+    th "Mình muốn cô gái này..."
 
 # game/events/explore/damsel_in_distress.rpy:617
 translate vietnamese damsel_in_distress_soldier_8688b6e8:
@@ -1659,8 +1659,8 @@ translate vietnamese damsel_in_distress_soldier_53b441d4:
 # game/events/explore/damsel_in_distress.rpy:641
 translate vietnamese damsel_in_distress_soldier_c34e5a4a:
 
-    # me "Shit, that was so great.."
-    me "Chết tiệt, vừa rồi thật tuyệt.."
+    # me "Shit, that was so great..."
+    me "Chết tiệt, vừa rồi thật tuyệt..."
 
 # game/events/explore/damsel_in_distress.rpy:642
 translate vietnamese damsel_in_distress_soldier_72b9d3bf:
@@ -1701,8 +1701,8 @@ translate vietnamese damsel_in_distress_brunette_64297acc:
 # game/events/explore/damsel_in_distress.rpy:663
 translate vietnamese damsel_in_distress_brunette_b993e9b7:
 
-    # d_brunette "I thought was going to die.."
-    d_brunette "Tôi nghĩ mình sẽ chết.."
+    # d_brunette "I thought was going to die..."
+    d_brunette "Tôi nghĩ mình sẽ chết..."
 
 # game/events/explore/damsel_in_distress.rpy:664
 translate vietnamese damsel_in_distress_brunette_2351984f:
@@ -1731,14 +1731,14 @@ translate vietnamese damsel_in_distress_brunette_1f861ccd:
 # game/events/explore/damsel_in_distress.rpy:673
 translate vietnamese damsel_in_distress_brunette_fd8605ef:
 
-    # me "Wait.. Where did you get it?"
-    me "Chờ đã .. Cô lấy nó ở đâu?"
+    # me "Wait... Where did you get it?"
+    me "Chờ đã ... Cô lấy nó ở đâu?"
 
 # game/events/explore/damsel_in_distress.rpy:674
 translate vietnamese damsel_in_distress_brunette_5067f24b:
 
-    # d_brunette weirded "You might not believe it, but it was given to me by a cultist.."
-    d_brunette weirded "Anh có thể không tin, nhưng nó đã được trao cho tôi bởi một người Cuồng giáo.."
+    # d_brunette weirded "You might not believe it, but it was given to me by a cultist..."
+    d_brunette weirded "Anh có thể không tin, nhưng nó đã được trao cho tôi bởi một người Cuồng giáo..."
 
 # game/events/explore/damsel_in_distress.rpy:675
 translate vietnamese damsel_in_distress_brunette_882e3186:
@@ -1785,8 +1785,8 @@ translate vietnamese damsel_in_distress_brunette_3820771a:
 # game/events/explore/damsel_in_distress.rpy:682
 translate vietnamese damsel_in_distress_brunette_c72f54df:
 
-    # th "Who knows what's in their heads.. It might've really happened."
-    th "Ai biết được những gì trong đầu của chúng .. Nó có thể đã thực sự xảy ra."
+    # th "Who knows what's in their heads... It might've really happened."
+    th "Ai biết được những gì trong đầu của chúng ... Nó có thể đã thực sự xảy ra."
 
 # game/events/explore/damsel_in_distress.rpy:683
 translate vietnamese damsel_in_distress_brunette_01261fcf:
@@ -1827,14 +1827,14 @@ translate vietnamese damsel_in_distress_brunette_dc9afc86:
 # game/events/explore/damsel_in_distress.rpy:699
 translate vietnamese damsel_in_distress_brunette_6e93e018:
 
-    # me "Huh.. Why would he give her this bone?"
-    me "Huh.. Tại sao hắn ta lại cho cô ấy khúc xương này?"
+    # me "Huh... Why would he give her this bone?"
+    me "Huh... Tại sao hắn ta lại cho cô ấy khúc xương này?"
 
 # game/events/explore/damsel_in_distress.rpy:700
 translate vietnamese damsel_in_distress_brunette_b60eb9f9:
 
-    # me "Weird.."
-    me "Kỳ quặc.."
+    # me "Weird..."
+    me "Kỳ quặc..."
 
 # game/events/explore/damsel_in_distress.rpy:708
 translate vietnamese damsel_in_distress_brunette_334c884d:
@@ -1851,8 +1851,8 @@ translate vietnamese damsel_in_distress_brunette_f7abe254:
 # game/events/explore/damsel_in_distress.rpy:710
 translate vietnamese damsel_in_distress_brunette_9083e8d0:
 
-    # d_brunette "I.. I've never done such a thing.."
-    d_brunette "Tôi .. tôi chưa bao giờ làm điều như vậy.."
+    # d_brunette "I... I've never done such a thing..."
+    d_brunette "Tôi ... tôi chưa bao giờ làm điều như vậy..."
 
 # game/events/explore/damsel_in_distress.rpy:711
 translate vietnamese damsel_in_distress_brunette_57106142:
@@ -1863,8 +1863,8 @@ translate vietnamese damsel_in_distress_brunette_57106142:
 # game/events/explore/damsel_in_distress.rpy:712
 translate vietnamese damsel_in_distress_brunette_0f8e83e5:
 
-    # d_brunette crying "Please.."
-    d_brunette crying "Làm ơn.."
+    # d_brunette crying "Please..."
+    d_brunette crying "Làm ơn..."
 
 # game/events/explore/damsel_in_distress.rpy:713
 translate vietnamese damsel_in_distress_brunette_b9864941:
@@ -1881,8 +1881,8 @@ translate vietnamese damsel_in_distress_brunette_36beaf28:
 # game/events/explore/damsel_in_distress.rpy:715
 translate vietnamese damsel_in_distress_brunette_a9effd62:
 
-    # d_brunette "I can do this with my hand.."
-    d_brunette "Tôi có thể làm điều này với bàn tay của mình.."
+    # d_brunette "I can do this with my hand..."
+    d_brunette "Tôi có thể làm điều này với bàn tay của mình..."
 
 # game/events/explore/damsel_in_distress.rpy:716
 translate vietnamese damsel_in_distress_brunette_630c0657:
@@ -1953,14 +1953,14 @@ translate vietnamese damsel_in_distress_brunette_42769541:
 # game/events/explore/damsel_in_distress.rpy:730
 translate vietnamese damsel_in_distress_brunette_ab6c2e47:
 
-    # d_brunette "Not long after The End, they went out to get us some food, and they.."
-    d_brunette "Không lâu sau The End, họ đi ra ngoài để lấy cho chúng tôi một số thức ăn, và họ.."
+    # d_brunette "Not long after The End, they went out to get us some food, and they..."
+    d_brunette "Không lâu sau The End, họ đi ra ngoài để lấy cho chúng tôi một số thức ăn, và họ..."
 
 # game/events/explore/damsel_in_distress.rpy:731
 translate vietnamese damsel_in_distress_brunette_2614409e:
 
-    # me "I see.. I'm sorry."
-    me "Tôi hiểu rồi.. xin lỗi."
+    # me "I see... I'm sorry."
+    me "Tôi hiểu rồi... xin lỗi."
 
 # game/events/explore/damsel_in_distress.rpy:732
 translate vietnamese damsel_in_distress_brunette_73d4dd04:
@@ -1971,8 +1971,8 @@ translate vietnamese damsel_in_distress_brunette_73d4dd04:
 # game/events/explore/damsel_in_distress.rpy:736
 translate vietnamese damsel_in_distress_brunette_35cf47d9:
 
-    # th "I will never cum talking about topics like these.."
-    th "Mình sẽ không bao giờ nói về những chủ đề như thế này.."
+    # th "I will never cum talking about topics like these..."
+    th "Mình sẽ không bao giờ nói về những chủ đề như thế này..."
 
 # game/events/explore/damsel_in_distress.rpy:737
 translate vietnamese damsel_in_distress_brunette_18004b99:
@@ -1995,8 +1995,8 @@ translate vietnamese damsel_in_distress_brunette_9586af09:
 # game/events/explore/damsel_in_distress.rpy:740
 translate vietnamese damsel_in_distress_brunette_3ae30827:
 
-    # me "I'm exploring, looking for things to gather, perhaps for people.. Well, I'm looking for anything of interest."
-    me "Tôi đang khám phá, tìm kiếm những thứ để thu thập, có lẽ là cho mọi người .. Chà, tôi đang tìm kiếm bất kỳ thứ gì có ích."
+    # me "I'm exploring, looking for things to gather, perhaps for people... Well, I'm looking for anything of interest."
+    me "Tôi đang khám phá, tìm kiếm những thứ để thu thập, có lẽ là cho mọi người ... Chà, tôi đang tìm kiếm bất kỳ thứ gì có ích."
 
 # game/events/explore/damsel_in_distress.rpy:741
 translate vietnamese damsel_in_distress_brunette_f19db4db:
@@ -2031,8 +2031,8 @@ translate vietnamese damsel_in_distress_brunette_5a9e4e97:
 # game/events/explore/damsel_in_distress.rpy:746
 translate vietnamese damsel_in_distress_brunette_d8e49a83:
 
-    # d_brunette "Umm.. It's very big, sir."
-    d_brunette "Umm.. Nó rất lớn, thưa ngài."
+    # d_brunette "Umm... It's very big, sir."
+    d_brunette "Umm... Nó rất lớn, thưa ngài."
 
 # game/events/explore/damsel_in_distress.rpy:747
 translate vietnamese damsel_in_distress_brunette_5ed25e9e:
@@ -2073,8 +2073,8 @@ translate vietnamese damsel_in_distress_brunette_240d4536:
 # game/events/explore/damsel_in_distress.rpy:753
 translate vietnamese damsel_in_distress_brunette_7d2ccd11:
 
-    # d_brunette "Eh.. Thank you."
-    d_brunette "Eh.. Cảm ơn."
+    # d_brunette "Eh... Thank you."
+    d_brunette "Eh... Cảm ơn."
 
 # game/events/explore/damsel_in_distress.rpy:754
 translate vietnamese damsel_in_distress_brunette_adf1446e:
@@ -2103,8 +2103,8 @@ translate vietnamese damsel_in_distress_brunette_36beaf28_1:
 # game/events/explore/damsel_in_distress.rpy:758
 translate vietnamese damsel_in_distress_brunette_85a79ba2:
 
-    # me "Suck on them, and.."
-    me "Bú chúng, và.."
+    # me "Suck on them, and..."
+    me "Bú chúng, và..."
 
 # game/events/explore/damsel_in_distress.rpy:761
 translate vietnamese damsel_in_distress_brunette_021a5164:
@@ -2121,8 +2121,8 @@ translate vietnamese damsel_in_distress_brunette_0fedb036:
 # game/events/explore/damsel_in_distress.rpy:765
 translate vietnamese damsel_in_distress_brunette_e96b12ef:
 
-    # d_brunette "Yhm.."
-    d_brunette "Yhm.."
+    # d_brunette "Yhm..."
+    d_brunette "Yhm..."
 
 # game/events/explore/damsel_in_distress.rpy:766
 translate vietnamese damsel_in_distress_brunette_3f5d85fc:
@@ -2169,8 +2169,8 @@ translate vietnamese damsel_in_distress_brunette_d01e1146:
 # game/events/explore/damsel_in_distress.rpy:776
 translate vietnamese damsel_in_distress_brunette_57c6427a:
 
-    # me "I must say, that girl was hot.. A pity she didn't want to do more."
-    me "Phải nói rằng, cô gái đó rất nóng bỏng .. Tiếc rằng cô ấy không muốn làm nhiều hơn thế nữa."
+    # me "I must say, that girl was hot... A pity she didn't want to do more."
+    me "Phải nói rằng, cô gái đó rất nóng bỏng ... Tiếc rằng cô ấy không muốn làm nhiều hơn thế nữa."
 
 # game/events/explore/damsel_in_distress.rpy:782
 translate vietnamese damsel_in_distress_brunette_6010fbd4:
@@ -2187,8 +2187,8 @@ translate vietnamese damsel_in_distress_brunette_ecd768ba:
 # game/events/explore/damsel_in_distress.rpy:784
 translate vietnamese damsel_in_distress_brunette_63fae76e:
 
-    # d_brunette "But.. Why?"
-    d_brunette "Nhưng.. tại sao?"
+    # d_brunette "But... Why?"
+    d_brunette "Nhưng... tại sao?"
 
 # game/events/explore/damsel_in_distress.rpy:785
 translate vietnamese damsel_in_distress_brunette_bdb93085:
@@ -2241,8 +2241,8 @@ translate vietnamese damsel_in_distress_brunette_e41c0e88:
 # game/events/explore/damsel_in_distress.rpy:798
 translate vietnamese damsel_in_distress_brunette_b50bd46d:
 
-    # me "Heh, to think I can be a good person sometimes.."
-    me "Heh, đôi khi nghĩ rằng mình có thể là một người tốt.."
+    # me "Heh, to think I can be a good person sometimes..."
+    me "Heh, đôi khi nghĩ rằng mình có thể là một người tốt..."
 
 # game/events/explore/damsel_in_distress.rpy:799
 translate vietnamese damsel_in_distress_brunette_2ef611b0:
@@ -2438,8 +2438,8 @@ translate vietnamese damsel_in_distress_brunette_3bba7a2b:
 # game/events/explore/damsel_in_distress.rpy:682
 translate vietnamese damsel_in_distress_brunette_0f5b5ad8:
 
-    # th "Who knows what's in their heads.. It might have really happened."
-    th "Who knows what's in their heads.. It might have really happened."
+    # th "Who knows what's in their heads... It might have really happened."
+    th "Who knows what's in their heads... It might have really happened."
 
 # game/events/explore/damsel_in_distress.rpy:693
 translate vietnamese damsel_in_distress_brunette_64fd89f4:

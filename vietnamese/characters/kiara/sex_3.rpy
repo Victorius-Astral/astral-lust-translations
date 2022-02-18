@@ -21,7 +21,7 @@ translate vietnamese kiara_sex_3_5cdaf53d:
 # game/characters/kiara/sex_3.rpy:72
 translate vietnamese kiara_sex_3_9174182d:
 
-    # kiara "Mmm.."
+    # kiara "Mmm..."
     kiara "Mmm..."
 
 # game/characters/kiara/sex_3.rpy:73
@@ -63,7 +63,7 @@ translate vietnamese kiara_sex_3_fast_0fcad096:
 # game/characters/kiara/sex_3.rpy:90
 translate vietnamese kiara_sex_3_fast_9bc97625:
 
-    # me "Haaa.."
+    # me "Haaa..."
     me "Haaa..."
 
 # game/characters/kiara/sex_3.rpy:91
@@ -124,8 +124,8 @@ translate vietnamese kiara_sex_3_cum_a5db8232:
 # game/characters/kiara/sex_3.rpy:114
 translate vietnamese kiara_sex_3_cum_8eda3dd3:
 
-    # me "Oh.."
-    me "Oh.."
+    # me "Oh..."
+    me "Oh..."
 
 # game/characters/kiara/sex_3.rpy:115
 translate vietnamese kiara_sex_3_cum_98654294:

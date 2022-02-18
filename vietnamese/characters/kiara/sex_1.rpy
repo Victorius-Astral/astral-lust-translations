@@ -4,13 +4,13 @@
 translate vietnamese kiara_sex_1_a6c6b1ac:
 
     # "Kiara immediately pulls up her skirt, lies down on the desk, and pulls aside her panties."
-    "Kiara lập tức kéo váy lên, nằm xuống bàn làm việc, và kéo quần lót sang một bên.."
+    "Kiara lập tức kéo váy lên, nằm xuống bàn làm việc, và kéo quần lót sang một bên..."
 
 # game/characters/kiara/sex_1.rpy:17
 translate vietnamese kiara_sex_1_883b8895:
 
     # kiara "What are you waiting for, just come and fuck me already."
-    kiara "Còn chần chừ gì nữa, tới công chiện luôn đi.."
+    kiara "Còn chần chừ gì nữa, tới công chiện luôn đi..."
 
 # game/characters/kiara/sex_1.rpy:19
 translate vietnamese kiara_sex_1_2390cd0f:
@@ -27,8 +27,8 @@ translate vietnamese kiara_sex_1_eafba839:
 # game/characters/kiara/sex_1.rpy:22
 translate vietnamese kiara_sex_1_a1387e2a:
 
-    # kiara "Yes.. Harder! Fuck me harder!"
-    kiara "Đúng rồi.. Mạnh hơn! Địt tôi mạnh hơn đi!"
+    # kiara "Yes... Harder! Fuck me harder!"
+    kiara "Đúng rồi... Mạnh hơn! Địt tôi mạnh hơn đi!"
 
 # game/characters/kiara/sex_1.rpy:23
 translate vietnamese kiara_sex_1_706cd899:
@@ -45,8 +45,8 @@ translate vietnamese kiara_sex_1_menu1_6fa12dc9:
 # game/characters/kiara/sex_1.rpy:31
 translate vietnamese kiara_sex_1_menu1_a1387e2a:
 
-    # kiara "Yes.. Harder! Fuck me harder!"
-    kiara "Đúng rồi.. Mạnh hơn! Địt tôi mạnh hơn đi!"
+    # kiara "Yes... Harder! Fuck me harder!"
+    kiara "Đúng rồi... Mạnh hơn! Địt tôi mạnh hơn đi!"
 
 # game/characters/kiara/sex_1.rpy:32
 translate vietnamese kiara_sex_1_menu1_706cd899:
@@ -63,8 +63,8 @@ translate vietnamese kiara_sex_1_menu1_6fa12dc9_1:
 # game/characters/kiara/sex_1.rpy:40
 translate vietnamese kiara_sex_1_menu1_a1387e2a_1:
 
-    # kiara "Yes.. Harder! Fuck me harder!"
-    kiara "Đúng rồi.. Mạnh hơn! Địt tôi mạnh hơn đi!"
+    # kiara "Yes... Harder! Fuck me harder!"
+    kiara "Đúng rồi... Mạnh hơn! Địt tôi mạnh hơn đi!"
 
 # game/characters/kiara/sex_1.rpy:41
 translate vietnamese kiara_sex_1_menu1_706cd899_1:
@@ -81,8 +81,8 @@ translate vietnamese kiara_sex_1_menu1_6fa12dc9_2:
 # game/characters/kiara/sex_1.rpy:50
 translate vietnamese kiara_sex_1_menu1_a1387e2a_2:
 
-    # kiara "Yes.. Harder! Fuck me harder!"
-    kiara "Đúng rồi.. Mạnh hơn! Địt tôi mạnh hơn đi!"
+    # kiara "Yes... Harder! Fuck me harder!"
+    kiara "Đúng rồi... Mạnh hơn! Địt tôi mạnh hơn đi!"
 
 # game/characters/kiara/sex_1.rpy:51
 translate vietnamese kiara_sex_1_menu1_706cd899_2:

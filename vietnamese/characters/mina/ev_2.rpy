@@ -93,8 +93,8 @@ translate vietnamese mina_2_4e58b234:
 # game/characters/mina/ev_2.rpy:36
 translate vietnamese mina_2_59bb8d80:
 
-    # mina "But to think that you'd get a kiss in such a way.."
-    mina "Nhưng nghĩ rằng anh sẽ nhận được một nụ hôn theo cách như vậy.."
+    # mina "But to think that you'd get a kiss in such a way..."
+    mina "Nhưng nghĩ rằng anh sẽ nhận được một nụ hôn theo cách như vậy..."
 
 # game/characters/mina/ev_2.rpy:38
 translate vietnamese mina_2_8738fbf7:
@@ -141,8 +141,8 @@ translate vietnamese mina_2_4cdc7709:
 # game/characters/mina/ev_2.rpy:47
 translate vietnamese mina_2_67ed4cdd:
 
-    # me "It was just a ki.."
-    me "Đó chỉ là một nụ h.."
+    # me "It was just a ki..."
+    me "Đó chỉ là một nụ h..."
 
 # game/characters/mina/ev_2.rpy:49
 translate vietnamese mina_2_cbaec1b9:
@@ -153,14 +153,14 @@ translate vietnamese mina_2_cbaec1b9:
 # game/characters/mina/ev_2.rpy:50
 translate vietnamese mina_2_2e52c69c:
 
-    # me "Fine, not saying anything more.."
-    me "Tốt thôi, không nói gì nữa.."
+    # me "Fine, not saying anything more..."
+    me "Tốt thôi, không nói gì nữa..."
 
 # game/characters/mina/ev_2.rpy:52
 translate vietnamese mina_2_a15eea14:
 
-    # mina "As for the reason I'm here.. soon something important will happen!"
-    mina "Về lý do em ở đây.. là vì sẽ sớm có chuyện quan trọng xảy ra!"
+    # mina "As for the reason I'm here... soon something important will happen!"
+    mina "Về lý do em ở đây... là vì sẽ sớm có chuyện quan trọng xảy ra!"
 
 # game/characters/mina/ev_2.rpy:53
 translate vietnamese mina_2_314086b3:
@@ -189,8 +189,8 @@ translate vietnamese mina_2_ca4f7f18:
 # game/characters/mina/ev_2.rpy:58
 translate vietnamese mina_2_b6cebef3:
 
-    # th "It's hard to believe that they all hide their pain looking at her.. Did [lexi] lie to me or am I blind?"
-    th "Thật khó tin rằng tất cả họ đều che giấu nỗi đau của mình khi nhìn em ấy.. liệu có phải [lexi] đã nói dối hay mình bị mù?"
+    # th "It's hard to believe that they all hide their pain looking at her... Did [lexi] lie to me or am I blind?"
+    th "Thật khó tin rằng tất cả họ đều che giấu nỗi đau của mình khi nhìn em ấy... liệu có phải [lexi] đã nói dối hay mình bị mù?"
 
 # game/characters/mina/ev_2.rpy:60
 translate vietnamese mina_2_4d59606e:
@@ -225,8 +225,8 @@ translate vietnamese mina_2_b8a525f5:
 # game/characters/mina/ev_2.rpy:67
 translate vietnamese mina_2_404c6c9a:
 
-    # mina "I don't know.."
-    mina "Em khum bít.."
+    # mina "I don't know..."
+    mina "Em khum bít..."
 
 # game/characters/mina/ev_2.rpy:68
 translate vietnamese mina_2_3b60c2c6:
@@ -237,8 +237,8 @@ translate vietnamese mina_2_3b60c2c6:
 # game/characters/mina/ev_2.rpy:69
 translate vietnamese mina_2_e2229a6a:
 
-    # mina "I have no idea where we are.. this city isn't exactly small."
-    mina "Em không biết chúng ta đang ở đâu.. thành phố này cũng không hẳn là nhỏ."
+    # mina "I have no idea where we are... this city isn't exactly small."
+    mina "Em không biết chúng ta đang ở đâu... thành phố này cũng không hẳn là nhỏ."
 
 # game/characters/mina/ev_2.rpy:70
 translate vietnamese mina_2_3820771a_1:

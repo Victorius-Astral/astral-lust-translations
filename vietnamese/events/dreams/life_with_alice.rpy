@@ -105,8 +105,8 @@ translate vietnamese d_Life_with_Alice_2_f34191a2:
 # game/events/dreams/life_with_alice.rpy:57
 translate vietnamese d_Life_with_Alice_2_2133cbe6:
 
-    # th "[alice]'s pregnant it seems. I will have more kids..'"
-    th "Có vẻ như [alice] đang mang thai. Mình sẽ có thêm con..'"
+    # th "[alice]'s pregnant it seems. I will have more kids...'"
+    th "Có vẻ như [alice] đang mang thai. Mình sẽ có thêm con...'"
 
 # game/events/dreams/life_with_alice.rpy:63
 translate vietnamese d_Life_with_Alice_2_2a9254b5:
@@ -285,8 +285,8 @@ translate vietnamese d_Life_with_Alice_2_blow_07ad1820:
 # game/events/dreams/life_with_alice.rpy:138
 translate vietnamese d_Life_with_Alice_2_blow_c88701c6:
 
-    # me "Ah.. Nevermind.."
-    me "Ah.. Đừng bận tâm.."
+    # me "Ah... Nevermind..."
+    me "Ah... Đừng bận tâm..."
 
 # game/events/dreams/life_with_alice.rpy:139
 translate vietnamese d_Life_with_Alice_2_blow_74da33f9:
@@ -453,8 +453,8 @@ translate vietnamese d_Life_with_Alice_2_foot_1fe62ade:
 # game/events/dreams/life_with_alice.rpy:187
 translate vietnamese d_Life_with_Alice_2_foot_f793f5e5:
 
-    # me "Fuck, I love this feeling.."
-    me "Mẹ ló, anh thích cảm giác này.."
+    # me "Fuck, I love this feeling..."
+    me "Mẹ ló, anh thích cảm giác này..."
 
 # game/events/dreams/life_with_alice.rpy:188
 translate vietnamese d_Life_with_Alice_2_foot_0b60a0c3:
@@ -531,8 +531,8 @@ translate vietnamese d_Life_with_Alice_2_foot_5fc15cb9:
 # game/events/dreams/life_with_alice.rpy:206
 translate vietnamese d_Life_with_Alice_2_foot_e1a8bbb2:
 
-    # me "Ahh.. What a mess.."
-    me "Ahh.. Thật là một mớ hỗn độn.."
+    # me "Ahh... What a mess..."
+    me "Ahh... Thật là một mớ hỗn độn..."
 
 # game/events/dreams/life_with_alice.rpy:214
 translate vietnamese d_Life_with_Alice_2_end_9bc989a0:

@@ -57,8 +57,8 @@ translate vietnamese savenia_2_c5637f0a:
 # game/characters/savenia/ev_2.rpy:16
 translate vietnamese savenia_2_2756ab01:
 
-    # me "You can't.. How did you.."
-    me "Cậu không thể.. Làm thế nào cậu.."
+    # me "You can't... How did you..."
+    me "Cậu không thể... Làm thế nào cậu..."
 
 # game/characters/savenia/ev_2.rpy:19
 translate vietnamese savenia_2_848b0633:
@@ -69,14 +69,14 @@ translate vietnamese savenia_2_848b0633:
 # game/characters/savenia/ev_2.rpy:20
 translate vietnamese savenia_2_ae67358c:
 
-    # me "Ah.. You're the most stubborn person I've met, and the most stupid."
-    me "Ah.. Cậu là người cứng đầu nhất mà tớ đã gặp, và ngu ngốc nhất nữa."
+    # me "Ah... You're the most stubborn person I've met, and the most stupid."
+    me "Ah... Cậu là người cứng đầu nhất mà tớ đã gặp, và ngu ngốc nhất nữa."
 
 # game/characters/savenia/ev_2.rpy:23
 translate vietnamese savenia_2_fd3214d4:
 
-    # savenia "Say it again, you bas.."
-    savenia "Nói lại lần nữa đi, đồ.."
+    # savenia "Say it again, you bas..."
+    savenia "Nói lại lần nữa đi, đồ..."
 
 # game/characters/savenia/ev_2.rpy:26
 translate vietnamese savenia_2_1ee7c058:
@@ -159,8 +159,8 @@ translate vietnamese savenia_2_20e8e47f:
 # game/characters/savenia/ev_2.rpy:51
 translate vietnamese savenia_2_0fa90437:
 
-    # th "She's gonna be a great asset if I get her to stay, but she might be just as dangerous.."
-    th "Cô ấy sẽ là một người rất có ích nếu mình để cô ấy ở lại, nhưng cô ấy có thể cũng nguy hiểm.."
+    # th "She's gonna be a great asset if I get her to stay, but she might be just as dangerous..."
+    th "Cô ấy sẽ là một người rất có ích nếu mình để cô ấy ở lại, nhưng cô ấy có thể cũng nguy hiểm..."
 
 # game/characters/savenia/ev_2.rpy:52
 translate vietnamese savenia_2_27f40ef7:
@@ -183,8 +183,8 @@ translate vietnamese savenia_2_cfffd40c:
 # game/characters/savenia/ev_2.rpy:57
 translate vietnamese savenia_2_5f9b772e:
 
-    # "...."
-    "...."
+    # "..."
+    "..."
 
 # game/characters/savenia/ev_2.rpy:58
 translate vietnamese savenia_2_51ce0b15:
@@ -195,14 +195,14 @@ translate vietnamese savenia_2_51ce0b15:
 # game/characters/savenia/ev_2.rpy:59
 translate vietnamese savenia_2_5f9b772e_1:
 
-    # "...."
-    "...."
+    # "..."
+    "..."
 
 # game/characters/savenia/ev_2.rpy:60
 translate vietnamese savenia_2_3adf8efc:
 
-    # th "Ah.."
-    th "Ah.."
+    # th "Ah..."
+    th "Ah..."
 
 # game/characters/savenia/ev_2.rpy:61
 translate vietnamese savenia_2_3e46a61b:
@@ -255,14 +255,14 @@ translate vietnamese savenia_2_2a45381b:
 # game/characters/savenia/ev_2.rpy:79
 translate vietnamese savenia_2_5f9b772e_2:
 
-    # "...."
-    "...."
+    # "..."
+    "..."
 
 # game/characters/savenia/ev_2.rpy:80
 translate vietnamese savenia_2_f13cd18b:
 
-    # alice "Thanks Gracie.."
-    alice "Cảm ơn Gracie.."
+    # alice "Thanks Gracie..."
+    alice "Cảm ơn Gracie..."
 
 # game/characters/savenia/ev_2.rpy:83
 translate vietnamese savenia_2_7402cda2:
@@ -351,8 +351,8 @@ translate vietnamese savenia_2_111a754d:
 # game/characters/savenia/ev_2.rpy:107
 translate vietnamese savenia_2_8e7f15a3:
 
-    # savenia "Ah.. Sorry Grace, I didn't mean it."
-    savenia "Ah.. Xin lỗi Grace, chị không cố ý."
+    # savenia "Ah... Sorry Grace, I didn't mean it."
+    savenia "Ah... Xin lỗi Grace, chị không cố ý."
 
 # game/characters/savenia/ev_2.rpy:108
 translate vietnamese savenia_2_fdb4e830:
@@ -381,8 +381,8 @@ translate vietnamese savenia_2_5c298aa7:
 # game/characters/savenia/ev_2.rpy:114
 translate vietnamese savenia_2_5f9b772e_3:
 
-    # "...."
-    "...."
+    # "..."
+    "..."
 
 # game/characters/savenia/ev_2.rpy:115
 translate vietnamese savenia_2_283e6cf3:
@@ -423,8 +423,8 @@ translate vietnamese savenia_2_0924d9df:
 # game/characters/savenia/ev_2.rpy:129
 translate vietnamese savenia_2_a3c3ef55:
 
-    # alice "She's got a whole arsenal on her shelf.."
-    alice "Cô ta có cả một kho vũ khí trên kệ của mình.."
+    # alice "She's got a whole arsenal on her shelf..."
+    alice "Cô ta có cả một kho vũ khí trên kệ của mình..."
 
 # game/characters/savenia/ev_2.rpy:132
 translate vietnamese savenia_2_acfc0b5c:
@@ -435,14 +435,14 @@ translate vietnamese savenia_2_acfc0b5c:
 # game/characters/savenia/ev_2.rpy:134
 translate vietnamese savenia_2_ced9f1eb:
 
-    # me "I don't know.. I just felt I had to help her, and while she's obviously dangerous, she doesn't seem to mean us any harm."
-    me "Anh không biết.. anh chỉ cảm thấy mình phải giúp cô ấy, và trong khi cô ấy rõ ràng là nguy hiểm, cô ấy dường như không có ý hại chúng ta."
+    # me "I don't know... I just felt I had to help her, and while she's obviously dangerous, she doesn't seem to mean us any harm."
+    me "Anh không biết... anh chỉ cảm thấy mình phải giúp cô ấy, và trong khi cô ấy rõ ràng là nguy hiểm, cô ấy dường như không có ý hại chúng ta."
 
 # game/characters/savenia/ev_2.rpy:137
 translate vietnamese savenia_2_77138365:
 
-    # th "That must be fucking Author.."
-    th "Đó phải là thằng tác giả chết tiệt.."
+    # th "That must be fucking Author..."
+    th "Đó phải là thằng tác giả chết tiệt..."
 
 # game/characters/savenia/ev_2.rpy:139
 translate vietnamese savenia_2_fba54b77:
@@ -453,8 +453,8 @@ translate vietnamese savenia_2_fba54b77:
 # game/characters/savenia/ev_2.rpy:142
 translate vietnamese savenia_2_91190df3:
 
-    # mina "That would be excellent.."
-    mina "Thế thì tuyệt quá.."
+    # mina "That would be excellent..."
+    mina "Thế thì tuyệt quá..."
 
 # game/characters/savenia/ev_2.rpy:143
 translate vietnamese savenia_2_8b5af7b6:
@@ -507,8 +507,8 @@ translate vietnamese savenia_2_b4d645af:
 # game/characters/savenia/ev_2.rpy:157
 translate vietnamese savenia_2_ffab79db:
 
-    # mina "She's here already.."
-    mina "Cô ấy đã ở đây rồi.."
+    # mina "She's here already..."
+    mina "Cô ấy đã ở đây rồi..."
 
 # game/characters/savenia/ev_2.rpy:160
 translate vietnamese savenia_2_2f145949:
@@ -519,8 +519,8 @@ translate vietnamese savenia_2_2f145949:
 # game/characters/savenia/ev_2.rpy:161
 translate vietnamese savenia_2_58c9594e:
 
-    # lexi "I'll do what is needed to keep us safe.."
-    lexi "Chị sẽ làm những gì cần thiết để giữ chúng ta an toàn.."
+    # lexi "I'll do what is needed to keep us safe..."
+    lexi "Chị sẽ làm những gì cần thiết để giữ chúng ta an toàn..."
 
 # game/characters/savenia/ev_2.rpy:162
 translate vietnamese savenia_2_c1ca28a0:
@@ -537,8 +537,8 @@ translate vietnamese savenia_2_bb22f645:
 # game/characters/savenia/ev_2.rpy:166
 translate vietnamese savenia_2_122cb78f:
 
-    # lexi "Ahh.. Fine."
-    lexi "Ahh.. Được thôi."
+    # lexi "Ahh... Fine."
+    lexi "Ahh... Được thôi."
 
 # game/characters/savenia/ev_2.rpy:169
 translate vietnamese savenia_2_9391e009:
@@ -585,8 +585,8 @@ translate vietnamese savenia_2_020885d7:
 # game/characters/savenia/ev_2.rpy:182
 translate vietnamese savenia_2_5b569b46:
 
-    # me "They weren't very happy with this surprise.."
-    me "Bọn họ không vui vẻ gì với điều bất ngờ này lắm.."
+    # me "They weren't very happy with this surprise..."
+    me "Bọn họ không vui vẻ gì với điều bất ngờ này lắm..."
 
 # game/characters/savenia/ev_2.rpy:183
 translate vietnamese savenia_2_038b5675:

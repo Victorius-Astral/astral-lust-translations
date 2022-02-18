@@ -9,8 +9,8 @@ translate vietnamese main_10_c0147db6:
 # game/characters/player/ev_10.rpy:7
 translate vietnamese main_10_f93a653c:
 
-    # kiara "Aest.."
-    kiara "Aest.."
+    # kiara "Aest..."
+    kiara "Aest..."
 
 # game/characters/player/ev_10.rpy:8
 translate vietnamese main_10_811d26b4:
@@ -27,8 +27,8 @@ translate vietnamese main_10_935c38df:
 # game/characters/player/ev_10.rpy:12
 translate vietnamese main_10_0bdebd06:
 
-    # kiara "..har!!"
-    kiara "..har!!"
+    # kiara "...har!!"
+    kiara "...har!!"
 
 # game/characters/player/ev_10.rpy:15
 translate vietnamese main_10_48373a16:
@@ -51,8 +51,8 @@ translate vietnamese main_10_0550ca6a:
 # game/characters/player/ev_10.rpy:20
 translate vietnamese main_10_56d7e266:
 
-    # kiara "You're a troublemaker indeed.."
-    kiara "Anh đúng là một kẻ chuyên đem rắc rối đến đấy.."
+    # kiara "You're a troublemaker indeed..."
+    kiara "Anh đúng là một kẻ chuyên đem rắc rối đến đấy..."
 
 # game/characters/player/ev_10.rpy:21
 translate vietnamese main_10_1f877649:
@@ -69,8 +69,8 @@ translate vietnamese main_10_a7c360d3:
 # game/characters/player/ev_10.rpy:25
 translate vietnamese main_10_9b6cbb87:
 
-    # kiara "It's been a long time.. Aharon.."
-    kiara "Lâu rồi không gặp.. Aharon.."
+    # kiara "It's been a long time... Aharon..."
+    kiara "Lâu rồi không gặp... Aharon..."
 
 # game/characters/player/ev_10.rpy:26
 translate vietnamese main_10_a6efcc57:
@@ -195,8 +195,8 @@ translate vietnamese main_10_88c27c64:
 # game/characters/player/ev_10.rpy:61
 translate vietnamese main_10_461790cf:
 
-    # kiara "You're thoroughly insane.."
-    kiara "Ngươi hoàn toàn mất trí rồi.."
+    # kiara "You're thoroughly insane..."
+    kiara "Ngươi hoàn toàn mất trí rồi..."
 
 # game/characters/player/ev_10.rpy:62
 translate vietnamese main_10_b2c8b27d:
@@ -219,8 +219,8 @@ translate vietnamese main_10_5645acbe:
 # game/characters/player/ev_10.rpy:67
 translate vietnamese main_10_542e5da7:
 
-    # kiara "... Very well.."
-    kiara "... Tốt thôi.."
+    # kiara "... Very well..."
+    kiara "... Tốt thôi..."
 
 # game/characters/player/ev_10.rpy:70
 translate vietnamese main_10_2f580e85:
@@ -249,14 +249,14 @@ translate vietnamese main_10_eed3f1d3:
 # game/characters/player/ev_10.rpy:79
 translate vietnamese main_10_bcdc56f0:
 
-    # kiara "I'll send you back. I hope we have a chance to meet again, but next time come alone.."
-    kiara "Tôi sẽ gửi anh trở lại. Tôi hy vọng chúng ta có cơ hội gặp lại nhau, nhưng lần sau hãy đến một mình.."
+    # kiara "I'll send you back. I hope we have a chance to meet again, but next time come alone..."
+    kiara "Tôi sẽ gửi anh trở lại. Tôi hy vọng chúng ta có cơ hội gặp lại nhau, nhưng lần sau hãy đến một mình..."
 
 # game/characters/player/ev_10.rpy:80
 translate vietnamese main_10_4989fe05:
 
-    # me "I.."
-    me "T.."
+    # me "I..."
+    me "T..."
 
 # game/characters/player/ev_10.rpy:83
 translate vietnamese main_10_a6fcb974:
@@ -303,23 +303,23 @@ translate vietnamese main_10_3820771a_3:
 # game/characters/player/ev_10.rpy:98
 translate vietnamese main_10_8341e13d:
 
-    # me "I hope you'll be alright [kiara].. I'm so sorry.."
-    me "Tôi hy vọng cô sẽ ổn [kiara].. Tôi rất xin lỗi.."
+    # me "I hope you'll be alright [kiara]... I'm so sorry..."
+    me "Tôi hy vọng cô sẽ ổn [kiara]... Tôi rất xin lỗi..."
 
 # game/characters/player/ev_10.rpy:99
 translate vietnamese main_10_485d5cda:
 
-    # me "I wanted to become powerful, to protect those dear to me, but I've brought harm to a friend again.."
-    me "Mình muốn trở nên mạnh mẽ, để bảo vệ những người thân yêu của mình, nhưng mình lại gây hại cho bạn mình.. lần nữa.."
+    # me "I wanted to become powerful, to protect those dear to me, but I've brought harm to a friend again..."
+    me "Mình muốn trở nên mạnh mẽ, để bảo vệ những người thân yêu của mình, nhưng mình lại gây hại cho bạn mình... lần nữa..."
 
 # game/characters/player/ev_10.rpy:100
 translate vietnamese main_10_3211a260:
 
-    # me "I'm.. pathetic.."
-    me "Thật.. thảm hại.."
+    # me "I'm... pathetic..."
+    me "Thật... thảm hại..."
 
 # game/characters/player/ev_10.rpy:101
 translate vietnamese main_10_be7aa58b:
 
-    # me "...."
-    me "...."
+    # me "..."
+    me "..."

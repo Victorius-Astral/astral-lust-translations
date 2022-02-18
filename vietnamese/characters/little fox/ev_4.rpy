@@ -27,8 +27,8 @@ translate vietnamese lil_fox_4_a7337bf5:
 # game/characters/little fox/ev_4.rpy:31
 translate vietnamese lil_fox_4_bf8d3b6b:
 
-    # me "Huh.. Could you take me there? I want to check it out."
-    me "Huh.. Em có thể đưa anh đến đó không? Anh muốn kiểm tra nó."
+    # me "Huh... Could you take me there? I want to check it out."
+    me "Huh... Em có thể đưa anh đến đó không? Anh muốn kiểm tra nó."
 
 # game/characters/little fox/ev_4.rpy:35
 translate vietnamese lil_fox_4_328ee2ce:
@@ -64,7 +64,7 @@ translate vietnamese lil_fox_4_d59a6b9a:
 translate vietnamese lil_fox_4_47c9a4f0:
 
     # "Little Fox, happy with her new appearance, takes you to the streets with a very clear direction in mind."
-    "Cáo nhỏ, hạnh phúc với diện mạo mới của mình, đưa bạn ra đường với một định hướng rất rõ ràng trong tâm trí."
+    "Tiểu Cáo, hạnh phúc với diện mạo mới của mình, đưa bạn ra đường với một định hướng rất rõ ràng trong tâm trí."
 
 # game/characters/little fox/ev_4.rpy:58
 translate vietnamese lil_fox_4_ffe10ad0:
@@ -111,14 +111,14 @@ translate vietnamese lil_fox_4_3820771a:
 # game/characters/little fox/ev_4.rpy:75
 translate vietnamese lil_fox_4_9429d5aa:
 
-    # lil_fox "It's so boring here.."
-    lil_fox "Ở đây chán quá.."
+    # lil_fox "It's so boring here..."
+    lil_fox "Ở đây chán quá..."
 
 # game/characters/little fox/ev_4.rpy:76
 translate vietnamese lil_fox_4_359b50db:
 
     # me "Little Fox, do you have any idea how much this gold is worth?"
-    me "Cáo nhỏ, em có biết số vàng này trị giá bao nhiêu không?"
+    me "Tiểu Cáo, em có biết số vàng này trị giá bao nhiêu không?"
 
 # game/characters/little fox/ev_4.rpy:82
 translate vietnamese lil_fox_4_c64fb4ea:
@@ -130,13 +130,13 @@ translate vietnamese lil_fox_4_c64fb4ea:
 translate vietnamese lil_fox_4_f148b115:
 
     # me "You know nothing Little Fox."
-    me "Em không biết tí gì đâu Cáo nhỏ."
+    me "Em không biết tí gì đâu Tiểu Cáo."
 
 # game/characters/little fox/ev_4.rpy:87
 translate vietnamese lil_fox_4_ff00a189:
 
-    # lil_fox "That's mean.. I know the way to this place, so what does that make you?"
-    lil_fox "Điều đó có nghĩa là.. Em biết đường đến nơi này, vì vậy điều đó làm cho anh thành?"
+    # lil_fox "That's mean... I know the way to this place, so what does that make you?"
+    lil_fox "Điều đó có nghĩa là... Em biết đường đến nơi này, vì vậy điều đó làm cho anh thành?"
 
 # game/characters/little fox/ev_4.rpy:88
 translate vietnamese lil_fox_4_b6ddf40f:
@@ -165,8 +165,8 @@ translate vietnamese lil_fox_4_68987698:
 # game/characters/little fox/ev_4.rpy:98
 translate vietnamese lil_fox_4_86ad91ea:
 
-    # me ".. Yes, I can indeed get that many stones with this."
-    me ".. Đúng, anh thực sự có thể nhận được nhiều đá với cái này."
+    # me "... Yes, I can indeed get that many stones with this."
+    me "... Đúng, anh thực sự có thể nhận được nhiều đá với cái này."
 
 # game/characters/little fox/ev_4.rpy:99
 translate vietnamese lil_fox_4_337bca12:
@@ -178,7 +178,7 @@ translate vietnamese lil_fox_4_337bca12:
 translate vietnamese lil_fox_4_a07239e2:
 
     # me "I'm glad to have you living in the hotel, Little Fox."
-    me "Anh rất vui vì em sống trong khách sạn, Cáo nhỏ."
+    me "Anh rất vui vì em sống trong khách sạn, Tiểu Cáo."
 
 # game/characters/little fox/ev_4.rpy:105
 translate vietnamese lil_fox_4_bf04991d:
@@ -216,4 +216,3 @@ translate vietnamese lil_fox_4_ecad83da:
 
     # me "It means, I can use this to get more things later."
     me "It means, I can use this to get more things later."
-

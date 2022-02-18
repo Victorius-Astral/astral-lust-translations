@@ -32,7 +32,7 @@ translate vietnamese strings:
 
     # game/variables/characters/side.rpy:28
     old "[Lil_Fox.name]"
-    new "[Lil_Fox.name]"
+    new "Tiểu Cáo"
 # TODO: Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
@@ -40,4 +40,3 @@ translate vietnamese strings:
     # game/variables/characters/side.rpy:30
     old "[Rhainda.name]"
     new "[Rhainda.name]"
-

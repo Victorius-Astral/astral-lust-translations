@@ -22,7 +22,7 @@ translate vietnamese room_lobby_door_menu1_1f9e4ccc:
 translate vietnamese room_lobby_door_menu1_b73dfa9c:
 
     # "Not wanting to think to much about it, you take the bag and carefully return to the hotel."
-    "Không muốn suy nghĩ nhiều, bạn xách túi cẩn thận trở về khách sạn.."
+    "Không muốn suy nghĩ nhiều, bạn xách túi cẩn thận trở về khách sạn..."
 
 # game/places/hotel/lobby/door.rpy:33
 translate vietnamese room_lobby_door_menu1_df3b8a27:

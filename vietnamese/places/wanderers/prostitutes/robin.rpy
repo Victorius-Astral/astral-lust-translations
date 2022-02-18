@@ -33,7 +33,7 @@ translate vietnamese w_booth_robin_menu1_73588ee7:
 # game/places/wanderers/prostitutes/robin.rpy:60
 translate vietnamese w_booth_robin_menu1_3cdbfa0d:
 
-    # me "I see.."
+    # me "I see..."
     me "Vậy sao..."
 
 # game/places/wanderers/prostitutes/robin.rpy:65
@@ -69,7 +69,7 @@ translate vietnamese w_booth_robin_end_5b8a83c2:
 # game/places/wanderers/prostitutes/robin.rpy:84
 translate vietnamese w_booth_robin_end_655add4a:
 
-    # th "It was nice, and those boobs.. Shit she got that thing." id w_booth_robin_end_655add4a
+    # th "It was nice, and those boobs... Shit she got that thing." id w_booth_robin_end_655add4a
     th "Cũng tuyệt đấy chứ, và cặp bưởi kia nữa." id w_booth_robin_end_655add4a
 
 # game/places/wanderers/prostitutes/robin.rpy:85
@@ -99,7 +99,7 @@ translate vietnamese w_booth_robin_tj_5d2372dc:
 # game/places/wanderers/prostitutes/robin.rpy:106
 translate vietnamese w_booth_robin_tj_slow_40976ab2:
 
-    # me "Ohh.."
+    # me "Ohh..."
     me "Ohh..."
 
 # game/places/wanderers/prostitutes/robin.rpy:107
@@ -123,8 +123,8 @@ translate vietnamese w_booth_robin_tj_slow_6e13be3f:
 # game/places/wanderers/prostitutes/robin.rpy:110
 translate vietnamese w_booth_robin_tj_slow_268c44fc:
 
-    # me "Mmm.."
-    me "Mmm.."
+    # me "Mmm..."
+    me "Mmm..."
 
 # game/places/wanderers/prostitutes/robin.rpy:111
 translate vietnamese w_booth_robin_tj_slow_f4645876:
@@ -159,13 +159,13 @@ translate vietnamese w_booth_robin_tj_slow_8cc78fe5:
 # game/places/wanderers/prostitutes/robin.rpy:116
 translate vietnamese w_booth_robin_tj_slow_41d21855:
 
-    # me "Ahh.. don't stop."
+    # me "Ahh... don't stop."
     me "Ahh... đừng dừng lại."
 
 # game/places/wanderers/prostitutes/robin.rpy:135
 translate vietnamese w_booth_robin_tj_slow2_40976ab2:
 
-    # me "Ohh.."
+    # me "Ohh..."
     me "Ohh..."
 
 # game/places/wanderers/prostitutes/robin.rpy:136
@@ -189,8 +189,8 @@ translate vietnamese w_booth_robin_tj_slow2_6e13be3f:
 # game/places/wanderers/prostitutes/robin.rpy:139
 translate vietnamese w_booth_robin_tj_slow2_268c44fc:
 
-    # me "Mmm.."
-    me "Mmm.."
+    # me "Mmm..."
+    me "Mmm..."
 
 # game/places/wanderers/prostitutes/robin.rpy:140
 translate vietnamese w_booth_robin_tj_slow2_f4645876:
@@ -225,13 +225,13 @@ translate vietnamese w_booth_robin_tj_slow2_8cc78fe5:
 # game/places/wanderers/prostitutes/robin.rpy:145
 translate vietnamese w_booth_robin_tj_slow2_41d21855:
 
-    # me "Ahh.. don't stop."
+    # me "Ahh... don't stop."
     me "Ahh... đừng dừng lại."
 
 # game/places/wanderers/prostitutes/robin.rpy:164
 translate vietnamese w_booth_robin_tj_slow3_40976ab2:
 
-    # me "Ohh.."
+    # me "Ohh..."
     me "Ohh..."
 
 # game/places/wanderers/prostitutes/robin.rpy:165
@@ -255,7 +255,7 @@ translate vietnamese w_booth_robin_tj_slow3_6e13be3f:
 # game/places/wanderers/prostitutes/robin.rpy:168
 translate vietnamese w_booth_robin_tj_slow3_268c44fc:
 
-    # me "Mmm.."
+    # me "Mmm..."
     me "Mmm..."
 
 # game/places/wanderers/prostitutes/robin.rpy:169
@@ -291,7 +291,7 @@ translate vietnamese w_booth_robin_tj_slow3_8cc78fe5:
 # game/places/wanderers/prostitutes/robin.rpy:174
 translate vietnamese w_booth_robin_tj_slow3_41d21855:
 
-    # me "Ahh.. don't stop."
+    # me "Ahh... don't stop."
     me "Ahh... đừng dừng lại."
 
 # game/places/wanderers/prostitutes/robin.rpy:193
@@ -303,7 +303,7 @@ translate vietnamese w_booth_robin_tj_fast_5dea091a:
 # game/places/wanderers/prostitutes/robin.rpy:194
 translate vietnamese w_booth_robin_tj_fast_f85744bf:
 
-    # me "Oh! Shit.."
+    # me "Oh! Shit..."
     me "Oh! Shit..."
 
 # game/places/wanderers/prostitutes/robin.rpy:195
@@ -345,8 +345,8 @@ translate vietnamese w_booth_robin_tj_fast2_5dea091a:
 # game/places/wanderers/prostitutes/robin.rpy:222
 translate vietnamese w_booth_robin_tj_fast2_f85744bf:
 
-    # me "Oh! Shit.."
-    me "Oh! Shit.."
+    # me "Oh! Shit..."
+    me "Oh! Shit..."
 
 # game/places/wanderers/prostitutes/robin.rpy:223
 translate vietnamese w_booth_robin_tj_fast2_924be671:
@@ -370,7 +370,7 @@ translate vietnamese w_booth_robin_tj_fast2_e1a7bef7:
 translate vietnamese w_booth_robin_tj_fast2_bffe540f:
 
     # me "Your tits were made for this, girl."
-    me "Cặp bưởi cảu em được tạo ra để làm chuyện này đấy."
+    me "Cặp bưởi của em được tạo ra để làm chuyện này đấy."
 
 # game/places/wanderers/prostitutes/robin.rpy:227
 translate vietnamese w_booth_robin_tj_fast2_34f2eb74:
@@ -387,7 +387,7 @@ translate vietnamese w_booth_robin_tj_fast3_5dea091a:
 # game/places/wanderers/prostitutes/robin.rpy:250
 translate vietnamese w_booth_robin_tj_fast3_f85744bf:
 
-    # me "Oh! Shit.."
+    # me "Oh! Shit..."
     me "Oh! Shit..."
 
 # game/places/wanderers/prostitutes/robin.rpy:251
@@ -459,13 +459,13 @@ translate vietnamese w_booth_robin_tj_before_0288855f:
 # game/places/wanderers/prostitutes/robin.rpy:283
 translate vietnamese w_booth_robin_tj_before_8f4e3c4e:
 
-    # robin "Hmm.. I can be a fickle bitch sometimes, [me_robin]. Haha."
+    # robin "Hmm... I can be a fickle bitch sometimes, [me_robin]. Haha."
     robin "Hmm... Đôi lúc em cũng có thể hơi nhẹ dạ. Haha."
 
 # game/places/wanderers/prostitutes/robin.rpy:284
 translate vietnamese w_booth_robin_tj_before_ba42b9f8:
 
-    # me "Hah.. Ahh.. That's fine.. You're a good bitch, [robin]."
+    # me "Hah... Ahh... That's fine... You're a good bitch, [robin]."
     me "Hah... Ahh... không sao đâu... Em là một con phò tốt đấy, [robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:285
@@ -519,13 +519,13 @@ translate vietnamese w_booth_robin_tj_before2_0288855f:
 # game/places/wanderers/prostitutes/robin.rpy:314
 translate vietnamese w_booth_robin_tj_before2_8f4e3c4e:
 
-    # robin "Hmm.. I can be a fickle bitch sometimes, [me_robin]. Haha."
+    # robin "Hmm... I can be a fickle bitch sometimes, [me_robin]. Haha."
     robin "Hmm... Đôi lúc em cũng có thể hơi nhẹ dạ. Haha."
 
 # game/places/wanderers/prostitutes/robin.rpy:315
 translate vietnamese w_booth_robin_tj_before2_ba42b9f8:
 
-    # me "Hah.. Ahh.. That's fine.. You're a good bitch, [robin]."
+    # me "Hah... Ahh... That's fine... You're a good bitch, [robin]."
     me "Hah... Ahh... không sao đâu... Em là một con phò tốt đấy, [robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:316
@@ -579,13 +579,13 @@ translate vietnamese w_booth_robin_tj_before3_0288855f:
 # game/places/wanderers/prostitutes/robin.rpy:345
 translate vietnamese w_booth_robin_tj_before3_8f4e3c4e:
 
-    # robin "Hmm.. I can be a fickle bitch sometimes, [me_robin]. Haha."
+    # robin "Hmm... I can be a fickle bitch sometimes, [me_robin]. Haha."
     robin "Hmm... Đôi lúc em cũng có thể là một con đĩ nhự dạ đấy. Haha."
 
 # game/places/wanderers/prostitutes/robin.rpy:346
 translate vietnamese w_booth_robin_tj_before3_ba42b9f8:
 
-    # me "Hah.. Ahh.. That's fine.. You're a good bitch, [robin]."
+    # me "Hah... Ahh... That's fine... You're a good bitch, [robin]."
     me "Hah... Ahh... không sao đâu... Em là một con phò tốt đấy, [robin]."
 
 # game/places/wanderers/prostitutes/robin.rpy:347
@@ -621,8 +621,8 @@ translate vietnamese w_booth_robin_tj_cum_9c6ac455:
 # game/places/wanderers/prostitutes/robin.rpy:370
 translate vietnamese w_booth_robin_tj_cum_81303875:
 
-    # robin "Mghmm.."
-    robin "Mghmm.."
+    # robin "Mghmm..."
+    robin "Mghmm..."
 
 # game/places/wanderers/prostitutes/robin.rpy:371
 translate vietnamese w_booth_robin_tj_cum_2559c919:
@@ -1065,7 +1065,7 @@ translate vietnamese w_booth_robin_wall_cum_8800b130:
 # game/places/wanderers/prostitutes/robin.rpy:654
 translate vietnamese w_booth_robin_wall_cum_cd547114:
 
-    # robin "I need to go.."
+    # robin "I need to go..."
     robin "Em cần phải đi..."
 
 # game/places/wanderers/prostitutes/robin.rpy:655

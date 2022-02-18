@@ -106,7 +106,7 @@ translate vietnamese kiara_menu1_19e0e2df:
 translate vietnamese kiara_menu1_ba6a2ebd:
 
     # kiara "It's impossible to describe with words. Like reciting the works of Aristotle to an amoeba. Just know that if They had human greed or desires the world would have been over long before the dawn of man."
-    kiara "Không thể diễn tả bằng lời được. Giống như kể lại các tác phẩm của Aristotle cho một con amip vậy. Chỉ cần biết rằng nếu họ có lòng tham hoặc ham muốn của con người thì thế giới đã kết thúc từ rất lâu rồi.."
+    kiara "Không thể diễn tả bằng lời được. Giống như kể lại các tác phẩm của Aristotle cho một con amip vậy. Chỉ cần biết rằng nếu họ có lòng tham hoặc ham muốn của con người thì thế giới đã kết thúc từ rất lâu rồi..."
 
 # game/characters/kiara/speak.rpy:78
 translate vietnamese kiara_menu1_5663e26d:
@@ -207,8 +207,8 @@ translate vietnamese kiara_menu1_581a3617:
 # game/characters/kiara/speak.rpy:116
 translate vietnamese kiara_menu1_febda483:
 
-    # th "So.. someone who used to be human started The End? What for?"
-    th "Vậy,.. một người từng là con người lại bắt đầu The End? Để làm gì?"
+    # th "So... someone who used to be human started The End? What for?"
+    th "Vậy,... một người từng là con người lại bắt đầu The End? Để làm gì?"
 
 # game/characters/kiara/speak.rpy:119
 translate vietnamese kiara_menu1_0f32fd37:
@@ -243,14 +243,14 @@ translate vietnamese kiara_menu1_34255d80:
 # game/characters/kiara/speak.rpy:129
 translate vietnamese kiara_menu1_3a812c28:
 
-    # me "Hmm.. Apotheosis ritual.. What does He need to do to complete it?"
-    me "Hmm.. Nghi thức Phong thần.. Hắn cần làm gì để hoàn thành nó?"
+    # me "Hmm... Apotheosis ritual... What does He need to do to complete it?"
+    me "Hmm... Nghi thức Phong thần... Hắn cần làm gì để hoàn thành nó?"
 
 # game/characters/kiara/speak.rpy:132
 translate vietnamese kiara_menu1_c908006d:
 
-    # me "Hmm.. Apotheosis ritual.. What does he need to do to complete it?"
-    me "Hmm.. Nghi thức Phong thần.. Hắn cần làm gì để hoàn thành nó?"
+    # me "Hmm... Apotheosis ritual... What does he need to do to complete it?"
+    me "Hmm... Nghi thức Phong thần... Hắn cần làm gì để hoàn thành nó?"
 
 # game/characters/kiara/speak.rpy:134
 translate vietnamese kiara_menu1_33be0f06:
@@ -309,8 +309,8 @@ translate vietnamese kiara_menu1_4df69917:
 # game/characters/kiara/speak.rpy:147
 translate vietnamese kiara_menu1_25a41ee3:
 
-    # th "Common knowledge? Only for you.."
-    th "Common knowledge? Only for you.."
+    # th "Common knowledge? Only for you..."
+    th "Common knowledge? Only for you..."
 
 # game/characters/kiara/speak.rpy:148
 translate vietnamese kiara_menu1_6b04ab3e:
@@ -387,8 +387,8 @@ translate vietnamese kiara_menu1_a662ef39:
 # game/characters/kiara/speak.rpy:167
 translate vietnamese kiara_menu1_c482ce92:
 
-    # th "She sounds like a charlatan.."
-    th "Cô ấy nói giống như lang băm vãi.."
+    # th "She sounds like a charlatan..."
+    th "Cô ấy nói giống như lang băm vãi..."
 
 # game/characters/kiara/speak.rpy:172
 translate vietnamese kiara_menu1_c133af72:

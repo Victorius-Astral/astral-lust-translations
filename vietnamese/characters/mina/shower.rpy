@@ -15,8 +15,8 @@ translate vietnamese shower_mina_190b0568:
 # game/characters/mina/shower.rpy:15
 translate vietnamese shower_mina_e64f16bc:
 
-    # th "She has killer body.."
-    th "Em ấy có cơ thể chết người đấy.."
+    # th "She has killer body..."
+    th "Em ấy có cơ thể chết người đấy..."
 
 # game/characters/mina/shower.rpy:16
 translate vietnamese shower_mina_d4536b57:
@@ -39,8 +39,8 @@ translate vietnamese shower_mina_adcfab35:
 # game/characters/mina/shower.rpy:22
 translate vietnamese shower_mina_4989fe05:
 
-    # me "I.."
-    me "Anh.."
+    # me "I..."
+    me "Anh..."
 
 # game/characters/mina/shower.rpy:25
 translate vietnamese shower_mina_d97f5fcc:

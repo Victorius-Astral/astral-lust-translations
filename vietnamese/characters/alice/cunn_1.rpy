@@ -27,8 +27,8 @@ translate vietnamese alice_cunn1_c03d28ea:
 # game/characters/alice/cunn_1.rpy:38
 translate vietnamese alice_cunn1_5e89a703:
 
-    # alice "Mmm.. just like that."
-    alice "Mmm.. Cứ như vậy đi."
+    # alice "Mmm... just like that."
+    alice "Mmm... Cứ như vậy đi."
 
 # game/characters/alice/cunn_1.rpy:39
 translate vietnamese alice_cunn1_6de696ef:

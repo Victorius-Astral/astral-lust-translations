@@ -39,8 +39,8 @@ translate vietnamese v2_win_8210092f:
 # game/functions/cheats.rpy:118
 translate vietnamese v2_win_3df213ae:
 
-    # me "What.. Who the fuck are you?!"
-    me "Cái gì.. cô là con đéo nào thế?!"
+    # me "What... Who the fuck are you?!"
+    me "Cái gì... cô là con đéo nào thế?!"
 
 # game/functions/cheats.rpy:119
 translate vietnamese v2_win_9167ebe4:
@@ -63,8 +63,8 @@ translate vietnamese v2_win_8732b5a6:
 # game/functions/cheats.rpy:122
 translate vietnamese v2_win_a9c3e71e:
 
-    # me "Oh young lady, you overdid it.. Don't you dare to bring {color=#672c2c}Him{/color} into this!"
-    me "Ôi cô gái trẻ, cô quá liều rồi đấy.. Cô không dám mang cả {color=#672c2c}Ngài{/color} vào việc này á!"
+    # me "Oh young lady, you overdid it... Don't you dare to bring {color=#672c2c}Him{/color} into this!"
+    me "Ôi cô gái trẻ, cô quá liều rồi đấy... Cô không dám mang cả {color=#672c2c}Ngài{/color} vào việc này á!"
 
 # game/functions/cheats.rpy:123
 translate vietnamese v2_win_284d0674:
@@ -105,8 +105,8 @@ translate vietnamese v2_win_eff0e9a6:
 # game/functions/cheats.rpy:141
 translate vietnamese v2_win_0768b7f4:
 
-    # me "Was that a moan? You are such a whore.."
-    me "Đó có phải là một tiếng rên không? Cô đúng là một con phò mà.."
+    # me "Was that a moan? You are such a whore..."
+    me "Đó có phải là một tiếng rên không? Cô đúng là một con phò mà..."
 
 # game/functions/cheats.rpy:149
 translate vietnamese v2_win_33b99f15:

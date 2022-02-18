@@ -177,14 +177,14 @@ translate vietnamese grace_6_1_2134547b:
 # game/characters/grace/ev_6.rpy:59
 translate vietnamese grace_6_1_a1ad2b0d:
 
-    # me "I'm scared exactly because I don't remember them, who knows what happened to me during all that time.."
-    me "Anh sợ hãi chính xác vì anh không nhớ họ, ai biết được điều gì đã xảy ra với mình trong suốt thời gian qua.."
+    # me "I'm scared exactly because I don't remember them, who knows what happened to me during all that time..."
+    me "Anh sợ hãi chính xác vì anh không nhớ họ, ai biết được điều gì đã xảy ra với mình trong suốt thời gian qua..."
 
 # game/characters/grace/ev_6.rpy:61
 translate vietnamese grace_6_1_f563f0f2:
 
-    # grace "Oh.."
-    grace "Oh.."
+    # grace "Oh..."
+    grace "Oh..."
 
 # game/characters/grace/ev_6.rpy:63
 translate vietnamese grace_6_1_62f5b036:
@@ -237,8 +237,8 @@ translate vietnamese grace_6_1_c6ee5b2c:
 # game/characters/grace/ev_6.rpy:80
 translate vietnamese grace_6_1_400c34ac:
 
-    # me "Mm. I feel so sad that probably only one thing could cheer me up now.."
-    me "Mm. Anh cảm thấy rất buồn và có lẽ chỉ có một điều có thể làm anh vui lên lúc này.."
+    # me "Mm. I feel so sad that probably only one thing could cheer me up now..."
+    me "Mm. Anh cảm thấy rất buồn và có lẽ chỉ có một điều có thể làm anh vui lên lúc này..."
 
 # game/characters/grace/ev_6.rpy:82
 translate vietnamese grace_6_1_c93091b8:
@@ -303,8 +303,8 @@ translate vietnamese grace_6_1_7c8e18f8:
 # game/characters/grace/ev_6.rpy:101
 translate vietnamese grace_6_1_2b81bd39:
 
-    # th "Smart you say.. Seems she doesn't trust me enough yet."
-    th "Thông minh.. Có vẻ như em ấy chưa đủ tin tưởng mình."
+    # th "Smart you say... Seems she doesn't trust me enough yet."
+    th "Thông minh... Có vẻ như em ấy chưa đủ tin tưởng mình."
 
 # game/characters/grace/ev_6.rpy:106
 translate vietnamese grace_6_1_a0a697c9_1:

@@ -189,8 +189,8 @@ translate vietnamese lexi_hj_2_e9561509:
 # game/characters/lexi/hj_2.rpy:89
 translate vietnamese lexi_hj_2_e102db65:
 
-    # lexi "Great.."
-    lexi "Tuyệt.."
+    # lexi "Great..."
+    lexi "Tuyệt..."
 
 # game/characters/lexi/hj_2.rpy:90
 translate vietnamese lexi_hj_2_d2a0c908:

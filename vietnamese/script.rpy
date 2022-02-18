@@ -9,7 +9,7 @@ translate vietnamese start_3cb4f043:
 # game/script.rpy:42
 translate vietnamese start_5b20539c:
 
-    # th "This crunch is going to kill me.."
+    # th "This crunch is going to kill me..."
     th "Cái tiếng này sẽ giết chết mình mất..."
 
 # game/script.rpy:43
@@ -33,7 +33,7 @@ translate vietnamese start_c63451cd:
 # game/script.rpy:46
 translate vietnamese start_4302c4f4:
 
-    # th "It's raining.."
+    # th "It's raining..."
     th "Trời đang mưa..."
 
 # game/script.rpy:47
@@ -45,7 +45,7 @@ translate vietnamese start_936dc2b1:
 # game/script.rpy:48
 translate vietnamese start_2cf6ee55:
 
-    # th "What has become of this world.."
+    # th "What has become of this world..."
     th "Thứ gì đã khiến thế giới trở nên thế này..."
 
 # game/script.rpy:49
@@ -57,7 +57,7 @@ translate vietnamese start_7483d7a0:
 # game/script.rpy:54
 translate vietnamese start_6276e074:
 
-    # me "Rain was the last thing I needed.."
+    # me "Rain was the last thing I needed..."
     me "Những cơn mưa là thứ cuối cùng mà mình cần..."
 
 # game/script.rpy:55
@@ -249,13 +249,13 @@ translate vietnamese prologue_dialog1_a_228216f4:
 # game/script.rpy:161
 translate vietnamese prologue_dialog1_a_9e9d7500:
 
-    # me "I have never heard anything about any monsters before. On the radio they said something about riots but monsters? Monsters don't even exist.."
+    # me "I have never heard anything about any monsters before. On the radio they said something about riots but monsters? Monsters don't even exist..."
     me "Anh chưa bao giờ bất nghe là có quái vật cả. Trên radio họ nói gì đó về bạo loạn nhưng mà quái vật á? Chúng thậm chí còn không tồn tại..."
 
 # game/script.rpy:165
 translate vietnamese prologue_dialog1_a_70b982c8:
 
-    # u_lexi "Umm.. Radio? Radio broadcasts haven't worked since the fog appeared back then.."
+    # u_lexi "Umm... Radio? Radio broadcasts haven't worked since the fog appeared back then..."
     u_lexi "Umm... Radio? Các chương trình phát thanh đã không hoạt động kể từ khi sương mù xuất hiện rồi..."
 
 # game/script.rpy:166
@@ -285,7 +285,7 @@ translate vietnamese prologue_dialog1_a_314086b3:
 # game/script.rpy:170
 translate vietnamese prologue_dialog1_a_eb270a08:
 
-    # u_lexi "You don't look like you are lying.. You must have hit your head pretty hard."
+    # u_lexi "You don't look like you are lying... You must have hit your head pretty hard."
     u_lexi "Trông anh không giống như đang nói dối... anh hẳn là bị đập đầu khá mạnh hoặc hút quá nhiều lá đu đủ rồi..."
 
 # game/script.rpy:171
@@ -309,7 +309,7 @@ translate vietnamese prologue_dialog1_b_268dfb50:
 # game/script.rpy:180
 translate vietnamese prologue_dialog1_b_3bb6aa1f:
 
-    # th "Hmm.. The End.. What is this all about? I remember hearing on the radio that there was an occult gathering spreading panic with their prophecies about The End coming.."
+    # th "Hmm... The End... What is this all about? I remember hearing on the radio that there was an occult gathering spreading panic with their prophecies about The End coming..."
     th "Hmm... The End... Chuyện này là sao? Mình nhớ đã nghe trên đài phát thanh rằng có một nhóm người huyền bí tụ tập lại và lan truyền sự hoảng sợ với những lời tiên tri của họ về Sự kết thúc sắp xảy ra..."
 
 # game/script.rpy:181
@@ -327,7 +327,7 @@ translate vietnamese prologue_dialog1_c_6c7c26a7:
 # game/script.rpy:189
 translate vietnamese prologue_dialog1_c_e385e47e:
 
-    # me "And to think that everyone thought that they were mad.."
+    # me "And to think that everyone thought that they were mad..."
     me "Và tất cả mọi người đều nghĩ rằng chúng bị điên..."
 
 # game/script.rpy:193
@@ -381,7 +381,7 @@ translate vietnamese prologue_dialog1_c_9f08ae1d:
 # game/script.rpy:207
 translate vietnamese prologue_dialog1_c_673befaa:
 
-    # u_lexi "Now there is no one around.."
+    # u_lexi "Now there is no one around..."
     u_lexi "Bây giờ không còn ai xung quanh nữa..."
 
 # game/script.rpy:216
@@ -399,7 +399,7 @@ translate vietnamese prologue_part2_de505326:
 # game/script.rpy:218
 translate vietnamese prologue_part2_6061f05e:
 
-    # u_lexi "No, they didn't come after us because they would rather see us suffer living than just die.. If you meet them outside, they will kill you for sure."
+    # u_lexi "No, they didn't come after us because they would rather see us suffer living than just die... If you meet them outside, they will kill you for sure."
     u_lexi "Không, chúng không đuổi theo chúng ta vì chúng muốn thấy chúng ta đau khổ sống không bằng chết... Nếu anh gặp chúng ở bên ngoài, chúng chắc chắn sẽ giết anh ."
 
 # game/script.rpy:219
@@ -465,7 +465,7 @@ translate vietnamese prologue_part2_53fee24d:
 # game/script.rpy:243
 translate vietnamese prologue_part2_78178eed:
 
-    # me "Thanks! Umm.. mind telling me your name?"
+    # me "Thanks! Umm... mind telling me your name?"
     me "Cảm ơn! Umm... em có thể cho tớ biết tên không?"
 
 # game/script.rpy:248
@@ -477,7 +477,7 @@ translate vietnamese prologue_part2_ff134ac7:
 # game/script.rpy:249
 translate vietnamese prologue_part2_e0f17b0b:
 
-    # u_lexi "Right, I forgot.."
+    # u_lexi "Right, I forgot..."
     u_lexi "Phải rồi, tôi quên mất..."
 
 # game/script.rpy:253
@@ -531,7 +531,7 @@ translate vietnamese first_room_player_ask_fecf3281:
 # game/script.rpy:283
 translate vietnamese first_room_player_ask_99c090da:
 
-    # me ".. Online?"
+    # me "... Online?"
     me "... Online?"
 
 # game/script.rpy:284

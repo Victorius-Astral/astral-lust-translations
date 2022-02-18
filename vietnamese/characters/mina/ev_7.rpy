@@ -129,8 +129,8 @@ translate vietnamese mina_7_1_fd046e7f:
 # game/characters/mina/ev_7.rpy:51
 translate vietnamese mina_7_1_cf3c79fb:
 
-    # mina "Mmm.. Yes, pancakes with strawberry jam."
-    mina "Mmm.., bánh kếp và mứt dâu."
+    # mina "Mmm... Yes, pancakes with strawberry jam."
+    mina "Mmm..., bánh kếp và mứt dâu."
 
 # game/characters/mina/ev_7.rpy:52
 translate vietnamese mina_7_1_a08aaebe:
@@ -381,14 +381,14 @@ translate vietnamese mina_7_3_8695a5b6:
 # game/characters/mina/ev_7.rpy:145
 translate vietnamese mina_7_3_73b84250:
 
-    # me "What's so funny.."
-    me "Có gì mà buồn cười vậy.."
+    # me "What's so funny..."
+    me "Có gì mà buồn cười vậy..."
 
 # game/characters/mina/ev_7.rpy:148
 translate vietnamese mina_7_3_f26c1011:
 
-    # mina "{quiet}You wish..{/quiet}" id mina_7_3_f26c1011
-    mina "{quiet}Mơ đi..{/quiet}" id mina_7_3_f26c1011
+    # mina "{quiet}You wish...{/quiet}" id mina_7_3_f26c1011
+    mina "{quiet}Mơ đi...{/quiet}" id mina_7_3_f26c1011
 
 # game/characters/mina/ev_7.rpy:149
 translate vietnamese mina_7_3_3b577253:

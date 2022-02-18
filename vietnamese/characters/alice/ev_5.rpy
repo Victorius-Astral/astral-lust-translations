@@ -15,8 +15,8 @@ translate vietnamese alice_5_9403bafe:
 # game/characters/alice/ev_5.rpy:7
 translate vietnamese alice_5_cdfb7261:
 
-    # th "Someone's having fun again.."
-    th "Ai đó đang tự xử tiếp này.."
+    # th "Someone's having fun again..."
+    th "Ai đó đang tự xử tiếp này..."
 
 # game/characters/alice/ev_5.rpy:8
 translate vietnamese alice_5_1e7409fe:
@@ -93,8 +93,8 @@ translate vietnamese alice_5_1_bfe7f07e:
 # game/characters/alice/ev_5.rpy:55
 translate vietnamese alice_5_1_1f896646:
 
-    # th "How I wish to jump right in.."
-    th "Mình ước mình có thể nhảy vào ngay bây giờ.."
+    # th "How I wish to jump right in..."
+    th "Mình ước mình có thể nhảy vào ngay bây giờ..."
 
 # game/characters/alice/ev_5.rpy:56
 translate vietnamese alice_5_1_cf76ec19:
@@ -141,8 +141,8 @@ translate vietnamese alice_5_1_644a2f39:
 # game/characters/alice/ev_5.rpy:73
 translate vietnamese alice_5_1_e5c8c852:
 
-    # th "Got caught again.."
-    th "Lại bị bắt rồi.."
+    # th "Got caught again..."
+    th "Lại bị bắt rồi..."
 
 # game/characters/alice/ev_5.rpy:77
 translate vietnamese alice_5_1_73d3458f:
@@ -183,7 +183,7 @@ translate vietnamese alice_5_1_2930e26f:
 # game/characters/alice/ev_5.rpy:88
 translate vietnamese alice_5_1_47459da1:
 
-    # alice "Umm.. come here~"
+    # alice "Umm... come here~"
     alice "Ờ... Đến đây~"
 
 # game/characters/alice/ev_5.rpy:89
@@ -279,7 +279,7 @@ translate vietnamese alice_5_2_eff848bf:
 # game/characters/alice/ev_5.rpy:123
 translate vietnamese alice_5_2_5e89a703:
 
-    # alice "Mmm.. just like that."
+    # alice "Mmm... just like that."
     alice "Mmm... Cứ như vậy đi."
 
 # game/characters/alice/ev_5.rpy:124
@@ -369,7 +369,7 @@ translate vietnamese alice_5_2_bd890498:
 # game/characters/alice/ev_5.rpy:163
 translate vietnamese alice_5_2_874ebc2b:
 
-    # lexi "Y-Yeah.. this girl.."
+    # lexi "Y-Yeah... this girl..."
     lexi "Y-Yeah... cô gái này..."
 
 # game/characters/alice/ev_5.rpy:166

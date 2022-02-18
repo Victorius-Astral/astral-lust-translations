@@ -93,8 +93,8 @@ translate vietnamese lil_fox_3_8804c4b3:
 # game/characters/little fox/ev_3.rpy:53
 translate vietnamese lil_fox_3_340d8e2f:
 
-    # me "Ahh.. And what do you say when you want something?"
-    me "Ahh.. Và em sẽ nói gì khi em muốn một thứ gì đó?"
+    # me "Ahh... And what do you say when you want something?"
+    me "Ahh... Và em sẽ nói gì khi em muốn một thứ gì đó?"
 
 # game/characters/little fox/ev_3.rpy:57
 translate vietnamese lil_fox_3_a0715204:
@@ -142,7 +142,7 @@ translate vietnamese lil_fox_3_alice_8cee9703:
 translate vietnamese lil_fox_3_alice_237e52df:
 
     # me "Little Fox."
-    me "Cáo nhỏ."
+    me "Tiểu Cáo."
 
 # game/characters/little fox/ev_3.rpy:86
 translate vietnamese lil_fox_3_alice_c296745b:
@@ -165,14 +165,14 @@ translate vietnamese lil_fox_3_alice_c658c25e:
 # game/characters/little fox/ev_3.rpy:89
 translate vietnamese lil_fox_3_alice_5081eb71:
 
-    # me "Little Fox.."
-    me "Cáo nhỏ.."
+    # me "Little Fox..."
+    me "Tiểu Cáo..."
 
 # game/characters/little fox/ev_3.rpy:93
 translate vietnamese lil_fox_3_alice_97dab51f:
 
-    # alice "..What?"
-    alice "..Cái gì?"
+    # alice "...What?"
+    alice "...Cái gì?"
 
 # game/characters/little fox/ev_3.rpy:94
 translate vietnamese lil_fox_3_alice_159e2e9e:
@@ -225,8 +225,8 @@ translate vietnamese lil_fox_3_alice_02904656:
 # game/characters/little fox/ev_3.rpy:108
 translate vietnamese lil_fox_3_alice_1554147f:
 
-    # alice "Third, and most importantly: I want to see what girl you've brought back from the outside.. Again."
-    alice "Thứ ba, và quan trọng nhất: Em muốn xem cô gái nào mà bạn đã mang về từ bên ngoài về.. Lần nữa."
+    # alice "Third, and most importantly: I want to see what girl you've brought back from the outside... Again."
+    alice "Thứ ba, và quan trọng nhất: Em muốn xem cô gái nào mà bạn đã mang về từ bên ngoài về... Lần nữa."
 
 # game/characters/little fox/ev_3.rpy:109
 translate vietnamese lil_fox_3_alice_d6f4c0a5:
@@ -273,8 +273,8 @@ translate vietnamese lil_fox_3_alice_2b1611eb:
 # game/characters/little fox/ev_3.rpy:131
 translate vietnamese lil_fox_3_alice_4c3f4755:
 
-    # th "Good fox.."
-    th "Cáo tốt.."
+    # th "Good fox..."
+    th "Cáo tốt..."
 
 # game/characters/little fox/ev_3.rpy:135
 translate vietnamese lil_fox_3_alice_9a5188ce:
@@ -315,8 +315,8 @@ translate vietnamese lil_fox_3_alice_8a88736d:
 # game/characters/little fox/ev_3.rpy:146
 translate vietnamese lil_fox_3_alice_630b5cfb:
 
-    # lil_fox "It's not that. What I mean is.."
-    lil_fox "Không phải vậy đâu. Ý của em là.."
+    # lil_fox "It's not that. What I mean is..."
+    lil_fox "Không phải vậy đâu. Ý của em là..."
 
 # game/characters/little fox/ev_3.rpy:147
 translate vietnamese lil_fox_3_alice_943a650b:
@@ -400,13 +400,13 @@ translate vietnamese lil_fox_3_alice_641a8d87:
 translate vietnamese lil_fox_3_alice_a8ee3e2a:
 
     # lil_fox "I'm not a sidekick. I'm Little Fox!"
-    lil_fox "Em không phải là trợ thủ. Em là cáo nhỏ!"
+    lil_fox "Em không phải là trợ thủ. Em là Tiểu Cáo!"
 
 # game/characters/little fox/ev_3.rpy:185
 translate vietnamese lil_fox_3_alice_3e36bac1:
 
-    # alice "Sure.."
-    alice "Chắc rồi.."
+    # alice "Sure..."
+    alice "Chắc rồi..."
 
 # game/characters/little fox/ev_3.rpy:186
 translate vietnamese lil_fox_3_alice_55de605d:
@@ -429,14 +429,14 @@ translate vietnamese lil_fox_3_alice_70b517f5:
 # game/characters/little fox/ev_3.rpy:192
 translate vietnamese lil_fox_3_alice_79a0a9ad:
 
-    # th "Now she's just making things difficult for her.."
-    th "Bây giờ Alice làm mọi thứ khó khăn hơn cho em ấy.."
+    # th "Now she's just making things difficult for her..."
+    th "Bây giờ Alice làm mọi thứ khó khăn hơn cho em ấy..."
 
 # game/characters/little fox/ev_3.rpy:196
 translate vietnamese lil_fox_3_alice_5a35e15b:
 
-    # lil_fox "Hmm.."
-    lil_fox "Hmm.."
+    # lil_fox "Hmm..."
+    lil_fox "Hmm..."
 
 # game/characters/little fox/ev_3.rpy:197
 translate vietnamese lil_fox_3_alice_30e78d80:
@@ -465,8 +465,8 @@ translate vietnamese lil_fox_3_alice_5c319688:
 # game/characters/little fox/ev_3.rpy:206
 translate vietnamese lil_fox_3_alice_4a640784:
 
-    # me "Why? Thanks.."
-    me "Tại sao? Cảm ơn.."
+    # me "Why? Thanks..."
+    me "Tại sao? Cảm ơn..."
 
 # game/characters/little fox/ev_3.rpy:207
 translate vietnamese lil_fox_3_alice_1efb8f5a:
@@ -483,8 +483,8 @@ translate vietnamese lil_fox_3_alice_826fac1c:
 # game/characters/little fox/ev_3.rpy:212
 translate vietnamese lil_fox_3_alice_f0b1b29f:
 
-    # me "I thought I'm your first.."
-    me "Anh nghĩ anh là người đầu tiên của em.."
+    # me "I thought I'm your first..."
+    me "Anh nghĩ anh là người đầu tiên của em..."
 
 # game/characters/little fox/ev_3.rpy:213
 translate vietnamese lil_fox_3_alice_748c472c:
@@ -495,8 +495,8 @@ translate vietnamese lil_fox_3_alice_748c472c:
 # game/characters/little fox/ev_3.rpy:214
 translate vietnamese lil_fox_3_alice_ac5342da:
 
-    # th "That would be quite ironic.."
-    th "Điều đó sẽ khá là mỉa mai.."
+    # th "That would be quite ironic..."
+    th "Điều đó sẽ khá là mỉa mai..."
 
 # game/characters/little fox/ev_3.rpy:215
 translate vietnamese lil_fox_3_alice_2337e6e4:
@@ -507,8 +507,8 @@ translate vietnamese lil_fox_3_alice_2337e6e4:
 # game/characters/little fox/ev_3.rpy:219
 translate vietnamese lil_fox_3_alice_75693c7d:
 
-    # alice "My pussy is not a territory you can claim.."
-    alice "Âm hộ của em không phải là cái một lãnh thổ mà anh có thể chiếm đâu.."
+    # alice "My pussy is not a territory you can claim..."
+    alice "Âm hộ của em không phải là cái một lãnh thổ mà anh có thể chiếm đâu..."
 
 # game/characters/little fox/ev_3.rpy:220
 translate vietnamese lil_fox_3_alice_70fb8d69:
@@ -519,8 +519,8 @@ translate vietnamese lil_fox_3_alice_70fb8d69:
 # game/characters/little fox/ev_3.rpy:224
 translate vietnamese lil_fox_3_alice_52caba81:
 
-    # alice "It's not what it's about.. I'm your girlfriend, show me some respect. You're making me sad, [me]."
-    alice "Không phải là về chuyện đấy.. Em là bạn gái của anh, hãy thể hiện chút tôn trọng đi. Anh đang làm em buồn đấy, [me]."
+    # alice "It's not what it's about... I'm your girlfriend, show me some respect. You're making me sad, [me]."
+    alice "Không phải là về chuyện đấy... Em là bạn gái của anh, hãy thể hiện chút tôn trọng đi. Anh đang làm em buồn đấy, [me]."
 
 # game/characters/little fox/ev_3.rpy:225
 translate vietnamese lil_fox_3_alice_d58b52d8:
@@ -543,14 +543,14 @@ translate vietnamese lil_fox_3_alice_b80a7bb0:
 # game/characters/little fox/ev_3.rpy:234
 translate vietnamese lil_fox_3_alice_61b0351b:
 
-    # th "She never was so aggressive.. Her tongue invading my throat is a great sensation."
-    th "Em ấy chưa bao giờ mạnh bạo như vậy.. Lưỡi cô ấy xâm chiếm cổ họng mình, một cảm giác tuyệt vời."
+    # th "She never was so aggressive... Her tongue invading my throat is a great sensation."
+    th "Em ấy chưa bao giờ mạnh bạo như vậy... Lưỡi cô ấy xâm chiếm cổ họng mình, một cảm giác tuyệt vời."
 
 # game/characters/little fox/ev_3.rpy:238
 translate vietnamese lil_fox_3_alice_a10cf34c:
 
-    # lil_fox "Umm.. Do you want me to come later?"
-    lil_fox "Umm.. Anh có muốn em đến sau không?"
+    # lil_fox "Umm... Do you want me to come later?"
+    lil_fox "Umm... Anh có muốn em đến sau không?"
 
 # game/characters/little fox/ev_3.rpy:239
 translate vietnamese lil_fox_3_alice_ecd768ba:
@@ -573,8 +573,8 @@ translate vietnamese lil_fox_3_alice_e850aca6:
 # game/characters/little fox/ev_3.rpy:248
 translate vietnamese lil_fox_3_alice_366a8ffe:
 
-    # me "You little tease.."
-    me "Thích trêu em nó thế.."
+    # me "You little tease..."
+    me "Thích trêu em nó thế..."
 
 # game/characters/little fox/ev_3.rpy:249
 translate vietnamese lil_fox_3_alice_110a4192:
@@ -627,8 +627,8 @@ translate vietnamese lil_fox_3_alice_34706d8b:
 # game/characters/little fox/ev_3.rpy:275
 translate vietnamese lil_fox_3_alice_72aff623:
 
-    # lil_fox "...."
-    lil_fox "...."
+    # lil_fox "..."
+    lil_fox "..."
 
 # game/characters/little fox/ev_3.rpy:276
 translate vietnamese lil_fox_3_alice_bfa4659a:
@@ -639,7 +639,7 @@ translate vietnamese lil_fox_3_alice_bfa4659a:
 # game/characters/little fox/ev_3.rpy:277
 translate vietnamese lil_fox_3_alice_c2b4f23c:
 
-    # th "Oh, shit. That's a bar.."
+    # th "Oh, shit. That's a bar..."
     th "Oh vãi lồn."
 
 # game/characters/little fox/ev_3.rpy:278
@@ -670,7 +670,7 @@ translate vietnamese lil_fox_3_alice_90b71ea2:
 translate vietnamese lil_fox_3_alice_1762fc7f:
 
     # me "*Cough* Take it easy both of you."
-    me "*Khụ* Bình tĩnh đi cả hai.."
+    me "*Khụ* Bình tĩnh đi cả hai..."
 
 # game/characters/little fox/ev_3.rpy:286
 translate vietnamese lil_fox_3_alice_f976241f:
@@ -687,8 +687,8 @@ translate vietnamese lil_fox_3_alice_71dd22c5:
 # game/characters/little fox/ev_3.rpy:291
 translate vietnamese lil_fox_3_alice_9ced5bd4:
 
-    # th "You two could kill each other anytime.."
-    th "Hai người này có thể lao vào giết nhau bất cứ lúc nào.."
+    # th "You two could kill each other anytime..."
+    th "Hai người này có thể lao vào giết nhau bất cứ lúc nào..."
 
 # game/characters/little fox/ev_3.rpy:292
 translate vietnamese lil_fox_3_alice_a0273d77:
@@ -717,8 +717,8 @@ translate vietnamese lil_fox_3_alice_65371c60:
 # game/characters/little fox/ev_3.rpy:296
 translate vietnamese lil_fox_3_alice_7b4d28c1:
 
-    # me "I think it's better I keep eye on both of you.."
-    me "Tôi nghĩ tốt hơn là tôi nên để mắt đến cả hai người.."
+    # me "I think it's better I keep eye on both of you..."
+    me "Tôi nghĩ tốt hơn là tôi nên để mắt đến cả hai người..."
 
 # game/characters/little fox/ev_3.rpy:301
 translate vietnamese lil_fox_3_alice_0c67d464:
@@ -735,14 +735,14 @@ translate vietnamese lil_fox_3_alice_0c276ff1:
 # game/characters/little fox/ev_3.rpy:303
 translate vietnamese lil_fox_3_alice_84ec3900:
 
-    # th "I can smell gunpowder in the air.."
-    th "Mình có thể ngửi thấy mùi thuốc súng trong không khí.."
+    # th "I can smell gunpowder in the air..."
+    th "Mình có thể ngửi thấy mùi thuốc súng trong không khí..."
 
 # game/characters/little fox/ev_3.rpy:308
 translate vietnamese lil_fox_3_alice_f14adb90:
 
-    # me "I should follow them just to be safe.."
-    me "Mình nên theo dõi họ để cho an toàn.."
+    # me "I should follow them just to be safe..."
+    me "Mình nên theo dõi họ để cho an toàn..."
 
 # game/characters/little fox/ev_3.rpy:312
 translate vietnamese lil_fox_3_alice_d6c9d9f9:
@@ -808,13 +808,13 @@ translate vietnamese lil_fox_3_alice_18992304:
 translate vietnamese lil_fox_3_alice_d6086633:
 
     # rachel "Don't worry. Little Fox won't hurt her."
-    rachel "Đừng lo. Cáo nhỏ sẽ không làm tổn thương cô ấy đâu."
+    rachel "Đừng lo. Tiểu Cáo sẽ không làm tổn thương cô ấy đâu."
 
 # game/characters/little fox/ev_3.rpy:323
 translate vietnamese lil_fox_3_alice_de68b879:
 
-    # me "I'm afraid for Little Fox actually.. Alice seemed pretty upset.."
-    me "Thực ra tôi lo cho Cáo nhỏ coq .. Alice có vẻ khá buồn.."
+    # me "I'm afraid for Little Fox actually... Alice seemed pretty upset..."
+    me "Thực ra tôi lo cho Tiểu Cáo cơ... Alice có vẻ khá buồn..."
 
 # game/characters/little fox/ev_3.rpy:324
 translate vietnamese lil_fox_3_alice_a67c2ff9:
@@ -862,7 +862,7 @@ translate vietnamese lil_fox_3_alice_87da7d05:
 translate vietnamese lil_fox_3_alice_45ffe279:
 
     # rachel "I'm afraid both Alice and Little Fox will lose their trust in you, though."
-    rachel "Tuy nhiên, tôi sợ cả Alice và Cáo nhỏ sẽ mất lòng tin vào anh."
+    rachel "Tuy nhiên, tôi sợ cả Alice và Tiểu Cáo sẽ mất lòng tin vào anh."
 
 # game/characters/little fox/ev_3.rpy:332
 translate vietnamese lil_fox_3_alice_21fc195c:
@@ -994,7 +994,7 @@ translate vietnamese lil_fox_3_alice_47c4dba2:
 translate vietnamese lil_fox_3_alice_ed52018a:
 
     # me "Oh? Little Fox wouldn't mind?"
-    me "Oh? Cáo nhỏ sẽ không phiền chứ?"
+    me "Oh? Tiểu Cáo sẽ không phiền chứ?"
 
 # game/characters/little fox/ev_3.rpy:363
 translate vietnamese lil_fox_3_alice_be0f2135:
@@ -1017,8 +1017,8 @@ translate vietnamese lil_fox_3_alice_11b33b34:
 # game/characters/little fox/ev_3.rpy:366
 translate vietnamese lil_fox_3_alice_01d5f839:
 
-    # me "Oh.. So she wouldn't be jealous about me?"
-    me "Oh.. Vì thế, em ấy sẽ không ghen về tôi?"
+    # me "Oh... So she wouldn't be jealous about me?"
+    me "Oh... Vì thế, em ấy sẽ không ghen về tôi?"
 
 # game/characters/little fox/ev_3.rpy:367
 translate vietnamese lil_fox_3_alice_65912e23:
@@ -1077,8 +1077,8 @@ translate vietnamese lil_fox_3_alice_27727a8e:
 # game/characters/little fox/ev_3.rpy:387
 translate vietnamese lil_fox_3_alice_350316f1:
 
-    # th "And alive.."
-    th "Và còn sống.."
+    # th "And alive..."
+    th "Và còn sống..."
 
 # game/characters/little fox/ev_3.rpy:391
 translate vietnamese lil_fox_3_alice_e1eb5fc2:
@@ -1113,8 +1113,8 @@ translate vietnamese lil_fox_3_alice_97c3dae4:
 # game/characters/little fox/ev_3.rpy:402
 translate vietnamese lil_fox_3_alice_51a39694:
 
-    # rachel "Ahh.. Fine. See you [me]."
-    rachel "Ahh.. Được thôi. Hẹn gặp lại [me]."
+    # rachel "Ahh... Fine. See you [me]."
+    rachel "Ahh... Được thôi. Hẹn gặp lại [me]."
 
 # game/characters/little fox/ev_3.rpy:403
 translate vietnamese lil_fox_3_alice_ac9fc388:
@@ -1156,20 +1156,20 @@ translate vietnamese lil_fox_3_alice_228d4940:
 # game/characters/little fox/ev_3.rpy:192
 translate vietnamese lil_fox_3_alice_cd2fd82d:
 
-    # th "Now, she's just making things difficult for her.."
-    th "Now, she's just making things difficult for her.."
+    # th "Now, she's just making things difficult for her..."
+    th "Now, she's just making things difficult for her..."
 
 # game/characters/little fox/ev_3.rpy:296
 translate vietnamese lil_fox_3_alice_b9694d26:
 
-    # me "I think, I should keep eye on both of you.."
-    me "I think, I should keep eye on both of you.."
+    # me "I think, I should keep eye on both of you..."
+    me "I think, I should keep eye on both of you..."
 
 # game/characters/little fox/ev_3.rpy:323
 translate vietnamese lil_fox_3_alice_99781e7d:
 
-    # me "I'm afraid for Little Fox.. Alice seemed pretty upset.."
-    me "I'm afraid for Little Fox.. Alice seemed pretty upset.."
+    # me "I'm afraid for Little Fox... Alice seemed pretty upset..."
+    me "I'm afraid for Little Fox... Alice seemed pretty upset..."
 
 # game/characters/little fox/ev_3.rpy:327
 translate vietnamese lil_fox_3_alice_4b0e66e2:
@@ -1212,4 +1212,3 @@ translate vietnamese lil_fox_3_alice_fa07b2f7:
 
     # lil_fox "Are you talking about me, behind my back?"
     lil_fox "Are you talking about me, behind my back?"
-

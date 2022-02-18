@@ -57,8 +57,8 @@ translate vietnamese mina_9_6456fc67:
 # game/characters/mina/ev_9.rpy:21
 translate vietnamese mina_9_7ca09abb:
 
-    # mina "Umm.."
-    mina "Ờmm.."
+    # mina "Umm..."
+    mina "Ờmm..."
 
 # game/characters/mina/ev_9.rpy:22
 translate vietnamese mina_9_4ae9e621:
@@ -165,8 +165,8 @@ translate vietnamese mina_9_part2_2930e26f:
 # game/characters/mina/ev_9.rpy:68
 translate vietnamese mina_9_part2_8eeea389:
 
-    # mina "I'm not sure how to ask this.. Death, is it painful?"
-    mina "Em không biết làm thế nào để hỏi điều này nữa.. Chết, có đau không?"
+    # mina "I'm not sure how to ask this... Death, is it painful?"
+    mina "Em không biết làm thế nào để hỏi điều này nữa... Chết, có đau không?"
 
 # game/characters/mina/ev_9.rpy:69
 translate vietnamese mina_9_part2_7f441601:
@@ -237,8 +237,8 @@ translate vietnamese mina_9_part3_a600fae5:
 # game/characters/mina/ev_9.rpy:96
 translate vietnamese mina_9_part3_798af37f:
 
-    # mina "Wait, can you.. hold me instead?"
-    mina "Chờ đã, thay vào đó anh có thể.. ôm em được không?"
+    # mina "Wait, can you... hold me instead?"
+    mina "Chờ đã, thay vào đó anh có thể... ôm em được không?"
 
 # game/characters/mina/ev_9.rpy:97
 translate vietnamese mina_9_part3_0ad95b3b:
@@ -327,8 +327,8 @@ translate vietnamese mina_9_part3_952a0824:
 # game/characters/mina/ev_9.rpy:116
 translate vietnamese mina_9_part3_8b61b922:
 
-    # th "She is having a nightmare.."
-    th "Lại gặp ác mộng rồi.."
+    # th "She is having a nightmare..."
+    th "Lại gặp ác mộng rồi..."
 
 # game/characters/mina/ev_9.rpy:118
 translate vietnamese mina_9_part3_8c695518:

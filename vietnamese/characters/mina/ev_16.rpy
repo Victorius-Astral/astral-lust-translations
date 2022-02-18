@@ -21,8 +21,8 @@ translate vietnamese mina_16_108e01b4:
 # game/characters/mina/ev_16.rpy:15
 translate vietnamese mina_16_2e2caec5:
 
-    # mina "It's hard to have proper talk with Grace, Lexi is out, and Alice.. well, it's a little awkward between us right now."
-    mina "Thật khó để nói chuyện đàng hoàng với Grace, Lexi thì ngoài, còn Alice.. chà, giữa bọn em lúc này có hơi khó xử."
+    # mina "It's hard to have proper talk with Grace, Lexi is out, and Alice... well, it's a little awkward between us right now."
+    mina "Thật khó để nói chuyện đàng hoàng với Grace, Lexi thì ngoài, còn Alice... chà, giữa bọn em lúc này có hơi khó xử."
 
 # game/characters/mina/ev_16.rpy:16
 translate vietnamese mina_16_c59ca957:
@@ -69,8 +69,8 @@ translate vietnamese mina_16_78b8ba61:
 # game/characters/mina/ev_16.rpy:31
 translate vietnamese mina_16_64c3c917:
 
-    # mina "Ouch.. That one hurt."
-    mina "Ouch.. Cái này đau đấy."
+    # mina "Ouch... That one hurt."
+    mina "Ouch... Cái này đau đấy."
 
 # game/characters/mina/ev_16.rpy:34
 translate vietnamese mina_16_d2f8ceb7:
@@ -81,8 +81,8 @@ translate vietnamese mina_16_d2f8ceb7:
 # game/characters/mina/ev_16.rpy:35
 translate vietnamese mina_16_6247e702:
 
-    # me "You and innocence.. Now I've heard everything."
-    me "Em và sự ngây thơ của mình á.. Giờ anh mới biết đấy."
+    # me "You and innocence... Now I've heard everything."
+    me "Em và sự ngây thơ của mình á... Giờ anh mới biết đấy."
 
 # game/characters/mina/ev_16.rpy:36
 translate vietnamese mina_16_d31efd18:
@@ -93,8 +93,8 @@ translate vietnamese mina_16_d31efd18:
 # game/characters/mina/ev_16.rpy:37
 translate vietnamese mina_16_a198f2d0:
 
-    # me "Did you take lessons in being shameless? You certainly lost all remains of humility.."
-    me "Em có rút ra bài học về sự vô liêm sỉ không? Em chắc chắn không còn một chút gì gọi là khiêm tốn đâu.."
+    # me "Did you take lessons in being shameless? You certainly lost all remains of humility..."
+    me "Em có rút ra bài học về sự vô liêm sỉ không? Em chắc chắn không còn một chút gì gọi là khiêm tốn đâu..."
 
 # game/characters/mina/ev_16.rpy:38
 translate vietnamese mina_16_7f176e0f:
@@ -111,8 +111,8 @@ translate vietnamese mina_16_db95d67a:
 # game/characters/mina/ev_16.rpy:42
 translate vietnamese mina_16_b3477059:
 
-    # mina "Hmm.. I don't remember."
-    mina "Hmm.. em không nhứo."
+    # mina "Hmm... I don't remember."
+    mina "Hmm... em không nhứo."
 
 # game/characters/mina/ev_16.rpy:43
 translate vietnamese mina_16_3820771a:
@@ -129,8 +129,8 @@ translate vietnamese mina_16_513ab7ad:
 # game/characters/mina/ev_16.rpy:47
 translate vietnamese mina_16_e05cb949:
 
-    # me "You got me speechless.."
-    me "Em khiến anh cạn lời rồi.."
+    # me "You got me speechless..."
+    me "Em khiến anh cạn lời rồi..."
 
 # game/characters/mina/ev_16.rpy:48
 translate vietnamese mina_16_bb46918f:
@@ -315,7 +315,7 @@ translate vietnamese mina_16_love_b13aed6c:
 # game/characters/mina/ev_16.rpy:124
 translate vietnamese mina_16_love_3e99ed49:
 
-    # me "Your mouth is really nasty today.."
+    # me "Your mouth is really nasty today..."
     me "Hôm nay miệng của em không cạnh khóe anh là không chịu nổi hả?"
 
 # game/characters/mina/ev_16.rpy:127
@@ -339,8 +339,8 @@ translate vietnamese mina_16_love_f4cb60de:
 # game/characters/mina/ev_16.rpy:132
 translate vietnamese mina_16_love_5abdddc1:
 
-    # me "But, I think you could use this nasty mouth for something else.."
-    me "Nhưng, tôi nghĩ bạn có thể sử dụng cái miệng khó chịu này cho việc khác đấy.."
+    # me "But, I think you could use this nasty mouth for something else..."
+    me "Nhưng, tôi nghĩ bạn có thể sử dụng cái miệng khó chịu này cho việc khác đấy..."
 
 # game/characters/mina/ev_16.rpy:142
 translate vietnamese mina_16_love_f091e9d1:
@@ -357,8 +357,8 @@ translate vietnamese mina_16_love_f81d13e6:
 # game/characters/mina/ev_16.rpy:146
 translate vietnamese mina_16_love_b085d728:
 
-    # mina "Gosh.."
-    mina "Trời ơi.."
+    # mina "Gosh..."
+    mina "Trời ơi..."
 
 # game/characters/mina/ev_16.rpy:147
 translate vietnamese mina_16_love_f660d172:
@@ -381,8 +381,8 @@ translate vietnamese mina_16_love_b507286f:
 # game/characters/mina/ev_16.rpy:155
 translate vietnamese mina_16_love_27bc6a09:
 
-    # mina "I'm too good for you.. I actually agreed to blow you, just because you asked.."
-    mina "Em quá tốt với anh rồi.. Em thực sự đồng ý thổi kèn cho anh, chỉ vì anh yêu cầu.."
+    # mina "I'm too good for you... I actually agreed to blow you, just because you asked..."
+    mina "Em quá tốt với anh rồi... Em thực sự đồng ý thổi kèn cho anh, chỉ vì anh yêu cầu..."
 
 # game/characters/mina/ev_16.rpy:156
 translate vietnamese mina_16_love_162897ee:
@@ -435,8 +435,8 @@ translate vietnamese mina_16_love_589e61e3:
 # game/characters/mina/ev_16.rpy:174
 translate vietnamese mina_16_love_dd9636c7:
 
-    # me "Ahh.."
-    me "Ahh.."
+    # me "Ahh..."
+    me "Ahh..."
 
 # game/characters/mina/ev_16.rpy:175
 translate vietnamese mina_16_love_392ff79c:
@@ -447,8 +447,8 @@ translate vietnamese mina_16_love_392ff79c:
 # game/characters/mina/ev_16.rpy:176
 translate vietnamese mina_16_love_3daa142d:
 
-    # me "Oh, [mina].. You're surprisingly talented."
-    me "Ồ, [mina].. em giỏi một cách ngạc nhiên đấy."
+    # me "Oh, [mina]... You're surprisingly talented."
+    me "Ồ, [mina]... em giỏi một cách ngạc nhiên đấy."
 
 # game/characters/mina/ev_16.rpy:177
 translate vietnamese mina_16_love_fa55ab8d:
@@ -459,8 +459,8 @@ translate vietnamese mina_16_love_fa55ab8d:
 # game/characters/mina/ev_16.rpy:178
 translate vietnamese mina_16_love_4e89cc4e:
 
-    # th "Not as much as [alice], though.."
-    th "Tuy nhiên vẫn chưa bằng [alice].."
+    # th "Not as much as [alice], though..."
+    th "Tuy nhiên vẫn chưa bằng [alice]..."
 
 # game/characters/mina/ev_16.rpy:185
 translate vietnamese mina_16_love_392ff79c_1:
@@ -471,8 +471,8 @@ translate vietnamese mina_16_love_392ff79c_1:
 # game/characters/mina/ev_16.rpy:186
 translate vietnamese mina_16_love_7de15e18:
 
-    # me "Ah, just like that.."
-    me "Ah, Cứ như vậy.."
+    # me "Ah, just like that..."
+    me "Ah, Cứ như vậy..."
 
 # game/characters/mina/ev_16.rpy:187
 translate vietnamese mina_16_love_16cda6c3:
@@ -501,8 +501,8 @@ translate vietnamese mina_16_love_5975af97:
 # game/characters/mina/ev_16.rpy:197
 translate vietnamese mina_16_love_9c520c1c:
 
-    # th "Shit, she's passionate.."
-    th "Em ấy thích điều này.."
+    # th "Shit, she's passionate..."
+    th "Em ấy thích điều này..."
 
 # game/characters/mina/ev_16.rpy:198
 translate vietnamese mina_16_love_392ff79c_2:
@@ -525,8 +525,8 @@ translate vietnamese mina_16_love_9fc987c1:
 # game/characters/mina/ev_16.rpy:201
 translate vietnamese mina_16_love_b6b4e14d:
 
-    # me "Fuck! I'm so close.."
-    me "Anh sắp ra rồi.."
+    # me "Fuck! I'm so close..."
+    me "Anh sắp ra rồi..."
 
 # game/characters/mina/ev_16.rpy:202
 translate vietnamese mina_16_love_82486a4d:
@@ -537,8 +537,8 @@ translate vietnamese mina_16_love_82486a4d:
 # game/characters/mina/ev_16.rpy:205
 translate vietnamese mina_16_love_9aef6c86:
 
-    # me "Yhh.."
-    me "Yhh.."
+    # me "Yhh..."
+    me "Yhh..."
 
 # game/characters/mina/ev_16.rpy:212
 translate vietnamese mina_16_love_924824b7:

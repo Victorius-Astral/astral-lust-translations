@@ -45,14 +45,14 @@ translate vietnamese room_library_books_l_secrets_46a4911d:
 # game/places/library/books_l.rpy:31
 translate vietnamese room_library_books_l_secrets_6bafabcc:
 
-    # bbs "None of them ended well.. Curiosity is the greatest crime one can commit against oneself when involved in mysticism."
-    bbs "Không ai trong số chúng có một kết thúc tốt đẹp .. Tò mò là tội ác lớn nhất mà một người có thể phạm phải khi tham gia vào huyền học."
+    # bbs "None of them ended well... Curiosity is the greatest crime one can commit against oneself when involved in mysticism."
+    bbs "Không ai trong số chúng có một kết thúc tốt đẹp ... Tò mò là tội ác lớn nhất mà một người có thể phạm phải khi tham gia vào huyền học."
 
 # game/places/library/books_l.rpy:32
 translate vietnamese room_library_books_l_secrets_f5b7f571:
 
     # bbs "While many know that a single name can summon a malevolent presence that will bring doom to them and those close to them, their curiosity often proves stronger than their own sense."
-    bbs "Mặc dù nhiều người biết rằng một cái tên cũng có thể triệu tập một thực thể ác độc sẽ mang lại sự diệt vong cho chúng và những người thân thiết với chúng, nhưng sự tò mò của chúng thường tỏ ra mạnh mẽ hơn ý thức của chúng.."
+    bbs "Mặc dù nhiều người biết rằng một cái tên cũng có thể triệu tập một thực thể ác độc sẽ mang lại sự diệt vong cho chúng và những người thân thiết với chúng, nhưng sự tò mò của chúng thường tỏ ra mạnh mẽ hơn ý thức của chúng..."
 
 # game/places/library/books_l.rpy:33
 translate vietnamese room_library_books_l_secrets_317e3d2e:
@@ -172,7 +172,7 @@ translate vietnamese room_library_books_l_etiquette_715a2b01:
 translate vietnamese room_library_books_l_etiquette_68249392:
 
     # bae "Second, never look directly upon a God! This rule was never explained further by those that taught me, and I hold no desire to ever test its purpose."
-    bae "Thứ hai, đừng bao giờ nhìn thẳng vào một vị Thần! Quy tắc này không bao giờ được giải thích thêm bởi những người đã dạy tôi, và tôi không muốn kiểm tra mục đích của nó.."
+    bae "Thứ hai, đừng bao giờ nhìn thẳng vào một vị Thần! Quy tắc này không bao giờ được giải thích thêm bởi những người đã dạy tôi, và tôi không muốn kiểm tra mục đích của nó..."
 
 # game/places/library/books_l.rpy:60
 translate vietnamese room_library_books_l_etiquette_ec1cb131:

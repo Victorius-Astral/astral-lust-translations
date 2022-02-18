@@ -57,8 +57,8 @@ translate vietnamese lil_fox_bj_1_slow_aac9688c:
 # game/characters/little fox/bj_1.rpy:113
 translate vietnamese lil_fox_bj_1_slow_6cc09e9a:
 
-    # me "Ohh.. Just what I needed."
-    me "Ohh.. Đúng thứ anh cần."
+    # me "Ohh... Just what I needed."
+    me "Ohh... Đúng thứ anh cần."
 
 # game/characters/little fox/bj_1.rpy:114
 translate vietnamese lil_fox_bj_1_slow_baf929e6:

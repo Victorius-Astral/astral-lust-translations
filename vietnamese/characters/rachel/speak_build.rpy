@@ -9,8 +9,8 @@ translate vietnamese speak_rachel_build_fe9274ca:
 # game/characters/rachel/speak_build.rpy:25
 translate vietnamese speak_rachel_build_e3b29b7c:
 
-    # me "It's nice to see you too.."
-    me "Rất vui được gặp cô.."
+    # me "It's nice to see you too..."
+    me "Rất vui được gặp cô..."
 
 # game/characters/rachel/speak_build.rpy:30
 translate vietnamese speak_rachel_build_3b5f9668:
@@ -33,8 +33,8 @@ translate vietnamese speak_rachel_build_part2_3f10cf5d:
 # game/characters/rachel/speak_build.rpy:90
 translate vietnamese speak_rachel_build_part2_4c752936:
 
-    # me "It's.. bare.."
-    me "Nó.. trần.."
+    # me "It's... bare..."
+    me "Nó... trần..."
 
 # game/characters/rachel/speak_build.rpy:91
 translate vietnamese speak_rachel_build_part2_88943aaf:
@@ -63,8 +63,8 @@ translate vietnamese speak_rachel_build_part2_ddd33b88:
 # game/characters/rachel/speak_build.rpy:99
 translate vietnamese speak_rachel_build_part2_82c1f4b0:
 
-    # rachel "No. While it can support me, it lacks a lot of functionality. You can say that this place lacks vitality.."
-    rachel "Không. Mặc dù nó có thể hỗ trợ tôi, nhưng nó thiếu rất nhiều chức năng. Có thể nói nơi đây thiếu sức sống.."
+    # rachel "No. While it can support me, it lacks a lot of functionality. You can say that this place lacks vitality..."
+    rachel "Không. Mặc dù nó có thể hỗ trợ tôi, nhưng nó thiếu rất nhiều chức năng. Có thể nói nơi đây thiếu sức sống..."
 
 # game/characters/rachel/speak_build.rpy:100
 translate vietnamese speak_rachel_build_part2_0c7215fa:
@@ -94,7 +94,7 @@ translate vietnamese speak_rachel_build_part2_01b55a3e:
 translate vietnamese speak_rachel_build_part2_f22da537:
 
     # me "So, what now? When will Little Fox appear?"
-    me "Giờ thì sao? Khi nào thì Cáo nhỏ sẽ xuất hiện?"
+    me "Giờ thì sao? Khi nào thì Tiểu Cáo sẽ xuất hiện?"
 
 # game/characters/rachel/speak_build.rpy:105
 translate vietnamese speak_rachel_build_part2_3754ad24:
@@ -153,8 +153,8 @@ translate vietnamese speak_rachel_build_part3_cd78280d:
 # game/characters/rachel/speak_build.rpy:146
 translate vietnamese speak_rachel_build_part3_95099e4b:
 
-    # me "Hmm.. What's needed?"
-    me "Hmm.. Cần gì NỮA?"
+    # me "Hmm... What's needed?"
+    me "Hmm... Cần gì NỮA?"
 
 # game/characters/rachel/speak_build.rpy:147
 translate vietnamese speak_rachel_build_part3_e4d4ccc6:
@@ -297,8 +297,8 @@ translate vietnamese speak_rachel_build_part5_0c100e1d:
 # game/characters/rachel/speak_build.rpy:239
 translate vietnamese speak_rachel_build_part5_8ecbddff:
 
-    # rachel "I know where to get all the stone. But the bone.."
-    rachel "Tôi biết lấy đá ở đâu. Nhưng xương.."
+    # rachel "I know where to get all the stone. But the bone..."
+    rachel "Tôi biết lấy đá ở đâu. Nhưng xương..."
 
 # game/characters/rachel/speak_build.rpy:240
 translate vietnamese speak_rachel_build_part5_50faed39:
@@ -393,8 +393,8 @@ translate vietnamese speak_rachel_build_building_699e625f:
 # game/characters/rachel/speak_build.rpy:315
 translate vietnamese speak_rachel_build_building_90dd0c61:
 
-    # me "How..?"
-    me "Làm thế nào..?"
+    # me "How...?"
+    me "Làm thế nào...?"
 
 # game/characters/rachel/speak_build.rpy:316
 translate vietnamese speak_rachel_build_building_d6d9ba37:
@@ -489,8 +489,8 @@ translate vietnamese speak_rachel_build_building_ff2f3fe9:
 # game/characters/rachel/speak_build.rpy:342
 translate vietnamese speak_rachel_build_building_17a26be9:
 
-    # me "Another world..?"
-    me "Thế giới khác..?"
+    # me "Another world...?"
+    me "Thế giới khác...?"
 
 # game/characters/rachel/speak_build.rpy:347
 translate vietnamese speak_rachel_build_building_7a002bbc:
@@ -573,8 +573,8 @@ translate vietnamese speak_rachel_build_building_53353a96:
 # game/characters/rachel/speak_build.rpy:364
 translate vietnamese speak_rachel_build_building_2276912b:
 
-    # me "This 'Paradise' doesn't seem like a place I would like to see.."
-    me "'Thiên đường' này có vẻ không phải là nơi tôi muốn đến.."
+    # me "This 'Paradise' doesn't seem like a place I would like to see..."
+    me "'Thiên đường' này có vẻ không phải là nơi tôi muốn đến..."
 
 # game/characters/rachel/speak_build.rpy:365
 translate vietnamese speak_rachel_build_building_dd8f3259:
@@ -627,14 +627,14 @@ translate vietnamese speak_rachel_build_building_a2d3116e:
 # game/characters/rachel/speak_build.rpy:373
 translate vietnamese speak_rachel_build_building_038f6153:
 
-    # rachel "While there are records about a few Gods dying, there are no corpses, nor divinities. Just leftover power and authority. They seem to have just vanished.."
-    rachel "Trong khi có ghi chép về một số vị thần bị chết, nhưng không có xác, cũng không có thần thánh. Chỉ là quyền lực và quyền hạn còn sót lại. Họ dường như vừa mới biến mất.."
+    # rachel "While there are records about a few Gods dying, there are no corpses, nor divinities. Just leftover power and authority. They seem to have just vanished..."
+    rachel "Trong khi có ghi chép về một số vị thần bị chết, nhưng không có xác, cũng không có thần thánh. Chỉ là quyền lực và quyền hạn còn sót lại. Họ dường như vừa mới biến mất..."
 
 # game/characters/rachel/speak_build.rpy:374
 translate vietnamese speak_rachel_build_building_8c149a6e:
 
-    # me "Interesting.."
-    me "Interesting.."
+    # me "Interesting..."
+    me "Interesting..."
 
 # game/characters/rachel/speak_build.rpy:379
 translate vietnamese speak_rachel_build_building_95fc6aa2:
@@ -720,7 +720,7 @@ translate vietnamese strings:
 
     # game/characters/rachel/speak_build.rpy:56
     old "Is Little Fox going to find us here?"
-    new "Có phải Cáo nhỏ sẽ tìm chúng ta ở đây không?"
+    new "Có phải Tiểu Cáo sẽ tìm chúng ta ở đây không?"
 
     # game/characters/rachel/speak_build.rpy:116
     old "Give 20 stones {#visible}"

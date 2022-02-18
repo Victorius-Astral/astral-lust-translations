@@ -63,8 +63,8 @@ translate vietnamese grace_nightmare_part2_d7248a2a:
 # game/characters/grace/nightmare.rpy:35
 translate vietnamese grace_nightmare_part2_90637953:
 
-    # grace "I know.."
-    grace "I know.."
+    # grace "I know..."
+    grace "I know..."
 
 # game/characters/grace/nightmare.rpy:39
 translate vietnamese grace_nightmare_part2_2d1b7242:
@@ -99,14 +99,14 @@ translate vietnamese grace_nightmare_part2_53a7a13d:
 # game/characters/grace/nightmare.rpy:55
 translate vietnamese grace_nightmare_part2_128d69dc:
 
-    # me "Eh.."
-    me "Eh.."
+    # me "Eh..."
+    me "Eh..."
 
 # game/characters/grace/nightmare.rpy:60
 translate vietnamese grace_nightmare_part2_48d481bf:
 
-    # grace "Okay.."
-    grace "Okay.."
+    # grace "Okay..."
+    grace "Okay..."
 
 # game/characters/grace/nightmare.rpy:63
 translate vietnamese grace_nightmare_part2_852078f5:
@@ -165,8 +165,8 @@ translate vietnamese grace_nightmare_part2_6ef951b1:
 # game/characters/grace/nightmare.rpy:90
 translate vietnamese grace_nightmare_part2_48d481bf_1:
 
-    # grace "Okay.."
-    grace "Okay.."
+    # grace "Okay..."
+    grace "Okay..."
 
 # game/characters/grace/nightmare.rpy:94
 translate vietnamese grace_nightmare_part2_565db5fb:
@@ -201,8 +201,8 @@ translate vietnamese grace_nightmare_part3_c76c69c7:
 # game/characters/grace/nightmare.rpy:119
 translate vietnamese grace_nightmare_part3_50680ccb:
 
-    # grace "I don't want to talk about it.."
-    grace "I don't want to talk about it.."
+    # grace "I don't want to talk about it..."
+    grace "I don't want to talk about it..."
 
 # game/characters/grace/nightmare.rpy:120
 translate vietnamese grace_nightmare_part3_46d27802:
@@ -225,8 +225,8 @@ translate vietnamese grace_nightmare_part3_00529add:
 # game/characters/grace/nightmare.rpy:125
 translate vietnamese grace_nightmare_part3_1b11674b:
 
-    # grace "In my dream.. Mommy disappeared and left me all alone. It was dark and scary."
-    grace "In my dream.. Mommy disappeared and left me all alone. It was dark and scary."
+    # grace "In my dream... Mommy disappeared and left me all alone. It was dark and scary."
+    grace "In my dream... Mommy disappeared and left me all alone. It was dark and scary."
 
 # game/characters/grace/nightmare.rpy:126
 translate vietnamese grace_nightmare_part3_1a828917:
@@ -237,8 +237,8 @@ translate vietnamese grace_nightmare_part3_1a828917:
 # game/characters/grace/nightmare.rpy:127
 translate vietnamese grace_nightmare_part3_52f676ea:
 
-    # grace "But mommy really left me.."
-    grace "But mommy really left me.."
+    # grace "But mommy really left me..."
+    grace "But mommy really left me..."
 
 # game/characters/grace/nightmare.rpy:128
 translate vietnamese grace_nightmare_part3_392074ae:
@@ -249,8 +249,8 @@ translate vietnamese grace_nightmare_part3_392074ae:
 # game/characters/grace/nightmare.rpy:129
 translate vietnamese grace_nightmare_part3_c909e0ea:
 
-    # grace "Mm.."
-    grace "Mm.."
+    # grace "Mm..."
+    grace "Mm..."
 
 # game/characters/grace/nightmare.rpy:130
 translate vietnamese grace_nightmare_part3_a53744f5:
@@ -261,8 +261,8 @@ translate vietnamese grace_nightmare_part3_a53744f5:
 # game/characters/grace/nightmare.rpy:133
 translate vietnamese grace_nightmare_part3_ec84d0f3:
 
-    # grace "A monster was running after me.. It caught me, and- and-"
-    grace "A monster was running after me.. It caught me, and- and-"
+    # grace "A monster was running after me... It caught me, and- and-"
+    grace "A monster was running after me... It caught me, and- and-"
 
 # game/characters/grace/nightmare.rpy:134
 translate vietnamese grace_nightmare_part3_6e08ac32:
@@ -291,8 +291,8 @@ translate vietnamese grace_nightmare_part3_1f90c0ce:
 # game/characters/grace/nightmare.rpy:138
 translate vietnamese grace_nightmare_part3_35fc19cd:
 
-    # grace "I guess so. But they can hide in the wardrobe.."
-    grace "I guess so. But they can hide in the wardrobe.."
+    # grace "I guess so. But they can hide in the wardrobe..."
+    grace "I guess so. But they can hide in the wardrobe..."
 
 # game/characters/grace/nightmare.rpy:139
 translate vietnamese grace_nightmare_part3_066631b2:
@@ -357,8 +357,8 @@ translate vietnamese grace_nightmare_part3_9914f0f3:
 # game/characters/grace/nightmare.rpy:156
 translate vietnamese grace_nightmare_part3_967bdd85:
 
-    # th "You are not helping me.."
-    th "You are not helping me.."
+    # th "You are not helping me..."
+    th "You are not helping me..."
 
 # game/characters/grace/nightmare.rpy:157
 translate vietnamese grace_nightmare_part3_7e729dc9:
@@ -381,8 +381,8 @@ translate vietnamese grace_nightmare_part3_6ab43c9d:
 # game/characters/grace/nightmare.rpy:163
 translate vietnamese grace_nightmare_part3_c3b00bad:
 
-    # me "Uff.."
-    me "Uff.."
+    # me "Uff..."
+    me "Uff..."
 
 # game/characters/grace/nightmare.rpy:167
 translate vietnamese grace_nightmare_part3_43b6d89b:
@@ -459,8 +459,8 @@ translate vietnamese grace_nightmare_part3_3820771a:
 # game/characters/grace/nightmare.rpy:208
 translate vietnamese grace_nightmare_part3_944faf4d:
 
-    # grace "Umm.. Will you check the wardrobe?"
-    grace "Umm.. Will you check the wardrobe?"
+    # grace "Umm... Will you check the wardrobe?"
+    grace "Umm... Will you check the wardrobe?"
 
 # game/characters/grace/nightmare.rpy:209
 translate vietnamese grace_nightmare_part3_e12b0f48:
@@ -549,8 +549,8 @@ translate vietnamese grace_nightmare_part3_4159ff27:
 # game/characters/grace/nightmare.rpy:230
 translate vietnamese grace_nightmare_part3_d887a9e1:
 
-    # grace "No, it was empty. I was happy. We went to sleep. When I woke up, you were nowhere to be seen. We never found you.."
-    grace "No, it was empty. I was happy. We went to sleep. When I woke up, you were nowhere to be seen. We never found you.."
+    # grace "No, it was empty. I was happy. We went to sleep. When I woke up, you were nowhere to be seen. We never found you..."
+    grace "No, it was empty. I was happy. We went to sleep. When I woke up, you were nowhere to be seen. We never found you..."
 
 # game/characters/grace/nightmare.rpy:231
 translate vietnamese grace_nightmare_part3_3820771a_1:
@@ -561,8 +561,8 @@ translate vietnamese grace_nightmare_part3_3820771a_1:
 # game/characters/grace/nightmare.rpy:232
 translate vietnamese grace_nightmare_part3_c0e47f95:
 
-    # grace "I feel bad just thinking about it.."
-    grace "I feel bad just thinking about it.."
+    # grace "I feel bad just thinking about it..."
+    grace "I feel bad just thinking about it..."
 
 # game/characters/grace/nightmare.rpy:233
 translate vietnamese grace_nightmare_part3_c87183db:
@@ -573,8 +573,8 @@ translate vietnamese grace_nightmare_part3_c87183db:
 # game/characters/grace/nightmare.rpy:238
 translate vietnamese grace_nightmare_part3_6a08278f:
 
-    # th "I opened it too.."
-    th "I opened it too.."
+    # th "I opened it too..."
+    th "I opened it too..."
 
 # game/characters/grace/nightmare.rpy:240
 translate vietnamese grace_nightmare_part3_58fc18fd:
@@ -693,8 +693,8 @@ translate vietnamese grace_nightmare_part3_7f57ac7c:
 # game/characters/grace/nightmare.rpy:277
 translate vietnamese grace_nightmare_part3_206ac5c8:
 
-    # me "How adorable.."
-    me "How adorable.."
+    # me "How adorable..."
+    me "How adorable..."
 
 # game/characters/grace/nightmare.rpy:278
 translate vietnamese grace_nightmare_part3_cd837ffa:
@@ -771,8 +771,8 @@ translate vietnamese grace_nightmare_part4_0c650e21:
 # game/characters/grace/nightmare.rpy:318
 translate vietnamese grace_nightmare_part4_8c74e0e2:
 
-    # me "You were drooling one me.."
-    me "You were drooling one me.."
+    # me "You were drooling one me..."
+    me "You were drooling one me..."
 
 # game/characters/grace/nightmare.rpy:322
 translate vietnamese grace_nightmare_part4_075100b6:
@@ -915,8 +915,8 @@ translate vietnamese grace_nightmare_horror_ea0de456:
 # game/characters/grace/nightmare.rpy:385
 translate vietnamese grace_nightmare_horror_8456e0d1:
 
-    # th "This sound.. It came from behind me."
-    th "This sound.. It came from behind me."
+    # th "This sound... It came from behind me."
+    th "This sound... It came from behind me."
 
 # game/characters/grace/nightmare.rpy:386
 translate vietnamese grace_nightmare_horror_53d369b6:
@@ -933,8 +933,8 @@ translate vietnamese grace_nightmare_horror_831d4be4:
 # game/characters/grace/nightmare.rpy:390
 translate vietnamese grace_nightmare_horror_a10dbe84:
 
-    # th "That's not my imagination. There is someone here.. This sounds like heels. A woman?"
-    th "That's not my imagination. There is someone here.. This sounds like heels. A woman?"
+    # th "That's not my imagination. There is someone here... This sounds like heels. A woman?"
+    th "That's not my imagination. There is someone here... This sounds like heels. A woman?"
 
 # game/characters/grace/nightmare.rpy:393
 translate vietnamese grace_nightmare_horror_0b6c9ba3:
@@ -1005,8 +1005,8 @@ translate vietnamese grace_nightmare_horror_menu_2539b451:
 # game/characters/grace/nightmare.rpy:431
 translate vietnamese grace_nightmare_horror_menu_57791025:
 
-    # th "It's better to just forget what I heard. Curiosity can be dangerous.."
-    th "It's better to just forget what I heard. Curiosity can be dangerous.."
+    # th "It's better to just forget what I heard. Curiosity can be dangerous..."
+    th "It's better to just forget what I heard. Curiosity can be dangerous..."
 
 # game/characters/grace/nightmare.rpy:440
 translate vietnamese grace_nightmare_horror_end_8d102087:

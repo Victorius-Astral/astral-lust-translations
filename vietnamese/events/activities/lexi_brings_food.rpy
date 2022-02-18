@@ -57,8 +57,8 @@ translate vietnamese lexi_brings_food_cfae41a6:
 # game/events/activities/lexi_brings_food.rpy:40
 translate vietnamese lexi_brings_food_ff106921:
 
-    # lexi "Nothing.."
-    lexi "Nothing.."
+    # lexi "Nothing..."
+    lexi "Nothing..."
 
 # game/events/activities/lexi_brings_food.rpy:41
 translate vietnamese lexi_brings_food_ae7458d6:
@@ -87,8 +87,8 @@ translate vietnamese lexi_brings_food_c3426355:
 # game/events/activities/lexi_brings_food.rpy:50
 translate vietnamese lexi_brings_food_85b03400:
 
-    # me "Well.."
-    me "Well.."
+    # me "Well..."
+    me "Well..."
 
 # game/events/activities/lexi_brings_food.rpy:56
 translate vietnamese lexi_brings_food_e30bfac4:
@@ -159,8 +159,8 @@ translate vietnamese lexi_brings_food_59c7656f:
 # game/events/activities/lexi_brings_food.rpy:84
 translate vietnamese lexi_brings_food_ad2d5051:
 
-    # grace "I miss having sunny days.."
-    grace "I miss having sunny days.."
+    # grace "I miss having sunny days..."
+    grace "I miss having sunny days..."
 
 # game/events/activities/lexi_brings_food.rpy:88
 translate vietnamese lexi_brings_food_b31eb90d:
@@ -183,8 +183,8 @@ translate vietnamese lexi_brings_food_25db153d:
 # game/events/activities/lexi_brings_food.rpy:97
 translate vietnamese lexi_brings_food_38d9354e:
 
-    # grace "This place is so weird.."
-    grace "This place is so weird.."
+    # grace "This place is so weird..."
+    grace "This place is so weird..."
 
 # game/events/activities/lexi_brings_food.rpy:98
 translate vietnamese lexi_brings_food_4a775700:
@@ -225,14 +225,14 @@ translate vietnamese lexi_brings_food_d160b977:
 # game/events/activities/lexi_brings_food.rpy:112
 translate vietnamese lexi_brings_food_165494c0:
 
-    # grace "Mmm.. I wonder how the cultists manage to live out there, if it's so dangerous."
-    grace "Mmm.. I wonder how the cultists manage to live out there, if it's so dangerous."
+    # grace "Mmm... I wonder how the cultists manage to live out there, if it's so dangerous."
+    grace "Mmm... I wonder how the cultists manage to live out there, if it's so dangerous."
 
 # game/events/activities/lexi_brings_food.rpy:116
 translate vietnamese lexi_brings_food_1707ba19:
 
-    # lexi "They are also monsters, that's how.. No, worse than monsters."
-    lexi "They are also monsters, that's how.. No, worse than monsters."
+    # lexi "They are also monsters, that's how... No, worse than monsters."
+    lexi "They are also monsters, that's how... No, worse than monsters."
 
 # game/events/activities/lexi_brings_food.rpy:117
 translate vietnamese lexi_brings_food_23f80eb2:
@@ -261,8 +261,8 @@ translate vietnamese lexi_brings_food_acc89834:
 # game/events/activities/lexi_brings_food.rpy:130
 translate vietnamese lexi_brings_food_ea0369d7:
 
-    # grace "Mm. Lexi made them sound so scary.."
-    grace "Mm. Lexi made them sound so scary.."
+    # grace "Mm. Lexi made them sound so scary..."
+    grace "Mm. Lexi made them sound so scary..."
 
 # game/events/activities/lexi_brings_food.rpy:134
 translate vietnamese lexi_brings_food_17ee3cbb:
@@ -279,14 +279,14 @@ translate vietnamese lexi_brings_food_6f5278f5:
 # game/events/activities/lexi_brings_food.rpy:139
 translate vietnamese lexi_brings_food_7de77312:
 
-    # lexi "They can poison you, make you bleed, burn you.."
-    lexi "They can poison you, make you bleed, burn you.."
+    # lexi "They can poison you, make you bleed, burn you..."
+    lexi "They can poison you, make you bleed, burn you..."
 
 # game/events/activities/lexi_brings_food.rpy:140
 translate vietnamese lexi_brings_food_da54ada4:
 
-    # lexi "They can just do whatever they want.."
-    lexi "They can just do whatever they want.."
+    # lexi "They can just do whatever they want..."
+    lexi "They can just do whatever they want..."
 
 # game/events/activities/lexi_brings_food.rpy:144
 translate vietnamese lexi_brings_food_46f8e396:
@@ -297,14 +297,14 @@ translate vietnamese lexi_brings_food_46f8e396:
 # game/events/activities/lexi_brings_food.rpy:148
 translate vietnamese lexi_brings_food_82447a1a:
 
-    # lexi "Sorry.. It just pisses me off how we struggle here, while the ones that started this do whatever they want."
-    lexi "Sorry.. It just pisses me off how we struggle here, while the ones that started this do whatever they want."
+    # lexi "Sorry... It just pisses me off how we struggle here, while the ones that started this do whatever they want."
+    lexi "Sorry... It just pisses me off how we struggle here, while the ones that started this do whatever they want."
 
 # game/events/activities/lexi_brings_food.rpy:149
 translate vietnamese lexi_brings_food_93202137:
 
-    # me "Well, it makes sense when you put it that way.."
-    me "Well, it makes sense when you put it that way.."
+    # me "Well, it makes sense when you put it that way..."
+    me "Well, it makes sense when you put it that way..."
 
 # game/events/activities/lexi_brings_food.rpy:153
 translate vietnamese lexi_brings_food_169defba:
@@ -339,8 +339,8 @@ translate vietnamese lexi_brings_food_5cdebf03:
 # game/events/activities/lexi_brings_food.rpy:161
 translate vietnamese lexi_brings_food_69b7980c:
 
-    # grace "Grr.."
-    grace "Grr.."
+    # grace "Grr..."
+    grace "Grr..."
 
 # game/events/activities/lexi_brings_food.rpy:162
 translate vietnamese lexi_brings_food_7b26a8cb:
@@ -351,8 +351,8 @@ translate vietnamese lexi_brings_food_7b26a8cb:
 # game/events/activities/lexi_brings_food.rpy:171
 translate vietnamese lexi_brings_food_0e9b6fb9:
 
-    # lexi "Magic, I guess.. I hadn't thought of that. It would be useful."
-    lexi "Magic, I guess.. I hadn't thought of that. It would be useful."
+    # lexi "Magic, I guess... I hadn't thought of that. It would be useful."
+    lexi "Magic, I guess... I hadn't thought of that. It would be useful."
 
 # game/events/activities/lexi_brings_food.rpy:172
 translate vietnamese lexi_brings_food_9ef127ee:
@@ -375,14 +375,14 @@ translate vietnamese lexi_brings_food_4c1e4ce5:
 # game/events/activities/lexi_brings_food.rpy:178
 translate vietnamese lexi_brings_food_65e0b36e:
 
-    # grace "You need something to start a fire. Wood, coal.."
-    grace "You need something to start a fire. Wood, coal.."
+    # grace "You need something to start a fire. Wood, coal..."
+    grace "You need something to start a fire. Wood, coal..."
 
 # game/events/activities/lexi_brings_food.rpy:179
 translate vietnamese lexi_brings_food_50d7cef7:
 
-    # me "Well.. since it's magic, it's not from nowhere. There should always be some sort of exchange happening, and we just don't see it."
-    me "Well.. since it's magic, it's not from nowhere. There should always be some sort of exchange happening, and we just don't see it."
+    # me "Well... since it's magic, it's not from nowhere. There should always be some sort of exchange happening, and we just don't see it."
+    me "Well... since it's magic, it's not from nowhere. There should always be some sort of exchange happening, and we just don't see it."
 
 # game/events/activities/lexi_brings_food.rpy:180
 translate vietnamese lexi_brings_food_4dc129f7:
@@ -423,8 +423,8 @@ translate vietnamese lexi_brings_food_ccb4ea30:
 # game/events/activities/lexi_brings_food.rpy:195
 translate vietnamese lexi_brings_food_df285a9d:
 
-    # grace "I guess that would explain it.. Just a bit."
-    grace "I guess that would explain it.. Just a bit."
+    # grace "I guess that would explain it... Just a bit."
+    grace "I guess that would explain it... Just a bit."
 
 # game/events/activities/lexi_brings_food.rpy:196
 translate vietnamese lexi_brings_food_c1e03727:
@@ -441,8 +441,8 @@ translate vietnamese lexi_brings_food_99137e21:
 # game/events/activities/lexi_brings_food.rpy:201
 translate vietnamese lexi_brings_food_8c0fec85:
 
-    # lexi "Like the ritual that started all this.."
-    lexi "Like the ritual that started all this.."
+    # lexi "Like the ritual that started all this..."
+    lexi "Like the ritual that started all this..."
 
 # game/events/activities/lexi_brings_food.rpy:202
 translate vietnamese lexi_brings_food_73e393aa:
@@ -453,14 +453,14 @@ translate vietnamese lexi_brings_food_73e393aa:
 # game/events/activities/lexi_brings_food.rpy:211
 translate vietnamese lexi_brings_food_b0f4c291:
 
-    # grace "Whoah.."
-    grace "Whoah.."
+    # grace "Whoah..."
+    grace "Whoah..."
 
 # game/events/activities/lexi_brings_food.rpy:212
 translate vietnamese lexi_brings_food_1913cfe1:
 
-    # grace "Giant crabs, werewolves, cultist and their magic.."
-    grace "Giant crabs, werewolves, cultist and their magic.."
+    # grace "Giant crabs, werewolves, cultist and their magic..."
+    grace "Giant crabs, werewolves, cultist and their magic..."
 
 # game/events/activities/lexi_brings_food.rpy:213
 translate vietnamese lexi_brings_food_562acb2d:
@@ -489,8 +489,8 @@ translate vietnamese lexi_brings_food_170a7b87:
 # game/events/activities/lexi_brings_food.rpy:223
 translate vietnamese lexi_brings_food_f30f9f4b:
 
-    # grace "It sounds so weird.. With so much to see.. It's scary."
-    grace "It sounds so weird.. With so much to see.. It's scary."
+    # grace "It sounds so weird... With so much to see... It's scary."
+    grace "It sounds so weird... With so much to see... It's scary."
 
 # game/events/activities/lexi_brings_food.rpy:227
 translate vietnamese lexi_brings_food_602d2c2a:

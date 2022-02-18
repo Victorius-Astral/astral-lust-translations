@@ -9,8 +9,8 @@ translate vietnamese midnight_kiss_b558c213:
 # game/events/explore/midnight_kiss.rpy:15
 translate vietnamese midnight_kiss_f7d79d2d:
 
-    # th "I'm not alone.."
-    th "I'm not alone.."
+    # th "I'm not alone..."
+    th "I'm not alone..."
 
 # game/events/explore/midnight_kiss.rpy:28
 translate vietnamese midnight_kiss_leave_588e40d6:
@@ -21,8 +21,8 @@ translate vietnamese midnight_kiss_leave_588e40d6:
 # game/events/explore/midnight_kiss.rpy:29
 translate vietnamese midnight_kiss_leave_d6c3dd60:
 
-    # th "Who knows what it was.."
-    th "Who knows what it was.."
+    # th "Who knows what it was..."
+    th "Who knows what it was..."
 
 # game/events/explore/midnight_kiss.rpy:37
 translate vietnamese midnight_kiss_part2_865eaa10:
@@ -69,8 +69,8 @@ translate vietnamese midnight_kiss_part2_4cb6149b:
 # game/events/explore/midnight_kiss.rpy:64
 translate vietnamese midnight_kiss_part2_402edde7:
 
-    # lori "Um.. Is there a reason you're crouching?"
-    lori "Um.. Is there a reason you're crouching?"
+    # lori "Um... Is there a reason you're crouching?"
+    lori "Um... Is there a reason you're crouching?"
 
 # game/events/explore/midnight_kiss.rpy:67
 translate vietnamese midnight_kiss_part2_6e50d3ef:
@@ -171,8 +171,8 @@ translate vietnamese midnight_kiss_part3_7bcab12c:
 # game/events/explore/midnight_kiss.rpy:118
 translate vietnamese midnight_kiss_part3_e6131348:
 
-    # lori "I.."
-    lori "I.."
+    # lori "I..."
+    lori "I..."
 
 # game/events/explore/midnight_kiss.rpy:119
 translate vietnamese midnight_kiss_part3_7cf700b0:
@@ -201,8 +201,8 @@ translate vietnamese midnight_kiss_part3_d48ab178:
 # game/events/explore/midnight_kiss.rpy:132
 translate vietnamese midnight_kiss_part3_36f8399b:
 
-    # lori "You've got to be kidding me.."
-    lori "You've got to be kidding me.."
+    # lori "You've got to be kidding me..."
+    lori "You've got to be kidding me..."
 
 # game/events/explore/midnight_kiss.rpy:133
 translate vietnamese midnight_kiss_part3_2c90b2c5:
@@ -237,8 +237,8 @@ translate vietnamese midnight_kiss_part3_c596200e:
 # game/events/explore/midnight_kiss.rpy:153
 translate vietnamese midnight_kiss_part3_36714b3f:
 
-    # lori "Ah.."
-    lori "Ah.."
+    # lori "Ah..."
+    lori "Ah..."
 
 # game/events/explore/midnight_kiss.rpy:157
 translate vietnamese midnight_kiss_part3_8f5cf4b6:
@@ -303,8 +303,8 @@ translate vietnamese midnight_kiss_part3_8cd4cb27:
 # game/events/explore/midnight_kiss.rpy:173
 translate vietnamese midnight_kiss_part3_df16cf74:
 
-    # th "Sweet.."
-    th "Sweet.."
+    # th "Sweet..."
+    th "Sweet..."
 
 # game/events/explore/midnight_kiss.rpy:177
 translate vietnamese midnight_kiss_part3_51ba1591:
@@ -327,14 +327,14 @@ translate vietnamese midnight_kiss_part3_82cdfacf:
 # game/events/explore/midnight_kiss.rpy:182
 translate vietnamese midnight_kiss_part3_41a8ef75:
 
-    # th "It seems almost too easy.."
-    th "It seems almost too easy.."
+    # th "It seems almost too easy..."
+    th "It seems almost too easy..."
 
 # game/events/explore/midnight_kiss.rpy:186
 translate vietnamese midnight_kiss_part3_e961d767:
 
-    # me "Nevermind.."
-    me "Nevermind.."
+    # me "Nevermind..."
+    me "Nevermind..."
 
 # game/events/explore/midnight_kiss.rpy:187
 translate vietnamese midnight_kiss_part3_e8a4f15c:
@@ -381,8 +381,8 @@ translate vietnamese midnight_kiss_part3_f96e2936_1:
 # game/events/explore/midnight_kiss.rpy:203
 translate vietnamese midnight_kiss_part3_b1a2272b:
 
-    # me "You.. What the hell did you do?"
-    me "You.. What the hell did you do?"
+    # me "You... What the hell did you do?"
+    me "You... What the hell did you do?"
 
 # game/events/explore/midnight_kiss.rpy:207
 translate vietnamese midnight_kiss_part3_9fb9a905:
@@ -393,14 +393,14 @@ translate vietnamese midnight_kiss_part3_9fb9a905:
 # game/events/explore/midnight_kiss.rpy:208
 translate vietnamese midnight_kiss_part3_caaced74:
 
-    # me "The kiss.."
-    me "The kiss.."
+    # me "The kiss..."
+    me "The kiss..."
 
 # game/events/explore/midnight_kiss.rpy:212
 translate vietnamese midnight_kiss_part3_e4e7f4e5:
 
-    # me "You.."
-    me "You.."
+    # me "You..."
+    me "You..."
 
 # game/events/explore/midnight_kiss.rpy:216
 translate vietnamese midnight_kiss_part3_1994955a:
@@ -471,14 +471,14 @@ translate vietnamese midnight_kiss_part3_896c5104:
 # game/events/explore/midnight_kiss.rpy:267
 translate vietnamese midnight_kiss_part3_a07dbe9c:
 
-    # me "What the.."
-    me "What the.."
+    # me "What the..."
+    me "What the..."
 
 # game/events/explore/midnight_kiss.rpy:271
 translate vietnamese midnight_kiss_part3_b7b0a71c:
 
-    # th "The kiss.."
-    th "The kiss.."
+    # th "The kiss..."
+    th "The kiss..."
 
 # game/events/explore/midnight_kiss.rpy:279
 translate vietnamese midnight_kiss_part3_8a85ea20:
@@ -519,8 +519,8 @@ translate vietnamese midnight_kiss_part3_1be9068c:
 # game/events/explore/midnight_kiss.rpy:296
 translate vietnamese midnight_kiss_part3_f104c2fc:
 
-    # th "There is something weird about this girl.."
-    th "There is something weird about this girl.."
+    # th "There is something weird about this girl..."
+    th "There is something weird about this girl..."
 
 # game/events/explore/midnight_kiss.rpy:304
 translate vietnamese midnight_kiss_part3_9b392331:
@@ -567,8 +567,8 @@ translate vietnamese midnight_kiss_part3_a5acbf71:
 # game/events/explore/midnight_kiss.rpy:314
 translate vietnamese midnight_kiss_part3_52ff6b7c:
 
-    # th "So sweet.."
-    th "So sweet.."
+    # th "So sweet..."
+    th "So sweet..."
 
 # game/events/explore/midnight_kiss.rpy:318
 translate vietnamese midnight_kiss_part3_4c53a3fe:
@@ -669,8 +669,8 @@ translate vietnamese midnight_kiss_part3_47a250e8:
 # game/events/explore/midnight_kiss.rpy:351
 translate vietnamese midnight_kiss_part3_cc86b2e4:
 
-    # lori "You know how to compliment a lady.."
-    lori "You know how to compliment a lady.."
+    # lori "You know how to compliment a lady..."
+    lori "You know how to compliment a lady..."
 
 # game/events/explore/midnight_kiss.rpy:352
 translate vietnamese midnight_kiss_part3_88eab5f5:
@@ -717,8 +717,8 @@ translate vietnamese midnight_kiss_part3_9757456e:
 # game/events/explore/midnight_kiss.rpy:373
 translate vietnamese midnight_kiss_part3_2b8b9a27:
 
-    # me "You little.."
-    me "You little.."
+    # me "You little..."
+    me "You little..."
 
 # game/events/explore/midnight_kiss.rpy:377
 translate vietnamese midnight_kiss_part3_6cdb74c8:
@@ -735,14 +735,14 @@ translate vietnamese midnight_kiss_part3_aa50548a:
 # game/events/explore/midnight_kiss.rpy:382
 translate vietnamese midnight_kiss_part3_fc3ab4fd:
 
-    # me "{small}I will..{/small}"
-    me "{small}I will..{/small}"
+    # me "{small}I will...{/small}"
+    me "{small}I will...{/small}"
 
 # game/events/explore/midnight_kiss.rpy:383
 translate vietnamese midnight_kiss_part3_3264e379:
 
-    # me "{quiet}kill you..{/quiet}"
-    me "{quiet}kill you..{/quiet}"
+    # me "{quiet}kill you...{/quiet}"
+    me "{quiet}kill you...{/quiet}"
 
 # game/events/explore/midnight_kiss.rpy:384
 translate vietnamese midnight_kiss_part3_49103289:
@@ -771,8 +771,8 @@ translate vietnamese midnight_kiss_part3_623598b8:
 # game/events/explore/midnight_kiss.rpy:408
 translate vietnamese midnight_kiss_part4_128d69dc:
 
-    # me "Eh.."
-    me "Eh.."
+    # me "Eh..."
+    me "Eh..."
 
 # game/events/explore/midnight_kiss.rpy:412
 translate vietnamese midnight_kiss_part4_57f0a9e0:
@@ -783,14 +783,14 @@ translate vietnamese midnight_kiss_part4_57f0a9e0:
 # game/events/explore/midnight_kiss.rpy:416
 translate vietnamese midnight_kiss_part4_1104e722:
 
-    # me "She took everything.."
-    me "She took everything.."
+    # me "She took everything..."
+    me "She took everything..."
 
 # game/events/explore/midnight_kiss.rpy:421
 translate vietnamese midnight_kiss_part4_6ae11330:
 
-    # me "Including my clothes...."
-    me "Including my clothes...."
+    # me "Including my clothes..."
+    me "Including my clothes..."
 
 # game/events/explore/midnight_kiss.rpy:425
 translate vietnamese midnight_kiss_part4_10da44e7:
@@ -801,8 +801,8 @@ translate vietnamese midnight_kiss_part4_10da44e7:
 # game/events/explore/midnight_kiss.rpy:429
 translate vietnamese midnight_kiss_part4_b03e3b4f:
 
-    # me "It's late.. Very late.."
-    me "It's late.. Very late.."
+    # me "It's late... Very late..."
+    me "It's late... Very late..."
 
 # game/events/explore/midnight_kiss.rpy:435
 translate vietnamese midnight_kiss_part4_2e510930:
@@ -825,14 +825,14 @@ translate vietnamese midnight_kiss_part4_8dd1a448:
 # game/events/explore/midnight_kiss.rpy:445
 translate vietnamese midnight_kiss_part4_bb9b4810:
 
-    # something "[me].."
-    something "[me].."
+    # something "[me]..."
+    something "[me]..."
 
 # game/events/explore/midnight_kiss.rpy:447
 translate vietnamese midnight_kiss_part4_43e48bf2:
 
-    # th "What.. is.. this?"
-    th "What.. is.. this?"
+    # th "What... is... this?"
+    th "What... is... this?"
 
 # game/events/explore/midnight_kiss.rpy:449
 translate vietnamese midnight_kiss_part4_a7ec0cba:
@@ -855,8 +855,8 @@ translate vietnamese midnight_kiss_part4_41e1e66b:
 # game/events/explore/midnight_kiss.rpy:454
 translate vietnamese midnight_kiss_part4_bb9b4810_1:
 
-    # something "[me].."
-    something "[me].."
+    # something "[me]..."
+    something "[me]..."
 
 # game/events/explore/midnight_kiss.rpy:456
 translate vietnamese midnight_kiss_part4_b783ab6d:
@@ -873,8 +873,8 @@ translate vietnamese midnight_kiss_part4_fda5b69f:
 # game/events/explore/midnight_kiss.rpy:459
 translate vietnamese midnight_kiss_part4_e1834c92:
 
-    # me "Mother.. No!"
-    me "Mother.. No!"
+    # me "Mother... No!"
+    me "Mother... No!"
 
 # game/events/explore/midnight_kiss.rpy:461
 translate vietnamese midnight_kiss_part4_050830c5:
@@ -921,8 +921,8 @@ translate vietnamese midnight_kiss_part4_bbf5d90a:
 # game/events/explore/midnight_kiss.rpy:476
 translate vietnamese midnight_kiss_part4_35c658f5:
 
-    # "What is even more eerie is that you know this voice.."
-    "What is even more eerie is that you know this voice.."
+    # "What is even more eerie is that you know this voice..."
+    "What is even more eerie is that you know this voice..."
 
 # game/events/explore/midnight_kiss.rpy:478
 translate vietnamese midnight_kiss_part4_72cbb6d7:
@@ -987,8 +987,8 @@ translate vietnamese midnight_kiss_part4_739f8b54:
 # game/events/explore/midnight_kiss.rpy:496
 translate vietnamese midnight_kiss_part4_6925b08e:
 
-    # "There is something sublime about this voice.. something awe inspiring."
-    "There is something sublime about this voice.. something awe inspiring."
+    # "There is something sublime about this voice... something awe inspiring."
+    "There is something sublime about this voice... something awe inspiring."
 
 # game/events/explore/midnight_kiss.rpy:497
 translate vietnamese midnight_kiss_part4_5db59f8b:
@@ -1017,8 +1017,8 @@ translate vietnamese midnight_kiss_part4_f559e098:
 # game/events/explore/midnight_kiss.rpy:503
 translate vietnamese midnight_kiss_part4_bb9b4810_2:
 
-    # something "[me].."
-    something "[me].."
+    # something "[me]..."
+    something "[me]..."
 
 # game/events/explore/midnight_kiss.rpy:505
 translate vietnamese midnight_kiss_part4_62be8218:
@@ -1059,8 +1059,8 @@ translate vietnamese midnight_kiss_part4_29bb9a6b:
 # game/events/explore/midnight_kiss.rpy:523
 translate vietnamese midnight_kiss_part4_762888ad:
 
-    # me "You are.. I've seen you in a dream.."
-    me "You are.. I've seen you in a dream.."
+    # me "You are... I've seen you in a dream..."
+    me "You are... I've seen you in a dream..."
 
 # game/events/explore/midnight_kiss.rpy:528
 translate vietnamese midnight_kiss_part4_f7d4e43c:
@@ -1185,8 +1185,8 @@ translate vietnamese midnight_kiss_part4_f060842a:
 # game/events/explore/midnight_kiss.rpy:584
 translate vietnamese midnight_kiss_part4_7113d697:
 
-    # me "Haha.. Thanks."
-    me "Haha.. Thanks."
+    # me "Haha... Thanks."
+    me "Haha... Thanks."
 
 # game/events/explore/midnight_kiss.rpy:585
 translate vietnamese midnight_kiss_part4_9f6bfc20:
@@ -1209,8 +1209,8 @@ translate vietnamese midnight_kiss_part4_afdbac8c:
 # game/events/explore/midnight_kiss.rpy:591
 translate vietnamese midnight_kiss_part4_8105434f:
 
-    # th "What a mischievous brat.."
-    th "What a mischievous brat.."
+    # th "What a mischievous brat..."
+    th "What a mischievous brat..."
 
 # game/events/explore/midnight_kiss.rpy:595
 translate vietnamese midnight_kiss_part4_7f8c991c:
@@ -1245,8 +1245,8 @@ translate vietnamese midnight_kiss_part4_efb3432e:
 # game/events/explore/midnight_kiss.rpy:606
 translate vietnamese midnight_kiss_part4_54d90cb0:
 
-    # th "It's really hard to speak to immortal monsters.."
-    th "It's really hard to speak to immortal monsters.."
+    # th "It's really hard to speak to immortal monsters..."
+    th "It's really hard to speak to immortal monsters..."
 
 # game/events/explore/midnight_kiss.rpy:610
 translate vietnamese midnight_kiss_part4_ae926736:
@@ -1263,8 +1263,8 @@ translate vietnamese midnight_kiss_part4_cdf3d8ed:
 # game/events/explore/midnight_kiss.rpy:612
 translate vietnamese midnight_kiss_part4_c7bc16c6:
 
-    # me "Wait.. You're behind the nightmares?"
-    me "Wait.. You're behind the nightmares?"
+    # me "Wait... You're behind the nightmares?"
+    me "Wait... You're behind the nightmares?"
 
 # game/events/explore/midnight_kiss.rpy:613
 translate vietnamese midnight_kiss_part4_62c999ee:
@@ -1401,8 +1401,8 @@ translate vietnamese midnight_kiss_demeter_night_4e4301fb:
 # game/events/explore/midnight_kiss.rpy:650
 translate vietnamese midnight_kiss_demeter_night_c7af9ad1:
 
-    # me "I don't understand.."
-    me "I don't understand.."
+    # me "I don't understand..."
+    me "I don't understand..."
 
 # game/events/explore/midnight_kiss.rpy:651
 translate vietnamese midnight_kiss_demeter_night_6a8e192a:
@@ -1689,8 +1689,8 @@ translate vietnamese midnight_kiss_demeter_night_de69d1b4:
 # game/events/explore/midnight_kiss.rpy:713
 translate vietnamese midnight_kiss_demeter_night_5454f436:
 
-    # demeter "He makes his own anchors.. He is His own anchor."
-    demeter "He makes his own anchors.. He is His own anchor."
+    # demeter "He makes his own anchors... He is His own anchor."
+    demeter "He makes his own anchors... He is His own anchor."
 
 # game/events/explore/midnight_kiss.rpy:714
 translate vietnamese midnight_kiss_demeter_night_0692438f:
@@ -1731,8 +1731,8 @@ translate vietnamese midnight_kiss_demeter_night_8301d1cc:
 # game/events/explore/midnight_kiss.rpy:720
 translate vietnamese midnight_kiss_demeter_night_672b18f8:
 
-    # me "Wait.. so His believers are all himself?"
-    me "Wait.. so His believers are all himself?"
+    # me "Wait... so His believers are all himself?"
+    me "Wait... so His believers are all himself?"
 
 # game/events/explore/midnight_kiss.rpy:721
 translate vietnamese midnight_kiss_demeter_night_74285d0d:
@@ -1863,8 +1863,8 @@ translate vietnamese midnight_kiss_demeter_angels_7b385a3b:
 # game/events/explore/midnight_kiss.rpy:786
 translate vietnamese midnight_kiss_demeter_angels_ab0746d5:
 
-    # demeter "As for Angels.. Let me count."
-    demeter "As for Angels.. Let me count."
+    # demeter "As for Angels... Let me count."
+    demeter "As for Angels... Let me count."
 
 # game/events/explore/midnight_kiss.rpy:787
 translate vietnamese midnight_kiss_demeter_angels_7e7757cc:
@@ -1899,8 +1899,8 @@ translate vietnamese midnight_kiss_demeter_angels_abf4be79:
 # game/events/explore/midnight_kiss.rpy:798
 translate vietnamese midnight_kiss_demeter_angels_b4178187:
 
-    # demeter "There is also this bitch.."
-    demeter "There is also this bitch.."
+    # demeter "There is also this bitch..."
+    demeter "There is also this bitch..."
 
 # game/events/explore/midnight_kiss.rpy:799
 translate vietnamese midnight_kiss_demeter_angels_2d739998:
@@ -1941,8 +1941,8 @@ translate vietnamese midnight_kiss_demeter_angels_fdec2559:
 # game/events/explore/midnight_kiss.rpy:808
 translate vietnamese midnight_kiss_demeter_angels_086fc6d9:
 
-    # me "Umm.. Alright, maybe continue counting.."
-    me "Umm.. Alright, maybe continue counting.."
+    # me "Umm... Alright, maybe continue counting..."
+    me "Umm... Alright, maybe continue counting..."
 
 # game/events/explore/midnight_kiss.rpy:812
 translate vietnamese midnight_kiss_demeter_angels_64f25e72:
@@ -2167,8 +2167,8 @@ translate vietnamese midnight_kiss_leave_977192e4:
 # game/events/explore/midnight_kiss.rpy:29
 translate vietnamese midnight_kiss_leave_a06f19af:
 
-    # th "Who knows what it was..?"
-    th "Who knows what it was..?"
+    # th "Who knows what it was...?"
+    th "Who knows what it was...?"
 
 # game/events/explore/midnight_kiss.rpy:41
 translate vietnamese midnight_kiss_part2_5059f8f1:
@@ -2281,8 +2281,8 @@ translate vietnamese midnight_kiss_part4_6d47a467:
 # game/events/explore/midnight_kiss.rpy:523
 translate vietnamese midnight_kiss_part4_40a32e15:
 
-    # me "You are.. I've seen you in my dream.."
-    me "You are.. I've seen you in my dream.."
+    # me "You are... I've seen you in my dream..."
+    me "You are... I've seen you in my dream..."
 
 # game/events/explore/midnight_kiss.rpy:539
 translate vietnamese midnight_kiss_part4_dc559eae:
@@ -2317,8 +2317,8 @@ translate vietnamese midnight_kiss_demeter_night_9fdfa6cb:
 # game/events/explore/midnight_kiss.rpy:713
 translate vietnamese midnight_kiss_demeter_night_5084b822:
 
-    # demeter "He makes His own anchors.. He is His own anchor."
-    demeter "He makes His own anchors.. He is His own anchor."
+    # demeter "He makes His own anchors... He is His own anchor."
+    demeter "He makes His own anchors... He is His own anchor."
 
 # game/events/explore/midnight_kiss.rpy:721
 translate vietnamese midnight_kiss_demeter_night_5a619d54:

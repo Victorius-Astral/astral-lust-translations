@@ -3,8 +3,8 @@
 # game/characters/mina/vault_fj.rpy:13
 translate vietnamese mina_vault_fj_c5c02f18:
 
-    # mina "Now that I think about it.."
-    mina "Nói mới nhớ.."
+    # mina "Now that I think about it..."
+    mina "Nói mới nhớ..."
 
 # game/characters/mina/vault_fj.rpy:14
 translate vietnamese mina_vault_fj_2930e26f:
@@ -21,8 +21,8 @@ translate vietnamese mina_vault_fj_eebf56c9:
 # game/characters/mina/vault_fj.rpy:29
 translate vietnamese mina_vault_fj_pride_bed7fbf1:
 
-    # mina "Yeeeeeah.."
-    mina "Yeeeeeah.."
+    # mina "Yeeeeeah..."
+    mina "Yeeeeeah..."
 
 # game/characters/mina/vault_fj.rpy:30
 translate vietnamese mina_vault_fj_pride_3601d5c3:
@@ -45,8 +45,8 @@ translate vietnamese mina_vault_fj_pride_edcd92fd:
 # game/characters/mina/vault_fj.rpy:37
 translate vietnamese mina_vault_fj_pride_68e2af97:
 
-    # mina "Just that.."
-    mina "Chỉ là.."
+    # mina "Just that..."
+    mina "Chỉ là..."
 
 # game/characters/mina/vault_fj.rpy:38
 translate vietnamese mina_vault_fj_pride_bac1cb40:
@@ -64,7 +64,7 @@ translate vietnamese mina_vault_fj_pride_89011afb:
 translate vietnamese mina_vault_fj_pride_a9500d9e:
 
     # me "Ah, screw you."
-    me "Hài hước lắm.."
+    me "Hài hước lắm..."
 
 # game/characters/mina/vault_fj.rpy:45
 translate vietnamese mina_vault_fj_pride_2c8fcdcc:
@@ -75,8 +75,8 @@ translate vietnamese mina_vault_fj_pride_2c8fcdcc:
 # game/characters/mina/vault_fj.rpy:46
 translate vietnamese mina_vault_fj_pride_261a1298:
 
-    # me "{small}You're a pervert..{/small} Said by the girl perving on her blue-haired friend."
-    me "{small}Anh là một kẻ biến thái..{/small} ai nói câu này vậy? À là cái người mà muốn chịch cô bạn tóc xanh của mình."
+    # me "{small}You're a pervert...{/small} Said by the girl perving on her blue-haired friend."
+    me "{small}Anh là một kẻ biến thái...{/small} ai nói câu này vậy? À là cái người mà muốn chịch cô bạn tóc xanh của mình."
 
 # game/characters/mina/vault_fj.rpy:51
 translate vietnamese mina_vault_fj_pride_726b5496:
@@ -111,8 +111,8 @@ translate vietnamese mina_vault_fj_pride_1f06da08:
 # game/characters/mina/vault_fj.rpy:60
 translate vietnamese mina_vault_fj_pride_44fcf214:
 
-    # me "Alright.. You got a point."
-    me "Được rồi.. có lẽ em đúng đấy."
+    # me "Alright... You got a point."
+    me "Được rồi... có lẽ em đúng đấy."
 
 # game/characters/mina/vault_fj.rpy:61
 translate vietnamese mina_vault_fj_pride_69651124:
@@ -165,8 +165,8 @@ translate vietnamese mina_vault_fj_shameless_e70b3a85:
 # game/characters/mina/vault_fj.rpy:89
 translate vietnamese mina_vault_fj_shameless_691d24ca:
 
-    # me "Well, now that you got your answer.."
-    me "Giờ thì em đã có câu trả lời cho mình rồi đấy.."
+    # me "Well, now that you got your answer..."
+    me "Giờ thì em đã có câu trả lời cho mình rồi đấy..."
 
 # game/characters/mina/vault_fj.rpy:94
 translate vietnamese mina_vault_fj_shameless_18157b61:
@@ -183,14 +183,14 @@ translate vietnamese mina_vault_fj_shameless_91b6db94:
 # game/characters/mina/vault_fj.rpy:96
 translate vietnamese mina_vault_fj_shameless_d5826c31:
 
-    # me "Speaking of big, stiff things.."
-    me "Mà nói về những thứ lớn, cứng nữa.."
+    # me "Speaking of big, stiff things..."
+    me "Mà nói về những thứ lớn, cứng nữa..."
 
 # game/characters/mina/vault_fj.rpy:101
 translate vietnamese mina_vault_fj_shameless_089a4b77:
 
-    # mina "Ahh.. Pervert."
-    mina "Ahh.. biến thái."
+    # mina "Ahh... Pervert."
+    mina "Ahh... biến thái."
 
 # game/characters/mina/vault_fj.rpy:106
 translate vietnamese mina_vault_fj_shameless_e0708645:
@@ -261,8 +261,8 @@ translate vietnamese mina_vault_fj_slow_4d585709:
 # game/characters/mina/vault_fj.rpy:125
 translate vietnamese mina_vault_fj_slow_85b03400:
 
-    # me "Well.."
-    me "À thì.."
+    # me "Well..."
+    me "À thì..."
 
 # game/characters/mina/vault_fj.rpy:130
 translate vietnamese mina_vault_fj_slow_cfa19bbd:
@@ -279,8 +279,8 @@ translate vietnamese mina_vault_fj_slow_7e8d6af1:
 # game/characters/mina/vault_fj.rpy:132
 translate vietnamese mina_vault_fj_slow_70161c0f:
 
-    # mina "I bet.."
-    mina "Cá là vậy.."
+    # mina "I bet..."
+    mina "Cá là vậy..."
 
 # game/characters/mina/vault_fj.rpy:133
 translate vietnamese mina_vault_fj_slow_7a01e605:
@@ -327,8 +327,8 @@ translate vietnamese mina_vault_fj_slow_64178814:
 # game/characters/mina/vault_fj.rpy:143
 translate vietnamese mina_vault_fj_slow_5d8508ce:
 
-    # mina "The scariest thing is that.."
-    mina "Điều đáng sợ nhất là.."
+    # mina "The scariest thing is that..."
+    mina "Điều đáng sợ nhất là..."
 
 # game/characters/mina/vault_fj.rpy:144
 translate vietnamese mina_vault_fj_slow_0cf8453a:
@@ -364,7 +364,7 @@ translate vietnamese mina_vault_fj_slow_314086b3:
 translate vietnamese mina_vault_fj_slow_d1c16c66:
 
     # mina "This situation is definitely not something a human could plot, even Grace with all her hatred towards men."
-    mina "Điều này chắc chắn không phải là thứ mà một con người có thể ủ mưu, kể cả Grace với tất cả sự căm ghét của mình đối với đàn ông cũng.."
+    mina "Điều này chắc chắn không phải là thứ mà một con người có thể ủ mưu, kể cả Grace với tất cả sự căm ghét của mình đối với đàn ông cũng..."
 
 # game/characters/mina/vault_fj.rpy:150
 translate vietnamese mina_vault_fj_slow_9a78393b:
@@ -405,8 +405,8 @@ translate vietnamese mina_vault_fj_slow_1111ffc8:
 # game/characters/mina/vault_fj.rpy:160
 translate vietnamese mina_vault_fj_slow_5d77d7fc:
 
-    # mina "Sure.."
-    mina "Được rồi.."
+    # mina "Sure..."
+    mina "Được rồi..."
 
 # game/characters/mina/vault_fj.rpy:161
 translate vietnamese mina_vault_fj_slow_b7973bd8:
@@ -435,8 +435,8 @@ translate vietnamese mina_vault_fj_slow_3820771a:
 # game/characters/mina/vault_fj.rpy:165
 translate vietnamese mina_vault_fj_slow_9686dba0:
 
-    # mina "What you're doing is not entirely wrong.. I mean, at least we got to think of something better than dying in the hands of monsters."
-    mina "Những gì anh đang làm  cũng không hoàn toàn sai.. Ý em là, ít nhất chúng ta phải nghĩ ra điều gì đó tốt hơn là chết trong tay lũ quái vật."
+    # mina "What you're doing is not entirely wrong... I mean, at least we got to think of something better than dying in the hands of monsters."
+    mina "Những gì anh đang làm  cũng không hoàn toàn sai... Ý em là, ít nhất chúng ta phải nghĩ ra điều gì đó tốt hơn là chết trong tay lũ quái vật."
 
 # game/characters/mina/vault_fj.rpy:166
 translate vietnamese mina_vault_fj_slow_fa73dab8:
@@ -501,8 +501,8 @@ translate vietnamese mina_vault_fj_slow_da8a15e8:
 # game/characters/mina/vault_fj.rpy:180
 translate vietnamese mina_vault_fj_slow_7b3e0234:
 
-    # mina "I guess.. I also don't feel anything towards her, although she's gorgeous."
-    mina "Em đoán.. mình cũng không có cảm giác gì với em ấy, mặc dù em ấy cũng xinh."
+    # mina "I guess... I also don't feel anything towards her, although she's gorgeous."
+    mina "Em đoán... mình cũng không có cảm giác gì với em ấy, mặc dù em ấy cũng xinh."
 
 # game/characters/mina/vault_fj.rpy:181
 translate vietnamese mina_vault_fj_slow_58097bdf:

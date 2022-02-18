@@ -39,14 +39,14 @@ translate vietnamese rachel_7_b5c727ea:
 # game/characters/rachel/ev_7.rpy:26
 translate vietnamese rachel_7_c3643422:
 
-    # me "Very.."
-    me "Rất.."
+    # me "Very..."
+    me "Rất..."
 
 # game/characters/rachel/ev_7.rpy:31
 translate vietnamese rachel_7_0e37e280:
 
-    # rachel "This outfit is so nice.."
-    rachel "Bộ đồ này đẹp quá.."
+    # rachel "This outfit is so nice..."
+    rachel "Bộ đồ này đẹp quá..."
 
 # game/characters/rachel/ev_7.rpy:38
 translate vietnamese rachel_7_e8aa681a:
@@ -64,7 +64,7 @@ translate vietnamese rachel_7_cbd92e51:
 translate vietnamese rachel_7_f7815299:
 
     # rachel "Thank you. I'll go show it to Little Fox. She'll be green with envy."
-    rachel "Cảm ơn anh. Tôi sẽ show nó cho Cáo nhỏ. Và em ấy sẽ xanh mặt vì ghen tị."
+    rachel "Cảm ơn anh. Tôi sẽ show nó cho Tiểu Cáo. Và em ấy sẽ xanh mặt vì ghen tị."
 
 # game/characters/rachel/ev_7.rpy:41
 translate vietnamese rachel_7_9b9546d7:
@@ -93,8 +93,8 @@ translate vietnamese rachel_7_926ee9bd:
 # game/characters/rachel/ev_7.rpy:49
 translate vietnamese rachel_7_7efac08c:
 
-    # rachel "Silly.. You got your reward already."
-    rachel "Ngốc à.. Anh đã nhận được phần thưởng của mình rồi đấy."
+    # rachel "Silly... You got your reward already."
+    rachel "Ngốc à... Anh đã nhận được phần thưởng của mình rồi đấy."
 
 # game/characters/rachel/ev_7.rpy:50
 translate vietnamese rachel_7_6bc7342a:
@@ -111,8 +111,8 @@ translate vietnamese rachel_7_7b746825:
 # game/characters/rachel/ev_7.rpy:52
 translate vietnamese rachel_7_08343b4b:
 
-    # me "I did expect a little more.."
-    me "Tôi đã mong đợi nhiều hơn một chút.."
+    # me "I did expect a little more..."
+    me "Tôi đã mong đợi nhiều hơn một chút..."
 
 # game/characters/rachel/ev_7.rpy:58
 translate vietnamese rachel_7_08ade331:
@@ -124,7 +124,7 @@ translate vietnamese rachel_7_08ade331:
 translate vietnamese rachel_7_b1a6ea5c:
 
     # rachel "I'm not crazy with hunger like Little Fox."
-    rachel "Tôi không phát điên vì đói như Cáo nhỏ đâu."
+    rachel "Tôi không phát điên vì đói như Tiểu Cáo đâu."
 
 # game/characters/rachel/ev_7.rpy:64
 translate vietnamese rachel_7_75fa188e:
@@ -142,7 +142,7 @@ translate vietnamese rachel_7_df30cc3c:
 translate vietnamese rachel_7_01b9e384:
 
     # rachel "You did it to get Little Fox to live here."
-    rachel "Anh làm điều đó để Cáo nhỏ đến sống ở đây."
+    rachel "Anh làm điều đó để Tiểu Cáo đến sống ở đây."
 
 # game/characters/rachel/ev_7.rpy:67
 translate vietnamese rachel_7_fe203686:
@@ -165,8 +165,8 @@ translate vietnamese rachel_7_3614256f:
 # game/characters/rachel/ev_7.rpy:79
 translate vietnamese rachel_7_19c83176:
 
-    # me "Great.. I fucked up."
-    me "Tuyệt vời.. Tôi làm hỏng hết rồi."
+    # me "Great... I fucked up."
+    me "Tuyệt vời... Tôi làm hỏng hết rồi."
 
 # game/characters/rachel/ev_7.rpy:86
 translate vietnamese rachel_7_7c629fae:
@@ -195,8 +195,8 @@ translate vietnamese rachel_7_b1f13bb8:
 # game/characters/rachel/ev_7.rpy:96
 translate vietnamese rachel_7_effe0fa9:
 
-    # me "Oh, I will. I will.."
-    me "Oh, Tôi sẽ. Tôi sẽ.."
+    # me "Oh, I will. I will..."
+    me "Oh, Tôi sẽ. Tôi sẽ..."
 
 # game/characters/rachel/ev_7.rpy:101
 translate vietnamese rachel_7_dc7745f2:

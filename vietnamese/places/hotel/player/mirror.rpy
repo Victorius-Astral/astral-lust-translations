@@ -26,7 +26,7 @@ translate vietnamese strings:
 
     # game/places/hotel/player/mirror.rpy:9
     old "Change petname"
-    new "Thay đổi tên vật nuôi"
+    new "Thay đổi tên"
 
     # game/places/hotel/player/mirror.rpy:31
     old "Cat ([cat])"

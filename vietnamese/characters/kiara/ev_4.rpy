@@ -87,8 +87,8 @@ translate vietnamese kiara_4_4f089458:
 # game/characters/kiara/ev_4.rpy:32
 translate vietnamese kiara_4_782a6202:
 
-    # me "Hmm.. There is a myth like this? Go on."
-    me "Hmm.. There is a myth like this? Go on."
+    # me "Hmm... There is a myth like this? Go on."
+    me "Hmm... There is a myth like this? Go on."
 
 # game/characters/kiara/ev_4.rpy:34
 translate vietnamese kiara_4_60dbfff4:
@@ -321,8 +321,8 @@ translate vietnamese kiara_4_999906a2:
 # game/characters/kiara/ev_4.rpy:81
 translate vietnamese kiara_4_bea4cac0:
 
-    # me "That's crazy.."
-    me "That's crazy.."
+    # me "That's crazy..."
+    me "That's crazy..."
 
 # game/characters/kiara/ev_4.rpy:82
 translate vietnamese kiara_4_df926ceb:
@@ -369,8 +369,8 @@ translate vietnamese kiara_4_3a8ac45e:
 # game/characters/kiara/ev_4.rpy:89
 translate vietnamese kiara_4_0110002b:
 
-    # me "That's all so twisted.."
-    me "That's all so twisted.."
+    # me "That's all so twisted..."
+    me "That's all so twisted..."
 
 # game/characters/kiara/ev_4.rpy:93
 translate vietnamese kiara_4_3c7df4c0:
@@ -417,8 +417,8 @@ translate vietnamese kiara_4_79ea55ea:
 # game/characters/kiara/ev_4.rpy:109
 translate vietnamese kiara_4_3f462be7:
 
-    # kiara "Hmm.."
-    kiara "Hmm.."
+    # kiara "Hmm..."
+    kiara "Hmm..."
 
 # game/characters/kiara/ev_4.rpy:110
 translate vietnamese kiara_4_c1b138e6:

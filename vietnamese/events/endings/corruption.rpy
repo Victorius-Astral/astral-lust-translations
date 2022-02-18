@@ -63,8 +63,8 @@ translate vietnamese end_corruption_73503cd6_1:
 # game/events/endings/corruption.rpy:31
 translate vietnamese end_corruption_56eb095b:
 
-    # me "[me].."
-    me "[me].."
+    # me "[me]..."
+    me "[me]..."
 
 # game/events/endings/corruption.rpy:34
 translate vietnamese end_corruption_950a8fea:
@@ -225,8 +225,8 @@ translate vietnamese end_corruption_succumb_73503cd6_5:
 # game/events/endings/corruption.rpy:102
 translate vietnamese end_corruption_succumb_43c79d8c:
 
-    # me "We are.... {color=#54244e}Trinity of Horror.{/color}"
-    me "Chúng ta là.... {color=#54244e}Trinity of Horror.{/color}"
+    # me "We are... {color=#54244e}Trinity of Horror.{/color}"
+    me "Chúng ta là... {color=#54244e}Trinity of Horror.{/color}"
 
 translate vietnamese strings:
 

@@ -21,7 +21,7 @@ translate vietnamese w_booth_amanda_menu1_04f4733b:
 # game/places/wanderers/prostitutes/amanda.rpy:33
 translate vietnamese w_booth_amanda_menu1_3cdbfa0d:
 
-    # me "I see.."
+    # me "I see..."
     me "Anh hiểu rồi..."
 
 # game/places/wanderers/prostitutes/amanda.rpy:37
@@ -75,7 +75,7 @@ translate vietnamese w_booth_amanda_dt_slow_0b46abb9:
 # game/places/wanderers/prostitutes/amanda.rpy:80
 translate vietnamese w_booth_amanda_dt_slow_e54fec88:
 
-    # me "Ohh.. More, babe."
+    # me "Ohh... More, babe."
     me "Ohh... nữa đi babe."
 
 # game/places/wanderers/prostitutes/amanda.rpy:81
@@ -117,7 +117,7 @@ translate vietnamese w_booth_amanda_dt_fast_2d2dd2c2:
 # game/places/wanderers/prostitutes/amanda.rpy:102
 translate vietnamese w_booth_amanda_dt_fast_aba72b93:
 
-    # me "Ahh! You know how to use your tongue.."
+    # me "Ahh! You know how to use your tongue..."
     me "Ahh! Em biết cách để dùng lưỡi của mình đấy..."
 
 # game/places/wanderers/prostitutes/amanda.rpy:103
@@ -247,7 +247,7 @@ translate vietnamese strings:
     new "Bún cua"
 
     # game/places/wanderers/prostitutes/amanda.rpy:18
-    old "Call me.."
+    old "Call me..."
     new "Gọi anh là..."
 
     # game/places/wanderers/prostitutes/amanda.rpy:18

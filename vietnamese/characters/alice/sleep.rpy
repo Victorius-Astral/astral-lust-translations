@@ -3,8 +3,8 @@
 # game/characters/alice/sleep.rpy:8
 translate vietnamese sleep_alice_23ee33cd:
 
-    # th "[alice].. [alice].. Little, horny [alice].."
-    th "[alice]... [alice]... Một chút hứng tình [alice].."
+    # th "[alice]... [alice]... Little, horny [alice]..."
+    th "[alice]... [alice]... Một chút hứng tình [alice]..."
 
 # game/characters/alice/sleep.rpy:10
 translate vietnamese sleep_alice_9ebac051:
@@ -21,7 +21,7 @@ translate vietnamese sleep_alice_3fb5372e:
 # game/characters/alice/sleep.rpy:16
 translate vietnamese sleep_alice_f4e11991:
 
-    # th "Her skin is so soft.. I wonder how she does it in the apocalypse."
+    # th "Her skin is so soft... I wonder how she does it in the apocalypse."
     th "Da em ấy thật mềm... mình tự hỏi em ấy làm điều đó trong ngày tận thế như thế nào."
 
 # game/characters/alice/sleep.rpy:19
@@ -39,7 +39,7 @@ translate vietnamese sleep_alice_3820771a:
 # game/characters/alice/sleep.rpy:25
 translate vietnamese sleep_alice_2c0a3960:
 
-    # th "She didn't kill me previously, this time it won't be very bad.. Probably."
+    # th "She didn't kill me previously, this time it won't be very bad... Probably."
     th "Trước đây em ấy không giết mình, lần này sẽ không tệ lắm đâu... chắc vậy."
 
 # game/characters/alice/sleep.rpy:28
@@ -105,8 +105,8 @@ translate vietnamese sleep_alice_sleepover_023d97dc:
 # game/characters/alice/sleep.rpy:62
 translate vietnamese sleep_alice_sleepover_df5048c5:
 
-    # alice "It didn't look like you were thinking about sleeping just now.."
-    alice "Có vẻ như anh đang không nghĩ về việc ngủ.."
+    # alice "It didn't look like you were thinking about sleeping just now..."
+    alice "Có vẻ như anh đang không nghĩ về việc ngủ..."
 
 # game/characters/alice/sleep.rpy:63
 translate vietnamese sleep_alice_sleepover_8fe57fc8:
@@ -165,7 +165,7 @@ translate vietnamese sleep_alice_sleepover_888d33a4:
 # game/characters/alice/sleep.rpy:87
 translate vietnamese sleep_alice_sleepover_312ba666:
 
-    # me "How was yo.. wait.."
+    # me "How was yo... wait..."
     me "Em thế nà... đợi đã..."
 
 # game/characters/alice/sleep.rpy:90
@@ -279,7 +279,7 @@ translate vietnamese sleep_alice_hj_3260d0a2:
 # game/characters/alice/sleep.rpy:132
 translate vietnamese sleep_alice_hj_90fb30f1:
 
-    # me "Ohh.. You're good at this."
+    # me "Ohh... You're good at this."
     me "Ohh... Em giỏi vụ này đấy."
 
 # game/characters/alice/sleep.rpy:133
@@ -339,7 +339,7 @@ translate vietnamese sleep_alice_hj_0f0ba74d:
 # game/characters/alice/sleep.rpy:155
 translate vietnamese sleep_alice_hj_bf045400:
 
-    # me "Very.. good.. girl.."
+    # me "Very... good... girl..."
     me "Cô gái... rất... tốt..."
 
 # game/characters/alice/sleep.rpy:156

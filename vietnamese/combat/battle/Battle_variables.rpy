@@ -40,7 +40,7 @@ translate vietnamese strings:
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Abomination"
-    new "quái vật gớm ghiếc"
+    new "Abomination"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Succubus"

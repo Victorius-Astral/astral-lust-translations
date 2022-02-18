@@ -93,8 +93,8 @@ translate vietnamese succA_succB_2_slowA_92e83967:
 # game/characters/succubi/succA_succB_2.rpy:75
 translate vietnamese succA_succB_2_slowA_5b837050:
 
-    # succA "Uhh.."
-    succA "Uhh.."
+    # succA "Uhh..."
+    succA "Uhh..."
 
 # game/characters/succubi/succA_succB_2.rpy:92
 translate vietnamese succA_succB_2_slowA2_2b697ce6:
@@ -135,8 +135,8 @@ translate vietnamese succA_succB_2_slowA2_92e83967:
 # game/characters/succubi/succA_succB_2.rpy:104
 translate vietnamese succA_succB_2_slowA2_5b837050:
 
-    # succA "Uhh.."
-    succA "Uhh.."
+    # succA "Uhh..."
+    succA "Uhh..."
 
 # game/characters/succubi/succA_succB_2.rpy:121
 translate vietnamese succA_succB_2_slowA3_fc16929f:
@@ -177,8 +177,8 @@ translate vietnamese succA_succB_2_slowA3_92e83967:
 # game/characters/succubi/succA_succB_2.rpy:133
 translate vietnamese succA_succB_2_slowA3_5b837050:
 
-    # succA "Uhh.."
-    succA "Uhh.."
+    # succA "Uhh..."
+    succA "Uhh..."
 
 # game/characters/succubi/succA_succB_2.rpy:150
 translate vietnamese succA_succB_2_slowB_4904205c:
@@ -225,8 +225,8 @@ translate vietnamese succA_succB_2_slowB_10555a3c:
 # game/characters/succubi/succA_succB_2.rpy:157
 translate vietnamese succA_succB_2_slowB_61ce64ea:
 
-    # succA "Sorry.."
-    succA "Em xin lỗi.."
+    # succA "Sorry..."
+    succA "Em xin lỗi..."
 
 # game/characters/succubi/succA_succB_2.rpy:158
 translate vietnamese succA_succB_2_slowB_1e0cef3a:
@@ -279,8 +279,8 @@ translate vietnamese succA_succB_2_slowB2_16911c99:
 # game/characters/succubi/succA_succB_2.rpy:189
 translate vietnamese succA_succB_2_slowB2_4228f087:
 
-    # me "Aaaa.."
-    me "Aaaa.."
+    # me "Aaaa..."
+    me "Aaaa..."
 
 # game/characters/succubi/succA_succB_2.rpy:190
 translate vietnamese succA_succB_2_slowB2_7fa6c945:
@@ -297,8 +297,8 @@ translate vietnamese succA_succB_2_slowB2_3b53290c:
 # game/characters/succubi/succA_succB_2.rpy:192
 translate vietnamese succA_succB_2_slowB2_a2dd1d34:
 
-    # succA ".. What about me?"
-    succA ".. Còn em thì sao?"
+    # succA "... What about me?"
+    succA "... Còn em thì sao?"
 
 # game/characters/succubi/succA_succB_2.rpy:200
 translate vietnamese succA_succB_2_slowB2_b0731ae4:
@@ -363,8 +363,8 @@ translate vietnamese succA_succB_2_slowB3_664b75cb:
 # game/characters/succubi/succA_succB_2.rpy:226
 translate vietnamese succA_succB_2_slowB3_61ce64ea:
 
-    # succA "Sorry.."
-    succA "Em xin lỗi.."
+    # succA "Sorry..."
+    succA "Em xin lỗi..."
 
 # game/characters/succubi/succA_succB_2.rpy:227
 translate vietnamese succA_succB_2_slowB3_1e0cef3a:
@@ -429,8 +429,8 @@ translate vietnamese succA_succB_2_fastA_166d9144:
 # game/characters/succubi/succA_succB_2.rpy:260
 translate vietnamese succA_succB_2_fastA_b4f815b5:
 
-    # succB ".. Why not me? [succB_master]! My pussy is sore! Play with it!"
-    succB ".. Tại sao không phải là em vậy? [succB_master]! Âm hộ của em đang đau rát đây! Hãy Chơi với nó đi!"
+    # succB "... Why not me? [succB_master]! My pussy is sore! Play with it!"
+    succB "... Tại sao không phải là em vậy? [succB_master]! Âm hộ của em đang đau rát đây! Hãy Chơi với nó đi!"
 
 # game/characters/succubi/succA_succB_2.rpy:261
 translate vietnamese succA_succB_2_fastA_59b3e2ab:
@@ -441,8 +441,8 @@ translate vietnamese succA_succB_2_fastA_59b3e2ab:
 # game/characters/succubi/succA_succB_2.rpy:262
 translate vietnamese succA_succB_2_fastA_0508b987:
 
-    # succB "Bu.."
-    succB "Nhưn.."
+    # succB "Bu..."
+    succB "Nhưn..."
 
 # game/characters/succubi/succA_succB_2.rpy:263
 translate vietnamese succA_succB_2_fastA_5d4e00e3:
@@ -453,8 +453,8 @@ translate vietnamese succA_succB_2_fastA_5d4e00e3:
 # game/characters/succubi/succA_succB_2.rpy:264
 translate vietnamese succA_succB_2_fastA_74511a4c:
 
-    # succB "Yes, [succB_master].."
-    succB "Vâng thưa [succB_master].."
+    # succB "Yes, [succB_master]..."
+    succB "Vâng thưa [succB_master]..."
 
 # game/characters/succubi/succA_succB_2.rpy:265
 translate vietnamese succA_succB_2_fastA_2b4ef8e3:
@@ -483,14 +483,14 @@ translate vietnamese succA_succB_2_fastA_92e83967:
 # game/characters/succubi/succA_succB_2.rpy:278
 translate vietnamese succA_succB_2_fastA_5b837050:
 
-    # succA "Uhh.."
-    succA "Uhh.."
+    # succA "Uhh..."
+    succA "Uhh..."
 
 # game/characters/succubi/succA_succB_2.rpy:296
 translate vietnamese succA_succB_2_fastA2_ac18b3a0:
 
-    # succA "Yhmmm~ I wish it could last forever.. [succA_master], can you fuck me forever?"
-    succA "Yhmmm~ Em ước có như vậy mãi mãi.. [succA_master] ngài có thể địt em mãi mãi không?"
+    # succA "Yhmmm~ I wish it could last forever... [succA_master], can you fuck me forever?"
+    succA "Yhmmm~ Em ước có như vậy mãi mãi... [succA_master] ngài có thể địt em mãi mãi không?"
 
 # game/characters/succubi/succA_succB_2.rpy:297
 translate vietnamese succA_succB_2_fastA2_4676c954:
@@ -507,8 +507,8 @@ translate vietnamese succA_succB_2_fastA2_0f854986:
 # game/characters/succubi/succA_succB_2.rpy:299
 translate vietnamese succA_succB_2_fastA2_a7ef21d9:
 
-    # th "As if I would believe you.."
-    th "Như thể tôi sẽ tin vậy.."
+    # th "As if I would believe you..."
+    th "Như thể tôi sẽ tin vậy..."
 
 # game/characters/succubi/succA_succB_2.rpy:300
 translate vietnamese succA_succB_2_fastA2_5c564adc:
@@ -531,8 +531,8 @@ translate vietnamese succA_succB_2_fastA2_92e83967:
 # game/characters/succubi/succA_succB_2.rpy:312
 translate vietnamese succA_succB_2_fastA2_5b837050:
 
-    # succA "Uhh.."
-    succA "Uhh.."
+    # succA "Uhh..."
+    succA "Uhh..."
 
 # game/characters/succubi/succA_succB_2.rpy:329
 translate vietnamese succA_succB_2_fastA3_d0ec1cab:
@@ -555,8 +555,8 @@ translate vietnamese succA_succB_2_fastA3_166d9144:
 # game/characters/succubi/succA_succB_2.rpy:332
 translate vietnamese succA_succB_2_fastA3_b4f815b5:
 
-    # succB ".. Why not me? [succB_master]! My pussy is sore! Play with it!"
-    succB ".. Tại sao không phải là em vậy? [succB_master]! Âm hộ của em đang đau rát đây! Hãy Chơi với nó đi!"
+    # succB "... Why not me? [succB_master]! My pussy is sore! Play with it!"
+    succB "... Tại sao không phải là em vậy? [succB_master]! Âm hộ của em đang đau rát đây! Hãy Chơi với nó đi!"
 
 # game/characters/succubi/succA_succB_2.rpy:333
 translate vietnamese succA_succB_2_fastA3_59b3e2ab:
@@ -567,8 +567,8 @@ translate vietnamese succA_succB_2_fastA3_59b3e2ab:
 # game/characters/succubi/succA_succB_2.rpy:334
 translate vietnamese succA_succB_2_fastA3_0508b987:
 
-    # succB "Bu.."
-    succB "Nhưn.."
+    # succB "Bu..."
+    succB "Nhưn..."
 
 # game/characters/succubi/succA_succB_2.rpy:335
 translate vietnamese succA_succB_2_fastA3_5d4e00e3:
@@ -579,8 +579,8 @@ translate vietnamese succA_succB_2_fastA3_5d4e00e3:
 # game/characters/succubi/succA_succB_2.rpy:336
 translate vietnamese succA_succB_2_fastA3_74511a4c:
 
-    # succB "Yes, [succB_master].."
-    succB "Vâng thưa [succB_master].."
+    # succB "Yes, [succB_master]..."
+    succB "Vâng thưa [succB_master]..."
 
 # game/characters/succubi/succA_succB_2.rpy:337
 translate vietnamese succA_succB_2_fastA3_2b4ef8e3:
@@ -609,8 +609,8 @@ translate vietnamese succA_succB_2_fastA3_92e83967:
 # game/characters/succubi/succA_succB_2.rpy:350
 translate vietnamese succA_succB_2_fastA3_5b837050:
 
-    # succA "Uhh.."
-    succA "Uhh.."
+    # succA "Uhh..."
+    succA "Uhh..."
 
 # game/characters/succubi/succA_succB_2.rpy:367
 translate vietnamese succA_succB_2_fastB_75c4632f:
@@ -627,14 +627,14 @@ translate vietnamese succA_succB_2_fastB_f69daf1a:
 # game/characters/succubi/succA_succB_2.rpy:369
 translate vietnamese succA_succB_2_fastB_2d3a3720:
 
-    # succB "[succB_master]!~ I love you.. Ahhmnn~ ..so much!~"
-    succB "[succB_master]!~ Em yêu ngài.. Ahhmnn~ ..rất nhiều!~"
+    # succB "[succB_master]!~ I love you... Ahhmnn~ ...so much!~"
+    succB "[succB_master]!~ Em yêu ngài... Ahhmnn~ ...rất nhiều!~"
 
 # game/characters/succubi/succA_succB_2.rpy:370
 translate vietnamese succA_succB_2_fastB_9b45f31c:
 
-    # succA "I feel lonely over there, [succA_master].."
-    succA "Em đang cảm thấy cô đơn ở bên này nè [succA_master].."
+    # succA "I feel lonely over there, [succA_master]..."
+    succA "Em đang cảm thấy cô đơn ở bên này nè [succA_master]..."
 
 # game/characters/succubi/succA_succB_2.rpy:371
 translate vietnamese succA_succB_2_fastB_166d9144:
@@ -693,8 +693,8 @@ translate vietnamese succA_succB_2_fastB2_7f0b41fb:
 # game/characters/succubi/succA_succB_2.rpy:408
 translate vietnamese succA_succB_2_fastB2_d5508e80:
 
-    # succA "Great.. Mine is still better."
-    succA "Tuyệt.. Của tao vẫn tốt hơn."
+    # succA "Great... Mine is still better."
+    succA "Tuyệt... Của tao vẫn tốt hơn."
 
 # game/characters/succubi/succA_succB_2.rpy:409
 translate vietnamese succA_succB_2_fastB2_74a83cbf:
@@ -747,14 +747,14 @@ translate vietnamese succA_succB_2_fastB3_ac9d03aa:
 # game/characters/succubi/succA_succB_2.rpy:443
 translate vietnamese succA_succB_2_fastB3_2d3a3720:
 
-    # succB "[succB_master]!~ I love you.. Ahhmnn~ ..so much!~"
-    succB "[succB_master]!~ Em yêu ngài .. Ahhmnn ~ ..nhiều!~"
+    # succB "[succB_master]!~ I love you... Ahhmnn~ ...so much!~"
+    succB "[succB_master]!~ Em yêu ngài ... Ahhmnn ~ ...nhiều!~"
 
 # game/characters/succubi/succA_succB_2.rpy:444
 translate vietnamese succA_succB_2_fastB3_9b45f31c:
 
-    # succA "I feel lonely over there, [succA_master].."
-    succA "Em đang cảm thấy cô đơn ở bên này nè [succA_master].."
+    # succA "I feel lonely over there, [succA_master]..."
+    succA "Em đang cảm thấy cô đơn ở bên này nè [succA_master]..."
 
 # game/characters/succubi/succA_succB_2.rpy:445
 translate vietnamese succA_succB_2_fastB3_166d9144:
@@ -807,8 +807,8 @@ translate vietnamese succA_succB_2_aboutA_6ab063b6:
 # game/characters/succubi/succA_succB_2.rpy:479
 translate vietnamese succA_succB_2_aboutA_1487d6e0:
 
-    # succB "*Sob* [succB_master].. I want you.."
-    succB "*Nức nở * [succB_master].. em muốn ngài.."
+    # succB "*Sob* [succB_master]... I want you..."
+    succB "*Nức nở * [succB_master]... em muốn ngài..."
 
 # game/characters/succubi/succA_succB_2.rpy:480
 translate vietnamese succA_succB_2_aboutA_e8b3926d:
@@ -831,8 +831,8 @@ translate vietnamese succA_succB_2_aboutA_92e83967:
 # game/characters/succubi/succA_succB_2.rpy:492
 translate vietnamese succA_succB_2_aboutA_5b837050:
 
-    # succA "Uhh.."
-    succA "Uhh.."
+    # succA "Uhh..."
+    succA "Uhh..."
 
 # game/characters/succubi/succA_succB_2.rpy:510
 translate vietnamese succA_succB_2_aboutA2_76a69323:
@@ -891,8 +891,8 @@ translate vietnamese succA_succB_2_aboutA2_92e83967:
 # game/characters/succubi/succA_succB_2.rpy:528
 translate vietnamese succA_succB_2_aboutA2_5b837050:
 
-    # succA "Uhh.."
-    succA "Uhh.."
+    # succA "Uhh..."
+    succA "Uhh..."
 
 # game/characters/succubi/succA_succB_2.rpy:545
 translate vietnamese succA_succB_2_aboutA3_2f4868a6:
@@ -915,8 +915,8 @@ translate vietnamese succA_succB_2_aboutA3_6ab063b6:
 # game/characters/succubi/succA_succB_2.rpy:548
 translate vietnamese succA_succB_2_aboutA3_1487d6e0:
 
-    # succB "*Sob* [succB_master].. I want you.."
-    succB "*Nức nở* [succB_master].. Em muốn ngài.."
+    # succB "*Sob* [succB_master]... I want you..."
+    succB "*Nức nở* [succB_master]... Em muốn ngài..."
 
 # game/characters/succubi/succA_succB_2.rpy:549
 translate vietnamese succA_succB_2_aboutA3_e8b3926d:
@@ -939,8 +939,8 @@ translate vietnamese succA_succB_2_aboutA3_92e83967:
 # game/characters/succubi/succA_succB_2.rpy:561
 translate vietnamese succA_succB_2_aboutA3_5b837050:
 
-    # succA "Uhh.."
-    succA "Uhh.."
+    # succA "Uhh..."
+    succA "Uhh..."
 
 # game/characters/succubi/succA_succB_2.rpy:578
 translate vietnamese succA_succB_2_aboutB_076ec6ba:
@@ -957,8 +957,8 @@ translate vietnamese succA_succB_2_aboutB_166d9144:
 # game/characters/succubi/succA_succB_2.rpy:580
 translate vietnamese succA_succB_2_aboutB_7cce2715:
 
-    # succA "[succA_master].."
-    succA "[succA_master].."
+    # succA "[succA_master]..."
+    succA "[succA_master]..."
 
 # game/characters/succubi/succA_succB_2.rpy:581
 translate vietnamese succA_succB_2_aboutB_60e35518:
@@ -969,8 +969,8 @@ translate vietnamese succA_succB_2_aboutB_60e35518:
 # game/characters/succubi/succA_succB_2.rpy:582
 translate vietnamese succA_succB_2_aboutB_f4af0a69:
 
-    # succA "You bi.."
-    succA "Con đ.."
+    # succA "You bi..."
+    succA "Con đ..."
 
 # game/characters/succubi/succA_succB_2.rpy:583
 translate vietnamese succA_succB_2_aboutB_f52c32de:
@@ -981,8 +981,8 @@ translate vietnamese succA_succB_2_aboutB_f52c32de:
 # game/characters/succubi/succA_succB_2.rpy:584
 translate vietnamese succA_succB_2_aboutB_a5549d22:
 
-    # succA "Grrr.."
-    succA "Grrr.."
+    # succA "Grrr..."
+    succA "Grrr..."
 
 # game/characters/succubi/succA_succB_2.rpy:585
 translate vietnamese succA_succB_2_aboutB_24f22fb0:
@@ -993,8 +993,8 @@ translate vietnamese succA_succB_2_aboutB_24f22fb0:
 # game/characters/succubi/succA_succB_2.rpy:586
 translate vietnamese succA_succB_2_aboutB_cec62631:
 
-    # succA "[succA_master].. Fuck me.. I beg you!"
-    succA "[succA_master].. Địt em đi .. em xin ngài đấy!"
+    # succA "[succA_master]... Fuck me... I beg you!"
+    succA "[succA_master]... Địt em đi ... em xin ngài đấy!"
 
 # game/characters/succubi/succA_succB_2.rpy:587
 translate vietnamese succA_succB_2_aboutB_ff7262bd:
@@ -1089,8 +1089,8 @@ translate vietnamese succA_succB_2_aboutB3_166d9144:
 # game/characters/succubi/succA_succB_2.rpy:654
 translate vietnamese succA_succB_2_aboutB3_7cce2715:
 
-    # succA "[succA_master].."
-    succA "[succA_master].."
+    # succA "[succA_master]..."
+    succA "[succA_master]..."
 
 # game/characters/succubi/succA_succB_2.rpy:655
 translate vietnamese succA_succB_2_aboutB3_60e35518:
@@ -1101,8 +1101,8 @@ translate vietnamese succA_succB_2_aboutB3_60e35518:
 # game/characters/succubi/succA_succB_2.rpy:656
 translate vietnamese succA_succB_2_aboutB3_f4af0a69:
 
-    # succA "You bi.."
-    succA "Con đ.."
+    # succA "You bi..."
+    succA "Con đ..."
 
 # game/characters/succubi/succA_succB_2.rpy:657
 translate vietnamese succA_succB_2_aboutB3_f52c32de:
@@ -1113,8 +1113,8 @@ translate vietnamese succA_succB_2_aboutB3_f52c32de:
 # game/characters/succubi/succA_succB_2.rpy:658
 translate vietnamese succA_succB_2_aboutB3_a5549d22:
 
-    # succA "Grrr.."
-    succA "Grrr.."
+    # succA "Grrr..."
+    succA "Grrr..."
 
 # game/characters/succubi/succA_succB_2.rpy:659
 translate vietnamese succA_succB_2_aboutB3_24f22fb0:
@@ -1125,8 +1125,8 @@ translate vietnamese succA_succB_2_aboutB3_24f22fb0:
 # game/characters/succubi/succA_succB_2.rpy:660
 translate vietnamese succA_succB_2_aboutB3_cec62631:
 
-    # succA "[succA_master].. Fuck me.. I beg you!"
-    succA "[succA_master].. địt em đi.. em xin ngài đấy!"
+    # succA "[succA_master]... Fuck me... I beg you!"
+    succA "[succA_master]... địt em đi... em xin ngài đấy!"
 
 # game/characters/succubi/succA_succB_2.rpy:661
 translate vietnamese succA_succB_2_aboutB3_ff7262bd:
@@ -1173,8 +1173,8 @@ translate vietnamese succA_succB_2_cumA_263f59f4:
 # game/characters/succubi/succA_succB_2.rpy:697
 translate vietnamese succA_succB_2_cumA_7ebdc468:
 
-    # succB "[succB_master].."
-    succB "[succB_master].."
+    # succB "[succB_master]..."
+    succB "[succB_master]..."
 
 # game/characters/succubi/succA_succB_2.rpy:708
 translate vietnamese succA_succB_2_cumA_b4439c76:
@@ -1203,8 +1203,8 @@ translate vietnamese succA_succB_2_cumA_d48ff65a:
 # game/characters/succubi/succA_succB_2.rpy:718
 translate vietnamese succA_succB_2_cumA_267596d7:
 
-    # me "Don't cry.."
-    me "Đừng khóc.."
+    # me "Don't cry..."
+    me "Đừng khóc..."
 
 # game/characters/succubi/succA_succB_2.rpy:721
 translate vietnamese succA_succB_2_cumA_e0b4a67f:
@@ -1245,8 +1245,8 @@ translate vietnamese succA_succB_2_cumA_f908e6db:
 # game/characters/succubi/succA_succB_2.rpy:731
 translate vietnamese succA_succB_2_cumA_64099d76:
 
-    # th "Oh.. wow."
-    th "Oh.. wow."
+    # th "Oh... wow."
+    th "Oh... wow."
 
 # game/characters/succubi/succA_succB_2.rpy:734
 translate vietnamese succA_succB_2_cumA_c1acdbd3:
@@ -1299,8 +1299,8 @@ translate vietnamese succA_succB_2_cumB_ab2452a2:
 # game/characters/succubi/succA_succB_2.rpy:769
 translate vietnamese succA_succB_2_cumB_22d8a361:
 
-    # succA "Why this whore? I'm a better.."
-    succA "Tại sao lại là con phò này chứ? Em tốt hơn nó mà.."
+    # succA "Why this whore? I'm a better..."
+    succA "Tại sao lại là con phò này chứ? Em tốt hơn nó mà..."
 
 # game/characters/succubi/succA_succB_2.rpy:770
 translate vietnamese succA_succB_2_cumB_bc8d9ae7:
@@ -1407,8 +1407,8 @@ translate vietnamese succA_succB_2_cumB_a27e45f6:
 # game/characters/succubi/succA_succB_2.rpy:798
 translate vietnamese succA_succB_2_cumB_2f77fea1:
 
-    # succB "Sorry.."
-    succB "Xin lỗi.."
+    # succB "Sorry..."
+    succB "Xin lỗi..."
 
 # game/characters/succubi/succA_succB_2.rpy:799
 translate vietnamese succA_succB_2_cumB_34ac4748_1:
@@ -1425,8 +1425,8 @@ translate vietnamese succA_succB_2_end_ed86aad0:
 # game/characters/succubi/succA_succB_2.rpy:808
 translate vietnamese succA_succB_2_end_65c38f83:
 
-    # succA "Yes.."
-    succA "Vâng.."
+    # succA "Yes..."
+    succA "Vâng..."
 
 # game/characters/succubi/succA_succB_2.rpy:809
 translate vietnamese succA_succB_2_end_a61c02b4:

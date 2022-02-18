@@ -15,8 +15,8 @@ translate vietnamese main_6_b7374f55:
 # game/characters/player/ev_6.rpy:7
 translate vietnamese main_6_d69e2925:
 
-    # th "It's this library again.."
-    th "Lại là cái thư viện này.."
+    # th "It's this library again..."
+    th "Lại là cái thư viện này..."
 
 # game/characters/player/ev_6.rpy:18
 translate vietnamese main_6_part2_963853f5:
@@ -201,14 +201,14 @@ translate vietnamese main_6_part3_49af79e3:
 # game/characters/player/ev_6.rpy:74
 translate vietnamese main_6_part3_42622049:
 
-    # me "It indeed sounds.. higher."
-    me "Nó thực sự nghe.. cao hơn."
+    # me "It indeed sounds... higher."
+    me "Nó thực sự nghe... cao hơn."
 
 # game/characters/player/ev_6.rpy:76
 translate vietnamese main_6_part3_385d634b:
 
-    # kiara "Prepare the altar, you need.."
-    kiara "Chuẩn bị bàn thờ, anh cần.."
+    # kiara "Prepare the altar, you need..."
+    kiara "Chuẩn bị bàn thờ, anh cần..."
 
 # game/characters/player/ev_6.rpy:77
 translate vietnamese main_6_part3_c0858940:

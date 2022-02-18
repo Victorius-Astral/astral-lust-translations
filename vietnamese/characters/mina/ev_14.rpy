@@ -45,8 +45,8 @@ translate vietnamese mina_14_3f793292:
 # game/characters/mina/ev_14.rpy:17
 translate vietnamese mina_14_df738364:
 
-    # mina "Ahh.."
-    mina "Ahh.."
+    # mina "Ahh..."
+    mina "Ahh..."
 
 # game/characters/mina/ev_14.rpy:18
 translate vietnamese mina_14_314086b3:
@@ -63,8 +63,8 @@ translate vietnamese mina_14_6713f30b:
 # game/characters/mina/ev_14.rpy:22
 translate vietnamese mina_14_114566fd:
 
-    # th "Hmm.. What was it? I've forgotten.."
-    th "Hmm.. là gì nhể? Mình quên mọe rồi.."
+    # th "Hmm... What was it? I've forgotten..."
+    th "Hmm... là gì nhể? Mình quên mọe rồi..."
 
 # game/characters/mina/ev_14.rpy:25
 translate vietnamese mina_14_adcfab35:
@@ -93,8 +93,8 @@ translate vietnamese mina_14_3820771a:
 # game/characters/mina/ev_14.rpy:31
 translate vietnamese mina_14_cd778c7b:
 
-    # me "The first one.."
-    me "Cái đầu tiên.."
+    # me "The first one..."
+    me "Cái đầu tiên..."
 
 # game/characters/mina/ev_14.rpy:34
 translate vietnamese mina_14_7eab3647:
@@ -117,8 +117,8 @@ translate vietnamese mina_14_10d587a2:
 # game/characters/mina/ev_14.rpy:41
 translate vietnamese mina_14_981d0c5d:
 
-    # mina "Of course you do, we have gotten too close lately.."
-    mina "Of course you do, we have gotten too close lately.."
+    # mina "Of course you do, we have gotten too close lately..."
+    mina "Of course you do, we have gotten too close lately..."
 
 # game/characters/mina/ev_14.rpy:42
 translate vietnamese mina_14_ec986f98:
@@ -135,8 +135,8 @@ translate vietnamese mina_14_cde05b01:
 # game/characters/mina/ev_14.rpy:46
 translate vietnamese mina_14_d63ff4cb:
 
-    # mina "Umm.. Alright, silence it is."
-    mina "Umm.. Được rồi, im lặng thôi."
+    # mina "Umm... Alright, silence it is."
+    mina "Umm... Được rồi, im lặng thôi."
 
 # game/characters/mina/ev_14.rpy:47
 translate vietnamese mina_14_5ed50a5b:
@@ -153,8 +153,8 @@ translate vietnamese mina_14_30bbad82:
 # game/characters/mina/ev_14.rpy:54
 translate vietnamese mina_14_708e722c:
 
-    # mina "Mmm.."
-    mina "Mmm.."
+    # mina "Mmm..."
+    mina "Mmm..."
 
 # game/characters/mina/ev_14.rpy:55
 translate vietnamese mina_14_7e5df591:
@@ -165,8 +165,8 @@ translate vietnamese mina_14_7e5df591:
 # game/characters/mina/ev_14.rpy:58
 translate vietnamese mina_14_a084ed8e:
 
-    # mina "...."
-    mina "...."
+    # mina "..."
+    mina "..."
 
 # game/characters/mina/ev_14.rpy:59
 translate vietnamese mina_14_1fa6f260:
@@ -243,8 +243,8 @@ translate vietnamese mina_14_190d1311:
 # game/characters/mina/ev_14.rpy:81
 translate vietnamese mina_14_b2038269:
 
-    # me "I'm.. sorry."
-    me "Anh.. xin lỗi."
+    # me "I'm... sorry."
+    me "Anh... xin lỗi."
 
 # game/characters/mina/ev_14.rpy:82
 translate vietnamese mina_14_c8d32213:
@@ -261,8 +261,8 @@ translate vietnamese mina_14_74d12c1f:
 # game/characters/mina/ev_14.rpy:86
 translate vietnamese mina_14_4540f36b:
 
-    # me "Haha.."
-    me "Haha.."
+    # me "Haha..."
+    me "Haha..."
 
 # game/characters/mina/ev_14.rpy:89
 translate vietnamese mina_14_277ce5f8:
@@ -303,8 +303,8 @@ translate vietnamese mina_14_2ab28c98:
 # game/characters/mina/ev_14.rpy:99
 translate vietnamese mina_14_03c7d2c4:
 
-    # me ".. Thanks?"
-    me ".. Cảm ơn?"
+    # me "... Thanks?"
+    me "... Cảm ơn?"
 
 # game/characters/mina/ev_14.rpy:102
 translate vietnamese mina_14_e29c8fb3:
@@ -375,14 +375,14 @@ translate vietnamese mina_14_863905d4:
 # game/characters/mina/ev_14.rpy:121
 translate vietnamese mina_14_32d3b667:
 
-    # th "Oh, [mina].. I fear you're being too optimistic here."
-    th "Oh, [mina].. anh sợ là em đang quá lạc quan rồi đấy."
+    # th "Oh, [mina]... I fear you're being too optimistic here."
+    th "Oh, [mina]... anh sợ là em đang quá lạc quan rồi đấy."
 
 # game/characters/mina/ev_14.rpy:124
 translate vietnamese mina_14_dd9636c7:
 
-    # me "Ahh.."
-    me "Ahh.."
+    # me "Ahh..."
+    me "Ahh..."
 
 # game/characters/mina/ev_14.rpy:125
 translate vietnamese mina_14_2e39132c:

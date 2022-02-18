@@ -33,8 +33,8 @@ translate vietnamese lexi_7_1_4a68a5fe:
 # game/characters/lexi/ev_7.rpy:37
 translate vietnamese lexi_7_1_d92c10cb:
 
-    # th "Is that.. [lexi]?!"
-    th "Có phải là.. [lexi] không?!"
+    # th "Is that... [lexi]?!"
+    th "Có phải là... [lexi] không?!"
 
 # game/characters/lexi/ev_7.rpy:38
 translate vietnamese lexi_7_1_7e0980f6:
@@ -123,14 +123,14 @@ translate vietnamese lexi_7_3_2b482693:
 # game/characters/lexi/ev_7.rpy:99
 translate vietnamese lexi_7_3_25346a14:
 
-    # lexi "To think you were that strong.."
-    lexi "Để nghĩ rằng anh mạnh như vậy.."
+    # lexi "To think you were that strong..."
+    lexi "Để nghĩ rằng anh mạnh như vậy..."
 
 # game/characters/lexi/ev_7.rpy:102
 translate vietnamese lexi_7_3_b92f9c7e:
 
-    # me "Of course I'm strong. Those monsters don’t stand a chance against me, I'm.."
-    me "Tất nhiên là anh mạnh rồi. Những con quái vật đó không có cơ hội chống lại anh, anh.."
+    # me "Of course I'm strong. Those monsters don’t stand a chance against me, I'm..."
+    me "Tất nhiên là anh mạnh rồi. Những con quái vật đó không có cơ hội chống lại anh, anh..."
 
 # game/characters/lexi/ev_7.rpy:104
 translate vietnamese lexi_7_3_b0fc4b49:
@@ -165,8 +165,8 @@ translate vietnamese lexi_7_4_33ffb1de:
 # game/characters/lexi/ev_7.rpy:121
 translate vietnamese lexi_7_4_9b487b21:
 
-    # lexi "Not this time. I was looking for a.. girl stuff."
-    lexi "Không phải lần này. Em đang tìm kiếm một ít.. đồ con gái."
+    # lexi "Not this time. I was looking for a... girl stuff."
+    lexi "Không phải lần này. Em đang tìm kiếm một ít... đồ con gái."
 
 # game/characters/lexi/ev_7.rpy:122
 translate vietnamese lexi_7_4_46d27802:
@@ -183,8 +183,8 @@ translate vietnamese lexi_7_4_6b1162f2:
 # game/characters/lexi/ev_7.rpy:125
 translate vietnamese lexi_7_4_c4c52844:
 
-    # lexi "Thanks for the help, I would be in trouble if not for you. I'll have to return the favor. Mhmm.. Come inside."
-    lexi "Cảm ơn vì sự giúp đỡ, em sẽ gặp rắc rối nếu không có anh. Em sẽ phải trả ơn. Mhmm.. Vào trong đi."
+    # lexi "Thanks for the help, I would be in trouble if not for you. I'll have to return the favor. Mhmm... Come inside."
+    lexi "Cảm ơn vì sự giúp đỡ, em sẽ gặp rắc rối nếu không có anh. Em sẽ phải trả ơn. Mhmm... Vào trong đi."
 
 # game/characters/lexi/ev_7.rpy:126
 translate vietnamese lexi_7_4_9433e34b:
@@ -273,8 +273,8 @@ translate vietnamese lexi_7_4_a245d9da:
 # game/characters/lexi/ev_7.rpy:163
 translate vietnamese lexi_7_4_4b9105bd:
 
-    # me "Ahh.. That's so good."
-    me "Ahh.. Phê đấy."
+    # me "Ahh... That's so good."
+    me "Ahh... Phê đấy."
 
 # game/characters/lexi/ev_7.rpy:164
 translate vietnamese lexi_7_4_256fcd25:

@@ -33,14 +33,14 @@ translate vietnamese main_11_a882554a:
 # game/characters/player/ev_11.rpy:17
 translate vietnamese main_11_2f65fc96:
 
-    # me "I'm terribly sorry, I didn't know He was inside of me.."
-    me "Tôi thực sự rất xin lỗi, tôi không biết Hắn đang ở bên trong mình.."
+    # me "I'm terribly sorry, I didn't know He was inside of me..."
+    me "Tôi thực sự rất xin lỗi, tôi không biết Hắn đang ở bên trong mình..."
 
 # game/characters/player/ev_11.rpy:20
 translate vietnamese main_11_f2e2d0a6:
 
-    # me "I'm terribly sorry, I didn't know he was inside of me.."
-    me "Tôi thực sự rất xin lỗi, tôi không biết Hắn đang ở bên trong mình.."
+    # me "I'm terribly sorry, I didn't know he was inside of me..."
+    me "Tôi thực sự rất xin lỗi, tôi không biết Hắn đang ở bên trong mình..."
 
 # game/characters/player/ev_11.rpy:23
 translate vietnamese main_11_c8bbed2e:
@@ -69,8 +69,8 @@ translate vietnamese main_11_8a9d8cf7:
 # game/characters/player/ev_11.rpy:29
 translate vietnamese main_11_db9b6498:
 
-    # kiara "This journey was.. beneficial to me."
-    kiara "Cuộc hành trình này.. khá là có ích cho tôi."
+    # kiara "This journey was... beneficial to me."
+    kiara "Cuộc hành trình này... khá là có ích cho tôi."
 
 # game/characters/player/ev_11.rpy:30
 translate vietnamese main_11_76cb2296:
@@ -129,14 +129,14 @@ translate vietnamese main_11_53bee6d2:
 # game/characters/player/ev_11.rpy:45
 translate vietnamese main_11_3328996a:
 
-    # me "It's The End already.."
-    me "Không phải The End đã.."
+    # me "It's The End already..."
+    me "Không phải The End đã..."
 
 # game/characters/player/ev_11.rpy:46
 translate vietnamese main_11_7e3a929a:
 
-    # kiara "The End I'm talking about will affect and destroy everything that exists, be it us, the cosmos, or Them. Nothing will exist afterward.."
-    kiara "The End mà tôi đang nói đến sẽ ảnh hưởng và phá hủy mọi thứ tồn tại, có thể là chúng ta, vũ trụ, hay Họ. Không có gì sẽ tồn tại sau này.."
+    # kiara "The End I'm talking about will affect and destroy everything that exists, be it us, the cosmos, or Them. Nothing will exist afterward..."
+    kiara "The End mà tôi đang nói đến sẽ ảnh hưởng và phá hủy mọi thứ tồn tại, có thể là chúng ta, vũ trụ, hay Họ. Không có gì sẽ tồn tại sau này..."
 
 # game/characters/player/ev_11.rpy:49
 translate vietnamese main_11_e1d0aa1a:
@@ -165,14 +165,14 @@ translate vietnamese main_11_cea71205:
 # game/characters/player/ev_11.rpy:57
 translate vietnamese main_11_219f2b5b:
 
-    # kiara "We spent a thousand years in this city trying to uncover its secrets. We knew something was wrong, but this.."
-    kiara "Bọn tôi đã dành một nghìn năm ở thành phố này để cố gắng khám phá những bí mật của nó. Chúng tôi biết có điều gì đó không ổn, nhưng điều này.."
+    # kiara "We spent a thousand years in this city trying to uncover its secrets. We knew something was wrong, but this..."
+    kiara "Bọn tôi đã dành một nghìn năm ở thành phố này để cố gắng khám phá những bí mật của nó. Chúng tôi biết có điều gì đó không ổn, nhưng điều này..."
 
 # game/characters/player/ev_11.rpy:58
 translate vietnamese main_11_cbf599eb:
 
-    # kiara ".. is beyond our richest imagination."
-    kiara ".. nằm ngoài sức tưởng tượng phong phú nhất của chúng tôi."
+    # kiara "... is beyond our richest imagination."
+    kiara "... nằm ngoài sức tưởng tượng phong phú nhất của chúng tôi."
 
 # game/characters/player/ev_11.rpy:61
 translate vietnamese main_11_1a30b9f0:
@@ -231,8 +231,8 @@ translate vietnamese main_11_2f580e85_1:
 # game/characters/player/ev_11.rpy:78
 translate vietnamese main_11_f90550ad:
 
-    # kiara "I see.."
-    kiara "Tôi hiểu rồi.."
+    # kiara "I see..."
+    kiara "Tôi hiểu rồi..."
 
 # game/characters/player/ev_11.rpy:79
 translate vietnamese main_11_2f580e85_2:
@@ -249,8 +249,8 @@ translate vietnamese main_11_d591b1fc_2:
 # game/characters/player/ev_11.rpy:83
 translate vietnamese main_11_7a30f7c1:
 
-    # kiara "It seems, we don't have that much time.."
-    kiara "Có vẻ như, chúng ta không có nhiều thời gian như vậy.."
+    # kiara "It seems, we don't have that much time..."
+    kiara "Có vẻ như, chúng ta không có nhiều thời gian như vậy..."
 
 # game/characters/player/ev_11.rpy:84
 translate vietnamese main_11_c9911443:
@@ -261,8 +261,8 @@ translate vietnamese main_11_c9911443:
 # game/characters/player/ev_11.rpy:87
 translate vietnamese main_11_24ae7e77:
 
-    # kiara "It's coming.. and you'll probably live long enough to bear witness to this horror."
-    kiara "Nó đang đến.. và anh có thể sẽ sống đủ lâu để chứng kiến sự kinh hoàng này."
+    # kiara "It's coming... and you'll probably live long enough to bear witness to this horror."
+    kiara "Nó đang đến... và anh có thể sẽ sống đủ lâu để chứng kiến sự kinh hoàng này."
 
 # game/characters/player/ev_11.rpy:88
 translate vietnamese main_11_3820771a_2:
@@ -279,8 +279,8 @@ translate vietnamese main_11_1a7d931b:
 # game/characters/player/ev_11.rpy:90
 translate vietnamese main_11_98fddba7:
 
-    # th "If that's true.."
-    th "Nếu đó là thật.."
+    # th "If that's true..."
+    th "Nếu đó là thật..."
 
 # game/characters/player/ev_11.rpy:91
 translate vietnamese main_11_659d0dfa:
@@ -303,8 +303,8 @@ translate vietnamese main_11_3b764037:
 # game/characters/player/ev_11.rpy:94
 translate vietnamese main_11_45cd0638:
 
-    # kiara "Knowing the exact situation will bring your untimely demise.."
-    kiara "Biết chính xác tình hình sẽ dẫn đến cái chết không kịp thời của anh.."
+    # kiara "Knowing the exact situation will bring your untimely demise..."
+    kiara "Biết chính xác tình hình sẽ dẫn đến cái chết không kịp thời của anh..."
 
 # game/characters/player/ev_11.rpy:95
 translate vietnamese main_11_956385fa:
@@ -321,8 +321,8 @@ translate vietnamese main_11_e4b8778f:
 # game/characters/player/ev_11.rpy:97
 translate vietnamese main_11_be7aa58b:
 
-    # me "...."
-    me "...."
+    # me "..."
+    me "..."
 
 # game/characters/player/ev_11.rpy:98
 translate vietnamese main_11_7e9ba229:
@@ -369,20 +369,20 @@ translate vietnamese main_11_68208d0f:
 # game/characters/player/ev_11.rpy:111
 translate vietnamese main_11_53500812:
 
-    # kiara ".. Very well, I'll help you to become extraordinary. But.."
-    kiara ".. Tốt lắm, tôi sẽ giúp anh trở nên phi thường. Nhưng.."
+    # kiara "... Very well, I'll help you to become extraordinary. But..."
+    kiara "... Tốt lắm, tôi sẽ giúp anh trở nên phi thường. Nhưng..."
 
 # game/characters/player/ev_11.rpy:112
 translate vietnamese main_11_7da0e1de:
 
-    # kiara "No matter how powerful you became.. you won't be able to change anything.."
-    kiara "Bất kể anh trở nên mạnh mẽ đến mức nào.. anh sẽ không thể thay đổi bất cứ điều gì đâu.."
+    # kiara "No matter how powerful you became... you won't be able to change anything..."
+    kiara "Bất kể anh trở nên mạnh mẽ đến mức nào... anh sẽ không thể thay đổi bất cứ điều gì đâu..."
 
 # game/characters/player/ev_11.rpy:113
 translate vietnamese main_11_a1cbbb7a:
 
-    # th "I might not be able to do this, myself, but.."
-    th "Mình có thể không làm được điều này, nhưng.."
+    # th "I might not be able to do this, myself, but..."
+    th "Mình có thể không làm được điều này, nhưng..."
 
 # game/characters/player/ev_11.rpy:114
 translate vietnamese main_11_f026ad56:
@@ -393,8 +393,8 @@ translate vietnamese main_11_f026ad56:
 # game/characters/player/ev_11.rpy:117
 translate vietnamese main_11_b6e468c7:
 
-    # kiara "Perhaps I should let you live in ignorance, as many consider it bliss.."
-    kiara "Có lẽ tôi nên để anh sống trong sự thiếu hiểu biết, vì nhiều người coi đó là hạnh phúc.."
+    # kiara "Perhaps I should let you live in ignorance, as many consider it bliss..."
+    kiara "Có lẽ tôi nên để anh sống trong sự thiếu hiểu biết, vì nhiều người coi đó là hạnh phúc..."
 
 # game/characters/player/ev_11.rpy:118
 translate vietnamese main_11_637c9b60:

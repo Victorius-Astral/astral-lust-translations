@@ -33,20 +33,20 @@ translate vietnamese exp_injured_dragon_1afd0702:
 # game/events/explore/injured_dragon.rpy:38
 translate vietnamese exp_injured_dragon_40544aa2:
 
-    # th "Let's ignore it for now.."
-    th "Hãy bỏ qua nó đi.."
+    # th "Let's ignore it for now..."
+    th "Hãy bỏ qua nó đi..."
 
 # game/events/explore/injured_dragon.rpy:43
 translate vietnamese exp_injured_dragon_see_e3ae20e6:
 
-    # th "It's right before me.."
-    th "Nó ở ngay trước mình.."
+    # th "It's right before me..."
+    th "Nó ở ngay trước mình..."
 
 # game/events/explore/injured_dragon.rpy:46
 translate vietnamese exp_injured_dragon_see_68e1a3fb:
 
-    # me "Holy shit.. A dragon. Is it dead?"
-    me "Vãi cứt .. Một con rồng. Nó chết rồi à?"
+    # me "Holy shit... A dragon. Is it dead?"
+    me "Vãi cứt ... Một con rồng. Nó chết rồi à?"
 
 # game/events/explore/injured_dragon.rpy:49
 translate vietnamese exp_injured_dragon_see_74f4566a:
@@ -63,8 +63,8 @@ translate vietnamese exp_injured_dragon_see_b0e20838:
 # game/events/explore/injured_dragon.rpy:55
 translate vietnamese exp_injured_dragon_see_9a7a3e0d:
 
-    # th "Guess it's not dead at all.."
-    th "Đoán là nó không chết đâu.."
+    # th "Guess it's not dead at all..."
+    th "Đoán là nó không chết đâu..."
 
 # game/events/explore/injured_dragon.rpy:56
 translate vietnamese exp_injured_dragon_see_3820771a:
@@ -87,8 +87,8 @@ translate vietnamese exp_injured_dragon_see_e22d482e:
 # game/events/explore/injured_dragon.rpy:59
 translate vietnamese exp_injured_dragon_see_89f06292:
 
-    # th "That could only mean one thing.. It's injured!"
-    th "Điều đó có có nghĩa là .. Nó bị thương!"
+    # th "That could only mean one thing... It's injured!"
+    th "Điều đó có có nghĩa là ... Nó bị thương!"
 
 # game/events/explore/injured_dragon.rpy:67
 translate vietnamese exp_injured_dragon_see_70e785fa:

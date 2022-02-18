@@ -75,11 +75,11 @@ translate vietnamese strings:
 
     # game/screens/settings/game.rpy:56
     old "Enabled"
-    new "Đã bật"
+    new "Bật"
 
     # game/screens/settings/game.rpy:57
     old "Disabled"
-    new "Đã tắt"
+    new "Tắt"
 
     # game/screens/settings/game.rpy:69
     old "Text Outline Color"
@@ -99,7 +99,7 @@ translate vietnamese strings:
 
     # game/screens/settings/game.rpy:77
     old "Patrons"
-    new "Patrons"
+    new "Patron"
 
     # game/screens/settings/game.rpy:79
     old "Dreams Mode"
@@ -186,37 +186,36 @@ translate vietnamese strings:
 
     # game/screens/settings/game.rpy:112
     old "Masks"
-    new "Masks"
+    new "Mặt nạ"
 
     # game/screens/settings/game.rpy:113
     old "Always show masks"
-    new "Always show masks"
+    new "Luôn hiển thị mặt nạ"
 
     # game/screens/settings/game.rpy:115
     old "Masks Opacity (Idle, Forced only)"
-    new "Masks Opacity (Idle, Forced only)"
+    new "Độ mờ của mặt nạ (nhàn rỗi, chỉ bắt buộc)"
 
     # game/screens/settings/game.rpy:118
     old "Current opacity: "
-    new "Current opacity: "
+    new "Độ mờ hiện tại: "
 
     # game/screens/settings/game.rpy:129
     old "Menus"
-    new "Menus"
+    new "Menu"
 
     # game/screens/settings/game.rpy:130
     old "Show interaction menu"
-    new "Show interaction menu"
+    new "Hiển thị menu tương tác"
 
     # game/screens/settings/game.rpy:131
     old "Show tasks menu"
-    new "Show tasks menu"
+    new "Hiển thị menu công việc"
 
     # game/screens/settings/game.rpy:135
     old "Choice Menu Position"
-    new "Choice Menu Position"
+    new "Vị trí menu lựa chọn"
 
     # game/screens/settings/game.rpy:137
     old "Center"
-    new "Center"
-
+    new "Trung tâm"

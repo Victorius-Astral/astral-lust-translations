@@ -93,7 +93,7 @@ translate vietnamese mina_vault_speak_doing_here_c4e3ee72:
 # game/characters/mina/vault.rpy:46
 translate vietnamese mina_vault_speak_doing_here_fb8c28ed:
 
-    # me "Fair point.."
+    # me "Fair point..."
     me "..."
 
 # game/characters/mina/vault.rpy:47
@@ -111,20 +111,20 @@ translate vietnamese mina_vault_speak_doing_here_277b6bb5:
 # game/characters/mina/vault.rpy:52
 translate vietnamese mina_vault_speak_doing_here_53970163:
 
-    # me "Everything is fine with me.."
-    me "Mọi thứ đều ổn với anh.."
+    # me "Everything is fine with me..."
+    me "Mọi thứ đều ổn với anh..."
 
 # game/characters/mina/vault.rpy:53
 translate vietnamese mina_vault_speak_doing_here_18186974:
 
-    # mina "Yeah.. sure.."
-    mina "Ừ.. phải rồi.."
+    # mina "Yeah... sure..."
+    mina "Ừ... phải rồi..."
 
 # game/characters/mina/vault.rpy:54
 translate vietnamese mina_vault_speak_doing_here_b273d15b:
 
-    # me "Ah.."
-    me "Ah.."
+    # me "Ah..."
+    me "Ah..."
 
 # game/characters/mina/vault.rpy:64
 translate vietnamese mina_vault_speak_fool_around_346e0efe:
@@ -135,8 +135,8 @@ translate vietnamese mina_vault_speak_fool_around_346e0efe:
 # game/characters/mina/vault.rpy:65
 translate vietnamese mina_vault_speak_fool_around_941045ea:
 
-    # me "Hey.."
-    me "Ơ.."
+    # me "Hey..."
+    me "Ơ..."
 
 # game/characters/mina/vault.rpy:69
 translate vietnamese mina_vault_speak_fool_around_108c449a:
@@ -177,8 +177,8 @@ translate vietnamese mina_vault_speak_fool_around_2cb1a729:
 # game/characters/mina/vault.rpy:85
 translate vietnamese mina_vault_speak_fool_around_f0acea02:
 
-    # mina "Although.. The thought of doing something on a pile of gold is exciting."
-    mina "Mặc dù.. cái ý tưởng làm điều gì đó trên đống vàng này thật thú vị."
+    # mina "Although... The thought of doing something on a pile of gold is exciting."
+    mina "Mặc dù... cái ý tưởng làm điều gì đó trên đống vàng này thật thú vị."
 
 # game/characters/mina/vault.rpy:86
 translate vietnamese mina_vault_speak_fool_around_7f0056d1:

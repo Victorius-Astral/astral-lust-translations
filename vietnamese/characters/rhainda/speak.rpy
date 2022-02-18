@@ -93,7 +93,7 @@ translate vietnamese speak_rhainda_questions_561f4b16:
 # game/characters/rhainda/speak.rpy:68
 translate vietnamese speak_rhainda_questions_e784e03b:
 
-    # me "I did.."
+    # me "I did..."
     me "Ừ..."
 
 # game/characters/rhainda/speak.rpy:69
@@ -201,7 +201,7 @@ translate vietnamese speak_rhainda_questions_80a970ac:
 # game/characters/rhainda/speak.rpy:107
 translate vietnamese speak_rhainda_questions_3f5a9f5f:
 
-    # me "That's cruel.."
+    # me "That's cruel..."
     me "Thật tàn nhẫn..."
 
 # game/characters/rhainda/speak.rpy:111
@@ -213,19 +213,19 @@ translate vietnamese speak_rhainda_questions_484b0e92:
 # game/characters/rhainda/speak.rpy:112
 translate vietnamese speak_rhainda_questions_7b755e76:
 
-    # rhainda "I was disgusted by all the blood I was covered with.. I felt bad.. I felt the world is wrong.."
+    # rhainda "I was disgusted by all the blood I was covered with... I felt bad... I felt the world is wrong..."
     rhainda "Em thấy kinh tởm bởi đống máu dính lên mình... thật tồi tệ... em cảm giác như thế giới này là một sai lầm vậy..."
 
 # game/characters/rhainda/speak.rpy:113
 translate vietnamese speak_rhainda_questions_6fc24127:
 
-    # rhainda "I asked myself - Why? Why did the monster did it? It was not because it was hungry. It did it for pleasure.."
+    # rhainda "I asked myself - Why? Why did the monster did it? It was not because it was hungry. It did it for pleasure..."
     rhainda "Em tự hỏi bản thân - Tại sao? Tại sao con quái vật lại làm điều đó? không phải là vì nó đói. Mà nó đã làm điều đó vì niềm vui..."
 
 # game/characters/rhainda/speak.rpy:114
 translate vietnamese speak_rhainda_questions_85eb7a94:
 
-    # rhainda "It has left a mark on me.."
+    # rhainda "It has left a mark on me..."
     rhainda "Nó đã để lại một dấu vết trong lòng em..."
 
 # game/characters/rhainda/speak.rpy:118
@@ -303,7 +303,7 @@ translate vietnamese speak_rhainda_questions_4e08c081:
 # game/characters/rhainda/speak.rpy:149
 translate vietnamese speak_rhainda_questions_f47ceb58:
 
-    # me "It's hard.."
+    # me "It's hard..."
     me "Hơi khó..."
 
 # game/characters/rhainda/speak.rpy:150
@@ -381,7 +381,7 @@ translate vietnamese speak_rhainda_questions_16ef076b:
 # game/characters/rhainda/speak.rpy:168
 translate vietnamese speak_rhainda_questions_cb375910:
 
-    # rhainda "I'm going to leave.."
+    # rhainda "I'm going to leave..."
     rhainda "Em sẽ bỏ đi đây..."
 
 # game/characters/rhainda/speak.rpy:169

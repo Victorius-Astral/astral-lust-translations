@@ -45,8 +45,8 @@ translate vietnamese grace_play_house_454c8579:
 # game/characters/grace/play_house.rpy:21
 translate vietnamese grace_play_house_da8a55b5:
 
-    # th "I didn't want to spend that much time.. but I can't get myself to say no to these eyes."
-    th "Mình không muốn mất nhiều thời gian như vậy.. Nhưng nhìn đôi mắt này xem thằng nào từ chối được chứ."
+    # th "I didn't want to spend that much time... but I can't get myself to say no to these eyes."
+    th "Mình không muốn mất nhiều thời gian như vậy... Nhưng nhìn đôi mắt này xem thằng nào từ chối được chứ."
 
 # game/characters/grace/play_house.rpy:22
 translate vietnamese grace_play_house_2e0ad989:
@@ -141,14 +141,14 @@ translate vietnamese grace_play_house_change_714c35ad:
 # game/characters/grace/play_house.rpy:75
 translate vietnamese grace_play_house_change_cb1d38c1:
 
-    # grace "And Mina.. And Lexi.."
-    grace "Và Mina.. Và Lexi Nữa"
+    # grace "And Mina... And Lexi..."
+    grace "Và Mina... Và Lexi Nữa"
 
 # game/characters/grace/play_house.rpy:76
 translate vietnamese grace_play_house_change_40976ab2:
 
-    # me "Ohh.."
-    me "Ohh.."
+    # me "Ohh..."
+    me "Ohh..."
 
 # game/characters/grace/play_house.rpy:80
 translate vietnamese grace_play_house_change_5b0c8ad1:
@@ -189,8 +189,8 @@ translate vietnamese grace_play_house_nochange_881488e1:
 # game/characters/grace/play_house.rpy:98
 translate vietnamese grace_play_house_nochange_c01f4799:
 
-    # grace "Just a while.."
-    grace "Một lúc nữa.."
+    # grace "Just a while..."
+    grace "Một lúc nữa..."
 
 # game/characters/grace/play_house.rpy:99
 translate vietnamese grace_play_house_nochange_8a95e82c:
@@ -207,8 +207,8 @@ translate vietnamese grace_play_house_nochange_443d59af:
 # game/characters/grace/play_house.rpy:106
 translate vietnamese grace_play_house_nochange_5067c278:
 
-    # th "That's so unlike her to say.."
-    th "Câu đấy không giống em tẹo nào đâu.."
+    # th "That's so unlike her to say..."
+    th "Câu đấy không giống em tẹo nào đâu..."
 
 # game/characters/grace/play_house.rpy:107
 translate vietnamese grace_play_house_nochange_ecd768ba:
@@ -237,8 +237,8 @@ translate vietnamese grace_play_house_changed_4c1831d6:
 # game/characters/grace/play_house.rpy:121
 translate vietnamese grace_play_house_changed_152f750c:
 
-    # grace "I don't know. It sounds hard.."
-    grace "Em không biết. Nghe có vẻ khó.."
+    # grace "I don't know. It sounds hard..."
+    grace "Em không biết. Nghe có vẻ khó..."
 
 # game/characters/grace/play_house.rpy:122
 translate vietnamese grace_play_house_changed_580e376a:
@@ -249,8 +249,8 @@ translate vietnamese grace_play_house_changed_580e376a:
 # game/characters/grace/play_house.rpy:123
 translate vietnamese grace_play_house_changed_1fe1b689:
 
-    # grace "Hmm.."
-    grace "Hmm.."
+    # grace "Hmm..."
+    grace "Hmm..."
 
 # game/characters/grace/play_house.rpy:127
 translate vietnamese grace_play_house_changed_9ae780a4:
@@ -285,8 +285,8 @@ translate vietnamese grace_play_house_changed_95e796cd:
 # game/characters/grace/play_house.rpy:138
 translate vietnamese grace_play_house_changed_f9616106:
 
-    # grace "Umm.."
-    grace "Umm.."
+    # grace "Umm..."
+    grace "Umm..."
 
 # game/characters/grace/play_house.rpy:139
 translate vietnamese grace_play_house_changed_d09519f1:
@@ -441,8 +441,8 @@ translate vietnamese grace_play_house_changed_f0355205:
 # game/characters/grace/play_house.rpy:170
 translate vietnamese grace_play_house_changed_773583d5:
 
-    # "[teddy]" "Yes, please.."
-    "[teddy]" "Có chứ.."
+    # "[teddy]" "Yes, please..."
+    "[teddy]" "Có chứ..."
 
 # game/characters/grace/play_house.rpy:174
 translate vietnamese grace_play_house_changed_b23d99de:
@@ -465,8 +465,8 @@ translate vietnamese grace_play_house_changed_4a51ec8d:
 # game/characters/grace/play_house.rpy:184
 translate vietnamese grace_play_house_stupor_bf653935:
 
-    # me "Ehh.."
-    me "Ehh.."
+    # me "Ehh..."
+    me "Ehh..."
 
 # game/characters/grace/play_house.rpy:185
 translate vietnamese grace_play_house_stupor_ca3a7545:
@@ -483,8 +483,8 @@ translate vietnamese grace_play_house_stupor_1b2d9731:
 # game/characters/grace/play_house.rpy:187
 translate vietnamese grace_play_house_stupor_96ceb557:
 
-    # "Gracie" "I don't know.. Mommy taught me."
-    "Gracie" "Con không biết.. Mẹ chỉ con."
+    # "Gracie" "I don't know... Mommy taught me."
+    "Gracie" "Con không biết... Mẹ chỉ con."
 
 # game/characters/grace/play_house.rpy:188
 translate vietnamese grace_play_house_stupor_3820771a:
@@ -519,14 +519,14 @@ translate vietnamese grace_play_house_stupor_41aa2ccb:
 # game/characters/grace/play_house.rpy:202
 translate vietnamese grace_play_house_stupor_11ae7959:
 
-    # "Gracie" "I don't think that's the answer, daddy.."
-    "Gracie" "Con không nghĩ đó là câu trả lời đâu bố.."
+    # "Gracie" "I don't think that's the answer, daddy..."
+    "Gracie" "Con không nghĩ đó là câu trả lời đâu bố..."
 
 # game/characters/grace/play_house.rpy:203
 translate vietnamese grace_play_house_stupor_b92c7b87:
 
-    # "[teddy]" "You sure..?"
-    "[teddy]" "Con chắc chứ..?"
+    # "[teddy]" "You sure...?"
+    "[teddy]" "Con chắc chứ...?"
 
 # game/characters/grace/play_house.rpy:204
 translate vietnamese grace_play_house_stupor_2a501d03:
@@ -585,8 +585,8 @@ translate vietnamese grace_play_house_question1_02a2c13b:
 # game/characters/grace/play_house.rpy:224
 translate vietnamese grace_play_house_question1_4c97273a:
 
-    # me "Mhm.."
-    me "Mhm.."
+    # me "Mhm..."
+    me "Mhm..."
 
 # game/characters/grace/play_house.rpy:225
 translate vietnamese grace_play_house_question1_03adeec6:
@@ -669,8 +669,8 @@ translate vietnamese grace_play_house_question2_724e7105:
 # game/characters/grace/play_house.rpy:249
 translate vietnamese grace_play_house_question2_4c97273a:
 
-    # me "Mhm.."
-    me "Mhm.."
+    # me "Mhm..."
+    me "Mhm..."
 
 # game/characters/grace/play_house.rpy:250
 translate vietnamese grace_play_house_question2_fa9187e6:
@@ -717,8 +717,8 @@ translate vietnamese grace_play_house_question2_8649be31:
 # game/characters/grace/play_house.rpy:257
 translate vietnamese grace_play_house_question2_d88d858e:
 
-    # me "I will take your word for that.."
-    me "Papa sẽ nghe lời của con cho điều đó.."
+    # me "I will take your word for that..."
+    me "Papa sẽ nghe lời của con cho điều đó..."
 
 # game/characters/grace/play_house.rpy:263
 translate vietnamese grace_play_house_question3_cc99d1a8:
@@ -777,8 +777,8 @@ translate vietnamese grace_play_house_question3_263dfad0:
 # game/characters/grace/play_house.rpy:278
 translate vietnamese grace_play_house_question3_766b90d2:
 
-    # me "Oh. So the kid was just conceived.. That was smart."
-    me "Ồ. Vậy, đứa trẻ vừa được hình thành .. Điều đó thật thông minh."
+    # me "Oh. So the kid was just conceived... That was smart."
+    me "Ồ. Vậy, đứa trẻ vừa được hình thành ... Điều đó thật thông minh."
 
 # game/characters/grace/play_house.rpy:279
 translate vietnamese grace_play_house_question3_3ed87a4d:
@@ -795,8 +795,8 @@ translate vietnamese grace_play_house_question3_baf8f4db:
 # game/characters/grace/play_house.rpy:281
 translate vietnamese grace_play_house_question3_c342b426:
 
-    # me "Totally unlike you.."
-    me "Hoàn toàn không giống em.."
+    # me "Totally unlike you..."
+    me "Hoàn toàn không giống em..."
 
 # game/characters/grace/play_house.rpy:285
 translate vietnamese grace_play_house_question3_fdb4e830:
@@ -909,8 +909,8 @@ translate vietnamese grace_play_house_part2_29af3aae:
 # game/characters/grace/play_house.rpy:318
 translate vietnamese grace_play_house_part2_e0d22bba:
 
-    # th "[grace].. You've got me surprised."
-    th "[grace].. Em làm anh bất ngờ đấy."
+    # th "[grace]... You've got me surprised."
+    th "[grace]... Em làm anh bất ngờ đấy."
 
 # game/characters/grace/play_house.rpy:319
 translate vietnamese grace_play_house_part2_c8d469aa:
@@ -927,8 +927,8 @@ translate vietnamese grace_play_house_part2_0414d765:
 # game/characters/grace/play_house.rpy:321
 translate vietnamese grace_play_house_part2_ebdc218a:
 
-    # "[teddy]" "I guess we could also do that...."
-    "[teddy]" "Anh đoán là chúng ta cũng có thể làm vậy...."
+    # "[teddy]" "I guess we could also do that..."
+    "[teddy]" "Anh đoán là chúng ta cũng có thể làm vậy..."
 
 # game/characters/grace/play_house.rpy:325
 translate vietnamese grace_play_house_part2_55830cda:
@@ -1035,8 +1035,8 @@ translate vietnamese grace_play_house_part2_42034ead:
 # game/characters/grace/play_house.rpy:354
 translate vietnamese grace_play_house_part2_e42f7c43:
 
-    # grace "I think it's disgusting.."
-    grace "Em nghĩ việc đấy thật tởm.."
+    # grace "I think it's disgusting..."
+    grace "Em nghĩ việc đấy thật tởm..."
 
 # game/characters/grace/play_house.rpy:355
 translate vietnamese grace_play_house_part2_fc74f0de:
@@ -1113,8 +1113,8 @@ translate vietnamese grace_play_house_part2_bd237b6c:
 # game/characters/grace/play_house.rpy:373
 translate vietnamese grace_play_house_part2_450c63b1:
 
-    # grace "Being a mom sucks.."
-    grace "Trở thành mẹ thật tệ.."
+    # grace "Being a mom sucks..."
+    grace "Trở thành mẹ thật tệ..."
 
 # game/characters/grace/play_house.rpy:374
 translate vietnamese grace_play_house_part2_3315f5fa:
@@ -1281,14 +1281,14 @@ translate vietnamese grace_play_house_part2_2e6c3036:
 # game/characters/grace/play_house.rpy:432
 translate vietnamese grace_play_house_part2_7e2d9bd9:
 
-    # grace "Uhh.. That's great."
-    grace "Uhh.. Điều đó thật tuyệt."
+    # grace "Uhh... That's great."
+    grace "Uhh... Điều đó thật tuyệt."
 
 # game/characters/grace/play_house.rpy:436
 translate vietnamese grace_play_house_part2_e4217847:
 
-    # grace "Umm.. Why are you still checking?"
-    grace "Umm.. Tại sao anh vẫn kiểm tra vậy?"
+    # grace "Umm... Why are you still checking?"
+    grace "Umm... Tại sao anh vẫn kiểm tra vậy?"
 
 # game/characters/grace/play_house.rpy:437
 translate vietnamese grace_play_house_part2_09638be8:
@@ -1299,8 +1299,8 @@ translate vietnamese grace_play_house_part2_09638be8:
 # game/characters/grace/play_house.rpy:438
 translate vietnamese grace_play_house_part2_4ceb9341:
 
-    # grace "O-Oh. Okay.."
-    grace "O-Oh. Okay.."
+    # grace "O-Oh. Okay..."
+    grace "O-Oh. Okay..."
 
 # game/characters/grace/play_house.rpy:444
 translate vietnamese grace_play_house_part2_74b19561:
@@ -1311,14 +1311,14 @@ translate vietnamese grace_play_house_part2_74b19561:
 # game/characters/grace/play_house.rpy:445
 translate vietnamese grace_play_house_part2_3c10e90a:
 
-    # th "That sexy moan.. Feels like it invites me."
-    th "Tiếng rên seggxy đấy.. Cảm giác như đang mời gọi  mình vậy."
+    # th "That sexy moan... Feels like it invites me."
+    th "Tiếng rên seggxy đấy... Cảm giác như đang mời gọi  mình vậy."
 
 # game/characters/grace/play_house.rpy:449
 translate vietnamese grace_play_house_part2_105e6064:
 
-    # grace "S-Stop.."
-    grace "D-Dừng lại.."
+    # grace "S-Stop..."
+    grace "D-Dừng lại..."
 
 # game/characters/grace/play_house.rpy:450
 translate vietnamese grace_play_house_part2_dc800ca2:
@@ -1347,8 +1347,8 @@ translate vietnamese grace_play_house_part2_5715985e:
 # game/characters/grace/play_house.rpy:460
 translate vietnamese grace_play_house_part2_f9616106:
 
-    # grace "Umm.."
-    grace "Umm.."
+    # grace "Umm..."
+    grace "Umm..."
 
 # game/characters/grace/play_house.rpy:461
 translate vietnamese grace_play_house_part2_2930e26f:
@@ -1394,14 +1394,14 @@ translate vietnamese strings:
 # game/characters/grace/play_house.rpy:21
 translate vietnamese grace_play_house_eaff2be8:
 
-    # th "I didn't want to spend that much time.. but I can't get myself to say no to those eyes."
-    th "Mình không muốn mất nhiều thời gian như vậy.. nhưng mình không thể nói không với đôi mắt đó được."
+    # th "I didn't want to spend that much time... but I can't get myself to say no to those eyes."
+    th "Mình không muốn mất nhiều thời gian như vậy... nhưng mình không thể nói không với đôi mắt đó được."
 
 # game/characters/grace/play_house.rpy:68
 translate vietnamese grace_play_house_change_bb3b0159:
 
-    # grace "But.. I'm an adult now."
-    grace "Nhưng.. bây giờ em đã trưởng thành rồi mà."
+    # grace "But... I'm an adult now."
+    grace "Nhưng... bây giờ em đã trưởng thành rồi mà."
 
 # game/characters/grace/play_house.rpy:146
 translate vietnamese grace_play_house_changed_d0167fb9:

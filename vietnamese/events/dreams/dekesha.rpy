@@ -9,8 +9,8 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_fb60898a:
 # game/events/dreams/dekesha.rpy:28
 translate vietnamese d_Dekesha_by_Darrdorack_2_c0d23563:
 
-    # th "This is.. [dekesha], I hate this stuck up bitch.."
-    th "Đây là .. [dekesha], tôi ghét con đĩ này.."
+    # th "This is... [dekesha], I hate this stuck up bitch..."
+    th "Đây là ... [dekesha], tôi ghét con đĩ này..."
 
 # game/events/dreams/dekesha.rpy:29
 translate vietnamese d_Dekesha_by_Darrdorack_2_b08726d7:
@@ -27,14 +27,14 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_319aedf6:
 # game/events/dreams/dekesha.rpy:35
 translate vietnamese d_Dekesha_by_Darrdorack_2_40a0736d:
 
-    # dekesha "Haha.."
-    dekesha "Haha.."
+    # dekesha "Haha..."
+    dekesha "Haha..."
 
 # game/events/dreams/dekesha.rpy:38
 translate vietnamese d_Dekesha_by_Darrdorack_2_72a40dad:
 
-    # th "Is she? No, no way.."
-    th "Cô ta sẽ? Không không đời nào.."
+    # th "Is she? No, no way..."
+    th "Cô ta sẽ? Không không đời nào..."
 
 # game/events/dreams/dekesha.rpy:45
 translate vietnamese d_Dekesha_by_Darrdorack_2_ced76a63:
@@ -51,8 +51,8 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_ea464c69:
 # game/events/dreams/dekesha.rpy:55
 translate vietnamese d_Dekesha_by_Darrdorack_2_d89ca415:
 
-    # th "Holy fuck.. She is! That was fast.."
-    th "Mẹ kiếp .. Cô ta! Ảo thật đấy.."
+    # th "Holy fuck... She is! That was fast..."
+    th "Mẹ kiếp ... Cô ta! Ảo thật đấy..."
 
 # game/events/dreams/dekesha.rpy:56
 translate vietnamese d_Dekesha_by_Darrdorack_2_6a7347f2:
@@ -63,8 +63,8 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_6a7347f2:
 # game/events/dreams/dekesha.rpy:57
 translate vietnamese d_Dekesha_by_Darrdorack_2_f50efa6b:
 
-    # me "Huh.. Wonderful.."
-    me "Huh.. Tuyệt vời.."
+    # me "Huh... Wonderful..."
+    me "Huh... Tuyệt vời..."
 
 # game/events/dreams/dekesha.rpy:58
 translate vietnamese d_Dekesha_by_Darrdorack_2_2dd098d7:
@@ -75,8 +75,8 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_2dd098d7:
 # game/events/dreams/dekesha.rpy:59
 translate vietnamese d_Dekesha_by_Darrdorack_2_9a6ed38c:
 
-    # th "She's irritable even now.."
-    th "Cô ta thậm chí còn cáu kỉnh kể cả lúc này.."
+    # th "She's irritable even now..."
+    th "Cô ta thậm chí còn cáu kỉnh kể cả lúc này..."
 
 # game/events/dreams/dekesha.rpy:67
 translate vietnamese d_Dekesha_by_Darrdorack_2_d47ed764:
@@ -93,8 +93,8 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_68dd495f:
 # game/events/dreams/dekesha.rpy:69
 translate vietnamese d_Dekesha_by_Darrdorack_2_9835ce1b:
 
-    # dekesha "Ahh.. You're pathetic, I said harder!"
-    dekesha "Ahh.. Đồ thảm hại, tao đã nói là mạnh hơn rồi!"
+    # dekesha "Ahh... You're pathetic, I said harder!"
+    dekesha "Ahh... Đồ thảm hại, tao đã nói là mạnh hơn rồi!"
 
 # game/events/dreams/dekesha.rpy:70
 translate vietnamese d_Dekesha_by_Darrdorack_2_b14074ff:
@@ -141,8 +141,8 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_56fa61ef:
 # game/events/dreams/dekesha.rpy:92
 translate vietnamese d_Dekesha_by_Darrdorack_2_5ff8db74:
 
-    # th "She was always so high and mighty.. Hypocritical slut."
-    th "Cô ta luôn rất cao ngạo và hùng mạnh .. Con đĩ đạo đức giả."
+    # th "She was always so high and mighty... Hypocritical slut."
+    th "Cô ta luôn rất cao ngạo và hùng mạnh ... Con đĩ đạo đức giả."
 
 # game/events/dreams/dekesha.rpy:95
 translate vietnamese d_Dekesha_by_Darrdorack_2_85a2f47e:
@@ -153,8 +153,8 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_85a2f47e:
 # game/events/dreams/dekesha.rpy:104
 translate vietnamese d_Dekesha_by_Darrdorack_2_6d8f046c:
 
-    # th "Oh.. [dekesha] in her element.. Is this guy still alive? This witch could've sucked out his soul."
-    th "Oh.. [dekesha] .. Anh chàng này vẫn còn sống hả? Con mụ phù thủy này sẽ hút hết linh hồn của anh ta mất."
+    # th "Oh... [dekesha] in her element... Is this guy still alive? This witch could've sucked out his soul."
+    th "Oh... [dekesha] ... Anh chàng này vẫn còn sống hả? Con mụ phù thủy này sẽ hút hết linh hồn của anh ta mất."
 
 # game/events/dreams/dekesha.rpy:105
 translate vietnamese d_Dekesha_by_Darrdorack_2_99308a16:
@@ -213,8 +213,8 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_2b90be7e:
 # game/events/dreams/dekesha.rpy:128
 translate vietnamese d_Dekesha_by_Darrdorack_2_dc5d3874:
 
-    # "Man" "Ah! Me too.."
-    "Man" "Ah! Tôi cũng thế.."
+    # "Man" "Ah! Me too..."
+    "Man" "Ah! Tôi cũng thế..."
 
 # game/events/dreams/dekesha.rpy:129
 translate vietnamese d_Dekesha_by_Darrdorack_2_a74e53b3:
@@ -249,8 +249,8 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_ad1c50cd:
 # game/events/dreams/dekesha.rpy:139
 translate vietnamese d_Dekesha_by_Darrdorack_2_22d2c7f9:
 
-    # dekesha "I got tired for nothing.."
-    dekesha "Tao cảm thấy mệt mỏi vì không gì cả.."
+    # dekesha "I got tired for nothing..."
+    dekesha "Tao cảm thấy mệt mỏi vì không gì cả..."
 
 # game/events/dreams/dekesha.rpy:140
 translate vietnamese d_Dekesha_by_Darrdorack_2_3820771a_1:
@@ -297,8 +297,8 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_974878cd:
 # game/events/dreams/dekesha.rpy:157
 translate vietnamese d_Dekesha_by_Darrdorack_2_7ba70132:
 
-    # dekesha "I'll destroy you, bastard! What are you.."
-    dekesha "Tao sẽ tiêu diệt mày, thằng khốn! Mày muốn là.."
+    # dekesha "I'll destroy you, bastard! What are you..."
+    dekesha "Tao sẽ tiêu diệt mày, thằng khốn! Mày muốn là..."
 
 # game/events/dreams/dekesha.rpy:160
 translate vietnamese d_Dekesha_by_Darrdorack_2_46a1b57c:
@@ -357,8 +357,8 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_slap_5be4f508:
 # game/events/dreams/dekesha.rpy:193
 translate vietnamese d_Dekesha_by_Darrdorack_2_slap_680ce9cb:
 
-    # dekesha "You bas.."
-    dekesha "Thằng c.."
+    # dekesha "You bas..."
+    dekesha "Thằng c..."
 
 # game/events/dreams/dekesha.rpy:196
 translate vietnamese d_Dekesha_by_Darrdorack_2_slap_aae11a15:
@@ -465,8 +465,8 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_sex_7484c03d:
 # game/events/dreams/dekesha.rpy:241
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_734762ec:
 
-    # dekesha "Mmm.. Shut up."
-    dekesha "Mmm.. Câm miệng."
+    # dekesha "Mmm... Shut up."
+    dekesha "Mmm... Câm miệng."
 
 # game/events/dreams/dekesha.rpy:242
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_f6c2ee35:
@@ -507,8 +507,8 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_sex_acd01769:
 # game/events/dreams/dekesha.rpy:255
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_5d4a9417:
 
-    # dekesha "N-No.."
-    dekesha "K-Không.."
+    # dekesha "N-No..."
+    dekesha "K-Không..."
 
 # game/events/dreams/dekesha.rpy:256
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_514fe728:
@@ -549,8 +549,8 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_sex_57e8789d:
 # game/events/dreams/dekesha.rpy:269
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_dd9636c7:
 
-    # me "Ahh.."
-    me "Ahh.."
+    # me "Ahh..."
+    me "Ahh..."
 
 # game/events/dreams/dekesha.rpy:277
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_52ec147d:
@@ -603,8 +603,8 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_sex_bc86a5cb:
 # game/events/dreams/dekesha.rpy:292
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_c9c91388:
 
-    # th "Shit, I'm close.."
-    th "Chết tiệt, mình sắp.."
+    # th "Shit, I'm close..."
+    th "Chết tiệt, mình sắp..."
 
 # game/events/dreams/dekesha.rpy:293
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_52246b24:
@@ -650,8 +650,8 @@ translate vietnamese strings:
 # game/events/dreams/dekesha.rpy:28
 translate vietnamese d_Dekesha_by_Darrdorack_2_c54e7519:
 
-    # th "This is.. [dekesha], I hate this stuck up, bitch.."
-    th "This is.. [dekesha], I hate this stuck up, bitch.."
+    # th "This is... [dekesha], I hate this stuck up, bitch..."
+    th "This is... [dekesha], I hate this stuck up, bitch..."
 
 # game/events/dreams/dekesha.rpy:29
 translate vietnamese d_Dekesha_by_Darrdorack_2_9edafb02:
@@ -662,8 +662,8 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_9edafb02:
 # game/events/dreams/dekesha.rpy:59
 translate vietnamese d_Dekesha_by_Darrdorack_2_83babf93:
 
-    # th "She's irritable, even now.."
-    th "She's irritable, even now.."
+    # th "She's irritable, even now..."
+    th "She's irritable, even now..."
 
 # game/events/dreams/dekesha.rpy:115
 translate vietnamese d_Dekesha_by_Darrdorack_2_29b08e81:
@@ -680,8 +680,8 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_c6fda5df:
 # game/events/dreams/dekesha.rpy:216
 translate vietnamese d_Dekesha_by_Darrdorack_2_slap_01ce172a:
 
-    # th "Ah.. time to go, I guess this bitch never learns."
-    th "Ah.. time to go, I guess this bitch never learns."
+    # th "Ah... time to go, I guess this bitch never learns."
+    th "Ah... time to go, I guess this bitch never learns."
 
 # game/events/dreams/dekesha.rpy:230
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_aef18e13:

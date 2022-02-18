@@ -27,14 +27,14 @@ translate vietnamese lexi_3_edd1bade:
 # game/characters/lexi/ev_3.rpy:8
 translate vietnamese lexi_3_221e6c9d:
 
-    # me "I guess.."
-    me "Chắc vậy.."
+    # me "I guess..."
+    me "Chắc vậy..."
 
 # game/characters/lexi/ev_3.rpy:10
 translate vietnamese lexi_3_a8fe04ed:
 
-    # lexi "You don't look too enthusiastic.. How about this - find me ice cream and I'll give you a kiss, so ho.."
-    lexi "Trông anh không quá nhiệt tình nhỉ.. Thế này thì sao - tìm cho em cây kem và em sẽ hôn anh, vì vậ.."
+    # lexi "You don't look too enthusiastic... How about this - find me ice cream and I'll give you a kiss, so ho..."
+    lexi "Trông anh không quá nhiệt tình nhỉ... Thế này thì sao - tìm cho em cây kem và em sẽ hôn anh, vì vậ..."
 
 # game/characters/lexi/ev_3.rpy:11
 translate vietnamese lexi_3_6a1c99e1:
@@ -147,8 +147,8 @@ translate vietnamese lexi_3_1_307d6f15:
 # game/characters/lexi/ev_3.rpy:51
 translate vietnamese lexi_3_1_32ca07c1:
 
-    # lexi "Yes she is.."
-    lexi "Em ấy là vậy đấy.."
+    # lexi "Yes she is..."
+    lexi "Em ấy là vậy đấy..."
 
 # game/characters/lexi/ev_3.rpy:52
 translate vietnamese lexi_3_1_e3c20caa:
@@ -165,8 +165,8 @@ translate vietnamese lexi_3_1_42a9c358:
 # game/characters/lexi/ev_3.rpy:55
 translate vietnamese lexi_3_1_a2d692a7:
 
-    # lexi "I hope she can remain like this forever.."
-    lexi "Em hy vọng em ấy có thể mãi mãi như thế này.."
+    # lexi "I hope she can remain like this forever..."
+    lexi "Em hy vọng em ấy có thể mãi mãi như thế này..."
 
 # game/characters/lexi/ev_3.rpy:58
 translate vietnamese lexi_3_1_b2658a22:
@@ -183,8 +183,8 @@ translate vietnamese lexi_3_1_08ca5766:
 # game/characters/lexi/ev_3.rpy:61
 translate vietnamese lexi_3_1_e58f70b7:
 
-    # me "Just now you looked so sad tha.."
-    me "Vừa rồi em trông rất buồ.."
+    # me "Just now you looked so sad tha..."
+    me "Vừa rồi em trông rất buồ..."
 
 # game/characters/lexi/ev_3.rpy:63
 translate vietnamese lexi_3_1_de416a51:
@@ -207,8 +207,8 @@ translate vietnamese lexi_3_1_ff81ca9f:
 # game/characters/lexi/ev_3.rpy:67
 translate vietnamese lexi_3_1_34e25e4e:
 
-    # me "{size=-10}Okay..{/size}"
-    me "{size=-10}Okay..{/size}"
+    # me "{size=-10}Okay...{/size}"
+    me "{size=-10}Okay...{/size}"
 
 # game/characters/lexi/ev_3.rpy:70
 translate vietnamese lexi_3_1_0bf9d2d2:
@@ -237,8 +237,8 @@ translate vietnamese lexi_3_1_b81b66b9:
 # game/characters/lexi/ev_3.rpy:82
 translate vietnamese lexi_3_1_9d3573e4:
 
-    # lexi "You were here for so long and actually never met her.. just wow."
-    lexi "Anh đã ở đây khá lâu và thực sự chưa bao giờ gặp cô ấy.. thật là wow."
+    # lexi "You were here for so long and actually never met her... just wow."
+    lexi "Anh đã ở đây khá lâu và thực sự chưa bao giờ gặp cô ấy... thật là wow."
 
 # game/characters/lexi/ev_3.rpy:87
 translate vietnamese lexi_3_2_552bb030:
@@ -261,8 +261,8 @@ translate vietnamese lexi_3_2_14acf287:
 # game/characters/lexi/ev_3.rpy:91
 translate vietnamese lexi_3_2_01aa02c6:
 
-    # me "This apocalypse is really weird.."
-    me "Ngày tận thế này thực sự kỳ lạ.."
+    # me "This apocalypse is really weird..."
+    me "Ngày tận thế này thực sự kỳ lạ..."
 
 # game/characters/lexi/ev_3.rpy:92
 translate vietnamese lexi_3_2_5bdf9252:
@@ -285,8 +285,8 @@ translate vietnamese lexi_3_2_58821e1d:
 # game/characters/lexi/ev_3.rpy:96
 translate vietnamese lexi_3_2_51c7a862:
 
-    # me "That's so weird.."
-    me "Thật là kỳ lạ.."
+    # me "That's so weird..."
+    me "Thật là kỳ lạ..."
 
 # game/characters/lexi/ev_3.rpy:99
 translate vietnamese lexi_3_2_3f5fe95b:
@@ -297,8 +297,8 @@ translate vietnamese lexi_3_2_3f5fe95b:
 # game/characters/lexi/ev_3.rpy:100
 translate vietnamese lexi_3_2_d1c7a72f:
 
-    # th "Yeah.. how does it even work? Maybe I'll find it out one day."
-    th "Yeah .. nó hoạt động như thế nào? Có lẽ một ngày nào đó mình sẽ tìm ra."
+    # th "Yeah... how does it even work? Maybe I'll find it out one day."
+    th "Yeah ... nó hoạt động như thế nào? Có lẽ một ngày nào đó mình sẽ tìm ra."
 
 # game/characters/lexi/ev_3.rpy:102
 translate vietnamese lexi_3_2_e36790dc:
@@ -309,14 +309,14 @@ translate vietnamese lexi_3_2_e36790dc:
 # game/characters/lexi/ev_3.rpy:104
 translate vietnamese lexi_3_2_ba5de9fb:
 
-    # lexi "I long for those days when my only worry was to get good grades, when everything was okay.."
-    lexi "Em khao khát những ngày mà nỗi lo duy nhất là đạt điểm cao, khi mọi thứ đều ổn.."
+    # lexi "I long for those days when my only worry was to get good grades, when everything was okay..."
+    lexi "Em khao khát những ngày mà nỗi lo duy nhất là đạt điểm cao, khi mọi thứ đều ổn..."
 
 # game/characters/lexi/ev_3.rpy:108
 translate vietnamese lexi_3_menu_164f99e1:
 
-    # lexi "Hmmm.."
-    lexi "Hmmm.."
+    # lexi "Hmmm..."
+    lexi "Hmmm..."
 
 # game/characters/lexi/ev_3.rpy:110
 translate vietnamese lexi_3_menu_bb025b6a:
@@ -345,8 +345,8 @@ translate vietnamese lexi_3_menu_b1a6cdc4:
 # game/characters/lexi/ev_3.rpy:116
 translate vietnamese lexi_3_menu_61b53eb9:
 
-    # lexi "You're right. I was dumb, innocent, and clueless back then.."
-    lexi "anh đúng đấy. Hồi đó em ngốc nghếch, ngây thơ và không biết gì.."
+    # lexi "You're right. I was dumb, innocent, and clueless back then..."
+    lexi "anh đúng đấy. Hồi đó em ngốc nghếch, ngây thơ và không biết gì..."
 
 # game/characters/lexi/ev_3.rpy:117
 translate vietnamese lexi_3_menu_b2658a22:
@@ -363,14 +363,14 @@ translate vietnamese lexi_3_menu_0fcc970e:
 # game/characters/lexi/ev_3.rpy:120
 translate vietnamese lexi_3_menu_1e46bd12:
 
-    # th "That was a stupid question.."
-    th "Đó là một câu hỏi ngu ngốc.."
+    # th "That was a stupid question..."
+    th "Đó là một câu hỏi ngu ngốc..."
 
 # game/characters/lexi/ev_3.rpy:125
 translate vietnamese lexi_3_menu_f6fa658c:
 
-    # lexi "Mom and dad.."
-    lexi "Mẹ và bố.."
+    # lexi "Mom and dad..."
+    lexi "Mẹ và bố..."
 
 # game/characters/lexi/ev_3.rpy:126
 translate vietnamese lexi_3_menu_697c5fdc:

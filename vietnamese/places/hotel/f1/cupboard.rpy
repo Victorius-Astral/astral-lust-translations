@@ -27,8 +27,8 @@ translate vietnamese room_f1_cupboard_menu1_4fee96dd:
 # game/places/hotel/f1/cupboard.rpy:36
 translate vietnamese room_f1_cupboard_menu1_d93ae52b:
 
-    # th "Ehm.. It might come in handy.."
-    th "Ehm .. Nó có thể hữu ích.."
+    # th "Ehm... It might come in handy..."
+    th "Ehm ... Nó có thể hữu ích..."
 
 translate vietnamese strings:
 

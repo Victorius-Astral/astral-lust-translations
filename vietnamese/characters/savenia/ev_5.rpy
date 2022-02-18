@@ -33,8 +33,8 @@ translate vietnamese savenia_5_part2_2680f2d5:
 # game/characters/savenia/ev_5.rpy:32
 translate vietnamese savenia_5_part2_a2a1b8b9:
 
-    # me "It would be fast to move using it.. noisy as hell, though."
-    me "Nếu dùng nó để di chuyển thì sẽ rất nhanh.. mặc dù nó ồn vãi đái."
+    # me "It would be fast to move using it... noisy as hell, though."
+    me "Nếu dùng nó để di chuyển thì sẽ rất nhanh... mặc dù nó ồn vãi đái."
 
 # game/characters/savenia/ev_5.rpy:36
 translate vietnamese savenia_5_part2_79f0f329:
@@ -51,8 +51,8 @@ translate vietnamese savenia_5_part2_b619b39a:
 # game/characters/savenia/ev_5.rpy:40
 translate vietnamese savenia_5_part2_e78d1617:
 
-    # me "Ah.. finally. I should let her know."
-    me "Ah.. cuối cùng thì. Mình nên báo cho cô ấy thôi."
+    # me "Ah... finally. I should let her know."
+    me "Ah... cuối cùng thì. Mình nên báo cho cô ấy thôi."
 
 # game/characters/savenia/ev_5.rpy:43
 translate vietnamese savenia_5_part2_50f4a088:
@@ -141,8 +141,8 @@ translate vietnamese savenia_5_part2_4a22c503:
 # game/characters/savenia/ev_5.rpy:77
 translate vietnamese savenia_5_part2_bc9c679d:
 
-    # savenia "My bike.. I missed it so much."
-    savenia "Xe của tớ.. tớ nhớ nó rất nhiều."
+    # savenia "My bike... I missed it so much."
+    savenia "Xe của tớ... tớ nhớ nó rất nhiều."
 
 # game/characters/savenia/ev_5.rpy:78
 translate vietnamese savenia_5_part2_ed914e19:
@@ -172,7 +172,7 @@ translate vietnamese savenia_5_part2_c584afa1:
 translate vietnamese savenia_5_part2_d41caf51:
 
     # savenia "No, not yet. I'll listen to you and let my leg recover first."
-    savenia "Không, vẫn chưa đâu. Tớ sẽ lắng nghe cậu và để chân tớ hồi phục trước.."
+    savenia "Không, vẫn chưa đâu. Tớ sẽ lắng nghe cậu và để chân tớ hồi phục trước..."
 
 # game/characters/savenia/ev_5.rpy:90
 translate vietnamese savenia_5_part2_eb38f17b:
@@ -351,8 +351,8 @@ translate vietnamese savenia_5_part2_64ab56c7:
 # game/characters/savenia/ev_5.rpy:169
 translate vietnamese savenia_5_part2_7ccc07a5:
 
-    # me "Fuck.."
-    me "Đệt.."
+    # me "Fuck..."
+    me "Đệt..."
 
 # game/characters/savenia/ev_5.rpy:177
 translate vietnamese savenia_5_part2_91f8cf8b:
@@ -393,8 +393,8 @@ translate vietnamese savenia_5_part2_7b497847:
 # game/characters/savenia/ev_5.rpy:185
 translate vietnamese savenia_5_part2_b273d15b:
 
-    # me "Ah.."
-    me "Ah.."
+    # me "Ah..."
+    me "Ah..."
 
 # game/characters/savenia/ev_5.rpy:191
 translate vietnamese savenia_5_part2_e3bdf499:

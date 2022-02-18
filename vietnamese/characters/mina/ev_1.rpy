@@ -117,8 +117,8 @@ translate vietnamese mina_1_3820771a_2:
 # game/characters/mina/ev_1.rpy:37
 translate vietnamese mina_1_8b3c87f7:
 
-    # th "What a silly face.."
-    th "Thật là một khuôn mặt ngớ ngẩn.."
+    # th "What a silly face..."
+    th "Thật là một khuôn mặt ngớ ngẩn..."
 
 # game/characters/mina/ev_1.rpy:43
 translate vietnamese mina_1_5bd9deae:
@@ -177,8 +177,8 @@ translate vietnamese mina_1_1_646b9a2c:
 # game/characters/mina/ev_1.rpy:61
 translate vietnamese mina_1_1_38684c7d:
 
-    # me "No.."
-    me "Chưa.."
+    # me "No..."
+    me "Chưa..."
 
 # game/characters/mina/ev_1.rpy:63
 translate vietnamese mina_1_1_f8d9c97f:
@@ -201,8 +201,8 @@ translate vietnamese mina_1_1_92b2121c:
 # game/characters/mina/ev_1.rpy:68
 translate vietnamese mina_1_1_a08f2e91:
 
-    # mina "Got it! Now third que.."
-    mina "Hiểu rồi! Bây giờ lag câu hỏi thứ ba.."
+    # mina "Got it! Now third que..."
+    mina "Hiểu rồi! Bây giờ lag câu hỏi thứ ba..."
 
 # game/characters/mina/ev_1.rpy:69
 translate vietnamese mina_1_1_32a56f34:
@@ -243,8 +243,8 @@ translate vietnamese mina_1_1_7a17d33d:
 # game/characters/mina/ev_1.rpy:82
 translate vietnamese mina_1_1_8b32bae8:
 
-    # mina "Wait.. you are playing with me right?"
-    mina "Chờ đã.. anh đang chơi em phải không?"
+    # mina "Wait... you are playing with me right?"
+    mina "Chờ đã... anh đang chơi em phải không?"
 
 # game/characters/mina/ev_1.rpy:83
 translate vietnamese mina_1_1_3820771a_2:
@@ -303,8 +303,8 @@ translate vietnamese mina_1_1_7a17d33d_1:
 # game/characters/mina/ev_1.rpy:111
 translate vietnamese mina_1_1_f59885fa:
 
-    # th "That's some enthusiasm.."
-    th "Khá là nhiệt tình đấy.."
+    # th "That's some enthusiasm..."
+    th "Khá là nhiệt tình đấy..."
 
 # game/characters/mina/ev_1.rpy:112
 translate vietnamese mina_1_1_e3386dcc:
@@ -345,8 +345,8 @@ translate vietnamese mina_1_1_be30cf57:
 # game/characters/mina/ev_1.rpy:122
 translate vietnamese mina_1_1_d84f7743:
 
-    # mina "Umm.. sorry I got too excited.."
-    mina "Umm.. xin lỗi em quá phấn khích.."
+    # mina "Umm... sorry I got too excited..."
+    mina "Umm... xin lỗi em quá phấn khích..."
 
 # game/characters/mina/ev_1.rpy:123
 translate vietnamese mina_1_1_098a7c32:

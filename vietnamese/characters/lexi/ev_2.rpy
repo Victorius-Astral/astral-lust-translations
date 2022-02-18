@@ -51,8 +51,8 @@ translate vietnamese lexi_2_1_4373b715:
 # game/characters/lexi/ev_2.rpy:23
 translate vietnamese lexi_2_1_911b4d65:
 
-    # lexi "Sorry.."
-    lexi "Em rất tiếc .."
+    # lexi "Sorry..."
+    lexi "Em rất tiếc ..."
 
 # game/characters/lexi/ev_2.rpy:24
 translate vietnamese lexi_2_1_150f5751:
@@ -178,7 +178,7 @@ translate vietnamese lexi_2_1a_215e479a:
 translate vietnamese lexi_2_1a_dd63e72d:
 
     # lexi "I miss those days when you could do whatever you wanted. I miss school, I even miss my parents scolding Mina and me."
-    lexi "Em nhớ những ngày mà có thể làm bất cứ điều gì mình muốn. Em nhớ trường, thậm chí còn nhớ việc bố mẹ mắng Mina và mình ”.."
+    lexi "Em nhớ những ngày mà có thể làm bất cứ điều gì mình muốn. Em nhớ trường, thậm chí còn nhớ việc bố mẹ mắng Mina và mình ”..."
 
 # game/characters/lexi/ev_2.rpy:62
 translate vietnamese lexi_2_1a_0f7712c0:
@@ -225,8 +225,8 @@ translate vietnamese lexi_2_1a_52122a1d:
 # game/characters/lexi/ev_2.rpy:78
 translate vietnamese lexi_2_1a_1688a806:
 
-    # lexi "Hmm.. Mina wanted to help. I rejected her because it's too dangerous. Grace is well, Grace."
-    lexi "Hmm.. Mina muốn giúp đỡ. Em đã từ chối em ấy vì nó quá nguy hiểm. Grace thì ..."
+    # lexi "Hmm... Mina wanted to help. I rejected her because it's too dangerous. Grace is well, Grace."
+    lexi "Hmm... Mina muốn giúp đỡ. Em đã từ chối em ấy vì nó quá nguy hiểm. Grace thì ..."
 
 # game/characters/lexi/ev_2.rpy:79
 translate vietnamese lexi_2_1a_e23b77e6:
@@ -273,8 +273,8 @@ translate vietnamese lexi_2_1a_eaac4633:
 # game/characters/lexi/ev_2.rpy:93
 translate vietnamese lexi_2_1a_b96757e3:
 
-    # th "How can she smile talking about her own death.."
-    th "Làm sao em ấy có thể mỉm cười khi nói về cái chết của chính mình.."
+    # th "How can she smile talking about her own death..."
+    th "Làm sao em ấy có thể mỉm cười khi nói về cái chết của chính mình..."
 
 # game/characters/lexi/ev_2.rpy:99
 translate vietnamese lexi_2_1a_37a4c182:
@@ -291,8 +291,8 @@ translate vietnamese lexi_2_1a_c8049230:
 # game/characters/lexi/ev_2.rpy:102
 translate vietnamese lexi_2_1a_b96757e3_1:
 
-    # th "How can she smile talking about her own death.."
-    th "Làm sao cô ấy có thể mỉm cười khi nói về cái chết của chính mình.."
+    # th "How can she smile talking about her own death..."
+    th "Làm sao cô ấy có thể mỉm cười khi nói về cái chết của chính mình..."
 
 # game/characters/lexi/ev_2.rpy:111
 translate vietnamese lexi_2_2_6e43cde6:
@@ -339,8 +339,8 @@ translate vietnamese lexi_2_2_abb43b4d:
 # game/characters/lexi/ev_2.rpy:122
 translate vietnamese lexi_2_2_fbda8c62:
 
-    # lexi "The blood is still fresh.. they died, at most, few hours ago."
-    lexi "Máu vẫn còn tươi .. họ đã chết, nhiều nhất là vài giờ trước."
+    # lexi "The blood is still fresh... they died, at most, few hours ago."
+    lexi "Máu vẫn còn tươi ... họ đã chết, nhiều nhất là vài giờ trước."
 
 # game/characters/lexi/ev_2.rpy:124
 translate vietnamese lexi_2_2_163baecd:
@@ -363,8 +363,8 @@ translate vietnamese lexi_2_2_3820771a:
 # game/characters/lexi/ev_2.rpy:127
 translate vietnamese lexi_2_2_539cbece:
 
-    # th "The world really has gone to hell.."
-    th "Thế giới thực sự đã biến thành địa ngục.."
+    # th "The world really has gone to hell..."
+    th "Thế giới thực sự đã biến thành địa ngục..."
 
 # game/characters/lexi/ev_2.rpy:128
 translate vietnamese lexi_2_2_3fe0d827:

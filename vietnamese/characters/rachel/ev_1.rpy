@@ -9,8 +9,8 @@ translate vietnamese rachel_1_3ab3935c:
 # game/characters/rachel/ev_1.rpy:13
 translate vietnamese rachel_1_a942b99a:
 
-    # th "It looks like one of [lil_fox] kind.. She gives me eerie vibes, though."
-    th "Cô ấy trông giống như cáo nhỏ vậy.. Tuy nhiên, cô ấy mang lại cho tôi những cảm giác kỳ lạ."
+    # th "It looks like one of [lil_fox] kind... She gives me eerie vibes, though."
+    th "Cô ấy trông giống như Tiểu Cáo vậy... Tuy nhiên, cô ấy mang lại cho tôi những cảm giác kỳ lạ."
 
 # game/characters/rachel/ev_1.rpy:22
 translate vietnamese rachel_1_8774681a:
@@ -33,14 +33,14 @@ translate vietnamese rachel_1_part2_37dab256:
 # game/characters/rachel/ev_1.rpy:34
 translate vietnamese rachel_1_part2_8e0fc54e:
 
-    # th "I have a really bad feelings about this.."
-    th "Mình có một cảm giác thực sự tồi tệ về điều này.."
+    # th "I have a really bad feelings about this..."
+    th "Mình có một cảm giác thực sự tồi tệ về điều này..."
 
 # game/characters/rachel/ev_1.rpy:38
 translate vietnamese rachel_1_part2_4c18410a:
 
-    # "???" "Grr.." (who_color=rachel.who_args["color"])
-    "???" "Grr.." (who_color=rachel.who_args["color"])
+    # "???" "Grr..." (who_color=rachel.who_args["color"])
+    "???" "Grr..." (who_color=rachel.who_args["color"])
 
 # game/characters/rachel/ev_1.rpy:40
 translate vietnamese rachel_1_part2_1e6083e8:
@@ -75,8 +75,8 @@ translate vietnamese rachel_1_part3_69bc4932:
 # game/characters/rachel/ev_1.rpy:58
 translate vietnamese rachel_1_part3_06fe4f6d:
 
-    # "???" "Eh.. My head.." (who_color=rachel.who_args["color"])
-    "???" "Eh.. đầu của tôi.." (who_color=rachel.who_args["color"])
+    # "???" "Eh... My head..." (who_color=rachel.who_args["color"])
+    "???" "Eh... đầu của tôi..." (who_color=rachel.who_args["color"])
 
 # game/characters/rachel/ev_1.rpy:59
 translate vietnamese rachel_1_part3_5090e628:
@@ -87,8 +87,8 @@ translate vietnamese rachel_1_part3_5090e628:
 # game/characters/rachel/ev_1.rpy:63
 translate vietnamese rachel_1_part3_62cb1d86:
 
-    # "???" "I don't feel well.." (who_color=rachel.who_args["color"])
-    "???" "Tôi cảm thấy không khỏe.." (who_color=rachel.who_args["color"])
+    # "???" "I don't feel well..." (who_color=rachel.who_args["color"])
+    "???" "Tôi cảm thấy không khỏe..." (who_color=rachel.who_args["color"])
 
 # game/characters/rachel/ev_1.rpy:64
 translate vietnamese rachel_1_part3_83b5ef31:
@@ -111,14 +111,14 @@ translate vietnamese rachel_1_part3_7ba6634b:
 # game/characters/rachel/ev_1.rpy:73
 translate vietnamese rachel_1_part3_f17a4200:
 
-    # "???" "I got corrupted? But why did I recover? It's impossible.." (who_color=rachel.who_args["color"])
-    "???" "Tôi đã bị sa đọa sao? Nhưng tại sao tôi được phục hồi? Điều đó là không thể.." (who_color=rachel.who_args["color"])
+    # "???" "I got corrupted? But why did I recover? It's impossible..." (who_color=rachel.who_args["color"])
+    "???" "Tôi đã bị sa đọa sao? Nhưng tại sao tôi được phục hồi? Điều đó là không thể..." (who_color=rachel.who_args["color"])
 
 # game/characters/rachel/ev_1.rpy:74
 translate vietnamese rachel_1_part3_9425dbd1:
 
     # me "I don't know what happened to you, but I've meet one of your kind, Little Fox. She was completely fine, just hungry."
-    me "Tôi không biết chuyện gì đã xảy ra với cô, nhưng tôi đã gặp một trong những người của cô, Cáo nhỏ. Cô ấy hoàn toàn ổn, chỉ hoi đói thôi."
+    me "Tôi không biết chuyện gì đã xảy ra với cô, nhưng tôi đã gặp một trong những người của cô, Tiểu Cáo. Cô ấy hoàn toàn ổn, chỉ hoi đói thôi."
 
 # game/characters/rachel/ev_1.rpy:78
 translate vietnamese rachel_1_part3_d8a4fac6:
@@ -130,7 +130,7 @@ translate vietnamese rachel_1_part3_d8a4fac6:
 translate vietnamese rachel_1_part3_3b6b7167:
 
     # me "[me]. So you know Little Fox?"
-    me "[me]. Vậy là cô biết Cáo nhỏ?"
+    me "[me]. Vậy là cô biết Tiểu Cáo à?"
 
 # game/characters/rachel/ev_1.rpy:83
 translate vietnamese rachel_1_part3_f2125c99:
@@ -141,8 +141,8 @@ translate vietnamese rachel_1_part3_f2125c99:
 # game/characters/rachel/ev_1.rpy:84
 translate vietnamese rachel_1_part3_e99d0a76:
 
-    # me "It was you? That's literally the worst name for a fox girl.."
-    me "Đó là cô? Đấy thực sự là cái tên tồi tệ nhất dành cho một cô gái hồ ly đấy.."
+    # me "It was you? That's literally the worst name for a fox girl..."
+    me "Đó là cô? Đấy thực sự là cái tên tồi tệ nhất dành cho một cô gái hồ ly đấy..."
 
 # game/characters/rachel/ev_1.rpy:85
 translate vietnamese rachel_1_part3_6c710130:
@@ -153,20 +153,20 @@ translate vietnamese rachel_1_part3_6c710130:
 # game/characters/rachel/ev_1.rpy:89
 translate vietnamese rachel_1_part3_1ad56639:
 
-    # rachel "I feel no shrine.."
-    rachel "Tôi cảm thấy không có đền thờ.."
+    # rachel "I feel no shrine..."
+    rachel "Tôi cảm thấy không có đền thờ..."
 
 # game/characters/rachel/ev_1.rpy:93
 translate vietnamese rachel_1_part3_4e875cf7:
 
     # me "Little Fox couldn't feel it too."
-    me "Cáo nhỏ cũng không cảm nhận được."
+    me "Tiểu Cáo cũng không cảm nhận được."
 
 # game/characters/rachel/ev_1.rpy:94
 translate vietnamese rachel_1_part3_4241aa47:
 
-    # rachel "That's bad.."
-    rachel "Thật tệ.."
+    # rachel "That's bad..."
+    rachel "Thật tệ..."
 
 # game/characters/rachel/ev_1.rpy:95
 translate vietnamese rachel_1_part3_ecd768ba:
@@ -190,13 +190,13 @@ translate vietnamese rachel_1_part3_77a32452:
 translate vietnamese rachel_1_part3_8652ea7d:
 
     # rachel "If there were any shrines I would feel it, but I feel nothing. Little Fox would be able to find me once the shrine was built."
-    rachel "Nếu có bất kỳ đền thờ nào tôi sẽ cảm nhận được, nhưng tôi không cảm thấy gì cả. Cáo nhỏ sẽ có thể tìm thấy tôi khi ngôi đền được xây dựng."
+    rachel "Nếu có bất kỳ đền thờ nào tôi sẽ cảm nhận được, nhưng tôi không cảm thấy gì cả. Tiểu Cáo sẽ có thể tìm thấy tôi khi ngôi đền được xây dựng."
 
 # game/characters/rachel/ev_1.rpy:102
 translate vietnamese rachel_1_part3_28cfeb73:
 
     # th "So [lil_fox] would live at my house if I had this shrine?"
-    th "Vậy, Cáo nhỏ sẽ sống ở nhà mình nếu mình có đền thờ này?"
+    th "Vậy, Tiểu Cáo sẽ sống ở nhà mình nếu mình có đền thờ này?"
 
 # game/characters/rachel/ev_1.rpy:103
 translate vietnamese rachel_1_part3_a81828c8:
@@ -291,14 +291,14 @@ translate vietnamese rachel_1_part3_2703e2b5:
 # game/characters/rachel/ev_1.rpy:124
 translate vietnamese rachel_1_part3_495593d6:
 
-    # th "And I want to have [lil_fox] at home.."
-    th "Và tôi muốn có Cáo nhỏ ở nhà.."
+    # th "And I want to have [lil_fox] at home..."
+    th "Và tôi muốn có Tiểu Cáo ở nhà..."
 
 # game/characters/rachel/ev_1.rpy:125
 translate vietnamese rachel_1_part3_aa9deaf7:
 
-    # rachel "Interesting.. I'm not sure if I can trust you, though."
-    rachel "Thật thú vị.. tôi không chắc liệu mình có thể tin tưởng anh hay không."
+    # rachel "Interesting... I'm not sure if I can trust you, though."
+    rachel "Thật thú vị... tôi không chắc liệu mình có thể tin tưởng anh hay không."
 
 # game/characters/rachel/ev_1.rpy:126
 translate vietnamese rachel_1_part3_ca6be63d:
@@ -375,14 +375,14 @@ translate vietnamese rachel_1_part3_ce85af31:
 # game/characters/rachel/ev_1.rpy:150
 translate vietnamese rachel_1_part3_fbf21764:
 
-    # rachel "For starters.. 500 stones, 100 wood, and some other stuff."
-    rachel "Để bắt đầu .. 500 đá, 100 gỗ và một số thứ khác."
+    # rachel "For starters... 500 stones, 100 wood, and some other stuff."
+    rachel "Để bắt đầu ... 500 đá, 100 gỗ và một số thứ khác."
 
 # game/characters/rachel/ev_1.rpy:151
 translate vietnamese rachel_1_part3_c8bd0b74:
 
-    # me "Holy shit.."
-    me "Vãi cứt.."
+    # me "Holy shit..."
+    me "Vãi cứt..."
 
 # game/characters/rachel/ev_1.rpy:152
 translate vietnamese rachel_1_part3_6a32ea89:
@@ -430,8 +430,8 @@ translate vietnamese rachel_1_part3_f24febd4:
 # game/characters/rachel/ev_1.rpy:73
 translate vietnamese rachel_1_part3_efdeafdd:
 
-    # "???" "Did I get corrupted? But why did I recover? It's impossible.." (who_color=rachel.who_args["color"])
-    "???" "Did I get corrupted? But why did I recover? It's impossible.." (who_color=rachel.who_args["color"])
+    # "???" "Did I get corrupted? But why did I recover? It's impossible..." (who_color=rachel.who_args["color"])
+    "???" "Did I get corrupted? But why did I recover? It's impossible..." (who_color=rachel.who_args["color"])
 
 # game/characters/rachel/ev_1.rpy:74
 translate vietnamese rachel_1_part3_d03ad052:
@@ -448,8 +448,8 @@ translate vietnamese rachel_1_part3_604d5677:
 # game/characters/rachel/ev_1.rpy:84
 translate vietnamese rachel_1_part3_65355671:
 
-    # me "Was it you? That's literally the worst name for a fox girl.."
-    me "Was it you? That's literally the worst name for a fox girl.."
+    # me "Was it you? That's literally the worst name for a fox girl..."
+    me "Was it you? That's literally the worst name for a fox girl..."
 
 # game/characters/rachel/ev_1.rpy:101
 translate vietnamese rachel_1_part3_bca0f1e3:
@@ -480,4 +480,3 @@ translate vietnamese rachel_1_part3_389ce1c9:
 
     # me "I guess, you would need some materials, right?"
     me "I guess, you would need some materials, right?"
-

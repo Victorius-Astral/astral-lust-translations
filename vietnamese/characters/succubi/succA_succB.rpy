@@ -27,14 +27,14 @@ translate vietnamese succA_succB_ea8a0704:
 # game/characters/succubi/succA_succB.rpy:26
 translate vietnamese succA_succB_dd9636c7:
 
-    # me "Ahh.."
-    me "Ahh.."
+    # me "Ahh..."
+    me "Ahh..."
 
 # game/characters/succubi/succA_succB.rpy:27
 translate vietnamese succA_succB_d1d90fba:
 
-    # me "Good.."
-    me "Tốt.."
+    # me "Good..."
+    me "Tốt..."
 
 # game/characters/succubi/succA_succB.rpy:28
 translate vietnamese succA_succB_6a6e1408:
@@ -93,8 +93,8 @@ translate vietnamese succA_succB_13d88db8:
 # game/characters/succubi/succA_succB.rpy:48
 translate vietnamese succA_succB_dd9636c7_1:
 
-    # me "Ahh.."
-    me "Ahh.."
+    # me "Ahh..."
+    me "Ahh..."
 
 # game/characters/succubi/succA_succB.rpy:49
 translate vietnamese succA_succB_e77f2501:
@@ -123,14 +123,14 @@ translate vietnamese succA_succB_6e88fc41:
 # game/characters/succubi/succA_succB.rpy:62
 translate vietnamese succA_succB_05010fd4:
 
-    # succB "Mnn~ [succB_master], you know how to treasure my pussy well.. I love it~"
-    succB "Mnn~ [succB_master] biết làm thế nào để nâng niu âm hộ của em.. Tôi yêu nó~"
+    # succB "Mnn~ [succB_master], you know how to treasure my pussy well... I love it~"
+    succB "Mnn~ [succB_master] biết làm thế nào để nâng niu âm hộ của em... Tôi yêu nó~"
 
 # game/characters/succubi/succA_succB.rpy:63
 translate vietnamese succA_succB_af4706f7:
 
-    # succA "I'm jealous now.."
-    succA "Bây giờ tôi lại ghen tị rồi đấy.."
+    # succA "I'm jealous now..."
+    succA "Bây giờ tôi lại ghen tị rồi đấy..."
 
 # game/characters/succubi/succA_succB.rpy:64
 translate vietnamese succA_succB_5d26d244:
@@ -141,8 +141,8 @@ translate vietnamese succA_succB_5d26d244:
 # game/characters/succubi/succA_succB.rpy:65
 translate vietnamese succA_succB_145a2f94:
 
-    # succA "Mgmhm.. Yeah, His dick is the best."
-    succA "Mgmhm.. Yeah, cu của ngài ấy là tốt nhất."
+    # succA "Mgmhm... Yeah, His dick is the best."
+    succA "Mgmhm... Yeah, cu của ngài ấy là tốt nhất."
 
 # game/characters/succubi/succA_succB.rpy:66
 translate vietnamese succA_succB_21a96653:
@@ -237,8 +237,8 @@ translate vietnamese succA_succB_2330ab2b:
 # game/characters/succubi/succA_succB.rpy:108
 translate vietnamese succA_succB_fd0f5221:
 
-    # succA "Ohh.. I wanted His semen.."
-    succA "Ohh.. Tôi muốn tinh dịch của anh ấy.."
+    # succA "Ohh... I wanted His semen..."
+    succA "Ohh... Tôi muốn tinh dịch của anh ấy..."
 
 # game/characters/succubi/succA_succB.rpy:109
 translate vietnamese succA_succB_95684b9c:
@@ -273,8 +273,8 @@ translate vietnamese succA_succB_b6d8f27b:
 # game/characters/succubi/succA_succB.rpy:118
 translate vietnamese succA_succB_ee088285:
 
-    # succB "[succB_master]~ You've filled my womb, it's leaking out. You're the best.. I love you, [succB_master]~"
-    succB "[succB_master]~ Ngài đã lấp đầy tử cung của em rồi, nó đang rò rỉ ra ngoài. Ngài là tuyệt nhất, tôi yêu [succB_master]~"
+    # succB "[succB_master]~ You've filled my womb, it's leaking out. You're the best... I love you, [succB_master]~"
+    succB "[succB_master]~ Ngài đã lấp đầy tử cung của em rồi, nó đang rò rỉ ra ngoài. Ngài là tuyệt nhất, em yêu [succB_master]~"
 
 # game/characters/succubi/succA_succB.rpy:121
 translate vietnamese succA_succB_482a070f:
@@ -285,8 +285,8 @@ translate vietnamese succA_succB_482a070f:
 # game/characters/succubi/succA_succB.rpy:122
 translate vietnamese succA_succB_34ab5988:
 
-    # succA "Now, I'm totally jealous.."
-    succA "Bây giờ, tôi thậ sự ghen rồi đấy.."
+    # succA "Now, I'm totally jealous..."
+    succA "Bây giờ, tôi thậ sự ghen rồi đấy..."
 
 # game/characters/succubi/succA_succB.rpy:123
 translate vietnamese succA_succB_4b46e9e6:
@@ -303,8 +303,8 @@ translate vietnamese succA_succB_393a2d83:
 # game/characters/succubi/succA_succB.rpy:129
 translate vietnamese succA_succB_f2c4057c:
 
-    # succA "Why don't you fuck me again? I also want your seed.."
-    succA "Sao ngài không đụ em nữa? Tôi cũng muốn hạt giống của ngài.."
+    # succA "Why don't you fuck me again? I also want your seed..."
+    succA "Sao ngài không đụ em nữa? Tôi cũng muốn hạt giống của ngài..."
 
 # game/characters/succubi/succA_succB.rpy:130
 translate vietnamese succA_succB_a933de00:
@@ -315,8 +315,8 @@ translate vietnamese succA_succB_a933de00:
 # game/characters/succubi/succA_succB.rpy:131
 translate vietnamese succA_succB_6c87e2e3:
 
-    # succA "Yes, [succA_master].."
-    succA "Vâng [succA_master].."
+    # succA "Yes, [succA_master]..."
+    succA "Vâng [succA_master]..."
 
 # game/characters/succubi/succA_succB.rpy:136
 translate vietnamese succA_succB_21ffb1a2:
@@ -339,8 +339,8 @@ translate vietnamese succA_succB_1340f329:
 # game/characters/succubi/succA_succB.rpy:164
 translate vietnamese succA_succB_3c09b382:
 
-    # me "What an eager bunch of nymphos.."
-    me "Đúng là một lũ cuồng dâm mà.."
+    # me "What an eager bunch of nymphos..."
+    me "Đúng là một lũ cuồng dâm mà..."
 
 # game/characters/succubi/succA_succB.rpy:165
 translate vietnamese succA_succB_de0b4b41:

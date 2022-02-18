@@ -75,8 +75,8 @@ translate vietnamese exp_house_var1_8e6bc7e7:
 # game/events/explore/house.rpy:63
 translate vietnamese exp_house_var2_ff0ee8f2:
 
-    # me ".. Hey?"
-    me ".. Hey?"
+    # me "... Hey?"
+    me "... Hey?"
 
 # game/events/explore/house.rpy:65
 translate vietnamese exp_house_var2_36eff8f8:

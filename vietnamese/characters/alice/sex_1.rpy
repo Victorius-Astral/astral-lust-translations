@@ -159,8 +159,8 @@ translate vietnamese alice_sex_1_part3_a80d6c56:
 # game/characters/alice/sex_1.rpy:105
 translate vietnamese alice_sex_1_part3_3951cfbc:
 
-    # me "Ahh! You're so tight.."
-    me "Ahh! Em chặt quá.."
+    # me "Ahh! You're so tight..."
+    me "Ahh! Em chặt quá..."
 
 # game/characters/alice/sex_1.rpy:106
 translate vietnamese alice_sex_1_part3_8bf5efba:
@@ -177,8 +177,8 @@ translate vietnamese alice_sex_1_part3_388a1480:
 # game/characters/alice/sex_1.rpy:117
 translate vietnamese alice_sex_1_part3_40976ab2:
 
-    # me "Ohh.."
-    me "Ohh.."
+    # me "Ohh..."
+    me "Ohh..."
 
 # game/characters/alice/sex_1.rpy:119
 translate vietnamese alice_sex_1_part3_981bc7a1:
@@ -231,8 +231,8 @@ translate vietnamese alice_sex_1_part3_7459a238:
 # game/characters/alice/sex_1.rpy:150
 translate vietnamese alice_sex_1_part3_5d2f0ca8:
 
-    # alice "Ahh.."
-    alice "Ahh.."
+    # alice "Ahh..."
+    alice "Ahh..."
 
 # game/characters/alice/sex_1.rpy:151
 translate vietnamese alice_sex_1_part3_4f5b42dd:
@@ -291,8 +291,8 @@ translate vietnamese alice_sex_1_part3_2f3d23c6_1:
 # game/characters/alice/sex_1.rpy:182
 translate vietnamese alice_sex_1_part3_5d2f0ca8_1:
 
-    # alice "Ahh.."
-    alice "Ahh.."
+    # alice "Ahh..."
+    alice "Ahh..."
 
 # game/characters/alice/sex_1.rpy:183
 translate vietnamese alice_sex_1_part3_4f5b42dd_1:

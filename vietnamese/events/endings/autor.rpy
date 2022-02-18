@@ -15,8 +15,8 @@ translate vietnamese end_author_ac5d27e2:
 # game/events/endings/autor.rpy:16
 translate vietnamese end_author_3812e5ee:
 
-    # me "I am Author.."
-    me "Tôi là tác giả.."
+    # me "I am Author..."
+    me "Tôi là tác giả..."
 
 # game/events/endings/autor.rpy:19
 translate vietnamese end_author_2de99c9a:
@@ -99,14 +99,14 @@ translate vietnamese end_author_wait_b3e76ead:
 # game/events/endings/autor.rpy:61
 translate vietnamese end_author_wait_cc7e75dd:
 
-    # me "I'm so tired.."
-    me "tôi mệt quá.."
+    # me "I'm so tired..."
+    me "tôi mệt quá..."
 
 # game/events/endings/autor.rpy:64
 translate vietnamese end_author_wait_8994d7b6:
 
-    # "Yes, you can sleep now.."
-    "Được, Ngươi có thể ngủ ngay bây giờ.."
+    # "Yes, you can sleep now..."
+    "Được, Ngươi có thể ngủ ngay bây giờ..."
 
 # game/events/endings/autor.rpy:67
 translate vietnamese end_author_wait_efbcdf46:
@@ -117,8 +117,8 @@ translate vietnamese end_author_wait_efbcdf46:
 # game/events/endings/autor.rpy:70
 translate vietnamese end_author_wait_aec79327:
 
-    # th "So tired.."
-    th "quá mệt mỏi.."
+    # th "So tired..."
+    th "quá mệt mỏi..."
 
 translate vietnamese strings:
 

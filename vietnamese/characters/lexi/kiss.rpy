@@ -123,8 +123,8 @@ translate vietnamese lexi_kiss_eb07716b:
 # game/characters/lexi/kiss.rpy:65
 translate vietnamese lexi_kiss_0f07c677:
 
-    # me "Maybe I.."
-    me "Có lẽ anh.."
+    # me "Maybe I..."
+    me "Có lẽ anh..."
 
 # game/characters/lexi/kiss.rpy:66
 translate vietnamese lexi_kiss_74605eaf:
@@ -159,8 +159,8 @@ translate vietnamese lexi_kiss_1d6675d0:
 # game/characters/lexi/kiss.rpy:71
 translate vietnamese lexi_kiss_ab43d171:
 
-    # me "Now you're playing with me.."
-    me "Giờ em lại chơi đùa với anh.."
+    # me "Now you're playing with me..."
+    me "Giờ em lại chơi đùa với anh..."
 
 # game/characters/lexi/kiss.rpy:72
 translate vietnamese lexi_kiss_bd14a3c4:
@@ -171,8 +171,8 @@ translate vietnamese lexi_kiss_bd14a3c4:
 # game/characters/lexi/kiss.rpy:73
 translate vietnamese lexi_kiss_9401900d:
 
-    # me "You surely have your fun.."
-    me "Em đang tận hưởng thú vui của mình nhỉ.."
+    # me "You surely have your fun..."
+    me "Em đang tận hưởng thú vui của mình nhỉ..."
 
 # game/characters/lexi/kiss.rpy:74
 translate vietnamese lexi_kiss_2193a987:
@@ -183,8 +183,8 @@ translate vietnamese lexi_kiss_2193a987:
 # game/characters/lexi/kiss.rpy:75
 translate vietnamese lexi_kiss_4f462946:
 
-    # me "Ahh.. I'm too.."
-    me "Ahh.. Anh c.."
+    # me "Ahh... I'm too..."
+    me "Ahh... Anh c..."
 
 # game/characters/lexi/kiss.rpy:76
 translate vietnamese lexi_kiss_1b6dca8e:
@@ -201,8 +201,8 @@ translate vietnamese lexi_kiss_e43eb9e6:
 # game/characters/lexi/kiss.rpy:91
 translate vietnamese lexi_kiss_b273d15b:
 
-    # me "Ah.."
-    me "Ah.."
+    # me "Ah..."
+    me "Ah..."
 
 # game/characters/lexi/kiss.rpy:92
 translate vietnamese lexi_kiss_76c8b268:
@@ -267,8 +267,8 @@ translate vietnamese lexi_kiss_cf744273:
 # game/characters/lexi/kiss.rpy:122
 translate vietnamese lexi_kiss_e1db38e3:
 
-    # lexi "You lose soooo much.."
-    lexi "Anh mất rất nhiều.."
+    # lexi "You lose soooo much..."
+    lexi "Anh mất rất nhiều..."
 
 # game/characters/lexi/kiss.rpy:123
 translate vietnamese lexi_kiss_0bb22e51:
@@ -374,8 +374,8 @@ translate vietnamese lexi_kiss_3fffbcdf:
 # game/characters/lexi/kiss.rpy:71
 translate vietnamese lexi_kiss_6805e8b6:
 
-    # me "Now, you're playing with me.."
-    me "Now, you're playing with me.."
+    # me "Now, you're playing with me..."
+    me "Now, you're playing with me..."
 
 # game/characters/lexi/kiss.rpy:107
 translate vietnamese lexi_kiss_1b9e2c1e:

@@ -11,7 +11,7 @@ translate vietnamese strings:
     new "Bạn có thể đến gặp cô ấy ở dungeon. Sự ham muốn của cô ấy sẽ tăng lên mỗi ngày, tấ cả thú cưng đều cần sự quan tâm, cô ấy không khác đâu."
 
     # game/variables/help.rpy:3
-    old "Play with her, or wait for her lust to reach the critical point.. What will she do once her lust goes over the roof?"
+    old "Play with her, or wait for her lust to reach the critical point... What will she do once her lust goes over the roof?"
     new "Chơi với cô ấy, hoặc đợi cho sự ham muốn của cô ấy đạt đến điểm cực hạn... Cô ấy sẽ làm gì đó một khi dục vọng của cô ấy vượt quá mức?"
 
     # game/variables/help.rpy:3
@@ -123,7 +123,7 @@ translate vietnamese strings:
     new "Nơi sự nhanh nhẹn là dễ nhận thấy nhất, bên trái, có một con ngựa vòm, bạn có thể nhảy qua, và rất nhiều nệm..."
 
     # game/variables/help.rpy:3
-    old "Here you can.. store things! Surprising, I know."
+    old "Here you can... store things! Surprising, I know."
     new "Ở đây bạn có thể... lưu trữ mọi thứ! ngạc nhiên, tôi biết."
 
     # game/variables/help.rpy:3
@@ -239,4 +239,4 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over. Be careful.{/color}"
-    new "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over. Be careful.{/color}"
+    new "{color=#45B6FE}12. Nếu sự tỉnh táo của bạn còn 0\\% hoặc sự sa đọa đạt 100% thì game over. Hãy cẩn thận.{/color}"

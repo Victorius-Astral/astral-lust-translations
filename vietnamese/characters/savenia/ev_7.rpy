@@ -51,8 +51,8 @@ translate vietnamese savenia_7_3072ec88:
 # game/characters/savenia/ev_7.rpy:40
 translate vietnamese savenia_7_cc5c7691:
 
-    # me "Hmm.."
-    me "Hmm.."
+    # me "Hmm..."
+    me "Hmm..."
 
 # game/characters/savenia/ev_7.rpy:41
 translate vietnamese savenia_7_8f50c067:
@@ -93,8 +93,8 @@ translate vietnamese savenia_7_ad79ed40:
 # game/characters/savenia/ev_7.rpy:53
 translate vietnamese savenia_7_03bee461:
 
-    # savenia "But.."
-    savenia "Nhưng.."
+    # savenia "But..."
+    savenia "Nhưng..."
 
 # game/characters/savenia/ev_7.rpy:54
 translate vietnamese savenia_7_f40aba16:
@@ -123,8 +123,8 @@ translate vietnamese savenia_7_a8631638:
 # game/characters/savenia/ev_7.rpy:65
 translate vietnamese savenia_7_df3001ef:
 
-    # savenia "..Can I stay here? I can go on with supply runs and do other dangerous jobs."
-    savenia "..Tớ có thể ở lại đây không? Tớ có thể kiếm đồ cung ứng và làm những công việc nguy hiểm khác."
+    # savenia "...Can I stay here? I can go on with supply runs and do other dangerous jobs."
+    savenia "...Tớ có thể ở lại đây không? Tớ có thể kiếm đồ cung ứng và làm những công việc nguy hiểm khác."
 
 # game/characters/savenia/ev_7.rpy:66
 translate vietnamese savenia_7_836e5728:
@@ -159,8 +159,8 @@ translate vietnamese savenia_7_88faa38f:
 # game/characters/savenia/ev_7.rpy:80
 translate vietnamese savenia_7_7e4ac8bf:
 
-    # me "Lexi.."
-    me "Lexi.."
+    # me "Lexi..."
+    me "Lexi..."
 
 # game/characters/savenia/ev_7.rpy:81
 translate vietnamese savenia_7_0f18306f:
@@ -177,8 +177,8 @@ translate vietnamese savenia_7_6a204a5a:
 # game/characters/savenia/ev_7.rpy:83
 translate vietnamese savenia_7_63a3da75:
 
-    # lexi "Hello.."
-    lexi "Xin chào.."
+    # lexi "Hello..."
+    lexi "Xin chào..."
 
 # game/characters/savenia/ev_7.rpy:84
 translate vietnamese savenia_7_71314494:
@@ -249,8 +249,8 @@ translate vietnamese savenia_7_d7760fc7_1:
 # game/characters/savenia/ev_7.rpy:98
 translate vietnamese savenia_7_4b72b231:
 
-    # lexi "Alright.. I'm leading, though."
-    lexi "Được rồi.. nhưng tôi sẽ dẫn đường."
+    # lexi "Alright... I'm leading, though."
+    lexi "Được rồi... nhưng tôi sẽ dẫn đường."
 
 # game/characters/savenia/ev_7.rpy:99
 translate vietnamese savenia_7_f84645e1:

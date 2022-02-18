@@ -93,8 +93,8 @@ translate vietnamese grace_8_07c63a50:
 # game/characters/grace/ev_8.rpy:30
 translate vietnamese grace_8_dcf353d6:
 
-    # me "No [grace], I'm.. I'm fine.."
-    me "Không [grace], Anh ổn.. Rất ổn.."
+    # me "No [grace], I'm... I'm fine..."
+    me "Không [grace], Anh ổn... Rất ổn..."
 
 # game/characters/grace/ev_8.rpy:32
 translate vietnamese grace_8_08ae1f20:
@@ -147,8 +147,8 @@ translate vietnamese grace_8_3820771a:
 # game/characters/grace/ev_8.rpy:42
 translate vietnamese grace_8_5b2cfb46:
 
-    # th "I have no idea what to do.. Should I let them talk or should I change the topic?"
-    th "Mình không biết phải làm gì nữa.. Mình có nên để họ nói chuyện hay mình nên chuyển chủ đề?"
+    # th "I have no idea what to do... Should I let them talk or should I change the topic?"
+    th "Mình không biết phải làm gì nữa... Mình có nên để họ nói chuyện hay mình nên chuyển chủ đề?"
 
 # game/characters/grace/ev_8.rpy:46
 translate vietnamese grace_8_1a2b7e47:
@@ -189,7 +189,7 @@ translate vietnamese grace_8_9ae1acec:
 # game/characters/grace/ev_8.rpy:59
 translate vietnamese grace_8_f2533f7f:
 
-    # alice "It was nice, I learned many new.. things."
+    # alice "It was nice, I learned many new... things."
     alice "Không quá tệ, em đã học được rất nhiều... điều mới"
 
 # game/characters/grace/ev_8.rpy:60
@@ -225,14 +225,14 @@ translate vietnamese grace_8_part2_bdbf83fd:
 # game/characters/grace/ev_8.rpy:71
 translate vietnamese grace_8_part2_3a510d0d:
 
-    # grace "I still wonder if he's really a man. Mom said they were all bad.."
-    grace "Em vẫn tự hỏi liệu anh ấy có thực sự là đàn ông hay không. Mẹ nói tất cả đều xấu.."
+    # grace "I still wonder if he's really a man. Mom said they were all bad..."
+    grace "Em vẫn tự hỏi liệu anh ấy có thực sự là đàn ông hay không. Mẹ nói tất cả đều xấu..."
 
 # game/characters/grace/ev_8.rpy:72
 translate vietnamese grace_8_part2_f1ab8b0f:
 
-    # th "Thanks [grace].."
-    th "Cảm ơn [grace].."
+    # th "Thanks [grace]..."
+    th "Cảm ơn [grace]..."
 
 # game/characters/grace/ev_8.rpy:73
 translate vietnamese grace_8_part2_37463b25:
@@ -303,8 +303,8 @@ translate vietnamese grace_8_part2_eafc4b2d:
 # game/characters/grace/ev_8.rpy:93
 translate vietnamese grace_8_part2_e2621cf7:
 
-    # th "[grace].."
-    th "[grace].."
+    # th "[grace]..."
+    th "[grace]..."
 
 # game/characters/grace/ev_8.rpy:94
 translate vietnamese grace_8_part2_1387a353:
@@ -345,8 +345,8 @@ translate vietnamese grace_8_part2_537cf736:
 # game/characters/grace/ev_8.rpy:104
 translate vietnamese grace_8_part2_37629d91:
 
-    # grace "That sounds weird.."
-    grace "Nghe có vẻ kì lạ.."
+    # grace "That sounds weird..."
+    grace "Nghe có vẻ kì lạ..."
 
 # game/characters/grace/ev_8.rpy:107
 translate vietnamese grace_8_part2_6e1bdaa8:
@@ -465,20 +465,20 @@ translate vietnamese grace_8_part3_879045ed:
 # game/characters/grace/ev_8.rpy:142
 translate vietnamese grace_8_part3_ecb78305:
 
-    # th "So it seems she's okay with sharing.."
-    th "Có vẻ như cô ấy ổn với việc chia sẻ.. Sao giống Harem vậy ta"
+    # th "So it seems she's okay with sharing..."
+    th "Có vẻ như cô ấy ổn với việc chia sẻ... Sao giống Harem vậy ta"
 
 # game/characters/grace/ev_8.rpy:143
 translate vietnamese grace_8_part3_86609423:
 
-    # th "Uhh.. I thought the thing between us would be over."
-    th "Uhh.. Mình nghĩ mọi chuyện giữa chúng tôi sẽ kết thúc."
+    # th "Uhh... I thought the thing between us would be over."
+    th "Uhh... Mình nghĩ mọi chuyện giữa chúng tôi sẽ kết thúc."
 
 # game/characters/grace/ev_8.rpy:145
 translate vietnamese grace_8_part3_56ba5b30:
 
-    # grace "I don't know.."
-    grace "Chị không biết.."
+    # grace "I don't know..."
+    grace "Chị không biết..."
 
 # game/characters/grace/ev_8.rpy:146
 translate vietnamese grace_8_part3_67856ada:
@@ -561,8 +561,8 @@ translate vietnamese grace_8_part3_3820771a:
 # game/characters/grace/ev_8.rpy:175
 translate vietnamese grace_8_part3_59b4ddfa:
 
-    # th "Well, I'm still alive so.. Not the worst outcome."
-    th "Chà, mình vẫn còn sống nên .. Không phải là một cái ending tồi tệ nhất."
+    # th "Well, I'm still alive so... Not the worst outcome."
+    th "Chà, mình vẫn còn sống nên ... Không phải là một cái ending tồi tệ nhất."
 
 # game/characters/grace/ev_8.rpy:177
 translate vietnamese grace_8_part3_7d0c4470:
@@ -573,14 +573,14 @@ translate vietnamese grace_8_part3_7d0c4470:
 # game/characters/grace/ev_8.rpy:178
 translate vietnamese grace_8_part3_7d7a8996:
 
-    # me "Bye.."
-    me "Bye.."
+    # me "Bye..."
+    me "Bye..."
 
 # game/characters/grace/ev_8.rpy:180
 translate vietnamese grace_8_part3_025ee710:
 
-    # me "Ahh.. At least this dinner is delicious."
-    me "Ahh .. Ít nhất bữa tối này cũng ngon."
+    # me "Ahh... At least this dinner is delicious."
+    me "Ahh ... Ít nhất bữa tối này cũng ngon."
 
 # game/characters/grace/ev_8.rpy:181
 translate vietnamese grace_8_part3_8bad41a1:
@@ -670,8 +670,8 @@ translate vietnamese grace_8_part3_37d55d72:
 # game/characters/grace/ev_8.rpy:142
 translate vietnamese grace_8_part3_9c2585e5:
 
-    # th "So, it seems she's okay with sharing.."
-    th "Vậy, có vẻ như em ấy ổn với việc chia sẻ.."
+    # th "So, it seems she's okay with sharing..."
+    th "Vậy, có vẻ như em ấy ổn với việc chia sẻ..."
 
 # game/characters/grace/ev_8.rpy:152
 translate vietnamese grace_8_part3_842f35ec:

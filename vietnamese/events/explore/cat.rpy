@@ -123,14 +123,14 @@ translate vietnamese explore_cat_menu_2dd63b49:
 # game/events/explore/cat.rpy:77
 translate vietnamese explore_cat_menu_563bcf13:
 
-    # me "Well.. aside from [dog]."
-    me "Chà .. ngoài [dog]."
+    # me "Well... aside from [dog]."
+    me "Chà ... ngoài [dog]."
 
 # game/events/explore/cat.rpy:78
 translate vietnamese explore_cat_menu_0b2e7f5f:
 
-    # me "I wonder what happened to them.."
-    me "Mình tự hỏi điều gì đã xảy ra với chúng.."
+    # me "I wonder what happened to them..."
+    me "Mình tự hỏi điều gì đã xảy ra với chúng..."
 
 # game/events/explore/cat.rpy:79
 translate vietnamese explore_cat_menu_ba1575bd:
@@ -225,8 +225,8 @@ translate vietnamese explore_return_cat_a6674319:
 # game/events/explore/cat.rpy:129
 translate vietnamese explore_return_cat_61a4dc8e:
 
-    # lexi "Yeah.. you wish."
-    lexi "Yeah .. Mơ tiếp đi."
+    # lexi "Yeah... you wish."
+    lexi "Yeah ... Mơ tiếp đi."
 
 # game/events/explore/cat.rpy:130
 translate vietnamese explore_return_cat_3820771a:
@@ -249,8 +249,8 @@ translate vietnamese explore_return_cat_3820771a_1:
 # game/events/explore/cat.rpy:134
 translate vietnamese explore_return_cat_5110ba3a:
 
-    # me "[cat].."
-    me "[cat].."
+    # me "[cat]..."
+    me "[cat]..."
 
 # game/events/explore/cat.rpy:141
 translate vietnamese explore_return_cat2_4f749ff4:
@@ -303,8 +303,8 @@ translate vietnamese explore_return_cat2_6ad8d913:
 # game/events/explore/cat.rpy:154
 translate vietnamese explore_return_cat2_7f898303:
 
-    # grace "I don't get what you're talking about.."
-    grace "Em không hiểu hai người đang nói gì.."
+    # grace "I don't get what you're talking about..."
+    grace "Em không hiểu hai người đang nói gì..."
 
 # game/events/explore/cat.rpy:156
 translate vietnamese explore_return_cat2_061f4586:
@@ -339,8 +339,8 @@ translate vietnamese explore_return_cat2_7776fda0:
 # game/events/explore/cat.rpy:164
 translate vietnamese explore_return_cat2_b53d8533:
 
-    # th "They just forgot about me.."
-    th "Họ chỉ quên mình thôi.."
+    # th "They just forgot about me..."
+    th "Họ chỉ quên mình thôi..."
 
 translate vietnamese strings:
 

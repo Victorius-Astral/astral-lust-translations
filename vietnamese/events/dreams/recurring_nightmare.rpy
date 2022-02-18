@@ -226,7 +226,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_c576140e:
 translate vietnamese d_Recurring_Nightmare_1_part2_04f2ef02:
 
     # girl "I click “play message”, and feel my stomach drop as I listen to the voice, sounding horrifically distorted, as if it emanates from a throat slashed to ribbons, crackling with more urgency than ever before."
-    girl "Tôi nhấn vào phần phát tin nhắn, và cảm thấy bụng mình thóp lại khi nghe giọng nói, nghe có vẻ méo mó khủng khiếp, như thể nó phát ra từ cổ họng bị chém thành dải, kêu lên gấp rút hơn bao giờ hết.."
+    girl "Tôi nhấn vào phần phát tin nhắn, và cảm thấy bụng mình thóp lại khi nghe giọng nói, nghe có vẻ méo mó khủng khiếp, như thể nó phát ra từ cổ họng bị chém thành dải, kêu lên gấp rút hơn bao giờ hết..."
 
 # game/events/dreams/recurring_nightmare.rpy:134
 translate vietnamese d_Recurring_Nightmare_1_part2_bfb9bd27:
@@ -268,7 +268,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_a41d7737:
 translate vietnamese d_Recurring_Nightmare_1_part2_c4756094:
 
     # man "I remember that little rhyme terrifying me as a child, as I cowered under the covers in the bed at her small country cottage, too scared to sleep."
-    man "Tôi nhớ bài đồng dao nhỏ đó làm tôi kinh hãi khi còn là một đứa trẻ, khi tôi thu mình dưới tấm chăn trên giường trong ngôi nhà tranh nhỏ ở nông thôn của bà, tôi quá sợ hãi để ngủ.."
+    man "Tôi nhớ bài đồng dao nhỏ đó làm tôi kinh hãi khi còn là một đứa trẻ, khi tôi thu mình dưới tấm chăn trên giường trong ngôi nhà tranh nhỏ ở nông thôn của bà, tôi quá sợ hãi để ngủ..."
 
 # game/events/dreams/recurring_nightmare.rpy:153
 translate vietnamese d_Recurring_Nightmare_1_part2_85096136:
@@ -280,7 +280,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_85096136:
 translate vietnamese d_Recurring_Nightmare_1_part2_6e86fd7f:
 
     # man "“And whenever he killed,” Grandma would say in hushed voice ‘he would leave a ghostly candle in their window” at that she would yell out and make me jump back in fright while she shrieked with laughter."
-    man "“Và bất cứ khi nào Hắn ta giết người,” bà nội sẽ nói bằng giọng nói khàn khàn “Hắn ta sẽ để lại một ngọn nến ma quái trong cửa sổ của họ” lúc đó bà đã hét lên và khiến tôi nhảy bật lại trong sợ hãi trong khi bà ấy hét lên vì cười.."
+    man "“Và bất cứ khi nào Hắn ta giết người,” bà nội sẽ nói bằng giọng nói khàn khàn “Hắn ta sẽ để lại một ngọn nến ma quái trong cửa sổ của họ” lúc đó bà đã hét lên và khiến tôi nhảy bật lại trong sợ hãi trong khi bà ấy hét lên vì cười..."
 
 # game/events/dreams/recurring_nightmare.rpy:153
 translate vietnamese d_Recurring_Nightmare_1_part2_56c7ca18:
@@ -304,13 +304,13 @@ translate vietnamese d_Recurring_Nightmare_1_part2_6146bf35:
 translate vietnamese d_Recurring_Nightmare_1_part2_d70f7e77:
 
     # man "After Grandpa died she hardly ever left her house, just sat in her rocking chair, telling stories of the candle man and taking delight in my fear, laughing madly when I jumped. I found her such a disgusting woman."
-    man "Sau khi ông nội mất, bà hầu như không bao giờ rời khỏi nhà, chỉ ngồi trên chiếc ghế đung đưa, kể chuyện về người nến làm tôi thích thú với sợ hãi, cười điên cuồng khi tôi nhảy dựng lên. Tôi thấy bà ấy thật là một người phụ nữ kinh tởm ”.."
+    man "Sau khi ông nội mất, bà hầu như không bao giờ rời khỏi nhà, chỉ ngồi trên chiếc ghế đung đưa, kể chuyện về người nến làm tôi thích thú với sợ hãi, cười điên cuồng khi tôi nhảy dựng lên. Tôi thấy bà ấy thật là một người phụ nữ kinh tởm ”..."
 
 # game/events/dreams/recurring_nightmare.rpy:153
 translate vietnamese d_Recurring_Nightmare_1_part2_05a644e5:
 
     # man "Anyway, when grew up, I learned that it wasn’t her fault really, Grandpa’s death had shaken her up, messed with her head."
-    man "Dù sao, khi lớn lên, tôi biết rằng đó thực sự không phải là lỗi của bà ấy, cái chết của ông nội đã làm bà bối rối, rối tung cả lên.."
+    man "Dù sao, khi lớn lên, tôi biết rằng đó thực sự không phải là lỗi của bà ấy, cái chết của ông nội đã làm bà bối rối, rối tung cả lên..."
 
 # game/events/dreams/recurring_nightmare.rpy:153
 translate vietnamese d_Recurring_Nightmare_1_part2_c208c0e0:
@@ -322,7 +322,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_c208c0e0:
 translate vietnamese d_Recurring_Nightmare_1_part2_41c83bbd:
 
     # man "Grandpa was only alive when I was a baby and I never knew him, but I learned when I was older how much he had meant to Grandma."
-    man "Ông nội chỉ còn sống khi tôi còn bé và tôi chưa hề biết ông ấy, nhưng khi tôi lớn hơn, tôi mới biết ông có ý nghĩa với bà nhiều như thế nào.."
+    man "Ông nội chỉ còn sống khi tôi còn bé và tôi chưa hề biết ông ấy, nhưng khi tôi lớn hơn, tôi mới biết ông có ý nghĩa với bà nhiều như thế nào..."
 
 # game/events/dreams/recurring_nightmare.rpy:153
 translate vietnamese d_Recurring_Nightmare_1_part2_e59152ca:
@@ -334,7 +334,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_e59152ca:
 translate vietnamese d_Recurring_Nightmare_1_part2_474869af:
 
     # man "She died when I was thirteen, and I guess it didn’t really come to me as much of a shock, she was incredibly old and frail."
-    man "Bà mất khi tôi mười ba tuổi, và tôi đoán nó không thực sự đến với tôi quá sốc, bà ấy già và yếu đến kinh khủng.."
+    man "Bà mất khi tôi mười ba tuổi, và tôi đoán nó không thực sự đến với tôi quá sốc, bà ấy già và yếu đến kinh khủng..."
 
 # game/events/dreams/recurring_nightmare.rpy:153
 translate vietnamese d_Recurring_Nightmare_1_part2_74b63845:
@@ -382,7 +382,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_50ffd746:
 translate vietnamese d_Recurring_Nightmare_1_part2_a9186c78:
 
     # man "I sprinted down the narrow staircase into the living room, where I saw a tall, pale figure in a robe holding a candle, leaving through the open door."
-    man "Tôi chạy nhanh xuống chiếc cầu thang hẹp vào phòng khách, nơi tôi nhìn thấy một bóng dáng cao gầy, xanh xao trong chiếc áo choàng cầm một ngọn nến, đi qua cánh cửa mở.."
+    man "Tôi chạy nhanh xuống chiếc cầu thang hẹp vào phòng khách, nơi tôi nhìn thấy một bóng dáng cao gầy, xanh xao trong chiếc áo choàng cầm một ngọn nến, đi qua cánh cửa mở..."
 
 # game/events/dreams/recurring_nightmare.rpy:153
 translate vietnamese d_Recurring_Nightmare_1_part2_c8d018e1:
@@ -466,7 +466,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_016860e5:
 translate vietnamese d_Recurring_Nightmare_1_part2_a7b2f941:
 
     # man "As I arrived at my front yard, I noticed a tall man in a robe standing at the end of the street, his face shrouded in darkness."
-    man "Khi tôi đến sân trước của nhà mình, tôi nhận thấy một người đàn ông cao lớn mặc áo choàng đứng ở cuối con phố, khuôn mặt của anh ta bị che khuất trong bóng tối.."
+    man "Khi tôi đến sân trước của nhà mình, tôi nhận thấy một người đàn ông cao lớn mặc áo choàng đứng ở cuối con phố, khuôn mặt của anh ta bị che khuất trong bóng tối..."
 
 # game/events/dreams/recurring_nightmare.rpy:153
 translate vietnamese d_Recurring_Nightmare_1_part2_ebd89e61:
@@ -664,7 +664,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_d4f81874:
 translate vietnamese d_Recurring_Nightmare_1_part2_8f850bd1:
 
     # man "Not a sound except the gurgling of the drain at your toes, sucking down the last of the water calmly like it had all been in your head and none of it had happened."
-    man "Không một âm thanh nào ngoại trừ tiếng ọc ọc của ống thoát nước ở ngón chân của bạn, hút những giọt nước cuối cùng xuống một cách bình tĩnh như thể tất cả đã ở trong đầu bạn và không có điều gì xảy ra.."
+    man "Không một âm thanh nào ngoại trừ tiếng ọc ọc của ống thoát nước ở ngón chân của bạn, hút những giọt nước cuối cùng xuống một cách bình tĩnh như thể tất cả đã ở trong đầu bạn và không có điều gì xảy ra..."
 
 # game/events/dreams/recurring_nightmare.rpy:267
 translate vietnamese d_Recurring_Nightmare_1_part2_14501f3e:
@@ -1042,7 +1042,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_e1f7cf3e:
 translate vietnamese d_Recurring_Nightmare_1_part2_cb3e9bcd:
 
     # man "Nights like these are rare, it isn’t often that everyone’s out of the house but me, so I make sure to savour them, in fact, I wasn’t expecting anyone back till the morning."
-    man "Những đêm như thế này rất hiếm, không phải ai cũng ra khỏi nhà ngoại trừ tôi, vì vậy tôi đảm bảo sẽ thưởng thức chúng, thực tế là tôi không mong đợi bất cứ ai trở lại cho đến sáng.."
+    man "Những đêm như thế này rất hiếm, không phải ai cũng ra khỏi nhà ngoại trừ tôi, vì vậy tôi đảm bảo sẽ thưởng thức chúng, thực tế là tôi không mong đợi bất cứ ai trở lại cho đến sáng..."
 
 # game/events/dreams/recurring_nightmare.rpy:512
 translate vietnamese d_Recurring_Nightmare_1_part2_bef205f1:
@@ -1054,7 +1054,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_bef205f1:
 translate vietnamese d_Recurring_Nightmare_1_part2_031dd710:
 
     # man "Panic hits me like a steam train, I silently leap out from under the covers, spilling the ice cream all over the pristine white carpet on the floor, and creak open the wardrobe next to the bed."
-    man "Sự hoảng sợ ập đến với tôi như một đoàn tàu hơi nước, tôi lặng lẽ nhảy ra từ dưới tấm trải, làm đổ kem ra tấm thảm trắng tinh khôi trên sàn, và cọt kẹt mở tủ quần áo cạnh giường.."
+    man "Sự hoảng sợ ập đến với tôi như một đoàn tàu hơi nước, tôi lặng lẽ nhảy ra từ dưới tấm trải, làm đổ kem ra tấm thảm trắng tinh khôi trên sàn, và cọt kẹt mở tủ quần áo cạnh giường..."
 
 # game/events/dreams/recurring_nightmare.rpy:512
 translate vietnamese d_Recurring_Nightmare_1_part2_78f96296:
@@ -1072,7 +1072,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_396504ac:
 translate vietnamese d_Recurring_Nightmare_1_part2_a2ad18cd:
 
     # man "The footsteps get louder, I force myself into the miniscule space remaining in the wardrobe, and close the door, just as the stranger opens the bedroom door, not sparing any seconds for silence."
-    man "Bước chân ngày càng lớn hơn, tôi ép mình vào không gian nhỏ bé còn lại trong tủ quần áo, và đóng cửa lại, ngay khi kẻ lạ mặt mở cửa phòng ngủ, không để lại giây phút nào để im lặng.."
+    man "Bước chân ngày càng lớn hơn, tôi ép mình vào không gian nhỏ bé còn lại trong tủ quần áo, và đóng cửa lại, ngay khi kẻ lạ mặt mở cửa phòng ngủ, không để lại giây phút nào để im lặng..."
 
 # game/events/dreams/recurring_nightmare.rpy:512
 translate vietnamese d_Recurring_Nightmare_1_part2_c53f3b79:

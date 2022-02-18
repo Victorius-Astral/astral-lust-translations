@@ -33,8 +33,8 @@ translate vietnamese anniversary_fireworks_57f0a9e0:
 # game/events/special/anniversary.rpy:25
 translate vietnamese anniversary_fireworks_ef4d2848:
 
-    # me "Who put the fucking fireworks here.."
-    me "Who put the fucking fireworks here.."
+    # me "Who put the fucking fireworks here..."
+    me "Who put the fucking fireworks here..."
 
 # game/events/special/anniversary.rpy:32
 translate vietnamese anniversary_fireworks_03b767e4:
@@ -51,6 +51,6 @@ translate vietnamese anniversary_fireworks_dc4ff0ed:
 # game/events/special/anniversary.rpy:37
 translate vietnamese anniversary_fireworks_d22b51f2:
 
-    # me "Ahh.. This city is just too fucking weird."
-    me "Ahh.. This city is just too fucking weird."
+    # me "Ahh... This city is just too fucking weird."
+    me "Ahh... This city is just too fucking weird."
 

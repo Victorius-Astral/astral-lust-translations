@@ -33,13 +33,13 @@ translate vietnamese alice_9_59638333:
 # game/characters/alice/ev_9.rpy:11
 translate vietnamese alice_9_85918581:
 
-    # me "You know.."
+    # me "You know..."
     me "Em biết đấy..."
 
 # game/characters/alice/ev_9.rpy:13
 translate vietnamese alice_9_98180b3e:
 
-    # alice "I do.."
+    # alice "I do..."
     alice "Em biết..."
 
 # game/characters/alice/ev_9.rpy:14
@@ -75,7 +75,7 @@ translate vietnamese alice_9_3820771a:
 # game/characters/alice/ev_9.rpy:22
 translate vietnamese alice_9_cd216802:
 
-    # alice "I feel better, but I'm still a little weak.."
+    # alice "I feel better, but I'm still a little weak..."
     alice "Em Thấy tốt hơn rồi, nhưng em vẫn còn hơi mệt."
 
 # game/characters/alice/ev_9.rpy:23

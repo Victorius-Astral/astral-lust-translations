@@ -33,20 +33,20 @@ translate vietnamese room_player_bed_suicide_9575ab13:
 # game/places/hotel/player/bed.rpy:121
 translate vietnamese room_player_bed_suicide_5df1801c:
 
-    # th "But this life.. is it worth living?"
-    th "Nhưng cuộc đời này .. có đáng sống không?"
+    # th "But this life... is it worth living?"
+    th "Nhưng cuộc đời này ... có đáng sống không?"
 
 # game/places/hotel/player/bed.rpy:124
 translate vietnamese room_player_bed_suicide_c269be12:
 
-    # th "Will anyone miss me? I don't think so.."
-    th "Có ai nhớ mình không? Mình không nghĩ vậy.."
+    # th "Will anyone miss me? I don't think so..."
+    th "Có ai nhớ mình không? Mình không nghĩ vậy..."
 
 # game/places/hotel/player/bed.rpy:125
 translate vietnamese room_player_bed_suicide_ad2e2887:
 
-    # th "No one cares about me.."
-    th "Không ai quan tâm đến mình.."
+    # th "No one cares about me..."
+    th "Không ai quan tâm đến mình..."
 
 # game/places/hotel/player/bed.rpy:128
 translate vietnamese room_player_bed_suicide_31419c04:
@@ -57,8 +57,8 @@ translate vietnamese room_player_bed_suicide_31419c04:
 # game/places/hotel/player/bed.rpy:131
 translate vietnamese room_player_bed_suicide_f00629a9:
 
-    # th "That would be the end, true end. I will die, forever.."
-    th "Đó sẽ là kết thúc, kết thúc thực sự. Tôi sẽ chết, mãi mãi.."
+    # th "That would be the end, true end. I will die, forever..."
+    th "Đó sẽ là kết thúc, kết thúc thực sự. Tôi sẽ chết, mãi mãi..."
 
 # game/places/hotel/player/bed.rpy:135
 translate vietnamese room_player_bed_suicide_3820771a_1:
@@ -81,8 +81,8 @@ translate vietnamese room_player_bed_suicide_3820771a_2:
 # game/places/hotel/player/bed.rpy:148
 translate vietnamese room_player_bed_suicide_2c174eb9:
 
-    # th "Maybe there is still something good waiting for me.."
-    th "Có lẽ vẫn còn điều gì đó tốt đẹp đang chờ minh.."
+    # th "Maybe there is still something good waiting for me..."
+    th "Có lẽ vẫn còn điều gì đó tốt đẹp đang chờ minh..."
 
 # game/places/hotel/player/bed.rpy:151
 translate vietnamese room_player_bed_suicide_6626904a:
@@ -97,8 +97,8 @@ translate vietnamese strings:
     new "Nghỉ {#visible}"
 
     # game/places/hotel/player/bed.rpy:5
-    old "Sleep with.. {#visible}"
-    new "Ngủ với.. {#visible}"
+    old "Sleep with... {#visible}"
+    new "Ngủ với... {#visible}"
 
     # game/places/hotel/player/bed.rpy:5
     old "Sleep {#visible}"

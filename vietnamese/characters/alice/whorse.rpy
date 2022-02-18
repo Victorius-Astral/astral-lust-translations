@@ -15,8 +15,8 @@ translate vietnamese alice_whorse_aff3fe1d:
 # game/characters/alice/whorse.rpy:47
 translate vietnamese alice_whorse_88c4ed8d:
 
-    # alice "A little painful, but it's also very arousing.."
-    alice "Hơi đau nhưng cũng rất kích thích.."
+    # alice "A little painful, but it's also very arousing..."
+    alice "Hơi đau nhưng cũng rất kích thích..."
 
 # game/characters/alice/whorse.rpy:48
 translate vietnamese alice_whorse_7990679d:
@@ -81,8 +81,8 @@ translate vietnamese alice_whorse_c1868b0c:
 # game/characters/alice/whorse.rpy:68
 translate vietnamese alice_whorse_a219283a:
 
-    # alice "Please.."
-    alice "Làm ơn.."
+    # alice "Please..."
+    alice "Làm ơn..."
 
 # game/characters/alice/whorse.rpy:69
 translate vietnamese alice_whorse_6e50d3ef:
@@ -93,8 +93,8 @@ translate vietnamese alice_whorse_6e50d3ef:
 # game/characters/alice/whorse.rpy:70
 translate vietnamese alice_whorse_5ee5a691:
 
-    # alice "You're doing it on purpose.."
-    alice "Anh đang làm điều đó một cách có chủ đích.."
+    # alice "You're doing it on purpose..."
+    alice "Anh đang làm điều đó một cách có chủ đích..."
 
 # game/characters/alice/whorse.rpy:71
 translate vietnamese alice_whorse_00ad3e15:
@@ -123,8 +123,8 @@ translate vietnamese alice_whorse_daadb2e4:
 # game/characters/alice/whorse.rpy:85
 translate vietnamese alice_whorse_8271d54c:
 
-    # alice "Mm.. I want to have orgasm, I'm dripping wet.."
-    alice "Mm.. em muốn lên đỉnh, em ướt lắm rồi.."
+    # alice "Mm... I want to have orgasm, I'm dripping wet..."
+    alice "Mm... em muốn lên đỉnh, em ướt lắm rồi..."
 
 # game/characters/alice/whorse.rpy:86
 translate vietnamese alice_whorse_4f813d1a:
@@ -141,8 +141,8 @@ translate vietnamese alice_whorse_67524ec7:
 # game/characters/alice/whorse.rpy:88
 translate vietnamese alice_whorse_4c156dda:
 
-    # me "Your screams are so adorable.."
-    me "Tiếng hét của em thật đáng yêu.."
+    # me "Your screams are so adorable..."
+    me "Tiếng hét của em thật đáng yêu..."
 
 # game/characters/alice/whorse.rpy:89
 translate vietnamese alice_whorse_905f0944:
@@ -159,8 +159,8 @@ translate vietnamese alice_whorse_9f2dba40:
 # game/characters/alice/whorse.rpy:91
 translate vietnamese alice_whorse_0b19baa3:
 
-    # alice "I-I.."
-    alice "E-Em.."
+    # alice "I-I..."
+    alice "E-Em..."
 
 # game/characters/alice/whorse.rpy:100
 translate vietnamese alice_whorse_cc2dd92e:
@@ -171,8 +171,8 @@ translate vietnamese alice_whorse_cc2dd92e:
 # game/characters/alice/whorse.rpy:106
 translate vietnamese alice_whorse_6c1482ef:
 
-    # alice "That was.."
-    alice "Nó thật là.."
+    # alice "That was..."
+    alice "Nó thật là..."
 
 # game/characters/alice/whorse.rpy:112
 translate vietnamese alice_whorse_f18c8091:
@@ -195,8 +195,8 @@ translate vietnamese alice_whorse_b622ec17:
 # game/characters/alice/whorse.rpy:120
 translate vietnamese alice_whorse_f4b87f80:
 
-    # alice "I love it, when you watch me.."
-    alice "Em thích nó, khi anh xem em.."
+    # alice "I love it, when you watch me..."
+    alice "Em thích nó, khi anh xem em..."
 
 # game/characters/alice/whorse.rpy:121
 translate vietnamese alice_whorse_0ed79dde:
@@ -219,8 +219,8 @@ translate vietnamese alice_whorse_91ac1610:
 # game/characters/alice/whorse.rpy:130
 translate vietnamese alice_whorse_06408542:
 
-    # alice "Yeah, my pussy is sore.."
-    alice "Yeah, âm hộ của em đang đau.."
+    # alice "Yeah, my pussy is sore..."
+    alice "Yeah, âm hộ của em đang đau..."
 
 # game/characters/alice/whorse.rpy:136
 translate vietnamese alice_whorse_fe801ad0:
@@ -261,18 +261,18 @@ translate vietnamese alice_whorse_231915ff:
 # game/characters/alice/whorse.rpy:161
 translate vietnamese alice_whorse_a9e42f77:
 
-    # me "Heh, this little, playful wench.."
-    me "Heh, cái con nhỏ, ham chơi này.."
+    # me "Heh, this little, playful wench..."
+    me "Heh, cái con nhỏ, ham chơi này..."
 # TODO: Translation updated at 2022-02-06 08:10
 
 # game/characters/alice/whorse.rpy:85
 translate vietnamese alice_whorse_bab5de6b:
 
-    # alice "Mm.. I want to have an orgasm. I'm dripping wet.."
-    alice "Mm.. em muốn lên đỉnh. Em ướt lắm rồi.."
+    # alice "Mm... I want to have an orgasm. I'm dripping wet..."
+    alice "Mm... em muốn lên đỉnh. Em ướt lắm rồi..."
 
 # game/characters/alice/whorse.rpy:120
 translate vietnamese alice_whorse_96558721:
 
-    # alice "I love it when you watch me.."
-    alice "Em rất thích khi anh nhìn em.."
+    # alice "I love it when you watch me..."
+    alice "Em rất thích khi anh nhìn em..."

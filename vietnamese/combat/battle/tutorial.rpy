@@ -75,7 +75,7 @@ translate vietnamese tutorial_combat_win_a951d98d:
 # game/combat/battle/tutorial.rpy:158
 translate vietnamese tutorial_combat_win_485f2947:
 
-    # lexi "Ahh.. If you lack confidence even now, it's gonna be hard for you out there. This werewolf was really weak.."
+    # lexi "Ahh... If you lack confidence even now, it's gonna be hard for you out there. This werewolf was really weak..."
     lexi "Ahh... Nếu anh thiếu tự tin ngay cả bây giờ, sẽ rất khó cho anh ngoài kia đấy. Tên người sói này thực sự rất yếu..."
 
 # game/combat/battle/tutorial.rpy:159
@@ -87,7 +87,7 @@ translate vietnamese tutorial_combat_win_9cbc5c7f:
 # game/combat/battle/tutorial.rpy:160
 translate vietnamese tutorial_combat_win_6f1fa474:
 
-    # me "Yeah.."
+    # me "Yeah..."
     me "Yeah..."
 
 # game/combat/battle/tutorial.rpy:169
@@ -117,7 +117,7 @@ translate vietnamese tutorial_combat_lose_3820771a:
 # game/combat/battle/tutorial.rpy:176
 translate vietnamese tutorial_combat_lose_c5a8367a:
 
-    # lexi "Just don't go out. It's no use dying.."
+    # lexi "Just don't go out. It's no use dying..."
     lexi "Chỉ cần đừng đi ra ngoài. Chết cũng chẳng ích gì cả..."
 
 # game/combat/battle/tutorial.rpy:177
@@ -231,7 +231,7 @@ translate vietnamese strings:
     new "Ý định"
 
     # game/combat/battle/tutorial.rpy:55
-    old "We are short on spirituality.. We should prepare for his move. Do you see this thing above his head? It's an indication that means that he's going to attack either of us for 5 damage."
+    old "We are short on spirituality... We should prepare for his move. Do you see this thing above his head? It's an indication that means that he's going to attack either of us for 5 damage."
     new "Chúng ta còn thiếu sót về năng lượng tâm linh... Chúng ta nên chuẩn bị cho bước di chuyển của nó. Anh có thấy thứ này trên đầu nó không? Đó là một dấu hiệu có nghĩa là nó sẽ tấn công một trong hai chúng ta với 5 sát thương."
 
     # game/combat/battle/tutorial.rpy:58
@@ -283,7 +283,7 @@ translate vietnamese strings:
     new "Thay đổi người được chọn"
 
     # game/combat/battle/tutorial.rpy:79
-    old "He's going to attack again.. I fear that he might target me, could you please help me defend? Click on me to select me."
+    old "He's going to attack again... I fear that he might target me, could you please help me defend? Click on me to select me."
     new "Nó sẽ tấn công một lần nữa... em sợ rằng anh nó thể nhắm vào em đấy, anh có thể giúp em phòng thủ được không? Nhấp vào em để chọn em."
 
     # game/combat/battle/tutorial.rpy:82

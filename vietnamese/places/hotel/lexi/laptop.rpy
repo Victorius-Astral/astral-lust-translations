@@ -21,8 +21,8 @@ translate vietnamese room_lexi_laptop_40056b29:
 # game/places/hotel/lexi/laptop.rpy:16
 translate vietnamese room_lexi_laptop_0ec44295:
 
-    # th "Should I ask them? Better not, I would need to explain why I was snooping on their laptop, when I have my own pc.."
-    th "Mình có nên hỏi họ không? Tốt hơn là không, mình cần giải thích lý do tại sao lại rình mò máy tính xách tay của họ, khi đã có máy tính của riêng mình.."
+    # th "Should I ask them? Better not, I would need to explain why I was snooping on their laptop, when I have my own pc..."
+    th "Mình có nên hỏi họ không? Tốt hơn là không, mình cần giải thích lý do tại sao lại rình mò máy tính xách tay của họ, khi đã có máy tính của riêng mình..."
 
 # game/places/hotel/lexi/laptop.rpy:29
 translate vietnamese room_lexi_laptop_insert_f80bd77c:
@@ -33,14 +33,14 @@ translate vietnamese room_lexi_laptop_insert_f80bd77c:
 # game/places/hotel/lexi/laptop.rpy:31
 translate vietnamese room_lexi_laptop_insert_98a5625b:
 
-    # th "It doesn't work.."
-    th "Nó không hoạt động.."
+    # th "It doesn't work..."
+    th "Nó không hoạt động..."
 
 # game/places/hotel/lexi/laptop.rpy:32
 translate vietnamese room_lexi_laptop_insert_4802d0af:
 
-    # th "Maybe I should let it go for now.."
-    th "Có lẽ bây giờ nên để nó qua đi.."
+    # th "Maybe I should let it go for now..."
+    th "Có lẽ bây giờ nên để nó qua đi..."
 
 translate vietnamese strings:
 

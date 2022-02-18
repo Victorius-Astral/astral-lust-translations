@@ -141,8 +141,8 @@ translate vietnamese banditsA_menu_3c4da8b3:
 # game/events/explore/bandits.rpy:98
 translate vietnamese banditsA_menu_86f29c6f:
 
-    # bandit "You certainly don't look like you have anything worth taking.."
-    bandit "Mày chắc chắn không có vẻ như mày có bất cứ thứ gì đáng để lấy.."
+    # bandit "You certainly don't look like you have anything worth taking..."
+    bandit "Mày chắc chắn không có vẻ như mày có bất cứ thứ gì đáng để lấy..."
 
 # game/events/explore/bandits.rpy:99
 translate vietnamese banditsA_menu_b1bde65c:
@@ -333,8 +333,8 @@ translate vietnamese banditsB_menu_c41f2d2d:
 # game/events/explore/bandits.rpy:206
 translate vietnamese banditsB_menu_86f29c6f:
 
-    # bandit "You certainly don't look like you have anything worth taking.."
-    bandit "Mày chắc chắn là có bất cứ thứ gì đáng để lấy.."
+    # bandit "You certainly don't look like you have anything worth taking..."
+    bandit "Mày chắc chắn là có bất cứ thứ gì đáng để lấy..."
 
 # game/events/explore/bandits.rpy:207
 translate vietnamese banditsB_menu_b1bde65c:

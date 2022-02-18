@@ -255,8 +255,8 @@ translate vietnamese mt_menu_eaa207a7:
 # game/characters/traders/mysterious/speak.rpy:119
 translate vietnamese mt_menu_aaaf5c2a:
 
-    # mt "Sooo.. How do you feel now?"
-    mt "Thếếế.. Bây giờ cậu cảm thấy thế nào bây giờ?"
+    # mt "Sooo... How do you feel now?"
+    mt "Thếếế... Bây giờ cậu cảm thấy thế nào bây giờ?"
 
 # game/characters/traders/mysterious/speak.rpy:120
 translate vietnamese mt_menu_46def345:
@@ -289,8 +289,8 @@ translate vietnamese strings:
     new "Hãy giao dịch nào"
 
     # game/characters/traders/mysterious/speak.rpy:47
-    old "Listen here, you little shit.."
-    new "Nghe này thằng đầu buồi rẻ ráck.."
+    old "Listen here, you little shit..."
+    new "Nghe này thằng đầu buồi rẻ ráck..."
 
     # game/characters/traders/mysterious/speak.rpy:97
     old "Trade"

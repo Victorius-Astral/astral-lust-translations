@@ -45,7 +45,7 @@ translate vietnamese rhainda_sex_1_7f9af791:
 # game/characters/rhainda/sex_1.rpy:33
 translate vietnamese rhainda_sex_1_43e422c0:
 
-    # me "That's not what I had on mind.."
+    # me "That's not what I had on mind..."
     me "Anh thì lại không nghĩ như vậy..."
 
 # game/characters/rhainda/sex_1.rpy:34
@@ -147,7 +147,7 @@ translate vietnamese rhainda_sex_1_48b677b1:
 # game/characters/rhainda/sex_1.rpy:65
 translate vietnamese rhainda_sex_1_917a0359:
 
-    # rhainda "Whelp.. Sounds hot!"
+    # rhainda "Whelp... Sounds hot!"
     rhainda "Whelp... nghe có vẻ tốt đấy!"
 
 # game/characters/rhainda/sex_1.rpy:73
@@ -213,7 +213,7 @@ translate vietnamese rhainda_sex_1_lose_de691acc:
 # game/characters/rhainda/sex_1.rpy:98
 translate vietnamese rhainda_sex_1_lose_540c07b0:
 
-    # me "Eh.. Do what you have to do."
+    # me "Eh... Do what you have to do."
     me "Eh... Làm những gì em cần làm đi."
 
 # game/characters/rhainda/sex_1.rpy:99
@@ -315,7 +315,7 @@ translate vietnamese rhainda_sex_1_cowgirl_049c6162:
 # game/characters/rhainda/sex_1.rpy:134
 translate vietnamese rhainda_sex_1_cowgirl_528b9196:
 
-    # me "I'm close.."
+    # me "I'm close..."
     me "Anh sắp ra rồi..."
 
 # game/characters/rhainda/sex_1.rpy:135
@@ -369,7 +369,7 @@ translate vietnamese rhainda_sex_1_cowgirl_149c799c:
 # game/characters/rhainda/sex_1.rpy:152
 translate vietnamese rhainda_sex_1_cowgirl_8aeca516:
 
-    # rhainda "Nice.."
+    # rhainda "Nice..."
     rhainda "Tuyệt..."
 
 # game/characters/rhainda/sex_1.rpy:153
@@ -489,8 +489,8 @@ translate vietnamese rhainda_sex_1_doggy_3820771a_1:
 # game/characters/rhainda/sex_1.rpy:201
 translate vietnamese rhainda_sex_1_doggy_e46cfb0a:
 
-    # rhainda "Eh.."
-    rhainda "Eh.."
+    # rhainda "Eh..."
+    rhainda "Eh..."
 
 # game/characters/rhainda/sex_1.rpy:202
 translate vietnamese rhainda_sex_1_doggy_314086b3:
@@ -543,13 +543,13 @@ translate vietnamese rhainda_sex_1_doggy_8c1cee80:
 # game/characters/rhainda/sex_1.rpy:219
 translate vietnamese rhainda_sex_1_doggy_e961d767:
 
-    # me "Nevermind.."
+    # me "Nevermind..."
     me "Bỏ đi..."
 
 # game/characters/rhainda/sex_1.rpy:220
 translate vietnamese rhainda_sex_1_doggy_b60993a8:
 
-    # rhainda "Not that I want to hurry you, but.."
+    # rhainda "Not that I want to hurry you, but..."
     rhainda "Không phải em đang giục anh đâu, nhưng mà..."
 
 # game/characters/rhainda/sex_1.rpy:221
@@ -567,7 +567,7 @@ translate vietnamese rhainda_sex_1_doggy_ce6d276e:
 # game/characters/rhainda/sex_1.rpy:226
 translate vietnamese rhainda_sex_1_doggy_c779e11e:
 
-    # me "It seems you were more horny than me.."
+    # me "It seems you were more horny than me..."
     me "Có vẻ như em còn nứng hơn cả anh đấy..."
 
 # game/characters/rhainda/sex_1.rpy:227
@@ -609,8 +609,8 @@ translate vietnamese rhainda_sex_1_doggy_41fa1cfe:
 # game/characters/rhainda/sex_1.rpy:239
 translate vietnamese rhainda_sex_1_doggy_04a6121a:
 
-    # rhainda "You treat me good.."
-    rhainda "Vì anh chăm sóc em rất tốt đấy.."
+    # rhainda "You treat me good..."
+    rhainda "Vì anh chăm sóc em rất tốt đấy..."
 
 # game/characters/rhainda/sex_1.rpy:240
 translate vietnamese rhainda_sex_1_doggy_a1b1c669:
@@ -663,13 +663,13 @@ translate vietnamese rhainda_sex_1_doggy_c086982f:
 # game/characters/rhainda/sex_1.rpy:251
 translate vietnamese rhainda_sex_1_doggy_bf712670:
 
-    # me "So tight.."
+    # me "So tight..."
     me "Chặt quá..."
 
 # game/characters/rhainda/sex_1.rpy:255
 translate vietnamese rhainda_sex_1_doggy_1ee54d56:
 
-    # rhainda "So nice.."
+    # rhainda "So nice..."
     rhainda "Tuyệt quá..."
 
 # game/characters/rhainda/sex_1.rpy:256
@@ -693,7 +693,7 @@ translate vietnamese rhainda_sex_1_doggy_5e9cd113:
 # game/characters/rhainda/sex_1.rpy:259
 translate vietnamese rhainda_sex_1_doggy_b911e0b8:
 
-    # me "Eh.. Are you going to stand up?"
+    # me "Eh... Are you going to stand up?"
     me "Eh... em có định đứng lên không vậy?"
 
 # game/characters/rhainda/sex_1.rpy:260
@@ -735,7 +735,7 @@ translate vietnamese rhainda_sex_1_doggy_f25be515:
 # game/characters/rhainda/sex_1.rpy:266
 translate vietnamese rhainda_sex_1_doggy_da7fbe3a:
 
-    # rhainda "Whelp.."
+    # rhainda "Whelp..."
     rhainda "Whelp..."
 
 # game/characters/rhainda/sex_1.rpy:267

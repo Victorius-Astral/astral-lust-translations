@@ -165,8 +165,8 @@ translate vietnamese explore_construction_shop_win_64bbed36:
 # game/events/explore/construction_shop.rpy:134
 translate vietnamese explore_construction_shop_win_692e9ca5:
 
-    # scavenger_girl "Y-Yes.. I'll do it, just please, let me go."
-    scavenger_girl "V-Vâng .. Tôi sẽ làm điều đó, làm ơn, hãy để tôi đi."
+    # scavenger_girl "Y-Yes... I'll do it, just please, let me go."
+    scavenger_girl "V-Vâng ... Tôi sẽ làm điều đó, làm ơn, hãy để tôi đi."
 
 # game/events/explore/construction_shop.rpy:135
 translate vietnamese explore_construction_shop_win_46feb686:
@@ -207,8 +207,8 @@ translate vietnamese explore_construction_shop_win_18131524:
 # game/events/explore/construction_shop.rpy:155
 translate vietnamese explore_construction_shop_win_e6a83837:
 
-    # th "Fuck, the beast inside of me is so wild.."
-    th "Con Mẹ nó, con thú trong mình hoang dã quá.."
+    # th "Fuck, the beast inside of me is so wild..."
+    th "Con Mẹ nó, con thú trong mình hoang dã quá..."
 
 # game/events/explore/construction_shop.rpy:156
 translate vietnamese explore_construction_shop_win_fb63590d:
@@ -219,8 +219,8 @@ translate vietnamese explore_construction_shop_win_fb63590d:
 # game/events/explore/construction_shop.rpy:157
 translate vietnamese explore_construction_shop_win_62ddce3a:
 
-    # me "I think you can take me even deeper.."
-    me "Tao nghĩ mày có thể đi sâu hơn nữa.."
+    # me "I think you can take me even deeper..."
+    me "Tao nghĩ mày có thể đi sâu hơn nữa..."
 
 # game/events/explore/construction_shop.rpy:158
 translate vietnamese explore_construction_shop_win_77a94726:
@@ -267,8 +267,8 @@ translate vietnamese explore_construction_shop_win_806ba9aa:
 # game/events/explore/construction_shop.rpy:179
 translate vietnamese explore_construction_shop_win_2187d97a:
 
-    # me "And now.."
-    me "Và bây giờ.."
+    # me "And now..."
+    me "Và bây giờ..."
 
 # game/events/explore/construction_shop.rpy:182
 translate vietnamese explore_construction_shop_win_eeed5ad7:
@@ -303,8 +303,8 @@ translate vietnamese explore_construction_shop_win_3768c14b:
 # game/events/explore/construction_shop.rpy:202
 translate vietnamese explore_construction_shop_win_2c09d4d6:
 
-    # scavenger_girl "I-I.."
-    scavenger_girl "T-tôi.."
+    # scavenger_girl "I-I..."
+    scavenger_girl "T-tôi..."
 
 # game/events/explore/construction_shop.rpy:203
 translate vietnamese explore_construction_shop_win_95e6bf66:
@@ -321,8 +321,8 @@ translate vietnamese explore_construction_shop_win_b7ac2e07_2:
 # game/events/explore/construction_shop.rpy:207
 translate vietnamese explore_construction_shop_win_869d55ae:
 
-    # scavenger_girl "A-Alright.."
-    scavenger_girl "Đ-Được rồi.."
+    # scavenger_girl "A-Alright..."
+    scavenger_girl "Đ-Được rồi..."
 
 # game/events/explore/construction_shop.rpy:208
 translate vietnamese explore_construction_shop_win_aa93b10c:
@@ -363,8 +363,8 @@ translate vietnamese explore_construction_shop_win_7eff678b:
 # game/events/explore/construction_shop.rpy:221
 translate vietnamese explore_construction_shop_win_b7d40633:
 
-    # scavenger_girl "Sorry.."
-    scavenger_girl "Xin lỗi.."
+    # scavenger_girl "Sorry..."
+    scavenger_girl "Xin lỗi..."
 
 # game/events/explore/construction_shop.rpy:229
 translate vietnamese explore_construction_shop_win_0b7355de:
@@ -429,8 +429,8 @@ translate vietnamese explore_construction_shop_win_effc0d2b:
 # game/events/explore/construction_shop.rpy:246
 translate vietnamese explore_construction_shop_win_f9bc7416:
 
-    # scavenger_girl "It is not.."
-    scavenger_girl "Nó không phải.."
+    # scavenger_girl "It is not..."
+    scavenger_girl "Nó không phải..."
 
 # game/events/explore/construction_shop.rpy:249
 translate vietnamese explore_construction_shop_win_ce031dd4:
@@ -489,8 +489,8 @@ translate vietnamese explore_construction_shop_win_b6da4ef5:
 # game/events/explore/construction_shop.rpy:279
 translate vietnamese explore_construction_shop_win_fc055745:
 
-    # me "Ahh.. Fuck yeah."
-    me "Ahh.. Fuck yeah."
+    # me "Ahh... Fuck yeah."
+    me "Ahh... Fuck yeah."
 
 # game/events/explore/construction_shop.rpy:280
 translate vietnamese explore_construction_shop_win_876166dd:

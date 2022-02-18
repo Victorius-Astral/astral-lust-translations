@@ -63,8 +63,8 @@ translate vietnamese grace_5_0f8864fa:
 # game/characters/grace/ev_5.rpy:35
 translate vietnamese grace_5_8613d446:
 
-    # th "It could've gone worse I guess.."
-    th "Mình đoán là nó có thể trở nên tồi tệ hơn.."
+    # th "It could've gone worse I guess..."
+    th "Mình đoán là nó có thể trở nên tồi tệ hơn..."
 
 # game/characters/grace/ev_5.rpy:42
 translate vietnamese grace_5_5c1be171:
@@ -141,8 +141,8 @@ translate vietnamese grace_5_2_2d7cab0e:
 # game/characters/grace/ev_5.rpy:78
 translate vietnamese grace_5_2_b83a8525:
 
-    # grace "You'll do I suppose.."
-    grace "Em cho rằng anh sẽ làm được thôi.."
+    # grace "You'll do I suppose..."
+    grace "Em cho rằng anh sẽ làm được thôi..."
 
 # game/characters/grace/ev_5.rpy:80
 translate vietnamese grace_5_2_64eb34ff:
@@ -201,8 +201,8 @@ translate vietnamese grace_5_2_dd70b21d:
 # game/characters/grace/ev_5.rpy:91
 translate vietnamese grace_5_2_ce5209c3:
 
-    # me "That can indeed happen.."
-    me "Điều đó thực sự có thể xảy ra.."
+    # me "That can indeed happen..."
+    me "Điều đó thực sự có thể xảy ra..."
 
 # game/characters/grace/ev_5.rpy:93
 translate vietnamese grace_5_2_23ce8e97:
@@ -291,8 +291,8 @@ translate vietnamese grace_5_2_667e40c1:
 # game/characters/grace/ev_5.rpy:115
 translate vietnamese grace_5_2_c53f9f59:
 
-    # me "You are imagining it.."
-    me "Em đang tưởng tượng đấy.."
+    # me "You are imagining it..."
+    me "Em đang tưởng tượng đấy..."
 
 # game/characters/grace/ev_5.rpy:117
 translate vietnamese grace_5_2_3057b714:
@@ -309,8 +309,8 @@ translate vietnamese grace_5_2_89b1573b:
 # game/characters/grace/ev_5.rpy:120
 translate vietnamese grace_5_2_ea30b105:
 
-    # grace "Oh! I see.."
-    grace "Oh! Em hiểu rồi.."
+    # grace "Oh! I see..."
+    grace "Oh! Em hiểu rồi..."
 
 # game/characters/grace/ev_5.rpy:121
 translate vietnamese grace_5_2_e766e64d:
@@ -327,20 +327,20 @@ translate vietnamese grace_5_2_f3815b58:
 # game/characters/grace/ev_5.rpy:124
 translate vietnamese grace_5_2_f9616106:
 
-    # grace "Umm.."
-    grace "Umm.."
+    # grace "Umm..."
+    grace "Umm..."
 
 # game/characters/grace/ev_5.rpy:125
 translate vietnamese grace_5_2_9f54b3a7:
 
-    # me "Say it.."
-    me "Nói đi.."
+    # me "Say it..."
+    me "Nói đi..."
 
 # game/characters/grace/ev_5.rpy:126
 translate vietnamese grace_5_2_4350c05b:
 
-    # th "I don't know if I want to hear it, though.."
-    th "Mình không biết liệu mình có muốn nghe không.."
+    # th "I don't know if I want to hear it, though..."
+    th "Mình không biết liệu mình có muốn nghe không..."
 
 # game/characters/grace/ev_5.rpy:127
 translate vietnamese grace_5_2_1813409d:
@@ -369,14 +369,14 @@ translate vietnamese grace_5_2_3b73ba59:
 # game/characters/grace/ev_5.rpy:132
 translate vietnamese grace_5_2_6dfa42d9:
 
-    # me "I don't hate you.."
-    me "Anh không ghét em.."
+    # me "I don't hate you..."
+    me "Anh không ghét em..."
 
 # game/characters/grace/ev_5.rpy:134
 translate vietnamese grace_5_2_0de87c5b:
 
-    # grace "Hmmmm.."
-    grace "Hmmmm.."
+    # grace "Hmmmm..."
+    grace "Hmmmm..."
 
 # game/characters/grace/ev_5.rpy:135
 translate vietnamese grace_5_2_6d5b6bdc:
@@ -417,14 +417,14 @@ translate vietnamese grace_5_2_9d573b2b:
 # game/characters/grace/ev_5.rpy:150
 translate vietnamese grace_5_2_d2c40cf9:
 
-    # grace "You are.."
-    grace "Hmm.."
+    # grace "You are..."
+    grace "Hmm..."
 
 # game/characters/grace/ev_5.rpy:156
 translate vietnamese grace_5_2_f563f0f2:
 
-    # grace "Oh.."
-    grace "Oh.."
+    # grace "Oh..."
+    grace "Oh..."
 
 # game/characters/grace/ev_5.rpy:162
 translate vietnamese grace_5_3_30772e4b:
@@ -471,8 +471,8 @@ translate vietnamese grace_5_3_83087c50:
 # game/characters/grace/ev_5.rpy:172
 translate vietnamese grace_5_3_b5f77652:
 
-    # grace "I don't know how to do massage.."
-    grace "Em không biết massage.."
+    # grace "I don't know how to do massage..."
+    grace "Em không biết massage..."
 
 # game/characters/grace/ev_5.rpy:173
 translate vietnamese grace_5_3_3820771a:
@@ -579,8 +579,8 @@ translate vietnamese grace_5_3_0865daa2:
 # game/characters/grace/ev_5.rpy:194
 translate vietnamese grace_5_3_f971b7a1:
 
-    # grace "No.. then on whose breasts will you teach me?"
-    grace "Không .. thế anh sẽ dạy em bằng ngực của ai?"
+    # grace "No... then on whose breasts will you teach me?"
+    grace "Không ... thế anh sẽ dạy em bằng ngực của ai?"
 
 # game/characters/grace/ev_5.rpy:195
 translate vietnamese grace_5_3_e26d5cbc:
@@ -603,8 +603,8 @@ translate vietnamese grace_5_3_83e3debe:
 # game/characters/grace/ev_5.rpy:200
 translate vietnamese grace_5_3_05acdccf:
 
-    # grace "Right.."
-    grace "Phải rồi.."
+    # grace "Right..."
+    grace "Phải rồi..."
 
 # game/characters/grace/ev_5.rpy:201
 translate vietnamese grace_5_3_901b2cd2:
@@ -615,8 +615,8 @@ translate vietnamese grace_5_3_901b2cd2:
 # game/characters/grace/ev_5.rpy:203
 translate vietnamese grace_5_3_50057455:
 
-    # grace "I.. umm.."
-    grace "Em.. umm.."
+    # grace "I... umm..."
+    grace "Em... umm..."
 
 # game/characters/grace/ev_5.rpy:204
 translate vietnamese grace_5_3_65576544:
@@ -681,8 +681,8 @@ translate vietnamese grace_5_3_d5a5a329:
 # game/characters/grace/ev_5.rpy:235
 translate vietnamese grace_5_3_059ab5c6:
 
-    # th "It's supposed to be a lesson.. should I teach her?"
-    th "Đây đáng lẽ ra là một bài học .. Mình có nên dạy em ấy không?"
+    # th "It's supposed to be a lesson... should I teach her?"
+    th "Đây đáng lẽ ra là một bài học ... Mình có nên dạy em ấy không?"
 
 # game/characters/grace/ev_5.rpy:236
 translate vietnamese grace_5_3_91cf8f8d:
@@ -753,8 +753,8 @@ translate vietnamese grace_5_3_e8132e2b:
 # game/characters/grace/ev_5.rpy:255
 translate vietnamese grace_5_3_22142a55:
 
-    # th "Shit.. I just got hard, her moans are so erotic yet innocent at the same time."
-    th "Đệt .. Mình vừa nứng lên, tiếng rên của em ấy vừa gợi tình lại vừa ngây thơ.."
+    # th "Shit... I just got hard, her moans are so erotic yet innocent at the same time."
+    th "Đệt ... Mình vừa nứng lên, tiếng rên của em ấy vừa gợi tình lại vừa ngây thơ..."
 
 # game/characters/grace/ev_5.rpy:256
 translate vietnamese grace_5_3_0292aeb0:
@@ -765,8 +765,8 @@ translate vietnamese grace_5_3_0292aeb0:
 # game/characters/grace/ev_5.rpy:257
 translate vietnamese grace_5_3_2cdc3abb:
 
-    # th "Don't tell me she's about to cum.."
-    th "Đừng nói với tao là em ấy sắp Ra.."
+    # th "Don't tell me she's about to cum..."
+    th "Đừng nói với tao là em ấy sắp Ra..."
 
 # game/characters/grace/ev_5.rpy:261
 translate vietnamese grace_5_3_b03adb9a:
@@ -783,8 +783,8 @@ translate vietnamese grace_5_3_b03adb9a_1:
 # game/characters/grace/ev_5.rpy:273
 translate vietnamese grace_5_3_fcad209e:
 
-    # me "Phew.. that was intense. [grace], you good?"
-    me "Phù.. thật là dữ dội. [grace], em ổn chứ?"
+    # me "Phew... that was intense. [grace], you good?"
+    me "Phù... thật là dữ dội. [grace], em ổn chứ?"
 
 # game/characters/grace/ev_5.rpy:275
 translate vietnamese grace_5_3_575e7252:
@@ -813,8 +813,8 @@ translate vietnamese grace_5_3_5ad7632a:
 # game/characters/grace/ev_5.rpy:280
 translate vietnamese grace_5_3_a7bc8e61:
 
-    # th "Can't complain, that was nice. A pity that only she came.."
-    th "Không thể phàn nàn, điều đó thật tuyệt. Tiếc rằng chỉ có em ấy được lên đỉnh.."
+    # th "Can't complain, that was nice. A pity that only she came..."
+    th "Không thể phàn nàn, điều đó thật tuyệt. Tiếc rằng chỉ có em ấy được lên đỉnh..."
 
 # game/characters/grace/ev_5.rpy:281
 translate vietnamese grace_5_3_96dc44ef:

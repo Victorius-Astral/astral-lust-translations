@@ -87,26 +87,26 @@ translate vietnamese succA_succB_3_0f59bb92:
 # game/characters/succubi/succA_succB_3.rpy:35
 translate vietnamese succA_succB_3_91f7ae0b:
 
-    # succA "So manly and sexy.."
-    succA "Rất nam tính và sexy.."
+    # succA "So manly and sexy..."
+    succA "Rất nam tính và sexy..."
 
 # game/characters/succubi/succA_succB_3.rpy:38
 translate vietnamese succA_succB_3_ec685ce4:
 
-    # succB "Oh, [succB_master].."
-    succB "Oh, [succB_master].."
+    # succB "Oh, [succB_master]..."
+    succB "Oh, [succB_master]..."
 
 # game/characters/succubi/succA_succB_3.rpy:39
 translate vietnamese succA_succB_3_7cce2715:
 
-    # succA "[succA_master].."
-    succA "[succA_master].."
+    # succA "[succA_master]..."
+    succA "[succA_master]..."
 
 # game/characters/succubi/succA_succB_3.rpy:40
 translate vietnamese succA_succB_3_76a244ec:
 
-    # me "Stop looking at me with those puppy eyes.."
-    me "Đừng nhìn tôi bằng đôi mắt đấy nữa.."
+    # me "Stop looking at me with those puppy eyes..."
+    me "Đừng nhìn tôi bằng đôi mắt đấy nữa..."
 
 # game/characters/succubi/succA_succB_3.rpy:41
 translate vietnamese succA_succB_3_797371a1:
@@ -123,8 +123,8 @@ translate vietnamese succA_succB_3_ab2452a2:
 # game/characters/succubi/succA_succB_3.rpy:43
 translate vietnamese succA_succB_3_96cf431a:
 
-    # me "Stop.."
-    me "Dừng lại.."
+    # me "Stop..."
+    me "Dừng lại..."
 
 # game/characters/succubi/succA_succB_3.rpy:44
 translate vietnamese succA_succB_3_797371a1_1:
@@ -159,8 +159,8 @@ translate vietnamese succA_succB_3_part2_e5a558f4:
 # game/characters/succubi/succA_succB_3.rpy:60
 translate vietnamese succA_succB_3_part2_e98ee53e:
 
-    # succA "Don't disappoint me, bitch.."
-    succA "Đừng làm tao thất vọng nha con đĩ.."
+    # succA "Don't disappoint me, bitch..."
+    succA "Đừng làm tao thất vọng nha con đĩ..."
 
 # game/characters/succubi/succA_succB_3.rpy:61
 translate vietnamese succA_succB_3_part2_c0fceaac:
@@ -195,14 +195,14 @@ translate vietnamese succA_succB_3_part2_ebadae7f:
 # game/characters/succubi/succA_succB_3.rpy:68
 translate vietnamese succA_succB_3_part2_cb203021:
 
-    # me ".. Have you heard what I just said?"
-    me ".. Cô đã nghe những gì tôi vừa nói chưa?"
+    # me "... Have you heard what I just said?"
+    me "... Cô đã nghe những gì tôi vừa nói chưa?"
 
 # game/characters/succubi/succA_succB_3.rpy:69
 translate vietnamese succA_succB_3_part2_af1f81ca:
 
-    # succA "Yes [succA_master], I already love this bit.. [succB]."
-    succA "Rồi ạ [succA_master], em rất thích con đ.. [succB]."
+    # succA "Yes [succA_master], I already love this bit... [succB]."
+    succA "Rồi ạ [succA_master], em rất thích con đ... [succB]."
 
 # game/characters/succubi/succA_succB_3.rpy:70
 translate vietnamese succA_succB_3_part2_3820771a_1:
@@ -225,14 +225,14 @@ translate vietnamese succA_succB_3_part2_f64e06f4:
 # game/characters/succubi/succA_succB_3.rpy:73
 translate vietnamese succA_succB_3_part2_7bdf3234:
 
-    # me ".. Yeah, I'm proud.."
-    me ".. Yeah, tôi rất tự hào.."
+    # me "... Yeah, I'm proud..."
+    me "... Yeah, tôi rất tự hào..."
 
 # game/characters/succubi/succA_succB_3.rpy:76
 translate vietnamese succA_succB_3_part2_bfdcd5d2:
 
-    # succB "Then, maybe.."
-    succB "Vậy, có thể.."
+    # succB "Then, maybe..."
+    succB "Vậy, có thể..."
 
 # game/characters/succubi/succA_succB_3.rpy:77
 translate vietnamese succA_succB_3_part2_6e50d3ef:
@@ -249,14 +249,14 @@ translate vietnamese succA_succB_3_part2_797371a1:
 # game/characters/succubi/succA_succB_3.rpy:81
 translate vietnamese succA_succB_3_part2_2ce2d450:
 
-    # succA "What a pity.."
-    succA "Thật đáng tiếc.."
+    # succA "What a pity..."
+    succA "Thật đáng tiếc..."
 
 # game/characters/succubi/succA_succB_3.rpy:82
 translate vietnamese succA_succB_3_part2_b0f40490:
 
-    # me "If you do what I want.. Well, who knows?"
-    me "Nếu cô làm những gì tôi muốn .. Chà, ai mà biết được chứ?"
+    # me "If you do what I want... Well, who knows?"
+    me "Nếu cô làm những gì tôi muốn ... Chà, ai mà biết được chứ?"
 
 # game/characters/succubi/succA_succB_3.rpy:85
 translate vietnamese succA_succB_3_part2_797371a1_1:
@@ -291,8 +291,8 @@ translate vietnamese succA_succB_3_part2_8dc98cb5:
 # game/characters/succubi/succA_succB_3.rpy:92
 translate vietnamese succA_succB_3_part2_404660ab:
 
-    # th "What a quick change of mind.."
-    th "Quay mặt như chong chóng vậy.."
+    # th "What a quick change of mind..."
+    th "Quay mặt như chong chóng vậy..."
 
 # game/characters/succubi/succA_succB_3.rpy:95
 translate vietnamese succA_succB_3_part2_4335665c:
@@ -315,8 +315,8 @@ translate vietnamese succA_succB_3_part2_fb57c353:
 # game/characters/succubi/succA_succB_3.rpy:98
 translate vietnamese succA_succB_3_part2_d2f0ad47:
 
-    # th "Yeah, sure.. I don't buy it."
-    th "Yeah, chắc chắn rồi.."
+    # th "Yeah, sure... I don't buy it."
+    th "Yeah, chắc chắn rồi..."
 
 # game/characters/succubi/succA_succB_3.rpy:106
 translate vietnamese succA_succB_3_part2_eb6945a5:
@@ -333,8 +333,8 @@ translate vietnamese succA_succB_3_part2_0a496665:
 # game/characters/succubi/succA_succB_3.rpy:108
 translate vietnamese succA_succB_3_part2_07b0cd58:
 
-    # succA "Ahh.."
-    succA "Ahh.."
+    # succA "Ahh..."
+    succA "Ahh..."
 
 # game/characters/succubi/succA_succB_3.rpy:109
 translate vietnamese succA_succB_3_part2_3944a8f2:
@@ -351,20 +351,20 @@ translate vietnamese succA_succB_3_part2_59ddbb25:
 # game/characters/succubi/succA_succB_3.rpy:111
 translate vietnamese succA_succB_3_part2_aebdfb98:
 
-    # succA "Yes. Sorry I've called you a bitch.."
-    succA "Đúng. Xin lỗi tôi đã gọi cô là con đĩ.."
+    # succA "Yes. Sorry I've called you a bitch..."
+    succA "Đúng. Xin lỗi tôi đã gọi cô là con đĩ..."
 
 # game/characters/succubi/succA_succB_3.rpy:112
 translate vietnamese succA_succB_3_part2_adf142a1:
 
-    # succB "I'm a good, little, [succB_master]'s bitch~ I'm sorry I've called you whore.."
-    succB "Tôi ổn mà~ Tôi xin lỗi vì tôi đã gọi cậu là con điếm.."
+    # succB "I'm a good, little, [succB_master]'s bitch~ I'm sorry I've called you whore..."
+    succB "Tôi ổn mà~ Tôi xin lỗi vì tôi đã gọi cô là con điếm..."
 
 # game/characters/succubi/succA_succB_3.rpy:113
 translate vietnamese succA_succB_3_part2_0f61b063:
 
-    # succA "I liked it! Nnnn.."
-    succA "tôi thích nó! Nnnn.."
+    # succA "I liked it! Nnnn..."
+    succA "tôi thích nó! Nnnn..."
 
 # game/characters/succubi/succA_succB_3.rpy:114
 translate vietnamese succA_succB_3_part2_86c66d4a:
@@ -375,8 +375,8 @@ translate vietnamese succA_succB_3_part2_86c66d4a:
 # game/characters/succubi/succA_succB_3.rpy:115
 translate vietnamese succA_succB_3_part2_7a59c1d6:
 
-    # th "Oh, wow, they actually apologized to each other.. Why is this turning me on so much?"
-    th "Oh, wow, họ thực sự đã xin lỗi nhau.. Tại sao điều này lại khiến mình nứng đến vậy?"
+    # th "Oh, wow, they actually apologized to each other... Why is this turning me on so much?"
+    th "Oh, wow, họ thực sự đã xin lỗi nhau... Tại sao điều này lại khiến mình nứng đến vậy?"
 
 # game/characters/succubi/succA_succB_3.rpy:123
 translate vietnamese succA_succB_3_part2_e8365918:
@@ -525,8 +525,8 @@ translate vietnamese succA_succB_3_part2_2e6a69ce:
 # game/characters/succubi/succA_succB_3.rpy:166
 translate vietnamese succA_succB_3_part2_05141155:
 
-    # succB "Pfft~ [succB_master].. There is nothing better than your dick~"
-    succB "Pfft~ [succB_master].. Không có gì tuyệt hơn cặc của ngài cả~"
+    # succB "Pfft~ [succB_master]... There is nothing better than your dick~"
+    succB "Pfft~ [succB_master]... Không có gì tuyệt hơn cặc của ngài cả~"
 
 # game/characters/succubi/succA_succB_3.rpy:167
 translate vietnamese succA_succB_3_part2_84115e5e:
@@ -561,26 +561,26 @@ translate vietnamese succA_succB_3_part2_91ed91f8:
 # game/characters/succubi/succA_succB_3.rpy:190
 translate vietnamese succA_succB_3_part2_7e31e369:
 
-    # succB "Ahh.. [succB_master].. You're playing with us.. If I didn't love you so much, I would cheat on you only to make you jealous, and fuck me.."
-    succB "Ahh.. [succB_master].. Ngài đang chơi với chúng em . Nếu em không yêu ngài nhiều như này, em sẽ lừa ngài chỉ để làm cho nhài ghen, và địt em.."
+    # succB "Ahh... [succB_master]... You're playing with us... If I didn't love you so much, I would cheat on you only to make you jealous, and fuck me..."
+    succB "Ahh... [succB_master]... Ngài đang chơi đùa với chúng em... Nếu em không yêu ngài nhiều như này, em sẽ lừa ngài chỉ để làm cho nhài ghen, và địt em..."
 
 # game/characters/succubi/succA_succB_3.rpy:191
 translate vietnamese succA_succB_3_part2_b6a080d3:
 
-    # th ".. What's up with this logic?"
-    th ".. Cái logic gì đây?"
+    # th "... What's up with this logic?"
+    th "... Cái logic gì đây?"
 
 # game/characters/succubi/succA_succB_3.rpy:192
 translate vietnamese succA_succB_3_part2_d8181ada:
 
-    # succA "Not nice, [succA_master].. Not nice.."
-    succA "Không tốt đâu [succA_master].. Không tốt đâu.."
+    # succA "Not nice, [succA_master]... Not nice..."
+    succA "Không tốt đâu [succA_master]... Không tốt đâu..."
 
 # game/characters/succubi/succA_succB_3.rpy:193
 translate vietnamese succA_succB_3_part2_37f1741c:
 
-    # me "You two just had orgasm.."
-    me "Hai người vừa lên đỉnh xong.."
+    # me "You two just had orgasm..."
+    me "Hai người vừa lên đỉnh xong..."
 
 # game/characters/succubi/succA_succB_3.rpy:196
 translate vietnamese succA_succB_3_part2_9cdac01f:
@@ -591,8 +591,8 @@ translate vietnamese succA_succB_3_part2_9cdac01f:
 # game/characters/succubi/succA_succB_3.rpy:197
 translate vietnamese succA_succB_3_part2_33969133:
 
-    # succA "So true.."
-    succA "Đúng đấy.."
+    # succA "So true..."
+    succA "Đúng đấy..."
 
 # game/characters/succubi/succA_succB_3.rpy:198
 translate vietnamese succA_succB_3_part2_3820771a_3:
@@ -615,14 +615,14 @@ translate vietnamese succA_succB_3_part2_393a2d83:
 # game/characters/succubi/succA_succB_3.rpy:205
 translate vietnamese succA_succB_3_part2_6c87e2e3:
 
-    # succA "Yes, [succA_master].."
-    succA "Vâng thưa [succA_master].."
+    # succA "Yes, [succA_master]..."
+    succA "Vâng thưa [succA_master]..."
 
 # game/characters/succubi/succA_succB_3.rpy:206
 translate vietnamese succA_succB_3_part2_897c6cc8:
 
-    # succB "So sad.."
-    succB "Buồn quá.."
+    # succB "So sad..."
+    succB "Buồn quá..."
 
 # game/characters/succubi/succA_succB_3.rpy:211
 translate vietnamese succA_succB_3_part2_82b14dd1:
@@ -633,20 +633,20 @@ translate vietnamese succA_succB_3_part2_82b14dd1:
 # game/characters/succubi/succA_succB_3.rpy:212
 translate vietnamese succA_succB_3_part2_76b6b56e:
 
-    # succA "Yes, [succA_master].. I'm disappointed in you."
-    succA "Dạ [succA_master].. em rất thất vọng về ngài."
+    # succA "Yes, [succA_master]... I'm disappointed in you."
+    succA "Vâng thưa [succA_master]... em rất thất vọng về ngài."
 
 # game/characters/succubi/succA_succB_3.rpy:213
 translate vietnamese succA_succB_3_part2_ebb70d17:
 
     # succB "Look, you've let us down."
-    succB "Nhìn này ngài đã làm bọn em thất vọng rồi đấy."
+    succB "Nhìn đi, ngài đã làm bọn em thất vọng rồi đấy."
 
 # game/characters/succubi/succA_succB_3.rpy:217
 translate vietnamese succA_succB_3_part2_1b9e9402:
 
-    # me "Alright.. Get inside and raise your cute asses up."
-    me "Được rồi.. Vào trong đi."
+    # me "Alright... Get inside and raise your cute asses up."
+    me "Được rồi... Vào trong đi."
 
 # game/characters/succubi/succA_succB_3.rpy:220
 translate vietnamese succA_succB_3_part2_1c7f82e6:
@@ -669,8 +669,8 @@ translate vietnamese succA_succB_3_part2_69fe9ce4:
 # game/characters/succubi/succA_succB_3.rpy:226
 translate vietnamese succA_succB_3_part2_07b0cd58_1:
 
-    # succA "Ahh.."
-    succA "Ahh.."
+    # succA "Ahh..."
+    succA "Ahh..."
 
 # game/characters/succubi/succA_succB_3.rpy:227
 translate vietnamese succA_succB_3_part2_797371a1_2:
@@ -687,8 +687,8 @@ translate vietnamese succA_succB_3_part2_e08a57a1:
 # game/characters/succubi/succA_succB_3.rpy:232
 translate vietnamese succA_succB_3_part2_519cdbb4:
 
-    # th "I feel guilty.. These girls.."
-    th "Mình cảm thấy tội lỗi.. Những cô gái này.."
+    # th "I feel guilty... These girls..."
+    th "Mình cảm thấy tội lỗi... Những cô gái này..."
 
 translate vietnamese strings:
 
@@ -701,8 +701,8 @@ translate vietnamese strings:
     new "Không là không"
 
     # game/characters/succubi/succA_succB_3.rpy:181
-    old "It better be worth my time.."
-    new "It better be worth my time.."
+    old "It better be worth my time..."
+    new "It better be worth my time..."
 
     # game/characters/succubi/succA_succB_3.rpy:181
     old "Looking at you two was enough, time to go back"

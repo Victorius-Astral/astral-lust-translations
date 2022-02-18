@@ -51,8 +51,8 @@ translate vietnamese savenia_6_3144e4fd:
 # game/characters/savenia/ev_6.rpy:36
 translate vietnamese savenia_6_8c3a48bd:
 
-    # th "And a little disappointed.."
-    th "Và một chút thất vọng.."
+    # th "And a little disappointed..."
+    th "Và một chút thất vọng..."
 
 # game/characters/savenia/ev_6.rpy:37
 translate vietnamese savenia_6_9c1ec461:

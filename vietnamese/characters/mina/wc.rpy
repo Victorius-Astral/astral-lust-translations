@@ -39,8 +39,8 @@ translate vietnamese wc_mina_c1f83129:
 # game/characters/mina/wc.rpy:17
 translate vietnamese wc_mina_62d89b64:
 
-    # me "I didn't mean to.."
-    me "Anh không cố ý.."
+    # me "I didn't mean to..."
+    me "Anh không cố ý..."
 
 # game/characters/mina/wc.rpy:19
 translate vietnamese wc_mina_bb120286:
@@ -51,8 +51,8 @@ translate vietnamese wc_mina_bb120286:
 # game/characters/mina/wc.rpy:21
 translate vietnamese wc_mina_0d79b7ff:
 
-    # mina "Yeez.. Do you need to be such a creep?"
-    mina "Yeez.. Anh có cần phải trở thành một kẻ quái dị như vậy không?"
+    # mina "Yeez... Do you need to be such a creep?"
+    mina "Yeez... Anh có cần phải trở thành một kẻ quái dị như vậy không?"
 
 # game/characters/mina/wc.rpy:22
 translate vietnamese wc_mina_b847dfb7:
@@ -63,14 +63,14 @@ translate vietnamese wc_mina_b847dfb7:
 # game/characters/mina/wc.rpy:23
 translate vietnamese wc_mina_2ff496f9:
 
-    # mina "I know you're horny, but there are some limits, man.."
-    mina "Em biết anh đang nắng cực, nhưng phải có giới hạn thôi.."
+    # mina "I know you're horny, but there are some limits, man..."
+    mina "Em biết anh đang nắng cực, nhưng phải có giới hạn thôi..."
 
 # game/characters/mina/wc.rpy:24
 translate vietnamese wc_mina_4989fe05:
 
-    # me "I.."
-    me "Anh.."
+    # me "I..."
+    me "Anh..."
 
 # game/characters/mina/wc.rpy:25
 translate vietnamese wc_mina_b7e7a19f:
@@ -81,5 +81,5 @@ translate vietnamese wc_mina_b7e7a19f:
 # game/characters/mina/wc.rpy:26
 translate vietnamese wc_mina_c4d20f7b:
 
-    # me "Sorry.."
-    me "Xin lỗi.."
+    # me "Sorry..."
+    me "Xin lỗi..."

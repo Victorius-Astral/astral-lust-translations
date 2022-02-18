@@ -39,8 +39,8 @@ translate vietnamese lexi_1_cad20a9a:
 # game/characters/lexi/ev_1.rpy:21
 translate vietnamese lexi_1_137c4a29:
 
-    # lexi "Ohh.. I'll go then."
-    lexi "Ohh.. Thế em sẽ đi vậy."
+    # lexi "Ohh... I'll go then."
+    lexi "Ohh... Thế em sẽ đi vậy."
 
 # game/characters/lexi/ev_1.rpy:23
 translate vietnamese lexi_1_2a8e23a6:
@@ -69,8 +69,8 @@ translate vietnamese lexi_1_1_35c66460:
 # game/characters/lexi/ev_1.rpy:32
 translate vietnamese lexi_1_1_cbc2a04f:
 
-    # th "Well I guess there is only one way to find out.."
-    th "Mình đoán là chỉ có một cách để tìm ra.."
+    # th "Well I guess there is only one way to find out..."
+    th "Mình đoán là chỉ có một cách để tìm ra..."
 
 # game/characters/lexi/ev_1.rpy:37
 translate vietnamese lexi_1_1_a9fe643f:
@@ -81,8 +81,8 @@ translate vietnamese lexi_1_1_a9fe643f:
 # game/characters/lexi/ev_1.rpy:38
 translate vietnamese lexi_1_1_626b7990:
 
-    # th "This fog is so weird.. Why does it never fade away?"
-    th "Sương mù này lạ quá.. Tại sao nó không bao giờ tan ®i?"
+    # th "This fog is so weird... Why does it never fade away?"
+    th "Sương mù này lạ quá... Tại sao nó không bao giờ tan ®i?"
 
 # game/characters/lexi/ev_1.rpy:39
 translate vietnamese lexi_1_1_ac037980:
@@ -153,8 +153,8 @@ translate vietnamese lexi_1_1_2941e101:
 # game/characters/lexi/ev_1.rpy:59
 translate vietnamese lexi_1_1_7cc9f907:
 
-    # th "I wonder what that is.. Sounds like an elephant taking a walk. What should I do?"
-    th "Mình tự hỏi đó là gì.. Nghe như một con voi đang đi dạo. Mình nên làm gì đây?"
+    # th "I wonder what that is... Sounds like an elephant taking a walk. What should I do?"
+    th "Mình tự hỏi đó là gì... Nghe như một con voi đang đi dạo. Mình nên làm gì đây?"
 
 # game/characters/lexi/ev_1.rpy:63
 translate vietnamese lexi_1_1_c5b82171:
@@ -303,8 +303,8 @@ translate vietnamese lexi_1_2_0eca0cca:
 # game/characters/lexi/ev_1.rpy:130
 translate vietnamese lexi_1_2_5d7bd1e6:
 
-    # th "Finally back.. It was just a few hours, but it feels as though years have passed."
-    th "Cuối cùng cũng quay lại .. Nó chỉ là một vài giờ, nhưng cảm giác như thể nhiều năm đã trôi qua."
+    # th "Finally back... It was just a few hours, but it feels as though years have passed."
+    th "Cuối cùng cũng quay lại ... Nó chỉ là một vài giờ, nhưng cảm giác như thể nhiều năm đã trôi qua."
 
 # game/characters/lexi/ev_1.rpy:131
 translate vietnamese lexi_1_2_3c280904:
@@ -369,8 +369,8 @@ translate vietnamese lexi_1_2_ef8234ec:
 # game/characters/lexi/ev_1.rpy:148
 translate vietnamese lexi_1_2_bcc23bb8:
 
-    # lexi "Well.. you are alive, aren't you?"
-    lexi "Thì.. anh còn sống, phải không?"
+    # lexi "Well... you are alive, aren't you?"
+    lexi "Thì... anh còn sống, phải không?"
 
 # game/characters/lexi/ev_1.rpy:149
 translate vietnamese lexi_1_2_3820771a:
@@ -393,8 +393,8 @@ translate vietnamese lexi_1_2_9855dfba:
 # game/characters/lexi/ev_1.rpy:154
 translate vietnamese lexi_1_2_dc174468:
 
-    # th "More than you can imagine.."
-    th "Nhiều hơn em có thể tưởng tượng.."
+    # th "More than you can imagine..."
+    th "Nhiều hơn em có thể tưởng tượng..."
 
 # game/characters/lexi/ev_1.rpy:155
 translate vietnamese lexi_1_2_c30b96a8:

@@ -87,8 +87,8 @@ translate vietnamese speak_grace_tasks_282f3876:
 # game/characters/grace/speak.rpy:125
 translate vietnamese speak_grace_tasks_69b7980c:
 
-    # grace "Grr.."
-    grace "Grr.."
+    # grace "Grr..."
+    grace "Grr..."
 
 # game/characters/grace/speak.rpy:134
 translate vietnamese speak_grace_tasks_379d3df7:
@@ -189,8 +189,8 @@ translate vietnamese speak_grace_fingering_0b272415:
 # game/characters/grace/speak.rpy:207
 translate vietnamese speak_grace_fingering_83a79eb2:
 
-    # grace "In exchange, you can play with my pussy again.."
-    grace "Đổi lại, anh có thể chơi với âm hộ của em một lần nữa.."
+    # grace "In exchange, you can play with my pussy again..."
+    grace "Đổi lại, anh có thể chơi với âm hộ của em một lần nữa..."
 
 # game/characters/grace/speak.rpy:208
 translate vietnamese speak_grace_fingering_3323f07b:
@@ -201,8 +201,8 @@ translate vietnamese speak_grace_fingering_3323f07b:
 # game/characters/grace/speak.rpy:209
 translate vietnamese speak_grace_fingering_74d04ae6:
 
-    # me "Naughty girl.."
-    me "Cô gái hư hỏng.."
+    # me "Naughty girl..."
+    me "Cô gái hư hỏng..."
 
 # game/characters/grace/speak.rpy:210
 translate vietnamese speak_grace_fingering_fdb4e830:
@@ -237,8 +237,8 @@ translate vietnamese speak_grace_fingering_7776fda0:
 # game/characters/grace/speak.rpy:221
 translate vietnamese speak_grace_fingering_9d2d3ac0:
 
-    # th "I wonder if she's more happy about the rose or me playing with her pussy.."
-    th "Mình tự hỏi em ấy vui hơn về bông hồng hay là việc mình chơi với âm hộ của em ấy.."
+    # th "I wonder if she's more happy about the rose or me playing with her pussy..."
+    th "Mình tự hỏi em ấy vui hơn về bông hồng hay là việc mình chơi với âm hộ của em ấy..."
 
 # game/characters/grace/speak.rpy:227
 translate vietnamese speak_grace_fingering_1ccc40b4:
@@ -249,14 +249,14 @@ translate vietnamese speak_grace_fingering_1ccc40b4:
 # game/characters/grace/speak.rpy:232
 translate vietnamese speak_grace_fingering_7b71b640:
 
-    # grace "Ohh.."
-    grace "Ohh.."
+    # grace "Ohh..."
+    grace "Ohh..."
 
 # game/characters/grace/speak.rpy:237
 translate vietnamese speak_grace_fingering_0a928bf9:
 
-    # grace "Hmmm.."
-    grace "Hmmm.."
+    # grace "Hmmm..."
+    grace "Hmmm..."
 
 # game/characters/grace/speak.rpy:238
 translate vietnamese speak_grace_fingering_62b3f61a:
@@ -297,8 +297,8 @@ translate vietnamese speak_grace_fingering_66689589:
 # game/characters/grace/speak.rpy:252
 translate vietnamese speak_grace_fingering_c6e059ba:
 
-    # grace "So even though you don't have rose, I'll still pay you. To help you.. We need to help each other, right?"
-    grace "Vì vậy, dù anh không có hoa hồng, em vẫn sẽ thưởng cho anh. Để giúp anh.. Chúng ta cần giúp đỡ lẫn nhau đúng không?"
+    # grace "So even though you don't have rose, I'll still pay you. To help you... We need to help each other, right?"
+    grace "Vì vậy, dù anh không có hoa hồng, em vẫn sẽ thưởng cho anh. Để giúp anh... Chúng ta cần giúp đỡ lẫn nhau đúng không?"
 
 # game/characters/grace/speak.rpy:253
 translate vietnamese speak_grace_fingering_314086b3:
@@ -321,14 +321,14 @@ translate vietnamese speak_grace_fingering_3820771a_1:
 # game/characters/grace/speak.rpy:256
 translate vietnamese speak_grace_fingering_59acfe01:
 
-    # th "Look at her.. She's asking me to finger her with such righteousness.. And she made it sound like she's helping me.."
-    th "Nhìn em ấy kìa.. Ẻm đang yêu cầu mình móc lone một cách lộ liễu .. Và em ấy còn làm như thể đang giúp mình.."
+    # th "Look at her... She's asking me to finger her with such righteousness... And she made it sound like she's helping me..."
+    th "Nhìn em ấy kìa... Ẻm đang yêu cầu mình móc lone một cách lộ liễu ... Và em ấy còn làm như thể đang giúp mình..."
 
 # game/characters/grace/speak.rpy:257
 translate vietnamese speak_grace_fingering_7150badd:
 
-    # th "Who taught her this? Don't tell she came up with it herself.. I'm actually impressed."
-    th "Ai đã dạy em ấy điều này? Đừng nói là em ấy tự nghĩ ra nhớ.. Mình thực sự rất ấn tượng."
+    # th "Who taught her this? Don't tell she came up with it herself... I'm actually impressed."
+    th "Ai đã dạy em ấy điều này? Đừng nói là em ấy tự nghĩ ra nhớ... Mình thực sự rất ấn tượng."
 
 # game/characters/grace/speak.rpy:262
 translate vietnamese speak_grace_fingering_f1042ef4:
@@ -339,8 +339,8 @@ translate vietnamese speak_grace_fingering_f1042ef4:
 # game/characters/grace/speak.rpy:277
 translate vietnamese speak_grace_boobjob_96b66108:
 
-    # grace "I don't want to get dirty.."
-    grace "Em không muốn bị bẩn.."
+    # grace "I don't want to get dirty..."
+    grace "Em không muốn bị bẩn..."
 
 # game/characters/grace/speak.rpy:278
 translate vietnamese speak_grace_boobjob_4c608055:
@@ -405,8 +405,8 @@ translate vietnamese speak_grace_flowers_b1e02715:
 # game/characters/grace/speak.rpy:310
 translate vietnamese speak_grace_flowers_db249b8e:
 
-    # th "What a silly song.."
-    th "Thật là một bài hát ngớ ngẩn.."
+    # th "What a silly song..."
+    th "Thật là một bài hát ngớ ngẩn..."
 
 # game/characters/grace/speak.rpy:312
 translate vietnamese speak_grace_flowers_49f926c4:
@@ -429,8 +429,8 @@ translate vietnamese speak_grace_flowers_ba30a310:
 # game/characters/grace/speak.rpy:316
 translate vietnamese speak_grace_flowers_dcad29a9:
 
-    # grace "Mm. You can come help again.. if you want.."
-    grace "Mm. Anh có thể đến giúp một lần nữa.. nếu anh muốn.."
+    # grace "Mm. You can come help again... if you want..."
+    grace "Mm. Anh có thể đến giúp một lần nữa... nếu anh muốn..."
 
 # game/characters/grace/speak.rpy:317
 translate vietnamese speak_grace_flowers_ebf5834d:
@@ -525,8 +525,8 @@ translate vietnamese speak_grace_question1_24b10797:
 # game/characters/grace/speak.rpy:348
 translate vietnamese speak_grace_question1_56ba5b30:
 
-    # grace "I don't know.."
-    grace "Em không biết.."
+    # grace "I don't know..."
+    grace "Em không biết..."
 
 # game/characters/grace/speak.rpy:349
 translate vietnamese speak_grace_question1_1f877649:
@@ -639,8 +639,8 @@ translate vietnamese speak_grace_question2_33de0b5c:
 # game/characters/grace/speak.rpy:384
 translate vietnamese speak_grace_question2_5eca745d:
 
-    # grace "That probably makes sense.."
-    grace "Điều đó có lẽ có lý.."
+    # grace "That probably makes sense..."
+    grace "Điều đó có lẽ có lý..."
 
 # game/characters/grace/speak.rpy:385
 translate vietnamese speak_grace_question2_75dc07f4:
@@ -651,8 +651,8 @@ translate vietnamese speak_grace_question2_75dc07f4:
 # game/characters/grace/speak.rpy:388
 translate vietnamese speak_grace_question2_1bf59c17:
 
-    # grace "Yes, I'm not sure.."
-    grace "Ừ, em không chắc.."
+    # grace "Yes, I'm not sure..."
+    grace "Ừ, em không chắc..."
 
 # game/characters/grace/speak.rpy:389
 translate vietnamese speak_grace_question2_e617fb0d:
@@ -687,14 +687,14 @@ translate vietnamese speak_grace_question3_3820771a:
 # game/characters/grace/speak.rpy:400
 translate vietnamese speak_grace_question3_a38e9307:
 
-    # th "I guess I should have expected that.."
-    th "Mình cũng lường trước được điều này rồi.."
+    # th "I guess I should have expected that..."
+    th "Mình cũng lường trước được điều này rồi..."
 
 # game/characters/grace/speak.rpy:409
 translate vietnamese speak_grace_question_jack_ea6a034f:
 
-    # grace "Oh.. He was nice to me from the moment I got here."
-    grace "Oh.. Anh ấy đã tốt với em kể từ khi em đến đây."
+    # grace "Oh... He was nice to me from the moment I got here."
+    grace "Oh... Anh ấy đã tốt với em kể từ khi em đến đây."
 
 # game/characters/grace/speak.rpy:410
 translate vietnamese speak_grace_question_jack_f5024d73:
@@ -705,8 +705,8 @@ translate vietnamese speak_grace_question_jack_f5024d73:
 # game/characters/grace/speak.rpy:411
 translate vietnamese speak_grace_question_jack_895f7cbe:
 
-    # me "Did he do something or..?"
-    me "Anh ấy đã làm gì đó hay là..?"
+    # me "Did he do something or...?"
+    me "Anh ấy đã làm gì đó hay là...?"
 
 # game/characters/grace/speak.rpy:415
 translate vietnamese speak_grace_question_jack_ef19fb5a:
@@ -723,8 +723,8 @@ translate vietnamese speak_grace_question_jack_5642c726:
 # game/characters/grace/speak.rpy:420
 translate vietnamese speak_grace_question_jack_9303bab5:
 
-    # grace "But I would've liked for mommy to stay here too to know him.."
-    grace "Nhưng em cũng muốn mẹ ở lại đây để biết anh ấy.."
+    # grace "But I would've liked for mommy to stay here too to know him..."
+    grace "Nhưng em cũng muốn mẹ ở lại đây để biết anh ấy..."
 
 # game/characters/grace/speak.rpy:421
 translate vietnamese speak_grace_question_jack_9abe26ea:
@@ -735,8 +735,8 @@ translate vietnamese speak_grace_question_jack_9abe26ea:
 # game/characters/grace/speak.rpy:422
 translate vietnamese speak_grace_question_jack_db1198b3:
 
-    # grace "I just thought it would've been nice.."
-    grace "Em chỉ nghĩ rằng nó sẽ rất ổn.."
+    # grace "I just thought it would've been nice..."
+    grace "Em chỉ nghĩ rằng nó sẽ rất ổn..."
 
 # game/characters/grace/speak.rpy:423
 translate vietnamese speak_grace_question_jack_6b8c28f7:
@@ -759,14 +759,14 @@ translate vietnamese speak_grace_question_jack_b5166170:
 # game/characters/grace/speak.rpy:429
 translate vietnamese speak_grace_question_jack_61d89277:
 
-    # grace "Only when I had to.."
-    grace "Chỉ khi em buộc phải.."
+    # grace "Only when I had to..."
+    grace "Chỉ khi em buộc phải..."
 
 # game/characters/grace/speak.rpy:430
 translate vietnamese speak_grace_question_jack_c33a6080:
 
-    # me "And.. when was that?"
-        me "Và .. đó là khi nào?"
+    # me "And... when was that?"
+        me "Và ... đó là khi nào?"
 
 # game/characters/grace/speak.rpy:431
 translate vietnamese speak_grace_question_jack_836ff1d4:
@@ -783,8 +783,8 @@ translate vietnamese speak_grace_question_jack_68f13cdb:
 # game/characters/grace/speak.rpy:436
 translate vietnamese speak_grace_question_jack_c9d6f63f:
 
-    # grace "I didn't really mean to, but.."
-    grace "Em không thực sự cố ý, nhưng.."
+    # grace "I didn't really mean to, but..."
+    grace "Em không thực sự cố ý, nhưng..."
 
 # game/characters/grace/speak.rpy:437
 translate vietnamese speak_grace_question_jack_55385ad2:
@@ -801,8 +801,8 @@ translate vietnamese speak_grace_question_jack_7402cda2:
 # game/characters/grace/speak.rpy:445
 translate vietnamese speak_grace_question_jack_d4e25f43:
 
-    # grace "Still, I'm not really sure why mommy just left me here with a man.."
-    grace "Tuy nhiên, em không thực sự hiểu tại sao mẹ lại để em ở đây với một người đàn ông.."
+    # grace "Still, I'm not really sure why mommy just left me here with a man..."
+    grace "Tuy nhiên, em không thực sự hiểu tại sao mẹ lại để em ở đây với một người đàn ông..."
 
 # game/characters/grace/speak.rpy:446
 translate vietnamese speak_grace_question_jack_905b2ca2:
@@ -819,8 +819,8 @@ translate vietnamese speak_grace_question_jack_92ff5187:
 # game/characters/grace/speak.rpy:448
 translate vietnamese speak_grace_question_jack_40671e0c:
 
-    # grace "Yes.."
-    grace "Vâng.."
+    # grace "Yes..."
+    grace "Vâng..."
 
 translate vietnamese strings:
 

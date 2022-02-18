@@ -99,8 +99,8 @@ translate vietnamese grace_mass_2_12452bd0:
 # game/characters/grace/mass_2.rpy:54
 translate vietnamese grace_mass_2_f08674f9:
 
-    # grace "I do.."
-    grace "Em muốn.."
+    # grace "I do..."
+    grace "Em muốn..."
 
 # game/characters/grace/mass_2.rpy:64
 translate vietnamese grace_mass_2_a_f4782005:
@@ -201,8 +201,8 @@ translate vietnamese grace_mass_2_a_680119b7:
 # game/characters/grace/mass_2.rpy:115
 translate vietnamese grace_mass_2_a_90667dc5:
 
-    # grace "Sooo goood.."
-    grace "Quááá tuyệtttt.."
+    # grace "Sooo goood..."
+    grace "Quááá tuyệtttt..."
 
 # game/characters/grace/mass_2.rpy:116
 translate vietnamese grace_mass_2_a_88eab5f5:
@@ -327,8 +327,8 @@ translate vietnamese grace_mass_2_b_680119b7:
 # game/characters/grace/mass_2.rpy:186
 translate vietnamese grace_mass_2_b_90667dc5:
 
-    # grace "Sooo goood.."
-    grace "Quá tốt.."
+    # grace "Sooo goood..."
+    grace "Quá tốt..."
 
 # game/characters/grace/mass_2.rpy:187
 translate vietnamese grace_mass_2_b_88eab5f5:

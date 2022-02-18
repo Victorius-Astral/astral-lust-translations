@@ -3,8 +3,8 @@
 # game/characters/little fox/speak.rpy:7
 translate vietnamese speak_lilfox_97abe656:
 
-    # lil_fox "Hey, [me].."
-    lil_fox "Chào anh [me].."
+    # lil_fox "Hey, [me]..."
+    lil_fox "Chào anh [me]..."
 
 # game/characters/little fox/speak.rpy:8
 translate vietnamese speak_lilfox_50f4a088:
@@ -117,8 +117,8 @@ translate vietnamese speak_lilfox_hj_0681a303:
 # game/characters/little fox/speak.rpy:109
 translate vietnamese speak_lilfox_hj_8c020cbf:
 
-    # me "How could you? Alice has worked hard to make this outfit.."
-    me "Làm sao mà em có thể? Alice đã rất khó khăn để làm ra bộ trang phục này.."
+    # me "How could you? Alice has worked hard to make this outfit..."
+    me "Làm sao mà em có thể? Alice đã rất khó khăn để làm ra bộ trang phục này..."
 
 # game/characters/little fox/speak.rpy:113
 translate vietnamese speak_lilfox_hj_4d9ad759:

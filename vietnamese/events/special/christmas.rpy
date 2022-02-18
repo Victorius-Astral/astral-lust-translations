@@ -3,8 +3,8 @@
 # game/events/special/christmas.rpy:79
 translate vietnamese christ_2f5165f1:
 
-    # me "What's with the noise..?"
-    me "Tiếng gì vậy..?"
+    # me "What's with the noise...?"
+    me "Tiếng gì vậy...?"
 
 # game/events/special/christmas.rpy:80
 translate vietnamese christ_bde95fa8:
@@ -15,8 +15,8 @@ translate vietnamese christ_bde95fa8:
 # game/events/special/christmas.rpy:96
 translate vietnamese christ_intro_b48a3b15:
 
-    # me "[aharon]?! What are you doing in my room? And what are you wearing..?"
-    me "[aharon]?! Mày đang làm cái đeos gì trong phòng của tao thế? Và mày đang mặc cái gì..?"
+    # me "[aharon]?! What are you doing in my room? And what are you wearing...?"
+    me "[aharon]?! Mày đang làm cái đeos gì trong phòng của tao thế? Và mày đang mặc cái gì...?"
 
 # game/events/special/christmas.rpy:97
 translate vietnamese christ_intro_4f281b23:
@@ -153,8 +153,8 @@ translate vietnamese christ_intro_6532543c:
 # game/events/special/christmas.rpy:137
 translate vietnamese christ_intro_bff2d194:
 
-    # me "..Understood."
-    me "..Understood."
+    # me "...Understood."
+    me "...Understood."
 
 # game/events/special/christmas.rpy:146
 translate vietnamese christ_done_c63704e7:
@@ -177,8 +177,8 @@ translate vietnamese christ_pick_d688800b:
 # game/events/special/christmas.rpy:176
 translate vietnamese xmas_savenia_24e3e9dc:
 
-    # me "Oh.. You were not affected?"
-    me "Oh.. You were not affected?"
+    # me "Oh... You were not affected?"
+    me "Oh... You were not affected?"
 
 # game/events/special/christmas.rpy:180
 translate vietnamese xmas_savenia_8f87384a:
@@ -189,14 +189,14 @@ translate vietnamese xmas_savenia_8f87384a:
 # game/events/special/christmas.rpy:181
 translate vietnamese xmas_savenia_634731e7:
 
-    # me "Right, drunk.."
-    me "Right, drunk.."
+    # me "Right, drunk..."
+    me "Right, drunk..."
 
 # game/events/special/christmas.rpy:182
 translate vietnamese xmas_savenia_0a81724c:
 
-    # savenia "But if you mean dressing up on those silly costumes.. No, no way I'm 'affected'."
-    savenia "But if you mean dressing up on those silly costumes.. No, no way I'm 'affected'."
+    # savenia "But if you mean dressing up on those silly costumes... No, no way I'm 'affected'."
+    savenia "But if you mean dressing up on those silly costumes... No, no way I'm 'affected'."
 
 # game/events/special/christmas.rpy:186
 translate vietnamese xmas_savenia_c47f6b33:
@@ -225,8 +225,8 @@ translate vietnamese xmas_savenia_664c7768:
 # game/events/special/christmas.rpy:194
 translate vietnamese xmas_savenia_998f93fe:
 
-    # savenia "Right.. Well, take your time. These will take a while to.. do anything, really."
-    savenia "Right.. Well, take your time. These will take a while to.. do anything, really."
+    # savenia "Right... Well, take your time. These will take a while to... do anything, really."
+    savenia "Right... Well, take your time. These will take a while to... do anything, really."
 
 # game/events/special/christmas.rpy:195
 translate vietnamese xmas_savenia_be3aa168:
@@ -237,8 +237,8 @@ translate vietnamese xmas_savenia_be3aa168:
 # game/events/special/christmas.rpy:205
 translate vietnamese xmas_grace_2ab2884c:
 
-    # me "It's freezing.."
-    me "It's freezing.."
+    # me "It's freezing..."
+    me "It's freezing..."
 
 # game/events/special/christmas.rpy:206
 translate vietnamese xmas_grace_1b4d1ec4:
@@ -249,14 +249,14 @@ translate vietnamese xmas_grace_1b4d1ec4:
 # game/events/special/christmas.rpy:210
 translate vietnamese xmas_grace_335e227b:
 
-    # grace "Grrr.."
-    grace "Grrr.."
+    # grace "Grrr..."
+    grace "Grrr..."
 
 # game/events/special/christmas.rpy:211
 translate vietnamese xmas_grace_929cf9e7:
 
-    # th ".. A reindeer?"
-    th ".. A reindeer?"
+    # th "... A reindeer?"
+    th "... A reindeer?"
 
 # game/events/special/christmas.rpy:212
 translate vietnamese xmas_grace_b8631a73:
@@ -279,14 +279,14 @@ translate vietnamese xmas_grace_5cd6726a:
 # game/events/special/christmas.rpy:218
 translate vietnamese xmas_grace_8e889da2:
 
-    # grace ".. Treats?"
-    grace ".. Treats?"
+    # grace "... Treats?"
+    grace "... Treats?"
 
 # game/events/special/christmas.rpy:219
 translate vietnamese xmas_grace_01fb15d4:
 
-    # th "This much won't do.. Guess I'll have to shake her up a bit more."
-    th "This much won't do.. Guess I'll have to shake her up a bit more."
+    # th "This much won't do... Guess I'll have to shake her up a bit more."
+    th "This much won't do... Guess I'll have to shake her up a bit more."
 
 # game/events/special/christmas.rpy:220
 translate vietnamese xmas_grace_d30d034c:
@@ -357,8 +357,8 @@ translate vietnamese xmas_grace_91bffbf6:
 # game/events/special/christmas.rpy:243
 translate vietnamese xmas_grace_ce74946a:
 
-    # th "This is not really working.. Let's see if I can spice this up a bit more."
-    th "This is not really working.. Let's see if I can spice this up a bit more."
+    # th "This is not really working... Let's see if I can spice this up a bit more."
+    th "This is not really working... Let's see if I can spice this up a bit more."
 
 # game/events/special/christmas.rpy:247
 translate vietnamese xmas_grace_18e2dfd0:
@@ -381,8 +381,8 @@ translate vietnamese xmas_grace_0272ff92:
 # game/events/special/christmas.rpy:253
 translate vietnamese xmas_grace_3c290f1f:
 
-    # grace "Grrr! You're bad.."
-    grace "Grrr! You're bad.."
+    # grace "Grrr! You're bad..."
+    grace "Grrr! You're bad..."
 
 # game/events/special/christmas.rpy:254
 translate vietnamese xmas_grace_b149ddbe:
@@ -399,8 +399,8 @@ translate vietnamese xmas_grace_1b3a9ad8:
 # game/events/special/christmas.rpy:259
 translate vietnamese xmas_grace_b6d631e5:
 
-    # grace "Ok.."
-    grace "Ok.."
+    # grace "Ok..."
+    grace "Ok..."
 
 # game/events/special/christmas.rpy:260
 translate vietnamese xmas_grace_a6bcf812:
@@ -411,8 +411,8 @@ translate vietnamese xmas_grace_a6bcf812:
 # game/events/special/christmas.rpy:261
 translate vietnamese xmas_grace_c909e0ea:
 
-    # grace "Mm.."
-    grace "Mm.."
+    # grace "Mm..."
+    grace "Mm..."
 
 # game/events/special/christmas.rpy:265
 translate vietnamese xmas_grace_04dbbd52:
@@ -459,8 +459,8 @@ translate vietnamese xmas_grace_50f5e5f9:
 # game/events/special/christmas.rpy:272
 translate vietnamese xmas_grace_cea3d9ce:
 
-    # grace "Mmm.."
-    grace "Mmm.."
+    # grace "Mmm..."
+    grace "Mmm..."
 
 # game/events/special/christmas.rpy:330
 translate vietnamese xmas_grace_lick_155457f6:
@@ -507,14 +507,14 @@ translate vietnamese xmas_grace_slow_baf8f4db:
 # game/events/special/christmas.rpy:342
 translate vietnamese xmas_grace_slow_b3e0bef2:
 
-    # me "That speed is good.. But it's the time for you to take it to your little mouth."
-    me "That speed is good.. But it's the time for you to take it to your little mouth."
+    # me "That speed is good... But it's the time for you to take it to your little mouth."
+    me "That speed is good... But it's the time for you to take it to your little mouth."
 
 # game/events/special/christmas.rpy:343
 translate vietnamese xmas_grace_slow_335e227b:
 
-    # grace "Grrr.."
-    grace "Grrr.."
+    # grace "Grrr..."
+    grace "Grrr..."
 
 # game/events/special/christmas.rpy:344
 translate vietnamese xmas_grace_slow_c61b5f8e:
@@ -525,8 +525,8 @@ translate vietnamese xmas_grace_slow_c61b5f8e:
 # game/events/special/christmas.rpy:345
 translate vietnamese xmas_grace_slow_77a27b7d:
 
-    # grace "Eh.."
-    grace "Eh.."
+    # grace "Eh..."
+    grace "Eh..."
 
 # game/events/special/christmas.rpy:351
 translate vietnamese xmas_grace_deep_8688b6e8:
@@ -555,8 +555,8 @@ translate vietnamese xmas_grace_deep_fdb4e830:
 # game/events/special/christmas.rpy:355
 translate vietnamese xmas_grace_deep_5d7b5c22:
 
-    # me "I didn't think you would get that far.. Ah.."
-    me "I didn't think you would get that far.. Ah.."
+    # me "I didn't think you would get that far... Ah..."
+    me "I didn't think you would get that far... Ah..."
 
 # game/events/special/christmas.rpy:356
 translate vietnamese xmas_grace_deep_853be82f:
@@ -585,8 +585,8 @@ translate vietnamese xmas_grace_end_cfd9864d:
 # game/events/special/christmas.rpy:370
 translate vietnamese xmas_grace_end_b071f068:
 
-    # me "Ah.. That was great. How's it [grace]?"
-    me "Ah.. That was great. How's it [grace]?"
+    # me "Ah... That was great. How's it [grace]?"
+    me "Ah... That was great. How's it [grace]?"
 
 # game/events/special/christmas.rpy:371
 translate vietnamese xmas_grace_end_481a9441:
@@ -687,8 +687,8 @@ translate vietnamese xmas_lexi_1d7b7844:
 # game/events/special/christmas.rpy:406
 translate vietnamese xmas_lexi_0ba93380:
 
-    # th "Even if it's a dream, she's going out for others' sake.. But I don't feel comfortable with her going out like this, even in a dream."
-    th "Even if it's a dream, she's going out for others' sake.. But I don't feel comfortable with her going out like this, even in a dream."
+    # th "Even if it's a dream, she's going out for others' sake... But I don't feel comfortable with her going out like this, even in a dream."
+    th "Even if it's a dream, she's going out for others' sake... But I don't feel comfortable with her going out like this, even in a dream."
 
 # game/events/special/christmas.rpy:407
 translate vietnamese xmas_lexi_025649e1:
@@ -891,8 +891,8 @@ translate vietnamese xmas_lexi_end_247e8ad4:
 # game/events/special/christmas.rpy:536
 translate vietnamese xmas_lexi_end_3c14f861:
 
-    # me ".. What was that? Is it the Christmas Spirit?"
-    me ".. What was that? Is it the Christmas Spirit?"
+    # me "... What was that? Is it the Christmas Spirit?"
+    me "... What was that? Is it the Christmas Spirit?"
 
 # game/events/special/christmas.rpy:546
 translate vietnamese xmas_mina_c3fb1b61:
@@ -903,8 +903,8 @@ translate vietnamese xmas_mina_c3fb1b61:
 # game/events/special/christmas.rpy:547
 translate vietnamese xmas_mina_5855dabd:
 
-    # me "What are you supposed to be..? The cat that scratches the Christmas Tree?"
-    me "What are you supposed to be..? The cat that scratches the Christmas Tree?"
+    # me "What are you supposed to be...? The cat that scratches the Christmas Tree?"
+    me "What are you supposed to be...? The cat that scratches the Christmas Tree?"
 
 # game/events/special/christmas.rpy:548
 translate vietnamese xmas_mina_c90a8a7b:
@@ -915,8 +915,8 @@ translate vietnamese xmas_mina_c90a8a7b:
 # game/events/special/christmas.rpy:549
 translate vietnamese xmas_mina_42d82cb1:
 
-    # me "What did you just say..?"
-    me "What did you just say..?"
+    # me "What did you just say...?"
+    me "What did you just say...?"
 
 # game/events/special/christmas.rpy:553
 translate vietnamese xmas_mina_bea306c0:
@@ -939,14 +939,14 @@ translate vietnamese xmas_mina_c02608c5:
 # game/events/special/christmas.rpy:559
 translate vietnamese xmas_mina_ea5294e9:
 
-    # me ".. We're not stealing Christmas, we're waking you up. With cold water, preferably."
-    me ".. We're not stealing Christmas, we're waking you up. With cold water, preferably."
+    # me "... We're not stealing Christmas, we're waking you up. With cold water, preferably."
+    me "... We're not stealing Christmas, we're waking you up. With cold water, preferably."
 
 # game/events/special/christmas.rpy:563
 translate vietnamese xmas_mina_d7ea1942:
 
-    # mina "Oh.. Are you sure you wouldn't rather get warmer instead? It's a cold night, and through excer-"
-    mina "Oh.. Are you sure you wouldn't rather get warmer instead? It's a cold night, and through excer-"
+    # mina "Oh... Are you sure you wouldn't rather get warmer instead? It's a cold night, and through excer-"
+    mina "Oh... Are you sure you wouldn't rather get warmer instead? It's a cold night, and through excer-"
 
 # game/events/special/christmas.rpy:564
 translate vietnamese xmas_mina_5f09a720:
@@ -1053,8 +1053,8 @@ translate vietnamese xmas_mina_rever_cd1a11c5:
 # game/events/special/christmas.rpy:652
 translate vietnamese xmas_mina_rever_8f3316e0:
 
-    # me "I can't believe this.. Well, I am not complaining."
-    me "I can't believe this.. Well, I am not complaining."
+    # me "I can't believe this... Well, I am not complaining."
+    me "I can't believe this... Well, I am not complaining."
 
 # game/events/special/christmas.rpy:657
 translate vietnamese xmas_mina_end_1a61a19b:
@@ -1209,8 +1209,8 @@ translate vietnamese xmas_alice_vag_c1991041:
 # game/events/special/christmas.rpy:772
 translate vietnamese xmas_alice_vag_0a59ceb2:
 
-    # alice "Hmph! Fine, just.. hurry.."
-    alice "Hmph! Fine, just.. hurry.."
+    # alice "Hmph! Fine, just... hurry..."
+    alice "Hmph! Fine, just... hurry..."
 
 # game/events/special/christmas.rpy:778
 translate vietnamese xmas_alice_slow_4c830492:
@@ -1227,8 +1227,8 @@ translate vietnamese xmas_alice_slow_fd24a6d4:
 # game/events/special/christmas.rpy:780
 translate vietnamese xmas_alice_slow_9dc7cf22:
 
-    # alice "Shut. Up. {small}My poor little asshole..{/small}"
-    alice "Shut. Up. {small}My poor little asshole..{/small}"
+    # alice "Shut. Up. {small}My poor little asshole...{/small}"
+    alice "Shut. Up. {small}My poor little asshole...{/small}"
 
 # game/events/special/christmas.rpy:781
 translate vietnamese xmas_alice_slow_85f3ddb4:
@@ -1239,8 +1239,8 @@ translate vietnamese xmas_alice_slow_85f3ddb4:
 # game/events/special/christmas.rpy:782
 translate vietnamese xmas_alice_slow_02672a26:
 
-    # alice "..Mmm~"
-    alice "..Mmm~"
+    # alice "...Mmm~"
+    alice "...Mmm~"
 
 # game/events/special/christmas.rpy:783
 translate vietnamese xmas_alice_slow_82a949a3:
@@ -1347,14 +1347,14 @@ translate vietnamese xmas_ending_1ddbd9ef:
 # game/events/special/christmas.rpy:824
 translate vietnamese xmas_ending_c71a16fd:
 
-    # lexi "You.. stupid pervert.. stupid elf.. Christmas is ruined."
-    lexi "You.. stupid pervert.. stupid elf.. Christmas is ruined."
+    # lexi "You... stupid pervert... stupid elf... Christmas is ruined."
+    lexi "You... stupid pervert... stupid elf... Christmas is ruined."
 
 # game/events/special/christmas.rpy:825
 translate vietnamese xmas_ending_b63c3781:
 
-    # th "Oh, right, the presents.. It's just a dream, so it doesn't really matter."
-    th "Oh, right, the presents.. It's just a dream, so it doesn't really matter."
+    # th "Oh, right, the presents... It's just a dream, so it doesn't really matter."
+    th "Oh, right, the presents... It's just a dream, so it doesn't really matter."
 
 # game/events/special/christmas.rpy:826
 translate vietnamese xmas_ending_748835d1:
@@ -1365,8 +1365,8 @@ translate vietnamese xmas_ending_748835d1:
 # game/events/special/christmas.rpy:827
 translate vietnamese xmas_ending_4e06e1a5:
 
-    # alice "Please, let's swap places. I want to rest.. and I want a raise too!"
-    alice "Please, let's swap places. I want to rest.. and I want a raise too!"
+    # alice "Please, let's swap places. I want to rest... and I want a raise too!"
+    alice "Please, let's swap places. I want to rest... and I want a raise too!"
 
 # game/events/special/christmas.rpy:828
 translate vietnamese xmas_ending_4d306895:
@@ -1389,8 +1389,8 @@ translate vietnamese xmas_ending_6f7ec6e4:
 # game/events/special/christmas.rpy:837
 translate vietnamese xmas_ending_f9aa6bde:
 
-    # lexi "You can't be serious.."
-    lexi "You can't be serious.."
+    # lexi "You can't be serious..."
+    lexi "You can't be serious..."
 
 # game/events/special/christmas.rpy:838
 translate vietnamese xmas_ending_0608be44:
@@ -1401,8 +1401,8 @@ translate vietnamese xmas_ending_0608be44:
 # game/events/special/christmas.rpy:839
 translate vietnamese xmas_ending_1c852628:
 
-    # lexi "{small}Fine..{/small}"
-    lexi "{small}Fine..{/small}"
+    # lexi "{small}Fine...{/small}"
+    lexi "{small}Fine...{/small}"
 
 # game/events/special/christmas.rpy:843
 translate vietnamese xmas_ending_94e83b99:
@@ -1545,14 +1545,14 @@ translate vietnamese xmas_ending_4be7bc6b:
 # game/events/special/christmas.rpy:878
 translate vietnamese xmas_ending_4174c2b2:
 
-    # mina "Such a hard-working, naughty elf.. You should get rewarded~"
-    mina "Such a hard-working, naughty elf.. You should get rewarded~"
+    # mina "Such a hard-working, naughty elf... You should get rewarded~"
+    mina "Such a hard-working, naughty elf... You should get rewarded~"
 
 # game/events/special/christmas.rpy:879
 translate vietnamese xmas_ending_f14acbb7:
 
-    # alice "..{small}Mmmm{/small}.."
-    alice "..{small}Mmmm{/small}.."
+    # alice "...{small}Mmmm{/small}..."
+    alice "...{small}Mmmm{/small}..."
 
 # game/events/special/christmas.rpy:880
 translate vietnamese xmas_ending_d8513941:
@@ -1575,8 +1575,8 @@ translate vietnamese xmas_ending_92dad1f5:
 # game/events/special/christmas.rpy:886
 translate vietnamese xmas_ending_6b829252:
 
-    # grace "I think so.. Can I?"
-    grace "I think so.. Can I?"
+    # grace "I think so... Can I?"
+    grace "I think so... Can I?"
 
 # game/events/special/christmas.rpy:887
 translate vietnamese xmas_ending_8cee9223:
@@ -1587,8 +1587,8 @@ translate vietnamese xmas_ending_8cee9223:
 # game/events/special/christmas.rpy:888
 translate vietnamese xmas_ending_b6d631e5:
 
-    # grace "Ok.."
-    grace "Ok.."
+    # grace "Ok..."
+    grace "Ok..."
 
 # game/events/special/christmas.rpy:889
 translate vietnamese xmas_ending_a652b4c1:
@@ -1605,8 +1605,8 @@ translate vietnamese xmas_ending_8a17d2b1:
 # game/events/special/christmas.rpy:891
 translate vietnamese xmas_ending_beb4fdc6:
 
-    # lexi "Over some reindeer.."
-    lexi "Over some reindeer.."
+    # lexi "Over some reindeer..."
+    lexi "Over some reindeer..."
 
 # game/events/special/christmas.rpy:894
 translate vietnamese xmas_ending_72b5df91:
@@ -1635,8 +1635,8 @@ translate vietnamese xmas_ending_cf5225a2:
 # game/events/special/christmas.rpy:901
 translate vietnamese xmas_ending_d562dcae:
 
-    # lexi "Not fair. They left me alone.. What's that noise?"
-    lexi "Not fair. They left me alone.. What's that noise?"
+    # lexi "Not fair. They left me alone... What's that noise?"
+    lexi "Not fair. They left me alone... What's that noise?"
 
 # game/events/special/christmas.rpy:905
 translate vietnamese xmas_ending_0dd03801:
@@ -1659,8 +1659,8 @@ translate vietnamese xmas_ending_181cd223:
 # game/events/special/christmas.rpy:908
 translate vietnamese xmas_ending_3a2bd029:
 
-    # lexi ".. Screw this! Guys let's go to the floor!"
-    lexi ".. Screw this! Guys let's go to the floor!"
+    # lexi "... Screw this! Guys let's go to the floor!"
+    lexi "... Screw this! Guys let's go to the floor!"
 
 # game/events/special/christmas.rpy:912
 translate vietnamese xmas_ending_6cf62b3e:
@@ -1683,8 +1683,8 @@ translate vietnamese xmas_ending_a3c652a2:
 # game/events/special/christmas.rpy:915
 translate vietnamese xmas_ending_8dab369a:
 
-    # grace "So.. Good.."
-    grace "So.. Good.."
+    # grace "So... Good..."
+    grace "So... Good..."
 
 # game/events/special/christmas.rpy:919
 translate vietnamese xmas_ending_56f99798:
@@ -1695,8 +1695,8 @@ translate vietnamese xmas_ending_56f99798:
 # game/events/special/christmas.rpy:920
 translate vietnamese xmas_ending_5cf2bb18:
 
-    # mina "Me, too.."
-    mina "Me, too.."
+    # mina "Me, too..."
+    mina "Me, too..."
 
 # game/events/special/christmas.rpy:921
 translate vietnamese xmas_ending_d7760fc7:
@@ -1713,8 +1713,8 @@ translate vietnamese xmas_ending_373ada93:
 # game/events/special/christmas.rpy:926
 translate vietnamese xmas_ending_dfeeb03f:
 
-    # grace "What..?"
-    grace "What..?"
+    # grace "What...?"
+    grace "What...?"
 
 # game/events/special/christmas.rpy:927
 translate vietnamese xmas_ending_bc0c4a01:
@@ -1737,8 +1737,8 @@ translate vietnamese xmas_ending_d2a4e004:
 # game/events/special/christmas.rpy:933
 translate vietnamese xmas_ending_7b946247:
 
-    # lexi "Dammit, that was for me.. Whatever."
-    lexi "Dammit, that was for me.. Whatever."
+    # lexi "Dammit, that was for me... Whatever."
+    lexi "Dammit, that was for me... Whatever."
 
 # game/events/special/christmas.rpy:937
 translate vietnamese xmas_ending_b0132805:
@@ -1773,8 +1773,8 @@ translate vietnamese xmas_dream_end_a85086ed:
 # game/events/special/christmas.rpy:976
 translate vietnamese xmas_dream_end_a59005aa:
 
-    # me "I had a nice dream.."
-    me "I had a nice dream.."
+    # me "I had a nice dream..."
+    me "I had a nice dream..."
 
 # game/events/special/christmas.rpy:978
 translate vietnamese xmas_dream_end_ca2b0947:
@@ -1862,8 +1862,8 @@ translate vietnamese xmas_savenia_ee72378d:
 # game/events/special/christmas.rpy:183
 translate vietnamese xmas_savenia_3fc9ea32:
 
-    # savenia "But, if you mean dressing up on those silly costumes.. No, no way I'm 'affected'."
-    savenia "But, if you mean dressing up on those silly costumes.. No, no way I'm 'affected'."
+    # savenia "But, if you mean dressing up on those silly costumes... No, no way I'm 'affected'."
+    savenia "But, if you mean dressing up on those silly costumes... No, no way I'm 'affected'."
 
 # game/events/special/christmas.rpy:187
 translate vietnamese xmas_savenia_7b649fff:
@@ -1904,14 +1904,14 @@ translate vietnamese xmas_grace_9ccfe06e:
 # game/events/special/christmas.rpy:260
 translate vietnamese xmas_grace_48d481bf:
 
-    # grace "Okay.."
-    grace "Okay.."
+    # grace "Okay..."
+    grace "Okay..."
 
 # game/events/special/christmas.rpy:343
 translate vietnamese xmas_grace_slow_cf1355ac:
 
-    # me "That speed is good.. But, it's the time for you to take it to your little mouth."
-    me "That speed is good.. But, it's the time for you to take it to your little mouth."
+    # me "That speed is good... But, it's the time for you to take it to your little mouth."
+    me "That speed is good... But, it's the time for you to take it to your little mouth."
 
 # game/events/special/christmas.rpy:386
 translate vietnamese xmas_grace_end_08d56d8a:
@@ -1934,8 +1934,8 @@ translate vietnamese xmas_lexi_8d616d1b:
 # game/events/special/christmas.rpy:407
 translate vietnamese xmas_lexi_cf6a12a8:
 
-    # th "Even if it's a dream, she's going out for others' sake.. but I don't feel comfortable with her going out like this, even in a dream."
-    th "Even if it's a dream, she's going out for others' sake.. but I don't feel comfortable with her going out like this, even in a dream."
+    # th "Even if it's a dream, she's going out for others' sake... but I don't feel comfortable with her going out like this, even in a dream."
+    th "Even if it's a dream, she's going out for others' sake... but I don't feel comfortable with her going out like this, even in a dream."
 
 # game/events/special/christmas.rpy:418
 translate vietnamese xmas_lexi_52697761:
@@ -2012,14 +2012,14 @@ translate vietnamese xmas_ending_714109bd:
 # game/events/special/christmas.rpy:909
 translate vietnamese xmas_ending_cbfcd479:
 
-    # lexi ".. Screw this! Guys, let's go to the floor!"
-    lexi ".. Screw this! Guys, let's go to the floor!"
+    # lexi "... Screw this! Guys, let's go to the floor!"
+    lexi "... Screw this! Guys, let's go to the floor!"
 
 # game/events/special/christmas.rpy:921
 translate vietnamese xmas_ending_f740543b:
 
-    # mina "Me.. too.."
-    mina "Me.. too.."
+    # mina "Me... too..."
+    mina "Me... too..."
 
 translate vietnamese strings:
 

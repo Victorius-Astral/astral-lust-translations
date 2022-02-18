@@ -196,7 +196,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:111
     old "Dream - Purpose part 1"
-    new "Ước mơ - mục đích phần 1"
+    new "Giấc mơ - mục đích phần 1"
 
     # game/variables/replays.rpy:111
     old "Exploration - Library part 1"
@@ -204,7 +204,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:111
     old "Dream - Purpose part 2"
-    new "Dream - Purpose phần 2"
+    new "Giấc mơ - Mục đích phần 2"
 
     # game/variables/replays.rpy:111
     old "Exploration - Library part 2"
@@ -551,9 +551,8 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:30
     old "Horse Riding Lessons"
-    new "Horse Riding Lessons"
+    new "Bài học cưỡi ngựa"
 
     # game/variables/replays.rpy:89
     old "Agoraphobia"
-    new "Agoraphobia"
-
+    new "Chứng sợ khoảng trống"

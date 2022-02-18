@@ -75,7 +75,7 @@ translate vietnamese wanderers_brothel_menu1_c02b3a89:
 # game/places/wanderers/brothel.rpy:78
 translate vietnamese wanderers_brothel_menu1_d3f62b62:
 
-    # madam_hof "Oh, boy.. It's written everywhere."
+    # madam_hof "Oh, boy... It's written everywhere."
     madam_hof "Ôi bé ơi... Nó được viết ở khắp mọi nơi này."
 
 # game/places/wanderers/brothel.rpy:79
@@ -93,7 +93,7 @@ translate vietnamese wanderers_brothel_menu1_e446f0c3:
 # game/places/wanderers/brothel.rpy:83
 translate vietnamese wanderers_brothel_menu1_58db956b:
 
-    # me "I'm not sure.."
+    # me "I'm not sure..."
     me "tôi không chắc..."
 
 # game/places/wanderers/brothel.rpy:87
@@ -117,7 +117,7 @@ translate vietnamese wanderers_brothel_menu1_f7f0483e:
 # game/places/wanderers/brothel.rpy:92
 translate vietnamese wanderers_brothel_menu1_c3d85c42:
 
-    # th "I'm not sure how I should take that.."
+    # th "I'm not sure how I should take that..."
     th "Đáp lại kiểu đéo gì cho được đây..."
 
 # game/places/wanderers/brothel.rpy:95
@@ -159,7 +159,7 @@ translate vietnamese wanderers_brothel_menu1_c02b3a89_1:
 # game/places/wanderers/brothel.rpy:112
 translate vietnamese wanderers_brothel_menu1_d3f62b62_1:
 
-    # madam_hof "Oh, boy.. It's written everywhere."
+    # madam_hof "Oh, boy... It's written everywhere."
     madam_hof "Ôi bé ơi... Nó được viết ở khắp mọi nơi đấy."
 
 # game/places/wanderers/brothel.rpy:113
@@ -177,7 +177,7 @@ translate vietnamese wanderers_brothel_menu1_e446f0c3_1:
 # game/places/wanderers/brothel.rpy:117
 translate vietnamese wanderers_brothel_menu1_58db956b_1:
 
-    # me "I'm not sure.."
+    # me "I'm not sure..."
     me "tôi không chắc..."
 
 # game/places/wanderers/brothel.rpy:121
@@ -201,7 +201,7 @@ translate vietnamese wanderers_brothel_menu1_f7f0483e_1:
 # game/places/wanderers/brothel.rpy:126
 translate vietnamese wanderers_brothel_menu1_c3d85c42_1:
 
-    # th "I'm not sure how I should take that.."
+    # th "I'm not sure how I should take that..."
     th "Đáp lại kiểu đéo gì cho được đây..."
 
 # game/places/wanderers/brothel.rpy:129

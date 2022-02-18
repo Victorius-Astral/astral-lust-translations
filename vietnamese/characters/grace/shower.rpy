@@ -15,8 +15,8 @@ translate vietnamese shower_grace_190b0568:
 # game/characters/grace/shower.rpy:15
 translate vietnamese shower_grace_d832e228:
 
-    # th "She's a gorgeous one, I love her tits.."
-    th "Em ấy là một người tuyệt đẹp, mình yêu bộ ngực của em ấy.."
+    # th "She's a gorgeous one, I love her tits..."
+    th "Em ấy là một người tuyệt đẹp, mình yêu bộ ngực của em ấy..."
 
 # game/characters/grace/shower.rpy:16
 translate vietnamese shower_grace_cc210511:
@@ -39,8 +39,8 @@ translate vietnamese shower_grace_de3f4983:
 # game/characters/grace/shower.rpy:22
 translate vietnamese shower_grace_4989fe05:
 
-    # me "I.."
-    me "Anh.."
+    # me "I..."
+    me "Anh..."
 
 # game/characters/grace/shower.rpy:39
 translate vietnamese shower_grace_16999c27:
@@ -51,8 +51,8 @@ translate vietnamese shower_grace_16999c27:
 # game/characters/grace/shower.rpy:40
 translate vietnamese shower_grace_67432c2c:
 
-    # th "Look at her, she isn't even angry at me.."
-    th "Nhìn em ấy, em ấy thậm chí không giận mình.."
+    # th "Look at her, she isn't even angry at me..."
+    th "Nhìn em ấy, em ấy thậm chí không giận mình..."
 
 # game/characters/grace/shower.rpy:41
 translate vietnamese shower_grace_c133fc15:
@@ -63,8 +63,8 @@ translate vietnamese shower_grace_c133fc15:
 # game/characters/grace/shower.rpy:46
 translate vietnamese shower_grace_cd9c59dd:
 
-    # grace "Get out. It's not nice to peek at me. Men.."
-    grace "Ra ngoài. Thật không hay khi nhìn trộm người khác đâu.."
+    # grace "Get out. It's not nice to peek at me. Men..."
+    grace "Ra ngoài. Thật không hay khi nhìn trộm người khác đâu..."
 
 # game/characters/grace/shower.rpy:47
 translate vietnamese shower_grace_62a7133e:

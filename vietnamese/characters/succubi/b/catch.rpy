@@ -69,14 +69,14 @@ translate vietnamese catch_SuccubusB_3820771a:
 # game/characters/succubi/b/catch.rpy:19
 translate vietnamese catch_SuccubusB_86b6c98d:
 
-    # succB "There is one thing, [succB_master].."
-    succB "Có một thứ nữa đấy [succB_master].."
+    # succB "There is one thing, [succB_master]..."
+    succB "Có một thứ nữa đấy [succB_master]..."
 
 # game/characters/succubi/b/catch.rpy:20
 translate vietnamese catch_SuccubusB_377d2a79:
 
-    # me "Umm.. what is it?"
-    me "Umm.. nó là gì?"
+    # me "Umm... what is it?"
+    me "Umm... nó là gì?"
 
 # game/characters/succubi/b/catch.rpy:22
 translate vietnamese catch_SuccubusB_32cfec7d:
@@ -87,8 +87,8 @@ translate vietnamese catch_SuccubusB_32cfec7d:
 # game/characters/succubi/b/catch.rpy:23
 translate vietnamese catch_SuccubusB_35057afe:
 
-    # me "Sure.."
-    me "Chắc chắn rồi.."
+    # me "Sure..."
+    me "Chắc chắn rồi..."
 
 # game/characters/succubi/b/catch.rpy:25
 translate vietnamese catch_SuccubusB_cc63145f:

@@ -45,8 +45,8 @@ translate vietnamese lust_SuccubusB_379ff914:
 # game/characters/succubi/b/lust.rpy:29
 translate vietnamese lust_SuccubusB_2ab7d0fa:
 
-    # me "Fuck.. you're so tight and wet at the same time."
-    me "Fuck.. cô thật khít và còn ướt nữa."
+    # me "Fuck... you're so tight and wet at the same time."
+    me "Fuck... cô thật khít và còn ướt nữa."
 
 # game/characters/succubi/b/lust.rpy:30
 translate vietnamese lust_SuccubusB_20f3c9a1:
@@ -141,8 +141,8 @@ translate vietnamese lust_SuccubusB_f88ca7d7:
 # game/characters/succubi/b/lust.rpy:69
 translate vietnamese lust_SuccubusB_dd9636c7:
 
-    # me "Ahh.."
-    me "Ahh.."
+    # me "Ahh..."
+    me "Ahh..."
 
 # game/characters/succubi/b/lust.rpy:70
 translate vietnamese lust_SuccubusB_4391eb40:

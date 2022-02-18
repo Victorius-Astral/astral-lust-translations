@@ -45,8 +45,8 @@ translate vietnamese explore_dog_1_5d31b449:
 # game/events/explore/dog.rpy:30
 translate vietnamese explore_dog_1_214380fa:
 
-    # th "What are they doing? Hmm.. they say curiosity killed the cat.."
-    th "What are they doing? Hmm.. they say curiosity killed the cat.."
+    # th "What are they doing? Hmm... they say curiosity killed the cat..."
+    th "What are they doing? Hmm... they say curiosity killed the cat..."
 
 # game/events/explore/dog.rpy:36
 translate vietnamese explore_dog_1_663ee879:
@@ -63,8 +63,8 @@ translate vietnamese explore_dog_1_4a4126b2:
 # game/events/explore/dog.rpy:43
 translate vietnamese explore_dog_2_7731441e:
 
-    # cultist ".. this subject prays for Your divine grace."
-    cultist ".. this subject prays for Your divine grace."
+    # cultist "... this subject prays for Your divine grace."
+    cultist "... this subject prays for Your divine grace."
 
 # game/events/explore/dog.rpy:44
 translate vietnamese explore_dog_2_d50eecbc:
@@ -105,8 +105,8 @@ translate vietnamese explore_dog_2_a63c3fd4:
 # game/events/explore/dog.rpy:52
 translate vietnamese explore_dog_2_0e6a6390:
 
-    # cultist ".. this creature should live and die for your glory."
-    cultist ".. this creature should live and die for your glory."
+    # cultist "... this creature should live and die for your glory."
+    cultist "... this creature should live and die for your glory."
 
 # game/events/explore/dog.rpy:54
 translate vietnamese explore_dog_2_a874a457:
@@ -129,8 +129,8 @@ translate vietnamese explore_dog_2_99f2ac5f:
 # game/events/explore/dog.rpy:61
 translate vietnamese explore_dog_2_c7815b5a:
 
-    # "You prepare to fight.."
-    "You prepare to fight.."
+    # "You prepare to fight..."
+    "You prepare to fight..."
 
 # game/events/explore/dog.rpy:63
 translate vietnamese explore_dog_2_688d0efb:

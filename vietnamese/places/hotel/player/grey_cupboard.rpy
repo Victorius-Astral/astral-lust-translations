@@ -9,8 +9,8 @@ translate vietnamese room_player_grey_cupboard_menu1_8a19ad94:
 # game/places/hotel/player/grey_cupboard.rpy:15
 translate vietnamese room_player_grey_cupboard_menu1_3667c3e3:
 
-    # th "Hmm.. cooking books, the rest is also useless for me."
-    th "Hmm.. sách nấu ăn, phần còn lại cũng vô dụng với tôi."
+    # th "Hmm... cooking books, the rest is also useless for me."
+    th "Hmm... sách nấu ăn, phần còn lại cũng vô dụng với tôi."
 
 # game/places/hotel/player/grey_cupboard.rpy:16
 translate vietnamese room_player_grey_cupboard_menu1_bf9ea8ac:
@@ -39,14 +39,14 @@ translate vietnamese room_player_grey_cupboard_menu1_c4771c8e:
 # game/places/hotel/player/grey_cupboard.rpy:28
 translate vietnamese room_player_grey_cupboard_menu1_5edc979d:
 
-    # me "Nnnkadishtuor ot Uh'enythh.."
-    me "Nnnkadishtuor ot Uh'enythh.."
+    # me "Nnnkadishtuor ot Uh'enythh..."
+    me "Nnnkadishtuor ot Uh'enythh..."
 
 # game/places/hotel/player/grey_cupboard.rpy:29
 translate vietnamese room_player_grey_cupboard_menu1_c67a5bfc:
 
-    # th "Is that a title?? It's on the title page, so it should be. This language.. I think I've heard it before."
-    th "Đó là một tiêu đề ?? Nó nằm trên trang tiêu đề, vì vậy nó phải như vậy. Ngôn ngữ này .. tôi nghĩ tôi đã nghe nó trước đây."
+    # th "Is that a title?? It's on the title page, so it should be. This language... I think I've heard it before."
+    th "Đó là một tiêu đề ?? Nó nằm trên trang tiêu đề, vì vậy nó phải như vậy. Ngôn ngữ này ... tôi nghĩ tôi đã nghe nó trước đây."
 
 # game/places/hotel/player/grey_cupboard.rpy:30
 translate vietnamese room_player_grey_cupboard_menu1_c74885c9:

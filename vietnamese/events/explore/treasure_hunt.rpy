@@ -3,8 +3,8 @@
 # game/events/explore/treasure_hunt.rpy:49
 translate vietnamese exp_treasure_hunt_part1_efd11ab7:
 
-    # me "Hm.. What is a chest doing here?"
-    me "Hm.. Cái rương đang làm gì ở đây?"
+    # me "Hm... What is a chest doing here?"
+    me "Hm... Cái rương đang làm gì ở đây?"
 
 # game/events/explore/treasure_hunt.rpy:52
 translate vietnamese exp_treasure_hunt_part1_e070f472:
@@ -21,14 +21,14 @@ translate vietnamese exp_treasure_hunt_part1_b3b71564:
 # game/events/explore/treasure_hunt.rpy:58
 translate vietnamese exp_treasure_hunt_part1_83a58e9e:
 
-    # me "Hm.. Some scrap metal and wood."
-    me "Hm.. Một số sắt vụn và gỗ."
+    # me "Hm... Some scrap metal and wood."
+    me "Hm... Một số sắt vụn và gỗ."
 
 # game/events/explore/treasure_hunt.rpy:61
 translate vietnamese exp_treasure_hunt_part1_044ffc8d:
 
-    # th "Picture? A part of it.."
-    th "Bức ảnh? Một phần của nó.."
+    # th "Picture? A part of it..."
+    th "Bức ảnh? Một phần của nó..."
 
 # game/events/explore/treasure_hunt.rpy:64
 translate vietnamese exp_treasure_hunt_part1_b060a3d4:
@@ -57,14 +57,14 @@ translate vietnamese exp_treasure_hunt_part2_3c4a7e6a:
 # game/events/explore/treasure_hunt.rpy:96
 translate vietnamese exp_treasure_hunt_part2_a7b8e554:
 
-    # me "Huh? Even content is the same.."
-    me "Huh? Ngay cả đồ cũng vậy.."
+    # me "Huh? Even content is the same..."
+    me "Huh? Ngay cả đồ cũng vậy..."
 
 # game/events/explore/treasure_hunt.rpy:99
 translate vietnamese exp_treasure_hunt_part2_81eb4c07:
 
-    # th "The picture is different.."
-    th "Hình ảnh khác nhau.."
+    # th "The picture is different..."
+    th "Hình ảnh khác nhau..."
 
 # game/events/explore/treasure_hunt.rpy:106
 translate vietnamese exp_treasure_hunt_part2_3c93f448:
@@ -165,8 +165,8 @@ translate vietnamese exp_treasure_hunt_part5_28e648a4:
 # game/events/explore/treasure_hunt.rpy:188
 translate vietnamese exp_treasure_hunt_part5_608218f4:
 
-    # me "Wait.. This place looks familiar.."
-    me "Chờ đã .. Nơi này trông quen quen.."
+    # me "Wait... This place looks familiar..."
+    me "Chờ đã ... Nơi này trông quen quen..."
 
 # game/events/explore/treasure_hunt.rpy:196
 translate vietnamese exp_treasure_hunt_part5_bf8d56e7:
@@ -189,14 +189,14 @@ translate vietnamese exp_treasure_hunt_part6_fea94007:
 # game/events/explore/treasure_hunt.rpy:219
 translate vietnamese exp_treasure_hunt_part6_e7278700:
 
-    # th "If this is an ambush, I'm going straight into it.."
-    th "Nếu đây là một cuộc phục kích, mình sẽ đi thẳng vào đó.."
+    # th "If this is an ambush, I'm going straight into it..."
+    th "Nếu đây là một cuộc phục kích, mình sẽ đi thẳng vào đó..."
 
 # game/events/explore/treasure_hunt.rpy:222
 translate vietnamese exp_treasure_hunt_part6_22b80e40:
 
-    # me "I should be more cautious in the future.."
-    me "Mình nên thận trọng hơn trong tương lai.."
+    # me "I should be more cautious in the future..."
+    me "Mình nên thận trọng hơn trong tương lai..."
 
 # game/events/explore/treasure_hunt.rpy:246
 translate vietnamese exp_treasure_hunt_end_78d431be:
@@ -219,8 +219,8 @@ translate vietnamese exp_treasure_hunt_reward1_fd83afc4:
 # game/events/explore/treasure_hunt.rpy:260
 translate vietnamese exp_treasure_hunt_reward1_2d2bc4ad:
 
-    # me "Wait.."
-    me "Đợi đã.."
+    # me "Wait..."
+    me "Đợi đã..."
 
 # game/events/explore/treasure_hunt.rpy:267
 translate vietnamese exp_treasure_hunt_reward1_293be2d5:
@@ -249,8 +249,8 @@ translate vietnamese exp_treasure_hunt_reward2_f075d187:
 # game/events/explore/treasure_hunt.rpy:295
 translate vietnamese exp_treasure_hunt_reward3_dd9636c7:
 
-    # me "Ahh.."
-    me "Ahh.."
+    # me "Ahh..."
+    me "Ahh..."
 
 # game/events/explore/treasure_hunt.rpy:296
 translate vietnamese exp_treasure_hunt_reward3_ef5aa953:
@@ -297,8 +297,8 @@ translate vietnamese exp_treasure_hunt_reward3_b0ab3e59:
 # game/events/explore/treasure_hunt.rpy:313
 translate vietnamese exp_treasure_hunt_reward3_88544972:
 
-    # lil_fox unhappy "She wouldn't.."
-    lil_fox unhappy "Chị ấy sẽ không.."
+    # lil_fox unhappy "She wouldn't..."
+    lil_fox unhappy "Chị ấy sẽ không..."
 
 # game/events/explore/treasure_hunt.rpy:314
 translate vietnamese exp_treasure_hunt_reward3_a1e9073c:
@@ -309,8 +309,8 @@ translate vietnamese exp_treasure_hunt_reward3_a1e9073c:
 # game/events/explore/treasure_hunt.rpy:315
 translate vietnamese exp_treasure_hunt_reward3_717b53dd:
 
-    # lil_fox crestfallen "I hope so.."
-    lil_fox crestfallen "Em cũng mong là như vậy.."
+    # lil_fox crestfallen "I hope so..."
+    lil_fox crestfallen "Em cũng mong là như vậy..."
 
 # game/events/explore/treasure_hunt.rpy:316
 translate vietnamese exp_treasure_hunt_reward3_82eff33d:
@@ -363,8 +363,8 @@ translate vietnamese exp_treasure_hunt_reward3_26f8c242:
 # game/events/explore/treasure_hunt.rpy:324
 translate vietnamese exp_treasure_hunt_reward3_f7ede218:
 
-    # me "No wonder.."
-    me "Thảo nào.."
+    # me "No wonder..."
+    me "Thảo nào..."
 
 # game/events/explore/treasure_hunt.rpy:325
 translate vietnamese exp_treasure_hunt_reward3_de395731:
@@ -447,20 +447,20 @@ translate vietnamese exp_treasure_hunt_reward3_3f761db9:
 # game/events/explore/treasure_hunt.rpy:367
 translate vietnamese exp_treasure_hunt_reward3_c5aff8ef:
 
-    # me "Whoa! It talks.."
-    me "Whoa! Nó nói kìa.."
+    # me "Whoa! It talks..."
+    me "Whoa! Nó nói kìa..."
 
 # game/events/explore/treasure_hunt.rpy:370
 translate vietnamese exp_treasure_hunt_reward3_13b45e52:
 
     # lil_fox "It? I'm Little Fox!"
-    lil_fox "Nó nào? Em là cáo nhỏ!"
+    lil_fox "Nó nào? Em là Tiểu Cáo!"
 
 # game/events/explore/treasure_hunt.rpy:371
 translate vietnamese exp_treasure_hunt_reward3_79812e2a:
 
-    # me "Yeah, right, Little Fox.."
-    me "Ừ, phải rồi, Cáo nhỏ.."
+    # me "Yeah, right, Little Fox..."
+    me "Ừ, phải rồi, Tiểu Cáo..."
 
 # game/events/explore/treasure_hunt.rpy:374
 translate vietnamese exp_treasure_hunt_reward3_44e07ef2:
@@ -483,14 +483,14 @@ translate vietnamese exp_treasure_hunt_reward3_85aecabb:
 # game/events/explore/treasure_hunt.rpy:379
 translate vietnamese exp_treasure_hunt_reward3_55690b2f:
 
-    # me "Fine, you're a person.. What do you want?"
-    me "Tốt thôi, em là người .. Vậy em muốn gì?"
+    # me "Fine, you're a person... What do you want?"
+    me "Tốt thôi, em là người ... Vậy em muốn gì?"
 
 # game/events/explore/treasure_hunt.rpy:382
 translate vietnamese exp_treasure_hunt_reward3_8b580f70:
 
-    # lil_fox "I want.."
-    lil_fox "Em muốn.."
+    # lil_fox "I want..."
+    lil_fox "Em muốn..."
 
 # game/events/explore/treasure_hunt.rpy:383
 translate vietnamese exp_treasure_hunt_reward3_bc37ff81:
@@ -555,14 +555,14 @@ translate vietnamese exp_treasure_hunt_reward3_fbc4ed3a:
 # game/events/explore/treasure_hunt.rpy:397
 translate vietnamese exp_treasure_hunt_reward3_5720be33:
 
-    # th "Person, yeah sure.."
-    th "Người, yeah chắc chắn rồi.."
+    # th "Person, yeah sure..."
+    th "Người, yeah chắc chắn rồi..."
 
 # game/events/explore/treasure_hunt.rpy:398
 translate vietnamese exp_treasure_hunt_reward3_4dad65c7:
 
-    # lil_fox "I'm hungry.."
-    lil_fox "Em đói.."
+    # lil_fox "I'm hungry..."
+    lil_fox "Em đói..."
 
 # game/events/explore/treasure_hunt.rpy:399
 translate vietnamese exp_treasure_hunt_reward3_d3ca410f:
@@ -573,8 +573,8 @@ translate vietnamese exp_treasure_hunt_reward3_d3ca410f:
 # game/events/explore/treasure_hunt.rpy:404
 translate vietnamese exp_treasure_hunt_reward3_40ed3f44:
 
-    # lil_fox "Hmm.. What about semen?"
-    lil_fox "Hmm.. Còn tinh dịch thì sao?"
+    # lil_fox "Hmm... What about semen?"
+    lil_fox "Hmm... Còn tinh dịch thì sao?"
 
 # game/events/explore/treasure_hunt.rpy:405
 translate vietnamese exp_treasure_hunt_reward3_3a455008:
@@ -597,8 +597,8 @@ translate vietnamese exp_treasure_hunt_reward3_9c7d0c50:
 # game/events/explore/treasure_hunt.rpy:418
 translate vietnamese exp_treasure_hunt_reward3_948c1a02:
 
-    # lil_fox "Feed me with yourself.."
-    lil_fox "Cho em ăn bằng bản thân anh đi.."
+    # lil_fox "Feed me with yourself..."
+    lil_fox "Cho em ăn bằng bản thân anh đi..."
 
 # game/events/explore/treasure_hunt.rpy:420
 translate vietnamese exp_treasure_hunt_reward3_3820771a_1:
@@ -615,14 +615,14 @@ translate vietnamese exp_treasure_hunt_reward3_f86141b3:
 # game/events/explore/treasure_hunt.rpy:422
 translate vietnamese exp_treasure_hunt_reward3_8bb75c4d:
 
-    # th "Now that sounds hot.."
-    th "Bây giờ nghe có vẻ nóng bỏng đấy.."
+    # th "Now that sounds hot..."
+    th "Bây giờ nghe có vẻ nóng bỏng đấy..."
 
 # game/events/explore/treasure_hunt.rpy:425
 translate vietnamese exp_treasure_hunt_reward3_c627bf98:
 
     # lil_fox "Sorry, where are my manners. Everyone calls me Little Fox, how should I call you, mister?"
-    lil_fox "Xin lỗi, cách cư xử của em đâu rồi. Mọi người đều gọi em là Cáo nhỏ, em nên gọi anh như thế nào?"
+    lil_fox "Xin lỗi, cách cư xử của em đâu rồi. Mọi người đều gọi em là Tiểu Cáo, em nên gọi anh như thế nào?"
 
 # game/events/explore/treasure_hunt.rpy:426
 translate vietnamese exp_treasure_hunt_reward3_bf15753c:
@@ -639,8 +639,8 @@ translate vietnamese exp_treasure_hunt_reward3_82b36a89:
 # game/events/explore/treasure_hunt.rpy:443
 translate vietnamese exp_treasure_hunt_menu_fox_f046e425:
 
-    # lil_fox "I don't know.."
-    lil_fox "Em không biết.."
+    # lil_fox "I don't know..."
+    lil_fox "Em không biết..."
 
 # game/events/explore/treasure_hunt.rpy:444
 translate vietnamese exp_treasure_hunt_menu_fox_cf29d334:
@@ -669,8 +669,8 @@ translate vietnamese exp_treasure_hunt_menu_fox_8650ad5d:
 # game/events/explore/treasure_hunt.rpy:450
 translate vietnamese exp_treasure_hunt_menu_fox_eaf452f1:
 
-    # lil_fox "If you had, I would feel it. There are no shrines in this city, and I need to be homeless.."
-    lil_fox "Nếu anh có, em sẽ cảm thấy nó. Không có đền thờ nào trong thành phố này, và em sẽ phải trở thành người vô gia cư.."
+    # lil_fox "If you had, I would feel it. There are no shrines in this city, and I need to be homeless..."
+    lil_fox "Nếu anh có, em sẽ cảm thấy nó. Không có đền thờ nào trong thành phố này, và em sẽ phải trở thành người vô gia cư..."
 
 # game/events/explore/treasure_hunt.rpy:451
 translate vietnamese exp_treasure_hunt_menu_fox_ab817d96:
@@ -753,8 +753,8 @@ translate vietnamese exp_treasure_hunt_menu_fox_8272625d:
 # game/events/explore/treasure_hunt.rpy:470
 translate vietnamese exp_treasure_hunt_menu_fox_f046e425_1:
 
-    # lil_fox "I don't know.."
-    lil_fox "Em không biết.."
+    # lil_fox "I don't know..."
+    lil_fox "Em không biết..."
 
 # game/events/explore/treasure_hunt.rpy:471
 translate vietnamese exp_treasure_hunt_menu_fox_68cd9e43:
@@ -873,8 +873,8 @@ translate vietnamese exp_treasure_hunt_menu_fox_e79cb33d:
 # game/events/explore/treasure_hunt.rpy:502
 translate vietnamese exp_treasure_hunt_menu_fox_90c9b28e:
 
-    # me "Hmm.. Maybe because you're a monster."
-    me "Hmm.. Có lẽ vì em là quái vật."
+    # me "Hmm... Maybe because you're a monster."
+    me "Hmm... Có lẽ vì em là quái vật."
 
 # game/events/explore/treasure_hunt.rpy:505
 translate vietnamese exp_treasure_hunt_menu_fox_2cb2b520:
@@ -904,13 +904,13 @@ translate vietnamese exp_treasure_hunt_menu_fox_36af232c:
 translate vietnamese exp_treasure_hunt_menu_fox_d515f34e:
 
     # lil_fox "I'm Little Fox. Didn't I tell you already?"
-    lil_fox "Em là Cáo nhỏ. Em không nói với bạn anh à?"
+    lil_fox "Em là Tiểu Cáo. Em không nói với bạn anh à?"
 
 # game/events/explore/treasure_hunt.rpy:510
 translate vietnamese exp_treasure_hunt_menu_fox_4c3b1809:
 
-    # me "You did.."
-    me "Em đã.."
+    # me "You did..."
+    me "Em đã..."
 
 # game/events/explore/treasure_hunt.rpy:511
 translate vietnamese exp_treasure_hunt_menu_fox_2ad5aaf9:
@@ -970,7 +970,7 @@ translate vietnamese exp_treasure_hunt_menu_fox_cf878315:
 translate vietnamese exp_treasure_hunt_menu_fox_f1d7bff6:
 
     # lil_fox "I don't know. I am only a young fox, what can I know."
-    lil_fox "Em không biết. Em chỉ là một con cáo nhỏ, em có thể biết cái gì."
+    lil_fox "Em không biết. Em chỉ là một con Tiểu Cáo, em có thể biết cái gì."
 
 # game/events/explore/treasure_hunt.rpy:529
 translate vietnamese exp_treasure_hunt_menu_fox_3820771a_1:
@@ -999,14 +999,14 @@ translate vietnamese exp_treasure_hunt_menu_fox_2b92ac57:
 # game/events/explore/treasure_hunt.rpy:535
 translate vietnamese exp_treasure_hunt_menu_fox_f8c97434:
 
-    # me "Oh. I guess I could've expected that. After all, you're a mo.."
-    me "Oh. Anh đoán là anh có thể mong đợi điều đó. Sau tất cả, em là một qu.."
+    # me "Oh. I guess I could've expected that. After all, you're a mo..."
+    me "Oh. Anh đoán là anh có thể mong đợi điều đó. Sau tất cả, em là một qu..."
 
 # game/events/explore/treasure_hunt.rpy:538
 translate vietnamese exp_treasure_hunt_menu_fox_c59f5ac6:
 
-    # lil_fox "mo..?"
-    lil_fox "qu..?"
+    # lil_fox "mo...?"
+    lil_fox "qu...?"
 
 # game/events/explore/treasure_hunt.rpy:542
 translate vietnamese exp_treasure_hunt_menu_fox_24efe964:
@@ -1113,8 +1113,8 @@ translate vietnamese exp_treasure_hunt_menu_fox_1589c468:
 # game/events/explore/treasure_hunt.rpy:571
 translate vietnamese exp_treasure_hunt_menu_fox_4dad65c7:
 
-    # lil_fox "I'm hungry.."
-    lil_fox "Em đói.."
+    # lil_fox "I'm hungry..."
+    lil_fox "Em đói..."
 
 # game/events/explore/treasure_hunt.rpy:572
 translate vietnamese exp_treasure_hunt_menu_fox_d9e7f3b8:
@@ -1131,8 +1131,8 @@ translate vietnamese exp_treasure_hunt_reward3_kiss_2edaa896:
 # game/events/explore/treasure_hunt.rpy:581
 translate vietnamese exp_treasure_hunt_reward3_kiss_8481cc66:
 
-    # lil_fox "Not enough.. But still better than nothing."
-    lil_fox "Không đủ .. Nhưng có còn hơn không."
+    # lil_fox "Not enough... But still better than nothing."
+    lil_fox "Không đủ ... Nhưng có còn hơn không."
 
 # game/events/explore/treasure_hunt.rpy:585
 translate vietnamese exp_treasure_hunt_reward3_kiss_07b0b6eb:
@@ -1191,8 +1191,8 @@ translate vietnamese exp_treasure_hunt_reward3_kiss_8a92a38d:
 # game/events/explore/treasure_hunt.rpy:612
 translate vietnamese exp_treasure_hunt_reward3_sex_6c704ae5:
 
-    # me "Ymm.."
-    me "Ymm.."
+    # me "Ymm..."
+    me "Ymm..."
 
 # game/events/explore/treasure_hunt.rpy:613
 translate vietnamese exp_treasure_hunt_reward3_sex_afaa0be1:
@@ -1215,8 +1215,8 @@ translate vietnamese exp_treasure_hunt_reward3_sex_ff8a3bf5:
 # game/events/explore/treasure_hunt.rpy:616
 translate vietnamese exp_treasure_hunt_reward3_sex_63df4808:
 
-    # th "I don't think I can or want to imagine this.."
-    th "Mình không nghĩ mình muốn hoặc không muốn tưởng tượng điều này.."
+    # th "I don't think I can or want to imagine this..."
+    th "Mình không nghĩ mình muốn hoặc không muốn tưởng tượng điều này..."
 
 # game/events/explore/treasure_hunt.rpy:624
 translate vietnamese exp_treasure_hunt_reward3_sex_cc9acdb0:
@@ -1233,14 +1233,14 @@ translate vietnamese exp_treasure_hunt_reward3_sex_be3df5d6:
 # game/events/explore/treasure_hunt.rpy:626
 translate vietnamese exp_treasure_hunt_reward3_sex_6f1fa474:
 
-    # me "Yeah.."
-    me "Yeah.."
+    # me "Yeah..."
+    me "Yeah..."
 
 # game/events/explore/treasure_hunt.rpy:627
 translate vietnamese exp_treasure_hunt_reward3_sex_b4614765:
 
-    # me "Nice, really damn nice.."
-    me "Nice, Thật sự rất nai xừ.."
+    # me "Nice, really damn nice..."
+    me "Nice, Thật sự rất nai xừ..."
 
 # game/events/explore/treasure_hunt.rpy:628
 translate vietnamese exp_treasure_hunt_reward3_sex_812a91b8:
@@ -1389,14 +1389,14 @@ translate vietnamese exp_treasure_hunt_reward4_4d45d3c2:
 # game/events/explore/treasure_hunt.rpy:702
 translate vietnamese exp_treasure_hunt_reward4_dce2a845:
 
-    # me "So that was an ambush.."
-    me "Vậy, đó là một cuộc phục kích.."
+    # me "So that was an ambush..."
+    me "Vậy, đó là một cuộc phục kích..."
 
 # game/events/explore/treasure_hunt.rpy:708
 translate vietnamese exp_treasure_hunt_reward4_win_0e8c605a:
 
-    # me "That would be all from you.."
-    me "Đó sẽ là lời trăn trối của mày đấy.."
+    # me "That would be all from you..."
+    me "Đó sẽ là lời trăn trối của mày đấy..."
 
 # game/events/explore/treasure_hunt.rpy:709
 translate vietnamese exp_treasure_hunt_reward4_win_88f419ce:
@@ -1454,8 +1454,8 @@ translate vietnamese strings:
 # game/events/explore/treasure_hunt.rpy:58
 translate vietnamese exp_treasure_hunt_part1_96368534:
 
-    # me "Hm.. Some scrap metal and wood?"
-    me "Hm.. Some scrap metal and wood?"
+    # me "Hm... Some scrap metal and wood?"
+    me "Hm... Some scrap metal and wood?"
 
 # game/events/explore/treasure_hunt.rpy:96
 translate vietnamese exp_treasure_hunt_part2_15bb5cc0:
@@ -1490,8 +1490,8 @@ translate vietnamese exp_treasure_hunt_reward3_8a74af91:
 # game/events/explore/treasure_hunt.rpy:422
 translate vietnamese exp_treasure_hunt_reward3_fa194d45:
 
-    # th "Now, that sounds hot.."
-    th "Now, that sounds hot.."
+    # th "Now, that sounds hot..."
+    th "Now, that sounds hot..."
 
 # game/events/explore/treasure_hunt.rpy:452
 translate vietnamese exp_treasure_hunt_menu_fox_77542540:
@@ -1532,8 +1532,8 @@ translate vietnamese exp_treasure_hunt_menu_fox_fa8da3d4:
 # game/events/explore/treasure_hunt.rpy:535
 translate vietnamese exp_treasure_hunt_menu_fox_43f0bc2b:
 
-    # me "Oh! I guess I could've expected that. After all, you're a mo.."
-    me "Oh! I guess I could've expected that. After all, you're a mo.."
+    # me "Oh! I guess I could've expected that. After all, you're a mo..."
+    me "Oh! I guess I could've expected that. After all, you're a mo..."
 
 # game/events/explore/treasure_hunt.rpy:546
 translate vietnamese exp_treasure_hunt_menu_fox_d706da71:
@@ -1586,6 +1586,6 @@ translate vietnamese exp_treasure_hunt_reward3_sex_df782da0:
 # game/events/explore/treasure_hunt.rpy:702
 translate vietnamese exp_treasure_hunt_reward4_c6f8568d:
 
-    # me "So, that was an ambush.."
-    me "So, that was an ambush.."
+    # me "So, that was an ambush..."
+    me "So, that was an ambush..."
 

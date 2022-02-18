@@ -21,8 +21,8 @@ translate vietnamese savenia_3_c2d95bc1:
 # game/characters/savenia/ev_3.rpy:19
 translate vietnamese savenia_3_part2_b614abcb:
 
-    # th "Someone got a spider problem, these are hideous things.."
-    th "Ai đó gặp phải vấn đề với nhện rồi, bọn nó là loại gớm ghiếc nhất.."
+    # th "Someone got a spider problem, these are hideous things..."
+    th "Ai đó gặp phải vấn đề với nhện rồi, bọn nó là loại gớm ghiếc nhất..."
 
 # game/characters/savenia/ev_3.rpy:22
 translate vietnamese savenia_3_part2_c295f36f:
@@ -45,8 +45,8 @@ translate vietnamese savenia_3_part2_7a88b645:
 # game/characters/savenia/ev_3.rpy:27
 translate vietnamese savenia_3_part2_438a2177:
 
-    # th "Does she need to be so stubborn.. It's not like staying in the bed for a while would kill her."
-    th "Cô ấy có cần bướng bỉnh như vậy không.. đâu phải cứ ở trên giường một lát sẽ giết chết cô ấy đâu.."
+    # th "Does she need to be so stubborn... It's not like staying in the bed for a while would kill her."
+    th "Cô ấy có cần bướng bỉnh như vậy không... đâu phải cứ ở trên giường một lát sẽ giết chết cô ấy đâu..."
 
 # game/characters/savenia/ev_3.rpy:28
 translate vietnamese savenia_3_part2_debf8341:
@@ -111,8 +111,8 @@ translate vietnamese savenia_3_part2_199a8354:
 # game/characters/savenia/ev_3.rpy:50
 translate vietnamese savenia_3_part2_da79d808:
 
-    # me "Ah.. Could you not wait for your leg to get better first?"
-    me "Ah.. Cậu không thể đợi cho chân của cậu đỡ hơn được à?"
+    # me "Ah... Could you not wait for your leg to get better first?"
+    me "Ah... Cậu không thể đợi cho chân của cậu đỡ hơn được à?"
 
 # game/characters/savenia/ev_3.rpy:51
 translate vietnamese savenia_3_part2_ffdd361f:
@@ -135,8 +135,8 @@ translate vietnamese savenia_3_part2_0bb59dde:
 # game/characters/savenia/ev_3.rpy:54
 translate vietnamese savenia_3_part2_9bbe5648:
 
-    # me "Whatever. Let's go back. You sho.."
-    me "Sao cũng được. Hãy quay trở lại thôi. Cậu nê.."
+    # me "Whatever. Let's go back. You sho..."
+    me "Sao cũng được. Hãy quay trở lại thôi. Cậu nê..."
 
 # game/characters/savenia/ev_3.rpy:57
 translate vietnamese savenia_3_part2_fb008b40:
@@ -183,8 +183,8 @@ translate vietnamese savenia_3_part2_76096beb:
 # game/characters/savenia/ev_3.rpy:70
 translate vietnamese savenia_3_part2_9e97bd61:
 
-    # savenia "You're asking too much.."
-    savenia "Cậu đang hỏi quá nhiều đấy.."
+    # savenia "You're asking too much..."
+    savenia "Cậu đang hỏi quá nhiều đấy..."
 
 # game/characters/savenia/ev_3.rpy:71
 translate vietnamese savenia_3_part2_3820771a_1:
@@ -285,8 +285,8 @@ translate vietnamese savenia_3_part2_b5805bef:
 # game/characters/savenia/ev_3.rpy:95
 translate vietnamese savenia_3_part2_333bc4fa:
 
-    # savenia "I know.."
-    savenia "Tớ biết.."
+    # savenia "I know..."
+    savenia "Tớ biết..."
 
 # game/characters/savenia/ev_3.rpy:98
 translate vietnamese savenia_3_part2_ce170802:

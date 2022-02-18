@@ -21,8 +21,8 @@ translate vietnamese main_12_fc5acede:
 # game/characters/player/ev_12.rpy:8
 translate vietnamese main_12_0dc23221:
 
-    # me "Wait, this.. [aharon]?"
-    me "Chờ đã, cái này.. [aharon]?"
+    # me "Wait, this... [aharon]?"
+    me "Chờ đã, cái này... [aharon]?"
 
 # game/characters/player/ev_12.rpy:9
 translate vietnamese main_12_0d868b11:
@@ -117,14 +117,14 @@ translate vietnamese main_12_de815348:
 # game/characters/player/ev_12.rpy:34
 translate vietnamese main_12_e68bb894:
 
-    # me "Wait, we have the same goal, so Your God is.."
-    me "Chờ đã, nếu chúng ta có cùng một mục tiêu, vậy Thần của mày là.."
+    # me "Wait, we have the same goal, so Your God is..."
+    me "Chờ đã, nếu chúng ta có cùng một mục tiêu, vậy Thần của mày là..."
 
 # game/characters/player/ev_12.rpy:36
 translate vietnamese main_12_02080f70:
 
-    # me "Wait, we have the same goal, so your god is.."
-    me "Chờ đã, nếu chúng ta có cùng một mục tiêu, vậy Thần của mày là.."
+    # me "Wait, we have the same goal, so your god is..."
+    me "Chờ đã, nếu chúng ta có cùng một mục tiêu, vậy Thần của mày là..."
 
 # game/characters/player/ev_12.rpy:38
 translate vietnamese main_12_8a0098e7:
@@ -147,14 +147,14 @@ translate vietnamese main_12_80880b63:
 # game/characters/player/ev_12.rpy:46
 translate vietnamese main_12_7a15fe54:
 
-    # me "I understand.."
-    me "Tao hiểu rồi.."
+    # me "I understand..."
+    me "Tao hiểu rồi..."
 
 # game/characters/player/ev_12.rpy:48
 translate vietnamese main_12_22269c8e:
 
-    # me "Wait.. 'He' was supposed to save us, but You're behind The End.."
-    me "Chờ đã .. 'Anh ta' được cho là sẽ cứu chúng ta, nhưng mày lại đứng sau The End.."
+    # me "Wait... 'He' was supposed to save us, but You're behind The End..."
+    me "Chờ đã ... 'Anh ta' được cho là sẽ cứu chúng ta, nhưng mày lại đứng sau The End..."
 
 # game/characters/player/ev_12.rpy:49
 translate vietnamese main_12_f8bb135e:
@@ -291,26 +291,26 @@ translate vietnamese main_12_314086b3:
 # game/characters/player/ev_12.rpy:71
 translate vietnamese main_12_1cf10b67:
 
-    # aharon "The fact your parents met, and you were born was all because of the key. It altered, warped, and created destiny that would lead to its manifestation. And this manifestation.."
-    aharon "Việc cha mẹ ngươi gặp nhau, và ngươi được sinh ra, tất cả đều là do chìa khóa. Nó đã thay đổi, biến dạng và tạo ra số phận sẽ dẫn đến sự xuất hiện của nó. Và biểu hiện này.."
+    # aharon "The fact your parents met, and you were born was all because of the key. It altered, warped, and created destiny that would lead to its manifestation. And this manifestation..."
+    aharon "Việc cha mẹ ngươi gặp nhau, và ngươi được sinh ra, tất cả đều là do chìa khóa. Nó đã thay đổi, biến dạng và tạo ra số phận sẽ dẫn đến sự xuất hiện của nó. Và biểu hiện này..."
 
 # game/characters/player/ev_12.rpy:72
 translate vietnamese main_12_efd45f16:
 
-    # me ".. is me...."
-    me ".. Là tao...."
+    # me "... is me..."
+    me "... Là tao..."
 
 # game/characters/player/ev_12.rpy:73
 translate vietnamese main_12_fedf45f6:
 
-    # aharon "At the beginning I wanted to turn you into my puppet, and open the gates right away.."
-    aharon "Ngay từ đầu, ta đã muốn biến ngươi thành con rối của mình, và mở cổng ngay lập tức.."
+    # aharon "At the beginning I wanted to turn you into my puppet, and open the gates right away..."
+    aharon "Ngay từ đầu, ta đã muốn biến ngươi thành con rối của mình, và mở cổng ngay lập tức..."
 
 # game/characters/player/ev_12.rpy:74
 translate vietnamese main_12_884d7ada:
 
-    # me "I wouldn't be able to resist.. Why did you change Your mind?"
-    me "Tao sẽ không thể chống lại .. Tại sao mày lại thay đổi quyết định của mình?"
+    # me "I wouldn't be able to resist... Why did you change Your mind?"
+    me "Tao sẽ không thể chống lại ... Tại sao mày lại thay đổi quyết định của mình?"
 
 # game/characters/player/ev_12.rpy:75
 translate vietnamese main_12_3c5667f5:
@@ -369,14 +369,14 @@ translate vietnamese main_12_fedbbdc4:
 # game/characters/player/ev_12.rpy:84
 translate vietnamese main_12_6c198500:
 
-    # me "You should have some humanity left, how come I can't see it, Your tone didn't even change since we started talking.."
-    me "Mày nên còn lại một chút nhân tính chứ, sao tao không thể nhìn thấy nó, Giọng điệu của mày thậm chí không thay đổi kể từ khi chúng ta bắt đầu nói chuyện.."
+    # me "You should have some humanity left, how come I can't see it, Your tone didn't even change since we started talking..."
+    me "Mày nên còn lại một chút nhân tính chứ, sao tao không thể nhìn thấy nó, Giọng điệu của mày thậm chí không thay đổi kể từ khi chúng ta bắt đầu nói chuyện..."
 
 # game/characters/player/ev_12.rpy:85
 translate vietnamese main_12_19029a70:
 
-    # aharon "Humanity.. What does it exactly mean? Is it to be nice and kind?"
-    aharon "Nhân tính.. Nó chính xác có nghĩa là gì? Nó có phải là tốt đẹp và tử tế không?"
+    # aharon "Humanity... What does it exactly mean? Is it to be nice and kind?"
+    aharon "Nhân tính... Nó chính xác có nghĩa là gì? Nó có phải là tốt đẹp và tử tế không?"
 
 # game/characters/player/ev_12.rpy:86
 translate vietnamese main_12_2930e26f:
@@ -387,8 +387,8 @@ translate vietnamese main_12_2930e26f:
 # game/characters/player/ev_12.rpy:87
 translate vietnamese main_12_66130c3c:
 
-    # aharon "I've lived through thousands of years, seen rise and fall of countless nations, birth and death of billions. Human nature.. it was never kind."
-    aharon "Tôi đã sống qua hàng ngàn năm, chứng kiến sự thăng trầm của vô số quốc gia, sinh và tử của hàng tỷ người. Bản chất con người.. là không bao giờ tử tế."
+    # aharon "I've lived through thousands of years, seen rise and fall of countless nations, birth and death of billions. Human nature... it was never kind."
+    aharon "Tôi đã sống qua hàng ngàn năm, chứng kiến sự thăng trầm của vô số quốc gia, sinh và tử của hàng tỷ người. Bản chất con người... là không bao giờ tử tế."
 
 # game/characters/player/ev_12.rpy:88
 translate vietnamese main_12_dfb9bcd6:
@@ -405,14 +405,14 @@ translate vietnamese main_12_d5e07d2a:
 # game/characters/player/ev_12.rpy:90
 translate vietnamese main_12_b2643199:
 
-    # aharon "Not the only thing, but yes.. I have a desire, I would do everything to achieve."
-    aharon "Không phải là điều duy nhất, nhưng đúng.. ta có một mong muốn, ta sẽ làm mọi thứ để đạt được."
+    # aharon "Not the only thing, but yes... I have a desire, I would do everything to achieve."
+    aharon "Không phải là điều duy nhất, nhưng đúng... ta có một mong muốn, ta sẽ làm mọi thứ để đạt được."
 
 # game/characters/player/ev_12.rpy:91
 translate vietnamese main_12_c3ef91f2:
 
-    # me "Apotheosis.."
-    me "Nghi thức Phong thần.."
+    # me "Apotheosis..."
+    me "Nghi thức Phong thần..."
 
 # game/characters/player/ev_12.rpy:92
 translate vietnamese main_12_33351859:
@@ -477,8 +477,8 @@ translate vietnamese main_12_0ca828db:
 # game/characters/player/ev_12.rpy:102
 translate vietnamese main_12_898edb22:
 
-    # th "The key.."
-    th "Chìa khóa.."
+    # th "The key..."
+    th "Chìa khóa..."
 
 # game/characters/player/ev_12.rpy:103
 translate vietnamese main_12_a1babd40:
@@ -507,20 +507,20 @@ translate vietnamese main_12_c9911443:
 # game/characters/player/ev_12.rpy:116
 translate vietnamese main_12_407a6caf:
 
-    # me "What the fuck just happened.."
-    me "Chuyện quái gì vừa xảy ra vậy.."
+    # me "What the fuck just happened..."
+    me "Chuyện quái gì vừa xảy ra vậy..."
 
 # game/characters/player/ev_12.rpy:119
 translate vietnamese main_12_6f23e5fc:
 
-    # me "Ha.. Haha. Hahaha!"
-    me "Ha.. Haha. Hahaha!"
+    # me "Ha... Haha. Hahaha!"
+    me "Ha... Haha. Hahaha!"
 
 # game/characters/player/ev_12.rpy:120
 translate vietnamese main_12_b17b1bf2:
 
-    # me "Haha.. It's so fucked up.. I.. need to rest.."
-    me "Haha.. Thật là toang mà.. Mình .. cần phải nghỉ ngơi.."
+    # me "Haha... It's so fucked up... I... need to rest..."
+    me "Haha... Thật là toang mà... Mình ... cần phải nghỉ ngơi..."
 # TODO: Translation updated at 2022-02-06 08:10
 
 # game/characters/player/ev_12.rpy:49
@@ -532,8 +532,8 @@ translate vietnamese main_12_3100fcf9:
 # game/characters/player/ev_12.rpy:73
 translate vietnamese main_12_2aefa9a2:
 
-    # aharon "At the beginning, I wanted to turn you into my puppet, and open the gates right away.."
-    aharon "At the beginning, I wanted to turn you into my puppet, and open the gates right away.."
+    # aharon "At the beginning, I wanted to turn you into my puppet, and open the gates right away..."
+    aharon "At the beginning, I wanted to turn you into my puppet, and open the gates right away..."
 
 # game/characters/player/ev_12.rpy:75
 translate vietnamese main_12_9b7ad031:
@@ -550,8 +550,8 @@ translate vietnamese main_12_09873be0:
 # game/characters/player/ev_12.rpy:87
 translate vietnamese main_12_76b71697:
 
-    # aharon "I've lived through thousands of years, seen rise and fall of countless nations, birth, and death of billions. Human nature.. it was never kind."
-    aharon "I've lived through thousands of years, seen rise and fall of countless nations, birth, and death of billions. Human nature.. it was never kind."
+    # aharon "I've lived through thousands of years, seen rise and fall of countless nations, birth, and death of billions. Human nature... it was never kind."
+    aharon "I've lived through thousands of years, seen rise and fall of countless nations, birth, and death of billions. Human nature... it was never kind."
 
 # game/characters/player/ev_12.rpy:92
 translate vietnamese main_12_1247e2ef:

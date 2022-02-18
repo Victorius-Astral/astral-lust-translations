@@ -9,8 +9,8 @@ translate vietnamese grace_tj_1_slow_26f92791:
 # game/characters/grace/tj_1.rpy:77
 translate vietnamese grace_tj_1_slow_61e02f6c:
 
-    # me "Oh, yeah.. I like it a lot."
-    me "Oh, yeah.. Anh rất thích."
+    # me "Oh, yeah... I like it a lot."
+    me "Oh, yeah... Anh rất thích."
 
 # game/characters/grace/tj_1.rpy:78
 translate vietnamese grace_tj_1_slow_39a4d06c:
@@ -69,8 +69,8 @@ translate vietnamese grace_tj_1_fast_3357c020:
 # game/characters/grace/tj_1.rpy:121
 translate vietnamese grace_tj_1_fast_3412bd39:
 
-    # me "Ah.. Exactly, [grace].. Exactly..."
-    me "Ah.. Chính xác, [grace].. Chính xác rồi..."
+    # me "Ah... Exactly, [grace]... Exactly..."
+    me "Ah... Chính xác, [grace]... Chính xác rồi..."
 
 # game/characters/grace/tj_1.rpy:155
 translate vietnamese grace_tj_1_before_65370e5c:
@@ -93,8 +93,8 @@ translate vietnamese grace_tj_1_before_609b4c97:
 # game/characters/grace/tj_1.rpy:158
 translate vietnamese grace_tj_1_before_fafc9356:
 
-    # me "Yeah.. Sure.."
-    me "Yeah.. Phải rồi.."
+    # me "Yeah... Sure..."
+    me "Yeah... Phải rồi..."
 
 # game/characters/grace/tj_1.rpy:159
 translate vietnamese grace_tj_1_before_d406cef2:
@@ -189,8 +189,8 @@ translate vietnamese grace_tj_1_cum_b32f3e28:
 # game/characters/grace/tj_1.rpy:208
 translate vietnamese grace_tj_1_cum_ce2588b4:
 
-    # grace "So dirty.. again.."
-    grace "Thật bẩn.. lần nữa.."
+    # grace "So dirty... again..."
+    grace "Thật bẩn... lần nữa..."
 
 # game/characters/grace/tj_1.rpy:209
 translate vietnamese grace_tj_1_cum_fd5c0a5c:

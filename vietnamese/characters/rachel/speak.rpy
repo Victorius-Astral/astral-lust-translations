@@ -34,7 +34,7 @@ translate vietnamese speak_rachel_built_shrine_f185b234:
 translate vietnamese speak_rachel_built_shrine_598df8e3:
 
     # me "What about Little Fox?"
-    me "Còn về Cáo nhỏ?"
+    me "Còn về Tiểu Cáo?"
 
 # game/characters/rachel/speak.rpy:70
 translate vietnamese speak_rachel_built_shrine_4ff64280:
@@ -46,7 +46,7 @@ translate vietnamese speak_rachel_built_shrine_4ff64280:
 translate vietnamese speak_rachel_built_shrine_0ff3d156:
 
     # me "Oh, Little Fox. Nice to see you!"
-    me "Oh, Cáo nhỏ. Rất vui được gặp em!"
+    me "Oh, Tiểu Cáo. Rất vui được gặp em!"
 
 # game/characters/rachel/speak.rpy:72
 translate vietnamese speak_rachel_built_shrine_01c57212:
@@ -106,7 +106,7 @@ translate vietnamese speak_rachel_built_shrine_14ce074a:
 translate vietnamese speak_rachel_built_shrine_97fbb4cf:
 
     # rachel "You're a foodie, Little Fox."
-    rachel "Em là một người thích ăn uống đấy Cáo nhỏ."
+    rachel "Em là một người thích ăn uống đấy Tiểu Cáo."
 
 # game/characters/rachel/speak.rpy:85
 translate vietnamese speak_rachel_built_shrine_25dc55dc:
@@ -135,8 +135,8 @@ translate vietnamese speak_rachel_built_shrine_346dc63b:
 # game/characters/rachel/speak.rpy:97
 translate vietnamese speak_rachel_built_shrine_1824b6f6:
 
-    # lil_fox crestfallen "Whatever you say 'mom'.."
-    lil_fox crestfallen "Bất cứ điều gì 'mẹ' nói ạ.."
+    # lil_fox crestfallen "Whatever you say 'mom'..."
+    lil_fox crestfallen "Bất cứ điều gì 'mẹ' nói ạ..."
 
 # game/characters/rachel/speak.rpy:98
 translate vietnamese speak_rachel_built_shrine_34044283:
@@ -159,8 +159,8 @@ translate vietnamese speak_rachel_built_shrine_cb76cb65:
 # game/characters/rachel/speak.rpy:101
 translate vietnamese speak_rachel_built_shrine_4797a67f:
 
-    # me "I'm sorry.."
-    me "Anh rất tiếc.."
+    # me "I'm sorry..."
+    me "Anh rất tiếc..."
 
 # game/characters/rachel/speak.rpy:102
 translate vietnamese speak_rachel_built_shrine_97c9186f:
@@ -195,8 +195,8 @@ translate vietnamese speak_rachel_built_shrine_8137b540:
 # game/characters/rachel/speak.rpy:111
 translate vietnamese speak_rachel_built_shrine_f6260e13:
 
-    # rachel "If you need to define it.."
-    rachel "Nếu anh cần xác định nó.."
+    # rachel "If you need to define it..."
+    rachel "Nếu anh cần xác định nó..."
 
 # game/characters/rachel/speak.rpy:112
 translate vietnamese speak_rachel_built_shrine_97e5ba56:
@@ -219,8 +219,8 @@ translate vietnamese speak_rachel_built_shrine_534b74b0:
 # game/characters/rachel/speak.rpy:115
 translate vietnamese speak_rachel_built_shrine_a58ddf42:
 
-    # lil_fox hungry thinking "I will fall into slumber for a while. A few days, maybe more.."
-    lil_fox hungry thinking "Em sẽ chìm vào giấc ngủ trong một thời gian. Một vài ngày, có thể hơn.."
+    # lil_fox hungry thinking "I will fall into slumber for a while. A few days, maybe more..."
+    lil_fox hungry thinking "Em sẽ chìm vào giấc ngủ trong một thời gian. Một vài ngày, có thể hơn..."
 
 # game/characters/rachel/speak.rpy:116
 translate vietnamese speak_rachel_built_shrine_c7d87fe5:
@@ -280,7 +280,7 @@ translate vietnamese speak_rachel_built_shrine_ccd49712:
 translate vietnamese speak_rachel_built_shrine_601e619e:
 
     # rachel "Little Fox told me how you feed her."
-    rachel "Cáo nhỏ đã nói với tôi cách bạn cho em ấy ăn."
+    rachel "Tiểu Cáo đã nói với tôi cách bạn cho em ấy ăn."
 
 # game/characters/rachel/speak.rpy:131
 translate vietnamese speak_rachel_built_shrine_2867c4c2:
@@ -345,8 +345,8 @@ translate vietnamese speak_rachel_built_shrine_bf641a2a:
 # game/characters/rachel/speak.rpy:149
 translate vietnamese speak_rachel_built_shrine_c261784e:
 
-    # rachel "I want something.. magical."
-    rachel "Tôi muốn một cái gì đó.. Pháp thuật chút."
+    # rachel "I want something... magical."
+    rachel "Tôi muốn một cái gì đó... Pháp thuật chút."
 
 # game/characters/rachel/speak.rpy:150
 translate vietnamese speak_rachel_built_shrine_cdcc9fc4:
@@ -375,8 +375,8 @@ translate vietnamese speak_rachel_built_shrine_681dd34b:
 # game/characters/rachel/speak.rpy:154
 translate vietnamese speak_rachel_built_shrine_0ca9a21c:
 
-    # me "I will see what I can do.."
-    me "Tôi sẽ xem những gì mình có thể làm.."
+    # me "I will see what I can do..."
+    me "Tôi sẽ xem những gì mình có thể làm..."
 
 # game/characters/rachel/speak.rpy:155
 translate vietnamese speak_rachel_built_shrine_04b09b1b:
@@ -440,6 +440,6 @@ translate vietnamese speak_rachel_built_shrine_8f8462c7:
 # game/characters/rachel/speak.rpy:115
 translate vietnamese speak_rachel_built_shrine_9625645a:
 
-    # lil_fox hungry thinking "I will fall into a slumber for a while. A few days, maybe more.."
-    lil_fox hungry thinking "I will fall into a slumber for a while. A few days, maybe more.."
+    # lil_fox hungry thinking "I will fall into a slumber for a while. A few days, maybe more..."
+    lil_fox hungry thinking "I will fall into a slumber for a while. A few days, maybe more..."
 

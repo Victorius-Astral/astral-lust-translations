@@ -27,19 +27,19 @@ translate vietnamese alice_6_e8a11934:
 # game/characters/alice/ev_6.rpy:15
 translate vietnamese alice_6_c0e87b2b:
 
-    # alice "Well, maybe you just came to peek at me.."
+    # alice "Well, maybe you just came to peek at me..."
     alice "Chà, có lẽ anh chỉ đến để nhìn trộm em..."
 
 # game/characters/alice/ev_6.rpy:16
 translate vietnamese alice_6_1f56af50:
 
-    # me "I wouldn't do some.."
+    # me "I wouldn't do some..."
     me "Anh sẽ không làm những thứ..."
 
 # game/characters/alice/ev_6.rpy:17
 translate vietnamese alice_6_0a2ec3a3:
 
-    # alice ".. again."
+    # alice "... again."
     alice "... lại nữa."
 
 # game/characters/alice/ev_6.rpy:18
@@ -123,7 +123,7 @@ translate vietnamese alice_6_8bb43492:
 # game/characters/alice/ev_6.rpy:38
 translate vietnamese alice_6_b49c3cc1:
 
-    # alice "You're bullying me again.."
+    # alice "You're bullying me again..."
     alice "anh lại bắt nạt em nữa rồi..."
 
 # game/characters/alice/ev_6.rpy:39
@@ -207,7 +207,7 @@ translate vietnamese alice_6_87a76aa3:
 # game/characters/alice/ev_6.rpy:69
 translate vietnamese alice_6_7c82e351:
 
-    # alice "Who knows.."
+    # alice "Who knows..."
     alice "Ai biết..."
 
 # game/characters/alice/ev_6.rpy:74

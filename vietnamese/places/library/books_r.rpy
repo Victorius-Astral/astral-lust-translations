@@ -33,14 +33,14 @@ translate vietnamese room_library_books_r_kain_b910593d:
 # game/places/library/books_r.rpy:28
 translate vietnamese room_library_books_r_kain_68d6333b:
 
-    # bkd "How wrong I was.. How naive we were to believe Him.."
-    bkd "Ta đã sai lầm làm sao .. Bọn Ta đã ngây thơ biết bao khi tin Ngài.."
+    # bkd "How wrong I was... How naive we were to believe Him..."
+    bkd "Ta đã sai lầm làm sao ... Bọn Ta đã ngây thơ biết bao khi tin Ngài..."
 
 # game/places/library/books_r.rpy:29
 translate vietnamese room_library_books_r_kain_d4a7bf46:
 
     # bkd "We are not the only ones. We are not special. On the contrary, we are insignificant, like a grain of sand in a desert."
-    bkd "Bọn ta không phải là những người duy nhất. Bọn Ta không đặc biệt. Ngược lại, chúng tôi thật tầm thường, như hạt cát trên sa mạc.."
+    bkd "Bọn ta không phải là những người duy nhất. Bọn Ta không đặc biệt. Ngược lại, chúng tôi thật tầm thường, như hạt cát trên sa mạc..."
 
 # game/places/library/books_r.rpy:30
 translate vietnamese room_library_books_r_kain_a6bf7657:
@@ -51,8 +51,8 @@ translate vietnamese room_library_books_r_kain_a6bf7657:
 # game/places/library/books_r.rpy:31
 translate vietnamese room_library_books_r_kain_46b02006:
 
-    # bkd "Once have I seen an Angel slain by a mortal weapon.. The explosion destroyed everything around. I couldn't decide if what remained was a lake or a sea.."
-    bkd "Có lần tôi thấy một Thiên thần bị giết bởi vũ khí chết chóc .. Vụ nổ phá hủy mọi thứ xung quanh. Tôi không thể bbiieets được những gì còn lại là hồ hay biển.."
+    # bkd "Once have I seen an Angel slain by a mortal weapon... The explosion destroyed everything around. I couldn't decide if what remained was a lake or a sea..."
+    bkd "Có lần tôi thấy một Thiên thần bị giết bởi vũ khí chết chóc ... Vụ nổ phá hủy mọi thứ xung quanh. Tôi không thể bbiieets được những gì còn lại là hồ hay biển..."
 
 # game/places/library/books_r.rpy:32
 translate vietnamese room_library_books_r_kain_df87d8a3:
@@ -69,20 +69,20 @@ translate vietnamese room_library_books_r_kain_9b11178e:
 # game/places/library/books_r.rpy:34
 translate vietnamese room_library_books_r_kain_a4558b53:
 
-    # bkd "I left the planet immediately the moment I learned of this name. Using all my abilities to escape from this place, it took me less than a breath to get away, yet the terror never left my heart.."
-    bkd "Tôi rời hành tinh ngay lập tức khi tôi biết đến cái tên này. Dùng tất cả khả năng của mình để thoát khỏi nơi này, tôi chỉ mất chưa đầy một hơi thở để thoát ra, nhưng nỗi kinh hoàng vẫn chưa bao giờ rời khỏi trái tim tôi.."
+    # bkd "I left the planet immediately the moment I learned of this name. Using all my abilities to escape from this place, it took me less than a breath to get away, yet the terror never left my heart..."
+    bkd "Tôi rời hành tinh ngay lập tức khi tôi biết đến cái tên này. Dùng tất cả khả năng của mình để thoát khỏi nơi này, tôi chỉ mất chưa đầy một hơi thở để thoát ra, nhưng nỗi kinh hoàng vẫn chưa bao giờ rời khỏi trái tim tôi..."
 
 # game/places/library/books_r.rpy:35
 translate vietnamese room_library_books_r_kain_a04dc50c:
 
-    # bkd "No one can imagine the powers of deities connected to the domain of mysteries. Perhaps all beings on that planet were It's avatars.. maybe puppets.. maybe both.."
-    bkd "Không ai có thể tưởng tượng được sức mạnh của các vị thần có liên quan đến lĩnh vực của những bí ẩn. Có lẽ tất cả chúng sinh trên hành tinh đó đều là hiện thân .. có thể là con rối .. có thể là cả hai.."
+    # bkd "No one can imagine the powers of deities connected to the domain of mysteries. Perhaps all beings on that planet were It's avatars... maybe puppets... maybe both..."
+    bkd "Không ai có thể tưởng tượng được sức mạnh của các vị thần có liên quan đến lĩnh vực của những bí ẩn. Có lẽ tất cả chúng sinh trên hành tinh đó đều là hiện thân ... có thể là con rối ... có thể là cả hai..."
 
 # game/places/library/books_r.rpy:36
 translate vietnamese room_library_books_r_kain_bc4eadf2:
 
-    # bkd "I inspected every aspect of myself, thankfully it seems I'm still me. Yet, for how long? Perhaps it's looking at me now, perhaps it's inside of me already, but I can't feel it.."
-    bkd "Tôi đã kiểm tra mọi khía cạnh của bản thân, may mắn thay, có vẻ như tôi vẫn là tôi. Tuy nhiên, trong bao lâu? Có lẽ bây giờ nó đang nhìn tôi, có lẽ nó đã ở trong tôi rồi, nhưng tôi không thể cảm nhận được.."
+    # bkd "I inspected every aspect of myself, thankfully it seems I'm still me. Yet, for how long? Perhaps it's looking at me now, perhaps it's inside of me already, but I can't feel it..."
+    bkd "Tôi đã kiểm tra mọi khía cạnh của bản thân, may mắn thay, có vẻ như tôi vẫn là tôi. Tuy nhiên, trong bao lâu? Có lẽ bây giờ nó đang nhìn tôi, có lẽ nó đã ở trong tôi rồi, nhưng tôi không thể cảm nhận được..."
 
 # game/places/library/books_r.rpy:37
 translate vietnamese room_library_books_r_kain_dd620044:
@@ -117,8 +117,8 @@ translate vietnamese room_library_books_r_kain_cd64c720:
 # game/places/library/books_r.rpy:42
 translate vietnamese room_library_books_r_kain_f157283c:
 
-    # bkd "The first one was pure white. It emitted strong light, and just a peek made me want to fall to my knees and revere it. It resembled looking at Him, but He.. doesn't give even half of this feeling.."
-    bkd "Chiếc đầu tiên có màu trắng tinh. Nó phát ra ánh sáng mạnh, và chỉ một cái nhìn thôi cũng khiến tôi muốn khuỵu gối xuống và tôn kính nó. Nó giống như đang nhìn vào Ngài, nhưng Ngài .. không cho dù chỉ một nửa cảm giác này.."
+    # bkd "The first one was pure white. It emitted strong light, and just a peek made me want to fall to my knees and revere it. It resembled looking at Him, but He... doesn't give even half of this feeling..."
+    bkd "Chiếc đầu tiên có màu trắng tinh. Nó phát ra ánh sáng mạnh, và chỉ một cái nhìn thôi cũng khiến tôi muốn khuỵu gối xuống và tôn kính nó. Nó giống như đang nhìn vào Ngài, nhưng Ngài ... không cho dù chỉ một nửa cảm giác này..."
 
 # game/places/library/books_r.rpy:43
 translate vietnamese room_library_books_r_kain_4f99907d:
@@ -135,20 +135,20 @@ translate vietnamese room_library_books_r_kain_026d7ffb:
 # game/places/library/books_r.rpy:45
 translate vietnamese room_library_books_r_kain_64853d1b:
 
-    # bkd "I didn't hear any murmurs or ravings, yet I was on the brink of losing control.. Dangerous, my eyes have never fallen on it again."
-    bkd "Tôi không nghe thấy bất kỳ tiếng xì xào hay la hét nào, nhưng tôi đang trên bờ vực mất kiểm soát .. Nguy hiểm, mắt tôi sẽ không bao giờ nhìn vào nó nữa."
+    # bkd "I didn't hear any murmurs or ravings, yet I was on the brink of losing control... Dangerous, my eyes have never fallen on it again."
+    bkd "Tôi không nghe thấy bất kỳ tiếng xì xào hay la hét nào, nhưng tôi đang trên bờ vực mất kiểm soát ... Nguy hiểm, mắt tôi sẽ không bao giờ nhìn vào nó nữa."
 
 # game/places/library/books_r.rpy:46
 translate vietnamese room_library_books_r_kain_6692147e:
 
-    # bkd "The third one was.. hard to define. It was black and gray, filled with mysterious engravings. It looked as if space and time were grafted to it. It didn't give me any extraordinary reaction. Instead, I felt as if it wasn't there.."
-    bkd "Cái thứ ba là .. khó xác định. Nó có màu đen và xám, chứa đầy những hình khắc bí ẩn. Nó trông như thể không gian và thời gian được ghép vào nó. Nó không mang lại cho tôi bất kỳ phản ứng phi thường nào. Thay vào đó, tôi cảm thấy như thể nó không có ở đó.."
+    # bkd "The third one was... hard to define. It was black and gray, filled with mysterious engravings. It looked as if space and time were grafted to it. It didn't give me any extraordinary reaction. Instead, I felt as if it wasn't there..."
+    bkd "Cái thứ ba là ... khó xác định. Nó có màu đen và xám, chứa đầy những hình khắc bí ẩn. Nó trông như thể không gian và thời gian được ghép vào nó. Nó không mang lại cho tôi bất kỳ phản ứng phi thường nào. Thay vào đó, tôi cảm thấy như thể nó không có ở đó..."
 
 # game/places/library/books_r.rpy:47
 translate vietnamese room_library_books_r_kain_1d86f90d:
 
-    # bkd "On a second look, I noticed something that made my blood freeze. This pillar, it was.. it was composed of.. worms.. The engravings were actually made from maggots…"
-    bkd "Nhìn lại lần thứ hai, tôi nhận ra thứ gì đó khiến máu tôi đông lại. Cái cột này, nó là .. nó được cấu tạo từ .. giun .. Các hình khắc thực sự được làm từ giòi…"
+    # bkd "On a second look, I noticed something that made my blood freeze. This pillar, it was... it was composed of... worms... The engravings were actually made from maggots…"
+    bkd "Nhìn lại lần thứ hai, tôi nhận ra thứ gì đó khiến máu tôi đông lại. Cái cột này, nó là ... nó được cấu tạo từ ... giun ... Các hình khắc thực sự được làm từ giòi…"
 
 # game/places/library/books_r.rpy:48
 translate vietnamese room_library_books_r_kain_5eedd9fa:
@@ -159,8 +159,8 @@ translate vietnamese room_library_books_r_kain_5eedd9fa:
 # game/places/library/books_r.rpy:49
 translate vietnamese room_library_books_r_kain_3b9f4084:
 
-    # bkd "I quickly moved my gaze to the fourth pillar. The space around it was terribly distorted, making it hard to discern its actual appearance. Perhaps it is for the best.."
-    bkd "Tôi nhanh chóng di chuyển ánh mắt của mình đến cây cột thứ tư. Không gian xung quanh nó bị bóp méo một cách đáng sợ, khó mà phân biệt được diện mạo thực của nó. Có lẽ nó là tốt nhất.."
+    # bkd "I quickly moved my gaze to the fourth pillar. The space around it was terribly distorted, making it hard to discern its actual appearance. Perhaps it is for the best..."
+    bkd "Tôi nhanh chóng di chuyển ánh mắt của mình đến cây cột thứ tư. Không gian xung quanh nó bị bóp méo một cách đáng sợ, khó mà phân biệt được diện mạo thực của nó. Có lẽ nó là tốt nhất..."
 
 # game/places/library/books_r.rpy:50
 translate vietnamese room_library_books_r_kain_49eda752:
@@ -189,8 +189,8 @@ translate vietnamese room_library_books_r_kain_01eb0075:
 # game/places/library/books_r.rpy:54
 translate vietnamese room_library_books_r_kain_bee55c01:
 
-    # bkd "It seems.. I was too slow...."
-    bkd "Có vẻ như .. tôi đã quá chậm...."
+    # bkd "It seems... I was too slow..."
+    bkd "Có vẻ như ... tôi đã quá chậm..."
 
 # game/places/library/books_r.rpy:59
 translate vietnamese room_library_books_r_vampires_e2fba8f6:
@@ -214,7 +214,7 @@ translate vietnamese room_library_books_r_vampires_90844a92:
 translate vietnamese room_library_books_r_vampires_b304dce6:
 
     # bcv "Of course, some were born with these characteristics. Though they often appear more or less human, they would never consider themselves as such. In fact, vampires have an inborn pride, arrogance, and disgust for other races."
-    bcv "Tất nhiên, một số được sinh ra với những đặc điểm này. Mặc dù họ thường trông giống con người hơn hoặc ít hơn, họ sẽ không bao giờ coi mình là người như vậy. Trên thực tế, ma cà rồng bẩm sinh có lòng kiêu hãnh, kiêu ngạo và chán ghét các chủng tộc khác.."
+    bcv "Tất nhiên, một số được sinh ra với những đặc điểm này. Mặc dù họ thường trông giống con người hơn hoặc ít hơn, họ sẽ không bao giờ coi mình là người như vậy. Trên thực tế, ma cà rồng bẩm sinh có lòng kiêu hãnh, kiêu ngạo và chán ghét các chủng tộc khác..."
 
 # game/places/library/books_r.rpy:63
 translate vietnamese room_library_books_r_vampires_883072ef:

@@ -3,8 +3,8 @@
 # game/characters/player/ev_1.rpy:4
 translate vietnamese main_1_3fc06b79:
 
-    # "You feel yourself floating weightlessly for a long time.. Suddenly you hear someone calling your name from somewhere behind you. You open your eyes, but you are greeted only with darkness."
-    "Bạn cảm thấy mình lơ lửng không trọng lực trong một thời gian dài.. Đột nhiên bạn nghe thấy ai đó gọi tên bạn từ đâu đó phía sau bạn. Bạn mở mắt ra, nhưng bạn chỉ được chào đón bằng bóng tối."
+    # "You feel yourself floating weightlessly for a long time... Suddenly you hear someone calling your name from somewhere behind you. You open your eyes, but you are greeted only with darkness."
+    "Bạn cảm thấy mình lơ lửng không trọng lực trong một thời gian dài... Đột nhiên bạn nghe thấy ai đó gọi tên bạn từ đâu đó phía sau bạn. Bạn mở mắt ra, nhưng bạn chỉ được chào đón bằng bóng tối."
 
 # game/characters/player/ev_1.rpy:5
 translate vietnamese main_1_6af8758a:
@@ -27,8 +27,8 @@ translate vietnamese main_1_53aeecf5:
 # game/characters/player/ev_1.rpy:8
 translate vietnamese main_1_c26cdfa9:
 
-    # "This voice sounds familiar. You're sure you have heard it before.."
-    "Giọng này nghe quen quen. Bạn chắc chắn là đã nghe nó trước đây.."
+    # "This voice sounds familiar. You're sure you have heard it before..."
+    "Giọng này nghe quen quen. Bạn chắc chắn là đã nghe nó trước đây..."
 
 # game/characters/player/ev_1.rpy:14
 translate vietnamese main_1_4664a170:
@@ -93,14 +93,14 @@ translate vietnamese main_1_1_161f0404:
 # game/characters/player/ev_1.rpy:40
 translate vietnamese main_1_1_63ba18e1:
 
-    # lexi "Mmm.."
-    lexi "Mmm.."
+    # lexi "Mmm..."
+    lexi "Mmm..."
 
 # game/characters/player/ev_1.rpy:42
 translate vietnamese main_1_1_547b7cf8:
 
-    # lexi "Yeees.. More.."
-    lexi "Đúng rồiii.. nữa đi.."
+    # lexi "Yeees... More..."
+    lexi "Đúng rồiii... nữa đi..."
 
 # game/characters/player/ev_1.rpy:43
 translate vietnamese main_1_1_9350e5e1:
@@ -159,8 +159,8 @@ translate vietnamese main_1_1_f137d1ac_1:
 # game/characters/player/ev_1.rpy:68
 translate vietnamese main_1_2_251ccb3e:
 
-    # th "What was that dream? It felt so real.."
-    th "Giấc mơ đó là gì? Nó cảm thấy rất thật.."
+    # th "What was that dream? It felt so real..."
+    th "Giấc mơ đó là gì? Nó cảm thấy rất thật..."
 
 translate vietnamese strings:
 

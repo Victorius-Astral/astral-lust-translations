@@ -15,14 +15,14 @@ translate vietnamese savenia_1_df483ecd:
 # game/characters/savenia/ev_1.rpy:9
 translate vietnamese savenia_1_5f9b772e:
 
-    # "...."
-    "...."
+    # "..."
+    "..."
 
 # game/characters/savenia/ev_1.rpy:12
 translate vietnamese savenia_1_64395719:
 
-    # th "She is breathing.."
-    th "Cô ấy vẫn còn thở.."
+    # th "She is breathing..."
+    th "Cô ấy vẫn còn thở..."
 
 # game/characters/savenia/ev_1.rpy:15
 translate vietnamese savenia_1_4ab5bcae:
@@ -33,14 +33,14 @@ translate vietnamese savenia_1_4ab5bcae:
 # game/characters/savenia/ev_1.rpy:16
 translate vietnamese savenia_1_ade2bace:
 
-    # th "I should take her with me, she seems.. useful."
-    th "Mình nên đưa cô ấy đi cùng, cô ấy có vẻ .. hữu ích."
+    # th "I should take her with me, she seems... useful."
+    th "Mình nên đưa cô ấy đi cùng, cô ấy có vẻ ... hữu ích."
 
 # game/characters/savenia/ev_1.rpy:19
 translate vietnamese savenia_1_91a0c9b2:
 
-    # me "Wait.. Why the fuck, am I taking her with me just like that?"
-    me "Chờ đã.. Thế đéo nào mình lại đem cô ấy theo mình như này?"
+    # me "Wait... Why the fuck, am I taking her with me just like that?"
+    me "Chờ đã... Thế đéo nào mình lại đem cô ấy theo mình như này?"
 
 # game/characters/savenia/ev_1.rpy:20
 translate vietnamese savenia_1_20c718a7:
@@ -51,8 +51,8 @@ translate vietnamese savenia_1_20c718a7:
 # game/characters/savenia/ev_1.rpy:21
 translate vietnamese savenia_1_6f328631:
 
-    # th "She seems useful though.."
-    th "Nhưng mà cô ấy có vẻ hữu ích.."
+    # th "She seems useful though..."
+    th "Nhưng mà cô ấy có vẻ hữu ích..."
 
 # game/characters/savenia/ev_1.rpy:22
 translate vietnamese savenia_1_ca81caec:
@@ -63,14 +63,14 @@ translate vietnamese savenia_1_ca81caec:
 # game/characters/savenia/ev_1.rpy:23
 translate vietnamese savenia_1_72793111:
 
-    # th "Something about me is very weird right now.."
-    th "Có điều gì đó về mình rất kỳ lạ vào lúc này.."
+    # th "Something about me is very weird right now..."
+    th "Có điều gì đó về mình rất kỳ lạ vào lúc này..."
 
 # game/characters/savenia/ev_1.rpy:26
 translate vietnamese savenia_1_f7572fa5:
 
-    # me "Wait.. Is this His doing?"
-    me "Chờ đã.."
+    # me "Wait... Is this His doing?"
+    me "Chờ đã..."
 
 # game/characters/savenia/ev_1.rpy:27
 translate vietnamese savenia_1_e92e9664:
@@ -81,14 +81,14 @@ translate vietnamese savenia_1_e92e9664:
 # game/characters/savenia/ev_1.rpy:30
 translate vietnamese savenia_1_ead3b960:
 
-    # me "And I brought her home in the end.."
-    me "Và cuối cùng mình đã đưa cô ấy về nhà.."
+    # me "And I brought her home in the end..."
+    me "Và cuối cùng mình đã đưa cô ấy về nhà..."
 
 # game/characters/savenia/ev_1.rpy:33
 translate vietnamese savenia_1_e2db0e8f:
 
-    # th "She looks alright.. I don't see any obvious injuries or blood."
-    th "Cô ấy trông không bị sao hết.. mình không thấy vết thương hay vết máu rõ ràng nào."
+    # th "She looks alright... I don't see any obvious injuries or blood."
+    th "Cô ấy trông không bị sao hết... mình không thấy vết thương hay vết máu rõ ràng nào."
 
 # game/characters/savenia/ev_1.rpy:36
 translate vietnamese savenia_1_01f70a7e:
@@ -159,8 +159,8 @@ translate vietnamese savenia_1_bfd605b6:
 # game/characters/savenia/ev_1.rpy:57
 translate vietnamese savenia_1_e7ab5908:
 
-    # u_savenia "You have somehow found this place.."
-    u_savenia "Bằng cách nào đó anh đã tìm thấy nơi này.."
+    # u_savenia "You have somehow found this place..."
+    u_savenia "Bằng cách nào đó anh đã tìm thấy nơi này..."
 
 # game/characters/savenia/ev_1.rpy:58
 translate vietnamese savenia_1_2f90ffb6:
@@ -189,8 +189,8 @@ translate vietnamese savenia_1_6649141a:
 # game/characters/savenia/ev_1.rpy:64
 translate vietnamese savenia_1_b52d093b:
 
-    # u_savenia "I have never heard of it.."
-    u_savenia "Tôi chưa bao giờ nghe về nó.."
+    # u_savenia "I have never heard of it..."
+    u_savenia "Tôi chưa bao giờ nghe về nó..."
 
 # game/characters/savenia/ev_1.rpy:65
 translate vietnamese savenia_1_de61d85d:
@@ -207,8 +207,8 @@ translate vietnamese savenia_1_bd1cd138:
 # game/characters/savenia/ev_1.rpy:69
 translate vietnamese savenia_1_138102d9:
 
-    # me "Yeah.. Got it.."
-    me "À.. Rõ rồi.."
+    # me "Yeah... Got it..."
+    me "À... Rõ rồi..."
 
 # game/characters/savenia/ev_1.rpy:70
 translate vietnamese savenia_1_df28ca97:
@@ -243,8 +243,8 @@ translate vietnamese savenia_1_8841baf4:
 # game/characters/savenia/ev_1.rpy:79
 translate vietnamese savenia_1_bda12350:
 
-    # savenia "Alright.."
-    savenia "Được rồi.."
+    # savenia "Alright..."
+    savenia "Được rồi..."
 
 # game/characters/savenia/ev_1.rpy:82
 translate vietnamese savenia_1_1ee7c058:
@@ -291,8 +291,8 @@ translate vietnamese savenia_1_f269827f:
 # game/characters/savenia/ev_1.rpy:95
 translate vietnamese savenia_1_0ed43306:
 
-    # me "How stubborn.."
-    me "Thật cứng đầu.."
+    # me "How stubborn..."
+    me "Thật cứng đầu..."
 
 # game/characters/savenia/ev_1.rpy:98
 translate vietnamese savenia_1_4419af62:
@@ -303,8 +303,8 @@ translate vietnamese savenia_1_4419af62:
 # game/characters/savenia/ev_1.rpy:99
 translate vietnamese savenia_1_9b54969b:
 
-    # th "I still don't know why I've brought her here.. She seems dangerous.."
-    th "Mình vẫn không biết tại sao mình lại đưa cậu ấy đến đây.. Cậu ấy có vẻ nguy hiểm.."
+    # th "I still don't know why I've brought her here... She seems dangerous..."
+    th "Mình vẫn không biết tại sao mình lại đưa cậu ấy đến đây... Cậu ấy có vẻ nguy hiểm..."
 
 # game/characters/savenia/ev_1.rpy:102
 translate vietnamese savenia_1_6b10e8bf:
@@ -315,8 +315,8 @@ translate vietnamese savenia_1_6b10e8bf:
 # game/characters/savenia/ev_1.rpy:103
 translate vietnamese savenia_1_8418747a:
 
-    # me "Fine.."
-    me "Được thôi.."
+    # me "Fine..."
+    me "Được thôi..."
 
 # game/characters/savenia/ev_1.rpy:104
 translate vietnamese savenia_1_0499f63f:
@@ -358,14 +358,14 @@ translate vietnamese savenia_1_53d66eac:
 # game/characters/savenia/ev_1.rpy:19
 translate vietnamese savenia_1_3372340a:
 
-    # me "Wait.. Why the fuck am I taking her with me just like that?"
-    me "Wait.. Why the fuck am I taking her with me just like that?"
+    # me "Wait... Why the fuck am I taking her with me just like that?"
+    me "Wait... Why the fuck am I taking her with me just like that?"
 
 # game/characters/savenia/ev_1.rpy:21
 translate vietnamese savenia_1_8780c390:
 
-    # th "She seems useful, though.."
-    th "She seems useful, though.."
+    # th "She seems useful, though..."
+    th "She seems useful, though..."
 
 # game/characters/savenia/ev_1.rpy:51
 translate vietnamese savenia_1_2d280c26:

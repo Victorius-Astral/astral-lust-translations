@@ -21,8 +21,8 @@ translate vietnamese main_3_23c718ed:
 # game/characters/player/ev_3.rpy:10
 translate vietnamese main_3_8de9100f:
 
-    # th "This dream again! It feels so real.."
-    th "Lại Giấc mơ này! Cảm giác thật quá.."
+    # th "This dream again! It feels so real..."
+    th "Lại Giấc mơ này! Cảm giác thật quá..."
 
 # game/characters/player/ev_3.rpy:11
 translate vietnamese main_3_99b949dd_1:
@@ -99,8 +99,8 @@ translate vietnamese main_3_menu_9205a132:
 # game/characters/player/ev_3.rpy:39
 translate vietnamese main_3_menu_263c0b93:
 
-    # th "What the.. just knowing his name would kill me? How is that possible?"
-    th "Cái gì.. chỉ cần biết tên của hắn ta sẽ giết mình sao? Hư cấu vậy?"
+    # th "What the... just knowing his name would kill me? How is that possible?"
+    th "Cái gì... chỉ cần biết tên của hắn ta sẽ giết mình sao? Hư cấu vậy?"
 
 # game/characters/player/ev_3.rpy:45
 translate vietnamese main_3_menu_9f805866:

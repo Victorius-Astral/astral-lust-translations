@@ -45,8 +45,8 @@ translate vietnamese exp_bandits_rape_win_57786f8c:
 # game/events/explore/bandits_rape.rpy:49
 translate vietnamese exp_bandits_rape_win_80aabd2c:
 
-    # th "I think it was pretty obvious.."
-    th "Mình nghĩ nó khá rõ ràng.."
+    # th "I think it was pretty obvious..."
+    th "Mình nghĩ nó khá rõ ràng..."
 
 # game/events/explore/bandits_rape.rpy:53
 translate vietnamese exp_bandits_rape_win_941e1db4:
@@ -81,8 +81,8 @@ translate vietnamese exp_bandits_rape_win_6200fd5b:
 # game/events/explore/bandits_rape.rpy:69
 translate vietnamese exp_bandits_rape_win_dd9636c7:
 
-    # me "Ahh.."
-    me "Ahh.."
+    # me "Ahh..."
+    me "Ahh..."
 
 # game/events/explore/bandits_rape.rpy:70
 translate vietnamese exp_bandits_rape_win_c3984a79:
@@ -189,8 +189,8 @@ translate vietnamese exp_bandits_rape_win_1b5befae:
 # game/events/explore/bandits_rape.rpy:111
 translate vietnamese exp_bandits_rape_win_dd9636c7_1:
 
-    # me "Ahh.."
-    me "Ahh.."
+    # me "Ahh..."
+    me "Ahh..."
 
 # game/events/explore/bandits_rape.rpy:112
 translate vietnamese exp_bandits_rape_win_055086f2:

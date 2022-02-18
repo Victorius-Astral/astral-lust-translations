@@ -39,8 +39,8 @@ translate vietnamese main_4_b7374f55:
 # game/characters/player/ev_4.rpy:26
 translate vietnamese main_4_d69e2925:
 
-    # th "It's this library again.."
-    th "Lại là cái thư viện này.."
+    # th "It's this library again..."
+    th "Lại là cái thư viện này..."
 
 # game/characters/player/ev_4.rpy:46
 translate vietnamese main_4_1_1df1777a:
@@ -87,8 +87,8 @@ translate vietnamese main_4_1_00a37208:
 # game/characters/player/ev_4.rpy:57
 translate vietnamese main_4_1_d613c423:
 
-    # me "I don't think I understand.."
-    me "Tôi không nghĩ là tôi hiểu.."
+    # me "I don't think I understand..."
+    me "Tôi không nghĩ là tôi hiểu..."
 
 # game/characters/player/ev_4.rpy:58
 translate vietnamese main_4_1_dd8e2300:
@@ -171,8 +171,8 @@ translate vietnamese main_4_1_f6c394c0:
 # game/characters/player/ev_4.rpy:75
 translate vietnamese main_4_1_c735a1d0:
 
-    # th "Oh, so that's what she meant. Well, she is direct.."
-    th "Oh, vì vậy đó là những gì cô ấy muốn nói. Đù, cô gái này thẳng tính vãi.."
+    # th "Oh, so that's what she meant. Well, she is direct..."
+    th "Oh, vì vậy đó là những gì cô ấy muốn nói. Đù, cô gái này thẳng tính vãi..."
 
 # game/characters/player/ev_4.rpy:83
 translate vietnamese main_4_menu_6f7b3ca9:
@@ -267,8 +267,8 @@ translate vietnamese main_4_menu_314086b3:
 # game/characters/player/ev_4.rpy:100
 translate vietnamese main_4_menu_5143f82f:
 
-    # th "And here I thought that she seemed pretty normal.."
-    th "Và ở đây mình nghĩ rằng cô ấy có vẻ khá bình thường đấy.."
+    # th "And here I thought that she seemed pretty normal..."
+    th "Và ở đây mình nghĩ rằng cô ấy có vẻ khá bình thường đấy..."
 
 # game/characters/player/ev_4.rpy:101
 translate vietnamese main_4_menu_ba05c98e:
@@ -286,7 +286,7 @@ translate vietnamese main_4_menu_811cd256:
 translate vietnamese main_4_menu_af192ca9:
 
     # kiara "There are things beyond your understanding in this world, the human mind can't possibly grasp or imagine the power and means of Gods."
-    kiara "Trên thế giới này có những thứ ngoài tầm hiểu biết của anh, trí óc con người không thể nắm bắt hay tưởng tượng được sức mạnh và ý nghĩ của Thần.."
+    kiara "Trên thế giới này có những thứ ngoài tầm hiểu biết của anh, trí óc con người không thể nắm bắt hay tưởng tượng được sức mạnh và ý nghĩ của Thần..."
 
 # game/characters/player/ev_4.rpy:105
 translate vietnamese main_4_menu_8dcf3a2d:
@@ -489,8 +489,8 @@ translate vietnamese main_4_menu_48d0efdf:
 # game/characters/player/ev_4.rpy:161
 translate vietnamese main_4_menu_f4360272:
 
-    # kiara "I think you played too many games.."
-    kiara "Tôi nghĩ là anh chơi Black Souls quá 180 phút rồi.."
+    # kiara "I think you played too many games..."
+    kiara "Tôi nghĩ là anh chơi Black Souls quá 180 phút rồi..."
 
 # game/characters/player/ev_4.rpy:162
 translate vietnamese main_4_menu_3820771a:
@@ -519,8 +519,8 @@ translate vietnamese main_4_menu_897c3f32:
 # game/characters/player/ev_4.rpy:172
 translate vietnamese main_4_menu_365c7ea3:
 
-    # th "You look like you're in your twenties at most.."
-    th "Trông khác gì 9x không.."
+    # th "You look like you're in your twenties at most..."
+    th "Trông khác gì 9x không..."
 
 # game/characters/player/ev_4.rpy:173
 translate vietnamese main_4_menu_35bd5ae7:
@@ -555,8 +555,8 @@ translate vietnamese main_4_menu_964d6e62:
 # game/characters/player/ev_4.rpy:184
 translate vietnamese main_4_menu_62034552:
 
-    # me "Wha.."
-    me "Cá.."
+    # me "Wha..."
+    me "Cá..."
 
 # game/characters/player/ev_4.rpy:186
 translate vietnamese main_4_menu_9eaeb4f7:
@@ -622,7 +622,7 @@ translate vietnamese main_4_sex_15d69067:
 translate vietnamese main_4_sex_883b8895:
 
     # kiara "What are you waiting for, just come and fuck me already."
-    kiara "Còn chần chừ gì nữa, vào việc luôn đi.."
+    kiara "Còn chần chừ gì nữa, vào việc luôn đi..."
 
 # game/characters/player/ev_4.rpy:209
 translate vietnamese main_4_sex_2390cd0f:
@@ -639,8 +639,8 @@ translate vietnamese main_4_sex_eafba839:
 # game/characters/player/ev_4.rpy:212
 translate vietnamese main_4_sex_a1387e2a:
 
-    # kiara "Yes.. Harder! Fuck me harder!"
-    kiara "Đúng rồi.. Mạnh hơn! Địt tôi mạnh hơn đi!"
+    # kiara "Yes... Harder! Fuck me harder!"
+    kiara "Đúng rồi... Mạnh hơn! Địt tôi mạnh hơn đi!"
 
 # game/characters/player/ev_4.rpy:213
 translate vietnamese main_4_sex_706cd899:
@@ -657,8 +657,8 @@ translate vietnamese main_4_menu1_6fa12dc9:
 # game/characters/player/ev_4.rpy:221
 translate vietnamese main_4_menu1_a1387e2a:
 
-    # kiara "Yes.. Harder! Fuck me harder!"
-    kiara "Đúng rồi.. Mạnh hơn! Địt tôi mạnh hơn đi!"
+    # kiara "Yes... Harder! Fuck me harder!"
+    kiara "Đúng rồi... Mạnh hơn! Địt tôi mạnh hơn đi!"
 
 # game/characters/player/ev_4.rpy:222
 translate vietnamese main_4_menu1_706cd899:
@@ -675,8 +675,8 @@ translate vietnamese main_4_menu1_6fa12dc9_1:
 # game/characters/player/ev_4.rpy:230
 translate vietnamese main_4_menu1_a1387e2a_1:
 
-    # kiara "Yes.. Harder! Fuck me harder!"
-    kiara "Đúng rồi.. Mạnh hơn! Địt tôi mạnh hơn đi!"
+    # kiara "Yes... Harder! Fuck me harder!"
+    kiara "Đúng rồi... Mạnh hơn! Địt tôi mạnh hơn đi!"
 
 # game/characters/player/ev_4.rpy:231
 translate vietnamese main_4_menu1_706cd899_1:
@@ -693,8 +693,8 @@ translate vietnamese main_4_menu1_6fa12dc9_2:
 # game/characters/player/ev_4.rpy:240
 translate vietnamese main_4_menu1_a1387e2a_2:
 
-    # kiara "Yes.. Harder! Fuck me harder!"
-    kiara "Đúng rồi.. Mạnh hơn! Địt tôi mạnh hơn đi!"
+    # kiara "Yes... Harder! Fuck me harder!"
+    kiara "Đúng rồi... Mạnh hơn! Địt tôi mạnh hơn đi!"
 
 # game/characters/player/ev_4.rpy:241
 translate vietnamese main_4_menu1_706cd899_2:

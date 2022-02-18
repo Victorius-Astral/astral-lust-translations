@@ -81,7 +81,7 @@ translate vietnamese grace_bath_menu1_8d7d24e7:
 # game/characters/grace/bath.rpy:58
 translate vietnamese grace_bath_menu1_38684c7d:
 
-    # me "No.."
+    # me "No..."
     me "Không..."
 
 # game/characters/grace/bath.rpy:61
@@ -111,7 +111,7 @@ translate vietnamese grace_bath_menu1_5cdebf03:
 # game/characters/grace/bath.rpy:71
 translate vietnamese grace_bath_menu1_6042568a:
 
-    # grace "Wait.. Are you eyeing me?!"
+    # grace "Wait... Are you eyeing me?!"
     grace "Chờ đã... Anh đang tia em sao?!"
 
 # game/characters/grace/bath.rpy:72
@@ -129,7 +129,7 @@ translate vietnamese grace_bath_menu1_b9a81edd:
 # game/characters/grace/bath.rpy:78
 translate vietnamese grace_bath_menu1_4f32ddf0:
 
-    # grace "It's not your concern.."
+    # grace "It's not your concern..."
     grace "Đó không phải là chuyện của anh..."
 
 # game/characters/grace/bath.rpy:79
@@ -225,7 +225,7 @@ translate vietnamese grace_bath_mass_b342731a:
 # game/characters/grace/bath.rpy:128
 translate vietnamese grace_bath_mass_cea3d9ce:
 
-    # grace "Mmm.."
+    # grace "Mmm..."
     grace "Mmm..."
 
 # game/characters/grace/bath.rpy:129
@@ -255,7 +255,7 @@ translate vietnamese grace_bath_mass_e4b58587:
 # game/characters/grace/bath.rpy:133
 translate vietnamese grace_bath_mass_5ea4214c:
 
-    # me "My.. heart, it's very happy to see you glad."
+    # me "My... heart, it's very happy to see you glad."
     me "Trái tim... trái tim của anh, rất hạnh phúc khi nhìn thấy em vui."
 
 # game/characters/grace/bath.rpy:141
@@ -267,7 +267,7 @@ translate vietnamese grace_bath_mass_928ca7ef:
 # game/characters/grace/bath.rpy:142
 translate vietnamese grace_bath_mass_a635cdda:
 
-    # th "Yeah, my heart.."
+    # th "Yeah, my heart..."
     th "Yeah, tym..."
 
 # game/characters/grace/bath.rpy:143
@@ -363,7 +363,7 @@ translate vietnamese grace_bath_mass_528b59f0:
 # game/characters/grace/bath.rpy:186
 translate vietnamese grace_bath_mass_b576210e:
 
-    # grace "I will.."
+    # grace "I will..."
     grace "Em sẽ..."
 
 # game/characters/grace/bath.rpy:189
@@ -405,7 +405,7 @@ translate vietnamese grace_bath_mass_673d1d9a:
 # game/characters/grace/bath.rpy:203
 translate vietnamese grace_bath_mass_6064d1e3:
 
-    # me "Nah.."
+    # me "Nah..."
     me "Thôi..."
 
 # game/characters/grace/bath.rpy:206
@@ -447,7 +447,7 @@ translate vietnamese grace_bath_mass_0a0540f2:
 # game/characters/grace/bath.rpy:217
 translate vietnamese grace_bath_mass_a6effc0c:
 
-    # me "Ahh.. I got to dry myself."
+    # me "Ahh... I got to dry myself."
     me "Ahh... mình phải lau khô người rồi."
 
 translate vietnamese strings:

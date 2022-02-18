@@ -27,8 +27,8 @@ translate vietnamese d_Astral_Lust_2_96b6ea8f:
 # game/events/dreams/astral_lust.rpy:15
 translate vietnamese d_Astral_Lust_2_57d713cf:
 
-    # me "Angel.."
-    me "Thiên thần.."
+    # me "Angel..."
+    me "Thiên thần..."
 
 # game/events/dreams/astral_lust.rpy:17
 translate vietnamese d_Astral_Lust_2_bc06cfc0:

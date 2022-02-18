@@ -117,8 +117,8 @@ translate vietnamese speak_savenia_question1_7830d4bf:
 # game/characters/savenia/speak.rpy:77
 translate vietnamese speak_savenia_question1_aeee127a:
 
-    # savenia "Yeah, some things out there.. can't be taken on.."
-    savenia "Yeah, một số thứ ngoài kia.. không thể tiếp tục.."
+    # savenia "Yeah, some things out there... can't be taken on..."
+    savenia "Yeah, một số thứ ngoài kia... không thể tiếp tục..."
 
 # game/characters/savenia/speak.rpy:78
 translate vietnamese speak_savenia_question1_6838b18c:

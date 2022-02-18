@@ -111,8 +111,8 @@ translate vietnamese lexi_11_8c7dba91:
 # game/characters/lexi/ev_11.rpy:39
 translate vietnamese lexi_11_325c2d32:
 
-    # lexi "How impolite.."
-    lexi "Thật bất lịch sự.."
+    # lexi "How impolite..."
+    lexi "Thật bất lịch sự..."
 
 # game/characters/lexi/ev_11.rpy:40
 translate vietnamese lexi_11_fc4e7a89:
@@ -153,8 +153,8 @@ translate vietnamese lexi_11_be1c5ae4:
 # game/characters/lexi/ev_11.rpy:54
 translate vietnamese lexi_11_639fa4e2:
 
-    # me "Ahh.. Fuck, I'm so tired."
-    me "Ahh.. Đạ mấu, mình mệt quá."
+    # me "Ahh... Fuck, I'm so tired."
+    me "Ahh... Đạ mấu, mình mệt quá."
 
 # game/characters/lexi/ev_11.rpy:55
 translate vietnamese lexi_11_d0bb2346:
@@ -165,8 +165,8 @@ translate vietnamese lexi_11_d0bb2346:
 # game/characters/lexi/ev_11.rpy:58
 translate vietnamese lexi_11_664ad724:
 
-    # me "Yeah, short nap.."
-    me "Yeah, chợp mắt.."
+    # me "Yeah, short nap..."
+    me "Yeah, chợp mắt..."
 
 # game/characters/lexi/ev_11.rpy:59
 translate vietnamese lexi_11_c8dd6ec4:
@@ -201,8 +201,8 @@ translate vietnamese lexi_11_e97678e5:
 # game/characters/lexi/ev_11.rpy:71
 translate vietnamese lexi_11_90bc43fd:
 
-    # th "Anyway.."
-    th "Dù sao thì.."
+    # th "Anyway..."
+    th "Dù sao thì..."
 
 # game/characters/lexi/ev_11.rpy:72
 translate vietnamese lexi_11_c8dd6ec4_1:
@@ -213,8 +213,8 @@ translate vietnamese lexi_11_c8dd6ec4_1:
 # game/characters/lexi/ev_11.rpy:73
 translate vietnamese lexi_11_f5878ba6:
 
-    # lexi "Ahh.. [me].."
-    lexi "Ahh.. [me].."
+    # lexi "Ahh... [me]..."
+    lexi "Ahh... [me]..."
 
 # game/characters/lexi/ev_11.rpy:76
 translate vietnamese lexi_11_dcc1d903:
@@ -309,14 +309,14 @@ translate vietnamese lexi_11_part2_762abff7:
 # game/characters/lexi/ev_11.rpy:106
 translate vietnamese lexi_11_part2_6d591b0c:
 
-    # lexi "When you'd first awakened here, my first thought was to kill you.."
-    lexi "Khi anh lần đầu tiên tỉnh dậy ở đây, ý nghĩ đầu tiên của em là giết anh.."
+    # lexi "When you'd first awakened here, my first thought was to kill you..."
+    lexi "Khi anh lần đầu tiên tỉnh dậy ở đây, ý nghĩ đầu tiên của em là giết anh..."
 
 # game/characters/lexi/ev_11.rpy:107
 translate vietnamese lexi_11_part2_c5d22fd6:
 
-    # th "Then it's good she has changed her mind.. Would I still resurrect in the hotel if she did it?"
-    th "Vậy thì thật tốt là em ấy đã thay đổi quyết định.. Liệu mình có còn sống lại trong khách sạn nếu cô ấy làm điều đó không?"
+    # th "Then it's good she has changed her mind... Would I still resurrect in the hotel if she did it?"
+    th "Vậy thì thật tốt là em ấy đã thay đổi quyết định... Liệu mình có còn sống lại trong khách sạn nếu cô ấy làm điều đó không?"
 
 # game/characters/lexi/ev_11.rpy:108
 translate vietnamese lexi_11_part2_d299f719:
@@ -375,14 +375,14 @@ translate vietnamese lexi_11_part2_02eb3584:
 # game/characters/lexi/ev_11.rpy:125
 translate vietnamese lexi_11_part2_4540f36b:
 
-    # me "Haha.."
-    me "Haha.."
+    # me "Haha..."
+    me "Haha..."
 
 # game/characters/lexi/ev_11.rpy:128
 translate vietnamese lexi_11_part2_b5ae081b:
 
-    # lexi "By the way, your pockets seem to be bottomless.."
-    lexi "Nhân tiện thì, túi của anh dường như không đáy vậy.."
+    # lexi "By the way, your pockets seem to be bottomless..."
+    lexi "Nhân tiện thì, túi của anh dường như không đáy vậy..."
 
 # game/characters/lexi/ev_11.rpy:129
 translate vietnamese lexi_11_part2_74457854:
@@ -435,8 +435,8 @@ translate vietnamese lexi_11_part3_72300fdd:
 # game/characters/lexi/ev_11.rpy:159
 translate vietnamese lexi_11_part3_d5c53657:
 
-    # lexi "We can die anytime, so, umm.."
-    lexi "Chúng ta có thể chết bất cứ lúc nào, nên, umm.."
+    # lexi "We can die anytime, so, umm..."
+    lexi "Chúng ta có thể chết bất cứ lúc nào, nên, umm..."
 
 # game/characters/lexi/ev_11.rpy:160
 translate vietnamese lexi_11_part3_b23c7a17:
@@ -447,8 +447,8 @@ translate vietnamese lexi_11_part3_b23c7a17:
 # game/characters/lexi/ev_11.rpy:161
 translate vietnamese lexi_11_part3_14b508f4:
 
-    # lexi "It doesn't change the fact, it's awkward to ask.."
-    lexi "Nó không thay đổi gì hết, thật khó xử khi hỏi.."
+    # lexi "It doesn't change the fact, it's awkward to ask..."
+    lexi "Nó không thay đổi gì hết, thật khó xử khi hỏi..."
 
 # game/characters/lexi/ev_11.rpy:162
 translate vietnamese lexi_11_part3_3820771a:
@@ -477,8 +477,8 @@ translate vietnamese lexi_11_part3_0cd46d6e:
 # game/characters/lexi/ev_11.rpy:180
 translate vietnamese lexi_11_part3_1a244413:
 
-    # th "[lexi] is a virgin.. and she wants me to be her first.."
-    th "[lexi] còn zin.. và cô ấy muốn mình là người đầu tiên.."
+    # th "[lexi] is a virgin... and she wants me to be her first..."
+    th "[lexi] còn zin... và cô ấy muốn mình là người đầu tiên..."
 
 # game/characters/lexi/ev_11.rpy:183
 translate vietnamese lexi_11_part3_aaeb5292:
@@ -507,8 +507,8 @@ translate vietnamese lexi_11_part3_18960e13:
 # game/characters/lexi/ev_11.rpy:191
 translate vietnamese lexi_11_part3_f3d8c012:
 
-    # lexi "Yeah, but let's not talk about my [lex_min!t] anymore."
-    lexi "Yeah, nhưng chúng ta đừng nói về [lex_min!t] của em nữa."
+    # lexi "Yeah, but let's not talk about my em anymore."
+    lexi "Yeah, nhưng chúng ta đừng nói về em của em nữa."
 
 # game/characters/lexi/ev_11.rpy:192
 translate vietnamese lexi_11_part3_f5ed6522:
@@ -603,14 +603,14 @@ translate vietnamese lexi_11_part3_064b644c:
 # game/characters/lexi/ev_11.rpy:226
 translate vietnamese lexi_11_part3_beeb7065:
 
-    # lexi "You can move faster.."
-    lexi "Anh có thể di chuyển nhanh hơn.."
+    # lexi "You can move faster..."
+    lexi "Anh có thể di chuyển nhanh hơn..."
 
 # game/characters/lexi/ev_11.rpy:234
 translate vietnamese lexi_11_part3_b273d15b:
 
-    # me "Ah.."
-    me "Ah.."
+    # me "Ah..."
+    me "Ah..."
 
 # game/characters/lexi/ev_11.rpy:235
 translate vietnamese lexi_11_part3_4f18bdf3:
@@ -621,8 +621,8 @@ translate vietnamese lexi_11_part3_4f18bdf3:
 # game/characters/lexi/ev_11.rpy:236
 translate vietnamese lexi_11_part3_e7800d23:
 
-    # lexi "Thank you.. Ahn~"
-    lexi "Cảm ơn anh.. Ahn~"
+    # lexi "Thank you... Ahn~"
+    lexi "Cảm ơn anh... Ahn~"
 
 # game/characters/lexi/ev_11.rpy:237
 translate vietnamese lexi_11_part3_af7e5469:
@@ -663,8 +663,8 @@ translate vietnamese lexi_11_part3_166d9144:
 # game/characters/lexi/ev_11.rpy:258
 translate vietnamese lexi_11_part3_43534c77:
 
-    # lexi "Uh.."
-    lexi "Uh.."
+    # lexi "Uh..."
+    lexi "Uh..."
 
 # game/characters/lexi/ev_11.rpy:259
 translate vietnamese lexi_11_part3_61c5f1ea:
@@ -735,8 +735,8 @@ translate vietnamese lexi_11_part3_6e80a918:
 # game/characters/lexi/ev_11.rpy:276
 translate vietnamese lexi_11_part3_5ca52da9:
 
-    # lexi "I don't think I deserve it, but.. I want to be happy."
-    lexi "Em không nghĩ mình xứng đáng với điều này, nhưng.. em muốn được hạnh phúc."
+    # lexi "I don't think I deserve it, but... I want to be happy."
+    lexi "Em không nghĩ mình xứng đáng với điều này, nhưng... em muốn được hạnh phúc."
 
 # game/characters/lexi/ev_11.rpy:277
 translate vietnamese lexi_11_part3_c1c43ae5:
@@ -759,8 +759,8 @@ translate vietnamese lexi_11_part3_dd00c27a:
 # game/characters/lexi/ev_11.rpy:285
 translate vietnamese lexi_11_part3_8dfcab39:
 
-    # lexi "I'm tired.. Can I sleep here?"
-    lexi "Em mệt rồi.. Em có thể ngủ ở đây được không??"
+    # lexi "I'm tired... Can I sleep here?"
+    lexi "Em mệt rồi... Em có thể ngủ ở đây được không??"
 
 # game/characters/lexi/ev_11.rpy:286
 translate vietnamese lexi_11_part3_52187447:
@@ -825,8 +825,8 @@ translate vietnamese lexi_11_part3_0cf8453a:
 # game/characters/lexi/ev_11.rpy:304
 translate vietnamese lexi_11_part3_745a75f4:
 
-    # lexi "It's night already.."
-    lexi "Đã tối rồi.."
+    # lexi "It's night already..."
+    lexi "Đã tối rồi..."
 
 # game/characters/lexi/ev_11.rpy:305
 translate vietnamese lexi_11_part3_9359b042:
@@ -867,8 +867,8 @@ translate vietnamese lexi_11_part3_27626081:
 # game/characters/lexi/ev_11.rpy:322
 translate vietnamese lexi_11_part3_a31d0d96:
 
-    # me "Are you running from your [lex_min!t]?"
-    me "Em có đang chạy khỏi [lex_min!t] của mình không?"
+    # me "Are you running from your em?"
+    me "Có phải em đang trốn khỏi em gái của mình không?"
 
 # game/characters/lexi/ev_11.rpy:323
 translate vietnamese lexi_11_part3_f5371da6:
@@ -904,13 +904,13 @@ translate vietnamese lexi_11_part3_02abef53:
 translate vietnamese lexi_11_part3_7160a415:
 
     # "You two talked for a long time, laughing and gossiping, till you fell asleep again."
-    "Hai người nói chuyện với nhau rất lâu, vừa cười vừa nói chuyện phiếm, cho đến khi lại ngủ thiếp đi.."
+    "Hai người nói chuyện với nhau rất lâu, vừa cười vừa nói chuyện phiếm, cho đến khi lại ngủ thiếp đi..."
 
 # game/characters/lexi/ev_11.rpy:339
 translate vietnamese lexi_11_part3_e3ba411e:
 
-    # lexi "Yhm.."
-    lexi "Yhm.."
+    # lexi "Yhm..."
+    lexi "Yhm..."
 
 # game/characters/lexi/ev_11.rpy:342
 translate vietnamese lexi_11_part3_16817353:
@@ -921,8 +921,8 @@ translate vietnamese lexi_11_part3_16817353:
 # game/characters/lexi/ev_11.rpy:343
 translate vietnamese lexi_11_part3_eaf1aaec:
 
-    # me "Mm.."
-    me "Mm.."
+    # me "Mm..."
+    me "Mm..."
 
 # game/characters/lexi/ev_11.rpy:346
 translate vietnamese lexi_11_part3_f63a79b1:
@@ -963,8 +963,8 @@ translate vietnamese lexi_11_part3_e04d3231:
 # game/characters/lexi/ev_11.rpy:366
 translate vietnamese lexi_11_part3_7b4880b0:
 
-    # me "How cruel of you, [lexi].."
-    me "Em thật tàn nhẫn, [lexi].."
+    # me "How cruel of you, [lexi]..."
+    me "Em thật tàn nhẫn, [lexi]..."
 
 # game/characters/lexi/ev_11.rpy:367
 translate vietnamese lexi_11_part3_994e4f15:
@@ -1084,4 +1084,3 @@ translate vietnamese lexi_11_part3_98679773:
 
     # lexi "I'll just tell her to go ask you, instead."
     lexi "I'll just tell her to go ask you, instead."
-

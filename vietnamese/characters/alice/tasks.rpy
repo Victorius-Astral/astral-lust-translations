@@ -57,8 +57,8 @@ translate vietnamese task_alice_combat_gear_6fd57e2c:
 # game/characters/alice/tasks.rpy:27
 translate vietnamese task_alice_combat_gear_8405557b:
 
-    # alice "What would you do without me..?"
-    alice "Anh sẽ làm gì nếu không có em..?"
+    # alice "What would you do without me...?"
+    alice "Anh sẽ làm gì nếu không có em...?"
 
 # game/characters/alice/tasks.rpy:28
 translate vietnamese task_alice_combat_gear_22c55ca1:
@@ -93,8 +93,8 @@ translate vietnamese task_alice_combat_gear_68959678:
 # game/characters/alice/tasks.rpy:39
 translate vietnamese task_alice_combat_gear_f6387da6:
 
-    # me "Hmm.. Let's think."
-    me "Hmm.. Nghĩ thử xem."
+    # me "Hmm... Let's think."
+    me "Hmm... Nghĩ thử xem."
 
 # game/characters/alice/tasks.rpy:43
 translate vietnamese task_alice_combat_gear_059ef059:
@@ -135,8 +135,8 @@ translate vietnamese task_alice_dismantle_clothes_5b33fae9:
 # game/characters/alice/tasks.rpy:66
 translate vietnamese task_alice_dismantle_clothes_c8a24140:
 
-    # alice "Very funny.."
-    alice "Rất hài hước.."
+    # alice "Very funny..."
+    alice "Rất hài hước..."
 
 # game/characters/alice/tasks.rpy:67
 translate vietnamese task_alice_dismantle_clothes_9a2fed9b:

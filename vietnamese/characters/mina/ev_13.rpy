@@ -27,8 +27,8 @@ translate vietnamese mina_13_5d07c54b:
 # game/characters/mina/ev_13.rpy:16
 translate vietnamese mina_13_dd72a0be:
 
-    # mina "Hmm.. Do I need any specific reason?"
-    mina "Hmm.. Em có cần lý do cụ thể nào không?"
+    # mina "Hmm... Do I need any specific reason?"
+    mina "Hmm... Em có cần lý do cụ thể nào không?"
 
 # game/characters/mina/ev_13.rpy:17
 translate vietnamese mina_13_1f877649:
@@ -45,8 +45,8 @@ translate vietnamese mina_13_aef831ee:
 # game/characters/mina/ev_13.rpy:21
 translate vietnamese mina_13_f39a1d22:
 
-    # me ".. That's a surprisingly good point.."
-    me ".. Nó lại đúng đến ngạc nhiên đấy.."
+    # me "... That's a surprisingly good point..."
+    me "... Nó lại đúng đến ngạc nhiên đấy..."
 
 # game/characters/mina/ev_13.rpy:24
 translate vietnamese mina_13_0cc025f0:
@@ -57,8 +57,8 @@ translate vietnamese mina_13_0cc025f0:
 # game/characters/mina/ev_13.rpy:25
 translate vietnamese mina_13_85b03400:
 
-    # me "Well.."
-    me "Ờ thì.."
+    # me "Well..."
+    me "Ờ thì..."
 
 # game/characters/mina/ev_13.rpy:28
 translate vietnamese mina_13_6af35aaa:
@@ -75,8 +75,8 @@ translate vietnamese mina_13_4b6b0e91:
 # game/characters/mina/ev_13.rpy:32
 translate vietnamese mina_13_74270990:
 
-    # mina "You could have at least pretended it hurt.."
-    mina "Ít nhất anh cũng có thể giả vờ như nó đau đi chứ.."
+    # mina "You could have at least pretended it hurt..."
+    mina "Ít nhất anh cũng có thể giả vờ như nó đau đi chứ..."
 
 # game/characters/mina/ev_13.rpy:33
 translate vietnamese mina_13_2d78a3ec:
@@ -87,8 +87,8 @@ translate vietnamese mina_13_2d78a3ec:
 # game/characters/mina/ev_13.rpy:36
 translate vietnamese mina_13_a084ed8e:
 
-    # mina "...."
-    mina "...."
+    # mina "..."
+    mina "..."
 
 # game/characters/mina/ev_13.rpy:39
 translate vietnamese mina_13_564f3766:
@@ -105,8 +105,8 @@ translate vietnamese mina_13_9a1663cc:
 # game/characters/mina/ev_13.rpy:43
 translate vietnamese mina_13_b3983b43:
 
-    # mina "Umm.. it's hard to put into words."
-    mina "Umm.. Nó khá khó để nói thành lời."
+    # mina "Umm... it's hard to put into words."
+    mina "Umm... Nó khá khó để nói thành lời."
 
 # game/characters/mina/ev_13.rpy:44
 translate vietnamese mina_13_2930e26f:
@@ -165,8 +165,8 @@ translate vietnamese mina_13_52255db8:
 # game/characters/mina/ev_13.rpy:62
 translate vietnamese mina_13_7ac38684:
 
-    # th "I would say, you're in love, [mina].."
-    th "Phải nói là, em đang yêu rồi [mina] à.."
+    # th "I would say, you're in love, [mina]..."
+    th "Phải nói là, em đang yêu rồi [mina] à..."
 
 # game/characters/mina/ev_13.rpy:65
 translate vietnamese mina_13_cf6edc64:
@@ -255,20 +255,20 @@ translate vietnamese mina_13_ad2ace72:
 # game/characters/mina/ev_13.rpy:89
 translate vietnamese mina_13_eaf701ec:
 
-    # mina "Maybe.."
-    mina "Có thể.."
+    # mina "Maybe..."
+    mina "Có thể..."
 
 # game/characters/mina/ev_13.rpy:90
 translate vietnamese mina_13_5b677735:
 
-    # me "Shit, now I want to check, damn it.."
-    me "Đệch, bây giờ anh lại muốn kiểm tra xem.."
+    # me "Shit, now I want to check, damn it..."
+    me "Đệch, bây giờ anh lại muốn kiểm tra xem..."
 
 # game/characters/mina/ev_13.rpy:93
 translate vietnamese mina_13_7bfb13ab:
 
-    # mina "I didn't say you can't.."
-    mina "Em có nói là anh không đâu.."
+    # mina "I didn't say you can't..."
+    mina "Em có nói là anh không đâu..."
 
 # game/characters/mina/ev_13.rpy:101
 translate vietnamese mina_13_34b51a7e:
@@ -279,8 +279,8 @@ translate vietnamese mina_13_34b51a7e:
 # game/characters/mina/ev_13.rpy:102
 translate vietnamese mina_13_5b3b9f86:
 
-    # me "So about your orientation.."
-    me "Về định hướng của bạn.."
+    # me "So about your orientation..."
+    me "Về định hướng của bạn..."
 
 # game/characters/mina/ev_13.rpy:105
 translate vietnamese mina_13_2d36cfab:
@@ -291,8 +291,8 @@ translate vietnamese mina_13_2d36cfab:
 # game/characters/mina/ev_13.rpy:106
 translate vietnamese mina_13_c998b111:
 
-    # me "Wow.."
-    me "Wow.."
+    # me "Wow..."
+    me "Wow..."
 
 # game/characters/mina/ev_13.rpy:109
 translate vietnamese mina_13_0f939b42:
@@ -315,8 +315,8 @@ translate vietnamese mina_13_4a6b6fbd:
 # game/characters/mina/ev_13.rpy:119
 translate vietnamese mina_13_6b667f67:
 
-    # mina "Alright.."
-    mina "Được thôi.."
+    # mina "Alright..."
+    mina "Được thôi..."
 
 # game/characters/mina/ev_13.rpy:120
 translate vietnamese mina_13_3820771a_1:
@@ -339,8 +339,8 @@ translate vietnamese mina_13_297a1af9:
 # game/characters/mina/ev_13.rpy:125
 translate vietnamese mina_13_ca7f64fd:
 
-    # mina "You know, I better.."
-    mina "Anh biết đấy, tốt hơn em nên.."
+    # mina "You know, I better..."
+    mina "Anh biết đấy, tốt hơn em nên..."
 
 # game/characters/mina/ev_13.rpy:128
 translate vietnamese mina_13_95f3a9ad:
@@ -387,8 +387,8 @@ translate vietnamese mina_13_a9bc6f5b:
 # game/characters/mina/ev_13.rpy:145
 translate vietnamese mina_13_518246e4:
 
-    # me "You're a bi.."
-    me "Em là đ.."
+    # me "You're a bi..."
+    me "Em là đ..."
 
 # game/characters/mina/ev_13.rpy:148
 translate vietnamese mina_13_158818eb:
@@ -459,8 +459,8 @@ translate vietnamese mina_13_b64ec5bf:
 # game/characters/mina/ev_13.rpy:170
 translate vietnamese mina_13_e2520b22:
 
-    # me "Can you.."
-    me "Em có thể.."
+    # me "Can you..."
+    me "Em có thể..."
 
 # game/characters/mina/ev_13.rpy:171
 translate vietnamese mina_13_32654e78:
@@ -483,8 +483,8 @@ translate vietnamese mina_13_12cf7b69:
 # game/characters/mina/ev_13.rpy:176
 translate vietnamese mina_13_9c8f4b2a:
 
-    # mina "I.."
-    mina "Em.."
+    # mina "I..."
+    mina "Em..."
 
 # game/characters/mina/ev_13.rpy:177
 translate vietnamese mina_13_7c5ae835:
@@ -519,8 +519,8 @@ translate vietnamese mina_13_3820771a_3:
 # game/characters/mina/ev_13.rpy:191
 translate vietnamese mina_13_2cc71cb8:
 
-    # th "Hey, hey, that's not supposed to be like that.."
-    th "Này, này, không phải như vậy đâu dumaaa.."
+    # th "Hey, hey, that's not supposed to be like that..."
+    th "Này, này, không phải như vậy đâu dumaaa..."
 
 # game/characters/mina/ev_13.rpy:192
 translate vietnamese mina_13_520f5af9:
@@ -531,8 +531,8 @@ translate vietnamese mina_13_520f5af9:
 # game/characters/mina/ev_13.rpy:193
 translate vietnamese mina_13_fba053f3:
 
-    # th "Wait.. You're gonna scream my name."
-    th "Chờ đã.. Em sẽ hét lên tên anh."
+    # th "Wait... You're gonna scream my name."
+    th "Chờ đã... Em sẽ hét lên tên anh."
 
 # game/characters/mina/ev_13.rpy:201
 translate vietnamese mina_13_aa4fe6ae:
@@ -573,8 +573,8 @@ translate vietnamese mina_13_3f2dde7a:
 # game/characters/mina/ev_13.rpy:214
 translate vietnamese mina_13_4b1495d3:
 
-    # mina "Mnn. N-Not fair, I-I.."
-    mina "Mnn. K-Không công bằng, E-Em.."
+    # mina "Mnn. N-Not fair, I-I..."
+    mina "Mnn. K-Không công bằng, E-Em..."
 
 # game/characters/mina/ev_13.rpy:222
 translate vietnamese mina_13_0728c745:
@@ -693,8 +693,8 @@ translate vietnamese mina_13_bb535456:
 # game/characters/mina/ev_13.rpy:260
 translate vietnamese mina_13_4861783e:
 
-    # me "So.."
-    me "Thế.."
+    # me "So..."
+    me "Thế..."
 
 # game/characters/mina/ev_13.rpy:263
 translate vietnamese mina_13_b7f76408:
@@ -705,8 +705,8 @@ translate vietnamese mina_13_b7f76408:
 # game/characters/mina/ev_13.rpy:264
 translate vietnamese mina_13_7602f903:
 
-    # me "Friends. With.. beneeeefits."
-    me "Thế thì Friends. With.. beneeeefits."
+    # me "Friends. With... beneeeefits."
+    me "Thế thì Friends. With... beneeeefits."
 
 # game/characters/mina/ev_13.rpy:265
 translate vietnamese mina_13_53ec84c9:
@@ -718,7 +718,7 @@ translate vietnamese mina_13_53ec84c9:
 translate vietnamese mina_13_5a22e414:
 
     # me "Oh come on, don't be a pussy."
-    me "Oh thôi nào, đừng nhát vậy chứ.."
+    me "Oh thôi nào, đừng nhát vậy chứ..."
 
 # game/characters/mina/ev_13.rpy:269
 translate vietnamese mina_13_ecf8b644:
@@ -777,14 +777,14 @@ translate vietnamese mina_13_8ac582d0:
 # game/characters/mina/ev_13.rpy:288
 translate vietnamese mina_13_7fc40a65:
 
-    # mina "Ugh.. Alright, if you somehow talk me into this, I'm all yours."
-    mina "Ugh.. Được rồi, nếu bằng cách nào đó anh thuyết phục được em, thì của anh húp tất."
+    # mina "Ugh... Alright, if you somehow talk me into this, I'm all yours."
+    mina "Ugh... Được rồi, nếu bằng cách nào đó anh thuyết phục được em, thì của anh húp tất."
 
 # game/characters/mina/ev_13.rpy:289
 translate vietnamese mina_13_3a6e8fd5:
 
-    # me "Ha! Great. Wait.. if I talk you into sleeping with me, doesn't it mean you're mine already?"
-    me "Ha! Ngon. Đợi đã.. nếu anh bảo em ngủ với anh, không phải em là của anh sẵn rồi sao?"
+    # me "Ha! Great. Wait... if I talk you into sleeping with me, doesn't it mean you're mine already?"
+    me "Ha! Ngon. Đợi đã... nếu anh bảo em ngủ với anh, không phải em là của anh sẵn rồi sao?"
 
 # game/characters/mina/ev_13.rpy:292
 translate vietnamese mina_13_d9cc0bdd:
@@ -819,8 +819,8 @@ translate vietnamese mina_13_3820771a_5:
 # game/characters/mina/ev_13.rpy:303
 translate vietnamese mina_13_585520a3:
 
-    # th "Who am I lying to? Of course I do.."
-    th "Mình đang nói dối ai vậy? Tất nhiên là có rồi.."
+    # th "Who am I lying to? Of course I do..."
+    th "Mình đang nói dối ai vậy? Tất nhiên là có rồi..."
 
 # game/characters/mina/ev_13.rpy:308
 translate vietnamese mina_13_5cdebf03_1:
@@ -837,8 +837,8 @@ translate vietnamese mina_13_b1e99b1b:
 # game/characters/mina/ev_13.rpy:310
 translate vietnamese mina_13_b273d15b:
 
-    # me "Ah.."
-    me "Ah.."
+    # me "Ah..."
+    me "Ah..."
 
 # game/characters/mina/ev_13.rpy:311
 translate vietnamese mina_13_2e39132c:
@@ -861,8 +861,8 @@ translate vietnamese mina_13_3820771a_6:
 # game/characters/mina/ev_13.rpy:320
 translate vietnamese mina_13_e32e3bde:
 
-    # th "Fuck, I thought I was stronger.."
-    th "Fuck, mình tưởng là mình phải mạnh mẽ hơn chứ.."
+    # th "Fuck, I thought I was stronger..."
+    th "Fuck, mình tưởng là mình phải mạnh mẽ hơn chứ..."
 
 # game/characters/mina/ev_13.rpy:323
 translate vietnamese mina_13_31fd7591:
@@ -915,8 +915,8 @@ translate vietnamese mina_13_b1e99b1b_1:
 # game/characters/mina/ev_13.rpy:335
 translate vietnamese mina_13_b273d15b_1:
 
-    # me "Ah.."
-    me "Ah.."
+    # me "Ah..."
+    me "Ah..."
 
 # game/characters/mina/ev_13.rpy:336
 translate vietnamese mina_13_2e39132c_1:
@@ -982,14 +982,14 @@ translate vietnamese mina_13_fe9f1933:
 # game/characters/mina/ev_13.rpy:102
 translate vietnamese mina_13_9b78ad75:
 
-    # me "So, about your orientation.."
-    me "So, about your orientation.."
+    # me "So, about your orientation..."
+    me "So, about your orientation..."
 
 # game/characters/mina/ev_13.rpy:109
 translate vietnamese mina_13_76a29fbe:
 
-    # mina "What? I'm.. As you've said, I'm dripping wet right now, and you can help me with that. Friends gotta look out for each other, remember?"
-    mina "What? I'm.. As you've said, I'm dripping wet right now, and you can help me with that. Friends gotta look out for each other, remember?"
+    # mina "What? I'm... As you've said, I'm dripping wet right now, and you can help me with that. Friends gotta look out for each other, remember?"
+    mina "What? I'm... As you've said, I'm dripping wet right now, and you can help me with that. Friends gotta look out for each other, remember?"
 
 # game/characters/mina/ev_13.rpy:113
 translate vietnamese mina_13_0dc505ed:
@@ -1024,6 +1024,6 @@ translate vietnamese mina_13_d89cf294:
 # game/characters/mina/ev_13.rpy:303
 translate vietnamese mina_13_17799ec9:
 
-    # th "Who am I lying to? Of course, I do.."
-    th "Who am I lying to? Of course, I do.."
+    # th "Who am I lying to? Of course, I do..."
+    th "Who am I lying to? Of course, I do..."
 

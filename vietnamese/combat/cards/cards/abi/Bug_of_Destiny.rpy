@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/abi/Bug_of_Destiny.rpy:6
     old "Bug of Destiny"
-    new "Bọ Định Mệnh"
+    new "Con Bọ Định Mệnh"

@@ -165,7 +165,7 @@ translate vietnamese shower_alice_817b7f6b:
 # game/characters/alice/shower.rpy:107
 translate vietnamese shower_alice_e28e963c:
 
-    # alice "That was so nice.."
+    # alice "That was so nice..."
     alice "Thật tuyệt..."
 
 # game/characters/alice/shower.rpy:108
@@ -324,7 +324,7 @@ translate vietnamese shower_alice_masturbate_817b7f6b:
 # game/characters/alice/shower.rpy:127
 translate vietnamese shower_alice_masturbate_e28e963c:
 
-    # alice "That was so nice.."
+    # alice "That was so nice..."
     alice "Kimochi..."
 
 # game/characters/alice/shower.rpy:128
@@ -444,7 +444,7 @@ translate vietnamese shower_alice_dildo_bj_0c602ea3:
 # game/characters/alice/shower.rpy:204
 translate vietnamese shower_alice_dildo_bj_2fdd878d:
 
-    # alice "You want to- in your.."
+    # alice "You want to- in your..."
     alice "Anh muốn- bên trong..."
 
 # game/characters/alice/shower.rpy:205
@@ -492,7 +492,7 @@ translate vietnamese shower_alice_dildo_bj_d7d3aba1:
 # game/characters/alice/shower.rpy:225
 translate vietnamese shower_alice_dildo_bj_128d69dc:
 
-    # me "Eh.."
+    # me "Eh..."
     me "Ể..."
 
 # game/characters/alice/shower.rpy:229
@@ -624,7 +624,7 @@ translate vietnamese shower_alice_dildo_bj_ef0e442a:
 # game/characters/alice/shower.rpy:265
 translate vietnamese shower_alice_dildo_bj_aeddd870:
 
-    # me "Ohhh.."
+    # me "Ohhh..."
     me "Ohhh..."
 
 # game/characters/alice/shower.rpy:266
@@ -786,7 +786,7 @@ translate vietnamese shower_alice_dildo_bj_3b8b759d:
 # game/characters/alice/shower.rpy:324
 translate vietnamese shower_alice_dildo_bj_22e458a7:
 
-    # me "Hm.."
+    # me "Hm..."
     me "Hm..."
 
 # game/characters/alice/shower.rpy:325

@@ -19,7 +19,7 @@ translate vietnamese strings:
     new "Có lẽ ai đó có thể trả lời câu hỏi của mình ở ngoài kia."
 
     # game/variables/tips.rpy:4
-    old "I wonder if I would turn insane if it spoke to me again.."
+    old "I wonder if I would turn insane if it spoke to me again..."
     new "Không biết liệu mình có trở nên mất trí nếu nó nói chuyện với mình một lần nữa không..."
 
     # game/variables/tips.rpy:4
@@ -31,7 +31,7 @@ translate vietnamese strings:
     new "Mình nên tập trung vào mối quan hệ của mình với Lexi."
 
     # game/variables/tips.rpy:4
-    old "I need to ask Kiara about this.. being.."
+    old "I need to ask Kiara about this... being..."
     new "Mình cần hỏi Kiara về... thực thể này..."
 
     # game/variables/tips.rpy:4

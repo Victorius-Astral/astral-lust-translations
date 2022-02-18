@@ -147,8 +147,8 @@ translate vietnamese kiara_fj_1_fast_898c683e:
 # game/characters/kiara/fj_1.rpy:122
 translate vietnamese kiara_fj_1_fast_583f989e:
 
-    # kiara "Heh.. Good for you."
-    kiara "Heh.. Good for you."
+    # kiara "Heh... Good for you."
+    kiara "Heh... Good for you."
 
 # game/characters/kiara/fj_1.rpy:123
 translate vietnamese kiara_fj_1_fast_d08da5c0:
@@ -177,8 +177,8 @@ translate vietnamese kiara_fj_1_fast_08330bf7:
 # game/characters/kiara/fj_1.rpy:132
 translate vietnamese kiara_fj_1_before_9301c799:
 
-    # me "It feels really good [kiara].."
-    me "It feels really good [kiara].."
+    # me "It feels really good [kiara]..."
+    me "It feels really good [kiara]..."
 
 # game/characters/kiara/fj_1.rpy:133
 translate vietnamese kiara_fj_1_before_14baf83f:
@@ -213,8 +213,8 @@ translate vietnamese kiara_fj_1_before_89749cf5:
 # game/characters/kiara/fj_1.rpy:150
 translate vietnamese kiara_fj_1_before_10596009:
 
-    # kiara "You said you wanted to ravage me.."
-    kiara "You said you wanted to ravage me.."
+    # kiara "You said you wanted to ravage me..."
+    kiara "You said you wanted to ravage me..."
 
 # game/characters/kiara/fj_1.rpy:151
 translate vietnamese kiara_fj_1_before_10fa88f0:
@@ -225,8 +225,8 @@ translate vietnamese kiara_fj_1_before_10fa88f0:
 # game/characters/kiara/fj_1.rpy:152
 translate vietnamese kiara_fj_1_before_aaf8f088:
 
-    # kiara "...."
-    kiara "...."
+    # kiara "..."
+    kiara "..."
 
 # game/characters/kiara/fj_1.rpy:153
 translate vietnamese kiara_fj_1_before_9a413171:
@@ -237,8 +237,8 @@ translate vietnamese kiara_fj_1_before_9a413171:
 # game/characters/kiara/fj_1.rpy:154
 translate vietnamese kiara_fj_1_before_a131396c:
 
-    # kiara "Cum, soak me in your seed. I'm so wet.."
-    kiara "Cum, soak me in your seed. I'm so wet.."
+    # kiara "Cum, soak me in your seed. I'm so wet..."
+    kiara "Cum, soak me in your seed. I'm so wet..."
 
 # game/characters/kiara/fj_1.rpy:155
 translate vietnamese kiara_fj_1_before_88eab5f5:
@@ -291,8 +291,8 @@ translate vietnamese kiara_fj_1_cum_0e1c4334:
 # game/characters/kiara/fj_1.rpy:173
 translate vietnamese kiara_fj_1_cum_dd9636c7:
 
-    # me "Ahh.."
-    me "Ahh.."
+    # me "Ahh..."
+    me "Ahh..."
 
 # game/characters/kiara/fj_1.rpy:174
 translate vietnamese kiara_fj_1_cum_64186bde:

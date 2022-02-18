@@ -15,8 +15,8 @@ translate vietnamese lola_2_9cef6565:
 # game/characters/lola/ev_2.rpy:7
 translate vietnamese lola_2_8b68ede9:
 
-    # lola "Yeah.."
-    lola "Yeah.."
+    # lola "Yeah..."
+    lola "Yeah..."
 
 # game/characters/lola/ev_2.rpy:8
 translate vietnamese lola_2_e8767855:
@@ -39,8 +39,8 @@ translate vietnamese lola_2_ea1ba29e:
 # game/characters/lola/ev_2.rpy:15
 translate vietnamese lola_2_118b186c:
 
-    # lola "It was my first time.."
-    lola "Đó là lần đầu của tôi.."
+    # lola "It was my first time..."
+    lola "Đó là lần đầu của tôi..."
 
 # game/characters/lola/ev_2.rpy:16
 translate vietnamese lola_2_3820771a:
@@ -63,8 +63,8 @@ translate vietnamese lola_2_c9911443:
 # game/characters/lola/ev_2.rpy:21
 translate vietnamese lola_2_6d2d18ce:
 
-    # lola "In the end I shouldn't have told you this.."
-    lola "Đáng lẽ ra tôi không nên nói với anh điều này.."
+    # lola "In the end I shouldn't have told you this..."
+    lola "Đáng lẽ ra tôi không nên nói với anh điều này..."
 
 # game/characters/lola/ev_2.rpy:22
 translate vietnamese lola_2_f29af1a1:
@@ -117,8 +117,8 @@ translate vietnamese lola_2_3820771a_1:
 # game/characters/lola/ev_2.rpy:34
 translate vietnamese lola_2_a64f4f35:
 
-    # lola "Ah.. If you could have seen your silly face.."
-    lola "Ah.. Nếu anh có thể nhìn thấy khuôn mặt đần thối của mình.."
+    # lola "Ah... If you could have seen your silly face..."
+    lola "Ah... Nếu anh có thể nhìn thấy khuôn mặt đần thối của mình..."
 
 # game/characters/lola/ev_2.rpy:48
 translate vietnamese lola_2_b96b9c25:
@@ -129,8 +129,8 @@ translate vietnamese lola_2_b96b9c25:
 # game/characters/lola/ev_2.rpy:49
 translate vietnamese lola_2_bc3bd0c4:
 
-    # me "Wait.. I need to think about what I've just learned.."
-    me "Chờ đã.. tôi cần nghĩ về những gì tôi vừa học được.."
+    # me "Wait... I need to think about what I've just learned..."
+    me "Chờ đã... tôi cần nghĩ về những gì tôi vừa học được..."
 
 # game/characters/lola/ev_2.rpy:52
 translate vietnamese lola_2_eb9cb2fa:
@@ -171,14 +171,14 @@ translate vietnamese lola_2_9130146c:
 # game/characters/lola/ev_2.rpy:62
 translate vietnamese lola_2_79e78b18:
 
-    # th "This girl is something else entirely.."
-    th "Cô gái này là một cái gì đó hoàn toàn khác.."
+    # th "This girl is something else entirely..."
+    th "Cô gái này là một cái gì đó hoàn toàn khác..."
 
 # game/characters/lola/ev_2.rpy:65
 translate vietnamese lola_2_9e65fb61:
 
-    # lola "You're blanking out again.."
-    lola "Anh lại đơ ra một lần nữa rồi.."
+    # lola "You're blanking out again..."
+    lola "Anh lại đơ ra một lần nữa rồi..."
 
 # game/characters/lola/ev_2.rpy:66
 translate vietnamese lola_2_3820771a_2:
@@ -189,8 +189,8 @@ translate vietnamese lola_2_3820771a_2:
 # game/characters/lola/ev_2.rpy:69
 translate vietnamese lola_2_0cbd0668:
 
-    # lola "I'm waiting.."
-    lola "tôi vẫn đang đợi đây.."
+    # lola "I'm waiting..."
+    lola "tôi vẫn đang đợi đây..."
 
 # game/characters/lola/ev_2.rpy:70
 translate vietnamese lola_2_4ba7882b:
@@ -201,8 +201,8 @@ translate vietnamese lola_2_4ba7882b:
 # game/characters/lola/ev_2.rpy:71
 translate vietnamese lola_2_ef7411fa:
 
-    # me "Alright.. Fuck it, let's have sex."
-    me "Được rồi.. Fuck it, làm tình đi.."
+    # me "Alright... Fuck it, let's have sex."
+    me "Được rồi... Fuck it, làm tình đi..."
 
 # game/characters/lola/ev_2.rpy:75
 translate vietnamese lola_2_840962e2:
@@ -213,15 +213,15 @@ translate vietnamese lola_2_840962e2:
 # game/characters/lola/ev_2.rpy:76
 translate vietnamese lola_2_afb436ab:
 
-    # th "It was just a while.."
-    th "Nó mới được một lúc.."
+    # th "It was just a while..."
+    th "Nó mới được một lúc..."
 # TODO: Translation updated at 2022-02-06 08:10
 
 # game/characters/lola/ev_2.rpy:21
 translate vietnamese lola_2_b9469040:
 
-    # lola "In the end, I shouldn't have told you this.."
-    lola "In the end, I shouldn't have told you this.."
+    # lola "In the end, I shouldn't have told you this..."
+    lola "In the end, I shouldn't have told you this..."
 
 # game/characters/lola/ev_2.rpy:23
 translate vietnamese lola_2_2808256e:

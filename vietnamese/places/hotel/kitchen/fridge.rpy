@@ -4,7 +4,7 @@
 translate vietnamese room_kitchen_fridge_9a36674d:
 
     # "You opened the fridge. Do you want to eat something?"
-    "Bạn mở tủ lạnh. Bạn có ăn gì đó không?"
+    "Bạn mở tủ lạnh. Bạn có muốn ăn gì đó không?"
 
 # game/places/hotel/kitchen/fridge.rpy:10
 translate vietnamese room_kitchen_fridge_59aedc41:
@@ -22,7 +22,7 @@ translate vietnamese strings:
 
     # game/places/hotel/kitchen/fridge.rpy:5
     old "Have a snack"
-    new "Ăn một bữa ăn nhẹ"
+    new "Ăn nhẹ"
 
     # game/places/hotel/kitchen/fridge.rpy:5
     old "Close fridge"

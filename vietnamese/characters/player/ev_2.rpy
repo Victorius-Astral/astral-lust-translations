@@ -87,8 +87,8 @@ translate vietnamese main_2_d9ab78d5:
 # game/characters/player/ev_2.rpy:26
 translate vietnamese main_2_4cc6f041:
 
-    # madman "Priest? No.. For Them we can't be anything more than worms. For Them we are but servants living and dying for Their will."
-    madman "Linh mục á? Không.. Đối với bọn họ, chúng ta chả là gì khác gì với mấy con sâu cả. Đối với họ, chúng tôi chỉ là những người hầu sống và chết cho ý muốn của họ."
+    # madman "Priest? No... For Them we can't be anything more than worms. For Them we are but servants living and dying for Their will."
+    madman "Linh mục á? Không... Đối với bọn họ, chúng ta chả là gì khác gì với mấy con sâu cả. Đối với họ, chúng tôi chỉ là những người hầu sống và chết cho ý muốn của họ."
 
 # game/characters/player/ev_2.rpy:27
 translate vietnamese main_2_8ffb0486:
@@ -135,8 +135,8 @@ translate vietnamese main_2_1fcc7b82:
 # game/characters/player/ev_2.rpy:36
 translate vietnamese main_2_aa77131d:
 
-    # madman "Hahahhaha! Of course we knew it would come! But.. it wasn't supposed to be The End of humanity.. hahahahaha! He lied to us!"
-    madman "Hahahhaha! Tất nhiên bọn tao biết nó sẽ đến! Nhưng.. nó đáng ra không phải là Sự kết thúc của nhân loại.. hahahahaha! Ngài ấy đã nói dối chúng tao!"
+    # madman "Hahahhaha! Of course we knew it would come! But... it wasn't supposed to be The End of humanity... hahahahaha! He lied to us!"
+    madman "Hahahhaha! Tất nhiên bọn tao biết nó sẽ đến! Nhưng... nó đáng ra không phải là Sự kết thúc của nhân loại... hahahahaha! Ngài ấy đã nói dối chúng tao!"
 
 # game/characters/player/ev_2.rpy:37
 translate vietnamese main_2_3ea3a4f7:
@@ -147,8 +147,8 @@ translate vietnamese main_2_3ea3a4f7:
 # game/characters/player/ev_2.rpy:39
 translate vietnamese main_2_0f58ff57:
 
-    # madman "It was all a lie.."
-    madman "Tất cả chỉ là dối trá.."
+    # madman "It was all a lie..."
+    madman "Tất cả chỉ là dối trá..."
 
 # game/characters/player/ev_2.rpy:40
 translate vietnamese main_2_aad39a36:
@@ -159,14 +159,14 @@ translate vietnamese main_2_aad39a36:
 # game/characters/player/ev_2.rpy:42
 translate vietnamese main_2_8ac462e4:
 
-    # madman "It was our leader.."
-    madman "Đó là thủ lĩnh của tao.."
+    # madman "It was our leader..."
+    madman "Đó là thủ lĩnh của tao..."
 
 # game/characters/player/ev_2.rpy:44
 translate vietnamese main_2_b9b71bb7:
 
-    # madman "He.. He.."
-    madman "Ngài.. Ngài.."
+    # madman "He... He..."
+    madman "Ngài... Ngài..."
 
 # game/characters/player/ev_2.rpy:46
 translate vietnamese main_2_7f916db8:
@@ -213,14 +213,14 @@ translate vietnamese main_2_fdbd976a:
 # game/characters/player/ev_2.rpy:68
 translate vietnamese main_2_0dc07156:
 
-    # th "W-What happened just now? He killed himself, like it meant nothing.."
-    th "C-Chuyện gì vừa xảy ra vậy? Tên đó đã tự sát, như thể nó chẳng có nghĩa lý gì.."
+    # th "W-What happened just now? He killed himself, like it meant nothing..."
+    th "C-Chuyện gì vừa xảy ra vậy? Tên đó đã tự sát, như thể nó chẳng có nghĩa lý gì..."
 
 # game/characters/player/ev_2.rpy:69
 translate vietnamese main_2_885bb11b:
 
-    # th "What made him so crazy? What has he seen? What.."
-    th "Điều gì đã khiến hắn phát điên như vậy? Hắn ta đã thấy gì? Thứ.."
+    # th "What made him so crazy? What has he seen? What..."
+    th "Điều gì đã khiến hắn phát điên như vậy? Hắn ta đã thấy gì? Thứ..."
 
 # game/characters/player/ev_2.rpy:71
 translate vietnamese main_2_232690ca:

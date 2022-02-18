@@ -219,8 +219,8 @@ translate vietnamese damsel_betrayal_traitorcaught_c5732a58:
 # game/events/explore/damsel_betrayal.rpy:145
 translate vietnamese damsel_betrayal_traitorcaught_528c226b:
 
-    # flashy "No.."
-    flashy "Không.."
+    # flashy "No..."
+    flashy "Không..."
 
 # game/events/explore/damsel_betrayal.rpy:146
 translate vietnamese damsel_betrayal_traitorcaught_5ab04bed:

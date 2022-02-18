@@ -15,7 +15,7 @@ translate vietnamese kiara_1_2930e26f:
 # game/characters/kiara/ev_1.rpy:9
 translate vietnamese kiara_1_76761904:
 
-    # kiara "It's the way you resurrect. I.. am unable to decipher it."
+    # kiara "It's the way you resurrect. I... am unable to decipher it."
     kiara "Đó là cách mà anh hồi sinh. Tôi... không thể giải mã nó."
 
 # game/characters/kiara/ev_1.rpy:10
@@ -51,8 +51,8 @@ translate vietnamese kiara_1_81732ecd:
 # game/characters/kiara/ev_1.rpy:23
 translate vietnamese kiara_1_c56ab22d:
 
-    # me "I.. I never thought about it that way.."
-    me "Tôi... tôi chưa bao giờ nghĩ theo cách đó.."
+    # me "I... I never thought about it that way..."
+    me "Tôi... tôi chưa bao giờ nghĩ theo cách đó..."
 
 # game/characters/kiara/ev_1.rpy:24
 translate vietnamese kiara_1_9fa6edcb:
@@ -87,8 +87,8 @@ translate vietnamese kiara_1_aed830f3:
 # game/characters/kiara/ev_1.rpy:33
 translate vietnamese kiara_1_9ab7fce2:
 
-    # kiara "Yes, as they.."
-    kiara "Đúng vậy.."
+    # kiara "Yes, as they..."
+    kiara "Đúng vậy..."
 
 # game/characters/kiara/ev_1.rpy:34
 translate vietnamese kiara_1_3c0ad347:
@@ -183,8 +183,8 @@ translate vietnamese kiara_1_1_649ce64a:
 # game/characters/kiara/ev_1.rpy:58
 translate vietnamese kiara_1_1_58928c7a:
 
-    # kiara "Hmm.. Are you weakened afterwards?"
-    kiara "Hmm.. Sau đó anh có bị suy yếu không??"
+    # kiara "Hmm... Are you weakened afterwards?"
+    kiara "Hmm... Sau đó anh có bị suy yếu không??"
 
 # game/characters/kiara/ev_1.rpy:59
 translate vietnamese kiara_1_1_3970be18:
@@ -201,8 +201,8 @@ translate vietnamese kiara_1_1_e52b3e8e:
 # game/characters/kiara/ev_1.rpy:61
 translate vietnamese kiara_1_1_04ae7123:
 
-    # me "I think I'm losing my sanity. My head hurts like crazy and weird, chaotic thoughts appear inside my mind.."
-    me "Tôi nghĩ mình đang mất dần sự tỉnh táo. Đầu tôi đau như muốn điên lên và kỳ lạ, cùng những suy nghĩ hỗn loạn xuất hiện trong đầu.."
+    # me "I think I'm losing my sanity. My head hurts like crazy and weird, chaotic thoughts appear inside my mind..."
+    me "Tôi nghĩ mình đang mất dần sự tỉnh táo. Đầu tôi đau như muốn điên lên và kỳ lạ, cùng những suy nghĩ hỗn loạn xuất hiện trong đầu..."
 
 # game/characters/kiara/ev_1.rpy:63
 translate vietnamese kiara_1_1_9172d0bc:
@@ -267,8 +267,8 @@ translate vietnamese kiara_1_1_8958d424:
 # game/characters/kiara/ev_1.rpy:79
 translate vietnamese kiara_1_1_ae88dda0:
 
-    # kiara "Ahh.. mortals.."
-    kiara "Ahh.. người phàm.."
+    # kiara "Ahh... mortals..."
+    kiara "Ahh... người phàm..."
 
 # game/characters/kiara/ev_1.rpy:80
 translate vietnamese kiara_1_1_3820771a_2:
@@ -375,8 +375,8 @@ translate vietnamese kiara_1_2_dad453d0:
 # game/characters/kiara/ev_1.rpy:112
 translate vietnamese kiara_1_2_24bb0e45:
 
-    # me "I wouldn't.."
-    me "Tất nhiên là không rồi.."
+    # me "I wouldn't..."
+    me "Tất nhiên là không rồi..."
 
 # game/characters/kiara/ev_1.rpy:113
 translate vietnamese kiara_1_2_418c7ea2:
@@ -387,8 +387,8 @@ translate vietnamese kiara_1_2_418c7ea2:
 # game/characters/kiara/ev_1.rpy:114
 translate vietnamese kiara_1_2_5dfb3613:
 
-    # me "It's so.. sick.."
-    me "Thật là.. Đau não.."
+    # me "It's so... sick..."
+    me "Thật là... Đau não..."
 
 # game/characters/kiara/ev_1.rpy:117
 translate vietnamese kiara_1_2_fe95e44a:

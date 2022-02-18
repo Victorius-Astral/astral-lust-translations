@@ -12,8 +12,8 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/types.rpy:3
     old "Ability"
-    new "Năng lực"
+    new "Khả năng"
 
     # game/combat/cards/lists/types.rpy:3
     old "Power"
-    new "Siêu năng lực"
+    new "Năng lực"

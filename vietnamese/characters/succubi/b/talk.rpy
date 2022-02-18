@@ -117,8 +117,8 @@ translate vietnamese talk_SuccubusB_wall_2c5efeb3:
 # game/characters/succubi/b/talk.rpy:142
 translate vietnamese talk_SuccubusB_wall_dd9636c7:
 
-    # me "Ahh.."
-    me "Ahh.."
+    # me "Ahh..."
+    me "Ahh..."
 
 # game/characters/succubi/b/talk.rpy:143
 translate vietnamese talk_SuccubusB_wall_251a3436:
@@ -165,8 +165,8 @@ translate vietnamese talk_SuccubusB_wall_cf6b1bdd:
 # game/characters/succubi/b/talk.rpy:154
 translate vietnamese talk_SuccubusB_wall_507eaa1d:
 
-    # succB "Ahh.. Ahh.. Yeesh~"
-    succB "Ahh.. Ahh.. Rồi ạ~"
+    # succB "Ahh... Ahh... Yeesh~"
+    succB "Ahh... Ahh... Rồi ạ~"
 
 # game/characters/succubi/b/talk.rpy:155
 translate vietnamese talk_SuccubusB_wall_f3181d23:
@@ -183,8 +183,8 @@ translate vietnamese talk_SuccubusB_cowgirl_aec7c515:
 # game/characters/succubi/b/talk.rpy:176
 translate vietnamese talk_SuccubusB_cowgirl_7573347a:
 
-    # me "What an horny bitch you are.."
-    me "Cô đúng là một con đi nứng tình mà.."
+    # me "What an horny bitch you are..."
+    me "Cô đúng là một con đi nứng tình mà..."
 
 # game/characters/succubi/b/talk.rpy:177
 translate vietnamese talk_SuccubusB_cowgirl_522d8839:
@@ -225,8 +225,8 @@ translate vietnamese talk_SuccubusB_cowgirl_cc63145f:
 # game/characters/succubi/b/talk.rpy:201
 translate vietnamese talk_SuccubusB_cowgirl_ff085947:
 
-    # me "Your pussy is perfect. It wraps around my dick in such unexplainable ways.."
-    me "Lồn của cô thật là hoàn hảo. Nó quấn quanh con cặc của tôi theo những cách không thể giải thích được.."
+    # me "Your pussy is perfect. It wraps around my dick in such unexplainable ways..."
+    me "Lồn của cô thật là hoàn hảo. Nó quấn quanh con cặc của tôi theo những cách không thể giải thích được..."
 
 # game/characters/succubi/b/talk.rpy:202
 translate vietnamese talk_SuccubusB_cowgirl_ef2479ae:
@@ -243,14 +243,14 @@ translate vietnamese talk_SuccubusB_cowgirl_08a41a27:
 # game/characters/succubi/b/talk.rpy:213
 translate vietnamese talk_SuccubusB_cowgirl_dd9636c7:
 
-    # me "Ahh.."
-    me "Ahh.."
+    # me "Ahh..."
+    me "Ahh..."
 
 # game/characters/succubi/b/talk.rpy:214
 translate vietnamese talk_SuccubusB_cowgirl_ac5a9f9a:
 
-    # me "You're going to milk me dry.."
-    me "Cô sẽ vắt kiệt tôi mất.."
+    # me "You're going to milk me dry..."
+    me "Cô sẽ vắt kiệt tôi mất..."
 
 # game/characters/succubi/b/talk.rpy:215
 translate vietnamese talk_SuccubusB_cowgirl_b971e10a:
@@ -333,8 +333,8 @@ translate vietnamese talk_SuccubusB_horse_e7a5fa96:
 # game/characters/succubi/b/talk.rpy:244
 translate vietnamese talk_SuccubusB_horse_0140b4d0:
 
-    # me "I said something.."
-    me "Tôi đã nói gì sao.."
+    # me "I said something..."
+    me "Tôi đã nói gì sao..."
 
 # game/characters/succubi/b/talk.rpy:245
 translate vietnamese talk_SuccubusB_horse_0caa0d5c:
@@ -399,8 +399,8 @@ translate vietnamese talk_SuccubusB_horse_6e50d3ef:
 # game/characters/succubi/b/talk.rpy:257
 translate vietnamese talk_SuccubusB_horse_1e89976c:
 
-    # succB "Oh.."
-    succB "Oh.."
+    # succB "Oh..."
+    succB "Oh..."
 
 # game/characters/succubi/b/talk.rpy:267
 translate vietnamese talk_SuccubusB_horse_fb5779cf:
@@ -423,8 +423,8 @@ translate vietnamese talk_SuccubusB_horse_a24e7e19:
 # game/characters/succubi/b/talk.rpy:270
 translate vietnamese talk_SuccubusB_horse_63bdc480:
 
-    # succB "I couldn't stop myself.."
-    succB "Em không thể ngăn bản thân mình.."
+    # succB "I couldn't stop myself..."
+    succB "Em không thể ngăn bản thân mình..."
 
 # game/characters/succubi/b/talk.rpy:271
 translate vietnamese talk_SuccubusB_horse_d5ad6119:
@@ -465,8 +465,8 @@ translate vietnamese talk_SuccubusB_horse_cbea37b7:
 # game/characters/succubi/b/talk.rpy:280
 translate vietnamese talk_SuccubusB_horse_319c0364:
 
-    # th "You're the perfect pet.."
-    th "Cô là thú cưng hoàn hảo.."
+    # th "You're the perfect pet..."
+    th "Cô là thú cưng hoàn hảo..."
 
 # game/characters/succubi/b/talk.rpy:281
 translate vietnamese talk_SuccubusB_horse_5506bb2f:
@@ -513,8 +513,8 @@ translate vietnamese talk_SuccubusB_horse_187bc750:
 # game/characters/succubi/b/talk.rpy:290
 translate vietnamese talk_SuccubusB_horse_6f1c613d:
 
-    # th "Fucking superpowers.."
-    th "Siêu năng lực chết tiệt.."
+    # th "Fucking superpowers..."
+    th "Siêu năng lực chết tiệt..."
 
 # game/characters/succubi/b/talk.rpy:297
 translate vietnamese talk_SuccubusB_horse_72454ccd:
@@ -525,8 +525,8 @@ translate vietnamese talk_SuccubusB_horse_72454ccd:
 # game/characters/succubi/b/talk.rpy:298
 translate vietnamese talk_SuccubusB_horse_12f705f2:
 
-    # me "What an eager thing you are.."
-    me "Cô có vẻ háo hức đấy.."
+    # me "What an eager thing you are..."
+    me "Cô có vẻ háo hức đấy..."
 
 # game/characters/succubi/b/talk.rpy:299
 translate vietnamese talk_SuccubusB_horse_c9ac8690:
@@ -885,8 +885,8 @@ translate vietnamese talk_SuccubusB_anal_missionary_050f4fbd:
 # game/characters/succubi/b/talk.rpy:449
 translate vietnamese talk_SuccubusB_anal_missionary_8b4efb19:
 
-    # me "Holy shit, if you continue moaning like that I'll cum right now.."
-    me "Chết tiệt, nếu cô tiếp tục rên rỉ như vậy tôi sẽ ra bây đấy.."
+    # me "Holy shit, if you continue moaning like that I'll cum right now..."
+    me "Chết tiệt, nếu cô tiếp tục rên rỉ như vậy tôi sẽ ra bây đấy..."
 
 # game/characters/succubi/b/talk.rpy:450
 translate vietnamese talk_SuccubusB_anal_missionary_cecf6c88:
@@ -945,8 +945,8 @@ translate vietnamese talk_SuccubusB_anal_missionary_fbe648cf:
 # game/characters/succubi/b/talk.rpy:478
 translate vietnamese talk_SuccubusB_anal_missionary_1473950f:
 
-    # succB "I'm sooo tired.."
-    succB "Em mệt quá.."
+    # succB "I'm sooo tired..."
+    succB "Em mệt quá..."
 
 # game/characters/succubi/b/talk.rpy:479
 translate vietnamese talk_SuccubusB_anal_missionary_a7e71038:
@@ -993,8 +993,8 @@ translate vietnamese talk_SuccubusB_anal_missionary_166d9144_1:
 # game/characters/succubi/b/talk.rpy:497
 translate vietnamese talk_SuccubusB_anal_missionary_1473950f_1:
 
-    # succB "I'm sooo tired.."
-    succB "Em mệt quá.."
+    # succB "I'm sooo tired..."
+    succB "Em mệt quá..."
 
 # game/characters/succubi/b/talk.rpy:498
 translate vietnamese talk_SuccubusB_anal_missionary_a7e71038_1:
@@ -1083,14 +1083,14 @@ translate vietnamese talk_SuccubusB_end_6e50d3ef:
 # game/characters/succubi/b/talk.rpy:551
 translate vietnamese talk_SuccubusB_end_16bc2011:
 
-    # succB "Ohh.. Sorry for asking, [succB_master]."
-    succB "Ohh.. Em xin lỗi [succB_master] vì đã hỏi những câu thừa thãi."
+    # succB "Ohh... Sorry for asking, [succB_master]."
+    succB "Ohh... Em xin lỗi [succB_master] vì đã hỏi những câu thừa thãi."
 
 # game/characters/succubi/b/talk.rpy:564
 translate vietnamese talk_SuccubusB_end_cell_3cf182fa:
 
-    # me "Shit, that was good.."
-    me "Đù, vừa rồi tuyệt thật đấy.."
+    # me "Shit, that was good..."
+    me "Đù, vừa rồi tuyệt thật đấy..."
 
 # game/characters/succubi/b/talk.rpy:565
 translate vietnamese talk_SuccubusB_end_cell_67c81e88:
@@ -1125,14 +1125,14 @@ translate vietnamese talk_SuccubusB_end_cell_52cb4df9:
 # game/characters/succubi/b/talk.rpy:580
 translate vietnamese talk_SuccubusB_end_cell_b75c956d:
 
-    # succB "I-I will cry.."
-    succB "E-Em sẽ khóc đấy.."
+    # succB "I-I will cry..."
+    succB "E-Em sẽ khóc đấy..."
 
 # game/characters/succubi/b/talk.rpy:581
 translate vietnamese talk_SuccubusB_end_cell_8c8784e0:
 
-    # me "Don't you dare to cry.."
-    me "Có dám khóc không.."
+    # me "Don't you dare to cry..."
+    me "Có dám khóc không..."
 
 # game/characters/succubi/b/talk.rpy:586
 translate vietnamese talk_SuccubusB_end_cell_d3604080:
@@ -1155,8 +1155,8 @@ translate vietnamese talk_SuccubusB_end_cell_cc93ce23:
 # game/characters/succubi/b/talk.rpy:595
 translate vietnamese talk_SuccubusB_end_cell_209113b4:
 
-    # succB "Buut.."
-    succB "Nhưngg.."
+    # succB "Buut..."
+    succB "Nhưngg..."
 
 # game/characters/succubi/b/talk.rpy:596
 translate vietnamese talk_SuccubusB_end_cell_47f414c6:

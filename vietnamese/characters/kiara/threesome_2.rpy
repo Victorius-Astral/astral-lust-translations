@@ -39,7 +39,7 @@ translate vietnamese kiara_threesome_2_slow_3820771a:
 # game/characters/kiara/threesome_2.rpy:78
 translate vietnamese kiara_threesome_2_slow_65cb1d62:
 
-    # th "I feel my clone's dick ravaging her insides.."
+    # th "I feel my clone's dick ravaging her insides..."
     th "Mình cảm thấy cặc của bản sao mình đang quẩy nát bên trong của cô ấy..."
 
 # game/characters/kiara/threesome_2.rpy:79
@@ -147,8 +147,8 @@ translate vietnamese kiara_threesome_2_before_02d8cc35:
 # game/characters/kiara/threesome_2.rpy:106
 translate vietnamese kiara_threesome_2_before_dd9636c7:
 
-    # me "Ahh.."
-    me "Ahh.."
+    # me "Ahh..."
+    me "Ahh..."
 
 # game/characters/kiara/threesome_2.rpy:107
 translate vietnamese kiara_threesome_2_before_0d1c51dc:
@@ -159,7 +159,7 @@ translate vietnamese kiara_threesome_2_before_0d1c51dc:
 # game/characters/kiara/threesome_2.rpy:108
 translate vietnamese kiara_threesome_2_before_09108bf9:
 
-    # me "Oh my.. Is that how you ask for a favor?"
+    # me "Oh my... Is that how you ask for a favor?"
     me "Đấy là cách mà cô xin xỏ một ai đó sao?"
 
 # game/characters/kiara/threesome_2.rpy:109
@@ -195,7 +195,7 @@ translate vietnamese kiara_threesome_2_cum_0bdc9f23:
 # game/characters/kiara/threesome_2.rpy:124
 translate vietnamese kiara_threesome_2_cum_5f84a6e4:
 
-    # me "Holy.. That was amazing.."
+    # me "Holy... That was amazing..."
     me "Vãi thật..."
 
 # game/characters/kiara/threesome_2.rpy:125
@@ -207,7 +207,7 @@ translate vietnamese kiara_threesome_2_cum_d3ad2610:
 # game/characters/kiara/threesome_2.rpy:126
 translate vietnamese kiara_threesome_2_cum_6f1fa474:
 
-    # me "Yeah.."
+    # me "Yeah..."
     me "Ừ..."
 
 # game/characters/kiara/threesome_2.rpy:130
@@ -225,7 +225,7 @@ translate vietnamese kiara_threesome_2_cum_a9c0b687:
 # game/characters/kiara/threesome_2.rpy:132
 translate vietnamese kiara_threesome_2_cum_1969c06a:
 
-    # me "Oh.. These powers are really wonderful, disturbing, though."
+    # me "Oh... These powers are really wonderful, disturbing, though."
     me "Oh... mấy cái sức mạnh này thực sự rất tuyệt vời đấy, nhưng cũng thật đáng lo ngại."
 
 # game/characters/kiara/threesome_2.rpy:133
@@ -237,7 +237,7 @@ translate vietnamese kiara_threesome_2_cum_c09f80fe:
 # game/characters/kiara/threesome_2.rpy:137
 translate vietnamese kiara_threesome_2_cum_b08ba555:
 
-    # me "Aye.. I'm so tired now."
+    # me "Aye... I'm so tired now."
     me "Aye... bây giờ tôi mệt quá."
 
 # game/characters/kiara/threesome_2.rpy:138
@@ -255,7 +255,7 @@ translate vietnamese kiara_threesome_2_cum_e4c94148:
 # game/characters/kiara/threesome_2.rpy:140
 translate vietnamese kiara_threesome_2_cum_e79dc12c:
 
-    # kiara "I feel good.."
+    # kiara "I feel good..."
     kiara "Tôi rất rất tốt..."
 
 # game/characters/kiara/threesome_2.rpy:141
@@ -285,7 +285,7 @@ translate vietnamese kiara_threesome_2_cum_6a316fd6:
 # game/characters/kiara/threesome_2.rpy:145
 translate vietnamese kiara_threesome_2_cum_a4d07821:
 
-    # me "Such a mess.."
+    # me "Such a mess..."
     me "Đúng là một mớ hỗn độn..."
 
 # game/characters/kiara/threesome_2.rpy:146
@@ -303,7 +303,7 @@ translate vietnamese kiara_threesome_2_cum_09a75097:
 # game/characters/kiara/threesome_2.rpy:148
 translate vietnamese kiara_threesome_2_cum_133d1f5a:
 
-    # kiara "I will use my powers to clean us in a while.. Just let me rest a little."
+    # kiara "I will use my powers to clean us in a while... Just let me rest a little."
     kiara "Tôi sẽ dùng sức mạnh của mình để dọn đống này sau... để tôi nghỉ một lát đã."
 
 # game/characters/kiara/threesome_2.rpy:149

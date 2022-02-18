@@ -69,8 +69,8 @@ translate vietnamese task_lexi_caps_9c6189eb:
 # game/characters/lexi/tasks.rpy:31
 translate vietnamese task_lexi_caps_565401ff:
 
-    # lexi "I hope so.. I've risked my life to get them, don't squander it."
-    lexi "Em mong là vậy.. Em đã liều mạng để có được chúng, đừng lãng phí nó."
+    # lexi "I hope so... I've risked my life to get them, don't squander it."
+    lexi "Em mong là vậy... Em đã liều mạng để có được chúng, đừng lãng phí nó."
 
 # game/characters/lexi/tasks.rpy:32
 translate vietnamese task_lexi_caps_19318273:
@@ -88,6 +88,6 @@ translate vietnamese task_lexi_caps_26b4c7d7:
 # game/characters/lexi/tasks.rpy:31
 translate vietnamese task_lexi_caps_f3aeaaea:
 
-    # lexi "I hope so.. I have risked my life to get them, don't squander it."
-    lexi "I hope so.. I have risked my life to get them, don't squander it."
+    # lexi "I hope so... I have risked my life to get them, don't squander it."
+    lexi "I hope so... I have risked my life to get them, don't squander it."
 

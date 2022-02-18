@@ -27,8 +27,8 @@ translate vietnamese lola_pilediver_slow_ea7da3b8:
 # game/characters/lola/pilediver.rpy:40
 translate vietnamese lola_pilediver_slow_f349ddb1:
 
-    # me "We have just started, and you're screaming already. You're such a whore, [lola].."
-    me "Chúng tA chỉ mới bắt đầu, mà cô đã hét lên rồi. Cô đúng là một con điếm, [lola].."
+    # me "We have just started, and you're screaming already. You're such a whore, [lola]..."
+    me "Chúng tA chỉ mới bắt đầu, mà cô đã hét lên rồi. Cô đúng là một con điếm, [lola]..."
 
 # game/characters/lola/pilediver.rpy:41
 translate vietnamese lola_pilediver_slow_39540525:
@@ -39,8 +39,8 @@ translate vietnamese lola_pilediver_slow_39540525:
 # game/characters/lola/pilediver.rpy:42
 translate vietnamese lola_pilediver_slow_b273d15b:
 
-    # me "Ah.."
-    me "Ah.."
+    # me "Ah..."
+    me "Ah..."
 
 # game/characters/lola/pilediver.rpy:43
 translate vietnamese lola_pilediver_slow_f5d5063f:
@@ -93,8 +93,8 @@ translate vietnamese lola_pilediver_before_8688b6e8:
 # game/characters/lola/pilediver.rpy:110
 translate vietnamese lola_pilediver_before_5fe38c70:
 
-    # th "I wouldn't last long like this.."
-    th "Mình sẽ đéo trụ được lâu như thế này.."
+    # th "I wouldn't last long like this..."
+    th "Mình sẽ đéo trụ được lâu như thế này..."
 
 # game/characters/lola/pilediver.rpy:111
 translate vietnamese lola_pilediver_before_70c63138:
@@ -135,8 +135,8 @@ translate vietnamese lola_pilediver_cum_750552df:
 # game/characters/lola/pilediver.rpy:153
 translate vietnamese lola_pilediver_cum_923ee457:
 
-    # lola "It was, nice. But now.."
-    lola "Vừa rồi rất tuyệt. Nhưng bây giờ.."
+    # lola "It was, nice. But now..."
+    lola "Vừa rồi rất tuyệt. Nhưng bây giờ..."
 
 # game/characters/lola/pilediver.rpy:154
 translate vietnamese lola_pilediver_cum_fb84d666:
@@ -153,14 +153,14 @@ translate vietnamese lola_pilediver_cum_0af6c5a8:
 # game/characters/lola/pilediver.rpy:156
 translate vietnamese lola_pilediver_cum_b905d5cc:
 
-    # me "Ahh.. fine.. let me put my clothes on.."
-    me "Ahh.. được thôi.. để tôi mặc quần áo vào.."
+    # me "Ahh... fine... let me put my clothes on..."
+    me "Ahh... được thôi... để tôi mặc quần áo vào..."
 
 # game/characters/lola/pilediver.rpy:159
 translate vietnamese lola_pilediver_cum_96a9dcb6:
 
-    # me "Again.. What a girl she is."
-    me "Lại nữa.. đúng là 1 cô gái kỳ là."
+    # me "Again... What a girl she is."
+    me "Lại nữa... đúng là 1 cô gái kỳ là."
 # TODO: Translation updated at 2022-02-06 08:10
 
 # game/characters/lola/pilediver.rpy:43

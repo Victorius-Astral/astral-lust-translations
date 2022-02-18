@@ -27,7 +27,7 @@ translate vietnamese change_grace_c5227f7a:
 # game/characters/grace/change.rpy:21
 translate vietnamese change_grace_6a5028be:
 
-    # "I wish to touch her all over now.."
+    # "I wish to touch her all over now..."
     "Mình ước được chạm vào em ấy ngay bây giờ..."
 
 # game/characters/grace/change.rpy:36
@@ -39,7 +39,7 @@ translate vietnamese change_grace_ccadd33d:
 # game/characters/grace/change.rpy:41
 translate vietnamese change_grace_476e7034:
 
-    # th "I'm about to get caught red handed, surprisingly it turns me on.."
+    # th "I'm about to get caught red handed, surprisingly it turns me on..."
     th "Mình sắp bị bắt quả tang, nhưng ngạc nhiên là nó còn khiến mình hứng lên mới sợ chứ..."
 
 # game/characters/grace/change.rpy:44
@@ -63,7 +63,7 @@ translate vietnamese change_grace_a586c671:
 # game/characters/grace/change.rpy:52
 translate vietnamese change_grace_1d37c456:
 
-    # grace "I-It must feel good.."
+    # grace "I-It must feel good..."
     grace "C-Chắc sẽ có cảm giác tốt lắm..."
 
 # game/characters/grace/change.rpy:53
@@ -117,7 +117,7 @@ translate vietnamese change_grace_5cdebf03:
 # game/characters/grace/change.rpy:71
 translate vietnamese change_grace_3d15e6fb:
 
-    # grace "I was wrong about you.."
+    # grace "I was wrong about you..."
     grace "Em đã lầm về anh rồi..."
 
 # game/characters/grace/change.rpy:72
@@ -141,7 +141,7 @@ translate vietnamese change_grace_908322bc:
 # game/characters/grace/change.rpy:77
 translate vietnamese change_grace_1fe1b689:
 
-    # grace "Hmm.."
+    # grace "Hmm..."
     grace "Hmm..."
 
 # game/characters/grace/change.rpy:81
@@ -165,7 +165,7 @@ translate vietnamese change_grace_43752ac2:
 # game/characters/grace/change.rpy:87
 translate vietnamese change_grace_ea30b105:
 
-    # grace "Oh! I see.."
+    # grace "Oh! I see..."
     grace "Oh! Em hiểu rồi..."
 
 # game/characters/grace/change.rpy:90
@@ -225,8 +225,8 @@ translate vietnamese change_grace_6541d9dd:
 # game/characters/grace/change.rpy:110
 translate vietnamese change_grace_4989fe05:
 
-    # me "I.."
-    me "A.."
+    # me "I..."
+    me "A..."
 
 # game/characters/grace/change.rpy:113
 translate vietnamese change_grace_6496b235:
@@ -249,7 +249,7 @@ translate vietnamese change_grace_7ac05c73:
 # game/characters/grace/change.rpy:122
 translate vietnamese change_grace_406a8d31:
 
-    # me "Wait! I.."
+    # me "Wait! I..."
     me "Đợi đã! Anh..."
 
 # game/characters/grace/change.rpy:123

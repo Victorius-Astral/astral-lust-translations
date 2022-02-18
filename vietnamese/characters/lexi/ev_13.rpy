@@ -21,8 +21,8 @@ translate vietnamese lexi_13_ed6c3713:
 # game/characters/lexi/ev_13.rpy:21
 translate vietnamese lexi_13_4436d4fa:
 
-    # lexi "Hmm.."
-    lexi "Hmm.."
+    # lexi "Hmm..."
+    lexi "Hmm..."
 
 # game/characters/lexi/ev_13.rpy:25
 translate vietnamese lexi_13_67a26cda:
@@ -75,8 +75,8 @@ translate vietnamese lexi_13_4aafb1cf:
 # game/characters/lexi/ev_13.rpy:36
 translate vietnamese lexi_13_85a526eb:
 
-    # me "Haha.. Sure, you can ask them."
-    me "Haha.. Chắc chắn rồi, em có thể hỏi họ."
+    # me "Haha... Sure, you can ask them."
+    me "Haha... Chắc chắn rồi, em có thể hỏi họ."
 
 # game/characters/lexi/ev_13.rpy:37
 translate vietnamese lexi_13_265a0424:
@@ -249,8 +249,8 @@ translate vietnamese lexi_13_hostage_93d62226:
 # game/characters/lexi/ev_13.rpy:124
 translate vietnamese lexi_13_hostage_43534c77:
 
-    # lexi "Uh.."
-    lexi "Uh.."
+    # lexi "Uh..."
+    lexi "Uh..."
 
 # game/characters/lexi/ev_13.rpy:125
 translate vietnamese lexi_13_hostage_2a6aef3b:
@@ -315,8 +315,8 @@ translate vietnamese lexi_13_hostage_cecc8475:
 # game/characters/lexi/ev_13.rpy:140
 translate vietnamese lexi_13_hostage_779320d1:
 
-    # bandit "Thank God.."
-    bandit "Cảm ơn chúa.."
+    # bandit "Thank God..."
+    bandit "Cảm ơn chúa..."
 
 # game/characters/lexi/ev_13.rpy:144
 translate vietnamese lexi_13_hostage_b599a838:
@@ -399,8 +399,8 @@ translate vietnamese lexi_13_hostage_7c24eab8:
 # game/characters/lexi/ev_13.rpy:176
 translate vietnamese lexi_13_hostage_bffe34ab:
 
-    # bandit "Ahh.."
-    bandit "Ahh.."
+    # bandit "Ahh..."
+    bandit "Ahh..."
 
 # game/characters/lexi/ev_13.rpy:180
 translate vietnamese lexi_13_hostage_27fc8a4e:
@@ -411,8 +411,8 @@ translate vietnamese lexi_13_hostage_27fc8a4e:
 # game/characters/lexi/ev_13.rpy:189
 translate vietnamese lexi_13_win_b273d15b:
 
-    # me "Ah.."
-    me "Ah.."
+    # me "Ah..."
+    me "Ah..."
 
 # game/characters/lexi/ev_13.rpy:190
 translate vietnamese lexi_13_win_9218b92d:
@@ -549,8 +549,8 @@ translate vietnamese lexi_13_lose_c819c3f2:
 # game/characters/lexi/ev_13.rpy:247
 translate vietnamese lexi_13_lose_8a63a88f:
 
-    # lexi "Wake up! [me]! You're too heavy.. You made me do this.."
-    lexi "Dậy đi! [me]! Anh quá nặng.. Anh đã bắt em làm điều này.."
+    # lexi "Wake up! [me]! You're too heavy... You made me do this..."
+    lexi "Dậy đi! [me]! Anh quá nặng... Anh đã bắt em làm điều này..."
 
 # game/characters/lexi/ev_13.rpy:248
 translate vietnamese lexi_13_lose_20c73366:
@@ -639,8 +639,8 @@ translate vietnamese lexi_13_lose_0fcd93cc:
 # game/characters/lexi/ev_13.rpy:265
 translate vietnamese lexi_13_lose_a480b1b4:
 
-    # me "I've had worse days.."
-    me "Anh đã có những ngày tồi tệ hơn.."
+    # me "I've had worse days..."
+    me "Anh đã có những ngày tồi tệ hơn..."
 
 # game/characters/lexi/ev_13.rpy:266
 translate vietnamese lexi_13_lose_20587903:
@@ -657,8 +657,8 @@ translate vietnamese lexi_13_lose_ecd768ba:
 # game/characters/lexi/ev_13.rpy:268
 translate vietnamese lexi_13_lose_b1584052:
 
-    # me "Let me stand up.."
-    me "Để anh đứng lên đã.."
+    # me "Let me stand up..."
+    me "Để anh đứng lên đã..."
 
 # game/characters/lexi/ev_13.rpy:272
 translate vietnamese lexi_13_lose_4795404f:

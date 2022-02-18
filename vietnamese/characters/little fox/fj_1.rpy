@@ -21,8 +21,8 @@ translate vietnamese lil_fox_fj_1_17edc541:
 # game/characters/little fox/fj_1.rpy:44
 translate vietnamese lil_fox_fj_1_ea70007b:
 
-    # lil_fox "I guess.."
-    lil_fox "Em đoán vậy.."
+    # lil_fox "I guess..."
+    lil_fox "Em đoán vậy..."
 
 # game/characters/little fox/fj_1.rpy:49
 translate vietnamese lil_fox_fj_1_c22ee6fa:
@@ -57,8 +57,8 @@ translate vietnamese lil_fox_fj_1_slow_155ce7e0:
 # game/characters/little fox/fj_1.rpy:119
 translate vietnamese lil_fox_fj_1_slow_fc221c36:
 
-    # me "Good.. Keep going."
-    me "Tốt.. tiếp tục đi."
+    # me "Good... Keep going."
+    me "Tốt... tiếp tục đi."
 
 # game/characters/little fox/fj_1.rpy:120
 translate vietnamese lil_fox_fj_1_slow_b3261d58:
@@ -75,8 +75,8 @@ translate vietnamese lil_fox_fj_1_fast_b5417079:
 # game/characters/little fox/fj_1.rpy:127
 translate vietnamese lil_fox_fj_1_fast_b9fb3f90:
 
-    # me "Shit. That's nice.. Two is better than one."
-    me "Đù. Tuyệt thật.. Hai vẫn tốt hơn một."
+    # me "Shit. That's nice... Two is better than one."
+    me "Đù. Tuyệt thật... Hai vẫn tốt hơn một."
 
 # game/characters/little fox/fj_1.rpy:128
 translate vietnamese lil_fox_fj_1_fast_9ba05c29:
@@ -112,7 +112,7 @@ translate vietnamese lil_fox_fj_1_before_fadff2bd:
 translate vietnamese lil_fox_fj_1_cum_9bc2efc6:
 
     # "It didn't take long for you to cum under [lil_fox] care."
-    "Không mất nhiều thời gian để bạn ra dưới sự chăm sóc của cáo nhỏ."
+    "Không mất nhiều thời gian để bạn ra dưới sự chăm sóc của Tiểu Cáo."
 
 # game/characters/little fox/fj_1.rpy:146
 translate vietnamese lil_fox_fj_1_cum_a748525f:
@@ -165,8 +165,8 @@ translate vietnamese lil_fox_fj_1_cum_8b90054d:
 # game/characters/little fox/fj_1.rpy:166
 translate vietnamese lil_fox_fj_1_cum_edb09b5e:
 
-    # me "Well, enjoy your.. meal."
-    me "Chà, hãy tận hưởng.. bữa ăn của em."
+    # me "Well, enjoy your... meal."
+    me "Chà, hãy tận hưởng... bữa ăn của em."
 
 # game/characters/little fox/fj_1.rpy:167
 translate vietnamese lil_fox_fj_1_cum_ca30c183:
@@ -192,4 +192,3 @@ translate vietnamese lil_fox_fj_1_cum_8268cc1e:
 
     # lil_fox "It's fun. Not much food, though. You need to work harder next time."
     lil_fox "It's fun. Not much food, though. You need to work harder next time."
-

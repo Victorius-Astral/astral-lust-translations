@@ -189,8 +189,8 @@ translate vietnamese speak_mina_menu1_016b9631:
 # game/characters/mina/speak.rpy:125
 translate vietnamese speak_mina_menu1_f76ed5c9:
 
-    # mina "Oh.. What do you want to know then?"
-    mina "Oh.. Vậy anh muốn biết gì nào?"
+    # mina "Oh... What do you want to know then?"
+    mina "Oh... Vậy anh muốn biết gì nào?"
 
 # game/characters/mina/speak.rpy:130
 translate vietnamese speak_mina_menu2_0a00019b:
@@ -201,8 +201,8 @@ translate vietnamese speak_mina_menu2_0a00019b:
 # game/characters/mina/speak.rpy:132
 translate vietnamese speak_mina_menu2_f7b17ee3:
 
-    # mina "Hmmm.. It's hard to say."
-    mina "Hmmm.. Nó khá khó để nói."
+    # mina "Hmmm... It's hard to say."
+    mina "Hmmm... Nó khá khó để nói."
 
 # game/characters/mina/speak.rpy:133
 translate vietnamese speak_mina_menu2_1f877649:
@@ -237,8 +237,8 @@ translate vietnamese speak_mina_menu2_863905d4:
 # game/characters/mina/speak.rpy:144
 translate vietnamese speak_mina_menu2_6bb32179:
 
-    # mina "Advice, huh.."
-    mina "Lời khuyên hả.."
+    # mina "Advice, huh..."
+    mina "Lời khuyên hả..."
 
 # game/characters/mina/speak.rpy:145
 translate vietnamese speak_mina_menu2_007430cb:
@@ -291,8 +291,8 @@ translate vietnamese speak_mina_menu2_4eb1151c:
 # game/characters/mina/speak.rpy:166
 translate vietnamese speak_mina_menu2_78c9ed15:
 
-    # me "Thanks but I wanted to know a little more.."
-    me "Cảm ơn nhưng anh muốn biết thêm một chút.."
+    # me "Thanks but I wanted to know a little more..."
+    me "Cảm ơn nhưng anh muốn biết thêm một chút..."
 
 # game/characters/mina/speak.rpy:168
 translate vietnamese speak_mina_menu2_f4cb60de_1:
@@ -339,8 +339,8 @@ translate vietnamese speak_mina_menu2_9b861473:
 # game/characters/mina/speak.rpy:178
 translate vietnamese speak_mina_menu2_2db64530:
 
-    # me "About yo.."
-    me "Về e.."
+    # me "About yo..."
+    me "Về e..."
 
 # game/characters/mina/speak.rpy:179
 translate vietnamese speak_mina_menu2_81eabb1f:
@@ -477,8 +477,8 @@ translate vietnamese speak_mina_tasks_69ca5f52:
 # game/characters/mina/speak.rpy:270
 translate vietnamese speak_mina_question_jack_f4dbb399:
 
-    # mina "He was ok, I guess.."
-    mina "Anh ấy cũng ổn, em đoán vậy.."
+    # mina "He was ok, I guess..."
+    mina "Anh ấy cũng ổn, em đoán vậy..."
 
 # game/characters/mina/speak.rpy:271
 translate vietnamese speak_mina_question_jack_33756c37:
@@ -507,8 +507,8 @@ translate vietnamese speak_mina_question_jack_15c11117:
 # game/characters/mina/speak.rpy:275
 translate vietnamese speak_mina_question_jack_aaf0fee5:
 
-    # mina "By accident.. Anyway, it was just a vase, but I thought I would piss him off with that for sure."
-    mina "Tai nạn thôi.. Dù sao thì nó cũng chỉ là một cái bình, nhưng em nghĩ chắc chắn mình sẽ chọc tức anh ấy với việc đó."
+    # mina "By accident... Anyway, it was just a vase, but I thought I would piss him off with that for sure."
+    mina "Tai nạn thôi... Dù sao thì nó cũng chỉ là một cái bình, nhưng em nghĩ chắc chắn mình sẽ chọc tức anh ấy với việc đó."
 
 # game/characters/mina/speak.rpy:279
 translate vietnamese speak_mina_question_jack_0b90242f:

@@ -105,8 +105,8 @@ translate vietnamese exp_market_menu_fae92040:
 # game/events/explore/market.rpy:91
 translate vietnamese exp_market_menu_0d611807:
 
-    # "You hear movement behind you and turn around.. "
-    "Bạn nghe thấy tiếng chuyển động phía sau và quay lại.. "
+    # "You hear movement behind you and turn around... "
+    "Bạn nghe thấy tiếng chuyển động phía sau và quay lại... "
 
 # game/events/explore/market.rpy:93
 translate vietnamese exp_market_menu_de06e8d3:
@@ -123,8 +123,8 @@ translate vietnamese exp_market_menu_e58d954d:
 # game/events/explore/market.rpy:97
 translate vietnamese exp_market_menu_9001de48:
 
-    # th "Looks like fighting is the only option.."
-    th "Có vẻ như chiến đấu là lựa chọn duy nhất.."
+    # th "Looks like fighting is the only option..."
+    th "Có vẻ như chiến đấu là lựa chọn duy nhất..."
 
 # game/events/explore/market.rpy:104
 translate vietnamese exp_market_menu_60bccea8:

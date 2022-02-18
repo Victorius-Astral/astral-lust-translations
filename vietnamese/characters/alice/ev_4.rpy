@@ -9,7 +9,7 @@ translate vietnamese alice_4_131c6a3a:
 # game/characters/alice/ev_4.rpy:10
 translate vietnamese alice_4_3a514469:
 
-    # th "What is going on? It feels so nice.."
+    # th "What is going on? It feels so nice..."
     th "Cái gì đang xảy ra vậy? Phê quá..."
 
 # game/characters/alice/ev_4.rpy:22
@@ -63,7 +63,7 @@ translate vietnamese alice_4_c5a013b4:
 # game/characters/alice/ev_4.rpy:34
 translate vietnamese alice_4_fea5e951:
 
-    # me "Hey [alice].."
+    # me "Hey [alice]..."
     me "Hế lu [alice]."
 
 # game/characters/alice/ev_4.rpy:37
@@ -129,7 +129,7 @@ translate vietnamese alice_4_1_c00df9d9:
 # game/characters/alice/ev_4.rpy:56
 translate vietnamese alice_4_1_fd29b35c:
 
-    # me "Nnngh.."
+    # me "Nnngh..."
     me "Nnngh..."
 
 # game/characters/alice/ev_4.rpy:57
@@ -141,7 +141,7 @@ translate vietnamese alice_4_1_77cf2f99:
 # game/characters/alice/ev_4.rpy:58
 translate vietnamese alice_4_1_aeddd870:
 
-    # me "Ohhh.."
+    # me "Ohhh..."
     me "Ohh..."
 
 # game/characters/alice/ev_4.rpy:59
@@ -231,7 +231,7 @@ translate vietnamese alice_4_1_b14c49f7:
 # game/characters/alice/ev_4.rpy:90
 translate vietnamese alice_4_1_409ae55d:
 
-    # th "She can play with me like that more.. like everyday."
+    # th "She can play with me like that more... like everyday."
     th "Em ấy có thể chơi đùa với mình như vậy nhiều hơn... mỗi ngày cũng được."
 
 # game/characters/alice/ev_4.rpy:97
@@ -255,7 +255,7 @@ translate vietnamese alice_4_1_b14c49f7_1:
 # game/characters/alice/ev_4.rpy:101
 translate vietnamese alice_4_1_c0b9b273:
 
-    # th "She can play with me like that more.. like every day."
+    # th "She can play with me like that more... like every day."
     th "Em ấy có thể chơi đùa với mình như vậy nhiều hơn... mỗi ngày."
 
 translate vietnamese strings:

@@ -58,7 +58,7 @@ translate vietnamese speak_lexi_menu1_6d1b0c17:
 translate vietnamese speak_lexi_menu1_c6c040eb:
 
     # lexi "Yes, but many of the dangers outside are beyond what numbers can help to overcome. In a situation like that, just more of us would die. If I die alone, there will still be someone to go out to gather food."
-    lexi "Có, nhưng có nhiều mối nguy hiểm bên ngoài nằm ngoài mà những con số không có tác dụng gì cả. Trong tình huống như vậy, chỉ có nhiều người sẽ chết. Chết một mình thì vẫn có người khác đi kiếm đồ ăn.."
+    lexi "Có, nhưng có nhiều mối nguy hiểm bên ngoài nằm ngoài mà những con số không có tác dụng gì cả. Trong tình huống như vậy, chỉ có nhiều người sẽ chết. Chết một mình thì vẫn có người khác đi kiếm đồ ăn..."
 
 # game/characters/lexi/speak.rpy:59
 translate vietnamese speak_lexi_menu1_b2c681a5:
@@ -207,8 +207,8 @@ translate vietnamese speak_lexi_menu1_cc9b06cd:
 # game/characters/lexi/speak.rpy:134
 translate vietnamese speak_lexi_menu1_5b7bb2e7:
 
-    # lexi ".. Fine, but let's go to your room."
-    lexi ".. Tốt thôi, nhưng chúng ta hãy về phòng của anh."
+    # lexi "... Fine, but let's go to your room."
+    lexi "... Tốt thôi, nhưng chúng ta hãy về phòng của anh."
 
 # game/characters/lexi/speak.rpy:135
 translate vietnamese speak_lexi_menu1_d59a6b9a:
@@ -243,8 +243,8 @@ translate vietnamese speak_lexi_menu1_7be108b9:
 # game/characters/lexi/speak.rpy:172
 translate vietnamese speak_lexi_menu2_13ac2853:
 
-    # lexi "Weeeell.. have you seen any stockpiles around here?"
-    lexi "Weeeell.. anh có thấy kho dự trữ nào quanh đây không?"
+    # lexi "Weeeell... have you seen any stockpiles around here?"
+    lexi "Weeeell... anh có thấy kho dự trữ nào quanh đây không?"
 
 # game/characters/lexi/speak.rpy:173
 translate vietnamese speak_lexi_menu2_0e4a430c:
@@ -291,8 +291,8 @@ translate vietnamese speak_lexi_menu2_030ee7ce:
 # game/characters/lexi/speak.rpy:182
 translate vietnamese speak_lexi_menu2_89519497:
 
-    # lexi "He went outside about a week before you appeared.. He never came back.."
-    lexi "Anh ấy đã đi ra ngoài khoảng một tuần trước khi anh xuất hiện .. Anh ấy đã không bao giờ trở lại.."
+    # lexi "He went outside about a week before you appeared... He never came back..."
+    lexi "Anh ấy đã đi ra ngoài khoảng một tuần trước khi anh xuất hiện ... Anh ấy đã không bao giờ trở lại..."
 
 # game/characters/lexi/speak.rpy:183
 translate vietnamese speak_lexi_menu2_49584483:
@@ -309,8 +309,8 @@ translate vietnamese speak_lexi_menu2_c2d24491:
 # game/characters/lexi/speak.rpy:190
 translate vietnamese speak_lexi_menu2_7229f95d:
 
-    # lexi "I was attending school. I didn't like studying, and I thought my life was hard.. How naïve was I.."
-    lexi "Em đi học nhưng. Em không thích học, và em nghĩ cuộc sống của mình thật khó khăn.. Em thật ngây thơ làm sao.."
+    # lexi "I was attending school. I didn't like studying, and I thought my life was hard... How naïve was I..."
+    lexi "Em đi học nhưng. Em không thích học, và em nghĩ cuộc sống của mình thật khó khăn... Em thật ngây thơ làm sao..."
 
 # game/characters/lexi/speak.rpy:192
 translate vietnamese speak_lexi_menu2_5758e325:
@@ -327,8 +327,8 @@ translate vietnamese speak_lexi_menu2_84b208ec:
 # game/characters/lexi/speak.rpy:194
 translate vietnamese speak_lexi_menu2_b632995b:
 
-    # me "Oh.. I thought you were older."
-    me "Oh.. Anh nghĩ là em phải lớn tuổi hơn cơ."
+    # me "Oh... I thought you were older."
+    me "Oh... Anh nghĩ là em phải lớn tuổi hơn cơ."
 
 # game/characters/lexi/speak.rpy:196
 translate vietnamese speak_lexi_menu2_8c4d0a5b:
@@ -357,14 +357,14 @@ translate vietnamese speak_lexi_menu2_24c45420:
 # game/characters/lexi/speak.rpy:202
 translate vietnamese speak_lexi_menu2_a2ec882c:
 
-    # lexi "Men.. Not all schoolgirls are naïve and stupid, running around in school uniforms."
-    lexi ".. Không phải tất cả các nữ sinh đều ngây thơ và ngốc nghếch, chạy lăng xăng trong bộ đồng phục học sinh đâu."
+    # lexi "Men... Not all schoolgirls are naïve and stupid, running around in school uniforms."
+    lexi "... Không phải tất cả các nữ sinh đều ngây thơ và ngốc nghếch, chạy lăng xăng trong bộ đồng phục học sinh đâu."
 
 # game/characters/lexi/speak.rpy:203
 translate vietnamese speak_lexi_menu2_e46c5020:
 
-    # me "That's not what I mea.."
-    me "Ý anh không phải vậ.."
+    # me "That's not what I mea..."
+    me "Ý anh không phải vậ..."
 
 # game/characters/lexi/speak.rpy:205
 translate vietnamese speak_lexi_menu2_519c5cee:
@@ -453,8 +453,8 @@ translate vietnamese strings:
     new "Đi hẹn hò nào {gold}(Cốt truyện){/gold}"
 
     # game/characters/lexi/speak.rpy:12
-    old "Are you.. alright? {gold}(Story){/gold}"
-    new "Em.. ổn chứ? {gold}(Cốt truyện){/gold}"
+    old "Are you... alright? {gold}(Story){/gold}"
+    new "Em... ổn chứ? {gold}(Cốt truyện){/gold}"
 
     # game/characters/lexi/speak.rpy:12
     old "Ask if she is alright {gold}(Story){/gold}"

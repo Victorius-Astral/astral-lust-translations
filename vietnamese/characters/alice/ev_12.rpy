@@ -27,7 +27,7 @@ translate vietnamese alice_12_f89e8bff:
 # game/characters/alice/ev_12.rpy:12
 translate vietnamese alice_12_e347eb66:
 
-    # me "Good morning.."
+    # me "Good morning..."
     me "Chào buổi sáng..."
 
 # game/characters/alice/ev_12.rpy:15
@@ -69,13 +69,13 @@ translate vietnamese alice_12_8668261b:
 # game/characters/alice/ev_12.rpy:27
 translate vietnamese alice_12_c751b58c:
 
-    # alice "I'm cuttttte, don't you even try to deny it.."
+    # alice "I'm cuttttte, don't you even try to deny it..."
     alice "Em rất dễ thương, và đừng có cố phủ nhận nó..."
 
 # game/characters/alice/ev_12.rpy:31
 translate vietnamese alice_12_61f9dc7d:
 
-    # me "I don't know.. Grace is quite cute, but you.. meh."
+    # me "I don't know... Grace is quite cute, but you... meh."
     me "Anh không biết nữa... Grace khá dễ thương, nhưng em thì... mà thôi."
 
 # game/characters/alice/ev_12.rpy:34
@@ -117,7 +117,7 @@ translate vietnamese alice_12_c097f153:
 # game/characters/alice/ev_12.rpy:46
 translate vietnamese alice_12_a63a02f8:
 
-    # alice ".. You're such a bother.."
+    # alice "... You're such a bother..."
     alice "...Anh thật là phiền phức..."
 
 # game/characters/alice/ev_12.rpy:47
@@ -261,7 +261,7 @@ translate vietnamese alice_12_part2_b7c2dda8:
 # game/characters/alice/ev_12.rpy:99
 translate vietnamese alice_12_part2_76091f17:
 
-    # me ".. Sorry."
+    # me "... Sorry."
     me "... Xin lỗi."
 
 # game/characters/alice/ev_12.rpy:102
@@ -279,7 +279,7 @@ translate vietnamese alice_12_part2_0cf8453a:
 # game/characters/alice/ev_12.rpy:106
 translate vietnamese alice_12_part2_81624589:
 
-    # alice "Nothing.."
+    # alice "Nothing..."
     alice "Không có gì..."
 
 # game/characters/alice/ev_12.rpy:107
@@ -321,7 +321,7 @@ translate vietnamese alice_12_part2_7459a238:
 # game/characters/alice/ev_12.rpy:124
 translate vietnamese alice_12_part2_661869fe:
 
-    # th "[alice]? This feeling.. is she fucking me right now..?"
+    # th "[alice]? This feeling... is she fucking me right now...?"
     th "[alice]? Cảm giác này... là em ấy đang cưỡi mình đúng không...?"
 
 # game/characters/alice/ev_12.rpy:131
@@ -357,7 +357,7 @@ translate vietnamese alice_12_part2_9060503e:
 # game/characters/alice/ev_12.rpy:136
 translate vietnamese alice_12_part2_a1e9f971:
 
-    # alice "Hehe~ If you wish so, we can think of something.."
+    # alice "Hehe~ If you wish so, we can think of something..."
     alice "Hehe~ Nếu anh muốn như vậy, chúng em có thể nghĩ ra một vài thứ..."
 
 # game/characters/alice/ev_12.rpy:143
@@ -477,8 +477,8 @@ translate vietnamese alice_12_part2_3b94b0d1:
 # game/characters/alice/ev_12.rpy:196
 translate vietnamese alice_12_part2_7ec019f4:
 
-    # th "Time to get up, it's afternoon already.."
-    th "đến lúc dậy thôi, đã chiều rồi.."
+    # th "Time to get up, it's afternoon already..."
+    th "đến lúc dậy thôi, đã chiều rồi..."
 
 # game/characters/alice/ev_12.rpy:202
 translate vietnamese alice_12_part2_9edee612_1:
@@ -501,7 +501,7 @@ translate vietnamese alice_12_part2_dfcddf81:
 # game/characters/alice/ev_12.rpy:210
 translate vietnamese alice_12_part2_a2ade314:
 
-    # alice "No fun.."
+    # alice "No fun..."
     alice "Không vui đâu..."
 
 # game/characters/alice/ev_12.rpy:211
@@ -549,14 +549,14 @@ translate vietnamese alice_12_part2_b49b2821:
 # game/characters/alice/ev_12.rpy:224
 translate vietnamese alice_12_part2_3cdf7951:
 
-    # th "This lass.."
+    # th "This lass..."
     th "Cô gái này..."
 
 # game/characters/alice/ev_12.rpy:225
 translate vietnamese alice_12_part2_7ec019f4_1:
 
-    # th "Time to get up, it's afternoon already.."
-    th "đến lúc dậy thôi, đã chiều rồi.."
+    # th "Time to get up, it's afternoon already..."
+    th "đến lúc dậy thôi, đã chiều rồi..."
 
 translate vietnamese strings:
 

@@ -27,8 +27,8 @@ translate vietnamese chased_trader_daughter_05ebe85b:
 # game/events/explore/trader_daughter_saved.rpy:38
 translate vietnamese chased_trader_daughter_7ccc07a5:
 
-    # me "Fuck.."
-    me "Địt.."
+    # me "Fuck..."
+    me "Địt..."
 
 # game/events/explore/trader_daughter_saved.rpy:41
 translate vietnamese chased_trader_daughter_1ab62f2f:
@@ -87,8 +87,8 @@ translate vietnamese chased_trader_daughter_win_61d119de:
 # game/events/explore/trader_daughter_saved.rpy:72
 translate vietnamese chased_trader_daughter_win_ea4c61db:
 
-    # th "Well, she isn't wrong.. That's how it works."
-    th "Chà, cô ấy không sai .. Đó là cách nó hoạt động."
+    # th "Well, she isn't wrong... That's how it works."
+    th "Chà, cô ấy không sai ... Đó là cách nó hoạt động."
 
 # game/events/explore/trader_daughter_saved.rpy:73
 translate vietnamese chased_trader_daughter_win_c9ba8a6f:
@@ -141,8 +141,8 @@ translate vietnamese chased_trader_daughter_discount_3b3e54e4:
 # game/events/explore/trader_daughter_saved.rpy:104
 translate vietnamese chased_trader_daughter_anal_e3aa0d81:
 
-    # girl "Well.. I guess we can do that too."
-    girl "Chà .. Em đoán chúng ta cũng có thể làm được điều đó."
+    # girl "Well... I guess we can do that too."
+    girl "Chà ... Em đoán chúng ta cũng có thể làm được điều đó."
 
 # game/events/explore/trader_daughter_saved.rpy:108
 translate vietnamese chased_trader_daughter_anal_c13e2b0d:
@@ -189,8 +189,8 @@ translate vietnamese chased_trader_daughter_anal_905a86fe:
 # game/events/explore/trader_daughter_saved.rpy:119
 translate vietnamese chased_trader_daughter_anal_0c17fb5b:
 
-    # girl "You can go.. a bit faster."
-    girl "Anh có thể đi .. nhanh hơn một chút."
+    # girl "You can go... a bit faster."
+    girl "Anh có thể đi ... nhanh hơn một chút."
 
 # game/events/explore/trader_daughter_saved.rpy:122
 translate vietnamese chased_trader_daughter_anal_d3c44522:
@@ -255,8 +255,8 @@ translate vietnamese chased_trader_daughter_anal_ca0e6875:
 # game/events/explore/trader_daughter_saved.rpy:139
 translate vietnamese chased_trader_daughter_anal_4bf28b5c:
 
-    # girl "Thank you sir.."
-    girl "Cám ơn.."
+    # girl "Thank you sir..."
+    girl "Cám ơn..."
 
 # game/events/explore/trader_daughter_saved.rpy:142
 translate vietnamese chased_trader_daughter_anal_c6ddd087:
@@ -387,14 +387,14 @@ translate vietnamese chased_trader_daughter_escape_3bd84888:
 # game/events/explore/trader_daughter_saved.rpy:198
 translate vietnamese chased_trader_daughter_escape_e78cf80e:
 
-    # me "Huh..?"
-    me "Huh..?"
+    # me "Huh...?"
+    me "Huh...?"
 
 # game/events/explore/trader_daughter_saved.rpy:202
 translate vietnamese chased_trader_daughter_escape_7ccc07a5:
 
-    # me "Fuck.."
-    me "Đệt.."
+    # me "Fuck..."
+    me "Đệt..."
 
 translate vietnamese strings:
 

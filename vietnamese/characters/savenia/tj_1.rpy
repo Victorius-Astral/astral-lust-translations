@@ -99,8 +99,8 @@ translate vietnamese savenia_tj_1_423c3743:
 # game/characters/savenia/tj_1.rpy:53
 translate vietnamese savenia_tj_1_08c9da9d:
 
-    # savenia "Ahh.. Do you take me for elementary school kid?"
-    savenia "Ahh.. Cậu so sánh tớ với học sinh tiểu học sao?"
+    # savenia "Ahh... Do you take me for elementary school kid?"
+    savenia "Ahh... Cậu so sánh tớ với học sinh tiểu học sao?"
 
 # game/characters/savenia/tj_1.rpy:54
 translate vietnamese savenia_tj_1_59ef72c5:
@@ -123,8 +123,8 @@ translate vietnamese savenia_tj_1_7e262e5d:
 # game/characters/savenia/tj_1.rpy:57
 translate vietnamese savenia_tj_1_10395a9f:
 
-    # me "Now that you mentioned it.."
-    me "Nhắc đến nó.."
+    # me "Now that you mentioned it..."
+    me "Nhắc đến nó..."
 
 # game/characters/savenia/tj_1.rpy:60
 translate vietnamese savenia_tj_1_166d9144:
@@ -135,8 +135,8 @@ translate vietnamese savenia_tj_1_166d9144:
 # game/characters/savenia/tj_1.rpy:61
 translate vietnamese savenia_tj_1_d94e1e46:
 
-    # th "I will be sticky.."
-    th "Mình sẽ rất nhớp nháp đây.."
+    # th "I will be sticky..."
+    th "Mình sẽ rất nhớp nháp đây..."
 
 # game/characters/savenia/tj_1.rpy:65
 translate vietnamese savenia_tj_1_d29571d0:
@@ -190,6 +190,6 @@ translate vietnamese savenia_tj_1_8bb708e3:
 # game/characters/savenia/tj_1.rpy:57
 translate vietnamese savenia_tj_1_718bdd87:
 
-    # me "Now that you have mentioned it.."
-    me "Now that you have mentioned it.."
+    # me "Now that you have mentioned it..."
+    me "Now that you have mentioned it..."
 

@@ -81,8 +81,8 @@ translate vietnamese lil_fox_hj_1_fast_74d4bb1e:
 # game/characters/little fox/hj_1.rpy:124
 translate vietnamese lil_fox_hj_1_before_25470c5c:
 
-    # me "Nice! Ahh.."
-    me "Tuyệt! Ahh.."
+    # me "Nice! Ahh..."
+    me "Tuyệt! Ahh..."
 
 # game/characters/little fox/hj_1.rpy:125
 translate vietnamese lil_fox_hj_1_before_84a05da3:
@@ -129,8 +129,8 @@ translate vietnamese lil_fox_hj_1_cum_1ee3f198:
 # game/characters/little fox/hj_1.rpy:150
 translate vietnamese lil_fox_hj_1_cum_eb84355e:
 
-    # lil_fox "Aaaa.."
-    lil_fox "Aaaa.."
+    # lil_fox "Aaaa..."
+    lil_fox "Aaaa..."
 
 # game/characters/little fox/hj_1.rpy:151
 translate vietnamese lil_fox_hj_1_cum_a6b2cd75:
@@ -141,8 +141,8 @@ translate vietnamese lil_fox_hj_1_cum_a6b2cd75:
 # game/characters/little fox/hj_1.rpy:155
 translate vietnamese lil_fox_hj_1_cum_a3ed18a2:
 
-    # lil_fox "So much.. Thank you, mister!"
-    lil_fox "Nhiều quá.. Cảm ơn thưa ngài!"
+    # lil_fox "So much... Thank you, mister!"
+    lil_fox "Nhiều quá... Cảm ơn thưa ngài!"
 
 # game/characters/little fox/hj_1.rpy:156
 translate vietnamese lil_fox_hj_1_cum_1c0877dc:
@@ -195,8 +195,8 @@ translate vietnamese lil_fox_hj_1_cum_bff0217b:
 # game/characters/little fox/hj_1.rpy:167
 translate vietnamese lil_fox_hj_1_cum_1e2662b3:
 
-    # lil_fox "Eh? Mean...."
-    lil_fox "Eh? Xấu tính...."
+    # lil_fox "Eh? Mean..."
+    lil_fox "Eh? Xấu tính..."
 
 # game/characters/little fox/hj_1.rpy:168
 translate vietnamese lil_fox_hj_1_cum_0e9db55a:

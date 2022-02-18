@@ -3,8 +3,8 @@
 # game/characters/rhainda/lilfox_1.rpy:5
 translate vietnamese rhainda_lilfox1_ef8296eb:
 
-    # th "Wow.."
-    th "Wow.."
+    # th "Wow..."
+    th "Wow..."
 
 # game/characters/rhainda/lilfox_1.rpy:6
 translate vietnamese rhainda_lilfox1_2d6ee3da:
@@ -75,7 +75,7 @@ translate vietnamese rhainda_lilfox1_8af7ac77:
 # game/characters/rhainda/lilfox_1.rpy:33
 translate vietnamese rhainda_lilfox1_55d20ea8:
 
-    # lil_fox "My tummy, though.."
+    # lil_fox "My tummy, though..."
     lil_fox "Nhưng mà, bụng của em..."
 
 # game/characters/rhainda/lilfox_1.rpy:34
@@ -87,7 +87,7 @@ translate vietnamese rhainda_lilfox1_3820771a:
 # game/characters/rhainda/lilfox_1.rpy:38
 translate vietnamese rhainda_lilfox1_f90908b6:
 
-    # rhainda "Don't think about it dear. Worry not, I'll occupy your mind.."
+    # rhainda "Don't think about it dear. Worry not, I'll occupy your mind..."
     rhainda "Đừng nghĩ về nó nữa. Chị sẽ lấp đầy tâm trí của em..."
 
 # game/characters/rhainda/lilfox_1.rpy:42
@@ -231,7 +231,7 @@ translate vietnamese rhainda_lilfox1_before_b930dadc:
 # game/characters/rhainda/lilfox_1.rpy:89
 translate vietnamese rhainda_lilfox1_before_5effbb4d:
 
-    # rhainda "Whelp, I wish you could fuck me right now.."
+    # rhainda "Whelp, I wish you could fuck me right now..."
     rhainda "Em ước gì anh có thể địt em ngay lúc này..."
 
 # game/characters/rhainda/lilfox_1.rpy:90
@@ -303,7 +303,7 @@ translate vietnamese rhainda_lilfox1_cum_bb92d52f:
 # game/characters/rhainda/lilfox_1.rpy:111
 translate vietnamese rhainda_lilfox1_cum_da7fbe3a:
 
-    # rhainda "Whelp.."
+    # rhainda "Whelp..."
     rhainda "Whelp..."
 
 # game/characters/rhainda/lilfox_1.rpy:115
@@ -369,7 +369,7 @@ translate vietnamese rhainda_lilfox1_cum_410a955f:
 # game/characters/rhainda/lilfox_1.rpy:129
 translate vietnamese rhainda_lilfox1_cum_7065b4f0:
 
-    # lil_fox "Ehh.."
+    # lil_fox "Ehh..."
     lil_fox "Ểhh..."
 
 # game/characters/rhainda/lilfox_1.rpy:130

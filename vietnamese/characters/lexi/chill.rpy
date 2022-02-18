@@ -45,8 +45,8 @@ translate vietnamese lexi_chill_0f2cc290:
 # game/characters/lexi/chill.rpy:61
 translate vietnamese lexi_chill_bf89ee92:
 
-    # th "Ahh.. That's too much for a young girl like her to bear."
-    th "Ahh.. Đó là quá sức cho một cô gái trẻ như em ấy."
+    # th "Ahh... That's too much for a young girl like her to bear."
+    th "Ahh... Đó là quá sức cho một cô gái trẻ như em ấy."
 
 # game/characters/lexi/chill.rpy:62
 translate vietnamese lexi_chill_8d5fde16:
@@ -279,8 +279,8 @@ translate vietnamese lexi_chill_6e984f21:
 # game/characters/lexi/chill.rpy:112
 translate vietnamese lexi_chill_f738e554:
 
-    # lexi "Mm. Yeah.. Sounds good.. I'm spacing out just thinking about it."
-    lexi "Mm. Yeah.. Nghe hay đấy.. Em đang rất háo hức chỉ vì nghĩ về nó."
+    # lexi "Mm. Yeah... Sounds good... I'm spacing out just thinking about it."
+    lexi "Mm. Yeah... Nghe hay đấy... Em đang rất háo hức chỉ vì nghĩ về nó."
 
 # game/characters/lexi/chill.rpy:113
 translate vietnamese lexi_chill_4b01c1dc:
@@ -339,14 +339,14 @@ translate vietnamese lexi_chill_75029bb0:
 # game/characters/lexi/chill.rpy:135
 translate vietnamese lexi_chill_06fd6dd1:
 
-    # lexi "Yeah, it doesn't hurt anymore. But it's even lighter than it was before.."
-    lexi "Yeah, nó không còn đau nữa. Nhưng nó thậm chí còn nhẹ hơn trước đây.."
+    # lexi "Yeah, it doesn't hurt anymore. But it's even lighter than it was before..."
+    lexi "Yeah, nó không còn đau nữa. Nhưng nó thậm chí còn nhẹ hơn trước đây..."
 
 # game/characters/lexi/chill.rpy:136
 translate vietnamese lexi_chill_7a1b9d0b:
 
-    # me "Ah.. I will need more practice."
-    me "Ah.. Anh sẽ cần luyện tập nhiều hơn."
+    # me "Ah... I will need more practice."
+    me "Ah... Anh sẽ cần luyện tập nhiều hơn."
 
 # game/characters/lexi/chill.rpy:137
 translate vietnamese lexi_chill_013ebfda:
@@ -375,8 +375,8 @@ translate vietnamese lexi_chill_3944b49f:
 # game/characters/lexi/chill.rpy:141
 translate vietnamese lexi_chill_4ac404c6:
 
-    # lexi "Pfft.. Dream on."
-    lexi "Pfft.. Ảo tưởng tiếp đi."
+    # lexi "Pfft... Dream on."
+    lexi "Pfft... Ảo tưởng tiếp đi."
 
 # game/characters/lexi/chill.rpy:142
 translate vietnamese lexi_chill_727adf1b:
@@ -489,8 +489,8 @@ translate vietnamese lexi_chill_def13fc3:
 # game/characters/lexi/chill.rpy:174
 translate vietnamese lexi_chill_7d7a8996:
 
-    # me "Bye.."
-    me "Bye.."
+    # me "Bye..."
+    me "Bye..."
 
 # game/characters/lexi/chill.rpy:180
 translate vietnamese lexi_chill_skilled_bdcddee1:
@@ -669,8 +669,8 @@ translate vietnamese lexi_chill_skilled_e65e9451:
 # game/characters/lexi/chill.rpy:229
 translate vietnamese lexi_chill_skilled_d3898766:
 
-    # lexi "I see.."
-    lexi "tôi hiểu rồi.."
+    # lexi "I see..."
+    lexi "tôi hiểu rồi..."
 
 # game/characters/lexi/chill.rpy:230
 translate vietnamese lexi_chill_skilled_1e1369ea:
@@ -777,8 +777,8 @@ translate vietnamese lexi_chill_skilled_d7760fc7:
 # game/characters/lexi/chill.rpy:247
 translate vietnamese lexi_chill_skilled_fa7801ee:
 
-    # lexi "Seems it's more than just a fetish.."
-    lexi "Có vẻ như nó không chỉ là một sở thích.."
+    # lexi "Seems it's more than just a fetish..."
+    lexi "Có vẻ như nó không chỉ là một sở thích..."
 
 # game/characters/lexi/chill.rpy:255
 translate vietnamese lexi_chill_no_fun_380616e7:
@@ -855,8 +855,8 @@ translate vietnamese lexi_chill_fj_4c00cf39:
 # game/characters/lexi/chill.rpy:290
 translate vietnamese lexi_chill_fj_d372aee6:
 
-    # lexi "Pervert.."
-    lexi "Biến thái.."
+    # lexi "Pervert..."
+    lexi "Biến thái..."
 
 # game/characters/lexi/chill.rpy:291
 translate vietnamese lexi_chill_fj_341145bf:
@@ -867,8 +867,8 @@ translate vietnamese lexi_chill_fj_341145bf:
 # game/characters/lexi/chill.rpy:292
 translate vietnamese lexi_chill_fj_6b747bd7:
 
-    # lexi "You're right, I guess.."
-    lexi "Anh đúng đấy, em đoán vậy.."
+    # lexi "You're right, I guess..."
+    lexi "Anh đúng đấy, em đoán vậy..."
 
 # game/characters/lexi/chill.rpy:293
 translate vietnamese lexi_chill_fj_f660d172:
@@ -951,8 +951,8 @@ translate vietnamese lexi_chill_changed_83930ab4:
 # game/characters/lexi/chill.rpy:327
 translate vietnamese lexi_chill_changed_4bacce3e:
 
-    # lexi "I don't even know what to say.."
-    lexi "Em thậm chí còn không biết phải nói gì.."
+    # lexi "I don't even know what to say..."
+    lexi "Em thậm chí còn không biết phải nói gì..."
 
 # game/characters/lexi/chill.rpy:328
 translate vietnamese lexi_chill_changed_bac8d022:
@@ -969,8 +969,8 @@ translate vietnamese lexi_chill_changed_cbde9286:
 # game/characters/lexi/chill.rpy:330
 translate vietnamese lexi_chill_changed_d58dfae4:
 
-    # lexi "Ahh.. I'll go change."
-    lexi "Ahh.. Em sẽ đi thay."
+    # lexi "Ahh... I'll go change."
+    lexi "Ahh... Em sẽ đi thay."
 
 # game/characters/lexi/chill.rpy:331
 translate vietnamese lexi_chill_changed_be921ea0:
@@ -1047,14 +1047,14 @@ translate vietnamese lexi_chill_fj_start_b4528f87:
 # game/characters/lexi/chill.rpy:353
 translate vietnamese lexi_chill_fj_start_ee90df37:
 
-    # me "Keep going like this for a bit. I like this soft touch.."
-    me "Tiếp tục như vậy một chút. Anh thích cái chạm nhẹ nhàng này.."
+    # me "Keep going like this for a bit. I like this soft touch..."
+    me "Tiếp tục như vậy một chút. Anh thích cái chạm nhẹ nhàng này..."
 
 # game/characters/lexi/chill.rpy:354
 translate vietnamese lexi_chill_fj_start_39fd0317:
 
-    # lexi "Ok.."
-    lexi "Ok.."
+    # lexi "Ok..."
+    lexi "Ok..."
 
 # game/characters/lexi/chill.rpy:358
 translate vietnamese lexi_chill_fj_start_b6abd173:
@@ -1065,8 +1065,8 @@ translate vietnamese lexi_chill_fj_start_b6abd173:
 # game/characters/lexi/chill.rpy:359
 translate vietnamese lexi_chill_fj_start_972d96fd:
 
-    # me "Ah, now I can feel it.. The shape feels just right"
-    me "Ah, bây giờ anh có thể cảm thấy nó .. Hình dạng thật vừa phải"
+    # me "Ah, now I can feel it... The shape feels just right"
+    me "Ah, bây giờ anh có thể cảm thấy nó ... Hình dạng thật vừa phải"
 
 # game/characters/lexi/chill.rpy:360
 translate vietnamese lexi_chill_fj_start_c5f717bf:
@@ -1089,14 +1089,14 @@ translate vietnamese lexi_chill_fj_start_bc0883ea:
 # game/characters/lexi/chill.rpy:363
 translate vietnamese lexi_chill_fj_start_ae616bde:
 
-    # lexi "I guess? This is not bad.."
-    lexi "Em đoán vậy? Điều này cũng không quá  tệ.."
+    # lexi "I guess? This is not bad..."
+    lexi "Em đoán vậy? Điều này cũng không quá  tệ..."
 
 # game/characters/lexi/chill.rpy:364
 translate vietnamese lexi_chill_fj_start_fb106d6c:
 
-    # lexi "We're that far gone huh..?"
-    lexi "Chúng ta đã đi rất xa rồi huh..?"
+    # lexi "We're that far gone huh...?"
+    lexi "Chúng ta đã đi rất xa rồi huh...?"
 
 # game/characters/lexi/chill.rpy:368
 translate vietnamese lexi_chill_fj_start_b8669abf:
@@ -1119,8 +1119,8 @@ translate vietnamese lexi_chill_fj_start_04e574e7:
 # game/characters/lexi/chill.rpy:371
 translate vietnamese lexi_chill_fj_start_cc6a00c2:
 
-    # me "Feels great, that's some serious footwork.. Who's the pervert now?"
-    me "Cảm giác rất tuyệt, đó là một tác nghiêm túc đấy..Bây giờ ai là kẻ biến thái nào?"
+    # me "Feels great, that's some serious footwork... Who's the pervert now?"
+    me "Cảm giác rất tuyệt, đó là một tác nghiêm túc đấy...Bây giờ ai là kẻ biến thái nào?"
 
 # game/characters/lexi/chill.rpy:372
 translate vietnamese lexi_chill_fj_start_5ca13c13:
@@ -1149,8 +1149,8 @@ translate vietnamese lexi_chill_fj_start_166d9144:
 # game/characters/lexi/chill.rpy:382
 translate vietnamese lexi_chill_fj_start_7de8d161:
 
-    # lexi "Eww.. My feet.."
-    lexi "Eww.. Chân của em.."
+    # lexi "Eww... My feet..."
+    lexi "Eww... Chân của em..."
 
 # game/characters/lexi/chill.rpy:383
 translate vietnamese lexi_chill_fj_start_2db13a13:
@@ -1197,8 +1197,8 @@ translate vietnamese lexi_chill_end_01ac835e:
 # game/characters/lexi/chill.rpy:400
 translate vietnamese lexi_chill_end_1c5035d4:
 
-    # lexi "Dork.. Get out of here already."
-    lexi "Tên ngốc.. Biến ra khỏi đây luôn đi."
+    # lexi "Dork... Get out of here already."
+    lexi "Tên ngốc... Biến ra khỏi đây luôn đi."
 
 # game/characters/lexi/chill.rpy:401
 translate vietnamese lexi_chill_end_ed1e7c10:
@@ -1221,8 +1221,8 @@ translate vietnamese lexi_chill_end_b21e31f2:
 # game/characters/lexi/chill.rpy:404
 translate vietnamese lexi_chill_end_8fd0f422:
 
-    # lexi "Yeah, yeah.."
-    lexi "Yeah, yeah.."
+    # lexi "Yeah, yeah..."
+    lexi "Yeah, yeah..."
 
 translate vietnamese strings:
 
@@ -1344,8 +1344,8 @@ translate vietnamese lexi_chill_fj_c7b59a57:
 # game/characters/lexi/chill.rpy:354
 translate vietnamese lexi_chill_fj_start_8748e4ad:
 
-    # lexi "Okay.."
-    lexi "Okay.."
+    # lexi "Okay..."
+    lexi "Okay..."
 
 # game/characters/lexi/chill.rpy:368
 translate vietnamese lexi_chill_fj_start_e385d4c6:

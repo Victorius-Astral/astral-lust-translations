@@ -87,8 +87,8 @@ translate vietnamese cat_pat_player_7f0ac95c:
 # game/characters/cat/pat.rpy:63
 translate vietnamese cat_pat_player_7fe889f5:
 
-    # me "Thanks for love.."
-    me "Được rồi.."
+    # me "Thanks for love..."
+    me "Được rồi..."
 
 # game/characters/cat/pat.rpy:64
 translate vietnamese cat_pat_player_a436554b:
@@ -99,8 +99,8 @@ translate vietnamese cat_pat_player_a436554b:
 # game/characters/cat/pat.rpy:65
 translate vietnamese cat_pat_player_c898fe60:
 
-    # me "I have a feeling you're finding me annoying.."
-    me "Anh có cảm giác bé đang thấy anh phiền phức.."
+    # me "I have a feeling you're finding me annoying..."
+    me "Anh có cảm giác bé đang thấy anh phiền phức..."
 
 # game/characters/cat/pat.rpy:66
 translate vietnamese cat_pat_player_7f0ac95c_1:

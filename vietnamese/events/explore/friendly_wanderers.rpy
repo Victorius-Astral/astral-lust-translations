@@ -117,7 +117,7 @@ translate vietnamese exp_friendly_wanderers_first_0ca9bbcd:
 # game/events/explore/friendly_wanderers.rpy:92
 translate vietnamese exp_friendly_wanderers_first_b476c0c7:
 
-    # wanderer "Everything you might need! Materials and food, sometimes I even have things of a more.. Let's say otherworldly nature. You see this girl behind me?"
+    # wanderer "Everything you might need! Materials and food, sometimes I even have things of a more... Let's say otherworldly nature. You see this girl behind me?"
     wanderer "Mọi thứ bạn có thể cần! Vật liệu và thực phẩm, đôi khi tôi thậm chí còn có những thứ còn hơn thế nữa... Cậu thấy cô gái này sau lưng tôi?"
 
 # game/events/explore/friendly_wanderers.rpy:93
@@ -333,8 +333,8 @@ translate vietnamese exp_friendly_wanderers_daughter_sex_2f3d23c6:
 # game/events/explore/friendly_wanderers.rpy:218
 translate vietnamese exp_friendly_wanderers_daughter_sex_c499bf94:
 
-    # me "Ah.. Ah.."
-    me "Ah.. Ah.."
+    # me "Ah... Ah..."
+    me "Ah... Ah..."
 
 # game/events/explore/friendly_wanderers.rpy:219
 translate vietnamese exp_friendly_wanderers_daughter_sex_27c1c4ac:

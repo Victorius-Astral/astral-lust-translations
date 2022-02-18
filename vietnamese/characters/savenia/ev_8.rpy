@@ -51,8 +51,8 @@ translate vietnamese savenia_8_762abff7:
 # game/characters/savenia/ev_8.rpy:56
 translate vietnamese savenia_8_0f1474ad:
 
-    # me ".. What are you trying to do?"
-    me ".. Cậu đang cố làm gì vậy?"
+    # me "... What are you trying to do?"
+    me "... Cậu đang cố làm gì vậy?"
 
 # game/characters/savenia/ev_8.rpy:57
 translate vietnamese savenia_8_4d0fb70e:
@@ -81,14 +81,14 @@ translate vietnamese savenia_8_a859a1f4:
 # game/characters/savenia/ev_8.rpy:68
 translate vietnamese savenia_8_f45460c1:
 
-    # me "What.."
-    me "Cái gì.."
+    # me "What..."
+    me "Cái gì..."
 
 # game/characters/savenia/ev_8.rpy:72
 translate vietnamese savenia_8_e79af42e:
 
-    # me "Don't tell me you want to.."
-    me "Đừng nói với tớ rằng cậu muốn.."
+    # me "Don't tell me you want to..."
+    me "Đừng nói với tớ rằng cậu muốn..."
 
 # game/characters/savenia/ev_8.rpy:76
 translate vietnamese savenia_8_f706984d:
@@ -165,8 +165,8 @@ translate vietnamese savenia_8_stop_06757c32:
 # game/characters/savenia/ev_8.rpy:107
 translate vietnamese savenia_8_stop_dd100b2c:
 
-    # th "I didn't have any trouble being trusted, though.."
-    th "Tuy nhiên, mình lại không gặp khó khăn gì khi được tin tưởng.."
+    # th "I didn't have any trouble being trusted, though..."
+    th "Tuy nhiên, mình lại không gặp khó khăn gì khi được tin tưởng..."
 
 # game/characters/savenia/ev_8.rpy:108
 translate vietnamese savenia_8_stop_0e815248:
@@ -243,8 +243,8 @@ translate vietnamese savenia_8_stop_ca649679:
 # game/characters/savenia/ev_8.rpy:132
 translate vietnamese savenia_8_slow_dfa4fbbb:
 
-    # savenia "Mm.. Yeah.."
-    savenia "Mm.. Yeah.."
+    # savenia "Mm... Yeah..."
+    savenia "Mm... Yeah..."
 
 # game/characters/savenia/ev_8.rpy:133
 translate vietnamese savenia_8_slow_d4ffcc4b:
@@ -255,14 +255,14 @@ translate vietnamese savenia_8_slow_d4ffcc4b:
 # game/characters/savenia/ev_8.rpy:134
 translate vietnamese savenia_8_slow_dd9636c7:
 
-    # me "Ahh.."
-    me "Ahh.."
+    # me "Ahh..."
+    me "Ahh..."
 
 # game/characters/savenia/ev_8.rpy:140
 translate vietnamese savenia_8_fast_ce9e1ee9:
 
-    # me "Shit.."
-    me "Đệt.."
+    # me "Shit..."
+    me "Đệt..."
 
 # game/characters/savenia/ev_8.rpy:141
 translate vietnamese savenia_8_fast_013072c4:
@@ -285,8 +285,8 @@ translate vietnamese savenia_8_before_7851d9df:
 # game/characters/savenia/ev_8.rpy:149
 translate vietnamese savenia_8_before_ab07efe3:
 
-    # me "Your muscles squeeze around my dick.. It's so tight.."
-    me "Cơ của cậu siết chặt lấy con cặc của tớ.. Nó thật chặt.."
+    # me "Your muscles squeeze around my dick... It's so tight..."
+    me "Cơ của cậu siết chặt lấy con cặc của tớ... Nó thật chặt..."
 
 # game/characters/savenia/ev_8.rpy:150
 translate vietnamese savenia_8_before_e90a67f8:
@@ -303,8 +303,8 @@ translate vietnamese savenia_8_before_5fc15cb9:
 # game/characters/savenia/ev_8.rpy:152
 translate vietnamese savenia_8_before_1351a5bd:
 
-    # th "I'm close.. What has gotten into her?"
-    th "Mình đã sắp ra rồi.. Cậu ấy bị làm sao thế nhỉ?"
+    # th "I'm close... What has gotten into her?"
+    th "Mình đã sắp ra rồi... Cậu ấy bị làm sao thế nhỉ?"
 
 # game/characters/savenia/ev_8.rpy:160
 translate vietnamese savenia_8_cum_2c296249:
@@ -315,8 +315,8 @@ translate vietnamese savenia_8_cum_2c296249:
 # game/characters/savenia/ev_8.rpy:161
 translate vietnamese savenia_8_cum_a374dea9:
 
-    # savenia "Mmm.."
-    savenia "Mmm.."
+    # savenia "Mmm..."
+    savenia "Mmm..."
 
 # game/characters/savenia/ev_8.rpy:166
 translate vietnamese savenia_8_cum_1019d45b:
@@ -351,8 +351,8 @@ translate vietnamese savenia_8_cum_cbcb7f5c:
 # game/characters/savenia/ev_8.rpy:177
 translate vietnamese savenia_8_cum_be7aa58b:
 
-    # me "...."
-    me "...."
+    # me "..."
+    me "..."
 
 translate vietnamese strings:
 

@@ -81,14 +81,14 @@ translate vietnamese grace_9_f97cc09d:
 # game/characters/grace/ev_9.rpy:47
 translate vietnamese grace_9_dfb593b1:
 
-    # grace "Hehe~ I've got a rose. They are sooo beautiful, I haven't seen a rose in so long.."
-    grace "Hehe~ Em có một bông hồng. Chúng đẹp quá, lâu quá rồi em chưa thấy một bông hồng nào.."
+    # grace "Hehe~ I've got a rose. They are sooo beautiful, I haven't seen a rose in so long..."
+    grace "Hehe~ Em có một bông hồng. Chúng đẹp quá, lâu quá rồi em chưa thấy một bông hồng nào..."
 
 # game/characters/grace/ev_9.rpy:48
 translate vietnamese grace_9_76b0fada:
 
-    # th "It seems she's in her own world.."
-    th "Có vẻ như em ấy đang ở trong thế giới của riêng mình.."
+    # th "It seems she's in her own world..."
+    th "Có vẻ như em ấy đang ở trong thế giới của riêng mình..."
 
 # game/characters/grace/ev_9.rpy:49
 translate vietnamese grace_9_1002c14a:
@@ -165,8 +165,8 @@ translate vietnamese grace_9_ff02b9f4:
 # game/characters/grace/ev_9.rpy:77
 translate vietnamese grace_9_8445ca29:
 
-    # me "Gra.."
-    me "Gra.."
+    # me "Gra..."
+    me "Gra..."
 
 # game/characters/grace/ev_9.rpy:82
 translate vietnamese grace_9_35d3c7ed:
@@ -177,8 +177,8 @@ translate vietnamese grace_9_35d3c7ed:
 # game/characters/grace/ev_9.rpy:83
 translate vietnamese grace_9_cd96fc7b:
 
-    # th "Phew.. I've never seen her this angry."
-    th "Phew.. Mình chưa bao giờ thấy em ấy tức giận như thế này."
+    # th "Phew... I've never seen her this angry."
+    th "Phew... Mình chưa bao giờ thấy em ấy tức giận như thế này."
 
 # game/characters/grace/ev_9.rpy:84
 translate vietnamese grace_9_1e5ae328:
@@ -213,8 +213,8 @@ translate vietnamese grace_9_fdb4e830_1:
 # game/characters/grace/ev_9.rpy:93
 translate vietnamese grace_9_7b78e690:
 
-    # th "Not enough? Well.."
-    th "Không đủ hả? Tốt thôi.."
+    # th "Not enough? Well..."
+    th "Không đủ hả? Tốt thôi..."
 
 # game/characters/grace/ev_9.rpy:94
 translate vietnamese grace_9_50bc954c:
@@ -237,8 +237,8 @@ translate vietnamese grace_9_645ff2df:
 # game/characters/grace/ev_9.rpy:97
 translate vietnamese grace_9_c909e0ea:
 
-    # grace "Mm.."
-    grace "Mm.."
+    # grace "Mm..."
+    grace "Mm..."
 
 # game/characters/grace/ev_9.rpy:98
 translate vietnamese grace_9_d964df35:
@@ -267,14 +267,14 @@ translate vietnamese grace_9_fdb4e830_2:
 # game/characters/grace/ev_9.rpy:102
 translate vietnamese grace_9_3150f528:
 
-    # grace "...."
-    grace "...."
+    # grace "..."
+    grace "..."
 
 # game/characters/grace/ev_9.rpy:103
 translate vietnamese grace_9_45ddaab5:
 
-    # grace "But, my momm.."
-    grace "Nhưng, mẹ em.."
+    # grace "But, my momm..."
+    grace "Nhưng, mẹ em..."
 
 # game/characters/grace/ev_9.rpy:104
 translate vietnamese grace_9_5c7696ed:
@@ -315,8 +315,8 @@ translate vietnamese grace_9_1021deed:
 # game/characters/grace/ev_9.rpy:114
 translate vietnamese grace_9_e490cf8e:
 
-    # grace "No.."
-    grace "Không.."
+    # grace "No..."
+    grace "Không..."
 
 # game/characters/grace/ev_9.rpy:115
 translate vietnamese grace_9_36c735b4:
@@ -327,8 +327,8 @@ translate vietnamese grace_9_36c735b4:
 # game/characters/grace/ev_9.rpy:116
 translate vietnamese grace_9_c909e0ea_1:
 
-    # grace "Mm.."
-    grace "Mm.."
+    # grace "Mm..."
+    grace "Mm..."
 
 # game/characters/grace/ev_9.rpy:121
 translate vietnamese grace_9_3820771a:
@@ -453,8 +453,8 @@ translate vietnamese grace_9_cfe8a5a1:
 # game/characters/grace/ev_9.rpy:167
 translate vietnamese grace_9_2f9207d3:
 
-    # grace "Don't put your fingers inside.."
-    grace "Đừng đưa ngón tay vào trong.."
+    # grace "Don't put your fingers inside..."
+    grace "Đừng đưa ngón tay vào trong..."
 
 # game/characters/grace/ev_9.rpy:168
 translate vietnamese grace_9_72391e00:
@@ -579,8 +579,8 @@ translate vietnamese grace_9_bb15baa8:
 # game/characters/grace/ev_9.rpy:207
 translate vietnamese grace_9_cfa95943:
 
-    # grace "I-I-I t-told you to not put your fingers inside.."
-    grace "E-E-Em đã bảo anh không được cho ngón tay vào trong.."
+    # grace "I-I-I t-told you to not put your fingers inside..."
+    grace "E-E-Em đã bảo anh không được cho ngón tay vào trong..."
 
 # game/characters/grace/ev_9.rpy:208
 translate vietnamese grace_9_8badc79b:
@@ -597,14 +597,14 @@ translate vietnamese grace_9_cba114e3:
 # game/characters/grace/ev_9.rpy:210
 translate vietnamese grace_9_8cfb2edc:
 
-    # grace "B-but.."
-    grace "N-nhưng.."
+    # grace "B-but..."
+    grace "N-nhưng..."
 
 # game/characters/grace/ev_9.rpy:211
 translate vietnamese grace_9_43760c32:
 
-    # me "Shhh.. don't talk, enjoy."
-    me "Shhh.. đừng nói chuyện, hãy tận hưởng."
+    # me "Shhh... don't talk, enjoy."
+    me "Shhh... đừng nói chuyện, hãy tận hưởng."
 
 # game/characters/grace/ev_9.rpy:218
 translate vietnamese grace_9_4ae2a0ac:
@@ -633,8 +633,8 @@ translate vietnamese grace_9_32ca8d46:
 # game/characters/grace/ev_9.rpy:222
 translate vietnamese grace_9_d80320e6:
 
-    # grace "I-I'm.. Mnmm!~"
-    grace "E-Em.. Mnmm!~"
+    # grace "I-I'm... Mnmm!~"
+    grace "E-Em... Mnmm!~"
 
 # game/characters/grace/ev_9.rpy:223
 translate vietnamese grace_9_d5a51e06:
@@ -657,8 +657,8 @@ translate vietnamese grace_9_38d90e3e:
 # game/characters/grace/ev_9.rpy:228
 translate vietnamese grace_9_d33da0a2:
 
-    # th "Shit, so tight, too bad it's just my fingers.."
-    th "Đù, chặt vl, mỗi tội, nó chỉ là ngón tay của mình.."
+    # th "Shit, so tight, too bad it's just my fingers..."
+    th "Đù, chặt vl, mỗi tội, nó chỉ là ngón tay của mình..."
 
 # game/characters/grace/ev_9.rpy:229
 translate vietnamese grace_9_ba068e68:
@@ -675,8 +675,8 @@ translate vietnamese grace_9_af15acfa:
 # game/characters/grace/ev_9.rpy:234
 translate vietnamese grace_9_0f7d193f:
 
-    # grace "Haah.. hahh.."
-    grace "Haah.. hahh.."
+    # grace "Haah... hahh..."
+    grace "Haah... hahh..."
 
 # game/characters/grace/ev_9.rpy:236
 translate vietnamese grace_9_71e1326f:
@@ -687,8 +687,8 @@ translate vietnamese grace_9_71e1326f:
 # game/characters/grace/ev_9.rpy:237
 translate vietnamese grace_9_00920ad7:
 
-    # grace "Hmmmn.."
-    grace "Hmmmn.."
+    # grace "Hmmmn..."
+    grace "Hmmmn..."
 
 # game/characters/grace/ev_9.rpy:238
 translate vietnamese grace_9_8427a459:
@@ -723,21 +723,21 @@ translate vietnamese grace_9_cd22152f:
 # game/characters/grace/ev_9.rpy:245
 translate vietnamese grace_9_9596359c:
 
-    # th "One final look. Shit, she's gorgeous.."
-    th "Một cái nhìn cuối. Shit, em ấy nhìn mlem quá.."
+    # th "One final look. Shit, she's gorgeous..."
+    th "Một cái nhìn cuối. Shit, em ấy nhìn mlem quá..."
 
 # game/characters/grace/ev_9.rpy:246
 translate vietnamese grace_9_499b26f3:
 
-    # th "Time to go.."
-    th "Đến lúc đi rồi.."
+    # th "Time to go..."
+    th "Đến lúc đi rồi..."
 # TODO: Translation updated at 2022-02-06 08:10
 
 # game/characters/grace/ev_9.rpy:47
 translate vietnamese grace_9_8ee752b2:
 
-    # grace "Hehe~ I've got a rose. They are sooo beautiful. I haven't seen a rose in so long.."
-    grace "Hehe~ Em có một bông hồng. Chúng thật đẹp. Em đã không nhìn thấy một bông quá lâu rồi.."
+    # grace "Hehe~ I've got a rose. They are sooo beautiful. I haven't seen a rose in so long..."
+    grace "Hehe~ Em có một bông hồng. Chúng thật đẹp. Em đã không nhìn thấy một bông quá lâu rồi..."
 
 # game/characters/grace/ev_9.rpy:164
 translate vietnamese grace_9_7e46c4bf:

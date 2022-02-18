@@ -16,7 +16,7 @@ translate vietnamese room_lexi_document_d2aaa3bf:
 translate vietnamese room_lexi_document_fc8768a1:
 
     # "The first floor should contain staff rooms and facilities like a restaurant, gym, etc."
-    "Tầng một nên có các phòng dành cho nhân viên và các tiện nghi như nhà hàng, phòng tập thể dục, v.v.."
+    "Tầng một nên có các phòng dành cho nhân viên và các tiện nghi như nhà hàng, phòng tập thể dục, v.v..."
 
 # game/places/hotel/lexi/document.rpy:10
 translate vietnamese room_lexi_document_89ce28cd:

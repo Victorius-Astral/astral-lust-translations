@@ -27,14 +27,14 @@ translate vietnamese mina_tj_1_5cd4fa3d:
 # game/characters/mina/tj_1.rpy:36
 translate vietnamese mina_tj_1_4f9662a5:
 
-    # me "Umnn.. You don't like compliments?"
-    me "Umnn.. Em không thích khen sao?"
+    # me "Umnn... You don't like compliments?"
+    me "Umnn... Em không thích khen sao?"
 
 # game/characters/mina/tj_1.rpy:37
 translate vietnamese mina_tj_1_6df7439c:
 
-    # mina "I feel awkward hearing them now.."
-    mina "Em cảm thấy khó xử khi nghe chúng.."
+    # mina "I feel awkward hearing them now..."
+    mina "Em cảm thấy khó xử khi nghe chúng..."
 
 # game/characters/mina/tj_1.rpy:38
 translate vietnamese mina_tj_1_31d355e6:
@@ -45,8 +45,8 @@ translate vietnamese mina_tj_1_31d355e6:
 # game/characters/mina/tj_1.rpy:39
 translate vietnamese mina_tj_1_aad73c0f:
 
-    # mina "Haha.."
-    mina "Haha.."
+    # mina "Haha..."
+    mina "Haha..."
 
 # game/characters/mina/tj_1.rpy:49
 translate vietnamese mina_tj_1_f46910f9:
@@ -111,8 +111,8 @@ translate vietnamese mina_tj_1_c96cbcfa:
 # game/characters/mina/tj_1.rpy:68
 translate vietnamese mina_tj_1_08fea473:
 
-    # mina "I guess.."
-    mina "Em đoán vậy.."
+    # mina "I guess..."
+    mina "Em đoán vậy..."
 
 # game/characters/mina/tj_1.rpy:69
 translate vietnamese mina_tj_1_65278fd0:
@@ -123,8 +123,8 @@ translate vietnamese mina_tj_1_65278fd0:
 # game/characters/mina/tj_1.rpy:70
 translate vietnamese mina_tj_1_354b87bc:
 
-    # mina "Mm. So, when are you going to.."
-    mina "Mm. Thế khi nào anh sẽ.."
+    # mina "Mm. So, when are you going to..."
+    mina "Mm. Thế khi nào anh sẽ..."
 
 # game/characters/mina/tj_1.rpy:76
 translate vietnamese mina_tj_1_166d9144:
@@ -153,8 +153,8 @@ translate vietnamese mina_tj_1_d8a80f0a:
 # game/characters/mina/tj_1.rpy:85
 translate vietnamese mina_tj_1_4d954fed:
 
-    # mina "Yes.."
-    mina "Ừm.."
+    # mina "Yes..."
+    mina "Ừm..."
 
 # game/characters/mina/tj_1.rpy:91
 translate vietnamese mina_tj_1_4731a7b2:
@@ -177,8 +177,8 @@ translate vietnamese mina_tj_1_6d450bf7:
 # game/characters/mina/tj_1.rpy:102
 translate vietnamese mina_tj_1_14f9ea6a:
 
-    # me "Ahh.. It was nice."
-    me "Ahh.. vừa rồi tuyệt thật đấy."
+    # me "Ahh... It was nice."
+    me "Ahh... vừa rồi tuyệt thật đấy."
 
 # game/characters/mina/tj_1.rpy:103
 translate vietnamese mina_tj_1_de0b4b41:

@@ -63,8 +63,8 @@ translate vietnamese grace_3_2dbda4c7:
 # game/characters/grace/ev_3.rpy:17
 translate vietnamese grace_3_5d97014c:
 
-    # th "So it's her mother again.."
-    th "Vậy lại là mẹ của ẻm.."
+    # th "So it's her mother again..."
+    th "Vậy lại là mẹ của ẻm..."
 
 # game/characters/grace/ev_3.rpy:22
 translate vietnamese grace_3_e6a50fdd:
@@ -105,14 +105,14 @@ translate vietnamese grace_3_1_5c10abe0:
 # game/characters/grace/ev_3.rpy:43
 translate vietnamese grace_3_1_7e9f1f37:
 
-    # grace "Mom said that I can't go outside alone and Lexi doesn't want to go with me. So.."
-    grace "Mẹ nói rằng em không thể ra ngoài một mình và Lexi không muốn em đi cùng. Cho nên.."
+    # grace "Mom said that I can't go outside alone and Lexi doesn't want to go with me. So..."
+    grace "Mẹ nói rằng em không thể ra ngoài một mình và Lexi không muốn em đi cùng. Cho nên..."
 
 # game/characters/grace/ev_3.rpy:44
 translate vietnamese grace_3_1_ab73cf63:
 
     # "As you see her eyes looking at you expectantly, you have a premonition that something bad is about to happen."
-    "Khi thấy ánh mắt nàng nhìn bạn đầy mong đợi, bạn có điềm báo rằng sắp có chuyện chẳng lành.."
+    "Khi thấy ánh mắt nàng nhìn bạn đầy mong đợi, bạn có điềm báo rằng sắp có chuyện chẳng lành..."
 
 # game/characters/grace/ev_3.rpy:45
 translate vietnamese grace_3_1_642ef4f7:
@@ -135,8 +135,8 @@ translate vietnamese grace_3_1_7cadaf64:
 # game/characters/grace/ev_3.rpy:51
 translate vietnamese grace_3_1_ea986f7b:
 
-    # th "Uhh.. It seems I was worried for nothing."
-    th "Uhh.. Có vẻ như mình lo lắng hơi thừa rồi."
+    # th "Uhh... It seems I was worried for nothing."
+    th "Uhh... Có vẻ như mình lo lắng hơi thừa rồi."
 
 # game/characters/grace/ev_3.rpy:52
 translate vietnamese grace_3_1_6419bba8:

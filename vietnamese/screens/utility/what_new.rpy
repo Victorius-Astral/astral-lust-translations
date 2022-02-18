@@ -32,7 +32,7 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:204
     old "Meet Rachel, the second fox girl introduced! Along with Little Fox there are 11 new story events and 3 repeatable events for the fox girls. Build the foxshrine and get the two vixens to live with you! There is also a new outfit for the Little Fox!"
-    new "Gặp Rachel, cô gái hồ ly thứ hai được giới thiệu! Có 11 sự kiện cốt truyện mới và 3 sự kiện lặp lại cho các cô gái cáo. Xây dựng Đên cáo và có được hai nàng cáo sống với bạn! Ngoài ra còn có một bộ trang phục mới cho cô Cáo nhỏ!"
+    new "Gặp Rachel, cô gái hồ ly thứ hai được giới thiệu! Có 11 sự kiện cốt truyện mới và 3 sự kiện lặp lại cho các cô gái cáo. Xây dựng Đên cáo và có được hai nàng cáo sống với bạn! Ngoài ra còn có một bộ trang phục mới cho cô Tiểu Cáo!"
 
     # game/screens/utility/what_new.rpy:216
     old "{b}New Grace activities{/b}"

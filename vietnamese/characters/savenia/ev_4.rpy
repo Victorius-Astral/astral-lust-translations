@@ -39,8 +39,8 @@ translate vietnamese savenia_4_64388b53:
 # game/characters/savenia/ev_4.rpy:34
 translate vietnamese savenia_4_8a29f485:
 
-    # savenia "Exercises won't change that.."
-    savenia "Các bài tập sẽ không thay đổi điều đó đâu.."
+    # savenia "Exercises won't change that..."
+    savenia "Các bài tập sẽ không thay đổi điều đó đâu..."
 
 # game/characters/savenia/ev_4.rpy:35
 translate vietnamese savenia_4_4b4b40b9:
@@ -51,8 +51,8 @@ translate vietnamese savenia_4_4b4b40b9:
 # game/characters/savenia/ev_4.rpy:36
 translate vietnamese savenia_4_1833986e:
 
-    # savenia "There might be something in this after all.."
-    savenia "Cũng có thể việc này sẽ giúp.."
+    # savenia "There might be something in this after all..."
+    savenia "Cũng có thể việc này sẽ giúp..."
 
 # game/characters/savenia/ev_4.rpy:41
 translate vietnamese savenia_4_7e8c5328:
@@ -81,20 +81,20 @@ translate vietnamese savenia_4_6072c6b6:
 # game/characters/savenia/ev_4.rpy:49
 translate vietnamese savenia_4_e7bc22db:
 
-    # savenia "Hm.. Any ideas?"
-    savenia "Hm.. Có ý tưởng gì không?"
+    # savenia "Hm... Any ideas?"
+    savenia "Hm... Có ý tưởng gì không?"
 
 # game/characters/savenia/ev_4.rpy:50
 translate vietnamese savenia_4_709d8ba9:
 
-    # me "Let me think about it.."
-    me "Để tớ nghĩ đã.."
+    # me "Let me think about it..."
+    me "Để tớ nghĩ đã..."
 
 # game/characters/savenia/ev_4.rpy:57
 translate vietnamese savenia_4_menu1_fc295883:
 
-    # savenia "We just eliminated this as an option.."
-    savenia "Chúng ta vừa loại bỏ điều đó như một lựa chọn đấy.."
+    # savenia "We just eliminated this as an option..."
+    savenia "Chúng ta vừa loại bỏ điều đó như một lựa chọn đấy..."
 
 # game/characters/savenia/ev_4.rpy:58
 translate vietnamese savenia_4_menu1_994baefb:
@@ -117,8 +117,8 @@ translate vietnamese savenia_4_menu1_6b7ed96c:
 # game/characters/savenia/ev_4.rpy:68
 translate vietnamese savenia_4_menu1_193b8a15:
 
-    # me "I was.."
-    me "Tớ đã.."
+    # me "I was..."
+    me "Tớ đã..."
 
 # game/characters/savenia/ev_4.rpy:69
 translate vietnamese savenia_4_menu1_25c461d3:
@@ -201,8 +201,8 @@ translate vietnamese savenia_4_menu1_682ba835:
 # game/characters/savenia/ev_4.rpy:102
 translate vietnamese savenia_4_menu1_eaabcc5d:
 
-    # me "You just took off your shorts and jacket.."
-    me "Cậu vừa cởi quần đùi và áo khoác.."
+    # me "You just took off your shorts and jacket..."
+    me "Cậu vừa cởi quần đùi và áo khoác..."
 
 # game/characters/savenia/ev_4.rpy:103
 translate vietnamese savenia_4_menu1_41d600db:
@@ -369,8 +369,8 @@ translate vietnamese savenia_4_part2_f1c4f93f:
 # game/characters/savenia/ev_4.rpy:154
 translate vietnamese savenia_4_part2_3ad1859c:
 
-    # me "But.."
-    me "Nhưng.."
+    # me "But..."
+    me "Nhưng..."
 
 # game/characters/savenia/ev_4.rpy:157
 translate vietnamese savenia_4_part2_0671d98f:
@@ -393,8 +393,8 @@ translate vietnamese savenia_4_part2_6e66e076:
 # game/characters/savenia/ev_4.rpy:162
 translate vietnamese savenia_4_part2_37074b70:
 
-    # me "What can I say.."
-    me "Tớ có thể nói gì đây.."
+    # me "What can I say..."
+    me "Tớ có thể nói gì đây..."
 
 # game/characters/savenia/ev_4.rpy:179
 translate vietnamese savenia_4_part2_a4a0fb5a:
@@ -423,8 +423,8 @@ translate vietnamese savenia_4_part2_254f6633:
 # game/characters/savenia/ev_4.rpy:183
 translate vietnamese savenia_4_part2_40bb4888:
 
-    # me "Oh, okay.."
-    me "Oh, okay.."
+    # me "Oh, okay..."
+    me "Oh, okay..."
 
 # game/characters/savenia/ev_4.rpy:184
 translate vietnamese savenia_4_part2_fc0a8ec1:
@@ -543,8 +543,8 @@ translate vietnamese savenia_4_part2_7e9d4ce4:
 # game/characters/savenia/ev_4.rpy:227
 translate vietnamese savenia_4_part2_88095766:
 
-    # savenia "Ah.. Now that we are complimenting, I must say your dick is of not an average size."
-    savenia "Ah.. Bây giờ chúng ta mới đang khen này, phải nói là con hàng của cậu không phải cỡ trung bình.."
+    # savenia "Ah... Now that we are complimenting, I must say your dick is of not an average size."
+    savenia "Ah... Bây giờ chúng ta mới đang khen này, phải nói là con hàng của cậu không phải cỡ trung bình..."
 
 # game/characters/savenia/ev_4.rpy:228
 translate vietnamese savenia_4_part2_12e6f9db:
@@ -567,8 +567,8 @@ translate vietnamese savenia_4_part2_314086b3:
 # game/characters/savenia/ev_4.rpy:231
 translate vietnamese savenia_4_part2_be52fc90:
 
-    # savenia "Forget I said anything.."
-    savenia "Quên những gì tớ vừa nói đi.."
+    # savenia "Forget I said anything..."
+    savenia "Quên những gì tớ vừa nói đi..."
 
 # game/characters/savenia/ev_4.rpy:232
 translate vietnamese savenia_4_part2_3820771a:
@@ -597,8 +597,8 @@ translate vietnamese savenia_4_part2_57f0a9e0:
 # game/characters/savenia/ev_4.rpy:238
 translate vietnamese savenia_4_part2_c8cf92b6:
 
-    # th "Shit, I will get dirty.."
-    th "Má, mình sẽ bị bẩn mấtry.."
+    # th "Shit, I will get dirty..."
+    th "Má, mình sẽ bị bẩn mấtry..."
 
 # game/characters/savenia/ev_4.rpy:242
 translate vietnamese savenia_4_part2_f7817afc:
@@ -669,8 +669,8 @@ translate vietnamese savenia_4_part2_99f4a37b_1:
 # game/characters/savenia/ev_4.rpy:258
 translate vietnamese savenia_4_part2_d3a930f9:
 
-    # me "At least pretend to take my words to heart.."
-    me "Ít nhất cũng phải vờ để tâm đến lời lời nói của tớ đi chứ.."
+    # me "At least pretend to take my words to heart..."
+    me "Ít nhất cũng phải vờ để tâm đến lời lời nói của tớ đi chứ..."
 
 # game/characters/savenia/ev_4.rpy:259
 translate vietnamese savenia_4_part2_5f805d1c:
@@ -681,8 +681,8 @@ translate vietnamese savenia_4_part2_5f805d1c:
 # game/characters/savenia/ev_4.rpy:260
 translate vietnamese savenia_4_part2_87ddf6bd:
 
-    # me "Fine, whatever.."
-    me "Được rồi, sao cũng được.."
+    # me "Fine, whatever..."
+    me "Được rồi, sao cũng được..."
 
 # game/characters/savenia/ev_4.rpy:261
 translate vietnamese savenia_4_part2_a6a3c53d:
@@ -742,8 +742,8 @@ translate vietnamese savenia_4_part2_2d0904d2:
 # game/characters/savenia/ev_4.rpy:227
 translate vietnamese savenia_4_part2_7e07c87b:
 
-    # savenia "Ah.. Now that we are complimenting, I must say your dick is not of an average size."
-    savenia "Ah.. Now that we are complimenting, I must say your dick is not of an average size."
+    # savenia "Ah... Now that we are complimenting, I must say your dick is not of an average size."
+    savenia "Ah... Now that we are complimenting, I must say your dick is not of an average size."
 
 # game/characters/savenia/ev_4.rpy:242
 translate vietnamese savenia_4_part2_86c986b4:
