@@ -333,3 +333,11 @@ translate vietnamese strings:
     old "I should ask her next day how she gets along with the girls."
     new "I should ask her next day how she gets along with the girls."
 
+# TODO: Translation updated at 2022-02-18 12:36
+
+translate vietnamese strings:
+
+    # game/variables/tips.rpy:4
+    old "I should ask her more about the extraordinary world. (Main Story at least 12)"
+    new "I should ask her more about the extraordinary world. (Main Story at least 12)"
+
