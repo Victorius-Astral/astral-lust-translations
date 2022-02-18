@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-07-11 16:45
+﻿# Translation updated at 2021-07-11 16:45
 
 translate polish strings:
 
@@ -12,5 +12,4 @@ translate polish strings:
 
     # game/screens/menus/girls/kiara.rpy:34
     old "• Threesome: "
-    new "• Threesome: "
-
+    new "• Trójkąt: "

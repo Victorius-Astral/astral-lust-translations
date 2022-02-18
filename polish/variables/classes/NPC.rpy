@@ -12,11 +12,11 @@ translate polish strings:
 
     # game/variables/classes/NPC.rpy:114
     old "{}'s submission + {}"
-    new "Posłuszeństwo {} + {}"
+    new "Uległość {} + {}"
 
     # game/variables/classes/NPC.rpy:124
     old "{}'s submission - {}"
-    new "Posłuszeństwo {} - {}"
+    new "Uległość {} - {}"
 
     # game/variables/classes/NPC.rpy:148
     old "{} outfit unlocked ({})."

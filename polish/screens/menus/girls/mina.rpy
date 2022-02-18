@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-07-11 16:45
+﻿# Translation updated at 2021-07-11 16:45
 
 translate polish strings:
 
@@ -12,13 +12,12 @@ translate polish strings:
 
     # game/screens/menus/girls/mina.rpy:30
     old "• Route: None"
-    new "• Route: None"
+    new "• Ścieżka: Brak"
 
     # game/screens/menus/girls/mina.rpy:33
     old "• Route: {love}Love{/love}"
-    new "• Route: {love}Love{/love}"
+    new "• Ścieżka: {love}Miłość{/love}"
 
     # game/screens/menus/girls/mina.rpy:36
     old "• Route: {trust}Friendship{/trust}"
-    new "• Route: {trust}Friendship{/trust}"
-
+    new "• Ścieżka: {trust}Przyjaźń{/trust}"
