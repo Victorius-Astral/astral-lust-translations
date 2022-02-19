@@ -27,7 +27,7 @@ translate vietnamese alice_10_0faaa5ed:
 # game/characters/alice/ev_10.rpy:20
 translate vietnamese alice_10_647087e1:
 
-    # alice "You don't want to then? That's good, I almost undressed for you..."
+    # alice "You don't want to then? That's good, I almost undressed for you.."
     alice "Anh không muốn sao? Tốt quá, em suýt nữa đã cởi quần cho anh rồi..."
 
 # game/characters/alice/ev_10.rpy:21

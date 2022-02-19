@@ -76,7 +76,7 @@ translate vietnamese alice_7_542ad362:
 translate vietnamese alice_7_1_fdc44ce5:
 
     # alice "You know what? I've got an idea. Let's play a game."
-    alice "Anh biết gì không? Em có ý này. Hãy chơi một trò chơi đi."
+    alice "Anh biết gì không? Em có ý này nè. Hãy chơi 1 trò chơi đi."
 
 # game/characters/alice/ev_7.rpy:59
 translate vietnamese alice_7_1_c2739e5a:
@@ -88,7 +88,7 @@ translate vietnamese alice_7_1_c2739e5a:
 translate vietnamese alice_7_1_4e64e798:
 
     # alice "I'll ask you a question, and if you answer correctly I'll give you something."
-    alice "Em sẽ hỏi anh một câu hỏi và nếu Anh trả lời đúng, Em sẽ cho anh một thứ."
+    alice "Em sẽ hỏi anh một câu hỏi và nếu anh trả lời đúng, em sẽ cho anh một thứ."
 
 # game/characters/alice/ev_7.rpy:65
 translate vietnamese alice_7_1_8a8496e8:
@@ -124,7 +124,7 @@ translate vietnamese alice_7_1_451dd1cd:
 translate vietnamese alice_7_1_f6971219:
 
     # alice "So, are you in?"
-    alice "Vậy, anh có chơi không?"
+    alice "Vậy anh có chơi không?"
 
 # game/characters/alice/ev_7.rpy:77
 translate vietnamese alice_7_1_1420afa3:
@@ -220,7 +220,7 @@ translate vietnamese al_7_me_80adbec5:
 translate vietnamese al_7_me_cfe76ef9:
 
     # alice "You can give me one, though."
-    alice "Anh có thể hôn em luôn cũng được."
+    alice "Anh có thể cho em luôn cũng được mà."
 
 # game/characters/alice/ev_7.rpy:121
 translate vietnamese al_7_me_346b45ff:
@@ -244,7 +244,7 @@ translate vietnamese al_7_me_ed012367:
 translate vietnamese al_7_me_d139861c:
 
     # alice "Are you playing with me?"
-    alice "Em đang chơi đùa với anh hả?"
+    alice "Anh đang chơi đùa với em hả?"
 
 # game/characters/alice/ev_7.rpy:136
 translate vietnamese al_7_me_76117695:
@@ -659,7 +659,7 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_7.rpy:312
     old "help me"
-    new "hentaiz.net "
+    new "hentaiz.net"
 
 # TODO: Translation updated at 2022-02-06 09:10
 

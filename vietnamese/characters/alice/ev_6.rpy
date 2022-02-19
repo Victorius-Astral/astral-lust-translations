@@ -363,4 +363,4 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_6.rpy:90
     old "She trains at the gym from time to time. It makes her tranquil. I can accompany her if I want."
-    new "Cô ấy tập luyện tại phòng gym ngày qua ngày. Nó làm cho cô ấy cảm thấy yên bình. Mình có thể vào tập cùng cô ấy nếu mình muốn."
+    new "Cô ấy tập luyện tại phòng gym ngày qua ngày. Nó làm cho cô ấy cảm thấy yên bình. Mình có thể tập cùng cô ấy nếu mình muốn."
