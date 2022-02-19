@@ -240,3 +240,15 @@ translate vietnamese strings:
     # game/variables/help.rpy:3
     old "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over. Be careful.{/color}"
     new "{color=#45B6FE}12. Nếu sự tỉnh táo của bạn còn 0\\% hoặc sự sa đọa đạt 100% thì game over. Hãy cẩn thận.{/color}"
+# TODO: Translation updated at 2022-02-19 01:56
+
+translate vietnamese strings:
+
+    # game/variables/help.rpy:3
+    old "Play with her, or wait for her lust to reach the critical point.. What will she do once her lust goes over the roof?"
+    new "Play with her, or wait for her lust to reach the critical point.. What will she do once her lust goes over the roof?"
+
+    # game/variables/help.rpy:3
+    old "Here you can.. store things! Surprising, I know."
+    new "Here you can.. store things! Surprising, I know."
+

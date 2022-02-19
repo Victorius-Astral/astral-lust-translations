@@ -119,3 +119,11 @@ translate vietnamese strings:
     # game/places/hotel/player/bed.rpy:133
     old "Pull the trigger"
     new "Bóp cò"
+# TODO: Translation updated at 2022-02-19 01:56
+
+translate vietnamese strings:
+
+    # game/places/hotel/player/bed.rpy:5
+    old "Sleep with.. {#visible}"
+    new "Sleep with.. {#visible}"
+

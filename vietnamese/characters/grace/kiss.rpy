@@ -2646,3 +2646,19 @@ translate vietnamese grace_kiss_night_cor3_6ba39ef8:
 
     # me "Yeah, yeah. Go change, I still owe you a goodnight kiss, don't I?"
     me "Yeah. Đi thay đồ đi, anh vẫn nợ em một nụ hôn chúc ngủ ngon đúng không?"
+# TODO: Translation updated at 2022-02-19 01:56
+
+translate vietnamese strings:
+
+    # game/characters/grace/kiss.rpy:398
+    old "{mad}Let's play..{/mad} {cor}[[Madness]{/cor}"
+    new "{mad}Let's play..{/mad} {cor}[[Madness]{/cor}"
+
+    # game/characters/grace/kiss.rpy:726
+    old "{mad}Fun just began..{/mad} {cor}[[Madness]{/cor}"
+    new "{mad}Fun just began..{/mad} {cor}[[Madness]{/cor}"
+
+    # game/characters/grace/kiss.rpy:875
+    old "{mad}Let's play with your little ass..{/mad} {cor}[[Madness]{/cor}"
+    new "{mad}Let's play with your little ass..{/mad} {cor}[[Madness]{/cor}"
+

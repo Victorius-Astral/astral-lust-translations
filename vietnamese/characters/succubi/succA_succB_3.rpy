@@ -715,3 +715,11 @@ translate vietnamese strings:
     # game/characters/succubi/succA_succB_3.rpy:215
     old "No is no"
     new "Tôi đã nói là không rồi mà"
+# TODO: Translation updated at 2022-02-19 01:56
+
+translate vietnamese strings:
+
+    # game/characters/succubi/succA_succB_3.rpy:181
+    old "It better be worth my time.."
+    new "It better be worth my time.."
+

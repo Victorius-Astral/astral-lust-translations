@@ -2045,3 +2045,19 @@ translate vietnamese girl_night_sleep_44a82e18:
     # me "Alright, I've had enough. I'm going to sleep."
     me "Alright, I've had enough. I'm going to sleep."
 
+# TODO: Translation updated at 2022-02-19 01:56
+
+translate vietnamese strings:
+
+    # game/events/activities/pyjamas_party.rpy:342
+    old "I don't have any.."
+    new "I don't have any.."
+
+    # game/events/activities/pyjamas_party.rpy:448
+    old "This little gold digger wants gold nugget.."
+    new "This little gold digger wants gold nugget.."
+
+    # game/events/activities/pyjamas_party.rpy:483
+    old "She wants a.. diamond.."
+    new "She wants a.. diamond.."
+

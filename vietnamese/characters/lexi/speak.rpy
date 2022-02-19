@@ -522,3 +522,11 @@ translate vietnamese strings:
     # game/characters/lexi/speak.rpy:191
     old "The End arrived before her 20th birthday."
     new "The End arrived before her 20th birthday."
+# TODO: Translation updated at 2022-02-19 01:56
+
+translate vietnamese strings:
+
+    # game/characters/lexi/speak.rpy:12
+    old "Are you.. alright? {gold}(Story){/gold}"
+    new "Are you.. alright? {gold}(Story){/gold}"
+

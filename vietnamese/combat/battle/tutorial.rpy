@@ -385,3 +385,15 @@ translate vietnamese strings:
     # game/combat/battle/tutorial.rpy:356
     old "Follow the tutorial! It's not the time to end the turn yet."
     new "Làm theo hướng dẫn đi! Vẫn chưa đến lúc kết thúc lượt đâu."
+# TODO: Translation updated at 2022-02-19 01:56
+
+translate vietnamese strings:
+
+    # game/combat/battle/tutorial.rpy:55
+    old "We are short on spirituality.. We should prepare for his move. Do you see this thing above his head? It's an indication that means that he's going to attack either of us for 5 damage."
+    new "We are short on spirituality.. We should prepare for his move. Do you see this thing above his head? It's an indication that means that he's going to attack either of us for 5 damage."
+
+    # game/combat/battle/tutorial.rpy:79
+    old "He's going to attack again.. I fear that he might target me, could you please help me defend? Click on me to select me."
+    new "He's going to attack again.. I fear that he might target me, could you please help me defend? Click on me to select me."
+

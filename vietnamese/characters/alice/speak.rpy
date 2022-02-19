@@ -2134,3 +2134,15 @@ translate vietnamese strings:
     # game/characters/alice/speak.rpy:552
     old "Weave"
     new "Dệt"
+# TODO: Translation updated at 2022-02-19 01:56
+
+translate vietnamese strings:
+
+    # game/characters/alice/speak.rpy:21
+    old "I need another cosplay outfit.. {gold}(Story){/gold}"
+    new "I need another cosplay outfit.. {gold}(Story){/gold}"
+
+    # game/characters/alice/speak.rpy:21
+    old "I need a magical girl outfit.. {gold}(Story){/gold}"
+    new "I need a magical girl outfit.. {gold}(Story){/gold}"
+

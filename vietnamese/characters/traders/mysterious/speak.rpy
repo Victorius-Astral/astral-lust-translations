@@ -315,3 +315,11 @@ translate vietnamese strings:
     old "I have met a very weird, odd being, It claims to be a trader."
     new "I have met a very weird, odd being, It claims to be a trader."
 
+# TODO: Translation updated at 2022-02-19 01:56
+
+translate vietnamese strings:
+
+    # game/characters/traders/mysterious/speak.rpy:47
+    old "Listen here, you little shit.."
+    new "Listen here, you little shit.."
+
