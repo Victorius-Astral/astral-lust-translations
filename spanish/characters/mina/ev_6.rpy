@@ -341,5 +341,4 @@ translate spanish strings:
 
     # game/characters/mina/ev_6.rpy:77
     old "She considers me both her friend and her savior."
-    new "She considers me both her friend and her savior."
-
+    new "Ella me considera tanto su amigo como su salvador."

@@ -82,7 +82,7 @@ translate spanish grace_4_5c10b825:
 translate spanish grace_4_e5d0549f:
 
     # grace "Ahh! Right! I've seen that on tv!"
-    grace "¡Ah! Es verdad! ¡Lo he visto en la televisión!"
+    grace "¡Ahh! ¡Es verdad! ¡Lo he visto en la televisión!"
 
 # game/characters/grace/ev_4.rpy:47
 translate spanish grace_4_1b92f643:
@@ -112,7 +112,7 @@ translate spanish grace_4_95f93169:
 translate spanish grace_4_4540d3de:
 
     # "As you walk in [grace] turns to face you."
-    "Mientras caminas en [grace] se vuelve hacia ti."
+    "Mientras caminas en [grace] se da la vuelta para verte."
 
 # game/characters/grace/ev_4.rpy:65
 translate spanish grace_4_1_94e98351:
@@ -370,4 +370,3 @@ translate spanish strings:
     # game/characters/grace/ev_4.rpy:84
     old "She never met her father. Her mother kept saying he has never visited Grace because he doesn't love her."
     new "She never met her father. Her mother kept saying he has never visited Grace because he doesn't love her."
-

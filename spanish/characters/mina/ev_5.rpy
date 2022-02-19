@@ -184,7 +184,7 @@ translate spanish mina_5_d5384306:
 translate spanish mina_5_4510ed5b:
 
     # lexi "Hurry! We need to find her! Alice is already looking for her outside."
-    lexi "Rápido! ¡Tenemos que encontrarla! Alice ya la está buscando afuera."
+    lexi "¡Rápido! ¡Tenemos que encontrarla! Alice ya la está buscando afuera."
 
 # game/characters/mina/ev_5.rpy:51
 translate spanish mina_5_87832958:
@@ -316,7 +316,7 @@ translate spanish mina_5_e269123d:
 translate spanish mina_5_dc7a7d12:
 
     # "You suddenly understand why [lexi] is so panicked, [mina] ventured into the bandit's land!"
-    "¡De repente entiendes por qué [lexi] está tan asustada, [mina] se aventuró en la tierra de los bandidos!"
+    "¡De repente entiendes por qué [lexi] está tan asustada, [mina] se aventuró en territorio de bandidos!"
 
 # game/characters/mina/ev_5.rpy:84
 translate spanish mina_5_25801dab:
@@ -520,7 +520,7 @@ translate spanish mina_5_6_df8aca63:
 translate spanish mina_5_6_fc9a6068:
 
     # "Your blood leaking, your consciousness is slowly dimming."
-    "Tu sangre escapando, tu conciencia se está lentamente desvaneciéndose."
+    "Tu sangre escapando, tu conciencia lentamente se desvanece."
 
 # game/characters/mina/ev_5.rpy:176
 translate spanish mina_5_6_72409522:
@@ -562,7 +562,7 @@ translate spanish mina_5_1_8a387ce0:
 translate spanish mina_5_1_0c00c559:
 
     # "As you exit your room you hear weeping coming from downstairs. You head toward the sounds, praying that everyone is fine."
-    "Al salir de tu habitación, escuchas un llanto desde el piso de abajo. Te diriges hacia los sonidos, rezando que todos estén bien."
+    "Al salir de tu habitación, escuchas un llanto desde el piso de abajo. Te diriges hacia los sonidos, rezando que todas estén bien."
 
 # game/characters/mina/ev_5.rpy:196
 translate spanish mina_5_1_bae7134b:
@@ -724,7 +724,7 @@ translate spanish mina_5_2_966e4096:
 translate spanish mina_5_2_7fbac9e6:
 
     # me "Now, now you'll suffocate me. I'm hungry, why don't we all eat something first?"
-    me "Ahora, ahora me vas a asfixiar. Tengo hambre, ¿por qué no comemos algo primero?"
+    me "Bueno, bueno, que me vas a asfixiar. Tengo hambre, ¿por qué no comemos algo primero?"
 
 # game/characters/mina/ev_5.rpy:243
 translate spanish mina_5_2_6904e924:
@@ -748,7 +748,7 @@ translate spanish mina_5_2_a8d7f12b:
 translate spanish mina_5_2_dc0c3688:
 
     # alice "How did you get into the hotel? We checked everywhere and you weren't here.."
-    alice "¿Cómo entraste en el hotel? Comprobamos por todas partes y no estabas aquí..."
+    alice "¿Cómo entraste al hotel? Comprobamos por todas partes y no estabas aquí..."
 
 # game/characters/mina/ev_5.rpy:248
 translate spanish mina_5_2_45c8a06a:
@@ -772,7 +772,7 @@ translate spanish mina_5_2_c3922035:
 translate spanish mina_5_2_31392998:
 
     # "Even [grace] turned around to look at you in shock. It seems your words are too much for them, but that's hardly surprising."
-    "Incluso [grace] se dio la vuelta para mirarte en un estado de shock. Parece que tus palabras son demasiado para ellos, pero eso no es sorprendente."
+    "Incluso [grace] se dio la vuelta para mirarte en un estado de shock. Parece que tus palabras son demasiado para ellas, pero eso no es sorprendente."
 
 # game/characters/mina/ev_5.rpy:255
 translate spanish mina_5_2_db501e0f:
@@ -886,7 +886,7 @@ translate spanish mina_5_2_95af10fb:
 translate spanish mina_5_2_7048ca2a:
 
     # "The girls seem to be having a hard time digesting what you just told them."
-    "Las chicas parecen tener dificultades para digerir lo que les acabas de decir."
+    "Las chicas parecen tener dificultades para digerir lo que les acabas de contar."
 
 # game/characters/mina/ev_5.rpy:287
 translate spanish mina_5_2_d047c70a:
@@ -1024,7 +1024,7 @@ translate spanish mina_5_3_76a2ed5a:
 translate spanish mina_5_3_c00eac75:
 
     # th "Someone likes to be praised a lot haha."
-    th "Haha, a alguien le gusta que lo elogien mucho."
+    th "Haha, a alguien le gusta mucho que la elogien."
 
 # game/characters/mina/ev_5.rpy:342
 translate spanish mina_5_4_979a0be7:
@@ -1066,7 +1066,7 @@ translate spanish mina_5_4_6b008549:
 translate spanish mina_5_4_679ef5a7:
 
     # th "That sounds like [lexi].. She is berating her [lex_min] pretty hard for me to hear from across the corridor. I bet she could even be heard downstairs."
-    th "Eso suena como [lexi].. Ella está regañando a su [lex_min] bastante fuerte para que yo la escuche desde el otro lado del pasillo. Apuesto a que incluso se la podía escuchar abajo."
+    th "Eso suena como [lexi].. Ella está regañando a su [lex_min] bastante fuerte para que yo la escuche desde el otro lado del pasillo. Apuesto a que incluso se la podría escuchar abajo."
 
 # game/characters/mina/ev_5.rpy:351
 translate spanish mina_5_4_a5b98d0b:
@@ -1210,7 +1210,7 @@ translate spanish mina_5_5_75e3d5e8:
 translate spanish mina_5_5_14ebd707:
 
     # me "You did nothing to be sorry for."
-    me "No hiciste nada de lo que arrepentirte."
+    me "No hiciste nada de lo que tengas que disculparte."
 
 # game/characters/mina/ev_5.rpy:394
 translate spanish mina_5_5_7cea4c8d:
@@ -1222,13 +1222,13 @@ translate spanish mina_5_5_7cea4c8d:
 translate spanish mina_5_5_770647b0:
 
     # me "I told you to, besides I'm okay right?"
-    me "Te lo dije, además estoy bien, ¿verdad?"
+    me "Te dije que lo hicieras, y además estoy bien, ¿verdad?"
 
 # game/characters/mina/ev_5.rpy:396
 translate spanish mina_5_5_d93ae75c:
 
     # lexi "I ran away and let you face them by yourself."
-    lexi "Me escapé y te dejé enfrentarlos por ti mismo."
+    lexi "Escapé y te dejé enfrentarlos por ti mismo."
 
 # game/characters/mina/ev_5.rpy:397
 translate spanish mina_5_5_5ea53c03:
@@ -1246,7 +1246,7 @@ translate spanish mina_5_5_dc2dfa99:
 translate spanish mina_5_5_3ab9f149:
 
     # me "Stop or I'll get upset. It was my decision, and I won't blame you for it. So you shouldn't blame yourself for it either."
-    me "Detente o me enojaré. Fue mi decisión, y no te culparé por ello. Así que tampoco deberías culparte por ello."
+    me "Detente o me enojaré. Fue mi decisión, y no te culparé por ella. Así que tampoco deberías culparte."
 
 # game/characters/mina/ev_5.rpy:401
 translate spanish mina_5_5_3dd9b7e6:
