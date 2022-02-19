@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-15 14:21
+﻿# Translation updated at 2021-05-15 14:21
 
 translate polish strings:
 
@@ -41,11 +41,11 @@ translate polish strings:
     # game/variables/characters/events.rpy:11
     old "Man"
     new "Mężczyzna"
-# TODO: Translation updated at 2022-01-31 15:20
+
+# Translation updated at 2022-01-31 15:20
 
 translate polish strings:
 
     # game/variables/characters/events.rpy:16
     old "Something"
-    new "Something"
-
+    new "Coś"

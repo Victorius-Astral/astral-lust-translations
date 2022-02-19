@@ -10,7 +10,7 @@ translate vietnamese gym_vit_873b9e9f:
 translate vietnamese gym_vit_4a739fa7:
 
     # "You train your vitality." id gym_vit_4a739fa7
-    "Bạn rèn luyện Sức bền bỉ của mình." id gym_vit_4a739fa7
+    "Bạn rèn luyện Sinh lực của mình." id gym_vit_4a739fa7
 
 # game/places/hotel/expansions/gym/vit.rpy:21
 translate vietnamese gym_vit_ac89b13d:
@@ -22,4 +22,4 @@ translate vietnamese strings:
 
     # game/places/hotel/expansions/gym/vit.rpy:2
     old "Train vitality"
-    new "Rèn luyện Sức bền bỉ"
+    new "Rèn luyện Sinh lực"

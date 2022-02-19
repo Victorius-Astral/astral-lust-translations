@@ -10,7 +10,7 @@ translate vietnamese savenia_7_c8e5b142:
 translate vietnamese savenia_7_dba39cdf:
 
     # savenia "Hey, [me]."
-    savenia "A chào [me]."
+    savenia "Hey, [me]."
 
 # game/characters/savenia/ev_7.rpy:31
 translate vietnamese savenia_7_37963366:
@@ -342,4 +342,3 @@ translate vietnamese savenia_7_2e18990f:
 
     # th "So, she means - 'do something if I get stabbed in the back'."
     th "So, she means - 'do something if I get stabbed in the back'."
-

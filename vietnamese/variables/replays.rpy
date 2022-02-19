@@ -555,4 +555,28 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:89
     old "Agoraphobia"
-    new "Chứng sợ khoảng trống"
+    new "Agoraphobia"
+
+# TODO: Translation updated at 2022-02-18 12:36
+
+translate vietnamese strings:
+
+    # game/variables/replays.rpy:130
+    old "Nightmare"
+    new "Ác mộng"
+
+    # game/variables/replays.rpy:163
+    old "Creation Myth"
+    new "Thần thoại Sáng tạo"
+
+    # game/variables/replays.rpy:232
+    old "Ending - Reunion"
+    new "Ending - Đoàn tụ"
+
+    # game/variables/replays.rpy:268
+    old "Adventurous Vixen"
+    new "Nàng Hồ ly du ngoạn"
+
+    # game/variables/replays.rpy:268
+    old "First Days in the Hotel"
+    new "Ngày đầu ở khách sạn"

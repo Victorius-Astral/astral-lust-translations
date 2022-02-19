@@ -4,9 +4,8 @@ translate polish strings:
 
     # game/screens/utility/langauge.rpy:1
     old "Spanish"
-    new "Spanish"
+    new "Hiszpański"
 
     # game/screens/utility/langauge.rpy:1
     old "Vietnamese"
-    new "Vietnamese"
-
+    new "Wietnamski"

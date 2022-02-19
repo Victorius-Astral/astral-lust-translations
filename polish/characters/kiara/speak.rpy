@@ -501,3 +501,11 @@ translate polish strings:
     old "Pick outfit."
     new "Pick outfit."
 
+# TODO: Translation updated at 2022-02-17 20:50
+
+translate polish strings:
+
+    # game/characters/kiara/speak.rpy:186
+    old "Pick an outfit."
+    new "Pick an outfit."
+

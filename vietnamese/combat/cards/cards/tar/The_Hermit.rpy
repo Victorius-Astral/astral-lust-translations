@@ -8,23 +8,23 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "vitality"
-    new "Sức bền bỉ"
+    new "Sinh lực"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "charisma"
-    new "sức thu hút"
+    new "Sức thu hút"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "agility"
-    new "nhanh nhẹn"
+    new "Nhanh nhẹn"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "wisdom"
-    new "sự thông thái"
+    new "Sự thông thái"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "strength"
-    new "sức mạnh"
+    new "Sức mạnh"
 # TODO: Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:

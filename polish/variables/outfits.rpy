@@ -81,11 +81,11 @@ translate polish strings:
     # game/variables/outfits.rpy:84
     old "Hundreds of years of holding back, and now she's hornier than ever."
     new "Setki lat wstrzemięźliwości, teraz jest bardziej napalona niż kiedykolwiek wcześniej."
-# TODO: Translation updated at 2022-02-16 09:42
+
+# Translation updated at 2022-02-16 09:42
 
 translate polish strings:
 
     # game/variables/outfits.rpy:3
     old "Cheongsam"
     new "Cheongsam"
-

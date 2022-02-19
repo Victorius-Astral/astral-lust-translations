@@ -15,7 +15,7 @@ translate vietnamese alice_bj2_1b0f217a:
 # game/characters/alice/bj_2.rpy:36
 translate vietnamese alice_bj2_eb95e18a:
 
-    # me "Yeah... Just like that."
+    # me "Yeah.. Just like that."
     me "Đúng rồi... Cứ như vậy đi."
 
 # game/characters/alice/bj_2.rpy:37

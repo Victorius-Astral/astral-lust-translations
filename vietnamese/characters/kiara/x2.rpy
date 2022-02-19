@@ -10,13 +10,13 @@ translate vietnamese kiara_x2_9392e68d:
 translate vietnamese kiara_x2_8475e12f:
 
     # me "Holy... I'm in the heavens?"
-    me "Holy... mình đang ở trên thiên đường?"
+    me "Vãi... mình đang ở trên thiên đường sao?"
 
 # game/characters/kiara/x2.rpy:23
 translate vietnamese kiara_x2_f3a17819:
 
     # kiara "No idiot, fuck me already!"
-    kiara "Không đâu đồ ngốc, đụ tôi đi!"
+    kiara "Không đâu đồ ngốc, địt tôi đi!"
 
 # game/characters/kiara/x2.rpy:24
 translate vietnamese kiara_x2_50fae695:

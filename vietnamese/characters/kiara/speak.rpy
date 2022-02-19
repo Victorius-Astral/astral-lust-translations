@@ -489,3 +489,11 @@ translate vietnamese strings:
     old "She seems to always know what I'm thinking about."
     new "She seems to always know what I'm thinking about."
 
+# TODO: Translation updated at 2022-02-18 12:36
+
+translate vietnamese strings:
+
+    # game/characters/kiara/speak.rpy:186
+    old "Pick an outfit."
+    new "Pick an outfit."
+

@@ -887,13 +887,13 @@ translate vietnamese mina_kiss_contest_dc2fb426:
 translate vietnamese mina_kiss_contest_1c986469:
 
     # "{vit}[[Vitality check passed]{/vit}"
-    "{vit}[[Sức bền bỉ đạt yêu cầu]{/vit}"
+    "{vit}[[Sinh lực đạt yêu cầu]{/vit}"
 
 # game/characters/mina/kiss.rpy:436
 translate vietnamese mina_kiss_contest_9876dc98:
 
     # "{vit}[[Vitality check failed]{/vit}"
-    "{vit}[[Sức bền bỉ không đủ]{/vit}"
+    "{vit}[[Sinh lực không đủ]{/vit}"
 
 # game/characters/mina/kiss.rpy:437
 translate vietnamese mina_kiss_contest_c9c91388:
@@ -1347,4 +1347,3 @@ translate vietnamese strings:
     # game/characters/mina/kiss.rpy:331
     old "I'll think about it. How about a simple kiss in the meanwhile"
     new "I'll think about it. How about a simple kiss in the meanwhile"
-

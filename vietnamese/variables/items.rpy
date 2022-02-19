@@ -153,3 +153,10 @@ translate vietnamese strings:
     # game/variables/items.rpy:4
     old "Antibiotics"
     new "Thuốc kháng sinh"
+# TODO: Translation updated at 2022-02-18 12:36
+
+translate vietnamese strings:
+
+    # game/variables/items.rpy:4
+    old "Ghoul Teeth"
+    new "Răng Ngạ Quỷ"

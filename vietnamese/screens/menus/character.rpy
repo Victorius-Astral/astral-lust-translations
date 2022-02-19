@@ -12,7 +12,7 @@ translate vietnamese strings:
 
     # game/screens/menus/character.rpy:13
     old "{b}{u}{color=#F4C25E}Strength{/color}{/u}{/b}\n{small}Increases damage dealt in combat by 1 every 5 points.{/small}\n\n{b}{u}{color=#32CD32}Agility{/color}{/u}{/b}\n{small}Every point gives 1% of avoiding damage and increases chance to escape combat by 2%.{/small}\n\n{b}{u}{color=#A71930}Vitality{/color}{/u}{/b}\n{small}Every point increases your maximum health by 3.{/small}\n\n{small}Increased at the gym.{/small}"
-    new "{b}{u}{color=#F4C25E}Sức mạnh{/color}{/u}{/b}\n{small}Tăng sát thương gây ra trong chiến đấu lên 1 mỗi 5 điểm.{/small}\n\n{b}{u}{color=#32CD32}Nhanh nhẹn{/color}{/u}{/b}\n{small}Mỗi điểm cho 1% tránh được sát thương và tăng cơ hội thoát khỏi giao tranh lên 2%.{/small}\n\n{b}{u}{color=#A71930}Sức bền bỉ{/color}{/u}{/b}\n{small}Mỗi điểm sẽ tăng máu tối đa của bạn lên 3.{/small}\n\n{small}Tăng lên khi tập trong phòng tâp.{/small}"
+    new "{b}{u}{color=#F4C25E}Sức mạnh{/color}{/u}{/b}\n{small}Tăng sát thương gây ra trong chiến đấu lên 1 mỗi 5 điểm.{/small}\n\n{b}{u}{color=#32CD32}Nhanh nhẹn{/color}{/u}{/b}\n{small}Mỗi điểm cho 1% tránh được sát thương và tăng cơ hội thoát khỏi giao tranh lên 2%.{/small}\n\n{b}{u}{color=#A71930}Sinh lực{/color}{/u}{/b}\n{small}Mỗi điểm sẽ tăng máu tối đa của bạn lên 3.{/small}\n\n{small}Tăng lên khi tập trong phòng tâp.{/small}"
 
     # game/screens/menus/character.rpy:13
     old "{b}{u}{color=#B29EC1}Intelligence{/color}{/b}{/u}\n{small}Used in some checks.{/small}\n\n{b}{u}{color=#C6E2FF}Wisdom{/color}{/b}{/u}\n{small}Every 10 point increase maximum spirituality by 1 point.{/small}\n\n{b}{u}{color=#FF958F}Charisma{/color}{/b}{/u}\n{small}Used in many checks. Used to make others agree with you during conversation.{/small}\n\n{small}Increased in the player room.{/small}"
@@ -52,7 +52,7 @@ translate vietnamese strings:
 
     # game/screens/menus/character.rpy:73
     old "Strength:\nAgility:\nVitality:"
-    new "Sức mạnh:\nNhanh nhẹn:\nSức bền bỉ:"
+    new "Sức mạnh:\nNhanh nhẹn:\nSinh lực:"
 
     # game/screens/menus/character.rpy:74
     old "[player.strength]\n[player.agility]\n[player.vitality]"

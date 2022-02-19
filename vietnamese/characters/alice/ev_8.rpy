@@ -702,9 +702,8 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_8.rpy:144
     old "Charisma check passed]"
-    new "Charisma check passed]"
+    new "Sức thu hút đạt yêu cầu]"
 
     # game/characters/alice/ev_8.rpy:146
     old "Charisma check failed]"
-    new "Charisma check failed]"
-
+    new "Sức thu hút không đủ]"

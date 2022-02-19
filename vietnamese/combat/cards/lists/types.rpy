@@ -12,7 +12,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/types.rpy:3
     old "Ability"
-    new "Khả năng"
+    new "Kỹ Năng"
 
     # game/combat/cards/lists/types.rpy:3
     old "Power"

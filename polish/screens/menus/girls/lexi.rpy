@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-07-11 16:45
+﻿# Translation updated at 2021-07-11 16:45
 
 translate polish strings:
 
@@ -18,11 +18,10 @@ translate polish strings:
     old "• Thighjob: "
     new "• Thighjob: "
 
-# TODO: Translation updated at 2022-01-31 15:20
+# Translation updated at 2022-01-31 15:20
 
 translate polish strings:
 
     # game/screens/menus/girls/lexi.rpy:23
     old "Nicknames: Lex"
-    new "Nicknames: Lex"
-
+    new "Ksywki: Lex"

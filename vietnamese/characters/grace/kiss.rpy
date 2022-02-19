@@ -58,7 +58,7 @@ translate vietnamese grace_kiss_2cfc9e05:
 translate vietnamese grace_kiss_56ba5b30:
 
     # grace "I don't know..."
-    grace "I don't know..."
+    grace "Em không biết nữa..."
 
 # game/characters/grace/kiss.rpy:69
 translate vietnamese grace_kiss_f37d54f6:

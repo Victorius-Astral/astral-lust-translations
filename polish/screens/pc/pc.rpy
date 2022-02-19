@@ -1,44 +1,43 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# Translation updated at 2022-01-31 15:20
 
 translate polish strings:
 
     # game/screens/pc/pc.rpy:3
     old "Collectibles"
-    new "Collectibles"
+    new "Znajdźki"
 
     # game/screens/pc/pc.rpy:3
     old "Wallpapers"
-    new "Wallpapers"
+    new "Tapety"
 
     # game/screens/pc/pc.rpy:3
     old "Debug Menu"
-    new "Debug Menu"
+    new "Menu Debug"
 
     # game/screens/pc/pc.rpy:3
     old "Replay Menu"
-    new "Replay Menu"
+    new "Powtórki"
 
     # game/screens/pc/pc.rpy:3
     old "Insert Code"
-    new "Insert Code"
+    new "Wprowadź Kod"
 
     # game/screens/pc/pc.rpy:14
     old "What's new"
-    new "What's new"
+    new "Co nowego?"
 
     # game/screens/pc/pc.rpy:14
     old "Show all existing cards"
-    new "Show all existing cards"
+    new "Pokaż wszystkie istniejące karty"
 
     # game/screens/pc/pc.rpy:99
     old "|{#pcSeparator}"
     new "|{#pcSeparator}"
 
-# TODO: Translation updated at 2022-02-16 09:42
+# Translation updated at 2022-02-16 09:42
 
 translate polish strings:
 
     # game/screens/pc/pc.rpy:3
     old "Difficulty Settings"
-    new "Difficulty Settings"
-
+    new "Ustawienia Trudności"

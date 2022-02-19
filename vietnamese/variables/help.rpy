@@ -116,7 +116,7 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "To the right of it, there is a bike, where you'll increase your vitality."
-    new "Phía bên phải, có một chiếc xe đạp, nơi bạn sẽ tăng cường sức bền bỉ của mình."
+    new "Phía bên phải, có một chiếc xe đạp, nơi bạn sẽ tăng cường Sinh lực của mình."
 
     # game/variables/help.rpy:3
     old "The agility training facility is the easiest to notice, to the left, there is a vaulting horse, you can jump over, and a lot of mattresses."

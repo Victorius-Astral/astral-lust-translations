@@ -311,24 +311,32 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "I bet she would want to talk about something in a few days. I should wait at my room for her."
-    new "I bet she would want to talk about something in a few days. I should wait at my room for her."
+    new "Mình cá là cô ấy sẽ muốn nói về điều gì đó trong vài ngày tới. Mình nên đợi cô ấy ở phòng mình."
 
     # game/variables/tips.rpy:4
     old "She probably misses her mom. Maybe she needs me, so I should check on her from time to time."
-    new "She probably misses her mom. Maybe she needs me, so I should check on her from time to time."
+    new "Chắc cô ấy nhớ mẹ. Có lẽ cô ấy cần tôi, mình nên kiểm tra cô ấy đều đều."
 
     # game/variables/tips.rpy:4
     old "She looks down lately. I should speak with her."
-    new "She looks down lately. I should speak with her."
+    new "Dạo này cô ấy xuống sắc quá. Tôi nên nói chuyện với cô ấy."
 
     # game/variables/tips.rpy:4
     old "She takes a shower sometimes during the evening. It might be fun if she likes me enough."
-    new "She takes a shower sometimes during the evening. It might be fun if she likes me enough."
+    new "Cô ấy thỉnh thoảng tắm vào buổi tối. Sẽ rất vui nếu cô ấy thích tôi."
 
     # game/variables/tips.rpy:4
     old "Rachel wants me to get a magician outfit. Alice could help."
-    new "Rachel wants me to get a magician outfit. Alice could help."
+    new "Rachel muốn mình có được một bộ trang phục pháp sư. Alice có thể giúp."
 
     # game/variables/tips.rpy:4
     old "I should ask her next day how she gets along with the girls."
-    new "I should ask her next day how she gets along with the girls."
+    new "Mình nên hỏi cô ấy vào ngày hôm sau xem."
+
+# TODO: Translation updated at 2022-02-18 12:36
+
+translate vietnamese strings:
+
+    # game/variables/tips.rpy:4
+    old "I should ask her more about the extraordinary world. (Main Story at least 12)"
+    new "Mình nên hỏi cô ấy nhiều hơn về thế giới thần thánh. (Cốt chuyện chính ít nhất 12)"

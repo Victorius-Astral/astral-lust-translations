@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# Translation updated at 2021-05-12 10:09
 
 # game/script.rpy:50
 translate polish start_3cb4f043:
@@ -667,7 +667,8 @@ translate polish strings:
     # game/script.rpy:288
     old "Equipment"
     new "Sprzęt"
-# TODO: Translation updated at 2022-01-31 15:20
+
+# Translation updated at 2022-01-31 15:20
 
 translate polish strings:
 
