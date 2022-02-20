@@ -883,11 +883,11 @@ translate spanish strings:
     new "Tengonunas preguntas."
 
     # game/characters/alice/speak.rpy:31
-    old "Give antibiotics"
+    old "Give antibiotics {#visible}"
     new "Dar antibióticos"
 
     # game/characters/alice/speak.rpy:31
-    old "Use extraordinary abilities"
+    old "Use extraordinary abilities {#visible}"
     new "Usa habilidades extraordinarias"
 
     # game/characters/alice/speak.rpy:31

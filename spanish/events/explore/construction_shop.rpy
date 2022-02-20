@@ -237,8 +237,8 @@ translate spanish exp_const_win_b866e660_1:
 translate spanish strings:
 
     # game/events/explore/construction_shop.rpy:18
-    old "Easy there, I mean no offence"
-    new "Easy there, I mean no offence"
+    old "Easy there, I mean no offense"
+    new "Easy there, I mean no offense"
 
     # game/events/explore/construction_shop.rpy:18
     old "{color=#800080}[[Corruption / Madness]{/color} Your death"
@@ -782,4 +782,3 @@ translate spanish strings:
     # game/events/explore/construction_shop.rpy:278
     old "I raped someone. Can I live with it?"
     new "I raped someone. Can I live with it?"
-

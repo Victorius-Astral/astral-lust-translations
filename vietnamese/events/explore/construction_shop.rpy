@@ -621,7 +621,7 @@ translate vietnamese explore_construction_shop_anal_exit_77a94726_1:
 translate vietnamese strings:
 
     # game/events/explore/construction_shop.rpy:48
-    old "Easy there, I mean no offence"
+    old "Easy there, I mean no offense"
     new "Bình tĩnh, tôi không có ý xâu"
 
     # game/events/explore/construction_shop.rpy:48
@@ -658,4 +658,3 @@ translate vietnamese strings:
     # game/events/explore/construction_shop.rpy:278
     old "I raped someone. Can I live with it?"
     new "I raped someone. Can I live with it?"
-
