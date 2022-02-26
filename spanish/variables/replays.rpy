@@ -384,7 +384,7 @@ translate spanish strings:
 
     # game/variables/replays.rpy:173
     old "Main Story"
-    new "{small}Historia Principal{/small}"
+    new "Historia Principal"
 
     # game/variables/replays.rpy:173
     old "Lola"

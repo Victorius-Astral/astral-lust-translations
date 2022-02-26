@@ -286,7 +286,7 @@ translate spanish kiara_3_661a685a:
 translate spanish kiara_3_509dc428:
 
     # me "Then can you make unlimited copies of yourself?"
-    me "Entonces, ¿puedes hacer copias ilimitadas de ti mismo?"
+    me "Entonces, ¿puedes hacer copias ilimitadas de ti misma?"
 
 # game/characters/kiara/ev_3.rpy:91
 translate spanish kiara_3_a5cbfbed:
