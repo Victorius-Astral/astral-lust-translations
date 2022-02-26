@@ -380,3 +380,11 @@ translate spanish grace_mass_3_43a6aea0:
     # th "One, final look. Shit.. she is gorgeous.."
     th "One, final look. Shit.. she is gorgeous.."
 
+# TODO: Translation updated at 2022-02-26 14:57
+
+# game/characters/grace/mass_3.rpy:103
+translate spanish grace_mass_3_9b745f4a:
+
+    # grace "{small}Soooo goooood~{/small}"
+    grace "{small}Soooo goooood~{/small}"
+

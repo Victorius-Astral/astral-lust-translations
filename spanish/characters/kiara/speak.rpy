@@ -501,3 +501,11 @@ translate spanish strings:
     old "Pick outfit."
     new "Pick outfit."
 
+# TODO: Translation updated at 2022-02-26 14:57
+
+translate spanish strings:
+
+    # game/characters/kiara/speak.rpy:186
+    old "Pick an outfit."
+    new "Pick an outfit."
+

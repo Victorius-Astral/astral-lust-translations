@@ -782,3 +782,29 @@ translate spanish strings:
     # game/events/explore/construction_shop.rpy:278
     old "I raped someone. Can I live with it?"
     new "I raped someone. Can I live with it?"
+# TODO: Translation updated at 2022-02-26 14:57
+
+# game/events/explore/construction_shop.rpy:268
+translate spanish explore_construction_shop_win_124865fa:
+
+    # me "Ohh..."
+    me "Ohh..."
+
+# game/events/explore/construction_shop.rpy:273
+translate spanish explore_construction_shop_win_779945dd:
+
+    # me "That was nice, now I better get going before something comes here."
+    me "That was nice, now I better get going before something comes here."
+
+# game/events/explore/construction_shop.rpy:278
+translate spanish explore_construction_shop_win_3217e8b9:
+
+    # me "Ahh!!"
+    me "Ahh!!"
+
+# game/events/explore/construction_shop.rpy:283
+translate spanish explore_construction_shop_win_dfa85d93:
+
+    # me "Ahh... That was nice, time to go, though."
+    me "Ahh... That was nice, time to go, though."
+

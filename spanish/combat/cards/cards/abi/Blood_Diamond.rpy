@@ -13,3 +13,15 @@ translate spanish strings:
     # game/combat/cards/cards/abi/Blood_Diamond.rpy:68
     old "Please insert January 2022 Supporter code to activate the card."
     new "Por favor introduzca el código de colaborador de enero de 2022 para activar la carta."
+# TODO: Translation updated at 2022-02-26 14:57
+
+translate spanish strings:
+
+    # game/combat/cards/cards/abi/Blood_Diamond.rpy:7
+    old "coal"
+    new "coal"
+
+    # game/combat/cards/cards/abi/Blood_Diamond.rpy:7
+    old "diamond"
+    new "diamond"
+
