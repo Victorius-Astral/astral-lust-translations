@@ -830,7 +830,7 @@ translate spanish strings:
 
     # game/characters/grace/ev_5.rpy:63
     old "Maybe another time"
-    new "Quizás otra vez"
+    new "Quizás la próxima"
 
     # game/characters/grace/ev_5.rpy:138
     old "I mean that I like you"

@@ -184,7 +184,7 @@ translate spanish strings:
 
     # game/combat/battle/tutorial.rpy:40
     old "What we're gonna fight now is a werewolf. Don't worry that one is sick and retarded. Normally werewolves are much stronger!"
-    new "Contra lo que vamos a pelear ahora es un hombre lobo. No te preocupes si uno está enfermo y retrasado. ¡Normalmente los hombres lobo son mucho más fuertes!"
+    new "Contra lo que vamos a pelear ahora es un hombre lobo. No te preocupes, este está enfermo y retrasado. ¡Normalmente son mucho más fuertes!"
 
     # game/combat/battle/tutorial.rpy:41
     old "Health"
@@ -208,7 +208,7 @@ translate spanish strings:
 
     # game/combat/battle/tutorial.rpy:43
     old "Spirituality is an energy used to perform actions in combat. It is restored every turn. By default the maximum spirituality is three, but you can increase it by training wisdom with the books in your room."
-    new "Espiritualidad is an energy used to perform actions in combat. It is restored every turn. By default the maximum spirituality is three, but you can increase it by training wisdom with the books in your room."
+    new "es una energía usada para realizar acciones en combate. Se restaura cada turno. Por defecto, la espiritualidad máxima es tres, pero puedes aumentarla entrenando sabiduría con los libros de tu habitación."
 
     # game/combat/battle/tutorial.rpy:48
     old "Use Strike card"
@@ -216,15 +216,15 @@ translate spanish strings:
 
     # game/combat/battle/tutorial.rpy:48
     old "To win we need to kill the enemy. You can attack him with your cards. Try using Strike to hit him."
-    new "To win we need to kill the enemy. You can attack him with your cards. Try using Strike to hit him."
+    new "Para ganar necesitamos matar al enemigo. Puedes atacarlo con tus cartas. Intenta usar Golpe."
 
     # game/combat/battle/tutorial.rpy:50
     old "Use Strike again!"
-    new "Use Strike again!"
+    new "¡Usa Golpe otra vez!"
 
     # game/combat/battle/tutorial.rpy:50
     old "Nice! Hit him again!"
-    new "Nice! Hit him again!"
+    new "¡Bien! ¡Golpéalo otra vez!"
 
     # game/combat/battle/tutorial.rpy:55
     old "Intents"

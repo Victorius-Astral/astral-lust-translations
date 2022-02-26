@@ -310,7 +310,7 @@ translate spanish strings:
 
     # game/characters/player/ev_6.rpy:54
     old "\"They\""
-    new "\"They\""
+    new "\"Ellos\""
 
     # game/characters/player/ev_6.rpy:54
     old "Saying Throdog R'luhhor would make \"Them\" turn \"Their\" gazes toward the one calling."

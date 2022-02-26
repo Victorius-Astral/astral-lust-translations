@@ -416,7 +416,7 @@ translate spanish strings:
 
     # renpy/common/00gui.rpy:377
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "Perderá el progreso no guardado.\nA¿Está seguro de que desea hacer ésto?"
+    new "Perderá el progreso no guardado.\n¿Está seguro de que desea hacer esto?"
 
     # renpy/common/00gui.rpy:378
     old "Are you sure you want to quit?"

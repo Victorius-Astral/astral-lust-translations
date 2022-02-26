@@ -46,7 +46,7 @@ translate spanish main_3_d3b98cac:
 translate spanish main_3_552df06e:
 
     # "The voice sounds as if it's coming from a young man, yet it's filled with a wisdom and calmness that only comes with age. The voice is ethereal, entirely out of this world, and you can feel deep down that it hides unspeakable horrors. It drills into your head, trying to bore further into your mind."
-    "La voz suena como si viniera de un hombre joven, pero está llena de sabiduría y calma que solo viene con la edad. La voz es etérea, completamente fuera de este mundo, y puedes sentir en el fondo que esconde horrores indescriptibles. Taladra en tu cabeza, tratando de perforar más en tu mente."
+    "{small}La voz suena como si viniera de un hombre joven, pero está llena de sabiduría y calma que solo viene con la edad. La voz es etérea, completamente fuera de este mundo, y puedes sentir en el fondo que esconde horrores indescriptibles. Taladra en tu cabeza, tratando de perforar más en tu mente.{/small}"
 
 # game/characters/player/ev_3.rpy:19
 translate spanish main_3_10ef31ca:

@@ -196,7 +196,7 @@ translate spanish damsel_betrayal_traitorbetrayed_29564516:
 translate spanish damsel_betrayal_traitorbetrayed_6b9a4ceb:
 
     # me "You should've never involved me in your mess."
-    me "Nunca debiste involucrarme en tu lío."
+    me "Nunca deberías haberme arrastrado a tu desastre."
 
 # game/events/explore/damsel_betrayal.rpy:134
 translate spanish damsel_betrayal_traitorbetrayed_1f9c7d80:
