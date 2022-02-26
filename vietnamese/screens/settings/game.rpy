@@ -215,3 +215,11 @@ translate vietnamese strings:
     # game/screens/settings/game.rpy:137
     old "Center"
     new "Trung tâm"
+# TODO: Translation updated at 2022-02-26 15:07
+
+translate vietnamese strings:
+
+    # game/screens/settings/game.rpy:90
+    old "Notifications Style"
+    new "Notifications Style"
+

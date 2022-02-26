@@ -203,3 +203,11 @@ translate vietnamese strings:
     # game/functions/cheats.rpy:316
     old "Alice's lust and trust + 10"
     new "Sự ham muốn và tin tưởng của Alice + 10"
+# TODO: Translation updated at 2022-02-26 15:07
+
+translate vietnamese strings:
+
+    # game/functions/cheats.rpy:5
+    old "Dragon Girl"
+    new "Dragon Girl"
+

@@ -756,3 +756,65 @@ translate vietnamese grace_9_bb4f74f8:
 
     # "You put your fingers deeper with every move, you can feel her twitch in excitement."
     "Bạn đưa ngón tay vào sâu hơn theo từng cử động, bạn có thể cảm nhận được cô ấy co giật vì phấn khích."
+# TODO: Translation updated at 2022-02-26 15:07
+
+# game/characters/grace/ev_9.rpy:10
+translate vietnamese grace_9_8a0cd003:
+
+    # me "I have one. So, do you like them?" id grace_9_8a0cd003
+    me "I have one. So, do you like them?" id grace_9_8a0cd003
+
+# game/characters/grace/ev_9.rpy:22
+translate vietnamese grace_9_fe58fbd3:
+
+    # me "Easy there." id grace_9_fe58fbd3
+    me "Easy there." id grace_9_fe58fbd3
+
+# game/characters/grace/ev_9.rpy:33
+translate vietnamese grace_9_ad6fdc02:
+
+    # grace "Yay!" id grace_9_ad6fdc02
+    grace "Yay!" id grace_9_ad6fdc02
+
+# game/characters/grace/ev_9.rpy:35
+translate vietnamese grace_9_c5b6524a:
+
+    # th "What's with her today?" id grace_9_c5b6524a
+    th "What's with her today?" id grace_9_c5b6524a
+
+# game/characters/grace/ev_9.rpy:170
+translate vietnamese grace_9_acabccc3:
+
+    # th "Oh, I never had any doubt about that." id grace_9_acabccc3
+    th "Oh, I never had any doubt about that." id grace_9_acabccc3
+
+# game/characters/grace/ev_9.rpy:177
+translate vietnamese grace_9_e077852e:
+
+    # "A loud moan immediately escapes her mouth." id grace_9_e077852e
+    "A loud moan immediately escapes her mouth." id grace_9_e077852e
+
+# game/characters/grace/ev_9.rpy:178
+translate vietnamese grace_9_dc9350ab:
+
+    # th "Wow, it seems she's much more eager than she would want to show." id grace_9_dc9350ab
+    th "Wow, it seems she's much more eager than she would want to show." id grace_9_dc9350ab
+
+# game/characters/grace/ev_9.rpy:199
+translate vietnamese grace_9_43caf63a:
+
+    # me "Don't worry, I won't hurt you." id grace_9_43caf63a
+    me "Don't worry, I won't hurt you." id grace_9_43caf63a
+
+# game/characters/grace/ev_9.rpy:202
+translate vietnamese grace_9_c32deeff:
+
+    # me "Shhh.. don't talk, enjoy." id grace_9_c32deeff
+    me "Shhh.. don't talk, enjoy." id grace_9_c32deeff
+
+# game/characters/grace/ev_9.rpy:233
+translate vietnamese grace_9_b657a664:
+
+    # th "One final look. Shit, she's gorgeous.." id grace_9_b657a664
+    th "One final look. Shit, she's gorgeous.." id grace_9_b657a664
+

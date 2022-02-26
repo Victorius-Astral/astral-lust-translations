@@ -378,3 +378,11 @@ translate vietnamese grace_mass_3_43a6aea0:
 
     # th "One, final look. Shit... she is gorgeous..."
     th "Một cái nhìn cuối cùng. Đù... em ấy đẹp quá..."
+# TODO: Translation updated at 2022-02-26 15:07
+
+# game/characters/grace/mass_3.rpy:103
+translate vietnamese grace_mass_3_9b745f4a:
+
+    # grace "{small}Soooo goooood~{/small}"
+    grace "{small}Soooo goooood~{/small}"
+

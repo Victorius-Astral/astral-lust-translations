@@ -13,3 +13,15 @@ translate vietnamese strings:
     # game/combat/cards/cards/abi/Blood_Diamond.rpy:68
     old "Please insert January 2022 Supporter code to activate the card."
     new "Vui lòng nhập mã Hỗ trợ tháng 1 năm 2022 để kích hoạt thẻs."
+# TODO: Translation updated at 2022-02-26 15:07
+
+translate vietnamese strings:
+
+    # game/combat/cards/cards/abi/Blood_Diamond.rpy:7
+    old "coal"
+    new "coal"
+
+    # game/combat/cards/cards/abi/Blood_Diamond.rpy:7
+    old "diamond"
+    new "diamond"
+

@@ -605,3 +605,11 @@ translate vietnamese strings:
     old "She has a crush on Alice."
     new "She has a crush on Alice."
 
+# TODO: Translation updated at 2022-02-26 15:07
+
+# game/characters/mina/ev_3.rpy:40
+translate vietnamese mina_3_e9e0750b:
+
+    # mina "{quiet}Ahh~{/quiet}"
+    mina "{quiet}Ahh~{/quiet}"
+
