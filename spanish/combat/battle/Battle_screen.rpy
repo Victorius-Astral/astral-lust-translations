@@ -8,4 +8,4 @@ translate spanish strings:
 
     # game/combat/battle/Battle_screen.rpy:246
     old "End Turn"
-    new "Terminar Turno"
+    new "{small}Terminar Turno{/small}"
