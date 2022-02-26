@@ -63,55 +63,8 @@ translate spanish strings:
     # game/mods/Sample Mod/sample_mod.rpy:29
     old "Stay put"
     new "Quédate quieto"
+
 # TODO: Translation updated at 2022-01-25 22:41
-
-# game/mods/Sample Mod/sample_mod.rpy:151
-translate spanish Sample_Dream_8cdda6e0:
-
-    # "Weird stickman dances before your eyes."
-    "Weird stickman dances before your eyes."
-
-# game/mods/Sample Mod/sample_mod.rpy:154
-translate spanish Sample_Dream_6106590e:
-
-    # me "What the hell?"
-    me "What the hell?"
-
-# game/mods/Sample Mod/sample_mod.rpy:157
-translate spanish Sample_Dream_9f4aeda0:
-
-    # sample_stickman "Go on, dance with me!"
-    sample_stickman "Go on, dance with me!"
-
-# game/mods/Sample Mod/sample_mod.rpy:159
-translate spanish Sample_Dream_3820771a:
-
-    # me "..."
-    me "..."
-
-# game/mods/Sample Mod/sample_mod.rpy:160
-translate spanish Sample_Dream_7de70658:
-
-    # me "What is wrong with me to have a dream like that?"
-    me "What is wrong with me to have a dream like that?"
-
-# game/mods/Sample Mod/sample_mod.rpy:162
-translate spanish Sample_Dream_d2d05186:
-
-    # sample_stickman "What are you waiting for?"
-    sample_stickman "What are you waiting for?"
-
-# game/mods/Sample Mod/sample_mod.rpy:170
-translate spanish Sample_Dream_8df2e8c6:
-
-    # "You dance along with it."
-    "You dance along with it."
-
-# game/mods/Sample Mod/sample_mod.rpy:180
-translate spanish Sample_Dream_e3ee1aff:
-
-    # "You stay silent, not answering to any of it invites."
-    "You stay silent, not answering to any of it invites."
 
 translate spanish strings:
 
@@ -130,4 +83,3 @@ translate spanish strings:
     # game/mods/Sample Mod/sample_mod.rpy:129
     old "Disabled"
     new "Disabled"
-
