@@ -51,7 +51,7 @@ translate vietnamese alice_10_cad5c0e5:
 # game/characters/alice/ev_10.rpy:24
 translate vietnamese alice_10_8aecc055:
 
-    # alice "What are you saying, mister... I'm daddy's girl, I'm sooo innocent and well behaved..."
+    # alice "What are you saying, mister.. I'm daddy's girl, I'm sooo innocent and well behaved.."
     alice "Ông đang nói gì vậy, thưa ông... Con là daddy girl, con rất ngây thơ và cư xử tốt..."
 
 # game/characters/alice/ev_10.rpy:25
@@ -93,7 +93,7 @@ translate vietnamese alice_10_7f987bd6:
 # game/characters/alice/ev_10.rpy:39
 translate vietnamese alice_10_d4e22fe8:
 
-    # alice "[alice]? But I don't know what to do, daddy..."
+    # alice "[alice]? But I don't know what to do, daddy.."
     alice "[alice]? Nhưng daddy con không biết phải làm gì cả..."
 
 # game/characters/alice/ev_10.rpy:40
@@ -105,7 +105,7 @@ translate vietnamese alice_10_3bd7c746:
 # game/characters/alice/ev_10.rpy:45
 translate vietnamese alice_10_1854abac:
 
-    # alice "Hmmm... How about you lie down, daddy? [alice], will take care of you."
+    # alice "Hmmm.. How about you lie down, daddy? [alice], will take care of you."
     alice "Hmmm... Thế bây giờ daddy nằm xuống được không? Rồi [alice] sẽ chăm sóc cho."
 
 # game/characters/alice/ev_10.rpy:60
@@ -231,7 +231,7 @@ translate vietnamese alice_10_10253644:
 # game/characters/alice/ev_10.rpy:106
 translate vietnamese alice_10_0cbf2496:
 
-    # alice "You want to..."
+    # alice "You want to.."
     alice "Có phải anh muốn..."
 
 # game/characters/alice/ev_10.rpy:107
@@ -249,7 +249,7 @@ translate vietnamese alice_10_74f05a4e:
 # game/characters/alice/ev_10.rpy:111
 translate vietnamese alice_10_0b19baa3:
 
-    # alice "I-I..."
+    # alice "I-I.."
     alice "E-em..."
 
 # game/characters/alice/ev_10.rpy:115
@@ -297,7 +297,7 @@ translate vietnamese alice_10_5df87efc:
 # game/characters/alice/ev_10.rpy:133
 translate vietnamese alice_10_02353eea:
 
-    # alice "I do, I like you very much..."
+    # alice "I do, I like you very much.."
     alice "Em có, em thích anh rất rất nhiều..."
 
 # game/characters/alice/ev_10.rpy:134
@@ -327,13 +327,13 @@ translate vietnamese alice_10_ae1387b4:
 # game/characters/alice/ev_10.rpy:146
 translate vietnamese alice_10_4989fe05:
 
-    # me "I..."
+    # me "I.."
     me "Anh..."
 
 # game/characters/alice/ev_10.rpy:147
 translate vietnamese alice_10_f9e82162:
 
-    # alice "Shh..."
+    # alice "Shh.."
     alice "Suỵt..."
 
 # game/characters/alice/ev_10.rpy:149
@@ -423,7 +423,7 @@ translate vietnamese alice_10_part3_a80d6c56:
 # game/characters/alice/ev_10.rpy:187
 translate vietnamese alice_10_part3_3951cfbc:
 
-    # me "Ahh! You're so tight..."
+    # me "Ahh! You're so tight.."
     me "Ahh! Em chặt quá..."
 
 # game/characters/alice/ev_10.rpy:188
@@ -441,7 +441,7 @@ translate vietnamese alice_10_part3_388a1480:
 # game/characters/alice/ev_10.rpy:199
 translate vietnamese alice_10_part3_40976ab2:
 
-    # me "Ohh..."
+    # me "Ohh.."
     me "Ohh..."
 
 # game/characters/alice/ev_10.rpy:201
@@ -495,7 +495,7 @@ translate vietnamese alice_10_part3_7459a238:
 # game/characters/alice/ev_10.rpy:230
 translate vietnamese alice_10_part3_5d2f0ca8:
 
-    # alice "Ahh..."
+    # alice "Ahh.."
     alice "Ahh..."
 
 # game/characters/alice/ev_10.rpy:231
@@ -555,7 +555,7 @@ translate vietnamese alice_10_part3_2f3d23c6_1:
 # game/characters/alice/ev_10.rpy:267
 translate vietnamese alice_10_part3_5d2f0ca8_1:
 
-    # alice "Ahh..."
+    # alice "Ahh.."
     alice "Ahh..."
 
 # game/characters/alice/ev_10.rpy:268

@@ -63,7 +63,7 @@ translate vietnamese grace_4_0f8864fa:
 # game/characters/grace/ev_4.rpy:35
 translate vietnamese grace_4_8613d446:
 
-    # th "It could've gone worse I guess..."
+    # th "It could've gone worse I guess.."
     th "Mình đoán là nó có thể trở nên tồi tệ hơn..."
 
 # game/characters/grace/ev_4.rpy:42
@@ -135,7 +135,7 @@ translate vietnamese grace_4_1_1a0f8a5f:
 # game/characters/grace/ev_4.rpy:69
 translate vietnamese grace_4_1_1a688c68:
 
-    # grace "Mm. You can help me. You'll do ..."
+    # grace "Mm. You can help me. You'll do.."
     grace "Mm. Anh có thể giúp em..."
 
 # game/characters/grace/ev_4.rpy:71
@@ -189,8 +189,8 @@ translate vietnamese grace_4_1_b42de8a6:
 # game/characters/grace/ev_4.rpy:83
 translate vietnamese grace_4_1_f93c9dc7:
 
-    # th "Telling things like that to a little girl... Isn't her mother going too far?"
-    th "Kể những điều như vậy với một cô gái nhỏ ... Mẹ em ấy có đi quá xa không?"
+    # th "Telling things like that to a little girl.. Isn't her mother going too far?"
+    th "Kể những điều như vậy với một cô gái nhỏ... Mẹ em ấy có đi quá xa không?"
 
 # game/characters/grace/ev_4.rpy:85
 translate vietnamese grace_4_1_7b4d26a0:
@@ -261,7 +261,7 @@ translate vietnamese grace_4_1_a15057f5:
 # game/characters/grace/ev_4.rpy:100
 translate vietnamese grace_4_1_f563f0f2:
 
-    # grace "Oh..."
+    # grace "Oh.."
     grace "Oh..."
 
 # game/characters/grace/ev_4.rpy:102

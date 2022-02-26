@@ -27,7 +27,7 @@ translate vietnamese lexi_4_c7d87fe5:
 # game/characters/lexi/ev_4.rpy:8
 translate vietnamese lexi_4_a2f3242e:
 
-    # lexi "I don't know..."
+    # lexi "I don't know.."
     lexi "Em không biết..."
 
 # game/characters/lexi/ev_4.rpy:10
@@ -45,13 +45,13 @@ translate vietnamese lexi_4_1f877649:
 # game/characters/lexi/ev_4.rpy:12
 translate vietnamese lexi_4_d6738afc:
 
-    # lexi "I can't sleep, I have this feeling like something bad is about to happen..."
+    # lexi "I can't sleep, I have this feeling like something bad is about to happen.."
     lexi "Em không thể ngủ được, em có cảm giác như có điều gì đó tồi tệ sắp xảy ra..."
 
 # game/characters/lexi/ev_4.rpy:18
 translate vietnamese lexi_4_2790224c:
 
-    # lexi "Thank you... I hope you are right..."
+    # lexi "Thank you.. I hope you are right.."
     lexi "Cảm ơn... hy vọng anh đúng..."
 
 # game/characters/lexi/ev_4.rpy:23
@@ -117,7 +117,7 @@ translate vietnamese lexi_4_1_dfecc2c7:
 # game/characters/lexi/ev_4.rpy:47
 translate vietnamese lexi_4_1_ace1a4c8:
 
-    # lexi "They are not here..."
+    # lexi "They are not here.."
     lexi "Họ không có ở đây..."
 
 # game/characters/lexi/ev_4.rpy:48
@@ -226,7 +226,7 @@ translate vietnamese lexi_4_2_99044e15:
 translate vietnamese lexi_4_3_889d57ab:
 
     # lexi "I need to sleep, I must go out to look for food tomorrow at dawn so that we can have breakfast."
-    lexi "Em cần ngủ, ngày mai em phải ra ngoài kiếm đồ ăn để chúng ta ăn sáng..."
+    lexi "Em cần ngủ, ngày mai em phải ra ngoài kiếm đồ ăn để chúng ta ăn sáng."
 
 # game/characters/lexi/ev_4.rpy:102
 translate vietnamese lexi_4_3_4885640c:
@@ -265,5 +265,4 @@ translate vietnamese strings:
 
     # game/characters/lexi/ev_4.rpy:14
     old "Don't worry, with me here, you're safe"
-    new "Don't worry, with me here, you're safe"
-
+    new "Đừng lo, có anh ở đây, em sẽ an toàn thôi"

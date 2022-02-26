@@ -45,7 +45,7 @@ translate vietnamese mina_14_3f793292:
 # game/characters/mina/ev_14.rpy:17
 translate vietnamese mina_14_df738364:
 
-    # mina "Ahh..."
+    # mina "Ahh.."
     mina "Ahh..."
 
 # game/characters/mina/ev_14.rpy:18
@@ -63,7 +63,7 @@ translate vietnamese mina_14_6713f30b:
 # game/characters/mina/ev_14.rpy:22
 translate vietnamese mina_14_114566fd:
 
-    # th "Hmm... What was it? I've forgotten..."
+    # th "Hmm.. What was it? I've forgotten.."
     th "Hmm... là gì nhể? Mình quên mọe rồi..."
 
 # game/characters/mina/ev_14.rpy:25
@@ -93,7 +93,7 @@ translate vietnamese mina_14_3820771a:
 # game/characters/mina/ev_14.rpy:31
 translate vietnamese mina_14_cd778c7b:
 
-    # me "The first one..."
+    # me "The first one.."
     me "Cái đầu tiên..."
 
 # game/characters/mina/ev_14.rpy:34
@@ -106,7 +106,7 @@ translate vietnamese mina_14_7eab3647:
 translate vietnamese mina_14_4a5c925e:
 
     # mina "Alright, then. Let's just chill, I like your presence."
-    mina "Thôi được rồi. Chill như này được, em thích sự hiện diện của anh ở đây."
+    mina "Thôi được rồi. vậy thì cứ chill như này thôi, em thích sự hiện diện của anh ở đây."
 
 # game/characters/mina/ev_14.rpy:38
 translate vietnamese mina_14_10d587a2:
@@ -117,7 +117,7 @@ translate vietnamese mina_14_10d587a2:
 # game/characters/mina/ev_14.rpy:41
 translate vietnamese mina_14_981d0c5d:
 
-    # mina "Of course you do, we have gotten too close lately..."
+    # mina "Of course you do, we have gotten too close lately.."
     mina "Of course you do, we have gotten too close lately..."
 
 # game/characters/mina/ev_14.rpy:42
@@ -135,7 +135,7 @@ translate vietnamese mina_14_cde05b01:
 # game/characters/mina/ev_14.rpy:46
 translate vietnamese mina_14_d63ff4cb:
 
-    # mina "Umm... Alright, silence it is."
+    # mina "Umm.. Alright, silence it is."
     mina "Umm... Được rồi, im lặng thôi."
 
 # game/characters/mina/ev_14.rpy:47
@@ -153,7 +153,7 @@ translate vietnamese mina_14_30bbad82:
 # game/characters/mina/ev_14.rpy:54
 translate vietnamese mina_14_708e722c:
 
-    # mina "Mmm..."
+    # mina "Mmm.."
     mina "Mmm..."
 
 # game/characters/mina/ev_14.rpy:55
@@ -243,7 +243,7 @@ translate vietnamese mina_14_190d1311:
 # game/characters/mina/ev_14.rpy:81
 translate vietnamese mina_14_b2038269:
 
-    # me "I'm... sorry."
+    # me "I'm.. sorry."
     me "Anh... xin lỗi."
 
 # game/characters/mina/ev_14.rpy:82
@@ -261,7 +261,7 @@ translate vietnamese mina_14_74d12c1f:
 # game/characters/mina/ev_14.rpy:86
 translate vietnamese mina_14_4540f36b:
 
-    # me "Haha..."
+    # me "Haha.."
     me "Haha..."
 
 # game/characters/mina/ev_14.rpy:89
@@ -303,7 +303,7 @@ translate vietnamese mina_14_2ab28c98:
 # game/characters/mina/ev_14.rpy:99
 translate vietnamese mina_14_03c7d2c4:
 
-    # me "... Thanks?"
+    # me ".. Thanks?"
     me "... Cảm ơn?"
 
 # game/characters/mina/ev_14.rpy:102
@@ -375,13 +375,13 @@ translate vietnamese mina_14_863905d4:
 # game/characters/mina/ev_14.rpy:121
 translate vietnamese mina_14_32d3b667:
 
-    # th "Oh, [mina]... I fear you're being too optimistic here."
+    # th "Oh, [mina].. I fear you're being too optimistic here."
     th "Oh, [mina]... anh sợ là em đang quá lạc quan rồi đấy."
 
 # game/characters/mina/ev_14.rpy:124
 translate vietnamese mina_14_dd9636c7:
 
-    # me "Ahh..."
+    # me "Ahh.."
     me "Ahh..."
 
 # game/characters/mina/ev_14.rpy:125
@@ -401,23 +401,22 @@ translate vietnamese mina_14_a106143b:
 translate vietnamese mina_14_70775318:
 
     # mina "You don't remember why you've come here, or you've realized how stupid your question was?"
-    mina "You don't remember why you've come here, or you've realized how stupid your question was?"
+    mina "Anh không nhớ tại sao mình lại đến đây hay là anh đã nhận ra câu hỏi của mình thiểu năng đến mức nào hả?"
 
 # game/characters/mina/ev_14.rpy:37
 translate vietnamese mina_14_9e90437b:
 
     # mina "Alright, then. Let's just chill. I like your presence."
-    mina "Alright, then. Let's just chill. I like your presence."
+    mina "Thôi được rồi. vậy thì cứ chill như này thôi, em thích sự hiện diện của anh ở đây."
 
 # game/characters/mina/ev_14.rpy:74
 translate vietnamese mina_14_92cc5387:
 
     # mina "It was nice. I haven't slept that good in a while, although my neck hurts a little."
-    mina "It was nice. I haven't slept that good in a while, although my neck hurts a little."
+    mina "Tuyệt lắm, em đã không ngủ ngon như vậy được một thời gian rồi, mặc dù cổ em hơi đau."
 
 # game/characters/mina/ev_14.rpy:82
 translate vietnamese mina_14_eea2011a:
 
     # th "She is right. trouble always follows me around."
-    th "She is right. trouble always follows me around."
-
+    th "Em ấy đúng đấy, rắc rối luôn bám theo mình."

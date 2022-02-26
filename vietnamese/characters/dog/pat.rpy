@@ -33,7 +33,7 @@ translate vietnamese dog_pat_lobby_d44eba88:
 # game/characters/dog/pat.rpy:38
 translate vietnamese dog_pat_lobby_0539ad27:
 
-    # dog "Woof... Woof! Woof, Woof."
+    # dog "Woof.. Woof! Woof, Woof."
     dog "Gâu gâu! Gâu gâu."
 
 # game/characters/dog/pat.rpy:39

@@ -63,7 +63,7 @@ translate vietnamese alice_11_4e3af0ca:
 # game/characters/alice/ev_11.rpy:34
 translate vietnamese alice_11_ca1ef9e1:
 
-    # me "... Well, thanks?"
+    # me ".. Well, thanks?"
     me "...Chà, cảm ơn?"
 
 # game/characters/alice/ev_11.rpy:38
@@ -123,8 +123,8 @@ translate vietnamese alice_11_af139e4b:
 # game/characters/alice/ev_11.rpy:56
 translate vietnamese alice_11_7936f166:
 
-    # alice "Every good girl needs to know what her daddy has on his mind..."
-    alice "Mọi cô gái ngoan đều cần phải biết daddy của mình nghĩ gì ..."
+    # alice "Every good girl needs to know what her daddy has on his mind.."
+    alice "Mọi cô gái ngoan đều cần phải biết daddy của mình nghĩ gì..."
 
 # game/characters/alice/ev_11.rpy:57
 translate vietnamese alice_11_f36d58ed:
@@ -189,8 +189,8 @@ translate vietnamese alice_11_62b6ee04:
 # game/characters/alice/ev_11.rpy:86
 translate vietnamese alice_11_c01d5466:
 
-    # alice "Hmm... I don't know, I need to design them first. It might take a while, remember to come back when I'm ready."
-    alice "Hmm... Em không biết, em cần thiết kế chúng trước. Có thể mất một lúc, hãy nhớ quay lại khi em đã sẵn sàng."
+    # alice "Hmm.. I don't know, I need to design them first. It might take a while, remember to come back when I'm ready."
+    alice "Hmm... Em cũng không biết nữa, em cần thiết kế chúng trước. Có thể mất một lúc, hãy nhớ quay lại khi em đã sẵn sàng."
 
 # game/characters/alice/ev_11.rpy:87
 translate vietnamese alice_11_8a815fb0:

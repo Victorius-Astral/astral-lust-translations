@@ -57,7 +57,7 @@ translate vietnamese mina_9_6456fc67:
 # game/characters/mina/ev_9.rpy:21
 translate vietnamese mina_9_7ca09abb:
 
-    # mina "Umm..."
+    # mina "Umm.."
     mina "Ờmm..."
 
 # game/characters/mina/ev_9.rpy:22
@@ -165,7 +165,7 @@ translate vietnamese mina_9_part2_2930e26f:
 # game/characters/mina/ev_9.rpy:68
 translate vietnamese mina_9_part2_8eeea389:
 
-    # mina "I'm not sure how to ask this... Death, is it painful?"
+    # mina "I'm not sure how to ask this.. Death, is it painful?"
     mina "Em không biết làm thế nào để hỏi điều này nữa... Chết, có đau không?"
 
 # game/characters/mina/ev_9.rpy:69
@@ -237,7 +237,7 @@ translate vietnamese mina_9_part3_a600fae5:
 # game/characters/mina/ev_9.rpy:96
 translate vietnamese mina_9_part3_798af37f:
 
-    # mina "Wait, can you... hold me instead?"
+    # mina "Wait, can you.. hold me instead?"
     mina "Chờ đã, thay vào đó anh có thể... ôm em được không?"
 
 # game/characters/mina/ev_9.rpy:97
@@ -327,7 +327,7 @@ translate vietnamese mina_9_part3_952a0824:
 # game/characters/mina/ev_9.rpy:116
 translate vietnamese mina_9_part3_8b61b922:
 
-    # th "She is having a nightmare..."
+    # th "She is having a nightmare.."
     th "Lại gặp ác mộng rồi..."
 
 # game/characters/mina/ev_9.rpy:118
@@ -529,5 +529,4 @@ translate vietnamese strings:
 
     # game/characters/mina/ev_9.rpy:163
     old "She wanted to sleep with me saying I make her feel secure. I promised her I would welcome her again."
-    new "She wanted to sleep with me saying I make her feel secure. I promised her I would welcome her again."
-
+    new "Cô ấy muốn ngủ với tôi và nói rằng tôi làm cho cô ấy yên tâm. Tôi đã hứa với cô ấy tôi sẽ chào đón cô ấy một lần nữa."

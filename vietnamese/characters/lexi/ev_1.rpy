@@ -39,7 +39,7 @@ translate vietnamese lexi_1_cad20a9a:
 # game/characters/lexi/ev_1.rpy:21
 translate vietnamese lexi_1_137c4a29:
 
-    # lexi "Ohh... I'll go then."
+    # lexi "Ohh.. I'll go then."
     lexi "Ohh... Thế em sẽ đi vậy."
 
 # game/characters/lexi/ev_1.rpy:23
@@ -69,7 +69,7 @@ translate vietnamese lexi_1_1_35c66460:
 # game/characters/lexi/ev_1.rpy:32
 translate vietnamese lexi_1_1_cbc2a04f:
 
-    # th "Well I guess there is only one way to find out..."
+    # th "Well I guess there is only one way to find out.."
     th "Mình đoán là chỉ có một cách để tìm ra..."
 
 # game/characters/lexi/ev_1.rpy:37
@@ -81,8 +81,8 @@ translate vietnamese lexi_1_1_a9fe643f:
 # game/characters/lexi/ev_1.rpy:38
 translate vietnamese lexi_1_1_626b7990:
 
-    # th "This fog is so weird... Why does it never fade away?"
-    th "Sương mù này lạ quá... Tại sao nó không bao giờ tan ®i?"
+    # th "This fog is so weird.. Why does it never fade away?"
+    th "Sương mù này lạ quá... Tại sao nó không bao giờ tan vậy?"
 
 # game/characters/lexi/ev_1.rpy:39
 translate vietnamese lexi_1_1_ac037980:
@@ -153,7 +153,7 @@ translate vietnamese lexi_1_1_2941e101:
 # game/characters/lexi/ev_1.rpy:59
 translate vietnamese lexi_1_1_7cc9f907:
 
-    # th "I wonder what that is... Sounds like an elephant taking a walk. What should I do?"
+    # th "I wonder what that is.. Sounds like an elephant taking a walk. What should I do?"
     th "Mình tự hỏi đó là gì... Nghe như một con voi đang đi dạo. Mình nên làm gì đây?"
 
 # game/characters/lexi/ev_1.rpy:63
@@ -455,5 +455,4 @@ translate vietnamese strings:
 
     # game/characters/lexi/ev_1.rpy:71
     old "I encountered a terrifying abomination on my first trip outside, it was gigantic and looked like a lion."
-    new "I encountered a terrifying abomination on my first trip outside, it was gigantic and looked like a lion."
-
+    new "Tôi đã gặp phải một con quái vật đáng sợ trong chuyến đi đầu tiên ra ngoài, nó to lớn và trông giống như một con sư tử."

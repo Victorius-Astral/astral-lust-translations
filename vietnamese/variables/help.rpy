@@ -48,7 +48,7 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}8. Some events have other conditions like having other girl affection above some value.{/color}"
-    new "{color=#45B6FE}8. Một số sự kiện có các điều kiện khác như cần mức độ tình cảm của cô gái lớn hơn .{/color}"
+    new "{color=#45B6FE}8. Một số sự kiện có các điều kiện khác như cần mức độ yêu mến của cô gái lớn hơn .{/color}"
 
     # game/variables/help.rpy:3
     old "9. Every girl can have only one story event any given day."
@@ -251,4 +251,3 @@ translate vietnamese strings:
     # game/variables/help.rpy:3
     old "Here you can.. store things! Surprising, I know."
     new "Here you can.. store things! Surprising, I know."
-

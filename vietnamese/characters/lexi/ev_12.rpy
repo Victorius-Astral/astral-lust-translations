@@ -3,7 +3,7 @@
 # game/characters/lexi/ev_12.rpy:11
 translate vietnamese lexi_12_f9717830:
 
-    # me "[lexi], do you want to have..."
+    # me "[lexi], do you want to have.."
     me "[lexi], em có muốn s..."
 
 # game/characters/lexi/ev_12.rpy:16
@@ -21,7 +21,7 @@ translate vietnamese lexi_12_7098c72f:
 # game/characters/lexi/ev_12.rpy:23
 translate vietnamese lexi_12_44fd9074:
 
-    # lexi "Sorry, I didn't mean it like that... It's just that our sex was..."
+    # lexi "Sorry, I didn't mean it like that.. It's just that our sex was..."
     lexi "Xin lỗi, em không cố ý như vậy... Chỉ là lần đó của chúng ta..."
 
 # game/characters/lexi/ev_12.rpy:24
@@ -33,7 +33,7 @@ translate vietnamese lexi_12_123ee7fe:
 # game/characters/lexi/ev_12.rpy:25
 translate vietnamese lexi_12_5251b6c2:
 
-    # lexi "Yeah..."
+    # lexi "Yeah.."
     lexi "Yeah..."
 
 # game/characters/lexi/ev_12.rpy:26
@@ -63,8 +63,8 @@ translate vietnamese lexi_12_5e95bdcf:
 # game/characters/lexi/ev_12.rpy:38
 translate vietnamese lexi_12_49c6774e:
 
-    # lexi "And later when I thought about it I felt... empty..."
-    lexi "Và sau này khi nghĩ về nó, em cảm thấy ... trống rỗng..."
+    # lexi "And later when I thought about it I felt.. empty.."
+    lexi "Và sau này khi nghĩ về nó, em cảm thấy... trống rỗng..."
 
 # game/characters/lexi/ev_12.rpy:39
 translate vietnamese lexi_12_4fc8f80f:
@@ -75,7 +75,7 @@ translate vietnamese lexi_12_4fc8f80f:
 # game/characters/lexi/ev_12.rpy:40
 translate vietnamese lexi_12_4966d1ee:
 
-    # lexi "It's not about that. Before The End I would never think of doing stuff like that; I feel I've changed, I'm no longer myself..."
+    # lexi "It's not about that. Before The End I would never think of doing stuff like that; I feel I've changed, I'm no longer myself.."
     lexi "Không phải về việc đấy. Trước The End, em sẽ không bao giờ nghĩ đến việc làm những thứ như vậy; Em cảm thấy mình đã thay đổi, không còn là chính mình nữa..."
 
 # game/characters/lexi/ev_12.rpy:41
@@ -93,7 +93,7 @@ translate vietnamese lexi_12_c6038a7e:
 # game/characters/lexi/ev_12.rpy:47
 translate vietnamese lexi_12_b34efc34:
 
-    # lexi "Perhaps you're right. Everything changed... for the worse..."
+    # lexi "Perhaps you're right. Everything changed.. for the worse.."
     lexi "Có lẽ anh đúng. Mọi thứ đã thay đổi ... tệ hơn..."
 
 # game/characters/lexi/ev_12.rpy:48
@@ -112,7 +112,7 @@ translate vietnamese lexi_12_865629e3:
 translate vietnamese lexi_12_a0326511:
 
     # me "I don't care anymore about that, I just want you to feel better."
-    me "anh không còn quan tâm đến điều đó nữa, anh chỉ muốn em cảm thấy tốt hơn."
+    me "Anh không còn quan tâm đến điều đó nữa, anh chỉ muốn em cảm thấy tốt hơn thôi."
 
 # game/characters/lexi/ev_12.rpy:59
 translate vietnamese lexi_12_1c04ddf4:
@@ -201,7 +201,7 @@ translate vietnamese lexi_12_d7760fc7:
 # game/characters/lexi/ev_12.rpy:93
 translate vietnamese lexi_12_6e436213:
 
-    # lexi "No... I haven't..."
+    # lexi "No.. I haven't.."
     lexi "Không... em chưa..."
 
 # game/characters/lexi/ev_12.rpy:94
@@ -220,7 +220,7 @@ translate vietnamese lexi_12_8e1ee44d:
 translate vietnamese lexi_12_1c6d4c9a:
 
     # me "Hey, don't look at me like that and let's do cunnilingus."
-    me "Này, đừng nhìn anh như vậy và hãy cunnilingus đi."
+    me "Này, đừng nhìn anh như vậy và hãy thử cunnilingus đi nào."
 
 # game/characters/lexi/ev_12.rpy:97
 translate vietnamese lexi_12_1f494267:
@@ -237,14 +237,14 @@ translate vietnamese lexi_12_40d2e6a6:
 # game/characters/lexi/ev_12.rpy:103
 translate vietnamese lexi_12_742d7ebd:
 
-    # lexi "So it's still about getting into my panties..."
-    lexi "Thế nó vẫn sẽ chui vào quần lót của em..."
+    # lexi "So it's still about getting into my panties.."
+    lexi "Thì anh vẫn sẽ chui vào quần lót của em..."
 
 # game/characters/lexi/ev_12.rpy:104
 translate vietnamese lexi_12_09aeb597:
 
     # me "Hey, my dick will be in my pants the whole time, I do it for you."
-    me "Này, con cặc của anh sẽ ở trong quần của anh suốt, anh làm điều đó cho em đấy..."
+    me "Này, con cặc của anh sẽ ở trong quần của anh suốt, anh làm điều đó cho em đấy."
 
 # game/characters/lexi/ev_12.rpy:109
 translate vietnamese lexi_12_335cd96c:
@@ -274,7 +274,7 @@ translate vietnamese lexi_12_76810949:
 translate vietnamese lexi_12_5cf6e252:
 
     # lexi "Will it make you happy if I agree?"
-    lexi "Nó sẽ làm cho anh hạnh phúc nếu em đồng ý?"
+    lexi "Anh có vui nếu em đồng ý không?"
 
 # game/characters/lexi/ev_12.rpy:118
 translate vietnamese lexi_12_9ecbff03:
@@ -285,7 +285,7 @@ translate vietnamese lexi_12_9ecbff03:
 # game/characters/lexi/ev_12.rpy:123
 translate vietnamese lexi_12_cf856618:
 
-    # lexi "It's not that I doubt in your good intentions, but... Well I totally doubt them."
+    # lexi "It's not that I doubt in your good intentions, but.. Well I totally doubt them."
     lexi "Không phải em nghi ngờ ý định tốt của anh, nhưng... em hoàn toàn nghi ngờ nó."
 
 # game/characters/lexi/ev_12.rpy:124
@@ -298,7 +298,7 @@ translate vietnamese lexi_12_44026503:
 translate vietnamese lexi_12_db4d0491:
 
     # lexi "Then do you want to explain what is between you and Alice?"
-    lexi "Vậy anh có muốn giải thích chuyệ giữa anh và Alice chứ?"
+    lexi "Vậy anh có muốn giải thích chuyện giữa anh và Alice không?"
 
 # game/characters/lexi/ev_12.rpy:130
 translate vietnamese lexi_12_af4e459c:
@@ -315,7 +315,7 @@ translate vietnamese lexi_12_976938c8:
 # game/characters/lexi/ev_12.rpy:136
 translate vietnamese lexi_12_1ddd52bf:
 
-    # me "Hey, I..."
+    # me "Hey, I.."
     me "Hey, Anh..."
 
 # game/characters/lexi/ev_12.rpy:141
@@ -327,7 +327,7 @@ translate vietnamese lexi_12_285847fd:
 # game/characters/lexi/ev_12.rpy:142
 translate vietnamese lexi_12_54d93f6d:
 
-    # lexi "I'm not stupid, these wall are not thick, and I have heard Alice screaming your name more than once..."
+    # lexi "I'm not stupid, these wall are not thick, and I have heard Alice screaming your name more than once.."
     lexi "Em không ngốc đâu, bức tường này không dày, và em đã nghe thấy Alice hét tên anh không chỉ một lần..."
 
 # game/characters/lexi/ev_12.rpy:143
@@ -351,7 +351,7 @@ translate vietnamese lexi_12_fabe52ca:
 # game/characters/lexi/ev_12.rpy:150
 translate vietnamese lexi_12_59ecea17:
 
-    # me "I do not want to lie to you..."
+    # me "I do not want to lie to you.."
     me "Anh không muốn nói dối bạn..."
 
 # game/characters/lexi/ev_12.rpy:156
@@ -363,7 +363,7 @@ translate vietnamese lexi_12_d7760fc7_2:
 # game/characters/lexi/ev_12.rpy:157
 translate vietnamese lexi_12_a062b26b:
 
-    # me "I'm sorry... I should have told you..."
+    # me "I'm sorry.. I should have told you.."
     me "Anh xin lỗi... anh nên nói với bạn..."
 
 # game/characters/lexi/ev_12.rpy:158
@@ -393,7 +393,7 @@ translate vietnamese lexi_12_111d7c9b:
 # game/characters/lexi/ev_12.rpy:166
 translate vietnamese lexi_12_f9e933e3:
 
-    # me "... Why?"
+    # me ".. Why?"
     me "... Tại sao?"
 
 # game/characters/lexi/ev_12.rpy:167
@@ -423,13 +423,13 @@ translate vietnamese lexi_12_3820771a_1:
 # game/characters/lexi/ev_12.rpy:171
 translate vietnamese lexi_12_da7d681d:
 
-    # th "What to do now... Man, this's fucked up..."
+    # th "What to do now.. Man, this's fucked up.."
     th "Làm gì bây giờ... Đù má, khốn nạn quá..."
 
 # game/characters/lexi/ev_12.rpy:172
 translate vietnamese lexi_12_d0e34c53:
 
-    # me "I don't want to take advant..."
+    # me "I don't want to take advant.."
     me "Mình không muốn lợi dụ..."
 
 # game/characters/lexi/ev_12.rpy:177
@@ -448,12 +448,12 @@ translate vietnamese lexi_12_b888acbe:
 translate vietnamese lexi_12_3bb8feab:
 
     # lexi "Then why won't you do this, it was your idea after all."
-    lexi "Vậy thì tại sao anh không làm điều này, suy cho cùng thì đó là ý tưởng của anh."
+    lexi "Vậy thì tại sao anh không làm điều này, suy cho cùng thì đó là ý tưởng của anh mà."
 
 # game/characters/lexi/ev_12.rpy:180
 translate vietnamese lexi_12_b082f53c:
 
-    # th "I don't think I can reason with her now..."
+    # th "I don't think I can reason with her now.."
     th "Mình không nghĩ rằng mình có thể cào phím thắng em ấy được rồi..."
 
 # game/characters/lexi/ev_12.rpy:181
@@ -477,7 +477,7 @@ translate vietnamese lexi_12_f18835ab:
 # game/characters/lexi/ev_12.rpy:188
 translate vietnamese lexi_12_3ba0645b:
 
-    # lexi "I had my suspicions, but I didn't want to accept it, so I pretended to know nothing, but I can't do that anymore..."
+    # lexi "I had my suspicions, but I didn't want to accept it, so I pretended to know nothing, but I can't do that anymore.."
     lexi "Em đã nghi ngờ, nhưng em không muốn chấp nhận nó, vì vậy em giả vờ như không biết gì, nhưng em không thể làm như vậy nữa..."
 
 # game/characters/lexi/ev_12.rpy:189
@@ -489,32 +489,32 @@ translate vietnamese lexi_12_8565a30f:
 # game/characters/lexi/ev_12.rpy:194
 translate vietnamese lexi_12_216295c3:
 
-    # lexi "What now... That's a good question..."
+    # lexi "What now.. That's a good question.."
     lexi "Giờ sao á... Đó là một câu hỏi hay..."
 
 # game/characters/lexi/ev_12.rpy:195
 translate vietnamese lexi_12_2a4362c2:
 
-    # lexi "We had sex, nothing is going to change it. You have a thing with Alice at the same time... You had it when we had sex..."
+    # lexi "We had sex, nothing is going to change it. You have a thing with Alice at the same time.. You had it when we had sex.."
     lexi "Chúng ta đã have sex, sẽ không có gì thay đổi được. anh làm vậy với Alice cùng lúc... anh đã có nó khi chúng ta làm tình..."
 
 # game/characters/lexi/ev_12.rpy:196
 translate vietnamese lexi_12_4989fe05:
 
-    # me "I..."
+    # me "I.."
     me "Anh..."
 
 # game/characters/lexi/ev_12.rpy:201
 translate vietnamese lexi_12_220716e3:
 
-    # lexi "I knew it, but still did it..."
+    # lexi "I knew it, but still did it.."
     lexi "Em biết, nhưng vẫn làm điều đó..."
 
 # game/characters/lexi/ev_12.rpy:202
 translate vietnamese lexi_12_9392c946:
 
-    # lexi "I'm so fucked up..."
-    lexi "Ôi là trời..."
+    # lexi "I'm so fucked up.."
+    lexi "U là trời..."
 
 # game/characters/lexi/ev_12.rpy:203
 translate vietnamese lexi_12_582795cd:
@@ -525,7 +525,7 @@ translate vietnamese lexi_12_582795cd:
 # game/characters/lexi/ev_12.rpy:208
 translate vietnamese lexi_12_1a9673dc:
 
-    # lexi "You're even worse... I at least didn't cheat on anyone."
+    # lexi "You're even worse.. I at least didn't cheat on anyone."
     lexi "Anh thậm chí còn tệ hơn... ít nhất em đã không lừa dối bất cứ ai."
 
 # game/characters/lexi/ev_12.rpy:209
@@ -543,7 +543,7 @@ translate vietnamese lexi_12_970df1f3:
 # game/characters/lexi/ev_12.rpy:211
 translate vietnamese lexi_12_a0f6382f:
 
-    # th "Ah... Can I even defend myself?"
+    # th "Ah.. Can I even defend myself?"
     th "Ah... Tôi có thể tự bảo vệ mình được không?"
 
 # game/characters/lexi/ev_12.rpy:212
@@ -555,7 +555,7 @@ translate vietnamese lexi_12_bc954d89:
 # game/characters/lexi/ev_12.rpy:217
 translate vietnamese lexi_12_b57f8480:
 
-    # lexi "It feels wrong..."
+    # lexi "It feels wrong.."
     lexi "Nó cảm thấy sai..."
 
 # game/characters/lexi/ev_12.rpy:218
@@ -567,7 +567,7 @@ translate vietnamese lexi_12_0ca39703:
 # game/characters/lexi/ev_12.rpy:219
 translate vietnamese lexi_12_969a2c15:
 
-    # lexi "No..."
+    # lexi "No.."
     lexi "Không..."
 
 # game/characters/lexi/ev_12.rpy:220
@@ -591,7 +591,7 @@ translate vietnamese lexi_12_853ace88:
 # game/characters/lexi/ev_12.rpy:231
 translate vietnamese lexi_12_4d74e9fe:
 
-    # lexi "There might be something in it, though..."
+    # lexi "There might be something in it, though.."
     lexi "Có thể có thứ gì đó trong đó, mặc dù..."
 
 # game/characters/lexi/ev_12.rpy:232
@@ -615,19 +615,19 @@ translate vietnamese lexi_12_00414116:
 # game/characters/lexi/ev_12.rpy:239
 translate vietnamese lexi_12_a5d29002:
 
-    # lexi "Premium bullshit..."
+    # lexi "Premium bullshit.."
     lexi "Xàm lồn cao cấp..."
 
 # game/characters/lexi/ev_12.rpy:240
 translate vietnamese lexi_12_0eb37e03:
 
     # th "But it's working."
-    th "Nhưng nó đang hiệ quả."
+    th "Nhưng nó đang hiệu quả này."
 
 # game/characters/lexi/ev_12.rpy:245
 translate vietnamese lexi_12_d184341f:
 
-    # lexi "I can't stand you, you're really..."
+    # lexi "I can't stand you, you're really.."
     lexi "Em không thể chịu đựng được anh, anh thực sự..."
 
 # game/characters/lexi/ev_12.rpy:246
@@ -639,7 +639,7 @@ translate vietnamese lexi_12_fc4a1a4a:
 # game/characters/lexi/ev_12.rpy:247
 translate vietnamese lexi_12_b6b53542:
 
-    # lexi "Yeah, wait no..."
+    # lexi "Yeah, wait no.."
     lexi "Vâng, chờ đã, không..."
 
 # game/characters/lexi/ev_12.rpy:252
@@ -663,7 +663,7 @@ translate vietnamese lexi_12_d7760fc7_4:
 # game/characters/lexi/ev_12.rpy:259
 translate vietnamese lexi_12_6d747472:
 
-    # lexi "Sometimes you seem like two different people..."
+    # lexi "Sometimes you seem like two different people.."
     lexi "Đôi khi anh giống như hai người khác nhau..."
 
 # game/characters/lexi/ev_12.rpy:260
@@ -753,7 +753,7 @@ translate vietnamese lexi_12_270066df:
 # game/characters/lexi/ev_12.rpy:296
 translate vietnamese lexi_12_c804eae9:
 
-    # lexi "Let's get to that..."
+    # lexi "Let's get to that.."
     lexi "Hãy đến đó..."
 
 # game/characters/lexi/ev_12.rpy:297
@@ -783,7 +783,7 @@ translate vietnamese lexi_12_d1324e76:
 # game/characters/lexi/ev_12.rpy:312
 translate vietnamese lexi_12_d3898766:
 
-    # lexi "I see..."
+    # lexi "I see.."
     lexi "Em hiểu rồi..."
 
 # game/characters/lexi/ev_12.rpy:317
@@ -801,7 +801,7 @@ translate vietnamese lexi_12_b847dfb7:
 # game/characters/lexi/ev_12.rpy:323
 translate vietnamese lexi_12_d1098993:
 
-    # lexi "I don't want to let you go, though..."
+    # lexi "I don't want to let you go, though.."
     lexi "Mặc dù vậy em không muốn để anh làm..."
 
 # game/characters/lexi/ev_12.rpy:324
@@ -837,7 +837,7 @@ translate vietnamese lexi_12_e9c28e16:
 # game/characters/lexi/ev_12.rpy:337
 translate vietnamese lexi_12_f956431a:
 
-    # lexi "Heh... Alright, let's do this. This cunnilingus thing."
+    # lexi "Heh.. Alright, let's do this. This cunnilingus thing."
     lexi "Heh... Được rồi, hãy làm cái cunnilingus này."
 
 # game/characters/lexi/ev_12.rpy:338
@@ -867,107 +867,106 @@ translate vietnamese strings:
 translate vietnamese lexi_12_58e2035e:
 
     # me "Yet you still stand strong. This just shows how amazing you are."
-    me "Yet you still stand strong. This just shows how amazing you are."
+    me "Vậy mà em vẫn mạnh mẽ đứng vững. Điều này chỉ cho thấy em tuyệt vời như thế nào thôi."
 
 # game/characters/lexi/ev_12.rpy:54
 translate vietnamese lexi_12_8582c23a:
 
     # me "I don't care anymore about that. I just want you to feel better."
-    me "I don't care anymore about that. I just want you to feel better."
+    me "Anh không còn quan tâm đến điều đó nữa, anh chỉ muốn em cảm thấy tốt hơn thôi."
 
 # game/characters/lexi/ev_12.rpy:87
 translate vietnamese lexi_12_7d321906:
 
     # me "Have you ever had an orgasm?"
-    me "Have you ever had an orgasm?"
+    me "Em đã bao giờ đạt cực khoái chưa?"
 
 # game/characters/lexi/ev_12.rpy:96
 translate vietnamese lexi_12_92ebf4ad:
 
     # me "Hey, don't look at me like that, and let's do cunnilingus."
-    me "Hey, don't look at me like that, and let's do cunnilingus."
+    me "Này, đừng nhìn anh như vậy và hãy thử cunnilingus đi nào."
 
 # game/characters/lexi/ev_12.rpy:98
 translate vietnamese lexi_12_71f25179:
 
     # me "Cunnilingus. It's like a blowjob but reversed. I'll lick you till you cum, how about it?"
-    me "Cunnilingus. It's like a blowjob but reversed. I'll lick you till you cum, how about it?"
+    me "Buslon. Nó giống như buscu, nhưng ngược lại. Tôi sẽ liếm em cho đến khi em lên đỉnh, vậy thì sao?"
 
 # game/characters/lexi/ev_12.rpy:103
 translate vietnamese lexi_12_3d322e60:
 
     # lexi "So, it's still about getting into my panties..."
-    lexi "So, it's still about getting into my panties..."
+    lexi "Thì anh vẫn sẽ chui vào quần lót của em..."
 
 # game/characters/lexi/ev_12.rpy:117
 translate vietnamese lexi_12_1346edbd:
 
     # lexi "Will it make you happy, if I agree?"
-    lexi "Will it make you happy, if I agree?"
+    lexi "Anh có vui nếu em đồng ý không?"
 
 # game/characters/lexi/ev_12.rpy:123
 translate vietnamese lexi_12_0e4fa930:
 
-    # lexi "It's not that I doubt in your good intentions, but... Well, I totally doubt them."
-    lexi "It's not that I doubt in your good intentions, but... Well, I totally doubt them."
+    # lexi "It's not that I doubt in your good intentions, but.. Well, I totally doubt them."
+    lexi "Không phải em nghi ngờ ý định tốt của anh, nhưng... em hoàn toàn nghi ngờ nó."
 
 # game/characters/lexi/ev_12.rpy:129
 translate vietnamese lexi_12_7d3cd777:
 
     # lexi "Then, do you want to explain what is between you and Alice?"
-    lexi "Then, do you want to explain what is between you and Alice?"
+    lexi "Vậy anh có muốn giải thích chuyện giữa anh và Alice không?"
 
 # game/characters/lexi/ev_12.rpy:142
 translate vietnamese lexi_12_9fac199e:
 
-    # lexi "I'm not stupid, these walls are not thick, and I have heard Alice screaming your name more than once..."
-    lexi "I'm not stupid, these walls are not thick, and I have heard Alice screaming your name more than once..."
+    # lexi "I'm not stupid, these walls are not thick, and I have heard Alice screaming your name more than once.."
+    lexi "Em không ngốc đâu, bức tường này không dày, và em đã nghe thấy Alice hét tên anh không chỉ một lần..."
 
 # game/characters/lexi/ev_12.rpy:167
 translate vietnamese lexi_12_54a74ffb:
 
     # lexi "I want you to show me, what is it that makes her scream your name."
-    lexi "I want you to show me, what is it that makes her scream your name."
+    lexi "Em muốn anh chỉ cho em điều gì khiến cậu ấy hét lên tên anh."
 
 # game/characters/lexi/ev_12.rpy:169
 translate vietnamese lexi_12_77a73dda:
 
     # lexi "Can I not be?"
-    lexi "Can I not be?"
+    lexi "Em có thể nói không được chứ?"
 
 # game/characters/lexi/ev_12.rpy:171
 translate vietnamese lexi_12_4e174540:
 
     # th "What to do now... Man, this is fucked up..."
-    th "What to do now... Man, this is fucked up..."
+    th "Làm gì bây giờ... mẹ nó, khốn nạn quá..."
 
 # game/characters/lexi/ev_12.rpy:179
 translate vietnamese lexi_12_22db0ae5:
 
     # lexi "Then, why won't you do this? It was your idea after all."
-    lexi "Then, why won't you do this? It was your idea after all."
+    lexi "Vậy thì tại sao anh không làm điều này, suy cho cùng thì đó là ý tưởng của anh mà."
 
 # game/characters/lexi/ev_12.rpy:195
 translate vietnamese lexi_12_033a94e9:
 
-    # lexi "We had sex, nothing is going to change it. You have a thing with Alice at the same time... You had it when we had sex..."
-    lexi "We had sex, nothing is going to change it. You have a thing with Alice at the same time... You had it when we had sex..."
+    # lexi "We had sex, nothing is going to change it. You have a thing with Alice at the same time... You had it when we had sex.."
+    lexi "Chúng ta đã have sex, sẽ không có gì thay đổi được. anh làm vậy với Alice cùng lúc... anh đã có nó khi chúng ta làm tình..."
 
 # game/characters/lexi/ev_12.rpy:202
 translate vietnamese lexi_12_a609d9fc:
 
-    # lexi "I'm so... fucked up..."
-    lexi "I'm so... fucked up..."
+    # lexi "I'm so.. fucked up.."
+    lexi "U là trời..."
 
 # game/characters/lexi/ev_12.rpy:247
 translate vietnamese lexi_12_9519c3ac:
 
     # lexi "Yeah... Wait! No..."
-    lexi "Yeah... Wait! No..."
+    lexi "Yeah.. Đợi đã! Không..."
 
 # game/characters/lexi/ev_12.rpy:284
 translate vietnamese lexi_12_a6edef69:
 
     # me "My word is my bond."
-    me "My word is my bond."
-
+    me "Lời nói của anh rất uy tín."

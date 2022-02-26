@@ -147,8 +147,8 @@ translate vietnamese grace_1_1_26c9ed5a:
 # game/characters/grace/ev_1.rpy:59
 translate vietnamese grace_1_1_6bf0df04:
 
-    # u_grace "But you are a man..."
-    u_grace "Nhưng anh là một người đàn ông..."
+    # u_grace "But you are a man.."
+    u_grace "Nhưng anh là một người đàn ông.."
 
 # game/characters/grace/ev_1.rpy:60
 translate vietnamese grace_1_1_dc93ddc3:
@@ -160,7 +160,7 @@ translate vietnamese grace_1_1_dc93ddc3:
 translate vietnamese grace_1_1_ee8a476c:
 
     # u_grace "Yes! All men are bad! Well, except maybe Mr. Owner."
-    u_grace "Đúng! Tất cả đàn ông đều xấu! Chà, ngoại trừ ngài quản lý..."
+    u_grace "Có! Tất cả đàn ông đều xấu! Chà, ngoại trừ ngài quản lý."
 
 # game/characters/grace/ev_1.rpy:63
 translate vietnamese grace_1_1_30cf55e5:
@@ -207,7 +207,7 @@ translate vietnamese grace_1_1_5e234dc0:
 # game/characters/grace/ev_1.rpy:72
 translate vietnamese grace_1_1_cc419edf:
 
-    # grace "Hmmm... You're right... I think. My name is Grace."
+    # grace "Hmmm.. You're right.. I think. My name is Grace."
     grace "Hmmm... cũng đúng... Tên em là Grace."
 
 # game/characters/grace/ev_1.rpy:73
@@ -237,7 +237,7 @@ translate vietnamese grace_1_1_492cc0e2:
 # game/characters/grace/ev_1.rpy:80
 translate vietnamese grace_1_1_97887a4f:
 
-    # th "That could've been worse... Probably."
+    # th "That could've been worse.. Probably."
     th "Nó đã có thể tệ hơn rồi... Có lẽ."
 
 # game/characters/grace/ev_1.rpy:81

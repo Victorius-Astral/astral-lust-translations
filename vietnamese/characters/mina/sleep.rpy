@@ -15,7 +15,7 @@ translate vietnamese sleep_mina_32cff6b6:
 # game/characters/mina/sleep.rpy:14
 translate vietnamese sleep_mina_be15f9bd:
 
-    # me "Oh, you're awake..."
+    # me "Oh, you're awake.."
     me "Oh, em dậy rồi..."
 
 # game/characters/mina/sleep.rpy:16
@@ -39,7 +39,7 @@ translate vietnamese sleep_mina_334253e5:
 # game/characters/mina/sleep.rpy:19
 translate vietnamese sleep_mina_c7e3e015:
 
-    # me "W-Wait..."
+    # me "W-Wait.."
     me "Đ-Đợi đã..."
 
 # game/characters/mina/sleep.rpy:21
@@ -69,13 +69,13 @@ translate vietnamese sleep_mina_39f68dca:
 # game/characters/mina/sleep.rpy:29
 translate vietnamese sleep_mina_59854c36:
 
-    # me "Umm... hey."
+    # me "Umm.. hey."
     me "Umm... hey."
 
 # game/characters/mina/sleep.rpy:30
 translate vietnamese sleep_mina_a1a85fe7:
 
-    # lexi "Hey..."
+    # lexi "Hey.."
     lexi "Hey..."
 
 # game/characters/mina/sleep.rpy:31
@@ -147,7 +147,7 @@ translate vietnamese sleep_mina_d73bf06c:
 # game/characters/mina/sleep.rpy:48
 translate vietnamese sleep_mina_4989fe05:
 
-    # me "I..."
+    # me "I.."
     me "Anh..."
 
 # game/characters/mina/sleep.rpy:50
@@ -177,7 +177,7 @@ translate vietnamese sleep_mina_sleepover_9949e16f:
 # game/characters/mina/sleep.rpy:67
 translate vietnamese sleep_mina_sleepover_2f3a6be4:
 
-    # th "[mina], I love you..."
+    # th "[mina], I love you.."
     th "[mina], anh iu em..."
 
 # game/characters/mina/sleep.rpy:70
@@ -189,7 +189,7 @@ translate vietnamese sleep_mina_sleepover_0cf88260:
 # game/characters/mina/sleep.rpy:74
 translate vietnamese sleep_mina_sleepover_a438821f:
 
-    # mina "Ahm..."
+    # mina "Ahm.."
     mina "Ahm..."
 
 # game/characters/mina/sleep.rpy:77
@@ -249,7 +249,7 @@ translate vietnamese sleep_mina_sleepover_a706aa80:
 # game/characters/mina/sleep.rpy:89
 translate vietnamese sleep_mina_sleepover_c61d9a49:
 
-    # lexi "Alright, I get it, stop..."
+    # lexi "Alright, I get it, stop.."
     lexi "Được rồi, chị hiểu rồi, dừng lại đi..."
 
 # game/characters/mina/sleep.rpy:90
@@ -291,7 +291,7 @@ translate vietnamese sleep_mina_sleepover_02064b8c:
 # game/characters/mina/sleep.rpy:104
 translate vietnamese sleep_mina_sleepover_a438821f_1:
 
-    # mina "Ahm..."
+    # mina "Ahm.."
     mina "Ahm..."
 
 # game/characters/mina/sleep.rpy:107
@@ -351,7 +351,7 @@ translate vietnamese sleep_mina_sleepover_f3427e27:
 # game/characters/mina/sleep.rpy:120
 translate vietnamese sleep_mina_sleepover_c61d9a49_1:
 
-    # lexi "Alright, I get it, stop..."
+    # lexi "Alright, I get it, stop.."
     lexi "Được rồi, chị hiểu rồi, dừng lại đi..."
 
 # game/characters/mina/sleep.rpy:121

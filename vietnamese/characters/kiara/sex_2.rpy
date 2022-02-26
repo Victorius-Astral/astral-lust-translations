@@ -99,7 +99,7 @@ translate vietnamese kiara_sex_2_fast_bd3bb9de:
 # game/characters/kiara/sex_2.rpy:98
 translate vietnamese kiara_sex_2_before_2c6e08c3:
 
-    # me "It's so intense..."
+    # me "It's so intense.."
     me "Dữ dội vậy..."
 
 # game/characters/kiara/sex_2.rpy:99
@@ -153,13 +153,13 @@ translate vietnamese kiara_sex_2_cum_d03f14f1:
 # game/characters/kiara/sex_2.rpy:115
 translate vietnamese kiara_sex_2_cum_b273d15b:
 
-    # me "Ah..."
+    # me "Ah.."
     me "Ah..."
 
 # game/characters/kiara/sex_2.rpy:116
 translate vietnamese kiara_sex_2_cum_9174182d:
 
-    # kiara "Mmm..."
+    # kiara "Mmm.."
     kiara "Mmm..."
 
 # game/characters/kiara/sex_2.rpy:119
@@ -171,7 +171,7 @@ translate vietnamese kiara_sex_2_cum_bcaf5f49:
 # game/characters/kiara/sex_2.rpy:120
 translate vietnamese kiara_sex_2_cum_4a231840:
 
-    # me "Yeah... You made me empty."
+    # me "Yeah.. You made me empty."
     me "Yeah... cô vắt kiệt tôi rồi."
 
 # game/characters/kiara/sex_2.rpy:121

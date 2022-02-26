@@ -16,7 +16,7 @@ translate vietnamese grace_7_ce5913ce:
 translate vietnamese grace_7_f8411399:
 
     # grace "Let's begin, you ..."
-    grace "Hãy bắt đầu nào, anh ..."
+    grace "Hãy bắt đầu nào, anh..."
 
 # game/characters/grace/ev_7.rpy:12
 translate vietnamese grace_7_90981f3e:
@@ -213,7 +213,7 @@ translate vietnamese grace_7_6482aec9:
 # game/characters/grace/ev_7.rpy:75
 translate vietnamese grace_7_f08674f9:
 
-    # grace "I do..."
+    # grace "I do.."
     grace "Em có..."
 
 # game/characters/grace/ev_7.rpy:82
@@ -315,7 +315,7 @@ translate vietnamese grace_7_1a_359f170e:
 # game/characters/grace/ev_7.rpy:122
 translate vietnamese grace_7_1a_90667dc5:
 
-    # grace "Sooo goood..."
+    # grace "Sooo goood.."
     grace "Quááá tuyệtttt..."
 
 # game/characters/grace/ev_7.rpy:123
@@ -369,7 +369,7 @@ translate vietnamese grace_7_1a_f1904b37:
 # game/characters/grace/ev_7.rpy:134
 translate vietnamese grace_7_1a_7900e88d:
 
-    # grace "I-I thought you didn't want to deceive me... You ar..."
+    # grace "I-I thought you didn't want to deceive me.. You ar.."
     grace "E-Em nghĩ anh không muốn lừa dối em ... Anh l..."
 
 # game/characters/grace/ev_7.rpy:135
@@ -399,7 +399,7 @@ translate vietnamese grace_7_1a_9ac1277e:
 # game/characters/grace/ev_7.rpy:142
 translate vietnamese grace_7_1a_4814c064:
 
-    # grace "Hmmm... I'll let it go this time."
+    # grace "Hmmm.. I'll let it go this time."
     grace "Hmmm... Em sẽ để nó đi lần này."
 
 # game/characters/grace/ev_7.rpy:143
@@ -543,7 +543,7 @@ translate vietnamese grace_7_1b_359f170e:
 # game/characters/grace/ev_7.rpy:210
 translate vietnamese grace_7_1b_90667dc5:
 
-    # grace "Sooo goood..."
+    # grace "Sooo goood.."
     grace "Quá tốt..."
 
 # game/characters/grace/ev_7.rpy:211
@@ -603,8 +603,8 @@ translate vietnamese grace_7_1b_f1904b37:
 # game/characters/grace/ev_7.rpy:223
 translate vietnamese grace_7_1b_7900e88d:
 
-    # grace "I-I thought you didn't want to deceive me... You ar..."
-    grace "E-Em nghĩ anh không muốn lừa dối em ... anh l..."
+    # grace "I-I thought you didn't want to deceive me.. You ar.."
+    grace "E-Em nghĩ anh không muốn lừa dối em... anh l..."
 
 # game/characters/grace/ev_7.rpy:224
 translate vietnamese grace_7_1b_98ed7018:
@@ -633,7 +633,7 @@ translate vietnamese grace_7_1b_9ac1277e:
 # game/characters/grace/ev_7.rpy:231
 translate vietnamese grace_7_1b_4814c064:
 
-    # grace "Hmmm... I'll let it go this time."
+    # grace "Hmmm.. I'll let it go this time."
     grace "Hmmm... Lần này em sẽ bỏ qua."
 
 # game/characters/grace/ev_7.rpy:232

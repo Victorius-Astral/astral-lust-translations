@@ -15,7 +15,7 @@ translate vietnamese grace_kiss_d37605f8:
 # game/characters/grace/kiss.rpy:36
 translate vietnamese grace_kiss_a5dfecc8:
 
-    # th "Now, that's a good question... I can't say, because I would like it, can I?"
+    # th "Now, that's a good question.. I can't say, because I would like it, can I?"
     th "Bây giờ, đó là một câu hỏi hay đấy... Mình không thể nói, bởi vì anh muốn, cũng có thể nhỉ?"
 
 # game/characters/grace/kiss.rpy:40
@@ -33,7 +33,7 @@ translate vietnamese grace_kiss_6801d0e1:
 # game/characters/grace/kiss.rpy:48
 translate vietnamese grace_kiss_6a061c20:
 
-    # grace "Hmmm... What would mommy say..."
+    # grace "Hmmm.. What would mommy say.."
     grace "Hmmm... Mẹ sẽ nói gì..."
 
 # game/characters/grace/kiss.rpy:53
@@ -57,7 +57,7 @@ translate vietnamese grace_kiss_2cfc9e05:
 # game/characters/grace/kiss.rpy:68
 translate vietnamese grace_kiss_56ba5b30:
 
-    # grace "I don't know..."
+    # grace "I don't know.."
     grace "Em không biết nữa..."
 
 # game/characters/grace/kiss.rpy:69
@@ -123,7 +123,7 @@ translate vietnamese grace_kiss_6ff4b55a:
 # game/characters/grace/kiss.rpy:94
 translate vietnamese grace_kiss_5996dd68:
 
-    # th "Stupid for... you?"
+    # th "Stupid for.. you?"
     th "Ngốc đối với... Em?"
 
 # game/characters/grace/kiss.rpy:99
@@ -159,7 +159,7 @@ translate vietnamese grace_kiss_e4bc7a8a:
 # game/characters/grace/kiss.rpy:115
 translate vietnamese grace_kiss_d0f9bc2d:
 
-    # grace "I did... What are you getting at?"
+    # grace "I did.. What are you getting at?"
     grace "Em có ... Nhưng anh hỏi làm gì?"
 
 # game/characters/grace/kiss.rpy:116
@@ -177,7 +177,7 @@ translate vietnamese grace_kiss_04ac8182:
 # game/characters/grace/kiss.rpy:120
 translate vietnamese grace_kiss_fb8c28ed:
 
-    # me "Fair point..."
+    # me "Fair point.."
     me "Hợp lý đấy..."
 
 # game/characters/grace/kiss.rpy:125
@@ -315,13 +315,13 @@ translate vietnamese grace_kiss_grace_fdb4e830:
 # game/characters/grace/kiss.rpy:225
 translate vietnamese grace_kiss_kitchen_49a67a6a:
 
-    # grace "Do it..."
+    # grace "Do it.."
     grace "Làm đi..."
 
 # game/characters/grace/kiss.rpy:226
 translate vietnamese grace_kiss_kitchen_6f1fa474:
 
-    # me "Yeah..."
+    # me "Yeah.."
     me "Yeah..."
 
 # game/characters/grace/kiss.rpy:230
@@ -333,7 +333,7 @@ translate vietnamese grace_kiss_kitchen_a3bfaec6:
 # game/characters/grace/kiss.rpy:234
 translate vietnamese grace_kiss_kitchen_0d2d676a:
 
-    # grace "Ah..."
+    # grace "Ah.."
     grace "Ah..."
 
 # game/characters/grace/kiss.rpy:245
@@ -345,7 +345,7 @@ translate vietnamese grace_kiss_kitchen_d37c367c:
 # game/characters/grace/kiss.rpy:246
 translate vietnamese grace_kiss_kitchen_c00eaffc:
 
-    # grace "Y-Your tongue..."
+    # grace "Y-Your tongue.."
     grace "L-Lưỡi của anh..."
 
 # game/characters/grace/kiss.rpy:247
@@ -381,7 +381,7 @@ translate vietnamese grace_kiss_kitchen_03cb5fb0:
 # game/characters/grace/kiss.rpy:261
 translate vietnamese grace_kiss_kitchen_6291d680:
 
-    # grace "It felt weird. I need to go..."
+    # grace "It felt weird. I need to go.."
     grace "Cảm giác thật kỳ lạ. Em phải đi đây..."
 
 # game/characters/grace/kiss.rpy:264
@@ -405,7 +405,7 @@ translate vietnamese grace_kiss_lobby_79efe119:
 # game/characters/grace/kiss.rpy:274
 translate vietnamese grace_kiss_lobby_7cd937e7:
 
-    # grace "Weird thing to say..."
+    # grace "Weird thing to say.."
     grace "Một thứ rất kỳ lạ để nói..."
 
 # game/characters/grace/kiss.rpy:278
@@ -417,7 +417,7 @@ translate vietnamese grace_kiss_lobby_e04fdf05:
 # game/characters/grace/kiss.rpy:281
 translate vietnamese grace_kiss_lobby_b273d15b:
 
-    # me "Ah..."
+    # me "Ah.."
     me "Ah..."
 
 # game/characters/grace/kiss.rpy:282
@@ -453,7 +453,7 @@ translate vietnamese grace_kiss_lobby_5021510c:
 # game/characters/grace/kiss.rpy:303
 translate vietnamese grace_kiss_lobby_c909e0ea:
 
-    # grace "Mm..."
+    # grace "Mm.."
     grace "Mm..."
 
 # game/characters/grace/kiss.rpy:304
@@ -525,7 +525,7 @@ translate vietnamese grace_kiss_f1_2a7710ea:
 # game/characters/grace/kiss.rpy:345
 translate vietnamese grace_kiss_f1_c909e0ea:
 
-    # grace "Mm..."
+    # grace "Mm.."
     grace "Mm..."
 
 # game/characters/grace/kiss.rpy:346
@@ -615,7 +615,7 @@ translate vietnamese grace_kiss_night_49ae22d9:
 # game/characters/grace/kiss.rpy:382
 translate vietnamese grace_kiss_night_5401c07d:
 
-    # grace "Umm... Don't look."
+    # grace "Umm.. Don't look."
     grace "Umm... Đừng nhìn."
 
 # game/characters/grace/kiss.rpy:383
@@ -705,7 +705,7 @@ translate vietnamese grace_kiss_night1_b32f3e28:
 # game/characters/grace/kiss.rpy:459
 translate vietnamese grace_kiss_night1_54d0b5c8:
 
-    # grace "Grr... I told you, no peeping!"
+    # grace "Grr.. I told you, no peeping!"
     grace "Grr... Tôi đã nói anh là không nhìn trộm!"
 
 # game/characters/grace/kiss.rpy:462
@@ -729,7 +729,7 @@ translate vietnamese grace_kiss_night1_4c75a3e7:
 # game/characters/grace/kiss.rpy:465
 translate vietnamese grace_kiss_night1_71789c0d:
 
-    # me "Alright... Sleep tight."
+    # me "Alright.. Sleep tight."
     me "Được rồi ... Ngủ ngon."
 
 # game/characters/grace/kiss.rpy:466
@@ -843,7 +843,7 @@ translate vietnamese grace_kiss_night3_fdb4e830:
 # game/characters/grace/kiss.rpy:519
 translate vietnamese grace_kiss_night3_b6849a9b:
 
-    # th "She's such an innocent thing... She doesn't fit in this broken world."
+    # th "She's such an innocent thing.. She doesn't fit in this broken world."
     th "Em ấy quá ngây thơ... Em ấy không phù hợp với cái thế giới này."
 
 # game/characters/grace/kiss.rpy:522
@@ -873,7 +873,7 @@ translate vietnamese grace_kiss_night3_4b957714:
 # game/characters/grace/kiss.rpy:530
 translate vietnamese grace_kiss_night3_530eb269:
 
-    # grace "Mommy used to kiss my forehead..."
+    # grace "Mommy used to kiss my forehead.."
         grace "Mẹ sẽ hôn lên trán em..."
 
 # game/characters/grace/kiss.rpy:531
@@ -939,7 +939,7 @@ translate vietnamese grace_kiss_night3_2ab60bb8:
 # game/characters/grace/kiss.rpy:561
 translate vietnamese grace_kiss_night3_f9616106:
 
-    # grace "Umm..."
+    # grace "Umm.."
     grace "Umm..."
 
 # game/characters/grace/kiss.rpy:562
@@ -1083,7 +1083,7 @@ translate vietnamese grace_kiss_night_cor_9315bd08:
 # game/characters/grace/kiss.rpy:627
 translate vietnamese grace_kiss_night_cor_2e36102f:
 
-    # grace "You're creepy..."
+    # grace "You're creepy.."
     grace "Anh thật đáng sợ..."
 
 # game/characters/grace/kiss.rpy:628
@@ -1095,7 +1095,7 @@ translate vietnamese grace_kiss_night_cor_24dec27d:
 # game/characters/grace/kiss.rpy:629
 translate vietnamese grace_kiss_night_cor_32528477:
 
-    # grace "{small}Weirdo...{/small}"
+    # grace "{small}Weirdo..{/small}"
     grace "{small}Kỳ quặc...{/small}"
 
 # game/characters/grace/kiss.rpy:637
@@ -1113,13 +1113,13 @@ translate vietnamese grace_kiss_night_cor_95a49942:
 # game/characters/grace/kiss.rpy:639
 translate vietnamese grace_kiss_night_cor_c909e0ea:
 
-    # grace "Mm..."
+    # grace "Mm.."
     grace "Mm..."
 
 # game/characters/grace/kiss.rpy:640
 translate vietnamese grace_kiss_night_cor_8bb26cc8:
 
-    # me "Yes, you will feel good, very good, {mad}hehehe...{/mad}"
+    # me "Yes, you will feel good, very good, {mad}hehehe..{/mad}"
     me "Đúng rồi, em sẽ cảm thấy tốt, rất tốt, {mad}hehehe...{/mad}"
 
 # game/characters/grace/kiss.rpy:641
@@ -1131,7 +1131,7 @@ translate vietnamese grace_kiss_night_cor_3150f528:
 # game/characters/grace/kiss.rpy:644
 translate vietnamese grace_kiss_night_cor_0239f677:
 
-    # grace "Uh... Is it over?"
+    # grace "Uh.. Is it over?"
     grace "Uh... Nó đã kết thúc chưa?"
 
 # game/characters/grace/kiss.rpy:645
@@ -1185,7 +1185,7 @@ translate vietnamese grace_kiss_night_cor_63280a2d:
 # game/characters/grace/kiss.rpy:669
 translate vietnamese grace_kiss_night_cor_69b7980c:
 
-    # grace "Grr..."
+    # grace "Grr.."
     grace "Grr..."
 
 # game/characters/grace/kiss.rpy:670
@@ -1209,13 +1209,13 @@ translate vietnamese grace_kiss_night_cor_1f877649:
 # game/characters/grace/kiss.rpy:677
 translate vietnamese grace_kiss_night_cor_ffad758e:
 
-    # grace "{big}YOU ARE...{/big}"
+    # grace "{big}YOU ARE..{/big}"
     grace "{big}ANH RẤT...{/big}"
 
 # game/characters/grace/kiss.rpy:681
 translate vietnamese grace_kiss_night_cor_4324eb98:
 
-    # grace "{loud}... BAD!! {/loud}"
+    # grace "{loud}.. BAD!! {/loud}"
     grace "{loud}... LÀ XẤU XA!! {/loud}"
 
 # game/characters/grace/kiss.rpy:682
@@ -1239,7 +1239,7 @@ translate vietnamese grace_kiss_night_cor_3820771a:
 # game/characters/grace/kiss.rpy:687
 translate vietnamese grace_kiss_night_cor_89f73362:
 
-    # me "Yyy..."
+    # me "Yyy.."
     me "Yyy..."
 
 # game/characters/grace/kiss.rpy:688
@@ -1251,7 +1251,7 @@ translate vietnamese grace_kiss_night_cor_d695fb34:
 # game/characters/grace/kiss.rpy:692
 translate vietnamese grace_kiss_night_cor_a9250b04:
 
-    # me "{mad}This girl... What an ungrateful brat.{/mad} I only wanted to make her happy."
+    # me "{mad}This girl.. What an ungrateful brat.{/mad} I only wanted to make her happy."
     me "{mad}Đứa này... Đúng là một con nhóc vô ơn. {/mad} Tôi chỉ muốn làm cho em ấy hạnh phúc."
 
 # game/characters/grace/kiss.rpy:703
@@ -1293,7 +1293,7 @@ translate vietnamese grace_kiss_night_cor_fff7945f:
 # game/characters/grace/kiss.rpy:715
 translate vietnamese grace_kiss_night_cor_c6d077c4:
 
-    # grace "Ah! I-I..."
+    # grace "Ah! I-I.."
     grace "Ah! E-Em..."
 
 # game/characters/grace/kiss.rpy:718
@@ -1311,7 +1311,7 @@ translate vietnamese grace_kiss_night_cor_24dec27d_1:
 # game/characters/grace/kiss.rpy:722
 translate vietnamese grace_kiss_night_cor_54d3bc26:
 
-    # grace "Y-You are weird... Really weird..."
+    # grace "Y-You are weird.. Really weird.."
     grace "Anh thật kỳ lạ ... Thực sự kỳ lạ..."
 
 # game/characters/grace/kiss.rpy:723
@@ -1335,7 +1335,7 @@ translate vietnamese grace_kiss_night_cor_7402cda2:
 # game/characters/grace/kiss.rpy:732
 translate vietnamese grace_kiss_night_cor_82dee7bd:
 
-    # grace "Turn around..."
+    # grace "Turn around.."
     grace "Quay lại..."
 
 # game/characters/grace/kiss.rpy:735
@@ -1437,7 +1437,7 @@ translate vietnamese grace_kiss_night_cor2_47932801:
 # game/characters/grace/kiss.rpy:779
 translate vietnamese grace_kiss_night_cor2_c12f23c8:
 
-    # grace "My pussy is sore..."
+    # grace "My pussy is sore.."
     grace "Âm hộ của em em đau..."
 
 # game/characters/grace/kiss.rpy:780
@@ -1461,7 +1461,7 @@ translate vietnamese grace_kiss_night_cor2_608caa92:
 # game/characters/grace/kiss.rpy:783
 translate vietnamese grace_kiss_night_cor2_b816f8b3:
 
-    # grace "I've had enough..."
+    # grace "I've had enough.."
     grace "Em đã có đủ rồi..."
 
 # game/characters/grace/kiss.rpy:784
@@ -1497,7 +1497,7 @@ translate vietnamese grace_kiss_night_cor2_f38a9976:
 # game/characters/grace/kiss.rpy:800
 translate vietnamese grace_kiss_night_cor2_ca3e2fc4:
 
-    # me "Hah... Good..."
+    # me "Hah.. Good.."
     me "Hah... Tốt..."
 
 # game/characters/grace/kiss.rpy:801
@@ -1515,7 +1515,7 @@ translate vietnamese grace_kiss_night_cor2_a884b06f:
 # game/characters/grace/kiss.rpy:803
 translate vietnamese grace_kiss_night_cor2_0f3e19fa:
 
-    # grace "Something is wrong with you... We need to tell Alice, and Lexi, they will help you."
+    # grace "Something is wrong with you.. We need to tell Alice, and Lexi, they will help you."
     grace "Có gì đó không ổn với anh... Chúng ta cần nói với Alice và Lexi, họ sẽ giúp anh."
 
 # game/characters/grace/kiss.rpy:804
@@ -1527,7 +1527,7 @@ translate vietnamese grace_kiss_night_cor2_90d2dd7e:
 # game/characters/grace/kiss.rpy:805
 translate vietnamese grace_kiss_night_cor2_4867e9f3:
 
-    # grace "B-But..."
+    # grace "B-But.."
     grace "N-Nhưn..."
 
 # game/characters/grace/kiss.rpy:806
@@ -1551,7 +1551,7 @@ translate vietnamese grace_kiss_night_cor2_e7326478:
 # game/characters/grace/kiss.rpy:816
 translate vietnamese grace_kiss_night_cor2_9df27ee8:
 
-    # grace "I don't want it..."
+    # grace "I don't want it.."
     grace "Em không muốn nó..."
 
 # game/characters/grace/kiss.rpy:817
@@ -1587,13 +1587,13 @@ translate vietnamese grace_kiss_night_cor2_01315040:
 # game/characters/grace/kiss.rpy:822
 translate vietnamese grace_kiss_night_cor2_0a34d5f0:
 
-    # grace "I'm scared..."
+    # grace "I'm scared.."
     grace "Em sợ..."
 
 # game/characters/grace/kiss.rpy:823
 translate vietnamese grace_kiss_night_cor2_d3c68999:
 
-    # me "Shh... No need. Now take my dick to your mouth, it won't feel bad, I promise."
+    # me "Shh.. No need. Now take my dick to your mouth, it won't feel bad, I promise."
     me "Shh... Không cần. Giờ thì ngậm cặc của anh vào miệng em đi, sẽ không có cảm giác gì khó chịu đâu, anh hứa."
 
 # game/characters/grace/kiss.rpy:827
@@ -1611,7 +1611,7 @@ translate vietnamese grace_kiss_night_cor2_f3b11c4f:
 # game/characters/grace/kiss.rpy:840
 translate vietnamese grace_kiss_night_cor2_c08e0501:
 
-    # me "Good girl, I've known you're the person for the job. How deep you took it... {mad}Amazing!{/mad}"
+    # me "Good girl, I've known you're the person for the job. How deep you took it.. {mad}Amazing!{/mad}"
     me "Cô gái tốt, anh biết em là người dành cho việc này. Em đã đưa nó sâu đến mức nào ... {mad} Thật tuyệt vời!{/mad}"
 
 # game/characters/grace/kiss.rpy:841
@@ -1653,7 +1653,7 @@ translate vietnamese grace_kiss_night_cor2_be7e65dc:
 # game/characters/grace/kiss.rpy:852
 translate vietnamese grace_kiss_night_cor2_6f1fa474:
 
-    # me "Yeah..."
+    # me "Yeah.."
     me "Yeah..."
 
 # game/characters/grace/kiss.rpy:856
@@ -1707,7 +1707,7 @@ translate vietnamese grace_kiss_night_cor2_16ea2093:
 # game/characters/grace/kiss.rpy:870
 translate vietnamese grace_kiss_night_cor2_5e031fc2:
 
-    # grace "All this... What was it for?"
+    # grace "All this.. What was it for?"
     grace "Tất cả những điều này ... Nó để làm gì?"
 
 # game/characters/grace/kiss.rpy:871
@@ -1719,13 +1719,13 @@ translate vietnamese grace_kiss_night_cor2_d4beeeb2:
 # game/characters/grace/kiss.rpy:872
 translate vietnamese grace_kiss_night_cor2_a4b4b8f1:
 
-    # grace "I did..."
+    # grace "I did.."
     grace "Em có..."
 
 # game/characters/grace/kiss.rpy:873
 translate vietnamese grace_kiss_night_cor2_6772e0c5:
 
-    # th "{mad}And now I want even more...{/mad}"
+    # th "{mad}And now I want even more..{/mad}"
     th "{mad}Và bây giờ anh muốn nhiều hơn nữa...{/mad}"
 
 # game/characters/grace/kiss.rpy:883
@@ -1761,7 +1761,7 @@ translate vietnamese grace_kiss_night_cor2_fdb4e830_4:
 # game/characters/grace/kiss.rpy:890
 translate vietnamese grace_kiss_night_cor2_d37a248d:
 
-    # grace "A-Alright... D-Don't peek."
+    # grace "A-Alright.. D-Don't peek."
     grace "Đ-Được rồi ... Đ-Đừng nhìn trộm."
 
 # game/characters/grace/kiss.rpy:891
@@ -1773,13 +1773,13 @@ translate vietnamese grace_kiss_night_cor2_76ca6bab:
 # game/characters/grace/kiss.rpy:892
 translate vietnamese grace_kiss_night_cor2_8e112fa7:
 
-    # grace "{small}You did just now...{/small}"
+    # grace "{small}You did just now..{/small}"
     grace "{small}Anh vừa mới làm...{/small}"
 
 # game/characters/grace/kiss.rpy:898
 translate vietnamese grace_kiss_bad_end_cb316afb:
 
-    # grace "You... You..."
+    # grace "You.. You.."
     grace "Anh... Anh..."
 
 # game/characters/grace/kiss.rpy:899
@@ -1857,7 +1857,7 @@ translate vietnamese grace_kiss_bad_end_4794144e:
 # game/characters/grace/kiss.rpy:925
 translate vietnamese grace_kiss_bad_end_9d968f54:
 
-    # me "[alice], it's..."
+    # me "[alice], it's.."
     me "[alice], Có phải..."
 
 # game/characters/grace/kiss.rpy:928
@@ -1875,13 +1875,13 @@ translate vietnamese grace_kiss_bad_end_5b51ac99:
 # game/characters/grace/kiss.rpy:930
 translate vietnamese grace_kiss_bad_end_a819db6b:
 
-    # grace "{quiet}I'm scared... I don't want to have it inside...{/quiet}"
+    # grace "{quiet}I'm scared.. I don't want to have it inside..{/quiet}"
     grace "{quiet}Em sợ... Em không muốn nó ở bên trong...{/quiet}"
 
 # game/characters/grace/kiss.rpy:931
 translate vietnamese grace_kiss_bad_end_e4d736c7:
 
-    # alice "How could you..."
+    # alice "How could you.."
     alice "Làm sao anh có thể..."
 
 # game/characters/grace/kiss.rpy:932
@@ -1905,19 +1905,19 @@ translate vietnamese grace_kiss_bad_end_b5e39897:
 # game/characters/grace/kiss.rpy:939
 translate vietnamese grace_kiss_bad_end_da6d52b6:
 
-    # mina "Alice... Why are you pointing gun at him, why is Grace naked??"
+    # mina "Alice.. Why are you pointing gun at him, why is Grace naked??"
     mina "Alice... Tại sao cậu lại chĩa súng vào anh ấy, tại sao Grace lại khỏa thân??"
 
 # game/characters/grace/kiss.rpy:942
 translate vietnamese grace_kiss_bad_end_0c06e422:
 
-    # lexi "Don't tell me..."
+    # lexi "Don't tell me.."
     lexi "Đừng nói là..."
 
 # game/characters/grace/kiss.rpy:943
 translate vietnamese grace_kiss_bad_end_9c8f4b2a:
 
-    # mina "I..."
+    # mina "I.."
     mina "Em..."
 
 # game/characters/grace/kiss.rpy:944
@@ -1935,7 +1935,7 @@ translate vietnamese grace_kiss_bad_end_4794144e_1:
 # game/characters/grace/kiss.rpy:948
 translate vietnamese grace_kiss_bad_end_20619548:
 
-    # me "Hey, Grace tell them..."
+    # me "Hey, Grace tell them.."
     me "Hey, Grace nói cho họ..."
 
 # game/characters/grace/kiss.rpy:949
@@ -1947,7 +1947,7 @@ translate vietnamese grace_kiss_bad_end_727ab2a7:
 # game/characters/grace/kiss.rpy:950
 translate vietnamese grace_kiss_bad_end_efb8aaae:
 
-    # grace "No please, don't... Don't come..."
+    # grace "No please, don't.. Don't come.."
     grace "Không, làm ơn, đừng ... Đừng đến..."
 
 # game/characters/grace/kiss.rpy:953
@@ -1977,13 +1977,13 @@ translate vietnamese grace_kiss_bad_end_74f05a4e:
 # game/characters/grace/kiss.rpy:967
 translate vietnamese grace_kiss_bad_end_3474731a:
 
-    # mina "W-We need to help him..."
+    # mina "W-We need to help him.."
     mina "C-Chúng ta cần giúp anh ấy..."
 
 # game/characters/grace/kiss.rpy:972
 translate vietnamese grace_kiss_bad_end_ef23c6e1:
 
-    # alice "No. We can't save him. {small}We can't...{/small}"
+    # alice "No. We can't save him. {small}We can't..{/small}"
     alice "Không. Chúng ta không thể cứu anh ấy. {small}Chúng ta không thể...{/small}"
 
 # game/characters/grace/kiss.rpy:977
@@ -1995,25 +1995,25 @@ translate vietnamese grace_kiss_bad_end_d7760fc7:
 # game/characters/grace/kiss.rpy:981
 translate vietnamese grace_kiss_bad_end_e90f2f78:
 
-    # th "To think I would die by [alice]'s hands..."
+    # th "To think I would die by [alice]'s hands.."
     th "Nghĩ rằng tôi sẽ chết dưới tay [alice]..."
 
 # game/characters/grace/kiss.rpy:985
 translate vietnamese grace_kiss_bad_end_90f5164a:
 
-    # th "What an tragic death..."
+    # th "What an tragic death.."
     th "Thật là một cái chết bi thảm..."
 
 # game/characters/grace/kiss.rpy:988
 translate vietnamese grace_kiss_bad_end_fe250379:
 
-    # th "It's not like I won't resurrect..."
+    # th "It's not like I won't resurrect.."
     th "Nó không giống như mình sẽ không sống lại..."
 
 # game/characters/grace/kiss.rpy:998
 translate vietnamese grace_kiss_bad_end_feca3543:
 
-    # me "This place... Where is it?"
+    # me "This place.. Where is it?"
     me "Nơi này ... Nó ở đâu?"
 
 # game/characters/grace/kiss.rpy:999
@@ -2085,8 +2085,8 @@ translate vietnamese grace_kiss_bad_end_f3b78904:
 # game/characters/grace/kiss.rpy:1018
 translate vietnamese grace_kiss_bad_end_3cd89fc6:
 
-    # victorius "You see..."
-    victorius "Ông thấy đấy..."
+    # victorius "You see.."
+    victorius "Mày thấy đấy..."
 
 # game/characters/grace/kiss.rpy:1021
 translate vietnamese grace_kiss_bad_end_895ed079:
@@ -2175,13 +2175,13 @@ translate vietnamese grace_kiss_bad_end_c1efb148:
 # game/characters/grace/kiss.rpy:1051
 translate vietnamese grace_kiss_bad_end_cd4a6f57:
 
-    # me "{mad}Ha... Ha... Hahaha!{/mad}"
+    # me "{mad}Ha.. Ha.. Hahaha!{/mad}"
     me "{mad}Ha... Ha... Hahaha!{/mad}"
 
 # game/characters/grace/kiss.rpy:1054
 translate vietnamese grace_kiss_bad_end_36956888:
 
-    # me "{mad}Dead... I'm fucking dead...{/mad}"
+    # me "{mad}Dead.. I'm fucking dead..{/mad}"
     me "{mad}Chết... Mình chết cmnr...{/mad}"
 
 # game/characters/grace/kiss.rpy:1059
@@ -2199,7 +2199,7 @@ translate vietnamese grace_kiss_bad_end_d269f07e:
 # game/characters/grace/kiss.rpy:1063
 translate vietnamese grace_kiss_bad_end_7ccc07a5:
 
-    # me "Fuck..."
+    # me "Fuck.."
     me "Địt..."
 
 # game/characters/grace/kiss.rpy:1066
@@ -2211,26 +2211,26 @@ translate vietnamese grace_kiss_bad_end_8fd7a8cc:
 # game/characters/grace/kiss.rpy:1070
 translate vietnamese grace_kiss_bad_end_49c9ceef:
 
-    # me "I... I'm..."
+    # me "I.. I'm.."
     me "M... Mình..."
 
 # game/characters/grace/kiss.rpy:1074
 translate vietnamese grace_kiss_bad_end_4c1e41d8:
 
-    # me "Aaa..."
+    # me "Aaa.."
     me "Aaa..."
 
 # game/characters/grace/kiss.rpy:1077
 translate vietnamese grace_kiss_bad_end_a7748ec1:
 
-    # "*Cough* Aaah..."
+    # "*Cough* Aaah.."
     "*Khụ* Aaah..."
 
 # game/characters/grace/kiss.rpy:1081
 translate vietnamese grace_kiss_bad_end_45adefa7:
 
     # victorius "No matter how many eternities pass, no matter how many incarnations would be born..."
-    victorius "Cho dù có bao nhiêu kỷ nguyên trôi qua, cho dù có bao nhiêu hóa thân sẽ được sinh ra..."
+    victorius "Cho dù có bao nhiêu thiên niên kỷ trôi qua, cho dù có bao nhiêu hóa thân sẽ được sinh ra..."
 
 # game/characters/grace/kiss.rpy:1082
 translate vietnamese grace_kiss_bad_end_3820771a_1:
@@ -2355,7 +2355,7 @@ translate vietnamese grace_kiss_night_cor3_2eec7361:
 # game/characters/grace/kiss.rpy:1137
 translate vietnamese grace_kiss_night_cor3_2c06d234:
 
-    # me "Ahh... You're such a mood killer."
+    # me "Ahh.. You're such a mood killer."
     me "Ahh... Em làm hỏng tâm trạng quá đấy."
 
 # game/characters/grace/kiss.rpy:1138
@@ -2397,7 +2397,7 @@ translate vietnamese grace_kiss_night_cor3_a6d08a2e:
 # game/characters/grace/kiss.rpy:1151
 translate vietnamese grace_kiss_night_cor3_334ae49f:
 
-    # grace "It's weird, but you are even weirder..."
+    # grace "It's weird, but you are even weirder.."
     grace "Thật kỳ lạ, nhưng anh thậm chí còn kỳ lạ hơn..."
 
 # game/characters/grace/kiss.rpy:1152
@@ -2427,7 +2427,7 @@ translate vietnamese grace_kiss_night_cor3_68056e2c:
 # game/characters/grace/kiss.rpy:1156
 translate vietnamese grace_kiss_night_cor3_831bf315:
 
-    # grace "I hope you will get better soon... You're too weird now..."
+    # grace "I hope you will get better soon.. You're too weird now.."
     grace "Tôi hy vọng bạn sẽ khỏe lại ... Bây giờ anh quá kỳ lạ..."
 
 # game/characters/grace/kiss.rpy:1157
@@ -2463,7 +2463,7 @@ translate vietnamese grace_kiss_night_cor3_ef140a0f:
 # game/characters/grace/kiss.rpy:1173
 translate vietnamese grace_kiss_night_cor3_1bd9f805:
 
-    # grace "Ah... Warm..."
+    # grace "Ah.. Warm.."
     grace "Ah... Ấm..."
 
 # game/characters/grace/kiss.rpy:1174
@@ -2475,7 +2475,7 @@ translate vietnamese grace_kiss_night_cor3_ca2152df:
 # game/characters/grace/kiss.rpy:1177
 translate vietnamese grace_kiss_night_cor3_55e218be:
 
-    # grace "Weird. You're so weird today..."
+    # grace "Weird. You're so weird today.."
     grace "Kỳ dị. Hôm nay anh thật kỳ lạ..."
 
 # game/characters/grace/kiss.rpy:1178
@@ -2535,7 +2535,7 @@ translate vietnamese strings:
     new "Làm tý nhỉ {cor}[[Điên loạn]{/cor}"
 
     # game/characters/grace/kiss.rpy:398
-    old "{mad}Let's play...{/mad} {cor}[[Madness]{/cor}"
+    old "{mad}Let's play..{/mad} {cor}[[Madness]{/cor}"
     new "{mad}Hãy chơi nào...{/mad} {cor}[[Điên loạn]{/cor}"
 
     # game/characters/grace/kiss.rpy:434
@@ -2555,7 +2555,7 @@ translate vietnamese strings:
     new "Anh thích tên cũ em hơn"
 
     # game/characters/grace/kiss.rpy:726
-    old "{mad}Fun just began...{/mad} {cor}[[Madness]{/cor}"
+    old "{mad}Fun just began..{/mad} {cor}[[Madness]{/cor}"
     new "{mad}Cuộc vui mới bắt đầu thôi...{/mad} {cor}[[Điên loạn]{/cor}"
 
     # game/characters/grace/kiss.rpy:726
@@ -2563,7 +2563,7 @@ translate vietnamese strings:
     new "Em có thể hoàn tất việc thay đồ rồi"
 
     # game/characters/grace/kiss.rpy:875
-    old "{mad}Let's play with your little ass...{/mad} {cor}[[Madness]{/cor}"
+    old "{mad}Let's play with your little ass..{/mad} {cor}[[Madness]{/cor}"
     new "{mad}Hãy chơi với cái mông nhỏ của em...{/mad} {cor}[[Điên loạn]{/cor}"
 
     # game/characters/grace/kiss.rpy:875
@@ -2620,13 +2620,13 @@ translate vietnamese grace_kiss_night_cor2_42e88ed8:
 # game/characters/grace/kiss.rpy:939
 translate vietnamese grace_kiss_bad_end_8909adaf:
 
-    # mina "Alice... Why are you pointing a gun at him, why is Grace naked??"
+    # mina "Alice.. Why are you pointing a gun at him, why is Grace naked??"
     mina "Alice ... Tại sao cậu lại chĩa súng vào anh ấy, tại sao Grace lại khỏa thân??"
 
 # game/characters/grace/kiss.rpy:985
 translate vietnamese grace_kiss_bad_end_36ee72c4:
 
-    # th "What a tragic death..."
+    # th "What a tragic death.."
     th "Thật là một cái chết bi thảm..."
 
 # game/characters/grace/kiss.rpy:1022
@@ -2638,7 +2638,7 @@ translate vietnamese grace_kiss_bad_end_86c05d51:
 # game/characters/grace/kiss.rpy:1031
 translate vietnamese grace_kiss_bad_end_41ee9acd:
 
-    # victorius "Now where have I left off..."
+    # victorius "Now where have I left off.."
     victorius "Giờ chúng ta đến đâu rồi..."
 
 # game/characters/grace/kiss.rpy:1174
@@ -2661,4 +2661,3 @@ translate vietnamese strings:
     # game/characters/grace/kiss.rpy:875
     old "{mad}Let's play with your little ass..{/mad} {cor}[[Madness]{/cor}"
     new "{mad}Let's play with your little ass..{/mad} {cor}[[Madness]{/cor}"
-

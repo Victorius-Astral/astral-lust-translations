@@ -45,7 +45,7 @@ translate vietnamese mina_feet_massage_28638f70:
 # game/characters/mina/feet_masage.rpy:50
 translate vietnamese mina_feet_massage_13be6953:
 
-    # mina "I didn't need to know that..."
+    # mina "I didn't need to know that.."
     mina "Em không cần biết điều đó..."
 
 # game/characters/mina/feet_masage.rpy:51
@@ -87,7 +87,7 @@ translate vietnamese mina_feet_massage_7acf382e:
 # game/characters/mina/feet_masage.rpy:61
 translate vietnamese mina_feet_massage_6f9ae552:
 
-    # me "Nice... Pff."
+    # me "Nice.. Pff."
     me "Tốt... Pff."
 
 # game/characters/mina/feet_masage.rpy:62
@@ -309,7 +309,7 @@ translate vietnamese mina_feet_massage_no_skill_f0172fc1:
 # game/characters/mina/feet_masage.rpy:166
 translate vietnamese mina_feet_massage_no_skill_5111cdcd:
 
-    # th "Harder..."
+    # th "Harder.."
     th "Mạnh hơn..."
 
 # game/characters/mina/feet_masage.rpy:169
@@ -345,7 +345,7 @@ translate vietnamese mina_feet_massage_no_skill_6d86c595:
 # game/characters/mina/feet_masage.rpy:178
 translate vietnamese mina_feet_massage_no_skill_246385db:
 
-    # mina "Be careful..."
+    # mina "Be careful.."
     mina "Cẩn thận đấy..."
 
 # game/characters/mina/feet_masage.rpy:179
@@ -363,7 +363,7 @@ translate vietnamese mina_feet_massage_no_skill_f7238544:
 # game/characters/mina/feet_masage.rpy:181
 translate vietnamese mina_feet_massage_no_skill_df738364:
 
-    # mina "Ahh..."
+    # mina "Ahh.."
     mina "Ahh..."
 
 # game/characters/mina/feet_masage.rpy:184
@@ -495,7 +495,7 @@ translate vietnamese mina_feet_massage_low_skill_7ae8db10:
 # game/characters/mina/feet_masage.rpy:229
 translate vietnamese mina_feet_massage_low_skill_0ef6ed4c:
 
-    # mina "Hmm... hard to say, it's something one understands on a spiritual level, no words can explain it."
+    # mina "Hmm.. hard to say, it's something one understands on a spiritual level, no words can explain it."
     mina "Hmm... khó nói lắm, đó là điều mà người ta hiểu ở mức độ tâm linh, không lời nào có thể giải thích được."
 
 # game/characters/mina/feet_masage.rpy:230
@@ -573,7 +573,7 @@ translate vietnamese mina_feet_massage_low_skill_24b9c884:
 # game/characters/mina/feet_masage.rpy:250
 translate vietnamese mina_feet_massage_low_skill_31bf2b2f:
 
-    # th "She's asking for a spanking..."
+    # th "She's asking for a spanking.."
     th "Em ấy đang yêu cầu bị đánh đòn đây..."
 
 # game/characters/mina/feet_masage.rpy:251
@@ -585,13 +585,13 @@ translate vietnamese mina_feet_massage_low_skill_260182c7:
 # game/characters/mina/feet_masage.rpy:254
 translate vietnamese mina_feet_massage_low_skill_458baa17:
 
-    # mina "Oh... I've forgotten about it. Could be worse."
+    # mina "Oh.. I've forgotten about it. Could be worse."
     mina "Oh... em đã quên nó đấy. nó khá tệ."
 
 # game/characters/mina/feet_masage.rpy:255
 translate vietnamese mina_feet_massage_low_skill_aa641c66:
 
-    # th "There is still a long way before me..."
+    # th "There is still a long way before me.."
     th "Vẫn còn một chặng đường dài phía trước đây..."
 
 # game/characters/mina/feet_masage.rpy:256
@@ -615,7 +615,7 @@ translate vietnamese mina_feet_massage_low_skill_f101e178:
 # game/characters/mina/feet_masage.rpy:263
 translate vietnamese mina_feet_massage_low_skill_523a46a5:
 
-    # mina "That was... you've got a long way before you."
+    # mina "That was.. you've got a long way before you."
     mina "Anh có một chặng đường dài trước đấy."
 
 # game/characters/mina/feet_masage.rpy:265
@@ -645,7 +645,7 @@ translate vietnamese mina_feet_massage_low_skill_a1c73fe1:
 # game/characters/mina/feet_masage.rpy:276
 translate vietnamese mina_feet_massage_medium_skill_4a21fc4f:
 
-    # mina "Ohh... That feels nice."
+    # mina "Ohh.. That feels nice."
     mina "Ohh... anh làm tốt đấy."
 
 # game/characters/mina/feet_masage.rpy:277
@@ -687,7 +687,7 @@ translate vietnamese mina_feet_massage_medium_skill_9b045190:
 # game/characters/mina/feet_masage.rpy:287
 translate vietnamese mina_feet_massage_medium_skill_7d999b3d:
 
-    # mina "You can think of only one thing..."
+    # mina "You can think of only one thing.."
     mina "Anh chỉ nghĩ được một thứ..."
 
 # game/characters/mina/feet_masage.rpy:292
@@ -765,7 +765,7 @@ translate vietnamese mina_feet_massage_medium_skill_f101e178:
 # game/characters/mina/feet_masage.rpy:318
 translate vietnamese mina_feet_massage_medium_skill_a753756f:
 
-    # mina "Aaaahhhh... So nice..."
+    # mina "Aaaahhhh.. So nice.."
     mina "Aaaahhhh... thật tuyệt..."
 
 # game/characters/mina/feet_masage.rpy:321
@@ -795,7 +795,7 @@ translate vietnamese mina_feet_massage_medium_skill_29fa04db:
 # game/characters/mina/feet_masage.rpy:328
 translate vietnamese mina_feet_massage_medium_skill_9c2936c4:
 
-    # th "Footsie again..."
+    # th "Footsie again.."
     th "Lại nữa à..."
 
 # game/characters/mina/feet_masage.rpy:329
@@ -855,7 +855,7 @@ translate vietnamese mina_feet_massage_kiss_84648bb5:
 # game/characters/mina/feet_masage.rpy:362
 translate vietnamese mina_feet_massage_kiss_bf50b942:
 
-    # th "It's weird, but it makes me so hard..."
+    # th "It's weird, but it makes me so hard.."
     th "Thật kỳ lạ, nhưng nó làm cho mình rất nứng..."
 
 # game/characters/mina/feet_masage.rpy:363
@@ -885,7 +885,7 @@ translate vietnamese mina_feet_massage_kiss_07d01899:
 # game/characters/mina/feet_masage.rpy:377
 translate vietnamese mina_feet_massage_kiss_bd795baa:
 
-    # mina "Oh, man..."
+    # mina "Oh, man.."
     mina "Trời ui..."
 
 # game/characters/mina/feet_masage.rpy:378
@@ -897,7 +897,7 @@ translate vietnamese mina_feet_massage_kiss_acd01769:
 # game/characters/mina/feet_masage.rpy:379
 translate vietnamese mina_feet_massage_kiss_404c6c9a:
 
-    # mina "I don't know..."
+    # mina "I don't know.."
     mina "Em không biết..."
 
 # game/characters/mina/feet_masage.rpy:380
@@ -945,7 +945,7 @@ translate vietnamese mina_feet_massage_kiss_4e2a8876_1:
 # game/characters/mina/feet_masage.rpy:402
 translate vietnamese mina_feet_massage_kiss_243a2f21:
 
-    # th "Seems she's not horny enough..."
+    # th "Seems she's not horny enough.."
     th "Có vẻ như em ấy không đủ hứng rồi..."
 
 # game/characters/mina/feet_masage.rpy:406
@@ -963,7 +963,7 @@ translate vietnamese mina_feet_massage_kiss_52187447:
 # game/characters/mina/feet_masage.rpy:408
 translate vietnamese mina_feet_massage_kiss_ecae9442:
 
-    # th "Seems we are not there yet, maybe if she's horny enough..."
+    # th "Seems we are not there yet, maybe if she's horny enough.."
     th "Có vẻ như chúng ta vẫn chưa đến mức đó, có lẽ nếu cô ấy đủ nứng..."
 
 # game/characters/mina/feet_masage.rpy:412
@@ -1101,7 +1101,7 @@ translate vietnamese mina_feet_massage_kiss2_b32b5950:
 # game/characters/mina/feet_masage.rpy:476
 translate vietnamese mina_feet_massage_kiss2_df738364:
 
-    # mina "Ahh..."
+    # mina "Ahh.."
     mina "Ahh..."
 
 # game/characters/mina/feet_masage.rpy:484
@@ -1119,7 +1119,7 @@ translate vietnamese mina_feet_massage_kiss2_50ba70d1:
 # game/characters/mina/feet_masage.rpy:489
 translate vietnamese mina_feet_massage_kiss2_f042ddba:
 
-    # mina "Mmmm. Exactly..."
+    # mina "Mmmm. Exactly.."
     mina "Mmmm. Chính xác..."
 
 # game/characters/mina/feet_masage.rpy:498
@@ -1137,7 +1137,7 @@ translate vietnamese mina_feet_massage_kiss2_4375c717:
 # game/characters/mina/feet_masage.rpy:500
 translate vietnamese mina_feet_massage_kiss2_a849f406:
 
-    # th "And my dick is getting harder and harder..."
+    # th "And my dick is getting harder and harder.."
     th "Và con cặc của mình ngày càng cứng hơn..."
 
 # game/characters/mina/feet_masage.rpy:501
@@ -1365,13 +1365,13 @@ translate vietnamese mina_feet_massage_fj_3b62db24:
 # game/characters/mina/feet_masage.rpy:592
 translate vietnamese mina_feet_massage_fj_dd9636c7:
 
-    # me "Ahh..."
+    # me "Ahh.."
     me "Ahh..."
 
 # game/characters/mina/feet_masage.rpy:593
 translate vietnamese mina_feet_massage_fj_e7305b11:
 
-    # mina "You moan li..."
+    # mina "You moan li.."
     mina "Tiếng rên c..."
 
 # game/characters/mina/feet_masage.rpy:594
@@ -1395,7 +1395,7 @@ translate vietnamese mina_feet_massage_fj_8ab6e384:
 # game/characters/mina/feet_masage.rpy:597
 translate vietnamese mina_feet_massage_fj_f08e0a2c:
 
-    # me "Look at her, how nice..."
+    # me "Look at her, how nice.."
     me "Nhìn em ấy xem, thật tốt bụng làm sao..."
 
 # game/characters/mina/feet_masage.rpy:605
@@ -1425,7 +1425,7 @@ translate vietnamese mina_feet_massage_fj_6a61cd4d:
 # game/characters/mina/feet_masage.rpy:609
 translate vietnamese mina_feet_massage_fj_d904525a:
 
-    # mina "True..."
+    # mina "True.."
     mina "Cũng đúng..."
 
 # game/characters/mina/feet_masage.rpy:617
@@ -1443,7 +1443,7 @@ translate vietnamese mina_feet_massage_fj_12b4a40d:
 # game/characters/mina/feet_masage.rpy:619
 translate vietnamese mina_feet_massage_fj_3d080e6f:
 
-    # me "Don't be asha..."
+    # me "Don't be asha.."
     me "Đừng có xâ..."
 
 # game/characters/mina/feet_masage.rpy:620
@@ -1491,13 +1491,13 @@ translate vietnamese mina_feet_massage_fj_7c81c5af:
 # game/characters/mina/feet_masage.rpy:634
 translate vietnamese mina_feet_massage_fj_1bccc295:
 
-    # mina "No. No... No."
+    # mina "No. No.. No."
     mina "Không. không... không."
 
 # game/characters/mina/feet_masage.rpy:635
 translate vietnamese mina_feet_massage_fj_ca482ba7:
 
-    # me "Alright, I got it the first time, wait... you want me to cum over myself?"
+    # me "Alright, I got it the first time, wait.. you want me to cum over myself?"
     me "Được rồi, đợi đã... anh muốn anh bắn hết lên mình?"
 
 # game/characters/mina/feet_masage.rpy:636
@@ -1515,7 +1515,7 @@ translate vietnamese mina_feet_massage_fj_c276f1dd:
 # game/characters/mina/feet_masage.rpy:638
 translate vietnamese mina_feet_massage_fj_a8a2a0e8:
 
-    # mina "Milking you... Gosh, that sounds awful..."
+    # mina "Milking you.. Gosh, that sounds awful.."
     mina "Vắt sữa anh... Chúa ơi, nghe ghê quá..."
 
 # game/characters/mina/feet_masage.rpy:639
@@ -1533,7 +1533,7 @@ translate vietnamese mina_feet_massage_fj_f248d7c1:
 # game/characters/mina/feet_masage.rpy:648
 translate vietnamese mina_feet_massage_fj_585219af:
 
-    # mina "What a mess... Man, you got to clean yourself..."
+    # mina "What a mess.. Man, you got to clean yourself.."
     mina "Thật là một mớ hỗn độn... Anh hãy đi lau hết đi..."
 
 # game/characters/mina/feet_masage.rpy:649
@@ -1551,7 +1551,7 @@ translate vietnamese mina_feet_massage_fj_e719b982:
 # game/characters/mina/feet_masage.rpy:651
 translate vietnamese mina_feet_massage_fj_dd9636c7_1:
 
-    # me "Ahh..."
+    # me "Ahh.."
     me "Ahh..."
 
 # game/characters/mina/feet_masage.rpy:652
@@ -1726,4 +1726,3 @@ translate vietnamese strings:
     # game/characters/mina/feet_masage.rpy:316
     old "Massage can't be improved further in this version. More coming soon!"
     new "Massage can't be improved further in this version. More coming soon!"
-

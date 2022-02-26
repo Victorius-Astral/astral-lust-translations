@@ -34,7 +34,7 @@ translate vietnamese alice_sex_1_95b3f10d:
 translate vietnamese alice_sex_1_ce13c55f:
 
     # "Soon [alice] stands before you."
-    "Sau đó [alice] đứng cạnh bạn  ."
+    "Sau đó [alice] đứng cạnh bạn."
 
 # game/characters/alice/sex_1.rpy:49
 translate vietnamese alice_sex_1_b2db8e2d:
@@ -177,14 +177,14 @@ translate vietnamese alice_sex_1_part3_388a1480:
 # game/characters/alice/sex_1.rpy:117
 translate vietnamese alice_sex_1_part3_40976ab2:
 
-    # me "Ohh..."
+    # me "Ohh.."
     me "Ohh..."
 
 # game/characters/alice/sex_1.rpy:119
 translate vietnamese alice_sex_1_part3_981bc7a1:
 
     # alice "Your dick is the best, daddy~"
-    alice "Con cặc của anh là tuyệt nhất đấy daddy ~"
+    alice "Con cặc của anh là tuyệt nhất đấy daddy~"
 
 # game/characters/alice/sex_1.rpy:120
 translate vietnamese alice_sex_1_part3_b4257d71:
@@ -231,7 +231,7 @@ translate vietnamese alice_sex_1_part3_7459a238:
 # game/characters/alice/sex_1.rpy:150
 translate vietnamese alice_sex_1_part3_5d2f0ca8:
 
-    # alice "Ahh..."
+    # alice "Ahh.."
     alice "Ahh..."
 
 # game/characters/alice/sex_1.rpy:151
@@ -291,7 +291,7 @@ translate vietnamese alice_sex_1_part3_2f3d23c6_1:
 # game/characters/alice/sex_1.rpy:182
 translate vietnamese alice_sex_1_part3_5d2f0ca8_1:
 
-    # alice "Ahh..."
+    # alice "Ahh.."
     alice "Ahh..."
 
 # game/characters/alice/sex_1.rpy:183

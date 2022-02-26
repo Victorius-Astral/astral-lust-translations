@@ -81,13 +81,13 @@ translate vietnamese kiara_cunn_1_slow_b6c49f19:
 # game/characters/kiara/cunn_1.rpy:85
 translate vietnamese kiara_cunn_1_slow_47957e46:
 
-    # kiara "Ahh..."
+    # kiara "Ahh.."
     kiara "Ahh..."
 
 # game/characters/kiara/cunn_1.rpy:91
 translate vietnamese kiara_cunn_1_fast_5641b7ef:
 
-    # kiara "Mmmm..."
+    # kiara "Mmmm.."
     kiara "Mmmm..."
 
 # game/characters/kiara/cunn_1.rpy:92
@@ -129,7 +129,7 @@ translate vietnamese kiara_cunn_1_before_04d8c388:
 # game/characters/kiara/cunn_1.rpy:103
 translate vietnamese kiara_cunn_1_before_ee51bc08:
 
-    # th "Her fluids are leaking down my face... It's kind of hot, actually."
+    # th "Her fluids are leaking down my face.. It's kind of hot, actually."
     th "Dâm thủy của cô ấy đang rỉ xuống mặt mình... mà thực ra nó khá là hot đấy."
 
 # game/characters/kiara/cunn_1.rpy:104
@@ -141,7 +141,7 @@ translate vietnamese kiara_cunn_1_before_9c3592f5:
 # game/characters/kiara/cunn_1.rpy:105
 translate vietnamese kiara_cunn_1_before_09dd3f39:
 
-    # th "Ha... My dick is hard again."
+    # th "Ha.. My dick is hard again."
     th "Ha... Lại cửng lên mịa rồi."
 
 # game/characters/kiara/cunn_1.rpy:106
@@ -153,7 +153,7 @@ translate vietnamese kiara_cunn_1_before_88c552c5:
 # game/characters/kiara/cunn_1.rpy:107
 translate vietnamese kiara_cunn_1_before_4e175dd3:
 
-    # th "Eh... Get out of my mind..."
+    # th "Eh.. Get out of my mind.."
     th "Eh... Ra khỏi đầu tôi đi..."
 
 # game/characters/kiara/cunn_1.rpy:108
@@ -184,7 +184,7 @@ translate vietnamese kiara_cunn_1_cum_b8d291fd:
 translate vietnamese kiara_cunn_1_cum_52d3b7fc:
 
     # th "I wish I had an orgasm as intense..."
-    th "Ước gì mình cũng đạt cực khoái mãnh liệt như vậy..."
+    th "Ước gì mình cũng đạt cực khoái mãnh liệt như vậy.."
 
 # game/characters/kiara/cunn_1.rpy:123
 translate vietnamese kiara_cunn_1_cum_6af7b001:

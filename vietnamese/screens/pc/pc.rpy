@@ -35,5 +35,4 @@ translate vietnamese strings:
 
     # game/screens/pc/pc.rpy:3
     old "Difficulty Settings"
-    new "Difficulty Settings"
-
+    new "Tùy chọn độ khó"

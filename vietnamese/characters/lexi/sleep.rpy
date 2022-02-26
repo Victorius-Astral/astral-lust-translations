@@ -9,7 +9,7 @@ translate vietnamese sleep_lexi_turnover_76208216:
 # game/characters/lexi/sleep.rpy:17
 translate vietnamese sleep_lexi_turnover_009dd9bf:
 
-    # th "Annnd..."
+    # th "Annnd.."
     th "Vàààà..."
 
 # game/characters/lexi/sleep.rpy:20
@@ -21,7 +21,7 @@ translate vietnamese sleep_lexi_turnover_78dd1896:
 # game/characters/lexi/sleep.rpy:23
 translate vietnamese sleep_lexi_turnover_afa89826:
 
-    # th "Such a beauty..."
+    # th "Such a beauty.."
     th "Một vẻ đẹp như vậy..."
 
 # game/characters/lexi/sleep.rpy:28
@@ -75,13 +75,13 @@ translate vietnamese sleep_lexi_hate_16d4093b:
 # game/characters/lexi/sleep.rpy:66
 translate vietnamese sleep_lexi_dislike_9ecc88f8:
 
-    # lexi "How could you do this? I thought... Go before Mina wakes up."
+    # lexi "How could you do this? I thought.. Go before Mina wakes up."
     lexi "Làm thế nào anh có thể làm điều này? Em tưởng... Hãy đi trước khi Mina thức dậy."
 
 # game/characters/lexi/sleep.rpy:67
 translate vietnamese sleep_lexi_dislike_c4581d4c:
 
-    # "Disappointment in her voice stabs your hearth, yet you know you can't save the situation with words, the only thing left is to leave..."
+    # "Disappointment in her voice stabs your hearth, yet you know you can't save the situation with words, the only thing left is to leave.."
     "Sự thất vọng trong giọng nói của cô ấy đâm sâu vào lòng bạn, nhưng bạn biết mình không thể cứu vãn tình hình bằng lời nói, điều duy nhất còn lại là rời đi..."
 
 # game/characters/lexi/sleep.rpy:73

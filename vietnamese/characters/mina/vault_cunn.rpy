@@ -111,7 +111,7 @@ translate vietnamese mina_vault_cunn_3f54baf3:
 # game/characters/mina/vault_cunn.rpy:47
 translate vietnamese mina_vault_cunn_ad44ad79:
 
-    # mina "[me], I'm gonna..."
+    # mina "[me], I'm gonna.."
     mina "[me], Em sẽ..."
 
 # game/characters/mina/vault_cunn.rpy:48
@@ -123,7 +123,7 @@ translate vietnamese mina_vault_cunn_beb2ced1:
 # game/characters/mina/vault_cunn.rpy:49
 translate vietnamese mina_vault_cunn_df738364:
 
-    # mina "Ahh..."
+    # mina "Ahh.."
     mina "Ahh..."
 
 # game/characters/mina/vault_cunn.rpy:50
@@ -147,7 +147,7 @@ translate vietnamese mina_vault_cunn_a533c99e:
 # game/characters/mina/vault_cunn.rpy:61
 translate vietnamese mina_vault_cunn_7f73b0a5:
 
-    # mina "Maaan... That was good."
+    # mina "Maaan.. That was good."
     mina "Vừa rồi tuyệt thật đáy."
 
 # game/characters/mina/vault_cunn.rpy:62
@@ -186,4 +186,3 @@ translate vietnamese mina_vault_cunn_58774000:
 
     # mina "I'll take your word for it. No one is going to hear us here, so I can let myself go wild."
     mina "I'll take your word for it. No one is going to hear us here, so I can let myself go wild."
-

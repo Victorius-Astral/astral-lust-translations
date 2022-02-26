@@ -99,13 +99,13 @@ translate vietnamese mina_8_menu1_5b4ed783:
 # game/characters/mina/ev_8.rpy:52
 translate vietnamese mina_8_menu1_fae0d0ce:
 
-    # mina "What can I say..."
+    # mina "What can I say.."
     mina "Em có thể nói gì đây..."
 
 # game/characters/mina/ev_8.rpy:53
 translate vietnamese mina_8_menu1_4b4af240:
 
-    # mina "She likes me, but it's only as a friend. With you though... It's more than that."
+    # mina "She likes me, but it's only as a friend. With you though.. It's more than that."
     mina "Cô ấy thích em , nhưng mà là kiểu bạn bè. Với anh thì... Nó còn hơn thế nữa."
 
 # game/characters/mina/ev_8.rpy:54
@@ -159,7 +159,7 @@ translate vietnamese mina_8_menu1_281aae67:
 # game/characters/mina/ev_8.rpy:68
 translate vietnamese mina_8_menu1_b03d0bff:
 
-    # me "Thanks for the reminder..."
+    # me "Thanks for the reminder.."
     me "Cảm ơn vì đã nhắc..."
 
 # game/characters/mina/ev_8.rpy:70
@@ -183,7 +183,7 @@ translate vietnamese mina_8_menu1_4fe1ce7e:
 # game/characters/mina/ev_8.rpy:74
 translate vietnamese mina_8_menu1_df62272f:
 
-    # me "Too late, so we..."
+    # me "Too late, so we.."
     me "Quá muộn rồi, bọn an..."
 
 # game/characters/mina/ev_8.rpy:76
@@ -225,7 +225,7 @@ translate vietnamese mina_8_menu1_731c453a:
 # game/characters/mina/ev_8.rpy:85
 translate vietnamese mina_8_menu1_361ff73e:
 
-    # mina "So her lips tasted like cherry, sweet and delicate. I still feel that velvet texture on my lips. As if it just happened. I felt soooo hot when she kissed me, my panties got soaking wet..."
+    # mina "So her lips tasted like cherry, sweet and delicate. I still feel that velvet texture on my lips. As if it just happened. I felt soooo hot when she kissed me, my panties got soaking wet.."
     mina "Đôi môi của cô có vị như anh đào, ngọt ngào và tinh tế. em vẫn cảm thấy thứ mềm mại đó trên môi của mình. Như thể vừa mới xảy ra vậy. Em cảm thấy rất nóng khi cô ấy hôn em, quần lót của em thì ướt đẫm..."
 
 # game/characters/mina/ev_8.rpy:86
@@ -417,25 +417,25 @@ translate vietnamese mina_8_part2_94fbeeb5:
 # game/characters/mina/ev_8.rpy:141
 translate vietnamese mina_8_part2_1cc3b9c9:
 
-    # mina "Oh, she said it looked fun..."
+    # mina "Oh, she said it looked fun.."
     mina "Oh, em ấy nói là nhìn cũng vui đấy..."
 
 # game/characters/mina/ev_8.rpy:142
 translate vietnamese mina_8_part2_6def3077:
 
-    # me "No, you didn't... With Grace? ..."
+    # me "No, you didn't.. With Grace? .."
     me "Không lẽ em... Với Grace á? ..."
 
 # game/characters/mina/ev_8.rpy:145
 translate vietnamese mina_8_part2_bb8de8e1:
 
-    # mina "I did. Alice too. Try imagining this scene. Like heaven isn't it? Three beauties pressing their lovely lips on each other. Kissing with innocence and..."
+    # mina "I did. Alice too. Try imagining this scene. Like heaven isn't it? Three beauties pressing their lovely lips on each other. Kissing with innocence and.."
     mina "Em làm rồi. Alice cũng vậy. Hãy thử tưởng tượng cảnh này xem. Giống như thiên đường phải không? Ba người đẹp cùng chạm môi nhau. Hôn một cách ngây thơ và..."
 
 # game/characters/mina/ev_8.rpy:146
 translate vietnamese mina_8_part2_d05d4851:
 
-    # me "What innocence? You were there..."
+    # me "What innocence? You were there.."
     me "Ngây thơ gì? Em đã ở đó đấy..."
 
 # game/characters/mina/ev_8.rpy:148
@@ -501,7 +501,7 @@ translate vietnamese mina_8_part3_f2c9df01:
 # game/characters/mina/ev_8.rpy:165
 translate vietnamese mina_8_part3_7c70c455:
 
-    # me "Wow, someone is knee deep in..."
+    # me "Wow, someone is knee deep in.."
     me "Wow, Simp..."
 
 # game/characters/mina/ev_8.rpy:168
@@ -513,7 +513,7 @@ translate vietnamese mina_8_part3_24156de4:
 # game/characters/mina/ev_8.rpy:173
 translate vietnamese mina_8_part3_c5b4fd68:
 
-    # mina "Ahh... You are probably right."
+    # mina "Ahh.. You are probably right."
     mina "Ahh... Có lẽ anh đúng đấy."
 
 # game/characters/mina/ev_8.rpy:174
@@ -627,7 +627,7 @@ translate vietnamese mina_8_part6_3820771a:
 # game/characters/mina/ev_8.rpy:225
 translate vietnamese mina_8_part6_83e3dd28:
 
-    # th "You just said that I was leaving too soon..."
+    # th "You just said that I was leaving too soon.."
     th "Em vừa mới nói là anh đi quá sớm mà..."
 
 # game/characters/mina/ev_8.rpy:231
@@ -711,5 +711,4 @@ translate vietnamese strings:
 
     # game/characters/mina/ev_8.rpy:41
     old "I told her I did it with Alice. She wasn't angry, though."
-    new "I told her I did it with Alice. She wasn't angry, though."
-
+    new "Tôi đã nói với cô ấy rằng tôi đã làm điều đó với Alice. Tuy nhiên, cô ấy không tức giận."

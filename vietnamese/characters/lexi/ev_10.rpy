@@ -16,7 +16,7 @@ translate vietnamese lexi_10_a626c226:
 translate vietnamese lexi_10_d9f5eb75:
 
     # me "Hey, are you going out?"
-    me "Anh định đi ra ngoài à?"
+    me "Em định đi ra ngoài à?"
 
 # game/characters/lexi/ev_10.rpy:10
 translate vietnamese lexi_10_baae316d:
@@ -33,7 +33,7 @@ translate vietnamese lexi_10_46049114:
 # game/characters/lexi/ev_10.rpy:16
 translate vietnamese lexi_10_5251b6c2:
 
-    # lexi "Yeah..."
+    # lexi "Yeah.."
     lexi "Yeah..."
 
 # game/characters/lexi/ev_10.rpy:19
@@ -51,7 +51,7 @@ translate vietnamese lexi_10_c7d87fe5:
 # game/characters/lexi/ev_10.rpy:23
 translate vietnamese lexi_10_c2e3c477:
 
-    # lexi "{quiet}No...{/quiet}"
+    # lexi "{quiet}No..{/quiet}"
     lexi "{quiet}Không...{/quiet}"
 
 # game/characters/lexi/ev_10.rpy:24
@@ -63,7 +63,7 @@ translate vietnamese lexi_10_83087c50:
 # game/characters/lexi/ev_10.rpy:25
 translate vietnamese lexi_10_d5c24e50:
 
-    # lexi "I... {small}I'm scared...{/small}"
+    # lexi "I.. {small}I'm scared..{/small}"
     lexi "Em... {small}em sợ...{/small}"
 
 # game/characters/lexi/ev_10.rpy:28
@@ -81,19 +81,19 @@ translate vietnamese lexi_10_7eaac6a8:
 # game/characters/lexi/ev_10.rpy:32
 translate vietnamese lexi_10_9137e29f:
 
-    # lexi "Since that day..."
+    # lexi "Since that day.."
     lexi "Từ ngày đó..."
 
 # game/characters/lexi/ev_10.rpy:33
 translate vietnamese lexi_10_84b15eae:
 
-    # th "When we almost died..."
+    # th "When we almost died.."
     th "Khi chúng ta gần như chết..."
 
 # game/characters/lexi/ev_10.rpy:36
 translate vietnamese lexi_10_8a5a7c8b:
 
-    # lexi "I'm scared, sometimes when I try to leave..."
+    # lexi "I'm scared, sometimes when I try to leave.."
     lexi "Em sợ hãi, đôi khi em cố gắng đi..."
 
 # game/characters/lexi/ev_10.rpy:37
@@ -105,19 +105,19 @@ translate vietnamese lexi_10_3820771a:
 # game/characters/lexi/ev_10.rpy:38
 translate vietnamese lexi_10_30534481:
 
-    # lexi "I... I can't. My back will get drenched in a cold sweat."
+    # lexi "I.. I can't. My back will get drenched in a cold sweat."
     lexi "Em... em không thể. Lưng em sẽ ướt đẫm mồ hôi lạnh."
 
 # game/characters/lexi/ev_10.rpy:39
 translate vietnamese lexi_10_4797a67f:
 
-    # me "I'm sorry..."
+    # me "I'm sorry.."
     me "Anh rất tiếc..."
 
 # game/characters/lexi/ev_10.rpy:40
 translate vietnamese lexi_10_6267e98f:
 
-    # lexi "I blank out, I just stay like this for a long time..."
+    # lexi "I blank out, I just stay like this for a long time.."
     lexi "Đầu óc em trống rỗng, em cứ như thế này trong một thời gian dài..."
 
 # game/characters/lexi/ev_10.rpy:41
@@ -135,7 +135,7 @@ translate vietnamese lexi_10_e3c1decf:
 # game/characters/lexi/ev_10.rpy:45
 translate vietnamese lexi_10_86e75d53:
 
-    # lexi "I used to think that my em is safe here."
+    # lexi "I used to think that my [lex_min!t] is safe here."
     lexi "Em đã từng nghĩ rằng em của mình an toàn ở đây."
 
 # game/characters/lexi/ev_10.rpy:48
@@ -207,7 +207,7 @@ translate vietnamese lexi_10_c24c9162:
 # game/characters/lexi/ev_10.rpy:63
 translate vietnamese lexi_10_1287b742:
 
-    # me "You're hopeless, girl..."
+    # me "You're hopeless, girl.."
     me "Em đúng là vô vọng rồi..."
 
 # game/characters/lexi/ev_10.rpy:66
@@ -219,13 +219,13 @@ translate vietnamese lexi_10_3e794d44:
 # game/characters/lexi/ev_10.rpy:67
 translate vietnamese lexi_10_6360a484:
 
-    # me "Good em won't think about dying, and leaving her em alone."
-    me "Người em tốt sẽ không nghĩ đến việc chết, và để người em một mình đâu."
+    # me "Good [lex_min!t] won't think about dying, and leaving her [lex_min!t] alone."
+    me "Người chị tốt sẽ không nghĩ đến việc chết, và để người em lại một mình đâu."
 
 # game/characters/lexi/ev_10.rpy:70
 translate vietnamese lexi_10_d46b0878:
 
-    # lexi "You're right..."
+    # lexi "You're right.."
     lexi "Anh đúng đấy..."
 
 # game/characters/lexi/ev_10.rpy:71
@@ -255,7 +255,7 @@ translate vietnamese lexi_10_819a9741:
 # game/characters/lexi/ev_10.rpy:79
 translate vietnamese lexi_10_41adc5ef:
 
-    # lexi "I can't let yo..."
+    # lexi "I can't let yo.."
     lexi "Em không thể để a..."
 
 # game/characters/lexi/ev_10.rpy:80
@@ -267,7 +267,7 @@ translate vietnamese lexi_10_cc609b12:
 # game/characters/lexi/ev_10.rpy:81
 translate vietnamese lexi_10_637c08d5:
 
-    # lexi "I..."
+    # lexi "I.."
     lexi "Em..."
 
 # game/characters/lexi/ev_10.rpy:82
@@ -279,7 +279,7 @@ translate vietnamese lexi_10_622d8ce1:
 # game/characters/lexi/ev_10.rpy:85
 translate vietnamese lexi_10_fb232db4:
 
-    # lexi "{small}Thank you...{/small}"
+    # lexi "{small}Thank you..{/small}"
     lexi "{small}Cảm ơn...{/small}"
 
 # game/characters/lexi/ev_10.rpy:86

@@ -51,7 +51,7 @@ translate vietnamese mina_4_51f0387f:
 # game/characters/mina/ev_4.rpy:18
 translate vietnamese mina_4_b7522ffa:
 
-    # me "Listen, I know that you like her but..."
+    # me "Listen, I know that you like her but.."
     me "Nghe này, anh biết rằng em thích cô ấy nhưng..."
 
 # game/characters/mina/ev_4.rpy:20
@@ -81,7 +81,7 @@ translate vietnamese mina_4_6c29822d:
 # game/characters/mina/ev_4.rpy:25
 translate vietnamese mina_4_f75b7746:
 
-    # me "Calm down [mina]..."
+    # me "Calm down [mina].."
     me "Bình tĩnh đi [mina]..."
 
 # game/characters/mina/ev_4.rpy:26
@@ -159,7 +159,7 @@ translate vietnamese mina_4_1_36e6e215:
 # game/characters/mina/ev_4.rpy:59
 translate vietnamese mina_4_1_432e9209:
 
-    # th "I never would have thought that you could make dating two women sound so righteous..."
+    # th "I never would have thought that you could make dating two women sound so righteous.."
     th "Tao không bao giờ nghĩ rằng mày có thể làm cho việc hẹn hò với hai người phụ nữ trở nên đúng đắn như vậy đâu đấy..."
 
 # game/characters/mina/ev_4.rpy:60
@@ -177,13 +177,13 @@ translate vietnamese mina_4_1_9b6b3d6b:
 # game/characters/mina/ev_4.rpy:62
 translate vietnamese mina_4_1_75ab1a77:
 
-    # mina "I don't..."
+    # mina "I don't.."
     mina "Em không..."
 
 # game/characters/mina/ev_4.rpy:64
 translate vietnamese mina_4_1_4fdc1a41:
 
-    # mina "It feels so wrong..."
+    # mina "It feels so wrong.."
     mina "Điều này thật sai trái..."
 
 # game/characters/mina/ev_4.rpy:65
@@ -195,13 +195,13 @@ translate vietnamese mina_4_1_4f77b4c3:
 # game/characters/mina/ev_4.rpy:66
 translate vietnamese mina_4_1_1354d6d9:
 
-    # me "The world isn't like it used to be, what's acceptable now may not necessarily be the same as before. Don't you think soEm
-    me "Thế giới không giống như trước đây, những gì có thể chấp nhận được bây giờ có thể không nhất thiết giống như trước đây. Bạn có nghĩ vậy không?"
+    # me "The world isn't like it used to be, what's acceptable now may not necessarily be the same as before. Don't you think so
+    me "Thế giới không giống như trước đây, những gì có thể chấp nhận được bây giờ có thể không nhất thiết giống như trước đây. Em có nghĩ vậy không?"
 
 # game/characters/mina/ev_4.rpy:68
 translate vietnamese mina_4_1_5e2f5152:
 
-    # mina "Mmm, it makes sense... but..."
+    # mina "Mmm, it makes sense.. but.."
     mina "Mmm, có lý đấy... nhưng..."
 
 # game/characters/mina/ev_4.rpy:69
@@ -231,13 +231,13 @@ translate vietnamese mina_4_menu_74e61066:
 # game/characters/mina/ev_4.rpy:80
 translate vietnamese mina_4_menu_8307fc49:
 
-    # th "I need to try something more convincing..."
+    # th "I need to try something more convincing.."
     th "Tôi cần thử cái gì đó thuyết phục hơn..."
 
 # game/characters/mina/ev_4.rpy:86
 translate vietnamese mina_4_menu_5d77d7fc:
 
-    # mina "Sure..."
+    # mina "Sure.."
     mina "Được thôi..."
 
 # game/characters/mina/ev_4.rpy:89
@@ -267,7 +267,7 @@ translate vietnamese mina_4_menu_9cc3b945:
 # game/characters/mina/ev_4.rpy:95
 translate vietnamese mina_4_menu_8307fc49_1:
 
-    # th "I need to try something more convincing..."
+    # th "I need to try something more convincing.."
     th "Mình cần thử cái gì đó thuyết phục hơn..."
 
 # game/characters/mina/ev_4.rpy:99
@@ -303,7 +303,7 @@ translate vietnamese mina_4_2_50f7cc65:
 # game/characters/mina/ev_4.rpy:108
 translate vietnamese mina_4_2_1fb6f922:
 
-    # mina "Y-You mean like..."
+    # mina "Y-You mean like.."
     mina "Ý anh là..."
 
 # game/characters/mina/ev_4.rpy:109
@@ -315,7 +315,7 @@ translate vietnamese mina_4_2_f15b9f84:
 # game/characters/mina/ev_4.rpy:111
 translate vietnamese mina_4_2_63a5d624:
 
-    # mina "Didn't you and her..."
+    # mina "Didn't you and her.."
     mina "Không phải anh và cô ấy..."
 
 # game/characters/mina/ev_4.rpy:113
@@ -333,7 +333,7 @@ translate vietnamese mina_4_2_40b68d2a:
 # game/characters/mina/ev_4.rpy:116
 translate vietnamese mina_4_2_24f07421:
 
-    # mina "T-This..."
+    # mina "T-This.."
     mina "Đ-Đây..."
 
 # game/characters/mina/ev_4.rpy:117
@@ -351,7 +351,7 @@ translate vietnamese mina_4_2_b0e450c6:
 # game/characters/mina/ev_4.rpy:120
 translate vietnamese mina_4_2_033a1374:
 
-    # mina "Deal, but if you were to hurt my [lex_min] then..."
+    # mina "Deal, but if you were to hurt my [lex_min] then.."
     mina "Thỏa thuận, nhưng nếu anh làm tổn thương [lex_min] của em thì..."
 
 # game/characters/mina/ev_4.rpy:121
@@ -363,7 +363,7 @@ translate vietnamese mina_4_2_5c171f48:
 # game/characters/mina/ev_4.rpy:123
 translate vietnamese mina_4_2_8c67e1f2:
 
-    # mina "Yeah... so how will you do it?"
+    # mina "Yeah.. so how will you do it?"
     mina "Yeah... vậy anh sẽ làm như thế nào?"
 
 # game/characters/mina/ev_4.rpy:124
@@ -376,7 +376,7 @@ translate vietnamese mina_4_2_9400034f:
 translate vietnamese mina_4_2_460d3aa5:
 
     # mina "I'll be waiting."
-    mina "I'll be waiting."
+    mina "Em sẽ đợi."
 
 # game/characters/mina/ev_4.rpy:134
 translate vietnamese mina_4_3_3bd7be6e:
@@ -435,13 +435,13 @@ translate vietnamese mina_4_3_94ce83d8:
 # game/characters/mina/ev_4.rpy:147
 translate vietnamese mina_4_3_5888fa43:
 
-    # "Both girls are excited to play this game, [alice] wants to screw with you, [mina] with [alice] and you... Your pretty sure you'll end up ahead in this situation!"
+    # "Both girls are excited to play this game, [alice] wants to screw with you, [mina] with [alice] and you.. Your pretty sure you'll end up ahead in this situation!"
     "Cả hai cô gái đều hào hứng chơi trò chơi này, [alice] muốn đùa giỡn với bạn, [mina] với [alice] và bạn... Bạn khá chắc chắn rằng bạn sẽ dẫn trước trong tình huống này!"
 
 # game/characters/mina/ev_4.rpy:148
 translate vietnamese mina_4_3_60875a3e:
 
-    # me "Who wants to st..."
+    # me "Who wants to st.."
     me "Ai muốn bắ..."
 
 # game/characters/mina/ev_4.rpy:150
@@ -483,13 +483,13 @@ translate vietnamese mina_4_3_30156fa5:
 # game/characters/mina/ev_4.rpy:164
 translate vietnamese mina_4_3_957c1a69:
 
-    # alice "Hmm... how about you show [me] and me how good of a dancer you are?"
+    # alice "Hmm.. how about you show [me] and me how good of a dancer you are?"
     alice "Hmm... Hãy cho [me] và tớ thấy cậu là một vũ công giỏi như thế nào đi?"
 
 # game/characters/mina/ev_4.rpy:166
 translate vietnamese mina_4_3_2e067519:
 
-    # mina "Oh... okay."
+    # mina "Oh.. okay."
     mina "Oh... okay."
 
 # game/characters/mina/ev_4.rpy:167
@@ -507,7 +507,7 @@ translate vietnamese mina_4_3_14b0f0c6:
 # game/characters/mina/ev_4.rpy:171
 translate vietnamese mina_4_3_778867a6:
 
-    # "Strangely, [alice] seems disappointed too..."
+    # "Strangely, [alice] seems disappointed too.."
     "Thật kỳ lạ, [alice] cũng có vẻ thất vọng..."
 
 # game/characters/mina/ev_4.rpy:172
@@ -519,7 +519,7 @@ translate vietnamese mina_4_3_2ebdcc68:
 # game/characters/mina/ev_4.rpy:173
 translate vietnamese mina_4_3_5907c373:
 
-    # alice "{size=-10}I just thought of a better dare...{/size}"
+    # alice "{size=-10}I just thought of a better dare..{/size}"
     alice "{size=-10}Em chỉ đang nghĩ về một thử thách tốt hơn...{/size}"
 
 # game/characters/mina/ev_4.rpy:174
@@ -645,7 +645,7 @@ translate vietnamese mina_4_3_9d0561f4:
 # game/characters/mina/ev_4.rpy:227
 translate vietnamese mina_4_3_181b35ea:
 
-    # mina "So you're that kind of guy... I learned something new."
+    # mina "So you're that kind of guy.. I learned something new."
     mina "Vậy anh là kiểu người đàn ông đấy... em đã học được một vài điều mới rồi đấy."
 
 # game/characters/mina/ev_4.rpy:229
@@ -669,7 +669,7 @@ translate vietnamese mina_4_3_ae119ffd:
 # game/characters/mina/ev_4.rpy:237
 translate vietnamese mina_4_3_07993396:
 
-    # mina "Yeah, sure..."
+    # mina "Yeah, sure.."
     mina "Ừ, phải rồi..."
 
 # game/characters/mina/ev_4.rpy:238
@@ -711,13 +711,13 @@ translate vietnamese mina_4_3_1fc7cd1b:
 # game/characters/mina/ev_4.rpy:259
 translate vietnamese mina_4_3_c37a42f2:
 
-    # mina "Lips you desire to kiss so much but can't... That's so romantic..."
+    # mina "Lips you desire to kiss so much but can't.. That's so romantic.."
     mina "Đôi môi anh khao khát được hôn lắm nhưng không thể... Thật lãng mạn..."
 
 # game/characters/mina/ev_4.rpy:260
 translate vietnamese mina_4_3_e2192e0e:
 
-    # th "I'm not you..."
+    # th "I'm not you.."
     th "Anh không phải là..."
 
 # game/characters/mina/ev_4.rpy:261
@@ -730,7 +730,7 @@ translate vietnamese mina_4_3_e1a08b47:
 translate vietnamese mina_4_3_8dbd5ac5:
 
     # mina "Pretend to be a motorcycle for a minute!"
-    mina "Giả vờ trở thành một chiếc mô tô trong một phút!"
+    mina "Giả vờ trở thành một cái xe máy trong một phút!"
 
 # game/characters/mina/ev_4.rpy:267
 translate vietnamese mina_4_3_3820771a:
@@ -819,7 +819,7 @@ translate vietnamese mina_4_4_e9b367fd:
 # game/characters/mina/ev_4.rpy:296
 translate vietnamese mina_4_4_e5487280:
 
-    # me "To think that you've never kissed a girl before... [alice] I think we need to change that."
+    # me "To think that you've never kissed a girl before.. [alice] I think we need to change that."
     me "Để nghĩ rằng em chưa từng hôn một cô gái nào trước đây... [alice] anh nghĩ chúng ta cần thay đổi điều đó đấy."
 
 # game/characters/mina/ev_4.rpy:298
@@ -951,13 +951,13 @@ translate vietnamese mina_4_5_cb1fce11:
 # game/characters/mina/ev_4.rpy:346
 translate vietnamese mina_4_5_047f3e8d:
 
-    # th "She's on the verge of tears..."
+    # th "She's on the verge of tears.."
     th "Em ấy sắp khóc rồi..."
 
 # game/characters/mina/ev_4.rpy:348
 translate vietnamese mina_4_5_b902997b:
 
-    # th "Why are you looking at me with those eyes? You should have just dared her to kiss you instead..."
+    # th "Why are you looking at me with those eyes? You should have just dared her to kiss you instead.."
     th "Tại sao em lại nhìn anh với ánh mắt đó chứ? Thay vào đó, em thách Alice hôn mình có phải hơn không..."
 
 # game/characters/mina/ev_4.rpy:350
@@ -1035,7 +1035,7 @@ translate vietnamese mina_4_5_409081df:
 # game/characters/mina/ev_4.rpy:376
 translate vietnamese mina_4_5_174a1adc:
 
-    # th "She... She's really doing it!"
+    # th "She.. She's really doing it!"
     th "Em ấy... em ấy thực sự đang làm kìa!"
 
 # game/characters/mina/ev_4.rpy:378
@@ -1047,7 +1047,7 @@ translate vietnamese mina_4_5_c6353747:
 # game/characters/mina/ev_4.rpy:380
 translate vietnamese mina_4_5_572bade9:
 
-    # mina "M-My turn..."
+    # mina "M-My turn.."
     mina "Đ-Đến lượt em..."
 
 # game/characters/mina/ev_4.rpy:381
@@ -1083,7 +1083,7 @@ translate vietnamese mina_4_5_b3187729:
 # game/characters/mina/ev_4.rpy:396
 translate vietnamese mina_4_5_d420bf34:
 
-    # th "What the... [mina] I'm as straight as the dick in my pants looking at you right now... I probably shouldn't word it that way, though."
+    # th "What the.. [mina] I'm as straight as the dick in my pants looking at you right now.. I probably shouldn't word it that way, though."
     th "Cái gì vậy... [mina] Anh thẳng như cách con cặc trong quần anh đang nhìn vào em đấy... có lẽ mình không nên nói theo cách đó."
 
 # game/characters/mina/ev_4.rpy:397
@@ -1107,7 +1107,7 @@ translate vietnamese mina_4_5_22419436:
 # game/characters/mina/ev_4.rpy:405
 translate vietnamese mina_4_5_596cbd94:
 
-    # alice "That's unexpected..."
+    # alice "That's unexpected.."
     alice "Không ngờ đến luôn đấy..."
 
 # game/characters/mina/ev_4.rpy:410
@@ -1257,7 +1257,7 @@ translate vietnamese mina_4_6_c98ab4bd:
 # game/characters/mina/ev_4.rpy:471
 translate vietnamese mina_4_6_f9352ad9:
 
-    # th "Fuuuck, I wish I could jump in... but [mina] wouldn't be happy."
+    # th "Fuuuck, I wish I could jump in.. but [mina] wouldn't be happy."
     th "Đệtttt, mình ước mình có thể nhảy vào... nhưng [mina] sẽ không vui đâu."
 
 # game/characters/mina/ev_4.rpy:472
@@ -1405,49 +1405,48 @@ translate vietnamese strings:
 translate vietnamese mina_4_4_fef53613:
 
     # alice "Mina, your turn!" id mina_4_4_fef53613
-    alice "Mina, your turn!" id mina_4_4_fef53613
+    alice "Mina, lượt của cậu đấy!" id mina_4_4_fef53613
 
 # game/characters/mina/ev_4.rpy:365
 translate vietnamese mina_4_5_b20b6cfe:
 
     # "Although [mina]'s expression didn't change, you notice that her cheeks burn bright red." id mina_4_5_b20b6cfe
-    "Although [mina]'s expression didn't change, you notice that her cheeks burn bright red." id mina_4_5_b20b6cfe
+    "Mặc dù biểu cảm của [mina] không thay đổi nhưng bạn có thể nhận thấy rằng má cô ấy đỏ bừng lên." id mina_4_5_b20b6cfe
 
 # game/characters/mina/ev_4.rpy:396
 translate vietnamese mina_4_5_a71a0273:
 
     # th "What the... [mina], I'm as straight as the dick in my pants looking at you right now... I probably shouldn't word it that way, though." id mina_4_5_a71a0273
-    th "What the... [mina], I'm as straight as the dick in my pants looking at you right now... I probably shouldn't word it that way, though." id mina_4_5_a71a0273
+    th "Cái gì vậy... [mina] Anh thẳng như cách con cặc trong quần anh đang nhìn vào em đấy... có lẽ mình không nên nói theo cách đó." id mina_4_5_a71a0273
 
 # game/characters/mina/ev_4.rpy:404
 translate vietnamese mina_4_5_019bd554:
 
     # "[mina] seems really happy about this revelation, as if she found some kind of support in you." id mina_4_5_019bd554
-    "[mina] seems really happy about this revelation, as if she found some kind of support in you." id mina_4_5_019bd554
+    "[mina] có vẻ khá hạnh phúc về tiết lộ này, như thể cô ấy thấy một sự hỗ trợ ngầm nào đó từ bạn vậy." id mina_4_5_019bd554
 
 # game/characters/mina/ev_4.rpy:447
 translate vietnamese mina_4_6_83874159:
 
     # th "Hmm, I promised [mina] that I'd help her with [alice], so I can't waste this opportunity." id mina_4_6_83874159
-    th "Hmm, I promised [mina] that I'd help her with [alice], so I can't waste this opportunity." id mina_4_6_83874159
+    th "Hmm, mình đã hứa với [mina] rằng mình sẽ giúp em ấy với [alice], mình không thể lãng phí cơ hội này." id mina_4_6_83874159
 
 # game/characters/mina/ev_4.rpy:448
 translate vietnamese mina_4_6_4f7ec574:
 
     # me "Make out with Mina." id mina_4_6_4f7ec574
-    me "Make out with Mina." id mina_4_6_4f7ec574
+    me "Làm với Mina đi." id mina_4_6_4f7ec574
 
 translate vietnamese strings:
 
     # game/characters/mina/ev_4.rpy:23
     old "She knows about me dating both Alice and Lexi."
-    new "She knows about me dating both Alice and Lexi."
+    new "Cô ấy biết chuyện tôi hẹn hò với Alice và Lexi."
 
     # game/characters/mina/ev_4.rpy:126
     old "To make her accept me double dating Lexi and Alice I promised her I would aid her with Alice."
-    new "To make her accept me double dating Lexi and Alice I promised her I would aid her with Alice."
+    new "Để khiến cô ấy chấp nhận mình hẹn hò đôi với Lexi và Alice, tôi đã hứa với cô ấy rằng tôi sẽ giúp cô ấy với Alice."
 
     # game/characters/mina/ev_4.rpy:288
     old "What would you do if you could do anything?"
-    new "What would you do if you could do anything?"
-
+    new "Em sẽ làm gì nếu em có thể làm mọi thứ mình muốn?"

@@ -39,13 +39,13 @@ translate vietnamese rachel_7_b5c727ea:
 # game/characters/rachel/ev_7.rpy:26
 translate vietnamese rachel_7_c3643422:
 
-    # me "Very..."
+    # me "Very.."
     me "Rất..."
 
 # game/characters/rachel/ev_7.rpy:31
 translate vietnamese rachel_7_0e37e280:
 
-    # rachel "This outfit is so nice..."
+    # rachel "This outfit is so nice.."
     rachel "Bộ đồ này đẹp quá..."
 
 # game/characters/rachel/ev_7.rpy:38
@@ -93,7 +93,7 @@ translate vietnamese rachel_7_926ee9bd:
 # game/characters/rachel/ev_7.rpy:49
 translate vietnamese rachel_7_7efac08c:
 
-    # rachel "Silly... You got your reward already."
+    # rachel "Silly.. You got your reward already."
     rachel "Ngốc à... Anh đã nhận được phần thưởng của mình rồi đấy."
 
 # game/characters/rachel/ev_7.rpy:50
@@ -111,7 +111,7 @@ translate vietnamese rachel_7_7b746825:
 # game/characters/rachel/ev_7.rpy:52
 translate vietnamese rachel_7_08343b4b:
 
-    # me "I did expect a little more..."
+    # me "I did expect a little more.."
     me "Tôi đã mong đợi nhiều hơn một chút..."
 
 # game/characters/rachel/ev_7.rpy:58
@@ -165,7 +165,7 @@ translate vietnamese rachel_7_3614256f:
 # game/characters/rachel/ev_7.rpy:79
 translate vietnamese rachel_7_19c83176:
 
-    # me "Great... I fucked up."
+    # me "Great.. I fucked up."
     me "Tuyệt vời... Tôi làm hỏng hết rồi."
 
 # game/characters/rachel/ev_7.rpy:86
@@ -195,7 +195,7 @@ translate vietnamese rachel_7_b1f13bb8:
 # game/characters/rachel/ev_7.rpy:96
 translate vietnamese rachel_7_effe0fa9:
 
-    # me "Oh, I will. I will..."
+    # me "Oh, I will. I will.."
     me "Oh, Tôi sẽ. Tôi sẽ..."
 
 # game/characters/rachel/ev_7.rpy:101
@@ -250,4 +250,3 @@ translate vietnamese rachel_7_5f75d24c:
 
     # me "I didn't know it was the reward, so I didn't enjoy it enough."
     me "I didn't know it was the reward, so I didn't enjoy it enough."
-

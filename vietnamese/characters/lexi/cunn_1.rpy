@@ -45,7 +45,7 @@ translate vietnamese lexi_cunn_1_slow_4b7a2659:
 # game/characters/lexi/cunn_1.rpy:148
 translate vietnamese lexi_cunn_1_slow_115e95dc:
 
-    # me "You're so sensitive..."
+    # me "You're so sensitive.."
     me "Em rất nhạy cảm đấy..."
 
 # game/characters/lexi/cunn_1.rpy:149
@@ -75,7 +75,7 @@ translate vietnamese lexi_cunn_1_slow_cca3cacd:
 # game/characters/lexi/cunn_1.rpy:158
 translate vietnamese lexi_cunn_1_fast_f2c871c3:
 
-    # lexi "Ahm~ [me]..."
+    # lexi "Ahm~ [me].."
     lexi "Ahm~ [me]..."
 
 # game/characters/lexi/cunn_1.rpy:159
@@ -87,7 +87,7 @@ translate vietnamese lexi_cunn_1_fast_d1976fb2:
 # game/characters/lexi/cunn_1.rpy:160
 translate vietnamese lexi_cunn_1_fast_d2e6f83a:
 
-    # lexi "You're such a mood-spoiler..."
+    # lexi "You're such a mood-spoiler.."
     lexi "Anh đúng là một kẻ làm hỏng tâm trạng..."
 
 # game/characters/lexi/cunn_1.rpy:161
@@ -99,7 +99,7 @@ translate vietnamese lexi_cunn_1_fast_88eab5f5:
 # game/characters/lexi/cunn_1.rpy:162
 translate vietnamese lexi_cunn_1_fast_fc47d93f:
 
-    # lexi "Mmmm..."
+    # lexi "Mmmm.."
     lexi "Mmmm..."
 
 # game/characters/lexi/cunn_1.rpy:163
@@ -117,7 +117,7 @@ translate vietnamese lexi_cunn_1_fast_b7acc796:
 # game/characters/lexi/cunn_1.rpy:165
 translate vietnamese lexi_cunn_1_fast_7bb3621a:
 
-    # me "We will see..."
+    # me "We will see.."
     me "We will see..."
 
 # game/characters/lexi/cunn_1.rpy:171
@@ -135,7 +135,7 @@ translate vietnamese lexi_cunn_1_before_4a287865:
 # game/characters/lexi/cunn_1.rpy:173
 translate vietnamese lexi_cunn_1_before_d69d6ef4:
 
-    # lexi "Yeah, it tickles, but it's so weird, and so good..."
+    # lexi "Yeah, it tickles, but it's so weird, and so good.."
     lexi "Yeah, nó hơi nhột, nhưng nó rất lạ, và rất tốt..."
 
 # game/characters/lexi/cunn_1.rpy:174
@@ -147,8 +147,8 @@ translate vietnamese lexi_cunn_1_before_d2543986:
 # game/characters/lexi/cunn_1.rpy:175
 translate vietnamese lexi_cunn_1_before_d9f067c8:
 
-    # lexi "Mmm~ I-I..."
-    lexi "Mmm~ I-I..."
+    # lexi "Mmm~ I-I.."
+    lexi "Mmm~ E-Em..."
 
 # game/characters/lexi/cunn_1.rpy:176
 translate vietnamese lexi_cunn_1_before_fb4743e9:
@@ -177,7 +177,7 @@ translate vietnamese lexi_cunn_1_cum_b663d0c8:
 # game/characters/lexi/cunn_1.rpy:196
 translate vietnamese lexi_cunn_1_cum_361a3f36:
 
-    # lexi "Ahh... I'm so tired now..."
+    # lexi "Ahh.. I'm so tired now.."
     lexi "Ahh... bây giờ em mệt quá..."
 
 # game/characters/lexi/cunn_1.rpy:201
@@ -201,7 +201,7 @@ translate vietnamese lexi_cunn_1_cum_1864af2e:
 # game/characters/lexi/cunn_1.rpy:212
 translate vietnamese lexi_cunn_1_cum_4f47fbba:
 
-    # lexi "Maybe a little bit..."
+    # lexi "Maybe a little bit.."
     lexi "Có lẽ một chút..."
 
 # game/characters/lexi/cunn_1.rpy:213
@@ -243,7 +243,7 @@ translate vietnamese lexi_cunn_1_story_2930e26f:
 # game/characters/lexi/cunn_1.rpy:236
 translate vietnamese lexi_cunn_1_story_7c93836f:
 
-    # lexi "I think..."
+    # lexi "I think.."
     lexi "Anh nghĩ..."
 
 # game/characters/lexi/cunn_1.rpy:237
@@ -261,7 +261,7 @@ translate vietnamese lexi_cunn_1_story_7c55a57f:
 # game/characters/lexi/cunn_1.rpy:242
 translate vietnamese lexi_cunn_1_story_22645d66:
 
-    # me "Thank God..."
+    # me "Thank God.."
     me "Cảm ơn chúa..."
 
 # game/characters/lexi/cunn_1.rpy:243
@@ -313,17 +313,16 @@ translate vietnamese lexi_cunn_1_slow_293e9080:
 translate vietnamese lexi_cunn_1_fast_96c941f6:
 
     # me "That's it, baby, scream my name."
-    me "That's it, baby, scream my name."
+    me "Đúng rồi baby hét to vào."
 
 # game/characters/lexi/cunn_1.rpy:173
 translate vietnamese lexi_cunn_1_before_2ffc2c6c:
 
     # lexi "Yeah, it tickles, but it's so weird and so good..."
-    lexi "Yeah, it tickles, but it's so weird and so good..."
+    lexi "Yeah, nó hơi nhột, nhưng nó rất lạ và rất tốt..."
 
 # game/characters/lexi/cunn_1.rpy:244
 translate vietnamese lexi_cunn_1_story_90504657:
 
     # lexi "Can we do it... again sometime?"
-    lexi "Can we do it... again sometime?"
-
+    lexi "Chúng ta có thể làm... lần nữa vào lúc khác không?"

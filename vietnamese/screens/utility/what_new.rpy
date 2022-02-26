@@ -215,11 +215,11 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:68
     old "{a=https://astral-lust-documentation.readthedocs.io/en/latest/changelogs/full.html#changelog-full}{color=#2839fc}{i}Read full changelog{/i}{/color}{/a}"
-    new "{a=https://astral-lust-documentation.readthedocs.io/en/latest/changelogs/full.html#changelog-full}{color=#2839fc}{i}Read full changelog{/i}{/color}{/a}"
+    new "{a=https://astral-lust-documentation.readthedocs.io/en/latest/changelogs/full.html#changelog-full}{color=#2839fc}{i}Đọc bản cập nhật đầy đủ{/i}{/color}{/a}"
 
     # game/screens/utility/what_new.rpy:69
     old "You can see more news, previews, and content on the {a=https://www.patreon.com/Victorius}{color=#2839fc}{i}Patreon{/i}{/color}{/a} and {a=https://discord.gg/rvnBC39USx}{color=#2839fc}{i}Discord{/i}{/color}{/a}."
-    new "You can see more news, previews, and content on the {a=https://www.patreon.com/Victorius}{color=#2839fc}{i}Patreon{/i}{/color}{/a} and {a=https://discord.gg/rvnBC39USx}{color=#2839fc}{i}Discord{/i}{/color}{/a}."
+    new "Bạn có thể xem thêm tin tức, bản xem trước và nội dung trên {a=https://www.patreon.com/Victorius}{color=#2839fc}{i}Patreon{/i}{/color}{/a} và {a=https://discord.gg/rvnBC39USx}{color=#2839fc}{i}Discord{/i}{/color}{/a}."
 
     # game/screens/utility/what_new.rpy:171
     old "{b}Rhainda{/b}"
@@ -227,7 +227,7 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:172
     old "A new Kitsune arrived in Asthar, and she's extra hot! She loves sex, and also loves girls. She has (toggleable) lesbian content with [lil_fox] available. Moreover she's designed after a real person, join our {a=https://discord.gg/rvnBC39USx}Discord{/a} server, and chat with her! Let's just hope your admiration won't get into her head :P"
-    new "A new Kitsune arrived in Asthar, and she's extra hot! She loves sex, and also loves girls. She has (toggleable) lesbian content with [lil_fox] available. Moreover she's designed after a real person, join our {a=https://discord.gg/rvnBC39USx}Discord{/a} server, and chat with her! Let's just hope your admiration won't get into her head :P"
+    new "Một mới mới vừa đặt chân đến Asthar, và cô ấy cực kỳ nóng bỏng nữa! Cô ấy yêu tình dục, và cũng thích con gái. Cô ấy có sẵn nội dung đồng tính nữ (có thể bật và tắt) với [lil_fox]. Hơn nữa, cô ấy được thiết kế dựa trên người thật, hãy tham gia máy chủ {a=https://discord.gg/rvnBC39USx} Discord {/a} của chúng tôi và trò chuyện với cô ấy! Hãy mong là sự ngưỡng mộ của bạn sẽ không lọt vào đầu cô ấy :P"
 
     # game/screens/utility/what_new.rpy:183
     old "{b}Kiara event{/b}"
@@ -284,4 +284,3 @@ translate vietnamese strings:
     # game/screens/utility/what_new.rpy:252
     old "Of the many changes, the most noticeable ones would be choice menus that are now on the right part of the screen (can be changed in settings), and task menu can now be disabled with 'T' key or in the settings. There was also a new arena added, and leech attacks have now new intent icon. This release fixes a lot of bugs, and hundreds of typos and grammar issues."
     new "Of the many changes, the most noticeable ones would be choice menus that are now on the right part of the screen (can be changed in settings), and task menu can now be disabled with 'T' key or in the settings. There was also a new arena added, and leech attacks have now new intent icon. This release fixes a lot of bugs, and hundreds of typos and grammar issues."
-

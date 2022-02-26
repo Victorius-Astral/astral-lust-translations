@@ -33,7 +33,7 @@ translate vietnamese rhainda_2_933b82fd:
 # game/characters/rhainda/ev_2.rpy:24
 translate vietnamese rhainda_2_d884cc52:
 
-    # rhainda "Well, I didn't say I didn't like it..."
+    # rhainda "Well, I didn't say I didn't like it.."
     rhainda "Em có nói là em khum thích vậy đâu..."
 
 # game/characters/rhainda/ev_2.rpy:25
@@ -45,7 +45,7 @@ translate vietnamese rhainda_2_3820771a:
 # game/characters/rhainda/ev_2.rpy:26
 translate vietnamese rhainda_2_8eda3dd3:
 
-    # me "Oh..."
+    # me "Oh.."
     me "Ồ..."
 
 # game/characters/rhainda/ev_2.rpy:30
@@ -105,7 +105,7 @@ translate vietnamese rhainda_2_4a45c364:
 # game/characters/rhainda/ev_2.rpy:48
 translate vietnamese rhainda_2_57cf82c3:
 
-    # rhainda "Hmmm..."
+    # rhainda "Hmmm.."
     rhainda "Hmmm..."
 
 # game/characters/rhainda/ev_2.rpy:52
@@ -153,7 +153,7 @@ translate vietnamese rhainda_2_6b513ad4:
 # game/characters/rhainda/ev_2.rpy:62
 translate vietnamese rhainda_2_976712b3:
 
-    # me "Hmm... I don't know, maybe it's the amount of people, or some set rule. This place is so weird I wouldn't be surprised by anything."
+    # me "Hmm.. I don't know, maybe it's the amount of people, or some set rule. This place is so weird I wouldn't be surprised by anything."
     me "Hmm... anh không biết, có thể đó là số lượng người, hoặc một số quy luật nào đó. Nơi đây rất kỳ lạ, anh sẽ không bị ngạc nhiên nếu biết thêm điều gì kỳ lạ đâu."
 
 # game/characters/rhainda/ev_2.rpy:66
@@ -165,7 +165,7 @@ translate vietnamese rhainda_2_e2c3788d:
 # game/characters/rhainda/ev_2.rpy:70
 translate vietnamese rhainda_2_59d38dd3:
 
-    # rhainda "Talking about places and all..."
+    # rhainda "Talking about places and all.."
     rhainda "Mà nhân tiện nói về địa điểm thì..."
 
 # game/characters/rhainda/ev_2.rpy:71
@@ -207,7 +207,7 @@ translate vietnamese rhainda_2_09c0f26e:
 # game/characters/rhainda/ev_2.rpy:80
 translate vietnamese rhainda_2_3f648227:
 
-    # me "I know one place... It doesn't have much left, only a few toys were left last time I was there."
+    # me "I know one place.. It doesn't have much left, only a few toys were left last time I was there."
     me "Anh biết một chỗ... Nó không còn nhiều đâu, chỉ còn lại vài món đồ chơi vào lần cuối anh ở đó thôi."
 
 # game/characters/rhainda/ev_2.rpy:81
@@ -231,7 +231,7 @@ translate vietnamese rhainda_2_1b84a010:
 # game/characters/rhainda/ev_2.rpy:84
 translate vietnamese rhainda_2_7fb52246:
 
-    # me "Ahh... Fine."
+    # me "Ahh.. Fine."
     me "Ahh... Được thôi."
 
 # game/characters/rhainda/ev_2.rpy:88
@@ -321,7 +321,7 @@ translate vietnamese rhainda_2_40230d17:
 # game/characters/rhainda/ev_2.rpy:123
 translate vietnamese rhainda_2_0e5448ae:
 
-    # rhainda "Actually, talking about nice chicks... Do you bang this red hair?"
+    # rhainda "Actually, talking about nice chicks.. Do you bang this red hair?"
     rhainda "Mà nhân tiện nói về gái thì... anh có chịch cô bé tóc cam kia không vậy?"
 
 # game/characters/rhainda/ev_2.rpy:124
@@ -483,7 +483,7 @@ translate vietnamese rhainda_2_b8155f9a:
 # game/characters/rhainda/ev_2.rpy:181
 translate vietnamese rhainda_2_d5b698a8:
 
-    # me "I will give it a thought..."
+    # me "I will give it a thought.."
     me "Anh sẽ nghĩ thêm..."
 
 # game/characters/rhainda/ev_2.rpy:187
@@ -519,7 +519,7 @@ translate vietnamese rhainda_2_part2_b689e998:
 # game/characters/rhainda/ev_2.rpy:198
 translate vietnamese rhainda_2_part2_8953ae93:
 
-    # rhainda "And..."
+    # rhainda "And.."
     rhainda "Và..."
 
 # game/characters/rhainda/ev_2.rpy:199

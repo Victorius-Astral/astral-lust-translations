@@ -289,9 +289,9 @@ translate vietnamese strings:
     new "Hãy giao dịch nào"
 
     # game/characters/traders/mysterious/speak.rpy:47
-    old "Listen here, you little shit..."
-    new "Nghe này thằng đầu buồi rẻ ráck..."
-
+    old "Listen here, you little shit.."
+    new "Nghe này thằng đầu bu..."
+s
     # game/characters/traders/mysterious/speak.rpy:97
     old "Trade"
     new "Giao dịch"
@@ -309,11 +309,11 @@ translate vietnamese strings:
 
     # game/characters/traders/mysterious/speak.rpy:13
     old "Mysterious Trader"
-    new "Mysterious Trader"
+    new "Thương nhân bí ẩn"
 
     # game/characters/traders/mysterious/speak.rpy:13
     old "I have met a very weird, odd being, It claims to be a trader."
-    new "I have met a very weird, odd being, It claims to be a trader."
+    new "Tôi đã gặp một sinh vật rất kỳ quặc, Nó tự xưng là một thương nhân."
 
 # TODO: Translation updated at 2022-02-19 01:56
 
@@ -321,5 +321,4 @@ translate vietnamese strings:
 
     # game/characters/traders/mysterious/speak.rpy:47
     old "Listen here, you little shit.."
-    new "Listen here, you little shit.."
-
+    new "Nghe này thằng đầu bu..."

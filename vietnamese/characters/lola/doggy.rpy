@@ -9,7 +9,7 @@ translate vietnamese lola_doggy_bc7f21d0:
 # game/characters/lola/doggy.rpy:13
 translate vietnamese lola_doggy_3820771a:
 
-    # me "..."
+    # me ".."
     me "..."
 
 # game/characters/lola/doggy.rpy:16
@@ -33,7 +33,7 @@ translate vietnamese lola_doggy_51cd3edc:
 # game/characters/lola/doggy.rpy:23
 translate vietnamese lola_doggy_f561bbee:
 
-    # me "Can't deny..."
+    # me "Can't deny.."
     me "Không thể phủ nhận..."
 
 # game/characters/lola/doggy.rpy:26
@@ -63,7 +63,7 @@ translate vietnamese lola_doggy_4d83a86e:
 # game/characters/lola/doggy.rpy:37
 translate vietnamese lola_doggy_7457938f:
 
-    # th "Shit, she is soaking wet..."
+    # th "Shit, she is soaking wet.."
     th "Đù, cô ấy ướt đẫm rồi..."
 
 # game/characters/lola/doggy.rpy:38
@@ -153,7 +153,7 @@ translate vietnamese lola_doggy_f266a8d6:
 # game/characters/lola/doggy.rpy:74
 translate vietnamese lola_doggy_2a85d52b:
 
-    # th "I will die..."
+    # th "I will die.."
     th "Mình chết con mẹ nó mất..."
 
 # game/characters/lola/doggy.rpy:82
@@ -189,7 +189,7 @@ translate vietnamese lola_doggy_2421bf32:
 # game/characters/lola/doggy.rpy:91
 translate vietnamese lola_doggy_b2cd1c61:
 
-    # lola "Ah... Nice."
+    # lola "Ah.. Nice."
     lola "Ah... Nice."
 
 # game/characters/lola/doggy.rpy:92
@@ -213,7 +213,7 @@ translate vietnamese lola_doggy_bdcaf2ec:
 # game/characters/lola/doggy.rpy:107
 translate vietnamese lola_doggy_227b0c03:
 
-    # me "Huh, I was treated like... a sex toy?"
+    # me "Huh, I was treated like.. a sex toy?"
     me "Huh, mình đã bị đối xử như ... một cái sex toy?"
 
 # game/characters/lola/doggy.rpy:108

@@ -39,7 +39,7 @@ translate vietnamese kiara_2_92d5f8c6:
 # game/characters/kiara/ev_2.rpy:13
 translate vietnamese kiara_2_2d9d1337:
 
-    # th "I'm going to let her kill me? For a reward? Isn't it trading human life? I would resurrect, though..."
+    # th "I'm going to let her kill me? For a reward? Isn't it trading human life? I would resurrect, though.."
     th "Mình sẽ để cô ấy giết mình? Để được thưởng? Đó không phải là đánh đổi mạng sống con người sao? Mặc dù mình sẽ sống lại..."
 
 # game/characters/kiara/ev_2.rpy:23
@@ -189,14 +189,14 @@ translate vietnamese kiara_2_4_fc6af92a:
 # game/characters/kiara/ev_2.rpy:100
 translate vietnamese kiara_2_4_3a1766c2:
 
-    # th "I wonder, how is she... Abner Doubleday invented the game known as baseball in Cooperstown, New York, during the summer of 1839."
+    # th "I wonder, how is she.. Abner Doubleday invented the game known as baseball in Cooperstown, New York, during the summer of 1839."
     th "Mình tự hỏi, cô ấy thế nào ... Abner Doubleday đã phát minh ra game được gọi là bóng chày ở thành phố Coopers, New York, vào mùa hè năm 1839."
 
 # game/characters/kiara/ev_2.rpy:101
 translate vietnamese kiara_2_4_e7631c58:
 
     # th "While General Electric built the first electric toaster for the home in 1909, it was 10 years later when Minnesota mechanic Charles Strite created an easy-to-use toaster designed for restaurants."
-    th "Trong khi General Electric chế tạo chiếc máy nướng bánh mì điện đầu tiên cho gia đình vào năm 1909, thì phải 10 năm sau, người thợ cơ khí Charles Strite ở Minnesota mới tạo ra một chiếc máy nướng bánh mì dễ sử dụng được thiết kế cho các nhà hàng..."
+    th "Trong khi General Electric chế tạo chiếc máy nướng bánh mì điện đầu tiên cho gia đình vào năm 1909, thì phải 10 năm sau, người thợ cơ khí Charles Strite ở Minnesota mới tạo ra một chiếc máy nướng bánh mì dễ sử dụng được thiết kế cho các nhà hàng."
 
 # game/characters/kiara/ev_2.rpy:102
 translate vietnamese kiara_2_4_1512df73:
@@ -255,7 +255,7 @@ translate vietnamese kiara_2_5_a66aeb6f:
 # game/characters/kiara/ev_2.rpy:129
 translate vietnamese kiara_2_5_adf915d5:
 
-    # kiara "Yes, I tried to shift the place you resurrect to be here, in my demesne... My interference didn't even cause a ripple in the process."
+    # kiara "Yes, I tried to shift the place you resurrect to be here, in my demesne.. My interference didn't even cause a ripple in the process."
     kiara "Có, tôi đã cố gắng chuyển nơi mà anh hồi sinh là ở đây, trong lãnh địa của tôi... Sự can thiệp của tôi thậm chí không gây ra chút thay đổi gì trong quá trình này."
 
 # game/characters/kiara/ev_2.rpy:130
@@ -273,7 +273,7 @@ translate vietnamese kiara_2_5_91dcd6f3:
 # game/characters/kiara/ev_2.rpy:133
 translate vietnamese kiara_2_5_e8619711:
 
-    # me "So... powerful?"
+    # me "So.. powerful?"
     me "Thạt... quyền năng?"
 
 # game/characters/kiara/ev_2.rpy:135

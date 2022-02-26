@@ -27,7 +27,7 @@ translate vietnamese lil_fox_4_a7337bf5:
 # game/characters/little fox/ev_4.rpy:31
 translate vietnamese lil_fox_4_bf8d3b6b:
 
-    # me "Huh... Could you take me there? I want to check it out."
+    # me "Huh.. Could you take me there? I want to check it out."
     me "Huh... Em có thể đưa anh đến đó không? Anh muốn kiểm tra nó."
 
 # game/characters/little fox/ev_4.rpy:35
@@ -111,7 +111,7 @@ translate vietnamese lil_fox_4_3820771a:
 # game/characters/little fox/ev_4.rpy:75
 translate vietnamese lil_fox_4_9429d5aa:
 
-    # lil_fox "It's so boring here..."
+    # lil_fox "It's so boring here.."
     lil_fox "Ở đây chán quá..."
 
 # game/characters/little fox/ev_4.rpy:76
@@ -135,7 +135,7 @@ translate vietnamese lil_fox_4_f148b115:
 # game/characters/little fox/ev_4.rpy:87
 translate vietnamese lil_fox_4_ff00a189:
 
-    # lil_fox "That's mean... I know the way to this place, so what does that make you?"
+    # lil_fox "That's mean.. I know the way to this place, so what does that make you?"
     lil_fox "Điều đó có nghĩa là... Em biết đường đến nơi này, vì vậy điều đó làm cho anh thành?"
 
 # game/characters/little fox/ev_4.rpy:88
@@ -165,7 +165,7 @@ translate vietnamese lil_fox_4_68987698:
 # game/characters/little fox/ev_4.rpy:98
 translate vietnamese lil_fox_4_86ad91ea:
 
-    # me "... Yes, I can indeed get that many stones with this."
+    # me ".. Yes, I can indeed get that many stones with this."
     me "... Đúng, anh thực sự có thể nhận được nhiều đá với cái này."
 
 # game/characters/little fox/ev_4.rpy:99
@@ -203,16 +203,16 @@ translate vietnamese lil_fox_4_512cb467:
 translate vietnamese lil_fox_4_80af8264:
 
     # lil_fox "Yup~ There're plenty of places like that, you know?"
-    lil_fox "Yup~ There're plenty of places like that, you know?"
+    lil_fox "Yup~ Yup ~ Có rất nhiều nơi như này đấy anh biết không?"
 
 # game/characters/little fox/ev_4.rpy:58
 translate vietnamese lil_fox_4_2a2bbe81:
 
     # "But by the end, she seems to doubt as to where take you, finally settling for one building."
-    "But by the end, she seems to doubt as to where take you, finally settling for one building."
+    "Nhưng đến cuối cùng, cô ấy dường như không biết phải bạn sẽ đưa bạn đến đâu, và cuối cùng thì cũng đặt chân đến một tòa nhà."
 
 # game/characters/little fox/ev_4.rpy:93
 translate vietnamese lil_fox_4_ecad83da:
 
     # me "It means, I can use this to get more things later."
-    me "It means, I can use this to get more things later."
+    me "Nó có nghĩa là anh có thể sử dụng cái này để làm được nhiều thứ hơn sau này."

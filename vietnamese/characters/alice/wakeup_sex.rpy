@@ -9,7 +9,7 @@ translate vietnamese alice_wakeup_sex_7459a238:
 # game/characters/alice/wakeup_sex.rpy:12
 translate vietnamese alice_wakeup_sex_cf2026c6:
 
-    # th "[alice]? This feeling..."
+    # th "[alice]? This feeling.."
     th "[alice]? Cảm giác này..."
 
 # game/characters/alice/wakeup_sex.rpy:19
@@ -165,7 +165,7 @@ translate vietnamese alice_wakeup_sex_3b94b0d1:
 # game/characters/alice/wakeup_sex.rpy:82
 translate vietnamese alice_wakeup_sex_7ec019f4:
 
-    # th "Time to get up, it's afternoon already..."
+    # th "Time to get up, it's afternoon already.."
     th "Đến lúc dậy thôi, chiều rồi..."
 
 # game/characters/alice/wakeup_sex.rpy:88
@@ -189,7 +189,7 @@ translate vietnamese alice_wakeup_sex_dfcddf81:
 # game/characters/alice/wakeup_sex.rpy:96
 translate vietnamese alice_wakeup_sex_a2ade314:
 
-    # alice "No fun..."
+    # alice "No fun.."
     alice "Không vui..."
 
 # game/characters/alice/wakeup_sex.rpy:97
@@ -237,11 +237,11 @@ translate vietnamese alice_wakeup_sex_b49b2821:
 # game/characters/alice/wakeup_sex.rpy:110
 translate vietnamese alice_wakeup_sex_3cdf7951:
 
-    # th "This lass..."
+    # th "This lass.."
     th "Cô gái này..."
 
 # game/characters/alice/wakeup_sex.rpy:111
 translate vietnamese alice_wakeup_sex_7ec019f4_1:
 
-    # th "Time to get up, it's afternoon already..."
+    # th "Time to get up, it's afternoon already.."
     th "Đến lúc dậy thôi, chiều rồi..."

@@ -4,7 +4,7 @@
 translate vietnamese mina_7_2730b35a:
 
     # "As you enter you notice [mina] and [alice] spending time together."
-    "As you enter you notice [mina] and [alice] spending time together."
+    "Khi bước vào bạn nhìn thấy [mina] và [alice] đang dnahf thời gian với nhau."
 
 # game/characters/mina/ev_7.rpy:4
 translate vietnamese mina_7_b834f34b:
@@ -129,8 +129,8 @@ translate vietnamese mina_7_1_fd046e7f:
 # game/characters/mina/ev_7.rpy:51
 translate vietnamese mina_7_1_cf3c79fb:
 
-    # mina "Mmm... Yes, pancakes with strawberry jam."
-    mina "Mmm..., bánh kếp và mứt dâu."
+    # mina "Mmm.. Yes, pancakes with strawberry jam."
+    mina "Mmm... bánh kếp và mứt dâu."
 
 # game/characters/mina/ev_7.rpy:52
 translate vietnamese mina_7_1_a08aaebe:
@@ -381,13 +381,13 @@ translate vietnamese mina_7_3_8695a5b6:
 # game/characters/mina/ev_7.rpy:145
 translate vietnamese mina_7_3_73b84250:
 
-    # me "What's so funny..."
+    # me "What's so funny.."
     me "Có gì mà buồn cười vậy..."
 
 # game/characters/mina/ev_7.rpy:148
 translate vietnamese mina_7_3_f26c1011:
 
-    # mina "{quiet}You wish...{/quiet}" id mina_7_3_f26c1011
+    # mina "{quiet}You wish..{/quiet}" id mina_7_3_f26c1011
     mina "{quiet}Mơ đi...{/quiet}" id mina_7_3_f26c1011
 
 # game/characters/mina/ev_7.rpy:149
@@ -472,4 +472,3 @@ translate vietnamese strings:
     # game/characters/mina/ev_7.rpy:34
     old "Sandwich"
     new "Sandwich"
-

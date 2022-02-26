@@ -27,7 +27,7 @@ translate vietnamese speak_lola_menu1_937dbbb4:
 # game/characters/lola/speak.rpy:27
 translate vietnamese speak_lola_menu1_10326968:
 
-    # lola "If we need to..."
+    # lola "If we need to.."
     lola "Nếu chúng ta cần..."
 
 # game/characters/lola/speak.rpy:30
@@ -63,7 +63,7 @@ translate vietnamese speak_lola_menu1_f9db6597:
 # game/characters/lola/speak.rpy:42
 translate vietnamese speak_lola_menu1_f99a7d0b:
 
-    # th "If only it was that simple..."
+    # th "If only it was that simple.."
     th "If only it was that simple..."
 
 # game/characters/lola/speak.rpy:45
@@ -81,7 +81,7 @@ translate vietnamese speak_lola_menu1_b847dfb7:
 # game/characters/lola/speak.rpy:49
 translate vietnamese speak_lola_menu1_1fe3a4e6:
 
-    # lola "Ahh..."
+    # lola "Ahh.."
     lola "Ahh..."
 
 # game/characters/lola/speak.rpy:52
@@ -127,5 +127,4 @@ translate vietnamese strings:
 translate vietnamese speak_lola_menu1_b358e020:
 
     # lola "You're lost in your thoughts again."
-    lola "You're lost in your thoughts again."
-
+    lola "Anh lại chìm trong những suy nghĩ lần nữa rồi."

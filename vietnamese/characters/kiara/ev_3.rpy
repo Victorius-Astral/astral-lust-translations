@@ -27,7 +27,7 @@ translate vietnamese kiara_3_e0195da7:
 # game/characters/kiara/ev_3.rpy:15
 translate vietnamese kiara_3_c8dafd6d:
 
-    # kiara "Ah..."
+    # kiara "Ah.."
     kiara "Ah..."
 
 # game/characters/kiara/ev_3.rpy:18
@@ -69,7 +69,7 @@ translate vietnamese kiara_3_04bc277c:
 # game/characters/kiara/ev_3.rpy:27
 translate vietnamese kiara_3_a07dbe9c:
 
-    # me "What the..."
+    # me "What the.."
     me "What the..."
 
 # game/characters/kiara/ev_3.rpy:30
@@ -117,7 +117,7 @@ translate vietnamese kiara_3_ab312042:
 # game/characters/kiara/ev_3.rpy:39
 translate vietnamese kiara_3_1c0bbafa:
 
-    # me "Huh... Interesting."
+    # me "Huh.. Interesting."
     me "Huh... Thú vị."
 
 # game/characters/kiara/ev_3.rpy:42
@@ -135,13 +135,13 @@ translate vietnamese kiara_3_b847dfb7_1:
 # game/characters/kiara/ev_3.rpy:46
 translate vietnamese kiara_3_f44e4a76:
 
-    # kiara "Ahh... You could always use your mouth for something more meaningful."
+    # kiara "Ahh.. You could always use your mouth for something more meaningful."
     kiara "Ahh... anh luôn có thể dùng miệng để làm điều gì đó có ý nghĩa hơn đấy."
 
 # game/characters/kiara/ev_3.rpy:47
 translate vietnamese kiara_3_08be14ac:
 
-    # me "I like where..."
+    # me "I like where.."
     me "Tôi thích ch..."
 
 # game/characters/kiara/ev_3.rpy:51
@@ -189,7 +189,7 @@ translate vietnamese kiara_3_95c68de2:
 # game/characters/kiara/ev_3.rpy:60
 translate vietnamese kiara_3_6b395e72:
 
-    # th "Like me...? I guess..."
+    # th "Like me..? I guess.."
     th "Giống mình...? Mình đoán..."
 
 # game/characters/kiara/ev_3.rpy:61
@@ -225,7 +225,7 @@ translate vietnamese kiara_3_6b06c255:
 # game/characters/kiara/ev_3.rpy:70
 translate vietnamese kiara_3_35845c0c:
 
-    # kiara "So, about the price..."
+    # kiara "So, about the price.."
     kiara "Vì vậy, về giá cả..."
 
 # game/characters/kiara/ev_3.rpy:71

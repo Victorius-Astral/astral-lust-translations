@@ -33,7 +33,7 @@ translate vietnamese alice_13_fdb67b12:
 # game/characters/alice/ev_13.rpy:13
 translate vietnamese alice_13_0afbcd02:
 
-    # alice "Ah..."
+    # alice "Ah.."
     alice "Ah..."
 
 # game/characters/alice/ev_13.rpy:16
@@ -141,13 +141,13 @@ translate vietnamese alice_13_ecd768ba:
 # game/characters/alice/ev_13.rpy:50
 translate vietnamese alice_13_2899d2c5:
 
-    # alice "It's annoying..."
+    # alice "It's annoying.."
     alice "Phiền thật đấy..."
 
 # game/characters/alice/ev_13.rpy:51
 translate vietnamese alice_13_d69344a8:
 
-    # alice "Why would I even love you? I know nothing about you, you might have had a wife and a kids before, I don't even know how old you are..."
+    # alice "Why would I even love you? I know nothing about you, you might have had a wife and a kids before, I don't even know how old you are.."
     alice "Tại sao em lại yêu anh chứ? em không biết tí gì về anh, anh có thể đã có vợ và một đứa con trước đó rồi, em thậm chí không biết anh bao nhiêu tuổi nữa..."
 
 # game/characters/alice/ev_13.rpy:52
@@ -171,7 +171,7 @@ translate vietnamese alice_13_61660bd0_1:
 # game/characters/alice/ev_13.rpy:57
 translate vietnamese alice_13_df262f2d:
 
-    # alice "I'm totally unlike myself with you..."
+    # alice "I'm totally unlike myself with you.."
     alice "Em hoàn toàn không giống bản thân mình khi ở với anh..."
 
 # game/characters/alice/ev_13.rpy:58
@@ -183,7 +183,7 @@ translate vietnamese alice_13_38c24143:
 # game/characters/alice/ev_13.rpy:59
 translate vietnamese alice_13_685b5f2f:
 
-    # alice "Maybe..."
+    # alice "Maybe.."
     alice "Có thể..."
 
 # game/characters/alice/ev_13.rpy:62

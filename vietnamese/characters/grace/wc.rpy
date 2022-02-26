@@ -9,7 +9,7 @@ translate vietnamese wc_grace_ec263df9:
 # game/characters/grace/wc.rpy:7
 translate vietnamese wc_grace_e39eb760:
 
-    # th "Should I stay? She'll notice me in no time..."
+    # th "Should I stay? She'll notice me in no time.."
     th "Mình có nên ở lại không? Em ấy sẽ chú ý đến mình mất..."
 
 # game/characters/grace/wc.rpy:11
@@ -27,7 +27,7 @@ translate vietnamese wc_grace_355b1338:
 # game/characters/grace/wc.rpy:13
 translate vietnamese wc_grace_d6adba8f:
 
-    # th "What now? I'm not sure I thought this over..."
+    # th "What now? I'm not sure I thought this over.."
     th "Gì nữa? Mình không chắc mình đã nghĩ kỹ về điều này..."
 
 # game/characters/grace/wc.rpy:26
@@ -45,7 +45,7 @@ translate vietnamese wc_grace_dislike_1c29c52e:
 # game/characters/grace/wc.rpy:28
 translate vietnamese wc_grace_dislike_f9616106:
 
-    # grace "Umm..."
+    # grace "Umm.."
     grace "Umm..."
 
 # game/characters/grace/wc.rpy:29
@@ -69,7 +69,7 @@ translate vietnamese wc_grace_hate_b6b7b3db:
 # game/characters/grace/wc.rpy:38
 translate vietnamese wc_grace_hate_e25a941d:
 
-    # me "I didn't mea..."
+    # me "I didn't mea.."
     me "Anh không cố..."
 
 # game/characters/grace/wc.rpy:39
@@ -87,13 +87,13 @@ translate vietnamese wc_grace_hate_c8063796:
 # game/characters/grace/wc.rpy:42
 translate vietnamese wc_grace_hate_78fc3991:
 
-    # grace "Men... Mommy was right."
+    # grace "Men.. Mommy was right."
     grace "Đàn ông... mẹ đã đúng."
 
 # game/characters/grace/wc.rpy:43
 translate vietnamese wc_grace_hate_3820771a:
 
-    # me "..."
+    # me ".."
     me "..."
 
 # game/characters/grace/wc.rpy:44

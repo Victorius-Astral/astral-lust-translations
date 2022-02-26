@@ -3,13 +3,13 @@
 # game/characters/rhainda/ev_1.rpy:42
 translate vietnamese rhainda_1_cc5c7691:
 
-    # me "Hmm..."
+    # me "Hmm.."
     me "Hmm..."
 
 # game/characters/rhainda/ev_1.rpy:46
 translate vietnamese rhainda_1_dfeb01b1:
 
-    # me "I won't be able to go through this rubble..."
+    # me "I won't be able to go through this rubble.."
     me "Mình sẽ không thể đi qua đống này được rồi..."
 
 # game/characters/rhainda/ev_1.rpy:50
@@ -87,7 +87,7 @@ translate vietnamese rhainda_1_fbf9e5ee:
 # game/characters/rhainda/ev_1.rpy:83
 translate vietnamese rhainda_1_bddb3d63:
 
-    # th "Fuck, why is she so fierce? She doesn't seem corrupted..."
+    # th "Fuck, why is she so fierce? She doesn't seem corrupted.."
     th "Tại sao cô ta lại hung dữ như vậy chứ? Cô ta không giống bị sa đọa chút nào hết..."
 
 # game/characters/rhainda/ev_1.rpy:84
@@ -99,13 +99,13 @@ translate vietnamese rhainda_1_3820771a_1:
 # game/characters/rhainda/ev_1.rpy:96
 translate vietnamese rhainda_1_lose_7ccc07a5:
 
-    # me "Fuck..."
+    # me "Fuck.."
     me "Bà già nhà nó nữa..."
 
 # game/characters/rhainda/ev_1.rpy:97
 translate vietnamese rhainda_1_lose_ee4ef1b8:
 
-    # rhainda "Haha, now it's time to eat you up..."
+    # rhainda "Haha, now it's time to eat you up.."
     rhainda "Haha, giờ thì đến lúc để ăn rồi..."
 
 # game/characters/rhainda/ev_1.rpy:101
@@ -129,13 +129,13 @@ translate vietnamese rhainda_1_lose_3820771a:
 # game/characters/rhainda/ev_1.rpy:104
 translate vietnamese rhainda_1_lose_7d6b8da8:
 
-    # me "Just take what you're here for..."
+    # me "Just take what you're here for.."
     me "Hãy làm những gì cô muốn đi..."
 
 # game/characters/rhainda/ev_1.rpy:108
 translate vietnamese rhainda_1_lose_57b2c439:
 
-    # th "It's not exactly that I lose out..."
+    # th "It's not exactly that I lose out.."
     th "Cũng không hẳn là mình mất mát cái gì..."
 
 # game/characters/rhainda/ev_1.rpy:109
@@ -153,7 +153,7 @@ translate vietnamese rhainda_1_lose_64d8903a:
 # game/characters/rhainda/ev_1.rpy:111
 translate vietnamese rhainda_1_lose_52237d9b:
 
-    # me "Oh, fuck you..."
+    # me "Oh, fuck you.."
     me "Oh, thật luôn..."
 
 # game/characters/rhainda/ev_1.rpy:115
@@ -171,13 +171,13 @@ translate vietnamese rhainda_1_lose_be7aa58b:
 # game/characters/rhainda/ev_1.rpy:125
 translate vietnamese rhainda_1_lose_aba020a4:
 
-    # th "Fuck I lack strength to resist..."
+    # th "Fuck I lack strength to resist.."
     th "Đệch mình không đủ mạnh..."
 
 # game/characters/rhainda/ev_1.rpy:126
 translate vietnamese rhainda_1_lose_636426a0:
 
-    # th "Ehh... Fuck... Death it is..."
+    # th "Ehh.. Fuck.. Death it is.."
     th "Ehh... ,ẹ nó... mình chết rồi..."
 
 # game/characters/rhainda/ev_1.rpy:127
@@ -189,7 +189,7 @@ translate vietnamese rhainda_1_lose_22cb8a6f:
 # game/characters/rhainda/ev_1.rpy:128
 translate vietnamese rhainda_1_lose_3820771a_1:
 
-    # me "..."
+    # me ".."
     me "..."
 
 # game/characters/rhainda/ev_1.rpy:132
@@ -213,13 +213,13 @@ translate vietnamese rhainda_1_lose_be7aa58b_1:
 # game/characters/rhainda/ev_1.rpy:135
 translate vietnamese rhainda_1_lose_e3403c77:
 
-    # th "That was not as I expected..."
+    # th "That was not as I expected.."
     th "Địt mẹ mày ảo thật đấy..."
 
 # game/characters/rhainda/ev_1.rpy:136
 translate vietnamese rhainda_1_lose_6d232598:
 
-    # me "You want to... rape... me...?"
+    # me "You want to.. rape.. me..?"
     me "Cô muốn... hiếp... tôi á...?"
 
 # game/characters/rhainda/ev_1.rpy:140
@@ -255,7 +255,7 @@ translate vietnamese rhainda_1_fucked_slow_18afe4d3:
 # game/characters/rhainda/ev_1.rpy:151
 translate vietnamese rhainda_1_fucked_slow_9e8c7bca:
 
-    # me "Hmph..."
+    # me "Hmph.."
     me "Hmph..."
 
 # game/characters/rhainda/ev_1.rpy:152
@@ -267,7 +267,7 @@ translate vietnamese rhainda_1_fucked_slow_1026f74b:
 # game/characters/rhainda/ev_1.rpy:153
 translate vietnamese rhainda_1_fucked_slow_0dc24cc5:
 
-    # th "She's so thigh, though..."
+    # th "She's so thigh, though.."
     th "Nhưng mà cô ta cũng múp đấy..."
 
 # game/characters/rhainda/ev_1.rpy:159
@@ -279,7 +279,7 @@ translate vietnamese rhainda_1_fucked_fast_e36576b6:
 # game/characters/rhainda/ev_1.rpy:160
 translate vietnamese rhainda_1_fucked_fast_64df6391:
 
-    # me "Holy... Why are you so wild?"
+    # me "Holy.. Why are you so wild?"
     me "Vãi... tại sao cô lại cuồng dâm đến vậy?"
 
 # game/characters/rhainda/ev_1.rpy:161
@@ -291,13 +291,13 @@ translate vietnamese rhainda_1_fucked_fast_81bffa8e:
 # game/characters/rhainda/ev_1.rpy:162
 translate vietnamese rhainda_1_fucked_fast_75c76fa7:
 
-    # me "As if I would listen to you..."
+    # me "As if I would listen to you.."
     me "làm như là tôi sẽ nghe theo vậy..."
 
 # game/characters/rhainda/ev_1.rpy:163
 translate vietnamese rhainda_1_fucked_fast_c419bf4e:
 
-    # me "Ahh..."
+    # me "Ahh.."
     me "Ahh..."
 
 # game/characters/rhainda/ev_1.rpy:169
@@ -321,7 +321,7 @@ translate vietnamese rhainda_1_fucked_before_8cef6e3a:
 # game/characters/rhainda/ev_1.rpy:172
 translate vietnamese rhainda_1_fucked_before_9f7fdab6:
 
-    # th "We both do..."
+    # th "We both do.."
     th "Cả hai đều..."
 
 # game/characters/rhainda/ev_1.rpy:173
@@ -333,7 +333,7 @@ translate vietnamese rhainda_1_fucked_before_07e2b8f8:
 # game/characters/rhainda/ev_1.rpy:174
 translate vietnamese rhainda_1_fucked_before_aa3ce7b3:
 
-    # me "What a little slut you are..."
+    # me "What a little slut you are.."
     me "Cô đúng là một đứa dâm đãng mà..."
 
 # game/characters/rhainda/ev_1.rpy:175
@@ -351,7 +351,7 @@ translate vietnamese rhainda_1_fucked_before_0ee053f1:
 # game/characters/rhainda/ev_1.rpy:177
 translate vietnamese rhainda_1_fucked_before_bc15458b:
 
-    # me "Ahhnn... It's time to end it..."
+    # me "Ahhnn.. It's time to end it.."
     me "Ahhnn... đến lúc kết thúc rồi..."
 
 # game/characters/rhainda/ev_1.rpy:178
@@ -363,7 +363,7 @@ translate vietnamese rhainda_1_fucked_before_a4d7ef23:
 # game/characters/rhainda/ev_1.rpy:179
 translate vietnamese rhainda_1_fucked_before_ac0e6f63:
 
-    # me "Shut up... Who told your pussy to be so tight?"
+    # me "Shut up.. Who told your pussy to be so tight?"
     me "Im đi... ai bảo âm hộ cô lại chặt như vậy chứ?"
 
 # game/characters/rhainda/ev_1.rpy:187
@@ -387,7 +387,7 @@ translate vietnamese rhainda_1_fucked_cum_928ea7a8:
 # game/characters/rhainda/ev_1.rpy:193
 translate vietnamese rhainda_1_fucked_cum_e026ed38:
 
-    # rhainda "Ohh... Nice..."
+    # rhainda "Ohh.. Nice.."
     rhainda "Ohh... ngon đấy..."
 
 # game/characters/rhainda/ev_1.rpy:194
@@ -417,7 +417,7 @@ translate vietnamese rhainda_1_fucked_cum_3820771a:
 # game/characters/rhainda/ev_1.rpy:204
 translate vietnamese rhainda_1_fucked_cum_55fa27c9:
 
-    # me "I don't know what to think about it..."
+    # me "I don't know what to think about it.."
     me "Tôi không biết phải nghĩ gì về nó..."
 
 # game/characters/rhainda/ev_1.rpy:205
@@ -441,7 +441,7 @@ translate vietnamese rhainda_1_fucked_cum_ba010fda:
 # game/characters/rhainda/ev_1.rpy:221
 translate vietnamese rhainda_1_win_2ecfda59:
 
-    # rhainda "Ouch..."
+    # rhainda "Ouch.."
     rhainda "Ui da..."
 
 # game/characters/rhainda/ev_1.rpy:222
@@ -471,7 +471,7 @@ translate vietnamese rhainda_1_win_3df57e61:
 # game/characters/rhainda/ev_1.rpy:231
 translate vietnamese rhainda_1_win_5e87a5e5:
 
-    # me "Listen..."
+    # me "Listen.."
     me "Nghe này..."
 
 # game/characters/rhainda/ev_1.rpy:232
@@ -483,7 +483,7 @@ translate vietnamese rhainda_1_win_7f3d521b:
 # game/characters/rhainda/ev_1.rpy:233
 translate vietnamese rhainda_1_win_97f77147:
 
-    # me "I wanted to leave it for later, but since there is nothing inside your mind besides sex..."
+    # me "I wanted to leave it for later, but since there is nothing inside your mind besides sex.."
     me "Tôi muốn làm vậy sau, nhưng vì trong đầu cô chả có gì ngoài cặc nên..."
 
 # game/characters/rhainda/ev_1.rpy:234
@@ -501,7 +501,7 @@ translate vietnamese rhainda_1_win_aac2b7e2:
 # game/characters/rhainda/ev_1.rpy:239
 translate vietnamese rhainda_1_win_a89b1038:
 
-    # rhainda "Ohhhh... Big, hehe~"
+    # rhainda "Ohhhh.. Big, hehe~"
     rhainda "Ohhhh... to đấy, hehe~"
 
 # game/characters/rhainda/ev_1.rpy:240
@@ -597,7 +597,7 @@ translate vietnamese rhainda_1_fuck_before_44d21346:
 # game/characters/rhainda/ev_1.rpy:276
 translate vietnamese rhainda_1_fuck_before_c26a40bf:
 
-    # rhainda "I'm so horny right now. So hungry..."
+    # rhainda "I'm so horny right now. So hungry.."
     rhainda "Bây giờ em rất nứng. Rất đói..."
 
 # game/characters/rhainda/ev_1.rpy:277
@@ -753,7 +753,7 @@ translate vietnamese rhainda_1_end_be7aa58b:
 # game/characters/rhainda/ev_1.rpy:339
 translate vietnamese rhainda_1_end_1be6f430:
 
-    # me "I did, but you didn't listen..."
+    # me "I did, but you didn't listen.."
     me "Anh nói nhưng em có chịu nghe đâu..."
 
 # game/characters/rhainda/ev_1.rpy:340
@@ -771,7 +771,7 @@ translate vietnamese rhainda_1_end_0c5bfe7e:
 # game/characters/rhainda/ev_1.rpy:346
 translate vietnamese rhainda_1_end_37d201ae:
 
-    # rhainda "Sounds cool. I'll no longer be hungry..."
+    # rhainda "Sounds cool. I'll no longer be hungry.."
     rhainda "Nghe hay đấy. Em sẽ không còn bị đói nữa..."
 
 # game/characters/rhainda/ev_1.rpy:347
@@ -783,7 +783,7 @@ translate vietnamese rhainda_1_end_e43736f4:
 # game/characters/rhainda/ev_1.rpy:348
 translate vietnamese rhainda_1_end_269e45c7:
 
-    # me "Yeah... How did you survive until now?"
+    # me "Yeah.. How did you survive until now?"
     me "Yeah... làm thế nào mà em sinh tồn được đến tận bây giờ vậy?"
 
 # game/characters/rhainda/ev_1.rpy:353
@@ -849,7 +849,7 @@ translate vietnamese rhainda_1_end_314086b3:
 # game/characters/rhainda/ev_1.rpy:367
 translate vietnamese rhainda_1_end_7e85b749:
 
-    # rhainda "I would roast and eat them with pleasure..."
+    # rhainda "I would roast and eat them with pleasure.."
     rhainda "Em sẽ nướng và ăn chúng một cách vui vẻ..."
 
 # game/characters/rhainda/ev_1.rpy:368
@@ -867,7 +867,7 @@ translate vietnamese rhainda_1_end_744683df:
 # game/characters/rhainda/ev_1.rpy:370
 translate vietnamese rhainda_1_end_3ad1859c:
 
-    # me "But..."
+    # me "But.."
     me "Nhưng..."
 
 # game/characters/rhainda/ev_1.rpy:371
@@ -885,7 +885,7 @@ translate vietnamese rhainda_1_end_b0b8a63d:
 # game/characters/rhainda/ev_1.rpy:373
 translate vietnamese rhainda_1_end_53a93808:
 
-    # me "Alright..."
+    # me "Alright.."
     me "Được thôi..."
 
 # game/characters/rhainda/ev_1.rpy:378
@@ -909,7 +909,7 @@ translate vietnamese rhainda_1_end_83087c50:
 # game/characters/rhainda/ev_1.rpy:381
 translate vietnamese rhainda_1_end_a9d0ddb7:
 
-    # rhainda "I mean, I can't stand up. First you beat me, then you fucked me..."
+    # rhainda "I mean, I can't stand up. First you beat me, then you fucked me.."
     rhainda "Ý em là, em không thể đứng dậy được. Đầu tiên anh đánh em, sau đó anh địt em..."
 
 # game/characters/rhainda/ev_1.rpy:382
@@ -969,7 +969,7 @@ translate vietnamese rhainda_1_end_af1dc2ee:
 # game/characters/rhainda/ev_1.rpy:404
 translate vietnamese rhainda_1_end_da214060:
 
-    # rhainda "Thank you..."
+    # rhainda "Thank you.."
     rhainda "Cảm ơn anh..."
 
 # game/characters/rhainda/ev_1.rpy:405
@@ -1077,7 +1077,7 @@ translate vietnamese rhainda_1_end_de6fc375:
 # game/characters/rhainda/ev_1.rpy:428
 translate vietnamese rhainda_1_end_274c75c5:
 
-    # me "She has fallen asleep..."
+    # me "She has fallen asleep.."
     me "Em ấy ngủ rồi..."
 
 # game/characters/rhainda/ev_1.rpy:429
@@ -1155,7 +1155,7 @@ translate vietnamese rhainda_1_end_0e2c6b77:
 # game/characters/rhainda/ev_1.rpy:459
 translate vietnamese rhainda_1_end_85b03400:
 
-    # me "Well..."
+    # me "Well.."
     me "À thì..."
 
 # game/characters/rhainda/ev_1.rpy:464
@@ -1203,7 +1203,7 @@ translate vietnamese rhainda_1_end_3820771a_2:
 # game/characters/rhainda/ev_1.rpy:475
 translate vietnamese rhainda_1_end_a7e891ec:
 
-    # me "I forgot to ask..."
+    # me "I forgot to ask.."
     me "Anh quên hỏi rồi em..."
 
 # game/characters/rhainda/ev_1.rpy:479
@@ -1215,7 +1215,7 @@ translate vietnamese rhainda_1_end_6be83e0d:
 # game/characters/rhainda/ev_1.rpy:480
 translate vietnamese rhainda_1_end_6aa3ff41:
 
-    # me "I had other concerns back then..."
+    # me "I had other concerns back then.."
     me "Lúc đấy anh bị phân tâm..."
 
 # game/characters/rhainda/ev_1.rpy:484
@@ -1227,7 +1227,7 @@ translate vietnamese rhainda_1_end_8c48fdd5:
 # game/characters/rhainda/ev_1.rpy:485
 translate vietnamese rhainda_1_end_edbebd6f:
 
-    # me "You're the silly one..."
+    # me "You're the silly one.."
     me "Em mới ngốc đấy..."
 
 # game/characters/rhainda/ev_1.rpy:489
@@ -1365,7 +1365,7 @@ translate vietnamese rhainda_1_end_1fd0de5b:
 # game/characters/rhainda/ev_1.rpy:529
 translate vietnamese rhainda_1_end_f4a7ed20:
 
-    # th "No one asked..."
+    # th "No one asked.."
     th "Không ai hỏi..."
 
 # game/characters/rhainda/ev_1.rpy:533
@@ -1401,7 +1401,7 @@ translate vietnamese rhainda_1_end_55de605d_1:
 # game/characters/rhainda/ev_1.rpy:541
 translate vietnamese rhainda_1_end_f0ea955f:
 
-    # rhainda "You should listen to the priestess, um... Little Fox."
+    # rhainda "You should listen to the priestess, um.. Little Fox."
     rhainda "Em nên nghe theo tư tế đi, Ờm... Tiểu Cáo."
 
 # game/characters/rhainda/ev_1.rpy:542
@@ -1431,7 +1431,7 @@ translate vietnamese rhainda_1_end_b32b5950:
 # game/characters/rhainda/ev_1.rpy:549
 translate vietnamese rhainda_1_end_e1fae017:
 
-    # lil_fox "I hate you the most..."
+    # lil_fox "I hate you the most.."
     lil_fox "Em ghét anh nhiều nhất..."
 
 # game/characters/rhainda/ev_1.rpy:550
@@ -1449,7 +1449,7 @@ translate vietnamese rhainda_1_end_72aff623:
 # game/characters/rhainda/ev_1.rpy:555
 translate vietnamese rhainda_1_end_eccd8428:
 
-    # lil_fox "They're always bullying the little poor me..."
+    # lil_fox "They're always bullying the little poor me.."
     lil_fox "Họ luôn bắt nạt những đứa trẻ tội nghiệp như mình..."
 
 # game/characters/rhainda/ev_1.rpy:561
@@ -1503,7 +1503,7 @@ translate vietnamese rhainda_1_end_4fb5bc10:
 # game/characters/rhainda/ev_1.rpy:578
 translate vietnamese rhainda_1_end_1ac1ee51:
 
-    # rhainda "Thank you! Mi... Rachel."
+    # rhainda "Thank you! Mi.. Rachel."
     rhainda "Cảm ơn nha Rachel."
 
 # game/characters/rhainda/ev_1.rpy:579

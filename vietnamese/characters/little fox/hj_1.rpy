@@ -81,7 +81,7 @@ translate vietnamese lil_fox_hj_1_fast_74d4bb1e:
 # game/characters/little fox/hj_1.rpy:124
 translate vietnamese lil_fox_hj_1_before_25470c5c:
 
-    # me "Nice! Ahh..."
+    # me "Nice! Ahh.."
     me "Tuyệt! Ahh..."
 
 # game/characters/little fox/hj_1.rpy:125
@@ -129,7 +129,7 @@ translate vietnamese lil_fox_hj_1_cum_1ee3f198:
 # game/characters/little fox/hj_1.rpy:150
 translate vietnamese lil_fox_hj_1_cum_eb84355e:
 
-    # lil_fox "Aaaa..."
+    # lil_fox "Aaaa.."
     lil_fox "Aaaa..."
 
 # game/characters/little fox/hj_1.rpy:151
@@ -141,7 +141,7 @@ translate vietnamese lil_fox_hj_1_cum_a6b2cd75:
 # game/characters/little fox/hj_1.rpy:155
 translate vietnamese lil_fox_hj_1_cum_a3ed18a2:
 
-    # lil_fox "So much... Thank you, mister!"
+    # lil_fox "So much.. Thank you, mister!"
     lil_fox "Nhiều quá... Cảm ơn thưa ngài!"
 
 # game/characters/little fox/hj_1.rpy:156
@@ -202,7 +202,7 @@ translate vietnamese lil_fox_hj_1_cum_1e2662b3:
 translate vietnamese lil_fox_hj_1_cum_0e9db55a:
 
     # me "See you, minx."
-    me "Gặp em sau nha, cáo."
+    me "Gặp lại sau nha cáo."
 
 # game/characters/little fox/hj_1.rpy:169
 translate vietnamese lil_fox_hj_1_cum_55de605d:
@@ -215,5 +215,4 @@ translate vietnamese lil_fox_hj_1_cum_55de605d:
 translate vietnamese lil_fox_hj_1_before_c2040f21:
 
     # lil_fox "Fall for me, and fed me every day!~"
-    lil_fox "Fall for me, and fed me every day!~"
-
+    lil_fox "Mê đắm em, và cho em ăn hàng ngày đi!~"

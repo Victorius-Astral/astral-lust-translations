@@ -58,7 +58,7 @@ translate vietnamese speak_lexi_menu1_6d1b0c17:
 translate vietnamese speak_lexi_menu1_c6c040eb:
 
     # lexi "Yes, but many of the dangers outside are beyond what numbers can help to overcome. In a situation like that, just more of us would die. If I die alone, there will still be someone to go out to gather food."
-    lexi "Có, nhưng có nhiều mối nguy hiểm bên ngoài nằm ngoài mà những con số không có tác dụng gì cả. Trong tình huống như vậy, chỉ có nhiều người sẽ chết. Chết một mình thì vẫn có người khác đi kiếm đồ ăn..."
+    lexi "Có, nhưng có nhiều mối nguy hiểm bên ngoài nằm ngoài mà những con số không có tác dụng gì cả. Trong tình huống như vậy, chỉ có nhiều người sẽ chết. Chết một mình thì vẫn có người khác đi kiếm đồ ăn."
 
 # game/characters/lexi/speak.rpy:59
 translate vietnamese speak_lexi_menu1_b2c681a5:
@@ -207,7 +207,7 @@ translate vietnamese speak_lexi_menu1_cc9b06cd:
 # game/characters/lexi/speak.rpy:134
 translate vietnamese speak_lexi_menu1_5b7bb2e7:
 
-    # lexi "... Fine, but let's go to your room."
+    # lexi ".. Fine, but let's go to your room."
     lexi "... Tốt thôi, nhưng chúng ta hãy về phòng của anh."
 
 # game/characters/lexi/speak.rpy:135
@@ -309,7 +309,7 @@ translate vietnamese speak_lexi_menu2_c2d24491:
 # game/characters/lexi/speak.rpy:190
 translate vietnamese speak_lexi_menu2_7229f95d:
 
-    # lexi "I was attending school. I didn't like studying, and I thought my life was hard... How naïve was I..."
+    # lexi "I was attending school. I didn't like studying, and I thought my life was hard... How naïve was I.."
     lexi "Em đi học nhưng. Em không thích học, và em nghĩ cuộc sống của mình thật khó khăn... Em thật ngây thơ làm sao..."
 
 # game/characters/lexi/speak.rpy:192
@@ -327,7 +327,7 @@ translate vietnamese speak_lexi_menu2_84b208ec:
 # game/characters/lexi/speak.rpy:194
 translate vietnamese speak_lexi_menu2_b632995b:
 
-    # me "Oh... I thought you were older."
+    # me "Oh.. I thought you were older."
     me "Oh... Anh nghĩ là em phải lớn tuổi hơn cơ."
 
 # game/characters/lexi/speak.rpy:196
@@ -363,7 +363,7 @@ translate vietnamese speak_lexi_menu2_a2ec882c:
 # game/characters/lexi/speak.rpy:203
 translate vietnamese speak_lexi_menu2_e46c5020:
 
-    # me "That's not what I mea..."
+    # me "That's not what I mea.."
     me "Ý anh không phải vậ..."
 
 # game/characters/lexi/speak.rpy:205
@@ -517,16 +517,15 @@ translate vietnamese strings:
 
     # game/characters/lexi/speak.rpy:58
     old "She talks about her death with ease, as if she was discussing someone else."
-    new "She talks about her death with ease, as if she was discussing someone else."
+    new "Cô ấy nói về cái chết của mình một cách thoải mái, như thể đang thảo luận về một người khác vậy."
 
     # game/characters/lexi/speak.rpy:191
     old "The End arrived before her 20th birthday."
-    new "The End arrived before her 20th birthday."
+    new "The End xảy ra trước sinh nhật lần thứ 20 của cô ấy."
 # TODO: Translation updated at 2022-02-19 01:56
 
 translate vietnamese strings:
 
     # game/characters/lexi/speak.rpy:12
     old "Are you.. alright? {gold}(Story){/gold}"
-    new "Are you.. alright? {gold}(Story){/gold}"
-
+    new "Em có... ổn không? {gold}(Cốt truyện){/gold}"

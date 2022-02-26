@@ -99,7 +99,7 @@ translate vietnamese alice_8_3684eb43:
 # game/characters/alice/ev_8.rpy:51
 translate vietnamese alice_8_4989fe05:
 
-    # me "I..."
+    # me "I.."
     me "Anh..."
 
 # game/characters/alice/ev_8.rpy:53
@@ -177,7 +177,7 @@ translate vietnamese alice_8_0b1c0703:
 # game/characters/alice/ev_8.rpy:74
 translate vietnamese alice_8_1b6e7d5a:
 
-    # me "Then wher... oh..."
+    # me "Then wher.. oh.."
     me "Thế thì ở... à..."
 
 # game/characters/alice/ev_8.rpy:75
@@ -231,7 +231,7 @@ translate vietnamese alice_8_157fd410:
 # game/characters/alice/ev_8.rpy:90
 translate vietnamese alice_8_6bbb7d93:
 
-    # alice "Sorry to disappoint you..."
+    # alice "Sorry to disappoint you.."
     alice "Xin lỗi đã làm anh thất vọng..."
 
 # game/characters/alice/ev_8.rpy:94
@@ -249,7 +249,7 @@ translate vietnamese alice_8_c2c1ae3e:
 # game/characters/alice/ev_8.rpy:97
 translate vietnamese alice_8_42b27750:
 
-    # alice "So, you don't think I'm weird or... I don't know... I just..."
+    # alice "So, you don't think I'm weird or.. I don't know.. I just.."
     alice "Thế thì, Anh không nghĩ em kỳ lạ hay... em không biết nữa... em chỉ..."
 
 # game/characters/alice/ev_8.rpy:98
@@ -567,7 +567,7 @@ translate vietnamese alice_8_part3_958f00c0:
 # game/characters/alice/ev_8.rpy:277
 translate vietnamese alice_8_part3_f58e393b:
 
-    # th "Fuck! My precious..."
+    # th "Fuck! My precious.."
     th "Mẹ kiếp! thứ quý giá của mình..."
 
 # game/characters/alice/ev_8.rpy:280

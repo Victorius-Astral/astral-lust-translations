@@ -57,7 +57,7 @@ translate vietnamese grace_mass_3_cfe8a5a1:
 # game/characters/grace/mass_3.rpy:52
 translate vietnamese grace_mass_3_2f9207d3:
 
-    # grace "Don't put your fingers inside..."
+    # grace "Don't put your fingers inside.."
     grace "Đừng đưa ngón tay vào trong..."
 
 # game/characters/grace/mass_3.rpy:53
@@ -183,7 +183,7 @@ translate vietnamese grace_mass_3_bb15baa8:
 # game/characters/grace/mass_3.rpy:101
 translate vietnamese grace_mass_3_cfa95943:
 
-    # grace "I-I-I t-told you to not put your fingers inside..."
+    # grace "I-I-I t-told you to not put your fingers inside.."
     grace "E-E-Em đã bảo anh không được cho ngón tay vào trong..."
 
 # game/characters/grace/mass_3.rpy:102
@@ -201,13 +201,13 @@ translate vietnamese grace_mass_3_cba114e3:
 # game/characters/grace/mass_3.rpy:104
 translate vietnamese grace_mass_3_8cfb2edc:
 
-    # grace "B-but..."
+    # grace "B-but.."
     grace "N-nhưng..."
 
 # game/characters/grace/mass_3.rpy:105
 translate vietnamese grace_mass_3_c32deeff:
 
-    # me "Shhh... don't speak, enjoy."
+    # me "Shhh.. don't speak, enjoy."
     me "Shhh... đừng nói chuyện, hãy tận hưởng."
 
 # game/characters/grace/mass_3.rpy:115
@@ -237,7 +237,7 @@ translate vietnamese grace_mass_3_32ca8d46:
 # game/characters/grace/mass_3.rpy:119
 translate vietnamese grace_mass_3_d80320e6:
 
-    # grace "I-I'm... Mnmm!~"
+    # grace "I-I'm.. Mnmm!~"
     grace "E-Em... Mnmm!~"
 
 # game/characters/grace/mass_3.rpy:120
@@ -261,7 +261,7 @@ translate vietnamese grace_mass_3_38d90e3e:
 # game/characters/grace/mass_3.rpy:127
 translate vietnamese grace_mass_3_d33da0a2:
 
-    # th "Shit, so tight, too bad it's just my fingers..."
+    # th "Shit, so tight, too bad it's just my fingers.."
     th "Đù, chặt vl, mỗi tội, nó chỉ là ngón tay của mình..."
 
 # game/characters/grace/mass_3.rpy:128
@@ -279,7 +279,7 @@ translate vietnamese grace_mass_3_af15acfa:
 # game/characters/grace/mass_3.rpy:135
 translate vietnamese grace_mass_3_0f7d193f:
 
-    # grace "Haah... hahh..."
+    # grace "Haah.. hahh.."
     grace "Haah... hahh..."
 
 # game/characters/grace/mass_3.rpy:136
@@ -291,7 +291,7 @@ translate vietnamese grace_mass_3_71e1326f:
 # game/characters/grace/mass_3.rpy:137
 translate vietnamese grace_mass_3_00920ad7:
 
-    # grace "Hmmmn..."
+    # grace "Hmmmn.."
     grace "Hmmmn..."
 
 # game/characters/grace/mass_3.rpy:138
@@ -327,13 +327,13 @@ translate vietnamese grace_mass_3_cd22152f:
 # game/characters/grace/mass_3.rpy:147
 translate vietnamese grace_mass_3_b657a664:
 
-    # th "One, final look. Shit, she's gorgeous..."
+    # th "One, final look. Shit, she's gorgeous.."
     th "Một cái nhìn cuối. Shit, em ấy nhìn mlem quá..."
 
 # game/characters/grace/mass_3.rpy:148
 translate vietnamese grace_mass_3_499b26f3:
 
-    # th "Time to go..."
+    # th "Time to go.."
     th "Đến lúc đi rồi..."
 # TODO: Translation updated at 2022-02-06 08:10
 
@@ -364,17 +364,17 @@ translate vietnamese grace_mass_3_7587d855:
 # game/characters/grace/mass_3.rpy:119
 translate vietnamese grace_mass_3_9d1f8b0f:
 
-    # grace "I-I'm... Mmmm!~"
+    # grace "I-I'm.. Mmmm!~"
     grace "E-Em... Mmmm!~"
 
 # game/characters/grace/mass_3.rpy:126
 translate vietnamese grace_mass_3_70cd7f55:
 
     # "Just as she said it, you can feel her vagina tighten around your fingers, making you unable to take them out."
-    "Đúng như lời cô ấy nói, bạn có thể cảm thấy âm đạo của cô ấy siết chặt lấy ngón tay của bạn, khiến bạn không thể đưa chúng ra ngoài..."
+    "Đúng như lời cô ấy nói, bạn có thể cảm thấy âm đạo của cô ấy siết chặt lấy ngón tay của bạn, khiến bạn không thể đưa chúng ra ngoài."
 
 # game/characters/grace/mass_3.rpy:147
 translate vietnamese grace_mass_3_43a6aea0:
 
-    # th "One, final look. Shit... she is gorgeous..."
+    # th "One, final look. Shit.. she is gorgeous.."
     th "Một cái nhìn cuối cùng. Đù... em ấy đẹp quá..."

@@ -15,7 +15,7 @@ translate vietnamese lola_2_9cef6565:
 # game/characters/lola/ev_2.rpy:7
 translate vietnamese lola_2_8b68ede9:
 
-    # lola "Yeah..."
+    # lola "Yeah.."
     lola "Yeah..."
 
 # game/characters/lola/ev_2.rpy:8
@@ -39,7 +39,7 @@ translate vietnamese lola_2_ea1ba29e:
 # game/characters/lola/ev_2.rpy:15
 translate vietnamese lola_2_118b186c:
 
-    # lola "It was my first time..."
+    # lola "It was my first time.."
     lola "Đó là lần đầu của tôi..."
 
 # game/characters/lola/ev_2.rpy:16
@@ -63,7 +63,7 @@ translate vietnamese lola_2_c9911443:
 # game/characters/lola/ev_2.rpy:21
 translate vietnamese lola_2_6d2d18ce:
 
-    # lola "In the end I shouldn't have told you this..."
+    # lola "In the end I shouldn't have told you this.."
     lola "Đáng lẽ ra tôi không nên nói với anh điều này..."
 
 # game/characters/lola/ev_2.rpy:22
@@ -117,7 +117,7 @@ translate vietnamese lola_2_3820771a_1:
 # game/characters/lola/ev_2.rpy:34
 translate vietnamese lola_2_a64f4f35:
 
-    # lola "Ah... If you could have seen your silly face..."
+    # lola "Ah.. If you could have seen your silly face.."
     lola "Ah... Nếu anh có thể nhìn thấy khuôn mặt đần thối của mình..."
 
 # game/characters/lola/ev_2.rpy:48
@@ -129,7 +129,7 @@ translate vietnamese lola_2_b96b9c25:
 # game/characters/lola/ev_2.rpy:49
 translate vietnamese lola_2_bc3bd0c4:
 
-    # me "Wait... I need to think about what I've just learned..."
+    # me "Wait.. I need to think about what I've just learned.."
     me "Chờ đã... tôi cần nghĩ về những gì tôi vừa học được..."
 
 # game/characters/lola/ev_2.rpy:52
@@ -171,13 +171,13 @@ translate vietnamese lola_2_9130146c:
 # game/characters/lola/ev_2.rpy:62
 translate vietnamese lola_2_79e78b18:
 
-    # th "This girl is something else entirely..."
+    # th "This girl is something else entirely.."
     th "Cô gái này là một cái gì đó hoàn toàn khác..."
 
 # game/characters/lola/ev_2.rpy:65
 translate vietnamese lola_2_9e65fb61:
 
-    # lola "You're blanking out again..."
+    # lola "You're blanking out again.."
     lola "Anh lại đơ ra một lần nữa rồi..."
 
 # game/characters/lola/ev_2.rpy:66
@@ -189,7 +189,7 @@ translate vietnamese lola_2_3820771a_2:
 # game/characters/lola/ev_2.rpy:69
 translate vietnamese lola_2_0cbd0668:
 
-    # lola "I'm waiting..."
+    # lola "I'm waiting.."
     lola "tôi vẫn đang đợi đây..."
 
 # game/characters/lola/ev_2.rpy:70
@@ -201,7 +201,7 @@ translate vietnamese lola_2_4ba7882b:
 # game/characters/lola/ev_2.rpy:71
 translate vietnamese lola_2_ef7411fa:
 
-    # me "Alright... Fuck it, let's have sex."
+    # me "Alright.. Fuck it, let's have sex."
     me "Được rồi... Fuck it, làm tình đi..."
 
 # game/characters/lola/ev_2.rpy:75
@@ -213,37 +213,36 @@ translate vietnamese lola_2_840962e2:
 # game/characters/lola/ev_2.rpy:76
 translate vietnamese lola_2_afb436ab:
 
-    # th "It was just a while..."
+    # th "It was just a while.."
     th "Nó mới được một lúc..."
 # TODO: Translation updated at 2022-02-06 08:10
 
 # game/characters/lola/ev_2.rpy:21
 translate vietnamese lola_2_b9469040:
 
-    # lola "In the end, I shouldn't have told you this..."
-    lola "In the end, I shouldn't have told you this..."
+    # lola "In the end, I shouldn't have told you this.."
+    lola "Đáng lẽ ra tôi không nên nói với anh điều này..."
 
 # game/characters/lola/ev_2.rpy:23
 translate vietnamese lola_2_2808256e:
 
     # me "So, you want to tell me I took your virginity?"
-    me "So, you want to tell me I took your virginity?"
+    me "Thế, cô muốn nói với tôi rằng tôi đã làm cô mất trinh?"
 
 # game/characters/lola/ev_2.rpy:29
 translate vietnamese lola_2_7c4fdb92:
 
-    # me "No, they do not..."
-    me "No, they do not..."
+    # me "No, they do not.."
+    me "Không, chúng không tính..."
 
 # game/characters/lola/ev_2.rpy:48
 translate vietnamese lola_2_5e6d4ce1:
 
     # lola "So, what did you want, anyway? When are we having sex again?"
-    lola "So, what did you want, anyway? When are we having sex again?"
+    lola "Thế, anh muốn cái gì? Khi nào chúng ta địt nhau lần nữa?"
 
 # game/characters/lola/ev_2.rpy:70
 translate vietnamese lola_2_0e77cc26:
 
     # th "I don't have the heart to reject her, do I?"
-    th "I don't have the heart to reject her, do I?"
-
+    th "Mình không có gan để từ chối cô ấy, phải không?"

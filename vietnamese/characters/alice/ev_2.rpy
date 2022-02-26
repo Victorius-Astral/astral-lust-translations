@@ -21,7 +21,7 @@ translate vietnamese alice_2_6b2a5354:
 # game/characters/alice/ev_2.rpy:8
 translate vietnamese alice_2_bef19229:
 
-    # me "Umm... What are you doing here?"
+    # me "Umm.. What are you doing here?"
     me "Ờm... em đang làm gì ở đây vậy?"
 
 # game/characters/alice/ev_2.rpy:10
@@ -219,7 +219,7 @@ translate vietnamese alice_2_1a_2956d354:
 # game/characters/alice/ev_2.rpy:74
 translate vietnamese alice_2_1a_e3fc31e0:
 
-    # me "And humble..."
+    # me "And humble.."
     me "Và khiêm tốn..."
 
 # game/characters/alice/ev_2.rpy:76
@@ -273,7 +273,7 @@ translate vietnamese alice_2_1a_3820771a:
 # game/characters/alice/ev_2.rpy:89
 translate vietnamese alice_2_1a_836630ec:
 
-    # th "This girls gonna be the end of me..."
+    # th "This girls gonna be the end of me.."
     th "Cái cô gái này sẽ là dấu chấm hết cho mình mất..."
 
 # game/characters/alice/ev_2.rpy:94
@@ -375,7 +375,7 @@ translate vietnamese alice_2_1b_3820771a:
 # game/characters/alice/ev_2.rpy:119
 translate vietnamese alice_2_1b_a1bd72ac:
 
-    # th "This girl's gonna be the end of me..."
+    # th "This girl's gonna be the end of me.."
     th "Cái cô gái này sẽ là dấu chấm hết cho mình mất..."
 
 translate vietnamese strings:
