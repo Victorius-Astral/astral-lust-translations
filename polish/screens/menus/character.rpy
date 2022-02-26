@@ -2,10 +2,6 @@
 
 translate polish strings:
 
-    # game/screens/menus/character.rpy:23
-    old "{color=#FFD700}--- State ---{/color}"
-    new "{color=#FFD700}--- State ---{/color}"
-
     # game/screens/menus/character.rpy:27
     old "{color=#A71930}Health{/color} - how much damage you can take.\n\n{color=#C6E2FF}Spirituality{/color} - consumed when using cards in combat. Recovers at the beginning of new turn."
     new "{color=#A71930}Health{/color} - how much damage you can take.\n\n{color=#C6E2FF}Spirituality{/color} - consumed when using cards in combat. Recovers at the beginning of new turn."
@@ -123,8 +119,8 @@ translate polish strings:
     new "{b}{u}{color=#E4CA48}Luck{/color}{/b}{/u}\n{small}Increases chance for good cards, decreases chance to meet strong opponents. Increased with codes from Discord or by trading with certain beings.{/small}"
 
     # game/screens/menus/character.rpy:45
-    old "{gold}--- State ---{/gold}"
-    new "{gold}--- State ---{/gold}"
+    old "State"
+    new "Stan"
 
     # game/screens/menus/character.rpy:53
     old "{color=#d26a6a}Health:{/color}"
@@ -135,20 +131,20 @@ translate polish strings:
     new "{color=#d26a6a}[player.hp]/[player.hp_max]{/color}"
 
     # game/screens/menus/character.rpy:55
-    old "\n{gold}--- Mental State ---{/gold}"
-    new "\n{gold}--- Mental State ---{/gold}"
+    old "Mental State"
+    new "Stan Psychiczny"
 
     # game/screens/menus/character.rpy:65
-    old "\n{gold}--- Physical Stats ---{/gold}"
-    new "\n{gold}--- Physical Stats ---{/gold}"
+    old "Physical Stats"
+    new "Atrybuty Fizyczne"
 
     # game/screens/menus/character.rpy:75
-    old "\n{gold}--- Mental Stats ---{/gold}"
-    new "\n{gold}--- Mental Stats ---{/gold}"
+    old "Mental Stats"
+    new "Mental Stats"
 
     # game/screens/menus/character.rpy:85
-    old "\n{gold}--- Other ---{/gold}"
-    new "\n{gold}--- Other ---{/gold}"
+    old "Other"
+    new "Other"
 
     # game/screens/menus/character.rpy:93
     old "Luck:"
@@ -159,6 +155,5 @@ translate polish strings:
     new "[player.luck]"
 
     # game/screens/menus/character.rpy:99
-    old "\n{gold}--- Buffs ---{/gold}"
-    new "\n{gold}--- Buffs ---{/gold}"
-
+    old "Buffs"
+    new "Buffs"

@@ -117,10 +117,6 @@ translate vietnamese strings:
     old "{gold}(Become a patron of sufficient rank to unlock.){/gold}"
     new "{gold}(Trở thành patron để mở khóa.){/gold}"
 
-    # game/screens/settings/game.rpy:89
-    old "Other"
-    new "Khác"
-
     # game/screens/settings/game.rpy:90
     old "Show tutorials"
     new "Hiển thị hướng dẫn"

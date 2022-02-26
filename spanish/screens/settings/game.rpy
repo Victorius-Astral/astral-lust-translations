@@ -54,10 +54,6 @@ translate spanish strings:
     old "Debug Mode"
     new "Modo de Depuración"
 
-    # game/screens/settings/game.rpy:45
-    old "Other"
-    new "Otros"
-
     # game/screens/settings/game.rpy:46
     old "Show tutorials"
     new "Mostrar tutoriales"
