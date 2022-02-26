@@ -16,55 +16,55 @@ translate spanish 25b7c9f1:
 translate spanish exp_injured_dragon_f9bc6219:
 
     # "You hear roars close, but they give you a weird feeling. As if filled with pain and rage."
-    "You hear roars close, but they give you a weird feeling. As if filled with pain and rage."
+    "Escuchas rugidos cerca, pero te dan una sensación rara. Como si estuviera lleno de dolor y rabia."
 
 # game/events/explore/injured_dragon.rpy:28
 translate spanish exp_injured_dragon_0eaa66c6:
 
     # "You have the urge to see its source."
-    "You have the urge to see its source."
+    "Sientes una urgencia de ver de qué viene."
 
 # game/events/explore/injured_dragon.rpy:34
 translate spanish exp_injured_dragon_1afd0702:
 
     # th "I can't help it. I need to see what's going on."
-    th "I can't help it. I need to see what's going on."
+    th "No puedo evitarlo. Necesito ver qué está pasando."
 
 # game/events/explore/injured_dragon.rpy:39
 translate spanish exp_injured_dragon_40544aa2:
 
     # th "Let's ignore it for now.."
-    th "Let's ignore it for now.."
+    th "Ignorémoslo por ahora..."
 
 # game/events/explore/injured_dragon.rpy:45
 translate spanish exp_injured_dragon_see_e3ae20e6:
 
     # th "It's right before me.."
-    th "It's right before me.."
+    th "Está justo delante de mí..."
 
 # game/events/explore/injured_dragon.rpy:48
 translate spanish exp_injured_dragon_see_68e1a3fb:
 
     # me "Holy shit.. A dragon. Is it dead?"
-    me "Holy shit.. A dragon. Is it dead?"
+    me "Mierda... Un dragón. ¿Está muerto?"
 
 # game/events/explore/injured_dragon.rpy:51
 translate spanish exp_injured_dragon_see_74f4566a:
 
     # me "It went through a hard battle."
-    me "It went through a hard battle."
+    me "Pasó por una dura batalla."
 
 # game/events/explore/injured_dragon.rpy:54
 translate spanish exp_injured_dragon_see_b0e20838:
 
     # me "Just how many giants has it killed?"
-    me "Just how many giants has it killed?"
+    me "¿Cuántos gigantes ha matado?"
 
 # game/events/explore/injured_dragon.rpy:57
 translate spanish exp_injured_dragon_see_9a7a3e0d:
 
     # th "Guess it's not dead at all.."
-    th "Guess it's not dead at all.."
+    th "Supongo que no está muerto después de todo eso..."
 
 # game/events/explore/injured_dragon.rpy:58
 translate spanish exp_injured_dragon_see_3820771a:
@@ -76,69 +76,68 @@ translate spanish exp_injured_dragon_see_3820771a:
 translate spanish exp_injured_dragon_see_809ffd32:
 
     # me "Seems it doesn't want to attack. "
-    me "Seems it doesn't want to attack. "
+    me "Parece que no quiere atacar."
 
 # game/events/explore/injured_dragon.rpy:60
 translate spanish exp_injured_dragon_see_e22d482e:
 
     # th "It's looking straight at me, but it's not attacking."
-    th "It's looking straight at me, but it's not attacking."
+    th "Me está mirando directamente, pero no me está atacando."
 
 # game/events/explore/injured_dragon.rpy:61
 translate spanish exp_injured_dragon_see_89f06292:
 
     # th "That could only mean one thing.. It's injured!"
-    th "That could only mean one thing.. It's injured!"
+    th "Eso solo puede significar una cosa... ¡Está herido!"
 
 # game/events/explore/injured_dragon.rpy:69
 translate spanish exp_injured_dragon_see_70e785fa:
 
     # "Dragon" "{loud}*ROAR!!!*{/loud}"
-    "Dragon" "{loud}*ROAR!!!*{/loud}"
+    "Dragon" "{loud}*¡¡¡RUGIDO!!!*{/loud}"
 
 # game/events/explore/injured_dragon.rpy:70
 translate spanish exp_injured_dragon_see_7c92ff41:
 
     # me "Time to die lizard."
-    me "Time to die lizard."
+    me "Hora de morir lagarto."
 
 # game/events/explore/injured_dragon.rpy:85
 translate spanish exp_injured_dragon_see_d9e56fcb:
 
     # th "It's not worth the risk."
-    th "It's not worth the risk."
+    th "No vale la pena el riesgo."
 
 # game/events/explore/injured_dragon.rpy:97
 translate spanish exp_injured_dragon_win_5fb5468d:
 
     # me "Holy shit, it's finally dead."
-    me "Holy shit, it's finally dead."
+    me "Mierda, finalmente está muerto."
 
 # game/events/explore/injured_dragon.rpy:100
 translate spanish exp_injured_dragon_win_1a584499:
 
     # me "Injured or not, this thing doesn't fuck around."
-    me "Injured or not, this thing doesn't fuck around."
+    me "Herido o no, con esta cosa no se juega."
 
 translate spanish strings:
 
     # game/events/explore/injured_dragon.rpy:29
     old "Will you track it down?"
-    new "Will you track it down?"
+    new "¿Lo rastrearás?"
 
     # game/events/explore/injured_dragon.rpy:29
     old "Follow the roar"
-    new "Follow the roar"
+    new "Sigue el rugido"
 
     # game/events/explore/injured_dragon.rpy:29
     old "Go back"
-    new "Go back"
+    new "Regresa"
 
     # game/events/explore/injured_dragon.rpy:63
     old "Will you finish the giants' job?"
-    new "Will you finish the giants' job?"
+    new "¿Terminarás el trabajo de los gigantes?"
 
     # game/events/explore/injured_dragon.rpy:63
     old "Fight it"
-    new "Fight it"
-
+    new "Enfréntalo"

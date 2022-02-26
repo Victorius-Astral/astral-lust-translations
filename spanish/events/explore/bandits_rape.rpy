@@ -332,7 +332,7 @@ translate spanish strings:
 
     # game/events/explore/bandits_rape.rpy:35
     old "Titsjob"
-    new "Titsjob"
+    new "Usa tus tetas"
 
     # game/events/explore/bandits_rape.rpy:35
     old "I need resources"

@@ -413,7 +413,7 @@ translate spanish strings:
 
     # game/events/explore/dog.rpy:164
     old "How should I call it?"
-    new "How should I call it?"
+    new "¿Cómo debería llamarlo?"
 
 # TODO: Translation updated at 2022-01-29 20:12
 
@@ -421,5 +421,4 @@ translate spanish strings:
 
     # game/events/explore/dog.rpy:181
     old "I saved it from two madmen, the cultist wanted to perform some sort of ritual on it."
-    new "I saved it from two madmen, the cultist wanted to perform some sort of ritual on it."
-
+    new "Lo salvé de dos locos, el cultista quería realizar algún tipo de ritual en él."

@@ -426,104 +426,103 @@ translate spanish strings:
 
     # game/events/explore/bandits.rpy:163
     old "{color=#FF958F}[[Charisma]{/color} Be human, I won't survive without this little bit of supplies"
-    new "{color=#FF958F}[[Charisma]{/color} Sé humano, no sobreviviré sin estos pocos suministros que tengo"
+    new "{color=#FF958F}[[Carisma]{/color} Sé humano, no sobreviviré sin estos pocos suministros que tengo"
 # TODO: Translation updated at 2022-01-29 20:12
 
 # game/events/explore/bandits.rpy:54
 translate spanish explore_banditsA_a4079a28:
 
     # "{agi}[[Agility check passed]{/agi} You stab one of them. The rest turn to attack!"
-    "{agi}[[Agility check passed]{/agi} You stab one of them. The rest turn to attack!"
+    "{agi}[[Agilidad suficiente]{/agi} Apuñalas a uno por la espalda. ¡El resto se da la vuelta para atacar!"
 
 # game/events/explore/bandits.rpy:58
 translate spanish explore_banditsA_a24180ce:
 
     # "{agi}[[Agility check failed]{/agi} They heard you!"
-    "{agi}[[Agility check failed]{/agi} They heard you!"
+    "{agi}[[Agilidad insuficiente]{/agi} ¡Te escucharon!"
 
 # game/events/explore/bandits.rpy:81
 translate spanish banditsA_menu_2cfc9e05:
 
     # "{cha}[[Charisma check passed]{/cha}"
-    "{cha}[[Charisma check passed]{/cha}"
+    "{cha}[[Carisma suficiente]{/cha}"
 
 # game/events/explore/bandits.rpy:104
 translate spanish banditsA_menu_91eb8b5f:
 
     # "{cha}[[Charisma check failed]{/cha} They raise their guns."
-    "{cha}[[Charisma check failed]{/cha} They raise their guns."
+    "{cha}[[Carisma insuficiente]{/cha} Levantan sus armas."
 
 # game/events/explore/bandits.rpy:149
 translate spanish explore_banditsB_9a16acba:
 
     # "{agi}[[Agility check passed]{/agi} You stab one of them in the back. The rest turn to attack!"
-    "{agi}[[Agility check passed]{/agi} You stab one of them in the back. The rest turn to attack!"
+    "{agi}[[Agilidad suficiente]{/agi} Apuñalas a uno por la espalda. ¡El resto se da la vuelta para atacar!"
 
 # game/events/explore/bandits.rpy:153
 translate spanish explore_banditsB_a24180ce:
 
     # "{agi}[[Agility check failed]{/agi} They heard you!"
-    "{agi}[[Agility check failed]{/agi} They heard you!"
+    "{agi}[[Agilidad insuficiente]{/agi} ¡Te escucharon!"
 
 # game/events/explore/bandits.rpy:169
 translate spanish banditsB_menu_b86240ab:
 
     # "{agi}[[Agility check passed]{/agi} You manage to lose your pursuers."
-    "{agi}[[Agility check passed]{/agi} You manage to lose your pursuers."
+    "{agi}[[Agilidad suficiente]{/agi} Consigues perder a tus perseguidores."
 
 # game/events/explore/bandits.rpy:173
 translate spanish banditsB_menu_9fddcfb2:
 
     # "{agi}[[Agility check failed]{/agi} You're too slow to run!"
-    "{agi}[[Agility check failed]{/agi} You're too slow to run!"
+    "{agi}[[Agilidad insuficiente]{/agi} Eres demasiado lento para huir!"
 
 # game/events/explore/bandits.rpy:179
 translate spanish banditsB_menu_2cfc9e05:
 
     # "{cha}[[Charisma check passed]{/cha}"
-    "{cha}[[Charisma check passed]{/cha}"
+    "{cha}[[Carisma suficiente]{/cha}"
 
 # game/events/explore/bandits.rpy:193
 translate spanish banditsB_menu_62ac88eb:
 
     # "{agi}[[Agility check passed]{/agi} You managed to dodge!"
-    "{agi}[[Agility check passed]{/agi} You managed to dodge!"
+    "{agi}[[Agilidad suficiente]{/agi} ¡Pudiste esquivar!"
 
 # game/events/explore/bandits.rpy:196
 translate spanish banditsB_menu_21b48379:
 
     # "{agi}[[Agility check failed]{/agi} You tried to dodge but failed!"
-    "{agi}[[Agility check failed]{/agi} You tried to dodge but failed!"
+    "{agi}[[Agilidad insuficiente]{/agi} ¡Trataste de esquivar, pero fallaste!"
 
 # game/events/explore/bandits.rpy:212
 translate spanish banditsB_menu_aced6660:
 
     # "{cha}[[Charisma check failed]{/cha} One of them attacks!"
-    "{cha}[[Charisma check failed]{/cha} One of them attacks!"
+    "{cha}[[Carisma insuficiente]{/cha} ¡Uno de ellos ataca!"
 
 # game/events/explore/bandits.rpy:215
 translate spanish banditsB_menu_62ac88eb_1:
 
     # "{agi}[[Agility check passed]{/agi} You managed to dodge!"
-    "{agi}[[Agility check passed]{/agi} You managed to dodge!"
+    "{agi}[[Agilidad suficiente]{/agi} ¡Pudiste esquivar!"
 
 # game/events/explore/bandits.rpy:218
 translate spanish banditsB_menu_21b48379_1:
 
     # "{agi}[[Agility check failed]{/agi} You tried to dodge but failed!"
-    "{agi}[[Agility check failed]{/agi} You tried to dodge but failed!"
+    "{agi}[[Agilidad insuficiente]{/agi} ¡Trataste de esquivar, pero fallaste!"
 
 translate spanish strings:
 
     # game/events/explore/bandits.rpy:83
     old "{cha}[[Charisma]{/cha} Be humcha won't survive without what few supplies I have"
-    new "{cha}[[Charisma]{/cha} Be humcha won't survive without what few supplies I have"
+    new "{cha}[[Carisma]{/cha} Sé humano, no sobreviviré sin los pocos suministros que tengo."
 
     # game/events/explore/bandits.rpy:181
     old "{cha}[[Charisma]{/cha} Be human, I won't survive without this little bit of supplies"
-    new "{cha}[[Charisma]{/cha} Be human, I won't survive without this little bit of supplies"
+    new "{cha}[[Carisma]{/cha} Sé humano, no sobreviviré sin los pocos suministros que tengo"
 
     # game/events/explore/bandits.rpy:198
     old "Health -10"
-    new "Health -10"
-
+    new "Salud -10"

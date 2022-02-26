@@ -369,5 +369,4 @@ translate spanish strings:
 
     # game/events/explore/cat.rpy:95
     old "I discovered it while outside, in an abandoned house."
-    new "I discovered it while outside, in an abandoned house."
-
+    new "Lo encontré afuera, en una casa abandonada."

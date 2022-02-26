@@ -4,5 +4,4 @@
 translate spanish succubus_hunt_1959104f:
 
     # "You walk down the foggy road looking for succubi to catch."
-    "You walk down the foggy road looking for succubi to catch."
-
+    "Caminas por el camino brumoso buscando succubi para atrapar."

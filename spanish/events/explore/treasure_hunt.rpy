@@ -4,7 +4,7 @@
 translate spanish exp_treasure_hunt_part1_efd11ab7:
 
     # me "Hm.. What is a chest doing here?"
-    me "Hm.. What is a chest doing here?"
+    me "Hm... ¿Qué hace un cofre aquí?"
 
 # game/events/explore/treasure_hunt.rpy:52
 translate spanish exp_treasure_hunt_part1_e070f472:
@@ -1449,4 +1449,3 @@ translate spanish strings:
     # game/events/explore/treasure_hunt.rpy:540
     old "Bullshit + 1"
     new "Bullshit + 1"
-
