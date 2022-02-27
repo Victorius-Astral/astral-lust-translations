@@ -230,7 +230,6 @@ translate vietnamese strings:
     # game/characters/player/ev_3.rpy:26
     old "\"\"What We are is beyond your understanding, beyond your imagination and beyond your perception.\"\""
     new "\"\"Những gì chúng tôi đang có là ngoài sự hiểu biết của bạn, ngoài sức tưởng tượng của bạn và ngoài nhận thức của bạn.\"\""
-dsx
     # game/characters/player/ev_3.rpy:33
     old "It claims that knowing Its name alone would cause my death and madness."
     new "Nó tuyên bố rằng chỉ biết tên của nó thôi sẽ gây ra cho tôi cái chết và sự điên loạn.."
