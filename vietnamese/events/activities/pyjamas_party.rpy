@@ -399,8 +399,8 @@ translate vietnamese girl_night_part2_7f0ee5bc:
 # game/events/activities/pyjamas_party.rpy:130
 translate vietnamese girl_night_part2_d1d43b0a:
 
-    # th "Alice... you're dead..."
-    th "Alice... Thì ra em chọn cái chết..."
+    # th "Alice.. you're dead..."
+    th "Alice... Thì ra em chọn cái chết."
 
 # game/events/activities/pyjamas_party.rpy:133
 translate vietnamese girl_night_part2_d9183c9c:
@@ -2060,4 +2060,3 @@ translate vietnamese strings:
     # game/events/activities/pyjamas_party.rpy:483
     old "She wants a.. diamond.."
     new "She wants a.. diamond.."
-

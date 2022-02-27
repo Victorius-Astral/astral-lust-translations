@@ -3,7 +3,7 @@
 # game/characters/little fox/speak.rpy:7
 translate vietnamese speak_lilfox_97abe656:
 
-    # lil_fox "Hey, [me]..."
+    # lil_fox "Hey, [me].."
     lil_fox "Chào anh [me]..."
 
 # game/characters/little fox/speak.rpy:8
@@ -117,7 +117,7 @@ translate vietnamese speak_lilfox_hj_0681a303:
 # game/characters/little fox/speak.rpy:109
 translate vietnamese speak_lilfox_hj_8c020cbf:
 
-    # me "How could you? Alice has worked hard to make this outfit..."
+    # me "How could you? Alice has worked hard to make this outfit.."
     me "Làm sao mà em có thể? Alice đã rất khó khăn để làm ra bộ trang phục này..."
 
 # game/characters/little fox/speak.rpy:113
@@ -169,11 +169,10 @@ translate vietnamese strings:
 translate vietnamese speak_lilfox_d2d117ea:
 
     # lil_fox "Hehe, you're a naughty charmer."
-    lil_fox "Hehe, you're a naughty charmer."
+    lil_fox "Hehe, đồ quyến rũ nghịch ngợm này."
 
 # game/characters/little fox/speak.rpy:62
 translate vietnamese speak_lilfox_feed_int_1aa98482:
 
     # lil_fox "Hungry fox is a bad fox. So, you will have to feed me a lot."
-    lil_fox "Hungry fox is a bad fox. So, you will have to feed me a lot."
-
+    lil_fox "Cáo bị đói là một con cáo hư. Vì vậy nên, anh sẽ phải cho em ăn rất nhiều đấy."

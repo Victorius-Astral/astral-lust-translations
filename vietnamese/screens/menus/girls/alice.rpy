@@ -16,7 +16,7 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/alice.rpy:27
     old "• {love}Affection: "
-    new "• {love}Tình cảm: "
+    new "• {love}Yêu mến: "
 
     # game/screens/menus/girls/alice.rpy:28
     old "• {trust}Trust: "
@@ -104,4 +104,3 @@ translate vietnamese strings:
     # game/screens/menus/girls/alice.rpy:22
     old "Nicknames: Al"
     new "Nicknames: Al"
-

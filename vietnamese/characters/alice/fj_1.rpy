@@ -4,7 +4,7 @@
 translate vietnamese alice_fj_1_cb3c1550:
 
     # "You don't wait anymore and lay down. Very soon [alice] is standing above you with her foot on your dick."
-    "Bạn không chờ đợi gì nữa và nằm xuống. sau đó [alice] đang đứng trên bạn với bàn chân của cô ấy đặt trên dương vật của bạn ."
+    "Bạn không chờ đợi gì nữa và nằm xuống. sau đó [alice] đang đứng trên bạn với bàn chân của cô ấy đặt trên dương vật của bạn."
 
 # game/characters/alice/fj_1.rpy:32
 translate vietnamese alice_fj_1_23ac122a:

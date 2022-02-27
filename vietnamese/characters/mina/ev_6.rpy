@@ -45,13 +45,13 @@ translate vietnamese mina_6_6f01474d:
 # game/characters/mina/ev_6.rpy:15
 translate vietnamese mina_6_260c04b8:
 
-    # mina "Yeah... Every night I think what would have happened if you didn't come."
+    # mina "Yeah.. Every night I think what would have happened if you didn't come."
     mina "Vâng... Mỗi đêm em đều nghĩ về điều gì sẽ xảy ra nếu anh không đến."
 
 # game/characters/mina/ev_6.rpy:17
 translate vietnamese mina_6_4aea69af:
 
-    # mina "Just a while longer and he would... he would..."
+    # mina "Just a while longer and he would.. he would.."
     mina "Chỉ một chút nữa thôi là hắn sẽ... hắn sẽ..."
 
 # game/characters/mina/ev_6.rpy:19
@@ -99,7 +99,7 @@ translate vietnamese mina_6_206fea99:
 # game/characters/mina/ev_6.rpy:30
 translate vietnamese mina_6_21ab59be:
 
-    # me "I'm sorry, if I found Lexi's gift bef..."
+    # me "I'm sorry, if I found Lexi's gift bef.."
     me "Anh xin lỗi, nếu anh tìm thấy món quà của Lexi trư..."
 
 # game/characters/mina/ev_6.rpy:32
@@ -213,13 +213,13 @@ translate vietnamese mina_6_1_bfee357f:
 # game/characters/mina/ev_6.rpy:72
 translate vietnamese mina_6_1_70e7873b:
 
-    # mina "You died for me..."
+    # mina "You died for me.."
     mina "Anh chết vì em đấy..."
 
 # game/characters/mina/ev_6.rpy:74
 translate vietnamese mina_6_1_8d2745d8:
 
-    # mina "I owe you so much... I don't think I'll ever be able to pay off this debt."
+    # mina "I owe you so much.. I don't think I'll ever be able to pay off this debt."
     mina "Em nợ anh rất nhiều... em không nghĩ rằng mình có thể trả hết món nợ này."
 
 # game/characters/mina/ev_6.rpy:75
@@ -311,5 +311,4 @@ translate vietnamese strings:
 
     # game/characters/mina/ev_6.rpy:77
     old "She considers me both her friend and her savior."
-    new "She considers me both her friend and her savior."
-
+    new "Cô ấy vừa coi tôi là bạn và vừa là cứu tinh của cô ấy."

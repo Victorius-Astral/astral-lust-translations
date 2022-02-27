@@ -63,7 +63,7 @@ translate vietnamese kiara_sex_3_fast_0fcad096:
 # game/characters/kiara/sex_3.rpy:90
 translate vietnamese kiara_sex_3_fast_9bc97625:
 
-    # me "Haaa..."
+    # me "Haaa.."
     me "Haaa..."
 
 # game/characters/kiara/sex_3.rpy:91
@@ -89,13 +89,13 @@ translate vietnamese kiara_sex_3_fast_b7a83025:
 translate vietnamese kiara_sex_3_fast_6afa0f8d:
 
     # kiara "How do I feel?"
-    kiara "How do I feel?"
+    kiara "Thấy tôi như thế nào?"
 
 # game/characters/kiara/sex_3.rpy:94
 translate vietnamese kiara_sex_3_fast_4218bd69:
 
     # me "Tight."
-    me "Tight."
+    me "Chặt."
 
 # game/characters/kiara/sex_3.rpy:100
 translate vietnamese kiara_sex_3_before_3c013828:
@@ -124,20 +124,20 @@ translate vietnamese kiara_sex_3_cum_a5db8232:
 # game/characters/kiara/sex_3.rpy:114
 translate vietnamese kiara_sex_3_cum_8eda3dd3:
 
-    # me "Oh..."
+    # me "Oh.."
     me "Oh..."
 
 # game/characters/kiara/sex_3.rpy:115
 translate vietnamese kiara_sex_3_cum_98654294:
 
     # kiara "That felt great."
-    kiara "That felt great."
+    kiara "Tuyệt lắm."
 
 # game/characters/kiara/sex_3.rpy:116
 translate vietnamese kiara_sex_3_cum_6b9f946a:
 
     # me "It did."
-    me "It did."
+    me "Ừa."
 
 # game/characters/kiara/sex_3.rpy:120
 translate vietnamese kiara_sex_3_cum_6a316fd6:
@@ -149,23 +149,22 @@ translate vietnamese kiara_sex_3_cum_6a316fd6:
 translate vietnamese kiara_sex_3_cum_0d6e2182:
 
     # kiara "It's the appropriate time for us to clothe ourselves."
-    kiara "It's the appropriate time for us to clothe ourselves."
+    kiara "Đã đến lúc thích hợp để chúng ta tự mặc đồ vào rồi."
 
 # game/characters/kiara/sex_3.rpy:125
 translate vietnamese kiara_sex_3_cum_b22dad99:
 
     # me "Are you afraid of being caught?"
-    me "Are you afraid of being caught?"
+    me "Cô sợ bị bắt sao??"
 
 # game/characters/kiara/sex_3.rpy:126
 translate vietnamese kiara_sex_3_cum_951bdf8a:
 
     # kiara "Haha, no."
-    kiara "Haha, no."
+    kiara "Haha, không."
 
 # game/characters/kiara/sex_3.rpy:127
 translate vietnamese kiara_sex_3_cum_de7c1f1f:
 
     # kiara "Now take you dick out, and get your clothes on."
-    kiara "Now take you dick out, and get your clothes on."
-
+    kiara "Bây giờ hãy đưa con cặc ra ngoài, và mặc quần áo vào nào."

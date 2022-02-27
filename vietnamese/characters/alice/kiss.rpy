@@ -9,7 +9,7 @@ translate vietnamese alice_kiss_9d46b110:
 # game/characters/alice/kiss.rpy:35
 translate vietnamese alice_kiss_ba993f9b:
 
-    # alice "A kiss you say..."
+    # alice "A kiss you say.."
     alice "Một cái hôn đúng không..."
 
 # game/characters/alice/kiss.rpy:40
@@ -69,7 +69,7 @@ translate vietnamese alice_kiss_gym_3bf28f1d:
 # game/characters/alice/kiss.rpy:91
 translate vietnamese alice_kiss_gym_9a0decb2:
 
-    # alice "You're an idiot..."
+    # alice "You're an idiot.."
     alice "Anh là một thằng ngốc..."
 
 # game/characters/alice/kiss.rpy:105
@@ -339,7 +339,7 @@ translate vietnamese alice_kiss_gym_cow_368667df:
 # game/characters/alice/kiss.rpy:227
 translate vietnamese alice_kiss_gym_cow_3662de9f:
 
-    # th "Good question... I just wanted to fuck you. [alice]."
+    # th "Good question.. I just wanted to fuck you. [alice]."
     th "Câu hỏi hay đấy... Anh chỉ muốn địt em thôi. [alice]."
 
 # game/characters/alice/kiss.rpy:228
@@ -447,7 +447,7 @@ translate vietnamese alice_kiss_gym_cow_88a494eb:
 # game/characters/alice/kiss.rpy:281
 translate vietnamese alice_kiss_gym_cow_9383afb5:
 
-    # alice "Mm..."
+    # alice "Mm.."
     alice "Mm..."
 
 # game/characters/alice/kiss.rpy:282
@@ -459,7 +459,7 @@ translate vietnamese alice_kiss_gym_cow_d8a80f0a:
 # game/characters/alice/kiss.rpy:283
 translate vietnamese alice_kiss_gym_cow_9383afb5_1:
 
-    # alice "Mm..."
+    # alice "Mm.."
     alice "Mm..."
 
 # game/characters/alice/kiss.rpy:284
@@ -477,7 +477,7 @@ translate vietnamese alice_kiss_gym_bj_d0d9fd78:
 # game/characters/alice/kiss.rpy:295
 translate vietnamese alice_kiss_gym_bj_2d782b2f:
 
-    # alice "What's wrong with them..."
+    # alice "What's wrong with them.."
     alice "Có gì không ổn với nó sao..."
 
 # game/characters/alice/kiss.rpy:298
@@ -507,8 +507,8 @@ translate vietnamese alice_kiss_gym_bj_5f7ea28b:
 # game/characters/alice/kiss.rpy:306
 translate vietnamese alice_kiss_gym_bj_c5769d82:
 
-    # alice "{quiet}Gracie's... What a dick... Hers are just a little bigger... A little...{/quiet}"
-    alice "{quiet}Gracie... đúng là đồ tồi... Em ấy chỉ hơi to hơn một tí thôi... Một chút xíu...{/quiet}"
+    # alice "{quiet}Gracie's.. What a dick.. Hers are just a little bigger.. A little..{/quiet}"
+    alice "{quiet}Gracie... anh đúng là đồ tồi... Em ấy chỉ hơi to hơn một tí thôi... Một chút xíu...{/quiet}"
 
 # game/characters/alice/kiss.rpy:307
 translate vietnamese alice_kiss_gym_bj_3820771a:
@@ -531,7 +531,7 @@ translate vietnamese alice_kiss_gym_bj_07e3bccf:
 # game/characters/alice/kiss.rpy:314
 translate vietnamese alice_kiss_gym_bj_5d2f0ca8:
 
-    # alice "Ahh..."
+    # alice "Ahh.."
     alice "Ahh..."
 
 # game/characters/alice/kiss.rpy:317
@@ -561,7 +561,7 @@ translate vietnamese alice_kiss_gym_bj_f968e0b2:
 # game/characters/alice/kiss.rpy:330
 translate vietnamese alice_kiss_gym_bj_369c7aed:
 
-    # me "Ahh... That's nice as fuck, [alice]. Good job."
+    # me "Ahh.. That's nice as fuck, [alice]. Good job."
     me "Ahh... Phê thật đấy, [alice]. làm tốt lắm."
 
 # game/characters/alice/kiss.rpy:331
@@ -573,7 +573,7 @@ translate vietnamese alice_kiss_gym_bj_0c0185ec:
 # game/characters/alice/kiss.rpy:339
 translate vietnamese alice_kiss_gym_bj_ffd8a0a2:
 
-    # th "The End... Apocalypse in the truest sense, yet my life is so much better than before..."
+    # th "The End.. Apocalypse in the truest sense, yet my life is so much better than before.."
     th "The End... Cơn tận thế đúng nghĩa nhất, nhưng mà cuộc đời mình lại tốt hơn lúc trước..."
 
 # game/characters/alice/kiss.rpy:340
@@ -597,7 +597,7 @@ translate vietnamese alice_kiss_gym_bj_e51db021:
 # game/characters/alice/kiss.rpy:343
 translate vietnamese alice_kiss_gym_bj_b273d15b:
 
-    # me "Ah..."
+    # me "Ah.."
     me "Ah..."
 
 # game/characters/alice/kiss.rpy:351
@@ -651,7 +651,7 @@ translate vietnamese alice_kiss_gym_bj_1dc76197:
 # game/characters/alice/kiss.rpy:369
 translate vietnamese alice_kiss_gym_bj_7c269996:
 
-    # me "Just a while..."
+    # me "Just a while.."
     me "Chỉ một lúc nữa thôi..."
 
 # game/characters/alice/kiss.rpy:370
@@ -663,7 +663,7 @@ translate vietnamese alice_kiss_gym_bj_ce111e9e:
 # game/characters/alice/kiss.rpy:371
 translate vietnamese alice_kiss_gym_bj_5c7b1127:
 
-    # th "Before I've never knew life can be so exciting..."
+    # th "Before I've never knew life can be so exciting.."
     th "Trước đây mình chưa từng biết cuộc sông có thể thú vị đến mức này..."
 
 # game/characters/alice/kiss.rpy:372
@@ -747,7 +747,7 @@ translate vietnamese alice_kiss_alice_ab3b0a6f:
 # game/characters/alice/kiss.rpy:427
 translate vietnamese alice_kiss_alice_f23fd7f6:
 
-    # me "We can do some other nice things..."
+    # me "We can do some other nice things.."
     me "Chúng ta có thể làm vài thứ khác..."
 
 # game/characters/alice/kiss.rpy:431
@@ -862,7 +862,7 @@ translate vietnamese alice_kiss_gym_cow_218d920c:
 # game/characters/alice/kiss.rpy:371
 translate vietnamese alice_kiss_gym_bj_77e131fb:
 
-    # th "Before, I've never known life can be so exciting..."
+    # th "Before, I've never known life can be so exciting.."
     th "Trước đây, mình chưa bao giờ nghĩ là cuộc sống có thể thú vị như vậy..."
 
 # game/characters/alice/kiss.rpy:435

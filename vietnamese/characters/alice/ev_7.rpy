@@ -105,7 +105,7 @@ translate vietnamese alice_7_1_de3ca9d7:
 # game/characters/alice/ev_7.rpy:71
 translate vietnamese alice_7_1_024fd80c:
 
-    # th "These questions are going to be hard..."
+    # th "These questions are going to be hard.."
     th "Những câu hỏi này sẽ khó đấy..."
 
 # game/characters/alice/ev_7.rpy:73
@@ -273,7 +273,7 @@ translate vietnamese al_7_questions_00f07480:
 # game/characters/alice/ev_7.rpy:198
 translate vietnamese al_7_questions_40d9d377:
 
-    # me "Ha. Ha. Ha. Very funny..."
+    # me "Ha. Ha. Ha. Very funny.."
     me "Ha. Ha. Ha. Hài hước lắm..."
 
 # game/characters/alice/ev_7.rpy:209
@@ -345,7 +345,7 @@ translate vietnamese al_7_questions_3820771a:
 # game/characters/alice/ev_7.rpy:294
 translate vietnamese al_7_questions_7488bf42:
 
-    # alice "I told you it's not the answer..."
+    # alice "I told you it's not the answer.."
     alice "Em đã nói với anh đó không phải là câu trả lời..."
 
 # game/characters/alice/ev_7.rpy:299
@@ -441,7 +441,7 @@ translate vietnamese al_7_questions_fail_6ae81f13:
 # game/characters/alice/ev_7.rpy:351
 translate vietnamese al_7_questions_fail_23be24fb:
 
-    # me "Thanks..."
+    # me "Thanks.."
     me "Cảm ơn..."
 
 # game/characters/alice/ev_7.rpy:358
@@ -453,7 +453,7 @@ translate vietnamese al_7_questions_reward_1be97641:
 # game/characters/alice/ev_7.rpy:359
 translate vietnamese al_7_questions_reward_ca698b98:
 
-    # alice "I kind of... don't have anything else to give you."
+    # alice "I kind of.. don't have anything else to give you."
     alice "em... không có bất cứ thứ gì khác để đưa cho anh rồi."
 
 # game/characters/alice/ev_7.rpy:360

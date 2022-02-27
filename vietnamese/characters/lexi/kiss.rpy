@@ -123,7 +123,7 @@ translate vietnamese lexi_kiss_eb07716b:
 # game/characters/lexi/kiss.rpy:65
 translate vietnamese lexi_kiss_0f07c677:
 
-    # me "Maybe I..."
+    # me "Maybe I.."
     me "Có lẽ anh..."
 
 # game/characters/lexi/kiss.rpy:66
@@ -159,7 +159,7 @@ translate vietnamese lexi_kiss_1d6675d0:
 # game/characters/lexi/kiss.rpy:71
 translate vietnamese lexi_kiss_ab43d171:
 
-    # me "Now you're playing with me..."
+    # me "Now you're playing with me.."
     me "Giờ em lại chơi đùa với anh..."
 
 # game/characters/lexi/kiss.rpy:72
@@ -171,7 +171,7 @@ translate vietnamese lexi_kiss_bd14a3c4:
 # game/characters/lexi/kiss.rpy:73
 translate vietnamese lexi_kiss_9401900d:
 
-    # me "You surely have your fun..."
+    # me "You surely have your fun.."
     me "Em đang tận hưởng thú vui của mình nhỉ..."
 
 # game/characters/lexi/kiss.rpy:74
@@ -183,7 +183,7 @@ translate vietnamese lexi_kiss_2193a987:
 # game/characters/lexi/kiss.rpy:75
 translate vietnamese lexi_kiss_4f462946:
 
-    # me "Ahh... I'm too..."
+    # me "Ahh.. I'm too.."
     me "Ahh... Anh c..."
 
 # game/characters/lexi/kiss.rpy:76
@@ -201,7 +201,7 @@ translate vietnamese lexi_kiss_e43eb9e6:
 # game/characters/lexi/kiss.rpy:91
 translate vietnamese lexi_kiss_b273d15b:
 
-    # me "Ah..."
+    # me "Ah.."
     me "Ah..."
 
 # game/characters/lexi/kiss.rpy:92
@@ -363,35 +363,34 @@ translate vietnamese strings:
 translate vietnamese lexi_kiss_2e9132c7:
 
     # lexi "You should watch more movies, besides, the world is over, traditions are also over."
-    lexi "You should watch more movies, besides, the world is over, traditions are also over."
+    lexi "Anh nên xem nhiều phim hơn, ngoài ra, thế giới đã kết thúc rồi, truyền thống cũng vậy."
 
 # game/characters/lexi/kiss.rpy:31
 translate vietnamese lexi_kiss_3fffbcdf:
 
     # lexi "Nope, but I will make it into a heaven, if you do."
-    lexi "Nope, but I will make it into a heaven, if you do."
+    lexi "Không, nhưng em sẽ biến nó thành thiên đường nếu anh làm thế."
 
 # game/characters/lexi/kiss.rpy:71
 translate vietnamese lexi_kiss_6805e8b6:
 
-    # me "Now, you're playing with me..."
-    me "Now, you're playing with me..."
+    # me "Now, you're playing with me.."
+    me "Giờ thid em lại chơi đùa với anh..."
 
 # game/characters/lexi/kiss.rpy:107
 translate vietnamese lexi_kiss_1b9e2c1e:
 
     # "You stayed in each other arms for a few minutes."
-    "You stayed in each other arms for a few minutes."
+    "Bạn ở trong vòng tay của nhau trong vài phút."
 
 # game/characters/lexi/kiss.rpy:140
 translate vietnamese lexi_kiss_1806f0f4:
 
     # me "Now, that's really sexist."
-    me "Now, that's really sexist."
+    me "Bây giờ thì, đó là sự phân biệt giới tính đấy"
 
 # game/characters/lexi/kiss.rpy:149
 translate vietnamese lexi_kiss_cd9e73df:
 
     # me "I really don't understand, where does your confidence came from."
-    me "I really don't understand, where does your confidence came from."
-
+    me "Tôi thực sự không hiểu, sự tự tin của bạn đến từ đâu."

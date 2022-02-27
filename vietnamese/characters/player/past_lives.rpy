@@ -33,7 +33,7 @@ translate vietnamese past_lives_8aa16e6a:
 # game/characters/player/past_lives.rpy:22
 translate vietnamese past_lives_ee1c39d1:
 
-    # th "Interesting..."
+    # th "Interesting.."
     th "Thú vị..."
 
 # game/characters/player/past_lives.rpy:26
@@ -135,7 +135,7 @@ translate vietnamese past_lives_ac9853bb:
 # game/characters/player/past_lives.rpy:42
 translate vietnamese past_lives_02970b70:
 
-    # past_me "No need for aggression and fear. I used to be like you... With time you'll understand that it's pointless..."
+    # past_me "No need for aggression and fear. I used to be like you.. With time you'll understand that it's pointless..."
     past_me "Không cần gây hấn và sợ hãi đâu. Tao đã từng như mày... Với thời gian mày sẽ hiểu rằng điều đó thật vô nghĩa..."
 
 # game/characters/player/past_lives.rpy:43
@@ -303,7 +303,7 @@ translate vietnamese past_lives_27b692af:
 # game/characters/player/past_lives.rpy:77
 translate vietnamese past_lives_41afdcc1:
 
-    # past_me "And Kiara whom I thought loved me, just watched by the side..."
+    # past_me "And Kiara whom I thought loved me, just watched by the side.."
     past_me "Và Kiara, người mà tao nghĩ rằng yêu tao, thì chỉ dõi theo bên cạnh thôi..."
 
 # game/characters/player/past_lives.rpy:78
@@ -315,7 +315,7 @@ translate vietnamese past_lives_714646fb:
 # game/characters/player/past_lives.rpy:79
 translate vietnamese past_lives_8c447e66:
 
-    # past_me "Back then... Was my choice a wrong one?"
+    # past_me "Back then.. Was my choice a wrong one?"
     past_me "Hồi đó ... Lựa chọn của tao có phải là sai lầm không?"
 
 # game/characters/player/past_lives.rpy:80
@@ -339,7 +339,7 @@ translate vietnamese past_lives_2930e26f:
 # game/characters/player/past_lives.rpy:83
 translate vietnamese past_lives_3473b5ac:
 
-    # past_me "She was my only true friend back then... I had so many relationships, so many lovers..."
+    # past_me "She was my only true friend back then.. I had so many relationships, so many lovers.."
     past_me "Cô ấy là người bạn thực sự duy nhất của tao hồi đó... Tao đã có rất nhiều mối quan hệ, rất nhiều người tình..."
 
 # game/characters/player/past_lives.rpy:84
@@ -351,7 +351,7 @@ translate vietnamese past_lives_ba56f56f:
 # game/characters/player/past_lives.rpy:85
 translate vietnamese past_lives_42f714b6:
 
-    # past_me "Even though nothing carnal polluted our relationship. Yes, she was a true friend..."
+    # past_me "Even though nothing carnal polluted our relationship. Yes, she was a true friend.."
     past_me "Mặc dù không có gì thực sự làm ô nhiễm mối quan hệ của bọn tao. Đúng, cô ấy là một người bạn thực sự..."
 
 # game/characters/player/past_lives.rpy:86
@@ -369,7 +369,7 @@ translate vietnamese past_lives_870647d5:
 # game/characters/player/past_lives.rpy:88
 translate vietnamese past_lives_9bff2dc2:
 
-    # past_me "I can't take back time. I'm too weak..."
+    # past_me "I can't take back time. I'm too weak.."
     past_me "Tao không thể quay lại thời gian. Tôi quá yếu..."
 
 # game/characters/player/past_lives.rpy:89
@@ -405,7 +405,7 @@ translate vietnamese past_lives_23ca82c3:
 # game/characters/player/past_lives.rpy:102
 translate vietnamese past_lives_1838d2f6:
 
-    # past_me "Yes, I can understand that..."
+    # past_me "Yes, I can understand that.."
     past_me "Ừ, tao có thể hiểu điều đó..."
 
 # game/characters/player/past_lives.rpy:103
@@ -435,7 +435,7 @@ translate vietnamese past_lives_4f085ac1:
 # game/characters/player/past_lives.rpy:112
 translate vietnamese past_lives_e9d657ad:
 
-    # past_me "In the end it was all a lie..."
+    # past_me "In the end it was all a lie.."
     past_me "Cuối cùng tất cả chỉ là dối trá..."
 
 # game/characters/player/past_lives.rpy:118
@@ -453,13 +453,13 @@ translate vietnamese past_lives_51b6dcca:
 # game/characters/player/past_lives.rpy:120
 translate vietnamese past_lives_c50d2d03:
 
-    # past_me "What a pity I've seen the despair inside of her too late..."
+    # past_me "What a pity I've seen the despair inside of her too late.."
     past_me "Tiếc thật, tao đã thấy sự tuyệt vọng bên trong cô ấy quá muộn..."
 
 # game/characters/player/past_lives.rpy:126
 translate vietnamese past_lives_dabc6891:
 
-    # past_me "Haha, Alice..."
+    # past_me "Haha, Alice.."
     past_me "Haha, Alice..."
 
 # game/characters/player/past_lives.rpy:127
@@ -555,7 +555,7 @@ translate vietnamese past_lives_part2_58bc0459:
 # game/characters/player/past_lives.rpy:167
 translate vietnamese past_lives_part2_e7dfbf51:
 
-    # past_me "Ehh... Yet nothing good lasts forever..."
+    # past_me "Ehh... Yet nothing good lasts forever.."
     past_me "Ehh... Tuy nhiên, không có gì tốt tồn tại mãi mãi..."
 
 # game/characters/player/past_lives.rpy:168
@@ -567,7 +567,7 @@ translate vietnamese past_lives_part2_b2658a22:
 # game/characters/player/past_lives.rpy:169
 translate vietnamese past_lives_part2_43f0fbaa:
 
-    # past_me "Destiny... Is it really impossible to fight against it?"
+    # past_me "Destiny.. Is it really impossible to fight against it?"
     past_me "Vận mệnh ... Có thực sự là không thể chống lại nó sao?"
 
 # game/characters/player/past_lives.rpy:170
@@ -672,4 +672,3 @@ translate vietnamese past_lives_part2_6cdb0257:
 
     # past_me "We were together for a long time. I was happier than ever before. Even when she made me anemic."
     past_me "We were together for a long time. I was happier than ever before. Even when she made me anemic."
-

@@ -15,7 +15,7 @@ translate vietnamese kiara_1_2930e26f:
 # game/characters/kiara/ev_1.rpy:9
 translate vietnamese kiara_1_76761904:
 
-    # kiara "It's the way you resurrect. I... am unable to decipher it."
+    # kiara "It's the way you resurrect. I.. am unable to decipher it."
     kiara "Đó là cách mà anh hồi sinh. Tôi... không thể giải mã nó."
 
 # game/characters/kiara/ev_1.rpy:10
@@ -51,7 +51,7 @@ translate vietnamese kiara_1_81732ecd:
 # game/characters/kiara/ev_1.rpy:23
 translate vietnamese kiara_1_c56ab22d:
 
-    # me "I... I never thought about it that way..."
+    # me "I.. I never thought about it that way.."
     me "Tôi... tôi chưa bao giờ nghĩ theo cách đó..."
 
 # game/characters/kiara/ev_1.rpy:24
@@ -87,7 +87,7 @@ translate vietnamese kiara_1_aed830f3:
 # game/characters/kiara/ev_1.rpy:33
 translate vietnamese kiara_1_9ab7fce2:
 
-    # kiara "Yes, as they..."
+    # kiara "Yes, as they.."
     kiara "Đúng vậy..."
 
 # game/characters/kiara/ev_1.rpy:34
@@ -183,7 +183,7 @@ translate vietnamese kiara_1_1_649ce64a:
 # game/characters/kiara/ev_1.rpy:58
 translate vietnamese kiara_1_1_58928c7a:
 
-    # kiara "Hmm... Are you weakened afterwards?"
+    # kiara "Hmm.. Are you weakened afterwards?"
     kiara "Hmm... Sau đó anh có bị suy yếu không??"
 
 # game/characters/kiara/ev_1.rpy:59
@@ -201,7 +201,7 @@ translate vietnamese kiara_1_1_e52b3e8e:
 # game/characters/kiara/ev_1.rpy:61
 translate vietnamese kiara_1_1_04ae7123:
 
-    # me "I think I'm losing my sanity. My head hurts like crazy and weird, chaotic thoughts appear inside my mind..."
+    # me "I think I'm losing my sanity. My head hurts like crazy and weird, chaotic thoughts appear inside my mind.."
     me "Tôi nghĩ mình đang mất dần sự tỉnh táo. Đầu tôi đau như muốn điên lên và kỳ lạ, cùng những suy nghĩ hỗn loạn xuất hiện trong đầu..."
 
 # game/characters/kiara/ev_1.rpy:63
@@ -267,7 +267,7 @@ translate vietnamese kiara_1_1_8958d424:
 # game/characters/kiara/ev_1.rpy:79
 translate vietnamese kiara_1_1_ae88dda0:
 
-    # kiara "Ahh... mortals..."
+    # kiara "Ahh.. mortals.."
     kiara "Ahh... người phàm..."
 
 # game/characters/kiara/ev_1.rpy:80
@@ -375,7 +375,7 @@ translate vietnamese kiara_1_2_dad453d0:
 # game/characters/kiara/ev_1.rpy:112
 translate vietnamese kiara_1_2_24bb0e45:
 
-    # me "I wouldn't..."
+    # me "I wouldn't.."
     me "Tất nhiên là không rồi..."
 
 # game/characters/kiara/ev_1.rpy:113
@@ -387,7 +387,7 @@ translate vietnamese kiara_1_2_418c7ea2:
 # game/characters/kiara/ev_1.rpy:114
 translate vietnamese kiara_1_2_5dfb3613:
 
-    # me "It's so... sick..."
+    # me "It's so.. sick.."
     me "Thật là... Đau não..."
 
 # game/characters/kiara/ev_1.rpy:117
@@ -417,24 +417,24 @@ translate vietnamese strings:
 
     # game/characters/kiara/ev_1.rpy:8
     old "She knows things about me, maybe even things I don't know about myself."
-    new "She knows things about me, maybe even things I don't know about myself."
+    new "Cô ấy biết rất nhiều về tôi, thậm chí có thể là những điều tôi không biết về bản thân mình."
 
     # game/characters/kiara/ev_1.rpy:42
     old "Kiara claims It to be terrifying beyond her imagination."
-    new "Kiara claims It to be terrifying beyond her imagination."
+    new "Kiara tuyên bố Nó đáng sợ ngoài sức tưởng tượng của cô ấy."
 
     # game/characters/kiara/ev_1.rpy:53
     old "There are many ways to resurrect, among them: miracles, awakening inside someone, replacing someone, reappearing from one's order, a loophole in time."
-    new "There are many ways to resurrect, among them: miracles, awakening inside someone, replacing someone, reappearing from one's order, a loophole in time."
+    new "Có nhiều cách để hồi sinh, trong số đó: phép màu, đánh thức bên trong ai đó, thay thế ai đó, xuất hiện trở lại theo lệnh của một thực thể, sơ hở về thời gian."
 
     # game/characters/kiara/ev_1.rpy:70
     old "Sea of Consciousness"
-    new "Sea of Consciousness"
+    new "Biển ý thức"
 
     # game/characters/kiara/ev_1.rpy:70
     old "It seems I'm resurrecting through it."
-    new "It seems I'm resurrecting through it."
+    new "Có vẻ như tôi đang sống lại nhờ nó."
 
     # game/characters/kiara/ev_1.rpy:109
     old "For some extremely potent beings just a random thought about something involving them would be like screaming right into their ears."
-    new "For some extremely potent beings just a random thought about something involving them would be like screaming right into their ears."
+    new "Đối với một số thực thể cực kỳ mạnh mẽ, chỉ cần một ý nghĩ ngẫu nhiên về điều gì đó liên quan đến họ sẽ giống như hét vào tai họ."

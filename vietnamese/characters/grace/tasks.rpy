@@ -87,7 +87,7 @@ translate vietnamese task_grace_dinner_c5c1599c:
 # game/characters/grace/tasks.rpy:56
 translate vietnamese task_grace_dinner_bf653935:
 
-    # me "Ehh..."
+    # me "Ehh.."
     me "Ehh..."
 
 # game/characters/grace/tasks.rpy:57
@@ -123,7 +123,7 @@ translate vietnamese task_grace_dinner_f6e2127e:
 # game/characters/grace/tasks.rpy:77
 translate vietnamese task_grace_dinner_cd77df1e:
 
-    # me "Easy..."
+    # me "Easy.."
     me "Bình tĩnh..."
 
 # game/characters/grace/tasks.rpy:81

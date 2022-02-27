@@ -34,7 +34,7 @@ translate vietnamese mina_2_3e29ba2e:
 translate vietnamese mina_2_dff0542d:
 
     # mina "You said you don't like my [lex_min] you liar!"
-    mina "Anh đã nói rằng bạn không thích [lex_min] của em, anh là đồ nói dối!"
+    mina "Anh đã nói rằng bạn không thích chị của em, anh là đồ nói dối!"
 
 # game/characters/mina/ev_2.rpy:16
 translate vietnamese mina_2_288f08a9:
@@ -82,7 +82,7 @@ translate vietnamese mina_2_44b7c984:
 translate vietnamese mina_2_cf69f1b1:
 
     # mina "You said that you liked my [lex_min] but I didn't expect you to be this quick!"
-    mina "Anh nói rằng anh thích [lex_min] của em nhưng em không ngờ anh lại nhanh như vậy!"
+    mina "Anh nói rằng anh thích chị của em nhưng em không ngờ anh lại nhanh như vậy!"
 
 # game/characters/mina/ev_2.rpy:33
 translate vietnamese mina_2_4e58b234:
@@ -93,7 +93,7 @@ translate vietnamese mina_2_4e58b234:
 # game/characters/mina/ev_2.rpy:36
 translate vietnamese mina_2_59bb8d80:
 
-    # mina "But to think that you'd get a kiss in such a way..."
+    # mina "But to think that you'd get a kiss in such a way.."
     mina "Nhưng nghĩ rằng anh sẽ nhận được một nụ hôn theo cách như vậy..."
 
 # game/characters/mina/ev_2.rpy:38
@@ -118,7 +118,7 @@ translate vietnamese mina_2_8dbd60cf:
 translate vietnamese mina_2_65f6aa24:
 
     # mina "That's good my [lex_min]'s man needs to have backbone."
-    mina "Tốt đấy là người đàn ông của [lex_min] em cần phải có gan."
+    mina "Tốt đấy là người đàn ông của chị em thì cần phải có gan."
 
 # game/characters/mina/ev_2.rpy:44
 translate vietnamese mina_2_3820771a:
@@ -130,7 +130,7 @@ translate vietnamese mina_2_3820771a:
 translate vietnamese mina_2_3395799e:
 
     # th "[lex_min]'s man? Backbone? Jeez, does she need to make such a buzz over a simple kiss?"
-    th "Ngqoif đàn ông của[lex_min] em? Gan? Trời đất, em ấy có cần phải đồn ầm lên như vậy chỉ bằng một nụ hôn đơn giản không?"
+    th "Người đàn ông của chị em? Gan? Trời đất, em ấy có cần phải đồn ầm lên như vậy chỉ bằng một nụ hôn đơn giản không?"
 
 # game/characters/mina/ev_2.rpy:46
 translate vietnamese mina_2_4cdc7709:
@@ -141,7 +141,7 @@ translate vietnamese mina_2_4cdc7709:
 # game/characters/mina/ev_2.rpy:47
 translate vietnamese mina_2_67ed4cdd:
 
-    # me "It was just a ki..."
+    # me "It was just a ki.."
     me "Đó chỉ là một nụ h..."
 
 # game/characters/mina/ev_2.rpy:49
@@ -153,13 +153,13 @@ translate vietnamese mina_2_cbaec1b9:
 # game/characters/mina/ev_2.rpy:50
 translate vietnamese mina_2_2e52c69c:
 
-    # me "Fine, not saying anything more..."
+    # me "Fine, not saying anything more.."
     me "Tốt thôi, không nói gì nữa..."
 
 # game/characters/mina/ev_2.rpy:52
 translate vietnamese mina_2_a15eea14:
 
-    # mina "As for the reason I'm here... soon something important will happen!"
+    # mina "As for the reason I'm here.. soon something important will happen!"
     mina "Về lý do em ở đây... là vì sẽ sớm có chuyện quan trọng xảy ra!"
 
 # game/characters/mina/ev_2.rpy:53
@@ -189,7 +189,7 @@ translate vietnamese mina_2_ca4f7f18:
 # game/characters/mina/ev_2.rpy:58
 translate vietnamese mina_2_b6cebef3:
 
-    # th "It's hard to believe that they all hide their pain looking at her... Did [lexi] lie to me or am I blind?"
+    # th "It's hard to believe that they all hide their pain looking at her.. Did [lexi] lie to me or am I blind?"
     th "Thật khó tin rằng tất cả họ đều che giấu nỗi đau của mình khi nhìn em ấy... liệu có phải [lexi] đã nói dối hay mình bị mù?"
 
 # game/characters/mina/ev_2.rpy:60
@@ -225,7 +225,7 @@ translate vietnamese mina_2_b8a525f5:
 # game/characters/mina/ev_2.rpy:67
 translate vietnamese mina_2_404c6c9a:
 
-    # mina "I don't know..."
+    # mina "I don't know.."
     mina "Em khum bít..."
 
 # game/characters/mina/ev_2.rpy:68
@@ -237,7 +237,7 @@ translate vietnamese mina_2_3b60c2c6:
 # game/characters/mina/ev_2.rpy:69
 translate vietnamese mina_2_e2229a6a:
 
-    # mina "I have no idea where we are... this city isn't exactly small."
+    # mina "I have no idea where we are.. this city isn't exactly small."
     mina "Em không biết chúng ta đang ở đâu... thành phố này cũng không hẳn là nhỏ."
 
 # game/characters/mina/ev_2.rpy:70
@@ -263,5 +263,4 @@ translate vietnamese strings:
 
     # game/characters/mina/ev_2.rpy:71
     old "She tasked me to find a golden pendant from S&M Jewellery Shop for Lexi's birthday."
-    new "She tasked me to find a golden pendant from S&M Jewellery Shop for Lexi's birthday."
-
+    new "Cô ấy đã giao nhiệm vụ cho tôi tìm một mặt dây chuyền vàng từ N&K Jewellery Shop cho ngày sinh nhật của Lexi."

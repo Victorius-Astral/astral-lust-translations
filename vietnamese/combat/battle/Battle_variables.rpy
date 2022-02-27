@@ -88,7 +88,7 @@ translate vietnamese strings:
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Cult of the Black"
-    new "Giáo phái bóng tối"
+    new "Giáo phái bóng đêm"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Outlaws"

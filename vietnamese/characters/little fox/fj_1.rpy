@@ -21,7 +21,7 @@ translate vietnamese lil_fox_fj_1_17edc541:
 # game/characters/little fox/fj_1.rpy:44
 translate vietnamese lil_fox_fj_1_ea70007b:
 
-    # lil_fox "I guess..."
+    # lil_fox "I guess.."
     lil_fox "Em đoán vậy..."
 
 # game/characters/little fox/fj_1.rpy:49
@@ -57,7 +57,7 @@ translate vietnamese lil_fox_fj_1_slow_155ce7e0:
 # game/characters/little fox/fj_1.rpy:119
 translate vietnamese lil_fox_fj_1_slow_fc221c36:
 
-    # me "Good... Keep going."
+    # me "Good.. Keep going."
     me "Tốt... tiếp tục đi."
 
 # game/characters/little fox/fj_1.rpy:120
@@ -75,7 +75,7 @@ translate vietnamese lil_fox_fj_1_fast_b5417079:
 # game/characters/little fox/fj_1.rpy:127
 translate vietnamese lil_fox_fj_1_fast_b9fb3f90:
 
-    # me "Shit. That's nice... Two is better than one."
+    # me "Shit. That's nice.. Two is better than one."
     me "Đù. Tuyệt thật... Hai vẫn tốt hơn một."
 
 # game/characters/little fox/fj_1.rpy:128
@@ -165,7 +165,7 @@ translate vietnamese lil_fox_fj_1_cum_8b90054d:
 # game/characters/little fox/fj_1.rpy:166
 translate vietnamese lil_fox_fj_1_cum_edb09b5e:
 
-    # me "Well, enjoy your... meal."
+    # me "Well, enjoy your.. meal."
     me "Chà, hãy tận hưởng... bữa ăn của em."
 
 # game/characters/little fox/fj_1.rpy:167
@@ -179,16 +179,16 @@ translate vietnamese lil_fox_fj_1_cum_ca30c183:
 translate vietnamese lil_fox_fj_1_1060c925:
 
     # lil_fox "But, how I'm supposed to eat it?"
-    lil_fox "But, how I'm supposed to eat it?"
+    lil_fox "Nhưng Em ăn kiểu gì?"
 
 # game/characters/little fox/fj_1.rpy:50
 translate vietnamese lil_fox_fj_1_dbb43a1f:
 
     # me "You have such cute feet, so of course, I do."
-    me "You have such cute feet, so of course, I do."
+    me "Em có một đôi chân dễ thương như vậy, nên tất nhiên là anh thích rồi."
 
 # game/characters/little fox/fj_1.rpy:165
 translate vietnamese lil_fox_fj_1_cum_8268cc1e:
 
     # lil_fox "It's fun. Not much food, though. You need to work harder next time."
-    lil_fox "It's fun. Not much food, though. You need to work harder next time."
+    lil_fox "Nó khá vui đấy. Tuy nhiên, không có nhiều thức ăn. Anh cần phải làm việc chăm chỉ hơn vào lần sau."

@@ -4,7 +4,7 @@
 translate vietnamese lola_1_93d68aec:
 
     # lola "So before you go, how about some quick action?"
-    lola "Vậy thì trước khi anh đi, làm nhanh vài nhay được không?"
+    lola "Vậy, trước khi anh đi, ta làm nhanh vài nhay được không?"
 
 # game/characters/lola/ev_1.rpy:10
 translate vietnamese lola_1_60395581:
@@ -75,7 +75,7 @@ translate vietnamese lola_1_472fb7eb:
 # game/characters/lola/ev_1.rpy:44
 translate vietnamese lola_1_39c14a1a:
 
-    # lola "I have specific needs, and you seem to be the man of a big... spirit, that will be able to help me."
+    # lola "I have specific needs, and you seem to be the man of a big.. spirit, that will be able to help me."
     lola "Tôi có những nhu cầu cụ thể, và anh dường như là một người đàn ông có một... tinh thần lớn, điều đó sẽ có thể giúp tôi."
 
 # game/characters/lola/ev_1.rpy:45
@@ -123,7 +123,7 @@ translate vietnamese lola_1_188b1e69:
 # game/characters/lola/ev_1.rpy:68
 translate vietnamese lola_1_1fe3a4e6:
 
-    # lola "Ahh..."
+    # lola "Ahh.."
     lola "Ahh..."
 
 # game/characters/lola/ev_1.rpy:71
@@ -159,7 +159,7 @@ translate vietnamese lola_1_sex_40a24ed3:
 # game/characters/lola/ev_1.rpy:95
 translate vietnamese lola_1_sex_53a93808:
 
-    # me "Alright..."
+    # me "Alright.."
     me "Được rồi..."
 
 # game/characters/lola/ev_1.rpy:101
@@ -231,7 +231,7 @@ translate vietnamese lola_1_sex_8b7414bc:
 # game/characters/lola/ev_1.rpy:125
 translate vietnamese lola_1_sex_87a400dc:
 
-    # me "Oh. The..."
+    # me "Oh. The.."
     me "Oh. Vậ..."
 
 # game/characters/lola/ev_1.rpy:128
@@ -267,7 +267,7 @@ translate vietnamese lola_1_sex_4d83a86e:
 # game/characters/lola/ev_1.rpy:140
 translate vietnamese lola_1_sex_7457938f:
 
-    # th "Shit, she is soaking wet..."
+    # th "Shit, she is soaking wet.."
     th "Đù, cô ấy ướt đẫm rồi..."
 
 # game/characters/lola/ev_1.rpy:141
@@ -357,7 +357,7 @@ translate vietnamese lola_1_sex_f266a8d6:
 # game/characters/lola/ev_1.rpy:177
 translate vietnamese lola_1_sex_2a85d52b:
 
-    # th "I will die..."
+    # th "I will die.."
     th "Mình chết mất..."
 
 # game/characters/lola/ev_1.rpy:185
@@ -393,7 +393,7 @@ translate vietnamese lola_1_sex_2421bf32:
 # game/characters/lola/ev_1.rpy:194
 translate vietnamese lola_1_sex_b2cd1c61:
 
-    # lola "Ah... Nice."
+    # lola "Ah.. Nice."
     lola "Ah... Nice."
 
 # game/characters/lola/ev_1.rpy:195
@@ -417,7 +417,7 @@ translate vietnamese lola_1_sex_bdcaf2ec:
 # game/characters/lola/ev_1.rpy:210
 translate vietnamese lola_1_sex_227b0c03:
 
-    # me "Huh, I was treated like... a sex toy?"
+    # me "Huh, I was treated like.. a sex toy?"
     me "Huh, mình đã bị đối xử như... một cái sex toy?"
 
 # game/characters/lola/ev_1.rpy:211
@@ -441,11 +441,10 @@ translate vietnamese strings:
 translate vietnamese lola_1_6d1765ae:
 
     # lola "So, before you go, how about some quick action?"
-    lola "So, before you go, how about some quick action?"
+    lola "Vậy, trước khi anh đi, ta làm nhanh vài nhay được không?"
 
 # game/characters/lola/ev_1.rpy:25
 translate vietnamese lola_1_8cd58a94:
 
     # th "I wonder when I'll see her again."
-    th "I wonder when I'll see her again."
-
+    th "Khồng biết khi nào mình có thể gặp cô ấy lần nữa nhỉ."

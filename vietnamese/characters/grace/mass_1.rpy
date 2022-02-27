@@ -81,7 +81,7 @@ translate vietnamese grace_mass1_e8132e2b:
 # game/characters/grace/mass_1.rpy:42
 translate vietnamese grace_mass1_1d576e55:
 
-    # th "Shit... her moans are so erotic yet innocent at the same time."
+    # th "Shit.. her moans are so erotic yet innocent at the same time."
     th "Shit... tiếng rên của em ấy thật gợi tình nhưng đồng thời cũng ngây thơ."
 
 # game/characters/grace/mass_1.rpy:43
@@ -93,7 +93,7 @@ translate vietnamese grace_mass1_0292aeb0:
 # game/characters/grace/mass_1.rpy:44
 translate vietnamese grace_mass1_2cdc3abb:
 
-    # th "Don't tell me she's about to cum..."
+    # th "Don't tell me she's about to cum.."
     th "Đừng nói là em ấy sắp ra..."
 
 # game/characters/grace/mass_1.rpy:55
@@ -105,7 +105,7 @@ translate vietnamese grace_mass1_b03adb9a:
 # game/characters/grace/mass_1.rpy:57
 translate vietnamese grace_mass1_e7535ed0:
 
-    # me "Phew... that was intense. [grace] you good?"
+    # me "Phew.. that was intense. [grace] you good?"
     me "Phew... dữ dội thật đấy. [grace] em ổn chứ?"
 
 # game/characters/grace/mass_1.rpy:58

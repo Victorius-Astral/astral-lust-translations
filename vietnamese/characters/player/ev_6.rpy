@@ -15,7 +15,7 @@ translate vietnamese main_6_b7374f55:
 # game/characters/player/ev_6.rpy:7
 translate vietnamese main_6_d69e2925:
 
-    # th "It's this library again..."
+    # th "It's this library again.."
     th "Lại là cái thư viện này..."
 
 # game/characters/player/ev_6.rpy:18
@@ -201,13 +201,13 @@ translate vietnamese main_6_part3_49af79e3:
 # game/characters/player/ev_6.rpy:74
 translate vietnamese main_6_part3_42622049:
 
-    # me "It indeed sounds... higher."
+    # me "It indeed sounds.. higher."
     me "Nó thực sự nghe... cao hơn."
 
 # game/characters/player/ev_6.rpy:76
 translate vietnamese main_6_part3_385d634b:
 
-    # kiara "Prepare the altar, you need..."
+    # kiara "Prepare the altar, you need.."
     kiara "Chuẩn bị bàn thờ, anh cần..."
 
 # game/characters/player/ev_6.rpy:77
@@ -354,4 +354,3 @@ translate vietnamese strings:
     # game/characters/player/ev_6.rpy:42
     old "Names have heavy meaning. They are beacons through which higher beings connect with the spiritual world. They can hear, locate and respond to someone calling Their name."
     new "Names have heavy meaning. They are beacons through which higher beings connect with the spiritual world. They can hear, locate and respond to someone calling Their name."
-

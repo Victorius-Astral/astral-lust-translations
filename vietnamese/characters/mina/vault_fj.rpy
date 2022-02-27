@@ -3,7 +3,7 @@
 # game/characters/mina/vault_fj.rpy:13
 translate vietnamese mina_vault_fj_c5c02f18:
 
-    # mina "Now that I think about it..."
+    # mina "Now that I think about it.."
     mina "Nói mới nhớ..."
 
 # game/characters/mina/vault_fj.rpy:14
@@ -21,7 +21,7 @@ translate vietnamese mina_vault_fj_eebf56c9:
 # game/characters/mina/vault_fj.rpy:29
 translate vietnamese mina_vault_fj_pride_bed7fbf1:
 
-    # mina "Yeeeeeah..."
+    # mina "Yeeeeeah.."
     mina "Yeeeeeah..."
 
 # game/characters/mina/vault_fj.rpy:30
@@ -45,7 +45,7 @@ translate vietnamese mina_vault_fj_pride_edcd92fd:
 # game/characters/mina/vault_fj.rpy:37
 translate vietnamese mina_vault_fj_pride_68e2af97:
 
-    # mina "Just that..."
+    # mina "Just that.."
     mina "Chỉ là..."
 
 # game/characters/mina/vault_fj.rpy:38
@@ -75,7 +75,7 @@ translate vietnamese mina_vault_fj_pride_2c8fcdcc:
 # game/characters/mina/vault_fj.rpy:46
 translate vietnamese mina_vault_fj_pride_261a1298:
 
-    # me "{small}You're a pervert...{/small} Said by the girl perving on her blue-haired friend."
+    # me "{small}You're a pervert..{/small} Said by the girl perving on her blue-haired friend."
     me "{small}Anh là một kẻ biến thái...{/small} ai nói câu này vậy? À là cái người mà muốn chịch cô bạn tóc xanh của mình."
 
 # game/characters/mina/vault_fj.rpy:51
@@ -111,7 +111,7 @@ translate vietnamese mina_vault_fj_pride_1f06da08:
 # game/characters/mina/vault_fj.rpy:60
 translate vietnamese mina_vault_fj_pride_44fcf214:
 
-    # me "Alright... You got a point."
+    # me "Alright.. You got a point."
     me "Được rồi... có lẽ em đúng đấy."
 
 # game/characters/mina/vault_fj.rpy:61
@@ -165,14 +165,14 @@ translate vietnamese mina_vault_fj_shameless_e70b3a85:
 # game/characters/mina/vault_fj.rpy:89
 translate vietnamese mina_vault_fj_shameless_691d24ca:
 
-    # me "Well, now that you got your answer..."
+    # me "Well, now that you got your answer.."
     me "Giờ thì em đã có câu trả lời cho mình rồi đấy..."
 
 # game/characters/mina/vault_fj.rpy:94
 translate vietnamese mina_vault_fj_shameless_18157b61:
 
     # mina "Don't worry, I'll play with your dick. Man you've got no backbone at all."
-    mina "Đừng lo, em sẽ chơi với thằng nhỏ của anh. Bruh Anh không có gan chút nào hết."
+    mina "Đừng lo, em sẽ chơi với thằng nhỏ của anh. Bruh, Anh không có gan chút nào hết."
 
 # game/characters/mina/vault_fj.rpy:95
 translate vietnamese mina_vault_fj_shameless_91b6db94:
@@ -183,13 +183,13 @@ translate vietnamese mina_vault_fj_shameless_91b6db94:
 # game/characters/mina/vault_fj.rpy:96
 translate vietnamese mina_vault_fj_shameless_d5826c31:
 
-    # me "Speaking of big, stiff things..."
+    # me "Speaking of big, stiff things.."
     me "Mà nói về những thứ lớn, cứng nữa..."
 
 # game/characters/mina/vault_fj.rpy:101
 translate vietnamese mina_vault_fj_shameless_089a4b77:
 
-    # mina "Ahh... Pervert."
+    # mina "Ahh.. Pervert."
     mina "Ahh... biến thái."
 
 # game/characters/mina/vault_fj.rpy:106
@@ -261,7 +261,7 @@ translate vietnamese mina_vault_fj_slow_4d585709:
 # game/characters/mina/vault_fj.rpy:125
 translate vietnamese mina_vault_fj_slow_85b03400:
 
-    # me "Well..."
+    # me "Well.."
     me "À thì..."
 
 # game/characters/mina/vault_fj.rpy:130
@@ -279,7 +279,7 @@ translate vietnamese mina_vault_fj_slow_7e8d6af1:
 # game/characters/mina/vault_fj.rpy:132
 translate vietnamese mina_vault_fj_slow_70161c0f:
 
-    # mina "I bet..."
+    # mina "I bet.."
     mina "Cá là vậy..."
 
 # game/characters/mina/vault_fj.rpy:133
@@ -327,7 +327,7 @@ translate vietnamese mina_vault_fj_slow_64178814:
 # game/characters/mina/vault_fj.rpy:143
 translate vietnamese mina_vault_fj_slow_5d8508ce:
 
-    # mina "The scariest thing is that..."
+    # mina "The scariest thing is that.."
     mina "Điều đáng sợ nhất là..."
 
 # game/characters/mina/vault_fj.rpy:144
@@ -382,7 +382,7 @@ translate vietnamese mina_vault_fj_slow_c571fd4f:
 translate vietnamese mina_vault_fj_slow_c2fde5dc:
 
     # me "I believe she'll grow up, now that her mother is not here."
-    me "Tôi tin rằng em ấy sẽ lớn lên, vì bây giờ mẹ em ấy không có ở đây."
+    me "Anh tin rằng em ấy sẽ lớn lên, vì bây giờ mẹ em ấy không có ở đây."
 
 # game/characters/mina/vault_fj.rpy:153
 translate vietnamese mina_vault_fj_slow_d8ee96c4:
@@ -405,7 +405,7 @@ translate vietnamese mina_vault_fj_slow_1111ffc8:
 # game/characters/mina/vault_fj.rpy:160
 translate vietnamese mina_vault_fj_slow_5d77d7fc:
 
-    # mina "Sure..."
+    # mina "Sure.."
     mina "Được rồi..."
 
 # game/characters/mina/vault_fj.rpy:161
@@ -435,7 +435,7 @@ translate vietnamese mina_vault_fj_slow_3820771a:
 # game/characters/mina/vault_fj.rpy:165
 translate vietnamese mina_vault_fj_slow_9686dba0:
 
-    # mina "What you're doing is not entirely wrong... I mean, at least we got to think of something better than dying in the hands of monsters."
+    # mina "What you're doing is not entirely wrong.. I mean, at least we got to think of something better than dying in the hands of monsters."
     mina "Những gì anh đang làm  cũng không hoàn toàn sai... Ý em là, ít nhất chúng ta phải nghĩ ra điều gì đó tốt hơn là chết trong tay lũ quái vật."
 
 # game/characters/mina/vault_fj.rpy:166
@@ -501,7 +501,7 @@ translate vietnamese mina_vault_fj_slow_da8a15e8:
 # game/characters/mina/vault_fj.rpy:180
 translate vietnamese mina_vault_fj_slow_7b3e0234:
 
-    # mina "I guess... I also don't feel anything towards her, although she's gorgeous."
+    # mina "I guess.. I also don't feel anything towards her, although she's gorgeous."
     mina "Em đoán... mình cũng không có cảm giác gì với em ấy, mặc dù em ấy cũng xinh."
 
 # game/characters/mina/vault_fj.rpy:181
@@ -813,95 +813,94 @@ translate vietnamese strings:
 translate vietnamese mina_vault_fj_pride_cf2acb70:
 
     # me "Still, I have my rules and standards. Not just anyone can get my interest."
-    me "Still, I have my rules and standards. Not just anyone can get my interest."
+    me "Tuy nhiên, anh vẫn có các quy tắc và tiêu chuẩn của mình. Không phải ai cũng có thể nhận được sự quan tâm của anh đâu."
 
 # game/characters/mina/vault_fj.rpy:68
 translate vietnamese mina_vault_fj_pride_f94e361c:
 
     # me "You're quite a minx, [mina]. I should slap that juicy ass of yours."
-    me "You're quite a minx, [mina]. I should slap that juicy ass of yours."
+    me "Em hư quá rồi đấy, [mina]. Anh phải tét đít mới được."
 
 # game/characters/mina/vault_fj.rpy:73
 translate vietnamese mina_vault_fj_pride_2b714ee4:
 
     # mina "Gosh, is everything you can think of related to boobs, butts, and pussies?"
-    mina "Gosh, is everything you can think of related to boobs, butts, and pussies?"
+    mina "Gớm, trong đầu anh chỉ có vú với đít thôi à?"
 
 # game/characters/mina/vault_fj.rpy:94
 translate vietnamese mina_vault_fj_shameless_c5df8732:
 
     # mina "Don't worry. I'll play with your dick. Man, you've got no backbone at all."
-    mina "Don't worry. I'll play with your dick. Man, you've got no backbone at all."
+    mina "Đừng lo, em sẽ chơi với thằng nhỏ của anh. Bruh Anh không có gan chút nào hết."
 
 # game/characters/mina/vault_fj.rpy:149
 translate vietnamese mina_vault_fj_slow_4c276094:
 
     # mina "This situation is not something a human could plot, even Grace with all her hatred towards men."
-    mina "This situation is not something a human could plot, even Grace with all her hatred towards men."
+    mina "Điều này chắc chắn không phải là thứ mà một con người có thể ủ mưu, kể cả Grace với tất cả sự căm ghét của mình đối với đàn ông cũng..."
 
 # game/characters/mina/vault_fj.rpy:150
 translate vietnamese mina_vault_fj_slow_5c41ae61:
 
     # me "She doesn't hate men. Her mother just made her think so. I don't think hatred lies in her nature at all."
-    me "She doesn't hate men. Her mother just made her think so. I don't think hatred lies in her nature at all."
+    me "Em ấy không ghét đàn ông đâu, chỉ là do em ấy bị mẹ tiêm nhiễm cái tư tưởng đó vào đầu thôi. Em không nghĩ rằng sự thù hận bắt nguồn từ bản chất của em ấy đâu."
 
 # game/characters/mina/vault_fj.rpy:151
 translate vietnamese mina_vault_fj_slow_9ec24131:
 
     # mina "Yeah, she's a good girl. It's a pity her mother did that to her. She has no common sense. She's an adult. But silly like a child."
-    mina "Yeah, she's a good girl. It's a pity her mother did that to her. She has no common sense. She's an adult. But silly like a child."
+    mina "Phải, em ấy là một cô gái ngoan. Thực sự đáng tiếc khi mẹ em ấy đã làm điều đó với em ấy. Em ấy không có ý thức chung. Dù là một người lớn, nhưng ngốc nghếch như một đứa trẻ."
 
 # game/characters/mina/vault_fj.rpy:152
 translate vietnamese mina_vault_fj_slow_d2ef1368:
 
     # me "I believe she'll grow up. Now that her mother is not here."
-    me "I believe she'll grow up. Now that her mother is not here."
+    me "Anh tin rằng em ấy sẽ trưởng thành hơn, vì bây giờ mẹ em ấy không có ở đây."
 
 # game/characters/mina/vault_fj.rpy:153
 translate vietnamese mina_vault_fj_slow_417166e0:
 
     # mina "Hopefully, it's like that."
-    mina "Hopefully, it's like that."
+    mina "Hy vọng là như vậy."
 
 # game/characters/mina/vault_fj.rpy:158
 translate vietnamese mina_vault_fj_slow_c13eb2cd:
 
     # mina "So, you do plan to do it."
-    mina "So, you do plan to do it."
+    mina "Thế, anh đã lên kế hoạch làm điều đó chưa."
 
 # game/characters/mina/vault_fj.rpy:162
 translate vietnamese mina_vault_fj_slow_f4a16e6e:
 
     # me "Just like that? You're not going to tell me not to touch her?"
-    me "Just like that? You're not going to tell me not to touch her?"
+    me "Chỉ vậy thôi á? Em sẽ không định ngăn anh tiếp xúc với em ấy sao?"
 
 # game/characters/mina/vault_fj.rpy:168
 translate vietnamese mina_vault_fj_slow_808c5357:
 
     # me "That's a harsh thing for you to say, a little bit of optimism wouldn't kill you. [mina]."
-    me "That's a harsh thing for you to say, a little bit of optimism wouldn't kill you. [mina]."
+    me "Đó là một điều khá là ác nghiệt để mà nói ra đấy, lạc quan một chút sẽ không giết em đâu. [mina]."
 
 # game/characters/mina/vault_fj.rpy:179
 translate vietnamese mina_vault_fj_slow_c18dcaeb:
 
     # me "It's not about liking her or not. I just don't feel attraction towards her."
-    me "It's not about liking her or not. I just don't feel attraction towards her."
+    me "Không phải về vấn đề anh thích hay là không, chỉ là anh không cảm thấy bị thu hút bởi em ấy."
 
 # game/characters/mina/vault_fj.rpy:197
 translate vietnamese mina_vault_fj_fast_adcb8023:
 
     # me "Hey, I'm complimenting you right now. Why be nasty?"
-    me "Hey, I'm complimenting you right now. Why be nasty?"
+    me "Này, anh đang khen em đấy, tại sao lại khó chịu chứ?"
 
 # game/characters/mina/vault_fj.rpy:205
 translate vietnamese mina_vault_fj_fast_e9a3cad6:
 
     # mina "It seems someone is in heaven right now."
-    mina "It seems someone is in heaven right now."
+    mina "Có vẻ như anh đang ở trên thiên đường rồi."
 
 # game/characters/mina/vault_fj.rpy:227
 translate vietnamese mina_vault_fj_fast_d96a650b:
 
     # mina "Mm. Hanging out with you is exciting in many ways. It's never boring."
-    mina "Mm. Hanging out with you is exciting in many ways. It's never boring."
-
+    mina "Mm. Đi chơi với anh rất thú vị theo nhiều cách khác nhau. Chả bao giờ chán cả."

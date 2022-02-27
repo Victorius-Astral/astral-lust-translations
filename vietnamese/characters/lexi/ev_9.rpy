@@ -3,7 +3,7 @@
 # game/characters/lexi/ev_9.rpy:12
 translate vietnamese lexi_9_34ff5a11:
 
-    # lexi "[me]... Let's talk about... what happened."
+    # lexi "[me].. Let's talk about.. what happened."
     lexi "[me]... Hãy nói về... Những chuyện đã xảy ra."
 
 # game/characters/lexi/ev_9.rpy:13
@@ -27,7 +27,7 @@ translate vietnamese lexi_9_c94204d9:
 # game/characters/lexi/ev_9.rpy:21
 translate vietnamese lexi_9_765bd743:
 
-    # lexi "We need to talk, about... that..."
+    # lexi "We need to talk, about.. that.."
     lexi "Chúng ta cần nói về... chuyện đó..."
 
 # game/characters/lexi/ev_9.rpy:24
@@ -57,7 +57,7 @@ translate vietnamese lexi_9_d7760fc7:
 # game/characters/lexi/ev_9.rpy:28
 translate vietnamese lexi_9_c136f971:
 
-    # me "She's right... none of us can explain what we have been through."
+    # me "She's right.. none of us can explain what we have been through."
     me "Em ấy đúng đấy... không ai trong chúng ta có thể giải thích những gì ta đã trải qua cả."
 
 # game/characters/lexi/ev_9.rpy:29
@@ -99,43 +99,43 @@ translate vietnamese lexi_9_592640b0:
 # game/characters/lexi/ev_9.rpy:45
 translate vietnamese lexi_9_54177b76:
 
-    # mina "Yeah..."
+    # mina "Yeah.."
     mina "Yeah..."
 
 # game/characters/lexi/ev_9.rpy:46
 translate vietnamese lexi_9_fe345a76:
 
-    # mina "At the same time [me] appeared among them, but he was..."
+    # mina "At the same time [me] appeared among them, but he was.."
     mina "Cùng lúc đó [me] xuất hiện giữa bọn chúng, nhưng anh ấy..."
 
 # game/characters/lexi/ev_9.rpy:51
 translate vietnamese lexi_9_e36dbf32:
 
-    # lexi "Dark... I felt pure fear when looking at him, his eyes were... They were cold... "
+    # lexi "Dark.. I felt pure fear when looking at him, his eyes were.. They were cold.. "
     lexi "Đen tối... Chị cảm thấy sợ hãi khi nhìn anh ta, đôi mắt anh ta... Chúng lạnh lẽo... "
 
 # game/characters/lexi/ev_9.rpy:56
 translate vietnamese lexi_9_421dfcdf:
 
-    # lexi "He was... like a..."
+    # lexi "He was.. like a.."
     lexi "Anh ấy... giống như một..."
 
 # game/characters/lexi/ev_9.rpy:57
 translate vietnamese lexi_9_20af17b8:
 
-    # mina "Puppet..."
+    # mina "Puppet.."
     mina "Con rối..."
 
 # game/characters/lexi/ev_9.rpy:58
 translate vietnamese lexi_9_017667c0:
 
-    # me "I wonder who he was, and why did he look like... me..."
+    # me "I wonder who he was, and why did he look like.. me..."
     me "Anh tự hỏi hắn là ai, và tại sao anh hắn trông giống như... anh..."
 
 # game/characters/lexi/ev_9.rpy:59
 translate vietnamese lexi_9_2cf171d9:
 
-    # th "Puppet... I should ask [kiara] about this, I hope she'll know something."
+    # th "Puppet.. I should ask [kiara] about this, I hope she'll know something."
     th "Con rối hử... mình nên hỏi [kiara] về điều này, mình hy vọng cô ấy sẽ biết điều gì đó."
 
 # game/characters/lexi/ev_9.rpy:61
@@ -147,7 +147,7 @@ translate vietnamese lexi_9_74e5e62c:
 # game/characters/lexi/ev_9.rpy:64
 translate vietnamese lexi_9_7ce1c7ec:
 
-    # lexi "I hope we are safe now, he sent us here after all..."
+    # lexi "I hope we are safe now, he sent us here after all.."
     lexi "Em hy vọng bây giờ chúng ta đã an toàn, dù gì đi nữa hắn đã chuyển chúng ta đến đây..."
 
 # game/characters/lexi/ev_9.rpy:65
@@ -225,19 +225,19 @@ translate vietnamese lexi_9_part2_3b24970a:
 # game/characters/lexi/ev_9.rpy:101
 translate vietnamese lexi_9_part2_8a9f5c39:
 
-    # mina "So, he..."
+    # mina "So, he.."
     mina "Vậy, anh ta..."
 
 # game/characters/lexi/ev_9.rpy:102
 translate vietnamese lexi_9_part2_40b1dc6a:
 
-    # me "Swiped his hand and we appeared back here..."
+    # me "Swiped his hand and we appeared back here.."
     me "Phẩy tay và chúng ta xuất hiện trở lại đây..."
 
 # game/characters/lexi/ev_9.rpy:103
 translate vietnamese lexi_9_part2_adee301a:
 
-    # lexi "It was like... the space itself was replaced..."
+    # lexi "It was like.. the space itself was replaced.."
     lexi "Nó giống như... chính không gian đã được thay thế..."
 
 # game/characters/lexi/ev_9.rpy:104
@@ -297,13 +297,13 @@ translate vietnamese lexi_9_part2_28444364:
 # game/characters/lexi/ev_9.rpy:119
 translate vietnamese lexi_9_part2_73b84250:
 
-    # me "What's so funny..."
+    # me "What's so funny.."
     me "Có gì mà buồn cười vậy..."
 
 # game/characters/lexi/ev_9.rpy:120
 translate vietnamese lexi_9_part2_f8cdd55a:
 
-    # th "Yeah, they are pretty resistant to all this craziness... or is this just their way of dealing with it?"
+    # th "Yeah, they are pretty resistant to all this craziness.. or is this just their way of dealing with it?"
     th "Yeah, họ khá là miễn nhiễm với mấy sự điên loạn này... hay đây chỉ là cách họ đối phó với nó?"
 
 # game/characters/lexi/ev_9.rpy:124
@@ -315,7 +315,7 @@ translate vietnamese lexi_9_part2_52f58795:
 # game/characters/lexi/ev_9.rpy:127
 translate vietnamese lexi_9_part2_2e22ac75:
 
-    # mina "No... I've never seen or heard of anything like this."
+    # mina "No.. I've never seen or heard of anything like this."
     mina "Không... em chưa bao giờ thấy hoặc nghe nói về bất cứ điều gì như thế này."
 
 # game/characters/lexi/ev_9.rpy:128
@@ -327,7 +327,7 @@ translate vietnamese lexi_9_part2_39f68dca:
 # game/characters/lexi/ev_9.rpy:129
 translate vietnamese lexi_9_part2_22991dc7:
 
-    # me "I have no idea either..."
+    # me "I have no idea either.."
     me "Anh cũng không biết..."
 
 # game/characters/lexi/ev_9.rpy:130
@@ -351,19 +351,19 @@ translate vietnamese lexi_9_part2_8fd1a8a9:
 # game/characters/lexi/ev_9.rpy:138
 translate vietnamese lexi_9_part2_2ba3e5a5:
 
-    # mina "Gosh... Why keep on torturing ourselves with something we can't understand anyway?"
+    # mina "Gosh.. Why keep on torturing ourselves with something we can't understand anyway?"
     mina "Chúa ơi... Tại sao cứ tự hành hạ bản thân bằng một thứ mà chúng ta không thể hiểu nổi?"
 
 # game/characters/lexi/ev_9.rpy:139
 translate vietnamese lexi_9_part2_5427946c:
 
-    # th "It's perfectly logical, but... isn't this approach a little too practical?"
-    th "Nó hoàn toàn hợp lý, nhưng ... không phải cách tiếp cận này hơi quá thực tế?"
+    # th "It's perfectly logical, but.. isn't this approach a little too practical?"
+    th "Nó hoàn toàn hợp lý, nhưng... không phải cách tiếp cận này hơi quá thực tế sao?"
 
 # game/characters/lexi/ev_9.rpy:140
 translate vietnamese lexi_9_part2_aa9a568d:
 
-    # me "I don't want for anything bad to happen to you as an aftereffect..."
+    # me "I don't want for anything bad to happen to you as an aftereffect.."
     me "Anh không muốn bất cứ điều gì xấu xảy ra với em..."
 
 # game/characters/lexi/ev_9.rpy:144
@@ -393,7 +393,7 @@ translate vietnamese lexi_9_part2_4d9c7cde:
 # game/characters/lexi/ev_9.rpy:148
 translate vietnamese lexi_9_part2_0a6542ba:
 
-    # th "I need to become more powerful. I don't... I can't be so helpless again. This time we got lucky, but how many times can we count on luck to save us?"
+    # th "I need to become more powerful. I don't.. I can't be so helpless again. This time we got lucky, but how many times can we count on luck to save us?"
     th "Mình cần phải trở nên mạnh mẽ hơn. Mình không... mình không thể bất lực như vậy một lần nữa. Lần này chúng ta gặp may, nhưng còn bao nhiêu lần trông chờ vào may mắn để cứu chúng ta?"
 
 # game/characters/lexi/ev_9.rpy:151
@@ -435,7 +435,7 @@ translate vietnamese lexi_9_part2_1b3c60b7:
 # game/characters/lexi/ev_9.rpy:167
 translate vietnamese lexi_9_part2_83591a9a:
 
-    # lexi "Don't joke like this..."
+    # lexi "Don't joke like this.."
     lexi "Đừng đùa như thế này..."
 
 # game/characters/lexi/ev_9.rpy:168
@@ -508,7 +508,7 @@ translate vietnamese lexi_9_part2_6c74d711:
 translate vietnamese lexi_9_part2_fd94ce89:
 
     # me "Bye, you little devil."
-    me "Bye, đồ quỷ xứ."
+    me "Bye nha."
 
 # game/characters/lexi/ev_9.rpy:187
 translate vietnamese lexi_9_part2_ea61e618:
@@ -526,11 +526,11 @@ translate vietnamese strings:
 
     # game/characters/lexi/ev_9.rpy:62
     old "I don't know"
-    new "Tôi không biết"
+    new "Anh không biết"
 
     # game/characters/lexi/ev_9.rpy:62
     old "I'm sure he was not"
-    new "Tôi chắc chắn rằng hắn không phải"
+    new "Anh chắc chắn là hắn không phải quái vật"
 
     # game/characters/lexi/ev_9.rpy:62
     old "He definitely was a monster"

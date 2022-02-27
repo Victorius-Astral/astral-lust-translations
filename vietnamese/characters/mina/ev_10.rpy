@@ -57,7 +57,7 @@ translate vietnamese mina_10_ff0fbdd6:
 # game/characters/mina/ev_10.rpy:19
 translate vietnamese mina_10_2e4c1d57:
 
-    # mina "It was alright, you know... I can't complain, it's just good we're alive."
+    # mina "It was alright, you know.. I can't complain, it's just good we're alive."
     mina "Cũng ổn, mà anh biết đấy... em không thể phàn nàn được, chỉ cần chúng ta còn sống là tốt rồi."
 
 # game/characters/mina/ev_10.rpy:20
@@ -87,7 +87,7 @@ translate vietnamese mina_10_c71c1dac:
 # game/characters/mina/ev_10.rpy:30
 translate vietnamese mina_10_2b739e4c:
 
-    # mina "Ha... Ha... Ha..."
+    # mina "Ha.. Ha... Ha..."
     mina "Ha... Ha... Ha..."
 
 # game/characters/mina/ev_10.rpy:31
@@ -177,13 +177,13 @@ translate vietnamese mina_10_4a2b01dc:
 # game/characters/mina/ev_10.rpy:63
 translate vietnamese mina_10_a2f3561f:
 
-    # mina "I know..."
+    # mina "I know.."
     mina "Em biết..."
 
 # game/characters/mina/ev_10.rpy:64
 translate vietnamese mina_10_280190aa:
 
-    # mina "I wish our parents were here..."
+    # mina "I wish our parents were here.."
     mina "Em ước gì cha mẹ của chúng ta ở đây..."
 
 # game/characters/mina/ev_10.rpy:68
@@ -201,7 +201,7 @@ translate vietnamese mina_10_87b87ebd:
 # game/characters/mina/ev_10.rpy:73
 translate vietnamese mina_10_49d89ca3:
 
-    # mina "Mean..."
+    # mina "Mean.."
     mina "Xấu tính..."
 
 # game/characters/mina/ev_10.rpy:74
@@ -243,7 +243,7 @@ translate vietnamese mina_10_817062ac:
 # game/characters/mina/ev_10.rpy:89
 translate vietnamese mina_10_da9dccfb:
 
-    # mina "I hope so. Grace can be a little dense sometimes..."
+    # mina "I hope so. Grace can be a little dense sometimes.."
     mina "Tôi cũng mong là như vậy. Đôi khi Grace có thể hơi đần độn chút..."
 
 # game/characters/mina/ev_10.rpy:90
@@ -267,7 +267,7 @@ translate vietnamese mina_10_c92549e3:
 # game/characters/mina/ev_10.rpy:96
 translate vietnamese mina_10_25e18d55:
 
-    # me "... You sure have a rich imagination." id mina_10_25e18d55
+    # me ".. You sure have a rich imagination." id mina_10_25e18d55
     me "... Em có trí tưởng tượng phong phú đấy." id mina_10_25e18d55
 
 # game/characters/mina/ev_10.rpy:100
@@ -315,7 +315,7 @@ translate vietnamese mina_10_3820771a_2:
 # game/characters/mina/ev_10.rpy:119
 translate vietnamese mina_10_4ae3c509:
 
-    # th "Well..."
+    # th "Well.."
     th "Ừ thì..."
 
 # game/characters/mina/ev_10.rpy:120
@@ -327,7 +327,7 @@ translate vietnamese mina_10_e01e5d17:
 # game/characters/mina/ev_10.rpy:124
 translate vietnamese mina_10_da805ebd:
 
-    # mina "Oh, wow. You've actually proposed to me..."
+    # mina "Oh, wow. You've actually proposed to me.."
     mina "Oh, wow. Anh đã thực sự cầu hôn em rồi đấy..."
 
 # game/characters/mina/ev_10.rpy:125
@@ -339,13 +339,13 @@ translate vietnamese mina_10_20297709:
 # game/characters/mina/ev_10.rpy:126
 translate vietnamese mina_10_e6035033:
 
-    # mina "I don't know what to say..."
+    # mina "I don't know what to say.."
     mina "Em không biết phải nói gì..."
 
 # game/characters/mina/ev_10.rpy:127
 translate vietnamese mina_10_d20e5d57:
 
-    # mina "Wow, you've really backed me into a corner..."
+    # mina "Wow, you've really backed me into a corner.."
     mina "Wow, anh đã thực sự lùi tôi vào một góc..."
 
 # game/characters/mina/ev_10.rpy:128
@@ -387,13 +387,13 @@ translate vietnamese mina_10_07951f66:
 # game/characters/mina/ev_10.rpy:145
 translate vietnamese mina_10_7e196a07:
 
-    # mina "Ummm... How about a boob job??"
+    # mina "Ummm.. How about a boob job??"
     mina "Ummm... em dùng ngực của mình thì sao nào??"
 
 # game/characters/mina/ev_10.rpy:146
 translate vietnamese mina_10_dcea1cec:
 
-    # th "Wow, she's really willing to do that..."
+    # th "Wow, she's really willing to do that.."
     th "Quào, em ấy thực sự làm điều này luôn..."
 
 # game/characters/mina/ev_10.rpy:147
@@ -405,7 +405,7 @@ translate vietnamese mina_10_4bc02b39:
 # game/characters/mina/ev_10.rpy:151
 translate vietnamese mina_10_1d340c0b:
 
-    # mina "I-I'm not ready to lose my virginity..."
+    # mina "I-I'm not ready to lose my virginity.."
     mina "E-Em chưa sẵn sàng để mất zin đâu..."
 
 # game/characters/mina/ev_10.rpy:152
@@ -417,7 +417,7 @@ translate vietnamese mina_10_91a55c21:
 # game/characters/mina/ev_10.rpy:153
 translate vietnamese mina_10_4b912240:
 
-    # mina "So... do you want to try?"
+    # mina "So.. do you want to try?"
     mina "Thế... anh vẫn muốn thử chứ?"
 
 # game/characters/mina/ev_10.rpy:154
@@ -429,7 +429,7 @@ translate vietnamese mina_10_c6b21df4:
 # game/characters/mina/ev_10.rpy:157
 translate vietnamese mina_10_e61b6640:
 
-    # mina "So... umm... Should I undress?"
+    # mina "So.. umm.. Should I undress?"
     mina "Vậy thì... Ừmmm... Em có nên cởi đồ không?"
 
 # game/characters/mina/ev_10.rpy:158
@@ -465,7 +465,7 @@ translate vietnamese mina_10_bed4524d:
 # game/characters/mina/ev_10.rpy:166
 translate vietnamese mina_10_9e6df140:
 
-    # mina "Can you not make obscene jokes right now? I'm nervous enough without them..."
+    # mina "Can you not make obscene jokes right now? I'm nervous enough without them.."
     mina "Anh có thể dừng nói mấy trò đùa tục tĩu đấy được không? Em đã đủ lo lắng khi không có chúng rồi đấy..."
 
 # game/characters/mina/ev_10.rpy:167
@@ -507,13 +507,13 @@ translate vietnamese mina_10_5cd4fa3d:
 # game/characters/mina/ev_10.rpy:183
 translate vietnamese mina_10_4f9662a5:
 
-    # me "Umnn... You don't like compliments?"
+    # me "Umnn.. You don't like compliments?"
     me "Umnn... Em không thích khen sao?"
 
 # game/characters/mina/ev_10.rpy:184
 translate vietnamese mina_10_6df7439c:
 
-    # mina "I feel awkward hearing them now..."
+    # mina "I feel awkward hearing them now.."
     mina "Em cảm thấy khó xử khi nghe chúng..."
 
 # game/characters/mina/ev_10.rpy:185
@@ -525,7 +525,7 @@ translate vietnamese mina_10_faf1ef06:
 # game/characters/mina/ev_10.rpy:186
 translate vietnamese mina_10_aad73c0f:
 
-    # mina "Haha..."
+    # mina "Haha.."
     mina "Haha..."
 
 # game/characters/mina/ev_10.rpy:193
@@ -591,7 +591,7 @@ translate vietnamese mina_10_c96cbcfa:
 # game/characters/mina/ev_10.rpy:209
 translate vietnamese mina_10_08fea473:
 
-    # mina "I guess..."
+    # mina "I guess.."
     mina "Em đoán vậy..."
 
 # game/characters/mina/ev_10.rpy:210
@@ -603,7 +603,7 @@ translate vietnamese mina_10_65278fd0:
 # game/characters/mina/ev_10.rpy:211
 translate vietnamese mina_10_354b87bc:
 
-    # mina "Mm. So, when are you going to..."
+    # mina "Mm. So, when are you going to.."
     mina "Mm. Thế khi nào anh sẽ..."
 
 # game/characters/mina/ev_10.rpy:215
@@ -633,7 +633,7 @@ translate vietnamese mina_10_d8a80f0a:
 # game/characters/mina/ev_10.rpy:222
 translate vietnamese mina_10_4d954fed:
 
-    # mina "Yes..."
+    # mina "Yes.."
     mina "Ừm..."
 
 # game/characters/mina/ev_10.rpy:226
@@ -657,7 +657,7 @@ translate vietnamese mina_10_6e5f4a01:
 # game/characters/mina/ev_10.rpy:236
 translate vietnamese mina_10_9f23f508:
 
-    # me "Ahh... that was nice."
+    # me "Ahh.. that was nice."
     me "Ahh... vừa rồi tuyệt đấy."
 
 # game/characters/mina/ev_10.rpy:237

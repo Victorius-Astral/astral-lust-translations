@@ -9,7 +9,7 @@ translate vietnamese speak_rachel_build_fe9274ca:
 # game/characters/rachel/speak_build.rpy:25
 translate vietnamese speak_rachel_build_e3b29b7c:
 
-    # me "It's nice to see you too..."
+    # me "It's nice to see you too.."
     me "Rất vui được gặp cô..."
 
 # game/characters/rachel/speak_build.rpy:30
@@ -33,8 +33,8 @@ translate vietnamese speak_rachel_build_part2_3f10cf5d:
 # game/characters/rachel/speak_build.rpy:90
 translate vietnamese speak_rachel_build_part2_4c752936:
 
-    # me "It's... bare..."
-    me "Nó... trần..."
+    # me "It's.. bare.."
+    me "Nó... trần trụi..."
 
 # game/characters/rachel/speak_build.rpy:91
 translate vietnamese speak_rachel_build_part2_88943aaf:
@@ -63,7 +63,7 @@ translate vietnamese speak_rachel_build_part2_ddd33b88:
 # game/characters/rachel/speak_build.rpy:99
 translate vietnamese speak_rachel_build_part2_82c1f4b0:
 
-    # rachel "No. While it can support me, it lacks a lot of functionality. You can say that this place lacks vitality..."
+    # rachel "No. While it can support me, it lacks a lot of functionality. You can say that this place lacks vitality.."
     rachel "Không. Mặc dù nó có thể hỗ trợ tôi, nhưng nó thiếu rất nhiều chức năng. Có thể nói nơi đây thiếu sức sống..."
 
 # game/characters/rachel/speak_build.rpy:100
@@ -153,7 +153,7 @@ translate vietnamese speak_rachel_build_part3_cd78280d:
 # game/characters/rachel/speak_build.rpy:146
 translate vietnamese speak_rachel_build_part3_95099e4b:
 
-    # me "Hmm... What's needed?"
+    # me "Hmm.. What's needed?"
     me "Hmm... Cần gì NỮA?"
 
 # game/characters/rachel/speak_build.rpy:147
@@ -297,7 +297,7 @@ translate vietnamese speak_rachel_build_part5_0c100e1d:
 # game/characters/rachel/speak_build.rpy:239
 translate vietnamese speak_rachel_build_part5_8ecbddff:
 
-    # rachel "I know where to get all the stone. But the bone..."
+    # rachel "I know where to get all the stone. But the bone.."
     rachel "Tôi biết lấy đá ở đâu. Nhưng xương..."
 
 # game/characters/rachel/speak_build.rpy:240
@@ -393,7 +393,7 @@ translate vietnamese speak_rachel_build_building_699e625f:
 # game/characters/rachel/speak_build.rpy:315
 translate vietnamese speak_rachel_build_building_90dd0c61:
 
-    # me "How...?"
+    # me "How..?"
     me "Làm thế nào...?"
 
 # game/characters/rachel/speak_build.rpy:316
@@ -489,7 +489,7 @@ translate vietnamese speak_rachel_build_building_ff2f3fe9:
 # game/characters/rachel/speak_build.rpy:342
 translate vietnamese speak_rachel_build_building_17a26be9:
 
-    # me "Another world...?"
+    # me "Another world..?"
     me "Thế giới khác...?"
 
 # game/characters/rachel/speak_build.rpy:347
@@ -573,7 +573,7 @@ translate vietnamese speak_rachel_build_building_53353a96:
 # game/characters/rachel/speak_build.rpy:364
 translate vietnamese speak_rachel_build_building_2276912b:
 
-    # me "This 'Paradise' doesn't seem like a place I would like to see..."
+    # me "This 'Paradise' doesn't seem like a place I would like to see.."
     me "'Thiên đường' này có vẻ không phải là nơi tôi muốn đến..."
 
 # game/characters/rachel/speak_build.rpy:365
@@ -627,13 +627,13 @@ translate vietnamese speak_rachel_build_building_a2d3116e:
 # game/characters/rachel/speak_build.rpy:373
 translate vietnamese speak_rachel_build_building_038f6153:
 
-    # rachel "While there are records about a few Gods dying, there are no corpses, nor divinities. Just leftover power and authority. They seem to have just vanished..."
+    # rachel "While there are records about a few Gods dying, there are no corpses, nor divinities. Just leftover power and authority. They seem to have just vanished.."
     rachel "Trong khi có ghi chép về một số vị thần bị chết, nhưng không có xác, cũng không có thần thánh. Chỉ là quyền lực và quyền hạn còn sót lại. Họ dường như vừa mới biến mất..."
 
 # game/characters/rachel/speak_build.rpy:374
 translate vietnamese speak_rachel_build_building_8c149a6e:
 
-    # me "Interesting..."
+    # me "Interesting.."
     me "Interesting..."
 
 # game/characters/rachel/speak_build.rpy:379
@@ -800,4 +800,3 @@ translate vietnamese speak_rachel_build_building_118422f9:
 
     # rachel "Alright, if you have no more questions, I would like to start working."
     rachel "Alright, if you have no more questions, I would like to start working."
-

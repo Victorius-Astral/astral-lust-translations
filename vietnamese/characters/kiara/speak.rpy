@@ -106,7 +106,7 @@ translate vietnamese kiara_menu1_19e0e2df:
 translate vietnamese kiara_menu1_ba6a2ebd:
 
     # kiara "It's impossible to describe with words. Like reciting the works of Aristotle to an amoeba. Just know that if They had human greed or desires the world would have been over long before the dawn of man."
-    kiara "Không thể diễn tả bằng lời được. Giống như kể lại các tác phẩm của Aristotle cho một con amip vậy. Chỉ cần biết rằng nếu họ có lòng tham hoặc ham muốn của con người thì thế giới đã kết thúc từ rất lâu rồi..."
+    kiara "Không thể diễn tả bằng lời được. Giống như kể lại các tác phẩm của Aristotle cho một con amip vậy. Chỉ cần biết rằng nếu họ có lòng tham hoặc ham muốn của con người thì thế giới đã kết thúc từ rất lâu rồi."
 
 # game/characters/kiara/speak.rpy:78
 translate vietnamese kiara_menu1_5663e26d:
@@ -207,7 +207,7 @@ translate vietnamese kiara_menu1_581a3617:
 # game/characters/kiara/speak.rpy:116
 translate vietnamese kiara_menu1_febda483:
 
-    # th "So... someone who used to be human started The End? What for?"
+    # th "So.. someone who used to be human started The End? What for?"
     th "Vậy,... một người từng là con người lại bắt đầu The End? Để làm gì?"
 
 # game/characters/kiara/speak.rpy:119
@@ -243,13 +243,13 @@ translate vietnamese kiara_menu1_34255d80:
 # game/characters/kiara/speak.rpy:129
 translate vietnamese kiara_menu1_3a812c28:
 
-    # me "Hmm... Apotheosis ritual... What does He need to do to complete it?"
+    # me "Hmm.. Apotheosis ritual... What does He need to do to complete it?"
     me "Hmm... Nghi thức Phong thần... Hắn cần làm gì để hoàn thành nó?"
 
 # game/characters/kiara/speak.rpy:132
 translate vietnamese kiara_menu1_c908006d:
 
-    # me "Hmm... Apotheosis ritual... What does he need to do to complete it?"
+    # me "Hmm.. Apotheosis ritual... What does he need to do to complete it?"
     me "Hmm... Nghi thức Phong thần... Hắn cần làm gì để hoàn thành nó?"
 
 # game/characters/kiara/speak.rpy:134
@@ -309,7 +309,7 @@ translate vietnamese kiara_menu1_4df69917:
 # game/characters/kiara/speak.rpy:147
 translate vietnamese kiara_menu1_25a41ee3:
 
-    # th "Common knowledge? Only for you..."
+    # th "Common knowledge? Only for you.."
     th "Common knowledge? Only for you..."
 
 # game/characters/kiara/speak.rpy:148
@@ -387,7 +387,7 @@ translate vietnamese kiara_menu1_a662ef39:
 # game/characters/kiara/speak.rpy:167
 translate vietnamese kiara_menu1_c482ce92:
 
-    # th "She sounds like a charlatan..."
+    # th "She sounds like a charlatan.."
     th "Cô ấy nói giống như lang băm vãi..."
 
 # game/characters/kiara/speak.rpy:172
@@ -447,47 +447,47 @@ translate vietnamese strings:
 
     # game/characters/kiara/speak.rpy:15
     old "Can you tell me more about extraordinary world? {gold}(Story){/gold}"
-    new "Can you tell me more about extraordinary world? {gold}(Story){/gold}"
+    new "Bạn có thể cho tôi biết thêm về thế giới được không? {gold}(Cốt truyện){/gold}"
 
     # game/characters/kiara/speak.rpy:35
     old "Footjob, and maybe something more"
-    new "Footjob, and maybe something more"
+    new "Footjob, và có thể còn nhiều hơn vậy"
 
     # game/characters/kiara/speak.rpy:44
     old "Pick outfit."
-    new "Pick outfit."
+    new "Chọn trang phục."
 
     # game/characters/kiara/speak.rpy:44
     old "Angel"
-    new "Angel"
+    new "Thiên thần"
 
     # game/characters/kiara/speak.rpy:44
     old "Party Girl"
-    new "Party Girl"
+    new "Cô gái tiệc tùng"
 
     # game/characters/kiara/speak.rpy:44
     old "Nympho"
-    new "Nympho"
+    new "Dâm nữ"
 
     # game/characters/kiara/speak.rpy:71
     old "She was born human, yet she claims to no longer be mortal."
-    new "She was born human, yet she claims to no longer be mortal."
+    new "Cô ấy được sinh ra là con người, nhưng giờ thì không còn là người nữa."
 
     # game/characters/kiara/speak.rpy:129
     old "Aharon, who is close to being a God, would crumble under a simple glance from \"Them\"."
-    new "Aharon, who is close to being a God, would crumble under a simple glance from \"Them\"."
+    new "Aharon, người gần như trở thành một vị thần, sẽ sụp đổ dưới một cái nhìn đơn giản từ \"Họ\"."
 
     # game/characters/kiara/speak.rpy:136
     old "He was a human and He still has some of His humanity remaining."
-    new "He was a human and He still has some of His humanity remaining."
+    new "Hắn là một con người và Hắn vẫn còn một số nhân tính sót lại."
 
     # game/characters/kiara/speak.rpy:147
     old "To become a God, one needs to complete an apotheosis ritual."
-    new "To become a God, one needs to complete an apotheosis ritual."
+    new "Để trở thành một vị thần, một người cần phải hoàn thành một nghi lễ phong thần."
 
     # game/characters/kiara/speak.rpy:195
     old "She seems to always know what I'm thinking about."
-    new "She seems to always know what I'm thinking about."
+    new "Cô ấy dường như luôn biết tôi đang nghĩ gì."
 
 # TODO: Translation updated at 2022-02-18 12:36
 
@@ -495,5 +495,4 @@ translate vietnamese strings:
 
     # game/characters/kiara/speak.rpy:186
     old "Pick an outfit."
-    new "Pick an outfit."
-
+    new "Chọn trang phục."

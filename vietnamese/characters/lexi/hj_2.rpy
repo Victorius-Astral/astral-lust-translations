@@ -4,7 +4,7 @@
 translate vietnamese lexi_hj_2_6d4d2f45:
 
     # "You two went to your room."
-    "Hai người vào phòng của bạn."
+    "Cả hai vào phòng của bạn."
 
 # game/characters/lexi/hj_2.rpy:16
 translate vietnamese lexi_hj_2_4776a091:
@@ -136,7 +136,7 @@ translate vietnamese lexi_hj_2_180f9cc8:
 translate vietnamese lexi_hj_2_da1fea42:
 
     # "[lexi] stops playing with your tip and changes her target to the whole of your manhood."
-    "[lexi] ngừng chơi với đầu buồi rr của bạn và thay đổi mục tiêu của sang cái cần tăng dân số của bạn."
+    "[lexi] ngừng chơi với đầu cu của bạn và thay đổi mục tiêu của sang cái cần tăng dân số của bạn."
 
 # game/characters/lexi/hj_2.rpy:70
 translate vietnamese lexi_hj_2_60813f85:
@@ -189,7 +189,7 @@ translate vietnamese lexi_hj_2_e9561509:
 # game/characters/lexi/hj_2.rpy:89
 translate vietnamese lexi_hj_2_e102db65:
 
-    # lexi "Great..."
+    # lexi "Great.."
     lexi "Tuyệt..."
 
 # game/characters/lexi/hj_2.rpy:90
@@ -287,17 +287,16 @@ translate vietnamese lexi_hj_2_3dae959c:
 translate vietnamese lexi_hj_2_14a0b818:
 
     # lexi "So, what are we going to do now?"
-    lexi "So, what are we going to do now?"
+    lexi "Thế, bây giờ chúng ta làm gì?"
 
 # game/characters/lexi/hj_2.rpy:17
 translate vietnamese lexi_hj_2_a150486f:
 
     # me "Do you even have to ask? You should start with pulling up your top."
-    me "Do you even have to ask? You should start with pulling up your top."
+    me "Em thậm chí còn phải hỏi sao? Em nên bắt đầu với việc kéo áo lên trên."
 
 # game/characters/lexi/hj_2.rpy:108
 translate vietnamese lexi_hj_2_77418f3d:
 
     # th "She's joking, isn't she? If not then that would be hot."
-    th "She's joking, isn't she? If not then that would be hot."
-
+    th "Em ấy chi đang đùa thôi phải không?."

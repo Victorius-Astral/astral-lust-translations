@@ -15,7 +15,7 @@ translate vietnamese shower_lexi_190b0568:
 # game/characters/lexi/shower.rpy:19
 translate vietnamese shower_lexi_b76ae854:
 
-    # th "She's so beautiful..."
+    # th "She's so beautiful.."
     th "Em ấy đẹp quá..."
 
 # game/characters/lexi/shower.rpy:20
@@ -45,7 +45,7 @@ translate vietnamese shower_lexi_1c5df8e2:
 # game/characters/lexi/shower.rpy:41
 translate vietnamese shower_lexi_4989fe05:
 
-    # me "I..."
+    # me "I.."
     me "Anh..."
 
 # game/characters/lexi/shower.rpy:45
@@ -69,7 +69,7 @@ translate vietnamese shower_lexi_096af15a:
 # game/characters/lexi/shower.rpy:57
 translate vietnamese shower_lexi_part2_3b2ec377:
 
-    # lexi "We have basically unlimited water here..."
+    # lexi "We have basically unlimited water here.."
     lexi "Về cơ bản chúng ta có nước không giới hạn ở đây..."
 
 # game/characters/lexi/shower.rpy:58
@@ -87,7 +87,7 @@ translate vietnamese shower_lexi_part2_c9b0da45:
 # game/characters/lexi/shower.rpy:62
 translate vietnamese shower_lexi_part2_bd2f0a5e:
 
-    # lexi "I feel you don't care about water..."
+    # lexi "I feel you don't care about water.."
     lexi "Em cảm thấy anh không quan tâm đến nước..."
 
 # game/characters/lexi/shower.rpy:63
@@ -214,13 +214,13 @@ translate vietnamese shower_lexi_part2_536d2ddf:
 translate vietnamese shower_lexi_part2_e0372e41:
 
     # lexi "Its mouth has six rows of uneven fangs, some are long, some are short, but all are razor sharp."
-    lexi "Miệng nó có sáu hàng răng nanh không đều nhau, một số dài, một số ngắn, nhưng tất cả đều sắc như dao cạo..."
+    lexi "Miệng nó có sáu hàng răng nanh không đều nhau, một số dài, một số ngắn, nhưng tất cả đều sắc như dao cạo."
 
 # game/characters/lexi/shower.rpy:102
 translate vietnamese shower_lexi_part2_f4047fa9:
 
     # lexi "It's pitch black, its skin engraved with mysterious symbols, just looking at it will make one enter a state of panic."
-    lexi "Tối đen như mực, trên da khắc những ký hiệu bí ẩn, chỉ cần nhìn vào thôi cũng khiến người ta hoảng loạn rồi..."
+    lexi "Tối đen như mực, trên da khắc những ký hiệu bí ẩn, chỉ cần nhìn vào thôi cũng khiến người ta hoảng loạn rồi."
 
 # game/characters/lexi/shower.rpy:103
 translate vietnamese shower_lexi_part2_336c6c89:
@@ -285,7 +285,7 @@ translate vietnamese shower_lexi_part2_44632c3c:
 # game/characters/lexi/shower.rpy:125
 translate vietnamese shower_lexi_part2_f6ef2138:
 
-    # lexi "Maybe later..."
+    # lexi "Maybe later.."
     lexi "Có lẽ lúc khác vậy..."
 
 # game/characters/lexi/shower.rpy:126
@@ -435,13 +435,13 @@ translate vietnamese shower_lexi_thigh_50dab845:
 # game/characters/lexi/shower.rpy:187
 translate vietnamese shower_lexi_thigh_6f1fa474:
 
-    # me "Yeah..."
+    # me "Yeah.."
     me "Yeah..."
 
 # game/characters/lexi/shower.rpy:195
 translate vietnamese shower_lexi_thigh_63ba18e1:
 
-    # lexi "Mmm..."
+    # lexi "Mmm.."
     lexi "Mmm..."
 
 # game/characters/lexi/shower.rpy:196
@@ -501,7 +501,7 @@ translate vietnamese shower_lexi_thigh_5c3997ae:
 # game/characters/lexi/shower.rpy:207
 translate vietnamese shower_lexi_thigh_b273d15b:
 
-    # me "Ah..."
+    # me "Ah.."
     me "Ah..."
 
 # game/characters/lexi/shower.rpy:210

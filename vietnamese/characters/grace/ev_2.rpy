@@ -63,7 +63,7 @@ translate vietnamese grace_2_c7182bbf:
 # game/characters/grace/ev_2.rpy:16
 translate vietnamese grace_2_1d2e65ca:
 
-    # me "I never did anything to you... did I?"
+    # me "I never did anything to you.. did I?"
     me "Anh chưa bao giờ làm bất cứ điều gì với em mà... Đúng không?"
 
 # game/characters/grace/ev_2.rpy:18
@@ -87,7 +87,7 @@ translate vietnamese grace_2_2d11311a:
 # game/characters/grace/ev_2.rpy:22
 translate vietnamese grace_2_d1dad0c1:
 
-    # th "I think I can guess what kind of woman her mother was..."
+    # th "I think I can guess what kind of woman her mother was.."
     th "Mình nghĩ mình có thể đoán được mẹ em ấy là người phụ nữ như thế nào rồi..."
 
 # game/characters/grace/ev_2.rpy:23
@@ -183,7 +183,7 @@ translate vietnamese grace_2_menu_4be56140:
 # game/characters/grace/ev_2.rpy:48
 translate vietnamese grace_2_menu_c79f2d5f:
 
-    # me "No, I just... Nevermind..." id grace_2_menu_c79f2d5f
+    # me "No, I just.. Nevermind.." id grace_2_menu_c79f2d5f
     me "Không, anh chỉ... thôi bỏ đi..." id grace_2_menu_c79f2d5f
 
 # game/characters/grace/ev_2.rpy:56
@@ -196,7 +196,7 @@ translate vietnamese grace_2_1_deea571a:
 translate vietnamese grace_2_1_5084ff6e:
 
     # grace "Yes! I love flowers! And trees and bushes and ..."
-    grace "Vâng! Em yêu hoa! Và cây cối và bụi cây (không cầm ak) và ..."
+    grace "Vâng! Em yêu hoa! Và cây cối và những bụi cây (không cầm ak) và..."
 
 # game/characters/grace/ev_2.rpy:60
 translate vietnamese grace_2_1_ee66e53f:
@@ -219,7 +219,7 @@ translate vietnamese grace_2_1_72898796:
 # game/characters/grace/ev_2.rpy:64
 translate vietnamese grace_2_1_c04272f1:
 
-    # th "Her reasoning is a bit..."
+    # th "Her reasoning is a bit.."
     th "Lý luận của em ấy hơi..."
 
 # game/characters/grace/ev_2.rpy:65
@@ -231,7 +231,7 @@ translate vietnamese grace_2_1_7ffe6199:
 # game/characters/grace/ev_2.rpy:67
 translate vietnamese grace_2_1_17c430b0:
 
-    # grace "Oh... Since I arrived at the hotel, I became friends with Alice, Lexi and Mina."
+    # grace "Oh.. Since I arrived at the hotel, I became friends with Alice, Lexi and Mina."
     grace "Oh... Kể từ khi em đến khách sạn, em đã trở thành bạn của Alice, Lexi và Mina."
 
 # game/characters/grace/ev_2.rpy:69
@@ -381,13 +381,13 @@ translate vietnamese grace_2_1_d00d2579:
 # game/characters/grace/ev_2.rpy:104
 translate vietnamese grace_2_1_848845f3:
 
-    # grace "Maybe you are not that bad after all..."
+    # grace "Maybe you are not that bad after all.."
     grace "Có lẽ rốt cuộc anh cũng không đến nỗi tệ..."
 
 # game/characters/grace/ev_2.rpy:105
 translate vietnamese grace_2_1_613fbba6:
 
-    # th "Uhh... It seems that it worked."
+    # th "Uhh.. It seems that it worked."
     th "Uhh... Có vẻ như nó đã thành công."
 
 # game/characters/grace/ev_2.rpy:107
@@ -406,7 +406,7 @@ translate vietnamese grace_2_1_3820771a_1:
 translate vietnamese grace_2_1_058ebf9d:
 
     # th "I'm done."
-    th "Cái..."
+    th "Hôm nay vậy là đủ rồi"
 
 # game/characters/grace/ev_2.rpy:110
 translate vietnamese grace_2_1_f0e36bb4:

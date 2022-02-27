@@ -27,7 +27,7 @@ translate vietnamese kiara_threesome_1_0f24edbf:
 # game/characters/kiara/threesome_1.rpy:70
 translate vietnamese kiara_threesome_1_be9c3b62:
 
-    # me "That's me..."
+    # me "That's me.."
     me "Đó là tôi mà..."
 
 # game/characters/kiara/threesome_1.rpy:71
@@ -63,7 +63,7 @@ translate vietnamese kiara_threesome_1_40723b27:
 # game/characters/kiara/threesome_1.rpy:76
 translate vietnamese kiara_threesome_1_8566f0df:
 
-    # me "You said I can leave you two..."
+    # me "You said I can leave you two.."
     me "Cô nói là tôi có thể đi..."
 
 # game/characters/kiara/threesome_1.rpy:77
@@ -75,7 +75,7 @@ translate vietnamese kiara_threesome_1_d254de82:
 # game/characters/kiara/threesome_1.rpy:78
 translate vietnamese kiara_threesome_1_f580a9e7:
 
-    # me "But you just cummed twice..."
+    # me "But you just cummed twice.."
     me "Nhưng cô vừa mới lên đỉnh tận hai lần đấy..."
 
 # game/characters/kiara/threesome_1.rpy:81
@@ -129,7 +129,7 @@ translate vietnamese kiara_threesome_1_a295f1e0:
 # game/characters/kiara/threesome_1.rpy:106
 translate vietnamese kiara_threesome_1_part2_a1d67fee:
 
-    # me "I can't believe I'm going to have a threesome with myself..."
+    # me "I can't believe I'm going to have a threesome with myself.."
     me "Éo thể tin nổi là mình chuẩn bị threesome với bản thân đấy..."
 
 # game/characters/kiara/threesome_1.rpy:107
@@ -298,7 +298,7 @@ translate vietnamese kiara_threesome_1_cum_166d9144:
 translate vietnamese kiara_threesome_1_cum_5a71fa26:
 
     # "[me]'s Image" "Ahhn!"
-    "[me] hàng phake" "Ahh... đĩ mẹ tại sao tao lại rên nhiều vậy!"
+    "[me] hàng phake" "Ahh... sao mày lại rên nhiều vậy!"
 
 # game/characters/kiara/threesome_1.rpy:161
 translate vietnamese kiara_threesome_1_cum_0bdc9f23:
@@ -345,7 +345,7 @@ translate vietnamese kiara_threesome_1_cum_be7aa58b:
 # game/characters/kiara/threesome_1.rpy:171
 translate vietnamese kiara_threesome_1_cum_14c89a04:
 
-    # th "I'm going to die today..."
+    # th "I'm going to die today.."
     th "Mình chết con mẹ nó mất..."
 
 # game/characters/kiara/threesome_1.rpy:175
@@ -357,7 +357,7 @@ translate vietnamese kiara_threesome_1_cum_26a6ed40:
 # game/characters/kiara/threesome_1.rpy:176
 translate vietnamese kiara_threesome_1_cum_8874e819:
 
-    # th "On the second thought dying doesn't sound so bad..."
+    # th "On the second thought dying doesn't sound so bad.."
     th "Mà nghĩ lại thì chết như này cũng không tệ lắm..."
 
 translate vietnamese strings:

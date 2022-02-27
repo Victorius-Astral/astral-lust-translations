@@ -33,7 +33,7 @@ translate vietnamese grace_10_49584483:
 # game/characters/grace/ev_10.rpy:23
 translate vietnamese grace_10_41a1accc:
 
-    # grace "Mommy..."
+    # grace "Mommy.."
     grace "Mommy..."
 
 # game/characters/grace/ev_10.rpy:26
@@ -45,7 +45,7 @@ translate vietnamese grace_10_d2124dde:
 # game/characters/grace/ev_10.rpy:27
 translate vietnamese grace_10_c692c428:
 
-    # th "Maybe, I shouldn't be so direct..."
+    # th "Maybe, I shouldn't be so direct.."
     th "Có lẽ, mình không nên thẳng thắn như vậy..."
 
 # game/characters/grace/ev_10.rpy:28
@@ -63,7 +63,7 @@ translate vietnamese grace_10_2da92337:
 # game/characters/grace/ev_10.rpy:37
 translate vietnamese grace_10_47ebad19:
 
-    # grace "But... Why didn't she come for me for so long?"
+    # grace "But.. Why didn't she come for me for so long?"
     grace "Nhưng ... Tại sao bà ấy lâu lắm rồi mà không đến thăm em vậy?"
 
 # game/characters/grace/ev_10.rpy:38
@@ -75,7 +75,7 @@ translate vietnamese grace_10_2a8c53a5:
 # game/characters/grace/ev_10.rpy:41
 translate vietnamese grace_10_0827d14d:
 
-    # grace "I want to see her again, so much..."
+    # grace "I want to see her again, so much.."
     grace "Em muốn gặp lại bà ấy, rất nhiều..."
 
 # game/characters/grace/ev_10.rpy:44
@@ -99,7 +99,7 @@ translate vietnamese grace_10_part2_3eecd813:
 # game/characters/grace/ev_10.rpy:51
 translate vietnamese grace_10_part2_41a1accc:
 
-    # grace "Mommy..."
+    # grace "Mommy.."
     grace "Mommy..."
 
 # game/characters/grace/ev_10.rpy:54
@@ -147,7 +147,7 @@ translate vietnamese grace_10_part2_85e1d229:
 # game/characters/grace/ev_10.rpy:65
 translate vietnamese grace_10_part2_e41d54cd:
 
-    # th "What are you? Ten years old? Ah, whatever..."
+    # th "What are you? Ten years old? Ah, whatever.."
     th "Em là gì? Mười tuổi? Àhh, sao cũng được..."
 
 # game/characters/grace/ev_10.rpy:66
@@ -159,13 +159,13 @@ translate vietnamese grace_10_part2_fca811a5:
 # game/characters/grace/ev_10.rpy:69
 translate vietnamese grace_10_part2_8787d86e:
 
-    # grace "I will play as mommy, her name is... Autumn."
+    # grace "I will play as mommy, her name is.. Autumn."
     grace "Em sẽ đóng vai mẹ, cô ấy tên là ... Autumn."
 
 # game/characters/grace/ev_10.rpy:70
 translate vietnamese grace_10_part2_87c1f437:
 
-    # me "Alright, so dad will be named..."
+    # me "Alright, so dad will be named.."
     me "Được rồi, vậy bố sẽ được đặt tên..."
 
 # game/characters/grace/ev_10.rpy:81
@@ -183,13 +183,13 @@ translate vietnamese grace_10_part2_a221b8b6:
 # game/characters/grace/ev_10.rpy:83
 translate vietnamese grace_10_part2_8bdb43c1:
 
-    # me "Wait... Why are we playing family, don't you hate men?"
+    # me "Wait.. Why are we playing family, don't you hate men?"
     me "Chờ đã ... Tại sao chúng ta chơi trò gia đình, em không ghét đàn ông sao?"
 
 # game/characters/grace/ev_10.rpy:86
 translate vietnamese grace_10_part2_50d0e182:
 
-    # grace "I do... Although, sometimes I like to think how it would be to have dad too..."
+    # grace "I do.. Although, sometimes I like to think how it would be to have dad too.."
     grace "Em có ... Mặc dù, đôi khi em muốn nghĩ rằng sẽ như thế nào nếu có bố..."
 
 # game/characters/grace/ev_10.rpy:87
@@ -207,7 +207,7 @@ translate vietnamese grace_10_part2_fdb4e830:
 # game/characters/grace/ev_10.rpy:93
 translate vietnamese grace_10_part2_5598dd04:
 
-    # grace "As for kids... We need more players, [me]."
+    # grace "As for kids.. We need more players, [me]."
     grace "Đối với trẻ em ... Chúng ta cần nhiều người chơi hơn, [me]."
 
 # game/characters/grace/ev_10.rpy:94
@@ -237,7 +237,7 @@ translate vietnamese grace_10_part2_a85a68a3:
 # game/characters/grace/ev_10.rpy:100
 translate vietnamese grace_10_part2_61288703:
 
-    # th "Don't compare me with yourself... What would I need your luck for..."
+    # th "Don't compare me with yourself.. What would I need your luck for.."
     th "Đừng so sánh anh với chính em... Anh cần sự may mắn của em để làm gì..."
 
 # game/characters/grace/ev_10.rpy:103
@@ -267,7 +267,7 @@ translate vietnamese grace_10_part2_023cee3b:
 # game/characters/grace/ev_10.rpy:109
 translate vietnamese grace_10_part2_c909e0ea:
 
-    # grace "Mm..."
+    # grace "Mm.."
     grace "Mm..."
 
 # game/characters/grace/ev_10.rpy:110
@@ -291,7 +291,7 @@ translate vietnamese grace_10_part2_1187bafd:
 # game/characters/grace/ev_10.rpy:117
 translate vietnamese grace_10_part2_b4d56f87:
 
-    # grace "I don't know how to name him..."
+    # grace "I don't know how to name him.."
     grace "Em không biết đặt tên cho anh ấy như nào..."
 
 # game/characters/grace/ev_10.rpy:118
@@ -303,7 +303,7 @@ translate vietnamese grace_10_part2_2d00636d:
 # game/characters/grace/ev_10.rpy:119
 translate vietnamese grace_10_part2_327053bb:
 
-    # th "This poor thing, she doesn't even know her father's name..."
+    # th "This poor thing, she doesn't even know her father's name.."
     th "Tội nghiệp, em ấy còn không biết tên cha mình..."
 
 # game/characters/grace/ev_10.rpy:120
@@ -345,7 +345,7 @@ translate vietnamese grace_10_part2_afbc98da:
 # game/characters/grace/ev_10.rpy:132
 translate vietnamese grace_10_part2_f29da137:
 
-    # th "I can imagine..."
+    # th "I can imagine.."
     th "Mình có thể tưởng tượng..."
 
 # game/characters/grace/ev_10.rpy:136
@@ -429,13 +429,13 @@ translate vietnamese grace_10_part2_abea540b:
 # game/characters/grace/ev_10.rpy:171
 translate vietnamese grace_10_part2_edc17e0d:
 
-    # grace "With them? I see, alright. {quiet}You're weird...{/quiet}"
+    # grace "With them? I see, alright. {quiet}You're weird..{/quiet}"
     grace "Với chúng? Em hiểu rồi, được thôi. {quiet}Anh thật kỳ lạ...{/quiet}"
 
 # game/characters/grace/ev_10.rpy:172
 translate vietnamese grace_10_part2_3adf8efc:
 
-    # th "Ah..."
+    # th "Ah.."
     th "Ah..."
 
 # game/characters/grace/ev_10.rpy:175
@@ -477,7 +477,7 @@ translate vietnamese grace_10_part2_9ddbed0c:
 # game/characters/grace/ev_10.rpy:188
 translate vietnamese grace_10_part2_0d5700a4:
 
-    # grace "I don't know what makes them special..."
+    # grace "I don't know what makes them special.."
     grace "Em không biết điều gì làm cho chúng đặc biệt đến vậy..."
 
 # game/characters/grace/ev_10.rpy:189
@@ -525,7 +525,7 @@ translate vietnamese grace_10_part2_7b6b2667:
 # game/characters/grace/ev_10.rpy:203
 translate vietnamese grace_10_part2_6f1fa474:
 
-    # me "Yeah..."
+    # me "Yeah.."
     me "Yeah..."
 
 # game/characters/grace/ev_10.rpy:204
@@ -549,7 +549,7 @@ translate vietnamese grace_10_part2_7402cda2_3:
 # game/characters/grace/ev_10.rpy:214
 translate vietnamese grace_10_part2_e0997515:
 
-    # me "Oh... You're amazing, [grace]."
+    # me "Oh.. You're amazing, [grace]."
     me "Oh... Em giỏi thật đấy, [grace]."
 
 # game/characters/grace/ev_10.rpy:215
@@ -597,19 +597,19 @@ translate vietnamese grace_10_part2_fdb4e830_1:
 # game/characters/grace/ev_10.rpy:230
 translate vietnamese grace_10_part2_e35cffe7:
 
-    # me "There..."
+    # me "There.."
     me "Ở đó..."
 
 # game/characters/grace/ev_10.rpy:231
 translate vietnamese grace_10_part2_45ea9d4f:
 
-    # me "Uh... That was great, [grace], you alright?"
+    # me "Uh.. That was great, [grace], you alright?"
     me "Uh... vừa rồi thật tuyệt, [grace], em không sao chứ?"
 
 # game/characters/grace/ev_10.rpy:234
 translate vietnamese grace_10_part2_dc1569e3:
 
-    # grace "I'm dirty..."
+    # grace "I'm dirty.."
     grace "Em bẩn..."
 
 # game/characters/grace/ev_10.rpy:235
@@ -639,7 +639,7 @@ translate vietnamese grace_10_part2_e9e16784:
 # game/characters/grace/ev_10.rpy:243
 translate vietnamese grace_10_part2_48d481bf:
 
-    # grace "Okay..."
+    # grace "Okay.."
     grace "Okay..."
 
 # game/characters/grace/ev_10.rpy:246
@@ -672,7 +672,7 @@ translate vietnamese strings:
 # game/characters/grace/ev_10.rpy:83
 translate vietnamese grace_10_part2_312e4a61:
 
-    # me "Wait... Why are we playing family? Don't you hate men?"
+    # me "Wait.. Why are we playing family? Don't you hate men?"
     me "Chờ đã... Tại sao chúng ta chơi trò gia đình? Em không ghét đàn ông sao?"
 
 # game/characters/grace/ev_10.rpy:170
@@ -690,7 +690,7 @@ translate vietnamese grace_10_part2_50958781:
 # game/characters/grace/ev_10.rpy:218
 translate vietnamese grace_10_part2_2c94258a:
 
-    # me "Do it a bit more... I'm almost there."
+    # me "Do it a bit more.. I'm almost there."
     me "Làm vậy một chút nữa... anh sắp ra rồi."
 
 # game/characters/grace/ev_10.rpy:235

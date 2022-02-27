@@ -321,6 +321,5 @@ translate spanish strings:
 translate spanish strings:
 
     # game/variables/help.rpy:3
-    old "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over. Be careful.{/color}"
-    new "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over. Be careful.{/color}"
-
+    old "{color=#45B6FE}12. If sanity reaches 0% or corruption 100% it's game over. Be careful.{/color}"
+    new "{color=#45B6FE}12. Si la cordura llega a 0% o corrupción a 100% es fin del juego. Ten cuidado.{/color}"

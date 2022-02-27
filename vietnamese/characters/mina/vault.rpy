@@ -93,7 +93,7 @@ translate vietnamese mina_vault_speak_doing_here_c4e3ee72:
 # game/characters/mina/vault.rpy:46
 translate vietnamese mina_vault_speak_doing_here_fb8c28ed:
 
-    # me "Fair point..."
+    # me "Fair point.."
     me "..."
 
 # game/characters/mina/vault.rpy:47
@@ -111,19 +111,19 @@ translate vietnamese mina_vault_speak_doing_here_277b6bb5:
 # game/characters/mina/vault.rpy:52
 translate vietnamese mina_vault_speak_doing_here_53970163:
 
-    # me "Everything is fine with me..."
+    # me "Everything is fine with me.."
     me "Mọi thứ đều ổn với anh..."
 
 # game/characters/mina/vault.rpy:53
 translate vietnamese mina_vault_speak_doing_here_18186974:
 
-    # mina "Yeah... sure..."
+    # mina "Yeah.. sure.."
     mina "Ừ... phải rồi..."
 
 # game/characters/mina/vault.rpy:54
 translate vietnamese mina_vault_speak_doing_here_b273d15b:
 
-    # me "Ah..."
+    # me "Ah.."
     me "Ah..."
 
 # game/characters/mina/vault.rpy:64
@@ -135,7 +135,7 @@ translate vietnamese mina_vault_speak_fool_around_346e0efe:
 # game/characters/mina/vault.rpy:65
 translate vietnamese mina_vault_speak_fool_around_941045ea:
 
-    # me "Hey..."
+    # me "Hey.."
     me "Ơ..."
 
 # game/characters/mina/vault.rpy:69
@@ -177,7 +177,7 @@ translate vietnamese mina_vault_speak_fool_around_2cb1a729:
 # game/characters/mina/vault.rpy:85
 translate vietnamese mina_vault_speak_fool_around_f0acea02:
 
-    # mina "Although... The thought of doing something on a pile of gold is exciting."
+    # mina "Although.. The thought of doing something on a pile of gold is exciting."
     mina "Mặc dù... cái ý tưởng làm điều gì đó trên đống vàng này thật thú vị."
 
 # game/characters/mina/vault.rpy:86
@@ -229,29 +229,28 @@ translate vietnamese strings:
 translate vietnamese mina_vault_speak_doing_here_fc457dbd:
 
     # me "Heh, what do you know?"
-    me "Heh, what do you know?"
+    me "Heh, em muốn biết gì?"
 
 # game/characters/mina/vault.rpy:38
 translate vietnamese mina_vault_speak_doing_here_458c5f89:
 
     # mina "I've never heard a more obvious lie."
-    mina "I've never heard a more obvious lie."
+    mina "Em chưa bao giờ nghe thấy lời nói dối trắng trợn hơn cái này đâu."
 
 # game/characters/mina/vault.rpy:39
 translate vietnamese mina_vault_speak_doing_here_5a189412:
 
     # me "Well, I would lie if I said, I know where this stuff came from?"
-    me "Well, I would lie if I said, I know where this stuff came from?"
+    me "Chà, sẽ là nói dối nếu anh nói mình biết đống này đến từ đâu đấy?"
 
 # game/characters/mina/vault.rpy:45
 translate vietnamese mina_vault_speak_doing_here_13dc3b2a:
 
     # mina "You have tons of gold here and don't remember from where? Mate, you must've been carrying it for days."
-    mina "You have tons of gold here and don't remember from where? Mate, you must've been carrying it for days."
+    mina "Anh có cả tấn vàng ở đây, và không nhớ từ đâu? Anh bạn à, chắc anh đã mang nó nhiều ngày lắm rồi đấy."
 
 # game/characters/mina/vault.rpy:78
 translate vietnamese mina_vault_speak_fool_around_939ad799:
 
     # mina "You're still yourself, I see."
-    mina "You're still yourself, I see."
-
+    mina "Có vẻ anh vẫn là chính mình."

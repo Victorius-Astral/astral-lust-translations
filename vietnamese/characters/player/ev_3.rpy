@@ -21,7 +21,7 @@ translate vietnamese main_3_23c718ed:
 # game/characters/player/ev_3.rpy:10
 translate vietnamese main_3_8de9100f:
 
-    # th "This dream again! It feels so real..."
+    # th "This dream again! It feels so real.."
     th "Lại Giấc mơ này! Cảm giác thật quá..."
 
 # game/characters/player/ev_3.rpy:11
@@ -99,7 +99,7 @@ translate vietnamese main_3_menu_9205a132:
 # game/characters/player/ev_3.rpy:39
 translate vietnamese main_3_menu_263c0b93:
 
-    # th "What the... just knowing his name would kill me? How is that possible?"
+    # th "What the.. just knowing his name would kill me? How is that possible?"
     th "Cái gì... chỉ cần biết tên của hắn ta sẽ giết mình sao? Hư cấu vậy?"
 
 # game/characters/player/ev_3.rpy:45
@@ -222,28 +222,26 @@ translate vietnamese strings:
 
     # game/characters/player/ev_3.rpy:24
     old "I don't have anymore questions"
-    new "I don't have anymore questions"
+    new "Tôi không còn câu hỏi nữa"
 # TODO: Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
     # game/characters/player/ev_3.rpy:26
     old "\"\"What We are is beyond your understanding, beyond your imagination and beyond your perception.\"\""
-    new "\"\"What We are is beyond your understanding, beyond your imagination and beyond your perception.\"\""
-
+    new "\"\"Những gì chúng tôi đang có là ngoài sự hiểu biết của bạn, ngoài sức tưởng tượng của bạn và ngoài nhận thức của bạn.\"\""
     # game/characters/player/ev_3.rpy:33
     old "It claims that knowing Its name alone would cause my death and madness."
-    new "It claims that knowing Its name alone would cause my death and madness."
+    new "Nó tuyên bố rằng chỉ biết tên của nó thôi sẽ gây ra cho tôi cái chết và sự điên loạn.."
 
     # game/characters/player/ev_3.rpy:46
     old "It requires us to open the gates of Mgehye'lloig from which It would rise again."
-    new "It requires us to open the gates of Mgehye'lloig from which It would rise again."
+    new "Nó yêu cầu chúng ta phải mở cánh cổng Mgehye'lloig từ đó nó sẽ sống lại."
 
     # game/characters/player/ev_3.rpy:60
     old "It was forced into eternal slumber by the Outside Gods. The same Gods want to descend again, only by reawakening It would there be a chance for salvation as It is a Pillar. Whatever that means."
-    new "It was forced into eternal slumber by the Outside Gods. The same Gods want to descend again, only by reawakening It would there be a chance for salvation as It is a Pillar. Whatever that means."
+    new "Nó bị buộc phải giấc ngủ vĩnh viễn bởi các vị thần Bên ngoài. Các vị thần muốn hạ xuống một lần nữa, chỉ bằng cách thức tỉnh lại thì mới có cơ hội cứu rỗi vì Nó là một trụ cột. Dù cho điều đó có nghĩa là gì đi nữa."
 
     # game/characters/player/ev_3.rpy:77
     old "I can resurrect through a blessing of Throdog R'luhhor. It comes with a price, though."
-    new "I can resurrect through a blessing of Throdog R'luhhor. It comes with a price, though."
-
+    new "Tôi có thể hồi sinh nhờ sự ban phước của Throdog R'luhhor. Tuy nhiên, nó đi kèm với một cái giá."

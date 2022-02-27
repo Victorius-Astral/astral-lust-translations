@@ -68,7 +68,7 @@ translate vietnamese lexi_6_abbeb781:
 # game/characters/lexi/ev_6.rpy:23
 translate vietnamese lexi_6_537e3814:
 
-    # lexi "We may die..."
+    # lexi "We may die.."
     lexi "Chúng ta có thể chết..."
 
 # game/characters/lexi/ev_6.rpy:24
@@ -87,7 +87,7 @@ translate vietnamese lexi_6_d7760fc7:
 translate vietnamese lexi_6_af095f27:
 
     # lexi "Fine, but we run for home if there is even the slightest hint of danger."
-    lexi "Tốt thôi, nhưng chúng ta sẽ chạy về nhà nếu có chút nguy hiểm..."
+    lexi "Tốt thôi, nhưng chúng ta sẽ chạy về nhà nếu có chút nguy hiểm."
 
 # game/characters/lexi/ev_6.rpy:28
 translate vietnamese lexi_6_b080f0f7:
@@ -350,13 +350,13 @@ translate vietnamese lexi_6_1_991381cd:
 # game/characters/lexi/ev_6.rpy:103
 translate vietnamese lexi_6_1_df86bf8b:
 
-    # me "It is weird though..."
+    # me "It is weird though.."
     me "Tuy nhiên, nó khá kỳ lạ..."
 
 # game/characters/lexi/ev_6.rpy:105
 translate vietnamese lexi_6_1_2290c3d2:
 
-    # lexi "It's weird..."
+    # lexi "It's weird.."
     lexi "Rất kỳ lạ..."
 
 # game/characters/lexi/ev_6.rpy:106
@@ -482,5 +482,4 @@ translate vietnamese strings:
 
     # game/characters/lexi/ev_6.rpy:120
     old "When we were on a date, she felt as if something terrible was about to happen. We returned home quickly."
-    new "When we were on a date, she felt as if something terrible was about to happen. We returned home quickly."
-
+    new "Khi bọn tôi đi chơi, cô ấy cảm thấy như thể có điều gì đó khủng khiếp sắp xảy ra. Chúng tôi trở về nhà một cách nhanh chóng."

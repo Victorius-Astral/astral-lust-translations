@@ -33,7 +33,7 @@ translate vietnamese lexi_7_1_4a68a5fe:
 # game/characters/lexi/ev_7.rpy:37
 translate vietnamese lexi_7_1_d92c10cb:
 
-    # th "Is that... [lexi]?!"
+    # th "Is that.. [lexi]?!"
     th "Có phải là... [lexi] không?!"
 
 # game/characters/lexi/ev_7.rpy:38
@@ -129,7 +129,7 @@ translate vietnamese lexi_7_3_25346a14:
 # game/characters/lexi/ev_7.rpy:102
 translate vietnamese lexi_7_3_b92f9c7e:
 
-    # me "Of course I'm strong. Those monsters don’t stand a chance against me, I'm..."
+    # me "Of course I'm strong. Those monsters don’t stand a chance against me, I'm.."
     me "Tất nhiên là anh mạnh rồi. Những con quái vật đó không có cơ hội chống lại anh, anh..."
 
 # game/characters/lexi/ev_7.rpy:104
@@ -165,7 +165,7 @@ translate vietnamese lexi_7_4_33ffb1de:
 # game/characters/lexi/ev_7.rpy:121
 translate vietnamese lexi_7_4_9b487b21:
 
-    # lexi "Not this time. I was looking for a... girl stuff."
+    # lexi "Not this time. I was looking for a.. girl stuff."
     lexi "Không phải lần này. Em đang tìm kiếm một ít... đồ con gái."
 
 # game/characters/lexi/ev_7.rpy:122
@@ -183,7 +183,7 @@ translate vietnamese lexi_7_4_6b1162f2:
 # game/characters/lexi/ev_7.rpy:125
 translate vietnamese lexi_7_4_c4c52844:
 
-    # lexi "Thanks for the help, I would be in trouble if not for you. I'll have to return the favor. Mhmm... Come inside."
+    # lexi "Thanks for the help, I would be in trouble if not for you. I'll have to return the favor. Mhmm.. Come inside."
     lexi "Cảm ơn vì sự giúp đỡ, em sẽ gặp rắc rối nếu không có anh. Em sẽ phải trả ơn. Mhmm... Vào trong đi."
 
 # game/characters/lexi/ev_7.rpy:126
@@ -449,5 +449,4 @@ translate vietnamese strings:
 
     # game/characters/lexi/ev_7.rpy:130
     old "Most monsters are territorial, it's rare to see two beasts close to one another, they would typically eliminate anything that enters their territory."
-    new "Most monsters are territorial, it's rare to see two beasts close to one another, they would typically eliminate anything that enters their territory."
-
+    new "Hầu hết quái vật đều có lãnh thổ, hiếm khi thấy hai con thú ở gần nhau, chúng thường loại bỏ bất cứ thứ gì xâm nhập vào lãnh thổ của chúng."

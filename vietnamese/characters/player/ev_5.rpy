@@ -21,7 +21,7 @@ translate vietnamese main_5_9ecc2b18:
 # game/characters/player/ev_5.rpy:10
 translate vietnamese main_5_ab634556:
 
-    # th "It always feels so real..."
+    # th "It always feels so real.."
     th "Nó luôn luôn cảm thấy rất thật..."
 
 # game/characters/player/ev_5.rpy:11
@@ -33,7 +33,7 @@ translate vietnamese main_5_99b949dd_1:
 # game/characters/player/ev_5.rpy:13
 translate vietnamese main_5_1300f80e:
 
-    # throdog "We meet once again, mortal. Like a moth flying to the flames..."
+    # throdog "We meet once again, mortal. Like a moth flying to the flames.."
     throdog "Chúng ta gặp lại nhau lần nữa rồi nhân loại. Như một con thiêu thân lao vào ngọn lửa..."
 
 # game/characters/player/ev_5.rpy:14

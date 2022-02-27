@@ -51,7 +51,7 @@ translate vietnamese lexi_2_1_4373b715:
 # game/characters/lexi/ev_2.rpy:23
 translate vietnamese lexi_2_1_911b4d65:
 
-    # lexi "Sorry..."
+    # lexi "Sorry.."
     lexi "Em rất tiếc ..."
 
 # game/characters/lexi/ev_2.rpy:24
@@ -226,7 +226,7 @@ translate vietnamese lexi_2_1a_52122a1d:
 translate vietnamese lexi_2_1a_1688a806:
 
     # lexi "Hmm... Mina wanted to help. I rejected her because it's too dangerous. Grace is well, Grace."
-    lexi "Hmm... Mina muốn giúp đỡ. Em đã từ chối em ấy vì nó quá nguy hiểm. Grace thì ..."
+    lexi "Hmm... Mina muốn giúp đỡ. Em đã từ chối em ấy vì nó quá nguy hiểm. Grace thì."
 
 # game/characters/lexi/ev_2.rpy:79
 translate vietnamese lexi_2_1a_e23b77e6:
@@ -273,7 +273,7 @@ translate vietnamese lexi_2_1a_eaac4633:
 # game/characters/lexi/ev_2.rpy:93
 translate vietnamese lexi_2_1a_b96757e3:
 
-    # th "How can she smile talking about her own death..."
+    # th "How can she smile talking about her own death.."
     th "Làm sao em ấy có thể mỉm cười khi nói về cái chết của chính mình..."
 
 # game/characters/lexi/ev_2.rpy:99
@@ -291,7 +291,7 @@ translate vietnamese lexi_2_1a_c8049230:
 # game/characters/lexi/ev_2.rpy:102
 translate vietnamese lexi_2_1a_b96757e3_1:
 
-    # th "How can she smile talking about her own death..."
+    # th "How can she smile talking about her own death.."
     th "Làm sao cô ấy có thể mỉm cười khi nói về cái chết của chính mình..."
 
 # game/characters/lexi/ev_2.rpy:111
@@ -339,7 +339,7 @@ translate vietnamese lexi_2_2_abb43b4d:
 # game/characters/lexi/ev_2.rpy:122
 translate vietnamese lexi_2_2_fbda8c62:
 
-    # lexi "The blood is still fresh... they died, at most, few hours ago."
+    # lexi "The blood is still fresh.. they died, at most, few hours ago."
     lexi "Máu vẫn còn tươi ... họ đã chết, nhiều nhất là vài giờ trước."
 
 # game/characters/lexi/ev_2.rpy:124
@@ -449,5 +449,4 @@ translate vietnamese strings:
 
     # game/characters/lexi/ev_2.rpy:67
     old "She doesn't want to talk about her parents."
-    new "She doesn't want to talk about her parents."
-
+    new "Cô ấy không muốn nói về cha mẹ của mình."

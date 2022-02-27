@@ -33,7 +33,7 @@ translate vietnamese grace_cleaning_f1a_a0eb8380:
 # game/characters/grace/cleaning.rpy:41
 translate vietnamese grace_cleaning_f1a_6851a82a:
 
-    # grace "Why are you asking...?"
+    # grace "Why are you asking..?"
     grace "Tại sao anh lại hỏi vậy...?"
 
 # game/characters/grace/cleaning.rpy:42
@@ -45,7 +45,7 @@ translate vietnamese grace_cleaning_f1a_a741086e:
 # game/characters/grace/cleaning.rpy:43
 translate vietnamese grace_cleaning_f1a_92c29431:
 
-    # grace "Well... Alice told me that, when they had just gotten here, Lexi would."
+    # grace "Well.. Alice told me that, when they had just gotten here, Lexi would."
     grace "Chà... Alice đã nói với em rằng, khi họ vừa đến đây, Lexi ngồi ở chỗ này đấy."
 
 # game/characters/grace/cleaning.rpy:44
@@ -87,7 +87,7 @@ translate vietnamese grace_cleaning_f1a_f3c1691e:
 # game/characters/grace/cleaning.rpy:59
 translate vietnamese grace_cleaning_f1a_9c4bd0c1:
 
-    # grace "Not that I remember..."
+    # grace "Not that I remember.."
     grace "Em không nhớ..."
 
 # game/characters/grace/cleaning.rpy:60
@@ -171,7 +171,7 @@ translate vietnamese grace_cleaning_f1b_7dca4aef:
 # game/characters/grace/cleaning.rpy:102
 translate vietnamese grace_cleaning_f1b_3b0ef405:
 
-    # grace "What do you mean? We are just going to clean it as any room..."
+    # grace "What do you mean? We are just going to clean it as any room.."
     grace "Ý anh là gì? Chúng ta chỉ cần dọn dẹp nó như mấy phòng khác thôi mà..."
 
 # game/characters/grace/cleaning.rpy:103
@@ -183,7 +183,7 @@ translate vietnamese grace_cleaning_f1b_7434dc03:
 # game/characters/grace/cleaning.rpy:104
 translate vietnamese grace_cleaning_f1b_8086234b:
 
-    # grace "I don't get it..."
+    # grace "I don't get it.."
     grace "Em không hiểu..."
 
 # game/characters/grace/cleaning.rpy:105
@@ -225,13 +225,13 @@ translate vietnamese grace_cleaning_f1b_7402cda2:
 # game/characters/grace/cleaning.rpy:114
 translate vietnamese grace_cleaning_f1b_1e90d75e:
 
-    # me "And if it doesn't dry properly... It ends up forming mold. And that leads to fungus, [grace]."
+    # me "And if it doesn't dry properly.. It ends up forming mold. And that leads to fungus, [grace]."
     me "Và nếu nó không được làm khô đúng cách... Nó sẽ tạo thành nấm mốc. Và điều đó dẫn đến nấm đấy [grace]."
 
 # game/characters/grace/cleaning.rpy:118
 translate vietnamese grace_cleaning_f1b_7b71b640:
 
-    # grace "Ohh..."
+    # grace "Ohh.."
     grace "Ohh..."
 
 # game/characters/grace/cleaning.rpy:119
@@ -243,7 +243,7 @@ translate vietnamese grace_cleaning_f1b_e22087af:
 # game/characters/grace/cleaning.rpy:120
 translate vietnamese grace_cleaning_f1b_40c496c7:
 
-    # grace "We could get sick..."
+    # grace "We could get sick.."
     grace "Chúng ta có thể bị ốm..."
 
 # game/characters/grace/cleaning.rpy:121
@@ -267,7 +267,7 @@ translate vietnamese grace_cleaning_f1b_2c397b75:
 # game/characters/grace/cleaning.rpy:124
 translate vietnamese grace_cleaning_f1b_2859eb1e:
 
-    # grace "And left alone, they end up ruined..."
+    # grace "And left alone, they end up ruined.."
     grace "Và bị bỏ đấy, rồi chúng sẽ hỏng..."
 
 # game/characters/grace/cleaning.rpy:125
@@ -381,7 +381,7 @@ translate vietnamese grace_cleaning_f2a_3e0a0ca0:
 # game/characters/grace/cleaning.rpy:163
 translate vietnamese grace_cleaning_f2a_aa23db04:
 
-    # me "I never thought of it..."
+    # me "I never thought of it.."
     me "Anh chưa bao giờ nghĩ về việc đó cả..."
 
 # game/characters/grace/cleaning.rpy:164
@@ -411,13 +411,13 @@ translate vietnamese grace_cleaning_f2a_70d428b4:
 # game/characters/grace/cleaning.rpy:171
 translate vietnamese grace_cleaning_f2a_3fdb2b7e:
 
-    # th "Yeah... Could've expected this."
+    # th "Yeah.. Could've expected this."
     th "Yeah... Mình cũng đã lường trước điều này rồi."
 
 # game/characters/grace/cleaning.rpy:174
 translate vietnamese grace_cleaning_f2a_ef78831e:
 
-    # th "Let's just hope she doesn't find [alice] in my bed...'"
+    # th "Let's just hope she doesn't find [alice] in my bed..'"
     th "Hãy mong là em ấy không tìm thấy [alice] trên giường của mình đi..."
 
 # game/characters/grace/cleaning.rpy:178
@@ -621,13 +621,13 @@ translate vietnamese grace_cleaning_lobbya_07b79967:
 # game/characters/grace/cleaning.rpy:264
 translate vietnamese grace_cleaning_lobbya_48862eef:
 
-    # grace "You all are venturing out often, bringing a lot of dirt. It's very messy outside..."
+    # grace "You all are venturing out often, bringing a lot of dirt. It's very messy outside.."
     grace "Tất cả mọi người thường xuyên ra ngoài, mang theo rất nhiều bụi bẩn. VÌ bên ngoài rất lộn xộn..."
 
 # game/characters/grace/cleaning.rpy:265
 translate vietnamese grace_cleaning_lobbya_84cfb7d2:
 
-    # me "Oh... Never thought of that. Sorry about dirtying the floor."
+    # me "Oh.. Never thought of that. Sorry about dirtying the floor."
     me "Oh... Anh còn không để tâm đến luôn đấy. Xin lỗi vì làm bẩn sàn nhà."
 
 # game/characters/grace/cleaning.rpy:266
@@ -675,7 +675,7 @@ translate vietnamese grace_cleaning_lobbya_77486076:
 # game/characters/grace/cleaning.rpy:276
 translate vietnamese grace_cleaning_lobbya_f392e810:
 
-    # me "Ok, then it may be me... But what does it have to do with my coat?"
+    # me "Ok, then it may be me.. But what does it have to do with my coat?"
     me "Ok, thì nó có thể là anh... Nhưng nó liên quan gì đến áo khoác của anh?"
 
 # game/characters/grace/cleaning.rpy:277
@@ -711,19 +711,19 @@ translate vietnamese grace_cleaning_lobbya_0fe0d384:
 # game/characters/grace/cleaning.rpy:282
 translate vietnamese grace_cleaning_lobbya_d2882e3f:
 
-    # th "I feel surreal right now... Am I going crazy or is it [grace]?"
+    # th "I feel surreal right now.. Am I going crazy or is it [grace]?"
     th "Mình thấy lú quá... Mình đang phát điên hay là tại [grace]?"
 
 # game/characters/grace/cleaning.rpy:283
 translate vietnamese grace_cleaning_lobbya_3147d1e9:
 
-    # me "The coat is fine, [grace]... It's just a normal clothing... Thank you for worrying."
+    # me "The coat is fine, [grace].. It's just a normal clothing.. Thank you for worrying."
     me "Cái áo khoác ổn mà [grace]... Đó chỉ là một cái trang phục bình thường thôi... Cảm ơn em đã lo lắng."
 
 # game/characters/grace/cleaning.rpy:284
 translate vietnamese grace_cleaning_lobbya_604dd0e3:
 
-    # th "I don't remember from where I've got it, though..."
+    # th "I don't remember from where I've got it, though.."
     th "Nhưng, mình không nhớ là nó được lấy ở đâu..."
 
 # game/characters/grace/cleaning.rpy:289
@@ -807,7 +807,7 @@ translate vietnamese grace_cleaning_lobbyb_a170fca6:
 # game/characters/grace/cleaning.rpy:324
 translate vietnamese grace_cleaning_lobbyb_6bd81f9f:
 
-    # grace "I guess... But can't we just watch movies in her room?"
+    # grace "I guess.. But can't we just watch movies in her room?"
     grace "... Nhưng chúng ta chỉ cần xem phim trong phòng của chị ấy là được mà?"
 
 # game/characters/grace/cleaning.rpy:325
@@ -825,13 +825,13 @@ translate vietnamese grace_cleaning_lobbyb_3d04923f:
 # game/characters/grace/cleaning.rpy:327
 translate vietnamese grace_cleaning_lobbyb_312a2ce0:
 
-    # grace "Well, I guess it wouldn't be bad... I haven't really prepared popcorn before."
-    grace "Vậy chắc cũng tốt...      ."
+    # grace "Well, I guess it wouldn't be bad.. I haven't really prepared popcorn before."
+    grace "Vậy chắc cũng tốt..."
 
 # game/characters/grace/cleaning.rpy:328
 translate vietnamese grace_cleaning_lobbyb_8706f07c:
 
-    # me "Ah, we could actually get that... I doubt it's high in the list of priorities for scavengers."
+    # me "Ah, we could actually get that.. I doubt it's high in the list of priorities for scavengers."
     me "Ah, chúng ta thực sự có thể đạt được điều đó... Anh nghi ngờ nó nằm trong danh sách ưu tiên của những người nhặt đồ."
 
 # game/characters/grace/cleaning.rpy:332
@@ -861,7 +861,7 @@ translate vietnamese grace_cleaning_lobbyb_7402cda2:
 # game/characters/grace/cleaning.rpy:339
 translate vietnamese grace_cleaning_lobbyb_35138234:
 
-    # grace "But wouldn't it be dangerous to watch movies in the night...? I don't want to be in the lobby at that time."
+    # grace "But wouldn't it be dangerous to watch movies in the night..? I don't want to be in the lobby at that time."
     grace "Nhưng có nguy hiểm không nếu xem phim trong đêm...? Em không muốn ở sảnh vào lúc đó."
 
 # game/characters/grace/cleaning.rpy:340
@@ -897,7 +897,7 @@ translate vietnamese grace_cleaning_lobbyb_fdb4e830:
 # game/characters/grace/cleaning.rpy:345
 translate vietnamese grace_cleaning_lobbyb_2aedea7a:
 
-    # me "*Sigh* Or we can just build it as a separate room..."
+    # me "*Sigh* Or we can just build it as a separate room.."
     me "*Thở dài* Hoặc chúng ta có thể xây nó như một căn phòng riêng biệt..."
 
 # game/characters/grace/cleaning.rpy:349
@@ -946,7 +946,7 @@ translate vietnamese grace_cleaning_f1a_1ba53d41:
 # game/characters/grace/cleaning.rpy:102
 translate vietnamese grace_cleaning_f1b_3cc847ff:
 
-    # grace "What do you mean? We are just going to clean it like any room..."
+    # grace "What do you mean? We are just going to clean it like any room.."
     grace "Ý anh là gì? Chúng ta chỉ cần dọn nó như những phòng khác thôi mà..."
 
 # game/characters/grace/cleaning.rpy:123
@@ -976,7 +976,7 @@ translate vietnamese grace_cleaning_f2a_f166c519:
 # game/characters/grace/cleaning.rpy:171
 translate vietnamese grace_cleaning_f2a_277164f5:
 
-    # th "Yeah... Could've expected that."
+    # th "Yeah.. Could've expected that."
     th "Mình cũng đoán được phần nào rồi."
 
 # game/characters/grace/cleaning.rpy:201
@@ -1006,13 +1006,13 @@ translate vietnamese grace_cleaning_lobbya_4e49d942:
 # game/characters/grace/cleaning.rpy:282
 translate vietnamese grace_cleaning_lobbya_b0bacab3:
 
-    # th "I feel surreal right now... Am I going crazy, or is it [grace]?"
+    # th "I feel surreal right now.. Am I going crazy, or is it [grace]?"
     th "Mình cảm thấy kỳ quái quá... mình đang phát điên, hay là [grace]?"
 
 # game/characters/grace/cleaning.rpy:283
 translate vietnamese grace_cleaning_lobbya_8bc4c501:
 
-    # me "The coat is fine, [grace]... It's just normal clothing... Thank you for worrying."
+    # me "The coat is fine, [grace].. It's just normal clothing.. Thank you for worrying."
     me "Cái áo khoác ổn mà, [grace]... nó chỉ là một món đồ bình thường thôi... cảm ơn em vì đã lo lắng."
 
 # game/characters/grace/cleaning.rpy:301
@@ -1024,7 +1024,7 @@ translate vietnamese grace_cleaning_lobbyb_022dd3cd:
 # game/characters/grace/cleaning.rpy:328
 translate vietnamese grace_cleaning_lobbyb_f79d451f:
 
-    # me "Ah, we could get that... I doubt it's high in the list of priorities for scavengers."
+    # me "Ah, we could get that.. I doubt it's high in the list of priorities for scavengers."
     me "Ah, chúng ta có thể lấy được đấy... anh nghi là nó nằm trong danh sách ưu tiên của những người kiếm đồ."
 
 # game/characters/grace/cleaning.rpy:342

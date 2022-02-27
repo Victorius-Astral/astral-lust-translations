@@ -48,7 +48,7 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}8. Some events have other conditions like having other girl affection above some value.{/color}"
-    new "{color=#45B6FE}8. Một số sự kiện có các điều kiện khác như cần mức độ tình cảm của cô gái lớn hơn .{/color}"
+    new "{color=#45B6FE}8. Một số sự kiện có các điều kiện khác như cần mức độ yêu mến của cô gái lớn hơn .{/color}"
 
     # game/variables/help.rpy:3
     old "9. Every girl can have only one story event any given day."
@@ -63,8 +63,8 @@ translate vietnamese strings:
     new "11. Bạn có thể mở rộng khách sạn của mình tại quầy ở sảnh, xây dựng kho tiền nhanh nhất có thể để lưu trữ các vật liệu bạn tìm thấy."
 
     # game/variables/help.rpy:3
-    old "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over, be careful.{/color}"
-    new "{color=#45B6FE}12. Nếu sự tỉnh táo còn 0\\% hoặc sự xa đọa đạt 100% thì trò chơi kết thúc rồi, hãy cẩn thận.{/color}"
+    old "{color=#45B6FE}12. If sanity reaches 0% or corruption 100% it's game over, be careful.{/color}"
+    new "{color=#45B6FE}12. Nếu sự tỉnh táo còn 0% hoặc sự xa đọa đạt 100% thì trò chơi kết thúc rồi, hãy cẩn thận.{/color}"
 
     # game/variables/help.rpy:3
     old "13. You can find collectibles to unlock additional pictures on pc. Look for golden condoms and condom packs."
@@ -251,4 +251,3 @@ translate vietnamese strings:
     # game/variables/help.rpy:3
     old "Here you can.. store things! Surprising, I know."
     new "Here you can.. store things! Surprising, I know."
-

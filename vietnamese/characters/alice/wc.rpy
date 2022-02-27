@@ -9,7 +9,7 @@ translate vietnamese wc_alice_140e23eb:
 # game/characters/alice/wc.rpy:17
 translate vietnamese wc_alice_c27fabf8:
 
-    # th "Should I re... Ohh..."
+    # th "Should I re.. Ohh.."
     th "Mình có nê... Ohh..."
 
 # game/characters/alice/wc.rpy:20
@@ -45,7 +45,7 @@ translate vietnamese wc_alice_ff74becb:
 # game/characters/alice/wc.rpy:34
 translate vietnamese wc_alice_eb463745:
 
-    # alice "But I'm using a toilet..."
+    # alice "But I'm using a toilet.."
     alice "Nhưng em đang sử dụng toilet mà..."
 
 # game/characters/alice/wc.rpy:35
@@ -213,7 +213,7 @@ translate vietnamese wc_alice_3820771a_1:
 # game/characters/alice/wc.rpy:91
 translate vietnamese wc_alice_437bdac6:
 
-    # th "I've pissed her a lot now..."
+    # th "I've pissed her a lot now.."
     th "Mình đã chọc em ấy rất nhiều rồi..."
 
 # game/characters/alice/wc.rpy:97
@@ -231,7 +231,7 @@ translate vietnamese wc_alice_5385b15a:
 # game/characters/alice/wc.rpy:102
 translate vietnamese wc_alice_704fc0ff:
 
-    # me "I'm sor..."
+    # me "I'm sor.."
     me "Anh xi..."
 
 # game/characters/alice/wc.rpy:104
@@ -261,7 +261,7 @@ translate vietnamese wc_alice_menu1_74f05a4e:
 # game/characters/alice/wc.rpy:125
 translate vietnamese wc_alice_menu1_7192fee5:
 
-    # alice "You're so indecisive..."
+    # alice "You're so indecisive.."
     alice "Anh thật thiếu quyết đoán..."
 
 # game/characters/alice/wc.rpy:128
@@ -309,7 +309,7 @@ translate vietnamese wc_alice_anal_9bc2bc8d:
 # game/characters/alice/wc.rpy:147
 translate vietnamese wc_alice_anal_19e9ba92:
 
-    # me "You're lame..."
+    # me "You're lame.."
     me "Em mới chán đấy..."
 
 # game/characters/alice/wc.rpy:168
@@ -339,7 +339,7 @@ translate vietnamese wc_alice_anal_d8a80f0a:
 # game/characters/alice/wc.rpy:178
 translate vietnamese wc_alice_anal_7b0e5233:
 
-    # alice "Yes~ I love this feeling. You're indeed filling me to the brim..."
+    # alice "Yes~ I love this feeling. You're indeed filling me to the brim.."
     alice "Vâng~ Em thích cảm giác này. anh thực sự lấp đầy em..."
 
 # game/characters/alice/wc.rpy:185
@@ -363,7 +363,7 @@ translate vietnamese wc_alice_anal_1a002905:
 # game/characters/alice/wc.rpy:194
 translate vietnamese wc_alice_anal_8bd24074:
 
-    # me "You're such a good girl..."
+    # me "You're such a good girl.."
     me "Em đúng là một cô gái ngoan..."
 
 # game/characters/alice/wc.rpy:195
@@ -441,7 +441,7 @@ translate vietnamese wc_alice_anal_988469f3:
 # game/characters/alice/wc.rpy:219
 translate vietnamese wc_alice_anal_5fbffdab:
 
-    # alice "Ahh... So good..."
+    # alice "Ahh... So good.."
     alice "Ahh... Thật truyệt..."
 
 # game/characters/alice/wc.rpy:226
@@ -459,7 +459,7 @@ translate vietnamese wc_alice_anal_d2c5eb61:
 # game/characters/alice/wc.rpy:228
 translate vietnamese wc_alice_anal_dd9636c7_1:
 
-    # me "Ahh..."
+    # me "Ahh.."
     me "Ahh..."
 
 # game/characters/alice/wc.rpy:231
@@ -477,7 +477,7 @@ translate vietnamese wc_alice_anal_9dc4fbb6:
 # game/characters/alice/wc.rpy:233
 translate vietnamese wc_alice_anal_9538ef88:
 
-    # alice "Hm... I'm happy with you too."
+    # alice "Hm.. I'm happy with you too."
     alice "Hm... em cũng hạnh phúc với anh nữa."
 
 # game/characters/alice/wc.rpy:234

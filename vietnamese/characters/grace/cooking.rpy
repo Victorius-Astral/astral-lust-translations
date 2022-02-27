@@ -16,7 +16,7 @@ translate vietnamese grace_cooking_902d2d17:
 translate vietnamese grace_cooking_topic1_7e06229a:
 
     # me "So, what do you prefer [grace]? Meat or fish?"
-    me "Vậy thì, em thích gì hơn [grace]? Thịt hay cá?"
+    me "Vậy thì, [grace], em thích cái nào hơn? Thịt hay cá?"
 
 # game/characters/grace/cooking.rpy:33
 translate vietnamese grace_cooking_topic1_da42486b:
@@ -82,7 +82,7 @@ translate vietnamese grace_cooking_topic1_18c297e9:
 translate vietnamese grace_cooking_topic1_acd9b01c:
 
     # me "Yes. It's about price. Back then meat was something luxurious, and fish was the food of the poor."
-    me "Đúng. Đó là về giá cả. Hồi đó thịt là thứ xa xỉ, còn cá là thức ăn của người nghèo..."
+    me "Đúng. Đó là về giá cả. Hồi đó thịt là thứ xa xỉ, còn cá là thức ăn của người nghèo."
 
 # game/characters/grace/cooking.rpy:47
 translate vietnamese grace_cooking_topic1_3f3028fc:
@@ -231,7 +231,7 @@ translate vietnamese grace_cooking_topic2_0972a896:
 # game/characters/grace/cooking.rpy:91
 translate vietnamese grace_cooking_topic2_e6a33ceb:
 
-    # grace "Well, I needed water to make it. And I grabbed this one bottle..."
+    # grace "Well, I needed water to make it. And I grabbed this one bottle.."
     grace "Em cần nước để tạo ra nó. Và em chộp lấy một chai này..."
 
 # game/characters/grace/cooking.rpy:92
@@ -243,7 +243,7 @@ translate vietnamese grace_cooking_topic2_2930e26f:
 # game/characters/grace/cooking.rpy:96
 translate vietnamese grace_cooking_topic2_20ab3cef:
 
-    # grace "It wasn't water... It was soda."
+    # grace "It wasn't water.. It was soda."
     grace "Đó không phải là nước... Đó là soda."
 
 # game/characters/grace/cooking.rpy:97
@@ -279,7 +279,7 @@ translate vietnamese grace_cooking_topic2_9f45b2ee:
 # game/characters/grace/cooking.rpy:108
 translate vietnamese grace_cooking_topic2_cf5deb18:
 
-    # me "... My help wasn't {i}nice{/i} at all though. We got to this point where she asked me to pass her the sugar..."
+    # me "... My help wasn't {i}nice{/i} at all though. We got to this point where she asked me to pass her the sugar.."
     me "... Nhưng sự giúp đỡ của anh không {i}tốt{/i} chút nào. Anh đến chỗ mà mẹ bảo anh lấy cho bà ấy đường..."
 
 # game/characters/grace/cooking.rpy:112
@@ -423,7 +423,7 @@ translate vietnamese grace_cooking_topic3_f0a33565:
 # game/characters/grace/cooking.rpy:155
 translate vietnamese grace_cooking_topic3_37513b1a:
 
-    # me "It's hard enough to find these now. Probably way too difficult to produce..."
+    # me "It's hard enough to find these now. Probably way too difficult to produce.."
     me "Thật khó để tìm thấy những thứ này bây giờ. Có lẽ quá khó để sản xuất..."
 
 # game/characters/grace/cooking.rpy:156
@@ -447,7 +447,7 @@ translate vietnamese grace_cooking_topic3_5027598b:
 # game/characters/grace/cooking.rpy:162
 translate vietnamese grace_cooking_topic3_04b621cb:
 
-    # grace "That was only when i was little. When I grew up, she let me use the kitchen. I got to ice cream recently... before The End."
+    # grace "That was only when i was little. When I grew up, she let me use the kitchen. I got to ice cream recently.. before The End."
     grace "Đó là khi em còn nhỏ thôi. Khi em lớn lên, mẹ cho em sử dụng nhà bếp. Và em đã ăn kem gần đây... trước khi The End."
 
 # game/characters/grace/cooking.rpy:163
@@ -477,7 +477,7 @@ translate vietnamese grace_cooking_topic3_b52c54c7:
 # game/characters/grace/cooking.rpy:167
 translate vietnamese grace_cooking_topic3_422cf818:
 
-    # grace "She said she liked everything I cooked, so I'm not really sure..."
+    # grace "She said she liked everything I cooked, so I'm not really sure.."
     grace "Bà ấy nói rằng bà thích mọi thứ em nấu, vì vậy em không thực sự chắc..."
 
 # game/characters/grace/cooking.rpy:168
@@ -495,7 +495,7 @@ translate vietnamese grace_cooking_topic3_e4be3c89:
 # game/characters/grace/cooking.rpy:172
 translate vietnamese grace_cooking_topic3_6631ebe2:
 
-    # th "...The apple didn't fall far from the tree."
+    # th "..The apple didn't fall far from the tree."
     th "...Mẹ nào con nấy."
 
 # game/characters/grace/cooking.rpy:178
@@ -539,7 +539,7 @@ translate vietnamese grace_cooking_topic1_f2a95ae0:
 translate vietnamese grace_cooking_topic1_2e498c30:
 
     # me "Yes. It's about price. Back then, meat was something luxurious, and fish was the food of the poor."
-    me "Đúng. Đó là về giá cả. Hồi đó, thịt là thứ gì đó xa xỉ, còn cá là thức ăn của người nghèo..."
+    me "Đúng. Đó là về giá cả. Hồi đó, thịt là thứ gì đó xa xỉ, còn cá là thức ăn của người nghèo."
 
 # game/characters/grace/cooking.rpy:84
 translate vietnamese grace_cooking_topic2_6d0a5df2:
@@ -550,7 +550,7 @@ translate vietnamese grace_cooking_topic2_6d0a5df2:
 # game/characters/grace/cooking.rpy:108
 translate vietnamese grace_cooking_topic2_59875a56:
 
-    # me "... My help wasn't {i}nice{/i} at all, though. We got to this point where she asked me to pass her the sugar..."
+    # me ".. My help wasn't {i}nice{/i} at all, though. We got to this point where she asked me to pass her the sugar.."
     me "... Sự giúp đỡ của anh không {i}tốt{/i} một chút nào hết. Anh đến chỗ mà mẹ yêu cầu anh lấy cho bà ấy đường..."
 
 # game/characters/grace/cooking.rpy:119
@@ -574,5 +574,5 @@ translate vietnamese grace_cooking_topic3_abf4c51a:
 # game/characters/grace/cooking.rpy:162
 translate vietnamese grace_cooking_topic3_79a287c0:
 
-    # grace "That was only when I was little. When I grew up, she let me use the kitchen. I got to ice cream recently... before The End."
+    # grace "That was only when I was little. When I grew up, she let me use the kitchen. I got to ice cream recently.. before The End."
     grace "Đó chỉ là khi em còn nhỏ. Khi em lớn lên, mẹ cho en sử dụng nhà bếp. Em đã ăn kem gần đây... trước The End."

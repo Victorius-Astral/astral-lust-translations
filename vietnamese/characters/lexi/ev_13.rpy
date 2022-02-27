@@ -21,7 +21,7 @@ translate vietnamese lexi_13_ed6c3713:
 # game/characters/lexi/ev_13.rpy:21
 translate vietnamese lexi_13_4436d4fa:
 
-    # lexi "Hmm..."
+    # lexi "Hmm.."
     lexi "Hmm..."
 
 # game/characters/lexi/ev_13.rpy:25
@@ -75,7 +75,7 @@ translate vietnamese lexi_13_4aafb1cf:
 # game/characters/lexi/ev_13.rpy:36
 translate vietnamese lexi_13_85a526eb:
 
-    # me "Haha... Sure, you can ask them."
+    # me "Haha.. Sure, you can ask them."
     me "Haha... Chắc chắn rồi, em có thể hỏi họ."
 
 # game/characters/lexi/ev_13.rpy:37
@@ -196,7 +196,7 @@ translate vietnamese lexi_13_kill_10c07e91:
 translate vietnamese lexi_13_kill_a0b9fa4f:
 
     # bandit_leader "Fuck! Mat's been hurt!"
-    bandit_leader "Địt mẹ! Mat bị thương!"
+    bandit_leader "Địt mẹ! Mat bị thương rồi!"
 
 # game/characters/lexi/ev_13.rpy:105
 translate vietnamese lexi_13_kill_eeb19c2f:
@@ -249,7 +249,7 @@ translate vietnamese lexi_13_hostage_93d62226:
 # game/characters/lexi/ev_13.rpy:124
 translate vietnamese lexi_13_hostage_43534c77:
 
-    # lexi "Uh..."
+    # lexi "Uh.."
     lexi "Uh..."
 
 # game/characters/lexi/ev_13.rpy:125
@@ -262,13 +262,13 @@ translate vietnamese lexi_13_hostage_2a6aef3b:
 translate vietnamese lexi_13_hostage_37713a1e:
 
     # bandit_leader "In your dreams. I'm going to shove your legs up your ass."
-    bandit_leader "Mơ đi. Tao sẽ lấy chân của mày và đút đít của mày."
+    bandit_leader "Đừng có mơ. Tao sẽ lấy chân mày và đút đít của mày."
 
 # game/characters/lexi/ev_13.rpy:127
 translate vietnamese lexi_13_hostage_6bbc7042:
 
     # me "Shut up or he's gonna die. Drop your fucking weapons!"
-    me "Im đi nếu không tên này sẽ chết. Bỏ vũ khí xuống!"
+    me "Im đi nếu không tên này sẽ chết đấy. Bỏ vũ khí xuống nhanh lên mấy thằng lồn!"
 
 # game/characters/lexi/ev_13.rpy:128
 translate vietnamese lexi_13_hostage_eb17b9ac:
@@ -292,18 +292,18 @@ translate vietnamese lexi_13_hostage_0020d3c6:
 translate vietnamese lexi_13_hostage_abd70994:
 
     # bandit "What the fuck are you waiting for?! Drop them!"
-    bandit "Mày đang đợi cái đéo gì vậy ?! Bỏ xuông đi!"
+    bandit "Mày đang đợi cái đéo gì vậy?! Bỏ xuông đi!"
 
 # game/characters/lexi/ev_13.rpy:132
 translate vietnamese lexi_13_hostage_15740777:
 
     # me "Listen to your friend, and drop your weapons."
-    me "Lắng nghe bạn mày và thả vũ khí xuống."
+    me "Lắng nghe bạn mày và thả vũ khí xuống đi."
 
 # game/characters/lexi/ev_13.rpy:133
 translate vietnamese lexi_13_hostage_04a3f046:
 
-    # bandit_leader "..."
+    # bandit_leader ".."
     bandit_leader "..."
 
 # game/characters/lexi/ev_13.rpy:139
@@ -315,8 +315,8 @@ translate vietnamese lexi_13_hostage_cecc8475:
 # game/characters/lexi/ev_13.rpy:140
 translate vietnamese lexi_13_hostage_779320d1:
 
-    # bandit "Thank God..."
-    bandit "Cảm ơn chúa..."
+    # bandit "Thank God.."
+    bandit "Tạ ơn chúa..."
 
 # game/characters/lexi/ev_13.rpy:144
 translate vietnamese lexi_13_hostage_b599a838:
@@ -328,12 +328,12 @@ translate vietnamese lexi_13_hostage_b599a838:
 translate vietnamese lexi_13_hostage_e452d551:
 
     # me "I will. Lexi take our stuff and their weapons."
-    me "Tao sẽ. Lexi lấy đồ của chúng ta và vũ khí của chúng."
+    me "Tao sẽ. Lexi, em hãy lấy đồ của chúng ta và vũ khí của chúng."
 
 # game/characters/lexi/ev_13.rpy:146
 translate vietnamese lexi_13_hostage_04a3f046_1:
 
-    # bandit_leader "..."
+    # bandit_leader ".."
     bandit_leader "..."
 
 # game/characters/lexi/ev_13.rpy:147
@@ -358,7 +358,7 @@ translate vietnamese lexi_13_hostage_63e4526a:
 translate vietnamese lexi_13_hostage_067b653e:
 
     # bandit "They did what you wanted!"
-    bandit "Họ đã làm những gì bạn muốn!"
+    bandit "Họ đã làm những gì mày muốn rồi đấy!"
 
 # game/characters/lexi/ev_13.rpy:160
 translate vietnamese lexi_13_hostage_74300a1b:
@@ -399,7 +399,7 @@ translate vietnamese lexi_13_hostage_7c24eab8:
 # game/characters/lexi/ev_13.rpy:176
 translate vietnamese lexi_13_hostage_bffe34ab:
 
-    # bandit "Ahh..."
+    # bandit "Ahh.."
     bandit "Ahh..."
 
 # game/characters/lexi/ev_13.rpy:180
@@ -411,7 +411,7 @@ translate vietnamese lexi_13_hostage_27fc8a4e:
 # game/characters/lexi/ev_13.rpy:189
 translate vietnamese lexi_13_win_b273d15b:
 
-    # me "Ah..."
+    # me "Ah.."
     me "Ah..."
 
 # game/characters/lexi/ev_13.rpy:190
@@ -549,7 +549,7 @@ translate vietnamese lexi_13_lose_c819c3f2:
 # game/characters/lexi/ev_13.rpy:247
 translate vietnamese lexi_13_lose_8a63a88f:
 
-    # lexi "Wake up! [me]! You're too heavy... You made me do this..."
+    # lexi "Wake up! [me]! You're too heavy.. You made me do this..."
     lexi "Dậy đi! [me]! Anh quá nặng... Anh đã bắt em làm điều này..."
 
 # game/characters/lexi/ev_13.rpy:248
@@ -639,7 +639,7 @@ translate vietnamese lexi_13_lose_0fcd93cc:
 # game/characters/lexi/ev_13.rpy:265
 translate vietnamese lexi_13_lose_a480b1b4:
 
-    # me "I've had worse days..."
+    # me "I've had worse days.."
     me "Anh đã có những ngày tồi tệ hơn..."
 
 # game/characters/lexi/ev_13.rpy:266
@@ -657,7 +657,7 @@ translate vietnamese lexi_13_lose_ecd768ba:
 # game/characters/lexi/ev_13.rpy:268
 translate vietnamese lexi_13_lose_b1584052:
 
-    # me "Let me stand up..."
+    # me "Let me stand up.."
     me "Để anh đứng lên đã..."
 
 # game/characters/lexi/ev_13.rpy:272
@@ -735,17 +735,16 @@ translate vietnamese strings:
 translate vietnamese lexi_13_dbc642e8:
 
     # lexi "No, that's not it. I've never felt safe before, so I didn't have time to consider life."
-    lexi "No, that's not it. I've never felt safe before, so I didn't have time to consider life."
+    lexi "Không phải như vậy. Trước đây em chưa bao giờ cảm thấy an toàn, vì vậy nên em không có thời gian để xem xét cuộc sống."
 
 # game/characters/lexi/ev_13.rpy:55
 translate vietnamese lexi_13_29a08d4d:
 
     # me "Why is everything still fresh? I don't get it. It should be all rotten a long time already."
-    me "Why is everything still fresh? I don't get it. It should be all rotten a long time already."
+    me "Tại sao mọi thứ vẫn tươi mới vậy? Đáng ra chúng phải bị thối rữa từ lâu rồi chứ."
 
 # game/characters/lexi/ev_13.rpy:236
 translate vietnamese lexi_13_escape_c43eafaa:
 
     # lexi "All they do every day is drink and smoke. No way they're going to catch us."
-    lexi "All they do every day is drink and smoke. No way they're going to catch us."
-
+    lexi "Tất cả những gì chúng làm hàng ngày là uống cần và hút rượu. Không đời nào chúng bắt được ta đâu."

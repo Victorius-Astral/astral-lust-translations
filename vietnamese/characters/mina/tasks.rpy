@@ -71,5 +71,4 @@ translate vietnamese task_mina_tidyup_8c9a7caf:
 translate vietnamese task_mina_tidyup_5bae54d3:
 
     # mina "Here, it's not a lot, but it's not little either."
-    mina "Here, it's not a lot, but it's not little either."
-
+    mina "Đây. Không hăn là nhiều, nhưng cũng không phải là ít."

@@ -82,7 +82,7 @@ translate vietnamese alice_cunn1_8fda8a83:
 translate vietnamese alice_cunn1_50b23672:
 
     # th "Shit, I wish I could fuck her right now!"
-    th "Đạ mấu... Mình ước gì mình có thể đụ em ấy ngay bây giờ!"
+    th "Đạ mấu, Mình ước gì mình có thể đụ em ấy ngay bây giờ!"
 
 # game/characters/alice/cunn_1.rpy:67
 translate vietnamese alice_cunn1_42c3730b:
