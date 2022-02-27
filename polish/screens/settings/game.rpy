@@ -54,10 +54,6 @@ translate polish strings:
     old "Debug Mode"
     new "Debug Mode"
 
-    # game/screens/settings/game.rpy:45
-    old "Other"
-    new "Other"
-
     # game/screens/settings/game.rpy:46
     old "Show tutorials"
     new "Show tutorials"
@@ -221,4 +217,3 @@ translate polish strings:
     # game/screens/settings/game.rpy:137
     old "Center"
     new "Center"
-

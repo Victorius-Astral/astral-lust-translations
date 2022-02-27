@@ -179,10 +179,10 @@ translate vietnamese mina_vault_cunn_75f16f80:
 translate vietnamese mina_vault_cunn_a0224e59:
 
     # me "I will. You'll beg me not to stop."
-    me "I will. You'll beg me not to stop."
+    me "Em sẽ cầu xin anh đừng dừng lại đấy."
 
 # game/characters/mina/vault_cunn.rpy:18
 translate vietnamese mina_vault_cunn_58774000:
 
     # mina "I'll take your word for it. No one is going to hear us here, so I can let myself go wild."
-    mina "I'll take your word for it. No one is going to hear us here, so I can let myself go wild."
+    mina "Tự tin đấy. Sẽ không có ai nghe thấy chúng ta ở đây, nên em muốn hét to như nào cũng được."

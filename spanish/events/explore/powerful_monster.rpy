@@ -190,7 +190,7 @@ translate spanish exp_powerful_monster_3f71c4ca:
 translate spanish exp_powerful_monster_6ccf3a36:
 
     # "You take a look around to see if there are any places you can move to."
-    "Échas un vistazo a tu alrededor para ver si hay algún lugar al que puedas moverte."
+    "Echas un vistazo a tu alrededor para ver si hay algún lugar al que puedas moverte."
 
 # game/events/explore/powerful_monster.rpy:100
 translate spanish exp_powerful_monster_08fdf84a:

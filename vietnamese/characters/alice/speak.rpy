@@ -1345,11 +1345,11 @@ translate vietnamese strings:
     new "Anh có một số câu hỏi."
 
     # game/characters/alice/speak.rpy:43
-    old "Give antibiotics"
+    old "Give antibiotics {#visible}"
     new "Cho thuốc kháng sinh"
 
     # game/characters/alice/speak.rpy:43
-    old "Use extraordinary abilities"
+    old "Use extraordinary abilities {#visible}"
     new "Sử dụng khả năng phi thường"
 
     # game/characters/alice/speak.rpy:43

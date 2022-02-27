@@ -653,11 +653,11 @@ translate vietnamese strings:
 
     # game/characters/mina/speak.rpy:154
     old "The hotel was under construction before The End. There is a lot of unoccupied space I can use to expand the community."
-    new "The hotel was under construction before The End. There is a lot of unoccupied space I can use to expand the community."
+    new "Khách sạn đã được xây dựng trước The End. Có rất nhiều không gian trống mà mình có thể sử dụng để mở rộng."
 
     # game/characters/mina/speak.rpy:161
     old "She likes pink."
-    new "She likes pink."
+    new "Cô ấy thích màu hồng."
 
 # TODO: Translation updated at 2022-02-16 09:38
 
@@ -665,16 +665,16 @@ translate vietnamese strings:
 translate vietnamese mina_menu1_82625435:
 
     # me "Go on." id mina_menu1_82625435
-    me "Go on." id mina_menu1_82625435
+    me "Tiếp đi." id mina_menu1_82625435
 
 # game/characters/mina/speak.rpy:65
 translate vietnamese mina_menu1_d5ee4fc2:
 
     # mina "Wait a bit." id mina_menu1_d5ee4fc2
-    mina "Wait a bit." id mina_menu1_d5ee4fc2
+    mina "Đợi chút." id mina_menu1_d5ee4fc2
 
 # game/characters/mina/speak.rpy:169
 translate vietnamese mina_menu2_3b37abd1:
 
     # me "It seems someone is in the mood for jokes." id mina_menu2_3b37abd1
-    me "It seems someone is in the mood for jokes." id mina_menu2_3b37abd1
+    me "Có vẻ như ai đó đang có tâm trạng để đùa này." id mina_menu2_3b37abd1

@@ -771,8 +771,8 @@ translate polish grace_nightmare_part4_0c650e21:
 # game/characters/grace/nightmare.rpy:318
 translate polish grace_nightmare_part4_8c74e0e2:
 
-    # me "You were drooling one me.."
-    me "You were drooling one me.."
+    # me "You were drooling on me.."
+    me "You were drooling on me.."
 
 # game/characters/grace/nightmare.rpy:322
 translate polish grace_nightmare_part4_075100b6:
@@ -1091,4 +1091,3 @@ translate polish strings:
     # game/characters/grace/nightmare.rpy:422
     old "It's safe, I can finally sleep"
     new "It's safe, I can finally sleep"
-

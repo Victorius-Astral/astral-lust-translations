@@ -214,7 +214,7 @@ translate spanish exp_orcs_slaves_win_7dad308e:
 translate spanish exp_orcs_slaves_win_cd43dd31:
 
     # woman "Aggh!"
-    woman "Aggh!"
+    woman "¡Aggh!"
 
 # game/events/explore/orcs_slaves.rpy:94
 translate spanish exp_orcs_slaves_win_317bdc2b:

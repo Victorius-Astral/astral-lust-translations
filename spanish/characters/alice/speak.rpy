@@ -880,14 +880,14 @@ translate spanish strings:
 
     # game/characters/alice/speak.rpy:21
     old "I have some questions."
-    new "Tengonunas preguntas."
+    new "Tengo unas preguntas."
 
     # game/characters/alice/speak.rpy:31
-    old "Give antibiotics"
+    old "Give antibiotics {#visible}"
     new "Dar antibióticos"
 
     # game/characters/alice/speak.rpy:31
-    old "Use extraordinary abilities"
+    old "Use extraordinary abilities {#visible}"
     new "Usa habilidades extraordinarias"
 
     # game/characters/alice/speak.rpy:31

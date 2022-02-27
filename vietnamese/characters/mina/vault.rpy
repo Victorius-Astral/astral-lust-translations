@@ -229,28 +229,28 @@ translate vietnamese strings:
 translate vietnamese mina_vault_speak_doing_here_fc457dbd:
 
     # me "Heh, what do you know?"
-    me "Heh, what do you know?"
+    me "Heh, em muốn biết gì?"
 
 # game/characters/mina/vault.rpy:38
 translate vietnamese mina_vault_speak_doing_here_458c5f89:
 
     # mina "I've never heard a more obvious lie."
-    mina "I've never heard a more obvious lie."
+    mina "Em chưa bao giờ nghe thấy lời nói dối trắng trợn hơn cái này đâu."
 
 # game/characters/mina/vault.rpy:39
 translate vietnamese mina_vault_speak_doing_here_5a189412:
 
     # me "Well, I would lie if I said, I know where this stuff came from?"
-    me "Well, I would lie if I said, I know where this stuff came from?"
+    me "Chà, sẽ là nói dối nếu anh nói mình biết đống này đến từ đâu đấy?"
 
 # game/characters/mina/vault.rpy:45
 translate vietnamese mina_vault_speak_doing_here_13dc3b2a:
 
     # mina "You have tons of gold here and don't remember from where? Mate, you must've been carrying it for days."
-    mina "You have tons of gold here and don't remember from where? Mate, you must've been carrying it for days."
+    mina "Anh có cả tấn vàng ở đây, và không nhớ từ đâu? Anh bạn à, chắc anh đã mang nó nhiều ngày lắm rồi đấy."
 
 # game/characters/mina/vault.rpy:78
 translate vietnamese mina_vault_speak_fool_around_939ad799:
 
     # mina "You're still yourself, I see."
-    mina "You're still yourself, I see."
+    mina "Có vẻ anh vẫn là chính mình."

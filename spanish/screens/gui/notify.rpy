@@ -10,3 +10,15 @@ translate spanish strings:
     old "Test of {} #{r}."
     new "Test of {} #{r}."
 
+# TODO: Translation updated at 2022-02-26 14:57
+
+translate spanish strings:
+
+    # game/screens/gui/notify.rpy:67
+    old "Dark - Black"
+    new "Dark - Black"
+
+    # game/screens/gui/notify.rpy:67
+    old "Dark - Paper"
+    new "Dark - Paper"
+

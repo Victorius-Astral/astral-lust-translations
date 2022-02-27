@@ -9,3 +9,11 @@ translate vietnamese strings:
     # game/updates/loading/update_version.rpy:88
     old "Apply patch: "
     new "Sử dụng bản vá: "
+# TODO: Translation updated at 2022-02-26 15:07
+
+translate vietnamese strings:
+
+    # game/updates/loading/update_version.rpy:75
+    old "Save update finished."
+    new "Save update finished."
+

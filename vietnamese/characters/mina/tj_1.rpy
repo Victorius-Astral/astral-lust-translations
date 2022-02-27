@@ -191,16 +191,16 @@ translate vietnamese mina_tj_1_de0b4b41:
 translate vietnamese mina_tj_1_415e94a2:
 
     # "[mina] starts to move her breasts keep your penis in their soft embrace."
-    "[mina] starts to move her breasts keep your penis in their soft embrace."
+    "[mina] bắt đầu di chuyển, ngực cô ấy giữ dương vật của bạn trong vòng tay mềm mại của cặp ngực."
 
 # game/characters/mina/tj_1.rpy:55
 translate vietnamese mina_tj_1_6a218955:
 
     # me "Ahhh. You're doing a really good job, [mina]."
-    me "Ahhh. You're doing a really good job, [mina]."
+    me "Ahhh. Em đang làm tốt lắm, [mina]."
 
 # game/characters/mina/tj_1.rpy:69
 translate vietnamese mina_tj_1_02ade31f:
 
     # me "Yeah, I want to see you covered in my cum."
-    me "Yeah, I want to see you covered in my cum."
+    me "Yeah, anh muốn nhìn thấy em được bao phủ trong tinh của anh."

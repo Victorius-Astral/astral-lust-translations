@@ -208,13 +208,13 @@ translate vietnamese lola_doggy_bed02dbd:
 translate vietnamese lola_doggy_bdcaf2ec:
 
     # lola "Great, now that I'm satisfied, it's time for you to go."
-    lola "Tuyệt, bây giờ tôi đã hài lòng, đến lúc anh phải đi rồi."
+    lola "Tốt lắm, bây giờ tôi đã hài lòng, đến lúc anh phải đi rồi đấy."
 
 # game/characters/lola/doggy.rpy:107
 translate vietnamese lola_doggy_227b0c03:
 
     # me "Huh, I was treated like.. a sex toy?"
-    me "Huh, mình đã bị đối xử như ... một cái sex toy?"
+    me "Huh, mình vừa bị đối xử như... một cái sex toy sao?"
 
 # game/characters/lola/doggy.rpy:108
 translate vietnamese lola_doggy_3820771a_3:

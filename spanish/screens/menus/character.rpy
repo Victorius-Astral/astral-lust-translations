@@ -2,10 +2,6 @@
 
 translate spanish strings:
 
-    # game/screens/menus/character.rpy:23
-    old "{color=#FFD700}--- State ---{/color}"
-    new "{color=#FFD700}--- Estado ---{/color}"
-
     # game/screens/menus/character.rpy:27
     old "{color=#A71930}Health{/color} - how much damage you can take.\n\n{color=#C6E2FF}Spirituality{/color} - consumed when using cards in combat. Recovers at the beginning of new turn."
     new "{color=#A71930}Salud{/color} - cuanto daño puede recibir.\n\n{color=#C6E2FF}Espiritualidad{/color} - consumido cuando se usan cartas en combate. Recuperado en nuevo turno"
@@ -106,8 +102,8 @@ translate spanish strings:
     new "{b}{u}{color=#E4CA48}Suerte{/color}{/b}{/u}\n{small}Aumenta posibilidad de buenas cartas., disminuye la posibilidad de encontrarse con oponentes fuertes. Aumentada con códigos de Discord o comerciando con ciertos seres.{/small}"
 
     # game/screens/menus/character.rpy:45
-    old "{gold}--- State ---{/gold}"
-    new "{gold}--- Estado ---{/gold}"
+    old "State"
+    new "Estado"
 
     # game/screens/menus/character.rpy:53
     old "{color=#d26a6a}Health:{/color}"
@@ -118,20 +114,20 @@ translate spanish strings:
     new "{color=#d26a6a}[player.hp]/[player.hp_max]{/color}"
 
     # game/screens/menus/character.rpy:55
-    old "\n{gold}--- Mental State ---{/gold}"
-    new "\n{gold}--- Estado Mental ---{/gold}"
+    old "Mental State"
+    new "Estado Mental"
 
     # game/screens/menus/character.rpy:65
-    old "\n{gold}--- Physical Stats ---{/gold}"
-    new "\n{gold}--- Estadísticas Físicas ---{/gold}"
+    old "Physical Stats"
+    new "Estadísticas Físicas"
 
     # game/screens/menus/character.rpy:75
-    old "\n{gold}--- Mental Stats ---{/gold}"
-    new "\n{gold}--- Estadísticas Mentales ---{/gold}"
+    old "Mental Stats"
+    new "Estadísticas Mentales"
 
     # game/screens/menus/character.rpy:85
-    old "\n{gold}--- Other ---{/gold}"
-    new "\n{gold}--- Otro ---{/gold}"
+    old "Other"
+    new "Otro"
 
     # game/screens/menus/character.rpy:93
     old "Luck:"
@@ -142,5 +138,5 @@ translate spanish strings:
     new "[player.luck]"
 
     # game/screens/menus/character.rpy:99
-    old "\n{gold}--- Buffs ---{/gold}"
-    new "\n{gold}--- Buffs ---{/gold}"
+    old "Buffs"
+    new "Buffs"

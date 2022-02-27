@@ -23,8 +23,8 @@ translate vietnamese strings:
     new "{b}{u}{color=#E4CA48}May mắn{/color}{/b}{/u}\n{small}Tăng cơ hội nhận được bài tốt, giảm cơ hội gặp đối thủ mạnh. Tăng với các mã từ Discord hoặc bằng cách giao dịch với một số thực thể nhất định.{/small}"
 
     # game/screens/menus/character.rpy:45
-    old "{gold}--- State ---{/gold}"
-    new "{gold}--- Trạng thái ---{/gold}"
+    old "State"
+    new "Trạng thái"
 
     # game/screens/menus/character.rpy:53
     old "{color=#d26a6a}Health:{/color}"
@@ -35,8 +35,8 @@ translate vietnamese strings:
     new "{color=#d26a6a}[player.hp]/[player.hp_max]{/color}"
 
     # game/screens/menus/character.rpy:55
-    old "\n{gold}--- Mental State ---{/gold}"
-    new "\n{gold}--- Trạng thái tinh thần ---{/gold}"
+    old "Mental State"
+    new "Trạng thái tinh thần"
 
     # game/screens/menus/character.rpy:63
     old "Sanity:\nCorruption:"
@@ -47,8 +47,8 @@ translate vietnamese strings:
     new "[player.sanity]%\n[player.corruption]%"
 
     # game/screens/menus/character.rpy:65
-    old "\n{gold}--- Physical Stats ---{/gold}"
-    new "\n{gold}--- Physical Stats ---{/gold}"
+    old "Physical Stats"
+    new "Chỉ số vật lý"
 
     # game/screens/menus/character.rpy:73
     old "Strength:\nAgility:\nVitality:"
@@ -59,8 +59,8 @@ translate vietnamese strings:
     new "[player.strength]\n[player.agility]\n[player.vitality]"
 
     # game/screens/menus/character.rpy:75
-    old "\n{gold}--- Mental Stats ---{/gold}"
-    new "\n{gold}--- Chỉ số tinh thần ---{/gold}"
+    old "Mental Stats"
+    new "Chỉ số tinh thần"
 
     # game/screens/menus/character.rpy:83
     old "Intelligence:\nWisdom:\nCharisma:"
@@ -71,8 +71,8 @@ translate vietnamese strings:
     new "[player.intelligence]\n[player.wisdom]\n[player.charisma]"
 
     # game/screens/menus/character.rpy:85
-    old "\n{gold}--- Other ---{/gold}"
-    new "\n{gold}--- Khác ---{/gold}"
+    old "Other"
+    new "Khác"
 
     # game/screens/menus/character.rpy:93
     old "Luck:"
@@ -83,5 +83,5 @@ translate vietnamese strings:
     new "[player.luck]"
 
     # game/screens/menus/character.rpy:99
-    old "\n{gold}--- Buffs ---{/gold}"
-    new "\n{gold}--- Buffs ---{/gold}"
+    old "Buffs"
+    new "Buffs"

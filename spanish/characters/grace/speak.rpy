@@ -4,67 +4,67 @@
 translate spanish speak_grace_04cf02be:
 
     # grace "Hi."
-    grace "Hi."
+    grace "Hola."
 
 # game/characters/grace/speak.rpy:14
 translate spanish speak_grace_e579606d:
 
     # grace "What do you want?"
-    grace "What do you want?"
+    grace "¿Qué quieres?"
 
 # game/characters/grace/speak.rpy:26
 translate spanish grace_menu1_0b272415:
 
     # grace "Yes!"
-    grace "Yes!"
+    grace "¡Si!"
 
 # game/characters/grace/speak.rpy:27
 translate spanish grace_menu1_269a6960:
 
     # "You both quickly start working."
-    "You both quickly start working."
+    "Los dos prontamente comienzan a trabajar."
 
 # game/characters/grace/speak.rpy:29
 translate spanish grace_menu1_30262b93:
 
     # grace "Drink, drink and grow so big like me~"
-    grace "Drink, drink and grow so big like me~"
+    grace "Bebe, bebe y crece tan grande como yo~"
 
 # game/characters/grace/speak.rpy:30
 translate spanish grace_menu1_b1e02715:
 
     # "[grace] hums and sings weird songs under her breath when watering flowers."
-    "[grace] hums and sings weird songs under her breath when watering flowers."
+    "[grace] tararea y canta cosas raras en voz baja cuando riega las flores."
 
 # game/characters/grace/speak.rpy:31
 translate spanish grace_menu1_db249b8e:
 
     # th "What a silly song.."
-    th "What a silly song.."
+    th "Que tonta canción"
 
 # game/characters/grace/speak.rpy:33
 translate spanish grace_menu1_49f926c4:
 
     # "You help [grace] with the flowers for a few hours."
-    "You help [grace] with the flowers for a few hours."
+    "Ayudas a [grace] con las flores por unas horas."
 
 # game/characters/grace/speak.rpy:35
 translate spanish grace_menu1_cc2b23f6:
 
     # grace "Thank you for your help."
-    grace "Thank you for your help."
+    grace "Gracias por tu ayuda."
 
 # game/characters/grace/speak.rpy:36
 translate spanish grace_menu1_ba30a310:
 
     # me "Sure, glad to help."
-    me "Sure, glad to help."
+    me "Claro, encantado de ayudar."
 
 # game/characters/grace/speak.rpy:37
 translate spanish grace_menu1_dcad29a9:
 
     # grace "Mm. You can come help again.. if you want.."
-    grace "Mm. You can come help again.. if you want.."
+    grace "Mm. Puedes venir a ayudar de nuevo... si quieres..."
 
 # game/characters/grace/speak.rpy:38
 translate spanish grace_menu1_ebf5834d:
@@ -1469,4 +1469,3 @@ translate spanish strings:
     # game/characters/grace/speak.rpy:366
     old "She is 21 years old."
     new "She is 21 years old."
-

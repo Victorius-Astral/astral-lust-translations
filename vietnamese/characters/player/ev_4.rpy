@@ -817,7 +817,7 @@ translate vietnamese strings:
 
     # game/characters/player/ev_4.rpy:52
     old "She's the librarian of the Asthar Library."
-    new "She's the librarian of the Asthar Library."
+    new "Cô ấy là thủ thư của Thư viện Asthar."
 
     # game/characters/player/ev_4.rpy:103
     old "Asthar"
@@ -825,31 +825,31 @@ translate vietnamese strings:
 
     # game/characters/player/ev_4.rpy:103
     old "Asthar is a city enormous beyond imagination, and also home to the headquarters of the Cult of The Black. What is curious is that it doesn't exist in a fixed place. When I asked Kiara about details, she said humans can't possibly grasp or imagine the power and means of Gods."
-    new "Asthar is a city enormous beyond imagination, and also home to the headquarters of the Cult of The Black. What is curious is that it doesn't exist in a fixed place. When I asked Kiara about details, she said humans can't possibly grasp or imagine the power and means of Gods."
+    new "Asthar là một thành phố to lớn ngoài sức tưởng tượng, và cũng là nơi đặt trụ sở chính của Giáo phái Bóng Đêm. Điều gây tò mò là nó không tồn tại ở một nơi cố định. Khi tôi hỏi Kiara về chi tiết, cô ấy nói rằng con người không thể nắm bắt hoặc tưởng tượng được sức mạnh và phương tiện của các vị thần.."
 
     # game/characters/player/ev_4.rpy:121
     old "This cult made The End descend. It is shepherded by seven Elders, two High Elders and Aharon, the cult leader. All of them immortal and powerful beyond all imagination."
-    new "This cult made The End descend. It is shepherded by seven Elders, two High Elders and Aharon, the cult leader. All of them immortal and powerful beyond all imagination."
+    new "Giáo phái này đã khiến The End đến đây. Nó được dẫn dắt bởi bảy Elders, hai Trưởng lão cấp cao và Aharon, người đứng đầu giáo phái. Tất cả chúng đều bất tử và mạnh mẽ ngoài sức tưởng tượng."
 
     # game/characters/player/ev_4.rpy:125
     old "The library is outside of Gods perception."
-    new "The library is outside of Gods perception."
+    new "Thư viện nằm ngoài nhận thức của các vị thần."
 
     # game/characters/player/ev_4.rpy:131
     old "He's close to being a God, saying His name is enough to draw His attention."
-    new "He's close to being a God, saying His name is enough to draw His attention."
+    new "Hắn gần như là một vị thần, nói tên của Hắn là đủ để thu hút sự chú ý của Hắn."
 
     # game/characters/player/ev_4.rpy:143
     old "Monsters are in fact humans and animals that were corrupted."
-    new "Monsters are in fact humans and animals that were corrupted."
+    new "Quái vật thực chất là con người và động vật đã bị sa đọa."
 
     # game/characters/player/ev_4.rpy:164
     old "Domains"
-    new "Domains"
+    new "Lĩnh vực"
 
     # game/characters/player/ev_4.rpy:164
     old "Domains can be understood as a group of extraordinary powers and abilities belonging to similar authorities. Those abilities are fueled by its user spirituality."
-    new "Domains can be understood as a group of extraordinary powers and abilities belonging to similar authorities. Those abilities are fueled by its user spirituality."
+    new "Lĩnh vực có thể được hiểu là một nhóm những sức mạnh và khả năng phi thường thuộc về những thế lực có khả năng tương tự. Những khả năng đó được thúc đẩy bởi năng lượng tâm linh người dùng."
 
     # game/characters/player/ev_4.rpy:195
     old "The mere mention of Throdog R'luhhor caused her to drown in terror and throw me out immediately."

@@ -231,7 +231,7 @@ translate vietnamese mina_3_menu_02bfadf5:
 # game/characters/mina/ev_3.rpy:134
 translate vietnamese mina_3_menu_84433414:
 
-    # mina "Y-You pervert! Isn't that a bit much? I mean... you have my [lex_min]..."
+    # mina "Y-You pervert! Isn't that a bit much? I mean.. you have my [lex_min].."
     mina "Đ-Đồ biến thái! Đó không phải là quá nhiều rồi sao? Ý em là... anh có chị của em rồi đấy..."
 
 # game/characters/mina/ev_3.rpy:135
@@ -315,7 +315,7 @@ translate vietnamese mina_3_menu_581801dd:
 # game/characters/mina/ev_3.rpy:164
 translate vietnamese mina_3_menu_bed59490:
 
-    # mina "{size=-10}I thought that you were a good man...{/size}"
+    # mina "{size=-10}I thought that you were a good man..{/size}"
     mina "{size=-10}Em nghĩ rằng anh là một người đàn ông tốt...{/size}"
 
 # game/characters/mina/ev_3.rpy:165
@@ -603,4 +603,17 @@ translate vietnamese strings:
 
     # game/characters/mina/ev_3.rpy:236
     old "She has a crush on Alice."
+<<<<<<< HEAD
     new "Cô ấy crush Alice."
+=======
+    new "She has a crush on Alice."
+
+# TODO: Translation updated at 2022-02-26 15:07
+
+# game/characters/mina/ev_3.rpy:40
+translate vietnamese mina_3_e9e0750b:
+
+    # mina "{quiet}Ahh~{/quiet}"
+    mina "{quiet}Ahh~{/quiet}"
+
+>>>>>>> 636a7e8b480b6154c80b8808adf3b4fa46fda4f4

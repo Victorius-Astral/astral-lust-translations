@@ -40,7 +40,7 @@ translate spanish lexi_2_1_47b3d0b9:
 translate spanish lexi_2_1_110572d3:
 
     # lexi "You really don't remember anything from the past year?"
-    lexi "¿De verdad no recuerdas nada del año pasado?"
+    lexi "¿De verdad no recuerdas nada del año que pasó?"
 
 # game/characters/lexi/ev_2.rpy:22
 translate spanish lexi_2_1_4373b715:

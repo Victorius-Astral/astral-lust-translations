@@ -305,8 +305,8 @@ translate vietnamese strings:
 
     # game/characters/player/ev_2.rpy:90
     old "Me"
-    new "Me"
+    new "Tôi"
 
     # game/characters/player/ev_2.rpy:90
     old "I have encountered a cultist. He knew my name. Astonishingly he said they didn't know how The End would look; they were deceived by their leader. Nevertheless, this encounter gives me the creeps. The cultist committed suicide after thinking of the cult leader, just how terrifying is he?"
-    new "I have encountered a cultist. He knew my name. Astonishingly he said they didn't know how The End would look; they were deceived by their leader. Nevertheless, this encounter gives me the creeps. The cultist committed suicide after thinking of the cult leader, just how terrifying is he?"
+    new "Tôi đã chạm trán một tên cuồng tín. Hắn biết tên tôi. Thật ngạc nhiên khi hắn nói rằng chúng không biết The End sẽ trông như thế nào; chúng đã bị lừa bởi người lãnh đạo của bọn chúng. Tuy nhiên, cuộc gặp gỡ này mang lại cho tôi những khó khăn. Tên cuồng tín đã tự sát sau khi nghĩ đến người đứng đầu giáo phái, hắn phải kinh hãi đến mức nào chứ?"

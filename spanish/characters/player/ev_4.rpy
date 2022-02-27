@@ -806,7 +806,7 @@ translate spanish strings:
 
     # game/characters/player/ev_4.rpy:80
     old "How do you know about these things?"
-    new "How do you know about these things?"
+    new "¿Cómo sabes estas cosas?"
 
     # game/characters/player/ev_4.rpy:80
     old "Have you ever heard of Throdog R'luhhor?"

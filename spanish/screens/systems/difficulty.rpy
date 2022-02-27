@@ -170,3 +170,11 @@ translate spanish strings:
     old "Random Combat Encounters"
     new "Random Combat Encounters"
 
+# TODO: Translation updated at 2022-02-26 14:57
+
+translate spanish strings:
+
+    # game/screens/systems/difficulty.rpy:26
+    old "In this mode the challenge from combat will exist only battling the elite enemies. This mode will not provide you with many if any challenges. It's not an intended way to play, and Gracie might make fun of you."
+    new "In this mode the challenge from combat will exist only battling the elite enemies. This mode will not provide you with many if any challenges. It's not an intended way to play, and Gracie might make fun of you."
+

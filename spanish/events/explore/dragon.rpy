@@ -107,5 +107,4 @@ translate spanish strings:
 
     # game/events/explore/dragon.rpy:22
     old "Shoot at the sky {#visible}"
-    new "Shoot at the sky {#visible}"
-
+    new "Dispara al cielo {#visible}"

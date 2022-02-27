@@ -181,3 +181,11 @@ translate spanish strings:
     # game/characters/kiara/sex_1.rpy:60
     old "Cum"
     new "Vente"
+# TODO: Translation updated at 2022-02-26 14:57
+
+# game/characters/kiara/sex_1.rpy:102
+translate spanish kiara_sex_1_sex2_3217e8b9:
+
+    # me "Ahh!!"
+    me "Ahh!!"
+

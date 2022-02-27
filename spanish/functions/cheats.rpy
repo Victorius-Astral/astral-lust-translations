@@ -206,3 +206,11 @@ translate spanish strings:
     # game/functions/cheats.rpy:317
     old "Alice's lust and trust + 10"
     new "La lujuria y la confianza de Alice + 10"
+# TODO: Translation updated at 2022-02-26 14:57
+
+translate spanish strings:
+
+    # game/functions/cheats.rpy:5
+    old "Dragon Girl"
+    new "Dragon Girl"
+

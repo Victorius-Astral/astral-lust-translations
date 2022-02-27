@@ -173,3 +173,11 @@ translate vietnamese strings:
     # game/characters/kiara/sex_1.rpy:24
     old "Go harder"
     new "Mạnh hơn"
+# TODO: Translation updated at 2022-02-26 15:07
+
+# game/characters/kiara/sex_1.rpy:102
+translate vietnamese kiara_sex_1_sex2_3217e8b9:
+
+    # me "Ahh!!"
+    me "Ahh!!"
+

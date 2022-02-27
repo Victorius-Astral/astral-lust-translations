@@ -32,12 +32,12 @@ translate spanish strings:
 
     # game/variables/classes/NPC.rpy:148
     old "{} outfit unlocked ({})."
-    new "{} outfit unlocked ({})."
+    new "{} traje desbloqueado ({})."
 
     # game/variables/classes/NPC.rpy:211
     old "{}'s affection + {}"
-    new "{}'s affection + {}"
+    new "Afecto de {} + {}"
 
     # game/variables/classes/NPC.rpy:220
     old "{}'s affection - {}"
-    new "{}'s affection - {}"
+    new "Afecto de {} - {}"

@@ -883,12 +883,12 @@ translate polish strings:
     new "I have some questions."
 
     # game/characters/alice/speak.rpy:31
-    old "Give antibiotics"
-    new "Give antibiotics"
+    old "Give antibiotics {#visible}"
+    new "Give antibiotics {#visible}"
 
     # game/characters/alice/speak.rpy:31
-    old "Use extraordinary abilities"
-    new "Use extraordinary abilities"
+    old "Use extraordinary abilities {#visible}"
+    new "Use extraordinary abilities {#visible}"
 
     # game/characters/alice/speak.rpy:31
     old "I wish you swift recovery"

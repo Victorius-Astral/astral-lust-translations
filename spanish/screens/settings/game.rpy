@@ -54,10 +54,6 @@ translate spanish strings:
     old "Debug Mode"
     new "Modo de Depuración"
 
-    # game/screens/settings/game.rpy:45
-    old "Other"
-    new "Otros"
-
     # game/screens/settings/game.rpy:46
     old "Show tutorials"
     new "Mostrar tutoriales"
@@ -200,3 +196,11 @@ translate spanish strings:
     # game/screens/settings/game.rpy:186
     old "Not Set"
     new "No Establecido"
+# TODO: Translation updated at 2022-02-26 14:57
+
+translate spanish strings:
+
+    # game/screens/settings/game.rpy:90
+    old "Notifications Style"
+    new "Notifications Style"
+

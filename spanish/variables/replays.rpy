@@ -648,3 +648,26 @@ translate spanish strings:
     old "Agoraphobia"
     new "Agoraphobia"
 
+# TODO: Translation updated at 2022-02-26 14:57
+
+translate spanish strings:
+
+    # game/variables/replays.rpy:130
+    old "Nightmare"
+    new "Nightmare"
+
+    # game/variables/replays.rpy:163
+    old "Creation Myth"
+    new "Creation Myth"
+
+    # game/variables/replays.rpy:232
+    old "Ending - Reunion"
+    new "Ending - Reunion"
+
+    # game/variables/replays.rpy:268
+    old "Adventurous Vixen"
+    new "Adventurous Vixen"
+
+    # game/variables/replays.rpy:268
+    old "First Days in the Hotel"
+    new "First Days in the Hotel"

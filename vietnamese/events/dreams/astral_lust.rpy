@@ -213,3 +213,17 @@ translate vietnamese strings:
     # game/events/dreams/astral_lust.rpy:30
     old "No, thanks"
     new "Không, sợ nghiện lắm"
+# TODO: Translation updated at 2022-02-26 15:07
+
+# game/events/dreams/astral_lust.rpy:12
+translate vietnamese d_Astral_Lust_2_a47cf47b:
+
+    # th "[kiara]?"
+    th "[kiara]?"
+
+# game/events/dreams/astral_lust.rpy:13
+translate vietnamese d_Astral_Lust_2_8aa10819:
+
+    # "You are surprised to see [kiara] before you. She sleeps on a book, floating along in the empty space."
+    "You are surprised to see [kiara] before you. She sleeps on a book, floating along in the empty space."
+

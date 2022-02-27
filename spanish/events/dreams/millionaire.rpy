@@ -406,7 +406,7 @@ translate spanish strings:
 
     # game/events/dreams/millionaire.rpy:196
     old "Will I?"
-    new "¿Lo haré?"
+    new "¿Lo haría?"
 # TODO: Translation updated at 2022-01-25 22:41
 
 # game/events/dreams/millionaire.rpy:82
@@ -426,4 +426,3 @@ translate spanish d_Millionaire_2_part2_7c2ac7f4:
 
     # aharon "If you had a chance to achieve everything you ever wished to, spend eternity with the people you love if you had a chance to be happy.."
     aharon "If you had a chance to achieve everything you ever wished to, spend eternity with the people you love if you had a chance to be happy.."
-

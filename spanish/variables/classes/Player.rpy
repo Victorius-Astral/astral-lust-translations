@@ -40,36 +40,36 @@ translate spanish strings:
 
     # game/variables/classes/Player.rpy:166
     old "Agility"
-    new "Agility"
+    new "Agilidad"
 
     # game/variables/classes/Player.rpy:180
     old "Vitality"
-    new "Vitality"
+    new "Vitalidad"
 
     # game/variables/classes/Player.rpy:187
     old "Wisdom"
-    new "Wisdom"
+    new "Sabiduría"
 
     # game/variables/classes/Player.rpy:194
     old "Intelligence"
-    new "Intelligence"
+    new "Inteligencia"
 
     # game/variables/classes/Player.rpy:201
     old "Charisma"
-    new "Charisma"
+    new "Carisma"
 
     # game/variables/classes/Player.rpy:209
     old "{} was raised by {} {}."
-    new "{} was raised by {} {}."
+    new "{} incrementó por {} {}."
 
     # game/variables/classes/Player.rpy:212
     old " points"
-    new " points"
+    new " puntos"
 
     # game/variables/classes/Player.rpy:214
     old " point"
-    new " point"
+    new " punto"
 
     # game/variables/classes/Player.rpy:226
     old "{} can't be raised any further."
-    new "{} can't be raised any further."
+    new "{} llegó al valor máximo."

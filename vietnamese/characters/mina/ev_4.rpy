@@ -1449,4 +1449,29 @@ translate vietnamese strings:
 
     # game/characters/mina/ev_4.rpy:288
     old "What would you do if you could do anything?"
+<<<<<<< HEAD
     new "Em sẽ làm gì nếu em có thể làm mọi thứ mình muốn?"
+=======
+    new "What would you do if you could do anything?"
+
+# TODO: Translation updated at 2022-02-26 15:07
+
+# game/characters/mina/ev_4.rpy:45
+translate vietnamese mina_4_66c07f1c:
+
+    # me "{loud}STOP!!{/loud}"
+    me "{loud}STOP!!{/loud}"
+
+# game/characters/mina/ev_4.rpy:203
+translate vietnamese mina_4_3_26636d63:
+
+    # me "{small}Hey [alice], what's wrong?{/small}"
+    me "{small}Hey [alice], what's wrong?{/small}"
+
+# game/characters/mina/ev_4.rpy:204
+translate vietnamese mina_4_3_8568806b:
+
+    # alice "{small}I just thought of a better dare..{/small}"
+    alice "{small}I just thought of a better dare..{/small}"
+
+>>>>>>> 636a7e8b480b6154c80b8808adf3b4fa46fda4f4

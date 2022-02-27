@@ -757,3 +757,11 @@ translate vietnamese savenia_4_part2_166e7fd5:
     # me "I will come to help you with your leg every day."
     me "I will come to help you with your leg every day."
 
+# TODO: Translation updated at 2022-02-26 15:07
+
+# game/characters/savenia/ev_4.rpy:67
+translate vietnamese savenia_4_menu1_f3328ea7:
+
+    # savenia "And, how is an exercise for arms and chest gonna help with my leg?"
+    savenia "And, how is an exercise for arms and chest gonna help with my leg?"
+

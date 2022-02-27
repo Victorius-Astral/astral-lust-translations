@@ -34,7 +34,7 @@ translate vietnamese rhainda_2_933b82fd:
 translate vietnamese rhainda_2_d884cc52:
 
     # rhainda "Well, I didn't say I didn't like it.."
-    rhainda "Em có nói là em khum thích vậy đâu..."
+    rhainda "Em đâu có nói là em khum thích vậy đâu..."
 
 # game/characters/rhainda/ev_2.rpy:25
 translate vietnamese rhainda_2_3820771a:

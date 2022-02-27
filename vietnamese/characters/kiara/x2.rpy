@@ -492,3 +492,17 @@ translate vietnamese kiara_x2_e3c59672:
 
     # me "Holy.. Am I in the heavens?"
     me "Vãi... mình đang ở trên thiên đường sao?"
+# TODO: Translation updated at 2022-02-26 15:07
+
+# game/characters/kiara/x2.rpy:37
+translate vietnamese kiara_x2_slow1_3c5545e9:
+
+    # "You fuck [kiara] gently, or is it her clone? You can't tell." id kiara_x2_slow1_3c5545e9
+    "You fuck [kiara] gently, or is it her clone? You can't tell." id kiara_x2_slow1_3c5545e9
+
+# game/characters/kiara/x2.rpy:62
+translate vietnamese kiara_x2_before1_7ef6e514:
+
+    # "Your penis in [kiara]'s pussy is rock hard, and getting even harder by the moment." id kiara_x2_before1_7ef6e514
+    "Your penis in [kiara]'s pussy is rock hard, and getting even harder by the moment." id kiara_x2_before1_7ef6e514
+
