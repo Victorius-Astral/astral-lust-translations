@@ -103,8 +103,8 @@ translate vietnamese strings:
     new "Wooden Chest"
 
     # game/screens/menu/inventory.rpy:387
-    old "Can be oppened with {}."
-    new "Can be oppened with {}."
+    old "Can be opened with {}."
+    new "Can be opened with {}."
 
     # game/screens/menu/inventory.rpy:387
     old "Container"
@@ -135,16 +135,16 @@ translate vietnamese strings:
     new "Imperial Chest"
 
     # game/screens/menu/inventory.rpy:393
-    old "Can be oppened with 3 {}s."
-    new "Can be oppened with 3 {}s."
+    old "Can be opened with 3 {}s."
+    new "Can be opened with 3 {}s."
 
     # game/screens/menu/inventory.rpy:394
     old "Chest of the Great Old Ones"
     new "Chest of the Great Old Ones"
 
     # game/screens/menu/inventory.rpy:394
-    old "Can be oppened with 5 {}s."
-    new "Can be oppened with 5 {}s."
+    old "Can be opened with 5 {}s."
+    new "Can be opened with 5 {}s."
 
     # game/screens/menu/inventory.rpy:397
     old "Chocolate Bar"
