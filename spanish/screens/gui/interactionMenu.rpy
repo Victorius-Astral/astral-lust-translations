@@ -244,7 +244,7 @@ translate spanish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Test Notifications"
-    new "Test Notifications"
+    new "Probar Notificaciones"
 # TODO: Translation updated at 2022-02-16 09:41
 
 translate spanish strings:
@@ -256,4 +256,3 @@ translate spanish strings:
     # game/screens/gui/interactionMenu.rpy:75
     old "[rhainda] & [lil_fox]"
     new "[rhainda] & [lil_fox]"
-

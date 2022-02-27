@@ -220,7 +220,7 @@ translate spanish savenia_1_43facc7b:
 translate spanish savenia_1_9fd36bb0:
 
     # savenia "I'll go back. Tell me, where is my bike?"
-    savenia "Regresaré. Dime, ¿dónde está mi bicicleta?"
+    savenia "Regresaré. Dime, ¿dónde está mi moto?"
 
 # game/characters/savenia/ev_1.rpy:74
 translate spanish savenia_1_ee87a484:

@@ -106,7 +106,7 @@ translate spanish savenia_3_part2_5ef0e84c:
 translate spanish savenia_3_part2_199a8354:
 
     # savenia "I need to find my bike."
-    savenia "Necesito encontrar mi bicicleta."
+    savenia "Necesito encontrar mi moto."
 
 # game/characters/savenia/ev_3.rpy:50
 translate spanish savenia_3_part2_da79d808:

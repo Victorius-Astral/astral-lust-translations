@@ -199,10 +199,10 @@ translate spanish strings:
     # game/characters/grace/ev_3.rpy:18
     old "I'm sure she's alright"
     new "Estoy seguro de que ella está bien"
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 
     # game/characters/grace/ev_3.rpy:49
     old "She wants me to convey her words to her mother if I were to encounter her outside."
-    new "She wants me to convey her words to her mother if I were to encounter her outside."
+    new "Quiere que le pase sus palabras a su madre si me la encontrara afuera."

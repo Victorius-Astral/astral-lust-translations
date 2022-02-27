@@ -1450,85 +1450,85 @@ translate spanish damsel_in_distress_soldier_e4e2275d:
 translate spanish damsel_in_distress_soldier_f46121fb:
 
     # d_soldier smile "Heh, It's been a long time since I've met someone thinking about sex when offered a gun."
-    d_soldier smile "Heh, It's been a long time since I've met someone thinking about sex when offered a gun."
+    d_soldier smile "Heh, ha pasado mucho tiempo desde que conocí a alguien pensando en sexo cuando le ofrecieron un arma."
 
 # game/events/explore/damsel_in_distress.rpy:578
 translate spanish damsel_in_distress_soldier_3372d991:
 
     # me "My priorities are a little different."
-    me "My priorities are a little different."
+    me "Mis prioridades son un poco diferentes."
 
 # game/events/explore/damsel_in_distress.rpy:579
 translate spanish damsel_in_distress_soldier_e7cc036a:
 
     # d_soldier "I don't know if I should praise your for being different or scowl at you for being a pervert."
-    d_soldier "I don't know if I should praise your for being different or scowl at you for being a pervert."
+    d_soldier "No sé si debería elogiarte por ser diferente o fruncir el ceño por ser un pervertido."
 
 # game/events/explore/damsel_in_distress.rpy:580
 translate spanish damsel_in_distress_soldier_53a7947e:
 
     # me "I'm not a pervert. I just have clearly defined goals."
-    me "I'm not a pervert. I just have clearly defined goals."
+    me "No soy un pervertido. Solo tengo objetivos claramente definidos."
 
 # game/events/explore/damsel_in_distress.rpy:581
 translate spanish damsel_in_distress_soldier_105d6bb3:
 
     # d_soldier "Lie down."
-    d_soldier "Lie down."
+    d_soldier "Acuéstate."
 
 # game/events/explore/damsel_in_distress.rpy:585
 translate spanish damsel_in_distress_soldier_efcf7283:
 
     # me "You have gorgeous boobs."
-    me "You have gorgeous boobs."
+    me "Tienes unas tetas preciosas."
 
 # game/events/explore/damsel_in_distress.rpy:586
 translate spanish damsel_in_distress_soldier_0d65698a:
 
     # d_soldier "Yes, I can see you like them a lot."
-    d_soldier "Yes, I can see you like them a lot."
+    d_soldier "Sí, puedo ver que te gustan mucho."
 
 # game/events/explore/damsel_in_distress.rpy:587
 translate spanish damsel_in_distress_soldier_540dc1d3:
 
     # me "Ay, this softness is great."
-    me "Ay, this softness is great."
+    me "Ay, esta suavidad es genial."
 
 # game/events/explore/damsel_in_distress.rpy:591
 translate spanish damsel_in_distress_soldier_b08fb905:
 
     # me "That's it babe, just like that."
-    me "That's it babe, just like that."
+    me "Así es nena, justo así."
 
 # game/events/explore/damsel_in_distress.rpy:592
 translate spanish damsel_in_distress_soldier_0da6c4ba:
 
     # d_soldier "Haha, I know what I'm doing."
-    d_soldier "Haha, I know what I'm doing."
+    d_soldier "Haha, sé lo que estoy haciendo."
 
 # game/events/explore/damsel_in_distress.rpy:593
 translate spanish damsel_in_distress_soldier_a2b5ff00:
 
     # d_soldier "Soon you'll be done."
-    d_soldier "Soon you'll be done."
+    d_soldier "Vas a estar acabado pronto."
 
 # game/events/explore/damsel_in_distress.rpy:594
 translate spanish damsel_in_distress_soldier_b077aa03:
 
     # me "Oh, yeah. I'll take your word for that."
-    me "Oh, yeah. I'll take your word for that."
+    me "Oh, sí. Te tomo la palabra."
 
 # game/events/explore/damsel_in_distress.rpy:595
 translate spanish damsel_in_distress_soldier_d8c7e6e3:
 
     # d_soldier "How are they? Soft, tender, hot, firm?"
-    d_soldier "How are they? Soft, tender, hot, firm?"
+    d_soldier "¿Cómo están? ¿Suaves, tiernas, calientes, firmes?"
 
 # game/events/explore/damsel_in_distress.rpy:596
 translate spanish damsel_in_distress_soldier_7c7273b0:
 
     # me "All of these could describe your boobs, eight world wonder."
-    me "All of these could describe your boobs, eight world wonder."
+    me "Todo podría describir tus pechos, octava maravilla del mundo."
 
 # game/events/explore/damsel_in_distress.rpy:597
 translate spanish damsel_in_distress_soldier_ceb2da57:
@@ -1546,67 +1546,67 @@ translate spanish damsel_in_distress_soldier_88eab5f5:
 translate spanish damsel_in_distress_soldier_fabc18d8:
 
     # me "Holy shit!"
-    me "Holy shit!"
+    me "¡Mierda!"
 
 # game/events/explore/damsel_in_distress.rpy:603
 translate spanish damsel_in_distress_soldier_5102e6c3:
 
     # d_soldier "Heh, feels good?"
-    d_soldier "Heh, feels good?"
+    d_soldier "Heh, ¿se siente bien?"
 
 # game/events/explore/damsel_in_distress.rpy:604
 translate spanish damsel_in_distress_soldier_d6316345:
 
     # me "Ayyy! This feels great."
-    me "Ayyy! This feels great."
+    me "¡Ayyy! Esto se siente genial."
 
 # game/events/explore/damsel_in_distress.rpy:605
 translate spanish damsel_in_distress_soldier_45978bcf:
 
     # d_soldier "Don't scream like a little girl when you're done. One werewolf is enough."
-    d_soldier "Don't scream like a little girl when you're done. One werewolf is enough."
+    d_soldier "No grites como niña cuando hayas terminado. Un hombre lobo fue suficiente."
 
 # game/events/explore/damsel_in_distress.rpy:606
 translate spanish damsel_in_distress_soldier_070cb00b:
 
     # me "I'm so excited right now I could take on a few more."
-    me "I'm so excited right now I could take on a few more."
+    me "Estoy tan emocionado ahora mismo que podría lidiar con algunos más."
 
 # game/events/explore/damsel_in_distress.rpy:607
 translate spanish damsel_in_distress_soldier_70f1e9ab:
 
     # d_soldier "I don't doubt it."
-    d_soldier "I don't doubt it."
+    d_soldier "No lo dudo."
 
 # game/events/explore/damsel_in_distress.rpy:611
 translate spanish damsel_in_distress_soldier_b596a715:
 
     # d_soldier "*Slurp*"
-    d_soldier "*Slurp*"
+    d_soldier "*Sorber*"
 
 # game/events/explore/damsel_in_distress.rpy:612
 translate spanish damsel_in_distress_soldier_5eafeea4:
 
     # me "God.. Is that a heaven?"
-    me "God.. Is that a heaven?"
+    me "Dios... ¿Es eso el cielo?"
 
 # game/events/explore/damsel_in_distress.rpy:613
 translate spanish damsel_in_distress_soldier_74fd81b1:
 
     # th "I want this girl.."
-    th "I want this girl.."
+    th "Quiero a esta chica.."
 
 # game/events/explore/damsel_in_distress.rpy:617
 translate spanish damsel_in_distress_soldier_8688b6e8:
 
     # me "Ah!"
-    me "Ah!"
+    me "¡Ah!"
 
 # game/events/explore/damsel_in_distress.rpy:618
 translate spanish damsel_in_distress_soldier_105dcf55:
 
     # d_soldier "Mghmm!"
-    d_soldier "Mghmm!"
+    d_soldier "¡Mghmm!"
 
 # game/events/explore/damsel_in_distress.rpy:622
 translate spanish damsel_in_distress_soldier_ad1fd37b:
@@ -1618,61 +1618,61 @@ translate spanish damsel_in_distress_soldier_ad1fd37b:
 translate spanish damsel_in_distress_soldier_652e1a8f:
 
     # me "You have some left."
-    me "You have some left."
+    me "Te quedó un poco."
 
 # game/events/explore/damsel_in_distress.rpy:627
 translate spanish damsel_in_distress_soldier_d0b6f900:
 
     # d_soldier "You came a lot."
-    d_soldier "You came a lot."
+    d_soldier "Te viniste mucho."
 
 # game/events/explore/damsel_in_distress.rpy:628
 translate spanish damsel_in_distress_soldier_767b8ac8:
 
     # me "Yeah, it just proves how good of a boobjob it was."
-    me "Yeah, it just proves how good of a boobjob it was."
+    me "Sí, solo demuestra que tan buena que fuiste."
 
 # game/events/explore/damsel_in_distress.rpy:629
 translate spanish damsel_in_distress_soldier_15a77dba:
 
     # d_soldier "It's good you liked it, but let's get going before more monsters come."
-    d_soldier "It's good you liked it, but let's get going before more monsters come."
+    d_soldier "Es bueno que te haya gustado, pero vámonos antes de que vengan más monstruos."
 
 # game/events/explore/damsel_in_distress.rpy:630
 translate spanish damsel_in_distress_soldier_ecd768ba:
 
     # me "Yeah."
-    me "Yeah."
+    me "Sí."
 
 # game/events/explore/damsel_in_distress.rpy:636
 translate spanish damsel_in_distress_soldier_e5dabf43:
 
     # d_soldier "Let's hope to see each other again."
-    d_soldier "Let's hope to see each other again."
+    d_soldier "Espero que nos volvamos a ver."
 
 # game/events/explore/damsel_in_distress.rpy:637
 translate spanish damsel_in_distress_soldier_53b441d4:
 
     # me "Yes, I definitely want to meet again."
-    me "Yes, I definitely want to meet again."
+    me "Sí, definitivamente querría verte de nuevo."
 
 # game/events/explore/damsel_in_distress.rpy:641
 translate spanish damsel_in_distress_soldier_c34e5a4a:
 
     # me "Shit, that was so great.."
-    me "Shit, that was so great.."
+    me "Mierda, eso fue genial..."
 
 # game/events/explore/damsel_in_distress.rpy:642
 translate spanish damsel_in_distress_soldier_d7c98011:
 
     # me "Aye, better keep going before more things come."
-    me "Aye, better keep going before more things come."
+    me "Sí, mejor sigue adelante antes de que vengan más cosas."
 
 # game/events/explore/damsel_in_distress.rpy:648
 translate spanish damsel_in_distress_soldier_ee05a254:
 
     # d_soldier smile "Thanks."
-    d_soldier smile "Thanks."
+    d_soldier smile "Gracias."
 
 # game/events/explore/damsel_in_distress.rpy:652
 translate spanish damsel_in_distress_soldier_74253f9e:

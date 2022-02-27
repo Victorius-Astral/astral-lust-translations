@@ -4,13 +4,12 @@ translate spanish strings:
 
     # game/screens/menu/devBox.rpy:45
     old "Creator's Magic Box"
-    new "Creator's Magic Box"
+    new "Bolsa Mágica del Creador"
 
     # game/screens/menu/devBox.rpy:107
     old "What is destined will certainly happen."
-    new "What is destined will certainly happen."
+    new "Lo que está destinado ciertamente sucederá."
 
     # game/screens/menu/devBox.rpy:141
     old "Inventory"
-    new "Inventory"
-
+    new "Inventario"

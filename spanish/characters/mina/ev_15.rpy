@@ -1660,7 +1660,7 @@ translate spanish mina_15_part4_ba0ec7bd:
 translate spanish mina_15_part4_d3119d29:
 
     # th "That was interesting night."
-    th "QUe interesante noche."
+    th "Que noche tan interesante."
 
 translate spanish strings:
 
@@ -1700,7 +1700,7 @@ translate spanish mina_15_c3e34bb4:
 translate spanish mina_15_5ec3f2b4:
 
     # mina "I do, give me a minute, I'm going to look for it."
-    mina "Si, dame un minuto, lo voy a buscarlas."
+    mina "Si, dame un minuto, voy a buscarlas."
 
 # game/characters/mina/ev_15.rpy:37
 translate spanish mina_15_828dd5ac:

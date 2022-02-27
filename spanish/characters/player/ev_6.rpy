@@ -348,7 +348,7 @@ translate spanish strings:
     old "During the night, shadows come alive in the fogs of Asthar. They corrupt and distort everything, even prayers."
     new "Durante la noche, las sombras cobran vida en las nieblas de Asthar. Corrompen y distorsionan todo, incluso las oraciones."
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

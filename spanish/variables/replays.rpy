@@ -292,15 +292,15 @@ translate spanish strings:
 
     # game/variables/replays.rpy:136
     old "Story - First Exploration"
-    new "Historia - First Exploration"
+    new "Historia - 1ra Exploración"
 
     # game/variables/replays.rpy:136
     old "Story - Small House"
-    new "Historia - Small House"
+    new "Historia - Pequeña Casa"
 
     # game/variables/replays.rpy:136
     old "Story - Damsel in Distress"
-    new "Historia - Damsel in Distress"
+    new "Historia - Damisela en Apuros"
 
     # game/variables/replays.rpy:136
     old "Story - Sex Shop"
@@ -636,38 +636,38 @@ translate spanish strings:
     # game/variables/replays.rpy:257
     old "Treasure Finder"
     new "Buscador de Tesoros"
-# TODO: Translation updated at 2022-02-16 09:41
+# : Translation updated at 2022-02-16 09:41
 
 translate spanish strings:
 
     # game/variables/replays.rpy:30
     old "Horse Riding Lessons"
-    new "Horse Riding Lessons"
+    new "Lección de Montar"
 
     # game/variables/replays.rpy:89
     old "Agoraphobia"
-    new "Agoraphobia"
+    new "Agorafobia"
 
-# TODO: Translation updated at 2022-02-26 14:57
+# : Translation updated at 2022-02-26 14:57
 
 translate spanish strings:
 
     # game/variables/replays.rpy:130
     old "Nightmare"
-    new "Nightmare"
+    new "Pesadilla"
 
     # game/variables/replays.rpy:163
     old "Creation Myth"
-    new "Creation Myth"
+    new "Mito de Creación"
 
     # game/variables/replays.rpy:232
     old "Ending - Reunion"
-    new "Ending - Reunion"
+    new "Final - Reunión"
 
     # game/variables/replays.rpy:268
     old "Adventurous Vixen"
-    new "Adventurous Vixen"
+    new "Zorra Aventurera"
 
     # game/variables/replays.rpy:268
     old "First Days in the Hotel"
-    new "First Days in the Hotel"
+    new "Primeros Días en el Hotel"

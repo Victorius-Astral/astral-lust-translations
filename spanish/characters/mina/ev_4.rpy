@@ -1521,7 +1521,7 @@ translate spanish strings:
 
     # game/characters/mina/ev_4.rpy:288
     old "What would you do if you could do anything?"
-    new "¿Qué harías si pudieras hacer lo que sea??"
+    new "¿Qué harías si pudieras hacer lo que sea?"
 # TODO: Translation updated at 2022-02-26 14:57
 
 # game/characters/mina/ev_4.rpy:45
@@ -1541,4 +1541,3 @@ translate spanish mina_4_3_8568806b:
 
     # alice "{small}I just thought of a better dare..{/small}"
     alice "{small}I just thought of a better dare..{/small}"
-

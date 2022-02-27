@@ -4,7 +4,7 @@
 translate spanish catch_SuccubusB_aa99e134:
 
     # succB "You aren't going to kill me?"
-    succB "¿No vas a matarme"
+    succB "¿No vas a matarme?"
 
 # game/characters/succubi/b/catch.rpy:4
 translate spanish catch_SuccubusB_6e50d3ef:

@@ -10,25 +10,25 @@ translate spanish exp_treasure_hunt_part1_efd11ab7:
 translate spanish exp_treasure_hunt_part1_e070f472:
 
     # th "It's big, there might be something useful inside."
-    th "It's big, there might be something useful inside."
+    th "Es grande, podría tener algo útil adentro."
 
 # game/events/explore/treasure_hunt.rpy:53
 translate spanish exp_treasure_hunt_part1_b3b71564:
 
     # th "Let's see."
-    th "Let's see."
+    th "Veamos."
 
 # game/events/explore/treasure_hunt.rpy:58
 translate spanish exp_treasure_hunt_part1_96368534:
 
     # me "Hm.. Some scrap metal and wood?"
-    me "Hm.. Some scrap metal and wood?"
+    me "Hm... ¿Unos pedazos de metal y madera?"
 
 # game/events/explore/treasure_hunt.rpy:61
 translate spanish exp_treasure_hunt_part1_044ffc8d:
 
     # th "Picture? A part of it.."
-    th "Picture? A part of it.."
+    th "¿Una foto? Al menos, una parte de ella..."
 
 # game/events/explore/treasure_hunt.rpy:64
 translate spanish exp_treasure_hunt_part1_b060a3d4:

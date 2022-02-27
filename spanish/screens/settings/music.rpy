@@ -28,7 +28,7 @@ translate spanish strings:
 
     # game/screens/settings/music.rpy:34
     old "Exploration"
-    new "Exploration"
+    new "Exploración"
 
     # game/screens/settings/music.rpy:35
     old "Offelia's Dream"

@@ -275,7 +275,7 @@ translate spanish strings:
 
     # game/variables/tips.rpy:4
     old "Maybe a month would be enough for her leg to get better. Then, I might be able to find her bike."
-    new "Tal vez un mes sería suficiente para que su pierna mejorara. Entonces, podría ser capaz de encontrar su bicicleta."
+    new "Tal vez un mes sería suficiente para que su pierna mejorara. Entonces, podría ser capaz de encontrar su moto."
 
     # game/variables/tips.rpy:4
     old "I believe her leg would get better soon. She will let me know I guess."
@@ -351,4 +351,3 @@ translate spanish strings:
     # game/variables/tips.rpy:4
     old "I should ask her more about the extraordinary world. (Main Story at least 12)"
     new "I should ask her more about the extraordinary world. (Main Story at least 12)"
-

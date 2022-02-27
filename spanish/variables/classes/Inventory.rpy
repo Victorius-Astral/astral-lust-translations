@@ -29,7 +29,7 @@ translate spanish strings:
     # game/variables/classes/Inventory.rpy:136
     old "Required item missing."
     new "Falta el elemento requerido."
-# TODO: Translation updated at 2022-02-26 14:57
+# : Translation updated at 2022-02-26 14:57
 
 translate spanish strings:
 

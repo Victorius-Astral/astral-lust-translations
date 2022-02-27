@@ -106,7 +106,7 @@ translate spanish grace_5_06b4b459:
 translate spanish grace_5_95f93169:
 
     # "As you see her contentended face you must admit that talking with yourself before the mirror is actually having some effect."
-    "As you see her contentended face you must admit that talking with yourself before the mirror is actually having some effect."
+    "Al ver su rostro satisfecho, debes admitir que hablar contigo mismo frente al espejo de verdad está teniendo un efecto."
 
 # game/characters/grace/ev_5.rpy:57
 translate spanish grace_5_4540d3de:
@@ -118,7 +118,7 @@ translate spanish grace_5_4540d3de:
 translate spanish grace_5_1_849bef76:
 
     # grace "Are you here to help me again?"
-    grace "¿Viniste para yudar otra vez?"
+    grace "¿Viniste a ayudar otra vez?"
 
 # game/characters/grace/ev_5.rpy:69
 translate spanish grace_5_1_944de2bb:

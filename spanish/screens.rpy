@@ -168,11 +168,11 @@ translate spanish strings:
 
     # game/screens.rpy:986
     old "Escape"
-    new "Escape (Esc)"
+    new "Escapar"
 
     # game/screens.rpy:987
     old "Accesses the game menu."
-    new "Accesa al menú de juego."
+    new "Accede al menú de juego."
 
     # game/screens.rpy:990
     old "Ctrl"
@@ -390,4 +390,3 @@ translate spanish strings:
     # game/screens.rpy:189
     old "CONFIRM"
     new "CONFIRM"
-

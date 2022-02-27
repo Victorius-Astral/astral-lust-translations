@@ -8,7 +8,7 @@ translate spanish strings:
 
     # game/screens/gui/credits.rpy:31
     old "{color=#b96d19}\nTranslation: Denker {i}(Spanish){/i}, Natsuki {i}(Vietnamese){/i}{/color}"
-    new "{color=#b96d19}\nTranslation: Denker {i}(Spanish){/i}, Natsuki {i}(Vietnamese){/i}{/color}"
+    new "{color=#b96d19}\nTraducción: Denker {i}(Spanish){/i}, Natsuki {i}(Vietnamese){/i}{/color}"
 
 # TODO: Translation updated at 2022-02-26 14:57
 
@@ -77,4 +77,3 @@ translate spanish strings:
     # game/screens/gui/credits.rpy:92
     old "\nCommunity Manager:"
     new "\nCommunity Manager:"
-
