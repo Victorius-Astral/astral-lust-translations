@@ -56,7 +56,7 @@ translate spanish strings:
 
     # game/screens/menu/inventory.rpy:366
     old "You can use them to fight sickness. After The End they became rare, and thus valuable."
-    new "Puedes usarlos para combatir enfermedades. Después de The End, se volvieron raros y, por lo tanto, valiosos."
+    new "Puedes usarlos para combatir enfermedades. Después de El Fin, se volvieron raros y, por lo tanto, valiosos."
 
     # game/screens/menu/inventory.rpy:366
     old "Quest Item"
