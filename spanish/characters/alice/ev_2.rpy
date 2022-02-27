@@ -124,7 +124,7 @@ translate spanish alice_2_7ef9d6b1:
 translate spanish alice_2_a5fcc5f8:
 
     # th "She actually agreed!"
-    th "¡Ella realmente estuvo de acuerdo!"
+    th "¡De verdad funcionó!"
 
 # game/characters/alice/ev_2.rpy:45
 translate spanish alice_2_7fc0500f:

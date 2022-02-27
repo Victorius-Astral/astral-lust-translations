@@ -232,25 +232,25 @@ translate spanish start_a2586fd9:
 translate spanish start_27aa0aad:
 
     # u_lexi "Driving? How can you possibly drive outside? Roads are blocked and there are monsters everywhere!"
-    u_lexi "¿Conduciendo? ¿Cómo podrìas conducir? ¡Las carreteras están bloqueadas y hay monstruos por todas partes!"
+    u_lexi "¿Conduciendo? ¿Cómo podrías conducir? ¡Las carreteras están bloqueadas y hay monstruos por todas partes!"
 
 # game/script.rpy:168
 translate spanish prologue_dialog1_a_f67bcc2f:
 
     # u_lexi "Yes the things outside that want to eat everyone! Have you been living under a rock? Don't tell me you haven't heard anything about them in the past year."
-    u_lexi "¡Sí, las cosas de afuera que quieren comer a todos! ¿Vivías debajo de una roca? No me digas que no has escuchado nada sobre ellas éste año."
+    u_lexi "¡Sí, las cosas de afuera que quieren comer a todos! ¿Vivías debajo de una roca? No me digas que no has escuchado nada sobre ellas durante todo el año que pasó."
 
 # game/script.rpy:169
 translate spanish prologue_dialog1_a_228216f4:
 
     # th "Past year? What is she talking about? Everything was okay just a while ago!"
-    th "¿El año pasado? ¿De qué está hablando? ¡Todo estaba bien hace un rato!"
+    th "¿El año que pasó? ¿De qué está hablando? ¡Todo estaba bien hace un rato!"
 
 # game/script.rpy:170
 translate spanish prologue_dialog1_a_9e9d7500:
 
     # me "I have never heard anything about any monsters before. On the radio they said something about riots but monsters? Monsters don't even exist.."
-    me "no escuché nada sobre monstruos. En la radio dijeron algo sobre disturbios, pero ¿monstruos? Los monstruos ni siquiera existen..."
+    me "No escuché nada sobre monstruos. En la radio dijeron algo sobre disturbios, pero ¿monstruos? Los monstruos ni siquiera existen..."
 
 # game/script.rpy:174
 translate spanish prologue_dialog1_a_70b982c8:
@@ -262,7 +262,7 @@ translate spanish prologue_dialog1_a_70b982c8:
 translate spanish prologue_dialog1_a_ca2bb3de:
 
     # th "Radio's not working?"
-    th "La radio no funciona?"
+    th "¿La radio no funciona?"
 
 # game/script.rpy:176
 translate spanish prologue_dialog1_a_bce6f88f:
@@ -298,7 +298,7 @@ translate spanish prologue_dialog1_a_3820771a:
 translate spanish prologue_dialog1_b_01229f1a:
 
     # u_lexi "Naturally because there are cars everywhere. When The End started, everything was chaotic. People tried to flee the city en masse, but most couldn't before the monsters attacked."
-    u_lexi "Naturalmente porque hay autos por todas partes. Cuando comenzó El Fin, todo era caótico. La gente intentó huir de la ciudad en masa, pero la mayoría no pudo antes de que los monstruos atacaran."
+    u_lexi "Naturalmente porque hay autos por todas partes. Cuando comenzó El Fin, todo era un caos. La gente intentó huir de la ciudad en masa, pero la mayoría no pudo antes de que los monstruos atacaran."
 
 # game/script.rpy:188
 translate spanish prologue_dialog1_b_268dfb50:
@@ -376,7 +376,7 @@ translate spanish prologue_dialog1_c_a19aa61e:
 translate spanish prologue_dialog1_c_9f08ae1d:
 
     # u_lexi "Yeah ritual, in the beginning there was group of scientists trying to find a way to undo it, but they quickly died alongside the military protecting them."
-    u_lexi "Si, un ritual. Al principio habìa un gruupo de cientìficos trtando de encontrar una forma de deshacerlo, pero murieron rápidamente junto los militares protegiendolos."
+    u_lexi "Si, un ritual. Al principio había un grupo de científicos tratando de encontrar una forma de deshacerlo, pero murieron rápidamente junto los militares protegiendolos."
 
 # game/script.rpy:216
 translate spanish prologue_dialog1_c_673befaa:
@@ -466,7 +466,7 @@ translate spanish prologue_part2_53fee24d:
 translate spanish prologue_part2_78178eed:
 
     # me "Thanks! Umm.. mind telling me your name?"
-    me "¿Gracias! Umm.. ¿te importaría decirme tu nombre?"
+    me "¡Gracias! Umm... ¿te importaría decirme tu nombre?"
 
 # game/script.rpy:257
 translate spanish prologue_part2_ff134ac7:
@@ -478,7 +478,7 @@ translate spanish prologue_part2_ff134ac7:
 translate spanish prologue_part2_e0f17b0b:
 
     # u_lexi "Right, I forgot.."
-    u_lexi "Cierto, lo olvidé.."
+    u_lexi "Cierto, lo olvidé..."
 
 # game/script.rpy:262
 translate spanish prologue_part2_2213c31d:
@@ -681,39 +681,39 @@ translate spanish strings:
 
     # game/script.rpy:85
     old "Something terrifying spoke to me, in a language I've never heard before. Its voice alone was enough to take me to the edge of madness."
-    new "Something terrifying spoke to me, in a language I've never heard before. Its voice alone was enough to take me to the edge of madness."
+    new "Algo aterrador me habló, en un idioma que nunca antes había escuchado. Su voz sola fue suficiente para llevarme al borde de la locura."
 
     # game/script.rpy:158
     old "Monsters wander outside devouring anyone they encounter. For unknown reasons they never enter communities."
-    new "Monsters wander outside devouring anyone they encounter. For unknown reasons they never enter communities."
+    new "Monstruos deambulan afuera devorando a cualquiera que encuentren. Por razones desconocidas nunca entran a las comunidades."
 
     # game/script.rpy:203
     old "Cultists performed a grand ritual to make The End descend."
-    new "Cultists performed a grand ritual to make The End descend."
+    new "Cultistas realizaron un gran ritual para hacer que El Fin descienda."
 
     # game/script.rpy:214
     old "Radio doesn't work. Most of humanity is gone, government and army have fallen. There is no salvation and no hope."
-    new "Radio doesn't work. Most of humanity is gone, government and army have fallen. There is no salvation and no hope."
+    new "La radio no funciona. La mayor parte de la humanidad se ha ido, el gobierno y el ejército han caído. No hay salvación ni esperanza."
 
     # game/script.rpy:215
     old "The remnants of the human race have gathered in communities."
-    new "The remnants of the human race have gathered in communities."
+    new "Lo que queda de la raza humana se han reunido en comunidades."
 
     # game/script.rpy:230
     old "I have awakened one year after The End broke loose. What happened to me during the past year?"
-    new "I have awakened one year after The End broke loose. What happened to me during the past year?"
+    new "Desperté un año después de que se desatara el Fin. ¿Qué me pasó durante el último año?"
 
     # game/script.rpy:252
     old "She's the first person I met after awakening, she discovered me sleeping on her sofa."
-    new "She's the first person I met after awakening, she discovered me sleeping on her sofa."
+    new "Ella es la primera persona que conocí después de despertar, me descubrió durmiendo en su sofá."
 
     # game/script.rpy:258
     old "This is the community I have awakened to. It's inhabited by four girls: Alice, Grace, Lexi and Mina."
-    new "This is the community I have awakened to. It's inhabited by four girls: Alice, Grace, Lexi and Mina."
+    new "Esta es la comunidad a la que he despertado. Está habitado por cuatro chicas: Alice, Grace, Lexi y Mina."
 
     # game/script.rpy:288
     old "While most sites are down, the internet is somehow working."
-    new "While most sites are down, the internet is somehow working."
+    new "Si bien la mayoría de los sitios están inactivos, Internet funciona de alguna manera."
 
     # game/script.rpy:292
     old "Hollow Market"
@@ -721,12 +721,12 @@ translate spanish strings:
 
     # game/script.rpy:292
     old "It's online shopping service created by Hed the Gamer. They provide express delivery. I can access it from the pc in my room."
-    new "It's online shopping service created by Hed the Gamer. They provide express delivery. I can access it from the pc in my room."
+    new "Es un servicio de compras en línea creado por Hed the Gamer. Ofrecen entrega inmediata. Puedo acceder desde la pc de mi habitación."
 
     # game/script.rpy:306
     old "Cultists are extremely dangerous, much more so than monsters."
-    new "Cultists are extremely dangerous, much more so than monsters."
+    new "Los cultistas son extremadamente peligrosos, mucho más que los monstruos."
 
     # game/script.rpy:312
     old "She's the scavenger in the Jade Hotel."
-    new "She's the scavenger in the Jade Hotel."
+    new "Ella es la recolectora en el Hotel Jade."

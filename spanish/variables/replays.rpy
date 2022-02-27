@@ -671,4 +671,3 @@ translate spanish strings:
     # game/variables/replays.rpy:268
     old "First Days in the Hotel"
     new "First Days in the Hotel"
-

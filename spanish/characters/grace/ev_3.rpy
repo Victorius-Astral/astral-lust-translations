@@ -70,7 +70,7 @@ translate spanish grace_3_5d97014c:
 translate spanish grace_3_e6a50fdd:
 
     # grace "You think so?!"
-    grace "¡¿Eso Crees?!"
+    grace "¡¿Eso crees?!"
 
 # game/characters/grace/ev_3.rpy:28
 translate spanish grace_3_e490246d:
@@ -206,4 +206,3 @@ translate spanish strings:
     # game/characters/grace/ev_3.rpy:49
     old "She wants me to convey her words to her mother if I were to encounter her outside."
     new "She wants me to convey her words to her mother if I were to encounter her outside."
-

@@ -24,18 +24,18 @@ translate spanish strings:
 
     # game/variables/classes/Inventory.rpy:132
     old "Lost {}"
-    new "Lost {}"
+    new "{} perdido"
 
     # game/variables/classes/Inventory.rpy:136
     old "Required item missing."
-    new "Required item missing."
+    new "Falta el elemento requerido."
 # TODO: Translation updated at 2022-02-26 14:57
 
 translate spanish strings:
 
     # game/variables/classes/Inventory.rpy:28
     old "Items obtained:"
-    new "Items obtained:"
+    new "Objetos obtenidos:"
 
     # game/variables/classes/Inventory.rpy:54
     old "\n • {} {{color={}}}{}{{/color}},"
@@ -43,5 +43,4 @@ translate spanish strings:
 
     # game/variables/classes/Inventory.rpy:170
     old "Lost all items."
-    new "Lost all items."
-
+    new "Todos los objetos perdidos."
