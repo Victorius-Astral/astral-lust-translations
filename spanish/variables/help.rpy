@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 translate spanish strings:
 
@@ -286,7 +286,7 @@ translate spanish strings:
     old "From time to time you can meet Mysterious Trader at the library, offering tarot cards for special coins."
     new "De vez en cuando puedes encontrarte con Comerciante Misterioso en la biblioteca, que ofrece cartas del tarot por monedas especiales."
 
-# TODO: Translation updated at 2021-05-17 12:56
+# : Translation updated at 2021-05-17 12:56
 
 translate spanish strings:
 
@@ -301,7 +301,7 @@ translate spanish strings:
     # game/variables/help.rpy:3
     old "{gold}Remember, raising your stats can increase your combat ability dramatically!{/gold}"
     new "{gold}Recuerda, ¡aumentar tus estadísticas puede incrementar tu habilidad de combate severamente!{/gold}"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 
@@ -316,7 +316,7 @@ translate spanish strings:
     # game/variables/help.rpy:3
     old "Forge allows you to do mostly two things:"
     new "La forja te permite hacer principalmente dos cosas:"
-# TODO: Translation updated at 2022-02-16 09:41
+# : Translation updated at 2022-02-16 09:41
 
 translate spanish strings:
 

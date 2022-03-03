@@ -68,151 +68,151 @@ translate spanish strings:
 
     # game/screens/menu/inventory.rpy:368
     old "A snack loved by everyone, Lexi simply loves them."
-    new "A snack loved by everyone, Lexi simply loves them."
+    new "Un bocadillo amado por todos. A Lexi simplemente le encanta."
 
     # game/screens/menu/inventory.rpy:371
     old "Trade Goods"
-    new "Bienes Intercambables"
+    new "Bienes Intercambiables"
 
     # game/screens/menu/inventory.rpy:372
     old "Spider Fangs"
-    new "Spider Fangs"
+    new "Colmillos de Araña"
 
     # game/screens/menu/inventory.rpy:373
     old "Ghoul Teeth"
-    new "Ghoul Teeth"
+    new "Dientes de Ghoul"
 
     # game/screens/menu/inventory.rpy:381
     old "Rusty Key"
-    new "Rusty Key"
+    new "Llave Oxidada"
 
     # game/screens/menu/inventory.rpy:381
     old "Key"
-    new "Key"
+    new "Llave"
 
     # game/screens/menu/inventory.rpy:382
     old "Iron Key"
-    new "Iron Key"
+    new "Llave de Hierro"
 
     # game/screens/menu/inventory.rpy:383
     old "Gold Key"
-    new "Gold Key"
+    new "Llave de Oro"
 
     # game/screens/menu/inventory.rpy:384
     old "Artefact Key"
-    new "Artefact Key"
+    new "Llave de Artefacto"
 
     # game/screens/menu/inventory.rpy:387
     old "Wooden Chest"
-    new "Wooden Chest"
+    new "Cofre de Madera"
 
     # game/screens/menu/inventory.rpy:387
     old "Can be opened with {}."
-    new "Can be opened with {}."
+    new "Se puede abrir con {}."
 
     # game/screens/menu/inventory.rpy:387
     old "Container"
-    new "Container"
+    new "Contenedor"
 
     # game/screens/menu/inventory.rpy:388
     old "Iron Chest"
-    new "Iron Chest"
+    new "Cofre de Hierro"
 
     # game/screens/menu/inventory.rpy:389
     old "Solid Chest"
-    new "Solid Chest"
+    new "Cofre Sólido"
 
     # game/screens/menu/inventory.rpy:390
     old "Big Iron Chest"
-    new "Big Iron Chest"
+    new "Cofre Grande de Hierro"
 
     # game/screens/menu/inventory.rpy:391
     old "Ancient Chest"
-    new "Ancient Chest"
+    new "Cofre Antiguo"
 
     # game/screens/menu/inventory.rpy:392
     old "Ornate Chest"
-    new "Ornate Chest"
+    new "Cofre Adornado"
 
     # game/screens/menu/inventory.rpy:393
     old "Imperial Chest"
-    new "Imperial Chest"
+    new "Cofre Imperial"
 
     # game/screens/menu/inventory.rpy:393
     old "Can be opened with 3 {}s."
-    new "Can be opened with 3 {}s."
+    new "Se puede abrir con 3 {}s."
 
     # game/screens/menu/inventory.rpy:394
     old "Chest of the Great Old Ones"
-    new "Chest of the Great Old Ones"
+    new "Cofre de los Grandes Antiguos"
 
     # game/screens/menu/inventory.rpy:394
     old "Can be opened with 5 {}s."
-    new "Can be opened with 5 {}s."
+    new "Se puede abrir con 5 {}s."
 
     # game/screens/menu/inventory.rpy:397
     old "Chocolate Bar"
-    new "Chocolate Bar"
+    new "Barra de Chocolate"
 
     # game/screens/menu/inventory.rpy:397
     old "Consumable"
-    new "Consumable"
+    new "Consumible"
 
     # game/screens/menu/inventory.rpy:398
     old "Apple"
-    new "Apple"
+    new "Manzana"
 
     # game/screens/menu/inventory.rpy:399
     old "Cheese"
-    new "Cheese"
+    new "Queso"
 
     # game/screens/menu/inventory.rpy:400
     old "Milk"
-    new "Milk"
+    new "Leche"
 
     # game/screens/menu/inventory.rpy:401
     old "Cake"
-    new "Cake"
+    new "Pastel"
 
     # game/screens/menu/inventory.rpy:402
     old "Bread"
-    new "Bread"
+    new "Pan"
 
     # game/screens/menu/inventory.rpy:404
     old "Cookie"
-    new "Cookie"
+    new "Galleta"
 
     # game/screens/menu/inventory.rpy:405
     old "Meat"
-    new "Meat"
+    new "Carne"
 
     # game/screens/menu/inventory.rpy:406
     old "Pear"
-    new "Pear"
+    new "Pera"
 
     # game/screens/menu/inventory.rpy:407
     old "Strawberry"
-    new "Strawberry"
+    new "Fresa"
 
     # game/screens/menu/inventory.rpy:408
     old "Onion"
-    new "Onion"
+    new "Cebolla"
 
     # game/screens/menu/inventory.rpy:409
     old "Gooseberry"
-    new "Gooseberry"
+    new "Grosella"
 
     # game/screens/menu/inventory.rpy:410
     old "Cherry"
-    new "Cherry"
+    new "Cereza"
 
     # game/screens/menu/inventory.rpy:427
     old "Junk"
-    new "Junk"
+    new "Basura"
 
     # game/screens/menu/inventory.rpy:427
     old "Saintly"
-    new "Saintly"
+    new "Santo"
 
     # game/screens/menu/inventory.rpy:427
     old "Primordial"
@@ -220,56 +220,56 @@ translate spanish strings:
 
     # game/screens/menu/inventory.rpy:438
     old "Weaving"
-    new "Weaving"
+    new "Tejido"
 
     # game/screens/menu/inventory.rpy:438
     old "Gun assembly"
-    new "Gun assembly"
+    new "Ensamblaje de arma"
 
     # game/screens/menu/inventory.rpy:438
     old "Construction"
-    new "Construction"
+    new "Construcción"
 
     # game/screens/menu/inventory.rpy:438
     old "Gift"
-    new "Gift"
+    new "Regalo"
 
     # game/screens/menu/inventory.rpy:438
     old "Right click to open"
-    new "Right click to open"
+    new "Clic derecho para abrir"
 
     # game/screens/menu/inventory.rpy:438
     old "Right click to use"
-    new "Right click to use"
+    new "Clic derecho para usar"
 
     # game/screens/menu/inventory.rpy:438
     old "Right click to consume"
-    new "Right click to consume"
+    new "Clic derecho para consumir"
 
     # game/screens/menu/inventory.rpy:438
     old "Open locked containers"
-    new "Open locked containers"
+    new "Abrir contenedores cerrados"
 
     # game/screens/menu/inventory.rpy:438
     old "Useless"
-    new "Useless"
+    new "Inútil"
 
     # game/screens/menu/inventory.rpy:456
     old "Hold to open"
-    new "Hold to open"
+    new "Mantener para abrir"
 
     # game/screens/menu/inventory.rpy:467
     old "To open {{b}}{{color={}}}{}{{/color}}{{/b}} you need to have {} {{b}}{{color={}}}{}s{{/color}}{{/b}}"
-    new "To open {{b}}{{color={}}}{}{{/color}}{{/b}} you need to have {} {{b}}{{color={}}}{}s{{/color}}{{/b}}"
+    new "Para abrir {{b}}{{color={}}}{}{{/color}}{{/b}} necesitas tener {} {{b}}{{color={}}}{}s{{/color}}{{/b}}"
 
     # game/screens/menu/inventory.rpy:470
     old "To open {{b}}{{color={}}}{}{{/color}}{{/b}} you need to have {} {{b}}{{color={}}}{}{{/color}}{{/b}}"
-    new "To open {{b}}{{color={}}}{}{{/color}}{{/b}} you need to have {} {{b}}{{color={}}}{}{{/color}}{{/b}}"
+    new "Para abrir {{b}}{{color={}}}{}{{/color}}{{/b}} necesitas tener {} {{b}}{{color={}}}{}{{/color}}{{/b}}"
 
     # game/screens/menu/inventory.rpy:476
     old "Item description."
-    new "Item description."
+    new "Descripción del objeto."
 
     # game/screens/menu/inventory.rpy:542
     old "Use: "
-    new "Use: "
+    new "Uso: "

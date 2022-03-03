@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/traders/mysterious/speak.rpy:4
 translate spanish speak_mt_18415716:
@@ -304,7 +304,7 @@ translate spanish strings:
     old "Decrease corruption [[1 Mysterious Coins]"
     new "Reducir corrupción [[1 Moneda Misteriosa]"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

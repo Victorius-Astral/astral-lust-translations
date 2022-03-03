@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/script.rpy:50
 translate spanish start_3cb4f043:
@@ -667,7 +667,7 @@ translate spanish strings:
     # game/script.rpy:288
     old "Equipment"
     new "Equipo"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 
@@ -675,7 +675,7 @@ translate spanish strings:
     old "What's your name? ("
     new "¿Cuál es tu nombre? ("
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

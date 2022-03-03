@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 translate spanish strings:
 
@@ -281,7 +281,7 @@ translate spanish strings:
     # game/screens.rpy:1405
     old "Menu"
     new "Menu"
-# TODO: Translation updated at 2021-05-17 12:56
+# : Translation updated at 2021-05-17 12:56
 
 translate spanish strings:
 
@@ -336,7 +336,7 @@ translate spanish strings:
     # game/screens.rpy:610
     old "\n\n{quiet}Legal:\nAstral Lust is the intellectual property of Victorius.\nVictorius can be contacted through Discord (https://discord.gg/rvnBC39USx) or Patreon (https://www.patreon.com/Victorius).\n\n(a) Permission is granted for this material to be shared for non-commercial purposes provided that this statement appears in the reproduced materials.\n(b) You may NOT sell these files or modify these files to sell, either grouped together or separately.\n(c) You may NOT remove or alter the credit of the creator as it is shown here and in the game's files.\n(d) You may redistribute these files (Astral Lust) as Astral Lust for free. Given a credit to the developer (Victorius) is provided.{/quiet}"
     new "\n\n{quiet}Legal:\nAstral Lust es propiedad intelectual de Victorius.\nVictorius se puede contactar a través de Discord (https://discord.gg/rvnBC39USx) o Patreon (https://www.patreon.com/Victorius).\n\n(a) Se concede permiso para compartir este material con fines no comerciales siempre que ésta declaración aparece en los materiales reproducidos.\n(b) NO se puede vender estos archivos ni modificar estos archivos para venderlos, ya sea agrupados o por separado.\n(c) NO puede eliminar ni alterar el crédito del creador tal como se muestra aquí y en los archivos del juego.\n(d) Puede redistribuir estos archivos (Astral Lust) como Astral Lust gratuitamente. Se proporciona un crédito al desarrollador (Victorius).{/quiet}"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 
@@ -376,17 +376,17 @@ translate spanish strings:
     old "Mods"
     new "Mods"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 
     # game/screens.rpy:423
     old "Resume"
-    new "Resumen"
-# TODO: Translation updated at 2022-02-16 09:41
+    new "Resúmen"
+# : Translation updated at 2022-02-16 09:41
 
 translate spanish strings:
 
     # game/screens.rpy:189
     old "CONFIRM"
-    new "CONFIRM"
+    new "CONFIRMAR"

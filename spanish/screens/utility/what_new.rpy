@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 
@@ -237,7 +237,7 @@ translate spanish strings:
     # game/screens/utility/what_new.rpy:575
     old "{b}Other changes{/b}\nThere is a lot of other changes, both big and small. Many gui elements were made bigger, some new things were added, including secret event. Wallpapers & collectibles screens will load >90% faster now. A lot of issues were fixed."
     new "{b}Otros cambios{/b}\nHay muchos otros cambios, tanto grandes como pequeños. Muchos elementos de interfaz gráfica de usuario se hicieron más grandes. Se agregaron algunas cosas nuevas, incluido un evento secreto. Las pantallas de fondos de pantalla y coleccionables ahora se cargarán un 90 % más rápido. Se solucionaron muchos problemas."
-# TODO: Translation updated at 2022-02-16 09:41
+# : Translation updated at 2022-02-16 09:41
 
 translate spanish strings:
 
@@ -247,37 +247,36 @@ translate spanish strings:
 
     # game/screens/utility/what_new.rpy:172
     old "A new Kitsune arrived in Asthar, and she's extra hot! She loves sex, and also loves girls. She has (toggleable) lesbian content with [lil_fox] available. Moreover she's designed after a real person, join our {a=https://discord.gg/rvnBC39USx}Discord{/a} server, and chat with her! Let's just hope your admiration won't get into her head :P"
-    new "A new Kitsune arrived in Asthar, and she's extra hot! She loves sex, and also loves girls. She has (toggleable) lesbian content with [lil_fox] available. Moreover she's designed after a real person, join our {a=https://discord.gg/rvnBC39USx}Discord{/a} server, and chat with her! Let's just hope your admiration won't get into her head :P"
+    new "Una nueva Kitsune llegó a Asthar, ¡y está muy buena! Le encanta el sexo, y también le encantan las chicas. Tiene contenido lésbico (opcional) con [lil_fox] disponible. Además, está diseñada a partir de una persona real, ¡únete a nuestro servidor de {a=https://discord.gg/rvnBC39USx}Discord{/a} y chatea con ella! Solo esperemos que tu admiración no se le meta en la cabeza :P"
 
     # game/screens/utility/what_new.rpy:183
     old "{b}Kiara event{/b}"
-    new "{b}Kiara event{/b}"
+    new "{b}Evento de Kiara{/b}"
 
     # game/screens/utility/what_new.rpy:184
     old "Kiara got new story event explaining the creation myth believed by extraordinary beings. Don't forget to have fun afterwards, 6 new sex scenes, 3 new outfits, and almost 300 animations! Have you ever banged a girl with your clone?"
-    new "Kiara got new story event explaining the creation myth believed by extraordinary beings. Don't forget to have fun afterwards, 6 new sex scenes, 3 new outfits, and almost 300 animations! Have you ever banged a girl with your clone?"
+    new "Kiara obtuvo un nuevo evento de historia que explica el mito de la creación, creído por los seres extraordinarios. ¡No olvides divertirte después, 6 nuevas escenas de sexo, 3 nuevos atuendos y casi 300 animaciones! ¿Alguna vez te has tirado a una chica con tu clon?"
 
     # game/screens/utility/what_new.rpy:195
     old "{b}Alice Shower Event{/b}"
-    new "{b}Alice Shower Event{/b}"
+    new "{b}Evento de Alice en la Ducha{/b}"
 
     # game/screens/utility/what_new.rpy:196
     old "[alice]'s shower event was expanded with a new scene. Have some fun with your little girl, and help her wash her back!"
-    new "[alice]'s shower event was expanded with a new scene. Have some fun with your little girl, and help her wash her back!"
+    new "El evento de ducha de [alice] se amplió con una nueva escena. ¡Diviértete con tu chica y ayúdala a lavarse la espalda!"
 
     # game/screens/utility/what_new.rpy:207
     old "{b}Lexi Brings Food{/b}"
-    new "{b}Lexi Brings Food{/b}"
+    new "{b}Lexi Trae Comida{/b}"
 
     # game/screens/utility/what_new.rpy:208
     old "This new random interaction between [lexi] & [grace] will let you know girl a little more. There are five different conversations."
-    new "This new random interaction between [lexi] & [grace] will let you know girl a little more. There are five different conversations."
+    new "Esta nueva interacción al azar entre [lexi] y [grace] te permitirá conocer a la chica un poco más. Hay cinco conversaciones diferentes."
 
     # game/screens/utility/what_new.rpy:211
     old "{b}Outfit Crafting Menu{/b}"
-    new "{b}Outfit Crafting Menu{/b}"
+    new "{b}Menú de Creación de Atuendos{/b}"
 
     # game/screens/utility/what_new.rpy:212
     old "Now when asking [alice] to make outfit, you'll be able to use a new outfits menu!"
-    new "Now when asking [alice] to make outfit, you'll be able to use a new outfits menu!"
-
+    new "¡Ahora, cuando le pidas a [alice] que haga un atuendo, podrás usar un nuevo menú de atuendos!"

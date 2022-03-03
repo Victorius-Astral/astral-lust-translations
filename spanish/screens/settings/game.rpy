@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 translate spanish strings:
 
@@ -196,11 +196,10 @@ translate spanish strings:
     # game/screens/settings/game.rpy:186
     old "Not Set"
     new "No Establecido"
-# TODO: Translation updated at 2022-02-26 14:57
+# : Translation updated at 2022-02-26 14:57
 
 translate spanish strings:
 
     # game/screens/settings/game.rpy:90
     old "Notifications Style"
-    new "Notifications Style"
-
+    new "Estilo de Notificaciones"

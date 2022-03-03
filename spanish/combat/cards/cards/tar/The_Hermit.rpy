@@ -4,29 +4,28 @@ translate spanish strings:
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:6
     old "The Hermit"
-    new "The Hermit"
+    new "El Hermitaño"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "intelligence"
-    new "intelligence"
+    new "inteligencia"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "vitality"
-    new "vitality"
+    new "vitalidad"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "charisma"
-    new "charisma"
+    new "carisma"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "agility"
-    new "agility"
+    new "agilidad"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "wisdom"
-    new "wisdom"
+    new "sabiduría"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "strength"
-    new "strength"
-
+    new "fuerza"

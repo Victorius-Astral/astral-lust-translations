@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 translate spanish strings:
 
@@ -398,7 +398,7 @@ translate spanish strings:
     old "Wanderers"
     new "Errantes"
 
-# TODO: Translation updated at 2021-05-17 12:56
+# : Translation updated at 2021-05-17 12:56
 
 translate spanish strings:
 
@@ -413,13 +413,13 @@ translate spanish strings:
     # game/variables/replays.rpy:167
     old "Secret"
     new "Secreto"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 
     # game/variables/replays.rpy:30
     old "Talk About Outfits"
-    new "Charla Sobre Disfraces"
+    new "Charla Sobre Trajes"
 
     # game/variables/replays.rpy:30
     old "Night Cuddler part 1"
