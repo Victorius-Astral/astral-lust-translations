@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-17 12:56
+﻿# : Translation updated at 2021-05-17 12:56
 
 translate spanish strings:
 
@@ -41,7 +41,7 @@ translate spanish strings:
     # game/variables/characters/events.rpy:11
     old "Man"
     new "Hombre"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 

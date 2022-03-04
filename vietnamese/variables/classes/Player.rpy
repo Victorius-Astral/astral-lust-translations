@@ -24,52 +24,51 @@ translate vietnamese strings:
 
     # game/variables/classes/Player.rpy:327
     old "Corruption + {}% \nCurrent corruption: {}%"
-    new "Sự xa đọa + {}% \nSự xa đọa hiện có: {}%"
+    new "Sự sa đọa + {}% \nSự sa đọa hiện có: {}%"
 
     # game/variables/classes/Player.rpy:330
     old "Corruption - {}% \nCurrent corruption: {}%"
-    new "Sự xa đọa - {}% \nSự xa đọa hiện có: {}%"
+    new "Sự sa đọa - {}% \nSự sa đọa hiện có: {}%"
 
     # game/variables/classes/Player.rpy:336
     old "Killed a human:\nCorruption + {}% \nSanity - {}% \n\nCurrent corruption: {}% \nCurrent sanity: {}%"
-    new "Giết một con người:\nSự xa đọa + {}% \nSự tỉnh táo - {}% \n\nSự xa đọa hiện có: {}% \nSự tỉnh táo hiện có: {}%"
+    new "Giết một con người:\nSự sa đọa + {}% \nSự tỉnh táo - {}% \n\nSự sa đọa hiện có: {}% \nSự tỉnh táo hiện có: {}%"
 # TODO: Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
     # game/variables/classes/Player.rpy:166
     old "Agility"
-    new "Agility"
+    new "Độ nhanh nhẹn"
 
     # game/variables/classes/Player.rpy:180
     old "Vitality"
-    new "Vitality"
+    new "Sinh lực"
 
     # game/variables/classes/Player.rpy:187
     old "Wisdom"
-    new "Wisdom"
+    new "Sự thông thái"
 
     # game/variables/classes/Player.rpy:194
     old "Intelligence"
-    new "Intelligence"
+    new "Trí tuệ"
 
     # game/variables/classes/Player.rpy:201
     old "Charisma"
-    new "Charisma"
+    new "Sức thu hút"
 
     # game/variables/classes/Player.rpy:209
     old "{} was raised by {} {}."
-    new "{} was raised by {} {}."
+    new "{} được tăng lên {} {}."
 
     # game/variables/classes/Player.rpy:212
     old " points"
-    new " points"
+    new " điểm"
 
     # game/variables/classes/Player.rpy:214
     old " point"
-    new " point"
+    new " điểm"
 
     # game/variables/classes/Player.rpy:226
     old "{} can't be raised any further."
-    new "{} can't be raised any further."
-
+    new "{} không thể được nâng cao hơn nữa."

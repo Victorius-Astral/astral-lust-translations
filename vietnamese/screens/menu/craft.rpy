@@ -4,9 +4,8 @@ translate vietnamese strings:
 
     # game/screens/menu/craft.rpy:80
     old "Smithing"
-    new "Smithing"
+    new "Rèn"
 
     # game/screens/menu/craft.rpy:80
     old "Assemble"
-    new "Assemble"
-
+    new "Tập hợp"

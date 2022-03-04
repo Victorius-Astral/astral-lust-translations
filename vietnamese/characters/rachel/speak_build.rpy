@@ -751,52 +751,52 @@ translate vietnamese strings:
 translate vietnamese speak_rachel_build_part2_d25a92db:
 
     # me "So, it's not completed?"
-    me "So, it's not completed?"
+    me "Vậy, nó chưa hoàn thành sao?"
 
 # game/characters/rachel/speak_build.rpy:101
 translate vietnamese speak_rachel_build_part2_2d7e669f:
 
     # rachel "Yeah. The whole Great Wilderness is the gigantic forest with trees that reach the sky."
-    rachel "Yeah. The whole Great Wilderness is the gigantic forest with trees that reach the sky."
+    rachel "Vâng. Toàn bộ vùng Đại Lâm là một khu rừng khổng lồ với những cây cao tới tận trời xanh."
 
 # game/characters/rachel/speak_build.rpy:297
 translate vietnamese speak_rachel_build_building_58a1c96b:
 
     # rachel "Great! I have all the needed materials. Time to work!"
-    rachel "Great! I have all the needed materials. Time to work!"
+    rachel "Tuyệt quá! Tôi có tất cả các vật liệu cần thiết. Đến lúc để vào việc rồi!"
 
 # game/characters/rachel/speak_build.rpy:355
 translate vietnamese speak_rachel_build_building_f941d913:
 
     # rachel "As a result, all humans settlements were razed, and the ones that escaped were soon devoured by the beasts running rampant or perished under leftovers of the Gods' power."
-    rachel "As a result, all humans settlements were razed, and the ones that escaped were soon devoured by the beasts running rampant or perished under leftovers of the Gods' power."
+    rachel "Kết quả là tất cả các khu định cư của con người đã bị san bằng, và những người trốn thoát sớm bị nuốt chửng bởi những con thú chạy thành lũy hoặc bị giết chết dưới những tàn dư của sức mạnh các vị thần."
 
 # game/characters/rachel/speak_build.rpy:359
 translate vietnamese speak_rachel_build_building_3c33fb02:
 
     # me "And there are still people that have seen it?"
-    me "And there are still people that have seen it?"
+    me "Và vẫn có những người đã nhìn thấy nó?"
 
 # game/characters/rachel/speak_build.rpy:361
 translate vietnamese speak_rachel_build_building_122a0ab8:
 
     # rachel "There are monstrosities that find immortal meat a delicacy. The worst are called the Wicked Ones."
-    rachel "There are monstrosities that find immortal meat a delicacy. The worst are called the Wicked Ones."
+    rachel "Có những kẻ quái dị cho rằng thịt bất tử là một món ngon. Điều tồi tệ nhất là những kẻ xấu xa."
 
 # game/characters/rachel/speak_build.rpy:368
 translate vietnamese speak_rachel_build_building_e5d4e801:
 
     # rachel "The Great Wilderness I'm from is overgrown with vitality. I've heard it's precisely because of the leftover power of Goddess of Life. It might be just a legend, though."
-    rachel "The Great Wilderness I'm from is overgrown with vitality. I've heard it's precisely because of the leftover power of Goddess of Life. It might be just a legend, though."
+    rachel "Vùng Đại Lâm hoang dã tràn ngập sức sống. Tôi nghe nói đó chính là do sức mạnh còn sót lại của Nữ thần Sự sống. Tuy nhiên, nó có thể chỉ là một huyền thoại."
 
 # game/characters/rachel/speak_build.rpy:371
 translate vietnamese speak_rachel_build_building_87a20671:
 
     # rachel "Perhaps these immortals know what really happened. What I know is that since that era, Gods have disappeared from Paradise."
-    rachel "Perhaps these immortals know what really happened. What I know is that since that era, Gods have disappeared from Paradise."
+    rachel "Có lẽ những người bất tử này biết điều gì đã thực sự xảy ra. Những gì tôi biết là kể từ thời đại đó, các vị thần đã biến mất khỏi địa đàng."
 
 # game/characters/rachel/speak_build.rpy:379
 translate vietnamese speak_rachel_build_building_118422f9:
 
     # rachel "Alright, if you have no more questions, I would like to start working."
-    rachel "Alright, if you have no more questions, I would like to start working."
+    rachel "Được rồi, nếu anh không còn câu hỏi nào nữa, tôi sẽ bắt đầu vào việc đây."

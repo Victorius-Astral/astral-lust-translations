@@ -1018,7 +1018,7 @@ translate spanish mina_5_3_37aa3470:
 translate spanish mina_5_3_76a2ed5a:
 
     # "Upon receiving the praise [grace] starts to grin like an idiot."
-    "Al recibir la alabanza [gracia] comienza a sonreír como una idiota."
+    "Al recibir la alabanza [grace] comienza a sonreír como una idiota."
 
 # game/characters/mina/ev_5.rpy:333
 translate spanish mina_5_3_c00eac75:

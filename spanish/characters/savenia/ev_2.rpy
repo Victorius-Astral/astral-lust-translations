@@ -484,7 +484,7 @@ translate spanish savenia_2_94a88543:
 translate spanish savenia_2_1fa4a683:
 
     # me "I've found her lying down beside a bike."
-    me "La encontré acostada al lado de una bicicleta."
+    me "La encontré acostada al lado de una moto."
 
 # game/characters/savenia/ev_2.rpy:154
 translate spanish savenia_2_6f65b047:

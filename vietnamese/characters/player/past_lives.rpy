@@ -653,22 +653,22 @@ translate vietnamese strings:
 translate vietnamese past_lives_d4e4a1ed:
 
     # me "It feels too real, though."
-    me "It feels too real, though."
+    me "Mặc dù vậy mình cảm thấy nó thật quá."
 
 # game/characters/player/past_lives.rpy:71
 translate vietnamese past_lives_a66165bc:
 
     # past_me "You'll meet her one day."
-    past_me "You'll meet her one day."
+    past_me "Mày sẽ gặp cô ấy vào một ngày nào đó thôi."
 
 # game/characters/player/past_lives.rpy:84
 translate vietnamese past_lives_ca2348b8:
 
     # past_me "In the end, only Demeter stood by my side beside The Door."
-    past_me "In the end, only Demeter stood by my side beside The Door."
+    past_me "Cuối cùng, chỉ có Demeter đứng bên cạnh tao ngoài Cánh Cửa."
 
 # game/characters/player/past_lives.rpy:166
 translate vietnamese past_lives_part2_6cdb0257:
 
     # past_me "We were together for a long time. I was happier than ever before. Even when she made me anemic."
-    past_me "We were together for a long time. I was happier than ever before. Even when she made me anemic."
+    past_me "Bọn tao đã ở bên nhau trong một thời gian dài, tao đã hạnh phúc hơn bao giờ hết. Ngay cả khi cô ấy làm tao thiếu máu."

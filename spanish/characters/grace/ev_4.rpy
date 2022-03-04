@@ -310,7 +310,7 @@ translate spanish grace_4_1_93c37285:
 translate spanish grace_4_1_8e0ca5f6:
 
     # "Taking some cloth from [grace] you leave."
-    "Tomando un poco de tela de [gracia], te vas."
+    "Tomando un poco de tela de [grace], te vas."
 
 # game/characters/grace/ev_4.rpy:129
 translate spanish grace_4_1_10cf39bf:

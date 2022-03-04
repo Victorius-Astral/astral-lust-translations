@@ -276,4 +276,3 @@ translate vietnamese strings:
     # game/variables/lists/error_messages.rpy:3
     old "Movie '{file}' doesn't exist!"
     new "Movie '{file}' doesn't exist!"
-

@@ -23,11 +23,11 @@ translate vietnamese strings:
 
     # game/variables/classes/Inventory.rpy:132
     old "Lost {}"
-    new "Lost {}"
+    new "Mất {}"
 
     # game/variables/classes/Inventory.rpy:136
     old "Required item missing."
-    new "Required item missing."
+    new "Vật phẩm cần tiết bị thiếu."
 
 # TODO: Translation updated at 2022-02-26 15:07
 
@@ -35,7 +35,7 @@ translate vietnamese strings:
 
     # game/variables/classes/Inventory.rpy:28
     old "Items obtained:"
-    new "Items obtained:"
+    new "Thu được vật phẩm:"
 
     # game/variables/classes/Inventory.rpy:54
     old "\n • {} {{color={}}}{}{{/color}},"
@@ -43,5 +43,4 @@ translate vietnamese strings:
 
     # game/variables/classes/Inventory.rpy:170
     old "Lost all items."
-    new "Lost all items."
-
+    new "Mất tất cả vật phẩm."

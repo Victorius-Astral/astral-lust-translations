@@ -56,15 +56,15 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/alice.rpy:45
     old "• Blowjob: "
-    new "• Bú cu: "
+    new "• Blowjob: "
 
     # game/screens/menus/girls/alice.rpy:46
     old "• Boobjob: "
-    new "• Ngực: "
+    new "• Đụ ngực: "
 
     # game/screens/menus/girls/alice.rpy:47
     old "• Footjob: "
-    new "• Chân: "
+    new "• Footjob: "
 
     # game/screens/menus/girls/alice.rpy:48
     old "• Vaginal: "
@@ -103,4 +103,4 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/alice.rpy:22
     old "Nicknames: Al"
-    new "Nicknames: Al"
+    new "Biệt danh: Al"

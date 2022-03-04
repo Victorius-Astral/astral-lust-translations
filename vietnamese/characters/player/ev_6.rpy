@@ -353,4 +353,4 @@ translate vietnamese strings:
 
     # game/characters/player/ev_6.rpy:42
     old "Names have heavy meaning. They are beacons through which higher beings connect with the spiritual world. They can hear, locate and respond to someone calling Their name."
-    new "Names have heavy meaning. They are beacons through which higher beings connect with the spiritual world. They can hear, locate and respond to someone calling Their name."
+    new "Những cái tên mang nặng ý nghĩa. Chúng là những ngọn hải đăng mà qua đó những thực thể kết nối với thế giới tâm linh. Họ có thể nghe, xác định vị trí và phản hồi khi ai đó gọi tên của họ."

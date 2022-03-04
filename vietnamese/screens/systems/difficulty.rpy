@@ -175,5 +175,4 @@ translate vietnamese strings:
 
     # game/screens/systems/difficulty.rpy:26
     old "In this mode the challenge from combat will exist only battling the elite enemies. This mode will not provide you with many if any challenges. It's not an intended way to play, and Gracie might make fun of you."
-    new "In this mode the challenge from combat will exist only battling the elite enemies. This mode will not provide you with many if any challenges. It's not an intended way to play, and Gracie might make fun of you."
-
+    new "Trong chế độ này, sự khó khăn từ chiến đấu sẽ chỉ tồn tại khi chiến đấu với những kẻ thù mạnh mẽ. Chế độ này sẽ không cung cấp cho bạn nhiều thử thách. Đây không phải là một cách chơi hay và Gracie có thể cà khịa bạn đấy."

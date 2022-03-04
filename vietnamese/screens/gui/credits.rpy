@@ -36,7 +36,7 @@ translate vietnamese strings:
 
     # game/screens/gui/credits.rpy:60
     old "Still Victorius"
-    new "Still Victorius"
+    new "Vẫn là Victorius"
 
     # game/screens/gui/credits.rpy:62
     old "\nWriter"
@@ -81,4 +81,3 @@ translate vietnamese strings:
     # game/screens/gui/credits.rpy:92
     old "\nCommunity Manager:"
     new "\nCommunity Manager:"
-

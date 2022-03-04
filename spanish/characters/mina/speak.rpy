@@ -450,7 +450,7 @@ translate spanish strings:
 
     # game/characters/mina/speak.rpy:112
     old "Tell me something about yourself"
-    new "Háblame sobre ti misma"
+    new "Háblame de ti"
 
 # TODO: Translation updated at 2022-01-25 22:41
 

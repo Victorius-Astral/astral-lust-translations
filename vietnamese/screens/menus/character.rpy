@@ -40,7 +40,7 @@ translate vietnamese strings:
 
     # game/screens/menus/character.rpy:63
     old "Sanity:\nCorruption:"
-    new "Sự tỉnh táo:\nSự xa đọa:"
+    new "Sự tỉnh táo:\nSự sa đọa:"
 
     # game/screens/menus/character.rpy:64
     old "[player.sanity]%\n[player.corruption]%"
@@ -76,7 +76,7 @@ translate vietnamese strings:
 
     # game/screens/menus/character.rpy:93
     old "Luck:"
-    new "Luck:"
+    new "May mắn:"
 
     # game/screens/menus/character.rpy:94
     old "[player.luck]"

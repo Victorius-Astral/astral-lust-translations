@@ -23,4 +23,4 @@ translate vietnamese strings:
 
     # game/functions/create.rpy:204
     old "Create"
-    new "Create"
+    new "Tạo"

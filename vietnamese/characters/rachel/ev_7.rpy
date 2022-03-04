@@ -237,16 +237,16 @@ translate vietnamese strings:
 translate vietnamese rachel_7_dad6c67a:
 
     # rachel "She has awakened, by the way."
-    rachel "She has awakened, by the way."
+    rachel "Nhân tiện thì em ấy cũng thức tỉnh rồi đấy."
 
 # game/characters/rachel/ev_7.rpy:63
 translate vietnamese rachel_7_78dc0f6c:
 
     # rachel "I'm not crazy with hunger, like Little Fox."
-    rachel "I'm not crazy with hunger, like Little Fox."
+    rachel "Tôi không phát điên vì đói như Tiểu Cáo đâu."
 
 # game/characters/rachel/ev_7.rpy:87
 translate vietnamese rachel_7_5f75d24c:
 
     # me "I didn't know it was the reward, so I didn't enjoy it enough."
-    me "I didn't know it was the reward, so I didn't enjoy it enough."
+    me "Tôi không biết đó là phần thưởng nên tôi chưa tận hưởng đủ."

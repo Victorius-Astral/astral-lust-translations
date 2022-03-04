@@ -4,5 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/def/Dodge.rpy:6
     old "Dodge"
-    new "Dodge"
-
+    new "Esquivar"

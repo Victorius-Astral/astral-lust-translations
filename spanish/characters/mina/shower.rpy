@@ -46,7 +46,7 @@ translate spanish shower_mina_4989fe05:
 translate spanish shower_mina_d97f5fcc:
 
     # mina "Listen, I don't want you to peek at me, it's creepy."
-    mina "Escucha, no quiero que me mires, es espeluznante."
+    mina "Escucha, no quiero que me espíes, es espeluznante."
 
 # game/characters/mina/shower.rpy:23
 translate spanish shower_mina_b847dfb7:

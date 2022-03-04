@@ -1458,7 +1458,7 @@ translate vietnamese strings:
 
     # game/characters/alice/speak.rpy:648
     old "Rest"
-    new "Nghỉ"
+    new "Nghỉ ngơi đi"
 # TODO: Translation updated at 2022-02-06 08:10
 
 # game/characters/alice/speak.rpy:124

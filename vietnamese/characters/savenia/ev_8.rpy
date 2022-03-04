@@ -34,13 +34,13 @@ translate vietnamese savenia_8_74411c73:
 translate vietnamese savenia_8_fe1ee449:
 
     # savenia "I'm not here for that though."
-    savenia "Tôi không ở đây vì điều đó."
+    savenia "Tớ không ở đây vì điều đó."
 
 # game/characters/savenia/ev_8.rpy:48
 translate vietnamese savenia_8_e9e302fd:
 
     # me "What are you here for then?"
-    me "Thế Ccu ở đây để làm gì?"
+    me "Thế cậu ở đây để làm gì?"
 
 # game/characters/savenia/ev_8.rpy:52
 translate vietnamese savenia_8_762abff7:
@@ -369,23 +369,22 @@ translate vietnamese strings:
 translate vietnamese savenia_8_1d647c4b:
 
     # savenia "I'm not here for that, though."
-    savenia "I'm not here for that, though."
+    savenia "Tớ không ở đây vì điều đó."
 
 # game/characters/savenia/ev_8.rpy:76
 translate vietnamese savenia_8_9cc1d0dd:
 
     # savenia "You don't understand not to speak, do you?"
-    savenia "You don't understand not to speak, do you?"
+    savenia "Cậu không hiểu từ im lặng là gì, phải không?"
 
 # game/characters/savenia/ev_8.rpy:105
 translate vietnamese savenia_8_stop_145aaabc:
 
     # savenia "I guess she lost some doubts about me. But, it's still far from the trust."
-    savenia "I guess she lost some doubts about me. But, it's still far from the trust."
+    savenia "Tớ đoán là cô ấy đã bớt nghi ngờ hơn. Nhưng nó vẫn còn xa khi nói về tin tưởng."
 
 # game/characters/savenia/ev_8.rpy:120
 translate vietnamese savenia_8_stop_5192dd99:
 
     # me "It will change, they just don't trust your background."
-    me "It will change, they just don't trust your background."
-
+    me "Rồi sẽ thay đổi thôi. Chẳng qua là bọn họ không tin tưởng xuất thân của cậu thôi."

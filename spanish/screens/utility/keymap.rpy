@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 translate spanish strings:
 
@@ -37,7 +37,7 @@ translate spanish strings:
     # game/screens/utility/keymap.rpy:38
     old "Opens character relations menu."
     new "Abre character relations menu."
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 
@@ -47,7 +47,7 @@ translate spanish strings:
 
     # game/screens/utility/keymap.rpy:46
     old "Open/Close map."
-    new "Open/Close map."
+    new "Abrir/Cerrar mapa."
 
     # game/screens/utility/keymap.rpy:50
     old "Toggle interaction menu."

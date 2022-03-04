@@ -225,5 +225,4 @@ translate vietnamese d_Astral_Lust_2_a47cf47b:
 translate vietnamese d_Astral_Lust_2_8aa10819:
 
     # "You are surprised to see [kiara] before you. She sleeps on a book, floating along in the empty space."
-    "You are surprised to see [kiara] before you. She sleeps on a book, floating along in the empty space."
-
+    "Bạn ngạc nhiên khi thấy [kiara] đứng trước bạn. Cô ấy ngủ trên một cuốn sách, lơ lửng trong không gian trống rỗng."

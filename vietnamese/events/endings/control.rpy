@@ -15,7 +15,7 @@ translate vietnamese end_control_2a60c4ab:
 # game/events/endings/control.rpy:16
 translate vietnamese end_control_22e21298:
 
-    # me "Hahaha, I can't control it..."
+    # me "Hahaha, I can't control it.."
     me "Hahaha, Tôi không thể kiểm soát nó..."
 
 # game/events/endings/control.rpy:19
@@ -63,13 +63,13 @@ translate vietnamese end_control_28a0af2f:
 # game/events/endings/control.rpy:38
 translate vietnamese end_control_bab194ce:
 
-    # me "Haha..."
+    # me "Haha.."
     me "Haha..."
 
 # game/events/endings/control.rpy:41
 translate vietnamese end_control_6c1c072c:
 
-    # me "I am... turning into a monster..."
+    # me "I am.. turning into a monster.."
     me "Mình đang... biến thành một con quái vật..."
 
 # game/events/endings/control.rpy:47
@@ -101,5 +101,4 @@ translate vietnamese strings:
 translate vietnamese end_control_b9863f18:
 
     # me "Hahaha, come out, come out, COMEEE OUT!"
-    me "Hahaha, come out, come out, COMEEE OUT!"
-
+    me "Hahaha, đi ra, đi ra, ĐI RA!"

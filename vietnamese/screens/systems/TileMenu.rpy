@@ -4,25 +4,24 @@ translate vietnamese strings:
 
     # game/screens/systems/TileMenu.rpy:58
     old "Item"
-    new "Item"
+    new "Vật phẩm"
 
     # game/screens/systems/TileMenu.rpy:128
     old "Crafting"
-    new "Crafting"
+    new "Chế tạo"
 
     # game/screens/systems/TileMenu.rpy:128
     old "*This item was crafted already.*"
-    new "*This item was crafted already.*"
+    new "*Vật phẩm này đã được chế tạo rồi.*"
 
     # game/screens/systems/TileMenu.rpy:209
     old "Materials:"
-    new "Materials:"
+    new "Vật liệu:"
 
     # game/screens/systems/TileMenu.rpy:232
     old "Required:"
-    new "Required:"
+    new "Yêu cầu:"
 
     # game/screens/systems/TileMenu.rpy:287
     old "*Click to lock the selection."
-    new "*Click to lock the selection."
-
+    new "*Nhấp để khóa lựa chọn."

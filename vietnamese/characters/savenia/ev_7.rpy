@@ -305,40 +305,40 @@ translate vietnamese savenia_7_e5a99df0:
 translate vietnamese savenia_7_85fe1685:
 
     # me "Without any luck, I guess."
-    me "Without any luck, I guess."
+    me "Tớ đoán là cậu không được gì phải không."
 
 # game/characters/savenia/ev_7.rpy:54
 translate vietnamese savenia_7_f8bbda9b:
 
     # me "But, you couldn't find them."
-    me "But, you couldn't find them."
+    me "Nhưng cậu không thể tìm thấy họ."
 
 # game/characters/savenia/ev_7.rpy:59
 translate vietnamese savenia_7_ca3de137:
 
     # savenia "I returned to our club and stayed there for some time. Ultimately, there was nothing left there. It was no longer safe."
-    savenia "I returned to our club and stayed there for some time. Ultimately, there was nothing left there. It was no longer safe."
+    savenia "Tớ trở lại chỗ của bọn tớ và ở đó một thời gian. Cuối cùng thì không còn gì ở đó. Nó không còn an toàn nữa."
 
 # game/characters/savenia/ev_7.rpy:67
 translate vietnamese savenia_7_99a34865:
 
     # me "But, you will need to gain the girls' trust. Show them you mean no harm."
-    me "But, you will need to gain the girls' trust. Show them you mean no harm."
+    me "Nhưng cậu sẽ cần phải có được sự tin tưởng của các cô gái. Cho họ thấy cậu không có ý xấu đi."
 
 # game/characters/savenia/ev_7.rpy:84
 translate vietnamese savenia_7_2e37485b:
 
     # lexi "I'm going out for food. We need to talk, after I get back, [me]."
-    lexi "I'm going out for food. We need to talk, after I get back, [me]."
+    lexi "Em đi ra ngoài để lấy đồ ăn đây. [me], chúng ta cần nói chuyện sau khi em quay lại đấy."
 
 # game/characters/savenia/ev_7.rpy:96
 translate vietnamese savenia_7_3b4e5da9:
 
     # savenia "Before they approach, we would be far away."
-    savenia "Before they approach, we would be far away."
+    savenia "Trước khi chúng đến gần thì ta đã cao chạy xa bay rồi."
 
 # game/characters/savenia/ev_7.rpy:105
 translate vietnamese savenia_7_2e18990f:
 
     # th "So, she means - 'do something if I get stabbed in the back'."
-    th "So, she means - 'do something if I get stabbed in the back'."
+    th "Vậy em ấy muốn nói là - 'hãy làm điều gì đó nếu em bị đâm sau lưng'."

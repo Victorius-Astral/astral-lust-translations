@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 translate spanish strings:
 
@@ -218,7 +218,7 @@ translate spanish strings:
     old "I should ask her about her powers."
     new "Debería preguntarle acerca de sus poderes."
 
-# TODO: Translation updated at 2021-05-17 12:56
+# : Translation updated at 2021-05-17 12:56
 
 translate spanish strings:
 
@@ -229,7 +229,7 @@ translate spanish strings:
     # game/variables/tips.rpy:4
     old "I should talk with her, didn't have a chance last time."
     new "Debería hablar con ella, no tuve oportunidad la última vez."
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 
@@ -275,7 +275,7 @@ translate spanish strings:
 
     # game/variables/tips.rpy:4
     old "Maybe a month would be enough for her leg to get better. Then, I might be able to find her bike."
-    new "Tal vez un mes sería suficiente para que su pierna mejorara. Entonces, podría ser capaz de encontrar su bicicleta."
+    new "Tal vez un mes sería suficiente para que su pierna mejorara. Entonces, podría ser capaz de encontrar su moto."
 
     # game/variables/tips.rpy:4
     old "I believe her leg would get better soon. She will let me know I guess."
@@ -316,39 +316,38 @@ translate spanish strings:
     # game/variables/tips.rpy:4
     old "I should speak with her."
     new "Debería hablar con ella."
-# TODO: Translation updated at 2022-02-16 09:41
+# : Translation updated at 2022-02-16 09:41
 
 translate spanish strings:
 
     # game/variables/tips.rpy:4
     old "I bet she would want to talk about something in a few days. I should wait at my room for her."
-    new "I bet she would want to talk about something in a few days. I should wait at my room for her."
+    new "Apuesto a que querrá hablar de algo en unos días. Debería esperarla en mi habitación."
 
     # game/variables/tips.rpy:4
     old "She probably misses her mom. Maybe she needs me, so I should check on her from time to time."
-    new "She probably misses her mom. Maybe she needs me, so I should check on her from time to time."
+    new "Probablemente extraña a su mamá. Tal vez me necesita, así que debería ir a verla de vez en cuando."
 
     # game/variables/tips.rpy:4
     old "She looks down lately. I should speak with her."
-    new "She looks down lately. I should speak with her."
+    new "Parece deprimida últimamente. Debería hablar con ella."
 
     # game/variables/tips.rpy:4
     old "She takes a shower sometimes during the evening. It might be fun if she likes me enough."
-    new "She takes a shower sometimes during the evening. It might be fun if she likes me enough."
+    new "A veces se ducha durante la noche. Podría ser divertido si le gusto lo suficiente."
 
     # game/variables/tips.rpy:4
     old "Rachel wants me to get a magician outfit. Alice could help."
-    new "Rachel wants me to get a magician outfit. Alice could help."
+    new "Rachel quiere que le consiga un traje de maga. Alicia podría ayudar."
 
     # game/variables/tips.rpy:4
     old "I should ask her next day how she gets along with the girls."
-    new "I should ask her next day how she gets along with the girls."
+    new "Debería preguntarle al día siguiente cómo se lleva con las chicas."
 
-# TODO: Translation updated at 2022-02-26 14:57
+# : Translation updated at 2022-02-26 14:57
 
 translate spanish strings:
 
     # game/variables/tips.rpy:4
     old "I should ask her more about the extraordinary world. (Main Story at least 12)"
-    new "I should ask her more about the extraordinary world. (Main Story at least 12)"
-
+    new "Debería preguntarle más sobre el mundo extraordinario. (Historia principal al menos 12)"

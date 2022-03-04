@@ -22,7 +22,7 @@ translate vietnamese explore_banditsA_28f3afc0:
 translate vietnamese explore_banditsA_55ec02f8:
 
     # th "Bandits!"
-    th "Lũ yang hồ mõm!"
+    th "Lũ Giang hồ!"
 
 # game/events/explore/bandits.rpy:37
 translate vietnamese explore_banditsA_71cbb06f:
@@ -76,7 +76,7 @@ translate vietnamese explore_banditsA_28f3afc0_1:
 translate vietnamese explore_banditsA_55ec02f8_1:
 
     # th "Bandits!"
-    th "Lũ yang hồ mõm!"
+    th "Lũ giang hồ!"
 
 # game/events/explore/bandits.rpy:75
 translate vietnamese banditsA_menu_47f9b697:
@@ -141,7 +141,7 @@ translate vietnamese banditsA_menu_3c4da8b3:
 # game/events/explore/bandits.rpy:98
 translate vietnamese banditsA_menu_86f29c6f:
 
-    # bandit "You certainly don't look like you have anything worth taking..."
+    # bandit "You certainly don't look like you have anything worth taking.."
     bandit "Mày chắc chắn không có vẻ như mày có bất cứ thứ gì đáng để lấy..."
 
 # game/events/explore/bandits.rpy:99
@@ -333,7 +333,7 @@ translate vietnamese banditsB_menu_c41f2d2d:
 # game/events/explore/bandits.rpy:206
 translate vietnamese banditsB_menu_86f29c6f:
 
-    # bandit "You certainly don't look like you have anything worth taking..."
+    # bandit "You certainly don't look like you have anything worth taking.."
     bandit "Mày chắc chắn là có bất cứ thứ gì đáng để lấy..."
 
 # game/events/explore/bandits.rpy:207
@@ -422,7 +422,7 @@ translate vietnamese strings:
 
     # game/events/explore/bandits.rpy:162
     old "Flee"
-    new "Flee"
+    new "Chạy"
 
     # game/events/explore/bandits.rpy:181
     old "{color=#FF958F}[[Charisma]{/color} Be human, I won't survive without this little bit of supplies"
@@ -433,97 +433,96 @@ translate vietnamese strings:
 translate vietnamese explore_banditsA_a4079a28:
 
     # "{agi}[[Agility check passed]{/agi} You stab one of them. The rest turn to attack!"
-    "{agi}[[Agility check passed]{/agi} You stab one of them. The rest turn to attack!"
+    "{agi}[[Độ nhanh nhẹn đạt yêu cầu]{/agi} Bạn đâm một trong số chúng. Phần còn lại chuyển sang tấn công!"
 
 # game/events/explore/bandits.rpy:58
 translate vietnamese explore_banditsA_a24180ce:
 
     # "{agi}[[Agility check failed]{/agi} They heard you!"
-    "{agi}[[Agility check failed]{/agi} They heard you!"
+    "{agi}[[Dộ nhanh nhẹn không đủ]{/agi} Chúng đã nghe thấy bạn!"
 
 # game/events/explore/bandits.rpy:81
 translate vietnamese banditsA_menu_2cfc9e05:
 
     # "{cha}[[Charisma check passed]{/cha}"
-    "{cha}[[Charisma check passed]{/cha}"
+    "{cha}[[Sức thu hút đạt yêu cầu]{/cha}"
 
 # game/events/explore/bandits.rpy:104
 translate vietnamese banditsA_menu_91eb8b5f:
 
     # "{cha}[[Charisma check failed]{/cha} They raise their guns."
-    "{cha}[[Charisma check failed]{/cha} They raise their guns."
+    "{cha}[[Sức thu hút không đủ]{/cha} They raise their guns."
 
 # game/events/explore/bandits.rpy:149
 translate vietnamese explore_banditsB_9a16acba:
 
     # "{agi}[[Agility check passed]{/agi} You stab one of them in the back. The rest turn to attack!"
-    "{agi}[[Agility check passed]{/agi} You stab one of them in the back. The rest turn to attack!"
+    "{agi}[[Độ nhanh nhẹn đạt yêu cầu]{/agi} Bạn đâm một trong số chúng. Phần còn lại chuyển sang tấn công!"
 
 # game/events/explore/bandits.rpy:153
 translate vietnamese explore_banditsB_a24180ce:
 
     # "{agi}[[Agility check failed]{/agi} They heard you!"
-    "{agi}[[Agility check failed]{/agi} They heard you!"
+    "{agi}[[Dộ nhanh nhẹn không đủ]{/agi} They heard you!"
 
 # game/events/explore/bandits.rpy:169
 translate vietnamese banditsB_menu_b86240ab:
 
     # "{agi}[[Agility check passed]{/agi} You manage to lose your pursuers."
-    "{agi}[[Agility check passed]{/agi} You manage to lose your pursuers."
+    "{agi}[[Độ nhanh nhẹn đạt yêu cầu]{/agi} Bạn xoay sở làm mất dầu những người theo đuổi mình."
 
 # game/events/explore/bandits.rpy:173
 translate vietnamese banditsB_menu_9fddcfb2:
 
     # "{agi}[[Agility check failed]{/agi} You're too slow to run!"
-    "{agi}[[Agility check failed]{/agi} You're too slow to run!"
+    "{agi}[[Dộ nhanh nhẹn không đủ]{/agi} Bạn chạy quá chậm!"
 
 # game/events/explore/bandits.rpy:179
 translate vietnamese banditsB_menu_2cfc9e05:
 
     # "{cha}[[Charisma check passed]{/cha}"
-    "{cha}[[Charisma check passed]{/cha}"
+    "{cha}[[Sức thu hút đạt yêu cầu]{/cha}"
 
 # game/events/explore/bandits.rpy:193
 translate vietnamese banditsB_menu_62ac88eb:
 
     # "{agi}[[Agility check passed]{/agi} You managed to dodge!"
-    "{agi}[[Agility check passed]{/agi} You managed to dodge!"
+    "{agi}[[Độ nhanh nhẹn đạt yêu cầu]{/agi} Bạn đã xoay sở để né được đòn!"
 
 # game/events/explore/bandits.rpy:196
 translate vietnamese banditsB_menu_21b48379:
 
     # "{agi}[[Agility check failed]{/agi} You tried to dodge but failed!"
-    "{agi}[[Agility check failed]{/agi} You tried to dodge but failed!"
+    "{agi}[[Dộ nhanh nhẹn không đủ]{/agi} Bạn đã cố gắng né tránh nhưng không thành công!"
 
 # game/events/explore/bandits.rpy:212
 translate vietnamese banditsB_menu_aced6660:
 
     # "{cha}[[Charisma check failed]{/cha} One of them attacks!"
-    "{cha}[[Charisma check failed]{/cha} One of them attacks!"
+    "{cha}[[Sức thu hút không đủ]{/cha} Một trong số chúng tấn công!"
 
 # game/events/explore/bandits.rpy:215
 translate vietnamese banditsB_menu_62ac88eb_1:
 
     # "{agi}[[Agility check passed]{/agi} You managed to dodge!"
-    "{agi}[[Agility check passed]{/agi} You managed to dodge!"
+    "{agi}[[Độ nhanh nhẹn đạt yêu cầu]{/agi} Bạn đã xoay sở để né được đòn!"
 
 # game/events/explore/bandits.rpy:218
 translate vietnamese banditsB_menu_21b48379_1:
 
     # "{agi}[[Agility check failed]{/agi} You tried to dodge but failed!"
-    "{agi}[[Agility check failed]{/agi} You tried to dodge but failed!"
+    "{agi}[[Dộ nhanh nhẹn không đủ]{/agi} Bạn đã cố gắng né tránh nhưng không thành công!"
 
 translate vietnamese strings:
 
     # game/events/explore/bandits.rpy:83
     old "{cha}[[Charisma]{/cha} Be humcha won't survive without what few supplies I have"
-    new "{cha}[[Charisma]{/cha} Be humcha won't survive without what few supplies I have"
+    new "{cha}[[Sức thu hút]{/cha} Hãy có chút nhân tính đi, tôi sẽ không sống sót nếu không có vài món đồ này đâu"
 
     # game/events/explore/bandits.rpy:181
     old "{cha}[[Charisma]{/cha} Be human, I won't survive without this little bit of supplies"
-    new "{cha}[[Charisma]{/cha} Be human, I won't survive without this little bit of supplies"
+    new "{cha}[[Sức thu hút]{/cha} Hãy có chút nhân tính đi, tôi sẽ không thể sống sót nếu không có ít vật dụng mà này đâu"
 
     # game/events/explore/bandits.rpy:198
     old "Health -10"
-    new "Health -10"
-
+    new "Máu -10"

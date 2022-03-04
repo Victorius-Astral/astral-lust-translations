@@ -112,7 +112,7 @@ translate vietnamese room_library_books_l_secrets_7e48f2ba:
 translate vietnamese room_library_books_l_secrets_8a05950c:
 
     # bbs "In most cases, it leads to death by losing control of mental corruption and turning into a monster."
-    bbs "Trong hầu hết các trường hợp, nó dẫn đến cái chết do mất kiểm soát do xa đọa tinh thần và biến thành một con quái vật."
+    bbs "Trong hầu hết các trường hợp, nó dẫn đến cái chết do mất kiểm soát do sa đọa tinh thần và biến thành một con quái vật."
 
 # game/places/library/books_l.rpy:47
 translate vietnamese room_library_books_l_etiquette_cea9ad15:

@@ -1457,16 +1457,16 @@ translate vietnamese strings:
 translate vietnamese mina_4_66c07f1c:
 
     # me "{loud}STOP!!{/loud}"
-    me "{loud}STOP!!{/loud}"
+    me "{loud}Dừng lại!!{/loud}"
 
 # game/characters/mina/ev_4.rpy:203
 translate vietnamese mina_4_3_26636d63:
 
     # me "{small}Hey [alice], what's wrong?{/small}"
-    me "{small}Hey [alice], what's wrong?{/small}"
+    me "{small}Hey [alice], có chuyện gì vậy?{/small}"
 
 # game/characters/mina/ev_4.rpy:204
 translate vietnamese mina_4_3_8568806b:
 
     # alice "{small}I just thought of a better dare..{/small}"
-    alice "{small}I just thought of a better dare..{/small}"
+    alice "{small}Em chỉ đang nghĩ về một thử thách tốt hơn thôi...{/small}"

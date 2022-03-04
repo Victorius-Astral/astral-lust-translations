@@ -436,7 +436,7 @@ translate vietnamese succA_succB_3_part2_ccb73ab2:
 translate vietnamese succA_succB_3_part2_fce39601:
 
     # succB "Mnnn~ Exactlyyy~"
-    succB "Mnnn~ Exactlyyy~"
+    succB "Mnnn~ Chính xác~"
 
 # game/characters/succubi/succA_succB_3.rpy:140
 translate vietnamese succA_succB_3_part2_0ed6c345:
@@ -502,7 +502,7 @@ translate vietnamese succA_succB_3_part2_3820771a_2:
 translate vietnamese succA_succB_3_part2_2ab0fe2d:
 
     # th "Don't tell me, they'll forget about me now?"
-    th "Đừng nói là họ sẽ quên mình nhớ? Đéo vui đâu đấy"
+    th "Đừng nói là họ sẽ quên mình nhớ? Đéo vui đâu đấy."
 
 # game/characters/succubi/succA_succB_3.rpy:161
 translate vietnamese succA_succB_3_part2_707a3a5e:
@@ -520,7 +520,7 @@ translate vietnamese succA_succB_3_part2_31cbf1ca:
 translate vietnamese succA_succB_3_part2_2e6a69ce:
 
     # me "What about not needing me anymore?"
-    me "Thế cònKhông cần tôi nữa thì sao?"
+    me "Thế còn không cần tôi nữa thì sao?"
 
 # game/characters/succubi/succA_succB_3.rpy:166
 translate vietnamese succA_succB_3_part2_05141155:
@@ -702,7 +702,7 @@ translate vietnamese strings:
 
     # game/characters/succubi/succA_succB_3.rpy:181
     old "It better be worth my time..."
-    new "It better be worth my time..."
+    new "Tốt hơn là nó phải đáng để tôi dành thời gian đấy..."
 
     # game/characters/succubi/succA_succB_3.rpy:181
     old "Looking at you two was enough, time to go back"
@@ -714,12 +714,11 @@ translate vietnamese strings:
 
     # game/characters/succubi/succA_succB_3.rpy:215
     old "No is no"
-    new "Tôi đã nói là không rồi mà"
+    new "Không là không"
 # TODO: Translation updated at 2022-02-19 01:56
 
 translate vietnamese strings:
 
     # game/characters/succubi/succA_succB_3.rpy:181
     old "It better be worth my time.."
-    new "It better be worth my time.."
-
+    new "Tốt hơn là nó phải đáng để tôi dành thời gian đấy.."

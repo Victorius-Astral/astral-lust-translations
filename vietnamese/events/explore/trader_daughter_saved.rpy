@@ -27,7 +27,7 @@ translate vietnamese chased_trader_daughter_05ebe85b:
 # game/events/explore/trader_daughter_saved.rpy:38
 translate vietnamese chased_trader_daughter_7ccc07a5:
 
-    # me "Fuck..."
+    # me "Fuck.."
     me "Địt..."
 
 # game/events/explore/trader_daughter_saved.rpy:41
@@ -39,7 +39,7 @@ translate vietnamese chased_trader_daughter_1ab62f2f:
 # game/events/explore/trader_daughter_saved.rpy:47
 translate vietnamese chased_trader_daughter_e6c13916:
 
-    # th "Everyone cares for themselves..."
+    # th "Everyone cares for themselves.."
     th "Mọi người quan tâm đến bản thân..."
 
 # game/events/explore/trader_daughter_saved.rpy:53
@@ -87,7 +87,7 @@ translate vietnamese chased_trader_daughter_win_61d119de:
 # game/events/explore/trader_daughter_saved.rpy:72
 translate vietnamese chased_trader_daughter_win_ea4c61db:
 
-    # th "Well, she isn't wrong... That's how it works."
+    # th "Well, she isn't wrong.. That's how it works."
     th "Chà, cô ấy không sai ... Đó là cách nó hoạt động."
 
 # game/events/explore/trader_daughter_saved.rpy:73
@@ -141,7 +141,7 @@ translate vietnamese chased_trader_daughter_discount_3b3e54e4:
 # game/events/explore/trader_daughter_saved.rpy:104
 translate vietnamese chased_trader_daughter_anal_e3aa0d81:
 
-    # girl "Well... I guess we can do that too."
+    # girl "Well.. I guess we can do that too."
     girl "Chà ... Em đoán chúng ta cũng có thể làm được điều đó."
 
 # game/events/explore/trader_daughter_saved.rpy:108
@@ -165,7 +165,7 @@ translate vietnamese chased_trader_daughter_anal_141ea2be:
 # game/events/explore/trader_daughter_saved.rpy:113
 translate vietnamese chased_trader_daughter_anal_482a5df9:
 
-    # th "It's a tight fit. But..."
+    # th "It's a tight fit. But.."
     th "Nó rất vừa vặn. Nhưng..."
 
 # game/events/explore/trader_daughter_saved.rpy:114
@@ -189,7 +189,7 @@ translate vietnamese chased_trader_daughter_anal_905a86fe:
 # game/events/explore/trader_daughter_saved.rpy:119
 translate vietnamese chased_trader_daughter_anal_0c17fb5b:
 
-    # girl "You can go... a bit faster."
+    # girl "You can go.. a bit faster."
     girl "Anh có thể đi ... nhanh hơn một chút."
 
 # game/events/explore/trader_daughter_saved.rpy:122
@@ -255,7 +255,7 @@ translate vietnamese chased_trader_daughter_anal_ca0e6875:
 # game/events/explore/trader_daughter_saved.rpy:139
 translate vietnamese chased_trader_daughter_anal_4bf28b5c:
 
-    # girl "Thank you sir..."
+    # girl "Thank you sir.."
     girl "Cám ơn..."
 
 # game/events/explore/trader_daughter_saved.rpy:142
@@ -381,19 +381,19 @@ translate vietnamese chased_trader_daughter_escape_f7f12b5b:
 # game/events/explore/trader_daughter_saved.rpy:193
 translate vietnamese chased_trader_daughter_escape_3bd84888:
 
-    # th "Yes! I finally shook it off! Persistent bastard...!"
+    # th "Yes! I finally shook it off! Persistent bastard..!"
     th "Đúng! Cuối cùng mình đã chạy khỏi nó! Tên khốn dai dẳng...!"
 
 # game/events/explore/trader_daughter_saved.rpy:198
 translate vietnamese chased_trader_daughter_escape_e78cf80e:
 
-    # me "Huh...?"
+    # me "Huh..?"
     me "Huh...?"
 
 # game/events/explore/trader_daughter_saved.rpy:202
 translate vietnamese chased_trader_daughter_escape_7ccc07a5:
 
-    # me "Fuck..."
+    # me "Fuck.."
     me "Đệt..."
 
 translate vietnamese strings:
@@ -407,17 +407,16 @@ translate vietnamese strings:
 translate vietnamese chased_trader_daughter_win_d77ecd27:
 
     # me "Would your dad be okay with you making that decision?"
-    me "Would your dad be okay with you making that decision?"
+    me "Liệu bố em có hài lòng với việc em đưa ra quyết định đó không?"
 
 # game/events/explore/trader_daughter_saved.rpy:70
 translate vietnamese chased_trader_daughter_win_f99a9ccd:
 
     # girl "It'll be okay."
-    girl "It'll be okay."
+    girl "Nó sẽ ổn thôi."
 
 # game/events/explore/trader_daughter_saved.rpy:113
 translate vietnamese chased_trader_daughter_anal_e1a90044:
 
     # th "That's better. She doesn't seem to hate it either."
-    th "That's better. She doesn't seem to hate it either."
-
+    th "Tốt hơn rồi đấy. Em ấy dường như cũng không ghét nó."

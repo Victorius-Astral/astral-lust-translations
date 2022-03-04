@@ -47,9 +47,8 @@ translate vietnamese strings:
 
     # game/screens/utility/keymap.rpy:50
     old "Toggle interaction menu."
-    new "Toggle interaction menu."
+    new "Bật/tắt menu tương tác."
 
     # game/screens/utility/keymap.rpy:54
     old "Toggle task menu."
-    new "Toggle task menu."
-
+    new "Chuyển đổi menu tác vụ."

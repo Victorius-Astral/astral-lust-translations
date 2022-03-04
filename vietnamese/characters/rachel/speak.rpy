@@ -411,34 +411,34 @@ translate vietnamese strings:
 translate vietnamese speak_rachel_built_shrine_b2ddf88b:
 
     # lil_fox "I knew it was a shrine! The feeling was weak but familiar. Thanks a lot, you two!"
-    lil_fox "I knew it was a shrine! The feeling was weak but familiar. Thanks a lot, you two!"
+    lil_fox "Em biết đó là một ngôi đền maf! Cảm giác yếu ớt, nhưng quen thuộc. Cảm ơn hai người rất nhiều!"
 
 # game/characters/rachel/speak.rpy:98
 translate vietnamese speak_rachel_built_shrine_a934d3c9:
 
     # me "So, you two are sisters?"
-    me "So, you two are sisters?"
+    me "Vậy, hai người là chị em sao?"
 
 # game/characters/rachel/speak.rpy:99
 translate vietnamese speak_rachel_built_shrine_4268e37a:
 
     # lil_fox "I'm an orphan. My parents were eaten by a monster, when I was young."
-    lil_fox "I'm an orphan. My parents were eaten by a monster, when I was young."
+    lil_fox "Em là một đứa trẻ mồ côi. Cha mẹ em đã bị một con quái vật ăn thịt khi em còn nhỏ."
 
 # game/characters/rachel/speak.rpy:102
 translate vietnamese speak_rachel_built_shrine_bb3d13c8:
 
     # lil_fox calm "It's alright. It was a long time ago. Rachel was a priestess at the local shrine. She took care of me."
-    lil_fox calm "It's alright. It was a long time ago. Rachel was a priestess at the local shrine. She took care of me."
+    lil_fox calm "Không sao cả. Đó là quá khứ rồi. Rachel là một nữ tư tế tại đền thờ địa phương. Chị ấy đã chăm sóc em."
 
 # game/characters/rachel/speak.rpy:113
 translate vietnamese speak_rachel_built_shrine_8f8462c7:
 
     # me "So, I get it that the two of you will stay around?"
-    me "So, I get it that the two of you will stay around?"
+    me "Tôi hiểu rồi hai người sẽ ở lại chứ?"
 
 # game/characters/rachel/speak.rpy:115
 translate vietnamese speak_rachel_built_shrine_9625645a:
 
     # lil_fox hungry thinking "I will fall into a slumber for a while. A few days, maybe more.."
-    lil_fox hungry thinking "I will fall into a slumber for a while. A few days, maybe more..."
+    lil_fox hungry thinking "Em sẽ chìm vào giấc ngủ trong một thời gian. Một vài ngày, có thể hơn..."

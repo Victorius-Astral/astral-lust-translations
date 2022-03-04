@@ -341,17 +341,16 @@ translate vietnamese strings:
 translate vietnamese savenia_3_part2_e8f1bc60:
 
     # savenia "Fine, don't nag. What made you so embittered so young?"
-    savenia "Fine, don't nag. What made you so embittered so young?"
+    savenia "Được thôi. Đừng cằn nhằn nữa, điều gì đã khiến cậu còn trẻ như này vậy?"
 
 # game/characters/savenia/ev_3.rpy:74
 translate vietnamese savenia_3_part2_cc2821f8:
 
     # me "Come on, let me give you a ride."
-    me "Come on, let me give you a ride."
+    me "Đến đây, để tớ đưa cậu đi."
 
 # game/characters/savenia/ev_3.rpy:98
 translate vietnamese savenia_3_part2_79934ff0:
 
     # me "You're killing yourself right now. You should know what such handicap means outside."
-    me "You're killing yourself right now. You should know what such handicap means outside."
-
+    me "Cậu đang giết chết chính mình đấy, cậu nên biết swj bất lợi đồng nghĩa với cái chết ở bên ngoài đấy."

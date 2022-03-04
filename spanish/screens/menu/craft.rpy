@@ -4,9 +4,8 @@ translate spanish strings:
 
     # game/screens/menu/craft.rpy:80
     old "Smithing"
-    new "Smithing"
+    new "Herrería"
 
     # game/screens/menu/craft.rpy:80
     old "Assemble"
-    new "Assemble"
-
+    new "Armería"

@@ -15,7 +15,7 @@ translate vietnamese d_Millionaire_2_122769ff:
 # game/events/dreams/millionaire.rpy:17
 translate vietnamese d_Millionaire_2_0611c0b1:
 
-    # th "But I can't pinpoint it..."
+    # th "But I can't pinpoint it.."
     th "Nhưng mình không thể xác định nó..."
 
 # game/events/dreams/millionaire.rpy:19
@@ -34,13 +34,13 @@ translate vietnamese d_Millionaire_2_2930e26f:
 translate vietnamese d_Millionaire_2_3b599bf0:
 
     # secretary "Everything alright?"
-    secretary "Mọi thứ vẫn ổn?"
+    secretary "Mọi thứ vẫn ổn chứ?"
 
 # game/events/dreams/millionaire.rpy:24
 translate vietnamese d_Millionaire_2_eedc722e:
 
     # me "Yes. What is it?"
-    me "Ừ. chuyện gì vậy?"
+    me "Có. chuyện gì vậy?"
 
 # game/events/dreams/millionaire.rpy:27
 translate vietnamese d_Millionaire_2_583e680c:
@@ -51,8 +51,8 @@ translate vietnamese d_Millionaire_2_583e680c:
 # game/events/dreams/millionaire.rpy:28
 translate vietnamese d_Millionaire_2_aa0ea6e3:
 
-    # th "Mr. Aharon? Ah, yes! My friend. He helped me start my own company..."
-    th "Ông Aharon? À, đúng rồi! Bạn mình. Cậu ấy đã giúp mình thành lập công ty riêng..."
+    # th "Mr. Aharon? Ah, yes! My friend. He helped me start my own company.."
+    th "Ông Aharon? À, đúng rồi! BẠn mình. Cậu ta đã giúp mình thành lập công ty riêng..."
 
 # game/events/dreams/millionaire.rpy:29
 translate vietnamese d_Millionaire_2_ba54e75b:
@@ -99,7 +99,7 @@ translate vietnamese d_Millionaire_2_menu1_506533f2:
 # game/events/dreams/millionaire.rpy:56
 translate vietnamese d_Millionaire_2_menu1_5660af82:
 
-    # me "{quiet}Hollow market...{/quiet}"
+    # me "{quiet}Hollow market..{/quiet}"
     me "{quiet}Hollow market...{/quiet}"
 
 # game/events/dreams/millionaire.rpy:57
@@ -160,7 +160,7 @@ translate vietnamese d_Millionaire_2_menu1_ac55955d:
 translate vietnamese d_Millionaire_2_menu1_c0b45992:
 
     # secretary "Not much sir, I only know he's a VIP."
-    secretary "Không nhiều thưa ngài, tôi chỉ biết anh ấy là VIP."
+    secretary "Không nhiều đâu thưa ngài, tôi chỉ biết anh ấy là VIP thôi ạ."
 
 # game/events/dreams/millionaire.rpy:81
 translate vietnamese d_Millionaire_2_menu1_3d10a40f:
@@ -172,12 +172,12 @@ translate vietnamese d_Millionaire_2_menu1_3d10a40f:
 translate vietnamese d_Millionaire_2_menu1_a92ae4fc:
 
     # th "My friend? Did I have a friend called Aharon?"
-    th "Bạn mình? Mình có một người bạn tên là Aharon hả?"
+    th "Bạn mình? Mình có một người cậu tên là Aharon hả?"
 
 # game/events/dreams/millionaire.rpy:87
 translate vietnamese d_Millionaire_2_menu1_d4bf123b:
 
-    # secretary "..."
+    # secretary ".."
     secretary "..."
 
 # game/events/dreams/millionaire.rpy:88
@@ -190,13 +190,13 @@ translate vietnamese d_Millionaire_2_menu1_e3976559:
 translate vietnamese d_Millionaire_2_menu1_7e9cacb5:
 
     # secretary "Do you want to see my breasts?"
-    secretary "Bạn có muốn nhìn thấy bộ ngực của tôi chứ?"
+    secretary "Ngài có muốn nhìn thấy bộ ngực của em chứ?"
 
 # game/events/dreams/millionaire.rpy:108
 translate vietnamese d_Millionaire_2_bj_64e8145a:
 
     # me "Go on, our guest is waiting."
-    me "Tiếp tục đi, khách của chúng ta đang đợi."
+    me "Tiếp tục đi, khách của chúng ta đang đợi đấy."
 
 # game/events/dreams/millionaire.rpy:109
 translate vietnamese d_Millionaire_2_bj_8608b322:
@@ -274,7 +274,7 @@ translate vietnamese d_Millionaire_2_bj_bfb0face:
 translate vietnamese d_Millionaire_2_part2_70a0e022:
 
     # "After a while your secretary returns, this time not alone."
-    "Sau một thời gian thư ký của bạn trở lại, lần này không phải một mình."
+    "Sau một thời gian thư ký của cậu trở lại, lần này không phải một mình."
 
 # game/events/dreams/millionaire.rpy:172
 translate vietnamese d_Millionaire_2_part2_de86f8b2:
@@ -303,19 +303,19 @@ translate vietnamese d_Millionaire_2_part2_52f03cb9:
 # game/events/dreams/millionaire.rpy:180
 translate vietnamese d_Millionaire_2_part2_7670b800:
 
-    # aharon "I can hear Him whispering into my ears..."
+    # aharon "I can hear Him whispering into my ears.."
     aharon "Tôi có thể nghe thấy Ngài thì thầm vào tai tôi..."
 
 # game/events/dreams/millionaire.rpy:181
 translate vietnamese d_Millionaire_2_part2_83ffb3f2:
 
-    # me "Sorry, but I don't understand..."
+    # me "Sorry, but I don't understand.."
     me "Xin lỗi, nhưng tôi không hiểu..."
 
 # game/events/dreams/millionaire.rpy:184
 translate vietnamese d_Millionaire_2_part2_2587460a:
 
-    # aharon "One day, you will..."
+    # aharon "One day, you will.."
     aharon "Một ngày nào đó cậu sẽ..."
 
 # game/events/dreams/millionaire.rpy:185
@@ -327,8 +327,8 @@ translate vietnamese d_Millionaire_2_part2_3820771a:
 # game/events/dreams/millionaire.rpy:188
 translate vietnamese d_Millionaire_2_part2_77d3d3e5:
 
-    # aharon "If you had a chance to achieve everything you ever wished to, spend eternity with the people you love, if you had a chance to be happy..."
-    aharon "Nếu bạn có cơ hội đạt được mọi thứ bạn từng mong ước, hãy sống vĩnh viễn với những người mình yêu thương, nếu cậu có cơ hội được hạnh phúc..."
+    # aharon "If you had a chance to achieve everything you ever wished to, spend eternity with the people you love, if you had a chance to be happy.."
+    aharon "Nếu cậu có cơ hội đạt được mọi thứ cậu từng mong ước, hãy sống vĩnh viễn với những người mình yêu thương, nếu cậu có cơ hội được hạnh phúc..."
 
 # game/events/dreams/millionaire.rpy:189
 translate vietnamese d_Millionaire_2_part2_a80f6b69:
@@ -340,12 +340,12 @@ translate vietnamese d_Millionaire_2_part2_a80f6b69:
 translate vietnamese d_Millionaire_2_part2_699be028:
 
     # aharon "But doing it would mean your loved ones would need to live in a fake happiness, in a world created from the lie."
-    aharon "Nhưng làm điều đó có nghĩa là những người thân yêu của bạn sẽ cần phải sống trong một hạnh phúc giả tạo, trong một thế giới được tạo ra từ sự giả dối."
+    aharon "Nhưng làm điều đó có nghĩa là những người thân yêu của cậu sẽ cần phải sống trong một hạnh phúc giả tạo, trong một thế giới được tạo ra từ sự giả dối."
 
 # game/events/dreams/millionaire.rpy:191
 translate vietnamese d_Millionaire_2_part2_e9226b31:
 
-    # aharon "With despair, and fear weaved into their very being..."
+    # aharon "With despair, and fear weaved into their very being.."
     aharon "Với sự tuyệt vọng và nỗi sợ hãi len lỏi vào chính con người họ..."
 
 # game/events/dreams/millionaire.rpy:194
@@ -363,7 +363,7 @@ translate vietnamese d_Millionaire_2_part2_3820771a_1:
 # game/events/dreams/millionaire.rpy:200
 translate vietnamese d_Millionaire_2_part2_81137867:
 
-    # aharon "We are not that much different..."
+    # aharon "We are not that much different.."
     aharon "Chúng ta không khác nhau nhiều lắm..."
 
 # game/events/dreams/millionaire.rpy:201
@@ -375,7 +375,7 @@ translate vietnamese d_Millionaire_2_part2_c209fdc5:
 # game/events/dreams/millionaire.rpy:206
 translate vietnamese d_Millionaire_2_part2_e53ba8fc:
 
-    # aharon "Is that so..."
+    # aharon "Is that so.."
     aharon "Là vậy sao..."
 
 translate vietnamese strings:
@@ -406,24 +406,23 @@ translate vietnamese strings:
 
     # game/events/dreams/millionaire.rpy:196
     old "Will I?"
-    new "Tôi sẽ?"
+    new "Mình sẽ làm chứ?"
 # TODO: Translation updated at 2022-02-06 08:10
 
 # game/events/dreams/millionaire.rpy:82
 translate vietnamese d_Millionaire_2_menu1_8004a140:
 
     # th "My friend? Do I have a friend called Aharon?"
-    th "My friend? Do I have a friend called Aharon?"
+    th "Bạn mình? Mình có thằng bạn nào tên là Aharon hả?"
 
 # game/events/dreams/millionaire.rpy:169
 translate vietnamese d_Millionaire_2_part2_32f410cf:
 
     # "After a while your secretary returns, this time, not alone."
-    "After a while your secretary returns, this time, not alone."
+    "Sau một thời gian thư ký của cậu trở lại, lần này không phải một mình."
 
 # game/events/dreams/millionaire.rpy:188
 translate vietnamese d_Millionaire_2_part2_7c2ac7f4:
 
-    # aharon "If you had a chance to achieve everything you ever wished to, spend eternity with the people you love if you had a chance to be happy..."
-    aharon "If you had a chance to achieve everything you ever wished to, spend eternity with the people you love if you had a chance to be happy..."
-
+    # aharon "If you had a chance to achieve everything you ever wished to, spend eternity with the people you love if you had a chance to be happy.."
+    aharon "Nếu cậu có cơ hội đạt được mọi thứ cậu từng mong ước, hãy sống vĩnh viễn với những người mình yêu thương, nếu cậu có cơ hội được hạnh phúc..."

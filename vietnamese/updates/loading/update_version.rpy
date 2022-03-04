@@ -15,5 +15,4 @@ translate vietnamese strings:
 
     # game/updates/loading/update_version.rpy:75
     old "Save update finished."
-    new "Save update finished."
-
+    new "Đã lưu cập nhật xong."

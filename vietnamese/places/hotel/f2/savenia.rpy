@@ -4,4 +4,4 @@
 translate vietnamese room_f2_savenia_54340ad2:
 
     # th "Why would I enter at this hour? I should return earlier."
-    th "Tại sao mình lại vào giờ này? Mình nên trở về sớm."
+    th "Tại sao mình lại vào giờ này? Mình nên về sớm thôi."

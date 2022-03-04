@@ -465,23 +465,22 @@ translate vietnamese strings:
 translate vietnamese savenia_5_13b4b041:
 
     # me "This is [savenia]'s bike. I found it here."
-    me "This is [savenia]'s bike. I found it here."
+    me "Đây là xe của [savenia]. Mình đã tìm thấy cậu ấy ở đây."
 
 # game/characters/savenia/ev_5.rpy:31
 translate vietnamese savenia_5_part2_630fa0ae:
 
     # me "Shit, it's heavy."
-    me "Shit, it's heavy."
+    me "Địt mẹ nó nặng vãi."
 
 # game/characters/savenia/ev_5.rpy:180
 translate vietnamese savenia_5_part2_b2277bbf:
 
     # th "I think, I will miss her once she leaves."
-    th "I think, I will miss her once she leaves."
+    th "Mình nghĩ là mình sẽ nhớ cô ấy một khi cô ấy đi đấy."
 
 # game/characters/savenia/ev_5.rpy:197
 translate vietnamese savenia_5_part2_f1056a02:
 
     # me "Go deal with your stuff, while I'll put your bike in the corner."
-    me "Go deal with your stuff, while I'll put your bike in the corner."
-
+    me "Hãy giải quyết đống đồ đạc của cậu trong khi tớ để xe của cậu vào góc đây."

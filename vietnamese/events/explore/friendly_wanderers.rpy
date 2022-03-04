@@ -370,11 +370,11 @@ translate vietnamese strings:
 
     # game/events/explore/friendly_wanderers.rpy:116
     old "Sex (20$)"
-    new "Sex (20$)"
+    new "Làm tình (20$)"
 
     # game/events/explore/friendly_wanderers.rpy:116
     old "Blowjob (8$)"
-    new "Blowjob (8$)"
+    new "Bún cua (8$)"
 
     # game/events/explore/friendly_wanderers.rpy:116
     old "I changed my mind"
@@ -385,9 +385,8 @@ translate vietnamese strings:
 
     # game/events/explore/friendly_wanderers.rpy:88
     old "The Wanderers"
-    new "The Wanderers"
+    new "Người du mục"
 
     # game/events/explore/friendly_wanderers.rpy:88
     old "They consist of independent groups of people that help each other."
-    new "They consist of independent groups of people that help each other."
-
+    new "Họ bao gồm các nhóm người độc lập giúp đỡ lẫn nhau."

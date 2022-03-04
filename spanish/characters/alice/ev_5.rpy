@@ -166,7 +166,7 @@ translate spanish alice_5_1_1e9dbee1:
 translate spanish alice_5_1_3a4ddd54:
 
     # "Just as you are about to close the door [alice] calls you."
-    "Justo cuando estás a punto de cerrar la puerta [alicia] te llama."
+    "Justo cuando estás a punto de cerrar la puerta [alice] te llama."
 
 # game/characters/alice/ev_5.rpy:65
 translate spanish alice_5_1_6b10cff3:

@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/combat/cards/lists/effects.rpy:3
     old "Critic"
-    new "Critic"
+    new "Crítico"
 
     # game/combat/cards/lists/effects.rpy:3
     old "Increases damage dealt with next attack by {:.0%} per stack of Critic."
@@ -281,4 +281,3 @@ translate spanish strings:
     # game/combat/cards/lists/effects.rpy:254
     old "Each attack inflicts {}x {}, and {}x {}."
     new "Each attack inflicts {}x {}, and {}x {}."
-

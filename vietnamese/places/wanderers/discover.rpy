@@ -9,7 +9,7 @@ translate vietnamese discover_wanderers_65fc5510:
 # game/places/wanderers/discover.rpy:14
 translate vietnamese discover_wanderers_8198f605:
 
-    # th "Someone's in trouble..."
+    # th "Someone's in trouble.."
     th "Ai đó đang gặp rắc rối..."
 
 # game/places/wanderers/discover.rpy:15
@@ -33,13 +33,13 @@ translate vietnamese discover_wanderers_part2_1e41129d:
 # game/places/wanderers/discover.rpy:30
 translate vietnamese discover_wanderers_part2_25b4b7c0:
 
-    # th "Hmm... Should I help him?"
+    # th "Hmm.. Should I help him?"
     th "Hmm... Mình có nên giúp anh ta không?"
 
 # game/places/wanderers/discover.rpy:33
 translate vietnamese discover_wanderers_part2_f4807aa2:
 
-    # th "Seems I don't have a choice now..."
+    # th "Seems I don't have a choice now.."
     th "Có vẻ như mình không có lựa chọn rồi..."
 
 # game/places/wanderers/discover.rpy:39
@@ -76,7 +76,7 @@ translate vietnamese discover_wanderers_win_3219fc3c:
 translate vietnamese discover_wanderers_win_2529f3eb:
 
     # me "Oh, shit. Alright, after you!"
-    me "Oh, Địt mẹ. Được rồi, ngay sau ông!"
+    me "Oh, định mệnh. Được rồi, ngay sau ông!"
 
 # game/places/wanderers/discover.rpy:49
 translate vietnamese discover_wanderers_win_e7938e38:
@@ -93,7 +93,7 @@ translate vietnamese discover_wanderers_win_d5f8bdf6:
 # game/places/wanderers/discover.rpy:53
 translate vietnamese discover_wanderers_win_16fce20f:
 
-    # me "How fa..."
+    # me "How fa.."
     me "Còn bao x..."
 
 # game/places/wanderers/discover.rpy:56
@@ -135,19 +135,19 @@ translate vietnamese discover_wanderers_win_a58e9d67:
 # game/places/wanderers/discover.rpy:72
 translate vietnamese discover_wanderers_win_a310548c:
 
-    # me "Ahh... *Cough* My lungs..."
-    me "Ahh... *Khụ* Phổi của tôi..."
+    # me "Ahh... *Cough* My lungs.."
+    me "Ahh... *Khụ* Phổi của mình..."
 
 # game/places/wanderers/discover.rpy:73
 translate vietnamese discover_wanderers_win_8f076c8d:
 
-    # th "Shit, I'm so tired..."
+    # th "Shit, I'm so tired.."
     th "Mẹ kiếp, mình mệt quá..."
 
 # game/places/wanderers/discover.rpy:74
 translate vietnamese discover_wanderers_win_b5c22da3:
 
-    # u_governor "Aaa... It was a close call."
+    # u_governor "Aaa.. It was a close call."
     u_governor "Aaa... Đó là một pha suýt soát đấy."
 
 # game/places/wanderers/discover.rpy:77
@@ -189,7 +189,7 @@ translate vietnamese discover_wanderers_win_4fb61e3a:
 # game/places/wanderers/discover.rpy:88
 translate vietnamese discover_wanderers_win_b2f20a8e:
 
-    # me "That's fucked... This whole situation is fucked up."
+    # me "That's fucked.. This whole situation is fucked up."
     me "Cái tình huống này thật là rối rắm mà."
 
 # game/places/wanderers/discover.rpy:91
@@ -291,7 +291,7 @@ translate vietnamese discover_wanderers_win_4a6d623b:
 # game/places/wanderers/discover.rpy:122
 translate vietnamese discover_wanderers_win_40e60644:
 
-    # me "Are those..."
+    # me "Are those.."
     me "Có phải chúng là..."
 
 # game/places/wanderers/discover.rpy:125
@@ -303,7 +303,7 @@ translate vietnamese discover_wanderers_win_d02b95ea:
 # game/places/wanderers/discover.rpy:126
 translate vietnamese discover_wanderers_win_23be24fb:
 
-    # me "Thanks..."
+    # me "Thanks.."
     me "Cảm ơn..."
 
 # game/places/wanderers/discover.rpy:127
@@ -321,7 +321,7 @@ translate vietnamese discover_wanderers_win_9c3fc517:
 # game/places/wanderers/discover.rpy:131
 translate vietnamese discover_wanderers_win_12190c3a:
 
-    # me "Haha... Sorry..."
+    # me "Haha.. Sorry.."
     me "Haha... Xin lỗi..."
 
 # game/places/wanderers/discover.rpy:134
@@ -393,5 +393,5 @@ translate vietnamese discover_wanderers_win_6309f547:
 # game/places/wanderers/discover.rpy:158
 translate vietnamese discover_wanderers_win_e4e5e3cf:
 
-    # th "Ahh... That was really tiring day. This [governor] guy seems nice enough. I think we'll be able to get along just fine." id discover_wanderers_win_e4e5e3cf
-    th "Ahh ... Đó là một ngày thực sự mệt mỏi. Anh chàng [thống đốc] này có vẻ tốt. Tôi nghĩ chúng ta sẽ có thể hòa hợp với nhau tốt." id discover_wanderers_win_e4e5e3cf
+    # th "Ahh.. That was really tiring day. This [governor] guy seems nice enough. I think we'll be able to get along just fine." id discover_wanderers_win_e4e5e3cf
+    th "Ahh ... Đó là một ngày thực sự mệt mỏi đấy. Anh chàng [governor] này có vẻ tốt. Tôi nghĩ chúng ta sẽ có thể hòa hợp với nhau tốt." id discover_wanderers_win_e4e5e3cf

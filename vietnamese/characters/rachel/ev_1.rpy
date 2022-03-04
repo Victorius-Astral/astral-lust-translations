@@ -238,7 +238,7 @@ translate vietnamese rachel_1_part3_74cdf1e8:
 translate vietnamese rachel_1_part3_3a4a5989:
 
     # rachel "Yes, I was the priestess. Establishing shrines was my job. First I would need a safe place."
-    rachel "Vâng, tôi là nữ tu sĩ. Lập đền thờ là công việc của tôi. Đầu tiên tôi cần một nơi an toàn."
+    rachel "Vâng, tôi là nữ tư tế. Lập đền thờ là công việc của tôi. Đầu tiên tôi cần một nơi an toàn."
 
 # game/characters/rachel/ev_1.rpy:113
 translate vietnamese rachel_1_part3_bbe05a98:
@@ -425,58 +425,58 @@ translate vietnamese strings:
 translate vietnamese rachel_1_part3_f24febd4:
 
     # "???" "What have happened?" (who_color=rachel.who_args["color"])
-    "???" "What have happened?" (who_color=rachel.who_args["color"])
+    "???" "Chuyện gì đã xảy ra vậy?" (who_color=rachel.who_args["color"])
 
 # game/characters/rachel/ev_1.rpy:73
 translate vietnamese rachel_1_part3_efdeafdd:
 
     # "???" "Did I get corrupted? But why did I recover? It's impossible.." (who_color=rachel.who_args["color"])
-    "???" "Did I get corrupted? But why did I recover? It's impossible..." (who_color=rachel.who_args["color"])
+    "???" "Tôi đã bị tha hóa sao? Nhưng tại sao tôi được phục hồi? Điều đó là không thể..." (who_color=rachel.who_args["color"])
 
 # game/characters/rachel/ev_1.rpy:74
 translate vietnamese rachel_1_part3_d03ad052:
 
     # me "I don't know what happened to you, but I've met one of your kind, Little Fox. She was completely fine, just hungry."
-    me "I don't know what happened to you, but I've met one of your kind, Little Fox. She was completely fine, just hungry."
+    me "Tôi không biết chuyện gì đã xảy ra với cô, nhưng tôi đã gặp một trong những người của cô, Tiểu Cáo. Cô ấy hoàn toàn ổn, chỉ là hơi đói thôi."
 
 # game/characters/rachel/ev_1.rpy:79
 translate vietnamese rachel_1_part3_604d5677:
 
     # me "[me]. So you know, Little Fox?"
-    me "[me]. So you know, Little Fox?"
+    me "[me]. Vậy là cô biết Tiểu Cáo à?"
 
 # game/characters/rachel/ev_1.rpy:84
 translate vietnamese rachel_1_part3_65355671:
 
     # me "Was it you? That's literally the worst name for a fox girl.."
-    me "Was it you? That's literally the worst name for a fox girl..."
+    me "Là cô sao? Đấy thực sự là cái tên tồi tệ nhất dành cho một cô gái hồ ly đấy..."
 
 # game/characters/rachel/ev_1.rpy:101
 translate vietnamese rachel_1_part3_bca0f1e3:
 
     # rachel "If there were any shrines, I would feel it, but I feel nothing. Little Fox would be able to find me once the shrine was built."
-    rachel "If there were any shrines, I would feel it, but I feel nothing. Little Fox would be able to find me once the shrine was built."
+    rachel "Nếu có bất kỳ đền thờ nào tôi sẽ cảm nhận được, nhưng tôi không cảm thấy gì cả. Tiểu Cáo sẽ có thể tìm thấy tôi khi ngôi đền được xây dựng."
 
 # game/characters/rachel/ev_1.rpy:112
 translate vietnamese rachel_1_part3_2e13858c:
 
     # rachel "Yes, I was the priestess. Establishing shrines was my job. First, I would need a safe place."
-    rachel "Yes, I was the priestess. Establishing shrines was my job. First, I would need a safe place."
+    rachel "Vâng, tôi là nữ tư tế. Lập đền thờ là công việc của tôi. Đầu tiên tôi cần một nơi an toàn."
 
 # game/characters/rachel/ev_1.rpy:126
 translate vietnamese rachel_1_part3_b8877e27:
 
     # me "So, are you going with me?"
-    me "So, are you going with me?"
+    me "Vậy cô có đi với tôi không?"
 
 # game/characters/rachel/ev_1.rpy:135
 translate vietnamese rachel_1_part3_6ac1c420:
 
     # rachel "So, this is the hotel?"
-    rachel "So, this is the hotel?"
+    rachel "Vậy, đây là khách sạn sao?"
 
 # game/characters/rachel/ev_1.rpy:147
 translate vietnamese rachel_1_part3_389ce1c9:
 
     # me "I guess, you would need some materials, right?"
-    me "I guess, you would need some materials, right?"
+    me "Tôi đoán cô sẽ cần một số vật liệu đấy, phải không?"

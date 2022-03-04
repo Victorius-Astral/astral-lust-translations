@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-16 09:41
+﻿# : Translation updated at 2022-02-16 09:41
 
 translate spanish strings:
 
@@ -8,59 +8,59 @@ translate spanish strings:
 
     # game/screens/gui/credits.rpy:31
     old "{color=#b96d19}\nTranslation: Denker {i}(Spanish){/i}, Natsuki {i}(Vietnamese){/i}{/color}"
-    new "{color=#b96d19}\nTranslation: Denker {i}(Spanish){/i}, Natsuki {i}(Vietnamese){/i}{/color}"
+    new "{color=#b96d19}\nTraducción: Denker {i}(Español){/i}, Natsuki {i}(Vietnamita){/i}{/color}"
 
-# TODO: Translation updated at 2022-02-26 14:57
+# : Translation updated at 2022-02-26 14:57
 
 translate spanish strings:
 
     # game/screens/gui/credits.rpy:48
     old "\nSupporters:"
-    new "\nSupporters:"
+    new "\nApoyaron:"
 
     # game/screens/gui/credits.rpy:53
     old "\nLead Designer"
-    new "\nLead Designer"
+    new "\nDiseñador Principal"
 
     # game/screens/gui/credits.rpy:56
     old "\nLead Programmer"
-    new "\nLead Programmer"
+    new "\nProgramador Principal"
 
     # game/screens/gui/credits.rpy:59
     old "\nLead Writer"
-    new "\nLead Writer"
+    new "\nEscritor Principal"
 
     # game/screens/gui/credits.rpy:60
     old "Still Victorius"
-    new "Still Victorius"
+    new "Todavía Victorius"
 
     # game/screens/gui/credits.rpy:62
     old "\nWriter"
-    new "\nWriter"
+    new "\nEscritor"
 
     # game/screens/gui/credits.rpy:65
     old "\nText Editor:"
-    new "\nText Editor:"
+    new "\nEditor de Texto:"
 
     # game/screens/gui/credits.rpy:68
     old "\nTranslation"
-    new "\nTranslation"
+    new "\nTraducción"
 
     # game/screens/gui/credits.rpy:71
     old "\nMusic"
-    new "\nMusic"
+    new "\nMúsica"
 
     # game/screens/gui/credits.rpy:74
     old "\nSound"
-    new "\nSound"
+    new "\nSonido"
 
     # game/screens/gui/credits.rpy:77
     old "\nIcons"
-    new "\nIcons"
+    new "\nÍconos"
 
     # game/screens/gui/credits.rpy:80
     old "\nArt"
-    new "\nArt"
+    new "\nArte"
 
     # game/screens/gui/credits.rpy:83
     old "\nCreepypasta"
@@ -68,13 +68,12 @@ translate spanish strings:
 
     # game/screens/gui/credits.rpy:86
     old "\nContributed Code"
-    new "\nContributed Code"
+    new "\nCódigo Contribuído"
 
     # game/screens/gui/credits.rpy:89
     old "\nPublic Relations"
-    new "\nPublic Relations"
+    new "\nRelaciones Públicas"
 
     # game/screens/gui/credits.rpy:92
     old "\nCommunity Manager:"
-    new "\nCommunity Manager:"
-
+    new "\nAdministrador de la comunidad:"

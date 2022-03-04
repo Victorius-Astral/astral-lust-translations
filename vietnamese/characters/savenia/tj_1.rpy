@@ -167,29 +167,28 @@ translate vietnamese savenia_tj_1_9370fd7a:
 translate vietnamese savenia_tj_1_864f1c6b:
 
     # me "Now, this does feel good."
-    me "Now, this does feel good."
+    me "Bây giờ thì nó thực sự cảm thấy tốt đấy."
 
 # game/characters/savenia/tj_1.rpy:29
 translate vietnamese savenia_tj_1_47458809:
 
     # me "So, let me say this again. They are damn nice."
-    me "So, let me say this again. They are damn nice."
+    me "Vậy hãy để tớ nói điều này một lần nữa. Chúng tuyệt vãi lìn."
 
 # game/characters/savenia/tj_1.rpy:41
 translate vietnamese savenia_tj_1_dbc3b1ed:
 
     # me "It's one of my most charming points."
-    me "It's one of my most charming points."
+    me "Đó là một trong những điểm quyến rũ nhất của tớ."
 
 # game/characters/savenia/tj_1.rpy:51
 translate vietnamese savenia_tj_1_8bb708e3:
 
     # savenia "So, don't be chatty."
-    savenia "So, don't be chatty."
+    savenia "Vậy thì đừng lắm mồm nữa."
 
 # game/characters/savenia/tj_1.rpy:57
 translate vietnamese savenia_tj_1_718bdd87:
 
     # me "Now that you have mentioned it..."
-    me "Now that you have mentioned it..."
-
+    me "Nhắc đến nó..."

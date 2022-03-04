@@ -45,7 +45,7 @@ translate vietnamese exp_bandits_rape_win_57786f8c:
 # game/events/explore/bandits_rape.rpy:49
 translate vietnamese exp_bandits_rape_win_80aabd2c:
 
-    # th "I think it was pretty obvious..."
+    # th "I think it was pretty obvious.."
     th "Mình nghĩ nó khá rõ ràng..."
 
 # game/events/explore/bandits_rape.rpy:53

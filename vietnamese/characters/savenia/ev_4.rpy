@@ -719,43 +719,43 @@ translate vietnamese strings:
 translate vietnamese savenia_4_menu1_423d99c9:
 
     # savenia "And, how is an exercise for arms and pecs gonna help with my leg?"
-    savenia "And, how is an exercise for arms and pecs gonna help with my leg?"
+    savenia "Rồi bài tập dành cho tay và ngực sẽ giúp ích gì cho chân?"
 
 # game/characters/savenia/ev_4.rpy:132
 translate vietnamese savenia_4_part2_4fa42041:
 
     # me "Let's do it ten times, then rest for a while, and again. We will do five repeats. How does it sound?"
-    me "Let's do it ten times, then rest for a while, and again. We will do five repeats. How does it sound?"
+    me "Hãy làm mười lần, sau đó nghỉ ngơi một lúc và lặp lại. Chúng ta sẽ lặp lại đến lần thứ năm, âm thanh của nó như thế nào?"
 
 # game/characters/savenia/ev_4.rpy:150
 translate vietnamese savenia_4_part2_a8eb156f:
 
     # me "Give it some time, it's not gonna help after one round."
-    me "Give it some time, it's not gonna help after one round."
+    me "Hãy cho nó thời gian đi, nó sẽ không giúp ích gì sau một hiệp đâu."
 
 # game/characters/savenia/ev_4.rpy:185
 translate vietnamese savenia_4_part2_2d0904d2:
 
     # me "So, this is a repayment of sorts?"
-    me "So, this is a repayment of sorts?"
+    me "Vậy, đây là một kiểu trả ơn ơn à?"
 
 # game/characters/savenia/ev_4.rpy:227
 translate vietnamese savenia_4_part2_7e07c87b:
 
     # savenia "Ah... Now that we are complimenting, I must say your dick is not of an average size."
-    savenia "Ah... Now that we are complimenting, I must say your dick is not of an average size."
+    savenia "Ah... Bây giờ chúng ta mới đang khen này, phải nói là con hàng của cậu không phải cỡ trung bình đâu đấy."
 
 # game/characters/savenia/ev_4.rpy:242
 translate vietnamese savenia_4_part2_86c986b4:
 
     # savenia "You should go clean yourself."
-    savenia "You should go clean yourself."
+    savenia "Cậu nên đi lau người đi."
 
 # game/characters/savenia/ev_4.rpy:252
 translate vietnamese savenia_4_part2_166e7fd5:
 
     # me "I will come to help you with your leg every day."
-    me "I will come to help you with your leg every day."
+    me "Tớ sẽ đến giúp chân của cậu hàng ngày."
 
 # TODO: Translation updated at 2022-02-26 15:07
 
@@ -763,5 +763,4 @@ translate vietnamese savenia_4_part2_166e7fd5:
 translate vietnamese savenia_4_menu1_f3328ea7:
 
     # savenia "And, how is an exercise for arms and chest gonna help with my leg?"
-    savenia "And, how is an exercise for arms and chest gonna help with my leg?"
-
+    savenia "Rồi bài tập dành cho tay và ngực sẽ giúp ích gì cho chân?"

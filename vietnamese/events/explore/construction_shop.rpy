@@ -626,7 +626,7 @@ translate vietnamese strings:
 
     # game/events/explore/construction_shop.rpy:48
     old "{color=#800080}[[Corruption / Madness]{/color} Your death"
-    new "{color=#800080}[[Xa đọa / điên loạn]{/color} Cái chết của mày"
+    new "{color=#800080}[[sa đọa / điên loạn]{/color} Cái chết của mày"
 
     # game/events/explore/construction_shop.rpy:52
     old "Nothing, I'll be going"
@@ -638,7 +638,7 @@ translate vietnamese strings:
 
     # game/events/explore/construction_shop.rpy:74
     old "{color=#800080}[[Corruption / Madness]{/color} Attack"
-    new "{color=#800080}[[Xa đọa / điên loạn]{/color} Tấn công"
+    new "{color=#800080}[[sa đọa / điên loạn]{/color} Tấn công"
 
     # game/events/explore/construction_shop.rpy:116
     old "Order her to blow you"

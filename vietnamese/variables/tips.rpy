@@ -346,9 +346,8 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "I wonder if I would turn insane if it spoke to me again.."
-    new "I wonder if I would turn insane if it spoke to me again.."
+    new "Tôi tự hỏi liệu tôi có trở nên mất trí nếu nó nói với tôi một lần nữa không..."
 
     # game/variables/tips.rpy:4
     old "I need to ask Kiara about this.. being.."
-    new "I need to ask Kiara about this.. being.."
-
+    new "Tôi cần hỏi Kiara về,.. thực thể này..."

@@ -184,7 +184,7 @@ translate vietnamese exp_orcs_slaves_win_9fb6b701:
 translate vietnamese exp_orcs_slaves_win_9a336624:
 
     # "You thrust your dick inside her ferociously, without bothering to be gentle."
-    "Bạn thọc sâu con cặc của mình vào bên trong cô ấy một cách mạnh bạo, không thèm nhẹ nhàng..."
+    "Bạn thọc sâu con cặc của mình vào bên trong cô ấy một cách mạnh bạo, không thèm nhẹ nhàng."
 
 # game/events/explore/orcs_slaves.rpy:94
 translate vietnamese exp_orcs_slaves_win_6d2d2f16:
@@ -225,7 +225,7 @@ translate vietnamese exp_orcs_slaves_win_317bdc2b:
 # game/events/explore/orcs_slaves.rpy:106
 translate vietnamese exp_orcs_slaves_win_f42a70d1:
 
-    # man "Be strong darling. I'm sorry. I'm so sorry..."
+    # man "Be strong darling. I'm sorry. I'm so sorry.."
     man "Mạnh mẽ lên em yêu. Anh xin lôi. Anh rất xin lỗi..."
 
 # game/events/explore/orcs_slaves.rpy:110
@@ -261,7 +261,7 @@ translate vietnamese exp_orcs_slaves_win_7d72b159:
 # game/events/explore/orcs_slaves.rpy:126
 translate vietnamese exp_orcs_slaves_win_87d67d9e:
 
-    # man "I'll get you for that..."
+    # man "I'll get you for that.."
     man "Tao sẽ giết mày vì điều đó..."
 
 # game/events/explore/orcs_slaves.rpy:127

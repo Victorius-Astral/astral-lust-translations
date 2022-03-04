@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/mina/ev_4.rpy:9
 translate spanish mina_4_58fb223a:
@@ -1399,7 +1399,7 @@ translate spanish strings:
     # game/characters/mina/ev_4.rpy:288
     old "What would you do if you could do anything."
     new "Qué harías si pudieras hacer lo que sea?"
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 # game/characters/mina/ev_4.rpy:18
 translate spanish mina_4_52945ecd:
@@ -1521,24 +1521,23 @@ translate spanish strings:
 
     # game/characters/mina/ev_4.rpy:288
     old "What would you do if you could do anything?"
-    new "¿Qué harías si pudieras hacer lo que sea??"
-# TODO: Translation updated at 2022-02-26 14:57
+    new "¿Qué harías si pudieras hacer lo que sea?"
+# : Translation updated at 2022-02-26 14:57
 
 # game/characters/mina/ev_4.rpy:45
 translate spanish mina_4_66c07f1c:
 
     # me "{loud}STOP!!{/loud}"
-    me "{loud}STOP!!{/loud}"
+    me "{loud}¡¡PARA!!{/loud}"
 
 # game/characters/mina/ev_4.rpy:203
 translate spanish mina_4_3_26636d63:
 
     # me "{small}Hey [alice], what's wrong?{/small}"
-    me "{small}Hey [alice], what's wrong?{/small}"
+    me "{small}Hey [alice], ¿Qué pasa?{/small}"
 
 # game/characters/mina/ev_4.rpy:204
 translate spanish mina_4_3_8568806b:
 
     # alice "{small}I just thought of a better dare..{/small}"
-    alice "{small}I just thought of a better dare..{/small}"
-
+    alice "{small}Acabo de pensar en un mejor desafío...{/small}"

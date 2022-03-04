@@ -16,5 +16,4 @@ translate vietnamese strings:
 
     # game/screens/trade/storage_materials.rpy:103
     old "{color=#816991}Inventory{/color}\n{color=#799169}_____{/color}\n\n"
-    new "{color=#816991}Inventory{/color}\n{color=#799169}_____{/color}\n\n"
-
+    new "{color=#816991}Kho đồ{/color}\n{color=#799169}_____{/color}\n\n"

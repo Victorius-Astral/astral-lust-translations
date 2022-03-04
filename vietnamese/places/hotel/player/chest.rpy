@@ -4,4 +4,4 @@
 translate vietnamese room_player_chest_73762281:
 
     # "You need to first build a vault."
-    "Trước tiên, bạn cần phải xây dựng một kho chứa."
+    "Trước tiên, bạn cần phải xây dựng một kho chứa đã."

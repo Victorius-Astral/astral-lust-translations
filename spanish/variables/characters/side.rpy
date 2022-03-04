@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-17 12:56
+﻿# : Translation updated at 2021-05-17 12:56
 
 translate spanish strings:
 
@@ -13,7 +13,7 @@ translate spanish strings:
     # game/variables/characters/side.rpy:15
     old "Governor"
     new "Gobernador"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 
@@ -36,4 +36,3 @@ translate spanish strings:
     # game/variables/characters/side.rpy:30
     old "[Rhainda.name]"
     new "[Rhainda.name]"
-

@@ -202,7 +202,7 @@ translate vietnamese speak_mt_f1351277:
 translate vietnamese speak_mt_202f7ffb:
 
     # th "He creeps me every time."
-    th "Tên này luôn làm mình rợn tóc gáy."
+    th "Tên này luôn làm mình rợn tóc gáy."
 
 # game/characters/traders/mysterious/speak.rpy:80
 translate vietnamese speak_mt_0914c6d2:

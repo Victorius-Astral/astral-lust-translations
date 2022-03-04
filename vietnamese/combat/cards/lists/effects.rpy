@@ -72,7 +72,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/effects.rpy:3
     old "Clarity"
-    new "trong suốt"
+    new "Trong Suốt"
 
     # game/combat/cards/lists/effects.rpy:3
     old "Gain {}x spirituality each turn."

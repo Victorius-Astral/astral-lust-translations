@@ -16,7 +16,7 @@ translate vietnamese strings:
 
     # game/functions/sorting.rpy:148
     old "Cost"
-    new "Phí"
+    new "Tốn"
 
     # game/functions/sorting.rpy:163
     old "Type"

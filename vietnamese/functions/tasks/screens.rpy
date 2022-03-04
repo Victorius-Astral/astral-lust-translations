@@ -35,5 +35,4 @@ translate vietnamese strings:
 
     # game/functions/tasks/screens.rpy:148
     old "Toggle tasks menu with '{b}T{/b}' key"
-    new "Toggle tasks menu with '{b}T{/b}' key"
-
+    new "Chuyển đổi menu tác vụ bằng phím '{b}T{/b}''"
