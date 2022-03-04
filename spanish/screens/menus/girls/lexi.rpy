@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 
@@ -10,11 +10,10 @@ translate spanish strings:
     old "{gold}[lexi]{/gold}"
     new "{gold}[lexi]{/gold}"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 
     # game/screens/menus/girls/lexi.rpy:23
     old "Nicknames: Lex"
-    new "Nicknames: Lex"
-
+    new "Apodos: Lex"

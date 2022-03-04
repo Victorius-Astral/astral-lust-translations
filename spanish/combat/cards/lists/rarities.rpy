@@ -1,26 +1,26 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Ordinary"
-    new "Ordinary"
+    new "Ordinaria"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Extraordinary"
-    new "Extraordinary"
+    new "Extraordinaria"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Mythical"
-    new "Mythical"
+    new "Mítica"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Angelic"
-    new "Angelic"
+    new "Angelical"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Divine"
-    new "Divine"
+    new "Divina"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Tarot"
@@ -28,5 +28,4 @@ translate spanish strings:
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Unique"
-    new "Unique"
-
+    new "Única"

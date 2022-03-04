@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 
@@ -254,22 +254,21 @@ translate spanish strings:
     old "Error when registering replay, category '{category}' doesn't exist!"
     new "¡Error al registrar replay, la categoría '{category}' no existe!"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 
     # game/variables/lists/error_messages.rpy:3
     old "Error! No help with id \"{id}\" exists!"
-    new "Error! No help with id \"{id}\" exists!"
+    new "¡Error! No existe ayuda con id \"{id}\"!"
 
     # game/variables/lists/error_messages.rpy:3
     old "Error! No field {field} in persistent!"
-    new "Error! No field {field} in persistent!"
-# TODO: Translation updated at 2022-02-16 09:41
+    new "¡Error! No hay campo {field} en persistente!"
+# : Translation updated at 2022-02-16 09:41
 
 translate spanish strings:
 
     # game/variables/lists/error_messages.rpy:3
     old "Movie '{file}' doesn't exist!"
-    new "Movie '{file}' doesn't exist!"
-
+    new "Película '{file}' no existe!"

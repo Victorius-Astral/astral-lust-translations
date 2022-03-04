@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 translate spanish strings:
 
@@ -45,7 +45,7 @@ translate spanish strings:
     # game/screens/settings/video.rpy:31
     old "Memory Usage"
     new "Uso de Memoria"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 

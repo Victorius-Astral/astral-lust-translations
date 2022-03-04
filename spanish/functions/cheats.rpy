@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/functions/cheats.rpy:52
 translate spanish p_c_d86f027c:
@@ -12,7 +12,7 @@ translate spanish p_c_aaaa984c:
     # "Code '[cc]' not found, try again, codes are case sensitive."
     "Código '[cc]' no encontrado. Inténtalo otra vez, los códigos son sensibles a la mayúsculas y espacios."
 
-# TODO: Translation updated at 2021-05-17 12:56
+# : Translation updated at 2021-05-17 12:56
 
 # game/functions/cheats.rpy:78
 translate spanish v1_win_64498d69:
@@ -199,18 +199,17 @@ translate spanish v2_win_61dd3a44:
 
     # me "How do I even go back?"
     me "¿Cómo hago siquiera para volver?"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 
     # game/functions/cheats.rpy:317
     old "Alice's lust and trust + 10"
     new "La lujuria y la confianza de Alice + 10"
-# TODO: Translation updated at 2022-02-26 14:57
+# : Translation updated at 2022-02-26 14:57
 
 translate spanish strings:
 
     # game/functions/cheats.rpy:5
     old "Dragon Girl"
-    new "Dragon Girl"
-
+    new "Chica Dragon"

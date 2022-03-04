@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/combat/battle/tutorial.rpy:20
 translate spanish tutorial_combat_b8ce5a9c:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 
@@ -37,7 +37,7 @@ translate spanish strings:
     # game/variables/classes/Astral.rpy:477
     old "HELP"
     new "AYUDA"
-# TODO: Translation updated at 2022-02-16 09:41
+# : Translation updated at 2022-02-16 09:41
 
 translate spanish strings:
 
