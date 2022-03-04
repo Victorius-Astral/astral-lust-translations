@@ -101,12 +101,12 @@ translate spanish strings:
     new "Quiero tres habilidades poderosas [[Reinicia tu mazo y pierde 20 puntos de atributos aleatorios. Elige una carta de alta rareza de entre tres opciones, tres veces.]"
 
     # game/events/dreams/deal_with_the_devil.rpy:36
-    old "Remove my corruption [[-50%% Sanity, -5%% Corruption]"
-    new "Remueve mi corrupción [[-50%% Cordura, -5%% Corrupción]"
+    old "Remove my corruption [[-50% Sanity, -5% Corruption]"
+    new "Remueve mi corrupción [[-50% Cordura, -5% Corrupción]"
 
     # game/events/dreams/deal_with_the_devil.rpy:36
-    old "Restore my clarity [[+100%% Sanity, +5%% Corruption]"
-    new "Restaura mi claridad [[+100%% Cordura, +5%% Corrupción]"
+    old "Restore my clarity [[+100% Sanity, +5% Corruption]"
+    new "Restaura mi claridad [[+100% Cordura, +5% Corrupción]"
 
     # game/events/dreams/deal_with_the_devil.rpy:36
     old "Kill me [[Die]"
@@ -190,8 +190,8 @@ translate spanish strings:
     new "Quiero ser el dueño de mi propio destino"
 
     # game/events/dreams/deal_with_the_devil.rpy:97
-    old "[[Sanity will become 1%%, your deck will reset. Eldritch influence will weaken.]"
-    new "[[Cordura se volverá 1%%, tu mazo se reiniciará. Influencia Eldritch se debilitará.]"
+    old "[[Sanity will become 1%, your deck will reset. Eldritch influence will weaken.]"
+    new "[[Cordura se volverá 1%, tu mazo se reiniciará. Influencia Eldritch se debilitará.]"
 
     # game/events/dreams/deal_with_the_devil.rpy:97
     old "Deal"
@@ -225,6 +225,6 @@ translate spanish strings:
     new "Sanity +100%\nCorruption +5%"
 
     # game/events/dreams/deal_with_the_devil.rpy:95
-    old "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
-    new "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
+    old "[[Sanity will become 1%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
+    new "[[Sanity will become 1%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
 

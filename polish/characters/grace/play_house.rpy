@@ -693,8 +693,8 @@ translate polish grace_play_house_question2_85cd6061:
 # game/characters/grace/play_house.rpy:253
 translate polish grace_play_house_question2_cf459f34:
 
-    # grace "The first row takes a whole 1cm of height. The remaining seven rows take around 14%% less. If I remember correctly, it was around 0.866cm."
-    grace "The first row takes a whole 1cm of height. The remaining seven rows take around 14%% less. If I remember correctly, it was around 0.866cm."
+    # grace "The first row takes a whole 1cm of height. The remaining seven rows take around 14% less. If I remember correctly, it was around 0.866cm."
+    grace "The first row takes a whole 1cm of height. The remaining seven rows take around 14% less. If I remember correctly, it was around 0.866cm."
 
 # game/characters/grace/play_house.rpy:254
 translate polish grace_play_house_question2_61a42408:

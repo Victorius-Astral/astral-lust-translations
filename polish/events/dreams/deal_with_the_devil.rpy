@@ -101,12 +101,12 @@ translate polish strings:
     new "I want three powerful abilities [[Reset your deck and loose 20 random attribute points. Choose a card from three high rarity choices three times.]"
 
     # game/events/dreams/deal_with_the_devil.rpy:36
-    old "Remove my corruption [[-50%% Sanity, -5%% Corruption]"
-    new "Remove my corruption [[-50%% Sanity, -5%% Corruption]"
+    old "Remove my corruption [[-50% Sanity, -5% Corruption]"
+    new "Remove my corruption [[-50% Sanity, -5% Corruption]"
 
     # game/events/dreams/deal_with_the_devil.rpy:36
-    old "Restore my clarity [[+100%% Sanity, +5%% Corruption]"
-    new "Restore my clarity [[+100%% Sanity, +5%% Corruption]"
+    old "Restore my clarity [[+100% Sanity, +5% Corruption]"
+    new "Restore my clarity [[+100% Sanity, +5% Corruption]"
 
     # game/events/dreams/deal_with_the_devil.rpy:36
     old "Kill me [[Die]"
@@ -186,14 +186,6 @@ translate polish d_Deal_with_the_Devil_3_menu1_b5966159:
 
 translate polish strings:
 
-    # game/events/dreams/deal_with_the_devil.rpy:36
-    old "I want to be a master of my own destiny"
-    new "I want to be a master of my own destiny"
-
-    # game/events/dreams/deal_with_the_devil.rpy:97
-    old "[[Sanity will become 1%, your deck will reset. Eldritch influence will weaken.]"
-    new "[[Sanity will become 1%, your deck will reset. Eldritch influence will weaken.]"
-
     # game/events/dreams/deal_with_the_devil.rpy:97
     old "Deal"
     new "Deal"
@@ -206,8 +198,8 @@ translate polish strings:
 translate polish strings:
 
     # game/events/dreams/deal_with_the_devil.rpy:97
-    old "[[Sanity will become 1%%, your deck will reset. Eldritch influence will weaken.]"
-    new "[[Sanity will become 1%%, your deck will reset. Eldritch influence will weaken.]"
+    old "[[Sanity will become 1%, your deck will reset. Eldritch influence will weaken.]"
+    new "[[Sanity will become 1%, your deck will reset. Eldritch influence will weaken.]"
 
 # TODO: Translation updated at 2022-01-31 15:20
 
@@ -226,6 +218,5 @@ translate polish strings:
     new "I want to be a master of my own destiny {#visible}"
 
     # game/events/dreams/deal_with_the_devil.rpy:95
-    old "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
-    new "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
-
+    old "[[Sanity will become 1%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
+    new "[[Sanity will become 1%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"

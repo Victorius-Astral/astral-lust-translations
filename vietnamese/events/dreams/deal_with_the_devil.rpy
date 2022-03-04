@@ -167,12 +167,12 @@ translate vietnamese strings:
     new "Tôi muốn có ba khả năng mạnh mẽ [[Mất 20 điểm thuộc tính ngẫu nhiên. Chọn một thẻ từ ba lựa chọn độ hiếm cao.]"
 
     # game/events/dreams/deal_with_the_devil.rpy:36
-    old "Remove my corruption [[-50%% Sanity, -5%% Corruption]"
-    new "Xóa sự xa đọa của tôi [[-50 % Tỉnh táo, -5% xa đọa]"
+    old "Remove my corruption [[-50% Sanity, -5% Corruption]"
+    new "Xóa sự xa đọa của tôi [[-50% Tỉnh táo, -5% xa đọa]"
 
     # game/events/dreams/deal_with_the_devil.rpy:36
-    old "Restore my clarity [[+100%% Sanity, +5%% Corruption]"
-    new "Khôi phục sự trong sáng của tôi [[+ 100 % Tỉnh táo, + 5 % xa đọa]"
+    old "Restore my clarity [[+100% Sanity, +5% Corruption]"
+    new "Khôi phục sự trong sáng của tôi [[+100% Tỉnh táo, +5% xa đọa]"
 
     # game/events/dreams/deal_with_the_devil.rpy:36
     old "I want to be a master of my own destiny {#visible}"
@@ -195,8 +195,8 @@ translate vietnamese strings:
     new "+ 100 % Tỉnh táo, + 5 % xa đọa"
 
     # game/events/dreams/deal_with_the_devil.rpy:95
-    old "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [author_influence]/10]"
-    new "[[Sự tỉnh táo sẽ trở thành 1 %%, bạn sẽ mất tất cả các thẻ của mình. Ảnh hưởng của Eldritch sẽ yếu đi 4 điểm. Ảnh hưởng: [author_influence]/10]"
+    old "[[Sanity will become 1%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [author_influence]/10]"
+    new "[[Sự tỉnh táo sẽ trở thành 1 %, bạn sẽ mất tất cả các thẻ của mình. Ảnh hưởng của Eldritch sẽ yếu đi 4 điểm. Ảnh hưởng: [author_influence]/10]"
 
     # game/events/dreams/deal_with_the_devil.rpy:95
     old "Deal"
@@ -210,6 +210,5 @@ translate vietnamese strings:
 translate vietnamese strings:
 
     # game/events/dreams/deal_with_the_devil.rpy:95
-    old "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
-    new "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
-
+    old "[[Sanity will become 1%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
+    new "[[Sanity will become 1%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"

@@ -1,7 +1,7 @@
 define available_languages = [
     # image, language name, language ID, completion %
-    ("spain", _("Spanish"), "spanish", "(96%)"),
-    ("vietnam", _("Vietnamese"), "vietnamese", "(84%)"),
+    ("spain", _("Spanish"), "spanish", "(98%)"),
+    ("vietnam", _("Vietnamese"), "vietnamese", "(96%)"),
 
 ]
 
