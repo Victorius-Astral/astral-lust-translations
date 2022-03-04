@@ -50,7 +50,7 @@ translate spanish strings:
     old "\n________________"
     new "\n________________"
 
-# TODO: Translation updated at 2022-02-16 09:41
+# : Translation updated at 2022-02-16 09:41
 
 translate spanish strings:
 

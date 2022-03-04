@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/places/hotel/player/cube.rpy:5
 translate spanish room_player_cube_873b9e9f:

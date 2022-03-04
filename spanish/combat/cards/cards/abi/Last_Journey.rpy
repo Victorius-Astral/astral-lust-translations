@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/abi/Last_Journey.rpy:39
     old "The Last Journey"
-    new "El Último VIaje"
+    new "El Último Viaje"

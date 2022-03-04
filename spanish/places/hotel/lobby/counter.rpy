@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/places/hotel/lobby/counter.rpy:6
 translate spanish counter_menu_56884a50:
@@ -291,7 +291,7 @@ translate spanish strings:
     # game/places/hotel/lobby/counter.rpy:125
     old "Vault T4 (25 Stone, 20 Metal)"
     new "Bóveda T4 (25 Piedra, 20 Metal)"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/places/hotel/lobby/counter.rpy:9
 translate spanish room_lobby_counter_dd5952c9:

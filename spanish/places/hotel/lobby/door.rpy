@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/places/hotel/lobby/door.rpy:16
 translate spanish room_lobby_door_46ff25cb:
@@ -79,7 +79,7 @@ translate spanish strings:
     # game/places/hotel/lobby/door.rpy:36
     old "Wanderers Hideout"
     new "Escondite de los Errantes"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/places/hotel/lobby/door.rpy:16
 translate spanish room_lobby_door_menu1_46ff25cb:

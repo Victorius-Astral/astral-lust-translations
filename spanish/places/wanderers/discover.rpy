@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/places/wanderers/discover.rpy:5
 translate spanish discover_wanderers_65fc5510:

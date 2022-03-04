@@ -1678,103 +1678,103 @@ translate spanish damsel_in_distress_soldier_ee05a254:
 translate spanish damsel_in_distress_soldier_74253f9e:
 
     # me "No worries. Today I've saved you, tomorrow you'll save me."
-    me "No worries. Today I've saved you, tomorrow you'll save me."
+    me "No te preocupes. Hoy te he salvado, mañana me salvarás tú."
 
 # game/events/explore/damsel_in_distress.rpy:653
 translate spanish damsel_in_distress_soldier_a2eb2e5a:
 
     # d_soldier "I hope we meet again in better circumstances. Take care."
-    d_soldier "I hope we meet again in better circumstances. Take care."
+    d_soldier "Espero que nos volvamos a encontrar en mejores circunstancias. Cuídate."
 
 # game/events/explore/damsel_in_distress.rpy:654
 translate spanish damsel_in_distress_soldier_84dd3289:
 
     # me "Take care."
-    me "Take care."
+    me "Cuídate."
 
 # game/events/explore/damsel_in_distress.rpy:662
 translate spanish damsel_in_distress_brunette_64297acc:
 
     # me "It's safe now."
-    me "It's safe now."
+    me "Es seguro ahora."
 
 # game/events/explore/damsel_in_distress.rpy:663
 translate spanish damsel_in_distress_brunette_b993e9b7:
 
     # d_brunette "I thought was going to die.."
-    d_brunette "I thought was going to die.."
+    d_brunette "Pensé que iba a morir..."
 
 # game/events/explore/damsel_in_distress.rpy:664
 translate spanish damsel_in_distress_brunette_2351984f:
 
     # me "You were lucky I was nearby."
-    me "You were lucky I was nearby."
+    me "Tuviste suerte de que estuviera cerca."
 
 # game/events/explore/damsel_in_distress.rpy:670
 translate spanish damsel_in_distress_brunette_3bba7a2b:
 
     # d_brunette "Yes, thank you very much, sir."
-    d_brunette "Yes, thank you very much, sir."
+    d_brunette "Sí, muchas gracias, señor."
 
 # game/events/explore/damsel_in_distress.rpy:671
 translate spanish damsel_in_distress_brunette_0b62bbae:
 
     # me "How much is your life worth?"
-    me "How much is your life worth?"
+    me "¿Cuánto vale tu vida?"
 
 # game/events/explore/damsel_in_distress.rpy:672
 translate spanish damsel_in_distress_brunette_1f861ccd:
 
     # d_brunette "I can give you a dragon bone. It's all I have!"
-    d_brunette "I can give you a dragon bone. It's all I have!"
+    d_brunette "Puedo darte un hueso de dragón. ¡Es todo lo que tengo!"
 
 # game/events/explore/damsel_in_distress.rpy:673
 translate spanish damsel_in_distress_brunette_fd8605ef:
 
     # me "Wait.. Where did you get it?"
-    me "Wait.. Where did you get it?"
+    me "Espera... ¿Dónde lo conseguiste?"
 
 # game/events/explore/damsel_in_distress.rpy:674
 translate spanish damsel_in_distress_brunette_5067f24b:
 
     # d_brunette weirded "You might not believe it, but it was given to me by a cultist.."
-    d_brunette weirded "You might not believe it, but it was given to me by a cultist.."
+    d_brunette weirded "Puede que no lo creas, pero me lo dio un cultista..."
 
 # game/events/explore/damsel_in_distress.rpy:675
 translate spanish damsel_in_distress_brunette_882e3186:
 
     # me "You are right. I don't believe it."
-    me "You are right. I don't believe it."
+    me "Tienes razón. No lo creo."
 
 # game/events/explore/damsel_in_distress.rpy:676
 translate spanish damsel_in_distress_brunette_a122d236:
 
     # d_brunette "But it's really the truth."
-    d_brunette "But it's really the truth."
+    d_brunette "Pero es la verdad."
 
 # game/events/explore/damsel_in_distress.rpy:677
 translate spanish damsel_in_distress_brunette_c1b80386:
 
     # me "Why would a cultist give you anything?"
-    me "Why would a cultist give you anything?"
+    me "¿Por qué un cultista te daría algo?"
 
 # game/events/explore/damsel_in_distress.rpy:678
 translate spanish damsel_in_distress_brunette_7d71d31e:
 
     # d_brunette fear "I don't know. When I met him, I thought I would die."
-    d_brunette fear "I don't know. When I met him, I thought I would die."
+    d_brunette fear "No lo sé. Cuando lo conocí, pensé que moriría."
 
 # game/events/explore/damsel_in_distress.rpy:679
 translate spanish damsel_in_distress_brunette_4322b42f:
 
     # d_brunette "He only looked at me, smiled, and pushed his hand towards me."
-    d_brunette "He only looked at me, smiled, and pushed his hand towards me."
+    d_brunette "Solo me miró, sonrió y me acercó la mano."
 
 # game/events/explore/damsel_in_distress.rpy:680
 translate spanish damsel_in_distress_brunette_8217b7b8:
 
     # d_brunette "On his palm lied the bone. I took it and left as fast as I could. He was just smiling at me the whole time."
-    d_brunette "On his palm lied the bone. I took it and left as fast as I could. He was just smiling at me the whole time."
+    d_brunette "En su palma yacía el hueso. Lo tomé y me fui lo más rápido que pude. Me estuvo sonriendo todo el tiempo."
 
 # game/events/explore/damsel_in_distress.rpy:681
 translate spanish damsel_in_distress_brunette_3820771a:
@@ -1786,91 +1786,91 @@ translate spanish damsel_in_distress_brunette_3820771a:
 translate spanish damsel_in_distress_brunette_0f5b5ad8:
 
     # th "Who knows what's in their heads.. It might have really happened."
-    th "Who knows what's in their heads.. It might have really happened."
+    th "Quién sabe lo que hay en sus cabezas... Podría haber sucedido de verdad."
 
 # game/events/explore/damsel_in_distress.rpy:683
 translate spanish damsel_in_distress_brunette_01261fcf:
 
     # d_brunette "So, do you want the bone?"
-    d_brunette "So, do you want the bone?"
+    d_brunette "Entonces, ¿quieres el hueso?"
 
 # game/events/explore/damsel_in_distress.rpy:691
 translate spanish damsel_in_distress_brunette_67159c49:
 
     # d_brunette calm "Thank you, again. I would be dead without your help."
-    d_brunette calm "Thank you, again. I would be dead without your help."
+    d_brunette calm "Gracias, de nuevo. Estaría muerta sin tu ayuda."
 
 # game/events/explore/damsel_in_distress.rpy:692
 translate spanish damsel_in_distress_brunette_0d567f93:
 
     # me "You've paid for it."
-    me "You've paid for it."
+    me "Has pagado por ello."
 
 # game/events/explore/damsel_in_distress.rpy:693
 translate spanish damsel_in_distress_brunette_64fd89f4:
 
     # d_brunette "It doesn't matter. Dead, I would have no use for this bone."
-    d_brunette "It doesn't matter. Dead, I would have no use for this bone."
+    d_brunette "No importa. Muerto, no tendría ningún uso para este hueso."
 
 # game/events/explore/damsel_in_distress.rpy:694
 translate spanish damsel_in_distress_brunette_96c7e4fe:
 
     # d_brunette "Thank you. Please, take care of yourself."
-    d_brunette "Thank you. Please, take care of yourself."
+    d_brunette "Gracias. Por favor, cuídate."
 
 # game/events/explore/damsel_in_distress.rpy:695
 translate spanish damsel_in_distress_brunette_dc9afc86:
 
     # me "You too."
-    me "You too."
+    me "Tu igual."
 
 # game/events/explore/damsel_in_distress.rpy:699
 translate spanish damsel_in_distress_brunette_6e93e018:
 
     # me "Huh.. Why would he give her this bone?"
-    me "Huh.. Why would he give her this bone?"
+    me "Huh... ¿Por qué le daría este hueso?"
 
 # game/events/explore/damsel_in_distress.rpy:700
 translate spanish damsel_in_distress_brunette_b60eb9f9:
 
     # me "Weird.."
-    me "Weird.."
+    me "Raro..."
 
 # game/events/explore/damsel_in_distress.rpy:708
 translate spanish damsel_in_distress_brunette_334c884d:
 
     # d_brunette saved "W-What?"
-    d_brunette saved "W-What?"
+    d_brunette saved "¿Q-Qué?"
 
 # game/events/explore/damsel_in_distress.rpy:709
 translate spanish damsel_in_distress_brunette_f7abe254:
 
     # me "You heard me."
-    me "You heard me."
+    me "Me escuchaste."
 
 # game/events/explore/damsel_in_distress.rpy:710
 translate spanish damsel_in_distress_brunette_9083e8d0:
 
     # d_brunette "I.. I've never done such a thing.."
-    d_brunette "I.. I've never done such a thing.."
+    d_brunette "Yo... nunca he hecho tal cosa..."
 
 # game/events/explore/damsel_in_distress.rpy:711
 translate spanish damsel_in_distress_brunette_57106142:
 
     # me "There is a first time to everything."
-    me "There is a first time to everything."
+    me "Hay una primera vez para todo."
 
 # game/events/explore/damsel_in_distress.rpy:712
 translate spanish damsel_in_distress_brunette_0f8e83e5:
 
     # d_brunette crying "Please.."
-    d_brunette crying "Please.."
+    d_brunette crying "Por favor..."
 
 # game/events/explore/damsel_in_distress.rpy:713
 translate spanish damsel_in_distress_brunette_b9864941:
 
     # me "It's not a big price for your life."
-    me "It's not a big price for your life."
+    me "No es un gran precio por tu vida."
 
 # game/events/explore/damsel_in_distress.rpy:714
 translate spanish damsel_in_distress_brunette_36beaf28:
@@ -1882,217 +1882,217 @@ translate spanish damsel_in_distress_brunette_36beaf28:
 translate spanish damsel_in_distress_brunette_a9effd62:
 
     # d_brunette "I can do this with my hand.."
-    d_brunette "I can do this with my hand.."
+    d_brunette "Puedo hacerlo con la mano..."
 
 # game/events/explore/damsel_in_distress.rpy:716
 translate spanish damsel_in_distress_brunette_630c0657:
 
     # me "Only that much?"
-    me "Only that much?"
+    me "¿Sólo eso?"
 
 # game/events/explore/damsel_in_distress.rpy:717
 translate spanish damsel_in_distress_brunette_13ea8cc6:
 
     # d_brunette "Please sir. I beg you!"
-    d_brunette "Please sir. I beg you!"
+    d_brunette "Por favor señor. ¡Se lo ruego!"
 
 # game/events/explore/damsel_in_distress.rpy:718
 translate spanish damsel_in_distress_brunette_fce2718a:
 
     # me "Fine, fine. Don't cry."
-    me "Fine, fine. Don't cry."
+    me "Bien, bien. No llores."
 
 # game/events/explore/damsel_in_distress.rpy:719
 translate spanish damsel_in_distress_brunette_ee5f2a08:
 
     # d_brunette saved "Thank you sir. I'll do my best. I promise!"
-    d_brunette saved "Thank you sir. I'll do my best. I promise!"
+    d_brunette saved "Gracias señor. Haré lo mejor que pueda. ¡Lo prometo!"
 
 # game/events/explore/damsel_in_distress.rpy:720
 translate spanish damsel_in_distress_brunette_fd2c12d8:
 
     # me "I hope so."
-    me "I hope so."
+    me "Eso espero."
 
 # game/events/explore/damsel_in_distress.rpy:724
 translate spanish damsel_in_distress_brunette_31d48c52:
 
     # d_brunette "Am I doing it right?"
-    d_brunette "Am I doing it right?"
+    d_brunette "¿Lo estoy haciendo bien?"
 
 # game/events/explore/damsel_in_distress.rpy:725
 translate spanish damsel_in_distress_brunette_f2bd483e:
 
     # me "Yeah, it's not complex, is it?"
-    me "Yeah, it's not complex, is it?"
+    me "Sí, nada complejo, ¿verdad?"
 
 # game/events/explore/damsel_in_distress.rpy:726
 translate spanish damsel_in_distress_brunette_d54ef4eb:
 
     # d_brunette "No sir, it is not."
-    d_brunette "No sir, it is not."
+    d_brunette "No señor, no lo es."
 
 # game/events/explore/damsel_in_distress.rpy:727
 translate spanish damsel_in_distress_brunette_39a2dbf6:
 
     # me "Why were you outside?"
-    me "Why were you outside?"
+    me "¿Por qué estabas afuera?"
 
 # game/events/explore/damsel_in_distress.rpy:728
 translate spanish damsel_in_distress_brunette_c1a23444:
 
     # d_brunette "I was looking for a food for my little sister."
-    d_brunette "I was looking for a food for my little sister."
+    d_brunette "Estaba buscando comida para mi hermanita."
 
 # game/events/explore/damsel_in_distress.rpy:729
 translate spanish damsel_in_distress_brunette_99ecd9ff:
 
     # me "So, you have a sister. What about your parents?"
-    me "So, you have a sister. What about your parents?"
+    me "Entonces, tienes una hermana. ¿Qué hay de tus padres?"
 
 # game/events/explore/damsel_in_distress.rpy:730
 translate spanish damsel_in_distress_brunette_ab6c2e47:
 
     # d_brunette "Not long after The End, they went out to get us some food, and they.."
-    d_brunette "Not long after The End, they went out to get us some food, and they.."
+    d_brunette "Poco después de El Fin, salieron a buscarnos algo de comida y..."
 
 # game/events/explore/damsel_in_distress.rpy:731
 translate spanish damsel_in_distress_brunette_2614409e:
 
     # me "I see.. I'm sorry."
-    me "I see.. I'm sorry."
+    me "Ya veo... Lo siento."
 
 # game/events/explore/damsel_in_distress.rpy:732
 translate spanish damsel_in_distress_brunette_73d4dd04:
 
     # d_brunette "Thank you."
-    d_brunette "Thank you."
+    d_brunette "Gracias."
 
 # game/events/explore/damsel_in_distress.rpy:736
 translate spanish damsel_in_distress_brunette_35cf47d9:
 
     # th "I will never cum talking about topics like these.."
-    th "I will never cum talking about topics like these.."
+    th "Nunca me correré hablando de temas como estos..."
 
 # game/events/explore/damsel_in_distress.rpy:737
 translate spanish damsel_in_distress_brunette_18004b99:
 
     # d_brunette "Sir, what about you?"
-    d_brunette "Sir, what about you?"
+    d_brunette "Señor, ¿y usted?"
 
 # game/events/explore/damsel_in_distress.rpy:738
 translate spanish damsel_in_distress_brunette_d03c3e19:
 
     # me "Me?"
-    me "Me?"
+    me "¿Yo?"
 
 # game/events/explore/damsel_in_distress.rpy:739
 translate spanish damsel_in_distress_brunette_9586af09:
 
     # d_brunette "Yes, what are you doing out here?"
-    d_brunette "Yes, what are you doing out here?"
+    d_brunette "Sí, ¿qué haces aquí?"
 
 # game/events/explore/damsel_in_distress.rpy:740
 translate spanish damsel_in_distress_brunette_3ae30827:
 
     # me "I'm exploring, looking for things to gather, perhaps for people.. Well, I'm looking for anything of interest."
-    me "I'm exploring, looking for things to gather, perhaps for people.. Well, I'm looking for anything of interest."
+    me "Estoy explorando, buscando cosas para recolectar, tal vez personas... Bueno, estoy buscando cualquier cosa de interés."
 
 # game/events/explore/damsel_in_distress.rpy:741
 translate spanish damsel_in_distress_brunette_92cd901f:
 
     # d_brunette "So, you are a scavenger or a scout?"
-    d_brunette "So, you are a scavenger or a scout?"
+    d_brunette "Entonces, ¿eres un recolector o un explorador?"
 
 # game/events/explore/damsel_in_distress.rpy:742
 translate spanish damsel_in_distress_brunette_251da3a8:
 
     # me "I guess, I could be called a scavenger."
-    me "I guess, I could be called a scavenger."
+    me "Supongo que podría ser llamado un recolector."
 
 # game/events/explore/damsel_in_distress.rpy:743
 translate spanish damsel_in_distress_brunette_a770658a:
 
     # me "Now, back to the task at hand."
-    me "Now, back to the task at hand."
+    me "Ahora, volvamos a la tarea en cuestión."
 
 # game/events/explore/damsel_in_distress.rpy:744
 translate spanish damsel_in_distress_brunette_7e284bf0:
 
     # d_brunette "Something wrong?"
-    d_brunette "Something wrong?"
+    d_brunette "¿Pasa algo?"
 
 # game/events/explore/damsel_in_distress.rpy:745
 translate spanish damsel_in_distress_brunette_5a9e4e97:
 
     # me "No, but tell me, what do you think about my dick?"
-    me "No, but tell me, what do you think about my dick?"
+    me "No, pero dime, ¿qué piensas de mi polla?"
 
 # game/events/explore/damsel_in_distress.rpy:746
 translate spanish damsel_in_distress_brunette_d8e49a83:
 
     # d_brunette "Umm.. It's very big, sir."
-    d_brunette "Umm.. It's very big, sir."
+    d_brunette "Umm... Es muy grande, señor."
 
 # game/events/explore/damsel_in_distress.rpy:747
 translate spanish damsel_in_distress_brunette_5ed25e9e:
 
     # th "Now, that's a much better topic for this occasion."
-    th "Now, that's a much better topic for this occasion."
+    th "Ahora, ese es un tema mucho mejor para la ocasión."
 
 # game/events/explore/damsel_in_distress.rpy:748
 translate spanish damsel_in_distress_brunette_fbe693b6:
 
     # me "Anything else? Don't be shy."
-    me "Anything else? Don't be shy."
+    me "¿Algo más? No seas tímido."
 
 # game/events/explore/damsel_in_distress.rpy:749
 translate spanish damsel_in_distress_brunette_9437fd94:
 
     # d_brunette "It's very warm, and its hard, like really hard."
-    d_brunette "It's very warm, and its hard, like really hard."
+    d_brunette "Es muy cálido y duro, muy duro."
 
 # game/events/explore/damsel_in_distress.rpy:750
 translate spanish damsel_in_distress_brunette_df2be263:
 
     # me "Mm. Would you like to take it to your mouth?"
-    me "Mm. Would you like to take it to your mouth?"
+    me "Mm. ¿Te gustaría llevártelo a la boca?"
 
 # game/events/explore/damsel_in_distress.rpy:751
 translate spanish damsel_in_distress_brunette_b53b444f:
 
     # d_brunette "N-No?"
-    d_brunette "N-No?"
+    d_brunette "¿N-No?"
 
 # game/events/explore/damsel_in_distress.rpy:752
 translate spanish damsel_in_distress_brunette_240d4536:
 
     # me "Whatever you say. Girl, you have great pair of boobs."
-    me "Whatever you say. Girl, you have great pair of boobs."
+    me "Lo que digas. Chica, tienes un gran par de tetas."
 
 # game/events/explore/damsel_in_distress.rpy:753
 translate spanish damsel_in_distress_brunette_7d2ccd11:
 
     # d_brunette "Eh.. Thank you."
-    d_brunette "Eh.. Thank you."
+    d_brunette "Eh... Gracias."
 
 # game/events/explore/damsel_in_distress.rpy:754
 translate spanish damsel_in_distress_brunette_adf1446e:
 
     # me "I would love to play with them."
-    me "I would love to play with them."
+    me "Me encantaría jugar con ellas."
 
 # game/events/explore/damsel_in_distress.rpy:755
 translate spanish damsel_in_distress_brunette_bc58fee6:
 
     # d_brunette "Uh?"
-    d_brunette "Uh?"
+    d_brunette "¿Uh?"
 
 # game/events/explore/damsel_in_distress.rpy:756
 translate spanish damsel_in_distress_brunette_5ef48168:
 
     # me "Fondle with them till you scream in ecstasy."
-    me "Fondle with them till you scream in ecstasy."
+    me "Acariciarlas hasta que grites de éxtasis."
 
 # game/events/explore/damsel_in_distress.rpy:757
 translate spanish damsel_in_distress_brunette_36beaf28_1:
@@ -2104,37 +2104,37 @@ translate spanish damsel_in_distress_brunette_36beaf28_1:
 translate spanish damsel_in_distress_brunette_85a79ba2:
 
     # me "Suck on them, and.."
-    me "Suck on them, and.."
+    me "Chuparlas, y..."
 
 # game/events/explore/damsel_in_distress.rpy:761
 translate spanish damsel_in_distress_brunette_021a5164:
 
     # d_brunette "Eh!"
-    d_brunette "Eh!"
+    d_brunette "¡Eh!"
 
 # game/events/explore/damsel_in_distress.rpy:762
 translate spanish damsel_in_distress_brunette_0fedb036:
 
     # me "Yes!"
-    me "Yes!"
+    me "¡Si!"
 
 # game/events/explore/damsel_in_distress.rpy:765
 translate spanish damsel_in_distress_brunette_e96b12ef:
 
     # d_brunette "Yhm.."
-    d_brunette "Yhm.."
+    d_brunette "Yhm..."
 
 # game/events/explore/damsel_in_distress.rpy:766
 translate spanish damsel_in_distress_brunette_3f5d85fc:
 
     # me "Good job."
-    me "Good job."
+    me "Buen trabajo."
 
 # game/events/explore/damsel_in_distress.rpy:767
 translate spanish damsel_in_distress_brunette_e205cf9b:
 
     # d_brunette "Thank you?"
-    d_brunette "Thank you?"
+    d_brunette "¿Gracias?"
 
 # game/events/explore/damsel_in_distress.rpy:768
 translate spanish damsel_in_distress_brunette_8898b667:

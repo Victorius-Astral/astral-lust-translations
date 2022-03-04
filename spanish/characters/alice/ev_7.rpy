@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/alice/ev_7.rpy:10
 translate spanish alice_7_cf77ba87:
@@ -618,7 +618,7 @@ translate spanish strings:
     old "Not for free"
     new "No por nada"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 
@@ -657,7 +657,7 @@ translate spanish strings:
     # game/characters/alice/ev_7.rpy:312
     old "help me"
     new "ayúdame"
-# TODO: Translation updated at 2022-02-16 09:41
+# : Translation updated at 2022-02-16 09:41
 
 translate spanish strings:
 

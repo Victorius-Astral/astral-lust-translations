@@ -24,4 +24,4 @@ translate spanish strings:
 
     # game/combat/cards/Card.rpy:370
     old "Error playing card! \n Missing play() method."
-    new "¡Error jugando carta! \n Missing play() method."
+    new "¡Error jugando carta! \n Falta el método play()."

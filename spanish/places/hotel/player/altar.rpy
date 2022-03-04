@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/places/hotel/player/altar.rpy:12
 translate spanish room_player_altar_a864fc90:
@@ -101,7 +101,7 @@ translate spanish strings:
     # game/places/hotel/player/altar.rpy:30
     old "Open the gates to your kingdom."
     new "Abre las puertas a tu reino."
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/places/hotel/player/altar.rpy:43
 translate spanish room_player_altar_kiara_da7c91f7:

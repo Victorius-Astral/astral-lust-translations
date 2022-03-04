@@ -8,4 +8,4 @@ translate spanish strings:
 
     # game/variables/classes/Trader.rpy:417
     old "Player goods are worth too little"
-    new "Bienes del jugador valen muy poco"
+    new "Bienes del jugador no valen lo suficiente"

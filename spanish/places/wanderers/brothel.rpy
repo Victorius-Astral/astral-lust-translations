@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/places/wanderers/brothel.rpy:39
 translate spanish wanderers_brothel_753a405b:

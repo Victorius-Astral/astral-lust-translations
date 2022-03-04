@@ -77,7 +77,7 @@ translate spanish strings:
     # game/screens/menus/character.rpy:72
     old "[player.luck]\n[player.card_draw]\n[player.max_hand]"
     new "[player.luck]\n[player.card_draw]\n[player.max_hand]"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 

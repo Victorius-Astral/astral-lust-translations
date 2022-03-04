@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/places/wanderers/prostitutes/robin.rpy:38
 translate spanish w_booth_robin_5d695e8c:
@@ -1107,11 +1107,10 @@ translate spanish strings:
     # game/places/wanderers/prostitutes/robin.rpy:41
     old "Wall"
     new "Muro"
-# TODO: Translation updated at 2022-02-16 09:41
+# : Translation updated at 2022-02-16 09:41
 
 translate spanish strings:
 
     # game/places/wanderers/prostitutes/robin.rpy:2
     old "mister"
-    new "mister"
-
+    new "señor"

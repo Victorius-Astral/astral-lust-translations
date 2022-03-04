@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/mina/ev_5.rpy:3
 translate spanish mina_5_6fa06998:
@@ -1509,7 +1509,7 @@ translate spanish strings:
     # game/characters/mina/ev_5.rpy:353
     old "She already learned her lesson"
     new "Ella ya aprendió la lección "
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 # game/characters/mina/ev_5.rpy:30
 translate spanish mina_5_e1dfcfa9:

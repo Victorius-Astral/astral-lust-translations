@@ -1,11 +1,11 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/places/hotel/f2/room.rpy:3
 translate spanish room_hotel_f2_cc506d76:
 
     # "Second floor blocked. In future version you'll be able to rebuild the second floor to make rooms for new girls."
     "Segundo piso bloqueado. En una versión futura, podrás reconstruir el segundo piso para hacer habitaciones para nuevas chicas."
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/places/hotel/f2/room.rpy:29
 translate spanish room_hotel_f2_873b9e9f:

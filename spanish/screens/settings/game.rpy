@@ -77,7 +77,7 @@ translate spanish strings:
     # game/screens/settings/game.rpy:58
     old "Auto-Forward Time"
     new "Avanzar Texto Automáticamente"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 

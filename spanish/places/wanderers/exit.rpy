@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/places/wanderers/exit.rpy:5
 translate spanish wanderers_exit_menu1_df3b8a27:
@@ -23,7 +23,7 @@ translate spanish strings:
     # game/places/wanderers/exit.rpy:8
     old "Jade Hotel"
     new "Hotel Jade"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/places/wanderers/exit.rpy:31
 translate spanish wanderers_exit_hotel_df3b8a27:

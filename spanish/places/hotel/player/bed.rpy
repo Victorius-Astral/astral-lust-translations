@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/places/hotel/player/bed.rpy:21
 translate spanish room_player_bed_menu1_fb041914:
@@ -35,7 +35,7 @@ translate spanish strings:
     # game/places/hotel/player/bed.rpy:4
     old "Dreamwalk"
     new "Viaja entre sueños"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/places/hotel/player/bed.rpy:25
 translate spanish room_player_bed_menu1_43080d74:

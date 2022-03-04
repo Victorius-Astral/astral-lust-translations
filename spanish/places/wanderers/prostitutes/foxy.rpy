@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/places/wanderers/prostitutes/foxy.rpy:27
 translate spanish w_booth_foxy_4261b2ea:

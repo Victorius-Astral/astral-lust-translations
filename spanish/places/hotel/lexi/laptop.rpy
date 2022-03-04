@@ -1,11 +1,11 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/places/hotel/lexi/laptop.rpy:2
 translate spanish room_lexi_laptop_6f9990bf:
 
     # "WiP, will be available in 0.1.6."
     "WiP, estará disponible en 0.1.6."
-# TODO: Translation updated at 2021-05-17 12:56
+# : Translation updated at 2021-05-17 12:56
 
 # game/places/hotel/lexi/laptop.rpy:11
 translate spanish room_lexi_laptop_a773a592:
@@ -56,7 +56,7 @@ translate spanish strings:
     # game/places/hotel/lexi/laptop.rpy:30
     old "Try again"
     new "Inténtalo de nuevo"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/places/hotel/lexi/laptop.rpy:29
 translate spanish room_lexi_laptop_insert_f80bd77c:

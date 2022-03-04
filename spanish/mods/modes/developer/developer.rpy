@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/mods/modes/developer/developer.rpy:27
 translate spanish DEV_TEST_1c5c249e:
