@@ -227,7 +227,7 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:172
     old "A new Kitsune arrived in Asthar, and she's extra hot! She loves sex, and also loves girls. She has (toggleable) lesbian content with [lil_fox] available. Moreover she's designed after a real person, join our {a=https://discord.gg/rvnBC39USx}Discord{/a} server, and chat with her! Let's just hope your admiration won't get into her head :P"
-    new "Một mới mới vừa đặt chân đến Asthar, và cô ấy cực kỳ nóng bỏng nữa! Cô ấy yêu tình dục, và cũng thích con gái. Cô ấy có sẵn nội dung đồng tính nữ (có thể bật và tắt) với [lil_fox]. Hơn nữa, cô ấy được thiết kế dựa trên người thật, hãy tham gia máy chủ {a=https://discord.gg/rvnBC39USx} Discord {/a} của chúng tôi và trò chuyện với cô ấy! Hãy mong là sự ngưỡng mộ của bạn sẽ không lọt vào đầu cô ấy :P"
+    new "Một Hồ Ly mới mới vừa đặt chân đến Asthar, và cô ấy cực kỳ nóng bỏng nữa! Cô ấy yêu tình dục, và cũng thích con gái. Cô ấy có sẵn nội dung đồng tính nữ (có thể bật và tắt) với [lil_fox]. Hơn nữa, cô ấy được thiết kế dựa trên người thật, hãy tham gia máy chủ {a=https://discord.gg/rvnBC39USx} Discord {/a} của chúng tôi và trò chuyện với cô ấy! Hãy mong là sự ngưỡng mộ của bạn sẽ không khiến cô ấy ngại :P"
 
     # game/screens/utility/what_new.rpy:183
     old "{b}Kiara event{/b}"
@@ -235,52 +235,52 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:184
     old "Kiara got new story event explaining the creation myth believed by extraordinary beings. Don't forget to have fun afterwards, 6 new sex scenes, 3 new outfits, and almost 300 animations! Have you ever banged a girl with your clone?"
-    new "Kiara got new story event explaining the creation myth believed by extraordinary beings. Don't forget to have fun afterwards, 6 new sex scenes, 3 new outfits, and almost 300 animations! Have you ever banged a girl with your clone?"
+    new "Kiara có sự kiện câu chuyện mới giải thích Thần thoại Sáng tạo được tin tưởng bởi những thực thể phi thường. Nhưng đừng quên đi phần thú vị đấy, 6 cảnh chịch mới, 3 bộ trang phục mới và gần 300 hình ảnh động! Bạn đã bao giờ đụ một cô gái với bản sao của mình chưa?"
 
     # game/screens/utility/what_new.rpy:195
     old "{b}Alice Shower Event{/b}"
-    new "{b}Alice Shower Event{/b}"
+    new "{b}Sự kiện Alice trong phòng tắm{/b}"
 
     # game/screens/utility/what_new.rpy:196
     old "[alice]'s shower event was expanded with a new scene. Have some fun with your little girl, and help her wash her back!"
-    new "[alice]'s shower event was expanded with a new scene. Have some fun with your little girl, and help her wash her back!"
+    new "Sự kiện trong phòng tắm của [alice] đã được mở rộng với một cảnh mới. Hãy vui vẻ với cô gái dễ thương của bạn và giúp cô ấy tắm!"
 
     # game/screens/utility/what_new.rpy:207
     old "{b}Lexi Brings Food{/b}"
-    new "{b}Lexi Brings Food{/b}"
+    new "{b}Lexi Mang Đồ Ăn{/b}"
 
     # game/screens/utility/what_new.rpy:208
     old "This new random interaction between [lexi] & [grace] will let you know girl a little more. There are five different conversations."
-    new "This new random interaction between [lexi] & [grace] will let you know girl a little more. There are five different conversations."
+    new "Tương tác ngẫu nhiên mới này giữa [lexi] và [Grace] sẽ cho bạn biết thêm một chút về các cô gái. Có năm cuộc trò chuyện khác nhau."
 
     # game/screens/utility/what_new.rpy:211
     old "{b}Outfit Crafting Menu{/b}"
-    new "{b}Outfit Crafting Menu{/b}"
+    new "{b}Menu chế tạo trang phục{/b}"
 
     # game/screens/utility/what_new.rpy:212
     old "Now when asking [alice] to make outfit, you'll be able to use a new outfits menu!"
-    new "Now when asking [alice] to make outfit, you'll be able to use a new outfits menu!"
+    new "Giờ đây, khi yêu cầu [alice] may trang phục, bạn sẽ có thể sử dụng menu trang phục mới!"
 
     # game/screens/utility/what_new.rpy:232
     old "{b}Unique Cards!{/b}"
-    new "{b}Unique Cards!{/b}"
+    new "{b}Thẻ Độc Nhất!{/b}"
 
     # game/screens/utility/what_new.rpy:233
     old "This release four new unique cards appeared in Asthar! These all are part of Astral Lust 1st Anniversary. Fireworks card is available on {a=https://www.patreon.com/Victorius}{patreon1}Patreon{/patreon1}{/a} and {a=https://discord.gg/rvnBC39USx}{patreon1}Discord{/patreon1}{/a} to everyone, the remaining three cards are for all Patrons. One of the cards allows to summon various girls as allies - Delusions!"
-    new "This release four new unique cards appeared in Asthar! These all are part of Astral Lust 1st Anniversary. Fireworks card is available on {a=https://www.patreon.com/Victorius}{patreon1}Patreon{/patreon1}{/a} and {a=https://discord.gg/rvnBC39USx}{patreon1}Discord{/patreon1}{/a} to everyone, the remaining three cards are for all Patrons. One of the cards allows to summon various girls as allies - Delusions!"
+    new "Bản cập nhật này sẽ có thêm bốn Thẻ Độc Nhất mới được ra lò trong Asthar! Tất cả những thứ này đều là một phần của Lễ kỷ niệm 1 năm Astral Lust. Thẻ pháo hoa có sẵn trên {a=https://www.patreon.com/Victorius}{patreon1}Patreon{/patreon1}{/a} và {a=https://discord.gg/rvnBC39USx}{patreon1}Discord{/patreon1}{/a} cho tất cả mọi người, ba thẻ còn lại dành cho tất cả Khách hàng trên patreon. Một trong số đó cho phép triệu hồi các cô gái khác nhau làm đồng minh - Ảo Mộng!"
 
     # game/screens/utility/what_new.rpy:246
     old "{b}Interactions Menu{/b}"
-    new "{b}Interactions Menu{/b}"
+    new "{b}Menu tương tác{/b}"
 
     # game/screens/utility/what_new.rpy:247
     old "There is a big QoL here! Now you don't need to check what is clickable one by one. Besides secrets, the other interactable elements in the free roam have now the button in the bottom left corner! This window can be disabled in the settings, and with the 'I' key."
-    new "There is a big QoL here! Now you don't need to check what is clickable one by one. Besides secrets, the other interactable elements in the free roam have now the button in the bottom left corner! This window can be disabled in the settings, and with the 'I' key."
+    new "Có một sự thay đổi lớn ở đây! Bây giờ bạn không cần phải kiểm tra từng chỗ một chỉ để xem chỗ nào có thể nhấp được. Bên cạnh bí mật, các yếu tố có thể tương tác khác trong chỗ di chuyển sẽ có nút ở góc dưới cùng bên trái! Có thể tắt cửa sổ này trong cài đặt và bằng phím 'I'."
 
     # game/screens/utility/what_new.rpy:251
     old "{b}Other Changes{/b}"
-    new "{b}Other Changes{/b}"
+    new "{b}Các thay đổi khác{/b}"
 
     # game/screens/utility/what_new.rpy:252
     old "Of the many changes, the most noticeable ones would be choice menus that are now on the right part of the screen (can be changed in settings), and task menu can now be disabled with 'T' key or in the settings. There was also a new arena added, and leech attacks have now new intent icon. This release fixes a lot of bugs, and hundreds of typos and grammar issues."
-    new "Of the many changes, the most noticeable ones would be choice menus that are now on the right part of the screen (can be changed in settings), and task menu can now be disabled with 'T' key or in the settings. There was also a new arena added, and leech attacks have now new intent icon. This release fixes a lot of bugs, and hundreds of typos and grammar issues."
+    new "Trong số rất nhiều thay đổi, những thay đổi đáng chú ý nhất sẽ là menu lựa chọn hiện nằm ở phần bên phải của màn hình (có thể được thay đổi trong cài đặt) và menu tác vụ hiện có thể bị vô hiệu hóa bằng phím 'T' hoặc trong cài đặt. Ngoài ra còn có một đấu trường mới được thêm vào và các cuộc tấn công đỉa giờ đã có biểu tượng ý định mới. Bản phát hành này sửa rất nhiều lỗi và hàng trăm lỗi chính tả và ngữ pháp(Không tính tiếng Việt vì bản dịch chưa được chau chuốt kỹ)."

@@ -340,7 +340,7 @@ translate vietnamese main_4_menu_58fbf695:
 translate vietnamese main_4_menu_916751ef:
 
     # kiara "The upper echelon of Cult of the Black consists of seven Elders, two High Elders and a leader, His name is Aharon. You don't want to meet any of Them. Were you to hear Their name somewhere I advice you to just run and pray to whichever God you believe in that They ignore someone calling Their name."
-    kiara "Thượng cấp của Giáo Phái Bóng Đêm bao gồm bảy Trưởng lão, hai Trưởng lão cấp cao và một người lãnh đạo, Tên của hắn là Aharon. Anh không muốn gặp bất kỳ ai trong số Họ đâu. Anh có nghe thấy tên của họ ở đâu đó không, tôi khuyên anh chỉ nên chạy và cầu nguyện cho bất cứ vị thần nào mà bạn tin tưởng. Chúng sẽ Làm lơ người mà đang gọi tên của họ."
+    kiara "Thượng cấp của Giáo Phái Bóng Đêm bao gồm bảy Trưởng lão, hai Hiền Nhân và một người lãnh đạo, Tên của hắn là Aharon. Anh không muốn gặp bất kỳ ai trong số Họ đâu. Anh có nghe thấy tên của họ ở đâu đó không, tôi khuyên anh chỉ nên chạy và cầu nguyện cho bất cứ vị thần nào mà bạn tin tưởng. Chúng sẽ Làm lơ người mà đang gọi tên của họ."
 
 # game/characters/player/ev_4.rpy:123
 translate vietnamese main_4_menu_a26ceb89:
@@ -829,7 +829,7 @@ translate vietnamese strings:
 
     # game/characters/player/ev_4.rpy:121
     old "This cult made The End descend. It is shepherded by seven Elders, two High Elders and Aharon, the cult leader. All of them immortal and powerful beyond all imagination."
-    new "Giáo phái này đã khiến The End đến đây. Nó được dẫn dắt bởi bảy Elders, hai Trưởng lão cấp cao và Aharon, người đứng đầu giáo phái. Tất cả chúng đều bất tử và mạnh mẽ ngoài sức tưởng tượng."
+    new "Giáo phái này đã khiến The End đến đây. Nó được dẫn dắt bởi bảy Elders, hai Hiền Nhân và Aharon, người đứng đầu giáo phái. Tất cả chúng đều bất tử và mạnh mẽ ngoài sức tưởng tượng."
 
     # game/characters/player/ev_4.rpy:125
     old "The library is outside of Gods perception."
@@ -853,4 +853,4 @@ translate vietnamese strings:
 
     # game/characters/player/ev_4.rpy:195
     old "The mere mention of Throdog R'luhhor caused her to drown in terror and throw me out immediately."
-    new "The mere mention of Throdog R'luhhor caused her to drown in terror and throw me out immediately."
+    new "Việc chỉ nhắc đến Throdog R'luhhor đã khiến cô ấy chết chìm trong nỗi kinh hoàng và ném tôi ra ngoài ngay lập tức."

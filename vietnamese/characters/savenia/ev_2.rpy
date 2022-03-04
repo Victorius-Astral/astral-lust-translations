@@ -677,65 +677,64 @@ translate vietnamese savenia_2_0ed012b0:
 translate vietnamese savenia_2_1824a874:
 
     # me "And what if something attacks you?"
-    me "And what if something attacks you?"
+    me "Và nếu có thứ gì đó tấn công cậu thì sao?"
 
 # game/characters/savenia/ev_2.rpy:47
 translate vietnamese savenia_2_ae8bec24:
 
     # me "Yeah, Grace. It will hit hard, once you get to know her. Hungry?"
-    me "Yeah, Grace. It will hit hard, once you get to know her. Hungry?"
+    me "Ừ, Grace. Sẽ khá khó gần cho đến khi quen được em ấy. Đói bụng chưa?"
 
 # game/characters/savenia/ev_2.rpy:84
 translate vietnamese savenia_2_1c3a7dda:
 
     # savenia "So, this is Grace?"
-    savenia "So, this is Grace?"
+    savenia "Vậy, đây là Grace sao?"
 
 # game/characters/savenia/ev_2.rpy:132
 translate vietnamese savenia_2_db647eb8:
 
     # mina "We can't trust her. Who knows if her people are already on their way over here."
-    mina "We can't trust her. Who knows if her people are already on their way over here."
+    mina "Chúng ta không thể tin tưởng cô ta được, ai biết được liệu người của cô ta đã đến đây chưa nữa."
 
 # game/characters/savenia/ev_2.rpy:150
 translate vietnamese savenia_2_94a88543:
 
-    # alice "Yeah, she has got a lot of leather on her."
-    alice "Yeah, she has got a lot of leather on her."
+    # alice "Yeah, she has got  on her."
+    alice "Phải đấy, cô ấy có rất nhiều đồ da trên người."
 
 # game/characters/savenia/ev_2.rpy:162
 translate vietnamese savenia_2_9c97e59b:
 
     # mina "I know, Lex, but she's injured, throwing her out is the same as killing her. We wouldn't be better than bandits, if we did it."
-    mina "I know, Lex, but she's injured, throwing her out is the same as killing her. We wouldn't be better than bandits, if we did it."
+    mina "Em biết mà Lex. Nhưng cô ấy bị thương, ném cô ấy ra ngoài đồng nghĩa với giết cô ấy. Chúng ta sẽ không hơn gì bọn cướp nếu chúng ta làm điều đó."
 
 # game/characters/savenia/ev_2.rpy:179
 translate vietnamese savenia_2_fc2f4e95:
 
     # savenia "So, you didn't tell them about me before?"
-    savenia "So, you didn't tell them about me before?"
+    savenia "Vậy, cậu đã không nói với họ về việc của tớ á?"
 
 # game/characters/savenia/ev_2.rpy:181
 translate vietnamese savenia_2_d916da9d:
 
     # savenia "Like hell, they looked like they would want to tear both you and me to pieces."
-    savenia "Like hell, they looked like they would want to tear both you and me to pieces."
+    savenia "Họ trông như là muốn xé cả hai ra thành từng mảnh vậy."
 
 # game/characters/savenia/ev_2.rpy:190
 translate vietnamese savenia_2_27383a00:
 
     # savenia "[me]. Look, I'm grateful for you bringing me here and I won't make trouble for anyone. After I find my bike, I'll leave."
-    savenia "[me]. Look, I'm grateful for you bringing me here and I won't make trouble for anyone. After I find my bike, I'll leave."
+    savenia "[me]. Nghe này, tớ biết ơn vì cậu đã đưa tớ đến đây, tớ sẽ không gây rắc rối cho ai cả, sau khi tớ tìm thấy xe của mình, tớ sẽ rời đi."
 
 # game/characters/savenia/ev_2.rpy:193
 translate vietnamese savenia_2_592f976e:
 
     # savenia "Don't worry about me. I know what I'm doing."
-    savenia "Don't worry about me. I know what I'm doing."
+    savenia "Đừng lo, tớ biết mình đang làm gì mà."
 
 # game/characters/savenia/ev_2.rpy:194
 translate vietnamese savenia_2_453421b1:
 
     # me "I hope so. They'll accept you with time. Also, don't be mean to Grace. She won't be able to take it."
-    me "I hope so. They'll accept you with time. Also, don't be mean to Grace. She won't be able to take it."
-
+    me "Tớ cũng mong là vậy. Họ sẽ chấp nhận cậu thôi. Cũng đừng có ác ý với Grace, em ấy sẽ không thể chịu được đâu."

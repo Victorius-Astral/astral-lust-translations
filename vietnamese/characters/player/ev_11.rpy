@@ -196,7 +196,7 @@ translate vietnamese main_11_47df56bd:
 translate vietnamese main_11_b9086b55:
 
     # me "You just said the cosmos is going to end and you want me to not worry?!"
-    me "Bạn vừa nói vũ trụ sắp kết thúc và cô muốn tôi đừng lo lắng?!"
+    me "Cô vừa nói vũ trụ sắp kết thúc và cô muốn tôi đừng lo lắng?!"
 
 # game/characters/player/ev_11.rpy:69
 translate vietnamese main_11_22bb81d6:
@@ -443,16 +443,16 @@ translate vietnamese main_11_ab92d0c8:
 translate vietnamese main_11_968c1d3d:
 
     # me "You just said the cosmos is going to end and you want me not to worry?!"
-    me "You just said the cosmos is going to end and you want me not to worry?!"
+    me "Cô vừa nói vũ trụ sắp kết thúc và cô muốn tôi đừng lo lắng á?!"
 
 # game/characters/player/ev_11.rpy:120
 translate vietnamese main_11_fad6d3d3:
 
     # th "Now, I know what I need to do."
-    th "Now, I know what I need to do."
+    th "Bây giờ mình biết mình cần phải làm gì rồi."
 
 # game/characters/player/ev_11.rpy:121
 translate vietnamese main_11_8f38a483:
 
     # kiara "I can't help you now, I'm currently in an unstable state. If I try to help you now, I'll lose control on the spot."
-    kiara "I can't help you now, I'm currently in an unstable state. If I try to help you now, I'll lose control on the spot."
+    kiara "Tôi không thể giúp gì cho anh bây giờ, tôi hiện đang trong tình trạng không ổn định. Nếu tôi cố gắng giúp anh, tôi sẽ mất kiểm soát ngay lập tức."

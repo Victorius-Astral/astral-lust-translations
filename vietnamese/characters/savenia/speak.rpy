@@ -179,5 +179,4 @@ translate vietnamese strings:
 translate vietnamese speak_savenia_sex_menu_af5bf166:
 
     # savenia "And, for what reason would I do this?"
-    savenia "And, for what reason would I do this?"
-
+    savenia "Và, vì lý do gì mà tớ sẽ phải làm điều này?"

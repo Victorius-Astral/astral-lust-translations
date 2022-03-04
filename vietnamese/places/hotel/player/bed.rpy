@@ -110,7 +110,7 @@ translate vietnamese strings:
 
     # game/places/hotel/player/bed.rpy:5
     old "Commit Suicide {cor}[[Corruption / Madness]{/cor}"
-    new "Tự tử {cor}[[Xa đọa / Điên cuồng]{/cor}"
+    new "Tự tử {cor}[[sa đọa / Điên cuồng]{/cor}"
 
     # game/places/hotel/player/bed.rpy:41
     old "Health + 5, Sanity + 2%"
@@ -125,5 +125,4 @@ translate vietnamese strings:
 
     # game/places/hotel/player/bed.rpy:5
     old "Sleep with.. {#visible}"
-    new "Sleep with.. {#visible}"
-
+    new "Ngủ với.. {#visible}"

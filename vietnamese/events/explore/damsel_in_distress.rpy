@@ -10,7 +10,7 @@ translate vietnamese damsel_in_distress_ca775f6a:
 translate vietnamese damsel_in_distress_ae39f329:
 
     # "You hear shouts for help."
-    "Bạn nghe thấy những tiếng kêu cứu."
+    "cậu nghe thấy những tiếng kêu cứu."
 
 # game/events/explore/damsel_in_distress.rpy:61
 translate vietnamese damsel_in_distress_c52fcbf6:
@@ -40,7 +40,7 @@ translate vietnamese damsel_in_distress_milf_6ab7e8fe:
 translate vietnamese damsel_in_distress_milf_ded64f30:
 
     # me "That's alright. What are you doing here?"
-    me "Không sao đâu. Bạn đang làm gì ở đây vậy?"
+    me "Không sao đâu. cậu đang làm gì ở đây vậy?"
 
 # game/events/explore/damsel_in_distress.rpy:88
 translate vietnamese damsel_in_distress_milf_476aa5d1:
@@ -340,7 +340,7 @@ translate vietnamese damsel_in_distress_milf_640dffc0:
 translate vietnamese damsel_in_distress_short_fd628d05:
 
     # d_short "Oh, God. You're my savior."
-    d_short "Ôi Chúa ơi. Bạn là vị cứu tinh của tôi."
+    d_short "Ôi Chúa ơi. cậu là vị cứu tinh của tôi."
 
 # game/events/explore/damsel_in_distress.rpy:185
 translate vietnamese damsel_in_distress_short_ecd768ba:
@@ -352,13 +352,13 @@ translate vietnamese damsel_in_distress_short_ecd768ba:
 translate vietnamese damsel_in_distress_short_f43b0fc4:
 
     # d_short "May God bless you!"
-    d_short "Chúa phù hộ bạn!"
+    d_short "Chúa phù hộ cậu!"
 
 # game/events/explore/damsel_in_distress.rpy:187
 translate vietnamese damsel_in_distress_short_c4c07326:
 
     # me "You believe in God in this world?"
-    me "Bạn tin vào Chúa trên cái thế giới này?"
+    me "cậu tin vào Chúa trên cái thế giới này?"
 
 # game/events/explore/damsel_in_distress.rpy:188
 translate vietnamese damsel_in_distress_short_3b2f2b3c:
@@ -400,13 +400,13 @@ translate vietnamese damsel_in_distress_short_28d3bf81:
 translate vietnamese damsel_in_distress_short_f6fb6522:
 
     # me "So, have I made a mistake by saving you from God's plan?"
-    me "Vì vậy, tôi đã phạm sai lầm khi cứu bạn khỏi kế hoạch của Chúa?"
+    me "Vì vậy, tôi đã phạm sai lầm khi cứu cậu khỏi kế hoạch của Chúa?"
 
 # game/events/explore/damsel_in_distress.rpy:195
 translate vietnamese damsel_in_distress_short_ac949506:
 
     # d_short smile "It was His plan that you saved me. This is His reward for my faith."
-    d_short smile "Đó là kế hoạch của Ngài để bạn đã cứu tôi. Đây là phần thưởng của Ngài cho đức tin của tôi."
+    d_short smile "Đó là kế hoạch của Ngài để cậu đã cứu tôi. Đây là phần thưởng của Ngài cho đức tin của tôi."
 
 # game/events/explore/damsel_in_distress.rpy:196
 translate vietnamese damsel_in_distress_short_0d838ff0:
@@ -418,7 +418,7 @@ translate vietnamese damsel_in_distress_short_0d838ff0:
 translate vietnamese damsel_in_distress_short_23a52dd8:
 
     # d_short "You're were chosen by God to save me."
-    d_short "Bạn đã được Chúa chọn để cứu tôi."
+    d_short "cậu đã được Chúa chọn để cứu tôi."
 
 # game/events/explore/damsel_in_distress.rpy:198
 translate vietnamese damsel_in_distress_short_067b20e2:
@@ -430,13 +430,13 @@ translate vietnamese damsel_in_distress_short_067b20e2:
 translate vietnamese damsel_in_distress_short_88e87b04:
 
     # d_short calm "Of course it was your own free will. We all have our own free will."
-    d_short calm "Tất nhiên đó là ý chí tự do của riêng bạn. Tất cả chúng ta đều có ý chí tự do của riêng mình."
+    d_short calm "Tất nhiên đó là ý chí tự do của riêng cậu. Tất cả chúng ta đều có ý chí tự do của riêng mình."
 
 # game/events/explore/damsel_in_distress.rpy:200
 translate vietnamese damsel_in_distress_short_46810bb8:
 
     # me "So how did he send me to save you?"
-    me "Vậy, làm thế nào mà chúa đã gửi tôi đến để cứu bạn?"
+    me "Vậy, làm thế nào mà chúa đã gửi tôi đến để cứu cậu?"
 
 # game/events/explore/damsel_in_distress.rpy:201
 translate vietnamese damsel_in_distress_short_4adb2902:
@@ -460,7 +460,7 @@ translate vietnamese damsel_in_distress_short_8654297b:
 translate vietnamese damsel_in_distress_short_menu_6478869c:
 
     # d_short "What are you trying to do?!"
-    d_short "Bạn đang cố làm gì vậy?!"
+    d_short "cậu đang cố làm gì vậy?!"
 
 # game/events/explore/damsel_in_distress.rpy:212
 translate vietnamese damsel_in_distress_short_menu_70452a22:
@@ -490,7 +490,7 @@ translate vietnamese damsel_in_distress_short_menu_af6b2e0e:
 translate vietnamese damsel_in_distress_short_menu_46b766e1:
 
     # me "You'll meet your God soon."
-    me "Bạn sẽ sớm gặp Chúa của mình."
+    me "cậu sẽ sớm gặp Chúa của mình."
 
 # game/events/explore/damsel_in_distress.rpy:225
 translate vietnamese damsel_in_distress_short_menu_bfb00167:
@@ -526,13 +526,13 @@ translate vietnamese damsel_in_distress_short_menu_59e6c816:
 translate vietnamese damsel_in_distress_short_menu_fd1fbfce:
 
     # d_short smile "God will bless you. All kindness will be repaid by Him."
-    d_short smile "Chúa sẽ phù hộ bạn. Mọi lòng tốt sẽ được Ngài đền đáp."
+    d_short smile "Chúa sẽ phù hộ cậu. Mọi lòng tốt sẽ được Ngài đền đáp."
 
 # game/events/explore/damsel_in_distress.rpy:244
 translate vietnamese damsel_in_distress_short_menu_214cf864:
 
     # me "Didn't you mess up the doctrines with karma?"
-    me "Không phải bạn đã làm rối tung các đạo giáo về nghiệp chướng sao?"
+    me "Không phải cậu đã làm rối tung các đạo giáo về nghiệp chướng sao?"
 
 # game/events/explore/damsel_in_distress.rpy:245
 translate vietnamese damsel_in_distress_short_menu_efe0ad1f:
@@ -544,13 +544,13 @@ translate vietnamese damsel_in_distress_short_menu_efe0ad1f:
 translate vietnamese damsel_in_distress_short_menu_2211a5ca:
 
     # me "Anyway, I'm not God, loving unconditionally, and you received help. Now it's time to repay me."
-    me "Dù sao, tôi không phải là Chúa, yêu thương vô điều kiện, và bạn đã nhận được sự giúp đỡ. Bây giờ là lúc để trả ơn cho tôi rồi."
+    me "Dù sao, tôi không phải là Chúa, yêu thương vô điều kiện, và cậu đã nhận được sự giúp đỡ. Bây giờ là lúc để trả ơn cho tôi rồi."
 
 # game/events/explore/damsel_in_distress.rpy:247
 translate vietnamese damsel_in_distress_short_menu_ad5084d4:
 
     # d_short "I have nothing. Perhaps you have something for me?"
-    d_short "Tôi không có gì cả. Có lẽ bạn có một cái gì đó để cho tôi?"
+    d_short "Tôi không có gì cả. Có lẽ cậu có một cái gì đó để cho tôi?"
 
 # game/events/explore/damsel_in_distress.rpy:248
 translate vietnamese damsel_in_distress_short_menu_314086b3:
@@ -562,19 +562,19 @@ translate vietnamese damsel_in_distress_short_menu_314086b3:
 translate vietnamese damsel_in_distress_short_menu_570c1911:
 
     # d_short "You should help the poor."
-    d_short "Bạn nên giúp đỡ người nghèo."
+    d_short "cậu nên giúp đỡ người nghèo."
 
 # game/events/explore/damsel_in_distress.rpy:250
 translate vietnamese damsel_in_distress_short_menu_01eb2ebf:
 
     # me "Maybe you will blow me for saving your life?"
-    me "Có lẽ bạn sẽ thổi kèn tôi vì đã cứu mạng bạn?"
+    me "Có lẽ cậu sẽ thổi kèn tôi vì đã cứu mạng cậu?"
 
 # game/events/explore/damsel_in_distress.rpy:251
 translate vietnamese damsel_in_distress_short_menu_a5606348:
 
     # d_short angry "How could you?! I don't do things like that!"
-    d_short angry "Làm sao bạn có thể ?! Tôi không làm những thứ như vậy!"
+    d_short angry "Làm sao cậu có thể ?! Tôi không làm những thứ như vậy!"
 
 # game/events/explore/damsel_in_distress.rpy:252
 translate vietnamese damsel_in_distress_short_menu_b165f477:
@@ -592,7 +592,7 @@ translate vietnamese damsel_in_distress_short_menu_edbf1204:
 translate vietnamese damsel_in_distress_short_menu_1f7337a1:
 
     # d_short "What?! How could you say that?!"
-    d_short "Cái Gì?! Sao bạn có thể nói như vậy?!"
+    d_short "Cái Gì?! Sao cậu có thể nói như vậy?!"
 
 # game/events/explore/damsel_in_distress.rpy:260
 translate vietnamese damsel_in_distress_short_menu_2fec25ca:
@@ -604,13 +604,13 @@ translate vietnamese damsel_in_distress_short_menu_2fec25ca:
 translate vietnamese damsel_in_distress_bimbo_363a3e57:
 
     # d_bimbo "Thank you, thank you, thank you!"
-    d_bimbo "Cảm ơn bạn, cảm ơn bạn, cảm ơn bạn!"
+    d_bimbo "Cảm ơn anh, cảm ơn anh, cảm ơn anh!"
 
 # game/events/explore/damsel_in_distress.rpy:271
 translate vietnamese damsel_in_distress_bimbo_4a5837a0:
 
     # th "No problem?"
-    th "Không vấn đề gì?"
+    th "Không cần đâu."
 
 # game/events/explore/damsel_in_distress.rpy:272
 translate vietnamese damsel_in_distress_bimbo_8759870c:
@@ -621,8 +621,8 @@ translate vietnamese damsel_in_distress_bimbo_8759870c:
 # game/events/explore/damsel_in_distress.rpy:273
 translate vietnamese damsel_in_distress_bimbo_dcfbae7f:
 
-    # me "Flamingos are birds..."
-    me "Hồng hạc là loài chim..."
+    # me "Flamingos are birds.."
+    me "Hồng hạc là chim mà..."
 
 # game/events/explore/damsel_in_distress.rpy:274
 translate vietnamese damsel_in_distress_bimbo_3704b25c:
@@ -633,7 +633,7 @@ translate vietnamese damsel_in_distress_bimbo_3704b25c:
 # game/events/explore/damsel_in_distress.rpy:275
 translate vietnamese damsel_in_distress_bimbo_721ad3fb:
 
-    # th "I don't believe in prejudices, but this blonde is stupid..."
+    # th "I don't believe in prejudices, but this blonde is stupid.."
     th "Mình không tin vào định kiến, nhưng cô gái tóc vàng này thật ngốc..."
 
 # game/events/explore/damsel_in_distress.rpy:276
@@ -646,7 +646,7 @@ translate vietnamese damsel_in_distress_bimbo_3313a2c7:
 translate vietnamese damsel_in_distress_bimbo_a8f1df13:
 
     # d_bimbo smile "Of course, how can I do that?"
-    d_bimbo smile "Tất nhiên, làm thế nào em có thể làm điều đó?"
+    d_bimbo smile "Tất nhiên rồi, em có thể làm điều đó như thế nào?"
 
 # game/events/explore/damsel_in_distress.rpy:285
 translate vietnamese damsel_in_distress_bimbo_menu_e9a04366:
@@ -663,7 +663,7 @@ translate vietnamese damsel_in_distress_bimbo_menu_400d4803:
 # game/events/explore/damsel_in_distress.rpy:287
 translate vietnamese damsel_in_distress_bimbo_menu_29581ed5:
 
-    # d_bimbo "Nothing..."
+    # d_bimbo "Nothing.."
     d_bimbo "Không..."
 
 # game/events/explore/damsel_in_distress.rpy:288
@@ -699,7 +699,7 @@ translate vietnamese damsel_in_distress_bimbo_menu_3820771a:
 # game/events/explore/damsel_in_distress.rpy:300
 translate vietnamese damsel_in_distress_bimbo_menu_eb0ebf0a:
 
-    # th "No shit, Sherlock..."
+    # th "No shit, Sherlock.."
     th "Tất nhiên là lạnh rồi..."
 
 # game/events/explore/damsel_in_distress.rpy:301
@@ -723,7 +723,7 @@ translate vietnamese damsel_in_distress_bimbo_menu_aa5d876b:
 # game/events/explore/damsel_in_distress.rpy:304
 translate vietnamese damsel_in_distress_bimbo_menu_7d7a8996:
 
-    # me "Bye..."
+    # me "Bye.."
     me "Bye..."
 
 # game/events/explore/damsel_in_distress.rpy:310
@@ -742,7 +742,7 @@ translate vietnamese damsel_in_distress_bimbo_menu_5a6c8bc5:
 translate vietnamese damsel_in_distress_bimbo_menu_7f3c954c:
 
     # me "Gold? Thanks."
-    me "Vàng? Cảm ơn."
+    me "Vàng á? Cảm ơn."
 
 # game/events/explore/damsel_in_distress.rpy:321
 translate vietnamese damsel_in_distress_bimbo_menu_934b90ef:
@@ -802,13 +802,13 @@ translate vietnamese damsel_in_distress_bimbo_menu_28d3bf81:
 translate vietnamese damsel_in_distress_bimbo_menu_e74fa622:
 
     # d_bimbo "Thank you! My dad never teaches me anything."
-    d_bimbo "Cảm ơn! Bố tôi không bao giờ dạy em bất cứ điều gì."
+    d_bimbo "Cảm ơn! Bố em không bao giờ dạy em bất cứ điều gì."
 
 # game/events/explore/damsel_in_distress.rpy:342
 translate vietnamese damsel_in_distress_bimbo_menu_7b83aeee:
 
-    # me "Wait... What?"
-    me "Chờ đã ... Cái gì?"
+    # me "Wait.. What?"
+    me "Chờ đã... Cái gì?"
 
 # game/events/explore/damsel_in_distress.rpy:346
 translate vietnamese damsel_in_distress_bimbo_menu_f3e4b977:
@@ -819,20 +819,20 @@ translate vietnamese damsel_in_distress_bimbo_menu_f3e4b977:
 # game/events/explore/damsel_in_distress.rpy:347
 translate vietnamese damsel_in_distress_bimbo_menu_a32edf31:
 
-    # me "Dear God..."
+    # me "Dear God.."
     me "Lậy chúa..."
 
 # game/events/explore/damsel_in_distress.rpy:348
 translate vietnamese damsel_in_distress_bimbo_menu_999363c3:
 
     # th "She's amazing at this!"
-    th "Cô ấy thật tuyệt vời về khoản này!"
+    th "Em ấy giỏi khoản này đấy!"
 
 # game/events/explore/damsel_in_distress.rpy:349
 translate vietnamese damsel_in_distress_bimbo_menu_66c27276:
 
     # d_bimbo "*Slurp*"
-    d_bimbo "*xì xụp*"
+    d_bimbo "*Sụp*"
 
 # game/events/explore/damsel_in_distress.rpy:350
 translate vietnamese damsel_in_distress_bimbo_menu_012f5aee:
@@ -844,18 +844,18 @@ translate vietnamese damsel_in_distress_bimbo_menu_012f5aee:
 translate vietnamese damsel_in_distress_bimbo_menu_541f8b28:
 
     # d_bimbo "Yeshh~"
-    d_bimbo "Yeshh~"
+    d_bimbo "Vầngh~"
 
 # game/events/explore/damsel_in_distress.rpy:352
 translate vietnamese damsel_in_distress_bimbo_menu_eb4d1522:
 
     # me "Good girl, take it deeper."
-    me "Cô gái ngoan, hãy đưa nó sâu hơn đi."
+    me "Tốt lắm, hãy đưa nó sâu hơn đi."
 
 # game/events/explore/damsel_in_distress.rpy:356
 translate vietnamese damsel_in_distress_bimbo_menu_c419bf4e:
 
-    # me "Ahh..."
+    # me "Ahh.."
     me "Ahh..."
 
 # game/events/explore/damsel_in_distress.rpy:357
@@ -903,7 +903,7 @@ translate vietnamese damsel_in_distress_bimbo_menu_805cd8e6:
 # game/events/explore/damsel_in_distress.rpy:367
 translate vietnamese damsel_in_distress_bimbo_menu_53f580c6:
 
-    # me "Amazing..."
+    # me "Amazing.."
     me "Tuyệt vời..."
 
 # game/events/explore/damsel_in_distress.rpy:373
@@ -921,7 +921,7 @@ translate vietnamese damsel_in_distress_bimbo_menu_12a160ed:
 # game/events/explore/damsel_in_distress.rpy:378
 translate vietnamese damsel_in_distress_bimbo_menu_dd9636c7:
 
-    # me "Ahh..."
+    # me "Ahh.."
     me "Ahh..."
 
 # game/events/explore/damsel_in_distress.rpy:379
@@ -934,7 +934,7 @@ translate vietnamese damsel_in_distress_bimbo_menu_c14a306e:
 translate vietnamese damsel_in_distress_bimbo_menu_7ddbb2de:
 
     # me "Oh, that was a time well spent."
-    me "Ồhh, đó là khoảng thời gian tuyệt vời."
+    me "Ồhh, một khoảng thời gian tuyệt vời."
 
 # game/events/explore/damsel_in_distress.rpy:384
 translate vietnamese damsel_in_distress_bimbo_menu_2d73db4f:
@@ -946,13 +946,13 @@ translate vietnamese damsel_in_distress_bimbo_menu_2d73db4f:
 translate vietnamese damsel_in_distress_bimbo_menu_6697b6b1:
 
     # d_bimbo "I will go home, I don't want to be late."
-    d_bimbo "I will go home, I don't want to be late."
+    d_bimbo "Em sẽ về nhà đây, em không muốn về muộn đâu."
 
 # game/events/explore/damsel_in_distress.rpy:391
 translate vietnamese damsel_in_distress_bimbo_menu_4095caad:
 
     # me "See you."
-    me "See you."
+    me "Gặp lại sau."
 
 # game/events/explore/damsel_in_distress.rpy:392
 translate vietnamese damsel_in_distress_bimbo_menu_7836ac56:
@@ -976,7 +976,7 @@ translate vietnamese damsel_in_distress_bimbo_menu_fabc18d8:
 translate vietnamese damsel_in_distress_bimbo_menu_b39e2dbc:
 
     # d_bimbo "Hehe, do you like my tight pussy?"
-    d_bimbo "Hehe, anh có thích cái lồn chặt chẽ của em không?"
+    d_bimbo "Hehe, anh có thích cái lồn chặt của em không?"
 
 # game/events/explore/damsel_in_distress.rpy:403
 translate vietnamese damsel_in_distress_bimbo_menu_f68df7f3:
@@ -987,8 +987,8 @@ translate vietnamese damsel_in_distress_bimbo_menu_f68df7f3:
 # game/events/explore/damsel_in_distress.rpy:404
 translate vietnamese damsel_in_distress_bimbo_menu_1e033c52:
 
-    # d_bimbo "Your dick is so hard... so big..."
-    d_bimbo "Con cặc của anh cứng quá ... to quá..."
+    # d_bimbo "Your dick is so hard.. so big.."
+    d_bimbo "Con cặc của anh cứng quá... to quá..."
 
 # game/events/explore/damsel_in_distress.rpy:408
 translate vietnamese damsel_in_distress_bimbo_menu_c22a47ef:
@@ -1078,7 +1078,7 @@ translate vietnamese damsel_in_distress_bimbo_menu_45047748:
 translate vietnamese damsel_in_distress_bimbo_menu_e1d46606:
 
     # me "Do you?"
-    me "Em có?"
+    me "Em biêt sao?"
 
 # game/events/explore/damsel_in_distress.rpy:444
 translate vietnamese damsel_in_distress_bimbo_menu_39d56c1d:
@@ -1108,7 +1108,7 @@ translate vietnamese damsel_in_distress_bimbo_menu_0a8524da:
 translate vietnamese damsel_in_distress_bimbo_menu_a372b9f1:
 
     # d_bimbo "You're soooo big~"
-    d_bimbo "Anh thậtttt lớn~"
+    d_bimbo "Anh thậtttt to quá~"
 
 # game/events/explore/damsel_in_distress.rpy:452
 translate vietnamese damsel_in_distress_bimbo_menu_fb7ac3e6:
@@ -1167,7 +1167,7 @@ translate vietnamese damsel_in_distress_bimbo_menu_d6bec23a:
 # game/events/explore/damsel_in_distress.rpy:470
 translate vietnamese damsel_in_distress_bimbo_menu_7ccc07a5:
 
-    # me "Fuck..."
+    # me "Fuck.."
     me "Địt..."
 
 # game/events/explore/damsel_in_distress.rpy:471
@@ -1438,7 +1438,7 @@ translate vietnamese damsel_in_distress_soldier_fdab3521:
 translate vietnamese damsel_in_distress_soldier_60af0091:
 
     # me "You can say yes."
-    me "Bạn có thể nói có."
+    me "cậu có thể nói có."
 
 # game/events/explore/damsel_in_distress.rpy:576
 translate vietnamese damsel_in_distress_soldier_e4e2275d:
@@ -2002,13 +2002,13 @@ translate vietnamese damsel_in_distress_brunette_3ae30827:
 translate vietnamese damsel_in_distress_brunette_f19db4db:
 
     # d_brunette "So you are a scavenger or a scout?"
-    d_brunette "Vậy, bạn là một người nhặt đồ hay một người trinh sát?"
+    d_brunette "Vậy, cậu là một người nhặt đồ hay một người trinh sát?"
 
 # game/events/explore/damsel_in_distress.rpy:742
 translate vietnamese damsel_in_distress_brunette_1414b953:
 
     # me "I guess I could be called a scavenger."
-    me "Tôi đoán tôi có thể được gọi là một người nhặt đồ."
+    me "Tôi đoán tôi có thể được gọi là một người kiếm đồ."
 
 # game/events/explore/damsel_in_distress.rpy:743
 translate vietnamese damsel_in_distress_brunette_a770658a:
@@ -2286,7 +2286,7 @@ translate vietnamese strings:
 
     # game/events/explore/damsel_in_distress.rpy:205
     old "Tell her she owes you"
-    new "Nói với cô ấy rằng cô ấy nợ bạn"
+    new "Nói với cô ấy rằng cô ấy nợ cậu"
 
     # game/events/explore/damsel_in_distress.rpy:205
     old "Just leave"
@@ -2337,131 +2337,130 @@ translate vietnamese strings:
 translate vietnamese damsel_in_distress_26c3e88d:
 
     # th "She'll die for sure if I don't help her. Alas, if I help her I might die myself."
-    th "She'll die for sure if I don't help her. Alas, if I help her I might die myself."
+    th "Cô ấy chắc chắn sẽ chết nếu mình không giúp cô ấy. Mà nếu mình giúp cô ấy thì, mình có thể chết theo luôn."
 
 # game/events/explore/damsel_in_distress.rpy:97
 translate vietnamese damsel_in_distress_milf_3df18484:
 
     # d_milf smile "Then, I have nothing else to give you."
-    d_milf smile "Then, I have nothing else to give you."
+    d_milf smile "Vậy thì, chị không có gì khác để cho em rồi."
 
 # game/events/explore/damsel_in_distress.rpy:126
 translate vietnamese damsel_in_distress_milf_506e1ca8:
 
     # me "We can take it slow, if you want."
-    me "We can take it slow, if you want."
+    me "Chúng ta có thể làm chậm nếu chị muốn."
 
 # game/events/explore/damsel_in_distress.rpy:134
 translate vietnamese damsel_in_distress_milf_c4d77b3e:
 
     # d_milf "Haha, I don't remember the last time I had something in there."
-    d_milf "Haha, I don't remember the last time I had something in there."
+    d_milf "Haha, Chị còn không nhớ nổi lần cuối cùng mà có một cái gì đó ở trong đó."
 
 # game/events/explore/damsel_in_distress.rpy:196
 translate vietnamese damsel_in_distress_short_bc4c3ae3:
 
     # me "So, it's His goodwill, not mine?"
-    me "So, it's His goodwill, not mine?"
+    me "Vậy, đó là thiện chí của Ngài, không phải của tôi sao?"
 
 # game/events/explore/damsel_in_distress.rpy:197
 translate vietnamese damsel_in_distress_short_f1f40166:
 
     # d_short "You were chosen by God to save me."
-    d_short "You were chosen by God to save me."
+    d_short "Cậu đã được Chúa chọn để cứu tôi."
 
 # game/events/explore/damsel_in_distress.rpy:198
 translate vietnamese damsel_in_distress_short_670e18b4:
 
     # me "So, it wasn't my own free will?"
-    me "So, it wasn't my own free will?"
+    me "Vậy, đó không phải là ý định của riêng tôi sao?"
 
 # game/events/explore/damsel_in_distress.rpy:200
 translate vietnamese damsel_in_distress_short_7ea41bb5:
 
     # me "So, how did he send me to save you?"
-    me "So, how did he send me to save you?"
+    me "Vậy, chúa gửi tôi đến để cứu cậu kiểu gì?"
 
 # game/events/explore/damsel_in_distress.rpy:246
 translate vietnamese damsel_in_distress_short_menu_30fad685:
 
     # me "Anyway, I'm not God, loving unconditionally, and you received help. Now, it's time to repay me."
-    me "Anyway, I'm not God, loving unconditionally, and you received help. Now, it's time to repay me."
+    me "Dù sao, tôi không phải là Chúa, yêu thương vô điều kiện, và cậu đã nhận được sự giúp đỡ. Bây giờ là lúc để trả ơn cho tôi rồi đấy."
 
 # game/events/explore/damsel_in_distress.rpy:339
 translate vietnamese damsel_in_distress_bimbo_menu_1db1c4fe:
 
     # d_bimbo "Will you tell me, if I do this right?"
-    d_bimbo "Will you tell me, if I do this right?"
+    d_bimbo "Hãy nói cho em biết nếu em làm đúng?"
 
 # game/events/explore/damsel_in_distress.rpy:341
 translate vietnamese damsel_in_distress_bimbo_menu_650494c1:
 
     # d_bimbo "Thank you! My dad never taught me anything."
-    d_bimbo "Thank you! My dad never taught me anything."
+    d_bimbo "Cảm ơn! Bố em cahr bao giờ dạy em bất cứ điều gì cả."
 
 # game/events/explore/damsel_in_distress.rpy:445
 translate vietnamese damsel_in_distress_bimbo_menu_59f954e1:
 
     # me "Then, I won't beat around the bush. Take your panties off."
-    me "Then, I won't beat around the bush. Take your panties off."
+    me "Vậy thì anh khỏi phải lòng vòng nữa, cởi sịp ra."
 
 # game/events/explore/damsel_in_distress.rpy:538
 translate vietnamese damsel_in_distress_soldier_770b05f7:
 
     # d_soldier "Your primal instincts are so strong, you'll chose boobs instead of a gun?"
-    d_soldier "Your primal instincts are so strong, you'll chose boobs instead of a gun?"
+    d_soldier "Bản năng cơ bản của anh mạnh đến mức anh sẽ chọn ngực thay vì súng sao?"
 
 # game/events/explore/damsel_in_distress.rpy:550
 translate vietnamese damsel_in_distress_soldier_9c5f7c17:
 
     # me "You can say, I'm talented."
-    me "You can say, I'm talented."
+    me "Cô có thể nói là tôi rất tài năng."
 
 # game/events/explore/damsel_in_distress.rpy:595
 translate vietnamese damsel_in_distress_soldier_d8c7e6e3:
 
     # d_soldier "How are they? Soft, tender, hot, firm?"
-    d_soldier "How are they? Soft, tender, hot, firm?"
+    d_soldier "Chúng thế nào? Mềm, dịu dàng, nóng?"
 
 # game/events/explore/damsel_in_distress.rpy:642
 translate vietnamese damsel_in_distress_soldier_d7c98011:
 
     # me "Aye, better keep going before more things come."
-    me "Aye, better keep going before more things come."
+    me "Aye, tốt hơn là hãy đi trước khi nhiều thứ khác đến đây."
 
 # game/events/explore/damsel_in_distress.rpy:670
 translate vietnamese damsel_in_distress_brunette_3bba7a2b:
 
     # d_brunette "Yes, thank you very much, sir."
-    d_brunette "Yes, thank you very much, sir."
+    d_brunette "Vâng, cảm ơn ngài rất nhiều."
 
 # game/events/explore/damsel_in_distress.rpy:682
 translate vietnamese damsel_in_distress_brunette_0f5b5ad8:
 
     # th "Who knows what's in their heads... It might have really happened."
-    th "Who knows what's in their heads... It might have really happened."
+    th "Ai biết được những gì trong đầu của chúng... Cũng có thể là nó xảy ra thật đấy chứ."
 
 # game/events/explore/damsel_in_distress.rpy:693
 translate vietnamese damsel_in_distress_brunette_64fd89f4:
 
     # d_brunette "It doesn't matter. Dead, I would have no use for this bone."
-    d_brunette "It doesn't matter. Dead, I would have no use for this bone."
+    d_brunette "Nó không quan trọng đâu, em sẽ không có được lợi ích gì từ cái xương chết này."
 
 # game/events/explore/damsel_in_distress.rpy:729
 translate vietnamese damsel_in_distress_brunette_99ecd9ff:
 
     # me "So, you have a sister. What about your parents?"
-    me "So, you have a sister. What about your parents?"
+    me "Vậy là em có một người em gái hả. Còn bố mẹ em thì sao?"
 
 # game/events/explore/damsel_in_distress.rpy:741
 translate vietnamese damsel_in_distress_brunette_92cd901f:
 
     # d_brunette "So, you are a scavenger or a scout?"
-    d_brunette "So, you are a scavenger or a scout?"
+    d_brunette "Vậy, cậu là một người kiếm đồ hay một người trinh sát?"
 
 # game/events/explore/damsel_in_distress.rpy:742
 translate vietnamese damsel_in_distress_brunette_251da3a8:
 
     # me "I guess, I could be called a scavenger."
-    me "I guess, I could be called a scavenger."
-
+    me "Tôi đoán là mình được gọi là một người kiếm đồ."

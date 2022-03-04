@@ -206,7 +206,7 @@ translate vietnamese strings:
 
     # game/screens/settings/game.rpy:131
     old "Show tasks menu"
-    new "Hiển thị menu công việc"
+    new "Hiển thị menu tác vụ"
 
     # game/screens/settings/game.rpy:135
     old "Choice Menu Position"
@@ -221,5 +221,4 @@ translate vietnamese strings:
 
     # game/screens/settings/game.rpy:90
     old "Notifications Style"
-    new "Notifications Style"
-
+    new "Phong cách thông báo"

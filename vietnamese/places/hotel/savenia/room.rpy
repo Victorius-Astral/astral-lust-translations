@@ -10,4 +10,4 @@ translate vietnamese room_hotel_savenia_d86e264b:
 translate vietnamese room_hotel_savenia_69408d7b:
 
     # th "I should let her rest today."
-    th "Tôi nên để cô ấy nghỉ ngơi hôm nay."
+    th "Hôm nay mình nên để cô ấy nghỉ ngơi."

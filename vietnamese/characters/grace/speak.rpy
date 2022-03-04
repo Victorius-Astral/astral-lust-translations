@@ -838,7 +838,7 @@ translate vietnamese strings:
 
     # game/characters/grace/speak.rpy:16
     old "Do you want to play home again? {trust}(Trust+){/trust}{lust}(Lust+){/lust}"
-    new "Em có muốn chơi trò gia đình lần nữa không? {trust}(Tin tưởng+){/trust}{lust}(Ham muốn+){/lust}"
+    new "Em muốn chơi trò gia đình lần nữa không? {trust}(Tin tưởng+){/trust}{lust}(Ham muốn+){/lust}"
 
     # game/characters/grace/speak.rpy:16
     old "Do you need help with cleaning? {trust}(Trust+){/trust}"
@@ -874,7 +874,7 @@ translate vietnamese strings:
 
     # game/characters/grace/speak.rpy:107
     old "Cook a dinner (Duration: [graceTasks.cookDiner.duration]) {vit}(Health+){/vit}{trust}(Buff+){/trust} {#visible}"
-    new "Nấu bữa tối (thời gian: [graceTasks.cookDiner.duration]) {vit}(Máu+){/vit}{trust}(Buff+){/trust} {#visible}"
+    new "Nấu bữa tối (Thời gian: [graceTasks.cookDiner.duration]) {vit}(Máu+){/vit}{trust}(Buff+){/trust} {#visible}"
 
     # game/characters/grace/speak.rpy:168
     old "Standing"

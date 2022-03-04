@@ -4,7 +4,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Ordinary"
-    new "Tầm thường"
+    new "Bình thường"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Extraordinary"

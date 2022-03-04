@@ -590,9 +590,9 @@ translate vietnamese grace_nightmare_part3_d8769c30:
 
 # game/characters/grace/nightmare.rpy:248
 translate vietnamese grace_nightmare_part3_aa93b10c:
-
+    
     # me "Good girl."
-    me "Cô gái ngoan."
+    me "Cô bé ngoan."
 
 # game/characters/grace/nightmare.rpy:249
 translate vietnamese grace_nightmare_part3_baf8f4db:

@@ -52,7 +52,7 @@ translate vietnamese lust_SuccubusB_2ab7d0fa:
 translate vietnamese lust_SuccubusB_20f3c9a1:
 
     # succB "Yes~ My pussy is the best, so fuck it [succB_master]! Fuck it well!~"
-    succB "Vâng~ Âm hộ của em là tốt nhất, vì vậy hãy đụ nó đi [succA_master!~"
+    succB "Vâng~ Âm hộ của em là tốt nhất, vì vậy hãy địt nó đi [succA_master]!~"
 
 # game/characters/succubi/b/lust.rpy:31
 translate vietnamese lust_SuccubusB_15589265:

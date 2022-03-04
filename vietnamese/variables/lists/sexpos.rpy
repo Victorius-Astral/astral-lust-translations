@@ -164,7 +164,7 @@ translate vietnamese strings:
 
     # game/variables/lists/sexpos.rpy:3
     old "Masturbation - Dildo"
-    new "Thủ dâm - Dildo"
+    new "Thủ dâm - Dương vật giả"
 
     # game/variables/lists/sexpos.rpy:3
     old "Masturbation - Lying"
@@ -219,21 +219,20 @@ translate vietnamese strings:
 
     # game/variables/lists/sexpos.rpy:3
     old "Vaginal - Lifting"
-    new "Vaginal - Lifting"
+    new "Âm hộ - Thượng đế bế quan âm"
 
     # game/variables/lists/sexpos.rpy:3
     old "Anal - Lifting"
-    new "Anal - Lifting"
+    new "Hậu môn - Thượng đế bế quan âm"
 
     # game/variables/lists/sexpos.rpy:3
     old "Anal - Reverse Cowgirl"
-    new "Anal - Reverse Cowgirl"
+    new "Hậu môn - Reverse Cowgirl"
 
     # game/variables/lists/sexpos.rpy:3
     old "Group - Threesome - Two Males"
-    new "Group - Threesome - Two Males"
+    new "Threesome - Hai nam"
 
     # game/variables/lists/sexpos.rpy:3
     old "Group - Threesome - Two Females"
-    new "Group - Threesome - Two Females"
-
+    new "Threesome - Hai nữ"

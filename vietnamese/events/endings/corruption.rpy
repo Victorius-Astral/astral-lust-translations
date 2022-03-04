@@ -247,4 +247,4 @@ translate vietnamese strings:
 translate vietnamese end_corruption_838d8644:
 
     # "Before you, an endless black sea floats amidst the stars, yet this breathtaking sight doesn't impress you. You feel nothing."
-    "Before you, an endless black sea floats amidst the stars, yet this breathtaking sight doesn't impress you. You feel nothing."
+    "Trước mắt bạn là một vùng biển đen vô tận lơ lửng giữa những vì sao, nhưng cảnh tượng ngoạn mục này không khiến bạn ấn tượng. Bạn không cảm thấy gì hết."

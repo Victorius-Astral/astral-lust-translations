@@ -64,7 +64,7 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}12. If sanity reaches 0% or corruption 100% it's game over, be careful.{/color}"
-    new "{color=#45B6FE}12. Nếu sự tỉnh táo còn 0% hoặc sự xa đọa đạt 100% thì trò chơi kết thúc rồi, hãy cẩn thận.{/color}"
+    new "{color=#45B6FE}12. Nếu sự tỉnh táo còn 0% hoặc sự sa đọa đạt 100% thì trò chơi kết thúc rồi, hãy cẩn thận.{/color}"
 
     # game/variables/help.rpy:3
     old "13. You can find collectibles to unlock additional pictures on pc. Look for golden condoms and condom packs."
@@ -84,7 +84,7 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "\nTry clicking on various forge utilities, like anvil."
-    new "\nHãy thử nhấp vào các món đò khác trong lò rèn, như đe chẳng hạn."
+    new "\nHãy thử nhấp vào các món đồ khác trong lò rèn, như đe chẳng hạn."
 
     # game/variables/help.rpy:3
     old "You can get various materials from defeated monsters, you can also buy some stuff from traders."
@@ -164,11 +164,11 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "{gold}{big}You've unlocked Wanderers Hideout, place ruled by the Governor.{/big}{/gold}"
-    new "{gold}{big}Bạn đã mở khóa Wanderers Hideout, nơi được cai trị bởi Thống đốc.{/big}{/gold}"
+    new "{gold}{big}Bạn đã mở khóa Wanderers Hideout, nơi này được cai trị bởi Thống đốc.{/big}{/gold}"
 
     # game/variables/help.rpy:3
     old "It's a hub for wanderers, where they trade, get jobs, and live."
-    new "Đó là trung tâm của những người lang thang, nơi họ buôn bán, kiếm việc làm và sinh sống."
+    new "Đó là trung tâm của những người du hành, nơi họ buôn bán, kiếm việc làm và sinh sống."
 
     # game/variables/help.rpy:3
     old "You can stay at the motel, it also gives you access to various hotel utilities, like storage or crafting."
@@ -246,8 +246,8 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "Play with her, or wait for her lust to reach the critical point.. What will she do once her lust goes over the roof?"
-    new "Play with her, or wait for her lust to reach the critical point.. What will she do once her lust goes over the roof?"
+    new "Chơi với cô ấy, hoặc đợi cho sự ham muốn của cô ấy đạt đến cực điểm.. Cô ấy sẽ làm gì một khi dục vọng của cô ấy vượt quá cả mái nhà?"
 
     # game/variables/help.rpy:3
     old "Here you can.. store things! Surprising, I know."
-    new "Here you can.. store things! Surprising, I know."
+    new "Ở đây bạn có thể... lưu trữ mọi thứ! Thật ngạc nhiên, tôi biết."

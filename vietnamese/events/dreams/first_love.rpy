@@ -21,7 +21,7 @@ translate vietnamese d_First_Love_2_027bc502:
 # game/events/dreams/first_love.rpy:10
 translate vietnamese d_First_Love_2_40db55fd:
 
-    # th "I remember now, this was the last time I saw her. Charlotte, my first love..."
+    # th "I remember now, this was the last time I saw her. Charlotte, my first love.."
     th "Bây giờ mình nhớ rồi, đây là lần cuối cùng mình nhìn thấy cô ấy. Charlotte, mối tình đầu của mình..."
 
 # game/events/dreams/first_love.rpy:12
@@ -39,8 +39,8 @@ translate vietnamese d_First_Love_2_669cf7fc:
 # game/events/dreams/first_love.rpy:15
 translate vietnamese d_First_Love_2_1ea97e2b:
 
-    # charlotte "Yes... Are you sick?"
-    charlotte "Đúng vâyj ... Cậu bị ốm à??"
+    # charlotte "Yes.. Are you sick?"
+    charlotte "Đúng vậy... Cậu bị ốm à??"
 
 # game/events/dreams/first_love.rpy:16
 translate vietnamese d_First_Love_2_5a1ca627:
@@ -57,7 +57,7 @@ translate vietnamese d_First_Love_2_b1598f4c:
 # game/events/dreams/first_love.rpy:19
 translate vietnamese d_First_Love_2_5760c233:
 
-    # th "I know it's a lie Charlie..."
+    # th "I know it's a lie Charlie.."
     th "Tớ biết đó là một lời nói dối mà Charlie..."
 
 # game/events/dreams/first_love.rpy:23
@@ -129,7 +129,7 @@ translate vietnamese d_First_Love_2_2f3d23c6:
 # game/events/dreams/first_love.rpy:57
 translate vietnamese d_First_Love_2_a8019067:
 
-    # charlotte "Haa... Haa..."
+    # charlotte "Haa.. Haa.."
     charlotte "Haa... Haa..."
 
 # game/events/dreams/first_love.rpy:59

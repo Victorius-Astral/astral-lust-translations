@@ -188,7 +188,7 @@ translate vietnamese strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Test Notifications"
-    new "Test Notifications"
+    new "Kiểm tra thông báo"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "3F Corridor"

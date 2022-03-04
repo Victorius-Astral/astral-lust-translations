@@ -232,7 +232,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:1103
     old "Escape"
-    new "Escape"
+    new "Sủi"
 
     # game/screens.rpy:1104
     old "Accesses the game menu."

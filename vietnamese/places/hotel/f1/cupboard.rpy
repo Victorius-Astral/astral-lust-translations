@@ -45,5 +45,4 @@ translate vietnamese strings:
 
     # game/places/hotel/f1/cupboard.rpy:31
     old "Wallpaper 'Secret 1' unlocked!"
-    new "Wallpaper 'Secret 1' unlocked!"
-
+    new "Đã mở khóa hình nền 'Bí mật 1'!"

@@ -1012,7 +1012,7 @@ translate vietnamese rhainda_1_end_b7236d4d:
 translate vietnamese rhainda_1_end_f0173f6a:
 
     # me "Your society seems to be centered around the shrines. Does it make the priestess a mayor?"
-    me "Xã hội của em dường như tập trung xung quanh các đền thờ. Nó có làm cho nữ tu sĩ trở thành thị trưởng không?"
+    me "Xã hội của em dường như tập trung xung quanh các đền thờ. Nó có làm cho nữ tư tế trở thành thị trưởng không?"
 
 # game/characters/rhainda/ev_1.rpy:412
 translate vietnamese rhainda_1_end_bf868eb5:
@@ -1180,7 +1180,7 @@ translate vietnamese rhainda_1_end_9f7b3ea5:
 translate vietnamese rhainda_1_end_8d87eecd:
 
     # lil_fox "I think so. She's a priestess after all, her job is to provide a shelter to all of our kind."
-    lil_fox "Chắc là có đấy. Dù gì chị cũng là một nữ tu sĩ, công việc của chị là cung cấp một nơi trú ẩn cho tất cả đồng loại của bọn em."
+    lil_fox "Chắc là có đấy. Dù gì chị cũng là một nữ tư tế, công việc của chị là cung cấp một nơi trú ẩn cho tất cả đồng loại của bọn em."
 
 # game/characters/rhainda/ev_1.rpy:472
 translate vietnamese rhainda_1_end_cd9c33d9:

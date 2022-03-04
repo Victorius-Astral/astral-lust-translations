@@ -58,7 +58,7 @@ translate vietnamese exp_dragon_menu1_201a1cea:
 translate vietnamese exp_dragon_menu1_7f084409:
 
     # "{color=#32CD32}[[Agility check failed]{/color}"
-    "{color=#32CD32}[[Agility check failed]{/color}"
+    "{color=#32CD32}[[Độ nhanh nhẹn không đủ]{/color}"
 
 # game/events/explore/dragon.rpy:48
 translate vietnamese exp_dragon_menu1_34670094_1:
@@ -88,7 +88,7 @@ translate vietnamese exp_dragon_menu1_fc37d187:
 translate vietnamese exp_dragon_menu1_0be58ff0:
 
     # "The earth trembles as it lands."
-    "Trái đất rung chuyển khi nó tiếp đất."
+    "Mặt đất rung chuyển khi nó tiếp đất."
 
 # game/events/explore/dragon.rpy:66
 translate vietnamese exp_dragon_menu1_8ac0fff7:

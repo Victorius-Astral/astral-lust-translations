@@ -155,11 +155,10 @@ translate vietnamese savenia_6_90b1b863:
 translate vietnamese savenia_6_db7df5e7:
 
     # savenia "I won't forget, I owe you."
-    savenia "I won't forget, I owe you."
+    savenia "Tớ sẽ không quên rằng mình đang nợ cậu đâu."
 
 # game/characters/savenia/ev_6.rpy:66
 translate vietnamese savenia_6_611747ac:
 
     # "She doesn't say another word, and looks forwards as she starts up the engine."
-    "She doesn't say another word, and looks forwards as she starts up the engine."
-
+    "Cô ấy không nói thêm lời nào, và nhìn về phía trước trong khi khởi động động xe."

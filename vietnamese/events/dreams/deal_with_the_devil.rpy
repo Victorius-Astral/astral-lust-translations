@@ -168,11 +168,11 @@ translate vietnamese strings:
 
     # game/events/dreams/deal_with_the_devil.rpy:36
     old "Remove my corruption [[-50%% Sanity, -5%% Corruption]"
-    new "Xóa sự xa đọa của tôi [[-50 % Tỉnh táo, -5% xa đọa]"
+    new "Xóa sự sa đọa của tôi [[-50 % Tỉnh táo, -5% sa đọa]"
 
     # game/events/dreams/deal_with_the_devil.rpy:36
     old "Restore my clarity [[+100%% Sanity, +5%% Corruption]"
-    new "Khôi phục sự trong sáng của tôi [[+ 100 % Tỉnh táo, + 5 % xa đọa]"
+    new "Khôi phục sự trong sáng của tôi [[+ 100 % Tỉnh táo, + 5 % sa đọa]"
 
     # game/events/dreams/deal_with_the_devil.rpy:36
     old "I want to be a master of my own destiny {#visible}"
@@ -188,11 +188,11 @@ translate vietnamese strings:
 
     # game/events/dreams/deal_with_the_devil.rpy:74
     old "Sanity -50%\nCorruption -5%"
-    new "-50 % Tỉnh táo, -5% xa đọa"
+    new "-50 % Tỉnh táo, -5% sa đọa"
 
     # game/events/dreams/deal_with_the_devil.rpy:81
     old "Sanity +100%\nCorruption +5%"
-    new "+ 100 % Tỉnh táo, + 5 % xa đọa"
+    new "+ 100 % Tỉnh táo, + 5 % sa đọa"
 
     # game/events/dreams/deal_with_the_devil.rpy:95
     old "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [author_influence]/10]"
@@ -211,5 +211,4 @@ translate vietnamese strings:
 
     # game/events/dreams/deal_with_the_devil.rpy:95
     old "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
-    new "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
-
+    new "[[Sự tỉnh táo sẽ còn 1 %%, bạn sẽ mất tất cả các thẻ của mình. Ảnh hưởng của Eldritch sẽ yếu đi 4 điểm. Ảnh hưởng: [player.author_influence]/10]"

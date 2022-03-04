@@ -1288,7 +1288,7 @@ translate vietnamese girl_night_undress7_d5c2f9ac:
 translate vietnamese girl_night_undress7_c7a833db:
 
     # alice "It is what it is."
-    alice "Đoán cem."
+    alice "Đoán xem."
 
 # game/events/activities/pyjamas_party.rpy:470
 translate vietnamese girl_night_undress7_f976852e:

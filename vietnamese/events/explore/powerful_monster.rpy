@@ -196,13 +196,13 @@ translate vietnamese exp_powerful_monster_6ccf3a36:
 translate vietnamese exp_powerful_monster_08fdf84a:
 
     # th "I won't make it. Let's wait, maybe it'll lose interest."
-    th "Tôi sẽ không làm được. Hãy chờ đợi, có thể nó sẽ mất hứng thú."
+    th "Mình sẽ không làm được. Hãy chờ đợi, có thể nó sẽ mất hứng thú."
 
 # game/events/explore/powerful_monster.rpy:105
 translate vietnamese exp_powerful_monster_6ec35564:
 
     # me "How?!"
-    me "Thế dell nào?!"
+    me "Thế đéo nào?!"
 
 translate vietnamese strings:
 

@@ -286,7 +286,7 @@ translate vietnamese succA_succB_482a070f:
 translate vietnamese succA_succB_34ab5988:
 
     # succA "Now, I'm totally jealous..."
-    succA "Bây giờ, tôi thậ sự ghen rồi đấy..."
+    succA "Bây giờ, tôi thật sự ghen rồi đấy..."
 
 # game/characters/succubi/succA_succB.rpy:123
 translate vietnamese succA_succB_4b46e9e6:

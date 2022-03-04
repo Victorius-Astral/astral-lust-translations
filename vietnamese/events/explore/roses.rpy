@@ -9,7 +9,7 @@ translate vietnamese exp_roses_7bd2a0fa:
 # game/events/explore/roses.rpy:13
 translate vietnamese exp_roses_16ec8b2c:
 
-    # th "A monster..."
+    # th "A monster.."
     th "Lũ quái vật..."
 
 # game/events/explore/roses.rpy:14

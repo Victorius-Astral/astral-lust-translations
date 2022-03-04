@@ -81,7 +81,7 @@ translate vietnamese damsel_betrayal_1e185a8c:
 # game/events/explore/damsel_betrayal.rpy:57
 translate vietnamese damsel_betrayal_0bdc8e00:
 
-    # th "I somehow managed to get away... \n {agi}[[Agility check {trust}passed{/trust}]{/agi}"
+    # th "I somehow managed to get away.. \n {agi}[[Agility check {trust}passed{/trust}]{/agi}"
     th "Bằng cách nào đó mình đã xoay sở để thoát ra... \n {agi}[[Độ nhanh nhẹn {trust}Đạt yêu cầu{/trust}]{/agi}"
 
 # game/events/explore/damsel_betrayal.rpy:64
@@ -219,7 +219,7 @@ translate vietnamese damsel_betrayal_traitorcaught_c5732a58:
 # game/events/explore/damsel_betrayal.rpy:145
 translate vietnamese damsel_betrayal_traitorcaught_528c226b:
 
-    # flashy "No..."
+    # flashy "No.."
     flashy "Không..."
 
 # game/events/explore/damsel_betrayal.rpy:146
@@ -431,41 +431,40 @@ translate vietnamese strings:
 translate vietnamese damsel_betrayal_66565643:
 
     # bandit "What, new hideout?! When did anyone say we would move?"
-    bandit "What, new hideout?! When did anyone say we would move?"
+    bandit "Nơi ẩn náu mới nào?! Có thằng nào nói rằng chúng ta sẽ chuyển đi khi nào không?"
 
 # game/events/explore/damsel_betrayal.rpy:29
 translate vietnamese damsel_betrayal_60544acd:
 
     # th "It seems that their leader is angry and will take it out on one of his own."
-    th "It seems that their leader is angry and will take it out on one of his own."
+    th "Có vẻ như tên thủ lĩnh đang tức giận, và sẽ tự mình xử lý một thuộc hạ của hắn."
 
 # game/events/explore/damsel_betrayal.rpy:32
 translate vietnamese damsel_betrayal_7fb2eb1e:
 
     # th "But, I can't discard the possibility that she {i}is{/i} a back-stabber and stole their stuff."
-    th "But, I can't discard the possibility that she {i}is{/i} a back-stabber and stole their stuff."
+    th "Nhưng tôi không thể loại bỏ khả năng cô ta {i}là{/i} kẻ đâm sau lưng và lấy cắp đồ của họ."
 
 # game/events/explore/damsel_betrayal.rpy:80
 translate vietnamese damsel_betrayal_win_6fbd4293:
 
     # th "Now, she gets where I am going with this."
-    th "Now, she gets where I am going with this."
+    th "Bây giờ cô ấy hiểu mình đang muốn nói về cái gì rồi."
 
 # game/events/explore/damsel_betrayal.rpy:134
 translate vietnamese damsel_betrayal_traitorbetrayed_1f9c7d80:
 
     # th "What a nice day it was."
-    th "What a nice day it was."
+    th "Thật là một ngày đẹp trời."
 
 # game/events/explore/damsel_betrayal.rpy:146
 translate vietnamese damsel_betrayal_traitorcaught_ed40cd2b:
 
     # me "You know what will happen, if you keep playing around, right?"
-    me "You know what will happen, if you keep playing around, right?"
+    me "Cô biết điều gì sẽ xảy ra nếu cô tiếp tục chơi đùa xung quanh mà, phải không?"
 
 # game/events/explore/damsel_betrayal.rpy:150
 translate vietnamese damsel_betrayal_traitorcaught_fa5992ce:
 
     # flashy "Alright, alright! I got it. So, just tell me what you want."
-    flashy "Alright, alright! I got it. So, just tell me what you want."
-
+    flashy "Được rồi được rồi! Tôi hiểu rồi, hãy nói cho tôi biết anh muốn gì đi."

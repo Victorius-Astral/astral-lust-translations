@@ -976,7 +976,7 @@ translate vietnamese strings:
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
-    new "Powersave"
+    new "Tiết khiệm năng lượng"
 
     # renpy/common/00gltest.rpy:173
     old "Framerate"
@@ -984,7 +984,7 @@ translate vietnamese strings:
 
     # renpy/common/00gltest.rpy:177
     old "Screen"
-    new "Screen"
+    new "Màn hình"
 
     # renpy/common/00gltest.rpy:181
     old "60"

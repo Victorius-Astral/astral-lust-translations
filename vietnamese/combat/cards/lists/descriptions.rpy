@@ -24,7 +24,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Deal {damage_min}-{damage_max} damage equal to random {attribute_type} attribute multiplied by {times}."
-    new "Gây {damage_min}-{damage_max} gây thiệt hại tương đương với ngẫu nhiên {attribute_type} thuộc tính nhân với {times}."
+    new "Gây {damage_min}-{damage_max} thiệt hại tương đương với thuộc tính {attribute_type} ngẫu nhiên được nhân lên {times} lần."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Take {damage} damage."
@@ -32,7 +32,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Take {damage_min}-{damage_max} damage equal to random {attribute_type} attribute multiplied by {times}."
-    new "Nhận {damage_min}-{damage_max} gây thiệt hại tương đương với ngẫu nhiên  {attribute_type} thuộc tính nhân với {times}."
+    new "Nhận {damage_min}-{damage_max} thiệt hại tương đương với thuộc tính {attribute_type} ngẫu nhiên được nhân lên {times} lần."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Sacrifice {damage} health."
@@ -40,7 +40,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Sacrifice health equal to {percent}% of maximum health."
-    new "Hy sinh máu theo {percent}% của lượng máu tối đa."
+    new "Hy sinh {percent}% máu tối đa."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Heal {amount} points of health."
@@ -100,7 +100,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Gain {amount1} {{ef}}{buff1}{{/ef}}, {amount2} {{ef}}{buff2}{{/ef}}, {amount3} {{ef}}{buff3}{{/ef}}: your {attribute1}, {attribute2}, {attribute3}."
-    new "Nhận {amount1} {{ef}}{buff1}{{/ef}}, {amount2} {{ef}}{buff2}{{/ef}}, {amount3} {{ef}}{buff3}{{/ef}}: your {attribute1}, {attribute2}, {attribute3}."
+    new "Nhận {amount1} {{ef}}{buff1}{{/ef}}, {amount2} {{ef}}{buff2}{{/ef}}, {amount3} {{ef}}{buff3}{{/ef}}: {attribute1}, {attribute2}, {attribute3} của bạn."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Enemy gains {amount} {{ef}}{buff}{{/ef}}."
@@ -124,7 +124,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Inflict {amount} {{ef}}{buff}{{/ef}} upon yourself."
-    new "Gây {amount} {{ef}}{buff}{{/ef}} chính bản thân."
+    new "Gây {amount} {{ef}}{buff}{{/ef}} lên chính bản thân."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Inflict {amount_min}-{amount_max} {{ef}}{buff}{{/ef}}."
@@ -132,7 +132,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Inflict ({amount1}) {{ef}}{buff1}{{/ef}}, ({amount2}) {{ef}}{buff2}{{/ef}}, ({amount3}) {{ef}}{buff3}{{/ef}}: your {attribute1}, {attribute2}, {attribute3}."
-    new "Gây ({amount1}) {{ef}}{buff1}{{/ef}}, ({amount2}) {{ef}}{buff2}{{/ef}}, ({amount3}) {{ef}}{buff3}{{/ef}}: your {attribute1}, {attribute2}, {attribute3}."
+    new "Gây ({amount1}) {{ef}}{buff1}{{/ef}}, ({amount2}) {{ef}}{buff2}{{/ef}}, ({amount3}) {{ef}}{buff3}{{/ef}}: {attribute1}, {attribute2}, {attribute3} của bạn."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Inflict {{ef}}{buff}{{/ef}} equal to your {attribute_type1} attributes - {attribute_type2} attributes."
@@ -140,7 +140,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Remove everyone's {{ef}}{buff}{{/ef}}."
-    new "xóa của tất cả mọi người {{ef}}{buff}{{/ef}}."
+    new "xóa bỏ hiệu ứng {{ef}}{buff}{{/ef}} của tất cả mọi người."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Remove all {{ef}}{buff}{{/ef}} from yourself."
@@ -168,7 +168,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Gain {{ef}}{buff}{{/ef}} equal to {attribute} multiplied by {multiplier}."
-    new "Nhận {{ef}}{buff}{{/ef}} Bằng với {attribute} multiplied by {multiplier}."
+    new "Nhận {{ef}}{buff}{{/ef}} Bằng với {attribute} Nhân lên {multiplier} lần."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Inflict {amount1_min}-{amount1_max} {{ef}}{buff1}{{/ef}} & {amount2_min}-{amount2_max} {{ef}}{buff2}{{/ef}}."

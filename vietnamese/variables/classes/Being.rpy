@@ -4,5 +4,4 @@ translate vietnamese strings:
 
     # game/variables/classes/Being.rpy:1116
     old "Health +{} ({}/{})"
-    new "Health +{} ({}/{})"
-
+    new "Máu +{} ({}/{})"

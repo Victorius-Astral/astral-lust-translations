@@ -209,5 +209,4 @@ translate vietnamese strings:
 
     # game/functions/cheats.rpy:5
     old "Dragon Girl"
-    new "Dragon Girl"
-
+    new "Cô gái rồng"

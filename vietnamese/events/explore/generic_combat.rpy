@@ -4,7 +4,7 @@
 translate vietnamese exp_generic_combat_649360a6:
 
     # "You walk down the foggy road. During your journey, adversary crossed your path."
-    "Bạn bước xuống con đường đầy sương mù. Trong cuộc hành trình của mình, kẻ thù đã tìm đến với của bạn."
+    "Bạn bước xuống con đường đầy sương mù. Trong cuộc hành trình của mình, kẻ thù đã tìm đến của bạn."
 
 # game/events/explore/generic_combat.rpy:231
 translate vietnamese exp_generic_combat_f2e5fac1:
