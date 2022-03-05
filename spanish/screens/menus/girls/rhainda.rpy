@@ -21,3 +21,11 @@ translate spanish strings:
     # game/screens/menus/girls/rhainda.rpy:35
     old "• Rhainda x Little Fox\n  Content (Disabled)"
     new "• Rhainda x Little Fox\n  Contenido (Desactivado)"
+# TODO: Translation updated at 2022-03-05 18:26
+
+translate spanish strings:
+
+    # game/screens/menus/girls/rhainda.rpy:23
+    old "Real-Life Model: Rhainda {a=https://discord.gg/rvnBC39USx}(AL Discord){/a}"
+    new "Real-Life Model: Rhainda {a=https://discord.gg/rvnBC39USx}(AL Discord){/a}"
+

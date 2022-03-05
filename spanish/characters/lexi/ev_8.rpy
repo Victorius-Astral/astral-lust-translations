@@ -1164,3 +1164,11 @@ translate spanish lexi_8_533ea457:
     # me "What an honest apology.."
     me "What an honest apology.."
 
+# TODO: Translation updated at 2022-03-05 18:26
+
+translate spanish strings:
+
+    # game/characters/lexi/ev_8.rpy:310
+    old "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar"
+    new "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar"
+
