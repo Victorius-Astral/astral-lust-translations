@@ -200,6 +200,7 @@ translate spanish strings:
     # game/events/dreams/deal_with_the_devil.rpy:97
     old "I won't take your offer"
     new "No tomaré tu oferta"
+    
 # TODO: Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
@@ -227,20 +228,3 @@ translate spanish strings:
     # game/events/dreams/deal_with_the_devil.rpy:95
     old "[[Sanity will become 1%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
     new "[[Sanity will become 1%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
-
-# TODO: Translation updated at 2022-03-05 18:26
-
-translate spanish strings:
-
-    # game/events/dreams/deal_with_the_devil.rpy:34
-    old "Remove my corruption [[-50%% Sanity, -5%% Corruption]"
-    new "Remove my corruption [[-50%% Sanity, -5%% Corruption]"
-
-    # game/events/dreams/deal_with_the_devil.rpy:34
-    old "Restore my clarity [[+100%% Sanity, +5%% Corruption]"
-    new "Restore my clarity [[+100%% Sanity, +5%% Corruption]"
-
-    # game/events/dreams/deal_with_the_devil.rpy:93
-    old "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
-    new "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
-
