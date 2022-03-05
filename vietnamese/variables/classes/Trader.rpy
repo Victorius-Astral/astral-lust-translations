@@ -9,3 +9,11 @@ translate vietnamese strings:
     # game/variables/classes/Trader.rpy:417
     old "Player goods are worth too little"
     new "Hàng của bạn có giá trị quá thấp"
+# TODO: Translation updated at 2022-03-05 18:23
+
+translate vietnamese strings:
+
+    # game/variables/classes/Trader.rpy:11
+    old "Trader"
+    new "Trader"
+

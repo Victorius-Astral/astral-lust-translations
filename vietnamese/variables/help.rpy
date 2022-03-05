@@ -251,3 +251,11 @@ translate vietnamese strings:
     # game/variables/help.rpy:3
     old "Here you can.. store things! Surprising, I know."
     new "Ở đây bạn có thể... lưu trữ mọi thứ! Thật ngạc nhiên, tôi biết."
+# TODO: Translation updated at 2022-03-05 18:23
+
+translate vietnamese strings:
+
+    # game/variables/help.rpy:3
+    old "{color=#45B6FE}12. If sanity reaches 0% or corruption 100% it's game over. Be careful.{/color}"
+    new "{color=#45B6FE}12. If sanity reaches 0% or corruption 100% it's game over. Be careful.{/color}"
+

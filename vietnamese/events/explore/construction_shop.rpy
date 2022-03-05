@@ -684,3 +684,11 @@ translate vietnamese explore_construction_shop_win_dfa85d93:
     # me "Ahh... That was nice, time to go, though."
     me "Ahh... That was nice, time to go, though."
 
+# TODO: Translation updated at 2022-03-05 18:23
+
+translate vietnamese strings:
+
+    # game/events/explore/construction_shop.rpy:17
+    old "exp_scav_girl"
+    new "exp_scav_girl"
+

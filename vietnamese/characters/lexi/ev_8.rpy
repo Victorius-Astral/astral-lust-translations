@@ -1155,3 +1155,11 @@ translate vietnamese strings:
     # game/characters/lexi/ev_8.rpy:311
     old "Give up"
     new "Bỏ cuộc"
+# TODO: Translation updated at 2022-03-05 18:23
+
+translate vietnamese strings:
+
+    # game/characters/lexi/ev_8.rpy:310
+    old "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar"
+    new "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar"
+
