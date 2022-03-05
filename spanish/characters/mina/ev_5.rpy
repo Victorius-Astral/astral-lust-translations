@@ -10,7 +10,7 @@ translate spanish mina_5_6fa06998:
 translate spanish mina_5_3028b4ad:
 
     # "You hear someone calling to you, but you are too sleepy to open your eyes."
-    "Oyes que alguien te llama, pero tienes demasiado sueño para abrir los ojos."
+    "Sientes a alguien llamándote, pero tienes demasiado sueño para abrir los ojos."
 
 # game/characters/mina/ev_5.rpy:5
 translate spanish mina_5_23afe514:

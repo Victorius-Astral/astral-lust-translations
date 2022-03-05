@@ -21,11 +21,10 @@ translate spanish strings:
     # game/combat/decks/DecksMenu.rpy:93
     old "You need at least 11 cards in all decks to destroy a card!"
     new "¡Necesitas al menos 11 cartas en todos los mazos para destruir una carta!"
-# TODO: Translation updated at 2022-03-05 18:26
+# : Translation updated at 2022-03-05 18:26
 
 translate spanish strings:
 
     # game/combat/decks/DecksMenu.rpy:55
     old "Close"
-    new "Close"
-
+    new "Cerrar"

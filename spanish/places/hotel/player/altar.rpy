@@ -28,7 +28,7 @@ translate spanish room_player_altar_fac33955:
 translate spanish room_player_altar_02089ca2:
 
     # me "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar."
-    me "Buscadora de Sabiduría, Ojo de Secretos, Guardián del Conocimiento de Asthar."
+    me "Buscador de Sabiduría, Ojo de Secretos, Guardián del Conocimiento de Asthar."
 
 # game/places/hotel/player/altar.rpy:32
 translate spanish room_player_altar_365931bb:
@@ -137,7 +137,7 @@ translate spanish room_player_altar_kiara_fac33955:
 translate spanish room_player_altar_kiara_02089ca2:
 
     # me "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar."
-    me "Buscadora de Sabiduría, Ojo de Secretos, Guardián del Conocimiento de Asthar."
+    me "Buscador de Sabiduría, Ojo de Secretos, Guardián del Conocimiento de Asthar."
 
 # game/places/hotel/player/altar.rpy:62
 translate spanish room_player_altar_kiara_365931bb:

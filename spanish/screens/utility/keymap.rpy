@@ -56,11 +56,10 @@ translate spanish strings:
     # game/screens/utility/keymap.rpy:54
     old "Toggle task menu."
     new "Alternar menú de tareas."
-# TODO: Translation updated at 2022-03-05 18:26
+# : Translation updated at 2022-03-05 18:26
 
 translate spanish strings:
 
     # game/screens/utility/keymap.rpy:18
     old "Shows character & inventory menu."
-    new "Shows character & inventory menu."
-
+    new "Muestra menú de carácter & inventario."

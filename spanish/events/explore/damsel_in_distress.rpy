@@ -2140,25 +2140,25 @@ translate spanish damsel_in_distress_brunette_e205cf9b:
 translate spanish damsel_in_distress_brunette_8898b667:
 
     # me "Don't be down girl, it wasn't that bad, was it?"
-    me "Don't be down girl, it wasn't that bad, was it?"
+    me "No estés triste chica, no fue tan malo, ¿verdad?"
 
 # game/events/explore/damsel_in_distress.rpy:769
 translate spanish damsel_in_distress_brunette_2c8d24a5:
 
     # d_brunette "I'm just happy to be alive, sir."
-    d_brunette "I'm just happy to be alive, sir."
+    d_brunette "Sólo estoy feliz de estar viva, señor."
 
 # game/events/explore/damsel_in_distress.rpy:770
 translate spanish damsel_in_distress_brunette_eb94b5ac:
 
     # me "Yes, treasure your life. It's precious."
-    me "Yes, treasure your life. It's precious."
+    me "Sí, atesora tu vida. Es preciosa."
 
 # game/events/explore/damsel_in_distress.rpy:771
 translate spanish damsel_in_distress_brunette_5f91fe64:
 
     # d_brunette "Can I go now?"
-    d_brunette "Can I go now?"
+    d_brunette "¿Puedo irme ahora?"
 
 # game/events/explore/damsel_in_distress.rpy:772
 translate spanish damsel_in_distress_brunette_d01e1146:
@@ -2170,85 +2170,85 @@ translate spanish damsel_in_distress_brunette_d01e1146:
 translate spanish damsel_in_distress_brunette_57c6427a:
 
     # me "I must say, that girl was hot.. A pity she didn't want to do more."
-    me "I must say, that girl was hot.. A pity she didn't want to do more."
+    me "Debo decir que esa chica estaba buena... Lástima que no quisiera hacer más."
 
 # game/events/explore/damsel_in_distress.rpy:782
 translate spanish damsel_in_distress_brunette_6010fbd4:
 
     # d_brunette worried "Are you sure?"
-    d_brunette worried "Are you sure?"
+    d_brunette worried "¿Está seguro?"
 
 # game/events/explore/damsel_in_distress.rpy:783
 translate spanish damsel_in_distress_brunette_ecd768ba:
 
     # me "Yeah."
-    me "Yeah."
+    me "Sí."
 
 # game/events/explore/damsel_in_distress.rpy:784
 translate spanish damsel_in_distress_brunette_63fae76e:
 
     # d_brunette "But.. Why?"
-    d_brunette "But.. Why?"
+    d_brunette "Pero... ¿Por qué?"
 
 # game/events/explore/damsel_in_distress.rpy:785
 translate spanish damsel_in_distress_brunette_bdb93085:
 
     # me "I just feel like it."
-    me "I just feel like it."
+    me "Simplemente tengo ganas."
 
 # game/events/explore/damsel_in_distress.rpy:786
 translate spanish damsel_in_distress_brunette_8c24cb5a:
 
     # d_brunette smile "You're a good person sir."
-    d_brunette smile "You're a good person sir."
+    d_brunette smile "Es una buena persona, señor."
 
 # game/events/explore/damsel_in_distress.rpy:787
 translate spanish damsel_in_distress_brunette_c331c5f5:
 
     # me "I am not."
-    me "I am not."
+    me "No lo soy."
 
 # game/events/explore/damsel_in_distress.rpy:788
 translate spanish damsel_in_distress_brunette_e049a4a5:
 
     # d_brunette "Your actions say otherwise. Thank you. I owe you my life."
-    d_brunette "Your actions say otherwise. Thank you. I owe you my life."
+    d_brunette "Tus acciones dicen lo contrario. Gracias. Te debo mi vida."
 
 # game/events/explore/damsel_in_distress.rpy:789
 translate spanish damsel_in_distress_brunette_1fb83e91:
 
     # me "I did what was right."
-    me "I did what was right."
+    me "Hice lo correcto."
 
 # game/events/explore/damsel_in_distress.rpy:790
 translate spanish damsel_in_distress_brunette_17a41384:
 
     # d_brunette "There are not many selfless people these days. I wish you safe travels, sir."
-    d_brunette "There are not many selfless people these days. I wish you safe travels, sir."
+    d_brunette "No hay muchas personas desinteresadas en estos días. Le deseo un buen viaje, señor."
 
 # game/events/explore/damsel_in_distress.rpy:791
 translate spanish damsel_in_distress_brunette_05509e79:
 
     # me "You too, take care of yourself, girl."
-    me "You too, take care of yourself, girl."
+    me "Tú también, cuídate, chica."
 
 # game/events/explore/damsel_in_distress.rpy:792
 translate spanish damsel_in_distress_brunette_e41c0e88:
 
     # d_brunette "Thank you. Thank you very much."
-    d_brunette "Thank you. Thank you very much."
+    d_brunette "Gracias. Muchas gracias."
 
 # game/events/explore/damsel_in_distress.rpy:798
 translate spanish damsel_in_distress_brunette_b50bd46d:
 
     # me "Heh, to think I can be a good person sometimes.."
-    me "Heh, to think I can be a good person sometimes.."
+    me "Heh, pensar que puedo ser una buena persona a veces..."
 
 # game/events/explore/damsel_in_distress.rpy:799
 translate spanish damsel_in_distress_brunette_2ef611b0:
 
     # me "But I must say, feeling her gratitude, it was worth it."
-    me "But I must say, feeling her gratitude, it was worth it."
+    me "Pero debo decir que, sintiendo su gratitud, valió la pena."
 
 translate spanish strings:
 
@@ -2258,72 +2258,72 @@ translate spanish strings:
 
     # game/events/explore/damsel_in_distress.rpy:15
     old "Blonde"
-    new "Blonde"
+    new "Rubia"
 
     # game/events/explore/damsel_in_distress.rpy:16
     old "Brunette"
-    new "Brunette"
+    new "Morena"
 
     # game/events/explore/damsel_in_distress.rpy:17
     old "Deserter"
-    new "Deserter"
+    new "Desertora"
 
     # game/events/explore/damsel_in_distress.rpy:64
     old "Ignore her"
-    new "Ignore her"
+    new "Ignórala"
 
     # game/events/explore/damsel_in_distress.rpy:109
     old "Take off your pants"
-    new "Take off your pants"
+    new "Quítate los pantalones"
 
     # game/events/explore/damsel_in_distress.rpy:109
     old "Just be safe on your way home"
-    new "Just be safe on your way home"
+    new "Sólo mantente a salvo en tu camino a casa"
 
     # game/events/explore/damsel_in_distress.rpy:205
     old "Tell her she owes you"
-    new "Tell her she owes you"
+    new "Dile que te debe"
 
     # game/events/explore/damsel_in_distress.rpy:205
     old "Just leave"
-    new "Just leave"
+    new "Solo vete"
 
     # game/events/explore/damsel_in_distress.rpy:279
     old "Do you have any items?"
-    new "Do you have any items?"
+    new "¿Traes algo contigo?"
 
     # game/events/explore/damsel_in_distress.rpy:279
     old "Turn around and bend over"
-    new "Turn around and bend over"
+    new "Date la vuelta y agáchate"
 
     # game/events/explore/damsel_in_distress.rpy:279
     old "Just go home"
-    new "Just go home"
+    new "Solo vete a casa"
 
     # game/events/explore/damsel_in_distress.rpy:518
     old "Take the gun"
-    new "Take the gun"
+    new "Toma el arma"
 
     # game/events/explore/damsel_in_distress.rpy:518
     old "I would rather play with your tits"
-    new "I would rather play with your tits"
+    new "Preferiría jugar con tus tetas"
 
     # game/events/explore/damsel_in_distress.rpy:518
     old "Maybe use your tits to make me happy"
-    new "Maybe use your tits to make me happy"
+    new "Tal vez usa tus tetas para hacerme feliz"
 
     # game/events/explore/damsel_in_distress.rpy:518
     old "Keep it"
-    new "Keep it"
+    new "Quédatelo"
 
     # game/events/explore/damsel_in_distress.rpy:685
     old "Take the bone"
-    new "Take the bone"
+    new "Toma el hueso"
 
     # game/events/explore/damsel_in_distress.rpy:685
     old "Ask for a sexual favor"
-    new "Ask for a sexual favor"
+    new "Pide un favor sexual"
 
     # game/events/explore/damsel_in_distress.rpy:685
     old "Don't take anything"
-    new "Don't take anything"
+    new "No tomes nada"

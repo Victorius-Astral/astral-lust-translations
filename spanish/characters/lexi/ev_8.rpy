@@ -1138,37 +1138,36 @@ translate spanish strings:
 
     # game/characters/lexi/ev_8.rpy:106
     old "Yeah"
-    new "Yeah"
+    new "Sí"
 
     # game/characters/lexi/ev_8.rpy:311
     old "Seeker of Wisdom, Eye of Secrets, Keeper of Asthar"
-    new "Seeker of Wisdom, Eye of Secrets, Keeper of Asthar"
+    new "Buscador de Sabiduría, Ojo de Secretos, Guardián del Conocimiento de Asthar"
 
     # game/characters/lexi/ev_8.rpy:311
     old "Fight"
-    new "Fight"
+    new "Lucha"
 
     # game/characters/lexi/ev_8.rpy:311
     old "Beg"
-    new "Beg"
+    new "Ruega"
 
     # game/characters/lexi/ev_8.rpy:311
     old "Give up"
-    new "Give up"
+    new "Ríndete"
 
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/characters/lexi/ev_8.rpy:107
 translate spanish lexi_8_533ea457:
 
     # me "What an honest apology.."
-    me "What an honest apology.."
+    me "Que disculpa honesta..."
 
-# TODO: Translation updated at 2022-03-05 18:26
+# : Translation updated at 2022-03-05 18:26
 
 translate spanish strings:
 
     # game/characters/lexi/ev_8.rpy:310
     old "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar"
-    new "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar"
-
+    new "Buscador de Sabiduría, Ojo de Secretos, Guardián del Conocimiento de Asthar"

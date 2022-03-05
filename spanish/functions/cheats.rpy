@@ -213,15 +213,14 @@ translate spanish strings:
     # game/functions/cheats.rpy:5
     old "Dragon Girl"
     new "Chica Dragon"
-# TODO: Translation updated at 2022-03-05 18:26
+# : Translation updated at 2022-03-05 18:26
 
 translate spanish strings:
 
     # game/functions/cheats.rpy:61
     old "Insert code (available on {a=https://discord.gg/rvnBC39USx}Discord{/a} and {a=https://www.patreon.com/Victorius}Patreon{/a}):"
-    new "Insert code (available on {a=https://discord.gg/rvnBC39USx}Discord{/a} and {a=https://www.patreon.com/Victorius}Patreon{/a}):"
+    new "Insertar código (available on {a=https://discord.gg/rvnBC39USx}Discord{/a} y {a=https://www.patreon.com/Victorius}Patreon{/a}):"
 
     # game/functions/cheats.rpy:70
     old "Code correct!"
-    new "Code correct!"
-
+    new "¡Código correcto!"

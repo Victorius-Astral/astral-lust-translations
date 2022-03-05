@@ -196,7 +196,7 @@ translate spanish main_6_part3_8d3289c4:
 translate spanish main_6_part3_49af79e3:
 
     # kiara "My name is \"Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar\"."
-    kiara "Mi nombre es \"Buscadora de Sabiduría, Ojo de los Secretos, Guardián del Conocimiento de Asthar\"."
+    kiara "Mi nombre es \"Buscador de Sabiduría, Ojo de Secretos, Guardián del Conocimiento de Asthar\"."
 
 # game/characters/player/ev_6.rpy:76
 translate spanish main_6_part3_42622049:
@@ -334,7 +334,7 @@ translate spanish strings:
 
     # game/characters/player/ev_6.rpy:74
     old "Her honorary name is \"Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar\"."
-    new "Su nombre honorífico es \"Buscadora de Sabiduría, Ojo de los Secretos, Guardiana del Conocimiento de Asthar\"."
+    new "Su nombre honorífico es \"Buscador de Sabiduría, Ojo de Secretos, Guardián del Conocimiento de Asthar\"."
 
     # game/characters/player/ev_6.rpy:86
     old "The prayer is usually like this: Your devoted servant prays for your grace, Your devoted servant seeks your attention, Your devoted servant begs for your presence."
