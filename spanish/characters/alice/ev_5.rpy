@@ -28,7 +28,7 @@ translate spanish alice_5_1e7409fe:
 translate spanish alice_5_97e3a8ce:
 
     # "{color=#800080}[[Need 5% Corruption]{/color} Kill human enemies to increase corruption."
-    "{color=#800080}[[Necesita 5% Corrupción]{/color} Mata enemigos humanos para aumentar la corrupción."
+    "{color=#800080}[[Necesita 5\% Corrupción]{/color} Mata enemigos humanos para aumentar la corrupción."
 
 # game/characters/alice/ev_5.rpy:12
 translate spanish alice_5_cc3ee69f:
