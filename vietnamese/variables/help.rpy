@@ -257,5 +257,4 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}12. If sanity reaches 0% or corruption 100% it's game over. Be careful.{/color}"
-    new "{color=#45B6FE}12. If sanity reaches 0% or corruption 100% it's game over. Be careful.{/color}"
-
+    new "{color=#45B6FE}12. Nếu sự tỉnh táo còn đến 0% hoặc sa đọa chạm mức 100% thì trò chơi kết thúc. Hãy cẩn thận.{/color}"

@@ -58,5 +58,4 @@ translate vietnamese strings:
 
     # game/screens/utility/keymap.rpy:18
     old "Shows character & inventory menu."
-    new "Shows character & inventory menu."
-
+    new "Hiển thị menu nhân vật và kho đồ."

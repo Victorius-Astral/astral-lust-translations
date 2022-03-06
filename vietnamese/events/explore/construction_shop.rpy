@@ -657,7 +657,7 @@ translate vietnamese strings:
 
     # game/events/explore/construction_shop.rpy:278
     old "I raped someone. Can I live with it?"
-    new "I raped someone. Can I live with it?"
+    new "Mình đã hiếp dâm rồi. Mình có thể có thể sống với nó không?"
 # TODO: Translation updated at 2022-02-26 15:07
 
 # game/events/explore/construction_shop.rpy:268
@@ -670,7 +670,7 @@ translate vietnamese explore_construction_shop_win_124865fa:
 translate vietnamese explore_construction_shop_win_779945dd:
 
     # me "That was nice, now I better get going before something comes here."
-    me "That was nice, now I better get going before something comes here."
+    me "Phê thật đấy, mà mình nên đi trước khi có thứ gì đó đến đây."
 
 # game/events/explore/construction_shop.rpy:278
 translate vietnamese explore_construction_shop_win_3217e8b9:
@@ -682,4 +682,4 @@ translate vietnamese explore_construction_shop_win_3217e8b9:
 translate vietnamese explore_construction_shop_win_dfa85d93:
 
     # me "Ahh... That was nice, time to go, though."
-    me "Ahh... That was nice, time to go, though."
+    me "Ahh... tuyệt đấy, nhưng đến lúc phải đi rồi."

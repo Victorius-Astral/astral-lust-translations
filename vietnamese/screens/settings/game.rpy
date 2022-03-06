@@ -174,11 +174,11 @@ translate vietnamese strings:
 
     # game/screens/settings/game.rpy:43
     old "(Disables erotic content, safe for streaming.)\n\nErotic content will be skipped. To check full previous events, disable sfw, and use Replay Gallery app on player pc.\nSFW Mode can be safely turned on/off mid-game, but already playing event might not be affected till it's triggered again. Half allows not overly explicit nudity, for streaming on Twitch use full.\n\n(BETA - full functionality not guaranteed)"
-    new "(Disables erotic content, safe for streaming.)\n\nErotic content will be skipped. To check full previous events, disable sfw, and use Replay Gallery app on player pc.\nSFW Mode can be safely turned on/off mid-game, but already playing event might not be affected till it's triggered again. Half allows not overly explicit nudity, for streaming on Twitch use full.\n\n(BETA - full functionality not guaranteed)"
+    new "(Tắt nội dung khiêu dâm, an toàn để phát trên stream.)\n\nNội dung khiêu dâm sẽ bị bỏ qua. Để kiểm tra đầy đủ các sự kiện trước đó, hãy tắt sfw và sử dùng Menu phát lại trên máy tính của bạn.\nChế độ SFW có thể được bật/tắt một cách an toàn giữa game, nhưng sự kiện đã chơi có thể không bị ảnh hưởng cho đến khi nó được kích hoạt trở lại. Một nửa không cho phép ảnh khỏa thân quá rõ ràng, để phát trực tuyến trên Twitch, hãy sử dụng đầy đủ.\n\n(BETA - không đảm bảo đầy đủ chức năng)"
 
     # game/screens/settings/game.rpy:49
     old "(Disables random combat encounter.)"
-    new "(Disables random combat encounter.)"
+    new "(Tắt các cuộc chiến đấu ngẫu nhiên.)"
 
     # game/screens/settings/game.rpy:112
     old "Masks"
@@ -232,5 +232,4 @@ translate vietnamese strings:
 
     # game/screens/settings/game.rpy:95
     old "Change {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} font to {font=fonts/Brygada1918-Regular.ttf}Brigada 1918{/font} font. It can help on small screens if Fredericka becomes unreadable. Some languages force Brigada either way."
-    new "Change {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} font to {font=fonts/Brygada1918-Regular.ttf}Brigada 1918{/font} font. It can help on small screens if Fredericka becomes unreadable. Some languages force Brigada either way."
-
+    new "Đổi font {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} sang font {font=fonts/Brygada1918-Regular.ttf}Brigada 1918{/font}. Nó có thể hữu ích trên màn hình nhỏ nếu Fredericka không thể đọc được. Một số ngôn ngữ buộc Brigada theo cả hai cách."

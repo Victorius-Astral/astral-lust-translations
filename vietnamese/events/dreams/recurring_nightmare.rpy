@@ -112,7 +112,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_1877f646:
 translate vietnamese d_Recurring_Nightmare_1_part2_8c176096:
 
     # girl "Five months later, my would-be “date” was convicted of killing four women, all with my hair color and build."
-    girl "Năm tháng sau, người đáng lẽ ra đã hẹn hò của tôi bị kết tội giết bốn phụ nữ, tất cả đều có màu tóc và dáng người của tôi."
+    girl "Năm tháng sau, người đáng lẽ ra đã hẹn hò với tôi bị kết tội giết bốn phụ nữ, tất cả đều có màu tóc và dáng người của tôi."
 
 # game/events/dreams/recurring_nightmare.rpy:96
 translate vietnamese d_Recurring_Nightmare_1_part2_d10f4704:

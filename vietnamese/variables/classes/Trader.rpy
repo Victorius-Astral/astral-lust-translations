@@ -15,5 +15,4 @@ translate vietnamese strings:
 
     # game/variables/classes/Trader.rpy:11
     old "Trader"
-    new "Trader"
-
+    new "Người giao dịch"

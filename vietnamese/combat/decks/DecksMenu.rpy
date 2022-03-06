@@ -27,5 +27,4 @@ translate vietnamese strings:
 
     # game/combat/decks/DecksMenu.rpy:55
     old "Close"
-    new "Close"
-
+    new "Đóng"
