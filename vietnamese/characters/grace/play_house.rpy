@@ -693,7 +693,7 @@ translate vietnamese grace_play_house_question2_297517d7:
 # game/characters/grace/play_house.rpy:253
 translate vietnamese grace_play_house_question2_bf11ecad:
 
-    # grace "The first row takes whole 1cm of height. The remaining seven rows take around 14%% less. If I remember correctly it was around 0.866cm."
+    # grace "The first row takes whole 1cm of height. The remaining seven rows take around 14% less. If I remember correctly it was around 0.866cm."
     grace "Hàng đầu tiên có chiều cao toàn bộ là 1cm. Bảy hàng còn lại mất khoảng 14 \% ít hơn. Nếu con nhớ không nhầm thì nó là khoảng 0,866cm."
 
 # game/characters/grace/play_house.rpy:254
@@ -1436,8 +1436,8 @@ translate vietnamese grace_play_house_question2_85cd6061:
 # game/characters/grace/play_house.rpy:253
 translate vietnamese grace_play_house_question2_cf459f34:
 
-    # grace "The first row takes a whole 1cm of height. The remaining seven rows take around 14%% less. If I remember correctly, it was around 0.866cm."
-    grace "Hàng đầu tiên có chiều cao toàn bộ là 1 cm. Bảy hàng còn lại mất khoảng 14 %% ít hơn. Nếu con nhớ không nhầm thì nó vào khoảng 0,866cm."
+    # grace "The first row takes a whole 1cm of height. The remaining seven rows take around 14% less. If I remember correctly, it was around 0.866cm."
+    grace "Hàng đầu tiên có chiều cao toàn bộ là 1 cm. Bảy hàng còn lại mất khoảng 14 % ít hơn. Nếu con nhớ không nhầm thì nó vào khoảng 0,866cm."
 
 # game/characters/grace/play_house.rpy:255
 translate vietnamese grace_play_house_question2_e4078711:

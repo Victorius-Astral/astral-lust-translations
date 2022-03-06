@@ -10,7 +10,7 @@ translate spanish explore_car_a6cc1030:
 translate spanish explore_car_da783615:
 
     # "You quickly take a look to see if there is something useful in there."
-    "Rápidamente échas un vistazo para ver si hay algo útil."
+    "Rápidamente echas un vistazo para ver si hay algo útil."
 
 # game/events/explore/car.rpy:10
 translate spanish explore_car_c604448b:
@@ -34,4 +34,4 @@ translate spanish explore_car_200a6b08:
 translate spanish explore_car_4d993435:
 
     # "You quickly leave least something finds its way to you."
-    "Rápidamente te vas con tal que algo no encuentre su camino hacia tí."
+    "Rápidamente te vas con tal que algo no encuentre su camino hacia ti."

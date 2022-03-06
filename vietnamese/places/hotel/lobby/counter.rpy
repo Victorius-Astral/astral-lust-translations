@@ -303,8 +303,8 @@ translate vietnamese room_lobby_counter_3688fcdf_9:
 # game/places/hotel/lobby/counter.rpy:258
 translate vietnamese room_lobby_counter_fae2af3c:
 
-    # "Increase capacity to 350 items {small}(+100%% space per tier){/small}, can store 14 cards."
-    "Tăng dung lượng lên 350 vật phẩm {small}(+100%% diện tích mỗi tầng){/small}, có thể lưu trữ 14 thẻ."
+    # "Increase capacity to 350 items {small}(+100% space per tier){/small}, can store 14 cards."
+    "Tăng dung lượng lên 350 vật phẩm {small}(+100% diện tích mỗi tầng){/small}, có thể lưu trữ 14 thẻ."
 
 # game/places/hotel/lobby/counter.rpy:259
 translate vietnamese room_lobby_counter_f5802177:
@@ -333,8 +333,8 @@ translate vietnamese room_lobby_counter_3688fcdf_10:
 # game/places/hotel/lobby/counter.rpy:287
 translate vietnamese room_lobby_counter_2919f262:
 
-    # "Increase capacity to 600 units {small}(+100%% space per tier){/small}, can store 32 cards {small}(+100%% space per tier){/small}."
-    "Tăng lên 600 đơn vị {small}(+100%% diện tích mỗi cấp){/small}, có thể lưu trữ 32 thẻ {small}(+100 %% diện tích mỗi cấp){/small}."
+    # "Increase capacity to 600 units {small}(+100% space per tier){/small}, can store 32 cards {small}(+100% space per tier){/small}."
+    "Tăng lên 600 đơn vị {small}(+100% diện tích mỗi cấp){/small}, có thể lưu trữ 32 thẻ {small}(+100 % diện tích mỗi cấp){/small}."
 
 # game/places/hotel/lobby/counter.rpy:289
 translate vietnamese room_lobby_counter_d2f6ffb2:

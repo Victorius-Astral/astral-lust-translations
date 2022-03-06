@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/places/hotel/bath/room.rpy:8
 translate spanish room_hotel_bath_c3059296:

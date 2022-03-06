@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/places/library/books_r.rpy:6
 translate spanish room_library_books_r_da92f362:

@@ -597,8 +597,8 @@ translate polish room_lobby_counter_3688fcdf_9:
 # game/places/hotel/lobby/counter.rpy:258
 translate polish room_lobby_counter_fae2af3c:
 
-    # "Increase capacity to 350 items {small}(+100%% space per tier){/small}, can store 14 cards."
-    "Increase capacity to 350 items {small}(+100%% space per tier){/small}, can store 14 cards."
+    # "Increase capacity to 350 items {small}(+100% space per tier){/small}, can store 14 cards."
+    "Increase capacity to 350 items {small}(+100% space per tier){/small}, can store 14 cards."
 
 # game/places/hotel/lobby/counter.rpy:259
 translate polish room_lobby_counter_f5802177:
@@ -627,8 +627,8 @@ translate polish room_lobby_counter_3688fcdf_10:
 # game/places/hotel/lobby/counter.rpy:287
 translate polish room_lobby_counter_2919f262:
 
-    # "Increase capacity to 600 units {small}(+100%% space per tier){/small}, can store 32 cards {small}(+100%% space per tier){/small}."
-    "Increase capacity to 600 units {small}(+100%% space per tier){/small}, can store 32 cards {small}(+100%% space per tier){/small}."
+    # "Increase capacity to 600 units {small}(+100% space per tier){/small}, can store 32 cards {small}(+100% space per tier){/small}."
+    "Increase capacity to 600 units {small}(+100% space per tier){/small}, can store 32 cards {small}(+100% space per tier){/small}."
 
 # game/places/hotel/lobby/counter.rpy:289
 translate polish room_lobby_counter_d2f6ffb2:

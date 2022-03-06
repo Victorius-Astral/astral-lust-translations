@@ -82,7 +82,7 @@ translate spanish strings:
     old "Hundreds of years of holding back, and now she's hornier than ever."
     new "Cientos de años de contenerse, y ahora está más excitada que nunca."
 
-# TODO: Translation updated at 2022-02-16 09:41
+# : Translation updated at 2022-02-16 09:41
 
 translate spanish strings:
 

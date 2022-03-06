@@ -25,3 +25,19 @@ translate vietnamese strings:
     # game/combat/cards/Card.rpy:354
     old "Error playing card! \n Missing play() method."
     new "Error playing card! \n Missing play() method."
+# TODO: Translation updated at 2022-03-05 18:23
+
+translate vietnamese strings:
+
+    # game/combat/cards/Card.rpy:246
+    old " true"
+    new " true"
+
+    # game/combat/cards/Card.rpy:249
+    old " unblockable"
+    new " unblockable"
+
+    # game/combat/cards/Card.rpy:252
+    old " unavoidable"
+    new " unavoidable"
+

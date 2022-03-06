@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/places/hotel/lobby/bike.rpy:3
 translate spanish room_lobby_bike_5a41daaa:

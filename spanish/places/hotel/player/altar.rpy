@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/places/hotel/player/altar.rpy:12
 translate spanish room_player_altar_a864fc90:
@@ -28,7 +28,7 @@ translate spanish room_player_altar_fac33955:
 translate spanish room_player_altar_02089ca2:
 
     # me "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar."
-    me "Buscadora de Sabiduría, Ojo de Secretos, Guardián del Conocimiento de Asthar."
+    me "Buscador de Sabiduría, Ojo de Secretos, Guardián del Conocimiento de Asthar."
 
 # game/places/hotel/player/altar.rpy:32
 translate spanish room_player_altar_365931bb:
@@ -101,7 +101,7 @@ translate spanish strings:
     # game/places/hotel/player/altar.rpy:30
     old "Open the gates to your kingdom."
     new "Abre las puertas a tu reino."
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/places/hotel/player/altar.rpy:43
 translate spanish room_player_altar_kiara_da7c91f7:
@@ -137,7 +137,7 @@ translate spanish room_player_altar_kiara_fac33955:
 translate spanish room_player_altar_kiara_02089ca2:
 
     # me "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar."
-    me "Buscadora de Sabiduría, Ojo de Secretos, Guardián del Conocimiento de Asthar."
+    me "Buscador de Sabiduría, Ojo de Secretos, Guardián del Conocimiento de Asthar."
 
 # game/places/hotel/player/altar.rpy:62
 translate spanish room_player_altar_kiara_365931bb:

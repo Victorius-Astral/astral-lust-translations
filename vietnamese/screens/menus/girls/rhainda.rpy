@@ -22,3 +22,11 @@ translate vietnamese strings:
     old "• Rhainda x Little Fox\n  Content (Disabled)"
     new "• Rhainda x Little Fox\n  Content (Disabled)"
 
+# TODO: Translation updated at 2022-03-05 18:23
+
+translate vietnamese strings:
+
+    # game/screens/menus/girls/rhainda.rpy:23
+    old "Real-Life Model: Rhainda {a=https://discord.gg/rvnBC39USx}(AL Discord){/a}"
+    new "Real-Life Model: Rhainda {a=https://discord.gg/rvnBC39USx}(AL Discord){/a}"
+

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/places/wanderers/prostitutes/sukki.rpy:33
 translate spanish w_booth_sukki_76995093:
@@ -1281,11 +1281,10 @@ translate spanish strings:
     # game/places/wanderers/prostitutes/sukki.rpy:36
     old "Thighjob"
     new "Con sus muslos"
-# TODO: Translation updated at 2022-02-16 09:41
+# : Translation updated at 2022-02-16 09:41
 
 translate spanish strings:
 
     # game/places/wanderers/prostitutes/sukki.rpy:2
     old "daddy"
-    new "daddy"
-
+    new "papi"

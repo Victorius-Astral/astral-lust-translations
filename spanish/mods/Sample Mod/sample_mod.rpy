@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/mods/Sample Mod/sample_mod.rpy:15
 translate spanish d_Sample_Dream_0_8cdda6e0:
@@ -64,22 +64,22 @@ translate spanish strings:
     old "Stay put"
     new "Quédate quieto"
 
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 
     # game/mods/Sample Mod/sample_mod.rpy:19
     old "Sample Mod"
-    new "Sample Mod"
+    new "Mod de Muestra"
 
     # game/mods/Sample Mod/sample_mod.rpy:127
     old "Dream - Dancing Stickman"
-    new "Dream - Dancing Stickman"
+    new "Sueño - Stickman Baila"
 
     # game/mods/Sample Mod/sample_mod.rpy:128
     old "Enabled"
-    new "Enabled"
+    new "Activado"
 
     # game/mods/Sample Mod/sample_mod.rpy:129
     old "Disabled"
-    new "Disabled"
+    new "Dsactivado"

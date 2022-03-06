@@ -3,8 +3,8 @@
 # game/events/endings/control.rpy:4
 translate spanish end_control_2c1bbd49:
 
-    # "Your sanity has fallen to 0%% and you lost control."
-    "Tu cordura ha caído al 0%% y has perdido el control."
+    # "Your sanity has fallen to 0% and you lost control."
+    "Tu cordura ha caído al 0% y has perdido el control."
 
 # game/events/endings/control.rpy:5
 translate spanish end_control_7f37f1e5:

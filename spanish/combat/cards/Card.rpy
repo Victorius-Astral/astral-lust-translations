@@ -24,4 +24,19 @@ translate spanish strings:
 
     # game/combat/cards/Card.rpy:370
     old "Error playing card! \n Missing play() method."
-    new "¡Error jugando carta! \n Missing play() method."
+    new "¡Error jugando carta! \n Falta el método play()."
+# : Translation updated at 2022-03-05 18:26
+
+translate spanish strings:
+
+    # game/combat/cards/Card.rpy:246
+    old " true"
+    new " verdad"
+
+    # game/combat/cards/Card.rpy:249
+    old " unblockable"
+    new " desbloqueable"
+
+    # game/combat/cards/Card.rpy:252
+    old " unavoidable"
+    new " inevitable"

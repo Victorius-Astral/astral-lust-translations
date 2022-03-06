@@ -32,7 +32,7 @@ translate spanish strings:
 
     # game/screens/utility/what_new.rpy:194
     old "{b}Other Changes{/b}"
-    new "{b}Other Changes{/b}"
+    new "{b}Otros Cambios{/b}"
 
     # game/screens/utility/what_new.rpy:195
     old "Of the many changes, the most noticeable ones would be choice menus that are now on the right part of the screen (can be changed in settings), and task menu can now be disabled with 'T' key or in the settings. There was also a new arena added, and leech attacks have now new intent icon. This release fixes a lot of bugs, and hundreds of typos and grammar issues."

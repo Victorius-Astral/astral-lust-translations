@@ -683,4 +683,3 @@ translate vietnamese explore_construction_shop_win_dfa85d93:
 
     # me "Ahh... That was nice, time to go, though."
     me "Ahh... That was nice, time to go, though."
-

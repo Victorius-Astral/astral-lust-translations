@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/places/wanderers/player.rpy:41
 translate spanish room_wanderers_player_sleep_62d1a43b:

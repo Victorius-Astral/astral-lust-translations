@@ -4,27 +4,27 @@ translate spanish strings:
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Deal {damage} damage."
-    new "Lidia {damage} de daño."
+    new "Inflige {damage} de daño."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Deal {damage} damage x times."
-    new "Lidia {damage} de daño x veces."
+    new "Inflige {damage} de daño x veces."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Deal {damage} damage x+{times} times."
-    new "Lidia {damage} de daño x+{times} veces."
+    new "Inflige {damage} de daño x+{times} veces."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Deal {damage_min} to {damage_max} damage."
-    new "Lidia daño de {damage_min} a {damage_max}."
+    new "Inflige daño de {damage_min} a {damage_max}."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Deal {damage} damage to everyone."
-    new "Lidia {damage} de daño a todos."
+    new "Inflige {damage} de daño a todos."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Deal {damage_min}-{damage_max} damage equal to random {attribute_type} attribute multiplied by {times}."
-    new "Lidia {damage_min}-{damage_max} daño igual a {attribute_type} attribute multiplied by {times}."
+    new "Inflige {damage_min}-{damage_max} daño igual a {attribute_type} attribute multiplied by {times}."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Take {damage} damage."
@@ -60,11 +60,11 @@ translate spanish strings:
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Deal damage equal to your lost health."
-    new "Lidia daño igual a tu salud perdida."
+    new "Inflige daño igual a tu salud perdida."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Deal {damage} damage {times} times."
-    new "Lidia {damage} de daño {times} veces."
+    new "Inflige {damage} de daño {times} veces."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Sacrifice {damage} ally's health."
@@ -76,11 +76,11 @@ translate spanish strings:
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Deal {damage} damage to all enemies."
-    new "Lidia {damage} de daño a todos los enemigos."
+    new "Inflige {damage} de daño a todos los enemigos."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Deal {damage} damage and inflict {amount} {{ef}}{buff}{{/ef}} to all enemies."
-    new "Lidia {damage} de daño e inflinge {amount} {{ef}}{buff}{{/ef}} a todos los enemigos."
+    new "Inflige {damage} de daño e inflinge {amount} {{ef}}{buff}{{/ef}} a todos los enemigos."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Gain {amount} {{ef}}{buff}{{/ef}}."

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/places/hotel/f1/grace.rpy:11
 translate spanish room_f1_grace_1dbf3d6e:

@@ -454,7 +454,7 @@ translate spanish strings:
 
     # game/events/explore/damsel_pregnant.rpy:1
     old "Lady"
-    new "Lady"
+    new "Señorita"
 
     # game/events/explore/damsel_pregnant.rpy:58
     old "Take one down first [[{agi}Agility{/agi}/{str}Strength{/str}] {#visible}"

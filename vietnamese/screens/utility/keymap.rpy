@@ -52,3 +52,11 @@ translate vietnamese strings:
     # game/screens/utility/keymap.rpy:54
     old "Toggle task menu."
     new "Chuyển đổi menu tác vụ."
+# TODO: Translation updated at 2022-03-05 18:23
+
+translate vietnamese strings:
+
+    # game/screens/utility/keymap.rpy:18
+    old "Shows character & inventory menu."
+    new "Shows character & inventory menu."
+

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/places/hotel/player/grey_cupboard.rpy:14
 translate spanish room_player_grey_cupboard_menu1_8a19ad94:
