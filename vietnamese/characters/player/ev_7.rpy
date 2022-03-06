@@ -148,7 +148,7 @@ translate vietnamese main_7_1877f646:
 translate vietnamese main_7_8c176096:
 
     # girl "Five months later, my would-be “date” was convicted of killing four women, all with my hair color and build."
-    girl "Năm tháng sau, người đáng lẽ ra đã hẹn hò của tôi bị kết tội giết bốn phụ nữ, tất cả đều có màu tóc và dáng người của tôi."
+    girl "Năm tháng sau, người đáng lẽ ra đã hẹn hò với tôi bị kết tội giết bốn phụ nữ, tất cả đều có màu tóc và dáng người của tôi."
 
 # game/characters/player/ev_7.rpy:62
 translate vietnamese main_7_d10f4704:

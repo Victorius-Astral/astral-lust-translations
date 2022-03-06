@@ -1161,5 +1161,4 @@ translate vietnamese strings:
 
     # game/characters/lexi/ev_8.rpy:310
     old "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar"
-    new "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar"
-
+    new "Kẻ tìm kiếm tri thức, Con mắt của những bí mật, Asthar sử ký giả"

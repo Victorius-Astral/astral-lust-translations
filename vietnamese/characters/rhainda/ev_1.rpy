@@ -10,7 +10,7 @@ translate vietnamese rhainda_1_cc5c7691:
 translate vietnamese rhainda_1_dfeb01b1:
 
     # me "I won't be able to go through this rubble.."
-    me "Mình sẽ không thể đi qua đống này được rồi..."
+    me "Mình không thể đi qua đống này được rồi..."
 
 # game/characters/rhainda/ev_1.rpy:50
 translate vietnamese rhainda_1_3820771a:

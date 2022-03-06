@@ -22,7 +22,7 @@ translate vietnamese explore_cat_8aefbe37:
 translate vietnamese explore_cat_57e13545:
 
     # th "Seems like I won't be able to check upstairs."
-    th "Có vẻ như mình sẽ không thể kiểm tra tầng trên."
+    th "Có vẻ như mình không thể kiểm tra tầng trên được rồi."
 
 # game/events/explore/cat.rpy:22
 translate vietnamese explore_cat_menu_17023608:

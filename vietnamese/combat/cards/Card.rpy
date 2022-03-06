@@ -31,13 +31,12 @@ translate vietnamese strings:
 
     # game/combat/cards/Card.rpy:246
     old " true"
-    new " true"
+    new " Sát thương chuẩn"
 
     # game/combat/cards/Card.rpy:249
     old " unblockable"
-    new " unblockable"
+    new " không thể chặn đòn"
 
     # game/combat/cards/Card.rpy:252
     old " unavoidable"
-    new " unavoidable"
-
+    new " không thể né đòn"

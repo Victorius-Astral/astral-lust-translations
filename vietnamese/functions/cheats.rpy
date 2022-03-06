@@ -216,9 +216,8 @@ translate vietnamese strings:
 
     # game/functions/cheats.rpy:61
     old "Insert code (available on {a=https://discord.gg/rvnBC39USx}Discord{/a} and {a=https://www.patreon.com/Victorius}Patreon{/a}):"
-    new "Insert code (available on {a=https://discord.gg/rvnBC39USx}Discord{/a} and {a=https://www.patreon.com/Victorius}Patreon{/a}):"
+    new "Nhập code (có ở trên {a=https://discord.gg/rvnBC39USx}Discord{/a} và {a=https://www.patreon.com/Victorius}Patreon{/a}):"
 
     # game/functions/cheats.rpy:70
     old "Code correct!"
-    new "Code correct!"
-
+    new "Code chính xác!"

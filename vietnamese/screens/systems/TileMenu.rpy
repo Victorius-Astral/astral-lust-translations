@@ -31,5 +31,4 @@ translate vietnamese strings:
 
     # game/screens/systems/TileMenu.rpy:195
     old "*Click to create."
-    new "*Click to create."
-
+    new "*Bấm để tạo."

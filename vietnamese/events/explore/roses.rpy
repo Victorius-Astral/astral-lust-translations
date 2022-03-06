@@ -46,4 +46,4 @@ translate vietnamese exp_roses_win_f2b5c451:
 translate vietnamese exp_roses_win_d56f4646:
 
     # th "Alright, that should be all, time to go."
-    th "Được rồi, đó hẳn là là tất cả, tới lúc để đi rồi."
+    th "Được rồi, chắc chỉ có vậy thôi, tới lúc để đi rồi."
