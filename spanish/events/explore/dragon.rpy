@@ -10,7 +10,7 @@ translate spanish exp_dragon_2790a268:
 translate spanish exp_dragon_5fc377e2:
 
     # th "What the hell is this?"
-    th "¿Qué demonios es ésto?"
+    th "¿Qué demonios es esto?"
 
 # game/events/explore/dragon.rpy:18
 translate spanish exp_dragon_menu1_c2b0f572:

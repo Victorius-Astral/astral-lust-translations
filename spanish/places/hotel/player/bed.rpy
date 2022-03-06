@@ -22,7 +22,7 @@ translate spanish strings:
 
     # game/places/hotel/player/bed.rpy:4
     old "Rest"
-    new "Descansa"
+    new "{small}Descansa{/small}"
 
     # game/places/hotel/player/bed.rpy:4
     old "Sleep with.."
@@ -119,7 +119,7 @@ translate spanish strings:
 
     # game/places/hotel/player/bed.rpy:5
     old "Rest {#visible}"
-    new "{small}Descansa{/small} {#visible}"
+    new "Descansa {#visible}"
 
     # game/places/hotel/player/bed.rpy:5
     old "Sleep with.. {#visible}"

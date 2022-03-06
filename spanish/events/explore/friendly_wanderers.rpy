@@ -355,31 +355,31 @@ translate spanish strings:
 translate spanish exp_friendly_wanderers_7bd5c60a:
 
     # girl "Y-You're alive?"
-    girl "Y-You're alive?"
+    girl "¿E-Estás vivo?"
 
 # game/events/explore/friendly_wanderers.rpy:60
 translate spanish exp_friendly_wanderers_b32e5b81:
 
     # wanderer "What?"
-    wanderer "What?"
+    wanderer "¿Qué?"
 
 # game/events/explore/friendly_wanderers.rpy:61
 translate spanish exp_friendly_wanderers_239f2316:
 
     # girl "N-nothing... {small}I must be imagining things... Was it someone else...?{/small}"
-    girl "N-nothing... {small}I must be imagining things... Was it someone else...?{/small}"
+    girl "N-nada... {small}Debo estar imaginando cosas... ¿Fue alguien más...?{/small}"
 
 # game/events/explore/friendly_wanderers.rpy:62
 translate spanish exp_friendly_wanderers_b5f39981:
 
     # wanderer "We're in the middle of business. Focus."
-    wanderer "We're in the middle of business. Focus."
+    wanderer "Estamos en medio del negocio. Enfocar."
 
 # game/events/explore/friendly_wanderers.rpy:63
 translate spanish exp_friendly_wanderers_dfbca531:
 
     # th "It was me, but it's better if she doesn't know I can resurrect."
-    th "It was me, but it's better if she doesn't know I can resurrect."
+    th "Era yo, pero es mejor si ella no sabe que puedo resucitar."
 
 # TODO: Translation updated at 2022-01-29 20:12
 
@@ -387,9 +387,8 @@ translate spanish strings:
 
     # game/events/explore/friendly_wanderers.rpy:88
     old "The Wanderers"
-    new "The Wanderers"
+    new "Los Errantes"
 
     # game/events/explore/friendly_wanderers.rpy:88
     old "They consist of independent groups of people that help each other."
-    new "They consist of independent groups of people that help each other."
-
+    new "Consisten de grupos independientes de personas que se ayudan mutuamente."
