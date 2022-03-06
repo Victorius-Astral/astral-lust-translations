@@ -172,7 +172,7 @@ translate vietnamese mina_7_1_59dc5efd:
 translate vietnamese mina_7_1_be8f6764:
 
     # mina "Yeah, it seems you like desserts just like my [lex_min]."
-    mina "Có vẻ như anh thích món tráng miệng giống như [lex_min] em vậy."
+    mina "Có vẻ như anh thích món tráng miệng giống như chị em vậy."
 
 # game/characters/mina/ev_7.rpy:80
 translate vietnamese mina_7_1_f01a7068:

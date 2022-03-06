@@ -184,7 +184,7 @@ translate vietnamese speak_alice_menuev9_6ba1d500:
 translate vietnamese speak_alice_menuev9_40b2f332:
 
     # alice "Shut up. How can you be unmoved by this? It's so sad."
-    alice "Im đi. Làm thế nào anh không bị lay động bởi điều này chứ? Nó buồn quá."
+    alice "Im đi. Tại sao mà anh không bị lay động bởi điều này chứ? Nó cảm động thế cơ mà."
 
 # game/characters/alice/speak.rpy:118
 translate vietnamese speak_alice_menuev9_1ab180cd:
@@ -196,7 +196,7 @@ translate vietnamese speak_alice_menuev9_1ab180cd:
 translate vietnamese speak_alice_menuev9_c6f736dd:
 
     # alice "Can you not destroy the mood? It felt like before The End for a while."
-    alice "Anh có thể không phá hủy tâm trạng của em không?"
+    alice "Anh có thể đừng phá hủy tâm trạng của em được không?"
 
 # game/characters/alice/speak.rpy:121
 translate vietnamese speak_alice_menuev9_a8bfbc59:
@@ -622,7 +622,7 @@ translate vietnamese speak_alice_menu2_ec565397:
 translate vietnamese speak_alice_menu2_60af599e:
 
     # alice "Heh. Every.. single.. day.."
-    alice "Heh. Tất cả... mọi... ngày..."
+    alice "Heh. Tất... cả... mọi... ngày..."
 
 # game/characters/alice/speak.rpy:475
 translate vietnamese speak_alice_menu2_b1096efb:
@@ -694,7 +694,7 @@ translate vietnamese speak_alice_menu2_56c09f6e:
 translate vietnamese speak_alice_menu2_12038dc2:
 
     # me "Thank you, but no."
-    me "Cảm ơn anh, nhưng không."
+    me "Cảm ơn em, nhưng không cần đâu."
 
 # game/characters/alice/speak.rpy:499
 translate vietnamese speak_alice_menu2_a827a5cb:
@@ -712,7 +712,7 @@ translate vietnamese speak_alice_menu2_e4dc27b7:
 translate vietnamese speak_alice_menu2_b9266d70:
 
     # alice "Pussy."
-    alice "Đồ mặt lồn."
+    alice "Đồ đàn bà."
 
 # game/characters/alice/speak.rpy:504
 translate vietnamese speak_alice_menu2_3820771a_2:
@@ -748,7 +748,7 @@ translate vietnamese speak_alice_menu2_7fa423c8:
 translate vietnamese speak_alice_menu2_c9973e05:
 
     # alice "One, don't be curious. The child you hear crying is ten stories tall and will eat you in a second. People you want to talk with will take everything you have and eat your flesh if they're hungry. I think you understand the meaning."
-    alice "Thứ nhất, đừng tò mò. Đứa trẻ mà anh nghe thấy tiếng khóc thì cao bằng tòa nhà mười tầng và sẽ thịt anh trong một giây. Những người mà muốn nói chuyện sẽ lấy mọi thứ anh có và ăn thịt anh nếu họ đói."
+    alice "Thứ nhất, đừng tò mò. Đứa trẻ mà anh nghe thấy nó khóc thì cao bằng tòa nhà mười tầng và sẽ thịt anh trong một giây. Những người mà muốn nói chuyện sẽ lấy mọi thứ anh có và ăn thịt anh nếu họ đói."
 
 # game/characters/alice/speak.rpy:518
 translate vietnamese speak_alice_menu2_ecd768ba:
@@ -1458,7 +1458,7 @@ translate vietnamese strings:
 
     # game/characters/alice/speak.rpy:648
     old "Rest"
-    new "Nghỉ ngơi đi"
+    new "Nghỉ"
 # TODO: Translation updated at 2022-02-06 08:10
 
 # game/characters/alice/speak.rpy:124

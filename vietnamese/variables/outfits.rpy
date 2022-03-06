@@ -56,7 +56,7 @@ translate vietnamese strings:
 
     # game/variables/outfits.rpy:91
     old "It's [grace]'s job to clean the place, but [alice] is always happy to learn new stuff!"
-    new "Công việc của [Grace] là dọn dẹp nơi này, nhưng [alice] luôn vui vẻ khi học những thứ mới!"
+    new "Công việc của [grace] là dọn dẹp nơi này, nhưng [alice] luôn vui vẻ khi học những thứ mới!"
 
     # game/variables/outfits.rpy:91
     old "No one wants [lexi] to get corrupted, but I bet you would like to know how she would look with a few tentacles on her body."

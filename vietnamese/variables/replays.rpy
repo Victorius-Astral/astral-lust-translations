@@ -324,7 +324,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:168
     old "First Love"
-    new "Mối tình đầu"
+    new "Tình đầu"
 
     # game/variables/replays.rpy:168
     old "Millionaire"

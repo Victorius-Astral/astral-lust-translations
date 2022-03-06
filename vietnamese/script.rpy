@@ -16,7 +16,7 @@ translate vietnamese start_5b20539c:
 translate vietnamese start_a54687a3:
 
     # th "How long has it been already? Month? Two? I can't even remember."
-    th "Nó đã bắt đầu được bao lâu rồi? Một tháng? Hai tháng? Mình còn không nhớ nổi`."
+    th "Nó đã bắt đầu được bao lâu rồi? Một tháng? Hai tháng? Mình còn không nhớ nổi nữa."
 
 # game/script.rpy:44
 translate vietnamese start_7249c02b:
@@ -34,7 +34,7 @@ translate vietnamese start_c63451cd:
 translate vietnamese start_4302c4f4:
 
     # th "It's raining..."
-    th "Trời đang đổ mưa..."
+    th "Sắp mưa rồi..."
 
 # game/script.rpy:47
 translate vietnamese start_936dc2b1:
@@ -388,13 +388,13 @@ translate vietnamese prologue_dialog1_c_673befaa:
 translate vietnamese prologue_part2_becbfbd2:
 
     # u_lexi "The government has fallen. There is no army, no scientists and no help. The few that survived did their best to create communities where we have some semblance of normalcy. Thankfully the monsters don't have any interest in coming after us."
-    u_lexi "Chính phủ đã sụp đổ. Không có quân đội, không có nhà khoa học và không có sự giúp đỡ. Một số ít sống sót đã cố gắng hết sức để tạo ra các cộng đồng nơi chúng ta có một chút gọi là cảm giác bình thường. Rất may là lũ quái vật không có hứng thú đến chỗ chúng ta."
+    u_lexi "Chính phủ đã sụp đổ. Không có quân đội, không có nhà khoa học và không có sự giúp đỡ. Một số ít sống sót đã cố gắng hết sức để tạo ra các cộng đồng nơi chúng ta có một chút cảm giác bình thường. Rất may là lũ quái vật không có hứng thú đến chỗ ở của chúng ta."
 
 # game/script.rpy:217
 translate vietnamese prologue_part2_de505326:
 
     # me "Then is it safe now?"
-    me "Vậy bây giờ có an toàn không?"
+    me "Vậy bây giờ ta có an toàn không?"
 
 # game/script.rpy:218
 translate vietnamese prologue_part2_6061f05e:
@@ -454,19 +454,19 @@ translate vietnamese prologue_part2_1d4511ab:
 translate vietnamese prologue_part2_a81bd3c3:
 
     # u_lexi "Apart from me there is my [lex_min] Mina and two other girls Alice and Grace."
-    u_lexi "Ngoài tôi ra còn có [lex_min] của tôi Mina và hai cô gái khác Alice và Grace."
+    u_lexi "Ngoài tôi ra còn có em của tôi Mina và hai cô gái khác Alice và Grace."
 
 # game/script.rpy:238
 translate vietnamese prologue_part2_53fee24d:
 
     # u_lexi "You should introduce yourself to them when you have a chance. Come, I'll show you to your room."
-    u_lexi "Anh nên giới thiệu bản thân với họ khi có cơ hội đi. đến đây, tôi sẽ chỉ anh đến phòng của mình."
+    u_lexi "Anh nên giới thiệu bản thân với họ khi có cơ hội. đến đây đi, tôi sẽ chỉ anh đến phòng của mình."
 
 # game/script.rpy:243
 translate vietnamese prologue_part2_78178eed:
 
     # me "Thanks! Umm.. mind telling me your name?"
-    me "Cảm ơn! Umm... em có thể cho tớ biết tên không?"
+    me "Cảm ơn! Umm... em có thể cho anh biết tên không?"
 
 # game/script.rpy:248
 translate vietnamese prologue_part2_ff134ac7:
@@ -478,7 +478,7 @@ translate vietnamese prologue_part2_ff134ac7:
 translate vietnamese prologue_part2_e0f17b0b:
 
     # u_lexi "Right, I forgot.."
-    u_lexi "Phải rồi, tôi quên mất..."
+    u_lexi "Phải rồi, quên mất..."
 
 # game/script.rpy:253
 translate vietnamese prologue_part2_2213c31d:
@@ -490,7 +490,7 @@ translate vietnamese prologue_part2_2213c31d:
 translate vietnamese prologue_part2_e5beb552:
 
     # lexi "This is it, I hope it's to your liking."
-    lexi "Đây là phòng anh, tôi hy vọng nó với anh."
+    lexi "Đây là phòng anh, mong là anh thích nó."
 
 # game/script.rpy:259
 translate vietnamese prologue_part2_64b78b21:
@@ -502,7 +502,7 @@ translate vietnamese prologue_part2_64b78b21:
 translate vietnamese prologue_part2_2c29c69f:
 
     # lexi "If you have any questions don't be shy."
-    lexi "Nếu bạn có bất kỳ câu hỏi nào, đừng ngại mà hỏi."
+    lexi "Nếu có bất kỳ câu hỏi nào, đừng ngại mà hỏi nha."
 
 # game/script.rpy:268
 translate vietnamese first_room_player_ask_b5fc903a:
@@ -650,15 +650,15 @@ translate vietnamese strings:
 
     # game/script.rpy:142
     old "What do you mean there is no one around?"
-    new "Ý cậu là gì sao không có ai xung quanh?"
+    new "Ý em là gì? sao lại không có ai xung quanh?"
 
     # game/script.rpy:265
     old "How can I help?"
-    new "Tôi có thể giúp gì được?"
+    new "Anh có thể giúp gì được?"
 
     # game/script.rpy:265
     old "How do you get stuff?"
-    new "Làm thế nào để bạn lấy được đồ?"
+    new "Em lấy đồ như nào?"
 
     # game/script.rpy:265
     old "That's all"

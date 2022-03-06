@@ -10,7 +10,7 @@ translate vietnamese alice_whorse_25f6ef10:
 translate vietnamese alice_whorse_aff3fe1d:
 
     # me "How does it feel?"
-    me "Em cảm thấy như nào rồi?"
+    me "Em thấy như nào rồi?"
 
 # game/characters/alice/whorse.rpy:47
 translate vietnamese alice_whorse_88c4ed8d:

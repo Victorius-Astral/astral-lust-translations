@@ -10,7 +10,7 @@ translate vietnamese speak_mina_a7538388:
 translate vietnamese speak_mina_466cd2fa:
 
     # mina "Hey. My [lex_min] told me about you. Nice to meet you [me], I'm Mina."
-    mina "Xin chào. [Lex_min] của em đã nói với em về anh rồi. Rất vui được gặp anh, em là Mina."
+    mina "Xin chào. chị của em đã kể với em về anh rồi. Rất vui được gặp anh, em là Mina."
 
 # game/characters/mina/speak.rpy:15
 translate vietnamese speak_mina_2dc71146:
@@ -94,7 +94,7 @@ translate vietnamese speak_mina_menu1_3406ea71:
 translate vietnamese speak_mina_menu1_343b9f4a:
 
     # mina "Got it."
-    mina "Rõ rồi."
+    mina "Lấy được rồi."
 
 # game/characters/mina/speak.rpy:65
 translate vietnamese speak_mina_menu1_d5ee4fc2:
@@ -214,7 +214,7 @@ translate vietnamese speak_mina_menu2_1f877649:
 translate vietnamese speak_mina_menu2_d156e290:
 
     # mina "I don't have any fixed things to do. I basically do everything that isn't done by the other girls. For example, I check if we need anything and order it online after confirming if we have enough to trade."
-    mina "Anh không có bất kỳ việc cố định nào để làm. Về cơ bản thì em làm mọi thứ mà những cô gái khác chưa làm được. Ví dụ như: em kiểm tra xem chúng ta có cần gì không và đặt hàng trực tuyến sau khi xác nhận xem ta có đủ để giao dịch hay không."
+    mina "Em không có bất kỳ việc cố định nào để làm. Về cơ bản thì em làm mọi thứ mà những cô gái khác chưa làm được. Ví dụ như: em kiểm tra xem chúng ta có cần gì không và đặt hàng trực tuyến sau khi xác nhận xem ta có đủ để giao dịch hay không."
 
 # game/characters/mina/speak.rpy:136
 translate vietnamese speak_mina_menu2_d921cbfc:
@@ -232,7 +232,7 @@ translate vietnamese speak_mina_menu2_37de6480:
 translate vietnamese speak_mina_menu2_863905d4:
 
     # mina "Thanks!"
-    mina "Căm ơn!"
+    mina "Cảm ơn!"
 
 # game/characters/mina/speak.rpy:144
 translate vietnamese speak_mina_menu2_6bb32179:
@@ -256,7 +256,7 @@ translate vietnamese speak_mina_menu2_f4cb60de:
 translate vietnamese speak_mina_menu2_cffc2cde:
 
     # mina "I know!"
-    mina "Em biết!"
+    mina "Em biết rồi!"
 
 # game/characters/mina/speak.rpy:155
 translate vietnamese speak_mina_menu2_d470115b:
@@ -370,7 +370,7 @@ translate vietnamese speak_mina_menu2_3820771a:
 translate vietnamese speak_mina_menu2_76a0c580:
 
     # mina "I don't know how you are going to go after my [lex_min]."
-    mina "Em không biết tại sao anh lại theo đuổi [lex_min] của em nữa."
+    mina "Em không biết tại sao anh lại theo đuổi chị của em nữa."
 
 # game/characters/mina/speak.rpy:185
 translate vietnamese speak_mina_menu2_314086b3:

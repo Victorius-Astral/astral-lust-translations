@@ -100,7 +100,7 @@ translate vietnamese grace_3_1_3820771a:
 translate vietnamese grace_3_1_5c10abe0:
 
     # "You spend a while together looking at the street outside in silence. A few minutes later, [grace] abruptly breaks the silence."
-    "Hai bạn cùng nhau dành một khoảng thời gian để nhìn ra ngoài đường trong im lặng. Vài phút sau, [grace] đột ngột phá vỡ bầu không khí im lặng."
+    "Hai người cùng nhau dành một khoảng thời gian để nhìn ra ngoài đường trong im lặng. Vài phút sau, [grace] đột ngột phá vỡ bầu không khí im lặng."
 
 # game/characters/grace/ev_3.rpy:43
 translate vietnamese grace_3_1_7e9f1f37:
@@ -154,7 +154,7 @@ translate vietnamese grace_3_1_442f607d:
 translate vietnamese grace_3_1_f1d0f6c4:
 
     # "[grace] throws herself at you like a child with a new toy, full of innocence and expectation."
-    "[grace] ném mình vào bạn như một đứa trẻ với một món đồ chơi mới, đầy ngây thơ và mong đợi."
+    "[grace] lao vào bạn như một đứa trẻ với một món đồ chơi mới, đầy ngây thơ và mong đợi."
 
 # game/characters/grace/ev_3.rpy:59
 translate vietnamese grace_3_1_e17e84eb:
@@ -178,7 +178,7 @@ translate vietnamese grace_3_1_56c6a2af:
 translate vietnamese grace_3_1_b25b848b:
 
     # th "For now."
-    th "Cho đến giờ."
+    th "Bây giờ thôi."
 
 # game/characters/grace/ev_3.rpy:65
 translate vietnamese grace_3_1_1be3b7d3:
@@ -190,7 +190,7 @@ translate vietnamese strings:
 
     # game/characters/grace/ev_3.rpy:18
     old "Don't worry I'm sure you'll see her again soon"
-    new "Đừng lo anh chắc là em sẽ sớm gặp lại cô ấy"
+    new "Đừng lo em sẽ sớm gặp lại bà ấy mà"
 
     # game/characters/grace/ev_3.rpy:18
     old "You should forget about her"

@@ -460,7 +460,7 @@ translate vietnamese savenia_2_91190df3:
 translate vietnamese savenia_2_8b5af7b6:
 
     # lexi "I will never trust the likes of her. It could've been her people that tried to assault my [lex_min]!"
-    lexi "Em sẽ không bao giờ tin tưởng những người như cô ta. Đó có thể là người của cô ta đã từng gắng tấn công [lex_min] của em!"
+    lexi "Em sẽ không bao giờ tin tưởng những người như cô ta. Đó có thể là người của cô ta đã từng gắng tấn công chị của em!"
 
 # game/characters/savenia/ev_2.rpy:146
 translate vietnamese savenia_2_4e2a8876:

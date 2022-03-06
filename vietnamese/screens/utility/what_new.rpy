@@ -251,7 +251,7 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:208
     old "This new random interaction between [lexi] & [grace] will let you know girl a little more. There are five different conversations."
-    new "Tương tác ngẫu nhiên mới này giữa [lexi] và [Grace] sẽ cho bạn biết thêm một chút về các cô gái. Có năm cuộc trò chuyện khác nhau."
+    new "Tương tác ngẫu nhiên mới này giữa [lexi] và [grace] sẽ cho bạn biết thêm một chút về các cô gái. Có năm cuộc trò chuyện khác nhau."
 
     # game/screens/utility/what_new.rpy:211
     old "{b}Outfit Crafting Menu{/b}"

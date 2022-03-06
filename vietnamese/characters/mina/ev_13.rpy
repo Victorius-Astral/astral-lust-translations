@@ -154,7 +154,7 @@ translate vietnamese mina_13_3820771a:
 translate vietnamese mina_13_c4604010:
 
     # mina "So, of the three, one is my [lex_min], the other is a big child with no common sense."
-    mina "Vậy, trong ba người này, một người là [lex_min] của em, người kia là đứa trẻ to xác nhưng ngây thơ."
+    mina "Vậy, trong ba người này, một người là chị của em, người kia là đứa trẻ to xác nhưng ngây thơ."
 
 # game/characters/mina/ev_13.rpy:61
 translate vietnamese mina_13_52255db8:

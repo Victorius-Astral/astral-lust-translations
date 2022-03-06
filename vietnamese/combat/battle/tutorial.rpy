@@ -244,7 +244,7 @@ translate vietnamese strings:
 
     # game/combat/battle/tutorial.rpy:61
     old "Block"
-    new "Chặn"
+    new "Chặn đòn"
 
     # game/combat/battle/tutorial.rpy:61
     old "Great! This shield to the left of your health is a block. Each block can block one point of damage. With 5 block the bandit won't be able to harm you at all!"
@@ -396,4 +396,3 @@ translate vietnamese strings:
     # game/combat/battle/tutorial.rpy:79
     old "He's going to attack again.. I fear that he might target me, could you please help me defend? Click on me to select me."
     new "He's going to attack again.. I fear that he might target me, could you please help me defend? Click on me to select me."
-

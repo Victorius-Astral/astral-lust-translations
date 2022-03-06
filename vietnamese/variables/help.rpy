@@ -16,7 +16,7 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "{lust}Will she run? Will she cheat on you? I know, but you don't have this privilege. Do you have the balls to check?{/lust}"
-    new "{lust}Cô ấy sẽ chạy chứ? Cô ấy sẽ lừa dối bạn? Tôi biết, nhưng bạn không có đặc quyền này. Bạn có gan để kiểm tra không?{/lust}"
+    new "{lust}Cô ấy sẽ chạy chứ? Cô ấy sẽ lừa dối bạn? Tôi biết, nhưng bạn biết thế dell nào được. Bạn có gan để kiểm tra không?{/lust}"
 
     # game/variables/help.rpy:3
     old "1. You can view help by pressing 'Q'. As you play, you'll unlock new tutorials."
@@ -152,7 +152,7 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "She's not the one to talk, but she's down for some action."
-    new "Cô ấy không phải là người để nói chuyện, nhưng cô ấy là người cho một số hành động."
+    new "Cô ấy không phải là người để nói chuyện, nhưng cô ấy là người dành cho việc thực hiện cảnh hành động đấy."
 
     # game/variables/help.rpy:3
     old "She lives in the room next to yours, remember to visit her when you're around!"

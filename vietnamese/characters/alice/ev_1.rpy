@@ -322,7 +322,7 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_1.rpy:60
     old "Run!"
-    new "36 kế chuồn là thượng sach!"
+    new "36 kế chuồn là thượng sách!"
 
     # game/characters/alice/ev_1.rpy:60
     old "Wait"

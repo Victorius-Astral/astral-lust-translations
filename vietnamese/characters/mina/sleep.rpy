@@ -184,7 +184,7 @@ translate vietnamese sleep_mina_sleepover_2f3a6be4:
 translate vietnamese sleep_mina_sleepover_0cf88260:
 
     # "Very soon, you sleep entagled by the topless [lex_min]s."
-    "Rất nhanh sau đó, bạn ngủ một cách vướng víu bởi người [lex_min] không áo."
+    "Rất nhanh sau đó, bạn ngủ một cách vướng víu bởi người em gái không áo."
 
 # game/characters/mina/sleep.rpy:74
 translate vietnamese sleep_mina_sleepover_a438821f:
@@ -232,7 +232,7 @@ translate vietnamese sleep_mina_sleepover_c01792dd:
 translate vietnamese sleep_mina_sleepover_5c3b66d5:
 
     # mina "You're not being honest, [lex_min]."
-    mina "[lex_min] không thành thật chút nào hết."
+    mina "Chị không thành thật chút nào hết."
 
 # game/characters/mina/sleep.rpy:86
 translate vietnamese sleep_mina_sleepover_d7760fc7:
@@ -376,7 +376,7 @@ translate vietnamese sleep_mina_sleepover_6efabc3c_1:
 translate vietnamese sleep_mina_sleepover_7d8ad4a0_1:
 
     # mina "I love you too, [lex_min]."
-    mina "Em cũng yêu [lex_min] nữa."
+    mina "Em cũng yêu chị nữa."
 
 # game/characters/mina/sleep.rpy:127
 translate vietnamese sleep_mina_sleepover_502455c4_1:

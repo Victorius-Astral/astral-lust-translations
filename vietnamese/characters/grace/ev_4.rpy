@@ -178,13 +178,13 @@ translate vietnamese grace_4_1_61f9dc4a:
 translate vietnamese grace_4_1_1d0ab609:
 
     # me "He never came to see you?"
-    me "Ông ấy không bao giờ đến gặp em?"
+    me "Ông ấy không bao giờ đến gặp em sao?"
 
 # game/characters/grace/ev_4.rpy:82
 translate vietnamese grace_4_1_b42de8a6:
 
     # grace "Mm. Mom always said that he's a bastard and that he doesn't love me. That's why he never came to see me."
-    grace "Mm. Mẹ luôn nói rằng ông ấy là một tên khốn và rằng ông ấy không yêu em. Đó là lý do tại sao ông ấy không bao giờ đến gặp em."
+    grace "Ừm. Mẹ luôn nói rằng ông ấy là một tên khốn và rằng ông ấy không yêu em. Đó là lý do tại sao ông ấy không bao giờ đến gặp em."
 
 # game/characters/grace/ev_4.rpy:83
 translate vietnamese grace_4_1_f93c9dc7:
@@ -334,7 +334,7 @@ translate vietnamese strings:
 
     # game/characters/grace/ev_4.rpy:4
     old "{color=#800080}[[Corruption]{/color} Sneak behind her"
-    new "{color=#800080}[[Tha hóa]{/color} Lẻn đằng sau em ấy"
+    new "{color=#800080}[[Tha hóa]{/color} Lẻn ra sau em ấy"
 
     # game/characters/grace/ev_4.rpy:4
     old "Walk up to her"

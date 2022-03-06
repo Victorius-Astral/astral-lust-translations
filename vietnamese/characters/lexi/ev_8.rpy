@@ -466,7 +466,7 @@ translate vietnamese lexi_8_part2_8fa53cc6:
 translate vietnamese lexi_8_part2_c317addd:
 
     # me "Your [lex_min] wouldn't agree."
-    me "[Lex_min] sẽ không đồng ý đâu."
+    me "Chị em sẽ không đồng ý đâu."
 
 # game/characters/lexi/ev_8.rpy:178
 translate vietnamese lexi_8_part2_0144b5a5:
@@ -658,7 +658,7 @@ translate vietnamese lexi_8_part2_adcfab35:
 translate vietnamese lexi_8_part2_938abc6f:
 
     # me "Listen to your [lex_min], and don't look up."
-    me "Nghe chị [lex_min] của em và đừng nhìn lên."
+    me "Nghe chị chị của em và đừng nhìn lên."
 
 # game/characters/lexi/ev_8.rpy:247
 translate vietnamese lexi_8_part2_42a730fb:
@@ -850,7 +850,7 @@ translate vietnamese lexi_8_part2_0aae5047:
 translate vietnamese lexi_8_part2_7b7f35f3:
 
     # mina "I've had enough of this world! There is no point in living without you, [lex_min]."
-    mina "Em đã chịu hết nổi thế giới này rồi! Không có ích gì khi sống mà không có [lex_min] cả."
+    mina "Em đã chịu hết nổi thế giới này rồi! Không có ích gì khi sống mà không có chị."
 
 # game/characters/lexi/ev_8.rpy:299
 translate vietnamese lexi_8_part2_51d1d83e:

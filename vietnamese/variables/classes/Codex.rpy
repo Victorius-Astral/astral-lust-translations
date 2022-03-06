@@ -4,9 +4,8 @@ translate vietnamese strings:
 
     # game/variables/classes/Codex.rpy:20
     old "Entry updated - {}."
-    new "Entry updated - {}."
+    new "Cập nhật - {}."
 
     # game/variables/classes/Codex.rpy:31
     old "Entry added - {}."
-    new "Entry added - {}."
-
+    new "Đã thêm vào - {}."

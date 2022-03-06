@@ -76,7 +76,7 @@ translate vietnamese mina_4_20e34b66:
 translate vietnamese mina_4_6c29822d:
 
     # mina "You date my [lex_min] and Alice at the same time! Did you think about how they would feel when they find out?!"
-    mina "Anh hẹn hò với [lex_min] của em và Alice cùng một lúc! Anh có nghĩ về việc họ sẽ cảm thấy thế nào khi biết việc này không?!"
+    mina "Anh hẹn hò với chị của em và Alice cùng một lúc! Anh có nghĩ về việc họ sẽ cảm thấy thế nào khi biết việc này không?!"
 
 # game/characters/mina/ev_4.rpy:25
 translate vietnamese mina_4_f75b7746:
@@ -352,7 +352,7 @@ translate vietnamese mina_4_2_b0e450c6:
 translate vietnamese mina_4_2_033a1374:
 
     # mina "Deal, but if you were to hurt my [lex_min] then.."
-    mina "Thỏa thuận, nhưng nếu anh làm tổn thương [lex_min] của em thì..."
+    mina "Thỏa thuận, nhưng nếu anh làm tổn thương chị của em thì..."
 
 # game/characters/mina/ev_4.rpy:121
 translate vietnamese mina_4_2_5c171f48:

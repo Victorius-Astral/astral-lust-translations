@@ -406,7 +406,7 @@ translate vietnamese savenia_5_part2_e3bdf499:
 translate vietnamese savenia_5_part2_aa93b10c:
 
     # me "Good girl."
-    me "Cô gái ngoan."
+    me "Ngoan lắm."
 
 # game/characters/savenia/ev_5.rpy:193
 translate vietnamese savenia_5_part2_d86d3874:

@@ -286,7 +286,7 @@ translate vietnamese grace_2_1_1ad9c43d:
 translate vietnamese grace_2_1_e54cff66:
 
     # th "It seems that her mother is quite a weird one. Overprotective parents don't understand that they're harming their children instead of helping them."
-    th "Có vẻ như mẹ em ấy là một người khá kỳ quặc. Cha mẹ bao bọc quá mức không hiểu rằng họ đang làm hại con cái của họ thay vì giúp đỡ chúng."
+    th "Có vẻ như mẹ em ấy là một người khá kỳ quặc. Cha mẹ bao bọc quá mức mà không hiểu rằng họ đang làm hại con cái của họ thay vì giúp đỡ chúng."
 
 # game/characters/grace/ev_2.rpy:81
 translate vietnamese grace_2_1_ba656130:
@@ -310,7 +310,7 @@ translate vietnamese grace_2_1_57b92095:
 translate vietnamese grace_2_1_476760e2:
 
     # th "I lack words for her mother. I wonder what happened to her."
-    th "Mình cạn lời với mẹ em ấy rồi. Mình tự hỏi điều gì đã xảy ra với bà ta."
+    th "Mình cạn lời với mẹ em ấy rồi. Không biết điều gì đã xảy ra với bà ta."
 
 # game/characters/grace/ev_2.rpy:85
 translate vietnamese grace_2_1_4e451c5e:
@@ -334,7 +334,7 @@ translate vietnamese grace_2_1_83087c50:
 translate vietnamese grace_2_1_979a2de3:
 
     # grace "She told me that I was a big girl and big girls need to live on their own."
-    grace "Mẹ nói với tôi rằng tôi là một cô gái lớn và những cô gái lớn cần phải sống cho riêng mình."
+    grace "Mẹ nói với em rằng em là một cô gái lớn và những cô gái lớn cần phải sống cho riêng mình."
 
 # game/characters/grace/ev_2.rpy:91
 translate vietnamese grace_2_1_913c8f7c:

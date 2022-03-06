@@ -4,7 +4,7 @@
 translate vietnamese speak_grace_04cf02be:
 
     # grace "Hi."
-    grace "Hi."
+    grace "Chào anh."
 
 # game/characters/grace/speak.rpy:14
 translate vietnamese speak_grace_e579606d:
@@ -454,7 +454,7 @@ translate vietnamese speak_grace_question1_68f89794:
 translate vietnamese speak_grace_question1_ddeadc52:
 
     # me "So you are a maid?"
-    me "Vậy, em là một maid?"
+    me "Như kiểu maid hả?"
 
 # game/characters/grace/speak.rpy:329
 translate vietnamese speak_grace_question1_d91dc239:
@@ -496,7 +496,7 @@ translate vietnamese speak_grace_question1_5c984960:
 translate vietnamese speak_grace_question1_c0df14f5:
 
     # grace "She said I needed to first learn how to protect myself outside."
-    grace "Bà ấy nói trước tiên em cần học cách tự bảo vệ mình khi ở bên ngoài."
+    grace "Bà ấy nói trước tiên em cần học cách tự bảo vệ mình khi ở bên ngoài đã."
 
 # game/characters/grace/speak.rpy:340
 translate vietnamese speak_grace_question1_38294bd5:
@@ -520,7 +520,7 @@ translate vietnamese speak_grace_question1_8dde2a5c:
 translate vietnamese speak_grace_question1_24b10797:
 
     # me "Yeah, is there something wrong?"
-    me "Ừ, có điều gì đó không ổn sao?"
+    me "Ừ, có gì không ổn sao?"
 
 # game/characters/grace/speak.rpy:348
 translate vietnamese speak_grace_question1_56ba5b30:

@@ -70,7 +70,7 @@ translate vietnamese grace_cleaning_f1a_ffa0c70a:
 translate vietnamese grace_cleaning_f1a_0902dc09:
 
     # th "Must've been hard to peek when your older [lex_min] doesn't want to leave you alone."
-    th "Chắc hẳn rất khó để nhìn trộm khi người [lex_min] lớn tuổi của em nó không muốn để em nó một mình."
+    th "Chắc hẳn rất khó để nhìn trộm khi người lớn tuổi của em nó không muốn để em nó một mình."
 
 # game/characters/grace/cleaning.rpy:53
 translate vietnamese grace_cleaning_f1a_8d86dd70:
@@ -929,7 +929,7 @@ translate vietnamese grace_cleaning_f1a_5075838f:
 translate vietnamese grace_cleaning_f1a_381d854d:
 
     # th "Should have been hard to peek when your older [lex_min] doesn't want to leave you alone."
-    th "Có lẽ rất khó để nhìn trộm khi người [lex_min] lớn tuổi của em ấy không muốn để em ấy một mình."
+    th "Có lẽ rất khó để nhìn trộm khi người chị của em ấy không muốn để em ấy một mình."
 
 # game/characters/grace/cleaning.rpy:53
 translate vietnamese grace_cleaning_f1a_052de262:

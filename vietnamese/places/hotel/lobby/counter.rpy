@@ -364,7 +364,7 @@ translate vietnamese room_lobby_counter_3688fcdf_11:
 translate vietnamese room_lobby_counter_82a0b18b:
 
     # "Build a forge to upgrade rooms."
-    "Xây dựng lò rèn để nâng cấp phòng."
+    "Xây dựng Lò rèn để nâng cấp phòng."
 
 translate vietnamese strings:
 
@@ -386,7 +386,7 @@ translate vietnamese strings:
 
     # game/places/hotel/lobby/counter.rpy:7
     old "Forge (5 Wood, 5 Stone, 15 Metal, 5 Cloth)"
-    new "lò rèn (5 Gỗ, 5 Đá, 15 Kim loại, 5 Vải)"
+    new "Lò rèn (5 Gỗ, 5 Đá, 15 Kim loại, 5 Vải)"
 
     # game/places/hotel/lobby/counter.rpy:7
     old "Dungeon (7 Wood, 30 Stone, 10 Metal, 12 Cloth)"

@@ -8,7 +8,7 @@ translate vietnamese strings:
 
     # game/screens/menu/inventory.rpy:131
     old "Health:\nSanity:\nCorruption:"
-    new "Máu:\nTinhr táo:\nSa đọa:"
+    new "Máu:\nTỉnh táo:\nSa đọa:"
 
     # game/screens/menu/inventory.rpy:132
     old "[player.hp]/[player.hp_max]\n[player.sanity]%\n[player.corruption]%"

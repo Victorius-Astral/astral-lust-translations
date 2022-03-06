@@ -16,13 +16,13 @@ translate vietnamese d_Recurring_Nightmare_1_part2_fde24efd:
 translate vietnamese d_Recurring_Nightmare_1_part2_fb5f18ff:
 
     # girl "It was a ringtone I hadn’t heard before, one I was pretty sure hadn’t come with the phone."
-    girl "Đó là một bản nhạc chuông mà tôi chưa từng nghe trước đây, một bản nhạc mà tôi khá chắc chắn đã không đi kèm với điện thoại."
+    girl "Đó là một bản nhạc chuông mà tôi chưa từng nghe trước đây, một bản nhạc mà tôi khá chắc chắn nó không đi kèm với điện thoại."
 
 # game/events/dreams/recurring_nightmare.rpy:64
 translate vietnamese d_Recurring_Nightmare_1_part2_e8840b80:
 
     # girl "Normally, I wouldn’t have stopped to answer it, but I was expecting a call about a job I had interviewed for the previous week."
-    girl "Thông thường, tôi sẽ không dừng lại để trả lời, nhưng tôi đang mong đợi một cuộc gọi về công việc mà tôi đã phỏng vấn cho tuần trước."
+    girl "Thông thường, tôi sẽ không dừng lại để trả lời, nhưng tôi đang mong đợi một cuộc gọi từ công việc mà tôi đã phỏng vấn cho tuần trước."
 
 # game/events/dreams/recurring_nightmare.rpy:66
 translate vietnamese d_Recurring_Nightmare_1_part2_21158a1b:
@@ -40,7 +40,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_73a24cd5:
 translate vietnamese d_Recurring_Nightmare_1_part2_1239fc0d:
 
     # girl "“Do not get on the plane.” A woman’s voice, garbled and strange, as if her vocal chords had been shredded, and she was trying desperately to choke out speech."
-    girl "Đừng có lên máy bay. Giọng nói của một người phụ nữ, như bị cắt xén và khá kỳ lạ, như thể hợp âm của cô ấy đã bị cắt nhỏ và cô ấy đang cố gắng tuyệt vọng để nghẹn ngào nói lên vậy."
+    girl "Đừng có lên máy bay. Giọng nói của một người phụ nữ, như bị cắt xén và khá kỳ lạ, như thể hợp âm của cô ấy đã bị cắt nhỏ và cô ấy đang cố gắng trong tuyệt vọng để nghẹn ngào nói lên vậy."
 
 # game/events/dreams/recurring_nightmare.rpy:72
 translate vietnamese d_Recurring_Nightmare_1_part2_54de4487:
@@ -64,7 +64,7 @@ translate vietnamese d_Recurring_Nightmare_1_part2_421b7851:
 translate vietnamese d_Recurring_Nightmare_1_part2_63a886ce:
 
     # girl "I watched from the airport Starbucks three hours later as every TV in the terminal lit up with the crash footage of the plane I should have been on."
-    girl "Tôi đã xem từ quán Starbucks ở sân bay 3 giờ sau đó khi mọi TV trong đây sáng lên với cảnh quay tai nạn của chiếc máy bay mà tôi đáng lẽ phải ở trên đó."
+    girl "Tôi đã xem từ quán Starbuck ở sân bay 3 giờ sau đó khi mọi TV trong đây sáng lên với cảnh quay tai nạn của chiếc máy bay mà tôi đáng lẽ phải ở trên đó."
 
 # game/events/dreams/recurring_nightmare.rpy:80
 translate vietnamese d_Recurring_Nightmare_1_part2_bc7f4c61:

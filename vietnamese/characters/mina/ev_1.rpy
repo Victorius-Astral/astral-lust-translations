@@ -58,7 +58,7 @@ translate vietnamese mina_1_83087c50:
 translate vietnamese mina_1_d3cc2cf4:
 
     # mina "I feel curious about the first man that entered my [lex_min]'s bed."
-    mina "TEmôi cảm thấy tò mò về người đàn ông đầu tiên bước lên giường của [lex_min] em."
+    mina "Chỉ là cảm thấy tò mò về người đàn ông đầu tiên bước lên giường của chị em thôi."
 
 # game/characters/mina/ev_1.rpy:19
 translate vietnamese mina_1_3820771a_1:
@@ -142,7 +142,7 @@ translate vietnamese mina_1_eb470c14:
 translate vietnamese mina_1_1_c5b3e917:
 
     # mina "First! What were you doing before The End?"
-    mina "Đầu tiên! Anh đã làm gì trước khi kết thúc?"
+    mina "Đầu tiên! Anh đã làm gì trước The End?"
 
 # game/characters/mina/ev_1.rpy:55
 translate vietnamese mina_1_1_6cbe62fc:
@@ -154,7 +154,7 @@ translate vietnamese mina_1_1_6cbe62fc:
 translate vietnamese mina_1_1_dccb518d:
 
     # mina "Mm. Not bad I guess."
-    mina "Mm. Em đoán là không tệ lắm."
+    mina "Mm. Em đoán là cũng không tệ lắm."
 
 # game/characters/mina/ev_1.rpy:57
 translate vietnamese mina_1_1_807db745:
@@ -220,7 +220,7 @@ translate vietnamese mina_1_1_4e2a8876:
 translate vietnamese mina_1_1_17755788:
 
     # mina "You're thinking too much! So my third question is what do you think about my [lex_min]?"
-    mina "Anh đang nghĩ quá nhiều đấy! câu hỏi thứ ba của em là anh nghĩ gì về [lex_min] của em?"
+    mina "Anh đang nghĩ quá nhiều đấy! câu hỏi thứ ba của em là anh nghĩ gì về chị của em?"
 
 # game/characters/mina/ev_1.rpy:74
 translate vietnamese mina_1_1_3820771a_1:

@@ -322,7 +322,7 @@ translate vietnamese mina_5_dc7a7d12:
 translate vietnamese mina_5_25801dab:
 
     # lexi "Almost there! Hold on [mina], just a little longer! Your [lex_min] will be there soon." id mina_5_25801dab
-    lexi "Sắp đến rồi! Cố lên [mina], chỉ một chút nữa thôi! [Lex_min] của em sẽ sớm có mặt thôi." id mina_5_25801dab
+    lexi "Sắp đến rồi! Cố lên [mina], chỉ một chút nữa thôi! chị của em sẽ sớm có mặt thôi." id mina_5_25801dab
 
 # game/characters/mina/ev_5.rpy:107
 translate vietnamese mina_5_5ec1028f:
@@ -412,7 +412,7 @@ translate vietnamese mina_5_9b1279c0:
 translate vietnamese mina_5_b33dd752:
 
     # "She looks at her shocked [lex_min] and resolves herself."
-    "Cô ấy nhìn người [lex_min] đnag sợ hãi của mình và tự chấn chỉnh lại bản thân."
+    "Cô ấy nhìn người em đang sợ hãi của mình và tự chấn chỉnh lại bản thân."
 
 # game/characters/mina/ev_5.rpy:134
 translate vietnamese mina_5_911b4d65:
@@ -1066,7 +1066,7 @@ translate vietnamese mina_5_4_6b008549:
 translate vietnamese mina_5_4_679ef5a7:
 
     # th "That sounds like [lexi].. She is berating her [lex_min] pretty hard for me to hear from across the corridor. I bet she could even be heard downstairs."
-    th "Nghe có vẻ giống như [lexi]... Em ấy đang mắng [lex_min] của mình khá khó để nghe được từ bên kia hành lang. Mình cá rằng em ấy thậm chí có thể được nghe thấy dù ở tầng dưới."
+    th "Nghe có vẻ giống như [lexi]... Em ấy đang mắng em gái của mình khá khó để nghe được từ bên kia hành lang. Mình cá rằng em ấy thậm chí có thể được nghe thấy dù ở tầng dưới."
 
 # game/characters/mina/ev_5.rpy:379
 translate vietnamese mina_5_4_a5b98d0b:
@@ -1234,13 +1234,13 @@ translate vietnamese mina_5_5_d93ae75c:
 translate vietnamese mina_5_5_5ea53c03:
 
     # me "You did what you had to do to save your [lex_min]. There is no need to be sorry. You did nothing wrong."
-    me "Em đã làm những gì cần phải làm để cứu [lex_min] của mình. Không cần phải xin lỗi. Em không làm gì sai hết."
+    me "Em đã làm những gì cần phải làm để cứu em gái của mình rồi. Không cần phải xin lỗi đâu. Em không làm gì sai hết."
 
 # game/characters/mina/ev_5.rpy:424
 translate vietnamese mina_5_5_dc2dfa99:
 
     # lexi "I should have been the one to stay. It was my [lex_min] that we were saving."
-    lexi "Đáng lẽ em phải là người ở lại. Đó là [lex_min] của em mà chúng ta đ..."
+    lexi "Đáng lẽ em phải là người ở lại. Đó là em gái của em mà chúng ta đ..."
 
 # game/characters/mina/ev_5.rpy:425
 translate vietnamese mina_5_5_3ab9f149:
