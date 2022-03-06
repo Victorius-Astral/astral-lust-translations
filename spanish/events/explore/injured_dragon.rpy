@@ -1,8 +1,5 @@
 ﻿# : Translation updated at 2022-01-25 22:41
 
-# game/events/explore/injured_dragon.rpy:1
-translate spanish 10aee039:
-
 # game/events/explore/injured_dragon.rpy:27
 translate spanish exp_injured_dragon_f9bc6219:
 
