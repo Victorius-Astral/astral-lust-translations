@@ -1889,7 +1889,7 @@ translate vietnamese strings:
     new "Lấy đi"
 
     # game/events/activities/pyjamas_party.rpy:342
-    old "I don't have any..."
+    old "I don't have any.."
     new "Anh không có..."
 
     # game/events/activities/pyjamas_party.rpy:377
@@ -1933,8 +1933,8 @@ translate vietnamese strings:
     new "Em sẽ không nhận được gì nữa"
 
     # game/events/activities/pyjamas_party.rpy:483
-    old "She wants a... diamond..."
-    new "Cô ấy muốn một ... viên kim cương..."
+    old "She wants a.. diamond..."
+    new "Cô ấy muốn một... viên kim cương..."
 
     # game/events/activities/pyjamas_party.rpy:483
     old "Give her a diamond."
@@ -1953,85 +1953,85 @@ translate vietnamese strings:
 translate vietnamese girl_night_part2_b0665fe2:
 
     # alice "Come on in."
-    alice "Come on in."
+    alice "Vào đi."
 
 # game/events/activities/pyjamas_party.rpy:79
 translate vietnamese girl_night_part2_aa95ca6f:
 
     # me "So, what were you talking about."
-    me "So, what were you talking about."
+    me "Vậy, mấy em đang nói về cái gì vậy."
 
 # game/events/activities/pyjamas_party.rpy:87
 translate vietnamese girl_night_part2_379863b3:
 
-    # grace "Mm... Alice was telling us stories about your..."
-    grace "Mm... Alice was telling us stories about your..."
+    # grace "Mm... Alice was telling us stories about your.."
+    grace "Mm... Alice đang kể cho bọn em những câu chuyện về..."
 
 # game/events/activities/pyjamas_party.rpy:133
 translate vietnamese girl_night_part2_0f14419f:
 
     # alice "So, well, I'll get going."
-    alice "So, well, I'll get going."
+    alice "À thì, em sẽ đi trước đây."
 
 # game/events/activities/pyjamas_party.rpy:156
 translate vietnamese girl_night_part2_595855e9:
 
     # alice "You won't let a bad man to touch your titties, right?"
-    alice "You won't let a bad man to touch your titties, right?"
+    alice "Em sẽ không để đàn ông xấu chạm vào ngực của em, đúng không?"
 
 # game/events/activities/pyjamas_party.rpy:238
 translate vietnamese girl_night_part2_088d41c0:
 
     # grace "I see. That was funny... hehe."
-    grace "I see. That was funny... hehe."
+    grace "Em hiểu rồi. Thật là buồn cười... hehe."
 
 # game/events/activities/pyjamas_party.rpy:240
 translate vietnamese girl_night_part2_07081ead:
 
     # me "How would I know you're not turning into a werewolf?"
-    me "How would I know you're not turning into a werewolf?"
+    me "Làm sao anh biết được liệu em không biến thành người sói chứ?"
 
 # game/events/activities/pyjamas_party.rpy:335
 translate vietnamese girl_night_undress3_546d6a8f:
 
     # th "Why does [mina] looks at me like this?"
-    th "Why does [mina] looks at me like this?"
+    th "Tại sao [mina] Nhìn mình mình đắm đuối con cá chuối vậy?"
 
 # game/events/activities/pyjamas_party.rpy:339
 translate vietnamese girl_night_undress3_38037552:
 
     # mina "Don't bullshit me, you're going to find some other reasons for us all to undress. I want an ice cream."
-    mina "Don't bullshit me, you're going to find some other reasons for us all to undress. I want an ice cream."
+    mina "Đừng nói nhảm với em, anh sẽ tìm ra một số lý do để tất cả chúng ta cởi quần áo. Và em muốn kem."
 
 # game/events/activities/pyjamas_party.rpy:402
 translate vietnamese girl_night_undress5_587de244:
 
     # alice "I want some fur, but leather will do too."
-    alice "I want some fur, but leather will do too."
+    alice "Em muốn một ít lông. Nhưng da cũng được."
 
 # game/events/activities/pyjamas_party.rpy:532
 translate vietnamese girl_night_undress8_c20e7406:
 
     # alice "Now, that you've eyed us enough, I think it's time for you go to sleep."
-    alice "Now, that you've eyed us enough, I think it's time for you go to sleep."
+    alice "Bây giờ anh đã nhìn chúng em đủ nhiều rồi, đã đến lúc anh đi ngủ rồi đấy."
 
 # game/events/activities/pyjamas_party.rpy:540
 translate vietnamese girl_night_undress8_d7015565:
 
     # alice "I can, and I will."
-    alice "I can, and I will."
+    alice "Em có thể, và em làm vậy."
 
 # game/events/activities/pyjamas_party.rpy:570
 translate vietnamese girl_night_undress8_c4ab0232:
 
     # "You tell them about your encounters for the whole hour."
-    "You tell them about your encounters for the whole hour."
+    "Bạn kể cho họ nghe về những cuộc gặp gỡ của bạn trong cả tiếng đồng hồ."
 
 # game/events/activities/pyjamas_party.rpy:577
 translate vietnamese girl_night_undress8_d7c2182b:
 
-    # th "I've forced him to commit suicide with my murderous gaze, yeah. I remember it was like this..."
-    th "I've forced him to commit suicide with my murderous gaze, yeah. I remember it was like this..."
+    # th "I've forced him to commit suicide with my murderous gaze, yeah. I remember it was like this.."
+    th "Mình đã ép anh ta tự sát bằng ánh mắt giết người của mình, yeh, mình nhớ nó là như thế..."
 
 # game/events/activities/pyjamas_party.rpy:605
 translate vietnamese girl_night_undress8_ea01fdb6:
@@ -2043,7 +2043,7 @@ translate vietnamese girl_night_undress8_ea01fdb6:
 translate vietnamese girl_night_sleep_44a82e18:
 
     # me "Alright, I've had enough. I'm going to sleep."
-    me "Alright, I've had enough. I'm going to sleep."
+    me "Được rồi, anh đi ngủ đây."
 
 # TODO: Translation updated at 2022-02-19 01:56
 
@@ -2051,12 +2051,12 @@ translate vietnamese strings:
 
     # game/events/activities/pyjamas_party.rpy:342
     old "I don't have any.."
-    new "I don't have any.."
+    new "Anh không có.."
 
     # game/events/activities/pyjamas_party.rpy:448
     old "This little gold digger wants gold nugget.."
-    new "This little gold digger wants gold nugget.."
+    new "Cô gái đào mỏ này muốn một miếng vàng..."
 
     # game/events/activities/pyjamas_party.rpy:483
     old "She wants a.. diamond.."
-    new "She wants a.. diamond.."
+    new "Cô ấy muốn một... viên kim cương..."
