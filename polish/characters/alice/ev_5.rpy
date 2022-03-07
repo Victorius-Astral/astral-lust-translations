@@ -28,7 +28,7 @@ translate polish alice_5_1e7409fe:
 translate polish alice_5_97e3a8ce:
 
     # "{color=#800080}[[Need 5% Corruption]{/color} Kill human enemies to increase corruption."
-    "{color=#800080}[[Need 5% Corruption]{/color} Kill human enemies to increase corruption."
+    "{color=#800080}[[Need 5\% Corruption]{/color} Kill human enemies to increase corruption."
 
 # game/characters/alice/ev_5.rpy:12
 translate polish alice_5_cc3ee69f:
@@ -450,4 +450,3 @@ translate polish alice_5_2_5c6f5e7b:
 
     # alice "Ahhhmm!~"
     alice "Ahhhmm!~"
-

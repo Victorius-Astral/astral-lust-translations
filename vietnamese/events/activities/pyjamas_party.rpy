@@ -2049,10 +2049,6 @@ translate vietnamese girl_night_sleep_44a82e18:
 
 translate vietnamese strings:
 
-    # game/events/activities/pyjamas_party.rpy:342
-    old "I don't have any.."
-    new "Anh không có.."
-
     # game/events/activities/pyjamas_party.rpy:448
     old "This little gold digger wants gold nugget.."
     new "Cô gái đào mỏ này muốn một miếng vàng..."
