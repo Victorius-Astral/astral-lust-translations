@@ -1912,7 +1912,7 @@ translate polish midnight_kiss_demeter_angels_2d739998:
 translate polish midnight_kiss_demeter_angels_f2244d74:
 
     # demeter "You should know who I'm reffering to. I bet you have fucked her at least once."
-    demeter "You should know who I'm reffering to. I bet you have fucked her at least once."
+    demeter "You should know who I'm referring to. I bet you have fucked her at least once."
 
 # game/events/explore/midnight_kiss.rpy:804
 translate polish midnight_kiss_demeter_angels_e0ad9b25:
@@ -2155,4 +2155,3 @@ translate polish strings:
     # game/events/explore/midnight_kiss.rpy:747
     old "Ask about Angels"
     new "Ask about Angels"
-
