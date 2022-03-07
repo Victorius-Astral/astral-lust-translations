@@ -142,13 +142,13 @@ translate vietnamese banditsA_menu_3c4da8b3:
 translate vietnamese banditsA_menu_86f29c6f:
 
     # bandit "You certainly don't look like you have anything worth taking.."
-    bandit "Mày chắc chắn không có vẻ như mày có bất cứ thứ gì đáng để lấy..."
+    bandit "Mày còn chưa có đủ năm triệu lực chiến, nên cũng đéo có cái gì để cướp hết..."
 
 # game/events/explore/bandits.rpy:99
 translate vietnamese banditsA_menu_b1bde65c:
 
     # bandit "Scram."
-    bandit "Hãy ra khỏi tầm mắt của tao."
+    bandit "Cút nhanh còn kịp."
 
 # game/events/explore/bandits.rpy:100
 translate vietnamese banditsA_menu_ca667a37:
@@ -334,13 +334,13 @@ translate vietnamese banditsB_menu_c41f2d2d:
 translate vietnamese banditsB_menu_86f29c6f:
 
     # bandit "You certainly don't look like you have anything worth taking.."
-    bandit "Mày chắc chắn là có bất cứ thứ gì đáng để lấy..."
+    bandit "Mày còn chưa có đủ năm triệu lực chiến, nên cũng đéo có cái gì để cướp hết..."
 
 # game/events/explore/bandits.rpy:207
 translate vietnamese banditsB_menu_b1bde65c:
 
     # bandit "Scram."
-    bandit "Hãy ra khỏi tầm mắt của tao."
+    bandit "Cút nhanh còn kịp."
 
 # game/events/explore/bandits.rpy:208
 translate vietnamese banditsB_menu_ca667a37:
@@ -364,7 +364,7 @@ translate vietnamese banditsB_menu_25f5521a:
 translate vietnamese banditsB_menu_eacc8a16_1:
 
     # "{color=#32CD32}[[Agility check passed]{/color} You managed to dodge!"
-    "{color=#32CD32}[[Độ nhanh nhẹn đạt yêu cầu]{/color} YBạn đã xoay sở để né được đòn!"
+    "{color=#32CD32}[[Độ nhanh nhẹn đạt yêu cầu]{/color} Bạn đã xoay sở để né được đòn!"
 
 # game/events/explore/bandits.rpy:218
 translate vietnamese banditsB_menu_f8ebed79_1:
@@ -376,7 +376,7 @@ translate vietnamese banditsB_menu_f8ebed79_1:
 translate vietnamese explore_banditsB_win_29192660:
 
     # "You loot everything left behind."
-    "Bạn cướp tất cả mọi thứ còn lại."
+    "Bạn cướp tất cả mọi thứ."
 
 translate vietnamese strings:
 
@@ -521,7 +521,7 @@ translate vietnamese strings:
 
     # game/events/explore/bandits.rpy:181
     old "{cha}[[Charisma]{/cha} Be human, I won't survive without this little bit of supplies"
-    new "{cha}[[Sức thu hút]{/cha} Hãy có chút nhân tính đi, tôi sẽ không thể sống sót nếu không có ít vật dụng mà này đâu"
+    new "{cha}[[Sức thu hút]{/cha} Hãy có chút nhân tính đi, tôi sẽ không thể sống sót nếu không có ít vật dụng này đâu"
 
     # game/events/explore/bandits.rpy:198
     old "Health -10"

@@ -496,7 +496,7 @@ translate vietnamese girl_night_part2_3820771a_2:
 translate vietnamese girl_night_part2_777f7fa6:
 
     # grace "I won't!"
-    grace "Em sẽ không!"
+    grace "Tất nhiên là không rồi!"
 
 # game/events/activities/pyjamas_party.rpy:161
 translate vietnamese girl_night_part2_e6b5530e:
@@ -652,12 +652,12 @@ translate vietnamese girl_night_part2_4f37ec86:
 translate vietnamese girl_night_part2_73d5dcd9:
 
     # grace "Are you just embarrassed to admit it?"
-    grace "Có phải anh quá xấu hổ để thừa nhận nó?"
+    grace "Có phải anh quá xấu hổ để thừa nhận nó không?"
 
 # game/events/activities/pyjamas_party.rpy:206
 translate vietnamese girl_night_part2_9e3abd53:
 
-    # th "Congrats, [grace]. Now I feel like crying..."
+    # th "Congrats, [grace]. Now I feel like crying.."
     th "Chúc mừng, [grace]. Giờ anh muốn khóc rồi đấy..."
 
 # game/events/activities/pyjamas_party.rpy:207
@@ -676,7 +676,7 @@ translate vietnamese girl_night_part2_be2daa42:
 translate vietnamese girl_night_part2_ef139e26:
 
     # alice "{quiet}Why I'm not surprised...{/quiet}"
-    alice "{quiet}Tại sao mình không ngạc nhiên nhỉ...{/quiet}"
+    alice "{quiet}Tại sao mình lại không ngạc nhiên nhỉ...{/quiet}"
 
 # game/events/activities/pyjamas_party.rpy:212
 translate vietnamese girl_night_part2_370614b9:
@@ -693,7 +693,7 @@ translate vietnamese girl_night_part2_74f05a4e_1:
 # game/events/activities/pyjamas_party.rpy:216
 translate vietnamese girl_night_part2_b085d728:
 
-    # mina "Gosh..."
+    # mina "Gosh.."
     mina "Giời ơi..."
 
 # game/events/activities/pyjamas_party.rpy:217
@@ -706,19 +706,19 @@ translate vietnamese girl_night_part2_b9ea3fe7:
 translate vietnamese girl_night_part2_0d330751:
 
     # grace "No... Weird..."
-    grace "Không... Kỳ lạ..."
+    grace "Không... Kỳ lạ thật..."
 
 # game/events/activities/pyjamas_party.rpy:221
 translate vietnamese girl_night_part2_1a276438:
 
     # mina "Ah..."
-    mina "Ah..."
+    mina "Ah.."
 
 # game/events/activities/pyjamas_party.rpy:222
 translate vietnamese girl_night_part2_ceef680e:
 
     # me "You're weird."
-    me "Em mới kỳ lạ."
+    me "Em mới kỳ lạ đấy."
 
 # game/events/activities/pyjamas_party.rpy:225
 translate vietnamese girl_night_part2_6a4a170f:
@@ -748,7 +748,7 @@ translate vietnamese girl_night_part2_b3e501f7:
 translate vietnamese girl_night_part2_2b31aa92:
 
     # grace "You're being bad!"
-    grace "Anh đang trở nên tồi tệ!"
+    grace "Anh đang trở nên xấu xa đấy!"
 
 # game/events/activities/pyjamas_party.rpy:234
 translate vietnamese girl_night_part2_3820771a_3:
@@ -760,7 +760,7 @@ translate vietnamese girl_night_part2_3820771a_3:
 translate vietnamese girl_night_part2_ac4c3a56:
 
     # me "Now, now. Don't be angry, I was just joking with you."
-    me "Giờ thì. Đừng tức giận nữa, anh chỉ đang nói đùa với em thôi."
+    me "Nào. Đừng giận nữa, anh chỉ đang nói đùa với em thôi."
 
 # game/events/activities/pyjamas_party.rpy:238
 translate vietnamese girl_night_part2_0452124f:
@@ -772,7 +772,7 @@ translate vietnamese girl_night_part2_0452124f:
 translate vietnamese girl_night_part2_1ca6c0ef:
 
     # th "Yeah, I'm dying of laughter... I have an idea, though."
-    th "Yeah, Mình đang chết vì lmao ... Tuy nhiên, mình có một ý tưởng."
+    th "Yeah, Mình đang chết vì cười đây... Tuy nhiên, mình có một ý tưởng."
 
 # game/events/activities/pyjamas_party.rpy:240
 translate vietnamese girl_night_part2_eabf8e58:
@@ -795,7 +795,7 @@ translate vietnamese girl_night_part2_cebdd445:
 # game/events/activities/pyjamas_party.rpy:245
 translate vietnamese girl_night_part2_4a123c10:
 
-    # alice "{small}No way, this bastard is doing it...{/small}"
+    # alice "{small}No way, this bastard is doing it..{/small}"
     alice "{small}Không thể nào, tên hentai này đang làm điều đó...{/small}"
 
 # game/events/activities/pyjamas_party.rpy:246
@@ -813,7 +813,7 @@ translate vietnamese girl_night_part2_2b075b0a:
 # game/events/activities/pyjamas_party.rpy:248
 translate vietnamese girl_night_part2_a61b3db4:
 
-    # grace "Ymm..."
+    # grace "Ymm.."
     grace "Ymm..."
 
 # game/events/activities/pyjamas_party.rpy:259
@@ -825,7 +825,7 @@ translate vietnamese girl_night_undress_8e3acbcd:
 # game/events/activities/pyjamas_party.rpy:262
 translate vietnamese girl_night_undress_f044dc36:
 
-    # mina "{small}I don't believe it...{/small}"
+    # mina "{small}I don't believe it..{/small}"
     mina "{small}Mình không thể tin nổi...{/small}"
 
 # game/events/activities/pyjamas_party.rpy:263
@@ -838,19 +838,19 @@ translate vietnamese girl_night_undress_f9616106:
 translate vietnamese girl_night_undress_a93b9ef5:
 
     # alice "You don't need to do this Gracie. Don't listen to this idiot."
-    alice "Em không cần phải làm điều này Gracie. Đừng nghe tên ngốc này."
+    alice "Em không cần phải làm điều này đâu Gracie. Đừng nghe tên ngốc này."
 
 # game/events/activities/pyjamas_party.rpy:265
 translate vietnamese girl_night_undress_c25224a3:
 
-    # th "You talk too much..."
+    # th "You talk too much.."
     th "Nói ít thôiiii..."
 
 # game/events/activities/pyjamas_party.rpy:269
 translate vietnamese girl_night_undress_361a2ee9:
 
     # "{cha}[[Charisma check failed]{/cha}"
-    "{cha}[[Sức thu hút đạt không đủ]{/cha}"
+    "{cha}[[Sức thu hút không đủ]{/cha}"
 
 # game/events/activities/pyjamas_party.rpy:270
 translate vietnamese girl_night_undress_80aa708e:
@@ -868,7 +868,7 @@ translate vietnamese girl_night_undress_3820771a:
 translate vietnamese girl_night_undress_f6ff1e7a:
 
     # alice "Good girl."
-    alice "Cô gái ngoan."
+    alice "Tốt lắm."
 
 # game/events/activities/pyjamas_party.rpy:275
 translate vietnamese girl_night_undress_baf8f4db:
@@ -880,7 +880,7 @@ translate vietnamese girl_night_undress_baf8f4db:
 translate vietnamese girl_night_undress_a42d48cd:
 
     # mina "You're so cute Grace."
-    mina "Em thật là dễ thương Grace."
+    mina "Em thật là dễ thương đấy Grace."
 
 # game/events/activities/pyjamas_party.rpy:277
 translate vietnamese girl_night_undress_3820771a_1:

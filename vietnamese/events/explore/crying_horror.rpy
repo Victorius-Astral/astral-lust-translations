@@ -10,7 +10,7 @@ translate vietnamese exp_crying_horror_c7c12c00:
 translate vietnamese exp_crying_horror_26d9ec4d:
 
     # "You take a look around the corner."
-    "Bạn nhìn quanh góc đường."
+    "Bạn nhìn ra sau góc đường."
 
 # game/events/explore/crying_horror.rpy:20
 translate vietnamese exp_crying_horror_08ce446e:
