@@ -3,20 +3,20 @@
 # game/places/wanderers/prostitutes/amanda.rpy:16
 translate vietnamese w_booth_amanda_2c482652:
 
-    # amanda "Hello, [me_amanda]. I'm at your service."
-    amanda "Chào, [me_amanda]. Em sẵn sàng phục vụ [me_amanda] rồi đây."
+    # amanda "Hello, [me_amanda!t]. I'm at your service."
+    amanda "Chào, [me_amanda!t]. Em sẵn sàng phục vụ [me_amanda!t] rồi đây."
 
 # game/places/wanderers/prostitutes/amanda.rpy:27
 translate vietnamese w_booth_amanda_menu1_0cb75142:
 
-    # amanda "Of course, [me_amanda]."
-    amanda "Tất nhiên rồi, [me_amanda]."
+    # amanda "Of course, [me_amanda!t]."
+    amanda "Tất nhiên rồi, [me_amanda!t]."
 
 # game/places/wanderers/prostitutes/amanda.rpy:32
 translate vietnamese w_booth_amanda_menu1_04f4733b:
 
     # amanda "You won't get refund."
-    amanda "[me_amanda] sẽ không được hoàn tiền đâu."
+    amanda "[me_amanda!t] sẽ không được hoàn tiền đâu."
 
 # game/places/wanderers/prostitutes/amanda.rpy:33
 translate vietnamese w_booth_amanda_menu1_3cdbfa0d:
@@ -27,14 +27,14 @@ translate vietnamese w_booth_amanda_menu1_3cdbfa0d:
 # game/places/wanderers/prostitutes/amanda.rpy:37
 translate vietnamese w_booth_amanda_menu1_cda50697:
 
-    # amanda "Take care, [me_amanda]."
-    amanda "Bảo trọng nha, [me_amanda]."
+    # amanda "Take care, [me_amanda!t]."
+    amanda "Bảo trọng nha, [me_amanda!t]."
 
 # game/places/wanderers/prostitutes/amanda.rpy:42
 translate vietnamese w_booth_amanda_menu1_0aa909f6:
 
-    # amanda "Thank you for choosing to stay with me, [me_amanda]."
-    amanda "Cảm ơn vì đã chọn ở lại với em, [me_amanda]."
+    # amanda "Thank you for choosing to stay with me, [me_amanda!t]."
+    amanda "Cảm ơn vì đã chọn ở lại với em, [me_amanda!t]."
 
 # game/places/wanderers/prostitutes/amanda.rpy:51
 translate vietnamese w_booth_amanda_end_72823134:
@@ -207,8 +207,8 @@ translate vietnamese w_booth_amanda_dt_cum_83b8d24c:
 # game/places/wanderers/prostitutes/amanda.rpy:179
 translate vietnamese w_booth_amanda_dt_cum_00e07095:
 
-    # amanda "I hope you liked your blowjob, [me_amanda]."
-    amanda "Em mong là [me_amanda] thích."
+    # amanda "I hope you liked your blowjob, [me_amanda!t]."
+    amanda "Em mong là [me_amanda!t] thích."
 
 # game/places/wanderers/prostitutes/amanda.rpy:180
 translate vietnamese w_booth_amanda_dt_cum_6c57e085:
@@ -220,7 +220,7 @@ translate vietnamese w_booth_amanda_dt_cum_6c57e085:
 translate vietnamese w_booth_amanda_dt_cum_8d3d317d:
 
     # amanda "Thank you. I need to go, though. I hope you'll choose me again."
-    amanda "Cảm ơn nha. Nhưng em cần phải đi rồi. Em mong là [me_amanda] sẽ chọn em lần nữa."
+    amanda "Cảm ơn nha. Nhưng em cần phải đi rồi. Em mong là [me_amanda!t] sẽ chọn em lần nữa."
 
 # game/places/wanderers/prostitutes/amanda.rpy:182
 translate vietnamese w_booth_amanda_dt_cum_fca811a5:
@@ -231,8 +231,8 @@ translate vietnamese w_booth_amanda_dt_cum_fca811a5:
 # game/places/wanderers/prostitutes/amanda.rpy:183
 translate vietnamese w_booth_amanda_dt_cum_cda50697:
 
-    # amanda "Take care, [me_amanda]."
-    amanda "Bảo trọng nha [me_amanda]."
+    # amanda "Take care, [me_amanda!t]."
+    amanda "Bảo trọng nha [me_amanda!t]."
 
 # game/places/wanderers/prostitutes/amanda.rpy:184
 translate vietnamese w_booth_amanda_dt_cum_9370fd7a:
@@ -272,4 +272,3 @@ translate vietnamese strings:
     # game/places/wanderers/prostitutes/amanda.rpy:18
     old "Call me.."
     new "Call me.."
-
