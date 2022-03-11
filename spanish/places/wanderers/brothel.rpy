@@ -100,7 +100,7 @@ translate spanish wanderers_brothel_menu1_58db956b:
 translate spanish wanderers_brothel_menu1_bac46347:
 
     # madam_hof "Maybe we should start over, I'm Madam Hof."
-    madam_hof "Quizás deberíamos comenzar de nuevo. Soy Madam Hof."
+    madam_hof "Quizás deberíamos comenzar de nuevo. Soy [madam_hof!t]."
 
 # game/places/wanderers/brothel.rpy:88
 translate spanish wanderers_brothel_menu1_fb30c850:
@@ -183,7 +183,7 @@ translate spanish wanderers_brothel_menu1_58db956b_1:
 # game/places/wanderers/brothel.rpy:121
 translate spanish wanderers_brothel_menu1_1ce08715:
 
-    # madam_hof "Maybe we should start over. I'm Madam Hof."
+    # madam_hof "Maybe we should start over. I'm [madam_hof!t]."
     madam_hof "Quizás deberíamos comenzar de nuevo. Soy Madam Hof."
 
 # game/places/wanderers/brothel.rpy:122

@@ -100,7 +100,7 @@ translate vietnamese wanderers_brothel_menu1_58db956b:
 translate vietnamese wanderers_brothel_menu1_bac46347:
 
     # madam_hof "Maybe we should start over, I'm Madam Hof."
-    madam_hof "Có lẽ chúng ta nên bắt đầu lại, chụy là Madam Hof."
+    madam_hof "Có lẽ chúng ta nên bắt đầu lại, chụy là [madam_hof!t]."
 
 # game/places/wanderers/brothel.rpy:88
 translate vietnamese wanderers_brothel_menu1_fb30c850:
@@ -183,7 +183,7 @@ translate vietnamese wanderers_brothel_menu1_58db956b_1:
 # game/places/wanderers/brothel.rpy:121
 translate vietnamese wanderers_brothel_menu1_1ce08715:
 
-    # madam_hof "Maybe we should start over. I'm Madam Hof."
+    # madam_hof "Maybe we should start over. I'm [madam_hof!t]."
     madam_hof "Có lẽ chúng ta nên bắt đầu lại. Chụy là Madam Hof."
 
 # game/places/wanderers/brothel.rpy:122

@@ -339,12 +339,12 @@ translate spanish strings:
     new "Tu hija"
 
     # game/events/explore/friendly_wanderers.rpy:66
-    old "Sex (20$)"
-    new "Sexo (20$)"
+    old "Sex (20 {image=capTextImg_menu})"
+    new "Sexo (20 {image=capTextImg_menu})"
 
     # game/events/explore/friendly_wanderers.rpy:66
-    old "Blowjob (8$)"
-    new "Oral (8$)"
+    old "Blowjob (8 {image=capTextImg_menu})"
+    new "Oral (8 {image=capTextImg_menu})"
 
     # game/events/explore/friendly_wanderers.rpy:66
     old "I changed my mind"
