@@ -339,12 +339,12 @@ translate polish strings:
     new "Your daughter"
 
     # game/events/explore/friendly_wanderers.rpy:66
-    old "Sex (20$)"
-    new "Sex (20$)"
+    old "Sex (20 {image=capTextImg_menu})"
+    new "Sex (20 {image=capTextImg_menu})"
 
     # game/events/explore/friendly_wanderers.rpy:66
-    old "Blowjob (8$)"
-    new "Blowjob (8$)"
+    old "Blowjob (8 {image=capTextImg_menu})"
+    new "Blowjob (8 {image=capTextImg_menu})"
 
     # game/events/explore/friendly_wanderers.rpy:66
     old "I changed my mind"
@@ -391,4 +391,3 @@ translate polish strings:
     # game/events/explore/friendly_wanderers.rpy:88
     old "They consist of independent groups of people that help each other."
     new "They consist of independent groups of people that help each other."
-

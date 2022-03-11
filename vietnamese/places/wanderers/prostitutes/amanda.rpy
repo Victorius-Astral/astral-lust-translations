@@ -3,8 +3,8 @@
 # game/places/wanderers/prostitutes/amanda.rpy:16
 translate vietnamese w_booth_amanda_2c482652:
 
-    # amanda "Hello, [me_amanda]. I'm at your service."
-    amanda "Chào, [me_amanda!t]. Em sẵn sàng phục vụ rồi đây."
+    # amanda "Hello, [me_amanda!t]. I'm at your service."
+    amanda "Chào, [me_amanda!t]. Em sẵn sàng phục vụ [me_amanda!t] rồi đây."
 
 # game/places/wanderers/prostitutes/amanda.rpy:27
 translate vietnamese w_booth_amanda_menu1_0cb75142:
@@ -27,7 +27,7 @@ translate vietnamese w_booth_amanda_menu1_3cdbfa0d:
 # game/places/wanderers/prostitutes/amanda.rpy:37
 translate vietnamese w_booth_amanda_menu1_cda50697:
 
-    # amanda "Take care, [me_amanda]."
+    # amanda "Take care, [me_amanda!t]."
     amanda "Bảo trọng nha, [me_amanda!t]."
 
 # game/places/wanderers/prostitutes/amanda.rpy:42

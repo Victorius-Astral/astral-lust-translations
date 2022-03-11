@@ -369,12 +369,12 @@ translate vietnamese strings:
     new "Con gái của ông"
 
     # game/events/explore/friendly_wanderers.rpy:116
-    old "Sex (20$)"
-    new "Làm tình (20$)"
+    old "Sex (20 {image=capTextImg_menu})"
+    new "Làm tình (20 {image=capTextImg_menu})"
 
     # game/events/explore/friendly_wanderers.rpy:116
-    old "Blowjob (8$)"
-    new "Bún cua (8$)"
+    old "Blowjob (8 {image=capTextImg_menu})"
+    new "Bún cua (8 {image=capTextImg_menu})"
 
     # game/events/explore/friendly_wanderers.rpy:116
     old "I changed my mind"

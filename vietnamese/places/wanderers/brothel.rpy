@@ -100,7 +100,7 @@ translate vietnamese wanderers_brothel_menu1_58db956b:
 translate vietnamese wanderers_brothel_menu1_bac46347:
 
     # madam_hof "Maybe we should start over, I'm Madam Hof."
-    madam_hof "Có lẽ chúng ta nên bắt đầu lại, chụy là Madam Hof."
+    madam_hof "Có lẽ chúng ta nên bắt đầu lại, chụy là [madam_hof!t]."
 
 # game/places/wanderers/brothel.rpy:88
 translate vietnamese wanderers_brothel_menu1_fb30c850:
@@ -183,7 +183,7 @@ translate vietnamese wanderers_brothel_menu1_58db956b_1:
 # game/places/wanderers/brothel.rpy:121
 translate vietnamese wanderers_brothel_menu1_1ce08715:
 
-    # madam_hof "Maybe we should start over. I'm Madam Hof."
+    # madam_hof "Maybe we should start over. I'm [madam_hof!t]."
     madam_hof "Có lẽ chúng ta nên bắt đầu lại. Chụy là Madam Hof."
 
 # game/places/wanderers/brothel.rpy:122
@@ -196,25 +196,25 @@ translate vietnamese wanderers_brothel_menu1_fb30c850_1:
 translate vietnamese wanderers_brothel_menu1_f7f0483e_1:
 
     # madam_hof "Nice to met you, [me]. You look like someone that could become a regular."
-    madam_hof "Rất vui được gặp chú em, [me]. Em trông giống như một người có thể trở thành thường xuyên."
+    madam_hof "Rất vui được gặp chú em, [me]. Em trông giống như một người có thể trở thành khách quen đấy."
 
 # game/places/wanderers/brothel.rpy:126
 translate vietnamese wanderers_brothel_menu1_c3d85c42_1:
 
-    # th "I'm not sure how I should take that..."
+    # th "I'm not sure how I should take that.."
     th "Đáp lại kiểu đéo gì cho được đây..."
 
 # game/places/wanderers/brothel.rpy:129
 translate vietnamese wanderers_brothel_menu1_ee714e66_1:
 
     # madam_hof "So what can I do for you, [me]?"
-    madam_hof "Vậy tôi có thể làm gì cho chú em hả, [me]?"
+    madam_hof "Vậy chụy có thể làm gì cho chú em?"
 
 # game/places/wanderers/brothel.rpy:185
 translate vietnamese wanderers_brothel_photos_f5c3110e:
 
     # madam_hof "Of course, boy. Here, take a look."
-    madam_hof "Tất nhiên rồi, cậu bé. Đây, hãy xem đi."
+    madam_hof "Tất nhiên rồi. Đây, hãy xem đi."
 
 # game/places/wanderers/brothel.rpy:195
 translate vietnamese wanderers_brothel_photos_fd5639b3:
@@ -226,7 +226,7 @@ translate vietnamese wanderers_brothel_photos_fd5639b3:
 translate vietnamese wanderers_brothel_photos_8a65bc6b:
 
     # me "Perhaps."
-    me "Có lẽ."
+    me "Chắc là có."
 
 # game/places/wanderers/brothel.rpy:197
 translate vietnamese wanderers_brothel_photos_bb02fcce:
