@@ -16,3 +16,15 @@ translate vietnamese strings:
     # game/variables/classes/Trader.rpy:11
     old "Trader"
     new "Người giao dịch"
+# TODO: Translation updated at 2022-03-11 07:54
+
+translate vietnamese strings:
+
+    # game/variables/classes/Trader.rpy:344
+    old "Relations with {} increased by {:.1f}"
+    new "Relations with {} increased by {:.1f}"
+
+    # game/variables/classes/Trader.rpy:351
+    old " (MAX)"
+    new " (MAX)"
+

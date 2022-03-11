@@ -1091,3 +1091,11 @@ translate vietnamese strings:
     # game/characters/grace/nightmare.rpy:422
     old "It's safe, I can finally sleep"
     new "An toàn rồi, cuối cùng thì mình cũng có thể ngủ"
+# TODO: Translation updated at 2022-03-11 07:54
+
+# game/characters/grace/nightmare.rpy:174
+translate vietnamese grace_nightmare_part3_6d16ba19:
+
+    # grace "Mo-!"
+    grace "Mo-!"
+

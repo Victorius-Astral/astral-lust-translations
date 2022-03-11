@@ -1563,3 +1563,15 @@ translate vietnamese strings:
     # game/characters/rhainda/ev_1.rpy:559
     old "Rhainda"
     new "Rhainda"
+# TODO: Translation updated at 2022-03-11 07:54
+
+translate vietnamese strings:
+
+    # game/characters/rhainda/ev_1.rpy:88
+    old "You won"
+    new "You won"
+
+    # game/characters/rhainda/ev_1.rpy:88
+    old "Rhainda won"
+    new "Rhainda won"
+

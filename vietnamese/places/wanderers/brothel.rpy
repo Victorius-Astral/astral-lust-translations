@@ -259,3 +259,11 @@ translate vietnamese strings:
     # game/places/wanderers/brothel.rpy:56
     old "Can I take a look at your girls before paying?"
     new "Tôi có thể nhìn các cô gái của Chị trước khi trả tiền không?"
+# TODO: Translation updated at 2022-03-11 07:54
+
+translate vietnamese strings:
+
+    # game/places/wanderers/brothel.rpy:23
+    old "Madam Hof"
+    new "Madam Hof"
+

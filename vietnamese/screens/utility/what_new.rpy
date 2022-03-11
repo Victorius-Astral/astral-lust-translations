@@ -284,3 +284,27 @@ translate vietnamese strings:
     # game/screens/utility/what_new.rpy:252
     old "Of the many changes, the most noticeable ones would be choice menus that are now on the right part of the screen (can be changed in settings), and task menu can now be disabled with 'T' key or in the settings. There was also a new arena added, and leech attacks have now new intent icon. This release fixes a lot of bugs, and hundreds of typos and grammar issues."
     new "Trong số rất nhiều thay đổi, những thay đổi đáng chú ý nhất sẽ là menu lựa chọn hiện nằm ở phần bên phải của màn hình (có thể được thay đổi trong cài đặt) và menu tác vụ hiện có thể bị vô hiệu hóa bằng phím 'T' hoặc trong cài đặt. Ngoài ra còn có một đấu trường mới được thêm vào và các cuộc tấn công đỉa giờ đã có biểu tượng ý định mới. Bản phát hành này sửa rất nhiều lỗi và hàng trăm lỗi chính tả và ngữ pháp(Không tính tiếng Việt vì bản dịch chưa được chau chuốt kỹ)."
+# TODO: Translation updated at 2022-03-11 07:54
+
+translate vietnamese strings:
+
+    # game/screens/utility/what_new.rpy:209
+    old "{b}Gracie Nightmare{/b}"
+    new "{b}Gracie Nightmare{/b}"
+
+    # game/screens/utility/what_new.rpy:210
+    old "Oh no! Our baby girl had a nightmare! We need to protect her in the warmth of our arms :) Be a good person and let Gracie stay. Can you find the hidden secret in this event? For a tip, this event has a few variations, seeing it once is not enough to see everything and find the secret. It's best if you don't save for an hour before finding the secret :)"
+    new "Oh no! Our baby girl had a nightmare! We need to protect her in the warmth of our arms :) Be a good person and let Gracie stay. Can you find the hidden secret in this event? For a tip, this event has a few variations, seeing it once is not enough to see everything and find the secret. It's best if you don't save for an hour before finding the secret :)"
+
+    # game/screens/utility/what_new.rpy:221
+    old "{b}GUI 2.0{/b}"
+    new "{b}GUI 2.0{/b}"
+
+    # game/screens/utility/what_new.rpy:222
+    old "The overhaul of the Astral Lust interface has begun! Many most important menus were already adopted, or at lest partially adopted. The inventory and character menu are now a single menu, fully adopted to the new style. Items now have tooltips, and icons. The whole items system was overhauled, right clicking an item will allow you to select how many to move with a slider, you can also sort your inventory, and move all items at once with just one click! Notifications are now completely different, you can toggle two different styles in the settings. Main interface theme font - {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} can also be toggled in the settings. Expandable menu icons were changed, and all menus opened with them were at least partially adopted to the new theme. Trading scene was fully adopted, with new options like showing reputation increase from the deal, some new mechanics were added to the traders too - like good profit relations bonus."
+    new "The overhaul of the Astral Lust interface has begun! Many most important menus were already adopted, or at lest partially adopted. The inventory and character menu are now a single menu, fully adopted to the new style. Items now have tooltips, and icons. The whole items system was overhauled, right clicking an item will allow you to select how many to move with a slider, you can also sort your inventory, and move all items at once with just one click! Notifications are now completely different, you can toggle two different styles in the settings. Main interface theme font - {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} can also be toggled in the settings. Expandable menu icons were changed, and all menus opened with them were at least partially adopted to the new theme. Trading scene was fully adopted, with new options like showing reputation increase from the deal, some new mechanics were added to the traders too - like good profit relations bonus."
+
+    # game/screens/utility/what_new.rpy:234
+    old "There are countless other changes - ALL animations can be toggled ON/OFF in the settings, dozens of issues were fixed, no animation support was added to all animations that didn't have it, some animations were deleted like weird looking cumming animations. End game credits were added. Hollow Market offers a lot more stock, and restock weekly. Other traders were tweaked too."
+    new "There are countless other changes - ALL animations can be toggled ON/OFF in the settings, dozens of issues were fixed, no animation support was added to all animations that didn't have it, some animations were deleted like weird looking cumming animations. End game credits were added. Hollow Market offers a lot more stock, and restock weekly. Other traders were tweaked too."
+
