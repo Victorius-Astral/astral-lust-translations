@@ -4,7 +4,7 @@
 translate vietnamese w_booth_foxy_4261b2ea:
 
     # foxy "Hello [me_foxy]. [foxy] here, all yours."
-    foxy "Chào [me_foxy]. [foxy] đã ở đây rồi, tất cả là của [me_foxy] hết đấy."
+    foxy "Chào [me_foxy!t]. [foxy] đã ở đây rồi, tất cả là của [me_foxy!t] hết đấy."
 
 # game/places/wanderers/prostitutes/foxy.rpy:28
 translate vietnamese w_booth_foxy_7d6d797a:
@@ -16,13 +16,13 @@ translate vietnamese w_booth_foxy_7d6d797a:
 translate vietnamese w_booth_foxy_menu1_c9097cfc:
 
     # foxy "Of course, [me_foxy]."
-    foxy "Tất nhiên rồi [me_foxy]."
+    foxy "Tất nhiên rồi [me_foxy!t]."
 
 # game/places/wanderers/prostitutes/foxy.rpy:47
 translate vietnamese w_booth_foxy_menu1_00bf11c7:
 
     # foxy "Are you sure? You won't get refund."
-    foxy "[me_foxy] có chắc không? [me_foxy] sẽ không được hoàn tiền đâu đấy."
+    foxy "[me_foxy!t] có chắc không? [me_foxy!t] sẽ không được hoàn tiền đâu đấy."
 
 # game/places/wanderers/prostitutes/foxy.rpy:48
 translate vietnamese w_booth_foxy_menu1_3cdbfa0d:
@@ -52,13 +52,13 @@ translate vietnamese w_booth_foxy_menu1_d8549911:
 translate vietnamese w_booth_foxy_menu1_b7635f8a:
 
     # foxy "Thank you, [me_foxy]. Use me well."
-    foxy "Cảm ơn [me_foxy]. Hãy sử dụng em thật tốt nha."
+    foxy "Cảm ơn [me_foxy!t]. Hãy sử dụng em thật tốt nha."
 
 # game/places/wanderers/prostitutes/foxy.rpy:64
 translate vietnamese w_booth_foxy_end_0e39adeb:
 
     # foxy "Thank you for using my services, [me_foxy]. I hope you'll come to see me again."
-    foxy "Cảm ơn vì đã sử dụng dịch vụ của em. Mong là [me_foxy] sẽ đến gặp em sớm."
+    foxy "Cảm ơn vì đã sử dụng dịch vụ của em. Mong là [me_foxy!t] sẽ đến gặp em sớm."
 
 # game/places/wanderers/prostitutes/foxy.rpy:65
 translate vietnamese w_booth_foxy_end_01bfdddd:
@@ -70,7 +70,7 @@ translate vietnamese w_booth_foxy_end_01bfdddd:
 translate vietnamese w_booth_foxy_end_3bd8d6f9:
 
     # foxy "Bye, [me_foxy]."
-    foxy "Chào [me_foxy]."
+    foxy "Chào [me_foxy!t]."
 
 # game/places/wanderers/prostitutes/foxy.rpy:67
 translate vietnamese w_booth_foxy_end_27467ce7:
@@ -94,7 +94,7 @@ translate vietnamese w_booth_foxy_end_3c11807e:
 translate vietnamese w_booth_foxy_wall_d9792d98:
 
     # foxy "Here. Please, fuck me, [me_foxy]."
-    foxy "Đây này. Làm ơn hãy địt em đi [me_foxy]."
+    foxy "Đây này. Làm ơn hãy địt em đi [me_foxy!t]."
 
 # game/places/wanderers/prostitutes/foxy.rpy:80
 translate vietnamese w_booth_foxy_wall_aa93b10c:
@@ -178,7 +178,7 @@ translate vietnamese w_booth_foxy_wall_fast_67a36e53:
 translate vietnamese w_booth_foxy_wall_fast_65ac5d6a:
 
     # foxy "Your dick is so big, [me_foxy]!"
-    foxy "Hàng của [me_foxy] to quá!"
+    foxy "Hàng của [me_foxy!t] to quá!"
 
 # game/places/wanderers/prostitutes/foxy.rpy:139
 translate vietnamese w_booth_foxy_wall_fast_091c7edb:
@@ -244,7 +244,7 @@ translate vietnamese w_booth_foxy_wall_before_9486cb5f:
 translate vietnamese w_booth_foxy_wall_before_eb9b19fe:
 
     # foxy "Train me well, [me_foxy]."
-    foxy "Huấn luyện em tốt vào [me_foxy]."
+    foxy "Huấn luyện em tốt vào [me_foxy!t]."
 
 # game/places/wanderers/prostitutes/foxy.rpy:192
 translate vietnamese w_booth_foxy_wall_before2_b92cb8fe:
@@ -292,7 +292,7 @@ translate vietnamese w_booth_foxy_wall_before2_9486cb5f:
 translate vietnamese w_booth_foxy_wall_before2_eb9b19fe:
 
     # foxy "Train me well, [me_foxy]."
-    foxy "Hãy huấn luyện em tốt vào, [me_foxy]."
+    foxy "Hãy huấn luyện em tốt vào, [me_foxy!t]."
 
 # game/places/wanderers/prostitutes/foxy.rpy:220
 translate vietnamese w_booth_foxy_wall_cum_inside_166d9144:
@@ -346,7 +346,7 @@ translate vietnamese w_booth_foxy_wall_cum_inside_ebeb1b38:
 translate vietnamese w_booth_foxy_wall_cum_inside_fdbb0c0c:
 
     # foxy "Yeah, you're the best, [me_foxy]!"
-    foxy "[me_foxy] là tuyệt nhất đấy!"
+    foxy "[me_foxy!t] là tuyệt nhất đấy!"
 
 # game/places/wanderers/prostitutes/foxy.rpy:243
 translate vietnamese w_booth_foxy_wall_cum_outside_166d9144:
@@ -382,13 +382,13 @@ translate vietnamese w_booth_foxy_wall_cum_outside_ebeb1b38:
 translate vietnamese w_booth_foxy_wall_cum_outside_fdbb0c0c:
 
     # foxy "Yeah, you're the best, [me_foxy]!"
-    foxy "Yeah, [me_foxy] là tuyệt nhất đấy!"
+    foxy "Yeah, [me_foxy!t] là tuyệt nhất đấy!"
 
 # game/places/wanderers/prostitutes/foxy.rpy:266
 translate vietnamese w_booth_foxy_cowgirl_2a9bba86:
 
     # foxy "I do three hundred squats everyday, are you ready to see the results, [me_foxy]?"
-    foxy "Em squat 300 lần mỗi ngày đấy, [me_foxy] đã sãn sàng thấy thành quả chưa?"
+    foxy "Em squat 300 lần mỗi ngày đấy, [me_foxy!t] đã sãn sàng thấy thành quả chưa?"
 
 # game/places/wanderers/prostitutes/foxy.rpy:267
 translate vietnamese w_booth_foxy_cowgirl_ee3f4f03:
@@ -424,7 +424,7 @@ translate vietnamese w_booth_foxy_cowgirl_slow_441e234c:
 translate vietnamese w_booth_foxy_cowgirl_slow_004e7ce8:
 
     # foxy "Thank you, [me_foxy]."
-    foxy "Cảm ơn [me_foxy]."
+    foxy "Cảm ơn [me_foxy!t]."
 
 # game/places/wanderers/prostitutes/foxy.rpy:283
 translate vietnamese w_booth_foxy_cowgirl_slow_020eb3e8:
@@ -436,7 +436,7 @@ translate vietnamese w_booth_foxy_cowgirl_slow_020eb3e8:
 translate vietnamese w_booth_foxy_cowgirl_slow_cb29bbd3:
 
     # foxy "Mmmnn~ Thank you, [me_foxy]."
-    foxy "Mmmnn~ Cảm ơn [me_foxy]."
+    foxy "Mmmnn~ Cảm ơn [me_foxy!t]."
 
 # game/places/wanderers/prostitutes/foxy.rpy:303
 translate vietnamese w_booth_foxy_cowgirl_slow2_107fce3d:
@@ -460,7 +460,7 @@ translate vietnamese w_booth_foxy_cowgirl_slow2_441e234c:
 translate vietnamese w_booth_foxy_cowgirl_slow2_004e7ce8:
 
     # foxy "Thank you, [me_foxy]."
-    foxy "Cảm ơn [me_foxy]."
+    foxy "Cảm ơn [me_foxy!t]."
 
 # game/places/wanderers/prostitutes/foxy.rpy:307
 translate vietnamese w_booth_foxy_cowgirl_slow2_020eb3e8:
@@ -472,7 +472,7 @@ translate vietnamese w_booth_foxy_cowgirl_slow2_020eb3e8:
 translate vietnamese w_booth_foxy_cowgirl_slow2_cb29bbd3:
 
     # foxy "Mmmnn~ Thank you, [me_foxy]."
-    foxy "Mmmnn~ Cảm ơn [me_foxy]."
+    foxy "Mmmnn~ Cảm ơn [me_foxy!t]."
 
 # game/places/wanderers/prostitutes/foxy.rpy:327
 translate vietnamese w_booth_foxy_cowgirl_slow3_107fce3d:
@@ -496,7 +496,7 @@ translate vietnamese w_booth_foxy_cowgirl_slow3_974d5461:
 translate vietnamese w_booth_foxy_cowgirl_slow3_004e7ce8:
 
     # foxy "Thank you, [me_foxy]."
-    foxy "Cảm ơn [me_foxy]."
+    foxy "Cảm ơn [me_foxy!t]."
 
 # game/places/wanderers/prostitutes/foxy.rpy:331
 translate vietnamese w_booth_foxy_cowgirl_slow3_020eb3e8:
@@ -508,7 +508,7 @@ translate vietnamese w_booth_foxy_cowgirl_slow3_020eb3e8:
 translate vietnamese w_booth_foxy_cowgirl_slow3_cb29bbd3:
 
     # foxy "Mmmnn~ Thank you, [me_foxy]."
-    foxy "Mmmnn~ Cảm ơn [me_foxy]."
+    foxy "Mmmnn~ Cảm ơn [me_foxy!t]."
 
 # game/places/wanderers/prostitutes/foxy.rpy:351
 translate vietnamese w_booth_foxy_cowgirl_slow4_107fce3d:
@@ -532,7 +532,7 @@ translate vietnamese w_booth_foxy_cowgirl_slow4_974d5461:
 translate vietnamese w_booth_foxy_cowgirl_slow4_004e7ce8:
 
     # foxy "Thank you, [me_foxy]."
-    foxy "Cảm ơn [me_foxy]."
+    foxy "Cảm ơn [me_foxy!t]."
 
 # game/places/wanderers/prostitutes/foxy.rpy:355
 translate vietnamese w_booth_foxy_cowgirl_slow4_020eb3e8:
@@ -544,13 +544,13 @@ translate vietnamese w_booth_foxy_cowgirl_slow4_020eb3e8:
 translate vietnamese w_booth_foxy_cowgirl_slow4_cb29bbd3:
 
     # foxy "Mmmnn~ Thank you, [me_foxy]."
-    foxy "Mmmnn~ Cảm ơn [me_foxy]."
+    foxy "Mmmnn~ Cảm ơn [me_foxy!t]."
 
 # game/places/wanderers/prostitutes/foxy.rpy:375
 translate vietnamese w_booth_foxy_cowgirl_fast_9bf9092c:
 
     # foxy "Your dick is super huge, [me_foxy]! I love it!"
-    foxy "Con cặc của [me_foxy] thật là lớn quá! Em thích lắm!"
+    foxy "Con cặc của [me_foxy!t] thật là lớn quá! Em thích lắm!"
 
 # game/places/wanderers/prostitutes/foxy.rpy:376
 translate vietnamese w_booth_foxy_cowgirl_fast_72c98293:
@@ -562,7 +562,7 @@ translate vietnamese w_booth_foxy_cowgirl_fast_72c98293:
 translate vietnamese w_booth_foxy_cowgirl_fast_0ae7c5b6:
 
     # foxy "It is. I'll make sure to be the best lover you've ever had."
-    foxy "Em đảm bảo sẽ là người tình tuyệt vời nhất mà [me_foxy] từng có."
+    foxy "Em đảm bảo sẽ là người tình tuyệt vời nhất mà [me_foxy!t] từng có."
 
 # game/places/wanderers/prostitutes/foxy.rpy:378
 translate vietnamese w_booth_foxy_cowgirl_fast_5faa4fbe:
@@ -574,7 +574,7 @@ translate vietnamese w_booth_foxy_cowgirl_fast_5faa4fbe:
 translate vietnamese w_booth_foxy_cowgirl_fast_fe020d98:
 
     # foxy "Mnnn. I train everyday, I'm always energetic, stretched, and fit. All for your enjoyment, [me_foxy]."
-    foxy "Mnnn. Em tập luyện hàng ngày, em luôn tràn đầy năng lượng, căng và khỏe. Tất cả là vì trải nghiêm của [me_foxy] đấy."
+    foxy "Mnnn. Em tập luyện hàng ngày, em luôn tràn đầy năng lượng, căng và khỏe. Tất cả là vì trải nghiêm của [me_foxy!t] đấy."
 
 # game/places/wanderers/prostitutes/foxy.rpy:380
 translate vietnamese w_booth_foxy_cowgirl_fast_da3776c0:
@@ -604,7 +604,7 @@ translate vietnamese w_booth_foxy_cowgirl_fast_8127c431:
 translate vietnamese w_booth_foxy_cowgirl_fast2_908fa5f9:
 
     # foxy "Your dick is super big, [me_foxy]! I love it!"
-    foxy "Con cặc của [me_foxy] thật to quá! Em thích lắm!"
+    foxy "Con cặc của [me_foxy!t] thật to quá! Em thích lắm!"
 
 # game/places/wanderers/prostitutes/foxy.rpy:406
 translate vietnamese w_booth_foxy_cowgirl_fast2_72c98293:
@@ -628,7 +628,7 @@ translate vietnamese w_booth_foxy_cowgirl_fast2_5faa4fbe:
 translate vietnamese w_booth_foxy_cowgirl_fast2_fe020d98:
 
     # foxy "Mnnn. I train everyday, I'm always energetic, stretched, and fit. All for your enjoyment, [me_foxy]."
-    foxy "Mnnn. Em tập luyện hàng ngày, luôn tràn đầy năng lượng, căng và khỏe. Tất cả là vì trải ngiệm của [me_foxy] đấy."
+    foxy "Mnnn. Em tập luyện hàng ngày, luôn tràn đầy năng lượng, căng và khỏe. Tất cả là vì trải ngiệm của [me_foxy!t] đấy."
 
 # game/places/wanderers/prostitutes/foxy.rpy:410
 translate vietnamese w_booth_foxy_cowgirl_fast2_da3776c0:
@@ -658,7 +658,7 @@ translate vietnamese w_booth_foxy_cowgirl_fast2_8127c431:
 translate vietnamese w_booth_foxy_cowgirl_fast3_908fa5f9:
 
     # foxy "Your dick is super big, [me_foxy]! I love it!"
-    foxy "Cặc của [me_foxy] lớn quá! Em thích lắm!"
+    foxy "Cặc của [me_foxy!t] lớn quá! Em thích lắm!"
 
 # game/places/wanderers/prostitutes/foxy.rpy:436
 translate vietnamese w_booth_foxy_cowgirl_fast3_72c98293:
@@ -670,7 +670,7 @@ translate vietnamese w_booth_foxy_cowgirl_fast3_72c98293:
 translate vietnamese w_booth_foxy_cowgirl_fast3_0ae7c5b6:
 
     # foxy "It is. I'll make sure to be the best lover you've ever had."
-    foxy "Em đảm bảo sẽ là người tình tuyệt vời nhất mà [me_foxy] từng có đấy."
+    foxy "Em đảm bảo sẽ là người tình tuyệt vời nhất mà [me_foxy!t] từng có đấy."
 
 # game/places/wanderers/prostitutes/foxy.rpy:438
 translate vietnamese w_booth_foxy_cowgirl_fast3_5faa4fbe:
@@ -682,7 +682,7 @@ translate vietnamese w_booth_foxy_cowgirl_fast3_5faa4fbe:
 translate vietnamese w_booth_foxy_cowgirl_fast3_fe020d98:
 
     # foxy "Mnnn. I train everyday, I'm always energetic, stretched, and fit. All for your enjoyment, [me_foxy]."
-    foxy "Mnnn. Em tập luyện hàng ngày, luôn tràn đầy năng lượng, căng và khỏe. Tất cả là để anh tận hưởng đấy [me_foxy]."
+    foxy "Mnnn. Em tập luyện hàng ngày, luôn tràn đầy năng lượng, căng và khỏe. Tất cả là để anh tận hưởng đấy [me_foxy!t]."
 
 # game/places/wanderers/prostitutes/foxy.rpy:440
 translate vietnamese w_booth_foxy_cowgirl_fast3_da3776c0:
@@ -718,13 +718,13 @@ translate vietnamese w_booth_foxy_cowgirl_before_cc1d78bf:
 translate vietnamese w_booth_foxy_cowgirl_before_d202145f:
 
     # foxy "I can't wait for you to fill me, [me_foxy]!"
-    foxy "Em không thể đợi đến lúc [me_foxy] lấp đầy em được!"
+    foxy "Em không thể đợi đến lúc [me_foxy!t] lấp đầy em được!"
 
 # game/places/wanderers/prostitutes/foxy.rpy:467
 translate vietnamese w_booth_foxy_cowgirl_before_bfdca970:
 
     # foxy "I dream of you filling me with your hot cum."
-    foxy "Em mơ thấy [me_foxy] lấp đầy em bằng thứ tinh dịch nóng hổi của [me_foxy] đấy."
+    foxy "Em mơ thấy [me_foxy!t] lấp đầy em bằng thứ tinh dịch nóng hổi của [me_foxy!t] đấy."
 
 # game/places/wanderers/prostitutes/foxy.rpy:468
 translate vietnamese w_booth_foxy_cowgirl_before_9acef892:
@@ -736,7 +736,7 @@ translate vietnamese w_booth_foxy_cowgirl_before_9acef892:
 translate vietnamese w_booth_foxy_cowgirl_before_15948ee3:
 
     # foxy "Fill me! Make me your bitch, your little horny slut."
-    foxy "Lấp đầy em đi! Hãy biến em thành con điếm của [me_foxy] đi."
+    foxy "Lấp đầy em đi! Hãy biến em thành con điếm của [me_foxy!t] đi."
 
 # game/places/wanderers/prostitutes/foxy.rpy:470
 translate vietnamese w_booth_foxy_cowgirl_before_f8c43f22:
@@ -766,13 +766,13 @@ translate vietnamese w_booth_foxy_cowgirl_before2_cc1d78bf:
 translate vietnamese w_booth_foxy_cowgirl_before2_d202145f:
 
     # foxy "I can't wait for you to fill me, [me_foxy]!"
-    foxy "Không thể đợi đến lúc [me_foxy] lấp đầy em được!"
+    foxy "Không thể đợi đến lúc [me_foxy!t] lấp đầy em được!"
 
 # game/places/wanderers/prostitutes/foxy.rpy:496
 translate vietnamese w_booth_foxy_cowgirl_before2_bfdca970:
 
     # foxy "I dream of you filling me with your hot cum."
-    foxy "Em mơ thấy [me_foxy] lấp đầy em với tinh dịch nóng hổi của [me_foxy] đấy."
+    foxy "Em mơ thấy [me_foxy!t] lấp đầy em với tinh dịch nóng hổi của [me_foxy!t] đấy."
 
 # game/places/wanderers/prostitutes/foxy.rpy:497
 translate vietnamese w_booth_foxy_cowgirl_before2_9acef892:
@@ -784,7 +784,7 @@ translate vietnamese w_booth_foxy_cowgirl_before2_9acef892:
 translate vietnamese w_booth_foxy_cowgirl_before2_15948ee3:
 
     # foxy "Fill me! Make me your bitch, your little horny slut."
-    foxy "Lấp đầy em đi! Hãy biến em thành con điếm của [me_foxy] đi."
+    foxy "Lấp đầy em đi! Hãy biến em thành con điếm của [me_foxy!t] đi."
 
 # game/places/wanderers/prostitutes/foxy.rpy:499
 translate vietnamese w_booth_foxy_cowgirl_before2_f8c43f22:
@@ -850,7 +850,7 @@ translate vietnamese w_booth_foxy_cowgirl_cum_db552996:
 translate vietnamese w_booth_foxy_cowgirl_cum_f9110edd:
 
     # foxy "That was amazing, [me_foxy]. You are incredible."
-    foxy "[me_foxy] tuyệt lắm. [me_foxy] thật là phi thường mà."
+    foxy "[me_foxy!t] tuyệt lắm. [me_foxy!t] thật là phi thường mà."
 
 # game/places/wanderers/prostitutes/foxy.rpy:538
 translate vietnamese w_booth_foxy_cowgirl_cum_6eca9945:
@@ -862,7 +862,7 @@ translate vietnamese w_booth_foxy_cowgirl_cum_6eca9945:
 translate vietnamese w_booth_foxy_cowgirl_cum_90756a1d:
 
     # foxy "Go on, [me_foxy]. I love compliments."
-    foxy "Vậy nói đi [me_foxy]. Em thích được khen lắm."
+    foxy "Vậy nói đi [me_foxy!t]. Em thích được khen lắm."
 
 # game/places/wanderers/prostitutes/foxy.rpy:540
 translate vietnamese w_booth_foxy_cowgirl_cum_2df43c36:

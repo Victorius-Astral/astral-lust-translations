@@ -46,13 +46,13 @@ translate vietnamese discover_wanderers_part2_f4807aa2:
 translate vietnamese discover_wanderers_win_acfe05be:
 
     # u_governor "Hah. You're not bad my friend."
-    u_governor "Hah. không tệ, bạn của tôi."
+    u_governor "Hah. không tệ đâu, bạn của tôi."
 
 # game/places/wanderers/discover.rpy:42
 translate vietnamese discover_wanderers_win_109d9d71:
 
     # me "You are not too bad yourself."
-    me "Bản thân ông cũng không quá tệ đâu."
+    me "Ông cũng không tệ đâu."
 
 # game/places/wanderers/discover.rpy:43
 translate vietnamese discover_wanderers_win_d839f1bd:
@@ -76,7 +76,7 @@ translate vietnamese discover_wanderers_win_3219fc3c:
 translate vietnamese discover_wanderers_win_2529f3eb:
 
     # me "Oh, shit. Alright, after you!"
-    me "Oh, định mệnh. Được rồi, ngay sau ông!"
+    me "Oh, shit. Được rồi, ngay sau ông!"
 
 # game/places/wanderers/discover.rpy:49
 translate vietnamese discover_wanderers_win_e7938e38:
@@ -112,7 +112,7 @@ translate vietnamese discover_wanderers_win_c89f3dc6:
 translate vietnamese discover_wanderers_win_a721d6b4:
 
     # u_governor "We call it Abaddon! Don't worry, it won't pursue us for long. It also fears the night."
-    u_governor "Bọn tôi gọi nó là Abaddon! Đừng lo lắng, nó sẽ không theo đuổi chúng ta lâu đâu. Nó cũng sợ ban đêm."
+    u_governor "Bọn tôi gọi nó là Quỷ âm phủ! Đừng lo, nó sẽ không theo đuổi chúng ta lâu đâu. Nó cũng sợ ban đêm."
 
 # game/places/wanderers/discover.rpy:63
 translate vietnamese discover_wanderers_win_28eb48a0:
@@ -124,7 +124,7 @@ translate vietnamese discover_wanderers_win_28eb48a0:
 translate vietnamese discover_wanderers_win_4cd32798:
 
     # u_governor "Time is tight. Don't talk, run!"
-    u_governor "Thời gian eo hẹp. Đừng nói chuyện, chạy đi!"
+    u_governor "Thời gian rất eo hẹp. Đừng nói nữa, chạy đi!"
 
 # game/places/wanderers/discover.rpy:71
 translate vietnamese discover_wanderers_win_a58e9d67:

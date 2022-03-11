@@ -24,5 +24,4 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/grace.rpy:22
     old "Nicknames: Gracie"
-    new "Nicknames: Gracie"
-
+    new "Biệt danh: Gracie"

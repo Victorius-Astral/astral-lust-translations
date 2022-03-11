@@ -4,19 +4,19 @@
 translate vietnamese w_booth_sukki_76995093:
 
     # sukki "Welcome home, [me_sukki]."
-    sukki "Mừng [me_sukki] về nhà."
+    sukki "Mừng [me_sukki!t] về nhà."
 
 # game/places/wanderers/prostitutes/sukki.rpy:34
 translate vietnamese w_booth_sukki_f9d3052c:
 
     # me "Daddy's home."
-    me "[me_sukki] về rồi đây."
+    me "[me_sukki!t] về rồi đây."
 
 # game/places/wanderers/prostitutes/sukki.rpy:48
 translate vietnamese w_booth_sukki_menu1_5483674f:
 
     # sukki "[sukki] will remember, [me_sukki]. Say, am I being a good girl?"
-    sukki "[sukki] sẽ nhớ lấy, [me_sukki]. Và hãy tả lời thật lòng nè, [sukki] có phải là một cô bé ngoan không?"
+    sukki "[sukki] sẽ nhớ lấy, [me_sukki!t]. Và hãy tả lời thật lòng nè, [sukki] có phải là một cô bé ngoan không?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:49
 translate vietnamese w_booth_sukki_menu1_900895d9:
@@ -28,7 +28,7 @@ translate vietnamese w_booth_sukki_menu1_900895d9:
 translate vietnamese w_booth_sukki_menu1_25b5632c:
 
     # sukki "You won't get refund, [me_sukki]."
-    sukki "[me_sukki] sẽ không đợc hoàn tiền đâu."
+    sukki "[me_sukki!t] sẽ không đợc hoàn tiền đâu."
 
 # game/places/wanderers/prostitutes/sukki.rpy:55
 translate vietnamese w_booth_sukki_menu1_3cdbfa0d:
@@ -52,13 +52,13 @@ translate vietnamese w_booth_sukki_menu1_8c94b495:
 translate vietnamese w_booth_sukki_menu1_73684ace:
 
     # sukki "Come see me again, [me_sukki]. I'll be waiting for you."
-    sukki "Hãy ghé lại lần nữa nha [me_sukki]. Em sẽ đợi."
+    sukki "Hãy ghé lại lần nữa nha [me_sukki!t]. Em sẽ đợi."
 
 # game/places/wanderers/prostitutes/sukki.rpy:67
 translate vietnamese w_booth_sukki_menu1_4a4bd359:
 
     # sukki "Thank you. Don't ever leave me, [me_sukki]."
-    sukki "Cảm ơn [me_sukki]. Đừng bao giờ bỏ em đấy nha [me_sukki]."
+    sukki "Cảm ơn [me_sukki!t]. Đừng bao giờ bỏ em đấy nha [me_sukki!t]."
 
 # game/places/wanderers/prostitutes/sukki.rpy:77
 translate vietnamese w_booth_sukki_end_ea0e858a:
@@ -88,7 +88,7 @@ translate vietnamese w_booth_sukki_end_3c11807e:
 translate vietnamese w_booth_sukki_lift_02da1272:
 
     # sukki "Can I ask a favor, [me_sukki]?"
-    sukki "Em có thể yêu cầu [me_sukki] một ân huệ được không?"
+    sukki "Em có thể yêu cầu [me_sukki!t] một ân huệ được không?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:91
 translate vietnamese w_booth_sukki_lift_de326baa:
@@ -106,7 +106,7 @@ translate vietnamese w_booth_sukki_lift_e16d61c2:
 translate vietnamese w_booth_sukki_lift_b9f09524:
 
     # me "How could [me_sukki] refuse?"
-    me "Làm sao mà [me_sukki] có thể từ chối được chứ?"
+    me "Làm sao mà [me_sukki!t] có thể từ chối được chứ?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:94
 translate vietnamese w_booth_sukki_lift_6515ddaa:
@@ -118,7 +118,7 @@ translate vietnamese w_booth_sukki_lift_6515ddaa:
 translate vietnamese w_booth_sukki_lift_slow_05a45bcb:
 
     # sukki "Mmmm, [me_sukki]~"
-    sukki "Mmmm, [me_sukki]~"
+    sukki "Mmmm, [me_sukki!t]~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:105
 translate vietnamese w_booth_sukki_lift_slow_ed092077:
@@ -130,7 +130,7 @@ translate vietnamese w_booth_sukki_lift_slow_ed092077:
 translate vietnamese w_booth_sukki_lift_slow_aee201cc:
 
     # sukki "Haaa... [sukki]'s pussy loves [me_sukki]'s cock~"
-    sukki "Haaa... Lồn của [sukki] yêu con cặc của [me_sukki] rất nhiều~"
+    sukki "Haaa... Lồn của [sukki] yêu con cặc của [me_sukki!t] rất nhiều~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:107
 translate vietnamese w_booth_sukki_lift_slow_22543b2d:
@@ -160,7 +160,7 @@ translate vietnamese w_booth_sukki_lift_slow_4de736b3:
 translate vietnamese w_booth_sukki_lift_slow2_05a45bcb:
 
     # sukki "Mmmm, [me_sukki]~"
-    sukki "Mmmm, [me_sukki]~"
+    sukki "Mmmm, [me_sukki!t]~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:130
 translate vietnamese w_booth_sukki_lift_slow2_ed092077:
@@ -172,7 +172,7 @@ translate vietnamese w_booth_sukki_lift_slow2_ed092077:
 translate vietnamese w_booth_sukki_lift_slow2_aee201cc:
 
     # sukki "Haaa... [sukki]'s pussy loves [me_sukki]'s cock~"
-    sukki "Haaa... Lồn của [sukki] yêu con cặc của [me_sukki] rất nhiều~"
+    sukki "Haaa... Lồn của [sukki] yêu con cặc của [me_sukki!t] rất nhiều~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:132
 translate vietnamese w_booth_sukki_lift_slow2_22543b2d:
@@ -202,7 +202,7 @@ translate vietnamese w_booth_sukki_lift_slow2_4de736b3:
 translate vietnamese w_booth_sukki_lift_slow3_05a45bcb:
 
     # sukki "Mmmm, [me_sukki]~"
-    sukki "Mmmm, [me_sukki]~"
+    sukki "Mmmm, [me_sukki!t]~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:155
 translate vietnamese w_booth_sukki_lift_slow3_ed092077:
@@ -214,7 +214,7 @@ translate vietnamese w_booth_sukki_lift_slow3_ed092077:
 translate vietnamese w_booth_sukki_lift_slow3_aee201cc:
 
     # sukki "Haaa... [sukki]'s pussy loves [me_sukki]'s cock~"
-    sukki "Haaa... Lồn của [sukki] yêu con cặc của [me_sukki] rất nhiều~"
+    sukki "Haaa... Lồn của [sukki] yêu con cặc của [me_sukki!t] rất nhiều~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:157
 translate vietnamese w_booth_sukki_lift_slow3_22543b2d:
@@ -244,7 +244,7 @@ translate vietnamese w_booth_sukki_lift_slow3_4de736b3:
 translate vietnamese w_booth_sukki_lift_slow4_05a45bcb:
 
     # sukki "Mmmm, [me_sukki]~"
-    sukki "Mmmm, [me_sukki]~"
+    sukki "Mmmm, [me_sukki!t]~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:180
 translate vietnamese w_booth_sukki_lift_slow4_ed092077:
@@ -256,7 +256,7 @@ translate vietnamese w_booth_sukki_lift_slow4_ed092077:
 translate vietnamese w_booth_sukki_lift_slow4_aee201cc:
 
     # sukki "Haaa... [sukki]'s pussy loves [me_sukki]'s cock~"
-    sukki "Haaa...  Lồn của [sukki] yêu con cặc của [me_sukki] rất nhiều~"
+    sukki "Haaa...  Lồn của [sukki] yêu con cặc của [me_sukki!t] rất nhiều~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:182
 translate vietnamese w_booth_sukki_lift_slow4_22543b2d:
@@ -310,7 +310,7 @@ translate vietnamese w_booth_sukki_lift_fast_9f3d19bf:
 translate vietnamese w_booth_sukki_lift_fast_6eb15f24:
 
     # sukki "Ohhh! My pussy is in love, [me_sukki]!"
-    sukki "Ohhh! Cái lồn của em biết yêu rồi [me_sukki]!"
+    sukki "Ohhh! Cái lồn của em biết yêu rồi [me_sukki!t]!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:230
 translate vietnamese w_booth_sukki_lift_fast2_166d9144:
@@ -340,7 +340,7 @@ translate vietnamese w_booth_sukki_lift_fast2_9f3d19bf:
 translate vietnamese w_booth_sukki_lift_fast2_6eb15f24:
 
     # sukki "Ohhh! My pussy is in love, [me_sukki]!"
-    sukki "Ohhh! Cái lồn của em biết yêu rồi [me_sukki]!"
+    sukki "Ohhh! Cái lồn của em biết yêu rồi [me_sukki!t]!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:256
 translate vietnamese w_booth_sukki_lift_fast3_166d9144:
@@ -370,7 +370,7 @@ translate vietnamese w_booth_sukki_lift_fast3_9f3d19bf:
 translate vietnamese w_booth_sukki_lift_fast3_6eb15f24:
 
     # sukki "Ohhh! My pussy is in love, [me_sukki]!"
-    sukki "Ohhh! Cái lồn của em biết yêu rồi [me_sukki]!"
+    sukki "Ohhh! Cái lồn của em biết yêu rồi [me_sukki!t]!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:282
 translate vietnamese w_booth_sukki_lift_before_46bfd397:
@@ -406,13 +406,13 @@ translate vietnamese w_booth_sukki_lift_before_d50856e9:
 translate vietnamese w_booth_sukki_lift_before_8c013449:
 
     # sukki "She thanks you too, [me_sukki]~"
-    sukki "Em ấy cũng cảm ơn [me_sukki] nữa~"
+    sukki "Em ấy cũng cảm ơn [me_sukki!t] nữa~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:288
 translate vietnamese w_booth_sukki_lift_before_415fec28:
 
     # sukki "Oh, it also wants you to fill it with your seed, [me_sukki]~"
-    sukki "Oh, nó cũng muốn [me_sukki] lấp đầy nó bằng hạt giống của [me_sukki] đấy~"
+    sukki "Oh, nó cũng muốn [me_sukki!t] lấp đầy nó bằng hạt giống của [me_sukki!t] đấy~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:289
 translate vietnamese w_booth_sukki_lift_before_ebbd7a26:
@@ -466,13 +466,13 @@ translate vietnamese w_booth_sukki_lift_before2_d50856e9:
 translate vietnamese w_booth_sukki_lift_before2_8c013449:
 
     # sukki "She thanks you too, [me_sukki]~"
-    sukki "Em ấy cũng muốn cảm ơn [me_sukki] nữa~"
+    sukki "Em ấy cũng muốn cảm ơn [me_sukki!t] nữa~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:322
 translate vietnamese w_booth_sukki_lift_before2_415fec28:
 
     # sukki "Oh, it also wants you to fill it with your seed, [me_sukki]~"
-    sukki "Oh, nó cũng muốn [me_sukki] lấp đầy nó bằng hạt giống của [me_sukki] đấy~"
+    sukki "Oh, nó cũng muốn [me_sukki!t] lấp đầy nó bằng hạt giống của [me_sukki!t] đấy~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:323
 translate vietnamese w_booth_sukki_lift_before2_ebbd7a26:
@@ -526,13 +526,13 @@ translate vietnamese w_booth_sukki_lift_before3_d50856e9:
 translate vietnamese w_booth_sukki_lift_before3_8c013449:
 
     # sukki "She thanks you too, [me_sukki]~"
-    sukki "Em ấy cũng muốn cảm ơn [me_sukki] nữa~"
+    sukki "Em ấy cũng muốn cảm ơn [me_sukki!t] nữa~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:356
 translate vietnamese w_booth_sukki_lift_before3_415fec28:
 
     # sukki "Oh, it also wants you to fill it with your seed, [me_sukki]~"
-    sukki "Oh, nó cũng muốn [me_sukki] lấp đầy nó với hạt giống của [me_sukki] nữa~"
+    sukki "Oh, nó cũng muốn [me_sukki!t] lấp đầy nó với hạt giống của [me_sukki!t] nữa~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:357
 translate vietnamese w_booth_sukki_lift_before3_ebbd7a26:
@@ -586,13 +586,13 @@ translate vietnamese w_booth_sukki_lift_inside_cdb2cc2f:
 translate vietnamese w_booth_sukki_lift_inside_6da58893:
 
     # sukki "She is, thank you, [me_sukki]."
-    sukki "Em ấy rất biêt ơn [me_sukki] đấy."
+    sukki "Em ấy rất biêt ơn [me_sukki!t] đấy."
 
 # game/places/wanderers/prostitutes/sukki.rpy:395
 translate vietnamese w_booth_sukki_lift_inside_16511b57:
 
     # sukki "I would love to play with you again, [me_sukki], but Madam Hof would be angry..."
-    sukki "Em rất muốn chơi với [me_sukki] lần nữa, nhưng Madam Hof sẽ không hài lòng đâu..."
+    sukki "Em rất muốn chơi với [me_sukki!t] lần nữa, nhưng Madam Hof sẽ không hài lòng đâu..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:396
 translate vietnamese w_booth_sukki_lift_inside_7ca09d1c:
@@ -610,7 +610,7 @@ translate vietnamese w_booth_sukki_lift_inside_0ccf9ea3:
 translate vietnamese w_booth_sukki_lift_inside_03efbf8e:
 
     # sukki "Please come again, [sukki] will be waiting for you!"
-    sukki "Hãy quay lại nha, [sukki] sẽ đợi  [me_sukki]!"
+    sukki "Hãy quay lại nha, [sukki] sẽ đợi  [me_sukki!t]!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:399
 translate vietnamese w_booth_sukki_lift_inside_bde7073e:
@@ -658,7 +658,7 @@ translate vietnamese w_booth_sukki_lift_outside_d856b86f:
 translate vietnamese w_booth_sukki_lift_outside_4df644cf:
 
     # sukki "Oh, I got dirty, it seems [me_sukki] likes [sukki] a lot!"
-    sukki "Oh, em bị bẩn hết rồi, có vẻ như [me_sukki] thích [sukki] rất nhiều đấy!"
+    sukki "Oh, em bị bẩn hết rồi, có vẻ như [me_sukki!t] thích [sukki] rất nhiều đấy!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:416
 translate vietnamese w_booth_sukki_lift_outside_90b6d89c:
@@ -670,7 +670,7 @@ translate vietnamese w_booth_sukki_lift_outside_90b6d89c:
 translate vietnamese w_booth_sukki_lift_outside_0fdce16f:
 
     # sukki "Thank you, [me_sukki]! My pussy is sad you didn't fill it, though."
-    sukki "Cảm ơn [me_sukki]! Nhưng âm hộ của em sẽ rất buồn nếu anh không lấp đầy nó đấy."
+    sukki "Cảm ơn [me_sukki!t]! Nhưng âm hộ của em sẽ rất buồn nếu anh không lấp đầy nó đấy."
 
 # game/places/wanderers/prostitutes/sukki.rpy:418
 translate vietnamese w_booth_sukki_lift_outside_e29f5996:
@@ -688,7 +688,7 @@ translate vietnamese w_booth_sukki_lift_outside_feb827e3:
 translate vietnamese w_booth_sukki_lift_outside_16511b57:
 
     # sukki "I would love to play with you again, [me_sukki], but Madam Hof would be angry..."
-    sukki "Em sẽ rất thích chơi với [me_sukki] nữa đấy, nhưng Madam Hof sẽ không hài lòng đâu..."
+    sukki "Em sẽ rất thích chơi với [me_sukki!t] nữa đấy, nhưng Madam Hof sẽ không hài lòng đâu..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:429
 translate vietnamese w_booth_sukki_lift_outside_7ca09d1c:
@@ -706,7 +706,7 @@ translate vietnamese w_booth_sukki_lift_outside_0ccf9ea3:
 translate vietnamese w_booth_sukki_lift_outside_03efbf8e:
 
     # sukki "Please come again, [sukki] will be waiting for you!"
-    sukki "Hãy quay lại nha, [sukki] sẽ đợi  [me_sukki]!"
+    sukki "Hãy quay lại nha, [sukki] sẽ đợi  [me_sukki!t]!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:432
 translate vietnamese w_booth_sukki_lift_outside_bde7073e:
@@ -736,7 +736,7 @@ translate vietnamese w_booth_sukki_thigh_380609f7:
 translate vietnamese w_booth_sukki_thigh_da6e0128:
 
     # sukki "How impatient... [sukki] likes impatient [me_sukki]s."
-    sukki "Thật thiếu kiên nhẫn... nhưng [sukki] thích [me_sukki] thiếu kiên nhẫn."
+    sukki "Thật thiếu kiên nhẫn... nhưng [sukki] thích [me_sukki!t] thiếu kiên nhẫn."
 
 # game/places/wanderers/prostitutes/sukki.rpy:461
 translate vietnamese w_booth_sukki_thigh_slow_9eb4b0f2:
@@ -754,7 +754,7 @@ translate vietnamese w_booth_sukki_thigh_slow_dae9d3f1:
 translate vietnamese w_booth_sukki_thigh_slow_c58fd2cf:
 
     # sukki "Hehe~ Thank you, [me_sukki]!"
-    sukki "Hehe~ Cảm ơn [me_sukki]!"
+    sukki "Hehe~ Cảm ơn [me_sukki!t]!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:464
 translate vietnamese w_booth_sukki_thigh_slow_c4261cf4:
@@ -772,7 +772,7 @@ translate vietnamese w_booth_sukki_thigh_slow_adf8bc37:
 translate vietnamese w_booth_sukki_thigh_slow_5f71c766:
 
     # sukki "[sukki]'ll always make [me_sukki]'s day amazing~"
-    sukki "[sukki] sẽ luôn làm cho ngày của [me_sukki] trở nên tốt hơn~"
+    sukki "[sukki] sẽ luôn làm cho ngày của [me_sukki!t] trở nên tốt hơn~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:485
 translate vietnamese w_booth_sukki_thigh_slow2_9eb4b0f2:
@@ -790,7 +790,7 @@ translate vietnamese w_booth_sukki_thigh_slow2_dae9d3f1:
 translate vietnamese w_booth_sukki_thigh_slow2_c58fd2cf:
 
     # sukki "Hehe~ Thank you, [me_sukki]!"
-    sukki "Hehe~ Cảm ơn [me_sukki]!"
+    sukki "Hehe~ Cảm ơn [me_sukki!t]!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:488
 translate vietnamese w_booth_sukki_thigh_slow2_c4261cf4:
@@ -808,7 +808,7 @@ translate vietnamese w_booth_sukki_thigh_slow2_adf8bc37:
 translate vietnamese w_booth_sukki_thigh_slow2_5f71c766:
 
     # sukki "[sukki]'ll always make [me_sukki]'s day amazing~"
-    sukki "[sukki] sẽ luôn làm cho ngày của [me_sukki] trở nên tốt hơn~"
+    sukki "[sukki] sẽ luôn làm cho ngày của [me_sukki!t] trở nên tốt hơn~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:509
 translate vietnamese w_booth_sukki_thigh_slow3_9eb4b0f2:
@@ -826,7 +826,7 @@ translate vietnamese w_booth_sukki_thigh_slow3_dae9d3f1:
 translate vietnamese w_booth_sukki_thigh_slow3_c58fd2cf:
 
     # sukki "Hehe~ Thank you, [me_sukki]!"
-    sukki "Hehe~ Cảm ơn [me_sukki]!"
+    sukki "Hehe~ Cảm ơn [me_sukki!t]!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:512
 translate vietnamese w_booth_sukki_thigh_slow3_c4261cf4:
@@ -844,13 +844,13 @@ translate vietnamese w_booth_sukki_thigh_slow3_adf8bc37:
 translate vietnamese w_booth_sukki_thigh_slow3_5f71c766:
 
     # sukki "[sukki]'ll always make [me_sukki]'s day amazing~"
-    sukki "[sukki] sẽ luôn làm cho ngày của [me_sukki] trở nên tốt hơn~"
+    sukki "[sukki] sẽ luôn làm cho ngày của [me_sukki!t] trở nên tốt hơn~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:533
 translate vietnamese w_booth_sukki_thigh_fast_3ba26f98:
 
     # sukki "Your penis teases my little pussy so much, [me_sukki]..."
-    sukki "[me_sukki] làm em nứng quá..."
+    sukki "[me_sukki!t] làm em nứng quá..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:534
 translate vietnamese w_booth_sukki_thigh_fast_4cf460e6:
@@ -874,7 +874,7 @@ translate vietnamese w_booth_sukki_thigh_fast_1bb2b9a8:
 translate vietnamese w_booth_sukki_thigh_fast_67dbd1e2:
 
     # sukki "[sukki] wants [me_sukki]'s cock too!"
-    sukki "Âm hộ của [sukki] cũng muốn [me_sukki] nữa!"
+    sukki "Âm hộ của [sukki] cũng muốn [me_sukki!t] nữa!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:538
 translate vietnamese w_booth_sukki_thigh_fast_f8918f9a:
@@ -892,7 +892,7 @@ translate vietnamese w_booth_sukki_thigh_fast_73f078a6:
 translate vietnamese w_booth_sukki_thigh_fast_12b282d3:
 
     # me "Oh, [me_sukki] is going to punish your pussy, no [me_sukki]'s dick for it today."
-    me "Oh, [me_sukki] sẽ trừng phạt cái lồn của em, không có con cặc của [me_sukki] cho nó hôm nay đâu."
+    me "Oh, [me_sukki!t] sẽ trừng phạt cái lồn của em, không có con cặc của [me_sukki!t] cho nó hôm nay đâu."
 
 # game/places/wanderers/prostitutes/sukki.rpy:541
 translate vietnamese w_booth_sukki_thigh_fast_ec8bffac:
@@ -904,7 +904,7 @@ translate vietnamese w_booth_sukki_thigh_fast_ec8bffac:
 translate vietnamese w_booth_sukki_thigh_fast2_3ba26f98:
 
     # sukki "Your penis teases my little pussy so much, [me_sukki]..."
-    sukki "[me_sukki] làm em nứng quá..."
+    sukki "[me_sukki!t] làm em nứng quá..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:564
 translate vietnamese w_booth_sukki_thigh_fast2_4cf460e6:
@@ -928,7 +928,7 @@ translate vietnamese w_booth_sukki_thigh_fast2_1bb2b9a8:
 translate vietnamese w_booth_sukki_thigh_fast2_67dbd1e2:
 
     # sukki "[sukki] wants [me_sukki]'s cock too!"
-    sukki "Âm hộ của [sukki] cũng muốn [me_sukki] nữa!"
+    sukki "Âm hộ của [sukki] cũng muốn [me_sukki!t] nữa!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:568
 translate vietnamese w_booth_sukki_thigh_fast2_f8918f9a:
@@ -946,7 +946,7 @@ translate vietnamese w_booth_sukki_thigh_fast2_73f078a6:
 translate vietnamese w_booth_sukki_thigh_fast2_12b282d3:
 
     # me "Oh, [me_sukki] is going to punish your pussy, no [me_sukki]'s dick for it today."
-    me "Oh, [me_sukki] sẽ trừng phạt cái lồn của em, không có con cặc của [me_sukki] cho nó hôm nay đâu."
+    me "Oh, [me_sukki!t] sẽ trừng phạt cái lồn của em, không có con cặc của [me_sukki!t] cho nó hôm nay đâu."
 
 # game/places/wanderers/prostitutes/sukki.rpy:571
 translate vietnamese w_booth_sukki_thigh_fast2_ec8bffac:
@@ -982,7 +982,7 @@ translate vietnamese w_booth_sukki_thigh_fast3_1bb2b9a8:
 translate vietnamese w_booth_sukki_thigh_fast3_67dbd1e2:
 
     # sukki "[sukki] wants [me_sukki]'s cock too!"
-    sukki "Âm hộ của [sukki] cũng muốn [me_sukki] nữa!"
+    sukki "Âm hộ của [sukki] cũng muốn [me_sukki!t] nữa!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:598
 translate vietnamese w_booth_sukki_thigh_fast3_f8918f9a:
@@ -1000,7 +1000,7 @@ translate vietnamese w_booth_sukki_thigh_fast3_73f078a6:
 translate vietnamese w_booth_sukki_thigh_fast3_12b282d3:
 
     # me "Oh, [me_sukki] is going to punish your pussy, no [me_sukki]'s dick for it today."
-    me "Oh, [me_sukki] sẽ trừng phạt cái lồn của em, không có con cặc của [me_sukki] cho nó hôm nay đâu."
+    me "Oh, [me_sukki!t] sẽ trừng phạt cái lồn của em, không có con cặc của [me_sukki!t] cho nó hôm nay đâu."
 
 # game/places/wanderers/prostitutes/sukki.rpy:601
 translate vietnamese w_booth_sukki_thigh_fast3_ec8bffac:
@@ -1024,7 +1024,7 @@ translate vietnamese w_booth_sukki_thigh_before_31278352:
 translate vietnamese w_booth_sukki_thigh_before_b3bb9f1a:
 
     # me "Haha, [me_sukki] is horny too. A good girl would help [me_sukki], right?"
-    me "Haha, [me_sukki] đang nứng quá. Một cô gái tốt là phải giúp mọi người mà, phải không?"
+    me "Haha, [me_sukki!t] đang nứng quá. Một cô gái tốt là phải giúp mọi người mà, phải không?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:626
 translate vietnamese w_booth_sukki_thigh_before_ff339ac4:
@@ -1036,7 +1036,7 @@ translate vietnamese w_booth_sukki_thigh_before_ff339ac4:
 translate vietnamese w_booth_sukki_thigh_before_93b12062:
 
     # sukki "Yes! [sukki] will make [me_sukki]'s dick explode in ecstasy!"
-    sukki "Vâng! [sukki] sẽ khiến thằng nhỏ của anh [me_sukki] kiệt sức!"
+    sukki "Vâng! [sukki] sẽ khiến thằng nhỏ của anh [me_sukki!t] kiệt sức!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:628
 translate vietnamese w_booth_sukki_thigh_before_9f3d19bf:
@@ -1048,7 +1048,7 @@ translate vietnamese w_booth_sukki_thigh_before_9f3d19bf:
 translate vietnamese w_booth_sukki_thigh_before_4e5f1b48:
 
     # sukki "[sukki] loves [me_sukki]'s dick so much!~"
-    sukki "[sukki] thích [me_sukki] rất nhiều!~"
+    sukki "[sukki] thích [me_sukki!t] rất nhiều!~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:630
 translate vietnamese w_booth_sukki_thigh_before_8de46012:
@@ -1072,7 +1072,7 @@ translate vietnamese w_booth_sukki_thigh_before2_31278352:
 translate vietnamese w_booth_sukki_thigh_before2_b3bb9f1a:
 
     # me "Haha, [me_sukki] is horny too. A good girl would help [me_sukki], right?"
-    me "Haha, [me_sukki] đang nứng quá. Một cô gái tốt là phải giúp mọi người mà, phải không?"
+    me "Haha, [me_sukki!t] đang nứng quá. Một cô gái tốt là phải giúp mọi người mà, phải không?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:655
 translate vietnamese w_booth_sukki_thigh_before2_ff339ac4:
@@ -1084,7 +1084,7 @@ translate vietnamese w_booth_sukki_thigh_before2_ff339ac4:
 translate vietnamese w_booth_sukki_thigh_before2_93b12062:
 
     # sukki "Yes! [sukki] will make [me_sukki]'s dick explode in ecstasy!"
-    sukki "Vâng! [sukki] sẽ khiến thằng nhỏ của anh [me_sukki] kiệt sức!"
+    sukki "Vâng! [sukki] sẽ khiến thằng nhỏ của anh [me_sukki!t] kiệt sức!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:657
 translate vietnamese w_booth_sukki_thigh_before2_9f3d19bf:
@@ -1096,7 +1096,7 @@ translate vietnamese w_booth_sukki_thigh_before2_9f3d19bf:
 translate vietnamese w_booth_sukki_thigh_before2_4e5f1b48:
 
     # sukki "[sukki] loves [me_sukki]'s dick so much!~"
-    sukki "[sukki] thích [me_sukki] rất nhiều!~"
+    sukki "[sukki] thích [me_sukki!t] rất nhiều!~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:659
 translate vietnamese w_booth_sukki_thigh_before2_8de46012:
@@ -1120,7 +1120,7 @@ translate vietnamese w_booth_sukki_thigh_before3_31278352:
 translate vietnamese w_booth_sukki_thigh_before3_b3bb9f1a:
 
     # me "Haha, [me_sukki] is horny too. A good girl would help [me_sukki], right?"
-    me "Haha, [me_sukki] đang nứng quá. Một cô gái tốt là phải giúp mọi người mà, phải không?"
+    me "Haha, [me_sukki!t] đang nứng quá. Một cô gái tốt là phải giúp mọi người mà, phải không?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:684
 translate vietnamese w_booth_sukki_thigh_before3_ff339ac4:
@@ -1132,7 +1132,7 @@ translate vietnamese w_booth_sukki_thigh_before3_ff339ac4:
 translate vietnamese w_booth_sukki_thigh_before3_93b12062:
 
     # sukki "Yes! [sukki] will make [me_sukki]'s dick explode in ecstasy!"
-    sukki "Vâng! [sukki] sẽ khiến thằng nhỏ của anh [me_sukki] kiệt sức!"
+    sukki "Vâng! [sukki] sẽ khiến thằng nhỏ của anh [me_sukki!t] kiệt sức!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:686
 translate vietnamese w_booth_sukki_thigh_before3_9f3d19bf:
@@ -1144,7 +1144,7 @@ translate vietnamese w_booth_sukki_thigh_before3_9f3d19bf:
 translate vietnamese w_booth_sukki_thigh_before3_4e5f1b48:
 
     # sukki "[sukki] loves [me_sukki]'s dick so much!~"
-    sukki "[sukki] thích [me_sukki] rất nhiều!~"
+    sukki "[sukki] thích [me_sukki!t] rất nhiều!~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:688
 translate vietnamese w_booth_sukki_thigh_before3_8de46012:
@@ -1168,7 +1168,7 @@ translate vietnamese w_booth_sukki_thigh_before4_31278352:
 translate vietnamese w_booth_sukki_thigh_before4_b3bb9f1a:
 
     # me "Haha, [me_sukki] is horny too. A good girl would help [me_sukki], right?"
-    me "Haha, [me_sukki] đang nứng quá. Một cô gái tốt là phải giúp mọi người mà, phải không?"
+    me "Haha, [me_sukki!t] đang nứng quá. Một cô gái tốt là phải giúp mọi người mà, phải không?"
 
 # game/places/wanderers/prostitutes/sukki.rpy:713
 translate vietnamese w_booth_sukki_thigh_before4_ff339ac4:
@@ -1180,7 +1180,7 @@ translate vietnamese w_booth_sukki_thigh_before4_ff339ac4:
 translate vietnamese w_booth_sukki_thigh_before4_93b12062:
 
     # sukki "Yes! [sukki] will make [me_sukki]'s dick explode in ecstasy!"
-    sukki "Vâng! [sukki] sẽ khiến thằng nhỏ của anh [me_sukki] kiệt sức!"
+    sukki "Vâng! [sukki] sẽ khiến thằng nhỏ của anh [me_sukki!t] kiệt sức!"
 
 # game/places/wanderers/prostitutes/sukki.rpy:715
 translate vietnamese w_booth_sukki_thigh_before4_9f3d19bf:
@@ -1192,7 +1192,7 @@ translate vietnamese w_booth_sukki_thigh_before4_9f3d19bf:
 translate vietnamese w_booth_sukki_thigh_before4_4e5f1b48:
 
     # sukki "[sukki] loves [me_sukki]'s dick so much!~"
-    sukki "[sukki] thích [me_sukki] rất nhiều!~"
+    sukki "[sukki] thích [me_sukki!t] rất nhiều!~"
 
 # game/places/wanderers/prostitutes/sukki.rpy:717
 translate vietnamese w_booth_sukki_thigh_before4_8de46012:
@@ -1216,7 +1216,7 @@ translate vietnamese w_booth_sukki_thigh_cum_3217e8b9:
 translate vietnamese w_booth_sukki_thigh_cum_b8f920ab:
 
     # sukki "Woah, that's a lot [me_sukki]."
-    sukki "Woah, nhiều quá [me_sukki]."
+    sukki "Woah, nhiều quá [me_sukki!t]."
 
 # game/places/wanderers/prostitutes/sukki.rpy:740
 translate vietnamese w_booth_sukki_thigh_cum_b833a3fe:
@@ -1234,7 +1234,7 @@ translate vietnamese w_booth_sukki_thigh_cum_634dd1ef:
 translate vietnamese w_booth_sukki_thigh_cum_24406f4d:
 
     # sukki "I would love to stay with you longer, [me_sukki], but Madam Hof would be angry..."
-    sukki "Em rất muốn chơi với [me_sukki] lần nữa, nhưng Madam Hof sẽ không hài lòng đâu..."
+    sukki "Em rất muốn chơi với [me_sukki!t] lần nữa, nhưng Madam Hof sẽ không hài lòng đâu..."
 
 # game/places/wanderers/prostitutes/sukki.rpy:750
 translate vietnamese w_booth_sukki_thigh_cum_7ca09d1c:

@@ -16,5 +16,4 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/lexi.rpy:22
     old "Nicknames: Lex"
-    new "Nicknames: Lex"
-
+    new "Biệt danh: Lex"

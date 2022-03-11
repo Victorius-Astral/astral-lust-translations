@@ -322,7 +322,7 @@ translate vietnamese damsel_in_distress_milf_9f1ae0c8:
 translate vietnamese damsel_in_distress_milf_e8902f95:
 
     # me "Take care of yourself. Only like this can you protect your kid."
-    me "Hãy chăm sóc bản thân. Chỉ như thế này thì mới có thể bảo vệ con mình."
+    me "Hãy chăm sóc bản thân. Chỉ như vậy thì mới có thể bảo vệ con mình."
 
 # game/events/explore/damsel_in_distress.rpy:173
 translate vietnamese damsel_in_distress_milf_18e51229:

@@ -256,7 +256,7 @@ translate vietnamese exp_treasure_hunt_reward3_dd9636c7:
 translate vietnamese exp_treasure_hunt_reward3_ef5aa953:
 
     # me "I expected more."
-    me "Mình đã mong đợi nhiều hơn."
+    me "Ít vãi lìn."
 
 # game/events/explore/treasure_hunt.rpy:302
 translate vietnamese exp_treasure_hunt_reward3_594f27f1:
@@ -268,7 +268,7 @@ translate vietnamese exp_treasure_hunt_reward3_594f27f1:
 translate vietnamese exp_treasure_hunt_reward3_db4822a0:
 
     # me "What are you doing out here?"
-    me "Em đang làm gì ở ngoài này?"
+    me "Em đang làm gì ở ngoài này vậy?"
 
 # game/events/explore/treasure_hunt.rpy:309
 translate vietnamese exp_treasure_hunt_reward3_56588614:
@@ -292,7 +292,7 @@ translate vietnamese exp_treasure_hunt_reward3_98eb1ade:
 translate vietnamese exp_treasure_hunt_reward3_b0ab3e59:
 
     # me "Rachel will spank you for this."
-    me "Rachel sẽ đánh đòn em vì điều này."
+    me "Rachel sẽ đánh đít em đấy."
 
 # game/events/explore/treasure_hunt.rpy:313
 translate vietnamese exp_treasure_hunt_reward3_88544972:
@@ -322,7 +322,7 @@ translate vietnamese exp_treasure_hunt_reward3_82eff33d:
 translate vietnamese exp_treasure_hunt_reward3_7a97632f:
 
     # lil_fox smile "That's good. But she knows I'm out there."
-    lil_fox smile "Tốt đấy. Nhưng chị ấy biết em đang ở ngoài này rồi."
+    lil_fox smile "Tốt lắm. Nhưng chị ấy biết em đang ở ngoài này rồi."
 
 # game/events/explore/treasure_hunt.rpy:318
 translate vietnamese exp_treasure_hunt_reward3_6dc07bd2:
@@ -352,7 +352,7 @@ translate vietnamese exp_treasure_hunt_reward3_0af1cb67:
 translate vietnamese exp_treasure_hunt_reward3_1effb1b9:
 
     # me "Wait? Did you loot it already?"
-    me "Đợi đã? Bạn đã lấy nó rồi à??"
+    me "Đợi đã? Em đã lấy nó rồi á?"
 
 # game/events/explore/treasure_hunt.rpy:323
 translate vietnamese exp_treasure_hunt_reward3_26f8c242:
@@ -370,19 +370,19 @@ translate vietnamese exp_treasure_hunt_reward3_f7ede218:
 translate vietnamese exp_treasure_hunt_reward3_de395731:
 
     # lil_fox smile "Don't worry. Maybe you'll be faster next time."
-    lil_fox smile "Đừng lo lắng. Có lẽ lần sau anh sẽ nhanh hơn."
+    lil_fox smile "Đừng lo. Có lẽ lần sau anh sẽ nhanh hơn đấy."
 
 # game/events/explore/treasure_hunt.rpy:329
 translate vietnamese exp_treasure_hunt_reward3_6232540e:
 
     # lil_fox "[me]! We meet again!"
-    lil_fox "[me]! Chúng ta lại gặp nhau!"
+    lil_fox "[me]! Chúng ta lại gặp nhau rồi!"
 
 # game/events/explore/treasure_hunt.rpy:335
 translate vietnamese exp_treasure_hunt_reward3_ee8a3c34:
 
     # me "[lil_fox], beautiful as always."
-    me "[lil_fox], xinh đẹp như mọi khi."
+    me "Cáo nhỏ, xinh đẹp như mọi khi."
 
 # game/events/explore/treasure_hunt.rpy:338
 translate vietnamese exp_treasure_hunt_reward3_b5e3e01c:

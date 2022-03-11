@@ -4,7 +4,7 @@
 translate vietnamese w_booth_robin_5d695e8c:
 
     # robin "Hello, [me_robin]. Madam told me to make you happy."
-    robin "Chào, [me_robin]. Tú bà bảo em phải làm cho [me_robin] vui."
+    robin "Chào, [me_robin!t]. Tú bà bảo em phải làm cho [me_robin!t] vui."
 
 # game/places/wanderers/prostitutes/robin.rpy:39
 translate vietnamese w_booth_robin_2ebfa009:
@@ -16,7 +16,7 @@ translate vietnamese w_booth_robin_2ebfa009:
 translate vietnamese w_booth_robin_menu1_f5fce709:
 
     # robin "Of course, [me_robin]. I'll remember that."
-    robin "Tất nhiên rồi [me_robin]. Em sẽ ghi nhớ điều này."
+    robin "Tất nhiên rồi [me_robin!t]. Em sẽ ghi nhớ điều này."
 
 # game/places/wanderers/prostitutes/robin.rpy:54
 translate vietnamese w_booth_robin_menu1_390858d1:
@@ -28,7 +28,7 @@ translate vietnamese w_booth_robin_menu1_390858d1:
 translate vietnamese w_booth_robin_menu1_73588ee7:
 
     # robin "You won't get refund, [me_robin]."
-    robin "[me_robin] sẽ không được hoàn tiền đâu."
+    robin "[me_robin!t] sẽ không được hoàn tiền đâu."
 
 # game/places/wanderers/prostitutes/robin.rpy:60
 translate vietnamese w_booth_robin_menu1_3cdbfa0d:
@@ -40,7 +40,7 @@ translate vietnamese w_booth_robin_menu1_3cdbfa0d:
 translate vietnamese w_booth_robin_menu1_ec12248f:
 
     # robin "If I've insulted you somehow, it was unintentional, [me_robin]."
-    robin "Nếu em đã xúc phạm [me_robin] bằng một cách nào đó, thì cũng chỉ là vô tình thôi [me_robin] à."
+    robin "Nếu em đã xúc phạm [me_robin!t] bằng một cách nào đó, thì cũng chỉ là vô tình thôi [me_robin!t] à."
 
 # game/places/wanderers/prostitutes/robin.rpy:66
 translate vietnamese w_booth_robin_menu1_8c94b495:
@@ -52,13 +52,13 @@ translate vietnamese w_booth_robin_menu1_8c94b495:
 translate vietnamese w_booth_robin_menu1_5155e4c3:
 
     # robin "I see, come back when you've got time for me, [me_robin]. Bye, bye."
-    robin "À vâng, vậy hãy quay lại gặp em khi [me_robin] rảnh nha. Bye, bye."
+    robin "À vâng, vậy hãy quay lại gặp em khi [me_robin!t] rảnh nha. Bye, bye."
 
 # game/places/wanderers/prostitutes/robin.rpy:72
 translate vietnamese w_booth_robin_menu1_9bb4e884:
 
     # robin "Thank you for staying with me, [me_robin]."
-    robin "Cảm ơn [me_robin] vì đã ở lại với em."
+    robin "Cảm ơn [me_robin!t] vì đã ở lại với em."
 
 # game/places/wanderers/prostitutes/robin.rpy:82
 translate vietnamese w_booth_robin_end_5b8a83c2:
@@ -82,7 +82,7 @@ translate vietnamese w_booth_robin_end_299cdfad:
 translate vietnamese w_booth_robin_tj_d2d79a6a:
 
     # robin "I'll show you what these were made for, [me_robin]."
-    robin "Em sẽ cho [me_robin] thấy chúng được tạo ra để làm gì."
+    robin "Em sẽ cho [me_robin!t] thấy chúng được tạo ra để làm gì."
 
 # game/places/wanderers/prostitutes/robin.rpy:95
 translate vietnamese w_booth_robin_tj_a6bebc1f:
@@ -106,7 +106,7 @@ translate vietnamese w_booth_robin_tj_slow_40976ab2:
 translate vietnamese w_booth_robin_tj_slow_a33e6bd5:
 
     # robin "You like that?"
-    robin "Thích không [me_robin]?"
+    robin "Thích không [me_robin!t]?"
 
 # game/places/wanderers/prostitutes/robin.rpy:108
 translate vietnamese w_booth_robin_tj_slow_bd50aa28:
@@ -118,7 +118,7 @@ translate vietnamese w_booth_robin_tj_slow_bd50aa28:
 translate vietnamese w_booth_robin_tj_slow_6e13be3f:
 
     # robin "Thank you, [me_robin]!"
-    robin "Cám ơn [me_robin]!"
+    robin "Cám ơn [me_robin!t]!"
 
 # game/places/wanderers/prostitutes/robin.rpy:110
 translate vietnamese w_booth_robin_tj_slow_268c44fc:
@@ -130,7 +130,7 @@ translate vietnamese w_booth_robin_tj_slow_268c44fc:
 translate vietnamese w_booth_robin_tj_slow_f4645876:
 
     # robin "Are you feeling comfortable? I'm sorry you have to lie on the ground."
-    robin "[me_robin] có cảm thấy thoải mái không? Em xin lỗi vì [me_robin] phải nằm trên mặt đất nha."
+    robin "[me_robin!t] có cảm thấy thoải mái không? Em xin lỗi vì [me_robin!t] phải nằm trên mặt đất nha."
 
 # game/places/wanderers/prostitutes/robin.rpy:112
 translate vietnamese w_booth_robin_tj_slow_9299b925:
@@ -142,7 +142,7 @@ translate vietnamese w_booth_robin_tj_slow_9299b925:
 translate vietnamese w_booth_robin_tj_slow_b47b38b5:
 
     # robin "That's good! I'm happy, you're not angry, [me_robin]."
-    robin "Tốt quá! May là [me_robin] không giận em."
+    robin "Tốt quá! May là [me_robin!t] không giận em."
 
 # game/places/wanderers/prostitutes/robin.rpy:114
 translate vietnamese w_booth_robin_tj_slow_961b6abc:
@@ -172,7 +172,7 @@ translate vietnamese w_booth_robin_tj_slow2_40976ab2:
 translate vietnamese w_booth_robin_tj_slow2_a33e6bd5:
 
     # robin "You like that?"
-    robin "Thích không [me_robin]?"
+    robin "Thích không [me_robin!t]?"
 
 # game/places/wanderers/prostitutes/robin.rpy:137
 translate vietnamese w_booth_robin_tj_slow2_bd50aa28:
@@ -184,7 +184,7 @@ translate vietnamese w_booth_robin_tj_slow2_bd50aa28:
 translate vietnamese w_booth_robin_tj_slow2_6e13be3f:
 
     # robin "Thank you, [me_robin]!"
-    robin "Cám ơn [me_robin]!"
+    robin "Cám ơn [me_robin!t]!"
 
 # game/places/wanderers/prostitutes/robin.rpy:139
 translate vietnamese w_booth_robin_tj_slow2_268c44fc:
@@ -196,7 +196,7 @@ translate vietnamese w_booth_robin_tj_slow2_268c44fc:
 translate vietnamese w_booth_robin_tj_slow2_f4645876:
 
     # robin "Are you feeling comfortable? I'm sorry you have to lie on the ground."
-    robin "[me_robin] có cảm thấy thoải mái không? Em xin lỗi vì [me_robin] phải nằm trên mặt đất nha."
+    robin "[me_robin!t] có cảm thấy thoải mái không? Em xin lỗi vì [me_robin!t] phải nằm trên mặt đất nha."
 
 # game/places/wanderers/prostitutes/robin.rpy:141
 translate vietnamese w_booth_robin_tj_slow2_9299b925:
@@ -208,7 +208,7 @@ translate vietnamese w_booth_robin_tj_slow2_9299b925:
 translate vietnamese w_booth_robin_tj_slow2_b47b38b5:
 
     # robin "That's good! I'm happy, you're not angry, [me_robin]."
-    robin "Tốt quá! May là [me_robin] không giận em."
+    robin "Tốt quá! May là [me_robin!t] không giận em."
 
 # game/places/wanderers/prostitutes/robin.rpy:143
 translate vietnamese w_booth_robin_tj_slow2_961b6abc:
@@ -238,7 +238,7 @@ translate vietnamese w_booth_robin_tj_slow3_40976ab2:
 translate vietnamese w_booth_robin_tj_slow3_a33e6bd5:
 
     # robin "You like that?"
-    robin "Thích không [me_robin]?"
+    robin "Thích không [me_robin!t]?"
 
 # game/places/wanderers/prostitutes/robin.rpy:166
 translate vietnamese w_booth_robin_tj_slow3_bd50aa28:
@@ -250,7 +250,7 @@ translate vietnamese w_booth_robin_tj_slow3_bd50aa28:
 translate vietnamese w_booth_robin_tj_slow3_6e13be3f:
 
     # robin "Thank you, [me_robin]!"
-    robin "Cám ơn [me_robin]!"
+    robin "Cám ơn [me_robin!t]!"
 
 # game/places/wanderers/prostitutes/robin.rpy:168
 translate vietnamese w_booth_robin_tj_slow3_268c44fc:
@@ -262,7 +262,7 @@ translate vietnamese w_booth_robin_tj_slow3_268c44fc:
 translate vietnamese w_booth_robin_tj_slow3_f4645876:
 
     # robin "Are you feeling comfortable? I'm sorry you have to lie on the ground."
-    robin "[me_robin] có cảm thấy thoải mái không? Em xin lỗi vì [me_robin] phải nằm trên mặt đất nha."
+    robin "[me_robin!t] có cảm thấy thoải mái không? Em xin lỗi vì [me_robin!t] phải nằm trên mặt đất nha."
 
 # game/places/wanderers/prostitutes/robin.rpy:170
 translate vietnamese w_booth_robin_tj_slow3_9299b925:
@@ -274,7 +274,7 @@ translate vietnamese w_booth_robin_tj_slow3_9299b925:
 translate vietnamese w_booth_robin_tj_slow3_b47b38b5:
 
     # robin "That's good! I'm happy, you're not angry, [me_robin]."
-    robin "Tốt quá! May là [me_robin] không giận em."
+    robin "Tốt quá! May là [me_robin!t] không giận em."
 
 # game/places/wanderers/prostitutes/robin.rpy:172
 translate vietnamese w_booth_robin_tj_slow3_961b6abc:
@@ -424,13 +424,13 @@ translate vietnamese w_booth_robin_tj_fast3_34f2eb74:
 translate vietnamese w_booth_robin_tj_before_6f956dff:
 
     # robin "Your dick became so hard, [me_robin]. Are you cumming soon?"
-    robin "[me_robin] cứng lắm rồi này. Anh săp ra chưa?"
+    robin "[me_robin!t] cứng lắm rồi này. Anh săp ra chưa?"
 
 # game/places/wanderers/prostitutes/robin.rpy:278
 translate vietnamese w_booth_robin_tj_before_015bf784:
 
     # me "Well, I can explode any moment now."
-    me "Chà, [me_robin] có thể bắn ra bất cứ lúc nào luôn rồi này."
+    me "Chà, [me_robin!t] có thể bắn ra bất cứ lúc nào luôn rồi này."
 
 # game/places/wanderers/prostitutes/robin.rpy:279
 translate vietnamese w_booth_robin_tj_before_706212ec:
@@ -484,13 +484,13 @@ translate vietnamese w_booth_robin_tj_before_5726c65e:
 translate vietnamese w_booth_robin_tj_before2_6f956dff:
 
     # robin "Your dick became so hard, [me_robin]. Are you cumming soon?"
-    robin "[me_robin] cứng lắm rồi này. [me_robin] sắp ra chưa?"
+    robin "[me_robin!t] cứng lắm rồi này. [me_robin!t] sắp ra chưa?"
 
 # game/places/wanderers/prostitutes/robin.rpy:309
 translate vietnamese w_booth_robin_tj_before2_015bf784:
 
     # me "Well, I can explode any moment now."
-    me "Chà, [me_robin] có thể bắn ra bất cứ lúc nào luôn rồi này."
+    me "Chà, [me_robin!t] có thể bắn ra bất cứ lúc nào luôn rồi này."
 
 # game/places/wanderers/prostitutes/robin.rpy:310
 translate vietnamese w_booth_robin_tj_before2_706212ec:
@@ -544,13 +544,13 @@ translate vietnamese w_booth_robin_tj_before2_5726c65e:
 translate vietnamese w_booth_robin_tj_before3_6f956dff:
 
     # robin "Your dick became so hard, [me_robin]. Are you cumming soon?"
-    robin "[me_robin] cứng lắm rồi này. [me_robin] sắp ra chưa?"
+    robin "[me_robin!t] cứng lắm rồi này. [me_robin!t] sắp ra chưa?"
 
 # game/places/wanderers/prostitutes/robin.rpy:340
 translate vietnamese w_booth_robin_tj_before3_015bf784:
 
     # me "Well, I can explode any moment now."
-    me "Chà, [me_robin] có thể bắn ra bất cứ lúc nào luôn rồi này."
+    me "Chà, [me_robin!t] có thể bắn ra bất cứ lúc nào luôn rồi này."
 
 # game/places/wanderers/prostitutes/robin.rpy:341
 translate vietnamese w_booth_robin_tj_before3_706212ec:
@@ -646,7 +646,7 @@ translate vietnamese w_booth_robin_tj_cum_8e12a2be:
 translate vietnamese w_booth_robin_tj_cum_584cd1f6:
 
     # robin "Now I need to go, come see me again, I'll be waiting for you."
-    robin "Bây giờ em cần phải đi rồi, hãy đến gặp em lần nữa nha, em sẽ đợi [me_robin]."
+    robin "Bây giờ em cần phải đi rồi, hãy đến gặp em lần nữa nha, em sẽ đợi [me_robin!t]."
 
 # game/places/wanderers/prostitutes/robin.rpy:382
 translate vietnamese w_booth_robin_tj_cum_fca811a5:
@@ -658,7 +658,7 @@ translate vietnamese w_booth_robin_tj_cum_fca811a5:
 translate vietnamese w_booth_robin_tj_cum_dcd99dcb:
 
     # robin "See ya, [me_robin]."
-    robin "Gặp [me_robin] sau hen."
+    robin "Gặp [me_robin!t] sau hen."
 
 # game/places/wanderers/prostitutes/robin.rpy:384
 translate vietnamese w_booth_robin_tj_cum_5cdebf03:
@@ -676,13 +676,13 @@ translate vietnamese w_booth_robin_wall_e7cb55f3:
 translate vietnamese w_booth_robin_wall_e0197ec1:
 
     # robin "Mmm, you're so big, [me_robin]."
-    robin "Mmm, [me_robin] to quá."
+    robin "Mmm, [me_robin!t] to quá."
 
 # game/places/wanderers/prostitutes/robin.rpy:395
 translate vietnamese w_booth_robin_wall_3e08f15a:
 
     # me "I hear that a lot."
-    me "[me_robin] nghe cái câu này khá nhiều rồi đấy."
+    me "[me_robin!t] nghe cái câu này khá nhiều rồi đấy."
 
 # game/places/wanderers/prostitutes/robin.rpy:396
 translate vietnamese w_booth_robin_wall_1b402415:
@@ -724,7 +724,7 @@ translate vietnamese w_booth_robin_wall_slow_8bde2710:
 translate vietnamese w_booth_robin_wall_slow_0ff3c549:
 
     # robin "It's my favorite toy, [me_robin]."
-    robin "Đây là món đồ chơi yêu thích của em đấy [me_robin]."
+    robin "Đây là món đồ chơi yêu thích của em đấy [me_robin!t]."
 
 # game/places/wanderers/prostitutes/robin.rpy:412
 translate vietnamese w_booth_robin_wall_slow_ac89664c:
@@ -766,7 +766,7 @@ translate vietnamese w_booth_robin_wall_slow2_8bde2710:
 translate vietnamese w_booth_robin_wall_slow2_0ff3c549:
 
     # robin "It's my favorite toy, [me_robin]."
-    robin "Đây là món đồ chơi yêu thích của em đấy [me_robin]."
+    robin "Đây là món đồ chơi yêu thích của em đấy [me_robin!t]."
 
 # game/places/wanderers/prostitutes/robin.rpy:437
 translate vietnamese w_booth_robin_wall_slow2_ac89664c:
@@ -808,7 +808,7 @@ translate vietnamese w_booth_robin_wall_slow3_8bde2710:
 translate vietnamese w_booth_robin_wall_slow3_0ff3c549:
 
     # robin "It's my favorite toy, [me_robin]."
-    robin "Đây là món đồ chơi yêu thích của em đấy [me_robin]."
+    robin "Đây là món đồ chơi yêu thích của em đấy [me_robin!t]."
 
 # game/places/wanderers/prostitutes/robin.rpy:462
 translate vietnamese w_booth_robin_wall_slow3_ac89664c:
@@ -1090,7 +1090,7 @@ translate vietnamese w_booth_robin_wall_cum_fca811a5:
 translate vietnamese w_booth_robin_wall_cum_dcd99dcb:
 
     # robin "See ya, [me_robin]."
-    robin "Gặp lại [me_robin] sau."
+    robin "Gặp lại [me_robin!t] sau."
 
 # game/places/wanderers/prostitutes/robin.rpy:661
 translate vietnamese w_booth_robin_wall_cum_5cdebf03:

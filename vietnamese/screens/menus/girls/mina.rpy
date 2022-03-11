@@ -12,13 +12,12 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/mina.rpy:30
     old "• Route: None"
-    new "• Route: None"
+    new "• Route: không có"
 
     # game/screens/menus/girls/mina.rpy:33
     old "• Route: {love}Love{/love}"
-    new "• Route: {love}Love{/love}"
+    new "• Route: {love}tình nhân{/love}"
 
     # game/screens/menus/girls/mina.rpy:36
     old "• Route: {trust}Friendship{/trust}"
-    new "• Route: {trust}Friendship{/trust}"
-
+    new "• Route: {trust}Bạn bè{/trust}"

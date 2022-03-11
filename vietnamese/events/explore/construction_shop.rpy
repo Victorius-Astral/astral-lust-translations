@@ -286,24 +286,24 @@ translate vietnamese explore_construction_shop_win_75e0aae2:
 translate vietnamese explore_construction_shop_win_d5628a2b:
 
     # me "Good girl, you deserve mercy."
-    me "Cô gái tốt, mày đáng được thương xót."
+    me "Ngoan lắm, mày đáng được thương xót."
 
 # game/events/explore/construction_shop.rpy:191
 translate vietnamese explore_construction_shop_win_77a94726_1:
 
     # scavenger_girl "*Sob*"
-    scavenger_girl "*khóc nức nở*"
+    scavenger_girl "*Hức*"
 
 # game/events/explore/construction_shop.rpy:199
 translate vietnamese explore_construction_shop_win_3768c14b:
 
     # me "Listen, I'll give you some things, if you allow me to fuck your ass."
-    me "Nghe này, tôi sẽ cho cô một số thứ, nếu cô cho phép tôi địt vào mông."
+    me "Nghe này, tôi sẽ cho cô một số thứ, nếu cô cho phép tôi đút đít cô."
 
 # game/events/explore/construction_shop.rpy:202
 translate vietnamese explore_construction_shop_win_2c09d4d6:
 
-    # scavenger_girl "I-I..."
+    # scavenger_girl "I-I.."
     scavenger_girl "T-tôi..."
 
 # game/events/explore/construction_shop.rpy:203
@@ -321,7 +321,7 @@ translate vietnamese explore_construction_shop_win_b7ac2e07_2:
 # game/events/explore/construction_shop.rpy:207
 translate vietnamese explore_construction_shop_win_869d55ae:
 
-    # scavenger_girl "A-Alright..."
+    # scavenger_girl "A-Alright.."
     scavenger_girl "Đ-Được rồi..."
 
 # game/events/explore/construction_shop.rpy:208
@@ -352,25 +352,25 @@ translate vietnamese explore_construction_shop_win_ca731118:
 translate vietnamese explore_construction_shop_win_77a94726_2:
 
     # scavenger_girl "*Sob*"
-    scavenger_girl "*Nức nở*"
+    scavenger_girl "*Hức*"
 
 # game/events/explore/construction_shop.rpy:220
 translate vietnamese explore_construction_shop_win_7eff678b:
 
     # me "Oh, stop, you're not doing it for free."
-    me "Oh, dừng lại đi, cô không làm điều đó miễn phí."
+    me "Oh, dừng lại đi, có phải là làm điều này miễn phí đâu."
 
 # game/events/explore/construction_shop.rpy:221
 translate vietnamese explore_construction_shop_win_b7d40633:
 
-    # scavenger_girl "Sorry..."
+    # scavenger_girl "Sorry.."
     scavenger_girl "Xin lỗi..."
 
 # game/events/explore/construction_shop.rpy:229
 translate vietnamese explore_construction_shop_win_0b7355de:
 
     # me "You feel so good."
-    me "You feel so good."
+    me "Tốt lắm."
 
 # game/events/explore/construction_shop.rpy:230
 translate vietnamese explore_construction_shop_win_b7ac2e07_4:
@@ -406,7 +406,7 @@ translate vietnamese explore_construction_shop_win_43fda6dd:
 translate vietnamese explore_construction_shop_win_5bbbec9c:
 
     # scavenger_girl "Stop, please! It's too rough!"
-    scavenger_girl "Làm ơn dừng lại! Nó quá thô!"
+    scavenger_girl "Làm ơn dừng lại! Mạnh quá!"
 
 # game/events/explore/construction_shop.rpy:243
 translate vietnamese explore_construction_shop_win_6efaaafa:
@@ -424,13 +424,13 @@ translate vietnamese explore_construction_shop_win_c2122054:
 translate vietnamese explore_construction_shop_win_effc0d2b:
 
     # me "Is that a moan, you're such a whore."
-    me "Đó có phải là một tiếng rên không, đúng là một con điếm mà."
+    me "Đó có phải là một tiếng rên không, đúng là một con đĩ mà."
 
 # game/events/explore/construction_shop.rpy:246
 translate vietnamese explore_construction_shop_win_f9bc7416:
 
-    # scavenger_girl "It is not..."
-    scavenger_girl "Nó không phải..."
+    # scavenger_girl "It is not.."
+    scavenger_girl "Không phải..."
 
 # game/events/explore/construction_shop.rpy:249
 translate vietnamese explore_construction_shop_win_ce031dd4:
@@ -489,7 +489,7 @@ translate vietnamese explore_construction_shop_win_b6da4ef5:
 # game/events/explore/construction_shop.rpy:279
 translate vietnamese explore_construction_shop_win_fc055745:
 
-    # me "Ahh... Fuck yeah."
+    # me "Ahh.. Fuck yeah."
     me "Ahh... Fuck yeah."
 
 # game/events/explore/construction_shop.rpy:280

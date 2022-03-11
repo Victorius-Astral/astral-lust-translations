@@ -204,7 +204,7 @@ translate vietnamese strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Brothel"
-    new "Trần Duy Hưng"
+    new "Nhà thổ"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Main Plaza"
@@ -216,11 +216,11 @@ translate vietnamese strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[lil_fox]"
-    new "[lil_fox]"
+    new "Tiểu Cáo"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[rhainda] & [lil_fox]"
-    new "[rhainda] & [lil_fox]"
+    new "[rhainda] & Tiểu Cáo"
 
     # game/screens/gui/interactionMenu.rpy:369
     old "Interact:"

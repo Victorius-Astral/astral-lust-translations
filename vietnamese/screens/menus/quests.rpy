@@ -16,4 +16,4 @@ translate vietnamese strings:
 
     # game/screens/menus/quests.rpy:92
     old "{bad}Error! Progress over the maximum!\nIf you used cheats or console, change it back.{/bad}"
-    new "{bad}Lỗi! Tiến trình vượt quá mức tối đa! \ NNếu bạn sử dụng cheat hoặc console, hãy thay đổi lại.{/bad}"
+    new "{bad}Lỗi! Tiến trình vượt quá mức tối đa!\nNếu bạn sử dụng cheat hoặc console, hãy thay đổi lại.{/bad}"
