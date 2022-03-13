@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/lexi/wc.rpy:3
 translate spanish wc_lexi_2aaf4428:
 
     # th "Lexi. She looks at me.."
-    th "Lexi. Ella me mira..."
+    th "Lexi. Me está mirando..."
 
 # game/characters/lexi/wc.rpy:4
 translate spanish wc_lexi_1998487c:
@@ -35,11 +35,10 @@ translate spanish wc_lexi_2e39132c:
 
     # "You leave."
     "Te vas."
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 # game/characters/lexi/wc.rpy:7
 translate spanish wc_lexi_5a823cce:
 
     # me "Sorry, I thought it was unoccu-"
-    me "Sorry, I thought it was unoccu-"
-
+    me "Lo siento, pensé que estaba-"

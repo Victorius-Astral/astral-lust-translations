@@ -154,7 +154,7 @@ translate spanish banditsA_menu_b1bde65c:
 translate spanish banditsA_menu_ca667a37:
 
     # "You don't let them change their minds and quickly escape."
-    "No los dejas cambiar de idea y rápidamente escapas."
+    "No los dejas cambiar de idea y rápidamente eschapas."
 
 # game/events/explore/bandits.rpy:88
 translate spanish banditsA_menu_b02688fa:
@@ -346,7 +346,7 @@ translate spanish banditsB_menu_b1bde65c:
 translate spanish banditsB_menu_ca667a37:
 
     # "You don't let them change their minds and quickly escape."
-    "No los dejas cambiar de idea y rápidamente escapas."
+    "No los dejas cambiar de idea y rápidamente eschapas."
 
 # game/events/explore/bandits.rpy:194
 translate spanish banditsB_menu_9e152387:

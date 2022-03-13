@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/alice/ev_9.rpy:7
 translate spanish alice_9_90e426af:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/alice/ev_10.rpy:14
 translate spanish alice_10_f60efb3c:
@@ -624,7 +624,7 @@ translate spanish strings:
     old "Cum outside"
     new "Vente afuera"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

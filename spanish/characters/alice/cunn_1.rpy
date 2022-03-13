@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/alice/cunn_1.rpy:22
 translate spanish alice_cunn1_c839e5b0:
@@ -113,11 +113,10 @@ translate spanish alice_cunn1_8e0312e6:
 
     # "You leave her to rest."
     "La dejas para que descanse."
-# TODO: Translation updated at 2022-02-26 14:57
+# : Translation updated at 2022-02-26 14:57
 
 # game/characters/alice/cunn_1.rpy:50
 translate spanish alice_cunn1_0e51e6f6:
 
     # alice "Ahhh!~"
-    alice "Ahhh!~"
-
+    alice "¡Ahhh!~"

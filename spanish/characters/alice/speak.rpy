@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/alice/speak.rpy:9
 translate spanish speak_alice_56062ced:
@@ -22,13 +22,13 @@ translate spanish speak_alice_6688f373:
 translate spanish alice_menu1_2efa8c0a:
 
     # alice "I'm feeling sick. I think I caught something when I was out scavenging."
-    alice "Me siento enfermo. Creo que me dio algo cuando estaba hurgando."
+    alice "Me siento enferma. Creo que me dio algo cuando estaba recolectando."
 
 # game/characters/alice/speak.rpy:30
 translate spanish alice_menu1_a9f53024:
 
     # alice "I feel like I'm dying.."
-    alice "Siento que me muerto..."
+    alice "Siento que me muero..."
 
 # game/characters/alice/speak.rpy:34
 translate spanish alice_menu1_menuev9_e9077839:
@@ -52,7 +52,7 @@ translate spanish alice_menu1_menuev9_aa68854e:
 translate spanish alice_menu1_menuev9_f4e5d282:
 
     # "You don't have any antibiotics."
-    "No tienes antibioticos."
+    "No tienes antibióticos."
 
 # game/characters/alice/speak.rpy:55
 translate spanish alice_menu1_menuev9_71e87485:

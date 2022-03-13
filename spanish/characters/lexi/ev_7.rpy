@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/lexi/ev_7.rpy:7
 translate spanish lexi_7_64c3d9b8:
@@ -444,7 +444,7 @@ translate spanish strings:
     old "Ask if she is okay"
     new "Pregunta si está bien"
 
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/characters/lexi/ev_7.rpy:77
 translate spanish lexi_7_3_904e899a:
@@ -452,7 +452,7 @@ translate spanish lexi_7_3_904e899a:
     # "You have managed to defeat the monster."
     "Has logrado derrotar al monstruo."
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

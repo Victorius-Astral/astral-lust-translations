@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/lexi/speak.rpy:10
 translate spanish speak_lexi_b267fd29:
@@ -836,7 +836,7 @@ translate spanish speak_lexi_tasks_28863e87:
 translate spanish speak_lexi_tasks_3c4bc4e0:
 
     # lexi "Caps? Alright. It shouldn't be too difficult."
-    lexi "¿Tapas? Está bien. No debería ser tan difícil."
+    lexi "¿Chapas? Está bien. No debería ser tan difícil."
 
 # game/characters/lexi/speak.rpy:279
 translate spanish speak_lexi_tasks_1836de33:
@@ -904,7 +904,7 @@ translate spanish strings:
 
     # game/characters/lexi/speak.rpy:230
     old "Look for caps (Duration: [lexiTasks.scavengeCaps.duration]) {loot}(Caps+){/loot} {#visible}"
-    new "Recolecta tapas (Duration: [lexiTasks.scavengeCaps.duration]) {loot}(Tapas+){/loot} {#visible}"
+    new "Recolecta chapas (Duration: [lexiTasks.scavengeCaps.duration]) {loot}(Chapas+){/loot} {#visible}"
 
 # : Translation updated at 2022-01-29 20:12
 

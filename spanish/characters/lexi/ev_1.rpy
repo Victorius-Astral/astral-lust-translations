@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/lexi/ev_1.rpy:6
 translate spanish lexi_1_fd7dd882:
@@ -449,7 +449,7 @@ translate spanish strings:
     # game/characters/lexi/ev_1.rpy:60
     old "Run back to the hotel"
     new "Corre devuelta al hotel"
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 # game/characters/lexi/ev_1.rpy:31
 translate spanish lexi_1_1_8a1ffebc:

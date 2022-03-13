@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/lexi/hj_2.rpy:12
 translate spanish lexi_hj_2_6d4d2f45:
@@ -319,4 +319,3 @@ translate spanish lexi_hj_2_77418f3d:
 
     # th "She's joking, isn't she? If not then that would be hot."
     th "She's joking, isn't she? If not then that would be hot."
-

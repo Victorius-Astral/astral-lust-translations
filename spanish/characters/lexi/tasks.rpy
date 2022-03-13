@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/characters/lexi/tasks.rpy:5
 translate spanish task_lexi_scavenge_285847fd:
@@ -46,7 +46,7 @@ translate spanish task_lexi_scavenge_26b4c7d7:
 translate spanish task_lexi_caps_a3bf2e90:
 
     # lexi "I've got your caps."
-    lexi "Tengo tus tapas."
+    lexi "Tengo tus chapas."
 
 # game/characters/lexi/tasks.rpy:25
 translate spanish task_lexi_caps_48dcabdb:

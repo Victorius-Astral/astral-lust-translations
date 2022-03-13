@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/lexi/ev_4.rpy:3
 translate spanish lexi_4_b58cf092:
@@ -263,18 +263,17 @@ translate spanish strings:
     # game/characters/lexi/ev_4.rpy:72
     old "I can't promise anything"
     new "No puedo prometer nada"
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 
     # game/characters/lexi/ev_4.rpy:14
     old "Don't worry with, me here you're safe"
-    new "Don't worry with, me here you're safe"
-# TODO: Translation updated at 2022-02-16 09:41
+    new "No te preocupes, estás a salvo conmigo aquí"
+# : Translation updated at 2022-02-16 09:41
 
 translate spanish strings:
 
     # game/characters/lexi/ev_4.rpy:14
     old "Don't worry, with me here, you're safe"
-    new "Don't worry, with me here, you're safe"
-
+    new "No te preocupes, estás a salvo conmigo aquí"
