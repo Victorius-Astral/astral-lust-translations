@@ -1,7 +1,7 @@
 define available_languages = [
     # image, language name, language ID, completion %
-    ("spain", _("Spanish"), "spanish", "(98%)"),
-    ("vietnam", _("Vietnamese"), "vietnamese", "(96%)"),
+    ("spain", _("Spanish"), "spanish", "98%"),
+    ("vietnam", _("Vietnamese"), "vietnamese", "96%\nCommunity"),
 
 ]
 
@@ -36,7 +36,9 @@ screen language_selector():
             button:
                 action Language(lang[2]), Confirm(_("Do you want to restart the game? If you don't do it, some things will not change language."), Function(renpy.quit, relaunch = True, save = True))
 
+                at bright_hover
+
                 vbox:
                     add lang[0] at flagIcon
                     text lang[1]
-                    text lang[3]
+                    text lang[3] text_align 0.5
