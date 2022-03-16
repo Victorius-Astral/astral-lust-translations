@@ -412,9 +412,8 @@ translate spanish strings:
 
     # game/characters/rhainda/lilfox_1.rpy:23
     old "Of course I'm in"
-    new "Of course I'm in"
+    new "Por supuesto que me uno"
 
     # game/characters/rhainda/lilfox_1.rpy:23
     old "No need girls, play by yourself"
-    new "No need girls, play by yourself"
-
+    new "No es necesario, chicas, jueguen entre ustedes"
