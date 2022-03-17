@@ -207,8 +207,8 @@ translate vietnamese strings:
     new "Gamepad"
 
     # game/screens.rpy:1091
-    old "Enter"
-    new "Enter"
+    old "Enter {#key}"
+    new "Enter {#key}"
 
     # game/screens.rpy:1092
     old "Advances dialogue and activates the interface."

@@ -143,6 +143,9 @@ translate spanish strings:
     new "Mando"
 
     # game/screens.rpy:974
+    old "Enter {#key}"
+    new "Entrar {#key}"
+
     old "Enter"
     new "Entrar"
 

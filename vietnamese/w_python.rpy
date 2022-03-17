@@ -1,3 +1,3 @@
 translate vietnamese python:
-    fonts.fredericka = fonts.brygada
+    #fonts.fredericka = fonts.brygada
     fonts.bodoni = fonts.brygada
