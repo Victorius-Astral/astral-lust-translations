@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/alice/ev_1.rpy:5
 translate spanish alice_1_9364b9d6:
@@ -327,7 +327,7 @@ translate spanish strings:
     # game/characters/alice/ev_1.rpy:46
     old "Wait"
     new "Espera"
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

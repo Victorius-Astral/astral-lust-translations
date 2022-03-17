@@ -12,7 +12,7 @@ translate spanish strings:
 
     # game/functions/tasks/list.rpy:10
     old "Scavenge - Caps"
-    new "Hurgar - Tapas"
+    new "Hurgar - Chapas"
 
     # game/functions/tasks/list.rpy:21
     old "Tidy up the boxes"

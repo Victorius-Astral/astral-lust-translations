@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/lexi/ev_6.rpy:6
 translate spanish lexi_6_c7d87fe5:
@@ -478,7 +478,7 @@ translate spanish strings:
     old "Take care"
     new "Cuídate"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

@@ -1,130 +1,130 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/characters/lexi/ev_11.rpy:7
 translate spanish lexi_11_c63ec388:
 
     # me "[lexi]?!"
-    me "[lexi]?!"
+    me "¡¿[lexi]?!"
 
 # game/characters/lexi/ev_11.rpy:10
 translate spanish lexi_11_619bf178:
 
     # lexi "[me]? Luckily, it's you."
-    lexi "[me]? Luckily, it's you."
+    lexi "¿[me]? Por suerte, eres tú."
 
 # game/characters/lexi/ev_11.rpy:11
 translate spanish lexi_11_73555af4:
 
     # me "What the hell has happened to you?!"
-    me "What the hell has happened to you?!"
+    me "¡¿Qué demonios te ha pasado?!"
 
 # game/characters/lexi/ev_11.rpy:14
 translate spanish lexi_11_0ae86c93:
 
     # lexi "Oh, this? I had some bandit problems."
-    lexi "Oh, this? I had some bandit problems."
+    lexi "Oh, ¿esto? Tuve algunos problemas con los bandidos."
 
 # game/characters/lexi/ev_11.rpy:15
 translate spanish lexi_11_3b121f01:
 
     # me "Are you alright?!"
-    me "Are you alright?!"
+    me "¡¿Estás bien?!"
 
 # game/characters/lexi/ev_11.rpy:18
 translate spanish lexi_11_9366aff8:
 
     # lexi "Yeah, Al has a lot of these. A pity she doesn't have any bullets."
-    lexi "Yeah, Al has a lot of these. A pity she doesn't have any bullets."
+    lexi "Sí, Al tiene muchas de éstas. Lástima que no tenga balas."
 
 # game/characters/lexi/ev_11.rpy:19
 translate spanish lexi_11_264f319f:
 
     # me "How did you use it, then?"
-    me "How did you use it, then?"
+    me "¿Cómo la usaste entonces?"
 
 # game/characters/lexi/ev_11.rpy:20
 translate spanish lexi_11_d13ae70d:
 
     # lexi "With what little bullets we had left."
-    lexi "With what little bullets we had left."
+    lexi "Con las pocas balas que nos quedaban."
 
 # game/characters/lexi/ev_11.rpy:23
 translate spanish lexi_11_53fa093b:
 
     # lexi "Let's go home, [me]. I'm tired."
-    lexi "Let's go home, [me]. I'm tired."
+    lexi "Vamos a casa, [me]. Estoy cansada."
 
 # game/characters/lexi/ev_11.rpy:24
 translate spanish lexi_11_85215b5e:
 
     # me "Yeah, let's go back."
-    me "Yeah, let's go back."
+    me "Sí, volvamos."
 
 # game/characters/lexi/ev_11.rpy:27
 translate spanish lexi_11_bf2d48a2:
 
     # me "Home at last."
-    me "Home at last."
+    me "Por fin en casa."
 
 # game/characters/lexi/ev_11.rpy:28
 translate spanish lexi_11_19a76006:
 
     # lexi "Yeah. Sadly I didn't find anything."
-    lexi "Yeah. Sadly I didn't find anything."
+    lexi "Sí. Lamentablemente no encontré nada."
 
 # game/characters/lexi/ev_11.rpy:29
 translate spanish lexi_11_99c25db4:
 
     # me "What were you looking for?"
-    me "What were you looking for?"
+    me "¿Qué estabas buscando?"
 
 # game/characters/lexi/ev_11.rpy:30
 translate spanish lexi_11_f57b53f8:
 
     # lexi "Nothing really. Bullets and meds are lacking, so I guess I would like to find these things the most."
-    lexi "Nothing really. Bullets and meds are lacking, so I guess I would like to find these things the most."
+    lexi "Nada realmente. Faltan balas y medicamentos, así que supongo que es lo que más me gustaría encontrar."
 
 # game/characters/lexi/ev_11.rpy:31
 translate spanish lexi_11_387e4352:
 
     # me "You were risking your life without any goal?"
-    me "You were risking your life without any goal?"
+    me "¿Estabas arriesgando tu vida sin ningún objetivo?"
 
 # game/characters/lexi/ev_11.rpy:32
 translate spanish lexi_11_fa6759b7:
 
     # lexi "I don't know where to get the things we lack the most, so exploration itself is my goal, I guess."
-    lexi "I don't know where to get the things we lack the most, so exploration itself is my goal, I guess."
+    lexi "No sé dónde conseguir las cosas que más nos faltan, así que la exploración en sí misma es mi objetivo, supongo."
 
 # game/characters/lexi/ev_11.rpy:35
 translate spanish lexi_11_ede6e03d:
 
     # lexi "Let's go upstairs."
-    lexi "Let's go upstairs."
+    lexi "Vayamos arriba."
 
 # game/characters/lexi/ev_11.rpy:36
 translate spanish lexi_11_1a2007cc:
 
     # me "Yeah, you should go take a shower and change."
-    me "Yeah, you should go take a shower and change."
+    me "Sí, deberías ir a darte una ducha y cambiarte."
 
 # game/characters/lexi/ev_11.rpy:39
 translate spanish lexi_11_325c2d32:
 
     # lexi "How impolite.."
-    lexi "How impolite.."
+    lexi "Que descortés..."
 
 # game/characters/lexi/ev_11.rpy:40
 translate spanish lexi_11_fc4e7a89:
 
     # me "Sorry, that's not what I've meant."
-    me "Sorry, that's not what I've meant."
+    me "Lo siento, eso no es lo que quise decir."
 
 # game/characters/lexi/ev_11.rpy:41
 translate spanish lexi_11_976938c8:
 
     # lexi "Sure."
-    lexi "Sure."
+    lexi "Seguro."
 
 # game/characters/lexi/ev_11.rpy:44
 translate spanish lexi_11_3820771a:
@@ -142,283 +142,283 @@ translate spanish lexi_11_d7760fc7:
 translate spanish lexi_11_764c9c4c:
 
     # th "Is she angry?"
-    th "Is she angry?"
+    th "¿Está enojada?"
 
 # game/characters/lexi/ev_11.rpy:51
 translate spanish lexi_11_be1c5ae4:
 
     # th "Well, I doubt she would be angry about something like this. She's not so petty."
-    th "Well, I doubt she would be angry about something like this. She's not so petty."
+    th "Bueno, dudo que se enoje por algo como esto. No es tan mezquina."
 
 # game/characters/lexi/ev_11.rpy:54
 translate spanish lexi_11_639fa4e2:
 
     # me "Ahh.. Fuck, I'm so tired."
-    me "Ahh.. Fuck, I'm so tired."
+    me "Ahh... Mierda, estoy tan cansado."
 
 # game/characters/lexi/ev_11.rpy:55
 translate spanish lexi_11_d0bb2346:
 
     # me "I'll take a short nap."
-    me "I'll take a short nap."
+    me "Tomaré una pequeña siesta."
 
 # game/characters/lexi/ev_11.rpy:58
 translate spanish lexi_11_664ad724:
 
     # me "Yeah, short nap.."
-    me "Yeah, short nap.."
+    me "Sí, una pequeña siesta..."
 
 # game/characters/lexi/ev_11.rpy:59
 translate spanish lexi_11_c8dd6ec4:
 
     # me "*Snore*"
-    me "*Snore*"
+    me "*Ronquido*"
 
 # game/characters/lexi/ev_11.rpy:60
 translate spanish lexi_11_e7031074:
 
     # th "Uh? What is it?"
-    th "Uh? What is it?"
+    th "¿Uh? ¿Qué es?"
 
 # game/characters/lexi/ev_11.rpy:61
 translate spanish lexi_11_ee63d6ce:
 
     # "Something dripping on you wakes you up."
-    "Something dripping on you wakes you up."
+    "Algo que gotea sobre ti te despierta."
 
 # game/characters/lexi/ev_11.rpy:62
 translate spanish lexi_11_5bfa3447:
 
     # th "What is this wet thing on my stomach?"
-    th "What is this wet thing on my stomach?"
+    th "¿Qué es esta cosa húmeda en mi estómago?"
 
 # game/characters/lexi/ev_11.rpy:67
 translate spanish lexi_11_e97678e5:
 
     # me "[lexi]? What's up?"
-    me "[lexi]? What's up?"
+    me "¿[lexi]? ¿Qué sucede?"
 
 # game/characters/lexi/ev_11.rpy:71
 translate spanish lexi_11_90bc43fd:
 
     # th "Anyway.."
-    th "Anyway.."
+    th "De todos modos..."
 
 # game/characters/lexi/ev_11.rpy:72
 translate spanish lexi_11_c8dd6ec4_1:
 
     # me "*Snore*"
-    me "*Snore*"
+    me "*Ronquido*"
 
 # game/characters/lexi/ev_11.rpy:73
 translate spanish lexi_11_f5878ba6:
 
     # lexi "Ahh.. [me].."
-    lexi "Ahh.. [me].."
+    lexi "Ahh... [me]..."
 
 # game/characters/lexi/ev_11.rpy:76
 translate spanish lexi_11_dcc1d903:
 
     # me "{quiet}[lexi]?{/quiet}"
-    me "{quiet}[lexi]?{/quiet}"
+    me "{quiet}¿[lexi]?{/quiet}"
 
 # game/characters/lexi/ev_11.rpy:77
 translate spanish lexi_11_1f1f0643:
 
     # lexi "You need to be careful. What if it was an intruder? He would hurt you."
-    lexi "You need to be careful. What if it was an intruder? He would hurt you."
+    lexi "Tienes que tener cuidado. ¿Y si fuera un intruso? Te haría daño."
 
 # game/characters/lexi/ev_11.rpy:78
 translate spanish lexi_11_da743225:
 
     # me "I believe you'll kick his ass before he can do something to me."
-    me "I believe you'll kick his ass before he can do something to me."
+    me "Creo que le patearías el trasero antes de que pueda hacerme algo."
 
 # game/characters/lexi/ev_11.rpy:81
 translate spanish lexi_11_36419fd2:
 
     # lexi "That's sweet. But be careful, okay?"
-    lexi "That's sweet. But be careful, okay?"
+    lexi "Eso es dulce. Pero ten cuidado, ¿de acuerdo?"
 
 # game/characters/lexi/ev_11.rpy:82
 translate spanish lexi_11_01798ebc:
 
     # me "Okay. So, what do you need me for?"
-    me "Okay. So, what do you need me for?"
+    me "Okay. Está bien. Entonces, ¿para qué me necesitas?"
 
 # game/characters/lexi/ev_11.rpy:86
 translate spanish lexi_11_part2_6af178f3:
 
     # lexi "Do I smell better now?"
-    lexi "Do I smell better now?"
+    lexi "¿Huelo mejor ahora?"
 
 # game/characters/lexi/ev_11.rpy:87
 translate spanish lexi_11_part2_166e4631:
 
     # me "Haha, I didn't mean that, don't be sassy."
-    me "Haha, I didn't mean that, don't be sassy."
+    me "Haha, no quise decir eso, no seas pícara."
 
 # game/characters/lexi/ev_11.rpy:90
 translate spanish lexi_11_part2_b059c2c8:
 
     # me "Well, it doesn't really matter, right?"
-    me "Well, it doesn't really matter, right?"
+    me "Bueno, en realidad no importa, ¿verdad?"
 
 # game/characters/lexi/ev_11.rpy:91
 translate spanish lexi_11_part2_14ac27bd:
 
     # lexi "That's not how you use the word sassy."
-    lexi "That's not how you use the word sassy."
+    lexi "Así no es como se usa la palabra pícara."
 
 # game/characters/lexi/ev_11.rpy:92
 translate spanish lexi_11_part2_0b643f3a:
 
     # lexi "Yeah, not like anyone would care."
-    lexi "Yeah, not like anyone would care."
+    lexi "Sí, no es como si a alguien le importara."
 
 # game/characters/lexi/ev_11.rpy:95
 translate spanish lexi_11_part2_e73de652:
 
     # lexi "I've thought a lot in the shower."
-    lexi "I've thought a lot in the shower."
+    lexi "He pensado mucho en la ducha."
 
 # game/characters/lexi/ev_11.rpy:96
 translate spanish lexi_11_part2_89e0f582:
 
     # me "Why is there still a fresh water?"
-    me "Why is there still a fresh water?"
+    me "¿En por qué todavía hay agua corriendo?"
 
 # game/characters/lexi/ev_11.rpy:99
 translate spanish lexi_11_part2_82edbb3d:
 
     # lexi "Nah, it's a total mystery to me."
-    lexi "Nah, it's a total mystery to me."
+    lexi "Nah, es un completo misterio para mí."
 
 # game/characters/lexi/ev_11.rpy:102
 translate spanish lexi_11_part2_ca45e27e:
 
     # lexi "I was thinking more of you."
-    lexi "I was thinking more of you."
+    lexi "Estaba pensando más en ti."
 
 # game/characters/lexi/ev_11.rpy:103
 translate spanish lexi_11_part2_762abff7:
 
     # me "Oh?"
-    me "Oh?"
+    me "¿Oh?"
 
 # game/characters/lexi/ev_11.rpy:106
 translate spanish lexi_11_part2_6d591b0c:
 
     # lexi "When you'd first awakened here, my first thought was to kill you.."
-    lexi "When you'd first awakened here, my first thought was to kill you.."
+    lexi "Cuando despertaste aquí, mi primer pensamiento fue matarte..."
 
 # game/characters/lexi/ev_11.rpy:107
 translate spanish lexi_11_part2_c5d22fd6:
 
     # th "Then it's good she has changed her mind.. Would I still resurrect in the hotel if she did it?"
-    th "Then it's good she has changed her mind.. Would I still resurrect in the hotel if she did it?"
+    th "Entonces es bueno que haya cambiado de opinión... ¿Todavía resucitaría en el hotel si lo hubiera hecho?"
 
 # game/characters/lexi/ev_11.rpy:108
 translate spanish lexi_11_part2_d299f719:
 
     # me "I can understand, you didn't know me."
-    me "I can understand, you didn't know me."
+    me "Lo entiendo, no me conocías."
 
 # game/characters/lexi/ev_11.rpy:111
 translate spanish lexi_11_part2_bda40286:
 
     # lexi "I was worried about you being dangerous, but for some reason, I changed my mind."
-    lexi "I was worried about you being dangerous, but for some reason, I changed my mind."
+    lexi "Me preocupaba que fueras peligroso, pero por alguna razón, cambié de opinión."
 
 # game/characters/lexi/ev_11.rpy:112
 translate spanish lexi_11_part2_3828aee0:
 
     # lexi "Suddenly, you looked defenseless to me; adorable actually."
-    lexi "Suddenly, you looked defenseless to me; adorable actually."
+    lexi "De repente, me parecías indefenso; adorable, en realidad."
 
 # game/characters/lexi/ev_11.rpy:113
 translate spanish lexi_11_part2_522bbbbd:
 
     # me "What the hell? Adorable? Me? I'm a killing machine!"
-    me "What the hell? Adorable? Me? I'm a killing machine!"
+    me "¿Qué demonios? ¿Adorable? ¿Yo? ¡Soy una máquina de matar!"
 
 # game/characters/lexi/ev_11.rpy:116
 translate spanish lexi_11_part2_b4e0d576:
 
     # lexi "Haha! You're so strong, my hero."
-    lexi "Haha! You're so strong, my hero."
+    lexi "¡Haha! Eres tan fuerte, mi héroe."
 
 # game/characters/lexi/ev_11.rpy:119
 translate spanish lexi_11_part2_35c52b65:
 
     # lexi "I never doubted that. No crab is a match for you."
-    lexi "I never doubted that. No crab is a match for you."
+    lexi "Nunca lo dudé. Ningún cangrejo es rival para ti."
 
 # game/characters/lexi/ev_11.rpy:120
 translate spanish lexi_11_part2_66c26fe9:
 
     # me "Ye of little faith."
-    me "Ye of little faith."
+    me "Oh, tú de poca fe."
 
 # game/characters/lexi/ev_11.rpy:123
 translate spanish lexi_11_part2_6d9885ef:
 
     # lexi "I'm happy I have you here."
-    lexi "I'm happy I have you here."
+    lexi "Estoy feliz de tenerte aquí."
 
 # game/characters/lexi/ev_11.rpy:124
 translate spanish lexi_11_part2_02eb3584:
 
     # lexi "While sometimes I have a hard time understanding your actions, like, why would you keep ice cream in your pocket?"
-    lexi "While sometimes I have a hard time understanding your actions, like, why would you keep ice cream in your pocket?"
+    lexi "Aunque a veces me cuesta entender tus acciones, como, ¿por qué guardarías helado en tu bolsillo?"
 
 # game/characters/lexi/ev_11.rpy:125
 translate spanish lexi_11_part2_4540f36b:
 
     # me "Haha.."
-    me "Haha.."
+    me "Haha..."
 
 # game/characters/lexi/ev_11.rpy:128
 translate spanish lexi_11_part2_b5ae081b:
 
     # lexi "By the way, your pockets seem to be bottomless.."
-    lexi "By the way, your pockets seem to be bottomless.."
+    lexi "Por cierto, tus bolsillos parecen no tener fondo..."
 
 # game/characters/lexi/ev_11.rpy:129
 translate spanish lexi_11_part2_2208b1f5:
 
     # me "What can I say? I'm a man of many talents."
-    me "What can I say? I'm a man of many talents."
+    me "¿Qué puedo decir? Soy un hombre de muchos talentos."
 
 # game/characters/lexi/ev_11.rpy:132
 translate spanish lexi_11_part2_12c55354:
 
     # lexi "It's hard not to notice."
-    lexi "It's hard not to notice."
+    lexi "Es difícil no darse cuenta."
 
 # game/characters/lexi/ev_11.rpy:133
 translate spanish lexi_11_part2_1b4d398f:
 
     # me "It is also hard not to notice you are in a towel. Where are your clothes?"
-    me "It is also hard not to notice you are in a towel. Where are your clothes?"
+    me "También es difícil no notar que estás en una toalla. ¿Dónde está tu ropa?"
 
 # game/characters/lexi/ev_11.rpy:136
 translate spanish lexi_11_part2_319c1894:
 
     # lexi "I won't need them."
-    lexi "I won't need them."
+    lexi "No la necesitaré."
 
 # game/characters/lexi/ev_11.rpy:137
 translate spanish lexi_11_part2_bac1cb40:
 
     # me "Huh?"
-    me "Huh?"
+    me "¿Huh?"
 
 # game/characters/lexi/ev_11.rpy:140
 translate spanish lexi_11_part2_a1b42b9c:
 
     # lexi "I like you."
-    lexi "I like you."
+    lexi "Me gustas."
 
 # game/characters/lexi/ev_11.rpy:148
 translate spanish lexi_11_part2_d7760fc7:
@@ -430,25 +430,25 @@ translate spanish lexi_11_part2_d7760fc7:
 translate spanish lexi_11_part3_523255ac:
 
     # lexi "If everything was normal, I would want to be sure, check, and wait for more. But it is what it is."
-    lexi "If everything was normal, I would want to be sure, check, and wait for more. But it is what it is."
+    lexi "Si todo fuera normal, me gustaría estar segura, comprobar y esperar más. Pero es lo que es."
 
 # game/characters/lexi/ev_11.rpy:159
 translate spanish lexi_11_part3_d5c53657:
 
     # lexi "We can die anytime, so, umm.."
-    lexi "We can die anytime, so, umm.."
+    lexi "Podemos morir en cualquier momento, así que, umm.."
 
 # game/characters/lexi/ev_11.rpy:160
 translate spanish lexi_11_part3_b23c7a17:
 
     # me "Yes? Don't worry, you can tell me everything."
-    me "Yes? Don't worry, you can tell me everything."
+    me "¿Sí? No te preocupes, puedes contarme lo que sea."
 
 # game/characters/lexi/ev_11.rpy:161
 translate spanish lexi_11_part3_14b508f4:
 
     # lexi "It doesn't change the fact, it's awkward to ask.."
-    lexi "It doesn't change the fact, it's awkward to ask.."
+    lexi "No cambia el hecho, de es incómodo decirlo..."
 
 # game/characters/lexi/ev_11.rpy:162
 translate spanish lexi_11_part3_3820771a:
@@ -460,61 +460,61 @@ translate spanish lexi_11_part3_3820771a:
 translate spanish lexi_11_part3_6e8e7970:
 
     # lexi "So, do you want to be my first?"
-    lexi "So, do you want to be my first?"
+    lexi "Entonces, ¿quieres ser el primero?"
 
 # game/characters/lexi/ev_11.rpy:166
 translate spanish lexi_11_part3_1e59f2df:
 
     # me "First?"
-    me "First?"
+    me "¿Primero?"
 
 # game/characters/lexi/ev_11.rpy:167
 translate spanish lexi_11_part3_0cd46d6e:
 
     # lexi "Yeah."
-    lexi "Yeah."
+    lexi "Sí."
 
 # game/characters/lexi/ev_11.rpy:180
 translate spanish lexi_11_part3_1a244413:
 
     # th "[lexi] is a virgin.. and she wants me to be her first.."
-    th "[lexi] is a virgin.. and she wants me to be her first.."
+    th "[lexi] es una virgen... y quiere que yo sea el primero..."
 
 # game/characters/lexi/ev_11.rpy:183
 translate spanish lexi_11_part3_aaeb5292:
 
     # lexi "There is a lot I'm yet to experience, I want to try having sex, and I want to do it with you."
-    lexi "There is a lot I'm yet to experience, I want to try having sex, and I want to do it with you."
+    lexi "Aún me queda mucho por experimentar, quiero intentar tener sexo y quiero hacerlo contigo."
 
 # game/characters/lexi/ev_11.rpy:184
 translate spanish lexi_11_part3_39820204:
 
     # me "I'm one lucky bastard, for you to feel like this about me."
-    me "I'm one lucky bastard, for you to feel like this about me."
+    me "Soy un bastardo con suerte, para que te sientas así por mí."
 
 # game/characters/lexi/ev_11.rpy:187
 translate spanish lexi_11_part3_94e232d6:
 
     # lexi "Mina tends to say, you're one unlucky bastard."
-    lexi "Mina tends to say, you're one unlucky bastard."
+    lexi "Mina tiende a decir, eres un bastardo sin suerte."
 
 # game/characters/lexi/ev_11.rpy:188
 translate spanish lexi_11_part3_18960e13:
 
     # me "She knows nothing."
-    me "She knows nothing."
+    me "No sabe de qué habla."
 
 # game/characters/lexi/ev_11.rpy:191
 translate spanish lexi_11_part3_f3d8c012:
 
     # lexi "Yeah, but let's not talk about my [lex_min!t] anymore."
-    lexi "Yeah, but let's not talk about my [lex_min!t] anymore."
+    lexi "Sí, pero ya no hablemos más de mi [lex_min!t]."
 
 # game/characters/lexi/ev_11.rpy:192
 translate spanish lexi_11_part3_f5ed6522:
 
     # me "I agree."
-    me "I agree."
+    me "Estoy de acuerdo."
 
 # game/characters/lexi/ev_11.rpy:195
 translate spanish lexi_11_part3_76c8b268:
@@ -532,61 +532,61 @@ translate spanish lexi_11_part3_01753822:
 translate spanish lexi_11_part3_87a76aa3:
 
     # me "Are you sure?"
-    me "Are you sure?"
+    me "¿Estás segura?"
 
 # game/characters/lexi/ev_11.rpy:202
 translate spanish lexi_11_part3_e363ece1:
 
     # lexi "Yes."
-    lexi "Yes."
+    lexi "Si."
 
 # game/characters/lexi/ev_11.rpy:205
 translate spanish lexi_11_part3_a273c626:
 
     # lexi "Ah!"
-    lexi "Ah!"
+    lexi "¡Ah!"
 
 # game/characters/lexi/ev_11.rpy:208
 translate spanish lexi_11_part3_fdae9b48:
 
     # me "Are you alright?"
-    me "Are you alright?"
+    me "¿Estás bien?"
 
 # game/characters/lexi/ev_11.rpy:211
 translate spanish lexi_11_part3_d5caa02d:
 
     # lexi "Yeah, it's nothing."
-    lexi "Yeah, it's nothing."
+    lexi "Sí, no es nada."
 
 # game/characters/lexi/ev_11.rpy:212
 translate spanish lexi_11_part3_9f0c6e25:
 
     # me "Can I move?"
-    me "Can I move?"
+    me "¿Me puedo mover?"
 
 # game/characters/lexi/ev_11.rpy:213
 translate spanish lexi_11_part3_e363ece1_1:
 
     # lexi "Yes."
-    lexi "Yes."
+    lexi "Si."
 
 # game/characters/lexi/ev_11.rpy:221
 translate spanish lexi_11_part3_cc3f0aca:
 
     # lexi "Uhm!"
-    lexi "Uhm!"
+    lexi "¡Uhm!"
 
 # game/characters/lexi/ev_11.rpy:222
 translate spanish lexi_11_part3_f5e5fdbf:
 
     # lexi "It hurts, but it also feels good. It's weird, [me]."
-    lexi "It hurts, but it also feels good. It's weird, [me]."
+    lexi "Duele, pero también se siente bien. Es raro, [me]."
 
 # game/characters/lexi/ev_11.rpy:223
 translate spanish lexi_11_part3_812db953:
 
     # me "Do you want me to stop?"
-    me "Do you want me to stop?"
+    me "¿Quieres que pare?"
 
 # game/characters/lexi/ev_11.rpy:224
 translate spanish lexi_11_part3_8e1ee44d:
@@ -604,181 +604,181 @@ translate spanish lexi_11_part3_064b644c:
 translate spanish lexi_11_part3_beeb7065:
 
     # lexi "You can move faster.."
-    lexi "You can move faster.."
+    lexi "Puedes moverte más rápido..."
 
 # game/characters/lexi/ev_11.rpy:234
 translate spanish lexi_11_part3_b273d15b:
 
     # me "Ah.."
-    me "Ah.."
+    me "Ah..."
 
 # game/characters/lexi/ev_11.rpy:235
 translate spanish lexi_11_part3_4f18bdf3:
 
     # me "You're amazing, [lexi]."
-    me "You're amazing, [lexi]."
+    me "Eres increíble, [lexi]."
 
 # game/characters/lexi/ev_11.rpy:236
 translate spanish lexi_11_part3_e7800d23:
 
     # lexi "Thank you.. Ahn~"
-    lexi "Thank you.. Ahn~"
+    lexi "Gracias... Ahn~"
 
 # game/characters/lexi/ev_11.rpy:237
 translate spanish lexi_11_part3_af7e5469:
 
     # lexi "Mmmm, it doesn't hurt anymore, you don't need to hold yourself back."
-    lexi "Mmmm, it doesn't hurt anymore, you don't need to hold yourself back."
+    lexi "Mmmm, ya no duele, no necesitas contenerte."
 
 # game/characters/lexi/ev_11.rpy:245
 translate spanish lexi_11_part3_ab6ab42e:
 
     # me "Can't say no to a lady, can I?"
-    me "Can't say no to a lady, can I?"
+    me "No puedo decirle que no a una dama, ¿verdad?"
 
 # game/characters/lexi/ev_11.rpy:246
 translate spanish lexi_11_part3_a73ac50f:
 
     # lexi "Ahh!"
-    lexi "Ahh!"
+    lexi "¡Ahh!"
 
 # game/characters/lexi/ev_11.rpy:247
 translate spanish lexi_11_part3_e9df954c:
 
     # me "I'm close, [lexi]!"
-    me "I'm close, [lexi]!"
+    me "¡Estoy cerca, [lexi]!"
 
 # game/characters/lexi/ev_11.rpy:248
 translate spanish lexi_11_part3_33241cff:
 
     # lexi "Don't cum inside!"
-    lexi "Don't cum inside!"
+    lexi "¡Adentro no!"
 
 # game/characters/lexi/ev_11.rpy:251
 translate spanish lexi_11_part3_166d9144:
 
     # me "Ahh!"
-    me "Ahh!"
+    me "¡Ahh!"
 
 # game/characters/lexi/ev_11.rpy:258
 translate spanish lexi_11_part3_43534c77:
 
     # lexi "Uh.."
-    lexi "Uh.."
+    lexi "Uh..."
 
 # game/characters/lexi/ev_11.rpy:259
 translate spanish lexi_11_part3_61c5f1ea:
 
     # me "[lexi]?"
-    me "[lexi]?"
+    me "¿[lexi]?"
 
 # game/characters/lexi/ev_11.rpy:262
 translate spanish lexi_11_part3_607be26b:
 
     # lexi "It was quite tiring, you know?"
-    lexi "It was quite tiring, you know?"
+    lexi "Fue bastante agotador, ¿sabes?"
 
 # game/characters/lexi/ev_11.rpy:263
 translate spanish lexi_11_part3_57c86fdc:
 
     # me "How are you feeling?"
-    me "How are you feeling?"
+    me "¿Cómo te sientes?"
 
 # game/characters/lexi/ev_11.rpy:266
 translate spanish lexi_11_part3_a278807a:
 
     # lexi "I don't know. I can't quite describe it."
-    lexi "I don't know. I can't quite describe it."
+    lexi "No lo sé. No puedo describirlo."
 
 # game/characters/lexi/ev_11.rpy:267
 translate spanish lexi_11_part3_fb76ff75:
 
     # me "How so?"
-    me "How so?"
+    me "¿De verdad?"
 
 # game/characters/lexi/ev_11.rpy:268
 translate spanish lexi_11_part3_34505b03:
 
     # lexi "I'm tired, and a little painful, but I feel happy too."
-    lexi "I'm tired, and a little painful, but I feel happy too."
+    lexi "Estoy cansada y un poco adolorida, pero también me siento feliz."
 
 # game/characters/lexi/ev_11.rpy:269
 translate spanish lexi_11_part3_081fb9e0:
 
     # lexi "I didn't feel happy for a long time."
-    lexi "I didn't feel happy for a long time."
+    lexi "No me sentí feliz por mucho tiempo."
 
 # game/characters/lexi/ev_11.rpy:270
 translate spanish lexi_11_part3_f46c03a7:
 
     # lexi "Thank you."
-    lexi "Thank you."
+    lexi "Gracias."
 
 # game/characters/lexi/ev_11.rpy:271
 translate spanish lexi_11_part3_b0a0560f:
 
     # me "No need, you deserve happiness."
-    me "No need, you deserve happiness."
+    me "No hace falta, mereces ser feliz."
 
 # game/characters/lexi/ev_11.rpy:274
 translate spanish lexi_11_part3_f3d1bbb0:
 
     # lexi "I used to think differently."
-    lexi "I used to think differently."
+    lexi "Solía ​​pensar diferente."
 
 # game/characters/lexi/ev_11.rpy:275
 translate spanish lexi_11_part3_6e80a918:
 
     # me "You don't think so anymore?"
-    me "You don't think so anymore?"
+    me "¿Ya no lo crees?"
 
 # game/characters/lexi/ev_11.rpy:276
 translate spanish lexi_11_part3_5ca52da9:
 
     # lexi "I don't think I deserve it, but.. I want to be happy."
-    lexi "I don't think I deserve it, but.. I want to be happy."
+    lexi "No creo que me lo merezca, pero... quiero ser feliz."
 
 # game/characters/lexi/ev_11.rpy:277
 translate spanish lexi_11_part3_c1c43ae5:
 
     # th "Is that related to her parents?"
-    th "Is that related to her parents?"
+    th "¿Eso está relacionado con sus padres?"
 
 # game/characters/lexi/ev_11.rpy:278
 translate spanish lexi_11_part3_bb5641fe:
 
     # me "I'll make you happy, [lexi]. You deserve it."
-    me "I'll make you happy, [lexi]. You deserve it."
+    me "Te voy a hacer feliz, [lexi]. Te lo mereces."
 
 # game/characters/lexi/ev_11.rpy:282
 translate spanish lexi_11_part3_dd00c27a:
 
     # lexi "I'll take your word for that."
-    lexi "I'll take your word for that."
+    lexi "Te tomaré la palabra."
 
 # game/characters/lexi/ev_11.rpy:285
 translate spanish lexi_11_part3_8dfcab39:
 
     # lexi "I'm tired.. Can I sleep here?"
-    lexi "I'm tired.. Can I sleep here?"
+    lexi "Estoy cansada... ¿Puedo dormir aquí?"
 
 # game/characters/lexi/ev_11.rpy:286
 translate spanish lexi_11_part3_52187447:
 
     # me "Of course."
-    me "Of course."
+    me "Por supuesto."
 
 # game/characters/lexi/ev_11.rpy:287
 translate spanish lexi_11_part3_f3df8528:
 
     # lexi "What if someone sees us?"
-    lexi "What if someone sees us?"
+    lexi "¿Y si alguien nos ve?"
 
 # game/characters/lexi/ev_11.rpy:288
 translate spanish lexi_11_part3_0ef5ac00:
 
     # me "Are you afraid?"
-    me "Are you afraid?"
+    me "¿Tienes miedo?"
 
 # game/characters/lexi/ev_11.rpy:289
 translate spanish lexi_11_part3_8e1ee44d_1:
@@ -790,7 +790,7 @@ translate spanish lexi_11_part3_8e1ee44d_1:
 translate spanish lexi_11_part3_6f24ed9c:
 
     # me "Me neither."
-    me "Me neither."
+    me "Yo tampoco."
 
 # game/characters/lexi/ev_11.rpy:291
 translate spanish lexi_11_part3_d7760fc7:
@@ -802,201 +802,200 @@ translate spanish lexi_11_part3_d7760fc7:
 translate spanish lexi_11_part3_611e3227:
 
     # "You take a nap with a naked [lexi] in tow."
-    "You take a nap with a naked [lexi] in tow."
+    "Tomas una siesta con una [lexi] desnuda a cuestas."
 
 # game/characters/lexi/ev_11.rpy:297
 translate spanish lexi_11_part3_26539415:
 
     # "Many hours pass by, as you enjoy each other's presence."
-    "Many hours pass by, as you enjoy each other's presence."
+    "Pasan muchas horas mientras disfrutan de la presencia del otro."
 
 # game/characters/lexi/ev_11.rpy:300
 translate spanish lexi_11_part3_39f68dca:
 
     # lexi "[me]?"
-    lexi "[me]?"
+    lexi "¿[me]?"
 
 # game/characters/lexi/ev_11.rpy:303
 translate spanish lexi_11_part3_0cf8453a:
 
     # me "Yeah?"
-    me "Yeah?"
+    me "¿Sí?"
 
 # game/characters/lexi/ev_11.rpy:304
 translate spanish lexi_11_part3_745a75f4:
 
     # lexi "It's night already.."
-    lexi "It's night already.."
+    lexi "Ya es de noche..."
 
 # game/characters/lexi/ev_11.rpy:305
 translate spanish lexi_11_part3_9359b042:
 
     # me "Yeah, time to sleep."
-    me "Yeah, time to sleep."
+    me "Sí, es hora de dormir."
 
 # game/characters/lexi/ev_11.rpy:306
 translate spanish lexi_11_part3_8eaff60b:
 
     # lexi "We just woke up."
-    lexi "We just woke up."
+    lexi "Acabamos de despertar."
 
 # game/characters/lexi/ev_11.rpy:309
 translate spanish lexi_11_part3_6d853847:
 
     # lexi "I'll go to my room, Mina must be worried."
-    lexi "I'll go to my room, Mina must be worried."
+    lexi "Iré a mi habitación, Mina debe estar preocupada."
 
 # game/characters/lexi/ev_11.rpy:310
 translate spanish lexi_11_part3_8e1f2ac5:
 
     # me "I wouldn't be surprised if she looked up for you here already."
-    me "I wouldn't be surprised if she looked up for you here already."
+    me "No me sorprendería si ella ya pasó por aquí a buscarte."
 
 # game/characters/lexi/ev_11.rpy:313
 translate spanish lexi_11_part3_c0424cb9:
 
     # lexi "Then, I'll get a lot of question once I'm back."
-    lexi "Then, I'll get a lot of question once I'm back."
+    lexi "Entonces, recibiré muchas preguntas una vez que regrese."
 
 # game/characters/lexi/ev_11.rpy:321
 translate spanish lexi_11_part3_27626081:
 
     # lexi "I was waiting for this."
-    lexi "I was waiting for this."
+    lexi "Estaba esperando esto."
 
 # game/characters/lexi/ev_11.rpy:322
 translate spanish lexi_11_part3_a31d0d96:
 
     # me "Are you running from your [lex_min!t]?"
-    me "Are you running from your [lex_min!t]?"
+    me "¿Estás huyendo de tu [lex_min!t]?"
 
 # game/characters/lexi/ev_11.rpy:323
 translate spanish lexi_11_part3_f5371da6:
 
     # lexi "You can't imagine how chatty she can get."
-    lexi "You can't imagine how chatty she can get."
+    lexi "No te imaginas lo habladora que puede llegar a ser."
 
 # game/characters/lexi/ev_11.rpy:324
 translate spanish lexi_11_part3_a529b37f:
 
     # me "I think I know what you're talking about."
-    me "I think I know what you're talking about."
+    me "Creo que sé de lo que estás hablando."
 
 # game/characters/lexi/ev_11.rpy:327
 translate spanish lexi_11_part3_d9c562b3:
 
     # lexi "Really?"
-    lexi "Really?"
+    lexi "¿En serio?"
 
 # game/characters/lexi/ev_11.rpy:328
 translate spanish lexi_11_part3_253ef30c:
 
     # me "Yeah, after I've met her, she came to my room and started to ask me about many things."
-    me "Yeah, after I've met her, she came to my room and started to ask me about many things."
+    me "Sí, después de conocerla, vino a mi habitación y comenzó a preguntarme sobre muchas cosas."
 
 # game/characters/lexi/ev_11.rpy:331
 translate spanish lexi_11_part3_02abef53:
 
     # lexi "Haha, that's Mina for you."
-    lexi "Haha, that's Mina for you."
+    lexi "Haha, esa sí que es Mina."
 
 # game/characters/lexi/ev_11.rpy:334
 translate spanish lexi_11_part3_7160a415:
 
     # "You two talked for a long time, laughing and gossiping, till you fell asleep again."
-    "You two talked for a long time, laughing and gossiping, till you fell asleep again."
+    "Ustedes dos hablaron durante mucho tiempo, riéndose y chismoseando, hasta que se durmieron de nuevo."
 
 # game/characters/lexi/ev_11.rpy:339
 translate spanish lexi_11_part3_e3ba411e:
 
     # lexi "Yhm.."
-    lexi "Yhm.."
+    lexi "Yhm..."
 
 # game/characters/lexi/ev_11.rpy:342
 translate spanish lexi_11_part3_16817353:
 
     # lexi "{small}I need to go.{/small}"
-    lexi "{small}I need to go.{/small}"
+    lexi "{small}Me tengo que ir.{/small}"
 
 # game/characters/lexi/ev_11.rpy:343
 translate spanish lexi_11_part3_eaf1aaec:
 
     # me "Mm.."
-    me "Mm.."
+    me "Mm..."
 
 # game/characters/lexi/ev_11.rpy:346
 translate spanish lexi_11_part3_f63a79b1:
 
     # lexi "{small}Thank you.{/small}"
-    lexi "{small}Thank you.{/small}"
+    lexi "{small}Gracias.{/small}"
 
 # game/characters/lexi/ev_11.rpy:353
 translate spanish lexi_11_part3_5b3c804e:
 
     # lexi "Ha, ha, great idea."
-    lexi "Ha, ha, great idea."
+    lexi "Ha, ha, gran idea."
 
 # game/characters/lexi/ev_11.rpy:356
 translate spanish lexi_11_part3_98679773:
 
     # lexi "I'll just tell her to go ask you, instead."
-    lexi "I'll just tell her to go ask you, instead."
+    lexi "Le diré que te pregunte a ti en mi lugar."
 
 # game/characters/lexi/ev_11.rpy:359
 translate spanish lexi_11_part3_d3a78296:
 
     # me "What? No!"
-    me "What? No!"
+    me "¿Qué? ¡No!"
 
 # game/characters/lexi/ev_11.rpy:362
 translate spanish lexi_11_part3_a1eb80d4:
 
     # lexi "Bye, [me]! I'll send Mina your way."
-    lexi "Bye, [me]! I'll send Mina your way."
+    lexi "¡Adiós, [me]! Te enviaré a Mina."
 
 # game/characters/lexi/ev_11.rpy:363
 translate spanish lexi_11_part3_e04d3231:
 
     # me "[lexi]!"
-    me "[lexi]!"
+    me "¡[lexi]!"
 
 # game/characters/lexi/ev_11.rpy:366
 translate spanish lexi_11_part3_7b4880b0:
 
     # me "How cruel of you, [lexi].."
-    me "How cruel of you, [lexi].."
+    me "Cuánta crueldad, [lexi]..."
 
 # game/characters/lexi/ev_11.rpy:367
 translate spanish lexi_11_part3_994e4f15:
 
     # me "Anyway, I better just go to sleep."
-    me "Anyway, I better just go to sleep."
+    me "De todos modos, mejor me voy a dormir."
 
 # game/characters/lexi/ev_11.rpy:372
 translate spanish lexi_11_part3_62d1a43b:
 
     # "You feel full of energy."
-    "You feel full of energy."
+    "Te sientes lleno de energía."
 
 translate spanish strings:
 
     # game/characters/lexi/ev_11.rpy:64
     old "Open your eyes"
-    new "Open your eyes"
+    new "Abre tus ojos"
 
     # game/characters/lexi/ev_11.rpy:64
     old "Go back to sleep"
-    new "Go back to sleep"
+    new "Vuelve a dormir"
 
     # game/characters/lexi/ev_11.rpy:142
     old "I like you too"
-    new "I like you too"
+    new "También me gustas"
 
     # game/characters/lexi/ev_11.rpy:315
     old "Stay the night"
-    new "Stay the night"
+    new "Quédate esta noche"
 
     # game/characters/lexi/ev_11.rpy:315
     old "Pretend you don't hear her"
-    new "Pretend you don't hear her"
-
+    new "Pretende que no la oíste"

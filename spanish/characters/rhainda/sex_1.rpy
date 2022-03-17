@@ -766,7 +766,7 @@ translate spanish rhainda_sex_1_doggy_89e0f92b:
 translate spanish rhainda_sex_1_doggy_9f903743:
 
     # rhainda "Thanks."
-    rhainda "Thanks."
+    rhainda "Gracias."
 
 # game/characters/rhainda/sex_1.rpy:272
 translate spanish rhainda_sex_1_doggy_3820771a_4:
@@ -778,13 +778,12 @@ translate spanish strings:
 
     # game/characters/rhainda/sex_1.rpy:37
     old "Convince her {cha}(Charisma){/cha}{#visible}"
-    new "Convince her {cha}(Charisma){/cha}{#visible}"
+    new "Convéncela {cha}(Carisma){/cha}{#visible}"
 
     # game/characters/rhainda/sex_1.rpy:37
     old "Let's fight"
-    new "Let's fight"
+    new "Peleemos"
 
     # game/characters/rhainda/sex_1.rpy:37
     old "Submit to her"
-    new "Submit to her"
-
+    new "Someterse a ella"

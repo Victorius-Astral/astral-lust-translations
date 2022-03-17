@@ -298,7 +298,7 @@ translate spanish discover_wanderers_win_40e60644:
 translate spanish discover_wanderers_win_d02b95ea:
 
     # governor "Bottle caps? Yes, they are."
-    governor "¿Tapas de botella? Sí, lo son."
+    governor "¿Chapas de botella? Sí, lo son."
 
 # game/places/wanderers/discover.rpy:118
 translate spanish discover_wanderers_win_23be24fb:

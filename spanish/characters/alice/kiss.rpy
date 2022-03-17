@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/characters/alice/kiss.rpy:30
 translate spanish alice_kiss_9d46b110:

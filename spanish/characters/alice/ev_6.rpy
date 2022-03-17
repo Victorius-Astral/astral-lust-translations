@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/alice/ev_6.rpy:12
 translate spanish alice_6_ffe72fa7:
@@ -362,7 +362,7 @@ translate spanish strings:
     old "..."
     new "..."
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

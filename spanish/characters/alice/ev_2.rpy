@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/alice/ev_2.rpy:6
 translate spanish alice_2_68ab42c9:
@@ -391,7 +391,7 @@ translate spanish strings:
     # game/characters/alice/ev_2.rpy:25
     old "I won't play your games"
     new "No jugaré tus juegos"
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

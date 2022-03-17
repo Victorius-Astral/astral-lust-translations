@@ -412,19 +412,18 @@ translate spanish speak_rhainda_questions_909d0c66:
 translate spanish speak_rhainda_questions_282f3876:
 
     # me "Hahaha!"
-    me "Hahaha!"
+    me "¡Hahaha!"
 
 translate spanish strings:
 
     # game/characters/rhainda/speak.rpy:24
     old "Let's have some fun {lust}(Lust+){/lust}"
-    new "Let's have some fun {lust}(Lust+){/lust}"
+    new "Vamos a divertirnos un poco {lust}(Lujuria+){/lust}"
 
     # game/characters/rhainda/speak.rpy:54
     old "How come you're a vegan fox?"
-    new "How come you're a vegan fox?"
+    new "¿Cómo es que eres un zorro vegano?"
 
     # game/characters/rhainda/speak.rpy:54
     old "Why do you hate ducks?"
-    new "Why do you hate ducks?"
-
+    new "¿Por qué odias a los patos?"

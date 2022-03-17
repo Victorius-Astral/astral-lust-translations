@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/alice/ev_3.rpy:3
 translate spanish alice_3_dbbe60f3:
@@ -591,7 +591,7 @@ translate spanish strings:
     # game/characters/alice/ev_3.rpy:20
     old "Not now"
     new "Ahora no"
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

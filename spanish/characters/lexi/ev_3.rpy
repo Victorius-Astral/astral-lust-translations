@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/lexi/ev_3.rpy:3
 translate spanish lexi_3_9f5e7d5f:
@@ -543,50 +543,50 @@ translate spanish strings:
     # game/characters/lexi/ev_3.rpy:105
     old "Where is my kiss?"
     new "¿Dónde está mi beso?"
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 # game/characters/lexi/ev_3.rpy:30
 translate spanish lexi_3_1_ed5e738e:
 
     # th "So this is Alice's room. Now that I think about it I have never met her before."
-    th "So this is Alice's room. Now that I think about it I have never met her before."
+    th "Así que esta es la habitación de Alice. Ahora que lo pienso, no he llegado a conocerla todavía."
 
 # game/characters/lexi/ev_3.rpy:41
 translate spanish lexi_3_1_2f16c8e3:
 
     # lexi "Our baby, Grace. Don't tell me you never met her?"
-    lexi "Our baby, Grace. Don't tell me you never met her?"
+    lexi "Nuestra bebé, Grace. ¿No me digas que nunca la conociste?"
 
 # game/characters/lexi/ev_3.rpy:61
 translate spanish lexi_3_1_192e2160:
 
     # me "Just now you looked so sad tha-"
-    me "Just now you looked so sad tha-"
+    me "Justo ahora te veías tan triste que-"
 
 # game/characters/lexi/ev_3.rpy:63
 translate spanish lexi_3_1_3a00834b:
 
     # "[lexi] puts her finger across your mouth to prevent you from speaking and shakes her head indicating that you shouldn't ask."
-    "[lexi] puts her finger across your mouth to prevent you from speaking and shakes her head indicating that you shouldn't ask."
+    "[lexi] te tapa la boca con el dedo para evitar que hables, e indica con la cabeza que no debes preguntar más."
 
 # game/characters/lexi/ev_3.rpy:146
 translate spanish lexi_3_3_84d91694:
 
     # me "Alice still hasn't come back. Could something have happened to her? Its pretty late already..."
-    me "Alice still hasn't come back. Could something have happened to her? Its pretty late already..."
+    me "Alice todavía no ha regresado. ¿Podría haberle pasado algo? Ya es bastante tarde..."
 
 # game/characters/lexi/ev_3.rpy:148
 translate spanish lexi_3_3_3b8c4bc3:
 
     # lexi "No, it's safe here. She's sleeping with Grace today I guess. She does that sometimes."
-    lexi "No, it's safe here. She's sleeping with Grace today I guess. She does that sometimes."
+    lexi "No, aquí es seguro. Hoy se acostará con Grace, supongo. A veces hace eso."
 
 translate spanish strings:
 
     # game/characters/lexi/ev_3.rpy:6
     old "She loves ice cream a lot. It would be an excellent gift for her."
-    new "She loves ice cream a lot. It would be an excellent gift for her."
+    new "Le fascina el helado, y mucho. Sería un excelente regalo para ella."
 
     # game/characters/lexi/ev_3.rpy:98
     old "The electricity and fresh water are abundant, I wonder why?"
-    new "The electricity and fresh water are abundant, I wonder why?"
+    new "La electricidad y el agua son abundantes. ¿Me pregunto por qué?"

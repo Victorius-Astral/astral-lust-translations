@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/lexi/ev_2.rpy:3
 translate spanish lexi_2_fa3b34bd:
@@ -443,7 +443,7 @@ translate spanish strings:
     # game/characters/lexi/ev_2.rpy:84
     old "I'll take care of her if something happens"
     new "Me encargaré de ella si algo sucede"
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 # game/characters/lexi/ev_2.rpy:46
 translate spanish lexi_2_1_6e998f81_1:
@@ -467,10 +467,10 @@ translate spanish lexi_2_1a_215b0feb:
 translate spanish lexi_2_2_6c166f21:
 
     # "A family of three lies bathed in their own blood in the middle of the room. The mother is naked, you can imagine why. [lexi] quickly checks their bodies."
-    "A family of three lies bathed in their own blood in the middle of the room. The mother is naked, you can imagine why. [lexi] quickly checks their bodies."
+    "Una familia de tres yace bañada en su propia sangre en medio de la habitación. La madre está desnuda, te imaginas por qué. [lexi] revisa rápidamente sus cuerpos."
 
 translate spanish strings:
 
     # game/characters/lexi/ev_2.rpy:67
     old "She doesn't want to talk about her parents."
-    new "She doesn't want to talk about her parents."
+    new "No quiere hablar de sus padres."

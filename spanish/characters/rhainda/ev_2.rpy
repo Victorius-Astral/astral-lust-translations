@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2022-02-16 09:41
+﻿# : Translation updated at 2022-02-16 09:41
 
 # game/characters/rhainda/ev_2.rpy:10
 translate spanish rhainda_2_7e496c80:
 
     # me "How is your new home?"
-    me "How is your new home?"
+    me "¿Cómo está tu nueva casa?"
 
 # game/characters/rhainda/ev_2.rpy:14
 translate spanish rhainda_2_24443008:
@@ -652,21 +652,20 @@ translate spanish strings:
 
     # game/characters/rhainda/ev_2.rpy:140
     old "[rhainda] wants you to share Little Fox with her."
-    new "[rhainda] wants you to share Little Fox with her."
+    new "[rhainda] quiere que compartas a Little Fox con ella."
 
     # game/characters/rhainda/ev_2.rpy:140
     old "Sure, you can have fun with her"
-    new "Sure, you can have fun with her"
+    new "Claro, puedes divertirte con ella"
 
     # game/characters/rhainda/ev_2.rpy:140
     old "She's mine (Disable [lil_fox] x [rhainda] content)"
-    new "She's mine (Disable [lil_fox] x [rhainda] content)"
+    new "Ella es mía (Deshabilita contenido [lil_fox] x [rhainda])"
 
     # game/characters/rhainda/ev_2.rpy:210
     old "Yeah, I like it"
-    new "Yeah, I like it"
+    new "Sí, me gusta"
 
     # game/characters/rhainda/ev_2.rpy:210
     old "No need"
-    new "No need"
-
+    new "No hace falta"

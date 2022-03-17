@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/characters/mina/vault.rpy:6
 translate spanish mina_vault_speak_d04023c6:
@@ -16,210 +16,210 @@ translate spanish mina_vault_speak_doing_here_7dc5e49c:
 translate spanish mina_vault_speak_doing_here_ae6c106f:
 
     # mina "I didn't expect you to actually make a freckin' vault."
-    mina "I didn't expect you to actually make a freckin' vault."
+    mina "No esperaba que hicieras una maldita bóveda."
 
 # game/characters/mina/vault.rpy:25
 translate spanish mina_vault_speak_doing_here_fdf6f95e:
 
     # me "Haha, yeah. Talent is not something I lack."
-    me "Haha, yeah. Talent is not something I lack."
+    me "Haha, sí. El talento no es algo que me falte."
 
 # game/characters/mina/vault.rpy:26
 translate spanish mina_vault_speak_doing_here_a2c26025:
 
     # mina "Your bullshit is, indeed, first class."
-    mina "Your bullshit is, indeed, first class."
+    mina "Tu palabrería es, de hecho, de primera clase."
 
 # game/characters/mina/vault.rpy:27
 translate spanish mina_vault_speak_doing_here_fc457dbd:
 
     # me "Heh, what do you know?"
-    me "Heh, what do you know?"
+    me "Heh, ¿qué sabrías?"
 
 # game/characters/mina/vault.rpy:31
 translate spanish mina_vault_speak_doing_here_37f08ab7:
 
     # mina "Where did you get all this gold and money from?"
-    mina "Where did you get all this gold and money from?"
+    mina "¿De dónde sacaste todo este oro y dinero?"
 
 # game/characters/mina/vault.rpy:32
 translate spanish mina_vault_speak_doing_here_8b91017b:
 
     # me "I collected it by the side of the road."
-    me "I collected it by the side of the road."
+    me "Lo recogí al lado de la carretera."
 
 # game/characters/mina/vault.rpy:36
 translate spanish mina_vault_speak_doing_here_0b855850:
 
     # mina "Really?"
-    mina "Really?"
+    mina "¿En serio?"
 
 # game/characters/mina/vault.rpy:37
 translate spanish mina_vault_speak_doing_here_66fdfa44:
 
     # me "Yeah, why would I lie to you?"
-    me "Yeah, why would I lie to you?"
+    me "Sí, ¿por qué te mentiría?"
 
 # game/characters/mina/vault.rpy:38
 translate spanish mina_vault_speak_doing_here_458c5f89:
 
     # mina "I've never heard a more obvious lie."
-    mina "I've never heard a more obvious lie."
+    mina "Nunca he oído una mentira más obvia."
 
 # game/characters/mina/vault.rpy:39
 translate spanish mina_vault_speak_doing_here_5a189412:
 
     # me "Well, I would lie if I said, I know where this stuff came from?"
-    me "Well, I would lie if I said, I know where this stuff came from?"
+    me "Bueno, probablemente, ¿mentiría si dijera que sé de dónde vino esto?"
 
 # game/characters/mina/vault.rpy:43
 translate spanish mina_vault_speak_doing_here_0a681aaa:
 
     # mina "How come?"
-    mina "How come?"
+    mina "¿Cómo es posible?"
 
 # game/characters/mina/vault.rpy:44
 translate spanish mina_vault_speak_doing_here_6fd12f16:
 
     # me "I don't remember where I got."
-    me "I don't remember where I got."
+    me "No recuerdo dónde lo conseguí."
 
 # game/characters/mina/vault.rpy:45
 translate spanish mina_vault_speak_doing_here_13dc3b2a:
 
     # mina "You have tons of gold here and don't remember from where? Mate, you must've been carrying it for days."
-    mina "You have tons of gold here and don't remember from where? Mate, you must've been carrying it for days."
+    mina "Tienes toneladas de oro aquí ¿y no recuerdas de dónde? Amigo, debes haberlo estado cargando durante días."
 
 # game/characters/mina/vault.rpy:46
 translate spanish mina_vault_speak_doing_here_fb8c28ed:
 
     # me "Fair point.."
-    me "Fair point.."
+    me "Buen punto..."
 
 # game/characters/mina/vault.rpy:47
 translate spanish mina_vault_speak_doing_here_728d8779:
 
     # me "Where the hell did it come from?"
-    me "Where the hell did it come from?"
+    me "¿De dónde demonios salió?"
 
 # game/characters/mina/vault.rpy:51
 translate spanish mina_vault_speak_doing_here_277b6bb5:
 
     # mina "Hey, maybe we should find a doctor to see you?"
-    mina "Hey, maybe we should find a doctor to see you?"
+    mina "Hey, ¿tal vez deberíamos buscar un médico para que te vea?"
 
 # game/characters/mina/vault.rpy:52
 translate spanish mina_vault_speak_doing_here_53970163:
 
     # me "Everything is fine with me.."
-    me "Everything is fine with me.."
+    me "Yo estoy bien..."
 
 # game/characters/mina/vault.rpy:53
 translate spanish mina_vault_speak_doing_here_18186974:
 
     # mina "Yeah.. sure.."
-    mina "Yeah.. sure.."
+    mina "Sí... seguro..."
 
 # game/characters/mina/vault.rpy:54
 translate spanish mina_vault_speak_doing_here_b273d15b:
 
     # me "Ah.."
-    me "Ah.."
+    me "Ah..."
 
 # game/characters/mina/vault.rpy:64
 translate spanish mina_vault_speak_fool_around_346e0efe:
 
     # mina "Go fool around with yourself buddy."
-    mina "Go fool around with yourself buddy."
+    mina "Ve a jugar contigo mismo, amigo."
 
 # game/characters/mina/vault.rpy:65
 translate spanish mina_vault_speak_fool_around_941045ea:
 
     # me "Hey.."
-    me "Hey.."
+    me "Hey..."
 
 # game/characters/mina/vault.rpy:69
 translate spanish mina_vault_speak_fool_around_108c449a:
 
     # mina "I'm for real buddy. I'm not playing with you."
-    mina "I'm for real buddy. I'm not playing with you."
+    mina "Es así, amigo. No estoy jugando contigo."
 
 # game/characters/mina/vault.rpy:70
 translate spanish mina_vault_speak_fool_around_4426afd9:
 
     # th "Seems we're not there yet. I should try when she's closer to me."
-    th "Seems we're not there yet. I should try when she's closer to me."
+    th "Parece que aún no hemos llegado. Debería intentarlo cuando esté más cerca de mí."
 
 # game/characters/mina/vault.rpy:78
 translate spanish mina_vault_speak_fool_around_939ad799:
 
     # mina "You're still yourself, I see."
-    mina "You're still yourself, I see."
+    mina "Sigues siendo tú mismo, por lo que veo."
 
 # game/characters/mina/vault.rpy:79
 translate spanish mina_vault_speak_fool_around_36adc6cd:
 
     # me "What the hell is that supposed to mean?"
-    me "What the hell is that supposed to mean?"
+    me "¿Qué demonios se supone que significa eso?"
 
 # game/characters/mina/vault.rpy:80
 translate spanish mina_vault_speak_fool_around_faabb01b:
 
     # mina "Exactly what you think it does."
-    mina "Exactly what you think it does."
+    mina "Exactamente lo que crees."
 
 # game/characters/mina/vault.rpy:81
 translate spanish mina_vault_speak_fool_around_2cb1a729:
 
     # me "Why? Thanks!"
-    me "Why? Thanks!"
+    me "Bueno, ¡gracias!"
 
 # game/characters/mina/vault.rpy:85
 translate spanish mina_vault_speak_fool_around_f0acea02:
 
     # mina "Although.. The thought of doing something on a pile of gold is exciting."
-    mina "Although.. The thought of doing something on a pile of gold is exciting."
+    mina "Aunque... La idea de hacer algo en un montón de oro es emocionante."
 
 # game/characters/mina/vault.rpy:86
 translate spanish mina_vault_speak_fool_around_7f0056d1:
 
     # me "Pff, gold digger."
-    me "Pff, gold digger."
+    me "Pff, cazafortuna."
 
 # game/characters/mina/vault.rpy:90
 translate spanish mina_vault_speak_fool_around_98191481:
 
     # mina "Jackass."
-    mina "Jackass."
+    mina "Idiota."
 
 # game/characters/mina/vault.rpy:91
 translate spanish mina_vault_speak_fool_around_2795ac51:
 
     # me "So, are you in?"
-    me "So, are you in?"
+    me "Entonces, ¿estás dentro?"
 
 # game/characters/mina/vault.rpy:95
 translate spanish mina_vault_speak_fool_around_582e0274:
 
     # mina "Sure, why not."
-    mina "Sure, why not."
+    mina "Claro, ¿por qué no."
 
 # game/characters/mina/vault.rpy:96
 translate spanish mina_vault_speak_fool_around_94dd5a39:
 
     # mina "What do you wanna do?"
-    mina "What do you wanna do?"
+    mina "¿Qué quieres hacer?"
 
 translate spanish strings:
 
     # game/characters/mina/vault.rpy:8
     old "What are you doing here?"
-    new "What are you doing here?"
+    new "¿Qué estás haciendo aquí?"
 
     # game/characters/mina/vault.rpy:8
     old "[mina], let's fool around"
-    new "[mina], let's fool around"
+    new "[mina], juguemos"
 
     # game/characters/mina/vault.rpy:98
     old "Eat you out"
-    new "Eat you out"
+    new "Usar mi boca"

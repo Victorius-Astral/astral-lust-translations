@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/alice/ev_5.rpy:5
 translate spanish alice_5_2c311c19:
@@ -436,7 +436,7 @@ translate spanish strings:
     old "Cuddle with her"
     new "Acurrúcate con ella"
 
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/characters/alice/ev_5.rpy:25
 translate spanish alice_5_1_b44a53e7:

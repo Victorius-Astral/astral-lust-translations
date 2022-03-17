@@ -143,8 +143,8 @@ translate polish strings:
     new "Kontroler"
 
     # game/screens.rpy:974
-    old "Enter"
-    new "Enter"
+    old "Enter {#key}"
+    new "Enter {#key}"
 
     # game/screens.rpy:975
     old "Advances dialogue and activates the interface."

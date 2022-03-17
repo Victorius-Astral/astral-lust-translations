@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/alice/ev_8.rpy:15
 translate spanish alice_8_54226dc9:
@@ -662,7 +662,7 @@ translate spanish strings:
     old "I was joking"
     new "Bromeaba"
 
-# TODO: Translation updated at 2022-02-16 09:41
+# : Translation updated at 2022-02-16 09:41
 
 translate spanish strings:
 
