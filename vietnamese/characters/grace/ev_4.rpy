@@ -316,7 +316,7 @@ translate vietnamese grace_4_1_8e0ca5f6:
 translate vietnamese grace_4_1_10cf39bf:
 
     # grace "Sure!"
-    grace "Chắc rồi!"
+    grace "Được rồi!"
 
 # game/characters/grace/ev_4.rpy:128
 translate vietnamese grace_4_1_4a444fe3:

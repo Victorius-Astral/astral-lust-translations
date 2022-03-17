@@ -438,4 +438,4 @@ translate vietnamese strings:
 
     # game/characters/alice/sleep.rpy:41
     old "I want to sleep with you"
-    new "Anh muốn ngủ với em"
+    new "Anh muốn ngủ với em"

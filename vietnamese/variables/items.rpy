@@ -88,7 +88,7 @@ translate vietnamese strings:
 
     # game/variables/items.rpy:4
     old "Frozen Screams"
-    new "Tiếng het băng giá"
+    new "Tiếng hét băng giá"
 
     # game/variables/items.rpy:4
     old "Orcish Steel"

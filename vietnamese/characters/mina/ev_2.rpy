@@ -64,7 +64,7 @@ translate vietnamese mina_2_a9fd4107:
 translate vietnamese mina_2_9f8a068a:
 
     # mina "Good job!"
-    mina "Tất lắm!"
+    mina "Tốt lắm!"
 
 # game/characters/mina/ev_2.rpy:26
 translate vietnamese mina_2_d425e2c1:
@@ -76,7 +76,7 @@ translate vietnamese mina_2_d425e2c1:
 translate vietnamese mina_2_44b7c984:
 
     # me "What's a good job?"
-    me "Tất lắm là sao?"
+    me "Tốt lắm là sao?"
 
 # game/characters/mina/ev_2.rpy:28
 translate vietnamese mina_2_cf69f1b1:

@@ -46,7 +46,7 @@ translate vietnamese wanderers_brothel_1522ce89:
 translate vietnamese wanderers_brothel_menu1_2b07d2b5:
 
     # madam_hof "New here, aren't you boy?"
-    madam_hof "Người mới ở đây phải không cậu bé?"
+    madam_hof "Mới dến đây đúng không hả cậu bé?"
 
 # game/places/wanderers/brothel.rpy:70
 translate vietnamese wanderers_brothel_menu1_ac0e68b1:
@@ -130,7 +130,7 @@ translate vietnamese wanderers_brothel_menu1_ee714e66:
 translate vietnamese wanderers_brothel_menu1_2b07d2b5_1:
 
     # madam_hof "New here, aren't you boy?"
-    madam_hof "Mới đến, phải không cậu bé?"
+    madam_hof "Mới đến đây, phải không cậu bé?"
 
 # game/places/wanderers/brothel.rpy:104
 translate vietnamese wanderers_brothel_menu1_ac0e68b1_1:
@@ -266,4 +266,3 @@ translate vietnamese strings:
     # game/places/wanderers/brothel.rpy:23
     old "Madam Hof"
     new "Madam Hof"
-

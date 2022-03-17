@@ -46,25 +46,25 @@ translate vietnamese lexi_4_1f877649:
 translate vietnamese lexi_4_d6738afc:
 
     # lexi "I can't sleep, I have this feeling like something bad is about to happen.."
-    lexi "Em không thể ngủ được, em có cảm giác như có điều gì đó tồi tệ sắp xảy ra..."
+    lexi "Em không tài nào ngủ được, em có cảm giác như có điều gì đó tồi tệ sắp xảy ra vậy..."
 
 # game/characters/lexi/ev_4.rpy:18
 translate vietnamese lexi_4_2790224c:
 
     # lexi "Thank you.. I hope you are right.."
-    lexi "Cảm ơn... hy vọng anh đúng..."
+    lexi "Cảm ơn... mong là anh đúng..."
 
 # game/characters/lexi/ev_4.rpy:23
 translate vietnamese lexi_4_c7bdd7e3:
 
     # lexi "Perhaps you're right. Has anything good happened since the beginning?"
-    lexi "Có lẽ anh đúng. Có bất cứ điều gì tốt đẹp đã xảy ra chưa?"
+    lexi "Có lẽ là anh đúng đấy. Từ đầu đến giờ chả có cái phép màu nào xảy ra hết?"
 
 # game/characters/lexi/ev_4.rpy:29
 translate vietnamese lexi_4_91e5e00d:
 
     # lexi "And you should talk less."
-    lexi "Và anh nên nói ít hơn."
+    lexi "Và anh nên nói ít hơn đi."
 
 # game/characters/lexi/ev_4.rpy:34
 translate vietnamese lexi_4_1_ce1d56d0:
@@ -82,13 +82,13 @@ translate vietnamese lexi_4_1_d263b474:
 translate vietnamese lexi_4_1_61851efc:
 
     # "Your comment brings a smile to [lexi]'s lips."
-    "Nhận xét của bạn mang lại nụ cười trên môi [lexi]."
+    "Lời nói của bạn mang lại nụ cười trên môi [lexi]."
 
 # game/characters/lexi/ev_4.rpy:38
 translate vietnamese lexi_4_1_04e027b9:
 
     # lexi "Of course I do, she is the most important person to me."
-    lexi "Tất nhiên là rất nhiều rồi, em ấy là người quan trọng nhất đối với em."
+    lexi "Tất nhiên là rất nhiều rồi, em ấy là người quan trọng nhất đối với em mà."
 
 # game/characters/lexi/ev_4.rpy:40
 translate vietnamese lexi_4_1_699968f5:
@@ -100,7 +100,7 @@ translate vietnamese lexi_4_1_699968f5:
 translate vietnamese lexi_4_1_a87de347:
 
     # lexi "She has only me."
-    lexi "Em ấy chỉ có em."
+    lexi "Em ấy chỉ có mỗi em thôi."
 
 # game/characters/lexi/ev_4.rpy:43
 translate vietnamese lexi_4_1_81ee99f5:
@@ -160,7 +160,7 @@ translate vietnamese lexi_4_1_5745dff6:
 translate vietnamese lexi_4_2_391f7d54:
 
     # th "What happened exactly and why is she so unwilling to talk about them?"
-    th "Chính xác thì chuyện gì đã xảy ra và tại sao cô ấy lại không muốn nói về chúng?"
+    th "Chính xác thì chuyện gì đã xảy ra và tại sao cô ấy lại không muốn nói về họ?"
 
 # game/characters/lexi/ev_4.rpy:68
 translate vietnamese lexi_4_2_42fa7700:
@@ -172,7 +172,7 @@ translate vietnamese lexi_4_2_42fa7700:
 translate vietnamese lexi_4_2_f1259677:
 
     # me "What is it?"
-    me "Nó là gì?"
+    me "Hứa gì?"
 
 # game/characters/lexi/ev_4.rpy:71
 translate vietnamese lexi_4_2_d1b43a67:
@@ -184,13 +184,13 @@ translate vietnamese lexi_4_2_d1b43a67:
 translate vietnamese lexi_4_2_99008e93:
 
     # "Your words barely phase her. You have never seen her so serious before."
-    "Lời nói của bạn hầu như không làm cô ấy hài lòng. Bạn chưa bao giờ thấy cô ấy nghiêm túc như vậy trước đây."
+    "Lời nói của bạn đã làm phật ý cô ấy. Bạn chưa bao giờ thấy cô ấy nghiêm túc như vậy trước đây cả."
 
 # game/characters/lexi/ev_4.rpy:76
 translate vietnamese lexi_4_2_ee74a8b1:
 
     # lexi "Promise me."
-    lexi "Hứa với em."
+    lexi "Hứa với em đi."
 
 # game/characters/lexi/ev_4.rpy:77
 translate vietnamese lexi_4_2_ee9bd794:
@@ -226,7 +226,7 @@ translate vietnamese lexi_4_2_99044e15:
 translate vietnamese lexi_4_3_889d57ab:
 
     # lexi "I need to sleep, I must go out to look for food tomorrow at dawn so that we can have breakfast."
-    lexi "Em cần ngủ, ngày mai em phải ra ngoài kiếm đồ ăn để chúng ta ăn sáng."
+    lexi "Em đi ngủ đây, ngày mai em phải ra ngoài kiếm đồ ăn để chúng ta ăn sáng."
 
 # game/characters/lexi/ev_4.rpy:102
 translate vietnamese lexi_4_3_4885640c:
@@ -242,19 +242,19 @@ translate vietnamese strings:
 
     # game/characters/lexi/ev_4.rpy:14
     old "Is there anything good here to begin with?"
-    new "Có điều gì tốt ở đây để bắt đầu không?"
+    new "Thế ở cái chốn này đã bao giờ có điều gì tốt diễn ra chưa?"
 
     # game/characters/lexi/ev_4.rpy:14
     old "You should think less"
-    new "Em nên suy nghĩ ít hơn"
+    new "Em nên bớt suy nghĩ lại đi"
 
     # game/characters/lexi/ev_4.rpy:53
     old "Insist"
-    new "Khăng khăng"
+    new "Tiếp tục hỏi"
 
     # game/characters/lexi/ev_4.rpy:53
     old "Let it go"
-    new "Để nó đi"
+    new "Bỏ đi"
 
     # game/characters/lexi/ev_4.rpy:72
     old "I can't promise anything"

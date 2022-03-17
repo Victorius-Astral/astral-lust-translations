@@ -292,7 +292,7 @@ translate vietnamese mina_7_2_4bbe78f4:
 translate vietnamese mina_7_2_10375907:
 
     # mina "Yeah, I was really happy just now, talking so casually with you two. I think it was the first time I’ve felt this relaxed since The End." id mina_7_2_10375907
-    mina "Ừ, vừa rồi em thực sự rất vui, nói chuyện với hai người. Em nghĩ đây là lần đầu tiên tôi cảm thấy thoải mái như thế này kể từ The End diễn ra." id mina_7_2_10375907
+    mina "Ừ, vừa rồi em thực sự rất vui, nói chuyện với hai người. Em nghĩ đây là lần đầu tiên tôi cảm thấy thoải mái như thế này Kể từ khi The End xảy ra." id mina_7_2_10375907
 
 # game/characters/mina/ev_7.rpy:115
 translate vietnamese mina_7_2_a5f3b4bf:

@@ -406,7 +406,7 @@ translate vietnamese lil_fox_3_alice_a8ee3e2a:
 translate vietnamese lil_fox_3_alice_3e36bac1:
 
     # alice "Sure.."
-    alice "Chắc rồi..."
+    alice "Được rồi..."
 
 # game/characters/little fox/ev_3.rpy:186
 translate vietnamese lil_fox_3_alice_55de605d:

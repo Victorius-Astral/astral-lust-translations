@@ -132,7 +132,7 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:332
     old "{b}Mina at the Vault{/b}"
-    new "{b}Mina tại kho đồ{/b}"
+    new "{b}Mina tại két sắt{/b}"
 
     # game/screens/utility/what_new.rpy:333
     old "Mina can now appear at the vault! She has one new topic to talk about with us. There are also some two H scenes over there."
@@ -307,4 +307,3 @@ translate vietnamese strings:
     # game/screens/utility/what_new.rpy:234
     old "There are countless other changes - ALL animations can be toggled ON/OFF in the settings, dozens of issues were fixed, no animation support was added to all animations that didn't have it, some animations were deleted like weird looking cumming animations. End game credits were added. Hollow Market offers a lot more stock, and restock weekly. Other traders were tweaked too."
     new "There are countless other changes - ALL animations can be toggled ON/OFF in the settings, dozens of issues were fixed, no animation support was added to all animations that didn't have it, some animations were deleted like weird looking cumming animations. End game credits were added. Hollow Market offers a lot more stock, and restock weekly. Other traders were tweaked too."
-

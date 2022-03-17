@@ -70,13 +70,13 @@ translate vietnamese exp_treasure_hunt_part2_81eb4c07:
 translate vietnamese exp_treasure_hunt_part2_3c93f448:
 
     # th "It's a match, maybe if I find the remaining two pictures, I'll be able to find this place."
-    th "Nó trùng khớp, có lẽ nếu tìm được hai bức tranh còn lại, mình sẽ tìm được nơi này."
+    th "Nó khớp nhau này, có lẽ nếu tìm được hai bức tranh còn lại, mình sẽ tìm được nơi này."
 
 # game/events/explore/treasure_hunt.rpy:109
 translate vietnamese exp_treasure_hunt_part2_20b031ef:
 
     # th "A pity, there is no passage here."
-    th "Rất tiếc, không có đoạn nào ở đây."
+    th "Nhưng tiếc là ở đây lại không có lối đi."
 
 # game/events/explore/treasure_hunt.rpy:121
 translate vietnamese exp_treasure_hunt_part3_3820771a:
@@ -88,13 +88,13 @@ translate vietnamese exp_treasure_hunt_part3_3820771a:
 translate vietnamese exp_treasure_hunt_part3_b63eea1a:
 
     # me "Who put these chests around?"
-    me "Ai đặt những cái rương này xung quanh?"
+    me "Ai lại đặt mấy cái rương này xung quanh vậy?"
 
 # game/events/explore/treasure_hunt.rpy:128
 translate vietnamese exp_treasure_hunt_part3_2f1ed011:
 
     # me "As expected, the same content."
-    me "Đúng như dự đoán, cùng một nội dung."
+    me "Đúng như dự đoán, vẫn giống như cũ."
 
 # game/events/explore/treasure_hunt.rpy:131
 translate vietnamese exp_treasure_hunt_part3_1de99f4b:
@@ -106,37 +106,37 @@ translate vietnamese exp_treasure_hunt_part3_1de99f4b:
 translate vietnamese exp_treasure_hunt_part3_fc0fbe53:
 
     # me "Now only one remains."
-    me "Bây giờ chỉ còn lại một."
+    me "Giờ thì còn lại một mảnh nữa thôi."
 
 # game/events/explore/treasure_hunt.rpy:142
 translate vietnamese exp_treasure_hunt_part3_ff4e31cc:
 
     # me "Will I find the last one?"
-    me "Liệu mình sẽ tìm thấy cái cuối cùng?"
+    me "Liệu mình có thể tìm thấy cái cuối cùng không?"
 
 # game/events/explore/treasure_hunt.rpy:153
 translate vietnamese exp_treasure_hunt_part4_11bec0b0:
 
     # me "This chest, again."
-    me "Cái rương này, một lần nữa."
+    me "Lại cái rương này, lần nữa."
 
 # game/events/explore/treasure_hunt.rpy:156
 translate vietnamese exp_treasure_hunt_part4_9e5e967f:
 
     # me "What do we have here?"
-    me "Chúng ta có gì ở đây?"
+    me "Chúng ta có gì ở đây nào?"
 
 # game/events/explore/treasure_hunt.rpy:160
 translate vietnamese exp_treasure_hunt_part4_929fb391:
 
     # me "Nothing new, the same junk as always."
-    me "Không có gì mới, vẫn như mọi khi."
+    me "Chả có gì mới, vẫn như mọi khi."
 
 # game/events/explore/treasure_hunt.rpy:163
 translate vietnamese exp_treasure_hunt_part4_4e9fb68c:
 
     # me "That would be the last one."
-    me "Đó sẽ là cái cuối cùng."
+    me "Đây sẽ là mảnh cuối cùng."
 
 # game/events/explore/treasure_hunt.rpy:172
 translate vietnamese exp_treasure_hunt_part4_e1fadb14:
@@ -1354,7 +1354,7 @@ translate vietnamese exp_treasure_hunt_reward3_sex_d502753a:
 translate vietnamese exp_treasure_hunt_reward3_sex_6cf1da12:
 
     # me "Sure, I'm glad to be of help."
-    me "Chắc rồi, anh rất vui khi được giúp đỡ."
+    me "Được rồi, anh rất vui khi được giúp đỡ."
 
 # game/events/explore/treasure_hunt.rpy:681
 translate vietnamese exp_treasure_hunt_reward3_sex_316acb1a:

@@ -22,13 +22,13 @@ translate vietnamese d_Life_with_Alice_2_2a8eb116:
 translate vietnamese d_Life_with_Alice_2_afb8d15f:
 
     # th "I feel so comfortable right now.."
-    th "Mình cảm thấy rất thoải mái ngay bây giờ..."
+    th "Bây giờ mình cảm thấy rất thoải mái..."
 
 # game/events/dreams/life_with_alice.rpy:31
 translate vietnamese d_Life_with_Alice_2_052c1c4a:
 
     # "???" "{quiet}Bye mom.{/quiet}" (who_color="#4285F4")
-    "???" "{quiet}Tạm biệt mẹ.{/quiet}" (who_color="#4285F4")
+    "???" "{quiet}Con chào mẹ.{/quiet}" (who_color="#4285F4")
 
 # game/events/dreams/life_with_alice.rpy:32
 translate vietnamese d_Life_with_Alice_2_be5c7fbe:
@@ -52,7 +52,7 @@ translate vietnamese d_Life_with_Alice_2_3ea512d2:
 translate vietnamese d_Life_with_Alice_2_50ea246b:
 
     # alice "Did you really fall asleep on the couch, daddy? Are you officially an old man, or just lazy?"
-    alice "Anh thực sự ngủ quên trên ghế hả daddy? Anh đã chính thức thức thành một ông già rồi phải không, hay chỉ là lười thôi?"
+    alice "Anh thực sự ngủ quên trên ghế hả daddy? Anh đã chính thức thức thành một ông già rồi, hay là tại lười đấy?"
 
 # game/events/dreams/life_with_alice.rpy:43
 translate vietnamese d_Life_with_Alice_2_108afa9a:
@@ -64,13 +64,13 @@ translate vietnamese d_Life_with_Alice_2_108afa9a:
 translate vietnamese d_Life_with_Alice_2_e7582161:
 
     # alice "Why are you yelling? Did you have another nightmare?"
-    alice "Tại sao anh lại hét lên? Anh có một cơn ác mộng khác à?"
+    alice "Tại sao anh phải hét lên thế? Lại gặp phải ác mộng hả?"
 
 # game/events/dreams/life_with_alice.rpy:48
 translate vietnamese d_Life_with_Alice_2_f249acce:
 
     # me "I- Yeah. Everything felt like a nightmare."
-    me "Anh- Ừ. Mọi thứ như một cơn ác mộng."
+    me "Anh- Ừ. Mọi thứ đều như một cơn ác mộng vậy."
 
 # game/events/dreams/life_with_alice.rpy:52
 translate vietnamese d_Life_with_Alice_2_75171968:
@@ -88,13 +88,13 @@ translate vietnamese d_Life_with_Alice_2_061c5f52:
 translate vietnamese d_Life_with_Alice_2_3e95c38e:
 
     # alice "The mist, the monsters, the horror.. It's all over. We made it out alive."
-    alice "Màn sương mù, những con quái vật, nỗi kinh hoàng ... Tất cả đã kết thúc. Chúng ta đã sống rồi."
+    alice "Màn sương mù, những con quái vật, nỗi kinh hoàng... Tất cả đã kết thúc. Chúng ta đã sống rồi."
 
 # game/events/dreams/life_with_alice.rpy:55
 translate vietnamese d_Life_with_Alice_2_578de770:
 
     # th "So.. that really happened? But how did it all end?"
-    th "Vậy... điều đó thực sự đã xảy ra? Nhưng tất cả đã kết thúc như thế nào?"
+    th "Vậy... nó đã thực sự xảy ra sao? Nhưng tất cả chuyện đó kết thúc như thế nào?"
 
 # game/events/dreams/life_with_alice.rpy:56
 translate vietnamese d_Life_with_Alice_2_f34191a2:
@@ -112,7 +112,7 @@ translate vietnamese d_Life_with_Alice_2_2133cbe6:
 translate vietnamese d_Life_with_Alice_2_2a9254b5:
 
     # alice "So.. How about we forget the bad dreams?"
-    alice "Vậy ... Hãy quên những giấc mơ xấu đi thì sao nào?"
+    alice "Thế... Hãy quên những giấc mơ xấu đi thì sao nào?"
 
 # game/events/dreams/life_with_alice.rpy:64
 translate vietnamese d_Life_with_Alice_2_473b4809:
@@ -316,7 +316,7 @@ translate vietnamese d_Life_with_Alice_2_blow_520bf9d4:
 translate vietnamese d_Life_with_Alice_2_blow_ab3dc18a:
 
     # me "Nothing. Go faster."
-    me "Không có gì đâu. Hãy nhanh hơn."
+    me "Không có gì đâu. Hãy làm nhanh hơn đi."
 
 # game/events/dreams/life_with_alice.rpy:146
 translate vietnamese d_Life_with_Alice_2_blow_b94a6a0f:
@@ -328,7 +328,7 @@ translate vietnamese d_Life_with_Alice_2_blow_b94a6a0f:
 translate vietnamese d_Life_with_Alice_2_blow_6098c5a9:
 
     # me "Faster, {i}please.{/i}"
-    me "Nhanh hơn, {i}làm ơn.{/i}"
+    me "Nhanh hơn đi, {i}làm ơn.{/i}"
 
 # game/events/dreams/life_with_alice.rpy:150
 translate vietnamese d_Life_with_Alice_2_blow_176bfaad:
@@ -346,13 +346,13 @@ translate vietnamese d_Life_with_Alice_2_blow_da43eb06:
 translate vietnamese d_Life_with_Alice_2_blow_2c9391c8:
 
     # th "I guess this is.. experience?"
-    th "Mình đoán đây là ... kinh nghiệm?"
+    th "Mình đoán đây là... kinh nghiệm?"
 
 # game/events/dreams/life_with_alice.rpy:153
 translate vietnamese d_Life_with_Alice_2_blow_77256eb4:
 
     # me "My little girl has grown up so much."
-    me "My little girl has grown up so much."
+    me "Cô gái nhỏ của anh đã lớn thêm rất nhiều rồi đấy."
 
 # game/events/dreams/life_with_alice.rpy:154
 translate vietnamese d_Life_with_Alice_2_blow_4dd2edda:
@@ -370,7 +370,7 @@ translate vietnamese d_Life_with_Alice_2_blow_e4e1fbcd:
 translate vietnamese d_Life_with_Alice_2_blow_83339d29:
 
     # me "Cumming!"
-    me "Ra rồi!"
+    me "Ra đây!"
 
 # game/events/dreams/life_with_alice.rpy:164
 translate vietnamese d_Life_with_Alice_2_blow_15d762e7:
@@ -388,7 +388,7 @@ translate vietnamese d_Life_with_Alice_2_blow_440255cf:
 translate vietnamese d_Life_with_Alice_2_blow_7cbed8e8:
 
     # alice "How was it, daddy~?"
-    alice "Nó như thế nào, daddy~?"
+    alice "Nó như thế nào~?"
 
 # game/events/dreams/life_with_alice.rpy:167
 translate vietnamese d_Life_with_Alice_2_blow_66175c36:

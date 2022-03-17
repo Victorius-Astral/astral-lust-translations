@@ -8,7 +8,7 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "Who knows what awaits me outside?"
-    new "Ai biết điều gì đang chờ mình bên ngoài chứ?"
+    new "Ai biết điều gì đang chờ mình bên ngoài  chứ?"
 
     # game/variables/tips.rpy:4
     old "I need to take care of my mental health."

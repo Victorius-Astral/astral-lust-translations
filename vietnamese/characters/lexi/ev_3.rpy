@@ -82,7 +82,7 @@ translate vietnamese lexi_3_1_6f02a552:
 translate vietnamese lexi_3_1_0efeb6d1:
 
     # lexi "Come on, sit, don't be nervous. She wouldn't bite you even if she knew we were here."
-    lexi "Nào, ngồi đi, đừng căng thẳng. Cô ấy sẽ không cắn anh ngay cả khi cô ấy biết chúng ta ở đây."
+    lexi "Nào, ngồi đi, đừng căng thẳng. Cô ấy sẽ không cắn anh ngay cả khi cô ấy biết chúng ta ở đây đâu mà."
 
 # game/characters/lexi/ev_3.rpy:34
 translate vietnamese lexi_3_1_98f9aa8b:
@@ -112,13 +112,13 @@ translate vietnamese lexi_3_1_314086b3:
 translate vietnamese lexi_3_1_3cabdcf0:
 
     # lexi "Our baby, Grace, don't tell me you never met her?"
-    lexi "Em bé của bọn em, Grace, đừng nói với tớ rằng anh chưa bao giờ gặp em ấy?"
+    lexi "Em bé của bọn em, Grace, đừng nói với tớ rằng anh chưa bao giờ gặp em ấy nhá?"
 
 # game/characters/lexi/ev_3.rpy:43
 translate vietnamese lexi_3_1_14a4d329:
 
     # me "I have, but why is she your baby?"
-    me "Anh có rồi, nhưng tại sao em ấy là con của em?"
+    me "Anh có gặp rồi, nhưng tại sao em ấy là con của em?"
 
 # game/characters/lexi/ev_3.rpy:45
 translate vietnamese lexi_3_1_2d4ca787:
@@ -136,7 +136,7 @@ translate vietnamese lexi_3_1_71611e3d:
 translate vietnamese lexi_3_1_4b0337f5:
 
     # lexi "Yeah, I myself sometimes wonder how such an untainted flower survived until now."
-    lexi "Đúng vậy, đôi khi bản thân tôi cũng tự hỏi làm thế nào mà một bông hoa thuần khiết như vậy lại tồn tại cho đến tận bây giờ."
+    lexi "Đúng vậy, đôi khi bản thân em cũng tự hỏi làm thế nào mà một bông hoa thuần khiết như vậy lại tồn tại cho đến tận bây giờ."
 
 # game/characters/lexi/ev_3.rpy:49
 translate vietnamese lexi_3_1_307d6f15:

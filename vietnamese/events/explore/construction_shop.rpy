@@ -34,7 +34,7 @@ translate vietnamese explore_construction_shop_776f2729:
 translate vietnamese explore_construction_shop_38e53ca2:
 
     # scavenger "What do you want?"
-    scavenger "Bạn muốn gì?"
+    scavenger "Muốn gì?"
 
 # game/events/explore/construction_shop.rpy:54
 translate vietnamese explore_construction_shop_79e1b978:
@@ -52,7 +52,7 @@ translate vietnamese explore_construction_shop_6f0d74f4:
 translate vietnamese explore_construction_shop_48f73d19:
 
     # scavenger "Fine, times are hard, help yourself."
-    scavenger "Được rôi, thời buổi khó khăn, hãy tự giúp lấy mình."
+    scavenger "Được rồi, thời buổi khó khăn, hãy tự giúp lấy chính mình đi."
 
 # game/events/explore/construction_shop.rpy:61
 translate vietnamese explore_construction_shop_4383423c:
@@ -76,7 +76,7 @@ translate vietnamese explore_construction_shop_f4ddac4e:
 translate vietnamese explore_construction_shop_91a6210b:
 
     # th "Great, now it's time to leave before they change their minds."
-    th "Tuyệt vời, bây giờ đã đến lúc rời đi trước khi họ thay đổi ý định."
+    th "Tuyệt vời, bây giờ đã đến lúc rời đi trước khi họ đổi ý thôi nào."
 
 # game/events/explore/construction_shop.rpy:72
 translate vietnamese explore_construction_shop_2282bb54:
@@ -100,7 +100,7 @@ translate vietnamese explore_construction_shop_b1b6f539:
 translate vietnamese explore_construction_shop_7ee13a29:
 
     # th "It looks empty, let's gather what I can and return."
-    th "Có vẻ trống rỗng, hãy thu thập những gì mình có thể và trở lại."
+    th "Nhìn có vẻ trống rỗng, hãy thu thập những gì mình có thể và trở lại nào."
 
 # game/events/explore/construction_shop.rpy:91
 translate vietnamese explore_construction_shop_5c8ba152:
@@ -166,7 +166,7 @@ translate vietnamese explore_construction_shop_win_64bbed36:
 translate vietnamese explore_construction_shop_win_692e9ca5:
 
     # scavenger_girl "Y-Yes... I'll do it, just please, let me go."
-    scavenger_girl "V-Vâng ... Tôi sẽ làm điều đó, làm ơn, hãy để tôi đi."
+    scavenger_girl "V-Vâng... Tôi sẽ làm điều đó, nên làm ơn, hãy để tôi đi."
 
 # game/events/explore/construction_shop.rpy:135
 translate vietnamese explore_construction_shop_win_46feb686:
@@ -178,7 +178,7 @@ translate vietnamese explore_construction_shop_win_46feb686:
 translate vietnamese explore_construction_shop_win_977fd5d4:
 
     # scavenger_girl "*Slurp*"
-    scavenger_girl "*Xì xụp*"
+    scavenger_girl "*Sụp*"
 
 # game/events/explore/construction_shop.rpy:144
 translate vietnamese explore_construction_shop_win_e6e1b7ce:
@@ -190,7 +190,7 @@ translate vietnamese explore_construction_shop_win_e6e1b7ce:
 translate vietnamese explore_construction_shop_win_44559253:
 
     # me "Come on, girl, you can do better than this."
-    me "Thôi nào, mày có thể làm tốt hơn thế này."
+    me "Thôi nào, mày có thể làm tốt hơn thế này mà."
 
 # game/events/explore/construction_shop.rpy:146
 translate vietnamese explore_construction_shop_win_b7ac2e07_1:
@@ -220,13 +220,13 @@ translate vietnamese explore_construction_shop_win_fb63590d:
 translate vietnamese explore_construction_shop_win_62ddce3a:
 
     # me "I think you can take me even deeper..."
-    me "Tao nghĩ mày có thể đi sâu hơn nữa..."
+    me "Tao nghĩ mày có thể làm sâu hơn nữa đấy..."
 
 # game/events/explore/construction_shop.rpy:158
 translate vietnamese explore_construction_shop_win_77a94726:
 
     # scavenger_girl "*Sob*"
-    scavenger_girl "*Nức nở*"
+    scavenger_girl "*Hức*"
 
 # game/events/explore/construction_shop.rpy:166
 translate vietnamese explore_construction_shop_win_6b72c380:
@@ -244,13 +244,13 @@ translate vietnamese explore_construction_shop_win_8701fabd:
 translate vietnamese explore_construction_shop_win_977fd5d4_1:
 
     # scavenger_girl "*Slurp*"
-    scavenger_girl "*xì xụp*"
+    scavenger_girl "*Sụp*"
 
 # game/events/explore/construction_shop.rpy:176
 translate vietnamese explore_construction_shop_win_f7f7b773:
 
     # me "Now I suddenly want to take you home."
-    me "Bây giờ tao đột nhiên muốn đưa mày về nhà."
+    me "Tự nhiên tao lại muốn đưa mày về nhà."
 
 # game/events/explore/construction_shop.rpy:177
 translate vietnamese explore_construction_shop_win_35126f82:

@@ -10,7 +10,7 @@ translate vietnamese damsel_in_distress_ca775f6a:
 translate vietnamese damsel_in_distress_ae39f329:
 
     # "You hear shouts for help."
-    "cậu nghe thấy những tiếng kêu cứu."
+    "Bạn nghe thấy những tiếng kêu cứu."
 
 # game/events/explore/damsel_in_distress.rpy:61
 translate vietnamese damsel_in_distress_c52fcbf6:
@@ -1078,7 +1078,7 @@ translate vietnamese damsel_in_distress_bimbo_menu_45047748:
 translate vietnamese damsel_in_distress_bimbo_menu_e1d46606:
 
     # me "Do you?"
-    me "Em biêt sao?"
+    me "Em biết sao?"
 
 # game/events/explore/damsel_in_distress.rpy:444
 translate vietnamese damsel_in_distress_bimbo_menu_39d56c1d:
@@ -1720,7 +1720,7 @@ translate vietnamese damsel_in_distress_brunette_fa305381:
 translate vietnamese damsel_in_distress_brunette_0b62bbae:
 
     # me "How much is your life worth?"
-    me "Cuộc sống của em đáng giá bao nhiêu?"
+    me "Sự sống của em đáng giá bao nhiêu?"
 
 # game/events/explore/damsel_in_distress.rpy:672
 translate vietnamese damsel_in_distress_brunette_1f861ccd:
@@ -1750,7 +1750,7 @@ translate vietnamese damsel_in_distress_brunette_882e3186:
 translate vietnamese damsel_in_distress_brunette_a122d236:
 
     # d_brunette "But it's really the truth."
-    d_brunette "Nhưng nó là sự thật."
+    d_brunette "Nhưng nó là thật mà."
 
 # game/events/explore/damsel_in_distress.rpy:677
 translate vietnamese damsel_in_distress_brunette_c1b80386:
@@ -1762,7 +1762,7 @@ translate vietnamese damsel_in_distress_brunette_c1b80386:
 translate vietnamese damsel_in_distress_brunette_7d71d31e:
 
     # d_brunette fear "I don't know. When I met him, I thought I would die."
-    d_brunette fear "Em không biết. Khi em gặp anh ta, em tưởng là mình tiêu rồi cơ."
+    d_brunette fear "Em không biết. Khi em gặp hắn ta, em còn tưởng là mình toi đời luôn rồi cơ."
 
 # game/events/explore/damsel_in_distress.rpy:679
 translate vietnamese damsel_in_distress_brunette_4322b42f:
@@ -1774,7 +1774,7 @@ translate vietnamese damsel_in_distress_brunette_4322b42f:
 translate vietnamese damsel_in_distress_brunette_8217b7b8:
 
     # d_brunette "On his palm lied the bone. I took it and left as fast as I could. He was just smiling at me the whole time."
-    d_brunette "Trên lòng bàn tay của anh ta có một khúc xương. Tôi cầm lấy nó và rời đi nhanh nhất có thể. Anh ấy chỉ cười với tôi suốt lúc đấy."
+    d_brunette "Trên lòng bàn tay của anh ta có một khúc xương. Em cầm lấy nó và rời đi nhanh nhất có thể. Hắn chỉ cười với Em suốt lúc đấy."
 
 # game/events/explore/damsel_in_distress.rpy:681
 translate vietnamese damsel_in_distress_brunette_3820771a:
@@ -1786,7 +1786,7 @@ translate vietnamese damsel_in_distress_brunette_3820771a:
 translate vietnamese damsel_in_distress_brunette_c72f54df:
 
     # th "Who knows what's in their heads... It might've really happened."
-    th "Ai biết được những gì trong đầu của chúng... Nó có thể đã thực sự xảy ra."
+    th "Ai biết được cái gì xảy ra ở trong đầu của bọn chúng chứ... Nó có thể đã thực sự xảy ra."
 
 # game/events/explore/damsel_in_distress.rpy:683
 translate vietnamese damsel_in_distress_brunette_01261fcf:

@@ -124,7 +124,7 @@ translate vietnamese lexi_11_fc4e7a89:
 translate vietnamese lexi_11_976938c8:
 
     # lexi "Sure."
-    lexi "chắc rồi."
+    lexi "Được rồi."
 
 # game/characters/lexi/ev_11.rpy:44
 translate vietnamese lexi_11_3820771a:

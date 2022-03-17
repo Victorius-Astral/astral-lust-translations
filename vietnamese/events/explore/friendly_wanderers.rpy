@@ -94,7 +94,7 @@ translate vietnamese exp_friendly_wanderers_first_4d7d3beb:
 translate vietnamese exp_friendly_wanderers_first_2b62a45a:
 
     # wanderer "I am. We are part of the Wanderers."
-    wanderer "Tôi là. Chúng tôi là một phần của những kẻ du mục."
+    wanderer "Ừ. Chúng tôi là một phần của những người du mục."
 
 # game/events/explore/friendly_wanderers.rpy:87
 translate vietnamese exp_friendly_wanderers_first_4c2a5ba2:
@@ -106,7 +106,7 @@ translate vietnamese exp_friendly_wanderers_first_4c2a5ba2:
 translate vietnamese exp_friendly_wanderers_first_c63e17a8:
 
     # wanderer "Yes! You can say that, but we consist of independent groups of people that help each other, rather than tighter structures that communities are."
-    wanderer "Đúng! Cậu có thể nói như vậy, nhưng chúng tôi bao gồm các nhóm người độc lập giúp đỡ lẫn nhau, chứ không phải là cấu trúc chặt chẽ hơn các cộng đồng kia."
+    wanderer "Đúng! Cậu có thể nói như vậy, nhưng chúng tôi bao gồm các nhóm người độc lập giúp đỡ lẫn nhau, chứ không phải là cấu trúc chặt chẽ như các cộng đồng kia."
 
 # game/events/explore/friendly_wanderers.rpy:90
 translate vietnamese exp_friendly_wanderers_first_0ca9bbcd:
@@ -118,7 +118,7 @@ translate vietnamese exp_friendly_wanderers_first_0ca9bbcd:
 translate vietnamese exp_friendly_wanderers_first_b476c0c7:
 
     # wanderer "Everything you might need! Materials and food, sometimes I even have things of a more... Let's say otherworldly nature. You see this girl behind me?"
-    wanderer "Mọi thứ bạn có thể cần! Vật liệu và thực phẩm, đôi khi tôi thậm chí còn có những thứ còn hơn thế nữa... Cậu thấy cô gái này sau lưng tôi?"
+    wanderer "Mọi thứ cậu có thể cần! Vật liệu và thực phẩm, đôi khi tôi thậm chí còn có những thứ còn hơn thế nữa... Cậu thấy cô gái này sau lưng tôi?"
 
 # game/events/explore/friendly_wanderers.rpy:93
 translate vietnamese exp_friendly_wanderers_first_e60b9470:
@@ -142,7 +142,7 @@ translate vietnamese exp_friendly_wanderers_first_a0fd99f0:
 translate vietnamese exp_friendly_wanderers_first_7a3e1c72:
 
     # wanderer "Times are hard my friend. Everyone needs to work for survival to the best of their abilities. She has got a beautiful face and body."
-    wanderer "Thời gian thật khó khăn, bạn của tôi. Mọi người cần phải làm việc vì sự sống còn với khả năng tốt nhất của mình. Cô ấy có khuôn mặt và thân hình đẹp."
+    wanderer "Thời buổi này khó khăn lắm, bạn của tôi ơi. Mọi người cần phải làm việc vì sự sống còn với khả năng tốt nhất của mình. Cô ấy có khuôn mặt và thân hình đẹp."
 
 # game/events/explore/friendly_wanderers.rpy:98
 translate vietnamese exp_friendly_wanderers_first_d6d2213e:

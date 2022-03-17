@@ -4,7 +4,7 @@
 translate vietnamese lexi_1_fd7dd882:
 
     # lexi "Yeah, we need some food. I was supposed to go get some from the nearby shop. Do you want go instead?"
-    lexi "Phải, chúng ta cần một ít thức ăn. Em phải đi lấy một ít từ cửa hàng gần đó. Anh có muốn đi thay không?"
+    lexi "Có, chúng ta cần một ít thức ăn. Em phải đi lấy một ít từ cửa hàng gần đây. Anh có muốn đi thay không?"
 
 # game/characters/lexi/ev_1.rpy:7
 translate vietnamese lexi_1_03b18099:
@@ -94,7 +94,7 @@ translate vietnamese lexi_1_1_ac037980:
 translate vietnamese lexi_1_1_d6449447:
 
     # "As you move through the mist, you feel a cloying coldness seep deep into your bones. You don't think you'll freeze out here, but it's still uncomfortable."
-    "Khi bạn di chuyển qua lớp sương mù, bạn cảm thấy một cái lạnh bao trùm thấm sâu vào xương của bạn. Bạn không nghĩ rằng sẽ bị đóng băng ở đây, nhưng nó vẫn không thoải mái."
+    "Khi bạn di chuyển qua lớp sương mù, bạn cảm thấy một cái lạnh bao trùm thấm sâu vào xương của bạn. Tuy chưa đến mức khiến bạn đóng băng lại, nhưng nó vẫn không thoải mái."
 
 # game/characters/lexi/ev_1.rpy:42
 translate vietnamese lexi_1_1_8250daf8:
@@ -112,13 +112,13 @@ translate vietnamese lexi_1_1_67560ef7:
 translate vietnamese lexi_1_1_9d03246d:
 
     # "Soon you arrive at your destination. You didn't meet anyone on the way."
-    "Ngay sau đó bạn đến đích của bạn. Bạn không hề gặp ai trên đường đi."
+    "Ngay sau đó bạn đến nơi. Nhưngs không hề gặp ai trên đường đi."
 
 # game/characters/lexi/ev_1.rpy:47
 translate vietnamese lexi_1_1_0bee6391:
 
     # "You enter the shop. It's definitely abandoned but what surprises you is that it's still filled with things. Not wanting to waste time, you start gathering food."
-    "Bạn vào cửa hàng. Nó chắc chắn bị bỏ hoang nhưng điều làm bạn ngạc nhiên là nó vẫn chứa đầy đồ. Không muốn mất thời gian, bạn bắt đầu thu dọn đồ ăn."
+    "Bạn vào cửa hàng. Nó chắc chắn bị bỏ hoang nhưng điều làm bạn ngạc nhiên là nó vẫn đầy ắp đồ. Không muốn mất thời gian, bạn bắt đầu thu dọn đồ ăn."
 
 # game/characters/lexi/ev_1.rpy:49
 translate vietnamese lexi_1_1_1a1bec70:
@@ -130,7 +130,7 @@ translate vietnamese lexi_1_1_1a1bec70:
 translate vietnamese lexi_1_1_3cc139df:
 
     # th "I always imagined the apocalypse to be a period when hunger and anarchy would be prevalent. To think that there's so much food around."
-    th "Mình luôn tưởng tượng ngày tận thế là thời kỳ mà nạn đói và tình trạng vô chính phủ sẽ phổ biến. Để nghĩ rằng có rất nhiều thức ăn xung quanh."
+    th "Mình luôn tưởng tượng ngày tận thế là thời kỳ mà nạn đói và tình trạng hỗn loạn sẽ phổ biến. Để nghĩ rằng có rất nhiều thức ăn xung quanh."
 
 # game/characters/lexi/ev_1.rpy:51
 translate vietnamese lexi_1_1_b8e72b5d:
@@ -148,13 +148,13 @@ translate vietnamese lexi_1_1_369a8edd:
 translate vietnamese lexi_1_1_2941e101:
 
     # "You turn back to head outside when you hear something heavy moving in the mist."
-    "Bạn quay đầu ra bên ngoài khi bạn nghe thấy một thứ gì đó nặng nề di chuyển trong màn sương."
+    "Bạn quay đầu ra ngoài khi nghe thấy một thứ gì đó di chuyển một cách nặng nề trong màn sương."
 
 # game/characters/lexi/ev_1.rpy:59
 translate vietnamese lexi_1_1_7cc9f907:
 
     # th "I wonder what that is.. Sounds like an elephant taking a walk. What should I do?"
-    th "Mình tự hỏi đó là gì... Nghe như một con voi đang đi dạo. Mình nên làm gì đây?"
+    th "Nó là cái gì vậy... Nghe như một con voi đang đi dạo vậy. Mình nên làm gì đây?"
 
 # game/characters/lexi/ev_1.rpy:63
 translate vietnamese lexi_1_1_c5b82171:
@@ -340,7 +340,7 @@ translate vietnamese lexi_1_2_8a789c8e:
 translate vietnamese lexi_1_2_195b06c0:
 
     # "As she asks she's already checking you for any wounds."
-    "Khi cô ấy hỏi cô ấy đã kiểm tra bạn xem có vết thương nào không."
+    "Cô ấy vừa hỏi vừa tra bạn xem có vết thương nào không."
 
 # game/characters/lexi/ev_1.rpy:142
 translate vietnamese lexi_1_2_32157baf:
@@ -369,8 +369,8 @@ translate vietnamese lexi_1_2_ef8234ec:
 # game/characters/lexi/ev_1.rpy:148
 translate vietnamese lexi_1_2_bcc23bb8:
 
-    # lexi "Well... you are alive, aren't you?"
-    lexi "Thì... anh còn sống, phải không?"
+    # lexi "Well.. you are alive, aren't you?"
+    lexi "Thì... anh còn sống mà, phải không?"
 
 # game/characters/lexi/ev_1.rpy:149
 translate vietnamese lexi_1_2_3820771a:
@@ -382,7 +382,7 @@ translate vietnamese lexi_1_2_3820771a:
 translate vietnamese lexi_1_2_1044986b:
 
     # lexi "Since you've seen one, at least you know just how careful you need to be outside."
-    lexi "Vì anh đã nhìn thấy một con, ít nhất anh biết cần phải cẩn thận như thế nào khi ở bên ngoài."
+    lexi "Vì anh đã nhìn thấy một con, nên ít nhất anh biết cần phải cẩn thận như thế nào khi ở bên ngoài rồi đấy."
 
 # game/characters/lexi/ev_1.rpy:152
 translate vietnamese lexi_1_2_9855dfba:
@@ -400,13 +400,13 @@ translate vietnamese lexi_1_2_dc174468:
 translate vietnamese lexi_1_2_c30b96a8:
 
     # me "The food is in the bag. I hope it's enough."
-    me "Thức ăn ở trong túi. Anh hy vọng nó đủ."
+    me "Thức ăn ở trong túi đấy. Anh mong là nó đủ."
 
 # game/characters/lexi/ev_1.rpy:160
 translate vietnamese lexi_1_2_390a1362:
 
     # lexi "Thanks! It should last for a few days."
-    lexi "Cảm ơn! Nó sẽ đủ trong vài ngày."
+    lexi "Cảm ơn! Bằng này thì sẽ trụ được trong vài ngày đấy."
 
 # game/characters/lexi/ev_1.rpy:164
 translate vietnamese lexi_1_2_4b6aaf7c:
@@ -436,7 +436,7 @@ translate vietnamese strings:
 
     # game/characters/lexi/ev_1.rpy:11
     old "On second thought I'll think about it some more"
-    new "Nghẫm lại thì mình cần nghĩ thêm về nó một chút nữa"
+    new "Ngẫm lại thì mình cần nghĩ thêm về nó một chút nữa"
 
     # game/characters/lexi/ev_1.rpy:60
     old "Hide and wait for it to go"

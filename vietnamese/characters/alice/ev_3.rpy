@@ -580,13 +580,13 @@ translate vietnamese alice_3_1_867cf5c5:
 translate vietnamese alice_3_1_bfda5a71:
 
     # th "I surely will."
-    th "Tát nhiên anh sẽ đợi rồi."
+    th "Tất nhiên là anh sẽ đợi rồi."
 
 translate vietnamese strings:
 
     # game/characters/alice/ev_3.rpy:20
     old "Sure"
-    new "Chắc rồi"
+    new "Được chứ"
 
     # game/characters/alice/ev_3.rpy:20
     old "Not now"

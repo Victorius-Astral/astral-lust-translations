@@ -142,13 +142,13 @@ translate vietnamese tutorial_combat_lose_3820771a_1:
 translate vietnamese tutorial_combat_end_fd7a89e1:
 
     # lexi "There are some items in your room that could help out there. Try raising your {i}{cha}charisma{/cha}{/i} with the mirror. {i}{int}Intelligence{/int}{/i} at the Rubik's Cube on your nightstand."
-    lexi "Có một số vật dụng trong phòng của anh có thể giúp ích cho anh đấy. Hãy thử nâng cao {i}{cha}sức thu hút{/cha}{/i} với gương. {i}{int}Sự thông minh{/int}{/i} tại Khối Rubik trên tủ đầu giường của bạn."
+    lexi "Có một số vật dụng trong phòng của anh có thể giúp ích cho anh đấy. Hãy thử nâng cao {i}{cha}sức thu hút{/cha}{/i} với gương. {i}{int}Trí tuệ{/int}{/i} tại Khối Rubik trên tủ đầu giường của anh."
 
 # game/combat/battle/tutorial.rpy:188
 translate vietnamese tutorial_combat_end_40cde874:
 
     # lexi "In battle, it's more important to raise your {i}{wis}wisdom{/wis}{/i} first. You can do this by reading a book on your nightstand."
-    lexi "Trong trận chiến, điều quan trọng hơn là nâng cao {i}{wis}sự thông thái{/wis}{/i} đầu tiên. Anh có thể làm điều này bằng cách đọc một cuốn sách trên tủ đầu giường của bạn."
+    lexi "Trong trận chiến, điều quan trọng hơn là nâng cao {i}{wis}sự thông thái{/wis}{/i} đầu tiên. Anh có thể làm điều này bằng cách đọc một cuốn sách trên tủ đầu giường của anh."
 
 # game/combat/battle/tutorial.rpy:189
 translate vietnamese tutorial_combat_end_84b3e835:
@@ -180,7 +180,7 @@ translate vietnamese strings:
 
     # game/combat/battle/tutorial.rpy:39
     old "I'm gonna teach you how to kick asses of the threats out there."
-    new "Em sẽ dạy cậu cách đánh bật những mối đe dọa ngoài kia."
+    new "Em sẽ dạy anh cách đánh bật những mối đe dọa ngoài kia."
 
     # game/combat/battle/tutorial.rpy:40
     old "What we're gonna fight now is a werewolf. Don't worry that one is sick and retarded. Normally werewolves are much stronger!"
@@ -200,7 +200,7 @@ translate vietnamese strings:
 
     # game/combat/battle/tutorial.rpy:42
     old "You can see your cards at the bottom. This is your hand. As long as you have enough spirituality, you would be able to play any of these cards."
-    new "Anh có thể thấy các thẻ của mình ở dưới cùng. Đây là bàn tay của bạn. Miễn là bạn có đủ năng lượng tâm linh, anh sẽ có thể chơi bất kỳ thẻ nào trong số này."
+    new "Anh có thể thấy các thẻ của mình ở dưới cùng. Đây là bàn tay của anh. Miễn là anh có đủ năng lượng tâm linh, anh sẽ có thể chơi bất kỳ thẻ nào trong số này."
 
     # game/combat/battle/tutorial.rpy:43
     old "Spirituality"
@@ -208,7 +208,7 @@ translate vietnamese strings:
 
     # game/combat/battle/tutorial.rpy:43
     old "Spirituality is an energy used to perform actions in combat. It is restored every turn. By default the maximum spirituality is three, but you can increase it by training wisdom with the books in your room."
-    new "Tâm linh là năng lượng dùng để thực hiện các hành động trong chiến đấu. Nó được khôi phục mỗi lượt. Theo mặc định, linh hồn tối đa là ba, nhưng anh có thể tăng nó bằng cách rèn luyện sự thông thái với khối Rubik trong phòng của mình."
+    new "Tâm linh là năng lượng dùng để thực hiện các hành động trong chiến đấu. Nó được khôi phục mỗi lượt. Theo mặc định, linh hồn tối đa là ba, nhưng anh có thể tăng nó bằng cách rèn luyện sự thông thái với quyển sách trong phòng của mình."
 
     # game/combat/battle/tutorial.rpy:48
     old "Use Strike card"
@@ -248,7 +248,7 @@ translate vietnamese strings:
 
     # game/combat/battle/tutorial.rpy:61
     old "Great! This shield to the left of your health is a block. Each block can block one point of damage. With 5 block the bandit won't be able to harm you at all!"
-    new "Tuyệt quá! Lá chắn bên trái sinh lực của anh là một chặn đòn. Mỗi cái có thể chặn một điểm thiệt hại. Với 5 cái, bọn cướp sẽ không thể làm hại bạn chút nào!"
+    new "Tuyệt quá! Lá chắn bên trái sinh lực của anh là một chặn đòn. Mỗi cái có thể chặn một điểm thiệt hại. Với 5 cái, bọn cướp sẽ không thể làm hại anh chút nào!"
 
     # game/combat/battle/tutorial.rpy:65
     old "You've done everything you could this turn. When the turn ends, your allies, and enemies will act. Remember, all remaining cards in your hand will be discarded, and you'll be dealt a new hand."
@@ -268,7 +268,7 @@ translate vietnamese strings:
 
     # game/combat/battle/tutorial.rpy:73
     old "In the bottom left corner is your draw pile. It's a pile of cards from which you'll be drawing your hand next turn. You can click on it later to check what cards you can get in your next turn."
-    new "Ở góc dưới cùng bên trái là cọc rút bài của bạn. Đó là một đống thẻ mà từ đó anh sẽ về tay anh ở lượt tiếp theo. Bạn có thể nhấp vào nó sau để kiểm tra xem bạn có thể nhận được những thẻ nào trong lượt tiếp theo của mình."
+    new "Ở góc dưới cùng bên trái là cọc rút bài của anh. Đó là một đống thẻ mà từ đó anh sẽ về tay anh ở lượt tiếp theo. anh có thể nhấp vào nó sau để kiểm tra xem anh có thể nhận được những thẻ nào trong lượt tiếp theo của mình."
 
     # game/combat/battle/tutorial.rpy:74
     old "Discard Pile"
@@ -391,8 +391,8 @@ translate vietnamese strings:
 
     # game/combat/battle/tutorial.rpy:55
     old "We are short on spirituality.. We should prepare for his move. Do you see this thing above his head? It's an indication that means that he's going to attack either of us for 5 damage."
-    new "We are short on spirituality.. We should prepare for his move. Do you see this thing above his head? It's an indication that means that he's going to attack either of us for 5 damage."
+    new "Chúng ta còn thiếu sót về năng lượng tâm linh... Chúng ta nên chuẩn bị cho bước di chuyển của nó. Anh có thấy thứ này trên đầu nó không? Đó là một dấu hiệu có nghĩa là nó sẽ tấn công một trong hai chúng ta với 5 sát thương đấy."
 
     # game/combat/battle/tutorial.rpy:79
     old "He's going to attack again.. I fear that he might target me, could you please help me defend? Click on me to select me."
-    new "He's going to attack again.. I fear that he might target me, could you please help me defend? Click on me to select me."
+    new "Nó sẽ tấn công thêm lần nữa đấy. em sợ là nó có thể nhắm vào em đấy, anh có thể giúp em phòng thủ được không? Nhấp vào em để chọn em."

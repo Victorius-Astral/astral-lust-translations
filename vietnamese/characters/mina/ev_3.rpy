@@ -4,19 +4,19 @@
 translate vietnamese mina_3_2b92aba6:
 
     # "As you enter the corridor, you notice [mina] sneakily standing near [alice]'s door."
-    "Khi bước vào hành lang, bạn nhận thấy [mina] đang lén lút đứng gần cửa của [alice]."
+    "Khi tiến vào hành lang, bạn nhận thấy [mina] đang lén lút đứng gần cửa của [alice]."
 
 # game/characters/mina/ev_3.rpy:10
 translate vietnamese mina_3_a6e26677:
 
     # th "What is she doing?"
-    th "Em ấy đang làm gì vậy ta?"
+    th "Em ấy đang làm gì vậy?"
 
 # game/characters/mina/ev_3.rpy:12
 translate vietnamese mina_3_e81dbb5b:
 
     # "You approach [mina] quietly as to not alarm her."
-    "Bạn đến gần [mina] một cách lặng lẽ để không làm em ấy nhận thấy."
+    "Bạn đến gần [mina] một cách lặng lẽ để không làm em ấy nhận ra."
 
 # game/characters/mina/ev_3.rpy:16
 translate vietnamese mina_3_0cb06846:
@@ -58,7 +58,7 @@ translate vietnamese mina_3_9c8d6101:
 translate vietnamese mina_3_701286bd:
 
     # th "Holy shit, this girl knows how to have fun."
-    th "Vãi shit, cô gái này biết cách mà chơi đấy."
+    th "Vãi shit, cô gái này biết cách để chơi đấy."
 
 # game/characters/mina/ev_3.rpy:38
 translate vietnamese mina_3_1a427f83:
@@ -70,19 +70,19 @@ translate vietnamese mina_3_1a427f83:
 translate vietnamese mina_3_2dd31f86:
 
     # th "Seems I'm not the only one enjoying it."
-    th "Có vẻ như tôi không phải là người duy nhất thấy thích nó."
+    th "Có vẻ như mình không phải là người duy nhất thấy thích nó."
 
 # game/characters/mina/ev_3.rpy:40
 translate vietnamese mina_3_d25fdf6e:
 
     # th "As much as I would want to look further it won't end well if [alice] sees us both here."
-    th "Nhiều như là việc mình muốn nhìn gần hơn, nó sẽ không kết thúc tốt đẹp nếu [alice] thấy cả hai chúng tôi ở đây."
+    th "Nhiều như là việc mình muốn nhìn gần hơn, nó sẽ không kết thúc tốt đẹp nếu [alice] thấy cả hai ở đây."
 
 # game/characters/mina/ev_3.rpy:48
 translate vietnamese mina_3_1_a6317793:
 
     # "You touch [mina]'s shoulder and she freezes."
-    "Bạn chạm vào vai của [mina] và cô ấy đông cứng lại."
+    "Bạn chạm vào vai của [mina] khiến cô ấy đông cứng lại."
 
 # game/characters/mina/ev_3.rpy:50
 translate vietnamese mina_3_1_769a2c9e:
@@ -94,7 +94,7 @@ translate vietnamese mina_3_1_769a2c9e:
 translate vietnamese mina_3_1_abb5dae1:
 
     # mina "[me], ummm.. What are you doing here? Wanna go get something to eat?"
-    mina "[me], ummm... Anh đang làm gì ở đây thế? Có muốn đi kiếm cái gì đó để ăn không?"
+    mina "[me], ummm... Anh đang làm gì ở đây thế? Anh muốn đi kiếm cái gì đó để ăn không?"
 
 # game/characters/mina/ev_3.rpy:53
 translate vietnamese mina_3_1_224b2f03:
@@ -148,7 +148,7 @@ translate vietnamese mina_3_1_46137593:
 translate vietnamese mina_3_1_37fc9e02:
 
     # me "Then you don't mind me telling Alice that you were waiting outside for a few minutes to ask her out but didn't want to interrupt?"
-    me "Thế thì em không phiền khi Anh nói với Alice rằng em đã đợi bên ngoài vài phút để rủ em ấy đi chơi nhưng không muốn làm phiền chứ?"
+    me "Thế thì em không phiền nếu anh nói với Alice rằng em đã đợi bên ngoài hơn mấy phút chỉ để rủ em ấy đi chơi nhưng không muốn làm phiền được không?"
 
 # game/characters/mina/ev_3.rpy:88
 translate vietnamese mina_3_1_e017571a:
@@ -316,13 +316,13 @@ translate vietnamese mina_3_menu_581801dd:
 translate vietnamese mina_3_menu_bed59490:
 
     # mina "{size=-10}I thought that you were a good man..{/size}"
-    mina "{size=-10}Em nghĩ rằng anh là một người đàn ông tốt...{/size}"
+    mina "{size=-10}Em tưởng anh là một người đàn ông tốt...{/size}"
 
 # game/characters/mina/ev_3.rpy:165
 translate vietnamese mina_3_menu_314086b3:
 
     # me "What?"
-    me "Cái gì?"
+    me "Hả?"
 
 # game/characters/mina/ev_3.rpy:166
 translate vietnamese mina_3_menu_5c24a05e:
@@ -334,7 +334,7 @@ translate vietnamese mina_3_menu_5c24a05e:
 translate vietnamese mina_3_menu_95ba7abb:
 
     # "[mina] starts to blow you but it's clear that she is inexperienced."
-    "[mina] bắt đầu bú cu bạn nhưng rõ ràng là cô ấy rất thiếu kinh nghiệm."
+    "[mina] bắt đầu thổi kèn bạn nhưng rõ ràng là cô ấy rất thiếu kinh nghiệm."
 
 # game/characters/mina/ev_3.rpy:169
 translate vietnamese mina_3_menu_dd9636c7:
@@ -454,7 +454,7 @@ translate vietnamese mina_3_menu_aee290c6:
 translate vietnamese mina_3_2a_a97b2b6a:
 
     # "It takes [mina] a while to collect herself, you feel terrible."
-    "[Mina] phải mất một lúc để hoàn hồn lại, bạn cảm thấy thật kinh khủng."
+    "[mina] phải mất một lúc để hoàn hồn lại, bạn cảm thấy thật tồi tệ."
 
 # game/characters/mina/ev_3.rpy:222
 translate vietnamese mina_3_2b_9caade66:
@@ -472,7 +472,7 @@ translate vietnamese mina_3_2b_7e51e0de:
 translate vietnamese mina_3_2b_9127e94c:
 
     # me "So care to explain why you were peeping at her?"
-    me "Vậy muốn giải thích tại sao em lại nhìn trộm không?"
+    me "Vậy muốn giải thích việc tại sao em lại nhìn trộm Alice không?"
 
 # game/characters/mina/ev_3.rpy:226
 translate vietnamese mina_3_2b_d2257551:
@@ -484,7 +484,7 @@ translate vietnamese mina_3_2b_d2257551:
 translate vietnamese mina_3_2b_e1299986:
 
     # me "Don't worry I won't tell anyone."
-    me "Đừng lo anh sẽ không nói với ai cả."
+    me "Đừng lo anh sẽ không nói với ai đâu."
 
 # game/characters/mina/ev_3.rpy:229
 translate vietnamese mina_3_2b_fccf8023:
@@ -514,7 +514,7 @@ translate vietnamese mina_3_2b_d58efbd3:
 translate vietnamese mina_3_2b_ece1d01a:
 
     # me "You don't mean like a friend right?"
-    me "Ý em là không phải kiểu bạn bè đúng không?"
+    me "Không phải là theo kiểu bạn bè đúng không?"
 
 # game/characters/mina/ev_3.rpy:235
 translate vietnamese mina_3_2b_5c12f2eb:
@@ -538,13 +538,13 @@ translate vietnamese mina_3_2b_3820771a:
 translate vietnamese mina_3_2b_1fe42ae9:
 
     # me "I must say I'm surprised."
-    me "Anh phải nói là anh khá ngạc nhiên đấy."
+    me "Phải nói là anh khá ngạc nhiên đấy."
 
 # game/characters/mina/ev_3.rpy:241
 translate vietnamese mina_3_2b_a5e546e8:
 
     # mina "You promised to keep quiet. You better keep your promise, or you can forget about my [lex_min]!"
-    mina "Anh đã hứa sẽ giữ im lặng. Tốt hơn hết anh nên giữ lời hứa của mình, nếu không anh có thể quên đi chị của em được rồi dấy!"
+    mina "Anh đã hứa sẽ giữ im lặng. Tốt hơn hết anh nên giữ lời hứa của mình, nếu không anh có thể quên đi chị của em được rồi đấy!"
 
 # game/characters/mina/ev_3.rpy:243
 translate vietnamese mina_3_2b_0da66134:

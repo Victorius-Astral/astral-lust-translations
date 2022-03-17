@@ -88,7 +88,7 @@ translate vietnamese main_2_d9ab78d5:
 translate vietnamese main_2_4cc6f041:
 
     # madman "Priest? No.. For Them we can't be anything more than worms. For Them we are but servants living and dying for Their will."
-    madman "Linh mục á? Không... Đối với bọn họ, chúng ta chả là gì khác gì với mấy con sâu cả. Đối với họ, chúng tôi chỉ là những người hầu sống và chết cho ý muốn của họ."
+    madman "Linh mục á? Không... Đối với bọn họ, chúng ta chả là gì khác gì với mấy con sâu cả. Đối với họ, chúng ta chỉ là những người hầu sống và chết theo ý muốn của họ."
 
 # game/characters/player/ev_2.rpy:27
 translate vietnamese main_2_8ffb0486:
@@ -184,7 +184,7 @@ translate vietnamese main_2_26c6823c:
 translate vietnamese main_2_90f32666:
 
     # me "W-Wait! S-Stop! We can talk!"
-    me "Đ-Đo đã! D-Dừng lại! Chúng ta có thể nói chuyện!"
+    me "Đ-Đợi đã! D-Dừng lại! Chúng ta có thể nói chuyện!"
 
 # game/characters/player/ev_2.rpy:52
 translate vietnamese main_2_4b194e9c:
@@ -196,7 +196,7 @@ translate vietnamese main_2_4b194e9c:
 translate vietnamese main_2_04bc8a81:
 
     # th "H-He just killed h-himself."
-    th "H-Hắn ta vừa giết chính mình."
+    th "H-Hắn ta vừa tự sát."
 
 # game/characters/player/ev_2.rpy:57
 translate vietnamese main_2_14b212db:
@@ -208,7 +208,7 @@ translate vietnamese main_2_14b212db:
 translate vietnamese main_2_fdbd976a:
 
     # "You barge into the hotel shocking [lexi] and immediately went into the shower to wash the blood off yourself."
-    "Bạn xông vào khách sạn gây sốc [lexi] và ngay lập tức đi vào phòng tắm để rửa sạch máu."
+    "Bạn xông vào khách sạn khiến [lexi] bàng hoàng rồi ngay lập tức đi vào phòng tắm để rửa sạch máu."
 
 # game/characters/player/ev_2.rpy:68
 translate vietnamese main_2_0dc07156:
@@ -256,7 +256,7 @@ translate vietnamese main_2_c18754eb:
 translate vietnamese main_2_022fdd34:
 
     # lexi "Sure! Be right back!"
-    lexi "Chắc chắn rồi! Em  sẽ trở lại ngay!"
+    lexi "Được rồi! Em  sẽ trở lại ngay!"
 
 # game/characters/player/ev_2.rpy:78
 translate vietnamese main_2_c705100b:

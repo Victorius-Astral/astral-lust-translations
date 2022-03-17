@@ -46,7 +46,7 @@ translate vietnamese main_5_d5f5c695:
 translate vietnamese main_5_e269123d:
 
     # th "Fuck!"
-    th "Mẹ!"
+    th "Mẹ nó!"
 
 # game/characters/player/ev_5.rpy:16
 translate vietnamese main_5_44e7d744:
@@ -58,13 +58,13 @@ translate vietnamese main_5_44e7d744:
 translate vietnamese main_5_bb08ed3f:
 
     # throdog "You wished to speak with Us. You have simply been unaware until now."
-    throdog "Ngươi muốn nói chuyện với chúng ta. Ngươi chỉ đơn giản là không biết cho đến bây giờ."
+    throdog "Ngươi muốn nói chuyện với chúng ta. Ngươi chỉ đơn giản là không biết cho đến bây giờ thôi."
 
 # game/characters/player/ev_5.rpy:19
 translate vietnamese main_5_9f6fb829:
 
     # me "Why would I want to speak with you? Whenever you speak I feel like I'm breaking apart!"
-    me "Tại sao tôi muốn nói chuyện với mấy người chứ? Bất cứ khi nào ông nói, tao cảm thấy như mình đang bị vỡ ra thành từng mảnh vậy!"
+    me "Tại sao tôi muốn nói chuyện với mấy người chứ? Bất cứ khi nào ông nói, tôi cảm thấy như mình đang bị vỡ ra thành từng mảnh vậy!"
 
 # game/characters/player/ev_5.rpy:21
 translate vietnamese main_5_f735234f:
@@ -88,7 +88,7 @@ translate vietnamese main_5_40b36cf5:
 translate vietnamese main_5_5f578893:
 
     # throdog "Everything that happens is but a game among higher beings. Your kind is yet another insignificant piece on this cosmic board."
-    throdog "Mọi thứ xảy ra chỉ là một trò chơi giữa những thực thể cao hơn thôi. Loài của ngươi chỉ là một hạt cát trong cái vũ trụ này thôi."
+    throdog "Mọi thứ xảy ra chỉ là một trò chơi giữa những thực thể cao hơn. Loài của ngươi chỉ là một hạt cát trong cái vũ trụ này thôi."
 
 # game/characters/player/ev_5.rpy:26
 translate vietnamese main_5_215d6eef:
@@ -124,19 +124,19 @@ translate vietnamese main_5_130627a5:
 translate vietnamese main_5_8abe19d7:
 
     # throdog "Thou shalt never believe in god's love as gods represent no love, they represent authority and power."
-    throdog "Ngươi đừng bao giờ tin vào tình yêu của thần vì thần tượng trưng cho không có tình yêu, mà tượng trưng cho quyền uy và sức mạnh."
+    throdog "Ngươi đừng bao giờ tin vào tình yêu của thần vì thần tượng trưng cho sự vô tâm, họ tượng trưng cho quyền uy và sức mạnh."
 
 # game/characters/player/ev_5.rpy:43
 translate vietnamese main_5_4ed90f1f:
 
     # me "Are we really so insignificant? What about nuclear weapons? What about all the progress humans have been making for thousands of years?"
-    me "Bọn ta có thực sự tầm thường như vậy không? Còn vũ khí hạt nhân thì sao? Còn về tất cả những tiến bộ mà con người đã đạt được trong hàng nghìn năm?"
+    me "Bọn tôi có thực sự tầm thường như vậy không? Còn vũ khí hạt nhân thì sao? Còn về tất cả những tiến bộ mà con người đã đạt được trong hàng nghìn năm?"
 
 # game/characters/player/ev_5.rpy:45
 translate vietnamese main_5_4221f7c0:
 
     # throdog "It's time for you to wake up lest your mind shatters."
-    throdog "Đã đến lúc phải dậy rồi kẻo tâm trí ngươi sẽ tan nát đấy."
+    throdog "Đã đến lúc phải dậy rồi không khéo tâm trí ngươi sẽ tan nát luôn đấy."
 
 # game/characters/player/ev_5.rpy:47
 translate vietnamese main_5_82b7127a:

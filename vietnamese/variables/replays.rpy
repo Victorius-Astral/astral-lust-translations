@@ -76,7 +76,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:63
     old "Questionnaire"
-    new "Bảng câu hỏi"
+    new "Nh câu hỏi"
 
     # game/variables/replays.rpy:63
     old "Birthday Gift part 1"

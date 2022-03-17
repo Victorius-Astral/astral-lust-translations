@@ -8,7 +8,7 @@ translate vietnamese strings:
 
     # game/variables/lists/sexpos.rpy:3
     old "Kiss - Forced"
-    new "Hôn - Ép buộc"
+    new "Cưỡng hôn"
 
     # game/variables/lists/sexpos.rpy:3
     old "Kiss - Masturbation"

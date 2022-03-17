@@ -16,7 +16,7 @@ translate vietnamese main_4_3a9dfdac:
 translate vietnamese main_4_67d4cc93:
 
     # th "What the heck?! Is this a library?"
-    th "Cái quái gì vậy?! Đây có phải là một thư viện không?"
+    th "Cái quái gì vậy?! Đây là thư viện sao?"
 
 # game/characters/player/ev_4.rpy:17
 translate vietnamese main_4_34583e30:
@@ -118,7 +118,7 @@ translate vietnamese main_4_1_b8ea8b09:
 translate vietnamese main_4_1_0b73c997:
 
     # kiara "Of course, not many, though. So what wisdom do you seek here?"
-    kiara "Tất nhiên là không nhiều rồi. Vậy anh tìm kiếm tri thức nào ở đây?"
+    kiara "Tất nhiên là không nhiều rồi. Thế, anh tìm kiếm tri thức nào ở đây?"
 
 # game/characters/player/ev_4.rpy:65
 translate vietnamese main_4_1_eded6bd1:
@@ -154,7 +154,7 @@ translate vietnamese main_4_1_979f1011:
 translate vietnamese main_4_1_104143d5:
 
     # kiara "No, I'm not hungry, I'm lonely. I'll answer your questions, and you'll keep me company for a while."
-    kiara "Không, tôi không đói, tôi cô đơn cơ. Tôi sẽ trả lời câu hỏi của anh, vầ anh sẽ phải ở cạnh tôi một lúc."
+    kiara "Không, tôi không đói, tôi cô đơn cơ. Tôi sẽ trả lời câu hỏi của anh, và anh sẽ phải ở bên tôi một lúc."
 
 # game/characters/player/ev_4.rpy:72
 translate vietnamese main_4_1_baaf3156:
@@ -166,19 +166,19 @@ translate vietnamese main_4_1_baaf3156:
 translate vietnamese main_4_1_f6c394c0:
 
     # kiara "Hihi, no silly, I want to have sex with you that's all. You are free to go right after."
-    kiara "Hihi, không đâu ngốc ạ, tôi muốn làm tình với anh thế thôi. Anh có thể đi sau khi xong."
+    kiara "Hihi, không đâu ngốc ạ, tôi muốn làm tình với anh thế thôi. Anh có thể đi sau khi xong Chuyện."
 
 # game/characters/player/ev_4.rpy:75
 translate vietnamese main_4_1_c735a1d0:
 
     # th "Oh, so that's what she meant. Well, she is direct.."
-    th "Oh, vì vậy đó là những gì cô ấy muốn nói. Đù, cô gái này thẳng tính vãi..."
+    th "Oh, vì vậy đó là những gì cô ấy muốn nói. Chà, cô gái này thẳng tính đấy..."
 
 # game/characters/player/ev_4.rpy:83
 translate vietnamese main_4_menu_6f7b3ca9:
 
     # kiara "It's called Asthar, which you probably know, there are many things one can learn about it, but they are mostly useless to you. What you should know is that you need to be especially careful here."
-    kiara "Nó được gọi là Asthar, mà có thể anh đã biết rồi, rất nhiều điều người ta có thể học về nó, nhưng chúng hầu như vô dụng đối với anh. Điều bạn anh biết là anh cần phải đặc biệt cẩn thận ở đây."
+    kiara "Nó được gọi là Asthar, mà có thể anh đã biết rồi, có rất nhiều điều mà người ta có thể học về nó, nhưng chúng hầu như vô dụng đối với anh. Điều anh nên biết là anh cần phải đặc biệt cẩn thận ở đây."
 
 # game/characters/player/ev_4.rpy:84
 translate vietnamese main_4_menu_5c984960:
@@ -196,13 +196,13 @@ translate vietnamese main_4_menu_66cf4b6b:
 translate vietnamese main_4_menu_9fad7fd9:
 
     # me "No, is that the name of the cult that brought about The End?"
-    me "Không, đó có phải là tên của giáo phái đã mang đến The End không?"
+    me "Không, nhưng mà đó có phải là tên của giáo phái đã mang đến tận thế không?"
 
 # game/characters/player/ev_4.rpy:88
 translate vietnamese main_4_menu_62219bee:
 
     # kiara "Yes that's them, their headquarters are in the depths of Asthar."
-    kiara "Đúng rồi là chúng đấy, trụ sở chính của chúng ở sâu trong Asthar."
+    kiara "Đúng rồi, là chúng đấy, trụ sở chính của chúng ở sâu trong Asthar."
 
 # game/characters/player/ev_4.rpy:89
 translate vietnamese main_4_menu_f4c2d150:
@@ -220,13 +220,13 @@ translate vietnamese main_4_menu_34ac3545:
 translate vietnamese main_4_menu_fd5255f3:
 
     # kiara "I know many things. This is a repository of knowledge after all."
-    kiara "Tôi biết nhiều thứ. Dù gì thì đây cũng là một kho kiến thức."
+    kiara "Tôi biết rất nhiều thứ. Dù gì thì đây cũng là một kho kiến thức mà."
 
 # game/characters/player/ev_4.rpy:93
 translate vietnamese main_4_menu_00a0dde2:
 
     # me "Where is this city anyway. I don't remember any city on Earth going by this name, and this city doesn't appear small."
-    me "Thành phố này nằm ở đâu vậy. Tôi không nhớ có thành phố nào trên Trái đất có tên này, và thành phố này có vẻ không nhỏ."
+    me "Thành phố này nằm ở đâu vậy. Tôi không nhớ có thành phố nào trên Trái đất có tên này, và thành phố này có vẻ cũng không nhỏ."
 
 # game/characters/player/ev_4.rpy:94
 translate vietnamese main_4_menu_e7d15dd0:
@@ -244,7 +244,7 @@ translate vietnamese main_4_menu_2ed54c30:
 translate vietnamese main_4_menu_f478aaf8:
 
     # kiara "It's in the country that it needs to be."
-    kiara "Nó ở trong nước mà nó cần ở."
+    kiara "Nó ở trong quốc gia mà nó cần ở."
 
 # game/characters/player/ev_4.rpy:97
 translate vietnamese main_4_menu_b02400af:
@@ -268,7 +268,7 @@ translate vietnamese main_4_menu_314086b3:
 translate vietnamese main_4_menu_5143f82f:
 
     # th "And here I thought that she seemed pretty normal.."
-    th "Và ở đây mình nghĩ rằng cô ấy có vẻ khá bình thường đấy..."
+    th "Và mình từng nghĩ rằng cô ta có vẻ khá bình thường đấy..."
 
 # game/characters/player/ev_4.rpy:101
 translate vietnamese main_4_menu_ba05c98e:
@@ -340,7 +340,7 @@ translate vietnamese main_4_menu_58fbf695:
 translate vietnamese main_4_menu_916751ef:
 
     # kiara "The upper echelon of Cult of the Black consists of seven Elders, two High Elders and a leader, His name is Aharon. You don't want to meet any of Them. Were you to hear Their name somewhere I advice you to just run and pray to whichever God you believe in that They ignore someone calling Their name."
-    kiara "Thượng cấp của Giáo Phái Bóng Đêm bao gồm bảy Trưởng lão, hai Hiền Nhân và một người lãnh đạo, Tên của hắn là Aharon. Anh không muốn gặp bất kỳ ai trong số Họ đâu. Anh có nghe thấy tên của họ ở đâu đó không, tôi khuyên anh chỉ nên chạy và cầu nguyện cho bất cứ vị thần nào mà bạn tin tưởng. Chúng sẽ Làm lơ người mà đang gọi tên của họ."
+    kiara "Thượng cấp của Giáo Phái Bóng Đêm bao gồm bảy Trưởng lão, hai Hiền Nhân và một người lãnh đạo, Tên của hắn là Aharon. Anh không muốn gặp bất kỳ ai trong số Họ đâu. Anh có nghe thấy tên của họ ở đâu đó không, tôi khuyên anh chỉ nên chạy và cầu nguyện với bất cứ vị thần nào mà anh tin tưởng. Chúng sẽ Làm lơ người đang gọi tên của họ."
 
 # game/characters/player/ev_4.rpy:123
 translate vietnamese main_4_menu_a26ceb89:
@@ -358,7 +358,7 @@ translate vietnamese main_4_menu_4b6a71b1:
 translate vietnamese main_4_menu_fd418994:
 
     # me "Gods? You're trying to say that he is a God?"
-    me "Thần? Cô đang cố gắng nói rằng hắn là một vị thần?"
+    me "Thần? Có phải cô muốn nói rằng hắn là một vị thần sao?"
 
 # game/characters/player/ev_4.rpy:129
 translate vietnamese main_4_menu_cc552c7b:
@@ -370,19 +370,19 @@ translate vietnamese main_4_menu_cc552c7b:
 translate vietnamese main_4_menu_8ff1ec88:
 
     # me "Then?"
-    me "Thế?"
+    me "Vậy?"
 
 # game/characters/player/ev_4.rpy:132
 translate vietnamese main_4_menu_0facc63e:
 
     # kiara "He is close to being one and for a mortal like you He is not different from one. Were you to say His name outside you wouldn't even know how you died."
-    kiara "Hắn gần chạm đến mức đấy rồi và đối với một người phàm như anh, Hắn không khác mấy đâu. Nếu anh nói tên của Hắn ở bên ngoài anh thậm chí sẽ không biết Anh đã chết như thế nào."
+    kiara "Hắn gần chạm đến mức đấy rồi và đối với một người phàm như anh, Hắn không khác mấy đâu. Nhưng nếu anh nói tên của Hắn ở bên ngoài thì anh thậm chí sẽ không biết bản thân mình đã chết như thế nào đâu."
 
 # game/characters/player/ev_4.rpy:133
 translate vietnamese main_4_menu_492c475c:
 
     # th "Mortal like me? Is she implying that she isn't mortal?"
-    th "Người phàm như mình? Có phải là đang ngụ ý rằng cô ấy không phải là người sao??"
+    th "Người phàm như mình? Có phải là đang ngụ ý rằng cô ấy không phải là người hả?"
 
 # game/characters/player/ev_4.rpy:134
 translate vietnamese main_4_menu_71ba3eea:
@@ -778,7 +778,7 @@ translate vietnamese main_4_sex2_7be1ec02:
 translate vietnamese main_4_sex2_c3799345:
 
     # "You feel drained but satisfied. You two take a while to recover and clothe yourselves."
-    "You feel drained but satisfied. You two take a while to recover and clothe yourselves."
+    "Bạn cảm thấy kiệt sức nhưng khá hài lòng. Cả hai phải mất một lúc để hồi phục và mặc quần áo của mình."
 
 # game/characters/player/ev_4.rpy:288
 translate vietnamese main_4_sex2_40e4a716:

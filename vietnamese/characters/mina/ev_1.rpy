@@ -202,7 +202,7 @@ translate vietnamese mina_1_1_92b2121c:
 translate vietnamese mina_1_1_a08f2e91:
 
     # mina "Got it! Now third que.."
-    mina "Hiểu rồi! Bây giờ lag câu hỏi thứ ba..."
+    mina "Hiểu rồi! Bây giờ là câu hỏi thứ ba..."
 
 # game/characters/mina/ev_1.rpy:69
 translate vietnamese mina_1_1_32a56f34:

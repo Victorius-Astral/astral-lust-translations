@@ -16,13 +16,13 @@ translate vietnamese exp_roses_16ec8b2c:
 translate vietnamese exp_roses_41972767:
 
     # th "Is that a rose between them?"
-    th "Đó có phải là một bông hồng giữa bọn chúng?"
+    th "Ở gữa bọn chúng có phải là một bông hồng không?"
 
 # game/events/explore/roses.rpy:16
 translate vietnamese exp_roses_62fd1a7d:
 
     # th "I'm sure [grace] would appreciate them a lot."
-    th "Mình chắc rằng [grace] sẽ sẽ thích nó rất nhiều."
+    th "Chắn chắn là [grace] sẽ sẽ thích nó rất nhiều."
 
 # game/events/explore/roses.rpy:21
 translate vietnamese exp_roses_1275b149:

@@ -190,13 +190,13 @@ translate vietnamese damsel_pregnant_traded_806f2b57:
 translate vietnamese damsel_pregnant_traded_ffc0acdf:
 
     # "Softer.. and somehow soothing."
-    "Mềm hơn ... và mượt hơn."
+    "Mềm hơn... và nuột hơn."
 
 # game/events/explore/damsel_pregnant.rpy:194
 translate vietnamese damsel_pregnant_traded_2af361f3:
 
     # "She changed the pattern. Probably to end this any faster."
-    "Cô ấy đã thay kiểu. Có lẽ để kết thúc điều này nhanh hơn."
+    "Cô ấy đổi kiểu. Có lẽ là để kết thúc điều này nhanh hơn."
 
 # game/events/explore/damsel_pregnant.rpy:195
 translate vietnamese damsel_pregnant_traded_7b2517b4:
@@ -208,13 +208,13 @@ translate vietnamese damsel_pregnant_traded_7b2517b4:
 translate vietnamese damsel_pregnant_traded_56642dc2:
 
     # me "Enjoying yourself?"
-    me "Đang tự tận hưởng hả?"
+    me "Đang tận hưởng hả?"
 
 # game/events/explore/damsel_pregnant.rpy:197
 translate vietnamese damsel_pregnant_traded_3ef2ad63:
 
     # damsel_preg ".. Please hurry."
-    damsel_preg "... Xin hãy nhanh lên."
+    damsel_preg "... Xin hãy nhanh lên đi."
 
 # game/events/explore/damsel_pregnant.rpy:200
 translate vietnamese damsel_pregnant_traded_5304e591:
@@ -226,7 +226,7 @@ translate vietnamese damsel_pregnant_traded_5304e591:
 translate vietnamese damsel_pregnant_traded_8fc35f23:
 
     # me "I'm getting close."
-    me "Tôi đang sắp ra."
+    me "Sắp ra rồi."
 
 # game/events/explore/damsel_pregnant.rpy:202
 translate vietnamese damsel_pregnant_traded_a0e3d1c4:
@@ -256,13 +256,13 @@ translate vietnamese damsel_pregnant_traded_a5d1a354:
 translate vietnamese damsel_pregnant_traded_f0e64c2c:
 
     # damsel_preg "Please don't say it... It's just something I do."
-    damsel_preg "Xin đừng nói nữa... Đó chỉ là điều tôi làm."
+    damsel_preg "Xin đừng nói nữa... Đó chỉ là..."
 
 # game/events/explore/damsel_pregnant.rpy:212
 translate vietnamese damsel_pregnant_traded_dfb28441:
 
     # me "Now get on top of me."
-    me "Bây giờ hãy lên trên tôi."
+    me "Bây giờ hãy lên trên đi."
 
 # game/events/explore/damsel_pregnant.rpy:213
 translate vietnamese damsel_pregnant_traded_56fecf58:
@@ -274,7 +274,7 @@ translate vietnamese damsel_pregnant_traded_56fecf58:
 translate vietnamese damsel_pregnant_traded_eed25f66:
 
     # me "It's time for sex."
-    me "Đã đến lúc cho sex rồi."
+    me "Đã đến lúc địt rồi."
 
 # game/events/explore/damsel_pregnant.rpy:215
 translate vietnamese damsel_pregnant_traded_2086b696:
@@ -286,7 +286,7 @@ translate vietnamese damsel_pregnant_traded_2086b696:
 translate vietnamese damsel_pregnant_traded_0b849b39:
 
     # me "You don't want to?"
-    me "không muốn?"
+    me "không muốn hả?"
 
 # game/events/explore/damsel_pregnant.rpy:217
 translate vietnamese damsel_pregnant_traded_6ede0969:
@@ -304,7 +304,7 @@ translate vietnamese damsel_pregnant_traded_a93d15aa:
 translate vietnamese damsel_pregnant_traded_0b319e3f:
 
     # me "Damn, you're so tight."
-    me "Mẹ kiếp, thật chặt chẽ."
+    me "Chặt đấy."
 
 # game/events/explore/damsel_pregnant.rpy:222
 translate vietnamese damsel_pregnant_traded_71ae1af2:
@@ -322,7 +322,7 @@ translate vietnamese damsel_pregnant_traded_9d47e3b3:
 translate vietnamese damsel_pregnant_traded_11d0b2df:
 
     # damsel_preg "Please, just do what you're gonna do."
-    damsel_preg "Làm ơn, hãy làm những gì anh sẽ làm đi."
+    damsel_preg "Làm ơn, hãy làm những gì anh muốn làm đi."
 
 # game/events/explore/damsel_pregnant.rpy:227
 translate vietnamese damsel_pregnant_traded_d134abd1:
@@ -430,7 +430,7 @@ translate vietnamese damsel_pregnant_traded_bd998b98:
 translate vietnamese damsel_pregnant_traded_957a5d80:
 
     # "You let her rest for a few minutes."
-    "You let her rest for a few minutes."
+    "Bạn để cho cô ấy nghỉ ngơi vài phút."
 
 # game/events/explore/damsel_pregnant.rpy:257
 translate vietnamese damsel_pregnant_end_9112c8d7:
@@ -442,7 +442,7 @@ translate vietnamese damsel_pregnant_end_9112c8d7:
 translate vietnamese damsel_pregnant_end_b7a9c659:
 
     # damsel_preg "Thank you very much for saving me and my baby!"
-    damsel_preg "Cảm ơn bạn rất nhiều vì đã cứu tôi và con tôi!"
+    damsel_preg "Cảm ơn rất nhiều vì đã cứu tôi và con tôi!"
 
 # game/events/explore/damsel_pregnant.rpy:259
 translate vietnamese damsel_pregnant_end_beb2ced1:

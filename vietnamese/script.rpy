@@ -442,7 +442,7 @@ translate vietnamese prologue_part2_844b1e1b:
 translate vietnamese prologue_part2_75dfe7e1:
 
     # u_lexi "I fear no one here can answer that. Don't think too much about it. Since The End many weird things happen everyday."
-    u_lexi "Tôi sợ là không ai ở đây có thể trả lời điều đó. Đừng nghĩ nhiều về nó nữa. Kể từ The End bắt đầu, nhiều điều kỳ lạ xảy ra hàng ngày."
+    u_lexi "Tôi sợ là không ai ở đây có thể trả lời điều đó. Đừng nghĩ nhiều về nó nữa. Kể từ khi The End xảy ra, nhiều điều kỳ lạ xảy ra hàng ngày."
 
 # game/script.rpy:234
 translate vietnamese prologue_part2_1d4511ab:

@@ -40,7 +40,7 @@ translate vietnamese d_Millionaire_2_3b599bf0:
 translate vietnamese d_Millionaire_2_eedc722e:
 
     # me "Yes. What is it?"
-    me "Có. chuyện gì vậy?"
+    me "Không sao đâu. Mà có chuyện gì vậy?"
 
 # game/events/dreams/millionaire.rpy:27
 translate vietnamese d_Millionaire_2_583e680c:
@@ -52,7 +52,7 @@ translate vietnamese d_Millionaire_2_583e680c:
 translate vietnamese d_Millionaire_2_aa0ea6e3:
 
     # th "Mr. Aharon? Ah, yes! My friend. He helped me start my own company.."
-    th "Ông Aharon? À, đúng rồi! BẠn mình. Cậu ta đã giúp mình thành lập công ty riêng..."
+    th "Ông Aharon? À, đúng rồi! Bạn mình. Cậu ta đã giúp mình thành lập công ty riêng..."
 
 # game/events/dreams/millionaire.rpy:29
 translate vietnamese d_Millionaire_2_ba54e75b:
@@ -304,13 +304,13 @@ translate vietnamese d_Millionaire_2_part2_52f03cb9:
 translate vietnamese d_Millionaire_2_part2_7670b800:
 
     # aharon "I can hear Him whispering into my ears.."
-    aharon "Tôi có thể nghe thấy Ngài thì thầm vào tai tôi..."
+    aharon "Tôi có thể nghe thấy Ngài thì thầm vào tai mình..."
 
 # game/events/dreams/millionaire.rpy:181
 translate vietnamese d_Millionaire_2_part2_83ffb3f2:
 
     # me "Sorry, but I don't understand.."
-    me "Xin lỗi, nhưng tôi không hiểu..."
+    me "Xin lỗi, nhưng mà tớ không hiểu..."
 
 # game/events/dreams/millionaire.rpy:184
 translate vietnamese d_Millionaire_2_part2_2587460a:
@@ -370,7 +370,7 @@ translate vietnamese d_Millionaire_2_part2_81137867:
 translate vietnamese d_Millionaire_2_part2_c209fdc5:
 
     # me "Pardon?"
-    me "Gì cơ??"
+    me "Hả?"
 
 # game/events/dreams/millionaire.rpy:206
 translate vietnamese d_Millionaire_2_part2_e53ba8fc:

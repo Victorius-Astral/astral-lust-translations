@@ -16,7 +16,7 @@ translate vietnamese lexi_2_70821183:
 translate vietnamese lexi_2_e41b07f6:
 
     # lexi "No but I'm heading out too. How about we go together?"
-    lexi "Không nhưng em cũng đang đi ra ngoài. Thế chúng ta đi cùng nhau thì sao?"
+    lexi "Không nhưng em cũng đang định đi ra ngoài đây. Thế chúng ta có thể đi cùng nhau được không?"
 
 # game/characters/lexi/ev_2.rpy:11
 translate vietnamese lexi_2_56e77b77:
@@ -118,13 +118,13 @@ translate vietnamese lexi_2_1_314086b3:
 translate vietnamese lexi_2_1_de391b91:
 
     # lexi "You were really a porn actor?"
-    lexi "Anh thực sự là một diễn viên phim cấp 3?"
+    lexi "Anh thực sự là một diễn viên phim heo sao?"
 
 # game/characters/lexi/ev_2.rpy:45
 translate vietnamese lexi_2_1_38db8880_1:
 
     # me "No, I was programmer."
-    me "Không, tớ là lập trình viên."
+    me "Không, anh là lập trình viên."
 
 # game/characters/lexi/ev_2.rpy:46
 translate vietnamese lexi_2_1_6e998f81:
@@ -142,7 +142,7 @@ translate vietnamese lexi_2_1_d7760fc7_1:
 translate vietnamese lexi_2_1a_64d4559a:
 
     # lexi "So you were spending most of your day sitting in front of a pc?"
-    lexi "Vậy, anh dành phần lớn thời gian trong ngày của mình để ngồi trước máy tính?"
+    lexi "Vậy, anh dành phần lớn thời gian trong ngày của mình để ngồi trước máy tính à?"
 
 # game/characters/lexi/ev_2.rpy:54
 translate vietnamese lexi_2_1a_2d8702db:
@@ -412,7 +412,7 @@ translate vietnamese lexi_2_2_55b25e56:
 translate vietnamese lexi_2_2_fca811a5:
 
     # me "Sure."
-    me "Chắc chắn rồi."
+    me "Được chứ."
 
 translate vietnamese strings:
 

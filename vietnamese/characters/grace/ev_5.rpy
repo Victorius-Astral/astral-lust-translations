@@ -118,7 +118,7 @@ translate vietnamese grace_4_4540d3de:
 translate vietnamese grace_5_1_849bef76:
 
     # grace "Are you here to help me again?"
-    grace "Anh ở đây là để giúp em lần nữa ầ?"
+    grace "Anh đến để giúp em lần nữa à?"
 
 # game/characters/grace/ev_5.rpy:69
 translate vietnamese grace_5_1_944de2bb:
@@ -172,7 +172,7 @@ translate vietnamese grace_5_2_3820771a:
 translate vietnamese grace_5_2_1f21c8db:
 
     # "You're not entirely sure you heard that correctly."
-    "Bạn không hoàn toàn chắc rằng bạn đã nghe chính xác."
+    "Bạn không hoàn toàn chắc rằng mình đã nghe chính xác."
 
 # game/characters/grace/ev_5.rpy:86
 translate vietnamese grace_5_2_314086b3:
@@ -196,13 +196,13 @@ translate vietnamese grace_5_2_3820771a_1:
 translate vietnamese grace_5_2_dd70b21d:
 
     # th "What are you teaching her [alice]?"
-    th "Em đang dạy cho grace cái qq gì vậy [alice]?"
+    th "Em đang dạy cho grace cái quần què gì vậy [alice]?"
 
 # game/characters/grace/ev_5.rpy:91
 translate vietnamese grace_5_2_ce5209c3:
 
     # me "That can indeed happen.."
-    me "Điều đó thực sự có thể xảy ra..."
+    me "Điều đó có thể xảy ra đấy..."
 
 # game/characters/grace/ev_5.rpy:93
 translate vietnamese grace_5_2_23ce8e97:
@@ -214,7 +214,7 @@ translate vietnamese grace_5_2_23ce8e97:
 translate vietnamese grace_5_2_8028d825:
 
     # me "No, it only works for girls."
-    me "Không, nó chỉ hoạt động với con gái."
+    me "Không, nó chỉ hoạt động với con gái thôi."
 
 # game/characters/grace/ev_5.rpy:96
 translate vietnamese grace_5_2_006dd55f:
@@ -250,7 +250,7 @@ translate vietnamese grace_5_2_bee82921:
 translate vietnamese grace_5_2_001c680d:
 
     # grace "Your breasts will grow if you drink a lot of milk, so don't worry! Besides, Alice's boobies are small like yours!"
-    grace "Ngực của anh sẽ phát triển nếu anh uống nhiều sữa, vì vậy đừng lo lắng! Bên cạnh đó, boobies của Alice cũng nhỏ giống như của anh!"
+    grace "Ngực của anh sẽ phát triển nếu anh uống nhiều sữa thôi, nên là đừng lo lắng nha! Mà, ngực của chị Alice cũng nhỏ giống như của anh đấy thôi!"
 
 # game/characters/grace/ev_5.rpy:107
 translate vietnamese grace_5_2_3820771a_3:
@@ -268,19 +268,19 @@ translate vietnamese grace_5_2_abce2703:
 translate vietnamese grace_5_2_d24f9956:
 
     # grace "Hey, don't be sad, I'll go get you some milk right away!"
-    grace "Này, đừng buồn, em sẽ đi lấy sữa cho anh ngay lập tức!"
+    grace "Này, đừng buồn, em sẽ đi lấy sữa cho anh ngay lập tức đây!"
 
 # game/characters/grace/ev_5.rpy:111
 translate vietnamese grace_5_2_42f7835f:
 
     # me "No need, I'm okay."
-    me "Không cần đâu, anh ổn."
+    me "Không cần đâu, anh ổn mà."
 
 # game/characters/grace/ev_5.rpy:112
 translate vietnamese grace_5_2_efe0ce83:
 
     # th "Where did you get milk from anyway?"
-    th "Mà em định lấy sữa ở đâu? Tầng hầm khách sạn nhốt một em bò sữa anlime vú to đítbự hả?"
+    th "Mà em định lấy sữa ở đâu? Tầng hầm khách sạn nhốt một em bò sữa alime vú to đít bự hả?"
 
 # game/characters/grace/ev_5.rpy:114
 translate vietnamese grace_5_2_667e40c1:
@@ -304,7 +304,7 @@ translate vietnamese grace_5_2_3057b714:
 translate vietnamese grace_5_2_89b1573b:
 
     # me "Yes [grace]. Besides, a man's breasts aren't supposed to grow. Didn't your mom teach you about the differences between men and women?"
-    me "Đúng rồi [grace]. Bên cạnh đó, ngực của đàn ông sẽ không được phát triển. Mẹ em không dạy em về sự khác biệt giữa nam và nữ sao?"
+    me "Đúng rồi [grace]. Bên cạnh đó, ngực của đàn ông sẽ không phát triển như con gái đâu. Mẹ không dạy em về sự khác biệt giữa nam và nữ sao?"
 
 # game/characters/grace/ev_5.rpy:120
 translate vietnamese grace_5_2_ea30b105:
@@ -406,7 +406,7 @@ translate vietnamese grace_5_2_5a835aff:
 translate vietnamese grace_5_2_3b7203d0:
 
     # grace "Was she?"
-    grace "Bà ấy đã?"
+    grace "Vậy sao?"
 
 # game/characters/grace/ev_5.rpy:149
 translate vietnamese grace_5_2_9d573b2b:
@@ -538,13 +538,13 @@ translate vietnamese grace_5_3_a20f4300:
 translate vietnamese grace_5_3_4defc628:
 
     # grace "Yes, but why are you trying to touch my tities?"
-    grace "Có, nhưng tại sao anh lại chạm vào ngực của tôi?"
+    grace "Có, nhưng tại sao anh lại chạm vào ngực của em?"
 
 # game/characters/grace/ev_5.rpy:186
 translate vietnamese grace_5_3_470f8bfe:
 
     # me "Then on whose breasts should I teach you?"
-    me "Vậy thì anh nên dạy cho em bằng ngực của ai?"
+    me "Thê anh dạy cho em bằng ngực của ai?"
 
 # game/characters/grace/ev_5.rpy:188
 translate vietnamese grace_5_3_8ddb25bb:
@@ -580,7 +580,7 @@ translate vietnamese grace_5_3_0865daa2:
 translate vietnamese grace_5_3_f971b7a1:
 
     # grace "No.. then on whose breasts will you teach me?"
-    grace "Không ... thế anh sẽ dạy em bằng ngực của ai?"
+    grace "Không... thế anh sẽ dạy em bằng ngực của ai?"
 
 # game/characters/grace/ev_5.rpy:195
 translate vietnamese grace_5_3_e26d5cbc:
@@ -628,7 +628,7 @@ translate vietnamese grace_5_3_65576544:
 translate vietnamese grace_5_3_f349071d:
 
     # grace "Show me."
-    grace "Cho em xem."
+    grace "Cho em xem đi."
 
 # game/characters/grace/ev_5.rpy:207
 translate vietnamese grace_5_3_096d4546:
@@ -826,11 +826,11 @@ translate vietnamese strings:
 
     # game/characters/grace/ev_5.rpy:63
     old "Yeah, why not?"
-    new "Yeah, tại sao không?"
+    new "Yeah, tại sao lại không chứ?"
 
     # game/characters/grace/ev_5.rpy:63
     old "Maybe another time"
-    new "Có lẽ lúc khác"
+    new "Chắc để lúc khác đi"
 
     # game/characters/grace/ev_5.rpy:138
     old "I mean that I like you"

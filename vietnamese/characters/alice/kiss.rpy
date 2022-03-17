@@ -154,7 +154,7 @@ translate vietnamese alice_kiss_gym_cow_fa980a3b:
 translate vietnamese alice_kiss_gym_cow_d8f22304:
 
     # me "Haha, sure."
-    me "Haha, chắc rồi."
+    me "Haha, Được rồi."
 
 # game/characters/alice/kiss.rpy:153
 translate vietnamese alice_kiss_gym_cow_4fad45b7:

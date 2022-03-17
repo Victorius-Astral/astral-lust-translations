@@ -46,7 +46,7 @@ translate vietnamese main_3_d3b98cac:
 translate vietnamese main_3_552df06e:
 
     # "The voice sounds as if it's coming from a young man, yet it's filled with a wisdom and calmness that only comes with age. The voice is ethereal, entirely out of this world, and you can feel deep down that it hides unspeakable horrors. It drills into your head, trying to bore further into your mind."
-    "Giọng nói ấy nghe như thể là của một chàng trai trẻ, nhưng lại chứa đầy sự khôn ngoan và điềm tĩnh. Giọng nói thanh tao, hoàn toàn không thuộc về thế giới này, và bạn có thể cảm thấy sâu thẳm rằng nó ẩn chứa những nỗi kinh hoàng không thể diễn tả được. Nó đi sâu vào đầu bạn, cố gắng ăn sâu hơn vào tâm trí bạn."
+    "Giọng nói ấy nghe như thể là của một chàng trai trẻ, nhưng lại chứa đầy sự khôn ngoan và điềm tĩnh. Giọng nói thanh tôi, hoàn toàn không thuộc về thế giới này, và bạn có thể cảm thấy sâu thẳm rằng nó ẩn chứa những nỗi kinh hoàng không thể diễn tả được. Nó đi sâu vào đầu bạn, cố gắng ăn sâu hơn vào tâm trí bạn."
 
 # game/characters/player/ev_3.rpy:17
 translate vietnamese main_3_10ef31ca:
@@ -64,7 +64,7 @@ translate vietnamese main_3_d1110bb0:
 translate vietnamese main_3_dbd50dac:
 
     # u_throdog "You have many questions mortal. We shalt answer them, as destined to awaken Us you are."
-    u_throdog "Ngươi có khá nhiều câu hỏi đấy phàm nhân. Bọn Ta sẽ trả lời chúng, như được định sẵn để đánh thức bọn ta."
+    u_throdog "Ngươi có khá nhiều câu hỏi đấy tên phàm nhân. Bọn Ta sẽ trả lời chúng, như việc định mệnh sắp đặt ngơi đánh thức bọn ta vậy."
 
 # game/characters/player/ev_3.rpy:21
 translate vietnamese main_3_e98d94f5:
@@ -76,7 +76,7 @@ translate vietnamese main_3_e98d94f5:
 translate vietnamese main_3_menu_164f8d72:
 
     # u_throdog "What We are is beyond your understanding, beyond your imagination, and beyond your perception."
-    u_throdog "Bọn ta nằm ngoài sự hiểu biết của ngươi, ngoài sức tưởng tượng của ngươi và ngoài nhận thức của ngươi."
+    u_throdog "Bọn ta nằm ngoài sự hiểu biết của ngươi, ngoài sức tưởng tượng và ngoài nhận thức của ngươi."
 
 # game/characters/player/ev_3.rpy:31
 translate vietnamese main_3_menu_7d34c731:
@@ -112,7 +112,7 @@ translate vietnamese main_3_menu_9f805866:
 translate vietnamese main_3_menu_7d771524:
 
     # me "Why should I help you?"
-    me "Tại sao tao phải giúp mày?"
+    me "Tại sao tôi phải giúp ông?"
 
 # game/characters/player/ev_3.rpy:52
 translate vietnamese main_3_menu_b14fb70a:
@@ -130,7 +130,7 @@ translate vietnamese main_3_menu_0aa42366:
 translate vietnamese main_3_menu_6784b3c3:
 
     # th "Holy shit! Gods want to destroy the cosmos!"
-    th "Địt mẹ! Thần muốn hủy diệt vũ trụ!"
+    th "Vãi cứt! Thần muốn hủy diệt vũ trụ!"
 
 # game/characters/player/ev_3.rpy:61
 translate vietnamese main_3_menu_643e89f4:
@@ -142,7 +142,7 @@ translate vietnamese main_3_menu_643e89f4:
 translate vietnamese main_3_menu_c07b0766:
 
     # throdog "Thou can't. Only with Our resurrection could there be any chance to resist Them as the Pillar We are."
-    throdog "Ngươi không thể. Chỉ với sự phục sinh của bọn Ta thì mới có cơ hội chống lại họ với tư cách Trụ cột."
+    throdog "Ngươi không thể. Chỉ với sự phục sinh của bọn Ta thì mới có cơ hội chống lại họ với tư cách của một Trụ cột."
 
 # game/characters/player/ev_3.rpy:68
 translate vietnamese main_3_menu_23e9755d:
@@ -184,7 +184,7 @@ translate vietnamese main_3_menu_f3c5905b:
 translate vietnamese main_3_menu_f4591db2:
 
     # me "Then what price would I need to pay?"
-    me "Thế tao cần phải trả cái giá nào?"
+    me "Thế tôi cần phải trả cái giá nào?"
 
 # game/characters/player/ev_3.rpy:87
 translate vietnamese main_3_menu_6c5f7194:
@@ -202,23 +202,23 @@ translate vietnamese strings:
 
     # game/characters/player/ev_3.rpy:24
     old "Who are you?"
-    new "Mày là ai?"
+    new "ông là ai?"
 
     # game/characters/player/ev_3.rpy:24
     old "What do you want from me?"
-    new "Mày muốn gì ở tao?"
+    new "Ông muốn gì ở tôi?"
 
     # game/characters/player/ev_3.rpy:24
     old "What happened to you?"
-    new "Có chuyện gì đã xảy ra với ngươi?"
+    new "Có chuyện gì đã xảy ra với ông vậy?"
 
     # game/characters/player/ev_3.rpy:24
     old "Are you a God?"
-    new "Ngươi có phải là thần không?"
+    new "Ông có phải là thần không?"
 
     # game/characters/player/ev_3.rpy:24
     old "Why can't I die?"
-    new "Tại sao tao không thể chết?"
+    new "Tại sao tôi không thể chết?"
 
     # game/characters/player/ev_3.rpy:24
     old "I don't have anymore questions"

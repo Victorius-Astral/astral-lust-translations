@@ -34,7 +34,7 @@ translate vietnamese explore_cat_menu_17023608:
 translate vietnamese explore_cat_menu_333a8233:
 
     # "There is only junk around. You don't find anything useful."
-    "Xung quanh chỉ có rác rưởi. Bạn không thấy bất cứ điều gì hữu ích."
+    "Xung quanh chỉ có rác rưởi. Bạn không thấy bất cứ cái gì hữu ích cả."
 
 # game/events/explore/cat.rpy:36
 translate vietnamese explore_cat_menu_9557a51b:
@@ -46,7 +46,7 @@ translate vietnamese explore_cat_menu_9557a51b:
 translate vietnamese explore_cat_menu_333a8233_1:
 
     # "There is only junk around. You don't find anything useful."
-    "Xung quanh chỉ có rác rưởi. Bạn không thấy bất cứ điều gì hữu ích."
+    "Xung quanh chỉ có rác rưởi. Bạn không thấy bất cứ cái gì hữu ích cả."
 
 # game/events/explore/cat.rpy:49
 translate vietnamese explore_cat_menu_9557a51b_1:
@@ -58,7 +58,7 @@ translate vietnamese explore_cat_menu_9557a51b_1:
 translate vietnamese explore_cat_menu_333a8233_2:
 
     # "There is only junk around. You don't find anything useful."
-    "Xung quanh chỉ có rác rưởi. Bạn không thấy bất cứ điều gì hữu ích."
+    "Xung quanh chỉ có rác rưởi. Bạn không thấy bất cứ cái gì hữu ích cả."
 
 # game/events/explore/cat.rpy:61
 translate vietnamese explore_cat_menu_7c066078:
@@ -88,7 +88,7 @@ translate vietnamese explore_cat_menu_7d1a9b64:
 translate vietnamese explore_cat_menu_f391a4fd:
 
     # "You don't see anyone as you enter the room."
-    "You don't see anyone as you enter the room."
+    "Khi vào trong thì bạn không ai cả."
 
 # game/events/explore/cat.rpy:69
 translate vietnamese explore_cat_menu_102b291f:
@@ -112,13 +112,13 @@ translate vietnamese explore_cat_menu_057a8ee7:
 translate vietnamese explore_cat_menu_1aed39f6:
 
     # me "A cat??? What is a cat doing here?"
-    me "Con mồn lèo??? một Con mèo đang làm gì ở đây?"
+    me "Mèo??? một Con mèo đang làm cái quái gì ở đây vậy?"
 
 # game/events/explore/cat.rpy:75
 translate vietnamese explore_cat_menu_2dd63b49:
 
     # me "Now that I think about it, I haven't seen any animals running about on the streets before."
-    me "Giờ nghĩ lại, mình chưa từng thấy con vật nào chạy trên đường cả."
+    me "Giờ nghĩ lại thì, mình cũng chưa từng thấy con vật nào chạy trên đường cả."
 
 # game/events/explore/cat.rpy:77
 translate vietnamese explore_cat_menu_563bcf13:
@@ -142,7 +142,7 @@ translate vietnamese explore_cat_menu_ba1575bd:
 translate vietnamese explore_cat_menu_1b73d9dd:
 
     # me "Hello there little one. What are you doing here?"
-    me "Xin chào bạn nhỏ. Bé đang làm gì ở đây?"
+    me "Xin chào anh bạn nhỏ. Bé đang làm gì ở đây thế?"
 
 # game/events/explore/cat.rpy:82
 translate vietnamese explore_cat_menu_805f9764:
@@ -184,13 +184,13 @@ translate vietnamese explore_cat_menu_6b711d35:
 translate vietnamese explore_cat_menu_2c6befa4:
 
     # me "Ok [cat] it is, let's go!"
-    me "Ok [cat] chỉ có thể là nó, đi thôi!"
+    me "Ok [cat] đúng không, đi thôi!"
 
 # game/events/explore/cat.rpy:99
 translate vietnamese explore_cat_menu_2c8d358e:
 
     # "Without a second thought you leave the house. Whatever is inside can't be anything good."
-    "Bạn rời khỏi nhà mà không cần suy nghĩ một chút nào. Bất cứ thứ gì bên trong không thể là đồ tốt."
+    "Bạn rời khỏi nhà mà không cần nghĩ ngợi thêm. Bất cứ thứ gì bên trong cũng không thể có cái gì là đồ tốt cả."
 
 # game/events/explore/cat.rpy:105
 translate vietnamese explore_cat_menu_44e9fca2:
@@ -202,13 +202,13 @@ translate vietnamese explore_cat_menu_44e9fca2:
 translate vietnamese explore_return_cat_790b60d5:
 
     # "You quickly walk down the road in a direction you believe the hotel is."
-    "Bạn nhanh chóng đi bộ xuống đường theo hướng mà bạn tin là khách sạn."
+    "Bạn nhanh chóng đi đến con đường theo hướng mà bạn tin là khách sạn."
 
 # game/events/explore/cat.rpy:116
 translate vietnamese explore_return_cat_785bf321:
 
     # "After a while you have returned to the hotel but this time not alone."
-    "Sau một thời gian, bạn đã trở lại khách sạn nhưng lần này không phải một mình."
+    "Sau một lúc, bạn đã trở lại khách sạn nhưng lần này không phải một mình."
 
 # game/events/explore/cat.rpy:123
 translate vietnamese explore_return_cat_c0c991de:
@@ -262,19 +262,19 @@ translate vietnamese explore_return_cat2_4f749ff4:
 translate vietnamese explore_return_cat2_286fd9bd:
 
     # me "I found it in an abandoned house, I have no idea how it survived until now."
-    me "Anh tìm thấy nó trong một ngôi nhà bỏ hoang, anh không biết làm thế nào mà nó tồn tại được cho đến bây giờ."
+    me "Anh tìm thấy nó trong một ngôi nhà bỏ hoang, anh không biết làm thế nào mà nó tồn tại được cho đến bây giờ nữa."
 
 # game/events/explore/cat.rpy:144
 translate vietnamese explore_return_cat2_b61b16aa:
 
     # lexi "I haven't seen any animals for so long. Maybe your useful after all [me]."
-    lexi "Em đã không nhìn thấy bất kỳ con vật nào trong quá lâu. Có lẽ anh vẫn có chút hữu ích đấy [me]."
+    lexi "Em đã không nhìn thấy bất kỳ con vật nào trong một thời gian dài rồi. Có lẽ anh vẫn có chút hữu ích đấy [me]."
 
 # game/events/explore/cat.rpy:145
 translate vietnamese explore_return_cat2_ea7e7b7a:
 
     # me "Always. I can show you what other things I can do if you want."
-    me "Luôn luôn. Anh có thể chỉ cho em những việc khác anh có thể làm nếu em muốn."
+    me "Như mọi khi. Anh có thể cho em thấy những việc khác anh có thể làm nếu em muốn."
 
 # game/events/explore/cat.rpy:148
 translate vietnamese explore_return_cat2_b35456b1:
@@ -286,13 +286,13 @@ translate vietnamese explore_return_cat2_b35456b1:
 translate vietnamese explore_return_cat2_2e058b88:
 
     # lexi "Nothing Grace he's just spouting nonsense."
-    lexi "Không có gì đâu Grace, anh ấy chỉ đang nói những điều vô nghĩa."
+    lexi "Không có gì đâu Grace, anh ấy chỉ đang nói những điều vô nghĩa thôi."
 
 # game/events/explore/cat.rpy:150
 translate vietnamese explore_return_cat2_28717ffa:
 
     # me "Is that a no?"
-    me "Đó có phải là không?"
+    me "Vậy là không hả?"
 
 # game/events/explore/cat.rpy:152
 translate vietnamese explore_return_cat2_6ad8d913:
@@ -304,13 +304,13 @@ translate vietnamese explore_return_cat2_6ad8d913:
 translate vietnamese explore_return_cat2_7f898303:
 
     # grace "I don't get what you're talking about.."
-    grace "Em không hiểu hai người đang nói gì..."
+    grace "Em không hiểu hai người đang nói gì hết..."
 
 # game/events/explore/cat.rpy:156
 translate vietnamese explore_return_cat2_061f4586:
 
     # lexi "We are talking about how sweet this kitty is."
-    lexi "Bọn chị đang nói về việc con mèo này dễ thương như thế nào."
+    lexi "Bọn chị chỉ đang nói về việc con mèo này dễ thương như thế nào thôi."
 
 # game/events/explore/cat.rpy:158
 translate vietnamese explore_return_cat2_7ee12f1a:
@@ -328,7 +328,7 @@ translate vietnamese explore_return_cat2_799a1afc:
 translate vietnamese explore_return_cat2_49272f50:
 
     # lexi "Let's go play with [cat]."
-    lexi "Hãy đi chơi với [cat]."
+    lexi "Hãy đi chơi với [cat] thôi."
 
 # game/events/explore/cat.rpy:162
 translate vietnamese explore_return_cat2_7776fda0:
@@ -340,7 +340,7 @@ translate vietnamese explore_return_cat2_7776fda0:
 translate vietnamese explore_return_cat2_b53d8533:
 
     # th "They just forgot about me.."
-    th "Họ chỉ quên mình thôi..."
+    th "Họ bơ mình luôn rồi..."
 
 translate vietnamese strings:
 

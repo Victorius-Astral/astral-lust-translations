@@ -28,7 +28,7 @@ translate vietnamese d_Deal_with_the_Devil_3_8219b62f:
 translate vietnamese d_Deal_with_the_Devil_3_8c058f61:
 
     # "Its voice sounds like that of a young girl, almost playful and innocent. If you couldn't see it with your own eyes, you would think it was a child."
-    "Giọng nói của nó giống như của một cô gái trẻ, gần như vui tươi và ngây thơ. Nếu bạn không thể nhìn thấy nó tận mắt, bạn sẽ nghĩ rằng nó là một đứa trẻ."
+    "Giọng nói của nó giống như của một cô gái trẻ, kiểu vui tươi và ngây thơ. Nếu bạn không thể nhìn thấy nó tận mắt, bạn sẽ nghĩ rằng nó là một đứa trẻ."
 
 # game/events/dreams/deal_with_the_devil.rpy:32
 translate vietnamese d_Deal_with_the_Devil_3_435f125f:
@@ -40,13 +40,13 @@ translate vietnamese d_Deal_with_the_Devil_3_435f125f:
 translate vietnamese d_Deal_with_the_Devil_3_86e225a7:
 
     # "You feel a flood of information entering your mind."
-    "Bạn cảm thấy tràn ngập thông tin vào tâm trí mình."
+    "Bạn cảm thấy thông tin tràn ngập vào tâm trí mình."
 
 # game/events/dreams/deal_with_the_devil.rpy:34
 translate vietnamese d_Deal_with_the_Devil_3_1d1111c9:
 
     # devil "So now you know my proposal, are you interested?"
-    devil "Vậy bây giờ ngươi biết đề xuất của ta, ngươi có quan tâm không?"
+    devil "Bây giờ ngươi biết đề xuất của ta rồi. Vậy, ngươi có quan tâm không?"
 
 # game/events/dreams/deal_with_the_devil.rpy:53
 translate vietnamese d_Deal_with_the_Devil_3_menu1_036dfd22:
@@ -88,7 +88,7 @@ translate vietnamese d_Deal_with_the_Devil_3_menu1_036dfd22_3:
 translate vietnamese d_Deal_with_the_Devil_3_menu1_3f9ebed0:
 
     # devil "I don't want to involve Myself into these games. But I can help you a little."
-    devil "Ta không muốn bản thân dính líu vào những trò chơi này. Nhưng ta có thể giúp một chút."
+    devil "Ta không muốn bản thân dính líu vào mấy trò chơi này. Nhưng ta có thể giúp một chút."
 
 # game/events/dreams/deal_with_the_devil.rpy:87
 translate vietnamese d_Deal_with_the_Devil_3_menu1_2fc0e6f2:
@@ -118,7 +118,7 @@ translate vietnamese d_Deal_with_the_Devil_3_menu1_dc4cc646:
 translate vietnamese d_Deal_with_the_Devil_3_menu1_d7945924:
 
     # th "What the hell, someone is influencing me and I don't even know?"
-    th "Cái quái gì vậy, ai đó đang tác động đến mình mà thậm chí mình cũng không biết?"
+    th "Cái quái gì vậy, ai đó đang tác động đến mình mà thậm chí mình cũng không biết sao?"
 
 # game/events/dreams/deal_with_the_devil.rpy:92
 translate vietnamese d_Deal_with_the_Devil_3_menu1_65f639db:
@@ -205,7 +205,7 @@ translate vietnamese strings:
     # game/events/dreams/deal_with_the_devil.rpy:95
     old "I won't take your offer"
     new "Ta sẽ không nhận lời đề nghị của ngươi"
-    
+
 # TODO: Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:

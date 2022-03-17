@@ -266,18 +266,10 @@ translate vietnamese strings:
     old "sir"
     new "Anh"
 
-# TODO: Translation updated at 2022-02-19 01:56
-
-translate vietnamese strings:
-
-    # game/places/wanderers/prostitutes/amanda.rpy:18
-    old "Call me.."
-    new "Call me.."
-    
 # TODO: Translation updated at 2022-03-11 07:54
 
 translate vietnamese strings:
 
     # game/places/wanderers/prostitutes/amanda.rpy:24
     old "I want you to call me.."
-    new "I want you to call me.."
+    new "Anh muốn em gọi anh là..."
