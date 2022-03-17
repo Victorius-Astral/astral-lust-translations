@@ -1312,7 +1312,7 @@ translate spanish rhainda_1_end_fb6fca13:
 translate spanish rhainda_1_end_1486da44:
 
     # rachel "Haha, first bring a girl home, then ask her name?"
-    rachel "Haha, ¿primero trae a una chica a casa, luego preguntarle su nombre?"
+    rachel "Haha, ¿primero trae a una chica a casa, luego pregúntale su nombre?"
 
 # game/characters/rhainda/ev_1.rpy:512
 translate spanish rhainda_1_end_3820771a_4:
@@ -1378,7 +1378,7 @@ translate spanish rhainda_1_end_de6fc375_1:
 translate spanish rhainda_1_end_e0286f7d:
 
     # rachel "Go play by yourself in the corner, adults are talking."
-    rachel "Ve a jugar solo en la esquina, los adultos están hablando."
+    rachel "Ve a jugar sola en la esquina, los adultos están hablando."
 
 # game/characters/rhainda/ev_1.rpy:538
 translate spanish rhainda_1_end_55de605d:
@@ -1540,13 +1540,13 @@ translate spanish rhainda_1_end_f2f3da96:
 translate spanish rhainda_1_end_73fe9297:
 
     # me "Magic?"
-    me "Magia?"
+    me "¿Magia?"
 
 # game/characters/rhainda/ev_1.rpy:596
 translate spanish rhainda_1_end_ddaabea3:
 
     # me "They have disappeared for real. Is that a teleportation?"
-    me "Han desaparecido de verdad. ¿Es eso una teletransportación?"
+    me "Han desaparecido de verdad. ¿Es eso una tele-transportación?"
 
 # game/characters/rhainda/ev_1.rpy:597
 translate spanish rhainda_1_end_cf9e2a74:

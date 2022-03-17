@@ -162,4 +162,4 @@ translate spanish strings:
 
     # game/characters/little fox/speak.rpy:77
     old "Little Cum-Stealer"
-    new "Pequeña roba-semen"
+    new "Pequeña Roba-Semen"

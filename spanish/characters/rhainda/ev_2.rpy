@@ -4,37 +4,37 @@
 translate spanish rhainda_2_7e496c80:
 
     # me "How is your new home?"
-    me "¿Cómo está tu nueva casa?"
+    me "¿Cómo está tu nuevo hogar?"
 
 # game/characters/rhainda/ev_2.rpy:14
 translate spanish rhainda_2_24443008:
 
     # rhainda "It's great! I love it here."
-    rhainda "It's great! I love it here."
+    rhainda "¡Grandioso! Me encanta estar aquí."
 
 # game/characters/rhainda/ev_2.rpy:15
 translate spanish rhainda_2_77ca2e8d:
 
     # me "Good to hear that. Did you get along with Rachel and Little Fox?"
-    me "Good to hear that. Did you get along with Rachel and Little Fox?"
+    me "Me alegra escucharlo. ¿Te llevaste bien con Rachel y Little Fox?"
 
 # game/characters/rhainda/ev_2.rpy:19
 translate spanish rhainda_2_78326c78:
 
     # rhainda "I did."
-    rhainda "I did."
+    rhainda "Sip."
 
 # game/characters/rhainda/ev_2.rpy:20
 translate spanish rhainda_2_933b82fd:
 
     # me "Now that you're here, you'll no longer have to look for guys to fuck."
-    me "Now that you're here, you'll no longer have to look for guys to fuck."
+    me "Ahora que estás aquí, ya no tendrás que buscar tipos para follar."
 
 # game/characters/rhainda/ev_2.rpy:24
 translate spanish rhainda_2_d884cc52:
 
     # rhainda "Well, I didn't say I didn't like it.."
-    rhainda "Well, I didn't say I didn't like it.."
+    rhainda "Bueno, no dije que no me gustara..."
 
 # game/characters/rhainda/ev_2.rpy:25
 translate spanish rhainda_2_3820771a:
@@ -46,49 +46,49 @@ translate spanish rhainda_2_3820771a:
 translate spanish rhainda_2_8eda3dd3:
 
     # me "Oh.."
-    me "Oh.."
+    me "Oh..."
 
 # game/characters/rhainda/ev_2.rpy:30
 translate spanish rhainda_2_dc75671f:
 
     # rhainda "Did you think I do it only because of hunger?"
-    rhainda "Did you think I do it only because of hunger?"
+    rhainda "¿Creías que lo hago sólo por hambre?"
 
 # game/characters/rhainda/ev_2.rpy:31
 translate spanish rhainda_2_8341768b:
 
     # me "I assumed it might be the case."
-    me "I assumed it might be the case."
+    me "Asumí que podría ser el caso."
 
 # game/characters/rhainda/ev_2.rpy:35
 translate spanish rhainda_2_e3ca3ddc:
 
     # rhainda "Well, I just like sex. Don't you also like it?"
-    rhainda "Well, I just like sex. Don't you also like it?"
+    rhainda "Bueno, simplemente me gusta el sexo. ¿No te gusta también?"
 
 # game/characters/rhainda/ev_2.rpy:36
 translate spanish rhainda_2_a3a2c72d:
 
     # me "I certainly do. I don't think I'm so open about it, though."
-    me "I certainly do. I don't think I'm so open about it, though."
+    me "Ciertamente. Aunque no creo que sea tan abierto al respecto."
 
 # game/characters/rhainda/ev_2.rpy:37
 translate spanish rhainda_2_6cd68162:
 
     # rhainda "Sex is natural part of life of all beings, why be shy about it?"
-    rhainda "Sex is natural part of life of all beings, why be shy about it?"
+    rhainda "El sexo es una parte natural de la vida de todos los seres vivos, ¿por qué ser tímido al respecto?"
 
 # game/characters/rhainda/ev_2.rpy:38
 translate spanish rhainda_2_8031d356:
 
     # me "That makes sense."
-    me "That makes sense."
+    me "Eso tiene sentido."
 
 # game/characters/rhainda/ev_2.rpy:39
 translate spanish rhainda_2_046904b0:
 
     # me "I wanted to ask you about one thing."
-    me "I wanted to ask you about one thing."
+    me "Quería preguntarte sobre una cosa."
 
 # game/characters/rhainda/ev_2.rpy:43
 translate spanish rhainda_2_d28b380c:
