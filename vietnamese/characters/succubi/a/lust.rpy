@@ -10,7 +10,7 @@ translate vietnamese lust_SuccubusA_85f8e58b:
 translate vietnamese lust_SuccubusA_220c8163:
 
     # th "What is happening??"
-    th "Cái quần què gì vậy trời??"
+    th "Cái gì vậy trời??"
 
 # game/characters/succubi/a/lust.rpy:18
 translate vietnamese lust_SuccubusA_b09c5a6e:

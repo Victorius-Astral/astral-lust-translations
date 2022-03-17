@@ -4,7 +4,7 @@
 translate vietnamese explore_car_a6cc1030:
 
     # "You have chanced upon abandoned car."
-    "Bạn đã bắt gặp chiếc xe bị bỏ hoang."
+    "Bạn bắt gặp chiếc xe bị bỏ hoang."
 
 # game/events/explore/car.rpy:5
 translate vietnamese explore_car_da783615:

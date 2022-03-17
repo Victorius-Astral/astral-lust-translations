@@ -31,7 +31,7 @@ translate vietnamese strings:
 
     # game/variables/classes/NPC.rpy:148
     old "{} outfit unlocked ({})."
-    new "{} Mở khóa trang phục ({})."
+    new "Mở khóa trang phục {} của ({})."
 
     # game/variables/classes/NPC.rpy:211
     old "{}'s affection + {}"

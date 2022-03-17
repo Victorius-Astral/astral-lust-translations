@@ -130,7 +130,7 @@ translate vietnamese catch_SuccubusA_e9c19380:
 translate vietnamese catch_SuccubusA_d16737b1:
 
     # me "Follow me. Right, what's your name?"
-    me "Theo ta. Phải rồi, tên của ngươi là gì?"
+    me "Theo ta. Phải rồi, tên của cô là gì?"
 
 # game/characters/succubi/a/catch.rpy:33
 translate vietnamese catch_SuccubusA_24d26564:

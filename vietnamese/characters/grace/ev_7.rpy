@@ -64,19 +64,19 @@ translate vietnamese grace_7_468a470a:
 translate vietnamese grace_7_33d78498:
 
     # me "How could I refuse?"
-    me "Làm sao anh có thể từ chối chứ?"
+    me "Làm sao anh có thể từ chối được chứ?"
 
 # game/characters/grace/ev_7.rpy:23
 translate vietnamese grace_7_7b86f7e1:
 
     # grace "That means yes?"
-    grace "Vậy nó là có sao?"
+    grace "Nghĩa là có hả?"
 
 # game/characters/grace/ev_7.rpy:24
 translate vietnamese grace_7_d656aeb0:
 
     # me "Lie down on the bed."
-    me "Nằm trên giường đi."
+    me "Nằm lên giường đi."
 
 # game/characters/grace/ev_7.rpy:25
 translate vietnamese grace_7_006dd55f:
@@ -88,7 +88,7 @@ translate vietnamese grace_7_006dd55f:
 translate vietnamese grace_7_7590fe35:
 
     # me "It will feel better this way."
-    me "Nó sẽ cảm thấy tốt hơn theo cách này."
+    me "Nó sẽ cảm thấy tốt hơn nếu làm theo cách này."
 
 # game/characters/grace/ev_7.rpy:28
 translate vietnamese grace_7_f94e480e:
@@ -106,13 +106,13 @@ translate vietnamese grace_7_c067d429:
 translate vietnamese grace_7_7402cda2:
 
     # grace "Mm."
-    grace "Mm."
+    grace "Ừm."
 
 # game/characters/grace/ev_7.rpy:33
 translate vietnamese grace_7_8db97ab6:
 
     # "She does as she's told and lies down waiting for you with anticipation."
-    "Cô ấy làm theo và nằm xuống đợi bạn với sự mong đợi."
+    "Cô ấy làm theo và nằm xuống đợi bạn."
 
 # game/characters/grace/ev_7.rpy:51
 translate vietnamese grace_7_39024941:
@@ -304,7 +304,7 @@ translate vietnamese grace_7_1a_c45f22c1:
 translate vietnamese grace_7_1a_b03adb9a:
 
     # "[grace] is cumming!"
-    "[grace] đang cumming!"
+    "[grace] đang ra!"
 
 # game/characters/grace/ev_7.rpy:120
 translate vietnamese grace_7_1a_359f170e:
@@ -532,7 +532,7 @@ translate vietnamese grace_7_1b_c45f22c1:
 translate vietnamese grace_7_1b_b03adb9a:
 
     # "[grace] is cumming!"
-    "[grace] đang cumming!"
+    "[grace] đang ra!"
 
 # game/characters/grace/ev_7.rpy:208
 translate vietnamese grace_7_1b_359f170e:
@@ -544,7 +544,7 @@ translate vietnamese grace_7_1b_359f170e:
 translate vietnamese grace_7_1b_90667dc5:
 
     # grace "Sooo goood.."
-    grace "Quá tốt..."
+    grace "Quá tuyệt vời..."
 
 # game/characters/grace/ev_7.rpy:211
 translate vietnamese grace_7_1b_88eab5f5:
@@ -556,7 +556,7 @@ translate vietnamese grace_7_1b_88eab5f5:
 translate vietnamese grace_7_1b_7faa8738:
 
     # th "That's good time to take it further."
-    th "Đó là thời điểm tốt để tiến xa hơn."
+    th "Đây là thời điểm tốt để tiến xa hơn."
 
 # game/characters/grace/ev_7.rpy:213
 translate vietnamese grace_7_1b_e63fadbc:
@@ -610,7 +610,7 @@ translate vietnamese grace_7_1b_7900e88d:
 translate vietnamese grace_7_1b_98ed7018:
 
     # me "Wait! I just thought about making you happy that's all. I didn't try tricking you."
-    me "Đợi đã! Anh chỉ nghĩ về việc làm cho em hạnh phúc vậy thôi. Anh không cố lừa em đâu."
+    me "Đợi đã! Anh chỉ có nghĩ đến việc làm cho em hạnh phúc, mỗi vậy thôi. Anh không cố lừa em đâu."
 
 # game/characters/grace/ev_7.rpy:226
 translate vietnamese grace_7_1b_3c71d638:
@@ -646,7 +646,7 @@ translate vietnamese grace_7_1b_2537c95c:
 translate vietnamese grace_7_1b_5c89d297:
 
     # grace "But if you try deceiving me again I won't forgive you, even if you help me with my plants!"
-    grace "Nhưng nếu anh cố lừa dối em một lần nữa, em sẽ không tha thứ cho anh, ngay cả khi anh giúp em trồng cây!"
+    grace "Nhưng nếu anh cố lừa dối em một lần nữa, em sẽ không tha thứ cho anh, ngay cả khi anh giúp em trồng cây đâu!"
 
 # game/characters/grace/ev_7.rpy:235
 translate vietnamese grace_7_1b_f3629d2a:
@@ -664,13 +664,13 @@ translate vietnamese grace_7_1b_890bd5f9:
 translate vietnamese grace_7_1b_ae7dd4eb:
 
     # grace "Mm. I'm sleepy, can you go, I need to take a nap."
-    grace "Mm. Em buồn ngủ, anh có thể đi rồi, em cần phải ngủ một giấc."
+    grace "Mm. Em buồn ngủ quá, anh có thể đi được rồi, em cần phải ngủ một giấc đã."
 
 # game/characters/grace/ev_7.rpy:239
 translate vietnamese grace_7_1b_fca811a5:
 
     # me "Sure."
-    me "Chắc chắn rồi."
+    me "Đợc thôi. Ngủ ngon nha."
 
 # game/characters/grace/ev_7.rpy:240
 translate vietnamese grace_7_1b_239f05d2:
@@ -682,8 +682,8 @@ translate vietnamese strings:
 
     # game/characters/grace/ev_7.rpy:47
     old "Take the top of your dress off"
-    new "Cởi phần trên của váy em"
+    new "Cởi phần trên của váy em ra đi"
 
     # game/characters/grace/ev_7.rpy:47
     old "Let's begin"
-    new "Hãy bắt đầu lào"
+    new "Hãy bắt đầu thôi nào"

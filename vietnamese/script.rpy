@@ -3,7 +3,7 @@
 # game/script.rpy:41
 translate vietnamese start_3cb4f043:
 
-    # rad "Police ensure that everything is under control. The ..."
+    # rad "Police ensure that everything is under control. The..."
     rad "Phía cảnh sát thông báo rằng mọi thứ vẫn trong tầm kiểm soát. Các n..."
 
 # game/script.rpy:42

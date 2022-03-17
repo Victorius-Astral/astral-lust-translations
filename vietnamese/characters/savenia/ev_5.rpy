@@ -4,7 +4,7 @@
 translate vietnamese savenia_5_dcc75f0d:
 
     # me "This is [savenia]'s bike. I found her here."
-    me "Đây là xe của[savenia]. Mình đã tìm thấy cậu ấy ở đây."
+    me "Đây là xe của [savenia]. Mình đã tìm thấy cậu ấy ở đây."
 
 # game/characters/savenia/ev_5.rpy:15
 translate vietnamese savenia_5_a78dd2d0:
@@ -70,13 +70,13 @@ translate vietnamese savenia_5_part2_6a204a5a:
 translate vietnamese savenia_5_part2_dda13245:
 
     # me "I was on a run outside, and found something yours."
-    me "Tớ đang đi bên ngoài, và tìm thấy một thứ thuộc về cầu."
+    me "Tớ đang đi bên ngoài, và tìm thấy một thứ thuộc về cậu."
 
 # game/characters/savenia/ev_5.rpy:50
 translate vietnamese savenia_5_part2_e57a180b:
 
     # savenia "That's fuckin' great!"
-    savenia "Nó thật tuyệt vãi lồn!"
+    savenia "Vậy thì tuyệt quá còn gì nữa!"
 
 # game/characters/savenia/ev_5.rpy:53
 translate vietnamese savenia_5_part2_b85622fa:
@@ -202,7 +202,7 @@ translate vietnamese savenia_5_part2_4799c43c:
 translate vietnamese savenia_5_part2_25cf2d5e:
 
     # savenia "Cut the crap, what do you want?"
-    savenia "Tắt văn đi, cậu muốn gì nào?"
+    savenia "Tắt văn đi, cậu muốn cái gì?"
 
 # game/characters/savenia/ev_5.rpy:99
 translate vietnamese savenia_5_part2_3820771a:

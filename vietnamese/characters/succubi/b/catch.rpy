@@ -34,7 +34,7 @@ translate vietnamese catch_SuccubusB_bad8c747:
 translate vietnamese catch_SuccubusB_c6ed985f:
 
     # succB "Yes, [succB_master]~"
-    succB "Đã rõ thưa [succB_master]~"
+    succB "Vâng thưa [succB_master]~"
 
 # game/characters/succubi/b/catch.rpy:14
 translate vietnamese catch_SuccubusB_2632e92c:
@@ -70,13 +70,13 @@ translate vietnamese catch_SuccubusB_3820771a:
 translate vietnamese catch_SuccubusB_86b6c98d:
 
     # succB "There is one thing, [succB_master]..."
-    succB "Có một thứ nữa đấy [succB_master]..."
+    succB "Còn một thứ nữa đấy [succB_master]..."
 
 # game/characters/succubi/b/catch.rpy:20
 translate vietnamese catch_SuccubusB_377d2a79:
 
     # me "Umm... what is it?"
-    me "Umm... nó là gì?"
+    me "Umm... là gì?"
 
 # game/characters/succubi/b/catch.rpy:22
 translate vietnamese catch_SuccubusB_32cfec7d:
@@ -88,7 +88,7 @@ translate vietnamese catch_SuccubusB_32cfec7d:
 translate vietnamese catch_SuccubusB_35057afe:
 
     # me "Sure..."
-    me "Chắc chắn rồi..."
+    me "Được chứ..."
 
 # game/characters/succubi/b/catch.rpy:25
 translate vietnamese catch_SuccubusB_cc63145f:
@@ -106,7 +106,7 @@ translate vietnamese catch_SuccubusB_d38e90e1:
 translate vietnamese catch_SuccubusB_2b951e67:
 
     # succB "Now I fully belong to you, [succB_master]~"
-    succB "Bây giờ tôi hoàn toàn thuộc về [succB_master] rồi~"
+    succB "Bây giờ em hoàn toàn thuộc về [succB_master] rồi~"
 
 # game/characters/succubi/b/catch.rpy:29
 translate vietnamese catch_SuccubusB_3820771a_1:
@@ -118,7 +118,7 @@ translate vietnamese catch_SuccubusB_3820771a_1:
 translate vietnamese catch_SuccubusB_c8fbdbc7:
 
     # me "You'll be staying imprisoned."
-    me "Ngươi sẽ bị giam cầm."
+    me "Cô sẽ bị giam cầm."
 
 # game/characters/succubi/b/catch.rpy:31
 translate vietnamese catch_SuccubusB_b482db8a:

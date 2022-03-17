@@ -16,8 +16,8 @@ translate vietnamese strings:
 
     # game/screens/gui/notify.rpy:67
     old "Dark - Black"
-    new "Dark - Đen"
+    new "Đen tối - Đen"
 
     # game/screens/gui/notify.rpy:67
     old "Dark - Paper"
-    new "Dark - Giấy"
+    new "Đen tối - Giấy"

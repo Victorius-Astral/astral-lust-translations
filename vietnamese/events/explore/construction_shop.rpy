@@ -4,19 +4,19 @@
 translate vietnamese explore_construction_shop_1ae0b4e9:
 
     # "You notice something amidst the mist."
-    "Bạn nhận thấy điều gì đó giữa làn sương mù."
+    "Bạn nhìn thấy có cái gì đó giữa làn sương."
 
 # game/events/explore/construction_shop.rpy:38
 translate vietnamese explore_construction_shop_ce65f4cb:
 
     # "It seems to be a warehouse!"
-    "Nó dường như là một nhà kho!"
+    "Có vẻ nó là một nhà kho!"
 
 # game/events/explore/construction_shop.rpy:44
 translate vietnamese explore_construction_shop_e8bfea22:
 
     # "As you enter you notice you are not alone!"
-    "Khi bạn bước vào, bạn nhận thấy bạn không đơn độc!"
+    "Ngay khi bước vào, bạn nhận ra rằng mình không đơn độc!"
 
 # game/events/explore/construction_shop.rpy:46
 translate vietnamese explore_construction_shop_54f73515:
@@ -28,7 +28,7 @@ translate vietnamese explore_construction_shop_54f73515:
 translate vietnamese explore_construction_shop_776f2729:
 
     # scavenger "Who are you?!"
-    scavenger "Là ai?!"
+    scavenger "Là ai đấy?!"
 
 # game/events/explore/construction_shop.rpy:51
 translate vietnamese explore_construction_shop_38e53ca2:
@@ -616,7 +616,7 @@ translate vietnamese explore_construction_shop_anal_exit_a3c982e4:
 translate vietnamese explore_construction_shop_anal_exit_77a94726_1:
 
     # scavenger_girl "*Sob*"
-    scavenger_girl "*tiếng khóc nức nở*"
+    scavenger_girl "*Khóc*"
 
 translate vietnamese strings:
 
@@ -630,11 +630,11 @@ translate vietnamese strings:
 
     # game/events/explore/construction_shop.rpy:52
     old "Nothing, I'll be going"
-    new "Không có gì, tôi sẽ đi"
+    new "Không có gì đâu, tôi đi đây"
 
     # game/events/explore/construction_shop.rpy:52
     old "I'm here to look for some things, I'm sure you wouldn't mind?"
-    new "Tôi ở đây để tìm kiếm một ít đồ, tôi chắc rằng bạn sẽ không phiền?"
+    new "Tôi chỉ đến để tìm kiếm một ít đồ thôi, chắc là mọi người sẽ không thấy phiền đâu ha?"
 
     # game/events/explore/construction_shop.rpy:74
     old "{color=#800080}[[Corruption / Madness]{/color} Attack"
@@ -642,7 +642,7 @@ translate vietnamese strings:
 
     # game/events/explore/construction_shop.rpy:116
     old "Order her to blow you"
-    new "Ra lệnh cho cô ấy thổi kèn bạn"
+    new "Ra lệnh cho cô ấy thổi kèn cho bạn"
 
     # game/events/explore/construction_shop.rpy:116
     old "Pay her for anal sex"

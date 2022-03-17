@@ -34,13 +34,13 @@ translate vietnamese savenia_6_3820771a:
 translate vietnamese savenia_6_69a093a9:
 
     # me "Your leg?"
-    me "Chân của cậu?"
+    me "Còn chân của cậu?"
 
 # game/characters/savenia/ev_6.rpy:34
 translate vietnamese savenia_6_5811a31e:
 
     # savenia "It's alright. The time has come for me to look for my club."
-    savenia "Nó ổn. Đến lúc tớ phải đi tìm nhóm của mình rồi."
+    savenia "Nó ổn rồi. Đến lúc tớ phải đi tìm nhóm của mình rồi."
 
 # game/characters/savenia/ev_6.rpy:35
 translate vietnamese savenia_6_3144e4fd:

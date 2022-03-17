@@ -4,7 +4,7 @@
 translate vietnamese savenia_4_14d0c35c:
 
     # savenia "It's getting better. Too slow, though."
-    savenia "Nó đang đỡ hơn rồi. Mặc dù hơi chậm."
+    savenia "Nó đang dần đỡ hơn rồi. Mặc dù hơi chậm."
 
 # game/characters/savenia/ev_4.rpy:17
 translate vietnamese savenia_4_70732500:

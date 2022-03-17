@@ -22,7 +22,7 @@ translate vietnamese lil_fox_4_83e4635d:
 translate vietnamese lil_fox_4_a7337bf5:
 
     # lil_fox "Yup~ There're plenty of places like that, y'know?"
-    lil_fox "Yup ~ Có rất nhiều nơi như vậy, anh biết đấy?"
+    lil_fox "Yup ~ Có rất nhiều nơi như vậy đấy, anh biết không?"
 
 # game/characters/little fox/ev_4.rpy:31
 translate vietnamese lil_fox_4_bf8d3b6b:

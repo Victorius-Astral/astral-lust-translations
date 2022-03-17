@@ -22,7 +22,7 @@ translate vietnamese lil_fox_hj_1_dcfb9189:
 translate vietnamese lil_fox_hj_1_589d028f:
 
     # lil_fox "Ohh! Sure! Let me sit."
-    lil_fox "Ohh! Chắc chắn rồi! Để em ngồi."
+    lil_fox "Ohh! Chắc chắn rồi! Để em ngồi xuống đã."
 
 # game/characters/little fox/hj_1.rpy:105
 translate vietnamese lil_fox_hj_1_slow_ba22c891:
@@ -64,7 +64,7 @@ translate vietnamese lil_fox_hj_1_fast_456735ef:
 translate vietnamese lil_fox_hj_1_fast_049f7860:
 
     # lil_fox "What are you talking about, silly?"
-    lil_fox "Bạn đang nói về cái gì vậy, đồ ngốc?"
+    lil_fox "Anh đang nói về cái gì vậy, đồ ngốc?"
 
 # game/characters/little fox/hj_1.rpy:117
 translate vietnamese lil_fox_hj_1_fast_201d0bb8:
@@ -76,7 +76,7 @@ translate vietnamese lil_fox_hj_1_fast_201d0bb8:
 translate vietnamese lil_fox_hj_1_fast_74d4bb1e:
 
     # lil_fox "Do you want me to go faster?"
-    lil_fox "Anh có muốn em đi nhanh hơn không?"
+    lil_fox "Anh có muốn em làm nhanh hơn không?"
 
 # game/characters/little fox/hj_1.rpy:124
 translate vietnamese lil_fox_hj_1_before_25470c5c:
@@ -106,7 +106,7 @@ translate vietnamese lil_fox_hj_1_before_fe4f1c3b:
 translate vietnamese lil_fox_hj_1_before_9e76fe3c:
 
     # me "Haha, that's a good idea."
-    me "Haha, đó là một ý tưởng hay."
+    me "Haha, đó là một ý tưởng hay đấy."
 
 # game/characters/little fox/hj_1.rpy:136
 translate vietnamese lil_fox_hj_1_cum_3823ada8:
@@ -136,7 +136,7 @@ translate vietnamese lil_fox_hj_1_cum_eb84355e:
 translate vietnamese lil_fox_hj_1_cum_a6b2cd75:
 
     # me "Good girl. You've caught a lot."
-    me "Cô gái ngoan. Em đã bắt được rất nhiều đấy."
+    me "Tốt lắm. Em đã bắt được rất nhiều đấy."
 
 # game/characters/little fox/hj_1.rpy:155
 translate vietnamese lil_fox_hj_1_cum_a3ed18a2:
@@ -160,7 +160,7 @@ translate vietnamese lil_fox_hj_1_cum_994995b7:
 translate vietnamese lil_fox_hj_1_cum_b6f1d338:
 
     # me "You must've been very hungry."
-    me "Em hẳn đã rất đói."
+    me "Em hẳn là rất đói đấy."
 
 # game/characters/little fox/hj_1.rpy:159
 translate vietnamese lil_fox_hj_1_cum_44f1a463:
@@ -172,7 +172,7 @@ translate vietnamese lil_fox_hj_1_cum_44f1a463:
 translate vietnamese lil_fox_hj_1_cum_044dfc44:
 
     # me "Seems I should starve you first before playing in the future. It was amazing!"
-    me "Có vẻ như anh nên bỏ đói em trước trước khi chơi tiếp trong tương lai. Thật là tuyệt!"
+    me "Có vẻ như anh nên bỏ đói em trước trước khi chơi tiếp trong tương lai!"
 
 # game/characters/little fox/hj_1.rpy:164
 translate vietnamese lil_fox_hj_1_cum_3868c8eb:
@@ -190,7 +190,7 @@ translate vietnamese lil_fox_hj_1_cum_4fcf4f48:
 translate vietnamese lil_fox_hj_1_cum_bff0217b:
 
     # me "Haha, easy. I was just kidding with you."
-    me "Haha, bình tõm. Anh chỉ đùa với em thôi."
+    me "Haha, bình tõm đi. Anh chỉ đùa với em thôi."
 
 # game/characters/little fox/hj_1.rpy:167
 translate vietnamese lil_fox_hj_1_cum_1e2662b3:

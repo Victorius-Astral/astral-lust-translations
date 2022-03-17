@@ -4,7 +4,7 @@
 translate vietnamese explore_cat_eab766c3:
 
     # "You came across an intact house, do you wish to enter?"
-    "Bạn đã bắt gặp một ngôi nhà còn nguyên vẹn, bạn có muốn vào không?"
+    "Bạn thấy một ngôi nhà còn nguyên vẹn, bạn có muốn vào không?"
 
 # game/events/explore/cat.rpy:15
 translate vietnamese explore_cat_6d985b32:
@@ -52,7 +52,7 @@ translate vietnamese explore_cat_menu_333a8233_1:
 translate vietnamese explore_cat_menu_9557a51b_1:
 
     # "You look around and find some materials!"
-    "Bạn nhìn xung quanh và tìm một số vật liệu!"
+    "Bạn nhìn xung quanh và tìm một ít đồ!"
 
 # game/events/explore/cat.rpy:54
 translate vietnamese explore_cat_menu_333a8233_2:

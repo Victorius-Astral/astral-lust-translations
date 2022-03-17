@@ -76,7 +76,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Deal {damage} damage to all enemies."
-    new "Gây ra {damage} cho tất cả kẻ địch."
+    new "Gây ra {damage} sát thương cho tất cả kẻ địch."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Gain {amount} {{ef}}{buff}{{/ef}}."

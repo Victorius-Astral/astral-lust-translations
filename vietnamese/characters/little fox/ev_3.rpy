@@ -106,7 +106,7 @@ translate vietnamese lil_fox_3_a0715204:
 translate vietnamese lil_fox_3_5f20611e:
 
     # me "Alright, {i}since you insist{/i} I'll see what I can do."
-    me "Được rồi, {i}nếu em khăng khăng như vậy{/i} anh sẽ xem mình có thể làm gì."
+    me "Được rồi, {i}nếu em cứ khăng khăng như vậy{/i} anh sẽ xem mình có thể làm gì."
 
 # game/characters/little fox/ev_3.rpy:62
 translate vietnamese lil_fox_3_0513dd86:
@@ -1211,4 +1211,4 @@ translate vietnamese lil_fox_3_alice_9a646b65:
 translate vietnamese lil_fox_3_alice_fa07b2f7:
 
     # lil_fox "Are you talking about me, behind my back?"
-    lil_fox "Anh đang nói đằng sau sau lưng em sao?"
+    lil_fox "Anh đang nói xấu đằng sau sau lưng em sao?"

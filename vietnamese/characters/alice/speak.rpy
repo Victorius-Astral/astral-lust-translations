@@ -4,13 +4,13 @@
 translate vietnamese speak_alice_56062ced:
 
     # alice "Hey."
-    alice "Này."
+    alice "Chào."
 
 # game/characters/alice/speak.rpy:14
 translate vietnamese speak_alice_ab868826:
 
     # alice "Hey.."
-    alice "Này..."
+    alice "Chào..."
 
 # game/characters/alice/speak.rpy:19
 translate vietnamese speak_alice_6688f373:
@@ -22,19 +22,19 @@ translate vietnamese speak_alice_6688f373:
 translate vietnamese speak_alice_menu1_2efa8c0a:
 
     # alice "I'm feeling sick. I think I caught something when I was out scavenging."
-    alice "Em đang cảm thấy buồn nôn. Em nghĩ rằng mình đã bị bệnh khi em đang đi ra ngoài kiếm đồ."
+    alice "Em đang thấy buồn nôn quá. Em nghĩ rằng mình đã bị bệnh khi em đang đi ra ngoài kiếm đồ rồi."
 
 # game/characters/alice/speak.rpy:42
 translate vietnamese speak_alice_menu1_a9f53024:
 
     # alice "I feel like I'm dying.."
-    alice "Em cảm thấy như em sắp chết rồi..."
+    alice "Em cảm thấy như là chết rồi..."
 
 # game/characters/alice/speak.rpy:46
 translate vietnamese speak_alice_menuev9_e9077839:
 
     # me "Take this."
-    me "Lấy đi."
+    me "Dùng cái này đi."
 
 # game/characters/alice/speak.rpy:47
 translate vietnamese speak_alice_menuev9_3049d90d:

@@ -142,7 +142,7 @@ translate vietnamese savenia_3_part2_9bbe5648:
 translate vietnamese savenia_3_part2_fb008b40:
 
     # savenia "Fine. Don't nag, what made you so embittered so young?"
-    savenia "Được thôi. Đừng cằn nhằn nữa, điều gì đã khiến cậu trẻ như vậy?"
+    savenia "Rồi rồi. Đừng cằn nhằn nữa, điều gì giúp cậu trẻ được như này vậy?"
 
 # game/characters/savenia/ev_3.rpy:58
 translate vietnamese savenia_3_part2_3820771a:
@@ -232,7 +232,7 @@ translate vietnamese savenia_3_part2_62ce4ff3:
 translate vietnamese savenia_3_part2_f269827f:
 
     # savenia "I got it."
-    savenia "Tơ sbieets rồi."
+    savenia "Tớ biết rồi."
 
 # game/characters/savenia/ev_3.rpy:81
 translate vietnamese savenia_3_part2_25ca34e3:
@@ -268,7 +268,7 @@ translate vietnamese savenia_3_part2_8d4256db:
 translate vietnamese savenia_3_part2_1391485d:
 
     # me "Any luck with your bike?"
-    me "Có tung tích của xe cậu chưa?"
+    me "Có tung tích về của xe cậu chưa?"
 
 # game/characters/savenia/ev_3.rpy:91
 translate vietnamese savenia_3_part2_4564cc66:
