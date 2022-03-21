@@ -2512,39 +2512,39 @@ translate spanish strings:
 
     # game/characters/grace/kiss.rpy:38
     old "I would like it"
-    new "I would like it"
+    new "Me gustaría"
 
     # game/characters/grace/kiss.rpy:38
     old "I'm sure your mommy kissed you goodnight before"
-    new "I'm sure your mommy kissed you goodnight before"
+    new "Estoy seguro de que tu mami te daba besos de buenas noches"
 
     # game/characters/grace/kiss.rpy:391
     old "Take a look"
-    new "Take a look"
+    new "Echa un vistazo"
 
     # game/characters/grace/kiss.rpy:391
     old "Wait for her to finish changing"
-    new "Wait for her to finish changing"
+    new "Espera a que termine de cambiarse"
 
     # game/characters/grace/kiss.rpy:398
     old "Admire her beauty"
-    new "Admire her beauty"
+    new "Admira su belleza"
 
     # game/characters/grace/kiss.rpy:398
     old "Have fun with her {cor}[[Madness]{/cor}"
-    new "Have fun with her {cor}[[Madness]{/cor}"
+    new "Diviértete con ella {cor}[[Locura]{/cor}"
 
     # game/characters/grace/kiss.rpy:398
     old "{mad}Let's play..{/mad} {cor}[[Madness]{/cor}"
-    new "{mad}Let's play..{/mad} {cor}[[Madness]{/cor}"
+    new "{mad}Juguemos...{/mad} {cor}[[Locura]{/cor}"
 
     # game/characters/grace/kiss.rpy:434
     old "Continue to watch"
-    new "Continue to watch"
+    new "Continua viendo"
 
     # game/characters/grace/kiss.rpy:567
     old "Of course, Gracie"
-    new "Of course, Gracie"
+    new "Por supuesto, Gracie"
 
     # game/characters/grace/kiss.rpy:567
     old "I like how I call you now"
@@ -2552,7 +2552,7 @@ translate spanish strings:
 
     # game/characters/grace/kiss.rpy:726
     old "{mad}Fun just began..{/mad} {cor}[[Madness]{/cor}"
-    new "{mad}Fun just began..{/mad} {cor}[[Madness]{/cor}"
+    new "{mad}Fun just began..{/mad} {cor}[[Locura]{/cor}"
 
     # game/characters/grace/kiss.rpy:726
     old "You can finish changing now"
@@ -2560,13 +2560,12 @@ translate spanish strings:
 
     # game/characters/grace/kiss.rpy:875
     old "{mad}Let's play with your little ass..{/mad} {cor}[[Madness]{/cor}"
-    new "{mad}Let's play with your little ass..{/mad} {cor}[[Madness]{/cor}"
+    new "{mad}Let's play with your little ass..{/mad} {cor}[[Locura]{/cor}"
 
     # game/characters/grace/kiss.rpy:875
     old "{mad}Let's have some more fun{/mad} [[{cor}Corruption{/cor}, {subm}Submission{/subm}]"
-    new "{mad}Let's have some more fun{/mad} [[{cor}Corruption{/cor}, {subm}Submission{/subm}]"
+    new "{mad}Let's have some more fun{/mad} [[{cor}Corrupción{/cor}, {subm}Sumisión{/subm}]"
 
     # game/characters/grace/kiss.rpy:875
     old "Now you can finish changing"
-    new "Now you can finish changing"
-
+    new "Ahora puedes terminar de cambiarte"

@@ -16,7 +16,7 @@ translate spanish alice_bj2_1b0f217a:
 translate spanish alice_bj2_eb95e18a:
 
     # me "Yeah.. Just like that."
-    me "Si.. Justo así."
+    me "Si... Justo así."
 
 # game/characters/alice/bj_2.rpy:34
 translate spanish alice_bj2_e9f56da6:

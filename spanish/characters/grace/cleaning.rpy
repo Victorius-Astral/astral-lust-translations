@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/characters/grace/cleaning.rpy:18
 translate spanish grace_cleaning_c36e51e3:
@@ -917,4 +917,3 @@ translate spanish grace_cleaning_lobbyb_0377f1ec:
 
     # me "My pleasure, [grace]."
     me "My pleasure, [grace]."
-

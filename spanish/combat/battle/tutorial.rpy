@@ -340,7 +340,7 @@ translate spanish strings:
 
     # game/combat/battle/tutorial.rpy:103
     old "Try using the Stab card."
-    new "Intenta usar la tarjeta Puñalada."
+    new "Intenta usar la carta Puñalada."
 
     # game/combat/battle/tutorial.rpy:107
     old "Status Effects"

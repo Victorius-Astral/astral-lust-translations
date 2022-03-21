@@ -384,7 +384,7 @@ translate spanish strings:
 
     # game/characters/mina/ev_1.rpy:23
     old "I'm not your concern"
-    new "I'm not your concern"
+    new "No soy de tu incumbencia"
 
     # game/characters/mina/ev_1.rpy:78
     old "[[Sarcasm] I think I love her!"
@@ -404,4 +404,3 @@ translate spanish strings:
     # game/characters/mina/ev_1.rpy:64
     old "She seems to believe I'm courting Lexi. This thought makes her excited."
     new "She seems to believe I'm courting Lexi. This thought makes her excited."
-
