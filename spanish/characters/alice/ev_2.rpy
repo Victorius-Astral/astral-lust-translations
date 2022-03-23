@@ -46,7 +46,7 @@ translate spanish alice_2_74f05a4e:
 translate spanish alice_2_727794f4:
 
     # "You look at each other for a minute, and you start feeling awkward."
-    "Se miran el uno al otro por un minuto y comienzan a sentirse incómodos."
+    "Se miran el uno al otro por un minuto y comienzas a sentirte incómodo."
 
 # game/characters/alice/ev_2.rpy:16
 translate spanish alice_2_95db7dd8:

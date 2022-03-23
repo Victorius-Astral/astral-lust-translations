@@ -202,7 +202,7 @@ translate spanish alice_4_1_9a2d86a0:
 translate spanish alice_4_1_42d922c5:
 
     # th "She actually swallowed it all!"
-    th "Ella de verdad se lo tragó todo!"
+    th "¡Ella de verdad se lo tragó todo!"
 
 # game/characters/alice/ev_4.rpy:72
 translate spanish alice_4_1_c805dcde:
@@ -232,7 +232,7 @@ translate spanish alice_4_1_b14c49f7:
 translate spanish alice_4_1_409ae55d:
 
     # th "She can play with me like that more.. like everyday."
-    th "Ella puede jugar conmigo así más... como, todos los días."
+    th "Ella puede jugar conmigo así más seguido... como, todos los días."
 
 # game/characters/alice/ev_4.rpy:85
 translate spanish alice_4_1_b94a6a0f:
@@ -256,13 +256,13 @@ translate spanish alice_4_1_b14c49f7_1:
 translate spanish alice_4_1_c0b9b273:
 
     # th "She can play with me like that more.. like every day."
-    th "Ella puede jugar conmigo así más... como, todos los días."
+    th "Ella puede jugar conmigo así más seguido... como, todos los días."
 
 translate spanish strings:
 
     # game/characters/alice/ev_4.rpy:21
     old "Say hi"
-    new "Dí hola"
+    new "Di hola"
 
     # game/characters/alice/ev_4.rpy:21
     old "Pretend to sleep"

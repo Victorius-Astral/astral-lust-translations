@@ -16,7 +16,7 @@ translate spanish alice_7_77040e8e:
 translate spanish alice_7_459f9370:
 
     # alice "Except the thing with Grace."
-    alice "Además lo de Grace."
+    alice "Además de lo de Grace."
 
 # game/characters/alice/ev_7.rpy:27
 translate spanish alice_7_37214622:
@@ -112,7 +112,7 @@ translate spanish alice_7_1_024fd80c:
 translate spanish alice_7_1_f5489ffd:
 
     # alice "Even though it's not very fun at least I'll get something out of it."
-    alice "Aunque no es muy divertido, al menos sacaré algo de eso."
+    alice "Aunque no es muy divertido, al menos sacaré algo de esto."
 
 # game/characters/alice/ev_7.rpy:74
 translate spanish alice_7_1_451dd1cd:
@@ -190,7 +190,7 @@ translate spanish al_7_me_1d288b67:
 translate spanish al_7_me_35b037b1:
 
     # alice "I am. A very cute one at that."
-    alice "Yo soy. Una muy linda, además."
+    alice "Lo soy. Una muy linda, además."
 
 # game/characters/alice/ev_7.rpy:100
 translate spanish al_7_me_227724ba:
@@ -280,7 +280,7 @@ translate spanish al_7_questions_40d9d377:
 translate spanish al_7_questions_8da92649:
 
     # alice "What is always coming, but never arrives?"
-    alice "¿Qué siempre viene, pero nunca llega?"
+    alice "¿Qué es lo que siempre viene, pero nunca llega?"
 
 # game/characters/alice/ev_7.rpy:220
 translate spanish al_7_questions_14137979:
@@ -322,7 +322,7 @@ translate spanish al_7_questions_a80bbf8f:
 translate spanish al_7_questions_2a9acec4:
 
     # alice "Solve: 1 + 1, it isn't three."
-    alice "Resuelve: 1 + 1, no es trés."
+    alice "Resuelve: 1 + 1, no es tres."
 
 # game/characters/alice/ev_7.rpy:277
 translate spanish al_7_questions_a1e9073c:
@@ -532,7 +532,7 @@ translate spanish al_7_questions_reward_98de0dd2:
 translate spanish al_7_questions_reward_6a58dab5:
 
     # alice "No, I thought of something else. Lie down."
-    alice "No, pensé en otra cosa. Recuéstate."
+    alice "No, pensé en algo diferente. Recuéstate."
 
 # game/characters/alice/ev_7.rpy:402
 translate spanish al_7_questions_reward_dcaec663_1:
@@ -556,7 +556,7 @@ translate spanish al_7_questions_reward_98de0dd2_1:
 translate spanish al_7_questions_reward_6a58dab5_1:
 
     # alice "No, I thought of something else. Lie down."
-    alice "No, pensé en otra cosa. Recuéstate."
+    alice "No, pensé en algo diferente. Recuéstate."
 
 # game/characters/alice/ev_7.rpy:416
 translate spanish al_7_questions_ask_c13e1162:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-16 09:41
+﻿# : Translation updated at 2022-02-16 09:41
 
 # game/characters/grace/nightmare.rpy:3
 translate spanish grace_nightmare_e2bf27fa:
@@ -1091,4 +1091,3 @@ translate spanish strings:
     # game/characters/grace/nightmare.rpy:422
     old "It's safe, I can finally sleep"
     new "It's safe, I can finally sleep"
-

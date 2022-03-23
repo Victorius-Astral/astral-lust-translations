@@ -4,7 +4,7 @@
 translate spanish alice_bj2_7ff0ca37:
 
     # "[alice] starts to blow you passionately."
-    "[alice] Empeiza a chuparte apasionadamente."
+    "[alice] Empieza a chuparte apasionadamente."
 
 # game/characters/alice/bj_2.rpy:32
 translate spanish alice_bj2_1b0f217a:

@@ -154,4 +154,4 @@ translate spanish alice_anal_1_b109c02e:
 translate spanish alice_anal_1_446fd9a0:
 
     # me "Sleep tight my beautiful girl."
-    me "Duerme bien mi chica hermosa."
+    me "Duerme bien mi hermosa chica."

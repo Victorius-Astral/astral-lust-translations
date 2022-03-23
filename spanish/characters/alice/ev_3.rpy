@@ -58,7 +58,7 @@ translate spanish alice_3_e4ba1798:
 translate spanish alice_3_7a5d2770:
 
     # alice "Yes, I'm leading the way, soooo?"
-    alice "Si, y voy a mostrarte el camino ¿Entonceeees?"
+    alice "Si, y voy a mostrarte el camino. ¿Entonceeees?"
 
 # game/characters/alice/ev_3.rpy:16
 translate spanish alice_3_f660d172:
@@ -442,7 +442,7 @@ translate spanish alice_3_1_1913de47:
 translate spanish alice_3_1_9a479cb1:
 
     # me "What am I doing, where are we going? What's the point of life?"
-    me "¿Qué estoy haciendo, adónde vamos? ¿Cuál es el punto de la vida?"
+    me "¿Qué estoy haciendo, a dónde vamos? ¿Cuál es el punto de la vida?"
 
 # game/characters/alice/ev_3.rpy:132
 translate spanish alice_3_1_73a003ba:
@@ -544,7 +544,7 @@ translate spanish alice_3_1_bc2f54ce:
 translate spanish alice_3_1_3b6a23e4:
 
     # alice "I will!"
-    alice "¡Lo haré!"
+    alice "¡Eso haré!"
 
 # game/characters/alice/ev_3.rpy:160
 translate spanish alice_3_1_f9ae5bf9:
@@ -580,7 +580,7 @@ translate spanish alice_3_1_867cf5c5:
 translate spanish alice_3_1_bfda5a71:
 
     # th "I surely will."
-    th "Seguro lo haré."
+    th "Si que lo haré."
 
 translate spanish strings:
 
