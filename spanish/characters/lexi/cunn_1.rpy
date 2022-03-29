@@ -286,7 +286,7 @@ translate spanish lexi_cunn_1_story_459d049d:
 translate spanish lexi_cunn_1_story_3ba503fc:
 
     # lexi "Now, where did I throw my clothes?"
-    lexi "Ahora, ¿dónde tiré mi ropa?"
+    lexi "Ahora, ¿adónde tiré mi ropa?"
 
 translate spanish strings:
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/characters/savenia/ev_4.rpy:16
 translate spanish savenia_4_14d0c35c:
@@ -720,4 +720,3 @@ translate spanish savenia_4_menu1_f3328ea7:
 
     # savenia "And, how is an exercise for arms and chest gonna help with my leg?"
     savenia "And, how is an exercise for arms and chest gonna help with my leg?"
-

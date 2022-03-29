@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-17 12:56
+﻿# : Translation updated at 2021-05-17 12:56
 
 # game/characters/lola/pilediver.rpy:21
 translate spanish lola_pilediver_92a33140:

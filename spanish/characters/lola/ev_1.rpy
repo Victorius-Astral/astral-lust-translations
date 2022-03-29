@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/characters/lola/ev_1.rpy:9
 translate spanish lola_1_6d1765ae:
