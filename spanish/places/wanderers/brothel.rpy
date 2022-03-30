@@ -259,3 +259,11 @@ translate spanish strings:
     # game/places/wanderers/brothel.rpy:56
     old "Can I take a look at your girls before paying?"
     new "¿Puedo echar un vistazo a tus chicas antes de pagar?"
+# TODO: Translation updated at 2022-03-30 13:03
+
+translate spanish strings:
+
+    # game/places/wanderers/brothel.rpy:23
+    old "Madam Hof"
+    new "Madam Hof"
+

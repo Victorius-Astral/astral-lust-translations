@@ -280,3 +280,27 @@ translate spanish strings:
     # game/screens/utility/what_new.rpy:212
     old "Now when asking [alice] to make outfit, you'll be able to use a new outfits menu!"
     new "¡Ahora, cuando le pidas a [alice] que haga un atuendo, podrás usar un nuevo menú de atuendos!"
+# TODO: Translation updated at 2022-03-30 13:03
+
+translate spanish strings:
+
+    # game/screens/utility/what_new.rpy:209
+    old "{b}Gracie Nightmare{/b}"
+    new "{b}Gracie Nightmare{/b}"
+
+    # game/screens/utility/what_new.rpy:210
+    old "Oh no! Our baby girl had a nightmare! We need to protect her in the warmth of our arms :) Be a good person and let Gracie stay. Can you find the hidden secret in this event? For a tip, this event has a few variations, seeing it once is not enough to see everything and find the secret. It's best if you don't save for an hour before finding the secret :)"
+    new "Oh no! Our baby girl had a nightmare! We need to protect her in the warmth of our arms :) Be a good person and let Gracie stay. Can you find the hidden secret in this event? For a tip, this event has a few variations, seeing it once is not enough to see everything and find the secret. It's best if you don't save for an hour before finding the secret :)"
+
+    # game/screens/utility/what_new.rpy:221
+    old "{b}GUI 2.0{/b}"
+    new "{b}GUI 2.0{/b}"
+
+    # game/screens/utility/what_new.rpy:222
+    old "The overhaul of the Astral Lust interface has begun! Many most important menus were already adopted, or at lest partially adopted. The inventory and character menu are now a single menu, fully adopted to the new style. Items now have tooltips, and icons. The whole items system was overhauled, right clicking an item will allow you to select how many to move with a slider, you can also sort your inventory, and move all items at once with just one click! Notifications are now completely different, you can toggle two different styles in the settings. Main interface theme font - {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} can also be toggled in the settings. Expandable menu icons were changed, and all menus opened with them were at least partially adopted to the new theme. Trading scene was fully adopted, with new options like showing reputation increase from the deal, some new mechanics were added to the traders too - like good profit relations bonus."
+    new "The overhaul of the Astral Lust interface has begun! Many most important menus were already adopted, or at lest partially adopted. The inventory and character menu are now a single menu, fully adopted to the new style. Items now have tooltips, and icons. The whole items system was overhauled, right clicking an item will allow you to select how many to move with a slider, you can also sort your inventory, and move all items at once with just one click! Notifications are now completely different, you can toggle two different styles in the settings. Main interface theme font - {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} can also be toggled in the settings. Expandable menu icons were changed, and all menus opened with them were at least partially adopted to the new theme. Trading scene was fully adopted, with new options like showing reputation increase from the deal, some new mechanics were added to the traders too - like good profit relations bonus."
+
+    # game/screens/utility/what_new.rpy:234
+    old "There are countless other changes - ALL animations can be toggled ON/OFF in the settings, dozens of issues were fixed, no animation support was added to all animations that didn't have it, some animations were deleted like weird looking cumming animations. End game credits were added. Hollow Market offers a lot more stock, and restock weekly. Other traders were tweaked too."
+    new "There are countless other changes - ALL animations can be toggled ON/OFF in the settings, dozens of issues were fixed, no animation support was added to all animations that didn't have it, some animations were deleted like weird looking cumming animations. End game credits were added. Hollow Market offers a lot more stock, and restock weekly. Other traders were tweaked too."
+

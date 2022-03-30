@@ -1092,3 +1092,11 @@ translate spanish strings:
     old "It's safe, I can finally sleep"
     new "It's safe, I can finally sleep"
 
+# TODO: Translation updated at 2022-03-30 13:03
+
+# game/characters/grace/nightmare.rpy:174
+translate spanish grace_nightmare_part3_6d16ba19:
+
+    # grace "Mo-!"
+    grace "Mo-!"
+

@@ -286,7 +286,7 @@ translate vietnamese lexi_9_part2_a5fd1178:
 translate vietnamese lexi_9_part2_df5ac3e7:
 
     # mina "My [lex_min_s] is going to dump you at this rate, get your shit together, man!"
-    mina "[Lex_min_s] của em sẽ đá anh anh với tình trạng này đấy, get your shit together, man!"
+    mina "[lex_min_s] của em sẽ đá anh anh với tình trạng này đấy, get your shit together, man!"
 
 # game/characters/lexi/ev_9.rpy:118
 translate vietnamese lexi_9_part2_28444364:

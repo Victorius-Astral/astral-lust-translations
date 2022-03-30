@@ -41,3 +41,15 @@ translate spanish strings:
     # game/variables/classes/NPC.rpy:220
     old "{}'s affection - {}"
     new "Afecto de {} - {}"
+# TODO: Translation updated at 2022-03-30 13:03
+
+translate spanish strings:
+
+    # game/variables/classes/NPC.rpy:338
+    old "{} is angry!"
+    new "{} is angry!"
+
+    # game/variables/classes/NPC.rpy:344
+    old "{} calmed down and is no longer angry at you!"
+    new "{} calmed down and is no longer angry at you!"
+
