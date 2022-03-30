@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/succubi/b/catch.rpy:3
 translate spanish catch_SuccubusB_aa99e134:

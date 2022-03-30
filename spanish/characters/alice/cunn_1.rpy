@@ -22,13 +22,13 @@ translate spanish alice_cunn1_9403bafe:
 translate spanish alice_cunn1_c03d28ea:
 
     # "As your tongue dances on her pussy, you can feel how terrifyingly tight she actually is."
-    "Mientras tu lengua baila sobre su coño, puedes sentir lo terriblemente apretada que es."
+    "Mientras tu lengua baila en su coño, puedes sentir lo terriblemente apretada que es."
 
 # game/characters/alice/cunn_1.rpy:35
 translate spanish alice_cunn1_5e89a703:
 
     # alice "Mmm.. just like that."
-    alice "Mmm.. justo así."
+    alice "Mmm... justo así."
 
 # game/characters/alice/cunn_1.rpy:36
 translate spanish alice_cunn1_6de696ef:
@@ -76,7 +76,7 @@ translate spanish alice_cunn1_f795fb20:
 translate spanish alice_cunn1_8fda8a83:
 
     # alice "I am! Please make your little girl cum daddy!"
-    alice "¡Lo soy! ¡Por favor haz que tu chica se corra papi!"
+    alice "¡Yo! ¡Por favor haz que tu pequeña se corra, papi!"
 
 # game/characters/alice/cunn_1.rpy:63
 translate spanish alice_cunn1_50b23672:
@@ -106,7 +106,7 @@ translate spanish alice_cunn1_f73075dd_1:
 translate spanish alice_cunn1_c32f5cc2:
 
     # alice "So gooooood hehe~"
-    alice "Tan buenooooo hehe~"
+    alice "Tan bueeeeeno hehe~"
 
 # game/characters/alice/cunn_1.rpy:83
 translate spanish alice_cunn1_8e0312e6:

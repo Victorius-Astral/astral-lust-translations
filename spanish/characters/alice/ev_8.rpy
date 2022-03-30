@@ -166,7 +166,7 @@ translate spanish alice_8_8fbba2f2:
 translate spanish alice_8_5b7e75a2:
 
     # me "Why, because you put it in your pussy?"
-    me "¿Por qué, porque te lo pusiste en coño?"
+    me "¿Por qué, porque te lo pusiste en el coño?"
 
 # game/characters/alice/ev_8.rpy:63
 translate spanish alice_8_0b1c0703:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/characters/little fox/hj_1.rpy:34
 translate spanish lil_fox_hj_1_bacdf3f8:
