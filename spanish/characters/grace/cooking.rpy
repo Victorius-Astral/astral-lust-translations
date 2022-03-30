@@ -268,7 +268,7 @@ translate spanish grace_cooking_topic2_3dac90e0:
 translate spanish grace_cooking_topic2_d2e4446c:
 
     # me "My mom was baking a cake, and I wanted to help her. She was feeling under the weather, and I didn't want her to push herself."
-    me "Mi mamá estaba horneando un pastel y yo quería ayudarla. Se sentía mal y no quería que se esforzara".
+    me "Mi mamá estaba horneando un pastel y yo quería ayudarla. Se sentía mal y no quería que se esforzara."
 
 # game/characters/grace/cooking.rpy:107
 translate spanish grace_cooking_topic2_9f45b2ee:
