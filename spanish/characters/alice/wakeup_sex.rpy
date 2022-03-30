@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/alice/wakeup_sex.rpy:8
 translate spanish alice_wakeup_sex_7459a238:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/grace/ev_4.rpy:3
 translate spanish grace_4_b09367ee:
@@ -16,7 +16,7 @@ translate spanish grace_4_4cb18f90:
 translate spanish grace_4_995556ad:
 
     # "{color=#32CD32}[[Agility check passed]{/color} You managed to sneak behind her."
-    "{color=#32CD32}[[Check de agilidad superada]{/color} Te las arreglaste para escabullirte detrás de ella."
+    "{color=#32CD32}[[Agilidad suficiente]{/color} Te las arreglaste para escabullirte detrás de ella."
 
 # game/characters/grace/ev_4.rpy:13
 translate spanish grace_4_023fb508:
@@ -363,10 +363,10 @@ translate spanish strings:
     # game/characters/grace/ev_4.rpy:110
     old "I'm fine"
     new "Estoy bien"
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 
     # game/characters/grace/ev_4.rpy:84
     old "She never met her father. Her mother kept saying he has never visited Grace because he doesn't love her."
-    new "She never met her father. Her mother kept saying he has never visited Grace because he doesn't love her."
+    new "Nunca conoció a su padre. Su madre seguía diciendo que nunca ha visitado a Grace porque no la ama."

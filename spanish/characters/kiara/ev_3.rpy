@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/kiara/ev_3.rpy:9
 translate spanish kiara_3_fa8d4b6e:
@@ -330,7 +330,7 @@ translate spanish kiara_3_8dc22e2d:
     # me "Alright then."
     me "Bien entonces."
 
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/characters/kiara/ev_3.rpy:36
 translate spanish kiara_3_f0c31c52:
@@ -356,7 +356,7 @@ translate spanish kiara_3_a0e98964:
     # kiara "Yes. There are some limitations, though."
     kiara "Sí. Sin embargo, hay algunas limitaciones."
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

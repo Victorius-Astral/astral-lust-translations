@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/kiara/speak.rpy:9
 translate spanish speak_kiara_fce7de6a:
@@ -442,7 +442,7 @@ translate spanish strings:
     old "How does this teleportation work?"
     new "¿Cómo funciona esta teletransportación?"
 
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 
@@ -462,13 +462,13 @@ translate spanish strings:
     old "Do you have anything for me to do? {loot}(Materials+){/loot}"
     new "¿Tienes algo para que yo haga? {loot}(Materiales+){/loot}"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 
     # game/characters/kiara/speak.rpy:49
     old "She was born human, yet she claims to no longer be mortal."
-    new "Nació humana, pero afirma que ya no es mortal.."
+    new "Nació humana, pero afirma que ya no es mortal."
 
     # game/characters/kiara/speak.rpy:107
     old "Aharon, who is close to being a God, would crumble under a simple glance from \"Them\"."
@@ -485,27 +485,26 @@ translate spanish strings:
     # game/characters/kiara/speak.rpy:173
     old "She seems to always know what I'm thinking about."
     new "Ella parece siempre saber lo que estoy pensando."
-# TODO: Translation updated at 2022-02-16 09:41
+# : Translation updated at 2022-02-16 09:41
 
 translate spanish strings:
 
     # game/characters/kiara/speak.rpy:15
     old "Can you tell me more about extraordinary world? {gold}(Story){/gold}"
-    new "Can you tell me more about extraordinary world? {gold}(Story){/gold}"
+    new "¿Puedes hablarme del mundo extraordinario? {gold}(Historia){/gold}"
 
     # game/characters/kiara/speak.rpy:35
     old "Footjob, and maybe something more"
-    new "Footjob, and maybe something more"
+    new "Con los pies, y quizás mas"
 
     # game/characters/kiara/speak.rpy:44
     old "Pick outfit."
-    new "Pick outfit."
+    new "Elige atuendo."
 
-# TODO: Translation updated at 2022-02-26 14:57
+# : Translation updated at 2022-02-26 14:57
 
 translate spanish strings:
 
     # game/characters/kiara/speak.rpy:186
     old "Pick an outfit."
-    new "Pick an outfit."
-
+    new "Elige un atuendo."

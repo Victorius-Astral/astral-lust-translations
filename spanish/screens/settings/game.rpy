@@ -214,11 +214,10 @@ translate spanish strings:
     # game/screens/settings/game.rpy:95
     old "Change {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} font to {font=fonts/Brygada1918-Regular.ttf}Brigada 1918{/font} font. It can help on small screens if Fredericka becomes unreadable. Some languages force Brigada either way."
     new "Cambiar fuente {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} a fuente {font=fonts/Brygada1918-Regular.ttf}Brigada 1918{/font}. Puede ayudar en pantallas pequeñas si Fredericka se vuelve ilegible. Algunos idiomas fuerzan Brigada de cualquier manera."
-# TODO: Translation updated at 2022-03-30 13:03
+# : Translation updated at 2022-03-30 13:03
 
 translate spanish strings:
 
     # game/screens/settings/game.rpy:96
     old "*Restart required for full change"
-    new "*Restart required for full change"
-
+    new "*Se requiere reiniciar para el cambio completo"

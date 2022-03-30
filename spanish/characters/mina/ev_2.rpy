@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/mina/ev_2.rpy:8
 translate spanish mina_2_12cdbd09:
@@ -257,7 +257,7 @@ translate spanish mina_2_f551ceb0:
 
     # mina "Thanks! She'll be sooo happy!"
     mina "¡Gracias! ¡Lexi va a estar taaan feliz!"
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

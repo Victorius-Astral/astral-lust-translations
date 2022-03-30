@@ -162,7 +162,7 @@ translate spanish lola_pilediver_cum_96a9dcb6:
     # me "Again.. What a girl she is."
     me "Otra vez... Qué muchacha que es."
 
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/characters/lola/pilediver.rpy:43
 translate spanish lola_pilediver_slow_a9af1e5e:

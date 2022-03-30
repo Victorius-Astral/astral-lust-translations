@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/grace/ev_8.rpy:6
 translate spanish grace_8_f847edc4:
@@ -624,7 +624,7 @@ translate spanish strings:
     old "Stay silent"
     new "Quédate en silencio"
 
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/characters/grace/ev_8.rpy:7
 translate spanish grace_8_6127e022:
@@ -692,7 +692,7 @@ translate spanish grace_8_part3_8135c3bd:
     # alice "{size=-15}Hurt her, and I'll cut your balls off. My. Boy.{/size}"
     alice "{size=-15}Hazle daño, y te cortaré las pelotas. Mi. Muchacho.{/size}"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

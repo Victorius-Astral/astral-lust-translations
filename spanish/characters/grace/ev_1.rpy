@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/grace/ev_1.rpy:3
 translate spanish grace_1_dcc7a3b2:
@@ -263,11 +263,10 @@ translate spanish strings:
     # game/characters/grace/ev_1.rpy:12
     old "It's too risky"
     new "Es demasiado arriesgado"
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 
     # game/characters/grace/ev_1.rpy:71
     old "This silly girl seems to despise men to the bone. I wonder why?"
-    new "This silly girl seems to despise men to the bone. I wonder why?"
-
+    new "Esta niña tonta parece despreciar a los hombres hasta los huesos. ¿Me pregunto por que?"

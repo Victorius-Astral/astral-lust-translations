@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/events/explore/damsel_in_distress.rpy:55
 translate spanish damsel_in_distress_ca775f6a:
@@ -2170,7 +2170,7 @@ translate spanish damsel_in_distress_brunette_d01e1146:
 translate spanish damsel_in_distress_brunette_57c6427a:
 
     # me "I must say, that girl was hot.. A pity she didn't want to do more."
-    me "Debo decir que esa chica estaba buena... Lástima que no quisiera hacer más."
+    me "Debo decir que esa chica estaba bien... Lástima que no quisiera hacer más."
 
 # game/events/explore/damsel_in_distress.rpy:782
 translate spanish damsel_in_distress_brunette_6010fbd4:

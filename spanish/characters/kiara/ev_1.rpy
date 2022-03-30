@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/kiara/ev_1.rpy:6
 translate spanish kiara_1_40f451d7:
@@ -412,7 +412,7 @@ translate spanish strings:
     old "No, I get it"
     new "No, lo entiendo"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

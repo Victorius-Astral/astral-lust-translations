@@ -1559,15 +1559,14 @@ translate spanish strings:
     # game/characters/rhainda/ev_1.rpy:38
     old "Fox girl"
     new "Chica zorra"
-# TODO: Translation updated at 2022-03-30 13:03
+# : Translation updated at 2022-03-30 13:03
 
 translate spanish strings:
 
     # game/characters/rhainda/ev_1.rpy:88
     old "You won"
-    new "You won"
+    new "Ganaste"
 
     # game/characters/rhainda/ev_1.rpy:88
     old "Rhainda won"
-    new "Rhainda won"
-
+    new "Rhainda ganó"

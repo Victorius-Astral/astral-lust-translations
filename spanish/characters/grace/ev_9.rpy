@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/grace/ev_9.rpy:11
 translate spanish grace_9_50e318ba:
@@ -732,7 +732,7 @@ translate spanish grace_9_499b26f3:
     # th "Time to go.."
     th "Hora de irse..."
 
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/characters/grace/ev_9.rpy:10
 translate spanish grace_9_7e643fc5:

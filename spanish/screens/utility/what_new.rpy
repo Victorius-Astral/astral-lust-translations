@@ -280,17 +280,17 @@ translate spanish strings:
     # game/screens/utility/what_new.rpy:212
     old "Now when asking [alice] to make outfit, you'll be able to use a new outfits menu!"
     new "¡Ahora, cuando le pidas a [alice] que haga un atuendo, podrás usar un nuevo menú de atuendos!"
-# TODO: Translation updated at 2022-03-30 13:03
+# : Translation updated at 2022-03-30 13:03
 
 translate spanish strings:
 
     # game/screens/utility/what_new.rpy:209
     old "{b}Gracie Nightmare{/b}"
-    new "{b}Gracie Nightmare{/b}"
+    new "{b}Gracie Pesadilla{/b}"
 
     # game/screens/utility/what_new.rpy:210
     old "Oh no! Our baby girl had a nightmare! We need to protect her in the warmth of our arms :) Be a good person and let Gracie stay. Can you find the hidden secret in this event? For a tip, this event has a few variations, seeing it once is not enough to see everything and find the secret. It's best if you don't save for an hour before finding the secret :)"
-    new "Oh no! Our baby girl had a nightmare! We need to protect her in the warmth of our arms :) Be a good person and let Gracie stay. Can you find the hidden secret in this event? For a tip, this event has a few variations, seeing it once is not enough to see everything and find the secret. It's best if you don't save for an hour before finding the secret :)"
+    new "¡Oh no! ¡Nuestra bebé tuvo una pesadilla! Necesitamos protegerla en el calor de nuestros brazos :) Sé una buena persona y deja que Gracie se quede. ¿Puedes encontrar el secreto oculto en este evento? Como consejo, este evento tiene algunas variaciones, verlo una vez no es suficiente para ver todo y encontrar el secreto. Es mejor si no guardas durante una hora antes de encontrar el secreto :)"
 
     # game/screens/utility/what_new.rpy:221
     old "{b}GUI 2.0{/b}"
@@ -298,21 +298,20 @@ translate spanish strings:
 
     # game/screens/utility/what_new.rpy:222
     old "The overhaul of the Astral Lust interface has begun! Many most important menus were already adopted, or at lest partially adopted. The inventory and character menu are now a single menu, fully adopted to the new style. Items now have tooltips, and icons. The whole items system was overhauled, right clicking an item will allow you to select how many to move with a slider, you can also sort your inventory, and move all items at once with just one click! Notifications are now completely different, you can toggle two different styles in the settings. Main interface theme font - {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} can also be toggled in the settings. Expandable menu icons were changed, and all menus opened with them were at least partially adopted to the new theme. Trading scene was fully adopted, with new options like showing reputation increase from the deal, some new mechanics were added to the traders too - like good profit relations bonus."
-    new "The overhaul of the Astral Lust interface has begun! Many most important menus were already adopted, or at lest partially adopted. The inventory and character menu are now a single menu, fully adopted to the new style. Items now have tooltips, and icons. The whole items system was overhauled, right clicking an item will allow you to select how many to move with a slider, you can also sort your inventory, and move all items at once with just one click! Notifications are now completely different, you can toggle two different styles in the settings. Main interface theme font - {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} can also be toggled in the settings. Expandable menu icons were changed, and all menus opened with them were at least partially adopted to the new theme. Trading scene was fully adopted, with new options like showing reputation increase from the deal, some new mechanics were added to the traders too - like good profit relations bonus."
+    new "¡La revisión de la interfaz de Astral Lust ha comenzado! Muchos de los menús más importantes ya se adoptaron, o al menos parcialmente. El inventario y el menú de personajes ahora son un solo menú, totalmente adaptado al nuevo estilo. Los objetos ahora tienen información e iconos. Se revisó todo el sistema de objetos. Al hacer clic con el botón derecho en un uno, podrás seleccionar cuántos mover con un control deslizante. También puedes ordenar el inventario, y mover todos los objetos a la vez con solo un clic. Las notificaciones ahora son completamente diferentes, y se pueden alternar dos estilos diferentes en la configuración. Fuente del tema de la interfaz principal: {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} también se puede alternar en la configuración. Se cambiaron los íconos de menú expandibles y todos los menús abiertos con ellos se adoptaron, al menos parcialmente, al nuevo tema. El comercio se adoptó por completo, con nuevas opciones como mostrar el aumento de reputación del acuerdo, y se agregaron algunas mecánicas nuevas a los comerciantes, como la bonificación de buenas relaciones de ganancias."
 
     # game/screens/utility/what_new.rpy:234
     old "There are countless other changes - ALL animations can be toggled ON/OFF in the settings, dozens of issues were fixed, no animation support was added to all animations that didn't have it, some animations were deleted like weird looking cumming animations. End game credits were added. Hollow Market offers a lot more stock, and restock weekly. Other traders were tweaked too."
-    new "There are countless other changes - ALL animations can be toggled ON/OFF in the settings, dozens of issues were fixed, no animation support was added to all animations that didn't have it, some animations were deleted like weird looking cumming animations. End game credits were added. Hollow Market offers a lot more stock, and restock weekly. Other traders were tweaked too."
+    new "Hay innumerables otros cambios: TODAS las animaciones se pueden activar o desactivar en la configuración, se solucionaron docenas de problemas, no se agregó soporte de animación a todas las animaciones que no lo tenían, algunas animaciones se eliminaron, como animaciones de eyaculación de aspecto extraño. Se agregaron créditos finales del juego. Hollow Market ofrece mucho más stock y se reabastece semanalmente. Otros comerciantes también fueron modificados."
 
-# TODO: Translation updated at 2022-03-30 13:25
+# : Translation updated at 2022-03-30 13:25
 
 translate spanish strings:
 
     # game/screens/utility/what_new.rpy:60
     old "{u}What's New{/u}"
-    new "{u}What's New{/u}"
+    new "{u}Qué Hay de Nuevo{/u}"
 
     # game/screens/utility/what_new.rpy:68
     old "Click outside to close this window, it can be entered again from the pc."
-    new "Click outside to close this window, it can be entered again from the pc."
-
+    new "Haz click afuera para cerrar esta ventana, puedes verla de nuevo desde la PC."

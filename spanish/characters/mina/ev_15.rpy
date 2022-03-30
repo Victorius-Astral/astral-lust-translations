@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/mina/ev_15.rpy:7
 translate spanish mina_15_254ef8fd:
@@ -1688,7 +1688,7 @@ translate spanish strings:
     old "I was drunk"
     new "Estaba borracho"
 
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/characters/mina/ev_15.rpy:32
 translate spanish mina_15_c3e34bb4:

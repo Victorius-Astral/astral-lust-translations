@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/mina/ev_14.rpy:6
 translate spanish mina_14_4a12eefb:
@@ -390,7 +390,7 @@ translate spanish mina_14_2e39132c:
     # "You leave."
     "Te vas."
 
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/characters/mina/ev_14.rpy:14
 translate spanish mina_14_a106143b:
