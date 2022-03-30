@@ -304,3 +304,15 @@ translate spanish strings:
     old "There are countless other changes - ALL animations can be toggled ON/OFF in the settings, dozens of issues were fixed, no animation support was added to all animations that didn't have it, some animations were deleted like weird looking cumming animations. End game credits were added. Hollow Market offers a lot more stock, and restock weekly. Other traders were tweaked too."
     new "There are countless other changes - ALL animations can be toggled ON/OFF in the settings, dozens of issues were fixed, no animation support was added to all animations that didn't have it, some animations were deleted like weird looking cumming animations. End game credits were added. Hollow Market offers a lot more stock, and restock weekly. Other traders were tweaked too."
 
+# TODO: Translation updated at 2022-03-30 13:25
+
+translate spanish strings:
+
+    # game/screens/utility/what_new.rpy:60
+    old "{u}What's New{/u}"
+    new "{u}What's New{/u}"
+
+    # game/screens/utility/what_new.rpy:68
+    old "Click outside to close this window, it can be entered again from the pc."
+    new "Click outside to close this window, it can be entered again from the pc."
+
