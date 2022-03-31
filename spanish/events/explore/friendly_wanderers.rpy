@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/events/explore/friendly_wanderers.rpy:9
 translate spanish exp_friendly_wanderers_a0030e7c:
@@ -349,7 +349,7 @@ translate spanish strings:
     # game/events/explore/friendly_wanderers.rpy:66
     old "I changed my mind"
     new "Cambié de opinión"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/events/explore/friendly_wanderers.rpy:59
 translate spanish exp_friendly_wanderers_7bd5c60a:
@@ -381,7 +381,7 @@ translate spanish exp_friendly_wanderers_dfbca531:
     # th "It was me, but it's better if she doesn't know I can resurrect."
     th "Era yo, pero es mejor si ella no sabe que puedo resucitar."
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

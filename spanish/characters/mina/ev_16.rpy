@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/characters/mina/ev_16.rpy:10
 translate spanish mina_16_290bd0d3:

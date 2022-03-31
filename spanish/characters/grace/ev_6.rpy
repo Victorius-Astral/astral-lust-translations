@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/grace/ev_6.rpy:8
 translate spanish grace_6_fa04d506:
@@ -396,7 +396,7 @@ translate spanish strings:
     old "Thank her"
     new "Agradécele"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

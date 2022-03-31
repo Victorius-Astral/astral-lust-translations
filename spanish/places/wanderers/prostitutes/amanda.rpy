@@ -264,11 +264,10 @@ translate spanish strings:
     # game/places/wanderers/prostitutes/amanda.rpy:2
     old "sir"
     new "señor"
-# TODO: Translation updated at 2022-03-30 13:03
+# : Translation updated at 2022-03-30 13:03
 
 translate spanish strings:
 
     # game/places/wanderers/prostitutes/amanda.rpy:24
     old "I want you to call me.."
-    new "I want you to call me.."
-
+    new "Quiero que me llames..."

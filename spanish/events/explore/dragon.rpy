@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/events/explore/dragon.rpy:13
 translate spanish exp_dragon_2790a268:
@@ -101,7 +101,7 @@ translate spanish strings:
     # game/events/explore/dragon.rpy:15
     old "Shoot at the sky"
     new "Dispara al cielo"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 

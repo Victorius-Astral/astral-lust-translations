@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/characters/grace/ev_10.rpy:10
 translate spanish grace_10_872e6b53:
@@ -668,7 +668,7 @@ translate spanish strings:
     old "No, she'll be back"
     new "No, ella volverá"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

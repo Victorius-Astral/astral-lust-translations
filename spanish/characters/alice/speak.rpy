@@ -962,7 +962,7 @@ translate spanish strings:
     old "Do you have any advice for exploration?"
     new "¿Tienes algún consejo para la exploración?"
 
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/characters/alice/speak.rpy:41
 translate spanish speak_alice_menu1_2efa8c0a:
@@ -980,7 +980,7 @@ translate spanish speak_alice_menu1_a9f53024:
 translate spanish speak_alice_menuev9_e9077839:
 
     # me "Take this."
-    me "Tóma esto."
+    me "Toma esto."
 
 # game/characters/alice/speak.rpy:47
 translate spanish speak_alice_menuev9_3049d90d:
@@ -1034,7 +1034,7 @@ translate spanish speak_alice_menuev9_bfd41d70:
 translate spanish speak_alice_menuev9_e0f3c572:
 
     # alice "Better, it'll probably take a while to recover fully. Thank you."
-    alice "Better, it'll probably take a while to recover fully. Thank you."
+    alice "Mejor, probablemente tome un tiempo para recuperarme por completo. Gracias."
 
 # game/characters/alice/speak.rpy:74
 translate spanish speak_alice_menuev9_a62c2570:
@@ -2318,7 +2318,7 @@ translate spanish strings:
     old "Reinforce coat (Duration: [aliceTasks.reinforceCoat.duration]) {trust}(Buff+){/trust} {#visible}"
     new "Reforzar Abrigo (Duración: [aliceTasks.reinforceCoat.duration]) {trust}(Buff+){/trust} {#visible}"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 # game/characters/alice/speak.rpy:181
 translate spanish speak_alice_menuev9_b211a70c:
