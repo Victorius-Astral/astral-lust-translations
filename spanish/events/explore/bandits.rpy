@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/events/explore/bandits.rpy:9
 translate spanish explore_banditsA_dd0855a5:
@@ -22,7 +22,7 @@ translate spanish explore_banditsA_28f3afc0:
 translate spanish explore_banditsA_55ec02f8:
 
     # th "Bandits!"
-    th "Bandidos!"
+    th "¡Bandidos!"
 
 # game/events/explore/bandits.rpy:21
 translate spanish explore_banditsA_71cbb06f:
@@ -427,7 +427,7 @@ translate spanish strings:
     # game/events/explore/bandits.rpy:163
     old "{color=#FF958F}[[Charisma]{/color} Be human, I won't survive without this little bit of supplies"
     new "{color=#FF958F}[[Carisma]{/color} Sé humano, no sobreviviré sin estos pocos suministros que tengo"
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 # game/events/explore/bandits.rpy:54
 translate spanish explore_banditsA_a4079a28:

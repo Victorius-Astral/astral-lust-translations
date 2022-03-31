@@ -68,7 +68,7 @@ translate spanish strings:
 
     # game/screens/menus/character.rpy:67
     old "{color=#E4CA48}Luck{/color} - increases chance for good cards, decreases chance to meet strong opponents. Increased with codes from Discord or by trading with certain beings.\n\nCard draw - amount of cards you start your round with.\n\nMax hand - amount of cards you can hold simultaneously in combat."
-    new "{color=#E4CA48}Suerte{/color} - aumenta la posibilidad de obtener buenas cartas, disminuye la posibilidad de encontrar oponentes fuertes. Incrementado con códigos de Discord o al negociar con ciertos seres.\n\nMano - cantidad de cartas con las que comienzas tu ronda.\n\nMáximo en mano - cantidad de cartas que puedes sostener simultáneamente en combate."
+    new "{color=#E4CA48}Suerte{/color} - aumenta la posibilidad de obtener buenas cartas, disminuye la posibilidad de encontrar oponentes fuertes. Usa códigos de Discord o negociar con ciertos seres.\n\nMano - cantidad de cartas con las que comienzas tu ronda.\n\nMáximo en mano - cantidad de cartas que puedes sostener simultáneamente en combate."
 
     # game/screens/menus/character.rpy:71
     old "Luck:\nCard draw:\nMax hand:"
@@ -99,7 +99,7 @@ translate spanish strings:
 
     # game/screens/menus/character.rpy:13
     old "{b}{u}{color=#E4CA48}Luck{/color}{/b}{/u}\n{small}Increases chance for good cards, decreases chance to meet strong opponents. Increased with codes from Discord or by trading with certain beings.{/small}"
-    new "{b}{u}{color=#E4CA48}Suerte{/color}{/b}{/u}\n{small}Aumenta posibilidad de buenas cartas., disminuye la posibilidad de encontrarse con oponentes fuertes. Aumentada con códigos de Discord o comerciando con ciertos seres.{/small}"
+    new "{b}{u}{color=#E4CA48}Suerte{/color}{/b}{/u}\n{small}Aumenta posibilidad de buenas cartas., disminuye la posibilidad de encontrarse con oponentes fuertes. Usa códigos de Discord o comercia con ciertos seres.{/small}"
 
     # game/screens/menus/character.rpy:45
     old "State"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/events/explore/crying_horror.rpy:13
 translate spanish exp_crying_horror_c7c12c00:
@@ -10,13 +10,13 @@ translate spanish exp_crying_horror_c7c12c00:
 translate spanish exp_crying_horror_26d9ec4d:
 
     # "You take a look around the corner."
-    "Échas un vistazo."
+    "Echas un vistazo."
 
 # game/events/explore/crying_horror.rpy:20
 translate spanish exp_crying_horror_08ce446e:
 
     # th "Cultist? Time to go."
-    th "Cultista? Hora de irse."
+    th "¿Un cultista? Hora de irse."
 
 # game/events/explore/crying_horror.rpy:22
 translate spanish exp_crying_horror_e8b0dc87:

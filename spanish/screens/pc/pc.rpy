@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/screens/pc/pc.rpy:3
     old "Collectibles"
-    new "Coleccionables"
+    new "Colección"
 
     # game/screens/pc/pc.rpy:3
     old "Debug Menu"
@@ -36,4 +36,4 @@ translate spanish strings:
 
     # game/screens/pc/pc.rpy:3
     old "Difficulty Settings"
-    new "Configuración de dificultad"
+    new "Dificultad"

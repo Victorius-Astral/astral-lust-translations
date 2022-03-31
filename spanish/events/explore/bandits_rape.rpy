@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/events/explore/bandits_rape.rpy:8
 translate spanish exp_bandits_rape_149d1468:

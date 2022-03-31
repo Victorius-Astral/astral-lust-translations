@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/events/dreams/deal_with_the_devil.rpy:23
 translate spanish d_Deal_with_the_Devil_3_d94f51a6:
@@ -16,7 +16,7 @@ translate spanish d_Deal_with_the_Devil_3_18010e2b:
 translate spanish d_Deal_with_the_Devil_3_248e66e0:
 
     # me "Who are you?"
-    me "¿Quién ere?"
+    me "¿Quién eres?"
 
 # game/events/dreams/deal_with_the_devil.rpy:29
 translate spanish d_Deal_with_the_Devil_3_8219b62f:
@@ -28,7 +28,7 @@ translate spanish d_Deal_with_the_Devil_3_8219b62f:
 translate spanish d_Deal_with_the_Devil_3_8c058f61:
 
     # "Its voice sounds like that of a young girl, almost playful and innocent. If you couldn't see it with your own eyes, you would think it was a child."
-    "Su voz suena como la de una niña, casi juguetona e inocente. Si no pudieras ver ésto con tus propios ojos, pensarías que es una niña."
+    "Su voz suena como la de una niña, casi juguetona e inocente. Si no pudieras ver esto con tus propios ojos, pensarías que es una niña."
 
 # game/events/dreams/deal_with_the_devil.rpy:32
 translate spanish d_Deal_with_the_Devil_3_435f125f:
@@ -94,7 +94,7 @@ translate spanish strings:
 
     # game/events/dreams/deal_with_the_devil.rpy:36
     old "Make me lucky [[Reset your deck and lose 40 random attribute points. Gain +2 luck, max 5 purchases]"
-    new "Hazme afortunado [[Reinicia tu mazo y pierde 40 puntos de atributos aleatorios. Gána +2 suerte, max 5 compras]"
+    new "Hazme afortunado [[Reinicia tu mazo y pierde 40 puntos de atributos aleatorios. Gana +2 suerte, max 5 compras]"
 
     # game/events/dreams/deal_with_the_devil.rpy:36
     old "I want three powerful abilities [[Reset your deck and lose 20 random attribute points. Choose a card from three high rarity choices three times.]"
@@ -115,7 +115,7 @@ translate spanish strings:
     # game/events/dreams/deal_with_the_devil.rpy:36
     old "I want nothing from you"
     new "No quiero nada de ti"
-# TODO: Translation updated at 2021-05-17 12:56
+# : Translation updated at 2021-05-17 12:56
 
 # game/events/dreams/deal_with_the_devil.rpy:88
 translate spanish d_Deal_with_the_Devil_3_menu1_3f9ebed0:
@@ -133,7 +133,7 @@ translate spanish d_Deal_with_the_Devil_3_menu1_2fc0e6f2:
 translate spanish d_Deal_with_the_Devil_3_menu1_fd1dac3b:
 
     # devil "I'll weaken influence someone has on you."
-    devil "Voy a debilitar la influencia que alguien tiene sobre tí."
+    devil "Voy a debilitar la influencia que alguien tiene sobre ti."
 
 # game/events/dreams/deal_with_the_devil.rpy:91
 translate spanish d_Deal_with_the_Devil_3_menu1_273f3d1f:
@@ -151,7 +151,7 @@ translate spanish d_Deal_with_the_Devil_3_menu1_dc4cc646:
 translate spanish d_Deal_with_the_Devil_3_menu1_d7945924:
 
     # th "What the hell, someone is influencing me and I don't even know?"
-    th "¿Qué demonios, alguien me están influenciando y ni siquiero lo sé?"
+    th "¿Qué demonios, alguien me están influenciando y ni siquiera lo sé?"
 
 # game/events/dreams/deal_with_the_devil.rpy:94
 translate spanish d_Deal_with_the_Devil_3_menu1_65f639db:
@@ -175,7 +175,7 @@ translate spanish d_Deal_with_the_Devil_3_menu1_3820771a:
 translate spanish d_Deal_with_the_Devil_3_menu1_9539ab5a:
 
     # devil "This will give you more time. Check yourself often, as one day He might replace you if you're not careful."
-    devil "Esto te dará mas tiempo. Revísate seguido, ya que un día Él podría reemplazarte."
+    devil "Esto te dará mas tiempo. Revísate seguido, ya que un día Él podría reemplazarte si no tienes cuidado."
 
 # game/events/dreams/deal_with_the_devil.rpy:106
 translate spanish d_Deal_with_the_Devil_3_menu1_b5966159:
@@ -201,33 +201,33 @@ translate spanish strings:
     old "I won't take your offer"
     new "No tomaré tu oferta"
 
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 
     # game/events/dreams/deal_with_the_devil.rpy:36
     old "Make me lucky [[Lose 40 random attribute points. Gain +2 luck, max 5 purchases] {#visible}"
-    new "Make me lucky [[Lose 40 random attribute points. Gain +2 luck, max 5 purchases] {#visible}"
+    new "Make me lucky [[Pierde 40 puntos de atributo al azar. Gana +2 suerte, max 5 compras] {#visible}"
 
     # game/events/dreams/deal_with_the_devil.rpy:36
     old "I want three powerful abilities [[Lose 20 random attribute points. Choose a card from three high rarity choices.]"
-    new "I want three powerful abilities [[Lose 20 random attribute points. Choose a card from three high rarity choices.]"
+    new "Quiero tres habilidades poderosas [[Pierde 20 puntos de atributo al azar. Elige una carta de 3 opciones raras.]"
 
     # game/events/dreams/deal_with_the_devil.rpy:36
     old "I want to be a master of my own destiny {#visible}"
-    new "I want to be a master of my own destiny {#visible}"
+    new "Quiero ser el amo de mi propio destino {#visible}"
 
     # game/events/dreams/deal_with_the_devil.rpy:74
     old "Sanity -50%\nCorruption -5%"
-    new "Sanity -50%\nCorruption -5%"
+    new "Cordura -50%\nCorrupción -5%"
 
     # game/events/dreams/deal_with_the_devil.rpy:81
     old "Sanity +100%\nCorruption +5%"
-    new "Sanity +100%\nCorruption +5%"
+    new "Cordura +100%\nCorrupción +5%"
 
     # game/events/dreams/deal_with_the_devil.rpy:95
     old "[[Sanity will become 1%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
-    new "[[Sanity will become 1%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
+    new "[[Cordura será 1%%, y perderás todas tus cartas. La influencia Eldritch se debilitará en 4 puntos. Influencia: [player.author_influence]/10]"
 # : Translation updated at 2022-03-30 13:07
 
 translate spanish strings:

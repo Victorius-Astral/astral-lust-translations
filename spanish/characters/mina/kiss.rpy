@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/characters/mina/kiss.rpy:19
 translate spanish mina_kiss_100ef60d:
@@ -1235,11 +1235,10 @@ translate spanish strings:
     # game/characters/mina/kiss.rpy:509
     old "Let her win"
     new "Déjala ganar"
-# TODO: Translation updated at 2022-02-16 09:41
+# : Translation updated at 2022-02-16 09:41
 
 translate spanish strings:
 
     # game/characters/mina/kiss.rpy:331
     old "I'll think about it. How about a simple kiss in the meanwhile"
-    new "I'll think about it. How about a simple kiss in the meanwhile"
-
+    new "Lo pensaré. ¿Qué tal un simple beso mientras tanto?"

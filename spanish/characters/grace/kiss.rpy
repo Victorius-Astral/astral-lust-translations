@@ -2164,13 +2164,13 @@ translate spanish grace_kiss_bad_end_51d3226c:
 translate spanish grace_kiss_bad_end_043dcff7:
 
     # me "Fuck!!"
-    me "¡¡Mierdo!!"
+    me "¡¡Mierda!!"
 
 # game/characters/grace/kiss.rpy:1048
 translate spanish grace_kiss_bad_end_c1efb148:
 
     # th "There is no chance I'll survive this fall!"
-    th "¡No hay posibilidad de que sobreviva este otoño!"
+    th "¡No hay forma de que sobreviva esta caída!"
 
 # game/characters/grace/kiss.rpy:1051
 translate spanish grace_kiss_bad_end_cd4a6f57:

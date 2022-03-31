@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/player/ev_3.rpy:8
 translate spanish main_3_99b949dd:
@@ -224,7 +224,7 @@ translate spanish strings:
     old "I don't have anymore questions"
     new "No tengo mas preguntas"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/mina/ev_8.rpy:14
 translate spanish mina_8_16cf47a5:
@@ -706,7 +706,7 @@ translate spanish strings:
     old "Promise"
     new "Prometido"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

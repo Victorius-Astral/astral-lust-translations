@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/events/dreams/dekesha.rpy:25
 translate spanish d_Dekesha_by_Darrdorack_2_fb60898a:
@@ -10,7 +10,7 @@ translate spanish d_Dekesha_by_Darrdorack_2_fb60898a:
 translate spanish d_Dekesha_by_Darrdorack_2_c0d23563:
 
     # th "This is.. [dekesha], I hate this stuck up bitch.."
-    th "Ésa es.. [dekesha]. Odio a esta perra engreída..."
+    th "Ésa es... [dekesha]. Odio a esta perra engreída..."
 
 # game/events/dreams/dekesha.rpy:29
 translate spanish d_Dekesha_by_Darrdorack_2_b08726d7:
@@ -645,7 +645,7 @@ translate spanish strings:
     # game/events/dreams/dekesha.rpy:164
     old "Fuck her, let her know how good dick feels"
     new "Fóllala, hazle saber cómo se siente un buen pene"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/events/dreams/dekesha.rpy:28
 translate spanish d_Dekesha_by_Darrdorack_2_c54e7519:
@@ -688,4 +688,3 @@ translate spanish d_Dekesha_by_Darrdorack_2_sex_aef18e13:
 
     # dekesha "What the fuck do you think you're doing, asshole?!"
     dekesha "What the fuck do you think you're doing, asshole?!"
-

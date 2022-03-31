@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/events/endings/autor.rpy:5
 translate spanish end_autor_165f6ec2:
@@ -17,7 +17,7 @@ translate spanish end_autor_7f37f1e5:
 
     # "WIP - In future updates it'll become a full bad ending event with it's own images and choices"
     "WIP: en futuras actualizaciones, se convertirá en un evento final malo completo con sus propias imágenes y opciones"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/events/endings/autor.rpy:14
 translate spanish end_author_c1b575f0:
@@ -156,4 +156,3 @@ translate spanish strings:
     # game/events/endings/autor.rpy:36
     old "Card 'Aharon' destroyed!"
     new "Card 'Aharon' destroyed!"
-

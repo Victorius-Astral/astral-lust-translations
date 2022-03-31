@@ -316,7 +316,7 @@ translate spanish kiara_fj_1_cum_9a9f56ff:
 translate spanish kiara_fj_1_cum_73740ae0:
 
     # kiara "Yes, we can theoretically even two minutes long."
-    kiara "Sí, teóricamente podemos tener unos de incluso dos minutos de duración."
+    kiara "Sí, teóricamente podemos tener unos de hasta incluso dos minutos."
 
 # game/characters/kiara/fj_1.rpy:178
 translate spanish kiara_fj_1_cum_63c96087:

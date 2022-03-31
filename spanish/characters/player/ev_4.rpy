@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/player/ev_4.rpy:5
 translate spanish main_4_6ec07289:
@@ -10,7 +10,7 @@ translate spanish main_4_6ec07289:
 translate spanish main_4_3a9dfdac:
 
     # "When your senses return you are standing inside a room."
-    "Cuando tus sentidos regresan, estás parado dentro de una habitación.."
+    "Cuando tus sentidos regresan, estás parado dentro de una habitación."
 
 # game/characters/player/ev_4.rpy:11
 translate spanish main_4_67d4cc93:
@@ -812,7 +812,7 @@ translate spanish strings:
     old "Have you ever heard of Throdog R'luhhor?"
     new "¿Alguna vez has oído hablar de Throdog R'luhhor?"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

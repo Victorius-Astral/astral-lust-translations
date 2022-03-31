@@ -1099,7 +1099,7 @@ translate spanish sleep_grace_feet_wakeup_success_d8769c30:
 translate spanish sleep_grace_feet_wakeup_success_504b9f10:
 
     # grace "Give me a while."
-    grace "Dame un minuto."
+    grace "Dame un segundo."
 
 # game/characters/grace/sleep.rpy:539
 translate spanish sleep_grace_feet_wakeup_success_ecb6f2f9:

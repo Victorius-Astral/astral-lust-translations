@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/events/explore/powerful_monster.rpy:11
 translate spanish exp_powerful_monster_88503fa4:

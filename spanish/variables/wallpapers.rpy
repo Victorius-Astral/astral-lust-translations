@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-26 14:57
+﻿# : Translation updated at 2022-02-26 14:57
 
 translate spanish strings:
 
@@ -321,4 +321,3 @@ translate spanish strings:
     # game/variables/wallpapers.rpy:398
     old "Valentines 2022"
     new "Valentines 2022"
-

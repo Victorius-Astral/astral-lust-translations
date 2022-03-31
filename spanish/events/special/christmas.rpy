@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/events/special/christmas.rpy:80
 translate spanish christ_2f5165f1:
@@ -1833,4 +1833,3 @@ translate spanish strings:
     # game/events/special/christmas.rpy:595
     old "Previous position"
     new "Previous position"
-

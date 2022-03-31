@@ -713,10 +713,10 @@ translate spanish strings:
     # game/characters/savenia/ev_4.rpy:52
     old "Range of Motion"
     new "Rango de Movimiento"
-# TODO: Translation updated at 2022-02-26 14:57
+# : Translation updated at 2022-02-26 14:57
 
 # game/characters/savenia/ev_4.rpy:67
 translate spanish savenia_4_menu1_f3328ea7:
 
     # savenia "And, how is an exercise for arms and chest gonna help with my leg?"
-    savenia "And, how is an exercise for arms and chest gonna help with my leg?"
+    savenia "Y, ¿cómo me va a ayudar a mi pierna un ejercicio para brazos y pecho?"

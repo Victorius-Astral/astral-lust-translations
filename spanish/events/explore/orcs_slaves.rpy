@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/events/explore/orcs_slaves.rpy:6
 translate spanish exp_orcs_slaves_58ee952d:

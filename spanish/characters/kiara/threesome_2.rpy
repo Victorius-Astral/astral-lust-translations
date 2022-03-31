@@ -268,7 +268,7 @@ translate spanish kiara_threesome_2_cum_9b4c42da:
 translate spanish kiara_threesome_2_cum_db23df81:
 
     # kiara "I don't want to raise at all."
-    kiara "No quiero levantarme para nada."
+    kiara "No quiero levantarme en lo absoluto."
 
 # game/characters/kiara/threesome_2.rpy:143
 translate spanish kiara_threesome_2_cum_2eeff9dd:
@@ -298,7 +298,7 @@ translate spanish kiara_threesome_2_cum_5f3a10cd:
 translate spanish kiara_threesome_2_cum_09a75097:
 
     # me "It is. Seeing you lie in the poll of my cum is certainly very imaginative."
-    me "Lo es. Verte recostada en mi semen es sin duda ciertamente da a la imaginación."
+    me "Lo es. Verte recostada en mi semen ciertamente da a la imaginación."
 
 # game/characters/kiara/threesome_2.rpy:148
 translate spanish kiara_threesome_2_cum_133d1f5a:

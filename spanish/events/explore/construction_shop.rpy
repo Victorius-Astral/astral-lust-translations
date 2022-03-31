@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/events/explore/construction_shop.rpy:7
 translate spanish explore_construction_shop_1ae0b4e9:
@@ -254,8 +254,8 @@ translate spanish strings:
 
     # game/events/explore/construction_shop.rpy:42
     old "{color=#800080}[[Corruption / Madness]{/color} Attack"
-    new "{color=#800080}[[Corruption / Madness]{/color} Attack"
-# TODO: Translation updated at 2022-01-25 22:41
+    new "{color=#800080}[[Corrupción / Locura]{/color} Ataca"
+# : Translation updated at 2022-01-25 22:41
 
 # game/events/explore/construction_shop.rpy:103
 translate spanish explore_construction_shop_win_19e7ada1:
@@ -775,14 +775,14 @@ translate spanish strings:
     old "Rape her"
     new "Viólala"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 
     # game/events/explore/construction_shop.rpy:278
     old "I raped someone. Can I live with it?"
     new "Violé a alguien. ¿Puedo vivir con eso?"
-# TODO: Translation updated at 2022-02-26 14:57
+# : Translation updated at 2022-02-26 14:57
 
 # game/events/explore/construction_shop.rpy:268
 translate spanish explore_construction_shop_win_124865fa:

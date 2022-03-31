@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/events/dreams/astral_lust.rpy:11
 translate spanish d_Astral_Lust_2_2e6a4d69:
@@ -16,7 +16,7 @@ translate spanish d_Astral_Lust_2_5a098037:
 translate spanish d_Astral_Lust_2_b51bc139:
 
     # "You are surprised to see Kiara before you. She sleeps on a book, floating along in the empty space."
-    "Te sorprende ver a Kiara ante tí. Ella duerme sobre un libro, flotando en el espacio vacío."
+    "Te sorprende ver a Kiara ante ti. Ella duerme sobre un libro, flotando en el espacio vacío."
 
 # game/events/dreams/astral_lust.rpy:14
 translate spanish d_Astral_Lust_2_96b6ea8f:
@@ -213,17 +213,16 @@ translate spanish strings:
     # game/events/dreams/astral_lust.rpy:30
     old "No, thanks"
     new "No, gracias"
-# TODO: Translation updated at 2022-02-26 14:57
+# : Translation updated at 2022-02-26 14:57
 
 # game/events/dreams/astral_lust.rpy:12
 translate spanish d_Astral_Lust_2_a47cf47b:
 
     # th "[kiara]?"
-    th "[kiara]?"
+    th "¿[kiara]?"
 
 # game/events/dreams/astral_lust.rpy:13
 translate spanish d_Astral_Lust_2_8aa10819:
 
     # "You are surprised to see [kiara] before you. She sleeps on a book, floating along in the empty space."
-    "You are surprised to see [kiara] before you. She sleeps on a book, floating along in the empty space."
-
+    "Te sorprende ver a Kiara ante ti. Ella duerme sobre un libro, flotando en el espacio vacío."

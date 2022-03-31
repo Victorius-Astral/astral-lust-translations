@@ -12,7 +12,7 @@ translate spanish strings:
 
     # game/combat/cards/lists/effects.rpy:3
     old "Block up to x points of damage. Lasts till next turn."
-    new "Bloquea hasta x puntos de daño. Dura hasta el próximo turno."
+    new "Bloquea hasta x de daño. Dura hasta el próximo turno."
 
     # game/combat/cards/lists/effects.rpy:3
     old "Gives x% chance to avoid damage. Lasts till next turn. Dodge chance capped at {:.0%}."
@@ -40,7 +40,7 @@ translate spanish strings:
 
     # game/combat/cards/lists/effects.rpy:3
     old "The next time you would die, heal to {:.0%} of max health instead. Expires after battle."
-    new "La próxima vez que vayas a morir, en su lugar, cura el {:.0%} de tu vida máxima. Caduca después de la batalla."
+    new "Al morir, en su lugar, se cura el {:.0%} de tu vida máxima. Caduca después de la batalla."
 
     # game/combat/cards/lists/effects.rpy:3
     old "Deal x more damage. Decreases by {} every turn."
@@ -68,7 +68,7 @@ translate spanish strings:
 
     # game/combat/cards/lists/effects.rpy:3
     old "Gain {}x spirituality each turn."
-    new "Gana {}x de espiritualidad cada turno."
+    new "Gana {}x espíritu por turno."
 
     # game/combat/cards/lists/effects.rpy:3
     old "Gain {}x Strength on taking unblocked damage."
@@ -124,7 +124,7 @@ translate spanish strings:
 
     # game/combat/cards/lists/effects.rpy:3
     old "Each turn deals {}x damage. +{:.0%} damage if target has Bleeding. Decreases by {} every turn. Negates Regeneration."
-    new "Cada turno inflige {}x daño. +{:.0%} daño si el objetivo tiene Sangrado. Disminuye en {} cada turno. Niega Regeneración."
+    new "Cada turno inflige {}x daño. +{:.0%} daño si el objetivo Sangra. Disminuye en {} cada turno. Niega Regeneración."
 
     # game/combat/cards/lists/effects.rpy:3
     old "Stun"
@@ -132,7 +132,7 @@ translate spanish strings:
 
     # game/combat/cards/lists/effects.rpy:3
     old "Unable to act for x turns."
-    new "No se puede actuar durante x turnos."
+    new "No se actúa por x turnos."
 
     # game/combat/cards/lists/effects.rpy:3
     old "Weak"
@@ -140,7 +140,7 @@ translate spanish strings:
 
     # game/combat/cards/lists/effects.rpy:3
     old "Your attacks deal only {:.0%} damage. Decreases by {} every turn."
-    new "Tus ataques infligen solo {:.0%} de daño. Disminuye en {} cada turno."
+    new "Ataques infligen {:.0%} daño. Disminuye {} por turno."
 
     # game/combat/cards/lists/effects.rpy:3
     old "Vulnerable"
@@ -156,7 +156,7 @@ translate spanish strings:
 
     # game/combat/cards/lists/effects.rpy:3
     old "Hunter's Mark"
-    new "Marca del Cazador"
+    new "Marcado"
 
     # game/combat/cards/lists/effects.rpy:3
     old "Attacks on marked enemy deal +{}x damage."
@@ -272,11 +272,11 @@ translate spanish strings:
 
     # game/combat/cards/lists/effects.rpy:224
     old "Each turn increase block by {}x."
-    new "Cada turno aumenta el bloqueo en {}x."
+    new "Gana {}x bloqueo por turno."
 
     # game/combat/cards/lists/effects.rpy:254
     old "Dragon's Might"
-    new "Poder del Dragón"
+    new "Dracónico"
 
     # game/combat/cards/lists/effects.rpy:254
     old "Each attack inflicts {}x {}, and {}x {}."

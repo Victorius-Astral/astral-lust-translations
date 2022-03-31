@@ -1,16 +1,16 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/events/dreams/life_with_alice.rpy:21
 translate spanish d_Life_with_Alice_2_dc4a9c6a:
 
     # th "Where is this...?"
-    th "Where is this...?"
+    th "¿Dónde es esto...?"
 
 # game/events/dreams/life_with_alice.rpy:22
 translate spanish d_Life_with_Alice_2_c155f853:
 
     # "???" "I'm leaving, daddy." (who_color="#4285F4")
-    "???" "I'm leaving, daddy." (who_color="#4285F4")
+    "???" "Me voy, papi." (who_color="#4285F4")
 
 # game/events/dreams/life_with_alice.rpy:25
 translate spanish d_Life_with_Alice_2_2a8eb116:
@@ -551,4 +551,3 @@ translate spanish strings:
     # game/events/dreams/life_with_alice.rpy:67
     old "Let's just relax like this"
     new "Let's just relax like this"
-

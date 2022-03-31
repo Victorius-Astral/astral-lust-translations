@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/mina/feet_masage.rpy:34
 translate spanish mina_feet_massage_8c735124:
@@ -1648,7 +1648,7 @@ translate spanish strings:
     old "Stop"
     new "Detente"
 
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/characters/mina/feet_masage.rpy:60
 translate spanish mina_feet_massage_61d2ff02:
@@ -1732,7 +1732,7 @@ translate spanish strings:
     old "I simply want to spend some time with you {trust}(Trust+){/trust}"
     new "Simplemente quiero pasar un rato contigo {trust}(Confianza+){/trust}"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/characters/player/ev_12.rpy:3
 translate spanish main_12_b5718eae:
@@ -522,10 +522,10 @@ translate spanish main_12_b17b1bf2:
     # me "Haha.. It's so fucked up.. I.. need to rest.."
     me "Haha... Está tan jodido... Yo... necesito descansar..."
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 
     # game/characters/player/ev_12.rpy:43
     old "Higher Beings should be referred to with respect, They should be described as He/She/It, using he/she/it is considered lack of respect and thus dangerous."
-    new "Se debe hacer referencia a los Seres Superiores con respeto. Deben describirse como Él/Ella/Eso. Usar él/ella/Eso se considera una falta de respeto y, por lo tanto, peligroso."
+    new "Se referir a los Seres Superiores con respeto. Deben describirse como Él/Ella/Eso. Usar él/ella/eso se considera una falta de respeto y, por lo tanto, peligroso."
