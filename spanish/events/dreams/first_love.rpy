@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/events/dreams/first_love.rpy:7
 translate spanish d_First_Love_2_ce6c0469:

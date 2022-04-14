@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/events/explore/dog.rpy:10
 translate spanish explore_dog_c108d2d1:
@@ -407,7 +407,7 @@ translate spanish strings:
     # game/events/explore/dog.rpy:99
     old "Get it!"
     new "¡Consíguelo!"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 
@@ -415,7 +415,7 @@ translate spanish strings:
     old "How should I call it?"
     new "¿Cómo debería llamarlo?"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

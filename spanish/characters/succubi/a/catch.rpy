@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/succubi/a/catch.rpy:3
 translate spanish catch_SuccubusA_76b4d1c2:
@@ -154,7 +154,7 @@ translate spanish strings:
     old "I've caught a succubus. She says I can become her master with a kiss."
     new "Atrapé a una succubus. Ella dice que puedo convertirme en su amo con un beso."
 
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 

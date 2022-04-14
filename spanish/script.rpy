@@ -730,3 +730,11 @@ translate spanish strings:
     # game/script.rpy:312
     old "She's the scavenger in the Jade Hotel."
     new "Ella es la recolectora en el Hotel Jade."
+# TODO: Translation updated at 2022-04-03 16:52
+
+translate spanish strings:
+
+    # game/script.rpy:1
+    old "Player"
+    new "Player"
+

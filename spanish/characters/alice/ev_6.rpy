@@ -304,13 +304,13 @@ translate spanish alice_6_1_41b8d64f:
 translate spanish alice_6_1_3822f84b:
 
     # alice "Yeah."
-    alice "Si."
+    alice "Sí."
 
 # game/characters/alice/ev_6.rpy:108
 translate spanish alice_6_1_9bd0606b:
 
     # "You spend the rest of training in silence."
-    "Pasas el resto del entrenamiento en silencio.."
+    "Pasas el resto del entrenamiento en silencio..."
 
 # game/characters/alice/ev_6.rpy:111
 translate spanish alice_6_1_d763bd4b:

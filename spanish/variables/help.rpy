@@ -307,7 +307,7 @@ translate spanish strings:
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over, be careful.{/color}"
-    new "{color=#45B6FE}12. Si sanidad llega al 0\\% o corrupción 100%, es fin del juego. Ten cuidado.{/color}"
+    new "{color=#45B6FE}12. Si cordura llega al 0\\% o corrupción 100%, es fin del juego. Ten cuidado.{/color}"
 
     # game/variables/help.rpy:3
     old "13. You can find collectibles to unlock additional pictures on pc. Look for golden condoms and condom packs."

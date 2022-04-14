@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/events/dreams/darkness.rpy:7
 translate spanish d_Darkness_1_b62e2976:

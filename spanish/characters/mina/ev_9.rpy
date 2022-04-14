@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/mina/ev_9.rpy:3
 translate spanish mina_9_280ebf25:
@@ -524,7 +524,7 @@ translate spanish strings:
     old "Not at all"
     new "Para nada"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

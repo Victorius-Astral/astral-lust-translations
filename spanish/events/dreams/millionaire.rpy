@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/events/dreams/millionaire.rpy:11
 translate spanish d_Millionaire_2_5dd3ff77:
 
     # th "Where is it?"
-    th "¿Dónde es ésto?"
+    th "¿Dónde es esto?"
 
 # game/events/dreams/millionaire.rpy:14
 translate spanish d_Millionaire_2_122769ff:
@@ -407,7 +407,7 @@ translate spanish strings:
     # game/events/dreams/millionaire.rpy:196
     old "Will I?"
     new "¿Lo haría?"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/events/dreams/millionaire.rpy:82
 translate spanish d_Millionaire_2_menu1_8004a140:

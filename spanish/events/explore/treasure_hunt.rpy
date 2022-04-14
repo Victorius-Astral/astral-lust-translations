@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/events/explore/treasure_hunt.rpy:49
 translate spanish exp_treasure_hunt_part1_efd11ab7:

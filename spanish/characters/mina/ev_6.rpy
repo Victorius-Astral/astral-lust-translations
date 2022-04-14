@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/mina/ev_6.rpy:9
 translate spanish mina_6_0d485f6b:
@@ -305,37 +305,37 @@ translate spanish strings:
     # game/characters/mina/ev_6.rpy:30
     old "Try to cheer her up"
     new "Trata de animarla"
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 # game/characters/mina/ev_6.rpy:33
 translate spanish mina_6_d532a160:
 
     # mina "It's my fault for going out. I should have been more careful."
-    mina "It's my fault for going out. I should have been more careful."
+    mina "Es mi culpa por haber salido. Debería haber sido más cuidadosa."
 
 # game/characters/mina/ev_6.rpy:42
 translate spanish mina_6_36b6fc00:
 
     # me "I'll protect you. I won't let anything happen to you."
-    me "I'll protect you. I won't let anything happen to you."
+    me "Voy a protegerte. No voy a dejar que nada te pase."
 
 # game/characters/mina/ev_6.rpy:61
 translate spanish mina_6_1_55757dcf:
 
     # "[mina] cries in your arms for a long time. When she finally stops she's, obviously exhausted."
-    "[mina] cries in your arms for a long time. When she finally stops she's, obviously exhausted."
+    "[mina] llora en tus brazos por mucho tiempo. Cuando finalmente se detiene, obviamente está exhausta."
 
 # game/characters/mina/ev_6.rpy:89
 translate spanish mina_6_1_21c5e2ca:
 
     # mina "I still have things to do. I need to get going."
-    mina "I still have things to do. I need to get going."
+    mina "Todavía tengo cosas que hacer. Necesito irme."
 
 # game/characters/mina/ev_6.rpy:91
 translate spanish mina_6_1_c95815e7:
 
     # mina "No, you've already helped me enough. I can do this."
-    mina "No, you've already helped me enough. I can do this."
+    mina "No, ya me has ayudado bastante. Puedo hacer esto."
 
 translate spanish strings:
 

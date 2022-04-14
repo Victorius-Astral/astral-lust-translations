@@ -4,11 +4,11 @@ translate spanish strings:
 
     # game/combat/cards/lists/tips.rpy:1
     old "{{b}}{{u}}Exhaust{{/u}}{{/b}}\n{{small}}Card is removed from your deck until the end of combat.{{/small}}"
-    new "{{b}}{{u}}Agotar{{/u}}{{/b}}\n{{small}}La carta se elimina de tu mazo hasta el final del combate.{{/small}}"
+    new "{{b}}{{u}}Agotar{{/u}}{{/b}}\n{{small}}La carta se elimina hasta el final del combate.{{/small}}"
 
     # game/combat/cards/lists/tips.rpy:1
     old "{{b}}{{u}}Destroy{{/u}}{{/b}}\n{{small}}Card is permanently removed from your deck.{{/small}}"
-    new "{{b}}{{u}}Destruír{{/u}}{{/b}}\n{{small}}La carta se elimina permanentemente de tu mazo.{{/small}}"
+    new "{{b}}{{u}}Destruír{{/u}}{{/b}}\n{{small}}Carta se elimina permanentemente del mazo.{{/small}}"
 
     # game/combat/cards/lists/tips.rpy:1
     old "{{b}}{{u}}{name}{{/u}}{{/b}}\n{{small}}{desc}{{/small}}"

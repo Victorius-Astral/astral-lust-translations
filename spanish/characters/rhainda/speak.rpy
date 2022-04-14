@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-16 09:41
+﻿# : Translation updated at 2022-02-16 09:41
 
 # game/characters/rhainda/speak.rpy:6
 translate spanish speak_rhainda_2e019f5a:
@@ -10,157 +10,157 @@ translate spanish speak_rhainda_2e019f5a:
 translate spanish speak_rhainda_8aa16e6a:
 
     # me "Hey!"
-    me "Hey!"
+    me "¡Hey!"
 
 # game/characters/rhainda/speak.rpy:8
 translate spanish speak_rhainda_99df959f:
 
     # rhainda "What's up?"
-    rhainda "What's up?"
+    rhainda "¿Cómo te va?"
 
 # game/characters/rhainda/speak.rpy:9
 translate spanish speak_rhainda_02750c41:
 
     # me "I'm good, I guess. What about you?"
-    me "I'm good, I guess. What about you?"
+    me "Estoy bien, supongo. ¿Y tú?"
 
 # game/characters/rhainda/speak.rpy:10
 translate spanish speak_rhainda_021f2ee8:
 
     # rhainda "Much better than before, all thanks to you!"
-    rhainda "Much better than before, all thanks to you!"
+    rhainda "Mucho mejor que antes, ¡todo gracias a ti!"
 
 # game/characters/rhainda/speak.rpy:11
 translate spanish speak_rhainda_3fe483ff:
 
     # me "Tell me more!"
-    me "Tell me more!"
+    me "¡Sigue, dime mas!"
 
 # game/characters/rhainda/speak.rpy:15
 translate spanish speak_rhainda_dec8e2b0:
 
     # rhainda "Dream on, narcissist guy!"
-    rhainda "Dream on, narcissist guy!"
+    rhainda "¡Sigue soñando, narcisista!"
 
 # game/characters/rhainda/speak.rpy:19
 translate spanish speak_rhainda_521f6bb8:
 
     # rhainda "Why are you looking for me, came for some fun?"
-    rhainda "Why are you looking for me, came for some fun?"
+    rhainda "¿Para qué me buscabas? ¿Viniste para divertirte?"
 
 # game/characters/rhainda/speak.rpy:36
 translate spanish speak_rhainda_main_cd2c49ac:
 
     # rhainda "Okay! See you!"
-    rhainda "Okay! See you!"
+    rhainda "¡Okay! ¡Nos vemos!"
 
 # game/characters/rhainda/speak.rpy:37
 translate spanish speak_rhainda_main_4095caad:
 
     # me "See you."
-    me "See you."
+    me "Nos vemos."
 
 # game/characters/rhainda/speak.rpy:60
 translate spanish speak_rhainda_questions_48fa0efc:
 
     # rhainda "Everyone has the right to live. Be it you or me, or a chicken, or a cow."
-    rhainda "Everyone has the right to live. Be it you or me, or a chicken, or a cow."
+    rhainda "Todo el mundo tiene derecho a vivir. Ya seas tú, yo, o una gallina, o una vaca."
 
 # game/characters/rhainda/speak.rpy:61
 translate spanish speak_rhainda_questions_7477929a:
 
     # me "Your species is carnivorous, though."
-    me "Your species is carnivorous, though."
+    me "Pero tu especie es carnívora."
 
 # game/characters/rhainda/speak.rpy:62
 translate spanish speak_rhainda_questions_75a5424e:
 
     # rhainda "Everyday, we make a lot of choices. We can chose to be the better version of ourselves."
-    rhainda "Everyday, we make a lot of choices. We can chose to be the better version of ourselves."
+    rhainda "Todos los días tomamos decisiones. Podemos elegir ser la mejor versión de nosotros mismos."
 
 # game/characters/rhainda/speak.rpy:63
 translate spanish speak_rhainda_questions_453cd384:
 
     # rhainda "You can chose to kill, exploit, and steal. You can also chose to save."
-    rhainda "You can chose to kill, exploit, and steal. You can also chose to save."
+    rhainda "Puedes elegir matar, explotar y robar. También puedes elegir salvar."
 
 # game/characters/rhainda/speak.rpy:67
 translate spanish speak_rhainda_questions_561f4b16:
 
     # rhainda "You saved me. You didn't have to."
-    rhainda "You saved me. You didn't have to."
+    rhainda "Me salvaste. No tenías que hacerlo."
 
 # game/characters/rhainda/speak.rpy:68
 translate spanish speak_rhainda_questions_e784e03b:
 
     # me "I did.."
-    me "I did.."
+    me "Lo hice..."
 
 # game/characters/rhainda/speak.rpy:69
 translate spanish speak_rhainda_questions_55909187:
 
     # rhainda "You're a good person."
-    rhainda "You're a good person."
+    rhainda "Eres una buena persona."
 
 # game/characters/rhainda/speak.rpy:70
 translate spanish speak_rhainda_questions_87b0c2fe:
 
     # me "Even if I eat meat?"
-    me "Even if I eat meat?"
+    me "¿Incluso si como carne?"
 
 # game/characters/rhainda/speak.rpy:74
 translate spanish speak_rhainda_questions_b7a9ac33:
 
     # rhainda "It's your choice to live the way you want. It's not my place to change you."
-    rhainda "It's your choice to live the way you want. It's not my place to change you."
+    rhainda "Tu eliges vivir como quieras. No me corresponde a mí cambiarte."
 
 # game/characters/rhainda/speak.rpy:75
 translate spanish speak_rhainda_questions_aa67120d:
 
     # rhainda "I just don't want to involve myself into a misery of innocent living beings."
-    rhainda "I just don't want to involve myself into a misery of innocent living beings."
+    rhainda "Simplemente no quiero involucrarme en la miseria de seres vivos inocentes."
 
 # game/characters/rhainda/speak.rpy:76
 translate spanish speak_rhainda_questions_85d129ea:
 
     # rhainda "I would feel bad with myself if I did."
-    rhainda "I would feel bad with myself if I did."
+    rhainda "Me sentiría mal conmigo misma si lo hiciera."
 
 # game/characters/rhainda/speak.rpy:77
 translate spanish speak_rhainda_questions_eb42690d:
 
     # me "It's good you're not an extremist trying to force everyone into your world views."
-    me "It's good you're not an extremist trying to force everyone into your world views."
+    me "Es bueno que no seas una extremista, tratando de obligar a todos a tener tu visión del mundo."
 
 # game/characters/rhainda/speak.rpy:81
 translate spanish speak_rhainda_questions_b95d3025:
 
     # rhainda "Don't worry. You can live however you want, and I won't comment as long as you don't comment on me."
-    rhainda "Don't worry. You can live however you want, and I won't comment as long as you don't comment on me."
+    rhainda "No te preocupes. Puedes vivir como quieras, y no comentaré mientras tú no comentes sobre mí."
 
 # game/characters/rhainda/speak.rpy:82
 translate spanish speak_rhainda_questions_86fb2d9d:
 
     # me "There is another thing that makes me curious."
-    me "There is another thing that makes me curious."
+    me "Hay otra cosa que me da curiosidad."
 
 # game/characters/rhainda/speak.rpy:86
 translate spanish speak_rhainda_questions_26837bcd:
 
     # rhainda "Yes, I have noticed your abnormal interest in me."
-    rhainda "Yes, I have noticed your abnormal interest in me."
+    rhainda "Si, he notado tu interés anormal en mí."
 
 # game/characters/rhainda/speak.rpy:87
 translate spanish speak_rhainda_questions_d80daedb:
 
     # me "You're an interesting and original person."
-    me "You're an interesting and original person."
+    me "Eres una persona interesante y original."
 
 # game/characters/rhainda/speak.rpy:91
 translate spanish speak_rhainda_questions_6b36350a:
 
     # rhainda "I know, I'm awesome."
-    rhainda "I know, I'm awesome."
+    rhainda "Lo sé, soy genial."
 
 # game/characters/rhainda/speak.rpy:92
 translate spanish speak_rhainda_questions_3820771a:
@@ -172,79 +172,79 @@ translate spanish speak_rhainda_questions_3820771a:
 translate spanish speak_rhainda_questions_ef1ebca9:
 
     # rhainda "So what else would you like to know about me?"
-    rhainda "So what else would you like to know about me?"
+    rhainda "Entonces, ¿qué más te gustaría saber sobre mí?"
 
 # game/characters/rhainda/speak.rpy:97
 translate spanish speak_rhainda_questions_809b460c:
 
     # me "How did it began? What made a predator to go through 180 degrees change?"
-    me "How did it began? What made a predator to go through 180 degrees change?"
+    me "¿Cómo empezó? ¿Qué hizo que un depredador pasara por un cambio de 180 grados?"
 
 # game/characters/rhainda/speak.rpy:101
 translate spanish speak_rhainda_questions_3faa4379:
 
     # rhainda "Oh, so it's the same topic."
-    rhainda "Oh, so it's the same topic."
+    rhainda "Oh, así que es el mismo tema."
 
 # game/characters/rhainda/speak.rpy:105
 translate spanish speak_rhainda_questions_3cd8609a:
 
     # rhainda "Once I had seen a dying deer. It was in pain, trying its best to keep its eyes open for just a second longer."
-    rhainda "Once I had seen a dying deer. It was in pain, trying its best to keep its eyes open for just a second longer."
+    rhainda "Una vez vi un ciervo moribundo. Estaba dolorido, haciendo todo lo posible por mantener los ojos abiertos solo un segundo más."
 
 # game/characters/rhainda/speak.rpy:106
 translate spanish speak_rhainda_questions_80a970ac:
 
     # rhainda "A monster has attacked it, it had eaten its legs, and left it to bleed out."
-    rhainda "A monster has attacked it, it had eaten its legs, and left it to bleed out."
+    rhainda "Un monstruo lo atacó, le comió las piernas y lo dejó desangrarse."
 
 # game/characters/rhainda/speak.rpy:107
 translate spanish speak_rhainda_questions_3f5a9f5f:
 
     # me "That's cruel.."
-    me "That's cruel.."
+    me "Eso es cruel..."
 
 # game/characters/rhainda/speak.rpy:111
 translate spanish speak_rhainda_questions_484b0e92:
 
     # rhainda "There was nothing I could do to help it. I could only watch it die in a terrible suffering..."
-    rhainda "There was nothing I could do to help it. I could only watch it die in a terrible suffering..."
+    rhainda "No pude hacer nada para ayudarlo. Solo pude verlo morir en un terrible sufrimiento..."
 
 # game/characters/rhainda/speak.rpy:112
 translate spanish speak_rhainda_questions_7b755e76:
 
     # rhainda "I was disgusted by all the blood I was covered with.. I felt bad.. I felt the world is wrong.."
-    rhainda "I was disgusted by all the blood I was covered with.. I felt bad.. I felt the world is wrong.."
+    rhainda "Estaba asqueada por toda la sangre con la que estaba cubierta... Me sentí mal... Sentí que el mundo estaba mal..."
 
 # game/characters/rhainda/speak.rpy:113
 translate spanish speak_rhainda_questions_6fc24127:
 
     # rhainda "I asked myself - Why? Why did the monster did it? It was not because it was hungry. It did it for pleasure.."
-    rhainda "I asked myself - Why? Why did the monster did it? It was not because it was hungry. It did it for pleasure.."
+    rhainda "Me pregunté - ¿Por qué? ¿Por qué lo hizo el monstruo? No fue porque tuviera hambre. Lo hizo por placer..."
 
 # game/characters/rhainda/speak.rpy:114
 translate spanish speak_rhainda_questions_85eb7a94:
 
     # rhainda "It has left a mark on me.."
-    rhainda "It has left a mark on me.."
+    rhainda "Me ha dejado una marca..."
 
 # game/characters/rhainda/speak.rpy:118
 translate spanish speak_rhainda_questions_279ca5d2:
 
     # rhainda "Since that day, I decided to not cause any pain to any living being."
-    rhainda "Since that day, I decided to not cause any pain to any living being."
+    rhainda "Desde ese día, decidí no causar ningún dolor a ningún ser vivo."
 
 # game/characters/rhainda/speak.rpy:119
 translate spanish speak_rhainda_questions_d23ce5b1:
 
     # me "Besides the time you knock out the guys to fuck them?"
-    me "Besides the time you knock out the guys to fuck them?"
+    me "¿Además de la vez que noqueas a los tipos para follarlos?"
 
 # game/characters/rhainda/speak.rpy:123
 translate spanish speak_rhainda_questions_5aa9341a:
 
     # rhainda "They don't lose out at all. It's their good luck to get my attention."
-    rhainda "They don't lose out at all. It's their good luck to get my attention."
+    rhainda "Ellos no pierden en lo absoluto. Es su buena suerte llamar mi atención."
 
 # game/characters/rhainda/speak.rpy:124
 translate spanish speak_rhainda_questions_3820771a_1:
@@ -256,7 +256,7 @@ translate spanish speak_rhainda_questions_3820771a_1:
 translate spanish speak_rhainda_questions_a286fd93:
 
     # rhainda "Don't tell me you didn't like it. You even brought me here~"
-    rhainda "Don't tell me you didn't like it. You even brought me here~"
+    rhainda "No me digas que no te gustó. Incluso me trajiste aquí~"
 
 # game/characters/rhainda/speak.rpy:129
 translate spanish speak_rhainda_questions_3820771a_2:
@@ -268,127 +268,127 @@ translate spanish speak_rhainda_questions_3820771a_2:
 translate spanish speak_rhainda_questions_e85c21e0:
 
     # rhainda "I told you to not ask about the ducks..."
-    rhainda "I told you to not ask about the ducks..."
+    rhainda "Te dije que no preguntaras por los patos..."
 
 # game/characters/rhainda/speak.rpy:138
 translate spanish speak_rhainda_questions_2f9a517e:
 
     # me "I'm like really curious, though."
-    me "I'm like really curious, though."
+    me "Pero tengo mucha curiosidad."
 
 # game/characters/rhainda/speak.rpy:142
 translate spanish speak_rhainda_questions_d1276f98:
 
     # rhainda "Eh... Fine."
-    rhainda "Eh... Fine."
+    rhainda "Eh... Bien."
 
 # game/characters/rhainda/speak.rpy:146
 translate spanish speak_rhainda_questions_d2a5dc97:
 
     # rhainda "I once knew a duck girl."
-    rhainda "I once knew a duck girl."
+    rhainda "Una vez conocí a una chica pato."
 
 # game/characters/rhainda/speak.rpy:147
 translate spanish speak_rhainda_questions_3fada81e:
 
     # me "Duck girl?"
-    me "Duck girl?"
+    me "¿Chica pato?"
 
 # game/characters/rhainda/speak.rpy:148
 translate spanish speak_rhainda_questions_4e08c081:
 
     # rhainda "Yeah, a fucking duck girl. Can you even imagine a duck girl?"
-    rhainda "Yeah, a fucking duck girl. Can you even imagine a duck girl?"
+    rhainda "Sí, una puta chica pato. ¿Te imaginas una chica pato?"
 
 # game/characters/rhainda/speak.rpy:149
 translate spanish speak_rhainda_questions_f47ceb58:
 
     # me "It's hard.."
-    me "It's hard.."
+    me "Difícilmente..."
 
 # game/characters/rhainda/speak.rpy:150
 translate spanish speak_rhainda_questions_7f979c51:
 
     # rhainda "Exactly."
-    rhainda "Exactly."
+    rhainda "Exacto."
 
 # game/characters/rhainda/speak.rpy:151
 translate spanish speak_rhainda_questions_68bf8bd2:
 
     # me "What did she do?"
-    me "What did she do?"
+    me "¿Qué fue lo que hizo?"
 
 # game/characters/rhainda/speak.rpy:152
 translate spanish speak_rhainda_questions_0101d967:
 
     # rhainda "Nothing specific. She was just an annoying person."
-    rhainda "Nothing specific. She was just an annoying person."
+    rhainda "Nada específico. Solo era una persona molesta."
 
 # game/characters/rhainda/speak.rpy:153
 translate spanish speak_rhainda_questions_b7e67018:
 
     # rhainda "She was so stupid I lost my will to live. She was just another level."
-    rhainda "She was so stupid I lost my will to live. She was just another level."
+    rhainda "Era tan estúpida que perdí las ganas de vivir. Era simplemente a otro nivel."
 
 # game/characters/rhainda/speak.rpy:154
 translate spanish speak_rhainda_questions_a3a80b8d:
 
     # rhainda "She just completely missed the reality when coming to this world. I really don't know how this girl survived in the wilderness."
-    rhainda "She just completely missed the reality when coming to this world. I really don't know how this girl survived in the wilderness."
+    rhainda "Simplemente se perdió por completo de la realidad cuando vino a este mundo. Realmente no sé cómo esta chica sobrevivió en la naturaleza."
 
 # game/characters/rhainda/speak.rpy:155
 translate spanish speak_rhainda_questions_5df7e50b:
 
     # me "So she was bugging you?"
-    me "So she was bugging you?"
+    me "¿Así que ella te estaba molestando?"
 
 # game/characters/rhainda/speak.rpy:156
 translate spanish speak_rhainda_questions_2e740ca0:
 
     # rhainda "Yes, she did. But it's not just that. She was just an idiot. Straight away idiot. She knew no logic nor reason. She pissed like everyone she met."
-    rhainda "Yes, she did. But it's not just that. She was just an idiot. Straight away idiot. She knew no logic nor reason. She pissed like everyone she met."
+    rhainda "Si, lo hacía. Pero no es solo eso. Era solo una idiota. Inmediatamente idiota. No conocía la lógica ni la razón. Fastidiaba a todos los que conocía."
 
 # game/characters/rhainda/speak.rpy:157
 translate spanish speak_rhainda_questions_bec3efa8:
 
     # me "I get it."
-    me "I get it."
+    me "Lo entiendo."
 
 # game/characters/rhainda/speak.rpy:158
 translate spanish speak_rhainda_questions_2daac77a:
 
     # rhainda "I don't think you do. The tragedy like this can only be experienced to understand it."
-    rhainda "I don't think you do. The tragedy like this can only be experienced to understand it."
+    rhainda "No creo que lo hagas. Una tragedia como esta solo se puede experimentar para comprenderla."
 
 # game/characters/rhainda/speak.rpy:159
 translate spanish speak_rhainda_questions_cc0941fd:
 
     # me "Haha, fine. Cheer up."
-    me "Haha, fine. Cheer up."
+    me "Haha, bien. Anímate."
 
 # game/characters/rhainda/speak.rpy:163
 translate spanish speak_rhainda_questions_dc406ba7:
 
     # rhainda "You got what you asked for. Happy?"
-    rhainda "You got what you asked for. Happy?"
+    rhainda "Tienes lo que pediste. ¿Feliz?"
 
 # game/characters/rhainda/speak.rpy:164
 translate spanish speak_rhainda_questions_16ef076b:
 
     # me "Yeah. It was hilarious to listen to."
-    me "Yeah. It was hilarious to listen to."
+    me "Sí. Fue hilarante escucharlo."
 
 # game/characters/rhainda/speak.rpy:168
 translate spanish speak_rhainda_questions_cb375910:
 
     # rhainda "I'm going to leave.."
-    rhainda "I'm going to leave.."
+    rhainda "Me voy..."
 
 # game/characters/rhainda/speak.rpy:169
 translate spanish speak_rhainda_questions_7a3a2e10:
 
     # me "Yeah, sure. Try me."
-    me "Yeah, sure. Try me."
+    me "Sí, seguro. Pruébame."
 
 # game/characters/rhainda/speak.rpy:170
 translate spanish speak_rhainda_questions_de6fc375:
@@ -406,7 +406,7 @@ translate spanish speak_rhainda_questions_3820771a_3:
 translate spanish speak_rhainda_questions_909d0c66:
 
     # rhainda "Whatever. I'm done talking with you."
-    rhainda "Whatever. I'm done talking with you."
+    rhainda "Lo que sea. He terminado de hablar contigo."
 
 # game/characters/rhainda/speak.rpy:173
 translate spanish speak_rhainda_questions_282f3876:

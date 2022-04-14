@@ -255,7 +255,7 @@ translate spanish strings:
 
     # game/variables/tips.rpy:4
     old "I wonder if this wench will come to my bed again."
-    new "Me pregunto si esta chica vendrá a mi cama otra vez."
+    new "Me pregunto si esta muchacha vendrá a mi cama otra vez."
 
     # game/variables/tips.rpy:4
     old "I want to have some fun with her. Playroom would be useful."

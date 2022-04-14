@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/mina/ev_1.rpy:6
 translate spanish mina_1_12cdbd09:
@@ -384,7 +384,7 @@ translate spanish strings:
 
     # game/characters/mina/ev_1.rpy:23
     old "I'm not your concern"
-    new "I'm not your concern"
+    new "No soy de tu incumbencia"
 
     # game/characters/mina/ev_1.rpy:78
     old "[[Sarcasm] I think I love her!"
@@ -397,11 +397,10 @@ translate spanish strings:
     # game/characters/mina/ev_1.rpy:78
     old "She is great"
     new "Ella es genial"
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 
     # game/characters/mina/ev_1.rpy:64
     old "She seems to believe I'm courting Lexi. This thought makes her excited."
-    new "She seems to believe I'm courting Lexi. This thought makes her excited."
-
+    new "Parece creer que estoy cortejando a Lexi. Esta idea la emociona."

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/mina/sleepover.rpy:17
 translate spanish sleep_with_mina_3c72ebde:

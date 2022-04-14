@@ -154,7 +154,7 @@ translate spanish alice_1_2_0ead946a:
 translate spanish alice_1_2_6cbb5942:
 
     # th "Was I ever this nervous before? It's sooo awkward, I guess I can forget about living here now.."
-    th "¿Alguna vez estuve así de nervioso? Es tan incómodo, creo que puedo olvidarme de vivir aquí ahora..."
+    th "¿Alguna vez estuve así de nervioso? Es taaan incómodo, creo que puedo olvidarme de vivir aquí ahora..."
 
 # game/characters/alice/ev_1.rpy:67
 translate spanish alice_1_2_53a52211:

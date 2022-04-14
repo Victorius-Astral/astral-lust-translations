@@ -233,3 +233,10 @@ translate spanish strings:
     # game/variables/lists/sexpos.rpy:3
     old "Group - Threesome - Two Females"
     new "Grupo - Trío - Dos Mujeres"
+# : Translation updated at 2022-03-30 13:03
+
+translate spanish strings:
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Footjob - Sleeping"
+    new "Con pies - Durmiendo"

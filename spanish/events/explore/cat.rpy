@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/events/explore/cat.rpy:11
 translate spanish explore_cat_eab766c3:
@@ -363,7 +363,7 @@ translate spanish strings:
     # game/events/explore/cat.rpy:124
     old "I named it [cat]."
     new "Lo nombré [cat]."
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 

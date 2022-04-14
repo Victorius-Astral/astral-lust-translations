@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/mina/ev_13.rpy:10
 translate spanish mina_13_f461ab48:
@@ -942,7 +942,7 @@ translate spanish strings:
     old "Succumb"
     new "Sucumbe"
 
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/characters/mina/ev_13.rpy:39
 translate spanish mina_13_0be25483:

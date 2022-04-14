@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/grace/ev_2.rpy:3
 translate spanish grace_2_37163545:
@@ -445,7 +445,7 @@ translate spanish strings:
     # game/characters/grace/ev_2.rpy:39
     old "Ask about her flowers"
     new "Pregunta por sus flores"
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 # game/characters/grace/ev_2.rpy:38
 translate spanish grace_2_dd6e1385:

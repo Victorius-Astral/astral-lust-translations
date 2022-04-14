@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/mina/ev_7.rpy:3
 translate spanish mina_7_2730b35a:
@@ -465,13 +465,13 @@ translate spanish strings:
     # game/characters/mina/ev_7.rpy:128
     old "Reassure her"
     new "Tranquilízala"
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 # game/characters/mina/ev_7.rpy:118
 translate spanish mina_7_2_d61975be:
 
     # mina "Naturally. How could I forget?"
-    mina "Naturally. How could I forget?"
+    mina "Naturalmente. ¿Cómo podría olvidarlo?"
 
 translate spanish strings:
 

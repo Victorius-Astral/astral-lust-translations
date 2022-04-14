@@ -1469,3 +1469,244 @@ translate spanish strings:
     # game/characters/grace/speak.rpy:366
     old "She is 21 years old."
     new "Ella tiene 21 años."
+# : Translation updated at 2022-03-30 13:03
+
+# game/characters/grace/speak.rpy:6
+translate spanish speak_grace_fdb4e830:
+
+    # grace "..."
+    grace "..."
+
+# game/characters/grace/speak.rpy:7
+translate spanish speak_grace_1cb97f49:
+
+    # th "Seems she's angry at me.."
+    th "Parece que está enfadada conmigo..."
+
+# game/characters/grace/speak.rpy:21
+translate spanish speak_grace_menu_angry_04cf02be:
+
+    # grace "Hi."
+    grace "Hola."
+
+# game/characters/grace/speak.rpy:25
+translate spanish speak_grace_menu_angry_e579606d:
+
+    # grace "What do you want?"
+    grace "¿Qué quieres?"
+
+# game/characters/grace/speak.rpy:471
+translate spanish speak_grace_apology_rose_fdb4e830:
+
+    # grace "..."
+    grace "..."
+
+# game/characters/grace/speak.rpy:472
+translate spanish speak_grace_apology_rose_01a0cb8d:
+
+    # me "I know you want it."
+    me "Sé que la quieres."
+
+# game/characters/grace/speak.rpy:473
+translate spanish speak_grace_apology_rose_fdb4e830_1:
+
+    # grace "..."
+    grace "..."
+
+# game/characters/grace/speak.rpy:474
+translate spanish speak_grace_apology_rose_b7d6b3b0:
+
+    # me "[grace], a rose. Lively and beautiful just like you."
+    me "[grace], una rosa. Brillante y hermosa, justo como tú."
+
+# game/characters/grace/speak.rpy:475
+translate spanish speak_grace_apology_rose_6d39208d:
+
+    # grace "You're bad."
+    grace "Eres malo."
+
+# game/characters/grace/speak.rpy:476
+translate spanish speak_grace_apology_rose_ecd7b870:
+
+    # me "Then you should take it even more, don't let in lay in bad hands."
+    me "Entonces con más razón deberías tomarla, no dejes que quede en malas manos."
+
+# game/characters/grace/speak.rpy:480
+translate spanish speak_grace_apology_rose_0a928bf9:
+
+    # grace "Hmmm.."
+    grace "Hmmm..."
+
+# game/characters/grace/speak.rpy:481
+translate spanish speak_grace_apology_rose_45649d40:
+
+    # me "Come on, don't lie to yourself. Look at it, it wants you to get it."
+    me "Vamos, no te engañes. Mírala, quiere que la tengas."
+
+# game/characters/grace/speak.rpy:485
+translate spanish speak_grace_apology_rose_d68a5b2e:
+
+    # grace "Gimme~"
+    grace "Dame~"
+
+# game/characters/grace/speak.rpy:486
+translate spanish speak_grace_apology_rose_202a8b31:
+
+    # me "Of course. Here."
+    me "Por supuesto. Toma."
+
+# game/characters/grace/speak.rpy:493
+translate spanish speak_grace_apology_rose_e8954ecc:
+
+    # grace "Hehe~ Maybe you're not that bad after all.."
+    grace "Hehe~ Tal vez no seas tan malo después de todo..."
+
+# game/characters/grace/speak.rpy:494
+translate spanish speak_grace_apology_rose_eeb4d777:
+
+    # th "You're really simple minded.."
+    th "Eres realmente simple de mente..."
+
+# game/characters/grace/speak.rpy:495
+translate spanish speak_grace_apology_rose_001b179c:
+
+    # me "Are we good?"
+    me "¿Estamos bien?"
+
+# game/characters/grace/speak.rpy:496
+translate spanish speak_grace_apology_rose_7402cda2:
+
+    # grace "Mm."
+    grace "Mm."
+
+# game/characters/grace/speak.rpy:497
+translate spanish speak_grace_apology_rose_eee72d0b:
+
+    # me "Cool."
+    me "Genial."
+
+# game/characters/grace/speak.rpy:498
+translate spanish speak_grace_apology_rose_858191de:
+
+    # grace "What do you want to talk about?"
+    grace "¿De qué quieres hablar?"
+
+# game/characters/grace/speak.rpy:503
+translate spanish speak_grace_apology_8e055792:
+
+    # me "I'm really sorry, [grace]."
+    me "Lo siento mucho, [grace]."
+
+# game/characters/grace/speak.rpy:504
+translate spanish speak_grace_apology_fdb4e830:
+
+    # grace "..."
+    grace "..."
+
+# game/characters/grace/speak.rpy:505
+translate spanish speak_grace_apology_b6616c50:
+
+    # me "Can you at least look at me?"
+    me "¿Podrías al menos mirarme?"
+
+# game/characters/grace/speak.rpy:506
+translate spanish speak_grace_apology_6d39208d:
+
+    # grace "You're bad."
+    grace "Eres malo."
+
+# game/characters/grace/speak.rpy:509
+translate spanish speak_grace_apology_913b1252:
+
+    # me "I know. I did bad, but I can't get better by myself. I need you to make me a better person."
+    me "Lo sé. Hice mal, pero no puedo mejorar solo. Necesito que me hagas una mejor persona."
+
+# game/characters/grace/speak.rpy:513
+translate spanish speak_grace_apology_3c71d638:
+
+    # grace "Really?"
+    grace "¿De verdad?"
+
+# game/characters/grace/speak.rpy:514
+translate spanish speak_grace_apology_960a60a5:
+
+    # me "Yes, I can't do this on my own."
+    me "Sí, no puedo hacer esto por mi cuenta."
+
+# game/characters/grace/speak.rpy:515
+translate spanish speak_grace_apology_744a58bd:
+
+    # grace "Lexi told me we should help each other."
+    grace "Lexi me dijo que deberíamos ayudarnos unos a otros."
+
+# game/characters/grace/speak.rpy:516
+translate spanish speak_grace_apology_1603e86f:
+
+    # me "You see?"
+    me "¿Ves?"
+
+# game/characters/grace/speak.rpy:521
+translate spanish speak_grace_apology_e0b768cd:
+
+    # grace "Alright, I'll give you a chance, but you need to treasure it! [[{cha}Charisma check{/cha} {trust}passed{/trust}]"
+    grace "Está bien, te daré una oportunidad, ¡pero debes atesorarla! [[{cha}Carisma{/cha} {trust}suficiente{/trust}]"
+
+# game/characters/grace/speak.rpy:522
+translate spanish speak_grace_apology_1f739f41:
+
+    # me "Of course!"
+    me "¡Por supuesto!"
+
+# game/characters/grace/speak.rpy:523
+translate spanish speak_grace_apology_664443c7:
+
+    # me "Thanks [grace]!"
+    me "¡Gracias [grace]!"
+
+# game/characters/grace/speak.rpy:527
+translate spanish speak_grace_apology_7402cda2:
+
+    # grace "Mm."
+    grace "Mm."
+
+# game/characters/grace/speak.rpy:528
+translate spanish speak_grace_apology_816d1fb8:
+
+    # grace "So, what have you wanted to talk about?"
+    grace "Entonces, ¿de qué querías hablar?"
+
+# game/characters/grace/speak.rpy:532
+translate spanish speak_grace_apology_8b75b555:
+
+    # me "We all make mistakes. What I did was just a mistake."
+    me "Todos cometemos errores. Lo que hice fue solo un error."
+
+# game/characters/grace/speak.rpy:533
+translate spanish speak_grace_apology_10a50ae0:
+
+    # grace "You're just bad."
+    grace "Simplemente eres malo."
+
+# game/characters/grace/speak.rpy:534
+translate spanish speak_grace_apology_d25d47b9:
+
+    # me "[grace].."
+    me "[grace]..."
+
+# game/characters/grace/speak.rpy:535
+translate spanish speak_grace_apology_cffb0b45:
+
+    # grace "You did it because you're mean, I don't want to talk with you. [[{cha}Charisma check{/cha} {bad}failed{/bad}]"
+    grace "Lo hiciste porque eres malo, no quiero hablar contigo. [[{cha}Carisma{/cha} {bad}insuficiente{/bad}]"
+
+# game/characters/grace/speak.rpy:536
+translate spanish speak_grace_apology_a586aebf:
+
+    # th "Seems it won't be that easy."
+    th "Parece que no será tan fácil."
+
+translate spanish strings:
+
+    # game/characters/grace/speak.rpy:9
+    old "Give her a rose as an apology {#visible}"
+    new "Dale una rosa como disculpa {#visible}"

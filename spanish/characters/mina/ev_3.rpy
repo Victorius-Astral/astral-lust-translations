@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/mina/ev_3.rpy:9
 translate spanish mina_3_2b92aba6:
@@ -597,7 +597,7 @@ translate spanish strings:
     # game/characters/mina/ev_3.rpy:100
     old "No, do it"
     new "No, hazlo"
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 # game/characters/mina/ev_3.rpy:66
 translate spanish mina_3_1_aace8f0b:
@@ -628,11 +628,10 @@ translate spanish strings:
     # game/characters/mina/ev_3.rpy:236
     old "She has a crush on Alice."
     new "Le gusta Alice."
-# TODO: Translation updated at 2022-02-26 14:57
+# : Translation updated at 2022-02-26 14:57
 
 # game/characters/mina/ev_3.rpy:40
 translate spanish mina_3_e9e0750b:
 
     # mina "{quiet}Ahh~{/quiet}"
     mina "{quiet}Ahh~{/quiet}"
-

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/characters/savenia/ev_3.rpy:4
 translate spanish savenia_3_0416811d:

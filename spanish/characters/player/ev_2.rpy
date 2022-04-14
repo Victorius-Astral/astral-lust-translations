@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/player/ev_2.rpy:6
 translate spanish main_2_25ec53a9:
@@ -299,15 +299,14 @@ translate spanish main_2_0e11d432:
 
     # "Not saying anything more she leaves you alone. After taking a long shower you return to your room."
     "Sin decir nada más te deja solo. Después de darte una larga ducha regresas a tu habitación."
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 
     # game/characters/player/ev_2.rpy:90
     old "Me"
-    new "Me"
+    new "Yo"
 
     # game/characters/player/ev_2.rpy:90
     old "I have encountered a cultist. He knew my name. Astonishingly he said they didn't know how The End would look; they were deceived by their leader. Nevertheless, this encounter gives me the creeps. The cultist committed suicide after thinking of the cult leader, just how terrifying is he?"
-    new "I have encountered a cultist. He knew my name. Astonishingly he said they didn't know how The End would look; they were deceived by their leader. Nevertheless, this encounter gives me the creeps. The cultist committed suicide after thinking of the cult leader, just how terrifying is he?"
-
+    new "Me he encontrado con un cultista. Sabía mi nombre. Sorprendentemente, dijo que no sabían cómo El Fin sería; fueron engañados por su líder. Sin embargo, este encuentro me da escalofríos. El cultista se suicidó después de pensar en el líder del culto, ¿qué tan aterrador es?"

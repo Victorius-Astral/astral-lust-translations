@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/kiara/ev_2.rpy:6
 translate spanish kiara_2_325a0512:
@@ -334,7 +334,7 @@ translate spanish strings:
     old "Explain it to me again"
     new "Explícamelo de nuevo"
 
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 

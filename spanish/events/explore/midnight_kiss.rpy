@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/events/explore/midnight_kiss.rpy:11
 translate spanish midnight_kiss_b558c213:

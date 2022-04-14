@@ -44,3 +44,10 @@ translate spanish strings:
     # game/variables/classes/Inventory.rpy:170
     old "Lost all items."
     new "Todos los objetos perdidos."
+# : Translation updated at 2022-03-30 13:03
+
+translate spanish strings:
+
+    # game/variables/classes/Inventory.rpy:71
+    old "Missing {} {}"
+    new "No hay {} {}"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/events/activities/pyjamas_party.rpy:16
 translate spanish girl_night_10ba0bee:
@@ -1948,25 +1948,25 @@ translate spanish strings:
     # game/events/activities/pyjamas_party.rpy:483
     old "No diamonds for you"
     new "Ningún diamante para ti"
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/events/activities/pyjamas_party.rpy:66
 translate spanish girl_night_part2_b0665fe2:
 
     # alice "Come on in."
-    alice "Come on in."
+    alice "Entra."
 
 # game/events/activities/pyjamas_party.rpy:79
 translate spanish girl_night_part2_aa95ca6f:
 
     # me "So, what were you talking about."
-    me "So, what were you talking about."
+    me "Así que, ¿de qué hablaban?"
 
 # game/events/activities/pyjamas_party.rpy:87
 translate spanish girl_night_part2_379863b3:
 
     # grace "Mm... Alice was telling us stories about your.."
-    grace "Mm... Alice was telling us stories about your.."
+    grace "Mm... Alice nos contaba historias de tu..."
 
 # game/events/activities/pyjamas_party.rpy:133
 translate spanish girl_night_part2_0f14419f:
@@ -2050,5 +2050,4 @@ translate spanish strings:
 
     # game/events/activities/pyjamas_party.rpy:377
     old "[alice] wants a cloth."
-    new "[alice] wants a cloth."
-
+    new "[alice] quiere una tela."

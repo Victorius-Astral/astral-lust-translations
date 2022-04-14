@@ -64,13 +64,13 @@ translate spanish alice_5_1_e8f40812:
 translate spanish alice_5_1_f49ec515:
 
     # th "I'm risking it for real?"
-    th "¿Me estoy arriesgando de verdad?"
+    th "¿De verdad me voy a arriesgar?"
 
 # game/characters/alice/ev_5.rpy:35
 translate spanish alice_5_1_118cccfe:
 
     # th "There won't be a reward without risks."
-    th "No habrá recompensa sin riesgos."
+    th "No hay recompensa sin riesgos."
 
 # game/characters/alice/ev_5.rpy:37
 translate spanish alice_5_1_6ad34a69:
@@ -124,7 +124,7 @@ translate spanish alice_5_1_3d8e4b2a:
 translate spanish alice_5_1_9908a727:
 
     # "As you were praising yourself you didn't notice that [alice] stopped and is looking at you beet red."
-    "Mientras te elogiabas a ti mismo, no te diste cuenta de que [Alice] se detuvo y te está mirando roja como tomate."
+    "Mientras te elogiabas a ti mismo, no te diste cuenta de que [alice] se detuvo y te está mirando roja como tomate."
 
 # game/characters/alice/ev_5.rpy:51
 translate spanish alice_5_1_203f0bb7:
@@ -286,7 +286,7 @@ translate spanish alice_5_2_5e89a703:
 translate spanish alice_5_2_6de696ef:
 
     # "She seems to melt under your service."
-    "She seems to melt under your service."
+    "Ella parece derretirse bajo tu servicio."
 
 # game/characters/alice/ev_5.rpy:109
 translate spanish alice_5_2_093373cb:

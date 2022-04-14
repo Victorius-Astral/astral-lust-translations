@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/mina/speak.rpy:7
 translate spanish speak_mina_a7538388:
@@ -452,7 +452,7 @@ translate spanish strings:
     old "Tell me something about yourself"
     new "Háblame de ti"
 
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/characters/mina/speak.rpy:48
 translate spanish speak_mina_menu1_ac7ec160:
@@ -1052,14 +1052,14 @@ translate spanish strings:
     old "Tidy up the boxes (Duration: [minaTasks.tidyUp.duration]) {loot}(Materials+){/loot} {#visible}"
     new "Organiza las cajas (Duración: [minaTasks.tidyUp.duration]) {loot}(Materiales+){/loot} {#visible}"
 
-# TODO: Translation updated at 2022-01-29 20:12
+# : Translation updated at 2022-01-29 20:12
 
 translate spanish strings:
 
     # game/characters/mina/speak.rpy:154
     old "The hotel was under construction before The End. There is a lot of unoccupied space I can use to expand the community."
-    new "El hotel estaba en construcción antes de El Fin. Hay mucho espacio desocupado que puedo usar para expandir la comunidad."
+    new "El hotel estaba en construcción antes de El Fin. Hay mucho espacio libre que puedo usar para expandir la comunidad."
 
     # game/characters/mina/speak.rpy:161
     old "She likes pink."
-    new "El gusta el rosa."
+    new "Le gusta el rosa."

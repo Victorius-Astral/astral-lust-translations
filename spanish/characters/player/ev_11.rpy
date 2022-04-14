@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:31
+﻿# : Translation updated at 2021-05-12 10:31
 
 # game/characters/player/ev_11.rpy:6
 translate spanish main_11_c0147db6:
@@ -172,7 +172,7 @@ translate spanish main_11_219f2b5b:
 translate spanish main_11_cbf599eb:
 
     # kiara ".. is beyond our richest imagination."
-    kiara "... eEstá mas allá de nuestra más rica imaginación."
+    kiara "...está mas allá de nuestra más rica imaginación."
 
 # game/characters/player/ev_11.rpy:63
 translate spanish main_11_1a30b9f0:
@@ -438,7 +438,7 @@ translate spanish main_11_ab92d0c8:
     # kiara "Now, I'll send you back. I need to rest for a while."
     kiara "Ahora, te enviaré de vuelta. Necesito descansar un poco."
 
-# TODO: Translation updated at 2022-01-25 22:41
+# : Translation updated at 2022-01-25 22:41
 
 # game/characters/player/ev_11.rpy:68
 translate spanish main_11_968c1d3d:
@@ -456,7 +456,7 @@ translate spanish main_11_659d0dfa:
 translate spanish main_11_3b764037:
 
     # me "... What will happen, exactly?"
-    me "... ¿Qué pasará, exactamente?"
+    me "...¿Qué pasará, exactamente?"
 
 # game/characters/player/ev_11.rpy:120
 translate spanish main_11_fad6d3d3:

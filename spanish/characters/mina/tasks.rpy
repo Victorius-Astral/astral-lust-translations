@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-25 22:41
+﻿# : Translation updated at 2022-01-25 22:41
 
 # game/characters/mina/tasks.rpy:5
 translate spanish task_mina_tidyup_e7832ca0:
