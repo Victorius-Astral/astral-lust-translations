@@ -142,7 +142,7 @@ translate vietnamese d_Millionaire_2_menu1_b80b8eab:
 translate vietnamese d_Millionaire_2_menu1_c9b9573b:
 
     # secretary "No, sir. I'm sorry. I've overstepped my boundaries."
-    secretary "Không, thưa ngài. Tôi xin lôi. Tôi đã vượt quá ranh giới của mình."
+    secretary "Không, thưa ngài. Tôi xin lỗi. Tôi đã vượt quá ranh giới của mình."
 
 # game/events/dreams/millionaire.rpy:74
 translate vietnamese d_Millionaire_2_menu1_fd2499ce:

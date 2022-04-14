@@ -300,7 +300,7 @@ translate vietnamese strings:
 
     # game/combat/battle/tutorial.rpy:85
     old "Use Giant card to give me the boost I need. You'll see it has given me the Empower instead of you. Sometimes, the attack is the best defense. When you want to cast a card on yourself, select yourself!"
-    new "Sử dụng thẻ Khổng Lồ Hóa để tăng điểm cho em. Anh sẽ thấy nó đã trao cho em tăng sức mạnh thay vì anh. Đôi khi, tấn công là cách phòng thủ tốt nhất. Khi anh muốn dùng thẻ cho chính mình, hãy bấm vào bản thân đi!"
+    new "Sử dụng thẻ Khổng Lồ Hóa để tăng điểm cho em. Anh sẽ thấy nó đã trao cho em Cường Hóa thay vì anh. Đôi khi, tấn công là cách phòng thủ tốt nhất. Khi anh muốn dùng thẻ cho chính mình, hãy bấm vào bản thân đi!"
 
     # game/combat/battle/tutorial.rpy:91
     old "Card Targets"

@@ -339,7 +339,7 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "I should ask her more about the extraordinary world. (Main Story at least 12)"
-    new "Mình nên hỏi cô ấy nhiều hơn về thế giới thần thánh. (Cốt chuyện chính ít nhất 12)"
+    new "Mình nên hỏi cô ấy nhiều hơn về thế giới thần thánh. (Cốt truyện chính ít nhất 12)"
 # TODO: Translation updated at 2022-02-19 01:56
 
 translate vietnamese strings:

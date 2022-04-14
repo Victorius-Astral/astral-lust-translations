@@ -136,7 +136,7 @@ translate vietnamese main_1_1_f137d1ac:
 translate vietnamese main_1_1_8f8d3e04:
 
     # th "Something is really wrong here. I need to resist this desire."
-    th "Có điều gì đó thực sự không ổn ở đây. Mình cần phải chống lại sự ham muốn này."
+    th "Có điều gì đó thực sự không ổn ở đây. Mình cần phải chống lại ham muốn này."
 
 # game/characters/player/ev_1.rpy:55
 translate vietnamese main_1_1_2d4bd7f5:

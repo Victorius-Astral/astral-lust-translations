@@ -46,7 +46,7 @@ translate vietnamese lexi_9_e363ece1:
 translate vietnamese lexi_9_03755c10:
 
     # mina "I don't know what we can talk about, though. I don't think any of us understands what happened."
-    mina "Tuy nhiên, em không biết chúng ta có thể nói về điều gì. Em không nghĩ rằng bất kỳ ai trong chúng ta đều hiểu chuyện gì đã xảy ra."
+    mina "Tuy nhiên, em không biết chúng ta có thể nói về điều gì nữa. Em không nghĩ rằng bất kỳ ai trong chúng ta biết được có chuyện gì đã xảy ra đâu."
 
 # game/characters/lexi/ev_9.rpy:27
 translate vietnamese lexi_9_d7760fc7:
@@ -76,7 +76,7 @@ translate vietnamese lexi_9_5f0712c9:
 translate vietnamese lexi_9_49584483:
 
     # me "I'm sorry."
-    me "Anh xin lôi."
+    me "Anh xin lỗi."
 
 # game/characters/lexi/ev_9.rpy:38
 translate vietnamese lexi_9_707b4fdc:
@@ -94,7 +94,7 @@ translate vietnamese lexi_9_28638f70:
 translate vietnamese lexi_9_592640b0:
 
     # lexi "So when we were going to die, the monsters suddenly started floating like they were pulled up by wires..."
-    lexi "Khi chúng ta sắp chết, những con quái vật đột nhiên bắt đầu nổi lên như thể chúng bị kéo lên bởi những sợi dây..."
+    lexi "Khi chúng ta suýt chết, những con quái vật đột nhiên bắt đầu lơ lửng như thể chúng bị kéo lên bởi những sợi dây..."
 
 # game/characters/lexi/ev_9.rpy:45
 translate vietnamese lexi_9_54177b76:
@@ -148,7 +148,7 @@ translate vietnamese lexi_9_74e5e62c:
 translate vietnamese lexi_9_7ce1c7ec:
 
     # lexi "I hope we are safe now, he sent us here after all.."
-    lexi "Em hy vọng bây giờ chúng ta đã an toàn, dù gì đi nữa hắn đã chuyển chúng ta đến đây..."
+    lexi "Em mong là bây giờ chúng ta an toàn rồi, dù gì đi nữa hắn đã chuyển chúng ta về đây mà..."
 
 # game/characters/lexi/ev_9.rpy:65
 translate vietnamese lexi_9_1fd00d07:
@@ -208,7 +208,7 @@ translate vietnamese lexi_9_part2_fb78e35a:
 translate vietnamese lexi_9_part2_70f373a0:
 
     # mina "You didn't, you're the best, [lex_min_s]. No one loves me like you do."
-    mina "Không có đâu chị, chị là tuyệt nhất, [lex_min_s]. Không ai yêu em như chị."
+    mina "Không có đâu chị, chị là tuyệt nhất. Không ai yêu em như chị cả."
 
 # game/characters/lexi/ev_9.rpy:94
 translate vietnamese lexi_9_part2_51d1d83e:
@@ -238,7 +238,7 @@ translate vietnamese lexi_9_part2_40b1dc6a:
 translate vietnamese lexi_9_part2_adee301a:
 
     # lexi "It was like.. the space itself was replaced.."
-    lexi "Nó giống như... chính không gian đã được thay thế..."
+    lexi "Nó giống như... cả cái chiều không gian đã được thay thế vậy..."
 
 # game/characters/lexi/ev_9.rpy:104
 translate vietnamese lexi_9_part2_3820771a:
@@ -262,7 +262,7 @@ translate vietnamese lexi_9_part2_20685152:
 translate vietnamese lexi_9_part2_db22c180:
 
     # mina "Am I supposed to be depressed about this?"
-    mina "Em có nên trầm cảm về điều này không??"
+    mina "Em có nên trầm cảm về điều này không?"
 
 # game/characters/lexi/ev_9.rpy:108
 translate vietnamese lexi_9_part2_3820771a_1:
@@ -274,7 +274,7 @@ translate vietnamese lexi_9_part2_3820771a_1:
 translate vietnamese lexi_9_part2_b531d5db:
 
     # mina "By the way, [me]. That was the worst date ever!"
-    mina "Nhân tiện, [me]. Đó là buổi hẹn hò tệ nhất từ trước đến nay!"
+    mina "Nhân tiện thì, [me]. Đó là buổi hẹn hò tệ nhất từ trước đến nay đấy!"
 
 # game/characters/lexi/ev_9.rpy:112
 translate vietnamese lexi_9_part2_a5fd1178:
@@ -286,7 +286,7 @@ translate vietnamese lexi_9_part2_a5fd1178:
 translate vietnamese lexi_9_part2_df5ac3e7:
 
     # mina "My [lex_min_s] is going to dump you at this rate, get your shit together, man!"
-    mina "[Lex_min_s] của em sẽ đá anh anh với tình trạng này đấy, get your shit together, man!"
+    mina "Nếu cứ tiếp tục cái tình trạng như này thì chị của em sẽ đá anh đấy, get your shit together, man!"
 
 # game/characters/lexi/ev_9.rpy:118
 translate vietnamese lexi_9_part2_28444364:
@@ -304,7 +304,7 @@ translate vietnamese lexi_9_part2_73b84250:
 translate vietnamese lexi_9_part2_f8cdd55a:
 
     # th "Yeah, they are pretty resistant to all this craziness.. or is this just their way of dealing with it?"
-    th "Yeah, họ khá là miễn nhiễm với mấy sự điên loạn này... hay đây chỉ là cách họ đối phó với nó?"
+    th "Yeah, họ khá là miễn nhiễm với mấy sự điên loạn này... hay đây chỉ là cách mà họ đối phó với nó thôi?"
 
 # game/characters/lexi/ev_9.rpy:124
 translate vietnamese lexi_9_part2_52f58795:
@@ -352,7 +352,7 @@ translate vietnamese lexi_9_part2_8fd1a8a9:
 translate vietnamese lexi_9_part2_2ba3e5a5:
 
     # mina "Gosh.. Why keep on torturing ourselves with something we can't understand anyway?"
-    mina "Chúa ơi... Tại sao cứ tự hành hạ bản thân bằng một thứ mà chúng ta không thể hiểu nổi?"
+    mina "Chúa ơi... Tại sao cứ tự hành hạ bản thân bằng một thứ mà chúng ta không thể hiểu nổi vậy?"
 
 # game/characters/lexi/ev_9.rpy:139
 translate vietnamese lexi_9_part2_5427946c:
@@ -430,13 +430,13 @@ translate vietnamese lexi_9_part2_0aae5047:
 translate vietnamese lexi_9_part2_1b3c60b7:
 
     # mina "I'm just joking, take it easy [lex_min_s]."
-    mina "Em chỉ nói đùa thôi, bình tĩnh [lex_min_s]."
+    mina "Em chỉ nói đùa thôi, bình tĩnh đi chị."
 
 # game/characters/lexi/ev_9.rpy:167
 translate vietnamese lexi_9_part2_83591a9a:
 
     # lexi "Don't joke like this.."
-    lexi "Đừng đùa như thế này..."
+    lexi "Đừng đùa như vậy..."
 
 # game/characters/lexi/ev_9.rpy:168
 translate vietnamese lexi_9_part2_3820771a_5:
@@ -460,7 +460,7 @@ translate vietnamese lexi_9_part2_327ea5f3:
 translate vietnamese lexi_9_part2_0278f182:
 
     # lexi "No, that's all..."
-    lexi "Không, đó là tất cả rồi..."
+    lexi "Không, chỉ có vậy thôi..."
 
 # game/characters/lexi/ev_9.rpy:177
 translate vietnamese lexi_9_part2_7d88c680:

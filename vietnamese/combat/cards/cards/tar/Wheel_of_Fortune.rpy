@@ -8,7 +8,7 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/Wheel_of_Fortune.rpy:68
     old "Enemy was strengthened massively, you only slightly."
-    new "Kẻ thù được tăng sức mạnh rất lớn, bạn chỉ được một chút."
+    new "Kẻ thù được tăng sức mạnh rất nhiều, bạn thì chỉ được một chút."
 
     # game/combat/cards/cards/tar/Wheel_of_Fortune.rpy:80
     old "You got nasty wounds!"
@@ -43,4 +43,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/Wheel_of_Fortune.rpy:6
     old "Wheel of Fortune"
-    new "Bánh Xe Của Vận may"
+    new "Bánh Xe Của Vận May"

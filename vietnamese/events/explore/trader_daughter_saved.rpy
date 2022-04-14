@@ -58,13 +58,13 @@ translate vietnamese chased_trader_daughter_66a494f9:
 translate vietnamese chased_trader_daughter_win_796a0216:
 
     # girl "Thank you, sir. What would you like to receive in exchange for your aid?"
-    girl "Cảm ơn anh. Anh muốn nhận được gì để đổi lấy sự giúp đỡ của anh?"
+    girl "Cảm ơn rất nhiều. Anh muốn nhận được gì để đổi lấy sự giúp đỡ của anh vậy?"
 
 # game/events/explore/trader_daughter_saved.rpy:65
 translate vietnamese chased_trader_daughter_win_420b346f:
 
     # me "Wait, that's it? Straight to the point?"
-    me "Chờ đã, vậy á? Đi thẳng vào vấn đề luộn?"
+    me "Chờ đã, vậy thôi á? Đi thẳng vào vấn đề luôn?"
 
 # game/events/explore/trader_daughter_saved.rpy:66
 translate vietnamese chased_trader_daughter_win_0fb72aed:
@@ -76,25 +76,25 @@ translate vietnamese chased_trader_daughter_win_0fb72aed:
 translate vietnamese chased_trader_daughter_win_521845ad:
 
     # me "What if I didn't want anything, and saved you out of the kindness of my heart?"
-    me "Điều gì sẽ xảy ra nếu anh không muốn bất cứ điều gì, và cứu em bằng lòng tốt của trái tim mình?"
+    me "Thế nếu anh không muốn bất cứ điều gì, và cứu em bằng lòng tốt của trái tim mình thì sao?"
 
 # game/events/explore/trader_daughter_saved.rpy:71
 translate vietnamese chased_trader_daughter_win_61d119de:
 
     # girl "You saved me, I'm thankful and I owe you now, so I am paying it back."
-    girl "Anh đã cứu em, em biết ơn và em nợ anh bây giờ, vì vậy em đang trả lại."
+    girl "Anh cứu em, em biết ơn và bây giờ em nợ anh, nên em đang đáp lễ lại thôi."
 
 # game/events/explore/trader_daughter_saved.rpy:72
 translate vietnamese chased_trader_daughter_win_ea4c61db:
 
     # th "Well, she isn't wrong.. That's how it works."
-    th "Chà, cô ấy không sai ... Đó là cách nó hoạt động."
+    th "Chà, em ấy cũng không sai... Đó là cách nó hoạt động."
 
 # game/events/explore/trader_daughter_saved.rpy:73
 translate vietnamese chased_trader_daughter_win_c9ba8a6f:
 
     # girl "If you can't think of anything, how about I say a word to my father? You'll get discount."
-    girl "Nếu anh không thể nghĩ ra bất cứ điều gì, em sẽ nói một câu với cha em thì sao? Anh sẽ được giảm giá."
+    girl "Nếu anh không thể nghĩ ra được cái gì, thì em sẽ nói một câu với cha em rồi anh sẽ được giảm giá."
 
 # game/events/explore/trader_daughter_saved.rpy:74
 translate vietnamese chased_trader_daughter_win_fd18b61d:
@@ -124,7 +124,7 @@ translate vietnamese chased_trader_daughter_discount_12cdeb59:
 translate vietnamese chased_trader_daughter_discount_b2333069:
 
     # me "Want more of me?"
-    me "Muốn nhiều hơn của anh?"
+    me "Muốn nhiều hơn từ anh sao?"
 
 # game/events/explore/trader_daughter_saved.rpy:96
 translate vietnamese chased_trader_daughter_discount_494d4c81:
@@ -142,7 +142,7 @@ translate vietnamese chased_trader_daughter_discount_3b3e54e4:
 translate vietnamese chased_trader_daughter_anal_e3aa0d81:
 
     # girl "Well.. I guess we can do that too."
-    girl "Chà ... Em đoán chúng ta cũng có thể làm được điều đó."
+    girl "Chà... Em đoán chúng ta cũng có thể làm vậy."
 
 # game/events/explore/trader_daughter_saved.rpy:108
 translate vietnamese chased_trader_daughter_anal_c13e2b0d:
@@ -172,7 +172,7 @@ translate vietnamese chased_trader_daughter_anal_482a5df9:
 translate vietnamese chased_trader_daughter_anal_9bbd5938:
 
     # girl "Please fuck me harder, sir."
-    girl "Hãy địt em mạnh hơn nữa."
+    girl "Hãy địt em mạnh hơn nữa đi."
 
 # game/events/explore/trader_daughter_saved.rpy:117
 translate vietnamese chased_trader_daughter_anal_398c788a:
@@ -190,13 +190,13 @@ translate vietnamese chased_trader_daughter_anal_905a86fe:
 translate vietnamese chased_trader_daughter_anal_0c17fb5b:
 
     # girl "You can go.. a bit faster."
-    girl "Anh có thể đi ... nhanh hơn một chút."
+    girl "Anh có thể làm... nhanh hơn một chút."
 
 # game/events/explore/trader_daughter_saved.rpy:122
 translate vietnamese chased_trader_daughter_anal_d3c44522:
 
     # me "Who am I to refuse?"
-    me "Anh là ai mà từ chối?"
+    me "Sao mà từ chối được chứ?"
 
 # game/events/explore/trader_daughter_saved.rpy:123
 translate vietnamese chased_trader_daughter_anal_f9d3736b:
@@ -220,7 +220,7 @@ translate vietnamese chased_trader_daughter_anal_fe3a42c1:
 translate vietnamese chased_trader_daughter_anal_aa93b10c:
 
     # me "Good girl."
-    me "Cô gái ngoan."
+    me "Ngoan."
 
 # game/events/explore/trader_daughter_saved.rpy:129
 translate vietnamese chased_trader_daughter_anal_83339d29:
@@ -298,7 +298,7 @@ translate vietnamese chased_trader_daughter_bj_95070ffb:
 translate vietnamese chased_trader_daughter_bj_9c7c9923:
 
     # "She quickens the pace without you even having to ask."
-    "Cô ấy tăng tốc độ mà bạn không cần phải hỏi."
+    "Cô ấy tăng tốc độ mà bạn không cần bạn phải yêu cầu."
 
 # game/events/explore/trader_daughter_saved.rpy:158
 translate vietnamese chased_trader_daughter_bj_d88995a7:
@@ -316,7 +316,7 @@ translate vietnamese chased_trader_daughter_bj_4909f4ae:
 translate vietnamese chased_trader_daughter_bj_0e4843b5:
 
     # me "Now finish it."
-    me "Bây giờ hãy kết thúc nó."
+    me "Bây giờ hãy kết thúc nó đi."
 
 # game/events/explore/trader_daughter_saved.rpy:163
 translate vietnamese chased_trader_daughter_bj_cf2e86a5:
@@ -346,25 +346,25 @@ translate vietnamese chased_trader_daughter_bj_8688b6e8:
 translate vietnamese chased_trader_daughter_bj_1cd48b61:
 
     # me "Thanks. That was great."
-    me "Thanks. That was great."
+    me "Cảm ơn. Tuyệt lắm đấy."
 
 # game/events/explore/trader_daughter_saved.rpy:172
 translate vietnamese chased_trader_daughter_bj_68ef5c9c:
 
     # girl "That was me thanking you, though. See you again soon?"
-    girl "Đó phải là em cảm ơn anh. Hẹn gặp lại anh trong thời gian sớm nhất?"
+    girl "Em mới phải cảm ơn anh đấy. Hẹn gặp lại anh trong thời gian sớm nhất?"
 
 # game/events/explore/trader_daughter_saved.rpy:173
 translate vietnamese chased_trader_daughter_bj_c6c63b34:
 
     # me "We'll see. Take care until then."
-    me "Rồi ta sẽ thấy. Bảo trọng cho đến lúc đó."
+    me "Ừ. Bảo trọng."
 
 # game/events/explore/trader_daughter_saved.rpy:185
 translate vietnamese chased_trader_daughter_escape_afca26dd:
 
     # me "This isn't working! Let's run in opposite directions!"
-    me "Điều này không hoạt động! Hãy chạy ngược chiều nhau!"
+    me "Thế này không được đâu! Hãy chạy ngược chiều nhau đi!"
 
 # game/events/explore/trader_daughter_saved.rpy:186
 translate vietnamese chased_trader_daughter_escape_18bd3137:
@@ -376,13 +376,13 @@ translate vietnamese chased_trader_daughter_escape_18bd3137:
 translate vietnamese chased_trader_daughter_escape_f7f12b5b:
 
     # th "It's after me, let's try to lose it."
-    th "Nó theo đuổi mình, hãy cố gắng để mất dấu nó."
+    th "Nó theo đuổi mình, hãy cố gắng để mất dấu nó nào."
 
 # game/events/explore/trader_daughter_saved.rpy:193
 translate vietnamese chased_trader_daughter_escape_3bd84888:
 
     # th "Yes! I finally shook it off! Persistent bastard..!"
-    th "Đúng! Cuối cùng mình đã chạy khỏi nó! Tên khốn dai dẳng...!"
+    th "Hay lắm! Cuối cùng mình đã chạy khỏi nó rồi! Tên khốn dai dẳng...!"
 
 # game/events/explore/trader_daughter_saved.rpy:198
 translate vietnamese chased_trader_daughter_escape_e78cf80e:

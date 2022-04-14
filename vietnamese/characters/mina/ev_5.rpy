@@ -10,7 +10,7 @@ translate vietnamese mina_5_6fa06998:
 translate vietnamese mina_5_3028b4ad:
 
     # "You hear someone calling to you, but you are too sleepy to open your eyes."
-    "Bạn nghe thấy ai đó đang gọi bạn, nhưng bạn quá buồn ngủ để có thể mở mắt."
+    "Bạn nghe thấy ai đó đang gọi mình, nhưng bạn quá buồn ngủ để có thể mở mắt ra."
 
 # game/characters/mina/ev_5.rpy:22
 translate vietnamese mina_5_23afe514:
@@ -106,7 +106,7 @@ translate vietnamese mina_5_d9f6f0c6:
 translate vietnamese mina_5_5d77d7fc:
 
     # mina "Sure.."
-    mina "PHải rồi..."
+    mina "Được rồi..."
 
 # game/characters/mina/ev_5.rpy:50
 translate vietnamese mina_5_e0949266:
@@ -304,13 +304,13 @@ translate vietnamese mina_5_da0dc961:
 translate vietnamese mina_5_1efdeb6f:
 
     # lexi "Why did you have to go into bandit territory? Why?!"
-    lexi "Tại sao e phải đi vào lãnh thổ của bọn cướp? Tại sao?!"
+    lexi "Tại sao em lại phải đi vào lãnh thổ của bọn cướp chứ? Tại sao?!"
 
 # game/characters/mina/ev_5.rpy:102
 translate vietnamese mina_5_e269123d:
 
     # th "Fuck!"
-    th "Địt mẹ!"
+    th "Vãi lồn rồi!"
 
 # game/characters/mina/ev_5.rpy:103
 translate vietnamese mina_5_dc7a7d12:
@@ -436,7 +436,7 @@ translate vietnamese mina_5_77a4afa2:
 translate vietnamese mina_5_158eca31:
 
     # th "It's not like this is the first time I've faced death."
-    th "Đây cũng không phải là lần đầu tiên tôi đối mặt với cái chết đâu."
+    th "Mà đây cũng có phải là lần đầu tiên mình đối mặt với cái chết đâu."
 
 # game/characters/mina/ev_5.rpy:141
 translate vietnamese mina_5_91d31b10:
@@ -532,7 +532,7 @@ translate vietnamese mina_5_6_72409522:
 translate vietnamese mina_5_6_7b28913f:
 
     # bandit_leader "You don't seem to ever have a chance for revenge."
-    bandit_leader "Có vẻ như mày không bao giờ có cơ hội đấy rồi."
+    bandit_leader "Có vẻ như là mày sẽ không bao giờ có được cái cơ hội đấy rồi."
 
 # game/characters/mina/ev_5.rpy:208
 translate vietnamese mina_5_6_af59b0cf:
@@ -562,7 +562,7 @@ translate vietnamese mina_5_1_8a387ce0:
 translate vietnamese mina_5_1_0c00c559:
 
     # "As you exit your room you hear weeping coming from downstairs. You head toward the sounds, praying that everyone is fine."
-    "Khi ra khỏi phòng, bạn nghe thấy tiếng khóc từ tầng dưới. Bạn hướng về phía những âm thanh, cầu nguyện rằng mọi người đều ổn."
+    "Khi ra khỏi phòng, bạn nghe thấy tiếng khóc cất lên từ tầng dưới. Bạn hướng về phía những âm thanh, cầu nguyện rằng mọi người đều ổn."
 
 # game/characters/mina/ev_5.rpy:224
 translate vietnamese mina_5_1_bae7134b:
@@ -598,13 +598,13 @@ translate vietnamese mina_5_1_7f6d03e5:
 translate vietnamese mina_5_1_406048c7:
 
     # alice "There is no use crying now, it won't bring him back.."
-    alice "Giờ khóc cũng chả có ích gì đâu, nó sẽ không mang anh ấy trở lại..."
+    alice "Giờ khóc cũng chả có ích gì hết, nó sẽ không mang anh ấy trở lại được đâu..."
 
 # game/characters/mina/ev_5.rpy:232
 translate vietnamese mina_5_1_e8c9b36c:
 
     # th "Bring me back? They think I died? Ah, right, I did. No wonder even [grace] is so gloomy."
-    th "Mang mình trở lại? Họ nghĩ rằng mình ngỏm rồi á? À, phải rồi. Thảo nào ngay cả [grace] cũng ảm đạm như vậy."
+    th "Mang mình trở lại? Họ tưởng là mình ngỏm rồi á? À, phải rồi. Thảo nào ngay cả [grace] cũng ảm đạm như vậy."
 
 # game/characters/mina/ev_5.rpy:238
 translate vietnamese mina_5_1_28486274:
@@ -700,13 +700,13 @@ translate vietnamese mina_5_2_71e5469b:
 translate vietnamese mina_5_2_9467cff2:
 
     # "Even [grace], who's normally not a fan, is no exception."
-    "Ngay cả [grace], cũng không ngoại lệ."
+    "Ngay cả [grace], cũng không phải là ngoại lệ."
 
 # game/characters/mina/ev_5.rpy:264
 translate vietnamese mina_5_2_5d1267d8:
 
     # th "I guess in the face of death people will put aside their differences."
-    th "Chắc là khi đối mặt với cái chết, mọi người sẽ gạt sự khác biệt của họ sang một bên."
+    th "Chắc là khi đối mặt với cái chết, mọi người sẽ gạt hết sự khác biệt của họ qua một bên."
 
 # game/characters/mina/ev_5.rpy:266
 translate vietnamese mina_5_2_da0060a4:
@@ -718,13 +718,13 @@ translate vietnamese mina_5_2_da0060a4:
 translate vietnamese mina_5_2_966e4096:
 
     # th "Never thought there would come a day when I would be happy that I died.."
-    th "Mình không ngờ rằng sẽ có ngày mình hạnh phúc vì đã chết đấy..."
+    th "Mình không ngờ rằng sẽ có ngày mình lại đi hạnh phúc vì đã chết đấy..."
 
 # game/characters/mina/ev_5.rpy:268
 translate vietnamese mina_5_2_7fbac9e6:
 
     # me "Now, now you'll suffocate me. I'm hungry, why don't we all eat something first?"
-    me "Nào, nào em làm anh nghẹt thở mất. Tôi đói, tại sao tất cả chúng ta không ăn một cái gì đó trước đi nhỉ?"
+    me "Nào, nào em làm anh nghẹt thở mất. anh đói sắp chết rồi đây, tại sao tất cả chúng ta không ăn một cái gì đó trước đi nhỉ?"
 
 # game/characters/mina/ev_5.rpy:271
 translate vietnamese mina_5_2_6904e924:
@@ -742,13 +742,13 @@ translate vietnamese mina_5_2_d469100d:
 translate vietnamese mina_5_2_a8d7f12b:
 
     # "You all take a seat around the table as [grace] cooks dinner." id mina_5_2_a8d7f12b
-    "Tất cả các bạn ngồi quanh bàn trong khi [Grace] nấu bữa tối." id mina_5_2_a8d7f12b
+    "Tất cả mọi người ngồi quanh bàn trong khi [Grace] nấu bữa tối." id mina_5_2_a8d7f12b
 
 # game/characters/mina/ev_5.rpy:275
 translate vietnamese mina_5_2_dc0c3688:
 
     # alice "How did you get into the hotel? We checked everywhere and you weren't here.."
-    alice "Làm sao mà anh vào khách sạn vậy? Bọn em đã kiểm tra khắp nơi và anh không hề ở đây..."
+    alice "Làm thế nào mà anh vào được khách sạn vậy? Bọn em đã kiểm tra khắp nơi mà không hề thấy anh ở đây..."
 
 # game/characters/mina/ev_5.rpy:276
 translate vietnamese mina_5_2_45c8a06a:
@@ -760,7 +760,7 @@ translate vietnamese mina_5_2_45c8a06a:
 translate vietnamese mina_5_2_97aeb2e3:
 
     # "Although she's defending you, you can see she's just as curious about this."
-    "Mặc dù cô ấy đang bảo vệ bạn, bạn có thể thấy cô ấy cũng tò mò về điều này."
+    "Mặc dù cô ấy đang bảo vệ bạn, nhưng bạn có thể thấy cô ấy cũng tò mò về điều này."
 
 # game/characters/mina/ev_5.rpy:281
 translate vietnamese mina_5_2_c3922035:
@@ -778,7 +778,7 @@ translate vietnamese mina_5_2_31392998:
 translate vietnamese mina_5_2_db501e0f:
 
     # lexi "Let's all calm down, tell us what happened exactly."
-    lexi "Tất cả hãy bình tĩnh đi, cho bọn em biết chính xác những gì đã xảy ra đi."
+    lexi "Tất cả hãy bình tĩnh nào, cho bọn em biết chính xác những gì đã xảy ra đi."
 
 # game/characters/mina/ev_5.rpy:285
 translate vietnamese mina_5_2_407fc38c:
@@ -790,7 +790,7 @@ translate vietnamese mina_5_2_407fc38c:
 translate vietnamese mina_5_2_86296e11:
 
     # mina "You didn't have to sacrifice yourself for me.."
-    mina "BạAnhn không cần phải hy sinh bản thân vì em..."
+    mina "Anh không cần phải hy sinh bản thân vì em đâu..."
 
 # game/characters/mina/ev_5.rpy:287
 translate vietnamese mina_5_2_2fb22343:
@@ -808,7 +808,7 @@ translate vietnamese mina_5_2_c33c0ba7:
 translate vietnamese mina_5_2_fbdd6e97:
 
     # grace "He can't be a man, they can't be so nice.."
-    grace "Anh ấy không thể là một người đàn ông, họ không thể tốt như vậy được..."
+    grace "Anh ấy không thể là một người đàn ông được, họ không thể tốt như này chứ..."
 
 # game/characters/mina/ev_5.rpy:296
 translate vietnamese mina_5_2_d8ce8ea0:
@@ -826,13 +826,13 @@ translate vietnamese mina_5_2_d6b4228a:
 translate vietnamese mina_5_2_357a9d50:
 
     # lexi "What happened next?"
-    lexi "Điều gì xảy ra tiếp theo?"
+    lexi "Chuyện gì xảy ra tiếp theo vậy?"
 
 # game/characters/mina/ev_5.rpy:300
 translate vietnamese mina_5_2_5ebaa8af:
 
     # me "I fought with them for a few minutes. I defeated a few of them, but there were just too many of them."
-    me "Anh đã chiến đấu với chúng trong vài phút. Anh đã đánh bại vài người trong số chúng, nhưng bọn nó thì quá đông."
+    me "Anh đã chiến đấu với chúng trong vài phút. Anh đánh bại vài tên trong số chúng, nhưng bọn nó thì quá đông."
 
 # game/characters/mina/ev_5.rpy:302
 translate vietnamese mina_5_2_d7760fc7:
@@ -892,7 +892,7 @@ translate vietnamese mina_5_2_7048ca2a:
 translate vietnamese mina_5_2_d047c70a:
 
     # lexi "It doesn't matter, what's important is that he's alive. As for the reason for his resurrection, it's not like there's anything we understand about what's happening outside."
-    lexi "Nó không quan trọng đâu, mà quan trọng là anh ấy vẫn còn sống. Còn lý do cho sự sống lại của anh ấy, thì cũng giống như việc chúng ta không hiểu chuyện gì đang xảy ra ngoài kia vậy."
+    lexi "Nó chẳng quan trọng đâu, mà quan trọng là anh ấy vẫn còn sống. Còn lý do cho sự sống lại của anh ấy, thì cũng giống như việc chúng ta không hiểu chuyện gì đang xảy ra ngoài kia vậy."
 
 # game/characters/mina/ev_5.rpy:317
 translate vietnamese mina_5_2_bed0a8c1:
@@ -910,7 +910,7 @@ translate vietnamese mina_5_2_50697d2a:
 translate vietnamese mina_5_2_f7812def:
 
     # mina "Yes, that's the most important thing."
-    mina "Ừ, đó là điều quan trọng nhất."
+    mina "Ừ, đó mới là điều quan trọng nhất."
 
 # game/characters/mina/ev_5.rpy:320
 translate vietnamese mina_5_2_0cd46d6e:
@@ -994,7 +994,7 @@ translate vietnamese mina_5_2_07f4f378:
 translate vietnamese mina_5_3_54086903:
 
     # "Soon [grace] fills the table with food, and you start to gobble up everything on the plate."
-    "Chẳng bao lâu sau [grace] dọn đầy bàn với thức ăn, và bạn bắt đầu ngấu nghiến mọi thứ trên đĩa."
+    "Chẳng bao lâu sau [grace] dọn đầy thức ăn lên bàn, và bạn bắt đầu ngấu nghiến mọi thứ trên đĩa."
 
 # game/characters/mina/ev_5.rpy:353
 translate vietnamese mina_5_3_e4b82fb1:
@@ -1042,7 +1042,7 @@ translate vietnamese mina_5_4_dd27e31d:
 translate vietnamese mina_5_4_b315375e:
 
     # th "I'm so weak.. Even though I fought a lot of them, they were just humans.. What about a monster.. Would I be able to hold my own against the monster I saw on my first time outside?"
-    th "Mình thật yếu đuối... Mặc dù mình đã chiến đấu với rất nhiều người trong số chúng, nhưng chúng chỉ là con người... Còn một con quái vật thì sao... Liệu mình có thể chống lại con quái vật mà mình nhìn thấy lần đầu tiên ở bên ngoài không??"
+    th "Mình thật yếu đuối... Mặc dù mình đã chiến đấu với rất nhiều người trong số chúng, nhưng chúng chỉ là con người... Thế một con quái vật thì sao... Liệu mình có thể chống lại con quái vật mà mình nhìn thấy lần đầu tiên ở bên ngoài không??"
 
 # game/characters/mina/ev_5.rpy:374
 translate vietnamese mina_5_4_fde801b3:
@@ -1072,7 +1072,7 @@ translate vietnamese mina_5_4_679ef5a7:
 translate vietnamese mina_5_4_a5b98d0b:
 
     # "You're amazed that [lexi] didn't lose her voice, she was berating [mina] for an hour straight!" id mina_5_4_a5b98d0b
-    "Bạn ngạc nhiên rằng [lexi] không bị mất giọng, cô ấy đã mắng [mina] trong một tiếng đồng hồ!" id mina_5_4_a5b98d0b
+    "Bạn ngạc nhiên rằng [lexi] không bị mất giọng, cô ấy đã mắng [mina] trong vòng một tiếng đồng hồ rồi!" id mina_5_4_a5b98d0b
 
 # game/characters/mina/ev_5.rpy:380
 translate vietnamese mina_5_4_e1aa4556:
@@ -1084,7 +1084,7 @@ translate vietnamese mina_5_4_e1aa4556:
 translate vietnamese mina_5_4_ace72dc3:
 
     # th "I don't know what she was thinking being so careless."
-    th "Mình không biết em ấy nghĩ gì mà có thể bất cẩn như vậy."
+    th "Mình không biết em ấy nghĩ gì mà có thể bất cẩn như vậy được nữa."
 
 # game/characters/mina/ev_5.rpy:384
 translate vietnamese mina_5_4_d800fe53:
@@ -1102,13 +1102,13 @@ translate vietnamese mina_5_4_e6f94b35:
 translate vietnamese mina_5_4_49e91509:
 
     # th "Trauma like this is not something that's easy to fight off. I hope she'll overcome it."
-    th "Chấn thương tâm lý như thế này không phải là thứ dễ dàng vượt qua. Mình hy vọng em ấy sẽ vượt qua nó."
+    th "Chấn thương tâm lý như thế này không phải là thứ dễ dàng vượt qua. Mong là em ấy sẽ vượt qua nó."
 
 # game/characters/mina/ev_5.rpy:395
 translate vietnamese mina_5_5_c9499260:
 
     # "After silence once again returns to the hotel, you give into sleep."
-    "Sau khi im lặng một lần nữa trở về khách sạn, bạn chìm vào giấc ngủ."
+    "Sau khi sự im lặng một lần nữa trở về khách sạn, bạn chìm vào giấc ngủ."
 
 # game/characters/mina/ev_5.rpy:397
 translate vietnamese mina_5_5_bca3ac64:
@@ -1132,13 +1132,13 @@ translate vietnamese mina_5_5_6d9fd7f8:
 translate vietnamese mina_5_5_4417551d:
 
     # "The door opens and it's [lexi]!"
-    "Cánh cửa mở ra và đó alf [lexi]!"
+    "Cánh cửa mở ra và đó là [lexi]!"
 
 # game/characters/mina/ev_5.rpy:402
 translate vietnamese mina_5_5_fd16a884:
 
     # th "What does she want from me so late at night?"
-    th "Em ấy muốn gì ở mình vào đêm khuya như này?"
+    th "Em ấy muốn gì ở mình vào đêm khuya như này chứ?"
 
 # game/characters/mina/ev_5.rpy:404
 translate vietnamese mina_5_5_6ccba05c:
@@ -1186,7 +1186,7 @@ translate vietnamese mina_5_5_e53c8f6a:
 translate vietnamese mina_5_5_b72ebd27:
 
     # th "She is crying.."
-    th "Ẻm đang khóc..."
+    th "Em ấy đang khóc..."
 
 # game/characters/mina/ev_5.rpy:416
 translate vietnamese mina_5_5_ff9ddcf1:
@@ -1210,25 +1210,25 @@ translate vietnamese mina_5_5_75e3d5e8:
 translate vietnamese mina_5_5_14ebd707:
 
     # me "You did nothing to be sorry for."
-    me "Em đã không làm gì để xin lỗi."
+    me "Em không làm gì để mà phải xin lỗi cả."
 
 # game/characters/mina/ev_5.rpy:420
 translate vietnamese mina_5_5_7cea4c8d:
 
     # lexi "{size=-10}I left you to die.{/size}"
-    lexi "{size=-10}Em bỏ mặc anh đến chết.{/size}"
+    lexi "{size=-10}Em đã bỏ mặc anh đến chết.{/size}"
 
 # game/characters/mina/ev_5.rpy:421
 translate vietnamese mina_5_5_770647b0:
 
     # me "I told you to, besides I'm okay right?"
-    me "Anh đã nói với em rồi, ngoài ra anh không sao mà đúng không?"
+    me "Anh đã nói với em rồi, xong rồi anh cũng ổn mà, đúng không?"
 
 # game/characters/mina/ev_5.rpy:422
 translate vietnamese mina_5_5_d93ae75c:
 
     # lexi "I ran away and let you face them by yourself."
-        lexi "Em đã chạy trốn và để ạm đối mặt với chúng một mình."
+    lexi "Em bỏ chạy và để mặc anh đươn độc đối đầu với chúng."
 
 # game/characters/mina/ev_5.rpy:423
 translate vietnamese mina_5_5_5ea53c03:
@@ -1240,7 +1240,7 @@ translate vietnamese mina_5_5_5ea53c03:
 translate vietnamese mina_5_5_dc2dfa99:
 
     # lexi "I should have been the one to stay. It was my [lex_min] that we were saving."
-    lexi "Đáng lẽ em phải là người ở lại. Đó là em gái của em mà chúng ta đ..."
+    lexi "Đáng lẽ em phải là người ở lại mới đúng. Đó là em gái của em mà chúng ta đ..."
 
 # game/characters/mina/ev_5.rpy:425
 translate vietnamese mina_5_5_3ab9f149:
@@ -1270,13 +1270,13 @@ translate vietnamese mina_5_5_bb67baef:
 translate vietnamese mina_5_5_931cd67b:
 
     # me "Tell me."
-    me "Nói anh nghe xem."
+    me "Nói anh nghe xem nào."
 
 # game/characters/mina/ev_5.rpy:431
 translate vietnamese mina_5_5_0dfb3751:
 
     # lexi "It's bad, she slept for a while but woke up screaming.. I've never seen her so scared before. She was soaked with sweat."
-    lexi "Rất tệ, em ấy ngủ một giấc nhưng tỉnh dậy la hét... Em chưa bao giờ thấy em mình sợ hãi như vậy trước đây. Em ấy ướt đẫm mồ hôi."
+    lexi "Rất tệ, em ấy ngủ một giấc nhưng lúc tỉnh dậy thì liên tục la hét... Em chưa bao giờ thấy em mình sợ hãi như vậy cả. Em ấy ướt đẫm mồ hôi."
 
 # game/characters/mina/ev_5.rpy:432
 translate vietnamese mina_5_5_cf28ba7b:
@@ -1384,13 +1384,13 @@ translate vietnamese mina_5_5_2abccf44:
 translate vietnamese mina_5_5_a122fabc:
 
     # lexi "Why her?! *Sniff* Why, why, why?!"
-    lexi "Tại sao lại là cô ấy ?! *Hức* Tại sao, tại sao, tại sao?!"
+    lexi "Tại sao lại là em ấy ?! *Hức* Tại sao, tại sao, tại sao?!"
 
 # game/characters/mina/ev_5.rpy:453
 translate vietnamese mina_5_5_75471564:
 
     # "[lexi] continues to cry as the minutes pass. You hold her tight, not knowing what else you can do."
-    "[lexi] tiếp tục khóc khi từng phút trôi qua. Bạn ôm chặt cô ấy, không biết bạn có thể làm gì khác."
+    "[lexi] tiếp tục khóc khi từng phút trôi qua. Bạn ôm chặt cô ấy, không biết mình nên làm gì nữa."
 
 # game/characters/mina/ev_5.rpy:454
 translate vietnamese mina_5_5_ff4b8b44:
@@ -1438,7 +1438,7 @@ translate vietnamese mina_5_5_3489ad7e:
 translate vietnamese mina_5_5_45c59bca:
 
     # "You wake up to find [lexi] staring at you."
-    "Bạn thức dậy và thấy [lexi] đang nhìn bạn chằm chằm."
+    "Bạn thức dậy và thấy [lexi] đang nhìn bạn chằm chằm vào bạn."
 
 # game/characters/mina/ev_5.rpy:466
 translate vietnamese mina_5_5_f4a4f6fc:
@@ -1456,7 +1456,7 @@ translate vietnamese mina_5_5_a8063bc3:
 translate vietnamese mina_5_5_2ac5561d:
 
     # lexi "I need to go."
-    lexi "Em cần phai rđi."
+    lexi "Em cần phải đi rồi."
 
 # game/characters/mina/ev_5.rpy:469
 translate vietnamese mina_5_5_d01e1146:
@@ -1527,13 +1527,13 @@ translate vietnamese mina_5_1_587dc3dd:
 translate vietnamese mina_5_2_c0981deb:
 
     # me "It wasn't. I suddenly woke up inside my room. I felt like someone poured a bucket of cold water on me." id mina_5_2_c0981deb
-    me "Nó không kết thúc như vậy, anh đột nhiên tỉnh dậy trong phòng của mình. Anh cảm thấy như ai đó dội một gáo nước lạnh vào mình." id mina_5_2_c0981deb
+    me "Nó không kết thúc như vậy, anh đột nhiên tỉnh dậy trong phòng của mình. Cảm giác như bị ai đó dội một gáo nước lạnh vào người vậy." id mina_5_2_c0981deb
 
 # game/characters/mina/ev_5.rpy:432
 translate vietnamese mina_5_5_13605053:
 
     # lexi "It's bad. She slept for a while but woke up screaming.. I've never seen her so scared before. She was soaked with sweat." id mina_5_5_13605053
-    lexi "Rất tệ, em ấy ngủ một chút nhưng sau đó lại tỉnh dậy và la hét... Em chưa bao giờ thấy em mình sợ hãi như vậy trước đây. Em ấy ướt đẫm mồ hôi." id mina_5_5_13605053
+    lexi "Rất tệ, em ấy ngủ một chút nhưng sau đó lại tỉnh dậy và la hét... Em chưa bao giờ thấy em mình sợ hãi như vậy trước đây cả. Người em ấy ướt đẫm mồ hôi." id mina_5_5_13605053
 
 translate vietnamese strings:
 

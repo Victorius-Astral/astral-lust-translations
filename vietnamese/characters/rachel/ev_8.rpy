@@ -34,13 +34,13 @@ translate vietnamese rachel_8_9152c45e:
 translate vietnamese rachel_8_551db5bf:
 
     # me "I try to be helpful."
-    me "Tôi đang cố trở nên hưu ích."
+    me "Tôi đang cố trở nên hữu ích."
 
 # game/characters/rachel/ev_8.rpy:23
 translate vietnamese rachel_8_0843a7d6:
 
     # rachel "You're very helpful, [me]."
-    rachel "Anh rất là chăm chỉ rồi, [me]."
+    rachel "Anh rất là chăm chỉ đấy, [me]."
 
 # game/characters/rachel/ev_8.rpy:28
 translate vietnamese rachel_8_7b2befdf:
@@ -52,7 +52,7 @@ translate vietnamese rachel_8_7b2befdf:
 translate vietnamese rachel_8_eef1d2c2:
 
     # rachel "I will repay your help. It's just I don't know how at the moment."
-    rachel "Tôi sẽ trả ơn cho anh sau. Chỉ là bây giờ tôi không biết làm như nào."
+    rachel "Tôi sẽ trả ơn cho anh sau. Chỉ là bây giờ tôi không biết mình phải làm như nào thôi."
 
 # game/characters/rachel/ev_8.rpy:34
 translate vietnamese rachel_8_445f82e7:
@@ -64,7 +64,7 @@ translate vietnamese rachel_8_445f82e7:
 translate vietnamese rachel_8_50793d4d:
 
     # rachel "Tell me about yourself."
-    rachel "Hãy nói cho tôi biết về bản thân anh đi."
+    rachel "Hãy cho tôi biết thêm về bản thân anh đi."
 
 # game/characters/rachel/ev_8.rpy:40
 translate vietnamese rachel_8_d1328ab7:
@@ -76,13 +76,13 @@ translate vietnamese rachel_8_d1328ab7:
 translate vietnamese rachel_8_c1fe87b4:
 
     # rachel "What are you doing in this city?"
-    rachel "What are you doing in this city?"
+    rachel "Anh làm gì ở cái thành phố này?"
 
 # game/characters/rachel/ev_8.rpy:42
 translate vietnamese rachel_8_283bf0ff:
 
     # me "That's a good question.. I have awakened here [day] days ago. I have no idea how I got here, nor what happened to me the year before awakening."
-    me "Đó là một câu hỏi hay đấy... Tôi đã thức dậy ở đây vào [day] ngày trước. Tôi không biết tại sao mình đến được đây"
+    me "Đó là một câu hỏi hay đấy... Tôi đã thức dậy ở đây vào [day] ngày trước. Tôi cũng không biết tại sao mà mình lại đến được đây nữa"
 
 # game/characters/rachel/ev_8.rpy:47
 translate vietnamese rachel_8_2ba21cb9:
@@ -94,13 +94,13 @@ translate vietnamese rachel_8_2ba21cb9:
 translate vietnamese rachel_8_c5e8479f:
 
     # me "Really? Weird.. Most of people I've met said that they were here since the beginning. You're the only one that has suddenly appeared here."
-    me "Thật hả? Lạ nhỉ... Hầu hết mọi người tôi gặp đều nói họ đã ở đây từ đầu. Cô là người duy nhất mà đột nhiên xuất hiện ở đây."
+    me "Thật hả? Lạ nhỉ... Hầu hết mọi người tôi gặp đều nói họ đã ở đây từ đầu. Cô là người duy nhất đột nhiên xuất hiện ở chỗ này đấy."
 
 # game/characters/rachel/ev_8.rpy:53
 translate vietnamese rachel_8_1dacdf65:
 
     # rachel "There is something very wrong with this city. I mean the whole city. It resembles a monster lying in wait waiting for its prey."
-    rachel "Có thứ gì đó rất lạ với cái thành phố này. Ý tôi là cả cái thành phố í. Nó giống như là một con quái vật đang nằm chờ đợi cho con mồi."
+    rachel "Có thứ gì đó rất lạ ở cái thành phố này. Ý tôi là cả cái thành phố í. Nó giống như là một con quái vật đang nằm phục sẵn con mồi của nó vậy."
 
 # game/characters/rachel/ev_8.rpy:54
 translate vietnamese rachel_8_a9175d8f:
@@ -112,7 +112,7 @@ translate vietnamese rachel_8_a9175d8f:
 translate vietnamese rachel_8_f3f1fecf:
 
     # rachel "I've once felt a similar thing back at home."
-    rachel "Tôi đã từng cmar nhận một thứ giống vậy ở quê nhà."
+    rachel "Tôi đã từng cảm nhận một thứ giống vậy ở quê nhà."
 
 # game/characters/rachel/ev_8.rpy:56
 translate vietnamese rachel_8_762abff7:
@@ -130,7 +130,7 @@ translate vietnamese rachel_8_842f2dde:
 translate vietnamese rachel_8_34da3d0c:
 
     # rachel "I couldn't see his appearance at all, but he gave me creeps just by looking at him.."
-    rachel "Tôi không cảm thấy được sự hiện diện của hắn, nhưng hắn khiến tôi rùng mình khi nhìn vào..."
+    rachel "Tôi không cảm thấy được sự hiện diện của hắn, chỉ nhìn vào hắn thôi cũng đủ để khiến tôi rùng mình rồi..."
 
 # game/characters/rachel/ev_8.rpy:59
 translate vietnamese rachel_8_24a3bce3:
@@ -172,13 +172,13 @@ translate vietnamese rachel_8_74b90e52:
 translate vietnamese rachel_8_378f863e:
 
     # me "Maybe he was of your kind?"
-    me "Có lẽ hắn cùng chủng loài với cô?"
+    me "Có lẽ hắn là cùng loài với cô chăng?"
 
 # game/characters/rachel/ev_8.rpy:74
 translate vietnamese rachel_8_36c527c5:
 
     # rachel "He had a freezing cold, masculine, low voice. And our tribe has only women. Besides, he didn't feel close to nature at all, like my kind. He felt foreign."
-    rachel "Hắn ta tỏa ra hơi lạnh, rất đàn ông, giọng trầm. Và tộc của tôi chỉ có nữ. Bến cạnh đó hắn cảm giác không gần với tự nhiên chút nào, giống như loài của tôi. Hắn giống như không ở đây."
+    rachel "Hắn ta tỏa ra hơi lạnh, rất đàn ông, giọng trầm. Và tộc của tôi chỉ có nữ. Bên cạnh đó hắn cảm giác không gần với tự nhiên chút nào, giống như loài của tôi. Hắn giống như không ở đây."
 
 # game/characters/rachel/ev_8.rpy:79
 translate vietnamese rachel_8_399e8bb5:
@@ -196,7 +196,7 @@ translate vietnamese rachel_8_5a17e1d5:
 translate vietnamese rachel_8_6e0adf91:
 
     # rachel "I had an illusion that walls had grown pupil-less eyes glancing at me coldly.."
-    rachel "Tôi có một sỏa ảnh là bức tường mọc ra những con mắt nhìn chằm chằm vào tôi..."
+    rachel "Tôi còn nhìn thấy ảo ảnh nữa. Nó kiểu như là bức tường mọc ra những con mắt nhìn chằm chằm vào tôi..."
 
 # game/characters/rachel/ev_8.rpy:82
 translate vietnamese rachel_8_538f2a4b:
@@ -208,19 +208,19 @@ translate vietnamese rachel_8_538f2a4b:
 translate vietnamese rachel_8_f9886971:
 
     # th "Like Aharon.. It couldn't be Him, right?"
-    th "Giống Aharon... Đấy có thể là hăn, phải không?"
+    th "Giống Aharon... nhưng đó không thể là hắn dược, phải không?"
 
 # game/characters/rachel/ev_8.rpy:88
 translate vietnamese rachel_8_0facf954:
 
     # me "What did he say?"
-    me "Hắn còn nói gì nữa?"
+    me "Hắn còn nói gì nữa không?"
 
 # game/characters/rachel/ev_8.rpy:89
 translate vietnamese rachel_8_dde1a40e:
 
     # rachel "I don't know.. I've never heard that language before. He seemed to speak to the shrine itself, though.."
-    rachel "Tôi không rõ nữa... Tôi chưa bao giờ nghe loại ngôn ngữ đấy. Hắn có như là đang nói chuyện với đền thờ..."
+    rachel "Tôi không rõ nữa... Tôi chưa bao giờ nghe loại ngôn ngữ đấy. Hắn có vẻ như là đang nói chuyện với đền thờ..."
 
 # game/characters/rachel/ev_8.rpy:90
 translate vietnamese rachel_8_6d307cb0:
@@ -238,19 +238,19 @@ translate vietnamese rachel_8_86e3ca4d:
 translate vietnamese rachel_8_be74b6e1:
 
     # me "Interesting. Was it just before your arrival here? Maybe it's related?"
-    me "THú vị đấy. Có phải nó là trước khi cô đến đây? Có lẽ nó liên quan.?"
+    me "Thú vị đấy. Có phải chuyện đó xảy ra trước khi cô đến đây không? Có lẽ nó liên quan đến nhau đấy?"
 
 # game/characters/rachel/ev_8.rpy:97
 translate vietnamese rachel_8_97edbb98:
 
     # rachel "No. It was a long time ago. Before I've met Little Fox."
-    rachel "Không. Đó là rất lâu rồi. Trước khi tôi gặp Tiểu Cáo."
+    rachel "Không. Đó là rất lâu rồi. Trước cả khi tôi gặp Tiểu Cáo cơ."
 
 # game/characters/rachel/ev_8.rpy:98
 translate vietnamese rachel_8_998f4671:
 
     # rachel "Do you really think it could be related?"
-    rachel "Anh có thực sự nghĩ rằng chuyện đó có thể liên quan?"
+    rachel "Anh có thực sự nghĩ rằng chuyện đó có thể liên quan không?"
 
 # game/characters/rachel/ev_8.rpy:99
 translate vietnamese rachel_8_669060e1:
@@ -262,7 +262,7 @@ translate vietnamese rachel_8_669060e1:
 translate vietnamese rachel_8_c33f7cca:
 
     # rachel "I think it's probably somewhat related to the Gods."
-    rachel "Tôi nghĩ nó có một phần nào đó liên quan đến các vị thần."
+    rachel "Tôi nghĩ là nó có một phần nào đó liên quan đến các vị thần."
 
 # game/characters/rachel/ev_8.rpy:101
 translate vietnamese rachel_8_83087c50:
@@ -274,19 +274,19 @@ translate vietnamese rachel_8_83087c50:
 translate vietnamese rachel_8_f7b3bba8:
 
     # rachel "When I was corrupted I didn't think. I had a lot of crazy, twisted desires. And I acted on them mindlessly. There was no order, only pure chaos. But there were exceptions.."
-    rachel "Khi tôi bị sa đọa, tôi không hề nghĩ. Tôi đã có rất nhiều ham muốn điên cuồng, xoắn xuýt. Và tôi đã hành động trên chúng một cách vô hồn. Không có trật tự, chỉ có hỗn loạn thuần túy. Nhưng vẫn có những trường hợp ngoại lệ..."
+    rachel "Khi tôi bị ha hóa, tôi không thể nghĩ được gì hết. Tôi đã có rất nhiều ham muốn vặn vẹo và điên cuồng. Tôi hành động một cách vô hồn. Không có trật tự, chỉ có hỗn loạn thuần túy. Nhưng vẫn có những trường hợp ngoại lệ..."
 
 # game/characters/rachel/ev_8.rpy:103
 translate vietnamese rachel_8_2eb5113a:
 
     # rachel "Sometimes I've heard a faint voice. A whisper really. It was very serene, complete opposite of my twisted mind when corrupted. It told me what I will do."
-    rachel "Sometimes I've heard a faint voice. A whisper really. It was very serene, complete opposite of my twisted mind when corrupted. It told me what I will do."
+    rachel "Đôi lúc tôi nghe thấy những giọng nói mờ nhạt. Một lời thì thầm. Nó rất thanh thản, hoàn toàn khác với cái tâm trí điên loạn của tôi khi bị tha hóa. Nó nói cho tôi biết cần làm những gì."
 
 # game/characters/rachel/ev_8.rpy:104
 translate vietnamese rachel_8_b15eb968:
 
     # rachel "Not like an order, more like a storytelling of what I would do in the future. And whatever it said I would do, I did. At these moments, no matter what my desires were, I acted according to this voice's story."
-    rachel "Không giống như một mệnh lệnh, giống như một câu chuyện kể về những gì tôi sẽ làm trong tương lai. Và bất cứ điều gì nó nói tôi sẽ làm, tôi đã làm. Vào những khoảnh khắc dó, bất kể mong muốn của tôi là gì, tôi đã hành động theo câu chuyện của giọng nói này."
+    rachel "Không giống như một mệnh lệnh, giống như một câu chuyện kể về những gì tôi sẽ làm trong tương lai. Và bất cứ điều gì nó nói tôi sẽ làm, tôi đã làm. Vào những khoảnh khắc đó, bất kể mong muốn của tôi là gì, tôi đều hành động theo câu chuyện của giọng nói này."
 
 # game/characters/rachel/ev_8.rpy:105
 translate vietnamese rachel_8_89d046de:
@@ -298,13 +298,13 @@ translate vietnamese rachel_8_89d046de:
 translate vietnamese rachel_8_4015ef06:
 
     # me "How is that related to the Gods of Forgotten Paradise?"
-    me "Điều đó có liên quan như thế nào đến các Vị thần của Thiên đàng Bị lãng quên?"
+    me "Điều đó có liên quan như thế nào đến các Vị thần của Thiên đàng Bị lãng quên không?"
 
 # game/characters/rachel/ev_8.rpy:107
 translate vietnamese rachel_8_a28871f9:
 
     # rachel "There is a legend. It says that when Gods were still around, there was the Emperor who ruled over Them all."
-    rachel "Có một huyền thoại. Nó nói rằng khi các vị thần vẫn còn ở xung quanh, có một vị Hoàng đế cai trị tất cả."
+    rachel "Có một truyền thuyết. Nó nói rằng khi các vị thần vẫn còn ở đây, có một vị Hoàng đế cai trị tất cả."
 
 # game/characters/rachel/ev_8.rpy:108
 translate vietnamese rachel_8_08153503:
@@ -376,7 +376,7 @@ translate vietnamese rachel_8_f67d1c48:
 translate vietnamese rachel_8_4b900029:
 
     # rachel "I haven't heard that voice since then. I fear that it's as you say. But I don't know the reason for the voice's actions."
-    rachel "Tôi đã không nghe thấy giọng nói đó kể từ đó. Tôi sợ rằng đó là như bạn nói. Nhưng tôi không biết lý do cho hành động của giọng nói."
+    rachel "kể từ lúc đó là tôi đã không còn nghe giọng nói đấy nữa rồi. Tôi sợ là nó sẽ giống anh nói đấy. Nhưng còn về cái giọng nói đó thì tôi cũng không rõ nữa."
 
 # game/characters/rachel/ev_8.rpy:131
 translate vietnamese rachel_8_a17d2c69:
@@ -388,25 +388,25 @@ translate vietnamese rachel_8_a17d2c69:
 translate vietnamese rachel_8_bc282cea:
 
     # rachel "Although sometimes I feel as if it was still present, just that I'm not able to hear it anymore.."
-    rachel "Mặc dù đôi khi tôi cảm thấy như thể nó vẫn còn hiện diện, chỉ là tôi không thể nghe thấy nó nữa..."
+    rachel "Mặc dù đôi khi tôi vẫn cảm thấy là nó còn ở đây, nhưng tôi không thể nghe thấy nó nữa..."
 
 # game/characters/rachel/ev_8.rpy:133
 translate vietnamese rachel_8_1c692bbd:
 
     # me "Nothing is normal in this damned city.."
-    me "Chả có gì là bình thường trong cái thành phố chết tiệt này..."
+    me "Chẳng có gì gọi là bình thường trong cái thành phố chết tiệt này đâu..."
 
 # game/characters/rachel/ev_8.rpy:138
 translate vietnamese rachel_8_904bb708:
 
     # rachel "We were supposed to talk about you.."
-    rachel "Chúng ta đáng lẽ ra là phải nói về anh..."
+    rachel "Đáng lẽ ra là Chúng ta phải nói về anh chứ..."
 
 # game/characters/rachel/ev_8.rpy:139
 translate vietnamese rachel_8_14facdea:
 
     # me "These are just details."
-    me "Đấy chỉ là những chi tiết."
+    me "Đấy chỉ là những tiểu tiết thôi."
 
 # game/characters/rachel/ev_8.rpy:140
 translate vietnamese rachel_8_550dea6c:
@@ -418,7 +418,7 @@ translate vietnamese rachel_8_550dea6c:
 translate vietnamese rachel_8_c44af0a2:
 
     # me "Animals or your kind?"
-    me "Động vật hay là loại của cô?"
+    me "Động vật hay là loài của cô?"
 
 # game/characters/rachel/ev_8.rpy:142
 translate vietnamese rachel_8_8b71db02:
@@ -430,25 +430,25 @@ translate vietnamese rachel_8_8b71db02:
 translate vietnamese rachel_8_0c81d5d4:
 
     # rachel "Right? They are adorable, especially the young ones."
-    rachel "Đúng? Chúng rất đáng yêu, đặc biệt là những đứa bé."
+    rachel "Đúng chứ? Chúng rất đáng yêu, đặc biệt là những đứa bé."
 
 # game/characters/rachel/ev_8.rpy:152
 translate vietnamese rachel_8_43345ef5:
 
     # me "Can't argue with that."
-    me "Không thể tranh cãi về điều đó."
+    me "Chứ còn gì nữa."
 
 # game/characters/rachel/ev_8.rpy:153
 translate vietnamese rachel_8_04818724:
 
     # rachel "I once had a fox pet. It was like a fluffy ball when it was young."
-    rachel "Tôi đã từng nuôi một con cáo. Nó giống như một quả bóng bông khi nó còn nhỏ."
+    rachel "Tôi từng nuôi một con cáo. Nó trông giống như một quả bóng bông khi nó còn nhỏ."
 
 # game/characters/rachel/ev_8.rpy:154
 translate vietnamese rachel_8_12c00937:
 
     # me "Fox girl had fox as a pet?"
-    me "Hồ ly có nuôi cáo như một thú cưng?"
+    me "Hồ ly nuôi cáo như thú cưng á?"
 
 # game/characters/rachel/ev_8.rpy:155
 translate vietnamese rachel_8_7ba3d1b3:
@@ -484,13 +484,13 @@ translate vietnamese rachel_8_ea7e3fea:
 translate vietnamese rachel_8_b96770fd:
 
     # rachel "I don't know how that is even possible. Foxes are so adorable.."
-    rachel "Tôi không biết làm thế nào mà nó có thể được. Cáo rất là đáng yêu..."
+    rachel "Tôi không biết tại sao chuyện này có thể xảy ra được nữa. Cáo rất là đáng yêu mà..."
 
 # game/characters/rachel/ev_8.rpy:172
 translate vietnamese rachel_8_61039a20:
 
     # me "Maybe you think so just because you're a fox as well?"
-    me "Có lẽ cô nghĩ vậy chỉ vì cô cũng là một con cáo?"
+    me "Có lẽ cô nghĩ vậy vì cô cũng là một con cáo?"
 
 # game/characters/rachel/ev_8.rpy:173
 translate vietnamese rachel_8_111fbc46:
@@ -502,7 +502,8 @@ translate vietnamese rachel_8_111fbc46:
 translate vietnamese rachel_8_ffc95630:
 
     # me "I've never said that."
-    me "Tôi chưa bao giờ nói điều đó."
+    me "Tôi chưa bao giờ nói vậy cả
+    "
 
 # game/characters/rachel/ev_8.rpy:175
 translate vietnamese rachel_8_eeec5273:
@@ -520,7 +521,7 @@ translate vietnamese rachel_8_9af20d9f:
 translate vietnamese rachel_8_e2bbfe0f:
 
     # rachel "No, why would I? Everyone has their own preferences. I respect your opinion."
-    rachel "Không, tại sao tôi lại làm vậy? Mọi người đều có sở thích riêng của họ. Tôi tôn trọng ý kiến của bạn."
+    rachel "Không, tại sao tôi lại phải giận chứ? Mọi người đều có sở thích riêng của họ. Và tôi tôn trọng ý kiến của anh."
 
 # game/characters/rachel/ev_8.rpy:191
 translate vietnamese rachel_8_part2_753d89b1:
@@ -532,7 +533,7 @@ translate vietnamese rachel_8_part2_753d89b1:
 translate vietnamese rachel_8_part2_74ac7322:
 
     # me "We were just talking about foxes."
-    me "Bọn chị chỉ đang nói về cáo thôi."
+    me "Bọn chị đang nói về cáo thôi."
 
 # game/characters/rachel/ev_8.rpy:193
 translate vietnamese rachel_8_part2_e9098ede:
@@ -550,37 +551,37 @@ translate vietnamese rachel_8_part2_30c9a89c:
 translate vietnamese rachel_8_part2_e544ce72:
 
     # lil_fox "Your fox."
-    lil_fox "Con cáo của chị."
+    lil_fox "Cáo của chị."
 
 # game/characters/rachel/ev_8.rpy:200
 translate vietnamese rachel_8_part2_09ade642:
 
     # me "What's that about?"
-    me "Nó là về cái gì vậy?"
+    me "Chuyện gì đang xảy ra vậy?"
 
 # game/characters/rachel/ev_8.rpy:205
 translate vietnamese rachel_8_part2_f2f109c9:
 
     # rachel "This girl hates my fox pet. She would like all my attention to fall on her. She hates competition."
-    rachel "Cô gái này ghét con cáo cưng của tôi. Em ấy muốn tất cả sự chú ý của tôi đổ dồn vào em ấy. Em ấy ghét sự cạnh tranh."
+    rachel "Cô bé này ghét con cáo cưng của tôi. Em ấy muốn tất cả sự chú ý của tôi đổ dồn vào em ấy. Em ấy ghét sự cạnh tranh."
 
 # game/characters/rachel/ev_8.rpy:206
 translate vietnamese rachel_8_part2_c93abda7:
 
     # me "Oh, so Little Fox is a siscon. Unexpected."
-    me "Oh, vậy Tiểu Cáo là một siscon. Bất ngờ đấy."
+    me "Oh, vậy Tiểu Cáo là siscon sao. Không ngờ luôn đấy."
 
 # game/characters/rachel/ev_8.rpy:207
 translate vietnamese rachel_8_part2_c8d9ce4f:
 
     # lil_fox "I'm not! That annoying fox stinks!"
-    lil_fox "Em không có! Con cáo đó khó chịu và bốc mùi!"
+    lil_fox "Em không có! Con cáo đấy nó khó chịu và bốc mùi!"
 
 # game/characters/rachel/ev_8.rpy:208
 translate vietnamese rachel_8_part2_9c02c978:
 
     # rachel "It's cleaning itself more often than you do."
-    rachel "Nó tự làm sạch bản thân thường xuyên hơn em làm đấy."
+    rachel "Nó tự làm sạch bản thân còn thường xuyên hơn cả em đấy."
 
 # game/characters/rachel/ev_8.rpy:209
 translate vietnamese rachel_8_part2_10d7626e:
@@ -610,13 +611,13 @@ translate vietnamese rachel_8_part2_3820771a:
 translate vietnamese rachel_8_part2_010804b4:
 
     # rachel "Go play around by yourself. Adults are talking."
-    rachel "Đi ra chuồng gà mà chơi. Người lớn đang nói chuyện."
+    rachel "Ra chuồng gà mà chơi. Người lớn đang nói chuyện."
 
 # game/characters/rachel/ev_8.rpy:214
 translate vietnamese rachel_8_part2_eb49fb72:
 
     # lil_fox crestfallen "But I'm an adult too.. I even went through the adulthood ceremony.."
-    lil_fox crestfallen "Nhưng em cũng là một người trưởng thành... Em thậm chí đã trải qua buổi lễ trưởng thành..."
+    lil_fox crestfallen "Nhưng em cũng là người lớn mà... Em thậm chí đã trải qua buổi lễ trưởng thành nữa..."
 
 # game/characters/rachel/ev_8.rpy:215
 translate vietnamese rachel_8_part2_f836dc89:
@@ -640,7 +641,7 @@ translate vietnamese rachel_8_part2_2930e26f:
 translate vietnamese rachel_8_part2_0e3b9885:
 
     # lil_fox blush "Do you really prefer talking with her rather than playing with me?"
-    lil_fox blush "Anh thực sự thích nói chuyện với chị ấy hơn là chơi với em?"
+    lil_fox blush "Anh thích cái nào hơn, nói chuyện với chị ấy hay là chơi với em?"
 
 # game/characters/rachel/ev_8.rpy:219
 translate vietnamese rachel_8_part2_3820771a_1:
@@ -682,19 +683,19 @@ translate vietnamese rachel_8_part2_5479cd8a:
 translate vietnamese rachel_8_part2_c5a369d6:
 
     # rachel "She thinks she can run away from me.. See you around, [me]."
-    rachel "Em ấy nghĩ rằng có thể chạy trốn khỏi tôi... Hẹn gặp lại sau, [me]."
+    rachel "Em ấy nghĩ là có thể chạy khỏi tôi cơ đấy... Hẹn gặp lại sau, [me]."
 
 # game/characters/rachel/ev_8.rpy:237
 translate vietnamese rachel_8_part2_4735d013:
 
     # rachel "Thank you for being so helpful. I really appreciate it."
-    rachel "Cảm ơn anh vì đã giúp đỡ rất nhiều. Tôi rất trân trọng điều này."
+    rachel "Cảm ơn anh vì đã giúp đỡ rất nhiều. Tôi rất trân trọng tấm lòng của anh."
 
 # game/characters/rachel/ev_8.rpy:239
 translate vietnamese rachel_8_part2_b95ec22c:
 
     # me "No problem. Good luck with that girl."
-    me "Không vấn đề. Chúc may mắn với cô gái đó."
+    me "Không sao. Chúc may mắn với cô bé đó nha."
 
 translate vietnamese strings:
 
@@ -711,19 +712,19 @@ translate vietnamese strings:
 translate vietnamese rachel_8_743cf85c:
 
     # rachel "That's sad. Actually, I'm in a similar situation. I suddenly appeared in this city some time ago. Around the same time as you. I was immediately corrupted."
-    rachel "Thật đáng buồn. Mà tôi cũng ở hoàn cảnh tương tự. Lúc trước tôi đột nhiên xuất hiện ở đây. Thời gian cũng đâu đó giống anh. Tôi đã hoàn toàn bị tha hóa."
+    rachel "Thật đáng buồn. Mà thật ra thì tôi cũng ở hoàn cảnh tương tự thôi. Lúc trước tôi đột nhiên xuất hiện ở đây. Thời gian cũng đâu đó giống anh. Tôi đã hoàn toàn bị tha hóa."
 
 # game/characters/rachel/ev_8.rpy:48
 translate vietnamese rachel_8_a6e9a882:
 
     # me "Really? Weird.. Most of the people I've met said that they were here since the beginning. You're the only one that has suddenly appeared here."
-    me "Thật hả? Lạ nhỉ... Hầu hết mọi người tôi gặp đều nói họ đã ở đây từ đầu. Cô là người duy nhất mà đột nhiên xuất hiện ở đây."
+    me "Thật hả? Lạ nhỉ... Hầu hết mọi người tôi gặp đều nói họ đã ở đây từ đầu. Cô là người duy nhất đột nhiên xuất hiện ở chỗ này đấy."
 
 # game/characters/rachel/ev_8.rpy:57
 translate vietnamese rachel_8_7505c4b2:
 
     # rachel "It was a man that once came to my shrine. I don't know what his race was. He was wearing a trench coat reaching the ground. It had a high collar, on his head big top hat."
-    rachel "Đấy là một người đàn ông từng đến đền của tôi. Tôi không biết loài của hắn là gì. Hăn mặc một cái áo khoác dài chạm đất. Nó có cổ áo cao. Trên đầu là một cái mũ chóp."
+    rachel "Đấy là một người đàn ông từng đến đền của tôi. Tôi không biết loài của hắn là gì. Hăn mặc một cái áo khoác dài chạm đất. Cổ áo cao. Trên đầu là một cái mũ chóp."
 
 # game/characters/rachel/ev_8.rpy:74
 translate vietnamese rachel_8_c669846f:
@@ -747,13 +748,13 @@ translate vietnamese rachel_8_c427bc99:
 translate vietnamese rachel_8_e6f74af9:
 
     # rachel "It said 'Rachel blanked out and waited in place for many hours. During this period, all monsters ignored her for various reasons. She had awakened from her stupor only when a man approached her.'"
-    rachel "Nó nói rằng 'Rachel trống rỗng và chờ đợi tại chỗ trong nhiều giờ. Trong suốt thời gian này, tất cả quái vật đều phớt lờ cô ấy vì nhiều lý do khác nhau. Cô ấy đã tỉnh dậy khỏi sự sững sờ của mình chỉ khi một người đàn ông đến gần cô ấy.'"
+    rachel "Nó nói rằng 'Rachel đờ ra và chờ đợi tại chỗ trong nhiều giờ. Trong suốt thời gian này, tất cả quái vật đều phớt lờ cô ấy vì nhiều lý do khác nhau. Cô ấy chỉ tỉnh dậy khi mà có một người đàn ông đến gần cô ấy.'"
 
 # game/characters/rachel/ev_8.rpy:154
 translate vietnamese rachel_8_cb9b87cb:
 
     # me "Fox girl had a fox as a pet?"
-    me "Hồ ly nuôi cáo như một thú cưng á?"
+    me "Hồ ly nuôi cáo như thú cưng á?"
 
 # game/characters/rachel/ev_8.rpy:158
 translate vietnamese rachel_8_5db11197:
@@ -765,13 +766,13 @@ translate vietnamese rachel_8_5db11197:
 translate vietnamese rachel_8_58aa173b:
 
     # rachel "Are you saying, I'm not adorable?"
-    rachel "Anh đang nói tôi không đáng yêu phải không?"
+    rachel "Anh đang nói là tôi không đáng yêu có phải không?"
 
 # game/characters/rachel/ev_8.rpy:208
 translate vietnamese rachel_8_part2_fa0ccac4:
 
     # rachel "It's cleaning itself, more often than you do."
-    rachel "Nó tự làm sạch bản thân thường xuyên hơn em đấy."
+    rachel "Nó tự làm sạch bản thân còn thường xuyên hơn cả em đấy."
 
 # game/characters/rachel/ev_8.rpy:214
 translate vietnamese rachel_8_part2_dd8b6e02:

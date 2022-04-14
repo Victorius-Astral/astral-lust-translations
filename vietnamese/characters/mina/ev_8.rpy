@@ -46,13 +46,13 @@ translate vietnamese mina_8_menu1_70618b63:
 translate vietnamese mina_8_menu1_c8d6f574:
 
     # mina "Thank you for saving me. It would be over for me if not for you."
-    mina "Cảm ơn vì đã cứu em. Nó sẽ kết thúc của em nếu không có anh đấy."
+    mina "Cảm ơn vì đã cứu em. Nó sẽ là kết thúc của em nếu anh không có mặt đấy."
 
 # game/characters/mina/ev_8.rpy:28
 translate vietnamese mina_8_menu1_11dbc535:
 
     # mina "Enough about me. How about you? Are you fine?"
-    mina "Nói về em đủ rồi. Còn anh thì sao? Anh vẫn ổn chứ?"
+    mina "Nói về em thế là đủ rồi. Còn anh thì sao? Anh vẫn ổn chứ?"
 
 # game/characters/mina/ev_8.rpy:29
 translate vietnamese mina_8_menu1_cfcdd1bb:
@@ -64,7 +64,7 @@ translate vietnamese mina_8_menu1_cfcdd1bb:
 translate vietnamese mina_8_menu1_4d051d4e:
 
     # mina "That's good to hear!"
-    mina "Thật tốt khi biết được điều này!"
+    mina "Thật tốt khi biết được điều đó!"
 
 # game/characters/mina/ev_8.rpy:33
 translate vietnamese mina_8_menu1_3ff02698:
@@ -88,7 +88,7 @@ translate vietnamese mina_8_menu1_9af20d9f:
 translate vietnamese mina_8_menu1_4d72848d:
 
     # mina "No. What right do I have to be angry?"
-    mina "Không. Em có quyền gì để tức giận chứ?"
+    mina "Không. Em có quyền gì để giận anh chứ?"
 
 # game/characters/mina/ev_8.rpy:47
 translate vietnamese mina_8_menu1_5b4ed783:
@@ -118,7 +118,7 @@ translate vietnamese mina_8_menu1_4f05c3d7:
 translate vietnamese mina_8_menu1_f88f7bd0:
 
     # mina "A little bit. But I figured it was going to end up like this."
-    mina "Một chút. Nhưng em cũng đã nghĩ rằng nó sẽ kết thúc như thế này rồi."
+    mina "Một chút. Nhưng em cũng đã đoán được là nó sẽ kết thúc như thế này rồi."
 
 # game/characters/mina/ev_8.rpy:57
 translate vietnamese mina_8_menu1_098fd679:
@@ -684,7 +684,7 @@ translate vietnamese strings:
 
     # game/characters/mina/ev_8.rpy:61
     old "Nah, I'm happy for you"
-    new "Nah, I'm happy for you"
+    new "Không, anh thấy rất mừng cho em cơ"
 
     # game/characters/mina/ev_8.rpy:166
     old "Love"
@@ -692,11 +692,11 @@ translate vietnamese strings:
 
     # game/characters/mina/ev_8.rpy:166
     old "Shit"
-    new "Đệt"
+    new "Như cứt"
 
     # game/characters/mina/ev_8.rpy:187
     old "Sure, take it"
-    new "Sure, take it"
+    new "Có chứ, cầm lấy đi"
 
     # game/characters/mina/ev_8.rpy:218
     old "Don't be a child"

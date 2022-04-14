@@ -232,7 +232,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Can't play {card_type} cards for {turns} turns."
-    new "Không thể dùng {card_type} loại bài này trong {turns} lượt."
+    new "Không thể dùng {card_type} loại bài {card_type} trong vòng {turns} lượt."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Add all exhausted and discarded cards to draw pile."
@@ -240,7 +240,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Change enemy intention."
-    new "Thay đổi í định của kẻ địch."
+    new "Thay đổi ý định của kẻ địch."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "You can't reverse this."

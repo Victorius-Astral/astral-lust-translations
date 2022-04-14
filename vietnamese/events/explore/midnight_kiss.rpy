@@ -1474,7 +1474,7 @@ translate vietnamese midnight_kiss_demeter_night_4a5d904e:
 translate vietnamese midnight_kiss_demeter_night_e87adac2:
 
     # me "Wouldn't such nightmare seem fitting for the 'Queen of Nightmares'?"
-    me "Không phải là cơn ác mộng như vậy dường như rất phù hợp với 'Nữ hoàng của những ác mộng' sao?"
+    me "Không phải là cơn ác mộng như vậy dường như rất phù hợp với 'Nữ hoàng của những cơn ác mộng' sao?"
 
 # game/events/explore/midnight_kiss.rpy:672
 translate vietnamese midnight_kiss_demeter_night_2b133fb2:

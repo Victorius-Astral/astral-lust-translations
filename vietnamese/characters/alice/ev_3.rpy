@@ -190,7 +190,7 @@ translate vietnamese alice_3_1_3fed6dba:
 translate vietnamese alice_3_1_0829e956:
 
     # alice "I know what I would be doing if The End never came and I prefer it this way."
-    alice "em biết mình sẽ làm gì nếu The End không bao giờ xảy ra và em thích nó theo cách này."
+    alice "em biết là mình sẽ làm gì nếu The End không bao giờ xảy ra và em thích nó theo cách này."
 
 # game/characters/alice/ev_3.rpy:64
 translate vietnamese alice_3_1_ad55ac50:
@@ -298,7 +298,7 @@ translate vietnamese alice_3_1_c9840755:
 translate vietnamese alice_3_1_e3d74726:
 
     # me "[alice] is this?"
-    me "[alice] có phải đây là?"
+    me "[alice] có phải đây là?"
 
 # game/characters/alice/ev_3.rpy:97
 translate vietnamese alice_3_1_6de3c1f2:
@@ -316,7 +316,7 @@ translate vietnamese alice_3_1_3820771a_1:
 translate vietnamese alice_3_1_3bca9e35:
 
     # th "To hell with her! I thought that we were going somewhere important.."
-    th "Đến chịu luôn đấy! Mình tưởng là phải đến đến nơi nào đó quan trọng lắm chứ..."
+    th "Đến chịu luôn đấy! Còn tưởng là phải đến đến nơi nào đó quan trọng lắm chứ..."
 
 # game/characters/alice/ev_3.rpy:101
 translate vietnamese alice_3_1_1a3f82f1:
@@ -370,7 +370,7 @@ translate vietnamese alice_3_1_3820771a_3:
 translate vietnamese alice_3_1_8e4f3bf3:
 
     # me "Why am I here?"
-    me "Tại sao anh lại ở đây?"
+    me "Thế anh ở đây để làm gì?"
 
 # game/characters/alice/ev_3.rpy:113
 translate vietnamese alice_3_1_8687936e:
@@ -388,7 +388,7 @@ translate vietnamese alice_3_1_3820771a_4:
 translate vietnamese alice_3_1_f53def4e:
 
     # me "Just take what you want and let's return before something finds us."
-    me "Hãy lấy những gì mình muốn và hãy quay lại trước khi có thứ gì đó tìm thấy chúng ta đi."
+    me "Lấy những gì mình muốn và hãy quay lại trước khi có thứ gì đó tìm thấy chúng ta đi."
 
 # game/characters/alice/ev_3.rpy:117
 translate vietnamese alice_3_1_784903c5:
@@ -406,7 +406,7 @@ translate vietnamese alice_3_1_3820771a_5:
 translate vietnamese alice_3_1_41506b6a:
 
     # th "Of course I want to.. help you choose the biggest dildo and shove it up your ass."
-    th "Tất nhiên anh muốn... giúp em chọn cái seg toy lớn nhất và nhét nó vào đít của em."
+    th "Tất nhiên anh muốn... giúp em chọn cái sếch toy lớn nhất và nhét nó vào đít của em."
 
 # game/characters/alice/ev_3.rpy:121
 translate vietnamese alice_3_1_53f472f5:
@@ -436,13 +436,13 @@ translate vietnamese alice_3_1_763f2ea5:
 translate vietnamese alice_3_1_1913de47:
 
     # me "Ahhh.. What am I doing with my life.. Waiting for a barely legal girl to choose a sex toy.."
-    me "Ahhh... mình đang làm gì với cuộc sống khốn khổ khốn nạn của mình thế này? Chờ một cô gái chọn sex toy..."
+    me "Ahhh... tôi đang làm gì với cái cuộc sống khốn khổ khốn nạn của tôi thế này? Chờ một cô gái chọn sex toy sao..."
 
 # game/characters/alice/ev_3.rpy:128
 translate vietnamese alice_3_1_9a479cb1:
 
     # me "What am I doing, where are we going? What's the point of life?"
-    me "Mình đang làm làm gì vậy, ta đang đi đâu vậy? Ý nghĩa của cuốc sống là gì?"
+    me "Tôi đang làm gì vậy, ta đang đi đâu vậy? Ý nghĩa của cuốc sống là gì?"
 
 # game/characters/alice/ev_3.rpy:130
 translate vietnamese alice_3_1_73a003ba:
@@ -586,7 +586,7 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_3.rpy:20
     old "Sure"
-    new "Được chứ"
+    new "Đi luôn"
 
     # game/characters/alice/ev_3.rpy:20
     old "Not now"

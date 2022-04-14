@@ -94,7 +94,7 @@ translate vietnamese damsel_pregnant_win_c74a2be6:
 translate vietnamese damsel_pregnant_win_ee0d2f52:
 
     # me "You're safe now, don't worry."
-    me "Bây giờ cô an toàn rồi, đừng lo lắng."
+    me "Đừng lo, bây giờ cô an toàn rồi."
 
 # game/events/explore/damsel_pregnant.rpy:140
 translate vietnamese damsel_pregnant_win_52b29554:
@@ -106,7 +106,7 @@ translate vietnamese damsel_pregnant_win_52b29554:
 translate vietnamese damsel_pregnant_win_096fe30d:
 
     # me "What the hell is a pregnant woman doing out here?"
-    me "Một phụ nữ mang thai đang làm cái quái gì ở đây vậy?"
+    me "Một người phụ nữ mang thai đang làm cái quái gì ở đây vậy?"
 
 # game/events/explore/damsel_pregnant.rpy:145
 translate vietnamese damsel_pregnant_win_ab8295f7:

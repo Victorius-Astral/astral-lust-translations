@@ -160,4 +160,4 @@ translate vietnamese strings:
 
     # game/characters/succubi/a/catch.rpy:44
     old "You've caught a succubus! She is going to live in the dungeon from now on."
-    new "Bạn đã bắt được một succubus! Cô ấy sẽ sống trong dungeon kể từ bây giờ."
+    new "Bạn đã bắt được một succubus! Cô ấy sẽ sống trong Ngục tối kể từ bây giờ."

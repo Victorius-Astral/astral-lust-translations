@@ -16,13 +16,13 @@ translate vietnamese mina_13_acaeebb1:
 translate vietnamese mina_13_89c2000a:
 
     # th "Buddy? I don't think, she's ever called me that."
-    th "Anh bạn? Mình không nghĩ, em ấy đã từng gọi mình như vậy."
+    th "Anh bạn? Mình không nhớ là em ấy từng gọi mình như vậy bao giờ cả."
 
 # game/characters/mina/ev_13.rpy:13
 translate vietnamese mina_13_5d07c54b:
 
     # me "Why her? What made you fall for her?"
-    me "Tại sao lại là cô ấy? Điều gì đã khiến em phải lòng cô ấy vậy?"
+    me "Nhưng tại sao lại là cô ấy? Điều gì đã khiến em phải lòng cô ấy vậy?"
 
 # game/characters/mina/ev_13.rpy:16
 translate vietnamese mina_13_dd72a0be:
@@ -82,7 +82,7 @@ translate vietnamese mina_13_74270990:
 translate vietnamese mina_13_2d78a3ec:
 
     # me "Ouch! Ahhh!! I'm dying!"
-    me "Ui! ÁÁÁÁÁ!! Tôi chêt mất!"
+    me "Ui! ÁÁÁÁÁ!! Tôi chết con mẹ nó mất!"
 
 # game/characters/mina/ev_13.rpy:36
 translate vietnamese mina_13_a084ed8e:
@@ -142,7 +142,7 @@ translate vietnamese mina_13_187a50b6:
 translate vietnamese mina_13_7695c8c7:
 
     # mina "Don't propose to me again, that was aaawwwkward."
-    mina "Đừng cầu hôn em nữa, điều đó thật khó xửửửửử."
+    mina "Đừng tỏ tình em nữa, thế này thật khó xửuuu."
 
 # game/characters/mina/ev_13.rpy:57
 translate vietnamese mina_13_3820771a:
@@ -160,7 +160,7 @@ translate vietnamese mina_13_c4604010:
 translate vietnamese mina_13_52255db8:
 
     # me "I get where you're going, but you seem to like her very much."
-    me "Anh hiểu em đang muốn nói gì rôi, nhưng em có vẻ rất thích cô ấy."
+    me "Anh hiểu em đang muốn nói gì rồi, nhưng em có vẻ rất thích cô ấy."
 
 # game/characters/mina/ev_13.rpy:62
 translate vietnamese mina_13_7ac38684:
@@ -208,7 +208,7 @@ translate vietnamese mina_13_5094a210:
 translate vietnamese mina_13_980e662d:
 
     # mina "Yeah, you know, girl's solidarity."
-    mina "Yeah, bạn biết đấy, mối liên kết của các cô gái."
+    mina "Yeah, anh biết đấy, mối liên kết của các cô gái."
 
 # game/characters/mina/ev_13.rpy:76
 translate vietnamese mina_13_8a7dbeb4:
@@ -232,13 +232,13 @@ translate vietnamese mina_13_8eb98cf3:
 translate vietnamese mina_13_ba9568a0:
 
     # mina "How would you know? It's not like you understand how girls feel."
-    mina "Sao anh biết? Nó không giống như bạn hiểu cảm giác của con gái đâu."
+    mina "Sao anh biết? Nó không giống như là anh hiểu cảm giác của con gái đâu."
 
 # game/characters/mina/ev_13.rpy:82
 translate vietnamese mina_13_9d378610:
 
     # me "What's the difference between what men and women feel?"
-    me "Có gì khác biệt giữa cảm nhận đàn ông và phụ nữ chứ?"
+    me "Có gì khác biệt giữa cảm nhận của đàn ông và phụ nữ chứ?"
 
 # game/characters/mina/ev_13.rpy:85
 translate vietnamese mina_13_3df0e5c0:
@@ -250,7 +250,7 @@ translate vietnamese mina_13_3df0e5c0:
 translate vietnamese mina_13_ad2ace72:
 
     # me "Pfft! Yeah, tell yourself that. We've been talking about Alice. Is your pussy dripping wet yet?"
-    me "Pfft! Vâng, tự nói với mình cái đó đi. Chúng ta nói về Alice. Em đã chảy nước chưa?"
+    me "Pfft! Rồi rồi, tự nói với bản thân mình câu đó đi. Chúng ta đang nói về Alice cơ. Thế. em đã chảy nước chưa?"
 
 # game/characters/mina/ev_13.rpy:89
 translate vietnamese mina_13_eaf701ec:
@@ -268,7 +268,7 @@ translate vietnamese mina_13_5b677735:
 translate vietnamese mina_13_7bfb13ab:
 
     # mina "I didn't say you can't.."
-    mina "Em có nói là anh không đâu..."
+    mina "Em có nói là anh không thể đâu..."
 
 # game/characters/mina/ev_13.rpy:101
 translate vietnamese mina_13_34b51a7e:
@@ -298,7 +298,7 @@ translate vietnamese mina_13_c998b111:
 translate vietnamese mina_13_0f939b42:
 
     # mina "What? I'm, as you've said, dripping wet right now, and you can help me with that. Friends gotta look out for each other, remember?"
-    mina "Gì? Như anh đã nói, hiện giờ em đang rất ướt, và anh có thể giúp em điều đó. Bạn bè phải quan tâm đến nhau mà, nhớ chứ?"
+    mina "Gì? Như anh đã nói rồi đấy, hiện giờ em đang rất ướt, và anh có thể giúp em điều đó. Bạn bè phải quan tâm đến nhau mà, nhớ chứ?"
 
 # game/characters/mina/ev_13.rpy:110
 translate vietnamese mina_13_22813081:
@@ -346,7 +346,7 @@ translate vietnamese mina_13_ca7f64fd:
 translate vietnamese mina_13_95f3a9ad:
 
     # me "No, it's time for me, I'll go."
-    me "Không, đã đến lúc cho anh rồi, anh sẽ đi."
+    me "Không, bây giờ anh có việc rồi, anh sẽ đi."
 
 # game/characters/mina/ev_13.rpy:129
 translate vietnamese mina_13_4e4f0b5a:
@@ -370,7 +370,7 @@ translate vietnamese mina_13_5cdebf03:
 translate vietnamese mina_13_0c2778a2:
 
     # mina "Now my panties."
-    mina "Bây giờ đên quần lót của em."
+    mina "Bây giờ thì đến quần lót của em."
 
 # game/characters/mina/ev_13.rpy:141
 translate vietnamese mina_13_67f28bd7:
@@ -394,7 +394,7 @@ translate vietnamese mina_13_518246e4:
 translate vietnamese mina_13_158818eb:
 
     # mina "Go on. Finish."
-    mina "Tiếp đi. Nói hết câu nào."
+    mina "Tiếp đi. Nói cho hết câu nào."
 
 # game/characters/mina/ev_13.rpy:149
 translate vietnamese mina_13_3820771a_2:
@@ -436,7 +436,7 @@ translate vietnamese mina_13_8186280d:
 translate vietnamese mina_13_714a1015:
 
     # me "Oh, I'm that strong of an aphrodisiac to you?"
-    me "Oh, anh là một liều thuốc kích dục mạnh mẽ đối với em hả?"
+    me "Oh, anh là một liều thuốc kích dục mạnh mẽ đến vậy sao?"
 
 # game/characters/mina/ev_13.rpy:165
 translate vietnamese mina_13_8c1bf30d:
@@ -448,7 +448,7 @@ translate vietnamese mina_13_8c1bf30d:
 translate vietnamese mina_13_b65e53f6:
 
     # th "Yeah, sure, whatever allows you to sleep at night."
-    th "Ừ, chắc chắn rồi, bất cứ điều gì giúp em có thể ngủ vào ban đêm."
+    th "Rồi, rồi, bất cứ điều gì có thể giúp em có thể ngủ vào ban đêm."
 
 # game/characters/mina/ev_13.rpy:169
 translate vietnamese mina_13_b64ec5bf:
@@ -502,7 +502,7 @@ translate vietnamese mina_13_872add24:
 translate vietnamese mina_13_bf532faf:
 
     # "You went down to business and she's indeed soaking wet."
-    "Bạn đến công chuyện và cô ấy thực sự ướt đẫm."
+    "Bạn bắt đầu công chuyện và cô ấy thực sự rất ướt."
 
 # game/characters/mina/ev_13.rpy:189
 translate vietnamese mina_13_6e619d5f:
@@ -532,7 +532,7 @@ translate vietnamese mina_13_520f5af9:
 translate vietnamese mina_13_fba053f3:
 
     # th "Wait.. You're gonna scream my name."
-    th "Chờ đã... Em sẽ hét lên tên anh."
+    th "Chờ đã... Em sẽ hét lên tên của anh đúng chứ?"
 
 # game/characters/mina/ev_13.rpy:201
 translate vietnamese mina_13_aa4fe6ae:
@@ -736,7 +736,7 @@ translate vietnamese mina_13_9e56fe6c:
 translate vietnamese mina_13_7c99c201:
 
     # mina "Yeah, you were."
-    mina "CHưa đủ đâu."
+    mina "Chưa đủ đâu."
 
 # game/characters/mina/ev_13.rpy:276
 translate vietnamese mina_13_637ca54f:
@@ -778,13 +778,13 @@ translate vietnamese mina_13_8ac582d0:
 translate vietnamese mina_13_7fc40a65:
 
     # mina "Ugh.. Alright, if you somehow talk me into this, I'm all yours."
-    mina "Ugh... Được rồi, nếu bằng cách nào đó anh thuyết phục được em, thì của anh húp tất."
+    mina "Ugh... Được rồi, nếu bằng cách nào đó anh thuyết phục được em, thì em sẽ là của anh."
 
 # game/characters/mina/ev_13.rpy:289
 translate vietnamese mina_13_3a6e8fd5:
 
     # me "Ha! Great. Wait.. if I talk you into sleeping with me, doesn't it mean you're mine already?"
-    me "Ha! Ngon. Đợi đã... nếu anh bảo em ngủ với anh, không phải em là của anh sẵn rồi sao?"
+    me "Ha! Ngon. Đợi đã... nếu anh bảo em đi ngủ với anh, thì không phải em đã là của anh sẵn rồi sao?"
 
 # game/characters/mina/ev_13.rpy:292
 translate vietnamese mina_13_d9cc0bdd:
@@ -850,7 +850,7 @@ translate vietnamese mina_13_2e39132c:
 translate vietnamese mina_13_5b4b77be:
 
     # mina "Mm, so that's how you're 'out'."
-    mina "Mm, đó là cách anh 'ra'."
+    mina "Mm, vậy đó là cách anh đi 'ra ngoài'."
 
 # game/characters/mina/ev_13.rpy:319
 translate vietnamese mina_13_3820771a_6:
@@ -862,7 +862,7 @@ translate vietnamese mina_13_3820771a_6:
 translate vietnamese mina_13_e32e3bde:
 
     # th "Fuck, I thought I was stronger.."
-    th "Fuck, mình tưởng là mình phải mạnh mẽ hơn chứ..."
+    th "Đệt, mình tưởng là mình phải mạnh mẽ hơn chứ..."
 
 # game/characters/mina/ev_13.rpy:323
 translate vietnamese mina_13_31fd7591:
@@ -874,7 +874,7 @@ translate vietnamese mina_13_31fd7591:
 translate vietnamese mina_13_c45a00c2:
 
     # th "Perfect."
-    th "Hoàn cmn hảo."
+    th "Hoàn con mẹ nó hảo."
 
 # game/characters/mina/ev_13.rpy:325
 translate vietnamese mina_13_d0225683:
@@ -953,13 +953,13 @@ translate vietnamese mina_13_0be25483:
 translate vietnamese mina_13_2db26566:
 
     # me "Alright, getting back to the topic, is there nothing specific?"
-    me "Được rồi, quay lại chủ đề chính nào, thực sự không có gì cụ thể sao?"
+    me "Được rồi, quay lại chủ đề chính nào, thực sự là không có gì cụ thể sao?"
 
 # game/characters/mina/ev_13.rpy:56
 translate vietnamese mina_13_faffc2fb:
 
     # mina "Don't propose to me again, that was aaawwwkward!!"
-    mina "Đừng làm vậy nữa, điều này thật khó xửửửửử!!"
+    mina "Đừng làm vậy nữa, điều này thật là khó xử màaaaa!!"
 
 # game/characters/mina/ev_13.rpy:65
 translate vietnamese mina_13_0a4e6eef:
@@ -977,19 +977,19 @@ translate vietnamese mina_13_5980b8c4:
 translate vietnamese mina_13_fe9f1933:
 
     # th "So, she is horny! And definitely bi."
-    th "Vậy là em ấy đang nứng! Và chắc chắn ẻm là bi (biexsual)."
+    th "Vậy là em ấy đang nứng! Và chắc chắn em ấy là bi (biexsual)."
 
 # game/characters/mina/ev_13.rpy:102
 translate vietnamese mina_13_9b78ad75:
 
     # me "So, about your orientation.."
-    me "Về định hướng của em..."
+    me "Vậy, về định hướng của em..."
 
 # game/characters/mina/ev_13.rpy:109
 translate vietnamese mina_13_76a29fbe:
 
     # mina "What? I'm.. As you've said, I'm dripping wet right now, and you can help me with that. Friends gotta look out for each other, remember?"
-    mina "Gì? Em... như anh đã nói rồi đấy, tôi đang ướt sũng nước ngay bây giờ, và bạn có thể giúp tôi với. Bạn bè phải quan tâm đến nhau, hãy nhớ?"
+    mina "Gì? Như anh đã nói rồi đấy, hiện giờ em đang rất ướt, và anh có thể giúp em. Bạn bè phải quan tâm đến nhau mà, nhớ chứ?"
 
 # game/characters/mina/ev_13.rpy:113
 translate vietnamese mina_13_0dc505ed:
@@ -1007,7 +1007,7 @@ translate vietnamese mina_13_1e4150a0:
 translate vietnamese mina_13_94a72ce0:
 
     # mina "Bitch, please, don't call me that! I'm too young for being called ma'am!"
-    mina "Lậy cụ, đừng gọi em như vậy! Em chưa phải là một con đĩ già đâu!"
+    mina "Lậy cụ, đừng có gọi em như vậy! Em chưa phải là một con đĩ già đâu!"
 
 # game/characters/mina/ev_13.rpy:161
 translate vietnamese mina_13_591bb31b:
@@ -1025,4 +1025,4 @@ translate vietnamese mina_13_d89cf294:
 translate vietnamese mina_13_17799ec9:
 
     # th "Who am I lying to? Of course, I do.."
-    th "Mình đang nói dối ai vậy? Tất nhiên là có rồi..."
+    th "Mình đang nói dối ai vậy chứ? Tất nhiên là có rồi..."

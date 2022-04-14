@@ -10,7 +10,7 @@ translate vietnamese room_lobby_counter_dd5952c9:
 translate vietnamese room_lobby_counter_89a2301a:
 
     # "Building it costs 8 Wood, 8 Stone and 5 Metal. Do you wish to proceed?"
-    "Xây dựng nó tốn 8 Gỗ, 8 Đá và 5 kim loại. Bạn có muốn tiếp tục?"
+    "Xây dựng nó tốn 8 Gỗ, 8 Đá và 5 Sắt. Bạn có muốn tiếp tục?"
 
 # game/places/hotel/lobby/counter.rpy:14
 translate vietnamese room_lobby_counter_873b9e9f:
@@ -40,7 +40,7 @@ translate vietnamese room_lobby_counter_f159d6e1:
 translate vietnamese room_lobby_counter_0b1da42f:
 
     # "Building it costs 5 Wood, 4 Stone and 3 Metal and 3 Cloth. Do you wish to proceed?"
-    "Xây dựng nó tốn 5 Gỗ, 4 Đá và 3 Kim loại và 3 Vải. Bạn có muốn tiếp tục?"
+    "Xây dựng nó tốn 5 Gỗ, 4 Đá và 3 Sắt và 3 Vải. Bạn có muốn tiếp tục?"
 
 # game/places/hotel/lobby/counter.rpy:37
 translate vietnamese room_lobby_counter_873b9e9f_1:
@@ -70,7 +70,7 @@ translate vietnamese room_lobby_counter_bb87d76d:
 translate vietnamese room_lobby_counter_bbee43b5:
 
     # "Building it costs 5 Wood, 5 Stone, 15 Metal and 5 Cloth. Do you wish to proceed?"
-    "Xây dựng nó tốn 5 Gỗ, 5 Đá, 15 Kim loại và 5 Vải. Bạn có muốn tiếp tục?"
+    "Xây dựng nó tốn 5 Gỗ, 5 Đá, 15 Sắt và 5 Vải. Bạn có muốn tiếp tục?"
 
 # game/places/hotel/lobby/counter.rpy:60
 translate vietnamese room_lobby_counter_873b9e9f_2:
@@ -100,7 +100,7 @@ translate vietnamese room_lobby_counter_d8418d2c:
 translate vietnamese room_lobby_counter_75290155:
 
     # "Building it costs 7 Wood, 30 Stone, 10 Metal and 12 Cloth. Do you wish to proceed?"
-    "Xây dựng nó tốn 7 Gỗ, 30 Đá, 10 Kim loại và 12 Vải. Bạn có muốn tiếp tục?"
+    "Xây dựng nó tốn 7 Gỗ, 30 Đá, 10 Sắt và 12 Vải. Bạn có muốn tiếp tục?"
 
 # game/places/hotel/lobby/counter.rpy:83
 translate vietnamese room_lobby_counter_873b9e9f_3:
@@ -112,7 +112,7 @@ translate vietnamese room_lobby_counter_873b9e9f_3:
 translate vietnamese room_lobby_counter_912e68ef:
 
     # "Dungeon built successfully."
-    "Dungeon được xây dựng thành công."
+    "Ngục tối đã được xây dựng thành công."
 
 # game/places/hotel/lobby/counter.rpy:94
 translate vietnamese room_lobby_counter_3688fcdf_3:
@@ -124,13 +124,13 @@ translate vietnamese room_lobby_counter_3688fcdf_3:
 translate vietnamese room_lobby_counter_33e305ee:
 
     # "Dungeon expansion. Playroom offers additional H scenes. BDSM and Pet Play can be performed there."
-    "Mở rộng Dungeon. Phòng tình têuu cung cấp thêm các cảnh H. BDSM và Pet Play có thể được thực hiện ở đó."
+    "Mở rộng Ngục tối. Phòng tình têuu cung cấp thêm các cảnh H. BDSM và Pet Play có thể được thực hiện ở đó."
 
 # game/places/hotel/lobby/counter.rpy:102
 translate vietnamese room_lobby_counter_27dd2c0f:
 
     # "Building it costs 16 Wood, 10 Stone, 18 Metal and 20 Cloth. Do you wish to proceed?"
-    "Xây dựng nó tốn 16 Gỗ, 10 Đá, 18 Kim loại và 20 Vải. Bạn có muốn tiếp tục?"
+    "Xây dựng nó tốn 16 Gỗ, 10 Đá, 18 Sắt và 20 Vải. Bạn có muốn tiếp tục?"
 
 # game/places/hotel/lobby/counter.rpy:106
 translate vietnamese room_lobby_counter_873b9e9f_4:
@@ -160,7 +160,7 @@ translate vietnamese room_lobby_counter_87e8404e:
 translate vietnamese room_lobby_counter_a6fcdf90:
 
     # "Upgrading it costs 12 Wood, 10 Stone and 7 Metal. Do you wish to proceed?"
-    "Nâng cấp nó tốn 12 Gỗ, 10 Đá và 7 Kim loại. Bạn có muốn tiếp tục?"
+    "Nâng cấp nó tốn 12 Gỗ, 10 Đá và 7 Sắt. Bạn có muốn tiếp tục?"
 
 # game/places/hotel/lobby/counter.rpy:135
 translate vietnamese room_lobby_counter_873b9e9f_5:
@@ -190,7 +190,7 @@ translate vietnamese room_lobby_counter_2b5c2b8e:
 translate vietnamese room_lobby_counter_e68153fb:
 
     # "Upgrading it costs 20 Stone and 10 Metal. Do you wish to proceed?"
-    "Nâng cấp nó tốn 20 đá và 10 kim loại. Bạn có muốn tiếp tục?"
+    "Nâng cấp nó tốn 20 đá và 10 Sắt. Bạn có muốn tiếp tục?"
 
 # game/places/hotel/lobby/counter.rpy:158
 translate vietnamese room_lobby_counter_873b9e9f_6:
@@ -220,7 +220,7 @@ translate vietnamese room_lobby_counter_f49d91d9:
 translate vietnamese room_lobby_counter_80804fa8:
 
     # "Upgrading it costs 25 Stone and 20 Metal. Do you wish to proceed?"
-    "Nâng cấp nó tốn 25 đá và 20 kim loại. Bạn có muốn tiếp tục?"
+    "Nâng cấp nó tốn 25 đá và 20 Sắt. Bạn có muốn tiếp tục?"
 
 # game/places/hotel/lobby/counter.rpy:181
 translate vietnamese room_lobby_counter_873b9e9f_7:
@@ -250,7 +250,7 @@ translate vietnamese room_lobby_counter_683bb028:
 translate vietnamese room_lobby_counter_94a295df:
 
     # "Upgrading it costs 20 Metal, 3 Orcish Steel, and 3 Gold Nugget. Do you wish to proceed?"
-    "Nâng cấp nó tốn 20 kim loại, 3 Thép Orcish và 3 vàng miếng. Bạn có muốn tiếp tục?"
+    "Nâng cấp nó tốn 20 Sắt, 3 Thép Orcish và 3 vàng miếng. Bạn có muốn tiếp tục?"
 
 # game/places/hotel/lobby/counter.rpy:204
 translate vietnamese room_lobby_counter_873b9e9f_8:
@@ -340,7 +340,7 @@ translate vietnamese room_lobby_counter_2919f262:
 translate vietnamese room_lobby_counter_d2f6ffb2:
 
     # "Upgrading it costs (40 Stone, 40 Metal, 5 Gold Nuggets, 3 Gold Bars, 3 Diamonds, and 2 Orcish Steel. Do you wish to proceed?"
-    "Nâng cấp nó tốn kém (40 Đá, 40 Kim loại, 5 Vàng miếng, 3 thỏi vàng, 3 Kim cương và 2 thép Orcish. Bạn có muốn tiếp tục không?"
+    "Nâng cấp nó tốn kém (40 Đá, 40 Sắt, 5 Vàng miếng, 3 thỏi vàng, 3 Kim cương và 2 thép Orcish. Bạn có muốn tiếp tục không?"
 
 # game/places/hotel/lobby/counter.rpy:294
 translate vietnamese room_lobby_counter_873b9e9f_11:
@@ -378,35 +378,35 @@ translate vietnamese strings:
 
     # game/places/hotel/lobby/counter.rpy:7
     old "Vault (8 Wood, 8 Stone, 5 Metal)"
-    new "Kho chứa (8 Gỗ, 8 Đá, 5 Kim loại)"
+    new "Kho chứa (8 Gỗ, 8 Đá, 5 Sắt)"
 
     # game/places/hotel/lobby/counter.rpy:7
     old "Gym (5 Wood, 4 Stone, 3 Metal, 3 Cloth)"
-    new "Phòng thể dục (5 Gỗ, 4 Đá, 3 Kim loại, 3 Vải)"
+    new "Phòng thể dục (5 Gỗ, 4 Đá, 3 Sắt, 3 Vải)"
 
     # game/places/hotel/lobby/counter.rpy:7
     old "Forge (5 Wood, 5 Stone, 15 Metal, 5 Cloth)"
-    new "Lò rèn (5 Gỗ, 5 Đá, 15 Kim loại, 5 Vải)"
+    new "Lò rèn (5 Gỗ, 5 Đá, 15 Sắt, 5 Vải)"
 
     # game/places/hotel/lobby/counter.rpy:7
     old "Dungeon (7 Wood, 30 Stone, 10 Metal, 12 Cloth)"
-    new "Dungeon (7 Gỗ, 30 đá, 10 kim loại, 12 vải)"
+    new "Ngục tối (7 Gỗ, 30 đá, 10 Sắt, 12 vải)"
 
     # game/places/hotel/lobby/counter.rpy:7
     old "Playroom (16 Wood, 10 Stone, 18 Metal, 20 Cloth)"
-    new "Phòng tinh yêu (16 Gỗ, 10 viên đá, 18 kim loại, 20 vải)"
+    new "Phòng tinh yêu (16 Gỗ, 10 viên đá, 18 Sắt, 20 vải)"
 
     # game/places/hotel/lobby/counter.rpy:128
     old "Vault T2 (12 Wood, 10 Stone, 7 Metal)"
-    new "Kho chứa T2 (12 Gỗ, 10 Đá, 7 Kim loại)"
+    new "Kho chứa T2 (12 Gỗ, 10 Đá, 7 Sắt)"
 
     # game/places/hotel/lobby/counter.rpy:128
     old "Vault T3 (20 Stone, 10 Metal)"
-    new "Kho chứa T3 (20 Đá, 10 kim loại)"
+    new "Kho chứa T3 (20 Đá, 10 Sắt)"
 
     # game/places/hotel/lobby/counter.rpy:128
     old "Vault T4 (25 Stone, 20 Metal)"
-    new "Kho chứa T4 (25 Đá, 20 kim loại)"
+    new "Kho chứa T4 (25 Đá, 20 Sắt)"
 
     # game/places/hotel/lobby/counter.rpy:128
     old "Vault T5 (20 Metal, 3 Orcish Steel, 3 Gold Nugget)"
@@ -422,4 +422,4 @@ translate vietnamese strings:
 
     # game/places/hotel/lobby/counter.rpy:128
     old "Vault T8 (40 Stone, 40 Metal, 5 Gold Nugget, 3 Gold Bar, 3 Diamond, 2 Orcish Steel)"
-    new "Kho chứa T8 (40 Đá, 40 Kim loại, 5 Vàng miếng, 3 Thỏi vàng, 3 kim cương, 2 Thép Orcish)"
+    new "Kho chứa T8 (40 Đá, 40 Sắt, 5 Vàng miếng, 3 Thỏi vàng, 3 kim cương, 2 Thép Orcish)"

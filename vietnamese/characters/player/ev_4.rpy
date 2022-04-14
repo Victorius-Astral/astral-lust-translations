@@ -106,7 +106,7 @@ translate vietnamese main_4_1_3b274f37:
 translate vietnamese main_4_1_12b3c5e2:
 
     # kiara "It's my job. The End didn't stop the need for knowledge."
-    kiara "Đó là công việc của tôi. The End sẽ không thể ngăn cản được kiến thức."
+    kiara "Đó là công việc của tôi. Tận Thế sẽ không thể ngăn cản được nhu cầu về kiến thức."
 
 # game/characters/player/ev_4.rpy:62
 translate vietnamese main_4_1_b8ea8b09:

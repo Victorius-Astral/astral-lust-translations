@@ -106,13 +106,13 @@ translate vietnamese mina_9_1878332a:
 translate vietnamese mina_9_f2d5d6e6:
 
     # th "Is she still have those nightmares?"
-    th "Em ấy vẫn còn gặp những ác mộng sao?"
+    th "Em ấy vẫn còn gặp ác mộng sao?"
 
 # game/characters/mina/ev_9.rpy:32
 translate vietnamese mina_9_ad733c76:
 
     # me "But why do you want to sleep here? Isn't Lexi sleeping with you?"
-    me "Nhưng tại sao em lại muốn ngủ ở đây? KHông phải Lexi ngủ với em sao?"
+    me "Nhưng tại sao em lại muốn ngủ ở đây? Không phải có Lexi ngủ với em rồi à?"
 
 # game/characters/mina/ev_9.rpy:34
 translate vietnamese mina_9_b4a156c9:
@@ -130,13 +130,13 @@ translate vietnamese mina_9_5747be74:
 translate vietnamese mina_9_49d83c93:
 
     # "You hear some steps followed by the sound of doors closing."
-    "Bạn nghe thấy vài tiếng bước sau đó là tiếng đóng cửa."
+    "Bạn nghe thấy vài tiếng bước chân sau đó là tiếng đóng cửa."
 
 # game/characters/mina/ev_9.rpy:56
 translate vietnamese mina_9_95bc4bf8:
 
     # "Soon the knocking stops, you hear some steps followed by the sound of doors closing."
-    "Ngay sau đó tiếng gõ ngừng lại, bạn nghe thấy một số bước, sau đó là tiếng đóng cửa."
+    "Ngay sau đó tiếng gõ ngừng lại, bạn nghe thấy vài bước chân, sau đó là tiếng đóng cửa."
 
 # game/characters/mina/ev_9.rpy:62
 translate vietnamese mina_9_part2_0167e649:
@@ -148,7 +148,7 @@ translate vietnamese mina_9_part2_0167e649:
 translate vietnamese mina_9_part2_6d39777d:
 
     # me "Mm. Don't stand there, come to the bed."
-    me "Mm. Đừng đứng đực ra nữa, lên giường đi."
+    me "Ừm. Đừng đứng đực ra nữa, lên giường đi."
 
 # game/characters/mina/ev_9.rpy:66
 translate vietnamese mina_9_part2_8dd5984d:
@@ -214,7 +214,7 @@ translate vietnamese mina_9_part3_2009f816:
 translate vietnamese mina_9_part3_62e30384:
 
     # me "Not yet, what's up?"
-    me "Vẫn chưa, có chuyện gì vậy?"
+    me "Anh chưa, có chuyện gì vậy?"
 
 # game/characters/mina/ev_9.rpy:92
 translate vietnamese mina_9_part3_990d43db:
@@ -346,7 +346,7 @@ translate vietnamese mina_9_part3_b4e776d8:
 translate vietnamese mina_9_part3_7911d747:
 
     # mina "{small}Thnnk uu.{/small}" id mina_9_part3_7911d747
-    mina "{small}Cảmn mư.{/small}" id mina_9_part3_7911d747
+    mina "{small}Cảmn mưn.{/small}" id mina_9_part3_7911d747
 
 # game/characters/mina/ev_9.rpy:121
 translate vietnamese mina_9_part3_c15afaa7:
@@ -364,25 +364,25 @@ translate vietnamese mina_9_part3_d4a8fa8f:
 translate vietnamese mina_9_part3_7a16f995:
 
     # th "She looks rather sweet when she's asleep."
-    th "Em ấy trông khá dễ thương khi ngủ đấy."
+    th "Em ấy trông khá dễ thương khi ngủ đấy chứ."
 
 # game/characters/mina/ev_9.rpy:125
 translate vietnamese mina_9_part3_bbe0db14:
 
     # th "I hope she'll find some peace soon."
-    th "Mình hy vọng em ấy sẽ sớm thấy bình yên."
+    th "Mình hy vọng là em ấy sẽ sớm thấy bình yên."
 
 # game/characters/mina/ev_9.rpy:127
 translate vietnamese mina_9_part3_f167f1f8:
 
     # "Finally, you have joined [mina] in dreamland."
-    "Cuối cùng, bạn đã cùng [mina] vào cõi mộng."
+    "Sau đó, bạn đã cùng [mina] đi vào cõi mộng."
 
 # game/characters/mina/ev_9.rpy:130
 translate vietnamese mina_9_part3_b928af58:
 
     # "When you wake up, [mina] is still sleeping."
-    "Khi bạn thức dậy, [mina] vẫn đang ngủ."
+    "Khi bạn thức dậy, [mina] vẫn còn đang ngủ."
 
 # game/characters/mina/ev_9.rpy:132
 translate vietnamese mina_9_part3_8d830a81:

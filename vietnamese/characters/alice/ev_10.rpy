@@ -148,7 +148,7 @@ translate vietnamese alice_10_3bf869f9:
 translate vietnamese alice_10_9c6fbd7b:
 
     # alice "Do you like my nightdress daddy?"
-    alice "Daddy có thích váy ngủ này không?"
+    alice "Daddy có thích bộ váy ngủ này không?"
 
 # game/characters/alice/ev_10.rpy:71
 translate vietnamese alice_10_4befe67e:
@@ -166,7 +166,7 @@ translate vietnamese alice_10_7839452d:
 translate vietnamese alice_10_32f12d93:
 
     # alice "Let's play daddy."
-    alice "Hãy chơi nào daddy."
+    alice "Hãy chơi nào."
 
 # game/characters/alice/ev_10.rpy:78
 translate vietnamese alice_10_c854a4d6:

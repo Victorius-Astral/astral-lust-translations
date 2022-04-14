@@ -635,7 +635,7 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_7.rpy:226
     old "palm"
-    new "3141m"
+    new "3147 m"
 
     # game/characters/alice/ev_7.rpy:237
     old "all"
@@ -679,7 +679,7 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_7.rpy:200
     old "What goes up but never ever comes down?"
-    new "Cái gì đi lên nhưng không bao giờ đi xuống?(viết không dấu)"
+    new "Cái gì đi lên nhưng không bao giờ đi xuống? (viết không dấu)"
 
     # game/characters/alice/ev_7.rpy:211
     old "What is always coming, but never arrives?"
@@ -687,7 +687,7 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_7.rpy:222
     old "What kind of tree can you carry in your hand?"
-    new "Đỉnh Fansipan cao bao nhiêu m?"
+    new "Đỉnh Fansipan cao bao nhiêu m? (VD: 1234 m)"
 
     # game/characters/alice/ev_7.rpy:233
     old "Some months have 31 days, others have 30 days. How many have 28 days?"
@@ -711,4 +711,4 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_7.rpy:248
     old "mushroom"
-    new "Nấm"
+    new "Nam"

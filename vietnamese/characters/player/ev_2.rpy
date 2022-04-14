@@ -130,7 +130,7 @@ translate vietnamese main_2_c0d13d30:
 translate vietnamese main_2_1fcc7b82:
 
     # me "Y-You didn't know that The End would arrive? You were spreading rumors about it long before it happened."
-    me "N-Ngươi không biết rằng The End sẽ đến sao? Ngươi đã tung tin đồn về nó rất lâu trước khi nó xảy ra."
+    me "N-Ngươi không biết rằng Tận Thế sẽ đến sao? Ngươi đã tung tin đồn về nó rất lâu trước khi nó xảy ra."
 
 # game/characters/player/ev_2.rpy:36
 translate vietnamese main_2_aa77131d:

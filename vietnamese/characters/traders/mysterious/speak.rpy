@@ -94,7 +94,7 @@ translate vietnamese speak_mt_feaa1f8b:
 translate vietnamese speak_mt_19b973e8:
 
     # mt "Haha, I have the best stuff out there! No one can give you a better deal!"
-    mt "Haha, Tôi có những thứ tốt nhất ngoài kia! Không ai có thể cung cấp cho bạn một thỏa thuận tốt hơn!"
+    mt "Haha, Tôi có những thứ tốt nhất ngoài kia! Không ai có thể cung cấp cho cậu một thỏa thuận tốt hơn!"
 
 # game/characters/traders/mysterious/speak.rpy:29
 translate vietnamese speak_mt_5444ab60:
@@ -124,13 +124,13 @@ translate vietnamese speak_mt_b1cc8aa6:
 translate vietnamese speak_mt_07024eae:
 
     # mt "Ha! Don't try to hide it! I know you have a coin like this!"
-    mt "Ha! Đừng cố che giấu nó! Tôi biết bạn có một đồng xu như thế này!"
+    mt "Ha! Đừng cố che giấu nó! Tôi biết cậu có một đồng xu như thế này!"
 
 # game/characters/traders/mysterious/speak.rpy:41
 translate vietnamese speak_mt_0c8cb381:
 
     # mt "Ha! Don't try to hide it! I know you have a coin like this hidden in your vault!"
-    mt "Ha! Đừng cố che giấu nó! Tôi biết bạn có một đồng xu như thế này được giấu trong kho của bạn!"
+    mt "Ha! Đừng cố che giấu nó! Tôi biết cậu có một đồng xu như thế này được giấu trong kho của cậu!"
 
 # game/characters/traders/mysterious/speak.rpy:43
 translate vietnamese speak_mt_2c18d4b2:
@@ -172,13 +172,13 @@ translate vietnamese speak_mt_7c4101bf:
 translate vietnamese speak_mt_bc84d29c:
 
     # mt "Have it your way, customer."
-    mt "Hãy làm theo cách của bạn, khách hàng."
+    mt "Hãy làm theo cách của cậu vậy, thưa khách hàng."
 
 # game/characters/traders/mysterious/speak.rpy:66
 translate vietnamese speak_mt_9dd0d1b8:
 
     # mt "Welcome again customer! How many coins have you brought with you?"
-    mt "Chào mừng một lần nữa khách hàng! Bạn đã mang theo bao nhiêu xu?"
+    mt "Chào mừng một lần nữa khách hàng! Cậu mang theo bao nhiêu xu vậy?"
 
 # game/characters/traders/mysterious/speak.rpy:68
 translate vietnamese speak_mt_da537a46:
@@ -196,7 +196,7 @@ translate vietnamese speak_mt_77fe1a1e:
 translate vietnamese speak_mt_f1351277:
 
     # mt "You have [amt] coins! I am right?"
-    mt "Bạn có [amt] xu! tôi có nói đúng không?"
+    mt "Cậu có [amt] xu! tôi có nói đúng không?"
 
 # game/characters/traders/mysterious/speak.rpy:78
 translate vietnamese speak_mt_202f7ffb:
@@ -208,7 +208,7 @@ translate vietnamese speak_mt_202f7ffb:
 translate vietnamese speak_mt_0914c6d2:
 
     # mt "Haha, worry not! I won't hurt you!"
-    mt "Haha, đừng lo lắng! Tôi sẽ không làm tổn thương bạn!"
+    mt "Haha, đừng lo! Tôi sẽ không làm tổn thương cậu đâu!"
 
 # game/characters/traders/mysterious/speak.rpy:81
 translate vietnamese speak_mt_3820771a:
@@ -244,7 +244,7 @@ translate vietnamese speak_mt_2_5d91c039:
 translate vietnamese mt_menu_316882ca:
 
     # mt "Ha! You need to bring a coin with you!"
-    mt "Ha! Bạn cần mang theo một đồng xu!"
+    mt "Ha! Cậu cần phải có một đồng xu đã!"
 
 # game/characters/traders/mysterious/speak.rpy:116
 translate vietnamese mt_menu_eaa207a7:
@@ -274,7 +274,7 @@ translate vietnamese mt_menu_5e0e35ff:
 translate vietnamese mt_menu_316882ca_1:
 
     # mt "Ha! You need to bring a coin with you!"
-    mt "Ha! Bạn cần mang theo một đồng xu!"
+    mt "Ha! Cậu cần phải có một đồng xu đã!"
 
 # game/characters/traders/mysterious/speak.rpy:134
 translate vietnamese mt_menu_66cb3e71:

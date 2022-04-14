@@ -12,7 +12,7 @@ translate vietnamese strings:
 
     # game/screens/menus/quests.rpy:66
     old "{gold}You can't trigger an event?\n Try increasing girl's trust & lust to her affection level.\n{/gold}"
-    new "{gold}Bạn không thể kích hoạt một sự kiện?\n Hãy thử tăng sự tin tưởng và ham muốn cung mức độ tình cảm của cô ấy.\n{/gold}"
+    new "{gold}Bạn không thể kích hoạt một sự kiện sao?\n Hãy thử tăng sự tin tưởng và ham muốn cùng với mức độ tình cảm của cô ấy.\n{/gold}"
 
     # game/screens/menus/quests.rpy:92
     old "{bad}Error! Progress over the maximum!\nIf you used cheats or console, change it back.{/bad}"

@@ -4,13 +4,13 @@
 translate vietnamese grace_2_37163545:
 
     # "As you enter you notice [grace] tending to the flowers."
-    "Khi bạn bước vào, bạn nhận thấy [grace] đang chăm sóc những bông hoa."
+    "Khi bước vào, bạn nhận thấy [grace] đang chăm sóc những bông hoa."
 
 # game/characters/grace/ev_2.rpy:4
 translate vietnamese grace_2_204b09e9:
 
     # th "She really likes them doesn't she?"
-    th "Em ấy thực sự thích chúng."
+    th "Em ấy thực sự rất thích chúng."
 
 # game/characters/grace/ev_2.rpy:6
 translate vietnamese grace_2_3a8edae1:
@@ -88,7 +88,7 @@ translate vietnamese grace_2_2d11311a:
 translate vietnamese grace_2_d1dad0c1:
 
     # th "I think I can guess what kind of woman her mother was.."
-    th "Mình nghĩ mình có thể đoán được mẹ em ấy là người phụ nữ như thế nào rồi..."
+    th "Mình nghĩ là mình có thể đoán được mẹ em ấy là người phụ nữ như thế nào rồi..."
 
 # game/characters/grace/ev_2.rpy:23
 translate vietnamese grace_2_dd4ce040:

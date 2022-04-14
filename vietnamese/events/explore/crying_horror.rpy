@@ -4,7 +4,7 @@
 translate vietnamese exp_crying_horror_c7c12c00:
 
     # "You are about to cross the intersection, when you hear the sound of a baby crying. It's right behind the corner."
-    "Bạn đang chuẩn bị đi qua ngã tư, thì bạn nghe thấy tiếng trẻ con khóc. Nó ở ngay sau góc kia."
+    "Khi đang chuẩn bị đi qua ngã tư, thì đột nhiên bạn nghe thấy tiếng trẻ con khóc. Nó ở ngay sau góc kia."
 
 # game/events/explore/crying_horror.rpy:17
 translate vietnamese exp_crying_horror_26d9ec4d:

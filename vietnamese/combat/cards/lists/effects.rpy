@@ -288,7 +288,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/effects.rpy:54
     old "Empower"
-    new "Tăng sức mạnh"
+    new "Cường Hóa"
 
     # game/combat/cards/lists/effects.rpy:54
     old "Gain {}x Strength every turn."
@@ -304,7 +304,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/effects.rpy:64
     old "Dragon's Might"
-    new "Bạo long"
+    new "Ngọa long"
 
     # game/combat/cards/lists/effects.rpy:64
     old "Each attack inflicts {}x {}, and {}x {}."

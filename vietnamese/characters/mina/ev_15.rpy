@@ -1682,7 +1682,7 @@ translate vietnamese strings:
 
     # game/characters/mina/ev_15.rpy:451
     old "[[This choice has major impact on a story! It can't be reversed!]"
-    new "[[Sự lựa chọn này có tác động lớn đến cốt chuyện! Nó không thể được đảo ngược!]"
+    new "[[Sự lựa chọn này có tác động lớn đến Cốt truyện! Nó không thể được đảo ngược!]"
 
     # game/characters/mina/ev_15.rpy:451
     old "I want you"

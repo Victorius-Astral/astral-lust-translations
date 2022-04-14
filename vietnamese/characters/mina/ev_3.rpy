@@ -4,7 +4,7 @@
 translate vietnamese mina_3_2b92aba6:
 
     # "As you enter the corridor, you notice [mina] sneakily standing near [alice]'s door."
-    "Khi tiến vào hành lang, bạn nhận thấy [mina] đang lén lút đứng gần cửa của [alice]."
+    "Khi tiến vào hành lang, bạn nhận thấy [mina] đang lén lút đứng gần cửa phòng của [alice]."
 
 # game/characters/mina/ev_3.rpy:10
 translate vietnamese mina_3_a6e26677:

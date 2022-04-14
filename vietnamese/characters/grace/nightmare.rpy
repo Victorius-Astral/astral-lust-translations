@@ -196,7 +196,7 @@ translate vietnamese grace_nightmare_part3_fb1b5575:
 translate vietnamese grace_nightmare_part3_c76c69c7:
 
     # me "What did you dream about?"
-    me "Thế em mơ về cái gì?"
+    me "Thế em mơ về cái gì vậy?"
 
 # game/characters/grace/nightmare.rpy:119
 translate vietnamese grace_nightmare_part3_50680ccb:
@@ -286,7 +286,7 @@ translate vietnamese grace_nightmare_part3_b12eec27:
 translate vietnamese grace_nightmare_part3_1f90c0ce:
 
     # me "You don't have any space under the bed, nothing can hide there."
-    me "Em còn chả có bất kỳ khoảng trống nào dưới gầm giường nữa kìa, không có gì có thể trón ở đó cả."
+    me "Em còn chả có bất kỳ khoảng trống nào dưới gầm giường nữa kìa, không có gì có thể trốn ở đó cả."
 
 # game/characters/grace/nightmare.rpy:138
 translate vietnamese grace_nightmare_part3_35fc19cd:
@@ -298,7 +298,7 @@ translate vietnamese grace_nightmare_part3_35fc19cd:
 translate vietnamese grace_nightmare_part3_066631b2:
 
     # me "Don't over-think it, [grace]."
-    me "Đừng nghĩ nhiều làm gì."
+    me "Đừng nghĩ ngợi nhiều quá."
 
 # game/characters/grace/nightmare.rpy:140
 translate vietnamese grace_nightmare_part3_14129a1e:
@@ -550,7 +550,7 @@ translate vietnamese grace_nightmare_part3_4159ff27:
 translate vietnamese grace_nightmare_part3_d887a9e1:
 
     # grace "No, it was empty. I was happy. We went to sleep. When I woke up, you were nowhere to be seen. We never found you..."
-    grace "Không, cái tủ trống rỗng. Em thấy rất vui. Rồi chúng ta đi ngủ. Nhưng khi em tỉnh dậy, anh đã không còn ở đay nữa. Bọn em không bao giờ tìm thấy anh..."
+    grace "Không, cái tủ trống rỗng. Em thấy rất vui. Rồi chúng ta đi ngủ. Nhưng khi em tỉnh dậy, thì anh đã không còn ở đây nữa rồi. Bọn em không bao giờ tìm thấy anh..."
 
 # game/characters/grace/nightmare.rpy:231
 translate vietnamese grace_nightmare_part3_3820771a_1:
@@ -590,7 +590,7 @@ translate vietnamese grace_nightmare_part3_d8769c30:
 
 # game/characters/grace/nightmare.rpy:248
 translate vietnamese grace_nightmare_part3_aa93b10c:
-    
+
     # me "Good girl."
     me "Cô bé ngoan."
 
@@ -676,7 +676,7 @@ translate vietnamese grace_nightmare_part3_07f1f046:
 translate vietnamese grace_nightmare_part3_8eb0f9d8:
 
     # me "Sure, sleep tight."
-    me "Được ròi, ngủ ngon nha."
+    me "Được rồi, ngủ ngon nha."
 
 # game/characters/grace/nightmare.rpy:272
 translate vietnamese grace_nightmare_part3_4a0fbf65:
@@ -838,7 +838,7 @@ translate vietnamese grace_nightmare_part4_9966eb97:
 translate vietnamese grace_nightmare_part4_c6b3e655:
 
     # grace "Thank you for letting me stay."
-    grace "Cảm ơn anh đã cho em ở lại."
+    grace "Cảm ơn anh vì đã cho em ở lại."
 
 # game/characters/grace/nightmare.rpy:341
 translate vietnamese grace_nightmare_part4_d3c090b3:
@@ -1062,7 +1062,7 @@ translate vietnamese strings:
 
     # game/characters/grace/nightmare.rpy:42
     old "Why don't you go sleep with Alice?"
-    new "Sao em không di ngủ với Alice đi?"
+    new "Sao em không đi ngủ với Alice đi?"
 
     # game/characters/grace/nightmare.rpy:62
     old "Go by yourself"
@@ -1098,4 +1098,3 @@ translate vietnamese grace_nightmare_part3_6d16ba19:
 
     # grace "Mo-!"
     grace "Mo-!"
-

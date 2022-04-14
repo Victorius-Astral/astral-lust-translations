@@ -4,13 +4,13 @@
 translate vietnamese grace_8_f847edc4:
 
     # "You enter the kitchen only to see [grace] and [alice] dining together." id grace_8_f847edc4
-    "Bạn vào bếp thấy [Grace] và [alice] ăn tối cùng nhau." id grace_8_f847edc4
+    "Khi bạn vào bếp thì thấy [grace] và [alice] ăn tối cùng nhau." id grace_8_f847edc4
 
 # game/characters/grace/ev_8.rpy:6
 translate vietnamese grace_8_ff6c8a3d:
 
     # "They turn towards you. [alice]'s expression seems dark."
-    "Họ quay về phía bạn. Biểu cảm của [alice] có vẻ u ám."
+    "Họ quay về phía bạn. Biểu cảm của [alice] có vẻ khá u ám."
 
 # game/characters/grace/ev_8.rpy:7
 translate vietnamese grace_8_7997aaf5:
@@ -22,7 +22,7 @@ translate vietnamese grace_8_7997aaf5:
 translate vietnamese grace_8_c51c814c:
 
     # th "What were they talking about?"
-    th "Họ đang nói về cái gì?"
+    th "Họ đang nói về cái gì vậy?"
 
 # game/characters/grace/ev_8.rpy:9
 translate vietnamese grace_8_d18f91ef:
@@ -64,7 +64,7 @@ translate vietnamese grace_8_bc654cbe:
 translate vietnamese grace_8_8649ebcf:
 
     # th "My throat's closing up."
-    th "Không sao không sao."
+    th "Thôi không sao không sao."
 
 # game/characters/grace/ev_8.rpy:20
 translate vietnamese grace_8_3c330d0b:
@@ -106,7 +106,7 @@ translate vietnamese grace_8_08ae1f20:
 translate vietnamese grace_8_b883ff52:
 
     # alice "He probably just bit off more than he could chew."
-    alice "Chắc Anh ấy đớp nhiều hơn lượng thức ăn có thể nhai thôi."
+    alice "Chắc Anh ấy đớp nhiều hơn lượng thức ăn mà anh ấy có thể nhai thôi."
 
 # game/characters/grace/ev_8.rpy:35
 translate vietnamese grace_8_93d91818:
@@ -118,7 +118,7 @@ translate vietnamese grace_8_93d91818:
 translate vietnamese grace_8_06451712:
 
     # alice "I'm sure he'll be able to swallow it down."
-    alice "Chị chắc rằng anh ấy sẽ có thể nuốt trôi nó xuống mà."
+    alice "Chị chắc rằng anh ấy sẽ có thể nuốt trôi nó xuống thôi."
 
 # game/characters/grace/ev_8.rpy:37
 translate vietnamese grace_8_fd3b0a65:
@@ -472,7 +472,7 @@ translate vietnamese grace_8_part3_ecb78305:
 translate vietnamese grace_8_part3_86609423:
 
     # th "Uhh.. I thought the thing between us would be over."
-    th "Uhh... Mình nghĩ mọi chuyện giữa chúng tôi sẽ kết thúc."
+    th "Uhh... Mình nghĩ mọi chuyện giữa chúng ta sẽ kết thúc."
 
 # game/characters/grace/ev_8.rpy:145
 translate vietnamese grace_8_part3_56ba5b30:
@@ -659,7 +659,7 @@ translate vietnamese grace_8_e36f9ad1:
 translate vietnamese grace_8_part2_df45ee26:
 
     # grace "I don't want to see his penis, and I don't want to show him my pussy."
-    grace "Em không muốn nhìn thấy dương vật của anh ấy, và em không muốn cho anh ấy xem âm hộ của tôi."
+    grace "Em không muốn nhìn thấy dương vật của anh ấy, và em không muốn cho anh ấy xem âm hộ của em."
 
 # game/characters/grace/ev_8.rpy:138
 translate vietnamese grace_8_part3_37d55d72:

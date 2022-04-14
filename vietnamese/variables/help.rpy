@@ -8,15 +8,15 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "You can visit her in the dungeon. Her lust will be increasing everyday, all pets need attention, she's no different."
-    new "Bạn có thể đến gặp cô ấy ở dungeon. Sự ham muốn của cô ấy sẽ tăng lên mỗi ngày, tấ cả thú cưng đều cần sự quan tâm, cô ấy không khác đâu."
+    new "Bạn có thể đến gặp cô ấy ở Ngục tối. Ham muốn của cô ấy sẽ tăng lên mỗi ngày, tấ cả thú cưng đều cần sự quan tâm, cô ấy không khác đâu."
 
     # game/variables/help.rpy:3
     old "Play with her, or wait for her lust to reach the critical point... What will she do once her lust goes over the roof?"
-    new "Chơi với cô ấy, hoặc đợi cho sự ham muốn của cô ấy đạt đến điểm cực hạn... Cô ấy sẽ làm gì đó một khi dục vọng của cô ấy vượt quá mức?"
+    new "Chơi với cô ấy, hoặc đợi cho ham muốn của cô ấy đạt đến điểm cực hạn... Cô ấy sẽ làm gì đó một khi dục vọng của cô ấy vượt quá mức?"
 
     # game/variables/help.rpy:3
     old "{lust}Will she run? Will she cheat on you? I know, but you don't have this privilege. Do you have the balls to check?{/lust}"
-    new "{lust}Cô ấy sẽ chạy chứ? Cô ấy sẽ lừa dối bạn? Tôi biết, nhưng bạn biết thế dell nào được. Bạn có gan để kiểm tra không?{/lust}"
+    new "{lust}Cô ấy sẽ chạy chứ? Cô ấy sẽ lừa dối bạn? Tôi biết, nhưng bạn thì biết thế đéo nào được. Bạn có gan để kiểm tra không?{/lust}"
 
     # game/variables/help.rpy:3
     old "1. You can view help by pressing 'Q'. As you play, you'll unlock new tutorials."
@@ -92,7 +92,7 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "Dungeon is a place where you keep your prisoners."
-    new "Dungeon là nơi bạn giam giữ các tù nhân của mình."
+    new "Ngục tối là nơi bạn giam giữ các tù nhân của mình."
 
     # game/variables/help.rpy:3
     old "Here you can play with Succubi you catch, you can visit prisoners by clicking on a corridor in the middle."
@@ -100,7 +100,7 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "Dungeon can additionally be expanded with playroom, giving you access to new H scenes with Succubi."
-    new "Dungeon với phòng phòng tình yêu cũng có thể được mở rộng, cho phép bạn truy cập vào các cảnh H mới với Succubus."
+    new "Ngục tối với phòng phòng tình yêu cũng có thể được mở rộng, cho phép bạn truy cập vào các cảnh H mới với Succubus."
 
     # game/variables/help.rpy:3
     old "{size=+10}{gold}Beware. Succubi are strong, don't hunt for them, before you are strong enough.{/gold}"
@@ -112,7 +112,7 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "You can increase your strength at the lifting bench."
-    new "Bạn có thể tăng sức mạnh của mình bằng đẩy tạ."
+    new "Bạn có thể tăng sức mạnh của mình bằng cách đẩy tạ."
 
     # game/variables/help.rpy:3
     old "To the right of it, there is a bike, where you'll increase your vitality."
@@ -196,7 +196,7 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "After you build a dungeon, you can also catch prisoners. You'll unlock option to look for Succubi,"
-    new "Sau khi bạn xây dựng một dungeon, bạn cũng có thể bắt tù nhân. Bạn sẽ mở khóa tùy chọn để tìm Succubus,"
+    new "Sau khi bạn xây dựng một ngục tối, bạn cũng có thể bắt tù nhân. Bạn sẽ mở khóa tùy chọn để tìm Succubus,"
 
     # game/variables/help.rpy:3
     old "beware though. Succubi are strong, and you don't have any hope of defeating them with your starting deck."
@@ -220,7 +220,7 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "From time to time you can meet Mysterious Trader at the library, offering tarot cards for special coins."
-    new "Đôi khi, bạn có thể gặp Mysterious Trader tại thư viện, cung cấp những lá bài tarot cho những đồng tiền đặc biệt."
+    new "Đôi khi bạn có thể gặp Thương Nhân Bí Ẩn tại thư viện, cung cấp những lá bài tarot cho những đồng tiền đặc biệt."
 
     # game/variables/help.rpy:3
     old "This is character menu, here you can check your state. Most of stats find their use, most can help in combat, many can help you to unlock additional content, by making successful checks."
@@ -246,7 +246,7 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "Play with her, or wait for her lust to reach the critical point.. What will she do once her lust goes over the roof?"
-    new "Chơi với cô ấy, hoặc đợi cho sự ham muốn của cô ấy đạt đến cực điểm.. Cô ấy sẽ làm gì một khi dục vọng của cô ấy vượt quá cả mái nhà?"
+    new "Chơi với cô ấy, hoặc đợi cho ham muốn của cô ấy đạt đến cực điểm.. Cô ấy sẽ làm gì một khi dục vọng của cô ấy vượt quá cả mái nhà?"
 
     # game/variables/help.rpy:3
     old "Here you can.. store things! Surprising, I know."
@@ -257,4 +257,4 @@ translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}12. If sanity reaches 0% or corruption 100% it's game over. Be careful.{/color}"
-    new "{color=#45B6FE}12. Nếu sự tỉnh táo còn đến 0% hoặc sa đọa chạm mức 100% thì trò chơi kết thúc. Hãy cẩn thận.{/color}"
+    new "{color=#45B6FE}12. Nếu độ tỉnh táo chỉ còn 0% hoặc sa đọa chạm mức 100% thì trò chơi kết thúc. Hãy cẩn thận.{/color}"

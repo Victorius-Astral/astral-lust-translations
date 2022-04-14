@@ -358,7 +358,7 @@ translate vietnamese lexi_3_menu_b2658a22:
 translate vietnamese lexi_3_menu_0fcc970e:
 
     # lexi "The End happened smartass."
-    lexi "The End đã xảy ra đấy bố ạ."
+    lexi "Tận Thế đã diễn ra đấy bố ạ."
 
 # game/characters/lexi/ev_3.rpy:120
 translate vietnamese lexi_3_menu_1e46bd12:

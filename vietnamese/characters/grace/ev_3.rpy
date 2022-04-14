@@ -10,7 +10,7 @@ translate vietnamese grace_3_84233d58:
 translate vietnamese grace_3_d2caa621:
 
     # "Once you're few a steps away from her. She turns to you."
-    "Khi bạn cách cô ấy vài bước. Cô ấy quay sang bạn."
+    "Khi chi còn cách cô ấy vài bước. Cô ấy quay sang bạn."
 
 # game/characters/grace/ev_3.rpy:6
 translate vietnamese grace_3_014d5e32:
@@ -22,7 +22,7 @@ translate vietnamese grace_3_014d5e32:
 translate vietnamese grace_3_0be3b477:
 
     # th "I never thought I'd see such emotions from this silly girl."
-    th "Mình chưa bao giờ nghĩ rằng mình sẽ nhìn thấy những cảm xúc như vậy từ cô gái ngốc nghếch này."
+    th "Mình chưa bao giờ nghĩ rằng là sẽ nhìn thấy được những cảm xúc như vậy từ cô gái ngốc nghếch này."
 
 # game/characters/grace/ev_3.rpy:9
 translate vietnamese grace_3_e579606d:
@@ -34,13 +34,13 @@ translate vietnamese grace_3_e579606d:
 translate vietnamese grace_3_8582c55b:
 
     # "Her voice, filled with sadness, makes you feel down. You wonder what happened to make this lively girl so depressed."
-    "Giọng cô ấy chứa đầy nỗi buồn khiến bạn cảm thấy hụt hẫng. Bạn tự hỏi điều gì đã xảy ra khiến cô gái đáng yêu này trở nên trầm cảm như vậy?."
+    "Giọng cô ấy chứa đầy nỗi buồn khiến bạn cảm thấy hụt hẫng. Bạn tự hỏi điều gì đã xảy ra mà khiến cô gái đáng yêu này trở nên trầm cảm như vậy?."
 
 # game/characters/grace/ev_3.rpy:11
 translate vietnamese grace_3_b2658a22:
 
     # me "What happened?"
-    me "Chuyện gì đã xảy ra thế?"
+    me "Chuyện gì đã xảy ra vậy?"
 
 # game/characters/grace/ev_3.rpy:13
 translate vietnamese grace_3_20f8f519:
@@ -64,7 +64,7 @@ translate vietnamese grace_3_2dbda4c7:
 translate vietnamese grace_3_5d97014c:
 
     # th "So it's her mother again.."
-    th "Vậy lại là mẹ của ẻm..."
+    th "Vậy lại là mẹ của em ấy..."
 
 # game/characters/grace/ev_3.rpy:22
 translate vietnamese grace_3_e6a50fdd:
@@ -76,13 +76,13 @@ translate vietnamese grace_3_e6a50fdd:
 translate vietnamese grace_3_e490246d:
 
     # grace "I'll never forget about her!"
-    grace "Em sẽ không bao giờ quên bà ấy!"
+    grace "Em sẽ không bao giờ quên mẹ!"
 
 # game/characters/grace/ev_3.rpy:33
 translate vietnamese grace_3_51c29516:
 
     # grace "Of course she is! Mom is the best, nothing could have happened to her!"
-    grace "Tất nhiên mẹ là người mẹ tốt nhất rồi, không có gì có thể xảy ra với mẹ!"
+    grace "Tất nhiên! Mẹ là tuyệt nhất, không có gì có thể xảy ra với mẹ cả!"
 
 # game/characters/grace/ev_3.rpy:39
 translate vietnamese grace_3_1_c76c1218:
@@ -118,7 +118,7 @@ translate vietnamese grace_3_1_ab73cf63:
 translate vietnamese grace_3_1_642ef4f7:
 
     # th "Does she want me to go out with her to find her mother? If I disagree she would be sad but I can't agree either."
-    th "Có phải em ấy muốn mình đi cùng để tìm mẹ mình không? Nếu mình không đồng ý, em ấy sẽ rất buồn nhưng mình cũng không thể đồng ý."
+    th "Có phải em ấy muốn mình đi cùng để tìm mẹ không? Nếu mình từ chối, em ấy sẽ rất buồn nhưng mình cũng không thể đồng ý được."
 
 # game/characters/grace/ev_3.rpy:47
 translate vietnamese grace_3_1_4e101807:
@@ -142,7 +142,7 @@ translate vietnamese grace_3_1_ea986f7b:
 translate vietnamese grace_3_1_6419bba8:
 
     # me "Sure [grace] I'll tell her if I ever meet her!"
-    me "Chắc chắn rồi [grace] Anh sẽ chuyển lời đến mẹ em khi anh gặp!"
+    me "Tất nhiên rồi [grace] Anh sẽ chuyển lời đến mẹ em khi anh gặp bà ấy!"
 
 # game/characters/grace/ev_3.rpy:55
 translate vietnamese grace_3_1_442f607d:
@@ -172,7 +172,7 @@ translate vietnamese grace_3_1_8083abc2:
 translate vietnamese grace_3_1_56c6a2af:
 
     # me "Sure, have it your way [grace]."
-    me "Chắc chắn rồi, hãy làm theo cách của em vậy."
+    me "Rồi rồi, hãy làm theo cách của em vậy."
 
 # game/characters/grace/ev_3.rpy:64
 translate vietnamese grace_3_1_b25b848b:
@@ -184,7 +184,7 @@ translate vietnamese grace_3_1_b25b848b:
 translate vietnamese grace_3_1_1be3b7d3:
 
     # "You turn around and leave her to her own thoughts."
-    "Bạn quay lại và để cô ấy với những suy nghĩ của riêng mình."
+    "Bạn quay đi và để cô ấy lại với những suy nghĩ của riêng mình."
 
 translate vietnamese strings:
 

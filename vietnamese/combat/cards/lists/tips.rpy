@@ -4,11 +4,11 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/tips.rpy:1
     old "{{b}}{{u}}Exhaust{{/u}}{{/b}}\n{{small}}Card is removed from your deck until the end of combat.{{/small}}"
-    new "{{b}}{{u}}Kiệt sức{{/u}}{{/b}}\n{{small}}Lá bài sẽ không thể sử dụng cho đến khi kết thúc ván đấu.{{/small}}"
+    new "{{b}}{{u}}Kiệt sức{{/u}}{{/b}}\n{{small}}Lá bài sẽ không thể được sử dụng cho đến khi kết thúc ván đấu.{{/small}}"
 
     # game/combat/cards/lists/tips.rpy:1
     old "{{b}}{{u}}Destroy{{/u}}{{/b}}\n{{small}}Card is permanently removed from your deck.{{/small}}"
-    new "{{b}}{{u}}Phá hủy{{/u}}{{/b}}\n{{small}}Lá bài bị phá hủy khỏi bộ bài của bạn.{{/small}}"
+    new "{{b}}{{u}}Phá hủy{{/u}}{{/b}}\n{{small}}Lá bài sẽ biến mất khỏi bộ bài của bạn.{{/small}}"
 
     # game/combat/cards/lists/tips.rpy:1
     old "{{b}}{{u}}{name}{{/u}}{{/b}}\n{{small}}{desc}{{/small}}"
@@ -35,7 +35,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/tips.rpy:1
     old "{{b}}{{u}}Summoning{{/u}}{{/b}}\n{{small}}Summon an ally to help you in combat. You need to have an empty space in your team for summoning to succeed. Summons disappear after combat.{{/small}}"
-    new "{{b}}{{u}}Summoning{{/u}}{{/b}}\n{{small}}Summon an ally to help you in combat. You need to have an empty space in your team for summoning to succeed. Summons disappear after combat.{{/small}}"
+    new "{{b}}{{u}}Triệu Hồi{{/u}}{{/b}}\n{{small}}Triệu Hồi một đồng minh để giúp bạn trong trận chiến. Bạn cần phải có chỗ trống ở trong đội của bạn để có thể triệu hồi. Người được triệu hồi sẽ biến mất khi xong trận chiến.{{/small}}"
 
     # game/combat/cards/lists/tips.rpy:1
     old "{{i}}{{small}}{{patreon1}}Thank you for support!{{/patreon1}}{{/small}}{{/i}}"
@@ -55,7 +55,7 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/tips.rpy:1
     old "{{small}}{{patreon1}}Helped the community by making a suggestion that made it into a game.{{/patreon1}}{{/small}}"
-    new "{{small}}{{patreon1}}Giúp đỡ cộng đồng bằng cách đưa ra đề xuất và đưa nó vào trong game.{{/patreon1}}{{/small}}"
+    new "{{small}}{{patreon1}}Giúp đỡ cộng đồng bằng cách đưa ra gợi ý và thêm nó vào trong game.{{/patreon1}}{{/small}}"
 
     # game/combat/cards/lists/tips.rpy:1
     old "\n________________"
@@ -66,5 +66,4 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/tips.rpy:1
     old "{{small}}{{patreon1}}Anniversary - 19th January{{/patreon1}}{{/small}}"
-    new "{{small}}{{patreon1}}Anniversary - 19th January{{/patreon1}}{{/small}}"
-
+    new "{{small}}{{patreon1}}Kỷ niệm - Ngày 19 tháng 1{{/patreon1}}{{/small}}"

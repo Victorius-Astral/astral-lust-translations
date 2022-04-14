@@ -16,13 +16,13 @@ translate vietnamese mina_10_0685522a:
 translate vietnamese mina_10_4df01226:
 
     # me "Sorry about that. You going out?"
-    me "Xin lỗi nha. Em đi ra ngoài à?"
+    me "Anh cũng xin lỗi. Em định đi ra ngoài à?"
 
 # game/characters/mina/ev_10.rpy:10
 translate vietnamese mina_10_8dd221d3:
 
     # mina "Actually, I was going to find you."
-    mina "Thực ra, em đi tìm anh cơ."
+    mina "Thực ra là, em đi tìm anh cơ."
 
 # game/characters/mina/ev_10.rpy:11
 translate vietnamese mina_10_398887f8:
@@ -34,7 +34,7 @@ translate vietnamese mina_10_398887f8:
 translate vietnamese mina_10_91b3ae9f:
 
     # mina "No, I just wanted to spend some time with you."
-    mina "Không, em chỉ muốn dành thời gian với anh thôi."
+    mina "Không, chỉ là em muốn dành thời gian với anh thôi."
 
 # game/characters/mina/ev_10.rpy:13
 translate vietnamese mina_10_444e8300:
@@ -142,7 +142,7 @@ translate vietnamese mina_10_314086b3:
 translate vietnamese mina_10_49322e24:
 
     # mina "Trying to keep all that ego inside your normal-sized head."
-    mina "Cố giữ tất cả cái tôi đó bên trong quả đầu có kích thước trung bình của anh."
+    mina "Cố giữ tất cả cái tôi của anh bên trong quả đầu có kích thước trung bình đó."
 
 # game/characters/mina/ev_10.rpy:49
 translate vietnamese mina_10_3820771a_1:
@@ -160,13 +160,13 @@ translate vietnamese mina_10_697001e9:
 translate vietnamese mina_10_1ef7bf44:
 
     # me "Oh, she doesn't want to talk with you anymore?"
-    me "Oh, chị ấy không muốn nói chuyện với anh nữa sao?"
+    me "Oh, chị ấy không muốn nói chuyện với em nữa sao?"
 
 # game/characters/mina/ev_10.rpy:58
 translate vietnamese mina_10_5bab4fa6:
 
     # mina "Nah, I'm tired of her fretting over me. I love her, but she worries about me too much."
-    mina "Không, em mệt mỏi với việc chị ấy làm phiền rồi. Em yêu chị mình , nhưng chị ấy lo cho em quá nhiều."
+    mina "Không, em mệt mỏi với việc bị chị ấy làm phiền rồi. Em yêu chị mình , nhưng chị ấy lo cho em một cách thái quá."
 
 # game/characters/mina/ev_10.rpy:59
 translate vietnamese mina_10_4a2b01dc:
@@ -226,7 +226,7 @@ translate vietnamese mina_10_671c0be1:
 translate vietnamese mina_10_05451038:
 
     # mina "Yeah, I guess the hotel would go to hell pretty quickly."
-    mina "Ừ, em đoán khách sạn sẽ rơi vào địa ngục khá nhanh."
+    mina "Ừ, em đoán khách sạn sẽ biến thành địa ngục khá nhanh."
 
 # game/characters/mina/ev_10.rpy:84
 translate vietnamese mina_10_4cb69213:
@@ -238,13 +238,13 @@ translate vietnamese mina_10_4cb69213:
 translate vietnamese mina_10_817062ac:
 
     # me "I think I'll take that advice." id mina_10_817062ac
-    me "Anh nghĩ mimhf sẽ nghe theo lời khuyên đó." id mina_10_817062ac
+    me "Chắc chắn rồi." id mina_10_817062ac
 
 # game/characters/mina/ev_10.rpy:89
 translate vietnamese mina_10_da9dccfb:
 
     # mina "I hope so. Grace can be a little dense sometimes.."
-    mina "Tôi cũng mong là như vậy. Đôi khi Grace có thể hơi đần độn chút..."
+    mina "Em cũng mong là như vậy. Đôi khi Grace có thể hơi đần độn chút..."
 
 # game/characters/mina/ev_10.rpy:90
 translate vietnamese mina_10_4e1efc24:
@@ -262,7 +262,7 @@ translate vietnamese mina_10_640523e0:
 translate vietnamese mina_10_c92549e3:
 
     # mina "Can you imagine her having a boyfriend, being all lovey dovey with him?"
-    mina "Anh thử nghĩ đến việc em ấy có một người bạn trai, rồi yêu say đắm anh ấy?"
+    mina "Anh thử nghĩ đến việc em ấy có một người bạn trai, rồi yêu say đắm anh ấy mà xem?"
 
 # game/characters/mina/ev_10.rpy:96
 translate vietnamese mina_10_25e18d55:
@@ -298,7 +298,7 @@ translate vietnamese mina_10_c466fb05:
 translate vietnamese mina_10_384b93bc:
 
     # me "Don't tell me you're completely unmoved by my bravery."
-    me "Đừng nói là em hoàn toàn không cảm động trước sự dũng cảm của anh nhớ."
+    me "Đừng nói là em hoàn toàn không cảm động trước sự dũng cảm của anh đấy nhá."
 
 # game/characters/mina/ev_10.rpy:117
 translate vietnamese mina_10_18a69186:
@@ -322,13 +322,13 @@ translate vietnamese mina_10_4ae3c509:
 translate vietnamese mina_10_e01e5d17:
 
     # me "Are you sure? When a knight saves a damsel, she marries him. Didn't you read fairy tales growing up?"
-    me "Em có chắc không? Khi một hiệp sĩ cứu một thiếu nữ, cô ấy sẽ kết hôn với anh ta. Em không đọc truyện cổ tích à?"
+    me "Em có chắc không? Khi một hiệp sĩ cứu một thiếu nữ, cô ấy sẽ kết hôn với anh ta. Em không đọc truyện cổ tích à?"
 
 # game/characters/mina/ev_10.rpy:124
 translate vietnamese mina_10_da805ebd:
 
     # mina "Oh, wow. You've actually proposed to me.."
-    mina "Oh, wow. Anh đã thực sự cầu hôn em rồi đấy..."
+    mina "Oh, wow. Anh thực sự cầu hôn em luôn rồi đấy..."
 
 # game/characters/mina/ev_10.rpy:125
 translate vietnamese mina_10_20297709:
@@ -340,7 +340,7 @@ translate vietnamese mina_10_20297709:
 translate vietnamese mina_10_e6035033:
 
     # mina "I don't know what to say.."
-    mina "Em không biết phải nói gì..."
+    mina "Em không biết phải nói gì nữa..."
 
 # game/characters/mina/ev_10.rpy:127
 translate vietnamese mina_10_d20e5d57:

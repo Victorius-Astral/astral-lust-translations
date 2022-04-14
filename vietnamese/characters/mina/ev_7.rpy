@@ -4,13 +4,13 @@
 translate vietnamese mina_7_2730b35a:
 
     # "As you enter you notice [mina] and [alice] spending time together."
-    "Khi bước vào bạn nhìn thấy [mina] và [alice] đang dnahf thời gian với nhau."
+    "Khi bước vào bạn nhìn thấy [mina] và [alice] đang dành thời gian cho nhau."
 
 # game/characters/mina/ev_7.rpy:4
 translate vietnamese mina_7_b834f34b:
 
     # th "[alice]? I think it's best I don't interrupt."
-    th "[alice]? Mình nghĩ tốt nhất là không nên quấy rầy."
+    th "[alice]? Mình nghĩ tốt nhất là không nên quấy rầy bọn họ."
 
 # game/characters/mina/ev_7.rpy:6
 translate vietnamese mina_7_adcfab35:
@@ -28,13 +28,13 @@ translate vietnamese mina_7_9fae2c59:
 translate vietnamese mina_7_4bec6f22:
 
     # me "Hello there, girls."
-    me "Cin chào, các cô gái."
+    me "Chào mấy con vợ."
 
 # game/characters/mina/ev_7.rpy:10
 translate vietnamese mina_7_abf7a0b7:
 
     # mina "Hey."
-    mina "Chào."
+    mina "Chào anh."
 
 # game/characters/mina/ev_7.rpy:11
 translate vietnamese mina_7_6688f373:
@@ -46,7 +46,7 @@ translate vietnamese mina_7_6688f373:
 translate vietnamese mina_7_2e082701:
 
     # mina "You came to see me?"
-    mina "Anh đến gặp em sao?"
+    mina "Anh đến để gặp em à?"
 
 # game/characters/mina/ev_7.rpy:21
 translate vietnamese mina_7_e81f65a1:
@@ -58,7 +58,7 @@ translate vietnamese mina_7_e81f65a1:
 translate vietnamese mina_7_3309160f:
 
     # alice "[me], really?"
-    alice "[me], thật sao?"
+    alice "Thật luôn, [me]?"
 
 # game/characters/mina/ev_7.rpy:28
 translate vietnamese mina_7_1_8d81c6da:
@@ -88,7 +88,7 @@ translate vietnamese mina_7_1_bea3df52:
 translate vietnamese mina_7_1_b428b65a:
 
     # mina "We were talking about what food we would like to eat. If you could eat anything right now, what would it be?"
-    mina "Bọn em đang nói về những món ăn bọn em muốn ăn. Nếu anh có thể ăn bất cứ thứ gì ngay bây giờ, nó sẽ là gì?"
+    mina "Bọn em đang nói về những món ăn mà mình thích thôi. Nếu anh có thể ăn bất cứ thứ gì ngay bây giờ, nó sẽ là gì?"
 
 # game/characters/mina/ev_7.rpy:36
 translate vietnamese mina_7_1_0ceed265:
@@ -424,7 +424,7 @@ translate vietnamese strings:
 
     # game/characters/mina/ev_7.rpy:34
     old "Steak"
-    new "Beef steak đuồi bầu"
+    new "Bít tết"
 
     # game/characters/mina/ev_7.rpy:34
     old "Pizza"

@@ -16,7 +16,7 @@ translate vietnamese alice_11_59669d75:
 translate vietnamese alice_11_e5c0f9f9:
 
     # me "What joking, it was a serious question."
-    me "Đùa gì chứ, đó là một câu hỏi nghiêm túc đấy."
+    me "Đùa cái gì, đó là một câu hỏi nghiêm túc đấy."
 
 # game/characters/alice/ev_11.rpy:16
 translate vietnamese alice_11_5e930aad:
@@ -28,7 +28,7 @@ translate vietnamese alice_11_5e930aad:
 translate vietnamese alice_11_2924c5fd:
 
     # me "Pff. Of course I am. I got the best girl in the world for myself."
-    me "Pff. Tất nhiên ròi. Anh đã có được cô gái tuyệt nhất trên thế giới cho riêng mình."
+    me "Pff. Tất nhiên rồi. Anh đã có được cô gái tuyệt nhất trên thế giới cho riêng mình mà lị."
 
 # game/characters/alice/ev_11.rpy:23
 translate vietnamese alice_11_f3891591:
@@ -76,7 +76,7 @@ translate vietnamese alice_11_64ec7548:
 translate vietnamese alice_11_bf436f67:
 
     # me "Let me guess, I'm supposed to gather materials for that."
-    me "Để anh đoán nhớ, anh là người phải thu thập vải đúng không?"
+    me "Để anh đoán nhá, anh là người phải thu thập vải đúng không?"
 
 # game/characters/alice/ev_11.rpy:43
 translate vietnamese alice_11_dd215bd0:

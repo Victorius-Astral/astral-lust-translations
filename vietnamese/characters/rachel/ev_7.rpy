@@ -52,7 +52,7 @@ translate vietnamese rachel_7_0e37e280:
 translate vietnamese rachel_7_e8aa681a:
 
     # rachel "I love it!"
-    rachel "tôi thích nó!"
+    rachel "tôi thích nó lắm!"
 
 # game/characters/rachel/ev_7.rpy:39
 translate vietnamese rachel_7_cbd92e51:
@@ -70,13 +70,13 @@ translate vietnamese rachel_7_f7815299:
 translate vietnamese rachel_7_9b9546d7:
 
     # rachel "She has awakened by the way."
-    rachel "Nhân tiện thì em ấy đã thức tỉnh."
+    rachel "Nhân tiện thì em ấy cũng dậy rồi đấy."
 
 # game/characters/rachel/ev_7.rpy:42
 translate vietnamese rachel_7_4fee96dd:
 
     # me "*Cough*"
-    me "*Khụ khụ*"
+    me "*Khụ*"
 
 # game/characters/rachel/ev_7.rpy:47
 translate vietnamese rachel_7_346483d3:
@@ -100,7 +100,7 @@ translate vietnamese rachel_7_7efac08c:
 translate vietnamese rachel_7_6bc7342a:
 
     # me "I did? You mean seeing you naked?"
-    me "Tôi đã có sao? Ý cô là nhìn thấy cô khỏa thân?"
+    me "Tôi có rồi sao? Ý cô là được nhìn thấy cô khỏa thân á?"
 
 # game/characters/rachel/ev_7.rpy:51
 translate vietnamese rachel_7_7b746825:
@@ -166,19 +166,19 @@ translate vietnamese rachel_7_3614256f:
 translate vietnamese rachel_7_19c83176:
 
     # me "Great.. I fucked up."
-    me "Tuyệt vời... Tôi làm hỏng hết rồi."
+    me "Tuyệt vời... mình làm hỏng hết mẹ rồi."
 
 # game/characters/rachel/ev_7.rpy:86
 translate vietnamese rachel_7_7c629fae:
 
     # rachel "You didn't look carefully enough the first time?"
-    rachel "Anh đã không nhìn kỹ ở lần đầu tiên á?"
+    rachel "Anh không nhìn kỹ ở lần đầu tiên à?"
 
 # game/characters/rachel/ev_7.rpy:87
 translate vietnamese rachel_7_bc0928f6:
 
     # me "I didn't know it was the reward so I didn't enjoy it enough."
-    me "Tôi không biết đó là phần thưởng nên tôi không tận hưởng nó đủ."
+    me "Tôi không biết đó là phần thưởng nên tôi chưa tận hưởng đủ."
 
 # game/characters/rachel/ev_7.rpy:94
 translate vietnamese rachel_7_85deb9bd:
@@ -196,7 +196,7 @@ translate vietnamese rachel_7_b1f13bb8:
 translate vietnamese rachel_7_effe0fa9:
 
     # me "Oh, I will. I will.."
-    me "Oh, Tôi sẽ. Tôi sẽ..."
+    me "Oh, tất nhiên rồi. Tất nhiên rồi..."
 
 # game/characters/rachel/ev_7.rpy:101
 translate vietnamese rachel_7_dc7745f2:
@@ -237,7 +237,7 @@ translate vietnamese strings:
 translate vietnamese rachel_7_dad6c67a:
 
     # rachel "She has awakened, by the way."
-    rachel "Nhân tiện thì em ấy cũng thức tỉnh rồi đấy."
+    rachel "Nhân tiện thì em ấy cũng dậy rồi đấy."
 
 # game/characters/rachel/ev_7.rpy:63
 translate vietnamese rachel_7_78dc0f6c:

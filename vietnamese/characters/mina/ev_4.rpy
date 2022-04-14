@@ -190,13 +190,13 @@ translate vietnamese mina_4_1_4fdc1a41:
 translate vietnamese mina_4_1_4f77b4c3:
 
     # me "It may feel that way, but I'm not sure if it is."
-    me "Nó có thể cảm thấy như vậy, nhưng anh không chắc liệu nó có đâu."
+    me "Nó có thể cảm thấy như vậy, nhưng anh   chắc liệu nó có đâu."
 
 # game/characters/mina/ev_4.rpy:66
 translate vietnamese mina_4_1_1354d6d9:
 
     # me "The world isn't like it used to be, what's acceptable now may not necessarily be the same as before. Don't you think so
-    me "Thế giới không giống như trước đây, những gì có thể chấp nhận được bây giờ có thể không nhất thiết giống như trước đây. Em có nghĩ vậy không?"
+    me "Thế giới không còn giống như trước đây, những gì có thể chấp nhận được bây giờ có thể không nhất thiết giống như trước đây. Em có nghĩ vậy không?"
 
 # game/characters/mina/ev_4.rpy:68
 translate vietnamese mina_4_1_5e2f5152:
@@ -1078,7 +1078,7 @@ translate vietnamese mina_4_5_c13aa0b7:
 translate vietnamese mina_4_5_b3187729:
 
     # mina "Have you ever had fantasies about other guys?"
-    mina "Anh đã bao giờ tưởng tượng về những chàng trai khác chưa?"
+    mina "Anh đã bao giờ mơ mộng về những chàng trai khác chưa?"
 
 # game/characters/mina/ev_4.rpy:396
 translate vietnamese mina_4_5_d420bf34:
@@ -1192,7 +1192,7 @@ translate vietnamese mina_4_6_064c7320:
 translate vietnamese mina_4_6_2c8fee52:
 
     # th "Hmm, I promised [mina] that I'd help her with [alice], I can't waste this opportunity."
-    th "Hmm, mình đã hứa với [mina] rằng mình sẽ giúp em ấy với [alice], mình không thể lãng phí cơ hội này."
+    th "Hmm, mình đã hứa với [mina] rằng mình sẽ giúp em ấy đẩy thuyền với [alice], mình không thể lãng phí cơ hội này được."
 
 # game/characters/mina/ev_4.rpy:448
 translate vietnamese mina_4_6_0be88a5d:
@@ -1258,7 +1258,7 @@ translate vietnamese mina_4_6_c98ab4bd:
 translate vietnamese mina_4_6_f9352ad9:
 
     # th "Fuuuck, I wish I could jump in.. but [mina] wouldn't be happy."
-    th "Đệtttt, mình ước mình có thể nhảy vào... nhưng [mina] sẽ không vui đâu."
+    th "Đệtttt, ước gì mình có thể nhảy vào... nhưng [mina] sẽ không vui đâu."
 
 # game/characters/mina/ev_4.rpy:472
 translate vietnamese mina_4_6_0db0be6c:
@@ -1306,7 +1306,7 @@ translate vietnamese mina_4_6_30e104f3:
 translate vietnamese mina_4_6_661c194c:
 
     # mina "See ya."
-    mina "Nye nha."
+    mina "Bye nha."
 
 # game/characters/mina/ev_4.rpy:484
 translate vietnamese mina_4_6_9692316e:

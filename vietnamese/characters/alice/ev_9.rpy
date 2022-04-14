@@ -16,7 +16,7 @@ translate vietnamese alice_9_8b6f0399:
 translate vietnamese alice_9_f5f4b6ad:
 
     # alice "Yeah, much better, all thanks to you."
-    alice "Có, đỡ hơn rất nhiều rồi, tất cả là nhờ anh đấy."
+    alice "Đỡ hơn rất nhiều rồi, tất cả là nhờ anh đấy."
 
 # game/characters/alice/ev_9.rpy:9
 translate vietnamese alice_9_9e0777f9:
