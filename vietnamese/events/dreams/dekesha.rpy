@@ -58,7 +58,7 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_d89ca415:
 translate vietnamese d_Dekesha_by_Darrdorack_2_6a7347f2:
 
     # th "I've known you're a bitch, [dekesha], but it seems you're a bitch in heat."
-    th "Tao biết mày là một con đĩ, [dekesha], nhưng có vẻ như mày là một con đĩ thèm cặc."
+    th "Tao biết mày là một con đĩ rồi, [dekesha], nhưng có vẻ như mày là một con đĩ thèm cặc cơ."
 
 # game/events/dreams/dekesha.rpy:57
 translate vietnamese d_Dekesha_by_Darrdorack_2_f50efa6b:
@@ -82,7 +82,7 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_9a6ed38c:
 translate vietnamese d_Dekesha_by_Darrdorack_2_d47ed764:
 
     # th "How does she even speak with the dick in her mouth?"
-    th "Làm thế nào mà cô ta thậm chí còn có thể nói chuyện với một con cặc trong miệng của mình?"
+    th "Làm thế nào mà cô ta thậm chí còn có thể nói chuyện với một con cặc trong miệng của mình vậy?"
 
 # game/events/dreams/dekesha.rpy:68
 translate vietnamese d_Dekesha_by_Darrdorack_2_68dd495f:
@@ -112,7 +112,7 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_6c368d23:
 translate vietnamese d_Dekesha_by_Darrdorack_2_9289edf6:
 
     # th "Finally, she can't speak anymore. I feel better already."
-    th "Cuối cùng thì, cô ta không thể nói được nữa. tôi cảm thấy tốt hơn rồi."
+    th "Cuối cùng thì, cô ta cũng im lặng rồi. Cảm giác dễ chịu hơn hẳn."
 
 # game/events/dreams/dekesha.rpy:81
 translate vietnamese d_Dekesha_by_Darrdorack_2_df26aa29:
@@ -142,7 +142,7 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_56fa61ef:
 translate vietnamese d_Dekesha_by_Darrdorack_2_5ff8db74:
 
     # th "She was always so high and mighty.. Hypocritical slut."
-    th "Cô ta luôn rất cao ngạo và hùng mạnh ... Con đĩ đạo đức giả."
+    th "Nó ta luôn rất cao ngạo và hùng mạnh... Con đĩ đạo đức giả."
 
 # game/events/dreams/dekesha.rpy:95
 translate vietnamese d_Dekesha_by_Darrdorack_2_85a2f47e:
@@ -154,13 +154,13 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_85a2f47e:
 translate vietnamese d_Dekesha_by_Darrdorack_2_6d8f046c:
 
     # th "Oh.. [dekesha] in her element.. Is this guy still alive? This witch could've sucked out his soul."
-    th "Oh... [dekesha] ... Anh chàng này vẫn còn sống hả? Con mụ phù thủy này sẽ hút hết linh hồn của anh ta mất."
+    th "Oh... [dekesha]... Thanh niên vẫn còn sống hả? Con mụ phù thủy này sẽ hút hết linh hồn của anh ta mất."
 
 # game/events/dreams/dekesha.rpy:105
 translate vietnamese d_Dekesha_by_Darrdorack_2_99308a16:
 
     # dekesha "Ahhmm! Yess!"
-    dekesha "Ahhmm! Yess!"
+    dekesha "Ahhmm! Đúng rồiii!"
 
 # game/events/dreams/dekesha.rpy:106
 translate vietnamese d_Dekesha_by_Darrdorack_2_0aae0d72:
@@ -178,13 +178,13 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_3820771a:
 translate vietnamese d_Dekesha_by_Darrdorack_2_f0981664:
 
     # th "I wish I could let this whore know her place."
-    th "Mình ước là có thể dạy cho con điếm này biết vị trí của cô ta."
+    th "Ước gì mình có thể dạy cho con điếm này biết vị trí của nó."
 
 # game/events/dreams/dekesha.rpy:116
 translate vietnamese d_Dekesha_by_Darrdorack_2_ed78ee82:
 
     # dekesha "Good, I love it!"
-    dekesha "Tốt, tôi thích nó!"
+    dekesha "Tốt, tao thích rồi đấy!"
 
 # game/events/dreams/dekesha.rpy:117
 translate vietnamese d_Dekesha_by_Darrdorack_2_1bee208a:
@@ -232,7 +232,7 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_fa778bcf:
 translate vietnamese d_Dekesha_by_Darrdorack_2_2cb8f560:
 
     # dekesha "You useless pieces of shit! I was so close!"
-    dekesha "Đồ vô dụng! Ta đã sắp ra rồi!"
+    dekesha "Lũ phế vật! Tao sắp ra rồi mà!"
 
 # game/events/dreams/dekesha.rpy:137
 translate vietnamese d_Dekesha_by_Darrdorack_2_db21a4a6:
@@ -244,7 +244,7 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_db21a4a6:
 translate vietnamese d_Dekesha_by_Darrdorack_2_ad1c50cd:
 
     # th "Did they lose consciousness?"
-    th "Họ có bị mất ý thức không?"
+    th "Có phải là họ bị mất ý thức rồi không?"
 
 # game/events/dreams/dekesha.rpy:139
 translate vietnamese d_Dekesha_by_Darrdorack_2_22d2c7f9:
@@ -268,7 +268,7 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_486da82b:
 translate vietnamese d_Dekesha_by_Darrdorack_2_f12c0666:
 
     # th "Alright, that's it, I can't hold back anymore."
-    th "Được rồi, thế là đủ rồi, tôi không thể kìm được nữa."
+    th "Thế đấy, vậy là đủ rồi, mình không thể kìm được nữa."
 
 # game/events/dreams/dekesha.rpy:147
 translate vietnamese d_Dekesha_by_Darrdorack_2_f523fb21:
@@ -346,7 +346,7 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_end_a1fe919d:
 translate vietnamese d_Dekesha_by_Darrdorack_2_end_0d3fe2b1:
 
     # me "Fuck you too, slut."
-    me "Địt mẹ mày nữa đi con đĩ."
+    me "Địt mẹ mày nữa, con đĩ."
 
 # game/events/dreams/dekesha.rpy:190
 translate vietnamese d_Dekesha_by_Darrdorack_2_slap_5be4f508:
@@ -412,25 +412,25 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_slap_0b172299:
 translate vietnamese d_Dekesha_by_Darrdorack_2_slap_7731af2b:
 
     # me "You're repeating yourself, whore."
-    me "Mỳ đang lặp lại chính mình đấy con điếm."
+    me "Mày không còn câu nào khác để nói nữa hả."
 
 # game/events/dreams/dekesha.rpy:216
 translate vietnamese d_Dekesha_by_Darrdorack_2_slap_f0e66ceb:
 
     # th "Ah time to go, I guess this bitch never learns."
-    th "À đến lúc phải đi rồi, tôi đoán là con đĩ này không bao giờ học được."
+    th "À đến lúc phải đi rồi, mình đoán là con đĩ này không bao giờ học được cái vẹo gì đâu."
 
 # game/events/dreams/dekesha.rpy:218
 translate vietnamese d_Dekesha_by_Darrdorack_2_slap_607f22b6:
 
     # th "Still that felt good. I wanted to do it since forever."
-    th "Vẫn cảm thấy tốt. Tôi đã luôn muốn làm điều đó."
+    th "Vẫn cảm thấy tốt. Mình đã luôn muốn làm điều này."
 
 # game/events/dreams/dekesha.rpy:228
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_6b922463:
 
     # "You don't wait, and instead enter [dekesha] immediately."
-    "You don't wait, and instead enter [dekesha] immediately."
+    "Không chút do dự bạn đút vào trong [dekesha] ngay lập tức."
 
 # game/events/dreams/dekesha.rpy:229
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_3b5ca1eb:
@@ -466,13 +466,13 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_sex_7484c03d:
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_734762ec:
 
     # dekesha "Mmm.. Shut up."
-    dekesha "Mmm... Câm miệng."
+    dekesha "Mmm... im mồm đi."
 
 # game/events/dreams/dekesha.rpy:242
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_f6c2ee35:
 
     # me "Where is your conviction, bitch. Shaken already?"
-    me "Sự tự tin của mày ở đâu rồi con đĩ. chưa gì đã run rồi hả?"
+    me "Sự tự tin của mày ở đâu rồi hả con đĩ. chưa gì đã run rồi à?"
 
 # game/events/dreams/dekesha.rpy:243
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_425353a1:
@@ -490,7 +490,7 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_sex_6f971022:
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_aed4c51d:
 
     # me "You love this, don't you?"
-    me "Mày thích điều này, phải không?"
+    me "Mày thích điều này mà, phải không?"
 
 # game/events/dreams/dekesha.rpy:253
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_766fb776:
@@ -502,7 +502,7 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_sex_766fb776:
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_acd01769:
 
     # me "Should I stop?"
-    me "Tao có nên dừng lại?"
+    me "Tao có nên dừng lại không?"
 
 # game/events/dreams/dekesha.rpy:255
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_5d4a9417:
@@ -514,7 +514,7 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_sex_5d4a9417:
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_514fe728:
 
     # me "Then beg like a bitch in heat, you are."
-    me "Vậy cầu xin như một con chó cái động dục, như mày vẫn làm đi."
+    me "Vậy thì hãy cầu xin như một con chó cái động dục, giống như mày vẫn hãy làm đi."
 
 # game/events/dreams/dekesha.rpy:257
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_897b5e56_1:
@@ -538,13 +538,13 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_sex_701806a0:
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_57357802:
 
     # me "Look at this, so you can be obedient sometimes."
-    me "Nhìn này, đôi khi mày cũng có thể ngoan ngoãn đấy."
+    me "Nhìn này, đôi khi mày cũng có thể ngoan ngoãn đấy chứ."
 
 # game/events/dreams/dekesha.rpy:268
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_57e8789d:
 
     # th "Fuck! How is this whore so tight?"
-    th "Mẹ kiếp! Làm thế nào mà con điếm này chặt như vậy?"
+    th "Mẹ kiếp! Làm thế nào mà con điếm này lại chặt như vậy chứ?"
 
 # game/events/dreams/dekesha.rpy:269
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_dd9636c7:
@@ -562,7 +562,7 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_sex_52ec147d:
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_e3a9ac54:
 
     # dekesha "More, please, more!!"
-    dekesha "Thêm nữa, làm ơn, nhiều hơn nữa!!"
+    dekesha "Nữa đi, làm ơn, nhiều hơn nữa!!"
 
 # game/events/dreams/dekesha.rpy:279
 translate vietnamese d_Dekesha_by_Darrdorack_2_sex_5b323abe:
@@ -640,7 +640,7 @@ translate vietnamese strings:
 
     # game/events/dreams/dekesha.rpy:168
     old "Slap her, show her who's boss here"
-    new "Tát cô ta, cho cô ta thấy ai là ông chủ ở đây"
+    new "Tét đít cô ta, cho cô ta thấy ai là ông chủ ở đây"
 
     # game/events/dreams/dekesha.rpy:168
     old "Fuck her, let her know how good dick feels"
@@ -657,7 +657,7 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_c54e7519:
 translate vietnamese d_Dekesha_by_Darrdorack_2_9edafb02:
 
     # th "She would do everything to make my work hell on Earth. But what is she doing here?"
-    th "Cô ta sẽ làm mọi thứ, để biến công việc của tôi thành địa ngục trần gian. Nhưng cô ta đang làm gì ở đây?"
+    th "Cô ta sẽ làm mọi thứ, để biến công việc của mình thành địa ngục trần gian. Nhưng cô ta đang làm gì ở đây cơ chứ?"
 
 # game/events/dreams/dekesha.rpy:59
 translate vietnamese d_Dekesha_by_Darrdorack_2_83babf93:
@@ -669,7 +669,7 @@ translate vietnamese d_Dekesha_by_Darrdorack_2_83babf93:
 translate vietnamese d_Dekesha_by_Darrdorack_2_29b08e81:
 
     # th "I wish, I could let this whore know her place."
-    th "Mình ước là có thể dạy cho con đĩ này biết vị trí của cô ta."
+    th "Mình ước là có thể dạy cho con đĩ này biết vị trí của nó quá."
 
 # game/events/dreams/dekesha.rpy:153
 translate vietnamese d_Dekesha_by_Darrdorack_2_c6fda5df:

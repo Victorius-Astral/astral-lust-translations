@@ -112,13 +112,13 @@ translate vietnamese exp_injured_dragon_see_d9e56fcb:
 translate vietnamese exp_injured_dragon_win_5fb5468d:
 
     # me "Holy shit, it's finally dead."
-    me "Holy shit, it's finally dead."
+    me "Vãi lìn, nó cuối cùng cũng chết rồi."
 
 # game/events/explore/injured_dragon.rpy:98
 translate vietnamese exp_injured_dragon_win_1a584499:
 
     # me "Injured or not, this thing doesn't fuck around."
-    me "Bị thương hay không, thứ này không có gì đáng sợ."
+    me "Bị thương hay không, thứ này cũng chả có gì đáng sợ cả."
 
 translate vietnamese strings:
 

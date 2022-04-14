@@ -11,4 +11,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/Temperance.rpy:6
     old "Temperance"
-    new "Thời Tiết"
+    new "Tiết Chế"

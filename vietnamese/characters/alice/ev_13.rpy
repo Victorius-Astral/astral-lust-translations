@@ -22,7 +22,7 @@ translate vietnamese alice_13_8f437618:
 translate vietnamese alice_13_62e0407e:
 
     # alice "I'm trying to sleep, but it's hard with how chatty you are."
-    alice "Em đang cố ngủ, nhưng rất khó với sự lắm mồm của anh."
+    alice "Em đang cố để ngủ, nhưng có vẻ như việc đó là bất khả thi vì cái tật lắm mồm của anh."
 
 # game/characters/alice/ev_13.rpy:10
 translate vietnamese alice_13_fdb67b12:
@@ -82,7 +82,7 @@ translate vietnamese alice_13_1a9f7fba:
 translate vietnamese alice_13_78d8ff6a:
 
     # me "You don't, it seems."
-    me "Có vẻ như là em không có."
+    me "Có vẻ như là em không có rồi."
 
 # game/characters/alice/ev_13.rpy:34
 translate vietnamese alice_13_3ad0c9b5:
@@ -148,7 +148,7 @@ translate vietnamese alice_13_2899d2c5:
 translate vietnamese alice_13_d69344a8:
 
     # alice "Why would I even love you? I know nothing about you, you might have had a wife and a kids before, I don't even know how old you are.."
-    alice "Tại sao em lại yêu anh chứ? em không biết tí gì về anh, anh có thể đã có vợ và một đứa con trước đó rồi, em thậm chí không biết anh bao nhiêu tuổi nữa..."
+    alice "Tại sao em lại yêu anh chứ? em chả biết tí gì về anh cả, anh có thể đã có vợ và một đứa con trước đó rồi, em thậm chí còn không biết anh bao nhiêu tuổi nữa..."
 
 # game/characters/alice/ev_13.rpy:52
 translate vietnamese alice_13_c13cfca0:
@@ -172,7 +172,7 @@ translate vietnamese alice_13_61660bd0_1:
 translate vietnamese alice_13_df262f2d:
 
     # alice "I'm totally unlike myself with you.."
-    alice "Em hoàn toàn không giống bản thân mình khi ở với anh..."
+    alice "Em không còn là chính mình khi ở bên anh..."
 
 # game/characters/alice/ev_13.rpy:58
 translate vietnamese alice_13_38c24143:
@@ -208,7 +208,7 @@ translate vietnamese alice_13_f7f4883a:
 translate vietnamese alice_13_9ec32461:
 
     # alice "I wouldn't be myself if I didn't."
-    alice "Em sẽ không là chính mình nếu em không nói."
+    alice "Em sẽ không là chính mình nếu em không nói câu đó."
 
 # game/characters/alice/ev_13.rpy:75
 translate vietnamese alice_13_69966521:

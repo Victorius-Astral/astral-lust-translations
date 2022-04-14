@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_Chariot.rpy:6
     old "The Chariot"
-    new "Cỗ Xe Ngựa"
+    new "Chiến Xa"

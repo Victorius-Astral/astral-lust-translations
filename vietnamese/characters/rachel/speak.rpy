@@ -10,7 +10,7 @@ translate vietnamese speak_rachel_27d2e697:
 translate vietnamese speak_rachel_leave_bd2dc367:
 
     # rachel "Thank you for letting me stay."
-    rachel "Cảm ơn anh đã cho tôi ở lại."
+    rachel "Cảm ơn anh vì đã cho tôi ở lại."
 
 # game/characters/rachel/speak.rpy:53
 translate vietnamese speak_rachel_leave_a1a23cab:

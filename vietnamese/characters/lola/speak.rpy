@@ -100,7 +100,7 @@ translate vietnamese strings:
 
     # game/characters/lola/speak.rpy:7
     old "Why do you like sex so much? {gold}(Story){/gold}"
-    new "Tại sao cô thích chịch nhau đến vậy? {gold}(Cốt chuyện){/gold}"
+    new "Tại sao cô thích chịch nhau đến vậy? {gold}(Cốt truyện){/gold}"
 
     # game/characters/lola/speak.rpy:7
     old "Let's have fun {lust}(Lust+){/lust}"

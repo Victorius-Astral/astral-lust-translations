@@ -10,7 +10,7 @@ translate vietnamese damsel_betrayal_d8ba6d3e:
 translate vietnamese damsel_betrayal_c24a03bc:
 
     # bandit "You fucking bitch! Where were you going with our shit?!"
-    bandit "Con đĩ này! Mày đã đi đâu với cái đống đồ chết tiệt của bọn tao?!"
+    bandit "Con đĩ này! Mày đã đi đâu với cái đống đồ chết tiệt của bọn tao rồi hả?!"
 
 # game/events/explore/damsel_betrayal.rpy:27
 translate vietnamese damsel_betrayal_97d675be:
@@ -34,13 +34,13 @@ translate vietnamese damsel_betrayal_ab7e0dbb:
 translate vietnamese damsel_betrayal_f48a8dff:
 
     # th "But I can't discard the possibility that she {i}is{/i} a back-stabber and stole their stuff."
-    th "Nhưng tôi không thể loại bỏ khả năng cô ta {i} là {/i} kẻ đâm sau lưng và lấy cắp đồ của họ."
+    th "Nhưng mình không thể loại bỏ khả năng cô ta {i}là{/i} kẻ đâm sau lưng và lấy cắp đồ của họ."
 
 # game/events/explore/damsel_betrayal.rpy:35
 translate vietnamese damsel_betrayal_4efcd056:
 
     # "She looks at you and you could swear relief shows on her face."
-    "Cô ấy nhìn bạn và bạn có thể thấy những nét nhẹ nhõm hiện lên trên khuôn mặt của cô ấy."
+    "Cô ấy nhìn thấy bạn và bạn có thể thấy những nét nhẹ nhõm hiện lên trên khuôn mặt của cô ấy."
 
 # game/events/explore/damsel_betrayal.rpy:36
 translate vietnamese damsel_betrayal_a45a0d15:
@@ -100,13 +100,13 @@ translate vietnamese damsel_betrayal_f5be24e1:
 translate vietnamese damsel_betrayal_win_eefa5ddc:
 
     # me "Anything you would like to say?"
-    me "Có điều gì muốn nói không?"
+    me "Thế có điều gì muốn nói không?"
 
 # game/events/explore/damsel_betrayal.rpy:73
 translate vietnamese damsel_betrayal_win_faa4d64d:
 
     # flashy "Thanks!"
-    flashy "Cảm ơn!"
+    flashy "Cám ơn!"
 
 # game/events/explore/damsel_betrayal.rpy:74
 translate vietnamese damsel_betrayal_win_af950a80:
@@ -118,7 +118,7 @@ translate vietnamese damsel_betrayal_win_af950a80:
 translate vietnamese damsel_betrayal_win_87942228:
 
     # th "Now she gets where I am going with this."
-    th "Bây giờ cô ấy hiểu mình đang muốn nói về cái gì rồi."
+    th "Giờ thì cô ấy hiểu mình đang muốn nói về cái gì rồi đấy."
 
 # game/events/explore/damsel_betrayal.rpy:83
 translate vietnamese damsel_betrayal_win_95e92d64:
@@ -142,7 +142,7 @@ translate vietnamese damsel_betrayal_win_450d5c9b:
 translate vietnamese damsel_betrayal_win_df5da026:
 
     # me "Anyway, I'm leaving."
-    me "Dù sao thì, mình cũng đi thôi."
+    me "Dù sao thì, tôi phải đi đây."
 
 # game/events/explore/damsel_betrayal.rpy:105
 translate vietnamese damsel_betrayal_stabbed_e8e29ceb:

@@ -34,7 +34,7 @@ translate vietnamese alice_1_1_babd21e8:
 translate vietnamese alice_1_1_39520277:
 
     # "You proceed and finally realize these are moans!"
-    "Bạn đến gần hơn và cuối cùng cũng nhận ra đây là những tiếng rên!"
+    "Bạn đến gần hơn và cuối cùng cũng nhận ra đó là những tiếng rên!"
 
 # game/characters/alice/ev_1.rpy:25
 translate vietnamese alice_1_1_1e7409fe:
@@ -154,7 +154,7 @@ translate vietnamese alice_1_2_0ead946a:
 translate vietnamese alice_1_2_6cbb5942:
 
     # th "Was I ever this nervous before? It's sooo awkward, I guess I can forget about living here now.."
-    th "Mình đã từng lo lắng như vậy trước đây chưa? Thật là khó xử, Mình đoán bây giờ mình có thể quên luôn việc sống ở đây là vừa."
+    th "Mình đã từng lo lắng như vậy trước đây chưa? Thật là khó xử, Mà mình đoán là bây giờ có thể quên luôn việc sống ở đây là vừa."
 
 # game/characters/alice/ev_1.rpy:79
 translate vietnamese alice_1_2_53a52211:
@@ -280,7 +280,7 @@ translate vietnamese alice_1_2_c31e4a0c:
 translate vietnamese alice_1_2_5e2eafcb:
 
     # alice ".. buuut I guess you'll owe me one."
-    alice "... Nhưngg em đoán là anh sẽ nợ em một lần này."
+    alice "... Nhưnggg em đoán là anh sẽ nợ em một lần này."
 
 # game/characters/alice/ev_1.rpy:108
 translate vietnamese alice_1_2_5495be7b:

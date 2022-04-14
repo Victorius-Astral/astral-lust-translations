@@ -52,7 +52,7 @@ translate vietnamese v2_win_9167ebe4:
 translate vietnamese v2_win_4325328f:
 
     # me "You're this dragon! You're fighting like a girl!"
-    me "Cô là con rồng ban nãy á! Địt mẹ may faor thật đấy!"
+    me "Cô là con rồng ban nãy á! Địt mẹ ảo thật đấy!"
 
 # game/functions/cheats.rpy:121
 translate vietnamese v2_win_8732b5a6:
@@ -64,7 +64,7 @@ translate vietnamese v2_win_8732b5a6:
 translate vietnamese v2_win_a9c3e71e:
 
     # me "Oh young lady, you overdid it... Don't you dare to bring {color=#672c2c}Him{/color} into this!"
-    me "Ôi cô gái trẻ, cô quá liều rồi đấy... Cô không dám mang cả {color=#672c2c}Ngài{/color} vào việc này á!"
+    me "Ôi cô gái trẻ, cô quá liều rồi đấy... Cô dám mang cả {color=#672c2c}Ngài{/color} vào việc này á!"
 
 # game/functions/cheats.rpy:123
 translate vietnamese v2_win_284d0674:
@@ -82,7 +82,7 @@ translate vietnamese v2_win_7ada7801:
 translate vietnamese v2_win_0f1c2bed:
 
     # dragon_girl "Try!"
-    dragon_girl "Tao thách cả dòng họ nhà mày!"
+    dragon_girl "Tao thách cả họ nhà mày đấy!"
 
 # game/functions/cheats.rpy:138
 translate vietnamese v2_win_c0d92976:
@@ -94,7 +94,7 @@ translate vietnamese v2_win_c0d92976:
 translate vietnamese v2_win_c665fb9e:
 
     # me "You should listen when someone is talking to you."
-    me "Cô nên lắng nghe khi ai đó đang nói chuyện với cô đi."
+    me "Cô nên lắng nghe khi ai đó đang nói chuyện với mình đi."
 
 # game/functions/cheats.rpy:140
 translate vietnamese v2_win_eff0e9a6:
@@ -118,7 +118,7 @@ translate vietnamese v2_win_33b99f15:
 translate vietnamese v2_win_314086b3:
 
     # me "What?"
-    me "Cái giề?"
+    me "Hả?"
 
 # game/functions/cheats.rpy:151
 translate vietnamese v2_win_4ab745a0:
@@ -202,7 +202,7 @@ translate vietnamese strings:
 
     # game/functions/cheats.rpy:316
     old "Alice's lust and trust + 10"
-    new "Sự ham muốn và tin tưởng của Alice + 10"
+    new "Ham muốn và tin tưởng của Alice + 10"
 # TODO: Translation updated at 2022-02-26 15:07
 
 translate vietnamese strings:

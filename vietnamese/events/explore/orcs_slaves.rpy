@@ -124,7 +124,7 @@ translate vietnamese exp_orcs_slaves_win_b2d96d67:
 translate vietnamese exp_orcs_slaves_win_2959889d:
 
     # man "What do you want to do?"
-    man "Bạn muốn làm gì?"
+    man "Cậu muốn làm gì?"
 
 # game/events/explore/orcs_slaves.rpy:76
 translate vietnamese exp_orcs_slaves_win_6a20ec9c:
@@ -196,7 +196,7 @@ translate vietnamese exp_orcs_slaves_win_6d2d2f16:
 translate vietnamese exp_orcs_slaves_win_f9720c67:
 
     # me "Don't worry it'll feel good soon."
-    me "Đừng lo lắng sẽ sớm cảm thấy tốt thôi."
+    me "Đừng lo nó sẽ sớm cảm thấy tốt thôi."
 
 # game/events/explore/orcs_slaves.rpy:96
 translate vietnamese exp_orcs_slaves_win_c5bab4ec:
@@ -226,7 +226,7 @@ translate vietnamese exp_orcs_slaves_win_317bdc2b:
 translate vietnamese exp_orcs_slaves_win_f42a70d1:
 
     # man "Be strong darling. I'm sorry. I'm so sorry.."
-    man "Mạnh mẽ lên em yêu. Anh xin lôi. Anh rất xin lỗi..."
+    man "Mạnh mẽ lên em yêu. Anh xin lỗi. Anh rất xin lỗi..."
 
 # game/events/explore/orcs_slaves.rpy:110
 translate vietnamese exp_orcs_slaves_win_2f3d23c6:
@@ -286,7 +286,7 @@ translate vietnamese exp_orcs_slaves_win_e39f7edf:
 translate vietnamese exp_orcs_slaves_win_eeb5a4ba:
 
     # man "We'll die!"
-    man "Chúng tôi sẽ chết!"
+    man "Chúng tôi sẽ chết mất!"
 
 # game/events/explore/orcs_slaves.rpy:139
 translate vietnamese exp_orcs_slaves_win_69fe9ce4:
@@ -298,13 +298,13 @@ translate vietnamese exp_orcs_slaves_win_69fe9ce4:
 translate vietnamese exp_orcs_slaves_win_fd685cc4:
 
     # "You leave them."
-    "Bạn rời bỏ bọn họ."
+    "Bạn bỏ bọn họ lại."
 
 # game/events/explore/orcs_slaves.rpy:144
 translate vietnamese exp_orcs_slaves_win_32f64521:
 
     # me "Don't worry I want to save you."
-    me "Đừng lo lắng, tôi muốn cứu hai người."
+    me "Đừng lo, tôi muốn cứu hai người."
 
 # game/events/explore/orcs_slaves.rpy:146
 translate vietnamese exp_orcs_slaves_win_95063a4a:
@@ -316,7 +316,7 @@ translate vietnamese exp_orcs_slaves_win_95063a4a:
 translate vietnamese exp_orcs_slaves_win_6f263c98:
 
     # man "Thank you."
-    man "Cảm ơn bạn."
+    man "Cảm ơn cậu."
 
 # game/events/explore/orcs_slaves.rpy:149
 translate vietnamese exp_orcs_slaves_win_24269ddb:
@@ -334,7 +334,7 @@ translate vietnamese exp_orcs_slaves_win_ed914e19:
 translate vietnamese exp_orcs_slaves_win_b10a6e2d:
 
     # man "Take this, that's all that these monsters didn't use. I hope it'll be of use to you."
-    man "Lấy cái này, đó là tất cả những gì mà những con quái vật này không sử dụng. Tôi hy vọng nó sẽ có ích cho bạn."
+    man "Lấy cái này đi, đó là tất cả những gì mà những con quái vật này không sử dụng. Tôi hy vọng nó sẽ có ích cho cậu."
 
 # game/events/explore/orcs_slaves.rpy:155
 translate vietnamese exp_orcs_slaves_win_088c6c0d:
@@ -346,7 +346,7 @@ translate vietnamese exp_orcs_slaves_win_088c6c0d:
 translate vietnamese exp_orcs_slaves_win_5c7c0316:
 
     # th "It's time for me to go too."
-    th "Đã đến lúc mình cũng phải đi rồi."
+    th "Cũng đến lúc mình phải đi rồi."
 
 translate vietnamese strings:
 

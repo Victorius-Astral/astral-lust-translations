@@ -4,7 +4,7 @@
 translate vietnamese w_booth_amanda_2c482652:
 
     # amanda "Hello, [me_amanda!t]. I'm at your service."
-    amanda "Chào, [me_amanda!t]. Em sẵn sàng phục vụ [me_amanda!t] rồi đây."
+    amanda "Chào [me_amanda!t]. Em sẵn sàng phục vụ [me_amanda!t] rồi đây."
 
 # game/places/wanderers/prostitutes/amanda.rpy:27
 translate vietnamese w_booth_amanda_menu1_0cb75142:

@@ -412,7 +412,7 @@ translate vietnamese prologue_part2_402f9bd1:
 translate vietnamese prologue_part2_e089572a:
 
     # u_lexi "You really don't remember anything after The End?"
-    u_lexi "Anh thực sự không nhớ bất cứ điều gì sau The End sao?"
+    u_lexi "Anh thực sự không nhớ bất cứ điều gì sau Tận Thế sao?"
 
 # game/script.rpy:224
 translate vietnamese prologue_part2_725cb85f:
@@ -442,7 +442,7 @@ translate vietnamese prologue_part2_844b1e1b:
 translate vietnamese prologue_part2_75dfe7e1:
 
     # u_lexi "I fear no one here can answer that. Don't think too much about it. Since The End many weird things happen everyday."
-    u_lexi "Tôi sợ là không ai ở đây có thể trả lời điều đó. Đừng nghĩ nhiều về nó nữa. Kể từ khi The End xảy ra, nhiều điều kỳ lạ xảy ra hàng ngày."
+    u_lexi "Tôi sợ là không ai ở đây có thể trả lời điều đó đâu. Đừng nghĩ nhiều về nó nữa. Kể từ khi Tận Thế xảy ra, nhiều điều kỳ lạ xảy ra hàng ngày."
 
 # game/script.rpy:234
 translate vietnamese prologue_part2_1d4511ab:
@@ -556,7 +556,7 @@ translate vietnamese first_room_player_ask_cd7a174c:
 translate vietnamese first_room_player_ask_b97030b3:
 
     # lexi "Indeed most sites are offline but there are a few working. After The End a man appeared and established the Hollow Market, they even have express delivery!"
-    lexi "Thật vậy, hầu hết các trang web đã bay màu nhưng có một số trang đang hoạt động. Sau The End, một người đàn ông xuất hiện và thành lập Hollow Market, họ thậm chí còn có dịch vụ chuyển phát nhanh cơ!"
+    lexi "Thật vậy, hầu hết các trang web đã bay màu nhưng có một số trang đang hoạt động. Sau khi Tận Thế xảy ra, một người đàn ông xuất hiện và thành lập Hollow Market, họ thậm chí còn có dịch vụ chuyển phát nhanh cơ!"
 
 # game/script.rpy:290
 translate vietnamese first_room_player_ask_3820771a_1:
@@ -685,7 +685,7 @@ translate vietnamese strings:
 
     # game/script.rpy:203
     old "Cultists performed a grand ritual to make The End descend."
-    new "Những tên cuồng đạo đã thực hiện một nghi lễ lớn để đem cho The End đến đây."
+    new "Những tên cuồng đạo đã thực hiện một nghi lễ lớn để đem Tận Thế đến đây."
 
     # game/script.rpy:214
     old "Radio doesn't work. Most of humanity is gone, government and army have fallen. There is no salvation and no hope."

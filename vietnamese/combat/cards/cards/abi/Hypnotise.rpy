@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/abi/Hypnotise.rpy:6
     old "Hypnotise"
-    new "Thôi Miên"
+    new "Thôi  Miên"

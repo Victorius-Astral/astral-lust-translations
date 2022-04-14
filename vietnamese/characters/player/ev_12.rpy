@@ -202,7 +202,7 @@ translate vietnamese main_12_3c247956:
 translate vietnamese main_12_44f90041:
 
     # aharon "She might not mean you harm, yet she's just a piece played by others, and so just like you, she has no control over her own destiny."
-    aharon "Cô ấy có thể không có ý làm hại ngươi, nhưng cô ấy chỉ là một tác phẩm do người khác chơi, và vì vậy cũng giống như ngươi, cô ấy không kiểm soát được vận mệnh của chính mình."
+    aharon "Cô ấy có thể không có ý làm hại ngươi, nhưng cô ấy chỉ là một tác phẩm do người khác giật dây, và vì vậy cũng giống như ngươi, cô ấy không kiểm soát được vận mệnh của chính mình."
 
 # game/characters/player/ev_12.rpy:57
 translate vietnamese main_12_80b916ab:
@@ -274,7 +274,7 @@ translate vietnamese main_12_3820771a_2:
 translate vietnamese main_12_bec2cf1f:
 
     # me "Alright, so I was born with this key, right?"
-    me "Được rồi, vì vậy tao được sinh ra với khóa này, phải không?"
+    me "Được rồi, vậy là tao được sinh ra với cái chìa khóa này, phải không?"
 
 # game/characters/player/ev_12.rpy:69
 translate vietnamese main_12_4c704371:
@@ -382,7 +382,7 @@ translate vietnamese main_12_19029a70:
 translate vietnamese main_12_2930e26f:
 
     # me "Yes?"
-    me "Đúng rồi?"
+    me "Có?"
 
 # game/characters/player/ev_12.rpy:87
 translate vietnamese main_12_66130c3c:

@@ -350,7 +350,7 @@ translate vietnamese strings:
 
     # game/events/explore/cat.rpy:18
     old "Right room"
-    new "Right room"
+    new "Phòng bên phải"
 
     # game/events/explore/cat.rpy:18
     old "Middle room"

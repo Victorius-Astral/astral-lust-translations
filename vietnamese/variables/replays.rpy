@@ -64,7 +64,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:30
     old "Pee"
-    new "Đái"
+    new "nhà vệ sinh"
 
     # game/variables/replays.rpy:30
     old "Wakeup Blowjob"
@@ -76,7 +76,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:63
     old "Questionnaire"
-    new "Nh câu hỏi"
+    new "Những câu hỏi"
 
     # game/variables/replays.rpy:63
     old "Birthday Gift part 1"
@@ -392,31 +392,31 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:188
     old "Damsel in Distress - Soldier"
-    new "Thiếu nữ gặp nguy - Người lính"
+    new "Mỹ nữ gặp nạn - Người lính"
 
     # game/variables/replays.rpy:188
     old "Damsel in Distress - Bimbo"
-    new "Thiếu nữ gặp nguy - Bimbo"
+    new "Mỹ nữ gặp nạn - Bimbo"
 
     # game/variables/replays.rpy:188
     old "Damsel in Distress - Brunette"
-    new "Thiếu nữ gặp nguy - Brunette"
+    new "Mỹ nữ gặp nạn - Brunette"
 
     # game/variables/replays.rpy:188
     old "Damsel in Distress - Devotee"
-    new "Thiếu nữ gặp nguy - Devotee"
+    new "Mỹ nữ gặp nạn - Devotee"
 
     # game/variables/replays.rpy:188
     old "Damsel in Distress - Milf"
-    new "Thiếu nữ gặp nguy - Milf"
+    new "Mỹ nữ gặp nạn - Milf"
 
     # game/variables/replays.rpy:188
     old "Damsel in Distress - Pregnant"
-    new "Thiếu nữ gặp nguy - mang thai"
+    new "Mỹ nữ gặp nạn - Bà bầu"
 
     # game/variables/replays.rpy:188
     old "Damsel in Distress - Bandit"
-    new "Thiếu nữ gặp nguy - Kẻ cướp"
+    new "Mỹ nữ gặp nạn - Kẻ cướp"
 
     # game/variables/replays.rpy:188
     old "Injured Dragon"
@@ -536,7 +536,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:265
     old "Main Story"
-    new "Cốt chuyện chính"
+    new "Cốt truyện chính"
 
     # game/variables/replays.rpy:265
     old "Activities"

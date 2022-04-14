@@ -96,7 +96,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:686
     old "{color=#b96d19}\nTranslation: Denker(Spanish), Victorius(Polish){/color}"
-    new "{color=#b96d19}\nbản dịch: Natsuki(Việt nam) Denker(Spanish), Victorius(Polish){/color}"
+    new "{color=#b96d19}\nBản dịch: Denker(Spanish), Victorius(Polish){/color}"
 
     # game/screens.rpy:687
     old "\nContributed Code: cuckoo4cocoapuffs"
@@ -112,7 +112,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:691
     old "\nIcons: {a=https://www.game-icons.net}Lorc, Dealpouite, Guard13007, sbed, Skoll and Faithtoken (some icons merged with other icons) from Game-icons.net{/a} under {a=https://creativecommons.org/licenses/by/3.0/}CC BY 3.0{/a}, {a=https://www.iconpacks.net}iconpacks.net{/a}, {a=https://www.freepik.com}Freepik{/a} from {a=https://www.flaticon.com/}www.flaticon.com{/a}"
-    new "\nIcons: {a=https://www.game-icons.net}Lorc, Dealpouite, Guard13007, sbed, Skoll and Faithtoken (some icons merged with other icons) from Game-icons.net{/a} under {a=https://creativecommons.org/licenses/by/3.0/}CC BY 3.0{/a}, {a=https://www.iconpacks.net}iconpacks.net{/a}, {a=https://www.freepik.com}Freepik{/a} from {a=https://www.flaticon.com/}www.flaticon.com{/a}"
+    new "\nBiểu tượng: {a=https://www.game-icons.net}Lorc, Dealpouite, Guard13007, sbed, Skoll and Faithtoken (some icons merged with other icons) from Game-icons.net{/a} under {a=https://creativecommons.org/licenses/by/3.0/}CC BY 3.0{/a}, {a=https://www.iconpacks.net}iconpacks.net{/a}, {a=https://www.freepik.com}Freepik{/a} from {a=https://www.flaticon.com/}www.flaticon.com{/a}"
 
     # game/screens.rpy:692
     old "\nArt: Niklaus, Victorius {a=https://www.pixabay.com}www.pixabay.com{/a}"
@@ -120,7 +120,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:693
     old "\nCreepypasta: Ashley Rose Wellman (phone calls), Andrew LaBelle (shower), Mycool of The Fear Collective (sleep), Ryan Brennaman (gravedigger)"
-    new "\nCreepypasta: Ashley Rose Wellman (Cuộc gại), Andrew LaBelle (Phòng tắm), Mycool of The Fear Collective (giấc ngủ), Ryan Brennaman (Người đào mộ)"
+    new "\nCreepypasta: Ashley Rose Wellman (Cuộc gọi), Andrew LaBelle (Phòng tắm), Mycool of The Fear Collective (giấc ngủ), Ryan Brennaman (Người đào mộ)"
 
     # game/screens.rpy:694
     old "\nModels made in {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} by {a=http://www.illusion.jp}Illusion{/a}"
@@ -132,7 +132,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:700
     old "\nMade with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new "\nMade with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+    new "\nĐược tạo ra bằng {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/screens.rpy:742
     old "Page {}"

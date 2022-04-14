@@ -148,7 +148,7 @@ translate vietnamese kiara_menu1_12298a2c:
 translate vietnamese kiara_menu1_0bfd21a9:
 
     # kiara "Weren't you the one that said it was cultists that brought about The End?"
-    kiara "Không phải bạn là người đã nói rằng chính những kẻ cuồng tín đã The End đến sao?"
+    kiara "Không phải bạn là người đã nói rằng chính những kẻ cuồng tín đã mang Tận Thế đến sao?"
 
 # game/characters/kiara/speak.rpy:93
 translate vietnamese kiara_menu1_bc4ce193:
@@ -208,19 +208,19 @@ translate vietnamese kiara_menu1_581a3617:
 translate vietnamese kiara_menu1_febda483:
 
     # th "So.. someone who used to be human started The End? What for?"
-    th "Vậy,... một người từng là con người lại bắt đầu The End? Để làm gì?"
+    th "Vậy... một tên từng là con người lại đi tạo ra The End á? Để làm gì?"
 
 # game/characters/kiara/speak.rpy:119
 translate vietnamese kiara_menu1_0f32fd37:
 
     # me "Why would He want The End to come?"
-    me "Tại sao hắn muốn The End đến?"
+    me "Tại sao hắn muốn Tận Thế đến?"
 
 # game/characters/kiara/speak.rpy:121
 translate vietnamese kiara_menu1_00af8dfd:
 
     # me "Why would he want The End to come?"
-    me "Tại sao hắn muốn The End đến?"
+    me "Tại sao hắn muốn Tận Thế đến?"
 
 # game/characters/kiara/speak.rpy:123
 translate vietnamese kiara_menu1_07583e51:

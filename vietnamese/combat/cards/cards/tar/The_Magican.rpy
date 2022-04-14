@@ -15,4 +15,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_Magican.rpy:6
     old "The Magician"
-    new "Nhà Ảo Thuật Gia"
+    new "Nhà Ảo Thuật"

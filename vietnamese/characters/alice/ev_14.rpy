@@ -16,7 +16,7 @@ translate vietnamese alice_14_a55068a2:
 translate vietnamese alice_14_081b15bf:
 
     # alice "Do you really think I don't know about your dungeon thing?"
-    alice "Anh thực sự nghĩ rằng em không biết về thứ trong dungeon của anh sao?"
+    alice "Anh thực sự nghĩ rằng em không biết về thứ trong Ngục tối của anh sao?"
 
 # game/characters/alice/ev_14.rpy:19
 translate vietnamese alice_14_3820771a:

@@ -52,7 +52,7 @@ translate vietnamese strings:
 
     # game/variables/maps.rpy:3
     old "Toilet"
-    new "Toilet"
+    new "Nhà vệ sinh"
 
     # game/variables/maps.rpy:3
     old "First Floor"

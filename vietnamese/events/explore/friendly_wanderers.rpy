@@ -28,7 +28,7 @@ translate vietnamese exp_friendly_wanderers_4da614f4:
 translate vietnamese exp_friendly_wanderers_1e2dd509:
 
     # wanderer "We meet yet again friend. Are you interested in anything?"
-    wanderer "Chúng ta gặp lại rồi. Cậu có quan tâm đến bất cứ điều gì không?"
+    wanderer "Chúng ta lại gặp nhau rồi. Cậu có đang cần cái gì không?"
 
 # game/events/explore/friendly_wanderers.rpy:59
 translate vietnamese exp_friendly_wanderers_7bd5c60a:
@@ -46,7 +46,7 @@ translate vietnamese exp_friendly_wanderers_b32e5b81:
 translate vietnamese exp_friendly_wanderers_239f2316:
 
     # girl "N-nothing... {small}I must be imagining things... Was it someone else...?{/small}"
-    girl "K-không có gì... {small}Chắc mình đang tưởng tượng ra... Có phải là người khác không...?{/small}"
+    girl "K-không có gì... {small}Chắc mình đang tưởng tượng ra thôi... Đó có phải là người khác không...?{/small}"
 
 # game/events/explore/friendly_wanderers.rpy:62
 translate vietnamese exp_friendly_wanderers_b5f39981:
@@ -82,7 +82,7 @@ translate vietnamese exp_friendly_wanderers_first_8da8bdd4:
 translate vietnamese exp_friendly_wanderers_first_e273d62d:
 
     # u_wanderer "I noticed you taking a walk alone, I thought you might want to buy something from me."
-    u_wanderer "Tôi nhận thấy cậu đang đi một mình, tôi nghĩ cậu có thể muốn mua một cái gì đó từ tôi."
+    u_wanderer "Tôi nhận thấy cậu đang đi một mình, tôi nghĩ là cậu sẽ muốn mua một thứ gì đó từ tôi đấy."
 
 # game/events/explore/friendly_wanderers.rpy:85
 translate vietnamese exp_friendly_wanderers_first_4d7d3beb:

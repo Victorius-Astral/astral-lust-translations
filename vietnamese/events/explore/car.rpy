@@ -16,7 +16,7 @@ translate vietnamese explore_car_da783615:
 translate vietnamese explore_car_c604448b:
 
     # me "Someone got lucky!"
-    me "Nếu tích cực thì vận may sẽ đến thật!"
+    me "Tích cực quay tay giờ vận may sẽ đến thật rồi này!"
 
 # game/events/explore/car.rpy:14
 translate vietnamese explore_car_ab450b06:
@@ -28,7 +28,7 @@ translate vietnamese explore_car_ab450b06:
 translate vietnamese explore_car_200a6b08:
 
     # me "Luck is not on my side today it seems."
-    me "Hôm nay có vẻ như may mắn không đứng về phía mình."
+    me "Hôm nay có vẻ như may mắn không đứng về phía mình rồi."
 
 # game/events/explore/car.rpy:20
 translate vietnamese explore_car_4d993435:

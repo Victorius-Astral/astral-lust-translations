@@ -64,7 +64,7 @@ translate vietnamese alice_8_6840ed28:
 translate vietnamese alice_8_bbf2ab96:
 
     # me "Since when are you so shy."
-    me "Từ khi nào em lại nhút nhát thế này vậy."
+    me "Từ khi nào em lại trở nên nhút nhát thế này vậy."
 
 # game/characters/alice/ev_8.rpy:42
 translate vietnamese alice_8_74f05a4e:
@@ -82,7 +82,7 @@ translate vietnamese alice_8_89d1d55e:
 translate vietnamese alice_8_30b918b8:
 
     # alice "Don't you have anything better to do?"
-    alice "Anh không có bất cứ điều gì tốt hơn để làm à?"
+    alice "Anh không có gì tốt hơn để làm à?"
 
 # game/characters/alice/ev_8.rpy:47
 translate vietnamese alice_8_681dc97b:
@@ -244,7 +244,7 @@ translate vietnamese alice_8_3ba34f9b:
 translate vietnamese alice_8_c2c1ae3e:
 
     # me "[alice] you were still in high school when the world ended. Honestly, I don't know why I'm that surprised."
-    me "[alice] Anh vẫn còn học trung học phổ thông khi thế giới kết thúc á? Thành thật mà nói, em không biết tại sao mình lại ngạc nhiên nữa."
+    me "[alice] Em vẫn còn học trung học phổ thông khi thế giới kết thúc á? Thành thật mà nói thì, anh không biết tại sao mình lại ngạc nhiên nữa."
 
 # game/characters/alice/ev_8.rpy:97
 translate vietnamese alice_8_42b27750:
@@ -322,7 +322,7 @@ translate vietnamese alice_8_74f05a4e_3:
 translate vietnamese alice_8_part2_94b06af1:
 
     # alice "So, will you leave or should I kick you out."
-    alice "Rôi sao, anh sẽ rời đi hay em nên đá anh ra."
+    alice "Rồi sao, anh có đi ra ngoài không hay là em phải đá anh ra."
 
 # game/characters/alice/ev_8.rpy:165
 translate vietnamese alice_8_menu1_3f702ddf:
@@ -604,7 +604,7 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_8.rpy:48
     old "Can't say I have"
-    new "Không thể nói anh có"
+    new "Nhưng anh nkhoong có việc gì tốt hơn để làm thật mà"
 
     # game/characters/alice/ev_8.rpy:48
     old "What's that thing behind you?"

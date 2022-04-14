@@ -583,8 +583,8 @@ translate vietnamese strings:
     new "gl powersave"
 
     # renpy/common/00preferences.rpy:453
-    old "gl framerate"
-    new "gl framerate"
+    old "gl Tốc độ khung hình"
+    new "gl Tốc độ khung hình"
 
     # renpy/common/00preferences.rpy:456
     old "gl tearing"
@@ -979,8 +979,8 @@ translate vietnamese strings:
     new "Tiết khiệm năng lượng"
 
     # renpy/common/00gltest.rpy:173
-    old "Framerate"
-    new "Framerate"
+    old "Tốc độ khung hình"
+    new "Tốc độ khung hình"
 
     # renpy/common/00gltest.rpy:177
     old "Screen"

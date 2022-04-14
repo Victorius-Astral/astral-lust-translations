@@ -22,7 +22,7 @@ translate vietnamese room_player_altar_04b01469:
 translate vietnamese room_player_altar_ff051e5d:
 
     # th "I wonder to whom it is dedicated."
-    th "Tôi tự hỏi nó được dành riêng cho ai."
+    th "Không biết nó được làm cho ai nữa."
 
 # game/places/hotel/player/altar.rpy:25
 translate vietnamese room_player_altar_38b3b4bf:

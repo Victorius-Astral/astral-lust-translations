@@ -28,7 +28,7 @@ translate vietnamese alice_6_e8a11934:
 translate vietnamese alice_6_c0e87b2b:
 
     # alice "Well, maybe you just came to peek at me.."
-    alice "Chà, có lẽ anh chỉ đến để nhìn trộm em..."
+    alice "Chà, có lẽ anh đến đây chỉ để nhìn trộm em thôi..."
 
 # game/characters/alice/ev_6.rpy:16
 translate vietnamese alice_6_1f56af50:

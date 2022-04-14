@@ -40,19 +40,19 @@ translate vietnamese end_author_3820771a:
 translate vietnamese end_author_e3792e66:
 
     # "You need to prepare for apotheosis ritual."
-    "Ngươi cần chuẩn bị cho nghi lễ phong thần."
+    "Ngươi cần chuẩn bị cho nghi lễ phong thần."
 
 # game/events/endings/autor.rpy:25
 translate vietnamese end_author_fd9be525:
 
     # me "I need to prepare for apotheosis ritual."
-    me "Tôi cần chuẩn bị cho nghi lễ phong thần."
+    me "Tôi cần chuẩn bị cho nghi lễ phong thần."
 
 # game/events/endings/autor.rpy:28
 translate vietnamese end_author_873ecf41:
 
     # th "Shit!"
-    th "Shit!"
+    th "Địt!"
 
 # game/events/endings/autor.rpy:37
 translate vietnamese end_author_7aa9c3e9:

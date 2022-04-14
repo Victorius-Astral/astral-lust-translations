@@ -1828,7 +1828,7 @@ translate vietnamese grace_kiss_bad_end_a311b5c9:
 translate vietnamese grace_kiss_bad_end_92130048:
 
     # grace "Waah! Help Me!!"
-    grace "Waah! Cứu em!!!"
+    grace "Waah! Cứu em!!!"
 
 # game/characters/grace/kiss.rpy:917
 translate vietnamese grace_kiss_bad_end_5e27729b:
@@ -2032,7 +2032,7 @@ translate vietnamese grace_kiss_bad_end_291064eb:
 translate vietnamese grace_kiss_bad_end_c9911443:
 
     # me "What?!"
-    me "Cái gì?!"
+    me "Cái gì vậy?!"
 
 # game/characters/grace/kiss.rpy:1006
 translate vietnamese grace_kiss_bad_end_d149fc1f:

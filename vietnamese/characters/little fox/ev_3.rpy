@@ -424,7 +424,7 @@ translate vietnamese lil_fox_3_alice_9c2c1aef:
 translate vietnamese lil_fox_3_alice_70b517f5:
 
     # alice "Is that so? I need 10 metal, 20 cloth and 3 orcish steel."
-    alice "Là vậy sao? Chị cần 10 kim loại, 20 vải và 3 thép orcish."
+    alice "Là vậy sao? Chị cần 10 sắt, 20 vải và 3 thép orcish."
 
 # game/characters/little fox/ev_3.rpy:192
 translate vietnamese lil_fox_3_alice_79a0a9ad:

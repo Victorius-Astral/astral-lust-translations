@@ -292,7 +292,7 @@ translate vietnamese banditsB_menu_063ee65a:
 translate vietnamese banditsB_menu_10f8183e:
 
     # bandit "Fine, leave."
-    bandit "Tốt, rời đi."
+    bandit "Tốt lắm, giờ thì phắn đi."
 
 # game/events/explore/bandits.rpy:186
 translate vietnamese banditsB_menu_527c726b:

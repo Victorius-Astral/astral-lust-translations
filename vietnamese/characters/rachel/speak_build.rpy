@@ -4,25 +4,25 @@
 translate vietnamese speak_rachel_build_fe9274ca:
 
     # rachel "Hey, do you have anything for me?"
-    rachel "Này, anh có gì cho tôi không?"
+    rachel "Hey, anh có gì cho tôi không?"
 
 # game/characters/rachel/speak_build.rpy:25
 translate vietnamese speak_rachel_build_e3b29b7c:
 
     # me "It's nice to see you too.."
-    me "Rất vui được gặp cô..."
+    me "Tôi cũng rất vui được gặp cô..."
 
 # game/characters/rachel/speak_build.rpy:30
 translate vietnamese speak_rachel_build_3b5f9668:
 
     # rachel "Sorry about that. I just want to finish the shrine quickly."
-    rachel "Xin lỗi vì điều đó. Tôi chỉ muốn hoàn thành ngôi đền một cách nhanh chóng."
+    rachel "Xin lỗi vì điều đó. Tôi chỉ muốn hoàn thành ngôi đền một cách nhanh chóng thôi."
 
 # game/characters/rachel/speak_build.rpy:31
 translate vietnamese speak_rachel_build_1d160f07:
 
     # me "It's understandable. Don't worry."
-    me "Diều này là có thể hiểu được. Đừng lo."
+    me "Điều này là có thể hiểu được. Đừng lo."
 
 # game/characters/rachel/speak_build.rpy:89
 translate vietnamese speak_rachel_build_part2_3f10cf5d:
@@ -40,7 +40,7 @@ translate vietnamese speak_rachel_build_part2_4c752936:
 translate vietnamese speak_rachel_build_part2_88943aaf:
 
     # rachel "Of course it is. It's just a shrine and a wall."
-    rachel "Tất nhiên là thế rồi. Nó chỉ là một ngôi đền và một bức tường."
+    rachel "Tất nhiên là vậy rồi. Nó chỉ là một ngôi đền và một bức tường thôi mà."
 
 # game/characters/rachel/speak_build.rpy:92
 translate vietnamese speak_rachel_build_part2_ecd768ba:
@@ -58,19 +58,19 @@ translate vietnamese speak_rachel_build_part2_29ea1a22:
 translate vietnamese speak_rachel_build_part2_ddd33b88:
 
     # me "So it's not completed?"
-    me "Vậy là, nó chưa hoàn thành?"
+    me "Vậy là nó chưa hoàn thành sao?"
 
 # game/characters/rachel/speak_build.rpy:99
 translate vietnamese speak_rachel_build_part2_82c1f4b0:
 
     # rachel "No. While it can support me, it lacks a lot of functionality. You can say that this place lacks vitality.."
-    rachel "Không. Mặc dù nó có thể hỗ trợ tôi, nhưng nó thiếu rất nhiều chức năng. Có thể nói nơi đây thiếu sức sống..."
+    rachel "Chưa. Mặc dù nó có thể hỗ trợ tôi, nhưng nó thiếu rất nhiều chức năng. Có thể nói nơi đây thiếu sức sống..."
 
 # game/characters/rachel/speak_build.rpy:100
 translate vietnamese speak_rachel_build_part2_0c7215fa:
 
     # me "It's the city after all. It's filled with concrete, while there are parks it's definitely far from your home in the wilderness."
-    me "Rốt cuộc thì đó là thành phố. Nó được đổ đầy bê tông, trong khi nó có công viên, nó chắc chắn là xa nhà của cô ở vùng hoang dã."
+    me "sau cùng thì đó cũng là thành phố mà. Được đổ đầy bê tông, trong khi những công viên chắc chắn sẽ  xa nhà của cô ở vùng hoang dã."
 
 # game/characters/rachel/speak_build.rpy:101
 translate vietnamese speak_rachel_build_part2_33ec6f27:
@@ -94,13 +94,13 @@ translate vietnamese speak_rachel_build_part2_01b55a3e:
 translate vietnamese speak_rachel_build_part2_f22da537:
 
     # me "So, what now? When will Little Fox appear?"
-    me "Giờ thì sao? Khi nào thì Tiểu Cáo sẽ xuất hiện?"
+    me "Giờ thì sao? Khi nào thì Tiểu Cáo mới xuất hiện?"
 
 # game/characters/rachel/speak_build.rpy:105
 translate vietnamese speak_rachel_build_part2_3754ad24:
 
     # rachel "That's what I meant. The current shrine can be barely felt when I'm standing here, much less in the whole city."
-    rachel "Đó là những gì tôi muốn nói. Hầu như không thể cảm nhận được ngôi đền hiện tại khi tôi đứng ở đây, ít hơn nhiều trong toàn thành phố."
+    rachel "Đó là những gì tôi muốn nói đấy. Hầu như không thể cảm nhận được ngôi đền hiện tại ngay cả khi tôi đứng ở đây, ít hơn nhiều trong toàn thành phố."
 
 # game/characters/rachel/speak_build.rpy:106
 translate vietnamese speak_rachel_build_part2_42ef86a8:
@@ -118,13 +118,13 @@ translate vietnamese speak_rachel_build_part2_c80fc9c1:
 translate vietnamese speak_rachel_build_part2_caffe323:
 
     # me "Just tell me what to bring."
-    me "Chỉ cần cho tôi biết cần gì thôi."
+    me "Chỉ cần cho tôi biết cần phải đem cái gì thôi."
 
 # game/characters/rachel/speak_build.rpy:113
 translate vietnamese speak_rachel_build_part2_55109dfc:
 
     # rachel "I'll deal with the vitality part. You just need to bring me some stones. 20 will do."
-    rachel "Tôi sẽ giải quyết phần sinh lực. Anh chỉ cần mang cho tôi một ít đá. 20 cục sẽ đủ đấy."
+    rachel "Tôi sẽ giải quyết phần sức sống. Anh chỉ cần mang cho tôi một ít đá. 20 cục sẽ đủ đấy."
 
 # game/characters/rachel/speak_build.rpy:114
 translate vietnamese speak_rachel_build_part2_732c53f6:
@@ -136,25 +136,25 @@ translate vietnamese speak_rachel_build_part2_732c53f6:
 translate vietnamese speak_rachel_build_part3_6ba2504d:
 
     # rachel "It's much better now. Don't you think so?"
-    rachel "Bây giờ nó tốt hơn rất nhiều. Anh có nghĩ vậy không?"
+    rachel "Bây giờ nó tốt hơn nhiều rồi. Anh có nghĩ vậy không?"
 
 # game/characters/rachel/speak_build.rpy:144
 translate vietnamese speak_rachel_build_part3_dfeee269:
 
     # me "Yes, it looks less empty now."
-    me "Có, bây giờ nhìn ít trống trải hơn rồi."
+    me "Ừ, bây giờ nhìn bớt trống trải hơn rồi đấy."
 
 # game/characters/rachel/speak_build.rpy:145
 translate vietnamese speak_rachel_build_part3_cd78280d:
 
     # rachel "It's still not enough, though."
-    rachel "Tuy nhiên, nó vẫn chưa đủ ĐÂU."
+    rachel "Tuy nhiên, nó vẫn chưa đủ đâu."
 
 # game/characters/rachel/speak_build.rpy:146
 translate vietnamese speak_rachel_build_part3_95099e4b:
 
     # me "Hmm.. What's needed?"
-    me "Hmm... Cần gì NỮA?"
+    me "Hmm... Cần gì nữa?"
 
 # game/characters/rachel/speak_build.rpy:147
 translate vietnamese speak_rachel_build_part3_e4d4ccc6:
@@ -190,13 +190,13 @@ translate vietnamese speak_rachel_build_part3_d9cf31b2:
 translate vietnamese speak_rachel_build_part4_cb050e3d:
 
     # rachel "We are closing to the end."
-    rachel "Chúng ta đang gần đến kết thúc."
+    rachel "Chúng ta sắp hoàn thành rồi."
 
 # game/characters/rachel/speak_build.rpy:187
 translate vietnamese speak_rachel_build_part4_5793d2d2:
 
     # me "That's great, what do you need now?"
-    me "Thật tuyệt, cô cần gì bây giờ?"
+    me "Tốt đấy, thế bây giờ cô cần gì?"
 
 # game/characters/rachel/speak_build.rpy:188
 translate vietnamese speak_rachel_build_part4_d11cfc55:
@@ -244,7 +244,7 @@ translate vietnamese speak_rachel_build_part4_4b15a3f5:
 translate vietnamese speak_rachel_build_part5_8e78c09c:
 
     # me "I see one problem."
-    me "Tôi thấy một vấn đề."
+    me "Tôi thấy có một vấn đề."
 
 # game/characters/rachel/speak_build.rpy:227
 translate vietnamese speak_rachel_build_part5_ca29fc99:
@@ -256,25 +256,25 @@ translate vietnamese speak_rachel_build_part5_ca29fc99:
 translate vietnamese speak_rachel_build_part5_7116d5a9:
 
     # me "There is nothing at the center. It looks empty."
-    me "Không có gì ở trung tâm. Nó trông thật trống rỗng."
+    me "Không có gì ở trung tâm cả. Nó trông thật trống rỗng."
 
 # game/characters/rachel/speak_build.rpy:229
 translate vietnamese speak_rachel_build_part5_4ddb89e9:
 
     # rachel "That's exactly what is being expanded next."
-    rachel "Đó chính xác là những gì đang được mở rộng tiếp theo."
+    rachel "Đó chính xác là những gì sẽ được mở rộng tiếp theo đấy."
 
 # game/characters/rachel/speak_build.rpy:230
 translate vietnamese speak_rachel_build_part5_cf11b95d:
 
     # me "Great. How far are we from the end?"
-    me "Tốt. Chúng ta còn bao xa để kết thúc?"
+    me "Tốt. Chúng ta cần bao lâu nữa để hoàn thành vậy?"
 
 # game/characters/rachel/speak_build.rpy:231
 translate vietnamese speak_rachel_build_part5_6ec4b9fd:
 
     # rachel "This is the last expansion. The shrine will be ready."
-    rachel "Đây là lần mở rộng cuối cùng. Đền thờ sẽ sẵn sàng."
+    rachel "Đây là lần mở rộng cuối cùng rồi. Đền thờ sẽ sẵn sàng khi chúng ta hoàn thành nốt cái này."
 
 # game/characters/rachel/speak_build.rpy:232
 translate vietnamese speak_rachel_build_part5_ce85af31:
@@ -298,19 +298,19 @@ translate vietnamese speak_rachel_build_part5_0c100e1d:
 translate vietnamese speak_rachel_build_part5_8ecbddff:
 
     # rachel "I know where to get all the stone. But the bone.."
-    rachel "Tôi biết lấy đá ở đâu. Nhưng xương..."
+    rachel "Tôi biết lấy đá ở đâu. Nhưng mà xương thì..."
 
 # game/characters/rachel/speak_build.rpy:240
 translate vietnamese speak_rachel_build_part5_50faed39:
 
     # me "No problem. I will bring you a few."
-    me "Không vấn đề. Tôi sẽ mang cho cô một ít."
+    me "Không thành vấn đề. Tôi sẽ mang cho cô một ít."
 
 # game/characters/rachel/speak_build.rpy:241
 translate vietnamese speak_rachel_build_part5_53b162a0:
 
     # rachel "The thing is, the bone can't be ordinary."
-    rachel "Vấn đề là, xương không thể là loại bình thường."
+    rachel "Vấn đề là, xương không thể là loại thông thường."
 
 # game/characters/rachel/speak_build.rpy:242
 translate vietnamese speak_rachel_build_part5_1f877649:
@@ -334,7 +334,7 @@ translate vietnamese speak_rachel_build_part5_94cf0d39:
 translate vietnamese speak_rachel_build_part5_1c8cc329:
 
     # rachel "You would need to kill some strong monster. I've seen these corrupted things out there."
-    rachel "Anh sẽ cần phải giết một số quái vật mạnh mẽ. Tôi đã thấy những thứ Sa đọa này ở ngoài kia."
+    rachel "Anh sẽ cần phải giết những quái vật mạnh mẽ. Tôi đã thấy những thứ sa đọa đó ở ngoài kia."
 
 # game/characters/rachel/speak_build.rpy:250
 translate vietnamese speak_rachel_build_part5_17722288:
@@ -352,7 +352,7 @@ translate vietnamese speak_rachel_build_part5_b0ddf1a9:
 translate vietnamese speak_rachel_build_building_a16df1bb:
 
     # rachel "Great! I have all needed materials. Time to work!"
-    rachel "Tuyệt quá! Tôi có tất cả các vật liệu cần thiết. Đến lúc để vào việc rồi!"
+    rachel "Tuyệt lắm! Bây giờ Tôi có tất cả các vật liệu cần thiết rồi. Vào việc thôi!"
 
 # game/characters/rachel/speak_build.rpy:298
 translate vietnamese speak_rachel_build_building_17972ce6:
@@ -364,7 +364,7 @@ translate vietnamese speak_rachel_build_building_17972ce6:
 translate vietnamese speak_rachel_build_building_04a54d17:
 
     # rachel "No, it will be done by in a while."
-    rachel "Không, nó sẽ được hoàn thành trong một lúc thôi."
+    rachel "Không, nó sẽ được hoàn thành trong một nốt nhạc thôi."
 
 # game/characters/rachel/speak_build.rpy:300
 translate vietnamese speak_rachel_build_building_59ee2d86:
@@ -376,13 +376,13 @@ translate vietnamese speak_rachel_build_building_59ee2d86:
 translate vietnamese speak_rachel_build_building_c40af1f0:
 
     # rachel "No, thank you. It's not the conventional way of building."
-    rachel "Không cám ơn. Đây không phải là cách xây dựng thông thường."
+    rachel "Không cần đâu. Tôi sẽ xây ngôi đền theo cách khác cơ."
 
 # game/characters/rachel/speak_build.rpy:302
 translate vietnamese speak_rachel_build_building_8dc22e2d:
 
     # me "Alright then."
-    me "Được rồi."
+    me "Thế thì thôi vậy."
 
 # game/characters/rachel/speak_build.rpy:314
 translate vietnamese speak_rachel_build_building_699e625f:
@@ -394,13 +394,13 @@ translate vietnamese speak_rachel_build_building_699e625f:
 translate vietnamese speak_rachel_build_building_90dd0c61:
 
     # me "How..?"
-    me "Làm thế nào...?"
+    me "Làm thế nào mà...?"
 
 # game/characters/rachel/speak_build.rpy:316
 translate vietnamese speak_rachel_build_building_d6d9ba37:
 
     # rachel "Haha, magic."
-    rachel "Haha, fap thuật."
+    rachel "Haha, phép thuật đấy."
 
 # game/characters/rachel/speak_build.rpy:317
 translate vietnamese speak_rachel_build_building_3820771a:
@@ -412,7 +412,7 @@ translate vietnamese speak_rachel_build_building_3820771a:
 translate vietnamese speak_rachel_build_building_e579a3a3:
 
     # rachel "Thank you for taking me in."
-    rachel "Cảm ơn vì đã đưa tôi vào."
+    rachel "Cảm ơn vì đã cho tôi vào."
 
 # game/characters/rachel/speak_build.rpy:326
 translate vietnamese speak_rachel_build_building_a1a23cab:
@@ -424,31 +424,31 @@ translate vietnamese speak_rachel_build_building_a1a23cab:
 translate vietnamese speak_rachel_build_building_8be279d6:
 
     # rachel "Besides my tribesmen, you're the only person that's ever helped me."
-    rachel "Ngoài những người cùng bộ lạc của tôi, anh là người duy nhất từng giúp tôi."
+    rachel "Ngoài những người cùng bộ lạc của tôi ra, thì anh là người duy nhất từng giúp tôi đấy."
 
 # game/characters/rachel/speak_build.rpy:328
 translate vietnamese speak_rachel_build_building_24aafeca:
 
     # me "Do you know a lot of outsiders?"
-    me "Bạn có biết nhiều người bên ngoài không??"
+    me "Cô có biết nhiều người bên ngoài không??"
 
 # game/characters/rachel/speak_build.rpy:329
 translate vietnamese speak_rachel_build_building_57f71987:
 
     # rachel "Yes, I've met many. I was traveling quite a lot back in the days."
-    rachel "Có, tôi gặp nhiều rồi. Những ngày trước tôi đã đi ngao du khá nhiều."
+    rachel "Có chứ, tôi gặp đầy rồi. Những ngày trước tôi đã đi ngao du khá nhiều đấy."
 
 # game/characters/rachel/speak_build.rpy:330
 translate vietnamese speak_rachel_build_building_540888dc:
 
     # me "It's a pity you didn't meet anyone nice."
-    me "Thật tiếc vì cô không gặp được ai tốt."
+    me "Thật tiếc vì cô không gặp được một người tốt."
 
 # game/characters/rachel/speak_build.rpy:331
 translate vietnamese speak_rachel_build_building_c1b37143:
 
     # rachel "Who would find time to care for others when they can't take care of themselves?"
-    rachel "Ai sẽ dành thời gian quan tâm đến người khác khi họ không thể tự chăm sóc mình?"
+    rachel "Ai lại dành thời gian để quan tâm đến người khác trong khi họ còn không thể tự chăm sóc mình được chứ?"
 
 # game/characters/rachel/speak_build.rpy:332
 translate vietnamese speak_rachel_build_building_f113eaf3:
@@ -460,7 +460,7 @@ translate vietnamese speak_rachel_build_building_f113eaf3:
 translate vietnamese speak_rachel_build_building_5ac24fe8:
 
     # rachel "Yes, the whole Great Wilderness reeks of danger."
-    rachel "Vâng, toàn bộ vùng Đại Lâm đều tràn ngập nguy hiểm."
+    rachel "Ừm, toàn bộ vùng Đại Lâm đều tràn ngập nguy hiểm."
 
 # game/characters/rachel/speak_build.rpy:334
 translate vietnamese speak_rachel_build_building_ae19b8f0:
@@ -478,13 +478,13 @@ translate vietnamese speak_rachel_build_building_c31d6959:
 translate vietnamese speak_rachel_build_building_ed2fbc89:
 
     # me "How come I've never heard of it?"
-    me "Sao tôi chưa bao giờ nghe nói về nó?"
+    me "Sao tôi chưa bao giờ nghe nói về nó vậy?"
 
 # game/characters/rachel/speak_build.rpy:341
 translate vietnamese speak_rachel_build_building_ff2f3fe9:
 
     # rachel "I guess we're from different worlds."
-    rachel "Tôi đoán chúng ta đến từ những thế giới khác nhau."
+    rachel "Tôi đoán là chúng ta đến từ những thế giới khác nhau."
 
 # game/characters/rachel/speak_build.rpy:342
 translate vietnamese speak_rachel_build_building_17a26be9:
@@ -514,13 +514,13 @@ translate vietnamese speak_rachel_build_building_52a973d3:
 translate vietnamese speak_rachel_build_building_e509468e:
 
     # rachel "When The War began, they were the first to suffer the brunt of it."
-    rachel "Khi Chiến tranh bắt đầu, họ là những người đầu tiên phải hứng chịu gánh nặng của nó."
+    rachel "Khi Chiến tranh nổ ra, họ là những người đầu tiên phải hứng chịu gánh nặng của nó."
 
 # game/characters/rachel/speak_build.rpy:355
 translate vietnamese speak_rachel_build_building_17584a8c:
 
     # rachel "As a result all humans settlements were razed, and the ones that escaped were soon devoured by beasts running rampart or perished under leftovers of the Gods' power."
-    rachel "Kết quả là tất cả các khu định cư của con người đã bị san bằng, và những người trốn thoát sớm bị nuốt chửng bởi những con thú chạy thành lũy hoặc bị giết chết dưới những tàn dư của sức mạnh các vị thần."
+    rachel "Kết quả là tất cả các khu định cư của con người đã bị san bằng, còn những người trốn thoát thì cũng bị nuốt chửng bởi những con thú hoặc bị giết chết dưới những tàn dư của sức mạnh các vị thần."
 
 # game/characters/rachel/speak_build.rpy:356
 translate vietnamese speak_rachel_build_building_83347d99:
@@ -550,7 +550,7 @@ translate vietnamese speak_rachel_build_building_01c4697b:
 translate vietnamese speak_rachel_build_building_1bf51bcf:
 
     # rachel "Yes, there are immortal beings in the Forgotten Paradise, even whole races can be immortal. But even immortals, without sufficient power, will die eventually."
-    rachel "Đúng vậy, có những thực thể bất tử trong Thiên đường bị lãng quên, thậm chí toàn bộ chủng tộc có thể bất tử. Nhưng ngay cả những người bất tử, nếu không có đủ sức mạnh, cuối cùng cũng sẽ chết."
+    rachel "Đúng vậy, có những thực thể và sinh vật bất tử trong Thiên đường bị lãng quên, thậm chí toàn bộ chủng tộc có thể bất tử. Nhưng ngay cả những người bất tử, nếu không có đủ sức mạnh, cuối cùng cũng sẽ chết."
 
 # game/characters/rachel/speak_build.rpy:361
 translate vietnamese speak_rachel_build_building_7cdea571:
@@ -562,25 +562,25 @@ translate vietnamese speak_rachel_build_building_7cdea571:
 translate vietnamese speak_rachel_build_building_f5fff482:
 
     # rachel "They are believed to be born out of dying the Gods' despair and resentment."
-    rachel "Họ được cho là được sinh ra sau khi chết vì sự tuyệt vọng và phẫn uất của các vị thần."
+    rachel "Mọi người tin rằng họ được sinh ra từ sự chết chsoc sự tuyệt vọng và phẫn uất của các vị thần."
 
 # game/characters/rachel/speak_build.rpy:363
 translate vietnamese speak_rachel_build_building_53353a96:
 
     # rachel "I have never met any of them, but according to the texts, their appearance alone is enough to drive others crazy."
-    rachel "Tôi chưa từng gặp ai trong số họ, nhưng theo nguyên văn, chỉ riêng ngoại hình của họ thôi cũng đủ khiến người khác phát điên rồi."
+    rachel "Tôi chưa từng gặp ai trong số họ cả, nhưng theo nguyên văn, chỉ riêng ngoại hình của họ thôi cũng đủ khiến người khác phát điên rồi."
 
 # game/characters/rachel/speak_build.rpy:364
 translate vietnamese speak_rachel_build_building_2276912b:
 
     # me "This 'Paradise' doesn't seem like a place I would like to see.."
-    me "'Thiên đường' này có vẻ không phải là nơi tôi muốn đến..."
+    me "Cái 'Thiên đường' này có vẻ không phải là một nơi tôi muốn đặt chân đến..."
 
 # game/characters/rachel/speak_build.rpy:365
 translate vietnamese speak_rachel_build_building_dd8f3259:
 
     # rachel "It's definitely not the most welcoming of places, but that changes with a person."
-    rachel "Nó chắc chắn không phải là nơi được chào đón nhất, nhưng điều đó sẽ thay đổi theo mỗi người."
+    rachel "Nó chắc chắn không phải là nơi dễ chịu nhất, nhưng điều đó sẽ thay đổi theo mỗi người."
 
 # game/characters/rachel/speak_build.rpy:366
 translate vietnamese speak_rachel_build_building_16dbee78:
@@ -598,13 +598,13 @@ translate vietnamese speak_rachel_build_building_049e20ab:
 translate vietnamese speak_rachel_build_building_17c2af52:
 
     # rachel "The Great Wilderness I'm from is overgrown with vitality. I've heard it's precisely because of leftover power of Goddess of Life. It might be just a legend, though."
-    rachel "Vùng Đại Lâm hoang dã tràn ngập sức sống. Tôi nghe nói đó chính là do sức mạnh còn sót lại của Nữ thần Sự sống. Tuy nhiên, nó có thể chỉ là một huyền thoại."
+    rachel "Vùng Đại Lâm hoang dã tràn ngập sức sống. Tôi nghe nói đó chính là do sức mạnh còn sót lại của Nữ thần Sự sống. Tuy nhiên, có thể nó cũng chỉ là một truyền thuyết thôi."
 
 # game/characters/rachel/speak_build.rpy:369
 translate vietnamese speak_rachel_build_building_af481885:
 
     # me "So, about the war. What exactly happened?"
-    me "Vậy vòn về chiến tranh. Chính xác thì điều gì đã xảy ra?"
+    me "Vậy còn về chiến tranh thì sao. Chính xác thì điều gì đã xảy ra?"
 
 # game/characters/rachel/speak_build.rpy:370
 translate vietnamese speak_rachel_build_building_cffe04c7:
@@ -628,13 +628,13 @@ translate vietnamese speak_rachel_build_building_a2d3116e:
 translate vietnamese speak_rachel_build_building_038f6153:
 
     # rachel "While there are records about a few Gods dying, there are no corpses, nor divinities. Just leftover power and authority. They seem to have just vanished.."
-    rachel "Trong khi có ghi chép về một số vị thần bị chết, nhưng không có xác, cũng không có thần thánh. Chỉ là quyền lực và quyền hạn còn sót lại. Họ dường như vừa mới biến mất..."
+    rachel "Trong khi có ghi chép về một số vị thần bị chết, nhưng không có xác, cũng không có thần thánh. Chỉ có quyền lực và quyền hạn còn sót lại. Họ dường như vừa mới biến mất..."
 
 # game/characters/rachel/speak_build.rpy:374
 translate vietnamese speak_rachel_build_building_8c149a6e:
 
     # me "Interesting.."
-    me "Interesting..."
+    me "Thú vị..."
 
 # game/characters/rachel/speak_build.rpy:379
 translate vietnamese speak_rachel_build_building_95fc6aa2:
@@ -646,7 +646,7 @@ translate vietnamese speak_rachel_build_building_95fc6aa2:
 translate vietnamese speak_rachel_build_building_15fe3b0d:
 
     # me "Sure, good luck."
-    me "Chắc chắn rồi, chúc may mắn."
+    me "Được rồi, chúc may mắn."
 
 # game/characters/rachel/speak_build.rpy:385
 translate vietnamese speak_rachel_build_building_2954cb24:
@@ -670,13 +670,13 @@ translate vietnamese speak_rachel_build_building_c04e1dc2:
 translate vietnamese speak_rachel_build_building_f108eb6f:
 
     # rachel "We are getting there, just a little more and it'll be done."
-    rachel "Chúng tôi đang đến gần rồi, chỉ một chút nữa thôi là xong."
+    rachel "Chúng ta đang tiến đến gần hơn rồi, chỉ một chút nữa thôi."
 
 # game/characters/rachel/speak_build.rpy:412
 translate vietnamese speak_rachel_build_little_fox_findus_65bc54a6:
 
     # rachel "Yes, she will! I miss this little minx. The sooner we finish the sooner she'll come here."
-    rachel "Có, em ấy sẽ! Tôi nhớ con nhỏ này. Chúng ta hoàn thành càng sớm thì em ấy sẽ đến đây sớm hơn."
+    rachel "Tất nhiên! Tôi cũng nhớ con nhỏ này lắm chứ bộ. Chúng ta hoàn thành càng sớm thì em ấy sẽ đến đây càng sớm thôi."
 
 # game/characters/rachel/speak_build.rpy:413
 translate vietnamese speak_rachel_build_little_fox_findus_bc089777:
@@ -688,13 +688,13 @@ translate vietnamese speak_rachel_build_little_fox_findus_bc089777:
 translate vietnamese speak_rachel_build_little_fox_findus_42f7555f:
 
     # rachel "Together we'll finish the shrine. It'll be just a matter of time before she shows up."
-    rachel "Cùng nhau chúng ta sẽ hoàn thành ngôi đền. Sẽ chỉ là vấn đề thời gian trước khi em ấy xuất hiện."
+    rachel "Cùng nhau chúng ta sẽ hoàn thành ngôi đền này. Sẽ chỉ là vấn đề thời gian trước khi em ấy xuất hiện thôi."
 
 # game/characters/rachel/speak_build.rpy:419
 translate vietnamese speak_rachel_build_little_fox_findus_62e96793:
 
     # me "Yup, we will get it done soon."
-    me "Yup, chúng ta sẽ hoàn thành nó sớm."
+    me "Yup, chúng ta sẽ hoàn thành nó sớm thôi."
 
 # game/characters/rachel/speak_build.rpy:428
 translate vietnamese speak_rachel_build_leave_bd2dc367:
@@ -763,7 +763,7 @@ translate vietnamese speak_rachel_build_part2_2d7e669f:
 translate vietnamese speak_rachel_build_building_58a1c96b:
 
     # rachel "Great! I have all the needed materials. Time to work!"
-    rachel "Tuyệt quá! Tôi có tất cả các vật liệu cần thiết. Đến lúc để vào việc rồi!"
+    rachel "Tuyệt lắm! Bây giờ Tôi có tất cả các vật liệu cần thiết rồi. Vào việc thôi!"
 
 # game/characters/rachel/speak_build.rpy:355
 translate vietnamese speak_rachel_build_building_f941d913:
@@ -799,4 +799,4 @@ translate vietnamese speak_rachel_build_building_87a20671:
 translate vietnamese speak_rachel_build_building_118422f9:
 
     # rachel "Alright, if you have no more questions, I would like to start working."
-    rachel "Được rồi, nếu anh không còn câu hỏi nào nữa, tôi sẽ bắt đầu vào việc đây."
+    rachel "Được rồi, nếu anh không còn câu hỏi nào nữa thì tôi bắt đầu vào việc đây."

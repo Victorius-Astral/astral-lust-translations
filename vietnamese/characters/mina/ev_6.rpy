@@ -10,7 +10,7 @@ translate vietnamese mina_6_0d485f6b:
 translate vietnamese mina_6_c50ee988:
 
     # me "You don't look like it. Do you want to talk?"
-    me "Em nhìn không ổn chút nào đâu. Em có muốn nói chuyện không?"
+    me "Trông em không giống vậy chút nào đâu. Em có muốn nói chuyện không?"
 
 # game/characters/mina/ev_6.rpy:9
 translate vietnamese mina_6_b4972b7e:
@@ -22,7 +22,7 @@ translate vietnamese mina_6_b4972b7e:
 translate vietnamese mina_6_2e74e314:
 
     # me "Just tell me how you feel, I promise you'll feel better."
-    me "Cứ cho anh biết em cảm thấy thế nào đi, anh hứa en sẽ cảm thấy tốt hơn thôi."
+    me "Cứ cho anh biết là em đang cảm thấy thế nào đi, anh hứa là em sẽ cảm thấy tốt hơn thôi."
 
 # game/characters/mina/ev_6.rpy:11
 translate vietnamese mina_6_4e2a8876:
@@ -34,7 +34,7 @@ translate vietnamese mina_6_4e2a8876:
 translate vietnamese mina_6_f91516c8:
 
     # mina "I can't get it out of my head, every time I close my eyes I see his face."
-    mina "Em không thể gạt nó ra khỏi đầu mình, mỗi khi nhắm mắt lại tôi đều nhìn thấy khuôn mặt của hắn."
+    mina "Em không tài nào gạt nó ra khỏi đầu mình được, mỗi khi nhắm mắt lại em đều nhìn thấy khuôn mặt của hắn."
 
 # game/characters/mina/ev_6.rpy:14
 translate vietnamese mina_6_6f01474d:
@@ -70,7 +70,7 @@ translate vietnamese mina_6_4b6d3275:
 translate vietnamese mina_6_c07fbbbd:
 
     # mina "I know, but why do I feel like it never ended?"
-    mina "Em biết, nhưng tại sao em lại cảm thấy nó chưa bao giờ kết thúc?"
+    mina "Em biết, nhưng tại sao em lại cảm thấy nó chưa bao giờ kết thúc Vậy?"
 
 # game/characters/mina/ev_6.rpy:22
 translate vietnamese mina_6_17c0359f:
@@ -106,13 +106,13 @@ translate vietnamese mina_6_21ab59be:
 translate vietnamese mina_6_80b90009:
 
     # mina "Stop. It's not your fault. I'm sure you tried."
-    mina "Dừng lại đi. Đó không phải lỗi của anh đâu. Em chắc rằng bạanh cũngn đã tìm thử rồi."
+    mina "Dừng lại đi. Đó không phải lỗi của anh đâu. Em chắc rằng anh cũng đã cố rồi."
 
 # game/characters/mina/ev_6.rpy:33
 translate vietnamese mina_6_16663c37:
 
     # mina "It's my fault for going out, I should have been more careful."
-    mina "Đó là lỗi của em vì đi ra ngoài, em nên cẩn thận hơn."
+    mina "Đó là lỗi của em vì đi ra ngoài, đáng lẽ ra em nên cẩn thận hơn."
 
 # game/characters/mina/ev_6.rpy:35
 translate vietnamese mina_6_7fd2e8cc:
@@ -124,7 +124,7 @@ translate vietnamese mina_6_7fd2e8cc:
 translate vietnamese mina_6_5fcb3b99:
 
     # "You didn't manage to make her stop crying."
-    "Bạn đã không thể làm cho cô ấy ngừng khóc."
+    "Bạn không thể làm cho cô ấy ngừng khóc."
 
 # game/characters/mina/ev_6.rpy:40
 translate vietnamese mina_6_c15afaa7:
@@ -172,7 +172,7 @@ translate vietnamese mina_6_5fcb3b99_1:
 translate vietnamese mina_6_1_206fea99:
 
     # mina "*Sobbing*"
-    mina "*Khóc Nức nở*"
+    mina "*Hức*"
 
 # game/characters/mina/ev_6.rpy:59
 translate vietnamese mina_6_1_7e7bf5bb:
@@ -208,7 +208,7 @@ translate vietnamese mina_6_1_be73b9e0:
 translate vietnamese mina_6_1_bfee357f:
 
     # me "I did what I should."
-    me "Anh làm những gì mình nên làm thôi."
+    me "Anh chỉ làm những gì mình nên làm thôi."
 
 # game/characters/mina/ev_6.rpy:72
 translate vietnamese mina_6_1_70e7873b:
@@ -268,7 +268,7 @@ translate vietnamese mina_6_1_10b9d57d:
 translate vietnamese mina_6_1_6cbb0acf:
 
     # th "Shit, I should be ashamed of myself. She is suffering and I'm thinking about sex."
-    th "Chết tiệt, mình nên xấu hổ về bản thân mình. Em ấy đang đau khổ mà mình lại nghĩ về vú vú địt địt."
+    th "Chết tiệt, mình nên xấu hổ về bản thân mình đi. Em ấy đang đau khổ mà mình lại chỉ biết nghĩ về vú vú địt địt."
 
 # game/characters/mina/ev_6.rpy:87
 translate vietnamese mina_6_1_786c26cf:
@@ -280,13 +280,13 @@ translate vietnamese mina_6_1_786c26cf:
 translate vietnamese mina_6_1_dd6c48c7:
 
     # mina "I still have things to do, I need to get going."
-    mina "Em vẫn còn nhiều việc phải làm, em phải đi đây."
+    mina "Em vẫn còn nhiều việc phải làm lắm, em đi đây."
 
 # game/characters/mina/ev_6.rpy:90
 translate vietnamese mina_6_1_63c249d9:
 
     # me "I can do them for you."
-    me "Anh có thể làm hộ em."
+    me "Anh có thể làm hộ em mà."
 
 # game/characters/mina/ev_6.rpy:91
 translate vietnamese mina_6_1_609e1e4e:
@@ -311,4 +311,4 @@ translate vietnamese strings:
 
     # game/characters/mina/ev_6.rpy:77
     old "She considers me both her friend and her savior."
-    new "Cô ấy vừa coi tôi là bạn và vừa là cứu tinh của cô ấy."
+    new "Cô ấy vừa coi tôi là bạn và vừa là vị cứu tinh của cô ấy."

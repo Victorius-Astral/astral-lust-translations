@@ -16,7 +16,7 @@ translate vietnamese lexi_8_f949d79e:
 translate vietnamese lexi_8_31de4eaa:
 
     # lexi "You don't care about your own life at all?"
-    lexi "Anh hoàn toàn không quan tâm đến cuộc sống của mình sao?"
+    lexi "Anh hoàn toàn không quan tâm đến mạng sống của mình chút Nào sao?"
 
 # game/characters/lexi/ev_8.rpy:24
 translate vietnamese lexi_8_38443f7d:
@@ -76,7 +76,7 @@ translate vietnamese lexi_8_f70f5584:
 translate vietnamese lexi_8_a6131689:
 
     # lexi "It's nothing like that, don't worry, he actually asked me out."
-    lexi "Không có gì như vậy đâu, đừng lo lắng, anh ấy thực sự đã rủ chị đi chơi."
+    lexi "Không phải như vậy đâu, đừng lo, anh ấy thực sự đã rủ chị đi chơi đấy."
 
 # game/characters/lexi/ev_8.rpy:51
 translate vietnamese lexi_8_c5dc7077:
@@ -118,7 +118,7 @@ translate vietnamese lexi_8_fb410d13:
 translate vietnamese lexi_8_29c8d53a:
 
     # me "There's not many options right now."
-    me "Bây giờ không có nhiều lựa chọn."
+    me "Bây giờ không có nhiều lựa chọn đâu."
 
 # game/characters/lexi/ev_8.rpy:64
 translate vietnamese lexi_8_0cd46d6e:
@@ -136,7 +136,7 @@ translate vietnamese lexi_8_d907ff26:
 translate vietnamese lexi_8_314086b3:
 
     # me "What?"
-    me "Cái gì?"
+    me "Cái gì?"
 
 # game/characters/lexi/ev_8.rpy:73
 translate vietnamese lexi_8_8b6bb9c5:
@@ -148,7 +148,7 @@ translate vietnamese lexi_8_8b6bb9c5:
 translate vietnamese lexi_8_a0c941df:
 
     # mina "Yeah, I want to go out. Sometimes I feel like I'm in prison here. It's not like you're going to fool around outside, right?"
-    mina "Yeah, em muốn đi chơi. Đôi khi em cảm thấy như mình đang ở trong tù vậy. Nó đâu giống như chị sẽ đi ấy ấy xung quanh vậy, phải không?"
+    mina "Yeah, em muốn đi chơi. Đôi khi em cảm thấy như mình đang ở trong tù vậy. Mà có phải là chị sẽ đi \"Ấy Ấy\" xung quanh đâu mà, phải không?"
 
 # game/characters/lexi/ev_8.rpy:79
 translate vietnamese lexi_8_bfa2d89c:
@@ -238,7 +238,7 @@ translate vietnamese lexi_8_533ea457:
 translate vietnamese lexi_8_56f40e3a:
 
     # mina "You won't get better outta me."
-    mina "Bạn sẽ không trở nên tốt hơn nếu không có em đâu."
+    mina "Anh sẽ không thể trở nên khá hơn nếu không có em đâu."
 
 # game/characters/lexi/ev_8.rpy:109
 translate vietnamese lexi_8_b273d15b:
@@ -328,7 +328,7 @@ translate vietnamese lexi_8_part2_77653b33:
 translate vietnamese lexi_8_part2_a2c0eea8:
 
     # me "Looks good."
-    me "Có vẻ tốt."
+    me "Có vẻ ổn đấy."
 
 # game/characters/lexi/ev_8.rpy:133
 translate vietnamese lexi_8_part2_63c6a818:
@@ -352,7 +352,7 @@ translate vietnamese lexi_8_part2_8589c4cd:
 translate vietnamese lexi_8_part2_59078239:
 
     # me "I'll check if it's safe."
-    me "Anh sẽ kiểm tra xem nó có an toàn không."
+    me "Đợi anh kiểm tra xem nó có an toàn không đã."
 
 # game/characters/lexi/ev_8.rpy:139
 translate vietnamese lexi_8_part2_9192f971:
@@ -370,7 +370,7 @@ translate vietnamese lexi_8_part2_fb1656db:
 translate vietnamese lexi_8_part2_e346f1ac:
 
     # me "I'm sure, we already had this talk, [lexi]."
-    me "Anh chắc chắn mà, chúng ta đã nói về chuyện này rồi, [lexi]."
+    me "Anh chắc mà, chúng ta đã nói về chuyện này rồi, [lexi]."
 
 # game/characters/lexi/ev_8.rpy:146
 translate vietnamese lexi_8_part2_1ec84f66:
@@ -490,7 +490,7 @@ translate vietnamese lexi_8_part2_80e2b9d3:
 translate vietnamese lexi_8_part2_35ed9be5:
 
     # me "I'll always protect you, but I'm not omnipotent."
-    me "Anh sẽ luôn bảo vệ em, nhưng anh không toàn năng."
+    me "Anh sẽ luôn bảo vệ em, nhưng anh không phải là toàn năng."
 
 # game/characters/lexi/ev_8.rpy:183
 translate vietnamese lexi_8_part2_f4cb60de:
@@ -550,7 +550,7 @@ translate vietnamese lexi_8_part2_88eab5f5:
 translate vietnamese lexi_8_part2_d9a26b4a:
 
     # "You sit back and enjoy the atmosphere, talking about stuff from before The End. The girls are clearly happy."
-    "Bạn ngồi lại và tận hưởng bầu không khí, nói về những thứ từ trước khi The End. Các cô gái rõ ràng là rất hạnh phúc."
+    "Bạn ngồi lại và tận hưởng bầu không khí, nói về những thứ từ trước lúc Tận Thế. Các cô gái rõ ràng là rất hạnh phúc."
 
 # game/characters/lexi/ev_8.rpy:211
 translate vietnamese lexi_8_part2_60eb7b1b:
@@ -562,7 +562,7 @@ translate vietnamese lexi_8_part2_60eb7b1b:
 translate vietnamese lexi_8_part2_a782456d:
 
     # me "Sure thing, you needed to relax."
-    me "Chắc chắn rồi, cậu cần được thư giãn."
+    me "Điều nên làm thôi, em cũng cần được thư giãn mà."
 
 # game/characters/lexi/ev_8.rpy:213
 translate vietnamese lexi_8_part2_1f2ba0a2:
@@ -616,7 +616,7 @@ translate vietnamese lexi_8_part2_ee7bf322:
 translate vietnamese lexi_8_part2_fd97d730:
 
     # mina "[lex_min]?"
-    mina "[lex_min]?"
+    mina "Chị?"
 
 # game/characters/lexi/ev_8.rpy:234
 translate vietnamese lexi_8_part2_54ce68d7:
@@ -658,7 +658,7 @@ translate vietnamese lexi_8_part2_adcfab35:
 translate vietnamese lexi_8_part2_938abc6f:
 
     # me "Listen to your [lex_min], and don't look up."
-    me "Nghe chị chị của em và đừng nhìn lên."
+    me "Nghe lời chị của em và đừng nhìn lên."
 
 # game/characters/lexi/ev_8.rpy:247
 translate vietnamese lexi_8_part2_42a730fb:
@@ -670,7 +670,7 @@ translate vietnamese lexi_8_part2_42a730fb:
 translate vietnamese lexi_8_part2_411b4304:
 
     # mina "H-H-How.."
-    mina "L-L-Làm sao mà..."
+    mina "L-L-Làm thế nào mà..."
 
 # game/characters/lexi/ev_8.rpy:249
 translate vietnamese lexi_8_part2_1af735a8:
@@ -700,19 +700,19 @@ translate vietnamese lexi_8_part2_ec390952:
 translate vietnamese lexi_8_part2_a6d706a5:
 
     # lexi "They are waiting for us to try running."
-    lexi "Chúng đang đợi ta cố chạy đi."
+    lexi "Chúng đang đợi ta cố chạy đi đấy."
 
 # game/characters/lexi/ev_8.rpy:254
 translate vietnamese lexi_8_part2_4f90ed03:
 
     # th "What have I done.. I don't see any way out.. Will they.. die because of me?"
-    th "Mình đã làm cái đéo gì vậy... Mình không thấy lối thoát nào... Liệu họ có... chết vì mình?"
+    th "Mình đã làm cái đéo gì vậy... Mình không thấy lối thoát nào cả... Liệu họ có... chết vì mình?"
 
 # game/characters/lexi/ev_8.rpy:257
 translate vietnamese lexi_8_part2_12096a43:
 
     # mina "What... are we going to do?"
-    mina "Chúng ta sẽ làm gì?"
+    mina "Chúng ta sẽ làm gì đây?"
 
 # game/characters/lexi/ev_8.rpy:258
 translate vietnamese lexi_8_part2_d7760fc7_1:
@@ -730,7 +730,7 @@ translate vietnamese lexi_8_part2_850c35ab:
 translate vietnamese lexi_8_part2_317bac22:
 
     # lexi "I love you Mina."
-    lexi "Chị yêu em Mina."
+    lexi "Mina Chị yêu em."
 
 # game/characters/lexi/ev_8.rpy:263
 translate vietnamese lexi_8_part2_3a5a4626:
@@ -760,7 +760,7 @@ translate vietnamese lexi_8_part2_a689e7d4:
 translate vietnamese lexi_8_part2_b6d30154:
 
     # lexi "It won't work this time. There is.. no way for us to escape.."
-    lexi "Lần này sẽ không được đâu. Không có... không có cách nào để chúng ta trốn thoát..."
+    lexi "Lần này sẽ không được đâu. Không có cách nào để chúng ta trốn thoát cả..."
 
 # game/characters/lexi/ev_8.rpy:270
 translate vietnamese lexi_8_part2_4e2a8876:
@@ -784,13 +784,13 @@ translate vietnamese lexi_8_part2_b284fbc8:
 translate vietnamese lexi_8_part2_58abcf81:
 
     # mina "I won't leave you. You're all I have."
-    mina "Em sẽ không bỏ rơi chị đâu. Chị là tất cả những gì em có."
+    mina "Em sẽ không bỏ rơi chị đâu. Chị là tất cả mọi thứ em có."
 
 # game/characters/lexi/ev_8.rpy:277
 translate vietnamese lexi_8_part2_bbe40416:
 
     # lexi "You need to survive Mina. Do this for me, for mom and dad.."
-    lexi "Em cần phải sống Mina. Làm điều này cho chị, cho mẹ và cha..."
+    lexi "Em cần phải sống. Hãy làm điều này cho chị, cho mẹ và cha..."
 
 # game/characters/lexi/ev_8.rpy:280
 translate vietnamese lexi_8_part2_4785b8da:
@@ -808,7 +808,7 @@ translate vietnamese lexi_8_part2_c4079e2c:
 translate vietnamese lexi_8_part2_89aa8bb4:
 
     # lexi "Mina, I'll be honest with you. I won't survive. You'll probably die too."
-    lexi "Mina, chị sẽ thành thật với em. c Chị sẽ không sống sót. Em cũng có thể chết."
+    lexi "Mina, chị sẽ thành thật với em. Chị sẽ không thể sống sót. Em cũng có thể chết."
 
 # game/characters/lexi/ev_8.rpy:284
 translate vietnamese lexi_8_part2_91716319:
@@ -832,7 +832,7 @@ translate vietnamese lexi_8_part2_84964153:
 translate vietnamese lexi_8_part2_2dfa6bc9:
 
     # lexi "It's not your fault."
-    lexi "Đó không phải lỗi của cậu."
+    lexi "Đó không phải lỗi của anh."
 
 # game/characters/lexi/ev_8.rpy:292
 translate vietnamese lexi_8_part2_57303c0c:
@@ -862,19 +862,19 @@ translate vietnamese lexi_8_part2_51d1d83e:
 translate vietnamese lexi_8_part2_9694df03:
 
     # mina "Look, it's too late to escape anyway."
-    mina "Nhìn đi, dù sao cũng đã quá muộn để trốn thoát."
+    mina "Nhìn đi, dù sao cũng đã quá muộn để trốn thoát rồi."
 
 # game/characters/lexi/ev_8.rpy:304
 translate vietnamese lexi_8_part2_93bbfa47:
 
     # "Their goodbyes take your breath away. Your heart aches, and your vision is blurred by tears."
     "Những lời tạm biệt của họ sẽ khiến bạn không khỏi ngạc nhiên. Trái tim của bạn đau đớn, và tầm nhìn của bạn bị mờ đi vì nước mắt."
-
++
 # game/characters/lexi/ev_8.rpy:306
 translate vietnamese lexi_8_part2_c02942a7:
 
     # th "Will they really die here? Is there anything I can do? There must be something!"
-    th "Liệu họ có thực sự chết ở đây? Mình có thể làm gì không? Phải có một cái gì đó!"
+    th "Liệu họ có thực sự chết ở đây không? Mình có thể làm gì được? Phải có một cái gì đó!"
 
 # game/characters/lexi/ev_8.rpy:313
 translate vietnamese lexi_8_menu1_a8c7a609:
@@ -898,7 +898,7 @@ translate vietnamese lexi_8_menu1_269517a5:
 translate vietnamese lexi_8_menu1_e9543eca:
 
     # th "There is no hope of me keeping so many of them at bay..."
-    th "Không có hy vọng gì về việc mình sẽ giữ lại được nhiều tên trong số chúng..."
+    th "Không có hy vọng gì về việc mình sẽ giữ chân được tất cả bọn chúng..."
 
 # game/characters/lexi/ev_8.rpy:325
 translate vietnamese lexi_8_menu1_f2afbfce:
@@ -946,7 +946,7 @@ translate vietnamese lexi_8_part3_a6bb4a82:
 translate vietnamese lexi_8_part3_cdf3f7e5:
 
     # th "I'm so powerless.. I'm so pathetic.. Ahh!!"
-    th "Tao thật yếu đuối... thật thảm hại... Ahh!!"
+    th "Thật yếu đuối... thật thảm hại... Ahh!!"
 
 # game/characters/lexi/ev_8.rpy:344
 translate vietnamese lexi_8_part3_7da4c5cf:
@@ -1012,7 +1012,7 @@ translate vietnamese lexi_8_part3_295c816f:
 translate vietnamese lexi_8_part3_d03c3e19:
 
     # me "Me?"
-    me "Tôi?"
+    me "Mình?"
 
 # game/characters/lexi/ev_8.rpy:363
 translate vietnamese lexi_8_part3_df07b932:
@@ -1126,7 +1126,7 @@ translate vietnamese lexi_8_part3_362cf862:
 translate vietnamese lexi_8_part3_5dad6d50:
 
     # th "Those monsters, what happened to them? He dealt with them.. Like they were nothing..."
-    th "Những con quái vật đó, điều gì đã xảy ra với chúng? Hắn đã đối phó với chúng... Như thể chúng không là gì..."
+    th "Những con quái vật đó, chuyện gì đã xảy ra với chúng? Hắn đã đối phó với chúng... Như thể chúng không là gì..."
 
 # game/characters/lexi/ev_8.rpy:403
 translate vietnamese lexi_8_part3_4a0a06c1:

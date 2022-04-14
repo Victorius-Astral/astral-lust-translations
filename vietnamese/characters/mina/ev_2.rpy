@@ -263,4 +263,4 @@ translate vietnamese strings:
 
     # game/characters/mina/ev_2.rpy:71
     old "She tasked me to find a golden pendant from S&M Jewellery Shop for Lexi's birthday."
-    new "Cô ấy đã giao nhiệm vụ cho tôi tìm một mặt dây chuyền vàng từ N&K Jewellery Shop cho ngày sinh nhật của Lexi."
+    new "Cô ấy đã giao nhiệm vụ cho tôi tìm một mặt dây chuyền vàng từ Cửa hàng trang sức N&K cho ngày sinh nhật của Lexi."

@@ -4,7 +4,7 @@
 translate vietnamese grace_4_b09367ee:
 
     # "As you enter you see [grace] tending to her plants."
-    "Khi bạn bước vào pòng bạn thấy [grace] đang chắm sóc cho mấy cây hoa của em ấy."
+    "Khi bạn bước vào phòng bạn thấy [grace] đang chắm sóc cho mấy cây hoa của em ấy."
 
 # game/characters/grace/ev_4.rpy:7
 translate vietnamese grace_4_4cb18f90:

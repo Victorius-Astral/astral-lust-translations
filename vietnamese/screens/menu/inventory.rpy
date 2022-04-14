@@ -68,7 +68,7 @@ translate vietnamese strings:
 
     # game/screens/menu/inventory.rpy:368
     old "A snack loved by everyone, Lexi simply loves them."
-    new "A món ăn vặt được mọi người yêu thích, Lexi chỉ đơn giản là yêu chúng."
+    new "Là món ăn vặt được mọi người yêu thích, Lexi yêu chúng."
 
     # game/screens/menu/inventory.rpy:371
     old "Trade Goods"
@@ -208,7 +208,7 @@ translate vietnamese strings:
 
     # game/screens/menu/inventory.rpy:427
     old "Saintly"
-    new "Thánh thiện"
+    new "Thánh Nhân"
 
     # game/screens/menu/inventory.rpy:427
     old "Primordial"

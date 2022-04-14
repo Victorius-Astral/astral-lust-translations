@@ -10,19 +10,19 @@ translate vietnamese exp_house_e1102e0a:
 translate vietnamese exp_house_5472e93c:
 
     # "You enter, it looks safe."
-    "Bạn vào, có vẻ an toàn."
+    "Bạn tiến vào bên trong, có vẻ an toàn."
 
 # game/events/explore/house.rpy:30
 translate vietnamese exp_house_var0_8ad069c3:
 
     # "You loot anything useful in the house."
-    "Bạn loot hết bất cứ thứ gì hữu ích trong nhà."
+    "Bạn lấy hết bất cứ thứ gì hữu ích trong nhà."
 
 # game/events/explore/house.rpy:32
 translate vietnamese exp_house_var0_e8e08310:
 
     # th "Time to go before something happens."
-    th "Đến lúc di rồi trước khi có biến xảy ra."
+    th "Đến lúc đi trước khi có biến xảy ra rồi."
 
 # game/events/explore/house.rpy:37
 translate vietnamese exp_house_var1_816dfd34:
@@ -88,7 +88,7 @@ translate vietnamese strings:
 
     # game/events/explore/house.rpy:15
     old "Loot the house"
-    new "Loot sạch ngôi nhà"
+    new "Khoắng sạch ngôi nhà"
 
     # game/events/explore/house.rpy:44
     old "Attack him"

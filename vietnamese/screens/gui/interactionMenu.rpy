@@ -228,4 +228,4 @@ translate vietnamese strings:
 
     # game/screens/gui/interactionMenu.rpy:389
     old "*Toggle with '{b}I{/b}' key"
-    new "*BẬT TẮT BẰNG PHÍM '{b}i{/b}'"
+    new "*BẬT TẮT BẰNG PHÍM '{b} i {/b}'"

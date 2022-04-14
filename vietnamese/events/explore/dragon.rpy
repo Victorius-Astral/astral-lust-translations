@@ -82,7 +82,7 @@ translate vietnamese exp_dragon_menu1_a32dd0dc:
 translate vietnamese exp_dragon_menu1_fc37d187:
 
     # "Something descends from above."
-    "Thứ gì đó từ trên cao rơi xuống."
+    "Thứ gì đó từ trên cao đáp xuống."
 
 # game/events/explore/dragon.rpy:62
 translate vietnamese exp_dragon_menu1_0be58ff0:

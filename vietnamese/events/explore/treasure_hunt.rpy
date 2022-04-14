@@ -172,7 +172,7 @@ translate vietnamese exp_treasure_hunt_part5_608218f4:
 translate vietnamese exp_treasure_hunt_part5_bf8d56e7:
 
     # me "Fuckin' knew it! This is the place from this picture."
-    me "Địtmẹ tao biết ngay mà! Đây là nơi từ bức tranh này."
+    me "Đù má tao biết ngay mà! Đây là địa điểm ở trong bức tranh này."
 
 # game/events/explore/treasure_hunt.rpy:203
 translate vietnamese exp_treasure_hunt_part5_a20ba3e0:

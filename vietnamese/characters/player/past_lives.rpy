@@ -4,7 +4,7 @@
 translate vietnamese past_lives_28919c8a:
 
     # me "Ah? Where is this?"
-    me "Ah? Đây là đâu?"
+    me "Ah? Đây là đâu vậy?"
 
 # game/characters/player/past_lives.rpy:12
 translate vietnamese past_lives_6046ce66:
@@ -58,7 +58,7 @@ translate vietnamese past_lives_843ac613:
 translate vietnamese past_lives_2b4798b9:
 
     # past_me "What day is it?"
-    past_me "Hôm nay là ngày nào rồi?"
+    past_me "Hôm nay là ngày bao nhiêu rồi?"
 
 # game/characters/player/past_lives.rpy:30
 translate vietnamese past_lives_314086b3:
@@ -136,13 +136,13 @@ translate vietnamese past_lives_ac9853bb:
 translate vietnamese past_lives_02970b70:
 
     # past_me "No need for aggression and fear. I used to be like you.. With time you'll understand that it's pointless..."
-    past_me "Không cần gây hấn và sợ hãi đâu. Tao đã từng như mày... Với thời gian mày sẽ hiểu rằng điều đó thật vô nghĩa..."
+    past_me "Không cần gây hấn và sợ hãi đâu. Tao đã từng như mày... theo thời gian mày sẽ hiểu rằng điều đó thật vô nghĩa..."
 
 # game/characters/player/past_lives.rpy:43
 translate vietnamese past_lives_d2198435:
 
     # me "What the fuck could you know?"
-    me "Mày có thể biết cái quái gì?"
+    me "Mày thì biết cái quái gì chứ?"
 
 # game/characters/player/past_lives.rpy:44
 translate vietnamese past_lives_f7e74aa1_1:
@@ -154,7 +154,7 @@ translate vietnamese past_lives_f7e74aa1_1:
 translate vietnamese past_lives_178bafa7:
 
     # me "Yeah, she is. She almost got raped, but I saved her on time."
-    me "Yeah, vãn ổn. Em ấy suýt bị hiếp, nhưng tao đã cứu em ấy kịp lúc."
+    me "Yeah, vẫn ổn. Em ấy suýt bị hiếp, nhưng tao đã cứu em ấy kịp lúc."
 
 # game/characters/player/past_lives.rpy:46
 translate vietnamese past_lives_2cd59a84:
@@ -166,7 +166,7 @@ translate vietnamese past_lives_2cd59a84:
 translate vietnamese past_lives_595cb1b9:
 
     # past_me "Lexi, did she die?"
-    past_me "Lexi, em ây sđã chết chưa?"
+    past_me "Lexi, em ấy đã chết chưa?"
 
 # game/characters/player/past_lives.rpy:48
 translate vietnamese past_lives_69e32323:
@@ -178,7 +178,7 @@ translate vietnamese past_lives_69e32323:
 translate vietnamese past_lives_45388e1c:
 
     # past_me "Will you protect her?"
-    past_me "May sẽ bảo vệ em ấy chứ?"
+    past_me "Mày sẽ bảo vệ em ấy chứ?"
 
 # game/characters/player/past_lives.rpy:50
 translate vietnamese past_lives_f2bba25a:
@@ -214,7 +214,7 @@ translate vietnamese past_lives_7bfb2c88:
 translate vietnamese past_lives_be01ab0b:
 
     # past_me "You don't."
-    past_me "Mày không đâu."
+    past_me "Mày không muốn đâu."
 
 # game/characters/player/past_lives.rpy:56
 translate vietnamese past_lives_ffa90095:
@@ -316,7 +316,7 @@ translate vietnamese past_lives_714646fb:
 translate vietnamese past_lives_8c447e66:
 
     # past_me "Back then.. Was my choice a wrong one?"
-    past_me "Hồi đó ... Lựa chọn của tao có phải là sai lầm không?"
+    past_me "Hồi đó... Lựa chọn của tao có phải là sai lầm không?"
 
 # game/characters/player/past_lives.rpy:80
 translate vietnamese past_lives_28b7e2a5:
@@ -364,13 +364,13 @@ translate vietnamese past_lives_2a0d0ed0:
 translate vietnamese past_lives_870647d5:
 
     # me "Man, she's alive, isn't she? You even asked me to tell her something."
-    me "Man, cô ấy còn sống, phải không? Mày thậm chí còn yêu cầu tao nói với cô ấy điều gì đó."
+    me "Man, cô ấy còn sống mà, phải không? Mày thậm chí còn yêu cầu tao nói với cô ấy điều gì đó."
 
 # game/characters/player/past_lives.rpy:88
 translate vietnamese past_lives_9bff2dc2:
 
     # past_me "I can't take back time. I'm too weak.."
-    past_me "Tao không thể quay lại thời gian. Tôi quá yếu..."
+    past_me "Tao không thể quay lại thời gian. Tao quá yếu..."
 
 # game/characters/player/past_lives.rpy:89
 translate vietnamese past_lives_7c824224:
@@ -412,7 +412,7 @@ translate vietnamese past_lives_1838d2f6:
 translate vietnamese past_lives_a5663c6e:
 
     # past_me "She's cute, adorable, and pure."
-    past_me "EM ấy dễ thương, đáng yêu và trong sáng."
+    past_me "Em ấy dễ thương, đáng yêu và trong sáng."
 
 # game/characters/player/past_lives.rpy:104
 translate vietnamese past_lives_d1061e55:
@@ -442,7 +442,7 @@ translate vietnamese past_lives_e9d657ad:
 translate vietnamese past_lives_519df0b7:
 
     # past_me "She was the only human I admired."
-    past_me "Cô ấy là người duy nhất tôi ngưỡng mộ."
+    past_me "Cô ấy là người duy nhất tao ngưỡng mộ."
 
 # game/characters/player/past_lives.rpy:119
 translate vietnamese past_lives_51b6dcca:
@@ -472,7 +472,7 @@ translate vietnamese past_lives_8982eed4:
 translate vietnamese past_lives_ee278213:
 
     # past_me "Blue symbolizes water, and thus stability and serenity."
-    past_me "Màu xanh lam tượng trưng cho nước, và do đó, sự ổn định và thanh bình."
+    past_me "Màu xanh lam tượng trưng cho nước, cũng như, sự ổn định và thanh bình."
 
 # game/characters/player/past_lives.rpy:129
 translate vietnamese past_lives_b97215a4:
@@ -532,7 +532,7 @@ translate vietnamese past_lives_b5d1a89d:
 translate vietnamese past_lives_6f01abba:
 
     # past_me "I've never thought you could surprise me."
-    past_me "Tao chưa bao giờ nghĩ rằng mày có thể làm tôi ngạc nhiên đấy."
+    past_me "Tao chưa bao giờ nghĩ rằng mày có thể làm tao ngạc nhiên đấy."
 
 # game/characters/player/past_lives.rpy:164
 translate vietnamese past_lives_part2_b95c3d49:
@@ -568,7 +568,7 @@ translate vietnamese past_lives_part2_b2658a22:
 translate vietnamese past_lives_part2_43f0fbaa:
 
     # past_me "Destiny.. Is it really impossible to fight against it?"
-    past_me "Vận mệnh ... Có thực sự là không thể chống lại nó sao?"
+    past_me "Vận mệnh... thực sự là không thể chống lại nó sao?"
 
 # game/characters/player/past_lives.rpy:170
 translate vietnamese past_lives_part2_1f877649:
@@ -580,13 +580,13 @@ translate vietnamese past_lives_part2_1f877649:
 translate vietnamese past_lives_part2_19ea4e29:
 
     # past_me "I remember the joy when standing over Author's body, I remember the pain brought about by his characteristics entering my body."
-    past_me "Tao nhớ niềm vui khi đứng trên cơ thể của Tác giả, tao nhớ nỗi đau do nhân cách của anh ta xâm nhập vào cơ thể tao."
+    past_me "Tao nhớ niềm vui khi đứng trên cơ thể của Tác Giả, tao nhớ nỗi đau do nhân cách của anh ta xâm nhập vào cơ thể tao."
 
 # game/characters/player/past_lives.rpy:172
 translate vietnamese past_lives_part2_fdad3feb:
 
     # past_me "I remember all the deceptions disguised as the truth. I remember it all... I wish I didn't, though."
-    past_me "Tao nhớ tất cả những lừa dối được ngụy trang thành sự thật. Tao nhớ tất cả... mặc dù tao ước gì tôi đã không."
+    past_me "Tao nhớ tất cả những lừa dối được ngụy trang thành sự thật. Tao nhớ tất cả... mặc dù tao ước gì mình đã không nhận ra."
 
 # game/characters/player/past_lives.rpy:173
 translate vietnamese past_lives_part2_3820771a:
@@ -598,7 +598,7 @@ translate vietnamese past_lives_part2_3820771a:
 translate vietnamese past_lives_part2_44af0135:
 
     # past_me "[me]. Can you do something for me?"
-    past_me "[me]. Mày có thể làm cho tao một vài thứ không không?"
+    past_me "Này [me]. Mày có thể làm cho tao một vài thứ được không?"
 
 # game/characters/player/past_lives.rpy:175
 translate vietnamese past_lives_part2_f1259677:
@@ -610,7 +610,7 @@ translate vietnamese past_lives_part2_f1259677:
 translate vietnamese past_lives_part2_0e61992f:
 
     # past_me "Do. Not. Open. The Door."
-    past_me "Đừng. Có. Mở. Cánh cưat."
+    past_me "Đừng. Có. Mở. Cánh cửa."
 
 # game/characters/player/past_lives.rpy:180
 translate vietnamese past_lives_part2_2c29724c:
@@ -622,7 +622,7 @@ translate vietnamese strings:
 
     # game/characters/player/past_lives.rpy:3
     old "Man"
-    new "NGười đàn ông"
+    new "Người đàn ông"
 
     # game/characters/player/past_lives.rpy:98
     old "Grace"

@@ -982,7 +982,7 @@ translate vietnamese speak_alice_magical_outfit_rachel_dfc283ca:
 translate vietnamese speak_alice_magical_outfit_rachel_257186c2:
 
     # me "I'm sorry [alice]."
-    me "Anh xin lôi [alice]."
+    me "Anh xin lỗi [alice]."
 
 # game/characters/alice/speak.rpy:612
 translate vietnamese speak_alice_magical_outfit_rachel_178d1453:

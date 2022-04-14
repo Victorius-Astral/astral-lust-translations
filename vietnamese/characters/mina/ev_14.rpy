@@ -22,19 +22,19 @@ translate vietnamese mina_14_e5c009bf:
 translate vietnamese mina_14_ade813e6:
 
     # mina "Hey. So what weird topic did you come up with this time?"
-    mina "lần này anh đã đã nghĩ ra được chủ đề kỳ lạ nào vậy?"
+    mina "Thế, cái chủ đề kỳ lạ lần này anh nghĩ ra được là gì vậy?"
 
 # game/characters/mina/ev_14.rpy:10
 translate vietnamese mina_14_e2a31649:
 
     # me "Why do you think I want to ask you something weird?"
-    me "Tại sao em nghĩ là anh muốn hỏi em điều gì đó kỳ lạ?"
+    me "Tại sao em lại nghĩ là anh muốn hỏi em điều gì đó kỳ lạ?"
 
 # game/characters/mina/ev_14.rpy:13
 translate vietnamese mina_14_3603a802:
 
     # mina "Man, you don't know how to talk about ordinary topics at all."
-    mina "Anh chả bao giờ nói về một cái chủ đề nào mà bình thường cả."
+    mina "Anh chả bao giờ nói về một cái chủ đề nào mà nó bình thường cả."
 
 # game/characters/mina/ev_14.rpy:14
 translate vietnamese mina_14_3f793292:
@@ -58,13 +58,13 @@ translate vietnamese mina_14_314086b3:
 translate vietnamese mina_14_6713f30b:
 
     # mina "Nothing. So what do you want to talk about?"
-    mina "Không có gì hết. Thế anh muốn nói về cái gì?"
+    mina "Không có gì hết. Thế anh muốn nói về cái gì nào?"
 
 # game/characters/mina/ev_14.rpy:22
 translate vietnamese mina_14_114566fd:
 
     # th "Hmm.. What was it? I've forgotten.."
-    th "Hmm... là gì nhể? Mình quên mọe rồi..."
+    th "Hmm... là gì nhể? Mình quên mẹ rồi..."
 
 # game/characters/mina/ev_14.rpy:25
 translate vietnamese mina_14_adcfab35:
@@ -76,13 +76,13 @@ translate vietnamese mina_14_adcfab35:
 translate vietnamese mina_14_a90569da:
 
     # me "Let's just spend some time in silence."
-    me "Hãy cứ dành chút thời gian trong sự im lặng này đi."
+    me "Hãy cứ dành chút thời gian trong sự tĩnh lặng này đi."
 
 # game/characters/mina/ev_14.rpy:29
 translate vietnamese mina_14_be8ab1fd:
 
     # mina "You don't remember why you've come here or you've realized how stupid your question was?"
-    mina "Anh không nhớ tại sao mình lại đến đây hay là anh đã nhận ra câu hỏi của mình thiểu năng đến mức nào hả?"
+    mina "Anh không nhớ tại sao mình lại đến đây hay là anh đã nhận ra câu hỏi của mình thiểu năng đến mức nào rồi à?"
 
 # game/characters/mina/ev_14.rpy:30
 translate vietnamese mina_14_3820771a:
@@ -118,19 +118,19 @@ translate vietnamese mina_14_10d587a2:
 translate vietnamese mina_14_981d0c5d:
 
     # mina "Of course you do, we have gotten too close lately.."
-    mina "Of course you do, we have gotten too close lately..."
+    mina "Tất nhiên là vậy rồi, gần đây chúng ta khá thân với nhau mà..."
 
 # game/characters/mina/ev_14.rpy:42
 translate vietnamese mina_14_ec986f98:
 
     # mina "I treat you like a bestie, but you dream of nothing more than banging my brains out."
-    mina "Em đối xử với bạn như một người bạn thân, nhưng anh không nghĩ được gì khác ngoài chịch tung não của em ra."
+    mina "Em đối xử với anh như một người bạn thân, còn anh thì không nghĩ được gì khác ngoài chịch tung não của em ra."
 
 # game/characters/mina/ev_14.rpy:43
 translate vietnamese mina_14_cde05b01:
 
     # me "Bestie? You tell your besties to lick your pussy?"
-    me "Ban thân? Em bảo những người bạn thân của mình đi bú lờ của em á?"
+    me "Ban thân? Em bảo những người bạn thân của mình đi bú lờ em á?"
 
 # game/characters/mina/ev_14.rpy:46
 translate vietnamese mina_14_d63ff4cb:
@@ -256,7 +256,7 @@ translate vietnamese mina_14_c8d32213:
 translate vietnamese mina_14_74d12c1f:
 
     # mina "At least, life isn't boring anymore."
-    mina "Ít ra, cuộc sống không còn nhàm chán nữa."
+    mina "Nhưng ít ra, cuộc sống không còn nhàm chán nữa."
 
 # game/characters/mina/ev_14.rpy:86
 translate vietnamese mina_14_4540f36b:
@@ -268,7 +268,7 @@ translate vietnamese mina_14_4540f36b:
 translate vietnamese mina_14_277ce5f8:
 
     # "Your awkward laugh makes her laugh for real."
-    "Tiếng cười ngượng nghịu của bạn khiến cô ấy cười khá to."
+    "Tiếng cười ngượng nghịu của bạn khiến cô ấy cười rất to."
 
 # game/characters/mina/ev_14.rpy:90
 translate vietnamese mina_14_3efc1909:
@@ -286,7 +286,7 @@ translate vietnamese mina_14_3820771a_1:
 translate vietnamese mina_14_d4d2c1b3:
 
     # mina "Don't feel bad. We can die any day since The End came."
-    mina "Đừng mặc cảm nữa. Chúng ta có thể chết bất cứ lúc nào kể từ khi The End đến đây."
+    mina "Đừng mặc cảm nữa. Kể từ khi Tận Thế xảy ra chúng ta có thể chết bất cứ lúc nào."
 
 # game/characters/mina/ev_14.rpy:95
 translate vietnamese mina_14_67c78bdc:
@@ -298,7 +298,7 @@ translate vietnamese mina_14_67c78bdc:
 translate vietnamese mina_14_2ab28c98:
 
     # mina "Well, you're one unlucky bastard, I must say. It's actually me feeling bad for you."
-    mina "Em phải nói rằng bạn là một tên ngốc xui xẻo. Em cảm thấy tội cho anh luôn đấy."
+    mina "Em phải nói rằng anh là một tên ngốc xui xẻo. Em cảm thấy tội cho anh luôn đấy."
 
 # game/characters/mina/ev_14.rpy:99
 translate vietnamese mina_14_03c7d2c4:

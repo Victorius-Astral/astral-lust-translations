@@ -22,7 +22,7 @@ translate vietnamese wc_alice_3820771a:
 translate vietnamese wc_alice_a9323aa1:
 
     # alice "Care to give an explanation? Or are you not even trying to justify peeping on me?"
-    alice "Anh có để tâm đến việc đưa ra một lời giải thích thỏa đáng không? Hay anh thậm chí không cố gắng để biện minh cho việc nhìn trộm anh?"
+    alice "Anh có để tâm đến việc đưa ra một lời giải thích thỏa đáng không? Hay anh thậm chí còn không thèm cố để biện minh cho việc nhìn trộm em?"
 
 # game/characters/alice/wc.rpy:29
 translate vietnamese wc_alice_023d97dc:
@@ -34,7 +34,7 @@ translate vietnamese wc_alice_023d97dc:
 translate vietnamese wc_alice_a6167a27:
 
     # alice "What?"
-    alice "Cái gì?"
+    alice "Cái gì?"
 
 # game/characters/alice/wc.rpy:31
 translate vietnamese wc_alice_ff74becb:
@@ -46,13 +46,13 @@ translate vietnamese wc_alice_ff74becb:
 translate vietnamese wc_alice_eb463745:
 
     # alice "But I'm using a toilet.."
-    alice "Nhưng em đang sử dụng toilet mà..."
+    alice "Nhưng em đang đi vệ sinh mà..."
 
 # game/characters/alice/wc.rpy:35
 translate vietnamese wc_alice_6120c272:
 
     # me "We are so close, there is no need to be ashamed."
-    me "Chúng ta rất thân thiết, không cần phải xấu hổ."
+    me "Chúng ta rất thân thiết, không cần phải xấu hổ đâu."
 
 # game/characters/alice/wc.rpy:38
 translate vietnamese wc_alice_879e62b7:
@@ -70,7 +70,7 @@ translate vietnamese wc_alice_efb5e00f:
 translate vietnamese wc_alice_7f36f1fd:
 
     # me "I do. Take off your hand."
-    me "Anh có. Bỏ tay em ra đi."
+    me "Cần chứ. Giờ thì bỏ tay ra đi."
 
 # game/characters/alice/wc.rpy:45
 translate vietnamese wc_alice_ff3ea7a3:
@@ -106,7 +106,7 @@ translate vietnamese wc_alice_30e6ea26:
 translate vietnamese wc_alice_d8805dfa:
 
     # me "Your my lovely, beautiful, darling. You're mine, and you don't need to be ashamed or afraid with me by your side."
-    me "Em yêu của anh, xinh đẹp, yêu dấu. Em là của anh, và em không cần phải xấu hổ hay sợ hãi khi có anh ở bên cạnh đâu."
+    me "Em yêu của anh, xinh đẹp, đáng yêu. Em là của anh, và em không cần phải xấu hổ hay sợ hãi khi có anh ở bên cạnh đâu."
 
 # game/characters/alice/wc.rpy:59
 translate vietnamese wc_alice_14de9ef1:
@@ -172,7 +172,7 @@ translate vietnamese wc_alice_73d54940:
 translate vietnamese wc_alice_5b7d742c:
 
     # me "Not as much as looking at your adorable face."
-    me "Không bằng nhìn khuôn mặt đáng yêu của em."
+    me "Không nhiều bằng việc nhìn khuôn mặt đáng yêu của em được."
 
 # game/characters/alice/wc.rpy:79
 translate vietnamese wc_alice_ce111e9e:
@@ -190,7 +190,7 @@ translate vietnamese wc_alice_72cf8075:
 translate vietnamese wc_alice_59c5a7e2:
 
     # me "Said [alice]."
-    me "Nói [alice]."
+    me "Nói với [alice]."
 
 # game/characters/alice/wc.rpy:87
 translate vietnamese wc_alice_5c1bf8d4:
@@ -220,13 +220,13 @@ translate vietnamese wc_alice_437bdac6:
 translate vietnamese wc_alice_6534439d:
 
     # alice "Go now, alright?"
-    alice "Đi ngay lập tức, được chứ?"
+    alice "Ra ngoài ngay đi, được chứ?"
 
 # game/characters/alice/wc.rpy:98
 translate vietnamese wc_alice_5385b15a:
 
     # me "Yeah sure, I'm sorry for walking on you."
-    me "Ừ chắc chắn rồi, xin lỗi vì đã làm phiền."
+    me "được rồi, được rồi, xin lỗi vì đã làm phiền."
 
 # game/characters/alice/wc.rpy:102
 translate vietnamese wc_alice_704fc0ff:
@@ -304,7 +304,7 @@ translate vietnamese wc_alice_anal_b2b71f00:
 translate vietnamese wc_alice_anal_9bc2bc8d:
 
     # alice "That was literally the lamest thing I've heard my whole life."
-    alice "Đó thực sự là điều nhàm chán nhất mà em đã nghe trong suốt cuộc đời mình."
+    alice "Đó thực sự là điều nhàm chán nhất mà em được nghe trong suốt cuộc đời mình đấy."
 
 # game/characters/alice/wc.rpy:147
 translate vietnamese wc_alice_anal_19e9ba92:
@@ -370,7 +370,7 @@ translate vietnamese wc_alice_anal_8bd24074:
 translate vietnamese wc_alice_anal_d05d9434:
 
     # alice "You tell me this often lately."
-    alice "Gần đây Anh nói với em điều này thường xuyên."
+    alice "Dạo này anh nói với em câu này khá thường xuyên đấy."
 
 # game/characters/alice/wc.rpy:196
 translate vietnamese wc_alice_anal_abc5fffe:
@@ -406,13 +406,13 @@ translate vietnamese wc_alice_anal_c2c40d59:
 translate vietnamese wc_alice_anal_5ee012cf:
 
     # "With each moan, [alice] is becoming louder and louder."
-    "Với mỗi tiếng rên, [alice] ngày càng rên nên to hơn."
+    "Sau mỗi tiếng rên, [alice] ngày càng rên nên to hơn."
 
 # game/characters/alice/wc.rpy:210
 translate vietnamese wc_alice_anal_8636fa96:
 
     # alice "I'm coming!~"
-    alice "Em sắp ra!~"
+    alice "Em sắp ra rồi!~"
 
 # game/characters/alice/wc.rpy:213
 translate vietnamese wc_alice_anal_f1f6e6e3:
@@ -524,7 +524,7 @@ translate vietnamese strings:
 
     # game/characters/alice/wc.rpy:25
     old "I'm sorry"
-    new "Anh xin lôi"
+    new "Anh xin lỗi"
 
     # game/characters/alice/wc.rpy:114
     old "Don't put your pants on"

@@ -16,19 +16,19 @@ translate vietnamese mina_1_e0a08ad0:
 translate vietnamese mina_1_793b41d6:
 
     # me "Hey [mina]. Everything alright?"
-    me "Chào [mina]. Mọi thứ ổn chứ?"
+    me "Hế lu [mina]. Mọi thứ vẫn còn ổn chứ?"
 
 # game/characters/mina/ev_1.rpy:11
 translate vietnamese mina_1_9397fe1d:
 
     # mina "Yes! I came to talk with you!"
-    mina "Có! Em đến để nói chuyện với anh!"
+    mina "Vẫn ổn lắm! Em chỉ đến để nói chuyện với anh!"
 
 # game/characters/mina/ev_1.rpy:12
 translate vietnamese mina_1_85668d81:
 
     # th "Why is she so excited?"
-    th "Tại sao em ấy lại phấn khích đến vậy?"
+    th "Tại sao em ấy lại phấn khích vậy?"
 
 # game/characters/mina/ev_1.rpy:13
 translate vietnamese mina_1_bccf0ade:
@@ -136,7 +136,7 @@ translate vietnamese mina_1_0e7fdcb1:
 translate vietnamese mina_1_eb470c14:
 
     # "Mina rushes out of your room closing the door with a loud bang."
-    "Mina lao ra khỏi phòng của bạn đóng cửa lại với một tiếng đập lớn."
+    "Mina lao ra khỏi phòng của bạn và đóng rầm cửa lại với một tiếng đập lớn."
 
 # game/characters/mina/ev_1.rpy:54
 translate vietnamese mina_1_1_c5b3e917:

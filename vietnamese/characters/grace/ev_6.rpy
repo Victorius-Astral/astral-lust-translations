@@ -142,7 +142,7 @@ translate vietnamese grace_6_1_7402cda2:
 translate vietnamese grace_6_1_e53935de:
 
     # me "Well, I remember nothing about The End and the past year."
-    me "Well, anh không nhớ gì về The End và một năm trước."
+    me "Well, anh không nhớ gì về Tận Thế và một năm trước."
 
 # game/characters/grace/ev_6.rpy:54
 translate vietnamese grace_6_1_6426cd5b:
