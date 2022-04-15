@@ -5,6 +5,9 @@ define available_languages = [
 
 ]
 
+define inprogress_languages = [
+]
+
 define gui.flag_size = (calc_gui(256), calc_gui(168))
 transform flagIcon:
     xysize gui.flag_size
@@ -31,7 +34,7 @@ screen language_selector():
                 add "united-states" at flagIcon
                 text "English {#no-translate}"
 
-        for lang in available_languages:
+        for lang in available_languages + inprogress_languages:
 
             button:
                 action Language(lang[2]), Confirm(_("Do you want to restart the game? If you don't do it, some things will not change language."), Function(renpy.quit, relaunch = True, save = True))
