@@ -694,7 +694,7 @@ translate spanish grace_play_house_question2_85cd6061:
 translate spanish grace_play_house_question2_cf459f34:
 
     # grace "The first row takes a whole 1cm of height. The remaining seven rows take around 14% less. If I remember correctly, it was around 0.866cm."
-    grace "La primera fila ocupa 1 cm de altura. Las siete filas restantes ocupan alrededor de un 14% menos. Si no recuerdo mal, eran alrededor de 0,866 cm."
+    grace "La primera fila ocupa 1 cm de altura. Las siete filas restantes ocupan alrededor de un 14\% menos. Si no recuerdo mal, eran alrededor de 0,866 cm."
 
 # game/characters/grace/play_house.rpy:254
 translate spanish grace_play_house_question2_61a42408:

@@ -869,7 +869,7 @@ translate vietnamese lexi_8_part2_93bbfa47:
 
     # "Their goodbyes take your breath away. Your heart aches, and your vision is blurred by tears."
     "Những lời tạm biệt của họ sẽ khiến bạn không khỏi ngạc nhiên. Trái tim của bạn đau đớn, và tầm nhìn của bạn bị mờ đi vì nước mắt."
-+
+
 # game/characters/lexi/ev_8.rpy:306
 translate vietnamese lexi_8_part2_c02942a7:
 
