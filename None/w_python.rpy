@@ -26,3 +26,6 @@ translate spanish python:
 
 translate chinese python:
     restoreFonts()
+
+translate polish python:
+    restoreFonts()
