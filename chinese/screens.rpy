@@ -1,98 +1,98 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
+﻿# TODO: Some less important keywords are still pending for translation
 
 translate chinese strings:
 
     # game/screens.rpy:189
     old "CONFIRM"
-    new "CONFIRM"
+    new "确认"
 
     # game/screens.rpy:232
     old "Back"
-    new "Back"
+    new "回退"
 
     # game/screens.rpy:233
     old "History"
-    new "History"
+    new "历史"
 
     # game/screens.rpy:234
     old "Skip"
-    new "Skip"
+    new "跳过"
 
     # game/screens.rpy:235
     old "Auto"
-    new "Auto"
+    new "自动"
 
     # game/screens.rpy:236
     old "Save"
-    new "Save"
+    new "保存"
 
     # game/screens.rpy:237
     old "Q.Save"
-    new "Q.Save"
+    new "快速保存"
 
     # game/screens.rpy:238
     old "Q.Load"
-    new "Q.Load"
+    new "快速载入"
 
     # game/screens.rpy:239
     old "Settings"
-    new "Settings"
+    new "设置"
 
     # game/screens.rpy:282
     old "Start"
-    new "Start"
+    new "开始"
 
     # game/screens.rpy:290
     old "Load"
-    new "Load"
+    new "载入"
 
     # game/screens.rpy:296
     old "End Replay"
-    new "End Replay"
+    new "停止重播"
 
     # game/screens.rpy:300
     old "Main Menu"
-    new "Main Menu"
+    new "主菜单"
 
     # game/screens.rpy:302
     old "Credits"
-    new "Credits"
+    new "成就"
 
     # game/screens.rpy:311
     old "Help"
-    new "Help"
+    new "帮助"
 
     # game/screens.rpy:317
     old "Quit"
-    new "Quit"
+    new "退出"
 
     # game/screens.rpy:324
     old "Check for Updates"
-    new "Check for Updates"
+    new "检查更新"
 
     # game/screens.rpy:394
     old "Resume"
-    new "Resume"
+    new "继续"
 
     # game/screens.rpy:402
     old "About"
-    new "About"
+    new "关于"
 
     # game/screens.rpy:531
     old "Return"
-    new "Return"
+    new "返回"
 
     # game/screens.rpy:620
     old "Page {}"
-    new "Page {}"
+    new "第 {} 页"
 
     # game/screens.rpy:620
     old "Automatic saves"
-    new "Automatic saves"
+    new "自动保存"
 
     # game/screens.rpy:620
     old "Quick saves"
-    new "Quick saves"
+    new "快速保存记录"
 
     # game/screens.rpy:662
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -108,11 +108,11 @@ translate chinese strings:
 
     # game/screens.rpy:682
     old "{#auto_page}A"
-    new "{#auto_page}A"
+    new "{#auto_page}自动保存"
 
     # game/screens.rpy:685
     old "{#quick_page}Q"
-    new "{#quick_page}Q"
+    new "{#quick_page}快速保存"
 
     # game/screens.rpy:691
     old ">"
@@ -120,47 +120,47 @@ translate chinese strings:
 
     # game/screens.rpy:745
     old "Game"
-    new "Game"
+    new "游戏"
 
     # game/screens.rpy:746
     old "Video"
-    new "Video"
+    new "视频"
 
     # game/screens.rpy:747
     old "Sound"
-    new "Sound"
+    new "音效"
 
     # game/screens.rpy:748
     old "Music"
-    new "Music"
+    new "音乐"
 
     # game/screens.rpy:752
     old "Mods"
-    new "Mods"
+    new "模组"
 
     # game/screens.rpy:879
     old "The dialogue history is empty."
-    new "The dialogue history is empty."
+    new "记录为空。"
 
     # game/screens.rpy:949
     old "Keyboard"
-    new "Keyboard"
+    new "键盘"
 
     # game/screens.rpy:950
     old "Mouse"
-    new "Mouse"
+    new "鼠标"
 
     # game/screens.rpy:953
     old "Gamepad"
-    new "Gamepad"
+    new "游戏手柄"
 
     # game/screens.rpy:969
     old "Enter {#key}"
-    new "Enter {#key}"
+    new "输入 {#key}"
 
     # game/screens.rpy:970
     old "Advances dialogue and activates the interface."
-    new "Advances dialogue and activates the interface."
+    new "推进对话并解锁交互"
 
     # game/screens.rpy:973
     old "Space"
@@ -285,4 +285,3 @@ translate chinese strings:
     # game/screens.rpy:1294
     old "Menu"
     new "Menu"
-
