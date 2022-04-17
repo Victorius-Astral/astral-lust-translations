@@ -307,3 +307,15 @@ translate vietnamese strings:
     # game/screens/utility/what_new.rpy:234
     old "There are countless other changes - ALL animations can be toggled ON/OFF in the settings, dozens of issues were fixed, no animation support was added to all animations that didn't have it, some animations were deleted like weird looking cumming animations. End game credits were added. Hollow Market offers a lot more stock, and restock weekly. Other traders were tweaked too."
     new "Có vô số thay đổi khác - TẤT CẢ hoạt ảnh có thể được BẬT/TẮT trong cài đặt, hàng tá vấn đề đã được khắc phục, không có hỗ trợ hoạt ảnh nào được thêm vào các hoạt ảnh không có nó, một số hoạt ảnh đã bị xóa như hoạt ảnh xuất tinh trông khá kỳ lạ. dòng credit khi kết thúc trò chơi đã được thêm vào. Hollow Market cung cấp thêm rất nhiều hàng và bổ sung hàng tuần. Các thương nhân khác cũng được điều chỉnh."
+# TODO: Translation updated at 2022-04-17 12:12
+
+translate vietnamese strings:
+
+    # game/screens/utility/what_new.rpy:60
+    old "{u}What's New{/u}"
+    new "{u}What's New{/u}"
+
+    # game/screens/utility/what_new.rpy:68
+    old "Click outside to close this window, it can be entered again from the pc."
+    new "Click outside to close this window, it can be entered again from the pc."
+

@@ -236,3 +236,11 @@ translate vietnamese strings:
     # game/variables/lists/sexpos.rpy:3
     old "Group - Threesome - Two Females"
     new "Threesome - Hai nữ"
+# TODO: Translation updated at 2022-04-17 12:12
+
+translate vietnamese strings:
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Footjob - Sleeping"
+    new "Footjob - Sleeping"
+

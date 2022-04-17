@@ -467,3 +467,11 @@ translate vietnamese strings:
     # game/characters/grace/bath.rpy:27
     old "Hate"
     new "Ghét"
+# TODO: Translation updated at 2022-04-17 12:12
+
+translate vietnamese strings:
+
+    # game/characters/grace/bath.rpy:15
+    old "What does she think of you?"
+    new "What does she think of you?"
+
