@@ -1,10 +1,8 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/screens/settings/music.rpy:13
     old "None, Atmospheric"
-    new "None, Atmospheric"
+    new "无，仅氛围音"
 
     # game/screens/settings/music.rpy:14
     old "Little Planet"
@@ -32,7 +30,7 @@ translate chinese strings:
 
     # game/screens/settings/music.rpy:35
     old "Exploration"
-    new "Exploration"
+    new "探险"
 
     # game/screens/settings/music.rpy:36
     old "Offelia's Dream"

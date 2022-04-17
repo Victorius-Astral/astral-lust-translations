@@ -12,7 +12,7 @@ translate chinese strings:
 
     # game/screens.rpy:233
     old "History"
-    new "历史"
+    new "历史记录"
 
     # game/screens.rpy:234
     old "Skip"
@@ -164,7 +164,7 @@ translate chinese strings:
 
     # game/screens.rpy:973
     old "Space"
-    new "Space"
+    new "空间"
 
     # game/screens.rpy:974
     old "Advances dialogue without selecting choices."
