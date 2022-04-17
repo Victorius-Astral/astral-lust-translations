@@ -40,3 +40,15 @@ translate vietnamese strings:
     # game/variables/classes/NPC.rpy:220
     old "{}'s affection - {}"
     new "Sự yêu mến của {} - {}"
+# TODO: Translation updated at 2022-04-17 12:12
+
+translate vietnamese strings:
+
+    # game/variables/classes/NPC.rpy:338
+    old "{} is angry!"
+    new "{} is angry!"
+
+    # game/variables/classes/NPC.rpy:344
+    old "{} calmed down and is no longer angry at you!"
+    new "{} calmed down and is no longer angry at you!"
+

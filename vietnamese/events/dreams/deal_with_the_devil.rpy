@@ -213,3 +213,19 @@ translate vietnamese strings:
     # game/events/dreams/deal_with_the_devil.rpy:95
     old "[[Sanity will become 1%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
     new "[[Sự tỉnh táo sẽ còn 1%, bạn sẽ mất tất cả các thẻ của mình. Ảnh hưởng của Eldritch sẽ yếu đi 4 điểm. Ảnh hưởng: [player.author_influence]/10]"
+# TODO: Translation updated at 2022-04-17 12:12
+
+translate vietnamese strings:
+
+    # game/events/dreams/deal_with_the_devil.rpy:32
+    old "Remove my corruption [[-50%% Sanity, -5%% Corruption]"
+    new "Remove my corruption [[-50%% Sanity, -5%% Corruption]"
+
+    # game/events/dreams/deal_with_the_devil.rpy:32
+    old "Restore my clarity [[+100%% Sanity, +5%% Corruption]"
+    new "Restore my clarity [[+100%% Sanity, +5%% Corruption]"
+
+    # game/events/dreams/deal_with_the_devil.rpy:91
+    old "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
+    new "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
+
