@@ -1,20 +1,18 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/screens/gui/day_counter.rpy:9
     old "Morning,\nDay [day]"
-    new "Morning,\nDay [day]"
+    new "上午，\n第 [day] 天"
 
     # game/screens/gui/day_counter.rpy:11
     old "Afternoon,\nDay [day]"
-    new "Afternoon,\nDay [day]"
+    new "下午，\n第 [day] 天"
 
     # game/screens/gui/day_counter.rpy:13
     old "Evening,\nDay [day]"
-    new "Evening,\nDay [day]"
+    new "傍晚，\n第 [day] 天"
 
     # game/screens/gui/day_counter.rpy:15
     old "Night,\nDay [day]"
-    new "Night,\nDay [day]"
+    new "晚上，\n第 [day] 天"
 

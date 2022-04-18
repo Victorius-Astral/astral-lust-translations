@@ -4,11 +4,11 @@ translate chinese strings:
 
     # game/screens/gui/interactionMenu.rpy:76
     old "2F Corridor"
-    new "2F Corridor"
+    new "2 楼走廊"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "TV"
-    new "TV"
+    new "电视"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "[alice]"
@@ -16,27 +16,27 @@ translate chinese strings:
 
     # game/screens/gui/interactionMenu.rpy:76
     old "1F Corridor"
-    new "1F Corridor"
+    new "1 楼走廊"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Prisoners"
-    new "Prisoners"
+    new "囚犯"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Lobby"
-    new "Lobby"
+    new "大厅"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Kitchen"
-    new "Kitchen"
+    new "厨房"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Bath"
-    new "Bath"
+    new "浴室"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Toilet"
-    new "Toilet"
+    new "厕所"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "[grace]"
@@ -48,67 +48,67 @@ translate chinese strings:
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Your Room"
-    new "Your Room"
+    new "你的房间"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "[lexi]'s & [mina]'s Room"
-    new "[lexi]'s & [mina]'s Room"
+    new "[lexi] 和 [mina] 的房间"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "[alice] Room"
-    new "[alice] Room"
+    new "[alice] 的房间"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "[grace] Room"
-    new "[grace] Room"
+    new "[grace] 的房间"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "3rd Floor"
-    new "3rd Floor"
+    new "3 楼"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Cupboard"
-    new "Cupboard"
+    new "橱柜"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Other side"
-    new "Other side"
+    new "另一边"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "2nd Floor"
-    new "2nd Floor"
+    new "2 楼"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "[savenia]'s Room"
-    new "[savenia]'s Room"
+    new "[savenia] 的房间"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "F2 Corridor"
-    new "F2 Corridor"
+    new "2 楼走廊"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Barbell Bench"
-    new "Barbell Bench"
+    new "杠铃架"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Stationary Bike"
-    new "Stationary Bike"
+    new "健身自行车"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Obstacle"
-    new "Obstacle"
+    new "障碍"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "F1 Corridor"
-    new "F1 Corridor"
+    new "1 楼走廊"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Fridge"
-    new "Fridge"
+    new "冰箱"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "[lexi] & [grace]"
-    new "[lexi] & [grace]"
+    new "[lexi] 和 [grace]"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "[cat]"
@@ -116,27 +116,27 @@ translate chinese strings:
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Documents"
-    new "Documents"
+    new "文档"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Laptop"
-    new "Laptop"
+    new "笔记本电脑"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Hotel"
-    new "Hotel"
+    new "旅馆"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Books (Left)"
-    new "Books (Left)"
+    new "左边的书"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Books (Right)"
-    new "Books (Right)"
+    new "右边的书"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Door"
-    new "Door"
+    new "门"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "[kiara]"
@@ -148,15 +148,15 @@ translate chinese strings:
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Outside Door"
-    new "Outside Door"
+    new "门外"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Expansions"
-    new "Expansions"
+    new "扩展空间"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Counter"
-    new "Counter"
+    new "柜台"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Bike"
