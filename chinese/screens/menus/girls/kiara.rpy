@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/screens/menus/girls/kiara.rpy:18
     old "{gold}[kiara] (Kiara){/gold}"
@@ -12,5 +10,5 @@ translate chinese strings:
 
     # game/screens/menus/girls/kiara.rpy:34
     old "• Threesome: "
-    new "• Threesome: "
+    new "• 双飞："
 

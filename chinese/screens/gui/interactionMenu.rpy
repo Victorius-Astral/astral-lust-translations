@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/screens/gui/interactionMenu.rpy:76
     old "2F Corridor"
@@ -160,7 +158,7 @@ translate chinese strings:
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Bike"
-    new "Bike"
+    new "摩托车"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "[rachel]"
@@ -168,7 +166,7 @@ translate chinese strings:
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Motel"
-    new "Motel"
+    new "汽车旅馆"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "[lola]"
@@ -176,47 +174,47 @@ translate chinese strings:
 
     # game/screens/gui/interactionMenu.rpy:76
     old "PC"
-    new "PC"
+    new "电脑"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Mirror"
-    new "Mirror"
+    new "镜子"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Rubik's Cube"
-    new "Rubik's Cube"
+    new "魔方"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Books"
-    new "Books"
+    new "书"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Altar"
-    new "Altar"
+    new "祭坛"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Chest"
-    new "Chest"
+    new "箱子"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Gray Cupboard"
-    new "Gray Cupboard"
+    new "灰色橱柜"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "White Cupboard"
-    new "White Cupboard"
+    new "白色橱柜"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Wardrobe"
-    new "Wardrobe"
+    new "衣柜"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Test Notifications"
-    new "Test Notifications"
+    new "测试通知"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "3F Corridor"
-    new "3F Corridor"
+    new "3 楼走廊"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "[savenia]"
@@ -224,19 +222,19 @@ translate chinese strings:
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Gun Workshop"
-    new "Gun Workshop"
+    new "枪械车间"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Brothel"
-    new "Brothel"
+    new "妓院"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Main Plaza"
-    new "Main Plaza"
+    new "中心广场"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "[lola] Room"
-    new "[lola] Room"
+    new "[lola] 的房间"
 
     # game/screens/gui/interactionMenu.rpy:76
     old "[lil_fox]"
@@ -244,13 +242,13 @@ translate chinese strings:
 
     # game/screens/gui/interactionMenu.rpy:76
     old "[rhainda] & [lil_fox]"
-    new "[rhainda] & [lil_fox]"
+    new "[rhainda] 和 [lil_fox]"
 
     # game/screens/gui/interactionMenu.rpy:370
     old "Interact:"
-    new "Interact:"
+    new "交互："
 
     # game/screens/gui/interactionMenu.rpy:388
     old "*Toggle with '{b}I{/b}' key"
-    new "*Toggle with '{b}I{/b}' key"
+    new "*使用 {b}I{/b} 键开关"
 

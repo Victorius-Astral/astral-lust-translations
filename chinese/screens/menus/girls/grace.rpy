@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/screens/menus/girls/grace.rpy:20
     old "{gold}[grace] (Grace){/gold}"
@@ -12,13 +10,13 @@ translate chinese strings:
 
     # game/screens/menus/girls/grace.rpy:25
     old "Nicknames: Gracie"
-    new "Nicknames: Gracie"
+    new "昵称：Gracie"
 
     # game/screens/menus/girls/grace.rpy:41
     old "• Handjob: "
-    new "• Handjob: "
+    new "• 手交："
 
     # game/screens/menus/girls/grace.rpy:43
     old "• Thighjob: "
-    new "• Thighjob: "
+    new "• 腿交："
 
