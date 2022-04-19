@@ -1,12 +1,10 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/screens/pc/wallpapers.rpy:39
     old "Insert code"
-    new "Insert code"
+    new "输入代码"
 
     # game/screens/pc/wallpapers.rpy:57
     old "Blocked in SFW Mode"
-    new "Blocked in SFW Mode"
+    new "在免社死模式下无法使用"
 

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/screens/menus/girls/mina.rpy:18
     old "{gold}[mina] (Mina){/gold}"
@@ -12,13 +10,13 @@ translate chinese strings:
 
     # game/screens/menus/girls/mina.rpy:30
     old "• Route: None"
-    new "• Route: None"
+    new "• 感情：无"
 
     # game/screens/menus/girls/mina.rpy:33
     old "• Route: {love}Love{/love}"
-    new "• Route: {love}Love{/love}"
+    new "• 感情：{love}爱情{/love}"
 
     # game/screens/menus/girls/mina.rpy:36
     old "• Route: {trust}Friendship{/trust}"
-    new "• Route: {trust}Friendship{/trust}"
+    new "• 感情：{trust}友情{/trust}"
 

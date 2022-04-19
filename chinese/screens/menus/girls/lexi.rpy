@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/screens/menus/girls/lexi.rpy:18
     old "{gold}[lexi] (Lexi){/gold}"
@@ -12,5 +10,5 @@ translate chinese strings:
 
     # game/screens/menus/girls/lexi.rpy:23
     old "Nicknames: Lex"
-    new "Nicknames: Lex"
+    new "昵称：Lex"
 

@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/screens/menus/girls/cat.rpy:18
     old "{gold}[cat] (Cat){/gold}"
@@ -12,5 +10,5 @@ translate chinese strings:
 
     # game/screens/menus/girls/cat.rpy:30
     old "• Pats: "
-    new "• Pats: "
+    new "• 摸头："
 

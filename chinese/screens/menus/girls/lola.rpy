@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/screens/menus/girls/lola.rpy:18
     old "{gold}[lola] (Lola){/gold}"
