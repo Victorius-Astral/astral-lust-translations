@@ -1,12 +1,10 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/variables/classes/Codex.rpy:20
     old "Entry updated - {}."
-    new "Entry updated - {}."
+    new "进度已更新 - {}."
 
     # game/variables/classes/Codex.rpy:29
     old "Entry added - {}."
-    new "Entry added - {}."
+    new "已添加进度 - {}."
 
