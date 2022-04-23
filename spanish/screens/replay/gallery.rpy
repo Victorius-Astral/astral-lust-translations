@@ -17,3 +17,11 @@ translate spanish strings:
     # game/screens/replay/gallery.rpy:38
     old "Fix Gallery"
     new "Arregla Galería"
+# TODO: Translation updated at 2022-04-23 12:54
+
+translate spanish strings:
+
+    # game/screens/replay/gallery.rpy:44
+    old "Recover Gallery"
+    new "Recover Gallery"
+

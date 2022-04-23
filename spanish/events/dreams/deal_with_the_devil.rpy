@@ -228,3 +228,19 @@ translate spanish strings:
     # game/events/dreams/deal_with_the_devil.rpy:95
     old "[[Sanity will become 1%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
     new "[[Cordura será 1%, y perderás todas tus cartas. La influencia Eldritch se debilitará en 4 puntos. Influencia: [player.author_influence]/10]"
+# TODO: Translation updated at 2022-04-23 12:58
+
+translate spanish strings:
+
+    # game/events/dreams/deal_with_the_devil.rpy:32
+    old "Remove my corruption [[-50%% Sanity, -5%% Corruption]"
+    new "Remove my corruption [[-50%% Sanity, -5%% Corruption]"
+
+    # game/events/dreams/deal_with_the_devil.rpy:32
+    old "Restore my clarity [[+100%% Sanity, +5%% Corruption]"
+    new "Restore my clarity [[+100%% Sanity, +5%% Corruption]"
+
+    # game/events/dreams/deal_with_the_devil.rpy:91
+    old "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
+    new "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
+
