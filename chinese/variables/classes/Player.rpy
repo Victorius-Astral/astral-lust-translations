@@ -54,13 +54,13 @@
 
     # game/variables/classes/Player.rpy:346
     old "Corruption + {}% \nCurrent corruption: {}%"
-    new "腐化度 + {}% \n当前腐化度： {}%"
+    new "邪恶度 + {}% \n当前邪恶度： {}%"
 
     # game/variables/classes/Player.rpy:350
     old "Corruption - {}% \nCurrent corruption: {}%"
-    new "腐化度 - {}% \n当前腐化度： {}%"
+    new "邪恶度 - {}% \n当前邪恶度： {}%"
 
     # game/variables/classes/Player.rpy:397
     old "Killed a human:\nCorruption + {}% \nSanity - {}% \n\nCurrent corruption: {}% \nCurrent sanity: {}%"
-    new "杀了一个人：\n腐化度 + {}% \n理智度 - {}% \n\n当前腐化度： {}% \n当前理智度： {}%"
+    new "杀了一个人：\n邪恶度 + {}% \n理智度 - {}% \n\n当前邪恶度： {}% \n当前理智度： {}%"
 

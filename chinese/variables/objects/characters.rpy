@@ -1,10 +1,8 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/variables/objects/characters.rpy:6
     old "Thoughts"
-    new "Thoughts"
+    new "内心想法"
 
     # game/variables/objects/characters.rpy:33
     old "Lola"
@@ -32,11 +30,11 @@ translate chinese strings:
 
     # game/variables/objects/characters.rpy:52
     old "Devil"
-    new "Devil"
+    new "魔王"
 
     # game/variables/objects/characters.rpy:53
     old "Secretary"
-    new "Secretary"
+    new "秘书"
 
     # game/variables/objects/characters.rpy:54
     old "Dekesha"
@@ -44,27 +42,27 @@ translate chinese strings:
 
     # game/variables/objects/characters.rpy:57
     old "Madman"
-    new "Madman"
+    new "疯子"
 
     # game/variables/objects/characters.rpy:61
     old "Bandit Leader"
-    new "Bandit Leader"
+    new "强盗首领"
 
     # game/variables/objects/characters.rpy:67
     old "Woman"
-    new "Woman"
+    new "女人"
 
     # game/variables/objects/characters.rpy:69
     old "Something"
-    new "Something"
+    new "某物"
 
     # game/variables/objects/characters.rpy:70
     old "Radio"
-    new "Radio"
+    new "广播"
 
     # game/variables/objects/characters.rpy:73
     old "Governor"
-    new "Governor"
+    new "总督"
 
     # game/variables/objects/characters.rpy:77
     old "Chimera"
