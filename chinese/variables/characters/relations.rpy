@@ -1,16 +1,14 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/variables/characters/relations.rpy:1
     old "sister"
-    new "sister"
+    new "姐妹"
 
     # game/variables/characters/relations.rpy:2
     old "sis"
-    new "sis"
+    new "姐妹"
 
     # game/variables/characters/relations.rpy:5
     old "Master"
-    new "Master"
+    new "主人"
 

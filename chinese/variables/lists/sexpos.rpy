@@ -1,240 +1,238 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/variables/lists/sexpos.rpy:3
     old "Kiss - Standing"
-    new "Kiss - Standing"
+    new "轻吻 - 站姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Kiss - Forced"
-    new "Kiss - Forced"
+    new "轻吻 - 强吻"
 
     # game/variables/lists/sexpos.rpy:3
     old "Kiss - Masturbation"
-    new "Kiss - Masturbation"
+    new "轻吻 - 自慰"
 
     # game/variables/lists/sexpos.rpy:3
     old "Kiss - Kneeling"
-    new "Kiss - Kneeling"
+    new "轻吻 - 跪姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Kiss - Lying"
-    new "Kiss - Lying"
+    new "轻吻 - 卧姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Kiss - Lesbian"
-    new "Kiss - Lesbian"
+    new "轻吻 - 女同"
 
     # game/variables/lists/sexpos.rpy:3
     old "Vaginal - Cowgirl"
-    new "Vaginal - Cowgirl"
+    new "性交 - 女上位"
 
     # game/variables/lists/sexpos.rpy:3
     old "Vaginal - Doggy"
-    new "Vaginal - Doggy"
+    new "性交 - 后入式"
 
     # game/variables/lists/sexpos.rpy:3
     old "Vaginal - Missionary"
-    new "Vaginal - Missionary"
+    new "性交 - 正常体位"
 
     # game/variables/lists/sexpos.rpy:3
     old "Vaginal - Pilediver"
-    new "Vaginal - Pilediver"
+    new "性交 - 打桩机姿势"
 
     # game/variables/lists/sexpos.rpy:3
     old "Vaginal - On the Desk"
-    new "Vaginal - On the Desk"
+    new "性交 - 在桌子上"
 
     # game/variables/lists/sexpos.rpy:3
     old "Vaginal - Reverse Pilediver"
-    new "Vaginal - Reverse Pilediver"
+    new "性交 - 反向打桩机姿势"
 
     # game/variables/lists/sexpos.rpy:3
     old "Vaginal - Against the Wall"
-    new "Vaginal - Against the Wall"
+    new "性交 - 靠墙"
 
     # game/variables/lists/sexpos.rpy:3
     old "Vaginal - Lifting"
-    new "Vaginal - Lifting"
+    new "性交 - 举高"
 
     # game/variables/lists/sexpos.rpy:3
     old "Anal - Doggy"
-    new "Anal - Doggy"
+    new "肛交 - 后入式"
 
     # game/variables/lists/sexpos.rpy:3
     old "Anal - Cowgirl"
-    new "Anal - Cowgirl"
+    new "肛交 - 女上位"
 
     # game/variables/lists/sexpos.rpy:3
     old "Anal - Missionary"
-    new "Anal - Missionary"
+    new "肛交 - 正常体位"
 
     # game/variables/lists/sexpos.rpy:3
     old "Anal - Lifting"
-    new "Anal - Lifting"
+    new "肛交 - 举高"
 
     # game/variables/lists/sexpos.rpy:3
     old "Anal - Reverse Cowgirl"
-    new "Anal - Reverse Cowgirl"
+    new "肛交 - 反向女上位"
 
     # game/variables/lists/sexpos.rpy:3
     old "Boobjob - Sucking"
-    new "Boobjob - Sucking"
+    new "乳交 - 吮吸式"
 
     # game/variables/lists/sexpos.rpy:3
     old "Boobjob - Lying"
-    new "Boobjob - Lying"
+    new "乳交 - 卧姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Boobjob - Kneeling"
-    new "Boobjob - Kneeling"
+    new "乳交 - 跪姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Boobjob - Sitting"
-    new "Boobjob - Sitting"
+    new "乳交 - 坐姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Blowjob - Lying"
-    new "Blowjob - Lying"
+    new "口交 - 卧姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Blowjob - Forced"
-    new "Blowjob - Forced"
+    new "口交 - 强迫式"
 
     # game/variables/lists/sexpos.rpy:3
     old "Blowjob - Sitting"
-    new "Blowjob - Sitting"
+    new "口交 - 坐姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Blowjob - Kneeling"
-    new "Blowjob - Kneeling"
+    new "口交 - 跪姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Blowjob - 69"
-    new "Blowjob - 69"
+    new "口交 - 69 式"
 
     # game/variables/lists/sexpos.rpy:3
     old "Handjob - Lying"
-    new "Handjob - Lying"
+    new "手交 - 卧姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Handjob - Licking Nipple"
-    new "Handjob - Licking Nipple"
+    new "手交 - 舔乳头"
 
     # game/variables/lists/sexpos.rpy:3
     old "Handjob - Kneeling"
-    new "Handjob - Kneeling"
+    new "手交 - 跪姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Handjob - Sitting"
-    new "Handjob - Sitting"
+    new "手交 - 坐姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Footjob - Standing"
-    new "Footjob - Standing"
+    new "足交 - 站姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Footjob - Sitting"
-    new "Footjob - Sitting"
+    new "足交 - 坐姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Footjob - Sleeping"
-    new "Footjob - Sleeping"
+    new "足交 - 睡姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Thighjob - Standing"
-    new "Thighjob - Standing"
+    new "腿交 - 站姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Cunnilingus - Lying"
-    new "Cunnilingus - Lying"
+    new "舔阴 - 卧姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Cunnilingus - Pilediver"
-    new "Cunnilingus - Pilediver"
+    new "舔阴 - 打桩机姿势"
 
     # game/variables/lists/sexpos.rpy:3
     old "Cunnilingus - Standing"
-    new "Cunnilingus - Standing"
+    new "舔阴 - 站姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Cunnilingus - Against the Wall"
-    new "Cunnilingus - Against the Wall"
+    new "舔阴 - 靠墙"
 
     # game/variables/lists/sexpos.rpy:3
     old "Cunnilingus - Sitting"
-    new "Cunnilingus - Sitting"
+    new "舔阴 - 坐姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Cunnilingus - 69"
-    new "Cunnilingus - 69"
+    new "舔阴 - 69 式"
 
     # game/variables/lists/sexpos.rpy:3
     old "Cunnilingus - Cowgirl"
-    new "Cunnilingus - Cowgirl"
+    new "舔阴 - 女上位"
 
     # game/variables/lists/sexpos.rpy:3
     old "Masturbation - Sitting"
-    new "Masturbation - Sitting"
+    new "自慰 - 坐姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Masturbation - Dildo"
-    new "Masturbation - Dildo"
+    new "自慰 - 假阳具"
 
     # game/variables/lists/sexpos.rpy:3
     old "Masturbation - Lying"
-    new "Masturbation - Lying"
+    new "自慰 - 卧姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Masturbation - Standing"
-    new "Masturbation - Standing"
+    new "自慰 - 站姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Masturbation - Against the Corner"
-    new "Masturbation - Against the Corner"
+    new "自慰 - 靠墙角"
 
     # game/variables/lists/sexpos.rpy:3
     old "Massage - Lying"
-    new "Massage - Lying"
+    new "按摩 - 卧姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Massage - Standing"
-    new "Massage - Standing"
+    new "按摩 - 站姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Massage - From Behind"
-    new "Massage - From Behind"
+    new "按摩 - 从背后"
 
     # game/variables/lists/sexpos.rpy:3
     old "Massage - Sitting"
-    new "Massage - Sitting"
+    new "按摩 - 坐姿"
 
     # game/variables/lists/sexpos.rpy:3
     old "Massage - Breasts"
-    new "Massage - Breasts"
+    new "按摩 - 胸部"
 
     # game/variables/lists/sexpos.rpy:3
     old "Massage - Pussy"
-    new "Massage - Pussy"
+    new "按摩 - 阴部"
 
     # game/variables/lists/sexpos.rpy:3
     old "Massage - Lesbian"
-    new "Massage - Lesbian"
+    new "按摩 - 女同"
 
     # game/variables/lists/sexpos.rpy:3
     old "BDSM - Wooden Horse"
-    new "BDSM - Wooden Horse"
+    new "SM - 木马"
 
     # game/variables/lists/sexpos.rpy:3
     old "Group - Threesome"
-    new "Group - Threesome"
+    new "群交 - 3P"
 
     # game/variables/lists/sexpos.rpy:3
     old "Group - Threesome - Two Males"
-    new "Group - Threesome - Two Males"
+    new "群交 - 3P - 两男一女"
 
     # game/variables/lists/sexpos.rpy:3
     old "Group - Threesome - Two Females"
-    new "Group - Threesome - Two Females"
+    new "群交 - 3P - 一男两女"
 

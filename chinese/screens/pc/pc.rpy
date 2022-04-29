@@ -1,38 +1,36 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/screens/pc/pc.rpy:3
     old "Collectibles"
-    new "Collectibles"
+    new "收藏"
 
     # game/screens/pc/pc.rpy:3
     old "Wallpapers"
-    new "Wallpapers"
+    new "壁纸"
 
     # game/screens/pc/pc.rpy:3
     old "Debug Menu"
-    new "Debug Menu"
+    new "调试菜单"
 
     # game/screens/pc/pc.rpy:3
     old "Replay Menu"
-    new "Replay Menu"
+    new "重放菜单"
 
     # game/screens/pc/pc.rpy:3
     old "Insert Code"
-    new "Insert Code"
+    new "输入代码"
 
     # game/screens/pc/pc.rpy:3
     old "Difficulty Settings"
-    new "Difficulty Settings"
+    new "难度设置"
 
     # game/screens/pc/pc.rpy:15
     old "What's new"
-    new "What's new"
+    new "更新说明"
 
     # game/screens/pc/pc.rpy:15
     old "Show all existing cards"
-    new "Show all existing cards"
+    new "显示所有卡牌"
 
     # game/screens/pc/pc.rpy:103
     old "|{#pcSeparator}"

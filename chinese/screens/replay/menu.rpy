@@ -1,12 +1,10 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/screens/replay/menu.rpy:56
     old "No image"
-    new "No image"
+    new "没有图片"
 
     # game/screens/replay/menu.rpy:77
     old "--- Locked ---"
-    new "--- Locked ---"
+    new "--- 未解锁 ---"
 

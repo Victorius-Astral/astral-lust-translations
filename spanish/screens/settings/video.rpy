@@ -76,3 +76,11 @@ translate spanish strings:
     # game/screens/settings/video.rpy:74
     old "\nNeeds restart."
     new "\nNecesita reinicio."
+# TODO: Translation updated at 2022-04-23 12:58
+
+translate spanish strings:
+
+    # game/screens/settings/video.rpy:56
+    old "Main Menu Images"
+    new "Main Menu Images"
+

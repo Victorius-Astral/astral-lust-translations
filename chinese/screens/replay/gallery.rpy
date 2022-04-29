@@ -1,16 +1,14 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/screens/replay/gallery.rpy:37
     old "Replay Gallery - "
-    new "Replay Gallery - "
+    new "重放列表 - "
 
     # game/screens/replay/gallery.rpy:39
     old "Replay Gallery"
-    new "Replay Gallery"
+    new "重放列表"
 
     # game/screens/replay/gallery.rpy:41
     old "Unlocked: "
-    new "Unlocked: "
+    new "已解锁："
 

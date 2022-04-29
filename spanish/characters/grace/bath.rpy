@@ -471,3 +471,11 @@ translate spanish strings:
     # game/characters/grace/bath.rpy:25
     old "Hate"
     new "Lo odio"
+# TODO: Translation updated at 2022-04-23 12:54
+
+translate spanish strings:
+
+    # game/characters/grace/bath.rpy:15
+    old "What does she think of you?"
+    new "What does she think of you?"
+
