@@ -240,3 +240,23 @@ translate spanish strings:
     # game/variables/lists/sexpos.rpy:3
     old "Footjob - Sleeping"
     new "Con pies - Durmiendo"
+# TODO: Translation updated at 2022-05-02 20:35
+
+translate spanish strings:
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Kiss - Sitting"
+    new "Kiss - Sitting"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Vaginal - Reverse Doggy"
+    new "Vaginal - Reverse Doggy"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Vaginal - Facing each Other"
+    new "Vaginal - Facing each Other"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Rubbing - Cowgirl"
+    new "Rubbing - Cowgirl"
+

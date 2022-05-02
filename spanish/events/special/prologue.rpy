@@ -3658,3 +3658,65 @@ translate spanish strings:
     # game/events/special/prologue.rpy:1073
     old "Electricity and water"
     new "Electricidad y agua"
+
+# TODO: Translation updated at 2022-05-02 20:35
+
+# game/events/special/prologue.rpy:44
+translate spanish prologue_80a24a7a:
+
+    # th "A little.."
+    th "A little.."
+
+# game/events/special/prologue.rpy:114
+translate spanish prologue_e9511d7d:
+
+    # victorius "Naughty vixen has came to play, haha."
+    victorius "Naughty vixen has came to play, haha."
+
+# game/events/special/prologue.rpy:115
+translate spanish prologue_b6428c99:
+
+    # victorius "Rhainda oh Rhainda. How would you call someone wanting to fuck their own avatar?"
+    victorius "Rhainda oh Rhainda. How would you call someone wanting to fuck their own avatar?"
+
+# game/events/special/prologue.rpy:116
+translate spanish prologue_ac9853bb:
+
+    # me "What the fuck are you talking about?"
+    me "What the fuck are you talking about?"
+
+# game/events/special/prologue.rpy:117
+translate spanish prologue_d5c2f883:
+
+    # victorius "Haha, nevermind."
+    victorius "Haha, nevermind."
+
+# game/events/special/prologue.rpy:128
+translate spanish prologue_61603b3a:
+
+    # victorius "I'm everything and everything is me."
+    victorius "I'm everything and everything is me."
+
+# game/events/special/prologue.rpy:129
+translate spanish prologue_314086b3:
+
+    # me "What?"
+    me "What?"
+
+# game/events/special/prologue.rpy:131
+translate spanish prologue_f1cff1e3:
+
+    # victorius "River of Destiny will boil, time will evaporate, gods high above will wail, Pillars will crumble, yet the destiny will remain unchanged."
+    victorius "River of Destiny will boil, time will evaporate, gods high above will wail, Pillars will crumble, yet the destiny will remain unchanged."
+
+# game/events/special/prologue.rpy:133
+translate spanish prologue_9c9d6ce2:
+
+    # victorius "Yet it wouldn't be fun if the result was predetermined. Key Bearer, can you surprise me? Hahaha, I'm filled with exhilaration."
+    victorius "Yet it wouldn't be fun if the result was predetermined. Key Bearer, can you surprise me? Hahaha, I'm filled with exhilaration."
+
+# game/events/special/prologue.rpy:137
+translate spanish prologue_9f20e402:
+
+    # victorius "{loud}Now, entertain me with your desperate struggle, hahaha!{/loud}"
+    victorius "{loud}Now, entertain me with your desperate struggle, hahaha!{/loud}"
