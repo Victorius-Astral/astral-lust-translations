@@ -622,7 +622,7 @@ translate spanish rhainda_2_part3_90ceb247:
 translate spanish rhainda_2_part3_0495ea50:
 
     # me "I didn't say I didn't like it, though."
-    me "Vaya, vaya, caballero. No lo detendré más."
+    me "No dije que no me gustara."
 
 # game/characters/rhainda/ev_2.rpy:248
 translate spanish rhainda_2_part3_c22fbcfd:

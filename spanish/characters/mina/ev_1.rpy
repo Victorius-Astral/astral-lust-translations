@@ -404,17 +404,16 @@ translate spanish strings:
     # game/characters/mina/ev_1.rpy:64
     old "She seems to believe I'm courting Lexi. This thought makes her excited."
     new "Parece creer que estoy cortejando a Lexi. Esta idea la emociona."
-# TODO: Translation updated at 2022-04-23 12:54
+# : Translation updated at 2022-04-23 12:54
 
 # game/characters/mina/ev_1.rpy:20
 translate spanish mina_1_ab1909c4:
 
     # th "That was a couch, though.."
-    th "That was a couch, though.."
+    th "Pero eso esa un sofá..."
 
 # game/characters/mina/ev_1.rpy:53
 translate spanish mina_1_0d74701d:
 
     # "{size=+20}*Bang*{/size}"
     "{size=+20}*Bang*{/size}"
-

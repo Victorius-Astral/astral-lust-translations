@@ -427,31 +427,31 @@ translate spanish strings:
     # game/characters/rhainda/speak.rpy:54
     old "Why do you hate ducks?"
     new "¿Por qué odias a los patos?"
-# TODO: Translation updated at 2022-04-23 12:54
+# : Translation updated at 2022-04-23 12:54
 
 # game/characters/rhainda/speak.rpy:15
 translate spanish speak_rhainda_296c0868:
 
     # rhainda "Are you here to have some fun with yourself, little sister?"
-    rhainda "Are you here to have some fun with yourself, little sister?"
+    rhainda "¿Estás aquí para divertirte contigo misma, hermanita?"
 
 # game/characters/rhainda/speak.rpy:16
 translate spanish speak_rhainda_4c264667:
 
     # me "I'm a guy.."
-    me "I'm a guy.."
+    me "Soy un hombre..."
 
 # game/characters/rhainda/speak.rpy:17
 translate spanish speak_rhainda_d2941364:
 
     # th "Besides, what the hell do you mean with yourself?"
-    th "Besides, what the hell do you mean with yourself?"
+    th "Además, ¿qué demonios quieres decir con conmigo mismo?"
 
 # game/characters/rhainda/speak.rpy:21
 translate spanish speak_rhainda_623c508e:
 
     # rhainda "Ssssure~"
-    rhainda "Ssssure~"
+    rhainda "Sssseguro~"
 
 # game/characters/rhainda/speak.rpy:22
 translate spanish speak_rhainda_3820771a:
@@ -463,7 +463,7 @@ translate spanish speak_rhainda_3820771a:
 translate spanish speak_rhainda_d078b758:
 
     # rhainda "Have it your way guy with cute girl's name."
-    rhainda "Have it your way guy with cute girl's name."
+    rhainda "Hazlo a tu manera chico con el nombre de una chica linda."
 
 # game/characters/rhainda/speak.rpy:24
 translate spanish speak_rhainda_3820771a_1:
@@ -475,59 +475,58 @@ translate spanish speak_rhainda_3820771a_1:
 translate spanish speak_rhainda_91e9d8c4:
 
     # rhainda "Do you know you have female name?"
-    rhainda "Do you know you have female name?"
+    rhainda "¿Sabes que tienes nombre de mujer?"
 
 # game/characters/rhainda/speak.rpy:32
 translate spanish speak_rhainda_b866ac52:
 
     # me "It's not."
-    me "It's not."
+    me "No lo es."
 
 # game/characters/rhainda/speak.rpy:36
 translate spanish speak_rhainda_be3866d7:
 
     # rhainda "On top of this it's just like my name."
-    rhainda "On top of this it's just like my name."
+    rhainda "Además de eso, es exactamente como mi nombre."
 
 # game/characters/rhainda/speak.rpy:37
 translate spanish speak_rhainda_761245b8:
 
     # me "And?"
-    me "And?"
+    me "¿Y?"
 
 # game/characters/rhainda/speak.rpy:38
 translate spanish speak_rhainda_868fad9f:
 
     # rhainda "Whelp.. It's awkward."
-    rhainda "Whelp.. It's awkward."
+    rhainda "Buenop... Es algo incómodo."
 
 # game/characters/rhainda/speak.rpy:39
 translate spanish speak_rhainda_9725c968:
 
     # me "Nah, you're imagining things."
-    me "Nah, you're imagining things."
+    me "Nah, lo estás imaginando."
 
 # game/characters/rhainda/speak.rpy:40
 translate spanish speak_rhainda_7438e7ce:
 
     # rhainda "Do I?"
-    rhainda "Do I?"
+    rhainda "¿Lo estoy?"
 
 # game/characters/rhainda/speak.rpy:41
 translate spanish speak_rhainda_a9a4605d:
 
     # me "Yep."
-    me "Yep."
+    me "Sip."
 
 # game/characters/rhainda/speak.rpy:45
 translate spanish speak_rhainda_1afc1c64:
 
     # rhainda "Anyway, making fun of you for having girl's name will soothe me~"
-    rhainda "Anyway, making fun of you for having girl's name will soothe me~"
+    rhainda "De todos modos, burlarme de ti por tener nombre de niña me calmará~"
 
 # game/characters/rhainda/speak.rpy:46
 translate spanish speak_rhainda_3820771a_2:
 
     # me "..."
     me "..."
-
