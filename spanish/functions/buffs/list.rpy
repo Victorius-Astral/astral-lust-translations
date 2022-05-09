@@ -21,15 +21,14 @@ translate spanish strings:
     # game/functions/buffs/list.rpy:28
     old "Battle start"
     new "Inicio de batalla"
-# TODO: Translation updated at 2022-05-09 13:05
+# : Translation updated at 2022-05-09 13:05
 
 translate spanish strings:
 
     # game/functions/buffs/list.rpy:5
     old "Sugar Frenzy"
-    new "Sugar Frenzy"
+    new "Frenesí de Azúcar"
 
     # game/functions/buffs/list.rpy:5
     old "Get {amount:+} spirituality each turn."
-    new "Get {amount:+} spirituality each turn."
-
+    new "Consigue {amount:+} espiritualidad cada turno."
