@@ -1136,3 +1136,71 @@ translate vietnamese strings:
     old "Give her a rose as an apology {#visible}"
     new "Give her a rose as an apology {#visible}"
 
+# TODO: Translation updated at 2022-05-11 01:55
+
+# game/characters/grace/speak.rpy:476
+translate vietnamese speak_grace_question_peed_d8769c30:
+
+    # grace "Mm!"
+    grace "Mm!"
+
+# game/characters/grace/speak.rpy:477
+translate vietnamese speak_grace_question_peed_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/characters/grace/speak.rpy:478
+translate vietnamese speak_grace_question_peed_ee6edc1c:
+
+    # me "What the hell are you smiling for idiot?"
+    me "What the hell are you smiling for idiot?"
+
+# game/characters/grace/speak.rpy:479
+translate vietnamese speak_grace_question_peed_b3f72d3b:
+
+    # grace "You got what you deserved."
+    grace "You got what you deserved."
+
+# game/characters/grace/speak.rpy:483
+translate vietnamese speak_grace_question_peed_d2d9ebea:
+
+    # grace "Don't try to pee on me again. Or you'll get wet again."
+    grace "Don't try to pee on me again. Or you'll get wet again."
+
+# game/characters/grace/speak.rpy:484
+translate vietnamese speak_grace_question_peed_685d0266:
+
+    # me "Is that a threat?"
+    me "Is that a threat?"
+
+# game/characters/grace/speak.rpy:488
+translate vietnamese speak_grace_question_peed_d8769c30_1:
+
+    # grace "Mm!"
+    grace "Mm!"
+
+# game/characters/grace/speak.rpy:489
+translate vietnamese speak_grace_question_peed_be7aa58b:
+
+    # me "...."
+    me "...."
+
+# game/characters/grace/speak.rpy:500
+translate vietnamese speak_grace_apology_rose_730ffbec:
+
+    # me "Then you should take it, even more, don't let it fall into bad hands."
+    me "Then you should take it, even more, don't let it fall into bad hands."
+
+# game/characters/grace/speak.rpy:518
+translate vietnamese speak_grace_apology_rose_cf49bb42:
+
+    # th "You're really simple-minded.."
+    th "You're really simple-minded.."
+
+translate vietnamese strings:
+
+    # game/characters/grace/speak.rpy:84
+    old "You.. You.. peed on me.."
+    new "You.. You.. peed on me.."
+

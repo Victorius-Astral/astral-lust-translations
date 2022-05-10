@@ -21,3 +21,15 @@ translate vietnamese strings:
     # game/functions/buffs/list.rpy:28
     old "Battle start"
     new "trận chiến bắt đầu"
+# TODO: Translation updated at 2022-05-11 01:55
+
+translate vietnamese strings:
+
+    # game/functions/buffs/list.rpy:5
+    old "Sugar Frenzy"
+    new "Sugar Frenzy"
+
+    # game/functions/buffs/list.rpy:5
+    old "Get {amount:+} spirituality each turn."
+    new "Get {amount:+} spirituality each turn."
+
