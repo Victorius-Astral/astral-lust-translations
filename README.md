@@ -1,3 +1,5 @@
+
+
 # Summary
 
 - [Welcome to our family!](#Welcome-to-our-family)
@@ -19,15 +21,16 @@ First of all, translation are done with the [Ren'py](https://www.renpy.org/) fra
 
 Important
 --------
-Do not translate **Game name, Characters names, Places names (like Cordale), Variables**
+Do not translate **Things that's not casual words, like names (Lexi, Grace), it's super important to not translate Variables**
 
 if you feel something does not need to be translated, such as technical text
 
-**old "Tab"**
+``` renpy
+    old "Tab"
+    new "Tab"
+```
 
-**new ""**
-
-Just leave the fields blank.
+Just leave it as it is.
 
 **DO NOT EDIT "old" TEXT, ONLY "new" ONE!**
 
@@ -69,11 +72,10 @@ Those are used to be replaced with something. In most cases that is character na
 Usually variables looks like: [Name], %s , #weekday, {#weekday_short}
 
 **Example:**
-
- old "{#weekday_short}Tue"
- 
- new "{#weekday_short}Вт"
-
+```renpy
+    old "{#weekday_short}Tue"
+    new "{#weekday_short}Вт"
+```
 ## Quotations
 
 ![image](https://user-images.githubusercontent.com/79453594/151211042-a4ad8faf-36c4-403b-ba5c-16b3dd6d84e8.png)
@@ -81,7 +83,7 @@ Usually variables looks like: [Name], %s , #weekday, {#weekday_short}
 Those are quotes that need to be escaped to work properly. Be very careful with those. The wrong quote can break the whole game.  
 You can read more about RenPy syntax here:  
 [https://www.renpy.org/dev-doc/html/translations.html](https://www.renpy.org/dev-doc/html/translations.html)  
-If there is something not clear reach out on our [Discord](https://discord.gg/tjNvTcew) on the #translations channel (ask [Majesti](https://discordapp.com/users/Majesti#4005) if you need access). 
+If there is something not clear reach out on our [Discord](https://discord.gg/tjNvTcew) on the #translations channel (ask [Majesti](https://discordapp.com/users/Majesti#4005) if you need access).
 
 # How to work with GitHub
 
@@ -118,15 +120,16 @@ You make changes:
 
 Important
 --------
-Do not translate **Game name, Characters names, Places names (like Cordale)**
+Do not translate **Things that's not casual words, like names (Lexi, Grace), it's super important to not translate Variables**
 
 if you feel something does not need to be translated, such as technical text
 
-**old "Tab"**
+```python
+    old "Tab"
+    new "Tab"
+```
 
-**new ""**
-
-Just leave the fields blank.
+Just leave the fields unchanged.
 
 **DO NOT EDIT "old" TEXT, ONLY "new" ONE!**
 
@@ -150,6 +153,3 @@ Now it is done. You can see the number of opened pull requests:
 If you already created a pull request and you want to edit it you still can change a file there:
 
 ![image](https://user-images.githubusercontent.com/79453594/151221347-1893e174-694a-4654-97ac-bb8b007ffe0d.png)
-
-
-
