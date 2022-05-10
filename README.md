@@ -124,7 +124,7 @@ Do not translate **Things that's not casual words, like names (Lexi, Grace), it'
 
 if you feel something does not need to be translated, such as technical text
 
-```python
+```renpy
     old "Tab"
     new "Tab"
 ```
