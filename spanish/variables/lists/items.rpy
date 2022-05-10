@@ -43,7 +43,7 @@ translate spanish strings:
     new "Apesta a locura. Puedes encontrar varios artículos adentro."
 
     # game/variables/lists/items.rpy:179
-    old "Delicious sweets that warms the heart."
+    old "Delicious sweets that warm the heart."
     new "Deliciosos dulces que calientan el corazón."
 
     # game/variables/lists/items.rpy:179
