@@ -1,5 +1,3 @@
-
-
 # Summary
 
 - [Welcome to our family!](#Welcome-to-our-family)
@@ -16,7 +14,7 @@
 
 I'm really happy that you want to help with translations!
 
-I'm making this document because I'm getting some number of requests like this and although I'm super happy to get you help, I can't manually copy paste all the translated lines. So we have a process and here I'm going to explain how it works.  
+I'm making this document because I'm getting some number of requests like this and although I'm super happy to get you help, I can't manually copy paste all the translated lines. So we have a process and here I'm going to explain how it works.
 First of all, translation are done with the [Ren'py](https://www.renpy.org/) framework.
 
 Important
@@ -36,7 +34,7 @@ Just leave it as it is.
 
 # How to work with RenPy
 
-RenPy is quite simple. Every scene in the game is translated in a separate file like "d04s03.rpy".  
+RenPy is quite simple. Every scene in the game is translated in a separate file like "d04s03.rpy".
 Such file looks like this:
 ![image](https://user-images.githubusercontent.com/79453594/151206128-e7c724dc-f4a1-44bf-b898-1d1991bf6bc0.png)
 
@@ -50,7 +48,7 @@ Special symbols
 ----
 ![image](https://user-images.githubusercontent.com/79453594/151206700-71746758-5fc8-48d8-9281-af3087f8ae46.png)
 
-Those are special action symbols. They need to stay the same preferably in the same logical place. For example, this symbol is making a pause in the dialog.  
+Those are special action symbols. They need to stay the same preferably in the same logical place. For example, this symbol is making a pause in the dialog.
 Also `{i}...{/i}` is to make text cursive.
 
 ![image](https://user-images.githubusercontent.com/79453594/151210790-06b79fd2-e2c6-423c-8b18-0df8cdfc9f63.png)
@@ -80,16 +78,16 @@ Usually variables looks like: [Name], %s , #weekday, {#weekday_short}
 
 ![image](https://user-images.githubusercontent.com/79453594/151211042-a4ad8faf-36c4-403b-ba5c-16b3dd6d84e8.png)
 
-Those are quotes that need to be escaped to work properly. Be very careful with those. The wrong quote can break the whole game.  
-You can read more about RenPy syntax here:  
-[https://www.renpy.org/dev-doc/html/translations.html](https://www.renpy.org/dev-doc/html/translations.html)  
+Those are quotes that need to be escaped to work properly. Be very careful with those. The wrong quote can break the whole game.
+You can read more about RenPy syntax here:
+[https://www.renpy.org/dev-doc/html/translations.html](https://www.renpy.org/dev-doc/html/translations.html)
 If there is something not clear reach out on our [Discord](https://discord.gg/tjNvTcew) on the #translations channel (ask [Majesti](https://discordapp.com/users/Majesti#4005) if you need access).
 
 # How to work with GitHub
 
 [Github](https://github.com/) is a code management platform that is using Git.
 
-First of all, you would need to create an account on Github (if you don't have one) or you can create a fake one just in case you don't want to use your professional one. Go here and create it: [https://github.com/](https://github.com/)  
+First of all, you would need to create an account on Github (if you don't have one) or you can create a fake one just in case you don't want to use your professional one. Go here and create it: [https://github.com/](https://github.com/)
 Once you have an account you can open on the repositories that we have for translations:
 
 **Translations for Lust Academy - Season 1** - url: [https://github.com/MisterZ8/LustAcademyTL](https://github.com/MisterZ8/LustAcademyTL)
