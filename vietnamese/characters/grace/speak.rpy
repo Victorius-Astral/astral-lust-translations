@@ -906,19 +906,19 @@ translate vietnamese speak_grace_fdb4e830:
 translate vietnamese speak_grace_1cb97f49:
 
     # th "Seems she's angry at me.."
-    th "Seems she's angry at me.."
+    th "Có vẻ là em ấy đang giận mình.."
 
 # game/characters/grace/speak.rpy:21
 translate vietnamese speak_grace_menu_angry_04cf02be:
 
     # grace "Hi."
-    grace "Hi."
+    grace "Chào."
 
 # game/characters/grace/speak.rpy:25
 translate vietnamese speak_grace_menu_angry_e579606d:
 
     # grace "What do you want?"
-    grace "What do you want?"
+    grace "Anh muốn gì à?"
 
 # game/characters/grace/speak.rpy:471
 translate vietnamese speak_grace_apology_rose_fdb4e830:
@@ -930,7 +930,7 @@ translate vietnamese speak_grace_apology_rose_fdb4e830:
 translate vietnamese speak_grace_apology_rose_01a0cb8d:
 
     # me "I know you want it."
-    me "I know you want it."
+    me "ANh biết là em muốn nó."
 
 # game/characters/grace/speak.rpy:473
 translate vietnamese speak_grace_apology_rose_fdb4e830_1:
@@ -942,19 +942,19 @@ translate vietnamese speak_grace_apology_rose_fdb4e830_1:
 translate vietnamese speak_grace_apology_rose_b7d6b3b0:
 
     # me "[grace], a rose. Lively and beautiful just like you."
-    me "[grace], a rose. Lively and beautiful just like you."
+    me "[grace], một bông hoa hồng đấy. Sống động và xinh đẹp hệt như em vậy."
 
 # game/characters/grace/speak.rpy:475
 translate vietnamese speak_grace_apology_rose_6d39208d:
 
     # grace "You're bad."
-    grace "You're bad."
+    grace "Anh thật là tệ."
 
 # game/characters/grace/speak.rpy:476
 translate vietnamese speak_grace_apology_rose_ecd7b870:
 
     # me "Then you should take it even more, don't let in lay in bad hands."
-    me "Then you should take it even more, don't let in lay in bad hands."
+    me "Vậy thì em nên nắm lấy nó chặt hơn nữa, đừng để nó rơi vào tay kẻ xấu."
 
 # game/characters/grace/speak.rpy:480
 translate vietnamese speak_grace_apology_rose_0a928bf9:
@@ -966,37 +966,37 @@ translate vietnamese speak_grace_apology_rose_0a928bf9:
 translate vietnamese speak_grace_apology_rose_45649d40:
 
     # me "Come on, don't lie to yourself. Look at it, it wants you to get it."
-    me "Come on, don't lie to yourself. Look at it, it wants you to get it."
+    me "Thôi nào, đừng dối lòng nữa. Nhìn nó xem, nó muốn em đến và lấy nó đi đấy."
 
 # game/characters/grace/speak.rpy:485
 translate vietnamese speak_grace_apology_rose_d68a5b2e:
 
     # grace "Gimme~"
-    grace "Gimme~"
+    grace "Đưa em~"
 
 # game/characters/grace/speak.rpy:486
 translate vietnamese speak_grace_apology_rose_202a8b31:
 
     # me "Of course. Here."
-    me "Of course. Here."
+    me "Tất nhiên rồi. Đây."
 
 # game/characters/grace/speak.rpy:493
 translate vietnamese speak_grace_apology_rose_e8954ecc:
 
     # grace "Hehe~ Maybe you're not that bad after all.."
-    grace "Hehe~ Maybe you're not that bad after all.."
+    grace "Hehe~ Có lẽ anh cũng không đến mức quá xấu xa..."
 
 # game/characters/grace/speak.rpy:494
 translate vietnamese speak_grace_apology_rose_eeb4d777:
 
     # th "You're really simple minded.."
-    th "You're really simple minded.."
+    th "Em là một đứa có đầu óc rất đơn giản.."
 
 # game/characters/grace/speak.rpy:495
 translate vietnamese speak_grace_apology_rose_001b179c:
 
     # me "Are we good?"
-    me "Are we good?"
+    me "Chúng ta huề chưa?"
 
 # game/characters/grace/speak.rpy:496
 translate vietnamese speak_grace_apology_rose_7402cda2:
@@ -1008,19 +1008,19 @@ translate vietnamese speak_grace_apology_rose_7402cda2:
 translate vietnamese speak_grace_apology_rose_eee72d0b:
 
     # me "Cool."
-    me "Cool."
+    me "Ngon."
 
 # game/characters/grace/speak.rpy:498
 translate vietnamese speak_grace_apology_rose_858191de:
 
     # grace "What do you want to talk about?"
-    grace "What do you want to talk about?"
+    grace "Anh muốn nói về cái gì?"
 
 # game/characters/grace/speak.rpy:503
 translate vietnamese speak_grace_apology_8e055792:
 
     # me "I'm really sorry, [grace]."
-    me "I'm really sorry, [grace]."
+    me "[grace], anh rất xin lỗi."
 
 # game/characters/grace/speak.rpy:504
 translate vietnamese speak_grace_apology_fdb4e830:
@@ -1032,61 +1032,61 @@ translate vietnamese speak_grace_apology_fdb4e830:
 translate vietnamese speak_grace_apology_b6616c50:
 
     # me "Can you at least look at me?"
-    me "Can you at least look at me?"
+    me "Ít nhất thì em có thể nhìn vào anh được không?"
 
 # game/characters/grace/speak.rpy:506
 translate vietnamese speak_grace_apology_6d39208d:
 
     # grace "You're bad."
-    grace "You're bad."
+    grace "Anh thật là tệ."
 
 # game/characters/grace/speak.rpy:509
 translate vietnamese speak_grace_apology_913b1252:
 
     # me "I know. I did bad, but I can't get better by myself. I need you to make me a better person."
-    me "I know. I did bad, but I can't get better by myself. I need you to make me a better person."
+    me "Anh biết. Anh đã làm những ddieeuef sai trái, nhưng anh không thể tự mình cải thiện bản thân được. Anh cần em giúp cho anh trở thành một người tốt hơn."
 
 # game/characters/grace/speak.rpy:513
 translate vietnamese speak_grace_apology_3c71d638:
 
     # grace "Really?"
-    grace "Really?"
+    grace "Thật không?"
 
 # game/characters/grace/speak.rpy:514
 translate vietnamese speak_grace_apology_960a60a5:
 
     # me "Yes, I can't do this on my own."
-    me "Yes, I can't do this on my own."
+    me "Thật, anh không thể tự mình làm việc này được."
 
 # game/characters/grace/speak.rpy:515
 translate vietnamese speak_grace_apology_744a58bd:
 
     # grace "Lexi told me we should help each other."
-    grace "Lexi told me we should help each other."
+    grace "Chị Lexi bảo em là chúng ta phải giúp đỡ lẫn nhau."
 
 # game/characters/grace/speak.rpy:516
 translate vietnamese speak_grace_apology_1603e86f:
 
     # me "You see?"
-    me "You see?"
+    me "Đấy, thấy chưa?"
 
 # game/characters/grace/speak.rpy:521
 translate vietnamese speak_grace_apology_e0b768cd:
 
     # grace "Alright, I'll give you a chance, but you need to treasure it! [[{cha}Charisma check{/cha} {trust}passed{/trust}]"
-    grace "Alright, I'll give you a chance, but you need to treasure it! [[{cha}Charisma check{/cha} {trust}passed{/trust}]"
+    grace "Được thôi, em sẽ cho anh một cơ hội, nhưng anh cần trân trọng nó! [[{cha}Sức thu hút{/cha} {trust}Đạt yêu cầu{/trust}]"
 
 # game/characters/grace/speak.rpy:522
 translate vietnamese speak_grace_apology_1f739f41:
 
     # me "Of course!"
-    me "Of course!"
+    me "Dĩ nhiên rồi!"
 
 # game/characters/grace/speak.rpy:523
 translate vietnamese speak_grace_apology_664443c7:
 
     # me "Thanks [grace]!"
-    me "Thanks [grace]!"
+    me "Cảm ơn [grace]!"
 
 # game/characters/grace/speak.rpy:527
 translate vietnamese speak_grace_apology_7402cda2:
@@ -1098,43 +1098,43 @@ translate vietnamese speak_grace_apology_7402cda2:
 translate vietnamese speak_grace_apology_816d1fb8:
 
     # grace "So, what have you wanted to talk about?"
-    grace "So, what have you wanted to talk about?"
+    grace "Vậy, anh muốn nói về chuyện gì?"
 
 # game/characters/grace/speak.rpy:532
 translate vietnamese speak_grace_apology_8b75b555:
 
     # me "We all make mistakes. What I did was just a mistake."
-    me "We all make mistakes. What I did was just a mistake."
+    me "Tất cả chúng ta đều mắc sai lầm. Những gì anh làm là sai."
 
 # game/characters/grace/speak.rpy:533
 translate vietnamese speak_grace_apology_10a50ae0:
 
     # grace "You're just bad."
-    grace "You're just bad."
+    grace "Vì đơn giản là anh rất xấu xa."
 
 # game/characters/grace/speak.rpy:534
 translate vietnamese speak_grace_apology_d25d47b9:
 
     # me "[grace].."
-    me "[grace].."
+    me "[grace]..."
 
 # game/characters/grace/speak.rpy:535
 translate vietnamese speak_grace_apology_cffb0b45:
 
     # grace "You did it because you're mean, I don't want to talk with you. [[{cha}Charisma check{/cha} {bad}failed{/bad}]"
-    grace "You did it because you're mean, I don't want to talk with you. [[{cha}Charisma check{/cha} {bad}failed{/bad}]"
+    grace "Anh làm vậy vì anh rất xấu tính, em không muốn nói chuyện với anh nữa đâu. [[{cha}Charisma check{/cha} {bad}failed{/bad}]"
 
 # game/characters/grace/speak.rpy:536
 translate vietnamese speak_grace_apology_a586aebf:
 
     # th "Seems it won't be that easy."
-    th "Seems it won't be that easy."
+    th "Có vẻ như chuyện này sẽ không dễ dàng rồi."
 
 translate vietnamese strings:
 
     # game/characters/grace/speak.rpy:9
     old "Give her a rose as an apology {#visible}"
-    new "Give her a rose as an apology {#visible}"
+    new "Tặng em ấy một bông hồng thay cho lời xin lỗi {#visible}"
 
 # TODO: Translation updated at 2022-05-11 01:55
 
@@ -1154,25 +1154,25 @@ translate vietnamese speak_grace_question_peed_3820771a:
 translate vietnamese speak_grace_question_peed_ee6edc1c:
 
     # me "What the hell are you smiling for idiot?"
-    me "What the hell are you smiling for idiot?"
+    me "Cười cái gì?"
 
 # game/characters/grace/speak.rpy:479
 translate vietnamese speak_grace_question_peed_b3f72d3b:
 
     # grace "You got what you deserved."
-    grace "You got what you deserved."
+    grace "Anh đã nhận được những gì anh xứng đáng rồi đấy."
 
 # game/characters/grace/speak.rpy:483
 translate vietnamese speak_grace_question_peed_d2d9ebea:
 
     # grace "Don't try to pee on me again. Or you'll get wet again."
-    grace "Don't try to pee on me again. Or you'll get wet again."
+    grace "Đừng cố gắng tè vào em lần nữa. Không là anh sẽ bị ướt một đấy."
 
 # game/characters/grace/speak.rpy:484
 translate vietnamese speak_grace_question_peed_685d0266:
 
     # me "Is that a threat?"
-    me "Is that a threat?"
+    me "Đấy có phải là một lời đe dọa không?"
 
 # game/characters/grace/speak.rpy:488
 translate vietnamese speak_grace_question_peed_d8769c30_1:
@@ -1190,17 +1190,16 @@ translate vietnamese speak_grace_question_peed_be7aa58b:
 translate vietnamese speak_grace_apology_rose_730ffbec:
 
     # me "Then you should take it, even more, don't let it fall into bad hands."
-    me "Then you should take it, even more, don't let it fall into bad hands."
+    me "Vậy thì em nên nắm lấy nó, thậm chí nhiều hơn nữa, đừng để nó rơi vào tay kẻ xấu."
 
 # game/characters/grace/speak.rpy:518
 translate vietnamese speak_grace_apology_rose_cf49bb42:
 
     # th "You're really simple-minded.."
-    th "You're really simple-minded.."
+    th "EM thực sự rất đơn giản.."
 
 translate vietnamese strings:
 
     # game/characters/grace/speak.rpy:84
     old "You.. You.. peed on me.."
-    new "You.. You.. peed on me.."
-
+    new "Anh... Anh... tè vào em..."

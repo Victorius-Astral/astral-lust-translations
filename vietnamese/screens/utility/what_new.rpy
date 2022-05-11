@@ -313,7 +313,7 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:60
     old "{u}What's New{/u}"
-    new "{u}Có gì mới{/u}"
+    new "{u}Có Gì Mới{/u}"
 
     # game/screens/utility/what_new.rpy:68
     old "Click outside to close this window, it can be entered again from the pc."

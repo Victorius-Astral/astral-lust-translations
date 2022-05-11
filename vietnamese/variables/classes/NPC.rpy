@@ -46,9 +46,8 @@ translate vietnamese strings:
 
     # game/variables/classes/NPC.rpy:338
     old "{} is angry!"
-    new "{} is angry!"
+    new "{} đang tức giận!"
 
     # game/variables/classes/NPC.rpy:344
     old "{} calmed down and is no longer angry at you!"
-    new "{} calmed down and is no longer angry at you!"
-
+    new "{} bình tĩnh lại và không còn giận bạn nữa!"

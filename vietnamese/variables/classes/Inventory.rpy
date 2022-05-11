@@ -50,5 +50,4 @@ translate vietnamese strings:
 
     # game/variables/classes/Inventory.rpy:71
     old "Missing {} {}"
-    new "Missing {} {}"
-
+    new "Thiếu {} {}"
