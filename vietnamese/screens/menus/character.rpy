@@ -8,7 +8,7 @@ translate vietnamese strings:
 
     # game/screens/menus/character.rpy:13
     old "{b}{u}{color=#DAD1BF}Sanity{/color}{/u}{/b}\n{small}How capable of logical reasoning you are. Reaching 0% leads to game over.{/small}\n\n{b}{u}{color=#800080}Corruption{/color}{/u}{/b}\n{small}How degenerated you are. Reaching 100% leads to game over.{/small}"
-    new "{b}{u}{color=#DAD1BF}Sự tỉnh táo{/color}{/u}{/b}\n{small}Khả năng suy luận logic của bạn. Đạt đến 0% dẫn đến trò chơi kết thúc.{/small}\n\n{b}{u}{color=#800080}Sự tha hóa{/color}{/u}{/b}\n{small}Bạn đã tha hóa đến mức nào. Đạt 100% dẫn đến trò chơi kết thúc.{/small}"
+    new "{b}{u}{color=#DAD1BF}Độ tỉnh táo{/color}{/u}{/b}\n{small}Khả năng suy luận logic của bạn. Đạt đến 0% dẫn đến trò chơi kết thúc.{/small}\n\n{b}{u}{color=#800080}Sự tha hóa{/color}{/u}{/b}\n{small}Bạn đã tha hóa đến mức nào. Đạt 100% dẫn đến trò chơi kết thúc.{/small}"
 
     # game/screens/menus/character.rpy:13
     old "{b}{u}{color=#F4C25E}Strength{/color}{/u}{/b}\n{small}Increases damage dealt in combat by 1 every 5 points.{/small}\n\n{b}{u}{color=#32CD32}Agility{/color}{/u}{/b}\n{small}Every point gives 1% of avoiding damage and increases chance to escape combat by 2%.{/small}\n\n{b}{u}{color=#A71930}Vitality{/color}{/u}{/b}\n{small}Every point increases your maximum health by 3.{/small}\n\n{small}Increased at the gym.{/small}"
@@ -40,7 +40,7 @@ translate vietnamese strings:
 
     # game/screens/menus/character.rpy:63
     old "Sanity:\nCorruption:"
-    new "Sự tỉnh táo:\nSự sa đọa:"
+    new "Độ tỉnh táo:\nSự sa đọa:"
 
     # game/screens/menus/character.rpy:64
     old "[player.sanity]%\n[player.corruption]%"

@@ -94,7 +94,7 @@ translate vietnamese strings:
 
     # game/events/endings/control.rpy:7
     old "Your sanity fallen to 0%!"
-    new "Sự tỉnh táo của bạn giảm xuống 0%!"
+    new "Độ tỉnh táo của bạn giảm xuống 0%!"
 # TODO: Translation updated at 2022-02-06 08:10
 
 # game/events/endings/control.rpy:32

@@ -190,7 +190,7 @@ translate vietnamese alice_8_74f05a4e_2:
 translate vietnamese alice_8_6513b521:
 
     # "You have never seen her so vulnerable before. For some reason she was really embarrassed this time."
-    "Bạn chưa bao giờ thấy cô ấy dễ bị tổn thương như vậy trước đây. Không hiểu sao lần này cô ấy thực sự rất xấu hổ."
+    "Bạn chưa bao giờ thấy cô ấy lại mong manh như vậy trước đây. Không hiểu sao lần này cô ấy thực sự rất xấu hổ."
 
 # game/characters/alice/ev_8.rpy:77
 translate vietnamese alice_8_83087c50:

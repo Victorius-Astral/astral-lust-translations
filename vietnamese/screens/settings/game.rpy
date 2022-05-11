@@ -228,16 +228,15 @@ translate vietnamese strings:
 
     # game/screens/settings/game.rpy:91
     old "{font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} font"
-    new "{font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} font"
+    new "Phông chữ {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font}"
 
     # game/screens/settings/game.rpy:95
     old "Change {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} font to {font=fonts/Brygada1918-Regular.ttf}Brigada 1918{/font} font. It can help on small screens if Fredericka becomes unreadable. Some languages force Brigada either way."
-    new "Đổi font {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} sang font {font=fonts/Brygada1918-Regular.ttf}Brigada 1918{/font}. Nó có thể hữu ích trên màn hình nhỏ nếu Fredericka không thể đọc được. Một số ngôn ngữ buộc Brigada theo cả hai cách."
+    new "Đổi Phông chữ {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} sang {font=fonts/Brygada1918-Regular.ttf}Brigada 1918{/font}. Nó có thể hữu ích trên màn hình nhỏ nếu Fredericka không thể đọc được. Một số ngôn ngữ buộc Brigada theo cả hai cách."
 # TODO: Translation updated at 2022-03-11 07:54
 
 translate vietnamese strings:
 
     # game/screens/settings/game.rpy:96
     old "*Restart required for full change"
-    new "*Restart required for full change"
-
+    new "*Cần phải khởi động lại để mọi thứ được Việt hóa hoàn toàn"

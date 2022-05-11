@@ -76,7 +76,7 @@ translate vietnamese room_player_altar_kiara_fac33955:
 translate vietnamese room_player_altar_kiara_02089ca2:
 
     # me "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar."
-    me "Kẻ tìm kiếm tri thức, Con mắt của những bí mật, Asthar sử ký giả."
+    me "Kẻ truy cầu tri thức, Con mắt của những bí mật, Asthar sử ký giả."
 
 # game/places/hotel/player/altar.rpy:62
 translate vietnamese room_player_altar_kiara_365931bb:

@@ -19,5 +19,4 @@ translate vietnamese strings:
 
     # game/combat/decks/DeckSelect.rpy:130
     old "* Click outside to toggle enemies view"
-    new "* Click outside to toggle enemies view"
-
+    new "* Nhấp vào bên ngoài để chuyển đổi chế độ xem kẻ thù"

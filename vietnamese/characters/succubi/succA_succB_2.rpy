@@ -1461,5 +1461,4 @@ translate vietnamese strings:
 translate vietnamese succA_succB_2_fastB3_f69daf1a:
 
     # "You fuck [succB] with ferocity, making her scream out with every thrust." id succA_succB_2_fastB3_f69daf1a
-    "You fuck [succB] with ferocity, making her scream out with every thrust." id succA_succB_2_fastB3_f69daf1a
-
+    "Bạn địt [succB] một cách hung tợn, khiến cô ấy hét lên sau mỗi cú thúc." id succA_succB_2_fastB3_f69daf1a

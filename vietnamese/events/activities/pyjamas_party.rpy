@@ -1618,7 +1618,7 @@ translate vietnamese girl_night_undress8_7aaefab2:
 translate vietnamese girl_night_undress8_f101e178:
 
     # "Half an hour later."
-    "Nửa giờ sau."
+    "Nửa tiếng sau."
 
 # game/events/activities/pyjamas_party.rpy:582
 translate vietnamese girl_night_undress8_fd16caf4:

@@ -60,7 +60,7 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "I think I should hang out with Mina."
-    new "Mình nghĩ tôi nên đi chơi với Mina."
+    new "Mình nghĩ mình nên đi chơi với Mina."
 
     # game/variables/tips.rpy:4
     old "She seems to have something on her mind recently. I should ask."
@@ -104,7 +104,7 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "When Alice likes me enough (Affection > 4, Trust > 0) I should talk with Mina and then Alice at the evening."
-    new "Khi Alice đủ thích mình (Tình cảm> 4, tin tưởng > 0) mình nên nói chuyện với Mina và sau đó là Alice vào buổi tối."
+    new "Khi Alice đủ thích mình (yêu mến > 4, tin tưởng > 0) mình nên nói chuyện với Mina và sau đó là Alice vào buổi tối."
 
     # game/variables/tips.rpy:4
     old "I wonder what's up with Lexi."

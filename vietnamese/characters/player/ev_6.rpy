@@ -196,7 +196,7 @@ translate vietnamese main_6_part3_8d3289c4:
 translate vietnamese main_6_part3_49af79e3:
 
     # kiara "My name is \"Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar\"."
-    kiara "Tên tôi là \"Kẻ tìm kiếm tri thức, Con mắt của những bí mật, Asthar sử ký giả\"."
+    kiara "Tên tôi là \"Kẻ truy cầu tri thức, Con mắt của những bí mật, Asthar sử ký giả\"."
 
 # game/characters/player/ev_6.rpy:74
 translate vietnamese main_6_part3_42622049:
@@ -334,7 +334,7 @@ translate vietnamese strings:
 
     # game/characters/player/ev_6.rpy:72
     old "Her honorary name is \"Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar\"."
-    new "Tên danh dự của cô ấy là \"Kẻ tìm kiếm tri thức, Con mắt của những bí mật, Asthar sử ký giả\"."
+    new "Tên danh dự của cô ấy là \"Kẻ truy cầu tri thức, Con mắt của những bí mật, Asthar sử ký giả\"."
 
     # game/characters/player/ev_6.rpy:84
     old "The prayer is usually like this: Your devoted servant prays for your grace, Your devoted servant seeks your attention, Your devoted servant begs for your presence."

@@ -4,11 +4,11 @@ translate vietnamese strings:
 
     # game/variables/classes/NPC.rpy:91
     old "{}'s trust + {}"
-    new "Dộ tin tưởng của {} + {}"
+    new "Độ tin tưởng của {} + {}"
 
     # game/variables/classes/NPC.rpy:102
     old "{}'s trust - {}"
-    new "Dộ tin tưởng của {} - {}"
+    new "Độ tin tưởng của {} - {}"
 
     # game/variables/classes/NPC.rpy:117
     old "{}'s submission + {}"
