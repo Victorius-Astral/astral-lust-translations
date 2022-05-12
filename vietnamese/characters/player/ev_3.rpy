@@ -246,3 +246,11 @@ translate vietnamese strings:
     # game/characters/player/ev_3.rpy:77
     old "I can resurrect through a blessing of Throdog R'luhhor. It comes with a price, though."
     new "Tôi có thể hồi sinh nhờ sự ban phước của Throdog R'luhhor. Tuy nhiên, nó đi kèm với một cái giá."
+# TODO: Translation updated at 2022-05-11 01:55
+
+# game/characters/player/ev_3.rpy:16
+translate vietnamese main_3_b4945b52:
+
+    # "The voice sounds as if it's coming from a young man, yet it's ancient. The voice is ethereal, entirely out of this world, and you can feel deep down that it hides unspeakable horrors. It drills into your head, trying to bore further into your mind."
+    "The voice sounds as if it's coming from a young man, yet it's ancient. The voice is ethereal, entirely out of this world, and you can feel deep down that it hides unspeakable horrors. It drills into your head, trying to bore further into your mind."
+

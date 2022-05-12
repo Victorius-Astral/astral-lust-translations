@@ -356,3 +356,71 @@ translate chinese strings:
     old "She is great"
     new "She is great"
 
+# TODO: Translation updated at 2022-05-11 14:54
+
+# game/characters/mina/ev_1.rpy:18
+translate chinese mina_1_d3cc2cf4:
+
+    # mina "I feel curious about the first man that entered my [lex_min]'s bed."
+    mina "I feel curious about the first man that entered my [lex_min]'s bed."
+
+# game/characters/mina/ev_1.rpy:20
+translate chinese mina_1_ab1909c4:
+
+    # th "That was a couch, though.."
+    th "That was a couch, though.."
+
+# game/characters/mina/ev_1.rpy:33
+translate chinese mina_1_0cad274c:
+
+    # mina "Heeey, heey hold your horses cowboy."
+    mina "Heeey, heey hold your horses cowboy."
+
+# game/characters/mina/ev_1.rpy:34
+translate chinese mina_1_506a6a5b:
+
+    # mina "You're not my type."
+    mina "You're not my type."
+
+# game/characters/mina/ev_1.rpy:35
+translate chinese mina_1_103aa33d:
+
+    # th "What do you mean by not your type? Whatever."
+    th "What do you mean by not your type? Whatever."
+
+# game/characters/mina/ev_1.rpy:36
+translate chinese mina_1_be899a74:
+
+    # me "So what's your type?"
+    me "So what's your type?"
+
+# game/characters/mina/ev_1.rpy:40
+translate chinese mina_1_b42faf28:
+
+    # mina "Secret!"
+    mina "Secret!"
+
+# game/characters/mina/ev_1.rpy:41
+translate chinese mina_1_3820771a_2:
+
+    # me "..."
+    me "..."
+
+# game/characters/mina/ev_1.rpy:42
+translate chinese mina_1_8b3c87f7:
+
+    # th "What a silly face.."
+    th "What a silly face.."
+
+# game/characters/mina/ev_1.rpy:53
+translate chinese mina_1_0d74701d:
+
+    # "{size=+20}*Bang*{/size}"
+    "{size=+20}*Bang*{/size}"
+
+translate chinese strings:
+
+    # game/characters/mina/ev_1.rpy:23
+    old "Isn't that also your bed?"
+    new "Isn't that also your bed?"
+

@@ -412,7 +412,7 @@ translate vietnamese grace_7_1a_2537c95c:
 translate vietnamese grace_7_1a_5c89d297:
 
     # grace "But if you try deceiving me again I won't forgive you, even if you help me with my plants!"
-    grace "Nhưng nếu anh cố lừa em một lần nữa, tôi sẽ không tha thứ cho bạn, ngay cả khi anh giúp em trồng cây!"
+    grace "Nhưng nếu anh cố lừa em một lần nữa, em sẽ không tha thứ cho anh, ngay cả khi anh giúp em trồng cây đâu!"
 
 # game/characters/grace/ev_7.rpy:146
 translate vietnamese grace_7_1a_f3629d2a:
@@ -430,7 +430,7 @@ translate vietnamese grace_7_1a_890bd5f9:
 translate vietnamese grace_7_1a_ae7dd4eb:
 
     # grace "Mm. I'm sleepy, can you go, I need to take a nap."
-    grace "Mm. Em buồn ngủ, anh có thể đi rồi, em cần phải ngủ một giấc."
+    grace "Mm. Em buồn ngủ, anh có thể đi rồi, em cần phải ngủ một giấc đã."
 
 # game/characters/grace/ev_7.rpy:150
 translate vietnamese grace_7_1a_fca811a5:

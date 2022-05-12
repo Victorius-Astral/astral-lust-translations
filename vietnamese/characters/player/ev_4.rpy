@@ -860,5 +860,4 @@ translate vietnamese strings:
 
     # game/characters/player/ev_4.rpy:12
     old "Enter"
-    new "Enter"
-
+    new "Đi vào"

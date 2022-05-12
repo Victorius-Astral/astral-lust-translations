@@ -56,3 +56,11 @@
     old "\nNeeds restart."
     new "\n需要重启。"
 
+# TODO: Translation updated at 2022-05-11 14:54
+
+translate chinese strings:
+
+    # game/screens/settings/video.rpy:56
+    old "Main Menu Images"
+    new "Main Menu Images"
+

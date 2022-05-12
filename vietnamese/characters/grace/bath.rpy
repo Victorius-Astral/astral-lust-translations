@@ -473,5 +473,4 @@ translate vietnamese strings:
 
     # game/characters/grace/bath.rpy:15
     old "What does she think of you?"
-    new "What does she think of you?"
-
+    new "Cô ấy nghĩ gì về bạn?"

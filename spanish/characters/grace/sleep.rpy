@@ -1552,43 +1552,43 @@ translate spanish strings:
     # game/characters/grace/sleep.rpy:510
     old "Ask her to change [[{cha}Charisma{/cha}] {#visible}"
     new "Pídele que se cambie [[{cha}Carisma{/cha}] {#visible}"
-# TODO: Translation updated at 2022-04-23 12:54
+# : Translation updated at 2022-04-23 12:54
 
 # game/characters/grace/sleep.rpy:509
 translate spanish sleep_grace_feet_wakeup_success_dfd3e757:
 
     # me "Could you show me your titties?"
-    me "Could you show me your titties?"
+    me "¿Podrías mostrarme tus tetitas?"
 
 # game/characters/grace/sleep.rpy:510
 translate spanish sleep_grace_feet_wakeup_success_006dd55f:
 
     # grace "Why?"
-    grace "Why?"
+    grace "¿Por qué?"
 
 # game/characters/grace/sleep.rpy:511
 translate spanish sleep_grace_feet_wakeup_success_d262f08f:
 
     # me "They're really pretty and I like seeing them."
-    me "They're really pretty and I like seeing them."
+    me "Son muy lindas, y me gusta verlas."
 
 # game/characters/grace/sleep.rpy:517
 translate spanish sleep_grace_feet_wakeup_success_937b40ef:
 
     # th "Wow, you're really simple to please."
-    th "Wow, you're really simple to please."
+    th "Wow, eres tan fácil de complacer."
 
 # game/characters/grace/sleep.rpy:536
 translate spanish sleep_grace_feet_wakeup_success_644ab18b:
 
     # me "Just take of your pajamas, and put on the over knee socks. It's not a lot of work. I'm sure you can do it for me."
-    me "Just take of your pajamas, and put on the over knee socks. It's not a lot of work. I'm sure you can do it for me."
+    me "Simplemente quítate el pijama y ponte los calcetines por encima de la rodilla. No es mucho trabajo. Estoy seguro de que puedes hacerlo por mí..."
 
 # game/characters/grace/sleep.rpy:555
 translate spanish sleep_grace_feet_wakeup_success_ef8296eb:
 
     # th "Wow.."
-    th "Wow.."
+    th "Wow..."
 
 # game/characters/grace/sleep.rpy:576
 translate spanish sleep_grace_feet_wakeup_success_baf8f4db_1:
@@ -1600,11 +1600,10 @@ translate spanish sleep_grace_feet_wakeup_success_baf8f4db_1:
 translate spanish sleep_grace_feet_wakeup_success_bf93d14b:
 
     # th "Haha, what a cutie."
-    th "Haha, what a cutie."
+    th "Haha, qué lindura."
 
 # game/characters/grace/sleep.rpy:650
 translate spanish sleep_grace_feet_wakeup_success2_1547105b:
 
     # me "I wiped it already, though."
-    me "I wiped it already, though."
-
+    me "Aunque ya lo limpié."

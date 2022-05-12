@@ -10,7 +10,7 @@ translate vietnamese grace_9_50e318ba:
 translate vietnamese grace_9_7e643fc5:
 
     # me "I have one. So, do you like them?"
-    me "Tôi có một bông. Thế, em có thích chúng không?"
+    me "Anh có một bông. Thế, em có thích chúng không?"
 
 # game/characters/grace/ev_9.rpy:15
 translate vietnamese grace_9_7861d917:
@@ -106,7 +106,7 @@ translate vietnamese grace_9_1c28c67e:
 translate vietnamese grace_9_d2c06c78:
 
     # me "You need to pay for it."
-    me "Bạn cần phải trả xiền cho nó."
+    me "Em cần phải trả xiền cho nó."
 
 # game/characters/grace/ev_9.rpy:56
 translate vietnamese grace_9_fdb4e830:
@@ -172,7 +172,7 @@ translate vietnamese grace_9_8445ca29:
 translate vietnamese grace_9_35d3c7ed:
 
     # grace "Never! Ever!! Forever!!!"
-    grace "Không bao giờ! Bao giờ!! Mãi mãi!!!"
+    grace "Không! Bao giờ!! Không!!!"
 
 # game/characters/grace/ev_9.rpy:83
 translate vietnamese grace_9_cd96fc7b:
@@ -184,7 +184,7 @@ translate vietnamese grace_9_cd96fc7b:
 translate vietnamese grace_9_1e5ae328:
 
     # me "It'll be good for you."
-    me "Nó sẽ tốt cho em."
+    me "Nó sẽ tốt cho em thôi."
 
 # game/characters/grace/ev_9.rpy:89
 translate vietnamese grace_9_d660f030:
@@ -232,7 +232,7 @@ translate vietnamese grace_9_7402cda2:
 translate vietnamese grace_9_645ff2df:
 
     # me "You want to feel even better?"
-    me "Bạn muốn cảm thấy tốt hơn nữa chứ?"
+    me "Em muốn cảm thấy tốt hơn nữa chứ?"
 
 # game/characters/grace/ev_9.rpy:97
 translate vietnamese grace_9_c909e0ea:
@@ -244,7 +244,7 @@ translate vietnamese grace_9_c909e0ea:
 translate vietnamese grace_9_d964df35:
 
     # me "You want to keep this rose, right?"
-    me "Em muốn giữ bông hồng này, phải không?"
+    me "Em muốn giữ bông hoa này, phải không?"
 
 # game/characters/grace/ev_9.rpy:99
 translate vietnamese grace_9_10c0cced:
@@ -256,7 +256,7 @@ translate vietnamese grace_9_10c0cced:
 translate vietnamese grace_9_2d95fe1e:
 
     # me "So there is no reason to deny me, right?"
-    me "Vì vậy, không có lý do gì để từ chối anh đúng không?"
+    me "Vì vậy nên, em chả có lý do gì để từ chối anh đúng không?"
 
 # game/characters/grace/ev_9.rpy:101
 translate vietnamese grace_9_fdb4e830_2:
@@ -310,7 +310,7 @@ translate vietnamese grace_9_7c37bcff:
 translate vietnamese grace_9_1021deed:
 
     # me "They never hurt you, right?"
-    me "Họ chưa bao giờ làm tổn thương em, phải không?"
+    me "Họ chưa bao giờ làm tổn thương em mà, phải không?"
 
 # game/characters/grace/ev_9.rpy:114
 translate vietnamese grace_9_e490cf8e:
@@ -364,7 +364,7 @@ translate vietnamese grace_9_5c409298:
 translate vietnamese grace_9_e94c2895:
 
     # grace "Turn around."
-    grace "Quay lại."
+    grace "Quay ra sau đi."
 
 # game/characters/grace/ev_9.rpy:131
 translate vietnamese grace_9_ccae145a:
@@ -762,13 +762,13 @@ translate vietnamese grace_9_bb4f74f8:
 translate vietnamese grace_9_8a0cd003:
 
     # me "I have one. So, do you like them?" id grace_9_8a0cd003
-    me "I have one. So, do you like them?" id grace_9_8a0cd003
+    me "Anh có một bông này. Em có thích chúng không?" id grace_9_8a0cd003
 
 # game/characters/grace/ev_9.rpy:22
 translate vietnamese grace_9_fe58fbd3:
 
     # me "Easy there." id grace_9_fe58fbd3
-    me "Easy there." id grace_9_fe58fbd3
+    me "Cứ bình tĩnh." id grace_9_fe58fbd3
 
 # game/characters/grace/ev_9.rpy:33
 translate vietnamese grace_9_ad6fdc02:
@@ -780,41 +780,40 @@ translate vietnamese grace_9_ad6fdc02:
 translate vietnamese grace_9_c5b6524a:
 
     # th "What's with her today?" id grace_9_c5b6524a
-    th "What's with her today?" id grace_9_c5b6524a
+    th "Em ấy hôm nay bị sao vậy?" id grace_9_c5b6524a
 
 # game/characters/grace/ev_9.rpy:170
 translate vietnamese grace_9_acabccc3:
 
     # th "Oh, I never had any doubt about that." id grace_9_acabccc3
-    th "Oh, I never had any doubt about that." id grace_9_acabccc3
+    th "Ồ, mình chưa bao giờ nghi ngờ về điều đó." id grace_9_acabccc3
 
 # game/characters/grace/ev_9.rpy:177
 translate vietnamese grace_9_e077852e:
 
     # "A loud moan immediately escapes her mouth." id grace_9_e077852e
-    "A loud moan immediately escapes her mouth." id grace_9_e077852e
+    "Một tiếng rên lớn ngay lập tức tuột ra khỏi miệng cô ấy." id grace_9_e077852e
 
 # game/characters/grace/ev_9.rpy:178
 translate vietnamese grace_9_dc9350ab:
 
     # th "Wow, it seems she's much more eager than she would want to show." id grace_9_dc9350ab
-    th "Wow, it seems she's much more eager than she would want to show." id grace_9_dc9350ab
+    th "Wow, có vẻ như em ấy háo hức hơn nhiều so với những gì em ấy muốn thể hiện." id grace_9_dc9350ab
 
 # game/characters/grace/ev_9.rpy:199
 translate vietnamese grace_9_43caf63a:
 
     # me "Don't worry, I won't hurt you." id grace_9_43caf63a
-    me "Don't worry, I won't hurt you." id grace_9_43caf63a
+    me "Đừng lo, anh sẽ không làm tổn thương em đâu." id grace_9_43caf63a
 
 # game/characters/grace/ev_9.rpy:202
 translate vietnamese grace_9_c32deeff:
 
     # me "Shhh.. don't talk, enjoy." id grace_9_c32deeff
-    me "Shhh.. don't talk, enjoy." id grace_9_c32deeff
+    me "Shhh.. đừng nói chuyện, hãy tận hưởng đi." id grace_9_c32deeff
 
 # game/characters/grace/ev_9.rpy:233
 translate vietnamese grace_9_b657a664:
 
     # th "One final look. Shit, she's gorgeous.." id grace_9_b657a664
-    th "One final look. Shit, she's gorgeous.." id grace_9_b657a664
-
+    th "Một cái nhìn cuối. Đù, em ấy nhìn mlem quá.." id grace_9_b657a664

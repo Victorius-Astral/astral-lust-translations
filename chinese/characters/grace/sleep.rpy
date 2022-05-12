@@ -1542,3 +1542,59 @@ translate chinese strings:
     old "Ask her to change [[{cha}Charisma{/cha}] {#visible}"
     new "Ask her to change [[{cha}Charisma{/cha}] {#visible}"
 
+# TODO: Translation updated at 2022-05-11 14:54
+
+# game/characters/grace/sleep.rpy:509
+translate chinese sleep_grace_feet_wakeup_success_dfd3e757:
+
+    # me "Could you show me your titties?"
+    me "Could you show me your titties?"
+
+# game/characters/grace/sleep.rpy:510
+translate chinese sleep_grace_feet_wakeup_success_006dd55f:
+
+    # grace "Why?"
+    grace "Why?"
+
+# game/characters/grace/sleep.rpy:511
+translate chinese sleep_grace_feet_wakeup_success_d262f08f:
+
+    # me "They're really pretty and I like seeing them."
+    me "They're really pretty and I like seeing them."
+
+# game/characters/grace/sleep.rpy:517
+translate chinese sleep_grace_feet_wakeup_success_937b40ef:
+
+    # th "Wow, you're really simple to please."
+    th "Wow, you're really simple to please."
+
+# game/characters/grace/sleep.rpy:536
+translate chinese sleep_grace_feet_wakeup_success_644ab18b:
+
+    # me "Just take of your pajamas, and put on the over knee socks. It's not a lot of work. I'm sure you can do it for me."
+    me "Just take of your pajamas, and put on the over knee socks. It's not a lot of work. I'm sure you can do it for me."
+
+# game/characters/grace/sleep.rpy:555
+translate chinese sleep_grace_feet_wakeup_success_ef8296eb:
+
+    # th "Wow.."
+    th "Wow.."
+
+# game/characters/grace/sleep.rpy:576
+translate chinese sleep_grace_feet_wakeup_success_baf8f4db_1:
+
+    # grace "Hehe~"
+    grace "Hehe~"
+
+# game/characters/grace/sleep.rpy:577
+translate chinese sleep_grace_feet_wakeup_success_bf93d14b:
+
+    # th "Haha, what a cutie."
+    th "Haha, what a cutie."
+
+# game/characters/grace/sleep.rpy:650
+translate chinese sleep_grace_feet_wakeup_success2_1547105b:
+
+    # me "I wiped it already, though."
+    me "I wiped it already, though."
+

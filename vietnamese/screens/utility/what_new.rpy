@@ -231,7 +231,7 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:183
     old "{b}Kiara event{/b}"
-    new "{b}Kiara event{/b}"
+    new "{b}Sự kiện của Kiara{/b}"
 
     # game/screens/utility/what_new.rpy:184
     old "Kiara got new story event explaining the creation myth believed by extraordinary beings. Don't forget to have fun afterwards, 6 new sex scenes, 3 new outfits, and almost 300 animations! Have you ever banged a girl with your clone?"
@@ -294,7 +294,7 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:210
     old "Oh no! Our baby girl had a nightmare! We need to protect her in the warmth of our arms :) Be a good person and let Gracie stay. Can you find the hidden secret in this event? For a tip, this event has a few variations, seeing it once is not enough to see everything and find the secret. It's best if you don't save for an hour before finding the secret :)"
-    new "Ôi không! Bé gái của chúng ta đã gặp phải một cơn ác mộng! Chúng ta cần phải bảo vệ cô ấy trong vòng tay ấm áp của chúng ta :) Hãy là một người tốt và hãy để Gracie ở lại. Bạn có thể tìm ra bí mật ẩn trong sự kiện này không? Một cái mẹo nhỏ này, sự kiện này có một vài biến thể, nhìn thấy nó một lần là không đủ để xem tất cả mọi thứ và tìm ra bí mật. Tốt nhất bạn không nên tiết kiệm cả tiếng đồng hồ trước khi tìm ra bí mật :)"
+    new "Ôi không! Cô gái bé bỏng của chúng ta đã gặp phải một cơn ác mộng! Chúng ta cần phải bảo vệ cô ấy trong vòng tay ấm áp của chúng ta :) Hãy là một người tốt và hãy để Gracie ở lại. Bạn có thể tìm ra bí mật ẩn trong sự kiện này không? Một cái mẹo nhỏ này, sự kiện này có một vài biến thể, nhìn thấy nó một lần là không đủ để xem tất cả mọi thứ và tìm ra bí mật. Tốt nhất bạn không nên lưu game tiếng đồng hồ trước khi tìm ra bí mật :)"
 
     # game/screens/utility/what_new.rpy:221
     old "{b}GUI 2.0{/b}"
@@ -313,9 +313,8 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:60
     old "{u}What's New{/u}"
-    new "{u}What's New{/u}"
+    new "{u}Có Gì Mới{/u}"
 
     # game/screens/utility/what_new.rpy:68
     old "Click outside to close this window, it can be entered again from the pc."
-    new "Click outside to close this window, it can be entered again from the pc."
-
+    new "Nhấp vào bên ngoài để đóng cửa sổ này, bạn vẫn có thể vào lại chỗ này thông qua pc."

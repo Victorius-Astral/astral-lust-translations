@@ -468,3 +468,11 @@ translate chinese strings:
     old "Hate"
     new "Hate"
 
+# TODO: Translation updated at 2022-05-11 14:54
+
+translate chinese strings:
+
+    # game/characters/grace/bath.rpy:15
+    old "What does she think of you?"
+    new "What does she think of you?"
+

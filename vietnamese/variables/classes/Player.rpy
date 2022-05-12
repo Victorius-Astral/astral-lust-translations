@@ -12,15 +12,15 @@ translate vietnamese strings:
 
     # game/variables/classes/Player.rpy:278
     old "Health +30.\nSanity +5%"
-    new "Máu +30.\nSự tỉnh táo +5%"
+    new "Máu +30.\nĐộ tỉnh táo +5%"
 
     # game/variables/classes/Player.rpy:299
     old "Sanity + {}% \nCurrent sanity: {}%"
-    new "Sự tỉnh táo + {}% \nSự tỉnh táo hiện có: {}%"
+    new "Độ tỉnh táo + {}% \nĐộ tỉnh táo hiện có: {}%"
 
     # game/variables/classes/Player.rpy:303
     old "Sanity - {}% \nCurrent sanity: {}%"
-    new "Sự tỉnh táo - {}% \nSự tỉnh táo hiện có: {}%"
+    new "Độ tỉnh táo - {}% \nĐộ tỉnh táo hiện có: {}%"
 
     # game/variables/classes/Player.rpy:327
     old "Corruption + {}% \nCurrent corruption: {}%"
@@ -32,7 +32,7 @@ translate vietnamese strings:
 
     # game/variables/classes/Player.rpy:336
     old "Killed a human:\nCorruption + {}% \nSanity - {}% \n\nCurrent corruption: {}% \nCurrent sanity: {}%"
-    new "Giết một con người:\nSự sa đọa + {}% \nSự tỉnh táo - {}% \n\nSự sa đọa hiện có: {}% \nSự tỉnh táo hiện có: {}%"
+    new "Giết một con người:\nSự sa đọa + {}% \nĐộ tỉnh táo - {}% \n\nSự sa đọa hiện có: {}% \nĐộ tỉnh táo hiện có: {}%"
 # TODO: Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:

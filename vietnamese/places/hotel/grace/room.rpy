@@ -17,11 +17,10 @@ translate vietnamese room_hotel_grace_3f723f72:
 translate vietnamese room_hotel_grace_f8bb8e20:
 
     # me "{small}Are you a dog?{/small}"
-    me "{small}Are you a dog?{/small}"
+    me "{small}Em là chó hay gì vậy?{/small}"
 
 # game/places/hotel/grace/room.rpy:11
 translate vietnamese room_hotel_grace_99b9d8b4:
 
     # th "Seems she still remembers the last time.."
-    th "Seems she still remembers the last time.."
-
+    th "Có vẻ như em ấy vẫn nhớ lần trước.."

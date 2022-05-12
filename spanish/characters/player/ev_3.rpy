@@ -247,3 +247,10 @@ translate spanish strings:
     # game/characters/player/ev_3.rpy:77
     old "I can resurrect through a blessing of Throdog R'luhhor. It comes with a price, though."
     new "Puedo resucitar a través de una bendición de Throdog R'luhhor. Aunque viene con un precio."
+# : Translation updated at 2022-05-02 20:35
+
+# game/characters/player/ev_3.rpy:16
+translate spanish main_3_b4945b52:
+
+    # "The voice sounds as if it's coming from a young man, yet it's ancient. The voice is ethereal, entirely out of this world, and you can feel deep down that it hides unspeakable horrors. It drills into your head, trying to bore further into your mind."
+    "La voz suena como si viniera de un hombre joven, y aún así es antigua. La voz es etérea, completamente fuera de este mundo, y puedes sentir en el fondo de ti mismo que esconde horrores indescriptibles. Taladra en tu cabeza, tratando de perforar más en tu mente."

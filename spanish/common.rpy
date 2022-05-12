@@ -424,7 +424,7 @@ translate spanish strings:
 
     # renpy/common/00gui.rpy:379
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "¿Seguro que quiere volver al men'u principal?\nEsto perderá progreso no guardado."
+    new "¿Seguro que quiere volver al menú principal?\nEsto perderá progreso no guardado."
 
     # renpy/common/00gui.rpy:380
     old "Are you sure you want to end the replay?"

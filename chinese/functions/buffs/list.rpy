@@ -22,3 +22,15 @@ translate chinese strings:
     old "Battle start"
     new "Battle start"
 
+# TODO: Translation updated at 2022-05-11 14:54
+
+translate chinese strings:
+
+    # game/functions/buffs/list.rpy:5
+    old "Sugar Frenzy"
+    new "Sugar Frenzy"
+
+    # game/functions/buffs/list.rpy:5
+    old "Get {amount:+} spirituality each turn."
+    new "Get {amount:+} spirituality each turn."
+

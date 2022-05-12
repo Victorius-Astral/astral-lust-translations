@@ -236,3 +236,23 @@
     old "Group - Threesome - Two Females"
     new "群交 - 3P - 一男两女"
 
+# TODO: Translation updated at 2022-05-11 14:54
+
+translate chinese strings:
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Kiss - Sitting"
+    new "Kiss - Sitting"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Vaginal - Reverse Doggy"
+    new "Vaginal - Reverse Doggy"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Vaginal - Facing each Other"
+    new "Vaginal - Facing each Other"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Rubbing - Cowgirl"
+    new "Rubbing - Cowgirl"
+

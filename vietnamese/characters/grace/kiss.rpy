@@ -2014,7 +2014,7 @@ translate vietnamese grace_kiss_bad_end_fe250379:
 translate vietnamese grace_kiss_bad_end_feca3543:
 
     # me "This place.. Where is it?"
-    me "Nơi này ... Nó ở đâu?"
+    me "Nơi này... Đây là đâu?"
 
 # game/characters/grace/kiss.rpy:999
 translate vietnamese grace_kiss_bad_end_2553a9b1:
@@ -2056,13 +2056,13 @@ translate vietnamese grace_kiss_bad_end_b79cb2c9:
 translate vietnamese grace_kiss_bad_end_890a3924:
 
     # me "What does it have with you?"
-    me "Chuyện đéo gì với ông vậy?"
+    me "Ông bị cái đéo gì vậy?"
 
 # game/characters/grace/kiss.rpy:1012
 translate vietnamese grace_kiss_bad_end_35520597:
 
     # victorius "I've warned you before, [me]."
-    victorius "Tao đã cảnh báo từ đầu game rồi [me]. Cái đầu óc của mày lúc nào cũng rất là đồi trụy, mày chỉ biết nghĩ đến vú vú địt địt thôi à? Sao mày không nghĩ đến một thế giới văn minh, một cái ôm, một nụ cười?"
+    victorius "Tao đã cảnh báo từ đầu rồi [me]. Cái đầu óc của mày lúc nào cũng rất là đồi trụy, mày chỉ biết nghĩ đến vú vú địt địt thôi à? Sao mày không nghĩ đến một thế giới văn minh, một cái ôm, một nụ cười?"
 
 # game/characters/grace/kiss.rpy:1013
 translate vietnamese grace_kiss_bad_end_18dc5c83:
@@ -2092,13 +2092,13 @@ translate vietnamese grace_kiss_bad_end_3cd89fc6:
 translate vietnamese grace_kiss_bad_end_895ed079:
 
     # "'His' hand are like steel pincers, clutching your throat, depriving you of ability to breathe."
-    "'Bàn tay của hắn giống như những cái gọng thép, ôm chặt lấy cổ họng bạn, khiến bạn mất khả năng thở."
+    "'Bàn tay của hắn giống như những cái gọng thép, ôm chặt lấy cổ họng bạn, khiến bạn nghẹt thở."
 
 # game/characters/grace/kiss.rpy:1022
 translate vietnamese grace_kiss_bad_end_718a439c:
 
     # victorius "This in not your place to comment, child. Scram."
-    victorius "Đây không phải chỗ cho mày nói đâu nhok ác. Cút ra ngoài"
+    victorius "Đây không phải chỗ cho mày nói đâu nhóc ác. Cút ra ngoài"
 
 # game/characters/grace/kiss.rpy:1023
 translate vietnamese grace_kiss_bad_end_5f9b772e:
@@ -2110,7 +2110,7 @@ translate vietnamese grace_kiss_bad_end_5f9b772e:
 translate vietnamese grace_kiss_bad_end_1a8455ce:
 
     # victorius "I said {loud}SCRAM!!{/loud}"
-    victorius "Tao nói Địt mẹ {loud}Cút ra ngoài!!{/loud}"
+    victorius "Tao nói {loud}Cút ra ngoài!!{/loud}"
 
 # game/characters/grace/kiss.rpy:1027
 translate vietnamese grace_kiss_bad_end_1cf2df39:
@@ -2134,7 +2134,7 @@ translate vietnamese grace_kiss_bad_end_6e9fce2e:
 translate vietnamese grace_kiss_bad_end_8a95a1be:
 
     # victorius "Ah, yes. You see, this girl is kind of a daughter to me."
-    victorius "Ah, Đúng rồi. Ông thấy đấy, cô gái này là một người con gái đối với tôi vậy."
+    victorius "Ah, Đúng rồi. Ông thấy đấy, đối với tôi cô gái này giống như là một người con gái vậy."
 
 # game/characters/grace/kiss.rpy:1035
 translate vietnamese grace_kiss_bad_end_ae4e23c2:
@@ -2206,7 +2206,7 @@ translate vietnamese grace_kiss_bad_end_7ccc07a5:
 translate vietnamese grace_kiss_bad_end_8fd7a8cc:
 
     # me "What the hell is this? Some portal?"
-    me "Cái đéo gì đây? Một cái cổng nào đó?"
+    me "Cái đéo gì đây? Một cái cổng nào đó à?"
 
 # game/characters/grace/kiss.rpy:1070
 translate vietnamese grace_kiss_bad_end_49c9ceef:
@@ -2260,13 +2260,13 @@ translate vietnamese grace_kiss_night_cor3_fea83bf0:
 translate vietnamese grace_kiss_night_cor3_3ef78e77:
 
     # grace "Will it make you feel better?"
-    grace "Nó sẽ làm cho anh cảm thấy tốt hơn?"
+    grace "Nó sẽ làm cho anh cảm thấy tốt hơn chứ?"
 
 # game/characters/grace/kiss.rpy:1106
 translate vietnamese grace_kiss_night_cor3_b375a002:
 
     # me "{mad}Definitely.{/mad}"
-    me "{mad}Chắc chắn.{/mad}"
+    me "{mad}Tất nhiên rồi.{/mad}"
 
 # game/characters/grace/kiss.rpy:1109
 translate vietnamese grace_kiss_night_cor3_22dcd2ee:

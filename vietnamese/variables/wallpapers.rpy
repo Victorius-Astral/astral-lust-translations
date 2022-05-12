@@ -60,23 +60,23 @@ translate vietnamese strings:
 
     # game/variables/wallpapers.rpy:110
     old "Mar 2021 1"
-    new "Tháng ba 2021 1"
+    new "Tháng ba 2021 1"
 
     # game/variables/wallpapers.rpy:116
     old "Mar 2021 2"
-    new "Tháng ba 2021 2"
+    new "Tháng ba 2021 2"
 
     # game/variables/wallpapers.rpy:122
     old "Mar 2021 3"
-    new "Tháng ba 2021 3"
+    new "Tháng ba 2021 3"
 
     # game/variables/wallpapers.rpy:128
     old "Mar 2021 4"
-    new "Tháng ba 2021 4"
+    new "Tháng ba 2021 4"
 
     # game/variables/wallpapers.rpy:134
     old "Mar 2021 5"
-    new "Tháng ba 2021 5"
+    new "Tháng ba 2021 5"
 
     # game/variables/wallpapers.rpy:140
     old "Apr 2021 1"

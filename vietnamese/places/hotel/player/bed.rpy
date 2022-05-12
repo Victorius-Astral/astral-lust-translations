@@ -114,7 +114,7 @@ translate vietnamese strings:
 
     # game/places/hotel/player/bed.rpy:41
     old "Health + 5, Sanity + 2%"
-    new "Máu + 5, Sự tỉnh táo + 2%"
+    new "Máu + 5, Độ tỉnh táo + 2%"
 
     # game/places/hotel/player/bed.rpy:133
     old "Pull the trigger"

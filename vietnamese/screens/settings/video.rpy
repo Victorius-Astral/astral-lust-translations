@@ -73,3 +73,11 @@ translate vietnamese strings:
     # game/screens/settings/video.rpy:74
     old "\nNeeds restart."
     new "\nCần khởi động lại."
+# TODO: Translation updated at 2022-05-11 01:55
+
+translate vietnamese strings:
+
+    # game/screens/settings/video.rpy:56
+    old "Main Menu Images"
+    new "Main Menu Images"
+

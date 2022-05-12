@@ -208,7 +208,7 @@ translate vietnamese kiara_1_1_04ae7123:
 translate vietnamese kiara_1_1_9172d0bc:
 
     # kiara "That's to be expected, the human mind can't possibly remain completely unaffected after revival."
-    kiara "Điều đó là tự nhiên, tâm trí con người sẽ bị ảnh hưởng sau khi hồi sinh."
+    kiara "Đó là điều tự nhiên thôi, tâm trí con người sẽ bị ảnh hưởng sau khi được hồi sinh."
 
 # game/characters/kiara/ev_1.rpy:65
 translate vietnamese kiara_1_1_213af00f:

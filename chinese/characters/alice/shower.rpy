@@ -828,3 +828,11 @@ translate chinese strings:
     old "Cover her face in semen"
     new "Cover her face in semen"
 
+# TODO: Translation updated at 2022-05-11 14:54
+
+translate chinese strings:
+
+    # game/characters/alice/shower.rpy:61
+    old "That's all"
+    new "That's all"
+

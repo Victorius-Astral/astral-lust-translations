@@ -242,5 +242,24 @@ translate vietnamese strings:
 
     # game/variables/lists/sexpos.rpy:3
     old "Footjob - Sleeping"
-    new "Footjob - Sleeping"
+    new "Footjob - Ngủ"
 
+# TODO: Translation updated at 2022-05-11 01:55
+
+translate vietnamese strings:
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Kiss - Sitting"
+    new "Hôn - Ngồi"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Vaginal - Reverse Doggy"
+    new "Âm hộ - Doggy Ngược"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Vaginal - Facing each Other"
+    new "Âm hộ - Mặt đối mặt"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Rubbing - Cowgirl"
+    new "Cọ xát - Cowgirl"

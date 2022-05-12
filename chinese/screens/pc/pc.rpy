@@ -36,3 +36,11 @@
     old "|{#pcSeparator}"
     new "|{#pcSeparator}"
 
+# TODO: Translation updated at 2022-05-11 14:54
+
+translate chinese strings:
+
+    # game/screens/pc/pc.rpy:3
+    old "Hollow Market"
+    new "Hollow Market"
+

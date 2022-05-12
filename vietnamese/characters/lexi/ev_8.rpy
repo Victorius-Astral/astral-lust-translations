@@ -214,7 +214,7 @@ translate vietnamese lexi_8_21db6883:
 translate vietnamese lexi_8_82aeea4b:
 
     # "Half an hour later, you walk through the fog with [lexi] in the lead."
-    "Nửa giờ sau, bạn đi qua sương mù với đang [lexi] dẫn đầu."
+    "Nửa tiếng sau, bạn đi qua sương mù với đang [lexi] dẫn đầu."
 
 # game/characters/lexi/ev_8.rpy:103
 translate vietnamese lexi_8_d0613a49:
@@ -1142,7 +1142,7 @@ translate vietnamese strings:
 
     # game/characters/lexi/ev_8.rpy:311
     old "Seeker of Wisdom, Eye of Secrets, Keeper of Asthar"
-    new "Kẻ tìm kiếm tri thức, Con mắt của những bí mật, Asthar sử ký giả"
+    new "Kẻ truy cầu tri thức, Con mắt của những bí mật, Asthar sử ký giả"
 
     # game/characters/lexi/ev_8.rpy:311
     old "Fight"
@@ -1161,4 +1161,4 @@ translate vietnamese strings:
 
     # game/characters/lexi/ev_8.rpy:310
     old "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar"
-    new "Kẻ tìm kiếm tri thức, Con mắt của những bí mật, Asthar sử ký giả"
+    new "Kẻ truy cầu tri thức, Con mắt của những bí mật, Asthar sử ký giả"

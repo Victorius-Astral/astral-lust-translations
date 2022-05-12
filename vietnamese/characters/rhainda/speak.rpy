@@ -433,25 +433,25 @@ translate vietnamese strings:
 translate vietnamese speak_rhainda_296c0868:
 
     # rhainda "Are you here to have some fun with yourself, little sister?"
-    rhainda "Are you here to have some fun with yourself, little sister?"
+    rhainda "Em đến đây để tự thẩm với bản thân mình hả em gái?"
 
 # game/characters/rhainda/speak.rpy:16
 translate vietnamese speak_rhainda_4c264667:
 
     # me "I'm a guy.."
-    me "I'm a guy.."
+    me "Anh là con trai mà..."
 
 # game/characters/rhainda/speak.rpy:17
 translate vietnamese speak_rhainda_d2941364:
 
     # th "Besides, what the hell do you mean with yourself?"
-    th "Besides, what the hell do you mean with yourself?"
+    th "Mà, với bản thân là sao?"
 
 # game/characters/rhainda/speak.rpy:21
 translate vietnamese speak_rhainda_623c508e:
 
     # rhainda "Ssssure~"
-    rhainda "Ssssure~"
+    rhainda "Được rồiiii~"
 
 # game/characters/rhainda/speak.rpy:22
 translate vietnamese speak_rhainda_3820771a:
@@ -463,7 +463,7 @@ translate vietnamese speak_rhainda_3820771a:
 translate vietnamese speak_rhainda_d078b758:
 
     # rhainda "Have it your way guy with cute girl's name."
-    rhainda "Have it your way guy with cute girl's name."
+    rhainda "Thế thì theo cách của anh vậy. Chàng trai với cái tên con gái."
 
 # game/characters/rhainda/speak.rpy:24
 translate vietnamese speak_rhainda_3820771a_1:
@@ -475,43 +475,43 @@ translate vietnamese speak_rhainda_3820771a_1:
 translate vietnamese speak_rhainda_91e9d8c4:
 
     # rhainda "Do you know you have female name?"
-    rhainda "Do you know you have female name?"
+    rhainda "Anh có biết là anh có tên của con gái không?"
 
 # game/characters/rhainda/speak.rpy:32
 translate vietnamese speak_rhainda_b866ac52:
 
     # me "It's not."
-    me "It's not."
+    me "Không phải."
 
 # game/characters/rhainda/speak.rpy:36
 translate vietnamese speak_rhainda_be3866d7:
 
     # rhainda "On top of this it's just like my name."
-    rhainda "On top of this it's just like my name."
+    rhainda "Trên hết, nó giống như tên của em vậy."
 
 # game/characters/rhainda/speak.rpy:37
 translate vietnamese speak_rhainda_761245b8:
 
     # me "And?"
-    me "And?"
+    me "Và?"
 
 # game/characters/rhainda/speak.rpy:38
 translate vietnamese speak_rhainda_868fad9f:
 
     # rhainda "Whelp.. It's awkward."
-    rhainda "Whelp.. It's awkward."
+    rhainda "Chà... nó khá là ngượng."
 
 # game/characters/rhainda/speak.rpy:39
 translate vietnamese speak_rhainda_9725c968:
 
     # me "Nah, you're imagining things."
-    me "Nah, you're imagining things."
+    me "Làm gì, em chỉ đang tưởng tượng thôi."
 
 # game/characters/rhainda/speak.rpy:40
 translate vietnamese speak_rhainda_7438e7ce:
 
     # rhainda "Do I?"
-    rhainda "Do I?"
+    rhainda "Vậy sao?"
 
 # game/characters/rhainda/speak.rpy:41
 translate vietnamese speak_rhainda_a9a4605d:
@@ -523,11 +523,10 @@ translate vietnamese speak_rhainda_a9a4605d:
 translate vietnamese speak_rhainda_1afc1c64:
 
     # rhainda "Anyway, making fun of you for having girl's name will soothe me~"
-    rhainda "Anyway, making fun of you for having girl's name will soothe me~"
+    rhainda "Dù sao thì, cà khịa anh vì anh có một cái nữ tính sẽ giúp xoa dịu em~"
 
 # game/characters/rhainda/speak.rpy:46
 translate vietnamese speak_rhainda_3820771a_2:
 
     # me "..."
     me "..."
-

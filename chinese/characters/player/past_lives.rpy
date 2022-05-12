@@ -644,3 +644,11 @@ translate chinese strings:
     old "I love someone else"
     new "I love someone else"
 
+# TODO: Translation updated at 2022-05-11 14:54
+
+translate chinese strings:
+
+    # game/characters/player/past_lives.rpy:98
+    old "Grace"
+    new "Grace"
+

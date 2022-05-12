@@ -1137,3 +1137,15 @@ translate vietnamese strings:
     # renpy/common/_errorhandling.rpym:671
     old "Parsing the script failed."
     new "Parsing the script failed."
+# TODO: Translation updated at 2022-05-11 01:55
+
+translate vietnamese strings:
+
+    # renpy/common/00preferences.rpy:453
+    old "gl framerate"
+    new "gl framerate"
+
+    # renpy/common/00gltest.rpy:173
+    old "Framerate"
+    new "Framerate"
+
