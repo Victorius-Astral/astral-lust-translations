@@ -10,7 +10,7 @@ translate vietnamese prologue_2d5764a0:
 translate vietnamese prologue_da2ba235:
 
     # th "Fuck this crunch, it's killing me, I have enough."
-    th "Aiss cái tiếng chết tiệt này, nó sẽ giết chết mình mất, mình chịu quá đủ rồi."
+    th "Cái tiếng chết tiệt này, nó sẽ giết chết mình mất, mình chịu quá đủ rồi."
 
 # game/events/special/prologue.rpy:22
 translate vietnamese prologue_c1da38cf:
@@ -142,7 +142,7 @@ translate vietnamese prologue_38fdc928:
 translate vietnamese prologue_cac5d863:
 
     # me "Stop, please, stop! Ahhh!! My head- It's gonna split!"
-    me "Dừng lại di, làm ơn! Aaaaa!! Đầu mình- nổ tung mất!"
+    me "Dừng lại đi, làm ơn! Aaaaa!! Đầu mình- nổ tung mất!"
 
 # game/events/special/prologue.rpy:79
 translate vietnamese prologue_fb1e8f4f:
@@ -430,7 +430,7 @@ translate vietnamese prologue_b8a7df1f:
 translate vietnamese prologue_31691fb7:
 
     # me "Listen, I know it might sound unbelievable, but.. I had an accident. The next thing I remember is that I woke up here just a minute ago."
-    me "Nghe này, anh biết điều này nghe có vẻ khó tin, nhưng... anh đã gặp tai nạn. Điều tiếp theo anh nhớ là mình đã thức dậy ở đây chỉ một phút trước."
+    me "này, anh biết điều này nghe có vẻ khó tin, nhưng... anh đã gặp tai nạn. Điều tiếp theo anh nhớ là mình đã thức dậy ở đây chỉ một phút trước."
 
 # game/events/special/prologue.rpy:187
 translate vietnamese prologue_3c04646b:
@@ -646,7 +646,7 @@ translate vietnamese prologue_lexi1_e9a26a2f:
 translate vietnamese prologue_lexi1_4b054462:
 
     # lexi "They wander the fog, killing anyone crossing their way."
-    lexi "Chúng lang ở trong màn suong, giết bất cứ ai chạm mặt chúng."
+    lexi "Chúng lang ở trong màn sương, giết bất cứ ai chạm mặt chúng."
 
 # game/events/special/prologue.rpy:268
 translate vietnamese prologue_lexi1_67838a7b:
@@ -688,7 +688,7 @@ translate vietnamese prologue_lexi1_3820771a_1:
 translate vietnamese prologue_lexi1_ed342db5:
 
     # th "What happened with me? It was a year.. A fucking year.."
-    th "Chuyện gì đã xảy ra với mình vậy? Đó là một năm đấy... Một con mẹ nó năm..."
+    th "Chuyện gì đã xảy ra với mình vậy? Là một năm đấy... Một con mẹ nó năm..."
 
 # game/events/special/prologue.rpy:288
 translate vietnamese prologue_lexi1_01d5bc56:
@@ -724,7 +724,7 @@ translate vietnamese prologue_lexi1_ecd768ba:
 translate vietnamese prologue_lexi1_11cfac43:
 
     # lexi "Do you remember the cult?"
-    lexi "Anh còn nhớ về giáo phải khôgn?"
+    lexi "Anh còn nhớ về giáo phái không?"
 
 # game/events/special/prologue.rpy:305
 translate vietnamese prologue_lexi1_94aaf393:
@@ -778,7 +778,7 @@ translate vietnamese prologue_lexi1_55fa7c6c:
 translate vietnamese prologue_lexi1_697c5fdc:
 
     # me "What happened to them?"
-    me "Chuyện gì dã cảy ra với bọn họ?"
+    me "Chuyện gì đã xảy ra với bọn họ vậy?"
 
 # game/events/special/prologue.rpy:320
 translate vietnamese prologue_lexi1_e689c780:
@@ -820,13 +820,13 @@ translate vietnamese prologue_lexi1_b2658a22:
 translate vietnamese prologue_lexi1_ff71bc0e:
 
     # lexi "Titans descended. Some of them the size of a skyscraper. The tremor caused by them walking was enough to make buildings collapse."
-    lexi "Các Titan đã đỏ bộ xuống nơi này. Một trong số chúng có kích thước ngang một tòa tháp chọc trời. Cơn chấn động chúng đi qua đủ để làm sập các tòa nhà."
+    lexi "Các Titan đã đổ bộ xuống nơi này. Một trong số chúng có kích thước ngang với tòa tháp chọc trời. Cơn chấn động chúng đi qua đủ để làm sập các tòa nhà."
 
 # game/events/special/prologue.rpy:327
 translate vietnamese prologue_lexi1_2511b85e:
 
     # lexi "I remember the sound of fighter jets, the explosions, I also remember the fear we all felt as their walk continued unperturbed. Humanity.. We just didn't stand a chance.."
-    lexi "Em vẫn còn nhớ âm thanh của máy bay chiến đấu, tiếng nổ, em cũng nhớ nỗi sợ hãi mà tất cả đều cảm thấy khi bước đi của họ tiếp tục không bị xáo trộn. Nhân loại... Không hề có cơ hội..."
+    lexi "Em vẫn còn nhớ âm thanh của máy bay chiến đấu, tiếng nổ, em cũng nhớ nỗi sợ hãi mà tất cả đều cảm thấy khi bước đi của chúng tiếp tục không bị xáo trộn. Nhân loại... Không hề có cơ hội..."
 
 # game/events/special/prologue.rpy:328
 translate vietnamese prologue_lexi1_3820771a_2:
@@ -1210,7 +1210,7 @@ translate vietnamese prologue_lexi1_3cdbfa0d:
 translate vietnamese prologue_lexi1_2ad217e0:
 
     # lexi "They could have."
-    lexi "Bọn họ đã có thể."
+    lexi "Bọn chúng có thể đấy."
 
 # game/events/special/prologue.rpy:439
 translate vietnamese prologue_lexi1_266e349d:
@@ -1222,7 +1222,7 @@ translate vietnamese prologue_lexi1_266e349d:
 translate vietnamese prologue_lexi1_21918153:
 
     # lexi "No, even if not us, big places like Wanderers Hideout are not something that can be hidden. They don't attack the communities for reasons unknown."
-    lexi "Không, ngay cả khi không phải là bọn em, những nơi lớn như Nơi Trú Ẩn Của Người Du mục không phải là thứ mà có thể được che giấu. CHúng không hề tấn công các cộng đồng vì lý do không xác định nào đó."
+    lexi "Không, ngay cả khi không phải là bọn em, những nơi lớn như Nơi Trú Ẩn Của Người Du mục không phải là thứ mà có thể được che giấu. Chúng không hề tấn công các cộng đồng vì lý do không xác định nào đó."
 
 # game/events/special/prologue.rpy:444
 translate vietnamese prologue_lexi1_7da93777:
@@ -1282,7 +1282,7 @@ translate vietnamese prologue_part2_eabf7230:
 translate vietnamese prologue_part2_3d923cc1:
 
     # me "I don't think I have anything of value, though."
-    me "Anh không nghĩ là trên người mình có gì đnág giá đâu."
+    me "Anh không nghĩ là trên người mình có gì đáng giá đâu."
 
 # game/events/special/prologue.rpy:466
 translate vietnamese prologue_part2_25eb7167:
@@ -1318,7 +1318,7 @@ translate vietnamese prologue_part2_36c9ea56:
 translate vietnamese prologue_part2_ec6867ae:
 
     # lexi "Exactly, genius. You didn't think I would allow you to stay here just like this?"
-    lexi "Chính xác. Anh không nghĩ là em sẽ cho phép anh ở lại đây đơn giản như vậy đâu phải khôgn?"
+    lexi "Chính xác. Anh không nghĩ là em sẽ cho phép anh ở lại đây đơn giản như vậy đâu phải không?"
 
 # game/events/special/prologue.rpy:475
 translate vietnamese prologue_part2_044511bc:
@@ -1348,7 +1348,7 @@ translate vietnamese prologue_part2_711c6011:
 translate vietnamese prologue_part2_df63922d:
 
     # lexi "Go wait outside while I change."
-    lexi "Đợi bên ngoài đi, em pahri thay đồ đã."
+    lexi "Đợi bên ngoài đi, em phải thay đồ đã."
 
 # game/events/special/prologue.rpy:484
 translate vietnamese prologue_part2_fca811a5:
@@ -1414,7 +1414,7 @@ translate vietnamese prologue_part2_735cb64e:
 translate vietnamese prologue_part2_fd65fbb6:
 
     # me "No chance fighting monsters at all?"
-    me "Không có cở may nào để đánh thắng quái vật à?"
+    me "Không có cơ may nào để đánh thắng quái vật à?"
 
 # game/events/special/prologue.rpy:513
 translate vietnamese prologue_part2_df96e621:
@@ -1426,7 +1426,7 @@ translate vietnamese prologue_part2_df96e621:
 translate vietnamese prologue_part2_edb71d86:
 
     # lexi "Many monsters are something humans can fight, be it with tactics, guns or explosives. But some are not something we can handle. It's best to avoid them all."
-    lexi "Nhiều quái vật là thứ mà con người có thể chống lại được, có thể là chiến thuật, súng hoặc chất nổ. Nhưng một số không phải là thứ mà chúng ta có thể xử lý. Tốt nhất nên tránh tất cả."
+    lexi "Nhiều quái vật là thứ mà con người có thể chống lại được, đó có thể là chiến thuật, súng hoặc chất nổ. Nhưng một số không phải là thứ mà chúng ta có thể xử lý. Tốt nhất nên tránh tất cả."
 
 # game/events/special/prologue.rpy:515
 translate vietnamese prologue_part2_dd3543d4:
@@ -1444,13 +1444,13 @@ translate vietnamese prologue_part2_c0c2a854:
 translate vietnamese prologue_part2_91c12c67:
 
     # lexi "There are also cultists."
-    lexi "Ngoài ra cũng có những tên cuồng tín nữa."
+    lexi "Và cũng có những tên cuồng tín nữa."
 
 # game/events/special/prologue.rpy:518
 translate vietnamese prologue_part2_916de1f4:
 
     # me "I guess they're public enemy number one now. Do we fight them like bandits?"
-    me "Anh đoán họ là kẻ thù công khai số một bây giờ. Chúng ta có chiến đấu với chúng như những tên cướp không?"
+    me "Anh đoán chúng là kẻ thù công khai số một bây giờ. Chúng ta có chiến đấu với chúng như những tên cướp không?"
 
 # game/events/special/prologue.rpy:519
 translate vietnamese prologue_part2_8e1ee44d:
@@ -1546,7 +1546,7 @@ translate vietnamese prologue_part2_14eb0e3e:
 translate vietnamese prologue_part2_00ec2452:
 
     # lexi "I think I can beat you till you see stars."
-    lexi "Em nghĩ là mình có thể đánh anh đến mức ba má anh không nhận ra luôn đấy."
+    lexi "Em tự tin là mình có thể đánh anh đến mức ba má anh không nhận ra luôn đấy."
 
 # game/events/special/prologue.rpy:547
 translate vietnamese prologue_part2_3820771a_2:
@@ -1564,7 +1564,7 @@ translate vietnamese prologue_part2_90f30383:
 translate vietnamese prologue_part2_1e5fc67d:
 
     # lexi "This only assures me you don't remember anything. If you knew, you wouldn't think you can call reinforcements."
-    lexi "Điều này chỉ đảm bảo với em rằng anh không nhớ bất cứ thứ gì hết. Nếu anh nhớ, bạn sẽ không nghĩ rằng bạn có thể gọi quân tiếp viện."
+    lexi "Điều này chỉ đảm bảo với em rằng anh không nhớ bất cứ thứ gì hết. Nếu anh nhớ, anh sẽ không nghĩ rằng anh có thể gọi quân tiếp viện đâu."
 
 # game/events/special/prologue.rpy:553
 translate vietnamese prologue_part2_83087c50:
@@ -1576,7 +1576,7 @@ translate vietnamese prologue_part2_83087c50:
 translate vietnamese prologue_part2_89d6ff19:
 
     # lexi "Radio doesn't work, phones don't work too. Everything is in the fog, after we walk for five minutes, you wouldn't even know how to get back."
-    lexi "Đài không hoạt động, điện thoại cũng không hoạt động. Mọi thứ đều chìm trong sương mù, sau khi chúng ta đi bộ được năm phút, anh thậm chí còn không biết đường nào để quay lại luon đấy."
+    lexi "Đài không hoạt động, điện thoại cũng không hoạt động. Mọi thứ đều chìm trong sương mù, sau khi chúng ta đi bộ được năm phút, anh thậm chí còn không biết đường nào để quay lại luôn đấy."
 
 # game/events/special/prologue.rpy:555
 translate vietnamese prologue_part2_0fe73b4c:
@@ -1648,7 +1648,7 @@ translate vietnamese prologue_part2_3efacc5e:
 translate vietnamese prologue_part2_92b66899:
 
     # lexi "For some reason the food doesn't root, and with most population dead, there's no one to eat it all, the food is abundant, but there's only so much we can take with one trip, and every trip means danger."
-    lexi "Vì một lý do nào đó mà thức ăn không hề thối rữa, và phần lớn dân số đã chết, chả có ai để ăn hết đống này cả, thức ăn thì dồi dào, nhưng chúng ta chỉ có thể mang theo một lượng nhỏ trong mỗi chuyến đi, và mỗi chuyến đi đều có nghĩa là nguy hiểm..."
+    lexi "Vì một lý do nào đó mà thức ăn không hề thối rữa, và phần lớn dân số đã chết, chả có ai để ăn hết đống này cả, thức ăn thì dồi dào, nhưng chúng ta chỉ có thể mang theo một lượng nhỏ trong mỗi chuyến đi, và mỗi chuyến đi đều đồng nghĩa với nguy hiểm..."
 
 # game/events/special/prologue.rpy:573
 translate vietnamese prologue_part2_b24524e3:
@@ -2020,7 +2020,7 @@ translate vietnamese prologue_part2_1dc51bce:
 translate vietnamese prologue_part2_a9d4c2a2:
 
     # lexi "Perhaps I got used to this.."
-    lexi "Có lẽ tôi đã quen với điều này rồi..."
+    lexi "Có lẽ em đã quen với điều này rồi..."
 
 # game/events/special/prologue.rpy:678
 translate vietnamese prologue_part2_d396d6e6:
@@ -2158,7 +2158,7 @@ translate vietnamese prologue_part2_4a186f39:
 translate vietnamese prologue_part2_7900e05c:
 
     # lexi "I've seen soldiers try, the result was that a few seconds later the tank was ripped to shreds with the men inside."
-    lexi "Tôi đã thấy những người lính cố làm vậy rồi, kết quả là vài giây sau chiếc xe tăng đã bị xé toạc cùng với những người đàn ông bên trong."
+    lexi "Em đã thấy những người lính cố làm vậy rồi, kết quả là vài giây sau chiếc xe tăng đã bị xé toạc cùng với những người đàn ông bên trong."
 
 # game/events/special/prologue.rpy:732
 translate vietnamese prologue_part2_3820771a_6:
@@ -2170,7 +2170,7 @@ translate vietnamese prologue_part2_3820771a_6:
 translate vietnamese prologue_part2_7526f7ee:
 
     # lexi "Still, the chimera is not even near the titans. I think if a titan wanted to, it could stomp it to death."
-    lexi "Tuy nhiên, chimera thậm chí không ở bằng một góc của những titan đâu. Tôi nghĩ nếu một người khổng lồ muốn, nó có thể bóp chết con chimera đấy."
+    lexi "Tuy nhiên, chimera thậm chí không ở bằng một góc của những titan đâu. Em nghĩ nếu một người khổng lồ muốn, nó có thể bóp chết con chimera đấy."
 
 # game/events/special/prologue.rpy:734
 translate vietnamese prologue_part2_303e0c05:
@@ -2578,7 +2578,7 @@ translate vietnamese prologue_part2_761245b8_1:
 translate vietnamese prologue_part2_39ac0898:
 
     # grace "All men are bad."
-    grace "Tất cra đàn ông đều xấu."
+    grace "Tất cả đàn ông đều xấu."
 
 # game/events/special/prologue.rpy:826
 translate vietnamese prologue_part2_f522e30d:
@@ -2782,7 +2782,7 @@ translate vietnamese prologue_part2_fea1e1ae:
 translate vietnamese prologue_part2_79a1278d:
 
     # th "She will be easier to talk to than [grace]."
-    th "EM ấy sẽ dễ nói chuyện hơn [grace]."
+    th "Em ấy sẽ dễ nói chuyện hơn [grace]."
 
 # game/events/special/prologue.rpy:881
 translate vietnamese prologue_part2_0aae5047:
@@ -2830,7 +2830,7 @@ translate vietnamese prologue_part2_96de8fd2:
 translate vietnamese prologue_part2_73f8f5b3:
 
     # lexi "I'll tell everyone at lunch."
-    lexi "Chị sẽ nói chuyện với mọi người vòa buổi trưa."
+    lexi "Chị sẽ nói chuyện với mọi người vào buổi trưa."
 
 # game/events/special/prologue.rpy:895
 translate vietnamese prologue_part2_6c3e373c:
@@ -2890,7 +2890,7 @@ translate vietnamese prologue_part2_786b92ca:
 translate vietnamese prologue_part2_3165b9f2:
 
     # "You two wait a while, but no one responds."
-    "Cả hai đợi một lúc nhưng khoog có phản hồi."
+    "Cả hai đợi một lúc nhưng không có phản hồi."
 
 # game/events/special/prologue.rpy:918
 translate vietnamese prologue_part2_a8b3d1d2:
@@ -2998,7 +2998,7 @@ translate vietnamese prologue_ask_lexi_adc730bc:
 translate vietnamese prologue_ask_lexi_312aa301:
 
     # lexi "Sometimes you can find wanderers out there, they don't have a fixed base, besides their Hideout which is their safe haven. At least I heard so, I was never there."
-    lexi "Đôi khi bạn có thể tìm thấy những người du mục ngoài kia, họ không có căn cứ cố định, ngoài Nơi ẩn náu là nơi trú ẩn an toàn của họ. Ít nhất là em đã nghe như vậy, em cũng chưa bao giờ ở đó cả."
+    lexi "Đôi khi anh có thể tìm thấy những người du mục ngoài kia, họ không có căn cứ cố định, ngoài Nơi ẩn náu là nơi trú ẩn an toàn của họ. Ít nhất là em đã nghe như vậy, em cũng chưa bao giờ ở đó cả."
 
 # game/events/special/prologue.rpy:966
 translate vietnamese prologue_ask_lexi_ff9b5a36:
@@ -3166,13 +3166,13 @@ translate vietnamese prologue_ask_lexi_adfe0810:
 translate vietnamese prologue_ask_lexi_39e815cf:
 
     # lexi "Exactly. We're better on our own, I would never take my sister to such a place."
-    lexi "Chính xác. Tự thân thì sẽ tốt hơn, em sẽ không bao giờ đưa em gái tôi đến một nơi như vậy."
+    lexi "Chính xác. Tự thân thì sẽ tốt hơn, em sẽ không bao giờ đưa em gái mình đến một nơi như vậy."
 
 # game/events/special/prologue.rpy:1003
 translate vietnamese prologue_ask_lexi_7b5ad3b1:
 
     # lexi "You can go live there if you don't like it here."
-    lexi "Bạn có thể sống ở đó nếu bạn không thích chỗ này."
+    lexi "Anh có thể sống ở đó nếu anh không thích chỗ này."
 
 # game/events/special/prologue.rpy:1004
 translate vietnamese prologue_ask_lexi_c2702aae:
@@ -3196,7 +3196,7 @@ translate vietnamese prologue_ask_lexi_15856b42:
 translate vietnamese prologue_ask_lexi_a56de3bf:
 
     # lexi "I'm going to surprise you. There is a way."
-    lexi "Em sẽ làm bạn ngạc nhiên đây. Có một cách đấy."
+    lexi "Em sẽ làm anh ngạc nhiên này. Có một cách đấy."
 
 # game/events/special/prologue.rpy:1019
 translate vietnamese prologue_ask_lexi_2930e26f:
@@ -3346,7 +3346,7 @@ translate vietnamese prologue_ask_lexi_46d27802:
 translate vietnamese prologue_end_1e349426:
 
     # lexi "You're quite calm looking at how fucked up your situation is."
-    lexi "Bạn khá bình tĩnh khi xem tình huống của bạn đang dở khóc dở cười như thế nào đấy."
+    lexi "Anh khá bình tĩnh khi xem tình huống của anh đang dở khóc dở cười như thế nào đấy."
 
 # game/events/special/prologue.rpy:1066
 translate vietnamese prologue_end_557eb975:
@@ -3394,7 +3394,7 @@ translate vietnamese prologue_end_a1c73fe1:
 translate vietnamese prologue_end_d6f4c0a5:
 
     # me "Alright."
-    me "Được rồim."
+    me "Được rồi."
 
 # game/events/special/prologue.rpy:1085
 translate vietnamese prologue_end_f1a30c9c:
@@ -3478,7 +3478,7 @@ translate vietnamese prologue_end_dd9636c7:
 translate vietnamese prologue_end_f8a388fe:
 
     # me "Lexi, The End.."
-    me "Lexi, The End..."
+    me "Lexi, Tận Thế..."
 
 # game/events/special/prologue.rpy:1116
 translate vietnamese prologue_end_c413fe94:
@@ -3537,187 +3537,187 @@ translate vietnamese strings:
 translate vietnamese prologue_80a24a7a:
 
     # th "A little.."
-    th "A little.."
+    th "Một chút.."
 
 # game/events/special/prologue.rpy:136
 translate vietnamese prologue_e9511d7d:
 
     # victorius "Naughty vixen has came to play, haha."
-    victorius "Naughty vixen has came to play, haha."
+    victorius "Con hồ ly nghịch ngợm đã đến chơi rồi đây, haha."
 
 # game/events/special/prologue.rpy:137
 translate vietnamese prologue_b6428c99:
 
     # victorius "Rhainda oh Rhainda. How would you call someone wanting to fuck their own avatar?"
-    victorius "Rhainda oh Rhainda. How would you call someone wanting to fuck their own avatar?"
+    victorius "Rhainda ơi là Rhainda. Tại sao mà cô có thể gọi một đứa muốn đi địt avatar của chính nó chứ?"
 
 # game/events/special/prologue.rpy:138
 translate vietnamese prologue_ac9853bb:
 
     # me "What the fuck are you talking about?"
-    me "What the fuck are you talking about?"
+    me "Ông đang nói cái quái gì vậy?"
 
 # game/events/special/prologue.rpy:139
 translate vietnamese prologue_d5c2f883:
 
     # victorius "Haha, nevermind."
-    victorius "Haha, nevermind."
+    victorius "Haha, đừng bận tâm."
 
 # game/events/special/prologue.rpy:150
 translate vietnamese prologue_61603b3a:
 
     # victorius "I'm everything and everything is me."
-    victorius "I'm everything and everything is me."
+    victorius "Ta là mọi thứ và mọi thứ là ta."
 
 # game/events/special/prologue.rpy:151
 translate vietnamese prologue_314086b3:
 
     # me "What?"
-    me "What?"
+    me "Hả?"
 
 # game/events/special/prologue.rpy:153
 translate vietnamese prologue_f1cff1e3:
 
     # victorius "River of Destiny will boil, time will evaporate, gods high above will wail, Pillars will crumble, yet the destiny will remain unchanged."
-    victorius "River of Destiny will boil, time will evaporate, gods high above will wail, Pillars will crumble, yet the destiny will remain unchanged."
+    victorius "Dòng sông Định mệnh sẽ sôi sục lên, thời gian sẽ bốc hơi, các vị thần trên cao sẽ than khóc, Các cột trụ sẽ sụp đổ, nhưng vận mệnh vẫn không thay đổi."
 
 # game/events/special/prologue.rpy:155
 translate vietnamese prologue_9c9d6ce2:
 
     # victorius "Yet it wouldn't be fun if the result was predetermined. Key Bearer, can you surprise me? Hahaha, I'm filled with exhilaration."
-    victorius "Yet it wouldn't be fun if the result was predetermined. Key Bearer, can you surprise me? Hahaha, I'm filled with exhilaration."
+    victorius "Tuy nhiên, sẽ không vui chút nào nếu kết quả đã được định trước. Key Bearer, ngươi có thể làm ta ngạc nhiên không? Hahaha, ta đang tràn đầy niềm vui đây."
 
 # game/events/special/prologue.rpy:159
 translate vietnamese prologue_9f20e402:
 
     # victorius "{loud}Now, entertain me with your desperate struggle, hahaha!{/loud}"
-    victorius "{loud}Now, entertain me with your desperate struggle, hahaha!{/loud}"
+    victorius "{loud}Giờ thì, hãy giải trí cho ta bằng cuộc đấu tranh tuyệt vọng của ngươi đi, hahaha!{/loud}"
 
 # game/events/special/prologue.rpy:175
 translate vietnamese prologue_5b253635:
 
     # "Your consciousness returns, along with it the pain. Your head buzzes, your thoughts in chaos."
-    "Your consciousness returns, along with it the pain. Your head buzzes, your thoughts in chaos."
+    "Ý thức của bạn trở lại, cùng với nó là nỗi đau. Đầu bạn quay cuồng, suy nghĩ của bạn trở nên hỗn loạn."
 
 # game/events/special/prologue.rpy:212
 translate vietnamese prologue_2d3265c3:
 
     # me "Where the hell am I?"
-    me "Where the hell am I?"
+    me "Mình đang ở chỗ nào đây?"
 
 # game/events/special/prologue.rpy:241
 translate vietnamese prologue_26553d89:
 
     # "*Punch*"
-    "*Punch*"
+    "*Đấm*"
 
 # game/events/special/prologue.rpy:255
 translate vietnamese prologue_6a1a4fcf:
 
     # me "Listen, I know it might sound unbelievable, but.. I had an accident. The next thing I remember is that I woke up on the couch here just a minute ago."
-    me "Listen, I know it might sound unbelievable, but.. I had an accident. The next thing I remember is that I woke up on the couch here just a minute ago."
+    me "Nghe này, anh biết điều đó nghe có vẻ khó tin, nhưng... anh đã gặp tai nạn. Điều tiếp theo anh nhớ là mình đã thức dậy trên chiếc ghế dài ở đây chỉ một phút trước."
 
 # game/events/special/prologue.rpy:535
 translate vietnamese prologue_part2_df1f065d:
 
     # lexi "You're to help out. There is a lot of work to do."
-    lexi "You're to help out. There is a lot of work to do."
+    lexi "Anh phải đi giúp đỡ xung quanh. Có rất nhiều việc phải làm."
 
 # game/events/special/prologue.rpy:604
 translate vietnamese prologue_part2_ed600d37:
 
     # me "How many people are living here?"
-    me "How many people are living here?"
+    me "Có bao nhiêu người đang sống ở đây vậy?"
 
 # game/events/special/prologue.rpy:651
 translate vietnamese prologue_explore_7879ae1f:
 
     # me "Is there any useful food there after a year?"
-    me "Is there any useful food there after a year?"
+    me "Có thực phẩm hữu ích nào ở đấy sau hơn một năm không?"
 
 # game/events/special/prologue.rpy:657
 translate vietnamese prologue_explore_6edc983e:
 
     # th "It's indeed covered in fog."
-    th "It's indeed covered in fog."
+    th "Nó thực sự bị bao phủ bởi sương mù."
 
 # game/events/special/prologue.rpy:658
 translate vietnamese prologue_explore_63e3c771:
 
     # me "That's all so unbelievable.."
-    me "That's all so unbelievable.."
+    me "Tất cả điều này thật khó tin..."
 
 # game/events/special/prologue.rpy:662
 translate vietnamese prologue_explore_220c817a:
 
     # lexi "Yeah. You'll get used to it."
-    lexi "Yeah. You'll get used to it."
+    lexi "Yeah. Anh sẽ không bao giờ quen với nó đâu."
 
 # game/events/special/prologue.rpy:663
 translate vietnamese prologue_explore_efca9454:
 
     # lexi "You're surprisingly calm about all this, though."
-    lexi "You're surprisingly calm about all this, though."
+    lexi "Tuy nhiên, anh lại bình tĩnh một cách đáng ngạc nhiên về tất cả những điều này."
 
 # game/events/special/prologue.rpy:664
 translate vietnamese prologue_explore_221e6c9d:
 
     # me "I guess.."
-    me "I guess.."
+    me "Anh đoán vậy..."
 
 # game/events/special/prologue.rpy:665
 translate vietnamese prologue_explore_fa15e1f6:
 
     # th "Why is that, though? Now that she mentions it, that's indeed weird I can accept everything just like this.."
-    th "Why is that, though? Now that she mentions it, that's indeed weird I can accept everything just like this.."
+    th "Nhưng, tại sao nhỉ? Em ấy nói mình mới để ý, điều này khá kỳ lạ đấy, mình có thể chấp nhận mọi thứ như dễ dàng như thế này..."
 
 # game/events/special/prologue.rpy:666
 translate vietnamese prologue_explore_3efacc5e:
 
     # lexi "As for the food question, don't worry."
-    lexi "As for the food question, don't worry."
+    lexi "Còn mấy câu hỏi về thực phẩm thì đừng lo."
 
 # game/events/special/prologue.rpy:668
 translate vietnamese prologue_explore_b24524e3:
 
     # me "Can't you drive a car?"
-    me "Can't you drive a car?"
+    me "Sao em không lái xe?"
 
 # game/events/special/prologue.rpy:669
 translate vietnamese prologue_explore_96ddc9e4:
 
     # lexi "Be quiet, remember?"
-    lexi "Be quiet, remember?"
+    lexi "Giữ im lặng, nhớ chứ?"
 
 # game/events/special/prologue.rpy:670
 translate vietnamese prologue_explore_e9764eda:
 
     # me "Right."
-    me "Right."
+    me "Phải rồi."
 
 # game/events/special/prologue.rpy:671
 translate vietnamese prologue_explore_b39d925e:
 
     # lexi "Besides, roads are blocked, I told you just now."
-    lexi "Besides, roads are blocked, I told you just now."
+    lexi "Hơn nữa, đường bị chặn hết rồi, em đã nói với anh lúc nãy rồi mà."
 
 # game/events/special/prologue.rpy:672
 translate vietnamese prologue_explore_f2def44e:
 
     # me "Sorry, that's a lot of information to digest at once. I'm still getting used to everything."
-    me "Sorry, that's a lot of information to digest at once. I'm still getting used to everything."
+    me "Xin lỗi, lượng thông tin đó là quá nhiều để tiêu hóa cùng một lúc. Anh vẫn đang làm quen với mọi thứ."
 
 # game/events/special/prologue.rpy:676
 translate vietnamese prologue_explore_a08584a1:
 
     # lexi "Ehh.."
-    lexi "Ehh.."
+    lexi "Ehh..."
 
 # game/events/special/prologue.rpy:680
 translate vietnamese prologue_explore_52c5d685:
 
     # lexi "Will your head get fixed if I hit you again?"
-    lexi "Will your head get fixed if I hit you again?"
+    lexi "Liệu cái đầu của anh có được sửa nếu em đánh nó lần nữa không?"
 
 # game/events/special/prologue.rpy:681
 translate vietnamese prologue_explore_3820771a:
@@ -3729,253 +3729,253 @@ translate vietnamese prologue_explore_3820771a:
 translate vietnamese prologue_explore_ddd01307:
 
     # lexi "No?"
-    lexi "No?"
+    lexi "Không à?"
 
 # game/events/special/prologue.rpy:683
 translate vietnamese prologue_explore_5e18fdd5:
 
     # me "No. Don't even think about it."
-    me "No. Don't even think about it."
+    me "Không. Đừng có có nghĩ về nó."
 
 # game/events/special/prologue.rpy:687
 translate vietnamese prologue_explore_15508bb9:
 
     # lexi "Let's go. Don't attract trouble."
-    lexi "Let's go. Don't attract trouble."
+    lexi "Đi thôi, Đừng thu hút rắc rối nữa."
 
 # game/events/special/prologue.rpy:688
 translate vietnamese prologue_explore_ccbfe159:
 
     # me "Don't worry, I like breathing a lot."
-    me "Don't worry, I like breathing a lot."
+    me "Đừng lo, anh thích hít thở rất nhiều."
 
 # game/events/special/prologue.rpy:692
 translate vietnamese prologue_explore_3c87f9a0:
 
     # me "These whispers, what the hell are they?"
-    me "These whispers, what the hell are they?"
+    me "Những tiếng thì thầm đó, chúng là cái quái gì vậy?"
 
 # game/events/special/prologue.rpy:693
 translate vietnamese prologue_explore_40bf4be7:
 
     # lexi "You'll hear them as long as you're in the fog, they'll slowly make you delirious and insane, that's also why staying outside for long is dangerous even if we ignore monsters and night."
-    lexi "You'll hear them as long as you're in the fog, they'll slowly make you delirious and insane, that's also why staying outside for long is dangerous even if we ignore monsters and night."
+    lexi "Anh sẽ nghe thấy chúng miễn là anh còn ở trong sương mù, chúng sẽ từ từ khiến anh mê sảng và mất trí, đó cũng là lý do tại sao ở bên ngoài lâu rất nguy hiểm ngay cả khi chúng ta tránh được lũ quái vật và ban đêm."
 
 # game/events/special/prologue.rpy:694
 translate vietnamese prologue_explore_3040b769:
 
     # lexi "They're usually not strong, though. And if you hear them becoming louder, quickly escape, as it means something dangerous is approaching."
-    lexi "They're usually not strong, though. And if you hear them becoming louder, quickly escape, as it means something dangerous is approaching."
+    lexi "Tuy nhiên, chúng thường không gây ảnh hưởng gì quá nguy hiểm. Nhưng nếu anh nghe thấy chúng trở nên to hơn, hãy nhanh chóng chạy ngay đi, vì điều đó nghĩa là có thứ gì đó nguy hiểm đang đến gần."
 
 # game/events/special/prologue.rpy:695
 translate vietnamese prologue_explore_8b577b84:
 
     # me "Whispers equals danger. Got it."
-    me "Whispers equals danger. Got it."
+    me "Những lời thì thầm tương đương với nguy hiểm. Hiểu rồi."
 
 # game/events/special/prologue.rpy:696
 translate vietnamese prologue_explore_a2851395:
 
     # th "They sound like the ones I heard when I was unconscious.. Was it all a dream? Maybe flashback from the past year?"
-    th "They sound like the ones I heard when I was unconscious.. Was it all a dream? Maybe flashback from the past year?"
+    th "Chúng giống như những âm thanh mà mình đã nghe khi bị bất tỉnh... Tất cả chỉ là một giấc mơ ư? Có thể đó là hồi tưởng từ năm ngoái?"
 
 # game/events/special/prologue.rpy:701
 translate vietnamese prologue_explore_e3594ce5:
 
     # lexi "There's my sister - Mina, we live in one room."
-    lexi "There's my sister - Mina, we live in one room."
+    lexi "Có em gái của em - Mina, bọn em sống trong một phòng."
 
 # game/events/special/prologue.rpy:702
 translate vietnamese prologue_explore_f560cdba:
 
     # me "The one I awoke in?"
-    me "The one I awoke in?"
+    me "Cái mà nãy anh thức dậy trong đấy á?"
 
 # game/events/special/prologue.rpy:703
 translate vietnamese prologue_explore_10ce5d4e:
 
     # lexi "Yeah, I still don't know how you get in there. I went to the toilet, and when I returned you were there."
-    lexi "Yeah, I still don't know how you get in there. I went to the toilet, and when I returned you were there."
+    lexi "Ừ, em vẫn không biết làm cách nào mà anh vào đấy được. Em mới chỉ đi vệ sinh chút thôi, và khi em trở lại, thì tự nhiên anh đã ở đó rồi."
 
 # game/events/special/prologue.rpy:707
 translate vietnamese prologue_explore_de69d1b4:
 
     # me "How come?"
-    me "How come?"
+    me "là sao?"
 
 # game/events/special/prologue.rpy:708
 translate vietnamese prologue_explore_17e9e51a:
 
     # lexi "You'll know when you met her."
-    lexi "You'll know when you met her."
+    lexi "Gặp rồi khác biết."
 
 # game/events/special/prologue.rpy:709
 translate vietnamese prologue_explore_2f1676fa:
 
     # me "Hmm.. Acting mysterious all of sudden."
-    me "Hmm.. Acting mysterious all of sudden."
+    me "Hmm... Có gì bí ẩn sao."
 
 # game/events/special/prologue.rpy:710
 translate vietnamese prologue_explore_eb568697:
 
     # lexi "Her room is across Alice's."
-    lexi "Her room is across Alice's."
+    lexi "Phòng của em ấy nằm đối diện với phòng Alice."
 
 # game/events/special/prologue.rpy:711
 translate vietnamese prologue_explore_b9460d95:
 
     # me "What about the last one? Was it.."
-    me "What about the last one? Was it.."
+    me "Còn cái cuối cùng thì sao? Có phải nó..."
 
 # game/events/special/prologue.rpy:715
 translate vietnamese prologue_explore_138bebb9:
 
     # lexi "Yeah, it was Jack's room.."
-    lexi "Yeah, it was Jack's room.."
+    lexi "Ừm, nó đã từng là phòng của Jack..."
 
 # game/events/special/prologue.rpy:716
 translate vietnamese prologue_explore_f21e5be4:
 
     # lexi "You'll live in there."
-    lexi "You'll live in there."
+    lexi "Anh sẽ ngủ ở đấy."
 
 # game/events/special/prologue.rpy:717
 translate vietnamese prologue_explore_95d3c3e0:
 
     # me "Okay."
-    me "Okay."
+    me "Được rồi."
 
 # game/events/special/prologue.rpy:721
 translate vietnamese prologue_explore_ee03f113:
 
     # "You walk for about five minutes before [lexi] comes to a stop before a building."
-    "You walk for about five minutes before [lexi] comes to a stop before a building."
+    "Bạn đi khoảng năm phút trước khi [lexi] dừng lại trước một tòa nhà."
 
 # game/events/special/prologue.rpy:722
 translate vietnamese prologue_explore_8bac1f8a:
 
     # me "That's a shop?"
-    me "That's a shop?"
+    me "Đó là một cái cửa hàng sao?"
 
 # game/events/special/prologue.rpy:723
 translate vietnamese prologue_explore_684de1ea:
 
     # lexi "Yeah, it's the back entrance, the storage room."
-    lexi "Yeah, it's the back entrance, the storage room."
+    lexi "Yeah, đó là cửa sau, phòng chứa đồ."
 
 # game/events/special/prologue.rpy:724
 translate vietnamese prologue_explore_58a38346:
 
     # me "Oh, makes sense."
-    me "Oh, makes sense."
+    me "Oh, hợp lý đấy."
 
 # game/events/special/prologue.rpy:728
 translate vietnamese prologue_explore_efb5b4fb:
 
     # lexi "Wait, I'll check if it's empty."
-    lexi "Wait, I'll check if it's empty."
+    lexi "Đợi ở đây, em sẽ kiểm tra xem nó có gì không."
 
 # game/events/special/prologue.rpy:732
 translate vietnamese prologue_explore_761245b8:
 
     # me "And?"
-    me "And?"
+    me "Và?"
 
 # game/events/special/prologue.rpy:733
 translate vietnamese prologue_explore_0b736cb2:
 
     # lexi "Looks empty."
-    lexi "Looks empty."
+    lexi "Có vẻ ổn đấy."
 
 # game/events/special/prologue.rpy:737
 translate vietnamese prologue_explore_96635d45:
 
     # lexi "Alright, come in. Don't forget to close the doors."
-    lexi "Alright, come in. Don't forget to close the doors."
+    lexi "Được rồi, vào đi. Đừng quên đóng cửa đấy."
 
 # game/events/special/prologue.rpy:741
 translate vietnamese prologue_explore_b847b91e:
 
     # me "It's indeed abundant in resources."
-    me "It's indeed abundant in resources."
+    me "Nó thực sự rất nhiểu thứ."
 
 # game/events/special/prologue.rpy:742
 translate vietnamese prologue_explore_e6542534:
 
     # lexi "Yeah, although I took most of it already."
-    lexi "Yeah, although I took most of it already."
+    lexi "Yeah, Mặc dù em đã lấy gần hết rồi."
 
 # game/events/special/prologue.rpy:746
 translate vietnamese prologue_explore_e635b287:
 
     # lexi "Here."
-    lexi "Here."
+    lexi "Đây."
 
 # game/events/special/prologue.rpy:750
 translate vietnamese prologue_explore_12cf7b69:
 
     # me "Thanks."
-    me "Thanks."
+    me "Cảm ơn."
 
 # game/events/special/prologue.rpy:754
 translate vietnamese prologue_explore_3b578cdf:
 
     # me "So, in the hotel, it was all girls besides Jack?"
-    me "So, in the hotel, it was all girls besides Jack?"
+    me "Vậy, đó là tất cả các cô gái trong khách sạn ngoài Jack ra à?"
 
 # game/events/special/prologue.rpy:759
 translate vietnamese prologue_explore_e928f000:
 
     # me "Are they related?"
-    me "Are they related?"
+    me "Họ có phải họ hàng hay gì không?"
 
 # game/events/special/prologue.rpy:760
 translate vietnamese prologue_explore_672b66d4:
 
     # lexi "Nope, it's just that Alice met him in the first week of The End. She had nowhere to hide, so she went with him."
-    lexi "Nope, it's just that Alice met him in the first week of The End. She had nowhere to hide, so she went with him."
+    lexi "Không, chỉ là Alice gặp anh ấy trong tuần đầu tiên của Tận Thế. Cậu ấy không có nơi nào để trốn, Nên đã đi với anh ấy."
 
 # game/events/special/prologue.rpy:761
 translate vietnamese prologue_explore_583ddc53:
 
     # me "How old is everyone?"
-    me "How old is everyone?"
+    me "Mọi người bao nhiêu tuổi vậy?"
 
 # game/events/special/prologue.rpy:762
 translate vietnamese prologue_explore_f4b9e605:
 
     # lexi "We are all around the same age. Everyone's an adult already, the oldest is in her early twenties."
-    lexi "We are all around the same age. Everyone's an adult already, the oldest is in her early twenties."
+    lexi "Tất cả bọn em đều cùng tuổi. Mọi người đều đã trưởng thành, người lớn nhất cũng chỉ gần 20 thôi."
 
 # game/events/special/prologue.rpy:763
 translate vietnamese prologue_explore_e16ad92b:
 
     # me "Jack had it nice living with a bunch of young girls."
-    me "Jack had it nice living with a bunch of young girls."
+    me "Jack đã có cuộc sống tốt đẹp với các cô gái trẻ đấy."
 
 # game/events/special/prologue.rpy:764
 translate vietnamese prologue_explore_373ae319:
 
     # lexi "Eh, it's nothing like that."
-    lexi "Eh, it's nothing like that."
+    lexi "Eh, không phải như vậy đâu."
 
 # game/events/special/prologue.rpy:769
 translate vietnamese prologue_explore_51c1c563:
 
     # me "I didn't mean any offense."
-    me "I didn't mean any offense."
+    me "Anh không có ý gì đâu."
 
 # game/events/special/prologue.rpy:771
 translate vietnamese prologue_explore_6a4b289b:
 
     # lexi "Jack was vastly different, though. Truth be told, he didn't belong to these times. He was warm and caring."
-    lexi "Jack was vastly different, though. Truth be told, he didn't belong to these times. He was warm and caring."
+    lexi "Jack rất khác biệt. Thành thật mà nói, anh ấy không thuộc về cái thời đại này. Anh ấy ấm áp và ân cần."
 
 # game/events/special/prologue.rpy:772
 translate vietnamese prologue_explore_616939b2:
 
     # me "You don't seem overly sad by his disappearance, though."
-    me "You don't seem overly sad by his disappearance, though."
+    me "Nhưng, em có vẻ không quá buồn vì sự biến mất của anh ấy."
 
 # game/events/special/prologue.rpy:773
 translate vietnamese prologue_explore_d7760fc7:
@@ -3987,37 +3987,37 @@ translate vietnamese prologue_explore_d7760fc7:
 translate vietnamese prologue_explore_d37d5874:
 
     # lexi "Death is just a matter of time, we'll all die."
-    lexi "Death is just a matter of time, we'll all die."
+    lexi "Cái chết chỉ là vấn đề thời gian thôi, tất cả chúng ta sẽ phải chết."
 
 # game/events/special/prologue.rpy:778
 translate vietnamese prologue_explore_26c21d63:
 
     # me "Indeed."
-    me "Indeed."
+    me "Cũng đúng."
 
 # game/events/special/prologue.rpy:779
 translate vietnamese prologue_explore_1dc51bce:
 
     # lexi "It's just that, after The End, death became much more common.."
-    lexi "It's just that, after The End, death became much more common.."
+    lexi "Chỉ là, sau Tận Thế, cái chết trở nên phổ biến hơn nhiều..."
 
 # game/events/special/prologue.rpy:780
 translate vietnamese prologue_explore_a9d4c2a2:
 
     # lexi "Perhaps I got used to this.."
-    lexi "Perhaps I got used to this.."
+    lexi "Có lẽ em đã quen với điều này rồi..."
 
 # game/events/special/prologue.rpy:784
 translate vietnamese prologue_explore_d396d6e6:
 
     # me "That's a sad thing to get used to, though."
-    me "That's a sad thing to get used to, though."
+    me "Tuy nhiên, đó là một điều đáng buồn để phải làm quen với đấy."
 
 # game/events/special/prologue.rpy:785
 translate vietnamese prologue_explore_791cd5f8:
 
     # lexi "The world turned sad."
-    lexi "The world turned sad."
+    lexi "Thế giới đã trở nên buồn bã sẵn rồi."
 
 # game/events/special/prologue.rpy:786
 translate vietnamese prologue_explore_3820771a_1:
@@ -4029,31 +4029,31 @@ translate vietnamese prologue_explore_3820771a_1:
 translate vietnamese prologue_explore_48e1008c:
 
     # me "I'm done. The bag is filled to the brim."
-    me "I'm done. The bag is filled to the brim."
+    me "Anh xong rồi."
 
 # game/events/special/prologue.rpy:796
 translate vietnamese prologue_explore_9c56a201:
 
     # lexi "Great, let's go back."
-    lexi "Great, let's go back."
+    lexi "Được rồi, quay lại thôi."
 
 # game/events/special/prologue.rpy:801
 translate vietnamese prologue_explore_c6c5538f:
 
     # me "I thought it's gonna be more dangerous, I'm yet to even see a shadow of a mon-"
-    me "I thought it's gonna be more dangerous, I'm yet to even see a shadow of a mon-"
+    me "Anh còn tưởng là nó sẽ nguy hiểm hơn cơ, anh thậm chí còn chưa thấy bóng dáng của một con qua-"
 
 # game/events/special/prologue.rpy:807
 translate vietnamese prologue_explore_47bf6844:
 
     # me "Wha-"
-    me "Wha-"
+    me "Cái-"
 
 # game/events/special/prologue.rpy:812
 translate vietnamese prologue_explore_cfb26272:
 
     # lexi "{quiet}Shut up!{/quiet}"
-    lexi "{quiet}Shut up!{/quiet}"
+    lexi "{quiet}Im lặng!{/quiet}"
 
 # game/events/special/prologue.rpy:813
 translate vietnamese prologue_explore_da8442bf:
@@ -4065,49 +4065,49 @@ translate vietnamese prologue_explore_da8442bf:
 translate vietnamese prologue_explore_3b3ad77c:
 
     # me "{quiet}What the..{/quiet}"
-    me "{quiet}What the..{/quiet}"
+    me "{quiet}Cái lề gì...{/quiet}"
 
 # game/events/special/prologue.rpy:818
 translate vietnamese prologue_explore_088cee74:
 
     # th "Is that a bloody chimera?!"
-    th "Is that a bloody chimera?!"
+    th "Đó có phải là một chimera không?!"
 
 # game/events/special/prologue.rpy:823
 translate vietnamese prologue_explore_c3cd4143:
 
     # chimera "*Roar*!!"
-    chimera "*Roar*!!"
+    chimera "*Gầm*!!"
 
 # game/events/special/prologue.rpy:826
 translate vietnamese prologue_explore_dd607d92:
 
     # "Its roar spreads far. Being so close in the proximity made you feel as if your ears were about to bleed."
-    "Its roar spreads far. Being so close in the proximity made you feel as if your ears were about to bleed."
+    "Tiếng gầm của nó vang xa. Ở gần như vậy khiến bạn có cảm giác như tai mình sắp chảy máu."
 
 # game/events/special/prologue.rpy:827
 translate vietnamese prologue_explore_9deb7944:
 
     # me "{small}Bastard!{/small}"
-    me "{small}Bastard!{/small}"
+    me "{small}Mẹ nó!{/small}"
 
 # game/events/special/prologue.rpy:828
 translate vietnamese prologue_explore_1af9755f:
 
     # lexi "{quiet}Shh!{/quiet}"
-    lexi "{quiet}Shh!{/quiet}"
+    lexi "{quiet}Suỵt!{/quiet}"
 
 # game/events/special/prologue.rpy:832
 translate vietnamese prologue_explore_f4c45155:
 
     # "It doesn't take long for the beast to resume walking."
-    "It doesn't take long for the beast to resume walking."
+    "Không mất nhiều thời gian để con quái vật tiếp tục bước đi."
 
 # game/events/special/prologue.rpy:836
 translate vietnamese prologue_explore_e9852317:
 
     # lexi "How was it? Seeing a monster I mean."
-    lexi "How was it? Seeing a monster I mean."
+    lexi "Nhìn thấy một con rồi thì anh thấy thế nào?"
 
 # game/events/special/prologue.rpy:837
 translate vietnamese prologue_explore_3820771a_2:
@@ -4119,13 +4119,13 @@ translate vietnamese prologue_explore_3820771a_2:
 translate vietnamese prologue_explore_4a186f39:
 
     # me "How do you know?"
-    me "How do you know?"
+    me "Sao em biết?"
 
 # game/events/special/prologue.rpy:850
 translate vietnamese prologue_explore_7900e05c:
 
     # lexi "I've seen soldiers try, the result was that a few seconds later the tank was ripped to shreds with the men inside."
-    lexi "I've seen soldiers try, the result was that a few seconds later the tank was ripped to shreds with the men inside."
+    lexi "Em đã thấy những người lính cố làm vậy rồi, kết quả là vài giây sau chiếc xe tăng đã bị xé toạc cùng với những người đàn ông bên trong."
 
 # game/events/special/prologue.rpy:851
 translate vietnamese prologue_explore_3820771a_3:
@@ -4137,85 +4137,85 @@ translate vietnamese prologue_explore_3820771a_3:
 translate vietnamese prologue_explore_7526f7ee:
 
     # lexi "Still, the chimera is not even near the titans. I think if a titan wanted to, it could stomp it to death."
-    lexi "Still, the chimera is not even near the titans. I think if a titan wanted to, it could stomp it to death."
+    lexi "Tuy nhiên, chimera thậm chí không ở bằng một góc của những titan đâu. Em nghĩ nếu một người khổng lồ muốn, nó có thể bóp chết con chimera đấy."
 
 # game/events/special/prologue.rpy:855
 translate vietnamese prologue_explore_a1c73fe1:
 
     # me "Got it."
-    me "Got it."
+    me "Rõ rồi."
 
 # game/events/special/prologue.rpy:856
 translate vietnamese prologue_explore_261dff80:
 
     # lexi "On the bright side, the powerful ones are rare, and most of them don't leave the proximity of their lair."
-    lexi "On the bright side, the powerful ones are rare, and most of them don't leave the proximity of their lair."
+    lexi "Nhưng về mặt tích cực thì những con mạnh là rất hiếm và hầu hết trong số chúng không rời khỏi hang ổ của chúng."
 
 # game/events/special/prologue.rpy:857
 translate vietnamese prologue_explore_5fa91433:
 
     # me "Is this chimera's lair close?"
-    me "Is this chimera's lair close?"
+    me "Ổ của chimera gần đây à?"
 
 # game/events/special/prologue.rpy:858
 translate vietnamese prologue_explore_f05292b8:
 
     # lexi "Should be. I've seen it a couple of times."
-    lexi "Should be. I've seen it a couple of times."
+    lexi "Chắc vậy. Em nhìn thấy nó một vài lần rồi."
 
 # game/events/special/prologue.rpy:859
 translate vietnamese prologue_explore_cc3320c3:
 
     # me "How did you know it's coming?"
-    me "How did you know it's coming?"
+    me "Làm sao em biết nó đang đến?"
 
 # game/events/special/prologue.rpy:860
 translate vietnamese prologue_explore_398f08fe:
 
     # lexi "Whispers, remember? Listen to the bloody whispers."
-    lexi "Whispers, remember? Listen to the bloody whispers."
+    lexi "Lời thì thầm, nhớ không? Lắng nghe những lời thì thầm đẫm máu này đi."
 
 # game/events/special/prologue.rpy:861
 translate vietnamese prologue_explore_7dee7ca9:
 
     # me "My bad."
-    me "My bad."
+    me "Lỗi anh."
 
 # game/events/special/prologue.rpy:865
 translate vietnamese prologue_explore_d71bf6a1:
 
     # lexi "Alright, it should be far enough."
-    lexi "Alright, it should be far enough."
+    lexi "Được rồi, chắc nó cũng đi đủ xa rồi."
 
 # game/events/special/prologue.rpy:866
 translate vietnamese prologue_explore_85948998:
 
     # me "It went the same way we're supposed to take."
-    me "It went the same way we're supposed to take."
+    me "Nó diễn ra giống như cách chúng ta phải làm."
 
 # game/events/special/prologue.rpy:867
 translate vietnamese prologue_explore_379466f5:
 
     # lexi "I know, we'll take a little longer path to avoid it."
-    lexi "I know, we'll take a little longer path to avoid it."
+    lexi "Em biết, chúng ta sẽ đi đường vòng để tránh nó."
 
 # game/events/special/prologue.rpy:868
 translate vietnamese prologue_explore_047e0041:
 
     # me "Alright. I'll take the bags."
-    me "Alright. I'll take the bags."
+    me "Được rồi. Anh sẽ lấy cái túi."
 
 # game/events/special/prologue.rpy:869
 translate vietnamese prologue_explore_925e26f6:
 
     # lexi "Whatever suits you."
-    lexi "Whatever suits you."
+    lexi "Muốn làm gì thì làm."
 
 # game/events/special/prologue.rpy:873
 translate vietnamese prologue_explore_9aac9949:
 
     # me "Everything is so unreal.."
-    me "Everything is so unreal.."
+    me "Mọi thứ thật ảo quá..."
 
 # game/events/special/prologue.rpy:874
 translate vietnamese prologue_explore_0cd46d6e:
@@ -4227,13 +4227,13 @@ translate vietnamese prologue_explore_0cd46d6e:
 translate vietnamese prologue_explore_12766a87:
 
     # me "I thought I died in the crash."
-    me "I thought I died in the crash."
+    me "Anh tưởng là mình đã chết từ vụ đâm xe rồi."
 
 # game/events/special/prologue.rpy:876
 translate vietnamese prologue_explore_06cfaecc:
 
     # lexi "You didn't die. You've gone to Hell anyway, though."
-    lexi "You didn't die. You've gone to Hell anyway, though."
+    lexi "Anh không chết. Tuy nhiên anh cũng đã xuống địa ngục rồi."
 
 # game/events/special/prologue.rpy:877
 translate vietnamese prologue_explore_3820771a_4:
@@ -4245,37 +4245,37 @@ translate vietnamese prologue_explore_3820771a_4:
 translate vietnamese prologue_explore_be5b73fe:
 
     # "Neither of you spoke for the rest of the trip letting you think over your new situation."
-    "Neither of you spoke for the rest of the trip letting you think over your new situation."
+    "Không ai nói gì suốt phần còn lại của chuyến đi để bạn nghĩ về tình huống mới của mình."
 
 # game/events/special/prologue.rpy:882
 translate vietnamese prologue_explore_da1930c6:
 
     # th "Calling this a Hell is about right.."
-    th "Calling this a Hell is about right.."
+    th "Gọi đây là địa ngục cũng đúng.."
 
 # game/events/special/prologue.rpy:890
 translate vietnamese prologue_grace_3d81222f:
 
     # lexi "Let's go to the kitchen."
-    lexi "Let's go to the kitchen."
+    lexi "Vào bếp thôi."
 
 # game/events/special/prologue.rpy:894
 translate vietnamese prologue_grace_b16a6c34:
 
     # lexi "At this time, Grace's bound to be cooking a lunch."
-    lexi "At this time, Grace's bound to be cooking a lunch."
+    lexi "Bây giờ chắc Grace đang nấu bữa trưa đấy."
 
 # game/events/special/prologue.rpy:895
 translate vietnamese prologue_grace_08be13bd:
 
     # me "I guess it's time to say hello."
-    me "I guess it's time to say hello."
+    me "Anh đoán đã đến lúc nói lời chào rồi."
 
 # game/events/special/prologue.rpy:899
 translate vietnamese prologue_grace_961e1e6c:
 
     # lexi "Yeah... Let me speak first."
-    lexi "Yeah... Let me speak first."
+    lexi "Yeah... Hãy để em nói trước."
 
 # game/events/special/prologue.rpy:900
 translate vietnamese prologue_grace_bac1cb40:
@@ -4287,7 +4287,7 @@ translate vietnamese prologue_grace_bac1cb40:
 translate vietnamese prologue_grace_340b5294:
 
     # lexi "Wait a while."
-    lexi "Wait a while."
+    lexi "Đợi một chút."
 
 # game/events/special/prologue.rpy:902
 translate vietnamese prologue_grace_0a092cbb:
@@ -4299,73 +4299,73 @@ translate vietnamese prologue_grace_0a092cbb:
 translate vietnamese prologue_grace_2faebb0d:
 
     # lexi "Hey Gracie."
-    lexi "Hey Gracie."
+    lexi "Chào Gracie."
 
 # game/events/special/prologue.rpy:907
 translate vietnamese prologue_grace_0b5255b6:
 
     # grace "Hey! Please, tell me you brought some pasta."
-    grace "Hey! Please, tell me you brought some pasta."
+    grace "Em chào chị! Làm ơn hãy nói với em là chị có đem một chút mỳ ý về đi."
 
 # game/events/special/prologue.rpy:908
 translate vietnamese prologue_grace_6e63c6a3:
 
     # lexi "I have some."
-    lexi "I have some."
+    lexi "Chị lấy một ít rồi."
 
 # game/events/special/prologue.rpy:909
 translate vietnamese prologue_grace_2d7cab0e:
 
     # grace "Great!"
-    grace "Great!"
+    grace "Tuyệt!"
 
 # game/events/special/prologue.rpy:910
 translate vietnamese prologue_grace_20a871df:
 
     # th "She sounds like someone easy to talk to."
-    th "She sounds like someone easy to talk to."
+    th "Cô ấy giống như một người dễ bắt chuyện."
 
 # game/events/special/prologue.rpy:911
 translate vietnamese prologue_grace_af59429e:
 
     # grace "Umm? Where is the bag?"
-    grace "Umm? Where is the bag?"
+    grace "Umm? Cái túi đâu rồi?"
 
 # game/events/special/prologue.rpy:912
 translate vietnamese prologue_grace_31a605c4:
 
     # lexi "It's in the corridor by the sofa with.."
-    lexi "It's in the corridor by the sofa with.."
+    lexi "Nó ở hành lang cạnh ghế sofa với..."
 
 # game/events/special/prologue.rpy:913
 translate vietnamese prologue_grace_7f712025:
 
     # lexi "You see, we'll have a new person living with us."
-    lexi "You see, we'll have a new person living with us."
+    lexi "Em thấy đấy, chúng ta sẽ có một người mới đến sống với chúng ta."
 
 # game/events/special/prologue.rpy:914
 translate vietnamese prologue_grace_a18c65d1:
 
     # grace "I see."
-    grace "I see."
+    grace "Em hiểu rồi."
 
 # game/events/special/prologue.rpy:915
 translate vietnamese prologue_grace_3b1af84c:
 
     # lexi "I hope you don't mind."
-    lexi "I hope you don't mind."
+    lexi "Chị mong là em không phiền."
 
 # game/events/special/prologue.rpy:916
 translate vietnamese prologue_grace_bfae7159:
 
     # grace "It's alright. I trust your judgment. Who is she? How old is she?"
-    grace "It's alright. I trust your judgment. Who is she? How old is she?"
+    grace "Không sao cả. Em tin tưởng vào phán đoán của chị. Cô ấy là ai? Cô ấy bao nhiêu tuổi?"
 
 # game/events/special/prologue.rpy:917
 translate vietnamese prologue_grace_d971992a:
 
     # lexi "Looks a little older than us."
-    lexi "Looks a little older than us."
+    lexi "Trông già hơn chúng ta một chút."
 
 # game/events/special/prologue.rpy:918
 translate vietnamese prologue_grace_7402cda2:
@@ -4377,7 +4377,7 @@ translate vietnamese prologue_grace_7402cda2:
 translate vietnamese prologue_grace_8e858d89:
 
     # lexi "There's one thing, though."
-    lexi "There's one thing, though."
+    lexi "Tuy nhiên, có một một chuyện là."
 
 # game/events/special/prologue.rpy:920
 translate vietnamese prologue_grace_5b8f0a20:
@@ -4389,25 +4389,25 @@ translate vietnamese prologue_grace_5b8f0a20:
 translate vietnamese prologue_grace_e6bac8f2:
 
     # lexi "It's not a she.."
-    lexi "It's not a she.."
+    lexi "Không phải là cô ấy..."
 
 # game/events/special/prologue.rpy:922
 translate vietnamese prologue_grace_1cd48824:
 
     # grace "Is it a dog or cat?"
-    grace "Is it a dog or cat?"
+    grace "Vậy đấy là chó hay mèo?"
 
 # game/events/special/prologue.rpy:924
 translate vietnamese prologue_grace_a76e992d:
 
     # lexi "It's not a pet.."
-    lexi "It's not a pet.."
+    lexi "Đấy cũng không phải thú cưng.."
 
 # game/events/special/prologue.rpy:925
 translate vietnamese prologue_grace_eed17c95:
 
     # grace "W-Wait.. No, Lexi!"
-    grace "W-Wait.. No, Lexi!"
+    grace "C-Chờ đã... Không, Lexi!"
 
 # game/events/special/prologue.rpy:926
 translate vietnamese prologue_grace_d7760fc7:
@@ -4419,19 +4419,19 @@ translate vietnamese prologue_grace_d7760fc7:
 translate vietnamese prologue_grace_1f1b5de5:
 
     # grace "Lexi?! This joke isn't funny at all!"
-    grace "Lexi?! This joke isn't funny at all!"
+    grace "Lexi?! Trò đùa này không vui một chút nào đâu!"
 
 # game/events/special/prologue.rpy:928
 translate vietnamese prologue_grace_db2ba286:
 
     # th "I change my mind, I don't get this girl at all.."
-    th "I change my mind, I don't get this girl at all.."
+    th "Mình đổi ý rồi, mình không hiểu cô gái này chút nào hết..."
 
 # game/events/special/prologue.rpy:929
 translate vietnamese prologue_grace_2a12242f:
 
     # lexi "[me] will stay with us. I'll explain the reason later, with everyone there."
-    lexi "[me] will stay with us. I'll explain the reason later, with everyone there."
+    lexi "[me] sẽ ở lại với chúng ta. Chị sẽ giải thích lý do sau, khi mọi người đều ở đây."
 
 # game/events/special/prologue.rpy:930
 translate vietnamese prologue_grace_fdb4e830:
@@ -4443,49 +4443,49 @@ translate vietnamese prologue_grace_fdb4e830:
 translate vietnamese prologue_grace_1435b681:
 
     # lexi "Gracie.."
-    lexi "Gracie.."
+    lexi "Gracie..."
 
 # game/events/special/prologue.rpy:932
 translate vietnamese prologue_grace_4d243be8:
 
     # grace "You're bad.."
-    grace "You're bad.."
+    grace "Chị thật tệ..."
 
 # game/events/special/prologue.rpy:933
 translate vietnamese prologue_grace_fd380ba7:
 
     # lexi "You'll get along."
-    lexi "You'll get along."
+    lexi "Em sẽ quen thôi."
 
 # game/events/special/prologue.rpy:934
 translate vietnamese prologue_grace_f407d718:
 
     # grace "I'm not going to get along with a guy!"
-    grace "I'm not going to get along with a guy!"
+    grace "Em sẽ không boa giờ quen với con trai đâu!"
 
 # game/events/special/prologue.rpy:935
 translate vietnamese prologue_grace_d85d90be:
 
     # th "Oh... I see what's her problem now.."
-    th "Oh... I see what's her problem now.."
+    th "Oh... Mình nghĩ là mình hiểu vấn đề của em ấy rồi..."
 
 # game/events/special/prologue.rpy:936
 translate vietnamese prologue_grace_9ac2e912:
 
     # lexi "You managed to come to terms with Jack, so you'll manage to do it with him, too."
-    lexi "You managed to come to terms with Jack, so you'll manage to do it with him, too."
+    lexi "Em đã ở cùng với Jack được, nên em cũng sẽ làm được vậy với anh ấy."
 
 # game/events/special/prologue.rpy:937
 translate vietnamese prologue_grace_d3c109de:
 
     # grace "It's something else!"
-    grace "It's something else!"
+    grace "Đấy là chuyện khác!"
 
 # game/events/special/prologue.rpy:938
 translate vietnamese prologue_grace_b025781b:
 
     # lexi "Just give it a try."
-    lexi "Just give it a try."
+    lexi "Cứ thử đi."
 
 # game/events/special/prologue.rpy:939
 translate vietnamese prologue_grace_fdb4e830_1:
@@ -4497,7 +4497,7 @@ translate vietnamese prologue_grace_fdb4e830_1:
 translate vietnamese prologue_grace_2145f209:
 
     # lexi "He's here and he wants to say hi. He has your pasta with him too."
-    lexi "He's here and he wants to say hi. He has your pasta with him too."
+    lexi "Anh ấy ở đây và anh ấy muốn chào em một tiếng. Anh ấy cũng đem theo mỳ ý nữa."
 
 # game/events/special/prologue.rpy:944
 translate vietnamese prologue_grace_fdb4e830_2:
@@ -4509,13 +4509,13 @@ translate vietnamese prologue_grace_fdb4e830_2:
 translate vietnamese prologue_grace_8d728e26:
 
     # me "Hey, I'm [me]. Nice to meet you."
-    me "Hey, I'm [me]. Nice to meet you."
+    me "Chào em anh là [me]. Rất vui được gặp em."
 
 # game/events/special/prologue.rpy:952
 translate vietnamese prologue_grace_69b7980c:
 
     # grace "Grr.."
-    grace "Grr.."
+    grace "Grr..."
 
 # game/events/special/prologue.rpy:953
 translate vietnamese prologue_grace_3820771a:
@@ -4527,79 +4527,79 @@ translate vietnamese prologue_grace_3820771a:
 translate vietnamese prologue_grace_c2eadaa9:
 
     # th "Are you a dog?"
-    th "Are you a dog?"
+    th "Em là chó hả?"
 
 # game/events/special/prologue.rpy:955
 translate vietnamese prologue_grace_1435b681_1:
 
     # lexi "Gracie.."
-    lexi "Gracie.."
+    lexi "Gracie..."
 
 # game/events/special/prologue.rpy:959
 translate vietnamese prologue_grace_0d2da176:
 
     # grace "I'm Grace."
-    grace "I'm Grace."
+    grace "Em là Grace."
 
 # game/events/special/prologue.rpy:963
 translate vietnamese prologue_grace_9c9a72ec:
 
     # me "You don't need to be wary of me, I'm not a bandit."
-    me "You don't need to be wary of me, I'm not a bandit."
+    me "Em không cần phải cảnh giác với anh đâu, anh không phải là một tên cướp."
 
 # game/events/special/prologue.rpy:967
 translate vietnamese prologue_grace_718f81d7:
 
     # grace "You're a man."
-    grace "You're a man."
+    grace "Anh là đàn ông."
 
 # game/events/special/prologue.rpy:968
 translate vietnamese prologue_grace_761245b8:
 
     # me "And?"
-    me "And?"
+    me "Và?"
 
 # game/events/special/prologue.rpy:972
 translate vietnamese prologue_grace_39ac0898:
 
     # grace "All men are bad."
-    grace "All men are bad."
+    grace "Tất cả đàn ông đều xấu."
 
 # game/events/special/prologue.rpy:973
 translate vietnamese prologue_grace_f522e30d:
 
     # me "Who told you such a bullshit?"
-    me "Who told you such a bullshit?"
+    me "Ai nói với em cái điều nhảm nhí đấy?"
 
 # game/events/special/prologue.rpy:977
 translate vietnamese prologue_grace_a8418d27:
 
     # grace "You're bullshit! Mommy never lies!"
-    grace "You're bullshit! Mommy never lies!"
+    grace "Anh mới là nhảm đấy! Mẹ sẽ không bao giờ nói dối!"
 
 # game/events/special/prologue.rpy:978
 translate vietnamese prologue_grace_6488aec8:
 
     # th "Mommy? Lexi didn't mention her, though. Did she..?"
-    th "Mommy? Lexi didn't mention her, though. Did she..?"
+    th "Mẹ? Lexi còn không hề nhắc đến vụ đấy. Chẳng lẽ bà ấy...?"
 
 # game/events/special/prologue.rpy:982
 translate vietnamese prologue_grace_4b5f6616:
 
     # me "What about Jack?"
-    me "What about Jack?"
+    me "Thế còn Jack thì sao?"
 
 # game/events/special/prologue.rpy:987
 translate vietnamese prologue_grace_83087c50:
 
     # me "Why?"
-    me "Why?"
+    me "Tại sao?"
 
 # game/events/special/prologue.rpy:991
 translate vietnamese prologue_grace_69b7980c_1:
 
     # grace "Grr.."
-    grace "Grr.."
+    grace "Grr..."
 
 # game/events/special/prologue.rpy:992
 translate vietnamese prologue_grace_3820771a_1:
@@ -4611,13 +4611,13 @@ translate vietnamese prologue_grace_3820771a_1:
 translate vietnamese prologue_grace_0c994c2c:
 
     # lexi "I see that you two are getting along."
-    lexi "I see that you two are getting along."
+    lexi "Em thấy rằng hai người đang hòa hợp với nhau hơn rồi đấy."
 
 # game/events/special/prologue.rpy:997
 translate vietnamese prologue_grace_06c69018:
 
     # th "Is this what you call getting along?"
-    th "Is this what you call getting along?"
+    th "Cái này gọi là hợp hả?"
 
 # game/events/special/prologue.rpy:1001
 translate vietnamese prologue_grace_fdb4e830_3:
@@ -4629,25 +4629,25 @@ translate vietnamese prologue_grace_fdb4e830_3:
 translate vietnamese prologue_grace_e1e05de6:
 
     # lexi "Gracie, don't make trouble, we're all living together."
-    lexi "Gracie, don't make trouble, we're all living together."
+    lexi "Gracie, đừng gây rắc rối nữa, chúng ta sống cùng nhau mà."
 
 # game/events/special/prologue.rpy:1006
 translate vietnamese prologue_grace_c909e0ea:
 
     # grace "Mm.."
-    grace "Mm.."
+    grace "Mm..."
 
 # game/events/special/prologue.rpy:1007
 translate vietnamese prologue_grace_3b57c452:
 
     # lexi "We'll leave you to your tasks."
-    lexi "We'll leave you to your tasks."
+    lexi "Bọn chị sẽ để em làm nhiệm vụ của mình."
 
 # game/events/special/prologue.rpy:1011
 translate vietnamese prologue_grace_b14599ea:
 
     # grace "Mm. Come for a lunch in a while, Lexi."
-    grace "Mm. Come for a lunch in a while, Lexi."
+    grace "Mm. Lát nữa đến ăn trưa nhé, Lexi."
 
 # game/events/special/prologue.rpy:1012
 translate vietnamese prologue_grace_1836de33:
@@ -4659,7 +4659,7 @@ translate vietnamese prologue_grace_1836de33:
 translate vietnamese prologue_grace_28512835:
 
     # me "What about me?"
-    me "What about me?"
+    me "Còn anh thì sao?"
 
 # game/events/special/prologue.rpy:1017
 translate vietnamese prologue_grace_fdb4e830_4:
@@ -4671,13 +4671,13 @@ translate vietnamese prologue_grace_fdb4e830_4:
 translate vietnamese prologue_grace_278c5aac:
 
     # grace "I'll leave it in a fridge."
-    grace "I'll leave it in a fridge."
+    grace "Em sẽ bỏ vào tủ lạnh."
 
 # game/events/special/prologue.rpy:1019
 translate vietnamese prologue_grace_12cf7b69:
 
     # me "Thanks."
-    me "Thanks."
+    me "cảm ơn."
 
 # game/events/special/prologue.rpy:1020
 translate vietnamese prologue_grace_7402cda2_1:
@@ -4701,7 +4701,7 @@ translate vietnamese prologue_grace_5b8f0a20_1:
 translate vietnamese prologue_grace_cc4d98c8:
 
     # lexi "He went out and risked his life. All to bring you this food."
-    lexi "He went out and risked his life. All to bring you this food."
+    lexi "Anh ấy đi ra bên ngoài và mạo hiểm mạng sống anh ấy. Tất cả chỉ để đem cho em thức ăn đấy."
 
 # game/events/special/prologue.rpy:1027
 translate vietnamese prologue_grace_fdb4e830_5:
@@ -4713,37 +4713,37 @@ translate vietnamese prologue_grace_fdb4e830_5:
 translate vietnamese prologue_grace_1435b681_2:
 
     # lexi "Gracie.."
-    lexi "Gracie.."
+    lexi "Gracie..."
 
 # game/events/special/prologue.rpy:1033
 translate vietnamese prologue_grace_fb1b5575:
 
     # grace "Thank you."
-    grace "Thank you."
+    grace "Cảm ơn."
 
 # game/events/special/prologue.rpy:1034
 translate vietnamese prologue_grace_ed914e19:
 
     # me "You're welcome."
-    me "You're welcome."
+    me "Không có gì."
 
 # game/events/special/prologue.rpy:1038
 translate vietnamese prologue_grace_6c0d9567:
 
     # lexi "It went pretty well."
-    lexi "It went pretty well."
+    lexi "Diễn ra khá suôn sẻ đấy."
 
 # game/events/special/prologue.rpy:1042
 translate vietnamese prologue_grace_95a6b9f5:
 
     # me "That's what you call well?"
-    me "That's what you call well?"
+    me "Suôn sẻ?"
 
 # game/events/special/prologue.rpy:1043
 translate vietnamese prologue_grace_49e1c3e9:
 
     # lexi "She'll make you food won't she? She also didn't hit you with a broom or frying pan."
-    lexi "She'll make you food won't she? She also didn't hit you with a broom or frying pan."
+    lexi "Em ấy sẽ làm đồ ăn cho anh phải không? Em ấy cũng không đánh anh bằng chổi hay chảo rán."
 
 # game/events/special/prologue.rpy:1044
 translate vietnamese prologue_grace_3820771a_2:
@@ -4755,67 +4755,67 @@ translate vietnamese prologue_grace_3820771a_2:
 translate vietnamese prologue_grace_bf1e13df:
 
     # me "French maid, though?"
-    me "French maid, though?"
+    me "Nhưng sao lại là hầu gái?"
 
 # game/events/special/prologue.rpy:1049
 translate vietnamese prologue_grace_7ef23dd2:
 
     # lexi "Yeah, Grace has seen it on tv. There was no reason for us to stop her."
-    lexi "Yeah, Grace has seen it on tv. There was no reason for us to stop her."
+    lexi "Yeah, Grace đã thấy nó trên TV. Không có lý do gì để ngăn cản em ấy cả."
 
 # game/events/special/prologue.rpy:1053
 translate vietnamese prologue_grace_5eab12ec:
 
     # me "I guess."
-    me "I guess."
+    me "Vậy sao."
 
 # game/events/special/prologue.rpy:1057
 translate vietnamese prologue_grace_599c70c7:
 
     # lexi "She's a nice girl actually, but she has a problem with guys."
-    lexi "She's a nice girl actually, but she has a problem with guys."
+    lexi "Em ấy thực sự là một cô gái tốt, nhưng em ấy hơi có vấn đề với con trai."
 
 # game/events/special/prologue.rpy:1058
 translate vietnamese prologue_grace_230249f5:
 
     # me "It's hard to miss."
-    me "It's hard to miss."
+    me "Khá khó để không nhận ra."
 
 # game/events/special/prologue.rpy:1062
 translate vietnamese prologue_grace_8d2bc163:
 
     # lexi "Just talk with her, she'll get used to you."
-    lexi "Just talk with her, she'll get used to you."
+    lexi "Hãy nói chuyện với em ấy nhiều hơn đi, rồi em ấy sẽ quen dần với sự hiện diện của anh thôi."
 
 # game/events/special/prologue.rpy:1063
 translate vietnamese prologue_grace_a1c73fe1:
 
     # me "Got it."
-    me "Got it."
+    me "Rõ rồi."
 
 # game/events/special/prologue.rpy:1067
 translate vietnamese prologue_grace_dabc033c:
 
     # mina "Sis?"
-    mina "Sis?"
+    mina "Chị?"
 
 # game/events/special/prologue.rpy:1068
 translate vietnamese prologue_grace_ba60ad06:
 
     # me "Mina I guess? [me], nice to meet you."
-    me "Mina I guess? [me], nice to meet you."
+    me "Mina đúng không? Anh là [me], rất vui được gặp em."
 
 # game/events/special/prologue.rpy:1072
 translate vietnamese prologue_grace_fea1e1ae:
 
     # mina "Nice.. Lex, you naughty girl, you brought a guy home! And such a handsome one on top of that!"
-    mina "Nice.. Lex, you naughty girl, you brought a guy home! And such a handsome one on top of that!"
+    mina "Tuyệt đấy... Lex, chị đúng là một cô gái hư hỏng mà, chị đưa một chàng trai về nhà luôn! Mà còn là trai đẹp nữa chứ!"
 
 # game/events/special/prologue.rpy:1073
 translate vietnamese prologue_grace_79a1278d:
 
     # th "She will be easier to talk to than [grace]."
-    th "She will be easier to talk to than [grace]."
+    th "Em ấy sẽ dễ nói chuyện hơn [grace]."
 
 # game/events/special/prologue.rpy:1074
 translate vietnamese prologue_grace_0aae5047:
@@ -4833,19 +4833,19 @@ translate vietnamese prologue_grace_ea61e618:
 translate vietnamese prologue_grace_d88b6689:
 
     # mina "Mina, nice to meet you. So.."
-    mina "Mina, nice to meet you. So.."
+    mina "Mina, rất vui được gặp anh. Vậy..."
 
 # game/events/special/prologue.rpy:1080
 translate vietnamese prologue_grace_2930e26f:
 
     # me "Yes?"
-    me "Yes?"
+    me "Sao?"
 
 # game/events/special/prologue.rpy:1081
 translate vietnamese prologue_grace_2dbc7579:
 
     # mina "Are you Lexi boy-"
-    mina "Are you Lexi boy-"
+    mina "Anh có phải bạn tra-"
 
 # game/events/special/prologue.rpy:1082
 translate vietnamese prologue_grace_0aae5047_1:
@@ -4857,49 +4857,49 @@ translate vietnamese prologue_grace_0aae5047_1:
 translate vietnamese prologue_grace_96de8fd2:
 
     # mina "I need to get to know the guy you brought."
-    mina "I need to get to know the guy you brought."
+    mina "Em cần phải làm quen với chàng trai mà chị đã đem về chứ."
 
 # game/events/special/prologue.rpy:1084
 translate vietnamese prologue_grace_73f8f5b3:
 
     # lexi "I'll tell everyone at lunch."
-    lexi "I'll tell everyone at lunch."
+    lexi "Chị sẽ nói chuyện với mọi người vào buổi trưa."
 
 # game/events/special/prologue.rpy:1088
 translate vietnamese prologue_grace_6c3e373c:
 
     # mina "Got it~"
-    mina "Got it~"
+    mina "Rõ rồi~"
 
 # game/events/special/prologue.rpy:1089
 translate vietnamese prologue_grace_d75c9ca4:
 
     # mina "Talk later, [me]."
-    mina "Talk later, [me]."
+    mina "Nối chuyện sau nha, [me]."
 
 # game/events/special/prologue.rpy:1090
 translate vietnamese prologue_grace_bad9bdb3:
 
     # me "Yeah, see you."
-    me "Yeah, see you."
+    me "Yeah, gặp em sau."
 
 # game/events/special/prologue.rpy:1094
 translate vietnamese prologue_grace_37a24047:
 
     # lexi "Sorry about her.."
-    lexi "Sorry about her.."
+    lexi "Xin lỗi vì em ấy..."
 
 # game/events/special/prologue.rpy:1095
 translate vietnamese prologue_grace_e2a55328:
 
     # me "No need. I'm glad she doesn't mind my gender."
-    me "No need. I'm glad she doesn't mind my gender."
+    me "Không cần đâu. Anh rất vui vì em ấy không bận tâm đến giới tính của anh."
 
 # game/events/special/prologue.rpy:1096
 translate vietnamese prologue_grace_f12a6b50:
 
     # me "Well, that leaves only.."
-    me "Well, that leaves only.."
+    me "Vậy người cuối cùng là..."
 
 # game/events/special/prologue.rpy:1100
 translate vietnamese prologue_grace_70907a95:
@@ -4923,7 +4923,7 @@ translate vietnamese prologue_grace_786b92ca:
 translate vietnamese prologue_grace_3165b9f2:
 
     # "You two wait a while, but no one responds."
-    "You two wait a while, but no one responds."
+    "Cả hai đợi một lúc nhưng không có phản hồi."
 
 # game/events/special/prologue.rpy:1111
 translate vietnamese prologue_grace_a8b3d1d2:
@@ -4935,59 +4935,58 @@ translate vietnamese prologue_grace_a8b3d1d2:
 translate vietnamese prologue_grace_357beeca:
 
     # lexi "She's not here."
-    lexi "She's not here."
+    lexi "Cô ấy không ở đây."
 
 # game/events/special/prologue.rpy:1116
 translate vietnamese prologue_grace_55247bf3:
 
     # lexi "Find a time to come say hello."
-    lexi "Find a time to come say hello."
+    lexi "Chắc để lúc khác anh tự đến vậy."
 
 # game/events/special/prologue.rpy:1117
 translate vietnamese prologue_grace_fca811a5:
 
     # me "Sure."
-    me "Sure."
+    me "Được thôi."
 
 # game/events/special/prologue.rpy:1122
 translate vietnamese prologue_grace_0fb8ec28:
 
     # lexi "Alright, that's your room."
-    lexi "Alright, that's your room."
+    lexi "Còn đây là phòng của anh."
 
 # game/events/special/prologue.rpy:1123
 translate vietnamese prologue_grace_a0a697c9:
 
     # me "Thank you."
-    me "Thank you."
+    me "Cảm ơn."
 
 # game/events/special/prologue.rpy:1124
 translate vietnamese prologue_grace_783fce49:
 
     # me "Also, I'm sorry about Jack."
-    me "Also, I'm sorry about Jack."
+    me "Nhân tiện thì anh rất tiếc về Jack."
 
 # game/events/special/prologue.rpy:1128
 translate vietnamese prologue_grace_1f44a24c:
 
     # lexi "Treasure your life, you never know when you'll die out there."
-    lexi "Treasure your life, you never know when you'll die out there."
+    lexi "Hãy trân trọng cuộc sống của mình, anh sẽ không bao giờ biết khi nào mình sẽ chết ngoài kia đâu."
 
 # game/events/special/prologue.rpy:1132
 translate vietnamese prologue_grace_083d6cb0:
 
     # lexi "Any questions?"
-    lexi "Any questions?"
+    lexi "Có câu hỏi gì không?"
 
 # game/events/special/prologue.rpy:1181
 translate vietnamese prologue_ask_lexi_52e2461b:
 
     # lexi "Yeah, not many are interested in men prostitutes, so they all have to look for their death outside. Women will have two options."
-    lexi "Yeah, not many are interested in men prostitutes, so they all have to look for their death outside. Women will have two options."
+    lexi "Yeah, không nhiều người quan tâm đến trai bao, vì vậy họ đều phải tìm kiếm cái chết của riêng mình bên ngoài. Phụ nữ sẽ có hai lựa chọn."
 
 # game/events/special/prologue.rpy:1289
 translate vietnamese prologue_end_60f846bf:
 
     # me "A new home.."
-    me "A new home.."
-
+    me "Một ngôi nhà mới..."

@@ -1143,11 +1143,11 @@ translate vietnamese strings:
 
     # renpy/common/00preferences.rpy:453
     old "gl framerate"
-    new "gl framerate"
+    new "tốc độ khung hình gl"
 
     # renpy/common/00gltest.rpy:173
     old "Framerate"
-    new "Framerate"
+    new "Tỷ lệ khung hình"
 
 # TODO: Translation updated at 2022-05-12 09:37
 
@@ -1155,17 +1155,16 @@ translate vietnamese strings:
 
     # renpy/common/00action_other.rpy:662
     old "Open [text] directory."
-    new "Open [text] directory."
+    new "Mở thư mục [text]."
 
     # renpy/common/00preferences.rpy:511
     old "audio when minimized"
-    new "audio when minimized"
+    new "âm thanh khi thu nhỏ"
 
     # renpy/common/00preferences.rpy:531
     old "main volume"
-    new "main volume"
+    new "Âm lượng chính"
 
     # renpy/common/00preferences.rpy:535
     old "mute main"
-    new "mute main"
-
+    new "tắt tiếng chính"

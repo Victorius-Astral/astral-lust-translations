@@ -410,7 +410,7 @@ translate vietnamese strings:
 translate vietnamese mina_1_e8898be8:
 
     # mina "I feel curious about the first man that my sis brought home."
-    mina "I feel curious about the first man that my sis brought home."
+    mina "Em cảm thấy tò mò về người đàn ông đầu tiên chị em đem về thôi."
 
 # TODO: Translation updated at 2022-05-11 01:55
 
@@ -418,11 +418,10 @@ translate vietnamese mina_1_e8898be8:
 translate vietnamese mina_1_ab1909c4:
 
     # th "That was a couch, though.."
-    th "That was a couch, though.."
+    th "Nhưng đó là cái ghế..."
 
 # game/characters/mina/ev_1.rpy:53
 translate vietnamese mina_1_0d74701d:
 
     # "{size=+20}*Bang*{/size}"
     "{size=+20}*Bang*{/size}"
-

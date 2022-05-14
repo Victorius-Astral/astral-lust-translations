@@ -2151,49 +2151,49 @@ translate vietnamese strings:
 translate vietnamese speak_alice_alice_nun_61d78026:
 
     # alice "A nun outfit? For me? What for?"
-    alice "A nun outfit? For me? What for?"
+    alice "Một bộ đồ nữ tu? Cho em? Để làm gì?"
 
 # game/characters/alice/speak.rpy:635
 translate vietnamese speak_alice_alice_nun_da213152:
 
     # me "It's a cosplay like any else."
-    me "It's a cosplay like any else."
+    me "Đó là một bộ cosplay giống như bất kỳ người nào khác."
 
 # game/characters/alice/speak.rpy:639
 translate vietnamese speak_alice_alice_nun_b01a0f65:
 
     # alice "A nun, though? You really get a boner thinking about nuns?"
-    alice "A nun, though? You really get a boner thinking about nuns?"
+    alice "Tuy nhiên, một nữ tu á? Anh thực sự thấy hứng tình nghĩ về các nữ tu sao?"
 
 # game/characters/alice/speak.rpy:640
 translate vietnamese speak_alice_alice_nun_d728a550:
 
     # me "No, I get it thinking about you in a nun outfit."
-    me "No, I get it thinking about you in a nun outfit."
+    me "Không, anh thấy nứng khi nghĩ về em trong trang phục nữ tu."
 
 # game/characters/alice/speak.rpy:644
 translate vietnamese speak_alice_alice_nun_31f6bbb4:
 
     # alice "That makes more sense."
-    alice "That makes more sense."
+    alice "Cái này nghe lọt tai hơn đấy."
 
 # game/characters/alice/speak.rpy:645
 translate vietnamese speak_alice_alice_nun_894cda5c:
 
     # alice "Gimme a moment."
-    alice "Gimme a moment."
+    alice "Đợi em một chút."
 
 # game/characters/alice/speak.rpy:652
 translate vietnamese speak_alice_alice_nun_ded409e4:
 
     # alice "How's that?"
-    alice "How's that?"
+    alice "Thế nào?"
 
 # game/characters/alice/speak.rpy:653
 translate vietnamese speak_alice_alice_nun_210db714:
 
     # me "Nice. Fits you well."
-    me "Nice. Fits you well."
+    me "Tuyệt lắm. Rất hợp với em."
 
 # game/characters/alice/speak.rpy:657
 translate vietnamese speak_alice_alice_nun_8e63d855:
@@ -2205,17 +2205,16 @@ translate vietnamese speak_alice_alice_nun_8e63d855:
 translate vietnamese speak_alice_alice_nun_1468f3c4:
 
     # alice "No fun~"
-    alice "No fun~"
+    alice "KHông vui chút nào hết~"
 
 # game/characters/alice/speak.rpy:673
 translate vietnamese speak_alice_alice_nun_967e52eb:
 
     # me "Sorry babe."
-    me "Sorry babe."
+    me "Xin lỗi em yêu."
 
 translate vietnamese strings:
 
     # game/characters/alice/speak.rpy:656
     old "Let's skip this"
-    new "Let's skip this"
-
+    new "Hãy bỏ cái này đi"

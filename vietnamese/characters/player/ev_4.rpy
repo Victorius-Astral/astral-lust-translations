@@ -853,7 +853,7 @@ translate vietnamese strings:
 
     # game/characters/player/ev_4.rpy:195
     old "The mere mention of Throdog R'luhhor caused her to drown in terror and throw me out immediately."
-    new "Việc chỉ nhắc đến Throdog R'luhhor đã khiến cô ấy chết chìm trong nỗi kinh hoàng và ném tôi ra ngoài ngay lập tức."
+    new "Chỉ cần nhắc đến Throdog R'luhhor đã khiến cô ấy chết chìm trong nỗi kinh hoàng và ném tôi ra ngoài ngay lập tức."
 # TODO: Translation updated at 2022-04-17 12:12
 
 translate vietnamese strings:
