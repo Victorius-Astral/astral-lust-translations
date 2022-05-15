@@ -196,7 +196,7 @@ translate spanish grace_11_8eda3dd3:
 translate spanish grace_11_0d522470:
 
     # th "So it's our 'home' game that's the culprit behind her uneasiness."
-    th "Así que el culpable de su malestar es nuestro juego de 'casa'."
+    th "Así que el culpable de su malestar fue nosotros jugando a la casita."
 
 # game/characters/grace/ev_11.rpy:44
 translate spanish grace_11_b5b354cc:
