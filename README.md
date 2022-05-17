@@ -90,8 +90,6 @@ If there is something not clear reach out on our [Discord](https://discord.gg/tj
 First of all, you would need to create an account on Github (if you don't have one) or you can create a fake one just in case you don't want to use your professional one. Go here and create it: [https://github.com/](https://github.com/)
 Once you have an account you can open on the repositories that we have for translations:
 
-**Translations for Lust Academy - Season 1** - url: [https://github.com/MisterZ8/LustAcademyTL](https://github.com/MisterZ8/LustAcademyTL)
-
 You should see this:
 
 ![image](https://user-images.githubusercontent.com/79453594/151213502-adc127ac-02a7-4c98-8929-86c2df9835f1.png)
