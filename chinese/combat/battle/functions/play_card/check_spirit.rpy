@@ -1,8 +1,6 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/combat/battle/functions/play_card/check_spirit.rpy:10
     old "You don't have enough energy."
-    new "You don't have enough energy."
+    new "能量不足。"
 

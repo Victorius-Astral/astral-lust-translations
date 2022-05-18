@@ -1,8 +1,6 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/combat/cards/cards/abi/Faceless.rpy:6
     old "Faceless"
-    new "Faceless"
+    new "无面者"
 
