@@ -4,11 +4,11 @@ translate chinese strings:
 
     # game/screens/menus/quests.rpy:49
     old "Journal"
-    new "日志"
+    new "进度"
 
     # game/screens/menus/quests.rpy:59
     old "Codex"
-    new "法典"
+    new "资料"
 
     # game/screens/menus/quests.rpy:71
     old "{gold}You can't trigger an event?\n Try increasing girl's trust & lust to her affection level.\n{/gold}"
