@@ -2,5 +2,5 @@
 
     # game/combat/cards/cards/abi/Empower.rpy:6
     old "Empower"
-    new "力量"
+    new "变强"
 

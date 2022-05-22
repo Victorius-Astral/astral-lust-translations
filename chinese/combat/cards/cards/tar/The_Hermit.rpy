@@ -1,32 +1,30 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:6
     old "The Hermit"
-    new "The Hermit"
+    new "隐士"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "intelligence"
-    new "intelligence"
+    new "智力"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "vitality"
-    new "vitality"
+    new "耐力"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "charisma"
-    new "charisma"
+    new "魅力"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "agility"
-    new "agility"
+    new "敏捷性"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "wisdom"
-    new "wisdom"
+    new "学位"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "strength"
-    new "strength"
+    new "力量"
 
