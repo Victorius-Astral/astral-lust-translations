@@ -351,3 +351,31 @@ translate spanish strings:
     # game/variables/tips.rpy:4
     old "I should ask her more about the extraordinary world. (Main Story at least 12)"
     new "Debería preguntarle más sobre el mundo extraordinario. (Historia principal al menos 12)"
+# TODO: Translation updated at 2022-05-25 17:25
+
+translate spanish strings:
+
+    # game/variables/tips.rpy:4
+    old "They say that when falling asleep the mind thinks it's dying. What happens when you 'resurrect'?"
+    new "They say that when falling asleep the mind thinks it's dying. What happens when you 'resurrect'?"
+
+    # game/variables/tips.rpy:4
+    old "Maybe I should take a day off to chill out in my room from time to time."
+    new "Maybe I should take a day off to chill out in my room from time to time."
+
+    # game/variables/tips.rpy:4
+    old "I have a feeling something big is gonna happen soon. (need Alice and Little Fox waiting for progress with other girls)"
+    new "I have a feeling something big is gonna happen soon. (need Alice and Little Fox waiting for progress with other girls)"
+
+    # game/variables/tips.rpy:4
+    old "I should progress with other girls."
+    new "I should progress with other girls."
+
+    # game/variables/tips.rpy:4
+    old "Old habits die hard, she's still sometimes chilling out in the lobby. She must interact with other girls there often."
+    new "Old habits die hard, she's still sometimes chilling out in the lobby. She must interact with other girls there often."
+
+    # game/variables/tips.rpy:4
+    old "We should chit chat sometimes."
+    new "We should chit chat sometimes."
+

@@ -259,3 +259,11 @@ translate spanish strings:
     # game/variables/lists/sexpos.rpy:3
     old "Rubbing - Cowgirl"
     new "Frotar - Vaquera"
+# TODO: Translation updated at 2022-05-25 17:25
+
+translate spanish strings:
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Cunnilingus - Against the Counter"
+    new "Cunnilingus - Against the Counter"
+
