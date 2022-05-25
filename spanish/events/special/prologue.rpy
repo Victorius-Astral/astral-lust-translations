@@ -1949,7 +1949,7 @@ translate spanish prologue_part2_12cf7b69:
 translate spanish prologue_part2_3b578cdf:
 
     # me "So, in the hotel, it was all girls besides Jack?"
-    me "Sí, básicamente. Al principio, solo eran Alice y Jack?"
+    me "Así que, en el hotel, ¿eran todas chicas además de Jack?"
 
 # game/events/special/prologue.rpy:697
 translate spanish prologue_part2_fd2c63c0:
@@ -2381,7 +2381,7 @@ translate spanish prologue_part2_2faebb0d:
 translate spanish prologue_part2_0b5255b6:
 
     # grace "Hey! Please, tell me you brought some pasta."
-    grace "¡Hey! ! Por favor, dime que trajiste algo de pasta."
+    grace "¡Hey! Por favor, dime que trajiste algo de pasta."
 
 # game/events/special/prologue.rpy:847
 translate spanish prologue_part2_6e63c6a3:
@@ -2435,7 +2435,7 @@ translate spanish prologue_part2_3b1af84c:
 translate spanish prologue_part2_bfae7159:
 
     # grace "It's alright. I trust your judgment. Who is she? How old is she?"
-    grace "Esta bien. Confío en tu juicio. ¿Quien es ella? ¿Qué edad tiene ella?"
+    grace "Esta bien. Confío en tu juicio. ¿Quién es ella? ¿Qué edad tiene ella?"
 
 # game/events/special/prologue.rpy:856
 translate spanish prologue_part2_d971992a:
@@ -2531,7 +2531,7 @@ translate spanish prologue_part2_1435b681:
 translate spanish prologue_part2_4d243be8:
 
     # grace "You're bad.."
-    grace "Eres.."
+    grace "Eres mala..."
 
 # game/events/special/prologue.rpy:872
 translate spanish prologue_part2_fd380ba7:
@@ -2717,7 +2717,7 @@ translate spanish prologue_part2_fdb4e830_3:
 translate spanish prologue_part2_e1e05de6:
 
     # lexi "Gracie, don't make trouble, we're all living together."
-    lexi "Gracie, no te empieces problemas, todos vivimos juntos."
+    lexi "Gracie, no empieces problemas, todos vivimos juntos."
 
 # game/events/special/prologue.rpy:945
 translate spanish prologue_part2_c909e0ea:
@@ -2891,7 +2891,7 @@ translate spanish prologue_part2_dabc033c:
 translate spanish prologue_part2_ba60ad06:
 
     # me "Mina I guess? [me], nice to meet you."
-    me "¿Mina, supóngo? [me], mucho gusto."
+    me "¿Mina, supongo? [me], mucho gusto."
 
 # game/events/special/prologue.rpy:1011
 translate spanish prologue_part2_fea1e1ae:
@@ -3720,109 +3720,109 @@ translate spanish prologue_9f20e402:
 
     # victorius "{loud}Now, entertain me with your desperate struggle, hahaha!{/loud}"
     victorius "{loud}Ahora, entretenme con tu lucha desesperada, hahaha!{/loud}"
-# TODO: Translation updated at 2022-05-25 17:25
+# : Translation updated at 2022-05-25 17:25
 
 # game/events/special/prologue.rpy:241
 translate spanish prologue_26553d89:
 
     # "*Punch*"
-    "*Punch*"
+    "*Puñetazo*"
 
 # game/events/special/prologue.rpy:389
 translate spanish prologue_lexi1_618b6156:
 
     # lexi "They were overrun by monsters. Most monsters, army was able to deal with, but some of them.."
-    lexi "They were overrun by monsters. Most monsters, army was able to deal with, but some of them.."
+    lexi "Fueron superados por monstruos. Contra la mayoría de ellos, el ejercito podía luchar, pero algunos..."
 
 # game/events/special/prologue.rpy:651
 translate spanish prologue_explore_7879ae1f:
 
     # me "Is there any useful food there after a year?"
-    me "Is there any useful food there after a year?"
+    me "¿Hay algo comestible después de un año?"
 
 # game/events/special/prologue.rpy:657
 translate spanish prologue_explore_6edc983e:
 
     # th "It's indeed covered in fog."
-    th "It's indeed covered in fog."
+    th "Ciertamente, está cubierto en la niebla."
 
 # game/events/special/prologue.rpy:658
 translate spanish prologue_explore_63e3c771:
 
     # me "That's all so unbelievable.."
-    me "That's all so unbelievable.."
+    me "Todo esto es tan difícil de aceptar..."
 
 # game/events/special/prologue.rpy:662
 translate spanish prologue_explore_220c817a:
 
     # lexi "Yeah. You'll get used to it."
-    lexi "Yeah. You'll get used to it."
+    lexi "Sí. Vas a acostumbrarte."
 
 # game/events/special/prologue.rpy:663
 translate spanish prologue_explore_efca9454:
 
     # lexi "You're surprisingly calm about all this, though."
-    lexi "You're surprisingly calm about all this, though."
+    lexi "Aunque estás sorprendentemente calmado."
 
 # game/events/special/prologue.rpy:664
 translate spanish prologue_explore_221e6c9d:
 
     # me "I guess.."
-    me "I guess.."
+    me "Supongo..."
 
 # game/events/special/prologue.rpy:665
 translate spanish prologue_explore_fa15e1f6:
 
     # th "Why is that, though? Now that she mentions it, that's indeed weird I can accept everything just like this.."
-    th "Why is that, though? Now that she mentions it, that's indeed weird I can accept everything just like this.."
+    th "¿Pero por qué? Ahora que ella lo menciona, es ciertamente extraño que pueda aceptar todo así..."
 
 # game/events/special/prologue.rpy:666
 translate spanish prologue_explore_3efacc5e:
 
     # lexi "As for the food question, don't worry."
-    lexi "As for the food question, don't worry."
+    lexi "En cuanto a la comida, no te preocupes."
 
 # game/events/special/prologue.rpy:668
 translate spanish prologue_explore_b24524e3:
 
     # me "Can't you drive a car?"
-    me "Can't you drive a car?"
+    me "¿No pueden usar un coche?"
 
 # game/events/special/prologue.rpy:669
 translate spanish prologue_explore_96ddc9e4:
 
     # lexi "Be quiet, remember?"
-    lexi "Be quiet, remember?"
+    lexi "Sé silencioso, ¿recuerdas?"
 
 # game/events/special/prologue.rpy:670
 translate spanish prologue_explore_e9764eda:
 
     # me "Right."
-    me "Right."
+    me "Claro."
 
 # game/events/special/prologue.rpy:671
 translate spanish prologue_explore_b39d925e:
 
     # lexi "Besides, roads are blocked, I told you just now."
-    lexi "Besides, roads are blocked, I told you just now."
+    lexi "Además, las carreteras están bloqueadas, te lo dije hace un momento."
 
 # game/events/special/prologue.rpy:672
 translate spanish prologue_explore_f2def44e:
 
     # me "Sorry, that's a lot of information to digest at once. I'm still getting used to everything."
-    me "Sorry, that's a lot of information to digest at once. I'm still getting used to everything."
+    me "Lo siento, es mucha información para digerir de una sola vez. Todavía me estoy acostumbrando a todo."
 
 # game/events/special/prologue.rpy:676
 translate spanish prologue_explore_a08584a1:
 
     # lexi "Ehh.."
-    lexi "Ehh.."
+    lexi "Ehh..."
 
 # game/events/special/prologue.rpy:680
 translate spanish prologue_explore_52c5d685:
 
     # lexi "Will your head get fixed if I hit you again?"
-    lexi "Will your head get fixed if I hit you again?"
+    lexi "¿Te arreglaría la cabeza si te golpeo de nuevo?"
 
 # game/events/special/prologue.rpy:681
 translate spanish prologue_explore_3820771a:
@@ -3834,115 +3834,115 @@ translate spanish prologue_explore_3820771a:
 translate spanish prologue_explore_ddd01307:
 
     # lexi "No?"
-    lexi "No?"
+    lexi "¿No?"
 
 # game/events/special/prologue.rpy:683
 translate spanish prologue_explore_5e18fdd5:
 
     # me "No. Don't even think about it."
-    me "No. Don't even think about it."
+    me "No. Ni siquiera lo pienses."
 
 # game/events/special/prologue.rpy:687
 translate spanish prologue_explore_15508bb9:
 
     # lexi "Let's go. Don't attract trouble."
-    lexi "Let's go. Don't attract trouble."
+    lexi "Vamos. No atraigas problemas."
 
 # game/events/special/prologue.rpy:688
 translate spanish prologue_explore_ccbfe159:
 
     # me "Don't worry, I like breathing a lot."
-    me "Don't worry, I like breathing a lot."
+    me "No te preocupes, me gusta mucho el poder respirar."
 
 # game/events/special/prologue.rpy:692
 translate spanish prologue_explore_3c87f9a0:
 
     # me "These whispers, what the hell are they?"
-    me "These whispers, what the hell are they?"
+    me "Estos susurros, ¿qué demonios son?"
 
 # game/events/special/prologue.rpy:693
 translate spanish prologue_explore_40bf4be7:
 
     # lexi "You'll hear them as long as you're in the fog, they'll slowly make you delirious and insane, that's also why staying outside for long is dangerous even if we ignore monsters and night."
-    lexi "You'll hear them as long as you're in the fog, they'll slowly make you delirious and insane, that's also why staying outside for long is dangerous even if we ignore monsters and night."
+    lexi "Los escucharás mientras estés en la niebla. Lentamente te volverán loco y delirante, y por eso también es peligroso permanecer afuera por mucho tiempo, incluso si ignoramos a los monstruos y la noche."
 
 # game/events/special/prologue.rpy:694
 translate spanish prologue_explore_3040b769:
 
     # lexi "They're usually not strong, though. And if you hear them becoming louder, quickly escape, as it means something dangerous is approaching."
-    lexi "They're usually not strong, though. And if you hear them becoming louder, quickly escape, as it means something dangerous is approaching."
+    lexi "Pero en general no son fuertes. Y si escuchas que se vuelven más fuertes, escapa rápidamente, ya que significa que algo peligroso se acerca."
 
 # game/events/special/prologue.rpy:695
 translate spanish prologue_explore_8b577b84:
 
     # me "Whispers equals danger. Got it."
-    me "Whispers equals danger. Got it."
+    me "Los susurros equivalen a peligro. Lo tengo."
 
 # game/events/special/prologue.rpy:696
 translate spanish prologue_explore_a2851395:
 
     # th "They sound like the ones I heard when I was unconscious.. Was it all a dream? Maybe flashback from the past year?"
-    th "They sound like the ones I heard when I was unconscious.. Was it all a dream? Maybe flashback from the past year?"
+    th "Suenan como los que escuché cuando estaba inconsciente... ¿Fue todo un sueño? ¿Quizás un flashback del año pasado?"
 
 # game/events/special/prologue.rpy:701
 translate spanish prologue_explore_e3594ce5:
 
     # lexi "There's my sister - Mina, we live in one room."
-    lexi "There's my sister - Mina, we live in one room."
+    lexi "Está mi hermana, Mina. Vivimos en una habitación."
 
 # game/events/special/prologue.rpy:702
 translate spanish prologue_explore_f560cdba:
 
     # me "The one I awoke in?"
-    me "The one I awoke in?"
+    me "¿Esa es en la que me desperté?"
 
 # game/events/special/prologue.rpy:703
 translate spanish prologue_explore_10ce5d4e:
 
     # lexi "Yeah, I still don't know how you get in there. I went to the toilet, and when I returned you were there."
-    lexi "Yeah, I still don't know how you get in there. I went to the toilet, and when I returned you were there."
+    lexi "Sí, todavía no sé cómo entraste. Fui al baño y cuando regresé estabas ahí."
 
 # game/events/special/prologue.rpy:707
 translate spanish prologue_explore_de69d1b4:
 
     # me "How come?"
-    me "How come?"
+    me "¿Por qué?"
 
 # game/events/special/prologue.rpy:708
 translate spanish prologue_explore_17e9e51a:
 
     # lexi "You'll know when you met her."
-    lexi "You'll know when you met her."
+    lexi "Lo sabrás cuando la conozcas."
 
 # game/events/special/prologue.rpy:709
 translate spanish prologue_explore_2f1676fa:
 
     # me "Hmm.. Acting mysterious all of sudden."
-    me "Hmm.. Acting mysterious all of sudden."
+    me "Hmm... Actuando misteriosa de repente."
 
 # game/events/special/prologue.rpy:710
 translate spanish prologue_explore_eb568697:
 
     # lexi "Her room is across Alice's."
-    lexi "Her room is across Alice's."
+    lexi "Su habitación está al otro lado de la de Alice."
 
 # game/events/special/prologue.rpy:711
 translate spanish prologue_explore_b9460d95:
 
     # me "What about the last one? Was it.."
-    me "What about the last one? Was it.."
+    me "¿Qué pasa con la última? Era..."
 
 # game/events/special/prologue.rpy:715
 translate spanish prologue_explore_138bebb9:
 
     # lexi "Yeah, it was Jack's room.."
-    lexi "Yeah, it was Jack's room.."
+    lexi "Sí, era la habitación de Jack..."
 
 # game/events/special/prologue.rpy:716
 translate spanish prologue_explore_f21e5be4:
 
     # lexi "You'll live in there."
-    lexi "You'll live in there."
+    lexi "Vas a vivir ahí."
 
 # game/events/special/prologue.rpy:717
 translate spanish prologue_explore_95d3c3e0:
@@ -3954,133 +3954,133 @@ translate spanish prologue_explore_95d3c3e0:
 translate spanish prologue_explore_ee03f113:
 
     # "You walk for about five minutes before [lexi] comes to a stop before a building."
-    "You walk for about five minutes before [lexi] comes to a stop before a building."
+    "Caminas durante unos cinco minutos antes de que [lexi] se detenga frente a un edificio."
 
 # game/events/special/prologue.rpy:722
 translate spanish prologue_explore_8bac1f8a:
 
     # me "That's a shop?"
-    me "That's a shop?"
+    me "¿Eso es una tienda?"
 
 # game/events/special/prologue.rpy:723
 translate spanish prologue_explore_684de1ea:
 
     # lexi "Yeah, it's the back entrance, the storage room."
-    lexi "Yeah, it's the back entrance, the storage room."
+    lexi "Sí, es la entrada trasera, el almacén."
 
 # game/events/special/prologue.rpy:724
 translate spanish prologue_explore_58a38346:
 
     # me "Oh, makes sense."
-    me "Oh, makes sense."
+    me "Oh, tiene sentido."
 
 # game/events/special/prologue.rpy:728
 translate spanish prologue_explore_efb5b4fb:
 
     # lexi "Wait, I'll check if it's empty."
-    lexi "Wait, I'll check if it's empty."
+    lexi "Espera, comprobaré si está vacío."
 
 # game/events/special/prologue.rpy:732
 translate spanish prologue_explore_761245b8:
 
     # me "And?"
-    me "And?"
+    me "¿Y?"
 
 # game/events/special/prologue.rpy:733
 translate spanish prologue_explore_0b736cb2:
 
     # lexi "Looks empty."
-    lexi "Looks empty."
+    lexi "Parece vacío."
 
 # game/events/special/prologue.rpy:737
 translate spanish prologue_explore_96635d45:
 
     # lexi "Alright, come in. Don't forget to close the doors."
-    lexi "Alright, come in. Don't forget to close the doors."
+    lexi "Muy bien, entra. No olvides cerrar las puertas."
 
 # game/events/special/prologue.rpy:741
 translate spanish prologue_explore_b847b91e:
 
     # me "It's indeed abundant in resources."
-    me "It's indeed abundant in resources."
+    me "De verdad es abundante en suministros."
 
 # game/events/special/prologue.rpy:742
 translate spanish prologue_explore_e6542534:
 
     # lexi "Yeah, although I took most of it already."
-    lexi "Yeah, although I took most of it already."
+    lexi "Sí, aunque ya tomé la mayor parte."
 
 # game/events/special/prologue.rpy:746
 translate spanish prologue_explore_e635b287:
 
     # lexi "Here."
-    lexi "Here."
+    lexi "Aquí."
 
 # game/events/special/prologue.rpy:750
 translate spanish prologue_explore_12cf7b69:
 
     # me "Thanks."
-    me "Thanks."
+    me "Gracias."
 
 # game/events/special/prologue.rpy:754
 translate spanish prologue_explore_3b578cdf:
 
     # me "So, in the hotel, it was all girls besides Jack?"
-    me "So, in the hotel, it was all girls besides Jack?"
+    me "Así que, en el hotel, ¿eran todas chicas además de Jack?"
 
 # game/events/special/prologue.rpy:759
 translate spanish prologue_explore_e928f000:
 
     # me "Are they related?"
-    me "Are they related?"
+    me "¿Son familia?"
 
 # game/events/special/prologue.rpy:760
 translate spanish prologue_explore_672b66d4:
 
     # lexi "Nope, it's just that Alice met him in the first week of The End. She had nowhere to hide, so she went with him."
-    lexi "Nope, it's just that Alice met him in the first week of The End. She had nowhere to hide, so she went with him."
+    lexi "No, es solo que Alice lo conoció en la primera semana de El Fin. No tenía dónde esconderse, así que se fue con él."
 
 # game/events/special/prologue.rpy:761
 translate spanish prologue_explore_583ddc53:
 
     # me "How old is everyone?"
-    me "How old is everyone?"
+    me "¿Cuántos años tienen todas?"
 
 # game/events/special/prologue.rpy:762
 translate spanish prologue_explore_f4b9e605:
 
     # lexi "We are all around the same age. Everyone's an adult already, the oldest is in her early twenties."
-    lexi "We are all around the same age. Everyone's an adult already, the oldest is in her early twenties."
+    lexi "Todos tenemos más o menos la misma edad. Todas ya son adultas, la mayor tiene poco más de veinte años."
 
 # game/events/special/prologue.rpy:763
 translate spanish prologue_explore_e16ad92b:
 
     # me "Jack had it nice living with a bunch of young girls."
-    me "Jack had it nice living with a bunch of young girls."
+    me "Jack se lo pasaba bien viviendo con un grupo de chicas jóvenes."
 
 # game/events/special/prologue.rpy:764
 translate spanish prologue_explore_373ae319:
 
     # lexi "Eh, it's nothing like that."
-    lexi "Eh, it's nothing like that."
+    lexi "Eh, no es nada de eso."
 
 # game/events/special/prologue.rpy:769
 translate spanish prologue_explore_51c1c563:
 
     # me "I didn't mean any offense."
-    me "I didn't mean any offense."
+    me "No quise ofender."
 
 # game/events/special/prologue.rpy:771
 translate spanish prologue_explore_6a4b289b:
 
     # lexi "Jack was vastly different, though. Truth be told, he didn't belong to these times. He was warm and caring."
-    lexi "Jack was vastly different, though. Truth be told, he didn't belong to these times. He was warm and caring."
+    lexi "Sin embargo, Jack era muy diferente. A decir verdad, no pertenecía a estos tiempos. Era una persona cálida y afectuosa."
 
 # game/events/special/prologue.rpy:772
 translate spanish prologue_explore_616939b2:
 
     # me "You don't seem overly sad by his disappearance, though."
-    me "You don't seem overly sad by his disappearance, though."
+    me "Sin embargo, no pareces demasiado triste por su desaparición."
 
 # game/events/special/prologue.rpy:773
 translate spanish prologue_explore_d7760fc7:
@@ -4092,37 +4092,37 @@ translate spanish prologue_explore_d7760fc7:
 translate spanish prologue_explore_d37d5874:
 
     # lexi "Death is just a matter of time, we'll all die."
-    lexi "Death is just a matter of time, we'll all die."
+    lexi "La muerte es solo cuestión de tiempo, todos moriremos."
 
 # game/events/special/prologue.rpy:778
 translate spanish prologue_explore_26c21d63:
 
     # me "Indeed."
-    me "Indeed."
+    me "Ciertamente."
 
 # game/events/special/prologue.rpy:779
 translate spanish prologue_explore_1dc51bce:
 
     # lexi "It's just that, after The End, death became much more common.."
-    lexi "It's just that, after The End, death became much more common.."
+    lexi "Es que, después de El Fin, la muerte se volvió mucho más común..."
 
 # game/events/special/prologue.rpy:780
 translate spanish prologue_explore_a9d4c2a2:
 
     # lexi "Perhaps I got used to this.."
-    lexi "Perhaps I got used to this.."
+    lexi "Quizás me acostumbré a esto..."
 
 # game/events/special/prologue.rpy:784
 translate spanish prologue_explore_d396d6e6:
 
     # me "That's a sad thing to get used to, though."
-    me "That's a sad thing to get used to, though."
+    me "Aunque eso es algo triste a lo que acostumbrarse."
 
 # game/events/special/prologue.rpy:785
 translate spanish prologue_explore_791cd5f8:
 
     # lexi "The world turned sad."
-    lexi "The world turned sad."
+    lexi "El mundo se volvió triste."
 
 # game/events/special/prologue.rpy:786
 translate spanish prologue_explore_3820771a_1:
@@ -4134,31 +4134,31 @@ translate spanish prologue_explore_3820771a_1:
 translate spanish prologue_explore_48e1008c:
 
     # me "I'm done. The bag is filled to the brim."
-    me "I'm done. The bag is filled to the brim."
+    me "Terminé. La bolsa está llena hasta el borde."
 
 # game/events/special/prologue.rpy:796
 translate spanish prologue_explore_9c56a201:
 
     # lexi "Great, let's go back."
-    lexi "Great, let's go back."
+    lexi "Genial, volvamos."
 
 # game/events/special/prologue.rpy:801
 translate spanish prologue_explore_c6c5538f:
 
     # me "I thought it's gonna be more dangerous, I'm yet to even see a shadow of a mon-"
-    me "I thought it's gonna be more dangerous, I'm yet to even see a shadow of a mon-"
+    me "Pensé que iba a ser más peligroso, aún no he visto ni la sombra de un mon-"
 
 # game/events/special/prologue.rpy:807
 translate spanish prologue_explore_47bf6844:
 
     # me "Wha-"
-    me "Wha-"
+    me "Qué-"
 
 # game/events/special/prologue.rpy:812
 translate spanish prologue_explore_cfb26272:
 
     # lexi "{quiet}Shut up!{/quiet}"
-    lexi "{quiet}Shut up!{/quiet}"
+    lexi "{quiet}¡Cállate!{/quiet}"
 
 # game/events/special/prologue.rpy:813
 translate spanish prologue_explore_da8442bf:
@@ -4170,49 +4170,49 @@ translate spanish prologue_explore_da8442bf:
 translate spanish prologue_explore_3b3ad77c:
 
     # me "{quiet}What the..{/quiet}"
-    me "{quiet}What the..{/quiet}"
+    me "{quiet}Qué de...{/quiet}"
 
 # game/events/special/prologue.rpy:818
 translate spanish prologue_explore_088cee74:
 
     # th "Is that a bloody chimera?!"
-    th "Is that a bloody chimera?!"
+    th "¡¿Es eso una maldita quimera?!"
 
 # game/events/special/prologue.rpy:823
 translate spanish prologue_explore_c3cd4143:
 
     # chimera "*Roar*!!"
-    chimera "*Roar*!!"
+    chimera "¡¡*Rugido*!!"
 
 # game/events/special/prologue.rpy:826
 translate spanish prologue_explore_dd607d92:
 
     # "Its roar spreads far. Being so close in the proximity made you feel as if your ears were about to bleed."
-    "Its roar spreads far. Being so close in the proximity made you feel as if your ears were about to bleed."
+    "Su rugido se extiende lejos. Estar tan cerca en la proximidad te hacía sentir como si tus oídos estuvieran a punto de sangrar."
 
 # game/events/special/prologue.rpy:827
 translate spanish prologue_explore_9deb7944:
 
     # me "{small}Bastard!{/small}"
-    me "{small}Bastard!{/small}"
+    me "{small}¡Bastardo!{/small}"
 
 # game/events/special/prologue.rpy:828
 translate spanish prologue_explore_1af9755f:
 
     # lexi "{quiet}Shh!{/quiet}"
-    lexi "{quiet}Shh!{/quiet}"
+    lexi "{quiet}¡Shh!{/quiet}"
 
 # game/events/special/prologue.rpy:832
 translate spanish prologue_explore_f4c45155:
 
     # "It doesn't take long for the beast to resume walking."
-    "It doesn't take long for the beast to resume walking."
+    "La bestia no tarda mucho en volver a caminar."
 
 # game/events/special/prologue.rpy:836
 translate spanish prologue_explore_e9852317:
 
     # lexi "How was it? Seeing a monster I mean."
-    lexi "How was it? Seeing a monster I mean."
+    lexi "¿Cómo estuvo? Me refiero a ver un monstruo."
 
 # game/events/special/prologue.rpy:837
 translate spanish prologue_explore_3820771a_2:
@@ -4224,13 +4224,13 @@ translate spanish prologue_explore_3820771a_2:
 translate spanish prologue_explore_4a186f39:
 
     # me "How do you know?"
-    me "How do you know?"
+    me "¿Cómo lo sabes?"
 
 # game/events/special/prologue.rpy:850
 translate spanish prologue_explore_7900e05c:
 
     # lexi "I've seen soldiers try, the result was that a few seconds later the tank was ripped to shreds with the men inside."
-    lexi "I've seen soldiers try, the result was that a few seconds later the tank was ripped to shreds with the men inside."
+    lexi "He visto a soldados intentarlo, el resultado fue que unos segundos después el tanque estaba hecho trizas con los hombres adentro."
 
 # game/events/special/prologue.rpy:851
 translate spanish prologue_explore_3820771a_3:
@@ -4242,103 +4242,103 @@ translate spanish prologue_explore_3820771a_3:
 translate spanish prologue_explore_7526f7ee:
 
     # lexi "Still, the chimera is not even near the titans. I think if a titan wanted to, it could stomp it to death."
-    lexi "Still, the chimera is not even near the titans. I think if a titan wanted to, it could stomp it to death."
+    lexi "Aún así, la quimera ni siquiera está cerca de los titanes. Creo que si un titán quisiera, podría pisotearla hasta matarla."
 
 # game/events/special/prologue.rpy:855
 translate spanish prologue_explore_a1c73fe1:
 
     # me "Got it."
-    me "Got it."
+    me "Entendido."
 
 # game/events/special/prologue.rpy:856
 translate spanish prologue_explore_261dff80:
 
     # lexi "On the bright side, the powerful ones are rare, and most of them don't leave the proximity of their lair."
-    lexi "On the bright side, the powerful ones are rare, and most of them don't leave the proximity of their lair."
+    lexi "En el lado positivo, los poderosos son raros, y la mayoría de ellos no abandonan la proximidad de su guarida."
 
 # game/events/special/prologue.rpy:857
 translate spanish prologue_explore_5fa91433:
 
     # me "Is this chimera's lair close?"
-    me "Is this chimera's lair close?"
+    me "¿La guarida de esta quimera está cerca?"
 
 # game/events/special/prologue.rpy:858
 translate spanish prologue_explore_f05292b8:
 
     # lexi "Should be. I've seen it a couple of times."
-    lexi "Should be. I've seen it a couple of times."
+    lexi "Debería. La he visto un par de veces."
 
 # game/events/special/prologue.rpy:859
 translate spanish prologue_explore_cc3320c3:
 
     # me "How did you know it's coming?"
-    me "How did you know it's coming?"
+    me "¿Cómo supiste que venía?"
 
 # game/events/special/prologue.rpy:860
 translate spanish prologue_explore_398f08fe:
 
     # lexi "Whispers, remember? Listen to the bloody whispers."
-    lexi "Whispers, remember? Listen to the bloody whispers."
+    lexi "Susurros, ¿recuerdas? Escucha los malditos susurros."
 
 # game/events/special/prologue.rpy:861
 translate spanish prologue_explore_7dee7ca9:
 
     # me "My bad."
-    me "My bad."
+    me "Mi culpa."
 
 # game/events/special/prologue.rpy:865
 translate spanish prologue_explore_d71bf6a1:
 
     # lexi "Alright, it should be far enough."
-    lexi "Alright, it should be far enough."
+    lexi "Está bien, debería estar lo suficientemente lejos."
 
 # game/events/special/prologue.rpy:866
 translate spanish prologue_explore_85948998:
 
     # me "It went the same way we're supposed to take."
-    me "It went the same way we're supposed to take."
+    me "Se fue por el mismo camino que se supone que debemos tomar."
 
 # game/events/special/prologue.rpy:867
 translate spanish prologue_explore_379466f5:
 
     # lexi "I know, we'll take a little longer path to avoid it."
-    lexi "I know, we'll take a little longer path to avoid it."
+    lexi "Lo sé, tomaremos un camino un poco más largo para evitarlo."
 
 # game/events/special/prologue.rpy:868
 translate spanish prologue_explore_047e0041:
 
     # me "Alright. I'll take the bags."
-    me "Alright. I'll take the bags."
+    me "Está bien. Me llevaré las bolsas."
 
 # game/events/special/prologue.rpy:869
 translate spanish prologue_explore_925e26f6:
 
     # lexi "Whatever suits you."
-    lexi "Whatever suits you."
+    lexi "Lo que más te convenga."
 
 # game/events/special/prologue.rpy:873
 translate spanish prologue_explore_9aac9949:
 
     # me "Everything is so unreal.."
-    me "Everything is so unreal.."
+    me "Todo es tan irreal..."
 
 # game/events/special/prologue.rpy:874
 translate spanish prologue_explore_0cd46d6e:
 
     # lexi "Yeah."
-    lexi "Yeah."
+    lexi "Sí."
 
 # game/events/special/prologue.rpy:875
 translate spanish prologue_explore_12766a87:
 
     # me "I thought I died in the crash."
-    me "I thought I died in the crash."
+    me "Pensé que había muerto en el accidente."
 
 # game/events/special/prologue.rpy:876
 translate spanish prologue_explore_06cfaecc:
 
     # lexi "You didn't die. You've gone to Hell anyway, though."
-    lexi "You didn't die. You've gone to Hell anyway, though."
+    lexi "No moriste. Aunque fuiste al infierno de todos modos."
 
 # game/events/special/prologue.rpy:877
 translate spanish prologue_explore_3820771a_4:
@@ -4350,55 +4350,55 @@ translate spanish prologue_explore_3820771a_4:
 translate spanish prologue_explore_be5b73fe:
 
     # "Neither of you spoke for the rest of the trip letting you think over your new situation."
-    "Neither of you spoke for the rest of the trip letting you think over your new situation."
+    "Ninguno de ustedes habló durante el resto del viaje dejándote pensar en tu nueva situación."
 
 # game/events/special/prologue.rpy:882
 translate spanish prologue_explore_da1930c6:
 
     # th "Calling this a Hell is about right.."
-    th "Calling this a Hell is about right.."
+    th "Llamar a esto un Infierno es adecuado..."
 
 # game/events/special/prologue.rpy:890
 translate spanish prologue_grace_3d81222f:
 
     # lexi "Let's go to the kitchen."
-    lexi "Let's go to the kitchen."
+    lexi "Vamos a la cocina."
 
 # game/events/special/prologue.rpy:894
 translate spanish prologue_grace_b16a6c34:
 
     # lexi "At this time, Grace's bound to be cooking a lunch."
-    lexi "At this time, Grace's bound to be cooking a lunch."
+    lexi "A esta hora, Grace seguramente estará cocinando el almuerzo."
 
 # game/events/special/prologue.rpy:895
 translate spanish prologue_grace_08be13bd:
 
     # me "I guess it's time to say hello."
-    me "I guess it's time to say hello."
+    me "Supongo que es hora de decir hola."
 
 # game/events/special/prologue.rpy:899
 translate spanish prologue_grace_961e1e6c:
 
     # lexi "Yeah... Let me speak first."
-    lexi "Yeah... Let me speak first."
+    lexi "Sí... Déjame hablar primero."
 
 # game/events/special/prologue.rpy:900
 translate spanish prologue_grace_bac1cb40:
 
     # me "Huh?"
-    me "Huh?"
+    me "¿Huh?"
 
 # game/events/special/prologue.rpy:901
 translate spanish prologue_grace_340b5294:
 
     # lexi "Wait a while."
-    lexi "Wait a while."
+    lexi "Espera un momento."
 
 # game/events/special/prologue.rpy:902
 translate spanish prologue_grace_0a092cbb:
 
     # me "Okay?"
-    me "Okay?"
+    me "¿Okay?"
 
 # game/events/special/prologue.rpy:906
 translate spanish prologue_grace_2faebb0d:
@@ -4410,67 +4410,67 @@ translate spanish prologue_grace_2faebb0d:
 translate spanish prologue_grace_0b5255b6:
 
     # grace "Hey! Please, tell me you brought some pasta."
-    grace "Hey! Please, tell me you brought some pasta."
+    grace "¡Hey! Por favor, dime que trajiste algo de pasta."
 
 # game/events/special/prologue.rpy:908
 translate spanish prologue_grace_6e63c6a3:
 
     # lexi "I have some."
-    lexi "I have some."
+    lexi "Traje algo conmigo."
 
 # game/events/special/prologue.rpy:909
 translate spanish prologue_grace_2d7cab0e:
 
     # grace "Great!"
-    grace "Great!"
+    grace "¡Genial!"
 
 # game/events/special/prologue.rpy:910
 translate spanish prologue_grace_20a871df:
 
     # th "She sounds like someone easy to talk to."
-    th "She sounds like someone easy to talk to."
+    th "Suena como alguien con quien es fácil hablar."
 
 # game/events/special/prologue.rpy:911
 translate spanish prologue_grace_af59429e:
 
     # grace "Umm? Where is the bag?"
-    grace "Umm? Where is the bag?"
+    grace "¿Umm? ¿Dónde está la bolsa?"
 
 # game/events/special/prologue.rpy:912
 translate spanish prologue_grace_31a605c4:
 
     # lexi "It's in the corridor by the sofa with.."
-    lexi "It's in the corridor by the sofa with.."
+    lexi "Está en el pasillo junto al sofá con..."
 
 # game/events/special/prologue.rpy:913
 translate spanish prologue_grace_7f712025:
 
     # lexi "You see, we'll have a new person living with us."
-    lexi "You see, we'll have a new person living with us."
+    lexi "Verás, tendremos una nueva persona viviendo con nosotros."
 
 # game/events/special/prologue.rpy:914
 translate spanish prologue_grace_a18c65d1:
 
     # grace "I see."
-    grace "I see."
+    grace "Ya veo."
 
 # game/events/special/prologue.rpy:915
 translate spanish prologue_grace_3b1af84c:
 
     # lexi "I hope you don't mind."
-    lexi "I hope you don't mind."
+    lexi "Espero no te importe."
 
 # game/events/special/prologue.rpy:916
 translate spanish prologue_grace_bfae7159:
 
     # grace "It's alright. I trust your judgment. Who is she? How old is she?"
-    grace "It's alright. I trust your judgment. Who is she? How old is she?"
+    grace "Esta bien. Confío en tu juicio. ¿Quién es ella? ¿Qué edad tiene ella?"
 
 # game/events/special/prologue.rpy:917
 translate spanish prologue_grace_d971992a:
 
     # lexi "Looks a little older than us."
-    lexi "Looks a little older than us."
+    lexi "Parece un poco mayor que nosotras."
 
 # game/events/special/prologue.rpy:918
 translate spanish prologue_grace_7402cda2:
@@ -4482,37 +4482,37 @@ translate spanish prologue_grace_7402cda2:
 translate spanish prologue_grace_8e858d89:
 
     # lexi "There's one thing, though."
-    lexi "There's one thing, though."
+    lexi "Sin embargo, hay una detalle."
 
 # game/events/special/prologue.rpy:920
 translate spanish prologue_grace_5b8f0a20:
 
     # grace "Mm?"
-    grace "Mm?"
+    grace "¿Mm?"
 
 # game/events/special/prologue.rpy:921
 translate spanish prologue_grace_e6bac8f2:
 
     # lexi "It's not a she.."
-    lexi "It's not a she.."
+    lexi "No es un ella..."
 
 # game/events/special/prologue.rpy:922
 translate spanish prologue_grace_1cd48824:
 
     # grace "Is it a dog or cat?"
-    grace "Is it a dog or cat?"
+    grace "¿Es un perro o un gato?"
 
 # game/events/special/prologue.rpy:924
 translate spanish prologue_grace_a76e992d:
 
     # lexi "It's not a pet.."
-    lexi "It's not a pet.."
+    lexi "No es una mascota..."
 
 # game/events/special/prologue.rpy:925
 translate spanish prologue_grace_eed17c95:
 
     # grace "W-Wait.. No, Lexi!"
-    grace "W-Wait.. No, Lexi!"
+    grace "E-Espera... ¡No, Lexi!"
 
 # game/events/special/prologue.rpy:926
 translate spanish prologue_grace_d7760fc7:
@@ -4524,19 +4524,19 @@ translate spanish prologue_grace_d7760fc7:
 translate spanish prologue_grace_1f1b5de5:
 
     # grace "Lexi?! This joke isn't funny at all!"
-    grace "Lexi?! This joke isn't funny at all!"
+    grace "¡¿Lexi?! ¡Esta broma no tiene ninguna gracia!"
 
 # game/events/special/prologue.rpy:928
 translate spanish prologue_grace_db2ba286:
 
     # th "I change my mind, I don't get this girl at all.."
-    th "I change my mind, I don't get this girl at all.."
+    th "Cambié de opinión, no entiendo a esta chica en absoluto..."
 
 # game/events/special/prologue.rpy:929
 translate spanish prologue_grace_2a12242f:
 
     # lexi "[me] will stay with us. I'll explain the reason later, with everyone there."
-    lexi "[me] will stay with us. I'll explain the reason later, with everyone there."
+    lexi "[me] se quedará con nosotras. Explicaré la razón más tarde, con todos."
 
 # game/events/special/prologue.rpy:930
 translate spanish prologue_grace_fdb4e830:
@@ -4548,49 +4548,49 @@ translate spanish prologue_grace_fdb4e830:
 translate spanish prologue_grace_1435b681:
 
     # lexi "Gracie.."
-    lexi "Gracie.."
+    lexi "Gracie..."
 
 # game/events/special/prologue.rpy:932
 translate spanish prologue_grace_4d243be8:
 
     # grace "You're bad.."
-    grace "You're bad.."
+    grace "Eres mala..."
 
 # game/events/special/prologue.rpy:933
 translate spanish prologue_grace_fd380ba7:
 
     # lexi "You'll get along."
-    lexi "You'll get along."
+    lexi "Se llevarán bien."
 
 # game/events/special/prologue.rpy:934
 translate spanish prologue_grace_f407d718:
 
     # grace "I'm not going to get along with a guy!"
-    grace "I'm not going to get along with a guy!"
+    grace "¡No me voy a llevar bien con un chico!"
 
 # game/events/special/prologue.rpy:935
 translate spanish prologue_grace_d85d90be:
 
     # th "Oh... I see what's her problem now.."
-    th "Oh... I see what's her problem now.."
+    th "Oh... ya veo cuál es su problema ahora..."
 
 # game/events/special/prologue.rpy:936
 translate spanish prologue_grace_9ac2e912:
 
     # lexi "You managed to come to terms with Jack, so you'll manage to do it with him, too."
-    lexi "You managed to come to terms with Jack, so you'll manage to do it with him, too."
+    lexi "Lograste llegar a un acuerdo con Jack, así que también lo harás con él."
 
 # game/events/special/prologue.rpy:937
 translate spanish prologue_grace_d3c109de:
 
     # grace "It's something else!"
-    grace "It's something else!"
+    grace "¡Es diferente!"
 
 # game/events/special/prologue.rpy:938
 translate spanish prologue_grace_b025781b:
 
     # lexi "Just give it a try."
-    lexi "Just give it a try."
+    lexi "Solo inténtalo."
 
 # game/events/special/prologue.rpy:939
 translate spanish prologue_grace_fdb4e830_1:
@@ -4602,7 +4602,7 @@ translate spanish prologue_grace_fdb4e830_1:
 translate spanish prologue_grace_2145f209:
 
     # lexi "He's here and he wants to say hi. He has your pasta with him too."
-    lexi "He's here and he wants to say hi. He has your pasta with him too."
+    lexi "Está aquí y quiere saludarte. También tiene tu pasta con él."
 
 # game/events/special/prologue.rpy:944
 translate spanish prologue_grace_fdb4e830_2:
@@ -4614,13 +4614,13 @@ translate spanish prologue_grace_fdb4e830_2:
 translate spanish prologue_grace_8d728e26:
 
     # me "Hey, I'm [me]. Nice to meet you."
-    me "Hey, I'm [me]. Nice to meet you."
+    me "Hey, soy [me]. Encantado de conocerte."
 
 # game/events/special/prologue.rpy:952
 translate spanish prologue_grace_69b7980c:
 
     # grace "Grr.."
-    grace "Grr.."
+    grace "Grr..."
 
 # game/events/special/prologue.rpy:953
 translate spanish prologue_grace_3820771a:
@@ -4632,79 +4632,79 @@ translate spanish prologue_grace_3820771a:
 translate spanish prologue_grace_c2eadaa9:
 
     # th "Are you a dog?"
-    th "Are you a dog?"
+    th "¿Eres un perro?"
 
 # game/events/special/prologue.rpy:955
 translate spanish prologue_grace_1435b681_1:
 
     # lexi "Gracie.."
-    lexi "Gracie.."
+    lexi "Gracie..."
 
 # game/events/special/prologue.rpy:959
 translate spanish prologue_grace_0d2da176:
 
     # grace "I'm Grace."
-    grace "I'm Grace."
+    grace "Soy Grace."
 
 # game/events/special/prologue.rpy:963
 translate spanish prologue_grace_9c9a72ec:
 
     # me "You don't need to be wary of me, I'm not a bandit."
-    me "You don't need to be wary of me, I'm not a bandit."
+    me "No necesitas desconfiar de mí, no soy un bandido."
 
 # game/events/special/prologue.rpy:967
 translate spanish prologue_grace_718f81d7:
 
     # grace "You're a man."
-    grace "You're a man."
+    grace "Eres un hombre."
 
 # game/events/special/prologue.rpy:968
 translate spanish prologue_grace_761245b8:
 
     # me "And?"
-    me "And?"
+    me "¿Y?"
 
 # game/events/special/prologue.rpy:972
 translate spanish prologue_grace_39ac0898:
 
     # grace "All men are bad."
-    grace "All men are bad."
+    grace "Todos los hombres son malos."
 
 # game/events/special/prologue.rpy:973
 translate spanish prologue_grace_f522e30d:
 
     # me "Who told you such a bullshit?"
-    me "Who told you such a bullshit?"
+    me "Wh¿Quién te dijo esa basura?"
 
 # game/events/special/prologue.rpy:977
 translate spanish prologue_grace_a8418d27:
 
     # grace "You're bullshit! Mommy never lies!"
-    grace "You're bullshit! Mommy never lies!"
+    grace "¡Tú eres basura! ¡Mami nunca miente!"
 
 # game/events/special/prologue.rpy:978
 translate spanish prologue_grace_6488aec8:
 
     # th "Mommy? Lexi didn't mention her, though. Did she..?"
-    th "Mommy? Lexi didn't mention her, though. Did she..?"
+    th "¿Mami? Pero, Lexi no la mencionó. ¿Ella...?"
 
 # game/events/special/prologue.rpy:982
 translate spanish prologue_grace_4b5f6616:
 
     # me "What about Jack?"
-    me "What about Jack?"
+    me "¿Qué hay de Jack?"
 
 # game/events/special/prologue.rpy:987
 translate spanish prologue_grace_83087c50:
 
     # me "Why?"
-    me "Why?"
+    me "¿Por qué?"
 
 # game/events/special/prologue.rpy:991
 translate spanish prologue_grace_69b7980c_1:
 
     # grace "Grr.."
-    grace "Grr.."
+    grace "Grr..."
 
 # game/events/special/prologue.rpy:992
 translate spanish prologue_grace_3820771a_1:
@@ -4716,13 +4716,13 @@ translate spanish prologue_grace_3820771a_1:
 translate spanish prologue_grace_0c994c2c:
 
     # lexi "I see that you two are getting along."
-    lexi "I see that you two are getting along."
+    lexi "Veo que ustedes dos se llevan bien."
 
 # game/events/special/prologue.rpy:997
 translate spanish prologue_grace_06c69018:
 
     # th "Is this what you call getting along?"
-    th "Is this what you call getting along?"
+    th "¿Es esto lo que llamas llevarse bien?"
 
 # game/events/special/prologue.rpy:1001
 translate spanish prologue_grace_fdb4e830_3:
@@ -4734,25 +4734,25 @@ translate spanish prologue_grace_fdb4e830_3:
 translate spanish prologue_grace_e1e05de6:
 
     # lexi "Gracie, don't make trouble, we're all living together."
-    lexi "Gracie, don't make trouble, we're all living together."
+    lexi "Gracie, no empieces problemas, todos vivimos juntos."
 
 # game/events/special/prologue.rpy:1006
 translate spanish prologue_grace_c909e0ea:
 
     # grace "Mm.."
-    grace "Mm.."
+    grace "Mm..."
 
 # game/events/special/prologue.rpy:1007
 translate spanish prologue_grace_3b57c452:
 
     # lexi "We'll leave you to your tasks."
-    lexi "We'll leave you to your tasks."
+    lexi "Te dejaremos con tus tareas."
 
 # game/events/special/prologue.rpy:1011
 translate spanish prologue_grace_b14599ea:
 
     # grace "Mm. Come for a lunch in a while, Lexi."
-    grace "Mm. Come for a lunch in a while, Lexi."
+    grace "Mm. Ven a almorzar en un rato, Lexi."
 
 # game/events/special/prologue.rpy:1012
 translate spanish prologue_grace_1836de33:
@@ -4764,7 +4764,7 @@ translate spanish prologue_grace_1836de33:
 translate spanish prologue_grace_28512835:
 
     # me "What about me?"
-    me "What about me?"
+    me "¿Qué hay de mi?"
 
 # game/events/special/prologue.rpy:1017
 translate spanish prologue_grace_fdb4e830_4:
@@ -4776,13 +4776,13 @@ translate spanish prologue_grace_fdb4e830_4:
 translate spanish prologue_grace_278c5aac:
 
     # grace "I'll leave it in a fridge."
-    grace "I'll leave it in a fridge."
+    grace "Lo dejaré en the nevera."
 
 # game/events/special/prologue.rpy:1019
 translate spanish prologue_grace_12cf7b69:
 
     # me "Thanks."
-    me "Thanks."
+    me "Gracias."
 
 # game/events/special/prologue.rpy:1020
 translate spanish prologue_grace_7402cda2_1:
@@ -4800,13 +4800,13 @@ translate spanish prologue_grace_d21ae9de:
 translate spanish prologue_grace_5b8f0a20_1:
 
     # grace "Mm?"
-    grace "Mm?"
+    grace "¿Mm?"
 
 # game/events/special/prologue.rpy:1026
 translate spanish prologue_grace_cc4d98c8:
 
     # lexi "He went out and risked his life. All to bring you this food."
-    lexi "He went out and risked his life. All to bring you this food."
+    lexi "Salió y arriesgó su vida. Todo para traerte esta comida."
 
 # game/events/special/prologue.rpy:1027
 translate spanish prologue_grace_fdb4e830_5:
@@ -4818,37 +4818,37 @@ translate spanish prologue_grace_fdb4e830_5:
 translate spanish prologue_grace_1435b681_2:
 
     # lexi "Gracie.."
-    lexi "Gracie.."
+    lexi "Gracie..."
 
 # game/events/special/prologue.rpy:1033
 translate spanish prologue_grace_fb1b5575:
 
     # grace "Thank you."
-    grace "Thank you."
+    grace "Gracias."
 
 # game/events/special/prologue.rpy:1034
 translate spanish prologue_grace_ed914e19:
 
     # me "You're welcome."
-    me "You're welcome."
+    me "De nada."
 
 # game/events/special/prologue.rpy:1038
 translate spanish prologue_grace_6c0d9567:
 
     # lexi "It went pretty well."
-    lexi "It went pretty well."
+    lexi "Fue bastante bien."
 
 # game/events/special/prologue.rpy:1042
 translate spanish prologue_grace_95a6b9f5:
 
     # me "That's what you call well?"
-    me "That's what you call well?"
+    me "¿A eso le llamas bien?"
 
 # game/events/special/prologue.rpy:1043
 translate spanish prologue_grace_49e1c3e9:
 
     # lexi "She'll make you food won't she? She also didn't hit you with a broom or frying pan."
-    lexi "She'll make you food won't she? She also didn't hit you with a broom or frying pan."
+    lexi "Ella cocinará para ti, ¿verdad? Tampoco te golpeó con una escoba o una sartén."
 
 # game/events/special/prologue.rpy:1044
 translate spanish prologue_grace_3820771a_2:
@@ -4860,73 +4860,73 @@ translate spanish prologue_grace_3820771a_2:
 translate spanish prologue_grace_bf1e13df:
 
     # me "French maid, though?"
-    me "French maid, though?"
+    me "Pero, ¿una maid?"
 
 # game/events/special/prologue.rpy:1049
 translate spanish prologue_grace_7ef23dd2:
 
     # lexi "Yeah, Grace has seen it on tv. There was no reason for us to stop her."
-    lexi "Yeah, Grace has seen it on tv. There was no reason for us to stop her."
+    lexi "Sí, Grace lo ha visto en la televisión. No había ninguna razón para que la detuviéramos."
 
 # game/events/special/prologue.rpy:1053
 translate spanish prologue_grace_5eab12ec:
 
     # me "I guess."
-    me "I guess."
+    me "Supongo."
 
 # game/events/special/prologue.rpy:1057
 translate spanish prologue_grace_599c70c7:
 
     # lexi "She's a nice girl actually, but she has a problem with guys."
-    lexi "She's a nice girl actually, but she has a problem with guys."
+    lexi "En realidad es una buena chica, pero tiene problemas con los chicos."
 
 # game/events/special/prologue.rpy:1058
 translate spanish prologue_grace_230249f5:
 
     # me "It's hard to miss."
-    me "It's hard to miss."
+    me "Difícil no notarlo."
 
 # game/events/special/prologue.rpy:1062
 translate spanish prologue_grace_8d2bc163:
 
     # lexi "Just talk with her, she'll get used to you."
-    lexi "Just talk with her, she'll get used to you."
+    lexi "Solo habla con ella, se acostumbrará a ti."
 
 # game/events/special/prologue.rpy:1063
 translate spanish prologue_grace_a1c73fe1:
 
     # me "Got it."
-    me "Got it."
+    me "Entiendo."
 
 # game/events/special/prologue.rpy:1067
 translate spanish prologue_grace_dabc033c:
 
     # mina "Sis?"
-    mina "Sis?"
+    mina "¿Hermana?"
 
 # game/events/special/prologue.rpy:1068
 translate spanish prologue_grace_ba60ad06:
 
     # me "Mina I guess? [me], nice to meet you."
-    me "Mina I guess? [me], nice to meet you."
+    me "¿Mina, supongo? [me], mucho gusto."
 
 # game/events/special/prologue.rpy:1072
 translate spanish prologue_grace_fea1e1ae:
 
     # mina "Nice.. Lex, you naughty girl, you brought a guy home! And such a handsome one on top of that!"
-    mina "Nice.. Lex, you naughty girl, you brought a guy home! And such a handsome one on top of that!"
+    mina "Bien... Lex, niña traviesa, ¡trajiste a un chico a casa! ¡Y uno tan guapo además!"
 
 # game/events/special/prologue.rpy:1073
 translate spanish prologue_grace_79a1278d:
 
     # th "She will be easier to talk to than [grace]."
-    th "She will be easier to talk to than [grace]."
+    th "Será más fácil hablar con ella que con [grace]."
 
 # game/events/special/prologue.rpy:1074
 translate spanish prologue_grace_0aae5047:
 
     # lexi "Mina!"
-    lexi "Mina!"
+    lexi "¡Mina!"
 
 # game/events/special/prologue.rpy:1075
 translate spanish prologue_grace_ea61e618:
@@ -4938,73 +4938,73 @@ translate spanish prologue_grace_ea61e618:
 translate spanish prologue_grace_d88b6689:
 
     # mina "Mina, nice to meet you. So.."
-    mina "Mina, nice to meet you. So.."
+    mina "Mina, encantada de conocerte. Así que..."
 
 # game/events/special/prologue.rpy:1080
 translate spanish prologue_grace_2930e26f:
 
     # me "Yes?"
-    me "Yes?"
+    me "¿Si?"
 
 # game/events/special/prologue.rpy:1081
 translate spanish prologue_grace_2dbc7579:
 
     # mina "Are you Lexi boy-"
-    mina "Are you Lexi boy-"
+    mina "Estás con Lexi-"
 
 # game/events/special/prologue.rpy:1082
 translate spanish prologue_grace_0aae5047_1:
 
     # lexi "Mina!"
-    lexi "Mina!"
+    lexi "¡Mina!"
 
 # game/events/special/prologue.rpy:1083
 translate spanish prologue_grace_96de8fd2:
 
     # mina "I need to get to know the guy you brought."
-    mina "I need to get to know the guy you brought."
+    mina "Necesito conocer al tipo que trajiste."
 
 # game/events/special/prologue.rpy:1084
 translate spanish prologue_grace_73f8f5b3:
 
     # lexi "I'll tell everyone at lunch."
-    lexi "I'll tell everyone at lunch."
+    lexi "Les diré a todas en el almuerzo."
 
 # game/events/special/prologue.rpy:1088
 translate spanish prologue_grace_6c3e373c:
 
     # mina "Got it~"
-    mina "Got it~"
+    mina "Entendido~"
 
 # game/events/special/prologue.rpy:1089
 translate spanish prologue_grace_d75c9ca4:
 
     # mina "Talk later, [me]."
-    mina "Talk later, [me]."
+    mina "Hablamos luego, [me]."
 
 # game/events/special/prologue.rpy:1090
 translate spanish prologue_grace_bad9bdb3:
 
     # me "Yeah, see you."
-    me "Yeah, see you."
+    me "Sí, nos vemos."
 
 # game/events/special/prologue.rpy:1094
 translate spanish prologue_grace_37a24047:
 
     # lexi "Sorry about her.."
-    lexi "Sorry about her.."
+    lexi "Lo siento por eso..."
 
 # game/events/special/prologue.rpy:1095
 translate spanish prologue_grace_e2a55328:
 
     # me "No need. I'm glad she doesn't mind my gender."
-    me "No need. I'm glad she doesn't mind my gender."
+    me "No es necesario. Me alegro de que no le importe mi género."
 
 # game/events/special/prologue.rpy:1096
 translate spanish prologue_grace_f12a6b50:
 
     # me "Well, that leaves only.."
-    me "Well, that leaves only.."
+    me "Bueno, eso solo deja..."
 
 # game/events/special/prologue.rpy:1100
 translate spanish prologue_grace_70907a95:
@@ -5016,13 +5016,13 @@ translate spanish prologue_grace_70907a95:
 translate spanish prologue_grace_4ce1b86d:
 
     # me "Yeah, Alice."
-    me "Yeah, Alice."
+    me "Sí, Alice."
 
 # game/events/special/prologue.rpy:1106
 translate spanish prologue_grace_786b92ca:
 
     # lexi "Alice?"
-    lexi "Alice?"
+    lexi "¿Alice?"
 
 # game/events/special/prologue.rpy:1107
 translate spanish prologue_grace_3165b9f2:
@@ -5034,52 +5034,52 @@ translate spanish prologue_grace_3165b9f2:
 translate spanish prologue_grace_a8b3d1d2:
 
     # lexi "Al?"
-    lexi "Al?"
+    lexi "¿Al?"
 
 # game/events/special/prologue.rpy:1115
 translate spanish prologue_grace_357beeca:
 
     # lexi "She's not here."
-    lexi "She's not here."
+    lexi "Parece que no está."
 
 # game/events/special/prologue.rpy:1116
 translate spanish prologue_grace_55247bf3:
 
     # lexi "Find a time to come say hello."
-    lexi "Find a time to come say hello."
+    lexi "Busca un momento para venir a saludar."
 
 # game/events/special/prologue.rpy:1117
 translate spanish prologue_grace_fca811a5:
 
     # me "Sure."
-    me "Sure."
+    me "Seguro."
 
 # game/events/special/prologue.rpy:1122
 translate spanish prologue_grace_0fb8ec28:
 
     # lexi "Alright, that's your room."
-    lexi "Alright, that's your room."
+    lexi "Muy bien, esa es tu habitación."
 
 # game/events/special/prologue.rpy:1123
 translate spanish prologue_grace_a0a697c9:
 
     # me "Thank you."
-    me "Thank you."
+    me "Gracias."
 
 # game/events/special/prologue.rpy:1124
 translate spanish prologue_grace_783fce49:
 
     # me "Also, I'm sorry about Jack."
-    me "Also, I'm sorry about Jack."
+    me "Además, siento lo de Jack."
 
 # game/events/special/prologue.rpy:1128
 translate spanish prologue_grace_1f44a24c:
 
     # lexi "Treasure your life, you never know when you'll die out there."
-    lexi "Treasure your life, you never know when you'll die out there."
+    lexi "Atesora tu vida, nunca sabes cuándo morirás ahí fuera."
 
 # game/events/special/prologue.rpy:1132
 translate spanish prologue_grace_083d6cb0:
 
     # lexi "Any questions?"
-    lexi "Any questions?"
+    lexi "¿Alguna pregunta?"
