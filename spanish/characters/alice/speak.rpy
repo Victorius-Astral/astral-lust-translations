@@ -2971,77 +2971,76 @@ translate spanish strings:
     # game/characters/alice/speak.rpy:552
     old "Outfits"
     new "Trajes"
-# TODO: Translation updated at 2022-05-25 17:25
+# : Translation updated at 2022-05-25 17:25
 
 # game/characters/alice/speak.rpy:634
 translate spanish speak_alice_alice_nun_61d78026:
 
     # alice "A nun outfit? For me? What for?"
-    alice "A nun outfit? For me? What for?"
+    alice "¿Un traje de monja? ¿Para mí? ¿Para qué?"
 
 # game/characters/alice/speak.rpy:635
 translate spanish speak_alice_alice_nun_da213152:
 
     # me "It's a cosplay like any else."
-    me "It's a cosplay like any else."
+    me "Es un cosplay como cualquier otro."
 
 # game/characters/alice/speak.rpy:639
 translate spanish speak_alice_alice_nun_b01a0f65:
 
     # alice "A nun, though? You really get a boner thinking about nuns?"
-    alice "A nun, though? You really get a boner thinking about nuns?"
+    alice "¿Pero, una monja? ¿De verdad se te pone dura pensando en monjas?"
 
 # game/characters/alice/speak.rpy:640
 translate spanish speak_alice_alice_nun_d728a550:
 
     # me "No, I get it thinking about you in a nun outfit."
-    me "No, I get it thinking about you in a nun outfit."
+    me "No, se pone así pensando en ti, con un traje de monja."
 
 # game/characters/alice/speak.rpy:644
 translate spanish speak_alice_alice_nun_31f6bbb4:
 
     # alice "That makes more sense."
-    alice "That makes more sense."
+    alice "Eso tiene más sentido."
 
 # game/characters/alice/speak.rpy:645
 translate spanish speak_alice_alice_nun_894cda5c:
 
     # alice "Gimme a moment."
-    alice "Gimme a moment."
+    alice "Dame un momento."
 
 # game/characters/alice/speak.rpy:652
 translate spanish speak_alice_alice_nun_ded409e4:
 
     # alice "How's that?"
-    alice "How's that?"
+    alice "¿Qué tal está?"
 
 # game/characters/alice/speak.rpy:653
 translate spanish speak_alice_alice_nun_210db714:
 
     # me "Nice. Fits you well."
-    me "Nice. Fits you well."
+    me "Bien. Te queda bien."
 
 # game/characters/alice/speak.rpy:657
 translate spanish speak_alice_alice_nun_8e63d855:
 
     # alice "Do you want to play test this new outfit?" nointeract
-    alice "Do you want to play test this new outfit?" nointeract
+    alice "¿Quieres poner a prueba este nuevo conjunto?" nointeract
 
 # game/characters/alice/speak.rpy:672
 translate spanish speak_alice_alice_nun_1468f3c4:
 
     # alice "No fun~"
-    alice "No fun~"
+    alice "Aburrido~"
 
 # game/characters/alice/speak.rpy:673
 translate spanish speak_alice_alice_nun_967e52eb:
 
     # me "Sorry babe."
-    me "Sorry babe."
+    me "Lo siento cariño."
 
 translate spanish strings:
 
     # game/characters/alice/speak.rpy:656
     old "Let's skip this"
-    new "Let's skip this"
-
+    new "Vamos a saltarnos esto"

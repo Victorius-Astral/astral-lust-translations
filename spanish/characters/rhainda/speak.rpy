@@ -530,11 +530,10 @@ translate spanish speak_rhainda_3820771a_2:
 
     # me "..."
     me "..."
-# TODO: Translation updated at 2022-05-25 17:25
+# : Translation updated at 2022-05-25 17:25
 
 translate spanish strings:
 
     # game/characters/rhainda/speak.rpy:66
     old "I wanted to ask about your dress, the Cheongsam {gold}(Story){/gold}"
-    new "I wanted to ask about your dress, the Cheongsam {gold}(Story){/gold}"
-
+    new "Quería preguntarte por tu vestido, el Cheongsam {gold}(Historia){/gold}"

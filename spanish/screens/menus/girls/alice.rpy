@@ -105,7 +105,7 @@ translate spanish strings:
     # game/screens/menus/girls/alice.rpy:23
     old "Nicknames: Al"
     new "Apodos: Al"
-# TODO: Translation updated at 2022-05-25 17:25
+# : Translation updated at 2022-05-25 17:25
 
 translate spanish strings:
 
@@ -115,5 +115,4 @@ translate spanish strings:
 
     # game/screens/menus/girls/alice.rpy:46
     old "• Rubbing: "
-    new "• Rubbing: "
-
+    new "• Frotar: "

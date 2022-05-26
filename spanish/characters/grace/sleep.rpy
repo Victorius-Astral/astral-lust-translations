@@ -1607,11 +1607,10 @@ translate spanish sleep_grace_feet_wakeup_success2_1547105b:
 
     # me "I wiped it already, though."
     me "Aunque ya lo limpié."
-# TODO: Translation updated at 2022-05-25 17:25
+# : Translation updated at 2022-05-25 17:25
 
 translate spanish strings:
 
     # game/characters/grace/sleep.rpy:32
     old "Turn to her feet {#visible}"
-    new "Turn to her feet {#visible}"
-
+    new "Mira hacia sus pies {#visible}"

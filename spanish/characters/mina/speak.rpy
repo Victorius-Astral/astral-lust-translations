@@ -1063,11 +1063,10 @@ translate spanish strings:
     # game/characters/mina/speak.rpy:161
     old "She likes pink."
     new "Le gusta el rosa."
-# TODO: Translation updated at 2022-05-25 17:25
+# : Translation updated at 2022-05-25 17:25
 
 translate spanish strings:
 
     # game/characters/mina/speak.rpy:30
     old "I'll get you the vodka you wanted"
-    new "I'll get you the vodka you wanted"
-
+    new "Voy a conseguirte el vodka que querías"

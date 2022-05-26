@@ -917,11 +917,10 @@ translate spanish strings:
     # game/characters/lexi/speak.rpy:191
     old "The End arrived before her 20th birthday."
     new "El Fin llegó antes de que cumpliera 20 años."
-# TODO: Translation updated at 2022-05-25 17:25
+# : Translation updated at 2022-05-25 17:25
 
 translate spanish strings:
 
     # game/characters/lexi/speak.rpy:12
     old "Mina asked me to get her booze"
-    new "Mina asked me to get her booze"
-
+    new "Mina me pidió que le consiga alcohol"

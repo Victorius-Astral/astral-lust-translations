@@ -671,35 +671,34 @@ translate spanish strings:
     # game/variables/replays.rpy:268
     old "First Days in the Hotel"
     new "Primeros Días en el Hotel"
-# TODO: Translation updated at 2022-05-25 17:25
+# : Translation updated at 2022-05-25 17:25
 
 translate spanish strings:
 
     # game/variables/replays.rpy:130
     old "Dreaming of Her Dad"
-    new "Dreaming of Her Dad"
+    new "Soñando con Su Papá"
 
     # game/variables/replays.rpy:130
     old "[me] the Psychologist"
-    new "[me] the Psychologist"
+    new "[me] el Psicólogo"
 
     # game/variables/replays.rpy:130
     old "Dildo for [grace]"
-    new "Dildo for [grace]"
+    new "Consolador para [grace]"
 
     # game/variables/replays.rpy:130
     old "Nasty Revenge"
-    new "Nasty Revenge"
+    new "Venganza Sucia"
 
     # game/variables/replays.rpy:252
     old "A Way to Chill Out"
-    new "A Way to Chill Out"
+    new "Una Forma de Relajarse"
 
     # game/variables/replays.rpy:273
     old "The Blind Blacksmith part 1"
-    new "The Blind Blacksmith part 1"
+    new "El Herrero Ciego parte 1"
 
     # game/variables/replays.rpy:273
     old "About Her Cheongsam"
-    new "About Her Cheongsam"
-
+    new "Sobre Su Cheongsam"

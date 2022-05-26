@@ -1148,23 +1148,22 @@ translate spanish strings:
     # renpy/common/00preferences.rpy:493
     old "high contrast text"
     new "texto de alto contraste"
-# TODO: Translation updated at 2022-05-25 17:25
+# : Translation updated at 2022-05-25 17:25
 
 translate spanish strings:
 
     # renpy/common/00action_other.rpy:662
     old "Open [text] directory."
-    new "Open [text] directory."
+    new "Abrir diccionario [text]."
 
     # renpy/common/00preferences.rpy:511
     old "audio when minimized"
-    new "audio when minimized"
+    new "audio cuando minimizado"
 
     # renpy/common/00preferences.rpy:531
     old "main volume"
-    new "main volume"
+    new "volumen principal"
 
     # renpy/common/00preferences.rpy:535
     old "mute main"
-    new "mute main"
-
+    new "silenciar principal"

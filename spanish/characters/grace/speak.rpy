@@ -1777,11 +1777,10 @@ translate spanish strings:
     # game/characters/grace/speak.rpy:84
     old "You.. You.. peed on me.."
     new "Tú... Tú... me orinaste..."
-# TODO: Translation updated at 2022-05-25 17:25
+# : Translation updated at 2022-05-25 17:25
 
 translate spanish strings:
 
     # game/characters/grace/speak.rpy:27
     old "I need you to cook a dinner for me and Lexi"
-    new "I need you to cook a dinner for me and Lexi"
-
+    new "Necesito que cocines una cena para Lexi y para mí"
