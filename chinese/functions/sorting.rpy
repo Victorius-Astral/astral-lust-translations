@@ -4,21 +4,21 @@ translate chinese strings:
 
     # game/functions/sorting.rpy:140
     old "Sort by: "
-    new "Sort by: "
+    new "检索方式: "
 
     # game/functions/sorting.rpy:146
     old "Name"
-    new "Name"
+    new "名称"
 
     # game/functions/sorting.rpy:161
     old "Rarity"
-    new "Rarity"
+    new "稀有度"
 
     # game/functions/sorting.rpy:178
     old "Cost"
-    new "Cost"
+    new "价格"
 
     # game/functions/sorting.rpy:193
     old "Type"
-    new "Type"
+    new "类型"
 
