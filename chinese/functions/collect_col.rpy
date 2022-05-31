@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/functions/collect_col.rpy:4
     old "You have found collectible nr. {}"
-    new "已找到收藏品第{}号"
+    new "已找到第{}号收藏品"
 
