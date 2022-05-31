@@ -1784,3 +1784,11 @@ translate spanish strings:
     # game/characters/grace/speak.rpy:27
     old "I need you to cook a dinner for me and Lexi"
     new "Necesito que cocines una cena para Lexi y para mí"
+# TODO: Translation updated at 2022-05-31 13:10
+
+translate spanish strings:
+
+    # game/characters/grace/speak.rpy:27
+    old "Tell her about the date"
+    new "Tell her about the date"
+

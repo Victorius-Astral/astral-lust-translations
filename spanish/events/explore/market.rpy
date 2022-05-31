@@ -231,3 +231,11 @@ translate spanish strings:
     # game/events/explore/market.rpy:68
     old "Open the door"
     new "Abre la puerta"
+# TODO: Translation updated at 2022-05-31 13:10
+
+# game/events/explore/market.rpy:54
+translate spanish exp_market_menu_c1884038:
+
+    # th "Gotta get something special for [lexi]."
+    th "Gotta get something special for [lexi]."
+
