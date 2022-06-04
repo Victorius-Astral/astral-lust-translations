@@ -163,8 +163,8 @@ translate chinese strings:
     new "How is your leg? {gold}(Story){/gold}"
 
     # game/characters/savenia/speak.rpy:8
-    old "I've got a few question"
-    new "I've got a few question"
+    old "I've got a few questions"
+    new "I've got a few questions"
 
     # game/characters/savenia/speak.rpy:8
     old "Have fun"

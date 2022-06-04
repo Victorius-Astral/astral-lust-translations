@@ -163,7 +163,7 @@ translate spanish strings:
     new "¿Cómo está tu pierna? {gold}(Historia){/gold}"
 
     # game/characters/savenia/speak.rpy:8
-    old "I've got a few question"
+    old "I've got a few questions"
     new "Tengo algunas preguntas"
 
     # game/characters/savenia/speak.rpy:19

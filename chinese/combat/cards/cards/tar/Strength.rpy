@@ -1,12 +1,10 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/combat/cards/cards/tar/Strength.rpy:6
     old "Strength"
-    new "Strength"
+    new "力量"
 
     # game/combat/cards/cards/tar/Strength.rpy:35
     old "your strength ({}) - wisdom ({})"
-    new "your strength ({}) - wisdom ({})"
+    new "你的力量 ({}) - 学问 ({})"
 

@@ -163,7 +163,7 @@ translate vietnamese strings:
     new "Chân cậu thế nào rồi? {gold}(Cốt truyện){/gold}"
 
     # game/characters/savenia/speak.rpy:8
-    old "I've got a few question"
+    old "I've got a few questions"
     new "Tớ có một vài câu hỏi"
 
     # game/characters/savenia/speak.rpy:8

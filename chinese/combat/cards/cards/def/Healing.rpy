@@ -1,8 +1,6 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/combat/cards/cards/def/Healing.rpy:6
     old "Healing"
-    new "Healing"
+    new "治疗"
 

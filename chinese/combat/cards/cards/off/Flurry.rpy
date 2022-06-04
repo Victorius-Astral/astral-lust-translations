@@ -1,8 +1,6 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/combat/cards/cards/off/Flurry.rpy:6
     old "Flurry"
-    new "Flurry"
+    new "密集攻击"
 

@@ -1,8 +1,6 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/combat/cards/cards/abi/Despair.rpy:6
     old "Despair"
-    new "Despair"
+    new "绝望"
 

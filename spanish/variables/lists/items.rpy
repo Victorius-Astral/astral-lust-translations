@@ -57,3 +57,39 @@ translate spanish strings:
     # game/variables/lists/items.rpy:193
     old "Ready for a picnic. Or another way of a suicide. Can help with keeping you alive, though."
     new "Listo para un picnic. U otra forma de suicidio. Aunque puede ayudar a mantenerte con vida."
+# TODO: Translation updated at 2022-05-31 13:10
+
+translate spanish strings:
+
+    # game/variables/lists/items.rpy:80
+    old "Premium Ice Creams"
+    new "Premium Ice Creams"
+
+    # game/variables/lists/items.rpy:80
+    old "A limited edition of Lexi's favorite ice cream."
+    new "A limited edition of Lexi's favorite ice cream."
+
+    # game/variables/lists/items.rpy:81
+    old "Vodka"
+    new "Vodka"
+
+    # game/variables/lists/items.rpy:81
+    old "Tastes horrible, although it doesn't stop people all over the world to enjoy drinking it."
+    new "Tastes horrible, although it doesn't stop people all over the world to enjoy drinking it."
+
+    # game/variables/lists/items.rpy:82
+    old "Wine"
+    new "Wine"
+
+    # game/variables/lists/items.rpy:82
+    old "A bottle of cheap wine."
+    new "A bottle of cheap wine."
+
+    # game/variables/lists/items.rpy:83
+    old "Old Wine"
+    new "Old Wine"
+
+    # game/variables/lists/items.rpy:83
+    old "The finest of wines made in 20th century."
+    new "The finest of wines made in 20th century."
+

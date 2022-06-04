@@ -351,3 +351,30 @@ translate spanish strings:
     # game/variables/tips.rpy:4
     old "I should ask her more about the extraordinary world. (Main Story at least 12)"
     new "Debería preguntarle más sobre el mundo extraordinario. (Historia principal al menos 12)"
+# : Translation updated at 2022-05-25 17:25
+
+translate spanish strings:
+
+    # game/variables/tips.rpy:4
+    old "They say that when falling asleep the mind thinks it's dying. What happens when you 'resurrect'?"
+    new "Dicen que al dormirse la mente piensa que se está muriendo. ¿Qué pasa cuando 'resucitas'?"
+
+    # game/variables/tips.rpy:4
+    old "Maybe I should take a day off to chill out in my room from time to time."
+    new "Tal vez debería tomarme un día libre para relajarme en mi habitación de vez en cuando."
+
+    # game/variables/tips.rpy:4
+    old "I have a feeling something big is gonna happen soon. (need Alice and Little Fox waiting for progress with other girls)"
+    new "Tengo el presentimiento de que algo grande sucederá pronto. (Necesito que Alice y Little Fox esperen el progreso con otras chicas)"
+
+    # game/variables/tips.rpy:4
+    old "I should progress with other girls."
+    new "Debería progresar con otras chicas."
+
+    # game/variables/tips.rpy:4
+    old "Old habits die hard, she's still sometimes chilling out in the lobby. She must interact with other girls there often."
+    new "Los viejos hábitos son difíciles de eliminar. A veces todavía se relaja en el vestíbulo. Debe de interactuar con otras chicas ahí a menudo."
+
+    # game/variables/tips.rpy:4
+    old "We should chit chat sometimes."
+    new "Deberíamos charlar de vez en cuando."

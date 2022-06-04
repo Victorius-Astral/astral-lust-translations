@@ -105,3 +105,14 @@ translate spanish strings:
     # game/screens/menus/girls/alice.rpy:23
     old "Nicknames: Al"
     new "Apodos: Al"
+# : Translation updated at 2022-05-25 17:25
+
+translate spanish strings:
+
+    # game/screens/menus/girls/alice.rpy:45
+    old "• Dildo: "
+    new "• Dildo: "
+
+    # game/screens/menus/girls/alice.rpy:46
+    old "• Rubbing: "
+    new "• Frotar: "
