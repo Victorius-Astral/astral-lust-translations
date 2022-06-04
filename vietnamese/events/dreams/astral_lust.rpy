@@ -40,25 +40,25 @@ translate vietnamese d_Astral_Lust_2_bc06cfc0:
 translate vietnamese d_Astral_Lust_2_8d9c0f23:
 
     # kiara "Hihi~ [me], silly. Of course I'm an Angel."
-    kiara "Hihi~ [me], đồ ngốc. Tất nhiên tôi là một thiên thần."
+    kiara "Hihi~. Tất nhiên rồi ngốc ạ tôi là thiên thần mà."
 
 # game/events/dreams/astral_lust.rpy:19
 translate vietnamese d_Astral_Lust_2_6523e60e:
 
     # me "Is this a dream?"
-    me "Đây có phải là một giấc mơ?"
+    me "Đây có phải là mơ không?"
 
 # game/events/dreams/astral_lust.rpy:21
 translate vietnamese d_Astral_Lust_2_80c5dc72:
 
     # kiara "Yes it is."
-    kiara "Vâng, đúng vậy."
+    kiara "Đúng vậy."
 
 # game/events/dreams/astral_lust.rpy:22
 translate vietnamese d_Astral_Lust_2_e9385b5d:
 
     # me "Are you really here or are you just part of my dream."
-    me "Em có thực sự ở đây hay bạn chỉ là một phần trong giấc mơ của anh."
+    me "Cô có thực sự ở đây hay cô chỉ là một phần trong giấc mơ của tôi thôi."
 
 # game/events/dreams/astral_lust.rpy:24
 translate vietnamese d_Astral_Lust_2_12990b16:
@@ -82,7 +82,7 @@ translate vietnamese d_Astral_Lust_2_df82db95:
 translate vietnamese d_Astral_Lust_2_5f76adc7:
 
     # kiara "Shh~ Why not enjoy this moment. Wouldn’t you prefer to have a wet dream today?" id d_Astral_Lust_2_5f76adc7
-    kiara "Suỵt~~ Tại sao không tận hưởng khoảnh khắc này. Anh có muốn có một giấc mơ ướt át hôm nay không?" id d_Astral_Lust_2_5f76adc7
+    kiara "Suỵt~~ Tại sao ta không tận hưởng khoảnh khắc này đi. Hôm nay anh có muốn có một giấc mơ ướt át không?" id d_Astral_Lust_2_5f76adc7
 
 # game/events/dreams/astral_lust.rpy:32
 translate vietnamese d_Astral_Lust_2_cc021540:
@@ -124,13 +124,13 @@ translate vietnamese d_Astral_Lust_2_0076356f:
 translate vietnamese d_Astral_Lust_2_d54f534d:
 
     # kiara "That feels amazing!"
-    kiara "Điều đó thật tuyệt vời!"
+    kiara "Cái cảm giác này!"
 
 # game/events/dreams/astral_lust.rpy:50
 translate vietnamese d_Astral_Lust_2_c87ebd95:
 
     # me "Your pussy wraps around my dick in such an amazing way!"
-    me "Âm hộ của em quấn quanh cặc của tôi một cách tuyệt vời như vậy!"
+    me "Âm hộ của cô quấn quanh cặc của tôi một cách hoàn hảo!"
 
 # game/events/dreams/astral_lust.rpy:57
 translate vietnamese d_Astral_Lust_2_33887938:
@@ -160,7 +160,7 @@ translate vietnamese d_Astral_Lust_2_bf03234b:
 translate vietnamese d_Astral_Lust_2_a5be371e:
 
     # kiara "I'm going crazy!"
-    kiara "Em đang phát điên!"
+    kiara "Tôi đang phát điên lên đây!"
 
 # game/events/dreams/astral_lust.rpy:69
 translate vietnamese d_Astral_Lust_2_6a715422:
@@ -172,7 +172,7 @@ translate vietnamese d_Astral_Lust_2_6a715422:
 translate vietnamese d_Astral_Lust_2_a93ed862:
 
     # kiara "Yes! Yes!! Fuck me! Fill me!"
-    kiara "Đúng! Đúng!! Địt nữa đi! lấp đầy em!"
+    kiara "Đúng rồi! Đúng rồi!! Nữa đi! lấp đầy nó đi!"
 
 # game/events/dreams/astral_lust.rpy:80
 translate vietnamese d_Astral_Lust_2_962982f7:
@@ -184,7 +184,7 @@ translate vietnamese d_Astral_Lust_2_962982f7:
 translate vietnamese d_Astral_Lust_2_2a83992e:
 
     # kiara "Ahh!! You are filling me sooo much!"
-    kiara "Ahh!! Bạn làm cho tôi đầy quá!"
+    kiara "Ahh!! Anh làm cho tôi đầy quá!"
 
 # game/events/dreams/astral_lust.rpy:84
 translate vietnamese d_Astral_Lust_2_034fb028:
@@ -196,13 +196,13 @@ translate vietnamese d_Astral_Lust_2_034fb028:
 translate vietnamese d_Astral_Lust_2_fd449928:
 
     # me "Ah. Yeah, I almost lost my breath."
-    me "Ah. Yeah, anh gần như không thở nổi."
+    me "Ah. Yeah, tôi gần như không thở nổi."
 
 # game/events/dreams/astral_lust.rpy:91
 translate vietnamese d_Astral_Lust_2_eb2230b9:
 
     # kiara "As you wish."
-    kiara "Như anh muốn."
+    kiara "Như anh muốn vậy."
 
 translate vietnamese strings:
 

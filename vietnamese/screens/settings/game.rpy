@@ -111,7 +111,7 @@ translate vietnamese strings:
 
     # game/screens/settings/game.rpy:83
     old "{color=#FFD700}Thank you for being part of our community!{/color}"
-    new "{color=#FFD700}Cảm ơn bạn đã trở thành một phần của cộng đồng của chúng tôi!{/color}"
+    new "{color=#FFD700}Cảm ơn bạn đã trở thành một phần của cộng đồng chúng tôi!{/color}"
 
     # game/screens/settings/game.rpy:85
     old "{gold}(Become a patron of sufficient rank to unlock.){/gold}"

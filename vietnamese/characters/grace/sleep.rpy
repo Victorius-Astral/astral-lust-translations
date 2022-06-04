@@ -154,7 +154,7 @@ translate vietnamese sleep_grace_boobs_dislike_9b10ccb0:
 translate vietnamese sleep_grace_boobs_like_1393076f:
 
     # grace "Are you massaging my boobs?"
-    grace "Bạn đang xoa bóp ngực của em phải không??"
+    grace "Anh đang xoa bóp ngực của em phải không??"
 
 # game/characters/grace/sleep.rpy:100
 translate vietnamese sleep_grace_boobs_like_7350c644:
@@ -178,7 +178,7 @@ translate vietnamese sleep_grace_boobs_like_7a0ddb59:
 translate vietnamese sleep_grace_boobs_like_f61e1b37:
 
     # grace "I'm sleepy, let's do this some other day. Alright?"
-    grace "Em buồn ngủ, chúng ta hãy làm điều này vào ngày khác. Được chứ?"
+    grace "Em buồn ngủ lắm, chúng ta hãy làm điều này vào lúc khác đi. Được chứ?"
 
 # game/characters/grace/sleep.rpy:104
 translate vietnamese sleep_grace_boobs_like_34b2a15c:
@@ -196,7 +196,7 @@ translate vietnamese sleep_grace_boobs_like_a612e28c:
 translate vietnamese sleep_grace_boobs_like_98085549:
 
     # me "See ya.."
-    me "See ya..."
+    me "Gặp em sau..."
 
 # game/characters/grace/sleep.rpy:109
 translate vietnamese sleep_grace_boobs_like_7402cda2:
