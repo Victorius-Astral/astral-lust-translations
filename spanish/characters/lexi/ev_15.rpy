@@ -162,28 +162,28 @@ translate spanish lexi_15_d68ebea9:
     # me "Sleep well."
     me "Que duermas bien."
 
-# TODO: Translation updated at 2022-06-09 13:37
+# : Translation updated at 2022-06-09 13:37
 
 # game/characters/lexi/ev_15.rpy:31
 translate spanish lexi_15_e2e4d7e7:
 
     # lexi "Are you going to walk me to my room?"
-    lexi "Are you going to walk me to my room?"
+    lexi "¿Vas a acompañarmea mi habitación?"
 
 # game/characters/lexi/ev_15.rpy:49
 translate spanish lexi_15_dd468929:
 
     # th "Mm, tasty lipstick."
-    th "Mm, tasty lipstick."
+    th "Mm, que labios sabrosos."
 
 # game/characters/lexi/ev_15.rpy:53
 translate spanish lexi_15_4aad3944:
 
     # lexi "Sleep tight."
-    lexi "Sleep tight."
+    lexi "Que descanses."
 
 # game/characters/lexi/ev_15.rpy:54
 translate spanish lexi_15_80125f39:
 
     # me "Have a good night."
-    me "Have a good night."
+    me "Que tengas una buena noche."

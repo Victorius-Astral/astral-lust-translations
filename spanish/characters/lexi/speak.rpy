@@ -1124,31 +1124,31 @@ translate spanish strings:
     old "Are you sure? You might lose your current preparations."
     new "¿Estás seguro? Es posible que pierdas tus preparativos actuales."
 
-# TODO: Translation updated at 2022-06-09 13:37
+# : Translation updated at 2022-06-09 13:37
 
 # game/characters/lexi/speak.rpy:28
 translate spanish speak_lexi_0c22c31a:
 
     # lexi "Because by the time I realized you won't be coming I didn't want to spend time with you anymore."
-    lexi "Because by the time I realized you won't be coming I didn't want to spend time with you anymore."
+    lexi "Porque cuando me di cuenta de que no vendrías, ya no quería pasar más tiempo contigo."
 
 # game/characters/lexi/speak.rpy:54
 translate spanish speak_lexi_84fa9d46:
 
     # lexi "Hey, you know I'm waiting for you to ask me out for a date, right?"
-    lexi "Hey, you know I'm waiting for you to ask me out for a date, right?"
+    lexi "Hey, sabes que estoy esperando que me invites a una cita, ¿verdad?"
 
 # game/characters/lexi/speak.rpy:55
 translate spanish speak_lexi_b9c387e5:
 
     # me "How could I forget?"
-    me "How could I forget?"
+    me "¿Cómo podría olvidarlo?"
 
 # game/characters/lexi/speak.rpy:56
 translate spanish speak_lexi_f0c44d9a:
 
     # me "Give me a little more time, 'key?"
-    me "Give me a little more time, 'key?"
+    me "Dame un poco más de tiempo, ¿'key?"
 
 # game/characters/lexi/speak.rpy:57
 translate spanish speak_lexi_1836de33:
