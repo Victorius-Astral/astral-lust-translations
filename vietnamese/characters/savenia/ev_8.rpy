@@ -4,7 +4,7 @@
 translate vietnamese savenia_8_36c0a7a5:
 
     # "*Knock*"
-    "*Cốc*"
+    "*Cốc cốc*"
 
 # game/characters/savenia/ev_8.rpy:36
 translate vietnamese savenia_8_abbbc6b4:
@@ -22,7 +22,7 @@ translate vietnamese savenia_8_38f8ec59:
 translate vietnamese savenia_8_c7308007:
 
     # savenia "Everything went well. There were no problems along the way."
-    savenia "Tất cả mọi thứ diễn ra tốt đẹp. Không có vấn đề gì trên đường đi."
+    savenia "Tất cả mọi thứ diễn ra tốt đẹp. Không có vấn đề gì trên đường đi cả."
 
 # game/characters/savenia/ev_8.rpy:43
 translate vietnamese savenia_8_74411c73:
@@ -76,7 +76,7 @@ translate vietnamese savenia_8_9e1ba11c:
 translate vietnamese savenia_8_a859a1f4:
 
     # th "What the hell..."
-    th "Cái con cặc gì đây..."
+    th "Cái quái gì đây..."
 
 # game/characters/savenia/ev_8.rpy:68
 translate vietnamese savenia_8_f45460c1:
@@ -274,7 +274,7 @@ translate vietnamese savenia_8_fast_013072c4:
 translate vietnamese savenia_8_fast_d31cf1be:
 
     # th "She seems to like it more than I do."
-    th "Cô ấy có vẻ còn thích nó việc này mình."
+    th "Cô ấy có vẻ còn thích nó hơn cả mình."
 
 # game/characters/savenia/ev_8.rpy:148
 translate vietnamese savenia_8_before_7851d9df:

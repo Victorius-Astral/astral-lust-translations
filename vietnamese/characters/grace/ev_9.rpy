@@ -388,7 +388,7 @@ translate vietnamese grace_9_e94c2895_1:
 translate vietnamese grace_9_fabc18d8:
 
     # me "Holy shit!"
-    me "Holy shit!"
+    me "Vãi cứt!"
 
 # game/characters/grace/ev_9.rpy:150
 translate vietnamese grace_9_fdb4e830_5:
@@ -424,7 +424,7 @@ translate vietnamese grace_9_9d54af0c:
 translate vietnamese grace_9_583530bd:
 
     # th "Wow, I never expected her to lie naked in the bed, inviting me to join her. She may not have sex on her mind, but my imagination is working well enough for both of us."
-    th "Wow, Mình không ngờ em ấy lại trần truồng nằm trên giường, mời mình tham gia cùng ẻm. Em ấy có thể không có tý suy nghĩ chịch chọt nào trong đầu, nhưng trí tưởng tượng của mình đang hoạt động đủ tốt cho cả hai."
+    th "Wow, Mình không ngờ em ấy lại trần truồng nằm trên giường, mời mình tham gia. Em ấy có thể không có chút suy nghĩ chịch chọt nào trong đầu, nhưng trí tưởng tượng của mình đang hoạt động đủ tốt cho cả hai."
 
 # game/characters/grace/ev_9.rpy:159
 translate vietnamese grace_9_8507aa5b:

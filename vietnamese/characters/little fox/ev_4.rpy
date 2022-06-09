@@ -4,7 +4,7 @@
 translate vietnamese lil_fox_4_d33101fe:
 
     # me "I have a question for you. Just how did you get those treasures you hide in a chest?"
-    me "Tôi có một câu hỏi dành cho em. Làm thế nào em có được những báu vật mà em giấu trong rương?"
+    me "Anh có một câu hỏi dành cho em. Làm thế nào mà em lấy được đống kho báu em giấu trong rương vậy?"
 
 # game/characters/little fox/ev_4.rpy:25
 translate vietnamese lil_fox_4_78fbfd1a:
@@ -16,13 +16,13 @@ translate vietnamese lil_fox_4_78fbfd1a:
 translate vietnamese lil_fox_4_83e4635d:
 
     # me "Do you remember where?"
-    me "Em có nhớ ở đâu không?"
+    me "Em có nhớ là ở đâu không?"
 
 # game/characters/little fox/ev_4.rpy:30
 translate vietnamese lil_fox_4_a7337bf5:
 
     # lil_fox "Yup~ There're plenty of places like that, y'know?"
-    lil_fox "Yup ~ Có rất nhiều nơi như vậy đấy, anh biết không?"
+    lil_fox "Yup ~ Có rất nhiều nơi như vậy đấy anh biết không?"
 
 # game/characters/little fox/ev_4.rpy:31
 translate vietnamese lil_fox_4_bf8d3b6b:
@@ -34,7 +34,7 @@ translate vietnamese lil_fox_4_bf8d3b6b:
 translate vietnamese lil_fox_4_328ee2ce:
 
     # lil_fox "Oh! It's a great chance to debut my new outfit~"
-    lil_fox "Oh! Đây là một cơ hội tuyệt vời để ra mắt trang phục mới của em~"
+    lil_fox "Oh! Đây là một cơ hội tuyệt vời để ra mắt bộ trang phục mới của em~"
 
 # game/characters/little fox/ev_4.rpy:40
 translate vietnamese lil_fox_4_d790f787:
@@ -70,7 +70,7 @@ translate vietnamese lil_fox_4_47c9a4f0:
 translate vietnamese lil_fox_4_ffe10ad0:
 
     # "But by the end she seems to doubt as to where take you, finally settling for one building."
-    "Nhưng cuối cùng, cô ấy dường như nghi ngờ không biết phải bạn sẽ đưa bạn đến đâu, cuối cùng cũng đến một tòa nhà."
+    "Nhưng, cô ấy có vẻ như không biết phải đưa bạn đến đâu, nhưng rồi cuối cùng cũng đặt chân đến một tòa nhà."
 
 # game/characters/little fox/ev_4.rpy:62
 translate vietnamese lil_fox_4_bb381159:
@@ -82,19 +82,19 @@ translate vietnamese lil_fox_4_bb381159:
 translate vietnamese lil_fox_4_30d0b73f:
 
     # lil_fox "It wasn't that far away. See, right there."
-    lil_fox "Nó không phải là quá xa đâu. Nhìn kìa, ngay tại đó."
+    lil_fox "Nó không quá xa đâu. Nhìn kìa, ngay chỗ đó đấy."
 
 # game/characters/little fox/ev_4.rpy:64
 translate vietnamese lil_fox_4_6ca80524:
 
     # lil_fox "Well, this is it."
-    lil_fox "Chính là nó đây."
+    lil_fox "Chính là nó."
 
 # game/characters/little fox/ev_4.rpy:68
 translate vietnamese lil_fox_4_9cb86933:
 
     # me "Great. Let's check."
-    me "Được. Hãy kiểm tra nào."
+    me "Tuyệt. Giờ thì hãy kiểm tra xem nào."
 
 # game/characters/little fox/ev_4.rpy:69
 translate vietnamese lil_fox_4_969037b9:

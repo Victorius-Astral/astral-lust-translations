@@ -22,19 +22,19 @@ translate vietnamese speak_rachel_leave_a1a23cab:
 translate vietnamese speak_rachel_built_shrine_5a425556:
 
     # me "Seems finished."
-    me "Có vẻ như đã hoàn thành."
+    me "Có vẻ như được hoàn thành rồi."
 
 # game/characters/rachel/speak.rpy:63
 translate vietnamese speak_rachel_built_shrine_f185b234:
 
     # rachel "It is. I would personally prefer more plants, but it will do."
-    rachel "Đúng vậy. Cá nhân tôi muốn nhiều cây hơn, nhưng nó ỏn rồi."
+    rachel "Đúng vậy. Cá nhân tôi muốn nhiều cây hơn, nhưng vậy cũng ổn rồi."
 
 # game/characters/rachel/speak.rpy:64
 translate vietnamese speak_rachel_built_shrine_598df8e3:
 
     # me "What about Little Fox?"
-    me "Còn về Tiểu Cáo?"
+    me "Thế còn Tiểu Cáo thì sao?"
 
 # game/characters/rachel/speak.rpy:70
 translate vietnamese speak_rachel_built_shrine_4ff64280:
@@ -58,19 +58,19 @@ translate vietnamese speak_rachel_built_shrine_01c57212:
 translate vietnamese speak_rachel_built_shrine_1ad56e9e:
 
     # me "You don't seem surprised Rachel."
-    me "Cô có vẻ không ngạc nhiên mấy Rachel."
+    me "Cô có vẻ không ngạc nhiên mấy nhỉ Rachel."
 
 # game/characters/rachel/speak.rpy:74
 translate vietnamese speak_rachel_built_shrine_7f99b4bd:
 
     # rachel "She came here at dawn."
-    rachel "Em ấy đến đây vào lúc bình minh."
+    rachel "Em ấy đã đến đây vào lúc bình minh rồi."
 
 # game/characters/rachel/speak.rpy:78
 translate vietnamese speak_rachel_built_shrine_4a05fd74:
 
     # lil_fox "I knew it was a shrine! The feeling was weak, but familiar. Thanks a lot you two!"
-    lil_fox "Em biết đó là một ngôi đền maf! Cảm giác yếu ớt, nhưng quen thuộc. Cảm ơn hai người rất nhiều!"
+    lil_fox "Em biết ngay đó là một ngôi đền mà! Cảm giác yếu ớt, nhưng quen thuộc. Cảm ơn hai người rất nhiều!"
 
 # game/characters/rachel/speak.rpy:79
 translate vietnamese speak_rachel_built_shrine_bf2f325b:
@@ -88,7 +88,7 @@ translate vietnamese speak_rachel_built_shrine_10d450e0:
 translate vietnamese speak_rachel_built_shrine_e2d2f04e:
 
     # lil_fox hungry "No, no. We won't starve, but we will be hungry."
-    lil_fox hungry "Không không. Chúng tôi sẽ không chết đói, nhưng chúng tôi sẽ đói."
+    lil_fox hungry "Không không. Bọn em sẽ không chết đói, nhưng bọn em sẽ bị đói."
 
 # game/characters/rachel/speak.rpy:82
 translate vietnamese speak_rachel_built_shrine_78dd87bc:
@@ -100,7 +100,7 @@ translate vietnamese speak_rachel_built_shrine_78dd87bc:
 translate vietnamese speak_rachel_built_shrine_14ce074a:
 
     # lil_fox "I'm young, so I need a lot of food."
-    lil_fox "Em còn trẻ, vì vậy em cần rất nhiều thức ăn."
+    lil_fox "Em còn trẻ, nên là em cần rất nhiều thức ăn."
 
 # game/characters/rachel/speak.rpy:84
 translate vietnamese speak_rachel_built_shrine_97fbb4cf:
@@ -118,19 +118,19 @@ translate vietnamese speak_rachel_built_shrine_25dc55dc:
 translate vietnamese speak_rachel_built_shrine_5636073a:
 
     # rachel "I love you sister, but say that again and I'll whip your ass."
-    rachel "Chị yêu em, nhưng nói lại câu đấy lần nữa và chị sẽ quất vào mông em."
+    rachel "Chị yêu em, nhưng nói lại câu đấy lần nữa đi và chị sẽ quất vào mông em."
 
 # game/characters/rachel/speak.rpy:91
 translate vietnamese speak_rachel_built_shrine_5b08a9ce:
 
     # lil_fox pout "You were not like that back home."
-    lil_fox pout "Không giống vhij ở nhà chút nào."
+    lil_fox pout "Không giống chị lúc ở nhà chút nào."
 
 # game/characters/rachel/speak.rpy:96
 translate vietnamese speak_rachel_built_shrine_346dc63b:
 
     # rachel "You weren't this saucy. You became ferocious, sister. I'll have to teach you manners."
-    rachel "Em không phải là một đứa hỗn láo như này. Em trở nên hung dữ đấy em. Chị sẽ phải em bạn cách cư xử."
+    rachel "Em không phải là một đứa hỗn láo như này. Em bắt đầu trở nên hư hỏng rồi đấy. Chị sẽ phải dạy lại em cách cư xử mới được."
 
 # game/characters/rachel/speak.rpy:97
 translate vietnamese speak_rachel_built_shrine_1824b6f6:
@@ -172,7 +172,7 @@ translate vietnamese speak_rachel_built_shrine_97c9186f:
 translate vietnamese speak_rachel_built_shrine_6fbbea6f:
 
     # me "So you're like a mother-sister pair."
-    me "Vì vậy, bạn giống như một cặp mẹ-chị em."
+    me "Vì vậy nên hai người giống như một cặp mẹ-chị em."
 
 # game/characters/rachel/speak.rpy:108
 translate vietnamese speak_rachel_built_shrine_f45709aa:
@@ -280,7 +280,7 @@ translate vietnamese speak_rachel_built_shrine_ccd49712:
 translate vietnamese speak_rachel_built_shrine_601e619e:
 
     # rachel "Little Fox told me how you feed her."
-    rachel "Tiểu Cáo đã nói với tôi cách bạn cho em ấy ăn."
+    rachel "Tiểu Cáo đã nói với tôi cách anh cho em ấy ăn."
 
 # game/characters/rachel/speak.rpy:131
 translate vietnamese speak_rachel_built_shrine_2867c4c2:
@@ -304,13 +304,13 @@ translate vietnamese speak_rachel_built_shrine_ed733b4f:
 translate vietnamese speak_rachel_built_shrine_674350f3:
 
     # me "It's getting awkward."
-    me "Nó đang trở nên khó xử."
+    me "Chuyện này bắt đầu trở nên khó xử rồi đấy."
 
 # game/characters/rachel/speak.rpy:143
 translate vietnamese speak_rachel_built_shrine_9b71bfd8:
 
     # rachel "A little, yes."
-    rachel "Ừ một chút."
+    rachel "Ừ, một chút."
 
 # game/characters/rachel/speak.rpy:144
 translate vietnamese speak_rachel_built_shrine_4e3fbc18:
@@ -334,7 +334,7 @@ translate vietnamese speak_rachel_built_shrine_ee745470:
 translate vietnamese speak_rachel_built_shrine_20b8b58c:
 
     # me "Like the ones you have on now?"
-    me "Giống như cái cô đang mặc?"
+    me "Giống như cái cô đang mặc á?"
 
 # game/characters/rachel/speak.rpy:148
 translate vietnamese speak_rachel_built_shrine_bf641a2a:
@@ -388,7 +388,7 @@ translate vietnamese speak_rachel_built_shrine_04b09b1b:
 translate vietnamese speak_rachel_built_shrine_a6bebc1f:
 
     # me "I can't wait."
-    me "Tôi không thể đợi."
+    me "Tôi cũng rất hóng đấy."
 
 # game/characters/rachel/speak.rpy:157
 translate vietnamese speak_rachel_built_shrine_bdb13637:

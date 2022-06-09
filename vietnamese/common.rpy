@@ -192,7 +192,7 @@ translate vietnamese strings:
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
-    new "{#month}tháng 5"
+    new "{#month}Tháng 5"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}June"
@@ -436,23 +436,23 @@ translate vietnamese strings:
 
     # renpy/common/00gui.rpy:428
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "Bạn có chắc chắn muốn quay lại menu chính không?\nThao tác này sẽ làm mất tiến trình chưa lưu."
+    new "Bạn có chắc là muốn quay lại menu chính không?\nThao tác này sẽ làm mất tiến trình chưa lưu."
 
     # renpy/common/00gui.rpy:429
     old "Are you sure you want to end the replay?"
-    new "Bạn có chắc chắn muốn kết thúc phát lại không?"
+    new "Bạn có chắc là muốn kết thúc phát lại không?"
 
     # renpy/common/00gui.rpy:430
     old "Are you sure you want to begin skipping?"
-    new "Bạn có chắc chắn là muốn bắt đầu bỏ qua không?"
+    new "Bạn có chắc là là muốn bắt đầu bỏ qua không?"
 
     # renpy/common/00gui.rpy:431
     old "Are you sure you want to skip to the next choice?"
-    new "Bạn có chắc chắn muốn bỏ qua lựa chọn tiếp theo không?"
+    new "Bạn có chắc là bạn muốn bỏ qua lựa chọn tiếp theo không?"
 
     # renpy/common/00gui.rpy:432
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "Bạn có chắc chắn muốn bỏ qua đoạn hội thoại chưa nhìn thấy để chuyển sang lựa chọn tiếp theo không?"
+    new "Bạn có chắc là muốn bỏ qua đoạn hội thoại chưa nhìn thấy để chuyển sang lựa chọn tiếp theo không?"
 
     # renpy/common/00keymap.rpy:306
     old "Failed to save screenshot as %s."
@@ -640,7 +640,7 @@ translate vietnamese strings:
 
     # renpy/common/00preferences.rpy:517
     old "mute voice"
-    new "mute voice"
+    new "Tắt giọng"
 
     # renpy/common/00preferences.rpy:518
     old "mute all"

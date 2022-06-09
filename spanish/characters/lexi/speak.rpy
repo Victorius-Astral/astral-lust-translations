@@ -924,55 +924,55 @@ translate spanish strings:
     # game/characters/lexi/speak.rpy:12
     old "Mina asked me to get her booze"
     new "Mina me pidió que le consiga alcohol"
-# TODO: Translation updated at 2022-05-31 13:10
+# : Translation updated at 2022-05-31 13:10
 
 # game/characters/lexi/speak.rpy:19
 translate spanish speak_lexi_bb88c56e:
 
     # lexi "I've been waiting for you."
-    lexi "I've been waiting for you."
+    lexi "Te he estado esperando."
 
 # game/characters/lexi/speak.rpy:20
 translate spanish speak_lexi_63280a2d:
 
     # me "Eh?"
-    me "Eh?"
+    me "¿Eh?"
 
 # game/characters/lexi/speak.rpy:21
 translate spanish speak_lexi_a109e395:
 
     # lexi "A date. I waited two hours for you."
-    lexi "A date. I waited two hours for you."
+    lexi "Una cita. Esperé dos horas por ti."
 
 # game/characters/lexi/speak.rpy:22
 translate spanish speak_lexi_57c0c21b:
 
     # me "Oh shit. I'm so sorry."
-    me "Oh shit. I'm so sorry."
+    me "Oh, mierda. Lo siento mucho."
 
 # game/characters/lexi/speak.rpy:27
 translate spanish speak_lexi_fcd2989b:
 
     # lexi "You better be."
-    lexi "You better be."
+    lexi "Mejor que lo estés."
 
 # game/characters/lexi/speak.rpy:28
 translate spanish speak_lexi_a4995f83:
 
     # me "It's my fault, but.. Why didn't you come looking for me?"
-    me "It's my fault, but.. Why didn't you come looking for me?"
+    me "Es mi culpa, pero... ¿Por qué no viniste a buscarme?"
 
 # game/characters/lexi/speak.rpy:29
 translate spanish speak_lexi_c46cb924:
 
     # lexi "Because by the time I realized you won't come I didn't want to spend time with you anymore."
-    lexi "Because by the time I realized you won't come I didn't want to spend time with you anymore."
+    lexi "Porque cuando me di cuenta de que no vendrías ya no quería pasar más tiempo contigo."
 
 # game/characters/lexi/speak.rpy:30
 translate spanish speak_lexi_481f98c2:
 
     # me "I'll make it up to you."
-    me "I'll make it up to you."
+    me "Te lo compensaré."
 
 # game/characters/lexi/speak.rpy:31
 translate spanish speak_lexi_d7760fc7:
@@ -990,139 +990,139 @@ translate spanish speak_lexi_c2c88f21:
 translate spanish speak_lexi_44bc7ad5:
 
     # me "Hey? Is everything alright?"
-    me "Hey? Is everything alright?"
+    me "¿Hola? ¿Está todo bien?"
 
 # game/characters/lexi/speak.rpy:41
 translate spanish speak_lexi_10ddccbd:
 
     # lexi "How long do you intend to make me wait?"
-    lexi "How long do you intend to make me wait?"
+    lexi "¿Cuánto tiempo piensas hacerme esperar?"
 
 # game/characters/lexi/speak.rpy:42
 translate spanish speak_lexi_63280a2d_1:
 
     # me "Eh?"
-    me "Eh?"
+    me "¿Eh?"
 
 # game/characters/lexi/speak.rpy:47
 translate spanish speak_lexi_c6287d6b:
 
     # lexi "I've been waiting for our date, but seems you forgot about it."
-    lexi "I've been waiting for our date, but seems you forgot about it."
+    lexi "Había estado esperando nuestra cita, pero parece que te olvidaste de ella."
 
 # game/characters/lexi/speak.rpy:325
 translate spanish speak_lexi_dates_57a337e1:
 
     # lexi "Okay!"
-    lexi "Okay!"
+    lexi "¡Okay!"
 
 # game/characters/lexi/speak.rpy:326
 translate spanish speak_lexi_dates_36dee59d:
 
     # lexi "You get the ice creams for a dessert. Two will be enough."
-    lexi "You get the ice creams for a dessert. Two will be enough."
+    lexi "Tú consigue los helados para el postre. Dos serán suficientes."
 
 # game/characters/lexi/speak.rpy:327
 translate spanish speak_lexi_dates_a1c73fe1:
 
     # me "Got it."
-    me "Got it."
+    me "Entendido."
 
 # game/characters/lexi/speak.rpy:328
 translate spanish speak_lexi_dates_8382482a:
 
     # lexi "I'll get a bottle of wine and some candles. Then we'll meet in the evening."
-    lexi "I'll get a bottle of wine and some candles. Then we'll meet in the evening."
+    lexi "Conseguiré una botella de vino y algunas velas. Luego nos encontraremos al anochecer."
 
 # game/characters/lexi/speak.rpy:329
 translate spanish speak_lexi_dates_addd570a:
 
     # me "Yup."
-    me "Yup."
+    me "Sip."
 
 # game/characters/lexi/speak.rpy:338
 translate spanish speak_lexi_dates_66d77374:
 
     # lexi "It's a pity, I waited for it, but I understand."
-    lexi "It's a pity, I waited for it, but I understand."
+    lexi "Es una pena, lo esperaba, pero lo entiendo."
 
 # game/characters/lexi/speak.rpy:339
 translate spanish speak_lexi_dates_a0a697c9:
 
     # me "Thank you."
-    me "Thank you."
+    me "Gracias."
 
 # game/characters/lexi/speak.rpy:340
 translate spanish speak_lexi_dates_c752512a:
 
     # lexi "Sure, don't forget about it."
-    lexi "Sure, don't forget about it."
+    lexi "Seguro, no lo olvides."
 
 # game/characters/lexi/speak.rpy:362
 translate spanish speak_lexi_dates_17cc1499:
 
     # lexi "Alright.."
-    lexi "Alright.."
+    lexi "Está bien..."
 
 # game/characters/lexi/speak.rpy:363
 translate spanish speak_lexi_dates_49584483:
 
     # me "I'm sorry."
-    me "I'm sorry."
+    me "Lo siento."
 
 # game/characters/lexi/speak.rpy:369
 translate spanish speak_lexi_dates_a69cf6fc:
 
     # lexi "Now that we have everything set and ready?"
-    lexi "Now that we have everything set and ready?"
+    lexi "¿Ahora que tenemos todo preparado y listo?"
 
 # game/characters/lexi/speak.rpy:370
 translate spanish speak_lexi_dates_b847dfb7:
 
     # me "Sorry."
-    me "Sorry."
+    me "Lo siento."
 
 # game/characters/lexi/speak.rpy:374
 translate spanish speak_lexi_dates_a30932ee:
 
     # lexi "Whatever."
-    lexi "Whatever."
+    lexi "Lo que sea."
 
 # game/characters/lexi/speak.rpy:379
 translate spanish speak_lexi_dates_49b97efe:
 
     # lexi "Sure. No problem."
-    lexi "Sure. No problem."
+    lexi "Seguro, no hay problema."
 
 translate spanish strings:
 
     # game/characters/lexi/speak.rpy:56
     old "I'm ready for our date"
-    new "I'm ready for our date"
+    new "Estoy listo para nuestra cita"
 
     # game/characters/lexi/speak.rpy:56
     old "Date >"
-    new "Date >"
+    new "Cita >"
 
     # game/characters/lexi/speak.rpy:315
     old "Ask for a date > {#visible}"
-    new "Ask for a date > {#visible}"
+    new "Pídele una cita > {#visible}"
 
     # game/characters/lexi/speak.rpy:315
     old "Postpone date for a day"
-    new "Postpone date for a day"
+    new "Posponer cita por un día"
 
     # game/characters/lexi/speak.rpy:315
     old "Cancel date"
-    new "Cancel date"
+    new "Cancelar cita"
 
     # game/characters/lexi/speak.rpy:319
     old "Kitchen date"
-    new "Kitchen date"
+    new "Cita en la cocina"
 
     # game/characters/lexi/speak.rpy:349
-    old "Are you sure? You'll might lose your current preparations."
-    new "Are you sure? You'll might lose your current preparations."
+    old "Are you sure? You might lose your current preparations."
+    new "¿Estás seguro? Es posible que pierdas tus preparativos actuales."
 
 # TODO: Translation updated at 2022-06-09 13:37
 
@@ -1155,4 +1155,3 @@ translate spanish speak_lexi_1836de33:
 
     # lexi "Okay."
     lexi "Okay."
-

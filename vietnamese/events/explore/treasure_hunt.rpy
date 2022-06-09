@@ -10,13 +10,13 @@ translate vietnamese exp_treasure_hunt_part1_efd11ab7:
 translate vietnamese exp_treasure_hunt_part1_e070f472:
 
     # th "It's big, there might be something useful inside."
-    th "Nó lows, có thể có thứ gì đó hữu ích bên trong."
+    th "NHìn to đấy, có thể có thứ gì đó hữu ích bên trong."
 
 # game/events/explore/treasure_hunt.rpy:53
 translate vietnamese exp_treasure_hunt_part1_b3b71564:
 
     # th "Let's see."
-    th "Hãy xem nào."
+    th "Để xem nào."
 
 # game/events/explore/treasure_hunt.rpy:58
 translate vietnamese exp_treasure_hunt_part1_83a58e9e:
@@ -520,19 +520,19 @@ translate vietnamese exp_treasure_hunt_reward3_bee21a28:
 translate vietnamese exp_treasure_hunt_reward3_255ebe61:
 
     # lil_fox "Yes. Can you feed me, mister?"
-    lil_fox "Đúng. Ông có thể cho tôi ăn không, thưa ông?"
+    lil_fox "Đúng rồi. Vậy... Ông có thể cho tôi ăn không, thưa ông?"
 
 # game/events/explore/treasure_hunt.rpy:392
 translate vietnamese exp_treasure_hunt_reward3_6d19fc53:
 
     # me "I don't have any food on me."
-    me "Anh không có bất kỳ thức ăn nào trên người cả."
+    me "Anh không đem theo thức ăn."
 
 # game/events/explore/treasure_hunt.rpy:393
 translate vietnamese exp_treasure_hunt_reward3_b7590244:
 
     # lil_fox "Foxes like me eat vital energy."
-    lil_fox "Hồ ly như Em ăn năng lượng sống."
+    lil_fox "Hồ ly như em ăn năng lượng sống."
 
 # game/events/explore/treasure_hunt.rpy:394
 translate vietnamese exp_treasure_hunt_reward3_e2be375b:
@@ -544,7 +544,7 @@ translate vietnamese exp_treasure_hunt_reward3_e2be375b:
 translate vietnamese exp_treasure_hunt_reward3_0581c402:
 
     # lil_fox "How about a finger or two?"
-    lil_fox "Còn một hoặc hai ngón tay thì sao?"
+    lil_fox "Thế một hoặc hai ngón tay thì sao?"
 
 # game/events/explore/treasure_hunt.rpy:396
 translate vietnamese exp_treasure_hunt_reward3_fbc4ed3a:
@@ -616,13 +616,13 @@ translate vietnamese exp_treasure_hunt_reward3_f86141b3:
 translate vietnamese exp_treasure_hunt_reward3_8bb75c4d:
 
     # th "Now that sounds hot.."
-    th "Bây giờ nghe có vẻ nóng bỏng đấy..."
+    th "Bây giờ thì nghe có vẻ được đấy..."
 
 # game/events/explore/treasure_hunt.rpy:425
 translate vietnamese exp_treasure_hunt_reward3_c627bf98:
 
     # lil_fox "Sorry, where are my manners. Everyone calls me Little Fox, how should I call you, mister?"
-    lil_fox "Xin lỗi, cách cư xử của em đâu rồi. Mọi người đều gọi em là Tiểu Cáo, em nên gọi anh như thế nào?"
+    lil_fox "À mà xin lỗi, phép lịch sự của em đâu rồi nhỉ. Mọi người đều gọi em là Tiểu Cáo, em nên gọi anh là gì?"
 
 # game/events/explore/treasure_hunt.rpy:426
 translate vietnamese exp_treasure_hunt_reward3_bf15753c:
@@ -640,13 +640,13 @@ translate vietnamese exp_treasure_hunt_reward3_82b36a89:
 translate vietnamese exp_treasure_hunt_menu_fox_f046e425:
 
     # lil_fox "I don't know.."
-    lil_fox "Em không biết..."
+    lil_fox "Em không biết nữa..."
 
 # game/events/explore/treasure_hunt.rpy:444
 translate vietnamese exp_treasure_hunt_menu_fox_cf29d334:
 
     # me "Why? It's safer there."
-    me "Tại sao? Ở đó an toàn hơn."
+    me "Tại sao? Ở đó an toàn hơn mà."
 
 # game/events/explore/treasure_hunt.rpy:445
 translate vietnamese exp_treasure_hunt_menu_fox_9abcf24b:
@@ -682,7 +682,7 @@ translate vietnamese exp_treasure_hunt_menu_fox_ab817d96:
 translate vietnamese exp_treasure_hunt_menu_fox_81beef77:
 
     # lil_fox "No one. It's like that. Without shrine I can only stay in the fog. It sustains my life."
-    lil_fox "Không một ai. Nó giống như vậy đó. Không có đền thờ, em chỉ có thể ở trong sương mù. Nó duy trì cuộc sống của em."
+    lil_fox "Không ai cả. Nó chỉ là như vậy thôi. Không có đền thờ, em chỉ có thể ở trong sương mù. Nó duy trì cuộc sống của em."
 
 # game/events/explore/treasure_hunt.rpy:453
 translate vietnamese exp_treasure_hunt_menu_fox_55145b46:
@@ -694,13 +694,13 @@ translate vietnamese exp_treasure_hunt_menu_fox_55145b46:
 translate vietnamese exp_treasure_hunt_menu_fox_41c8e74f:
 
     # lil_fox "Yeah. I am. But it's another thing."
-    lil_fox "Yeah. Em có. Nhưng đó là một điều khác."
+    lil_fox "Em có. Nhưng đấy là chuyện khác."
 
 # game/events/explore/treasure_hunt.rpy:459
 translate vietnamese exp_treasure_hunt_menu_fox_768e994b:
 
     # lil_fox "I need spirituality to live, but spirituality here is contaminated."
-    lil_fox "Em cần sự duy linh để sống, nhưng sự duy linh ở đây bị ô nhiễm."
+    lil_fox "Em cần năng lượng tâm linh để sống, nhưng năng lượng tâm linh ở đây bị ô nhiễm hết rồi."
 
 # game/events/explore/treasure_hunt.rpy:460
 translate vietnamese exp_treasure_hunt_menu_fox_5c984960:
@@ -712,7 +712,7 @@ translate vietnamese exp_treasure_hunt_menu_fox_5c984960:
 translate vietnamese exp_treasure_hunt_menu_fox_aff8312a:
 
     # lil_fox "It's because of the corruption. This spirituality is like poison to me."
-    lil_fox "Đó là vì sự sa đọa. khiến năng lượng duy linh này giống như thuốc độc đối với em."
+    lil_fox "Đó là vì sự tha hóa. khiến năng lượng tâm linh này giống như thuốc độc đối với em."
 
 # game/events/explore/treasure_hunt.rpy:462
 translate vietnamese exp_treasure_hunt_menu_fox_b32bcf8d:
@@ -724,7 +724,7 @@ translate vietnamese exp_treasure_hunt_menu_fox_b32bcf8d:
 translate vietnamese exp_treasure_hunt_menu_fox_8eeef925:
 
     # lil_fox "You don't get it. No matter if in fog or not, the spirituality is 'dirty'."
-    lil_fox "Anh không hiểu đâu. Không cần biết trong sương mù hay không, năng lượng duy linh vẫn 'bẩn thỉu'."
+    lil_fox "Anh không hiểu đâu. Không cần biết trong sương mù hay không, năng lượng tâm linh vẫn rất 'bẩn thỉu'."
 
 # game/events/explore/treasure_hunt.rpy:464
 translate vietnamese exp_treasure_hunt_menu_fox_8ff1ec88:
@@ -742,7 +742,7 @@ translate vietnamese exp_treasure_hunt_menu_fox_d5fbb5e7:
 translate vietnamese exp_treasure_hunt_menu_fox_47b91d9e:
 
     # lil_fox "It corrupts me to the degree when my mind is mostly clear, but my body is corrupted enough to be able to take in this spirituality."
-    lil_fox "Nó làm em tha hóa đến một mức độ khi tâm trí tôi gần như minh mẫn, nhưng cơ thể em đã bị tha hóa đến mức có thể tiếp nhận năng lượng duy linh này."
+    lil_fox "Nó làm em tha hóa đến một mức độ khi tâm trí em gần như minh mẫn, nhưng cơ thể em đã bị tha hóa đến mức có thể tiếp nhận năng lượng tâm linh này."
 
 # game/events/explore/treasure_hunt.rpy:467
 translate vietnamese exp_treasure_hunt_menu_fox_8272625d:
@@ -754,7 +754,7 @@ translate vietnamese exp_treasure_hunt_menu_fox_8272625d:
 translate vietnamese exp_treasure_hunt_menu_fox_f046e425_1:
 
     # lil_fox "I don't know.."
-    lil_fox "Em không biết..."
+    lil_fox "Em không biết nữa..."
 
 # game/events/explore/treasure_hunt.rpy:471
 translate vietnamese exp_treasure_hunt_menu_fox_68cd9e43:
@@ -820,7 +820,7 @@ translate vietnamese exp_treasure_hunt_menu_fox_b9d99860:
 translate vietnamese exp_treasure_hunt_menu_fox_7dc3f9a1:
 
     # lil_fox "Of course not! You're so stupid."
-    lil_fox "Dĩ nhiên là không rồi! Anh thật là ngu ngốc."
+    lil_fox "Dĩ nhiên là không rồi! Anh thật là ngốc."
 
 # game/events/explore/treasure_hunt.rpy:488
 translate vietnamese exp_treasure_hunt_menu_fox_3820771a:
@@ -832,13 +832,13 @@ translate vietnamese exp_treasure_hunt_menu_fox_3820771a:
 translate vietnamese exp_treasure_hunt_menu_fox_c83b0f55:
 
     # lil_fox "How could corruption be anyone's friend?"
-    lil_fox "Làm sao mà sự tha hóa có thể là bạn của ai được?"
+    lil_fox "Làm sao mà sự sa đọa có thể làm bạn của ai được chứ?"
 
 # game/events/explore/treasure_hunt.rpy:492
 translate vietnamese exp_treasure_hunt_menu_fox_f86aaba5:
 
     # me "So what other reason could it be?"
-    me "Vậy lý do nào khác có thể là gì?"
+    me "Vậy lý do khác có thể là gì?"
 
 # game/events/explore/treasure_hunt.rpy:495
 translate vietnamese exp_treasure_hunt_menu_fox_3c12f15d:
@@ -862,7 +862,7 @@ translate vietnamese exp_treasure_hunt_menu_fox_d5700a40:
 translate vietnamese exp_treasure_hunt_menu_fox_404cc85b:
 
     # me "You might die because of corruption."
-    me "Bạn có thể chết vì sự tha hóa."
+    me "Em có thể chết vì sự tha hóa."
 
 # game/events/explore/treasure_hunt.rpy:501
 translate vietnamese exp_treasure_hunt_menu_fox_e79cb33d:
@@ -904,13 +904,13 @@ translate vietnamese exp_treasure_hunt_menu_fox_36af232c:
 translate vietnamese exp_treasure_hunt_menu_fox_d515f34e:
 
     # lil_fox "I'm Little Fox. Didn't I tell you already?"
-    lil_fox "Em là Tiểu Cáo. Em không nói với bạn anh à?"
+    lil_fox "Em là Tiểu Cáo. Em chưa nói với anh à?"
 
 # game/events/explore/treasure_hunt.rpy:510
 translate vietnamese exp_treasure_hunt_menu_fox_4c3b1809:
 
     # me "You did.."
-    me "Em đã..."
+    me "Em nói rồi..."
 
 # game/events/explore/treasure_hunt.rpy:511
 translate vietnamese exp_treasure_hunt_menu_fox_2ad5aaf9:
@@ -940,7 +940,7 @@ translate vietnamese exp_treasure_hunt_menu_fox_969037b9:
 translate vietnamese exp_treasure_hunt_menu_fox_51c6fae4:
 
     # lil_fox "But you need to feed me often."
-    lil_fox "Nhưng Anh cần cho tôi em thường xuyên."
+    lil_fox "Nhưng Anh cần cho em ăn thường xuyên."
 
 # game/events/explore/treasure_hunt.rpy:520
 translate vietnamese exp_treasure_hunt_menu_fox_0552854d:
@@ -952,25 +952,25 @@ translate vietnamese exp_treasure_hunt_menu_fox_0552854d:
 translate vietnamese exp_treasure_hunt_menu_fox_a4ce0d4e:
 
     # lil_fox "As often as you can."
-    lil_fox "Thường xuyên nhất anh có thể."
+    lil_fox "Thường xuyên nhất có thể."
 
 # game/events/explore/treasure_hunt.rpy:524
 translate vietnamese exp_treasure_hunt_menu_fox_bbd95ad1:
 
     # lil_fox "With a shrine, I won't die of hunger, but no one likes being hungry, right?"
-    lil_fox "Có miếu thì không chết đói, nhưng không ai thích đói cả, đúng không?"
+    lil_fox "Có đền thì em sẽ không chết vì đói, nhưng không ai thích bị đói cả, đúng không?"
 
 # game/events/explore/treasure_hunt.rpy:525
 translate vietnamese exp_treasure_hunt_menu_fox_cf878315:
 
     # me "You are right. How can I build this shrine?"
-    me "Em đúng rồi. Làm thế nào để anh có thể xây dựng ngôi đền này?"
+    me "Cũng đúng. Vậy làm thế nào để anh có thể xây dựng ngôi đền này?"
 
 # game/events/explore/treasure_hunt.rpy:528
 translate vietnamese exp_treasure_hunt_menu_fox_f1d7bff6:
 
     # lil_fox "I don't know. I am only a young fox, what can I know."
-    lil_fox "Em không biết. Em chỉ là một con Tiểu Cáo, em có thể biết cái gì."
+    lil_fox "Em cũng không biết nữa. Em chỉ là một con cáo nhỏ thôi, em có thể biết cái gì chứ."
 
 # game/events/explore/treasure_hunt.rpy:529
 translate vietnamese exp_treasure_hunt_menu_fox_3820771a_1:
@@ -982,7 +982,7 @@ translate vietnamese exp_treasure_hunt_menu_fox_3820771a_1:
 translate vietnamese exp_treasure_hunt_menu_fox_de95e0cf:
 
     # lil_fox "But I have a feeling you will be able to find the way."
-    lil_fox "Nhưng em có cảm giác anh sẽ có thể tìm thấy cách."
+    lil_fox "Nhưng em có cảm giác là anh sẽ tìm ra cách thôi."
 
 # game/events/explore/treasure_hunt.rpy:533
 translate vietnamese exp_treasure_hunt_menu_fox_ae307872:
@@ -994,7 +994,7 @@ translate vietnamese exp_treasure_hunt_menu_fox_ae307872:
 translate vietnamese exp_treasure_hunt_menu_fox_2b92ac57:
 
     # lil_fox "My kind has something your calls sixth sense."
-    lil_fox "Loại của em có thứ mà anh gọi là giác quan thứ sáu."
+    lil_fox "Loài của em có thứ mà anh gọi là giác quan thứ sáu."
 
 # game/events/explore/treasure_hunt.rpy:535
 translate vietnamese exp_treasure_hunt_menu_fox_f8c97434:
@@ -1252,7 +1252,7 @@ translate vietnamese exp_treasure_hunt_reward3_sex_812a91b8:
 translate vietnamese exp_treasure_hunt_reward3_sex_432cd87f:
 
     # me "You're an honest fox, that's amazing!"
-    me "Em là một con cáo trung thực, điều đó thật tuyệt vời!"
+    me "Em là một con cáo trung thực, cũng khá đấy!"
 
 # game/events/explore/treasure_hunt.rpy:637
 translate vietnamese exp_treasure_hunt_reward3_sex_79dc128d:
@@ -1270,13 +1270,13 @@ translate vietnamese exp_treasure_hunt_reward3_sex_3c797f43:
 translate vietnamese exp_treasure_hunt_reward3_sex_8019d88c:
 
     # th "Her tongue is wrapping around my dick like a snake, amazing."
-    th "Lưỡi em ấy quấn quanh cặc mình như một con rắn, thật tuyệt vời."
+    th "Lưỡi em ấy quấn quanh cặc mình như một con rắn vậy."
 
 # game/events/explore/treasure_hunt.rpy:640
 translate vietnamese exp_treasure_hunt_reward3_sex_dcb928eb:
 
     # me "You're a little minx demon indeed."
-    me "Em thực sự là một con quỷ nhỏ damdang."
+    me "Em đúng là là một con quỷ nhỏ damdang."
 
 # game/events/explore/treasure_hunt.rpy:641
 translate vietnamese exp_treasure_hunt_reward3_sex_e2b425ec:
@@ -1312,13 +1312,13 @@ translate vietnamese exp_treasure_hunt_reward3_sex_2f8eaf49:
 translate vietnamese exp_treasure_hunt_reward3_sex_b07cdcbf:
 
     # lil_fox "It should keep me full for a while, thank you, [me]."
-    lil_fox "Nó sẽ giữ cho em đầy đủ trong một thời gian, cảm ơn anh, [me]."
+    lil_fox "Nó sẽ giữ cho em no trong một khoảng thời gian đấy, cảm ơn anh, [me]."
 
 # game/events/explore/treasure_hunt.rpy:663
 translate vietnamese exp_treasure_hunt_reward3_sex_7d6a3552:
 
     # me "Always ready to help."
-    me "Always ready to help."
+    me "Luôn sẵn lòng giúp đỡ."
 
 # game/events/explore/treasure_hunt.rpy:669
 translate vietnamese exp_treasure_hunt_reward3_sex_ed7270e4:
@@ -1342,7 +1342,7 @@ translate vietnamese exp_treasure_hunt_reward3_sex_89baecf8:
 translate vietnamese exp_treasure_hunt_reward3_sex_6cff496a:
 
     # lil_fox "Now, all shiny and clean."
-    lil_fox "Bây giờ, tất cả đều sáng bóng và sạch sẽ."
+    lil_fox "Giờ thì, tất cả đều sáng bóng và sạch sẽ."
 
 # game/events/explore/treasure_hunt.rpy:677
 translate vietnamese exp_treasure_hunt_reward3_sex_d502753a:
@@ -1354,7 +1354,7 @@ translate vietnamese exp_treasure_hunt_reward3_sex_d502753a:
 translate vietnamese exp_treasure_hunt_reward3_sex_6cf1da12:
 
     # me "Sure, I'm glad to be of help."
-    me "Được rồi, anh rất vui khi được giúp đỡ."
+    me "Ừ, anh rất vui khi được giúp đỡ."
 
 # game/events/explore/treasure_hunt.rpy:681
 translate vietnamese exp_treasure_hunt_reward3_sex_316acb1a:
@@ -1448,14 +1448,14 @@ translate vietnamese strings:
 
     # game/events/explore/treasure_hunt.rpy:540
     old "Bullshit + 1"
-    new "Bullshit + 1"
+    new "Trình độ chém gió + 1"
 # TODO: Translation updated at 2022-02-06 08:10
 
 # game/events/explore/treasure_hunt.rpy:58
 translate vietnamese exp_treasure_hunt_part1_96368534:
 
     # me "Hm.. Some scrap metal and wood?"
-    me "Hm... Một chút sắt vụn và gỗ sao?"
+    me "Hm... Một chút sắt và gỗ sao?"
 
 # game/events/explore/treasure_hunt.rpy:96
 translate vietnamese exp_treasure_hunt_part2_15bb5cc0:
@@ -1491,19 +1491,19 @@ translate vietnamese exp_treasure_hunt_reward3_8a74af91:
 translate vietnamese exp_treasure_hunt_reward3_fa194d45:
 
     # th "Now, that sounds hot.."
-    th "Bây giờ nghe có vẻ nóng bỏng đấy..."
+    th "Bây giờ thì nghe có vẻ hay đấy..."
 
 # game/events/explore/treasure_hunt.rpy:452
 translate vietnamese exp_treasure_hunt_menu_fox_77542540:
 
     # lil_fox "No one. It's like that, without shrine I can only stay in the fog. It sustains my life."
-    lil_fox "Không ai cả. Nó chỉ như vậy thôi. Không có đền thờ, em chỉ có thể ở trong sương mù. Nó duy trì cuộc sống của em."
+    lil_fox "Chả ai cả. Nó chỉ như vậy thôi. Không có đền thờ, em chỉ có thể ở trong sương mù. Nó duy trì cuộc sống của em."
 
 # game/events/explore/treasure_hunt.rpy:456
 translate vietnamese exp_treasure_hunt_menu_fox_f4bd2560:
 
     # lil_fox "Yeah. I am, but it's another thing."
-    lil_fox "Yeah. Em có. Nhưng đó là một chuyện khác."
+    lil_fox "Em có. Nhưng đấy là một chuyện khác."
 
 # game/events/explore/treasure_hunt.rpy:462
 translate vietnamese exp_treasure_hunt_menu_fox_35654aaa:
@@ -1539,7 +1539,7 @@ translate vietnamese exp_treasure_hunt_menu_fox_43f0bc2b:
 translate vietnamese exp_treasure_hunt_menu_fox_d706da71:
 
     # lil_fox "No, no, silly. My beauty doesn't have anything to do with it, but you're right, it would be weird if I wasn't special."
-    lil_fox "Không đâu ngốc ạ. Vẻ đẹp của em không có bất cứ tác dụng gì để làm với nó. Nhưng anh nói đúng, sẽ thật kỳ lạ nếu em không đặc biệt."
+    lil_fox "Không đâu ngốc ạ. Vẻ đẹp của em không có bất cứ tác dụng gì để làm với nó đâu. Nhưng anh nói đúng đấy, sẽ thật kỳ lạ nếu em không đặc biệt."
 
 # game/events/explore/treasure_hunt.rpy:551
 translate vietnamese exp_treasure_hunt_menu_fox_dd1eda32:
@@ -1587,4 +1587,4 @@ translate vietnamese exp_treasure_hunt_reward3_sex_df782da0:
 translate vietnamese exp_treasure_hunt_reward4_c6f8568d:
 
     # me "So, that was an ambush.."
-    me "Vậy, đó là một cuộc phục kích thật..."
+    me "Vậy, đấy là một cuộc phục kích thật..."

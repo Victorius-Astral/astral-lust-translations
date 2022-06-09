@@ -1070,7 +1070,7 @@ translate spanish strings:
     # game/characters/mina/speak.rpy:30
     old "I'll get you the vodka you wanted"
     new "Voy a conseguirte el vodka que querías"
-# TODO: Translation updated at 2022-05-31 13:10
+# : Translation updated at 2022-05-31 13:10
 
 # game/characters/mina/speak.rpy:19
 translate spanish speak_mina_50f4a088:
@@ -1082,7 +1082,7 @@ translate spanish speak_mina_50f4a088:
 translate spanish speak_mina_7259a272:
 
     # mina "Not so loud, man."
-    mina "Not so loud, man."
+    mina "Amigo, no hagas tanto ruido."
 
 # game/characters/mina/speak.rpy:21
 translate spanish speak_mina_88eab5f5:
@@ -1094,79 +1094,79 @@ translate spanish speak_mina_88eab5f5:
 translate spanish speak_mina_e6145faa:
 
     # mina "Gosh. My head."
-    mina "Gosh. My head."
+    mina "Dios. Mi cabeza."
 
 # game/characters/mina/speak.rpy:23
 translate spanish speak_mina_db5efdd8:
 
     # me "That's what you get from getting wasted."
-    me "That's what you get from getting wasted."
+    me "Eso es lo que pasa si bebes tanto."
 
 # game/characters/mina/speak.rpy:24
 translate spanish speak_mina_8565c527:
 
     # mina "Never again. Never."
-    mina "Never again. Never."
+    mina "Nunca más. Jamás."
 
 # game/characters/mina/speak.rpy:67
 translate spanish speak_mina_menu1_34e162cd:
 
     # mina "Can you do something with this hangover?"
-    mina "Can you do something with this hangover?"
+    mina "¿Puedes hacer algo sobre esta resaca?"
 
 # game/characters/mina/speak.rpy:68
 translate spanish speak_mina_menu1_69908963:
 
     # me "I don't think so. It'll pass on its own."
-    me "I don't think so. It'll pass on its own."
+    me "No lo creo. Se va a calmar por su cuenta."
 
 # game/characters/mina/speak.rpy:69
 translate spanish speak_mina_menu1_8ad0388e:
 
     # mina "Then no. I don't need help. But thanks for asking."
-    mina "Then no. I don't need help. But thanks for asking."
+    mina "Entonces no. No necesito ayuda, pero gracias por preguntar."
 
 # game/characters/mina/speak.rpy:115
 translate spanish speak_mina_menu1_f355064a:
 
     # mina "I don't want to do even this today."
-    mina "I don't want to do even this today."
+    mina "Hoy no quiero hacer siquiera esto."
 
 # game/characters/mina/speak.rpy:116
 translate spanish speak_mina_menu1_6e88d374:
 
     # me "It would help you relax."
-    me "It would help you relax."
+    me "Te ayudaría a relajarte."
 
 # game/characters/mina/speak.rpy:117
 translate spanish speak_mina_menu1_64f9d952:
 
     # mina "I just want to die today. Nothing more."
-    mina "I just want to die today. Nothing more."
+    mina "Solo quiero morir hoy. Nada más."
 
 # game/characters/mina/speak.rpy:118
 translate spanish speak_mina_menu1_c94f0888:
 
     # me "Hit me if you change your mind."
-    me "Hit me if you change your mind."
+    me "Dime si cambias de opinión."
 
 # game/characters/mina/speak.rpy:119
 translate spanish speak_mina_menu1_343b9f4a_1:
 
     # mina "Got it."
-    mina "Got it."
+    mina "Entiendo."
 
 # game/characters/mina/speak.rpy:131
 translate spanish speak_mina_menu1_9b8153a9:
 
     # mina "Don't even think about putting anything into my mouth."
-    mina "Don't even think about putting anything into my mouth."
+    mina "Ni se te ocurra meterme nada en la boca."
 
 # game/characters/mina/speak.rpy:132
 translate spanish speak_mina_menu1_70545e96:
 
     # mina "I could vomit because of it."
-    mina "I could vomit because of it."
+    mina "Podría vomitar."
 
 # game/characters/mina/speak.rpy:133
 translate spanish speak_mina_menu1_aa50548a:
@@ -1178,87 +1178,86 @@ translate spanish speak_mina_menu1_aa50548a:
 translate spanish speak_mina_menu1_28638f70:
 
     # mina "Yeah."
-    mina "Yeah."
+    mina "Sí."
 
 # game/characters/mina/speak.rpy:135
 translate spanish speak_mina_menu1_d0a8deab:
 
     # me "Maybe tomorrow."
-    me "Maybe tomorrow."
+    me "Quizás mañana."
 
 # game/characters/mina/speak.rpy:136
 translate spanish speak_mina_menu1_82507835:
 
     # mina "Good idea."
-    mina "Good idea."
+    mina "Buena idea."
 
 # game/characters/mina/speak.rpy:148
 translate spanish speak_mina_menu1_c3786cca:
 
     # mina "Oh, no. Not today, bro."
-    mina "Oh, no. Not today, bro."
+    mina "Oh, no. Hoy no, hermano."
 
 # game/characters/mina/speak.rpy:149
 translate spanish speak_mina_menu1_43813a72:
 
     # mina "I can barely stand."
-    mina "I can barely stand."
+    mina "Apenas puedo estar de pie."
 
 # game/characters/mina/speak.rpy:150
 translate spanish speak_mina_menu1_16af8e7e:
 
     # me "Get better soon."
-    me "Get better soon."
+    me "Que te mejores."
 
 # game/characters/mina/speak.rpy:151
 translate spanish speak_mina_menu1_d1de1783:
 
     # mina "Thankies."
-    mina "Thankies."
+    mina "Gracias~."
 
 # game/characters/mina/speak.rpy:183
 translate spanish speak_mina_menu1_17047931:
 
     # mina "Mam, let me rest."
-    mina "Mam, let me rest."
+    mina "Mam, déjame descansar."
 
 # game/characters/mina/speak.rpy:184
 translate spanish speak_mina_menu1_a4c5cb54:
 
     # mina "Day off. I'm taking a day off. 'Kay?"
-    mina "Day off. I'm taking a day off. 'Kay?"
+    mina "Día libre. Me tomaré un día libre. ¿Está bien?"
 
 # game/characters/mina/speak.rpy:185
 translate spanish speak_mina_menu1_c76d319b:
 
     # me "'Key."
-    me "'Key."
+    me "Está bien."
 
 # game/characters/mina/speak.rpy:186
 translate spanish speak_mina_menu1_499e08eb:
 
     # mina "Sweet."
-    mina "Sweet."
+    mina "Genial."
 
 # game/characters/mina/speak.rpy:198
 translate spanish speak_mina_menu1_37318634:
 
     # mina "Not today, bro."
-    mina "Not today, bro."
+    mina "Hoy no, hermano."
 
 # game/characters/mina/speak.rpy:199
 translate spanish speak_mina_menu1_043b6a09:
 
     # mina "I'm too tired."
-    mina "I'm too tired."
+    mina "Demasiado cansada."
 
 translate spanish strings:
 
     # game/characters/mina/speak.rpy:43
     old "I have the booze {gold}(Story){/gold}"
-    new "I have the booze {gold}(Story){/gold}"
+    new "Tengo la bebida {gold}(Historia){/gold}"
 
     # game/characters/mina/speak.rpy:43
     old "I'll get you the vodka you wanted {gold}(Story){/gold}"
-    new "I'll get you the vodka you wanted {gold}(Story){/gold}"
-
+    new "Te voy a conseguir el vodka que querías {gold}(Historia){/gold}"
