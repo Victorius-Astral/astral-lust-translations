@@ -232,7 +232,7 @@ translate vietnamese strings:
 
     # game/events/endings/corruption.rpy:9
     old "Your corruption reached 100%!"
-    new "Sự sa đọa của bạn đạt 100%!"
+    new "Độ sa đọa của bạn đạt 100%!"
 
     # game/events/endings/corruption.rpy:56
     old "Use [[Freedom in Death]"

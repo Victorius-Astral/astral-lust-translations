@@ -575,7 +575,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:268
     old "Adventurous Vixen"
-    new "Nàng Hồ ly du ngoạn"
+    new "Nàng Hồ Ly du ngoạn"
 
     # game/variables/replays.rpy:268
     old "First Days in the Hotel"

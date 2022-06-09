@@ -4,7 +4,7 @@
 translate vietnamese kiara_2_325a0512:
 
     # kiara "I can kill you."
-    kiara "tôi có thể giết chết anh đáy."
+    kiara "tôi có thể giết chết anh đấy."
 
 # game/characters/kiara/ev_2.rpy:7
 translate vietnamese kiara_2_3820771a:
@@ -16,25 +16,25 @@ translate vietnamese kiara_2_3820771a:
 translate vietnamese kiara_2_a2f16c7c:
 
     # me "You know what, I'm good by myself."
-    me "Cô biết gì không, tôi thấy rất ổn rồi."
+    me "Cô biết gì không, bây giờ tôi thấy rất ổn rồi."
 
 # game/characters/kiara/ev_2.rpy:10
 translate vietnamese kiara_2_9c266e67:
 
     # kiara "So you don't want my help?"
-    kiara "Vậy, anh không muốn sự giúp đỡ của tôi?"
+    kiara "Vậy, anh không muốn sự giúp đỡ của tôi sao?"
 
 # game/characters/kiara/ev_2.rpy:11
 translate vietnamese kiara_2_55beb49e:
 
     # me "How is dying going to help me?"
-    me "Làm sao chết lại giúp tôi được?"
+    me "Làm sao mà chết lại giúp tôi được?"
 
 # game/characters/kiara/ev_2.rpy:12
 translate vietnamese kiara_2_92d5f8c6:
 
     # kiara "I would reward you with an ability, it would stay with you even after death."
-    kiara "Tôi sẽ thưởng cho anh một khả năng, nó sẽ ở lại với anh ngay cả sau khi chết."
+    kiara "Tôi sẽ thưởng cho anh một sức mạnh, nó sẽ ở lại với anh ngay cả sau khi chết."
 
 # game/characters/kiara/ev_2.rpy:13
 translate vietnamese kiara_2_2d9d1337:
@@ -58,7 +58,7 @@ translate vietnamese kiara_2_9e5dc382:
 translate vietnamese kiara_2_1_2a66a67e:
 
     # kiara "It seems you have changed your mind."
-    kiara "Có vẻ như anh đã đổi ý của rồi."
+    kiara "Có vẻ như anh đã đổi ý rồi nhỉ."
 
 # game/characters/kiara/ev_2.rpy:37
 translate vietnamese kiara_2_1_5494f9e9:

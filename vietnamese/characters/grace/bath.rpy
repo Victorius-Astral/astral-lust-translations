@@ -458,11 +458,11 @@ translate vietnamese strings:
 
     # game/characters/grace/bath.rpy:27
     old "Like"
-    new "Like"
+    new "Thích"
 
     # game/characters/grace/bath.rpy:27
     old "Dislike"
-    new "Dislike"
+    new "Không thích"
 
     # game/characters/grace/bath.rpy:27
     old "Hate"

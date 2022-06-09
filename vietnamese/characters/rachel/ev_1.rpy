@@ -70,7 +70,7 @@ translate vietnamese rachel_1_part3_b50030d2:
 translate vietnamese rachel_1_part3_69bc4932:
 
     # me "The fuck just happened? Is she some chameleon?"
-    me "Cái đéo gì vừa xảy ra vây? Cô ấy là tắc kè hả?"
+    me "Cái gì vừa xảy ra vây? Cô ta là tắc kè hả?"
 
 # game/characters/rachel/ev_1.rpy:58
 translate vietnamese rachel_1_part3_06fe4f6d:
@@ -118,7 +118,7 @@ translate vietnamese rachel_1_part3_f17a4200:
 translate vietnamese rachel_1_part3_9425dbd1:
 
     # me "I don't know what happened to you, but I've meet one of your kind, Little Fox. She was completely fine, just hungry."
-    me "Tôi không biết chuyện gì đã xảy ra với cô, nhưng tôi đã gặp một người trong loài của cô, Tiểu Cáo. Cô ấy hoàn toàn ổn, chỉ là hơi đói thôi."
+    me "Tôi không biết chuyện gì đã xảy ra với cô, nhưng tôi đã gặp một người cùng loài của cô, Tiểu Cáo. Cô ấy hoàn toàn ổn, chỉ là hơi đói thôi."
 
 # game/characters/rachel/ev_1.rpy:78
 translate vietnamese rachel_1_part3_d8a4fac6:
@@ -280,7 +280,7 @@ translate vietnamese rachel_1_part3_bee8a9fb:
 translate vietnamese rachel_1_part3_9e269d17:
 
     # th "Why do I always lose my mind around beauties?"
-    th "Tại sao mày luôn mất trí mỗi khi mà ở xung quanh người đẹp vậy hả thằng Simp này?"
+    th "Tại sao mày luôn mất trí mỗi khi mà ở xung quanh người đẹp vậy hả thằng SIMP này?"
 
 # game/characters/rachel/ev_1.rpy:123
 translate vietnamese rachel_1_part3_2703e2b5:
