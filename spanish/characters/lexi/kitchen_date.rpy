@@ -6215,13 +6215,13 @@ translate spanish lexi_kitchen_date_bath_984283a1:
 translate spanish lexi_kitchen_date_bath_41a72d51:
 
     # me "An old man named Faust made a deal with the Devil. It would take his soul if he ever says ‘Ah, stay a while! You are so lovely!’."
-    me "Un anciano llamado Faust hizo un trato con el Diablo. Le quitaría el alma si alguna vez dice '¡Ah, quédate un rato! ¡Eres tan encantadora!’."
+    me "Un anciano llamado Fausto hizo un trato con el Diablo. Le quitaría el alma si alguna vez dice '¡Ah, quédate un rato! ¡Eres tan encantadora!’."
 
 # game/characters/lexi/kitchen_date.rpy:2270
 translate spanish lexi_kitchen_date_bath_b97bc95f:
 
     # me "To make him said that the Devil returned Faust his youth, gave him love, riches, and power. He made everything to make him want the moment to be eternal."
-    me "To make him said that the Devil returned Faust his youth, gave him love, riches, and power. He made everything to make him want the moment to be eternal."
+    me "Para hacer que lo diga, el Diablo le devolvió a Fausto su juventud, y entonces le dio amor, riquezas y poder. Hizo todo para que quisiera que el momento fuera eterno."
 
 # game/characters/lexi/kitchen_date.rpy:2271
 translate spanish lexi_kitchen_date_bath_b532f515:
@@ -6317,67 +6317,67 @@ translate spanish lexi_kitchen_date_bath_cf88c4ee:
 translate spanish lexi_kitchen_date_bath_839a5753:
 
     # lexi "I don't know. But if someone hurt me like this, I would want them to burn in Hell forever."
-    lexi "I don't know. But if someone hurt me like this, I would want them to burn in Hell forever."
+    lexi "No lo sé. Pero si alguien me lastimara así, querría que ardiera en el infierno para siempre."
 
 # game/characters/lexi/kitchen_date.rpy:2287
 translate spanish lexi_kitchen_date_bath_d47c9c11:
 
     # me "Understandable."
-    me "Understandable."
+    me "Entendiblemente."
 
 # game/characters/lexi/kitchen_date.rpy:2291
 translate spanish lexi_kitchen_date_bath_fdd4c05a:
 
     # me "Looks like it's full."
-    me "Looks like it's full."
+    me "Parece que está lleno."
 
 # game/characters/lexi/kitchen_date.rpy:2292
 translate spanish lexi_kitchen_date_bath_1a38623f:
 
     # lexi "Yeah. It's nice and warm. Don't you think so?"
-    lexi "Yeah. It's nice and warm. Don't you think so?"
+    lexi "Sí. Es agradable y cálido. ¿No lo crees?"
 
 # game/characters/lexi/kitchen_date.rpy:2293
 translate spanish lexi_kitchen_date_bath_9728feab:
 
     # me "Yeah. That's true. Reminds me of another place to go in."
-    me "Yeah. That's true. Reminds me of another place to go in."
+    me "Sí. Eso es verdad. Me recuerda a otro lugar para ir."
 
 # game/characters/lexi/kitchen_date.rpy:2297
 translate spanish lexi_kitchen_date_bath_6b2330fb:
 
     # lexi "You know... If you want to.."
-    lexi "You know... If you want to.."
+    lexi "Sabes... Si quieres..."
 
 # game/characters/lexi/kitchen_date.rpy:2298
 translate spanish lexi_kitchen_date_bath_2f7c1225:
 
     # me "Oh, I do, dear."
-    me "Oh, I do, dear."
+    me "Oh, si quiero, querida."
 
 # game/characters/lexi/kitchen_date.rpy:2302
 translate spanish lexi_kitchen_date_bath_ea4501a9:
 
     # lexi "Wait, what about your cum in the water?"
-    lexi "Wait, what about your cum in the water?"
+    lexi "Espera, ¿qué pasa con tu semen en el agua?"
 
 # game/characters/lexi/kitchen_date.rpy:2303
 translate spanish lexi_kitchen_date_bath_1f877649:
 
     # me "What do you mean?"
-    me "What do you mean?"
+    me "¿Qué quieres decir?"
 
 # game/characters/lexi/kitchen_date.rpy:2304
 translate spanish lexi_kitchen_date_bath_330edeea:
 
     # lexi "Maybe we finish washing first?"
-    lexi "Maybe we finish washing first?"
+    lexi "¿Tal vez deberíamos terminar de lavarnos primero?"
 
 # game/characters/lexi/kitchen_date.rpy:2305
 translate spanish lexi_kitchen_date_bath_79b91d35:
 
     # me "You said yourself it's good for the skin."
-    me "You said yourself it's good for the skin."
+    me "Tú misma lo dijiste; es bueno para la piel."
 
 # game/characters/lexi/kitchen_date.rpy:2309
 translate spanish lexi_kitchen_date_bath_eb006a8d:
@@ -6401,19 +6401,19 @@ translate spanish lexi_kitchen_date_bath_ad43942c:
 translate spanish lexi_kitchen_date_bath_68ebf34d:
 
     # me "It went in so easily, haha."
-    me "It went in so easily, haha."
+    me "Entró tan fácilmente, haha."
 
 # game/characters/lexi/kitchen_date.rpy:2316
 translate spanish lexi_kitchen_date_bath_8629db7b:
 
     # lexi "I'm well lubricated."
-    lexi "I'm well lubricated."
+    lexi "Estoy bien lubricada."
 
 # game/characters/lexi/kitchen_date.rpy:2317
 translate spanish lexi_kitchen_date_bath_d8f22304:
 
     # me "Haha, sure."
-    me "Haha, sure."
+    me "Haha, seguro."
 
 # game/characters/lexi/kitchen_date.rpy:2321
 translate spanish lexi_kitchen_date_bath_8d7416ed:
@@ -6425,19 +6425,19 @@ translate spanish lexi_kitchen_date_bath_8d7416ed:
 translate spanish lexi_kitchen_date_bath_04c5b8aa:
 
     # lexi "It feels so good. Do you think Gracie hears us?"
-    lexi "It feels so good. Do you think Gracie hears us?"
+    lexi "Se siente tan bien. ¿Crees que Gracie nos escucha?"
 
 # game/characters/lexi/kitchen_date.rpy:2323
 translate spanish lexi_kitchen_date_bath_84b0085f:
 
     # me "I think she is done here already, she probably went back to her room."
-    me "I think she is done here already, she probably went back to her room."
+    me "Creo que ya terminó aquí, probablemente regresó a su habitación."
 
 # game/characters/lexi/kitchen_date.rpy:2324
 translate spanish lexi_kitchen_date_bath_889fd8fe:
 
     # lexi "You're probably right. Fuck me harder~"
-    lexi "You're probably right. Fuck me harder~"
+    lexi "Probablemente tengas razón. Fóllame más fuerte~"
 
 # game/characters/lexi/kitchen_date.rpy:2328
 translate spanish lexi_kitchen_date_bath_3563183c:
@@ -6449,13 +6449,13 @@ translate spanish lexi_kitchen_date_bath_3563183c:
 translate spanish lexi_kitchen_date_bath_e6cdab66:
 
     # lexi "A-Ahh!~"
-    lexi "A-Ahh!~"
+    lexi "¡A-Ahh!~"
 
 # game/characters/lexi/kitchen_date.rpy:2330
 translate spanish lexi_kitchen_date_bath_2a0bcba5:
 
     # lexi "Y-You're reaching so deep!"
-    lexi "Y-You're reaching so deep!"
+    lexi "¡E-Estás tan profundo!"
 
 # game/characters/lexi/kitchen_date.rpy:2331
 translate spanish lexi_kitchen_date_bath_b484f5c4:
@@ -6467,43 +6467,43 @@ translate spanish lexi_kitchen_date_bath_b484f5c4:
 translate spanish lexi_kitchen_date_bath_166d9144:
 
     # me "Ahh!"
-    me "Ahh!"
+    me "¡Ahh!"
 
 # game/characters/lexi/kitchen_date.rpy:2336
 translate spanish lexi_kitchen_date_bath_16a210e6:
 
     # lexi "Mnn~ S-So warm.."
-    lexi "Mnn~ S-So warm.."
+    lexi "Mnn~ T-Tan cálido..."
 
 # game/characters/lexi/kitchen_date.rpy:2340
 translate spanish lexi_kitchen_date_bath_b93ce68e:
 
     # me "You mean hot?"
-    me "You mean hot?"
+    me "¿Quieres decir caliente?"
 
 # game/characters/lexi/kitchen_date.rpy:2341
 translate spanish lexi_kitchen_date_bath_f64fb2d4:
 
     # lexi "That too, haha. Your semen inside is really warm. It's a nice and comfy feeling."
-    lexi "That too, haha. Your semen inside is really warm. It's a nice and comfy feeling."
+    lexi "Eso también, haha. Tu semen adentro es realmente cálido. Es una sensación agradable y cómoda."
 
 # game/characters/lexi/kitchen_date.rpy:2342
 translate spanish lexi_kitchen_date_bath_00d1fc0e:
 
     # me "Haha, well, I'm always glad to make you feel good."
-    me "Haha, well, I'm always glad to make you feel good."
+    me "Haha, bueno, siempre estoy feliz de hacerte sentir bien."
 
 # game/characters/lexi/kitchen_date.rpy:2346
 translate spanish lexi_kitchen_date_bath_0955e580:
 
     # lexi "Where are you going?"
-    lexi "Where are you going?"
+    lexi "¿A dónde vas?"
 
 # game/characters/lexi/kitchen_date.rpy:2347
 translate spanish lexi_kitchen_date_bath_4f26dce6:
 
     # me "You didn't think for real we're going to bathe in my semen?"
-    me "You didn't think for real we're going to bathe in my semen?"
+    me "¿No pensaste de verdad que nos íbamos a bañar en mi semen?"
 
 # game/characters/lexi/kitchen_date.rpy:2348
 translate spanish lexi_kitchen_date_bath_d7760fc7:
@@ -6515,73 +6515,73 @@ translate spanish lexi_kitchen_date_bath_d7760fc7:
 translate spanish lexi_kitchen_date_bath_93fb076f:
 
     # me "[lexi], that's gross."
-    me "[lexi], that's gross."
+    me "[lexi], eso es asqueroso."
 
 # game/characters/lexi/kitchen_date.rpy:2353
 translate spanish lexi_kitchen_date_bath_db47002b:
 
     # lexi "Well, I feel deceived, haha."
-    lexi "Well, I feel deceived, haha."
+    lexi "Bueno, me siento engañada, haha."
 
 # game/characters/lexi/kitchen_date.rpy:2354
 translate spanish lexi_kitchen_date_bath_a8873d45:
 
     # lexi "I wouldn't want to smell of it, though."
-    lexi "I wouldn't want to smell of it, though."
+    lexi "Aunque no me gustaría olerlo."
 
 # game/characters/lexi/kitchen_date.rpy:2358
 translate spanish lexi_kitchen_date_bath_43eb80a2:
 
     # lexi "Mm?~"
-    lexi "Mm?~"
+    lexi "¿Mm?~"
 
 # game/characters/lexi/kitchen_date.rpy:2362
 translate spanish lexi_kitchen_date_bath_bbb0c89d:
 
     # me "A little apology for deceiving you."
-    me "A little apology for deceiving you."
+    me "Una pequeña disculpa por engañarte."
 
 # game/characters/lexi/kitchen_date.rpy:2363
 translate spanish lexi_kitchen_date_bath_caa58187:
 
     # lexi "Forgiven, haha~"
-    lexi "Forgiven, haha~"
+    lexi "Perdonado, haha~"
 
 # game/characters/lexi/kitchen_date.rpy:2367
 translate spanish lexi_kitchen_date_bath_debc0160:
 
     # lexi "Alright, I'll go first."
-    lexi "Alright, I'll go first."
+    lexi "Está bien, iré primero."
 
 # game/characters/lexi/kitchen_date.rpy:2368
 translate spanish lexi_kitchen_date_bath_a529e881:
 
     # me "Afraid to be seen with me?"
-    me "Afraid to be seen with me?"
+    me "¿Asustada de que te vean conmigo?"
 
 # game/characters/lexi/kitchen_date.rpy:2369
 translate spanish lexi_kitchen_date_bath_ea624634:
 
     # lexi "Afraid of Mina."
-    lexi "Afraid of Mina."
+    lexi "No, de Mina."
 
 # game/characters/lexi/kitchen_date.rpy:2370
 translate spanish lexi_kitchen_date_bath_13aaeca6:
 
     # me "She knows you didn't come for a night, doesn't she?"
-    me "She knows you didn't come for a night, doesn't she?"
+    me "Ella sabe que no viniste por una noche, ¿no?"
 
 # game/characters/lexi/kitchen_date.rpy:2374
 translate spanish lexi_kitchen_date_bath_c1672876:
 
     # lexi "Don't even remind me.."
-    lexi "Don't even remind me.."
+    lexi "Ni siquiera me lo recuerdes..."
 
 # game/characters/lexi/kitchen_date.rpy:2378
 translate spanish lexi_kitchen_date_bath_ea895892:
 
     # lexi "Today's not gonna be easy."
-    lexi "Today's not gonna be easy."
+    lexi "Hoy no va a ser fácil."
 
 # game/characters/lexi/kitchen_date.rpy:2379
 translate spanish lexi_kitchen_date_bath_b32b5950:
@@ -6593,100 +6593,99 @@ translate spanish lexi_kitchen_date_bath_b32b5950:
 translate spanish lexi_kitchen_date_bath_0a79f07f:
 
     # me "She's right, though."
-    me "She's right, though."
+    me "Aunque tiene razón."
 
 # game/characters/lexi/kitchen_date.rpy:2384
 translate spanish lexi_kitchen_date_bath_1965a1ad:
 
     # me "[mina]'s going to torment her."
-    me "[mina]'s going to torment her."
+    me "[mina] la va a atormentar."
 
 # game/characters/lexi/kitchen_date.rpy:2388
 translate spanish lexi_kitchen_date_bath_cdafbca7:
 
     # me "I think it's time for me."
-    me "I think it's time for me."
+    me "Creo que es tiempo para mí."
 
 translate spanish strings:
 
     # game/characters/lexi/kitchen_date.rpy:781
     old "I have a second bottle here"
-    new "I have a second bottle here"
+    new "Tengo una segunda botella aquí"
 
     # game/characters/lexi/kitchen_date.rpy:781
     old "How about eating the dessert?"
-    new "How about eating the dessert?"
+    new "¿Qué tal si comemos el postre?"
 
     # game/characters/lexi/kitchen_date.rpy:1249
     old "Take it out"
-    new "Take it out"
+    new "Muestraselo"
 
     # game/characters/lexi/kitchen_date.rpy:1249
     old "Keep it for now"
-    new "Keep it for now"
+    new "Guárdalo por ahora"
 
     # game/characters/lexi/kitchen_date.rpy:1329
     old "Her dad"
-    new "Her dad"
+    new "Su papá"
 
     # game/characters/lexi/kitchen_date.rpy:1329
     old "Her relationship with Jack"
-    new "Her relationship with Jack"
+    new "Su relación con  Jack"
 
     # game/characters/lexi/kitchen_date.rpy:1329
     old "Dream job"
-    new "Dream job"
+    new "Trabajo de sus sueños"
 
     # game/characters/lexi/kitchen_date.rpy:1505
     old "Grab her ass"
-    new "Grab her ass"
+    new "Agárrale el culo"
 
     # game/characters/lexi/kitchen_date.rpy:1505
     old "Wish her goodnight"
-    new "Wish her goodnight"
+    new "Deséale buenas noches"
 
     # game/characters/lexi/kitchen_date.rpy:1698
     old "Get a blowjob"
-    new "Get a blowjob"
+    new "Conseguir que te la chupe"
 
     # game/characters/lexi/kitchen_date.rpy:1698
     old "Just sleep"
-    new "Just sleep"
+    new "Solo dormir"
 
     # game/characters/lexi/kitchen_date.rpy:1753
     old "Have sex"
-    new "Have sex"
+    new "Tener sexo"
 
     # game/characters/lexi/kitchen_date.rpy:1753
     old "Continue blowjob instead"
-    new "Continue blowjob instead"
+    new "Continuar chupada en su lugar"
 
     # game/characters/lexi/kitchen_date.rpy:1788
     old "Down her throat"
-    new "Down her throat"
+    new "Por la garganta"
 
     # game/characters/lexi/kitchen_date.rpy:1788
     old "Her face"
-    new "Her face"
+    new "Su cara"
 
     # game/characters/lexi/kitchen_date.rpy:1788
     old "Her breasts"
-    new "Her breasts"
+    new "Sus pechos"
 
     # game/characters/lexi/kitchen_date.rpy:2143
     old "I'm in"
-    new "I'm in"
-# TODO: Translation updated at 2022-06-10 08:05
+    new "Estoy dentro"
+# : Translation updated at 2022-06-10 08:05
 
 # game/characters/lexi/kitchen_date.rpy:1659
 translate spanish lexi_kitchen_date_night_together_28dd90b2:
 
     # th "The way you kiss me, they way you hold me."
-    th "The way you kiss me, they way you hold me."
+    th "La forma en la que me besas, la forma en que me sostienes."
 
 # game/characters/lexi/kitchen_date.rpy:1663
 translate spanish lexi_kitchen_date_night_together_9e158585:
 
     # th "It's all so erotic."
-    th "It's all so erotic."
-
+    th "Es todo tan erótico."
