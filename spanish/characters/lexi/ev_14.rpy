@@ -130,7 +130,7 @@ translate spanish lexi_14_5aca358e:
 translate spanish lexi_14_aa5a0f32:
 
     # lexi "Maybe I just want to keep it locked the more, the more you want to see it."
-    lexi "Tal vez, cuanto más quieras verlo, más quiero mantenerlo cerrado."
+    lexi "Tal vez. Cuanto más quieras verlo, más quiero mantenerlo cerrado."
 
 # game/characters/lexi/ev_14.rpy:42
 translate spanish lexi_14_fbc5b298:

@@ -1155,11 +1155,10 @@ translate spanish speak_lexi_1836de33:
 
     # lexi "Okay."
     lexi "Okay."
-# TODO: Translation updated at 2022-06-10 20:02
+# : Translation updated at 2022-06-10 20:02
 
 translate spanish strings:
 
     # game/characters/lexi/speak.rpy:68
     old "Why is your laptop locked? {gold}(Story){/gold}"
-    new "Why is your laptop locked? {gold}(Story){/gold}"
-
+    new "¿Por qué tienes contraseña para tu portátil? {gold}(Historia){/gold}"
