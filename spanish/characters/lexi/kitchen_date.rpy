@@ -6676,3 +6676,17 @@ translate spanish strings:
     # game/characters/lexi/kitchen_date.rpy:2143
     old "I'm in"
     new "I'm in"
+# TODO: Translation updated at 2022-06-10 08:05
+
+# game/characters/lexi/kitchen_date.rpy:1659
+translate spanish lexi_kitchen_date_night_together_28dd90b2:
+
+    # th "The way you kiss me, they way you hold me."
+    th "The way you kiss me, they way you hold me."
+
+# game/characters/lexi/kitchen_date.rpy:1663
+translate spanish lexi_kitchen_date_night_together_9e158585:
+
+    # th "It's all so erotic."
+    th "It's all so erotic."
+
