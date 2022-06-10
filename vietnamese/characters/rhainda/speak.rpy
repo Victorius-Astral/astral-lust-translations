@@ -530,3 +530,11 @@ translate vietnamese speak_rhainda_3820771a_2:
 
     # me "..."
     me "..."
+# TODO: Translation updated at 2022-06-10 08:06
+
+translate vietnamese strings:
+
+    # game/characters/rhainda/speak.rpy:66
+    old "I wanted to ask about your dress, the Cheongsam {gold}(Story){/gold}"
+    new "I wanted to ask about your dress, the Cheongsam {gold}(Story){/gold}"
+

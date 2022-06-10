@@ -1608,3 +1608,11 @@ translate vietnamese sleep_grace_feet_wakeup_success2_1547105b:
 
     # me "I wiped it already, though."
     me "I wiped it already, though."
+# TODO: Translation updated at 2022-06-10 08:06
+
+translate vietnamese strings:
+
+    # game/characters/grace/sleep.rpy:32
+    old "Turn to her feet {#visible}"
+    new "Turn to her feet {#visible}"
+

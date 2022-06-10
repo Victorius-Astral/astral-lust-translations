@@ -104,3 +104,15 @@ translate vietnamese strings:
     # game/screens/menus/girls/alice.rpy:22
     old "Nicknames: Al"
     new "Biệt danh: Al"
+# TODO: Translation updated at 2022-06-10 08:06
+
+translate vietnamese strings:
+
+    # game/screens/menus/girls/alice.rpy:45
+    old "• Dildo: "
+    new "• Dildo: "
+
+    # game/screens/menus/girls/alice.rpy:46
+    old "• Rubbing: "
+    new "• Rubbing: "
+

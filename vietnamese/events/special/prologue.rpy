@@ -4990,3 +4990,11 @@ translate vietnamese prologue_end_60f846bf:
 
     # me "A new home.."
     me "Một ngôi nhà mới..."
+# TODO: Translation updated at 2022-06-10 08:06
+
+# game/events/special/prologue.rpy:389
+translate vietnamese prologue_lexi1_618b6156:
+
+    # lexi "They were overrun by monsters. Most monsters, army was able to deal with, but some of them.."
+    lexi "They were overrun by monsters. Most monsters, army was able to deal with, but some of them.."
+

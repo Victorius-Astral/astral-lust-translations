@@ -580,3 +580,35 @@ translate vietnamese strings:
     # game/variables/replays.rpy:268
     old "First Days in the Hotel"
     new "Ngày đầu ở khách sạn"
+# TODO: Translation updated at 2022-06-10 08:06
+
+translate vietnamese strings:
+
+    # game/variables/replays.rpy:130
+    old "Dreaming of Her Dad"
+    new "Dreaming of Her Dad"
+
+    # game/variables/replays.rpy:130
+    old "[me] the Psychologist"
+    new "[me] the Psychologist"
+
+    # game/variables/replays.rpy:130
+    old "Dildo for [grace]"
+    new "Dildo for [grace]"
+
+    # game/variables/replays.rpy:130
+    old "Nasty Revenge"
+    new "Nasty Revenge"
+
+    # game/variables/replays.rpy:252
+    old "A Way to Chill Out"
+    new "A Way to Chill Out"
+
+    # game/variables/replays.rpy:273
+    old "The Blind Blacksmith part 1"
+    new "The Blind Blacksmith part 1"
+
+    # game/variables/replays.rpy:273
+    old "About Her Cheongsam"
+    new "About Her Cheongsam"
+

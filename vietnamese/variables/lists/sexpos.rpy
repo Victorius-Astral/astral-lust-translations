@@ -263,3 +263,11 @@ translate vietnamese strings:
     # game/variables/lists/sexpos.rpy:3
     old "Rubbing - Cowgirl"
     new "Cọ xát - Cowgirl"
+# TODO: Translation updated at 2022-06-10 08:06
+
+translate vietnamese strings:
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Cunnilingus - Against the Counter"
+    new "Cunnilingus - Against the Counter"
+

@@ -1203,3 +1203,15 @@ translate vietnamese strings:
     # game/characters/grace/speak.rpy:84
     old "You.. You.. peed on me.."
     new "Anh... Anh... tè vào em..."
+# TODO: Translation updated at 2022-06-10 08:06
+
+translate vietnamese strings:
+
+    # game/characters/grace/speak.rpy:27
+    old "Tell her about the date"
+    new "Tell her about the date"
+
+    # game/characters/grace/speak.rpy:27
+    old "I need you to cook a dinner for me and Lexi"
+    new "I need you to cook a dinner for me and Lexi"
+

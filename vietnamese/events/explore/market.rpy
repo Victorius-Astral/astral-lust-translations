@@ -231,3 +231,11 @@ translate vietnamese strings:
     # game/events/explore/market.rpy:87
     old "Open the door"
     new "Mở cửa"
+# TODO: Translation updated at 2022-06-10 08:06
+
+# game/events/explore/market.rpy:54
+translate vietnamese exp_market_menu_c1884038:
+
+    # th "Gotta get something special for [lexi]."
+    th "Gotta get something special for [lexi]."
+
