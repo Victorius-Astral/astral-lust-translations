@@ -6697,3 +6697,101 @@ translate spanish lexi_kitchen_date_sex_c628aa97:
 
     # me "Let me take these thongs off."
     me "Let me take these thongs off."
+# TODO: Translation updated at 2022-06-12 06:55
+
+# game/characters/lexi/kitchen_date.rpy:2017
+translate spanish lexi_kitchen_date_sex_f5d72192:
+
+    # me "Let me wipe it out first."
+    me "Let me wipe it out first."
+
+# game/characters/lexi/kitchen_date.rpy:2219
+translate spanish lexi_kitchen_date_bath_499be387:
+
+    # lexi "We're almost there, I'll put something on later."
+    lexi "We're almost there, I'll put something on later."
+
+# game/characters/lexi/kitchen_date.rpy:2220
+translate spanish lexi_kitchen_date_bath_19842b47:
+
+    # lexi "You're topless yourself."
+    lexi "You're topless yourself."
+
+# game/characters/lexi/kitchen_date.rpy:2267
+translate spanish lexi_kitchen_date_bath_58775f0e:
+
+    # me "I'm sorry for your back and neck, though."
+    me "I'm sorry for your back and neck, though."
+
+# game/characters/lexi/kitchen_date.rpy:2268
+translate spanish lexi_kitchen_date_bath_4a7c357f:
+
+    # lexi "I'll sit straight when there is more water."
+    lexi "I'll sit straight when there is more water."
+
+# game/characters/lexi/kitchen_date.rpy:2269
+translate spanish lexi_kitchen_date_bath_c2f526a1:
+
+    # lexi "This morning is colder than usual, though."
+    lexi "This morning is colder than usual, though."
+
+# game/characters/lexi/kitchen_date.rpy:2270
+translate spanish lexi_kitchen_date_bath_7f1fca60:
+
+    # me "You think so?"
+    me "You think so?"
+
+# game/characters/lexi/kitchen_date.rpy:2271
+translate spanish lexi_kitchen_date_bath_20785e4c:
+
+    # lexi "Yeah. Although looking at how you don't care, you might have not noticed."
+    lexi "Yeah. Although looking at how you don't care, you might have not noticed."
+
+# game/characters/lexi/kitchen_date.rpy:2272
+translate spanish lexi_kitchen_date_bath_99e46b3e:
+
+    # me "I think it's on the colder side, but it's not unpleasant for me."
+    me "I think it's on the colder side, but it's not unpleasant for me."
+
+# game/characters/lexi/kitchen_date.rpy:2273
+translate spanish lexi_kitchen_date_bath_73a40799:
+
+    # lexi "Lucky you."
+    lexi "Lucky you."
+
+# game/characters/lexi/kitchen_date.rpy:2277
+translate spanish lexi_kitchen_date_bath_dad0f182:
+
+    # me "By the way, it's an interesting lace to place your feet."
+    me "By the way, it's an interesting lace to place your feet."
+
+# game/characters/lexi/kitchen_date.rpy:2278
+translate spanish lexi_kitchen_date_bath_c34e61d4:
+
+    # lexi "Oh, you noticed?"
+    lexi "Oh, you noticed?"
+
+# game/characters/lexi/kitchen_date.rpy:2279
+translate spanish lexi_kitchen_date_bath_c7713528:
+
+    # lexi "Well, I was kinda out of space, I hope you don't mind."
+    lexi "Well, I was kinda out of space, I hope you don't mind."
+
+# game/characters/lexi/kitchen_date.rpy:2280
+translate spanish lexi_kitchen_date_bath_9e0421f8:
+
+    # me "Well, I don't."
+    me "Well, I don't."
+
+# game/characters/lexi/kitchen_date.rpy:2281
+translate spanish lexi_kitchen_date_bath_4312c063:
+
+    # th "I'm kind of horny now, though."
+    th "I'm kind of horny now, though."
+
+# game/characters/lexi/kitchen_date.rpy:2287
+translate spanish lexi_kitchen_date_bath_f209f330:
+
+    # me "Due to lack of time I exchanged my bath for a shower back home. It was more efficient."
+    me "Due to lack of time I exchanged my bath for a shower back home. It was more efficient."
+
