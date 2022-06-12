@@ -6690,13 +6690,14 @@ translate spanish lexi_kitchen_date_night_together_9e158585:
     # th "It's all so erotic."
     th "Es todo tan erótico."
 
-# TODO: Translation updated at 2022-06-10 20:02
+# : Translation updated at 2022-06-10 20:02
 
 # game/characters/lexi/kitchen_date.rpy:1951
 translate spanish lexi_kitchen_date_sex_c628aa97:
 
     # me "Let me take these thongs off."
-    me "Let me take these thongs off."
+    me "Déjame quitarte esa tanga."
+    
 # TODO: Translation updated at 2022-06-12 06:55
 
 # game/characters/lexi/kitchen_date.rpy:2017
@@ -6794,4 +6795,3 @@ translate spanish lexi_kitchen_date_bath_f209f330:
 
     # me "Due to lack of time I exchanged my bath for a shower back home. It was more efficient."
     me "Due to lack of time I exchanged my bath for a shower back home. It was more efficient."
-
