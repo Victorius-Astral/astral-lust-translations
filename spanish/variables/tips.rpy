@@ -397,11 +397,3 @@ translate spanish strings:
     # game/variables/tips.rpy:4
     old "I need to get vodka for her."
     new "Tengo que conseguirle vodka."
-
-# TODO: Translation updated at 2022-06-12 06:55
-
-translate spanish strings:
-
-    # game/variables/tips.rpy:4
-    old "She asked me to get 2 ice creams for our date, I should return to her when I get them to arrange a date."
-    new "She asked me to get 2 ice creams for our date, I should return to her when I get them to arrange a date."
