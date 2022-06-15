@@ -5014,3 +5014,11 @@ translate chinese strings:
     old "Something terrifying spoke to me, in a language I've never heard before. Its voice alone was enough to take me to the edge of madness."
     new "Something terrifying spoke to me, in a language I've never heard before. Its voice alone was enough to take me to the edge of madness."
 
+# TODO: Translation updated at 2022-06-15 06:52
+
+# game/events/special/prologue.rpy:389
+translate chinese prologue_lexi1_618b6156:
+
+    # lexi "They were overrun by monsters. Most monsters, army was able to deal with, but some of them.."
+    lexi "They were overrun by monsters. Most monsters, army was able to deal with, but some of them.."
+

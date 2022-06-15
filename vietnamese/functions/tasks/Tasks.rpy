@@ -33,3 +33,11 @@ translate vietnamese strings:
     # game/functions/tasks/Tasks.rpy:141
     old "Completed"
     new "Hoàn thành"
+# TODO: Translation updated at 2022-06-15 06:52
+
+translate vietnamese strings:
+
+    # game/functions/tasks/Tasks.rpy:164
+    old "Blocked"
+    new "Blocked"
+

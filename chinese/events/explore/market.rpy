@@ -232,3 +232,11 @@ translate chinese strings:
     old "Open the door"
     new "Open the door"
 
+# TODO: Translation updated at 2022-06-15 06:52
+
+# game/events/explore/market.rpy:55
+translate chinese exp_market_menu_c1884038:
+
+    # th "Gotta get something special for [lexi]."
+    th "Gotta get something special for [lexi]."
+

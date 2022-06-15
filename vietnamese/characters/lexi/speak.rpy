@@ -757,3 +757,11 @@ translate vietnamese strings:
     old "Are you sure? You might lose your current preparations."
     new "Are you sure? You might lose your current preparations."
 
+# TODO: Translation updated at 2022-06-15 06:52
+
+translate vietnamese strings:
+
+    # game/characters/lexi/speak.rpy:68
+    old "Why is your laptop locked? {gold}(Story){/gold}"
+    new "Why is your laptop locked? {gold}(Story){/gold}"
+

@@ -315,3 +315,55 @@ translate spanish strings:
     # game/screens/utility/what_new.rpy:68
     old "Click outside to close this window, it can be entered again from the pc."
     new "Haz click afuera para cerrar esta ventana, puedes verla de nuevo desde la PC."
+# TODO: Translation updated at 2022-06-15 06:51
+
+translate spanish strings:
+
+    # game/screens/utility/what_new.rpy:174
+    old "{b}A lot of new Grace content{/b}"
+    new "{b}A lot of new Grace content{/b}"
+
+    # game/screens/utility/what_new.rpy:175
+    old "Gracie got three new story events, new 'anger & apology' mechanic, new sleeping content (including two footjobs), secret event, and more. The last of her new story events is merged with Alice's and Little Fox's events. Oh, it's a funny event ;)"
+    new "Gracie got three new story events, new 'anger & apology' mechanic, new sleeping content (including two footjobs), secret event, and more. The last of her new story events is merged with Alice's and Little Fox's events. Oh, it's a funny event ;)"
+
+    # game/screens/utility/what_new.rpy:191
+    old "{b}New Lexi & Mina events{/b}"
+    new "{b}New Lexi & Mina events{/b}"
+
+    # game/screens/utility/what_new.rpy:192
+    old "Sisters got two new story events each! Lexi additionally got a super big event - Kitchen Date, an event you need to make preparations for. With a lot of hot content to unlock as you get higher score. It's the longest event to date, and the first of the new 'date' system. Have fun!"
+    new "Sisters got two new story events each! Lexi additionally got a super big event - Kitchen Date, an event you need to make preparations for. With a lot of hot content to unlock as you get higher score. It's the longest event to date, and the first of the new 'date' system. Have fun!"
+
+    # game/screens/utility/what_new.rpy:203
+    old "{b}Fox girls' events{/b}"
+    new "{b}Fox girls' events{/b}"
+
+    # game/screens/utility/what_new.rpy:204
+    old "As mentioned above Little Fox has an event merged with Alice & Gracie, Rachel also got an event (finally some action with her :P), Rhainda got two story events!"
+    new "As mentioned above Little Fox has an event merged with Alice & Gracie, Rachel also got an event (finally some action with her :P), Rhainda got two story events!"
+
+    # game/screens/utility/what_new.rpy:215
+    old "{b}New items{/b}"
+    new "{b}New items{/b}"
+
+    # game/screens/utility/what_new.rpy:216
+    old "Four of them can be used during the new events, there are two consumables (and a new buff), and puches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
+    new "Four of them can be used during the new events, there are two consumables (and a new buff), and puches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
+
+    # game/screens/utility/what_new.rpy:246
+    old "{b}Redone prologue{/b}"
+    new "{b}Redone prologue{/b}"
+
+    # game/screens/utility/what_new.rpy:247
+    old "Prologue was made from the stratch to be much bigger, more informative and intriguing. Check replays or start a new game to see it. You might meet someone unexpected there."
+    new "Prologue was made from the stratch to be much bigger, more informative and intriguing. Check replays or start a new game to see it. You might meet someone unexpected there."
+
+    # game/screens/utility/what_new.rpy:258
+    old "{b}A lot of other changes & additions{/b}"
+    new "{b}A lot of other changes & additions{/b}"
+
+    # game/screens/utility/what_new.rpy:259
+    old "The changelog is long as hell, there are around 30 bugs fixed, a lot of QoL changes, some suggested by the community. There are some other new mechanics like Mina can have a hangover, refusing to get into any meaningful conversation with you, and stopping working on her task. Abandoned car loot was boosted significantly, first sounds to enemy attacks were added. Check the full changelog from the link below."
+    new "The changelog is long as hell, there are around 30 bugs fixed, a lot of QoL changes, some suggested by the community. There are some other new mechanics like Mina can have a hangover, refusing to get into any meaningful conversation with you, and stopping working on her task. Abandoned car loot was boosted significantly, first sounds to enemy attacks were added. Check the full changelog from the link below."
+

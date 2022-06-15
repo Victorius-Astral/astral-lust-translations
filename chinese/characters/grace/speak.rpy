@@ -1186,3 +1186,15 @@ translate chinese strings:
     old "You.. You.. peed on me.."
     new "You.. You.. peed on me.."
 
+# TODO: Translation updated at 2022-06-15 06:53
+
+translate chinese strings:
+
+    # game/characters/grace/speak.rpy:27
+    old "Tell her about the date"
+    new "Tell her about the date"
+
+    # game/characters/grace/speak.rpy:27
+    old "I need you to cook a dinner for me and Lexi"
+    new "I need you to cook a dinner for me and Lexi"
+

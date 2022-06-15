@@ -530,3 +530,11 @@ translate chinese strings:
     old "Why do you hate ducks?"
     new "Why do you hate ducks?"
 
+# TODO: Translation updated at 2022-06-15 06:53
+
+translate chinese strings:
+
+    # game/characters/rhainda/speak.rpy:66
+    old "I wanted to ask about your dress, the Cheongsam {gold}(Story){/gold}"
+    new "I wanted to ask about your dress, the Cheongsam {gold}(Story){/gold}"
+

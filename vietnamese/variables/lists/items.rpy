@@ -62,8 +62,8 @@ translate vietnamese strings:
 translate vietnamese strings:
 
     # game/variables/lists/items.rpy:80
-    old "Premium Ice Creams"
-    new "Premium Ice Creams"
+    old "Premium Ice Cream"
+    new "Premium Ice Cream"
 
     # game/variables/lists/items.rpy:80
     old "A limited edition of Lexi's favorite ice cream."

@@ -62,7 +62,7 @@ translate spanish strings:
 translate spanish strings:
 
     # game/variables/lists/items.rpy:80
-    old "Premium Ice Creams"
+    old "Premium Ice Cream"
     new "Helados Premium"
 
     # game/variables/lists/items.rpy:80

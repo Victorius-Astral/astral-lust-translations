@@ -256,3 +256,11 @@ translate chinese strings:
     old "Rubbing - Cowgirl"
     new "Rubbing - Cowgirl"
 
+# TODO: Translation updated at 2022-06-15 06:53
+
+translate chinese strings:
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Cunnilingus - Against the Counter"
+    new "Cunnilingus - Against the Counter"
+

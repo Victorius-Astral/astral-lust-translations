@@ -6795,3 +6795,147 @@ translate spanish lexi_kitchen_date_bath_f209f330:
 
     # me "Due to lack of time I exchanged my bath for a shower back home. It was more efficient."
     me "Due to lack of time I exchanged my bath for a shower back home. It was more efficient."
+# TODO: Translation updated at 2022-06-15 06:51
+
+# game/characters/lexi/kitchen_date.rpy:156
+translate spanish lexi_kitchen_date_start_b7a83025:
+
+    # me "Fuck."
+    me "Fuck."
+
+# game/characters/lexi/kitchen_date.rpy:157
+translate spanish lexi_kitchen_date_start_2d1fe969:
+
+    # lexi "What's wrong?"
+    lexi "What's wrong?"
+
+# game/characters/lexi/kitchen_date.rpy:158
+translate spanish lexi_kitchen_date_start_74aea7b6:
+
+    # me "I don't have the ice creams."
+    me "I don't have the ice creams."
+
+# game/characters/lexi/kitchen_date.rpy:162
+translate spanish lexi_kitchen_date_start_b6fcffc1:
+
+    # lexi "What? You had them. You said so yourself."
+    lexi "What? You had them. You said so yourself."
+
+# game/characters/lexi/kitchen_date.rpy:163
+translate spanish lexi_kitchen_date_start_d51bad58:
+
+    # me "I did, but I don't have them anymore."
+    me "I did, but I don't have them anymore."
+
+# game/characters/lexi/kitchen_date.rpy:167
+translate spanish lexi_kitchen_date_start_87425273:
+
+    # lexi "Did you eat ice creams for our date on your own?"
+    lexi "Did you eat ice creams for our date on your own?"
+
+# game/characters/lexi/kitchen_date.rpy:168
+translate spanish lexi_kitchen_date_start_48943e18:
+
+    # me "Does it matter if I eaten or sold them?"
+    me "Does it matter if I eaten or sold them?"
+
+# game/characters/lexi/kitchen_date.rpy:169
+translate spanish lexi_kitchen_date_start_0139f328:
+
+    # lexi "So you sold them?"
+    lexi "So you sold them?"
+
+# game/characters/lexi/kitchen_date.rpy:170
+translate spanish lexi_kitchen_date_start_297e9527:
+
+    # me "I didn't say that."
+    me "I didn't say that."
+
+# game/characters/lexi/kitchen_date.rpy:176
+translate spanish lexi_kitchen_date_start_a4523297:
+
+    # lexi "You just had to do one thing.."
+    lexi "You just had to do one thing.."
+
+# game/characters/lexi/kitchen_date.rpy:180
+translate spanish lexi_kitchen_date_start_3cc578b1:
+
+    # me "Lexi, wait!"
+    me "Lexi, wait!"
+
+# game/characters/lexi/kitchen_date.rpy:184
+translate spanish lexi_kitchen_date_start_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/characters/lexi/kitchen_date.rpy:188
+translate spanish lexi_kitchen_date_start_b7a83025_1:
+
+    # me "Fuck."
+    me "Fuck."
+
+# game/characters/lexi/kitchen_date.rpy:194
+translate spanish lexi_kitchen_date_start_83ab8881:
+
+    # grace "Hey, I've seen Lexi on a way here. She looked pretty."
+    grace "Hey, I've seen Lexi on a way here. She looked pretty."
+
+# game/characters/lexi/kitchen_date.rpy:195
+translate spanish lexi_kitchen_date_start_6fd51326:
+
+    # me "She did."
+    me "She did."
+
+# game/characters/lexi/kitchen_date.rpy:196
+translate spanish lexi_kitchen_date_start_289d92d7:
+
+    # grace "She looked angry."
+    grace "She looked angry."
+
+# game/characters/lexi/kitchen_date.rpy:197
+translate spanish lexi_kitchen_date_start_994746a2:
+
+    # me "She was.."
+    me "She was.."
+
+# game/characters/lexi/kitchen_date.rpy:198
+translate spanish lexi_kitchen_date_start_a18c65d1:
+
+    # grace "I see."
+    grace "I see."
+
+# game/characters/lexi/kitchen_date.rpy:202
+translate spanish lexi_kitchen_date_start_a5765000:
+
+    # grace "Well, let's keep the cooking for another time."
+    grace "Well, let's keep the cooking for another time."
+
+# game/characters/lexi/kitchen_date.rpy:203
+translate spanish lexi_kitchen_date_start_5b48ec40:
+
+    # me "Yeah. Thank you for coming."
+    me "Yeah. Thank you for coming."
+
+# game/characters/lexi/kitchen_date.rpy:204
+translate spanish lexi_kitchen_date_start_7402cda2:
+
+    # grace "Mm."
+    grace "Mm."
+
+# game/characters/lexi/kitchen_date.rpy:208
+translate spanish lexi_kitchen_date_start_c419bf4e:
+
+    # me "Ahh..."
+    me "Ahh..."
+
+translate spanish strings:
+
+    # game/characters/lexi/kitchen_date.rpy:152
+    old "You don't have enough ice creams!"
+    new "You don't have enough ice creams!"
+
+    # game/characters/lexi/kitchen_date.rpy:1343
+    old "Keep it for now {#visible}"
+    new "Keep it for now {#visible}"
+

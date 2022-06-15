@@ -870,3 +870,11 @@ translate vietnamese strings:
     old "I'll get you the vodka you wanted {gold}(Story){/gold}"
     new "I'll get you the vodka you wanted {gold}(Story){/gold}"
 
+# TODO: Translation updated at 2022-06-15 06:52
+
+# game/characters/mina/speak.rpy:187
+translate vietnamese speak_mina_menu1_4ba83588:
+
+    # mina "Man, let me rest."
+    mina "Man, let me rest."
+

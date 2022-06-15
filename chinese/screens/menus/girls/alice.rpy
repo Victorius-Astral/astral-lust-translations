@@ -100,3 +100,15 @@
     old "• Came outside: "
     new "• 外射："
 
+# TODO: Translation updated at 2022-06-15 06:53
+
+translate chinese strings:
+
+    # game/screens/menus/girls/alice.rpy:45
+    old "• Dildo: "
+    new "• Dildo: "
+
+    # game/screens/menus/girls/alice.rpy:46
+    old "• Rubbing: "
+    new "• Rubbing: "
+

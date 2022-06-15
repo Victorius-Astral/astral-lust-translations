@@ -6652,3 +6652,249 @@ translate vietnamese strings:
     old "Don't mention it for now"
     new "Don't mention it for now"
 
+# TODO: Translation updated at 2022-06-15 06:52
+
+# game/characters/lexi/kitchen_date.rpy:156
+translate vietnamese lexi_kitchen_date_start_b7a83025:
+
+    # me "Fuck."
+    me "Fuck."
+
+# game/characters/lexi/kitchen_date.rpy:157
+translate vietnamese lexi_kitchen_date_start_2d1fe969:
+
+    # lexi "What's wrong?"
+    lexi "What's wrong?"
+
+# game/characters/lexi/kitchen_date.rpy:158
+translate vietnamese lexi_kitchen_date_start_74aea7b6:
+
+    # me "I don't have the ice creams."
+    me "I don't have the ice creams."
+
+# game/characters/lexi/kitchen_date.rpy:162
+translate vietnamese lexi_kitchen_date_start_b6fcffc1:
+
+    # lexi "What? You had them. You said so yourself."
+    lexi "What? You had them. You said so yourself."
+
+# game/characters/lexi/kitchen_date.rpy:163
+translate vietnamese lexi_kitchen_date_start_d51bad58:
+
+    # me "I did, but I don't have them anymore."
+    me "I did, but I don't have them anymore."
+
+# game/characters/lexi/kitchen_date.rpy:167
+translate vietnamese lexi_kitchen_date_start_87425273:
+
+    # lexi "Did you eat ice creams for our date on your own?"
+    lexi "Did you eat ice creams for our date on your own?"
+
+# game/characters/lexi/kitchen_date.rpy:168
+translate vietnamese lexi_kitchen_date_start_48943e18:
+
+    # me "Does it matter if I eaten or sold them?"
+    me "Does it matter if I eaten or sold them?"
+
+# game/characters/lexi/kitchen_date.rpy:169
+translate vietnamese lexi_kitchen_date_start_0139f328:
+
+    # lexi "So you sold them?"
+    lexi "So you sold them?"
+
+# game/characters/lexi/kitchen_date.rpy:170
+translate vietnamese lexi_kitchen_date_start_297e9527:
+
+    # me "I didn't say that."
+    me "I didn't say that."
+
+# game/characters/lexi/kitchen_date.rpy:176
+translate vietnamese lexi_kitchen_date_start_a4523297:
+
+    # lexi "You just had to do one thing.."
+    lexi "You just had to do one thing.."
+
+# game/characters/lexi/kitchen_date.rpy:180
+translate vietnamese lexi_kitchen_date_start_3cc578b1:
+
+    # me "Lexi, wait!"
+    me "Lexi, wait!"
+
+# game/characters/lexi/kitchen_date.rpy:184
+translate vietnamese lexi_kitchen_date_start_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/characters/lexi/kitchen_date.rpy:188
+translate vietnamese lexi_kitchen_date_start_b7a83025_1:
+
+    # me "Fuck."
+    me "Fuck."
+
+# game/characters/lexi/kitchen_date.rpy:194
+translate vietnamese lexi_kitchen_date_start_83ab8881:
+
+    # grace "Hey, I've seen Lexi on a way here. She looked pretty."
+    grace "Hey, I've seen Lexi on a way here. She looked pretty."
+
+# game/characters/lexi/kitchen_date.rpy:195
+translate vietnamese lexi_kitchen_date_start_6fd51326:
+
+    # me "She did."
+    me "She did."
+
+# game/characters/lexi/kitchen_date.rpy:196
+translate vietnamese lexi_kitchen_date_start_289d92d7:
+
+    # grace "She looked angry."
+    grace "She looked angry."
+
+# game/characters/lexi/kitchen_date.rpy:197
+translate vietnamese lexi_kitchen_date_start_994746a2:
+
+    # me "She was.."
+    me "She was.."
+
+# game/characters/lexi/kitchen_date.rpy:198
+translate vietnamese lexi_kitchen_date_start_a18c65d1:
+
+    # grace "I see."
+    grace "I see."
+
+# game/characters/lexi/kitchen_date.rpy:202
+translate vietnamese lexi_kitchen_date_start_a5765000:
+
+    # grace "Well, let's keep the cooking for another time."
+    grace "Well, let's keep the cooking for another time."
+
+# game/characters/lexi/kitchen_date.rpy:203
+translate vietnamese lexi_kitchen_date_start_5b48ec40:
+
+    # me "Yeah. Thank you for coming."
+    me "Yeah. Thank you for coming."
+
+# game/characters/lexi/kitchen_date.rpy:204
+translate vietnamese lexi_kitchen_date_start_7402cda2:
+
+    # grace "Mm."
+    grace "Mm."
+
+# game/characters/lexi/kitchen_date.rpy:208
+translate vietnamese lexi_kitchen_date_start_c419bf4e:
+
+    # me "Ahh..."
+    me "Ahh..."
+
+# game/characters/lexi/kitchen_date.rpy:2046
+translate vietnamese lexi_kitchen_date_sex_c628aa97:
+
+    # me "Let me take that thong off." id lexi_kitchen_date_sex_c628aa97
+    me "Let me take that thong off." id lexi_kitchen_date_sex_c628aa97
+
+# game/characters/lexi/kitchen_date.rpy:2108
+translate vietnamese lexi_kitchen_date_sex_f5d72192:
+
+    # me "Let me wipe it out first."
+    me "Let me wipe it out first."
+
+# game/characters/lexi/kitchen_date.rpy:2310
+translate vietnamese lexi_kitchen_date_bath_499be387:
+
+    # lexi "We're almost there, I'll put something on later."
+    lexi "We're almost there, I'll put something on later."
+
+# game/characters/lexi/kitchen_date.rpy:2311
+translate vietnamese lexi_kitchen_date_bath_19842b47:
+
+    # lexi "You're topless yourself."
+    lexi "You're topless yourself."
+
+# game/characters/lexi/kitchen_date.rpy:2358
+translate vietnamese lexi_kitchen_date_bath_58775f0e:
+
+    # me "I'm sorry for your back and neck, though."
+    me "I'm sorry for your back and neck, though."
+
+# game/characters/lexi/kitchen_date.rpy:2359
+translate vietnamese lexi_kitchen_date_bath_4a7c357f:
+
+    # lexi "I'll sit straight when there is more water."
+    lexi "I'll sit straight when there is more water."
+
+# game/characters/lexi/kitchen_date.rpy:2360
+translate vietnamese lexi_kitchen_date_bath_c2f526a1:
+
+    # lexi "This morning is colder than usual, though."
+    lexi "This morning is colder than usual, though."
+
+# game/characters/lexi/kitchen_date.rpy:2361
+translate vietnamese lexi_kitchen_date_bath_7f1fca60:
+
+    # me "You think so?"
+    me "You think so?"
+
+# game/characters/lexi/kitchen_date.rpy:2362
+translate vietnamese lexi_kitchen_date_bath_20785e4c:
+
+    # lexi "Yeah. Although looking at how you don't care, you might have not noticed."
+    lexi "Yeah. Although looking at how you don't care, you might have not noticed."
+
+# game/characters/lexi/kitchen_date.rpy:2363
+translate vietnamese lexi_kitchen_date_bath_99e46b3e:
+
+    # me "I think it's on the colder side, but it's not unpleasant for me."
+    me "I think it's on the colder side, but it's not unpleasant for me."
+
+# game/characters/lexi/kitchen_date.rpy:2364
+translate vietnamese lexi_kitchen_date_bath_73a40799:
+
+    # lexi "Lucky you."
+    lexi "Lucky you."
+
+# game/characters/lexi/kitchen_date.rpy:2368
+translate vietnamese lexi_kitchen_date_bath_dad0f182:
+
+    # me "By the way, it's an interesting lace to place your feet."
+    me "By the way, it's an interesting lace to place your feet."
+
+# game/characters/lexi/kitchen_date.rpy:2369
+translate vietnamese lexi_kitchen_date_bath_c34e61d4:
+
+    # lexi "Oh, you noticed?"
+    lexi "Oh, you noticed?"
+
+# game/characters/lexi/kitchen_date.rpy:2370
+translate vietnamese lexi_kitchen_date_bath_c7713528:
+
+    # lexi "Well, I was kinda out of space, I hope you don't mind."
+    lexi "Well, I was kinda out of space, I hope you don't mind."
+
+# game/characters/lexi/kitchen_date.rpy:2371
+translate vietnamese lexi_kitchen_date_bath_9e0421f8:
+
+    # me "Well, I don't."
+    me "Well, I don't."
+
+# game/characters/lexi/kitchen_date.rpy:2372
+translate vietnamese lexi_kitchen_date_bath_4312c063:
+
+    # th "I'm kind of horny now, though."
+    th "I'm kind of horny now, though."
+
+# game/characters/lexi/kitchen_date.rpy:2378
+translate vietnamese lexi_kitchen_date_bath_f209f330:
+
+    # me "Due to lack of time I exchanged my bath for a shower back home. It was more efficient."
+    me "Due to lack of time I exchanged my bath for a shower back home. It was more efficient."
+
+translate vietnamese strings:
+
+    # game/characters/lexi/kitchen_date.rpy:152
+    old "You don't have enough ice creams!"
+    new "You don't have enough ice creams!"
+
+    # game/characters/lexi/kitchen_date.rpy:1343
+    old "Keep it for now {#visible}"
+    new "Keep it for now {#visible}"
+
