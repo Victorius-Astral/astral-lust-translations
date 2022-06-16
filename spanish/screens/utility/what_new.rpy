@@ -356,14 +356,14 @@ translate spanish strings:
     new "{b}Redone prologue{/b}"
 
     # game/screens/utility/what_new.rpy:247
-    old "Prologue was made from the stratch to be much bigger, more informative and intriguing. Check replays or start a new game to see it. You might meet someone unexpected there."
-    new "Prologue was made from the stratch to be much bigger, more informative and intriguing. Check replays or start a new game to see it. You might meet someone unexpected there."
+    old "The prologue was made from scratch to be much bigger, more informative, and intriguing. Check replays or start a new game to see it. You might meet someone unexpected there."
+    new "The prologue was made from scratch to be much bigger, more informative, and intriguing. Check replays or start a new game to see it. You might meet someone unexpected there."
 
     # game/screens/utility/what_new.rpy:258
     old "{b}A lot of other changes & additions{/b}"
     new "{b}A lot of other changes & additions{/b}"
 
     # game/screens/utility/what_new.rpy:259
-    old "The changelog is long as hell, there are around 30 bugs fixed, a lot of QoL changes, some suggested by the community. There are some other new mechanics like Mina can have a hangover, refusing to get into any meaningful conversation with you, and stopping working on her task. Abandoned car loot was boosted significantly, first sounds to enemy attacks were added. Check the full changelog from the link below."
-    new "The changelog is long as hell, there are around 30 bugs fixed, a lot of QoL changes, some suggested by the community. There are some other new mechanics like Mina can have a hangover, refusing to get into any meaningful conversation with you, and stopping working on her task. Abandoned car loot was boosted significantly, first sounds to enemy attacks were added. Check the full changelog from the link below."
+    old "The changelog is long as hell, there are around 30 bugs fixed, a lot of QoL changes, some suggested by the community. There are some other new mechanics like Mina can have a hangover, refuse to get into any meaningful conversation with you, and stop working on her task. Abandoned car loot was boosted significantly, first sounds to enemy attacks were added. Check the full changelog from the link below."
+    new "The changelog is long as hell, there are around 30 bugs fixed, a lot of QoL changes, some suggested by the community. There are some other new mechanics like Mina can have a hangover, refuse to get into any meaningful conversation with you, and stop working on her task. Abandoned car loot was boosted significantly, first sounds to enemy attacks were added. Check the full changelog from the link below."
 
