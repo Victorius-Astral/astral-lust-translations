@@ -1261,11 +1261,10 @@ translate spanish strings:
     # game/characters/mina/speak.rpy:43
     old "I'll get you the vodka you wanted {gold}(Story){/gold}"
     new "Te voy a conseguir el vodka que querías {gold}(Historia){/gold}"
-# TODO: Translation updated at 2022-06-15 06:51
+# : Translation updated at 2022-06-15 06:51
 
 # game/characters/mina/speak.rpy:187
 translate spanish speak_mina_menu1_4ba83588:
 
     # mina "Man, let me rest."
-    mina "Man, let me rest."
-
+    mina "Hombre, déjame descansar."

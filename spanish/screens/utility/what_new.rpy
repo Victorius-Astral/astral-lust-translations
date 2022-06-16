@@ -315,55 +315,54 @@ translate spanish strings:
     # game/screens/utility/what_new.rpy:68
     old "Click outside to close this window, it can be entered again from the pc."
     new "Haz click afuera para cerrar esta ventana, puedes verla de nuevo desde la PC."
-# TODO: Translation updated at 2022-06-15 06:51
+# : Translation updated at 2022-06-15 06:51
 
 translate spanish strings:
 
     # game/screens/utility/what_new.rpy:174
     old "{b}A lot of new Grace content{/b}"
-    new "{b}A lot of new Grace content{/b}"
+    new "{b}Mucho contenido nuevo de Grace{/b}"
 
     # game/screens/utility/what_new.rpy:175
     old "Gracie got three new story events, new 'anger & apology' mechanic, new sleeping content (including two footjobs), secret event, and more. The last of her new story events is merged with Alice's and Little Fox's events. Oh, it's a funny event ;)"
-    new "Gracie got three new story events, new 'anger & apology' mechanic, new sleeping content (including two footjobs), secret event, and more. The last of her new story events is merged with Alice's and Little Fox's events. Oh, it's a funny event ;)"
+    new "Gracie tiene tres nuevos eventos de historia, una nueva mecánica de 'enojo y disculpa', nuevo contenido para cuando duerme (incluidos dos footjobs), un evento secreto y más. El último de sus nuevos eventos de historia se fusiona con los eventos de Alice y Little Fox. Oh, es un evento divertido ;)"
 
     # game/screens/utility/what_new.rpy:191
     old "{b}New Lexi & Mina events{/b}"
-    new "{b}New Lexi & Mina events{/b}"
+    new "{b}Nuevos eventos de Lexi & Mina{/b}"
 
     # game/screens/utility/what_new.rpy:192
     old "Sisters got two new story events each! Lexi additionally got a super big event - Kitchen Date, an event you need to make preparations for. With a lot of hot content to unlock as you get higher score. It's the longest event to date, and the first of the new 'date' system. Have fun!"
-    new "Sisters got two new story events each! Lexi additionally got a super big event - Kitchen Date, an event you need to make preparations for. With a lot of hot content to unlock as you get higher score. It's the longest event to date, and the first of the new 'date' system. Have fun!"
+    new "¡Cada una de las hermanas tiene dos nuevos eventos de historia! Lexi también consiguió un evento súper grande: Cita en la cocina, un evento para el que debes prepararte. Con una gran cantidad de contenido interesante para desbloquear a medida que obtienes una puntuación más alta. Es el evento más largo hasta la fecha. , y el primero del nuevo sistema de 'citas'. ¡Diviértete!"
 
     # game/screens/utility/what_new.rpy:203
-    old "{b}Fox girls' events{/b}"
     new "{b}Fox girls' events{/b}"
+    old "{b}Eventos de las Chicas Zorro{/b}"
 
     # game/screens/utility/what_new.rpy:204
     old "As mentioned above Little Fox has an event merged with Alice & Gracie, Rachel also got an event (finally some action with her :P), Rhainda got two story events!"
-    new "As mentioned above Little Fox has an event merged with Alice & Gracie, Rachel also got an event (finally some action with her :P), Rhainda got two story events!"
+    new "Como se mencionó anteriormente, Little Fox tiene un evento fusionado con Alice & Gracie. Rachel también consiguió un evento (finalmente algo de acción con ella: P), ¡Rhainda consiguió eventos de dos historias!"
 
     # game/screens/utility/what_new.rpy:215
     old "{b}New items{/b}"
-    new "{b}New items{/b}"
+    new "{b}Nuevos objetos{/b}"
 
     # game/screens/utility/what_new.rpy:216
-    old "Four of them can be used during the new events, there are two consumables (and a new buff), and puches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
-    new "Four of them can be used during the new events, there are two consumables (and a new buff), and puches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
+    old "Four of them can be used during the new events, there are two consumables (and a new buff), and pouches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
+    new "Cuatro de ellos se pueden usar durante los nuevos eventos, hay dos consumibles (y un nuevo beneficio) y bolsas + cofres con llaves que se usan para abrirlos. ¿Te harás rico de la noche a la mañana? ¡Recógelos o cómpralos para probar tu suerte! Prueba el código {b}{i}NewPouches{/i}{/b} para obtener algunas bolsas de recompensa :)"
 
     # game/screens/utility/what_new.rpy:246
     old "{b}Redone prologue{/b}"
-    new "{b}Redone prologue{/b}"
+    new "{b}Prólogo renovado{/b}"
 
     # game/screens/utility/what_new.rpy:247
     old "The prologue was made from scratch to be much bigger, more informative, and intriguing. Check replays or start a new game to see it. You might meet someone unexpected there."
-    new "The prologue was made from scratch to be much bigger, more informative, and intriguing. Check replays or start a new game to see it. You might meet someone unexpected there."
+    new "El prólogo fue hecho desde cero para ser mucho más grande, informativo e intrigante. Revisa las repeticiones o comienza un nuevo juego para verlo. Es posible que te encuentres con alguien inesperado ahí."
 
     # game/screens/utility/what_new.rpy:258
     old "{b}A lot of other changes & additions{/b}"
-    new "{b}A lot of other changes & additions{/b}"
+    new "{b}Muchos otros cambios y adiciones{/b}"
 
     # game/screens/utility/what_new.rpy:259
     old "The changelog is long as hell, there are around 30 bugs fixed, a lot of QoL changes, some suggested by the community. There are some other new mechanics like Mina can have a hangover, refuse to get into any meaningful conversation with you, and stop working on her task. Abandoned car loot was boosted significantly, first sounds to enemy attacks were added. Check the full changelog from the link below."
-    new "The changelog is long as hell, there are around 30 bugs fixed, a lot of QoL changes, some suggested by the community. There are some other new mechanics like Mina can have a hangover, refuse to get into any meaningful conversation with you, and stop working on her task. Abandoned car loot was boosted significantly, first sounds to enemy attacks were added. Check the full changelog from the link below."
-
+    new "El registro de cambios es muy largo. Hay alrededor de 30 errores corregidos, muchos cambios de calidad de vida, algunos sugeridos por la comunidad. Hay algunas otras mecánicas nuevas como que Mina puede tener resaca, negándose a entablar una conversación significativa, y dejar de trabajar en su tarea. El botín del auto abandonado se incrementó significativamente. Se agregaron los primeros sonidos de los ataques enemigos. Consulte el registro de cambios completo en este enlace."

@@ -702,27 +702,26 @@ translate spanish strings:
     # game/variables/replays.rpy:273
     old "About Her Cheongsam"
     new "Sobre Su Cheongsam"
-# TODO: Translation updated at 2022-06-15 06:51
+# : Translation updated at 2022-06-15 06:51
 
 translate spanish strings:
 
     # game/variables/replays.rpy:70
     old "Mina wants booze"
-    new "Mina wants booze"
+    new "Mina quiere bebidas"
 
     # game/variables/replays.rpy:70
     old "Drinking with Mina"
-    new "Drinking with Mina"
+    new "Bebiendo con Mina"
 
     # game/variables/replays.rpy:98
     old "Why does she have a password?"
-    new "Why does she have a password?"
+    new "¿Por qué tiene una contraseña?"
 
     # game/variables/replays.rpy:98
-    old "The first succesful date"
-    new "The first succesful date"
+    old "The first successful date"
+    new "La primera cita exitosa"
 
     # game/variables/replays.rpy:98
     old "Kitchen Date"
-    new "Kitchen Date"
-
+    new "Cita en la Cocina"
