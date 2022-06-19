@@ -269,5 +269,4 @@ translate vietnamese strings:
 
     # game/variables/lists/sexpos.rpy:3
     old "Cunnilingus - Against the Counter"
-    new "Cunnilingus - Against the Counter"
-
+    new "Cunnilingus - dựa vào quầy"

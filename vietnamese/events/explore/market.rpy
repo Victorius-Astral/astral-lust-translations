@@ -237,5 +237,4 @@ translate vietnamese strings:
 translate vietnamese exp_market_menu_c1884038:
 
     # th "Gotta get something special for [lexi]."
-    th "Gotta get something special for [lexi]."
-
+    th "Phải lấy cái gì đó đặc biệt cho [lexi]."

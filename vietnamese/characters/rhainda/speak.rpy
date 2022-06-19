@@ -536,5 +536,4 @@ translate vietnamese strings:
 
     # game/characters/rhainda/speak.rpy:66
     old "I wanted to ask about your dress, the Cheongsam {gold}(Story){/gold}"
-    new "I wanted to ask about your dress, the Cheongsam {gold}(Story){/gold}"
-
+    new "Anh muốn hỏi về cái váy của em, chiếc Cheongsam {gold}(Cốt Truyện){/gold}"

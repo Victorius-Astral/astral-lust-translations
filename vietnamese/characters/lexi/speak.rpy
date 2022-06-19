@@ -535,7 +535,7 @@ translate vietnamese strings:
 translate vietnamese speak_lexi_bb88c56e:
 
     # lexi "I've been waiting for you."
-    lexi "I've been waiting for you."
+    lexi "Em đang đợi anh đây."
 
 # game/characters/lexi/speak.rpy:19
 translate vietnamese speak_lexi_63280a2d:
@@ -547,37 +547,37 @@ translate vietnamese speak_lexi_63280a2d:
 translate vietnamese speak_lexi_a109e395:
 
     # lexi "A date. I waited two hours for you."
-    lexi "A date. I waited two hours for you."
+    lexi "Một buổi hẹn. Em đã chờ anh được hai tiếng đồng hồ rồi."
 
 # game/characters/lexi/speak.rpy:21
 translate vietnamese speak_lexi_57c0c21b:
 
     # me "Oh shit. I'm so sorry."
-    me "Oh shit. I'm so sorry."
+    me "Oh shit. Anh anh rất xin lỗi."
 
 # game/characters/lexi/speak.rpy:26
 translate vietnamese speak_lexi_fcd2989b:
 
     # lexi "You better be."
-    lexi "You better be."
+    lexi "Tốt hơn là vậy."
 
 # game/characters/lexi/speak.rpy:27
 translate vietnamese speak_lexi_a4995f83:
 
     # me "It's my fault, but.. Why didn't you come looking for me?"
-    me "It's my fault, but.. Why didn't you come looking for me?"
+    me "Đó là lỗi của anh, nhưng.. Tại sao em không đến tìm anh?"
 
 # game/characters/lexi/speak.rpy:28
 translate vietnamese speak_lexi_0c22c31a:
 
     # lexi "Because by the time I realized you won't be coming I didn't want to spend time with you anymore."
-    lexi "Because by the time I realized you won't be coming I didn't want to spend time with you anymore."
+    lexi "Bởi vì đến lúc em nhận ra anh sẽ không đến, em không muốn dành thời gian cho anh nữa."
 
 # game/characters/lexi/speak.rpy:29
 translate vietnamese speak_lexi_481f98c2:
 
     # me "I'll make it up to you."
-    me "I'll make it up to you."
+    me "Anh sẽ làm cho nó cho em."
 
 # game/characters/lexi/speak.rpy:30
 translate vietnamese speak_lexi_d7760fc7:
@@ -595,13 +595,13 @@ translate vietnamese speak_lexi_c2c88f21:
 translate vietnamese speak_lexi_44bc7ad5:
 
     # me "Hey? Is everything alright?"
-    me "Hey? Is everything alright?"
+    me "Hey? Mọi thứ vẫn ổn chứ?"
 
 # game/characters/lexi/speak.rpy:40
 translate vietnamese speak_lexi_10ddccbd:
 
     # lexi "How long do you intend to make me wait?"
-    lexi "How long do you intend to make me wait?"
+    lexi "Anh định bắt em đợi bao lâu đây?"
 
 # game/characters/lexi/speak.rpy:41
 translate vietnamese speak_lexi_63280a2d_1:
@@ -613,25 +613,25 @@ translate vietnamese speak_lexi_63280a2d_1:
 translate vietnamese speak_lexi_c6287d6b:
 
     # lexi "I've been waiting for our date, but seems you forgot about it."
-    lexi "I've been waiting for our date, but seems you forgot about it."
+    lexi "Em đã chờ buổi hẹn của chúng ta, nhưng có vẻ như anh đã quên nó rồi."
 
 # game/characters/lexi/speak.rpy:54
 translate vietnamese speak_lexi_84fa9d46:
 
     # lexi "Hey, you know I'm waiting for you to ask me out for a date, right?"
-    lexi "Hey, you know I'm waiting for you to ask me out for a date, right?"
+    lexi "Này, anh biết em đang đợi anh hẹn hò với em, phải không?"
 
 # game/characters/lexi/speak.rpy:55
 translate vietnamese speak_lexi_b9c387e5:
 
     # me "How could I forget?"
-    me "How could I forget?"
+    me "sao mà anh có thể quên được chứ?"
 
 # game/characters/lexi/speak.rpy:56
 translate vietnamese speak_lexi_f0c44d9a:
 
     # me "Give me a little more time, 'key?"
-    me "Give me a little more time, 'key?"
+    me "Cho anh thêm một chút thời gian đi. được chứ?"
 
 # game/characters/lexi/speak.rpy:57
 translate vietnamese speak_lexi_1836de33:
@@ -649,19 +649,19 @@ translate vietnamese speak_lexi_dates_57a337e1:
 translate vietnamese speak_lexi_dates_36dee59d:
 
     # lexi "You get the ice creams for a dessert. Two will be enough."
-    lexi "You get the ice creams for a dessert. Two will be enough."
+    lexi "Anh đi lấy kem cho một món tráng miệng. Hai cái chắc là đủ đấy."
 
 # game/characters/lexi/speak.rpy:337
 translate vietnamese speak_lexi_dates_a1c73fe1:
 
     # me "Got it."
-    me "Got it."
+    me "Rõ rồi."
 
 # game/characters/lexi/speak.rpy:338
 translate vietnamese speak_lexi_dates_8382482a:
 
     # lexi "I'll get a bottle of wine and some candles. Then we'll meet in the evening."
-    lexi "I'll get a bottle of wine and some candles. Then we'll meet in the evening."
+    lexi "Em sẽ lấy một chai rượu và vài cây nến. Sau đó chúng ta sẽ gặp nhau vào buổi tối."
 
 # game/characters/lexi/speak.rpy:339
 translate vietnamese speak_lexi_dates_addd570a:
@@ -673,87 +673,86 @@ translate vietnamese speak_lexi_dates_addd570a:
 translate vietnamese speak_lexi_dates_66d77374:
 
     # lexi "It's a pity, I waited for it, but I understand."
-    lexi "It's a pity, I waited for it, but I understand."
+    lexi "Thật tiếc, em đã đợi nó, nhưng em hiểu."
 
 # game/characters/lexi/speak.rpy:349
 translate vietnamese speak_lexi_dates_a0a697c9:
 
     # me "Thank you."
-    me "Thank you."
+    me "Cảm ơn."
 
 # game/characters/lexi/speak.rpy:350
 translate vietnamese speak_lexi_dates_c752512a:
 
     # lexi "Sure, don't forget about it."
-    lexi "Sure, don't forget about it."
+    lexi "Chắc chắn rồi, đừng quên đấy."
 
 # game/characters/lexi/speak.rpy:372
 translate vietnamese speak_lexi_dates_17cc1499:
 
     # lexi "Alright.."
-    lexi "Alright.."
+    lexi "Được thôi..."
 
 # game/characters/lexi/speak.rpy:373
 translate vietnamese speak_lexi_dates_49584483:
 
     # me "I'm sorry."
-    me "I'm sorry."
+    me "Anh xin lỗi."
 
 # game/characters/lexi/speak.rpy:379
 translate vietnamese speak_lexi_dates_a69cf6fc:
 
     # lexi "Now that we have everything set and ready?"
-    lexi "Now that we have everything set and ready?"
+    lexi "Bây giờ thì tất cả mọi thứ, anh đã sẵn sàng chưa?"
 
 # game/characters/lexi/speak.rpy:380
 translate vietnamese speak_lexi_dates_b847dfb7:
 
     # me "Sorry."
-    me "Sorry."
+    me "Xin lỗi."
 
 # game/characters/lexi/speak.rpy:384
 translate vietnamese speak_lexi_dates_a30932ee:
 
     # lexi "Whatever."
-    lexi "Whatever."
+    lexi "Sao cũng được."
 
 # game/characters/lexi/speak.rpy:389
 translate vietnamese speak_lexi_dates_49b97efe:
 
     # lexi "Sure. No problem."
-    lexi "Sure. No problem."
+    lexi "Được rồi. Không vấn đề gì hết."
 
 translate vietnamese strings:
 
     # game/characters/lexi/speak.rpy:66
     old "Mina asked me to get her booze"
-    new "Mina asked me to get her booze"
+    new "Mina yêu cầu tôi lấy rượu cho cô ấy"
 
     # game/characters/lexi/speak.rpy:66
     old "I'm ready for our date"
-    new "I'm ready for our date"
+    new "Tôi đã sẵn sàng cho cuộc hẹn hò này"
 
     # game/characters/lexi/speak.rpy:66
     old "Date >"
-    new "Date >"
+    new "Buỗi hẹn >"
 
     # game/characters/lexi/speak.rpy:325
     old "Ask for a date > {#visible}"
-    new "Ask for a date > {#visible}"
+    new "Yêu cầu một buổi hẹn > {#visible}"
 
     # game/characters/lexi/speak.rpy:325
     old "Postpone date for a day"
-    new "Postpone date for a day"
+    new "Hoãn lại một ngày"
 
     # game/characters/lexi/speak.rpy:325
     old "Cancel date"
-    new "Cancel date"
+    new "Hủy buổi hẹn"
 
     # game/characters/lexi/speak.rpy:329
     old "Kitchen date"
-    new "Kitchen date"
+    new "Buổi hẹn hò trong bếp"
 
     # game/characters/lexi/speak.rpy:359
     old "Are you sure? You might lose your current preparations."
-    new "Are you sure? You might lose your current preparations."
-
+    new "Bạn có chắc không? Bạn có thể mất sự chuẩn bị hiện tại của mình."

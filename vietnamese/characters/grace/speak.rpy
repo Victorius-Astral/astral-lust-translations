@@ -1209,9 +1209,8 @@ translate vietnamese strings:
 
     # game/characters/grace/speak.rpy:27
     old "Tell her about the date"
-    new "Tell her about the date"
+    new "Kể cho em ấy vè buổi hẹn"
 
     # game/characters/grace/speak.rpy:27
     old "I need you to cook a dinner for me and Lexi"
-    new "I need you to cook a dinner for me and Lexi"
-
+    new "Anh cần em nấu một bữa tối cho anh và Lexi"

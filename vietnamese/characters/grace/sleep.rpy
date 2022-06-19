@@ -1551,7 +1551,7 @@ translate vietnamese strings:
 
     # game/characters/grace/sleep.rpy:510
     old "Ask her to change [[{cha}Charisma{/cha}] {#visible}"
-    new "Ask her to change [[{cha}Charisma{/cha}] {#visible}"
+    new "Yêu cầu em ấy thay đồ [[{cha}Sức Thu Hút{/cha}] {#visible}"
 
 # TODO: Translation updated at 2022-05-11 01:55
 
@@ -1559,31 +1559,31 @@ translate vietnamese strings:
 translate vietnamese sleep_grace_feet_wakeup_success_dfd3e757:
 
     # me "Could you show me your titties?"
-    me "Could you show me your titties?"
+    me "Em có thể show vếu cho anh được không?"
 
 # game/characters/grace/sleep.rpy:510
 translate vietnamese sleep_grace_feet_wakeup_success_006dd55f:
 
     # grace "Why?"
-    grace "Why?"
+    grace "Tại sao?"
 
 # game/characters/grace/sleep.rpy:511
 translate vietnamese sleep_grace_feet_wakeup_success_d262f08f:
 
     # me "They're really pretty and I like seeing them."
-    me "They're really pretty and I like seeing them."
+    me "Chúng rất đẹp và anh muốn nhìn thấy chúng."
 
 # game/characters/grace/sleep.rpy:517
 translate vietnamese sleep_grace_feet_wakeup_success_937b40ef:
 
     # th "Wow, you're really simple to please."
-    th "Wow, you're really simple to please."
+    th "Wow, em rất dễ để làm hài lòng đấy."
 
 # game/characters/grace/sleep.rpy:536
 translate vietnamese sleep_grace_feet_wakeup_success_644ab18b:
 
     # me "Just take of your pajamas, and put on the over knee socks. It's not a lot of work. I'm sure you can do it for me."
-    me "Just take of your pajamas, and put on the over knee socks. It's not a lot of work. I'm sure you can do it for me."
+    me "Cứ cởi đồ ngủ của em ra đi, và mặc thêm cái tất dài vào. Đấy không phải việc quá khó khăn. Anh chắc là em sẽ có thể làm cho anh được mà."
 
 # game/characters/grace/sleep.rpy:555
 translate vietnamese sleep_grace_feet_wakeup_success_ef8296eb:
@@ -1601,18 +1601,17 @@ translate vietnamese sleep_grace_feet_wakeup_success_baf8f4db_1:
 translate vietnamese sleep_grace_feet_wakeup_success_bf93d14b:
 
     # th "Haha, what a cutie."
-    th "Haha, what a cutie."
+    th "Haha, thật là dễ thương."
 
 # game/characters/grace/sleep.rpy:650
 translate vietnamese sleep_grace_feet_wakeup_success2_1547105b:
 
     # me "I wiped it already, though."
-    me "I wiped it already, though."
+    me "Tuy nhiên mình lại lau hết đi rồi."
 # TODO: Translation updated at 2022-06-10 08:06
 
 translate vietnamese strings:
 
     # game/characters/grace/sleep.rpy:32
     old "Turn to her feet {#visible}"
-    new "Turn to her feet {#visible}"
-
+    new "Quay sang chân em ấy {#visible}"

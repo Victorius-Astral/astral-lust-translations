@@ -4996,5 +4996,4 @@ translate vietnamese prologue_end_60f846bf:
 translate vietnamese prologue_lexi1_618b6156:
 
     # lexi "They were overrun by monsters. Most monsters, army was able to deal with, but some of them.."
-    lexi "They were overrun by monsters. Most monsters, army was able to deal with, but some of them.."
-
+    lexi "Họ đã bị lũ quái vật bao vây. Hầu hết quái vật, quân đội có thể đối phó chúng, nhưng một số.."

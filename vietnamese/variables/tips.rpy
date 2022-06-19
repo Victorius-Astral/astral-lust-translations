@@ -357,25 +357,24 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "They say that when falling asleep the mind thinks it's dying. What happens when you 'resurrect'?"
-    new "They say that when falling asleep the mind thinks it's dying. What happens when you 'resurrect'?"
+    new "Họ nói rằng khi chìm vào giấc ngủ, tâm trí nghĩ rằng nó đang chết. Điều gì sẽ xảy ra khi bạn 'sống lại'?"
 
     # game/variables/tips.rpy:4
     old "Maybe I should take a day off to chill out in my room from time to time."
-    new "Maybe I should take a day off to chill out in my room from time to time."
+    new "Có lẽ thỉnh thoảng tôi nên nghỉ một ngày để thư giãn trong phòng."
 
     # game/variables/tips.rpy:4
     old "I have a feeling something big is gonna happen soon. (need Alice and Little Fox waiting for progress with other girls)"
-    new "I have a feeling something big is gonna happen soon. (need Alice and Little Fox waiting for progress with other girls)"
+    new "Tôi có cảm giác một điều gì đó lớn lao sẽ sớm xảy ra. (Cần Alice và Cáo nhỏ chờ đợi tiến trình cùng các cô gái khác)"
 
     # game/variables/tips.rpy:4
     old "I should progress with other girls."
-    new "I should progress with other girls."
+    new "Mình nên tiến thêm với những cô gái khác."
 
     # game/variables/tips.rpy:4
     old "Old habits die hard, she's still sometimes chilling out in the lobby. She must interact with other girls there often."
-    new "Old habits die hard, she's still sometimes chilling out in the lobby. She must interact with other girls there often."
+    new "Những thói quen cũ khó bỏ, cô ấy vẫn thỉnh thoảng ngồi thư giãn ở hành lang. Cô ấy phải thường xuyên tiếp xúc với những cô gái khác ở đó."
 
     # game/variables/tips.rpy:4
     old "We should chit chat sometimes."
-    new "We should chit chat sometimes."
-
+    new "Chúng ta nên tám chuyện nhiều hơn."

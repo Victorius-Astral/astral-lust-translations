@@ -586,29 +586,28 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:130
     old "Dreaming of Her Dad"
-    new "Dreaming of Her Dad"
+    new "Giấc mơ về bố cô ấy"
 
     # game/variables/replays.rpy:130
     old "[me] the Psychologist"
-    new "[me] the Psychologist"
+    new " nhà tâm lý học [me]"
 
     # game/variables/replays.rpy:130
     old "Dildo for [grace]"
-    new "Dildo for [grace]"
+    new "Cu giả cho [grace]"
 
     # game/variables/replays.rpy:130
     old "Nasty Revenge"
-    new "Nasty Revenge"
+    new "Sự trả thù tục tĩu"
 
     # game/variables/replays.rpy:252
     old "A Way to Chill Out"
-    new "A Way to Chill Out"
+    new "Một cách để thư giãn"
 
     # game/variables/replays.rpy:273
     old "The Blind Blacksmith part 1"
-    new "The Blind Blacksmith part 1"
+    new "Thợ rèn mù Phần 1"
 
     # game/variables/replays.rpy:273
     old "About Her Cheongsam"
-    new "About Her Cheongsam"
-
+    new "Chiếc váy Cheongsam"

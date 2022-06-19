@@ -63,11 +63,11 @@ translate vietnamese strings:
 
     # game/variables/lists/items.rpy:80
     old "Premium Ice Creams"
-    new "Premium Ice Creams"
+    new "Kem cao cấp"
 
     # game/variables/lists/items.rpy:80
     old "A limited edition of Lexi's favorite ice cream."
-    new "A limited edition of Lexi's favorite ice cream."
+    new "Món kem yêu thích của Lexi phiên bản giới hạn."
 
     # game/variables/lists/items.rpy:81
     old "Vodka"
@@ -75,21 +75,20 @@ translate vietnamese strings:
 
     # game/variables/lists/items.rpy:81
     old "Tastes horrible, although it doesn't stop people all over the world to enjoy drinking it."
-    new "Tastes horrible, although it doesn't stop people all over the world to enjoy drinking it."
+    new "Mùi vị kinh khủng, tuy nhiên cũng không đủ để ngăn cản mọi người trên khắp thế giới thích uống nó."
 
     # game/variables/lists/items.rpy:82
     old "Wine"
-    new "Wine"
+    new "Rượu"
 
     # game/variables/lists/items.rpy:82
     old "A bottle of cheap wine."
-    new "A bottle of cheap wine."
+    new "Một chai rượu giá rẻ."
 
     # game/variables/lists/items.rpy:83
     old "Old Wine"
-    new "Old Wine"
+    new "Rượu cổ"
 
     # game/variables/lists/items.rpy:83
     old "The finest of wines made in 20th century."
-    new "The finest of wines made in 20th century."
-
+    new "Loại rượu hảo hạng nhất thế kỷ 20."

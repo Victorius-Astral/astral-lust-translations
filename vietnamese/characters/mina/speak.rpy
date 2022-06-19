@@ -690,7 +690,7 @@ translate vietnamese speak_mina_50f4a088:
 translate vietnamese speak_mina_7259a272:
 
     # mina "Not so loud, man."
-    mina "Not so loud, man."
+    mina "Đừng nói to vậy chứ."
 
 # game/characters/mina/speak.rpy:21
 translate vietnamese speak_mina_88eab5f5:
@@ -702,79 +702,79 @@ translate vietnamese speak_mina_88eab5f5:
 translate vietnamese speak_mina_e6145faa:
 
     # mina "Gosh. My head."
-    mina "Gosh. My head."
+    mina "Chúa ơi. Đầu của em."
 
 # game/characters/mina/speak.rpy:23
 translate vietnamese speak_mina_db5efdd8:
 
     # me "That's what you get from getting wasted."
-    me "That's what you get from getting wasted."
+    me "Làm được thì phải chịu đợc chứ."
 
 # game/characters/mina/speak.rpy:24
 translate vietnamese speak_mina_8565c527:
 
     # mina "Never again. Never."
-    mina "Never again. Never."
+    mina "KHông bao giờ có lần nữa."
 
 # game/characters/mina/speak.rpy:67
 translate vietnamese speak_mina_menu1_34e162cd:
 
     # mina "Can you do something with this hangover?"
-    mina "Can you do something with this hangover?"
+    mina "Anh có thể làm gì đó với cảm giác nôn nao này không?"
 
 # game/characters/mina/speak.rpy:68
 translate vietnamese speak_mina_menu1_69908963:
 
     # me "I don't think so. It'll pass on its own."
-    me "I don't think so. It'll pass on its own."
+    me "Anh không nghĩ vậy. Nó sẽ tự hết thôi."
 
 # game/characters/mina/speak.rpy:69
 translate vietnamese speak_mina_menu1_8ad0388e:
 
     # mina "Then no. I don't need help. But thanks for asking."
-    mina "Then no. I don't need help. But thanks for asking."
+    mina "Vậy thì không. Em không cần giúp đỡ. Nhưng cảm ơn vì đã hỏi."
 
 # game/characters/mina/speak.rpy:115
 translate vietnamese speak_mina_menu1_f355064a:
 
     # mina "I don't want to do even this today."
-    mina "I don't want to do even this today."
+    mina "Em không muốn làm điều này ngay cả hôm nay."
 
 # game/characters/mina/speak.rpy:116
 translate vietnamese speak_mina_menu1_6e88d374:
 
     # me "It would help you relax."
-    me "It would help you relax."
+    me "Nó sẽ giúp em thư giãn."
 
 # game/characters/mina/speak.rpy:117
 translate vietnamese speak_mina_menu1_64f9d952:
 
     # mina "I just want to die today. Nothing more."
-    mina "I just want to die today. Nothing more."
+    mina "Hôm nay em chỉ muốn chết thôi. Không còn gì khác nữa."
 
 # game/characters/mina/speak.rpy:118
 translate vietnamese speak_mina_menu1_c94f0888:
 
     # me "Hit me if you change your mind."
-    me "Hit me if you change your mind."
+    me "Hãy đánh anh khi em đổi ý."
 
 # game/characters/mina/speak.rpy:119
 translate vietnamese speak_mina_menu1_343b9f4a_1:
 
     # mina "Got it."
-    mina "Got it."
+    mina "Rõ rồi."
 
 # game/characters/mina/speak.rpy:131
 translate vietnamese speak_mina_menu1_9b8153a9:
 
     # mina "Don't even think about putting anything into my mouth."
-    mina "Don't even think about putting anything into my mouth."
+    mina "Đừng có nghĩ đến việc đút cái gì đó vào miệng em đấy."
 
 # game/characters/mina/speak.rpy:132
 translate vietnamese speak_mina_menu1_70545e96:
 
     # mina "I could vomit because of it."
-    mina "I could vomit because of it."
+    mina "Em có thể nôn đấy."
 
 # game/characters/mina/speak.rpy:133
 translate vietnamese speak_mina_menu1_aa50548a:
@@ -792,81 +792,80 @@ translate vietnamese speak_mina_menu1_28638f70:
 translate vietnamese speak_mina_menu1_d0a8deab:
 
     # me "Maybe tomorrow."
-    me "Maybe tomorrow."
+    me "Chắc là mai đi."
 
 # game/characters/mina/speak.rpy:136
 translate vietnamese speak_mina_menu1_82507835:
 
     # mina "Good idea."
-    mina "Good idea."
+    mina "Ý hay đấy."
 
 # game/characters/mina/speak.rpy:148
 translate vietnamese speak_mina_menu1_c3786cca:
 
     # mina "Oh, no. Not today, bro."
-    mina "Oh, no. Not today, bro."
+    mina "Oh, no. không phải hôm nay đâu, bro."
 
 # game/characters/mina/speak.rpy:149
 translate vietnamese speak_mina_menu1_43813a72:
 
     # mina "I can barely stand."
-    mina "I can barely stand."
+    mina "Em gần như không thể đứng được."
 
 # game/characters/mina/speak.rpy:150
 translate vietnamese speak_mina_menu1_16af8e7e:
 
     # me "Get better soon."
-    me "Get better soon."
+    me "Sớm khỏe lại nha."
 
 # game/characters/mina/speak.rpy:151
 translate vietnamese speak_mina_menu1_d1de1783:
 
     # mina "Thankies."
-    mina "Thankies."
+    mina "Mơn."
 
 # game/characters/mina/speak.rpy:183
 translate vietnamese speak_mina_menu1_17047931:
 
     # mina "Mam, let me rest."
-    mina "Mam, let me rest."
+    mina "Để em nghỉ đi."
 
 # game/characters/mina/speak.rpy:184
 translate vietnamese speak_mina_menu1_a4c5cb54:
 
     # mina "Day off. I'm taking a day off. 'Kay?"
-    mina "Day off. I'm taking a day off. 'Kay?"
+    mina "Ngày nghỉ. Đây là ngày nghỉ của em, đợc chứ?"
 
 # game/characters/mina/speak.rpy:185
 translate vietnamese speak_mina_menu1_c76d319b:
 
     # me "'Key."
-    me "'Key."
+    me "Ok."
 
 # game/characters/mina/speak.rpy:186
 translate vietnamese speak_mina_menu1_499e08eb:
 
     # mina "Sweet."
-    mina "Sweet."
+    mina "Tuyệt."
 
 # game/characters/mina/speak.rpy:198
 translate vietnamese speak_mina_menu1_37318634:
 
     # mina "Not today, bro."
-    mina "Not today, bro."
+    mina "Không phải hôm nay, bro."
 
 # game/characters/mina/speak.rpy:199
 translate vietnamese speak_mina_menu1_043b6a09:
 
     # mina "I'm too tired."
-    mina "I'm too tired."
+    mina "Em mệt quá."
 
 translate vietnamese strings:
 
     # game/characters/mina/speak.rpy:43
     old "I have the booze {gold}(Story){/gold}"
-    new "I have the booze {gold}(Story){/gold}"
+    new "Anh có rượu đây {gold}(Cốt Truyện){/gold}"
 
     # game/characters/mina/speak.rpy:43
     old "I'll get you the vodka you wanted {gold}(Story){/gold}"
-    new "I'll get you the vodka you wanted {gold}(Story){/gold}"
-
+    new "Anh sẽ đưa cho em chai rượu mà em muốn {gold}(Cốt Truyện){/gold}"

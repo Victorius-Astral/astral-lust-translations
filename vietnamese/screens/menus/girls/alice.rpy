@@ -110,9 +110,8 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/alice.rpy:45
     old "• Dildo: "
-    new "• Dildo: "
+    new "• Đồ chơi: "
 
     # game/screens/menus/girls/alice.rpy:46
     old "• Rubbing: "
-    new "• Rubbing: "
-
+    new "• Cọ xát: "
