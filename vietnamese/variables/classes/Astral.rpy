@@ -62,5 +62,4 @@ translate vietnamese strings:
 
     # game/variables/classes/Astral.rpy:465
     old "Lost items:"
-    new "Lost items:"
-
+    new "Vật phẩm thất lạc:"
