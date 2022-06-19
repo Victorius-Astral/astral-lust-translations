@@ -336,8 +336,8 @@ translate spanish strings:
     new "¡Cada una de las hermanas tiene dos nuevos eventos de historia! Lexi también consiguió un evento súper grande: Cita en la cocina, un evento para el que debes prepararte. Con una gran cantidad de contenido interesante para desbloquear a medida que obtienes una puntuación más alta. Es el evento más largo hasta la fecha. , y el primero del nuevo sistema de 'citas'. ¡Diviértete!"
 
     # game/screens/utility/what_new.rpy:203
-    new "{b}Fox girls' events{/b}"
-    old "{b}Eventos de las Chicas Zorro{/b}"
+    old "{b}Fox girls' events{/b}"
+    new "{b}Eventos de las Chicas Zorro{/b}"
 
     # game/screens/utility/what_new.rpy:204
     old "As mentioned above Little Fox has an event merged with Alice & Gracie, Rachel also got an event (finally some action with her :P), Rhainda got two story events!"
