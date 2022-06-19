@@ -562,3 +562,55 @@ translate chinese strings:
     old "Secret"
     new "Secret"
 
+# TODO: Translation updated at 2022-06-15 06:53
+
+translate chinese strings:
+
+    # game/variables/replays.rpy:70
+    old "Mina wants booze"
+    new "Mina wants booze"
+
+    # game/variables/replays.rpy:70
+    old "Drinking with Mina"
+    new "Drinking with Mina"
+
+    # game/variables/replays.rpy:98
+    old "Why does she have a password?"
+    new "Why does she have a password?"
+
+    # game/variables/replays.rpy:98
+    old "The first succesful date"
+    new "The first succesful date"
+
+    # game/variables/replays.rpy:98
+    old "Kitchen Date"
+    new "Kitchen Date"
+
+    # game/variables/replays.rpy:142
+    old "Dreaming of Her Dad"
+    new "Dreaming of Her Dad"
+
+    # game/variables/replays.rpy:142
+    old "[me] the Psychologist"
+    new "[me] the Psychologist"
+
+    # game/variables/replays.rpy:142
+    old "Dildo for [grace]"
+    new "Dildo for [grace]"
+
+    # game/variables/replays.rpy:142
+    old "Nasty Revenge"
+    new "Nasty Revenge"
+
+    # game/variables/replays.rpy:264
+    old "A Way to Chill Out"
+    new "A Way to Chill Out"
+
+    # game/variables/replays.rpy:285
+    old "The Blind Blacksmith part 1"
+    new "The Blind Blacksmith part 1"
+
+    # game/variables/replays.rpy:285
+    old "About Her Cheongsam"
+    new "About Her Cheongsam"
+

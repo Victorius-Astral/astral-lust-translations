@@ -33,3 +33,10 @@ translate spanish strings:
     # game/functions/tasks/Tasks.rpy:165
     old "Completed"
     new "Completado"
+# : Translation updated at 2022-06-15 06:51
+
+translate spanish strings:
+
+    # game/functions/tasks/Tasks.rpy:164
+    old "Blocked"
+    new "Bloqueado"

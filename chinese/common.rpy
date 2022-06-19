@@ -1138,3 +1138,23 @@ translate chinese strings:
     old "Parsing the script failed."
     new "Parsing the script failed."
 
+# TODO: Translation updated at 2022-06-15 06:53
+
+translate chinese strings:
+
+    # renpy/common/00action_other.rpy:662
+    old "Open [text] directory."
+    new "Open [text] directory."
+
+    # renpy/common/00preferences.rpy:511
+    old "audio when minimized"
+    new "audio when minimized"
+
+    # renpy/common/00preferences.rpy:531
+    old "main volume"
+    new "main volume"
+
+    # renpy/common/00preferences.rpy:535
+    old "mute main"
+    new "mute main"
+

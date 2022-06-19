@@ -34,3 +34,11 @@ translate chinese strings:
     old "Completed"
     new "Completed"
 
+# TODO: Translation updated at 2022-06-15 06:53
+
+translate chinese strings:
+
+    # game/functions/tasks/Tasks.rpy:164
+    old "Blocked"
+    new "Blocked"
+

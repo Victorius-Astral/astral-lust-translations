@@ -77,3 +77,58 @@ translate spanish strings:
     # game/screens/gui/credits.rpy:92
     old "\nCommunity Manager:"
     new "\nAdministrador de la comunidad:"
+# : Translation updated at 2022-06-15 06:51
+
+translate spanish strings:
+
+    # game/screens/gui/credits.rpy:49
+    old "Version [config.version!t]"
+    new "Versión [config.version!t]"
+
+    # game/screens/gui/credits.rpy:49
+    old "Supporters:"
+    new "Apoyo:"
+
+    # game/screens/gui/credits.rpy:49
+    old "Lead Designer"
+    new "Diseñador Líder"
+
+    # game/screens/gui/credits.rpy:49
+    old "Lead Programmer"
+    new "Programador Líder"
+
+    # game/screens/gui/credits.rpy:49
+    old "Lead Writer"
+    new "Escritor Líder"
+
+    # game/screens/gui/credits.rpy:49
+    old "Writer"
+    new "Escritor"
+
+    # game/screens/gui/credits.rpy:49
+    old "Text Editor:"
+    new "Editor de Texto:"
+
+    # game/screens/gui/credits.rpy:49
+    old "Translation"
+    new "Traducción"
+
+    # game/screens/gui/credits.rpy:49
+    old "Icons"
+    new "Íconos"
+
+    # game/screens/gui/credits.rpy:49
+    old "Art"
+    new "Arte"
+
+    # game/screens/gui/credits.rpy:49
+    old "Creepypasta"
+    new "Creepypasta"
+
+    # game/screens/gui/credits.rpy:49
+    old "Contributed Code"
+    new "Código Contribuido"
+
+    # game/screens/gui/credits.rpy:49
+    old "Models made in {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} by {a=http://www.illusion.jp}Illusion{/a}"
+    new "Modelos hechos en {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} de {a=http://www.illusion.jp}Illusion{/a}"

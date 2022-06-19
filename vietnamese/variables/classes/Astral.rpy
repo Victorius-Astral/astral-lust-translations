@@ -56,3 +56,11 @@ translate vietnamese strings:
     # game/variables/classes/Astral.rpy:316
     old "This is the end of {who} story in {ver}. The game remains in the active development, though! If you want to check or get new releases, or you just want to support Astral Lust check our {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreon{{/a}}{{/patreon1}}! Have fun :)"
     new "Đây là kết thúc cốt truyện của {who} ở bản {ver}. Tuy nhiên, trò chơi vẫn đang trong quá trình phát triển tích cực! Nếu bạn muốn kiểm tra hoặc tải các bản phát hành mới, hoặc bạn chỉ muốn hỗ trợ Astral Lust, hãy kiểm tra {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreon{{/a}}{{/patreon1}}! Vui vẻ nha :)"
+# TODO: Translation updated at 2022-06-15 06:52
+
+translate vietnamese strings:
+
+    # game/variables/classes/Astral.rpy:465
+    old "Lost items:"
+    new "Lost items:"
+
