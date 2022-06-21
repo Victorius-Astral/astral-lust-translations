@@ -324,49 +324,48 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:174
     old "{b}A lot of new Grace content{/b}"
-    new "{b}A lot of new Grace content{/b}"
+    new "{b}Thêm rất nhiều nội dung Grace{/b}"
 
     # game/screens/utility/what_new.rpy:175
     old "Gracie got three new story events, new 'anger & apology' mechanic, new sleeping content (including two footjobs), secret event, and more. The last of her new story events is merged with Alice's and Little Fox's events. Oh, it's a funny event ;)"
-    new "Gracie got three new story events, new 'anger & apology' mechanic, new sleeping content (including two footjobs), secret event, and more. The last of her new story events is merged with Alice's and Little Fox's events. Oh, it's a funny event ;)"
+    new "Gracie có ba sự kiện cốt chuyện mới, thợ máy 'giận dữ & lời xin lỗi', nội dung mới về giấc ngủ (bao gồm hai cảnh footjobs), sự kiện bí mật và hơn thế nữa. Sự kiện cuối cùng trong câu chuyện mới của cô ấy được hợp nhất với sự kiện của Alice và Tiểu Cáo. Ồ, đó là một sự kiện vui nhộn ;)"
 
     # game/screens/utility/what_new.rpy:191
     old "{b}New Lexi & Mina events{/b}"
-    new "{b}New Lexi & Mina events{/b}"
+    new "{b}Sự kiện mới của Lexi & Mina{/b}"
 
     # game/screens/utility/what_new.rpy:192
     old "Sisters got two new story events each! Lexi additionally got a super big event - Kitchen Date, an event you need to make preparations for. With a lot of hot content to unlock as you get higher score. It's the longest event to date, and the first of the new 'date' system. Have fun!"
-    new "Sisters got two new story events each! Lexi additionally got a super big event - Kitchen Date, an event you need to make preparations for. With a lot of hot content to unlock as you get higher score. It's the longest event to date, and the first of the new 'date' system. Have fun!"
+    new "Hai chị em này đã có hai sự kiện cốt chuyện mới mỗi người! Lexi cũng có một sự kiện siêu lớn - Buổi hẹn hò trong nhà bếp, một sự kiện mà bạn cần chuẩn bị. Với nhiều nội dung hấp dẫn để mở khóa khi bạn đạt được điểm số cao hơn. Đây là sự kiện dài nhất cho đến nay và là sự kiện đầu tiên của hệ thống 'hẹn hò' mới. Chúc vui vẻ!"
 
     # game/screens/utility/what_new.rpy:203
     old "{b}Fox girls' events{/b}"
-    new "{b}Fox girls' events{/b}"
+    new "{b}Những cô gái hồ ly{/b}"
 
     # game/screens/utility/what_new.rpy:204
     old "As mentioned above Little Fox has an event merged with Alice & Gracie, Rachel also got an event (finally some action with her :P), Rhainda got two story events!"
-    new "As mentioned above Little Fox has an event merged with Alice & Gracie, Rachel also got an event (finally some action with her :P), Rhainda got two story events!"
+    new "Như đã nói ở trên Tiểu Cáo có một sự kiện kết hợp với Alice & Gracie, Rachel cũng có một sự kiện (cuối cùng là một số hành động với cô ấy: P), Rhainda có hai sự kiện câu chuyện!"
 
     # game/screens/utility/what_new.rpy:215
     old "{b}New items{/b}"
-    new "{b}New items{/b}"
+    new "{b}Vật phẩm mới{/b}"
 
     # game/screens/utility/what_new.rpy:216
     old "Four of them can be used during the new events, there are two consumables (and a new buff), and puches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
-    new "Four of them can be used during the new events, there are two consumables (and a new buff), and puches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
+    new "Bốn trong số chúng có thể được sử dụng trong các sự kiện mới, có hai vật phẩm tiêu hao (và một buff mới), cùng những chiếc rương + rương có chìa khóa dùng để mở chúng. Bạn sẽ trở nên giàu có chỉ sau một đêm? Hãy đi kiếm hoặc mua chúng để thử vận may của bạn! Hãy thử code {b}{i}NewPouches{/i}{/b} để nhận một vài túi phần thưởng :)"
 
     # game/screens/utility/what_new.rpy:246
     old "{b}Redone prologue{/b}"
-    new "{b}Redone prologue{/b}"
+    new "{b}Làm lại đoạn mở đầu{/b}"
 
     # game/screens/utility/what_new.rpy:247
     old "The prologue was made from scratch to be much bigger, more informative, and intriguing. Check replays or start a new game to see it. You might meet someone unexpected there."
-    new "The prologue was made from scratch to be much bigger, more informative, and intriguing. Check replays or start a new game to see it. You might meet someone unexpected there."
+    new "Phần mở đầu được làm lại, nhiều thông tin hơn và hấp dẫn hơn. Kiểm tra các bản phát lại hoặc bắt đầu một trò chơi mới để xem nó. Bạn có thể gặp ai đó bất ngờ ở đó không chừng."
 
     # game/screens/utility/what_new.rpy:258
     old "{b}A lot of other changes & additions{/b}"
-    new "{b}A lot of other changes & additions{/b}"
+    new "{b}Rất nhiều thay đổi và bổ sung khác{/b}"
 
     # game/screens/utility/what_new.rpy:259
     old "The changelog is long as hell, there are around 30 bugs fixed, a lot of QoL changes, some suggested by the community. There are some other new mechanics like Mina can have a hangover, refuse to get into any meaningful conversation with you, and stop working on her task. Abandoned car loot was boosted significantly, first sounds to enemy attacks were added. Check the full changelog from the link below."
-    new "The changelog is long as hell, there are around 30 bugs fixed, a lot of QoL changes, some suggested by the community. There are some other new mechanics like Mina can have a hangover, refuse to get into any meaningful conversation with you, and stop working on her task. Abandoned car loot was boosted significantly, first sounds to enemy attacks were added. Check the full changelog from the link below."
-
+    new "Một cái bảng thay đổi dài như địa ngục, có khoảng 30 lỗi đã được sửa, rất nhiều thay đổi về QoL, một số do cộng đồng đề xuất. Có một số cơ chế mới khác như Mina có thể cảm thấy nôn nao, từ chối tham gia vào bất kỳ cuộc trò chuyện có ý nghĩa nào với bạn và ngừng làm nhiệm vụ của mình. Chiến lợi phẩm từ xe hơi bị bỏ hoang đã được tăng cường đáng kể, âm thanh đầu tiên cho các cuộc tấn công của kẻ thù đã được thêm vào. Kiểm tra bảng thay đổi đầy đủ từ liên kết bên dưới."

@@ -39,5 +39,4 @@ translate vietnamese strings:
 
     # game/functions/tasks/Tasks.rpy:164
     old "Blocked"
-    new "Blocked"
-
+    new "Bị chặn"

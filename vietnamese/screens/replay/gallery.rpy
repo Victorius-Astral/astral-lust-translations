@@ -19,5 +19,4 @@ translate vietnamese strings:
 
     # game/screens/replay/gallery.rpy:44
     old "Recover Gallery"
-    new "Recover Gallery"
-
+    new "Khôi phục menu phát lại"

@@ -27,9 +27,8 @@ translate vietnamese strings:
 
     # game/functions/buffs/list.rpy:5
     old "Sugar Frenzy"
-    new "Sugar Frenzy"
+    new "Phê Đường"
 
     # game/functions/buffs/list.rpy:5
     old "Get {amount:+} spirituality each turn."
-    new "Get {amount:+} spirituality each turn."
-
+    new "Nhận {amount:+} năng lượng tâm linh mỗi lượt."

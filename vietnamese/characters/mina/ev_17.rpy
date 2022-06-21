@@ -46,7 +46,7 @@ translate vietnamese mina_17_e766710d:
 translate vietnamese mina_17_47193f0c:
 
     # me "I can't think of anything else you wouldn't want Lexi to know about."
-    me "Anh không thể đoán ra được bất cứ thứ gì khác mà em không muốn Lexi biết cra."
+    me "Anh không thể đoán ra được bất cứ thứ gì khác mà em không muốn Lexi biết ra."
 
 # game/characters/mina/ev_17.rpy:29
 translate vietnamese mina_17_19e6394c:

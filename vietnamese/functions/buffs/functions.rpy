@@ -11,5 +11,4 @@ translate vietnamese strings:
 
     # game/functions/buffs/functions.rpy:23
     old "{{b}}{{u}}{name}{{/u}}{{/b}}\n{{small}}{description} \n\n Used: {trigger} \n Maximum Stack: {max_stack}{{/small}}"
-    new "{{b}}{{u}}{name}{{/u}}{{/b}}\n{{small}}{description} \n\n Used: {trigger} \n Maximum Stack: {max_stack}{{/small}}"
-
+    new "{{b}}{{u}}{name}{{/u}}{{/b}}\n{{small}}{description} \n\n Đã sử dụng: {trigger} \nTối đa: {max_stack}{{/small}}"

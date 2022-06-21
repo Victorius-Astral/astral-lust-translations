@@ -79,5 +79,4 @@ translate vietnamese strings:
 
     # game/screens/settings/video.rpy:56
     old "Main Menu Images"
-    new "Main Menu Images"
-
+    new "Hình ảnh menu chính"
