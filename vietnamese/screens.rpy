@@ -345,7 +345,8 @@ translate vietnamese strings:
     # game/screens.rpy:1522
     old "Menu"
     new "Màn hình chính"
-# TODO: Translation updated at 2022-02-06 08:10
+
+# Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -357,10 +358,13 @@ translate vietnamese strings:
     old "Resume"
     new "Tiếp tục"
 
-# TODO: Translation updated at 2022-02-06 09:10
+# Translation updated at 2022-02-06 09:10
 
 translate vietnamese strings:
 
     # game/screens.rpy:189
     old "CONFIRM"
     new "XÁC NHẬN"
+
+    old "Do you want to restart the game? If you don't do it, some things will not change language."
+    new "Bạn có muốn khởi động lại game không? Nếu bạn không khởi động lại sẽ có vài thứ không được dịch."

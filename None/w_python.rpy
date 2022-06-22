@@ -2,7 +2,7 @@ init -1 python:
     def restoreFonts():
         global fonts
 
-        fonts = Fonts()
+        fonts.__init__()
         victorius.who_args["font"] = fonts.nanum_pen
         victorius.what_args["font"] = fonts.nanum_pen
 

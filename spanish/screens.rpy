@@ -393,3 +393,6 @@ translate spanish strings:
     # game/screens.rpy:189
     old "CONFIRM"
     new "CONFIRMAR"
+
+    old "Do you want to restart the game? If you don't do it, some things will not change language."
+    new "¿Quieres reiniciar el juego? Si no lo haces, algunas cosas no cambiarán de lenguaje."

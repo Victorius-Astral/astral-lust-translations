@@ -283,3 +283,7 @@
     # game/screens.rpy:1294
     old "Menu"
     new "菜单"
+
+# TODO:
+    old "Do you want to restart the game? If you don't do it, some things will not change language."
+    new "Do you want to restart the game? If you don't do it, some things will not change language."

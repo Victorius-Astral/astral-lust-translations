@@ -611,3 +611,27 @@ translate vietnamese strings:
     # game/variables/replays.rpy:273
     old "About Her Cheongsam"
     new "Chiếc váy Cheongsam"
+# TODO: Translation updated at 2022-06-22 09:23
+
+translate vietnamese strings:
+
+    # game/variables/replays.rpy:70
+    old "Mina wants booze"
+    new "Mina wants booze"
+
+    # game/variables/replays.rpy:70
+    old "Drinking with Mina"
+    new "Drinking with Mina"
+
+    # game/variables/replays.rpy:98
+    old "Why does she have a password?"
+    new "Why does she have a password?"
+
+    # game/variables/replays.rpy:98
+    old "The first successful date"
+    new "The first successful date"
+
+    # game/variables/replays.rpy:98
+    old "Kitchen Date"
+    new "Kitchen Date"
+

@@ -369,3 +369,11 @@ translate vietnamese strings:
     # game/screens/utility/what_new.rpy:259
     old "The changelog is long as hell, there are around 30 bugs fixed, a lot of QoL changes, some suggested by the community. There are some other new mechanics like Mina can have a hangover, refuse to get into any meaningful conversation with you, and stop working on her task. Abandoned car loot was boosted significantly, first sounds to enemy attacks were added. Check the full changelog from the link below."
     new "Một cái bảng thay đổi dài như địa ngục, có khoảng 30 lỗi đã được sửa, rất nhiều thay đổi về QoL, một số do cộng đồng đề xuất. Có một số cơ chế mới khác như Mina có thể cảm thấy nôn nao, từ chối tham gia vào bất kỳ cuộc trò chuyện có ý nghĩa nào với bạn và ngừng làm nhiệm vụ của mình. Chiến lợi phẩm từ xe hơi bị bỏ hoang đã được tăng cường đáng kể, âm thanh đầu tiên cho các cuộc tấn công của kẻ thù đã được thêm vào. Kiểm tra bảng thay đổi đầy đủ từ liên kết bên dưới."
+# TODO: Translation updated at 2022-06-22 09:23
+
+translate vietnamese strings:
+
+    # game/screens/utility/what_new.rpy:216
+    old "Four of them can be used during the new events, there are two consumables (and a new buff), and pouches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
+    new "Four of them can be used during the new events, there are two consumables (and a new buff), and pouches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
+

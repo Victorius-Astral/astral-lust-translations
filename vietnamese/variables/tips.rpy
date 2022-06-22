@@ -378,3 +378,23 @@ translate vietnamese strings:
     # game/variables/tips.rpy:4
     old "We should chit chat sometimes."
     new "Chúng ta nên tám chuyện nhiều hơn."
+# TODO: Translation updated at 2022-06-22 09:23
+
+translate vietnamese strings:
+
+    # game/variables/tips.rpy:4
+    old "I'm really curious about her laptop. Maybe I should check it again and ask her?"
+    new "I'm really curious about her laptop. Maybe I should check it again and ask her?"
+
+    # game/variables/tips.rpy:4
+    old "She asked me to get 2 ice creams for our date, I should return to her when I get them to arrange a date."
+    new "She asked me to get 2 ice creams for our date, I should return to her when I get them to arrange a date."
+
+    # game/variables/tips.rpy:4
+    old "The last drinking session with her got us really drunk, maybe she wants another go?"
+    new "The last drinking session with her got us really drunk, maybe she wants another go?"
+
+    # game/variables/tips.rpy:4
+    old "I need to get vodka for her."
+    new "I need to get vodka for her."
+

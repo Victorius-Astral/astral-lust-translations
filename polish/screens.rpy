@@ -361,3 +361,7 @@ translate polish strings:
     # game/screens.rpy:189
     old "CONFIRM"
     new "ZATWIERDŹ"
+
+# TODO:
+    old "Do you want to restart the game? If you don't do it, some things will not change language."
+    new "Do you want to restart the game? If you don't do it, some things will not change language."

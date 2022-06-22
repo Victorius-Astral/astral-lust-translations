@@ -92,3 +92,11 @@ translate vietnamese strings:
     # game/variables/lists/items.rpy:83
     old "The finest of wines made in 20th century."
     new "Loại rượu hảo hạng nhất thế kỷ 20."
+# TODO: Translation updated at 2022-06-22 09:23
+
+translate vietnamese strings:
+
+    # game/variables/lists/items.rpy:80
+    old "Premium Ice Cream"
+    new "Premium Ice Cream"
+

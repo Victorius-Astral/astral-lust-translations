@@ -756,3 +756,11 @@ translate vietnamese strings:
     # game/characters/lexi/speak.rpy:359
     old "Are you sure? You might lose your current preparations."
     new "Bạn có chắc không? Bạn có thể mất sự chuẩn bị hiện tại của mình."
+# TODO: Translation updated at 2022-06-22 09:23
+
+translate vietnamese strings:
+
+    # game/characters/lexi/speak.rpy:68
+    old "Why is your laptop locked? {gold}(Story){/gold}"
+    new "Why is your laptop locked? {gold}(Story){/gold}"
+
