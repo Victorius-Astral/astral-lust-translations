@@ -4451,11 +4451,11 @@ translate spanish strings:
     # game/characters/grace/ev_13.rpy:1303
     old ", and "
     new ", y "
-# TODO: Translation updated at 2022-06-22 09:21
+    
+# Translation updated at 2022-06-22 09:21
 
 # game/characters/grace/ev_13.rpy:61
 translate spanish grace_13_c3120170:
 
     # grace "No. I just wanted to talk with you."
-    grace "No. I just wanted to talk with you."
-
+    grace "No. Sólo quería hablar contigo."
