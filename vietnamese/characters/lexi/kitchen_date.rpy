@@ -6657,67 +6657,67 @@ translate vietnamese strings:
 translate vietnamese lexi_kitchen_date_start_b7a83025:
 
     # me "Fuck."
-    me "Fuck."
+    me "Đệt."
 
 # game/characters/lexi/kitchen_date.rpy:157
 translate vietnamese lexi_kitchen_date_start_2d1fe969:
 
     # lexi "What's wrong?"
-    lexi "What's wrong?"
+    lexi "Có chuyện gì à?"
 
 # game/characters/lexi/kitchen_date.rpy:158
 translate vietnamese lexi_kitchen_date_start_74aea7b6:
 
     # me "I don't have the ice creams."
-    me "I don't have the ice creams."
+    me "Anh không có kem."
 
 # game/characters/lexi/kitchen_date.rpy:162
 translate vietnamese lexi_kitchen_date_start_b6fcffc1:
 
     # lexi "What? You had them. You said so yourself."
-    lexi "What? You had them. You said so yourself."
+    lexi "Hả?. Chính anh bảo là anh có nó mà."
 
 # game/characters/lexi/kitchen_date.rpy:163
 translate vietnamese lexi_kitchen_date_start_d51bad58:
 
     # me "I did, but I don't have them anymore."
-    me "I did, but I don't have them anymore."
+    me "Đã từng..."
 
 # game/characters/lexi/kitchen_date.rpy:167
 translate vietnamese lexi_kitchen_date_start_87425273:
 
     # lexi "Did you eat the ice creams for our date on your own?" id lexi_kitchen_date_start_87425273
-    lexi "Did you eat the ice creams for our date on your own?" id lexi_kitchen_date_start_87425273
+    lexi "Anh đã ăn kem cho buổi hẹn hò của chúng ta à?" id lexi_kitchen_date_start_87425273
 
 # game/characters/lexi/kitchen_date.rpy:168
 translate vietnamese lexi_kitchen_date_start_48943e18:
 
     # me "Does it matter if I eaten or sold them?"
-    me "Does it matter if I eaten or sold them?"
+    me "Có vấn đề gì không nếu anh ăn hoặc bán chúng?"
 
 # game/characters/lexi/kitchen_date.rpy:169
 translate vietnamese lexi_kitchen_date_start_0139f328:
 
     # lexi "So you sold them?"
-    lexi "So you sold them?"
+    lexi "Vậy là anh đã bán chúng?"
 
 # game/characters/lexi/kitchen_date.rpy:170
 translate vietnamese lexi_kitchen_date_start_297e9527:
 
     # me "I didn't say that."
-    me "I didn't say that."
+    me "Anh đâu có nói vậy."
 
 # game/characters/lexi/kitchen_date.rpy:176
 translate vietnamese lexi_kitchen_date_start_a4523297:
 
     # lexi "You just had to do one thing.."
-    lexi "You just had to do one thing.."
+    lexi "Anh chỉ có mỗi một việc thôi..."
 
 # game/characters/lexi/kitchen_date.rpy:180
 translate vietnamese lexi_kitchen_date_start_3cc578b1:
 
     # me "Lexi, wait!"
-    me "Lexi, wait!"
+    me "Lexi, đợi đã!"
 
 # game/characters/lexi/kitchen_date.rpy:184
 translate vietnamese lexi_kitchen_date_start_3820771a:
@@ -6735,43 +6735,43 @@ translate vietnamese lexi_kitchen_date_start_b7a83025_1:
 translate vietnamese lexi_kitchen_date_start_83ab8881:
 
     # grace "Hey, I've seen Lexi on a way here. She looked pretty."
-    grace "Hey, I've seen Lexi on a way here. She looked pretty."
+    grace "Hey, em vừa nhìn thấy chị Lexi đi qua xong. Chị ấy nhìn xinh thật đấy."
 
 # game/characters/lexi/kitchen_date.rpy:195
 translate vietnamese lexi_kitchen_date_start_6fd51326:
 
     # me "She did."
-    me "She did."
+    me "Tất nhiên."
 
 # game/characters/lexi/kitchen_date.rpy:196
 translate vietnamese lexi_kitchen_date_start_289d92d7:
 
     # grace "She looked angry."
-    grace "She looked angry."
+    grace "Chị ấy nhìn cũng rất tức giận nữa."
 
 # game/characters/lexi/kitchen_date.rpy:197
 translate vietnamese lexi_kitchen_date_start_994746a2:
 
     # me "She was.."
-    me "She was.."
+    me "Anh biết..."
 
 # game/characters/lexi/kitchen_date.rpy:198
 translate vietnamese lexi_kitchen_date_start_a18c65d1:
 
     # grace "I see."
-    grace "I see."
+    grace "Em hiểu rồi."
 
 # game/characters/lexi/kitchen_date.rpy:202
 translate vietnamese lexi_kitchen_date_start_a5765000:
 
     # grace "Well, let's keep the cooking for another time."
-    grace "Well, let's keep the cooking for another time."
+    grace "Vậy thì để vụ nấu ăn cho lần sau vậy."
 
 # game/characters/lexi/kitchen_date.rpy:203
 translate vietnamese lexi_kitchen_date_start_5b48ec40:
 
     # me "Yeah. Thank you for coming."
-    me "Yeah. Thank you for coming."
+    me "Yeah. Cảm ơn em vì đã đến."
 
 # game/characters/lexi/kitchen_date.rpy:204
 translate vietnamese lexi_kitchen_date_start_7402cda2:
@@ -6789,111 +6789,110 @@ translate vietnamese lexi_kitchen_date_start_c419bf4e:
 translate vietnamese lexi_kitchen_date_sex_c628aa97:
 
     # me "Let me take that thong off." id lexi_kitchen_date_sex_c628aa97
-    me "Let me take that thong off." id lexi_kitchen_date_sex_c628aa97
+    me "Để anh cởi chiếc quần lót đó ra nào." id lexi_kitchen_date_sex_c628aa97
 
 # game/characters/lexi/kitchen_date.rpy:2110
 translate vietnamese lexi_kitchen_date_sex_f5d72192:
 
     # me "Let me wipe it out first."
-    me "Let me wipe it out first."
+    me "Hãy để anh lau nó trước đã."
 
 # game/characters/lexi/kitchen_date.rpy:2312
 translate vietnamese lexi_kitchen_date_bath_499be387:
 
     # lexi "We're almost there, I'll put something on later."
-    lexi "We're almost there, I'll put something on later."
+    lexi "Chúng ta sắp xong rồi, em sẽ mặc một cái gì đó vào sau."
 
 # game/characters/lexi/kitchen_date.rpy:2313
 translate vietnamese lexi_kitchen_date_bath_19842b47:
 
     # lexi "You're topless yourself."
-    lexi "You're topless yourself."
+    lexi "Anh đang cởi trần đấy."
 
 # game/characters/lexi/kitchen_date.rpy:2360
 translate vietnamese lexi_kitchen_date_bath_58775f0e:
 
     # me "I'm sorry for your back and neck, though."
-    me "I'm sorry for your back and neck, though."
+    me "Nhưng mà anh xin lỗi vì cái lưng và cổ của em."
 
 # game/characters/lexi/kitchen_date.rpy:2361
 translate vietnamese lexi_kitchen_date_bath_4a7c357f:
 
     # lexi "I'll sit straight when there is more water."
-    lexi "I'll sit straight when there is more water."
+    lexi "Em sẽ ngồi thẳng khi có nhiều nước."
 
 # game/characters/lexi/kitchen_date.rpy:2362
 translate vietnamese lexi_kitchen_date_bath_c2f526a1:
 
     # lexi "This morning is colder than usual, though."
-    lexi "This morning is colder than usual, though."
+    lexi "Tuy nhiên, sáng nay lạnh hơn bình thường đấy."
 
 # game/characters/lexi/kitchen_date.rpy:2363
 translate vietnamese lexi_kitchen_date_bath_7f1fca60:
 
     # me "You think so?"
-    me "You think so?"
+    me "Em nghĩ vậy sao?"
 
 # game/characters/lexi/kitchen_date.rpy:2364
 translate vietnamese lexi_kitchen_date_bath_20785e4c:
 
     # lexi "Yeah. Although looking at how you don't care, you might have not noticed."
-    lexi "Yeah. Although looking at how you don't care, you might have not noticed."
+    lexi "Yeah. Mặc dù nhìn cách anh không quan tâm nhưng có thể anh sẽ không nhận ra."
 
 # game/characters/lexi/kitchen_date.rpy:2365
 translate vietnamese lexi_kitchen_date_bath_99e46b3e:
 
     # me "I think it's on the colder side, but it's not unpleasant for me."
-    me "I think it's on the colder side, but it's not unpleasant for me."
+    me "Anh nghĩ nó ở phía lạnh hơn đấy, nhưng nó không khó chịu đối với anh."
 
 # game/characters/lexi/kitchen_date.rpy:2366
 translate vietnamese lexi_kitchen_date_bath_73a40799:
 
     # lexi "Lucky you."
-    lexi "Lucky you."
+    lexi "Thế thì tốt."
 
 # game/characters/lexi/kitchen_date.rpy:2370
 translate vietnamese lexi_kitchen_date_bath_dad0f182:
 
     # me "By the way, it's an interesting place to place your feet." id lexi_kitchen_date_bath_dad0f182
-    me "By the way, it's an interesting place to place your feet." id lexi_kitchen_date_bath_dad0f182
+    me "Nhân tiện thì, đó là một vị trí thú vị để đặt chân của em đấy." id lexi_kitchen_date_bath_dad0f182
 
 # game/characters/lexi/kitchen_date.rpy:2371
 translate vietnamese lexi_kitchen_date_bath_c34e61d4:
 
     # lexi "Oh, you noticed?"
-    lexi "Oh, you noticed?"
+    lexi "Oh, anh nhận ra sao?"
 
 # game/characters/lexi/kitchen_date.rpy:2372
 translate vietnamese lexi_kitchen_date_bath_c7713528:
 
     # lexi "Well, I was kinda out of space, I hope you don't mind."
-    lexi "Well, I was kinda out of space, I hope you don't mind."
+    lexi "Well, nãy anh hơi lag một chút, mong là em không phiền."
 
 # game/characters/lexi/kitchen_date.rpy:2373
 translate vietnamese lexi_kitchen_date_bath_9e0421f8:
 
     # me "Well, I don't."
-    me "Well, I don't."
+    me "Well, em không phiền đâu."
 
 # game/characters/lexi/kitchen_date.rpy:2374
 translate vietnamese lexi_kitchen_date_bath_4312c063:
 
     # th "I'm kind of horny now, though."
-    th "I'm kind of horny now, though."
+    th "Tuy nhiên, giờ mình rất horny."
 
 # game/characters/lexi/kitchen_date.rpy:2380
 translate vietnamese lexi_kitchen_date_bath_f209f330:
 
     # me "Due to lack of time I exchanged my bath for a shower back home. It was more efficient."
-    me "Due to lack of time I exchanged my bath for a shower back home. It was more efficient."
+    me "Do không có thời gian nên anh đã đổi cái bồn tắm của mình lấy chỗ cho vòi hoa sen ở nhà. Nó hiệu quả hơn."
 
 translate vietnamese strings:
 
     # game/characters/lexi/kitchen_date.rpy:152
     old "You don't have enough ice creams!"
-    new "You don't have enough ice creams!"
+    new "Bạn không có đủ kem!"
 
     # game/characters/lexi/kitchen_date.rpy:1345
     old "Keep it for now {#visible}"
-    new "Keep it for now {#visible}"
-
+    new "Giữ lại {#visible}"

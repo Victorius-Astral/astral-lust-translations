@@ -617,21 +617,20 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:70
     old "Mina wants booze"
-    new "Mina wants booze"
+    new "Mina muốn rượu"
 
     # game/variables/replays.rpy:70
     old "Drinking with Mina"
-    new "Drinking with Mina"
+    new "Uống với Mina"
 
     # game/variables/replays.rpy:98
     old "Why does she have a password?"
-    new "Why does she have a password?"
+    new "Tại sao em ấy lại đặt mật khẩu?"
 
     # game/variables/replays.rpy:98
     old "The first successful date"
-    new "The first successful date"
+    new "Cuộc hẹn hò đầu tiên thành công"
 
     # game/variables/replays.rpy:98
     old "Kitchen Date"
-    new "Kitchen Date"
-
+    new "Cuộc hẹn hò ở nhà bếp"

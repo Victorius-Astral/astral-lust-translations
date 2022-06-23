@@ -16,49 +16,49 @@ translate vietnamese grace_13_c4318f59:
 translate vietnamese grace_13_3cea80fd:
 
     # grace "Hello Mr. Psychologist."
-    grace "Hello Mr. Psychologist."
+    grace "Xin chào ngài tâm lý học."
 
 # game/characters/grace/ev_13.rpy:46
 translate vietnamese grace_13_2cd401ed:
 
     # me "Haha, is it just me or are you getting smarter?"
-    me "Haha, is it just me or are you getting smarter?"
+    me "Haha, Có phải tại anh đang nghĩ nhiều không hay em đang thông minh hơn vậy?"
 
 # game/characters/grace/ev_13.rpy:50
 translate vietnamese grace_13_53ace64f:
 
     # grace "Not funny.."
-    grace "Not funny.."
+    grace "Khoogn cui..."
 
 # game/characters/grace/ev_13.rpy:51
 translate vietnamese grace_13_04780ef1:
 
     # me "I laughed, though."
-    me "I laughed, though."
+    me "Nhưng anh lỡ cười rồi."
 
 # game/characters/grace/ev_13.rpy:52
 translate vietnamese grace_13_4d243be8:
 
     # grace "You're bad.."
-    grace "You're bad.."
+    grace "Anh thật tệ..."
 
 # game/characters/grace/ev_13.rpy:53
 translate vietnamese grace_13_12e4a6de:
 
     # me "Sooo.. do you need me for anything?"
-    me "Sooo.. do you need me for anything?"
+    me "Thếeee... em cần anh giúp gì không?"
 
 # game/characters/grace/ev_13.rpy:57
 translate vietnamese grace_13_879ccf9a:
 
     # grace "No. I just wanted to walk with you."
-    grace "No. I just wanted to walk with you."
+    grace "Không. CHỉ là muốn nói chuyện với anh thôi."
 
 # game/characters/grace/ev_13.rpy:58
 translate vietnamese grace_13_538e43d2:
 
     # me "You come to me a lot recently."
-    me "You come to me a lot recently."
+    me "Gần đây em hay đến chõ anh thế."
 
 # game/characters/grace/ev_13.rpy:59
 translate vietnamese grace_13_7402cda2:
@@ -70,25 +70,25 @@ translate vietnamese grace_13_7402cda2:
 translate vietnamese grace_13_9d0e9f7d:
 
     # me "Why is that? Don't get me wrong, I like talking with you, but before it was me coming to see you, not the other way around."
-    me "Why is that? Don't get me wrong, I like talking with you, but before it was me coming to see you, not the other way around."
+    me "Sao thế? Đừng hiểu lầm anh."
 
 # game/characters/grace/ev_13.rpy:64
 translate vietnamese grace_13_44064645:
 
     # grace "Ummm... I'm not sure."
-    grace "Ummm... I'm not sure."
+    grace "Ummm... em không chắc nữa."
 
 # game/characters/grace/ev_13.rpy:68
 translate vietnamese grace_13_12fddc75:
 
     # grace "I just feel like seeing you, so I came."
-    grace "I just feel like seeing you, so I came."
+    grace "Chỉ là tự nhiên em muốn gặp anh, nên em đến thôi."
 
 # game/characters/grace/ev_13.rpy:69
 translate vietnamese grace_13_aa93b10c:
 
     # me "Good girl."
-    me "Good girl."
+    me "À."
 
 # game/characters/grace/ev_13.rpy:73
 translate vietnamese grace_13_baf8f4db:
@@ -100,139 +100,139 @@ translate vietnamese grace_13_baf8f4db:
 translate vietnamese grace_13_b42a1174:
 
     # th "Wow, she's really much more lively lately. I must say I like it."
-    th "Wow, she's really much more lively lately. I must say I like it."
+    th "Wow, dạo này em ấy tươi hơn hẳn đấy. Phải nói là mình khá thích vậy."
 
 # game/characters/grace/ev_13.rpy:78
 translate vietnamese grace_13_b6cde7cc:
 
     # grace "I dreamed of dad again."
-    grace "I dreamed of dad again."
+    grace "Em lại mơ về bố lần nữa rồi."
 
 # game/characters/grace/ev_13.rpy:79
 translate vietnamese grace_13_9da649e7:
 
     # me "Oh? How's the big teddy doing?"
-    me "Oh? How's the big teddy doing?"
+    me "Oh? Thế gấu bông to lớn đang nói gì vậy?"
 
 # game/characters/grace/ev_13.rpy:80
 translate vietnamese grace_13_050fd6df:
 
     # grace "I told him stories about me."
-    grace "I told him stories about me."
+    grace "Em kể với anh ấy câu chuyện về em."
 
 # game/characters/grace/ev_13.rpy:81
 translate vietnamese grace_13_2877610f:
 
     # me "So you were catching up."
-    me "So you were catching up."
+    me "Vậy hả."
 
 # game/characters/grace/ev_13.rpy:82
 translate vietnamese grace_13_35573aaf:
 
     # grace "Mm. I asked him where he lives."
-    grace "Mm. I asked him where he lives."
+    grace "Mm. Em hỏi là bố sống ở đâu."
 
 # game/characters/grace/ev_13.rpy:83
 translate vietnamese grace_13_12dfc815:
 
     # me "Did he answer?"
-    me "Did he answer?"
+    me "Ông ấy có trả lời không?"
 
 # game/characters/grace/ev_13.rpy:84
 translate vietnamese grace_13_ecff7841:
 
     # grace "Mm. He told me that he doesn't have a home. Then he pointed at the starry sky and told me that he wanders the stars looking for fun."
-    grace "Mm. He told me that he doesn't have a home. Then he pointed at the starry sky and told me that he wanders the stars looking for fun."
+    grace "Mm. Ông ấy nói với em là ông ấy không có nhà. Sau đó chỉ vào bầu trời đầy sao và bảo em là ông ấy lang thang giữa các vì sao để tìm niềm vui."
 
 # game/characters/grace/ev_13.rpy:85
 translate vietnamese grace_13_46d27802:
 
     # me "I see."
-    me "I see."
+    me "Anh hiểu rồi."
 
 # game/characters/grace/ev_13.rpy:86
 translate vietnamese grace_13_ccfd1d41:
 
     # th "I must say [grace]'s mind is quite creative."
-    th "I must say [grace]'s mind is quite creative."
+    th "Mình phải nói là đầu óc của [grace] khá sáng tạo đấy."
 
 # game/characters/grace/ev_13.rpy:87
 translate vietnamese grace_13_b953c401:
 
     # grace "He asked if I thought about coming to live with him."
-    grace "He asked if I thought about coming to live with him."
+    grace "Ông ấy còn hỏi là liệu em có muốn đến sống cùng bố không."
 
 # game/characters/grace/ev_13.rpy:88
 translate vietnamese grace_13_7a562751:
 
     # me "And what was your answer?"
-    me "And what was your answer?"
+    me "Vfa câu trả lời của em là gì?"
 
 # game/characters/grace/ev_13.rpy:92
 translate vietnamese grace_13_76987a5b:
 
     # grace "I told him that I don't know.."
-    grace "I told him that I don't know.."
+    grace "Em bảo là em không biết..."
 
 # game/characters/grace/ev_13.rpy:93
 translate vietnamese grace_13_81c3fa2a:
 
     # grace "I wanted to say yes, but I don't want to leave here."
-    grace "I wanted to say yes, but I don't want to leave here."
+    grace "Em muốn nói có nhưng em cũng không muốn rời khỏi nơi này."
 
 # game/characters/grace/ev_13.rpy:94
 translate vietnamese grace_13_4d6e59a5:
 
     # th "Did she start to forget that's just a dream?"
-    th "Did she start to forget that's just a dream?"
+    th "Có phải em ấy đã quên rằng đó chỉ là một giấc mơ thôi không?"
 
 # game/characters/grace/ev_13.rpy:95
 translate vietnamese grace_13_22596987:
 
     # grace "I told him I'll think about it and answer later."
-    grace "I told him I'll think about it and answer later."
+    grace "Em bảo là em sẽ nghĩ thêm và đưa ra câu trả lời."
 
 # game/characters/grace/ev_13.rpy:96
 translate vietnamese grace_13_b8a90d65:
 
     # th "She wants to know her father so much she's willing to consider a giant teddy bear in a dream as her dad.. No, I have to remind her."
-    th "She wants to know her father so much she's willing to consider a giant teddy bear in a dream as her dad.. No, I have to remind her."
+    th "Em ấy muốn biết bố nhiều đến mức mà tưởng tượng ra con gấu bông khổng lồ trong giấc mơ em ấy là bố... không mình phải nhắc cho em ấy biết mới được."
 
 # game/characters/grace/ev_13.rpy:97
 translate vietnamese grace_13_43b0e4a6:
 
     # me "[grace]. You know this is just a dream, right?"
-    me "[grace]. You know this is just a dream, right?"
+    me "[grace]. Em biết đấy cũng chỉ là mơ thôi , phải khôgn?"
 
 # game/characters/grace/ev_13.rpy:98
 translate vietnamese grace_13_2e78eecc:
 
     # me "It's not your real dad."
-    me "It's not your real dad."
+    me "Đấy không phải bố thật của em."
 
 # game/characters/grace/ev_13.rpy:102
 translate vietnamese grace_13_43d8ea49:
 
     # grace "I know. I'm a smart girl after all."
-    grace "I know. I'm a smart girl after all."
+    grace "Em biết. Dù sao thì em là một cô gái thông minh mà."
 
 # game/characters/grace/ev_13.rpy:103
 translate vietnamese grace_13_9211c367:
 
     # me "That's good. For a while, I thought you were getting lost in your imagination."
-    me "That's good. For a while, I thought you were getting lost in your imagination."
+    me "Tốt lắm, Anh còn tưởng là em bị lạc trong trí tưởng tượng của em rồi cơ."
 
 # game/characters/grace/ev_13.rpy:104
 translate vietnamese grace_13_2a03abba:
 
     # grace "Although, it's still important to me."
-    grace "Although, it's still important to me."
+    grace "Mặc dù vậy, nó vẫn quan trọng với em."
 
 # game/characters/grace/ev_13.rpy:105
 translate vietnamese grace_13_46d27802_1:
 
     # me "I see."
-    me "I see."
+    me "Anh hiểu rồi."
 
 # game/characters/grace/ev_13.rpy:110
 translate vietnamese grace_13_91e8ced1:
@@ -244,37 +244,37 @@ translate vietnamese grace_13_91e8ced1:
 translate vietnamese grace_13_e05c69ec:
 
     # grace "I see, hehe~"
-    grace "I see, hehe~"
+    grace "Em hiểu rồi, hehe~"
 
 # game/characters/grace/ev_13.rpy:118
 translate vietnamese grace_13_79cd81f8:
 
     # grace "It indeed sounds fun!"
-    grace "It indeed sounds fun!"
+    grace "Nó đúng là nghe vui thật!"
 
 # game/characters/grace/ev_13.rpy:122
 translate vietnamese grace_13_e2e24277:
 
     # grace "I'll tell dad I want to go."
-    grace "I'll tell dad I want to go."
+    grace "Em sẽ nói với bố là em muốn đi."
 
 # game/characters/grace/ev_13.rpy:123
 translate vietnamese grace_13_6d55f1f2:
 
     # me "Haha, sure. Remember to come back to see me from time to time."
-    me "Haha, sure. Remember to come back to see me from time to time."
+    me "Haha, dược rồi. Nhưng nhớ là phải quay lại gặp anh đấy."
 
 # game/characters/grace/ev_13.rpy:124
 translate vietnamese grace_13_4e500092:
 
     # grace "Hehe, it's just a dream. Silly~"
-    grace "Hehe, it's just a dream. Silly~"
+    grace "Hehe, đó chỉ là một giấc mơ thôi ngốc ạ~"
 
 # game/characters/grace/ev_13.rpy:125
 translate vietnamese grace_13_04989a7d:
 
     # me "Pfft! A chick has learned how to peck."
-    me "Pfft! A chick has learned how to peck."
+    me "Pfft! Gà con đã học được cách mổ rồi này."
 
 # game/characters/grace/ev_13.rpy:129
 translate vietnamese grace_13_5b8f0a20:
@@ -286,19 +286,19 @@ translate vietnamese grace_13_5b8f0a20:
 translate vietnamese grace_13_7fce810b:
 
     # me "You learning to use sarcasm really surprised me."
-    me "You learning to use sarcasm really surprised me."
+    me "Em học cách sử dụng lời châm biếm thực sự làm anh ngạc nhiên đấy."
 
 # game/characters/grace/ev_13.rpy:134
 translate vietnamese grace_13_2a2771dd:
 
     # grace "Ain't I smart?"
-    grace "Ain't I smart?"
+    grace "Không phải là em rất thông minh sao?"
 
 # game/characters/grace/ev_13.rpy:135
 translate vietnamese grace_13_b6c49f19:
 
     # me "Sure, sure."
-    me "Sure, sure."
+    me "rồi, rồi."
 
 # game/characters/grace/ev_13.rpy:136
 translate vietnamese grace_13_baf8f4db_1:
@@ -310,37 +310,37 @@ translate vietnamese grace_13_baf8f4db_1:
 translate vietnamese grace_13_67e6c0e1:
 
     # grace "I see.."
-    grace "I see.."
+    grace "Em hiểu rồi.."
 
 # game/characters/grace/ev_13.rpy:147
 translate vietnamese grace_13_212a7c54:
 
     # grace "You're probably right."
-    grace "You're probably right."
+    grace "Có lẽ là anh đúng đấy."
 
 # game/characters/grace/ev_13.rpy:151
 translate vietnamese grace_13_15142d3b:
 
     # grace "I didn't want to leave the hotel anyway."
-    grace "I didn't want to leave the hotel anyway."
+    grace "Em không muốn rời khỏi đây đâu."
 
 # game/characters/grace/ev_13.rpy:152
 translate vietnamese grace_13_a1902804:
 
     # grace "I'm a little sad, though."
-    grace "I'm a little sad, though."
+    grace "nhưng mà em lại thấy hơi buồn."
 
 # game/characters/grace/ev_13.rpy:153
 translate vietnamese grace_13_f0f114dc:
 
     # grace "I feel as if I lost something important.."
-    grace "I feel as if I lost something important.."
+    grace "Em cảm thấy như thể mình đã đánh mất một thứ gì đó quan trọng vậy..."
 
 # game/characters/grace/ev_13.rpy:154
 translate vietnamese grace_13_46d27802_2:
 
     # me "I see."
-    me "I see."
+    me "Anh hiểu rồi."
 
 # game/characters/grace/ev_13.rpy:157
 translate vietnamese grace_13_eaae5c0e:
@@ -352,13 +352,13 @@ translate vietnamese grace_13_eaae5c0e:
 translate vietnamese grace_13_07bf789c:
 
     # grace "You think so?"
-    grace "You think so?"
+    grace "Anh nghĩ vậy sao?"
 
 # game/characters/grace/ev_13.rpy:164
 translate vietnamese grace_13_f2a02115:
 
     # me "Yeah, I can see you want to say yes. Just do it."
-    me "Yeah, I can see you want to say yes. Just do it."
+    me "Yeah, anh có thể thấy em muốn nói có. Cứ làm đi."
 
 # game/characters/grace/ev_13.rpy:168
 translate vietnamese grace_13_baf8f4db_2:
@@ -370,25 +370,25 @@ translate vietnamese grace_13_baf8f4db_2:
 translate vietnamese grace_13_fb1b5575:
 
     # grace "Thank you."
-    grace "Thank you."
+    grace "Cảm ơn."
 
 # game/characters/grace/ev_13.rpy:170
 translate vietnamese grace_13_f7977ca7:
 
     # th "Yeah, seems she wanted to agree, she just needed someone to assure her in this."
-    th "Yeah, seems she wanted to agree, she just needed someone to assure her in this."
+    th "Yeah, Có vẻ như em ấy muốn đồng ý, em ấy chỉ cần ai đó đảm bảo với em ấy về điều này."
 
 # game/characters/grace/ev_13.rpy:171
 translate vietnamese grace_13_d311f457:
 
     # th "It's not like it changes much, it's just her dreams anyway."
-    th "It's not like it changes much, it's just her dreams anyway."
+    th "Nó không thay đổi nhiều, dù sao đó cũng chỉ là những giấc mơ của em ấy thôi."
 
 # game/characters/grace/ev_13.rpy:185
 translate vietnamese grace_13_part2_8a88ed95:
 
     # grace "This time I didn't come just to talk, though."
-    grace "This time I didn't come just to talk, though."
+    grace "Nhưng lần này em không đến để nói chuyện."
 
 # game/characters/grace/ev_13.rpy:186
 translate vietnamese grace_13_part2_762abff7:
@@ -400,127 +400,127 @@ translate vietnamese grace_13_part2_762abff7:
 translate vietnamese grace_13_part2_6e63d758:
 
     # grace "I would like to have some..."
-    grace "I would like to have some..."
+    grace "Em muốn..."
 
 # game/characters/grace/ev_13.rpy:188
 translate vietnamese grace_13_part2_26e0c722:
 
     # me "Some..."
-    me "Some..."
+    me "Muốn..."
 
 # game/characters/grace/ev_13.rpy:189
 translate vietnamese grace_13_part2_cc6645f0:
 
     # grace "Fun."
-    grace "Fun."
+    grace "Vui."
 
 # game/characters/grace/ev_13.rpy:190
 translate vietnamese grace_13_part2_5ee12148:
 
     # me "Wow, why so shy, though? We had a lot of fun already."
-    me "Wow, why so shy, though? We had a lot of fun already."
+    me "Wow, tại sao lại xấu hổ vậy, nhưng không phải là chúng tôi đã có rất nhiều niềm vui rồi sao."
 
 # game/characters/grace/ev_13.rpy:191
 translate vietnamese grace_13_part2_90c167c4:
 
     # grace "Because I would like to try something new."
-    grace "Because I would like to try something new."
+    grace "Bởi vì em muốn thử một cái gì đó mới."
 
 # game/characters/grace/ev_13.rpy:192
 translate vietnamese grace_13_part2_a2cc8add:
 
     # me "Do you have something in mind?"
-    me "Do you have something in mind?"
+    me "Em đang có gì trong đầu vậy?"
 
 # game/characters/grace/ev_13.rpy:193
 translate vietnamese grace_13_part2_d4bf62b3:
 
     # grace "Mm. Yesterday I wanted to ask Alice something, so I came to her room, and.."
-    grace "Mm. Yesterday I wanted to ask Alice something, so I came to her room, and.."
+    grace "Mm. Hôm qua, em muốn hỏi Alice điều gì đó, vì vậy nên em đã đến phòng của chị ấy, và..."
 
 # game/characters/grace/ev_13.rpy:194
 translate vietnamese grace_13_part2_ce570df9:
 
     # th "Let me guess, she was masturbating again, haha."
-    th "Let me guess, she was masturbating again, haha."
+    th "Để mình đoán này, em ấy đã thủ dâm một lần nữa, haha."
 
 # game/characters/grace/ev_13.rpy:195
 translate vietnamese grace_13_part2_93c6d2b6:
 
     # grace "Umm.. She was putting into her pussy something that looked like your umm.. thing."
-    grace "Umm.. She was putting into her pussy something that looked like your umm.. thing."
+    grace "Umm.. Chị ấy đã đưa vào âm hộ của mình một thứ gì đó trông giống như thứ của anh.. umm."
 
 # game/characters/grace/ev_13.rpy:196
 translate vietnamese grace_13_part2_66b359e7:
 
     # grace "And she looked very happy. I want to feel like this too.."
-    grace "And she looked very happy. I want to feel like this too.."
+    grace "Và chị ấy trông rất hạnh phúc. Em cũng muốn cảm thấy như thế.."
 
 # game/characters/grace/ev_13.rpy:197
 translate vietnamese grace_13_part2_46d27802:
 
     # me "I see."
-    me "I see."
+    me "Anh hiểu rồi."
 
 # game/characters/grace/ev_13.rpy:198
 translate vietnamese grace_13_part2_41708845:
 
     # th "I don't have a dildo, though. [alice] has it.. Am I going to ask my girlfriend for a dildo? No way.. She would kill me."
-    th "I don't have a dildo, though. [alice] has it.. Am I going to ask my girlfriend for a dildo? No way.. She would kill me."
+    th "Tuy nhiên, mình không có koo giả. [alice] có nó... Và mình sẽ hỏi bạn gái của mình lấy cho một con cu giả á? Đéo... Em ấy sẽ giết mình mất."
 
 # game/characters/grace/ev_13.rpy:202
 translate vietnamese grace_13_part2_b68aadd2:
 
     # grace "Pretty please!~"
-    grace "Pretty please!~"
+    grace "Làm ơn đi!~"
 
 # game/characters/grace/ev_13.rpy:203
 translate vietnamese grace_13_part2_77e92aa3:
 
     # me "You really want to do it.."
-    me "You really want to do it.."
+    me "Em thực sự rất muốn làm nó..."
 
 # game/characters/grace/ev_13.rpy:204
 translate vietnamese grace_13_part2_ad514ae0:
 
     # grace "Mm. I've never been so excited as Alice was yesterday."
-    grace "Mm. I've never been so excited as Alice was yesterday."
+    grace "Mm. Em chưa bao giờ được phấn khích như chị Alice của ngày hôm qua."
 
 # game/characters/grace/ev_13.rpy:205
 translate vietnamese grace_13_part2_8d9d3974:
 
     # grace "She was moaning so loud, and she was so occupied that she didn't even hear me coming in."
-    grace "She was moaning so loud, and she was so occupied that she didn't even hear me coming in."
+    grace "Chị ấy đang rên rỉ rất lớn, và chị ấy bận rộn đến nỗi thậm chí không nghe thấy em đi vào."
 
 # game/characters/grace/ev_13.rpy:206
 translate vietnamese grace_13_part2_a7da7869:
 
     # grace "It seemed to be very nice. I liked it. And I also want to be so excited like her!"
-    grace "It seemed to be very nice. I liked it. And I also want to be so excited like her!"
+    grace "Nó dường như là rất tuyệt. Em thích nó. Và em cũng muốn được kích thích như chị ấy!"
 
 # game/characters/grace/ev_13.rpy:207
 translate vietnamese grace_13_part2_3cdbfa0d:
 
     # me "I see.."
-    me "I see.."
+    me "À..."
 
 # game/characters/grace/ev_13.rpy:211
 translate vietnamese grace_13_part2_7f78e570:
 
     # grace "Is it impossible?"
-    grace "Is it impossible?"
+    grace "Nso là bất khả thi à?"
 
 # game/characters/grace/ev_13.rpy:212
 translate vietnamese grace_13_part2_e3214861:
 
     # th "Fuck! I don't want to reject her, these puppy eyes.."
-    th "Fuck! I don't want to reject her, these puppy eyes.."
+    th "Đẹt! Mình khoogn muốn từ chối em ấy, đôi mắt cún con ấy.."
 
 # game/characters/grace/ev_13.rpy:213
 translate vietnamese grace_13_part2_faec1aaa:
 
     # th "She must be doing it on purpose.."
-    th "She must be doing it on purpose.."
+    th "Có vẻ như em ấy làm việc này là có chủ đích.."
 
 # game/characters/grace/ev_13.rpy:214
 translate vietnamese grace_13_part2_c419bf4e:
@@ -538,7 +538,7 @@ translate vietnamese grace_13_part2_5b8f0a20:
 translate vietnamese grace_13_part2_64d36e83:
 
     # me "I don't have any toy like this. I'll go ask Alice to lend us one, okay?"
-    me "I don't have any toy like this. I'll go ask Alice to lend us one, okay?"
+    me "Anh không có bất kỳ món đồ chơi nào như thế này cả. Anh sẽ hỏi Alice cho chúng ta mượn một cái, được chứ?"
 
 # game/characters/grace/ev_13.rpy:220
 translate vietnamese grace_13_part2_d8769c30:
@@ -550,31 +550,31 @@ translate vietnamese grace_13_part2_d8769c30:
 translate vietnamese grace_13_part2_e3d1358b:
 
     # me "Don't get too happy, though. She might not lend it to us, it's something personal."
-    me "Don't get too happy, though. She might not lend it to us, it's something personal."
+    me "Tuy nhiên, đừng quá hóng đấy. Em ấy có thể không cho chúng ta mượn, đó là thứ cá nhân."
 
 # game/characters/grace/ev_13.rpy:222
 translate vietnamese grace_13_part2_c20c128d:
 
     # grace "Alice's so nice to me, though. Tell her it's for me and she'll definitely agree!"
-    grace "Alice's so nice to me, though. Tell her it's for me and she'll definitely agree!"
+    grace "Alice rất tốt với em. Nói với chị ấy đó là cho em và chị ấy chắc chắn sẽ đồng ý!"
 
 # game/characters/grace/ev_13.rpy:223
 translate vietnamese grace_13_part2_fca811a5:
 
     # me "Sure."
-    me "Sure."
+    me "Được rồi."
 
 # game/characters/grace/ev_13.rpy:224
 translate vietnamese grace_13_part2_74a31b5c:
 
     # th "Like hell I will. She's gonna kill me so much.."
-    th "Like hell I will. She's gonna kill me so much.."
+    th "Bị sắp bị giết cmnr..."
 
 # game/characters/grace/ev_13.rpy:225
 translate vietnamese grace_13_part2_72ebed36:
 
     # me "Wait a while."
-    me "Wait a while."
+    me "Đợi một lát."
 
 # game/characters/grace/ev_13.rpy:229
 translate vietnamese grace_13_part2_3820771a:
@@ -586,25 +586,25 @@ translate vietnamese grace_13_part2_3820771a:
 translate vietnamese grace_13_part2_2e45454d:
 
     # th "Maybe I should just return and pretend she didn't agree?"
-    th "Maybe I should just return and pretend she didn't agree?"
+    th "Có lẽ mình nên giả vờ quay lại và nói là em ấy không đồng ý?"
 
 # game/characters/grace/ev_13.rpy:231
 translate vietnamese grace_13_part2_33a48622:
 
     # th "With how obvious [grace] is, she might ask her about it, though."
-    th "With how obvious [grace] is, she might ask her about it, though."
+    th "Tuy nhiên, đây là [grace], em ấy có thể hỏi lại về điều đó."
 
 # game/characters/grace/ev_13.rpy:232
 translate vietnamese grace_13_part2_93532362:
 
     # th "Is a dildo something you would lend others anyway?"
-    th "Is a dildo something you would lend others anyway?"
+    th "Dù sao thì sẽ toy không là thứ mà cho người khác mượn?"
 
 # game/characters/grace/ev_13.rpy:233
 translate vietnamese grace_13_part2_5606d722:
 
     # th "How the hell would I know. It doesn't seem like something like this, though."
-    th "How the hell would I know. It doesn't seem like something like this, though."
+    th "Làm thế quái nào mình biết được. Tuy nhiên, nó có vẻ không giống như thế này."
 
 # game/characters/grace/ev_13.rpy:234
 translate vietnamese grace_13_part2_c419bf4e_1:
@@ -616,19 +616,19 @@ translate vietnamese grace_13_part2_c419bf4e_1:
 translate vietnamese grace_13_part2_8fc4a195:
 
     # th "Before The End I would never believe I could be in a situation like this.."
-    th "Before The End I would never believe I could be in a situation like this.."
+    th "Nếu là trước đây, mình sẽ không bao giờ tin rằng mình có thể rơi vào tình huống như thế này..."
 
 # game/characters/grace/ev_13.rpy:236
 translate vietnamese grace_13_part2_a5049a4a:
 
     # th "Hmm.. I can just try to find a dildo outside. That's a viable approach."
-    th "Hmm.. I can just try to find a dildo outside. That's a viable approach."
+    th "Hmm.. hoặc mình có thể cố tìm một cái khác ở ngoài kia. Cũng hợp lý phết."
 
 # game/characters/grace/ev_13.rpy:237
 translate vietnamese grace_13_part2_9b51079f:
 
     # th "Even if Alice had one she's willing to lend me. I have no idea how to explain it to her at all."
-    th "Even if Alice had one she's willing to lend me. I have no idea how to explain it to her at all."
+    th "Ngay cả khi Alice có một cái em ấy cũng sẵn sàng cho mình mượn. Mình không biết phải giải thích thế nào với em ấy cả."
 
 # game/characters/grace/ev_13.rpy:238
 translate vietnamese grace_13_part2_bf653935:
@@ -640,7 +640,7 @@ translate vietnamese grace_13_part2_bf653935:
 translate vietnamese grace_13_part2_dd3aff9a:
 
     # alice "Are you going to stand before my door sighing for a long time? I would like to come in."
-    alice "Are you going to stand before my door sighing for a long time? I would like to come in."
+    alice "Anh định đứng trước cửa phòng em và thở dài đến khi nào nữa đây? Rồi anh có muốn vòa không."
 
 # game/characters/grace/ev_13.rpy:240
 translate vietnamese grace_13_part2_3820771a_1:
@@ -658,55 +658,55 @@ translate vietnamese grace_13_part2_252ea1ae:
 translate vietnamese grace_13_part2_f6a9c90d:
 
     # alice "[me]..? What's up with you?"
-    alice "[me]..? What's up with you?"
+    alice "[me]..? Có chuyện gì với anh vậy?"
 
 # game/characters/grace/ev_13.rpy:251
 translate vietnamese grace_13_part2_c243419f:
 
     # me "Nothing, I'm alright."
-    me "Nothing, I'm alright."
+    me "Không có gì cả, anh ổn."
 
 # game/characters/grace/ev_13.rpy:252
 translate vietnamese grace_13_part2_3e36bac1:
 
     # alice "Sure.."
-    alice "Sure.."
+    alice "Chắc rồi..."
 
 # game/characters/grace/ev_13.rpy:253
 translate vietnamese grace_13_part2_803a025d:
 
     # me "How would you feel if someone asked you to borrow a dildo?"
-    me "How would you feel if someone asked you to borrow a dildo?"
+    me "Em sẽ cảm thấy thế nào nếu ai đó hỏi em mượn một cái sex toy của em?"
 
 # game/characters/grace/ev_13.rpy:257
 translate vietnamese grace_13_part2_94de1f29:
 
     # alice "First of all, it's gross."
-    alice "First of all, it's gross."
+    alice "Trước hết là, nó tởm."
 
 # game/characters/grace/ev_13.rpy:258
 translate vietnamese grace_13_part2_11e450b2:
 
     # alice "And the second.. Don't fucking tell me you're about to ask me for a dildo.."
-    alice "And the second.. Don't fucking tell me you're about to ask me for a dildo.."
+    alice "Và thứ hai... Đừng nói với em rằng anh định hỏi mượn em một cái đấy..."
 
 # game/characters/grace/ev_13.rpy:259
 translate vietnamese grace_13_part2_7f043228:
 
     # th "Fuckin' knew it. Well, no need to deny it. I can't hide it now."
-    th "Fuckin' knew it. Well, no need to deny it. I can't hide it now."
+    th "Mình biết ngay mà. Chà, không cần phải chối nữa. Mình không thể giấu nữa rồi."
 
 # game/characters/grace/ev_13.rpy:260
 translate vietnamese grace_13_part2_d1c81aea:
 
     # me "That was my intention..."
-    me "That was my intention..."
+    me "Đó là í định của anh đấy...."
 
 # game/characters/grace/ev_13.rpy:261
 translate vietnamese grace_13_part2_5219b67a:
 
     # alice "I've had boyfriends that were impolite and idiot. But no one was so brazen.."
-    alice "I've had boyfriends that were impolite and idiot. But no one was so brazen.."
+    alice "Em có vài tên bạn trai bất lịch sự và ngốc nghếch. Nhưng không ai trơ trẽn như vậy cả..."
 
 # game/characters/grace/ev_13.rpy:262
 translate vietnamese grace_13_part2_3820771a_2:
@@ -724,7 +724,7 @@ translate vietnamese grace_13_part2_d545ba40:
 translate vietnamese grace_13_part2_6647612f:
 
     # alice "Do you at least have a good excuse?"
-    alice "Do you at least have a good excuse?"
+    alice "Ít nhất anh có một lý do chính đáng không?"
 
 # game/characters/grace/ev_13.rpy:265
 translate vietnamese grace_13_part2_3820771a_3:
@@ -736,13 +736,13 @@ translate vietnamese grace_13_part2_3820771a_3:
 translate vietnamese grace_13_part2_85cf281f:
 
     # alice "Please tell me you have an excuse.."
-    alice "Please tell me you have an excuse.."
+    alice "Hãy nói với em rằng anh có một cái cớ đi..."
 
 # game/characters/grace/ev_13.rpy:270
 translate vietnamese grace_13_part2_00ecc5d8:
 
     # "You stand there embarrassed and awkward. You really have no idea what to say, you feel you've let her down."
-    "You stand there embarrassed and awkward. You really have no idea what to say, you feel you've let her down."
+    "Bạn đứng đực ra đó xấu hổ và khó xử. Bạn thực sự không biết phải nói gì, bạn cảm thấy mình đã làm cô ấy thất vọng."
 
 # game/characters/grace/ev_13.rpy:271
 translate vietnamese grace_13_part2_74f05a4e:
@@ -754,109 +754,109 @@ translate vietnamese grace_13_part2_74f05a4e:
 translate vietnamese grace_13_part2_ec675551:
 
     # alice "Are you some child of destiny or something?"
-    alice "Are you some child of destiny or something?"
+    alice "Anh có phải là đứa trẻ của số phận hay gì đó không?"
 
 # game/characters/grace/ev_13.rpy:276
 translate vietnamese grace_13_part2_545b287b:
 
     # me "Eh? Why?"
-    me "Eh? Why?"
+    me "Eh? Tại sao?"
 
 # game/characters/grace/ev_13.rpy:277
 translate vietnamese grace_13_part2_65782285:
 
     # alice "You've awakened in a place full of beauties, and they're even interested in you, you have no one to contend with you. Even better, you found yourself a super beautiful girlfriend."
-    alice "You've awakened in a place full of beauties, and they're even interested in you, you have no one to contend with you. Even better, you found yourself a super beautiful girlfriend."
+    alice "Anh đã thức tỉnh ở một nơi đầy người đẹp, và họ thậm chí còn quan tâm đến anh, anh không có ai để cạnh tranh với anh cả. Và trên hết, anh còn tìm được cho mình một cô bạn gái siêu xinh."
 
 # game/characters/grace/ev_13.rpy:278
 translate vietnamese grace_13_part2_7eaed955:
 
     # alice "Heck, she even turns a blind eye to you cheating on her. She's mad in love with you, letting you do whatever you want."
-    alice "Heck, she even turns a blind eye to you cheating on her. She's mad in love with you, letting you do whatever you want."
+    alice "Khiếp, cô ấy còn làm ngơ để anh lừa dối cô ấy. Cô ấy yêu anh đến phát điên, cho phép anh làm bất cứ điều gì anh muốn."
 
 # game/characters/grace/ev_13.rpy:279
 translate vietnamese grace_13_part2_ec305398:
 
     # alice "Then she went out to get herself some new toys. And just then you've come to ask her for a dildo for your lover. Just as she found a new one.."
-    alice "Then she went out to get herself some new toys. And just then you've come to ask her for a dildo for your lover. Just as she found a new one.."
+    alice "Sau đó, cô ấy đi ra ngoài để lấy cho mình vài món đồ chơi mới. Rồi ngay sau đó anh đến để hỏi cô ấy một con cu giả cho người yêu của anh. Cũng như cô ấy tìm thấy một cái mới..."
 
 # game/characters/grace/ev_13.rpy:280
 translate vietnamese grace_13_part2_71db0299:
 
     # alice "I don't even want to strangle you. I'm too tired for it. Your luck is so bullshit that I'm starting to consider if you're not some weird monster."
-    alice "I don't even want to strangle you. I'm too tired for it. Your luck is so bullshit that I'm starting to consider if you're not some weird monster."
+    alice "Em thậm chí còn không muốn bóp cổ anh đấy. Em quá mệt mỏi vì nó rồi. Vận may của anh thật nhảm nhí đến mức em đang bắt đầu cân nhắc việc anh không phải là một con quái vật kỳ quặc."
 
 # game/characters/grace/ev_13.rpy:281
 translate vietnamese grace_13_part2_49584483:
 
     # me "I'm sorry."
-    me "I'm sorry."
+    me "Anh xin lỗi."
 
 # game/characters/grace/ev_13.rpy:282
 translate vietnamese grace_13_part2_cb5f7be9:
 
     # alice "We both know you're not."
-    alice "We both know you're not."
+    alice "Cả hai ta đều biết là anh không có."
 
 # game/characters/grace/ev_13.rpy:283
 translate vietnamese grace_13_part2_da1039d8:
 
     # me "I'm sorry about letting you down."
-    me "I'm sorry about letting you down."
+    me "Anh xin lỗi vì đã làm em thất vọng."
 
 # game/characters/grace/ev_13.rpy:284
 translate vietnamese grace_13_part2_c296745b:
 
     # alice "Who?"
-    alice "Who?"
+    alice "Ai?"
 
 # game/characters/grace/ev_13.rpy:285
 translate vietnamese grace_13_part2_db0f95fe:
 
     # me "It's-"
-    me "It's-"
+    me "Là-"
 
 # game/characters/grace/ev_13.rpy:286
 translate vietnamese grace_13_part2_b9ba8221:
 
     # alice "Nevermind. You know what? I'll give you this dildo."
-    alice "Nevermind. You know what? I'll give you this dildo."
+    alice "Thôi bỏ đi. Anh biêt gì không? Em sẽ cho anh cái con cặc giả này."
 
 # game/characters/grace/ev_13.rpy:287
 translate vietnamese grace_13_part2_6215412e:
 
     # me "You will?"
-    me "You will?"
+    me "Thật á?"
 
 # game/characters/grace/ev_13.rpy:288
 translate vietnamese grace_13_part2_770b3cd4:
 
     # alice "Yeah. I will."
-    alice "Yeah. I will."
+    alice "Yeah. Thật."
 
 # game/characters/grace/ev_13.rpy:289
 translate vietnamese grace_13_part2_1a3252b4:
 
     # me "Are you.. alright?"
-    me "Are you.. alright?"
+    me "em có... ổn chứ?"
 
 # game/characters/grace/ev_13.rpy:290
 translate vietnamese grace_13_part2_cceef26c:
 
     # alice "Do you really have the nerve to ask?"
-    alice "Do you really have the nerve to ask?"
+    alice "Anh thực sự có gan để hỏi á?"
 
 # game/characters/grace/ev_13.rpy:291
 translate vietnamese grace_13_part2_38f2ff43:
 
     # me "Nothing changes my feelings for you. I care about you."
-    me "Nothing changes my feelings for you. I care about you."
+    me "Không có gì thay đổi được tình cảm của anh dành cho em. Anh quan tâm đến em."
 
 # game/characters/grace/ev_13.rpy:292
 translate vietnamese grace_13_part2_fb3bc1d3:
 
     # alice "You'll get your dildo, but there's one condition."
-    alice "You'll get your dildo, but there's one condition."
+    alice "Anh sẽ nhận được cái dương vật giả của mình, nhưng có một điều kiện."
 
 # game/characters/grace/ev_13.rpy:293
 translate vietnamese grace_13_part2_2930e26f:
@@ -868,55 +868,55 @@ translate vietnamese grace_13_part2_2930e26f:
 translate vietnamese grace_13_part2_8ecb575d:
 
     # alice "I don't care who you need this dildo for. But I'm coming with you, and you're going to fuck me hard as she fucks herself while watching us."
-    alice "I don't care who you need this dildo for. But I'm coming with you, and you're going to fuck me hard as she fucks herself while watching us."
+    alice "Em không quan tâm anh cần cái này cho ai. Nhưng em sẽ đi với anh, và anh sẽ địt em thật mạnh khi cô ta tự xử trong lúc quan sát chúng ta."
 
 # game/characters/grace/ev_13.rpy:295
 translate vietnamese grace_13_part2_b8d24624:
 
     # me "Holy.."
-    me "Holy.."
+    me "Vãi..."
 
 # game/characters/grace/ev_13.rpy:296
 translate vietnamese grace_13_part2_c2b732f4:
 
     # th "Holy fuck!"
-    th "Holy fuck!"
+    th "Vãi lồn!"
 
 # game/characters/grace/ev_13.rpy:297
 translate vietnamese grace_13_part2_e4e64a0c:
 
     # alice "You won't touch her, you won't look at her and you won't think about her. I'll be the only one in your eyes today."
-    alice "You won't touch her, you won't look at her and you won't think about her. I'll be the only one in your eyes today."
+    alice "Anh sẽ không chạm vào cô ta, anh sẽ không nhìn cô ta và anh sẽ không nghĩ về cô ta. Em sẽ là người duy nhất trong mắt anh hôm nay."
 
 # game/characters/grace/ev_13.rpy:301
 translate vietnamese grace_13_part2_5b5ae53b:
 
     # alice "Ahh.. You're hard already.."
-    alice "Ahh.. You're hard already.."
+    alice "Ahh... Chưa gì anh đã cứng lên rồi.."
 
 # game/characters/grace/ev_13.rpy:305
 translate vietnamese grace_13_part2_2b3315aa:
 
     # alice "I'll take it as a yes. Actually, it's even better that you're hard."
-    alice "I'll take it as a yes. Actually, it's even better that you're hard."
+    alice "Em sẽ coi đó là có. Mà, thậm chí còn tốt hơn nếu anh đang cửng."
 
 # game/characters/grace/ev_13.rpy:306
 translate vietnamese grace_13_part2_007eea50:
 
     # alice "Where is she?"
-    alice "Where is she?"
+    alice "Cô ta đâu?"
 
 # game/characters/grace/ev_13.rpy:307
 translate vietnamese grace_13_part2_695b1bee:
 
     # me "My room.."
-    me "My room.."
+    me "Phòng anh..."
 
 # game/characters/grace/ev_13.rpy:308
 translate vietnamese grace_13_part2_d062ed29:
 
     # alice "Great. Get naked."
-    alice "Great. Get naked."
+    alice "Tuyệt. Khỏa thân đi."
 
 # game/characters/grace/ev_13.rpy:309
 translate vietnamese grace_13_part2_63280a2d:
@@ -928,61 +928,61 @@ translate vietnamese grace_13_part2_63280a2d:
 translate vietnamese grace_13_part2_0963a9e0:
 
     # alice "You won't be needing any clothes anymore."
-    alice "You won't be needing any clothes anymore."
+    alice "Anh sẽ không cần quần áo nữa đâu."
 
 # game/characters/grace/ev_13.rpy:311
 translate vietnamese grace_13_part2_6d31e30d:
 
     # me "Here?"
-    me "Here?"
+    me "Ở đây?"
 
 # game/characters/grace/ev_13.rpy:312
 translate vietnamese grace_13_part2_8e48359e:
 
     # alice "Yes, right here. Don't even try to tell me you can't do it. We both know you have no shame."
-    alice "Yes, right here. Don't even try to tell me you can't do it. We both know you have no shame."
+    alice "Đsung rồi, ngay đây. Đừng cố nói với em rằng anh không thể làm được nhá. Cả hai chúng ta đều biết rằng anh không có liêm sỉ mà."
 
 # game/characters/grace/ev_13.rpy:313
 translate vietnamese grace_13_part2_c44b6f93:
 
     # me "Actually, I-"
-    me "Actually, I-"
+    me "Thực ra là a-"
 
 # game/characters/grace/ev_13.rpy:314
 translate vietnamese grace_13_part2_a6167a27:
 
     # alice "What?"
-    alice "What?"
+    alice "Gì?"
 
 # game/characters/grace/ev_13.rpy:315
 translate vietnamese grace_13_part2_00d560a8:
 
     # th "I really put her off today.. It won't end well if I go against her today."
-    th "I really put her off today.. It won't end well if I go against her today."
+    th "Hôm nay mình đã thực sự khiến em ấy khó chịu... Sẽ không có kết cục tốt đẹp nếu hôm nay mình chống lại em ấy."
 
 # game/characters/grace/ev_13.rpy:319
 translate vietnamese grace_13_part2_6bce4849:
 
     # "You don't think much, and do as she says. A short while later you're nude already."
-    "You don't think much, and do as she says. A short while later you're nude already."
+    "Bạn không cần suy nghĩ nhiều, bạn làm theo lời cô ấy nói."
 
 # game/characters/grace/ev_13.rpy:320
 translate vietnamese grace_13_part2_544bba76:
 
     # th "Maybe it's because it's a public place and uncommon situation, but my balls feel cold."
-    th "Maybe it's because it's a public place and uncommon situation, but my balls feel cold."
+    th "Có lẽ vì đó là nơi công cộng và tình huống không phổ biến, nhưng hai quả cà của mình cảm thấy lạnh rồi đấy."
 
 # game/characters/grace/ev_13.rpy:321
 translate vietnamese grace_13_part2_cff0202c:
 
     # th "I'm excited for what's to come, though."
-    th "I'm excited for what's to come, though."
+    th "Tuy nhiên, mình lại rất vui háo hức cho những gì sắp xảy ra."
 
 # game/characters/grace/ev_13.rpy:325
 translate vietnamese grace_13_part2_ebfd0f5a:
 
     # alice "Cool. Let's go."
-    alice "Cool. Let's go."
+    alice "Được rồi đi thôi."
 
 # game/characters/grace/ev_13.rpy:329
 translate vietnamese grace_13_part2_63280a2d_1:
@@ -994,31 +994,31 @@ translate vietnamese grace_13_part2_63280a2d_1:
 translate vietnamese grace_13_part2_0ad048bb:
 
     # alice "What are you waiting for? Let's go."
-    alice "What are you waiting for? Let's go."
+    alice "Anh còn đợi gì nữa? Đi thôi."
 
 # game/characters/grace/ev_13.rpy:334
 translate vietnamese grace_13_part2_2cce6625:
 
     # me "You know I can walk on my own, right?"
-    me "You know I can walk on my own, right?"
+    me "Em biết là anh không thể tự đi mà, phải không?"
 
 # game/characters/grace/ev_13.rpy:335
 translate vietnamese grace_13_part2_a1c694c8:
 
     # alice "I would rather walk you there, lest you run off and bring another girl."
-    alice "I would rather walk you there, lest you run off and bring another girl."
+    alice "Em thà dẫn anh đến đó, kẻo anh chạy mất và mang theo một cô gái khác."
 
 # game/characters/grace/ev_13.rpy:339
 translate vietnamese grace_13_part2_9b40c611:
 
     # me "You're overestimating me.."
-    me "You're overestimating me.."
+    me "Em đang đánh giá quá cao anh rồi đấy..."
 
 # game/characters/grace/ev_13.rpy:340
 translate vietnamese grace_13_part2_193684a9:
 
     # alice "Do I?"
-    alice "Do I?"
+    alice "Vậy sao?"
 
 # game/characters/grace/ev_13.rpy:346
 translate vietnamese grace_13_part2_74f05a4e_1:
@@ -1030,7 +1030,7 @@ translate vietnamese grace_13_part2_74f05a4e_1:
 translate vietnamese grace_13_part2_2c5095e5:
 
     # grace "Alice! Did you come to have fun together?"
-    grace "Alice! Did you come to have fun together?"
+    grace "Alice! Có ơhair chị đến để vui vẻ cùng nhau không?"
 
 # game/characters/grace/ev_13.rpy:348
 translate vietnamese grace_13_part2_4f3d3778:
@@ -1048,31 +1048,31 @@ translate vietnamese grace_13_part2_6785731a:
 translate vietnamese grace_13_part2_9b309b14:
 
     # "A silent groan escapes your mouth as [alice]'s fingernails dig into your dick."
-    "A silent groan escapes your mouth as [alice]'s fingernails dig into your dick."
+    "Một tiếng rên rỉ âm thầm thoát ra khỏi miệng bạn khi móng tay của [alice] cắm sâu vào... thằng nhỏ của bạn    R.I.P."
 
 # game/characters/grace/ev_13.rpy:354
 translate vietnamese grace_13_part2_99a1c193:
 
     # grace "Why are you naked?"
-    grace "Why are you naked?"
+    grace "Tại sao anh lại cởi chuồng vậy?"
 
 # game/characters/grace/ev_13.rpy:355
 translate vietnamese grace_13_part2_dfac9b69:
 
     # me "It's a long story.."
-    me "It's a long story.."
+    me "Đó là một câu chuyện dài.."
 
 # game/characters/grace/ev_13.rpy:356
 translate vietnamese grace_13_part2_a18c65d1:
 
     # grace "I see."
-    grace "I see."
+    grace "Em hiểu rồi."
 
 # game/characters/grace/ev_13.rpy:360
 translate vietnamese grace_13_part2_1faada5b:
 
     # grace "Will you lend me a toy, Alice?"
-    grace "Will you lend me a toy, Alice?"
+    grace "Chị cho em mượn đồ chơi được không?, Alice?"
 
 # game/characters/grace/ev_13.rpy:361
 translate vietnamese grace_13_part2_e2707a98:
@@ -1084,25 +1084,25 @@ translate vietnamese grace_13_part2_e2707a98:
 translate vietnamese grace_13_part2_239c31e5:
 
     # alice "{small}He's unbelievable..{/small} I'll give you one as a gift."
-    alice "{small}He's unbelievable..{/small} I'll give you one as a gift."
+    alice "{small}Anh ấy thật không thể tin được..{/small} Chị sẽ tặng em một cái như một món quà."
 
 # game/characters/grace/ev_13.rpy:366
 translate vietnamese grace_13_part2_442f607d:
 
     # grace "Thank you!"
-    grace "Thank you!"
+    grace "Cảm ơn!"
 
 # game/characters/grace/ev_13.rpy:367
 translate vietnamese grace_13_part2_e307c410:
 
     # alice "Why do you want it, though?"
-    alice "Why do you want it, though?"
+    alice "Nhưng sao em lại muốn nó?"
 
 # game/characters/grace/ev_13.rpy:371
 translate vietnamese grace_13_part2_45608f14:
 
     # grace "I've seen you having fun with a toy yesterday.. You looked very happy, so I wanted to try too.."
-    grace "I've seen you having fun with a toy yesterday.. You looked very happy, so I wanted to try too.."
+    grace "Em đã thấy chị vui vẻ với một món đồ chơi này vào ngày hôm qua... Chị trông rất hạnh phúc, vì vậy nên em cũng muốn thử.."
 
 # game/characters/grace/ev_13.rpy:372
 translate vietnamese grace_13_part2_5f492dfb:
@@ -1114,49 +1114,49 @@ translate vietnamese grace_13_part2_5f492dfb:
 translate vietnamese grace_13_part2_5291e38b:
 
     # alice "Why didn't you come to me, though?"
-    alice "Why didn't you come to me, though?"
+    alice "Nhưng sao em không đến nói với chị?"
 
 # game/characters/grace/ev_13.rpy:377
 translate vietnamese grace_13_part2_046b5796:
 
     # grace "It's about having fun. It's [me] that shows me how one can have fun."
-    grace "It's about having fun. It's [me] that shows me how one can have fun."
+    grace "Đó là về niềm vui. [me] đã cho em thấy làm thế nào một người có thể vui vẻ."
 
 # game/characters/grace/ev_13.rpy:378
 translate vietnamese grace_13_part2_c8ae527f:
 
     # alice "Of course he does.."
-    alice "Of course he does.."
+    alice "Tất nhiên là anh ấy biết..."
 
 # game/characters/grace/ev_13.rpy:379
 translate vietnamese grace_13_part2_85b03400:
 
     # me "Well.."
-    me "Well.."
+    me "Well..."
 
 # game/characters/grace/ev_13.rpy:383
 translate vietnamese grace_13_part2_533b7c39:
 
     # grace "Does he also have fun with you?" id grace_13_part2_533b7c39
-    grace "Does he also have fun with you?" id grace_13_part2_533b7c39
+    grace "Anh ấy có vui vẻ với chị không?" id grace_13_part2_533b7c39
 
 # game/characters/grace/ev_13.rpy:384
 translate vietnamese grace_13_part2_079e2b9b:
 
     # alice "Yeah.. He's my boyfriend.."
-    alice "Yeah.. He's my boyfriend.."
+    alice "Yeah... Anh ấy là bạn trai của chị.."
 
 # game/characters/grace/ev_13.rpy:385
 translate vietnamese grace_13_part2_3b738214:
 
     # grace "Mm. Didn't you say that it's bad for a boyfriend to have fun with girls other than his girlfriend, though?"
-    grace "Mm. Didn't you say that it's bad for a boyfriend to have fun with girls other than his girlfriend, though?"
+    grace "Mm. Chẳng phải chị đã nói rằng việc bạn trai chị vui vẻ với những cô gái khác ngoài bạn gái của anh ấy là xấu sao??"
 
 # game/characters/grace/ev_13.rpy:386
 translate vietnamese grace_13_part2_b34c2632:
 
     # alice "I did say that."
-    alice "I did say that."
+    alice "Đúng là chị có nói thế thật."
 
 # game/characters/grace/ev_13.rpy:390
 translate vietnamese grace_13_part2_4789ba3b:
@@ -1168,31 +1168,31 @@ translate vietnamese grace_13_part2_4789ba3b:
 translate vietnamese grace_13_part2_ef9ad926:
 
     # grace "[me] is bad in the end?!"
-    grace "[me] is bad in the end?!"
+    grace "Vậy [me] là người xấu sao?!"
 
 # game/characters/grace/ev_13.rpy:398
 translate vietnamese grace_13_part2_081ff72a:
 
     # grace "Wait. Am I bad too?"
-    grace "Wait. Am I bad too?"
+    grace "Chờ đã. Em cũng xấu?"
 
 # game/characters/grace/ev_13.rpy:399
 translate vietnamese grace_13_part2_49f440be:
 
     # alice "Are you?"
-    alice "Are you?"
+    alice "Thế à?"
 
 # game/characters/grace/ev_13.rpy:403
 translate vietnamese grace_13_part2_7125a360:
 
     # grace "You said that girls that have fun with someone's boyfriend are sluts. Sluts are bad, right?"
-    grace "You said that girls that have fun with someone's boyfriend are sluts. Sluts are bad, right?"
+    grace "Chị đã nói rằng những cô gái vui vẻ với bạn trai của ai đó là một con đĩ đĩ. Và đĩ thật tệ, đúng không?"
 
 # game/characters/grace/ev_13.rpy:404
 translate vietnamese grace_13_part2_623d2e62:
 
     # alice "Are you calling yourself a slut?"
-    alice "Are you calling yourself a slut?"
+    alice "Em tự gọi mình là đĩ à?"
 
 # game/characters/grace/ev_13.rpy:408
 translate vietnamese grace_13_part2_9eec99da:
@@ -1204,7 +1204,7 @@ translate vietnamese grace_13_part2_9eec99da:
 translate vietnamese grace_13_part2_ab393956:
 
     # grace "Am I bad? Gracie has always wanted to be a good girl, though."
-    grace "Am I bad? Gracie has always wanted to be a good girl, though."
+    grace "Em tệ đến thế sao? Gracie vẫn luôn là một cô gái ngoan mà."
 
 # game/characters/grace/ev_13.rpy:413
 translate vietnamese grace_13_part2_74f05a4e_2:
@@ -1222,37 +1222,37 @@ translate vietnamese grace_13_part2_3820771a_4:
 translate vietnamese grace_13_part2_3dfe3b39:
 
     # th "Her thought process is really something else.."
-    th "Her thought process is really something else.."
+    th "Quá trình suy nghĩ của em ấy thực sự là một cái gì đó rất khác.."
 
 # game/characters/grace/ev_13.rpy:416
 translate vietnamese grace_13_part2_3f06563d:
 
     # me "Don't blame yourself. You're a good girl."
-    me "Don't blame yourself. You're a good girl."
+    me "Đừng tự trách mình nữa. Em là một cô gái tốt."
 
 # game/characters/grace/ev_13.rpy:417
 translate vietnamese grace_13_part2_8044dd84:
 
     # alice "Yeah. Don't worry Gracie, I'm not mad. You didn't know. It's my {i}boyfriend{/i} that's bad."
-    alice "Yeah. Don't worry Gracie, I'm not mad. You didn't know. It's my {i}boyfriend{/i} that's bad."
+    alice "Yeah. Đừng lo nữa Gracie, chị không giận. Em không biết gì hết. Đó là tại {i}bạn trai{/i} của chị rất tệ."
 
 # game/characters/grace/ev_13.rpy:421
 translate vietnamese grace_13_part2_63c0be07:
 
     # grace "I see.. But.."
-    grace "I see.. But.."
+    grace "Em hiểu rồi... nhưng..."
 
 # game/characters/grace/ev_13.rpy:422
 translate vietnamese grace_13_part2_6b2a5354:
 
     # alice "Yes?"
-    alice "Yes?"
+    alice "Sao?"
 
 # game/characters/grace/ev_13.rpy:426
 translate vietnamese grace_13_part2_bd5746c2:
 
     # grace "Why do I like him if he's bad?"
-    grace "Why do I like him if he's bad?"
+    grace "Tại sao em thích anh ấy nếu anh ấy xấu?"
 
 # game/characters/grace/ev_13.rpy:427
 translate vietnamese grace_13_part2_97f6e87a:
@@ -1264,43 +1264,43 @@ translate vietnamese grace_13_part2_97f6e87a:
 translate vietnamese grace_13_part2_993f86c4:
 
     # alice "[me], you're really something. I didn't even notice Gracie had a crush on you. I talk with her every day."
-    alice "[me], you're really something. I didn't even notice Gracie had a crush on you. I talk with her every day."
+    alice "[me], anh thực sự là một cái gì đó. Em thậm chí còn không nhận thấy Gracie đã phải lòng anh luôn đấy. Em nói chuyện với em ấy mỗi ngày luôn đấy."
 
 # game/characters/grace/ev_13.rpy:429
 translate vietnamese grace_13_part2_77188753:
 
     # me "Sometimes I'm amazed by myself too."
-    me "Sometimes I'm amazed by myself too."
+    me "Đôi lúc anh cũng làm chính mình ngạc nhiên."
 
 # game/characters/grace/ev_13.rpy:430
 translate vietnamese grace_13_part2_9d1d4148:
 
     # grace "A crush?"
-    grace "A crush?"
+    grace "Phải lòng?"
 
 # game/characters/grace/ev_13.rpy:431
 translate vietnamese grace_13_part2_d4d40438:
 
     # alice "Yeah. It means you want to see this person, you like being with him, you are happy to have fun with him."
-    alice "Yeah. It means you want to see this person, you like being with him, you are happy to have fun with him."
+    alice "Yeah. Nó có nghĩa là em muốn nhìn thấy người này, em thích ở bên anh ta, em hạnh phúc khi được vui vẻ với anh ta."
 
 # game/characters/grace/ev_13.rpy:435
 translate vietnamese grace_13_part2_0d86be67:
 
     # grace "Mm. I get it."
-    grace "Mm. I get it."
+    grace "Mm. Em hiểu rồi."
 
 # game/characters/grace/ev_13.rpy:439
 translate vietnamese grace_13_part2_500c431d:
 
     # grace "Are you really not mad at me? Is it okay for me to have fun with [me] then?"
-    grace "Are you really not mad at me? Is it okay for me to have fun with [me] then?"
+    grace "Chị có thực sự không giận em không? Vậy thì em có được vui vẻ với [me] không??"
 
 # game/characters/grace/ev_13.rpy:440
 translate vietnamese grace_13_part2_81ad8c41:
 
     # alice "If it was anyone else I would be mad, but you're too cute to be mad at you."
-    alice "If it was anyone else I would be mad, but you're too cute to be mad at you."
+    alice "Nếu đó là ai khác, chị sẽ tức điên lên, nhưng em quá đáng yêu để chị giận em."
 
 # game/characters/grace/ev_13.rpy:444
 translate vietnamese grace_13_part2_baf8f4db:
@@ -1312,7 +1312,7 @@ translate vietnamese grace_13_part2_baf8f4db:
 translate vietnamese grace_13_part2_e59bdd21:
 
     # alice "As for having fun.."
-    alice "As for having fun.."
+    alice "Đoạn này dịch giả bận rồi. saiyonara.."
 
 # game/characters/grace/ev_13.rpy:446
 translate vietnamese grace_13_part2_eda2db3c:
@@ -4434,15 +4434,15 @@ translate vietnamese strings:
 
     # game/characters/grace/ev_13.rpy:156
     old "You know what, I was wrong, go"
-    new "You know what, I was wrong, go"
+    new "Em biết gì không, anh sai rồi, đi đi"
 
     # game/characters/grace/ev_13.rpy:156
     old "Forget it"
-    new "Forget it"
+    new "Quên nó đi"
 
     # game/characters/grace/ev_13.rpy:840
     old "Reject"
-    new "Reject"
+    new "Từ chối"
 
     # game/characters/grace/ev_13.rpy:1303
     old ", "
@@ -4450,7 +4450,7 @@ translate vietnamese strings:
 
     # game/characters/grace/ev_13.rpy:1303
     old ", and "
-    new ", and "
+    new ", và "
 
 # TODO: Translation updated at 2022-06-22 09:23
 
@@ -4458,5 +4458,4 @@ translate vietnamese strings:
 translate vietnamese grace_13_c3120170:
 
     # grace "No. I just wanted to talk with you."
-    grace "No. I just wanted to talk with you."
-
+    grace "Không em chỉ muốn nói chuyện với anh thôi."

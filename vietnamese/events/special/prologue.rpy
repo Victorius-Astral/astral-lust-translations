@@ -3112,7 +3112,7 @@ translate vietnamese prologue_ask_lexi_a32b8f68:
 translate vietnamese prologue_ask_lexi_ab9521e5:
 
     # lexi "Yeah. Do you think I would be willing to live in a place like this? Among people like this?"
-    lexi "Yeah. Bạn có nghĩ tôi sẽ sẵn sàng sống ở một nơi như thế này không? Giữa những người như thế này?"
+    lexi "Yeah. Anh có nghĩ là em sẽ sẵn sàng sống ở một nơi như thế này không? Giữa những người như thế này?"
 
 # game/events/special/prologue.rpy:991
 translate vietnamese prologue_ask_lexi_538a7df6:
@@ -4996,4 +4996,4 @@ translate vietnamese prologue_end_60f846bf:
 translate vietnamese prologue_lexi1_618b6156:
 
     # lexi "They were overrun by monsters. Most monsters, army was able to deal with, but some of them.."
-    lexi "Họ đã bị lũ quái vật bao vây. Hầu hết quái vật, quân đội có thể đối phó chúng, nhưng một số.."
+    lexi "Họ đã bị lũ quái vật bao vây. Hầu hết quái vật, quân đội có thể đối phó chúng, nhưng một số..."

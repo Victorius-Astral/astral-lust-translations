@@ -98,5 +98,4 @@ translate vietnamese strings:
 
     # game/variables/lists/items.rpy:80
     old "Premium Ice Cream"
-    new "Premium Ice Cream"
-
+    new "Kem hảo hạng"

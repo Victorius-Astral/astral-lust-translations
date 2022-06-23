@@ -375,5 +375,4 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:216
     old "Four of them can be used during the new events, there are two consumables (and a new buff), and pouches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
-    new "Four of them can be used during the new events, there are two consumables (and a new buff), and pouches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
-
+    new "Bốn trong số chúng có thể được sử dụng trong các sự kiện mới, có hai vật phẩm tiêu hao (và một buff mới), cùng những chiếc rương + rương có chìa khóa dùng để mở chúng. Bạn sẽ trở nên giàu có chỉ sau một đêm? Hãy đi kiếm hoặc mua chúng để thử vận may của bạn! Hãy thử code {b}{i}NewPouches{/i}{/b} để nhận một vài túi phần thưởng :)"

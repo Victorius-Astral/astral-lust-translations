@@ -384,17 +384,16 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "I'm really curious about her laptop. Maybe I should check it again and ask her?"
-    new "I'm really curious about her laptop. Maybe I should check it again and ask her?"
+    new "Tôi thực sự rất tò mò về máy tính xách tay của cô ấy. Có lẽ tôi nên kiểm tra lại và hỏi cô ấy?"
 
     # game/variables/tips.rpy:4
     old "She asked me to get 2 ice creams for our date, I should return to her when I get them to arrange a date."
-    new "She asked me to get 2 ice creams for our date, I should return to her when I get them to arrange a date."
+    new "Cô ấy yêu cầu tôi lấy 2 cái kem cho buổi hẹn hò của chúng tôi, tôi nên đưa cho cô ấy khi tôi nhận được chúng để sắp xếp một cuộc hẹn."
 
     # game/variables/tips.rpy:4
     old "The last drinking session with her got us really drunk, maybe she wants another go?"
-    new "The last drinking session with her got us really drunk, maybe she wants another go?"
+    new "Buổi uống rượu cuối cùng với cô ấy khiến chúng tôi thực sự say, có lẽ cô ấy muốn đi tiếp?"
 
     # game/variables/tips.rpy:4
     old "I need to get vodka for her."
-    new "I need to get vodka for her."
-
+    new "Tôi cần lấy vodka cho cô ấy."

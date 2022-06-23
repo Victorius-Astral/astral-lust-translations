@@ -762,5 +762,4 @@ translate vietnamese strings:
 
     # game/characters/lexi/speak.rpy:68
     old "Why is your laptop locked? {gold}(Story){/gold}"
-    new "Why is your laptop locked? {gold}(Story){/gold}"
-
+    new "Tại sao laptop cảu em lại bị khóa vậy? {gold}(Cốt Truyện){/gold}"
