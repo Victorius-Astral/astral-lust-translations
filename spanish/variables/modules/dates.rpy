@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/variables/modules/dates.rpy:16
     old "Date completed!\nYour score is: {score}\nRecord: {record}"
-    new "¡Cita completada!\nTu puntuación es: {score}\nRécord: {record}"
+    new "¡Cita completada!\nTu puntuación es: {score}\nRécord: {record} "

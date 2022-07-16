@@ -3043,4 +3043,4 @@ translate spanish strings:
 
     # game/characters/alice/speak.rpy:656
     old "Let's skip this"
-    new "Vamos a saltarnos esto"
+    new "Vamos a saltarnos esto "

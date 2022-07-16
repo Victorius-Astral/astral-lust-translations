@@ -5082,4 +5082,4 @@ translate spanish prologue_grace_1f44a24c:
 translate spanish prologue_grace_083d6cb0:
 
     # lexi "Any questions?"
-    lexi "¿Alguna pregunta?"
+    lexi "¿Alguna pregunta? "

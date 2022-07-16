@@ -724,4 +724,4 @@ translate spanish strings:
 
     # game/variables/replays.rpy:98
     old "Kitchen Date"
-    new "Cita en la Cocina"
+    new "Cita en la Cocina "

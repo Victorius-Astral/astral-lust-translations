@@ -115,4 +115,4 @@ translate spanish strings:
 
     # game/screens/menus/girls/alice.rpy:46
     old "• Rubbing: "
-    new "• Frotar: "
+    new "• Frotar:"

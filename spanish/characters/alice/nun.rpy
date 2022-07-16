@@ -94,4 +94,4 @@ translate spanish strings:
 
     # game/characters/alice/nun.rpy:45
     old "Later"
-    new "Más tarde"
+    new "Más tarde "

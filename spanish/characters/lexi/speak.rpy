@@ -1161,4 +1161,4 @@ translate spanish strings:
 
     # game/characters/lexi/speak.rpy:68
     old "Why is your laptop locked? {gold}(Story){/gold}"
-    new "¿Por qué tienes contraseña para tu portátil? {gold}(Historia){/gold}"
+    new "¿Por qué tienes contraseña para tu portátil? {gold}(Historia){/gold} "

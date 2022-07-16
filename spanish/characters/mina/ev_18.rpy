@@ -1218,4 +1218,4 @@ translate spanish mina_18_part3_2b5c15d7:
 translate spanish mina_18_part3_88eab5f5:
 
     # me "Haha."
-    me "Haha."
+    me "Haha. "

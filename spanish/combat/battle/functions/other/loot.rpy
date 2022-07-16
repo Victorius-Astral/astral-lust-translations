@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/battle/functions/other/loot.rpy:85
     old "In decks: "
-    new "En mazos: "
+    new "En mazos:"

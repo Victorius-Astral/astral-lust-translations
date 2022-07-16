@@ -844,4 +844,4 @@ translate spanish rhainda_3_c9c2af9f:
 translate spanish rhainda_3_84dd3289:
 
     # me "Take care."
-    me "Cuídate."
+    me "Cuídate. "

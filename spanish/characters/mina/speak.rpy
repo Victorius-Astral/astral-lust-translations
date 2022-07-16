@@ -1267,4 +1267,4 @@ translate spanish strings:
 translate spanish speak_mina_menu1_4ba83588:
 
     # mina "Man, let me rest."
-    mina "Hombre, déjame descansar."
+    mina "Hombre, déjame descansar. "

@@ -131,4 +131,4 @@ translate spanish strings:
 
     # game/screens/gui/credits.rpy:49
     old "Models made in {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} by {a=http://www.illusion.jp}Illusion{/a}"
-    new "Modelos hechos en {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} de {a=http://www.illusion.jp}Illusion{/a}"
+    new "Modelos hechos en {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} de {a=http://www.illusion.jp}Illusion{/a} "

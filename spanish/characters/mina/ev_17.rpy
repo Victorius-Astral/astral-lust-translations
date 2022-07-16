@@ -388,4 +388,4 @@ translate spanish strings:
 
     # game/characters/mina/ev_17.rpy:98
     old "Got it"
-    new "Entiendo"
+    new "Entiendo "

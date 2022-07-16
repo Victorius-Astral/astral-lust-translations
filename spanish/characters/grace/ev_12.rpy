@@ -850,4 +850,4 @@ translate spanish grace_12_69e8fca2:
 translate spanish grace_12_68466954:
 
     # th "Wow, this liveliness does her good. Haha, she's even more adorable now."
-    th "Wow, esta vivacidad le hace bien. Haha, ahora es aún más adorable."
+    th "Wow, esta vivacidad le hace bien. Haha, ahora es aún más adorable. "

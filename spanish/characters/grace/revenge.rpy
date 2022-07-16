@@ -184,4 +184,4 @@ translate spanish grace_revenge_74964c50:
 translate spanish grace_revenge_20cbe9c7:
 
     # me "Ahhh..."
-    me "Ahhh..."
+    me "Ahhh... "

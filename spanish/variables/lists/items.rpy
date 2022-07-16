@@ -91,4 +91,4 @@ translate spanish strings:
 
     # game/variables/lists/items.rpy:83
     old "The finest of wines made in 20th century."
-    new "El mejor de los vinos elaborados en el siglo XX."
+    new "El mejor de los vinos elaborados en el siglo XX. "
