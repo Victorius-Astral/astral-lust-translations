@@ -6619,7 +6619,7 @@ translate spanish strings:
 
     # game/characters/lexi/kitchen_date.rpy:1249
     old "Take it out"
-    new "Muestraselo"
+    new "Muéstraselo"
 
     # game/characters/lexi/kitchen_date.rpy:1249
     old "Keep it for now"
@@ -6631,7 +6631,7 @@ translate spanish strings:
 
     # game/characters/lexi/kitchen_date.rpy:1329
     old "Her relationship with Jack"
-    new "Su relación con  Jack"
+    new "Su relación con Jack"
 
     # game/characters/lexi/kitchen_date.rpy:1329
     old "Dream job"
