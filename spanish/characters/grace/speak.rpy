@@ -1790,4 +1790,4 @@ translate spanish strings:
 
     # game/characters/grace/speak.rpy:27
     old "Tell her about the date"
-    new "Cuéntale sobre la cita "
+    new "Cuéntale sobre la cita"

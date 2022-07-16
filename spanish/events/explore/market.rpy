@@ -237,4 +237,4 @@ translate spanish strings:
 translate spanish exp_market_menu_c1884038:
 
     # th "Gotta get something special for [lexi]."
-    th "Tengo que conseguir algo especial para [lexi]. "
+    th "Tengo que conseguir algo especial para [lexi]."

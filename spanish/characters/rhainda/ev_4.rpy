@@ -682,4 +682,4 @@ translate spanish rhainda_4_b00c184b:
 translate spanish rhainda_4_b591e5da:
 
     # me "Be careful."
-    me "Ten cuidado. "
+    me "Ten cuidado."

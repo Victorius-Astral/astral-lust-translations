@@ -31,4 +31,4 @@ translate spanish strings:
 
     # game/functions/buffs/list.rpy:5
     old "Get {amount:+} spirituality each turn."
-    new "Consigue {amount:+} espiritualidad cada turno. "
+    new "Consigue {amount:+} espiritualidad cada turno."

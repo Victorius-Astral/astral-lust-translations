@@ -334,4 +334,4 @@ translate spanish lexi_14_272c07fe:
 translate spanish lexi_14_12509694:
 
     # me "Me too, [lexi]."
-    me "Yo igual, [lexi]. "
+    me "Yo igual, [lexi]."

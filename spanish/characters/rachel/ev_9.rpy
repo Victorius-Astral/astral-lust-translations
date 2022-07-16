@@ -598,4 +598,4 @@ translate spanish rachel_9_f24abb19:
 translate spanish rachel_9_88eab5f5:
 
     # me "Haha."
-    me "Haha. "
+    me "Haha."

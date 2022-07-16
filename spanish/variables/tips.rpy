@@ -396,4 +396,4 @@ translate spanish strings:
 
     # game/variables/tips.rpy:4
     old "I need to get vodka for her."
-    new "Tengo que conseguirle vodka. "
+    new "Tengo que conseguirle vodka."

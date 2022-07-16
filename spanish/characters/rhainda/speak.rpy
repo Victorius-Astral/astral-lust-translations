@@ -536,4 +536,4 @@ translate spanish strings:
 
     # game/characters/rhainda/speak.rpy:66
     old "I wanted to ask about your dress, the Cheongsam {gold}(Story){/gold}"
-    new "Quería preguntarte por tu vestido, el Cheongsam {gold}(Historia){/gold} "
+    new "Quería preguntarte por tu vestido, el Cheongsam {gold}(Historia){/gold}"

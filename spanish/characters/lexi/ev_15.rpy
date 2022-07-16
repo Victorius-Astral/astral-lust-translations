@@ -186,4 +186,4 @@ translate spanish lexi_15_4aad3944:
 translate spanish lexi_15_80125f39:
 
     # me "Have a good night."
-    me "Que tengas una buena noche. "
+    me "Que tengas una buena noche."

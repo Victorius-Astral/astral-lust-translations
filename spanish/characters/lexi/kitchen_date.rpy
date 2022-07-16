@@ -6937,4 +6937,4 @@ translate spanish strings:
 
     # game/characters/lexi/kitchen_date.rpy:1343
     old "Keep it for now {#visible}"
-    new "Guárdalo por ahora {#visible} "
+    new "Guárdalo por ahora {#visible}"

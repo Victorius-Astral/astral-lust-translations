@@ -61,4 +61,4 @@ translate spanish strings:
 
     # game/variables/classes/Astral.rpy:465
     old "Lost items:"
-    new "Objetos perdidos: "
+    new "Objetos perdidos:"

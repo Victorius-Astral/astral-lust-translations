@@ -1613,4 +1613,4 @@ translate spanish strings:
 
     # game/characters/grace/sleep.rpy:32
     old "Turn to her feet {#visible}"
-    new "Mira hacia sus pies {#visible} "
+    new "Mira hacia sus pies {#visible}"

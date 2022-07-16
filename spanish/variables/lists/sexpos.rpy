@@ -265,4 +265,4 @@ translate spanish strings:
 
     # game/variables/lists/sexpos.rpy:3
     old "Cunnilingus - Against the Counter"
-    new "Cunnilingus - Contra el Mostrador "
+    new "Cunnilingus - Contra el Mostrador"

@@ -4458,4 +4458,4 @@ translate spanish strings:
 translate spanish grace_13_c3120170:
 
     # grace "No. I just wanted to talk with you."
-    grace "No. Sólo quería hablar contigo. "
+    grace "No. Sólo quería hablar contigo."
