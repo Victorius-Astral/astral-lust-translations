@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-translate chinese strings:
+﻿translate chinese strings:
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Deal {damage} damage."
@@ -320,7 +318,7 @@ translate chinese strings:
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "Sacrifice {health} health and {amount} {consume} to create a {create}."
-    new "牺牲 {health} 点健康值和 {amount} 点 {consume} 以创造一个 {create}."
+    new "牺牲 {health} 点生命值和 {amount} 点 {consume} 以创造一个 {create}."
 
     # game/combat/cards/lists/descriptions.rpy:1
     old "{{cor}}Corruption {amount:+}%.{{/cor}}"
