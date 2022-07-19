@@ -4451,7 +4451,7 @@ translate spanish strings:
     # game/characters/grace/ev_13.rpy:1303
     old ", and "
     new ", y "
-    
+
 # Translation updated at 2022-06-22 09:21
 
 # game/characters/grace/ev_13.rpy:61
