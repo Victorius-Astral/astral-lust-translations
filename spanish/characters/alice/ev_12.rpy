@@ -4,7 +4,7 @@
 translate spanish alice_12_25ce2bad:
 
     # "You open your eyes, only to see [alice], lying down next to you."
-    "Abres los ojos, solo para ver a [Alice], acostada a tu lado."
+    "Abres los ojos, solo para ver a [alice], acostada a tu lado."
 
 # game/characters/alice/ev_12.rpy:7
 translate spanish alice_12_b68d0b54:

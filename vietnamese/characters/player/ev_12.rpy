@@ -576,3 +576,23 @@ translate vietnamese strings:
     # game/characters/player/ev_12.rpy:43
     old "Higher Beings should be referred to with respect, They should be described as He/She/It, using he/she/it is considered lack of respect and thus dangerous."
     new "Những thực thể nên được gọi với sự tôn trọng, Họ nên được mô tả là Ngài/Anh ấy/Cô ấy/Nó, sử dụng anh ấy/cô ấy/nó được coi là thiếu tôn trọng và sẽ tự gây nguy hiểm cho bản thân."
+# TODO: Translation updated at 2022-08-13 15:58
+
+# game/characters/player/ev_12.rpy:64
+translate vietnamese main_12_753c1237:
+
+    # aharon "Before 'It' perished, 'It' made preparations, 'It' has left a key in a River of Destiny. Yet back then 'It' couldn't control how it would manifest."
+    aharon "Before 'It' perished, 'It' made preparations, 'It' has left a key in a River of Destiny. Yet back then 'It' couldn't control how it would manifest."
+
+# game/characters/player/ev_12.rpy:68
+translate vietnamese main_12_086371c0:
+
+    # me "Alright, so I have this key somehow, right?"
+    me "Alright, so I have this key somehow, right?"
+
+# game/characters/player/ev_12.rpy:74
+translate vietnamese main_12_ccb68647:
+
+    # me "I wouldn't be able to resist.. Why did You change Your mind?"
+    me "I wouldn't be able to resist.. Why did You change Your mind?"
+

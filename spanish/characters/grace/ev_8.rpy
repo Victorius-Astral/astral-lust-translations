@@ -502,7 +502,7 @@ translate spanish grace_8_part3_f747ab01:
 translate spanish grace_8_part3_de79d829:
 
     # th "What the fuck just happened. [alice] became my wing man?"
-    th "¿Qué diablos acaba de pasar? [Alice] se convirtió en mi aliada?"
+    th "¿Qué diablos acaba de pasar? [alice] se convirtió en mi aliada?"
 
 # game/characters/grace/ev_8.rpy:156
 translate spanish grace_8_part3_db7b7f1c:
@@ -678,7 +678,7 @@ translate spanish grace_8_part3_9c2585e5:
 translate spanish grace_8_part3_842f35ec:
 
     # th "What the fuck just happened. [alice] became my wingman?"
-    th "¿Qué diablos acaba de pasar? [Alice] se convirtió en mi aliada?"
+    th "¿Qué diablos acaba de pasar? [alice] se convirtió en mi aliada?"
 
 # game/characters/grace/ev_8.rpy:160
 translate spanish grace_8_part3_07554898:

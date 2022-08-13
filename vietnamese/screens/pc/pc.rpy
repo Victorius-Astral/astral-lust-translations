@@ -36,3 +36,11 @@ translate vietnamese strings:
     # game/screens/pc/pc.rpy:3
     old "Difficulty Settings"
     new "Tùy chọn độ khó"
+# TODO: Translation updated at 2022-08-13 15:58
+
+translate vietnamese strings:
+
+    # game/screens/pc/pc.rpy:3
+    old "Developer Tools"
+    new "Developer Tools"
+

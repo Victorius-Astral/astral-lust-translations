@@ -321,3 +321,63 @@ translate vietnamese strings:
     # game/variables/wallpapers.rpy:398
     old "Valentines 2022"
     new "Valentines 2022"
+# TODO: Translation updated at 2022-08-13 15:58
+
+translate vietnamese strings:
+
+    # game/variables/wallpapers.rpy:24
+    old "Patreon"
+    new "Patreon"
+
+    # game/variables/wallpapers.rpy:24
+    old "Combat"
+    new "Combat"
+
+    # game/variables/wallpapers.rpy:24
+    old "Collectible"
+    new "Collectible"
+
+    # game/variables/wallpapers.rpy:24
+    old "Postcard"
+    new "Postcard"
+
+    # game/variables/wallpapers.rpy:24
+    old "Patreon - Time Limited"
+    new "Patreon - Time Limited"
+
+    # game/variables/wallpapers.rpy:24
+    old "Time Limited"
+    new "Time Limited"
+
+    # game/variables/wallpapers.rpy:24
+    old "Mod"
+    new "Mod"
+
+    # game/variables/wallpapers.rpy:454
+    old "July 2022 1"
+    new "July 2022 1"
+
+    # game/variables/wallpapers.rpy:455
+    old "July 2022 2"
+    new "July 2022 2"
+
+    # game/variables/wallpapers.rpy:456
+    old "July 2022 3"
+    new "July 2022 3"
+
+    # game/variables/wallpapers.rpy:457
+    old "July 2022 4"
+    new "July 2022 4"
+
+    # game/variables/wallpapers.rpy:458
+    old "July 2022 5"
+    new "July 2022 5"
+
+    # game/variables/wallpapers.rpy:465
+    old "July 2022 Postcard"
+    new "July 2022 Postcard"
+
+    # game/variables/wallpapers.rpy:489
+    old "July 2022"
+    new "July 2022"
+

@@ -1,9 +1,11 @@
-define available_languages = [
-    # image, language name, language ID, completion %
-    ("spain", _("Spanish"), "spanish", "100%"),
-    ("vietnam", _("Vietnamese"), "vietnamese", "100%\nCommunity"),
+define available_languages = OrderedDict()
+default persistent.show_hidden_languages = False
 
-]
+init python:
 
-define inprogress_languages = [
-]
+    # image, language name, language ID, completion %, Public
+    available_languages[None] = ("united-states", _("English"), "100%", True)
+    available_languages["spanish"] = ("spain", _("Spanish"), "100%", True)
+    available_languages["vietnamese"] = ("vietnam", _("Vietnamese"), "100%\nCommunity", True)
+    available_languages["polish"] = ("poland", _("Polish"), "3%", False)
+    available_languages["chinese"] = ("china", _("Chinese"), "5%\nCommunity", False)

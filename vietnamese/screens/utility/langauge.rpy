@@ -10,3 +10,11 @@ translate vietnamese strings:
     old "Vietnamese"
     new "Vietnamese"
 
+# TODO: Translation updated at 2022-08-13 15:58
+
+translate vietnamese strings:
+
+    # game/screens/utility/langauge.rpy:30
+    old "Language"
+    new "Language"
+

@@ -33,3 +33,15 @@ translate vietnamese strings:
     # game/screens/settings/sound.rpy:48
     old "Mute All"
     new "Tắt tất cả"
+# TODO: Translation updated at 2022-08-13 15:58
+
+translate vietnamese strings:
+
+    # game/screens/settings/sound.rpy:12
+    old "General"
+    new "General"
+
+    # game/screens/settings/sound.rpy:13
+    old "Play sound when window is minimized"
+    new "Play sound when window is minimized"
+
