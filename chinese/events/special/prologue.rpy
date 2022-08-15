@@ -4,103 +4,103 @@
 translate chinese prologue_2d5764a0:
 
     # rad "Police ensure that everything is under control. The terrorists are being pushed back. Police spokesman, Mr. Scott during the conference said-"
-    rad "Police ensure that everything is under control. The terrorists are being pushed back. Police spokesman, Mr. Scott during the conference said-"
+    rad "警方发言人斯科特先生在发布会上通报，警方会确保一切都在控制之中。恐怖分子正在被逼退。"
 
 # game/events/special/prologue.rpy:21
 translate chinese prologue_da2ba235:
 
     # th "Fuck this crunch, it's killing me, I have enough."
-    th "Fuck this crunch, it's killing me, I have enough."
+    th "去他妈的，快把我累死了，我受够了。"
 
 # game/events/special/prologue.rpy:22
 translate chinese prologue_c1da38cf:
 
     # th "How long has it been? A month? Two months? Ehh.. I can't even remember."
-    th "How long has it been? A month? Two months? Ehh.. I can't even remember."
+    th "这都过了多久了?一个月?两个月?额...我都不记得了。"
 
 # game/events/special/prologue.rpy:23
 translate chinese prologue_bfb3e93c:
 
     # th "I told them two years won't do. It's just too little time for this project. Our team would need to be twice its size to make it on time."
-    th "I told them two years won't do. It's just too little time for this project. Our team would need to be twice its size to make it on time."
+    th "我跟他们说两年不行。对这个项目来说时间根本不够。我们的团队需要有两倍的人数才能按时完成。"
 
 # game/events/special/prologue.rpy:24
 translate chinese prologue_cb03d0e0:
 
     # rad "The panic spreads, it's been a week now, since mental hospitals became overcrowded. To get admitted now, one needs to-"
-    rad "The panic spreads, it's been a week now, since mental hospitals became overcrowded. To get admitted now, one needs to-"
+    rad "恐慌情绪正在蔓延，精神病院人满为患已经一周了。要想现在被允许入院，需要有..."
 
 # game/events/special/prologue.rpy:25
 translate chinese prologue_a07aa7ec:
 
     # th "What the fucks is going on with this world?"
-    th "What the fucks is going on with this world?"
+    th "这他妈是怎么回事？"
 
 # game/events/special/prologue.rpy:26
 translate chinese prologue_e07e9281:
 
     # rad "Riots in the capital are getting out of control. Government pushes the blame on the sect, it's been a month since-"
-    rad "Riots in the capital are getting out of control. Government pushes the blame on the sect, it's been a month since-"
+    rad "首都的骚乱正在失去控制。政府将责任推到该教派身上，已经持续一个月了..."
 
 # game/events/special/prologue.rpy:31
 translate chinese prologue_a8a156f9:
 
     # th "I'm so tired.. I don't remember when was the last time I slept enough."
-    th "I'm so tired.. I don't remember when was the last time I slept enough."
+    th "我太累了. .我不记得上次睡够觉是什么时候了。"
 
 # game/events/special/prologue.rpy:32
 translate chinese prologue_17589153:
 
     # th "Heh. Almost home, at least."
-    th "Heh. Almost home, at least."
+    th "哈。至少快到家了。"
 
 # game/events/special/prologue.rpy:36
 translate chinese prologue_f89a296d:
 
     # th "Just a little longer.."
-    th "Just a little longer.."
+    th "只需要再开一段.."
 
 # game/events/special/prologue.rpy:41
 translate chinese prologue_5242e023:
 
     # me "Fu-! {fast}{nw}"
-    me "Fu-! {fast}{nw}"
+    me "砰-! {fast}{nw}"
 
 # game/events/special/prologue.rpy:49
 translate chinese prologue_f9bb96fa:
 
     # th "Eh? What the hell happened?"
-    th "Eh? What the hell happened?"
+    th "阿?发生什么了？"
 
 # game/events/special/prologue.rpy:50
 translate chinese prologue_5b100893:
 
     # th "The crash.."
-    th "The crash.."
+    th "撞车了.."
 
 # game/events/special/prologue.rpy:51
 translate chinese prologue_35ddd2e5:
 
     # th "I don't feel my body.. Am I.. dead?"
-    th "I don't feel my body.. Am I.. dead?"
+    th "我感觉不到我的身体了..我..死了？"
 
 # game/events/special/prologue.rpy:57
 translate chinese prologue_efa2fbab:
 
     # me "W-What the-"
-    me "W-What the-"
+    me "这..这是什么.."
 
 # game/events/special/prologue.rpy:58
 translate chinese prologue_7c972b04:
 
     # me "What's going on?!"
-    me "What's going on?!"
+    me "我到底在哪里？！"
 
 # game/events/special/prologue.rpy:59
 translate chinese prologue_7f51072c:
 
     # th "Shit, is that the afterlife? A cosmos?"
-    th "Shit, is that the afterlife? A cosmos?"
+    th "该死，那是来世吗？一个宇宙？"
 
 # game/events/special/prologue.rpy:65
 translate chinese prologue_a3ed5a4a:
@@ -112,13 +112,13 @@ translate chinese prologue_a3ed5a4a:
 translate chinese prologue_ba7b9907:
 
     # me "Arghh!!"
-    me "Arghh!!"
+    me "天呐！！"
 
 # game/events/special/prologue.rpy:70
 translate chinese prologue_acdb8222:
 
     # "Terrifying voice enters your mind. Each of the mysterious words being like millions of small needles poking at your brain, giving a rise to unforgettable suffering."
-    "Terrifying voice enters your mind. Each of the mysterious words being like millions of small needles poking at your brain, giving a rise to unforgettable suffering."
+    "可怕的声音进入你的脑海。每一个神秘的字句，都像无数小针扎进你的脑子里，给你带来难以忘怀的痛苦。"
 
 # game/events/special/prologue.rpy:73
 translate chinese prologue_2de9d8e5:
@@ -130,7 +130,7 @@ translate chinese prologue_2de9d8e5:
 translate chinese prologue_b0a29b5c:
 
     # me "My head!!"
-    me "My head!!"
+    me "我的头！！"
 
 # game/events/special/prologue.rpy:77
 translate chinese prologue_38fdc928:
@@ -142,139 +142,139 @@ translate chinese prologue_38fdc928:
 translate chinese prologue_cac5d863:
 
     # me "Stop, please, stop! Ahhh!! My head- It's gonna split!"
-    me "Stop, please, stop! Ahhh!! My head- It's gonna split!"
+    me "停下,快停下!啊啊啊! !我的头-要裂开了!"
 
 # game/events/special/prologue.rpy:79
 translate chinese prologue_fb1e8f4f:
 
     # me "Ahh... Ahh..."
-    me "Ahh... Ahh..."
+    me "哈... 哈..."
 
 # game/events/special/prologue.rpy:80
 translate chinese prologue_03babd30:
 
     # me "Is it.. over?"
-    me "Is it.. over?"
+    me "这是.. 结束了？"
 
 # game/events/special/prologue.rpy:81
 translate chinese prologue_a1834366:
 
     # me "Who, or.. what it was?"
-    me "Who, or.. what it was?"
+    me "谁,或者. .这是什么？"
 
 # game/events/special/prologue.rpy:82
 translate chinese prologue_4ac242dc:
 
     # me "Hahaha! Why do I feel so happy?"
-    me "Hahaha! Why do I feel so happy?"
+    me "哈哈哈！为什么我觉得这么高兴？"
 
 # game/events/special/prologue.rpy:83
 translate chinese prologue_ff3e7634:
 
     # me "Haha, ah.. My head is about to burst, why do I find it funny?"
-    me "Haha, ah.. My head is about to burst, why do I find it funny?"
+    me "哈哈,啊. .我的头都要炸了，为什么我觉得好笑？"
 
 # game/events/special/prologue.rpy:84
 translate chinese prologue_ea25c2bd:
 
     # me "He.. Hehe.. Hehehe!"
-    me "He.. Hehe.. Hehehe!"
+    me "嘿嘿.. 嘿嘿.. 嘿嘿嘿！"
 
 # game/events/special/prologue.rpy:85
 translate chinese prologue_c6ffe337:
 
     # me "What the fuck is wrong with me?!"
-    me "What the fuck is wrong with me?!"
+    me "我他妈到底是怎么了？！"
 
 # game/events/special/prologue.rpy:86
 translate chinese prologue_b32b5950:
 
     # me "Hahaha."
-    me "Hahaha."
+    me "哈哈哈哈。"
 
 # game/events/special/prologue.rpy:92
 translate chinese prologue_4a6f4b32:
 
     # "Indefinite amount of time passes as you tilt between clarity and madness. Only now your mind managed to regain a semblance of stability."
-    "Indefinite amount of time passes as you tilt between clarity and madness. Only now your mind managed to regain a semblance of stability."
+    "随着时间的流逝，你在清晰和疯狂之间摇摆。只是现在你的思绪逐渐恢复了稳定的样子。"
 
 # game/events/special/prologue.rpy:93
 translate chinese prologue_a1f5cefa:
 
     # me "I'm numb.."
-    me "I'm numb.."
+    me "我麻木了.."
 
 # game/events/special/prologue.rpy:94
 translate chinese prologue_f5656fc3:
 
     # me "Am I dead or not? Was that the God? Allah? Hades?"
-    me "Am I dead or not? Was that the God? Allah? Hades?"
+    me "我到底死了没？那是上帝吗？真主吗？地狱吗？"
 
 # game/events/special/prologue.rpy:95
 translate chinese prologue_3145391d:
 
     # me "Am I going to float like this forever?"
-    me "Am I going to float like this forever?"
+    me "我要永远这样漂浮下去吗？"
 
 # game/events/special/prologue.rpy:96
 translate chinese prologue_063706d4:
 
     # me "It's so weird. I don't feel hungry, thirsty nor tired. I feel so.. surreal.."
-    me "It's so weird. I don't feel hungry, thirsty nor tired. I feel so.. surreal.."
+    me "它是如此奇怪。我不觉得饿、渴、累。我感觉到..如此..离奇.."
 
 # game/events/special/prologue.rpy:100
 translate chinese prologue_abbbc6b4:
 
     # me "Hmm?"
-    me "Hmm?"
+    me "嗯?"
 
 # game/events/special/prologue.rpy:101
 translate chinese prologue_6e0e5da9:
 
     # victorius "You are about to face your destiny, are you ready?"
-    victorius "You are about to face your destiny, are you ready?"
+    victorius "你即将面对你的命运，准备好了吗?"
 
 # game/events/special/prologue.rpy:102
 translate chinese prologue_248e66e0:
 
     # me "Who are you?"
-    me "Who are you?"
+    me "你是什么人?"
 
 # game/events/special/prologue.rpy:105
 translate chinese prologue_489554ec:
 
     # victorius "Someone remembering what you tried to do to my little girl."
-    victorius "Someone remembering what you tried to do to my little girl."
+    victorius "有人记得你对我女儿做了什么。"
 
 # game/events/special/prologue.rpy:106
 translate chinese prologue_1f877649:
 
     # me "What do you mean?"
-    me "What do you mean?"
+    me "你到底在说什么?"
 
 # game/events/special/prologue.rpy:107
 translate chinese prologue_a9d0ba47:
 
     # victorius "Haha, nevermind. The game is about to begin anew."
-    victorius "Haha, nevermind. The game is about to begin anew."
+    victorius "哈哈,别在意。游戏即将重新开始。"
 
 # game/events/special/prologue.rpy:109
 translate chinese prologue_b556da62:
 
     # victorius "What is destined will certainly happen."
-    victorius "What is destined will certainly happen."
+    victorius "命中注定的事情一定会发生。"
 
 # game/events/special/prologue.rpy:113
 translate chinese prologue_9b46898f:
 
     # victorius "Now, entertain me with your desperate struggle, hahaha!"
-    victorius "Now, entertain me with your desperate struggle, hahaha!"
+    victorius "现在，用你绝望的挣扎来愉悦我吧，哈哈哈！"
 
 # game/events/special/prologue.rpy:118
 translate chinese prologue_17848ca9:
 
     # me "Argh.."
-    me "Argh.."
+    me "阿.."
 
 # game/events/special/prologue.rpy:121
 translate chinese prologue_fb9cb780:
@@ -286,67 +286,67 @@ translate chinese prologue_fb9cb780:
 translate chinese prologue_ad963c10:
 
     # "Physical pain reaches every single cell of your body."
-    "Physical pain reaches every single cell of your body."
+    "你身体上每一个细胞都像能感觉到疼痛。"
 
 # game/events/special/prologue.rpy:127
 translate chinese prologue_6dd04f80:
 
     # th "W-Where am I?"
-    th "W-Where am I?"
+    th "我-我在哪？"
 
 # game/events/special/prologue.rpy:134
 translate chinese prologue_1552430d:
 
     # th "I'm alive?"
-    th "I'm alive?"
+    th "我还活着？"
 
 # game/events/special/prologue.rpy:138
 translate chinese prologue_e7ac59d4:
 
     # me "Ahh.. Fuck!"
-    me "Ahh.. Fuck!"
+    me "嗷.. 艹!"
 
 # game/events/special/prologue.rpy:142
 translate chinese prologue_c6c06bab:
 
     # th "What the hell was it?"
-    th "What the hell was it?"
+    th "那是什么鬼东西？"
 
 # game/events/special/prologue.rpy:143
 translate chinese prologue_b90095c3:
 
     # th "I was driving home, then I.. Accident, there was an accident. Cosmos, the God? Was I dead? Reincarnation?"
-    th "I was driving home, then I.. Accident, there was an accident. Cosmos, the God? Was I dead? Reincarnation?"
+    th "我开车回家，然后我...发生了意外。我看到了...一个宇宙,和上帝吗？我是死了吗？转世重生了？"
 
 # game/events/special/prologue.rpy:144
 translate chinese prologue_02b0f40b:
 
     # "The chaos in your mind slowly subsided as you recall what you've seen. What is left is only doubt."
-    "The chaos in your mind slowly subsided as you recall what you've seen. What is left is only doubt."
+    "当你回忆起你所看到的一切时，你脑海中的混乱慢慢平息下来。剩下的只有困惑。"
 
 # game/events/special/prologue.rpy:145
 translate chinese prologue_3e2bc411:
 
     # th "It has spoken to me.. This language, though. I've never heard it. This voice, though.. It was like each word was drilling straight into my head.."
-    th "It has spoken to me.. This language, though. I've never heard it. This voice, though.. It was like each word was drilling straight into my head.."
+    th "它对我说话了。不过，这种语言。我从来没听过。这声音，虽然...好像每个字都在我脑子里钻个不停。"
 
 # game/events/special/prologue.rpy:146
 translate chinese prologue_3dd5b44e:
 
     # th "Later.."
-    th "Later.."
+    th "之后.."
 
 # game/events/special/prologue.rpy:147
 translate chinese prologue_0b7352a8:
 
     # th "What happened later?"
-    th "What happened later?"
+    th "之后发生了什么？"
 
 # game/events/special/prologue.rpy:148
 translate chinese prologue_b6583e93:
 
     # th "I think there was more, but why can't I remember it?"
-    th "I think there was more, but why can't I remember it?"
+    th "我觉还有更多事情，但为什么我什么都想不起来了?"
 
 # game/events/special/prologue.rpy:152
 translate chinese prologue_9c8161a5:
@@ -358,25 +358,25 @@ translate chinese prologue_9c8161a5:
 translate chinese prologue_ff20e525:
 
     # th "In the end.. Did I die or not?"
-    th "In the end.. Did I die or not?"
+    th "最后...我到底死没死?"
 
 # game/events/special/prologue.rpy:154
 translate chinese prologue_83f56d74:
 
     # th "This felt too surreal.. Maybe this was a dream or a hallucination. I had an accident after all."
-    th "This felt too surreal.. Maybe this was a dream or a hallucination. I had an accident after all."
+    th "这感觉太不真实了。也许这是一个梦或者幻觉。我还是出了意外。"
 
 # game/events/special/prologue.rpy:155
 translate chinese prologue_9f09a783:
 
     # th "This isn't a hospital room, though."
-    th "This isn't a hospital room, though."
+    th "但这也不是医院病房。"
 
 # game/events/special/prologue.rpy:159
 translate chinese prologue_71d3254e:
 
     # th "Oh?"
-    th "Oh?"
+    th "嗯?"
 
 # game/events/special/prologue.rpy:165
 translate chinese prologue_3820771a:
@@ -394,7 +394,7 @@ translate chinese prologue_d7760fc7:
 translate chinese prologue_91229cf7:
 
     # me "Hey?"
-    me "Hey?"
+    me "嗨?"
 
 # game/events/special/prologue.rpy:172
 translate chinese prologue_20c73366:
@@ -406,61 +406,61 @@ translate chinese prologue_20c73366:
 translate chinese prologue_ab2e8704:
 
     # me "What the fuck is wrong with you?!"
-    me "What the fuck is wrong with you?!"
+    me "你他妈有什么毛病！"
 
 # game/events/special/prologue.rpy:180
 translate chinese prologue_86f1c448:
 
     # lexi "You picked a bad place to rob.."
-    lexi "You picked a bad place to rob.."
+    lexi "你可选错了抢劫的地方.."
 
 # game/events/special/prologue.rpy:184
 translate chinese prologue_ffbe3426:
 
     # me "Calm down, I don't want to steal anything."
-    me "Calm down, I don't want to steal anything."
+    me "冷静点，我什么都不想偷。"
 
 # game/events/special/prologue.rpy:185
 translate chinese prologue_b8a7df1f:
 
     # lexi "You don't look convicting at all."
-    lexi "You don't look convicting at all."
+    lexi "你看起来可一点都不令人相信。"
 
 # game/events/special/prologue.rpy:186
 translate chinese prologue_31691fb7:
 
     # me "Listen, I know it might sound unbelievable, but.. I had an accident. The next thing I remember is that I woke up here just a minute ago."
-    me "Listen, I know it might sound unbelievable, but.. I had an accident. The next thing I remember is that I woke up here just a minute ago."
+    me "听着，我知道这听起来难以置信，但是...我出了点意外。接下来我只记得的是我一分钟前刚在这里醒来。"
 
 # game/events/special/prologue.rpy:187
 translate chinese prologue_3c04646b:
 
     # lexi "You are right. You don't sound believable at all."
-    lexi "You are right. You don't sound believable at all."
+    lexi "你很有自知之明。你听起来一点都不可信。"
 
 # game/events/special/prologue.rpy:188
 translate chinese prologue_fece2d38:
 
     # me "I really have no idea what I do here. The last thing I remember is the car crash."
-    me "I really have no idea what I do here. The last thing I remember is the car crash."
+    me "我真的不知道我为什么会在这里。我能记得的最后一件事就是车祸。"
 
 # game/events/special/prologue.rpy:192
 translate chinese prologue_9ff3af93:
 
     # lexi "Car crash? The roads are blocked, you couldn't drive in a car.."
-    lexi "Car crash? The roads are blocked, you couldn't drive in a car.."
+    lexi "车祸?所有的道路都已经阻塞了，你不可能开车.."
 
 # game/events/special/prologue.rpy:193
 translate chinese prologue_9ca4a2b1:
 
     # me "What do you mean blocked?"
-    me "What do you mean blocked?"
+    me "什么叫阻塞了?"
 
 # game/events/special/prologue.rpy:194
 translate chinese prologue_79dbb1a6:
 
     # lexi "Are you stupid, or are you just pretending?"
-    lexi "Are you stupid, or are you just pretending?"
+    lexi "你是真傻，还是在这里装傻？"
 
 # game/events/special/prologue.rpy:195
 translate chinese prologue_3820771a_1:
@@ -472,37 +472,37 @@ translate chinese prologue_3820771a_1:
 translate chinese prologue_3a911ad5:
 
     # lexi "Even if the roads were clear, you still can't drive with all the monsters out there. You would be dead already if you tried."
-    lexi "Even if the roads were clear, you still can't drive with all the monsters out there. You would be dead already if you tried."
+    lexi "即使道路畅通，外面有那么多怪物，你也不能开车。如果你想试一试，你早就死了。"
 
 # game/events/special/prologue.rpy:205
 translate chinese prologue_lexi1_900ee575:
 
     # me "What the hell do you mean by monsters?"
-    me "What the hell do you mean by monsters?"
+    me "你说的怪物是什么意思？"
 
 # game/events/special/prologue.rpy:209
 translate chinese prologue_lexi1_3bd3f8ed:
 
     # lexi "You are indeed an idiot.."
-    lexi "You are indeed an idiot.."
+    lexi "你真是个白痴.."
 
 # game/events/special/prologue.rpy:215
 translate chinese prologue_lexi1_d44a47c5:
 
     # lexi "And forgetful one at that.."
-    lexi "And forgetful one at that.."
+    lexi "而且还是个健忘的人.."
 
 # game/events/special/prologue.rpy:216
 translate chinese prologue_lexi1_c4d20f7b:
 
     # me "Sorry.."
-    me "Sorry.."
+    me "对不起.."
 
 # game/events/special/prologue.rpy:220
 translate chinese prologue_lexi1_81c54a71:
 
     # lexi "Monsters appeared after The End."
-    lexi "Monsters appeared after The End."
+    lexi "怪物在世界末日之后出现了。"
 
 # game/events/special/prologue.rpy:224
 translate chinese prologue_lexi1_3820771a:
@@ -514,169 +514,169 @@ translate chinese prologue_lexi1_3820771a:
 translate chinese prologue_lexi1_dcc64d1c:
 
     # lexi "It's impossible to not have seen nor heard about monsters in the last year."
-    lexi "It's impossible to not have seen nor heard about monsters in the last year."
+    lexi "在过去的一年里，不可能没有见过或听说过怪兽。"
 
 # game/events/special/prologue.rpy:226
 translate chinese prologue_lexi1_aacf2c43:
 
     # me "Last year? What are you talking about?"
-    me "Last year? What are you talking about?"
+    me "去年?你在说什么?"
 
 # game/events/special/prologue.rpy:230
 translate chinese prologue_lexi1_ea800957:
 
     # lexi "Who are you?"
-    lexi "Who are you?"
+    lexi "你是谁？"
 
 # game/events/special/prologue.rpy:231
 translate chinese prologue_lexi1_bf15753c:
 
     # me "I'm [me]."
-    me "I'm [me]."
+    me "我叫[me]."
 
 # game/events/special/prologue.rpy:232
 translate chinese prologue_lexi1_2936d758:
 
     # lexi "[me].. You really look surprised."
-    lexi "[me].. You really look surprised."
+    lexi "[me].. 你看起来真的很惊讶。"
 
 # game/events/special/prologue.rpy:233
 translate chinese prologue_lexi1_3c099c6e:
 
     # me "I am, I was driving home from work just now, and you suddenly speak about monsters. What the hell?"
-    me "I am, I was driving home from work just now, and you suddenly speak about monsters. What the hell?"
+    me "当然，我刚下班开车回家，你突然说到有怪物。这到底是怎么回事?"
 
 # game/events/special/prologue.rpy:237
 translate chinese prologue_lexi1_3d430dbf:
 
     # lexi "From.. work?"
-    lexi "From.. work?"
+    lexi "从. .工作单位吗？"
 
 # game/events/special/prologue.rpy:238
 translate chinese prologue_lexi1_c254b79d:
 
     # me "Yeah, I just said it."
-    me "Yeah, I just said it."
+    me "是啊，我刚刚说的。"
 
 # game/events/special/prologue.rpy:239
 translate chinese prologue_lexi1_2396721d:
 
     # lexi "All, 'work' ended year ago. When.. The End began."
-    lexi "All, 'work' ended year ago. When.. The End began."
+    lexi "总之，'工作'这个词一年前就没有了。自从..世界末日开始。。"
 
 # game/events/special/prologue.rpy:241
 translate chinese prologue_lexi1_0ae12511:
 
     # me "The End? I've heard about it in the radio, some cultist prophecies, why are you mentioning it? And what do you mean the work ended?"
-    me "The End? I've heard about it in the radio, some cultist prophecies, why are you mentioning it? And what do you mean the work ended?"
+    me "世界末日吗?我在广播里听说过，一些邪教预言，你为什么要提它?你说没有工作了是什么意思?"
 
 # game/events/special/prologue.rpy:245
 translate chinese prologue_lexi1_5eca412c:
 
     # lexi "You really don't remember?"
-    lexi "You really don't remember?"
+    lexi "你真的不记得了?"
 
 # game/events/special/prologue.rpy:246
 translate chinese prologue_lexi1_4967557f:
 
     # me "I told you this a few times already..."
-    me "I told you this a few times already..."
+    me "我已经告诉过你很多次了..."
 
 # game/events/special/prologue.rpy:250
 translate chinese prologue_lexi1_f5cc55d8:
 
     # lexi "You must have hit your head, and lost memories, then."
-    lexi "You must have hit your head, and lost memories, then."
+    lexi "你一定是撞到了头，失去了记忆。"
 
 # game/events/special/prologue.rpy:251
 translate chinese prologue_lexi1_63280a2d:
 
     # me "Eh?"
-    me "Eh?"
+    me "额?"
 
 # game/events/special/prologue.rpy:255
 translate chinese prologue_lexi1_3111c239:
 
     # lexi "Year ago, the fog descended and covered the world, with it, the monsters appeared."
-    lexi "Year ago, the fog descended and covered the world, with it, the monsters appeared."
+    lexi "一年前，大雾降临，覆盖了整个世界，伴随着它，怪物出现了。"
 
 # game/events/special/prologue.rpy:256
 translate chinese prologue_lexi1_4afb807a:
 
     # th "The fog? Monsters? Is she serious? She doesn't look like a madman, though."
-    th "The fog? Monsters? Is she serious? She doesn't look like a madman, though."
+    th "大雾吗?怪物吗?她是认真的吗?不过她看起来不像个疯子。"
 
 # game/events/special/prologue.rpy:257
 translate chinese prologue_lexi1_6f2e4b22:
 
     # lexi "Chaos spread, and panic began. People tried to leave the city en masse, but most couldn't make it, now the roads are blocked by cars and rubble."
-    lexi "Chaos spread, and panic began. People tried to leave the city en masse, but most couldn't make it, now the roads are blocked by cars and rubble."
+    lexi "混乱开始蔓延，恐慌开始了。人们试图集体离开这座城市，但大多数人都做不到，现在道路被汽车和瓦砾封锁。"
 
 # game/events/special/prologue.rpy:258
 translate chinese prologue_lexi1_8f434f51:
 
     # lexi "That's why I said you couldn't be driving a car."
-    lexi "That's why I said you couldn't be driving a car."
+    lexi "所以我才说你不可能开车。"
 
 # game/events/special/prologue.rpy:259
 translate chinese prologue_lexi1_3ad1859c:
 
     # me "But.."
-    me "But.."
+    me "但是.."
 
 # game/events/special/prologue.rpy:260
 translate chinese prologue_lexi1_57b1c691:
 
     # th "If what she said is true, does it mean I was out for a year? What was this voice, then?"
-    th "If what she said is true, does it mean I was out for a year? What was this voice, then?"
+    th "如果她说的是真的，那是不是意味着我被关了一年？那我听到的那些是什么声音呢？"
 
 # game/events/special/prologue.rpy:264
 translate chinese prologue_lexi1_c8fd520b:
 
     # lexi "By the way, I'm [lexi]. I'm sorry I have to tell you your old life is over."
-    lexi "By the way, I'm [lexi]. I'm sorry I have to tell you your old life is over."
+    lexi "对了，我是[lexi]。很抱歉我不得不告诉你，你过去的生活已经结束了。"
 
 # game/events/special/prologue.rpy:266
 translate chinese prologue_lexi1_e9a26a2f:
 
     # me "What about the monsters?"
-    me "What about the monsters?"
+    me "那怪物呢?"
 
 # game/events/special/prologue.rpy:267
 translate chinese prologue_lexi1_4b054462:
 
     # lexi "They wander the fog, killing anyone crossing their way."
-    lexi "They wander the fog, killing anyone crossing their way."
+    lexi "它们在雾中游荡，杀死任何路过的人。"
 
 # game/events/special/prologue.rpy:268
 translate chinese prologue_lexi1_67838a7b:
 
     # me "What about an army, police?"
-    me "What about an army, police?"
+    me "我们的军队，警察呢?"
 
 # game/events/special/prologue.rpy:269
 translate chinese prologue_lexi1_ca2fcfac:
 
     # lexi "Destroyed, they were no match for the monster out there. I've heard there are some remnants that escaped their duty, and are mercenaries now."
-    lexi "Destroyed, they were no match for the monster out there. I've heard there are some remnants that escaped their duty, and are mercenaries now."
+    lexi "已经被摧毁了，根本不是怪物的对手。我听说有些残兵放弃了他们的职责，现在成了雇佣兵。"
 
 # game/events/special/prologue.rpy:270
 translate chinese prologue_lexi1_4493a26e:
 
     # me "So is there no government? Is it anarchy?"
-    me "So is there no government? Is it anarchy?"
+    me "所以没有政府吗?无政府状态吗?"
 
 # game/events/special/prologue.rpy:271
 translate chinese prologue_lexi1_c9ee0954:
 
     # lexi "Anarchy is the good word. There are some places with rules, but it's rule of the jungle outside."
-    lexi "Anarchy is the good word. There are some places with rules, but it's rule of the jungle outside."
+    lexi "无政府状态是个好词。有些地方是有规则的，但外面已经是丛林法则了。"
 
 # game/events/special/prologue.rpy:275
 translate chinese prologue_lexi1_e8aa87f2:
 
     # lexi "Perhaps you don't remember not because you got hurt, maybe you just didn't want to remember."
-    lexi "Perhaps you don't remember not because you got hurt, maybe you just didn't want to remember."
+    lexi "也许你不记得不是因为你受到了伤害，也许你只是不想记得。"
 
 # game/events/special/prologue.rpy:276
 translate chinese prologue_lexi1_3820771a_1:
@@ -688,7 +688,7 @@ translate chinese prologue_lexi1_3820771a_1:
 translate chinese prologue_lexi1_ed342db5:
 
     # th "What happened with me? It was a year.. A fucking year.."
-    th "What happened with me? It was a year.. A fucking year.."
+    th "我身上到底发生什么了?整整一年..操蛋的一年. ."
 
 # game/events/special/prologue.rpy:288
 translate chinese prologue_lexi1_01d5bc56:
@@ -916,7 +916,7 @@ translate chinese prologue_lexi1_f9ef0707:
 translate chinese prologue_lexi1_251b5ddb:
 
     # lexi "There is not a lot of us. And even less stay human, most became just primitive beasts. Robbery, murder and rape are not uncommon occurrences out there, so one needs to always be careful."
-    lexi "There is not a lot of us. And even less stay human, most became just primitive beasts. Robbery, murder and rape are not uncommon occurrences out there, so one needs to always be careful."
+    lexi "我们不是很多人。留下来的人就更少了，大部分变成了原始的野兽。抢劫、谋杀和强奸在那里屡见不鲜，所以人们需要时刻小心。"
 
 # game/events/special/prologue.rpy:356
 translate chinese prologue_lexi1_d9f83e33:
@@ -3502,11 +3502,11 @@ translate chinese strings:
 
     # game/events/special/prologue.rpy:202
     old "How did it all come to this?"
-    new "How did it all come to this?"
+    new "这一切是怎么变成这样的？"
 
     # game/events/special/prologue.rpy:202
     old "What about the survivors?"
-    new "What about the survivors?"
+    new "幸存者呢?"
 
     # game/events/special/prologue.rpy:202
     old "What's so special about the night?"
@@ -3542,7 +3542,7 @@ translate chinese strings:
 translate chinese prologue_80a24a7a:
 
     # th "A little.."
-    th "A little.."
+    th "一小段.."
 
 # game/events/special/prologue.rpy:136
 translate chinese prologue_e9511d7d:
@@ -3572,55 +3572,55 @@ translate chinese prologue_d5c2f883:
 translate chinese prologue_61603b3a:
 
     # victorius "I'm everything and everything is me."
-    victorius "I'm everything and everything is me."
+    victorius "一切即我,我即一切。"
 
 # game/events/special/prologue.rpy:151
 translate chinese prologue_314086b3:
 
     # me "What?"
-    me "What?"
+    me "什么?"
 
 # game/events/special/prologue.rpy:153
 translate chinese prologue_f1cff1e3:
 
     # victorius "River of Destiny will boil, time will evaporate, gods high above will wail, Pillars will crumble, yet the destiny will remain unchanged."
-    victorius "River of Destiny will boil, time will evaporate, gods high above will wail, Pillars will crumble, yet the destiny will remain unchanged."
+    victorius "命运之河即将开始行进，时间将消失，天上的神也会哀号，万物都将崩塌，但命运永恒不变。"
 
 # game/events/special/prologue.rpy:155
 translate chinese prologue_9c9d6ce2:
 
     # victorius "Yet it wouldn't be fun if the result was predetermined. Key Bearer, can you surprise me? Hahaha, I'm filled with exhilaration."
-    victorius "Yet it wouldn't be fun if the result was predetermined. Key Bearer, can you surprise me? Hahaha, I'm filled with exhilaration."
+    victorius "然而，如果结局是已经确定的，那就不好玩了。钥匙持有者，你能给我个惊喜吗?哈哈哈，我充满了期待哦。"
 
 # game/events/special/prologue.rpy:159
 translate chinese prologue_9f20e402:
 
     # victorius "{loud}Now, entertain me with your desperate struggle, hahaha!{/loud}"
-    victorius "{loud}Now, entertain me with your desperate struggle, hahaha!{/loud}"
+    victorius "{loud}现在，用你绝望的挣扎来取悦我吧，哈哈哈！{/loud}"
 
 # game/events/special/prologue.rpy:175
 translate chinese prologue_5b253635:
 
     # "Your consciousness returns, along with it the pain. Your head buzzes, your thoughts in chaos."
-    "Your consciousness returns, along with it the pain. Your head buzzes, your thoughts in chaos."
+    "你的意识恢复了，随之而来的是疼痛。你的脑袋嗡嗡作响，思绪混乱。"
 
 # game/events/special/prologue.rpy:212
 translate chinese prologue_2d3265c3:
 
     # me "Where the hell am I?"
-    me "Where the hell am I?"
+    me "我他妈现在又在哪里？"
 
 # game/events/special/prologue.rpy:241
 translate chinese prologue_26553d89:
 
     # "*Punch*"
-    "*Punch*"
+    "*拳头*"
 
 # game/events/special/prologue.rpy:255
 translate chinese prologue_6a1a4fcf:
 
     # me "Listen, I know it might sound unbelievable, but.. I had an accident. The next thing I remember is that I woke up on the couch here just a minute ago."
-    me "Listen, I know it might sound unbelievable, but.. I had an accident. The next thing I remember is that I woke up on the couch here just a minute ago."
+    me "听着，我知道这听起来难以置信，但是…我出了点意外。之后我能记得的就是我一分钟前在沙发上醒来。"
 
 # game/events/special/prologue.rpy:535
 translate chinese prologue_part2_df1f065d:
@@ -5000,11 +5000,11 @@ translate chinese strings:
 
     # game/events/special/prologue.rpy:28
     old "What's your name? ("
-    new "What's your name? ("
+    new "你的名字是？ ("
 
     # game/events/special/prologue.rpy:271
     old "Monsters?"
-    new "Monsters?"
+    new "怪物?"
 
     # game/events/special/prologue.rpy:1134
     old "How can I help?"
