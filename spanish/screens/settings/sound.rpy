@@ -37,3 +37,15 @@ translate spanish strings:
     # game/screens/settings/sound.rpy:48
     old "Mute All"
     new "Silenciar Todo"
+# TODO: Translation updated at 2022-08-16 18:44
+
+translate spanish strings:
+
+    # game/screens/settings/sound.rpy:12
+    old "General"
+    new "General"
+
+    # game/screens/settings/sound.rpy:13
+    old "Play sound when window is minimized"
+    new "Play sound when window is minimized"
+
