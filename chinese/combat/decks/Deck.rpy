@@ -4,7 +4,7 @@ translate chinese strings:
 
     # game/combat/decks/Deck.rpy:10
     old "Deck"
-    new "Deck"
+    new "牌组"
 
     # game/combat/decks/Deck.rpy:61
     old "{}, {}"
@@ -12,9 +12,9 @@ translate chinese strings:
 
     # game/combat/decks/Deck.rpy:93
     old "Card '{}' added to the {}"
-    new "Card '{}' added to the {}"
+    new "卡牌 '{}' 已加入 {}"
 
     # game/combat/decks/Deck.rpy:251
     old "Cards in {}:"
-    new "Cards in {}:"
+    new "卡牌在 {}:"
 
