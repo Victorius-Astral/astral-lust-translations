@@ -8,7 +8,7 @@ translate chinese strings:
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Extraordinary"
-    new "优良"
+    new "高级"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Mythical"
