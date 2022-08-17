@@ -4,29 +4,29 @@ translate chinese strings:
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Ordinary"
-    new "Ordinary"
+    new "普通"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Extraordinary"
-    new "Extraordinary"
+    new "优良"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Mythical"
-    new "Mythical"
+    new "传奇"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Angelic"
-    new "Angelic"
+    new "史诗"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Divine"
-    new "Divine"
+    new "神话"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Tarot"
-    new "Tarot"
+    new "塔罗牌"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Unique"
-    new "Unique"
+    new "特殊"
 
