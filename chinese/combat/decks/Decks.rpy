@@ -8,7 +8,7 @@ translate chinese strings:
 
     # game/combat/decks/Decks.rpy:44
     old "Storage"
-    new "储存"
+    new "仓库"
 
     # game/combat/decks/Decks.rpy:160
     old "{} needs at least {} not exhaustible cards!"
@@ -16,7 +16,7 @@ translate chinese strings:
 
     # game/combat/decks/Decks.rpy:168
     old "{} can have at most {} cards!"
-    new "{} 最多可以拥有 {} 卡牌!"
+    new "{} 最多可以拥有 {} 张卡牌!"
 
     # game/combat/decks/Decks.rpy:174
     old "Decks are correct."
