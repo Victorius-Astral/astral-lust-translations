@@ -37,11 +37,10 @@ translate spanish strings:
     # game/screens/pc/pc.rpy:3
     old "Difficulty Settings"
     new "Dificultad"
-# TODO: Translation updated at 2022-08-16 18:44
+# : Translation updated at 2022-08-16 18:44
 
 translate spanish strings:
 
     # game/screens/pc/pc.rpy:3
     old "Developer Tools"
-    new "Developer Tools"
-
+    new "Herramientas de Desarrollo"

@@ -2155,7 +2155,7 @@ translate spanish strings:
     # game/events/explore/midnight_kiss.rpy:747
     old "Ask about Angels"
     new "Preguntar por los Ángeles"
-# TODO: Translation updated at 2022-08-16 18:44
+# : Translation updated at 2022-08-16 18:44
 
 # game/events/explore/midnight_kiss.rpy:472
 translate spanish midnight_kiss_part4_1d336001:
@@ -2180,4 +2180,3 @@ translate spanish midnight_kiss_part4_e5dafa81:
 
     # something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts["fredericka"])
     something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts["fredericka"])
-

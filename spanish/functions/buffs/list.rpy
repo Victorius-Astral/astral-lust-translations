@@ -32,11 +32,10 @@ translate spanish strings:
     # game/functions/buffs/list.rpy:5
     old "Get {amount:+} spirituality each turn."
     new "Consigue {amount:+} espiritualidad cada turno."
-# TODO: Translation updated at 2022-08-16 18:44
+# : Translation updated at 2022-08-16 18:44
 
 translate spanish strings:
 
     # game/functions/buffs/list.rpy:11
     old "Trying to generate buff icon without providing name."
-    new "Trying to generate buff icon without providing name."
-
+    new "Intentando generar un ícono de buff sin proporcionar el nombre."

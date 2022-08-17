@@ -62,11 +62,10 @@ translate spanish strings:
     # game/variables/classes/Astral.rpy:465
     old "Lost items:"
     new "Objetos perdidos:"
-# TODO: Translation updated at 2022-08-16 18:44
+# : Translation updated at 2022-08-16 18:44
 
 translate spanish strings:
 
     # game/variables/classes/Astral.rpy:490
     old "\n • {{color={color}}}{amount}{{/color}} {{image={image}}}"
     new "\n • {{color={color}}}{amount}{{/color}} {{image={image}}}"
-
