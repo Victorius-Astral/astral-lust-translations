@@ -4,21 +4,21 @@ translate chinese strings:
 
     # game/combat/decks/Decks.rpy:41
     old "Deck {}"
-    new "Deck {}"
+    new "牌组 {}"
 
     # game/combat/decks/Decks.rpy:44
     old "Storage"
-    new "Storage"
+    new "储存"
 
     # game/combat/decks/Decks.rpy:160
     old "{} needs at least {} not exhaustible cards!"
-    new "{} needs at least {} not exhaustible cards!"
+    new "{} 至少需要 {} 不可耗尽的卡牌!"
 
     # game/combat/decks/Decks.rpy:168
     old "{} can have at most {} cards!"
-    new "{} can have at most {} cards!"
+    new "{} 最多可以拥有 {} 卡牌!"
 
     # game/combat/decks/Decks.rpy:174
     old "Decks are correct."
-    new "Decks are correct."
+    new "牌组符合准则。"
 
