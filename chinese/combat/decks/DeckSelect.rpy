@@ -12,9 +12,9 @@ translate chinese strings:
 
     # game/combat/decks/DeckSelect.rpy:65
     old "* Hover outside to see enemies"
-    new "* 鼠标悬停外部获取敌人详情"
+    new "* 鼠标悬停在外面以查看敌人详情"
 
     # game/combat/decks/DeckSelect.rpy:130
     old "* Click outside to toggle enemies view"
-    new "* 点击外部切换敌人视图"
+    new "* 点击外部以切换敌人视图"
 
