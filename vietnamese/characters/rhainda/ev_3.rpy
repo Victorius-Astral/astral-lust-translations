@@ -64,7 +64,7 @@ translate vietnamese rhainda_3_ddd7d2ea:
 translate vietnamese rhainda_3_be65a47e:
 
     # me "Do you know where to look?"
-    me "Em có biêt sphair tìm ở đâu không?"
+    me "Em có biết phải tìm ở đâu không?"
 
 # game/characters/rhainda/ev_3.rpy:33
 translate vietnamese rhainda_3_4934560f:
@@ -412,7 +412,7 @@ translate vietnamese rhainda_3_0bd548c5:
 translate vietnamese rhainda_3_812fd5aa:
 
     # rhainda "It's called knowing one's own abilities."
-    rhainda "It's called knowing one's own abilities."
+    rhainda "Nó gọi biết địch biết ta trăm trận trăm thắng."
 
 # game/characters/rhainda/ev_3.rpy:130
 translate vietnamese rhainda_3_271e7a16:
@@ -472,7 +472,7 @@ translate vietnamese rhainda_3_3fa48b27:
 translate vietnamese rhainda_3_f511a111:
 
     # rhainda "Because you're intelligent, these are mindless monsters, they fight till either side dies!"
-    rhainda "Bởi vì anh có trí khôn, đây là những con quái vật vô tâm, chúng chiến đấu cho đến khi bên nào chết!"
+    rhainda "Bởi vì anh có trí khôn, đây là những con quái vật vô tâm, chúng chiến đấu cho đến khi một bên chết thì mới thôi!"
 
 # game/characters/rhainda/ev_3.rpy:149
 translate vietnamese rhainda_3_881dce9e:
@@ -580,13 +580,13 @@ translate vietnamese rhainda_3_b5b51ccb:
 translate vietnamese rhainda_3_35a50681:
 
     # rhainda "I'm not going to kill them, though."
-    rhainda "Nwhng em sẽ không giết chúng đâu."
+    rhainda "Nhưng em sẽ không giết chúng đâu."
 
 # game/characters/rhainda/ev_3.rpy:176
 translate vietnamese rhainda_3_fbe53542:
 
     # me "Knock them out, then."
-    me "Vậy thì đnáh gục chúng đi."
+    me "Vậy thì đánh gục chúng đi."
 
 # game/characters/rhainda/ev_3.rpy:177
 translate vietnamese rhainda_3_d2c31fcf_1:
@@ -628,7 +628,7 @@ translate vietnamese rhainda_3_c15592a3:
 translate vietnamese rhainda_3_efc7eb59:
 
     # rhainda "What now? Changed your mind about running?"
-    rhainda "Giờ soa? Anh đã đổi ý về vụ chạy chưa?"
+    rhainda "Giờ sao? Anh đã đổi ý về vụ chạy chưa?"
 
 # game/characters/rhainda/ev_3.rpy:193
 translate vietnamese rhainda_3_efb18605:
@@ -742,13 +742,13 @@ translate vietnamese rhainda_3_440f8083:
 translate vietnamese rhainda_3_f79fc91a:
 
     # rhainda "You call this a commotion? Just admit to being cursed with bad luck."
-    rhainda "Bạn gọi đây là náo loạn á? Cứ thừa nhận là anh bị nguyền rủa với vận rủi luôn đi."
+    rhainda "Anh gọi đây là náo loạn á? Cứ thừa nhận là anh bị nguyền rủa với vận rủi luôn đi."
 
 # game/characters/rhainda/ev_3.rpy:227
 translate vietnamese rhainda_3_4d7a78e6:
 
     # me "I admit I fucked you."
-    me "Anh thừa nhận là anh đã địt {small}m̶̶ẹ̶{/small} em."
+    me "Anh thừa nhận là anh đã địt {small}mẹ{/small} em."
 
 # game/characters/rhainda/ev_3.rpy:231
 translate vietnamese rhainda_3_a5675c47:
@@ -778,19 +778,19 @@ translate vietnamese rhainda_3_abc2cebb:
 translate vietnamese rhainda_3_b43691a7:
 
     # rhainda "Now, now. Don't get aggressive after being pointed out."
-    rhainda "nào nào. Đừng trở nên hung hăng sau khi bị chỉ ra đấy."
+    rhainda "Nào nào. Đừng trở nên hung hăng sau khi bị chỉ ra đấy."
 
 # game/characters/rhainda/ev_3.rpy:236
 translate vietnamese rhainda_3_cc6304e0:
 
     # me "Were you always so annoying?"
-    me "Có phải em luôn khó chịu như vậy không??"
+    me "Có phải em lúc nào cũng khó chịu như này không?"
 
 # game/characters/rhainda/ev_3.rpy:240
 translate vietnamese rhainda_3_8c8fdc0b:
 
     # rhainda "Let's go home, you've had too much adrenaline today it seems."
-    rhainda "Về nhà thôi, hôm nay có vẻ như bạn đã uống quá nhiều adrenaline rồi đấy."
+    rhainda "Về nhà thôi, hôm nay có vẻ như anh đã uống quá nhiều adrenaline rồi đấy."
 
 # game/characters/rhainda/ev_3.rpy:241
 translate vietnamese rhainda_3_3820771a_3:
@@ -826,7 +826,7 @@ translate vietnamese rhainda_3_44288923:
 translate vietnamese rhainda_3_8ffc7c5f:
 
     # me "So you can be nice after all."
-    me "Vạy là em cũng có thể tỏ ra tử tế được à."
+    me "Vậy là em cũng có thể tỏ ra tử tế được à."
 
 # game/characters/rhainda/ev_3.rpy:256
 translate vietnamese rhainda_3_762b7863:

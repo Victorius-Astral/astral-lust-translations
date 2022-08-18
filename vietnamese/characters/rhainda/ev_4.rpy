@@ -4,7 +4,7 @@
 translate vietnamese rhainda_4_33288464:
 
     # rhainda "What's wrong with my dress?"
-    rhainda "Có chuyện gì vơi strang phuc của em sao?"
+    rhainda "Có chuyện gì với trang phuc của em sao?"
 
 # game/characters/rhainda/ev_4.rpy:6
 translate vietnamese rhainda_4_d8b1b85f:
@@ -178,7 +178,7 @@ translate vietnamese rhainda_4_3713cc90:
 translate vietnamese rhainda_4_c0f08ea8:
 
     # rhainda "Oh? It's gonna be fun, shot."
-    rhainda "Oh? VỤ này sẽ rất vui đấy, triển đi."
+    rhainda "Oh? Vụ này sẽ rất vui đấy, triển đi."
 
 # game/characters/rhainda/ev_4.rpy:62
 translate vietnamese rhainda_4_dc6b93a9:
@@ -286,7 +286,7 @@ translate vietnamese rhainda_4_a76ce091:
 translate vietnamese rhainda_4_1c3019c8:
 
     # rhainda "I would fight. I cherish all lives, but I treasure mine. I would fight and don't stop from killing if it means it's either me or them."
-    rhainda "Em sẽ chiến đấu. Em trân trọng tất cả cuộc sống, nhưng em cũng trân trọng cái của em. Em sẽ chiến đấu và không ngừng giết người nếu điều đó có nghĩa là em hoặc họ."
+    rhainda "Em sẽ chiến đấu. Em trân trọng tất cả cuộc sống, nhưng em cũng trân trọng cuộc sống của em. Em sẽ chiến đấu và không ngừng giết người nếu điều đó có nghĩa là em hoặc họ."
 
 # game/characters/rhainda/ev_4.rpy:98
 translate vietnamese rhainda_4_950f4ef0:
@@ -514,7 +514,7 @@ translate vietnamese rhainda_4_62906d08:
 translate vietnamese rhainda_4_f533216d:
 
     # me "Did I?"
-    me "Did I?"
+    me "Vậy sao?"
 
 # game/characters/rhainda/ev_4.rpy:175
 translate vietnamese rhainda_4_c90a13df:
@@ -640,7 +640,7 @@ translate vietnamese rhainda_4_42afff9a:
 translate vietnamese rhainda_4_eda122f9:
 
     # rhainda "Whelp. Time for me to go looking for him again."
-    rhainda "Whelp. Đã đến lúc tôi phải đi tìm anh ấy một lần nữa rồi."
+    rhainda "Whelp. Đã đến lúc em phải đi tìm ông ấy lần nữa rồi."
 
 # game/characters/rhainda/ev_4.rpy:214
 translate vietnamese rhainda_4_3bcd2686:

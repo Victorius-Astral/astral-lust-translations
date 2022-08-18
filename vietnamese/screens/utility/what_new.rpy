@@ -328,7 +328,7 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:175
     old "Gracie got three new story events, new 'anger & apology' mechanic, new sleeping content (including two footjobs), secret event, and more. The last of her new story events is merged with Alice's and Little Fox's events. Oh, it's a funny event ;)"
-    new "Gracie có ba sự kiện cốt chuyện mới, thợ máy 'giận dữ & lời xin lỗi', nội dung mới về giấc ngủ (bao gồm hai cảnh footjobs), sự kiện bí mật và hơn thế nữa. Sự kiện cuối cùng trong câu chuyện mới của cô ấy được hợp nhất với sự kiện của Alice và Tiểu Cáo. Ồ, đó là một sự kiện vui nhộn ;)"
+    new "Gracie có ba sự kiện cốt chuyện mới, thợ máy 'giận dữ & lời xin lỗi', nội dung mới về giấc ngủ (bao gồm hai cảnh footjobs), sự kiện bí mật và hơn thế nữa. Sự kiện cuối cùng trong câu chuyện mới của cô ấy được hợp nhất với sự kiện của Alice và Tiểu Cáo. Ồ, đó là một sự kiện vui nhộn ;)"
 
     # game/screens/utility/what_new.rpy:191
     old "{b}New Lexi & Mina events{/b}"

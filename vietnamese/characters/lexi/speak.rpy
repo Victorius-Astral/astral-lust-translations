@@ -727,7 +727,7 @@ translate vietnamese strings:
 
     # game/characters/lexi/speak.rpy:66
     old "Mina asked me to get her booze"
-    new "Mina yêu cầu tôi lấy rượu cho cô ấy"
+    new "Mina nhờ anh lấy rượu cho em ấy"
 
     # game/characters/lexi/speak.rpy:66
     old "I'm ready for our date"

@@ -106,7 +106,7 @@ translate vietnamese speak_grace_tasks_5661069d:
 translate vietnamese speak_grace_tasks_d5e0c168:
 
     # grace "Don't worry. I'll make you a super delicious dinner. You'll be happy."
-    grace "Đừng lo lắng. TôEmi sẽ làm cho anh một bữa tối siêu ngon."
+    grace "Đừng lo lắng. Em sẽ làm cho anh một bữa tối siêu ngon."
 
 # game/characters/grace/speak.rpy:140
 translate vietnamese speak_grace_tasks_0801ac6d:
@@ -694,7 +694,7 @@ translate vietnamese speak_grace_question3_a38e9307:
 translate vietnamese speak_grace_question_jack_ea6a034f:
 
     # grace "Oh.. He was nice to me from the moment I got here."
-    grace "Oh... Anh ấy đã tốt với em kể từ khi em đến đây."
+    grace "Oh... Anh ấy đã đối xử rất tốt với em kể từ khi em đến đây."
 
 # game/characters/grace/speak.rpy:410
 translate vietnamese speak_grace_question_jack_f5024d73:

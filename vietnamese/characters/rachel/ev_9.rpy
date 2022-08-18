@@ -406,7 +406,7 @@ translate vietnamese rachel_9_0b6c6074:
 translate vietnamese rachel_9_2438e311:
 
     # rachel "Give me a moment, please."
-    rachel "Đợi chị mootjlusc dược khôgn."
+    rachel "Đợi chị một lúc thôi, được không."
 
 # game/characters/rachel/ev_9.rpy:106
 translate vietnamese rachel_9_97592cbc:
@@ -448,7 +448,7 @@ translate vietnamese rachel_9_37617c9b:
 translate vietnamese rachel_9_fc19151f:
 
     # grace "Where is your skirt? Why don't you wear panties?"
-    grace "Vạy của chị đâu rồi? Sao chị không mặc quần lót?"
+    grace "Váy của chị đâu rồi? Sao chị không mặc quần lót?"
 
 # game/characters/rachel/ev_9.rpy:119
 translate vietnamese rachel_9_09b38e87:
@@ -496,7 +496,7 @@ translate vietnamese rachel_9_28a0dab4:
 translate vietnamese rachel_9_85ae7364:
 
     # rachel "{quiet}[me], please, don't let her see you.{/quiet}"
-    rachel "{quiet}[me], làm ơn đừng để em aays thấy nah.{/quiet}"
+    rachel "{quiet}[me], làm ơn đừng để em ấy thấy nah.{/quiet}"
 
 # game/characters/rachel/ev_9.rpy:130
 translate vietnamese rachel_9_cdb68806:
@@ -526,13 +526,13 @@ translate vietnamese rachel_9_d8769c30:
 translate vietnamese rachel_9_3a593b46:
 
     # rachel "Have fun.."
-    rachel "Vui vể nha..."
+    rachel "Tùy em thôi..."
 
 # game/characters/rachel/ev_9.rpy:135
 translate vietnamese rachel_9_70073964:
 
     # th "What the hell is happening there, and why do I need to be behind the counter right now?"
-    th "Chuyện quái gì đang xảy ra ở đó vậy, và tại sao mình phải núp sau quầy nãy giờ vậy?"
+    th "Chuyện quái gì đang xảy ra ở đó vậy, và tại sao mình phải núp sau quầy?"
 
 # game/characters/rachel/ev_9.rpy:136
 translate vietnamese rachel_9_146f5884:

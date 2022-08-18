@@ -484,7 +484,7 @@ translate vietnamese lexi_kitchen_date_cooking_0b5cd187:
 translate vietnamese lexi_kitchen_date_cooking_9f95a503:
 
     # lexi "Hmmm... Did I add the salt?"
-    lexi "Hmmm... Có phải là em đã thêm muối vào khôgn?"
+    lexi "Hmmm... Có phải là em đã thêm muối vào không?"
 
 # game/characters/lexi/kitchen_date.rpy:270
 translate vietnamese lexi_kitchen_date_cooking_520c83eb:
@@ -712,7 +712,7 @@ translate vietnamese lexi_kitchen_date_eat_menu_7f7e2bdc:
 translate vietnamese lexi_kitchen_date_eat_menu_b73e3c39:
 
     # me "No, it's just great."
-    me "Khoogn, chỉ là nó rất tuyệt thôi."
+    me "không, chỉ là nó rất tuyệt thôi."
 
 # game/characters/lexi/kitchen_date.rpy:384
 translate vietnamese lexi_kitchen_date_eat_menu_472a6462:
@@ -2974,7 +2974,7 @@ translate vietnamese lexi_kitchen_date_second_wine_d5044e62:
 translate vietnamese lexi_kitchen_date_second_wine_56707cbf:
 
     # mina "What if you did?"
-    mina "Và nếu nwhw anh có thì sao?"
+    mina "Và nếu như anh có thì sao?"
 
 # game/characters/lexi/kitchen_date.rpy:1159
 translate vietnamese lexi_kitchen_date_second_wine_50061ee2:
@@ -4462,7 +4462,7 @@ translate vietnamese lexi_kitchen_date_blowjob_7ef30f25:
 translate vietnamese lexi_kitchen_date_blowjob_b20b0319:
 
     # me "Oh, you mean sex, right?"
-    me "Oh, ý em là sex phải khôgn?"
+    me "Oh, ý em là sex phải không?"
 
 # game/characters/lexi/kitchen_date.rpy:1757
 translate vietnamese lexi_kitchen_date_blowjob_45002f50:
@@ -5380,7 +5380,7 @@ translate vietnamese lexi_kitchen_date_wakeup_1063b00d:
 translate vietnamese lexi_kitchen_date_wakeup_eb01dc63:
 
     # lexi "She does it almost every day."
-    lexi "Em làm nwh vậy gần như là mọi ngày."
+    lexi "Em làm như vậy gần như là mọi ngày."
 
 # game/characters/lexi/kitchen_date.rpy:2126
 translate vietnamese lexi_kitchen_date_wakeup_7a060a94:
@@ -5734,7 +5734,7 @@ translate vietnamese lexi_kitchen_date_bath_e1a1df95:
 translate vietnamese lexi_kitchen_date_bath_70d06e67:
 
     # lexi "You do a lot, though."
-    lexi "Nwhng anh đã làm rất nhiều rồi."
+    lexi "Nhưng anh đã làm rất nhiều rồi."
 
 # game/characters/lexi/kitchen_date.rpy:2263
 translate vietnamese lexi_kitchen_date_bath_97b9069f:
@@ -5830,7 +5830,7 @@ translate vietnamese lexi_kitchen_date_bath_b97bc95f:
 translate vietnamese lexi_kitchen_date_bath_b532f515:
 
     # lexi "Did he say that in the end?"
-    lexi "Vậy đến cuối anh ta có nói câu đấy khôgn?"
+    lexi "Vậy đến cuối anh ta có nói câu đấy không?"
 
 # game/characters/lexi/kitchen_date.rpy:2279
 translate vietnamese lexi_kitchen_date_bath_b71941f0:

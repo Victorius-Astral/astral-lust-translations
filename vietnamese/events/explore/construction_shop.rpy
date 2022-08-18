@@ -622,7 +622,7 @@ translate vietnamese strings:
 
     # game/events/explore/construction_shop.rpy:48
     old "Easy there, I mean no offense"
-    new "Bình tĩnh, tôi không có ý xâu"
+    new "Bình tĩnh, tôi không có ý xấu đâu"
 
     # game/events/explore/construction_shop.rpy:48
     old "{color=#800080}[[Corruption / Madness]{/color} Your death"

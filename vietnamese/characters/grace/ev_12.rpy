@@ -58,7 +58,7 @@ translate vietnamese grace_12_1d54c1a0:
 translate vietnamese grace_12_62722bc7:
 
     # grace "You were nice to me. I wanted to repay your kindness. Mommy told me we need to help each other."
-    grace "Anh đã tốt với em. Em muốn trả ơn lòng tốt của anh. Mẹ nói với em rằng chúng ta cần giúp đỡ lẫn nhau."
+    grace "Anh đã đối xử rất tốt với em. Em muốn trả ơn lòng tốt của anh. Mẹ nói với em rằng chúng ta cần giúp đỡ lẫn nhau."
 
 # game/characters/grace/ev_12.rpy:31
 translate vietnamese grace_12_7b2ce815:
@@ -142,7 +142,7 @@ translate vietnamese grace_12_9bc1f6be:
 translate vietnamese grace_12_5c6f25d8:
 
     # grace "Mm. I don't know where he lives, though."
-    grace "Mm. Tuy nhiên, em lại không biết anh ấy sống ở đâu."
+    grace "Mm. Tuy nhiên, em lại không biết ông ấy sống ở đâu."
 
 # game/characters/grace/ev_12.rpy:45
 translate vietnamese grace_12_8d042798:
@@ -298,7 +298,7 @@ translate vietnamese grace_12_8a7ba166:
 translate vietnamese grace_12_6d1c8920:
 
     # me "It is. Your mommy loves you, she would want you to be happy, right?"
-    me "Nó là. Mẹ của bạn yêu bạn, bà ấy sẽ muốn bạn hạnh phúc, phải không?"
+    me "Đó là mẹ của em yêu em, bà ấy sẽ muốn em hạnh phúc, phải không?"
 
 # game/characters/grace/ev_12.rpy:89
 translate vietnamese grace_12_7402cda2_1:
@@ -358,7 +358,7 @@ translate vietnamese grace_12_73fa748b:
 translate vietnamese grace_12_444ec829:
 
     # me "Your mom wanted to protect you from things that you didn't want to be protected from. She hurt you."
-    me "Your mom wanted to protect you from things that you didn't want to be protected from. She hurt you."
+    me "Mẹ em muốn bảo vệ em khỏi những thứ mà em không muốn được bảo vệ. Bà ấy làm tổn thương em."
 
 # game/characters/grace/ev_12.rpy:99
 translate vietnamese grace_12_cad5ec68:
@@ -388,7 +388,7 @@ translate vietnamese grace_12_3c1f4619:
 translate vietnamese grace_12_104393d9:
 
     # me "It is. You were a frog at the bottom of a well. Now you've jumped out of the well and finally seen the world."
-    me "Ừm. Em là một con ếch ở đáy giếng. Bây giờ rm đã nhảy ra khỏi giếng và cuối cùng cũng đã nhìn thấy được thế giới."
+    me "Ừm. Em là một con ếch ở đáy giếng. Bây giờ em đã nhảy ra khỏi giếng và cuối cùng cũng đã nhìn thấy được thế giới."
 
 # game/characters/grace/ev_12.rpy:104
 translate vietnamese grace_12_7f29491b:
@@ -490,7 +490,7 @@ translate vietnamese grace_12_72f419d0:
 translate vietnamese grace_12_56bd74f0:
 
     # me "I wanted to reassure you, but I can't know this. I think you grew up, you're a big girl now. You don't need me to lie to you, do you?"
-    me "Anh muốn sở hữu em, nhưng anh không thế biết điều này. Anh nghĩ là em sẽ lớn lên, em là một cô gái trưởng thành rồi. Em không cần phải nói dối chính mình nữa đâu, đúng không?"
+    me "Anh muốn sở hữu em, nhưng anh không thể biết điều này. Anh nghĩ là em sẽ lớn lên, em là một cô gái trưởng thành rồi. Em không cần phải nói dối chính mình nữa đâu, đúng không?"
 
 # game/characters/grace/ev_12.rpy:121
 translate vietnamese grace_12_339a5cfa:
@@ -550,7 +550,7 @@ translate vietnamese grace_12_7f8ecc2c:
 translate vietnamese grace_12_322d01a0:
 
     # me "You found the happiness in the apocalypse, so don't let it go. Don't waste time thinking about it, focus on what's now."
-    me "Em tìm thấy hạnh phúc trong ngày tận thế, nên đừng buông nó ra. Đừng lãng phí thời gian để nghĩ về nó, hãy tập trung vòa hiện tại đi."
+    me "Em tìm thấy hạnh phúc trong ngày tận thế, nên đừng buông nó ra. Đừng lãng phí thời gian để nghĩ về nó, hãy tập trung vào hiện tại đi."
 
 # game/characters/grace/ev_12.rpy:131
 translate vietnamese grace_12_28443469:
@@ -586,7 +586,7 @@ translate vietnamese grace_12_b8576e18:
 translate vietnamese grace_12_05e3735c:
 
     # grace "I think mommy was wrong about this."
-    grace "EM nghxi mẹ đã sai rồi."
+    grace "Em nghĩ là mẹ đã sai rồi."
 
 # game/characters/grace/ev_12.rpy:140
 translate vietnamese grace_12_a991a64a:
@@ -640,7 +640,7 @@ translate vietnamese grace_12_67e6c0e1_1:
 translate vietnamese grace_12_5317622e:
 
     # me "Anyway, we're now living together, so we need to support each other."
-    me "Dù sao thì, chúng ta bây giờ sống cùng nhau rồi, nên cần hỗ trọ lẫn nhau."
+    me "Dù sao thì, chúng ta bây giờ sống cùng nhau rồi, nên cần hỗ trợ lẫn nhau."
 
 # game/characters/grace/ev_12.rpy:168
 translate vietnamese grace_12_746d3dc9:
@@ -760,7 +760,7 @@ translate vietnamese grace_12_15d45fde:
 translate vietnamese grace_12_6cc5d53e:
 
     # grace "Is my dad a psychologist?"
-    grace "Bố em có phải là nhà tamalys học không?"
+    grace "Bố em có phải là nhà tâm lý học không?"
 
 # game/characters/grace/ev_12.rpy:197
 translate vietnamese grace_12_8030e86c:
@@ -784,7 +784,7 @@ translate vietnamese grace_12_2c1c3aa0:
 translate vietnamese grace_12_8f46d5f5:
 
     # grace "Hehe, I'm amazing!"
-    grace "Hehe, Em thật tuyệt!"
+    grace "Hehe, em thật tuyệt!"
 
 # game/characters/grace/ev_12.rpy:207
 translate vietnamese grace_12_b32b5950:
@@ -796,7 +796,7 @@ translate vietnamese grace_12_b32b5950:
 translate vietnamese grace_12_41f92697:
 
     # me "That's the spirit."
-    me "Đo là tinh thần đấy."
+    me "Thế mới là tinh thần chứ."
 
 # game/characters/grace/ev_12.rpy:212
 translate vietnamese grace_12_2fd5601c:
@@ -826,7 +826,7 @@ translate vietnamese grace_12_cde13dd3:
 translate vietnamese grace_12_27caa67f:
 
     # me "Haha, I see. I'm not a psychologist, though. I make you feel like this because you like me."
-    me "Haha, anh hiểu rồi. anh không phải là nhà tâm lý học. Anh làm em cảm thấy như vậy vì me thích anh."
+    me "Haha, anh hiểu rồi. anh không phải là nhà tâm lý học. Anh làm em cảm thấy như vậy vì em thích anh."
 
 # game/characters/grace/ev_12.rpy:220
 translate vietnamese grace_12_318f3e10:

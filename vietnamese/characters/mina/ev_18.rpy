@@ -142,7 +142,7 @@ translate vietnamese mina_18_part2_15d3ccd2:
 translate vietnamese mina_18_part2_1f2a0f54:
 
     # mina "How was your life before all of this?"
-    mina "Cuộc sống của anh trước đây nwh nào?"
+    mina "Cuộc sống của anh trước đây như nào?"
 
 # game/characters/mina/ev_18.rpy:67
 translate vietnamese mina_18_part2_ddc543a4:
@@ -154,13 +154,13 @@ translate vietnamese mina_18_part2_ddc543a4:
 translate vietnamese mina_18_part2_85425b0e:
 
     # mina "Doesn't sound bad."
-    mina "NGhe cũng đâu có tệ lắm đâu."
+    mina "Nghe cũng đâu có tệ lắm đâu."
 
 # game/characters/mina/ev_18.rpy:69
 translate vietnamese mina_18_part2_7dc8123a:
 
     # me "I had money, I wasn't rich, but I didn't need to consider how much I spend every day."
-    me "ANh có tền, anh không giàu. Nhưng anh không cần quá đắn đo suy nghĩ về việc chi tiêu mỗi ngày."
+    me "Anh có tền, anh không giàu. Nhưng anh không cần quá đắn đo suy nghĩ về việc chi tiêu mỗi ngày."
 
 # game/characters/mina/ev_18.rpy:70
 translate vietnamese mina_18_part2_808fc351:
@@ -172,7 +172,7 @@ translate vietnamese mina_18_part2_808fc351:
 translate vietnamese mina_18_part2_6f496f44:
 
     # mina "Now it does sound bad."
-    mina "Giờ thfi nó nghe không ổn rồi đấy."
+    mina "Giờ thì nó nghe không ổn rồi đấy."
 
 # game/characters/mina/ev_18.rpy:72
 translate vietnamese mina_18_part2_5aed6772:
@@ -208,7 +208,7 @@ translate vietnamese mina_18_part2_ced4ea30:
 translate vietnamese mina_18_part2_3a895c19:
 
     # mina "Mostly hanging out with friends. We were out almost every day."
-    mina "Hầu hết là đi chơi với bạn. Gần như ngày nào cũng đii luôn."
+    mina "Hầu hết là đi chơi với bạn. Gần như ngày nào cũng đi luôn."
 
 # game/characters/mina/ev_18.rpy:78
 translate vietnamese mina_18_part2_c721ebec:
@@ -388,7 +388,7 @@ translate vietnamese mina_18_part2_82a53785:
 translate vietnamese mina_18_part2_e1db6a4e:
 
     # me "How did you come to have a boyfriend, though?"
-    me "Làm sao nào mà bạn có một người bạn trai vậy?"
+    me "Sao mà em lại có được một người bạn trai vậy?"
 
 # game/characters/mina/ev_18.rpy:123
 translate vietnamese mina_18_part2_63d67fa8:
@@ -472,7 +472,7 @@ translate vietnamese mina_18_part2_0b5100f9:
 translate vietnamese mina_18_part2_67272f50:
 
     # mina "Alice was my first female crush."
-    mina "Alice là crush k=cùng giới đầu tiên của em."
+    mina "Alice là crush khác giới đầu tiên của em."
 
 # game/characters/mina/ev_18.rpy:155
 translate vietnamese mina_18_part2_46ed909a:
@@ -490,7 +490,7 @@ translate vietnamese mina_18_part2_3f9e9d51:
 translate vietnamese mina_18_part2_f3b6d729:
 
     # me "You're going to find a nice partner. Don't lose hope."
-    me "Em cũng sẽ tìm được mộ người tốt thôi. Đừng mất hi vọng."
+    me "Em cũng sẽ tìm được một người tốt thôi. Đừng mất hy vọng."
 
 # game/characters/mina/ev_18.rpy:158
 translate vietnamese mina_18_part2_0b271dca:
@@ -592,7 +592,7 @@ translate vietnamese mina_18_part2_4dea8bc0:
 translate vietnamese mina_18_part2_43a406fa:
 
     # mina "I'll definitely spend some time there. Who's your fave?"
-    mina "EM chắc chắn sẽ dành thời gian ở đó. Ai là người yêu thích của anh?"
+    mina "Em chắc chắn sẽ dành thời gian ở đó. Ai là người yêu thích của anh?"
 
 # game/characters/mina/ev_18.rpy:180
 translate vietnamese mina_18_part2_dcdbf6c1:
@@ -778,7 +778,7 @@ translate vietnamese mina_18_part3_41cea400:
 translate vietnamese mina_18_part3_8287124a:
 
     # me "We'll see what I can find."
-    me "Phải xem anh tìm đợc gì đã."
+    me "Phải xem anh tìm được gì đã."
 
 # game/characters/mina/ev_18.rpy:236
 translate vietnamese mina_18_part3_a1ea79f8:
@@ -856,7 +856,7 @@ translate vietnamese mina_18_part3_1885c8f7:
 translate vietnamese mina_18_part3_64194dc8:
 
     # mina "Can I hide it somehow?"
-    mina "EM có thể giấu nó đi bằng cách nào giờ?"
+    mina "Em có thể giấu nó đi bằng cách nào giờ?"
 
 # game/characters/mina/ev_18.rpy:264
 translate vietnamese mina_18_part3_44b7a00c:
@@ -868,7 +868,7 @@ translate vietnamese mina_18_part3_44b7a00c:
 translate vietnamese mina_18_part3_ac947a73:
 
     # mina "Sounds like a good plan."
-    mina "Nghe có vẻ đợc đấy."
+    mina "Nghe có vẻ được đấy."
 
 # game/characters/mina/ev_18.rpy:269
 translate vietnamese mina_18_part3_39ec626b:
@@ -964,7 +964,7 @@ translate vietnamese mina_18_part3_9167adfa:
 translate vietnamese mina_18_part3_261bf76d:
 
     # me "Yeah. For ten minutes already."
-    me "Yeah. Ddowcj 10 phút rồi đấy."
+    me "Yeah. Được 10 phút rồi đấy."
 
 # game/characters/mina/ev_18.rpy:305
 translate vietnamese mina_18_part3_77dcdda1:
@@ -988,13 +988,13 @@ translate vietnamese mina_18_part3_60e1fdd1:
 translate vietnamese mina_18_part3_45894d95:
 
     # mina "My head is alright!"
-    mina "Dầu em rất là ổn!"
+    mina "Đầu em rất là ổn!"
 
 # game/characters/mina/ev_18.rpy:312
 translate vietnamese mina_18_part3_def24d3a:
 
     # me "Of course. Come, I'll take you back to your room."
-    me "Tất nhiên rồi. Đến đay nào, anh sẽ đưa em về phòng."
+    me "Tất nhiên rồi. Đến đây nào, anh sẽ đưa em về phòng."
 
 # game/characters/mina/ev_18.rpy:316
 translate vietnamese mina_18_part3_0eacd608:
@@ -1090,7 +1090,7 @@ translate vietnamese mina_18_part3_c833cbfe:
 translate vietnamese mina_18_part3_67144386:
 
     # me "Lexi is here."
-    me "Quả đầu bóng ma anh quốc mỳ tôm xiaomi của cháu xong rồi này."
+    me "Quả đầu bóng ma anh quốc mỳ tôm xiaomi của ông cháu xong rồi này."
 
 # game/characters/mina/ev_18.rpy:357
 translate vietnamese mina_18_part3_03c5668b:

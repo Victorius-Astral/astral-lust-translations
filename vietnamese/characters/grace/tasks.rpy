@@ -28,7 +28,7 @@ translate vietnamese task_grace_dinner_d6f4c0a5:
 translate vietnamese task_grace_dinner_11ca7624:
 
     # me "Mmm. Where did you get the steak?"
-    me "Mmm. Bạn lấy miếng thịt ở đâu vậy?"
+    me "Mmm. Em lấy miếng thịt ở đâu vậy?"
 
 # game/characters/grace/tasks.rpy:17
 translate vietnamese task_grace_dinner_6f5eb998:
