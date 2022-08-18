@@ -1389,3 +1389,10 @@ translate spanish strings:
     # game/characters/grace/play_house.rpy:264
     old "A mother is 21 years older than her child. In 6 years the child will be 5 times younger than mother. Where is the father?"
     new "Una madre es 21 años mayor que su hijo. En 6 años el hijo será 5 veces menor que la madre. ¿Dónde está el padre?"
+# : Translation updated at 2022-08-16 18:44
+
+translate spanish strings:
+
+    # game/characters/grace/play_house.rpy:198
+    old "mother"
+    new "madre"

@@ -321,3 +321,62 @@ translate spanish strings:
     # game/variables/wallpapers.rpy:398
     old "Valentines 2022"
     new "Valentín 2022"
+# : Translation updated at 2022-08-16 18:44
+
+translate spanish strings:
+
+    # game/variables/wallpapers.rpy:24
+    old "Patreon"
+    new "Patreon"
+
+    # game/variables/wallpapers.rpy:24
+    old "Combat"
+    new "Combate"
+
+    # game/variables/wallpapers.rpy:24
+    old "Collectible"
+    new "Coleccionable"
+
+    # game/variables/wallpapers.rpy:24
+    old "Postcard"
+    new "Tarjeta postal"
+
+    # game/variables/wallpapers.rpy:24
+    old "Patreon - Time Limited"
+    new "Patreon - Tiempo Limitado"
+
+    # game/variables/wallpapers.rpy:24
+    old "Time Limited"
+    new "Tiempo Limitado"
+
+    # game/variables/wallpapers.rpy:24
+    old "Mod"
+    new "Mod"
+
+    # game/variables/wallpapers.rpy:454
+    old "July 2022 1"
+    new "Jul 2022 1"
+
+    # game/variables/wallpapers.rpy:455
+    old "July 2022 2"
+    new "Jul 2022 2"
+
+    # game/variables/wallpapers.rpy:456
+    old "July 2022 3"
+    new "Jul 2022 3"
+
+    # game/variables/wallpapers.rpy:457
+    old "July 2022 4"
+    new "Jul 2022 4"
+
+    # game/variables/wallpapers.rpy:458
+    old "July 2022 5"
+    new "Jul 2022 5"
+
+    # game/variables/wallpapers.rpy:465
+    old "July 2022 Postcard"
+    new "Jul 2022 Postcard"
+
+    # game/variables/wallpapers.rpy:489
+    old "July 2022"
+    new "Jul 2022"

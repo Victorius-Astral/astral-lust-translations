@@ -529,3 +529,22 @@ translate spanish strings:
     # game/characters/player/ev_12.rpy:43
     old "Higher Beings should be referred to with respect, They should be described as He/She/It, using he/she/it is considered lack of respect and thus dangerous."
     new "Se referir a los Seres Superiores con respeto. Deben describirse como Él/Ella/Eso. Usar él/ella/eso se considera una falta de respeto y, por lo tanto, peligroso."
+# : Translation updated at 2022-08-16 18:44
+
+# game/characters/player/ev_12.rpy:64
+translate spanish main_12_753c1237:
+
+    # aharon "Before 'It' perished, 'It' made preparations, 'It' has left a key in a River of Destiny. Yet back then 'It' couldn't control how it would manifest."
+    aharon "Antes de que 'Eso' falleciera, 'Eso' hizo preparativos, 'Eso' ha dejado una llave en el Río del Destino. Aún así, 'Eso' no pudo controlar como se manifestaría."
+
+# game/characters/player/ev_12.rpy:68
+translate spanish main_12_086371c0:
+
+    # me "Alright, so I have this key somehow, right?"
+    me "Muy bien, así que tengo esta llave de alguna forma, ¿correcto?"
+
+# game/characters/player/ev_12.rpy:74
+translate spanish main_12_ccb68647:
+
+    # me "I wouldn't be able to resist.. Why did You change Your mind?"
+    me "No sería capaz de resistir... ¿Por qué cambiarías Tú de opinión?"

@@ -163,3 +163,10 @@ translate spanish strings:
     # game/characters/little fox/speak.rpy:77
     old "Little Cum-Stealer"
     new "Pequeña Roba-Semen"
+# : Translation updated at 2022-08-16 18:44
+
+translate spanish strings:
+
+    # game/characters/little fox/speak.rpy:31
+    old "Do you want to go on an adventure together?"
+    new "¿Quieres ir a una aventura juntos?"

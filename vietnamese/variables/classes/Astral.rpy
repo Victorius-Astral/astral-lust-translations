@@ -63,3 +63,11 @@ translate vietnamese strings:
     # game/variables/classes/Astral.rpy:465
     old "Lost items:"
     new "Vật Phẩm thất lạc:"
+# TODO: Translation updated at 2022-08-13 15:58
+
+translate vietnamese strings:
+
+    # game/variables/classes/Astral.rpy:490
+    old "\n • {{color={color}}}{amount}{{/color}} {{image={image}}}"
+    new "\n • {{color={color}}}{amount}{{/color}} {{image={image}}}"
+

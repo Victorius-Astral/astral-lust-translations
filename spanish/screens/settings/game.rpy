@@ -221,3 +221,10 @@ translate spanish strings:
     # game/screens/settings/game.rpy:96
     old "*Restart required for full change"
     new "*Se requiere reiniciar para el cambio completo"
+# : Translation updated at 2022-08-16 18:44
+
+translate spanish strings:
+
+    # game/screens/settings/game.rpy:109
+    old "Show in-progress languages"
+    new "Mostrar idiomas en progreso"

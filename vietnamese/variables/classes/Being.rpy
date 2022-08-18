@@ -5,3 +5,11 @@ translate vietnamese strings:
     # game/variables/classes/Being.rpy:1116
     old "Health +{} ({}/{})"
     new "Máu +{} ({}/{})"
+# TODO: Translation updated at 2022-08-13 15:58
+
+translate vietnamese strings:
+
+    # game/variables/classes/Being.rpy:1590
+    old "Buff granted: {buff} {{image={image}}} ({amount})"
+    new "Buff granted: {buff} {{image={image}}} ({amount})"
+

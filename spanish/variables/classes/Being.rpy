@@ -5,3 +5,10 @@ translate spanish strings:
     # game/variables/classes/Being.rpy:1116
     old "Health +{} ({}/{})"
     new "Salud +{} ({}/{})"
+# : Translation updated at 2022-08-16 18:44
+
+translate spanish strings:
+
+    # game/variables/classes/Being.rpy:1590
+    old "Buff granted: {buff} {{image={image}}} ({amount})"
+    new "Buff dado: {buff} {{image={image}}} ({amount})"

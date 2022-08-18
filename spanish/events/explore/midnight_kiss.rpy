@@ -891,8 +891,8 @@ translate spanish midnight_kiss_part4_9326d2f0:
 # game/events/explore/midnight_kiss.rpy:466
 translate spanish midnight_kiss_part4_4d0753ce:
 
-    # something "Y' l' gotha f' mgah nafl'fhtagn. Fahf agl hafh mgn'ghft." (what_font=fonts.sancreek)
-    something "Y' l' gotha f' mgah nafl'fhtagn. Fahf agl hafh mgn'ghft." (what_font=fonts.sancreek)
+    # something "Y' l' gotha f' mgah nafl'fhtagn. Fahf agl hafh mgn'ghft." (what_font=fonts["sancreek"])
+    something "Y' l' gotha f' mgah nafl'fhtagn. Fahf agl hafh mgn'ghft." (what_font=fonts["sancreek"])
 
 # game/events/explore/midnight_kiss.rpy:468
 translate spanish midnight_kiss_part4_e92c7c78:
@@ -915,8 +915,8 @@ translate spanish midnight_kiss_part4_86219a09:
 # game/events/explore/midnight_kiss.rpy:474
 translate spanish midnight_kiss_part4_bbf5d90a:
 
-    # something "Mgehye'lloig ahuaaah nilgh'ri h' r'luh." (what_font=fonts.sancreek)
-    something "Mgehye'lloig ahuaaah nilgh'ri h' r'luh." (what_font=fonts.sancreek)
+    # something "Mgehye'lloig ahuaaah nilgh'ri h' r'luh." (what_font=fonts["sancreek"])
+    something "Mgehye'lloig ahuaaah nilgh'ri h' r'luh." (what_font=fonts["sancreek"])
 
 # game/events/explore/midnight_kiss.rpy:476
 translate spanish midnight_kiss_part4_35c658f5:
@@ -951,8 +951,8 @@ translate spanish midnight_kiss_part4_7359978a:
 # game/events/explore/midnight_kiss.rpy:486
 translate spanish midnight_kiss_part4_a971570e:
 
-    # something "Mgehye'lloig ah Uaaahnyth." (what_font=fonts.sancreek)
-    something "Mgehye'lloig ah Uaaahnyth." (what_font=fonts.sancreek)
+    # something "Mgehye'lloig ah Uaaahnyth." (what_font=fonts["sancreek"])
+    something "Mgehye'lloig ah Uaaahnyth." (what_font=fonts["sancreek"])
 
 # game/events/explore/midnight_kiss.rpy:488
 translate spanish midnight_kiss_part4_bb379b73:
@@ -969,8 +969,8 @@ translate spanish midnight_kiss_part4_6e9fb7db:
 # game/events/explore/midnight_kiss.rpy:492
 translate spanish midnight_kiss_part4_456eea07:
 
-    # something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts.fredericka)
-    something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts.fredericka)
+    # something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts["fredericka"])
+    something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts["fredericka"])
 
 # game/events/explore/midnight_kiss.rpy:494
 translate spanish midnight_kiss_part4_46ca3359:
@@ -2155,3 +2155,28 @@ translate spanish strings:
     # game/events/explore/midnight_kiss.rpy:747
     old "Ask about Angels"
     new "Preguntar por los Ángeles"
+# : Translation updated at 2022-08-16 18:44
+
+# game/events/explore/midnight_kiss.rpy:472
+translate spanish midnight_kiss_part4_1d336001:
+
+    # something "Y' l' gotha f' mgah nafl'fhtagn. Fahf agl hafh mgn'ghft." (what_font=fonts["sancreek"])
+    something "Y' l' gotha f' mgah nafl'fhtagn. Fahf agl hafh mgn'ghft." (what_font=fonts["sancreek"])
+
+# game/events/explore/midnight_kiss.rpy:480
+translate spanish midnight_kiss_part4_cc6c03ff:
+
+    # something "Mgehye'lloig ahuaaah nilgh'ri h' r'luh." (what_font=fonts["sancreek"])
+    something "Mgehye'lloig ahuaaah nilgh'ri h' r'luh." (what_font=fonts["sancreek"])
+
+# game/events/explore/midnight_kiss.rpy:492
+translate spanish midnight_kiss_part4_8591c7f0:
+
+    # something "Mgehye'lloig ah Uaaahnyth." (what_font=fonts["sancreek"])
+    something "Mgehye'lloig ah Uaaahnyth." (what_font=fonts["sancreek"])
+
+# game/events/explore/midnight_kiss.rpy:498
+translate spanish midnight_kiss_part4_e5dafa81:
+
+    # something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts["fredericka"])
+    something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts["fredericka"])

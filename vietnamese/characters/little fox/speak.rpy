@@ -176,3 +176,11 @@ translate vietnamese speak_lilfox_feed_int_1aa98482:
 
     # lil_fox "Hungry fox is a bad fox. So, you will have to feed me a lot."
     lil_fox "Cáo bị đói là một con cáo hư. Vì vậy nên, anh sẽ phải cho em ăn rất nhiều đấy."
+# TODO: Translation updated at 2022-08-13 15:58
+
+translate vietnamese strings:
+
+    # game/characters/little fox/speak.rpy:31
+    old "Do you want to go on an adventure together?"
+    new "Do you want to go on an adventure together?"
+

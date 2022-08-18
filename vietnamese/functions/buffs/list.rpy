@@ -32,3 +32,11 @@ translate vietnamese strings:
     # game/functions/buffs/list.rpy:5
     old "Get {amount:+} spirituality each turn."
     new "Nhận {amount:+} năng lượng tâm linh mỗi lượt."
+# TODO: Translation updated at 2022-08-13 15:58
+
+translate vietnamese strings:
+
+    # game/functions/buffs/list.rpy:11
+    old "Trying to generate buff icon without providing name."
+    new "Trying to generate buff icon without providing name."
+

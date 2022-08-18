@@ -742,7 +742,7 @@ translate vietnamese mina_5_2_d469100d:
 translate vietnamese mina_5_2_a8d7f12b:
 
     # "You all take a seat around the table as [grace] cooks dinner." id mina_5_2_a8d7f12b
-    "Tất cả mọi người ngồi quanh bàn trong khi [Grace] nấu bữa tối." id mina_5_2_a8d7f12b
+    "Tất cả mọi người ngồi quanh bàn trong khi [grace] nấu bữa tối." id mina_5_2_a8d7f12b
 
 # game/characters/mina/ev_5.rpy:275
 translate vietnamese mina_5_2_dc0c3688:

@@ -240,3 +240,11 @@ translate vietnamese strings:
     # game/screens/settings/game.rpy:96
     old "*Restart required for full change"
     new "*Cần phải khởi động lại để mọi thứ được Việt hóa hoàn toàn"
+# TODO: Translation updated at 2022-08-13 15:58
+
+translate vietnamese strings:
+
+    # game/screens/settings/game.rpy:109
+    old "Show in-progress languages"
+    new "Show in-progress languages"
+

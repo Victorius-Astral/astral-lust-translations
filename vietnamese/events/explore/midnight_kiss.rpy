@@ -891,8 +891,8 @@ translate vietnamese midnight_kiss_part4_9326d2f0:
 # game/events/explore/midnight_kiss.rpy:466
 translate vietnamese midnight_kiss_part4_4d0753ce:
 
-    # something "Y' l' gotha f' mgah nafl'fhtagn. Fahf agl hafh mgn'ghft." (what_font=fonts.sancreek)
-    something "Y' l' gotha f' mgah nafl'fhtagn. Fahf agl hafh mgn'ghft." (what_font=fonts.sancreek)
+    # something "Y' l' gotha f' mgah nafl'fhtagn. Fahf agl hafh mgn'ghft." (what_font=fonts["sancreek"])
+    something "Y' l' gotha f' mgah nafl'fhtagn. Fahf agl hafh mgn'ghft." (what_font=fonts["sancreek"])
 
 # game/events/explore/midnight_kiss.rpy:468
 translate vietnamese midnight_kiss_part4_e2cf1536:
@@ -915,8 +915,8 @@ translate vietnamese midnight_kiss_part4_86219a09:
 # game/events/explore/midnight_kiss.rpy:474
 translate vietnamese midnight_kiss_part4_bbf5d90a:
 
-    # something "Mgehye'lloig ahuaaah nilgh'ri h' r'luh." (what_font=fonts.sancreek)
-    something "Mgehye'lloig ahuaaah nilgh'ri h' r'luh." (what_font=fonts.sancreek)
+    # something "Mgehye'lloig ahuaaah nilgh'ri h' r'luh." (what_font=fonts["sancreek"])
+    something "Mgehye'lloig ahuaaah nilgh'ri h' r'luh." (what_font=fonts["sancreek"])
 
 # game/events/explore/midnight_kiss.rpy:476
 translate vietnamese midnight_kiss_part4_35c658f5:
@@ -951,8 +951,8 @@ translate vietnamese midnight_kiss_part4_7359978a:
 # game/events/explore/midnight_kiss.rpy:486
 translate vietnamese midnight_kiss_part4_a971570e:
 
-    # something "Mgehye'lloig ah Uaaahnyth." (what_font=fonts.sancreek)
-    something "Mgehye'lloig ah Uaaahnyth." (what_font=fonts.sancreek)
+    # something "Mgehye'lloig ah Uaaahnyth." (what_font=fonts["sancreek"])
+    something "Mgehye'lloig ah Uaaahnyth." (what_font=fonts["sancreek"])
 
 # game/events/explore/midnight_kiss.rpy:488
 translate vietnamese midnight_kiss_part4_bb379b73:
@@ -969,8 +969,8 @@ translate vietnamese midnight_kiss_part4_6e9fb7db:
 # game/events/explore/midnight_kiss.rpy:492
 translate vietnamese midnight_kiss_part4_456eea07:
 
-    # something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts.fredericka)
-    something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts.fredericka)
+    # something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts["fredericka"])
+    something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts["fredericka"])
 
 # game/events/explore/midnight_kiss.rpy:494
 translate vietnamese midnight_kiss_part4_46ca3359:
@@ -2361,3 +2361,29 @@ translate vietnamese midnight_kiss_demeter_angels_8a85f3bc:
 
     # demeter "We have noted the activity of unknown Angel level power. The domain of death."
     demeter "Chúng tôi đã ghi nhận hoạt động của sức mạnh cấp độ Thiên thần chưa được biết đến. Lĩnh vực của cái chết."
+# TODO: Translation updated at 2022-08-13 15:58
+
+# game/events/explore/midnight_kiss.rpy:472
+translate vietnamese midnight_kiss_part4_1d336001:
+
+    # something "Y' l' gotha f' mgah nafl'fhtagn. Fahf agl hafh mgn'ghft." (what_font=fonts["sancreek"])
+    something "Y' l' gotha f' mgah nafl'fhtagn. Fahf agl hafh mgn'ghft." (what_font=fonts["sancreek"])
+
+# game/events/explore/midnight_kiss.rpy:480
+translate vietnamese midnight_kiss_part4_cc6c03ff:
+
+    # something "Mgehye'lloig ahuaaah nilgh'ri h' r'luh." (what_font=fonts["sancreek"])
+    something "Mgehye'lloig ahuaaah nilgh'ri h' r'luh." (what_font=fonts["sancreek"])
+
+# game/events/explore/midnight_kiss.rpy:492
+translate vietnamese midnight_kiss_part4_8591c7f0:
+
+    # something "Mgehye'lloig ah Uaaahnyth." (what_font=fonts["sancreek"])
+    something "Mgehye'lloig ah Uaaahnyth." (what_font=fonts["sancreek"])
+
+# game/events/explore/midnight_kiss.rpy:498
+translate vietnamese midnight_kiss_part4_e5dafa81:
+
+    # something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts["fredericka"])
+    something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts["fredericka"])
+

@@ -1474,3 +1474,11 @@ translate vietnamese grace_play_house_part2_a3876481:
 
     # grace "I'm not a cow. I don't like cows. They are scary."
     grace "Em không phải là một con bò. Em không thích bò. Chúng thật đáng sợ."
+# TODO: Translation updated at 2022-08-13 15:58
+
+translate vietnamese strings:
+
+    # game/characters/grace/play_house.rpy:198
+    old "mother"
+    new "mother"
+
