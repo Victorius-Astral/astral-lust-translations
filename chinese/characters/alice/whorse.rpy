@@ -40,7 +40,7 @@ translate chinese alice_whorse_dea30179:
 translate chinese alice_whorse_aa0437e1:
 
     # alice "Agreed."
-    alice "同意."
+    alice "同意。"
 
 # game/characters/alice/whorse.rpy:47
 translate chinese alice_whorse_117a772e:

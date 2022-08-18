@@ -298,5 +298,5 @@ translate chinese task_alice_reinforce_coat_822c8e28:
 translate chinese task_alice_reinforce_coat_83fa7619:
 
     # alice "'Key~"
-    alice "'可~以~"
+    alice "可~以~"
 
