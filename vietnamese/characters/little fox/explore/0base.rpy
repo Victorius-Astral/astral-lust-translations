@@ -1226,3 +1226,29 @@ translate vietnamese strings:
     old "Return home"
     new "Return home"
 
+# TODO: Translation updated at 2022-08-20 13:45
+
+# game/characters/little fox/explore/0base.rpy:34
+translate vietnamese lil_fox_explore_3c8c8cac:
+
+    # lil_fox "Ehh!"
+    lil_fox "Ehh!"
+
+# game/characters/little fox/explore/0base.rpy:186
+translate vietnamese lil_fox_explore_speak_a78cbc09:
+
+    # me "Yes, yes. Slow down a little.."
+    me "Yes, yes. Slow down a little.."
+
+# game/characters/little fox/explore/0base.rpy:187
+translate vietnamese lil_fox_explore_speak_1ee3f198:
+
+    # lil_fox "Hehe~"
+    lil_fox "Hehe~"
+
+# game/characters/little fox/explore/0base.rpy:303
+translate vietnamese lil_fox_explore_return_help_with_rachel_32637e89:
+
+    # me "Come on, it won't be that bad."
+    me "Come on, it won't be that bad."
+

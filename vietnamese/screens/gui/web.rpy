@@ -30,3 +30,11 @@ translate vietnamese strings:
     old "Checking for updates.."
     new "Checking for updates.."
 
+# TODO: Translation updated at 2022-08-20 13:45
+
+translate vietnamese strings:
+
+    # game/screens/gui/web.rpy:94
+    old "New game version available! ([can_update])"
+    new "New game version available! ([can_update])"
+

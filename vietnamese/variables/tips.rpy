@@ -397,3 +397,11 @@ translate vietnamese strings:
     # game/variables/tips.rpy:4
     old "I need to get vodka for her."
     new "Tôi cần lấy vodka cho cô ấy."
+# TODO: Translation updated at 2022-08-20 13:45
+
+translate vietnamese strings:
+
+    # game/variables/tips.rpy:4
+    old "I should find her when she's out to take a breath of fresh air."
+    new "I should find her when she's out to take a breath of fresh air."
+
