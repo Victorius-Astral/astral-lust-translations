@@ -217,3 +217,27 @@ translate polish strings:
     # game/screens/settings/game.rpy:137
     old "Center"
     new "Center"
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/screens/settings/game.rpy:92
+    old "{font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} font"
+    new "{font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} font"
+
+    # game/screens/settings/game.rpy:96
+    old "Change {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} font to {font=fonts/Brygada1918-Regular.ttf}Brigada 1918{/font} font. It can help on small screens if Fredericka becomes unreadable. Some languages force Brigada either way."
+    new "Change {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} font to {font=fonts/Brygada1918-Regular.ttf}Brigada 1918{/font} font. It can help on small screens if Fredericka becomes unreadable. Some languages force Brigada either way."
+
+    # game/screens/settings/game.rpy:97
+    old "*Restart required for full change"
+    new "*Restart required for full change"
+
+    # game/screens/settings/game.rpy:101
+    old "Notifications Style"
+    new "Notifications Style"
+
+    # game/screens/settings/game.rpy:109
+    old "Show in-progress languages"
+    new "Show in-progress languages"
+

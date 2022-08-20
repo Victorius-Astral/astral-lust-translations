@@ -9,3 +9,11 @@ translate polish strings:
     # game/screens/utility/langauge.rpy:1
     old "Vietnamese"
     new "Wietnamski"
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/screens/utility/langauge.rpy:30
+    old "Language"
+    new "Language"
+

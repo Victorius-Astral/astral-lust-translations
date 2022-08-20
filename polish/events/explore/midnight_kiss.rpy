@@ -2155,3 +2155,29 @@ translate polish strings:
     # game/events/explore/midnight_kiss.rpy:747
     old "Ask about Angels"
     new "Ask about Angels"
+# TODO: Translation updated at 2022-08-20 13:48
+
+# game/events/explore/midnight_kiss.rpy:472
+translate polish midnight_kiss_part4_1d336001:
+
+    # something "Y' l' gotha f' mgah nafl'fhtagn. Fahf agl hafh mgn'ghft." (what_font=fonts["sancreek"])
+    something "Y' l' gotha f' mgah nafl'fhtagn. Fahf agl hafh mgn'ghft." (what_font=fonts["sancreek"])
+
+# game/events/explore/midnight_kiss.rpy:480
+translate polish midnight_kiss_part4_cc6c03ff:
+
+    # something "Mgehye'lloig ahuaaah nilgh'ri h' r'luh." (what_font=fonts["sancreek"])
+    something "Mgehye'lloig ahuaaah nilgh'ri h' r'luh." (what_font=fonts["sancreek"])
+
+# game/events/explore/midnight_kiss.rpy:492
+translate polish midnight_kiss_part4_8591c7f0:
+
+    # something "Mgehye'lloig ah Uaaahnyth." (what_font=fonts["sancreek"])
+    something "Mgehye'lloig ah Uaaahnyth." (what_font=fonts["sancreek"])
+
+# game/events/explore/midnight_kiss.rpy:498
+translate polish midnight_kiss_part4_e5dafa81:
+
+    # something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts["fredericka"])
+    something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts["fredericka"])
+

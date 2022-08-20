@@ -232,3 +232,11 @@ translate polish strings:
     old "Open the door"
     new "Open the door"
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+# game/events/explore/market.rpy:55
+translate polish exp_market_menu_c1884038:
+
+    # th "Gotta get something special for [lexi]."
+    th "Gotta get something special for [lexi]."
+

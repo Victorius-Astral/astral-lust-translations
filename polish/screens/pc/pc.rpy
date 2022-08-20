@@ -41,3 +41,11 @@ translate polish strings:
     # game/screens/pc/pc.rpy:3
     old "Difficulty Settings"
     new "Ustawienia Trudności"
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/screens/pc/pc.rpy:3
+    old "Developer Tools"
+    new "Developer Tools"
+

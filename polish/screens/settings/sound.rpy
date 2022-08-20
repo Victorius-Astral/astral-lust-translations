@@ -38,3 +38,15 @@ translate polish strings:
     old "Mute All"
     new "Mute All"
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/screens/settings/sound.rpy:12
+    old "General"
+    new "General"
+
+    # game/screens/settings/sound.rpy:13
+    old "Play sound when window is minimized"
+    new "Play sound when window is minimized"
+

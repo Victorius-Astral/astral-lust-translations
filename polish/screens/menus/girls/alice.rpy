@@ -101,3 +101,15 @@ translate polish strings:
     # game/screens/menus/girls/alice.rpy:44
     old "• Masturbation: "
     new "• Masturbacja: "
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/screens/menus/girls/alice.rpy:45
+    old "• Dildo: "
+    new "• Dildo: "
+
+    # game/screens/menus/girls/alice.rpy:46
+    old "• Rubbing: "
+    new "• Rubbing: "
+

@@ -758,3 +758,11 @@ translate polish savenia_4_part2_0ed012b0:
     # savenia "Take care."
     savenia "Take care."
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+# game/characters/savenia/ev_4.rpy:67
+translate polish savenia_4_menu1_f3328ea7:
+
+    # savenia "And, how is an exercise for arms and chest gonna help with my leg?"
+    savenia "And, how is an exercise for arms and chest gonna help with my leg?"
+

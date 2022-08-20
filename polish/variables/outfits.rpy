@@ -89,3 +89,15 @@ translate polish strings:
     # game/variables/outfits.rpy:3
     old "Cheongsam"
     new "Cheongsam"
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/variables/outfits.rpy:3
+    old "Nun"
+    new "Nun"
+
+    # game/variables/outfits.rpy:92
+    old "In the corruption filled Asthar, even the nuns are filled with unholy thoughts."
+    new "In the corruption filled Asthar, even the nuns are filled with unholy thoughts."
+

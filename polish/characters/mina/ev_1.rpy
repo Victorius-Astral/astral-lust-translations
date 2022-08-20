@@ -406,3 +406,17 @@ translate polish strings:
     old "She seems to believe I'm courting Lexi. This thought makes her excited."
     new "She seems to believe I'm courting Lexi. This thought makes her excited."
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+# game/characters/mina/ev_1.rpy:20
+translate polish mina_1_ab1909c4:
+
+    # th "That was a couch, though.."
+    th "That was a couch, though.."
+
+# game/characters/mina/ev_1.rpy:53
+translate polish mina_1_0d74701d:
+
+    # "{size=+20}*Bang*{/size}"
+    "{size=+20}*Bang*{/size}"
+

@@ -783,3 +783,29 @@ translate polish strings:
     # game/events/explore/construction_shop.rpy:278
     old "I raped someone. Can I live with it?"
     new "I raped someone. Can I live with it?"
+# TODO: Translation updated at 2022-08-20 13:48
+
+# game/events/explore/construction_shop.rpy:272
+translate polish explore_construction_shop_win_124865fa:
+
+    # me "Ohh..."
+    me "Ohh..."
+
+# game/events/explore/construction_shop.rpy:277
+translate polish explore_construction_shop_win_779945dd:
+
+    # me "That was nice, now I better get going before something comes here."
+    me "That was nice, now I better get going before something comes here."
+
+# game/events/explore/construction_shop.rpy:282
+translate polish explore_construction_shop_win_3217e8b9:
+
+    # me "Ahh!!"
+    me "Ahh!!"
+
+# game/events/explore/construction_shop.rpy:287
+translate polish explore_construction_shop_win_dfa85d93:
+
+    # me "Ahh... That was nice, time to go, though."
+    me "Ahh... That was nice, time to go, though."
+

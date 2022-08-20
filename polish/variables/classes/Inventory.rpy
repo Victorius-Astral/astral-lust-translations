@@ -25,3 +25,19 @@ translate polish strings:
     # game/variables/classes/Inventory.rpy:163
     old "Lost all materials."
     new "Stracono wszystkie materiały."
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/variables/classes/Inventory.rpy:29
+    old "Items obtained:"
+    new "Items obtained:"
+
+    # game/variables/classes/Inventory.rpy:73
+    old "Missing {} {}"
+    new "Missing {} {}"
+
+    # game/variables/classes/Inventory.rpy:186
+    old "Lost all items."
+    new "Lost all items."
+

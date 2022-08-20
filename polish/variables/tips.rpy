@@ -343,3 +343,51 @@ translate polish strings:
     # game/variables/tips.rpy:4
     old "I should ask her more about the extraordinary world. (Main Story at least 12)"
     new "Powinienem zapytać ją o świat nadnaturalny. (Główna Historia przynajmniej 12)"
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/variables/tips.rpy:4
+    old "I'm really curious about her laptop. Maybe I should check it again and ask her?"
+    new "I'm really curious about her laptop. Maybe I should check it again and ask her?"
+
+    # game/variables/tips.rpy:4
+    old "She asked me to get 2 ice creams for our date, I should return to her when I get them to arrange a date."
+    new "She asked me to get 2 ice creams for our date, I should return to her when I get them to arrange a date."
+
+    # game/variables/tips.rpy:4
+    old "The last drinking session with her got us really drunk, maybe she wants another go?"
+    new "The last drinking session with her got us really drunk, maybe she wants another go?"
+
+    # game/variables/tips.rpy:4
+    old "I need to get vodka for her."
+    new "I need to get vodka for her."
+
+    # game/variables/tips.rpy:4
+    old "They say that when falling asleep the mind thinks it's dying. What happens when you 'resurrect'?"
+    new "They say that when falling asleep the mind thinks it's dying. What happens when you 'resurrect'?"
+
+    # game/variables/tips.rpy:4
+    old "Maybe I should take a day off to chill out in my room from time to time."
+    new "Maybe I should take a day off to chill out in my room from time to time."
+
+    # game/variables/tips.rpy:4
+    old "I have a feeling something big is gonna happen soon. (need Alice and Little Fox waiting for progress with other girls)"
+    new "I have a feeling something big is gonna happen soon. (need Alice and Little Fox waiting for progress with other girls)"
+
+    # game/variables/tips.rpy:4
+    old "I should progress with other girls."
+    new "I should progress with other girls."
+
+    # game/variables/tips.rpy:4
+    old "Old habits die hard, she's still sometimes chilling out in the lobby. She must interact with other girls there often."
+    new "Old habits die hard, she's still sometimes chilling out in the lobby. She must interact with other girls there often."
+
+    # game/variables/tips.rpy:4
+    old "I should find her when she's out to take a breath of fresh air."
+    new "I should find her when she's out to take a breath of fresh air."
+
+    # game/variables/tips.rpy:4
+    old "We should chit chat sometimes."
+    new "We should chit chat sometimes."
+

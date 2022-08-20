@@ -259,3 +259,11 @@ translate polish strings:
     # game/places/wanderers/brothel.rpy:56
     old "Can I take a look at your girls before paying?"
     new "Can I take a look at your girls before paying?"
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/places/wanderers/brothel.rpy:23
+    old "Madam Hof"
+    new "Madam Hof"
+

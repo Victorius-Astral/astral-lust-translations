@@ -234,3 +234,31 @@ translate polish strings:
     old "Group - Threesome - Two Females"
     new "Group - Threesome - Two Females"
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Kiss - Sitting"
+    new "Kiss - Sitting"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Vaginal - Reverse Doggy"
+    new "Vaginal - Reverse Doggy"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Vaginal - Facing each Other"
+    new "Vaginal - Facing each Other"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Footjob - Sleeping"
+    new "Footjob - Sleeping"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Cunnilingus - Against the Counter"
+    new "Cunnilingus - Against the Counter"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Rubbing - Cowgirl"
+    new "Rubbing - Cowgirl"
+

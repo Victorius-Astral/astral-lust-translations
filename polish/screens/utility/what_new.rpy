@@ -282,3 +282,83 @@ translate polish strings:
     old "Now when asking [alice] to make outfit, you'll be able to use a new outfits menu!"
     new "Now when asking [alice] to make outfit, you'll be able to use a new outfits menu!"
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/screens/utility/what_new.rpy:61
+    old "{u}What's New{/u}"
+    new "{u}What's New{/u}"
+
+    # game/screens/utility/what_new.rpy:69
+    old "Click outside to close this window, it can be entered again from the pc."
+    new "Click outside to close this window, it can be entered again from the pc."
+
+    # game/screens/utility/what_new.rpy:174
+    old "{b}A lot of new Grace content{/b}"
+    new "{b}A lot of new Grace content{/b}"
+
+    # game/screens/utility/what_new.rpy:175
+    old "Gracie got three new story events, new 'anger & apology' mechanic, new sleeping content (including two footjobs), secret event, and more. The last of her new story events is merged with Alice's and Little Fox's events. Oh, it's a funny event ;)"
+    new "Gracie got three new story events, new 'anger & apology' mechanic, new sleeping content (including two footjobs), secret event, and more. The last of her new story events is merged with Alice's and Little Fox's events. Oh, it's a funny event ;)"
+
+    # game/screens/utility/what_new.rpy:191
+    old "{b}New Lexi & Mina events{/b}"
+    new "{b}New Lexi & Mina events{/b}"
+
+    # game/screens/utility/what_new.rpy:192
+    old "Sisters got two new story events each! Lexi additionally got a super big event - Kitchen Date, an event you need to make preparations for. With a lot of hot content to unlock as you get higher score. It's the longest event to date, and the first of the new 'date' system. Have fun!"
+    new "Sisters got two new story events each! Lexi additionally got a super big event - Kitchen Date, an event you need to make preparations for. With a lot of hot content to unlock as you get higher score. It's the longest event to date, and the first of the new 'date' system. Have fun!"
+
+    # game/screens/utility/what_new.rpy:203
+    old "{b}Fox girls' events{/b}"
+    new "{b}Fox girls' events{/b}"
+
+    # game/screens/utility/what_new.rpy:204
+    old "As mentioned above Little Fox has an event merged with Alice & Gracie, Rachel also got an event (finally some action with her :P), Rhainda got two story events!"
+    new "As mentioned above Little Fox has an event merged with Alice & Gracie, Rachel also got an event (finally some action with her :P), Rhainda got two story events!"
+
+    # game/screens/utility/what_new.rpy:215
+    old "{b}New items{/b}"
+    new "{b}New items{/b}"
+
+    # game/screens/utility/what_new.rpy:216
+    old "Four of them can be used during the new events, there are two consumables (and a new buff), and pouches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
+    new "Four of them can be used during the new events, there are two consumables (and a new buff), and pouches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
+
+    # game/screens/utility/what_new.rpy:246
+    old "{b}Redone prologue{/b}"
+    new "{b}Redone prologue{/b}"
+
+    # game/screens/utility/what_new.rpy:247
+    old "The prologue was made from scratch to be much bigger, more informative, and intriguing. Check replays or start a new game to see it. You might meet someone unexpected there."
+    new "The prologue was made from scratch to be much bigger, more informative, and intriguing. Check replays or start a new game to see it. You might meet someone unexpected there."
+
+    # game/screens/utility/what_new.rpy:258
+    old "{b}A lot of other changes & additions{/b}"
+    new "{b}A lot of other changes & additions{/b}"
+
+    # game/screens/utility/what_new.rpy:259
+    old "The changelog is long as hell, there are around 30 bugs fixed, a lot of QoL changes, some suggested by the community. There are some other new mechanics like Mina can have a hangover, refuse to get into any meaningful conversation with you, and stop working on her task. Abandoned car loot was boosted significantly, first sounds to enemy attacks were added. Check the full changelog from the link below."
+    new "The changelog is long as hell, there are around 30 bugs fixed, a lot of QoL changes, some suggested by the community. There are some other new mechanics like Mina can have a hangover, refuse to get into any meaningful conversation with you, and stop working on her task. Abandoned car loot was boosted significantly, first sounds to enemy attacks were added. Check the full changelog from the link below."
+
+    # game/screens/utility/what_new.rpy:313
+    old "{b}Gracie Nightmare{/b}"
+    new "{b}Gracie Nightmare{/b}"
+
+    # game/screens/utility/what_new.rpy:314
+    old "Oh no! Our baby girl had a nightmare! We need to protect her in the warmth of our arms :) Be a good person and let Gracie stay. Can you find the hidden secret in this event? For a tip, this event has a few variations, seeing it once is not enough to see everything and find the secret. It's best if you don't save for an hour before finding the secret :)"
+    new "Oh no! Our baby girl had a nightmare! We need to protect her in the warmth of our arms :) Be a good person and let Gracie stay. Can you find the hidden secret in this event? For a tip, this event has a few variations, seeing it once is not enough to see everything and find the secret. It's best if you don't save for an hour before finding the secret :)"
+
+    # game/screens/utility/what_new.rpy:325
+    old "{b}GUI 2.0{/b}"
+    new "{b}GUI 2.0{/b}"
+
+    # game/screens/utility/what_new.rpy:326
+    old "The overhaul of the Astral Lust interface has begun! Many most important menus were already adopted, or at lest partially adopted. The inventory and character menu are now a single menu, fully adopted to the new style. Items now have tooltips, and icons. The whole items system was overhauled, right clicking an item will allow you to select how many to move with a slider, you can also sort your inventory, and move all items at once with just one click! Notifications are now completely different, you can toggle two different styles in the settings. Main interface theme font - {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} can also be toggled in the settings. Expandable menu icons were changed, and all menus opened with them were at least partially adopted to the new theme. Trading scene was fully adopted, with new options like showing reputation increase from the deal, some new mechanics were added to the traders too - like good profit relations bonus."
+    new "The overhaul of the Astral Lust interface has begun! Many most important menus were already adopted, or at lest partially adopted. The inventory and character menu are now a single menu, fully adopted to the new style. Items now have tooltips, and icons. The whole items system was overhauled, right clicking an item will allow you to select how many to move with a slider, you can also sort your inventory, and move all items at once with just one click! Notifications are now completely different, you can toggle two different styles in the settings. Main interface theme font - {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} can also be toggled in the settings. Expandable menu icons were changed, and all menus opened with them were at least partially adopted to the new theme. Trading scene was fully adopted, with new options like showing reputation increase from the deal, some new mechanics were added to the traders too - like good profit relations bonus."
+
+    # game/screens/utility/what_new.rpy:338
+    old "There are countless other changes - ALL animations can be toggled ON/OFF in the settings, dozens of issues were fixed, no animation support was added to all animations that didn't have it, some animations were deleted like weird looking cumming animations. End game credits were added. Hollow Market offers a lot more stock, and restock weekly. Other traders were tweaked too."
+    new "There are countless other changes - ALL animations can be toggled ON/OFF in the settings, dozens of issues were fixed, no animation support was added to all animations that didn't have it, some animations were deleted like weird looking cumming animations. End game credits were added. Hollow Market offers a lot more stock, and restock weekly. Other traders were tweaked too."
+

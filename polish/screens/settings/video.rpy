@@ -78,3 +78,11 @@ translate polish strings:
     old "\nNeeds restart."
     new "\nNeeds restart."
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/screens/settings/video.rpy:56
+    old "Main Menu Images"
+    new "Main Menu Images"
+

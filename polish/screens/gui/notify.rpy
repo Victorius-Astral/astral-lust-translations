@@ -9,3 +9,15 @@ translate polish strings:
     # game/screens/gui/notify.rpy:61
     old "Test of {} #{r}."
     new "Test {} #{r}."
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/screens/gui/notify.rpy:69
+    old "Dark - Black"
+    new "Dark - Black"
+
+    # game/screens/gui/notify.rpy:69
+    old "Dark - Paper"
+    new "Dark - Paper"
+

@@ -214,3 +214,17 @@ translate polish strings:
     old "No, thanks"
     new "No, thanks"
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+# game/events/dreams/astral_lust.rpy:13
+translate polish d_Astral_Lust_2_a47cf47b:
+
+    # th "[kiara]?"
+    th "[kiara]?"
+
+# game/events/dreams/astral_lust.rpy:14
+translate polish d_Astral_Lust_2_8aa10819:
+
+    # "You are surprised to see [kiara] before you. She sleeps on a book, floating along in the empty space."
+    "You are surprised to see [kiara] before you. She sleeps on a book, floating along in the empty space."
+

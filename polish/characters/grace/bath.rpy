@@ -472,3 +472,11 @@ translate polish strings:
     old "Hate"
     new "Hate"
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/characters/grace/bath.rpy:15
+    old "What does she think of you?"
+    new "What does she think of you?"
+

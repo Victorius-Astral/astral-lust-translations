@@ -1512,3 +1512,305 @@ translate polish strings:
     old "She is 21 years old."
     new "She is 21 years old."
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+# game/characters/grace/speak.rpy:6
+translate polish speak_grace_fdb4e830:
+
+    # grace "..."
+    grace "..."
+
+# game/characters/grace/speak.rpy:7
+translate polish speak_grace_1cb97f49:
+
+    # th "Seems she's angry at me.."
+    th "Seems she's angry at me.."
+
+# game/characters/grace/speak.rpy:21
+translate polish speak_grace_menu_angry_04cf02be:
+
+    # grace "Hi."
+    grace "Hi."
+
+# game/characters/grace/speak.rpy:25
+translate polish speak_grace_menu_angry_e579606d:
+
+    # grace "What do you want?"
+    grace "What do you want?"
+
+# game/characters/grace/speak.rpy:484
+translate polish speak_grace_question_peed_d8769c30:
+
+    # grace "Mm!"
+    grace "Mm!"
+
+# game/characters/grace/speak.rpy:485
+translate polish speak_grace_question_peed_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/characters/grace/speak.rpy:486
+translate polish speak_grace_question_peed_ee6edc1c:
+
+    # me "What the hell are you smiling for idiot?"
+    me "What the hell are you smiling for idiot?"
+
+# game/characters/grace/speak.rpy:487
+translate polish speak_grace_question_peed_b3f72d3b:
+
+    # grace "You got what you deserved."
+    grace "You got what you deserved."
+
+# game/characters/grace/speak.rpy:491
+translate polish speak_grace_question_peed_d2d9ebea:
+
+    # grace "Don't try to pee on me again. Or you'll get wet again."
+    grace "Don't try to pee on me again. Or you'll get wet again."
+
+# game/characters/grace/speak.rpy:492
+translate polish speak_grace_question_peed_685d0266:
+
+    # me "Is that a threat?"
+    me "Is that a threat?"
+
+# game/characters/grace/speak.rpy:496
+translate polish speak_grace_question_peed_d8769c30_1:
+
+    # grace "Mm!"
+    grace "Mm!"
+
+# game/characters/grace/speak.rpy:497
+translate polish speak_grace_question_peed_be7aa58b:
+
+    # me "...."
+    me "...."
+
+# game/characters/grace/speak.rpy:503
+translate polish speak_grace_apology_rose_fdb4e830:
+
+    # grace "..."
+    grace "..."
+
+# game/characters/grace/speak.rpy:504
+translate polish speak_grace_apology_rose_01a0cb8d:
+
+    # me "I know you want it."
+    me "I know you want it."
+
+# game/characters/grace/speak.rpy:505
+translate polish speak_grace_apology_rose_fdb4e830_1:
+
+    # grace "..."
+    grace "..."
+
+# game/characters/grace/speak.rpy:506
+translate polish speak_grace_apology_rose_b7d6b3b0:
+
+    # me "[grace], a rose. Lively and beautiful just like you."
+    me "[grace], a rose. Lively and beautiful just like you."
+
+# game/characters/grace/speak.rpy:507
+translate polish speak_grace_apology_rose_6d39208d:
+
+    # grace "You're bad."
+    grace "You're bad."
+
+# game/characters/grace/speak.rpy:508
+translate polish speak_grace_apology_rose_730ffbec:
+
+    # me "Then you should take it, even more, don't let it fall into bad hands."
+    me "Then you should take it, even more, don't let it fall into bad hands."
+
+# game/characters/grace/speak.rpy:512
+translate polish speak_grace_apology_rose_0a928bf9:
+
+    # grace "Hmmm.."
+    grace "Hmmm.."
+
+# game/characters/grace/speak.rpy:513
+translate polish speak_grace_apology_rose_45649d40:
+
+    # me "Come on, don't lie to yourself. Look at it, it wants you to get it."
+    me "Come on, don't lie to yourself. Look at it, it wants you to get it."
+
+# game/characters/grace/speak.rpy:517
+translate polish speak_grace_apology_rose_d68a5b2e:
+
+    # grace "Gimme~"
+    grace "Gimme~"
+
+# game/characters/grace/speak.rpy:518
+translate polish speak_grace_apology_rose_202a8b31:
+
+    # me "Of course. Here."
+    me "Of course. Here."
+
+# game/characters/grace/speak.rpy:527
+translate polish speak_grace_apology_rose_e8954ecc:
+
+    # grace "Hehe~ Maybe you're not that bad after all.."
+    grace "Hehe~ Maybe you're not that bad after all.."
+
+# game/characters/grace/speak.rpy:528
+translate polish speak_grace_apology_rose_cf49bb42:
+
+    # th "You're really simple-minded.."
+    th "You're really simple-minded.."
+
+# game/characters/grace/speak.rpy:529
+translate polish speak_grace_apology_rose_001b179c:
+
+    # me "Are we good?"
+    me "Are we good?"
+
+# game/characters/grace/speak.rpy:530
+translate polish speak_grace_apology_rose_7402cda2:
+
+    # grace "Mm."
+    grace "Mm."
+
+# game/characters/grace/speak.rpy:531
+translate polish speak_grace_apology_rose_eee72d0b:
+
+    # me "Cool."
+    me "Cool."
+
+# game/characters/grace/speak.rpy:532
+translate polish speak_grace_apology_rose_858191de:
+
+    # grace "What do you want to talk about?"
+    grace "What do you want to talk about?"
+
+# game/characters/grace/speak.rpy:537
+translate polish speak_grace_apology_8e055792:
+
+    # me "I'm really sorry, [grace]."
+    me "I'm really sorry, [grace]."
+
+# game/characters/grace/speak.rpy:538
+translate polish speak_grace_apology_fdb4e830:
+
+    # grace "..."
+    grace "..."
+
+# game/characters/grace/speak.rpy:539
+translate polish speak_grace_apology_b6616c50:
+
+    # me "Can you at least look at me?"
+    me "Can you at least look at me?"
+
+# game/characters/grace/speak.rpy:540
+translate polish speak_grace_apology_6d39208d:
+
+    # grace "You're bad."
+    grace "You're bad."
+
+# game/characters/grace/speak.rpy:543
+translate polish speak_grace_apology_913b1252:
+
+    # me "I know. I did bad, but I can't get better by myself. I need you to make me a better person."
+    me "I know. I did bad, but I can't get better by myself. I need you to make me a better person."
+
+# game/characters/grace/speak.rpy:547
+translate polish speak_grace_apology_3c71d638:
+
+    # grace "Really?"
+    grace "Really?"
+
+# game/characters/grace/speak.rpy:548
+translate polish speak_grace_apology_960a60a5:
+
+    # me "Yes, I can't do this on my own."
+    me "Yes, I can't do this on my own."
+
+# game/characters/grace/speak.rpy:549
+translate polish speak_grace_apology_744a58bd:
+
+    # grace "Lexi told me we should help each other."
+    grace "Lexi told me we should help each other."
+
+# game/characters/grace/speak.rpy:550
+translate polish speak_grace_apology_1603e86f:
+
+    # me "You see?"
+    me "You see?"
+
+# game/characters/grace/speak.rpy:557
+translate polish speak_grace_apology_e0b768cd:
+
+    # grace "Alright, I'll give you a chance, but you need to treasure it! [[{cha}Charisma check{/cha} {trust}passed{/trust}]"
+    grace "Alright, I'll give you a chance, but you need to treasure it! [[{cha}Charisma check{/cha} {trust}passed{/trust}]"
+
+# game/characters/grace/speak.rpy:558
+translate polish speak_grace_apology_1f739f41:
+
+    # me "Of course!"
+    me "Of course!"
+
+# game/characters/grace/speak.rpy:559
+translate polish speak_grace_apology_664443c7:
+
+    # me "Thanks [grace]!"
+    me "Thanks [grace]!"
+
+# game/characters/grace/speak.rpy:563
+translate polish speak_grace_apology_7402cda2:
+
+    # grace "Mm."
+    grace "Mm."
+
+# game/characters/grace/speak.rpy:564
+translate polish speak_grace_apology_816d1fb8:
+
+    # grace "So, what have you wanted to talk about?"
+    grace "So, what have you wanted to talk about?"
+
+# game/characters/grace/speak.rpy:568
+translate polish speak_grace_apology_8b75b555:
+
+    # me "We all make mistakes. What I did was just a mistake."
+    me "We all make mistakes. What I did was just a mistake."
+
+# game/characters/grace/speak.rpy:569
+translate polish speak_grace_apology_10a50ae0:
+
+    # grace "You're just bad."
+    grace "You're just bad."
+
+# game/characters/grace/speak.rpy:570
+translate polish speak_grace_apology_d25d47b9:
+
+    # me "[grace].."
+    me "[grace].."
+
+# game/characters/grace/speak.rpy:571
+translate polish speak_grace_apology_cffb0b45:
+
+    # grace "You did it because you're mean, I don't want to talk with you. [[{cha}Charisma check{/cha} {bad}failed{/bad}]"
+    grace "You did it because you're mean, I don't want to talk with you. [[{cha}Charisma check{/cha} {bad}failed{/bad}]"
+
+# game/characters/grace/speak.rpy:572
+translate polish speak_grace_apology_a586aebf:
+
+    # th "Seems it won't be that easy."
+    th "Seems it won't be that easy."
+
+translate polish strings:
+
+    # game/characters/grace/speak.rpy:9
+    old "Give her a rose as an apology {#visible}"
+    new "Give her a rose as an apology {#visible}"
+
+    # game/characters/grace/speak.rpy:27
+    old "Tell her about the date"
+    new "Tell her about the date"
+
+    # game/characters/grace/speak.rpy:27
+    old "I need you to cook a dinner for me and Lexi"
+    new "I need you to cook a dinner for me and Lexi"
+
+    # game/characters/grace/speak.rpy:92
+    old "You.. You.. peed on me.."
+    new "You.. You.. peed on me.."
+

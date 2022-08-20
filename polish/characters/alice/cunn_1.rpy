@@ -114,3 +114,11 @@ translate polish alice_cunn1_8e0312e6:
     # "You leave her to rest."
     "You leave her to rest."
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+# game/characters/alice/cunn_1.rpy:50
+translate polish alice_cunn1_0e51e6f6:
+
+    # alice "Ahhh!~"
+    alice "Ahhh!~"
+

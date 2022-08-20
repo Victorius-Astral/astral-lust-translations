@@ -34,3 +34,11 @@ translate polish strings:
     old "Completed"
     new "Completed"
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/functions/tasks/Tasks.rpy:181
+    old "Blocked"
+    new "Blocked"
+
