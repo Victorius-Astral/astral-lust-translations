@@ -227,3 +227,161 @@ translate spanish lil_fox_exp_treasure_6e77aa4c:
 
     # me "This little thing is too playful for her own good..."
     me "Esta cosita es demasiado juguetona para su propio bien..."
+# TODO: Translation updated at 2022-08-20 13:44
+
+# game/characters/little fox/explore/treasure.rpy:98
+translate spanish lil_fox_exp_treasure_76127a57:
+
+    # me "I can't reach it."
+    me "I can't reach it."
+
+# game/characters/little fox/explore/treasure.rpy:99
+translate spanish lil_fox_exp_treasure_fe771a70:
+
+    # me "[lil_fox]!"
+    me "[lil_fox]!"
+
+# game/characters/little fox/explore/treasure.rpy:100
+translate spanish lil_fox_exp_treasure_062dc201:
+
+    # lil_fox "Yeah?"
+    lil_fox "Yeah?"
+
+# game/characters/little fox/explore/treasure.rpy:104
+translate spanish lil_fox_exp_treasure_78cfeba9:
+
+    # me "Come, I'll give you a hand. Get it down."
+    me "Come, I'll give you a hand. Get it down."
+
+# game/characters/little fox/explore/treasure.rpy:105
+translate spanish lil_fox_exp_treasure_8da8d70e:
+
+    # lil_fox "Okay."
+    lil_fox "Okay."
+
+# game/characters/little fox/explore/treasure.rpy:109
+translate spanish lil_fox_exp_treasure_9111b32d:
+
+    # lil_fox "Come to mommy~"
+    lil_fox "Come to mommy~"
+
+# game/characters/little fox/explore/treasure.rpy:110
+translate spanish lil_fox_exp_treasure_10d7626e:
+
+    # me "Pff.."
+    me "Pff.."
+
+# game/characters/little fox/explore/treasure.rpy:111
+translate spanish lil_fox_exp_treasure_3905b2c9:
+
+    # lil_fox "Heavy.."
+    lil_fox "Heavy.."
+
+# game/characters/little fox/explore/treasure.rpy:112
+translate spanish lil_fox_exp_treasure_a27bed03:
+
+    # me "Can you do it?"
+    me "Can you do it?"
+
+# game/characters/little fox/explore/treasure.rpy:116
+translate spanish lil_fox_exp_treasure_96a1a3a0:
+
+    # lil_fox "I think it's stuck. I can't move it."
+    lil_fox "I think it's stuck. I can't move it."
+
+# game/characters/little fox/explore/treasure.rpy:117
+translate spanish lil_fox_exp_treasure_b7a83025:
+
+    # me "Fuck."
+    me "Fuck."
+
+# game/characters/little fox/explore/treasure.rpy:121
+translate spanish lil_fox_exp_treasure_c46b2462:
+
+    # lil_fox "Wait. I'll climb there and try again."
+    lil_fox "Wait. I'll climb there and try again."
+
+# game/characters/little fox/explore/treasure.rpy:122
+translate spanish lil_fox_exp_treasure_069c0b02:
+
+    # me "Good idea."
+    me "Good idea."
+
+# game/characters/little fox/explore/treasure.rpy:126
+translate spanish lil_fox_exp_treasure_761245b8:
+
+    # me "And?"
+    me "And?"
+
+# game/characters/little fox/explore/treasure.rpy:127
+translate spanish lil_fox_exp_treasure_0cabc0dd:
+
+    # lil_fox "It's locked. I'll try to throw it down."
+    lil_fox "It's locked. I'll try to throw it down."
+
+# game/characters/little fox/explore/treasure.rpy:128
+translate spanish lil_fox_exp_treasure_d6f4c0a5:
+
+    # me "Alright."
+    me "Alright."
+
+# game/characters/little fox/explore/treasure.rpy:132
+translate spanish lil_fox_exp_treasure_3c8c8cac:
+
+    # lil_fox "Ehh!"
+    lil_fox "Ehh!"
+
+# game/characters/little fox/explore/treasure.rpy:136
+translate spanish lil_fox_exp_treasure_55fe97c6:
+
+    # lil_fox "Ah! Watch out!"
+    lil_fox "Ah! Watch out!"
+
+# game/characters/little fox/explore/treasure.rpy:140
+translate spanish lil_fox_exp_treasure_5971af2f:
+
+    # "*Baam*!"
+    "*Baam*!"
+
+# game/characters/little fox/explore/treasure.rpy:141
+translate spanish lil_fox_exp_treasure_e21b7f84:
+
+    # lil_fox "Oh, it's open, haha."
+    lil_fox "Oh, it's open, haha."
+
+# game/characters/little fox/explore/treasure.rpy:142
+translate spanish lil_fox_exp_treasure_3f5d85fc:
+
+    # me "Good job."
+    me "Good job."
+
+# game/characters/little fox/explore/treasure.rpy:146
+translate spanish lil_fox_exp_treasure_6796cdce:
+
+    # lil_fox "Ah.."
+    lil_fox "Ah.."
+
+# game/characters/little fox/explore/treasure.rpy:147
+translate spanish lil_fox_exp_treasure_a29b205b:
+
+    # me "Careful."
+    me "Careful."
+
+# game/characters/little fox/explore/treasure.rpy:148
+translate spanish lil_fox_exp_treasure_e4a983ef:
+
+    # lil_fox "I'm allright."
+    lil_fox "I'm allright."
+
+# game/characters/little fox/explore/treasure.rpy:152
+translate spanish lil_fox_exp_treasure_a9b542f8:
+
+    # lil_fox "Let's check what we found!"
+    lil_fox "Let's check what we found!"
+
+# game/characters/little fox/explore/treasure.rpy:159
+translate spanish lil_fox_exp_treasure_d5bc8efa:
+
+    # me "Hell I did. Good job, [lil_fox]."
+    me "Hell I did. Good job, [lil_fox]."
+
