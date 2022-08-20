@@ -34,3 +34,11 @@ translate chinese strings:
     old "Get {amount:+} spirituality each turn."
     new "Get {amount:+} spirituality each turn."
 
+# TODO: Translation updated at 2022-08-20 13:47
+
+translate chinese strings:
+
+    # game/functions/buffs/list.rpy:11
+    old "Trying to generate buff icon without providing name."
+    new "Trying to generate buff icon without providing name."
+

@@ -358,3 +358,11 @@ translate chinese strings:
     old "The changelog is long as hell, there are around 30 bugs fixed, a lot of QoL changes, some suggested by the community. There are some other new mechanics like Mina can have a hangover, refuse to get into any meaningful conversation with you, and stop working on her task. Abandoned car loot was boosted significantly, first sounds to enemy attacks were added. Check the full changelog from the link below."
     new "The changelog is long as hell, there are around 30 bugs fixed, a lot of QoL changes, some suggested by the community. There are some other new mechanics like Mina can have a hangover, refuse to get into any meaningful conversation with you, and stop working on her task. Abandoned car loot was boosted significantly, first sounds to enemy attacks were added. Check the full changelog from the link below."
 
+# TODO: Translation updated at 2022-08-20 13:47
+
+translate chinese strings:
+
+    # game/screens/utility/what_new.rpy:216
+    old "Four of them can be used during the new events, there are two consumables (and a new buff), and pouches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
+    new "Four of them can be used during the new events, there are two consumables (and a new buff), and pouches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
+

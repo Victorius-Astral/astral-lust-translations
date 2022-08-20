@@ -72,3 +72,15 @@
     old "Hundreds of years of holding back, and now she's hornier than ever."
     new "经过几百年的压抑，现在她比以前更饥渴了。"
 
+# TODO: Translation updated at 2022-08-20 13:47
+
+translate chinese strings:
+
+    # game/variables/outfits.rpy:3
+    old "Nun"
+    new "Nun"
+
+    # game/variables/outfits.rpy:92
+    old "In the corruption filled Asthar, even the nuns are filled with unholy thoughts."
+    new "In the corruption filled Asthar, even the nuns are filled with unholy thoughts."
+

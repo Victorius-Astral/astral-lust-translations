@@ -44,3 +44,11 @@ translate chinese strings:
     old "Hollow Market"
     new "Hollow Market"
 
+# TODO: Translation updated at 2022-08-20 13:47
+
+translate chinese strings:
+
+    # game/screens/pc/pc.rpy:3
+    old "Developer Tools"
+    new "Developer Tools"
+

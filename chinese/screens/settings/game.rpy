@@ -199,3 +199,11 @@
     # game/screens/settings/game.rpy:200
     old "Not Set"
     new "未设置"
+# TODO: Translation updated at 2022-08-20 13:47
+
+translate chinese strings:
+
+    # game/screens/settings/game.rpy:109
+    old "Show in-progress languages"
+    new "Show in-progress languages"
+

@@ -48,3 +48,11 @@ translate chinese strings:
     old "Lost items:"
     new "Lost items:"
 
+# TODO: Translation updated at 2022-08-20 13:47
+
+translate chinese strings:
+
+    # game/variables/classes/Astral.rpy:490
+    old "\n • {{color={color}}}{amount}{{/color}} {{image={image}}}"
+    new "\n • {{color={color}}}{amount}{{/color}} {{image={image}}}"
+
