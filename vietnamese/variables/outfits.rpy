@@ -79,9 +79,8 @@ translate vietnamese strings:
 
     # game/variables/outfits.rpy:3
     old "Nun"
-    new "Nun"
+    new "Sơ"
 
     # game/variables/outfits.rpy:92
     old "In the corruption filled Asthar, even the nuns are filled with unholy thoughts."
-    new "In the corruption filled Asthar, even the nuns are filled with unholy thoughts."
-
+    new "Trong sự thối nát tràn ngập Asthar, ngay cả các nữ tu cũng chứa đầy những ý nghĩ xấu xa."

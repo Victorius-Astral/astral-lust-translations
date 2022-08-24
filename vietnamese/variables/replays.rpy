@@ -640,49 +640,47 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:37
     old "Outfit: Nun"
-    new "Outfit: Nun"
+    new "Trang phục: Sơ"
 
     # game/variables/replays.rpy:209
     old "Little Fox: Explore Together"
-    new "Little Fox: Explore Together"
+    new "Tiểu Cáo: Cùng nhau khám phá"
 
     # game/variables/replays.rpy:209
     old "Little Fox: Found a Stash"
-    new "Little Fox: Found a Stash"
+    new "Tiểu Cáo: Tìm thấy chỗ giấu tiền"
 
     # game/variables/replays.rpy:209
     old "Little Fox: Found a Treasure"
-    new "Little Fox: Found a Treasure"
+    new "Tiểu Cáo: Tìm kho báu"
 
     # game/variables/replays.rpy:209
     old "Little Fox: Founds Nothing"
-    new "Little Fox: Founds Nothing"
+    new "Tiểu Cáo: Tìm đéo thấy con mọe gì hết"
 
     # game/variables/replays.rpy:209
     old "Little Fox: Bandits Encounter"
-    new "Little Fox: Bandits Encounter"
+    new "Tiểu Cáo: Đụng độ băng cướp"
 
     # game/variables/replays.rpy:249
     old "Headache"
-    new "Headache"
+    new "Đau đầu"
 
     # game/variables/replays.rpy:288
     old "Explore Together"
-    new "Explore Together"
+    new "Cùng nhau khám phá"
 
     # game/variables/replays.rpy:288
     old "Found a Stash"
-    new "Found a Stash"
+    new "Tìm thấy chỗ giấu tiền"
 
     # game/variables/replays.rpy:288
     old "Found a Treasure"
-    new "Found a Treasure"
+    new "Tìm kho báu"
 
     # game/variables/replays.rpy:288
-    old "Founds Nothing"
-    new "Founds Nothing"
+    old "Không tìm thấy gì hết"
 
     # game/variables/replays.rpy:288
     old "Bandits Encounter"
-    new "Bandits Encounter"
-
+    new "Đụng độ băng cướp"

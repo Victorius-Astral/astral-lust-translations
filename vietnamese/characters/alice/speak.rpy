@@ -2224,9 +2224,8 @@ translate vietnamese strings:
 
     # game/characters/alice/speak.rpy:169
     old "> Outfits"
-    new "> Outfits"
+    new "> Trang phục"
 
     # game/characters/alice/speak.rpy:171
     old "Nun {#visible}"
-    new "Nun {#visible}"
-
+    new "Sơ {#visible}"

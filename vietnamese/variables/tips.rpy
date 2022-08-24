@@ -403,5 +403,4 @@ translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "I should find her when she's out to take a breath of fresh air."
-    new "I should find her when she's out to take a breath of fresh air."
-
+    new "Mình nên tìm cô ấy khi cô ấy ra ngoài hít thở không khí trong lành."
