@@ -182,5 +182,4 @@ translate vietnamese strings:
 
     # game/characters/little fox/speak.rpy:31
     old "Do you want to go on an adventure together?"
-    new "Do you want to go on an adventure together?"
-
+    new "Em có muốn đi thám hiểm cùng nhau không?"

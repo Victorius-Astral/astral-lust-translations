@@ -310,7 +310,7 @@ translate vietnamese main_12_fedf45f6:
 translate vietnamese main_12_884d7ada:
 
     # me "I wouldn't be able to resist.. Why did you change Your mind?"
-    me "Tao sẽ không thể chống lại ... Tại sao mày lại thay đổi quyết định của mình?"
+    me "Tao sẽ không thể chống lại... Tại sao mày lại thay đổi quyết định của mình?"
 
 # game/characters/player/ev_12.rpy:75
 translate vietnamese main_12_3c5667f5:
@@ -582,17 +582,16 @@ translate vietnamese strings:
 translate vietnamese main_12_753c1237:
 
     # aharon "Before 'It' perished, 'It' made preparations, 'It' has left a key in a River of Destiny. Yet back then 'It' couldn't control how it would manifest."
-    aharon "Before 'It' perished, 'It' made preparations, 'It' has left a key in a River of Destiny. Yet back then 'It' couldn't control how it would manifest."
+    aharon "Trước khi 'Nó' chết, 'Nó' đã chuẩn bị xong, nó đã để lại một chiếc chìa khóa trong Dòng sông định mệnh. Tuy nhiên, hồi đó 'Nó' không thể kiểm soát biểu hiện của nó."
 
 # game/characters/player/ev_12.rpy:68
 translate vietnamese main_12_086371c0:
 
     # me "Alright, so I have this key somehow, right?"
-    me "Alright, so I have this key somehow, right?"
+    me "Được rồi, vậy là bằng một cách nào đó tao có cái chìa khóa này, phải không?"
 
 # game/characters/player/ev_12.rpy:74
 translate vietnamese main_12_ccb68647:
 
     # me "I wouldn't be able to resist.. Why did You change Your mind?"
-    me "I wouldn't be able to resist.. Why did You change Your mind?"
-
+    me "Tao sẽ không thể chống lại... Tại sao mày lại thay đổi quyết định?"

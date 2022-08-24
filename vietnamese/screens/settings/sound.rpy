@@ -39,9 +39,8 @@ translate vietnamese strings:
 
     # game/screens/settings/sound.rpy:12
     old "General"
-    new "General"
+    new "Âm lượng tổng"
 
     # game/screens/settings/sound.rpy:13
     old "Play sound when window is minimized"
-    new "Play sound when window is minimized"
-
+    new "Phát âm thanh khi thu nhỏ cửa sổ"

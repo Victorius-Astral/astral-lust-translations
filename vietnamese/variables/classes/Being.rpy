@@ -11,5 +11,4 @@ translate vietnamese strings:
 
     # game/variables/classes/Being.rpy:1590
     old "Buff granted: {buff} {{image={image}}} ({amount})"
-    new "Buff granted: {buff} {{image={image}}} ({amount})"
-
+    new "Nhận được buff: {buff} {{image={image}}} ({amount})"

@@ -48,7 +48,7 @@ translate vietnamese strings:
 
     # game/screens/systems/difficulty.rpy:162
     old "You took fate into your own hands. For better or worse."
-    new "Bạn là người nắm giữ vận mệnh cảu bản thân. Tốt hơn hay tệ đi là dựa vào bạn."
+    new "Bạn là người nắm giữ vận mệnh của bản thân. Tốt hơn hay tệ đi là dựa vào bạn."
 
     # game/screens/systems/difficulty.rpy:177
     old "{u}Difficulty Settings{/u}"

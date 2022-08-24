@@ -38,5 +38,4 @@ translate vietnamese strings:
 
     # game/functions/buffs/list.rpy:11
     old "Trying to generate buff icon without providing name."
-    new "Trying to generate buff icon without providing name."
-
+    new "Cố gắng tạo biểu tượng buff mà không cần cung cấp tên."

@@ -280,7 +280,7 @@ translate vietnamese strings:
 
     # game/variables/wallpapers.rpy:384
     old "Valentines 2022 Collage"
-    new "Valentines 2022 Collage"
+    new "Ảnh ghép valentines 2022"
 
     # game/variables/wallpapers.rpy:385
     old "Alice Valentine 1"
@@ -335,19 +335,19 @@ translate vietnamese strings:
 
     # game/variables/wallpapers.rpy:24
     old "Collectible"
-    new "Collectible"
+    new "Sưu tầm được"
 
     # game/variables/wallpapers.rpy:24
     old "Postcard"
-    new "Postcard"
+    new "Bưu thiếp"
 
     # game/variables/wallpapers.rpy:24
     old "Patreon - Time Limited"
-    new "Patreon - Time Limited"
+    new "Patreon - Thời gian có hạn"
 
     # game/variables/wallpapers.rpy:24
     old "Time Limited"
-    new "Time Limited"
+    new "Thời gian có hạn"
 
     # game/variables/wallpapers.rpy:24
     old "Mod"
@@ -355,29 +355,28 @@ translate vietnamese strings:
 
     # game/variables/wallpapers.rpy:454
     old "July 2022 1"
-    new "July 2022 1"
+    new "Tháng bảy 2022 1"
 
     # game/variables/wallpapers.rpy:455
     old "July 2022 2"
-    new "July 2022 2"
+    new "Tháng bảy 2022 2"
 
     # game/variables/wallpapers.rpy:456
     old "July 2022 3"
-    new "July 2022 3"
+    new "Tháng bảy 2022 3"
 
     # game/variables/wallpapers.rpy:457
     old "July 2022 4"
-    new "July 2022 4"
+    new "Tháng bảy 2022 4"
 
     # game/variables/wallpapers.rpy:458
     old "July 2022 5"
-    new "July 2022 5"
+    new "Tháng bảy 2022 5"
 
     # game/variables/wallpapers.rpy:465
     old "July 2022 Postcard"
-    new "July 2022 Postcard"
+    new "Bưu thiếp tháng bảy 2022"
 
     # game/variables/wallpapers.rpy:489
     old "July 2022"
-    new "July 2022"
-
+    new "Tháng bảy 2022"

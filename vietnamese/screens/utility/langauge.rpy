@@ -16,5 +16,4 @@ translate vietnamese strings:
 
     # game/screens/utility/langauge.rpy:30
     old "Language"
-    new "Language"
-
+    new "Ngôn ngữ"

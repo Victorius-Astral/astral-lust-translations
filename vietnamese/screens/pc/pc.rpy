@@ -42,5 +42,4 @@ translate vietnamese strings:
 
     # game/screens/pc/pc.rpy:3
     old "Developer Tools"
-    new "Developer Tools"
-
+    new "Những công cụ phát triển"

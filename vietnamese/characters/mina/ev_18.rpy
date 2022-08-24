@@ -1120,7 +1120,7 @@ translate vietnamese mina_18_part3_122d533b:
 translate vietnamese mina_18_part3_129708f0:
 
     # mina "Oh, gosh."
-    mina "Oh, gosh."
+    mina "Oh, chúa ơi."
 
 # game/characters/mina/ev_18.rpy:371
 translate vietnamese mina_18_part3_7adf2a44:

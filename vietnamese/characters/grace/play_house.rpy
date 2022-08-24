@@ -1480,5 +1480,4 @@ translate vietnamese strings:
 
     # game/characters/grace/play_house.rpy:198
     old "mother"
-    new "mother"
-
+    new "Mẹ"
