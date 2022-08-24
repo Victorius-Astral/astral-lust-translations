@@ -22,3 +22,11 @@ translate polish strings:
     old "You need at least 11 cards in all decks to destroy a card!"
     new "You need at least 11 cards in all decks to destroy a card!"
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/combat/decks/DecksMenu.rpy:55
+    old "Close"
+    new "Close"
+

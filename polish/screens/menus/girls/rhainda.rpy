@@ -21,3 +21,11 @@ translate polish strings:
     # game/screens/menus/girls/rhainda.rpy:35
     old "• Rhainda x Little Fox\n  Content (Disabled)"
     new "• Zawartość Rhainda x Little Fox\n  (Wyłączone)"
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/screens/menus/girls/rhainda.rpy:20
+    old "Real-Life Model: Rhainda {a=https://discord.gg/rvnBC39USx}(AL Discord){/a}"
+    new "Real-Life Model: Rhainda {a=https://discord.gg/rvnBC39USx}(AL Discord){/a}"
+

@@ -1572,3 +1572,15 @@ translate polish rhainda_1_end_1fd0de5b:
     # lil_fox "And I'm Little Fox, the most adorable fox to ever exist!"
     lil_fox "And I'm Little Fox, the most adorable fox to ever exist!"
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/characters/rhainda/ev_1.rpy:88
+    old "You won"
+    new "You won"
+
+    # game/characters/rhainda/ev_1.rpy:88
+    old "Rhainda won"
+    new "Rhainda won"
+

@@ -226,4 +226,4 @@ translate vietnamese lil_fox_exp_treasure_45cf4b87:
 translate vietnamese lil_fox_exp_treasure_6e77aa4c:
 
     # me "This little thing is too playful for her own good..."
-    me "em ấy dường như quá ham chươi và nghịch ngợm..."
+    me "em ấy dường như quá ham chơi và nghịch ngợm..."

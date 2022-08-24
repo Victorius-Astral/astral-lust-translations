@@ -120,3 +120,17 @@ translate polish grace_mass1_186200ff:
     # "As [grace] giggles to herself, you wonder if she could perhaps be a nympho deep down."
     "As [grace] giggles to herself, you wonder if she could perhaps be a nympho deep down."
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+# game/characters/grace/mass_1.rpy:34
+translate polish grace_mass1_951eca52:
+
+    # th "Don't tell me she's about to-"
+    th "Don't tell me she's about to-"
+
+# game/characters/grace/mass_1.rpy:38
+translate polish grace_mass1_c46a2ec0:
+
+    # grace "Ehhh!?"
+    grace "Ehhh!?"
+

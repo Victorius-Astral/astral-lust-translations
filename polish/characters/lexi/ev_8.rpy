@@ -1164,3 +1164,11 @@ translate polish lexi_8_533ea457:
     # me "What an honest apology.."
     me "What an honest apology.."
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/characters/lexi/ev_8.rpy:310
+    old "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar"
+    new "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar"
+

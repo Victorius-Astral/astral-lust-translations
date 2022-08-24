@@ -1091,3 +1091,11 @@ translate polish strings:
     # game/characters/grace/nightmare.rpy:422
     old "It's safe, I can finally sleep"
     new "It's safe, I can finally sleep"
+# TODO: Translation updated at 2022-08-20 13:48
+
+# game/characters/grace/nightmare.rpy:174
+translate polish grace_nightmare_part3_6d16ba19:
+
+    # grace "Mo-!"
+    grace "Mo-!"
+

@@ -25,3 +25,11 @@ translate polish strings:
     # game/screens/systems/TileMenu.rpy:279
     old "*Click to lock the selection."
     new "*Naciśnij, aby zablokować wybór."
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/screens/systems/TileMenu.rpy:196
+    old "*Click to create."
+    new "*Click to create."
+

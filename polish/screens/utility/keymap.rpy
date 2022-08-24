@@ -53,3 +53,11 @@ translate polish strings:
     # game/screens/utility/keymap.rpy:54
     old "Toggle task menu."
     new "Przełącz menu zadań."
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/screens/utility/keymap.rpy:18
+    old "Shows character & inventory menu."
+    new "Shows character & inventory menu."
+

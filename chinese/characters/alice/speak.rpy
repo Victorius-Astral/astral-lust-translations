@@ -1848,3 +1848,15 @@ translate chinese strings:
     old "Let's skip this"
     new "Let's skip this"
 
+# TODO: Translation updated at 2022-08-20 13:47
+
+translate chinese strings:
+
+    # game/characters/alice/speak.rpy:169
+    old "> Outfits"
+    new "> Outfits"
+
+    # game/characters/alice/speak.rpy:171
+    old "Nun {#visible}"
+    new "Nun {#visible}"
+

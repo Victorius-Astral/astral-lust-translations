@@ -617,3 +617,103 @@ translate polish strings:
     # game/variables/replays.rpy:268
     old "First Days in the Hotel"
     new "Pierwsze Dnie w Hotelu"
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/variables/replays.rpy:37
+    old "Outfit: Nun"
+    new "Outfit: Nun"
+
+    # game/variables/replays.rpy:73
+    old "Mina wants booze"
+    new "Mina wants booze"
+
+    # game/variables/replays.rpy:73
+    old "Drinking with Mina"
+    new "Drinking with Mina"
+
+    # game/variables/replays.rpy:101
+    old "Why does she have a password?"
+    new "Why does she have a password?"
+
+    # game/variables/replays.rpy:101
+    old "The first successful date"
+    new "The first successful date"
+
+    # game/variables/replays.rpy:101
+    old "Kitchen Date"
+    new "Kitchen Date"
+
+    # game/variables/replays.rpy:145
+    old "Dreaming of Her Dad"
+    new "Dreaming of Her Dad"
+
+    # game/variables/replays.rpy:145
+    old "[me] the Psychologist"
+    new "[me] the Psychologist"
+
+    # game/variables/replays.rpy:145
+    old "Dildo for [grace]"
+    new "Dildo for [grace]"
+
+    # game/variables/replays.rpy:145
+    old "Nasty Revenge"
+    new "Nasty Revenge"
+
+    # game/variables/replays.rpy:209
+    old "Little Fox: Explore Together"
+    new "Little Fox: Explore Together"
+
+    # game/variables/replays.rpy:209
+    old "Little Fox: Found a Stash"
+    new "Little Fox: Found a Stash"
+
+    # game/variables/replays.rpy:209
+    old "Little Fox: Found a Treasure"
+    new "Little Fox: Found a Treasure"
+
+    # game/variables/replays.rpy:209
+    old "Little Fox: Founds Nothing"
+    new "Little Fox: Founds Nothing"
+
+    # game/variables/replays.rpy:209
+    old "Little Fox: Bandits Encounter"
+    new "Little Fox: Bandits Encounter"
+
+    # game/variables/replays.rpy:249
+    old "Headache"
+    new "Headache"
+
+    # game/variables/replays.rpy:275
+    old "A Way to Chill Out"
+    new "A Way to Chill Out"
+
+    # game/variables/replays.rpy:288
+    old "Explore Together"
+    new "Explore Together"
+
+    # game/variables/replays.rpy:288
+    old "Found a Stash"
+    new "Found a Stash"
+
+    # game/variables/replays.rpy:288
+    old "Found a Treasure"
+    new "Found a Treasure"
+
+    # game/variables/replays.rpy:288
+    old "Founds Nothing"
+    new "Founds Nothing"
+
+    # game/variables/replays.rpy:288
+    old "Bandits Encounter"
+    new "Bandits Encounter"
+
+    # game/variables/replays.rpy:302
+    old "The Blind Blacksmith part 1"
+    new "The Blind Blacksmith part 1"
+
+    # game/variables/replays.rpy:302
+    old "About Her Cheongsam"
+    new "About Her Cheongsam"
+

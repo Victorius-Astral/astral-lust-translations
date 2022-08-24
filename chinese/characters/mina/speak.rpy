@@ -848,3 +848,11 @@ translate chinese strings:
     old "I'll get you the vodka you wanted {gold}(Story){/gold}"
     new "I'll get you the vodka you wanted {gold}(Story){/gold}"
 
+# TODO: Translation updated at 2022-08-20 13:47
+
+# game/characters/mina/speak.rpy:187
+translate chinese speak_mina_menu1_17047931:
+
+    # mina "Man, let me rest." id speak_mina_menu1_17047931
+    mina "Man, let me rest." id speak_mina_menu1_17047931
+

@@ -2218,3 +2218,15 @@ translate vietnamese strings:
     # game/characters/alice/speak.rpy:656
     old "Let's skip this"
     new "Hãy bỏ cái này đi"
+# TODO: Translation updated at 2022-08-20 13:45
+
+translate vietnamese strings:
+
+    # game/characters/alice/speak.rpy:169
+    old "> Outfits"
+    new "> Outfits"
+
+    # game/characters/alice/speak.rpy:171
+    old "Nun {#visible}"
+    new "Nun {#visible}"
+

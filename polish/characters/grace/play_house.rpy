@@ -1390,3 +1390,11 @@ translate polish strings:
     old "A mother is 21 years older than her child. In 6 years the child will be 5 times younger than mother. Where is the father?"
     new "A mother is 21 years older than her child. In 6 years the child will be 5 times younger than mother. Where is the father?"
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/characters/grace/play_house.rpy:198
+    old "mother"
+    new "mother"
+

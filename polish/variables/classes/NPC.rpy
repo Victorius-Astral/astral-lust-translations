@@ -37,3 +37,15 @@ translate polish strings:
     # game/variables/classes/NPC.rpy:220
     old "{}'s affection - {}"
     new "Sympatia {} - {}"
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/variables/classes/NPC.rpy:360
+    old "{} is angry!"
+    new "{} is angry!"
+
+    # game/variables/classes/NPC.rpy:366
+    old "{} calmed down and is no longer angry at you!"
+    new "{} calmed down and is no longer angry at you!"
+

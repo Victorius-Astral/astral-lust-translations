@@ -1524,3 +1524,23 @@ translate polish strings:
     old "What would you do if you could do anything?"
     new "What would you do if you could do anything?"
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+# game/characters/mina/ev_4.rpy:45
+translate polish mina_4_66c07f1c:
+
+    # me "{loud}STOP!!{/loud}"
+    me "{loud}STOP!!{/loud}"
+
+# game/characters/mina/ev_4.rpy:208
+translate polish mina_4_3_26636d63:
+
+    # me "{small}Hey [alice], what's wrong?{/small}"
+    me "{small}Hey [alice], what's wrong?{/small}"
+
+# game/characters/mina/ev_4.rpy:209
+translate polish mina_4_3_8568806b:
+
+    # alice "{small}I just thought of a better dare..{/small}"
+    alice "{small}I just thought of a better dare..{/small}"
+

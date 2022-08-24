@@ -22,3 +22,19 @@ translate polish strings:
     old "Battle start"
     new "Battle start"
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/functions/buffs/list.rpy:11
+    old "Trying to generate buff icon without providing name."
+    new "Trying to generate buff icon without providing name."
+
+    # game/functions/buffs/list.rpy:19
+    old "Sugar Frenzy"
+    new "Sugar Frenzy"
+
+    # game/functions/buffs/list.rpy:19
+    old "Get {amount:+} spirituality each turn."
+    new "Get {amount:+} spirituality each turn."
+

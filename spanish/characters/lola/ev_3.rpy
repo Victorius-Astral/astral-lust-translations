@@ -645,3 +645,11 @@ translate spanish strings:
     # game/characters/lola/ev_3.rpy:221
     old "Let her rest"
     new "Déjala descansar"
+# TODO: Translation updated at 2022-08-20 13:44
+
+# game/characters/lola/ev_3.rpy:88
+translate spanish lola_3_619430e4:
+
+    # lola "Great. Now that you're hard, what do you want me to do?" nointeract
+    lola "Great. Now that you're hard, what do you want me to do?" nointeract
+

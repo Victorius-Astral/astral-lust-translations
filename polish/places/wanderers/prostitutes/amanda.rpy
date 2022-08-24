@@ -266,3 +266,11 @@ translate polish strings:
     old "sir"
     new "sir"
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/places/wanderers/prostitutes/amanda.rpy:24
+    old "I want you to call me.."
+    new "I want you to call me.."
+

@@ -164,3 +164,11 @@ translate polish strings:
     old "Little Cum-Stealer"
     new "Little Cum-Stealer"
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/characters/little fox/speak.rpy:31
+    old "Do you want to go on an adventure together?"
+    new "Do you want to go on an adventure together?"
+

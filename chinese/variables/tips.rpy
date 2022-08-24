@@ -358,3 +358,11 @@ translate chinese strings:
     old "We should chit chat sometimes."
     new "We should chit chat sometimes."
 
+# TODO: Translation updated at 2022-08-20 13:47
+
+translate chinese strings:
+
+    # game/variables/tips.rpy:4
+    old "I should find her when she's out to take a breath of fresh air."
+    new "I should find her when she's out to take a breath of fresh air."
+

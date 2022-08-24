@@ -322,3 +322,83 @@ translate chinese strings:
     old "Valentines 2022"
     new "Valentines 2022"
 
+# TODO: Translation updated at 2022-08-20 13:47
+
+translate chinese strings:
+
+    # game/variables/wallpapers.rpy:24
+    old "Patreon"
+    new "Patreon"
+
+    # game/variables/wallpapers.rpy:24
+    old "Combat"
+    new "Combat"
+
+    # game/variables/wallpapers.rpy:24
+    old "Collectible"
+    new "Collectible"
+
+    # game/variables/wallpapers.rpy:24
+    old "Postcard"
+    new "Postcard"
+
+    # game/variables/wallpapers.rpy:24
+    old "Patreon - Time Limited"
+    new "Patreon - Time Limited"
+
+    # game/variables/wallpapers.rpy:24
+    old "Time Limited"
+    new "Time Limited"
+
+    # game/variables/wallpapers.rpy:24
+    old "Mod"
+    new "Mod"
+
+    # game/variables/wallpapers.rpy:431
+    old "Swimmer Fox"
+    new "Swimmer Fox"
+
+    # game/variables/wallpapers.rpy:438
+    old "Swimmer Fox - Topless"
+    new "Swimmer Fox - Topless"
+
+    # game/variables/wallpapers.rpy:445
+    old "Bunny Gracie"
+    new "Bunny Gracie"
+
+    # game/variables/wallpapers.rpy:452
+    old "Little Fox Adventure"
+    new "Little Fox Adventure"
+
+    # game/variables/wallpapers.rpy:482
+    old "Aug 2022 1"
+    new "Aug 2022 1"
+
+    # game/variables/wallpapers.rpy:483
+    old "Aug 2022 2"
+    new "Aug 2022 2"
+
+    # game/variables/wallpapers.rpy:484
+    old "Aug 2022 3"
+    new "Aug 2022 3"
+
+    # game/variables/wallpapers.rpy:485
+    old "Aug 2022 4"
+    new "Aug 2022 4"
+
+    # game/variables/wallpapers.rpy:486
+    old "Aug 2022 5"
+    new "Aug 2022 5"
+
+    # game/variables/wallpapers.rpy:493
+    old "June 2022 Postcard"
+    new "June 2022 Postcard"
+
+    # game/variables/wallpapers.rpy:517
+    old "July 2022"
+    new "July 2022"
+
+    # game/variables/wallpapers.rpy:517
+    old "August 2022"
+    new "August 2022"
+

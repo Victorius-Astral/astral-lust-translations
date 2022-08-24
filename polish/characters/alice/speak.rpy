@@ -2700,3 +2700,15 @@ translate polish strings:
     old "Reinforce coat (Duration: [aliceTasks.reinforceCoat.duration]) {trust}(Buff+){/trust} {#visible}"
     new "Reinforce coat (Duration: [aliceTasks.reinforceCoat.duration]) {trust}(Buff+){/trust} {#visible}"
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/characters/alice/speak.rpy:169
+    old "> Outfits"
+    new "> Outfits"
+
+    # game/characters/alice/speak.rpy:171
+    old "Nun {#visible}"
+    new "Nun {#visible}"
+

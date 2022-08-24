@@ -37,3 +37,23 @@ translate polish strings:
     # game/variables/classes/Astral.rpy:509
     old "HELP"
     new "POMOC"
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/variables/classes/Astral.rpy:391
+    old "her"
+    new "her"
+
+    # game/variables/classes/Astral.rpy:393
+    old "This is the end of {who} story in {ver}. The game remains in the active development, though! If you want to check or get new releases, or you just want to support Astral Lust check our {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreon{{/a}}{{/patreon1}}! Have fun :)"
+    new "This is the end of {who} story in {ver}. The game remains in the active development, though! If you want to check or get new releases, or you just want to support Astral Lust check our {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreon{{/a}}{{/patreon1}}! Have fun :)"
+
+    # game/variables/classes/Astral.rpy:480
+    old "Lost items:"
+    new "Lost items:"
+
+    # game/variables/classes/Astral.rpy:490
+    old "\n • {{color={color}}}{amount}{{/color}} {{image={image}}}"
+    new "\n • {{color={color}}}{amount}{{/color}} {{image={image}}}"
+

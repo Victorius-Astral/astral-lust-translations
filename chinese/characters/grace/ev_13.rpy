@@ -4452,3 +4452,11 @@ translate chinese strings:
     old ", and "
     new ", and "
 
+# TODO: Translation updated at 2022-08-20 13:47
+
+# game/characters/grace/ev_13.rpy:61
+translate chinese grace_13_c3120170:
+
+    # grace "No. I just wanted to talk with you."
+    grace "No. I just wanted to talk with you."
+

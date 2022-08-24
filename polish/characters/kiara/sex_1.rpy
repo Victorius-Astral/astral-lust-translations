@@ -182,3 +182,11 @@ translate polish strings:
     old "Cum"
     new "Cum"
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+# game/characters/kiara/sex_1.rpy:102
+translate polish kiara_sex_1_sex2_3217e8b9:
+
+    # me "Ahh!!"
+    me "Ahh!!"
+

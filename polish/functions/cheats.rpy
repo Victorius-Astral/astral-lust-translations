@@ -214,3 +214,19 @@ translate polish v2_win_61dd3a44:
     # me "How do I even go back?"
     me "How do I even go back?"
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/functions/cheats.rpy:7
+    old "Dragon Girl"
+    new "Dragon Girl"
+
+    # game/functions/cheats.rpy:17
+    old "Insert code (available on {a=https://discord.gg/rvnBC39USx}Discord{/a} and {a=https://www.patreon.com/Victorius}Patreon{/a}):"
+    new "Insert code (available on {a=https://discord.gg/rvnBC39USx}Discord{/a} and {a=https://www.patreon.com/Victorius}Patreon{/a}):"
+
+    # game/functions/cheats.rpy:26
+    old "Code correct!"
+    new "Code correct!"
+

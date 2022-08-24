@@ -860,3 +860,11 @@ translate polish strings:
     old "The mere mention of Throdog R'luhhor caused her to drown in terror and throw me out immediately."
     new "The mere mention of Throdog R'luhhor caused her to drown in terror and throw me out immediately."
 
+# TODO: Translation updated at 2022-08-20 13:48
+
+translate polish strings:
+
+    # game/characters/player/ev_4.rpy:12
+    old "Enter"
+    new "Enter"
+
