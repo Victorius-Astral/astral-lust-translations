@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-# game/characters/alice/speak.rpy:8
+﻿# game/characters/alice/speak.rpy:8
 translate chinese speak_alice_56062ced:
 
     # alice "Hey."

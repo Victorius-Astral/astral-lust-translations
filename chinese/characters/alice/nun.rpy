@@ -1,22 +1,20 @@
-﻿# TODO: Translation updated at 2022-06-15 06:52
-
-# game/characters/alice/nun.rpy:5
+﻿# game/characters/alice/nun.rpy:5
 translate chinese alice_nun_7b9c5077:
 
     # alice "How did you came to see me as a nun?"
-    alice "你是怎么把我当成修女的？"
+    alice "你为什么把我当修女？"
 
 # game/characters/alice/nun.rpy:6
 translate chinese alice_nun_fd5d763e:
 
     # alice "Do I resemble nun in any place?"
-    alice "我看起来哪里都像修女吗？"
+    alice "我看起来就这么像修女吗？"
 
 # game/characters/alice/nun.rpy:7
 translate chinese alice_nun_472a9507:
 
     # me "Oh, no. It's the opposite. You're so far away from it, that the dissimilarity makes it hot."
-    me "哦，不，正好相反。相差太远，反差感让它更诱人。"
+    me "哦，不，恰恰相反。相差太远，反差感让它更诱人。"
 
 # game/characters/alice/nun.rpy:11
 translate chinese alice_nun_fd89ed65:
@@ -34,13 +32,13 @@ translate chinese alice_nun_0e756846:
 translate chinese alice_nun_9f13fe0c:
 
     # me "That's my girl."
-    me "那是我的女孩。"
+    me "这才是我的小宝贝。"
 
 # game/characters/alice/nun.rpy:20
 translate chinese alice_nun_52949880:
 
     # alice "I'll get it ready in no time."
-    alice "我马上就把它准备好。"
+    alice "我马上就准备好。"
 
 # game/characters/alice/nun.rpy:25
 translate chinese alice_nun_f53e89e4:
@@ -88,11 +86,11 @@ translate chinese alice_nun_6f6ada27:
 translate chinese alice_nun_sex_menu_0e826809:
 
     # alice "Whatever."
-    alice "一切。"
+    alice "无所谓啦。"
 
 translate chinese strings:
 
     # game/characters/alice/nun.rpy:45
     old "Later"
-    new "之后"
+    new "以后再说"
 

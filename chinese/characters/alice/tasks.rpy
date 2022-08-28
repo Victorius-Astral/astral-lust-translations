@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-# game/characters/alice/tasks.rpy:5
+﻿# game/characters/alice/tasks.rpy:5
 translate chinese task_alice_combat_gear_7d013ded:
 
     # alice "Guess what."

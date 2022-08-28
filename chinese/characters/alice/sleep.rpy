@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-# game/characters/alice/sleep.rpy:8
+﻿# game/characters/alice/sleep.rpy:8
 translate chinese sleep_alice_23ee33cd:
 
     # th "[alice].. [alice].. Little, horny [alice].."
@@ -292,7 +290,7 @@ translate chinese sleep_alice_hj_2de21fb9:
 translate chinese sleep_alice_hj_b03afed4:
 
     # alice "Praise me more."
-    alice "多赞美我。"
+    alice "多夸夸我。"
 
 # game/characters/alice/sleep.rpy:135
 translate chinese sleep_alice_hj_426d91d6:

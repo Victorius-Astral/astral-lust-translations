@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-# game/characters/alice/p_bed.rpy:26
+﻿# game/characters/alice/p_bed.rpy:26
 translate chinese alice_p_bed_f03a312a:
 
     # me "Look at her, how cute she is."
@@ -28,7 +26,7 @@ translate chinese alice_p_bed_c1bf7232:
 translate chinese alice_p_bed_267feeb3:
 
     # me "Go do something productive."
-    me "去做一些有意义的事情吧。"
+    me "做一些“有意义”的事。"
 
 # game/characters/alice/p_bed.rpy:40
 translate chinese alice_p_bed_a2104072:
@@ -46,7 +44,7 @@ translate chinese alice_p_bed_25f6ef10:
 translate chinese alice_p_bed_367b8e69:
 
     # me "A moan? Really?"
-    me "一声娇喘？来真的？"
+    me "一声娇喘？真的？"
 
 # game/characters/alice/p_bed.rpy:47
 translate chinese alice_p_bed_076b9bb2:
@@ -70,7 +68,7 @@ translate chinese alice_p_bed_undress_5e256dae:
 translate chinese alice_p_bed_undress_790b546c:
 
     # "{agi}[[Agility check passed]{/agi}"
-    "{agi}[[敏捷数值判定通过]{/agi}"
+    "{agi}[[敏捷值判定通过]{/agi}"
 
 # game/characters/alice/p_bed.rpy:81
 translate chinese alice_p_bed_undress_45ea3a1b:
@@ -88,25 +86,25 @@ translate chinese alice_p_bed_undress_1a9301bd:
 translate chinese alice_p_bed_undress_790b546c_1:
 
     # "{agi}[[Agility check passed]{/agi}"
-    "{agi}[[敏捷数值判定通过]{/agi}"
+    "{agi}[[敏捷值判定通过]{/agi}"
 
 # game/characters/alice/p_bed.rpy:94
 translate chinese alice_p_bed_undress_5f2b05d1:
 
     # th "I'm surprised myself how nimble my fingers have became."
-    th "我对自己的手指变得如此灵活感到惊讶。"
+    th "我很惊讶，自己的手指居然如此灵活。"
 
 # game/characters/alice/p_bed.rpy:99
 translate chinese alice_p_bed_undress_53f6ccdc:
 
     # th "Beauty is naked, time to give her a nice surprise."
-    th "裸体的小美女，是时候给她一个惊喜了。"
+    th "赤裸的小美女，是时候给她一个惊喜了。"
 
 # game/characters/alice/p_bed.rpy:103
 translate chinese alice_p_bed_undress_724ce286:
 
     # "{agi}[[Agility check failed]{/agi}"
-    "{agi}[[敏捷数值判定失败]{/agi}"
+    "{agi}[[敏捷值判定失败]{/agi}"
 
 # game/characters/alice/p_bed.rpy:104
 translate chinese alice_p_bed_undress_1c77a2e1:
@@ -118,7 +116,7 @@ translate chinese alice_p_bed_undress_1c77a2e1:
 translate chinese alice_p_bed_undress_210a8368:
 
     # alice "You naughty, naughty boy."
-    alice "你这个淘气的色小孩。"
+    alice "你个大坏蛋。"
 
 # game/characters/alice/p_bed.rpy:110
 translate chinese alice_p_bed_undress_51495ee9:
@@ -136,7 +134,7 @@ translate chinese alice_p_bed_undress_13f3000c:
 translate chinese alice_p_bed_undress_724ce286_1:
 
     # "{agi}[[Agility check failed]{/agi}"
-    "{agi}[[敏捷数值判定失败]{/agi}"
+    "{agi}[[敏捷值判定失败]{/agi}"
 
 # game/characters/alice/p_bed.rpy:125
 translate chinese alice_p_bed_undress_5c5981e3:
@@ -148,7 +146,7 @@ translate chinese alice_p_bed_undress_5c5981e3:
 translate chinese alice_p_bed_undress_fda92617:
 
     # alice "Good try, [me]."
-    alice "不错的尝试 [me]。"
+    alice "想得美 [me]。"
 
 # game/characters/alice/p_bed.rpy:131
 translate chinese alice_p_bed_undress_24463355:
@@ -160,7 +158,7 @@ translate chinese alice_p_bed_undress_24463355:
 translate chinese alice_p_bed_undress_38cab369:
 
     # me "I'm older than you.."
-    me "我比你年长.."
+    me "我比你大.."
 
 # game/characters/alice/p_bed.rpy:141
 translate chinese alice_p_bed_cunn_b2495cea:
@@ -172,7 +170,7 @@ translate chinese alice_p_bed_cunn_b2495cea:
 translate chinese alice_p_bed_cunn_a88dcc8b:
 
     # me "Hehe, how sensitive.."
-    me "呵呵，多敏感啊.."
+    me "啊，多敏感啊.."
 
 # game/characters/alice/p_bed.rpy:143
 translate chinese alice_p_bed_cunn_b7152374:
@@ -190,7 +188,7 @@ translate chinese alice_p_bed_cunn_99cbb2f2:
 translate chinese alice_p_bed_cunn_7e370872:
 
     # alice "I love it!"
-    alice "我爱死了！"
+    alice "超喜欢！"
 
 # game/characters/alice/p_bed.rpy:146
 translate chinese alice_p_bed_cunn_6daad2ae:
@@ -220,7 +218,7 @@ translate chinese alice_p_bed_cunn_6e5e6ea7:
 translate chinese alice_p_bed_cunn_ede33af7:
 
     # alice "Don't stop, I'm so horny right now!"
-    alice "别停！我现在要高潮了！"
+    alice "别停！我要高潮了！"
 
 # game/characters/alice/p_bed.rpy:158
 translate chinese alice_p_bed_cunn_b2df2fd6:
@@ -232,7 +230,7 @@ translate chinese alice_p_bed_cunn_b2df2fd6:
 translate chinese alice_p_bed_cunn_4cdf02ac:
 
     # th "I love her taste, taste of a good girl huh?"
-    th "我喜欢她的滋味，一个好女孩的味道，嗯？"
+    th "我喜欢她的味道，一个好女孩的味道，嗯？"
 
 # game/characters/alice/p_bed.rpy:160
 translate chinese alice_p_bed_cunn_9ec30113:

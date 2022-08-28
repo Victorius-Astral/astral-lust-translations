@@ -1,10 +1,8 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-# game/characters/alice/sex_1.rpy:39
+﻿# game/characters/alice/sex_1.rpy:39
 translate chinese alice_sex_1_da600f48:
 
     # "You lie down."
-    "你躺下。"
+    "你躺了下来。"
 
 # game/characters/alice/sex_1.rpy:40
 translate chinese alice_sex_1_61660bd0:
@@ -76,7 +74,7 @@ translate chinese alice_sex_1_95b3f10d_1:
 translate chinese alice_sex_1_1073ebf4:
 
     # "[alice] started to blow you. Her little tongue dancing around your shaft like a snake."
-    "[alice] 开始吹你。她的小舌头像蛇一样绕着你的鸡鸡跳舞。"
+    "[alice] 开始给你口。她的小舌头像蛇一样绕着你的鸡鸡跳舞。"
 
 # game/characters/alice/sex_1.rpy:63
 translate chinese alice_sex_1_4feccafa:
@@ -220,7 +218,7 @@ translate chinese alice_sex_1_part3_79dfe51e:
 translate chinese alice_sex_1_part3_2f3d23c6:
 
     # "You are cumming!"
-    "你射精了!"
+    "你射了!"
 
 # game/characters/alice/sex_1.rpy:116
 translate chinese alice_sex_1_part3_7459a238:

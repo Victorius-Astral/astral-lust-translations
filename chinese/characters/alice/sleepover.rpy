@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-# game/characters/alice/sleepover.rpy:27
+﻿# game/characters/alice/sleepover.rpy:27
 translate chinese sleep_with_alice_dbce692f:
 
     # me "Look at her, isn't it too early for you?"

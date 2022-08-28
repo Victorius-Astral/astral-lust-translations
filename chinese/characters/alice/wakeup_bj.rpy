@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-# game/characters/alice/wakeup_bj.rpy:10
+﻿# game/characters/alice/wakeup_bj.rpy:10
 translate chinese alice_wakeup_bj_131c6a3a:
 
     # "A soft, wet feeling slowly wakes you up from your dreams."

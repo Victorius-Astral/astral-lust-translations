@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-# game/characters/alice/shower.rpy:16
+﻿# game/characters/alice/shower.rpy:16
 translate chinese shower_alice_2a10e1fe:
 
     # "It's [alice], she's taking a shower."
@@ -16,7 +14,7 @@ translate chinese shower_alice_190b0568:
 translate chinese shower_alice_ea30ab2d:
 
     # th "If I stay any longer, she will notice me."
-    th "如果我再继续待下去，她回发现我。"
+    th "如果我再继续待下去，她会发现我。"
 
 # game/characters/alice/shower.rpy:30
 translate chinese shower_alice_ae42096f:
@@ -40,7 +38,7 @@ translate chinese shower_alice_dfba797e:
 translate chinese shower_alice_d7ffd3a4:
 
     # me "There is a lot to look at."
-    me "看到了很多肉。"
+    me "我喜欢看你丰满的身体。"
 
 # game/characters/alice/shower.rpy:37
 translate chinese shower_alice_dd8b15a2:
@@ -202,7 +200,7 @@ translate chinese shower_alice_masturbate_9bb2dd43:
 translate chinese shower_alice_masturbate_1f291146:
 
     # th "Maybe I need to make her trust me more, or more horny."
-    th "也许我需要增加她的信任度，或者色情度。"
+    th "也许我需要让她更信任我，或者提高她的性欲。"
 
 # game/characters/alice/shower.rpy:132
 translate chinese shower_alice_masturbate_85acbbff_1:
@@ -304,7 +302,7 @@ translate chinese shower_alice_dildo_bj_5af32107:
 translate chinese shower_alice_dildo_bj_2b371272:
 
     # me "I will say it directly. Blow me while fucking your dildo."
-    me "我直接说吧。在和你的假阳具做爱的时候给我吹。"
+    me "我直接说吧。在和你的假阳具做爱的时候给我口。"
 
 # game/characters/alice/shower.rpy:206
 translate chinese shower_alice_dildo_bj_3a334b09:
@@ -827,8 +825,6 @@ translate chinese strings:
     # game/characters/alice/shower.rpy:274
     old "Cover her face in semen"
     new "将精液洒满她的脸。"
-
-# TODO: Translation updated at 2022-05-11 14:54
 
 translate chinese strings:
 

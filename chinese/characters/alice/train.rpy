@@ -1,10 +1,8 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-# game/characters/alice/train.rpy:4
+﻿# game/characters/alice/train.rpy:4
 translate chinese alice_train_1c6c9f66:
 
     # alice "Sure let's train together."
-    alice "好的，我们一起训练把。"
+    alice "好的，我们一起训练吧。"
 
 # game/characters/alice/train.rpy:5
 translate chinese alice_train_d59a6b9a:
@@ -28,7 +26,7 @@ translate chinese alice_train_41fe1b9a:
 translate chinese alice_train_a96bedeb:
 
     # me "You have already thanked me."
-    me "你已经感谢过我了。"
+    me "你已经谢过我了。"
 
 # game/characters/alice/train.rpy:17
 translate chinese alice_train_7dd101ad:

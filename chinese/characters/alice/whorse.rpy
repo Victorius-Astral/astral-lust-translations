@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-# game/characters/alice/whorse.rpy:37
+﻿# game/characters/alice/whorse.rpy:37
 translate chinese alice_whorse_25f6ef10:
 
     # alice "Mmm~"

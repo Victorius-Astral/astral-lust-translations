@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-# game/characters/alice/wc.rpy:12
+﻿# game/characters/alice/wc.rpy:12
 translate chinese wc_alice_140e23eb:
 
     # th "[alice]."
