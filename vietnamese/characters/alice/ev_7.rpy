@@ -635,7 +635,7 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_7.rpy:226
     old "palm"
-    new "3147 m"
+    new "3147m"
 
     # game/characters/alice/ev_7.rpy:237
     old "all"
@@ -687,7 +687,7 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_7.rpy:222
     old "What kind of tree can you carry in your hand?"
-    new "Đỉnh Fansipan cao bao nhiêu m? (VD: 1234 m)"
+    new "Đỉnh Fansipan cao bao nhiêu m? (VD: 1234m)"
 
     # game/characters/alice/ev_7.rpy:233
     old "Some months have 31 days, others have 30 days. How many have 28 days?"

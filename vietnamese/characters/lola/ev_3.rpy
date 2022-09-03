@@ -124,7 +124,7 @@ translate vietnamese lola_3_2e5b2c66:
 translate vietnamese lola_3_1f9b92dd:
 
     # lola "I can use either my hands or my feet to make you cum today. Pick."
-    lola "Tôi có thể sử dụng tay hoặc chân của tôi để làm cho anh ra ngày hôm nay. Nhặt đi."
+    lola "Tôi có thể sử dụng tay hoặc chân của mình để vắt kiệt anh. Chọn đi."
 
 # game/characters/lola/ev_3.rpy:44
 translate vietnamese lola_3_7011bfbd:
@@ -160,7 +160,7 @@ translate vietnamese lola_3_fun1_8f0788cc:
 translate vietnamese lola_3_fun1_49d5be38:
 
     # lola "Be it natural talent, or... other factors."
-    lola "Có thể là tài năng thiên bẩm, hoặc ... các yếu tố khác."
+    lola "Có thể là tài năng thiên bẩm, hoặc... các yếu tố khác."
 
 # game/characters/lola/ev_3.rpy:61
 translate vietnamese lola_3_fun1_558a6942:

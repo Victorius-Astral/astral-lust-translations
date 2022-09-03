@@ -679,8 +679,8 @@ translate vietnamese strings:
     new "Tìm kho báu"
 
     # game/variables/replays.rpy:288
-    old "Không tìm thấy gì hết"
-
+    old "found nothing"
+    new "Không tìm thấy gì hết"
     # game/variables/replays.rpy:288
     old "Bandits Encounter"
     new "Đụng độ băng cướp"
