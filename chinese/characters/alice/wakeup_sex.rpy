@@ -1,6 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-15 11:20
-
-# game/characters/alice/wakeup_sex.rpy:11
+﻿# game/characters/alice/wakeup_sex.rpy:11
 translate chinese alice_wakeup_sex_7459a238:
 
     # alice "Ahmnn~"
