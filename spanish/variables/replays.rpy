@@ -777,3 +777,19 @@ translate spanish strings:
     old "Bandits Encounter"
     new "Bandits Encounter"
 
+# TODO: Translation updated at 2022-09-08 19:16
+
+translate spanish strings:
+
+    # game/variables/replays.rpy:189
+    old "'I'"
+    new "'I'"
+
+    # game/variables/replays.rpy:189
+    old "Sleep Paralysis"
+    new "Sleep Paralysis"
+
+    # game/variables/replays.rpy:290
+    old "Found Nothing"
+    new "Found Nothing"
+

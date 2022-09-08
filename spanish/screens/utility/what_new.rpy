@@ -366,3 +366,39 @@ translate spanish strings:
     # game/screens/utility/what_new.rpy:259
     old "The changelog is long as hell, there are around 30 bugs fixed, a lot of QoL changes, some suggested by the community. There are some other new mechanics like Mina can have a hangover, refuse to get into any meaningful conversation with you, and stop working on her task. Abandoned car loot was boosted significantly, first sounds to enemy attacks were added. Check the full changelog from the link below."
     new "El registro de cambios es muy largo. Hay alrededor de 30 errores corregidos, muchos cambios de calidad de vida, algunos sugeridos por la comunidad. Hay algunas otras mecánicas nuevas como que Mina puede tener resaca, negándose a entablar una conversación significativa, y dejar de trabajar en su tarea. El botín del auto abandonado se incrementó significativamente. Se agregaron los primeros sonidos de los ataques enemigos. Consulte el registro de cambios completo en este enlace."
+# TODO: Translation updated at 2022-09-08 19:16
+
+translate spanish strings:
+
+    # game/screens/utility/what_new.rpy:175
+    old "{b}Explore with Little Fox{/b}"
+    new "{b}Explore with Little Fox{/b}"
+
+    # game/screens/utility/what_new.rpy:176
+    old "You can now take Little Fox out for an adventure! Find her during exploration, then you can go out with her by talking with her."
+    new "You can now take Little Fox out for an adventure! Find her during exploration, then you can go out with her by talking with her."
+
+    # game/screens/utility/what_new.rpy:187
+    old "{b}Alice - Nun outfit{/b}"
+    new "{b}Alice - Nun outfit{/b}"
+
+    # game/screens/utility/what_new.rpy:188
+    old "In the corruption-filled Asthar, even the nuns are filled with unholy thoughts."
+    new "In the corruption-filled Asthar, even the nuns are filled with unholy thoughts."
+
+    # game/screens/utility/what_new.rpy:196
+    old "{b}Lola's 3rd event{/b}"
+    new "{b}Lola's 3rd event{/b}"
+
+    # game/screens/utility/what_new.rpy:197
+    old "Lola has finally gotten a new event! It involves two paths and three adult scenes."
+    new "Lola has finally gotten a new event! It involves two paths and three adult scenes."
+
+    # game/screens/utility/what_new.rpy:205
+    old "{b}A lot of changes{/b}"
+    new "{b}A lot of changes{/b}"
+
+    # game/screens/utility/what_new.rpy:206
+    old "The main game's font was changed! Collectibles are kept between saves. Item notifications now show the item's icon. There are many other changes, check the full changelog at the bottom for them."
+    new "The main game's font was changed! Collectibles are kept between saves. Item notifications now show the item's icon. There are many other changes, check the full changelog at the bottom for them."
+

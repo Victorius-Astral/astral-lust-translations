@@ -101,3 +101,19 @@ translate spanish strings:
     old "In the corruption filled Asthar, even the nuns are filled with unholy thoughts."
     new "In the corruption filled Asthar, even the nuns are filled with unholy thoughts."
 
+# TODO: Translation updated at 2022-09-08 19:16
+
+translate spanish strings:
+
+    # game/variables/outfits.rpy:3
+    old "Bunny"
+    new "Bunny"
+
+    # game/variables/outfits.rpy:87
+    old "Trust: {}"
+    new "Trust: {}"
+
+    # game/variables/outfits.rpy:94
+    old "Give her a carrot and make her happy."
+    new "Give her a carrot and make her happy."
+

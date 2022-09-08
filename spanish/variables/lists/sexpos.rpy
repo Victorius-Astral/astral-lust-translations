@@ -266,3 +266,11 @@ translate spanish strings:
     # game/variables/lists/sexpos.rpy:3
     old "Cunnilingus - Against the Counter"
     new "Cunnilingus - Contra el Mostrador"
+# TODO: Translation updated at 2022-09-08 19:16
+
+translate spanish strings:
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Vaginal - Behind"
+    new "Vaginal - Behind"
+
