@@ -684,3 +684,19 @@ translate vietnamese strings:
     # game/variables/replays.rpy:288
     old "Bandits Encounter"
     new "Đụng độ băng cướp"
+# TODO: Translation updated at 2022-09-08 19:14
+
+translate vietnamese strings:
+
+    # game/variables/replays.rpy:189
+    old "'I'"
+    new "'I'"
+
+    # game/variables/replays.rpy:189
+    old "Sleep Paralysis"
+    new "Sleep Paralysis"
+
+    # game/variables/replays.rpy:290
+    old "Found Nothing"
+    new "Found Nothing"
+

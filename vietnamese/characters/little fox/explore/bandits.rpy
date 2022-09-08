@@ -669,3 +669,35 @@ translate vietnamese strings:
     # game/characters/little fox/explore/bandits.rpy:90
     old "Try to escape {agi}(Agility){/agi}"
     new "Thử trốn thoát {agi}(Nhanh nhẹn){/agi}"
+# TODO: Translation updated at 2022-09-08 19:14
+
+# game/characters/little fox/explore/bandits.rpy:127
+translate vietnamese lil_fox_exp_bandits_4cb844bd:
+
+    # bandit_captain "You had a chance to leave. You wasted it."
+    bandit_captain "You had a chance to leave. You wasted it."
+
+# game/characters/little fox/explore/bandits.rpy:131
+translate vietnamese lil_fox_exp_bandits_522933d9:
+
+    # lil_fox "Get off him!"
+    lil_fox "Get off him!"
+
+# game/characters/little fox/explore/bandits.rpy:158
+translate vietnamese lil_fox_exp_bandits_win_66569ce8:
+
+    # lil_fox "Foxes never lie. I told him what I'm going to do with him, haha~"
+    lil_fox "Foxes never lie. I told him what I'm going to do with him, haha~"
+
+# game/characters/little fox/explore/bandits.rpy:175
+translate vietnamese lil_fox_exp_bandits_win_21b85837:
+
+    # th "Fuck. I seem to have a deeper understanding of 'Monster' part of the 'Monster Girl' term, now."
+    th "Fuck. I seem to have a deeper understanding of 'Monster' part of the 'Monster Girl' term, now."
+
+# game/characters/little fox/explore/bandits.rpy:249
+translate vietnamese lil_fox_exp_bandits_death_12d83dd3:
+
+    # me "How kind of it, taking out the trash."
+    me "How kind of it, taking out the trash."
+

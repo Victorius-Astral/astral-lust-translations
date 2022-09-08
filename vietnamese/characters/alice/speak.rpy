@@ -2229,3 +2229,173 @@ translate vietnamese strings:
     # game/characters/alice/speak.rpy:171
     old "Nun {#visible}"
     new "Sơ {#visible}"
+# TODO: Translation updated at 2022-09-08 19:14
+
+# game/characters/alice/speak.rpy:217
+translate vietnamese speak_alice_sexMenu_1b3457b5:
+
+    # alice "You know I could use you for something.."
+    alice "You know I could use you for something.."
+
+# game/characters/alice/speak.rpy:218
+translate vietnamese speak_alice_sexMenu_e20c2277:
+
+    # me "Oh? What is it?"
+    me "Oh? What is it?"
+
+# game/characters/alice/speak.rpy:222
+translate vietnamese speak_alice_sexMenu_a5d3abf8:
+
+    # alice "I could use some cleaning down there~"
+    alice "I could use some cleaning down there~"
+
+# game/characters/alice/speak.rpy:223
+translate vietnamese speak_alice_sexMenu_376747c4:
+
+    # me "Haha, got it."
+    me "Haha, got it."
+
+# game/characters/alice/speak.rpy:224
+translate vietnamese speak_alice_sexMenu_8bd0d7e1:
+
+    # alice "Should I change?"
+    alice "Should I change?"
+
+# game/characters/alice/speak.rpy:230
+translate vietnamese speak_alice_sexMenu_cb8a02c6:
+
+    # alice "Ohh.. This little girl is going to be played by you again mister."
+    alice "Ohh.. This little girl is going to be played by you again mister."
+
+# game/characters/alice/speak.rpy:240
+translate vietnamese speak_alice_sexMenu_b971ae2f:
+
+    # me "Wanna reward me once more?"
+    me "Wanna reward me once more?"
+
+# game/characters/alice/speak.rpy:244
+translate vietnamese speak_alice_sexMenu_81e18fa7:
+
+    # alice "You can just ask directly you know?"
+    alice "You can just ask directly you know?"
+
+# game/characters/alice/speak.rpy:245
+translate vietnamese speak_alice_sexMenu_c1769394:
+
+    # me "Then will you blow me?"
+    me "Then will you blow me?"
+
+# game/characters/alice/speak.rpy:249
+translate vietnamese speak_alice_sexMenu_7b75f538:
+
+    # alice "W-What are you talking about mister? I'm only a little girl.."
+    alice "W-What are you talking about mister? I'm only a little girl.."
+
+# game/characters/alice/speak.rpy:250
+translate vietnamese speak_alice_sexMenu_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/characters/alice/speak.rpy:251
+translate vietnamese speak_alice_sexMenu_388c714f:
+
+    # me "Come to daddy."
+    me "Come to daddy."
+
+# game/characters/alice/speak.rpy:255
+translate vietnamese speak_alice_sexMenu_0b60a0c3:
+
+    # alice "Hehe~"
+    alice "Hehe~"
+
+# game/characters/alice/speak.rpy:256
+translate vietnamese speak_alice_sexMenu_e2b90efc:
+
+    # alice "Lay down, daddy~"
+    alice "Lay down, daddy~"
+
+# game/characters/alice/speak.rpy:257
+translate vietnamese speak_alice_sexMenu_fec91136:
+
+    # "You do as told and lie down waiting for her to join."
+    "You do as told and lie down waiting for her to join."
+
+# game/characters/alice/speak.rpy:258
+translate vietnamese speak_alice_sexMenu_a69a8806:
+
+    # alice "What outfit do you want this little girl to wear, daddy?"
+    alice "What outfit do you want this little girl to wear, daddy?"
+
+# game/characters/alice/speak.rpy:264
+translate vietnamese speak_alice_sexMenu_f4b76968:
+
+    # alice "Hehe~ You pervert~"
+    alice "Hehe~ You pervert~"
+
+# game/characters/alice/speak.rpy:277
+translate vietnamese speak_alice_sexMenu_f6adff98:
+
+    # me "Can you give me a footjob?"
+    me "Can you give me a footjob?"
+
+# game/characters/alice/speak.rpy:281
+translate vietnamese speak_alice_sexMenu_4bcaf3b9:
+
+    # alice "You're becoming more and more daring."
+    alice "You're becoming more and more daring."
+
+# game/characters/alice/speak.rpy:282
+translate vietnamese speak_alice_sexMenu_f660d172:
+
+    # me "So?"
+    me "So?"
+
+# game/characters/alice/speak.rpy:283
+translate vietnamese speak_alice_sexMenu_c313e6b5:
+
+    # alice "And impatient."
+    alice "And impatient."
+
+# game/characters/alice/speak.rpy:284
+translate vietnamese speak_alice_sexMenu_f660d172_1:
+
+    # me "So?"
+    me "So?"
+
+# game/characters/alice/speak.rpy:285
+translate vietnamese speak_alice_sexMenu_74f05a4e:
+
+    # alice "..."
+    alice "..."
+
+# game/characters/alice/speak.rpy:289
+translate vietnamese speak_alice_sexMenu_e8149e61:
+
+    # alice "Lie down. What do you want me to wear?"
+    alice "Lie down. What do you want me to wear?"
+
+# game/characters/alice/speak.rpy:295
+translate vietnamese speak_alice_sexMenu_35cada6d:
+
+    # alice "Hehe~ You love this outfit so much, right?"
+    alice "Hehe~ You love this outfit so much, right?"
+
+# game/characters/alice/speak.rpy:305
+translate vietnamese speak_alice_sexMenu_011de6f2:
+
+    # alice "Time for another workout."
+    alice "Time for another workout."
+
+# game/characters/alice/speak.rpy:310
+translate vietnamese speak_alice_sexMenu_af5f5d0a:
+
+    # alice "You want to torture my pussy again, daddy?"
+    alice "You want to torture my pussy again, daddy?"
+
+# game/characters/alice/speak.rpy:341
+translate vietnamese speak_alice_sexMenu_8f7b6901:
+
+    # alice "Sure, what is it?"
+    alice "Sure, what is it?"
+

@@ -270,3 +270,11 @@ translate vietnamese strings:
     # game/variables/lists/sexpos.rpy:3
     old "Cunnilingus - Against the Counter"
     new "Cunnilingus - dựa vào quầy"
+# TODO: Translation updated at 2022-09-08 19:14
+
+translate vietnamese strings:
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Vaginal - Behind"
+    new "Vaginal - Behind"
+
