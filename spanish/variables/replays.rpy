@@ -725,71 +725,70 @@ translate spanish strings:
     # game/variables/replays.rpy:98
     old "Kitchen Date"
     new "Cita en la Cocina"
-# TODO: Translation updated at 2022-08-20 13:44
+# : Translation updated at 2022-08-20 13:44
 
 translate spanish strings:
 
     # game/variables/replays.rpy:37
     old "Outfit: Nun"
-    new "Outfit: Nun"
+    new "Traje: Monja"
 
     # game/variables/replays.rpy:209
     old "Little Fox: Explore Together"
-    new "Little Fox: Explore Together"
+    new "Little Fox: Explorar Juntos"
 
     # game/variables/replays.rpy:209
     old "Little Fox: Found a Stash"
-    new "Little Fox: Found a Stash"
+    new "Little Fox: Escondite Encontrado"
 
     # game/variables/replays.rpy:209
     old "Little Fox: Found a Treasure"
-    new "Little Fox: Found a Treasure"
+    new "Little Fox: Tesoro Encontrado"
 
     # game/variables/replays.rpy:209
     old "Little Fox: Founds Nothing"
-    new "Little Fox: Founds Nothing"
+    new "Little Fox: Nada Encontrado"
 
     # game/variables/replays.rpy:209
     old "Little Fox: Bandits Encounter"
-    new "Little Fox: Bandits Encounter"
+    new "Little Fox: Encuentro con Bandidos"
 
     # game/variables/replays.rpy:249
     old "Headache"
-    new "Headache"
+    new "Dolor de cabeza"
 
     # game/variables/replays.rpy:288
     old "Explore Together"
-    new "Explore Together"
+    new "Explorar Juntos"
 
     # game/variables/replays.rpy:288
     old "Found a Stash"
-    new "Found a Stash"
+    new "Escondite Encontrado"
 
     # game/variables/replays.rpy:288
     old "Found a Treasure"
-    new "Found a Treasure"
+    new "Tesoro Encontrado"
 
     # game/variables/replays.rpy:288
     old "Founds Nothing"
-    new "Founds Nothing"
+    new "Nada Encontrado"
 
     # game/variables/replays.rpy:288
     old "Bandits Encounter"
-    new "Bandits Encounter"
+    new "Encuentro con Bandidos"
 
-# TODO: Translation updated at 2022-09-08 19:16
+# : Translation updated at 2022-09-08 19:16
 
 translate spanish strings:
 
     # game/variables/replays.rpy:189
     old "'I'"
-    new "'I'"
+    new "'Yo'"
 
     # game/variables/replays.rpy:189
     old "Sleep Paralysis"
-    new "Sleep Paralysis"
+    new "Parálisis del Sueño"
 
     # game/variables/replays.rpy:290
     old "Found Nothing"
-    new "Found Nothing"
-
+    new "No se encontró nada"

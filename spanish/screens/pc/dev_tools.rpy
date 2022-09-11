@@ -77,19 +77,18 @@ translate spanish strings:
     # game/screens/pc/dev_tools.rpy:203
     old "All collectibles unlocked."
     new "Todos los coleccionables desbloqueados."
-# TODO: Translation updated at 2022-09-08 19:16
+# : Translation updated at 2022-09-08 19:16
 
 translate spanish strings:
 
     # game/screens/pc/dev_tools.rpy:85
     old "Test Sounds"
-    new "Test Sounds"
+    new "Probar Sonidos"
 
     # game/screens/pc/dev_tools.rpy:237
     old "With sound"
-    new "With sound"
+    new "Con sonido"
 
     # game/screens/pc/dev_tools.rpy:248
     old "Without sound"
-    new "Without sound"
-
+    new "Sin sonido"

@@ -89,31 +89,30 @@ translate spanish strings:
     # game/variables/outfits.rpy:3
     old "Cheongsam"
     new "Cheongsam"
-# TODO: Translation updated at 2022-08-20 13:44
+# : Translation updated at 2022-08-20 13:44
 
 translate spanish strings:
 
     # game/variables/outfits.rpy:3
     old "Nun"
-    new "Nun"
+    new "Monja"
 
     # game/variables/outfits.rpy:92
     old "In the corruption filled Asthar, even the nuns are filled with unholy thoughts."
-    new "In the corruption filled Asthar, even the nuns are filled with unholy thoughts."
+    new "En el Asthar lleno de corrupción, incluso las monjas están llenas de pensamientos impíos."
 
-# TODO: Translation updated at 2022-09-08 19:16
+# : Translation updated at 2022-09-08 19:16
 
 translate spanish strings:
 
     # game/variables/outfits.rpy:3
     old "Bunny"
-    new "Bunny"
+    new "Conejita"
 
     # game/variables/outfits.rpy:87
     old "Trust: {}"
-    new "Trust: {}"
+    new "Confianza: {}"
 
     # game/variables/outfits.rpy:94
     old "Give her a carrot and make her happy."
-    new "Give her a carrot and make her happy."
-
+    new "Dale una zanahoria y hazla feliz."

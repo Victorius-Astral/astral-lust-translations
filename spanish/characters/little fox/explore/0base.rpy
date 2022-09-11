@@ -1225,19 +1225,19 @@ translate spanish strings:
     # game/characters/little fox/explore/0base.rpy:94
     old "Return home"
     new "Vuelve a casa"
-# TODO: Translation updated at 2022-08-20 13:44
+# : Translation updated at 2022-08-20 13:44
 
 # game/characters/little fox/explore/0base.rpy:34
 translate spanish lil_fox_explore_3c8c8cac:
 
     # lil_fox "Ehh!"
-    lil_fox "Ehh!"
+    lil_fox "¡¡Ehh!"
 
 # game/characters/little fox/explore/0base.rpy:186
 translate spanish lil_fox_explore_speak_a78cbc09:
 
     # me "Yes, yes. Slow down a little.."
-    me "Yes, yes. Slow down a little.."
+    me "Si, si. Un poco más despacio..."
 
 # game/characters/little fox/explore/0base.rpy:187
 translate spanish lil_fox_explore_speak_1ee3f198:
@@ -1249,5 +1249,4 @@ translate spanish lil_fox_explore_speak_1ee3f198:
 translate spanish lil_fox_explore_return_help_with_rachel_32637e89:
 
     # me "Come on, it won't be that bad."
-    me "Come on, it won't be that bad."
-
+    me "Vamos, no será tan malo."

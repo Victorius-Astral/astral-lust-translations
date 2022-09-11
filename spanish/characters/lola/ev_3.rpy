@@ -394,7 +394,7 @@ translate spanish lola_3_hand_6c79a09e:
 translate spanish lola_3_feet_8b2dddb6:
 
     # me "Have you ever did this before?"
-    me "¿Alguna vez has hecho esto antes?"
+    me "¿Alguna vez hiciste esto?"
 
 # game/characters/lola/ev_3.rpy:185
 translate spanish lola_3_feet_d5822ca5:
@@ -645,11 +645,10 @@ translate spanish strings:
     # game/characters/lola/ev_3.rpy:221
     old "Let her rest"
     new "Déjala descansar"
-# TODO: Translation updated at 2022-08-20 13:44
+# : Translation updated at 2022-08-20 13:44
 
 # game/characters/lola/ev_3.rpy:88
 translate spanish lola_3_619430e4:
 
     # lola "Great. Now that you're hard, what do you want me to do?" nointeract
-    lola "Great. Now that you're hard, what do you want me to do?" nointeract
-
+    lola "Genial. Ahora que estás duro, ¿qué quieres que haga?" nointeract

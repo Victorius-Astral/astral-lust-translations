@@ -380,51 +380,50 @@ translate spanish strings:
     # game/variables/wallpapers.rpy:489
     old "July 2022"
     new "Jul 2022"
-# TODO: Translation updated at 2022-08-20 13:44
+# : Translation updated at 2022-08-20 13:44
 
 translate spanish strings:
 
     # game/variables/wallpapers.rpy:431
     old "Swimmer Fox"
-    new "Swimmer Fox"
+    new "Zorra Nadadora"
 
     # game/variables/wallpapers.rpy:438
     old "Swimmer Fox - Topless"
-    new "Swimmer Fox - Topless"
+    new "Zorra Nadadora - Al desnudo"
 
     # game/variables/wallpapers.rpy:445
     old "Bunny Gracie"
-    new "Bunny Gracie"
+    new "Conejita Gracie"
 
     # game/variables/wallpapers.rpy:452
     old "Little Fox Adventure"
-    new "Little Fox Adventure"
+    new "Aventura con Little Fox"
 
     # game/variables/wallpapers.rpy:482
     old "Aug 2022 1"
-    new "Aug 2022 1"
+    new "Ago 2022 1"
 
     # game/variables/wallpapers.rpy:483
     old "Aug 2022 2"
-    new "Aug 2022 2"
+    new "Ago 2022 2"
 
     # game/variables/wallpapers.rpy:484
     old "Aug 2022 3"
-    new "Aug 2022 3"
+    new "Ago 2022 3"
 
     # game/variables/wallpapers.rpy:485
     old "Aug 2022 4"
-    new "Aug 2022 4"
+    new "Ago 2022 4"
 
     # game/variables/wallpapers.rpy:486
     old "Aug 2022 5"
-    new "Aug 2022 5"
+    new "Ago 2022 5"
 
     # game/variables/wallpapers.rpy:493
     old "June 2022 Postcard"
-    new "June 2022 Postcard"
+    new "Junio 2022 Postcard"
 
     # game/variables/wallpapers.rpy:517
     old "August 2022"
-    new "August 2022"
-
+    new "Agosto 2022"
