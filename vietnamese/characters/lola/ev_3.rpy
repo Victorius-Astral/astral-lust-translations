@@ -286,7 +286,7 @@ translate vietnamese lola_3_hand_5021510c:
 translate vietnamese lola_3_hand_2d592c6c:
 
     # lola "And my headache is gone. Good."
-    lola "Và cơn đau đầu của tôi biến mất rồi. Tốt."
+    lola "Và cơn đau đầu của tôi biến mất rồi."
 
 # game/characters/lola/ev_3.rpy:122
 translate vietnamese lola_3_hand_1731ff24:
@@ -340,7 +340,7 @@ translate vietnamese lola_3_feet_e0e71568:
 translate vietnamese lola_3_feet_64cc8b50:
 
     # lola "No problem."
-    lola "Không vấn đề gì hết."
+    lola "Không có gì."
 
 # game/characters/lola/ev_3.rpy:173
 translate vietnamese lola_3_fun5_e16d83bf:

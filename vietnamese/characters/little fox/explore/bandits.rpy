@@ -34,7 +34,7 @@ translate vietnamese lil_fox_exp_bandits_2bfc3b88:
 translate vietnamese lil_fox_exp_bandits_03dbc1c5:
 
     # me "Just one guy? Could be worse."
-    me "Có mỗi một đứa thôi á."
+    me "Có mỗi một đứa thôi á?"
 
 # game/characters/little fox/explore/bandits.rpy:55
 translate vietnamese lil_fox_exp_bandits_a09b2d37:
