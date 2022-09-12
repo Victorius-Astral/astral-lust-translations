@@ -333,3 +333,11 @@ translate vietnamese strings:
     # game/characters/little fox/explore/stash.rpy:83
     old "Do not play her games {love}(Protect your girl's good name+){/love}"
     new "Không chơi cái trò này của em ấy {love}(Bảo vệ cái tên của cô gái bạn+){/love}"
+# TODO: Translation updated at 2022-09-08 19:14
+
+# game/characters/little fox/explore/stash.rpy:39
+translate vietnamese lil_fox_exp_stash_a3cdd5e7:
+
+    # lil_fox "Yes, 100%% sure!"
+    lil_fox "Yes, 100%% sure!"
+

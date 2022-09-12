@@ -29,11 +29,10 @@ translate spanish strings:
     # game/screens/gui/web.rpy:109
     old "Checking for updates.."
     new "Buscando actualizaciones..."
-# TODO: Translation updated at 2022-08-20 13:44
+# : Translation updated at 2022-08-20 13:44
 
 translate spanish strings:
 
     # game/screens/gui/web.rpy:94
     old "New game version available! ([can_update])"
-    new "New game version available! ([can_update])"
-
+    new "¡Nueva versión del juego disponible! ([can_update])"

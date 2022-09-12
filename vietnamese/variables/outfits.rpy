@@ -84,3 +84,19 @@ translate vietnamese strings:
     # game/variables/outfits.rpy:92
     old "In the corruption filled Asthar, even the nuns are filled with unholy thoughts."
     new "Trong sự thối nát tràn ngập Asthar, ngay cả các nữ tu cũng chứa đầy những ý nghĩ xấu xa."
+# TODO: Translation updated at 2022-09-08 19:14
+
+translate vietnamese strings:
+
+    # game/variables/outfits.rpy:3
+    old "Bunny"
+    new "Bunny"
+
+    # game/variables/outfits.rpy:87
+    old "Trust: {}"
+    new "Trust: {}"
+
+    # game/variables/outfits.rpy:94
+    old "Give her a carrot and make her happy."
+    new "Give her a carrot and make her happy."
+

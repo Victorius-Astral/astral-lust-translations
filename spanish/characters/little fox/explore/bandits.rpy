@@ -669,35 +669,34 @@ translate spanish strings:
     # game/characters/little fox/explore/bandits.rpy:90
     old "Try to escape {agi}(Agility){/agi}"
     new "Trata de escapar {agi}(Agilidad){/agi}"
-# TODO: Translation updated at 2022-08-20 13:44
+# : Translation updated at 2022-08-20 13:44
 
 # game/characters/little fox/explore/bandits.rpy:128
 translate spanish lil_fox_exp_bandits_4cb844bd:
 
     # bandit_captain "You had a chance to leave. You wasted it."
-    bandit_captain "You had a chance to leave. You wasted it."
+    bandit_captain "Tuviste una oportunidad. La desperdiciaste."
 
 # game/characters/little fox/explore/bandits.rpy:132
 translate spanish lil_fox_exp_bandits_522933d9:
 
     # lil_fox "Get off him!"
-    lil_fox "Get off him!"
+    lil_fox "¡Déjalo!"
 
 # game/characters/little fox/explore/bandits.rpy:159
 translate spanish lil_fox_exp_bandits_win_66569ce8:
 
     # lil_fox "Foxes never lie. I told him what I'm going to do with him, haha~"
-    lil_fox "Foxes never lie. I told him what I'm going to do with him, haha~"
+    lil_fox "Los zorros nunca mienten. Le dije lo que le iba a hacer, haha~"
 
 # game/characters/little fox/explore/bandits.rpy:176
 translate spanish lil_fox_exp_bandits_win_21b85837:
 
     # th "Fuck. I seem to have a deeper understanding of 'Monster' part of the 'Monster Girl' term, now."
-    th "Fuck. I seem to have a deeper understanding of 'Monster' part of the 'Monster Girl' term, now."
+    th "Mierda. Parece que ahora entiendo mejor el 'Monstruo' en el término 'Chica Monstruo'."
 
 # game/characters/little fox/explore/bandits.rpy:250
 translate spanish lil_fox_exp_bandits_death_12d83dd3:
 
     # me "How kind of it, taking out the trash."
-    me "How kind of it, taking out the trash."
-
+    me "Qué amable de su parte, sacando la basura."

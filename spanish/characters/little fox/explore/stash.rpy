@@ -333,3 +333,10 @@ translate spanish strings:
     # game/characters/little fox/explore/stash.rpy:83
     old "Do not play her games {love}(Protect your girl's good name+){/love}"
     new "No juegues sus juegos  {love}(Protege el buen nombre de tu chica+){/love}"
+# : Translation updated at 2022-09-08 19:16
+
+# game/characters/little fox/explore/stash.rpy:39
+translate spanish lil_fox_exp_stash_a3cdd5e7:
+
+    # lil_fox "Yes, 100%% sure!"
+    lil_fox "¡Sí, 100%% segura!"

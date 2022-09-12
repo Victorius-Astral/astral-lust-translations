@@ -1418,7 +1418,7 @@ translate spanish speak_alice_outfits_c1769394:
 translate spanish speak_alice_outfits_7b75f538:
 
     # alice "W-What are you talking about mister? I'm only a little girl.."
-    alice "¿D-De qué está hablando señor? Solo soy una chica.."
+    alice "¿D-De qué está hablando señor? Solo soy una chica..."
 
 # game/characters/alice/speak.rpy:369
 translate spanish speak_alice_outfits_3820771a_1:
@@ -1520,7 +1520,7 @@ translate spanish speak_alice_outfits_011de6f2:
 translate spanish speak_alice_outfits_af5f5d0a:
 
     # alice "You want to torture my pussy again, daddy?"
-    alice "You want to torture my pussy again, daddy?"
+    alice "¿Quieres torturar mi coño otra vez, papi?"
 
 # game/characters/alice/speak.rpy:460
 translate spanish speak_alice_outfits_8f7b6901:
@@ -2390,7 +2390,7 @@ translate spanish speak_alice_menuev9_c1769394:
 translate spanish speak_alice_menuev9_7b75f538:
 
     # alice "W-What are you talking about mister? I'm only a little girl.."
-    alice "¿D-De qué está hablando señor? Solo soy una chica.."
+    alice "¿D-De qué está hablando señor? Solo soy una chica..."
 
 # game/characters/alice/speak.rpy:235
 translate spanish speak_alice_menuev9_3820771a:
@@ -3044,15 +3044,184 @@ translate spanish strings:
     # game/characters/alice/speak.rpy:656
     old "Let's skip this"
     new "Vamos a saltarnos esto"
-# TODO: Translation updated at 2022-08-20 13:44
+# : Translation updated at 2022-08-20 13:44
 
 translate spanish strings:
 
     # game/characters/alice/speak.rpy:169
     old "> Outfits"
-    new "> Outfits"
+    new "> Trajes"
 
     # game/characters/alice/speak.rpy:171
     old "Nun {#visible}"
-    new "Nun {#visible}"
+    new "Monja {#visible}"
 
+# : Translation updated at 2022-09-08 19:16
+
+# game/characters/alice/speak.rpy:217
+translate spanish speak_alice_sexMenu_1b3457b5:
+
+    # alice "You know I could use you for something.."
+    alice "Sabes, podría usarte para algo..."
+
+# game/characters/alice/speak.rpy:218
+translate spanish speak_alice_sexMenu_e20c2277:
+
+    # me "Oh? What is it?"
+    me "¿Oh? ¿Para qué?"
+
+# game/characters/alice/speak.rpy:222
+translate spanish speak_alice_sexMenu_a5d3abf8:
+
+    # alice "I could use some cleaning down there~"
+    alice "Podrías limpiarme ahí abajo~"
+
+# game/characters/alice/speak.rpy:223
+translate spanish speak_alice_sexMenu_376747c4:
+
+    # me "Haha, got it."
+    me "Haha, entendido."
+
+# game/characters/alice/speak.rpy:224
+translate spanish speak_alice_sexMenu_8bd0d7e1:
+
+    # alice "Should I change?"
+    alice "¿Debería cambiarme?"
+
+# game/characters/alice/speak.rpy:230
+translate spanish speak_alice_sexMenu_cb8a02c6:
+
+    # alice "Ohh.. This little girl is going to be played by you again mister."
+    alice "Ohh... El señor va a jugar con esta pequeña otra vez."
+
+# game/characters/alice/speak.rpy:240
+translate spanish speak_alice_sexMenu_b971ae2f:
+
+    # me "Wanna reward me once more?"
+    me "¿Quieres recompensarme una vez mas?"
+
+# game/characters/alice/speak.rpy:244
+translate spanish speak_alice_sexMenu_81e18fa7:
+
+    # alice "You can just ask directly you know?"
+    alice "Puedes pedirlo directamente, ¿sabes?"
+
+# game/characters/alice/speak.rpy:245
+translate spanish speak_alice_sexMenu_c1769394:
+
+    # me "Then will you blow me?"
+    me "Entonces, ¿me la chuparías?"
+
+# game/characters/alice/speak.rpy:249
+translate spanish speak_alice_sexMenu_7b75f538:
+
+    # alice "W-What are you talking about mister? I'm only a little girl.."
+    alice "¿D-De qué está hablando señor? Solo soy una chica"
+
+# game/characters/alice/speak.rpy:250
+translate spanish speak_alice_sexMenu_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/characters/alice/speak.rpy:251
+translate spanish speak_alice_sexMenu_388c714f:
+
+    # me "Come to daddy."
+    me "Ven con papi."
+
+# game/characters/alice/speak.rpy:255
+translate spanish speak_alice_sexMenu_0b60a0c3:
+
+    # alice "Hehe~"
+    alice "Hehe~"
+
+# game/characters/alice/speak.rpy:256
+translate spanish speak_alice_sexMenu_e2b90efc:
+
+    # alice "Lay down, daddy~"
+    alice "Recuéstate, papi~"
+
+# game/characters/alice/speak.rpy:257
+translate spanish speak_alice_sexMenu_fec91136:
+
+    # "You do as told and lie down waiting for her to join."
+    "Haces lo que te dicen y te acuestas esperando a que se una."
+
+# game/characters/alice/speak.rpy:258
+translate spanish speak_alice_sexMenu_a69a8806:
+
+    # alice "What outfit do you want this little girl to wear, daddy?"
+    alice "¿Qué ropa quieres que se ponga esta chica, papi?"
+
+# game/characters/alice/speak.rpy:264
+translate spanish speak_alice_sexMenu_f4b76968:
+
+    # alice "Hehe~ You pervert~"
+    alice "Hehe~ Pervertido~"
+
+# game/characters/alice/speak.rpy:277
+translate spanish speak_alice_sexMenu_f6adff98:
+
+    # me "Can you give me a footjob?"
+    me "¿Puedes usar tus pies?"
+
+# game/characters/alice/speak.rpy:281
+translate spanish speak_alice_sexMenu_4bcaf3b9:
+
+    # alice "You're becoming more and more daring."
+    alice "Te estás volviendo más y más atrevido."
+
+# game/characters/alice/speak.rpy:282
+translate spanish speak_alice_sexMenu_f660d172:
+
+    # me "So?"
+    me "¿Entonces?"
+
+# game/characters/alice/speak.rpy:283
+translate spanish speak_alice_sexMenu_c313e6b5:
+
+    # alice "And impatient."
+    alice "E impaciente."
+
+# game/characters/alice/speak.rpy:284
+translate spanish speak_alice_sexMenu_f660d172_1:
+
+    # me "So?"
+    me "¿Entonces?"
+
+# game/characters/alice/speak.rpy:285
+translate spanish speak_alice_sexMenu_74f05a4e:
+
+    # alice "..."
+    alice "..."
+
+# game/characters/alice/speak.rpy:289
+translate spanish speak_alice_sexMenu_e8149e61:
+
+    # alice "Lie down. What do you want me to wear?"
+    alice "Acuéstate. ¿Qué quieres que me ponga?"
+
+# game/characters/alice/speak.rpy:295
+translate spanish speak_alice_sexMenu_35cada6d:
+
+    # alice "Hehe~ You love this outfit so much, right?"
+    alice "Hehe~ Este atuendo te gusta mucho, ¿verdad?"
+
+# game/characters/alice/speak.rpy:305
+translate spanish speak_alice_sexMenu_011de6f2:
+
+    # alice "Time for another workout."
+    alice "Hora de otra rutina."
+
+# game/characters/alice/speak.rpy:310
+translate spanish speak_alice_sexMenu_af5f5d0a:
+
+    # alice "You want to torture my pussy again, daddy?"
+    alice "¿Quieres torturar mi coño otra vez, papi?"
+
+# game/characters/alice/speak.rpy:341
+translate spanish speak_alice_sexMenu_8f7b6901:
+
+    # alice "Sure, what is it?"
+    alice "Claro, ¿Qué pasa?"

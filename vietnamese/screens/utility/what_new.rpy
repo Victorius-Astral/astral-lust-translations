@@ -376,3 +376,39 @@ translate vietnamese strings:
     # game/screens/utility/what_new.rpy:216
     old "Four of them can be used during the new events, there are two consumables (and a new buff), and pouches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
     new "Bốn trong số chúng có thể được sử dụng trong các sự kiện mới, có hai vật phẩm tiêu hao (và một buff mới), cùng những chiếc rương + rương có chìa khóa dùng để mở chúng. Bạn sẽ trở nên giàu có chỉ sau một đêm? Hãy đi kiếm hoặc mua chúng để thử vận may của bạn! Hãy thử code {b}{i}NewPouches{/i}{/b} để nhận một vài túi phần thưởng :)"
+# TODO: Translation updated at 2022-09-08 19:14
+
+translate vietnamese strings:
+
+    # game/screens/utility/what_new.rpy:175
+    old "{b}Explore with Little Fox{/b}"
+    new "{b}Explore with Little Fox{/b}"
+
+    # game/screens/utility/what_new.rpy:176
+    old "You can now take Little Fox out for an adventure! Find her during exploration, then you can go out with her by talking with her."
+    new "You can now take Little Fox out for an adventure! Find her during exploration, then you can go out with her by talking with her."
+
+    # game/screens/utility/what_new.rpy:187
+    old "{b}Alice - Nun outfit{/b}"
+    new "{b}Alice - Nun outfit{/b}"
+
+    # game/screens/utility/what_new.rpy:188
+    old "In the corruption-filled Asthar, even the nuns are filled with unholy thoughts."
+    new "In the corruption-filled Asthar, even the nuns are filled with unholy thoughts."
+
+    # game/screens/utility/what_new.rpy:196
+    old "{b}Lola's 3rd event{/b}"
+    new "{b}Lola's 3rd event{/b}"
+
+    # game/screens/utility/what_new.rpy:197
+    old "Lola has finally gotten a new event! It involves two paths and three adult scenes."
+    new "Lola has finally gotten a new event! It involves two paths and three adult scenes."
+
+    # game/screens/utility/what_new.rpy:205
+    old "{b}A lot of changes{/b}"
+    new "{b}A lot of changes{/b}"
+
+    # game/screens/utility/what_new.rpy:206
+    old "The main game's font was changed! Collectibles are kept between saves. Item notifications now show the item's icon. There are many other changes, check the full changelog at the bottom for them."
+    new "The main game's font was changed! Collectibles are kept between saves. Item notifications now show the item's icon. There are many other changes, check the full changelog at the bottom for them."
+
