@@ -72,3 +72,11 @@ translate vietnamese strings:
     # game/variables/classes/Player.rpy:226
     old "{} can't be raised any further."
     new "{} không thể được nâng cao hơn nữa."
+# TODO: Translation updated at 2022-09-15 16:10
+
+translate vietnamese strings:
+
+    # game/variables/classes/Player.rpy:511
+    old "Lost {} {{vit}}health ({}/{}){{/vit}}."
+    new "Lost {} {{vit}}health ({}/{}){{/vit}}."
+

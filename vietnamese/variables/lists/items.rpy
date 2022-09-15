@@ -99,3 +99,43 @@ translate vietnamese strings:
     # game/variables/lists/items.rpy:80
     old "Premium Ice Cream"
     new "Kem hảo hạng"
+# TODO: Translation updated at 2022-09-15 16:10
+
+translate vietnamese strings:
+
+    # game/variables/lists/items.rpy:14
+    old "Rituals"
+    new "Rituals"
+
+    # game/variables/lists/items.rpy:76
+    old "Ritual Materials"
+    new "Ritual Materials"
+
+    # game/variables/lists/items.rpy:76
+    old "Essentials when it comes to setting up a ritual."
+    new "Essentials when it comes to setting up a ritual."
+
+    # game/variables/lists/items.rpy:213
+    old "Calming Powder"
+    new "Calming Powder"
+
+    # game/variables/lists/items.rpy:213
+    old "You feel your racing thoughts slowing down with a little sniff."
+    new "You feel your racing thoughts slowing down with a little sniff."
+
+    # game/variables/lists/items.rpy:226
+    old "Irritating Powder"
+    new "Irritating Powder"
+
+    # game/variables/lists/items.rpy:226
+    old "You get itchy just by holding it. This, once calming powder, has fallen under eldritch influences."
+    new "You get itchy just by holding it. This, once calming powder, has fallen under eldritch influences."
+
+    # game/variables/lists/items.rpy:239
+    old "Unholy Pact"
+    new "Unholy Pact"
+
+    # game/variables/lists/items.rpy:239
+    old "You made a pact with 'Him'. You are to return before 'His' unholy visage."
+    new "You made a pact with 'Him'. You are to return before 'His' unholy visage."
+

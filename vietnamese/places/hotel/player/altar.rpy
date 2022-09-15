@@ -103,3 +103,11 @@ translate vietnamese strings:
     # game/places/hotel/player/altar.rpy:2
     old "Check the knife"
     new "Kiểm tra dao"
+# TODO: Translation updated at 2022-09-15 16:10
+
+translate vietnamese strings:
+
+    # game/places/hotel/player/altar.rpy:2
+    old "Perform a ritual{#visible}"
+    new "Perform a ritual{#visible}"
+

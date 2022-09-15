@@ -2387,3 +2387,11 @@ translate vietnamese midnight_kiss_part4_e5dafa81:
     # something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts["fredericka"])
     something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts["fredericka"])
 
+# TODO: Translation updated at 2022-09-15 16:10
+
+# game/events/explore/midnight_kiss.rpy:743
+translate vietnamese midnight_kiss_demeter_talk_64f90ab0:
+
+    # "You've also learned her full honorary name - Queen of Nightmares, Mind Wanderer, Invoker of Fear"
+    "You've also learned her full honorary name - Queen of Nightmares, Mind Wanderer, Invoker of Fear"
+
