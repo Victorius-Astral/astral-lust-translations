@@ -690,13 +690,12 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:189
     old "'I'"
-    new "'I'"
+    new "'Mình'"
 
     # game/variables/replays.rpy:189
     old "Sleep Paralysis"
-    new "Sleep Paralysis"
+    new "Bóng đè"
 
     # game/variables/replays.rpy:290
     old "Found Nothing"
-    new "Found Nothing"
-
+    new "Không tìm thấy gì hết"

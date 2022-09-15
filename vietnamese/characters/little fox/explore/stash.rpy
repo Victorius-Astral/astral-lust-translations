@@ -339,5 +339,4 @@ translate vietnamese strings:
 translate vietnamese lil_fox_exp_stash_a3cdd5e7:
 
     # lil_fox "Yes, 100%% sure!"
-    lil_fox "Yes, 100%% sure!"
-
+    lil_fox "Có, Chắc chắn 100%% luôn!"

@@ -365,67 +365,67 @@ translate vietnamese lola_3_fun5_d9d2f499:
 translate vietnamese lola_3_3a8b6c1c:
 
     # lola "Sit down."
-    lola "Sit down."
+    lola "Ngồi xuống."
 
 # game/characters/lola/ev_3.rpy:63
 translate vietnamese lola_3_f51bd375:
 
     # lola "My hands or feet? Pick."
-    lola "My hands or feet? Pick."
+    lola "Chân hoặc tay? Chọn đi."
 
 # game/characters/lola/ev_3.rpy:68
 translate vietnamese lola_3_ee7cf6c5:
 
     # lola "Consider it carefully. You wouldn't want to miss out."
-    lola "Consider it carefully. You wouldn't want to miss out."
+    lola "Cân nhắc cho kỹ vào. Anh không muốn bỏ lỡ đâu."
 
 # game/characters/lola/ev_3.rpy:69
 translate vietnamese lola_3_327140d4:
 
     # me "You make it look like there was also a boobjob on the table."
-    me "You make it look like there was also a boobjob on the table."
+    me "Cô làm nó nhìn giống như là cũng có đụ ngực ở trên bàn vậy."
 
 # game/characters/lola/ev_3.rpy:70
 translate vietnamese lola_3_6b1232d7:
 
     # lola "I just want you to get horny."
-    lola "I just want you to get horny."
+    lola "Tôi chỉ muốn làm anh hứng lên thôi."
 
 # game/characters/lola/ev_3.rpy:74
 translate vietnamese lola_3_8f691af6:
 
     # lola "Does it work?"
-    lola "Does it work?"
+    lola "Nó có hiệu quả không?"
 
 # game/characters/lola/ev_3.rpy:75
 translate vietnamese lola_3_efd11542:
 
     # me "What do you think?"
-    me "What do you think?"
+    me "Cô nghĩ sao?"
 
 # game/characters/lola/ev_3.rpy:79
 translate vietnamese lola_3_270421e0:
 
     # lola "You're here, that says enough."
-    lola "You're here, that says enough."
+    lola "Anh ở đây, điều đó đã nói lên tất cả rồi."
 
 # game/characters/lola/ev_3.rpy:80
 translate vietnamese lola_3_0df9463a:
 
     # me "Good point."
-    me "Good point."
+    me "Đúng đấy."
 
 # game/characters/lola/ev_3.rpy:84
 translate vietnamese lola_3_b7c5599c:
 
     # lola "Take a good look."
-    lola "Take a good look."
+    lola "Nhìn kĩ vào."
 
 # game/characters/lola/ev_3.rpy:85
 translate vietnamese lola_3_591dda2b:
 
     # me "Oh, I did. Great view."
-    me "Oh, I did. Great view."
+    me "Oh, tất nhiên. Cảnh đẹp đấy."
 
 # game/characters/lola/ev_3.rpy:88
 translate vietnamese lola_3_619430e4:
@@ -443,61 +443,61 @@ translate vietnamese lola_3_fun1_5c79fab8:
 translate vietnamese lola_3_hand_eefcae21:
 
     # me "You look hot."
-    me "You look hot."
+    me "Cô nhìn hot đấy."
 
 # game/characters/lola/ev_3.rpy:143
 translate vietnamese lola_3_hand_7c4a27e1:
 
     # lola "You look tasty."
-    lola "You look tasty."
+    lola "Còn anh nhìn ngon đấy."
 
 # game/characters/lola/ev_3.rpy:144
 translate vietnamese lola_3_hand_3826ab92:
 
     # me "Tasty? Haha, you pervert."
-    me "Tasty? Haha, you pervert."
+    me "Ngon á? Haha, cô biến thái thật đấy."
 
 # game/characters/lola/ev_3.rpy:145
 translate vietnamese lola_3_hand_f4c52084:
 
     # me "Have a piece."
-    me "Have a piece."
+    me "Làm một miếng đi."
 
 # game/characters/lola/ev_3.rpy:146
 translate vietnamese lola_3_hand_8977b43c:
 
     # lola "With pleasure."
-    lola "With pleasure."
+    lola "Rất hân hạnh."
 
 # game/characters/lola/ev_3.rpy:185
 translate vietnamese lola_3_feet_8b2dddb6:
 
     # me "Have you ever done this before?" id lola_3_feet_8b2dddb6
-    me "Have you ever done this before?" id lola_3_feet_8b2dddb6
+    me "Cô đã bao giờ làm việc này chưa?" id lola_3_feet_8b2dddb6
 
 # game/characters/lola/ev_3.rpy:186
 translate vietnamese lola_3_feet_d5822ca5:
 
     # lola "You should know I did not."
-    lola "You should know I did not."
+    lola "Anh nên biết là tôi chưa có đâu."
 
 # game/characters/lola/ev_3.rpy:187
 translate vietnamese lola_3_feet_e9764eda:
 
     # me "Right."
-    me "Right."
+    me "Phải rồi."
 
 # game/characters/lola/ev_3.rpy:188
 translate vietnamese lola_3_feet_19958bfd:
 
     # lola "Don't worry, I've seen it in movies."
-    lola "Don't worry, I've seen it in movies."
+    lola "Đừng lo, tôi thấy nó trên phim rồi."
 
 # game/characters/lola/ev_3.rpy:209
 translate vietnamese lola_3_feet_4ea52f42:
 
     # lola "You shoot far."
-    lola "You shoot far."
+    lola "Anh bắn xa đấy."
 
 # game/characters/lola/ev_3.rpy:224
 translate vietnamese lola_3_feet_95feaa55:
@@ -509,19 +509,19 @@ translate vietnamese lola_3_feet_95feaa55:
 translate vietnamese lola_3_sex_cefda0cf:
 
     # me "How about we have some more fun."
-    me "How about we have some more fun."
+    me "Chúng ta vui thêm chút nữa thì sao nhỉ."
 
 # game/characters/lola/ev_3.rpy:238
 translate vietnamese lola_3_sex_f754d928:
 
     # lola "I want to rest, so you have to handle yourself."
-    lola "I want to rest, so you have to handle yourself."
+    lola "Tôi cần nghỉ, nên anh có thể tự xử được rồi."
 
 # game/characters/lola/ev_3.rpy:239
 translate vietnamese lola_3_sex_f531536a:
 
     # lola "Feel free to do whatever you want to me."
-    lola "Feel free to do whatever you want to me."
+    lola "Cứ tự nhiên làm bất cứ điều gì anh muốn với tôi."
 
 # game/characters/lola/ev_3.rpy:243
 translate vietnamese lola_3_sex_8b408a7c:
@@ -533,7 +533,7 @@ translate vietnamese lola_3_sex_8b408a7c:
 translate vietnamese lola_3_sex_b31b22e7:
 
     # me "You don't need to tell me twice."
-    me "You don't need to tell me twice."
+    me "Không cần phải nói đến lần thứ hai đâu."
 
 # game/characters/lola/ev_3.rpy:248
 translate vietnamese lola_3_sex_6d073ed2:
@@ -545,25 +545,25 @@ translate vietnamese lola_3_sex_6d073ed2:
 translate vietnamese lola_3_sex_00dac8ab:
 
     # lola "I have one request."
-    lola "I have one request."
+    lola "Tôi có một yêu cầu."
 
 # game/characters/lola/ev_3.rpy:250
 translate vietnamese lola_3_sex_2930e26f:
 
     # me "Yes?"
-    me "Yes?"
+    me "Sao?"
 
 # game/characters/lola/ev_3.rpy:251
 translate vietnamese lola_3_sex_c19610eb:
 
     # lola "I want to get creampied."
-    lola "I want to get creampied."
+    lola "Tôi muốn được ăn bánh kem."
 
 # game/characters/lola/ev_3.rpy:252
 translate vietnamese lola_3_sex_8be20cfb:
 
     # me "How direct, haha."
-    me "How direct, haha."
+    me "thẳng thắn đấy, haha."
 
 # game/characters/lola/ev_3.rpy:256
 translate vietnamese lola_3_sex_7b92df5b:
@@ -575,13 +575,13 @@ translate vietnamese lola_3_sex_7b92df5b:
 translate vietnamese lola_3_sex_d8f41dc8:
 
     # me "I'll fill you to the brim."
-    me "I'll fill you to the brim."
+    me "Tôi sẽ lấp đầy đến tận bên ngoài luôn."
 
 # game/characters/lola/ev_3.rpy:258
 translate vietnamese lola_3_sex_fb51e16f:
 
     # lola "Great. Thank you."
-    lola "Great. Thank you."
+    lola "Tuyệt. Cảm ơn."
 
 # game/characters/lola/ev_3.rpy:262
 translate vietnamese lola_3_sex_166d9144:
@@ -593,31 +593,31 @@ translate vietnamese lola_3_sex_166d9144:
 translate vietnamese lola_3_sex_1170d26f:
 
     # th "She's so big at the front, but hell, she's damn tight down there."
-    th "She's so big at the front, but hell, she's damn tight down there."
+    th "Cô ấy thật to lớn ở đằng trước, nhưng mẹ ơi, dưới này chặt vãi lồn chặt."
 
 # game/characters/lola/ev_3.rpy:267
 translate vietnamese lola_3_sex_582726fe:
 
     # lola "That's the relax I love."
-    lola "That's the relax I love."
+    lola "Đó mới là sự thư giãn tôi yêu đấy."
 
 # game/characters/lola/ev_3.rpy:268
 translate vietnamese lola_3_sex_6b59b6f4:
 
     # me "Do you know what I love?"
-    me "Do you know what I love?"
+    me "Cô có biết tôi yêu cái gì không?"
 
 # game/characters/lola/ev_3.rpy:269
 translate vietnamese lola_3_sex_0553fe80:
 
     # lola "My pussy?"
-    lola "My pussy?"
+    lola "Lồn của tôi á?"
 
 # game/characters/lola/ev_3.rpy:270
 translate vietnamese lola_3_sex_9a03a6d2:
 
     # me "Haha, that too. What I love is cumming!"
-    me "Haha, that too. What I love is cumming!"
+    me "Haha, cái đó nữa. Thứ tôi yêu là ra!"
 
 # game/characters/lola/ev_3.rpy:279
 translate vietnamese lola_3_sex_a22eb0aa:
@@ -635,7 +635,7 @@ translate vietnamese lola_3_sex_81c46e2a:
 translate vietnamese lola_3_sex_7416b4ca:
 
     # lola "Oh.. I love the warm semen inside."
-    lola "Oh.. I love the warm semen inside."
+    lola "Oh... tôi thích có tinh dịch ấm ở bên trong."
 
 # game/characters/lola/ev_3.rpy:285
 translate vietnamese lola_3_sex_88eab5f5:
@@ -647,39 +647,38 @@ translate vietnamese lola_3_sex_88eab5f5:
 translate vietnamese lola_3_sex_2c07aa5e:
 
     # me "Now, it's really time for me to go."
-    me "Now, it's really time for me to go."
+    me "Bây giờ là lúc tôi phải đi rồi."
 
 # game/characters/lola/ev_3.rpy:287
 translate vietnamese lola_3_sex_261e06de:
 
     # lola "Thanks for the fun."
-    lola "Thanks for the fun."
+    lola "Cảm ơn vì cuộc vui."
 
 # game/characters/lola/ev_3.rpy:288
 translate vietnamese lola_3_sex_6a729aa7:
 
     # me "Haha, thank you, too."
-    me "Haha, thank you, too."
+    me "Haha, Cảm ơn cô nữa."
 
 # game/characters/lola/ev_3.rpy:294
 translate vietnamese lola_3_fun5_a6d64fea:
 
     # lola "Now that it's gone, I can finally rest in peace."
-    lola "Now that it's gone, I can finally rest in peace."
+    lola "Bây giờ nó đã biến mất, cuối cùng mình có thể yên tâm nghỉ rồi."
 
 # game/characters/lola/ev_3.rpy:296
 translate vietnamese lola_3_fun5_74eaa57d:
 
     # lola "Till next time."
-    lola "Till next time."
+    lola "Cho tới lần sau."
 
 translate vietnamese strings:
 
     # game/characters/lola/ev_3.rpy:223
     old "Ask her for sex"
-    new "Ask her for sex"
+    new "Gạ chịch"
 
     # game/characters/lola/ev_3.rpy:223
     old "Let her rest"
-    new "Let her rest"
-
+    new "Để cô ấy nghỉ"

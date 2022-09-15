@@ -386,45 +386,44 @@ translate vietnamese strings:
 
     # game/variables/wallpapers.rpy:431
     old "Swimmer Fox"
-    new "Swimmer Fox"
+    new "Cáo bơi lội"
 
     # game/variables/wallpapers.rpy:438
     old "Swimmer Fox - Topless"
-    new "Swimmer Fox - Topless"
+    new "Cáo bơi lội - cởi trần"
 
     # game/variables/wallpapers.rpy:445
     old "Bunny Gracie"
-    new "Bunny Gracie"
+    new "Thỏ Gracie"
 
     # game/variables/wallpapers.rpy:452
     old "Little Fox Adventure"
-    new "Little Fox Adventure"
+    new "Tiểu cáo phiêu lưu ký"
 
     # game/variables/wallpapers.rpy:482
     old "Aug 2022 1"
-    new "Aug 2022 1"
+    new "Tháng 8 2022 1"
 
     # game/variables/wallpapers.rpy:483
     old "Aug 2022 2"
-    new "Aug 2022 2"
+    new "Tháng 8 2022 2"
 
     # game/variables/wallpapers.rpy:484
     old "Aug 2022 3"
-    new "Aug 2022 3"
+    new "Tháng 8 2022 3"
 
     # game/variables/wallpapers.rpy:485
     old "Aug 2022 4"
-    new "Aug 2022 4"
+    new "Tháng 8 2022 4"
 
     # game/variables/wallpapers.rpy:486
     old "Aug 2022 5"
-    new "Aug 2022 5"
+    new "Tháng 8 2022 5"
 
     # game/variables/wallpapers.rpy:493
     old "June 2022 Postcard"
-    new "June 2022 Postcard"
+    new "Tháng 6 2022 Postcard"
 
     # game/variables/wallpapers.rpy:517
     old "August 2022"
-    new "August 2022"
-
+    new "Tháng 8 2022"
