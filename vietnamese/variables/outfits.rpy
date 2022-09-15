@@ -90,13 +90,12 @@ translate vietnamese strings:
 
     # game/variables/outfits.rpy:3
     old "Bunny"
-    new "Bunny"
+    new "Thỏ"
 
     # game/variables/outfits.rpy:87
     old "Trust: {}"
-    new "Trust: {}"
+    new "Tin tưởng: {}"
 
     # game/variables/outfits.rpy:94
     old "Give her a carrot and make her happy."
-    new "Give her a carrot and make her happy."
-
+    new "Cho cô ấy một củ cà rốt để làm cô ấy hạnh fuck."

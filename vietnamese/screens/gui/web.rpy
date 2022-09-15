@@ -35,5 +35,4 @@ translate vietnamese strings:
 
     # game/screens/gui/web.rpy:94
     old "New game version available! ([can_update])"
-    new "New game version available! ([can_update])"
-
+    new "Đã có phiên bản mới! ([can_update])"

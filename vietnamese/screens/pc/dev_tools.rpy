@@ -83,13 +83,12 @@ translate vietnamese strings:
 
     # game/screens/pc/dev_tools.rpy:85
     old "Test Sounds"
-    new "Test Sounds"
+    new "Thử âm thanh"
 
     # game/screens/pc/dev_tools.rpy:237
     old "With sound"
-    new "With sound"
+    new "Với âm thanh"
 
     # game/screens/pc/dev_tools.rpy:248
     old "Without sound"
-    new "Without sound"
-
+    new "Không có âm thanh"

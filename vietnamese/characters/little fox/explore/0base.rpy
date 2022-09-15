@@ -1237,7 +1237,7 @@ translate vietnamese lil_fox_explore_3c8c8cac:
 translate vietnamese lil_fox_explore_speak_a78cbc09:
 
     # me "Yes, yes. Slow down a little.."
-    me "Yes, yes. Slow down a little.."
+    me "Có, có. Chậm lại một chút đi..."
 
 # game/characters/little fox/explore/0base.rpy:187
 translate vietnamese lil_fox_explore_speak_1ee3f198:
@@ -1249,5 +1249,4 @@ translate vietnamese lil_fox_explore_speak_1ee3f198:
 translate vietnamese lil_fox_explore_return_help_with_rachel_32637e89:
 
     # me "Come on, it won't be that bad."
-    me "Come on, it won't be that bad."
-
+    me "Thôi nào, nó sẽ không tệ đến mức đấy đâu."

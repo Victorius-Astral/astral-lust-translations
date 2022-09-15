@@ -233,7 +233,7 @@ translate vietnamese lil_fox_exp_treasure_6e77aa4c:
 translate vietnamese lil_fox_exp_treasure_76127a57:
 
     # me "I can't reach it."
-    me "I can't reach it."
+    me "Anh không với tới được."
 
 # game/characters/little fox/explore/treasure.rpy:99
 translate vietnamese lil_fox_exp_treasure_fe771a70:
@@ -251,7 +251,7 @@ translate vietnamese lil_fox_exp_treasure_062dc201:
 translate vietnamese lil_fox_exp_treasure_78cfeba9:
 
     # me "Come, I'll give you a hand. Get it down."
-    me "Come, I'll give you a hand. Get it down."
+    me "Đến đây đi, anh sẽ giúp em một tay."
 
 # game/characters/little fox/explore/treasure.rpy:105
 translate vietnamese lil_fox_exp_treasure_8da8d70e:
@@ -263,31 +263,31 @@ translate vietnamese lil_fox_exp_treasure_8da8d70e:
 translate vietnamese lil_fox_exp_treasure_9111b32d:
 
     # lil_fox "Come to mommy~"
-    lil_fox "Come to mommy~"
+    lil_fox "Đến với mẹ nào~"
 
 # game/characters/little fox/explore/treasure.rpy:110
 translate vietnamese lil_fox_exp_treasure_10d7626e:
 
     # me "Pff.."
-    me "Pff.."
+    me "Pff..."
 
 # game/characters/little fox/explore/treasure.rpy:111
 translate vietnamese lil_fox_exp_treasure_3905b2c9:
 
     # lil_fox "Heavy.."
-    lil_fox "Heavy.."
+    lil_fox "Nặng..."
 
 # game/characters/little fox/explore/treasure.rpy:112
 translate vietnamese lil_fox_exp_treasure_a27bed03:
 
     # me "Can you do it?"
-    me "Can you do it?"
+    me "Em làm được không?"
 
 # game/characters/little fox/explore/treasure.rpy:116
 translate vietnamese lil_fox_exp_treasure_96a1a3a0:
 
     # lil_fox "I think it's stuck. I can't move it."
-    lil_fox "I think it's stuck. I can't move it."
+    lil_fox "Em nghĩ là nó kẹt rồi. Em không thể di chuyển được."
 
 # game/characters/little fox/explore/treasure.rpy:117
 translate vietnamese lil_fox_exp_treasure_b7a83025:
@@ -299,31 +299,31 @@ translate vietnamese lil_fox_exp_treasure_b7a83025:
 translate vietnamese lil_fox_exp_treasure_c46b2462:
 
     # lil_fox "Wait. I'll climb there and try again."
-    lil_fox "Wait. I'll climb there and try again."
+    lil_fox "Chờ đã. Em sẽ leo lên đó và thử lần nữa."
 
 # game/characters/little fox/explore/treasure.rpy:122
 translate vietnamese lil_fox_exp_treasure_069c0b02:
 
     # me "Good idea."
-    me "Good idea."
+    me "Ý hay đấy."
 
 # game/characters/little fox/explore/treasure.rpy:126
 translate vietnamese lil_fox_exp_treasure_761245b8:
 
     # me "And?"
-    me "And?"
+    me "Và?"
 
 # game/characters/little fox/explore/treasure.rpy:127
 translate vietnamese lil_fox_exp_treasure_0cabc0dd:
 
     # lil_fox "It's locked. I'll try to throw it down."
-    lil_fox "It's locked. I'll try to throw it down."
+    lil_fox "Nó khóa rồi. Em sẽ thử ném nó xuống."
 
 # game/characters/little fox/explore/treasure.rpy:128
 translate vietnamese lil_fox_exp_treasure_d6f4c0a5:
 
     # me "Alright."
-    me "Alright."
+    me "Được rồi."
 
 # game/characters/little fox/explore/treasure.rpy:132
 translate vietnamese lil_fox_exp_treasure_3c8c8cac:
@@ -335,7 +335,7 @@ translate vietnamese lil_fox_exp_treasure_3c8c8cac:
 translate vietnamese lil_fox_exp_treasure_55fe97c6:
 
     # lil_fox "Ah! Watch out!"
-    lil_fox "Ah! Watch out!"
+    lil_fox "Ah! Cẩn thận!"
 
 # game/characters/little fox/explore/treasure.rpy:140
 translate vietnamese lil_fox_exp_treasure_5971af2f:
@@ -347,13 +347,13 @@ translate vietnamese lil_fox_exp_treasure_5971af2f:
 translate vietnamese lil_fox_exp_treasure_e21b7f84:
 
     # lil_fox "Oh, it's open, haha."
-    lil_fox "Oh, it's open, haha."
+    lil_fox "Oh, nó mở rồi, haha."
 
 # game/characters/little fox/explore/treasure.rpy:142
 translate vietnamese lil_fox_exp_treasure_3f5d85fc:
 
     # me "Good job."
-    me "Good job."
+    me "Hay lắm."
 
 # game/characters/little fox/explore/treasure.rpy:146
 translate vietnamese lil_fox_exp_treasure_6796cdce:
@@ -365,23 +365,22 @@ translate vietnamese lil_fox_exp_treasure_6796cdce:
 translate vietnamese lil_fox_exp_treasure_a29b205b:
 
     # me "Careful."
-    me "Careful."
+    me "Cẩn thận."
 
 # game/characters/little fox/explore/treasure.rpy:148
 translate vietnamese lil_fox_exp_treasure_e4a983ef:
 
     # lil_fox "I'm allright."
-    lil_fox "I'm allright."
+    lil_fox "Em ổn."
 
 # game/characters/little fox/explore/treasure.rpy:152
 translate vietnamese lil_fox_exp_treasure_a9b542f8:
 
     # lil_fox "Let's check what we found!"
-    lil_fox "Let's check what we found!"
+    lil_fox "Hãy kiểm tra xem chúng ta tìm được gì nào!"
 
 # game/characters/little fox/explore/treasure.rpy:159
 translate vietnamese lil_fox_exp_treasure_d5bc8efa:
 
     # me "Hell I did. Good job, [lil_fox]."
-    me "Hell I did. Good job, [lil_fox]."
-
+    me "làm tốt lắm, [lil_fox]."

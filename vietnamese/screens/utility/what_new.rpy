@@ -382,33 +382,32 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:175
     old "{b}Explore with Little Fox{/b}"
-    new "{b}Explore with Little Fox{/b}"
+    new "{b}Thám hiểm cùng Tiểu Cáo{/b}"
 
     # game/screens/utility/what_new.rpy:176
     old "You can now take Little Fox out for an adventure! Find her during exploration, then you can go out with her by talking with her."
-    new "You can now take Little Fox out for an adventure! Find her during exploration, then you can go out with her by talking with her."
+    new "Bây giờ bạn có thể đưa Cáo nhỏ ra ngoài trong một cuộc phiêu lưu! Tìm cô ấy trong khi khám phá, sau đó bạn có thể đi với cô ấy bằng cách nói chuyện với cô ấy."
 
     # game/screens/utility/what_new.rpy:187
     old "{b}Alice - Nun outfit{/b}"
-    new "{b}Alice - Nun outfit{/b}"
+    new "{b}Alice - Trang phục sơ{/b}"
 
     # game/screens/utility/what_new.rpy:188
     old "In the corruption-filled Asthar, even the nuns are filled with unholy thoughts."
-    new "In the corruption-filled Asthar, even the nuns are filled with unholy thoughts."
+    new "Ở xứ Asthar đầy rẫy những sự sa đọa, ngay cả các nữ tu cũng chứa đầy những suy nghĩ xấu xa."
 
     # game/screens/utility/what_new.rpy:196
     old "{b}Lola's 3rd event{/b}"
-    new "{b}Lola's 3rd event{/b}"
+    new "{b}Sự kiện thứ 3 của Lola{/b}"
 
     # game/screens/utility/what_new.rpy:197
     old "Lola has finally gotten a new event! It involves two paths and three adult scenes."
-    new "Lola has finally gotten a new event! It involves two paths and three adult scenes."
+    new "Lola Cuối cùng cũng đã có sự kiện mới! Nó sẽ liên quan đến hai tuyến truyện và 3 cảnh sếch."
 
     # game/screens/utility/what_new.rpy:205
     old "{b}A lot of changes{/b}"
-    new "{b}A lot of changes{/b}"
+    new "{b}Nhiều thay đổi vãilone{/b}"
 
     # game/screens/utility/what_new.rpy:206
     old "The main game's font was changed! Collectibles are kept between saves. Item notifications now show the item's icon. There are many other changes, check the full changelog at the bottom for them."
-    new "The main game's font was changed! Collectibles are kept between saves. Item notifications now show the item's icon. There are many other changes, check the full changelog at the bottom for them."
-
+    new "Phông chữ của trò chơi chính đã được thay đổi! Những bộ Sưu tập sẽ được giữ giữa các lần lưu. Thông báo vật phẩm giờ sẽ hiển thị biểu tượng của vật phẩm. Có nhiều thay đổi khác, hãy kiểm tra bảng thay đổi đầy đủ ở dưới cùng để biết thêm về chúng."
