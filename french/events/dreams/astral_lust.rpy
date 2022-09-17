@@ -58,7 +58,7 @@ translate french d_Astral_Lust_2_80c5dc72:
 translate french d_Astral_Lust_2_e9385b5d:
 
     # me "Are you really here or are you just part of my dream."
-    me "Es-tu vraiment seul ou fais-tu juste partie de mon rêve?."
+    me "Es-tu vraiment seule ou fais-tu juste partie de mon rêve?."
 
 # game/events/dreams/astral_lust.rpy:24
 translate french d_Astral_Lust_2_12990b16:
@@ -88,7 +88,7 @@ translate french d_Astral_Lust_2_5f76adc7:
 translate french d_Astral_Lust_2_cc021540:
 
     # kiara "Come."
-    kiara "Venez là."
+    kiara "Vien."
 
 # game/events/dreams/astral_lust.rpy:34
 translate french d_Astral_Lust_2_43d108ff:
@@ -106,7 +106,7 @@ translate french d_Astral_Lust_2_78a82f7b:
 translate french d_Astral_Lust_2_1c5c1065:
 
     # "You enter her."
-    "Vous entrez dedans."
+    "Tu la pénètre."
 
 # game/events/dreams/astral_lust.rpy:41
 translate french d_Astral_Lust_2_488b9e9a:
@@ -160,7 +160,7 @@ translate french d_Astral_Lust_2_bf03234b:
 translate french d_Astral_Lust_2_a5be371e:
 
     # kiara "I'm going crazy!"
-    kiara "Je deviens fou!"
+    kiara "Tu me rends folle!"
 
 # game/events/dreams/astral_lust.rpy:69
 translate french d_Astral_Lust_2_6a715422:
@@ -225,5 +225,4 @@ translate french d_Astral_Lust_2_a47cf47b:
 translate french d_Astral_Lust_2_8aa10819:
 
     # "You are surprised to see [kiara] before you. She sleeps on a book, floating along in the empty space."
-    "Vous êtes surpris de voir [kiara] devant vous. Elle dort sur un livre, flottant dans l'espace vide."
-
+    "Tu est surpris de voir [kiara] devant toi. Elle dort sur un livre, flottant dans l'espace vide."
