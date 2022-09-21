@@ -28,7 +28,7 @@ translate french alice_5_1e7409fe:
 translate french alice_5_97e3a8ce:
 
     # "{color=#800080}[[Need 5% Corruption]{/color} Kill human enemies to increase corruption."
-    "{color=#800080}[[Need 5% Corruption]{/color} Tuez des ennemis humains pour augmenter la corruption."
+    "{color=#800080}[[Need 5\% Corruption]{/color} Tuez des ennemis humains pour augmenter la corruption."
 
 # game/characters/alice/ev_5.rpy:12
 translate french alice_5_cc3ee69f:

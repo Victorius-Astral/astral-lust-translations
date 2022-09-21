@@ -1,4 +1,6 @@
-﻿# TODO: Translation updated at 2022-06-17 16:01
+﻿# Translation updated at 2022-06-17 16:01
+
+translate french strings:
 
     # added manual
     old "abyssal blood"
@@ -35,4 +37,3 @@
     # added manual
     old "orcish steel"
     new "acier d'orc"
-

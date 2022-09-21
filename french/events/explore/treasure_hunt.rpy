@@ -100,7 +100,7 @@ translate french exp_treasure_hunt_part3_2f1ed011:
 translate french exp_treasure_hunt_part3_1de99f4b:
 
     # me " Troisième pièce."
-    moi " Troisième pièce."
+    me "Troisième pièce."
 
 # game/events/explore/treasure_hunt.rpy:139
 translate french exp_treasure_hunt_part3_fd00959f:

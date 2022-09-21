@@ -106,7 +106,7 @@ translate french lexi_3_1_fd482442:
 translate french lexi_3_1_314086b3:
 
     # me "What?"
-    moi " Quoi?"
+    me "Quoi?"
 
 # game/characters/lexi/ev_3.rpy:41
 translate french lexi_3_1_3cabdcf0:
