@@ -502,7 +502,7 @@ translate vietnamese strings:
 translate vietnamese kiara_menu1_a6cb9430:
 
     # kiara "What made you interested in these?"
-    kiara "What made you interested in these?"
+    kiara "Cái gì khiến anh quan tấm đến mấy cái này vậy?"
 
 # game/characters/kiara/speak.rpy:45
 translate vietnamese kiara_menu1_f5796b59:
@@ -520,201 +520,200 @@ translate vietnamese kiara_menu1_f67d3b7c:
 translate vietnamese kiara_menu1_3788e36e:
 
     # kiara "What does He want you to do?"
-    kiara "What does He want you to do?"
+    kiara "Hắn muốn anh làm gì?"
 
 # game/characters/kiara/speak.rpy:51
 translate vietnamese kiara_menu1_54865bce:
 
     # me "He gave me His honorary name, and told me you'll teach me how to set up rituals."
-    me "He gave me His honorary name, and told me you'll teach me how to set up rituals."
+    me "Hắn cho tôi tên danh dự của hắn và nói với tôi rằng cô sẽ dạy tôi cách thiết lập các nghi lễ."
 
 # game/characters/kiara/speak.rpy:52
 translate vietnamese kiara_menu1_79498a41:
 
     # kiara "I see."
-    kiara "I see."
+    kiara "Tôi hiểu rồi."
 
 # game/characters/kiara/speak.rpy:56
 translate vietnamese kiara_menu1_2c5a554c:
 
     # kiara "I wouldn't trust this madman's intentions, but there is indeed nothing wrong with teaching you this."
-    kiara "I wouldn't trust this madman's intentions, but there is indeed nothing wrong with teaching you this."
+    kiara "Tôi sẽ không tin vào tên điên này, nhưng thực sự không có gì sai khi dạy anh điều này."
 
 # game/characters/kiara/speak.rpy:59
 translate vietnamese kiara_menu1_2caec448:
 
     # me "I learned basics about mysticism, and I learned about rituals, but only briefly. I would like to learn how to prepare them."
-    me "I learned basics about mysticism, and I learned about rituals, but only briefly. I would like to learn how to prepare them."
+    me "Tôi đã học những điều cơ bản về huyền học, và tôi đã học về các nghi lễ, nhưng chỉ một thời gian ngắn. Tôi muốn học cách chuẩn bị chúng."
 
 # game/characters/kiara/speak.rpy:60
 translate vietnamese kiara_menu1_b6698e22:
 
     # kiara "I see. I'll teach you, it's just the basics, anyway."
-    kiara "I see. I'll teach you, it's just the basics, anyway."
+    kiara "Được rồi. Tôi sẽ dạy, dù sao thì đó cũng chỉ là những điều cơ bản."
 
 # game/characters/kiara/speak.rpy:62
 translate vietnamese kiara_menu1_9bc6ca58:
 
     # kiara "The goal of the ritual is to receive a response of the being you pray to. It can be a revelation, a blessing, or a bestowement. Similarly a malicious being could curse you."
-    kiara "The goal of the ritual is to receive a response of the being you pray to. It can be a revelation, a blessing, or a bestowement. Similarly a malicious being could curse you."
+    kiara "Mục tiêu của nghi lễ là nhận được phản hồi của những người mà bạn cầu nguyện. Nó có thể là một sự mặc khải, một phước lành hoặc một sự ban tặng. Tương tự, một sinh vật nguy hiểm có thể nguyền rủa anh."
 
 # game/characters/kiara/speak.rpy:63
 translate vietnamese kiara_menu1_ac0dc02a:
 
     # kiara "Rituals consist of four parts. The first is preparing the altar. It usually means lighting three candles, and placing various materials around the candles."
-    kiara "Rituals consist of four parts. The first is preparing the altar. It usually means lighting three candles, and placing various materials around the candles."
+    kiara "Nghi lễ gồm bốn phần. Đầu tiên là chuẩn bị bàn thờ. Nó thường có nghĩa là thắp sáng ba ngọn nến và đặt nhiều vật liệu khác nhau xung quanh các ngọn nến."
 
 # game/characters/kiara/speak.rpy:64
 translate vietnamese kiara_menu1_244b4367:
 
     # kiara "The second step is to read the being's title. Make sure to thought what you wish to pray for. If you asked me to let you remain lucid in dreams, it would fail, as I don't have any dream authorities, and can't bless you."
-    kiara "The second step is to read the being's title. Make sure to thought what you wish to pray for. If you asked me to let you remain lucid in dreams, it would fail, as I don't have any dream authorities, and can't bless you."
+    kiara "Bước thứ hai là đọc tiêu đề của chúng. Hãy chắc chắn rằng nghĩ đến việc cầu nguyện cho điều gì. Nếu anh yêu cầu tôi để anh vẫn minh mẫn trong những giấc mơ, nó sẽ thất bại, vì tôi không có bất kỳ quyền quản lý giấc mơ nào, và không thể ban phước cho anh."
 
 # game/characters/kiara/speak.rpy:65
 translate vietnamese kiara_menu1_4e06b9e6:
 
     # kiara "The third step is to read the incantation. Later I'll teach you a dream incantation. It can be used to pray for dreams, which I just mentioned."
-    kiara "The third step is to read the incantation. Later I'll teach you a dream incantation. It can be used to pray for dreams, which I just mentioned."
+    kiara "Bước thứ ba là đọc câu thần chú. Sau này tôi sẽ dạy cho anh một câu thần chú trong mơ. Nó có thể được sử dụng để cầu nguyện cho những giấc mơ, mà tôi vừa đề cập."
 
 # game/characters/kiara/speak.rpy:66
 translate vietnamese kiara_menu1_985760be:
 
     # kiara "You might pray to Aharon in that regard... He for some reason doesn't seem to try to hurt you."
-    kiara "You might pray to Aharon in that regard... He for some reason doesn't seem to try to hurt you."
+    kiara "Anh có thể cầu nguyện với Aharon về vấn đề đó... Hắn ta vì lý do nào đó dường như không cố để làm tổn thương anh."
 
 # game/characters/kiara/speak.rpy:70
 translate vietnamese kiara_menu1_693c23e6:
 
     # me "What's Aharon's title?"
-    me "What's Aharon's title?"
+    me "Tiêu đề của Aharon là gì?"
 
 # game/characters/kiara/speak.rpy:71
 translate vietnamese kiara_menu1_69c3b5cc:
 
     # kiara "Attendant of Horror, Miracle Invoker, High Priest of the Black"
-    kiara "Attendant of Horror, Miracle Invoker, High Priest of the Black"
+    kiara "Kẻ phục dịch của nỗi kinh hoàng, người tạo phép màu, Linh mục tối cao của Hắc Kinh"
 
 # game/characters/kiara/speak.rpy:76
 translate vietnamese kiara_menu1_d1c0eb01:
 
     # me "Is Aharon related to the dreams?"
-    me "Is Aharon related to the dreams?"
+    me "Liệu Aharon có liên quan đến giấc mơ không?"
 
 # game/characters/kiara/speak.rpy:77
 translate vietnamese kiara_menu1_b093f66e:
 
     # kiara "No, but he has an authority over miracles, as you know from His title. He can answer most rituals, but the effects will be weaker than someone having authority over given field."
-    kiara "No, but he has an authority over miracles, as you know from His title. He can answer most rituals, but the effects will be weaker than someone having authority over given field."
+    kiara "Không, nhưng Hắn có khả năng cna thiệp vào nó, như anh đã biết từ tước hiệu của Hắn. hắn ta có thể trả lời hầu hết các nghi lễ, nhưng hiệu quả sẽ yếu hơn so với người có quyền năng đối với lĩnh vực nhất định."
 
 # game/characters/kiara/speak.rpy:78
 translate vietnamese kiara_menu1_77994322:
 
     # me "So Aharon is a safe bet. Low chance of failure, but small returns."
-    me "So Aharon is a safe bet. Low chance of failure, but small returns."
+    me "Vì vậy, Aharon là một ván cược an toàn. Cơ hội thất bại thấp, nhưng lợi nhuận nhỏ."
 
 # game/characters/kiara/speak.rpy:79
 translate vietnamese kiara_menu1_8cba7df2:
 
     # kiara "Basically yes. But don't forget that His blessings in His other authorities are going to be top notch. After all, He's close to being a God."
-    kiara "Basically yes. But don't forget that His blessings in His other authorities are going to be top notch. After all, He's close to being a God."
+    kiara "Về cơ bản là vậy. Nhưng đừng quên rằng các phước lành của Hắn trong quyền năng khác của là top đầu đấy. Sau cùng, Hắn đã gần trở thành một vị thần rồi."
 
 # game/characters/kiara/speak.rpy:80
 translate vietnamese kiara_menu1_2145b242:
 
     # me "What's the last step?"
-    me "What's the last step?"
+    me "Bước cuối của hắn là gì?"
 
 # game/characters/kiara/speak.rpy:81
 translate vietnamese kiara_menu1_72023d8c:
 
     # kiara "The sacrifice. You can sacrifice a lot of different items, but remember, the more spiritual the nature of the item, the greater the response you'll receive."
-    kiara "The sacrifice. You can sacrifice a lot of different items, but remember, the more spiritual the nature of the item, the greater the response you'll receive."
+    kiara "Hiến tế. Anh có thể hiến tế rất nhiều vật phẩm khác nhau, nhưng hãy nhớ rằng, đồ càng xịn thì thứ anh nhận được cũng vậy."
 
 # game/characters/kiara/speak.rpy:82
 translate vietnamese kiara_menu1_05a24e43:
 
     # kiara "Some sacrifices have symbolic meaning, and the reply steems solely from the being's level. If you sacrifice Sigil of the Black cultists wear to the Aharon, while in itself its an ordinary item, He might provide stronger reply."
-    kiara "Some sacrifices have symbolic meaning, and the reply steems solely from the being's level. If you sacrifice Sigil of the Black cultists wear to the Aharon, while in itself its an ordinary item, He might provide stronger reply."
+    kiara "Một số hiến tế có ý nghĩa tượng trưng, và câu trả lời chỉ xuất phát từ cấp độ của con người. Nếu anh hiến tế Con dấu Đen mà những người sùng bái mặc cho Aharon, trong khi bản thân nó là một vật phẩm bình thường, thì Hắn có thể đưa ra phản hồi mạnh mẽ hơn."
 
 # game/characters/kiara/speak.rpy:83
 translate vietnamese kiara_menu1_e9ef7f00:
 
     # kiara "You can also use your own blood as a sacrifice. But it's dangerous. If the being is malicious, the curse you'll suffer will be tremendous. Not all beings are interested in this sacrifice, too."
-    kiara "You can also use your own blood as a sacrifice. But it's dangerous. If the being is malicious, the curse you'll suffer will be tremendous. Not all beings are interested in this sacrifice, too."
+    kiara "Anh cũng có thể sử dụng máu của mình làm vật hiến tế. Nhưng nó khá nguy hiểm. Nếu đó là thực thể tà ác, lời nguyền mà anh phải chịu sẽ rất lớn. Không phải tất cả thực thể đều quan tâm đến sự hy sinh này."
 
 # game/characters/kiara/speak.rpy:84
 translate vietnamese kiara_menu1_00d4437e:
 
     # kiara "Nature of the sacrifice will affect the reply as well. If you perform a dream invocation with a corrupted or evil sacrifice, don't expect the dreams to be nice."
-    kiara "Nature of the sacrifice will affect the reply as well. If you perform a dream invocation with a corrupted or evil sacrifice, don't expect the dreams to be nice."
+    kiara "Bản chất của sự hiến tế cũng sẽ ảnh hưởng đến lời hồi đáp. Nếu anh cầu khẩn một giấc mơ bằng một sinh vật bị tha hóa, đừng mong là giấc mơ đấy sẽ tốt đẹp."
 
 # game/characters/kiara/speak.rpy:89
 translate vietnamese kiara_menu1_b335a096:
 
     # "[kiara] continues to teach you the specifics of rituals like how to exactly place the candles."
-    "[kiara] continues to teach you the specifics of rituals like how to exactly place the candles."
+    "[kiara] tiếp tục hướng dẫn bạn các chi tiết cụ thể của các nghi lễ như cách đặt chính xác các ngọn nến."
 
 # game/characters/kiara/speak.rpy:90
 translate vietnamese kiara_menu1_7698f02c:
 
     # "It takes you an hour before grasping the corresponding content."
-    "It takes you an hour before grasping the corresponding content."
+    "Bạn phải mất một giờ trước khi nắm được nội dung."
 
 # game/characters/kiara/speak.rpy:94
 translate vietnamese kiara_menu1_a0a697c9:
 
     # me "Thank you."
-    me "Thank you."
+    me "Cảm ơn."
 
 # game/characters/kiara/speak.rpy:95
 translate vietnamese kiara_menu1_e989775d:
 
     # kiara "It's alright. Remember, NEVER pray to beings whose intentions you don't know."
-    kiara "It's alright. Remember, NEVER pray to beings whose intentions you don't know."
+    kiara "Không sao cả. Nhưng hãy nhớ rằng, ĐỪNG BAO GIỜ cầu nguyện với thực thể mà anh không rõ ý định của chúng."
 
 # game/characters/kiara/speak.rpy:96
 translate vietnamese kiara_menu1_a1c73fe1:
 
     # me "Got it."
-    me "Got it."
+    me "Rõ rồi."
 
 # game/characters/kiara/speak.rpy:97
 translate vietnamese kiara_menu1_7ce47617:
 
     # kiara "If you want to seek dreams, you can use Dream Invocation to sacrifice [Items['frozen screams'].name!t] to me."
-    kiara "If you want to seek dreams, you can use Dream Invocation to sacrifice [Items['frozen screams'].name!t] to me."
+    kiara "Nếu anh muốn tìm kiếm giấc mơ, anh có thể sử dụng Lời cầu khẩn giấc mơ để hiến tế [Items['frozen screams'].name!t] cho tôi."
 
 # game/characters/kiara/speak.rpy:98
 translate vietnamese kiara_menu1_eaaf9244:
 
     # kiara "It's infused with the knowledge that I can use to make you restless, making your nights full of dreams."
-    kiara "It's infused with the knowledge that I can use to make you restless, making your nights full of dreams."
+    kiara "Nó truyền cho tôi những kiến thức mà tôi có thể sử dụng để khiến anh bồn chồn, khiến anh có những đêm đầy những giấc mơ."
 
 # game/characters/kiara/speak.rpy:99
 translate vietnamese kiara_menu1_37093d95:
 
     # kiara "I don't have authority over dreams, so it'll be a waste of resources to perform Dream Incantation towards me, besides this one case, as it also involves knowledge."
-    kiara "I don't have authority over dreams, so it'll be a waste of resources to perform Dream Incantation towards me, besides this one case, as it also involves knowledge."
+    kiara "Tôi không có quyền năng thao túng những giấc mơ, vì vậy sẽ rất lãng phí tài nguyên để thực hiện lời khẩn cầu giấc mơ đối với tôi, ngoài trường hợp này, vì nó cũng liên quan đến kiến thức."
 
 # game/characters/kiara/speak.rpy:103
 translate vietnamese kiara_menu1_4f3351e3:
 
     # kiara "Take. You can set up a few rituals with these. Remember, consider every word you say carefully."
-    kiara "Take. You can set up a few rituals with these. Remember, consider every word you say carefully."
+    kiara "Cầm lấy. Anh có thể thiết lập một vài nghi thức với những thứ này. Hãy nhớ, cân nhắc mọi lời anh nói một cách cẩn thận."
 
 # game/characters/kiara/speak.rpy:104
 translate vietnamese kiara_menu1_c315236c:
 
     # me "Got it, thank you."
-    me "Got it, thank you."
+    me "Được rồi, cảm ơn cô."
 
 translate vietnamese strings:
 
     # game/characters/kiara/speak.rpy:15
     old "How to set up a ritual?"
-    new "How to set up a ritual?"
+    new "Cách thiết lập một nghi lễ?"
 
     # game/characters/kiara/speak.rpy:107
     old "You can now perform the rituals! You can do so on the altar in your room."
-    new "You can now perform the rituals! You can do so on the altar in your room."
-
+    new "Bây giờ bạn có thể thực hiện các nghi lễ! Bạn có thể làm trên bàn thờ trong phòng của bạn."

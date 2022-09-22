@@ -109,5 +109,4 @@ translate vietnamese strings:
 
     # game/places/hotel/player/altar.rpy:2
     old "Perform a ritual{#visible}"
-    new "Perform a ritual{#visible}"
-
+    new "Thực hiện nghi lễ{#visible}"

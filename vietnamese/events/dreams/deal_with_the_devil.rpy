@@ -240,19 +240,19 @@ translate vietnamese d_Deal_with_the_Devil_3_menu1_75df7159:
 translate vietnamese d_Deal_with_the_Devil_3_menu1_44eef04f:
 
     # devil "{evil}I shall grant you your will.{/evil}"
-    devil "{evil}I shall grant you your will.{/evil}"
+    devil "{evil}Ta sẽ ban cho ngươi thứ mà ngươi muốn.{/evil}"
 
 # game/events/dreams/deal_with_the_devil.rpy:118
 translate vietnamese d_Deal_with_the_Devil_3_menu1_4af8bc15:
 
     # devil "{evil}Decadent Monarch, Scorching Nightmare, Father of Desires{/evil}"
-    devil "{evil}Decadent Monarch, Scorching Nightmare, Father of Desires{/evil}"
+    devil "{evil}Quân vương suy đồi, Cơn ác mộng bỏng rát, Người cha của dục vọng{/evil}"
 
 # game/events/dreams/deal_with_the_devil.rpy:119
 translate vietnamese d_Deal_with_the_Devil_3_menu1_67ed8805:
 
     # "Its name makes your head to throb in pain as illusory blood flows down your ears."
-    "Its name makes your head to throb in pain as illusory blood flows down your ears."
+    "Cái tên của nó khiến đầu bạn nhói lên như thể dòng máu hư ảo chảy xuống tai."
 
 # game/events/dreams/deal_with_the_devil.rpy:120
 translate vietnamese d_Deal_with_the_Devil_3_menu1_6aba83f5:
@@ -264,19 +264,19 @@ translate vietnamese d_Deal_with_the_Devil_3_menu1_6aba83f5:
 translate vietnamese d_Deal_with_the_Devil_3_menu1_0110eb39:
 
     # devil "Haha, let this pain be the price."
-    devil "Haha, let this pain be the price."
+    devil "Haha, hãy để nỗi đau này là cái giá đi."
 
 # game/events/dreams/deal_with_the_devil.rpy:122
 translate vietnamese d_Deal_with_the_Devil_3_menu1_4bc02b39:
 
     # me "That's all?"
-    me "That's all?"
+    me "Thế thôi á?"
 
 # game/events/dreams/deal_with_the_devil.rpy:123
 translate vietnamese d_Deal_with_the_Devil_3_menu1_9181b3a9:
 
     # devil "If your sacrifices please me, you'll receive my blessings. If they insult me-"
-    devil "If your sacrifices please me, you'll receive my blessings. If they insult me-"
+    devil "Nếu đồ hiến tế của ngươi làm hài lòng ta, ngươi sẽ nhận được phước lành của ta. Nếu chúng xúc phạm ta-"
 
 # game/events/dreams/deal_with_the_devil.rpy:124
 translate vietnamese d_Deal_with_the_Devil_3_menu1_c465d04f:
@@ -294,39 +294,38 @@ translate vietnamese d_Deal_with_the_Devil_3_menu1_3820771a_1:
 translate vietnamese d_Deal_with_the_Devil_3_menu1_d0e2f6d7:
 
     # devil "Very well."
-    devil "Very well."
+    devil "Tốt lắm."
 
 # game/events/dreams/deal_with_the_devil.rpy:131
 translate vietnamese d_Deal_with_the_Devil_3_menu1_d424dc21:
 
     # devil "{evil}We shall met again. Do you agree?{/evil}"
-    devil "{evil}We shall met again. Do you agree?{/evil}"
+    devil "{evil}Chúng ta sẽ gặp lại nhau. Ngươi có đồng ý chứ?{/evil}"
 
 # game/events/dreams/deal_with_the_devil.rpy:132
 translate vietnamese d_Deal_with_the_Devil_3_menu1_17dbf313:
 
     # "Its tone suddenly changed into a monstorous and evil raving, making your soul and mind shiver in horror."
-    "Its tone suddenly changed into a monstorous and evil raving, making your soul and mind shiver in horror."
+    "Giọng điệu của nó đột nhiên thay đổi thành một thứ quái dị và ác độc, khiến tâm hồn và tâm trí bạn rùng mình kinh hãi."
 
 # game/events/dreams/deal_with_the_devil.rpy:133
 translate vietnamese d_Deal_with_the_Devil_3_menu1_0e4aef8c:
 
     # th "There is something wrong with what 'It' said..."
-    th "There is something wrong with what 'It' said..."
+    th "Có điều gì đó không ổn với những gì 'Nó' nói..."
 
 # game/events/dreams/deal_with_the_devil.rpy:134
 translate vietnamese d_Deal_with_the_Devil_3_menu1_a2f309d6:
 
     # me "Yes..."
-    me "Yes..."
+    me "Có..."
 
 translate vietnamese strings:
 
     # game/events/dreams/deal_with_the_devil.rpy:34
     old "I wish to know your honorary name, to seek your blessings in the rituals"
-    new "I wish to know your honorary name, to seek your blessings in the rituals"
+    new "Ta muốn biết tên danh dự của ngươi, để tìm kiếm phước lành của ngươi trong các nghi lễ"
 
     # game/events/dreams/deal_with_the_devil.rpy:34
     old "Can we make the deal another time?"
-    new "Can we make the deal another time?"
-
+    new "Chúng ta có thể thực hiện giao kèo vào lần khác không?"

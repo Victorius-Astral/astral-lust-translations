@@ -105,37 +105,36 @@ translate vietnamese strings:
 
     # game/variables/lists/items.rpy:14
     old "Rituals"
-    new "Rituals"
+    new "Nghi lễ"
 
     # game/variables/lists/items.rpy:76
     old "Ritual Materials"
-    new "Ritual Materials"
+    new "Vật liệu nghi lễ"
 
     # game/variables/lists/items.rpy:76
     old "Essentials when it comes to setting up a ritual."
-    new "Essentials when it comes to setting up a ritual."
+    new "Những điều cần thiết khi thiết lập một nghi lễ."
 
     # game/variables/lists/items.rpy:213
     old "Calming Powder"
-    new "Calming Powder"
+    new "Bột làm dịu"
 
     # game/variables/lists/items.rpy:213
     old "You feel your racing thoughts slowing down with a little sniff."
-    new "You feel your racing thoughts slowing down with a little sniff."
+    new "Bạn cảm thấy suy nghĩ của mình chậm lại với một lần hít."
 
     # game/variables/lists/items.rpy:226
     old "Irritating Powder"
-    new "Irritating Powder"
+    new "Bột kích ứng"
 
     # game/variables/lists/items.rpy:226
     old "You get itchy just by holding it. This, once calming powder, has fallen under eldritch influences."
-    new "You get itchy just by holding it. This, once calming powder, has fallen under eldritch influences."
+    new "Bạn sẽ ngứa ngáy khi cầm nó. Điều này, một khi bột làm dịu, đã rơi vào ảnh hưởng của eldritch."
 
     # game/variables/lists/items.rpy:239
     old "Unholy Pact"
-    new "Unholy Pact"
+    new "Hiệp ước báng bổ"
 
     # game/variables/lists/items.rpy:239
     old "You made a pact with 'Him'. You are to return before 'His' unholy visage."
-    new "You made a pact with 'Him'. You are to return before 'His' unholy visage."
-
+    new "Bạn đã giao ước với 'Ngài'. Bạn sẽ trở lại trước tầm nhìn báng bổ của'Ngài'."
