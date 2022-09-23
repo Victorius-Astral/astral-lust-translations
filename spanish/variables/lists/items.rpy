@@ -92,43 +92,42 @@ translate spanish strings:
     # game/variables/lists/items.rpy:83
     old "The finest of wines made in 20th century."
     new "El mejor de los vinos elaborados en el siglo XX."
-# TODO: Translation updated at 2022-09-23 12:55
+# : Translation updated at 2022-09-23 12:55
 
 translate spanish strings:
 
     # game/variables/lists/items.rpy:14
     old "Rituals"
-    new "Rituals"
+    new "Rituales"
 
     # game/variables/lists/items.rpy:76
     old "Ritual Materials"
-    new "Ritual Materials"
+    new "Materiales de Ritual"
 
     # game/variables/lists/items.rpy:76
     old "Essentials when it comes to setting up a ritual."
-    new "Essentials when it comes to setting up a ritual."
+    new "Esenciales cuando se trata de establecer un ritual."
 
     # game/variables/lists/items.rpy:210
     old "Calming Powder"
-    new "Calming Powder"
+    new "Polvo Calmante"
 
     # game/variables/lists/items.rpy:210
     old "You feel your racing thoughts slowing down with a little sniff."
-    new "You feel your racing thoughts slowing down with a little sniff."
+    new "Sientes que tus pensamientos acelerados se ralentizan con un poco."
 
     # game/variables/lists/items.rpy:223
     old "Irritating Powder"
-    new "Irritating Powder"
+    new "Polvo Irritante"
 
     # game/variables/lists/items.rpy:223
     old "You get itchy just by holding it. This, once calming powder, has fallen under eldritch influences."
-    new "You get itchy just by holding it. This, once calming powder, has fallen under eldritch influences."
+    new "Sientes picazón con solo sostenerlo. Este polvo, que alguna vez fue un calmante, ha caído bajo influencias eldritch."
 
     # game/variables/lists/items.rpy:236
     old "Unholy Pact"
-    new "Unholy Pact"
+    new "Pacto Impío"
 
     # game/variables/lists/items.rpy:236
     old "You made a pact with 'Him'. You are to return before 'His' unholy visage."
-    new "You made a pact with 'Him'. You are to return before 'His' unholy visage."
-
+    new "Hiciste un pacto con 'Él'. Debes regresar antes de 'Su' aparición profana."

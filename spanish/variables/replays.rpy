@@ -792,73 +792,73 @@ translate spanish strings:
     # game/variables/replays.rpy:290
     old "Found Nothing"
     new "No se encontró nada"
-# TODO: Translation updated at 2022-09-23 18:58
+# : Translation updated at 2022-09-23 18:58
 
 translate spanish strings:
 
     # game/variables/replays.rpy:48
     old "STORY"
-    new "STORY"
+    new "HISTORIA"
 
     # game/variables/replays.rpy:48
     old "OUTFITS"
-    new "OUTFITS"
+    new "TRAJES"
 
     # game/variables/replays.rpy:48
     old "ACTIVITIES"
-    new "ACTIVITIES"
+    new "ACTIVIDADES"
 
     # game/variables/replays.rpy:48
     old "WAKEUP"
-    new "WAKEUP"
+    new "DESPIERTA"
 
     # game/variables/replays.rpy:117
     old "DATES"
-    new "DATES"
+    new "CITAS"
 
     # game/variables/replays.rpy:146
     old "MAIN"
-    new "MAIN"
+    new "PRINCIPAL"
 
     # game/variables/replays.rpy:146
     old "SIDE"
-    new "SIDE"
+    new "SECUNDARIO"
 
     # game/variables/replays.rpy:167
     old "SECRET"
-    new "SECRET"
+    new "SECRETO"
 
     # game/variables/replays.rpy:219
     old "WET"
-    new "WET"
+    new "HÚMEDO"
 
     # game/variables/replays.rpy:219
     old "GOOD"
-    new "GOOD"
+    new "BIEN"
 
     # game/variables/replays.rpy:219
     old "NIGHTMARE"
-    new "NIGHTMARE"
+    new "PESADILLA"
 
     # game/variables/replays.rpy:219
     old "OTHER"
-    new "OTHER"
+    new "OTRO"
 
     # game/variables/replays.rpy:253
     old "ALONE"
-    new "ALONE"
+    new "SÓLO"
 
     # game/variables/replays.rpy:253
     old "Ruined House"
-    new "Ruined House"
+    new "Casa Arruinada"
 
     # game/variables/replays.rpy:253
     old "ALONE - DAMSEL IN DISTRESS"
-    new "ALONE - DAMSEL IN DISTRESS"
+    new "SÓLO - DAMISELA EN APUROS"
 
     # game/variables/replays.rpy:253
     old "Soldier"
-    new "Soldier"
+    new "Soldada"
 
     # game/variables/replays.rpy:253
     old "Bimbo"
@@ -866,11 +866,11 @@ translate spanish strings:
 
     # game/variables/replays.rpy:253
     old "Devotee"
-    new "Devotee"
+    new "Devota"
 
     # game/variables/replays.rpy:253
     old "Pregnant"
-    new "Pregnant"
+    new "Embarazada"
 
     # game/variables/replays.rpy:253
     old "LITTLE FOX"
@@ -882,7 +882,7 @@ translate spanish strings:
 
     # game/variables/replays.rpy:315
     old "ENDINGS"
-    new "ENDINGS"
+    new "FINALES"
 
     # game/variables/replays.rpy:315
     old "DISCORD"
@@ -890,13 +890,12 @@ translate spanish strings:
 
     # game/variables/replays.rpy:315
     old "Dragon Slayer"
-    new "Dragon Slayer"
+    new "Caza Dragones"
 
     # game/variables/replays.rpy:315
     old "CHRISTMAS"
-    new "CHRISTMAS"
+    new "NAVIDAD"
 
     # game/variables/replays.rpy:352
     old "EXPLORE"
-    new "EXPLORE"
-
+    new "EXPLORA"
