@@ -24,3 +24,11 @@ translate spanish strings:
     # game/screens/replay/gallery.rpy:44
     old "Recover Gallery"
     new "Recuperar Galería"
+# TODO: Translation updated at 2022-09-23 18:58
+
+translate spanish strings:
+
+    # game/screens/replay/gallery.rpy:83
+    old "* Click the event's name to start the replay."
+    new "* Click the event's name to start the replay."
+

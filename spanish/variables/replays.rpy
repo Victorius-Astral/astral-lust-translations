@@ -792,3 +792,111 @@ translate spanish strings:
     # game/variables/replays.rpy:290
     old "Found Nothing"
     new "No se encontró nada"
+# TODO: Translation updated at 2022-09-23 18:58
+
+translate spanish strings:
+
+    # game/variables/replays.rpy:48
+    old "STORY"
+    new "STORY"
+
+    # game/variables/replays.rpy:48
+    old "OUTFITS"
+    new "OUTFITS"
+
+    # game/variables/replays.rpy:48
+    old "ACTIVITIES"
+    new "ACTIVITIES"
+
+    # game/variables/replays.rpy:48
+    old "WAKEUP"
+    new "WAKEUP"
+
+    # game/variables/replays.rpy:117
+    old "DATES"
+    new "DATES"
+
+    # game/variables/replays.rpy:146
+    old "MAIN"
+    new "MAIN"
+
+    # game/variables/replays.rpy:146
+    old "SIDE"
+    new "SIDE"
+
+    # game/variables/replays.rpy:167
+    old "SECRET"
+    new "SECRET"
+
+    # game/variables/replays.rpy:219
+    old "WET"
+    new "WET"
+
+    # game/variables/replays.rpy:219
+    old "GOOD"
+    new "GOOD"
+
+    # game/variables/replays.rpy:219
+    old "NIGHTMARE"
+    new "NIGHTMARE"
+
+    # game/variables/replays.rpy:219
+    old "OTHER"
+    new "OTHER"
+
+    # game/variables/replays.rpy:253
+    old "ALONE"
+    new "ALONE"
+
+    # game/variables/replays.rpy:253
+    old "Ruined House"
+    new "Ruined House"
+
+    # game/variables/replays.rpy:253
+    old "ALONE - DAMSEL IN DISTRESS"
+    new "ALONE - DAMSEL IN DISTRESS"
+
+    # game/variables/replays.rpy:253
+    old "Soldier"
+    new "Soldier"
+
+    # game/variables/replays.rpy:253
+    old "Bimbo"
+    new "Bimbo"
+
+    # game/variables/replays.rpy:253
+    old "Devotee"
+    new "Devotee"
+
+    # game/variables/replays.rpy:253
+    old "Pregnant"
+    new "Pregnant"
+
+    # game/variables/replays.rpy:253
+    old "LITTLE FOX"
+    new "LITTLE FOX"
+
+    # game/variables/replays.rpy:309
+    old "HOTEL"
+    new "HOTEL"
+
+    # game/variables/replays.rpy:315
+    old "ENDINGS"
+    new "ENDINGS"
+
+    # game/variables/replays.rpy:315
+    old "DISCORD"
+    new "DISCORD"
+
+    # game/variables/replays.rpy:315
+    old "Dragon Slayer"
+    new "Dragon Slayer"
+
+    # game/variables/replays.rpy:315
+    old "CHRISTMAS"
+    new "CHRISTMAS"
+
+    # game/variables/replays.rpy:352
+    old "EXPLORE"
+    new "EXPLORE"
+
