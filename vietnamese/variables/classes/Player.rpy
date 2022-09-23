@@ -78,5 +78,4 @@ translate vietnamese strings:
 
     # game/variables/classes/Player.rpy:511
     old "Lost {} {{vit}}health ({}/{}){{/vit}}."
-    new "Lost {} {{vit}}health ({}/{}){{/vit}}."
-
+    new "Mất {} {{Sinh lực}}máu ({}/{}){{/SInh lực}}."

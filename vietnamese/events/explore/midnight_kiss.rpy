@@ -2393,5 +2393,4 @@ translate vietnamese midnight_kiss_part4_e5dafa81:
 translate vietnamese midnight_kiss_demeter_talk_64f90ab0:
 
     # "You've also learned her full honorary name - Queen of Nightmares, Mind Wanderer, Invoker of Fear"
-    "You've also learned her full honorary name - Queen of Nightmares, Mind Wanderer, Invoker of Fear"
-
+    "Bạn cũng đã biết tên danh dự đầy đủ của cô ấy - Nữ Hoàng của Ác Mộng, Người du ngoạn tâm trí, Kẻ mưu cầu Nỗi sợ"

@@ -601,23 +601,22 @@ translate vietnamese main_12_ccb68647:
 translate vietnamese main_12_08849d23:
 
     # aharon "Remember my title - Attendant of Horror, Miracle Invoker, High Priest of the Black."
-    aharon "Remember my title - Attendant of Horror, Miracle Invoker, High Priest of the Black."
+    aharon "Nhớ lấy tước hiệu của ta - Kẻ phục dịch của nỗi kinh hoàng, người mưu cầu phép màu, Linh mục tối cao của Hắc Kinh."
 
 # game/characters/player/ev_12.rpy:119
 translate vietnamese main_12_3b535c02:
 
     # aharon "You can use my title in rituals, I will help you if possible."
-    aharon "You can use my title in rituals, I will help you if possible."
+    aharon "Ngươi có thể sử dụng nó trong các nghi lễ, ta sẽ giúp nếu có thể."
 
 # game/characters/player/ev_12.rpy:122
 translate vietnamese main_12_21a22c16:
 
     # aharon "Go to Kiara."
-    aharon "Go to Kiara."
+    aharon "Đến chỗ Kiara đi."
 
 # game/characters/player/ev_12.rpy:123
 translate vietnamese main_12_7d787737:
 
     # aharon "She will teach you how to set up rituals."
-    aharon "She will teach you how to set up rituals."
-
+    aharon "Cô ta sẽ dạy ngươi cách để làm một nghi lễ."
