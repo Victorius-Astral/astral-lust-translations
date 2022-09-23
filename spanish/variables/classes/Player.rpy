@@ -73,3 +73,11 @@ translate spanish strings:
     # game/variables/classes/Player.rpy:226
     old "{} can't be raised any further."
     new "{} llegó al valor máximo."
+# TODO: Translation updated at 2022-09-23 12:55
+
+translate spanish strings:
+
+    # game/variables/classes/Player.rpy:514
+    old "Lost {} {{vit}}health ({}/{}){{/vit}}."
+    new "Lost {} {{vit}}health ({}/{}){{/vit}}."
+

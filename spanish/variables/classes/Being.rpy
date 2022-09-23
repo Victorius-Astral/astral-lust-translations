@@ -12,3 +12,19 @@ translate spanish strings:
     # game/variables/classes/Being.rpy:1590
     old "Buff granted: {buff} {{image={image}}} ({amount})"
     new "Buff dado: {buff} {{image={image}}} ({amount})"
+# TODO: Translation updated at 2022-09-23 12:55
+
+translate spanish strings:
+
+    # game/variables/classes/Being.rpy:1598
+    old "Buff granted: {buff2} {{image={image2}}} ({amount})\nBuff removed: {buff} {{image={image}}}"
+    new "Buff granted: {buff2} {{image={image2}}} ({amount})\nBuff removed: {buff} {{image={image}}}"
+
+    # game/variables/classes/Being.rpy:1603
+    old "Buff reduced: {buff} {{image={image}}} ({amount})"
+    new "Buff reduced: {buff} {{image={image}}} ({amount})"
+
+    # game/variables/classes/Being.rpy:1608
+    old "Buff removed: {buff} {{image={image}}}"
+    new "Buff removed: {buff} {{image={image}}}"
+

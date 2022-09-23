@@ -548,3 +548,29 @@ translate spanish main_12_ccb68647:
 
     # me "I wouldn't be able to resist.. Why did You change Your mind?"
     me "No sería capaz de resistir... ¿Por qué cambiarías Tú de opinión?"
+# TODO: Translation updated at 2022-09-23 12:55
+
+# game/characters/player/ev_12.rpy:114
+translate spanish main_12_08849d23:
+
+    # aharon "Remember my title - Attendant of Horror, Miracle Invoker, High Priest of the Black."
+    aharon "Remember my title - Attendant of Horror, Miracle Invoker, High Priest of the Black."
+
+# game/characters/player/ev_12.rpy:119
+translate spanish main_12_3b535c02:
+
+    # aharon "You can use my title in rituals, I will help you if possible."
+    aharon "You can use my title in rituals, I will help you if possible."
+
+# game/characters/player/ev_12.rpy:122
+translate spanish main_12_21a22c16:
+
+    # aharon "Go to Kiara."
+    aharon "Go to Kiara."
+
+# game/characters/player/ev_12.rpy:123
+translate spanish main_12_7d787737:
+
+    # aharon "She will teach you how to set up rituals."
+    aharon "She will teach you how to set up rituals."
+

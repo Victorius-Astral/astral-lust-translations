@@ -508,3 +508,225 @@ translate spanish strings:
     # game/characters/kiara/speak.rpy:186
     old "Pick an outfit."
     new "Elige un atuendo."
+# TODO: Translation updated at 2022-09-23 12:55
+
+# game/characters/kiara/speak.rpy:41
+translate spanish kiara_menu1_a6cb9430:
+
+    # kiara "What made you interested in these?"
+    kiara "What made you interested in these?"
+
+# game/characters/kiara/speak.rpy:45
+translate spanish kiara_menu1_f5796b59:
+
+    # me "Aharon..."
+    me "Aharon..."
+
+# game/characters/kiara/speak.rpy:49
+translate spanish kiara_menu1_f67d3b7c:
+
+    # kiara "Eh..."
+    kiara "Eh..."
+
+# game/characters/kiara/speak.rpy:50
+translate spanish kiara_menu1_3788e36e:
+
+    # kiara "What does He want you to do?"
+    kiara "What does He want you to do?"
+
+# game/characters/kiara/speak.rpy:51
+translate spanish kiara_menu1_54865bce:
+
+    # me "He gave me His honorary name, and told me you'll teach me how to set up rituals."
+    me "He gave me His honorary name, and told me you'll teach me how to set up rituals."
+
+# game/characters/kiara/speak.rpy:52
+translate spanish kiara_menu1_79498a41:
+
+    # kiara "I see."
+    kiara "I see."
+
+# game/characters/kiara/speak.rpy:56
+translate spanish kiara_menu1_2c5a554c:
+
+    # kiara "I wouldn't trust this madman's intentions, but there is indeed nothing wrong with teaching you this."
+    kiara "I wouldn't trust this madman's intentions, but there is indeed nothing wrong with teaching you this."
+
+# game/characters/kiara/speak.rpy:59
+translate spanish kiara_menu1_2caec448:
+
+    # me "I learned basics about mysticism, and I learned about rituals, but only briefly. I would like to learn how to prepare them."
+    me "I learned basics about mysticism, and I learned about rituals, but only briefly. I would like to learn how to prepare them."
+
+# game/characters/kiara/speak.rpy:60
+translate spanish kiara_menu1_b6698e22:
+
+    # kiara "I see. I'll teach you, it's just the basics, anyway."
+    kiara "I see. I'll teach you, it's just the basics, anyway."
+
+# game/characters/kiara/speak.rpy:62
+translate spanish kiara_menu1_9bc6ca58:
+
+    # kiara "The goal of the ritual is to receive a response of the being you pray to. It can be a revelation, a blessing, or a bestowement. Similarly a malicious being could curse you."
+    kiara "The goal of the ritual is to receive a response of the being you pray to. It can be a revelation, a blessing, or a bestowement. Similarly a malicious being could curse you."
+
+# game/characters/kiara/speak.rpy:63
+translate spanish kiara_menu1_bff1b3b9:
+
+    # kiara "Rituals consist of four parts. The first is preparing the altar. It usually means lighting three candles, and placing various materials around the candles. The candles alone will make the ritual work, though. The rest is just a custom."
+    kiara "Rituals consist of four parts. The first is preparing the altar. It usually means lighting three candles, and placing various materials around the candles. The candles alone will make the ritual work, though. The rest is just a custom."
+
+# game/characters/kiara/speak.rpy:64
+translate spanish kiara_menu1_244b4367:
+
+    # kiara "The second step is to read the being's title. Make sure to thought what you wish to pray for. If you asked me to let you remain lucid in dreams, it would fail, as I don't have any dream authorities, and can't bless you."
+    kiara "The second step is to read the being's title. Make sure to thought what you wish to pray for. If you asked me to let you remain lucid in dreams, it would fail, as I don't have any dream authorities, and can't bless you."
+
+# game/characters/kiara/speak.rpy:65
+translate spanish kiara_menu1_4e06b9e6:
+
+    # kiara "The third step is to read the incantation. Later I'll teach you a dream incantation. It can be used to pray for dreams, which I just mentioned."
+    kiara "The third step is to read the incantation. Later I'll teach you a dream incantation. It can be used to pray for dreams, which I just mentioned."
+
+# game/characters/kiara/speak.rpy:66
+translate spanish kiara_menu1_985760be:
+
+    # kiara "You might pray to Aharon in that regard... He for some reason doesn't seem to try to hurt you."
+    kiara "You might pray to Aharon in that regard... He for some reason doesn't seem to try to hurt you."
+
+# game/characters/kiara/speak.rpy:70
+translate spanish kiara_menu1_693c23e6:
+
+    # me "What's Aharon's title?"
+    me "What's Aharon's title?"
+
+# game/characters/kiara/speak.rpy:71
+translate spanish kiara_menu1_69c3b5cc:
+
+    # kiara "Attendant of Horror, Miracle Invoker, High Priest of the Black"
+    kiara "Attendant of Horror, Miracle Invoker, High Priest of the Black"
+
+# game/characters/kiara/speak.rpy:75
+translate spanish kiara_menu1_d1c0eb01:
+
+    # me "Is Aharon related to the dreams?"
+    me "Is Aharon related to the dreams?"
+
+# game/characters/kiara/speak.rpy:76
+translate spanish kiara_menu1_0767bccc:
+
+    # kiara "No, but he has an authority over miracles, as you know from His title - Miracle Invoker. He can answer most rituals, but the effects will be weaker than someone having authority over given field."
+    kiara "No, but he has an authority over miracles, as you know from His title - Miracle Invoker. He can answer most rituals, but the effects will be weaker than someone having authority over given field."
+
+# game/characters/kiara/speak.rpy:77
+translate spanish kiara_menu1_77994322:
+
+    # me "So Aharon is a safe bet. Low chance of failure, but small returns."
+    me "So Aharon is a safe bet. Low chance of failure, but small returns."
+
+# game/characters/kiara/speak.rpy:78
+translate spanish kiara_menu1_8cba7df2:
+
+    # kiara "Basically yes. But don't forget that His blessings in His other authorities are going to be top notch. After all, He's close to being a God."
+    kiara "Basically yes. But don't forget that His blessings in His other authorities are going to be top notch. After all, He's close to being a God."
+
+# game/characters/kiara/speak.rpy:79
+translate spanish kiara_menu1_2145b242:
+
+    # me "What's the last step?"
+    me "What's the last step?"
+
+# game/characters/kiara/speak.rpy:80
+translate spanish kiara_menu1_72023d8c:
+
+    # kiara "The sacrifice. You can sacrifice a lot of different items, but remember, the more spiritual the nature of the item, the greater the response you'll receive."
+    kiara "The sacrifice. You can sacrifice a lot of different items, but remember, the more spiritual the nature of the item, the greater the response you'll receive."
+
+# game/characters/kiara/speak.rpy:81
+translate spanish kiara_menu1_e9ef7f00:
+
+    # kiara "Some sacrifices have symbolic meaning, and the reply steems solely from the being's level. If you sacrifice Sigil of the Black cultists wear to the Aharon, while in itself it's an ordinary item, He might provide stronger reply." id kiara_menu1_e9ef7f00
+    kiara "Some sacrifices have symbolic meaning, and the reply steems solely from the being's level. If you sacrifice Sigil of the Black cultists wear to the Aharon, while in itself it's an ordinary item, He might provide stronger reply." id kiara_menu1_e9ef7f00
+
+# game/characters/kiara/speak.rpy:82
+translate spanish kiara_menu1_aa1337b8:
+
+    # kiara "You can also use your own blood as a sacrifice. But it's dangerous. If the being is malicious, the curse you'll suffer will be tremendous. Almost all evil beings are interested in this sacrifice."
+    kiara "You can also use your own blood as a sacrifice. But it's dangerous. If the being is malicious, the curse you'll suffer will be tremendous. Almost all evil beings are interested in this sacrifice."
+
+# game/characters/kiara/speak.rpy:83
+translate spanish kiara_menu1_00d4437e:
+
+    # kiara "Nature of the sacrifice will affect the reply as well. If you perform a dream invocation with a corrupted or evil sacrifice, don't expect the dreams to be nice."
+    kiara "Nature of the sacrifice will affect the reply as well. If you perform a dream invocation with a corrupted or evil sacrifice, don't expect the dreams to be nice."
+
+# game/characters/kiara/speak.rpy:88
+translate spanish kiara_menu1_b335a096:
+
+    # "[kiara] continues to teach you the specifics of rituals like how to exactly place the candles."
+    "[kiara] continues to teach you the specifics of rituals like how to exactly place the candles."
+
+# game/characters/kiara/speak.rpy:89
+translate spanish kiara_menu1_7698f02c:
+
+    # "It takes you an hour before grasping the corresponding content."
+    "It takes you an hour before grasping the corresponding content."
+
+# game/characters/kiara/speak.rpy:93
+translate spanish kiara_menu1_a0a697c9:
+
+    # me "Thank you."
+    me "Thank you."
+
+# game/characters/kiara/speak.rpy:94
+translate spanish kiara_menu1_e989775d:
+
+    # kiara "It's alright. Remember, NEVER pray to beings whose intentions you don't know."
+    kiara "It's alright. Remember, NEVER pray to beings whose intentions you don't know."
+
+# game/characters/kiara/speak.rpy:95
+translate spanish kiara_menu1_a1c73fe1:
+
+    # me "Got it."
+    me "Got it."
+
+# game/characters/kiara/speak.rpy:96
+translate spanish kiara_menu1_58cb8ac7:
+
+    # kiara "If you want to seek dreams, you can use Dream Invocation to sacrifice {gold}Frozen Screams{/gold} to me."
+    kiara "If you want to seek dreams, you can use Dream Invocation to sacrifice {gold}Frozen Screams{/gold} to me."
+
+# game/characters/kiara/speak.rpy:97
+translate spanish kiara_menu1_eaaf9244:
+
+    # kiara "It's infused with the knowledge that I can use to make you restless, making your nights full of dreams."
+    kiara "It's infused with the knowledge that I can use to make you restless, making your nights full of dreams."
+
+# game/characters/kiara/speak.rpy:98
+translate spanish kiara_menu1_37093d95:
+
+    # kiara "I don't have authority over dreams, so it'll be a waste of resources to perform Dream Incantation towards me, besides this one case, as it also involves knowledge."
+    kiara "I don't have authority over dreams, so it'll be a waste of resources to perform Dream Incantation towards me, besides this one case, as it also involves knowledge."
+
+# game/characters/kiara/speak.rpy:102
+translate spanish kiara_menu1_4f3351e3:
+
+    # kiara "Take. You can set up a few rituals with these. Remember, consider every word you say carefully."
+    kiara "Take. You can set up a few rituals with these. Remember, consider every word you say carefully."
+
+# game/characters/kiara/speak.rpy:103
+translate spanish kiara_menu1_c315236c:
+
+    # me "Got it, thank you."
+    me "Got it, thank you."
+
+translate spanish strings:
+
+    # game/characters/kiara/speak.rpy:15
+    old "How to set up a ritual?"
+    new "How to set up a ritual?"
+
+    # game/characters/kiara/speak.rpy:106
+    old "You can now perform the rituals! You can do so on the altar in your room."
+    new "You can now perform the rituals! You can do so on the altar in your room."
+
