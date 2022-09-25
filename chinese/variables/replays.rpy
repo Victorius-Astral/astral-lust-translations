@@ -4,47 +4,47 @@ translate chinese strings:
 
     # game/variables/replays.rpy:30
     old "First Impression"
-    new "First Impression"
+    new "第一印象"
 
     # game/variables/replays.rpy:30
     old "Teasing"
-    new "Teasing"
+    new "戏弄"
 
     # game/variables/replays.rpy:30
     old "Exploration - Sex Shop"
-    new "Exploration - Sex Shop"
+    new "探险 - 情趣玩具店"
 
     # game/variables/replays.rpy:30
     old "Returning Favor"
-    new "Returning Favor"
+    new "回礼"
 
     # game/variables/replays.rpy:30
     old "Taste of a Good Girl"
-    new "Taste of a Good Girl"
+    new "可爱女孩的滋味"
 
     # game/variables/replays.rpy:30
     old "Training"
-    new "Training"
+    new "训练"
 
     # game/variables/replays.rpy:30
     old "Q&A"
-    new "Q&A"
+    new "问答"
 
     # game/variables/replays.rpy:30
     old "Bathroom Friend"
-    new "Bathroom Friend"
+    new "浴友"
 
     # game/variables/replays.rpy:30
     old "Sick Alice"
-    new "Sick Alice"
+    new "生病的 Alice"
 
     # game/variables/replays.rpy:30
     old "First Time"
-    new "First Time"
+    new "第一次"
 
     # game/variables/replays.rpy:30
     old "Talk About Outfits"
-    new "Talk About Outfits"
+    new "聊聊衣裳"
 
     # game/variables/replays.rpy:30
     old "Night Cuddler part 1"
