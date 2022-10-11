@@ -899,61 +899,61 @@ translate spanish strings:
     # game/variables/replays.rpy:352
     old "EXPLORE"
     new "EXPLORA"
-# TODO: Translation updated at 2022-10-11 16:03
+# : Translation updated at 2022-10-11 16:03
 
 translate spanish strings:
 
     # game/variables/replays.rpy:64
     old "Ask Alice to make herself an outfit."
-    new "Ask Alice to make herself an outfit."
+    new "Pídele a Alice que se haga un traje."
 
     # game/variables/replays.rpy:64
     old "Schoolgirl"
-    new "Schoolgirl"
+    new "Colegiala"
 
     # game/variables/replays.rpy:64
     old "Have Alice come for a sleepover."
-    new "Have Alice come for a sleepover."
+    new "Haz que Alice venga para que venga a dormir."
 
     # game/variables/replays.rpy:64
     old "Train"
-    new "Train"
+    new "Entrenar"
 
     # game/variables/replays.rpy:64
     old "Train with Alice in the gym."
-    new "Train with Alice in the gym."
+    new "Entrenar con Alice en el gimnasio."
 
     # game/variables/replays.rpy:64
     old "Weird noises coming from Grace's room wake you up at night. Maybe it's worth checking what's going on?"
-    new "Weird noises coming from Grace's room wake you up at night. Maybe it's worth checking what's going on?"
+    new "Ruidos extraños provenientes de la habitación de Grace te despiertan por la noche. ¿Tal vez vale la pena comprobar lo que está pasando?"
 
     # game/variables/replays.rpy:64
     old "TASKS"
-    new "TASKS"
+    new "TAREAS"
 
     # game/variables/replays.rpy:64
     old "Reinforce Coat"
-    new "Reinforce Coat"
+    new "Reforzar Abrigo"
 
     # game/variables/replays.rpy:64
     old "Ask Alice to help you reinforce your coat."
-    new "Ask Alice to help you reinforce your coat."
+    new "Pídele a Alice que te ayude a reforzar tu abrigo."
 
     # game/variables/replays.rpy:64
-    old "Dismalte Old Clothes"
-    new "Dismalte Old Clothes"
+    old "Dismantle Old Clothes"
+    new "Desmantela Prendas Viejas"
 
     # game/variables/replays.rpy:64
-    old "Ask Alice to dismalte old clothes."
-    new "Ask Alice to dismalte old clothes."
+    old "Ask Alice to dismantle old clothes."
+    new "Pídele a Alice que desmantele prendas viejas."
 
     # game/variables/replays.rpy:64
     old "Find Combat Gear"
-    new "Find Combat Gear"
+    new "Busca equipo de combate"
 
     # game/variables/replays.rpy:64
     old "Ask Alice to help you find gear to use in combat."
-    new "Ask Alice to help you find gear to use in combat."
+    new "Pídele a Alice que te ayude a encontrar equipo para usar en combate."
 
     # game/variables/replays.rpy:64
     old "SEXUAL"
@@ -961,11 +961,11 @@ translate spanish strings:
 
     # game/variables/replays.rpy:64
     old "Anal - Shower"
-    new "Anal - Shower"
+    new "Anal - Ducha"
 
     # game/variables/replays.rpy:64
     old "Get her to agree for an anal under the shower."
-    new "Get her to agree for an anal under the shower."
+    new "Haz que acepte un anal bajo la ducha."
 
     # game/variables/replays.rpy:64
     old "Anal - WC"
@@ -973,39 +973,39 @@ translate spanish strings:
 
     # game/variables/replays.rpy:64
     old "Have fun with her on a toilet."
-    new "Have fun with her on a toilet."
+    new "Diviértete con ella en el baño."
 
     # game/variables/replays.rpy:64
     old "Masturbate - Shower"
-    new "Masturbate - Shower"
+    new "Masturbación - Ducha"
 
     # game/variables/replays.rpy:64
     old "Get her to masturbate while she's under the shower."
-    new "Get her to masturbate while she's under the shower."
+    new "Haz que se masturbe mientras está bajo la ducha."
 
     # game/variables/replays.rpy:64
     old "Ask Alice to blow you."
-    new "Ask Alice to blow you."
+    new "Pídele a Alice que te la chupe."
 
     # game/variables/replays.rpy:64
     old "Blowjob - Gym"
-    new "Blowjob - Gym"
+    new "Oral - Gimnasio"
 
     # game/variables/replays.rpy:64
     old "Kiss Alice while she's in the gym."
-    new "Kiss Alice while she's in the gym."
+    new "Besa a Alice mientras está en el Gimnasio."
 
     # game/variables/replays.rpy:64
     old "Blowjob - Your Bed"
-    new "Blowjob - Your Bed"
+    new "Oral - Tu Cama"
 
     # game/variables/replays.rpy:64
     old "Have fun with Alice sleeping in your bed."
-    new "Have fun with Alice sleeping in your bed."
+    new "Diviértete con Alice durmiendo en tu cama."
 
     # game/variables/replays.rpy:64
     old "Blowjob - Shower"
-    new "Blowjob - Shower"
+    new "Oral - Ducha"
 
     # game/variables/replays.rpy:64
     old "Get her to take out her 'friend' under the shower."
@@ -1013,83 +1013,83 @@ translate spanish strings:
 
     # game/variables/replays.rpy:64
     old "Blowjob - Wakeup"
-    new "Blowjob - Wakeup"
+    new "Oral - Despertar"
 
     # game/variables/replays.rpy:64
     old "Have Alice wake you up."
-    new "Have Alice wake you up."
+    new "Haz que Alice te despierte."
 
     # game/variables/replays.rpy:64
     old "Handjob - Her Bed"
-    new "Handjob - Her Bed"
+    new "Con las manos - Su Cama"
 
     # game/variables/replays.rpy:64
     old "Spend a night with her in her bed."
-    new "Spend a night with her in her bed."
+    new "Pasa una noche con ella en su cama."
 
     # game/variables/replays.rpy:64
     old "Propose Alice to get her to an orgasm with your mouth."
-    new "Propose Alice to get her to an orgasm with your mouth."
+    new "Proponle a Alice el llevarla al orgasmo con su boca."
 
     # game/variables/replays.rpy:64
     old "Cunnilingus - Your Bed"
-    new "Cunnilingus - Your Bed"
+    new "Cunnilingus - Tu Cama"
 
     # game/variables/replays.rpy:64
     old "Follow her story to unlock this scene."
-    new "Follow her story to unlock this scene."
+    new "Sigue su historia para desbloquear esta escena."
 
     # game/variables/replays.rpy:64
     old "Footjob - Nun"
-    new "Footjob - Nun"
+    new "Con los pies - Monja"
 
     # game/variables/replays.rpy:64
     old "Ask Alice to have fun in a nun outfit."
-    new "Ask Alice to have fun in a nun outfit."
+    new "Pídele a Alice que la pasen bien con su traje de monja."
 
     # game/variables/replays.rpy:64
     old "Kiss - Her Room"
-    new "Kiss - Her Room"
+    new "Beso - Su Habitación"
 
     # game/variables/replays.rpy:64
     old "Kiss Alice while she's in her room."
-    new "Kiss Alice while she's in her room."
+    new "Besa a Alice mientras está en su habitación."
 
     # game/variables/replays.rpy:64
     old "Kiss - Gym"
-    new "Kiss - Gym"
+    new "Beso - Gimnasio"
 
     # game/variables/replays.rpy:64
     old "Ask her to have sex. Unlock by following Alice's story."
-    new "Ask her to have sex. Unlock by following Alice's story."
+    new "Pídele tener sexo. Desbloqueado siguiendo la historia de Alice."
 
     # game/variables/replays.rpy:64
     old "Sex - Gym"
-    new "Sex - Gym"
+    new "Sexo - Gimnasio"
 
     # game/variables/replays.rpy:64
     old "Sex - Your Bed"
-    new "Sex - Your Bed"
+    new "Sexo - Tu Cama"
 
     # game/variables/replays.rpy:64
     old "Sex - Nun"
-    new "Sex - Nun"
+    new "Sexo - Monja"
 
     # game/variables/replays.rpy:64
     old "Sex - Wakeup"
-    new "Sex - Wakeup"
+    new "Sexo - Despertar"
 
     # game/variables/replays.rpy:193
     old "First Night"
-    new "First Night"
+    new "Primera Noche"
 
     # game/variables/replays.rpy:193
     old "Purpose part 1"
-    new "Purpose part 1"
+    new "Propósito parte 1"
 
     # game/variables/replays.rpy:193
     old "Library part 1"
-    new "Library part 1"
+    new "Biblioteca parte 1"
 
     # game/variables/replays.rpy:193
     old "Purpose part 2"
@@ -1097,9 +1097,8 @@ translate spanish strings:
 
     # game/variables/replays.rpy:193
     old "Library part 2"
-    new "Library part 2"
+    new "Biblioteca parte 2"
 
     # game/variables/replays.rpy:193
     old "Beginning of Recurring Nightmare"
-    new "Beginning of Recurring Nightmare"
-
+    new "Comienzo de Pesadilla Recurrente"

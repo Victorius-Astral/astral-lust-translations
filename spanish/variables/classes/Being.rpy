@@ -27,23 +27,22 @@ translate spanish strings:
     # game/variables/classes/Being.rpy:1608
     old "Buff removed: {buff} {{image={image}}}"
     new "Buff removido: {buff} {{image={image}}}"
-# TODO: Translation updated at 2022-10-11 16:03
+# : Translation updated at 2022-10-11 16:03
 
 translate spanish strings:
 
     # game/variables/classes/Being.rpy:1598
     old "Effect granted: {buff2} {{image={image2}}} ({amount})\\Effect removed: {buff} {{image={image}}}"
-    new "Effect granted: {buff2} {{image={image2}}} ({amount})\\Effect removed: {buff} {{image={image}}}"
+    new "Efecto dado: {buff2} {{image={image2}}} ({amount})\\Efecto removido: {buff} {{image={image}}}"
 
     # game/variables/classes/Being.rpy:1603
     old "Effect reduced: {buff} {{image={image}}} ({amount})"
-    new "Effect reduced: {buff} {{image={image}}} ({amount})"
+    new "Efecto reducido: {buff} {{image={image}}} ({amount})"
 
     # game/variables/classes/Being.rpy:1608
     old "Effect removed: {buff} {{image={image}}}"
-    new "Effect removed: {buff} {{image={image}}}"
+    new "Efecto removido: {buff} {{image={image}}}"
 
     # game/variables/classes/Being.rpy:1627
     old "Effect granted: {buff} {{image={image}}} ({amount})"
-    new "Effect granted: {buff} {{image={image}}} ({amount})"
-
+    new "Efecto dado: {buff} {{image={image}}} ({amount})"
