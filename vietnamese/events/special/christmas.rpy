@@ -64,7 +64,7 @@ translate vietnamese christ_intro_5315173a:
 translate vietnamese christ_intro_4e30b7f9:
 
     # aharon "Indeed. It's a dream the Christmas Spirit forced you into."
-    aharon "Thật. Đó là một giấc mơ mà Thần Giáng sinh buộc ngươi phải làm."
+    aharon "Nhưng nó là thật đấy. Đó là một giấc mơ mà Thần Giáng sinh buộc ngươi phải làm."
 
 # game/events/special/christmas.rpy:108
 translate vietnamese christ_intro_60341cdb:
@@ -112,13 +112,13 @@ translate vietnamese christ_intro_8bbf6387:
 translate vietnamese christ_intro_1a223fd2:
 
     # aharon "Only you'll be aware of the singularity of this event. Your women won't. They'll return to normalcy along you."
-    aharon "Chỉ bạn mới biết về sự kỳ lạ của sự kiện này. Những người phụ nữ của ngươi sẽ không. Họ sẽ trở lại trạng thái bình thường cùng với ngươi."
+    aharon "Chỉ ngươi mới biết về sự kỳ lạ của sự kiện này. Những người phụ nữ của ngươi thì không. Họ sẽ trở lại trạng thái bình thường cùng với ngươi."
 
 # game/events/special/christmas.rpy:125
 translate vietnamese christ_intro_5c1c8958:
 
     # me "Great. So, what do I have to do?"
-    me "Tuyệt. Vậy bây giờ tôi phải làm gì?"
+    me "Tuyệt. Vậy bây giờ phải làm gì?"
 
 # game/events/special/christmas.rpy:126
 translate vietnamese christ_intro_1d0c3fde:
@@ -130,19 +130,19 @@ translate vietnamese christ_intro_1d0c3fde:
 translate vietnamese christ_intro_716f0d76:
 
     # me "That's it? I thought it would be harder."
-    me "Chỉ vậy thôi á? Tôi tưởng là nó sẽ khó hơn chứ."
+    me "Chỉ vậy thôi á? Không phải là nó phải khó hơn à."
 
 # game/events/special/christmas.rpy:131
 translate vietnamese christ_intro_51e9ffb6:
 
     # aharon "Indeed, but this being is overtly concerned over appearances, as you can see. If it's unwanted, it would defeat its own purpose."
-    aharon "Thật vậy, nhưng thực thể này được quan tâm quá mức đến vẻ bề ngoài, như bạn có thể thấy. Nếu nó không mong muốn, nó sẽ đánh bại mục đích của chính nó."
+    aharon "Thật vậy, nhưng thực thể này quan tâm quá mức đến vẻ bề ngoài, như ngươi có thể thấy. Nếu nó không muốn, nó sẽ đánh bại mục đích của chính nó."
 
 # game/events/special/christmas.rpy:132
 translate vietnamese christ_intro_d1ef5a89:
 
     # me "Alright, I will wake up the girls. Thanks for the warning, [aharon]"
-    me "Được rồi, tôi sẽ đánh thức các cô gái. Cảm ơn vì đã cảnh báo, [aharon]"
+    me "Được rồi, tao sẽ đánh thức các cô gái. Cảm ơn vì đã cảnh báo, [aharon]"
 
 # game/events/special/christmas.rpy:136
 translate vietnamese christ_intro_6532543c:
@@ -184,7 +184,7 @@ translate vietnamese xmas_savenia_24e3e9dc:
 translate vietnamese xmas_savenia_8f87384a:
 
     # savenia "This eggnog is way too light for that. God, what do I need to do to get drunk here?."
-    savenia "Cốc Eggnog này vẫn còn quá nhẹ. Chúa ơi, tôi cần làm gì để say đây?."
+    savenia "Cốc Trứng Sữa này vẫn còn quá nhẹ. Chúa ơi, tôi cần làm gì để say đây?."
 
 # game/events/special/christmas.rpy:181
 translate vietnamese xmas_savenia_634731e7:
@@ -202,7 +202,7 @@ translate vietnamese xmas_savenia_0a81724c:
 translate vietnamese xmas_savenia_c47f6b33:
 
     # savenia "Always appreciate free drinks though, light as they are."
-    savenia "Luôn đánh giá cao đồ uống miễn phí, nhẹ như chúng vốn có."
+    savenia "Luôn đánh giá trân trọng uống miễn phí, nhẹ như chúng vốn có."
 
 # game/events/special/christmas.rpy:188
 translate vietnamese xmas_savenia_f50f1387:
@@ -226,13 +226,13 @@ translate vietnamese xmas_savenia_664c7768:
 translate vietnamese xmas_savenia_998f93fe:
 
     # savenia "Right... Well, take your time. These will take a while to... do anything, really."
-    savenia "Đúng ... Vâng, hãy dành thời gian của bạn. Sẽ mất một lúc để ... làm bất cứ điều gì, thực sự."
+    savenia "Phải rồi... chà, cứ từ từ mà làm thôi. Sẽ mất một lúc để... làm bất cứ điều gì đó."
 
 # game/events/special/christmas.rpy:195
 translate vietnamese xmas_savenia_be3aa168:
 
     # me "Can't promise anything, so enjoy 'em while they last."
-    me "Không thể hứa bất cứ điều gì, vì vậy hãy tận hưởng chúng trong khi chúng còn lại."
+    me "Không hứa trước được gì đâu, nên cứ tận hưởng chúng khi còn có thể đi."
 
 # game/events/special/christmas.rpy:205
 translate vietnamese xmas_grace_2ab2884c:
@@ -244,7 +244,7 @@ translate vietnamese xmas_grace_2ab2884c:
 translate vietnamese xmas_grace_1b4d1ec4:
 
     # me "Look at her, is that [grace]?"
-    me "Hãy nhìn cô ấy, đó là [grace]?"
+    me "Nhìn kìa, đó là [grace]?"
 
 # game/events/special/christmas.rpy:210
 translate vietnamese xmas_grace_335e227b:
@@ -262,7 +262,7 @@ translate vietnamese xmas_grace_929cf9e7:
 translate vietnamese xmas_grace_b8631a73:
 
     # me "[grace], behave yourself or there won't treats for you."
-    me "[grace], hãy cư xử với chính mình nếu không sẽ không có sự đối xử nào dành cho bạn."
+    me "[grace], chú ý cách cư xử nào nếu không thì em sẽ không có quà đâu."
 
 # game/events/special/christmas.rpy:216
 translate vietnamese xmas_grace_56c16462:
@@ -274,7 +274,7 @@ translate vietnamese xmas_grace_56c16462:
 translate vietnamese xmas_grace_5cd6726a:
 
     # me "Better. Now, wake up so we can go back."
-    me "Tốt hơn. Bây giờ, thức dậy để chúng ta có thể quay lại."
+    me "Tốt hơn rồi đấy. Nào, tỉnh dậy để chúng ta có thể quay lại thôi."
 
 # game/events/special/christmas.rpy:218
 translate vietnamese xmas_grace_8e889da2:
@@ -286,7 +286,7 @@ translate vietnamese xmas_grace_8e889da2:
 translate vietnamese xmas_grace_01fb15d4:
 
     # th "This much won't do... Guess I'll have to shake her up a bit more."
-    th "Nhiều như vậy sẽ không làm được ... Đoán là tôi sẽ phải lay cô ấy thêm một chút nữa."
+    th "Như vậy vẫn chưa đủ... Chắc là mình sẽ phải lay cô ấy thêm một chút nữa."
 
 # game/events/special/christmas.rpy:220
 translate vietnamese xmas_grace_d30d034c:
@@ -310,13 +310,13 @@ translate vietnamese xmas_grace_9ad51b85:
 translate vietnamese xmas_grace_3131dee3:
 
     # me "Come, let me feed give you a cookie!"
-    me "Hãy để tôi cung cấp cho bạn một cái bánh quy!"
+    me "đến đây, anh sẽ cho em một cái bánh quy!"
 
 # game/events/special/christmas.rpy:227
 translate vietnamese xmas_grace_37d946a0:
 
     # th "Your own cookie that lied on the table..."
-    th "Cookie của riêng bạn nằm trên bàn..."
+    th "Bánh quy của riêng em nằm trên bàn..."
 
 # game/events/special/christmas.rpy:231
 translate vietnamese xmas_grace_e9a342f1:
@@ -352,31 +352,31 @@ translate vietnamese xmas_grace_bac0812a:
 translate vietnamese xmas_grace_91bffbf6:
 
     # me "Alright then. Let me get you one more."
-    me "Thôi được. Hãy để tôi lấy cho bạn một cái nữa."
+    me "Thôi được. Để anh lấy cho em một cái nữa."
 
 # game/events/special/christmas.rpy:243
 translate vietnamese xmas_grace_ce74946a:
 
     # th "This is not really working... Let's see if I can spice this up a bit more."
-    th "Điều này không thực sự hiệu quả ... Hãy xem liệu tôi có thể gia vị thêm một chút không."
+    th "Điều này không thực sự hiệu quả... Để xem liệu mình có thể gia vị thêm một chút không."
 
 # game/events/special/christmas.rpy:247
 translate vietnamese xmas_grace_18e2dfd0:
 
     # me "Do you know what would go great with those cookies, [grace]? Milk."
-    me "Bạn có biết điều gì sẽ tuyệt vời hơn với những cookie đó không, [grace]? Sữa."
+    me "Em có biết điều gì còn tuyệt vời hơn mấy cái bánh quy đó không, [grace]? Sữa."
 
 # game/events/special/christmas.rpy:248
 translate vietnamese xmas_grace_1d8ea3e0:
 
     # grace "I want milk."
-    grace "Em muốn sẵ."
+    grace "Em muốn sữa."
 
 # game/events/special/christmas.rpy:249
 translate vietnamese xmas_grace_0272ff92:
 
     # me "So you need to milk me."
-    me "Vì vậy, bạn cần phải cho tôi sữa."
+    me "Vì vậy nên em cần phải anh tôi sữa."
 
 # game/events/special/christmas.rpy:253
 translate vietnamese xmas_grace_3c290f1f:
@@ -388,13 +388,13 @@ translate vietnamese xmas_grace_3c290f1f:
 translate vietnamese xmas_grace_b149ddbe:
 
     # th "She understood the allusion? Unexpected."
-    th "Cô ấy hiểu sự ám chỉ sao? Không ngờ tới luôn đấy."
+    th "em ấy hiểu luôn sao? Không ngờ tới luôn đấy."
 
 # game/events/special/christmas.rpy:255
 translate vietnamese xmas_grace_1b3a9ad8:
 
     # me "Yeah, I'm probably on the naughty list. So, want to be naughty?"
-    me "Vâng, tôi có lẽ nằm trong danh sách nghịch ngợm. Vì vậy, muốn nghịch ngợm?"
+    me "Yeah, có lẽ anh nằm trong danh sách trẻ hư. Vì vậy, muốn làm những thứ hư hỏng chứ?"
 
 # game/events/special/christmas.rpy:259
 translate vietnamese xmas_grace_b6d631e5:
@@ -406,7 +406,7 @@ translate vietnamese xmas_grace_b6d631e5:
 translate vietnamese xmas_grace_a6bcf812:
 
     # me "Great! Let me tear off your 'skin' a bit."
-    me "Tuyệt quá! Hãy để tôi xé 'da' của bạn một chút."
+    me "Tuyệt! Hãy để anh xé 'da' của em một chút."
 
 # game/events/special/christmas.rpy:261
 translate vietnamese xmas_grace_c909e0ea:
@@ -436,19 +436,19 @@ translate vietnamese xmas_grace_4738d23a:
 translate vietnamese xmas_grace_637f62dc:
 
     # grace "Do you want me to move?"
-    grace "Bạn có muốn tôi di chuyển không?"
+    grace "Anh có muốn em di chuyển không?"
 
 # game/events/special/christmas.rpy:269
 translate vietnamese xmas_grace_c42a1491:
 
     # me "Yes [grace]. If you do this right, you'll get a lot of milk to accompany your cookies!"
-    me "Có [grace]. Nếu bạn làm đúng, bạn sẽ nhận được rất nhiều sữa để ăn kèm với bánh quy của mình!"
+    me "Có chứ [grace]. Nếu em làm đúng, em sẽ nhận được rất nhiều sữa để ăn kèm với bánh quy của mình!"
 
 # game/events/special/christmas.rpy:270
 translate vietnamese xmas_grace_1d73bba9:
 
     # grace "Should I use my mouth, then?"
-    grace "Vậy tôi có nên dùng miệng không?"
+    grace "Vậy em có nên dùng miệng không?"
 
 # game/events/special/christmas.rpy:271
 translate vietnamese xmas_grace_50f5e5f9:
@@ -466,13 +466,13 @@ translate vietnamese xmas_grace_cea3d9ce:
 translate vietnamese xmas_grace_lick_155457f6:
 
     # th "She hesitated a bit at first, but this is good."
-    th "Lúc đầu cô ấy hơi do dự, nhưng điều này tốt."
+    th "Lúc đầu cô ấy hơi do dự, nhưng thế này tuyệt đấy."
 
 # game/events/special/christmas.rpy:331
 translate vietnamese xmas_grace_lick_0b336b2e:
 
     # me "That's good [grace]. Well done."
-    me "Thật tốt [grace]. Tốt lắm."
+    me "Tốt lắm [grace]. Tốt lắm."
 
 # game/events/special/christmas.rpy:332
 translate vietnamese xmas_grace_lick_baf8f4db:
@@ -484,7 +484,7 @@ translate vietnamese xmas_grace_lick_baf8f4db:
 translate vietnamese xmas_grace_lick_2fc7209e:
 
     # th "We could make it better though."
-    th "Mặc dù vậy, chúng tôi có thể làm cho nó tốt hơn."
+    th "Mặc dù vậy, chúng ta có thể làm cho nó tốt hơn."
 
 # game/events/special/christmas.rpy:339
 translate vietnamese xmas_grace_slow_5b8f0a20:
@@ -496,7 +496,7 @@ translate vietnamese xmas_grace_slow_5b8f0a20:
 translate vietnamese xmas_grace_slow_2ff49533:
 
     # me "That's what I'm talking about. You learn quick."
-    me "Đó là những gì tôi đang nói về. Bạn học nhanh."
+    me "Thế mới nói chứ. Em học nhanh đấy."
 
 # game/events/special/christmas.rpy:341
 translate vietnamese xmas_grace_slow_baf8f4db:
@@ -508,7 +508,7 @@ translate vietnamese xmas_grace_slow_baf8f4db:
 translate vietnamese xmas_grace_slow_b3e0bef2:
 
     # me "That speed is good... But it's the time for you to take it to your little mouth."
-    me "Tốc độ đó là tốt ... Nhưng đã đến lúc bạn phải đưa nó vào miệng nhỏ của bạn."
+    me "Tốc độ đó là tốt... Nhưng đã đến lúc em phải đưa nó vào miệng của mình rồi đấy."
 
 # game/events/special/christmas.rpy:343
 translate vietnamese xmas_grace_slow_335e227b:
@@ -544,7 +544,7 @@ translate vietnamese xmas_grace_deep_b97ddc0b:
 translate vietnamese xmas_grace_deep_678aa54c:
 
     # me "Sorry, you caught me by surprise."
-    me "Xin lỗi, bạn đã làm tôi ngạc nhiên."
+    me "Xin lỗi, em làm anh ngạc nhiên đấy."
 
 # game/events/special/christmas.rpy:354
 translate vietnamese xmas_grace_deep_fdb4e830:
@@ -1486,7 +1486,7 @@ translate vietnamese xmas_ending_07b072e7:
 translate vietnamese xmas_ending_526932b7:
 
     # lexi "Your present is on the back seat. Take it home with you and leave us!"
-    lexi "Your present is on the back seat. Take it home with you and leave us!"
+    lexi "Quà của anh ở ghế sau. Mang nó về nhà với anh và để lại cho chúng tôi!"
 
 # game/events/special/christmas.rpy:863
 translate vietnamese xmas_ending_c325fe23:
