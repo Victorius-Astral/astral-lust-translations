@@ -1214,3 +1214,45 @@ translate vietnamese strings:
     # game/characters/grace/speak.rpy:27
     old "I need you to cook a dinner for me and Lexi"
     new "Anh cần em nấu một bữa tối cho anh và Lexi"
+# TODO: Translation updated at 2022-10-11 16:06
+
+# game/characters/grace/speak.rpy:88
+translate vietnamese speak_grace_fun_b50ba9c2:
+
+    # grace "You are not getting into my panties!"
+    grace "You are not getting into my panties!"
+
+# game/characters/grace/speak.rpy:89
+translate vietnamese speak_grace_fun_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/characters/grace/speak.rpy:90
+translate vietnamese speak_grace_fun_bbec7c9c:
+
+    # me "It's not that [grace]."
+    me "It's not that [grace]."
+
+# game/characters/grace/speak.rpy:93
+translate vietnamese speak_grace_fun_4fdef178:
+
+    # grace "Then what do you want to ask?"
+    grace "Then what do you want to ask?"
+
+# game/characters/grace/speak.rpy:98
+translate vietnamese speak_grace_fun_c93091b8:
+
+    # grace "What is it?"
+    grace "What is it?"
+
+translate vietnamese strings:
+
+    # game/characters/grace/speak.rpy:58
+    old "Outfits >"
+    new "Outfits >"
+
+    # game/characters/grace/speak.rpy:60
+    old "Bunny >{#visible}"
+    new "Bunny >{#visible}"
+
