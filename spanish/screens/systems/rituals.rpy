@@ -76,7 +76,7 @@ translate spanish performRituals_returned_9fdad853:
 translate spanish performRituals_returned_c78c88eb:
 
     # me "Let the {gold}[sacrifice_text!t]{/gold} showcase my reverence."
-    me "Que el {gold}[sacrifice_text!t]{/gold} muestre mi reverencia."
+    me "Que este sacrificio de {gold}[sacrifice_text!t]{/gold} muestre mi reverencia."
 
 # game/screens/systems/rituals.rpy:590
 translate spanish performRituals_returned_c20a4d31:
