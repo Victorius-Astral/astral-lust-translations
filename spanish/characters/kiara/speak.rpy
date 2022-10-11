@@ -729,3 +729,17 @@ translate spanish strings:
     # game/characters/kiara/speak.rpy:106
     old "You can now perform the rituals! You can do so on the altar in your room."
     new "¡Ahora puedes realizar los rituales! Puedes hacerlo en el altar de tu habitación."
+# TODO: Translation updated at 2022-10-11 16:03
+
+# game/characters/kiara/speak.rpy:57
+translate spanish kiara_menu1_b9f57483:
+
+    # me "I have no idea."
+    me "I have no idea."
+
+# game/characters/kiara/speak.rpy:69
+translate spanish kiara_menu1_4612353a:
+
+    # kiara "The second step is to read the being's title. Make sure to have thought in what you wish to pray for. If you asked me to let you remain lucid in dreams, it would fail, as I don't have any dream authorities, and can't bless you."
+    kiara "The second step is to read the being's title. Make sure to have thought in what you wish to pray for. If you asked me to let you remain lucid in dreams, it would fail, as I don't have any dream authorities, and can't bless you."
+
