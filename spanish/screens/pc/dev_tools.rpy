@@ -16,7 +16,7 @@ translate spanish strings:
 
     # game/screens/pc/dev_tools.rpy:54
     old "All Keys"
-    new "Todas las Teclas"
+    new "Todas las Llaves"
 
     # game/screens/pc/dev_tools.rpy:55
     old "All Containers"

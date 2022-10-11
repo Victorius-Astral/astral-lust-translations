@@ -634,7 +634,7 @@ translate spanish lola_3_fun5_ed32a802:
 translate spanish lola_3_fun5_74eaa57d:
 
     # lola "Till next time."
-    lola "Hasta la próxima'."
+    lola "Hasta la próxima."
 
 translate spanish strings:
 

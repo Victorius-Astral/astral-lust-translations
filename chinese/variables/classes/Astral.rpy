@@ -40,15 +40,11 @@
     old "HELP"
     new "帮助"
 
-# TODO: Translation updated at 2022-06-15 06:53
-
 translate chinese strings:
 
     # game/variables/classes/Astral.rpy:465
     old "Lost items:"
-    new "Lost items:"
-
-# TODO: Translation updated at 2022-08-20 13:47
+    new "丢失物品:"
 
 translate chinese strings:
 

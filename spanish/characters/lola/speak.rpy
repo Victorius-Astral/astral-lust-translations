@@ -28,7 +28,7 @@ translate spanish speak_lola_menu1_937dbbb4:
 translate spanish speak_lola_menu1_10326968:
 
     # lola "If we need to.."
-    lola "Si tenemos que..."
+    lola "Si hace falta..."
 
 # game/characters/lola/speak.rpy:24
 translate spanish speak_lola_menu1_2c05fd9e:

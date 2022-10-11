@@ -243,3 +243,104 @@ translate spanish strings:
     # game/events/dreams/deal_with_the_devil.rpy:91
     old "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
     new "[[Cordura será 1%%, perderás todas tus cartas. Influencia de Eldritch se debilita por 4 puntos. Influencia: [player.author_influence]/10]"
+# : Translation updated at 2022-09-23 12:55
+
+# game/events/dreams/deal_with_the_devil.rpy:110
+translate spanish d_Deal_with_the_Devil_3_menu1_75df7159:
+
+    # devil "{evil}Hahaha!{/evil}"
+    devil "{evil}¡Hahaha!{/evil}"
+
+# game/events/dreams/deal_with_the_devil.rpy:111
+translate spanish d_Deal_with_the_Devil_3_menu1_44eef04f:
+
+    # devil "{evil}I shall grant you your will.{/evil}"
+    devil "{evil}Te concederé tu deseo.{/evil}"
+
+# game/events/dreams/deal_with_the_devil.rpy:118
+translate spanish d_Deal_with_the_Devil_3_menu1_4af8bc15:
+
+    # devil "{evil}Decadent Monarch, Scorching Nightmare, Father of Desires{/evil}"
+    devil "{evil}Monarca Decadente, Pesadilla Abrasadora, Padre de los Deseos{/evil}"
+
+# game/events/dreams/deal_with_the_devil.rpy:119
+translate spanish d_Deal_with_the_Devil_3_menu1_67ed8805:
+
+    # "Its name makes your head to throb in pain as illusory blood flows down your ears."
+    "Su nombre hace que tu cabeza palpite de dolor mientras la sangre ilusoria fluye por tus oídos."
+
+# game/events/dreams/deal_with_the_devil.rpy:120
+translate spanish d_Deal_with_the_Devil_3_menu1_6aba83f5:
+
+    # me "Argh!"
+    me "¡Argh!"
+
+# game/events/dreams/deal_with_the_devil.rpy:121
+translate spanish d_Deal_with_the_Devil_3_menu1_0110eb39:
+
+    # devil "Haha, let this pain be the price."
+    devil "Haha, que este dolor sea el precio."
+
+# game/events/dreams/deal_with_the_devil.rpy:122
+translate spanish d_Deal_with_the_Devil_3_menu1_4bc02b39:
+
+    # me "That's all?"
+    me "¿Eso es todo?"
+
+# game/events/dreams/deal_with_the_devil.rpy:123
+translate spanish d_Deal_with_the_Devil_3_menu1_9181b3a9:
+
+    # devil "If your sacrifices please me, you'll receive my blessings. If they insult me-"
+    devil "Si tus sacrificios me agradan, recibirás mis bendiciones. Si me insultan-"
+
+# game/events/dreams/deal_with_the_devil.rpy:124
+translate spanish d_Deal_with_the_Devil_3_menu1_c465d04f:
+
+    # devil "Hahaha!"
+    devil "¡Hahaha!"
+
+# game/events/dreams/deal_with_the_devil.rpy:125
+translate spanish d_Deal_with_the_Devil_3_menu1_3820771a_1:
+
+    # me "..."
+    me "..."
+
+# game/events/dreams/deal_with_the_devil.rpy:130
+translate spanish d_Deal_with_the_Devil_3_menu1_d0e2f6d7:
+
+    # devil "Very well."
+    devil "Muy bien."
+
+# game/events/dreams/deal_with_the_devil.rpy:131
+translate spanish d_Deal_with_the_Devil_3_menu1_d424dc21:
+
+    # devil "{evil}We shall met again. Do you agree?{/evil}"
+    devil "{evil}Nos volveremos a ver. ¿Estás de acuerdo?{/evil}"
+
+# game/events/dreams/deal_with_the_devil.rpy:132
+translate spanish d_Deal_with_the_Devil_3_menu1_17dbf313:
+
+    # "Its tone suddenly changed into a monstrous and evil raving, making your soul and mind shiver in horror." id d_Deal_with_the_Devil_3_menu1_17dbf313
+    "Su tono cambió repentinamente a un delirio monstruoso y malvado, haciendo que tu alma y tu mente se estremecieran del horror." id d_Deal_with_the_Devil_3_menu1_17dbf313
+
+# game/events/dreams/deal_with_the_devil.rpy:133
+translate spanish d_Deal_with_the_Devil_3_menu1_0e4aef8c:
+
+    # th "There is something wrong with what 'It' said..."
+    th "Hay algo mal con lo que 'Eso' dijo..."
+
+# game/events/dreams/deal_with_the_devil.rpy:134
+translate spanish d_Deal_with_the_Devil_3_menu1_a2f309d6:
+
+    # me "Yes..."
+    me "Si..."
+
+translate spanish strings:
+
+    # game/events/dreams/deal_with_the_devil.rpy:34
+    old "I wish to know your honorary name, to seek your blessings in the rituals"
+    new "Deseo conocer tu nombre honorífico, para buscar tus bendiciones en los rituales"
+
+    # game/events/dreams/deal_with_the_devil.rpy:34
+    old "Can we make the deal another time?"
+    new "¿Podemos hacer el trato en otro momento?"

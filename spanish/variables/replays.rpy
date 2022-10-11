@@ -792,3 +792,314 @@ translate spanish strings:
     # game/variables/replays.rpy:290
     old "Found Nothing"
     new "No se encontró nada"
+# : Translation updated at 2022-09-23 18:58
+
+translate spanish strings:
+
+    # game/variables/replays.rpy:48
+    old "STORY"
+    new "HISTORIA"
+
+    # game/variables/replays.rpy:48
+    old "OUTFITS"
+    new "TRAJES"
+
+    # game/variables/replays.rpy:48
+    old "ACTIVITIES"
+    new "ACTIVIDADES"
+
+    # game/variables/replays.rpy:48
+    old "WAKEUP"
+    new "DESPIERTA"
+
+    # game/variables/replays.rpy:117
+    old "DATES"
+    new "CITAS"
+
+    # game/variables/replays.rpy:146
+    old "MAIN"
+    new "PRINCIPAL"
+
+    # game/variables/replays.rpy:146
+    old "SIDE"
+    new "SECUNDARIO"
+
+    # game/variables/replays.rpy:167
+    old "SECRET"
+    new "SECRETO"
+
+    # game/variables/replays.rpy:219
+    old "WET"
+    new "HÚMEDO"
+
+    # game/variables/replays.rpy:219
+    old "GOOD"
+    new "BIEN"
+
+    # game/variables/replays.rpy:219
+    old "NIGHTMARE"
+    new "PESADILLA"
+
+    # game/variables/replays.rpy:219
+    old "OTHER"
+    new "OTRO"
+
+    # game/variables/replays.rpy:253
+    old "ALONE"
+    new "SÓLO"
+
+    # game/variables/replays.rpy:253
+    old "Ruined House"
+    new "Casa Arruinada"
+
+    # game/variables/replays.rpy:253
+    old "ALONE - DAMSEL IN DISTRESS"
+    new "SÓLO - DAMISELA EN APUROS"
+
+    # game/variables/replays.rpy:253
+    old "Soldier"
+    new "Soldada"
+
+    # game/variables/replays.rpy:253
+    old "Bimbo"
+    new "Bimbo"
+
+    # game/variables/replays.rpy:253
+    old "Devotee"
+    new "Devota"
+
+    # game/variables/replays.rpy:253
+    old "Pregnant"
+    new "Embarazada"
+
+    # game/variables/replays.rpy:253
+    old "LITTLE FOX"
+    new "LITTLE FOX"
+
+    # game/variables/replays.rpy:309
+    old "HOTEL"
+    new "HOTEL"
+
+    # game/variables/replays.rpy:315
+    old "ENDINGS"
+    new "FINALES"
+
+    # game/variables/replays.rpy:315
+    old "DISCORD"
+    new "DISCORD"
+
+    # game/variables/replays.rpy:315
+    old "Dragon Slayer"
+    new "Caza Dragones"
+
+    # game/variables/replays.rpy:315
+    old "CHRISTMAS"
+    new "NAVIDAD"
+
+    # game/variables/replays.rpy:352
+    old "EXPLORE"
+    new "EXPLORA"
+# TODO: Translation updated at 2022-10-11 16:03
+
+translate spanish strings:
+
+    # game/variables/replays.rpy:64
+    old "Ask Alice to make herself an outfit."
+    new "Ask Alice to make herself an outfit."
+
+    # game/variables/replays.rpy:64
+    old "Schoolgirl"
+    new "Schoolgirl"
+
+    # game/variables/replays.rpy:64
+    old "Have Alice come for a sleepover."
+    new "Have Alice come for a sleepover."
+
+    # game/variables/replays.rpy:64
+    old "Train"
+    new "Train"
+
+    # game/variables/replays.rpy:64
+    old "Train with Alice in the gym."
+    new "Train with Alice in the gym."
+
+    # game/variables/replays.rpy:64
+    old "Weird noises coming from Grace's room wake you up at night. Maybe it's worth checking what's going on?"
+    new "Weird noises coming from Grace's room wake you up at night. Maybe it's worth checking what's going on?"
+
+    # game/variables/replays.rpy:64
+    old "TASKS"
+    new "TASKS"
+
+    # game/variables/replays.rpy:64
+    old "Reinforce Coat"
+    new "Reinforce Coat"
+
+    # game/variables/replays.rpy:64
+    old "Ask Alice to help you reinforce your coat."
+    new "Ask Alice to help you reinforce your coat."
+
+    # game/variables/replays.rpy:64
+    old "Dismalte Old Clothes"
+    new "Dismalte Old Clothes"
+
+    # game/variables/replays.rpy:64
+    old "Ask Alice to dismalte old clothes."
+    new "Ask Alice to dismalte old clothes."
+
+    # game/variables/replays.rpy:64
+    old "Find Combat Gear"
+    new "Find Combat Gear"
+
+    # game/variables/replays.rpy:64
+    old "Ask Alice to help you find gear to use in combat."
+    new "Ask Alice to help you find gear to use in combat."
+
+    # game/variables/replays.rpy:64
+    old "SEXUAL"
+    new "SEXUAL"
+
+    # game/variables/replays.rpy:64
+    old "Anal - Shower"
+    new "Anal - Shower"
+
+    # game/variables/replays.rpy:64
+    old "Get her to agree for an anal under the shower."
+    new "Get her to agree for an anal under the shower."
+
+    # game/variables/replays.rpy:64
+    old "Anal - WC"
+    new "Anal - WC"
+
+    # game/variables/replays.rpy:64
+    old "Have fun with her on a toilet."
+    new "Have fun with her on a toilet."
+
+    # game/variables/replays.rpy:64
+    old "Masturbate - Shower"
+    new "Masturbate - Shower"
+
+    # game/variables/replays.rpy:64
+    old "Get her to masturbate while she's under the shower."
+    new "Get her to masturbate while she's under the shower."
+
+    # game/variables/replays.rpy:64
+    old "Ask Alice to blow you."
+    new "Ask Alice to blow you."
+
+    # game/variables/replays.rpy:64
+    old "Blowjob - Gym"
+    new "Blowjob - Gym"
+
+    # game/variables/replays.rpy:64
+    old "Kiss Alice while she's in the gym."
+    new "Kiss Alice while she's in the gym."
+
+    # game/variables/replays.rpy:64
+    old "Blowjob - Your Bed"
+    new "Blowjob - Your Bed"
+
+    # game/variables/replays.rpy:64
+    old "Have fun with Alice sleeping in your bed."
+    new "Have fun with Alice sleeping in your bed."
+
+    # game/variables/replays.rpy:64
+    old "Blowjob - Shower"
+    new "Blowjob - Shower"
+
+    # game/variables/replays.rpy:64
+    old "Get her to take out her 'friend' under the shower."
+    new "Get her to take out her 'friend' under the shower."
+
+    # game/variables/replays.rpy:64
+    old "Blowjob - Wakeup"
+    new "Blowjob - Wakeup"
+
+    # game/variables/replays.rpy:64
+    old "Have Alice wake you up."
+    new "Have Alice wake you up."
+
+    # game/variables/replays.rpy:64
+    old "Handjob - Her Bed"
+    new "Handjob - Her Bed"
+
+    # game/variables/replays.rpy:64
+    old "Spend a night with her in her bed."
+    new "Spend a night with her in her bed."
+
+    # game/variables/replays.rpy:64
+    old "Propose Alice to get her to an orgasm with your mouth."
+    new "Propose Alice to get her to an orgasm with your mouth."
+
+    # game/variables/replays.rpy:64
+    old "Cunnilingus - Your Bed"
+    new "Cunnilingus - Your Bed"
+
+    # game/variables/replays.rpy:64
+    old "Follow her story to unlock this scene."
+    new "Follow her story to unlock this scene."
+
+    # game/variables/replays.rpy:64
+    old "Footjob - Nun"
+    new "Footjob - Nun"
+
+    # game/variables/replays.rpy:64
+    old "Ask Alice to have fun in a nun outfit."
+    new "Ask Alice to have fun in a nun outfit."
+
+    # game/variables/replays.rpy:64
+    old "Kiss - Her Room"
+    new "Kiss - Her Room"
+
+    # game/variables/replays.rpy:64
+    old "Kiss Alice while she's in her room."
+    new "Kiss Alice while she's in her room."
+
+    # game/variables/replays.rpy:64
+    old "Kiss - Gym"
+    new "Kiss - Gym"
+
+    # game/variables/replays.rpy:64
+    old "Ask her to have sex. Unlock by following Alice's story."
+    new "Ask her to have sex. Unlock by following Alice's story."
+
+    # game/variables/replays.rpy:64
+    old "Sex - Gym"
+    new "Sex - Gym"
+
+    # game/variables/replays.rpy:64
+    old "Sex - Your Bed"
+    new "Sex - Your Bed"
+
+    # game/variables/replays.rpy:64
+    old "Sex - Nun"
+    new "Sex - Nun"
+
+    # game/variables/replays.rpy:64
+    old "Sex - Wakeup"
+    new "Sex - Wakeup"
+
+    # game/variables/replays.rpy:193
+    old "First Night"
+    new "First Night"
+
+    # game/variables/replays.rpy:193
+    old "Purpose part 1"
+    new "Purpose part 1"
+
+    # game/variables/replays.rpy:193
+    old "Library part 1"
+    new "Library part 1"
+
+    # game/variables/replays.rpy:193
+    old "Purpose part 2"
+    new "Purpose part 2"
+
+    # game/variables/replays.rpy:193
+    old "Library part 2"
+    new "Library part 2"
+
+    # game/variables/replays.rpy:193
+    old "Beginning of Recurring Nightmare"
+    new "Beginning of Recurring Nightmare"
+

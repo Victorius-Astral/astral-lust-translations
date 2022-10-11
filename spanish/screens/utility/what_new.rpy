@@ -401,3 +401,67 @@ translate spanish strings:
     # game/screens/utility/what_new.rpy:206
     old "The main game's font was changed! Collectibles are kept between saves. Item notifications now show the item's icon. There are many other changes, check the full changelog at the bottom for them."
     new "¡Se cambió la fuente del juego principal! Los coleccionables se guardan entre partidas. Las notificaciones de objetos ahora muestran su ícono. Hay muchos otros cambios, verifica el registro completo en la parte inferior para verlos."
+# TODO: Translation updated at 2022-10-11 16:03
+
+translate spanish strings:
+
+    # game/screens/utility/what_new.rpy:181
+    old "{b}Rituals{/b}"
+    new "{b}Rituals{/b}"
+
+    # game/screens/utility/what_new.rpy:182
+    old "Perform various rituals and incantations that'll grant you various effects. There are two rituals and four beings to pray to. One ritual will manipulate what you dream of at night, and the second will improve or reduce your mental state. Stay safe! Don't pray to evil beings! Seek Kiara to learn them once Main Story is 12th, or if you learned about mysticism from Demeter, the nightmare angel girl. Rituals are to be performed at the altar in the player's room."
+    new "Perform various rituals and incantations that'll grant you various effects. There are two rituals and four beings to pray to. One ritual will manipulate what you dream of at night, and the second will improve or reduce your mental state. Stay safe! Don't pray to evil beings! Seek Kiara to learn them once Main Story is 12th, or if you learned about mysticism from Demeter, the nightmare angel girl. Rituals are to be performed at the altar in the player's room."
+
+    # game/screens/utility/what_new.rpy:193
+    old "{b}Control Your Dreams{/b}"
+    new "{b}Control Your Dreams{/b}"
+
+    # game/screens/utility/what_new.rpy:194
+    old "You can use new items and rituals to control if you'll have a dream at night or not! You can also determine what kind of a dream you'll have. A tip: sex with a succubi makes you have a wet dream that night."
+    new "You can use new items and rituals to control if you'll have a dream at night or not! You can also determine what kind of a dream you'll have. A tip: sex with a succubi makes you have a wet dream that night."
+
+    # game/screens/utility/what_new.rpy:208
+    old "{b}Postpone Deal With The Devil{/b}"
+    new "{b}Postpone Deal With The Devil{/b}"
+
+    # game/screens/utility/what_new.rpy:209
+    old "Tired of triggering this dream before you got enough attributes? Not anymore! You can now sign a pact with the Devil, in which you promise to make a deal on another occasion. You'll get a new item - Unholy Pact, using it will trigger Devil to appear when you sleep. This item will not be lost on death, it's bound to your soul!"
+    new "Tired of triggering this dream before you got enough attributes? Not anymore! You can now sign a pact with the Devil, in which you promise to make a deal on another occasion. You'll get a new item - Unholy Pact, using it will trigger Devil to appear when you sleep. This item will not be lost on death, it's bound to your soul!"
+
+    # game/screens/utility/what_new.rpy:212
+    old "{b}Alice - Nun Outfit{/b}"
+    new "{b}Alice - Nun Outfit{/b}"
+
+    # game/screens/utility/what_new.rpy:221
+    old "{b}Grace - Bunny Outfit{/b}"
+    new "{b}Grace - Bunny Outfit{/b}"
+
+    # game/screens/utility/what_new.rpy:222
+    old "Super cute, adorable, and fuckin' sexy! Gracie in the new outfit here to steal your heart <3"
+    new "Super cute, adorable, and fuckin' sexy! Gracie in the new outfit here to steal your heart <3"
+
+    # game/screens/utility/what_new.rpy:230
+    old "{b}New Dreams{/b}"
+    new "{b}New Dreams{/b}"
+
+    # game/screens/utility/what_new.rpy:231
+    old "Two new dreams were added! None is nice, hehehe~ Two new nightmares to rip apart your sanity!"
+    new "Two new dreams were added! None is nice, hehehe~ Two new nightmares to rip apart your sanity!"
+
+    # game/screens/utility/what_new.rpy:243
+    old "{b}New Buffs & Items{/b}"
+    new "{b}New Buffs & Items{/b}"
+
+    # game/screens/utility/what_new.rpy:244
+    old "A lot of new buffs, and a few debuffs were added. Three new items were added too. Additionally some items can now be consumed for buffs (alcohols)."
+    new "A lot of new buffs, and a few debuffs were added. Three new items were added too. Additionally some items can now be consumed for buffs (alcohols)."
+
+    # game/screens/utility/what_new.rpy:247
+    old "{b}Card Sounds{/b}"
+    new "{b}Card Sounds{/b}"
+
+    # game/screens/utility/what_new.rpy:248
+    old "Most cards will now play the sound when used! Hope you like it! Click the cards below to try."
+    new "Most cards will now play the sound when used! Hope you like it! Click the cards below to try."
+

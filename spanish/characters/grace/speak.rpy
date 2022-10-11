@@ -1791,3 +1791,44 @@ translate spanish strings:
     # game/characters/grace/speak.rpy:27
     old "Tell her about the date"
     new "Cuéntale sobre la cita"
+# : Translation updated at 2022-09-23 12:55
+
+# game/characters/grace/speak.rpy:88
+translate spanish speak_grace_fun_b50ba9c2:
+
+    # grace "You are not getting into my panties!"
+    grace "¡No te vas a meter en mis bragas!"
+
+# game/characters/grace/speak.rpy:89
+translate spanish speak_grace_fun_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/characters/grace/speak.rpy:90
+translate spanish speak_grace_fun_bbec7c9c:
+
+    # me "It's not that [grace]."
+    me "No es eso [grace]."
+
+# game/characters/grace/speak.rpy:93
+translate spanish speak_grace_fun_4fdef178:
+
+    # grace "Then what do you want to ask?"
+    grace "Entonces, ¿qué quieres pedirme?"
+
+# game/characters/grace/speak.rpy:98
+translate spanish speak_grace_fun_c93091b8:
+
+    # grace "What is it?"
+    grace "¿Qué sucede?"
+
+translate spanish strings:
+
+    # game/characters/grace/speak.rpy:58
+    old "Outfits >"
+    new "Trajes >"
+
+    # game/characters/grace/speak.rpy:60
+    old "Bunny >{#visible}"
+    new "Conejita >{#visible}"

@@ -112,7 +112,7 @@ translate spanish strings:
 
     # game/variables/items.rpy:4
     old "Sigil of the Black"
-    new "Sigil de lo Negro"
+    new "Sello de lo Negro"
 
     # game/variables/items.rpy:4
     old "Mysterious Coin"

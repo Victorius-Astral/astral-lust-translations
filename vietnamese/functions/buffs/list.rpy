@@ -142,3 +142,15 @@ translate vietnamese strings:
     # game/functions/buffs/list.rpy:188
     old "Perform Ritual"
     new "Thực hiện nghi lễ"
+# TODO: Translation updated at 2022-10-11 16:06
+
+translate vietnamese strings:
+
+    # game/functions/buffs/list.rpy:38
+    old "Terrifying nightmares are about to befall you."
+    new "Terrifying nightmares are about to befall you."
+
+    # game/functions/buffs/list.rpy:38
+    old "Your spirit is filled with rituals' remnant spirituality. If the stack is 4 or more during sleep, it'll turn into {ef}Spiritual Taint{/ef}, making you unable to perform rituals for x days. If the stack is maximum, each next ritual will damage your sanity by 10% + 10% for each next ritual. Sleep decreases stack by 1."
+    new "Your spirit is filled with rituals' remnant spirituality. If the stack is 4 or more during sleep, it'll turn into {ef}Spiritual Taint{/ef}, making you unable to perform rituals for x days. If the stack is maximum, each next ritual will damage your sanity by 10% + 10% for each next ritual. Sleep decreases stack by 1."
+

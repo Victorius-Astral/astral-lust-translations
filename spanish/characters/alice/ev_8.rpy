@@ -692,8 +692,8 @@ translate spanish strings:
 
     # game/characters/alice/ev_8.rpy:159
     old " [Lust check passed]"
-    new " [Suerte suficiente]"
+    new " [Lujuria suficiente]"
 
     # game/characters/alice/ev_8.rpy:161
     old " [Lust check failed]"
-    new " [Suerte insuficiente]"
+    new " [Lujuria insuficiente]"

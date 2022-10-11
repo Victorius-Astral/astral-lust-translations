@@ -20,3 +20,11 @@ translate vietnamese strings:
     # game/screens/replay/gallery.rpy:44
     old "Recover Gallery"
     new "Khôi phục menu phát lại"
+# TODO: Translation updated at 2022-10-11 16:06
+
+translate vietnamese strings:
+
+    # game/screens/replay/gallery.rpy:99
+    old "* Click the event's name to start the replay."
+    new "* Click the event's name to start the replay."
+

@@ -309,3 +309,39 @@ translate vietnamese strings:
     # game/screens/systems/rituals.rpy:429
     old "Result:"
     new "kết quả:"
+# TODO: Translation updated at 2022-10-11 16:06
+
+# game/screens/systems/rituals.rpy:525
+translate vietnamese performRituals_d805e427:
+
+    # "You prepare for the ritual."
+    "You prepare for the ritual."
+
+# game/screens/systems/rituals.rpy:574
+translate vietnamese performRituals_returned_6bb04e78:
+
+    # me "[title_text!t]"
+    me "[title_text!t]"
+
+# game/screens/systems/rituals.rpy:577
+translate vietnamese performRituals_returned_4aa72af8:
+
+    # me "[incantation_text!t]"
+    me "[incantation_text!t]"
+
+# game/screens/systems/rituals.rpy:591
+translate vietnamese performRituals_returned_c78c88eb:
+
+    # me "Let the {gold}[sacrifice_text!t]{/gold} showcase my reverence."
+    me "Let the {gold}[sacrifice_text!t]{/gold} showcase my reverence."
+
+translate vietnamese strings:
+
+    # game/screens/systems/rituals.rpy:19
+    old "{{cor}}Corruption ({:+}%){{/cor}}"
+    new "{{cor}}Corruption ({:+}%){{/cor}}"
+
+    # game/screens/systems/rituals.rpy:19
+    old "{{sanity}}Sanity ({:+}%){{/sanity}}"
+    new "{{sanity}}Sanity ({:+}%){{/sanity}}"
+

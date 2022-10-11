@@ -717,3 +717,41 @@ translate vietnamese strings:
     # game/characters/kiara/speak.rpy:107
     old "You can now perform the rituals! You can do so on the altar in your room."
     new "Bây giờ bạn có thể thực hiện các nghi lễ! Bạn có thể làm trên bàn thờ trong phòng của bạn."
+# TODO: Translation updated at 2022-10-11 16:06
+
+# game/characters/kiara/speak.rpy:57
+translate vietnamese kiara_menu1_b9f57483:
+
+    # me "I have no idea."
+    me "I have no idea."
+
+# game/characters/kiara/speak.rpy:68
+translate vietnamese kiara_menu1_bff1b3b9:
+
+    # kiara "Rituals consist of four parts. The first is preparing the altar. It usually means lighting three candles, and placing various materials around the candles. The candles alone will make the ritual work, though. The rest is just a custom."
+    kiara "Rituals consist of four parts. The first is preparing the altar. It usually means lighting three candles, and placing various materials around the candles. The candles alone will make the ritual work, though. The rest is just a custom."
+
+# game/characters/kiara/speak.rpy:69
+translate vietnamese kiara_menu1_4612353a:
+
+    # kiara "The second step is to read the being's title. Make sure to have thought in what you wish to pray for. If you asked me to let you remain lucid in dreams, it would fail, as I don't have any dream authorities, and can't bless you."
+    kiara "The second step is to read the being's title. Make sure to have thought in what you wish to pray for. If you asked me to let you remain lucid in dreams, it would fail, as I don't have any dream authorities, and can't bless you."
+
+# game/characters/kiara/speak.rpy:81
+translate vietnamese kiara_menu1_0767bccc:
+
+    # kiara "No, but he has an authority over miracles, as you know from His title - Miracle Invoker. He can answer most rituals, but the effects will be weaker than someone having authority over given field."
+    kiara "No, but he has an authority over miracles, as you know from His title - Miracle Invoker. He can answer most rituals, but the effects will be weaker than someone having authority over given field."
+
+# game/characters/kiara/speak.rpy:87
+translate vietnamese kiara_menu1_aa1337b8:
+
+    # kiara "You can also use your own blood as a sacrifice. But it's dangerous. If the being is malicious, the curse you'll suffer will be tremendous. Almost all evil beings are interested in this sacrifice."
+    kiara "You can also use your own blood as a sacrifice. But it's dangerous. If the being is malicious, the curse you'll suffer will be tremendous. Almost all evil beings are interested in this sacrifice."
+
+# game/characters/kiara/speak.rpy:101
+translate vietnamese kiara_menu1_58cb8ac7:
+
+    # kiara "If you want to seek dreams, you can use Dream Invocation to sacrifice {gold}Frozen Screams{/gold} to me."
+    kiara "If you want to seek dreams, you can use Dream Invocation to sacrifice {gold}Frozen Screams{/gold} to me."
+

@@ -150,3 +150,10 @@ translate spanish room_player_altar_kiara_97991f8f_1:
 
     # "There is no response."
     "No hay respuesta."
+# : Translation updated at 2022-09-23 12:55
+
+translate spanish strings:
+
+    # game/places/hotel/player/altar.rpy:2
+    old "Perform a ritual{#visible}"
+    new "Realiza un ritual{#visible}"
