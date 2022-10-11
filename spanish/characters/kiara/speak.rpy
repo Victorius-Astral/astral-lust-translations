@@ -568,7 +568,7 @@ translate spanish kiara_menu1_b6698e22:
 translate spanish kiara_menu1_9bc6ca58:
 
     # kiara "The goal of the ritual is to receive a response of the being you pray to. It can be a revelation, a blessing, or a bestowement. Similarly a malicious being could curse you."
-    kiara "El objetivo del ritual es recibir una respuesta del ser al que le rezas. Puede ser una revelación, una bendición o un otorgamiento. Del mismo modo, un ser malicioso podría maldecirte."
+    kiara "El objetivo del ritual es recibir una respuesta del ser al que le rezas. Puede ser una revelación, una bendición o un otorgamiento. Así mismo, un ser malicioso podría maldecirte."
 
 # game/characters/kiara/speak.rpy:63
 translate spanish kiara_menu1_bff1b3b9:
