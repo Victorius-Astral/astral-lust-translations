@@ -417,61 +417,60 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:181
     old "{b}Rituals{/b}"
-    new "{b}Rituals{/b}"
+    new "{b}Nghi lễ{/b}"
 
     # game/screens/utility/what_new.rpy:182
     old "Perform various rituals and incantations that'll grant you various effects. There are two rituals and four beings to pray to. One ritual will manipulate what you dream of at night, and the second will improve or reduce your mental state. Stay safe! Don't pray to evil beings! Seek Kiara to learn them once Main Story is 12th, or if you learned about mysticism from Demeter, the nightmare angel girl. Rituals are to be performed at the altar in the player's room."
-    new "Perform various rituals and incantations that'll grant you various effects. There are two rituals and four beings to pray to. One ritual will manipulate what you dream of at night, and the second will improve or reduce your mental state. Stay safe! Don't pray to evil beings! Seek Kiara to learn them once Main Story is 12th, or if you learned about mysticism from Demeter, the nightmare angel girl. Rituals are to be performed at the altar in the player's room."
+    new "Thực hiện các nghi lễ và câu thần chú khác nhau sẽ mang lại cho bạn nhiều hiệu ứng khác nhau. Có hai nghi lễ và bốn thực thể để cầu nguyện. Một nghi thức sẽ điều khiển những gì bạn mơ vào ban đêm, và nghi thức thứ hai sẽ cải thiện hoặc giảm trạng thái tinh thần của bạn. Giữ an toàn! Đừng cầu nguyện những sinh mệnh xấu xa! Tìm Kiara để tìm hiểu chúng sau khi Cốt chuyện chính đạt 12, hoặc nếu bạn biết về sự huyền bí từ Demeter, cô gái thiên thần ác mộng. Các nghi lễ phải được thực hiện tại bàn thờ trong phòng của người chơi."
 
     # game/screens/utility/what_new.rpy:193
     old "{b}Control Your Dreams{/b}"
-    new "{b}Control Your Dreams{/b}"
+    new "{b}Kiểm soát giấc mơ{/b}"
 
     # game/screens/utility/what_new.rpy:194
     old "You can use new items and rituals to control if you'll have a dream at night or not! You can also determine what kind of a dream you'll have. A tip: sex with a succubi makes you have a wet dream that night."
-    new "You can use new items and rituals to control if you'll have a dream at night or not! You can also determine what kind of a dream you'll have. A tip: sex with a succubi makes you have a wet dream that night."
+    new "Bạn có thể sử dụng các vật phẩm và nghi lễ mới để kiểm soát xem bạn có mơ vào ban đêm hay không! Bạn cũng có thể xác định loại giấc mơ mà bạn sẽ có. Một mẹo: quan hệ tình dục với một succubi khiến bạn có một giấc mơ ướt át vào đêm đó."
 
     # game/screens/utility/what_new.rpy:208
     old "{b}Postpone Deal With The Devil{/b}"
-    new "{b}Postpone Deal With The Devil{/b}"
+    new "{b}Hoãn giao dịch với quỷ{/b}"
 
     # game/screens/utility/what_new.rpy:209
     old "Tired of triggering this dream before you got enough attributes? Not anymore! You can now sign a pact with the Devil, in which you promise to make a deal on another occasion. You'll get a new item - Unholy Pact, using it will trigger Devil to appear when you sleep. This item will not be lost on death, it's bound to your soul!"
-    new "Tired of triggering this dream before you got enough attributes? Not anymore! You can now sign a pact with the Devil, in which you promise to make a deal on another occasion. You'll get a new item - Unholy Pact, using it will trigger Devil to appear when you sleep. This item will not be lost on death, it's bound to your soul!"
+    new "Bạn cảm thấy mệt mỏi với việc kích hoạt giấc mơ này trước khi bạn có đủ thuộc tính? Không còn nữa! Bây giờ bạn có thể ký một khế ước với Quỷ, trong đó bạn hứa sẽ thực hiện một thỏa thuận vào một dịp khác. Bạn sẽ nhận được một vật phẩm mới - Khế ước báng bổ, sử dụng nó sẽ kích hoạt Ác quỷ xuất hiện khi bạn ngủ. Vật phẩm này sẽ không bị mất khi chết, nó gắn liền với linh hồn của bạn!"
 
     # game/screens/utility/what_new.rpy:212
     old "{b}Alice - Nun Outfit{/b}"
-    new "{b}Alice - Nun Outfit{/b}"
+    new "{b}Alice - Trang phục ớ{/b}"
 
     # game/screens/utility/what_new.rpy:221
     old "{b}Grace - Bunny Outfit{/b}"
-    new "{b}Grace - Bunny Outfit{/b}"
+    new "{b}Grace - trang phục thỏ{/b}"
 
     # game/screens/utility/what_new.rpy:222
     old "Super cute, adorable, and fuckin' sexy! Gracie in the new outfit here to steal your heart <3"
-    new "Super cute, adorable, and fuckin' sexy! Gracie in the new outfit here to steal your heart <3"
+        new "Siêu dễ thương, đáng yêu và sexy! Gracie trong trang phục mới ở đây để đánh cắp trái tim của bạn <3"
 
     # game/screens/utility/what_new.rpy:230
     old "{b}New Dreams{/b}"
-    new "{b}New Dreams{/b}"
+    new "{b}Giấc mơ mới{/b}"
 
     # game/screens/utility/what_new.rpy:231
     old "Two new dreams were added! None is nice, hehehe~ Two new nightmares to rip apart your sanity!"
-    new "Two new dreams were added! None is nice, hehehe~ Two new nightmares to rip apart your sanity!"
+    new "Hai giấc mơ mới đã được thêm vào! Không có gì là tốt cả, hehehe~ Hai cơn ác mộng mới sẽ xé toạc sự tỉnh táo của bạn!"
 
     # game/screens/utility/what_new.rpy:243
     old "{b}New Buffs & Items{/b}"
-    new "{b}New Buffs & Items{/b}"
+    new "{b}Buff và Vật phẩm mới{/b}"
 
     # game/screens/utility/what_new.rpy:244
     old "A lot of new buffs, and a few debuffs were added. Three new items were added too. Additionally some items can now be consumed for buffs (alcohols)."
-    new "A lot of new buffs, and a few debuffs were added. Three new items were added too. Additionally some items can now be consumed for buffs (alcohols)."
+    new "Rất nhiều buff mới và một số debuff đã được thêm vào. Ba mục mới cũng đã được thêm vào. Ngoài ra, một số vật phẩm hiện có thể được tiêu thụ để tăng sức mạnh (rượu)."
 
     # game/screens/utility/what_new.rpy:247
     old "{b}Card Sounds{/b}"
-    new "{b}Card Sounds{/b}"
+    new "{b}Âm thanh thẻ{/b}"
 
     # game/screens/utility/what_new.rpy:248
     old "Most cards will now play the sound when used! Hope you like it! Click the cards below to try."
-    new "Most cards will now play the sound when used! Hope you like it! Click the cards below to try."
-
+    new "Hầu hết các thẻ bây giờ sẽ phát âm thanh khi được sử dụng! Hy vọng bạn thích nó! Nhấp vào các thẻ bên dưới để thử."

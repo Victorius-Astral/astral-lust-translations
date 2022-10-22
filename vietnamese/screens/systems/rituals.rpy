@@ -315,7 +315,7 @@ translate vietnamese strings:
 translate vietnamese performRituals_d805e427:
 
     # "You prepare for the ritual."
-    "You prepare for the ritual."
+    "Bạn chuẩn bị cho nghi lễ."
 
 # game/screens/systems/rituals.rpy:574
 translate vietnamese performRituals_returned_6bb04e78:
@@ -333,15 +333,14 @@ translate vietnamese performRituals_returned_4aa72af8:
 translate vietnamese performRituals_returned_c78c88eb:
 
     # me "Let the {gold}[sacrifice_text!t]{/gold} showcase my reverence."
-    me "Let the {gold}[sacrifice_text!t]{/gold} showcase my reverence."
+    me "hãy để {gold}[sacrifice_text!t]{/gold} thể hiện sự tôn kính của tôi."
 
 translate vietnamese strings:
 
     # game/screens/systems/rituals.rpy:19
     old "{{cor}}Corruption ({:+}%){{/cor}}"
-    new "{{cor}}Corruption ({:+}%){{/cor}}"
+    new "{{cor}}Tha hóa ({:+}%){{/Tha hóa}}"
 
     # game/screens/systems/rituals.rpy:19
     old "{{sanity}}Sanity ({:+}%){{/sanity}}"
-    new "{{sanity}}Sanity ({:+}%){{/sanity}}"
-
+    new "{{sanity}}Tỉnh táo ({:+}%){{/Tỉnh táo}}"

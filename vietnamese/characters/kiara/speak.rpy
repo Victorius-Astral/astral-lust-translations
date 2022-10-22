@@ -586,7 +586,7 @@ translate vietnamese kiara_menu1_985760be:
 translate vietnamese kiara_menu1_693c23e6:
 
     # me "What's Aharon's title?"
-    me "Tiêu đề của Aharon là gì?"
+    me "Tước hiệu của Aharon là gì?"
 
 # game/characters/kiara/speak.rpy:71
 translate vietnamese kiara_menu1_69c3b5cc:
@@ -723,35 +723,34 @@ translate vietnamese strings:
 translate vietnamese kiara_menu1_b9f57483:
 
     # me "I have no idea."
-    me "I have no idea."
+    me "Tôi chịu."
 
 # game/characters/kiara/speak.rpy:68
 translate vietnamese kiara_menu1_bff1b3b9:
 
     # kiara "Rituals consist of four parts. The first is preparing the altar. It usually means lighting three candles, and placing various materials around the candles. The candles alone will make the ritual work, though. The rest is just a custom."
-    kiara "Rituals consist of four parts. The first is preparing the altar. It usually means lighting three candles, and placing various materials around the candles. The candles alone will make the ritual work, though. The rest is just a custom."
+    kiara "Nghi lễ gồm bốn phần. Đầu tiên là chuẩn bị bàn thờ. Nó thường có nghĩa là thắp sáng ba ngọn nến, và đặt nhiều vật liệu khác nhau xung quanh các ngọn nến. Tuy nhiên, chỉ riêng những ngọn nến sẽ làm cho nghi lễ hoạt động. Phần còn lại chỉ là phải tùy chỉnh."
 
 # game/characters/kiara/speak.rpy:69
 translate vietnamese kiara_menu1_4612353a:
 
     # kiara "The second step is to read the being's title. Make sure to have thought in what you wish to pray for. If you asked me to let you remain lucid in dreams, it would fail, as I don't have any dream authorities, and can't bless you."
-    kiara "The second step is to read the being's title. Make sure to have thought in what you wish to pray for. If you asked me to let you remain lucid in dreams, it would fail, as I don't have any dream authorities, and can't bless you."
+    kiara "Bước thứ hai là đọc tước hiệu của thực thể đó. Hãy chắc chắn rằng anh đã suy nghĩ về những gì mình muốn cầu nguyện. Nếu anh yêu cầu tôi để anh vẫn minh mẫn trong những giấc mơ, nó sẽ thất bại, vì tôi không có bất kỳ quyền năng kiểm soát giấc mơ nào, và không thể ban phước cho anh."
 
 # game/characters/kiara/speak.rpy:81
 translate vietnamese kiara_menu1_0767bccc:
 
     # kiara "No, but he has an authority over miracles, as you know from His title - Miracle Invoker. He can answer most rituals, but the effects will be weaker than someone having authority over given field."
-    kiara "No, but he has an authority over miracles, as you know from His title - Miracle Invoker. He can answer most rituals, but the effects will be weaker than someone having authority over given field."
+    kiara "Không, nhưng hắn ta có thẩm quyền đối với những phép màu, như anh đã biết từ danh hiệu của Hắn ta - Người Mưu Cầu Phép Màu. hắn ta có thể trả lời hầu hết các nghi lễ, nhưng hiệu quả sẽ yếu hơn so với người có quyền năng đối với lĩnh vực nhất định."
 
 # game/characters/kiara/speak.rpy:87
 translate vietnamese kiara_menu1_aa1337b8:
 
     # kiara "You can also use your own blood as a sacrifice. But it's dangerous. If the being is malicious, the curse you'll suffer will be tremendous. Almost all evil beings are interested in this sacrifice."
-    kiara "You can also use your own blood as a sacrifice. But it's dangerous. If the being is malicious, the curse you'll suffer will be tremendous. Almost all evil beings are interested in this sacrifice."
+    kiara "Anh cũng có thể sử dụng máu của chính mình để hy sinh. Nhưng nó khá nguy hiểm. Nếu đó là một thực thể tà ác, lời nguyền mà anh phải chịu sẽ rất lớn. Hầu hết tất cả ác thần đều quan tâm đến sự hiến tế này."
 
 # game/characters/kiara/speak.rpy:101
 translate vietnamese kiara_menu1_58cb8ac7:
 
     # kiara "If you want to seek dreams, you can use Dream Invocation to sacrifice {gold}Frozen Screams{/gold} to me."
-    kiara "If you want to seek dreams, you can use Dream Invocation to sacrifice {gold}Frozen Screams{/gold} to me."
-
+    kiara "Nếu anh muốn tìm kiếm giấc mơ, anh có thể sử dụng Lời cầu khẩn giấc mơ để hiến tế {gold}Frozen Screams{/gold} cho tôi."

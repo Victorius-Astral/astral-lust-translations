@@ -433,25 +433,24 @@ translate vietnamese strings:
 
     # game/variables/wallpapers.rpy:473
     old "Landscape 1"
-    new "Landscape 1"
+    new "Phong cảnh 1"
 
     # game/variables/wallpapers.rpy:480
     old "Landscape 2"
-    new "Landscape 2"
+    new "Phong cảnh 2"
 
     # game/variables/wallpapers.rpy:487
     old "Landscape 3"
-    new "Landscape 3"
+    new "Phong cảnh 3"
 
     # game/variables/wallpapers.rpy:494
     old "Abstract 1"
-    new "Abstract 1"
+    new "Trừu tượng 1"
 
     # game/variables/wallpapers.rpy:501
     old "Abstract 2"
-    new "Abstract 2"
+    new "Trừu tượng 2"
 
     # game/variables/wallpapers.rpy:508
     old "Abstract 3"
-    new "Abstract 3"
-
+    new "Trừu tượng 3"

@@ -705,199 +705,199 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:64
     old "STORY"
-    new "STORY"
+    new "CỐT TRUYỆN"
 
     # game/variables/replays.rpy:64
     old "OUTFITS"
-    new "OUTFITS"
+    new "TRANG PHỤC"
 
     # game/variables/replays.rpy:64
     old "Ask Alice to make herself an outfit."
-    new "Ask Alice to make herself an outfit."
+    new "Nhờ Alice làm cho cô ấy một bộ đồ."
 
     # game/variables/replays.rpy:64
     old "Schoolgirl"
-    new "Schoolgirl"
+    new "Nữ sinh"
 
     # game/variables/replays.rpy:64
     old "ACTIVITIES"
-    new "ACTIVITIES"
+    new "HOẠT ĐỘNG"
 
     # game/variables/replays.rpy:64
     old "Have Alice come for a sleepover."
-    new "Have Alice come for a sleepover."
+    new "Ngủ chung với Alice."
 
     # game/variables/replays.rpy:64
     old "Train"
-    new "Train"
+    new "Tập luyện"
 
     # game/variables/replays.rpy:64
     old "Train with Alice in the gym."
-    new "Train with Alice in the gym."
+    new "Tập luyện với Alice ở phòng tập."
 
     # game/variables/replays.rpy:64
     old "Weird noises coming from Grace's room wake you up at night. Maybe it's worth checking what's going on?"
-    new "Weird noises coming from Grace's room wake you up at night. Maybe it's worth checking what's going on?"
+    new "Những tiếng động lạ phát ra từ phòng của Grace đánh thức bạn vào ban đêm. Có lẽ nên kiểm tra xem chuyện gì đang xảy ra?"
 
     # game/variables/replays.rpy:64
     old "TASKS"
-    new "TASKS"
+    new "NHIỆM VỤ"
 
     # game/variables/replays.rpy:64
     old "Reinforce Coat"
-    new "Reinforce Coat"
+    new "Gia cố áo khoác"
 
     # game/variables/replays.rpy:64
     old "Ask Alice to help you reinforce your coat."
-    new "Ask Alice to help you reinforce your coat."
+    new "Nhờ Alice gia cố áo khoác."
 
     # game/variables/replays.rpy:64
     old "Dismalte Old Clothes"
-    new "Dismalte Old Clothes"
+    new "Tháo dỡ quần áo cũ"
 
     # game/variables/replays.rpy:64
     old "Ask Alice to dismalte old clothes."
-    new "Ask Alice to dismalte old clothes."
+    new "Yêu cầu Alice tháo dỡ quần áo cũ."
 
     # game/variables/replays.rpy:64
     old "Find Combat Gear"
-    new "Find Combat Gear"
+    new "Tìm trang bị chiến đấu"
 
     # game/variables/replays.rpy:64
     old "Ask Alice to help you find gear to use in combat."
-    new "Ask Alice to help you find gear to use in combat."
+    new "Nhờ Alice giúp bạn tìm thiết bị để sử dụng trong chiến đấu."
 
     # game/variables/replays.rpy:64
     old "SEXUAL"
-    new "SEXUAL"
+    new "TÌNH DỤC"
 
     # game/variables/replays.rpy:64
     old "Anal - Shower"
-    new "Anal - Shower"
+    new "Cửa sau - phòng tắm"
 
     # game/variables/replays.rpy:64
     old "Get her to agree for an anal under the shower."
-    new "Get her to agree for an anal under the shower."
+    new "Làm cho cô ấy đồng ý chịch cửa sau dưới vòi hoa sen."
 
     # game/variables/replays.rpy:64
     old "Anal - WC"
-    new "Anal - WC"
+    new "Cửa sau - WC"
 
     # game/variables/replays.rpy:64
     old "Have fun with her on a toilet."
-    new "Have fun with her on a toilet."
+    new "Làm với cô ấy trong toilet."
 
     # game/variables/replays.rpy:64
     old "Masturbate - Shower"
-    new "Masturbate - Shower"
+    new "Thủ dâm - Phòng tắm"
 
     # game/variables/replays.rpy:64
     old "Get her to masturbate while she's under the shower."
-    new "Get her to masturbate while she's under the shower."
+    new "Bắt cô ấy thủ dâm khi cô ấy đang tắm."
 
     # game/variables/replays.rpy:64
     old "Ask Alice to blow you."
-    new "Ask Alice to blow you."
+    new "Nhờ Alice bú cu bạn."
 
     # game/variables/replays.rpy:64
     old "Blowjob - Gym"
-    new "Blowjob - Gym"
+    new "Thổi kèn - Gym"
 
     # game/variables/replays.rpy:64
     old "Kiss Alice while she's in the gym."
-    new "Kiss Alice while she's in the gym."
+    new "Hôn Alice trong khi cô ấy ở phòng tập."
 
     # game/variables/replays.rpy:64
     old "Blowjob - Your Bed"
-    new "Blowjob - Your Bed"
+    new "Thổi kèn - giường của bạn"
 
     # game/variables/replays.rpy:64
     old "Have fun with Alice sleeping in your bed."
-    new "Have fun with Alice sleeping in your bed."
+    new "Hãy vui vẻ với Alice ngủ trên giường của bạn."
 
     # game/variables/replays.rpy:64
     old "Blowjob - Shower"
-    new "Blowjob - Shower"
+    new "Thổi kèn - phòng tắm"
 
     # game/variables/replays.rpy:64
     old "Get her to take out her 'friend' under the shower."
-    new "Get her to take out her 'friend' under the shower."
+    new "Yêu cầu cô ấy đem 'người bạn' của cô ấy ra dưới vòi hoa sen."
 
     # game/variables/replays.rpy:64
     old "Blowjob - Wakeup"
-    new "Blowjob - Wakeup"
+    new "Thổi kèn - Đánh thức"
 
     # game/variables/replays.rpy:64
     old "Have Alice wake you up."
-    new "Have Alice wake you up."
+    new "Nhờ Alice đánh thức bạn."
 
     # game/variables/replays.rpy:64
     old "Handjob - Her Bed"
-    new "Handjob - Her Bed"
+    new "Handjob - Giường cô ấy"
 
     # game/variables/replays.rpy:64
     old "Spend a night with her in her bed."
-    new "Spend a night with her in her bed."
+    new "Dành 1 đêm trên giường với cô ấy."
 
     # game/variables/replays.rpy:64
     old "Propose Alice to get her to an orgasm with your mouth."
-    new "Propose Alice to get her to an orgasm with your mouth."
+    new "Khiến Alice đạt cực khoái bằng cách dùng miệng của bạn."
 
     # game/variables/replays.rpy:64
     old "Cunnilingus - Your Bed"
-    new "Cunnilingus - Your Bed"
+    new "Lếu lều - Giường của bạn"
 
     # game/variables/replays.rpy:64
     old "Follow her story to unlock this scene."
-    new "Follow her story to unlock this scene."
+    new "Đi theo cốt truyện của cô ấy để mở cảnh này."
 
     # game/variables/replays.rpy:64
     old "Footjob - Nun"
-    new "Footjob - Nun"
+    new "Footjob - Sơ"
 
     # game/variables/replays.rpy:64
     old "Ask Alice to have fun in a nun outfit."
-    new "Ask Alice to have fun in a nun outfit."
+    new "Nhờ Alice ấy ấy trong khi cô ấy mặc đồ sơ."
 
     # game/variables/replays.rpy:64
     old "Kiss - Her Room"
-    new "Kiss - Her Room"
+    new "Hôn - Phòng cô ấy"
 
     # game/variables/replays.rpy:64
     old "Kiss Alice while she's in her room."
-    new "Kiss Alice while she's in her room."
+    new "Hôn Alice khi trong phòng cô ấy."
 
     # game/variables/replays.rpy:64
     old "Kiss - Gym"
-    new "Kiss - Gym"
+    new "Hôn - Gym"
 
     # game/variables/replays.rpy:64
     old "Ask her to have sex. Unlock by following Alice's story."
-    new "Ask her to have sex. Unlock by following Alice's story."
+    new "Nhờ cô ấy chịch với bạn. Mở khóa khi chơi cốt truyện của Alice."
 
     # game/variables/replays.rpy:64
     old "Sex - Gym"
-    new "Sex - Gym"
+    new "Chịch - Gym"
 
     # game/variables/replays.rpy:64
     old "Sex - Your Bed"
-    new "Sex - Your Bed"
+    new "Chịch - Giường bạn"
 
     # game/variables/replays.rpy:64
     old "Sex - Nun"
-    new "Sex - Nun"
+    new "Chịch - sơ"
 
     # game/variables/replays.rpy:64
     old "Sex - Wakeup"
-    new "Sex - Wakeup"
+    new "Chịch - Đánh thức"
 
     # game/variables/replays.rpy:164
     old "DATES"
-    new "DATES"
+    new "HẸN HÒ"
 
     # game/variables/replays.rpy:193
     old "MAIN"
-    new "MAIN"
+    new "CHÍNH"
 
     # game/variables/replays.rpy:193
     old "First Night"
@@ -905,63 +905,63 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:193
     old "Purpose part 1"
-    new "Purpose part 1"
+    new "Mục đích phần 1"
 
     # game/variables/replays.rpy:193
     old "Library part 1"
-    new "Library part 1"
+    new "Thư viện phần 1"
 
     # game/variables/replays.rpy:193
     old "Purpose part 2"
-    new "Purpose part 2"
+    new "Mục đích phần 2"
 
     # game/variables/replays.rpy:193
     old "Library part 2"
-    new "Library part 2"
+    new "Thư viện phần 2"
 
     # game/variables/replays.rpy:193
     old "Beginning of Recurring Nightmare"
-    new "Beginning of Recurring Nightmare"
+    new "Bắt đầu cơn ác mộng định kỳ"
 
     # game/variables/replays.rpy:193
     old "SIDE"
-    new "SIDE"
+    new "PHỤ"
 
     # game/variables/replays.rpy:214
     old "SECRET"
-    new "SECRET"
+    new "BÍ MẬT"
 
     # game/variables/replays.rpy:267
     old "WET"
-    new "WET"
+    new "ƯỚT"
 
     # game/variables/replays.rpy:267
     old "GOOD"
-    new "GOOD"
+    new "TỐT"
 
     # game/variables/replays.rpy:267
     old "NIGHTMARE"
-    new "NIGHTMARE"
+    new "ÁC MỘNG"
 
     # game/variables/replays.rpy:267
     old "OTHER"
-    new "OTHER"
+    new "KHÁC"
 
     # game/variables/replays.rpy:301
     old "ALONE"
-    new "ALONE"
+    new "ĐƠN ĐỘC"
 
     # game/variables/replays.rpy:301
     old "Ruined House"
-    new "Ruined House"
+    new "Nhà tàn"
 
     # game/variables/replays.rpy:301
     old "ALONE - DAMSEL IN DISTRESS"
-    new "ALONE - DAMSEL IN DISTRESS"
+    new "ĐƠN ĐỘC - MỸ NỮ GẶP NẠN"
 
     # game/variables/replays.rpy:301
     old "Soldier"
-    new "Soldier"
+    new "Lính"
 
     # game/variables/replays.rpy:301
     old "Bimbo"
@@ -973,23 +973,23 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:301
     old "Pregnant"
-    new "Pregnant"
+    new "Bà bầu"
 
     # game/variables/replays.rpy:301
     old "LITTLE FOX"
-    new "LITTLE FOX"
+    new "TIỂU CÁO"
 
     # game/variables/replays.rpy:301
     old "Founds Nothing"
-    new "Founds Nothing"
+    new "Không tìm thấy gì"
 
     # game/variables/replays.rpy:357
     old "HOTEL"
-    new "HOTEL"
+    new "KHÁCH SẠN"
 
     # game/variables/replays.rpy:363
     old "ENDINGS"
-    new "ENDINGS"
+    new "KẾT THÚC"
 
     # game/variables/replays.rpy:363
     old "DISCORD"
@@ -997,13 +997,12 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:363
     old "Dragon Slayer"
-    new "Dragon Slayer"
+    new "Sát long nhân"
 
     # game/variables/replays.rpy:363
     old "CHRISTMAS"
-    new "CHRISTMAS"
+    new "GIÁNG SINH"
 
     # game/variables/replays.rpy:400
     old "EXPLORE"
-    new "EXPLORE"
-
+    new "KHÁM PHÁ"

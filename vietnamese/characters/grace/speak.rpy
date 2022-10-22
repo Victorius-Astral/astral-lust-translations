@@ -1220,7 +1220,7 @@ translate vietnamese strings:
 translate vietnamese speak_grace_fun_b50ba9c2:
 
     # grace "You are not getting into my panties!"
-    grace "You are not getting into my panties!"
+    grace "Anh sẽ không chui vào quần lót của em đâu!"
 
 # game/characters/grace/speak.rpy:89
 translate vietnamese speak_grace_fun_3820771a:
@@ -1232,27 +1232,26 @@ translate vietnamese speak_grace_fun_3820771a:
 translate vietnamese speak_grace_fun_bbec7c9c:
 
     # me "It's not that [grace]."
-    me "It's not that [grace]."
+    me "Không phải vậy đâu [grace]."
 
 # game/characters/grace/speak.rpy:93
 translate vietnamese speak_grace_fun_4fdef178:
 
     # grace "Then what do you want to ask?"
-    grace "Then what do you want to ask?"
+    grace "Vậy thì anh muốn hỏi cái gì?"
 
 # game/characters/grace/speak.rpy:98
 translate vietnamese speak_grace_fun_c93091b8:
 
     # grace "What is it?"
-    grace "What is it?"
+    grace "Gì vậy?"
 
 translate vietnamese strings:
 
     # game/characters/grace/speak.rpy:58
     old "Outfits >"
-    new "Outfits >"
+    new "Trang phục >"
 
     # game/characters/grace/speak.rpy:60
     old "Bunny >{#visible}"
-    new "Bunny >{#visible}"
-
+    new "Thỏ >{#visible}"

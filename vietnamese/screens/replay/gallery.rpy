@@ -26,5 +26,4 @@ translate vietnamese strings:
 
     # game/screens/replay/gallery.rpy:99
     old "* Click the event's name to start the replay."
-    new "* Click the event's name to start the replay."
-
+    new "* Nhấp vào tên sự kiện để bắt đầu phát lại."
