@@ -196,13 +196,13 @@ translate vietnamese xmas_savenia_634731e7:
 translate vietnamese xmas_savenia_0a81724c:
 
     # savenia "But if you mean dressing up on those silly costumes.. No, no way I'm 'affected'."
-    savenia "Nhưng nếu ý cậu là mặc những bộ trang phục ngớ ngẩn đó thì... Không, không đời nào tớ bị ''ảnh hưởng' cả."
+    savenia "Nhưng nếu ý cậu là mặc những bộ trang phục ngớ ngẩn đó thì... Không, không đời nào tớ bị 'ảnh hưởng' cả."
 
 # game/events/special/christmas.rpy:186
 translate vietnamese xmas_savenia_c47f6b33:
 
     # savenia "Always appreciate free drinks though, light as they are."
-    savenia "Luôn đánh giá trân trọng uống miễn phí, nhẹ như chúng vốn có."
+    savenia "Luôn trân trọng uống miễn phí, nhẹ như chúng vốn có."
 
 # game/events/special/christmas.rpy:188
 translate vietnamese xmas_savenia_f50f1387:
@@ -556,7 +556,7 @@ translate vietnamese xmas_grace_deep_fdb4e830:
 translate vietnamese xmas_grace_deep_5d7b5c22:
 
     # me "I didn't think you would get that far... Ah..."
-    me "Tôi không nghĩ rằng bạn sẽ đi được xa như vậy... Ah..."
+    me "Anh không nghĩ rằng em sẽ đi xa đến vậy... Ah..."
 
 # game/events/special/christmas.rpy:356
 translate vietnamese xmas_grace_deep_853be82f:
@@ -568,13 +568,13 @@ translate vietnamese xmas_grace_deep_853be82f:
 translate vietnamese xmas_grace_end_0e7f2ecd:
 
     # me "[grace], I'm cumming. Try to drink it!"
-    me "[grace], Tôi đang kiêm nhiệm. Cố gắng uống nó!"
+    me "[grace], anh sắp ra rồi. Thử uống nó xem!"
 
 # game/events/special/christmas.rpy:365
 translate vietnamese xmas_grace_end_57f0a9e0:
 
     # me "Fuck!"
-    me "Fuck!"
+    me "Đệt!"
 
 # game/events/special/christmas.rpy:366
 translate vietnamese xmas_grace_end_cfd9864d:
@@ -586,7 +586,7 @@ translate vietnamese xmas_grace_end_cfd9864d:
 translate vietnamese xmas_grace_end_b071f068:
 
     # me "Ah... That was great. How's it [grace]?"
-    me "Ah... Điều đó thật tuyệt. Thế nào rồi [grace]?"
+    me "Ah... tuyệt cà là vời. Thế nào rồi [grace]?"
 
 # game/events/special/christmas.rpy:371
 translate vietnamese xmas_grace_end_481a9441:
@@ -616,31 +616,31 @@ translate vietnamese xmas_grace_end_9c1c936e:
 translate vietnamese xmas_grace_end_63521f6f:
 
     # me "Yeah, I hear it's an acquired taste. Think about it as practice for when you start drinking."
-    me "Yeah, Tôi nghe nói đó là một hương vị có được. Hãy nghĩ về nó như một bài tập khi bạn bắt đầu uống rượu."
+    me "Yeah, anh nghe nói đó là một hương vị đặc biệt. Hãy nghĩ về nó như một bài tập khi em bắt đầu uống rượu."
 
 # game/events/special/christmas.rpy:382
 translate vietnamese xmas_grace_end_7c914314:
 
     # grace "You want me to drink?"
-    grace "Bạn muốn tôi uống?"
+    grace "Anh muốn em uống?"
 
 # game/events/special/christmas.rpy:383
 translate vietnamese xmas_grace_end_1715188d:
 
     # me "It's Christmas. Some eggnog wouldn't hurt you."
-    me "Đây là Giáng sinh mà. Một vài cốc eggnog sẽ không làm hại em đâu."
+    me "Đây là Giáng sinh mà. Vài ly cocktail trứng sữa sẽ không làm hại em đâu."
 
 # game/events/special/christmas.rpy:384
 translate vietnamese xmas_grace_end_7300ccce:
 
     # grace "I don't know..."
-    grace "Tôi không biết..."
+    grace "Em không biết nữa..."
 
 # game/events/special/christmas.rpy:385
 translate vietnamese xmas_grace_end_d349bd3f:
 
     # me "Well, you can take a sip. If you don't like it, try something else ok?"
-    me "Chà, bạn có thể uống một ngụm. Nếu bạn không thích nó, hãy thử cái khác ok?"
+    me "Chà, em có thể uống một ngụm. Nếu em không thích nó, hãy thử cái khác được chứ?"
 
 # game/events/special/christmas.rpy:386
 translate vietnamese xmas_grace_end_fc013629:
@@ -652,55 +652,55 @@ translate vietnamese xmas_grace_end_fc013629:
 translate vietnamese xmas_grace_end_969961b1:
 
     # th "She seems more like herself, but still not fully awakened."
-    th "Cô ấy có vẻ giống chính mình hơn, nhưng vẫn chưa hoàn toàn thức tỉnh."
+    th "Em ấy có vẻ giống chính mình hơn, nhưng vẫn chưa hoàn toàn thức tỉnh."
 
 # game/events/special/christmas.rpy:398
 translate vietnamese xmas_lexi_095e6031:
 
     # lexi "You're late!"
-    lexi "Bạn đến muộn!"
+    lexi "Anh đến muộn!"
 
 # game/events/special/christmas.rpy:399
 translate vietnamese xmas_lexi_6643aff7:
 
     # me "I guess I'm in the naughty list?"
-    me "Tôi đoán tôi đang ở trong danh sách nghịch ngợm?"
+    me "Anh đoán là mình đang ở trong danh sách trẻ hư?"
 
 # game/events/special/christmas.rpy:400
 translate vietnamese xmas_lexi_532176e9:
 
     # lexi "That goes without saying! I'm trying to get everything in line for the trip, but these lazy elves can't get anything right!"
-    lexi "Mà đi mà không nói! Tôi đang cố gắng chuẩn bị mọi thứ cho chuyến đi, nhưng những chú lùn lười biếng này không thể làm được gì cả!"
+    lexi "Nó đi mà không nói! Em đang cố gắng chuẩn bị mọi thứ cho chuyến đi, nhưng những chú lùn lười biếng này không thể làm được gì cả!"
 
 # game/events/special/christmas.rpy:401
 translate vietnamese xmas_lexi_3d793e68:
 
     # me "So, you're going outside like this?"
-    me "Vì vậy, bạn đang đi ra ngoài như thế này?"
+    me "Vậy, em đang chuẩn bị đi ra ngoài như thế này?"
 
 # game/events/special/christmas.rpy:405
 translate vietnamese xmas_lexi_1d7b7844:
 
     # lexi "That much is a no brainer. Someone has to, so I'm going."
-    lexi "Nhiều như vậy là không có trí tuệ. Ai đó phải làm vậy, vì vậy tôi sẽ."
+    lexi "Ai đó phải làm vậy, vì vậy em sẽ đi."
 
 # game/events/special/christmas.rpy:406
 translate vietnamese xmas_lexi_0ba93380:
 
     # th "Even if it's a dream, she's going out for others' sake... But I don't feel comfortable with her going out like this, even in a dream."
-    th "Cho dù là mơ, cô ấy ra ngoài vì người khác ... Nhưng tôi không cảm thấy thoải mái khi cô ấy ra ngoài như thế này, kể cả trong mơ."
+    th "Cho dù là mơ, cô ấy ra ngoài vì người khác... Nhưng mình không cảm thấy thoải mái khi cô ấy ra ngoài như thế này, kể cả trong mơ."
 
 # game/events/special/christmas.rpy:407
 translate vietnamese xmas_lexi_025649e1:
 
     # me "Well, until the sleigh is ready to depart, how about I help you relax?"
-    me "Chà, cho đến khi xe trượt tuyết sẵn sàng khởi hành, tôi giúp bạn thư giãn thì sao?"
+    me "Ầy, cho đến khi xe trượt tuyết sẵn sàng khởi hành, anh giúp em thư giãn chút được chứ?"
 
 # game/events/special/christmas.rpy:411
 translate vietnamese xmas_lexi_d840e6c0:
 
     # lexi "What would you even do? It's not like-"
-    lexi "Bạn thậm chí sẽ làm gì? Nó không thích-"
+    lexi "Anh có thể làm gì được chứ? Nó không phải-"
 
 # game/events/special/christmas.rpy:412
 translate vietnamese xmas_lexi_37bd6445:
@@ -712,85 +712,85 @@ translate vietnamese xmas_lexi_37bd6445:
 translate vietnamese xmas_lexi_1249f6af:
 
     # lexi "What are you thinking?! Even the elves are better than this-"
-    lexi "Bạn đang nghĩ gì vậy?! Ngay cả những chú lùn cũng giỏi hơn thế này-"
+    lexi "Anh đang nghĩ gì vậy?! Ngay cả những chú lùn cũng giỏi hơn thế này-"
 
 # game/events/special/christmas.rpy:417
 translate vietnamese xmas_lexi_f7bf5d2b:
 
     # me "Mhm. I'm sure they're, but right now it's my turn to get you nice and ready."
-    me "Mhm. Tôi chắc chắn là họ, nhưng bây giờ đến lượt tôi chuẩn bị cho bạn tốt và sẵn sàng."
+    me "Mhm. Anh chắc chắn là họ tốt hơn, nhưng bây giờ thì đến lượt anh chuẩn bị cho em thật tốt và sẵn sàng."
 
 # game/events/special/christmas.rpy:421
 translate vietnamese xmas_lexi_8809846b:
 
     # me "Oh? No panties? Someone's totally in the naughty list."
-    me "Oh? Không có quần lót? Ai đó hoàn toàn nằm trong danh sách nghịch ngợm."
+    me "Oh? Không có quần lót? Xem ai ở trong danh sách trẻ hư này."
 
 # game/events/special/christmas.rpy:422
 translate vietnamese xmas_lexi_81ed63e6:
 
     # lexi "You-! Ah!"
-    lexi "You-! Ah!"
+    lexi "Anh-! Ah!"
 
 # game/events/special/christmas.rpy:454
 translate vietnamese xmas_lexi_selector_ea305479:
 
     # me "Ask for it."
-    me "Yêu cầu nó."
+    me "Cầu xin nó đi."
 
 # game/events/special/christmas.rpy:455
 translate vietnamese xmas_lexi_selector_945a73bc:
 
     # lexi "What?"
-    lexi "Gì?"
+    lexi "Hả?"
 
 # game/events/special/christmas.rpy:456
 translate vietnamese xmas_lexi_selector_a85f03bd:
 
     # me "I'm waiting."
-    me "tôi đang đợi."
+    me "Anh đang đợi đây."
 
 # game/events/special/christmas.rpy:460
 translate vietnamese xmas_lexi_selector_81376f32:
 
     # lexi "Oh, you have to be-"
-    lexi "Ồ, bạn phải-"
+    lexi "Ồ, anh phải-"
 
 # game/events/special/christmas.rpy:461
 translate vietnamese xmas_lexi_selector_393bf500:
 
     # me "I'm not. You heard it right."
-    me "Tôi không. Bạn đã nghe nó đúng."
+    me "Anh không có đâu. Em nghe đúng rồi đấy."
 
 # game/events/special/christmas.rpy:462
 translate vietnamese xmas_lexi_selector_943758a7:
 
     # lexi "Oh, for Rudolph's sake! Make me come... please?!"
-    lexi "Oh, vì lợi ích của Rudolph! Làm ơn cho tôi đến ...?!"
+    lexi "Oh, lậy cụ! Làm ơn cho em ra đi...?!"
 
 # game/events/special/christmas.rpy:463
 translate vietnamese xmas_lexi_selector_ca9e72a0:
 
     # me "Ahaha, I didn't even need to tell you the last part."
-    me "Ahaha, Tôi thậm chí không cần phải nói với bạn phần cuối cùng."
+    me "Ahaha, anh thậm chí còn không cần phải nói với em phần cuối cùng."
 
 # game/events/special/christmas.rpy:464
 translate vietnamese xmas_lexi_selector_d73e5e4c:
 
     # lexi "I already said it-!"
-    lexi "Tôi đã nói rồi-!"
+    lexi "Em đã nói rồi-!"
 
 # game/events/special/christmas.rpy:465
 translate vietnamese xmas_lexi_selector_7cbeb0b3:
 
     # me "I will make you cum, but you need to give me something nice to look at."
-    me "Tôi sẽ làm cho bạn kiêm, nhưng bạn cần phải cho tôi một cái gì đó đẹp để nhìn."
+    me "Anh sẽ làm cho em ra, nhưng em cần phải cho anh một cái gì đó đẹp để ngắm chứ."
 
 # game/events/special/christmas.rpy:466
 translate vietnamese xmas_lexi_selector_8f72d0dc:
 
     # lexi "Alright, alright! Just get back to it!"
-    lexi "Được rồi được rồi! Chỉ cần quay lại với nó!"
+    lexi "Được rồi, được rồi! Cứ quay lại làm tiếp đi!"
 
 # game/events/special/christmas.rpy:496
 translate vietnamese xmas_lexi_lick_d5518e47:
@@ -802,13 +802,13 @@ translate vietnamese xmas_lexi_lick_d5518e47:
 translate vietnamese xmas_lexi_lick_56961184:
 
     # th "Ah, nice moans."
-    th "Ah, những tiếng rên hay."
+    th "Ah, những tiếng rên."
 
 # game/events/special/christmas.rpy:498
 translate vietnamese xmas_lexi_lick_abb1d01a:
 
     # lexi "S-stop right this instant!"
-    lexi "S-dừng ngay lập tức này!"
+    lexi "D-dừng ngay lập tức!"
 
 # game/events/special/christmas.rpy:499
 translate vietnamese xmas_lexi_lick_6e50d3ef:
@@ -826,13 +826,13 @@ translate vietnamese xmas_lexi_slow_48e048a1:
 translate vietnamese xmas_lexi_slow_5552398c:
 
     # th "Haha! I already got you."
-    th "Haha! Tôi đã có bạn."
+    th "Haha! Anh tóm được em rồi."
 
 # game/events/special/christmas.rpy:508
 translate vietnamese xmas_lexi_slow_654095c5:
 
     # me "You would hate that."
-    me "Bạn sẽ ghét điều đó."
+    me "Em sẽ ghét điều này."
 
 # game/events/special/christmas.rpy:509
 translate vietnamese xmas_lexi_slow_7e9a6e96:
@@ -856,25 +856,25 @@ translate vietnamese xmas_lexi_deep_6a6fdd9a:
 translate vietnamese xmas_lexi_deep_78cf986f:
 
     # lexi "Keep-! Going-! TO COME!"
-    lexi "Giữ cho-! Đang đi-! ĐẾN!"
+    lexi "Giữ cho-! Đang đi-! RA!"
 
 # game/events/special/christmas.rpy:521
 translate vietnamese xmas_lexi_deep_6db98852:
 
     # me "Not yet! Don't come until I'm done!"
-    me "Vẫn chưa! Đừng đến cho đến khi tôi xong việc!"
+    me "Vẫn chưa đâu! Đừng ra cho đến khi anh xong việc!"
 
 # game/events/special/christmas.rpy:522
 translate vietnamese xmas_lexi_deep_3437d966:
 
     # lexi "Please! Please, please, please just let me cum already!"
-    lexi "Xin vui lòng! Làm ơn, làm ơn hãy cứ để tôi kiêm luôn!"
+    lexi "Làm ơn! Làm ơn, làm ơn hãy cứ để em ra luôn đi!"
 
 # game/events/special/christmas.rpy:527
 translate vietnamese xmas_lexi_end_b93d6f16:
 
     # me "Cum!"
-    me "Cum!"
+    me "Ra!"
 
 # game/events/special/christmas.rpy:531
 translate vietnamese xmas_lexi_end_738b8a10:
@@ -886,7 +886,7 @@ translate vietnamese xmas_lexi_end_738b8a10:
 translate vietnamese xmas_lexi_end_247e8ad4:
 
     # me "Huh, I guess the kids' chimneys can stay lit tonight."
-    me "Huh, Tôi đoán ống khói của bọn trẻ có thể sáng tối nay."
+    me "Huh, anh đoán là ống khói của bọn nhỏ có thể được giữ ấm tối nay đây."
 
 # game/events/special/christmas.rpy:536
 translate vietnamese xmas_lexi_end_3c14f861:
@@ -904,49 +904,49 @@ translate vietnamese xmas_mina_c3fb1b61:
 translate vietnamese xmas_mina_5855dabd:
 
     # me "What are you supposed to be...? The cat that scratches the Christmas Tree?"
-    me "Bạn được cho là gì ...? Con mèo cào cây thông Noel?"
+    me "Em là cái gì vậy...? Một con mèo cào cây thông Noel?"
 
 # game/events/special/christmas.rpy:548
 translate vietnamese xmas_mina_c90a8a7b:
 
     # mina "I see you have quite the cattitude! Good you'll need it."
-    mina "Tôi thấy bạn có thái độ khá tốt! Tốt bạn sẽ cần nó."
+    mina "Em thấy bạn có thái độ khá tốt! Anh sẽ cần nó đấy."
 
 # game/events/special/christmas.rpy:549
 translate vietnamese xmas_mina_42d82cb1:
 
     # me "What did you just say...?"
-    me "Bạn vừa nói gì vậy...?"
+    me "Em vừa nói gì vậy...?"
 
 # game/events/special/christmas.rpy:553
 translate vietnamese xmas_mina_bea306c0:
 
     # mina "Now listen up, [me] we have a Christmas to steal."
-    mina "Bây giờ nghe này, [me] chúng ta có một Giáng sinh để đánh cắp."
+    mina "Bây giờ nghe này, [me] chúng ta có một mùa Giáng sinh để đánh cắp."
 
 # game/events/special/christmas.rpy:554
 translate vietnamese xmas_mina_9c4dd973:
 
     # me "Why would I even want to do that, [mina]?"
-    me "Tại sao tôi thậm chí muốn làm điều đó, [mina]?"
+    me "Tại sao anh lại muốn làm điều đó chứ, [mina]?"
 
 # game/events/special/christmas.rpy:558
 translate vietnamese xmas_mina_c02608c5:
 
     # mina "Beclaws I say so!"
-    mina "Trở thành luật lệ, tôi nói vậy!"
+    mina "Để cào mọi thứ!"
 
 # game/events/special/christmas.rpy:559
 translate vietnamese xmas_mina_ea5294e9:
 
     # me "... We're not stealing Christmas, we're waking you up. With cold water, preferably."
-    me "... Chúng tôi không đánh cắp Giáng sinh, chúng tôi đang đánh thức bạn. Tốt nhất là với nước lạnh."
+    me "... Chúng ta không đánh cắp Giáng sinh, chúng ta đang cố đánh thức em. Tốt nhất là với nước lạnh."
 
 # game/events/special/christmas.rpy:563
 translate vietnamese xmas_mina_d7ea1942:
 
     # mina "Oh... Are you sure you wouldn't rather get warmer instead? It's a cold night, and through excer-"
-    mina "Oh... Are you sure you wouldn't rather get warmer instead? It's a cold night, and through excer-"
+    mina "Oh... Anh có chắc là anh không muốn ấm hơn thay vì làm vậy à? Đây là một đêm lạnh, và thông qu-"
 
 # game/events/special/christmas.rpy:564
 translate vietnamese xmas_mina_5f09a720:
@@ -964,37 +964,37 @@ translate vietnamese xmas_mina_e35d92e2:
 translate vietnamese xmas_mina_21403fc0:
 
     # me "It's freezing, so let's get to the warming up part."
-    me "Trời đóng băng, vì vậy chúng ta hãy bắt đầu phần khởi động."
+    me "Trời khá lạnh, vì vậy chúng ta hãy bắt đầu phần khởi động."
 
 # game/events/special/christmas.rpy:573
 translate vietnamese xmas_mina_a1aca639:
 
     # mina "B-but I just wanted to-! Aahh~!"
-    mina "N-nhưng tôi chỉ muốn-! Aahh~!"
+    mina "N-nhưng em chỉ muốn-! Aahh~!"
 
 # game/events/special/christmas.rpy:630
 translate vietnamese xmas_mina_doggy_88e454bc:
 
     # mina "This's not- what I wanted!"
-    mina "Đây không phải là điều tôi muốn!"
+    mina "Đây không phải là điều em muốn!"
 
 # game/events/special/christmas.rpy:631
 translate vietnamese xmas_mina_doggy_35930e91:
 
     # me "You offered it, so we're going along with it."
-    me "Bạn đã cung cấp nó, vì vậy chúng tôi sẽ làm theo."
+    me "Em đòi hỏi trước đấy, anh chỉ làm theo thôi."
 
 # game/events/special/christmas.rpy:632
 translate vietnamese xmas_mina_doggy_b225d85a:
 
     # mina "I wanted to take-! Christmas!"
-    mina "Tôi muốn lấy-! Giáng sinh!"
+    mina "Em muốn lấy-! Giáng sinh!"
 
 # game/events/special/christmas.rpy:633
 translate vietnamese xmas_mina_doggy_e13a481a:
 
     # me "Well, you're getting a merry one."
-    me "Chà, bạn đang nhận được một niềm vui."
+    me "Chà, em đang nhận được một niềm vui."
 
 # game/events/special/christmas.rpy:634
 translate vietnamese xmas_mina_doggy_a5a3f0d5:
@@ -1018,13 +1018,13 @@ translate vietnamese xmas_mina_side_73480fba:
 translate vietnamese xmas_mina_side_3b218546:
 
     # me "Didn't you want to stop?"
-    me "Bạn không muốn dừng lại sao?"
+    me "Em không muốn dừng lại sao?"
 
 # game/events/special/christmas.rpy:643
 translate vietnamese xmas_mina_side_eab86d2b:
 
     # mina "But it's so close! Keep going, it's almost there!"
-    mina "Nhưng nó thật gần! Tiếp tục đi, gần đến nơi rồi!"
+    mina "Nhưng nó sắp xong rồi! Tiếp tục đi, gần đến nơi rồi!"
 
 # game/events/special/christmas.rpy:648
 translate vietnamese xmas_mina_rever_3ffff641:
@@ -1036,13 +1036,13 @@ translate vietnamese xmas_mina_rever_3ffff641:
 translate vietnamese xmas_mina_rever_a1774e80:
 
     # mina "Need to- scratch that itch!"
-    mina "Cần- gãi ngứa!"
+    mina "Cần- gãi chỗ ngứa ngứa!"
 
 # game/events/special/christmas.rpy:650
 translate vietnamese xmas_mina_rever_79483769:
 
     # me "I knew you had it in you! Good kitty!"
-    me "Tôi biết bạn có nó trong bạn! Mèo ngoan!"
+    me "Anh biết em có nó trong em mà! Mèo ngoan!"
 
 # game/events/special/christmas.rpy:651
 translate vietnamese xmas_mina_rever_cd1a11c5:
@@ -1054,19 +1054,19 @@ translate vietnamese xmas_mina_rever_cd1a11c5:
 translate vietnamese xmas_mina_rever_8f3316e0:
 
     # me "I can't believe this... Well, I am not complaining."
-    me "Tôi không thể tin được điều này ... Chà, tôi không phàn nàn."
+    me "Anh không thể tin được điều này... Chà, không phải là anh đang phàn nàn hay gì đâu."
 
 # game/events/special/christmas.rpy:657
 translate vietnamese xmas_mina_end_1a61a19b:
 
     # me "Are you warm yet?"
-    me "Bạn đã ấm chưa?"
+    me "Em đã ấm chưa?"
 
 # game/events/special/christmas.rpy:658
 translate vietnamese xmas_mina_end_09a2c87a:
 
     # mina "A-almost! I feel it- I'M CUMMING~!"
-    mina "A-hầu như! Tôi cảm thấy điều đó- TÔI ĐANG CUMMING~!"
+    mina "S-Sắp! Em có thể cảm thấy nó- EM ĐANG RAAAA~!"
 
 # game/events/special/christmas.rpy:662
 translate vietnamese xmas_mina_end_3f34e4f9:
@@ -1078,37 +1078,37 @@ translate vietnamese xmas_mina_end_3f34e4f9:
 translate vietnamese xmas_mina_end_cc84c18a:
 
     # me "Haha, this was pretty great, [mina]"
-    me "Haha, điều này khá tuyệt vời, [mina]"
+    me "Haha, điều này khá là tuyệt vời đấy [mina]"
 
 # game/events/special/christmas.rpy:667
 translate vietnamese xmas_mina_end_1c59c437:
 
     # me "[mina]? You ok?"
-    me "[mina]? Bạn ổn không?"
+    me "[mina]? Em ổn không?"
 
 # game/events/special/christmas.rpy:668
 translate vietnamese xmas_mina_end_d175bfc2:
 
     # mina "Purrfect~"
-    mina "Purrfect~"
+    mina "Moẻn hảo~"
 
 # game/events/special/christmas.rpy:676
 translate vietnamese xmas_alice_b7e56a85:
 
     # alice "I'm late, I'm late, I'm late!"
-    alice "Tôi đến muộn, tôi đến muộn, tôi đến muộn!"
+    alice "Mình đến muộn, mình đến muộn, mình đến muộn!"
 
 # game/events/special/christmas.rpy:677
 translate vietnamese xmas_alice_2e3f79de:
 
     # me "Woah, that's a lot of boxes."
-    me "Woah, đó là rất nhiều hộp."
+    me "Woah, đó là rất nhiều hộp đấy."
 
 # game/events/special/christmas.rpy:681
 translate vietnamese xmas_alice_344b74e5:
 
     # alice "Oh thank you! I thought I would do this all alone!"
-    alice "Oh cảm ơn bạn! Tôi nghĩ rằng tôi sẽ làm tất cả điều này một mình!"
+    alice "Oh cảm ơn anh! Em tưởng là mình sẽ phải làm tất cả điều này một mình!"
 
 # game/events/special/christmas.rpy:682
 translate vietnamese xmas_alice_7be8f58a:
@@ -1120,97 +1120,97 @@ translate vietnamese xmas_alice_7be8f58a:
 translate vietnamese xmas_alice_c202cc54:
 
     # alice "YES! The Holy Night depends on this, and we're late! Now get here and help me!"
-    alice "VÂNG! Đêm Thánh phụ thuộc vào điều này, và chúng ta đã đến muộn! Bây giờ đến đây và giúp tôi!"
+    alice "VÂNG! Đêm Thánh phụ thuộc vào điều này, và chúng ta đã đến muộn! Bây giờ đến đây và giúp em!"
 
 # game/events/special/christmas.rpy:687
 translate vietnamese xmas_alice_5040bc3f:
 
     # me "I don't mind working, but I want to be paid in advance."
-    me "Tôi không ngại làm việc, nhưng tôi muốn được trả trước."
+    me "Anh không ngại làm việc, nhưng anh muốn được trả trước."
 
 # game/events/special/christmas.rpy:688
 translate vietnamese xmas_alice_97a5e9a8:
 
     # alice "I don't handle that!"
-    alice "Tôi không xử lý điều đó!"
+    alice "Em không xử lý điều đó!"
 
 # game/events/special/christmas.rpy:692
 translate vietnamese xmas_alice_97dcdaeb:
 
     # alice "Discuss that with the Big Boss later, now help me."
-    alice "Thảo luận điều đó với Big Boss sau, bây giờ giúp tôi."
+    alice "Thảo luận điều đó với sếp lớn sau đi, bây giờ giúp em nào."
 
 # game/events/special/christmas.rpy:693
 translate vietnamese xmas_alice_e43b6d38:
 
     # me "Hey, if you want help, you're the one paying."
-    me "Này, nếu bạn muốn giúp đỡ, bạn là người trả tiền."
+    me "Này, nếu em muốn giúp đỡ, em là người trả công."
 
 # game/events/special/christmas.rpy:697
 translate vietnamese xmas_alice_f811c883:
 
     # alice "Ugh, fine, how much?!"
-    alice "Ugh, tốt, bao nhiêu?!"
+    alice "Ugh, tốt thôi, bao nhiêu?!"
 
 # game/events/special/christmas.rpy:698
 translate vietnamese xmas_alice_3ad03c63:
 
     # me "About once, in the ass."
-    me "Khoảng một lần, trong ass."
+    me "Khoảng một lần, ở cửa sau."
 
 # game/events/special/christmas.rpy:702
 translate vietnamese xmas_alice_a6167a27:
 
     # alice "What?"
-    alice "What?"
+    alice "Hả?"
 
 # game/events/special/christmas.rpy:703
 translate vietnamese xmas_alice_3c184332:
 
     # me "Don't worry, you will also get something out of it."
-    me "đừng lo lắng, bạn cũng sẽ nhận được điều gì đó từ nó."
+    me "đừng lo, em cũng sẽ nhận được điều gì đó từ nó."
 
 # game/events/special/christmas.rpy:707
 translate vietnamese xmas_alice_c8cf750c:
 
     # alice "Ughh, alright, fine, but you better get this over with quickly!"
-    alice "Ughh, được rồi, tốt thôi, nhưng tốt hơn hết bạn nên kết thúc chuyện này nhanh chóng!"
+    alice "Ughh, được rồi, tốt thôi, nhưng tốt hơn hết anh nên kết thúc chuyện này nhanh chóng!"
 
 # game/events/special/christmas.rpy:708
 translate vietnamese xmas_alice_881ec043:
 
     # me "Alright, I'll work hard so you can rest, you'll work twice as fast after resting!"
-    me "Được rồi, tôi sẽ làm việc chăm chỉ để bạn có thể nghỉ ngơi, bạn sẽ làm việc nhanh gấp đôi sau khi nghỉ ngơi!"
+    me "Được rồi, anh sẽ làm việc chăm chỉ để em có thể nghỉ ngơi, em sẽ làm việc nhanh gấp đôi sau khi nghỉ ngơi!"
 
 # game/events/special/christmas.rpy:712
 translate vietnamese xmas_alice_eceace5c:
 
     # alice "Sounds great! Let me grab something to not hurt my knees."
-    alice "Âm thanh tuyệt vời! Hãy để tôi lấy một cái gì đó để không làm đau đầu gối của tôi."
+    alice "Nghe có vẻ hay đấy! Để em lấy một cái gì đó để không làm đau đầu gối của mình đã."
 
 # game/events/special/christmas.rpy:769
 translate vietnamese xmas_alice_vag_3428f307:
 
     # alice "Ah! Didn't you want, anal??"
-    alice "Ah! Bạn không muốn, hậu môn??"
+    alice "Ah! Không phải anh muốn, lỗ nhị sao??"
 
 # game/events/special/christmas.rpy:770
 translate vietnamese xmas_alice_vag_497ff565:
 
     # me "Wait a minute. I'm preparing you so you don't tear something."
-    me "Đợi tí. Tôi đang chuẩn bị cho bạn để bạn không làm rách cái gì đó."
+    me "Đợi tí. Anh đang chuẩn bị cho bạn để em không làm rách cái gì đó."
 
 # game/events/special/christmas.rpy:771
 translate vietnamese xmas_alice_vag_c1991041:
 
     # me "That, and I wanted to surprise you a bit."
-    me "That, và tôi muốn làm bạn ngạc nhiên một chút."
+    me "Đó, và anh muốn làm em ngạc nhiên một chút."
 
 # game/events/special/christmas.rpy:772
 translate vietnamese xmas_alice_vag_0a59ceb2:
 
     # alice "Hmph! Fine, just... hurry..."
-    alice "Hmph! Fine, just... hurry..."
+    alice "Hmph! Được rồi, hãy nhanh... lên đi..."
 
 # game/events/special/christmas.rpy:778
 translate vietnamese xmas_alice_slow_4c830492:
@@ -1222,19 +1222,19 @@ translate vietnamese xmas_alice_slow_4c830492:
 translate vietnamese xmas_alice_slow_fd24a6d4:
 
     # me "See? Better than just sticking it in."
-    me "Nhìn thấy? Tốt hơn là chỉ gắn nó vào."
+    me "Đó? Tốt hơn là chỉ gắn nó vào."
 
 # game/events/special/christmas.rpy:780
 translate vietnamese xmas_alice_slow_9dc7cf22:
 
     # alice "Shut. Up. {small}My poor little asshole...{/small}"
-    alice "Im đi. Lên. {small}Thằng khốn nhỏ tội nghiệp của tôi...{/small}"
+    alice "Im. Đi. {small}cái lỗ đít tội nghiệp của em...{/small}"
 
 # game/events/special/christmas.rpy:781
 translate vietnamese xmas_alice_slow_85f3ddb4:
 
     # me "You will get it in no time."
-    me "Bạn sẽ nhận được nó ngay lập tức."
+    me "Em sẽ cảm thấy được nó ngay lập tức thôi."
 
 # game/events/special/christmas.rpy:782
 translate vietnamese xmas_alice_slow_02672a26:
@@ -1246,31 +1246,31 @@ translate vietnamese xmas_alice_slow_02672a26:
 translate vietnamese xmas_alice_slow_82a949a3:
 
     # me "See? You little minx."
-    me "Nhìn thấy? Bạn nhỏ minx."
+    me "Thấy chưa?"
 
 # game/events/special/christmas.rpy:789
 translate vietnamese xmas_alice_fast_4875b5a9:
 
     # me "Much better!"
-    me "Tốt hơn nhiều!"
+    me "Tốt hơn nhiều rồi!"
 
 # game/events/special/christmas.rpy:790
 translate vietnamese xmas_alice_fast_3000839a:
 
     # alice "Wait!"
-    alice "Chờ đợi!"
+    alice "Chờ đã!"
 
 # game/events/special/christmas.rpy:791
 translate vietnamese xmas_alice_fast_910a7805:
 
     # me "No way, when you're tightening up like this."
-    me "Không thể nào, khi bạn đang thắt chặt như thế này."
+    me "Không thể nào, khi em đang thắt chặt như thế này."
 
 # game/events/special/christmas.rpy:792
 translate vietnamese xmas_alice_fast_5b1ea868:
 
     # alice "...{small}uck mhen{/small}"
-    alice "...{small}uck mhen{/small}"
+    alice "...{small}ụ ie{/small}"
 
 # game/events/special/christmas.rpy:793
 translate vietnamese xmas_alice_fast_14376ec1:
@@ -1282,13 +1282,13 @@ translate vietnamese xmas_alice_fast_14376ec1:
 translate vietnamese xmas_alice_fast_7ee51280:
 
     # alice "Just fuck me then! I don't care about the stupid boxes, so just fuck me!"
-    alice "Hãy đụ tôi đi! Tôi không quan tâm đến những cái hộp ngu ngốc, vì vậy chỉ cần đụ đi!"
+    alice "Hãy đụ em đi! Tôi không quan tâm đến những cái hộp ngu ngốc nữa, vì vậy chỉ cần đụ đi!"
 
 # game/events/special/christmas.rpy:795
 translate vietnamese xmas_alice_fast_8c2f4472:
 
     # me "Good girl! Daddy's got present for you!"
-    me "Cô gái ngoan! Bố có quà cho con!"
+    me "Thế mới phải chứ."
 
 # game/events/special/christmas.rpy:803
 translate vietnamese xmas_alice_end_bc0c4a01:
@@ -1306,7 +1306,7 @@ translate vietnamese xmas_alice_end_b97190fc:
 translate vietnamese xmas_alice_end_9bc4aaf2:
 
     # me "Did you, like what Santa brought you?"
-    me "Bạn có thích những gì ông già Noel mang đến cho bạn không?"
+    me "Em có thích những gì ông già Noel mang đến cho em không?"
 
 # game/events/special/christmas.rpy:809
 translate vietnamese xmas_alice_end_74f05a4e:
@@ -1318,19 +1318,19 @@ translate vietnamese xmas_alice_end_74f05a4e:
 translate vietnamese xmas_alice_end_5d1e69dd:
 
     # me "Oh. Goodnight then. Tonight there's no more presents I guess. I'm sure the kids will understand."
-    me "Oh. Goodnight then. Tonight there's no more presents I guess. I'm sure the kids will understand."
+    me "Oh. Thế thì chúc ngon vậy. Anh đoán tối nay sẽ không còn quà nữa. Anh chắc chắn là lũ trẻ sẽ hiểu thôi."
 
 # game/events/special/christmas.rpy:817
 translate vietnamese xmas_ending_a52e0f89:
 
     # me "Guess it's the time to end all of this. They are almost awake."
-    me "Đoán rằng đã đến lúc kết thúc tất cả những điều này. Họ gần như tỉnh táo."
+    me "Chắc là đã đến lúc kết thúc tất cả những điều này rồi. Họ sắp thức dậy rồi."
 
 # game/events/special/christmas.rpy:818
 translate vietnamese xmas_ending_04fa38f4:
 
     # "Voice" "{small}Ahhh, do it faster-{/small}"
-    "Voice" "{small}Ahhh, do it faster-{/small}"
+    "Giọng nói" "{small}Ahhh, làm nhanh hơn đi-{/small}"
 
 # game/events/special/christmas.rpy:819
 translate vietnamese xmas_ending_7134025a:
@@ -1342,31 +1342,31 @@ translate vietnamese xmas_ending_7134025a:
 translate vietnamese xmas_ending_1ddbd9ef:
 
     # me "Damn."
-    me "Damn."
+    me "Vãi lồn."
 
 # game/events/special/christmas.rpy:824
 translate vietnamese xmas_ending_c71a16fd:
 
     # lexi "You... stupid pervert... stupid elf... Christmas is ruined."
-    lexi "You... stupid pervert... stupid elf... Christmas is ruined."
+    lexi "Cái tên... biến thái ngu ngốc... lũ yêu tinh ngu ngốc... Giáng sinh đã bị hủy hoại rồi."
 
 # game/events/special/christmas.rpy:825
 translate vietnamese xmas_ending_b63c3781:
 
     # th "Oh, right, the presents... It's just a dream, so it doesn't really matter."
-    th "Ồ, đúng rồi, những món quà ... Đó chỉ là một giấc mơ, vì vậy nó không thực sự quan trọng."
+    th "Ồ, đúng rồi, những món quà... Đó chỉ là một giấc mơ, vì vậy nó không thực sự quan trọng."
 
 # game/events/special/christmas.rpy:826
 translate vietnamese xmas_ending_748835d1:
 
     # th "Actually, I think this Christmas celebration suits us just fine."
-    th "Thực ra, tôi nghĩ lễ Giáng sinh này rất hợp với chúng tôi."
+    th "Thực ra, mình nghĩ lễ Giáng sinh này rất hợp với mọi người."
 
 # game/events/special/christmas.rpy:827
 translate vietnamese xmas_ending_4e06e1a5:
 
     # alice "Please, let's swap places. I want to rest... and I want a raise too!"
-    alice "Làm ơn, hãy đổi chỗ cho nhau. Tôi muốn nghỉ ngơi ... và tôi cũng muốn tăng lương!"
+    alice "Làm ơn, hãy đổi chỗ cho nhau đi. Tớ muốn nghỉ ngơi... và tớ cũng muốn tăng lương!"
 
 # game/events/special/christmas.rpy:828
 translate vietnamese xmas_ending_4d306895:
@@ -1378,7 +1378,7 @@ translate vietnamese xmas_ending_4d306895:
 translate vietnamese xmas_ending_43e253da:
 
     # me "Well, since I ruined everything, why don't you let me make it better? Alice, let's swap."
-    me "Chà, vì tôi đã làm hỏng mọi thứ, tại sao bạn không để tôi làm cho nó tốt hơn? Alice, hãy hoán đổi."
+    me "Chà, vì anh đã làm hỏng mọi thứ, tại sao en không để anh làm cho nó tốt hơn? Alice, hãy đổi chỗ đi."
 
 # game/events/special/christmas.rpy:833
 translate vietnamese xmas_ending_6f7ec6e4:
@@ -1390,19 +1390,19 @@ translate vietnamese xmas_ending_6f7ec6e4:
 translate vietnamese xmas_ending_f9aa6bde:
 
     # lexi "You can't be serious..."
-    lexi "You can't be serious..."
+    lexi "Anh không thể nghiêm túc..."
 
 # game/events/special/christmas.rpy:838
 translate vietnamese xmas_ending_0608be44:
 
     # me "I am. Let me make it better [lexi]. After all, don't you want to relax and empty your mind for a bit?"
-    me "Tôi là. Hãy để tôi làm cho nó tốt hơn [lexi]. Rốt cuộc, bạn không muốn thư giãn và đầu óc trống rỗng một chút sao??"
+    me "Anh có đấy. Hãy để anh làm cho nó tốt hơn [lexi]. Sau cùng thì, em không muốn thư giãn và đầu óc trống rỗng một chút sao?"
 
 # game/events/special/christmas.rpy:839
 translate vietnamese xmas_ending_1c852628:
 
     # lexi "{small}Fine...{/small}"
-    lexi "{small}Fine...{/small}"
+    lexi "{small}Được rồi...{/small}"
 
 # game/events/special/christmas.rpy:843
 translate vietnamese xmas_ending_94e83b99:
@@ -1414,31 +1414,31 @@ translate vietnamese xmas_ending_94e83b99:
 translate vietnamese xmas_ending_5dc1fb2d:
 
     # me "You taste great, [lexi]!"
-    me "Bạn ngon tuyệt, [lexi]!"
+    me "Em ngon lắm đấy, [lexi]!"
 
 # game/events/special/christmas.rpy:845
 translate vietnamese xmas_ending_6d435c34:
 
     # alice "{small}Finally some rest.{/small}"
-    alice "{small}Finally some rest.{/small}"
+    alice "{small}Cuối cùng thì một chút nghỉ ngơi.{/small}"
 
 # game/events/special/christmas.rpy:846
 translate vietnamese xmas_ending_395f3e09:
 
     # me "See, the others are also lazing around. So just enjoy yourself!"
-    me "Thấy chưa, những người khác cũng đang lừ đừ xung quanh. Vì vậy, chỉ cần tận hưởng chính mình!"
+    me "Thấy chưa, những người khác cũng đang lười chảy thây ra kia thôi. Vậy nên, cứ tận hưởng thôi!"
 
 # game/events/special/christmas.rpy:847
 translate vietnamese xmas_ending_9beff6cc:
 
     # lexi "Fine! Just keep fucking me!"
-    lexi "Fine! Just keep fucking me!"
+    lexi "Được rồi! Cứ đụ em tiếp đi!"
 
 # game/events/special/christmas.rpy:848
 translate vietnamese xmas_ending_daaea7d8:
 
     # "Voice" "{small}Ok, so you distract them for a bit, I get in an out.{/small}"
-    "Voice" "{small}Được rồi, bạn đánh lạc hướng họ một chút, tôi sẽ ra ngoài.{/small}"
+    "Giọng nói" "{small}Ok, vậy là ngươi đánh lạc hướng họ một chút, ta sẽ ra ngoài.{/small}"
 
 # game/events/special/christmas.rpy:849
 translate vietnamese xmas_ending_a3a653b1:
@@ -1450,25 +1450,25 @@ translate vietnamese xmas_ending_a3a653b1:
 translate vietnamese xmas_ending_855462ee:
 
     # mina "That's the sleigh! THE sleigh! You don't do that in it!!"
-    mina "Đó là xe trượt tuyết! XE trượt tuyết! Bạn không làm điều đó trong đó!!"
+    mina "Đó là xe trượt tuyết! XE trượt tuyết! Chị không làm điều đó trong đấy!!"
 
 # game/events/special/christmas.rpy:854
 translate vietnamese xmas_ending_21c7d74d:
 
     # lexi "Oh, shut it."
-    lexi "Oh, shut it."
+    lexi "Oh, im đi."
 
 # game/events/special/christmas.rpy:855
 translate vietnamese xmas_ending_b94083f6:
 
     # me "Yeah, why is the Christmas thief the one worried about it? And [grace]?"
-    me "Phải, tại sao kẻ trộm Giáng sinh lại là người lo lắng về điều đó? Và [grace]?"
+    me "Phải đấy, tại sao kẻ trộm Giáng sinh lại là người lo lắng về điều đó chứ? Và [grace]?"
 
 # game/events/special/christmas.rpy:856
 translate vietnamese xmas_ending_21faea9b:
 
     # grace "She catvinced me with cookies."
-    grace "She catvinced me with cookies."
+    grace "Chị ấy thao túng tâm lý em bằng một cái bánh quy."
 
 # game/events/special/christmas.rpy:857
 translate vietnamese xmas_ending_3522c826:
@@ -1480,25 +1480,25 @@ translate vietnamese xmas_ending_3522c826:
 translate vietnamese xmas_ending_07b072e7:
 
     # mina "You stole Christmas! I just wanted the leftovers!"
-    mina "Bạn đã đánh cắp Giáng sinh! Tôi chỉ muốn thức ăn thừa!"
+    mina "Anh đã đánh cắp Giáng sinh! Em chỉ muốn thức ăn thừa!"
 
 # game/events/special/christmas.rpy:859
 translate vietnamese xmas_ending_526932b7:
 
     # lexi "Your present is on the back seat. Take it home with you and leave us!"
-    lexi "Quà của anh ở ghế sau. Mang nó về nhà với anh và để lại cho chúng tôi!"
+    lexi "Quà của anh ở ghế sau. Mang nó về nhà với anh và để cho bọn em yên!"
 
 # game/events/special/christmas.rpy:863
 translate vietnamese xmas_ending_c325fe23:
 
     # me "Don't want any more public?"
-    me "Không muốn công khai nữa?"
+    me "Không muốn công khai nữa sao?"
 
 # game/events/special/christmas.rpy:864
 translate vietnamese xmas_ending_60788051:
 
     # lexi "No!"
-    lexi "No!"
+    lexi "Không!"
 
 # game/events/special/christmas.rpy:865
 translate vietnamese xmas_ending_fdb4e830:
@@ -1510,7 +1510,7 @@ translate vietnamese xmas_ending_fdb4e830:
 translate vietnamese xmas_ending_cdff91d3:
 
     # mina "What do you mean in the back seat? There's just- Oh, my~ I like my gift."
-    mina "Ý bạn là gì ở ghế sau? Chỉ có- Ôi chao ~ tôi thích món quà của mình."
+    mina "Ý chị là gì ở ghế sau cơ? Chỉ có- Ôi mẹ ơi~ em thích món quà của mình."
 
 # game/events/special/christmas.rpy:867
 translate vietnamese xmas_ending_e3b59802:
@@ -1522,13 +1522,13 @@ translate vietnamese xmas_ending_e3b59802:
 translate vietnamese xmas_ending_9e8a0513:
 
     # alice "What the? Santa, it's still [me]'s turn!"
-    alice "Cái gì? Ông già Noel, vẫn đến lượt [me]!"
+    alice "Cái gì? Ông già Noel, đó vẫn là lượt của [me]!"
 
 # game/events/special/christmas.rpy:872
 translate vietnamese xmas_ending_136f1c23:
 
     # mina "Easy there, I didn't come for that."
-    mina "Easy there, I didn't come for that."
+    mina "Bình tĩnh đi, tớ không đến vì điều đó."
 
 # game/events/special/christmas.rpy:873
 translate vietnamese xmas_ending_3b3f6b33:
@@ -1546,7 +1546,7 @@ translate vietnamese xmas_ending_4be7bc6b:
 translate vietnamese xmas_ending_4174c2b2:
 
     # mina "Such a hard-working, naughty elf... You should get rewarded~"
-    mina "Một con yêu tinh nghịch ngợm, chăm chỉ như vậy ... Bạn sẽ được khen thưởng~"
+    mina "Một con yêu tinh nghịch ngợm, chăm chỉ như vậy... thì sẽ được khen thưởng~"
 
 # game/events/special/christmas.rpy:879
 translate vietnamese xmas_ending_f14acbb7:
@@ -1558,31 +1558,31 @@ translate vietnamese xmas_ending_f14acbb7:
 translate vietnamese xmas_ending_d8513941:
 
     # lexi "And you? What do you- Ahhh, cumming!"
-    lexi "And you? What do you- Ahhh, cumming!"
+    lexi "Và em? Em đang làm- Ahhh, cumming!"
 
 # game/events/special/christmas.rpy:884
 translate vietnamese xmas_ending_09432d8b:
 
     # grace "Did that feel good, Santa?"
-    grace "Did that feel good, Santa?"
+    grace "Nó có thấy sướng không, Santa?"
 
 # game/events/special/christmas.rpy:885
 translate vietnamese xmas_ending_92dad1f5:
 
     # me "Does it look like she didn't like it, [grace]? Do you want to try?"
-    me "Có vẻ như cô ấy không thích nó, [grace]? Do you want to try?"
+    me "Có vẻ như cô ấy không thích nó, [grace]? Em muốn thử không?"
 
 # game/events/special/christmas.rpy:886
 translate vietnamese xmas_ending_6b829252:
 
     # grace "I think so... Can I?"
-    grace "Tôi nghĩ vậy ... Tôi có thể?"
+    grace "Em nghĩ vậy... Em có thể sao?"
 
 # game/events/special/christmas.rpy:887
 translate vietnamese xmas_ending_8cee9223:
 
     # me "Sure, just come and sit on my lap. I will handle the rest."
-    me "Sure, just come and sit on my lap. I will handle the rest."
+    me "Được chứ, đến đây và ngồi lên đùi anh. Rồi anh sẽ lo mọi thứ còn lại."
 
 # game/events/special/christmas.rpy:888
 translate vietnamese xmas_ending_b6d631e5:
@@ -1594,73 +1594,73 @@ translate vietnamese xmas_ending_b6d631e5:
 translate vietnamese xmas_ending_a652b4c1:
 
     # lexi "Wait, what about me?"
-    lexi "Chờ đã, còn tôi thì sao?"
+    lexi "Chờ đã, còn em thì sao?"
 
 # game/events/special/christmas.rpy:890
 translate vietnamese xmas_ending_8a17d2b1:
 
     # me "You just came. Rest for a bit."
-    me "Bạn vừa mới đến. Nghỉ ngơi một chút."
+    me "Em vừa mới ra thôi. Nghỉ ngơi một chút đi."
 
 # game/events/special/christmas.rpy:891
 translate vietnamese xmas_ending_beb4fdc6:
 
     # lexi "Over some reindeer..."
-    lexi "Over some reindeer..."
+    lexi "Trên mấy con tuần lộc..."
 
 # game/events/special/christmas.rpy:894
 translate vietnamese xmas_ending_72b5df91:
 
     # me "Ok, just lower your hips, yeah, now we just have to-!"
-    me "Ok, chỉ cần hạ thấp hông của bạn, vâng, bây giờ chúng ta chỉ cần-!"
+    me "Ok, chỉ cần hạ thấp hông của em, đúng rồi, bây giờ chúng ta chỉ cần-!"
 
 # game/events/special/christmas.rpy:898
 translate vietnamese xmas_ending_3391b998:
 
     # me "Good girl [grace], you're getting the hang of it!"
-    me "Good girl [grace], you're getting the hang of it!"
+    me "Ngoan lắm [grace], em đang quen dần với nó đấy!"
 
 # game/events/special/christmas.rpy:899
 translate vietnamese xmas_ending_077a7e17:
 
     # grace "Mmm! This is weird."
-    grace "Mmm! This is weird."
+    grace "Mmm! Điều này thật kỳ lạ."
 
 # game/events/special/christmas.rpy:900
 translate vietnamese xmas_ending_cf5225a2:
 
     # me "I can tell you're enjoying it! If you want to feel better, do it faster."
-    me "Tôi có thể nói rằng bạn đang thích nó! Nếu bạn muốn cảm thấy tốt hơn, hãy làm điều đó nhanh hơn."
+    me "Anh có thể nói rằng em đang thích nó! Nếu em muốn cảm thấy tốt hơn, hãy làm điều đó nhanh hơn."
 
 # game/events/special/christmas.rpy:901
 translate vietnamese xmas_ending_d562dcae:
 
     # lexi "Not fair. They left me alone... What's that noise?"
-    lexi "Không đẹp. Họ để tôi một mình ... Tiếng ồn đó là gì?"
+    lexi "Không công bằng. Họ để tôi một mình... Tiếng ồn đó là gì?"
 
 # game/events/special/christmas.rpy:905
 translate vietnamese xmas_ending_0dd03801:
 
     # mina "Ahhh~ Thought you didn't want to? Is this just how naughty elves are~?"
-    mina "Ahhh~ Nghĩ rằng bạn không muốn? Đây có phải là cách yêu tinh nghịch ngợm không~?"
+    mina "Ahhh~ Tưởng là cậu không muốn? Đây có phải là cách yêu tinh nghịch ngợm không~?"
 
 # game/events/special/christmas.rpy:906
 translate vietnamese xmas_ending_00465474:
 
     # alice "Hey, you also keep moving!"
-    alice "Hey, you also keep moving!"
+    alice "Này, cậu cũng đang di chuyển đấy!"
 
 # game/events/special/christmas.rpy:907
 translate vietnamese xmas_ending_181cd223:
 
     # mina "Sure, sure~"
-    mina "Sure, sure~"
+    mina "Rồi, rồi~"
 
 # game/events/special/christmas.rpy:908
 translate vietnamese xmas_ending_3a2bd029:
 
     # lexi "... Screw this! Guys let's go to the floor!"
-    lexi "... Vít này! Mọi người lên sàn đi!"
+    lexi "... Thôi thôi! Mọi người lên sàn đi!"
 
 # game/events/special/christmas.rpy:912
 translate vietnamese xmas_ending_6cf62b3e:
@@ -1672,13 +1672,13 @@ translate vietnamese xmas_ending_6cf62b3e:
 translate vietnamese xmas_ending_62dc1d35:
 
     # lexi "Shut up, just give it a good kiss."
-    lexi "Im đi, chỉ hôn nó đi."
+    lexi "Im đi, hãy cứ cho nó một nụ hôn thật tốt đi."
 
 # game/events/special/christmas.rpy:914
 translate vietnamese xmas_ending_a3c652a2:
 
     # th "Ah, now this is life."
-    th "Ah, now this is life."
+    th "Ah, thế mới là sống chứ."
 
 # game/events/special/christmas.rpy:915
 translate vietnamese xmas_ending_8dab369a:
@@ -1690,13 +1690,13 @@ translate vietnamese xmas_ending_8dab369a:
 translate vietnamese xmas_ending_56f99798:
 
     # alice "I'm close! Keep going!"
-    alice "Tôi khép kín! Tiếp tục đi!"
+    alice "Tớ sắp ra rồi! Tiếp tục đi!"
 
 # game/events/special/christmas.rpy:920
 translate vietnamese xmas_ending_5cf2bb18:
 
     # mina "Me, too..."
-    mina "Me, too..."
+    mina "Tớ cũng vậy..."
 
 # game/events/special/christmas.rpy:921
 translate vietnamese xmas_ending_d7760fc7:
@@ -1708,13 +1708,13 @@ translate vietnamese xmas_ending_d7760fc7:
 translate vietnamese xmas_ending_373ada93:
 
     # me "[grace], I'm about to cum, so take it inside!"
-    me "[grace], Em sắp xuất tinh rồi nên đưa vào trong đi!"
+    me "[grace], Anh sắp ra rồi nên đưa vào trong đi!"
 
 # game/events/special/christmas.rpy:926
 translate vietnamese xmas_ending_dfeeb03f:
 
     # grace "What...?"
-    grace "What...?"
+    grace "Hả...?"
 
 # game/events/special/christmas.rpy:927
 translate vietnamese xmas_ending_bc0c4a01:
@@ -1726,7 +1726,7 @@ translate vietnamese xmas_ending_bc0c4a01:
 translate vietnamese xmas_ending_35cb3acb:
 
     # grace "I'm-! Weird! Ahhnnn!~"
-    grace "I'm-! Kỳ dị! Ahhnnn!~"
+    grace "I'm-! Kỳ lạ! Ahhnnn!~"
 
 # game/events/special/christmas.rpy:932
 translate vietnamese xmas_ending_d2a4e004:
@@ -1738,7 +1738,7 @@ translate vietnamese xmas_ending_d2a4e004:
 translate vietnamese xmas_ending_7b946247:
 
     # lexi "Dammit, that was for me... Whatever."
-    lexi "Chết tiệt, đó là cho tôi ... Bất cứ điều gì."
+    lexi "Chết tiệt, đó là cho em... sao cũng được."
 
 # game/events/special/christmas.rpy:937
 translate vietnamese xmas_ending_b0132805:
@@ -1756,43 +1756,43 @@ translate vietnamese xmas_ending_53e9bbe5:
 translate vietnamese xmas_ending_84100e3e:
 
     # lexi "Haha, what synchronization! Merry Christmas everybody!"
-    lexi "Haha, what synchronization! Merry Christmas everybody!"
+    lexi "Haha, chúc mừng giáng sinh mọi người!"
 
 # game/events/special/christmas.rpy:943
 translate vietnamese xmas_ending_f875a903:
 
     # me "Merry Christmas, girls. Merry Christmas, indeed."
-    me "Giáng sinh vui vẻ, các cô gái. Giáng sinh vui vẻ, thực sự."
+    me "Giáng sinh vui vẻ nha các cô gái."
 
 # game/events/special/christmas.rpy:959
 translate vietnamese xmas_dream_end_a85086ed:
 
     # "The images dim as the dream fades."
-    "The images dim as the dream fades."
+    "Những hình dần mờ đi khi giấc mơ bắt đầu tan biến ."
 
 # game/events/special/christmas.rpy:976
 translate vietnamese xmas_dream_end_a59005aa:
 
     # me "I had a nice dream..."
-    me "I had a nice dream..."
+    me "Mình có một giấc mơ đẹp đấy..."
 
 # game/events/special/christmas.rpy:978
 translate vietnamese xmas_dream_end_ca2b0947:
 
     # grace "You're BAD!!!!!!!"
-    grace "Bạn BAD!!!!!!!"
+    grace "ANH THẬT TỆ!!!!!!!"
 
 # game/events/special/christmas.rpy:979
 translate vietnamese xmas_dream_end_314086b3:
 
     # me "What?"
-    me "What?"
+    me "Hả?"
 
 translate vietnamese strings:
 
     # game/events/special/christmas.rpy:88
     old "What the-?!"
-    new "What the-?!"
+    new "Cái quái-?!"
 
     # game/events/special/christmas.rpy:88
     old "Oh. It's the Spirit."
@@ -1800,31 +1800,31 @@ translate vietnamese strings:
 
     # game/events/special/christmas.rpy:153
     old "Savenia's room {#visible}"
-    new "Savenia's room {#visible}"
+    new "PhòngSavenia {#visible}"
 
     # game/events/special/christmas.rpy:153
     old "Grace's room {#visible}"
-    new "Grace's room {#visible}"
+    new "Phòng Grace {#visible}"
 
     # game/events/special/christmas.rpy:153
     old "Lexi & Mina Room {#visible}"
-    new "Lexi & Mina Room {#visible}"
+    new "Phòng Lexi & Mina {#visible}"
 
     # game/events/special/christmas.rpy:153
     old "Lobby {#visible}"
-    new "Lobby {#visible}"
+    new "Sảnh {#visible}"
 
     # game/events/special/christmas.rpy:153
     old "Alice's room {#visible}"
-    new "Alice's room {#visible}"
+    new "Phòng Alice {#visible}"
 
     # game/events/special/christmas.rpy:153
     old "End this"
-    new "End this"
+    new "Kết thúc việc này"
 
     # game/events/special/christmas.rpy:444
     old "Let her cum"
-    new "Hãy để cô ấy xuất tinh"
+    new "Để cô ấy ra"
 
     # game/events/special/christmas.rpy:594
     old "Change position"
@@ -1845,61 +1845,61 @@ translate vietnamese christ_intro_e17b6c5a:
 translate vietnamese christ_intro_2de14ba2:
 
     # aharon "Only you'll be aware of the singularity of this event. Your women won't. They'll return to normalcy along with you."
-    aharon "Only you'll be aware of the singularity of this event. Your women won't. They'll return to normalcy along with you."
+    aharon "Chỉ ngươi mới biết về sự kỳ lạ của sự kiện này. Những người phụ nữ của ngươi thì không. Họ sẽ trở lại trạng thái bình thường cùng với ngươi."
 
 # game/events/special/christmas.rpy:137
 translate vietnamese christ_intro_e52b900a:
 
     # aharon "One more thing. As I said, it is most worried over appearances, so don't be surprised by what you see. Just telling them this is a dream will be enough."
-    aharon "Một điều nữa. Như tôi đã nói, lo lắng nhất là ngoại hình, vì vậy đừng ngạc nhiên bởi những gì bạn nhìn thấy. Chỉ cần nói với họ rằng đây là một giấc mơ là đủ."
+    aharon "Một điều nữa. Như ta đã nói, Nó chủ yếu lo lắng về vẻ bề ngoài, nên đừng ngạc nhiên bởi những gì ngươi nhìn thấy. Chỉ cần nói với họ rằng đây là một giấc mơ là đủ rồi."
 
 # game/events/special/christmas.rpy:181
 translate vietnamese xmas_savenia_ee72378d:
 
     # savenia "This eggnog is way too light for that. God, what do I need to do to get drunk here?"
-    savenia "This eggnog is way too light for that. God, what do I need to do to get drunk here?"
+    savenia "Cốc Trứng Sữa này vẫn còn quá nhẹ. Chúa ơi, tôi cần làm gì để say đây?"
 
 # game/events/special/christmas.rpy:183
 translate vietnamese xmas_savenia_3fc9ea32:
 
     # savenia "But, if you mean dressing up on those silly costumes... No, no way I'm 'affected'."
-    savenia "Nhưng, nếu bạn muốn mặc những bộ trang phục ngớ ngẩn đó ... Không, không đời nào tôi bị ảnh hưởng'."
+    savenia "Nhưng nếu ý cậu là mặc những bộ trang phục ngớ ngẩn đó thì... Không, không đời nào tớ bị 'ảnh hưởng' cả."
 
 # game/events/special/christmas.rpy:187
 translate vietnamese xmas_savenia_7b649fff:
 
     # savenia "Always, appreciate free drinks though, light as they are."
-    savenia "Always, appreciate free drinks though, light as they are."
+    savenia "Luôn trân trọng uống miễn phí, nhẹ như chúng vốn có."
 
 # game/events/special/christmas.rpy:193
 translate vietnamese xmas_savenia_36d9457a:
 
     # savenia "Out, where?"
-    savenia "Out, where?"
+    savenia "Ra, khỏi đâu?"
 
 # game/events/special/christmas.rpy:213
 translate vietnamese xmas_grace_34b03f08:
 
     # me "[grace], behave yourself or there won't be any treats for you."
-    me "[grace], hãy cư xử với chính mình nếu không sẽ không có bất kỳ sự đối xử nào dành cho bạn."
+    me "[grace], chú ý cách cư xử nào nếu không thì em sẽ không có quà đâu."
 
 # game/events/special/christmas.rpy:221
 translate vietnamese xmas_grace_2ac61717:
 
     # me "Okay, [grace]. I've got cookies for you."
-    me "Okay, [grace]. I've got cookies for you."
+    me "Được rồi, [grace]. Anh có bánh quy cho em đây."
 
 # game/events/special/christmas.rpy:227
 translate vietnamese xmas_grace_f6a193b4:
 
     # me "Come, let me give you a cookie!"
-    me "Come, let me give you a cookie!"
+    me "đến đây, anh sẽ cho em một cái bánh quy!"
 
 # game/events/special/christmas.rpy:250
 translate vietnamese xmas_grace_9ccfe06e:
 
     # me "So, you need to milk me."
-    me "So, you need to milk me."
+    me "Vậy, em cần vắt sữa anh."
 
 # game/events/special/christmas.rpy:260
 translate vietnamese xmas_grace_48d481bf:
@@ -1911,13 +1911,13 @@ translate vietnamese xmas_grace_48d481bf:
 translate vietnamese xmas_grace_slow_cf1355ac:
 
     # me "That speed is good... But, it's the time for you to take it to your little mouth."
-    me "Tốc độ đó là tốt ... Nhưng, đã đến lúc bạn phải đưa nó vào cái miệng nhỏ của mình."
+    me "Tốc độ vậy là tốt... Nhưng đã đến lúc em phải đưa nó vào miệng của mình rồi đấy."
 
 # game/events/special/christmas.rpy:386
 translate vietnamese xmas_grace_end_08d56d8a:
 
     # me "Well, you can take a sip. If you don't like it, try something else, okay?"
-    me "Well, you can take a sip. If you don't like it, try something else, okay?"
+    me "Chà, em có thể uống một ngụm. Nếu em không thích nó, hãy thử cái khác được chứ?"
 
 # game/events/special/christmas.rpy:387
 translate vietnamese xmas_grace_end_21a8ca52:
@@ -1929,97 +1929,97 @@ translate vietnamese xmas_grace_end_21a8ca52:
 translate vietnamese xmas_lexi_8d616d1b:
 
     # me "I guess I'm on the naughty list?"
-    me "Tôi đoán tôi đang ở trong danh sách nghịch ngợm?"
+    me "Anh đoán là mình đang ở trong danh sách trẻ hư?"
 
 # game/events/special/christmas.rpy:407
 translate vietnamese xmas_lexi_cf6a12a8:
 
     # th "Even if it's a dream, she's going out for others' sake... but I don't feel comfortable with her going out like this, even in a dream."
-    th "Cho dù đó là giấc mơ, cô ấy ra ngoài vì lợi ích của người khác ... nhưng tôi không cảm thấy thoải mái khi cô ấy đi ra ngoài như thế này, ngay cả trong giấc mơ."
+    th "kể cả đây là giấc mơ, thì em ấy ra ngoài vì lợi ích của người khác... nhưng mình không cảm thấy thoải mái khi em ấy đi ra ngoài như thế này, ngay cả trong giấc mơ."
 
 # game/events/special/christmas.rpy:418
 translate vietnamese xmas_lexi_52697761:
 
     # me "Mhm. I'm sure they are, but right now it's my turn to get you nice and ready."
-    me "Mhm. I'm sure they are, but right now it's my turn to get you nice and ready."
+    me "Mhm. Anh chắc chắn là họ tốt hơn, nhưng bây giờ thì đến lượt anh chuẩn bị cho em thật tốt và sẵn sàng."
 
 # game/events/special/christmas.rpy:549
 translate vietnamese xmas_mina_067fa64e:
 
     # mina "I see you have quite the cattitude! Good, you'll need it."
-    mina "I see you have quite the cattitude! Good, you'll need it."
+    mina "Em thấy bạn có thái độ khá tốt! Anh sẽ cần nó đấy."
 
 # game/events/special/christmas.rpy:570
 translate vietnamese xmas_mina_c536ae56:
 
     # me "It's freezing. So, let's get to the warming up part."
-    me "Nó đang đóng băng. Vì vậy, chúng ta hãy bắt đầu phần khởi động."
+    me "Trời đang khá lạnh, vì vậy chúng ta hãy bắt đầu phần khởi động."
 
 # game/events/special/christmas.rpy:574
 translate vietnamese xmas_mina_683d6c7e:
 
     # mina "B-but, I just wanted to-! Aahh~!"
-    mina "B-but, I just wanted to-! Aahh~!"
+    mina "N-nhưng em chỉ muốn-! Aahh~!"
 
 # game/events/special/christmas.rpy:668
 translate vietnamese xmas_mina_end_ad149ea8:
 
     # me "[mina]? You okay?"
-    me "[mina]? You okay?"
+    me "[mina]? Em ổn chứ?"
 
 # game/events/special/christmas.rpy:682
 translate vietnamese xmas_alice_15cdb4db:
 
     # alice "Oh thank you! I thought I would have to do this all alone!"
-    alice "Oh thank you! I thought I would have to do this all alone!"
+    alice "Oh cảm ơn! Em còn tưởng là mình phải làm việc này một mình đấy!"
 
 # game/events/special/christmas.rpy:811
 translate vietnamese xmas_alice_end_f013b3b7:
 
     # me "Oh! Goodnight then. Tonight there's no more presents I guess. I'm sure the kids will understand."
-    me "Oh! Chúc ngủ ngon. Tôi đoán là tối nay không còn quà nữa. Tôi chắc rằng bọn trẻ sẽ hiểu."
+    me "Oh. Thế thì chúc ngon vậy. Anh đoán tối nay sẽ không còn quà nữa. Nhưng chắc là lũ trẻ sẽ hiểu thôi."
 
 # game/events/special/christmas.rpy:847
 translate vietnamese xmas_ending_90a8de6c:
 
     # me "See, the others are also lazing around. So, just enjoy yourself!"
-    me "See, the others are also lazing around. So, just enjoy yourself!"
+    me "Thấy chưa, những người khác cũng đang lười chảy thây ra kia thôi. Vậy nên, cứ tận hưởng thôi!"
 
 # game/events/special/christmas.rpy:849
 translate vietnamese xmas_ending_3d4bf4d3:
 
     # "Voice" "{small}Okay, so you distract them for a bit, I get in and out.{/small}"
-    "Voice" "{small}Okay, so you distract them for a bit, I get in and out.{/small}"
+    "Giọng nói" "{small}Ok, vậy là ngươi đánh lạc hướng họ một chút, ta sẽ ra ngoài.{/small}"
 
 # game/events/special/christmas.rpy:850
 translate vietnamese xmas_ending_7ee71420:
 
     # "Voice" "It's okay. It'll be easy- What are you two doing?!"
-    "Giọng nói "" Không sao đâu. Sẽ dễ dàng thôi- Hai người đang làm gì vậy?!"
+    "Giọng nói" " Được rồi. Sẽ dễ dàng thôi- Hai người đang làm gì vậy?!"
 
 # game/events/special/christmas.rpy:895
 translate vietnamese xmas_ending_d8d1e3fa:
 
     # me "Okay, just lower your hips, yeah, now we just have to-!"
-    me "Okay, just lower your hips, yeah, now we just have to-!"
+    me "Okay, chỉ cần hạ thấp hông của em, đúng rồi, bây giờ chúng ta chỉ cần-!"
 
 # game/events/special/christmas.rpy:901
 translate vietnamese xmas_ending_714109bd:
 
     # me "I can tell that you're enjoying it! If you want to feel better, do it faster."
-    me "Tôi có thể nói rằng bạn đang thích nó! Nếu bạn muốn cảm thấy tốt hơn, hãy làm điều đó nhanh hơn."
+    me "Anh có thể nói rằng em đang thích nó! Nếu em muốn cảm thấy tốt hơn, hãy làm điều đó nhanh hơn."
 
 # game/events/special/christmas.rpy:909
 translate vietnamese xmas_ending_cbfcd479:
 
     # lexi "... Screw this! Guys, let's go to the floor!"
-    lexi "... Vít này! Mọi người lên sàn đi!"
+    lexi "... Thôi thôi! Mọi người xuống sàn đi!"
 
 # game/events/special/christmas.rpy:921
 translate vietnamese xmas_ending_f740543b:
 
     # mina "Me... too..."
-    mina "Me... too..."
+    mina "Tớ... nữa..."
 
 translate vietnamese strings:
 
