@@ -70,4 +70,4 @@ translate vietnamese strings:
 
     # game/mods/Sample Mod/sample_mod.rpy:127
     old "Dream - Dancing Stickman"
-    new "Giấc mơ - người que nhảy nhót"
+    new "Giấc mơ - người que quạt chả"

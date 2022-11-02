@@ -2125,7 +2125,7 @@ translate vietnamese strings:
 
     # game/characters/alice/speak.rpy:418
     old "The hotel's owner's name was Jack. He disappeared a week before my arrival."
-    new "Chủ nhân của khách sạn tên là Jack. Anh ấy biến mất một tuần trước khi mình đến."
+    new "Chủ nhân trước của khách sạn tên là Jack. Anh ấy biến mất một tuần trước khi tôi đến."
 
     # game/characters/alice/speak.rpy:552
     old "Outfits"

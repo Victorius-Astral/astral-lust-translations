@@ -479,7 +479,7 @@ translate vietnamese strings:
 
     # game/characters/kiara/speak.rpy:136
     old "He was a human and He still has some of His humanity remaining."
-    new "Hắn là một con người và Hắn vẫn còn một số nhân tính sót lại."
+    new "Hắn là một con người và Hắn vẫn còn một chút nhân tính sót lại."
 
     # game/characters/kiara/speak.rpy:147
     old "To become a God, one needs to complete an apotheosis ritual."

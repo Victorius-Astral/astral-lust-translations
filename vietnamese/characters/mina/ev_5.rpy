@@ -1543,4 +1543,4 @@ translate vietnamese strings:
 
     # game/characters/mina/ev_5.rpy:476
     old "I failed to recover the pendant and Mina tried to retrieve it on her own. She almost got raped, but thankfully, Lexi and I were swift enough to prevent the worst from happening. I hope she can overcome the trauma soon."
-    new "Mình không thể lấy được mặt dây chuyền và Mina đã cố tự đi lấy nó một mình. Cô ấy suýt bị cưỡng hiếp, nhưng may mắn thay, tôi và Lexi đủ nhanh để ngăn điều tồi tệ nhất xảy ra. Mong cô ấy sớm vượt qua được vết thương lòng."
+    new "Tôi không thể lấy được mặt dây chuyền và Mina đã cố tự đi lấy nó một mình. Cô ấy suýt bị cưỡng hiếp, nhưng may mắn thay, tôi và Lexi đủ nhanh để ngăn điều tồi tệ nhất xảy ra. Mong cô ấy sớm vượt qua được vết thương lòng."

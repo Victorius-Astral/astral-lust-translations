@@ -333,4 +333,4 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_1.rpy:117
     old "When I first encountered her, she was masturbating. She caught me, but instead of making a fuss over it she told me I owe her a favor. She seems mischievous and clever, A dangerous combination."
-    new "Lần đầu tiên mình gặp cô ấy, cô ấy đang thủ dâm. Và bắt gặp mình, nhưng thay vì làm ầm ĩ lên, cô ấy nói với mình rằng mình nợ cô ấy một ân huệ. Cô ấy có vẻ rất tinh nghịch và thông minh, Một sự kết hợp nguy hiểm."
+    new "Lần đầu tiên tôi gặp cô ấy, cô ấy đang thủ dâm. Và bắt gặp tôi, nhưng thay vì làm ầm ĩ lên, cô ấy nói với tôi rằng tôi nợ cô ấy một ân huệ. Cô ấy có vẻ rất tinh nghịch và thông minh, Một sự kết hợp nguy hiểm."

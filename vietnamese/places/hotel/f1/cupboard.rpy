@@ -22,13 +22,13 @@ translate vietnamese room_f1_cupboard_menu1_cbf14987:
 translate vietnamese room_f1_cupboard_menu1_4fee96dd:
 
     # me "*Cough*"
-    me "*Ho*"
+    me "*Khụ*"
 
 # game/places/hotel/f1/cupboard.rpy:36
 translate vietnamese room_f1_cupboard_menu1_d93ae52b:
 
     # th "Ehm... It might come in handy..."
-    th "Ehm ... Nó có thể hữu ích..."
+    th "Ehm... Có thể nó sẽ hữu ich..."
 
 translate vietnamese strings:
 

@@ -695,7 +695,7 @@ translate vietnamese strings:
 
     # game/characters/grace/ev_8.rpy:14
     old "She knows about Grace and me."
-    new "Cô ấy biết về Grace và mình."
+    new "Cô ấy biết chuyện giữa Grace và tôi."
 
     # game/characters/grace/ev_8.rpy:148
     old "Alice told her it's okay to do anything with me, as long as it makes her happy."

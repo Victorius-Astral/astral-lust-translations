@@ -629,4 +629,4 @@ translate vietnamese strings:
 
     # game/characters/alice/ev_10.rpy:49
     old "She's officially my girl now."
-    new "Cô ấy chính thức là bạn gái của mình."
+    new "Cô ấy chính thức là bạn gái của tôi."

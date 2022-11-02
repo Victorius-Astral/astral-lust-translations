@@ -152,7 +152,7 @@ translate vietnamese strings:
 
     # game/characters/succubi/a/catch.rpy:21
     old "I've caught a succubus. She says I can become her master with a kiss."
-    new "Mình đã bắt được một succubus. Cô ta nói mình có thể trở thành chủ nhân của cô ta bằng một nụ hôn."
+    new "Tôi đã bắt được một succubus. Cô ta nói tôi có thể trở thành chủ nhân của cô ta bằng một nụ hôn."
 
     # game/characters/succubi/a/catch.rpy:37
     old "How should she be called?"
