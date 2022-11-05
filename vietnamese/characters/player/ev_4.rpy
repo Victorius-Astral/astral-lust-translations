@@ -829,7 +829,7 @@ translate vietnamese strings:
 
     # game/characters/player/ev_4.rpy:121
     old "This cult made The End descend. It is shepherded by seven Elders, two High Elders and Aharon, the cult leader. All of them immortal and powerful beyond all imagination."
-    new "Giáo phái này đã khiến The End đến đây. Nó được dẫn dắt bởi bảy Elders, hai Hiền Nhân và Aharon, người đứng đầu giáo phái. Tất cả chúng đều bất tử và mạnh mẽ ngoài sức tưởng tượng."
+    new "Giáo phái này đã mang tận thế đến đây. Nó được dẫn dắt bởi bảy trưởng lão, hai Hiền Nhân và Aharon, người đứng đầu giáo phái. Tất cả chúng đều bất tử và mạnh mẽ ngoài sức tưởng tượng."
 
     # game/characters/player/ev_4.rpy:125
     old "The library is outside of Gods perception."

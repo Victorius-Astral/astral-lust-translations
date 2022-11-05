@@ -388,13 +388,13 @@ translate vietnamese rhainda_lilfox1_cum_a68cd23d:
 translate vietnamese rhainda_lilfox1_cum_c85d0ce0:
 
     # lil_fox "Come feed me again soon!"
-    lil_fox "Come feed me again soon!"
+    lil_fox "Đến cho em ăn sớm nhá!"
 
 # game/characters/rhainda/lilfox_1.rpy:133
 translate vietnamese rhainda_lilfox1_cum_21c426f4:
 
     # me "Sure, vixen."
-    me "Được thôi."
+    me "Được thôi cáo."
 
 # game/characters/rhainda/lilfox_1.rpy:178
 translate vietnamese rhainda_lilfox1_selector_9053f014:

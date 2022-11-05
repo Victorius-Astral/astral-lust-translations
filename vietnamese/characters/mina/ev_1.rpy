@@ -403,7 +403,7 @@ translate vietnamese strings:
 
     # game/characters/mina/ev_1.rpy:64
     old "She seems to believe I'm courting Lexi. This thought makes her excited."
-    new "Cô ấy có vẻ tin rằng mình đang tán tỉnh Lexi. Suy nghĩ này khiến cô ấy thích thú."
+    new "Cô ấy có vẻ tin rằng tôi đang tán tỉnh Lexi. Suy nghĩ này khiến cô ấy thích thú."
 # TODO: Translation updated at 2022-04-17 12:11
 
 # game/characters/mina/ev_1.rpy:18
