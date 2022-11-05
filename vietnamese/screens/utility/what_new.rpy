@@ -449,7 +449,7 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:222
     old "Super cute, adorable, and fuckin' sexy! Gracie in the new outfit here to steal your heart <3"
-        new "Siêu dễ thương, đáng yêu và sexy! Gracie trong trang phục mới ở đây để đánh cắp trái tim của bạn <3"
+    new "Siêu dễ thương, đáng yêu và sexy! Gracie trong trang phục mới ở đây để đánh cắp trái tim của bạn <3"
 
     # game/screens/utility/what_new.rpy:230
     old "{b}New Dreams{/b}"
