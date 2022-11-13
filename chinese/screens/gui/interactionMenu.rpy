@@ -252,3 +252,11 @@
     old "*Toggle with '{b}I{/b}' key"
     new "*使用 {b}I{/b} 键开关"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate chinese strings:
+
+    # game/screens/gui/interactionMenu.rpy:76
+    old "[alice] & [grace]"
+    new "[alice] & [grace]"
+

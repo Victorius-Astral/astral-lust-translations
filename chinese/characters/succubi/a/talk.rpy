@@ -1210,3 +1210,11 @@ translate chinese strings:
     old "Fuck her again"
     new "Fuck her again"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate chinese strings:
+
+    # game/characters/succubi/a/talk.rpy:85
+    old "How should she call you?"
+    new "How should she call you?"
+

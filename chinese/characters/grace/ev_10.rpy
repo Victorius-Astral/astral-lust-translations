@@ -672,3 +672,11 @@ translate chinese strings:
     old "Secret found! Victorius is pleased. +50% vault space multiplier!"
     new "Secret found! Victorius is pleased. +50% vault space multiplier!"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate chinese strings:
+
+    # game/characters/grace/ev_10.rpy:72
+    old "Dad will be named.."
+    new "Dad will be named.."
+

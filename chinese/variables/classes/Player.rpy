@@ -64,3 +64,11 @@
     old "Killed a human:\nCorruption + {}% \nSanity - {}% \n\nCurrent corruption: {}% \nCurrent sanity: {}%"
     new "杀了一个人：\n邪恶度 + {}% \n理智度 - {}% \n\n当前邪恶度： {}% \n当前理智度： {}%"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate chinese strings:
+
+    # game/variables/classes/Player.rpy:514
+    old "Lost {} {{vit}}health ({}/{}){{/vit}}."
+    new "Lost {} {{vit}}health ({}/{}){{/vit}}."
+

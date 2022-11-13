@@ -288,3 +288,15 @@ translate chinese lexi_cunn_1_story_3ba503fc:
     # lexi "Now, where did I throw my clothes?"
     lexi "Now, where did I throw my clothes?"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate chinese strings:
+
+    # game/characters/lexi/cunn_1.rpy:56
+    old "Explore {#visible}"
+    new "Explore {#visible}"
+
+    # game/characters/lexi/cunn_1.rpy:56
+    old "Tentacles {#visible}"
+    new "Tentacles {#visible}"
+

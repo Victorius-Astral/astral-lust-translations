@@ -498,3 +498,295 @@ translate chinese strings:
     old "Nympho"
     new "Nympho"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+# game/characters/kiara/speak.rpy:19
+translate chinese speak_kiara_d3a63c0c:
+
+    # kiara "You don't seem capable of performing rituals."
+    kiara "You don't seem capable of performing rituals."
+
+# game/characters/kiara/speak.rpy:20
+translate chinese speak_kiara_31759452:
+
+    # me "I'm listening."
+    me "I'm listening."
+
+# game/characters/kiara/speak.rpy:24
+translate chinese speak_kiara_3453d517:
+
+    # kiara "I could teach you when you have a while."
+    kiara "I could teach you when you have a while."
+
+# game/characters/kiara/speak.rpy:25
+translate chinese speak_kiara_c868a713:
+
+    # kiara "These can be very helpful for someone that knows what they're doing."
+    kiara "These can be very helpful for someone that knows what they're doing."
+
+# game/characters/kiara/speak.rpy:56
+translate chinese kiara_menu1_b5f5afd3:
+
+    # kiara "We are similar, [me]. We both share thirst for knowledge far beyond normal."
+    kiara "We are similar, [me]. We both share thirst for knowledge far beyond normal."
+
+# game/characters/kiara/speak.rpy:57
+translate chinese kiara_menu1_a64595cf:
+
+    # me "That's undeniable."
+    me "That's undeniable."
+
+# game/characters/kiara/speak.rpy:59
+translate chinese kiara_menu1_e0949b62:
+
+    # kiara "Let's say that the time spent together was the price."
+    kiara "Let's say that the time spent together was the price."
+
+# game/characters/kiara/speak.rpy:62
+translate chinese kiara_menu1_a6cb9430:
+
+    # kiara "What made you interested in these?"
+    kiara "What made you interested in these?"
+
+# game/characters/kiara/speak.rpy:66
+translate chinese kiara_menu1_f5796b59:
+
+    # me "Aharon..."
+    me "Aharon..."
+
+# game/characters/kiara/speak.rpy:70
+translate chinese kiara_menu1_f67d3b7c:
+
+    # kiara "Eh..."
+    kiara "Eh..."
+
+# game/characters/kiara/speak.rpy:71
+translate chinese kiara_menu1_3788e36e:
+
+    # kiara "What does He want you to do?"
+    kiara "What does He want you to do?"
+
+# game/characters/kiara/speak.rpy:74
+translate chinese kiara_menu1_54865bce:
+
+    # me "He gave me His honorary name, and told me you'll teach me how to set up rituals."
+    me "He gave me His honorary name, and told me you'll teach me how to set up rituals."
+
+# game/characters/kiara/speak.rpy:75
+translate chinese kiara_menu1_79498a41:
+
+    # kiara "I see."
+    kiara "I see."
+
+# game/characters/kiara/speak.rpy:78
+translate chinese kiara_menu1_b9f57483:
+
+    # me "I have no idea."
+    me "I have no idea."
+
+# game/characters/kiara/speak.rpy:82
+translate chinese kiara_menu1_2c5a554c:
+
+    # kiara "I wouldn't trust this madman's intentions, but there is indeed nothing wrong with teaching you this."
+    kiara "I wouldn't trust this madman's intentions, but there is indeed nothing wrong with teaching you this."
+
+# game/characters/kiara/speak.rpy:85
+translate chinese kiara_menu1_2caec448:
+
+    # me "I learned basics about mysticism, and I learned about rituals, but only briefly. I would like to learn how to prepare them."
+    me "I learned basics about mysticism, and I learned about rituals, but only briefly. I would like to learn how to prepare them."
+
+# game/characters/kiara/speak.rpy:86
+translate chinese kiara_menu1_b6698e22:
+
+    # kiara "I see. I'll teach you, it's just the basics, anyway."
+    kiara "I see. I'll teach you, it's just the basics, anyway."
+
+# game/characters/kiara/speak.rpy:88
+translate chinese kiara_menu1_9bc6ca58:
+
+    # kiara "The goal of the ritual is to receive a response of the being you pray to. It can be a revelation, a blessing, or a bestowment. Similarly a malicious being could curse you." id kiara_menu1_9bc6ca58
+    kiara "The goal of the ritual is to receive a response of the being you pray to. It can be a revelation, a blessing, or a bestowment. Similarly a malicious being could curse you." id kiara_menu1_9bc6ca58
+
+# game/characters/kiara/speak.rpy:89
+translate chinese kiara_menu1_bff1b3b9:
+
+    # kiara "Rituals consist of four parts. The first is preparing the altar. It usually means lighting three candles, and placing various materials around the candles. The candles alone will make the ritual work, though. The rest is just a custom."
+    kiara "Rituals consist of four parts. The first is preparing the altar. It usually means lighting three candles, and placing various materials around the candles. The candles alone will make the ritual work, though. The rest is just a custom."
+
+# game/characters/kiara/speak.rpy:90
+translate chinese kiara_menu1_4612353a:
+
+    # kiara "The second step is to read the being's title. Make sure to have thought in what you wish to pray for. If you asked me to let you remain lucid in dreams, it would fail, as I don't have any dream authorities, and can't bless you."
+    kiara "The second step is to read the being's title. Make sure to have thought in what you wish to pray for. If you asked me to let you remain lucid in dreams, it would fail, as I don't have any dream authorities, and can't bless you."
+
+# game/characters/kiara/speak.rpy:91
+translate chinese kiara_menu1_4e06b9e6:
+
+    # kiara "The third step is to read the incantation. Later I'll teach you a dream incantation. It can be used to pray for dreams, which I just mentioned."
+    kiara "The third step is to read the incantation. Later I'll teach you a dream incantation. It can be used to pray for dreams, which I just mentioned."
+
+# game/characters/kiara/speak.rpy:94
+translate chinese kiara_menu1_985760be:
+
+    # kiara "You might pray to Aharon in that regard... He for some reason doesn't seem to try to hurt you."
+    kiara "You might pray to Aharon in that regard... He for some reason doesn't seem to try to hurt you."
+
+# game/characters/kiara/speak.rpy:98
+translate chinese kiara_menu1_693c23e6:
+
+    # me "What's Aharon's title?"
+    me "What's Aharon's title?"
+
+# game/characters/kiara/speak.rpy:99
+translate chinese kiara_menu1_69c3b5cc:
+
+    # kiara "Attendant of Horror, Miracle Invoker, High Priest of the Black"
+    kiara "Attendant of Horror, Miracle Invoker, High Priest of the Black"
+
+# game/characters/kiara/speak.rpy:104
+translate chinese kiara_menu1_d1c0eb01:
+
+    # me "Is Aharon related to the dreams?"
+    me "Is Aharon related to the dreams?"
+
+# game/characters/kiara/speak.rpy:105
+translate chinese kiara_menu1_0767bccc:
+
+    # kiara "No, but he has an authority over miracles, as you know from His title - Miracle Invoker. He can answer most rituals, but the effects will be weaker than someone having authority over given field."
+    kiara "No, but he has an authority over miracles, as you know from His title - Miracle Invoker. He can answer most rituals, but the effects will be weaker than someone having authority over given field."
+
+# game/characters/kiara/speak.rpy:106
+translate chinese kiara_menu1_77994322:
+
+    # me "So Aharon is a safe bet. Low chance of failure, but small returns."
+    me "So Aharon is a safe bet. Low chance of failure, but small returns."
+
+# game/characters/kiara/speak.rpy:107
+translate chinese kiara_menu1_8cba7df2:
+
+    # kiara "Basically yes. But don't forget that His blessings in His other authorities are going to be top notch. After all, He's close to being a God."
+    kiara "Basically yes. But don't forget that His blessings in His other authorities are going to be top notch. After all, He's close to being a God."
+
+# game/characters/kiara/speak.rpy:109
+translate chinese kiara_menu1_2145b242:
+
+    # me "What's the last step?"
+    me "What's the last step?"
+
+# game/characters/kiara/speak.rpy:110
+translate chinese kiara_menu1_72023d8c:
+
+    # kiara "The sacrifice. You can sacrifice a lot of different items, but remember, the more spiritual the nature of the item, the greater the response you'll receive."
+    kiara "The sacrifice. You can sacrifice a lot of different items, but remember, the more spiritual the nature of the item, the greater the response you'll receive."
+
+# game/characters/kiara/speak.rpy:111
+translate chinese kiara_menu1_e9ef7f00:
+
+    # kiara "Some sacrifices have symbolic meaning, and the reply stems solely from the being's level. If you sacrifice Sigil of the Black cultists wear to the Aharon, while in itself it's an ordinary item, He might provide stronger reply." id kiara_menu1_e9ef7f00
+    kiara "Some sacrifices have symbolic meaning, and the reply stems solely from the being's level. If you sacrifice Sigil of the Black cultists wear to the Aharon, while in itself it's an ordinary item, He might provide stronger reply." id kiara_menu1_e9ef7f00
+
+# game/characters/kiara/speak.rpy:112
+translate chinese kiara_menu1_aa1337b8:
+
+    # kiara "You can also use your own blood as a sacrifice. But it's dangerous. If the being is malicious, the curse you'll suffer will be tremendous. Almost all evil beings are interested in this sacrifice."
+    kiara "You can also use your own blood as a sacrifice. But it's dangerous. If the being is malicious, the curse you'll suffer will be tremendous. Almost all evil beings are interested in this sacrifice."
+
+# game/characters/kiara/speak.rpy:113
+translate chinese kiara_menu1_00d4437e:
+
+    # kiara "Nature of the sacrifice will affect the reply as well. If you perform a dream invocation with a corrupted or evil sacrifice, don't expect the dreams to be nice."
+    kiara "Nature of the sacrifice will affect the reply as well. If you perform a dream invocation with a corrupted or evil sacrifice, don't expect the dreams to be nice."
+
+# game/characters/kiara/speak.rpy:118
+translate chinese kiara_menu1_b335a096:
+
+    # "[kiara] continues to teach you the specifics of rituals like how to exactly place the candles."
+    "[kiara] continues to teach you the specifics of rituals like how to exactly place the candles."
+
+# game/characters/kiara/speak.rpy:119
+translate chinese kiara_menu1_7698f02c:
+
+    # "It takes you an hour before grasping the corresponding content."
+    "It takes you an hour before grasping the corresponding content."
+
+# game/characters/kiara/speak.rpy:123
+translate chinese kiara_menu1_a0a697c9:
+
+    # me "Thank you."
+    me "Thank you."
+
+# game/characters/kiara/speak.rpy:124
+translate chinese kiara_menu1_e989775d:
+
+    # kiara "It's alright. Remember, NEVER pray to beings whose intentions you don't know."
+    kiara "It's alright. Remember, NEVER pray to beings whose intentions you don't know."
+
+# game/characters/kiara/speak.rpy:125
+translate chinese kiara_menu1_a1c73fe1:
+
+    # me "Got it."
+    me "Got it."
+
+# game/characters/kiara/speak.rpy:126
+translate chinese kiara_menu1_58cb8ac7:
+
+    # kiara "If you want to seek dreams, you can use Dream Invocation to sacrifice {gold}Frozen Screams{/gold} to me."
+    kiara "If you want to seek dreams, you can use Dream Invocation to sacrifice {gold}Frozen Screams{/gold} to me."
+
+# game/characters/kiara/speak.rpy:127
+translate chinese kiara_menu1_eaaf9244:
+
+    # kiara "It's infused with the knowledge that I can use to make you restless, making your nights full of dreams."
+    kiara "It's infused with the knowledge that I can use to make you restless, making your nights full of dreams."
+
+# game/characters/kiara/speak.rpy:128
+translate chinese kiara_menu1_37093d95:
+
+    # kiara "I don't have authority over dreams, so it'll be a waste of resources to perform Dream Incantation towards me, besides this one case, as it also involves knowledge."
+    kiara "I don't have authority over dreams, so it'll be a waste of resources to perform Dream Incantation towards me, besides this one case, as it also involves knowledge."
+
+# game/characters/kiara/speak.rpy:132
+translate chinese kiara_menu1_4f3351e3:
+
+    # kiara "Take. You can set up a few rituals with these. Remember, consider every word you say carefully."
+    kiara "Take. You can set up a few rituals with these. Remember, consider every word you say carefully."
+
+# game/characters/kiara/speak.rpy:133
+translate chinese kiara_menu1_c315236c:
+
+    # me "Got it, thank you."
+    me "Got it, thank you."
+
+# game/characters/kiara/speak.rpy:250
+translate chinese kiara_menu1_6b04ab3e_1:
+
+    # me "What's the price?"
+    me "What's the price?"
+
+translate chinese strings:
+
+    # game/characters/kiara/speak.rpy:29
+    old "How to set up a ritual?"
+    new "How to set up a ritual?"
+
+    # game/characters/kiara/speak.rpy:136
+    old "You can now perform the rituals! You can do so on the altar in your room."
+    new "You can now perform the rituals! You can do so on the altar in your room."
+
+    # game/characters/kiara/speak.rpy:289
+    old "Threesome (FFM)"
+    new "Threesome (FFM)"
+
+    # game/characters/kiara/speak.rpy:289
+    old "Threesome (FMM)"
+    new "Threesome (FMM)"
+
+    # game/characters/kiara/speak.rpy:320
+    old "Pick an position."
+    new "Pick an position."
+
+    # game/characters/kiara/speak.rpy:320
+    old "Lying"
+    new "Lying"
+

@@ -84,3 +84,35 @@ translate chinese strings:
     old "In the corruption filled Asthar, even the nuns are filled with unholy thoughts."
     new "In the corruption filled Asthar, even the nuns are filled with unholy thoughts."
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate chinese strings:
+
+    # game/variables/outfits.rpy:3
+    old "Playmate"
+    new "Playmate"
+
+    # game/variables/outfits.rpy:3
+    old "Xmas"
+    new "Xmas"
+
+    # game/variables/outfits.rpy:3
+    old "Bunny"
+    new "Bunny"
+
+    # game/variables/outfits.rpy:3
+    old "Magician"
+    new "Magician"
+
+    # game/variables/outfits.rpy:129
+    old "Trust: {}"
+    new "Trust: {}"
+
+    # game/variables/outfits.rpy:129
+    old "Had sex: {} times"
+    new "Had sex: {} times"
+
+    # game/variables/outfits.rpy:137
+    old "Give her a carrot and make her happy."
+    new "Give her a carrot and make her happy."
+

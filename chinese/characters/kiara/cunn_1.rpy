@@ -230,3 +230,19 @@ translate chinese strings:
     old "Slower"
     new "Slower"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate chinese strings:
+
+    # game/characters/kiara/cunn_1.rpy:64
+    old "Angel {#visible}"
+    new "Angel {#visible}"
+
+    # game/characters/kiara/cunn_1.rpy:64
+    old "Nympho {#visible}"
+    new "Nympho {#visible}"
+
+    # game/characters/kiara/cunn_1.rpy:64
+    old "Party Girl {#visible}"
+    new "Party Girl {#visible}"
+
