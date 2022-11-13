@@ -66,3 +66,11 @@ translate french strings:
     old "Killed a human:\nCorruption + {}% \nSanity - {}% \n\nCurrent corruption: {}% \nCurrent sanity: {}%"
     new "Tué un humain:\nCorruption + {} pour 100\nSanté - {} pour 100\n\nCorruption actuelle: {} pour 100\nSanté mentale actuelle: {} pour 100"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/variables/classes/Player.rpy:514
+    old "Lost {} {{vit}}health ({}/{}){{/vit}}."
+    new "Lost {} {{vit}}health ({}/{}){{/vit}}."
+

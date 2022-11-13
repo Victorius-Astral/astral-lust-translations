@@ -1063,3 +1063,195 @@ translate french strings:
     # game/characters/mina/speak.rpy:161
     old "She likes pink."
     new "Elle aime le rose."
+# TODO: Translation updated at 2022-11-13 15:21
+
+# game/characters/mina/speak.rpy:23
+translate french speak_mina_50f4a088:
+
+    # me "Hey."
+    me "Hey."
+
+# game/characters/mina/speak.rpy:24
+translate french speak_mina_7259a272:
+
+    # mina "Not so loud, man."
+    mina "Not so loud, man."
+
+# game/characters/mina/speak.rpy:25
+translate french speak_mina_88eab5f5:
+
+    # me "Haha."
+    me "Haha."
+
+# game/characters/mina/speak.rpy:26
+translate french speak_mina_e6145faa:
+
+    # mina "Gosh. My head."
+    mina "Gosh. My head."
+
+# game/characters/mina/speak.rpy:27
+translate french speak_mina_db5efdd8:
+
+    # me "That's what you get from getting wasted."
+    me "That's what you get from getting wasted."
+
+# game/characters/mina/speak.rpy:28
+translate french speak_mina_8565c527:
+
+    # mina "Never again. Never."
+    mina "Never again. Never."
+
+# game/characters/mina/speak.rpy:71
+translate french speak_mina_menu1_34e162cd:
+
+    # mina "Can you do something with this hangover?"
+    mina "Can you do something with this hangover?"
+
+# game/characters/mina/speak.rpy:72
+translate french speak_mina_menu1_69908963:
+
+    # me "I don't think so. It'll pass on its own."
+    me "I don't think so. It'll pass on its own."
+
+# game/characters/mina/speak.rpy:73
+translate french speak_mina_menu1_8ad0388e:
+
+    # mina "Then no. I don't need help. But thanks for asking."
+    mina "Then no. I don't need help. But thanks for asking."
+
+# game/characters/mina/speak.rpy:119
+translate french speak_mina_menu1_f355064a:
+
+    # mina "I don't want to do even this today."
+    mina "I don't want to do even this today."
+
+# game/characters/mina/speak.rpy:120
+translate french speak_mina_menu1_6e88d374:
+
+    # me "It would help you relax."
+    me "It would help you relax."
+
+# game/characters/mina/speak.rpy:121
+translate french speak_mina_menu1_64f9d952:
+
+    # mina "I just want to die today. Nothing more."
+    mina "I just want to die today. Nothing more."
+
+# game/characters/mina/speak.rpy:122
+translate french speak_mina_menu1_c94f0888:
+
+    # me "Hit me if you change your mind."
+    me "Hit me if you change your mind."
+
+# game/characters/mina/speak.rpy:123
+translate french speak_mina_menu1_343b9f4a_1:
+
+    # mina "Got it."
+    mina "Got it."
+
+# game/characters/mina/speak.rpy:135
+translate french speak_mina_menu1_9b8153a9:
+
+    # mina "Don't even think about putting anything into my mouth."
+    mina "Don't even think about putting anything into my mouth."
+
+# game/characters/mina/speak.rpy:136
+translate french speak_mina_menu1_70545e96:
+
+    # mina "I could vomit because of it."
+    mina "I could vomit because of it."
+
+# game/characters/mina/speak.rpy:137
+translate french speak_mina_menu1_aa50548a:
+
+    # me "Ugh."
+    me "Ugh."
+
+# game/characters/mina/speak.rpy:138
+translate french speak_mina_menu1_28638f70:
+
+    # mina "Yeah."
+    mina "Yeah."
+
+# game/characters/mina/speak.rpy:139
+translate french speak_mina_menu1_d0a8deab:
+
+    # me "Maybe tomorrow."
+    me "Maybe tomorrow."
+
+# game/characters/mina/speak.rpy:140
+translate french speak_mina_menu1_82507835:
+
+    # mina "Good idea."
+    mina "Good idea."
+
+# game/characters/mina/speak.rpy:152
+translate french speak_mina_menu1_c3786cca:
+
+    # mina "Oh, no. Not today, bro."
+    mina "Oh, no. Not today, bro."
+
+# game/characters/mina/speak.rpy:153
+translate french speak_mina_menu1_43813a72:
+
+    # mina "I can barely stand."
+    mina "I can barely stand."
+
+# game/characters/mina/speak.rpy:154
+translate french speak_mina_menu1_16af8e7e:
+
+    # me "Get better soon."
+    me "Get better soon."
+
+# game/characters/mina/speak.rpy:155
+translate french speak_mina_menu1_d1de1783:
+
+    # mina "Thankies."
+    mina "Thankies."
+
+# game/characters/mina/speak.rpy:187
+translate french speak_mina_menu1_17047931:
+
+    # mina "Man, let me rest." id speak_mina_menu1_17047931
+    mina "Man, let me rest." id speak_mina_menu1_17047931
+
+# game/characters/mina/speak.rpy:188
+translate french speak_mina_menu1_a4c5cb54:
+
+    # mina "Day off. I'm taking a day off. 'Kay?"
+    mina "Day off. I'm taking a day off. 'Kay?"
+
+# game/characters/mina/speak.rpy:189
+translate french speak_mina_menu1_c76d319b:
+
+    # me "'Key."
+    me "'Key."
+
+# game/characters/mina/speak.rpy:190
+translate french speak_mina_menu1_499e08eb:
+
+    # mina "Sweet."
+    mina "Sweet."
+
+# game/characters/mina/speak.rpy:202
+translate french speak_mina_menu1_37318634:
+
+    # mina "Not today, bro."
+    mina "Not today, bro."
+
+# game/characters/mina/speak.rpy:203
+translate french speak_mina_menu1_043b6a09:
+
+    # mina "I'm too tired."
+    mina "I'm too tired."
+
+translate french strings:
+
+    # game/characters/mina/speak.rpy:47
+    old "I have the booze {gold}(Story){/gold}"
+    new "I have the booze {gold}(Story){/gold}"
+
+    # game/characters/mina/speak.rpy:47
+    old "I'll get you the vodka you wanted {gold}(Story){/gold}"
+    new "I'll get you the vodka you wanted {gold}(Story){/gold}"
+

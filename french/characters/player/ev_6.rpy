@@ -351,3 +351,11 @@ translate french strings:
     # game/characters/player/ev_6.rpy:42
     old "Names have heavy meaning. They are beacons through which higher beings connect with the spiritual world. They can hear, locate and respond to someone calling Their name."
     new "Les noms ont une signification lourde. Ce sont des balises à travers lesquelles les êtres supérieurs se connectent au monde spirituel. Ils peuvent écouter, localiser et répondre à quelqu'un qui appelle Leur nom."
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/characters/player/ev_6.rpy:72
+    old "Her honorary name is \"Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar\"."
+    new "Her honorary name is \"Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar\"."
+

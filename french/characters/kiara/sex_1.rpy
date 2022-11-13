@@ -176,3 +176,11 @@ translate french kiara_sex_1_sex2_3217e8b9:
     # me "Ahh!!"
     me "Ahh!!"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/characters/kiara/sex_1.rpy:28
+    old "Go harder"
+    new "Go harder"
+

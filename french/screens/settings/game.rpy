@@ -202,3 +202,11 @@ translate french strings:
     old "Not Set"
     new "Non défini"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/screens/settings/game.rpy:109
+    old "Show in-progress languages"
+    new "Show in-progress languages"
+

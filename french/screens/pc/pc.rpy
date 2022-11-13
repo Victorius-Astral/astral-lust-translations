@@ -38,3 +38,11 @@ translate french strings:
     old "|{#pcSeparator}"
     new "|{#pcSeparator}"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/screens/pc/pc.rpy:3
+    old "Developer Tools"
+    new "Developer Tools"
+

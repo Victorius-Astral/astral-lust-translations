@@ -82,3 +82,59 @@ translate french strings:
     old "\nModels made in {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} by {a=http://www.illusion.jp}Illusion{/a}"
     new "\nModèles réalisés dans {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} par {a=http://www.illusion.jp}Illusion{/a}"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/screens/gui/credits.rpy:49
+    old "Version [config.version!t]"
+    new "Version [config.version!t]"
+
+    # game/screens/gui/credits.rpy:49
+    old "Supporters:"
+    new "Supporters:"
+
+    # game/screens/gui/credits.rpy:49
+    old "Lead Designer"
+    new "Lead Designer"
+
+    # game/screens/gui/credits.rpy:49
+    old "Lead Programmer"
+    new "Lead Programmer"
+
+    # game/screens/gui/credits.rpy:49
+    old "Lead Writer"
+    new "Lead Writer"
+
+    # game/screens/gui/credits.rpy:49
+    old "Writer"
+    new "Writer"
+
+    # game/screens/gui/credits.rpy:49
+    old "Text Editor:"
+    new "Text Editor:"
+
+    # game/screens/gui/credits.rpy:49
+    old "Translation"
+    new "Translation"
+
+    # game/screens/gui/credits.rpy:49
+    old "Icons"
+    new "Icons"
+
+    # game/screens/gui/credits.rpy:49
+    old "Art"
+    new "Art"
+
+    # game/screens/gui/credits.rpy:49
+    old "Creepypasta"
+    new "Creepypasta"
+
+    # game/screens/gui/credits.rpy:49
+    old "Contributed Code"
+    new "Contributed Code"
+
+    # game/screens/gui/credits.rpy:49
+    old "Models made in {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} by {a=http://www.illusion.jp}Illusion{/a}"
+    new "Models made in {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} by {a=http://www.illusion.jp}Illusion{/a}"
+

@@ -805,3 +805,23 @@ translate french strings:
     # game/characters/alice/kiss.rpy:437
     old "I've changed my mind, next time, [alice]"
     new "J'ai changé d'avis, la prochaine fois, [alice]"
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/characters/alice/kiss.rpy:386
+    old "Sex"
+    new "Sex"
+
+    # game/characters/alice/kiss.rpy:386
+    old "Cunnilingus"
+    new "Cunnilingus"
+
+    # game/characters/alice/kiss.rpy:386
+    old "Blowjob"
+    new "Blowjob"
+
+    # game/characters/alice/kiss.rpy:386
+    old "Footjob"
+    new "Footjob"
+

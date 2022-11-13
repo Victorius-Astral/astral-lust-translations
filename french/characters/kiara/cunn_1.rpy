@@ -216,3 +216,19 @@ translate french kiara_cunn_1_cum_09706588:
     # kiara "And you said I'm the anxious one."
     kiara "Et tu as dit que c'était moi l'anxieuse."
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/characters/kiara/cunn_1.rpy:64
+    old "Angel {#visible}"
+    new "Angel {#visible}"
+
+    # game/characters/kiara/cunn_1.rpy:64
+    old "Nympho {#visible}"
+    new "Nympho {#visible}"
+
+    # game/characters/kiara/cunn_1.rpy:64
+    old "Party Girl {#visible}"
+    new "Party Girl {#visible}"
+

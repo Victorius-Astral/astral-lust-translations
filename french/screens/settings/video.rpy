@@ -58,3 +58,11 @@ translate french strings:
     old "\nNeeds restart."
     new "\nNécessite un redémarrage."
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/screens/settings/video.rpy:56
+    old "Main Menu Images"
+    new "Main Menu Images"
+

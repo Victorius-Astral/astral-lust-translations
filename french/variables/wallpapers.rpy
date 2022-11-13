@@ -322,3 +322,107 @@ translate french strings:
     old "Valentines 2022"
     new "St-Valantin 2022"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/variables/wallpapers.rpy:24
+    old "Patreon"
+    new "Patreon"
+
+    # game/variables/wallpapers.rpy:24
+    old "Combat"
+    new "Combat"
+
+    # game/variables/wallpapers.rpy:24
+    old "Collectible"
+    new "Collectible"
+
+    # game/variables/wallpapers.rpy:24
+    old "Postcard"
+    new "Postcard"
+
+    # game/variables/wallpapers.rpy:24
+    old "Patreon - Time Limited"
+    new "Patreon - Time Limited"
+
+    # game/variables/wallpapers.rpy:24
+    old "Time Limited"
+    new "Time Limited"
+
+    # game/variables/wallpapers.rpy:24
+    old "Mod"
+    new "Mod"
+
+    # game/variables/wallpapers.rpy:431
+    old "Swimmer Fox"
+    new "Swimmer Fox"
+
+    # game/variables/wallpapers.rpy:438
+    old "Swimmer Fox - Topless"
+    new "Swimmer Fox - Topless"
+
+    # game/variables/wallpapers.rpy:445
+    old "Bunny Gracie"
+    new "Bunny Gracie"
+
+    # game/variables/wallpapers.rpy:452
+    old "Little Fox Adventure"
+    new "Little Fox Adventure"
+
+    # game/variables/wallpapers.rpy:473
+    old "Landscape 1"
+    new "Landscape 1"
+
+    # game/variables/wallpapers.rpy:480
+    old "Landscape 2"
+    new "Landscape 2"
+
+    # game/variables/wallpapers.rpy:487
+    old "Landscape 3"
+    new "Landscape 3"
+
+    # game/variables/wallpapers.rpy:494
+    old "Abstract 1"
+    new "Abstract 1"
+
+    # game/variables/wallpapers.rpy:501
+    old "Abstract 2"
+    new "Abstract 2"
+
+    # game/variables/wallpapers.rpy:508
+    old "Abstract 3"
+    new "Abstract 3"
+
+    # game/variables/wallpapers.rpy:538
+    old "Aug 2022 1"
+    new "Aug 2022 1"
+
+    # game/variables/wallpapers.rpy:539
+    old "Aug 2022 2"
+    new "Aug 2022 2"
+
+    # game/variables/wallpapers.rpy:540
+    old "Aug 2022 3"
+    new "Aug 2022 3"
+
+    # game/variables/wallpapers.rpy:541
+    old "Aug 2022 4"
+    new "Aug 2022 4"
+
+    # game/variables/wallpapers.rpy:542
+    old "Aug 2022 5"
+    new "Aug 2022 5"
+
+    # game/variables/wallpapers.rpy:549
+    old "June 2022 Postcard"
+    new "June 2022 Postcard"
+
+    # game/variables/wallpapers.rpy:573
+    old "July 2022"
+    new "July 2022"
+
+    # game/variables/wallpapers.rpy:573
+    old "August 2022"
+    new "August 2022"
+

@@ -169,3 +169,11 @@ translate french strings:
     # game/characters/savenia/speak.rpy:19
     old "Tell me about your group"
     new "Parles-moi de ton groupe"
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/characters/savenia/speak.rpy:8
+    old "I've got a few questions"
+    new "I've got a few questions"
+

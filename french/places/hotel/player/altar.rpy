@@ -108,3 +108,11 @@ translate french strings:
     old "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar"
     new "Chercheur de sagesse, Œil des secrets, Gardien des traditions d'Asthar"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/places/hotel/player/altar.rpy:2
+    old "Perform a ritual{#visible}"
+    new "Perform a ritual{#visible}"
+

@@ -38,3 +38,15 @@ translate french strings:
     old "{}'s affection - {}"
     new "Affection de {} - {}"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/variables/classes/NPC.rpy:358
+    old "{} is angry!"
+    new "{} is angry!"
+
+    # game/variables/classes/NPC.rpy:364
+    old "{} calmed down and is no longer angry at you!"
+    new "{} calmed down and is no longer angry at you!"
+

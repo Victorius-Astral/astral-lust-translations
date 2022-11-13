@@ -18,3 +18,11 @@ translate french strings:
     old "Suffix"
     new "Suffixe"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/events/endings/credits.rpy:3
+    old "Thank you for playing Astral Lust!"
+    new "Thank you for playing Astral Lust!"
+

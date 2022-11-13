@@ -102,3 +102,15 @@ translate french strings:
     old "• Came outside: "
     new "• Ejaculation externe: "
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/screens/menus/girls/alice.rpy:45
+    old "• Dildo: "
+    new "• Dildo: "
+
+    # game/screens/menus/girls/alice.rpy:46
+    old "• Rubbing: "
+    new "• Rubbing: "
+

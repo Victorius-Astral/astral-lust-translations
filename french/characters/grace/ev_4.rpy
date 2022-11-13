@@ -370,3 +370,11 @@ translate french strings:
     # game/characters/grace/ev_4.rpy:84
     old "She never met her father. Her mother kept saying he has never viOuited Grace because he doesn't love her."
     new "Elle n'a jamais rencontré son père. Sa mère n'arrête pas de dire qu'il n'a jamais vu Grace parce qu'il ne l'aime pas."
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/characters/grace/ev_4.rpy:84
+    old "She never met her father. Her mother kept saying he has never visited Grace because he doesn't love her."
+    new "She never met her father. Her mother kept saying he has never visited Grace because he doesn't love her."
+

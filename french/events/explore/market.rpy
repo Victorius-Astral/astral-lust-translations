@@ -227,3 +227,11 @@ translate french strings:
     # game/events/explore/market.rpy:68
     old "Open the door"
     new "Ouvrir la porte"
+# TODO: Translation updated at 2022-11-13 15:21
+
+# game/events/explore/market.rpy:55
+translate french exp_market_menu_c1884038:
+
+    # th "Gotta get something special for [lexi]."
+    th "Gotta get something special for [lexi]."
+

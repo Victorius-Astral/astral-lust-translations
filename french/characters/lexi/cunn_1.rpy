@@ -294,3 +294,11 @@ translate french strings:
     old "Make her cum"
     new "La faire jouir"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/characters/lexi/cunn_1.rpy:56
+    old "Explore {#visible}"
+    new "Explore {#visible}"
+

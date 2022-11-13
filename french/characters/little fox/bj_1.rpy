@@ -210,3 +210,11 @@ translate french lil_fox_bj_1_cum_61bfa6df:
     # me "Sleep tight."
     me "Dormez bien."
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/characters/little fox/bj_1.rpy:30
+    old "Cum Stealer {#visible}"
+    new "Cum Stealer {#visible}"
+

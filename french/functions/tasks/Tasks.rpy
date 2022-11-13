@@ -34,3 +34,11 @@ translate french strings:
     old "Completed"
     new "Terminé"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/functions/tasks/Tasks.rpy:181
+    old "Blocked"
+    new "Blocked"
+

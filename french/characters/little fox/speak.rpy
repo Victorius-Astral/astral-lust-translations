@@ -163,3 +163,11 @@ translate french strings:
     # game/characters/little fox/speak.rpy:77
     old "Little Cum-Stealer"
     new "Petits voleur de sperme"
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/characters/little fox/speak.rpy:31
+    old "Do you want to go on an adventure together?"
+    new "Do you want to go on an adventure together?"
+

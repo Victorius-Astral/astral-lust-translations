@@ -469,3 +469,11 @@ translate french main_11_8f38a483:
 
     # kiara "I can't help you now, I'm currently in an unstable state. If I try to help you now, I'll lose control on the spot."
     kiara "Je ne peux pas t'aider maintenant, je suis actuellement dans un état instable. si j'essaie de t'aider maintenant, je perdrai le contrôle sur-le-champ."
+# TODO: Translation updated at 2022-11-13 15:21
+
+# game/characters/player/ev_11.rpy:95
+translate french main_11_af80b51f:
+
+    # kiara "I can only say that Horrors that were slumbering forever are waking up after billions of years deep in slumber."
+    kiara "I can only say that Horrors that were slumbering forever are waking up after billions of years deep in slumber."
+
