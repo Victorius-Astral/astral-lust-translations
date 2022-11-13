@@ -276,3 +276,23 @@ translate vietnamese alice_whorse_96558721:
 
     # alice "I love it when you watch me.."
     alice "Em rất thích khi anh nhìn em..."
+# TODO: Translation updated at 2022-11-13 15:18
+
+translate vietnamese strings:
+
+    # game/characters/alice/whorse.rpy:40
+    old "Nude {#visible}"
+    new "Nude {#visible}"
+
+    # game/characters/alice/whorse.rpy:40
+    old "Gym {#visible}"
+    new "Gym {#visible}"
+
+    # game/characters/alice/whorse.rpy:40
+    old "Schoolgirl {#visible}"
+    new "Schoolgirl {#visible}"
+
+    # game/characters/alice/whorse.rpy:40
+    old "Pyjamas {#visible}"
+    new "Pyjamas {#visible}"
+

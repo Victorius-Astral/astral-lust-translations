@@ -708,3 +708,11 @@ translate vietnamese strings:
     # game/characters/grace/ev_10.rpy:77
     old "Secret found! Victorius is pleased. +50% vault space multiplier!"
     new "Bí mật được tìm thấy! Victorius rất vui. +50% diện tích của kho!"
+# TODO: Translation updated at 2022-11-13 15:18
+
+translate vietnamese strings:
+
+    # game/characters/grace/ev_10.rpy:72
+    old "Dad will be named.."
+    new "Dad will be named.."
+

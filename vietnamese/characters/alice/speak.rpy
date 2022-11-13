@@ -2398,3 +2398,11 @@ translate vietnamese speak_alice_sexMenu_8f7b6901:
 
     # alice "Sure, what is it?"
     alice "Được thôi, nó là gì vậy?"
+# TODO: Translation updated at 2022-11-13 15:18
+
+translate vietnamese strings:
+
+    # game/characters/alice/speak.rpy:171
+    old "Playmate {#visible}"
+    new "Playmate {#visible}"
+
