@@ -742,3 +742,71 @@ translate spanish kiara_menu1_4612353a:
 
     # kiara "The second step is to read the being's title. Make sure to have thought in what you wish to pray for. If you asked me to let you remain lucid in dreams, it would fail, as I don't have any dream authorities, and can't bless you."
     kiara "El segundo paso es leer el título del ser. Asegúrate de haber pensado en lo que deseas orar. Si me pidieras que te permitiera permanecer lúcido en los sueños, fallaría, ya que no tengo ninguna autoridad en los sueños y no puedo bendecirte."
+# TODO: Translation updated at 2022-11-13 15:15
+
+# game/characters/kiara/speak.rpy:19
+translate spanish speak_kiara_d3a63c0c:
+
+    # kiara "You don't seem capable of performing rituals."
+    kiara "You don't seem capable of performing rituals."
+
+# game/characters/kiara/speak.rpy:20
+translate spanish speak_kiara_31759452:
+
+    # me "I'm listening."
+    me "I'm listening."
+
+# game/characters/kiara/speak.rpy:24
+translate spanish speak_kiara_3453d517:
+
+    # kiara "I could teach you when you have a while."
+    kiara "I could teach you when you have a while."
+
+# game/characters/kiara/speak.rpy:25
+translate spanish speak_kiara_c868a713:
+
+    # kiara "These can be very helpful for someone that knows what they're doing."
+    kiara "These can be very helpful for someone that knows what they're doing."
+
+# game/characters/kiara/speak.rpy:56
+translate spanish kiara_menu1_b5f5afd3:
+
+    # kiara "We are similar, [me]. We both share thirst for knowledge far beyond normal."
+    kiara "We are similar, [me]. We both share thirst for knowledge far beyond normal."
+
+# game/characters/kiara/speak.rpy:57
+translate spanish kiara_menu1_a64595cf:
+
+    # me "That's undeniable."
+    me "That's undeniable."
+
+# game/characters/kiara/speak.rpy:59
+translate spanish kiara_menu1_e0949b62:
+
+    # kiara "Let's say that the time spent together was the price."
+    kiara "Let's say that the time spent together was the price."
+
+# game/characters/kiara/speak.rpy:250
+translate spanish kiara_menu1_6b04ab3e_1:
+
+    # me "What's the price?"
+    me "What's the price?"
+
+translate spanish strings:
+
+    # game/characters/kiara/speak.rpy:289
+    old "Threesome (FFM)"
+    new "Threesome (FFM)"
+
+    # game/characters/kiara/speak.rpy:289
+    old "Threesome (FMM)"
+    new "Threesome (FMM)"
+
+    # game/characters/kiara/speak.rpy:320
+    old "Pick an position."
+    new "Pick an position."
+
+    # game/characters/kiara/speak.rpy:320
+    old "Lying"
+    new "Lying"
+

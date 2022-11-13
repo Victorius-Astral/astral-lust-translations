@@ -1217,3 +1217,11 @@ translate spanish strings:
     # game/characters/succubi/a/talk.rpy:576
     old "Fuck her again"
     new "Fóllala otra vez"
+# TODO: Translation updated at 2022-11-13 15:15
+
+translate spanish strings:
+
+    # game/characters/succubi/a/talk.rpy:85
+    old "How should she call you?"
+    new "How should she call you?"
+

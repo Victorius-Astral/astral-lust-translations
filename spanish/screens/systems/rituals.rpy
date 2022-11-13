@@ -315,3 +315,11 @@ translate spanish strings:
     # game/screens/systems/rituals.rpy:450
     old "Result:"
     new "Resultado:"
+# TODO: Translation updated at 2022-11-13 15:15
+
+translate spanish strings:
+
+    # game/screens/systems/rituals.rpy:529
+    old "% Sanity"
+    new "% Sanity"
+

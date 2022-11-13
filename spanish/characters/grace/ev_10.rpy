@@ -675,3 +675,11 @@ translate spanish strings:
     # game/characters/grace/ev_10.rpy:77
     old "Secret found! Victorius is pleased. +50% vault space multiplier!"
     new "¡Secreto encontrado! Victorius está complacido. ¡Espacio en la bóveda multiplicado por +50%!"
+# TODO: Translation updated at 2022-11-13 15:15
+
+translate spanish strings:
+
+    # game/characters/grace/ev_10.rpy:72
+    old "Dad will be named.."
+    new "Dad will be named.."
+

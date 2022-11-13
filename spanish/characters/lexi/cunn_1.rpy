@@ -293,3 +293,11 @@ translate spanish strings:
     # game/characters/lexi/cunn_1.rpy:106
     old "Make her cum"
     new "Haz que se venga"
+# TODO: Translation updated at 2022-11-13 15:15
+
+translate spanish strings:
+
+    # game/characters/lexi/cunn_1.rpy:56
+    old "Explore {#visible}"
+    new "Explore {#visible}"
+

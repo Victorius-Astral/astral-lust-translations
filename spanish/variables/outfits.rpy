@@ -116,3 +116,23 @@ translate spanish strings:
     # game/variables/outfits.rpy:94
     old "Give her a carrot and make her happy."
     new "Dale una zanahoria y hazla feliz."
+# TODO: Translation updated at 2022-11-13 15:15
+
+translate spanish strings:
+
+    # game/variables/outfits.rpy:3
+    old "Playmate"
+    new "Playmate"
+
+    # game/variables/outfits.rpy:3
+    old "Xmas"
+    new "Xmas"
+
+    # game/variables/outfits.rpy:3
+    old "Magician"
+    new "Magician"
+
+    # game/variables/outfits.rpy:129
+    old "Had sex: {} times"
+    new "Had sex: {} times"
+
