@@ -44,3 +44,11 @@ translate polish wc_lexi_5a823cce:
     # me "Sorry, I thought it was unoccu-"
     me "Sorry, I thought it was unoccu-"
 
+# TODO: Translation updated at 2022-11-13 15:23
+
+# game/characters/lexi/wc.rpy:15
+translate polish wc_lexi_a08584a1:
+
+    # lexi "Ehh.."
+    lexi "Ehh.."
+

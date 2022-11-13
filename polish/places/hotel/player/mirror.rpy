@@ -58,3 +58,31 @@ translate polish strings:
     old "Alice ([alice])"
     new "Alice ([alice])"
 
+# TODO: Translation updated at 2022-11-13 15:23
+
+translate polish strings:
+
+    # game/places/hotel/player/mirror.rpy:34
+    old "How do you want to call your Cat:"
+    new "How do you want to call your Cat:"
+
+    # game/places/hotel/player/mirror.rpy:39
+    old "How do you want to call your Dog:"
+    new "How do you want to call your Dog:"
+
+    # game/places/hotel/player/mirror.rpy:44
+    old "How do you want to call Lexi:"
+    new "How do you want to call Lexi:"
+
+    # game/places/hotel/player/mirror.rpy:49
+    old "How do you want to call Mina:"
+    new "How do you want to call Mina:"
+
+    # game/places/hotel/player/mirror.rpy:54
+    old "How do you want to call Grace:"
+    new "How do you want to call Grace:"
+
+    # game/places/hotel/player/mirror.rpy:59
+    old "How do you want to call Alice:"
+    new "How do you want to call Alice:"
+

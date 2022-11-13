@@ -1814,3 +1814,45 @@ translate polish strings:
     old "You.. You.. peed on me.."
     new "You.. You.. peed on me.."
 
+# TODO: Translation updated at 2022-11-13 15:23
+
+# game/characters/grace/speak.rpy:88
+translate polish speak_grace_fun_b50ba9c2:
+
+    # grace "You are not getting into my panties!"
+    grace "You are not getting into my panties!"
+
+# game/characters/grace/speak.rpy:89
+translate polish speak_grace_fun_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/characters/grace/speak.rpy:90
+translate polish speak_grace_fun_bbec7c9c:
+
+    # me "It's not that [grace]."
+    me "It's not that [grace]."
+
+# game/characters/grace/speak.rpy:93
+translate polish speak_grace_fun_4fdef178:
+
+    # grace "Then what do you want to ask?"
+    grace "Then what do you want to ask?"
+
+# game/characters/grace/speak.rpy:98
+translate polish speak_grace_fun_c93091b8:
+
+    # grace "What is it?"
+    grace "What is it?"
+
+translate polish strings:
+
+    # game/characters/grace/speak.rpy:58
+    old "Outfits >"
+    new "Outfits >"
+
+    # game/characters/grace/speak.rpy:60
+    old "Bunny >{#visible}"
+    new "Bunny >{#visible}"
+

@@ -2988,3 +2988,23 @@ translate polish strings:
     old "Now you can finish changing"
     new "Now you can finish changing"
 
+# TODO: Translation updated at 2022-11-13 15:23
+
+# game/characters/grace/kiss.rpy:994
+translate polish grace_kiss_bad_end_b73a451a:
+
+    # victorius "What a pity it's merely a replay..."
+    victorius "What a pity it's merely a replay..."
+
+# game/characters/grace/kiss.rpy:1003
+translate polish grace_kiss_bad_end_5a4488d2:
+
+    # victorius "Suffer. Beg. Plead for your little life."
+    victorius "Suffer. Beg. Plead for your little life."
+
+# game/characters/grace/kiss.rpy:1006
+translate polish grace_kiss_bad_end_4944b87a:
+
+    # victorius "But there is no salvation waiting for you."
+    victorius "But there is no salvation waiting for you."
+

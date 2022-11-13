@@ -278,3 +278,31 @@ translate polish alice_whorse_96558721:
     # alice "I love it when you watch me.."
     alice "I love it when you watch me.."
 
+# TODO: Translation updated at 2022-11-13 15:23
+
+translate polish strings:
+
+    # game/characters/alice/whorse.rpy:40
+    old "Nude {#visible}"
+    new "Nude {#visible}"
+
+    # game/characters/alice/whorse.rpy:40
+    old "Gym {#visible}"
+    new "Gym {#visible}"
+
+    # game/characters/alice/whorse.rpy:40
+    old "Schoolgirl {#visible}"
+    new "Schoolgirl {#visible}"
+
+    # game/characters/alice/whorse.rpy:40
+    old "Stranded {#visible}"
+    new "Stranded {#visible}"
+
+    # game/characters/alice/whorse.rpy:40
+    old "Maid {#visible}"
+    new "Maid {#visible}"
+
+    # game/characters/alice/whorse.rpy:40
+    old "Pyjamas {#visible}"
+    new "Pyjamas {#visible}"
+

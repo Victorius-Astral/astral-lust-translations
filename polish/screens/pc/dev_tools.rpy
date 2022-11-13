@@ -78,3 +78,23 @@ translate polish strings:
     old "All collectibles unlocked."
     new "All collectibles unlocked."
 
+# TODO: Translation updated at 2022-11-13 15:23
+
+translate polish strings:
+
+    # game/screens/pc/dev_tools.rpy:29
+    old "Cursor"
+    new "Cursor"
+
+    # game/screens/pc/dev_tools.rpy:100
+    old "Test Sounds"
+    new "Test Sounds"
+
+    # game/screens/pc/dev_tools.rpy:252
+    old "With sound"
+    new "With sound"
+
+    # game/screens/pc/dev_tools.rpy:263
+    old "Without sound"
+    new "Without sound"
+

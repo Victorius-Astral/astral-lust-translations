@@ -262,3 +262,11 @@ translate polish strings:
     old "Rubbing - Cowgirl"
     new "Rubbing - Cowgirl"
 
+# TODO: Translation updated at 2022-11-13 15:23
+
+translate polish strings:
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Vaginal - Behind"
+    new "Vaginal - Behind"
+

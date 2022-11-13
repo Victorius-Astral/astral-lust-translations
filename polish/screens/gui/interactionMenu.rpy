@@ -233,3 +233,11 @@ translate polish strings:
     # game/screens/gui/interactionMenu.rpy:75
     old "[rhainda] & [lil_fox]"
     new "[rhainda] i [lil_fox]"
+# TODO: Translation updated at 2022-11-13 15:23
+
+translate polish strings:
+
+    # game/screens/gui/interactionMenu.rpy:76
+    old "[alice] & [grace]"
+    new "[alice] & [grace]"
+
