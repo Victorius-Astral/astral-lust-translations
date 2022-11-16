@@ -212,7 +212,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:1092
     old "Advances dialogue and activates the interface."
-    new "đối thoại nâng cao và kích hoạt giao diện."
+    new "Chuyển tiếp thoại và kích hoạt giao diện."
 
     # game/screens.rpy:1095
     old "Space"
@@ -220,7 +220,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:1096
     old "Advances dialogue without selecting choices."
-    new "đối thoại mà không cần chọn lựa."
+    new "Chuyển tiếp thoại mà không cần chọn lựa."
 
     # game/screens.rpy:1099
     old "Arrow Keys"
@@ -232,7 +232,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:1103
     old "Escape"
-    new "Sủi"
+    new "ESC"
 
     # game/screens.rpy:1104
     old "Accesses the game menu."
@@ -244,7 +244,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:1108
     old "Skips dialogue while held down."
-    new "Bỏ qua đối thoại khi bị nhấn giữ."
+    new "Bỏ qua thoại khi bị nhấn giữ."
 
     # game/screens.rpy:1111
     old "Tab"
@@ -272,7 +272,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:1124
     old "Hides the user interface."
-    new "Ẩn giao diện người dùng."
+    new "Ẩn giao diện."
 
     # game/screens.rpy:1128
     old "Takes a screenshot."
@@ -280,7 +280,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:1132
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    new "Chuyển sang hỗ trợ {a=https://www.renpy.org/l/voicing}Tự-Đọc thoại (bằng tiếng anh... và nó nghe đuồi vcl){/a}."
 
     # game/screens.rpy:1138
     old "Left Click"
@@ -296,11 +296,11 @@ translate vietnamese strings:
 
     # game/screens.rpy:1150
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "Mouse Wheel Up\nClick Rollback Side"
+    new "Lăn chuột lên\nHướng lăn lại"
 
     # game/screens.rpy:1154
     old "Mouse Wheel Down"
-    new "Mouse Wheel Down"
+    new "Lăn chuột xuống"
 
     # game/screens.rpy:1161
     old "Right Trigger\nA/Bottom Button"

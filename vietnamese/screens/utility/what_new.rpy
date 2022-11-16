@@ -410,7 +410,7 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:206
     old "The main game's font was changed! Collectibles are kept between saves. Item notifications now show the item's icon. There are many other changes, check the full changelog at the bottom for them."
-    new "Phông chữ của trò chơi chính đã được thay đổi! Những bộ Sưu tập sẽ được giữ giữa các lần lưu. Thông báo vật phẩm giờ sẽ hiển thị biểu tượng của vật phẩm. Có nhiều thay đổi khác, hãy kiểm tra bảng thay đổi đầy đủ ở dưới cùng để biết thêm về chúng."
+    new "Phông chữ của trò chơi chính đã được thay đổi! Những bộ Sưu tập sẽ được giữ giữa các lần lưu. Thông báo vật phẩm giờ sẽ hiển thị biểu tượng của vật phẩm. Có nhiều thay đổi khác, hãy kiểm tra bảng thay đổi đầy đủ ở dưới cùng để biết thêm về chúng. Và nếu bạn chơi bản android của một nhóm nào đó tôi không tiện nhắc tên mà có chữ Sex 3D Game lù lù ở góc dưới màn hình. Nó sẽ khiến phần combat bị lỗi. Thì tôi khuyên là bạn nên vào discord để tải game do bên đó đã tự ý can thiệp vào file game và phá hỏng trải nghiệm một cách không đáng có..."
 # TODO: Translation updated at 2022-10-11 16:06
 
 translate vietnamese strings:
