@@ -353,3 +353,15 @@ translate vietnamese grace_mass_2_b_239f05d2:
 
     # "You leave her room."
     "Bạn rời khỏi phòng của cô ấy."
+# TODO: Translation updated at 2022-11-13 15:18
+
+translate vietnamese strings:
+
+    # game/characters/grace/mass_2.rpy:22
+    old "Pick her outfit."
+    new "Pick her outfit."
+
+    # game/characters/grace/mass_2.rpy:22
+    old "Dress"
+    new "Dress"
+

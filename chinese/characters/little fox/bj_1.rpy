@@ -210,3 +210,11 @@ translate chinese lil_fox_bj_1_cum_61bfa6df:
     # me "Sleep tight."
     me "Sleep tight."
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate chinese strings:
+
+    # game/characters/little fox/bj_1.rpy:30
+    old "Cum Stealer {#visible}"
+    new "Cum Stealer {#visible}"
+

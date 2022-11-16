@@ -1205,3 +1205,15 @@ translate french strings:
     # game/characters/succubi/a/talk.rpy:576
     old "Fuck her again"
     new "Baiser la encore"
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/characters/succubi/a/talk.rpy:32
+    old "Against a wall"
+    new "Against a wall"
+
+    # game/characters/succubi/a/talk.rpy:85
+    old "How should she call you?"
+    new "How should she call you?"
+

@@ -36,3 +36,11 @@ translate chinese wc_lexi_2e39132c:
     # "You leave."
     "You leave."
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+# game/characters/lexi/wc.rpy:15
+translate chinese wc_lexi_a08584a1:
+
+    # lexi "Ehh.."
+    lexi "Ehh.."
+

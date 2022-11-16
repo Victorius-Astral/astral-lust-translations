@@ -99,3 +99,23 @@ translate vietnamese strings:
     # game/variables/outfits.rpy:94
     old "Give her a carrot and make her happy."
     new "Cho cô ấy một củ cà rốt để làm cô ấy hạnh fuck."
+# TODO: Translation updated at 2022-11-13 15:18
+
+translate vietnamese strings:
+
+    # game/variables/outfits.rpy:3
+    old "Playmate"
+    new "Playmate"
+
+    # game/variables/outfits.rpy:3
+    old "Xmas"
+    new "Xmas"
+
+    # game/variables/outfits.rpy:3
+    old "Magician"
+    new "Magician"
+
+    # game/variables/outfits.rpy:129
+    old "Had sex: {} times"
+    new "Had sex: {} times"
+

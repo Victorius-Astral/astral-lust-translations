@@ -1092,3 +1092,11 @@ translate french strings:
     old "It's safe, I can finally sleep"
     new "C'est sûr, je peux enfin dormir"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+# game/characters/grace/nightmare.rpy:174
+translate french grace_nightmare_part3_6d16ba19:
+
+    # grace "Mo-!"
+    grace "Mo-!"
+

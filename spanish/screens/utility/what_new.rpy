@@ -464,3 +464,39 @@ translate spanish strings:
     # game/screens/utility/what_new.rpy:248
     old "Most cards will now play the sound when used! Hope you like it! Click the cards below to try."
     new "¡La mayoría de las cartas ahora reproducirán el sonido cuando se usen! ¡Espero que te guste! Haz clic en las cartas a continuación para probarlo."
+# TODO: Translation updated at 2022-11-13 15:15
+
+translate spanish strings:
+
+    # game/screens/utility/what_new.rpy:179
+    old "{b}NSFW Sounds{/b}"
+    new "{b}NSFW Sounds{/b}"
+
+    # game/screens/utility/what_new.rpy:180
+    old "{b}We've started adding sex sounds!{/b} Along with battle sounds, two new volume bars were added to the sound settings. You can adjust the volume of NSFW sounds there. For now only a few sounds were added for Alice and Savenia. More sounds, including moans, are coming soon."
+    new "{b}We've started adding sex sounds!{/b} Along with battle sounds, two new volume bars were added to the sound settings. You can adjust the volume of NSFW sounds there. For now only a few sounds were added for Alice and Savenia. More sounds, including moans, are coming soon."
+
+    # game/screens/utility/what_new.rpy:224
+    old "{b}Alice - Playmate Outfit{/b}"
+    new "{b}Alice - Playmate Outfit{/b}"
+
+    # game/screens/utility/what_new.rpy:225
+    old "When lust overflows, you gotta find your favorite playmate."
+    new "When lust overflows, you gotta find your favorite playmate."
+
+    # game/screens/utility/what_new.rpy:233
+    old "{b}More Replays{/b}"
+    new "{b}More Replays{/b}"
+
+    # game/screens/utility/what_new.rpy:234
+    old "We've added the most of game's content to the replay menu. Now it has 177 replays more compared to 0.2.3 giving a total of 357 replays."
+    new "We've added the most of game's content to the replay menu. Now it has 177 replays more compared to 0.2.3 giving a total of 357 replays."
+
+    # game/screens/utility/what_new.rpy:246
+    old "{b}Grace & Alice{/b}"
+    new "{b}Grace & Alice{/b}"
+
+    # game/screens/utility/what_new.rpy:247
+    old "You can find these two cuties working together on afternoons."
+    new "You can find these two cuties working together on afternoons."
+

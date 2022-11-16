@@ -256,3 +256,11 @@ translate spanish strings:
     # game/screens/gui/interactionMenu.rpy:75
     old "[rhainda] & [lil_fox]"
     new "[rhainda] & [lil_fox]"
+# TODO: Translation updated at 2022-11-13 15:15
+
+translate spanish strings:
+
+    # game/screens/gui/interactionMenu.rpy:76
+    old "[alice] & [grace]"
+    new "[alice] & [grace]"
+

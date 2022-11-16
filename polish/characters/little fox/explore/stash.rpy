@@ -334,3 +334,11 @@ translate polish strings:
     old "Do not play her games {love}(Protect your girl's good name+){/love}"
     new "Do not play her games {love}(Protect your girl's good name+){/love}"
 
+# TODO: Translation updated at 2022-11-13 15:23
+
+# game/characters/little fox/explore/stash.rpy:39
+translate polish lil_fox_exp_stash_a3cdd5e7:
+
+    # lil_fox "Yes, 100%% sure!"
+    lil_fox "Yes, 100%% sure!"
+

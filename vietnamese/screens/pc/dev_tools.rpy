@@ -92,3 +92,11 @@ translate vietnamese strings:
     # game/screens/pc/dev_tools.rpy:248
     old "Without sound"
     new "Không có âm thanh"
+# TODO: Translation updated at 2022-11-13 15:18
+
+translate vietnamese strings:
+
+    # game/screens/pc/dev_tools.rpy:29
+    old "Cursor"
+    new "Cursor"
+

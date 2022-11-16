@@ -1213,3 +1213,11 @@ translate vietnamese strings:
     # game/characters/succubi/a/talk.rpy:587
     old "Fuck her again"
     new "Địt cô ấy lần nữa"
+# TODO: Translation updated at 2022-11-13 15:18
+
+translate vietnamese strings:
+
+    # game/characters/succubi/a/talk.rpy:85
+    old "How should she call you?"
+    new "How should she call you?"
+

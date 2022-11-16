@@ -438,3 +438,11 @@ translate chinese main_11_ab92d0c8:
     # kiara "Now, I'll send you back. I need to rest for a while."
     kiara "Now, I'll send you back. I need to rest for a while."
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+# game/characters/player/ev_11.rpy:95
+translate chinese main_11_af80b51f:
+
+    # kiara "I can only say that Horrors that were slumbering forever are waking up after billions of years deep in slumber."
+    kiara "I can only say that Horrors that were slumbering forever are waking up after billions of years deep in slumber."
+

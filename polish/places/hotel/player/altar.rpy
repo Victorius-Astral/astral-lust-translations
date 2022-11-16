@@ -166,3 +166,11 @@ translate polish room_player_altar_kiara_1228f336:
     # me "Weird..."
     me "Weird..."
 
+# TODO: Translation updated at 2022-11-13 15:23
+
+translate polish strings:
+
+    # game/places/hotel/player/altar.rpy:2
+    old "Perform a ritual{#visible}"
+    new "Perform a ritual{#visible}"
+

@@ -50,3 +50,19 @@ translate polish strings:
     old "Play sound when window is minimized"
     new "Play sound when window is minimized"
 
+# TODO: Translation updated at 2022-11-13 15:23
+
+translate polish strings:
+
+    # game/screens/settings/sound.rpy:15
+    old "Play whispers sound"
+    new "Play whispers sound"
+
+    # game/screens/settings/sound.rpy:46
+    old "Battle Volume"
+    new "Battle Volume"
+
+    # game/screens/settings/sound.rpy:51
+    old "NSFW Volume"
+    new "NSFW Volume"
+

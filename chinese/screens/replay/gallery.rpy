@@ -20,3 +20,11 @@ translate chinese strings:
     old "Recover Gallery"
     new "Recover Gallery"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate chinese strings:
+
+    # game/screens/replay/gallery.rpy:113
+    old "* Click the event's name to start the replay."
+    new "* Click the event's name to start the replay."
+

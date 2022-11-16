@@ -472,3 +472,11 @@ translate french mina_7_2_d61975be:
 
     # mina "Naturally. How could I forget?"
     mina "Naturellement. Comment pourrais-je oublier?"
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/characters/mina/ev_7.rpy:34
+    old "Sandwich"
+    new "Sandwich"
+

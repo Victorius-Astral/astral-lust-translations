@@ -2155,3 +2155,35 @@ translate french strings:
     # game/events/explore/midnight_kiss.rpy:747
     old "Ask about Angels"
     new "Poser une question à propos de Los Angeles"
+# TODO: Translation updated at 2022-11-13 15:21
+
+# game/events/explore/midnight_kiss.rpy:473
+translate french midnight_kiss_part4_1d336001:
+
+    # something "Y' l' gotha f' mgah nafl'fhtagn. Fahf agl hafh mgn'ghft." (what_font=fonts["sancreek"])
+    something "Y' l' gotha f' mgah nafl'fhtagn. Fahf agl hafh mgn'ghft." (what_font=fonts["sancreek"])
+
+# game/events/explore/midnight_kiss.rpy:481
+translate french midnight_kiss_part4_cc6c03ff:
+
+    # something "Mgehye'lloig ahuaaah nilgh'ri h' r'luh." (what_font=fonts["sancreek"])
+    something "Mgehye'lloig ahuaaah nilgh'ri h' r'luh." (what_font=fonts["sancreek"])
+
+# game/events/explore/midnight_kiss.rpy:493
+translate french midnight_kiss_part4_8591c7f0:
+
+    # something "Mgehye'lloig ah Uaaahnyth." (what_font=fonts["sancreek"])
+    something "Mgehye'lloig ah Uaaahnyth." (what_font=fonts["sancreek"])
+
+# game/events/explore/midnight_kiss.rpy:499
+translate french midnight_kiss_part4_e5dafa81:
+
+    # something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts["fredericka"])
+    something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts["fredericka"])
+
+# game/events/explore/midnight_kiss.rpy:744
+translate french midnight_kiss_demeter_talk_64f90ab0:
+
+    # "You've also learned her full honorary name - Queen of Nightmares, Mind Wanderer, Invoker of Fear"
+    "You've also learned her full honorary name - Queen of Nightmares, Mind Wanderer, Invoker of Fear"
+

@@ -94,3 +94,43 @@ translate chinese strings:
     old "The finest of wines made in 20th century."
     new "The finest of wines made in 20th century."
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate chinese strings:
+
+    # game/variables/lists/items.rpy:14
+    old "Rituals"
+    new "Rituals"
+
+    # game/variables/lists/items.rpy:76
+    old "Ritual Materials"
+    new "Ritual Materials"
+
+    # game/variables/lists/items.rpy:76
+    old "Essentials when it comes to setting up a ritual."
+    new "Essentials when it comes to setting up a ritual."
+
+    # game/variables/lists/items.rpy:210
+    old "Calming Powder"
+    new "Calming Powder"
+
+    # game/variables/lists/items.rpy:210
+    old "You feel your racing thoughts slowing down with a little sniff."
+    new "You feel your racing thoughts slowing down with a little sniff."
+
+    # game/variables/lists/items.rpy:223
+    old "Irritating Powder"
+    new "Irritating Powder"
+
+    # game/variables/lists/items.rpy:223
+    old "You get itchy just by holding it. This, once calming powder, has fallen under eldritch influences."
+    new "You get itchy just by holding it. This, once calming powder, has fallen under eldritch influences."
+
+    # game/variables/lists/items.rpy:236
+    old "Unholy Pact"
+    new "Unholy Pact"
+
+    # game/variables/lists/items.rpy:236
+    old "You made a pact with 'Him'. You are to return before 'His' unholy visage."
+    new "You made a pact with 'Him'. You are to return before 'His' unholy visage."
+

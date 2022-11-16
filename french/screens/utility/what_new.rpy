@@ -298,3 +298,183 @@ translate french strings:
     old "{b}Other changes{/b}\nThere is a lot of other changes, both big and small. Many gui elements were made bigger, some new things were added, including secret event. Wallpapers & collectibles screens will load >90% faster now. A lot of issues were fixed."
     new "{b}Autres changements{/b}\nIl y a beaucoup d'autres changements, petits et grands. De nombreux éléments de l'interface ont été agrandis, de nouvelles choses ont été ajoutées, notamment un événement secret. Les écrans de fonds d'écran et de collectibles se chargent >90 pour 100 plus vite maintenant. De nombreux problèmes ont été corrigés."
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/screens/utility/what_new.rpy:56
+    old "{u}What's New{/u}"
+    new "{u}What's New{/u}"
+
+    # game/screens/utility/what_new.rpy:64
+    old "Click outside to close this window, it can be entered again from the pc."
+    new "Click outside to close this window, it can be entered again from the pc."
+
+    # game/screens/utility/what_new.rpy:179
+    old "{b}NSFW Sounds{/b}"
+    new "{b}NSFW Sounds{/b}"
+
+    # game/screens/utility/what_new.rpy:180
+    old "{b}We've started adding sex sounds!{/b} Along with battle sounds, two new volume bars were added to the sound settings. You can adjust the volume of NSFW sounds there. For now only a few sounds were added for Alice and Savenia. More sounds, including moans, are coming soon."
+    new "{b}We've started adding sex sounds!{/b} Along with battle sounds, two new volume bars were added to the sound settings. You can adjust the volume of NSFW sounds there. For now only a few sounds were added for Alice and Savenia. More sounds, including moans, are coming soon."
+
+    # game/screens/utility/what_new.rpy:184
+    old "{b}Rituals{/b}"
+    new "{b}Rituals{/b}"
+
+    # game/screens/utility/what_new.rpy:185
+    old "Perform various rituals and incantations that'll grant you various effects. There are two rituals and four beings to pray to. One ritual will manipulate what you dream of at night, and the second will improve or reduce your mental state. Stay safe! Don't pray to evil beings! Seek Kiara to learn them once Main Story is 12th, or if you learned about mysticism from Demeter, the nightmare angel girl. Rituals are to be performed at the altar in the player's room."
+    new "Perform various rituals and incantations that'll grant you various effects. There are two rituals and four beings to pray to. One ritual will manipulate what you dream of at night, and the second will improve or reduce your mental state. Stay safe! Don't pray to evil beings! Seek Kiara to learn them once Main Story is 12th, or if you learned about mysticism from Demeter, the nightmare angel girl. Rituals are to be performed at the altar in the player's room."
+
+    # game/screens/utility/what_new.rpy:196
+    old "{b}Control Your Dreams{/b}"
+    new "{b}Control Your Dreams{/b}"
+
+    # game/screens/utility/what_new.rpy:197
+    old "You can use new items and rituals to control if you'll have a dream at night or not! You can also determine what kind of a dream you'll have. A tip: sex with a succubi makes you have a wet dream that night."
+    new "You can use new items and rituals to control if you'll have a dream at night or not! You can also determine what kind of a dream you'll have. A tip: sex with a succubi makes you have a wet dream that night."
+
+    # game/screens/utility/what_new.rpy:200
+    old "{b}Explore with Little Fox{/b}"
+    new "{b}Explore with Little Fox{/b}"
+
+    # game/screens/utility/what_new.rpy:201
+    old "You can now take Little Fox out for an adventure! Find her during exploration, then you can go out with her by talking with her."
+    new "You can now take Little Fox out for an adventure! Find her during exploration, then you can go out with her by talking with her."
+
+    # game/screens/utility/what_new.rpy:211
+    old "{b}Postpone Deal With The Devil{/b}"
+    new "{b}Postpone Deal With The Devil{/b}"
+
+    # game/screens/utility/what_new.rpy:212
+    old "Tired of triggering this dream before you got enough attributes? Not anymore! You can now sign a pact with the Devil, in which you promise to make a deal on another occasion. You'll get a new item - Unholy Pact, using it will trigger Devil to appear when you sleep. This item will not be lost on death, it's bound to your soul!"
+    new "Tired of triggering this dream before you got enough attributes? Not anymore! You can now sign a pact with the Devil, in which you promise to make a deal on another occasion. You'll get a new item - Unholy Pact, using it will trigger Devil to appear when you sleep. This item will not be lost on death, it's bound to your soul!"
+
+    # game/screens/utility/what_new.rpy:215
+    old "{b}Alice - Nun Outfit{/b}"
+    new "{b}Alice - Nun Outfit{/b}"
+
+    # game/screens/utility/what_new.rpy:216
+    old "In the corruption-filled Asthar, even the nuns are filled with unholy thoughts."
+    new "In the corruption-filled Asthar, even the nuns are filled with unholy thoughts."
+
+    # game/screens/utility/what_new.rpy:224
+    old "{b}Alice - Playmate Outfit{/b}"
+    new "{b}Alice - Playmate Outfit{/b}"
+
+    # game/screens/utility/what_new.rpy:225
+    old "When lust overflows, you gotta find your favorite playmate."
+    new "When lust overflows, you gotta find your favorite playmate."
+
+    # game/screens/utility/what_new.rpy:233
+    old "{b}More Replays{/b}"
+    new "{b}More Replays{/b}"
+
+    # game/screens/utility/what_new.rpy:234
+    old "We've added the most of game's content to the replay menu. Now it has 177 replays more compared to 0.2.3 giving a total of 357 replays."
+    new "We've added the most of game's content to the replay menu. Now it has 177 replays more compared to 0.2.3 giving a total of 357 replays."
+
+    # game/screens/utility/what_new.rpy:237
+    old "{b}Grace - Bunny Outfit{/b}"
+    new "{b}Grace - Bunny Outfit{/b}"
+
+    # game/screens/utility/what_new.rpy:238
+    old "Super cute, adorable, and fuckin' sexy! Gracie in the new outfit here to steal your heart <3"
+    new "Super cute, adorable, and fuckin' sexy! Gracie in the new outfit here to steal your heart <3"
+
+    # game/screens/utility/what_new.rpy:246
+    old "{b}Grace & Alice{/b}"
+    new "{b}Grace & Alice{/b}"
+
+    # game/screens/utility/what_new.rpy:247
+    old "You can find these two cuties working together on afternoons."
+    new "You can find these two cuties working together on afternoons."
+
+    # game/screens/utility/what_new.rpy:250
+    old "{b}New Dreams{/b}"
+    new "{b}New Dreams{/b}"
+
+    # game/screens/utility/what_new.rpy:251
+    old "Two new dreams were added! None is nice, hehehe~ Two new nightmares to rip apart your sanity!"
+    new "Two new dreams were added! None is nice, hehehe~ Two new nightmares to rip apart your sanity!"
+
+    # game/screens/utility/what_new.rpy:254
+    old "{b}Lola's 3rd event{/b}"
+    new "{b}Lola's 3rd event{/b}"
+
+    # game/screens/utility/what_new.rpy:255
+    old "Lola has finally gotten a new event! It involves two paths and three adult scenes."
+    new "Lola has finally gotten a new event! It involves two paths and three adult scenes."
+
+    # game/screens/utility/what_new.rpy:263
+    old "{b}New Buffs & Items{/b}"
+    new "{b}New Buffs & Items{/b}"
+
+    # game/screens/utility/what_new.rpy:264
+    old "A lot of new buffs, and a few debuffs were added. Three new items were added too. Additionally some items can now be consumed for buffs (alcohols)."
+    new "A lot of new buffs, and a few debuffs were added. Three new items were added too. Additionally some items can now be consumed for buffs (alcohols)."
+
+    # game/screens/utility/what_new.rpy:267
+    old "{b}Card Sounds{/b}"
+    new "{b}Card Sounds{/b}"
+
+    # game/screens/utility/what_new.rpy:268
+    old "Most cards will now play the sound when used! Hope you like it! Click the cards below to try."
+    new "Most cards will now play the sound when used! Hope you like it! Click the cards below to try."
+
+    # game/screens/utility/what_new.rpy:280
+    old "{b}A lot of changes{/b}"
+    new "{b}A lot of changes{/b}"
+
+    # game/screens/utility/what_new.rpy:281
+    old "The main game's font was changed! Collectibles are kept between saves. Item notifications now show the item's icon. There are many other changes, check the full changelog at the bottom for them."
+    new "The main game's font was changed! Collectibles are kept between saves. Item notifications now show the item's icon. There are many other changes, check the full changelog at the bottom for them."
+
+    # game/screens/utility/what_new.rpy:297
+    old "{b}A lot of new Grace content{/b}"
+    new "{b}A lot of new Grace content{/b}"
+
+    # game/screens/utility/what_new.rpy:298
+    old "Gracie got three new story events, new 'anger & apology' mechanic, new sleeping content (including two footjobs), secret event, and more. The last of her new story events is merged with Alice's and Little Fox's events. Oh, it's a funny event ;)"
+    new "Gracie got three new story events, new 'anger & apology' mechanic, new sleeping content (including two footjobs), secret event, and more. The last of her new story events is merged with Alice's and Little Fox's events. Oh, it's a funny event ;)"
+
+    # game/screens/utility/what_new.rpy:314
+    old "{b}New Lexi & Mina events{/b}"
+    new "{b}New Lexi & Mina events{/b}"
+
+    # game/screens/utility/what_new.rpy:315
+    old "Sisters got two new story events each! Lexi additionally got a super big event - Kitchen Date, an event you need to make preparations for. With a lot of hot content to unlock as you get higher score. It's the longest event to date, and the first of the new 'date' system. Have fun!"
+    new "Sisters got two new story events each! Lexi additionally got a super big event - Kitchen Date, an event you need to make preparations for. With a lot of hot content to unlock as you get higher score. It's the longest event to date, and the first of the new 'date' system. Have fun!"
+
+    # game/screens/utility/what_new.rpy:326
+    old "{b}Fox girls' events{/b}"
+    new "{b}Fox girls' events{/b}"
+
+    # game/screens/utility/what_new.rpy:327
+    old "As mentioned above Little Fox has an event merged with Alice & Gracie, Rachel also got an event (finally some action with her :P), Rhainda got two story events!"
+    new "As mentioned above Little Fox has an event merged with Alice & Gracie, Rachel also got an event (finally some action with her :P), Rhainda got two story events!"
+
+    # game/screens/utility/what_new.rpy:338
+    old "{b}New items{/b}"
+    new "{b}New items{/b}"
+
+    # game/screens/utility/what_new.rpy:339
+    old "Four of them can be used during the new events, there are two consumables (and a new buff), and pouches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
+    new "Four of them can be used during the new events, there are two consumables (and a new buff), and pouches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
+
+    # game/screens/utility/what_new.rpy:369
+    old "{b}Redone prologue{/b}"
+    new "{b}Redone prologue{/b}"
+
+    # game/screens/utility/what_new.rpy:370
+    old "The prologue was made from scratch to be much bigger, more informative, and intriguing. Check replays or start a new game to see it. You might meet someone unexpected there."
+    new "The prologue was made from scratch to be much bigger, more informative, and intriguing. Check replays or start a new game to see it. You might meet someone unexpected there."
+
+    # game/screens/utility/what_new.rpy:381
+    old "{b}A lot of other changes & additions{/b}"
+    new "{b}A lot of other changes & additions{/b}"
+
+    # game/screens/utility/what_new.rpy:382
+    old "The changelog is long as hell, there are around 30 bugs fixed, a lot of QoL changes, some suggested by the community. There are some other new mechanics like Mina can have a hangover, refuse to get into any meaningful conversation with you, and stop working on her task. Abandoned car loot was boosted significantly, first sounds to enemy attacks were added. Check the full changelog from the link below."
+    new "The changelog is long as hell, there are around 30 bugs fixed, a lot of QoL changes, some suggested by the community. There are some other new mechanics like Mina can have a hangover, refuse to get into any meaningful conversation with you, and stop working on her task. Abandoned car loot was boosted significantly, first sounds to enemy attacks were added. Check the full changelog from the link below."
+

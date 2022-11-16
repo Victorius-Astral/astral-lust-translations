@@ -405,3 +405,23 @@ translate french strings:
     old "She seems to believe I'm courting Lexi. This thought makes her excited."
     new "Elle semble croire que je courtise Lexi. Cette pensée la rend excitée."
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+# game/characters/mina/ev_1.rpy:20
+translate french mina_1_ab1909c4:
+
+    # th "That was a couch, though.."
+    th "That was a couch, though.."
+
+# game/characters/mina/ev_1.rpy:53
+translate french mina_1_0d74701d:
+
+    # "{size=+20}*Bang*{/size}"
+    "{size=+20}*Bang*{/size}"
+
+translate french strings:
+
+    # game/characters/mina/ev_1.rpy:23
+    old "I'm not your concern"
+    new "I'm not your concern"
+

@@ -69,3 +69,11 @@ translate polish strings:
     # game/variables/classes/Player.rpy:378
     old "Killed a human:\nCorruption + {}% \nSanity - {}% \n\nCurrent corruption: {}% \nCurrent sanity: {}%"
     new "Zabito człowieka:\nKorupcja + {}% \nZdrowie psychiczne - {}% \n\nObecna korupcja: {}% \Obecne zdrowie psychiczne: {}%"
+# TODO: Translation updated at 2022-11-13 15:23
+
+translate polish strings:
+
+    # game/variables/classes/Player.rpy:514
+    old "Lost {} {{vit}}health ({}/{}){{/vit}}."
+    new "Lost {} {{vit}}health ({}/{}){{/vit}}."
+

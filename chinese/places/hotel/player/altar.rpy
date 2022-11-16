@@ -104,3 +104,11 @@ translate chinese strings:
     old "Check the knife"
     new "Check the knife"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate chinese strings:
+
+    # game/places/hotel/player/altar.rpy:2
+    old "Perform a ritual{#visible}"
+    new "Perform a ritual{#visible}"
+

@@ -30,3 +30,27 @@ translate french strings:
     old "Mute All"
     new "Mute All"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/screens/settings/sound.rpy:13
+    old "General"
+    new "General"
+
+    # game/screens/settings/sound.rpy:14
+    old "Play sound when window is minimized"
+    new "Play sound when window is minimized"
+
+    # game/screens/settings/sound.rpy:15
+    old "Play whispers sound"
+    new "Play whispers sound"
+
+    # game/screens/settings/sound.rpy:46
+    old "Battle Volume"
+    new "Battle Volume"
+
+    # game/screens/settings/sound.rpy:51
+    old "NSFW Volume"
+    new "NSFW Volume"
+

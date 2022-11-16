@@ -427,3 +427,113 @@ translate french strings:
     # game/characters/rhainda/speak.rpy:54
     old "Why do you hate ducks?"
     new "Pourquoi détestes-tu les canards?"
+# TODO: Translation updated at 2022-11-13 15:21
+
+# game/characters/rhainda/speak.rpy:15
+translate french speak_rhainda_296c0868:
+
+    # rhainda "Are you here to have some fun with yourself, little sister?"
+    rhainda "Are you here to have some fun with yourself, little sister?"
+
+# game/characters/rhainda/speak.rpy:16
+translate french speak_rhainda_4c264667:
+
+    # me "I'm a guy.."
+    me "I'm a guy.."
+
+# game/characters/rhainda/speak.rpy:17
+translate french speak_rhainda_d2941364:
+
+    # th "Besides, what the hell do you mean with yourself?"
+    th "Besides, what the hell do you mean with yourself?"
+
+# game/characters/rhainda/speak.rpy:21
+translate french speak_rhainda_623c508e:
+
+    # rhainda "Ssssure~"
+    rhainda "Ssssure~"
+
+# game/characters/rhainda/speak.rpy:22
+translate french speak_rhainda_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/characters/rhainda/speak.rpy:23
+translate french speak_rhainda_d078b758:
+
+    # rhainda "Have it your way guy with cute girl's name."
+    rhainda "Have it your way guy with cute girl's name."
+
+# game/characters/rhainda/speak.rpy:24
+translate french speak_rhainda_3820771a_1:
+
+    # me "..."
+    me "..."
+
+# game/characters/rhainda/speak.rpy:31
+translate french speak_rhainda_91e9d8c4:
+
+    # rhainda "Do you know you have a female name?" id speak_rhainda_91e9d8c4
+    rhainda "Do you know you have a female name?" id speak_rhainda_91e9d8c4
+
+# game/characters/rhainda/speak.rpy:32
+translate french speak_rhainda_b866ac52:
+
+    # me "It's not."
+    me "It's not."
+
+# game/characters/rhainda/speak.rpy:36
+translate french speak_rhainda_be3866d7:
+
+    # rhainda "On top of this it's just like my name."
+    rhainda "On top of this it's just like my name."
+
+# game/characters/rhainda/speak.rpy:37
+translate french speak_rhainda_761245b8:
+
+    # me "And?"
+    me "And?"
+
+# game/characters/rhainda/speak.rpy:38
+translate french speak_rhainda_868fad9f:
+
+    # rhainda "Whelp.. It's awkward."
+    rhainda "Whelp.. It's awkward."
+
+# game/characters/rhainda/speak.rpy:39
+translate french speak_rhainda_9725c968:
+
+    # me "Nah, you're imagining things."
+    me "Nah, you're imagining things."
+
+# game/characters/rhainda/speak.rpy:40
+translate french speak_rhainda_7438e7ce:
+
+    # rhainda "Do I?"
+    rhainda "Do I?"
+
+# game/characters/rhainda/speak.rpy:41
+translate french speak_rhainda_a9a4605d:
+
+    # me "Yep."
+    me "Yep."
+
+# game/characters/rhainda/speak.rpy:45
+translate french speak_rhainda_1afc1c64:
+
+    # rhainda "Anyway, making fun of you for having girl's name will soothe me~"
+    rhainda "Anyway, making fun of you for having girl's name will soothe me~"
+
+# game/characters/rhainda/speak.rpy:46
+translate french speak_rhainda_3820771a_2:
+
+    # me "..."
+    me "..."
+
+translate french strings:
+
+    # game/characters/rhainda/speak.rpy:66
+    old "I wanted to ask about your dress, the Cheongsam {gold}(Story){/gold}"
+    new "I wanted to ask about your dress, the Cheongsam {gold}(Story){/gold}"
+

@@ -529,3 +529,47 @@ translate french strings:
     # game/characters/player/ev_12.rpy:43
     old "Higher Beings should be referred to with respect, They should be described as He/She/It, using he/she/it is considered lack of respect and thus dangerous."
     new "Les êtres supérieurs doivent être mentionnés avec respect. Ils doivent être décrits comme Il/Elle. Utiliser il/elle est considéré comme irrespectueux et donc dangereux."
+# TODO: Translation updated at 2022-11-13 15:21
+
+# game/characters/player/ev_12.rpy:64
+translate french main_12_753c1237:
+
+    # aharon "Before 'It' perished, 'It' made preparations, 'It' has left a key in a River of Destiny. Yet back then 'It' couldn't control how it would manifest."
+    aharon "Before 'It' perished, 'It' made preparations, 'It' has left a key in a River of Destiny. Yet back then 'It' couldn't control how it would manifest."
+
+# game/characters/player/ev_12.rpy:68
+translate french main_12_086371c0:
+
+    # me "Alright, so I have this key somehow, right?"
+    me "Alright, so I have this key somehow, right?"
+
+# game/characters/player/ev_12.rpy:74
+translate french main_12_ccb68647:
+
+    # me "I wouldn't be able to resist.. Why did You change Your mind?"
+    me "I wouldn't be able to resist.. Why did You change Your mind?"
+
+# game/characters/player/ev_12.rpy:114
+translate french main_12_08849d23:
+
+    # aharon "Remember my title - Attendant of Horror, Miracle Invoker, High Priest of the Black."
+    aharon "Remember my title - Attendant of Horror, Miracle Invoker, High Priest of the Black."
+
+# game/characters/player/ev_12.rpy:119
+translate french main_12_3b535c02:
+
+    # aharon "You can use my title in rituals, I will help you if possible."
+    aharon "You can use my title in rituals, I will help you if possible."
+
+# game/characters/player/ev_12.rpy:122
+translate french main_12_21a22c16:
+
+    # aharon "Go to Kiara."
+    aharon "Go to Kiara."
+
+# game/characters/player/ev_12.rpy:123
+translate french main_12_7d787737:
+
+    # aharon "She will teach you how to set up rituals."
+    aharon "She will teach you how to set up rituals."
+

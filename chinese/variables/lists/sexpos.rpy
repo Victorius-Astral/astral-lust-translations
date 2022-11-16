@@ -264,3 +264,11 @@ translate chinese strings:
     old "Cunnilingus - Against the Counter"
     new "Cunnilingus - Against the Counter"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate chinese strings:
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Vaginal - Behind"
+    new "Vaginal - Behind"
+

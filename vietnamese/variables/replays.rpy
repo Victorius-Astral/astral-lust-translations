@@ -1006,3 +1006,807 @@ translate vietnamese strings:
     # game/variables/replays.rpy:400
     old "EXPLORE"
     new "KHÁM PHÁ"
+# TODO: Translation updated at 2022-11-13 15:18
+
+translate vietnamese strings:
+
+    # game/variables/replays.rpy:198
+    old "Craft with Grace"
+    new "Craft with Grace"
+
+    # game/variables/replays.rpy:198
+    old "Peep at her showering."
+    new "Peep at her showering."
+
+    # game/variables/replays.rpy:198
+    old "Dismantle Old Clothes"
+    new "Dismantle Old Clothes"
+
+    # game/variables/replays.rpy:198
+    old "Ask Alice to dismantle old clothes."
+    new "Ask Alice to dismantle old clothes."
+
+    # game/variables/replays.rpy:198
+    old "Dildo - Playmate"
+    new "Dildo - Playmate"
+
+    # game/variables/replays.rpy:198
+    old "Ask Alice to have fun in a playmate outfit."
+    new "Ask Alice to have fun in a playmate outfit."
+
+    # game/variables/replays.rpy:198
+    old "Sex - Playmate"
+    new "Sex - Playmate"
+
+    # game/variables/replays.rpy:272
+    old "Progress her story. (Friend Route)"
+    new "Progress her story. (Friend Route)"
+
+    # game/variables/replays.rpy:272
+    old "Progress her story. (Love Route)"
+    new "Progress her story. (Love Route)"
+
+    # game/variables/replays.rpy:272
+    old "Massage her feet."
+    new "Massage her feet."
+
+    # game/variables/replays.rpy:272
+    old "Peep at her shower."
+    new "Peep at her shower."
+
+    # game/variables/replays.rpy:272
+    old "Peep at her in the toilet."
+    new "Peep at her in the toilet."
+
+    # game/variables/replays.rpy:272
+    old "Peep at her sleep."
+    new "Peep at her sleep."
+
+    # game/variables/replays.rpy:272
+    old "Sleepover - Her Bed"
+    new "Sleepover - Her Bed"
+
+    # game/variables/replays.rpy:272
+    old "Stay the night with Lexi & her."
+    new "Stay the night with Lexi & her."
+
+    # game/variables/replays.rpy:272
+    old "Sleepover - Your Bed"
+    new "Sleepover - Your Bed"
+
+    # game/variables/replays.rpy:272
+    old "Invite her to spend a night at your place."
+    new "Invite her to spend a night at your place."
+
+    # game/variables/replays.rpy:272
+    old "Tidy Up the Boxes"
+    new "Tidy Up the Boxes"
+
+    # game/variables/replays.rpy:272
+    old "Blowjob - Kissing Contest"
+    new "Blowjob - Kissing Contest"
+
+    # game/variables/replays.rpy:272
+    old "Unlocked in a kissing contest with her. (Win, Love Route)"
+    new "Unlocked in a kissing contest with her. (Win, Love Route)"
+
+    # game/variables/replays.rpy:272
+    old "Ask her to have fun with you."
+    new "Ask her to have fun with you."
+
+    # game/variables/replays.rpy:272
+    old "Boobjob - Lexi's Date"
+    new "Boobjob - Lexi's Date"
+
+    # game/variables/replays.rpy:272
+    old "Get Lexi drunk at the kitchen date. (Love Route)"
+    new "Get Lexi drunk at the kitchen date. (Love Route)"
+
+    # game/variables/replays.rpy:272
+    old "Cunnilingus - Kissing Contest"
+    new "Cunnilingus - Kissing Contest"
+
+    # game/variables/replays.rpy:272
+    old "Unlocked in a kissing contest with her. (Lose, Love Route)"
+    new "Unlocked in a kissing contest with her. (Lose, Love Route)"
+
+    # game/variables/replays.rpy:272
+    old "Cunnilingus - Massage"
+    new "Cunnilingus - Massage"
+
+    # game/variables/replays.rpy:272
+    old "Unlocked during the feet massage."
+    new "Unlocked during the feet massage."
+
+    # game/variables/replays.rpy:272
+    old "Cunnilingus - Vault"
+    new "Cunnilingus - Vault"
+
+    # game/variables/replays.rpy:272
+    old "Ask her to have fun with you while she's at the vault."
+    new "Ask her to have fun with you while she's at the vault."
+
+    # game/variables/replays.rpy:272
+    old "Footjob - Massage"
+    new "Footjob - Massage"
+
+    # game/variables/replays.rpy:272
+    old "Footjob - Vault"
+    new "Footjob - Vault"
+
+    # game/variables/replays.rpy:272
+    old "Kiss - Friend Route"
+    new "Kiss - Friend Route"
+
+    # game/variables/replays.rpy:272
+    old "Kiss her. (Friend Route)"
+    new "Kiss her. (Friend Route)"
+
+    # game/variables/replays.rpy:272
+    old "Kiss - Love Route"
+    new "Kiss - Love Route"
+
+    # game/variables/replays.rpy:272
+    old "Kiss her. (Love Route)"
+    new "Kiss her. (Love Route)"
+
+    # game/variables/replays.rpy:320
+    old "Small House"
+    new "Small House"
+
+    # game/variables/replays.rpy:320
+    old "Damsel in Distress"
+    new "Damsel in Distress"
+
+    # game/variables/replays.rpy:320
+    old "Help her vent by massaging her feet."
+    new "Help her vent by massaging her feet."
+
+    # game/variables/replays.rpy:320
+    old "Spend a night in her bed."
+    new "Spend a night in her bed."
+
+    # game/variables/replays.rpy:320
+    old "Sleepover - with Mina"
+    new "Sleepover - with Mina"
+
+    # game/variables/replays.rpy:320
+    old "Stay the night with Mina & her."
+    new "Stay the night with Mina & her."
+
+    # game/variables/replays.rpy:320
+    old "Scavenge for Materials"
+    new "Scavenge for Materials"
+
+    # game/variables/replays.rpy:320
+    old "Look for Caps"
+    new "Look for Caps"
+
+    # game/variables/replays.rpy:320
+    old "Blowjob - Kitchen Date"
+    new "Blowjob - Kitchen Date"
+
+    # game/variables/replays.rpy:320
+    old "Unlocked during Lexi's kitchen date."
+    new "Unlocked during Lexi's kitchen date."
+
+    # game/variables/replays.rpy:320
+    old "Unlock by progressing her story."
+    new "Unlock by progressing her story."
+
+    # game/variables/replays.rpy:320
+    old "Have fun with her."
+    new "Have fun with her."
+
+    # game/variables/replays.rpy:320
+    old "Kiss her."
+    new "Kiss her."
+
+    # game/variables/replays.rpy:320
+    old "Sex - Kitchen Date"
+    new "Sex - Kitchen Date"
+
+    # game/variables/replays.rpy:320
+    old "Sex - Kitchen Date (Shower)"
+    new "Sex - Kitchen Date (Shower)"
+
+    # game/variables/replays.rpy:320
+    old "Thighjob - Shower"
+    new "Thighjob - Shower"
+
+    # game/variables/replays.rpy:320
+    old "Have fun with her under the shower."
+    new "Have fun with her under the shower."
+
+    # game/variables/replays.rpy:367
+    old "Introducing the Mysterious Trader"
+    new "Introducing the Mysterious Trader"
+
+    # game/variables/replays.rpy:391
+    old "Craft with Alice"
+    new "Craft with Alice"
+
+    # game/variables/replays.rpy:391
+    old "Cook a Dinner"
+    new "Cook a Dinner"
+
+    # game/variables/replays.rpy:391
+    old "DUTIES"
+    new "DUTIES"
+
+    # game/variables/replays.rpy:391
+    old "Clean - Floor 1"
+    new "Clean - Floor 1"
+
+    # game/variables/replays.rpy:391
+    old "Help her with cleaning the first floor corridor."
+    new "Help her with cleaning the first floor corridor."
+
+    # game/variables/replays.rpy:391
+    old "Clean - Floor 2"
+    new "Clean - Floor 2"
+
+    # game/variables/replays.rpy:391
+    old "Help her with cleaning the second floor corridor."
+    new "Help her with cleaning the second floor corridor."
+
+    # game/variables/replays.rpy:391
+    old "Clean - Lobby"
+    new "Clean - Lobby"
+
+    # game/variables/replays.rpy:391
+    old "Help her with cleaning the lobby."
+    new "Help her with cleaning the lobby."
+
+    # game/variables/replays.rpy:391
+    old "Cooking - Juice Powder"
+    new "Cooking - Juice Powder"
+
+    # game/variables/replays.rpy:391
+    old "Help her with cooking."
+    new "Help her with cooking."
+
+    # game/variables/replays.rpy:391
+    old "Cooking - Meat vs Fish"
+    new "Cooking - Meat vs Fish"
+
+    # game/variables/replays.rpy:391
+    old "Cooking - Pizza"
+    new "Cooking - Pizza"
+
+    # game/variables/replays.rpy:391
+    old "Assault on Grace"
+    new "Assault on Grace"
+
+    # game/variables/replays.rpy:391
+    old "Kiss her goodnight on the evening in her room. {mad}DO NOT STOP!!{/mad}"
+    new "Kiss her goodnight on the evening in her room. {mad}DO NOT STOP!!{/mad}"
+
+    # game/variables/replays.rpy:391
+    old "If she gets {i}really{/i} angry at you, it's best to apologize fast. Really fast."
+    new "If she gets {i}really{/i} angry at you, it's best to apologize fast. Really fast."
+
+    # game/variables/replays.rpy:391
+    old "Ask Alice to make her an outfit."
+    new "Ask Alice to make her an outfit."
+
+    # game/variables/replays.rpy:391
+    old "Anal - Goodnight"
+    new "Anal - Goodnight"
+
+    # game/variables/replays.rpy:391
+    old "Kiss her goodnight on the evening in her room {cor}(Corrupted){/cor}. She needs to very submissive (20+)."
+    new "Kiss her goodnight on the evening in her room {cor}(Corrupted){/cor}. She needs to very submissive (20+)."
+
+    # game/variables/replays.rpy:391
+    old "Blowjob - Goodnight"
+    new "Blowjob - Goodnight"
+
+    # game/variables/replays.rpy:391
+    old "Kiss her goodnight on the evening in her room {cor}(Corrupted){/cor}."
+    new "Kiss her goodnight on the evening in her room {cor}(Corrupted){/cor}."
+
+    # game/variables/replays.rpy:391
+    old "Cunnilingus - Goodnight"
+    new "Cunnilingus - Goodnight"
+
+    # game/variables/replays.rpy:391
+    old "Finger her pussy."
+    new "Finger her pussy."
+
+    # game/variables/replays.rpy:391
+    old "Footjob - Bunny"
+    new "Footjob - Bunny"
+
+    # game/variables/replays.rpy:391
+    old "Have fun with her in a bunny outfit."
+    new "Have fun with her in a bunny outfit."
+
+    # game/variables/replays.rpy:391
+    old "Handjob - Goodnight"
+    new "Handjob - Goodnight"
+
+    # game/variables/replays.rpy:391
+    old "Kiss - Floor 2"
+    new "Kiss - Floor 2"
+
+    # game/variables/replays.rpy:391
+    old "Kiss her while she's on the second floor."
+    new "Kiss her while she's on the second floor."
+
+    # game/variables/replays.rpy:391
+    old "Kiss - Goodnight"
+    new "Kiss - Goodnight"
+
+    # game/variables/replays.rpy:391
+    old "Kiss her goodnight on the evening in her room."
+    new "Kiss her goodnight on the evening in her room."
+
+    # game/variables/replays.rpy:391
+    old "Kiss her in her room."
+    new "Kiss her in her room."
+
+    # game/variables/replays.rpy:391
+    old "Kiss - Kitchen"
+    new "Kiss - Kitchen"
+
+    # game/variables/replays.rpy:391
+    old "Kiss her while she's in the kitchen."
+    new "Kiss her while she's in the kitchen."
+
+    # game/variables/replays.rpy:391
+    old "Kiss - Lobby"
+    new "Kiss - Lobby"
+
+    # game/variables/replays.rpy:391
+    old "Kiss her while she's in the lobby."
+    new "Kiss her while she's in the lobby."
+
+    # game/variables/replays.rpy:391
+    old "Massage 1"
+    new "Massage 1"
+
+    # game/variables/replays.rpy:391
+    old "Massage her titties."
+    new "Massage her titties."
+
+    # game/variables/replays.rpy:391
+    old "Massage 2"
+    new "Massage 2"
+
+    # game/variables/replays.rpy:391
+    old "Massage - Bunny"
+    new "Massage - Bunny"
+
+    # game/variables/replays.rpy:391
+    old "Massage - Goodnight"
+    new "Massage - Goodnight"
+
+    # game/variables/replays.rpy:391
+    old "Pose - Bunny"
+    new "Pose - Bunny"
+
+    # game/variables/replays.rpy:391
+    old "Thighjob - Goodnight"
+    new "Thighjob - Goodnight"
+
+    # game/variables/replays.rpy:459
+    old "Boobjob - Bed"
+    new "Boobjob - Bed"
+
+    # game/variables/replays.rpy:459
+    old "Can be unlocked during her 8th story event."
+    new "Can be unlocked during her 8th story event."
+
+    # game/variables/replays.rpy:476
+    old "Help with Books"
+    new "Help with Books"
+
+    # game/variables/replays.rpy:476
+    old "Help Kiara with books."
+    new "Help Kiara with books."
+
+    # game/variables/replays.rpy:476
+    old "Sex 1"
+    new "Sex 1"
+
+    # game/variables/replays.rpy:476
+    old "Sex 2"
+    new "Sex 2"
+
+    # game/variables/replays.rpy:476
+    old "Sex 3"
+    new "Sex 3"
+
+    # game/variables/replays.rpy:476
+    old "Threesome 1"
+    new "Threesome 1"
+
+    # game/variables/replays.rpy:476
+    old "Threesome 2"
+    new "Threesome 2"
+
+    # game/variables/replays.rpy:476
+    old "Threesome 3"
+    new "Threesome 3"
+
+    # game/variables/replays.rpy:503
+    old "Recurring Nightmare 1"
+    new "Recurring Nightmare 1"
+
+    # game/variables/replays.rpy:503
+    old "Unlocked by progressing the main storyline."
+    new "Unlocked by progressing the main storyline."
+
+    # game/variables/replays.rpy:503
+    old "Recurring Nightmare 2"
+    new "Recurring Nightmare 2"
+
+    # game/variables/replays.rpy:503
+    old "Listen to the horror stories around the bonfire."
+    new "Listen to the horror stories around the bonfire."
+
+    # game/variables/replays.rpy:503
+    old "Recurring Nightmare 3"
+    new "Recurring Nightmare 3"
+
+    # game/variables/replays.rpy:503
+    old "Recurring Nightmare 4"
+    new "Recurring Nightmare 4"
+
+    # game/variables/replays.rpy:503
+    old "Recurring Nightmare 5"
+    new "Recurring Nightmare 5"
+
+    # game/variables/replays.rpy:529
+    old "PLAY"
+    new "PLAY"
+
+    # game/variables/replays.rpy:529
+    old "Pat - Kitchen"
+    new "Pat - Kitchen"
+
+    # game/variables/replays.rpy:529
+    old "Pat - Lobby"
+    new "Pat - Lobby"
+
+    # game/variables/replays.rpy:529
+    old "Pat - Your Room"
+    new "Pat - Your Room"
+
+    # game/variables/replays.rpy:540
+    old "Pat - Floor 0"
+    new "Pat - Floor 0"
+
+    # game/variables/replays.rpy:551
+    old "Save the middle age woman from the bandit rapists."
+    new "Save the middle age woman from the bandit rapists."
+
+    # game/variables/replays.rpy:551
+    old "Defeat the bandit patrol. (Firearms)"
+    new "Defeat the bandit patrol. (Firearms)"
+
+    # game/variables/replays.rpy:551
+    old "Defeat the bandit patrol. (Melee)"
+    new "Defeat the bandit patrol. (Melee)"
+
+    # game/variables/replays.rpy:551
+    old "Loot an abandoned car."
+    new "Loot an abandoned car."
+
+    # game/variables/replays.rpy:551
+    old "Defeat an injured dragon."
+    new "Defeat an injured dragon."
+
+    # game/variables/replays.rpy:551
+    old "Explore an intact house among the ruined city."
+    new "Explore an intact house among the ruined city."
+
+    # game/variables/replays.rpy:551
+    old "Intact House - Cultist"
+    new "Intact House - Cultist"
+
+    # game/variables/replays.rpy:551
+    old "Intact House - Stickman"
+    new "Intact House - Stickman"
+
+    # game/variables/replays.rpy:551
+    old "Get delayed outside until the night arrives!"
+    new "Get delayed outside until the night arrives!"
+
+    # game/variables/replays.rpy:551
+    old "Defeat orc slavers."
+    new "Defeat orc slavers."
+
+    # game/variables/replays.rpy:551
+    old "Defeat the creature roaring above the sky."
+    new "Defeat the creature roaring above the sky."
+
+    # game/variables/replays.rpy:551
+    old "Harvest a rose guarded by monsters."
+    new "Harvest a rose guarded by monsters."
+
+    # game/variables/replays.rpy:551
+    old "Assemble a map and find out what it leads to."
+    new "Assemble a map and find out what it leads to."
+
+    # game/variables/replays.rpy:551
+    old "Treasure Hunt - Ambush"
+    new "Treasure Hunt - Ambush"
+
+    # game/variables/replays.rpy:551
+    old "Treasure Hunt - Little Fox"
+    new "Treasure Hunt - Little Fox"
+
+    # game/variables/replays.rpy:551
+    old "Treasure Hunt - Treasure"
+    new "Treasure Hunt - Treasure"
+
+    # game/variables/replays.rpy:551
+    old "Defeat scavengers looting the warehouse."
+    new "Defeat scavengers looting the warehouse."
+
+    # game/variables/replays.rpy:551
+    old "Save a bandit girl from fellow bandits."
+    new "Save a bandit girl from fellow bandits."
+
+    # game/variables/replays.rpy:551
+    old "Save a girl from monsters."
+    new "Save a girl from monsters."
+
+    # game/variables/replays.rpy:551
+    old "Save a girl from the orcs."
+    new "Save a girl from the orcs."
+
+    # game/variables/replays.rpy:551
+    old "Save a pregnant woman from the bandits."
+    new "Save a pregnant woman from the bandits."
+
+    # game/variables/replays.rpy:551
+    old "Save a girl from a monster."
+    new "Save a girl from a monster."
+
+    # game/variables/replays.rpy:551
+    old "ALONE - UNIQUE"
+    new "ALONE - UNIQUE"
+
+    # game/variables/replays.rpy:551
+    old "Found Cat"
+    new "Found Cat"
+
+    # game/variables/replays.rpy:551
+    old "Rescued Dog"
+    new "Rescued Dog"
+
+    # game/variables/replays.rpy:551
+    old "Treasure Hunt - Wallpaper"
+    new "Treasure Hunt - Wallpaper"
+
+    # game/variables/replays.rpy:551
+    old "The First Encounter"
+    new "The First Encounter"
+
+    # game/variables/replays.rpy:551
+    old "Defeat the bandit's ambush when exploring together with her."
+    new "Defeat the bandit's ambush when exploring together with her."
+
+    # game/variables/replays.rpy:600
+    old "BROTHEL"
+    new "BROTHEL"
+
+    # game/variables/replays.rpy:600
+    old "Booth - Amanda 1"
+    new "Booth - Amanda 1"
+
+    # game/variables/replays.rpy:600
+    old "Use services of Amanda at the Brothel's booth."
+    new "Use services of Amanda at the Brothel's booth."
+
+    # game/variables/replays.rpy:600
+    old "Booth - Foxy 1"
+    new "Booth - Foxy 1"
+
+    # game/variables/replays.rpy:600
+    old "Use services of Foxy at the Brothel's booth."
+    new "Use services of Foxy at the Brothel's booth."
+
+    # game/variables/replays.rpy:600
+    old "Booth - Foxy 2"
+    new "Booth - Foxy 2"
+
+    # game/variables/replays.rpy:600
+    old "Booth - Robin 1"
+    new "Booth - Robin 1"
+
+    # game/variables/replays.rpy:600
+    old "Use services of Robin at the Brothel's booth."
+    new "Use services of Robin at the Brothel's booth."
+
+    # game/variables/replays.rpy:600
+    old "Booth - Robin 2"
+    new "Booth - Robin 2"
+
+    # game/variables/replays.rpy:600
+    old "Booth - Sukki 1"
+    new "Booth - Sukki 1"
+
+    # game/variables/replays.rpy:600
+    old "Use services of Sukki at the Brothel's booth."
+    new "Use services of Sukki at the Brothel's booth."
+
+    # game/variables/replays.rpy:600
+    old "Booth - Sukki 2"
+    new "Booth - Sukki 2"
+
+    # game/variables/replays.rpy:628
+    old "Grace Crafts with Alice"
+    new "Grace Crafts with Alice"
+
+    # game/variables/replays.rpy:635
+    old "Author"
+    new "Author"
+
+    # game/variables/replays.rpy:635
+    old "Corrupted"
+    new "Corrupted"
+
+    # game/variables/replays.rpy:635
+    old "Loss of Control"
+    new "Loss of Control"
+
+    # game/variables/replays.rpy:635
+    old "Reunion"
+    new "Reunion"
+
+    # game/variables/replays.rpy:635
+    old "VICTORIUS"
+    new "VICTORIUS"
+
+    # game/variables/replays.rpy:635
+    old "Alice the Christmas Elf"
+    new "Alice the Christmas Elf"
+
+    # game/variables/replays.rpy:635
+    old "Deer Gracie"
+    new "Deer Gracie"
+
+    # game/variables/replays.rpy:635
+    old "Kitty"
+    new "Kitty"
+
+    # game/variables/replays.rpy:635
+    old "Santa Lexi"
+    new "Santa Lexi"
+
+    # game/variables/replays.rpy:635
+    old "Sober"
+    new "Sober"
+
+    # game/variables/replays.rpy:635
+    old "Holy Night"
+    new "Holy Night"
+
+    # game/variables/replays.rpy:661
+    old "Sleep - Lobby"
+    new "Sleep - Lobby"
+
+    # game/variables/replays.rpy:661
+    old "Find her sleeping in the lobby. (Before completing the shrine)"
+    new "Find her sleeping in the lobby. (Before completing the shrine)"
+
+    # game/variables/replays.rpy:679
+    old "Sometimes you might encounter really excellent treasure at the end of the road."
+    new "Sometimes you might encounter really excellent treasure at the end of the road."
+
+    # game/variables/replays.rpy:679
+    old "SPECIAL"
+    new "SPECIAL"
+
+    # game/variables/replays.rpy:679
+    old "Your Death"
+    new "Your Death"
+
+    # game/variables/replays.rpy:679
+    old "Perish while traveling together with her."
+    new "Perish while traveling together with her."
+
+    # game/variables/replays.rpy:679
+    old "Blowjob & Handjob - Outside"
+    new "Blowjob & Handjob - Outside"
+
+    # game/variables/replays.rpy:679
+    old "Progress her story to unlock."
+    new "Progress her story to unlock."
+
+    # game/variables/replays.rpy:679
+    old "Lesbian - Rhainda"
+    new "Lesbian - Rhainda"
+
+    # game/variables/replays.rpy:679
+    old "Join her and Rhainda in some fun. (Rhainda lesbian content must be turned {b}ON{/b})"
+    new "Join her and Rhainda in some fun. (Rhainda lesbian content must be turned {b}ON{/b})"
+
+    # game/variables/replays.rpy:705
+    old "Sex - Fight 1 (Won)"
+    new "Sex - Fight 1 (Won)"
+
+    # game/variables/replays.rpy:705
+    old "Sex - Fight 1 (Lost)"
+    new "Sex - Fight 1 (Lost)"
+
+    # game/variables/replays.rpy:705
+    old "Lose the first fight with her to unlock."
+    new "Lose the first fight with her to unlock."
+
+    # game/variables/replays.rpy:705
+    old "Sex - Fight 2 (Won)"
+    new "Sex - Fight 2 (Won)"
+
+    # game/variables/replays.rpy:705
+    old "Ask her to have fun with you. (Win the fight)"
+    new "Ask her to have fun with you. (Win the fight)"
+
+    # game/variables/replays.rpy:705
+    old "Sex - Fight 2 (Lost)"
+    new "Sex - Fight 2 (Lost)"
+
+    # game/variables/replays.rpy:705
+    old "Ask her to have fun with you. (Lose the fight)"
+    new "Ask her to have fun with you. (Lose the fight)"
+
+    # game/variables/replays.rpy:705
+    old "Lesbian - Little Fox"
+    new "Lesbian - Little Fox"
+
+    # game/variables/replays.rpy:705
+    old "Join her and Little Fox in some fun. (her lesbian content must be turned {b}ON{/b})"
+    new "Join her and Little Fox in some fun. (her lesbian content must be turned {b}ON{/b})"
+
+    # game/variables/replays.rpy:721
+    old "SUCCUBUS A ([succubA.name])"
+    new "SUCCUBUS A ([succubA.name])"
+
+    # game/variables/replays.rpy:721
+    old "Catch"
+    new "Catch"
+
+    # game/variables/replays.rpy:721
+    old "Catch her. You can do so through Succubi Hunt option available once you defeat Average enemies. (Dungeon required)"
+    new "Catch her. You can do so through Succubi Hunt option available once you defeat Average enemies. (Dungeon required)"
+
+    # game/variables/replays.rpy:721
+    old "Lust Overflow"
+    new "Lust Overflow"
+
+    # game/variables/replays.rpy:721
+    old "Unlocked after her lust reaches the critical value."
+    new "Unlocked after her lust reaches the critical value."
+
+    # game/variables/replays.rpy:721
+    old "Have fun with her in a playroom."
+    new "Have fun with her in a playroom."
+
+    # game/variables/replays.rpy:721
+    old "Let her have fun with another Succubi in a playroom."
+    new "Let her have fun with another Succubi in a playroom."
+
+    # game/variables/replays.rpy:721
+    old "Have fun with her in a cell."
+    new "Have fun with her in a cell."
+
+    # game/variables/replays.rpy:721
+    old "Have fun with her in the cell."
+    new "Have fun with her in the cell."
+
+    # game/variables/replays.rpy:721
+    old "Have fun with her and another Succubi in the playroom."
+    new "Have fun with her and another Succubi in the playroom."
+
+    # game/variables/replays.rpy:721
+    old "Have fun with her and another Succubi in the cell."
+    new "Have fun with her and another Succubi in the cell."
+
+    # game/variables/replays.rpy:721
+    old "SUCCUBUS B ([succubB.name])"
+    new "SUCCUBUS B ([succubB.name])"
+

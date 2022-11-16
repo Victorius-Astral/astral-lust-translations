@@ -1390,3 +1390,11 @@ translate french strings:
     old "A mother is 21 years older than her child. In 6 years the child will be 5 times younger than mother. Where is the father?"
     new "Une mère a 21 ans de plus que son enfant. Dans 6 ans, l'enfant sera 5 fois plus jeune que sa mère. Où est le père?"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/characters/grace/play_house.rpy:198
+    old "mother"
+    new "mother"
+

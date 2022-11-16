@@ -38,3 +38,23 @@ translate french strings:
     old "HELP"
     new "AIDE"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/variables/classes/Astral.rpy:420
+    old "her"
+    new "her"
+
+    # game/variables/classes/Astral.rpy:422
+    old "This is the end of {who} story in {ver}. The game remains in the active development, though! If you want to check or get new releases, or you just want to support Astral Lust check our {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreon{{/a}}{{/patreon1}}! Have fun :)"
+    new "This is the end of {who} story in {ver}. The game remains in the active development, though! If you want to check or get new releases, or you just want to support Astral Lust check our {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreon{{/a}}{{/patreon1}}! Have fun :)"
+
+    # game/variables/classes/Astral.rpy:522
+    old "Lost items:"
+    new "Lost items:"
+
+    # game/variables/classes/Astral.rpy:532
+    old "\n • {{color={color}}}{amount}{{/color}} {{image={image}}}"
+    new "\n • {{color={color}}}{amount}{{/color}} {{image={image}}}"
+

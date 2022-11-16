@@ -456,3 +456,11 @@ translate vietnamese main_11_8f38a483:
 
     # kiara "I can't help you now, I'm currently in an unstable state. If I try to help you now, I'll lose control on the spot."
     kiara "Tôi không thể giúp gì cho anh bây giờ, tôi hiện đang trong tình trạng không ổn định. Nếu tôi cố gắng giúp anh, tôi sẽ mất kiểm soát ngay lập tức."
+# TODO: Translation updated at 2022-11-13 15:18
+
+# game/characters/player/ev_11.rpy:95
+translate vietnamese main_11_af80b51f:
+
+    # kiara "I can only say that Horrors that were slumbering forever are waking up after billions of years deep in slumber."
+    kiara "I can only say that Horrors that were slumbering forever are waking up after billions of years deep in slumber."
+

@@ -366,3 +366,127 @@ translate chinese strings:
     old "Four of them can be used during the new events, there are two consumables (and a new buff), and pouches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
     new "Four of them can be used during the new events, there are two consumables (and a new buff), and pouches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
 
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate chinese strings:
+
+    # game/screens/utility/what_new.rpy:179
+    old "{b}NSFW Sounds{/b}"
+    new "{b}NSFW Sounds{/b}"
+
+    # game/screens/utility/what_new.rpy:180
+    old "{b}We've started adding sex sounds!{/b} Along with battle sounds, two new volume bars were added to the sound settings. You can adjust the volume of NSFW sounds there. For now only a few sounds were added for Alice and Savenia. More sounds, including moans, are coming soon."
+    new "{b}We've started adding sex sounds!{/b} Along with battle sounds, two new volume bars were added to the sound settings. You can adjust the volume of NSFW sounds there. For now only a few sounds were added for Alice and Savenia. More sounds, including moans, are coming soon."
+
+    # game/screens/utility/what_new.rpy:184
+    old "{b}Rituals{/b}"
+    new "{b}Rituals{/b}"
+
+    # game/screens/utility/what_new.rpy:185
+    old "Perform various rituals and incantations that'll grant you various effects. There are two rituals and four beings to pray to. One ritual will manipulate what you dream of at night, and the second will improve or reduce your mental state. Stay safe! Don't pray to evil beings! Seek Kiara to learn them once Main Story is 12th, or if you learned about mysticism from Demeter, the nightmare angel girl. Rituals are to be performed at the altar in the player's room."
+    new "Perform various rituals and incantations that'll grant you various effects. There are two rituals and four beings to pray to. One ritual will manipulate what you dream of at night, and the second will improve or reduce your mental state. Stay safe! Don't pray to evil beings! Seek Kiara to learn them once Main Story is 12th, or if you learned about mysticism from Demeter, the nightmare angel girl. Rituals are to be performed at the altar in the player's room."
+
+    # game/screens/utility/what_new.rpy:196
+    old "{b}Control Your Dreams{/b}"
+    new "{b}Control Your Dreams{/b}"
+
+    # game/screens/utility/what_new.rpy:197
+    old "You can use new items and rituals to control if you'll have a dream at night or not! You can also determine what kind of a dream you'll have. A tip: sex with a succubi makes you have a wet dream that night."
+    new "You can use new items and rituals to control if you'll have a dream at night or not! You can also determine what kind of a dream you'll have. A tip: sex with a succubi makes you have a wet dream that night."
+
+    # game/screens/utility/what_new.rpy:200
+    old "{b}Explore with Little Fox{/b}"
+    new "{b}Explore with Little Fox{/b}"
+
+    # game/screens/utility/what_new.rpy:201
+    old "You can now take Little Fox out for an adventure! Find her during exploration, then you can go out with her by talking with her."
+    new "You can now take Little Fox out for an adventure! Find her during exploration, then you can go out with her by talking with her."
+
+    # game/screens/utility/what_new.rpy:211
+    old "{b}Postpone Deal With The Devil{/b}"
+    new "{b}Postpone Deal With The Devil{/b}"
+
+    # game/screens/utility/what_new.rpy:212
+    old "Tired of triggering this dream before you got enough attributes? Not anymore! You can now sign a pact with the Devil, in which you promise to make a deal on another occasion. You'll get a new item - Unholy Pact, using it will trigger Devil to appear when you sleep. This item will not be lost on death, it's bound to your soul!"
+    new "Tired of triggering this dream before you got enough attributes? Not anymore! You can now sign a pact with the Devil, in which you promise to make a deal on another occasion. You'll get a new item - Unholy Pact, using it will trigger Devil to appear when you sleep. This item will not be lost on death, it's bound to your soul!"
+
+    # game/screens/utility/what_new.rpy:215
+    old "{b}Alice - Nun Outfit{/b}"
+    new "{b}Alice - Nun Outfit{/b}"
+
+    # game/screens/utility/what_new.rpy:216
+    old "In the corruption-filled Asthar, even the nuns are filled with unholy thoughts."
+    new "In the corruption-filled Asthar, even the nuns are filled with unholy thoughts."
+
+    # game/screens/utility/what_new.rpy:224
+    old "{b}Alice - Playmate Outfit{/b}"
+    new "{b}Alice - Playmate Outfit{/b}"
+
+    # game/screens/utility/what_new.rpy:225
+    old "When lust overflows, you gotta find your favorite playmate."
+    new "When lust overflows, you gotta find your favorite playmate."
+
+    # game/screens/utility/what_new.rpy:233
+    old "{b}More Replays{/b}"
+    new "{b}More Replays{/b}"
+
+    # game/screens/utility/what_new.rpy:234
+    old "We've added the most of game's content to the replay menu. Now it has 177 replays more compared to 0.2.3 giving a total of 357 replays."
+    new "We've added the most of game's content to the replay menu. Now it has 177 replays more compared to 0.2.3 giving a total of 357 replays."
+
+    # game/screens/utility/what_new.rpy:237
+    old "{b}Grace - Bunny Outfit{/b}"
+    new "{b}Grace - Bunny Outfit{/b}"
+
+    # game/screens/utility/what_new.rpy:238
+    old "Super cute, adorable, and fuckin' sexy! Gracie in the new outfit here to steal your heart <3"
+    new "Super cute, adorable, and fuckin' sexy! Gracie in the new outfit here to steal your heart <3"
+
+    # game/screens/utility/what_new.rpy:246
+    old "{b}Grace & Alice{/b}"
+    new "{b}Grace & Alice{/b}"
+
+    # game/screens/utility/what_new.rpy:247
+    old "You can find these two cuties working together on afternoons."
+    new "You can find these two cuties working together on afternoons."
+
+    # game/screens/utility/what_new.rpy:250
+    old "{b}New Dreams{/b}"
+    new "{b}New Dreams{/b}"
+
+    # game/screens/utility/what_new.rpy:251
+    old "Two new dreams were added! None is nice, hehehe~ Two new nightmares to rip apart your sanity!"
+    new "Two new dreams were added! None is nice, hehehe~ Two new nightmares to rip apart your sanity!"
+
+    # game/screens/utility/what_new.rpy:254
+    old "{b}Lola's 3rd event{/b}"
+    new "{b}Lola's 3rd event{/b}"
+
+    # game/screens/utility/what_new.rpy:255
+    old "Lola has finally gotten a new event! It involves two paths and three adult scenes."
+    new "Lola has finally gotten a new event! It involves two paths and three adult scenes."
+
+    # game/screens/utility/what_new.rpy:263
+    old "{b}New Buffs & Items{/b}"
+    new "{b}New Buffs & Items{/b}"
+
+    # game/screens/utility/what_new.rpy:264
+    old "A lot of new buffs, and a few debuffs were added. Three new items were added too. Additionally some items can now be consumed for buffs (alcohols)."
+    new "A lot of new buffs, and a few debuffs were added. Three new items were added too. Additionally some items can now be consumed for buffs (alcohols)."
+
+    # game/screens/utility/what_new.rpy:267
+    old "{b}Card Sounds{/b}"
+    new "{b}Card Sounds{/b}"
+
+    # game/screens/utility/what_new.rpy:268
+    old "Most cards will now play the sound when used! Hope you like it! Click the cards below to try."
+    new "Most cards will now play the sound when used! Hope you like it! Click the cards below to try."
+
+    # game/screens/utility/what_new.rpy:280
+    old "{b}A lot of changes{/b}"
+    new "{b}A lot of changes{/b}"
+
+    # game/screens/utility/what_new.rpy:281
+    old "The main game's font was changed! Collectibles are kept between saves. Item notifications now show the item's icon. There are many other changes, check the full changelog at the bottom for them."
+    new "The main game's font was changed! Collectibles are kept between saves. Item notifications now show the item's icon. There are many other changes, check the full changelog at the bottom for them."
+

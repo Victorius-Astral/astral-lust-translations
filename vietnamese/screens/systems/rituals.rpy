@@ -344,3 +344,11 @@ translate vietnamese strings:
     # game/screens/systems/rituals.rpy:19
     old "{{sanity}}Sanity ({:+}%){{/sanity}}"
     new "{{sanity}}Tỉnh táo ({:+}%){{/Tỉnh táo}}"
+# TODO: Translation updated at 2022-11-13 15:18
+
+translate vietnamese strings:
+
+    # game/screens/systems/rituals.rpy:529
+    old "% Sanity"
+    new "% Sanity"
+

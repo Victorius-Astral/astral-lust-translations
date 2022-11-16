@@ -215,3 +215,19 @@ translate spanish kiara_cunn_1_cum_09706588:
 
     # kiara "And you said I'm the anxious one."
     kiara "Y tu decías que yo soy la ansiosa."
+# TODO: Translation updated at 2022-11-13 15:15
+
+translate spanish strings:
+
+    # game/characters/kiara/cunn_1.rpy:64
+    old "Angel {#visible}"
+    new "Angel {#visible}"
+
+    # game/characters/kiara/cunn_1.rpy:64
+    old "Nympho {#visible}"
+    new "Nympho {#visible}"
+
+    # game/characters/kiara/cunn_1.rpy:64
+    old "Party Girl {#visible}"
+    new "Party Girl {#visible}"
+

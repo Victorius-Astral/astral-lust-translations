@@ -209,3 +209,11 @@ translate spanish lil_fox_bj_1_cum_61bfa6df:
 
     # me "Sleep tight."
     me "Que duermas bien."
+# TODO: Translation updated at 2022-11-13 15:15
+
+translate spanish strings:
+
+    # game/characters/little fox/bj_1.rpy:30
+    old "Cum Stealer {#visible}"
+    new "Cum Stealer {#visible}"
+

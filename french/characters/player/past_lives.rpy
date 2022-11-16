@@ -627,3 +627,11 @@ translate french strings:
     # game/characters/player/past_lives.rpy:98
     old "I love someone else"
     new "J'aime quelqu'un d'autre"
+# TODO: Translation updated at 2022-11-13 15:21
+
+translate french strings:
+
+    # game/characters/player/past_lives.rpy:98
+    old "Akasha"
+    new "Akasha"
+

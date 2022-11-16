@@ -909,3 +909,235 @@ translate french strings:
     # game/characters/lexi/speak.rpy:191
     old "The End arrived before her 20th birthday."
     new "La fin est venue avant mes 20 ans."
+# TODO: Translation updated at 2022-11-13 15:21
+
+# game/characters/lexi/speak.rpy:18
+translate french speak_lexi_bb88c56e:
+
+    # lexi "I've been waiting for you."
+    lexi "I've been waiting for you."
+
+# game/characters/lexi/speak.rpy:19
+translate french speak_lexi_63280a2d:
+
+    # me "Eh?"
+    me "Eh?"
+
+# game/characters/lexi/speak.rpy:20
+translate french speak_lexi_a109e395:
+
+    # lexi "A date. I waited two hours for you."
+    lexi "A date. I waited two hours for you."
+
+# game/characters/lexi/speak.rpy:21
+translate french speak_lexi_57c0c21b:
+
+    # me "Oh shit. I'm so sorry."
+    me "Oh shit. I'm so sorry."
+
+# game/characters/lexi/speak.rpy:26
+translate french speak_lexi_fcd2989b:
+
+    # lexi "You better be."
+    lexi "You better be."
+
+# game/characters/lexi/speak.rpy:27
+translate french speak_lexi_a4995f83:
+
+    # me "It's my fault, but.. Why didn't you come looking for me?"
+    me "It's my fault, but.. Why didn't you come looking for me?"
+
+# game/characters/lexi/speak.rpy:28
+translate french speak_lexi_0c22c31a:
+
+    # lexi "Because by the time I realized you won't be coming I didn't want to spend time with you anymore."
+    lexi "Because by the time I realized you won't be coming I didn't want to spend time with you anymore."
+
+# game/characters/lexi/speak.rpy:29
+translate french speak_lexi_481f98c2:
+
+    # me "I'll make it up to you."
+    me "I'll make it up to you."
+
+# game/characters/lexi/speak.rpy:30
+translate french speak_lexi_d7760fc7:
+
+    # lexi "..."
+    lexi "..."
+
+# game/characters/lexi/speak.rpy:39
+translate french speak_lexi_c2c88f21:
+
+    # lexi "Hey..."
+    lexi "Hey..."
+
+# game/characters/lexi/speak.rpy:40
+translate french speak_lexi_44bc7ad5:
+
+    # me "Hey? Is everything alright?"
+    me "Hey? Is everything alright?"
+
+# game/characters/lexi/speak.rpy:41
+translate french speak_lexi_10ddccbd:
+
+    # lexi "How long do you intend to make me wait?"
+    lexi "How long do you intend to make me wait?"
+
+# game/characters/lexi/speak.rpy:42
+translate french speak_lexi_63280a2d_1:
+
+    # me "Eh?"
+    me "Eh?"
+
+# game/characters/lexi/speak.rpy:47
+translate french speak_lexi_c6287d6b:
+
+    # lexi "I've been waiting for our date, but seems you forgot about it."
+    lexi "I've been waiting for our date, but seems you forgot about it."
+
+# game/characters/lexi/speak.rpy:56
+translate french speak_lexi_84fa9d46:
+
+    # lexi "Hey, you know I'm waiting for you to ask me out for a date, right?"
+    lexi "Hey, you know I'm waiting for you to ask me out for a date, right?"
+
+# game/characters/lexi/speak.rpy:57
+translate french speak_lexi_b9c387e5:
+
+    # me "How could I forget?"
+    me "How could I forget?"
+
+# game/characters/lexi/speak.rpy:58
+translate french speak_lexi_f0c44d9a:
+
+    # me "Give me a little more time, 'key?"
+    me "Give me a little more time, 'key?"
+
+# game/characters/lexi/speak.rpy:59
+translate french speak_lexi_1836de33:
+
+    # lexi "Okay."
+    lexi "Okay."
+
+# game/characters/lexi/speak.rpy:341
+translate french speak_lexi_dates_57a337e1:
+
+    # lexi "Okay!"
+    lexi "Okay!"
+
+# game/characters/lexi/speak.rpy:342
+translate french speak_lexi_dates_36dee59d:
+
+    # lexi "You get the ice creams for a dessert. Two will be enough."
+    lexi "You get the ice creams for a dessert. Two will be enough."
+
+# game/characters/lexi/speak.rpy:343
+translate french speak_lexi_dates_a1c73fe1:
+
+    # me "Got it."
+    me "Got it."
+
+# game/characters/lexi/speak.rpy:344
+translate french speak_lexi_dates_8382482a:
+
+    # lexi "I'll get a bottle of wine and some candles. Then we'll meet in the evening."
+    lexi "I'll get a bottle of wine and some candles. Then we'll meet in the evening."
+
+# game/characters/lexi/speak.rpy:345
+translate french speak_lexi_dates_addd570a:
+
+    # me "Yup."
+    me "Yup."
+
+# game/characters/lexi/speak.rpy:356
+translate french speak_lexi_dates_66d77374:
+
+    # lexi "It's a pity, I waited for it, but I understand."
+    lexi "It's a pity, I waited for it, but I understand."
+
+# game/characters/lexi/speak.rpy:357
+translate french speak_lexi_dates_a0a697c9:
+
+    # me "Thank you."
+    me "Thank you."
+
+# game/characters/lexi/speak.rpy:358
+translate french speak_lexi_dates_c752512a:
+
+    # lexi "Sure, don't forget about it."
+    lexi "Sure, don't forget about it."
+
+# game/characters/lexi/speak.rpy:381
+translate french speak_lexi_dates_17cc1499:
+
+    # lexi "Alright.."
+    lexi "Alright.."
+
+# game/characters/lexi/speak.rpy:382
+translate french speak_lexi_dates_49584483:
+
+    # me "I'm sorry."
+    me "I'm sorry."
+
+# game/characters/lexi/speak.rpy:388
+translate french speak_lexi_dates_a69cf6fc:
+
+    # lexi "Now that we have everything set and ready?"
+    lexi "Now that we have everything set and ready?"
+
+# game/characters/lexi/speak.rpy:389
+translate french speak_lexi_dates_b847dfb7:
+
+    # me "Sorry."
+    me "Sorry."
+
+# game/characters/lexi/speak.rpy:393
+translate french speak_lexi_dates_a30932ee:
+
+    # lexi "Whatever."
+    lexi "Whatever."
+
+# game/characters/lexi/speak.rpy:398
+translate french speak_lexi_dates_49b97efe:
+
+    # lexi "Sure. No problem."
+    lexi "Sure. No problem."
+
+translate french strings:
+
+    # game/characters/lexi/speak.rpy:68
+    old "Mina asked me to get her booze"
+    new "Mina asked me to get her booze"
+
+    # game/characters/lexi/speak.rpy:68
+    old "Why is your laptop locked? {gold}(Story){/gold}"
+    new "Why is your laptop locked? {gold}(Story){/gold}"
+
+    # game/characters/lexi/speak.rpy:68
+    old "I'm ready for our date"
+    new "I'm ready for our date"
+
+    # game/characters/lexi/speak.rpy:68
+    old "Date >"
+    new "Date >"
+
+    # game/characters/lexi/speak.rpy:331
+    old "Ask for a date > {#visible}"
+    new "Ask for a date > {#visible}"
+
+    # game/characters/lexi/speak.rpy:331
+    old "Postpone date for a day"
+    new "Postpone date for a day"
+
+    # game/characters/lexi/speak.rpy:331
+    old "Cancel date"
+    new "Cancel date"
+
+    # game/characters/lexi/speak.rpy:335
+    old "Kitchen date"
+    new "Kitchen date"
+
+    # game/characters/lexi/speak.rpy:368
+    old "Are you sure? You might lose your current preparations."
+    new "Are you sure? You might lose your current preparations."
+

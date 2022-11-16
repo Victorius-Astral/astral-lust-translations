@@ -263,3 +263,23 @@ translate spanish alice_whorse_a9e42f77:
 
     # me "Heh, this little, playful wench.."
     me "Heh, esta pequeña muchacha juguetona..."
+# TODO: Translation updated at 2022-11-13 15:15
+
+translate spanish strings:
+
+    # game/characters/alice/whorse.rpy:40
+    old "Nude {#visible}"
+    new "Nude {#visible}"
+
+    # game/characters/alice/whorse.rpy:40
+    old "Gym {#visible}"
+    new "Gym {#visible}"
+
+    # game/characters/alice/whorse.rpy:40
+    old "Schoolgirl {#visible}"
+    new "Schoolgirl {#visible}"
+
+    # game/characters/alice/whorse.rpy:40
+    old "Pyjamas {#visible}"
+    new "Pyjamas {#visible}"
+

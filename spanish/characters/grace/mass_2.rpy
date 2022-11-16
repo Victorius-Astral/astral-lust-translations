@@ -353,3 +353,15 @@ translate spanish grace_mass_2_b_239f05d2:
 
     # "You leave her room."
     "Sales de su habitación."
+# TODO: Translation updated at 2022-11-13 15:15
+
+translate spanish strings:
+
+    # game/characters/grace/mass_2.rpy:22
+    old "Pick her outfit."
+    new "Pick her outfit."
+
+    # game/characters/grace/mass_2.rpy:22
+    old "Dress"
+    new "Dress"
+

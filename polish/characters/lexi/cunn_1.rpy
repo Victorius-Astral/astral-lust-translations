@@ -332,3 +332,15 @@ translate polish lexi_cunn_1_story_90504657:
     # lexi "Can we do it... again sometime?"
     lexi "Can we do it... again sometime?"
 
+# TODO: Translation updated at 2022-11-13 15:23
+
+translate polish strings:
+
+    # game/characters/lexi/cunn_1.rpy:56
+    old "Explore {#visible}"
+    new "Explore {#visible}"
+
+    # game/characters/lexi/cunn_1.rpy:56
+    old "Tentacles {#visible}"
+    new "Tentacles {#visible}"
+
