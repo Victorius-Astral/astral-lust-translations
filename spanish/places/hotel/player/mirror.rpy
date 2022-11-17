@@ -57,31 +57,30 @@ translate spanish strings:
     # game/places/hotel/player/mirror.rpy:32
     old "Alice ([alice])"
     new "Alice ([alice])"
-# TODO: Translation updated at 2022-11-13 15:15
+# : Translation updated at 2022-11-13 15:15
 
 translate spanish strings:
 
     # game/places/hotel/player/mirror.rpy:34
     old "How do you want to call your Cat:"
-    new "How do you want to call your Cat:"
+    new "Como quieres llamar a tu Cat:"
 
     # game/places/hotel/player/mirror.rpy:39
     old "How do you want to call your Dog:"
-    new "How do you want to call your Dog:"
+    new "Como quieres llamar a tu Dog:"
 
     # game/places/hotel/player/mirror.rpy:44
     old "How do you want to call Lexi:"
-    new "How do you want to call Lexi:"
+    new "Como quieres llamar a Lexi:"
 
     # game/places/hotel/player/mirror.rpy:49
     old "How do you want to call Mina:"
-    new "How do you want to call Mina:"
+    new "Como quieres llamar a Mina:"
 
     # game/places/hotel/player/mirror.rpy:54
     old "How do you want to call Grace:"
-    new "How do you want to call Grace:"
+    new "Como quieres llamar a Grace:"
 
     # game/places/hotel/player/mirror.rpy:59
     old "How do you want to call Alice:"
-    new "How do you want to call Alice:"
-
+    new "Como quieres llamar a Alice:"

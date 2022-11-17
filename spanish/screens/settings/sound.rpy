@@ -48,19 +48,18 @@ translate spanish strings:
     # game/screens/settings/sound.rpy:13
     old "Play sound when window is minimized"
     new "Reproducir sonido cuando la ventana está minimizada"
-# TODO: Translation updated at 2022-11-13 15:15
+# : Translation updated at 2022-11-13 15:15
 
 translate spanish strings:
 
     # game/screens/settings/sound.rpy:15
     old "Play whispers sound"
-    new "Play whispers sound"
+    new "Reproduce sonido de susurros"
 
     # game/screens/settings/sound.rpy:46
     old "Battle Volume"
-    new "Battle Volume"
+    new "Volumen de Batalla"
 
     # game/screens/settings/sound.rpy:51
     old "NSFW Volume"
-    new "NSFW Volume"
-
+    new "Volumen NSFW (no apto para el trabajo)"
