@@ -10,3 +10,13 @@ init python:
     available_languages["vietnamese"] = ("vietnam", _("Vietnamese"), "99%\nCommunity", True)
     available_languages["polish"] = ("poland", _("Polish"), "3%", False)
     available_languages["chinese"] = ("china", _("Chinese"), "5%\nCommunity", False)
+
+    def getLanguage():
+        global available_languages
+
+        try:
+            return available_languages[_preferences.language]
+
+        except KeyError:
+            renpy.change_language(None, True)
+            return available_languages[None]
