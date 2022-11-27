@@ -92,11 +92,10 @@ translate spanish strings:
     # game/screens/pc/dev_tools.rpy:248
     old "Without sound"
     new "Sin sonido"
-# TODO: Translation updated at 2022-11-13 15:15
+# : Translation updated at 2022-11-13 15:15
 
 translate spanish strings:
 
     # game/screens/pc/dev_tools.rpy:29
     old "Cursor"
     new "Cursor"
-

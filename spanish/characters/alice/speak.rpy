@@ -3225,11 +3225,10 @@ translate spanish speak_alice_sexMenu_8f7b6901:
 
     # alice "Sure, what is it?"
     alice "Claro, ¿Qué pasa?"
-# TODO: Translation updated at 2022-11-13 15:15
+# : Translation updated at 2022-11-13 15:15
 
 translate spanish strings:
 
     # game/characters/alice/speak.rpy:171
     old "Playmate {#visible}"
-    new "Playmate {#visible}"
-
+    new "Compañera de juegos {#visible}"

@@ -42,11 +42,10 @@ translate spanish wc_lexi_5a823cce:
 
     # me "Sorry, I thought it was unoccu-"
     me "Lo siento, pensé que estaba-"
-# TODO: Translation updated at 2022-11-13 15:15
+# : Translation updated at 2022-11-13 15:15
 
 # game/characters/lexi/wc.rpy:15
 translate spanish wc_lexi_a08584a1:
 
     # lexi "Ehh.."
-    lexi "Ehh.."
-
+    lexi "Ehh..."
