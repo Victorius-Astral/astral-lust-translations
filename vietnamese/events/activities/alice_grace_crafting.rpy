@@ -4,7 +4,7 @@
 translate vietnamese alice_grace_crafting_2c2d037c:
 
     # me "Hello ladies, what are you two doing?"
-    me "Hello ladies, what are you two doing?"
+    me "Chào các cô gái, hai người đang làm gì vậy?"
 
 # game/events/activities/alice_grace_crafting.rpy:6
 translate vietnamese alice_grace_crafting_7eb2787f:
@@ -28,13 +28,13 @@ translate vietnamese alice_grace_crafting_3820771a:
 translate vietnamese alice_grace_crafting_3daa5fdd:
 
     # alice "Gracie, behave."
-    alice "Gracie, behave."
+    alice "Gracie, cư xử."
 
 # game/events/activities/alice_grace_crafting.rpy:14
 translate vietnamese alice_grace_crafting_e1d19c22:
 
     # grace "B-But..."
-    grace "B-But..."
+    grace "N-Nhưng..."
 
 # game/events/activities/alice_grace_crafting.rpy:15
 translate vietnamese alice_grace_crafting_45d13e52:
@@ -46,25 +46,25 @@ translate vietnamese alice_grace_crafting_45d13e52:
 translate vietnamese alice_grace_crafting_d7d235df:
 
     # grace "Alright..."
-    grace "Alright..."
+    grace "Được rồi..."
 
 # game/events/activities/alice_grace_crafting.rpy:20
 translate vietnamese alice_grace_crafting_733a5522:
 
     # th "Eh... You don't like me, do you?"
-    th "Eh... You don't like me, do you?"
+    th "Eh... Em không có thích anh đúng chứ?"
 
 # game/events/activities/alice_grace_crafting.rpy:26
 translate vietnamese alice_grace_crafting_bf899989:
 
     # grace "Hello!"
-    grace "Hello!"
+    grace "Xin chào!"
 
 # game/events/activities/alice_grace_crafting.rpy:27
 translate vietnamese alice_grace_crafting_0e6018a2:
 
     # me "What a pretty smile you have here."
-    me "What a pretty smile you have here."
+    me "Em cười khá là tươi đáu."
 
 # game/events/activities/alice_grace_crafting.rpy:28
 translate vietnamese alice_grace_crafting_baf8f4db:
@@ -82,13 +82,13 @@ translate vietnamese alice_grace_crafting_74f05a4e:
 translate vietnamese alice_grace_crafting_03e6d405:
 
     # grace "I'm helping Alice with work!"
-    grace "I'm helping Alice with work!"
+    grace "Em đang giúp chị Alice!"
 
 # game/events/activities/alice_grace_crafting.rpy:31
 translate vietnamese alice_grace_crafting_f4335e52:
 
     # me "Wow, that's amazing."
-    me "Wow, that's amazing."
+    me "Wow, thật tuyệt."
 
 # game/events/activities/alice_grace_crafting.rpy:32
 translate vietnamese alice_grace_crafting_d8769c30:
@@ -100,23 +100,22 @@ translate vietnamese alice_grace_crafting_d8769c30:
 translate vietnamese alice_grace_crafting_3c5f20f6:
 
     # alice "We're a little busy, [me]."
-    alice "We're a little busy, [me]."
+    alice "Bọn em đang bận một chút đấy, [me]."
 
 # game/events/activities/alice_grace_crafting.rpy:37
 translate vietnamese alice_grace_crafting_f84999d2:
 
     # me "Oh. I'm not going to interrupt, then."
-    me "Oh. I'm not going to interrupt, then."
+    me "Oh. vậy thì anh sẽ không làm phiền nữa."
 
 # game/events/activities/alice_grace_crafting.rpy:38
 translate vietnamese alice_grace_crafting_c2a1e17a:
 
     # alice "Talk later."
-    alice "Talk later."
+    alice "Nói sau nha."
 
 # game/events/activities/alice_grace_crafting.rpy:41
 translate vietnamese alice_grace_crafting_5268ff59:
 
     # grace "Bye, bye~"
     grace "Bye, bye~"
-

@@ -57,25 +57,24 @@ translate vietnamese strings:
 
     # game/places/hotel/player/mirror.rpy:34
     old "How do you want to call your Cat:"
-    new "How do you want to call your Cat:"
+    new "Bạn muốn gọi con boss của bạn như nào:"
 
     # game/places/hotel/player/mirror.rpy:39
     old "How do you want to call your Dog:"
-    new "How do you want to call your Dog:"
+    new "Bạn muốn gọi con Chó của bạn như nào:"
 
     # game/places/hotel/player/mirror.rpy:44
     old "How do you want to call Lexi:"
-    new "How do you want to call Lexi:"
+    new "Bạn muốn gọi Lexi như nào:"
 
     # game/places/hotel/player/mirror.rpy:49
     old "How do you want to call Mina:"
-    new "How do you want to call Mina:"
+    new "Bạn muốn gọi Mina như nào:"
 
     # game/places/hotel/player/mirror.rpy:54
     old "How do you want to call Grace:"
-    new "How do you want to call Grace:"
+    new "Bạn muốn gọi Grace như nào:"
 
     # game/places/hotel/player/mirror.rpy:59
     old "How do you want to call Alice:"
-    new "How do you want to call Alice:"
-
+    new "Bạn muốn gọi Alice như nào:"

@@ -714,5 +714,4 @@ translate vietnamese strings:
 
     # game/characters/grace/ev_10.rpy:72
     old "Dad will be named.."
-    new "Dad will be named.."
-
+    new "Người bố sẽ được đặt tên là.."

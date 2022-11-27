@@ -359,9 +359,8 @@ translate vietnamese strings:
 
     # game/characters/grace/mass_2.rpy:22
     old "Pick her outfit."
-    new "Pick her outfit."
+    new "Chọn trang phục."
 
     # game/characters/grace/mass_2.rpy:22
     old "Dress"
-    new "Dress"
-
+    new "Mặc"

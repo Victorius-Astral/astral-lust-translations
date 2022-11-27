@@ -215,5 +215,4 @@ translate vietnamese strings:
 
     # game/characters/little fox/bj_1.rpy:30
     old "Cum Stealer {#visible}"
-    new "Cum Stealer {#visible}"
-
+    new "Kẻ cắp tinh trùng {#visible}"

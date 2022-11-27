@@ -98,5 +98,4 @@ translate vietnamese strings:
 
     # game/screens/pc/dev_tools.rpy:29
     old "Cursor"
-    new "Cursor"
-
+    new "con trỏ"

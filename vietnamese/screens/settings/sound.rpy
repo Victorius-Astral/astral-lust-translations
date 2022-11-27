@@ -50,13 +50,12 @@ translate vietnamese strings:
 
     # game/screens/settings/sound.rpy:15
     old "Play whispers sound"
-    new "Play whispers sound"
+    new "Phát tiếng thì thầm"
 
     # game/screens/settings/sound.rpy:46
     old "Battle Volume"
-    new "Battle Volume"
+    new "Âm lượng trận chiến"
 
     # game/screens/settings/sound.rpy:51
     old "NSFW Volume"
-    new "NSFW Volume"
-
+    new "Âm thanh NSFW"

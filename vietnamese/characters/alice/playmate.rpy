@@ -117,31 +117,31 @@ translate vietnamese strings:
 translate vietnamese alice_playmate_sex_328998ba:
 
     # alice "Let's go to the playroom to play."
-    alice "Let's go to the playroom to play."
+    alice "Hãy sang phòng tình yêu để chơi đi."
 
 # game/characters/alice/playmate.rpy:89
 translate vietnamese alice_playmate_sex_069c0b02:
 
     # me "Good idea."
-    me "Good idea."
+    me "Ý hay đấy."
 
 # game/characters/alice/playmate.rpy:94
 translate vietnamese alice_playmate_sex_b457e7cf:
 
     # alice "What now daddy?"
-    alice "What now daddy?"
+    alice "Giờ sao nào?"
 
 # game/characters/alice/playmate.rpy:98
 translate vietnamese alice_playmate_sex_921dc6e7:
 
     # me "Come here."
-    me "Come here."
+    me "Đến đâu."
 
 # game/characters/alice/playmate.rpy:102
 translate vietnamese alice_playmate_sex_74ef3db1:
 
     # "You turn her around in one swift move, not giving her any time to react."
-    "You turn her around in one swift move, not giving her any time to react."
+    "Bạn xoay cô ấy lại, không cho cô ấy thời gian để phản ứng."
 
 # game/characters/alice/playmate.rpy:103
 translate vietnamese alice_playmate_sex_c56d07e1:
@@ -153,25 +153,25 @@ translate vietnamese alice_playmate_sex_c56d07e1:
 translate vietnamese alice_playmate_sex2_cf7471a9:
 
     # "Her surprise lasted only a moment."
-    "Her surprise lasted only a moment."
+    "Sự bất ngờ của cô ấy chỉ được một khoảnh khắc ngắn."
 
 # game/characters/alice/playmate.rpy:110
 translate vietnamese alice_playmate_sex2_d8cb93bf:
 
     # alice "Hehe, Alice has been a bad girl daddy~"
-    alice "Hehe, Alice has been a bad girl daddy~"
+    alice "Hehe, Alice là một cô gái hư~"
 
 # game/characters/alice/playmate.rpy:114
 translate vietnamese alice_playmate_sex2_e42d01ed:
 
     # me "Naughty girls need to be taught a lesson."
-    me "Naughty girls need to be taught a lesson."
+    me "Những cô bé hư cần được dạy một bài học."
 
 # game/characters/alice/playmate.rpy:115
 translate vietnamese alice_playmate_sex2_5380e284:
 
     # alice "Please, punish me hard, daddy~"
-    alice "Please, punish me hard, daddy~"
+    alice "Làm ơn, hãy trừng phạt em đi~"
 
 # game/characters/alice/playmate.rpy:119
 translate vietnamese alice_playmate_sex2_39094940:
@@ -183,7 +183,7 @@ translate vietnamese alice_playmate_sex2_39094940:
 translate vietnamese alice_playmate_sex2_eca12af1:
 
     # "You enter her pussy without holding back."
-    "You enter her pussy without holding back."
+    "Bạn đút vào mà không kìm lại."
 
 # game/characters/alice/playmate.rpy:124
 translate vietnamese alice_playmate_sex2_ace19808:
@@ -207,19 +207,19 @@ translate vietnamese alice_playmate_sex2_5bb0a6dd:
 translate vietnamese alice_playmate_sex2_e2a36ddf:
 
     # alice "So deep~"
-    alice "So deep~"
+    alice "Thật sâu~"
 
 # game/characters/alice/playmate.rpy:131
 translate vietnamese alice_playmate_sex2_289a3491:
 
     # alice "I feel good, daddy~"
-    alice "I feel good, daddy~"
+    alice "Em thấy sướng lắm~"
 
 # game/characters/alice/playmate.rpy:132
 translate vietnamese alice_playmate_sex2_d68aa99f:
 
     # me "Not only you, babe."
-    me "Not only you, babe."
+    me "Không phải chỉ mình em đâu, babe."
 
 # game/characters/alice/playmate.rpy:133
 translate vietnamese alice_playmate_sex2_7c83f6a7:
@@ -237,37 +237,37 @@ translate vietnamese alice_playmate_sex2_39094940_1:
 translate vietnamese alice_playmate_sex2_b7ce44df:
 
     # "As you move deep inside of her, your manhood gets even harder."
-    "As you move deep inside of her, your manhood gets even harder."
+    "khi bạn đâm vào sâu hơn nữa, con koo của bạn còn cứng hơn nữa."
 
 # game/characters/alice/playmate.rpy:139
 translate vietnamese alice_playmate_sex2_6d2386ee:
 
     # alice "I feel it, you want to cum, daddy~"
-    alice "I feel it, you want to cum, daddy~"
+    alice "Em cảm thấy nó rồi, anh đang muốn xuất tinh~"
 
 # game/characters/alice/playmate.rpy:140
 translate vietnamese alice_playmate_sex2_6f6ada27:
 
     # me "Haha, you know me best."
-    me "Haha, you know me best."
+    me "Haha, em hiểu anh nhất mà ."
 
 # game/characters/alice/playmate.rpy:141
 translate vietnamese alice_playmate_sex2_005c55dc:
 
     # alice "Do it deep inside~"
-    alice "Do it deep inside~"
+    alice "Hãy làm nó thật sâu bên trong đi~"
 
 # game/characters/alice/playmate.rpy:142
 translate vietnamese alice_playmate_sex2_b60ef96a:
 
     # alice "I want to feel it~"
-    alice "I want to feel it~"
+    alice "Em muốn cảm nhận nó~"
 
 # game/characters/alice/playmate.rpy:143
 translate vietnamese alice_playmate_sex2_2db3812f:
 
     # "Her enticement takes you over the edge."
-    "Her enticement takes you over the edge."
+    "Sự phấn khích của cô ấy khiến bạn đến giới hạn."
 
 # game/characters/alice/playmate.rpy:147
 translate vietnamese alice_playmate_sex2_166d9144:
@@ -279,37 +279,37 @@ translate vietnamese alice_playmate_sex2_166d9144:
 translate vietnamese alice_playmate_sex2_2195e9eb:
 
     # alice "Warm."
-    alice "Warm."
+    alice "Ấm."
 
 # game/characters/alice/playmate.rpy:152
 translate vietnamese alice_playmate_sex2_b04b7e59:
 
     # alice "I love it."
-    alice "I love it."
+    alice "Em thích nó."
 
 # game/characters/alice/playmate.rpy:156
 translate vietnamese alice_playmate_sex2_e8737f78:
 
     # alice "I love {i}you{/i}."
-    alice "I love {i}you{/i}."
+    alice "Em yêu {i}anh{/i}."
 
 # game/characters/alice/playmate.rpy:157
 translate vietnamese alice_playmate_sex2_5309371b:
 
     # me "Haha, my lovely darling."
-    me "Haha, my lovely darling."
+    me "Haha, em yêu của anh."
 
 # game/characters/alice/playmate.rpy:158
 translate vietnamese alice_playmate_sex2_9b922dcf:
 
     # alice "Was I not naughty just now?"
-    alice "Was I not naughty just now?"
+    alice "Em chưa đủ hư sao?"
 
 # game/characters/alice/playmate.rpy:159
 translate vietnamese alice_playmate_sex2_baa80ffb:
 
     # me "You turned over the new leaf after the punishment."
-    me "You turned over the new leaf after the punishment."
+    me "Có vẻ là em đã thay đổi sau khi bị phạt rồi đấy."
 
 # game/characters/alice/playmate.rpy:160
 translate vietnamese alice_playmate_sex2_e57a6e1f:
@@ -321,91 +321,91 @@ translate vietnamese alice_playmate_sex2_e57a6e1f:
 translate vietnamese alice_playmate_sex2_bca3ac64:
 
     # "*Knock* *Knock*"
-    "*Knock* *Knock*"
+    "*Cốc* *Cốc*"
 
 # game/characters/alice/playmate.rpy:167
 translate vietnamese alice_playmate_sex2_ceddd97c:
 
     # alice "Looks like someone wants to join us."
-    alice "Looks like someone wants to join us."
+    alice "Có vẻ là ai đó đang muốn tham gia cùng chúng ta này."
 
 # game/characters/alice/playmate.rpy:168
 translate vietnamese alice_playmate_sex2_af56b9f8:
 
     # me "Ha ha, very funny."
-    me "Ha ha, very funny."
+    me "Ha ha, hài hước lắm."
 
 # game/characters/alice/playmate.rpy:169
 translate vietnamese alice_playmate_sex2_099c493a:
 
     # grace "Alice? Are you there?"
-    grace "Alice? Are you there?"
+    grace "Alice? Chị có ở đấy không?"
 
 # game/characters/alice/playmate.rpy:170
 translate vietnamese alice_playmate_sex2_9c299270:
 
     # alice "Yup, what's up?"
-    alice "Yup, what's up?"
+    alice "Chị đây, có chuyện gì vậy?"
 
 # game/characters/alice/playmate.rpy:174
 translate vietnamese alice_playmate_sex2_ec56f8d6:
 
     # grace "Why is it locked?"
-    grace "Why is it locked?"
+    grace "Tại sao nó lại bị khóa?"
 
 # game/characters/alice/playmate.rpy:175
 translate vietnamese alice_playmate_sex2_819014af:
 
     # alice "[me] was showing me something."
-    alice "[me] was showing me something."
+    alice "[me] Đang cho chị xem vài thứ."
 
 # game/characters/alice/playmate.rpy:176
 translate vietnamese alice_playmate_sex2_a2da0ea4:
 
     # grace "Why did you have to lock the door for that?"
-    grace "Why did you have to lock the door for that?"
+    grace "Tại sao chị phải khóa cửa chỉ vì như thế vậy?"
 
 # game/characters/alice/playmate.rpy:177
 translate vietnamese alice_playmate_sex2_3b5024ad:
 
     # alice "Do you need anything?"
-    alice "Do you need anything?"
+    alice "Em có cần gì không?"
 
 # game/characters/alice/playmate.rpy:178
 translate vietnamese alice_playmate_sex2_f79a13b1:
 
     # grace "Mm. Lexi is looking for you, she needs you to fix her gear asap."
-    grace "Mm. Lexi is looking for you, she needs you to fix her gear asap."
+    grace "Mm. Lexi đang tìm chị, chị ấy cần được sửa đồ càng sớm càng tốt."
 
 # game/characters/alice/playmate.rpy:179
 translate vietnamese alice_playmate_sex2_e592fe2a:
 
     # alice "Got it. I'll be back in a minute."
-    alice "Got it. I'll be back in a minute."
+    alice "Được rồi. Chị sẽ đến ngay."
 
 # game/characters/alice/playmate.rpy:180
 translate vietnamese alice_playmate_sex2_fb1b5575:
 
     # grace "Thank you."
-    grace "Thank you."
+    grace "Cảm ơn."
 
 # game/characters/alice/playmate.rpy:184
 translate vietnamese alice_playmate_sex2_ea4623b3:
 
     # alice "Seems my responsibilities are calling me."
-    alice "Seems my responsibilities are calling me."
+    alice "Có vẻ như là trách nhiệm đang vẫy gọi em rồi."
 
 # game/characters/alice/playmate.rpy:185
 translate vietnamese alice_playmate_sex2_e3e38852:
 
     # me "Have fun."
-    me "Have fun."
+    me "Đi mạnh khỏe."
 
 # game/characters/alice/playmate.rpy:186
 translate vietnamese alice_playmate_sex2_905dd122:
 
     # alice "I hope it's an invitation for later."
-    alice "I hope it's an invitation for later."
+    alice "Em mong đó là một lời mời cho lần sau."
 
 # game/characters/alice/playmate.rpy:190
 translate vietnamese alice_playmate_sex2_25f6ef10:
@@ -423,43 +423,43 @@ translate vietnamese alice_playmate_sex2_0044449c:
 translate vietnamese alice_playmate_sex2_4196f8b6:
 
     # alice "Love you~"
-    alice "Love you~"
+    alice "Yêu anh~"
 
 # game/characters/alice/playmate.rpy:196
 translate vietnamese alice_playmate_sex2_e46078c3:
 
     # me "Love you."
-    me "Love you."
+    me "Yêu em."
 
 # game/characters/alice/playmate.rpy:206
 translate vietnamese alice_playmate_dildo_328998ba:
 
     # alice "Let's go to the playroom to play."
-    alice "Let's go to the playroom to play."
+    alice "Hãy đến phòng tình yêu đi."
 
 # game/characters/alice/playmate.rpy:207
 translate vietnamese alice_playmate_dildo_069c0b02:
 
     # me "Good idea."
-    me "Good idea."
+    me "Ý hay đấy."
 
 # game/characters/alice/playmate.rpy:212
 translate vietnamese alice_playmate_dildo_eb685e3b:
 
     # alice "I'm all yours."
-    alice "I'm all yours."
+    alice "Em là của anh hết đấy."
 
 # game/characters/alice/playmate.rpy:213
 translate vietnamese alice_playmate_dildo_7a60452e:
 
     # me "Mm. You're in good hands, darling."
-    me "Mm. You're in good hands, darling."
+    me "Mm. Em sẽ được chăm sóc rất cẩn thận đấy em yêu."
 
 # game/characters/alice/playmate.rpy:214
 translate vietnamese alice_playmate_dildo_9c49b15d:
 
     # alice "I know."
-    alice "I know."
+    alice "Em biết."
 
 # game/characters/alice/playmate.rpy:218
 translate vietnamese alice_playmate_dildo_25f6ef10:
@@ -471,25 +471,25 @@ translate vietnamese alice_playmate_dildo_25f6ef10:
 translate vietnamese alice_playmate_dildo_0a840b43:
 
     # me "I didn't insert it, yet."
-    me "I didn't insert it, yet."
+    me "Anh còn chưa đút vào mà."
 
 # game/characters/alice/playmate.rpy:220
 translate vietnamese alice_playmate_dildo_9033b8a3:
 
     # alice "It's a little cold."
-    alice "It's a little cold."
+    alice "Nó hơi lạnh."
 
 # game/characters/alice/playmate.rpy:221
 translate vietnamese alice_playmate_dildo_b27f421b:
 
     # me "Is it alright?"
-    me "Is it alright?"
+    me "Ổn chứ?"
 
 # game/characters/alice/playmate.rpy:222
 translate vietnamese alice_playmate_dildo_7d5d4fec:
 
     # alice "Yeah, start moving."
-    alice "Yeah, start moving."
+    alice "Ừm, bắt đầu di chuyển đi."
 
 # game/characters/alice/playmate.rpy:226
 translate vietnamese alice_playmate_dildo_9c8d6101:
@@ -507,25 +507,25 @@ translate vietnamese alice_playmate_dildo_7af68dbd:
 translate vietnamese alice_playmate_dildo_f75de584:
 
     # me "I love making you happy, babe."
-    me "I love making you happy, babe."
+    me "Anh thích được làm em hạnh phúc."
 
 # game/characters/alice/playmate.rpy:229
 translate vietnamese alice_playmate_dildo_e24c727f:
 
     # alice "Haha, you're so sweet."
-    alice "Haha, you're so sweet."
+    alice "Haha, anh thật ngọt ngào."
 
 # game/characters/alice/playmate.rpy:230
 translate vietnamese alice_playmate_dildo_1b751862:
 
     # me "Time to put it in. Ready?"
-    me "Time to put it in. Ready?"
+    me "Đến lúc đút nó vào rồi. Sẵn sàng chưa?"
 
 # game/characters/alice/playmate.rpy:231
 translate vietnamese alice_playmate_dildo_49bd343b:
 
     # alice "Always."
-    alice "Always."
+    alice "Luôn luôn."
 
 # game/characters/alice/playmate.rpy:235
 translate vietnamese alice_playmate_dildo_25f6ef10_1:
@@ -537,13 +537,13 @@ translate vietnamese alice_playmate_dildo_25f6ef10_1:
 translate vietnamese alice_playmate_dildo_48033c2c:
 
     # alice "I love this dildo. Do you know what I love even more?"
-    alice "I love this dildo. Do you know what I love even more?"
+    alice "Em thích cái cu giả này. Anh có biết em còn thích cái gì hơn nữa không?"
 
 # game/characters/alice/playmate.rpy:237
 translate vietnamese alice_playmate_dildo_19185fec:
 
     # me "Heh, I could make a guess."
-    me "Heh, I could make a guess."
+    me "Heh, anh có thể đoán ra được đấy."
 
 # game/characters/alice/playmate.rpy:242
 translate vietnamese alice_playmate_dildo_f784c12a:
@@ -573,7 +573,7 @@ translate vietnamese alice_playmate_dildo2_9c8d6101:
 translate vietnamese alice_playmate_dildo2_dc9b617a:
 
     # th "She's getting there."
-    th "She's getting there."
+    th "Em ấy chuẩn bị đến rồi."
 
 # game/characters/alice/playmate.rpy:264
 translate vietnamese alice_playmate_dildo2_58ec1d65:
@@ -585,19 +585,19 @@ translate vietnamese alice_playmate_dildo2_58ec1d65:
 translate vietnamese alice_playmate_dildo2_a218b4bb:
 
     # alice "I love you~"
-    alice "I love you~"
+    alice "Em yêu anh~"
 
 # game/characters/alice/playmate.rpy:266
 translate vietnamese alice_playmate_dildo2_33260bd4:
 
     # me "Haha. I love you, too."
-    me "Haha. I love you, too."
+    me "Haha. anh cũng yêu em nữa."
 
 # game/characters/alice/playmate.rpy:267
 translate vietnamese alice_playmate_dildo2_732e0661:
 
     # th "Heh, I'm getting really hard. Maybe I should fuck her after all?"
-    th "Heh, I'm getting really hard. Maybe I should fuck her after all?"
+    th "Heh, mình cũng thấy hơi lứng lừng lưng rồi đấy. Có lẽ mình nên chịch em ấy?"
 
 # game/characters/alice/playmate.rpy:271
 translate vietnamese alice_playmate_dildo2_2628b0c8:
@@ -615,85 +615,85 @@ translate vietnamese alice_playmate_dildo2_7397df86:
 translate vietnamese alice_playmate_dildo2_15782f83:
 
     # alice "Niiice~"
-    alice "Niiice~"
+    alice "Tuyệt~"
 
 # game/characters/alice/playmate.rpy:277
 translate vietnamese alice_playmate_dildo2_33ca7c50:
 
     # alice "Were you saying anything?"
-    alice "Were you saying anything?"
+    alice "Nãy anh nói gì à?"
 
 # game/characters/alice/playmate.rpy:278
 translate vietnamese alice_playmate_dildo2_fabdcdf0:
 
     # me "Nah, never mind."
-    me "Nah, never mind."
+    me "Nah, không có gì đâu."
 
 # game/characters/alice/playmate.rpy:282
 translate vietnamese alice_playmate_dildo2_17cfa9ec:
 
     # alice "I love {i}you{/i}~"
-    alice "I love {i}you{/i}~"
+    alice "Em yêu {i}anh{/i}~"
 
 # game/characters/alice/playmate.rpy:283
 translate vietnamese alice_playmate_dildo2_aa93b10c:
 
     # me "Good girl."
-    me "Good girl."
+    me "Ngoan lắm."
 
 # game/characters/alice/playmate.rpy:287
 translate vietnamese alice_playmate_dildo2_98d1f8be:
 
     # alice "Time to return to our duties."
-    alice "Time to return to our duties."
+    alice "Đến lúc để trở lại với nhiệm vụ của chúng ta rồi đấy."
 
 # game/characters/alice/playmate.rpy:288
 translate vietnamese alice_playmate_dildo2_cdaddc88:
 
     # me "Duties?"
-    me "Duties?"
+    me "Nhiệm vụ?"
 
 # game/characters/alice/playmate.rpy:289
 translate vietnamese alice_playmate_dildo2_873d72b6:
 
     # alice "I have to play with Gracie. You surely have some things to do too."
-    alice "I have to play with Gracie. You surely have some things to do too."
+    alice "Em phải chơi với Gracie. Em chắc là anh cũng có vài thứ để làm nữa đấy."
 
 # game/characters/alice/playmate.rpy:290
 translate vietnamese alice_playmate_dildo2_b7604369:
 
     # me "Play? That's your duty?"
-    me "Play? That's your duty?"
+    me "Chơi? Đấy là nhiệm vụ của em á?"
 
 # game/characters/alice/playmate.rpy:291
 translate vietnamese alice_playmate_dildo2_a25dc99f:
 
     # alice "We're playing 'I have something to do, and I need four hands' game."
-    alice "We're playing 'I have something to do, and I need four hands' game."
+    alice "Chúng ta đang chơi trò chơi 'Em có việc phải làm, và em cần bốn tay'."
 
 # game/characters/alice/playmate.rpy:292
 translate vietnamese alice_playmate_dildo2_1e5445c7:
 
     # me "Oh, sounds fun."
-    me "Oh, sounds fun."
+    me "Oh, Nghe có vẻ vui đấy."
 
 # game/characters/alice/playmate.rpy:293
 translate vietnamese alice_playmate_dildo2_b1ad8259:
 
     # alice "It is!"
-    alice "It is!"
+    alice "Ừm!"
 
 # game/characters/alice/playmate.rpy:297
 translate vietnamese alice_playmate_dildo2_f5fd2844:
 
     # alice "{small}Like hell...{/small}"
-    alice "{small}Like hell...{/small}"
+    alice "{small}như...{/small}"
 
 # game/characters/alice/playmate.rpy:298
 translate vietnamese alice_playmate_dildo2_4095caad:
 
     # me "See you."
-    me "See you."
+    me "Gặp em sau."
 
 # game/characters/alice/playmate.rpy:299
 translate vietnamese alice_playmate_dildo2_406b6388:
@@ -705,17 +705,16 @@ translate vietnamese alice_playmate_dildo2_406b6388:
 translate vietnamese alice_playmate_sixnine_328998ba:
 
     # alice "Let's go to the playroom to play."
-    alice "Let's go to the playroom to play."
+    alice "Hãy đến phòng tình yêu để chơi đi."
 
 # game/characters/alice/playmate.rpy:307
 translate vietnamese alice_playmate_sixnine_069c0b02:
 
     # me "Good idea."
-    me "Good idea."
+    me "ý hay đấy."
 
 translate vietnamese strings:
 
     # game/characters/alice/playmate.rpy:241
     old "Continue with a dildo"
-    new "Continue with a dildo"
-
+    new "Tiếp tục với đồ chơi"

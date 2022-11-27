@@ -2621,7 +2621,7 @@ translate vietnamese grace_kiss_night_cor2_42e88ed8:
 translate vietnamese grace_kiss_bad_end_8909adaf:
 
     # mina "Alice.. Why are you pointing a gun at him, why is Grace naked??"
-    mina "Alice ... Tại sao cậu lại chĩa súng vào anh ấy, tại sao Grace lại khỏa thân??"
+    mina "Alice... Tại sao cậu lại chĩa súng vào anh ấy, tại sao Grace lại khỏa thân??"
 
 # game/characters/grace/kiss.rpy:985
 translate vietnamese grace_kiss_bad_end_36ee72c4:
@@ -2652,17 +2652,16 @@ translate vietnamese grace_kiss_night_cor3_6ba39ef8:
 translate vietnamese grace_kiss_bad_end_b73a451a:
 
     # victorius "What a pity it's merely a replay..."
-    victorius "What a pity it's merely a replay..."
+    victorius "Thật đáng tiếc nó chỉ là một đoạn phát lại..."
 
 # game/characters/grace/kiss.rpy:1003
 translate vietnamese grace_kiss_bad_end_5a4488d2:
 
     # victorius "Suffer. Beg. Plead for your little life."
-    victorius "Suffer. Beg. Plead for your little life."
+    victorius "Đau khổ. Cầu xin. Khẩn cầu cho cuộc sống nhỏ bé của mày."
 
 # game/characters/grace/kiss.rpy:1006
 translate vietnamese grace_kiss_bad_end_4944b87a:
 
     # victorius "But there is no salvation waiting for you."
-    victorius "But there is no salvation waiting for you."
-
+    victorius "Nhưng không có sự cứu rỗi đang chờ đợi ngươi."

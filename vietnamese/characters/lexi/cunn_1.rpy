@@ -332,5 +332,4 @@ translate vietnamese strings:
 
     # game/characters/lexi/cunn_1.rpy:56
     old "Explore {#visible}"
-    new "Explore {#visible}"
-
+    new "Khám phá {#visible}"

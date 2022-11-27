@@ -1219,5 +1219,4 @@ translate vietnamese strings:
 
     # game/characters/succubi/a/talk.rpy:85
     old "How should she call you?"
-    new "How should she call you?"
-
+    new "Cô ấy nên gọi bạn như nào?"

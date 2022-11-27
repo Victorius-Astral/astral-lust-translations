@@ -282,7 +282,7 @@ translate vietnamese strings:
 
     # game/characters/alice/whorse.rpy:40
     old "Nude {#visible}"
-    new "Nude {#visible}"
+    new "Khỏa thân {#visible}"
 
     # game/characters/alice/whorse.rpy:40
     old "Gym {#visible}"
@@ -290,9 +290,8 @@ translate vietnamese strings:
 
     # game/characters/alice/whorse.rpy:40
     old "Schoolgirl {#visible}"
-    new "Schoolgirl {#visible}"
+    new "Nữ sinh {#visible}"
 
     # game/characters/alice/whorse.rpy:40
     old "Pyjamas {#visible}"
-    new "Pyjamas {#visible}"
-
+    new "Đồ ngủ {#visible}"

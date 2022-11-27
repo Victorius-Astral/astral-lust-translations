@@ -350,5 +350,4 @@ translate vietnamese strings:
 
     # game/screens/systems/rituals.rpy:529
     old "% Sanity"
-    new "% Sanity"
-
+    new "% Tỉnh táo"

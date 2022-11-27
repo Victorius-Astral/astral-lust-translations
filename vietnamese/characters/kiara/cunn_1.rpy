@@ -221,13 +221,12 @@ translate vietnamese strings:
 
     # game/characters/kiara/cunn_1.rpy:64
     old "Angel {#visible}"
-    new "Angel {#visible}"
+    new "Thiên thần {#visible}"
 
     # game/characters/kiara/cunn_1.rpy:64
     old "Nympho {#visible}"
-    new "Nympho {#visible}"
+    new "Dâm nữ {#visible}"
 
     # game/characters/kiara/cunn_1.rpy:64
     old "Party Girl {#visible}"
-    new "Party Girl {#visible}"
-
+    new "Cô gái tiệc tùng {#visible}"

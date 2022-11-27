@@ -462,5 +462,4 @@ translate vietnamese main_11_8f38a483:
 translate vietnamese main_11_af80b51f:
 
     # kiara "I can only say that Horrors that were slumbering forever are waking up after billions of years deep in slumber."
-    kiara "I can only say that Horrors that were slumbering forever are waking up after billions of years deep in slumber."
-
+    kiara "Tôi chỉ có thể nói rằng Những nỗi kinh hoàng đã ngủ yên vĩnh viễn đang thức dậy sau hàng tỷ năm chìm trong giấc ngủ."
