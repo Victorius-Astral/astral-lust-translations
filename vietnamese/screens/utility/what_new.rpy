@@ -480,27 +480,27 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:179
     old "{b}NSFW Sounds{/b}"
-    new "{b}NSFW Sounds{/b}"
+    new "{b}Âm thanh cảnh SẾCHHH{/b}"
 
     # game/screens/utility/what_new.rpy:180
     old "{b}We've started adding sex sounds!{/b} Along with battle sounds, two new volume bars were added to the sound settings. You can adjust the volume of NSFW sounds there. For now only a few sounds were added for Alice and Savenia. More sounds, including moans, are coming soon."
-    new "{b}We've started adding sex sounds!{/b} Along with battle sounds, two new volume bars were added to the sound settings. You can adjust the volume of NSFW sounds there. For now only a few sounds were added for Alice and Savenia. More sounds, including moans, are coming soon."
+    new "{b}Chúng tôi đã thêm vào những âm thanh người lớn cho cái game này!{/b} Cùng với âm thanh chiến đấu, hai thanh âm lượng mới đã được thêm vào cài đặt âm thanh. Bạn có thể điều chỉnh âm lượng của âm thanh ở đó. Hiện tại, chỉ có một số âm thanh được thêm vào cho Alice và Savenia. Sắp có thêm nhiều âm thanh, bao gồm cả tiếng rên rỉ."
 
     # game/screens/utility/what_new.rpy:224
     old "{b}Alice - Playmate Outfit{/b}"
-    new "{b}Alice - Playmate Outfit{/b}"
+    new "{b}Alice - trang phục bạn chịch{/b}"
 
     # game/screens/utility/what_new.rpy:225
     old "When lust overflows, you gotta find your favorite playmate."
-    new "When lust overflows, you gotta find your favorite playmate."
+    new "Khi ham muốn tuôn trào, bạn phải tìm bạn tình yêu thích của mình."
 
     # game/screens/utility/what_new.rpy:233
     old "{b}More Replays{/b}"
-    new "{b}More Replays{/b}"
+    new "{b}Nhiều đoạn phát lại hơn{/b}"
 
     # game/screens/utility/what_new.rpy:234
     old "We've added the most of game's content to the replay menu. Now it has 177 replays more compared to 0.2.3 giving a total of 357 replays."
-    new "We've added the most of game's content to the replay menu. Now it has 177 replays more compared to 0.2.3 giving a total of 357 replays."
+    new "Chúng tôi đã thêm hầu hết nội dung của trò chơi vào menu phát lại. Bây giờ nó có 177 lần phát lại nhiều hơn so với 0.2.3, tổng cộng 357 lần phát lại."
 
     # game/screens/utility/what_new.rpy:246
     old "{b}Grace & Alice{/b}"
@@ -508,5 +508,4 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:247
     old "You can find these two cuties working together on afternoons."
-    new "You can find these two cuties working together on afternoons."
-
+    new "Bạn có thể tìm thấy hai người này làm việc cùng nhau vào các buổi chiều."
