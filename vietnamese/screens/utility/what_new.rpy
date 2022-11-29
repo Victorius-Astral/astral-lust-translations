@@ -480,7 +480,7 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:179
     old "{b}NSFW Sounds{/b}"
-    new "{b}Âm thanh cảnh SẾCHHH{/b}"
+    new "{b}Âm thanh cảnh SẾCHHH!{/b}"
 
     # game/screens/utility/what_new.rpy:180
     old "{b}We've started adding sex sounds!{/b} Along with battle sounds, two new volume bars were added to the sound settings. You can adjust the volume of NSFW sounds there. For now only a few sounds were added for Alice and Savenia. More sounds, including moans, are coming soon."

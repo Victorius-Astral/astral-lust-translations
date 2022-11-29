@@ -70,7 +70,7 @@ translate vietnamese room_library_books_l_secrets_57d6cb72:
 translate vietnamese room_library_books_l_secrets_3d4d4a9c:
 
     # bbs "There are some orthodox Deities whose names you can safely use in a ritual, though. For example Light that Illuminates the World, Holy Trinity, Beacon of Eternal Life."
-    bbs "Tuy nhiên, có một số vị thần chính thống có tên mà bạn có thể sử dụng một cách an toàn trong một nghi lễ. Ví dụ: Ánh sáng chiếu sáng thế giới, Chúa Ba Ngôi, Người dẫn lối của sự bất tử."
+    bbs "Tuy nhiên, có một số vị thần chính thống có tên mà bạn có thể sử dụng một cách an toàn trong một nghi lễ. Ví dụ: Ánh sáng chiếu rọi thế gian, Chúa Ba Ngôi, Người dẫn lối của sự bất tử."
 
 # game/places/library/books_l.rpy:36
 translate vietnamese room_library_books_l_secrets_8f918826:
@@ -82,25 +82,25 @@ translate vietnamese room_library_books_l_secrets_8f918826:
 translate vietnamese room_library_books_l_secrets_b0f56798:
 
     # bbs "Don't be discouraged if They don't respond, it's rare for orthodox Gods to respond to prayers, but when They respond it won't end with your demise."
-    bbs "Đừng nản lòng nếu họ không đáp lại, hiếm khi các vị thần chính thống đáp lại lời cầu nguyện, nhưng khi họ đáp ứng thì điều đó sẽ không kết thúc bằng sự sụp đổ của bạn."
+    bbs "Đừng nản lòng nếu họ không đáp lại, hiếm khi các vị thần chính thống đáp lại lời cầu nguyện, nhưng khi họ đáp lại thì điều đó sẽ không kết thúc bằng cái chết của bạn."
 
 # game/places/library/books_l.rpy:38
 translate vietnamese room_library_books_l_secrets_6be693b3:
 
     # bbs "Another important thing is characteristics. While most enthusiasts have a basic idea of what they are, the basic knowledge is not enough when dealing with something so dangerous."
-    bbs "Một điều quan trọng khác là đặc điểm. Trong khi hầu hết những người đam mê đều có ý tưởng cơ bản về những gì họ đang có, kiến thức cơ bản là không đủ khi đối phó với một thứ nguy hiểm như vậy."
+    bbs "Một điều quan trọng khác là đặc điểm. Trong khi hầu hết những người kẻ si mê đều có ý tưởng cơ bản về những gì họ đang có, kiến thức cơ bản là không đủ khi đối phó với một thứ nguy hiểm như vậy."
 
 # game/places/library/books_l.rpy:39
 translate vietnamese room_library_books_l_secrets_9358a20d:
 
     # bbs "Characteristics are indestructible, they are never reduced or increased, they only change their form and vessel. They can be either accommodated or turned into artifacts."
-    bbs "Đặc điểm là không thể phá hủy, chúng không bao giờ bị giảm hoặc tăng lên, chúng chỉ thay đổi hình dạng và kim khí của chúng. Chúng có thể được chứa hoặc biến thành đồ tạo tác."
+    bbs "Đặc điểm là không thể phá hủy, Họ không bao giờ bị giảm hoặc tăng lên, Họ chỉ thay đổi hình dạng và kim khí của họ. Họ có thể được chứa hoặc biến thành đồ tạo tác."
 
 # game/places/library/books_l.rpy:40
 translate vietnamese room_library_books_l_secrets_502ae156:
 
     # bbs "They grant abilities to its user but beware. Characteristics all contain mental corruption. Accommodation can help lessen the negative influence of characteristics."
-    bbs "Họ cấp khả năng cho người dùng của nó nhưng hãy cẩn thận. Tất cả đặc điểm đều chứa đựng sự tha hóa về tinh thần. Chỗ ở có thể giúp giảm bớt ảnh hưởng tiêu cực lên các đặc tính."
+    bbs "Họ cấp khả năng cho người sử dụng nhưng hãy cẩn thận. Tất cả đặc điểm đều chứa đựng sự tha hóa về tinh thần. CHỗ ở có thể giúp giảm bớt ảnh hưởng tiêu cực lên các đặc tính."
 
 # game/places/library/books_l.rpy:41
 translate vietnamese room_library_books_l_secrets_7e48f2ba:

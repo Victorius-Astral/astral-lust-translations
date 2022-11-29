@@ -105,17 +105,16 @@ translate vietnamese strings:
 
     # game/variables/outfits.rpy:3
     old "Playmate"
-    new "Playmate"
+    new "Bạn tình"
 
     # game/variables/outfits.rpy:3
     old "Xmas"
-    new "Xmas"
+    new "Giáng sinh"
 
     # game/variables/outfits.rpy:3
     old "Magician"
-    new "Magician"
+    new "Ảo thuật gia"
 
     # game/variables/outfits.rpy:129
     old "Had sex: {} times"
-    new "Had sex: {} times"
-
+    new "Đã chịch: {} lần"

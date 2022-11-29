@@ -10,7 +10,7 @@ translate vietnamese d_Light_0_dc96b2ba:
 translate vietnamese d_Light_0_016c1ed4:
 
     # "The light illuminates the world."
-    "Ánh sáng chiếu sáng thế giới."
+    "Ánh sáng chiếu rọi thế gian."
 
 # game/events/dreams/light.rpy:5
 translate vietnamese d_Light_0_8c48ad31:

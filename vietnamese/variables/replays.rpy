@@ -1012,119 +1012,119 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:198
     old "Craft with Grace"
-    new "Craft with Grace"
+    new "Chế tạo cùng Grace"
 
     # game/variables/replays.rpy:198
     old "Peep at her showering."
-    new "Peep at her showering."
+    new "Nhìn trộm cô ấy tắm."
 
     # game/variables/replays.rpy:198
     old "Dismantle Old Clothes"
-    new "Dismantle Old Clothes"
+    new "Phá bỏ quần áo cũ"
 
     # game/variables/replays.rpy:198
     old "Ask Alice to dismantle old clothes."
-    new "Ask Alice to dismantle old clothes."
+    new "Nhờ Alice tháo dỡ quần áo cũ."
 
     # game/variables/replays.rpy:198
     old "Dildo - Playmate"
-    new "Dildo - Playmate"
+    new "Đồ chơi - Bạn tình"
 
     # game/variables/replays.rpy:198
     old "Ask Alice to have fun in a playmate outfit."
-    new "Ask Alice to have fun in a playmate outfit."
+    new "Hỏi Alice để chịch trong bộ bạn tình."
 
     # game/variables/replays.rpy:198
     old "Sex - Playmate"
-    new "Sex - Playmate"
+    new "Chịch - Bạn tình"
 
     # game/variables/replays.rpy:272
     old "Progress her story. (Friend Route)"
-    new "Progress her story. (Friend Route)"
+    new "Tiến trình câu chuyện của cô ấy. (Bạn bè)"
 
     # game/variables/replays.rpy:272
     old "Progress her story. (Love Route)"
-    new "Progress her story. (Love Route)"
+    new "Tiến trình câu chuyện của cô ấy. (Tình yêu)"
 
     # game/variables/replays.rpy:272
     old "Massage her feet."
-    new "Massage her feet."
+    new "Massage chân."
 
     # game/variables/replays.rpy:272
     old "Peep at her shower."
-    new "Peep at her shower."
+    new "Nhìn trộm tắm."
 
     # game/variables/replays.rpy:272
     old "Peep at her in the toilet."
-    new "Peep at her in the toilet."
+    new "Nhìn trộm phòng vệ sinh."
 
     # game/variables/replays.rpy:272
     old "Peep at her sleep."
-    new "Peep at her sleep."
+    new "Nhìn trộm cô ấy ngủ."
 
     # game/variables/replays.rpy:272
     old "Sleepover - Her Bed"
-    new "Sleepover - Her Bed"
+    new "Ngủ chung - Giường cô ấy"
 
     # game/variables/replays.rpy:272
     old "Stay the night with Lexi & her."
-    new "Stay the night with Lexi & her."
+    new "Ở cùng một đêm với Lexi & cô ấy."
 
     # game/variables/replays.rpy:272
     old "Sleepover - Your Bed"
-    new "Sleepover - Your Bed"
+    new "Ngủ chung - Giường của bạn"
 
     # game/variables/replays.rpy:272
     old "Invite her to spend a night at your place."
-    new "Invite her to spend a night at your place."
+    new "Mời cô ấy qua đêm tại chỗ của bạn."
 
     # game/variables/replays.rpy:272
     old "Tidy Up the Boxes"
-    new "Tidy Up the Boxes"
+    new "Dọn dẹp hộp"
 
     # game/variables/replays.rpy:272
     old "Blowjob - Kissing Contest"
-    new "Blowjob - Kissing Contest"
+    new "Bú khù - Cuộc thi hôn"
 
     # game/variables/replays.rpy:272
     old "Unlocked in a kissing contest with her. (Win, Love Route)"
-    new "Unlocked in a kissing contest with her. (Win, Love Route)"
+    new "Mở khóa trong một cuộc thi hôn với cô ấy. (Thắng, Route Tình Yêu)"
 
     # game/variables/replays.rpy:272
     old "Ask her to have fun with you."
-    new "Ask her to have fun with you."
+    new "Nhờ cô ấy ứ ừ với bạn."
 
     # game/variables/replays.rpy:272
     old "Boobjob - Lexi's Date"
-    new "Boobjob - Lexi's Date"
+    new "Boobjob - Cuộc hẹn của Lexi"
 
     # game/variables/replays.rpy:272
     old "Get Lexi drunk at the kitchen date. (Love Route)"
-    new "Get Lexi drunk at the kitchen date. (Love Route)"
+    new "Khiến Lexi say trong buổi hẹn hò trong bếp. (Route tình yêu)"
 
     # game/variables/replays.rpy:272
     old "Cunnilingus - Kissing Contest"
-    new "Cunnilingus - Kissing Contest"
+    new "Bú lồn - Cuộc thi hôn"
 
     # game/variables/replays.rpy:272
     old "Unlocked in a kissing contest with her. (Lose, Love Route)"
-    new "Unlocked in a kissing contest with her. (Lose, Love Route)"
+    new "Mở khóa trong một cuộc thi hôn với cô ấy. (Thua, Route Tình Yêu)"
 
     # game/variables/replays.rpy:272
     old "Cunnilingus - Massage"
-    new "Cunnilingus - Massage"
+    new "Bú lồn - Massage"
 
     # game/variables/replays.rpy:272
     old "Unlocked during the feet massage."
-    new "Unlocked during the feet massage."
+    new "Mở khóa trong lúc massage chân."
 
     # game/variables/replays.rpy:272
     old "Cunnilingus - Vault"
-    new "Cunnilingus - Vault"
+    new "Vét máng - Kho chứa"
 
     # game/variables/replays.rpy:272
     old "Ask her to have fun with you while she's at the vault."
-    new "Ask her to have fun with you while she's at the vault."
+    new "Nhờ cô ấy ứ ừ với bạn khi cô ấy trong kho chứa."
 
     # game/variables/replays.rpy:272
     old "Footjob - Massage"
@@ -1132,235 +1132,235 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:272
     old "Footjob - Vault"
-    new "Footjob - Vault"
+    new "Footjob - kho chứa"
 
     # game/variables/replays.rpy:272
     old "Kiss - Friend Route"
-    new "Kiss - Friend Route"
+    new "Hôn - Route Bạn bè"
 
     # game/variables/replays.rpy:272
     old "Kiss her. (Friend Route)"
-    new "Kiss her. (Friend Route)"
+    new "Hôn cô ấy. (Route Bạn bè)"
 
     # game/variables/replays.rpy:272
     old "Kiss - Love Route"
-    new "Kiss - Love Route"
+    new "Hôn - Route tình yêu"
 
     # game/variables/replays.rpy:272
     old "Kiss her. (Love Route)"
-    new "Kiss her. (Love Route)"
+    new "Hôn cô ấy - (Route tình yêu)"
 
     # game/variables/replays.rpy:320
     old "Small House"
-    new "Small House"
+    new "Ngôi nhà nhỏ"
 
     # game/variables/replays.rpy:320
     old "Damsel in Distress"
-    new "Damsel in Distress"
+    new "Thiếu nữ gặp nạn"
 
     # game/variables/replays.rpy:320
     old "Help her vent by massaging her feet."
-    new "Help her vent by massaging her feet."
+    new "Giúp cô ấy bằng cách xoa bóp chân."
 
     # game/variables/replays.rpy:320
     old "Spend a night in her bed."
-    new "Spend a night in her bed."
+    new "Dành một đêm ở trên giường cô ấy."
 
     # game/variables/replays.rpy:320
     old "Sleepover - with Mina"
-    new "Sleepover - with Mina"
+    new "Ngủ chung - với Mina"
 
     # game/variables/replays.rpy:320
     old "Stay the night with Mina & her."
-    new "Stay the night with Mina & her."
+    new "Ở lại một đêm với Mina và cô ấy."
 
     # game/variables/replays.rpy:320
     old "Scavenge for Materials"
-    new "Scavenge for Materials"
+    new "Đi tìm vật liệu"
 
     # game/variables/replays.rpy:320
     old "Look for Caps"
-    new "Look for Caps"
+    new "Tìm nắp chai"
 
     # game/variables/replays.rpy:320
     old "Blowjob - Kitchen Date"
-    new "Blowjob - Kitchen Date"
+    new "Thổi kèn - Cuộc hẹn trong nhà bếp"
 
     # game/variables/replays.rpy:320
     old "Unlocked during Lexi's kitchen date."
-    new "Unlocked during Lexi's kitchen date."
+    new "Được mở khóa trong cuộc hẹn hò ở nhà bếp của Lexi."
 
     # game/variables/replays.rpy:320
     old "Unlock by progressing her story."
-    new "Unlock by progressing her story."
+    new "Mở khóa bằng cách phát triển câu chuyện của cô ấy."
 
     # game/variables/replays.rpy:320
     old "Have fun with her."
-    new "Have fun with her."
+    new "Vui vẻ với cô ấy."
 
     # game/variables/replays.rpy:320
     old "Kiss her."
-    new "Kiss her."
+    new "Hôn cô ấy."
 
     # game/variables/replays.rpy:320
     old "Sex - Kitchen Date"
-    new "Sex - Kitchen Date"
+    new "Chịch - Cuộc hẹn trong nhà bếp"
 
     # game/variables/replays.rpy:320
     old "Sex - Kitchen Date (Shower)"
-    new "Sex - Kitchen Date (Shower)"
+    new "Sex - Cuộc hẹn trong nhà bếp (Phòng tắm)"
 
     # game/variables/replays.rpy:320
     old "Thighjob - Shower"
-    new "Thighjob - Shower"
+    new "Thighjob - Phòng tắm"
 
     # game/variables/replays.rpy:320
     old "Have fun with her under the shower."
-    new "Have fun with her under the shower."
+    new "Làm cùng cô ấy dưới vòi tắm."
 
     # game/variables/replays.rpy:367
     old "Introducing the Mysterious Trader"
-    new "Introducing the Mysterious Trader"
+    new "Giới thiệu Thương Nhân Bí Ẩn"
 
     # game/variables/replays.rpy:391
     old "Craft with Alice"
-    new "Craft with Alice"
+    new "Chế tạo cùng Alice"
 
     # game/variables/replays.rpy:391
     old "Cook a Dinner"
-    new "Cook a Dinner"
+    new "Nấu bữa tối"
 
     # game/variables/replays.rpy:391
     old "DUTIES"
-    new "DUTIES"
+    new "NHIỆM VỤ"
 
     # game/variables/replays.rpy:391
     old "Clean - Floor 1"
-    new "Clean - Floor 1"
+    new "Dọn dẹp - Tầng 1"
 
     # game/variables/replays.rpy:391
     old "Help her with cleaning the first floor corridor."
-    new "Help her with cleaning the first floor corridor."
+    new "Giúp cô ấy dọn dẹp hành lang tầng đầu tiên."
 
     # game/variables/replays.rpy:391
     old "Clean - Floor 2"
-    new "Clean - Floor 2"
+    new "Dọn dẹp - Tầng 2"
 
     # game/variables/replays.rpy:391
     old "Help her with cleaning the second floor corridor."
-    new "Help her with cleaning the second floor corridor."
+    new "Giúp cô ấy dọn dẹp hành lang tầng hai."
 
     # game/variables/replays.rpy:391
     old "Clean - Lobby"
-    new "Clean - Lobby"
+    new "Dọn dẹp - Sảnh"
 
     # game/variables/replays.rpy:391
     old "Help her with cleaning the lobby."
-    new "Help her with cleaning the lobby."
+    new "Giúp cô ấy dọn dẹp sảnh."
 
     # game/variables/replays.rpy:391
     old "Cooking - Juice Powder"
-    new "Cooking - Juice Powder"
+    new "Nấu ăn - Bột nước trái cây"
 
     # game/variables/replays.rpy:391
     old "Help her with cooking."
-    new "Help her with cooking."
+    new "Giúp cô ấy nấu ăn."
 
     # game/variables/replays.rpy:391
     old "Cooking - Meat vs Fish"
-    new "Cooking - Meat vs Fish"
+    new "Nấu ăn - Cá và thịt"
 
     # game/variables/replays.rpy:391
     old "Cooking - Pizza"
-    new "Cooking - Pizza"
+    new "Nâu ăn - Pizza"
 
     # game/variables/replays.rpy:391
     old "Assault on Grace"
-    new "Assault on Grace"
+    new "Cưỡng hiếp Grace"
 
     # game/variables/replays.rpy:391
     old "Kiss her goodnight on the evening in her room. {mad}DO NOT STOP!!{/mad}"
-    new "Kiss her goodnight on the evening in her room. {mad}DO NOT STOP!!{/mad}"
+    new "Hôn cô ấy ngủ ngon vào buổi tối trong phòng cô ấy. {mad}KHÔNG ĐƯỢC DỪNG LẠI!!{/mad}"
 
     # game/variables/replays.rpy:391
     old "If she gets {i}really{/i} angry at you, it's best to apologize fast. Really fast."
-    new "If she gets {i}really{/i} angry at you, it's best to apologize fast. Really fast."
+    new "Nếu cô ấy {i}thực sự{/i} giận bạn, tốt nhất là bạn nên nhanh chóng xin lỗi.    Thật nhanh vào."
 
     # game/variables/replays.rpy:391
     old "Ask Alice to make her an outfit."
-    new "Ask Alice to make her an outfit."
+    new "Nhờ Alice làm cho cô ấy một bộ trang phục."
 
     # game/variables/replays.rpy:391
     old "Anal - Goodnight"
-    new "Anal - Goodnight"
+    new "Lỗ hậu - Chúc ngủ ngon"
 
     # game/variables/replays.rpy:391
     old "Kiss her goodnight on the evening in her room {cor}(Corrupted){/cor}. She needs to very submissive (20+)."
-    new "Kiss her goodnight on the evening in her room {cor}(Corrupted){/cor}. She needs to very submissive (20+)."
+    new "Hôn chúc cô ấy ngủ ngon vào buổi tối trong phòng của cô ấy {cor}(Sa đọa){/cor}. Cô ấy cần phải rất phục tùng (20+)."
 
     # game/variables/replays.rpy:391
     old "Blowjob - Goodnight"
-    new "Blowjob - Goodnight"
+    new "Bún cua - Chúc ngủ ngon"
 
     # game/variables/replays.rpy:391
     old "Kiss her goodnight on the evening in her room {cor}(Corrupted){/cor}."
-    new "Kiss her goodnight on the evening in her room {cor}(Corrupted){/cor}."
+    new "Hôn cô ấy ngủ ngon vào buổi tối trong phòng cô ấy {cor}(Sa đọa){/cor}."
 
     # game/variables/replays.rpy:391
     old "Cunnilingus - Goodnight"
-    new "Cunnilingus - Goodnight"
+    new "Vét máng - Chúc ngủ ngon"
 
     # game/variables/replays.rpy:391
     old "Finger her pussy."
-    new "Finger her pussy."
+    new "Móc cua cô ấy."
 
     # game/variables/replays.rpy:391
     old "Footjob - Bunny"
-    new "Footjob - Bunny"
+    new "Footjob - Thỏ"
 
     # game/variables/replays.rpy:391
     old "Have fun with her in a bunny outfit."
-    new "Have fun with her in a bunny outfit."
+    new "Làm với cô ấy trong trang phục thỏ."
 
     # game/variables/replays.rpy:391
     old "Handjob - Goodnight"
-    new "Handjob - Goodnight"
+    new "Sục cặc - chúc ngủ ngon"
 
     # game/variables/replays.rpy:391
     old "Kiss - Floor 2"
-    new "Kiss - Floor 2"
+    new "Hôn - Tầng 2"
 
     # game/variables/replays.rpy:391
     old "Kiss her while she's on the second floor."
-    new "Kiss her while she's on the second floor."
+    new "Hôn cô ấy khi cô ấy ở tầng hai."
 
     # game/variables/replays.rpy:391
     old "Kiss - Goodnight"
-    new "Kiss - Goodnight"
+    new "Hôn - chúc ngủ ngon"
 
     # game/variables/replays.rpy:391
     old "Kiss her goodnight on the evening in her room."
-    new "Kiss her goodnight on the evening in her room."
+    new "Hôn cô ấy ngủ ngon vào buổi tối trong phòng cô ấy."
 
     # game/variables/replays.rpy:391
     old "Kiss her in her room."
-    new "Kiss her in her room."
+    new "Hôn trong phòng cô ấy."
 
     # game/variables/replays.rpy:391
     old "Kiss - Kitchen"
-    new "Kiss - Kitchen"
+    new "Hôn - nhà bếp"
 
     # game/variables/replays.rpy:391
     old "Kiss her while she's in the kitchen."
-    new "Kiss her while she's in the kitchen."
+    new "Hôn cô ấy khi cô ấy ở trong nhà bếp."
 
     # game/variables/replays.rpy:391
     old "Kiss - Lobby"
-    new "Kiss - Lobby"
+    new "Hôn - Sảnh"
 
     # game/variables/replays.rpy:391
     old "Kiss her while she's in the lobby."
-    new "Kiss her while she's in the lobby."
+    new "Hôn cô ấy khi cô ấy ở trong sảnh."
 
     # game/variables/replays.rpy:391
     old "Massage 1"
@@ -1368,7 +1368,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:391
     old "Massage her titties."
-    new "Massage her titties."
+    new "Massage vú cô ấy."
 
     # game/variables/replays.rpy:391
     old "Massage 2"
@@ -1376,47 +1376,47 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:391
     old "Massage - Bunny"
-    new "Massage - Bunny"
+    new "Massage - thỏ"
 
     # game/variables/replays.rpy:391
     old "Massage - Goodnight"
-    new "Massage - Goodnight"
+    new "Massage - chúc ngủ ngon"
 
     # game/variables/replays.rpy:391
     old "Pose - Bunny"
-    new "Pose - Bunny"
+    new "Tạo dáng - Thỏ"
 
     # game/variables/replays.rpy:391
     old "Thighjob - Goodnight"
-    new "Thighjob - Goodnight"
+    new "Thighjob - chúc ngủ ngon"
 
     # game/variables/replays.rpy:459
     old "Boobjob - Bed"
-    new "Boobjob - Bed"
+    new "Boobjob - Gường"
 
     # game/variables/replays.rpy:459
     old "Can be unlocked during her 8th story event."
-    new "Can be unlocked during her 8th story event."
+    new "Có thể mở được trong sự kiện thứ 8 của cô ấy."
 
     # game/variables/replays.rpy:476
     old "Help with Books"
-    new "Help with Books"
+    new "Giúp cô ấy với mấy cuốn sách"
 
     # game/variables/replays.rpy:476
     old "Help Kiara with books."
-    new "Help Kiara with books."
+    new "Giúp Kiara với mấy quyển sách."
 
     # game/variables/replays.rpy:476
     old "Sex 1"
-    new "Sex 1"
+    new "Chịch 1"
 
     # game/variables/replays.rpy:476
     old "Sex 2"
-    new "Sex 2"
+    new "Chịch 2"
 
     # game/variables/replays.rpy:476
     old "Sex 3"
-    new "Sex 3"
+    new "Chịch 3"
 
     # game/variables/replays.rpy:476
     old "Threesome 1"
@@ -1432,231 +1432,231 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:503
     old "Recurring Nightmare 1"
-    new "Recurring Nightmare 1"
+    new "Cơn ác mộng định kỳ 1"
 
     # game/variables/replays.rpy:503
     old "Unlocked by progressing the main storyline."
-    new "Unlocked by progressing the main storyline."
+    new "Mở khóa bằng cách phát triển cốt truyện chính."
 
     # game/variables/replays.rpy:503
     old "Recurring Nightmare 2"
-    new "Recurring Nightmare 2"
+    new "Cơn ác mộng định kỳ 2"
 
     # game/variables/replays.rpy:503
     old "Listen to the horror stories around the bonfire."
-    new "Listen to the horror stories around the bonfire."
+    new "Nghe những câu truyện kinh dị xung quanh đống lửa."
 
     # game/variables/replays.rpy:503
     old "Recurring Nightmare 3"
-    new "Recurring Nightmare 3"
+    new "Cơn ác mộng định kỳ 3"
 
     # game/variables/replays.rpy:503
     old "Recurring Nightmare 4"
-    new "Recurring Nightmare 4"
+    new "Cơn ác mộng định kỳ 4"
 
     # game/variables/replays.rpy:503
     old "Recurring Nightmare 5"
-    new "Recurring Nightmare 5"
+    new "Cơn ác mộng định kỳ 5"
 
     # game/variables/replays.rpy:529
     old "PLAY"
-    new "PLAY"
+    new "CHƠI"
 
     # game/variables/replays.rpy:529
     old "Pat - Kitchen"
-    new "Pat - Kitchen"
+    new "Xoa đầu - Nhà bếp"
 
     # game/variables/replays.rpy:529
     old "Pat - Lobby"
-    new "Pat - Lobby"
+    new "Xoa đầu - Sảnh"
 
     # game/variables/replays.rpy:529
     old "Pat - Your Room"
-    new "Pat - Your Room"
+    new "Xoa đầu - Phòng bạn"
 
     # game/variables/replays.rpy:540
     old "Pat - Floor 0"
-    new "Pat - Floor 0"
+    new "Xoa đầu - Tầng 0"
 
     # game/variables/replays.rpy:551
     old "Save the middle age woman from the bandit rapists."
-    new "Save the middle age woman from the bandit rapists."
+    new "Giải cứu người phụ nữ trung niên khỏi tên hiếp dâm."
 
     # game/variables/replays.rpy:551
     old "Defeat the bandit patrol. (Firearms)"
-    new "Defeat the bandit patrol. (Firearms)"
+    new "Đánh bại đội cướp tuần tra. (Súng)"
 
     # game/variables/replays.rpy:551
     old "Defeat the bandit patrol. (Melee)"
-    new "Defeat the bandit patrol. (Melee)"
+    new "Đánh bại đội cướp tuần tra. (Cận chiến)"
 
     # game/variables/replays.rpy:551
     old "Loot an abandoned car."
-    new "Loot an abandoned car."
+    new "Lấy đồ từ chiếc xe bỏ hoang."
 
     # game/variables/replays.rpy:551
     old "Defeat an injured dragon."
-    new "Defeat an injured dragon."
+    new "Đánh bại một con rồng bị thương."
 
     # game/variables/replays.rpy:551
     old "Explore an intact house among the ruined city."
-    new "Explore an intact house among the ruined city."
+    new "Khám phá ngôi nhà nguyên vẹn giữa thành phố đổ nát."
 
     # game/variables/replays.rpy:551
     old "Intact House - Cultist"
-    new "Intact House - Cultist"
+    new "Ngôi nhà nguyên vẹn - Giáo phái"
 
     # game/variables/replays.rpy:551
     old "Intact House - Stickman"
-    new "Intact House - Stickman"
+    new "Ngôi nhà nguyên vẹn - Người que"
 
     # game/variables/replays.rpy:551
     old "Get delayed outside until the night arrives!"
-    new "Get delayed outside until the night arrives!"
+    new "Bị kẹt ở bên ngoài cho đến khi màn đêm buông xuống!"
 
     # game/variables/replays.rpy:551
     old "Defeat orc slavers."
-    new "Defeat orc slavers."
+    new "Đánh bại orc chủ nô."
 
     # game/variables/replays.rpy:551
     old "Defeat the creature roaring above the sky."
-    new "Defeat the creature roaring above the sky."
+    new "Đánh bại sinh vật gầm rú trên bầu trời."
 
     # game/variables/replays.rpy:551
     old "Harvest a rose guarded by monsters."
-    new "Harvest a rose guarded by monsters."
+    new "Thu hoạch một bông hồng được bảo vệ bởi quái vật."
 
     # game/variables/replays.rpy:551
     old "Assemble a map and find out what it leads to."
-    new "Assemble a map and find out what it leads to."
+    new "Lắp ráp một bản đồ và tìm hiểu những gì nó dẫn đến."
 
     # game/variables/replays.rpy:551
     old "Treasure Hunt - Ambush"
-    new "Treasure Hunt - Ambush"
+    new "Săn Tìm Kho Báu - Phục Kích"
 
     # game/variables/replays.rpy:551
     old "Treasure Hunt - Little Fox"
-    new "Treasure Hunt - Little Fox"
+    new "Săn Tìm Kho Báu - Tiểu Cáo"
 
     # game/variables/replays.rpy:551
     old "Treasure Hunt - Treasure"
-    new "Treasure Hunt - Treasure"
+    new "Săn Tìm Kho Báu - Kho báu"
 
     # game/variables/replays.rpy:551
     old "Defeat scavengers looting the warehouse."
-    new "Defeat scavengers looting the warehouse."
+    new "Đánh bại những người kiếm đồ ở nhà kho."
 
     # game/variables/replays.rpy:551
     old "Save a bandit girl from fellow bandits."
-    new "Save a bandit girl from fellow bandits."
+    new "Cứu cô gái cướp khỏi đồng bọn của cô ta."
 
     # game/variables/replays.rpy:551
     old "Save a girl from monsters."
-    new "Save a girl from monsters."
+    new "Cứu một cô gái khỏi quái vật."
 
     # game/variables/replays.rpy:551
     old "Save a girl from the orcs."
-    new "Save a girl from the orcs."
+    new "Cứu một cô gái khỏi lũ Orc."
 
     # game/variables/replays.rpy:551
     old "Save a pregnant woman from the bandits."
-    new "Save a pregnant woman from the bandits."
+    new "Cứu một thai phụ khỏi bọn cướp."
 
     # game/variables/replays.rpy:551
     old "Save a girl from a monster."
-    new "Save a girl from a monster."
+    new "Cứu một cô gái khỏi một con quái vật."
 
     # game/variables/replays.rpy:551
     old "ALONE - UNIQUE"
-    new "ALONE - UNIQUE"
+    new "CÔ ĐƠN - ĐỘC NHẤT"
 
     # game/variables/replays.rpy:551
     old "Found Cat"
-    new "Found Cat"
+    new "Tìm thấy mèo"
 
     # game/variables/replays.rpy:551
     old "Rescued Dog"
-    new "Rescued Dog"
+    new "Giải cứu chó bị exciter bế đi"
 
     # game/variables/replays.rpy:551
     old "Treasure Hunt - Wallpaper"
-    new "Treasure Hunt - Wallpaper"
+    new "Săn tìm kho báu - Hình nền"
 
     # game/variables/replays.rpy:551
     old "The First Encounter"
-    new "The First Encounter"
+    new "Cuộc chạm trán đầu tiên"
 
     # game/variables/replays.rpy:551
     old "Defeat the bandit's ambush when exploring together with her."
-    new "Defeat the bandit's ambush when exploring together with her."
+    new "Đánh bại cuộc phục kích của tên cướp khi cùng cô ấy khám phá."
 
     # game/variables/replays.rpy:600
     old "BROTHEL"
-    new "BROTHEL"
+    new "NHÀ THỔ"
 
     # game/variables/replays.rpy:600
     old "Booth - Amanda 1"
-    new "Booth - Amanda 1"
+    new "Gian hàng - Amanda 1"
 
     # game/variables/replays.rpy:600
     old "Use services of Amanda at the Brothel's booth."
-    new "Use services of Amanda at the Brothel's booth."
+    new "Sử dụng dịch vụ của Amanda tại gian hàng của Nhà thổ."
 
     # game/variables/replays.rpy:600
     old "Booth - Foxy 1"
-    new "Booth - Foxy 1"
+    new "Gian hàng - Foxy 1"
 
     # game/variables/replays.rpy:600
     old "Use services of Foxy at the Brothel's booth."
-    new "Use services of Foxy at the Brothel's booth."
+    new "Sử dụng dịch vụ của Foxy tại gian hàng của Nhà thổ."
 
     # game/variables/replays.rpy:600
     old "Booth - Foxy 2"
-    new "Booth - Foxy 2"
+    new "Gian hàng - Foxy 2"
 
     # game/variables/replays.rpy:600
     old "Booth - Robin 1"
-    new "Booth - Robin 1"
+    new "Gian hàng - Robin 1"
 
     # game/variables/replays.rpy:600
     old "Use services of Robin at the Brothel's booth."
-    new "Use services of Robin at the Brothel's booth."
+    new "Sử dụng dịch vụ của Robin tại gian hàng của Nhà thổ."
 
     # game/variables/replays.rpy:600
     old "Booth - Robin 2"
-    new "Booth - Robin 2"
+    new "Gian hàng - Robin 2"
 
     # game/variables/replays.rpy:600
     old "Booth - Sukki 1"
-    new "Booth - Sukki 1"
+    new "Gian hàng - Sukki 1"
 
     # game/variables/replays.rpy:600
     old "Use services of Sukki at the Brothel's booth."
-    new "Use services of Sukki at the Brothel's booth."
+    new "dụng dịch vụ của Sukki tại gian hàng của Nhà thổ."
 
     # game/variables/replays.rpy:600
     old "Booth - Sukki 2"
-    new "Booth - Sukki 2"
+    new "Gian hàng - Sukki 2"
 
     # game/variables/replays.rpy:628
     old "Grace Crafts with Alice"
-    new "Grace Crafts with Alice"
+    new "Grace chế tạo cùng Alice"
 
     # game/variables/replays.rpy:635
     old "Author"
-    new "Author"
+    new "Tác giả"
 
     # game/variables/replays.rpy:635
     old "Corrupted"
-    new "Corrupted"
+    new "Sa đọa"
 
     # game/variables/replays.rpy:635
     old "Loss of Control"
-    new "Loss of Control"
+    new "Mất kiểm soát"
 
     # game/variables/replays.rpy:635
     old "Reunion"
-    new "Reunion"
+    new "Đoàn tụ"
 
     # game/variables/replays.rpy:635
     old "VICTORIUS"
@@ -1664,15 +1664,15 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:635
     old "Alice the Christmas Elf"
-    new "Alice the Christmas Elf"
+    new "Yêu tinh Giáng sinh Alice"
 
     # game/variables/replays.rpy:635
     old "Deer Gracie"
-    new "Deer Gracie"
+    new "Tuần lộc Gracie"
 
     # game/variables/replays.rpy:635
     old "Kitty"
-    new "Kitty"
+    new "Mèo méo meo mèo meo"
 
     # game/variables/replays.rpy:635
     old "Santa Lexi"
@@ -1684,39 +1684,39 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:635
     old "Holy Night"
-    new "Holy Night"
+    new "Đêm thánh"
 
     # game/variables/replays.rpy:661
     old "Sleep - Lobby"
-    new "Sleep - Lobby"
+    new "Ngủ - Sảnh"
 
     # game/variables/replays.rpy:661
     old "Find her sleeping in the lobby. (Before completing the shrine)"
-    new "Find her sleeping in the lobby. (Before completing the shrine)"
+    new "Tìm thấy cô ấy đang ngủ trong sảnh. (Trước khi hoàn thành điện thờ)"
 
     # game/variables/replays.rpy:679
     old "Sometimes you might encounter really excellent treasure at the end of the road."
-    new "Sometimes you might encounter really excellent treasure at the end of the road."
+    new "Đôi khi bạn có thể gặp kho báu thực sự xuất sắc ở cuối con đường."
 
     # game/variables/replays.rpy:679
     old "SPECIAL"
-    new "SPECIAL"
+    new "ĐẶC BIỆT"
 
     # game/variables/replays.rpy:679
     old "Your Death"
-    new "Your Death"
+    new "Cái chết của tôi"
 
     # game/variables/replays.rpy:679
     old "Perish while traveling together with her."
-    new "Perish while traveling together with her."
+    new "Chết khi đi cùng với cô ấy."
 
     # game/variables/replays.rpy:679
     old "Blowjob & Handjob - Outside"
-    new "Blowjob & Handjob - Outside"
+    new "Súc bình xăng con & Sục cặc - bên ngoài"
 
     # game/variables/replays.rpy:679
     old "Progress her story to unlock."
-    new "Progress her story to unlock."
+    new "Tiếp tục câu chuyện của cô ấy để mở khóa."
 
     # game/variables/replays.rpy:679
     old "Lesbian - Rhainda"
@@ -1724,43 +1724,43 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:679
     old "Join her and Rhainda in some fun. (Rhainda lesbian content must be turned {b}ON{/b})"
-    new "Join her and Rhainda in some fun. (Rhainda lesbian content must be turned {b}ON{/b})"
+    new "Tham gia cùng cô ấy và Rhainda. (Nội dung lesbian của Rhainda phải được {b}BẬT{/b})"
 
     # game/variables/replays.rpy:705
     old "Sex - Fight 1 (Won)"
-    new "Sex - Fight 1 (Won)"
+    new "Chịch - Chiến đấu 1 (Thắng)"
 
     # game/variables/replays.rpy:705
     old "Sex - Fight 1 (Lost)"
-    new "Sex - Fight 1 (Lost)"
+    new "Chịch - Chiến đấu 1 (đù má thua con gái luôn mày?)"
 
     # game/variables/replays.rpy:705
     old "Lose the first fight with her to unlock."
-    new "Lose the first fight with her to unlock."
+    new "Thua cuộc chiến đầu tiên với cô ấy để mở khóa."
 
     # game/variables/replays.rpy:705
     old "Sex - Fight 2 (Won)"
-    new "Sex - Fight 2 (Won)"
+    new "Sex - Chiến đấu 2 (Thắng)"
 
     # game/variables/replays.rpy:705
     old "Ask her to have fun with you. (Win the fight)"
-    new "Ask her to have fun with you. (Win the fight)"
+    new "Yêu cầu cô ấy ứ ừ với bạn. (Thắng trận)"
 
     # game/variables/replays.rpy:705
     old "Sex - Fight 2 (Lost)"
-    new "Sex - Fight 2 (Lost)"
+    new "Chịch - Chiến đấu 2 (thua)"
 
     # game/variables/replays.rpy:705
     old "Ask her to have fun with you. (Lose the fight)"
-    new "Ask her to have fun with you. (Lose the fight)"
+    new "Yêu cầu cô ấy vui vẻ với bạn. (Thua trận)"
 
     # game/variables/replays.rpy:705
     old "Lesbian - Little Fox"
-    new "Lesbian - Little Fox"
+    new "Lesbian - Tiểu cáo"
 
     # game/variables/replays.rpy:705
     old "Join her and Little Fox in some fun. (her lesbian content must be turned {b}ON{/b})"
-    new "Join her and Little Fox in some fun. (her lesbian content must be turned {b}ON{/b})"
+    new "Tham gia cùng cô ấy và Tiểu cáo. (Nội dung lesbian của Rhainda phải được {b}BẬT{/b})"
 
     # game/variables/replays.rpy:721
     old "SUCCUBUS A ([succubA.name])"
@@ -1768,45 +1768,44 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:721
     old "Catch"
-    new "Catch"
+    new "Bắt"
 
     # game/variables/replays.rpy:721
     old "Catch her. You can do so through Succubi Hunt option available once you defeat Average enemies. (Dungeon required)"
-    new "Catch her. You can do so through Succubi Hunt option available once you defeat Average enemies. (Dungeon required)"
+    new "Bắt cô ấy. Bạn có thể làm như vậy thông qua tùy chọn Succubi Hunt có sẵn sau khi bạn đánh bại kẻ thù Trung bình. (Hầm ngục yêu cầu)"
 
     # game/variables/replays.rpy:721
     old "Lust Overflow"
-    new "Lust Overflow"
+    new "Bùng nổ dục vọng"
 
     # game/variables/replays.rpy:721
     old "Unlocked after her lust reaches the critical value."
-    new "Unlocked after her lust reaches the critical value."
+    new "Mở khóa sau khi ham muốn của cô ấy đạt đến đỉnh điểm."
 
     # game/variables/replays.rpy:721
     old "Have fun with her in a playroom."
-    new "Have fun with her in a playroom."
+    new "Làm với cô ấy trong ở trong phòng tềnh êu."
 
     # game/variables/replays.rpy:721
     old "Let her have fun with another Succubi in a playroom."
-    new "Let her have fun with another Succubi in a playroom."
+    new "Hãy để cô ấy vui vẻ với một Succubi khác trong phòng chơi."
 
     # game/variables/replays.rpy:721
     old "Have fun with her in a cell."
-    new "Have fun with her in a cell."
+    new "Làm với cô ấy trong buồng giam."
 
     # game/variables/replays.rpy:721
     old "Have fun with her in the cell."
-    new "Have fun with her in the cell."
+    new "Làm với cô ấy trong buồng giam."
 
     # game/variables/replays.rpy:721
     old "Have fun with her and another Succubi in the playroom."
-    new "Have fun with her and another Succubi in the playroom."
+    new "Làm với cô ấy và Succubi khác ở trong phòng tình yêu."
 
     # game/variables/replays.rpy:721
     old "Have fun with her and another Succubi in the cell."
-    new "Have fun with her and another Succubi in the cell."
+    new "Làm với cô ấy và Succubi khác ở trong buồng giam."
 
     # game/variables/replays.rpy:721
     old "SUCCUBUS B ([succubB.name])"
     new "SUCCUBUS B ([succubB.name])"
-
