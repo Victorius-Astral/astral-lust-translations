@@ -901,7 +901,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:193
     old "First Night"
-    new "First Night"
+    new "Đêm đầu tiên"
 
     # game/variables/replays.rpy:193
     old "Purpose part 1"
@@ -953,7 +953,7 @@ translate vietnamese strings:
 
     # game/variables/replays.rpy:301
     old "Ruined House"
-    new "Nhà tàn"
+    new "Căn nhà tàn"
 
     # game/variables/replays.rpy:301
     old "ALONE - DAMSEL IN DISTRESS"

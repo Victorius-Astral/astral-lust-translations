@@ -4,7 +4,7 @@ translate vietnamese strings:
 
     # game/variables/characters/events.rpy:3
     old "Madman"
-    new "Madman"
+    new "Kẻ điên"
 
     # game/variables/characters/events.rpy:7
     old "Bandit Leader"

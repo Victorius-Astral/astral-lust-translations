@@ -52,7 +52,7 @@ translate vietnamese performRituals_returned_329c7de7:
 translate vietnamese performRituals_returned_0f810834:
 
     # me "I ask for Your loving grace."
-    me "Tôi cầu xin ân sủng yêu thương của bạn."
+    me "Tôi cầu xin sự ân sủng yêu thương của người."
 
 # game/screens/systems/rituals.rpy:544
 translate vietnamese performRituals_returned_53749637:
@@ -112,7 +112,7 @@ translate vietnamese performRituals_KiaraReply_348be000:
 translate vietnamese performRituals_KiaraReply_9a984735:
 
     # "Kiara's attention has fallen on you."
-    "Sự chú ý của Kiara đã ca phải vào ánh mắt của bạn."
+    "Sự chú ý của Kiara đã va phải vào ánh mắt của bạn."
 
 # game/screens/systems/rituals.rpy:814
 translate vietnamese performRituals_DevilReply_a8a31173:
@@ -260,7 +260,7 @@ translate vietnamese strings:
 
     # game/screens/systems/rituals.rpy:141
     old "Queen of Nightmares,\nMind Wanderer,\nInvoker of Fear"
-    new "Nữ Hoàng của Ác Mộng,/nNgười du ngoạn tâm trí,/nKẻ mưu cầu Nỗi sợ"
+    new "Nữ Hoàng của Ác Mộng,\nNgười du ngoạn tâm trí,\nKẻ mưu cầu Nỗi sợ"
 
     # game/screens/systems/rituals.rpy:141
     old "Decadent Monarch,\nScorching Nightmare,\nFather of Desires"
