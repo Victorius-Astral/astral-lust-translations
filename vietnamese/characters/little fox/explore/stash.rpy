@@ -160,7 +160,7 @@ translate vietnamese lil_fox_exp_stash_13e2b3a1:
 translate vietnamese lil_fox_exp_stash_2ef44ba4:
 
     # lil_fox "Do you want your stuff or not?"
-    lil_fox "Anh có muốn đồ của anh khôgn?"
+    lil_fox "Anh có muốn đồ của anh không?"
 
 # game/characters/little fox/explore/stash.rpy:91
 translate vietnamese lil_fox_exp_stash_played_90675af4:
@@ -178,7 +178,7 @@ translate vietnamese lil_fox_exp_stash_played_f0a5413f:
 translate vietnamese lil_fox_exp_stash_played_cfdc28ab:
 
     # lil_fox "Who does she think she is? Calling me a dog, and whatever."
-    lil_fox "Chị ấy nghĩ rằng chị ấy là ai chứ? Gọi em là một con chó, và bất cứ điều gì."
+    lil_fox "Chị ấy nghĩ rằng chị ấy là ai chứ? Gọi em là một con chó, và ti tỷ những thứ khác."
 
 # game/characters/little fox/explore/stash.rpy:97
 translate vietnamese lil_fox_exp_stash_played_f62118b4:
@@ -238,7 +238,7 @@ translate vietnamese lil_fox_exp_stash_notplayed_55de605d:
 translate vietnamese lil_fox_exp_stash_notplayed_9a7fc95c:
 
     # me "You're on the same side, so don't fight, and seek peace. Got it?"
-    me "Em đang ở cùng một phe, vì vậy đừng chiến đấu, và hãy tìm kiếm hòa bình. Hiểu chứ?"
+    me "Bọn em đang ở cùng một phe, vì vậy đừng hơn thua với nhau nữa, mà hãy tìm kiếm hòa bình đi. Hiểu chứ?"
 
 # game/characters/little fox/explore/stash.rpy:122
 translate vietnamese lil_fox_exp_stash_notplayed_d17732b5:
@@ -286,7 +286,7 @@ translate vietnamese lil_fox_exp_stash_notplayed_cba1d683:
 translate vietnamese lil_fox_exp_stash_notplayed_21ad4e23:
 
     # me "You think what I said makes sense?"
-    me "Em nghĩ những gì tôi nói có lý?"
+    me "Em nghĩ những gì anh nói là có lý?"
 
 # game/characters/little fox/explore/stash.rpy:133
 translate vietnamese lil_fox_exp_stash_notplayed_28390844:

@@ -411,7 +411,7 @@ translate vietnamese strings:
     # game/screens/utility/what_new.rpy:206
     old "The main game's font was changed! Collectibles are kept between saves. Item notifications now show the item's icon. There are many other changes, check the full changelog at the bottom for them."
     new "Phông chữ của trò chơi chính đã được thay đổi! Những bộ Sưu tập sẽ được giữ giữa các lần lưu. Thông báo vật phẩm giờ sẽ hiển thị biểu tượng của vật phẩm. Có nhiều thay đổi khác, hãy kiểm tra bảng thay đổi đầy đủ ở dưới cùng để biết thêm về chúng. "
-    
+
 # TODO: Translation updated at 2022-10-11 16:06
 
 translate vietnamese strings:
@@ -442,7 +442,7 @@ translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:212
     old "{b}Alice - Nun Outfit{/b}"
-    new "{b}Alice - Trang phục ớ{/b}"
+    new "{b}Alice - Trang phục sơ{/b}"
 
     # game/screens/utility/what_new.rpy:221
     old "{b}Grace - Bunny Outfit{/b}"
