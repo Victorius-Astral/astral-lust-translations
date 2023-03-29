@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lexi/wc.rpy:6
 translate vietnamese wc_lexi_2aaf4428:
@@ -35,7 +35,7 @@ translate vietnamese wc_lexi_2e39132c:
 
     # "You leave."
     "Bạn rời đi."
-# TODO: Translation updated at 2022-11-13 15:18
+# : Translation updated at 2022-11-13 15:18
 
 # game/characters/lexi/wc.rpy:15
 translate vietnamese wc_lexi_a08584a1:

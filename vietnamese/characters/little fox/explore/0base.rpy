@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-08-13 15:58
+﻿# : Translation updated at 2022-08-13 15:58
 
 # game/characters/little fox/explore/0base.rpy:25
 translate vietnamese lil_fox_explore_368aad39:
@@ -1225,7 +1225,7 @@ translate vietnamese strings:
     # game/characters/little fox/explore/0base.rpy:94
     old "Return home"
     new "Về nhà"
-# TODO: Translation updated at 2022-09-08 19:14
+# : Translation updated at 2022-09-08 19:14
 
 # game/characters/little fox/explore/0base.rpy:34
 translate vietnamese lil_fox_explore_3c8c8cac:

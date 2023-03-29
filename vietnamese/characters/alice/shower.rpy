@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/alice/shower.rpy:15
 translate vietnamese shower_alice_2a10e1fe:
@@ -283,7 +283,7 @@ translate vietnamese strings:
     # game/characters/alice/shower.rpy:46
     old "Can I stay?"
     new "Anh có thể ở lại không?"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/alice/shower.rpy:109
 translate vietnamese shower_alice_masturbate_07eb243a:

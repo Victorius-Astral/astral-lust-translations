@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/kiara/ev_3.rpy:7
 translate vietnamese kiara_3_fa8d4b6e:
@@ -329,7 +329,7 @@ translate vietnamese kiara_3_8dc22e2d:
 
     # me "Alright then."
     me "Được rồi."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

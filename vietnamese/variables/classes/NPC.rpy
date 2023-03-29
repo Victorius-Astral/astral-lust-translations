@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -25,7 +25,7 @@ translate vietnamese strings:
     # game/variables/classes/NPC.rpy:170
     old "{}'s lust - {}"
     new "Ham muốn của {} - {}"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -40,7 +40,7 @@ translate vietnamese strings:
     # game/variables/classes/NPC.rpy:220
     old "{}'s affection - {}"
     new "Sự yêu mến của {} - {}"
-# TODO: Translation updated at 2022-04-17 12:12
+# : Translation updated at 2022-04-17 12:12
 
 translate vietnamese strings:
 

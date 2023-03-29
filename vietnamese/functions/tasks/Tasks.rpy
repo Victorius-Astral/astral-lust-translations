@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -33,7 +33,7 @@ translate vietnamese strings:
     # game/functions/tasks/Tasks.rpy:141
     old "Completed"
     new "Hoàn thành"
-# TODO: Translation updated at 2022-06-15 06:52
+# : Translation updated at 2022-06-15 06:52
 
 translate vietnamese strings:
 

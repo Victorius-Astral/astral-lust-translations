@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/alice/sleepover.rpy:27
 translate vietnamese sleep_with_alice_dbce692f:

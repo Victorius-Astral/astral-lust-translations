@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -21,7 +21,7 @@ translate vietnamese strings:
     # game/functions/buffs/list.rpy:28
     old "Battle start"
     new "trận chiến bắt đầu"
-# TODO: Translation updated at 2022-05-11 01:55
+# : Translation updated at 2022-05-11 01:55
 
 translate vietnamese strings:
 
@@ -32,14 +32,14 @@ translate vietnamese strings:
     # game/functions/buffs/list.rpy:5
     old "Get {amount:+} spirituality each turn."
     new "Nhận {amount:+} năng lượng tâm linh mỗi lượt."
-# TODO: Translation updated at 2022-08-13 15:58
+# : Translation updated at 2022-08-13 15:58
 
 translate vietnamese strings:
 
     # game/functions/buffs/list.rpy:11
     old "Trying to generate buff icon without providing name."
     new "Cố gắng tạo biểu tượng buff mà không cần cung cấp tên."
-# TODO: Translation updated at 2022-09-15 16:10
+# : Translation updated at 2022-09-15 16:10
 
 translate vietnamese strings:
 
@@ -142,7 +142,7 @@ translate vietnamese strings:
     # game/functions/buffs/list.rpy:188
     old "Perform Ritual"
     new "Thực hiện nghi lễ"
-# TODO: Translation updated at 2022-10-11 16:06
+# : Translation updated at 2022-10-11 16:06
 
 translate vietnamese strings:
 

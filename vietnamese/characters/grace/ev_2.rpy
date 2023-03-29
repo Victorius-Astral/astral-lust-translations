@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/ev_2.rpy:3
 translate vietnamese grace_2_37163545:
@@ -445,7 +445,7 @@ translate vietnamese strings:
     # game/characters/grace/ev_2.rpy:39
     old "Ask about her flowers"
     new "Hỏi về hoa của em ấy"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/alice/whorse.rpy:45
 translate vietnamese alice_whorse_25f6ef10:
@@ -263,7 +263,7 @@ translate vietnamese alice_whorse_a9e42f77:
 
     # me "Heh, this little, playful wench.."
     me "Heh, cái con nhỏ, ham chơi này..."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/alice/whorse.rpy:85
 translate vietnamese alice_whorse_bab5de6b:
@@ -276,7 +276,7 @@ translate vietnamese alice_whorse_96558721:
 
     # alice "I love it when you watch me.."
     alice "Em rất thích khi anh nhìn em..."
-# TODO: Translation updated at 2022-11-13 15:18
+# : Translation updated at 2022-11-13 15:18
 
 translate vietnamese strings:
 

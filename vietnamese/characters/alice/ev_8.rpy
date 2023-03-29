@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/alice/ev_8.rpy:25
 translate vietnamese alice_8_54226dc9:
@@ -661,7 +661,7 @@ translate vietnamese strings:
     # game/characters/alice/ev_8.rpy:249
     old "I was joking"
     new "Anh chỉ đùa thôi mà"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -696,7 +696,7 @@ translate vietnamese strings:
     # game/characters/alice/ev_8.rpy:161
     old " [Lust check failed]"
     new " [Mức độ ham muốn không đủ]"
-# TODO: Translation updated at 2022-02-16 09:38
+# : Translation updated at 2022-02-16 09:38
 
 translate vietnamese strings:
 

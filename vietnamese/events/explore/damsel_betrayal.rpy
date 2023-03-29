@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/explore/damsel_betrayal.rpy:25
 translate vietnamese damsel_betrayal_d8ba6d3e:
@@ -425,7 +425,7 @@ translate vietnamese strings:
     # game/events/explore/damsel_betrayal.rpy:152
     old "Massage my dick with your boobs"
     new "Massage thằng nhỏ của tôi với bộ ngực của cô"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/events/explore/damsel_betrayal.rpy:28
 translate vietnamese damsel_betrayal_66565643:

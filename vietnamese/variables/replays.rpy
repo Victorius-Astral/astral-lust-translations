@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -545,7 +545,7 @@ translate vietnamese strings:
     # game/variables/replays.rpy:265
     old "Secret"
     new "Bí mật"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -557,7 +557,7 @@ translate vietnamese strings:
     old "Agoraphobia"
     new "Agoraphobia"
 
-# TODO: Translation updated at 2022-02-18 12:36
+# : Translation updated at 2022-02-18 12:36
 
 translate vietnamese strings:
 
@@ -580,7 +580,7 @@ translate vietnamese strings:
     # game/variables/replays.rpy:268
     old "First Days in the Hotel"
     new "Ngày đầu ở khách sạn"
-# TODO: Translation updated at 2022-06-10 08:06
+# : Translation updated at 2022-06-10 08:06
 
 translate vietnamese strings:
 
@@ -611,7 +611,7 @@ translate vietnamese strings:
     # game/variables/replays.rpy:273
     old "About Her Cheongsam"
     new "Chiếc váy Cheongsam"
-# TODO: Translation updated at 2022-06-22 09:23
+# : Translation updated at 2022-06-22 09:23
 
 translate vietnamese strings:
 
@@ -634,7 +634,7 @@ translate vietnamese strings:
     # game/variables/replays.rpy:98
     old "Kitchen Date"
     new "Cuộc hẹn hò ở nhà bếp"
-# TODO: Translation updated at 2022-08-20 13:45
+# : Translation updated at 2022-08-20 13:45
 
 translate vietnamese strings:
 
@@ -684,7 +684,7 @@ translate vietnamese strings:
     # game/variables/replays.rpy:288
     old "Bandits Encounter"
     new "Đụng độ băng cướp"
-# TODO: Translation updated at 2022-09-08 19:14
+# : Translation updated at 2022-09-08 19:14
 
 translate vietnamese strings:
 
@@ -699,7 +699,7 @@ translate vietnamese strings:
     # game/variables/replays.rpy:290
     old "Found Nothing"
     new "Không tìm thấy gì hết"
-# TODO: Translation updated at 2022-10-11 16:06
+# : Translation updated at 2022-10-11 16:06
 
 translate vietnamese strings:
 
@@ -1006,7 +1006,7 @@ translate vietnamese strings:
     # game/variables/replays.rpy:400
     old "EXPLORE"
     new "KHÁM PHÁ"
-# TODO: Translation updated at 2022-11-13 15:18
+# : Translation updated at 2022-11-13 15:18
 
 translate vietnamese strings:
 

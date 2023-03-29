@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lexi/ev_12.rpy:11
 translate vietnamese lexi_12_f9717830:
@@ -861,7 +861,7 @@ translate vietnamese strings:
     # game/characters/lexi/ev_12.rpy:276
     old "I can't promise this."
     new "Anh không thể hứa điều này."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/lexi/ev_12.rpy:48
 translate vietnamese lexi_12_58e2035e:

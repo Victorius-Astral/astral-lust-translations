@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/ev_8.rpy:4
 translate vietnamese grace_8_f847edc4:
@@ -623,7 +623,7 @@ translate vietnamese strings:
     # game/characters/grace/ev_8.rpy:119
     old "Stay silent"
     new "Im lặng"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/grace/ev_8.rpy:7
 translate vietnamese grace_8_6127e022:

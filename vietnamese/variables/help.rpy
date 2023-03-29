@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -233,14 +233,14 @@ translate vietnamese strings:
     # game/variables/help.rpy:3
     old "{gold}Remember, raising your stats can increase your combat ability dramatically!{/gold}"
     new "{gold}Hãy nhớ rằng, tăng chỉ số của bạn có thể tăng khả năng chiến đấu của bạn một cách đáng kể!{/gold}"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}12. If sanity reaches 0\\% or corruption 100% it's game over. Be careful.{/color}"
     new "{color=#45B6FE}12. Nếu Độ tỉnh táo của bạn còn 0\\% hoặc sự sa đọa đạt 100% thì game over. Hãy cẩn thận.{/color}"
-# TODO: Translation updated at 2022-02-19 01:56
+# : Translation updated at 2022-02-19 01:56
 
 translate vietnamese strings:
 
@@ -251,7 +251,7 @@ translate vietnamese strings:
     # game/variables/help.rpy:3
     old "Here you can.. store things! Surprising, I know."
     new "Ở đây bạn có thể... lưu trữ mọi thứ! Thật ngạc nhiên, tôi biết."
-# TODO: Translation updated at 2022-03-05 18:23
+# : Translation updated at 2022-03-05 18:23
 
 translate vietnamese strings:
 

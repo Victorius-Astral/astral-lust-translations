@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/kiara/speak.rpy:9
 translate vietnamese speak_kiara_fce7de6a:
@@ -441,7 +441,7 @@ translate vietnamese strings:
     # game/characters/kiara/speak.rpy:45
     old "How does this teleportation work?"
     new "Dịch chuyển này hoạt động như thế nào?"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -489,14 +489,14 @@ translate vietnamese strings:
     old "She seems to always know what I'm thinking about."
     new "Cô ấy dường như luôn biết tôi đang nghĩ gì."
 
-# TODO: Translation updated at 2022-02-18 12:36
+# : Translation updated at 2022-02-18 12:36
 
 translate vietnamese strings:
 
     # game/characters/kiara/speak.rpy:186
     old "Pick an outfit."
     new "Chọn trang phục."
-# TODO: Translation updated at 2022-09-15 16:10
+# : Translation updated at 2022-09-15 16:10
 
 # game/characters/kiara/speak.rpy:41
 translate vietnamese kiara_menu1_a6cb9430:
@@ -717,7 +717,7 @@ translate vietnamese strings:
     # game/characters/kiara/speak.rpy:107
     old "You can now perform the rituals! You can do so on the altar in your room."
     new "Bây giờ bạn có thể thực hiện các nghi lễ! Bạn có thể làm trên bàn thờ trong phòng của bạn."
-# TODO: Translation updated at 2022-10-11 16:06
+# : Translation updated at 2022-10-11 16:06
 
 # game/characters/kiara/speak.rpy:57
 translate vietnamese kiara_menu1_b9f57483:
@@ -754,7 +754,7 @@ translate vietnamese kiara_menu1_58cb8ac7:
 
     # kiara "If you want to seek dreams, you can use Dream Invocation to sacrifice {gold}Frozen Screams{/gold} to me."
     kiara "Nếu anh muốn tìm kiếm giấc mơ, anh có thể sử dụng Lời cầu khẩn giấc mơ để hiến tế {gold}Tiếng Thét Băng Giá{/gold} cho tôi."
-# TODO: Translation updated at 2022-11-13 15:18
+# : Translation updated at 2022-11-13 15:18
 
 # game/characters/kiara/speak.rpy:19
 translate vietnamese speak_kiara_d3a63c0c:

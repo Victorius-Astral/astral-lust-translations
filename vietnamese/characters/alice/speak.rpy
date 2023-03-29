@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/alice/speak.rpy:9
 translate vietnamese speak_alice_56062ced:
@@ -1459,7 +1459,7 @@ translate vietnamese strings:
     # game/characters/alice/speak.rpy:648
     old "Rest"
     new "Nghỉ"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/alice/speak.rpy:124
 translate vietnamese alice_menu1_menuev9_5d6b5979:
@@ -2134,7 +2134,7 @@ translate vietnamese strings:
     # game/characters/alice/speak.rpy:552
     old "Weave"
     new "Dệt"
-# TODO: Translation updated at 2022-02-19 01:56
+# : Translation updated at 2022-02-19 01:56
 
 translate vietnamese strings:
 
@@ -2145,7 +2145,7 @@ translate vietnamese strings:
     # game/characters/alice/speak.rpy:21
     old "I need a magical girl outfit.. {gold}(Story){/gold}"
     new "Anh cần một bộ đồ nữ pháp sư... {gold}(Cốt truyện){/gold}"
-# TODO: Translation updated at 2022-05-12 09:37
+# : Translation updated at 2022-05-12 09:37
 
 # game/characters/alice/speak.rpy:634
 translate vietnamese speak_alice_alice_nun_61d78026:
@@ -2218,7 +2218,7 @@ translate vietnamese strings:
     # game/characters/alice/speak.rpy:656
     old "Let's skip this"
     new "Hãy bỏ cái này đi"
-# TODO: Translation updated at 2022-08-20 13:45
+# : Translation updated at 2022-08-20 13:45
 
 translate vietnamese strings:
 
@@ -2229,7 +2229,7 @@ translate vietnamese strings:
     # game/characters/alice/speak.rpy:171
     old "Nun {#visible}"
     new "Sơ {#visible}"
-# TODO: Translation updated at 2022-09-08 19:14
+# : Translation updated at 2022-09-08 19:14
 
 # game/characters/alice/speak.rpy:217
 translate vietnamese speak_alice_sexMenu_1b3457b5:
@@ -2398,7 +2398,7 @@ translate vietnamese speak_alice_sexMenu_8f7b6901:
 
     # alice "Sure, what is it?"
     alice "Được thôi, nó là gì vậy?"
-# TODO: Translation updated at 2022-11-13 15:18
+# : Translation updated at 2022-11-13 15:18
 
 translate vietnamese strings:
 

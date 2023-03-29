@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/wc.rpy:6
 translate vietnamese wc_grace_ec263df9:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/succubi/succA_succB_2.rpy:37
 translate vietnamese succA_succB_2_4386b3c0:
@@ -1455,7 +1455,7 @@ translate vietnamese strings:
     # game/characters/succubi/succA_succB_2.rpy:163
     old "Fuck [succA]"
     new "Địt [succA]"
-# TODO: Translation updated at 2022-04-17 12:11
+# : Translation updated at 2022-04-17 12:11
 
 # game/characters/succubi/succA_succB_2.rpy:395
 translate vietnamese succA_succB_2_fastB3_f69daf1a:

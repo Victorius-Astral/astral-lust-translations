@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/mass_3.rpy:29
 translate vietnamese grace_mass_3_48d3bd32:
@@ -335,7 +335,7 @@ translate vietnamese grace_mass_3_499b26f3:
 
     # th "Time to go.."
     th "Đến lúc đi rồi..."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/grace/mass_3.rpy:65
 translate vietnamese grace_mass_3_b30fd3aa:
@@ -378,7 +378,7 @@ translate vietnamese grace_mass_3_43a6aea0:
 
     # th "One, final look. Shit.. she is gorgeous.."
     th "Một cái nhìn cuối cùng. Đù... em ấy đẹp quá..."
-# TODO: Translation updated at 2022-02-26 15:07
+# : Translation updated at 2022-02-26 15:07
 
 # game/characters/grace/mass_3.rpy:103
 translate vietnamese grace_mass_3_9b745f4a:

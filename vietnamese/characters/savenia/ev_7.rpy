@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/savenia/ev_7.rpy:27
 translate vietnamese savenia_7_c8e5b142:
@@ -299,7 +299,7 @@ translate vietnamese savenia_7_e5a99df0:
 
     # me "Let's close the door."
     me "Đóng cửa thôi."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/savenia/ev_7.rpy:42
 translate vietnamese savenia_7_85fe1685:

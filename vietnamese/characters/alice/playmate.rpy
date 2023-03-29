@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-10-11 16:06
+﻿# : Translation updated at 2022-10-11 16:06
 
 # game/characters/alice/playmate.rpy:8
 translate vietnamese alice_playmate_e93954f4:
@@ -111,7 +111,7 @@ translate vietnamese strings:
     # game/characters/alice/playmate.rpy:39
     old "Dildo play"
     new "Chơi cu giả"
-# TODO: Translation updated at 2022-11-13 15:18
+# : Translation updated at 2022-11-13 15:18
 
 # game/characters/alice/playmate.rpy:88
 translate vietnamese alice_playmate_sex_328998ba:

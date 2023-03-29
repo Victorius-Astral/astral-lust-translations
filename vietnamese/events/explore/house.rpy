@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/explore/house.rpy:10
 translate vietnamese exp_house_e1102e0a:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/ev_13.rpy:8
 translate vietnamese mina_13_f461ab48:
@@ -941,7 +941,7 @@ translate vietnamese strings:
     # game/characters/mina/ev_13.rpy:305
     old "Succumb"
     new "Không nổi rồi"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/mina/ev_13.rpy:39
 translate vietnamese mina_13_0be25483:

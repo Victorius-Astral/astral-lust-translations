@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/savenia/speak.rpy:6
 translate vietnamese speak_savenia_b72d0859:
@@ -173,7 +173,7 @@ translate vietnamese strings:
     # game/characters/savenia/speak.rpy:19
     old "Tell me about your group"
     new "Kể cho tớ nghe về nhóm của cậu đi"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/savenia/speak.rpy:41
 translate vietnamese speak_savenia_sex_menu_af5bf166:

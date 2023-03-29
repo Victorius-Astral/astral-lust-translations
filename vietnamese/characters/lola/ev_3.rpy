@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-08-13 15:58
+﻿# : Translation updated at 2022-08-13 15:58
 
 # game/characters/lola/ev_3.rpy:5
 translate vietnamese lola_3_6881df0c:
@@ -359,7 +359,7 @@ translate vietnamese lola_3_fun5_d9d2f499:
 
     # lola "See ya."
     lola "See ya."
-# TODO: Translation updated at 2022-09-08 19:14
+# : Translation updated at 2022-09-08 19:14
 
 # game/characters/lola/ev_3.rpy:59
 translate vietnamese lola_3_3a8b6c1c:

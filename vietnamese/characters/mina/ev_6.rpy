@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/ev_6.rpy:7
 translate vietnamese mina_6_0d485f6b:
@@ -305,7 +305,7 @@ translate vietnamese strings:
     # game/characters/mina/ev_6.rpy:28
     old "Try to cheer her up"
     new "Cố gắng cổ vũ em ấy"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

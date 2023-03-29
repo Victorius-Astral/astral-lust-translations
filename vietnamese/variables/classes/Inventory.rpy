@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -17,7 +17,7 @@ translate vietnamese strings:
     # game/variables/classes/Inventory.rpy:163
     old "Lost all materials."
     new "Mất tất cả vật liệu."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -29,7 +29,7 @@ translate vietnamese strings:
     old "Required item missing."
     new "Vật phẩm cần tiết bị thiếu."
 
-# TODO: Translation updated at 2022-02-26 15:07
+# : Translation updated at 2022-02-26 15:07
 
 translate vietnamese strings:
 
@@ -44,7 +44,7 @@ translate vietnamese strings:
     # game/variables/classes/Inventory.rpy:170
     old "Lost all items."
     new "Mất tất cả vật phẩm."
-# TODO: Translation updated at 2022-04-17 12:12
+# : Translation updated at 2022-04-17 12:12
 
 translate vietnamese strings:
 

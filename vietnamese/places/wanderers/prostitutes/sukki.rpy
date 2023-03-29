@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/wanderers/prostitutes/sukki.rpy:33
 translate vietnamese w_booth_sukki_76995093:
@@ -1282,7 +1282,7 @@ translate vietnamese strings:
     old "Thighjob"
     new "Đùi"
 
-# TODO: Translation updated at 2022-02-16 09:38
+# : Translation updated at 2022-02-16 09:38
 
 translate vietnamese strings:
 

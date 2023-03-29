@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/kiara/sex_1.rpy:16
 translate vietnamese kiara_sex_1_a6c6b1ac:
@@ -173,7 +173,7 @@ translate vietnamese strings:
     # game/characters/kiara/sex_1.rpy:24
     old "Go harder"
     new "Mạnh hơn"
-# TODO: Translation updated at 2022-02-26 15:07
+# : Translation updated at 2022-02-26 15:07
 
 # game/characters/kiara/sex_1.rpy:102
 translate vietnamese kiara_sex_1_sex2_3217e8b9:

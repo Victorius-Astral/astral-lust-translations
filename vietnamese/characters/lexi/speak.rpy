@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lexi/speak.rpy:10
 translate vietnamese speak_lexi_b267fd29:
@@ -511,7 +511,7 @@ translate vietnamese strings:
     # game/characters/lexi/speak.rpy:230
     old "Look for caps (Duration: [lexiTasks.scavengeCaps.duration]) {loot}(Caps+){/loot} {#visible}"
     new "Tìm nắp chai (Thời gian: [lexiTasks.scavengeCaps.duration]) {loot}(Nắp chai+){/loot} {#visible}"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -522,14 +522,14 @@ translate vietnamese strings:
     # game/characters/lexi/speak.rpy:191
     old "The End arrived before her 20th birthday."
     new "The End xảy ra trước sinh nhật lần thứ 20 của cô ấy."
-# TODO: Translation updated at 2022-02-19 01:56
+# : Translation updated at 2022-02-19 01:56
 
 translate vietnamese strings:
 
     # game/characters/lexi/speak.rpy:12
     old "Are you.. alright? {gold}(Story){/gold}"
     new "Em có... ổn không? {gold}(Cốt truyện){/gold}"
-# TODO: Translation updated at 2022-06-10 08:06
+# : Translation updated at 2022-06-10 08:06
 
 # game/characters/lexi/speak.rpy:18
 translate vietnamese speak_lexi_bb88c56e:
@@ -756,7 +756,7 @@ translate vietnamese strings:
     # game/characters/lexi/speak.rpy:359
     old "Are you sure? You might lose your current preparations."
     new "Bạn có chắc không? Bạn có thể mất sự chuẩn bị hiện tại của mình."
-# TODO: Translation updated at 2022-06-22 09:23
+# : Translation updated at 2022-06-22 09:23
 
 translate vietnamese strings:
 

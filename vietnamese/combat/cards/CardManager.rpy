@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-13 15:18
+﻿# : Translation updated at 2022-11-13 15:18
 
 translate vietnamese strings:
 

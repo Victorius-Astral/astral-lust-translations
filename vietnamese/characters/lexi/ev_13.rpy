@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lexi/ev_13.rpy:15
 translate vietnamese lexi_13_14b36b8a:
@@ -729,7 +729,7 @@ translate vietnamese strings:
     # game/characters/lexi/ev_13.rpy:80
     old "Take the gunner hostage {int}[[Intelligence]{/int} {#visible}"
     new "Bắt xạ thủ làm con tin {int}[[Trí tuệ]{/int} {#visible}"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/lexi/ev_13.rpy:27
 translate vietnamese lexi_13_dbc642e8:

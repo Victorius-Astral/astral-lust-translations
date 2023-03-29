@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/alice/wakeup_bj.rpy:10
 translate vietnamese alice_wakeup_bj_131c6a3a:

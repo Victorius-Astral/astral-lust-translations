@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-06 08:10
+﻿# : Translation updated at 2022-02-06 08:10
 
 # game/characters/rhainda/sex_1.rpy:23
 translate vietnamese rhainda_sex_1_1961b218:

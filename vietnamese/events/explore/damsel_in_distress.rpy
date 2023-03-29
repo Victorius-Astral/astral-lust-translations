@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/explore/damsel_in_distress.rpy:55
 translate vietnamese damsel_in_distress_ca775f6a:
@@ -1246,13 +1246,13 @@ translate vietnamese damsel_in_distress_bimbo_menu_4095caad_2:
 translate vietnamese damsel_in_distress_bimbo_menu_ad5a5dd2:
 
     # d_bimbo "Be safe!"
-    d_bimbo "An toàn nha!"
+    d_bimbo "Về an toàn nha!"
 
 # game/events/explore/damsel_in_distress.rpy:500
 translate vietnamese damsel_in_distress_bimbo_menu_0410ab34:
 
     # th "That's my line."
-    th "Đó là lời của mình."
+    th "Mình mới phải là người nói câu đấy..."
 
 # game/events/explore/damsel_in_distress.rpy:501
 translate vietnamese damsel_in_distress_bimbo_menu_8f0f73aa:
@@ -2331,7 +2331,7 @@ translate vietnamese strings:
     # game/events/explore/damsel_in_distress.rpy:685
     old "Don't take anything"
     new "Không lấy bất cứ thứ gì"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/events/explore/damsel_in_distress.rpy:62
 translate vietnamese damsel_in_distress_26c3e88d:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lexi/tasks.rpy:5
 translate vietnamese task_lexi_scavenge_285847fd:
@@ -83,7 +83,7 @@ translate vietnamese task_lexi_caps_26b4c7d7:
 
     # lexi "Do you want me to do anything else?"
     lexi "Anh có muốn em làm gì khác không?"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/lexi/tasks.rpy:31
 translate vietnamese task_lexi_caps_f3aeaaea:

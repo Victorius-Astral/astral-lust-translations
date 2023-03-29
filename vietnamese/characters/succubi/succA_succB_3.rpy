@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/succubi/succA_succB_3.rpy:7
 translate vietnamese succA_succB_3_6fdea584:
@@ -715,7 +715,7 @@ translate vietnamese strings:
     # game/characters/succubi/succA_succB_3.rpy:215
     old "No is no"
     new "Không là không"
-# TODO: Translation updated at 2022-02-19 01:56
+# : Translation updated at 2022-02-19 01:56
 
 translate vietnamese strings:
 

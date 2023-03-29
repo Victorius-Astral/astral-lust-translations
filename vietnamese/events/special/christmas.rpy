@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/special/christmas.rpy:79
 translate vietnamese christ_2f5165f1:
@@ -1833,7 +1833,7 @@ translate vietnamese strings:
     # game/events/special/christmas.rpy:594
     old "Previous position"
     new "Vị trí trước đó"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/events/special/christmas.rpy:105
 translate vietnamese christ_intro_e17b6c5a:

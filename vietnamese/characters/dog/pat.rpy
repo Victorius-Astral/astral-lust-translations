@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/dog/pat.rpy:17
 translate vietnamese dog_pat_f0_02da90bd:
@@ -71,7 +71,7 @@ translate vietnamese dog_pat_player_2cee00b1:
 
     # dog "Woof."
     dog "Gâu."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/dog/pat.rpy:17
 translate vietnamese dog_pat_f0_f093f43c:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/wanderers/player.rpy:38
 translate vietnamese room_wanderers_player_sleep_62d1a43b:

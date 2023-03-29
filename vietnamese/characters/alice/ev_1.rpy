@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/alice/ev_1.rpy:5
 translate vietnamese alice_1_9364b9d6:
@@ -112,7 +112,7 @@ translate vietnamese alice_1_1_2b1cfc68:
 translate vietnamese alice_1_1_ef0be3f4:
 
     # th "Fuck, fuck, fuck, I'm done, she'll kill me."
-    th "Ôi địt mẹ cuộc đời, thôi xong rồi, em ấy sẽ giết mình mất."
+    th "Ôi địt mẹ cuộc đời, thôi xong rồi, cô ấy sẽ giết mình mất."
 
 # game/characters/alice/ev_1.rpy:59
 translate vietnamese alice_1_1_9e39cfd5:
@@ -219,8 +219,8 @@ translate vietnamese alice_1_2_661f2a87:
 # game/characters/alice/ev_1.rpy:93
 translate vietnamese alice_1_2_b0005a51:
 
-    # me "Umm..."
-    me "Ờm.."
+    # me "Umm.."
+    me "Ờm..."
 
 # game/characters/alice/ev_1.rpy:94
 translate vietnamese alice_1_2_11791089:
@@ -327,7 +327,7 @@ translate vietnamese strings:
     # game/characters/alice/ev_1.rpy:60
     old "Wait"
     new "Đợi"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

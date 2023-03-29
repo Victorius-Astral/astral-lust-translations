@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/succubi/b/talk.rpy:26
 translate vietnamese talk_SuccubusB_94df512a:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/kiss.rpy:19
 translate vietnamese mina_kiss_234bc9f5:
@@ -1236,7 +1236,7 @@ translate vietnamese strings:
     # game/characters/mina/kiss.rpy:509
     old "Let her win"
     new "Để cô ấy thắng"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/mina/kiss.rpy:19
 translate vietnamese mina_kiss_100ef60d:
@@ -1340,7 +1340,7 @@ translate vietnamese strings:
     old "Hell yeah, I'm in. Stretch your mouth well. You'll need to keep it wide open for a long time"
     new "Được rồi, anh tham gia. Hãy căng miệng ra đi. Em sẽ cần phải mở rộng trong một thời gian dài đấy"
 
-# TODO: Translation updated at 2022-02-16 09:38
+# : Translation updated at 2022-02-16 09:38
 
 translate vietnamese strings:
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/ev_10.rpy:4
 translate vietnamese mina_10_25d68cb8:

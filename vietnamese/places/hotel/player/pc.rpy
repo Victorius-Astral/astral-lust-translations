@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/hotel/player/pc.rpy:21
 translate vietnamese pc_no_debug_b13c1e0c:

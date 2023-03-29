@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/ev_3.rpy:9
 translate vietnamese mina_3_2b92aba6:
@@ -597,7 +597,7 @@ translate vietnamese strings:
     # game/characters/mina/ev_3.rpy:153
     old "No, do it"
     new "Không, làm đi"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -605,7 +605,7 @@ translate vietnamese strings:
     old "She has a crush on Alice."
     new "Cô ấy crush Alice."
 
-# TODO: Translation updated at 2022-02-26 15:07
+# : Translation updated at 2022-02-26 15:07
 
 # game/characters/mina/ev_3.rpy:40
 translate vietnamese mina_3_e9e0750b:

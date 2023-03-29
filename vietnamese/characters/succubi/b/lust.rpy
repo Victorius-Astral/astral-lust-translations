@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/succubi/b/lust.rpy:9
 translate vietnamese lust_SuccubusB_85f8e58b:

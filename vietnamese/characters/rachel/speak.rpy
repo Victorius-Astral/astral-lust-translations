@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/rachel/speak.rpy:18
 translate vietnamese speak_rachel_27d2e697:
@@ -405,7 +405,7 @@ translate vietnamese strings:
     # game/characters/rachel/speak.rpy:23
     old "Do you need anything? {gold}(Story){/gold}"
     new "Cô có cần gì không? {gold}(Cốt truyện){/gold}"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/rachel/speak.rpy:78
 translate vietnamese speak_rachel_built_shrine_b2ddf88b:

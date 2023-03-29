@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/dreams/end.rpy:4
 translate vietnamese dream_end_a85086ed:

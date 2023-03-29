@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -153,7 +153,7 @@ translate vietnamese strings:
     # game/variables/items.rpy:4
     old "Antibiotics"
     new "Thuốc kháng sinh"
-# TODO: Translation updated at 2022-02-18 12:36
+# : Translation updated at 2022-02-18 12:36
 
 translate vietnamese strings:
 

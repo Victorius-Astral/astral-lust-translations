@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lola/doggy.rpy:12
 translate vietnamese lola_doggy_bc7f21d0:

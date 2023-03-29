@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-08-13 15:58
+﻿# : Translation updated at 2022-08-13 15:58
 
 # game/characters/little fox/explore/nothing.rpy:5
 translate vietnamese lil_fox_exp_noting_5837027d:

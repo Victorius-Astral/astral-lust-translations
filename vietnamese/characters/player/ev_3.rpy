@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/player/ev_3.rpy:6
 translate vietnamese main_3_99b949dd:
@@ -223,7 +223,7 @@ translate vietnamese strings:
     # game/characters/player/ev_3.rpy:24
     old "I don't have anymore questions"
     new "Tôi không còn câu hỏi nữa"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -246,7 +246,7 @@ translate vietnamese strings:
     # game/characters/player/ev_3.rpy:77
     old "I can resurrect through a blessing of Throdog R'luhhor. It comes with a price, though."
     new "Tôi có thể hồi sinh nhờ sự ban phước của Throdog R'luhhor. Tuy nhiên, nó đi kèm với một cái giá."
-# TODO: Translation updated at 2022-05-11 01:55
+# : Translation updated at 2022-05-11 01:55
 
 # game/characters/player/ev_3.rpy:16
 translate vietnamese main_3_b4945b52:

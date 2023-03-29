@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/cleaning.rpy:18
 translate vietnamese grace_cleaning_c36e51e3:
@@ -917,7 +917,7 @@ translate vietnamese grace_cleaning_lobbyb_0377f1ec:
 
     # me "My pleasure, [grace]."
     me "Rất hân hạn."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/grace/cleaning.rpy:48
 translate vietnamese grace_cleaning_f1a_5075838f:

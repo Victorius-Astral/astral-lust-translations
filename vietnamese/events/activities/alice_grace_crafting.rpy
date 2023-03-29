@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-13 15:18
+﻿# : Translation updated at 2022-11-13 15:18
 
 # game/events/activities/alice_grace_crafting.rpy:5
 translate vietnamese alice_grace_crafting_2c2d037c:

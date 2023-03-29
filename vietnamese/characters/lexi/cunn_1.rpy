@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lexi/cunn_1.rpy:64
 translate vietnamese lexi_cunn_1_d7760fc7:
@@ -301,7 +301,7 @@ translate vietnamese strings:
     # game/characters/lexi/cunn_1.rpy:106
     old "Slower"
     new "Chậm hơn"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/lexi/cunn_1.rpy:147
 translate vietnamese lexi_cunn_1_slow_293e9080:
@@ -326,7 +326,7 @@ translate vietnamese lexi_cunn_1_story_90504657:
 
     # lexi "Can we do it... again sometime?"
     lexi "Chúng ta có thể làm... lần nữa vào lúc khác không?"
-# TODO: Translation updated at 2022-11-13 15:18
+# : Translation updated at 2022-11-13 15:18
 
 translate vietnamese strings:
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -33,7 +33,7 @@ translate vietnamese strings:
     # game/variables/classes/Player.rpy:336
     old "Killed a human:\nCorruption + {}% \nSanity - {}% \n\nCurrent corruption: {}% \nCurrent sanity: {}%"
     new "Giết một con người:\nSự sa đọa + {}% \nĐộ tỉnh táo - {}% \n\nSự sa đọa hiện có: {}% \nĐộ tỉnh táo hiện có: {}%"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -72,7 +72,7 @@ translate vietnamese strings:
     # game/variables/classes/Player.rpy:226
     old "{} can't be raised any further."
     new "{} không thể được nâng cao hơn nữa."
-# TODO: Translation updated at 2022-09-15 16:10
+# : Translation updated at 2022-09-15 16:10
 
 translate vietnamese strings:
 

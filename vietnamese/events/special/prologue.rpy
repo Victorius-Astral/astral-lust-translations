@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-17 12:11
+﻿# : Translation updated at 2022-04-17 12:11
 
 # game/events/special/prologue.rpy:20
 translate vietnamese prologue_2d5764a0:
@@ -3531,7 +3531,7 @@ translate vietnamese strings:
     # game/events/special/prologue.rpy:939
     old "Electricity and water"
     new "Điện nước"
-# TODO: Translation updated at 2022-05-12 09:37
+# : Translation updated at 2022-05-12 09:37
 
 # game/events/special/prologue.rpy:65
 translate vietnamese prologue_80a24a7a:
@@ -4990,7 +4990,7 @@ translate vietnamese prologue_end_60f846bf:
 
     # me "A new home.."
     me "Một ngôi nhà mới..."
-# TODO: Translation updated at 2022-06-10 08:06
+# : Translation updated at 2022-06-10 08:06
 
 # game/events/special/prologue.rpy:389
 translate vietnamese prologue_lexi1_618b6156:

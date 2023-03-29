@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/ev_15.rpy:5
 translate vietnamese mina_15_254ef8fd:
@@ -1690,14 +1690,14 @@ translate vietnamese strings:
 
     # game/characters/mina/ev_15.rpy:451
     old "I was drunk"
-    new "LÚc đấy anh say quá"
-# TODO: Translation updated at 2022-02-06 08:10
+    new "Lúc đấy anh say quá"
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/mina/ev_15.rpy:37
 translate vietnamese mina_15_828dd5ac:
 
     # th "Poor thing. Well, that was unavoidable.."
-    th "Tội nghiệp. Nhưng điều đó là không thể tránh khỏi..."
+    th "Thật tội nghiệp. Nhưng điều đó là không thể tránh khỏi..."
 
 # game/characters/mina/ev_15.rpy:52
 translate vietnamese mina_15_32779390:
@@ -1733,7 +1733,7 @@ translate vietnamese mina_15_part2_b1634c47:
 translate vietnamese mina_15_part2_4fb82c4c:
 
     # me "I know. Don't worry, there is nothing wrong with you."
-    me "Anh hiểu mà. Đừng lo em không có sai gì hết."
+    me "Anh hiểu mà. Đừng lo, em không có sai gì hết."
 
 # game/characters/mina/ev_15.rpy:327
 translate vietnamese mina_15_part3_fbf2b9ef:
@@ -1751,7 +1751,7 @@ translate vietnamese mina_15_part3_36b5caf3:
 translate vietnamese mina_15_part3_44ddef70:
 
     # me "You only feel like this because you're heartbroken and drunk."
-    me "Em chỉ cảm thấy như thế này, bởi vì em vừa bị đá và say rượu thôi."
+    me "Em chỉ cảm thấy như này, vì em vừa bị đá và say rượu thôi."
 
 # game/characters/mina/ev_15.rpy:354
 translate vietnamese mina_15_part3_c6a12ecb:
@@ -1763,4 +1763,4 @@ translate vietnamese mina_15_part3_c6a12ecb:
 translate vietnamese mina_15_part3_a2339b36:
 
     # me "That's not it Mina. You should know how much I want you, but not like this."
-    me "Không phải vậy đâu Mina. Em nên biết anh muốn em nhiều đến mức nào mà, nhưng không phải như thế này."
+    me "Không phải vậy đâu Mina. Em biết anh muốn em nhiều đến mức nào mà, nhưng không phải như thế này."

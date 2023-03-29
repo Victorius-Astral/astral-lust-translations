@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/ev_16.rpy:10
 translate vietnamese mina_16_290bd0d3:
@@ -611,7 +611,7 @@ translate vietnamese mina_16_end_60e682cb:
 
     # th "Well, time to do my own stuff."
     th "Đến lúc làm những việc của riêng mình rồi."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/mina/ev_16.rpy:23
 translate vietnamese mina_16_bfe75d24:

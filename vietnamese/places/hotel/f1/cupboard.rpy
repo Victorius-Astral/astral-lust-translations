@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/hotel/f1/cupboard.rpy:12
 translate vietnamese room_f1_cupboard_menu1_628ba9fa:
@@ -39,7 +39,7 @@ translate vietnamese strings:
     # game/places/hotel/f1/cupboard.rpy:9
     old "Get tissue"
     new "Lấy khăn giấy"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

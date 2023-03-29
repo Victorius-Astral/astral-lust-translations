@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/dreams/dekesha.rpy:25
 translate vietnamese d_Dekesha_by_Darrdorack_2_fb60898a:
@@ -645,7 +645,7 @@ translate vietnamese strings:
     # game/events/dreams/dekesha.rpy:168
     old "Fuck her, let her know how good dick feels"
     new "Địt cô ta, cho cô ta biết một con cặc chà bá cảm giác ra sao"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/events/dreams/dekesha.rpy:28
 translate vietnamese d_Dekesha_by_Darrdorack_2_c54e7519:

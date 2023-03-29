@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-06 08:10
+﻿# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -14,7 +14,7 @@ translate vietnamese strings:
     old "{color=#b96d19}\nTranslation: Denker {i}(Spanish){/i}, Natsuki {i}(Vietnamese){/i}{/color}"
     new "{color=#b96d19}\nTranslation: Denker {i}(Spanish){/i}, Natsuki {i}(Vietnamese){/i}{/color}"
 
-# TODO: Translation updated at 2022-02-18 12:36
+# : Translation updated at 2022-02-18 12:36
 
 translate vietnamese strings:
 
@@ -81,7 +81,7 @@ translate vietnamese strings:
     # game/screens/gui/credits.rpy:92
     old "\nCommunity Manager:"
     new "\nCommunity Manager:"
-# TODO: Translation updated at 2022-06-15 06:52
+# : Translation updated at 2022-06-15 06:52
 
 translate vietnamese strings:
 

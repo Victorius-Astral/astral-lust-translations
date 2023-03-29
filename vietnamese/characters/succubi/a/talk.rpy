@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/succubi/a/talk.rpy:26
 translate vietnamese talk_SuccubusA_9d4e3500:
@@ -1213,7 +1213,7 @@ translate vietnamese strings:
     # game/characters/succubi/a/talk.rpy:587
     old "Fuck her again"
     new "Địt cô ấy lần nữa"
-# TODO: Translation updated at 2022-11-13 15:18
+# : Translation updated at 2022-11-13 15:18
 
 translate vietnamese strings:
 

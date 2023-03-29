@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/explore/midnight_kiss.rpy:11
 translate vietnamese midnight_kiss_b558c213:
@@ -2156,7 +2156,7 @@ translate vietnamese strings:
     old "Ask about Angels"
     new "Hỏi về thiên thần"
 
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/events/explore/midnight_kiss.rpy:28
 translate vietnamese midnight_kiss_leave_977192e4:
@@ -2361,7 +2361,7 @@ translate vietnamese midnight_kiss_demeter_angels_8a85f3bc:
 
     # demeter "We have noted the activity of unknown Angel level power. The domain of death."
     demeter "Chúng tôi đã ghi nhận hoạt động của sức mạnh cấp độ Thiên thần chưa được biết đến. Lĩnh vực của cái chết."
-# TODO: Translation updated at 2022-08-13 15:58
+# : Translation updated at 2022-08-13 15:58
 
 # game/events/explore/midnight_kiss.rpy:472
 translate vietnamese midnight_kiss_part4_1d336001:
@@ -2387,7 +2387,7 @@ translate vietnamese midnight_kiss_part4_e5dafa81:
     # something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts["fredericka"])
     something "{small}Ot zhro fhtagn syha'h.{/small}" (what_font=fonts["fredericka"])
 
-# TODO: Translation updated at 2022-09-15 16:10
+# : Translation updated at 2022-09-15 16:10
 
 # game/events/explore/midnight_kiss.rpy:743
 translate vietnamese midnight_kiss_demeter_talk_64f90ab0:

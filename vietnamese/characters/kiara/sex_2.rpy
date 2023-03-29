@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-06 08:10
+﻿# : Translation updated at 2022-02-06 08:10
 
 # game/characters/kiara/sex_2.rpy:66
 translate vietnamese kiara_sex_2_877eb163:

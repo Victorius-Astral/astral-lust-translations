@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/dreams/first_love.rpy:7
 translate vietnamese d_First_Love_2_ce6c0469:

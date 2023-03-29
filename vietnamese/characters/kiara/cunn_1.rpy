@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/kiara/cunn_1.rpy:66
 translate vietnamese kiara_cunn_1_4c5b6ca0:
@@ -215,7 +215,7 @@ translate vietnamese kiara_cunn_1_cum_09706588:
 
     # kiara "And you said I'm the anxious one."
     kiara "Và anh nói tôi là đứa đang nứng cơ đấy."
-# TODO: Translation updated at 2022-11-13 15:18
+# : Translation updated at 2022-11-13 15:18
 
 translate vietnamese strings:
 

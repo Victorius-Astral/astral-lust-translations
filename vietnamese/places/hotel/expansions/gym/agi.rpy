@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/hotel/expansions/gym/agi.rpy:5
 translate vietnamese gym_agi_873b9e9f:

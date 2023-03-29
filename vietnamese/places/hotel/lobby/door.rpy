@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/hotel/lobby/door.rpy:16
 translate vietnamese room_lobby_door_menu1_46ff25cb:

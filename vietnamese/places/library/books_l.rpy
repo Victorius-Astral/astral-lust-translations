@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/library/books_l.rpy:7
 translate vietnamese room_library_books_l_da92f362:

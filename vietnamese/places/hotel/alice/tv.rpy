@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/hotel/alice/tv.rpy:17
 translate vietnamese room_alice_tv_bd0f6867:

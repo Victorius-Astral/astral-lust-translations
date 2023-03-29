@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/alice/ev_2.rpy:4
 translate vietnamese alice_2_68ab42c9:
@@ -346,7 +346,7 @@ translate vietnamese alice_2_1b_65164b51:
 translate vietnamese alice_2_1b_30a2663a:
 
     # alice "Bye bye!"
-    alice "Bye bye!"
+    alice "Bái bai!"
 
 # game/characters/alice/ev_2.rpy:113
 translate vietnamese alice_2_1b_9fcd09a4:
@@ -391,7 +391,7 @@ translate vietnamese strings:
     # game/characters/alice/ev_2.rpy:23
     old "I won't play your games"
     new "Anh sẽ không chơi mấy cái trò nhảm nhí của em đâu"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

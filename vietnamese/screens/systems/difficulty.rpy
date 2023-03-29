@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-16 09:38
+﻿# : Translation updated at 2022-02-16 09:38
 
 translate vietnamese strings:
 
@@ -169,7 +169,7 @@ translate vietnamese strings:
     # game/screens/systems/difficulty.rpy:340
     old "Random Combat Encounters"
     new "Giao tranh ngẫu nhiên"
-# TODO: Translation updated at 2022-02-26 15:07
+# : Translation updated at 2022-02-26 15:07
 
 translate vietnamese strings:
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/alice/ev_3.rpy:3
 translate vietnamese alice_3_dbbe60f3:
@@ -591,21 +591,21 @@ translate vietnamese strings:
     # game/characters/alice/ev_3.rpy:20
     old "Not now"
     new "Không phải bây giờ"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
     # game/characters/alice/ev_3.rpy:146
     old "She brought me to watch her back when she went out to get a.. \"friend\"..."
     new "Cô ấy bắt mình đi theo hộ tống để cô ấy có thể lấy một... \"người bạn\"..."
-# TODO: Translation updated at 2022-02-19 01:56
+# : Translation updated at 2022-02-19 01:56
 
 translate vietnamese strings:
 
     # game/characters/alice/ev_3.rpy:146
     old "She brought me to watch her back when she went out to get a. \"friend\"...."
     new "Alice đưa mình theo để hộ tống cô ấy lấy một... \"người bạn\"..."
-# TODO: Translation updated at 2022-03-05 18:23
+# : Translation updated at 2022-03-05 18:23
 
 translate vietnamese strings:
 

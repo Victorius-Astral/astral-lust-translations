@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/mass_2.rpy:26
 translate vietnamese grace_mass_2_39024941:
@@ -353,7 +353,7 @@ translate vietnamese grace_mass_2_b_239f05d2:
 
     # "You leave her room."
     "Bạn rời khỏi phòng của cô ấy."
-# TODO: Translation updated at 2022-11-13 15:18
+# : Translation updated at 2022-11-13 15:18
 
 translate vietnamese strings:
 

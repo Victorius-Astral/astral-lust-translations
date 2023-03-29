@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -213,7 +213,7 @@ translate vietnamese strings:
     # game/variables/lists/sexpos.rpy:3
     old "Group - Threesome"
     new "Threesome"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -236,7 +236,7 @@ translate vietnamese strings:
     # game/variables/lists/sexpos.rpy:3
     old "Group - Threesome - Two Females"
     new "Threesome - Hai nữ"
-# TODO: Translation updated at 2022-04-17 12:12
+# : Translation updated at 2022-04-17 12:12
 
 translate vietnamese strings:
 
@@ -244,7 +244,7 @@ translate vietnamese strings:
     old "Footjob - Sleeping"
     new "Footjob - Ngủ"
 
-# TODO: Translation updated at 2022-05-11 01:55
+# : Translation updated at 2022-05-11 01:55
 
 translate vietnamese strings:
 
@@ -263,14 +263,14 @@ translate vietnamese strings:
     # game/variables/lists/sexpos.rpy:3
     old "Rubbing - Cowgirl"
     new "Cọ xát - Cowgirl"
-# TODO: Translation updated at 2022-06-10 08:06
+# : Translation updated at 2022-06-10 08:06
 
 translate vietnamese strings:
 
     # game/variables/lists/sexpos.rpy:3
     old "Cunnilingus - Against the Counter"
     new "Vét máng - dựa vào quầy"
-# TODO: Translation updated at 2022-09-08 19:14
+# : Translation updated at 2022-09-08 19:14
 
 translate vietnamese strings:
 

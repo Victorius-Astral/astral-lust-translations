@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/succubi/a/catch.rpy:7
 translate vietnamese catch_SuccubusA_76b4d1c2:

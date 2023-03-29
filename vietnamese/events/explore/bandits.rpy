@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/explore/bandits.rpy:25
 translate vietnamese explore_banditsA_dd0855a5:
@@ -427,7 +427,7 @@ translate vietnamese strings:
     # game/events/explore/bandits.rpy:181
     old "{color=#FF958F}[[Charisma]{/color} Be human, I won't survive without this little bit of supplies"
     new "{color=#FF958F}[[Sức thu hút]{/color} Hãy là một con người, tôi sẽ không sống sót nếu không có ít vật dụng mà tôi có"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/events/explore/bandits.rpy:54
 translate vietnamese explore_banditsA_a4079a28:

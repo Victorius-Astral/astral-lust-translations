@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/alice/cunn_1.rpy:25
 translate vietnamese alice_cunn1_c839e5b0:
@@ -113,7 +113,7 @@ translate vietnamese alice_cunn1_8e0312e6:
 
     # "You leave her to rest."
     "Bạn để cô ấy nghỉ ngơi."
-# TODO: Translation updated at 2022-02-26 15:07
+# : Translation updated at 2022-02-26 15:07
 
 # game/characters/alice/cunn_1.rpy:50
 translate vietnamese alice_cunn1_0e51e6f6:

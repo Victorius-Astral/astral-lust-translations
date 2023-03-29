@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lola/ev_1.rpy:9
 translate vietnamese lola_1_93d68aec:
@@ -435,7 +435,7 @@ translate vietnamese strings:
     # game/characters/lola/ev_1.rpy:15
     old "No, sorry"
     new "Không xin lỗi"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/lola/ev_1.rpy:9
 translate vietnamese lola_1_6d1765ae:

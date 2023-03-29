@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/traders/mysterious/speak.rpy:4
 translate vietnamese speak_mt_18415716:
@@ -303,7 +303,7 @@ translate vietnamese strings:
     # game/characters/traders/mysterious/speak.rpy:97
     old "Decrease corruption [[1 Mysterious Coins]"
     new "Giảm sa đọa [[1 Đồng xu bí ẩn]"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

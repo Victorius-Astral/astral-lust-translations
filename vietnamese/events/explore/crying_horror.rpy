@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/explore/crying_horror.rpy:13
 translate vietnamese exp_crying_horror_c7c12c00:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-06 08:10
+﻿# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -73,7 +73,7 @@ translate vietnamese strings:
     # game/variables/outfits.rpy:91
     old "Hundreds of years of holding back, and now she's hornier than ever."
     new "Hàng trăm năm kìm hãm, và giờ cô ấy già dặn hơn bao giờ hết."
-# TODO: Translation updated at 2022-08-20 13:45
+# : Translation updated at 2022-08-20 13:45
 
 translate vietnamese strings:
 
@@ -84,7 +84,7 @@ translate vietnamese strings:
     # game/variables/outfits.rpy:92
     old "In the corruption filled Asthar, even the nuns are filled with unholy thoughts."
     new "Trong sự thối nát tràn ngập Asthar, ngay cả các nữ tu cũng chứa đầy những ý nghĩ xấu xa."
-# TODO: Translation updated at 2022-09-08 19:14
+# : Translation updated at 2022-09-08 19:14
 
 translate vietnamese strings:
 
@@ -99,7 +99,7 @@ translate vietnamese strings:
     # game/variables/outfits.rpy:94
     old "Give her a carrot and make her happy."
     new "Cho cô ấy một củ cà rốt để làm cô ấy hạnh fuck."
-# TODO: Translation updated at 2022-11-13 15:18
+# : Translation updated at 2022-11-13 15:18
 
 translate vietnamese strings:
 

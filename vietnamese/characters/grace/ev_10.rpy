@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/ev_10.rpy:10
 translate vietnamese grace_10_872e6b53:
@@ -667,7 +667,7 @@ translate vietnamese strings:
     # game/characters/grace/ev_10.rpy:18
     old "No, she'll be back"
     new "Không, cô ấy sẽ trở lại"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/grace/ev_10.rpy:83
 translate vietnamese grace_10_part2_312e4a61:
@@ -708,7 +708,7 @@ translate vietnamese strings:
     # game/characters/grace/ev_10.rpy:77
     old "Secret found! Victorius is pleased. +50% vault space multiplier!"
     new "Bí mật được tìm thấy! Victorius rất vui. +50% diện tích của kho!"
-# TODO: Translation updated at 2022-11-13 15:18
+# : Translation updated at 2022-11-13 15:18
 
 translate vietnamese strings:
 

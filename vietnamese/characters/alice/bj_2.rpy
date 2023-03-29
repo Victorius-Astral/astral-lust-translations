@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/alice/bj_2.rpy:34
 translate vietnamese alice_bj2_7ff0ca37:
@@ -40,7 +40,7 @@ translate vietnamese alice_bj2_de2fdb39:
 translate vietnamese alice_bj2_ac43d8d0:
 
     # alice "I kmnw."
-    alice "Em biecc."
+    alice "Em biếcc."
 
 # game/characters/alice/bj_2.rpy:50
 translate vietnamese alice_bj2_096de50a:
@@ -94,7 +94,7 @@ translate vietnamese alice_bj2_74da33f9:
 translate vietnamese alice_bj2_83bc6bb3:
 
     # "[alice] gags for a while and finally spits out all of your seed into her hands."
-    "[alice]bị Nghẹn một lúc nhưng cuối cùng cũng nhả hết tất cả hạt giống của bạn vào tay cô ấy."
+    "[alice] bị Nghẹn một lúc nhưng cuối cùng cũng nhả hết tất cả hạt giống của bạn vào tay cô ấy."
 
 # game/characters/alice/bj_2.rpy:84
 translate vietnamese alice_bj2_b9bc022e:
@@ -106,4 +106,4 @@ translate vietnamese alice_bj2_b9bc022e:
 translate vietnamese alice_bj2_5cb454dc:
 
     # "You rest for a while and leave her to clean herself."
-    "Bạn nghỉ một lúc để cô ấy tự lau chính mình."
+    "Bạn nghỉ một lúc và để cô ấy tự lau chính mình."

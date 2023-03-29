@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lexi/hj_2.rpy:15
 translate vietnamese lexi_hj_2_6d4d2f45:
@@ -281,7 +281,7 @@ translate vietnamese lexi_hj_2_3dae959c:
 
     # "[lexi] left your room."
     "[lexi] rời khỏi phòng của bạn."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/lexi/hj_2.rpy:16
 translate vietnamese lexi_hj_2_14a0b818:

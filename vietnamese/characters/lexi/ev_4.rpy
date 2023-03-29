@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lexi/ev_4.rpy:3
 translate vietnamese lexi_4_b58cf092:
@@ -259,7 +259,7 @@ translate vietnamese strings:
     # game/characters/lexi/ev_4.rpy:72
     old "I can't promise anything"
     new "Anh không thể hứa trước bất cứ điều gì"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

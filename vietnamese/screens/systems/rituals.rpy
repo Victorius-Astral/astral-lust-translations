@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-09-15 16:10
+﻿# : Translation updated at 2022-09-15 16:10
 
 # game/screens/systems/rituals.rpy:515
 translate vietnamese performRituals_failure_4c5c6eff:
@@ -309,7 +309,7 @@ translate vietnamese strings:
     # game/screens/systems/rituals.rpy:429
     old "Result:"
     new "kết quả:"
-# TODO: Translation updated at 2022-10-11 16:06
+# : Translation updated at 2022-10-11 16:06
 
 # game/screens/systems/rituals.rpy:525
 translate vietnamese performRituals_d805e427:
@@ -344,7 +344,7 @@ translate vietnamese strings:
     # game/screens/systems/rituals.rpy:19
     old "{{sanity}}Sanity ({:+}%){{/sanity}}"
     new "{{sanity}}Tỉnh táo ({:+}%){{/Tỉnh táo}}"
-# TODO: Translation updated at 2022-11-13 15:18
+# : Translation updated at 2022-11-13 15:18
 
 translate vietnamese strings:
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -209,7 +209,7 @@ translate vietnamese strings:
     # game/screens/utility/what_new.rpy:532
     old "{b}Other changes{/b}\nThere is a lot of other changes, both big and small. Many gui elements were made bigger, some new things were added, including secret event. Wallpapers & collectibles screens will load >90% faster now. A lot of issues were fixed."
     new "{b}Các thay đổi khác{/b}\nCó rất nhiều thay đổi khác, cả lớn và nhỏ. Nhiều yếu tố gui đã được làm lớn hơn, một số thứ mới đã được thêm vào, bao gồm cả sự kiện bí mật. Hình nền và màn hình sưu tầm sẽ tải nhanh hơn 90% ngay bây giờ. Rất nhiều vấn đề đã được khắc phục."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -284,7 +284,7 @@ translate vietnamese strings:
     # game/screens/utility/what_new.rpy:252
     old "Of the many changes, the most noticeable ones would be choice menus that are now on the right part of the screen (can be changed in settings), and task menu can now be disabled with 'T' key or in the settings. There was also a new arena added, and leech attacks have now new intent icon. This release fixes a lot of bugs, and hundreds of typos and grammar issues."
     new "Trong số rất nhiều thay đổi, những thay đổi đáng chú ý nhất sẽ là menu lựa chọn hiện nằm ở phần bên phải của màn hình (có thể được thay đổi trong cài đặt) và menu tác vụ hiện có thể bị vô hiệu hóa bằng phím 'T' hoặc trong cài đặt. Ngoài ra còn có một đấu trường mới được thêm vào và các cuộc tấn công đỉa giờ đã có biểu tượng ý định mới. Bản phát hành này sửa rất nhiều lỗi và hàng trăm lỗi chính tả và ngữ pháp(Không tính tiếng Việt vì bản dịch chưa được chau chuốt kỹ)."
-# TODO: Translation updated at 2022-03-11 07:54
+# : Translation updated at 2022-03-11 07:54
 
 translate vietnamese strings:
 
@@ -307,7 +307,7 @@ translate vietnamese strings:
     # game/screens/utility/what_new.rpy:234
     old "There are countless other changes - ALL animations can be toggled ON/OFF in the settings, dozens of issues were fixed, no animation support was added to all animations that didn't have it, some animations were deleted like weird looking cumming animations. End game credits were added. Hollow Market offers a lot more stock, and restock weekly. Other traders were tweaked too."
     new "Có vô số thay đổi khác - TẤT CẢ hoạt ảnh có thể được BẬT/TẮT trong cài đặt, hàng tá vấn đề đã được khắc phục, không có hỗ trợ hoạt ảnh nào được thêm vào các hoạt ảnh không có nó, một số hoạt ảnh đã bị xóa như hoạt ảnh xuất tinh trông khá kỳ lạ. dòng credit khi kết thúc trò chơi đã được thêm vào. Hollow Market cung cấp thêm rất nhiều hàng và bổ sung hàng tuần. Các thương nhân khác cũng được điều chỉnh."
-# TODO: Translation updated at 2022-04-17 12:12
+# : Translation updated at 2022-04-17 12:12
 
 translate vietnamese strings:
 
@@ -318,7 +318,7 @@ translate vietnamese strings:
     # game/screens/utility/what_new.rpy:68
     old "Click outside to close this window, it can be entered again from the pc."
     new "Nhấp vào bên ngoài để đóng cửa sổ này, bạn vẫn có thể vào lại chỗ này thông qua pc."
-# TODO: Translation updated at 2022-06-15 06:52
+# : Translation updated at 2022-06-15 06:52
 
 translate vietnamese strings:
 
@@ -369,14 +369,14 @@ translate vietnamese strings:
     # game/screens/utility/what_new.rpy:259
     old "The changelog is long as hell, there are around 30 bugs fixed, a lot of QoL changes, some suggested by the community. There are some other new mechanics like Mina can have a hangover, refuse to get into any meaningful conversation with you, and stop working on her task. Abandoned car loot was boosted significantly, first sounds to enemy attacks were added. Check the full changelog from the link below."
     new "Một cái bảng thay đổi dài như địa ngục, có khoảng 30 lỗi đã được sửa, rất nhiều thay đổi về QoL, một số do cộng đồng đề xuất. Có một số cơ chế mới khác như Mina có thể cảm thấy nôn nao, từ chối tham gia vào bất kỳ cuộc trò chuyện có ý nghĩa nào với bạn và ngừng làm nhiệm vụ của mình. Chiến lợi phẩm từ xe hơi bị bỏ hoang đã được tăng cường đáng kể, âm thanh đầu tiên cho các cuộc tấn công của kẻ thù đã được thêm vào. Kiểm tra bảng thay đổi đầy đủ từ liên kết bên dưới."
-# TODO: Translation updated at 2022-06-22 09:23
+# : Translation updated at 2022-06-22 09:23
 
 translate vietnamese strings:
 
     # game/screens/utility/what_new.rpy:216
     old "Four of them can be used during the new events, there are two consumables (and a new buff), and pouches + chests with keys used to open them. Will you get rich overnight? Scavenge or purchase them to try your luck! Try code {b}{i}NewPouches{/i}{/b} to get some reward pouches :)"
     new "Bốn trong số chúng có thể được sử dụng trong các sự kiện mới, có hai vật phẩm tiêu hao (và một buff mới), cùng những chiếc rương + rương có chìa khóa dùng để mở chúng. Bạn sẽ trở nên giàu có chỉ sau một đêm? Hãy đi kiếm hoặc mua chúng để thử vận may của bạn! Hãy thử code {b}{i}NewPouches{/i}{/b} để nhận một vài túi phần thưởng :)"
-# TODO: Translation updated at 2022-09-08 19:14
+# : Translation updated at 2022-09-08 19:14
 
 translate vietnamese strings:
 
@@ -412,7 +412,7 @@ translate vietnamese strings:
     old "The main game's font was changed! Collectibles are kept between saves. Item notifications now show the item's icon. There are many other changes, check the full changelog at the bottom for them."
     new "Phông chữ của trò chơi chính đã được thay đổi! Những bộ Sưu tập sẽ được giữ giữa các lần lưu. Thông báo vật phẩm giờ sẽ hiển thị biểu tượng của vật phẩm. Có nhiều thay đổi khác, hãy kiểm tra bảng thay đổi đầy đủ ở dưới cùng để biết thêm về chúng. "
 
-# TODO: Translation updated at 2022-10-11 16:06
+# : Translation updated at 2022-10-11 16:06
 
 translate vietnamese strings:
 
@@ -475,7 +475,7 @@ translate vietnamese strings:
     # game/screens/utility/what_new.rpy:248
     old "Most cards will now play the sound when used! Hope you like it! Click the cards below to try."
     new "Hầu hết các thẻ bây giờ sẽ phát âm thanh khi được sử dụng! Hy vọng bạn thích nó! Nhấp vào các thẻ bên dưới để thử."
-# TODO: Translation updated at 2022-11-13 15:18
+# : Translation updated at 2022-11-13 15:18
 
 translate vietnamese strings:
 

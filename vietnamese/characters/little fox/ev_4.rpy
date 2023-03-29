@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/little fox/ev_4.rpy:21
 translate vietnamese lil_fox_4_d33101fe:
@@ -197,7 +197,7 @@ translate vietnamese lil_fox_4_512cb467:
 
     # "Both of you return safely, free of interruptions, and with full pockets."
     "Cả hai bạn đều trở về an toàn, không bị làm sao và có một cái túi đầy."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/little fox/ev_4.rpy:30
 translate vietnamese lil_fox_4_80af8264:

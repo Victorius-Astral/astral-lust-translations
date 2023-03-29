@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/player/ev_2.rpy:4
 translate vietnamese main_2_25ec53a9:
@@ -124,7 +124,7 @@ translate vietnamese main_2_41af3537:
 translate vietnamese main_2_c0d13d30:
 
     # th "I need to find a way out of this!"
-    th "Tôi cần phải tìm một cách thoát khỏi điều này!"
+    th "Mình cần phải tìm một cách thoát khỏi điều này!"
 
 # game/characters/player/ev_2.rpy:34
 translate vietnamese main_2_1fcc7b82:
@@ -299,7 +299,7 @@ translate vietnamese main_2_0e11d432:
 
     # "Not saying anything more she leaves you alone. After taking a long shower you return to your room."
     "Không nói gì thêm cô ấy để bạn yên. Sau khi tắm xong bạn trở về phòng."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

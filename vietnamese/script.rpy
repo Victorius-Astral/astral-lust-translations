@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/script.rpy:41
 translate vietnamese start_3cb4f043:
@@ -671,7 +671,7 @@ translate vietnamese strings:
     # game/script.rpy:279
     old "Equipment"
     new "Trang thiết bị"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

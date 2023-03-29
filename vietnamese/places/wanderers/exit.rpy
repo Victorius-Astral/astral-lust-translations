@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/wanderers/exit.rpy:5
 translate vietnamese wanderers_exit_menu1_df3b8a27:

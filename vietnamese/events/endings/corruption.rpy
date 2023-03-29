@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/endings/corruption.rpy:12
 translate vietnamese end_corruption_3f5c8e25:
@@ -241,7 +241,7 @@ translate vietnamese strings:
     # game/events/endings/corruption.rpy:56
     old "Use [[Freedom]"
     new "Sử dụng [[Tự do]"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/events/endings/corruption.rpy:16
 translate vietnamese end_corruption_838d8644:

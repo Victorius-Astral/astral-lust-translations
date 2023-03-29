@@ -1,11 +1,11 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/hotel/grace/room.rpy:5
 translate vietnamese room_hotel_grace_d86e264b:
 
     # "It's late so you leave."
     "Muộn rồi nên bạn rời đi."
-# TODO: Translation updated at 2022-04-17 12:11
+# : Translation updated at 2022-04-17 12:11
 
 # game/places/hotel/grace/room.rpy:9
 translate vietnamese room_hotel_grace_3f723f72:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-06 08:10
+﻿# : Translation updated at 2022-02-06 08:10
 
 # game/characters/kiara/threesome_1.rpy:66
 translate vietnamese kiara_threesome_1_27d8e24f:

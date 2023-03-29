@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/little fox/speak.rpy:7
 translate vietnamese speak_lilfox_97abe656:
@@ -163,7 +163,7 @@ translate vietnamese strings:
     # game/characters/little fox/speak.rpy:77
     old "Little Cum-Stealer"
     new "Kẻ cắp tinh trùng"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/little fox/speak.rpy:21
 translate vietnamese speak_lilfox_d2d117ea:
@@ -176,7 +176,7 @@ translate vietnamese speak_lilfox_feed_int_1aa98482:
 
     # lil_fox "Hungry fox is a bad fox. So, you will have to feed me a lot."
     lil_fox "Cáo bị đói là một con cáo hư. Vì vậy nên, anh sẽ phải cho em ăn rất nhiều đấy."
-# TODO: Translation updated at 2022-08-13 15:58
+# : Translation updated at 2022-08-13 15:58
 
 translate vietnamese strings:
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-06 08:10
+﻿# : Translation updated at 2022-02-06 08:10
 
 # game/events/special/anniversary.rpy:8
 translate vietnamese anniversary_fireworks_89dae8d9:

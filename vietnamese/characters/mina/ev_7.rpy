@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/ev_7.rpy:3
 translate vietnamese mina_7_2730b35a:
@@ -465,7 +465,7 @@ translate vietnamese strings:
     # game/characters/mina/ev_7.rpy:126
     old "Reassure her"
     new "Trấn an em ấy"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

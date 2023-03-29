@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lexi/ev_10.rpy:3
 translate vietnamese lexi_10_99b0a49a:
@@ -425,7 +425,7 @@ translate vietnamese lexi_10_70dac702:
 
     # lexi "Mm."
     lexi "Mm."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/lexi/ev_10.rpy:62
 translate vietnamese lexi_10_d1abe798:

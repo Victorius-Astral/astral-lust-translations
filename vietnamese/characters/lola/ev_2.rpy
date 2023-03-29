@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lola/ev_2.rpy:3
 translate vietnamese lola_2_d01542e7:
@@ -215,7 +215,7 @@ translate vietnamese lola_2_afb436ab:
 
     # th "It was just a while.."
     th "Nó mới được một lúc..."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/lola/ev_2.rpy:21
 translate vietnamese lola_2_b9469040:

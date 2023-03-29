@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/ev_3.rpy:3
 translate vietnamese grace_3_84233d58:
@@ -199,7 +199,7 @@ translate vietnamese strings:
     # game/characters/grace/ev_3.rpy:18
     old "I'm sure she's alright"
     new "Anh nghĩ là bà ấy ổn"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

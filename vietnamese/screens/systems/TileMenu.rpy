@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-06 08:10
+﻿# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -25,7 +25,7 @@ translate vietnamese strings:
     # game/screens/systems/TileMenu.rpy:287
     old "*Click to lock the selection."
     new "*Nhấp để khóa lựa chọn."
-# TODO: Translation updated at 2022-03-05 18:23
+# : Translation updated at 2022-03-05 18:23
 
 translate vietnamese strings:
 

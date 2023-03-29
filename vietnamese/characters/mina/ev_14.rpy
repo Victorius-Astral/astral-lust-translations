@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/ev_14.rpy:4
 translate vietnamese mina_14_4a12eefb:
@@ -389,7 +389,7 @@ translate vietnamese mina_14_2e39132c:
 
     # "You leave."
     "Bạn rời đi."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/mina/ev_14.rpy:14
 translate vietnamese mina_14_a106143b:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/alice/ev_6.rpy:10
 translate vietnamese alice_6_ffe72fa7:
@@ -357,7 +357,7 @@ translate vietnamese strings:
     # game/characters/alice/ev_6.rpy:26
     old "You would make a great camgirl"
     new "Em sẽ trở thành nữ hoàng Bigo live mà"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

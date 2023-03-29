@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/savenia/ev_4.rpy:16
 translate vietnamese savenia_4_14d0c35c:
@@ -713,7 +713,7 @@ translate vietnamese strings:
     # game/characters/savenia/ev_4.rpy:52
     old "Range of Motion"
     new "Phạm vi chuyển động"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/savenia/ev_4.rpy:76
 translate vietnamese savenia_4_menu1_423d99c9:
@@ -757,7 +757,7 @@ translate vietnamese savenia_4_part2_166e7fd5:
     # me "I will come to help you with your leg every day."
     me "Tớ sẽ đến giúp chân của cậu hàng ngày."
 
-# TODO: Translation updated at 2022-02-26 15:07
+# : Translation updated at 2022-02-26 15:07
 
 # game/characters/savenia/ev_4.rpy:67
 translate vietnamese savenia_4_menu1_f3328ea7:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -225,7 +225,7 @@ translate vietnamese strings:
     # game/variables/lists/error_messages.rpy:3
     old "RandomBag object doesn't have called update() with no updates nor provided updated. \n Object: {obj} \n updates: {updates} \n {updated}"
     new "RandomBag object doesn't have called update() with no updates nor provided updated. \n Object: {obj} \n updates: {updates} \n {updated}"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

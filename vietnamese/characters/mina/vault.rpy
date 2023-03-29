@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/vault.rpy:6
 translate vietnamese mina_vault_speak_d04023c6:
@@ -223,7 +223,7 @@ translate vietnamese strings:
     # game/characters/mina/vault.rpy:98
     old "Eat you out"
     new "Thịtttt"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/mina/vault.rpy:27
 translate vietnamese mina_vault_speak_doing_here_fc457dbd:

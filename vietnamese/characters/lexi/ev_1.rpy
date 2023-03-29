@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lexi/ev_1.rpy:6
 translate vietnamese lexi_1_fd7dd882:
@@ -449,7 +449,7 @@ translate vietnamese strings:
     # game/characters/lexi/ev_1.rpy:60
     old "Run back to the hotel"
     new "Chạy về khách sạn"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

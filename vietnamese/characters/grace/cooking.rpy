@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/cooking.rpy:14
 translate vietnamese grace_cooking_811938ed:
@@ -527,7 +527,7 @@ translate vietnamese grace_cooking_end_33ff609b:
 
     # grace "See you!"
     grace "Gặp anh sau!"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/grace/cooking.rpy:42
 translate vietnamese grace_cooking_topic1_f2a95ae0:

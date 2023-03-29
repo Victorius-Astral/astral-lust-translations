@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/explore/friendly_wanderers.rpy:46
 translate vietnamese exp_friendly_wanderers_a0030e7c:
@@ -379,7 +379,7 @@ translate vietnamese strings:
     # game/events/explore/friendly_wanderers.rpy:116
     old "I changed my mind"
     new "Tôi đã đổi ý"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

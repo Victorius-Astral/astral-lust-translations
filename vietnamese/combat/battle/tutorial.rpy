@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/combat/battle/tutorial.rpy:20
 translate vietnamese tutorial_combat_b8ce5a9c:
@@ -385,7 +385,7 @@ translate vietnamese strings:
     # game/combat/battle/tutorial.rpy:356
     old "Follow the tutorial! It's not the time to end the turn yet."
     new "Làm theo hướng dẫn đi! Vẫn chưa đến lúc kết thúc lượt đâu."
-# TODO: Translation updated at 2022-02-19 01:56
+# : Translation updated at 2022-02-19 01:56
 
 translate vietnamese strings:
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/rachel/ev_7.rpy:9
 translate vietnamese rachel_7_c04e1dc2:
@@ -231,7 +231,7 @@ translate vietnamese strings:
     # game/characters/rachel/ev_7.rpy:54
     old "Ask her to undress again"
     new "Cởi lại lần nữa đi"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/rachel/ev_7.rpy:41
 translate vietnamese rachel_7_dad6c67a:

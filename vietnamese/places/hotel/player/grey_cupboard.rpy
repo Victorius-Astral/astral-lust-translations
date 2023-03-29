@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/hotel/player/grey_cupboard.rpy:14
 translate vietnamese room_player_grey_cupboard_menu1_8a19ad94:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-08-13 15:58
+﻿# : Translation updated at 2022-08-13 15:58
 
 # game/characters/little fox/explore/bandits.rpy:43
 translate vietnamese lil_fox_exp_bandits_d75693e1:
@@ -669,7 +669,7 @@ translate vietnamese strings:
     # game/characters/little fox/explore/bandits.rpy:90
     old "Try to escape {agi}(Agility){/agi}"
     new "Thử trốn thoát {agi}(Nhanh nhẹn){/agi}"
-# TODO: Translation updated at 2022-09-08 19:14
+# : Translation updated at 2022-09-08 19:14
 
 # game/characters/little fox/explore/bandits.rpy:127
 translate vietnamese lil_fox_exp_bandits_4cb844bd:

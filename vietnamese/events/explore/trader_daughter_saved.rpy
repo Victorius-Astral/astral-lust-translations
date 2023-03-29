@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/explore/trader_daughter_saved.rpy:30
 translate vietnamese chased_trader_daughter_dc719910:
@@ -401,7 +401,7 @@ translate vietnamese strings:
     # game/events/explore/trader_daughter_saved.rpy:77
     old "I will take the discount"
     new "Anh sẽ nhận giảm giá"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/events/explore/trader_daughter_saved.rpy:69
 translate vietnamese chased_trader_daughter_win_d77ecd27:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/kiara/ev_2.rpy:6
 translate vietnamese kiara_2_325a0512:

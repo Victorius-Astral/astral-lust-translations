@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/ev_5.rpy:3
 translate vietnamese grace_5_d65363e4:
@@ -316,7 +316,7 @@ translate vietnamese grace_5_2_ea30b105:
 translate vietnamese grace_5_2_e766e64d:
 
     # grace "Mommy said that I shouldn't learn about men because they all are misogynistic pigs."
-    grace "Mẹ nói rằng em không nên tìm hiểu về đàn ông bởi vì tất cả họ đều là những con lợn misogynistic."
+    grace "Mẹ nói rằng em không nên tìm hiểu về đàn ông bởi vì tất cả họ đều là những con lợn kỳ thị giới tính."
 
 # game/characters/grace/ev_5.rpy:122
 translate vietnamese grace_5_2_f3815b58:
@@ -346,7 +346,7 @@ translate vietnamese grace_5_2_4350c05b:
 translate vietnamese grace_5_2_1813409d:
 
     # grace "What does misogynistic mean?"
-    grace "Misogynistic nghĩa là gì?"
+    grace "Chính xác thì kỳ thị giới tính là như nào?"
 
 # game/characters/grace/ev_5.rpy:128
 translate vietnamese grace_5_2_3820771a_4:
@@ -358,7 +358,7 @@ translate vietnamese grace_5_2_3820771a_4:
 translate vietnamese grace_5_2_878138e0:
 
     # me "Misogynism is basically hatred or hostility toward women."
-    me "Misogynism về cơ bản là sự thù hận hoặc thù địch đối với phụ nữ và luôn nghĩ họ thượng đẳng hơn phụ nữ."
+    me "Kỳ thị giới tính về cơ bản là sự thù hận hoặc thù địch đối với phụ nữ và luôn nghĩ họ thượng đẳng hơn phụ nữ."
 
 # game/characters/grace/ev_5.rpy:131
 translate vietnamese grace_5_2_3b73ba59:
@@ -382,7 +382,7 @@ translate vietnamese grace_5_2_0de87c5b:
 translate vietnamese grace_5_2_6d5b6bdc:
 
     # th "[grace].exe stopped working."
-    th "[grace].exe stopped working."
+    th "[grace].exe đã dừng hoạt động."
 
 # game/characters/grace/ev_5.rpy:137
 translate vietnamese grace_5_2_4123bd25:
@@ -843,7 +843,7 @@ translate vietnamese strings:
     # game/characters/grace/ev_5.rpy:138
     old "Forget it. I hate you"
     new "Quên nó đi. Anh ghét em vãi lồn"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/grace/ev_5.rpy:7
 translate vietnamese grace_5_0c073ba2:

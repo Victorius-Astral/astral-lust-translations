@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/mods/Sample Mod/sample_mod.rpy:15
 translate vietnamese d_Sample_Dream_0_8cdda6e0:

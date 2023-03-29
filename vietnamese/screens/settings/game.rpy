@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -168,7 +168,7 @@ translate vietnamese strings:
     # game/screens/settings/game.rpy:148
     old "Not Set"
     new "Không được thiết lập"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -215,14 +215,14 @@ translate vietnamese strings:
     # game/screens/settings/game.rpy:137
     old "Center"
     new "Trung tâm"
-# TODO: Translation updated at 2022-02-26 15:07
+# : Translation updated at 2022-02-26 15:07
 
 translate vietnamese strings:
 
     # game/screens/settings/game.rpy:90
     old "Notifications Style"
     new "Phong cách thông báo"
-# TODO: Translation updated at 2022-03-05 18:23
+# : Translation updated at 2022-03-05 18:23
 
 translate vietnamese strings:
 
@@ -233,14 +233,14 @@ translate vietnamese strings:
     # game/screens/settings/game.rpy:95
     old "Change {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} font to {font=fonts/Brygada1918-Regular.ttf}Brigada 1918{/font} font. It can help on small screens if Fredericka becomes unreadable. Some languages force Brigada either way."
     new "Đổi Phông chữ {font=fonts/FrederickatheGreat-Regular.ttf}Fredericka{/font} sang {font=fonts/Brygada1918-Regular.ttf}Brigada 1918{/font}. Nó có thể hữu ích trên màn hình nhỏ nếu Fredericka không thể đọc được. Một số ngôn ngữ buộc Brigada theo cả hai cách."
-# TODO: Translation updated at 2022-03-11 07:54
+# : Translation updated at 2022-03-11 07:54
 
 translate vietnamese strings:
 
     # game/screens/settings/game.rpy:96
     old "*Restart required for full change"
     new "*Cần phải khởi động lại để mọi thứ được Việt hóa hoàn toàn"
-# TODO: Translation updated at 2022-08-13 15:58
+# : Translation updated at 2022-08-13 15:58
 
 translate vietnamese strings:
 

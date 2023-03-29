@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/alice/anal_1.rpy:16
 translate vietnamese alice_anal_1_4877092e:
@@ -118,7 +118,7 @@ translate vietnamese alice_anal_1_61660bd0:
 translate vietnamese alice_anal_1_eba39e74:
 
     # th "It seems she's fallen asleep."
-    th "Có vẻ như em ấy đã ngủ rồi."
+    th "Có vẻ như em ấy ngủ rồi."
 
 # game/characters/alice/anal_1.rpy:59
 translate vietnamese alice_anal_1_dd017547:

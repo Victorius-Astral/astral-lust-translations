@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/savenia/ev_2.rpy:3
 translate vietnamese savenia_2_ced88caa:
@@ -671,7 +671,7 @@ translate vietnamese savenia_2_0ed012b0:
 
     # savenia "Take care."
     savenia "Bảo trọng."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/savenia/ev_2.rpy:34
 translate vietnamese savenia_2_1824a874:

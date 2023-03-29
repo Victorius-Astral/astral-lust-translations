@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/dreams/millionaire.rpy:11
 translate vietnamese d_Millionaire_2_5dd3ff77:
@@ -407,7 +407,7 @@ translate vietnamese strings:
     # game/events/dreams/millionaire.rpy:196
     old "Will I?"
     new "Mình sẽ làm chứ?"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/events/dreams/millionaire.rpy:82
 translate vietnamese d_Millionaire_2_menu1_8004a140:

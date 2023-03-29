@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/alice/tasks.rpy:5
 translate vietnamese task_alice_combat_gear_7d013ded:
@@ -299,7 +299,7 @@ translate vietnamese task_alice_reinforce_coat_83fa7619:
 
     # alice "'Key~"
     alice "'OK~"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/alice/tasks.rpy:60
 translate vietnamese task_alice_dismantle_clothes_6047b616:

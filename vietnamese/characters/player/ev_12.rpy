@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/player/ev_12.rpy:3
 translate vietnamese main_12_b5718eae:
@@ -521,7 +521,7 @@ translate vietnamese main_12_b17b1bf2:
 
     # me "Haha.. It's so fucked up.. I.. need to rest.."
     me "Haha... Thật là toang mà... Mình ... cần phải nghỉ ngơi..."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/player/ev_12.rpy:49
 translate vietnamese main_12_3100fcf9:
@@ -576,7 +576,7 @@ translate vietnamese strings:
     # game/characters/player/ev_12.rpy:43
     old "Higher Beings should be referred to with respect, They should be described as He/She/It, using he/she/it is considered lack of respect and thus dangerous."
     new "Những thực thể nên được gọi với sự tôn trọng, Họ nên được mô tả là Ngài/Anh ấy/Cô ấy/Nó, sử dụng anh ấy/cô ấy/nó được coi là thiếu tôn trọng và sẽ tự gây nguy hiểm cho bản thân."
-# TODO: Translation updated at 2022-08-13 15:58
+# : Translation updated at 2022-08-13 15:58
 
 # game/characters/player/ev_12.rpy:64
 translate vietnamese main_12_753c1237:
@@ -595,7 +595,7 @@ translate vietnamese main_12_ccb68647:
 
     # me "I wouldn't be able to resist.. Why did You change Your mind?"
     me "Tao sẽ không thể chống lại... Tại sao mày lại thay đổi quyết định?"
-# TODO: Translation updated at 2022-09-15 16:10
+# : Translation updated at 2022-09-15 16:10
 
 # game/characters/player/ev_12.rpy:114
 translate vietnamese main_12_08849d23:

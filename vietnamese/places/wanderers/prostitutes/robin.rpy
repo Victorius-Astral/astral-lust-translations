@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/wanderers/prostitutes/robin.rpy:38
 translate vietnamese w_booth_robin_5d695e8c:
@@ -1104,7 +1104,7 @@ translate vietnamese strings:
     old "Wall"
     new "Tường"
 
-# TODO: Translation updated at 2022-02-16 09:38
+# : Translation updated at 2022-02-16 09:38
 
 translate vietnamese strings:
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/alice/fj_1.rpy:31
 translate vietnamese alice_fj_1_cb3c1550:

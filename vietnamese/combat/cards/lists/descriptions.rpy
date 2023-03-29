@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -285,7 +285,7 @@ translate vietnamese strings:
     # game/combat/cards/lists/descriptions.rpy:1
     old "Stop corruption and madness from increasing."
     new "Không cho tha hóa và điên loạn tăng lên."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

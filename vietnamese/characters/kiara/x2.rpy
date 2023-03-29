@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/kiara/x2.rpy:21
 translate vietnamese kiara_x2_9392e68d:
@@ -485,14 +485,14 @@ translate vietnamese kiara_x2_cum_41bd298d:
 
     # kiara "I know, come back when you're horny. I'll be happy to have sex again."
     kiara "Tôi biết, hãy quay lại khi anh đang nứng. Tôi sẽ rất vui khi được làm tình một lần nữa."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/kiara/x2.rpy:22
 translate vietnamese kiara_x2_e3c59672:
 
     # me "Holy.. Am I in the heavens?"
     me "Vãi... mình đang ở trên thiên đường sao?"
-# TODO: Translation updated at 2022-02-26 15:07
+# : Translation updated at 2022-02-26 15:07
 
 # game/characters/kiara/x2.rpy:37
 translate vietnamese kiara_x2_slow1_3c5545e9:

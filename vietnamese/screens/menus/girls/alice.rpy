@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -97,14 +97,14 @@ translate vietnamese strings:
     # game/screens/menus/girls/alice.rpy:55
     old "• Came outside: "
     new "• Ra bên ngoài: "
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
     # game/screens/menus/girls/alice.rpy:22
     old "Nicknames: Al"
     new "Biệt danh: Al"
-# TODO: Translation updated at 2022-06-10 08:06
+# : Translation updated at 2022-06-10 08:06
 
 translate vietnamese strings:
 
