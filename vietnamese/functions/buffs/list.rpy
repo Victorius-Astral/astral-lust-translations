@@ -153,3 +153,11 @@ translate vietnamese strings:
     # game/functions/buffs/list.rpy:38
     old "Your spirit is filled with rituals' remnant spirituality. If the stack is 4 or more during sleep, it'll turn into {ef}Spiritual Taint{/ef}, making you unable to perform rituals for x days. If the stack is maximum, each next ritual will damage your sanity by 10% + 10% for each next ritual. Sleep decreases stack by 1."
     new "Tinh thần của bạn tràn ngập năng lượng tâm linh còn sót lại của nghi lễ. Nếu có 4 cộng dồn hoặc nhiều hơn trong khi ngủ, nó sẽ chuyển thành {ef}Vết rách tâm linh{/ef}, khiến bạn không thể thực hiện nghi lễ trong x ngày. Nếu cộng dồn đạt tối đa, mỗi nghi thức tiếp theo sẽ làm tổn hại đến sự tỉnh táo của bạn 10% + 10% cho mỗi nghi thức tiếp theo. Ngủ giảm cộng dồn đi 1."
+# TODO: Translation updated at 2023-04-11 07:48
+
+translate vietnamese strings:
+
+    # game/functions/buffs/list.rpy:38
+    old "Your mind is heavy, your thoughts slugish. The actions you'll be able to perform in battle will be less. This effect is decreased by resting and is removed when sleeping."
+    new "Your mind is heavy, your thoughts slugish. The actions you'll be able to perform in battle will be less. This effect is decreased by resting and is removed when sleeping."
+

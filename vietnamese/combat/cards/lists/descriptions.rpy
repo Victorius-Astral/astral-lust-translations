@@ -328,3 +328,23 @@ translate vietnamese strings:
     # game/combat/cards/lists/descriptions.rpy:1
     old "{{cor}}Corruption {amount:+}%.{{/cor}}"
     new "{{cor}}Sa đọa {amount:+}%.{{/cor}}"
+# TODO: Translation updated at 2023-04-11 07:48
+
+translate vietnamese strings:
+
+    # game/combat/cards/lists/descriptions.rpy:1
+    old "Gain {effects}."
+    new "Gain {effects}."
+
+    # game/combat/cards/lists/descriptions.rpy:1
+    old "Decrease {effects}."
+    new "Decrease {effects}."
+
+    # game/combat/cards/lists/descriptions.rpy:1
+    old "Inflict {effects}."
+    new "Inflict {effects}."
+
+    # game/combat/cards/lists/descriptions.rpy:1
+    old "Descrease target's {effects}."
+    new "Descrease target's {effects}."
+

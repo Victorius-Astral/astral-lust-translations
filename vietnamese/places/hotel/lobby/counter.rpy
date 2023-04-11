@@ -423,3 +423,23 @@ translate vietnamese strings:
     # game/places/hotel/lobby/counter.rpy:128
     old "Vault T8 (40 Stone, 40 Metal, 5 Gold Nugget, 3 Gold Bar, 3 Diamond, 2 Orcish Steel)"
     new "Kho chứa T8 (40 Đá, 40 Sắt, 5 Vàng miếng, 3 Thỏi vàng, 3 kim cương, 2 Thép Orcish)"
+# TODO: Translation updated at 2023-04-11 07:48
+
+# game/places/hotel/lobby/counter.rpy:311
+translate vietnamese room_lobby_counter_873b9e9f_12:
+
+    # "It's too late."
+    "It's too late."
+
+# game/places/hotel/lobby/counter.rpy:328
+translate vietnamese room_lobby_counter_3688fcdf_12:
+
+    # "Insufficient materials!"
+    "Insufficient materials!"
+
+translate vietnamese strings:
+
+    # game/places/hotel/lobby/counter.rpy:5
+    old "Build next floor (30 Stone, 15 Wood, 15 Metal)"
+    new "Build next floor (30 Stone, 15 Wood, 15 Metal)"
+

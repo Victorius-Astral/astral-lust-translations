@@ -99,3 +99,41 @@ translate vietnamese strings:
     # game/places/hotel/lobby/door.rpy:54
     old "Succubus Hunt"
     new "săn Succubus"
+# TODO: Translation updated at 2023-04-11 07:48
+
+# game/places/hotel/lobby/door.rpy:26
+translate vietnamese room_lobby_door_menu1_2a7c717b:
+
+    # th "I should wait for the day before going out. It's too dangerous now."
+    th "I should wait for the day before going out. It's too dangerous now."
+
+# game/places/hotel/lobby/door.rpy:47
+translate vietnamese room_lobby_door_menu1_0c2fbd36:
+
+    # th "No, it's waiting for it. I would be at the disadvantage."
+    th "No, it's waiting for it. I would be at the disadvantage."
+
+# game/places/hotel/lobby/door.rpy:50
+translate vietnamese room_lobby_door_menu1_89ba71df:
+
+    # th "Going after monsters at night doesn't seem like a good idea."
+    th "Going after monsters at night doesn't seem like a good idea."
+
+# game/places/hotel/lobby/door.rpy:100
+translate vietnamese room_lobby_door_explore_2a7c717b:
+
+    # th "I should wait for the day before going out. It's too dangerous now."
+    th "I should wait for the day before going out. It's too dangerous now."
+
+# game/places/hotel/lobby/door.rpy:121
+translate vietnamese room_lobby_door_wanderers_2a7c717b:
+
+    # th "I should wait for the day before going out. It's too dangerous now."
+    th "I should wait for the day before going out. It's too dangerous now."
+
+translate vietnamese strings:
+
+    # game/places/hotel/lobby/door.rpy:22
+    old "Take a look outside"
+    new "Take a look outside"
+

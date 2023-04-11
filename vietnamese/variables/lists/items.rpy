@@ -138,3 +138,19 @@ translate vietnamese strings:
     # game/variables/lists/items.rpy:239
     old "You made a pact with 'Him'. You are to return before 'His' unholy visage."
     new "Bạn đã giao ước với 'Ngài'. Bạn sẽ trở lại trước tầm nhìn báng bổ của'Ngài'."
+# TODO: Translation updated at 2023-04-11 07:48
+
+translate vietnamese strings:
+
+    # game/variables/lists/items.rpy:181
+    old "Food"
+    new "Food"
+
+    # game/variables/lists/items.rpy:210
+    old "A small ounce of hapiness."
+    new "A small ounce of hapiness."
+
+    # game/variables/lists/items.rpy:210
+    old "Recover {sanity} sanity."
+    new "Recover {sanity} sanity."
+

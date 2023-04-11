@@ -1150,3 +1150,11 @@ translate vietnamese strings:
     # game/characters/alice/nun.rpy:364
     old "I prefer what's in between"
     new "Anh thích thứ ở giữa hơn"
+# TODO: Translation updated at 2023-04-11 07:48
+
+# game/characters/alice/nun.rpy:459
+translate vietnamese alice_nun_footjob2_d4c720a0:
+
+    # me "Thanks. You're the best."
+    me "Thanks. You're the best."
+

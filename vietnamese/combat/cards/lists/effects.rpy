@@ -309,3 +309,15 @@ translate vietnamese strings:
     # game/combat/cards/lists/effects.rpy:64
     old "Each attack inflicts {}x {}, and {}x {}."
     new "Mỗi đòn đánh kèm theo {}x {}, và {}x {}."
+# TODO: Translation updated at 2023-04-11 07:48
+
+translate vietnamese strings:
+
+    # game/combat/cards/lists/effects.rpy:16
+    old "Tired"
+    new "Tired"
+
+    # game/combat/cards/lists/effects.rpy:16
+    old "Spirituality decreased by 1."
+    new "Spirituality decreased by 1."
+

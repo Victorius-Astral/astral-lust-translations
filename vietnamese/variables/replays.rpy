@@ -1809,3 +1809,215 @@ translate vietnamese strings:
     # game/variables/replays.rpy:721
     old "SUCCUBUS B ([succubB.name])"
     new "SUCCUBUS B ([succubB.name])"
+# TODO: Translation updated at 2023-04-11 07:48
+
+translate vietnamese strings:
+
+    # game/variables/replays.rpy:665
+    old "TRADERS"
+    new "TRADERS"
+
+    # game/variables/replays.rpy:665
+    old "Meet - Alex"
+    new "Meet - Alex"
+
+    # game/variables/replays.rpy:665
+    old "Meet a petite middleman seeling other's harvest for the first time."
+    new "Meet a petite middleman seeling other's harvest for the first time."
+
+    # game/variables/replays.rpy:665
+    old "Meet - Cook"
+    new "Meet - Cook"
+
+    # game/variables/replays.rpy:665
+    old "Meet the local cook for the first time."
+    new "Meet the local cook for the first time."
+
+    # game/variables/replays.rpy:665
+    old "Meet - Hunter"
+    new "Meet - Hunter"
+
+    # game/variables/replays.rpy:665
+    old "Meet the cult's deserter for the first time."
+    new "Meet the cult's deserter for the first time."
+
+    # game/variables/replays.rpy:665
+    old "Quickie - Alex"
+    new "Quickie - Alex"
+
+    # game/variables/replays.rpy:665
+    old "Manage to obtain Alex affection."
+    new "Manage to obtain Alex affection."
+
+    # game/variables/replays.rpy:665
+    old "Sex - Alex"
+    new "Sex - Alex"
+
+    # game/variables/replays.rpy:665
+    old "Sleepover - Alex"
+    new "Sleepover - Alex"
+
+    # game/variables/replays.rpy:665
+    old "Stay the night at Alex place."
+    new "Stay the night at Alex place."
+
+    # game/variables/replays.rpy:665
+    old "MISCELLANEOUS"
+    new "MISCELLANEOUS"
+
+    # game/variables/replays.rpy:665
+    old "Chat - Beggar 1"
+    new "Chat - Beggar 1"
+
+    # game/variables/replays.rpy:665
+    old "Speak with the beggar."
+    new "Speak with the beggar."
+
+    # game/variables/replays.rpy:665
+    old "Chat - Cook Daughter"
+    new "Chat - Cook Daughter"
+
+    # game/variables/replays.rpy:665
+    old "Speak with the girl."
+    new "Speak with the girl."
+
+    # game/variables/replays.rpy:665
+    old "Chat - Cook Son"
+    new "Chat - Cook Son"
+
+    # game/variables/replays.rpy:665
+    old "Speak with the boy."
+    new "Speak with the boy."
+
+    # game/variables/replays.rpy:665
+    old "Chat - Soldier 1"
+    new "Chat - Soldier 1"
+
+    # game/variables/replays.rpy:665
+    old "Speak with the guard."
+    new "Speak with the guard."
+
+    # game/variables/replays.rpy:665
+    old "Chat - Soldier 2"
+    new "Chat - Soldier 2"
+
+    # game/variables/replays.rpy:665
+    old "Chat - Soldier 2 (night)"
+    new "Chat - Soldier 2 (night)"
+
+    # game/variables/replays.rpy:665
+    old "Speak with the guard on the night duty."
+    new "Speak with the guard on the night duty."
+
+    # game/variables/replays.rpy:665
+    old "Chat - Soldier 3"
+    new "Chat - Soldier 3"
+
+    # game/variables/replays.rpy:665
+    old "Chat - Soldier 3 (night)"
+    new "Chat - Soldier 3 (night)"
+
+    # game/variables/replays.rpy:665
+    old "Chat - Soldier 4"
+    new "Chat - Soldier 4"
+
+    # game/variables/replays.rpy:665
+    old "Shady Business 1"
+    new "Shady Business 1"
+
+    # game/variables/replays.rpy:665
+    old "Overhear about the suspicious deal with scavengers."
+    new "Overhear about the suspicious deal with scavengers."
+
+    # game/variables/replays.rpy:665
+    old "Shady Business 2"
+    new "Shady Business 2"
+
+    # game/variables/replays.rpy:665
+    old "Shady Business 3"
+    new "Shady Business 3"
+
+    # game/variables/replays.rpy:715
+    old "Door - Aharon"
+    new "Door - Aharon"
+
+    # game/variables/replays.rpy:715
+    old "Check the entrance door at night."
+    new "Check the entrance door at night."
+
+    # game/variables/replays.rpy:715
+    old "Door - Monster Disappearance"
+    new "Door - Monster Disappearance"
+
+    # game/variables/replays.rpy:715
+    old "Make sure the unwated observer at night didn't enter."
+    new "Make sure the unwated observer at night didn't enter."
+
+    # game/variables/replays.rpy:715
+    old "Door - Monster"
+    new "Door - Monster"
+
+    # game/variables/replays.rpy:715
+    old "Door - Mother"
+    new "Door - Mother"
+
+    # game/variables/replays.rpy:715
+    old "Door - Peace (Day)"
+    new "Door - Peace (Day)"
+
+    # game/variables/replays.rpy:715
+    old "Check the entrance door during the day."
+    new "Check the entrance door during the day."
+
+    # game/variables/replays.rpy:715
+    old "Door - Peace (Night)"
+    new "Door - Peace (Night)"
+
+    # game/variables/replays.rpy:715
+    old "Door - Stickman"
+    new "Door - Stickman"
+
+    # game/variables/replays.rpy:729
+    old "Kiss Grace goodnight on the evening in her room. {mad}DO NOT STOP!!{/mad}"
+    new "Kiss Grace goodnight on the evening in her room. {mad}DO NOT STOP!!{/mad}"
+
+    # game/variables/replays.rpy:729
+    old "Die and get influenced till you are yourself no more."
+    new "Die and get influenced till you are yourself no more."
+
+    # game/variables/replays.rpy:729
+    old "Get totally corrupted."
+    new "Get totally corrupted."
+
+    # game/variables/replays.rpy:729
+    old "Lose all your sanity."
+    new "Lose all your sanity."
+
+    # game/variables/replays.rpy:729
+    old "Get to the bottom of the supernatural case involving the wardrobe in your room."
+    new "Get to the bottom of the supernatural case involving the wardrobe in your room."
+
+    # game/variables/replays.rpy:729
+    old "The Night"
+    new "The Night"
+
+    # game/variables/replays.rpy:729
+    old "Defeat a boss available to {gold}Veteran{/gold} Discord server's users."
+    new "Defeat a boss available to {gold}Veteran{/gold} Discord server's users."
+
+    # game/variables/replays.rpy:729
+    old "Sleep between 19th December & 6th January. (Max one event each {b}real{/b} day)"
+    new "Sleep between 19th December & 6th January. (Max one event each {b}real{/b} day)"
+
+    # game/variables/replays.rpy:774
+    old "Meet her when exploring the city."
+    new "Meet her when exploring the city."
+
+    # game/variables/replays.rpy:774
+    old "Explore together with her."
+    new "Explore together with her."
+
+    # game/variables/replays.rpy:800
+    old "Meet her while exploring the city. (Rachel {love}affection{/love} 7+)"
+    new "Meet her while exploring the city. (Rachel {love}affection{/love} 7+)"
+
