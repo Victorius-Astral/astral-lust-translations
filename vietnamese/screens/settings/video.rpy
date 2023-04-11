@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -73,7 +73,7 @@ translate vietnamese strings:
     # game/screens/settings/video.rpy:74
     old "\nNeeds restart."
     new "\nCần khởi động lại."
-# TODO: Translation updated at 2022-05-11 01:55
+# : Translation updated at 2022-05-11 01:55
 
 translate vietnamese strings:
 

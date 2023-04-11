@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-06-15 06:52
+﻿# : Translation updated at 2022-06-15 06:52
 
 # game/characters/alice/nun.rpy:5
 translate vietnamese alice_nun_7b9c5077:
@@ -95,7 +95,7 @@ translate vietnamese strings:
     # game/characters/alice/nun.rpy:45
     old "Later"
     new "Để sau đi"
-# TODO: Translation updated at 2022-08-13 15:58
+# : Translation updated at 2022-08-13 15:58
 
 # game/characters/alice/nun.rpy:77
 translate vietnamese alice_nun_sex_328998ba:

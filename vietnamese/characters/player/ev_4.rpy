@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/player/ev_4.rpy:5
 translate vietnamese main_4_6ec07289:
@@ -811,7 +811,7 @@ translate vietnamese strings:
     # game/characters/player/ev_4.rpy:78
     old "Have you ever heard of Throdog R'luhhor?"
     new "Cô đã bao giờ nghe đến Throdog R'luhhor chưa?"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -854,7 +854,7 @@ translate vietnamese strings:
     # game/characters/player/ev_4.rpy:195
     old "The mere mention of Throdog R'luhhor caused her to drown in terror and throw me out immediately."
     new "Chỉ cần nhắc đến Throdog R'luhhor đã khiến cô ấy chết chìm trong nỗi kinh hoàng và ném tôi ra ngoài ngay lập tức."
-# TODO: Translation updated at 2022-04-17 12:12
+# : Translation updated at 2022-04-17 12:12
 
 translate vietnamese strings:
 

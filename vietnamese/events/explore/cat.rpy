@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/explore/cat.rpy:11
 translate vietnamese explore_cat_eab766c3:
@@ -363,7 +363,7 @@ translate vietnamese strings:
     # game/events/explore/cat.rpy:126
     old "I named it [cat]."
     new "Anh đã đặt tên cho nó là [cat]."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

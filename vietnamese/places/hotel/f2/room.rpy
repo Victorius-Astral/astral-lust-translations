@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/hotel/f2/room.rpy:29
 translate vietnamese room_hotel_f2_873b9e9f:

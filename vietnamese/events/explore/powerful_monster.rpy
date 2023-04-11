@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/explore/powerful_monster.rpy:11
 translate vietnamese exp_powerful_monster_88503fa4:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-08-13 15:58
+﻿# : Translation updated at 2022-08-13 15:58
 
 translate vietnamese strings:
 
@@ -29,7 +29,7 @@ translate vietnamese strings:
     # game/screens/gui/web.rpy:109
     old "Checking for updates.."
     new "Kiểm tra các bản cập nhật..."
-# TODO: Translation updated at 2022-09-08 19:14
+# : Translation updated at 2022-09-08 19:14
 
 translate vietnamese strings:
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/sleep.rpy:6
 translate vietnamese sleep_grace_758caa3e:
@@ -223,7 +223,7 @@ translate vietnamese strings:
     # game/characters/grace/sleep.rpy:12
     old "Touch her boobs"
     new "Chạm vào ngực em ấy"
-# TODO: Translation updated at 2022-04-17 12:11
+# : Translation updated at 2022-04-17 12:11
 
 # game/characters/grace/sleep.rpy:20
 translate vietnamese sleep_grace_menu_start_2421422e:
@@ -1553,7 +1553,7 @@ translate vietnamese strings:
     old "Ask her to change [[{cha}Charisma{/cha}] {#visible}"
     new "Yêu cầu em ấy thay đồ [[{cha}Sức Thu Hút{/cha}] {#visible}"
 
-# TODO: Translation updated at 2022-05-11 01:55
+# : Translation updated at 2022-05-11 01:55
 
 # game/characters/grace/sleep.rpy:509
 translate vietnamese sleep_grace_feet_wakeup_success_dfd3e757:
@@ -1608,7 +1608,7 @@ translate vietnamese sleep_grace_feet_wakeup_success2_1547105b:
 
     # me "I wiped it already, though."
     me "Tuy nhiên mình lại lau hết đi rồi."
-# TODO: Translation updated at 2022-06-10 08:06
+# : Translation updated at 2022-06-10 08:06
 
 translate vietnamese strings:
 

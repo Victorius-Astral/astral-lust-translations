@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -17,7 +17,7 @@ translate vietnamese strings:
     # game/functions/create.rpy:206
     old "Table level insufficient!"
     new "Cấp độ bàn không đủ!"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

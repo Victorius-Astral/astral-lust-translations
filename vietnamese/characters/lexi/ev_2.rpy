@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lexi/ev_2.rpy:3
 translate vietnamese lexi_2_fa3b34bd:
@@ -443,7 +443,7 @@ translate vietnamese strings:
     # game/characters/lexi/ev_2.rpy:84
     old "I'll take care of her if something happens"
     new "Anh sẽ chăm sóc em ấy nếu có chuyện gì xảy ra"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

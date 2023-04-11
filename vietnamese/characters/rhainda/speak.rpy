@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-06 08:10
+﻿# : Translation updated at 2022-02-06 08:10
 
 # game/characters/rhainda/speak.rpy:6
 translate vietnamese speak_rhainda_2e019f5a:
@@ -427,7 +427,7 @@ translate vietnamese strings:
     # game/characters/rhainda/speak.rpy:54
     old "Why do you hate ducks?"
     new "Tại sao em ghét vịt?"
-# TODO: Translation updated at 2022-04-17 12:11
+# : Translation updated at 2022-04-17 12:11
 
 # game/characters/rhainda/speak.rpy:15
 translate vietnamese speak_rhainda_296c0868:
@@ -530,7 +530,7 @@ translate vietnamese speak_rhainda_3820771a_2:
 
     # me "..."
     me "..."
-# TODO: Translation updated at 2022-06-10 08:06
+# : Translation updated at 2022-06-10 08:06
 
 translate vietnamese strings:
 

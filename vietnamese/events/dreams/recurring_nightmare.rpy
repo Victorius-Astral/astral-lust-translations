@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/dreams/recurring_nightmare.rpy:58
 translate vietnamese d_Recurring_Nightmare_1_part2_97b5882d:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/ev_8.rpy:12
 translate vietnamese mina_8_16cf47a5:
@@ -705,7 +705,7 @@ translate vietnamese strings:
     # game/characters/mina/ev_8.rpy:218
     old "Promise"
     new "Hứa"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

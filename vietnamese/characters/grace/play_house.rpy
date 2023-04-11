@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/play_house.rpy:8
 translate vietnamese grace_play_house_7776fda0:
@@ -1389,7 +1389,7 @@ translate vietnamese strings:
     # game/characters/grace/play_house.rpy:264
     old "A mother is 21 years older than her child. In 6 years the child will be 5 times younger than mother. Where is the father?"
     new "Mẹ hơn con 21 tuổi. 6 năm nữa con sẽ nhỏ hơn mẹ 5 lần. Hỏi cha ở đâu?"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/grace/play_house.rpy:21
 translate vietnamese grace_play_house_eaff2be8:
@@ -1474,7 +1474,7 @@ translate vietnamese grace_play_house_part2_a3876481:
 
     # grace "I'm not a cow. I don't like cows. They are scary."
     grace "Em không phải là một con bò. Em không thích bò. Chúng thật đáng sợ."
-# TODO: Translation updated at 2022-08-13 15:58
+# : Translation updated at 2022-08-13 15:58
 
 translate vietnamese strings:
 

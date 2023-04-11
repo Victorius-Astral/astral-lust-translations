@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/player/ev_6.rpy:4
 translate vietnamese main_6_6ec07289:
@@ -347,7 +347,7 @@ translate vietnamese strings:
     # game/characters/player/ev_6.rpy:93
     old "During the night, shadows come alive in the fogs of Asthar. They corrupt and distort everything, even prayers."
     new "Trong màn đêm, bóng tối trở nên sống dậy trong sương mù của Asthar. Chúng làm tha hóa và bóp méo mọi thứ, ngay cả những lời cầu nguyện."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

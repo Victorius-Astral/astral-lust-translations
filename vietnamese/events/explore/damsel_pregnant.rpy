@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/explore/damsel_pregnant.rpy:46
 translate vietnamese damsel_pregnant_ec9da1eb:
@@ -479,7 +479,7 @@ translate vietnamese strings:
     # game/events/explore/damsel_pregnant.rpy:148
     old "Buy her 'services' with goods"
     new "Mua 'dịch vụ' của cô ấy bằng hàng hóa"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/events/explore/damsel_pregnant.rpy:97
 translate vietnamese damsel_pregnant_4616e46a:

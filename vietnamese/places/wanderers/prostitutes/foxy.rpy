@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/wanderers/prostitutes/foxy.rpy:27
 translate vietnamese w_booth_foxy_4261b2ea:

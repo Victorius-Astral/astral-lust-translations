@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/ev_1.rpy:6
 translate vietnamese mina_1_12cdbd09:
@@ -397,14 +397,14 @@ translate vietnamese strings:
     # game/characters/mina/ev_1.rpy:76
     old "She is great"
     new "Cô ấy rất tuyệt"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
     # game/characters/mina/ev_1.rpy:64
     old "She seems to believe I'm courting Lexi. This thought makes her excited."
     new "Cô ấy có vẻ tin rằng tôi đang tán tỉnh Lexi. Suy nghĩ này khiến cô ấy thích thú."
-# TODO: Translation updated at 2022-04-17 12:11
+# : Translation updated at 2022-04-17 12:11
 
 # game/characters/mina/ev_1.rpy:18
 translate vietnamese mina_1_e8898be8:
@@ -412,7 +412,7 @@ translate vietnamese mina_1_e8898be8:
     # mina "I feel curious about the first man that my sis brought home."
     mina "Em cảm thấy tò mò về người đàn ông đầu tiên chị em đem về thôi."
 
-# TODO: Translation updated at 2022-05-11 01:55
+# : Translation updated at 2022-05-11 01:55
 
 # game/characters/mina/ev_1.rpy:20
 translate vietnamese mina_1_ab1909c4:

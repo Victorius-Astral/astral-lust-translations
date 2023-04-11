@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/tj_1.rpy:22
 translate vietnamese mina_tj_1_dcd97c6e:
@@ -185,7 +185,7 @@ translate vietnamese mina_tj_1_de0b4b41:
 
     # me "Time to go."
     me "Đến lúc phải đi rồi."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/mina/tj_1.rpy:32
 translate vietnamese mina_tj_1_415e94a2:

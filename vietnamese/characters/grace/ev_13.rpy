@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-05-11 01:55
+﻿# : Translation updated at 2022-05-11 01:55
 
 # game/characters/grace/ev_13.rpy:38
 translate vietnamese grace_13_e8b58ef3:
@@ -4452,7 +4452,7 @@ translate vietnamese strings:
     old ", and "
     new ", và "
 
-# TODO: Translation updated at 2022-06-22 09:23
+# : Translation updated at 2022-06-22 09:23
 
 # game/characters/grace/ev_13.rpy:61
 translate vietnamese grace_13_c3120170:

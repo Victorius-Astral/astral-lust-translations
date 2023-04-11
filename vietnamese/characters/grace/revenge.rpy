@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-05-11 01:55
+﻿# : Translation updated at 2022-05-11 01:55
 
 # game/characters/grace/revenge.rpy:7
 translate vietnamese grace_revenge_0bc79f92:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/mass_1.rpy:18
 translate vietnamese grace_mass1_d5a5a329:
@@ -119,7 +119,7 @@ translate vietnamese grace_mass1_186200ff:
 
     # "As [grace] giggles to herself, you wonder if she could perhaps be a nympho deep down."
     "Khi [grace] cười khúc khích với chính mình, bạn tự hỏi liệu cô ấy có thể là một dâm nữ trong sâu thẳm không."
-# TODO: Translation updated at 2022-02-26 15:07
+# : Translation updated at 2022-02-26 15:07
 
 # game/characters/grace/mass_1.rpy:34
 translate vietnamese grace_mass1_951eca52:

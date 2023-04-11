@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/little fox/bj_1.rpy:38
 translate vietnamese lil_fox_bj_1_0aa1d8b8:
@@ -209,7 +209,7 @@ translate vietnamese lil_fox_bj_1_cum_61bfa6df:
 
     # me "Sleep tight."
     me "Ngủ ngon."
-# TODO: Translation updated at 2022-11-13 15:18
+# : Translation updated at 2022-11-13 15:18
 
 translate vietnamese strings:
 

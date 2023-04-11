@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/dreams/deal_with_the_devil.rpy:23
 translate vietnamese d_Deal_with_the_Devil_3_d94f51a6:
@@ -206,14 +206,14 @@ translate vietnamese strings:
     old "I won't take your offer"
     new "Ta sẽ không nhận lời đề nghị của ngươi"
 
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
     # game/events/dreams/deal_with_the_devil.rpy:95
     old "[[Sanity will become 1%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
     new "[[Độ tỉnh táo sẽ còn 1%, bạn sẽ mất tất cả các thẻ của mình. Ảnh hưởng của Eldritch sẽ yếu đi 4 điểm. Ảnh hưởng: [player.author_influence]/10]"
-# TODO: Translation updated at 2022-04-17 12:12
+# : Translation updated at 2022-04-17 12:12
 
 translate vietnamese strings:
 
@@ -228,7 +228,7 @@ translate vietnamese strings:
     # game/events/dreams/deal_with_the_devil.rpy:91
     old "[[Sanity will become 1%%, you'll lose all your cards. Eldritch influence will weaken by 4 points. Influence: [player.author_influence]/10]"
     new "[[Độ tỉnh táo sẽ chỉ còn 1%%, bạn sẽ mất tất cả các thẻ của mình. Ảnh hưởng của Eldritch sẽ yếu đi 4 điểm. Ảnh hưởng: [author_influence]/10]"
-# TODO: Translation updated at 2022-09-15 16:10
+# : Translation updated at 2022-09-15 16:10
 
 # game/events/dreams/deal_with_the_devil.rpy:110
 translate vietnamese d_Deal_with_the_Devil_3_menu1_75df7159:

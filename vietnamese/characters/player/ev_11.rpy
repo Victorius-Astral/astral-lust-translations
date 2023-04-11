@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/player/ev_11.rpy:4
 translate vietnamese main_11_c0147db6:
@@ -437,7 +437,7 @@ translate vietnamese main_11_ab92d0c8:
 
     # kiara "Now, I'll send you back. I need to rest for a while."
     kiara "Bây giờ, tôi sẽ gửi anh về. Tôi cần nghỉ ngơi một lúc."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/player/ev_11.rpy:68
 translate vietnamese main_11_968c1d3d:
@@ -456,7 +456,7 @@ translate vietnamese main_11_8f38a483:
 
     # kiara "I can't help you now, I'm currently in an unstable state. If I try to help you now, I'll lose control on the spot."
     kiara "Tôi không thể giúp gì cho anh bây giờ, tôi hiện đang trong tình trạng không ổn định. Nếu tôi cố gắng giúp anh, tôi sẽ mất kiểm soát ngay lập tức."
-# TODO: Translation updated at 2022-11-13 15:18
+# : Translation updated at 2022-11-13 15:18
 
 # game/characters/player/ev_11.rpy:95
 translate vietnamese main_11_af80b51f:

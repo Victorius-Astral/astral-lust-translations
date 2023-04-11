@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/alice/ev_7.rpy:10
 translate vietnamese alice_7_cf77ba87:
@@ -617,7 +617,7 @@ translate vietnamese strings:
     # game/characters/alice/ev_7.rpy:116
     old "Not for free"
     new "Không miễn phí đâu"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -661,7 +661,7 @@ translate vietnamese strings:
     old "help me"
     new "hentaiz.net"
 
-# TODO: Translation updated at 2022-02-06 09:10
+# : Translation updated at 2022-02-06 09:10
 
 translate vietnamese strings:
 
@@ -673,7 +673,7 @@ translate vietnamese strings:
     old "Repeat: Help me."
     new "Nói: hentaiz.net."
 
-# TODO: Translation updated at 2022-02-06 09:15
+# : Translation updated at 2022-02-06 09:15
 
 translate vietnamese strings:
 
@@ -705,7 +705,7 @@ translate vietnamese strings:
     old "What year had World War II began?"
     new "Chiến tranh thế giới thứ hai bắt đầu vào năm nào?"
 
-# TODO: Translation updated at 2022-02-06 09:30
+# : Translation updated at 2022-02-06 09:30
 
 translate vietnamese strings:
 

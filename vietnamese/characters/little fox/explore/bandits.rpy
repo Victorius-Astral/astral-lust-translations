@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-08-13 15:58
+﻿# : Translation updated at 2022-08-13 15:58
 
 # game/characters/little fox/explore/bandits.rpy:43
 translate vietnamese lil_fox_exp_bandits_d75693e1:
@@ -28,7 +28,7 @@ translate vietnamese lil_fox_exp_bandits_c585daae:
 translate vietnamese lil_fox_exp_bandits_2bfc3b88:
 
     # bandit_captain "What the fuck is this hot girl with a tail and fox ears?"
-    bandit_captain "Cái đéo gì vậy đó có phải là một gái alime nóng bỏng với cái đuôi và đôi tai cáo không?"
+    bandit_captain "Cái đéo gì vậy đó có phải là một em gái alimi nóng bỏng với cái đuôi và đôi tai cáo không?"
 
 # game/characters/little fox/explore/bandits.rpy:54
 translate vietnamese lil_fox_exp_bandits_03dbc1c5:
@@ -88,7 +88,7 @@ translate vietnamese lil_fox_exp_bandits_2dab48ee:
 translate vietnamese lil_fox_exp_bandits_4f6a9260:
 
     # me "Fuck off, man. Go, take care of your own shit, and we'll do the same."
-    me "Chết tiệt, anh bạn. Đi đi, đi mà lo việc của mình đi, và bọn tôi cũng sẽ làm như vậy."
+    me "Cái địt mẹ, anh bạn à. Đi mà lo việc của mình đi, và bọn tôi cũng sẽ làm như vậy."
 
 # game/characters/little fox/explore/bandits.rpy:70
 translate vietnamese lil_fox_exp_bandits_fd1816d2:
@@ -142,7 +142,7 @@ translate vietnamese lil_fox_exp_bandits_1ae47085:
 translate vietnamese lil_fox_exp_bandits_c6d91c6b:
 
     # me "Fuck, alright. Prepare for a fight."
-    me "Địt, được rồi. Chuẩn bị chiến đấu đi."
+    me "Mọe, được rồi. Chuẩn bị chiến đấu đi."
 
 # game/characters/little fox/explore/bandits.rpy:88
 translate vietnamese lil_fox_exp_bandits_c2aa9da5:
@@ -160,7 +160,7 @@ translate vietnamese lil_fox_exp_bandits_efa6db35:
 translate vietnamese lil_fox_exp_bandits_fde1fae4:
 
     # me "Get ready for your demise dickheads."
-    me "Bọn mày nên chuẩn bị vài cái hòm cho anh em chúng mày đi."
+    me "Mày nên chuẩn bị vài cái hòm cho anh em mày đi."
 
 # game/characters/little fox/explore/bandits.rpy:95
 translate vietnamese lil_fox_exp_bandits_dfacc3f0:
@@ -669,7 +669,7 @@ translate vietnamese strings:
     # game/characters/little fox/explore/bandits.rpy:90
     old "Try to escape {agi}(Agility){/agi}"
     new "Thử trốn thoát {agi}(Nhanh nhẹn){/agi}"
-# TODO: Translation updated at 2022-09-08 19:14
+# : Translation updated at 2022-09-08 19:14
 
 # game/characters/little fox/explore/bandits.rpy:127
 translate vietnamese lil_fox_exp_bandits_4cb844bd:

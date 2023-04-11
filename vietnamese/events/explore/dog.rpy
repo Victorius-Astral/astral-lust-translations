@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/explore/dog.rpy:10
 translate vietnamese explore_dog_c108d2d1:
@@ -416,7 +416,7 @@ translate vietnamese strings:
     old "Dog"
     new "Chó"
 
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/cat/pat.rpy:17
 translate vietnamese cat_pat_kitchen_b700d4f2:
@@ -125,7 +125,7 @@ translate vietnamese cat_pat_player_0b761bdb:
 
     # me "You're welcome..."
     me "Không có chi..."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/cat/pat.rpy:17
 translate vietnamese cat_pat_kitchen_5a22204e:

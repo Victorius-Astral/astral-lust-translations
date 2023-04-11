@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-08-13 15:58
+﻿# : Translation updated at 2022-08-13 15:58
 
 # game/characters/little fox/explore/treasure.rpy:40
 translate vietnamese lil_fox_exp_treasure_46d7431a:
@@ -227,7 +227,7 @@ translate vietnamese lil_fox_exp_treasure_6e77aa4c:
 
     # me "This little thing is too playful for her own good..."
     me "em ấy dường như quá ham chơi và nghịch ngợm..."
-# TODO: Translation updated at 2022-09-08 19:14
+# : Translation updated at 2022-09-08 19:14
 
 # game/characters/little fox/explore/treasure.rpy:98
 translate vietnamese lil_fox_exp_treasure_76127a57:

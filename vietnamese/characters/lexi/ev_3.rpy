@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lexi/ev_3.rpy:3
 translate vietnamese lexi_3_9f5e7d5f:
@@ -543,7 +543,7 @@ translate vietnamese strings:
     # game/characters/lexi/ev_3.rpy:105
     old "Where is my kiss?"
     new "Nụ hôn của anh đâu rồi?"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/little fox/ev_3.rpy:26
 translate vietnamese lil_fox_3_9d382d40:
@@ -1127,7 +1127,7 @@ translate vietnamese lil_fox_3_alice_4822b6c9:
 
     # me "See you around girls."
     me "Gặp lại sau nha."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/little fox/ev_3.rpy:45
 translate vietnamese lil_fox_3_d2747da5:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-05-11 01:55
+﻿# : Translation updated at 2022-05-11 01:55
 
 translate vietnamese strings:
 
@@ -57,7 +57,7 @@ translate vietnamese strings:
     # game/variables/lists/items.rpy:193
     old "Ready for a picnic. Or another way of a suicide. Can help with keeping you alive, though."
     new "Sẵn sàng cho một chuyến dã ngoại. Hoặc một cách khác của một vụ tự tử. Tuy nhiên, có thể giúp giữ cho bạn sống sót."
-# TODO: Translation updated at 2022-06-10 08:06
+# : Translation updated at 2022-06-10 08:06
 
 translate vietnamese strings:
 
@@ -92,14 +92,14 @@ translate vietnamese strings:
     # game/variables/lists/items.rpy:83
     old "The finest of wines made in 20th century."
     new "Loại rượu hảo hạng nhất thế kỷ 20."
-# TODO: Translation updated at 2022-06-22 09:23
+# : Translation updated at 2022-06-22 09:23
 
 translate vietnamese strings:
 
     # game/variables/lists/items.rpy:80
     old "Premium Ice Cream"
     new "Kem hảo hạng"
-# TODO: Translation updated at 2022-09-15 16:10
+# : Translation updated at 2022-09-15 16:10
 
 translate vietnamese strings:
 

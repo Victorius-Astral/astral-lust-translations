@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/activities/pyjamas_party.rpy:16
 translate vietnamese girl_night_10ba0bee:
@@ -1947,7 +1947,7 @@ translate vietnamese strings:
     # game/events/activities/pyjamas_party.rpy:483
     old "No diamonds for you"
     new "Không có kim cương cho em"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/events/activities/pyjamas_party.rpy:66
 translate vietnamese girl_night_part2_b0665fe2:
@@ -2045,7 +2045,7 @@ translate vietnamese girl_night_sleep_44a82e18:
     # me "Alright, I've had enough. I'm going to sleep."
     me "Được rồi, anh đi ngủ đây."
 
-# TODO: Translation updated at 2022-02-19 01:56
+# : Translation updated at 2022-02-19 01:56
 
 translate vietnamese strings:
 

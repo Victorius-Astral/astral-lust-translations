@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/explore/injured_dragon.rpy:1
 translate vietnamese 8df27b44:
@@ -64,7 +64,7 @@ translate vietnamese exp_injured_dragon_see_b0e20838:
 translate vietnamese exp_injured_dragon_see_9a7a3e0d:
 
     # th "Guess it's not dead at all..."
-    th "Đoán là nó không chết đâu..."
+    th "Nó chưa chết..."
 
 # game/events/explore/injured_dragon.rpy:56
 translate vietnamese exp_injured_dragon_see_3820771a:
@@ -82,7 +82,7 @@ translate vietnamese exp_injured_dragon_see_809ffd32:
 translate vietnamese exp_injured_dragon_see_e22d482e:
 
     # th "It's looking straight at me, but it's not attacking."
-    th "Nó đang nhìn thẳng vào tôi, nhưng nó không tấn công."
+    th "Nó đang nhìn thẳng vào mình, nhưng nó không tấn công."
 
 # game/events/explore/injured_dragon.rpy:59
 translate vietnamese exp_injured_dragon_see_89f06292:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/hotel/kitchen/fridge.rpy:4
 translate vietnamese room_kitchen_fridge_9a36674d:

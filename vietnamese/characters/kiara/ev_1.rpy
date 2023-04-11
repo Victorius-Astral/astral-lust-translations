@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/kiara/ev_1.rpy:6
 translate vietnamese kiara_1_40f451d7:
@@ -411,7 +411,7 @@ translate vietnamese strings:
     # game/characters/kiara/ev_1.rpy:76
     old "No, I get it"
     new "Không, tôi hiểu rồi"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

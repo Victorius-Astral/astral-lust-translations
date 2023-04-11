@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/hotel/player/mirror.rpy:12
 translate vietnamese mirror_player_873b9e9f:
@@ -51,7 +51,7 @@ translate vietnamese strings:
     # game/places/hotel/player/mirror.rpy:31
     old "Alice ([alice])"
     new "Alice ([alice])"
-# TODO: Translation updated at 2022-11-13 15:18
+# : Translation updated at 2022-11-13 15:18
 
 translate vietnamese strings:
 

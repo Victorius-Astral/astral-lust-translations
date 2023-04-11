@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lexi/sleep.rpy:16
 translate vietnamese sleep_lexi_turnover_76208216:

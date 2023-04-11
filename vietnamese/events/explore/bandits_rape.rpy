@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/explore/bandits_rape.rpy:16
 translate vietnamese exp_bandits_rape_149d1468:

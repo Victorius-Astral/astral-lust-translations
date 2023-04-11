@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/ev_2.rpy:6
 translate vietnamese mina_2_12cdbd09:
@@ -257,7 +257,7 @@ translate vietnamese mina_2_f551ceb0:
 
     # mina "Thanks! She'll be sooo happy!"
     mina "Cảm ơn! Chị ấy sẽ rất hạnh phúc đấy!"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

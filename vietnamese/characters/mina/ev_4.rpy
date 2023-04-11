@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/ev_4.rpy:9
 translate vietnamese mina_4_58fb223a:
@@ -1399,7 +1399,7 @@ translate vietnamese strings:
     # game/characters/mina/ev_4.rpy:288
     old "What would you do if you could do anything."
     new "Em sẽ làm gì nếu em có thể làm bất cứ điều gì mình muốn."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/mina/ev_4.rpy:322
 translate vietnamese mina_4_4_fef53613:
@@ -1451,7 +1451,7 @@ translate vietnamese strings:
     old "What would you do if you could do anything?"
     new "Em sẽ làm gì nếu em có thể làm mọi thứ mình muốn?"
 
-# TODO: Translation updated at 2022-02-26 15:07
+# : Translation updated at 2022-02-26 15:07
 
 # game/characters/mina/ev_4.rpy:45
 translate vietnamese mina_4_66c07f1c:

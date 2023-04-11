@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-18 12:36
+﻿# : Translation updated at 2022-02-18 12:36
 
 translate vietnamese strings:
 
@@ -321,7 +321,7 @@ translate vietnamese strings:
     # game/variables/wallpapers.rpy:398
     old "Valentines 2022"
     new "Valentines 2022"
-# TODO: Translation updated at 2022-08-13 15:58
+# : Translation updated at 2022-08-13 15:58
 
 translate vietnamese strings:
 
@@ -380,7 +380,7 @@ translate vietnamese strings:
     # game/variables/wallpapers.rpy:489
     old "July 2022"
     new "Tháng bảy 2022"
-# TODO: Translation updated at 2022-09-08 19:14
+# : Translation updated at 2022-09-08 19:14
 
 translate vietnamese strings:
 
@@ -427,7 +427,7 @@ translate vietnamese strings:
     # game/variables/wallpapers.rpy:517
     old "August 2022"
     new "Tháng 8 2022"
-# TODO: Translation updated at 2022-10-11 16:06
+# : Translation updated at 2022-10-11 16:06
 
 translate vietnamese strings:
 

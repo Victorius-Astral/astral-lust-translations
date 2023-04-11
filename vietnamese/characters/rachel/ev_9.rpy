@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-05-11 01:55
+﻿# : Translation updated at 2022-05-11 01:55
 
 # game/characters/rachel/ev_9.rpy:9
 translate vietnamese rachel_9_8fc01b25:

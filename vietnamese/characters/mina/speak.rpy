@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/speak.rpy:12
 translate vietnamese speak_mina_a7538388:
@@ -647,7 +647,7 @@ translate vietnamese strings:
     # game/characters/mina/speak.rpy:218
     old "Tidy up the boxes (Duration: [minaTasks.tidyUp.duration]) {loot}(Materials+){/loot} {#visible}"
     new "Thu dọn hộp (Thời gian: [minaTasks.tidyUp.duration]) {loot}(Vât liệu+){/loot} {#visible}"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -659,7 +659,7 @@ translate vietnamese strings:
     old "She likes pink."
     new "Cô ấy thích màu hồng."
 
-# TODO: Translation updated at 2022-02-16 09:38
+# : Translation updated at 2022-02-16 09:38
 
 # game/characters/mina/speak.rpy:55
 translate vietnamese mina_menu1_82625435:
@@ -678,7 +678,7 @@ translate vietnamese mina_menu2_3b37abd1:
 
     # me "It seems someone is in the mood for jokes." id mina_menu2_3b37abd1
     me "Có vẻ như ai đó đang có tâm trạng để đùa này." id mina_menu2_3b37abd1
-# TODO: Translation updated at 2022-06-10 08:06
+# : Translation updated at 2022-06-10 08:06
 
 # game/characters/mina/speak.rpy:19
 translate vietnamese speak_mina_50f4a088:

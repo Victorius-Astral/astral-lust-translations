@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/savenia/ev_3.rpy:4
 translate vietnamese savenia_3_0416811d:
@@ -335,7 +335,7 @@ translate vietnamese strings:
     # game/characters/savenia/ev_3.rpy:8
     old "Go check it out"
     new "Đi xem thế nào"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/savenia/ev_3.rpy:57
 translate vietnamese savenia_3_part2_e8f1bc60:

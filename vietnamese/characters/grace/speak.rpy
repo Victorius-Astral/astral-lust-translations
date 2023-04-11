@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/speak.rpy:9
 translate vietnamese speak_grace_04cf02be:
@@ -883,7 +883,7 @@ translate vietnamese strings:
     # game/characters/grace/speak.rpy:168
     old "Bed"
     new "Giường"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -894,7 +894,7 @@ translate vietnamese strings:
     # game/characters/grace/speak.rpy:366
     old "She is 21 years old."
     new "Cô ấy 21 tuổi."
-# TODO: Translation updated at 2022-04-17 12:11
+# : Translation updated at 2022-04-17 12:11
 
 # game/characters/grace/speak.rpy:6
 translate vietnamese speak_grace_fdb4e830:
@@ -1136,7 +1136,7 @@ translate vietnamese strings:
     old "Give her a rose as an apology {#visible}"
     new "Tặng em ấy một bông hồng thay cho lời xin lỗi {#visible}"
 
-# TODO: Translation updated at 2022-05-11 01:55
+# : Translation updated at 2022-05-11 01:55
 
 # game/characters/grace/speak.rpy:476
 translate vietnamese speak_grace_question_peed_d8769c30:
@@ -1203,7 +1203,7 @@ translate vietnamese strings:
     # game/characters/grace/speak.rpy:84
     old "You.. You.. peed on me.."
     new "Anh... Anh... tè vào em..."
-# TODO: Translation updated at 2022-06-10 08:06
+# : Translation updated at 2022-06-10 08:06
 
 translate vietnamese strings:
 
@@ -1214,7 +1214,7 @@ translate vietnamese strings:
     # game/characters/grace/speak.rpy:27
     old "I need you to cook a dinner for me and Lexi"
     new "Anh cần em nấu một bữa tối cho anh và Lexi"
-# TODO: Translation updated at 2022-10-11 16:06
+# : Translation updated at 2022-10-11 16:06
 
 # game/characters/grace/speak.rpy:88
 translate vietnamese speak_grace_fun_b50ba9c2:

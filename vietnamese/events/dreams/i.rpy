@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-09-08 19:14
+﻿# : Translation updated at 2022-09-08 19:14
 
 # game/events/dreams/i.rpy:19
 translate vietnamese d_I_1_777c5197:

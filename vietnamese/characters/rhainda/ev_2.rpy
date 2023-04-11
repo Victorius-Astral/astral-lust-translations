@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-06 08:10
+﻿# : Translation updated at 2022-02-06 08:10
 
 # game/characters/rhainda/ev_2.rpy:10
 translate vietnamese rhainda_2_7e496c80:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/kiara/speak.rpy:9
 translate vietnamese speak_kiara_fce7de6a:
@@ -441,7 +441,7 @@ translate vietnamese strings:
     # game/characters/kiara/speak.rpy:45
     old "How does this teleportation work?"
     new "Dịch chuyển này hoạt động như thế nào?"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -489,20 +489,20 @@ translate vietnamese strings:
     old "She seems to always know what I'm thinking about."
     new "Cô ấy dường như luôn biết tôi đang nghĩ gì."
 
-# TODO: Translation updated at 2022-02-18 12:36
+# : Translation updated at 2022-02-18 12:36
 
 translate vietnamese strings:
 
     # game/characters/kiara/speak.rpy:186
     old "Pick an outfit."
     new "Chọn trang phục."
-# TODO: Translation updated at 2022-09-15 16:10
+# : Translation updated at 2022-09-15 16:10
 
 # game/characters/kiara/speak.rpy:41
 translate vietnamese kiara_menu1_a6cb9430:
 
     # kiara "What made you interested in these?"
-    kiara "Cái gì khiến anh quan tấm đến mấy cái này vậy?"
+    kiara "Điều gì khiến anh quan tấm đến mấy cái này vậy?"
 
 # game/characters/kiara/speak.rpy:45
 translate vietnamese kiara_menu1_f5796b59:
@@ -556,7 +556,7 @@ translate vietnamese kiara_menu1_b6698e22:
 translate vietnamese kiara_menu1_9bc6ca58:
 
     # kiara "The goal of the ritual is to receive a response of the being you pray to. It can be a revelation, a blessing, or a bestowement. Similarly a malicious being could curse you."
-    kiara "Mục tiêu của nghi lễ là nhận được phản hồi của những người mà bạn cầu nguyện. Nó có thể là một sự mặc khải, một phước lành hoặc một sự ban tặng. Tương tự, một sinh vật nguy hiểm có thể nguyền rủa anh."
+    kiara "Mục tiêu của nghi lễ là nhận được phản hồi của những người mà anh cầu nguyện. Nó có thể là một sự mặc khải, một phước lành hoặc một sự ban tặng. Tương tự, một sinh vật nguy hiểm có thể nguyền rủa anh."
 
 # game/characters/kiara/speak.rpy:63
 translate vietnamese kiara_menu1_ac0dc02a:
@@ -616,7 +616,7 @@ translate vietnamese kiara_menu1_77994322:
 translate vietnamese kiara_menu1_8cba7df2:
 
     # kiara "Basically yes. But don't forget that His blessings in His other authorities are going to be top notch. After all, He's close to being a God."
-    kiara "Về cơ bản là vậy. Nhưng đừng quên rằng các phước lành của Hắn trong quyền năng khác của là top đầu đấy. Sau cùng, Hắn đã gần trở thành một vị thần rồi."
+    kiara "Về cơ bản là vậy. Nhưng đừng quên rằng những phước lành trong quyền năng khác của hắn là top đầu đấy. Sau cùng, Hắn đã gần trở thành một vị thần rồi."
 
 # game/characters/kiara/speak.rpy:80
 translate vietnamese kiara_menu1_2145b242:
@@ -717,7 +717,7 @@ translate vietnamese strings:
     # game/characters/kiara/speak.rpy:107
     old "You can now perform the rituals! You can do so on the altar in your room."
     new "Bây giờ bạn có thể thực hiện các nghi lễ! Bạn có thể làm trên bàn thờ trong phòng của bạn."
-# TODO: Translation updated at 2022-10-11 16:06
+# : Translation updated at 2022-10-11 16:06
 
 # game/characters/kiara/speak.rpy:57
 translate vietnamese kiara_menu1_b9f57483:
@@ -747,62 +747,62 @@ translate vietnamese kiara_menu1_0767bccc:
 translate vietnamese kiara_menu1_aa1337b8:
 
     # kiara "You can also use your own blood as a sacrifice. But it's dangerous. If the being is malicious, the curse you'll suffer will be tremendous. Almost all evil beings are interested in this sacrifice."
-    kiara "Anh cũng có thể sử dụng máu của chính mình để hy sinh. Nhưng nó khá nguy hiểm. Nếu đó là một thực thể tà ác, lời nguyền mà anh phải chịu sẽ rất lớn. Hầu hết tất cả ác thần đều quan tâm đến sự hiến tế này."
+    kiara "Anh cũng có thể sử dụng máu của chính mình để hi sinh. Nhưng nó khá nguy hiểm. Nếu đó là một thực thể tà ác, lời nguyền mà anh phải chịu sẽ rất lớn. Hầu hết tất cả ác thần đều quan tâm đến sự hiến tế này."
 
 # game/characters/kiara/speak.rpy:101
 translate vietnamese kiara_menu1_58cb8ac7:
 
     # kiara "If you want to seek dreams, you can use Dream Invocation to sacrifice {gold}Frozen Screams{/gold} to me."
-    kiara "Nếu anh muốn tìm kiếm giấc mơ, anh có thể sử dụng Lời cầu khẩn giấc mơ để hiến tế {gold}Frozen Screams{/gold} cho tôi."
-# TODO: Translation updated at 2022-11-13 15:18
+    kiara "Nếu anh muốn tìm kiếm giấc mơ, anh có thể sử dụng Lời cầu khẩn giấc mơ để hiến tế {gold}Tiếng Thét Băng Giá{/gold} cho tôi."
+# : Translation updated at 2022-11-13 15:18
 
 # game/characters/kiara/speak.rpy:19
 translate vietnamese speak_kiara_d3a63c0c:
 
     # kiara "You don't seem capable of performing rituals."
-    kiara "You don't seem capable of performing rituals."
+    kiara "Anh không giống."
 
 # game/characters/kiara/speak.rpy:20
 translate vietnamese speak_kiara_31759452:
 
     # me "I'm listening."
-    me "I'm listening."
+    me "Tôi đang nghe đây."
 
 # game/characters/kiara/speak.rpy:24
 translate vietnamese speak_kiara_3453d517:
 
     # kiara "I could teach you when you have a while."
-    kiara "I could teach you when you have a while."
+    kiara "Tôi có thể dạy anh khi anh có thời gian."
 
 # game/characters/kiara/speak.rpy:25
 translate vietnamese speak_kiara_c868a713:
 
     # kiara "These can be very helpful for someone that knows what they're doing."
-    kiara "These can be very helpful for someone that knows what they're doing."
+    kiara "Những điều này có thể rất hữu ích cho những người biết họ đang làm gì."
 
 # game/characters/kiara/speak.rpy:56
 translate vietnamese kiara_menu1_b5f5afd3:
 
     # kiara "We are similar, [me]. We both share thirst for knowledge far beyond normal."
-    kiara "We are similar, [me]. We both share thirst for knowledge far beyond normal."
+    kiara "Chúng ta cũng giống như nhau thôi, [me]. Cả hai chúng ta đều khao khát kiến thức vượt xa mức bình thường."
 
 # game/characters/kiara/speak.rpy:57
 translate vietnamese kiara_menu1_a64595cf:
 
     # me "That's undeniable."
-    me "That's undeniable."
+    me "Điều đó là không thể chối cãi được."
 
 # game/characters/kiara/speak.rpy:59
 translate vietnamese kiara_menu1_e0949b62:
 
     # kiara "Let's say that the time spent together was the price."
-    kiara "Let's say that the time spent together was the price."
+    kiara "Hãy cứ nói là thời gian bên nhau là cái giá đi."
 
 # game/characters/kiara/speak.rpy:250
 translate vietnamese kiara_menu1_6b04ab3e_1:
 
     # me "What's the price?"
-    me "What's the price?"
+    me "Cái giá là gì?"
 
 translate vietnamese strings:
 
@@ -816,9 +816,8 @@ translate vietnamese strings:
 
     # game/characters/kiara/speak.rpy:320
     old "Pick an position."
-    new "Pick an position."
+    new "Chọn tư thế."
 
     # game/characters/kiara/speak.rpy:320
     old "Lying"
-    new "Lying"
-
+    new "Nằm"

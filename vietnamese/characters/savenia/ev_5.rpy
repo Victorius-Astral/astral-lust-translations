@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/savenia/ev_5.rpy:12
 translate vietnamese savenia_5_dcc75f0d:
@@ -459,7 +459,7 @@ translate vietnamese strings:
     # game/characters/savenia/ev_5.rpy:18
     old "Leave it here"
     new "Để lại đây"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/savenia/ev_5.rpy:12
 translate vietnamese savenia_5_13b4b041:

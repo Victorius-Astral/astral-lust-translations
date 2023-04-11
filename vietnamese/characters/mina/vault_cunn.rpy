@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/vault_cunn.rpy:10
 translate vietnamese mina_vault_cunn_e0e4c85e:
@@ -173,7 +173,7 @@ translate vietnamese mina_vault_cunn_75f16f80:
 
     # mina "Yeah, see ya."
     mina "Yeah, bye."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/mina/vault_cunn.rpy:17
 translate vietnamese mina_vault_cunn_a0224e59:

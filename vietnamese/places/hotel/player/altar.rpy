@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/hotel/player/altar.rpy:17
 translate vietnamese room_player_altar_1c156d3b:
@@ -103,7 +103,7 @@ translate vietnamese strings:
     # game/places/hotel/player/altar.rpy:2
     old "Check the knife"
     new "Kiểm tra dao"
-# TODO: Translation updated at 2022-09-15 16:10
+# : Translation updated at 2022-09-15 16:10
 
 translate vietnamese strings:
 

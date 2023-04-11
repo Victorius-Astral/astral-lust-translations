@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/dreams/astral_lust.rpy:11
 translate vietnamese d_Astral_Lust_2_2e6a4d69:
@@ -213,7 +213,7 @@ translate vietnamese strings:
     # game/events/dreams/astral_lust.rpy:30
     old "No, thanks"
     new "Không, sợ nghiện lắm"
-# TODO: Translation updated at 2022-02-26 15:07
+# : Translation updated at 2022-02-26 15:07
 
 # game/events/dreams/astral_lust.rpy:12
 translate vietnamese d_Astral_Lust_2_a47cf47b:

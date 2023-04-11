@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-06-10 08:06
+﻿# : Translation updated at 2022-06-10 08:06
 
 # game/characters/mina/ev_18.rpy:8
 translate vietnamese mina_18_b2f60cdd:
@@ -196,13 +196,13 @@ translate vietnamese mina_18_part2_94373256:
 translate vietnamese mina_18_part2_1be057d6:
 
     # mina "I wouldn't be able to live like this."
-    mina "Em sẽ không thể nào sống như vậy đâu."
+    mina "Em thì không thể nào sống như vậy được."
 
 # game/characters/mina/ev_18.rpy:76
 translate vietnamese mina_18_part2_ced4ea30:
 
     # me "What were you spending your free time on?"
-    me "Em đã dành thời gian rảnh của mình vào việc gì?"
+    me "Em dành thời gian rảnh của mình vào việc gì?"
 
 # game/characters/mina/ev_18.rpy:77
 translate vietnamese mina_18_part2_3a895c19:
@@ -304,7 +304,7 @@ translate vietnamese mina_18_part2_018d158a:
 translate vietnamese mina_18_part2_c608aa7f:
 
     # me "That's vodka for you. Do you want water?"
-    me "Đấy là vodka cho em đấy. Em có cần nước không?"
+    me "Đó là vodka cho em đấy. Em có cần nước không?"
 
 # game/characters/mina/ev_18.rpy:100
 translate vietnamese mina_18_part2_94e6381a:
@@ -340,7 +340,7 @@ translate vietnamese mina_18_part2_04368c59:
 translate vietnamese mina_18_part2_c8ab5615:
 
     # mina "I don't seem to have anything else to do."
-    mina "Em dường như không có việc gì khác để làm."
+    mina "Em chả có việc gì khác để làm hết."
 
 # game/characters/mina/ev_18.rpy:109
 translate vietnamese mina_18_part2_42329653:
@@ -376,13 +376,13 @@ translate vietnamese mina_18_part2_b806e964:
 translate vietnamese mina_18_part2_454239fb:
 
     # mina "True. The old law, customs, and morality no longer apply."
-    mina "Đúng òi. Luật lệ, phong tục và đạo đức cũ không còn được áp dụng nữa."
+    mina "Đúng. Luật lệ, phong tục và đạo đức cũ không còn được áp dụng nữa."
 
 # game/characters/mina/ev_18.rpy:121
 translate vietnamese mina_18_part2_82a53785:
 
     # mina "I liked the old ways more, though."
-    mina "Tuy nhiên, em thích con đường cũ cũ hơn."
+    mina "Tuy nhiên, em thích con đường cũ hơn."
 
 # game/characters/mina/ev_18.rpy:122
 translate vietnamese mina_18_part2_e1db6a4e:
@@ -418,7 +418,7 @@ translate vietnamese mina_18_part2_313bee63:
 translate vietnamese mina_18_part2_e159e938:
 
     # th "Now that I think about it, I can't really remember when I last drank with a friend before The End."
-    th "Bây giờ nghĩ lại, mình thực sự không thể nhớ lần cuối mình uống rượu với một người bạn trước Tận Thế."
+    th "Bây giờ nghĩ lại, mình thực sự không thể nhớ lần cuối mình uống rượu với một người bạn trước Tận Thế nữa."
 
 # game/characters/mina/ev_18.rpy:137
 translate vietnamese mina_18_part2_796518f5:
@@ -760,7 +760,7 @@ translate vietnamese mina_18_part2_0d7722b5:
 translate vietnamese mina_18_part2_b750f7a2:
 
     # mina "Yeah. Saints."
-    mina "Yeah. Nhán nhân."
+    mina "Yeah. Thánh nhân."
 
 # game/characters/mina/ev_18.rpy:227
 translate vietnamese mina_18_part3_71d02019:
@@ -778,7 +778,7 @@ translate vietnamese mina_18_part3_41cea400:
 translate vietnamese mina_18_part3_8287124a:
 
     # me "We'll see what I can find."
-    me "Phải xem anh tìm được gì đã."
+    me "Để xem anh tìm được gì đã."
 
 # game/characters/mina/ev_18.rpy:236
 translate vietnamese mina_18_part3_a1ea79f8:
@@ -850,7 +850,7 @@ translate vietnamese mina_18_part3_0cf8453a:
 translate vietnamese mina_18_part3_1885c8f7:
 
     # mina "I don't know why Lexi didn't say anything last time, but this time she's going to kill me for sure for getting drunk."
-    mina "Em không biết tại sao lần trước Lexi không nói gì, nhưng lần này chắc chắn chị ấy sẽ giết em vì say."
+    mina "Em không biết tại sao lần trước Lexi không nói gì, nhưng lần này chắc chắn chị ấy sẽ giết em vì say mất."
 
 # game/characters/mina/ev_18.rpy:263
 translate vietnamese mina_18_part3_64194dc8:
@@ -904,7 +904,7 @@ translate vietnamese mina_18_part3_8159c16a:
 translate vietnamese mina_18_part3_29d10141:
 
     # me "I don't think Lexi would kill you, at most scold a little."
-    me "Anh không nghĩ rằng Lexi sẽ giết em, nhiều nhất là mắng mỏ một chút."
+    me "Anh không nghĩ rằng Lexi sẽ giết em đâu, nhiều nhất là mắng mỏ một chút thôi."
 
 # game/characters/mina/ev_18.rpy:284
 translate vietnamese mina_18_part3_03c4e118:

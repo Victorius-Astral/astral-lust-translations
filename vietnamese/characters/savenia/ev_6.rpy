@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/savenia/ev_6.rpy:24
 translate vietnamese savenia_6_3c5a00ad:
@@ -149,7 +149,7 @@ translate vietnamese savenia_6_90b1b863:
 
     # th "Still, what the hell was His plan with this? What was the point?"
     th "Tuy nhiên, kế hoạch của Hấn là gì? Mục đích là gì?"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/savenia/ev_6.rpy:61
 translate vietnamese savenia_6_db7df5e7:

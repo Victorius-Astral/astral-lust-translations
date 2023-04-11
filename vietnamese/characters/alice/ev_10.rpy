@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/alice/ev_10.rpy:12
 translate vietnamese alice_10_f60efb3c:
@@ -623,7 +623,7 @@ translate vietnamese strings:
     # game/characters/alice/ev_10.rpy:217
     old "Cum outside"
     new "Ra bên ngoài"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

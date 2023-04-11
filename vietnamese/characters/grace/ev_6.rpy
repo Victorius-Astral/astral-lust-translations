@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/ev_6.rpy:6
 translate vietnamese grace_6_fa04d506:
@@ -395,7 +395,7 @@ translate vietnamese strings:
     # game/characters/grace/ev_6.rpy:68
     old "Thank her"
     new "Cảm ơn cô ấy"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

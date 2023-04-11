@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-09-08 19:14
+﻿# : Translation updated at 2022-09-08 19:14
 
 # game/events/dreams/sleep_paralysis.rpy:20
 translate vietnamese d_Sleep_Paralysis_1_71bf607c:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/explore/construction_shop.rpy:37
 translate vietnamese explore_construction_shop_1ae0b4e9:
@@ -651,14 +651,14 @@ translate vietnamese strings:
     # game/events/explore/construction_shop.rpy:116
     old "Rape her"
     new "Hiếp dâm cô ấy"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
     # game/events/explore/construction_shop.rpy:278
     old "I raped someone. Can I live with it?"
     new "Mình đã hiếp dâm rồi. Mình có thể có thể sống với nó không?"
-# TODO: Translation updated at 2022-02-26 15:07
+# : Translation updated at 2022-02-26 15:07
 
 # game/events/explore/construction_shop.rpy:268
 translate vietnamese explore_construction_shop_win_124865fa:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-06 08:10
+﻿# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -29,14 +29,14 @@ translate vietnamese strings:
     # game/screens/pc/pc.rpy:99
     old "|{#pcSeparator}"
     new "|{#pcSeparator}"
-# TODO: Translation updated at 2022-02-16 09:38
+# : Translation updated at 2022-02-16 09:38
 
 translate vietnamese strings:
 
     # game/screens/pc/pc.rpy:3
     old "Difficulty Settings"
     new "Tùy chọn độ khó"
-# TODO: Translation updated at 2022-08-13 15:58
+# : Translation updated at 2022-08-13 15:58
 
 translate vietnamese strings:
 

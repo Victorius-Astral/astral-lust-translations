@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/kiss.rpy:30
 translate vietnamese grace_kiss_3ceb9c77:
@@ -2573,7 +2573,7 @@ translate vietnamese strings:
     # game/characters/grace/kiss.rpy:875
     old "Now you can finish changing"
     new "Bây giờ em có thể hoàn tất việc thay đồ rồi"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/grace/kiss.rpy:69
 translate vietnamese grace_kiss_6e891d11:
@@ -2646,7 +2646,7 @@ translate vietnamese grace_kiss_night_cor3_6ba39ef8:
 
     # me "Yeah, yeah. Go change, I still owe you a goodnight kiss, don't I?"
     me "Yeah. Đi thay đồ đi, anh vẫn nợ em một nụ hôn chúc ngủ ngon đúng không?"
-# TODO: Translation updated at 2022-11-13 15:18
+# : Translation updated at 2022-11-13 15:18
 
 # game/characters/grace/kiss.rpy:994
 translate vietnamese grace_kiss_bad_end_b73a451a:

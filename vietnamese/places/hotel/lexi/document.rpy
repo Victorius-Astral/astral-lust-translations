@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/hotel/lexi/document.rpy:7
 translate vietnamese room_lexi_document_555f6ad9:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/explore/generic_combat.rpy:230
 translate vietnamese exp_generic_combat_649360a6:

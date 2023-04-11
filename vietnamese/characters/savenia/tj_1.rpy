@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/savenia/tj_1.rpy:13
 translate vietnamese savenia_tj_1_b30fa53b:
@@ -161,7 +161,7 @@ translate vietnamese savenia_tj_1_9370fd7a:
 
     # me "See ya."
     me "Gặp lại sau."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/savenia/tj_1.rpy:13
 translate vietnamese savenia_tj_1_864f1c6b:

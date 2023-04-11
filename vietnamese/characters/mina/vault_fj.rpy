@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/vault_fj.rpy:13
 translate vietnamese mina_vault_fj_c5c02f18:
@@ -807,7 +807,7 @@ translate vietnamese strings:
     # game/characters/mina/vault_fj.rpy:136
     old "I don't think about her like that"
     new "Anh không nghĩ về em ấy như vậy"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/mina/vault_fj.rpy:62
 translate vietnamese mina_vault_fj_pride_cf2acb70:

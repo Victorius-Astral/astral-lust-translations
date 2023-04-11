@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lexi/ev_6.rpy:6
 translate vietnamese lexi_6_c7d87fe5:
@@ -476,7 +476,7 @@ translate vietnamese strings:
     # game/characters/lexi/ev_6.rpy:11
     old "Take care"
     new "Bye"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

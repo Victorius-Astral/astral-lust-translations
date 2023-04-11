@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lexi/chill.rpy:51
 translate vietnamese lexi_chill_97d62883:
@@ -1261,7 +1261,7 @@ translate vietnamese strings:
     # game/characters/lexi/chill.rpy:280
     old "Bath towel"
     new "Khăn tắm"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/lexi/chill.rpy:51
 translate vietnamese lexi_chill_946b66dd:

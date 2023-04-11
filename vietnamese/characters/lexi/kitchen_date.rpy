@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-06-10 08:06
+﻿# : Translation updated at 2022-06-10 08:06
 
 # game/characters/lexi/kitchen_date.rpy:67
 translate vietnamese lexi_kitchen_date_9adcae00:
@@ -6651,7 +6651,7 @@ translate vietnamese strings:
     # game/characters/lexi/kitchen_date.rpy:2523
     old "Don't mention it for now"
     new "Đừng đề cập đến nó bây giờ"
-# TODO: Translation updated at 2022-06-22 09:23
+# : Translation updated at 2022-06-22 09:23
 
 # game/characters/lexi/kitchen_date.rpy:156
 translate vietnamese lexi_kitchen_date_start_b7a83025:

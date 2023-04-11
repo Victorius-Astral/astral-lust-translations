@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-08-13 15:58
+﻿# : Translation updated at 2022-08-13 15:58
 
 # game/characters/little fox/explore/0base.rpy:25
 translate vietnamese lil_fox_explore_368aad39:
@@ -70,7 +70,7 @@ translate vietnamese lil_fox_explore_55de605d:
 translate vietnamese lil_fox_explore_3ed13476:
 
     # me "What are you trying to achieve by this?"
-    me "Rồi em đang cố gắng đạt được điều gì bằng cách này vậy?"
+    me "Rồi em ngồi tềnh hễnh đấy để làm gì thế?"
 
 # game/characters/little fox/explore/0base.rpy:52
 translate vietnamese lil_fox_explore_55de605d_1:
@@ -136,7 +136,7 @@ translate vietnamese lil_fox_explore_0ff9d5bf:
 translate vietnamese lil_fox_explore_9f67f3ed:
 
     # me "How nice of you."
-    me "Tốt vậy sao."
+    me "Tốt bụng vậy sao."
 
 # game/characters/little fox/explore/0base.rpy:75
 translate vietnamese lil_fox_explore_e53557ac:
@@ -148,7 +148,7 @@ translate vietnamese lil_fox_explore_e53557ac:
 translate vietnamese lil_fox_explore_fd040e43:
 
     # me "Oh, so it's a stray fox. She's going to spank you."
-    me "Oh, đó là một con cáo hoang. Cô ấy sẽ tét đít em đấy."
+    me "Oh, đúng là một con cáo hoang. Cô ấy sẽ tét đít em đấy."
 
 # game/characters/little fox/explore/0base.rpy:80
 translate vietnamese lil_fox_explore_ae5cc194:
@@ -202,7 +202,7 @@ translate vietnamese lil_fox_explore_e0ba11f3:
 translate vietnamese lil_fox_explore_3078db87:
 
     # me "Okay, let's go together. I hope you're indeed a lucky star."
-    me "Okay, hãy đi cùng nhau nào. Em mong rằng anh là một ngôi sao may mắn."
+    me "Okay, hãy đi cùng nhau nào. Anh mong rằng em là một ngôi sao may mắn."
 
 # game/characters/little fox/explore/0base.rpy:99
 translate vietnamese lil_fox_explore_1ee3f198:
@@ -412,7 +412,7 @@ translate vietnamese lil_fox_explore_speak_c4f507fa:
 translate vietnamese lil_fox_explore_explore_512ad560:
 
     # me "And how is it? Do you know where to go?"
-    me "Và nó như nào? Em có biết là phải đi đâu không?"
+    me "Như nào rồi? Em có biết là phải đi đâu không đấy?"
 
 # game/characters/little fox/explore/0base.rpy:189
 translate vietnamese lil_fox_explore_explore_09fd9472:
@@ -430,7 +430,7 @@ translate vietnamese lil_fox_explore_explore_86e35461:
 translate vietnamese lil_fox_explore_explore_a1c73fe1:
 
     # me "Got it."
-    me "Rõ rồi."
+    me "Rồi, rồi."
 
 # game/characters/little fox/explore/0base.rpy:202
 translate vietnamese lil_fox_explore_return_good_431c8572:
@@ -586,7 +586,7 @@ translate vietnamese lil_fox_explore_return_danger_1d4302b9:
 translate vietnamese lil_fox_explore_return_danger_62a3432c:
 
     # me "I don't know. Not facing death each day?"
-    me "Anh chả biêt nữa. Không đối mặt với tử thần mỗi ngày?"
+    me "Anh chả biêt nữa. anh có đối mặt với tử thần mỗi ngày đâu?"
 
 # game/characters/little fox/explore/0base.rpy:258
 translate vietnamese lil_fox_explore_return_danger_0eeb7844:
@@ -790,7 +790,7 @@ translate vietnamese lil_fox_explore_return_help_with_rachel_5302b3b6:
 translate vietnamese lil_fox_explore_return_help_with_rachel_7bf783db:
 
     # me "Oh. Didn't know that."
-    me "Oh. Tôi không biết luôn."
+    me "Oh. Tôi không biết luôn đấy."
 
 # game/characters/little fox/explore/0base.rpy:319
 translate vietnamese lil_fox_explore_return_help_with_rachel_8793f3f6:
@@ -802,19 +802,19 @@ translate vietnamese lil_fox_explore_return_help_with_rachel_8793f3f6:
 translate vietnamese lil_fox_explore_return_help_with_rachel_722af5e6:
 
     # rachel "If I wasn't here to heal you, you would still be running around with your tail snapped in half."
-    rachel "Nếu chị không ở đấy để chữa trị cho em, chắc em vẫn còn tung tăng khắp nơi với một cái đuôi bị bẻ đôi đấy."
+    rachel "Nếu chị không ở đấy để chữa trị cho em, chắc em vẫn còn đang tung tăng khắp nơi với một cái đuôi bị bẻ đôi đấy."
 
 # game/characters/little fox/explore/0base.rpy:324
 translate vietnamese lil_fox_explore_return_help_with_rachel_0b94bf2f:
 
     # me "Well, Little Fox. You need to be careful."
-    me "Well, Tiểu Cáo. Em cần phải cẩn thận đấy."
+    me "Chà, Tiểu Cáo. Em cần phải cẩn thận đấy."
 
 # game/characters/little fox/explore/0base.rpy:325
 translate vietnamese lil_fox_explore_return_help_with_rachel_93939abc:
 
     # lil_fox "I've lived out there alone for a long time! I know how to take care of myself!"
-    lil_fox "Em sống ở bên ngoài được một thời gian rất lâu rồi! Em biết làm thế nào dể chăm sóc bản thân!"
+    lil_fox "Em sống ở bên ngoài được một thời gian rất lâu rồi! Em biết làm thế nào để chăm sóc bản thân!"
 
 # game/characters/little fox/explore/0base.rpy:326
 translate vietnamese lil_fox_explore_return_help_with_rachel_73109980:
@@ -898,7 +898,7 @@ translate vietnamese lil_fox_explore_return_help_with_rachel_70ee8e62:
 translate vietnamese lil_fox_explore_return_help_with_rachel_4d432f47:
 
     # rachel "Keep this idiot safe. She's all that I have.."
-    rachel "Hãy giữ cho con ngốc này an toàn. Em ấy là tất những gì tôi có..."
+    rachel "Hãy giữ cho con ngốc này an toàn. Nó là tất mọi thứ tôi có..."
 
 # game/characters/little fox/explore/0base.rpy:349
 translate vietnamese lil_fox_explore_return_help_with_rachel_72e52c9d:
@@ -1225,7 +1225,7 @@ translate vietnamese strings:
     # game/characters/little fox/explore/0base.rpy:94
     old "Return home"
     new "Về nhà"
-# TODO: Translation updated at 2022-09-08 19:14
+# : Translation updated at 2022-09-08 19:14
 
 # game/characters/little fox/explore/0base.rpy:34
 translate vietnamese lil_fox_explore_3c8c8cac:
@@ -1237,7 +1237,7 @@ translate vietnamese lil_fox_explore_3c8c8cac:
 translate vietnamese lil_fox_explore_speak_a78cbc09:
 
     # me "Yes, yes. Slow down a little.."
-    me "Có, có. Chậm lại một chút đi..."
+    me "Rồi, rồi. Chậm lại một chút đi..."
 
 # game/characters/little fox/explore/0base.rpy:187
 translate vietnamese lil_fox_explore_speak_1ee3f198:

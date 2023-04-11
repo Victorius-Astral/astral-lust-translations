@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lola/speak.rpy:3
 translate vietnamese speak_lola_71e311ae:
@@ -10,7 +10,7 @@ translate vietnamese speak_lola_71e311ae:
 translate vietnamese speak_lola_1b1e1aec:
 
     # lola "Hey, you came for sex?"
-    lola "Chào, anh đến để địt hả?"
+    lola "Chào, anh đến để chịch hả?"
 
 # game/characters/lola/speak.rpy:5
 translate vietnamese speak_lola_83fe7d78:
@@ -22,7 +22,7 @@ translate vietnamese speak_lola_83fe7d78:
 translate vietnamese speak_lola_menu1_937dbbb4:
 
     # lola "That's what I was waiting for."
-    lola "Đó là những gì tôi đã chờ đợi."
+    lola "Phải thế chứ."
 
 # game/characters/lola/speak.rpy:27
 translate vietnamese speak_lola_menu1_10326968:
@@ -64,7 +64,7 @@ translate vietnamese speak_lola_menu1_f9db6597:
 translate vietnamese speak_lola_menu1_f99a7d0b:
 
     # th "If only it was that simple.."
-    th "If only it was that simple..."
+    th "Nếu chỉ đơn giản như vậy..."
 
 # game/characters/lola/speak.rpy:45
 translate vietnamese speak_lola_menu1_8df50c95:
@@ -121,7 +121,7 @@ translate vietnamese strings:
     # game/characters/lola/speak.rpy:32
     old "Why do you like sex so much?"
     new "Tại sao cô thích chịch nhau đến vậy?"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/lola/speak.rpy:45
 translate vietnamese speak_lola_menu1_b358e020:

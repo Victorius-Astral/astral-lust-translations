@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lexi/ev_8.rpy:18
 translate vietnamese lexi_8_55750ace:
@@ -1155,7 +1155,7 @@ translate vietnamese strings:
     # game/characters/lexi/ev_8.rpy:311
     old "Give up"
     new "Bỏ cuộc"
-# TODO: Translation updated at 2022-03-05 18:23
+# : Translation updated at 2022-03-05 18:23
 
 translate vietnamese strings:
 

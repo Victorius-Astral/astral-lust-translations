@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/ev_9.rpy:9
 translate vietnamese grace_9_50e318ba:
@@ -731,7 +731,7 @@ translate vietnamese grace_9_499b26f3:
 
     # th "Time to go.."
     th "Đến lúc đi rồi..."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/grace/ev_9.rpy:47
 translate vietnamese grace_9_8ee752b2:
@@ -756,7 +756,7 @@ translate vietnamese grace_9_bb4f74f8:
 
     # "You put your fingers deeper with every move, you can feel her twitch in excitement."
     "Bạn đưa ngón tay vào sâu hơn theo từng cử động, bạn có thể cảm nhận được cô ấy co giật vì phấn khích."
-# TODO: Translation updated at 2022-02-26 15:07
+# : Translation updated at 2022-02-26 15:07
 
 # game/characters/grace/ev_9.rpy:10
 translate vietnamese grace_9_8a0cd003:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-06 08:10
+﻿# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -229,7 +229,7 @@ translate vietnamese strings:
     # game/screens/gui/interactionMenu.rpy:389
     old "*Toggle with '{b}I{/b}' key"
     new "*BẬT TẮT BẰNG PHÍM '{b} i {/b}'"
-# TODO: Translation updated at 2022-11-13 15:18
+# : Translation updated at 2022-11-13 15:18
 
 translate vietnamese strings:
 

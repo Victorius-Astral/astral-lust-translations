@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/savenia/ev_1.rpy:5
 translate vietnamese savenia_1_ea8f4408:
@@ -347,7 +347,7 @@ translate vietnamese savenia_1_8952b9d4:
 
     # th "With her leg, she wouldn't be able to hurt anyone. At least for now."
     th "Với cái chân đấy, cô ấy sẽ không thể làm ai bị thương được. Ít nhất là bây giờ."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/savenia/ev_1.rpy:15
 translate vietnamese savenia_1_53d66eac:

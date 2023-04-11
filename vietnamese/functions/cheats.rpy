@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/functions/cheats.rpy:65
 translate vietnamese p_c_d86f027c:
@@ -203,14 +203,14 @@ translate vietnamese strings:
     # game/functions/cheats.rpy:316
     old "Alice's lust and trust + 10"
     new "Ham muốn và tin tưởng của Alice + 10"
-# TODO: Translation updated at 2022-02-26 15:07
+# : Translation updated at 2022-02-26 15:07
 
 translate vietnamese strings:
 
     # game/functions/cheats.rpy:5
     old "Dragon Girl"
     new "Cô gái rồng"
-# TODO: Translation updated at 2022-03-05 18:23
+# : Translation updated at 2022-03-05 18:23
 
 translate vietnamese strings:
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/savenia/ev_8.rpy:35
 translate vietnamese savenia_8_36c0a7a5:
@@ -363,7 +363,7 @@ translate vietnamese strings:
     # game/characters/savenia/ev_8.rpy:78
     old "Let's stop here"
     new "Hãy dừng lại ở đây thôi"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/savenia/ev_8.rpy:47
 translate vietnamese savenia_8_1d647c4b:

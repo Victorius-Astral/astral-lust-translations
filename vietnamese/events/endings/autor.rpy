@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/endings/autor.rpy:14
 translate vietnamese end_author_c1b575f0:
@@ -137,7 +137,7 @@ translate vietnamese strings:
     # game/events/endings/autor.rpy:36
     old "Card 'Aharon' destroyed!"
     new "Thẻ 'Aharon' bị phá hủy!"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/events/endings/autor.rpy:20
 translate vietnamese end_author_31573d51:

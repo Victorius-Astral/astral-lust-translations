@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-06 08:10
+﻿# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -9,7 +9,7 @@ translate vietnamese strings:
     # game/updates/loading/update_version.rpy:88
     old "Apply patch: "
     new "Sử dụng bản vá: "
-# TODO: Translation updated at 2022-02-26 15:07
+# : Translation updated at 2022-02-26 15:07
 
 translate vietnamese strings:
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/rachel/ev_1.rpy:12
 translate vietnamese rachel_1_3ab3935c:
@@ -419,7 +419,7 @@ translate vietnamese strings:
     # game/characters/rachel/ev_1.rpy:15
     old "Approach her"
     new "Tiếp cận cô ấy"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/rachel/ev_1.rpy:68
 translate vietnamese rachel_1_part3_f24febd4:

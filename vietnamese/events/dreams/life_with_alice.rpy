@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/dreams/life_with_alice.rpy:21
 translate vietnamese d_Life_with_Alice_2_dc4a9c6a:
@@ -551,7 +551,7 @@ translate vietnamese strings:
     # game/events/dreams/life_with_alice.rpy:67
     old "Let's just relax like this"
     new "Hãy cứ thư giãn như thế này đi"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/events/dreams/life_with_alice.rpy:55
 translate vietnamese d_Life_with_Alice_2_1b553c1e:

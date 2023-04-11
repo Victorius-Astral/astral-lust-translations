@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lexi/kiss.rpy:10
 translate vietnamese lexi_kiss_3ad64407:
@@ -357,7 +357,7 @@ translate vietnamese strings:
     # game/characters/lexi/kiss.rpy:57
     old "Nah, I'm a traditionalist"
     new "Nah, anh là người theo chủ nghĩa truyền thống"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/lexi/kiss.rpy:24
 translate vietnamese lexi_kiss_2e9132c7:

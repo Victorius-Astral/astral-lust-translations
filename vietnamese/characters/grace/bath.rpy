@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/bath.rpy:12
 translate vietnamese grace_bath_efb4765f:
@@ -467,7 +467,7 @@ translate vietnamese strings:
     # game/characters/grace/bath.rpy:27
     old "Hate"
     new "Ghét"
-# TODO: Translation updated at 2022-04-17 12:12
+# : Translation updated at 2022-04-17 12:12
 
 translate vietnamese strings:
 

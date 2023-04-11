@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/player/past_lives.rpy:11
 translate vietnamese past_lives_28919c8a:
@@ -647,7 +647,7 @@ translate vietnamese strings:
     # game/characters/player/past_lives.rpy:98
     old "I love someone else"
     new "Tao yêu một người khác"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/player/past_lives.rpy:13
 translate vietnamese past_lives_d4e4a1ed:

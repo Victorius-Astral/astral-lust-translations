@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-06-10 08:06
+﻿# : Translation updated at 2022-06-10 08:06
 
 # game/characters/lexi/ev_14.rpy:8
 translate vietnamese lexi_14_d12d7360:
@@ -88,7 +88,7 @@ translate vietnamese lexi_14_df19ce72:
 translate vietnamese lexi_14_bcb6609c:
 
     # lexi "Curiosity killed a cat."
-    lexi "Sự tò mò sẽ giết chết một con mèo."
+    lexi "Sự tò mò sẽ giết chết con mèo đấy."
 
 # game/characters/lexi/ev_14.rpy:32
 translate vietnamese lexi_14_70077a26:
@@ -100,7 +100,7 @@ translate vietnamese lexi_14_70077a26:
 translate vietnamese lexi_14_75110006:
 
     # lexi "Just forget about my laptop. It's out of your reach."
-    lexi "Cứ quên cái latop của em đi. Nó nằm ngoài tầm với của anh."
+    lexi "Cứ quên cái laptop của em đi. Nó nằm ngoài tầm với của anh."
 
 # game/characters/lexi/ev_14.rpy:34
 translate vietnamese lexi_14_62678916:
@@ -148,7 +148,7 @@ translate vietnamese lexi_14_67774b2b:
 translate vietnamese lexi_14_ff8bf061:
 
     # me "Your loss."
-    me "Em thiệt thôif."
+    me "Em thiệt thôi."
 
 # game/characters/lexi/ev_14.rpy:45
 translate vietnamese lexi_14_2cfb22b4:
@@ -166,7 +166,7 @@ translate vietnamese lexi_14_cd6a224b:
 translate vietnamese lexi_14_acb2504c:
 
     # me "A date? Are you sure you want to go out?"
-    me "Một bbuoori hẹn á? Em có chắc là em muốn đi ra ngoài không?"
+    me "Một buổi hẹn á? Em có chắc là em muốn đi ra ngoài không?"
 
 # game/characters/lexi/ev_14.rpy:54
 translate vietnamese lexi_14_ba65037d:
@@ -178,7 +178,7 @@ translate vietnamese lexi_14_ba65037d:
 translate vietnamese lexi_14_d45091b1:
 
     # lexi "Let's go on a date here. In the hotel. You get two ice creams and I'll get us some wine."
-    lexi "Ở đây cơ. Trong khách sạn. Anh lấy hai cái kem và em sẽ lấy cho chúng tôi một ít rượu."
+    lexi "Ở đây cơ. Trong khách sạn. Anh lấy hai cái kem và em sẽ lấy cho chúng ta một ít rượu."
 
 # game/characters/lexi/ev_14.rpy:56
 translate vietnamese lexi_14_6277c131:
@@ -262,13 +262,13 @@ translate vietnamese lexi_14_e16b7e75:
 translate vietnamese lexi_14_d1a4ca12:
 
     # me "I didn't know you could cook."
-    me "Anh khồn biết là em có thể nấu đấy."
+    me "Anh không biết là em có thể nấu đấy."
 
 # game/characters/lexi/ev_14.rpy:82
 translate vietnamese lexi_14_26074e31:
 
     # lexi "Of course, I can. You'll see."
-    lexi "Tất nhiên là em có thể rồi. Lúc đấy an khác biết."
+    lexi "Tất nhiên là em biết rồi. Lúc đấy anh khác biết."
 
 # game/characters/lexi/ev_14.rpy:83
 translate vietnamese lexi_14_46ee9acc:
@@ -316,13 +316,13 @@ translate vietnamese lexi_14_d8edace0:
 translate vietnamese lexi_14_7a031f20:
 
     # lexi "I'll be ready in a da- No, two days. Come to me then, I'll be waiting."
-    lexi "Tôi sẽ sẵn sàng trong một ngày - Không, hai ngày nữa. Lúc đấy hãy đến đây, em sẽ đợi."
+    lexi "Em sẽ sẵn sàng trong một ngà- Không, hai ngày nữa. Lúc đấy hãy đến đây, em sẽ đợi."
 
 # game/characters/lexi/ev_14.rpy:97
 translate vietnamese lexi_14_1ce9b8ed:
 
     # me "Sure thing, I'll try to get them asap."
-    me "Ddowcj thôi, anh sẽ làm nhanh nhất có thể."
+    me "Được thôi, anh sẽ làm nhanh nhất có thể."
 
 # game/characters/lexi/ev_14.rpy:103
 translate vietnamese lexi_14_272c07fe:

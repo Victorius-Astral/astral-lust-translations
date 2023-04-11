@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lexi/ev_7.rpy:14
 translate vietnamese lexi_7_64c3d9b8:
@@ -443,7 +443,7 @@ translate vietnamese strings:
     # game/characters/lexi/ev_7.rpy:100
     old "Ask if she is okay"
     new "Hỏi xem cô ấy có ổn không"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

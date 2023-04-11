@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -8,7 +8,7 @@ translate vietnamese strings:
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new "Clipboard voicing enabled. "
+    new "Đã bật tính năng lồng tiếng vào bảng tạm. "
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
@@ -72,11 +72,11 @@ translate vietnamese strings:
 
     # renpy/common/00accessibility.rpy:162
     old "Reset"
-    new "Reset"
+    new "Đặt lại"
 
     # renpy/common/00accessibility.rpy:168
     old "Line Spacing Scaling"
-    new "Line Spacing Scaling"
+    new "Thu nhỏ khoảng cách dòng"
 
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
@@ -112,7 +112,7 @@ translate vietnamese strings:
 
     # renpy/common/00accessibility.rpy:215
     old "Self-Voicing Volume Drop"
-    new "Self-Voicing Volume Drop"
+    new "Giảm âm lượng tự lồng tiếng"
 
     # renpy/common/00accessibility.rpy:224
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
@@ -288,19 +288,19 @@ translate vietnamese strings:
 
     # renpy/common/00action_file.rpy:576
     old "File page auto"
-    new "File page auto"
+    new "Trang tệp tự động"
 
     # renpy/common/00action_file.rpy:578
     old "File page quick"
-    new "File page quick"
+    new "Trang tệp nhanh"
 
     # renpy/common/00action_file.rpy:580
     old "File page [text]"
-    new "File page [text]"
+    new "Trang tệp [text]"
 
     # renpy/common/00action_file.rpy:779
     old "Next file page."
-    new "Next file page."
+    new "Trang tệp tiếp theo."
 
     # renpy/common/00action_file.rpy:851
     old "Previous file page."
@@ -324,7 +324,7 @@ translate vietnamese strings:
 
     # renpy/common/00director.rpy:708
     old "The interactive director is not enabled here."
-    new "The interactive director is not enabled here."
+    new "Chỉ đạo tương tác không thể được kích hoạt ở đây."
 
     # renpy/common/00director.rpy:1481
     old "⬆"
@@ -412,7 +412,7 @@ translate vietnamese strings:
 
     # renpy/common/00director.rpy:1803
     old "Audio Filename:"
-    new "Audio Filename:"
+    new "Tên tệp âm thanh:"
 
     # renpy/common/00gui.rpy:423
     old "Are you sure?"
@@ -456,11 +456,11 @@ translate vietnamese strings:
 
     # renpy/common/00keymap.rpy:306
     old "Failed to save screenshot as %s."
-    new "Failed to save screenshot as %s."
+    new "Không thể lưu ảnh chụp màn hình %."
 
     # renpy/common/00keymap.rpy:318
     old "Saved screenshot as %s."
-    new "Saved screenshot as %s."
+    new "Đã lưu ảnh chụp màn hình dưới dạng %."
 
     # renpy/common/00library.rpy:195
     old "Skip Mode"
@@ -576,7 +576,7 @@ translate vietnamese strings:
 
     # renpy/common/00preferences.rpy:437
     old "rollback side"
-    new "rollback side"
+    new "Phía lăn lại"
 
     # renpy/common/00preferences.rpy:447
     old "gl powersave"
@@ -604,7 +604,7 @@ translate vietnamese strings:
 
     # renpy/common/00preferences.rpy:478
     old "system cursor"
-    new "system cursor"
+    new "con trỏ hệ thống"
 
     # renpy/common/00preferences.rpy:487
     old "renderer menu"
@@ -692,15 +692,15 @@ translate vietnamese strings:
 
     # renpy/common/_developer/developer.rpym:49
     old "Variable Viewer"
-    new "Variable Viewer"
+    new "Trình xem biến"
 
     # renpy/common/_developer/developer.rpym:51
     old "Image Location Picker"
-    new "Image Location Picker"
+    new "Bộ chọn vị trí hình ảnh"
 
     # renpy/common/_developer/developer.rpym:53
     old "Filename List"
-    new "Filename List"
+    new "Danh sách tên các tệp"
 
     # renpy/common/_developer/developer.rpym:57
     old "Show Image Load Log (F4)"
@@ -716,7 +716,7 @@ translate vietnamese strings:
 
     # renpy/common/_developer/developer.rpym:90
     old "[name] [attributes] (hidden)"
-    new "[name] [attributes] (hidden)"
+    new "[name] [attributes] (ẩn)"
 
     # renpy/common/_developer/developer.rpym:94
     old "[name] [attributes]"
@@ -732,11 +732,11 @@ translate vietnamese strings:
 
     # renpy/common/_developer/developer.rpym:154
     old "Show deleted"
-    new "Show deleted"
+    new "Hiện đã xóa"
 
     # renpy/common/_developer/developer.rpym:278
     old "Return to the developer menu"
-    new "Return to the developer menu"
+    new "Quay lại menu nhà phát triển"
 
     # renpy/common/_developer/developer.rpym:443
     old "Rectangle: %r"
@@ -872,71 +872,71 @@ translate vietnamese strings:
 
     # renpy/common/00updater.rpy:1560
     old "An error has occured:"
-    new "An error has occured:"
+    new "Đã xảy ra lỗi:"
 
     # renpy/common/00updater.rpy:1562
     old "Checking for updates."
-    new "Checking for updates."
+    new "Đang kiểm tra các bản cập nhật."
 
     # renpy/common/00updater.rpy:1564
     old "This program is up to date."
-    new "This program is up to date."
+    new "Chương trình này được cập nhật."
 
     # renpy/common/00updater.rpy:1566
     old "[u.version] is available. Do you want to install it?"
-    new "[u.version] is available. Do you want to install it?"
+    new "Bản [u.version] đã sẵn sàng. Bạn có muốn cài đặt nó không?"
 
     # renpy/common/00updater.rpy:1568
     old "Preparing to download the updates."
-    new "Preparing to download the updates."
+    new "Đang chuẩn bị tải xuống các bản cập nhật."
 
     # renpy/common/00updater.rpy:1570
     old "Downloading the updates."
-    new "Downloading the updates."
+    new "Đang tải xuống các bản cập nhật."
 
     # renpy/common/00updater.rpy:1572
     old "Unpacking the updates."
-    new "Unpacking the updates."
+    new "Giải nén các bản cập nhật."
 
     # renpy/common/00updater.rpy:1574
     old "Finishing up."
-    new "Finishing up."
+    new "Đang kết thúc."
 
     # renpy/common/00updater.rpy:1576
     old "The updates have been installed. The program will restart."
-    new "The updates have been installed. The program will restart."
+    new "Bản cập nhật đã được cài đặt. Chương trình sẽ khởi động lại."
 
     # renpy/common/00updater.rpy:1578
     old "The updates have been installed."
-    new "The updates have been installed."
+    new "Bản cập nhật đã được cài đặt."
 
     # renpy/common/00updater.rpy:1580
     old "The updates were cancelled."
-    new "The updates were cancelled."
+    new "Các bản cập nhật đã bị hủy bỏ."
 
     # renpy/common/00updater.rpy:1595
     old "Proceed"
-    new "Proceed"
+    new "Tiếp tục"
 
     # renpy/common/00gallery.rpy:590
     old "Image [index] of [count] locked."
-    new "Image [index] of [count] locked."
+    new "Hình ảnh [index] của [count] đã bị khóa."
 
     # renpy/common/00gallery.rpy:610
     old "prev"
-    new "prev"
+    new "Trước"
 
     # renpy/common/00gallery.rpy:611
     old "next"
-    new "next"
+    new "sau"
 
     # renpy/common/00gallery.rpy:612
     old "slideshow"
-    new "slideshow"
+    new "trình chiếu"
 
     # renpy/common/00gallery.rpy:613
     old "return"
-    new "return"
+    new "QUay lại"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
@@ -944,7 +944,7 @@ translate vietnamese strings:
 
     # renpy/common/00gltest.rpy:93
     old "Automatically Choose"
-    new "Automatically Choose"
+    new "Tự động Chọn"
 
     # renpy/common/00gltest.rpy:100
     old "Force GL Renderer"
@@ -972,7 +972,7 @@ translate vietnamese strings:
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
-    new "Enable (No Blocklist)"
+    new "Bật (Không có danh sách chặn)"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
@@ -1000,15 +1000,15 @@ translate vietnamese strings:
 
     # renpy/common/00gltest.rpy:207
     old "Changes will take effect the next time this program is run."
-    new "Changes will take effect the next time this program is run."
+    new "Các thay đổi sẽ có hiệu lực vào lần tiếp theo chương trình này được chạy."
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
-    new "Performance Warning"
+    new "Cảnh báo hiệu suất"
 
     # renpy/common/00gltest.rpy:247
     old "This computer is using software rendering."
-    new "This computer is using software rendering."
+    new "Máy tính này đang sử dụng phần mềm render."
 
     # renpy/common/00gltest.rpy:249
     old "This game requires use of GL2 that can't be initialised."
@@ -1016,7 +1016,7 @@ translate vietnamese strings:
 
     # renpy/common/00gltest.rpy:251
     old "This computer has a problem displaying graphics: [problem]."
-    new "This computer has a problem displaying graphics: [problem]."
+    new "Máy tính này gặp sự cố khi hiển thị: [problem]."
 
     # renpy/common/00gltest.rpy:255
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
@@ -1137,7 +1137,7 @@ translate vietnamese strings:
     # renpy/common/_errorhandling.rpym:671
     old "Parsing the script failed."
     new "Parsing the script failed."
-# TODO: Translation updated at 2022-05-11 01:55
+# : Translation updated at 2022-05-11 01:55
 
 translate vietnamese strings:
 
@@ -1149,7 +1149,7 @@ translate vietnamese strings:
     old "Framerate"
     new "Tỷ lệ khung hình"
 
-# TODO: Translation updated at 2022-05-12 09:37
+# : Translation updated at 2022-05-12 09:37
 
 translate vietnamese strings:
 

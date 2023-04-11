@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-06 08:10
+﻿# : Translation updated at 2022-02-06 08:10
 
 # game/characters/rhainda/lilfox_1.rpy:5
 translate vietnamese rhainda_lilfox1_ef8296eb:

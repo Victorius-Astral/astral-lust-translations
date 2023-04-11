@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -25,7 +25,7 @@ translate vietnamese strings:
     # game/combat/cards/Card.rpy:354
     old "Error playing card! \n Missing play() method."
     new "Error playing card! \n Missing play() method."
-# TODO: Translation updated at 2022-03-05 18:23
+# : Translation updated at 2022-03-05 18:23
 
 translate vietnamese strings:
 

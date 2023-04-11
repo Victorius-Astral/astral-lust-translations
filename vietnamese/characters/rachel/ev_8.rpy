@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/rachel/ev_8.rpy:9
 translate vietnamese rachel_8_0b4367c3:
@@ -706,7 +706,7 @@ translate vietnamese strings:
     # game/characters/rachel/ev_8.rpy:144
     old "I don't like them"
     new "Tôi không thích chúng"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/rachel/ev_8.rpy:47
 translate vietnamese rachel_8_743cf85c:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-06 08:10
+﻿# : Translation updated at 2022-02-06 08:10
 
 # game/characters/rhainda/ev_1.rpy:42
 translate vietnamese rhainda_1_cc5c7691:
@@ -1563,7 +1563,7 @@ translate vietnamese strings:
     # game/characters/rhainda/ev_1.rpy:559
     old "Rhainda"
     new "Rhainda"
-# TODO: Translation updated at 2022-03-11 07:54
+# : Translation updated at 2022-03-11 07:54
 
 translate vietnamese strings:
 

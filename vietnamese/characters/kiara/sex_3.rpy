@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-06 08:10
+﻿# : Translation updated at 2022-02-06 08:10
 
 # game/characters/kiara/sex_3.rpy:66
 translate vietnamese kiara_sex_3_7d231049:
@@ -77,7 +77,7 @@ translate vietnamese kiara_sex_3_fast_850030e7:
 
     # me ""
     me ""
-# TODO: Translation updated at 2022-02-16 09:38
+# : Translation updated at 2022-02-16 09:38
 
 # game/characters/kiara/sex_3.rpy:92
 translate vietnamese kiara_sex_3_fast_b7a83025:

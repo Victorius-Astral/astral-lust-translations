@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/rachel/speak_build.rpy:24
 translate vietnamese speak_rachel_build_fe9274ca:
@@ -745,7 +745,7 @@ translate vietnamese strings:
     # game/characters/rachel/speak_build.rpy:253
     old "Give 1 dragon bone {#visible}"
     new "Đưa 1 xương rồng {#visible}"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/rachel/speak_build.rpy:98
 translate vietnamese speak_rachel_build_part2_d25a92db:

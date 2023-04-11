@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -29,7 +29,7 @@ translate vietnamese strings:
     # game/combat/cards/lists/tips.rpy:1
     old "\n________________\n {{patreon1}}Thank you for being with us since the beginning!{{/patreon1}}"
     new "\n________________\n {{patreon1}}Cảm ơn bạn đã ở bên chúng tôi từ những ngày đầu!{{/patreon1}}"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -60,7 +60,7 @@ translate vietnamese strings:
     # game/combat/cards/lists/tips.rpy:1
     old "\n________________"
     new "\n________________"
-# TODO: Translation updated at 2022-02-16 09:38
+# : Translation updated at 2022-02-16 09:38
 
 translate vietnamese strings:
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -41,7 +41,7 @@ translate vietnamese strings:
     # game/screens/utility/keymap.rpy:46
     old "Open/Close map."
     new "Mở/Đóng bản đồ."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -52,7 +52,7 @@ translate vietnamese strings:
     # game/screens/utility/keymap.rpy:54
     old "Toggle task menu."
     new "Chuyển đổi menu tác vụ."
-# TODO: Translation updated at 2022-03-05 18:23
+# : Translation updated at 2022-03-05 18:23
 
 translate vietnamese strings:
 

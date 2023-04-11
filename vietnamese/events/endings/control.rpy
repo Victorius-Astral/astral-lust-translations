@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/endings/control.rpy:10
 translate vietnamese end_control_2b587384:
@@ -95,7 +95,7 @@ translate vietnamese strings:
     # game/events/endings/control.rpy:7
     old "Your sanity fallen to 0%!"
     new "Độ tỉnh táo của bạn giảm xuống 0%!"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/events/endings/control.rpy:32
 translate vietnamese end_control_b9863f18:

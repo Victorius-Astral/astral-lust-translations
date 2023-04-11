@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/hotel/lobby/bike.rpy:3
 translate vietnamese room_lobby_bike_5a41daaa:

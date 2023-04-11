@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/explore/treasure_hunt.rpy:49
 translate vietnamese exp_treasure_hunt_part1_efd11ab7:
@@ -1449,7 +1449,7 @@ translate vietnamese strings:
     # game/events/explore/treasure_hunt.rpy:540
     old "Bullshit + 1"
     new "Trình độ chém gió + 1"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/events/explore/treasure_hunt.rpy:58
 translate vietnamese exp_treasure_hunt_part1_96368534:

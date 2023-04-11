@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/ev_1.rpy:3
 translate vietnamese grace_1_dcc7a3b2:
@@ -263,7 +263,7 @@ translate vietnamese strings:
     # game/characters/grace/ev_1.rpy:12
     old "It's too risky"
     new "Quá rủi ro"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

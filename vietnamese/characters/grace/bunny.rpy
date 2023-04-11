@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-09-08 19:14
+﻿# : Translation updated at 2022-09-08 19:14
 
 # game/characters/grace/bunny.rpy:17
 translate vietnamese grace_bunny_fb96f1e8:

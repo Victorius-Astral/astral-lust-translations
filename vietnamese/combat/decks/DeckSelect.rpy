@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -13,7 +13,7 @@ translate vietnamese strings:
     # game/combat/decks/DeckSelect.rpy:65
     old "* Hover outside to see enemies"
     new "* Di chuột ra ngoài để xem kẻ thù"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/mods/modes/developer/developer.rpy:36
 translate vietnamese DEV_TEST_1c5c249e:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-05-11 01:55
+﻿# : Translation updated at 2022-05-11 01:55
 
 # game/characters/grace/ev_11.rpy:5
 translate vietnamese grace_11_19310ec5:

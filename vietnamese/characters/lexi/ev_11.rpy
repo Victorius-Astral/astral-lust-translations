@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lexi/ev_11.rpy:7
 translate vietnamese lexi_11_c63ec388:
@@ -999,7 +999,7 @@ translate vietnamese strings:
     # game/characters/lexi/ev_11.rpy:315
     old "Pretend you don't hear her"
     new "Giả vờ không nghe thấy"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/lexi/ev_11.rpy:11
 translate vietnamese lexi_11_73555af4:

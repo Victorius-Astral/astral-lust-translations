@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-06 08:10
+﻿# : Translation updated at 2022-02-06 08:10
 
 # game/characters/kiara/fj_1.rpy:66
 translate vietnamese kiara_fj_1_650bc78a:

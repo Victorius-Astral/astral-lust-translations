@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -305,7 +305,7 @@ translate vietnamese strings:
     # game/variables/tips.rpy:4
     old "I should talk with her, didn't have a chance last time."
     new "Tôi nên nói chuyện với cô ấy, lần trước mình không có cơ hội làm vậy."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -333,14 +333,14 @@ translate vietnamese strings:
     old "I should ask her next day how she gets along with the girls."
     new "Mình nên hỏi cô ấy vào ngày hôm sau xem."
 
-# TODO: Translation updated at 2022-02-18 12:36
+# : Translation updated at 2022-02-18 12:36
 
 translate vietnamese strings:
 
     # game/variables/tips.rpy:4
     old "I should ask her more about the extraordinary world. (Main Story at least 12)"
     new "Mình nên hỏi cô ấy nhiều hơn về thế giới thần thánh. (Cốt truyện chính ít nhất 12)"
-# TODO: Translation updated at 2022-02-19 01:56
+# : Translation updated at 2022-02-19 01:56
 
 translate vietnamese strings:
 
@@ -351,7 +351,7 @@ translate vietnamese strings:
     # game/variables/tips.rpy:4
     old "I need to ask Kiara about this.. being.."
     new "Tôi cần hỏi Kiara về,.. thực thể này..."
-# TODO: Translation updated at 2022-06-10 08:06
+# : Translation updated at 2022-06-10 08:06
 
 translate vietnamese strings:
 
@@ -378,7 +378,7 @@ translate vietnamese strings:
     # game/variables/tips.rpy:4
     old "We should chit chat sometimes."
     new "Chúng ta nên tám chuyện nhiều hơn."
-# TODO: Translation updated at 2022-06-22 09:23
+# : Translation updated at 2022-06-22 09:23
 
 translate vietnamese strings:
 
@@ -397,7 +397,7 @@ translate vietnamese strings:
     # game/variables/tips.rpy:4
     old "I need to get vodka for her."
     new "Tôi cần lấy vodka cho cô ấy."
-# TODO: Translation updated at 2022-08-20 13:45
+# : Translation updated at 2022-08-20 13:45
 
 translate vietnamese strings:
 

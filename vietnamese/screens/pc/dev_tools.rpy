@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-08-13 15:58
+﻿# : Translation updated at 2022-08-13 15:58
 
 translate vietnamese strings:
 
@@ -77,7 +77,7 @@ translate vietnamese strings:
     # game/screens/pc/dev_tools.rpy:203
     old "All collectibles unlocked."
     new "Đã mở khóa tất cả các bộ sưu tập."
-# TODO: Translation updated at 2022-09-08 19:14
+# : Translation updated at 2022-09-08 19:14
 
 translate vietnamese strings:
 
@@ -92,7 +92,7 @@ translate vietnamese strings:
     # game/screens/pc/dev_tools.rpy:248
     old "Without sound"
     new "Không có âm thanh"
-# TODO: Translation updated at 2022-11-13 15:18
+# : Translation updated at 2022-11-13 15:18
 
 translate vietnamese strings:
 

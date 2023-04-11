@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
@@ -21,7 +21,7 @@ translate vietnamese strings:
     # game/combat/decks/DecksMenu.rpy:92
     old "You need at least 11 cards in all decks to destroy a card!"
     new "Bạn cần ít nhất 11 lá bài ở tất cả bộ bài để phá hủy 1 lá!"
-# TODO: Translation updated at 2022-03-05 18:23
+# : Translation updated at 2022-03-05 18:23
 
 translate vietnamese strings:
 

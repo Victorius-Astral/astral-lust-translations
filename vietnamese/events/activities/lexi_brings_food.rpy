@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-06 08:10
+﻿# : Translation updated at 2022-02-06 08:10
 
 # game/events/activities/lexi_brings_food.rpy:19
 translate vietnamese lexi_brings_food_a1d8d067:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/ev_9.rpy:3
 translate vietnamese mina_9_280ebf25:
@@ -523,7 +523,7 @@ translate vietnamese strings:
     # game/characters/mina/ev_9.rpy:71
     old "Not at all"
     new "Không hề"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

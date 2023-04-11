@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/ev_4.rpy:3
 translate vietnamese grace_4_b09367ee:
@@ -363,7 +363,7 @@ translate vietnamese strings:
     # game/characters/grace/ev_4.rpy:108
     old "I'm fine"
     new "Anh ổn"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/feet_masage.rpy:33
 translate vietnamese mina_feet_massage_8c735124:
@@ -532,7 +532,7 @@ translate vietnamese mina_feet_massage_low_skill_3820771a_1:
 translate vietnamese mina_feet_massage_low_skill_8a5502a1:
 
     # me "That was the most sexist thing I've heard my whole life."
-    me "Đó là thứ phân biệt giới tính nhất mà anh đã được nghe trong suốt cuộc đời này đấy."
+    me "Đó là thứ kỳ thị giới tính nhất mà anh đã được nghe trong suốt cuộc đời này đấy."
 
 # game/characters/mina/feet_masage.rpy:240
 translate vietnamese mina_feet_massage_low_skill_1b8082c5:
@@ -1647,7 +1647,7 @@ translate vietnamese strings:
     # game/characters/mina/feet_masage.rpy:368
     old "Stop"
     new "Dừng lại"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/mina/feet_masage.rpy:60
 translate vietnamese mina_feet_massage_61d2ff02:

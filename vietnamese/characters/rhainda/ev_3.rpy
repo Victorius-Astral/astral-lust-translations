@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-05-11 01:55
+﻿# : Translation updated at 2022-05-11 01:55
 
 # game/characters/rhainda/ev_3.rpy:5
 translate vietnamese rhainda_3_6d5d0ddc:
@@ -472,7 +472,7 @@ translate vietnamese rhainda_3_3fa48b27:
 translate vietnamese rhainda_3_f511a111:
 
     # rhainda "Because you're intelligent, these are mindless monsters, they fight till either side dies!"
-    rhainda "Bởi vì anh có trí khôn, đây là những con quái vật vô tâm, chúng chiến đấu cho đến khi một bên chết thì mới thôi!"
+    rhainda "Bởi vì anh có trí khôn, đây là những con quái vật vô cảm, chúng chiến đấu cho đến khi một bên chết thì mới thôi!"
 
 # game/characters/rhainda/ev_3.rpy:149
 translate vietnamese rhainda_3_881dce9e:
@@ -700,7 +700,7 @@ translate vietnamese rhainda_3_0ebd41d6:
 translate vietnamese rhainda_3_0b3c0e65:
 
     # me "Me? Nothing would happen if we fought these two werewolves right away!"
-    me "Anh á? Sẽ chả có gì xảy ra cra nếu chúng ta đơm luôn 2 con người sói vừa nãy!"
+    me "Anh á? Sẽ chả có gì xảy ra ra nếu chúng ta đơm luôn 2 con người sói vừa nãy!"
 
 # game/characters/rhainda/ev_3.rpy:217
 translate vietnamese rhainda_3_3b1b69e2:
@@ -724,7 +724,7 @@ translate vietnamese rhainda_3_0c42c213:
 translate vietnamese rhainda_3_28462e4d:
 
     # me "Uhh.. Yeah. I think it went in for the monsters."
-    me "Uhh... yeah. Anh nghxi là nó chuyển snag bọn quái vật kia rồi."
+    me "Uhh... yeah. Anh nghĩ là nó chuyển sang bọn quái vật kia rồi."
 
 # game/characters/rhainda/ev_3.rpy:224
 translate vietnamese rhainda_3_c00ab539:
@@ -748,7 +748,7 @@ translate vietnamese rhainda_3_f79fc91a:
 translate vietnamese rhainda_3_4d7a78e6:
 
     # me "I admit I fucked you."
-    me "Anh thừa nhận là anh đã địt {small}mẹ{/small} em."
+    me "Được rồi. Anh thừa nhận là anh đã địt {small}mẹ{/small} em."
 
 # game/characters/rhainda/ev_3.rpy:231
 translate vietnamese rhainda_3_a5675c47:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/hotel/lobby/counter.rpy:9
 translate vietnamese room_lobby_counter_dd5952c9:

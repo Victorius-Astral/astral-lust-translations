@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 translate vietnamese strings:
 
     # game/variables/characters/events.rpy:3
     old "Madman"
-    new "Madman"
+    new "Kẻ điên"
 
     # game/variables/characters/events.rpy:7
     old "Bandit Leader"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/alice/kiss.rpy:30
 translate vietnamese alice_kiss_9d46b110:
@@ -821,7 +821,7 @@ translate vietnamese strings:
     # game/characters/alice/kiss.rpy:437
     old "I've changed my mind, next time, [alice]"
     new "Anh đổi ý rồi để lần sau đi, [alice]"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/alice/kiss.rpy:83
 translate vietnamese alice_kiss_gym_68117194:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/wanderers/prostitutes/amanda.rpy:16
 translate vietnamese w_booth_amanda_2c482652:
@@ -258,7 +258,7 @@ translate vietnamese strings:
     old "I'm sure"
     new "Anh chắc mà"
 
-# TODO: Translation updated at 2022-02-16 09:38
+# : Translation updated at 2022-02-16 09:38
 
 translate vietnamese strings:
 
@@ -266,7 +266,7 @@ translate vietnamese strings:
     old "sir"
     new "Anh"
 
-# TODO: Translation updated at 2022-03-11 07:54
+# : Translation updated at 2022-03-11 07:54
 
 translate vietnamese strings:
 

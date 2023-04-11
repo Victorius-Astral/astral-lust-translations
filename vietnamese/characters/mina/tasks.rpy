@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/tasks.rpy:5
 translate vietnamese task_mina_tidyup_e7832ca0:
@@ -65,7 +65,7 @@ translate vietnamese task_mina_tidyup_8c9a7caf:
 
     # mina "Sure mate."
     mina "Được rồi anh bạn."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/mina/tasks.rpy:22
 translate vietnamese task_mina_tidyup_5bae54d3:

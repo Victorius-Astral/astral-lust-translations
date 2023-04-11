@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/lola/pilediver.rpy:25
 translate vietnamese lola_pilediver_92a33140:
@@ -161,7 +161,7 @@ translate vietnamese lola_pilediver_cum_96a9dcb6:
 
     # me "Again.. What a girl she is."
     me "Lại nữa... đúng là 1 cô gái kỳ là."
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/lola/pilediver.rpy:43
 translate vietnamese lola_pilediver_slow_a9af1e5e:

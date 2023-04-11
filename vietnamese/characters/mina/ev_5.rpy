@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/mina/ev_5.rpy:20
 translate vietnamese mina_5_6fa06998:
@@ -1509,7 +1509,7 @@ translate vietnamese strings:
     # game/characters/mina/ev_5.rpy:381
     old "She already learned her lesson"
     new "Cô ấy đã học được một bài học rồi"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/mina/ev_5.rpy:141
 translate vietnamese mina_5_26efd3d9:

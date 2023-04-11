@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-06 08:10
+﻿# : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
@@ -22,7 +22,7 @@ translate vietnamese strings:
     old "• Rhainda x Little Fox\n  Content (Disabled)"
     new "• Sự kiện của Rhainda x Little Fox\n  (Đã tắt)"
 
-# TODO: Translation updated at 2022-03-05 18:23
+# : Translation updated at 2022-03-05 18:23
 
 translate vietnamese strings:
 

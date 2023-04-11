@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/little fox/fj_1.rpy:38
 translate vietnamese lil_fox_fj_1_16625f06:
@@ -173,7 +173,7 @@ translate vietnamese lil_fox_fj_1_cum_ca30c183:
 
     # lil_fox "Uh-huh!"
     lil_fox "Uh-huh!"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/little fox/fj_1.rpy:42
 translate vietnamese lil_fox_fj_1_1060c925:

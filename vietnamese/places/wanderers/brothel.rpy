@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/places/wanderers/brothel.rpy:39
 translate vietnamese wanderers_brothel_753a405b:
@@ -259,7 +259,7 @@ translate vietnamese strings:
     # game/places/wanderers/brothel.rpy:56
     old "Can I take a look at your girls before paying?"
     new "Tôi có thể nhìn các cô gái của Chị trước khi trả tiền không?"
-# TODO: Translation updated at 2022-03-11 07:54
+# : Translation updated at 2022-03-11 07:54
 
 translate vietnamese strings:
 

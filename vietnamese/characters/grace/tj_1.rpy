@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/characters/grace/tj_1.rpy:76
 translate vietnamese grace_tj_1_slow_26f92791:
@@ -235,7 +235,7 @@ translate vietnamese strings:
     # game/characters/grace/tj_1.rpy:221
     old "Go out"
     new "Đi ra ngoài"
-# TODO: Translation updated at 2022-02-06 08:10
+# : Translation updated at 2022-02-06 08:10
 
 # game/characters/grace/tj_1.rpy:120
 translate vietnamese grace_tj_1_fast_7eba37dd:

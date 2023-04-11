@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-12-24 07:09
+﻿# : Translation updated at 2021-12-24 07:09
 
 # game/events/explore/market.rpy:15
 translate vietnamese explore_market_90030e3d:
@@ -231,7 +231,7 @@ translate vietnamese strings:
     # game/events/explore/market.rpy:87
     old "Open the door"
     new "Mở cửa"
-# TODO: Translation updated at 2022-06-10 08:06
+# : Translation updated at 2022-06-10 08:06
 
 # game/events/explore/market.rpy:54
 translate vietnamese exp_market_menu_c1884038:
