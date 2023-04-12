@@ -1822,7 +1822,7 @@ translate vietnamese strings:
     new "Meet - Alex"
 
     # game/variables/replays.rpy:665
-    old "Meet a petite middleman seeling other's harvest for the first time."
+    old "Meet a petite middleman selling other's harvest for the first time."
     new "Meet a petite middleman seeling other's harvest for the first time."
 
     # game/variables/replays.rpy:665
@@ -1950,7 +1950,7 @@ translate vietnamese strings:
     new "Door - Monster Disappearance"
 
     # game/variables/replays.rpy:715
-    old "Make sure the unwated observer at night didn't enter."
+    old "Make sure the unwanted observer at night didn't enter."
     new "Make sure the unwated observer at night didn't enter."
 
     # game/variables/replays.rpy:715
@@ -2020,4 +2020,3 @@ translate vietnamese strings:
     # game/variables/replays.rpy:800
     old "Meet her while exploring the city. (Rachel {love}affection{/love} 7+)"
     new "Meet her while exploring the city. (Rachel {love}affection{/love} 7+)"
-

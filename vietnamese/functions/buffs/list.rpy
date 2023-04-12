@@ -158,6 +158,5 @@ translate vietnamese strings:
 translate vietnamese strings:
 
     # game/functions/buffs/list.rpy:38
-    old "Your mind is heavy, your thoughts slugish. The actions you'll be able to perform in battle will be less. This effect is decreased by resting and is removed when sleeping."
+    old "Your mind is heavy, your thoughts sluggish. The actions you'll be able to perform in battle will be less. This effect is decreased by resting and is removed when sleeping."
     new "Your mind is heavy, your thoughts slugish. The actions you'll be able to perform in battle will be less. This effect is decreased by resting and is removed when sleeping."
-
