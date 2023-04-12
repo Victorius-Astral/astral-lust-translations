@@ -33,3 +33,15 @@ translate vietnamese strings:
     old "Deadly Strike"
     new "Deadly Strike"
 
+# TODO: Translation updated at 2023-04-12 18:59
+
+translate vietnamese strings:
+
+    # game/combat/cards/CardManager.rpy:1051
+    old "{} evolved!"
+    new "{} evolved!"
+
+    # game/combat/cards/CardManager.rpy:1055
+    old "{} unlocked!"
+    new "{} unlocked!"
+
