@@ -32,3 +32,14 @@ translate vietnamese strings:
     # game/combat/cards/CardManager.rpy:480
     old "Deadly Strike"
     new "Cú đánh chết người"
+# : Translation updated at 2023-04-12 18:59
+
+translate vietnamese strings:
+
+    # game/combat/cards/CardManager.rpy:1051
+    old "{} evolved!"
+    new "{} đã tiến hóa!"
+
+    # game/combat/cards/CardManager.rpy:1055
+    old "{} unlocked!"
+    new "{} đã mở khóa!"

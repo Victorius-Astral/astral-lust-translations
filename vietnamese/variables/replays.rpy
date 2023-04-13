@@ -1822,7 +1822,7 @@ translate vietnamese strings:
     new "Gặp - Alex"
 
     # game/variables/replays.rpy:665
-    old "Meet a petite middleman seeling other's harvest for the first time."
+    old "Meet a petite middleman selling other's harvest for the first time."
     new "Lần đầu tiên gặp một em môi giới đang bán mùa màng của người khác."
 
     # game/variables/replays.rpy:665
@@ -1950,7 +1950,7 @@ translate vietnamese strings:
     new "Cửa - quái vật biến mất"
 
     # game/variables/replays.rpy:715
-    old "Make sure the unwated observer at night didn't enter."
+    old "Make sure the unwanted observer at night didn't enter."
     new "Đảm bảo rằng những vị khách không mời đang rình mò lúc đêm khuya không thể vào nhà."
 
     # game/variables/replays.rpy:715

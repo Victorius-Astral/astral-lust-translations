@@ -347,3 +347,14 @@ translate vietnamese strings:
     # game/combat/cards/lists/descriptions.rpy:1
     old "Descrease target's {effects}."
     new "Giảm {effects} của kẻ địch."
+# : Translation updated at 2023-04-12 18:59
+
+translate vietnamese strings:
+
+    # game/combat/cards/lists/descriptions.rpy:1
+    old "Lose {effects}."
+    new "Mất {effects}."
+
+    # game/combat/cards/lists/descriptions.rpy:1
+    old "Grant {effects}."
+    new "Ban cho {effects}."
