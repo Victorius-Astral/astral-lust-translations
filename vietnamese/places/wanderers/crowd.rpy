@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-04-11 07:48
+﻿# : Translation updated at 2023-04-11 07:48
 
 # game/places/wanderers/crowd.rpy:28
 translate vietnamese w_soldier1_chat_25d53f25:

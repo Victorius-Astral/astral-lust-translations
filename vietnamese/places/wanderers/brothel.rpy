@@ -266,11 +266,10 @@ translate vietnamese strings:
     # game/places/wanderers/brothel.rpy:23
     old "Madam Hof"
     new "Madam Hof"
-# TODO: Translation updated at 2023-04-12 19:13
+# : Translation updated at 2023-04-12 19:13
 
 translate vietnamese strings:
 
     # game/places/wanderers/brothel.rpy:186
     old "Close Album"
-    new "Close Album"
-
+    new "Đóng Album"

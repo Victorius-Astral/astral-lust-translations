@@ -16,13 +16,13 @@ translate vietnamese p_c_aaaa984c:
 translate vietnamese v1_win_64498d69:
 
     # me "Bitch is dead. Bless {color=#672c2c}Victorius{/color}."
-    me "Con đũy này ngỏm cmnr. Lậy chúa {color=#672c2c}Victorius{/color}."
+    me "Con đũy này ngỏm cmnr. Lậy bố {color=#672c2c}Victorius{/color}."
 
 # game/functions/cheats.rpy:113
 translate vietnamese v2_win_64498d69:
 
     # me "Bitch is dead. Bless {color=#672c2c}Victorius{/color}."
-    me "Con đũy này ngỏm cmnr. Lậy chúa {color=#672c2c}Victorius{/color}."
+    me "Con đũy này ngỏm cmnr. Lậy cụ {color=#672c2c}Victorius{/color}."
 
 # game/functions/cheats.rpy:114
 translate vietnamese v2_win_0f3554c3:

@@ -1,16 +1,15 @@
-﻿# TODO: Translation updated at 2023-04-12 18:59
+﻿# : Translation updated at 2023-04-12 18:59
 
 translate vietnamese strings:
 
     # game/combat/cards/cards/offensive.rpy:6
     old "Strong Bite"
-    new "Strong Bite"
+    new "Cắn mạnh"
 
     # game/combat/cards/cards/offensive.rpy:6
     old "Vicious Bite"
-    new "Vicious Bite"
+    new "Vết cắn hung ác"
 
     # game/combat/cards/cards/offensive.rpy:6
     old "Beast Bite"
-    new "Beast Bite"
-
+    new "Cắn như con chó dại"
