@@ -28,7 +28,7 @@ translate vietnamese mina_18_6d15fa10:
 translate vietnamese mina_18_5dd80df3:
 
     # mina "So, how are you?" nointeract
-    mina "So, how are you?" nointeract
+    mina "Vậy, anh như nào rồi?" nointeract
 
 # game/characters/mina/ev_18.rpy:22
 translate vietnamese mina_18_2756f5ac:

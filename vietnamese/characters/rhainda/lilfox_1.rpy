@@ -70,7 +70,7 @@ translate vietnamese rhainda_lilfox1_88eab5f5:
 translate vietnamese rhainda_lilfox1_8af7ac77:
 
     # th "Should I join them?" nointeract
-    th "Should I join them?" nointeract
+    th "Mình có nên tham gia cùng bọn họ không?" nointeract
 
 # game/characters/rhainda/lilfox_1.rpy:33
 translate vietnamese rhainda_lilfox1_55d20ea8:

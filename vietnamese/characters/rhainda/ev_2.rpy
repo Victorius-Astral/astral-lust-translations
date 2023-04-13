@@ -556,7 +556,7 @@ translate vietnamese rhainda_2_part2_55d99068:
 translate vietnamese rhainda_2_part2_937e4d53:
 
     # rhainda "Do you want me to hug you some more?" nointeract
-    rhainda "Do you want me to hug you some more?" nointeract
+    rhainda "Có muốn ôm ấp thêm chút nữa không?" nointeract
 
 # game/characters/rhainda/ev_2.rpy:217
 translate vietnamese rhainda_2_part2_5531ddb8:

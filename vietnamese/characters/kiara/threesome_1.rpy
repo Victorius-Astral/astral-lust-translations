@@ -82,7 +82,7 @@ translate vietnamese kiara_threesome_1_f580a9e7:
 translate vietnamese kiara_threesome_1_7dc35976:
 
     # kiara "So? Do you want to join?" nointeract
-    kiara "So? Do you want to join?" nointeract
+    kiara "Rồi sao? Muốn vào chứ?" nointeract
 
 # game/characters/kiara/threesome_1.rpy:87
 translate vietnamese kiara_threesome_1_5257a991:

@@ -34,7 +34,7 @@ translate vietnamese chased_trader_daughter_7ccc07a5:
 translate vietnamese chased_trader_daughter_1ab62f2f:
 
     # th "What should I do?" nointeract
-    th "What should I do?" nointeract
+    th "Mình nên làm gì?" nointeract
 
 # game/events/explore/trader_daughter_saved.rpy:47
 translate vietnamese chased_trader_daughter_e6c13916:
@@ -112,7 +112,7 @@ translate vietnamese chased_trader_daughter_win_a9a174eb:
 translate vietnamese chased_trader_daughter_win_2810642d:
 
     # th "What should I ask for?" nointeract
-    th "What should I ask for?" nointeract
+    th "Mình nên yêu cầu cái gì?" nointeract
 
 # game/events/explore/trader_daughter_saved.rpy:94
 translate vietnamese chased_trader_daughter_discount_12cdeb59:

@@ -80,7 +80,7 @@ translate vietnamese strings:
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Wanderers"
-    new "người du hành"
+    new "Người du mục"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Horde"

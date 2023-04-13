@@ -64,7 +64,7 @@ translate vietnamese kiara_fj_1_slow_49e402db:
 translate vietnamese kiara_fj_1_slow_4551b4a4:
 
     # kiara "Yes. Do you have foot fetish?" nointeract
-    kiara "Yes. Do you have foot fetish?" nointeract
+    kiara "Ừ. Nhưng anh có sở thích về chân không?" nointeract
 
 # game/characters/kiara/fj_1.rpy:100
 translate vietnamese kiara_fj_1_slow_b1300d1d:
@@ -196,7 +196,7 @@ translate vietnamese kiara_fj_1_before_be25cadc:
 translate vietnamese kiara_fj_1_before_07c6ce16:
 
     # kiara "Why? Don't you do it, then?" nointeract
-    kiara "Why? Don't you do it, then?" nointeract
+    kiara "Tại sao? Anh không thích à?" nointeract
 
 # game/characters/kiara/fj_1.rpy:147
 translate vietnamese kiara_fj_1_before_cb628dec:

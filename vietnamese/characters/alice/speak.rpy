@@ -2199,7 +2199,7 @@ translate vietnamese speak_alice_alice_nun_210db714:
 translate vietnamese speak_alice_alice_nun_8e63d855:
 
     # alice "Do you want to play test this new outfit?" nointeract
-    alice "Do you want to play test this new outfit?" nointeract
+    alice "Anh muốn chơi thử với bộ đồ này không?" nointeract
 
 # game/characters/alice/speak.rpy:672
 translate vietnamese speak_alice_alice_nun_1468f3c4:
@@ -2405,4 +2405,3 @@ translate vietnamese strings:
     # game/characters/alice/speak.rpy:171
     old "Playmate {#visible}"
     new "Playmate {#visible}"
-

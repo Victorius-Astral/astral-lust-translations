@@ -28,25 +28,25 @@ translate vietnamese room_lobby_door_menu1_b73dfa9c:
 translate vietnamese room_lobby_door_menu1_df3b8a27:
 
     # "It's too late for that."
-    "Đã quá muộn cho điều đóĐã quá muộn cho điều đó."
+    "Bây giờ muộn rồi."
 
 # game/places/hotel/lobby/door.rpy:51
 translate vietnamese room_lobby_door_menu1_df3b8a27_1:
 
     # "It's too late for that."
-    "Đã quá muộn cho điều đó."
+    "Bây giờ muộn rồi."
 
 # game/places/hotel/lobby/door.rpy:90
 translate vietnamese room_lobby_door_df3b8a27:
 
     # "It's too late for that." id room_lobby_door_df3b8a27
-    "Đã quá muộn cho điều đó." id room_lobby_door_df3b8a27
+    "Bây giờ muộn rồi." id room_lobby_door_df3b8a27
 
 # game/places/hotel/lobby/door.rpy:110
 translate vietnamese room_lobby_door_wanderers_df3b8a27:
 
     # "It's too late for that."
-    "Đã quá muộn cho điều đó."
+    "Bây giờ muộn rồi."
 
 # game/places/hotel/lobby/door.rpy:114
 translate vietnamese room_lobby_door_wanderers_8ee7ff38:
@@ -99,41 +99,40 @@ translate vietnamese strings:
     # game/places/hotel/lobby/door.rpy:54
     old "Succubus Hunt"
     new "săn Succubus"
-# TODO: Translation updated at 2023-04-11 07:48
+# : Translation updated at 2023-04-11 07:48
 
 # game/places/hotel/lobby/door.rpy:26
 translate vietnamese room_lobby_door_menu1_2a7c717b:
 
     # th "I should wait for the day before going out. It's too dangerous now."
-    th "I should wait for the day before going out. It's too dangerous now."
+    th "Mình nên đợi một ngày trước khi đi ra. Bây giờ quá nguy hiểm."
 
 # game/places/hotel/lobby/door.rpy:47
 translate vietnamese room_lobby_door_menu1_0c2fbd36:
 
     # th "No, it's waiting for it. I would be at the disadvantage."
-    th "No, it's waiting for it. I would be at the disadvantage."
+    th "Không nó đang chờ thời cơ. Mình sẽ ở thế bất lợi."
 
 # game/places/hotel/lobby/door.rpy:50
 translate vietnamese room_lobby_door_menu1_89ba71df:
 
     # th "Going after monsters at night doesn't seem like a good idea."
-    th "Going after monsters at night doesn't seem like a good idea."
+    th "Đi săn quái vật vào ban đêm có vẻ không phải là một ý tưởng hay."
 
 # game/places/hotel/lobby/door.rpy:100
 translate vietnamese room_lobby_door_explore_2a7c717b:
 
     # th "I should wait for the day before going out. It's too dangerous now."
-    th "I should wait for the day before going out. It's too dangerous now."
+    th "Mình nên đượi một ngày trước đi. Bây giờ quá nguy hiểm."
 
 # game/places/hotel/lobby/door.rpy:121
 translate vietnamese room_lobby_door_wanderers_2a7c717b:
 
     # th "I should wait for the day before going out. It's too dangerous now."
-    th "I should wait for the day before going out. It's too dangerous now."
+    th "Mình nên đượi một ngày trước đi. Bây giờ quá nguy hiểm."
 
 translate vietnamese strings:
 
     # game/places/hotel/lobby/door.rpy:22
     old "Take a look outside"
-    new "Take a look outside"
-
+    new "Nhìn ra bên ngoài"

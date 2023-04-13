@@ -431,7 +431,7 @@ translate vietnamese lola_3_591dda2b:
 translate vietnamese lola_3_619430e4:
 
     # lola "Great. Now that you're hard, what do you want me to do?" nointeract
-    lola "Great. Now that you're hard, what do you want me to do?" nointeract
+    lola "Tuyệt. Bây giờ anh muốn làm gì nào?" nointeract
 
 # game/characters/lola/ev_3.rpy:98
 translate vietnamese lola_3_fun1_5c79fab8:
@@ -503,7 +503,7 @@ translate vietnamese lola_3_feet_4ea52f42:
 translate vietnamese lola_3_feet_95feaa55:
 
     # th "What a hot view. Maybe I should ask for more?" nointeract
-    th "What a hot view. Maybe I should ask for more?" nointeract
+    th "Đúng là một khung cảnh đẹp. Có lẽ mình nên đòi hỏi thêm?" nointeract
 
 # game/characters/lola/ev_3.rpy:234
 translate vietnamese lola_3_sex_cefda0cf:

@@ -703,7 +703,7 @@ translate vietnamese shower_alice_dildo_bj_6712f3de:
 translate vietnamese shower_alice_dildo_bj_219d27c5:
 
     # th "Should I cum inside or outside?" nointeract
-    th "Should I cum inside or outside?" nointeract
+    th "Mình nên ra bên trong hay bên ngoài?" nointeract
 
 # game/characters/alice/shower.rpy:289
 translate vietnamese shower_alice_dildo_bj_8688b6e8:

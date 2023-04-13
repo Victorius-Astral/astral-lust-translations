@@ -16,7 +16,7 @@ translate vietnamese room_lobby_counter_89a2301a:
 translate vietnamese room_lobby_counter_873b9e9f:
 
     # "It's too late."
-    "bây giờ thì quá trễ rồi."
+    "bây giờ muộn quá rồi."
 
 # game/places/hotel/lobby/counter.rpy:20
 translate vietnamese room_lobby_counter_a7a005e4:
@@ -46,7 +46,7 @@ translate vietnamese room_lobby_counter_0b1da42f:
 translate vietnamese room_lobby_counter_873b9e9f_1:
 
     # "It's too late."
-    "bây giờ thì quá trễ rồi."
+    "bây giờ muộn quá rồi."
 
 # game/places/hotel/lobby/counter.rpy:43
 translate vietnamese room_lobby_counter_9cb3b5f3:
@@ -58,7 +58,7 @@ translate vietnamese room_lobby_counter_9cb3b5f3:
 translate vietnamese room_lobby_counter_3688fcdf_1:
 
     # "Insufficient materials!"
-    "Không đủ vật liệu!"
+    "Má éo đủ đồ!"
 
 # game/places/hotel/lobby/counter.rpy:55
 translate vietnamese room_lobby_counter_bb87d76d:
@@ -76,7 +76,7 @@ translate vietnamese room_lobby_counter_bbee43b5:
 translate vietnamese room_lobby_counter_873b9e9f_2:
 
     # "It's too late."
-    "bây giờ thì quá trễ rồi."
+    "bây giờ muộn quá rồi."
 
 # game/places/hotel/lobby/counter.rpy:66
 translate vietnamese room_lobby_counter_cb260629:
@@ -88,7 +88,7 @@ translate vietnamese room_lobby_counter_cb260629:
 translate vietnamese room_lobby_counter_3688fcdf_2:
 
     # "Insufficient materials!"
-    "Không đủ vật liệu!"
+    "Không đủ đồ!"
 
 # game/places/hotel/lobby/counter.rpy:78
 translate vietnamese room_lobby_counter_d8418d2c:
@@ -106,7 +106,7 @@ translate vietnamese room_lobby_counter_75290155:
 translate vietnamese room_lobby_counter_873b9e9f_3:
 
     # "It's too late."
-    "bây giờ thì quá trễ rồi."
+    "bây giờ muộn quá rồi."
 
 # game/places/hotel/lobby/counter.rpy:89
 translate vietnamese room_lobby_counter_912e68ef:
@@ -118,7 +118,7 @@ translate vietnamese room_lobby_counter_912e68ef:
 translate vietnamese room_lobby_counter_3688fcdf_3:
 
     # "Insufficient materials!"
-    "Không đủ vật liệu!"
+    "thiếu vật liệu!"
 
 # game/places/hotel/lobby/counter.rpy:101
 translate vietnamese room_lobby_counter_33e305ee:
@@ -136,7 +136,7 @@ translate vietnamese room_lobby_counter_27dd2c0f:
 translate vietnamese room_lobby_counter_873b9e9f_4:
 
     # "It's too late."
-    "bây giờ thì quá trễ rồi."
+    "Tầm này muộn quá rồi."
 
 # game/places/hotel/lobby/counter.rpy:112
 translate vietnamese room_lobby_counter_84de8c4b:
@@ -166,7 +166,7 @@ translate vietnamese room_lobby_counter_a6fcdf90:
 translate vietnamese room_lobby_counter_873b9e9f_5:
 
     # "It's too late."
-    "bây giờ thì quá trễ rồi."
+    "Muộn vãi lòn rồi mà mình còn định làm cái đầu buồi gì vậy nhỉ?"
 
 # game/places/hotel/lobby/counter.rpy:141
 translate vietnamese room_lobby_counter_7e88de67:
@@ -196,7 +196,7 @@ translate vietnamese room_lobby_counter_e68153fb:
 translate vietnamese room_lobby_counter_873b9e9f_6:
 
     # "It's too late."
-    "bây giờ thì quá trễ rồi."
+    "bây giờ muộn quá rồi."
 
 # game/places/hotel/lobby/counter.rpy:164
 translate vietnamese room_lobby_counter_7e88de67_1:
@@ -226,7 +226,7 @@ translate vietnamese room_lobby_counter_80804fa8:
 translate vietnamese room_lobby_counter_873b9e9f_7:
 
     # "It's too late."
-    "bây giờ thì quá trễ rồi."
+    "bây giờ muộn quá rồi."
 
 # game/places/hotel/lobby/counter.rpy:187
 translate vietnamese room_lobby_counter_7e88de67_2:
@@ -256,7 +256,7 @@ translate vietnamese room_lobby_counter_94a295df:
 translate vietnamese room_lobby_counter_873b9e9f_8:
 
     # "It's too late."
-    "bây giờ thì quá trễ rồi."
+    "bây giờ muộn quá rồi."
 
 # game/places/hotel/lobby/counter.rpy:210
 translate vietnamese room_lobby_counter_c9cb9b62:
@@ -286,7 +286,7 @@ translate vietnamese room_lobby_counter_7935174e:
 translate vietnamese room_lobby_counter_873b9e9f_9:
 
     # "It's too late."
-    "bây giờ thì quá trễ rồi."
+    "bây giờ muộn quá rồi."
 
 # game/places/hotel/lobby/counter.rpy:233
 translate vietnamese room_lobby_counter_c9cb9b62_1:
@@ -316,7 +316,7 @@ translate vietnamese room_lobby_counter_f5802177:
 translate vietnamese room_lobby_counter_873b9e9f_10:
 
     # "It's too late."
-    "bây giờ thì quá trễ rồi."
+    "bây giờ muộn quá rồi."
 
 # game/places/hotel/lobby/counter.rpy:269
 translate vietnamese room_lobby_counter_c9cb9b62_2:
@@ -346,7 +346,7 @@ translate vietnamese room_lobby_counter_d2f6ffb2:
 translate vietnamese room_lobby_counter_873b9e9f_11:
 
     # "It's too late."
-    "bây giờ thì quá trễ rồi."
+    "bây giờ muộn quá rồi."
 
 # game/places/hotel/lobby/counter.rpy:300
 translate vietnamese room_lobby_counter_c9cb9b62_3:
@@ -423,23 +423,22 @@ translate vietnamese strings:
     # game/places/hotel/lobby/counter.rpy:128
     old "Vault T8 (40 Stone, 40 Metal, 5 Gold Nugget, 3 Gold Bar, 3 Diamond, 2 Orcish Steel)"
     new "Kho chứa T8 (40 Đá, 40 Sắt, 5 Vàng miếng, 3 Thỏi vàng, 3 kim cương, 2 Thép Orcish)"
-# TODO: Translation updated at 2023-04-11 07:48
+# : Translation updated at 2023-04-11 07:48
 
 # game/places/hotel/lobby/counter.rpy:311
 translate vietnamese room_lobby_counter_873b9e9f_12:
 
     # "It's too late."
-    "It's too late."
+    "Bây giờ muộn quá rồi."
 
 # game/places/hotel/lobby/counter.rpy:328
 translate vietnamese room_lobby_counter_3688fcdf_12:
 
     # "Insufficient materials!"
-    "Insufficient materials!"
+    "Thiếu đồ!"
 
 translate vietnamese strings:
 
     # game/places/hotel/lobby/counter.rpy:5
     old "Build next floor (30 Stone, 15 Wood, 15 Metal)"
-    new "Build next floor (30 Stone, 15 Wood, 15 Metal)"
-
+    new "Xây tầng tiếp theo (30 đá, 15 gỗ, 15 sắt)"

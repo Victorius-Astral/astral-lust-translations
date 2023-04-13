@@ -28,7 +28,7 @@ translate vietnamese damsel_pregnant_51988666:
 translate vietnamese damsel_pregnant_2f495586:
 
     # th "Seems that's a pregnant woman they are harassing." nointeract
-    th "Seems that's a pregnant woman they are harassing." nointeract
+    th "Có vẻ là chúng đang quấy rồi một người phụ nữ đang mang thai." nointeract
 
 # game/events/explore/damsel_pregnant.rpy:70
 translate vietnamese damsel_pregnant_34c88bbc:

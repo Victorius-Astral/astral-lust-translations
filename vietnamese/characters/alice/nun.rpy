@@ -923,7 +923,7 @@ translate vietnamese alice_nun_footjob_91a91819:
 translate vietnamese alice_nun_footjob_c8d3c810:
 
     # alice "What do you like the most in them?" nointeract
-    alice "What do you like the most in them?" nointeract
+    alice "Anh thích phần nào nhất?" nointeract
 
 # game/characters/alice/nun.rpy:368
 translate vietnamese alice_nun_footjob_61aa295f:
@@ -1150,11 +1150,10 @@ translate vietnamese strings:
     # game/characters/alice/nun.rpy:364
     old "I prefer what's in between"
     new "Anh thích thứ ở giữa hơn"
-# TODO: Translation updated at 2023-04-11 07:48
+#: Translation updated at 2023-04-11 07:48
 
 # game/characters/alice/nun.rpy:459
 translate vietnamese alice_nun_footjob2_d4c720a0:
 
     # me "Thanks. You're the best."
-    me "Thanks. You're the best."
-
+    me "Cảm ơn. Em là tuyệt nhất đấy."

@@ -24,15 +24,15 @@ translate vietnamese strings:
 
     # game/variables/classes/Player.rpy:327
     old "Corruption + {}% \nCurrent corruption: {}%"
-    new "Sự sa đọa + {}% \nSự sa đọa hiện có: {}%"
+    new "Sa đọa + {}% \nĐộ sa đọa hiện có: {}%"
 
     # game/variables/classes/Player.rpy:330
     old "Corruption - {}% \nCurrent corruption: {}%"
-    new "Sự sa đọa - {}% \nSự sa đọa hiện có: {}%"
+    new "Sa đọa - {}% \nĐộ sa đọa hiện có: {}%"
 
     # game/variables/classes/Player.rpy:336
     old "Killed a human:\nCorruption + {}% \nSanity - {}% \n\nCurrent corruption: {}% \nCurrent sanity: {}%"
-    new "Giết một con người:\nSự sa đọa + {}% \nĐộ tỉnh táo - {}% \n\nSự sa đọa hiện có: {}% \nĐộ tỉnh táo hiện có: {}%"
+    new "Giết một con người:\nSự sa đọa + {}% \nĐộ tỉnh táo - {}% \n\nĐộ sa đọa hiện có: {}% \nĐộ tỉnh táo hiện có: {}%"
 # : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:

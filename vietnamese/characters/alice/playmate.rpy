@@ -549,7 +549,7 @@ translate vietnamese alice_playmate_dildo_19185fec:
 translate vietnamese alice_playmate_dildo_f784c12a:
 
     # th "We could both have fun." nointeract
-    th "We could both have fun." nointeract
+    th "Cả hai chúng ta đều có thể vui vẻ." nointeract
 
 # game/characters/alice/playmate.rpy:247
 translate vietnamese alice_playmate_dildo_23707604:

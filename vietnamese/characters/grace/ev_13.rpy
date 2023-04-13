@@ -238,7 +238,7 @@ translate vietnamese grace_13_46d27802_1:
 translate vietnamese grace_13_91e8ced1:
 
     # grace "Do you think I should go live with my dad?" nointeract
-    grace "Do you think I should go live with my dad?" nointeract
+    grace "Anh có nghĩ là em nên sống với bố mình không?" nointeract
 
 # game/characters/grace/ev_13.rpy:117
 translate vietnamese grace_13_e05c69ec:
@@ -346,7 +346,7 @@ translate vietnamese grace_13_46d27802_2:
 translate vietnamese grace_13_eaae5c0e:
 
     # th "It seems that this is a very important thing for her, maybe I should tell her to agree after all?" nointeract
-    th "It seems that this is a very important thing for her, maybe I should tell her to agree after all?" nointeract
+    th "Có vẻ như đây là một điều rất quan trọng đối với em ấy, có lẽ mình nên nói với cô ấy để em ấy đồng ý?" nointeract
 
 # game/characters/grace/ev_13.rpy:163
 translate vietnamese grace_13_07bf789c:
@@ -2734,7 +2734,7 @@ translate vietnamese grace_13_part2_3b44f9aa:
 translate vietnamese grace_13_part2_c8bf7626:
 
     # th "Can I get myself to lick her pussy now?" nointeract
-    th "Can I get myself to lick her pussy now?" nointeract
+    th "Mình có nên bulul cô ấy không?" nointeract
 
 # game/characters/grace/ev_13.rpy:845
 translate vietnamese grace_13_part2_5f09a720:

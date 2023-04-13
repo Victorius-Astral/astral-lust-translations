@@ -154,7 +154,7 @@ translate vietnamese lil_fox_exp_bandits_c2aa9da5:
 translate vietnamese lil_fox_exp_bandits_efa6db35:
 
     # th "There is still some time, maybe we could attempt escape?" nointeract
-    th "There is still some time, maybe we could attempt escape?" nointeract
+    th "Vẫn còn một chút thời gian, có lẽ chúng ta có thể thử trốn thoát?" nointeract
 
 # game/characters/little fox/explore/bandits.rpy:94
 translate vietnamese lil_fox_exp_bandits_fde1fae4:

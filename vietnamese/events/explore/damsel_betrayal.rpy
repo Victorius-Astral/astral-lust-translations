@@ -64,7 +64,7 @@ translate vietnamese damsel_betrayal_637813d5:
 translate vietnamese damsel_betrayal_50058328:
 
     # bandit "I fucking knew it! Get them!" nointeract
-    bandit "I fucking knew it! Get them!" nointeract
+    bandit "Tao biết nagy mà! Bắt nó!" nointeract
 
 # game/events/explore/damsel_betrayal.rpy:47
 translate vietnamese damsel_betrayal_0dc59048:
@@ -130,7 +130,7 @@ translate vietnamese damsel_betrayal_win_95e92d64:
 translate vietnamese damsel_betrayal_win_f93433e8:
 
     # th "What should I do with her now?" nointeract
-    th "What should I do with her now?" nointeract
+    th "Bây giờ mình nên làm gì với cô ấy đây?" nointeract
 
 # game/events/explore/damsel_betrayal.rpy:98
 translate vietnamese damsel_betrayal_win_450d5c9b:
@@ -238,7 +238,7 @@ translate vietnamese damsel_betrayal_traitorcaught_fb10c3bb:
 translate vietnamese damsel_betrayal_traitorcaught_f11a6c4c:
 
     # th "What to do with her?" nointeract
-    th "What to do with her?" nointeract
+    th "Nên làm gì với cô ta?" nointeract
 
 # game/events/explore/damsel_betrayal.rpy:156
 translate vietnamese damsel_betrayal_traitorcaught_f90158ea:

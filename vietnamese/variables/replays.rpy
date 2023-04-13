@@ -1809,215 +1809,214 @@ translate vietnamese strings:
     # game/variables/replays.rpy:721
     old "SUCCUBUS B ([succubB.name])"
     new "SUCCUBUS B ([succubB.name])"
-# TODO: Translation updated at 2023-04-11 07:48
+# : Translation updated at 2023-04-11 07:48
 
 translate vietnamese strings:
 
     # game/variables/replays.rpy:665
     old "TRADERS"
-    new "TRADERS"
+    new "THƯƠNG NHÂN"
 
     # game/variables/replays.rpy:665
     old "Meet - Alex"
-    new "Meet - Alex"
+    new "Gặp - Alex"
 
     # game/variables/replays.rpy:665
     old "Meet a petite middleman seeling other's harvest for the first time."
-    new "Meet a petite middleman seeling other's harvest for the first time."
+    new "Lần đầu tiên gặp một em môi giới đang bán mùa màng của người khác."
 
     # game/variables/replays.rpy:665
     old "Meet - Cook"
-    new "Meet - Cook"
+    new "Gặp - Đầu bếp"
 
     # game/variables/replays.rpy:665
     old "Meet the local cook for the first time."
-    new "Meet the local cook for the first time."
+    new "Lần đầu tiên gặp một đầu bếp ở khu người du mục."
 
     # game/variables/replays.rpy:665
     old "Meet - Hunter"
-    new "Meet - Hunter"
+    new "Gặp - Thợ săn"
 
     # game/variables/replays.rpy:665
     old "Meet the cult's deserter for the first time."
-    new "Meet the cult's deserter for the first time."
+    new "Lần đầu tiên gặp kẻ đào ngũ của giáo phái."
 
     # game/variables/replays.rpy:665
     old "Quickie - Alex"
-    new "Quickie - Alex"
+    new "Tàu nhanh - Alex"
 
     # game/variables/replays.rpy:665
     old "Manage to obtain Alex affection."
-    new "Manage to obtain Alex affection."
+    new "Xoay sở để có được tình cảm của Alex."
 
     # game/variables/replays.rpy:665
     old "Sex - Alex"
-    new "Sex - Alex"
+    new "Chịt - Alex"
 
     # game/variables/replays.rpy:665
     old "Sleepover - Alex"
-    new "Sleepover - Alex"
+    new "Ngủ chung - Alex"
 
     # game/variables/replays.rpy:665
     old "Stay the night at Alex place."
-    new "Stay the night at Alex place."
+    new "Ngủ một đêm ở chỗ Alex ."
 
     # game/variables/replays.rpy:665
     old "MISCELLANEOUS"
-    new "MISCELLANEOUS"
+    new "KHÁC"
 
     # game/variables/replays.rpy:665
     old "Chat - Beggar 1"
-    new "Chat - Beggar 1"
+    new "Nói chuyện - Ăn mày 1"
 
     # game/variables/replays.rpy:665
     old "Speak with the beggar."
-    new "Speak with the beggar."
+    new "Nói chuyện với kẻ ăn mày."
 
     # game/variables/replays.rpy:665
     old "Chat - Cook Daughter"
-    new "Chat - Cook Daughter"
+    new "Nói chuyện - Con gái đầu bếp"
 
     # game/variables/replays.rpy:665
     old "Speak with the girl."
-    new "Speak with the girl."
+    new "Nói chuyện với cô gái."
 
     # game/variables/replays.rpy:665
     old "Chat - Cook Son"
-    new "Chat - Cook Son"
+    new "Nói chuyện - Con trai đầu bếp"
 
     # game/variables/replays.rpy:665
     old "Speak with the boy."
-    new "Speak with the boy."
+    new "Nói chuyện với cậu trai."
 
     # game/variables/replays.rpy:665
     old "Chat - Soldier 1"
-    new "Chat - Soldier 1"
+    new "Nói chuyện - Lính 1"
 
     # game/variables/replays.rpy:665
     old "Speak with the guard."
-    new "Speak with the guard."
+    new "Nói chuyện với những người canh gác."
 
     # game/variables/replays.rpy:665
     old "Chat - Soldier 2"
-    new "Chat - Soldier 2"
+    new "Nói chuyện - Lính 2"
 
     # game/variables/replays.rpy:665
     old "Chat - Soldier 2 (night)"
-    new "Chat - Soldier 2 (night)"
+    new "Nói chuyện - Lính 2 (đêm)"
 
     # game/variables/replays.rpy:665
     old "Speak with the guard on the night duty."
-    new "Speak with the guard on the night duty."
+    new "Nói chuyện với lính canh vào ca đêm."
 
     # game/variables/replays.rpy:665
     old "Chat - Soldier 3"
-    new "Chat - Soldier 3"
+    new "Nói chuyện - lính 3"
 
     # game/variables/replays.rpy:665
     old "Chat - Soldier 3 (night)"
-    new "Chat - Soldier 3 (night)"
+    new "Nói chuyện - Lính 3 (đêm)"
 
     # game/variables/replays.rpy:665
     old "Chat - Soldier 4"
-    new "Chat - Soldier 4"
+    new "Nói chuyện - Lính 4"
 
     # game/variables/replays.rpy:665
     old "Shady Business 1"
-    new "Shady Business 1"
+    new "Phi vụ đáng ngờ 1"
 
     # game/variables/replays.rpy:665
     old "Overhear about the suspicious deal with scavengers."
-    new "Overhear about the suspicious deal with scavengers."
+    new "Nghe lỏm về thỏa thuận mờ ám của những người kiếm đồ."
 
     # game/variables/replays.rpy:665
     old "Shady Business 2"
-    new "Shady Business 2"
+    new "Phi vụ đáng ngờ 2"
 
     # game/variables/replays.rpy:665
     old "Shady Business 3"
-    new "Shady Business 3"
+    new "Phi vụ đáng ngờ 3"
 
     # game/variables/replays.rpy:715
     old "Door - Aharon"
-    new "Door - Aharon"
+    new "Cửa - Aharon"
 
     # game/variables/replays.rpy:715
     old "Check the entrance door at night."
-    new "Check the entrance door at night."
+    new "Kiểm tra cửa ra vào lúc đêm."
 
     # game/variables/replays.rpy:715
     old "Door - Monster Disappearance"
-    new "Door - Monster Disappearance"
+    new "Cửa - quái vật biến mất"
 
     # game/variables/replays.rpy:715
     old "Make sure the unwated observer at night didn't enter."
-    new "Make sure the unwated observer at night didn't enter."
+    new "Đảm bảo rằng những vị khách không mời đang rình mò lúc đêm khuya không thể vào nhà."
 
     # game/variables/replays.rpy:715
     old "Door - Monster"
-    new "Door - Monster"
+    new "Cửa - Quái vật"
 
     # game/variables/replays.rpy:715
     old "Door - Mother"
-    new "Door - Mother"
+    new "Cửa - Mẹ"
 
     # game/variables/replays.rpy:715
     old "Door - Peace (Day)"
-    new "Door - Peace (Day)"
+    new "Cửa - Yên bình (ngày)"
 
     # game/variables/replays.rpy:715
     old "Check the entrance door during the day."
-    new "Check the entrance door during the day."
+    new "Kiểm tra cửa ra vào lúc trời sáng."
 
     # game/variables/replays.rpy:715
     old "Door - Peace (Night)"
-    new "Door - Peace (Night)"
+    new "Cửa - Yên bình (Đêm)"
 
     # game/variables/replays.rpy:715
     old "Door - Stickman"
-    new "Door - Stickman"
+    new "Cửa - Người que"
 
     # game/variables/replays.rpy:729
     old "Kiss Grace goodnight on the evening in her room. {mad}DO NOT STOP!!{/mad}"
-    new "Kiss Grace goodnight on the evening in her room. {mad}DO NOT STOP!!{/mad}"
+    new "Hôn Grace chúc ngủ ngon ở phòng em ấy. {mad}ĐỪNG DỪNG LẠI!!{/mad}"
 
     # game/variables/replays.rpy:729
     old "Die and get influenced till you are yourself no more."
-    new "Die and get influenced till you are yourself no more."
+    new "Chết và bị ảnh hưởng cho đến khi bạn không còn là chính mình nữa."
 
     # game/variables/replays.rpy:729
     old "Get totally corrupted."
-    new "Get totally corrupted."
+    new "Bị tha hóa hoàn toàn."
 
     # game/variables/replays.rpy:729
     old "Lose all your sanity."
-    new "Lose all your sanity."
+    new "Đánh mất toàn bộ sự tỉnh táo của bạn."
 
     # game/variables/replays.rpy:729
     old "Get to the bottom of the supernatural case involving the wardrobe in your room."
-    new "Get to the bottom of the supernatural case involving the wardrobe in your room."
+    new "Đi tới cùng về cái vụ tâm linh ở trong tủ quần áo của bạn."
 
     # game/variables/replays.rpy:729
     old "The Night"
-    new "The Night"
+    new "Màn đêm"
 
     # game/variables/replays.rpy:729
     old "Defeat a boss available to {gold}Veteran{/gold} Discord server's users."
-    new "Defeat a boss available to {gold}Veteran{/gold} Discord server's users."
+    new "Đánh bại một con trùm dành cho người có role {gold}Veteran{/gold} trên sever Discord."
 
     # game/variables/replays.rpy:729
     old "Sleep between 19th December & 6th January. (Max one event each {b}real{/b} day)"
-    new "Sleep between 19th December & 6th January. (Max one event each {b}real{/b} day)"
+    new "Ngủ vào những ngày 19 tháng 12 đến ngày 6 tháng 1. (Tối đa một sự kiện mỗi ngày {b}thật{/b})"
 
     # game/variables/replays.rpy:774
     old "Meet her when exploring the city."
-    new "Meet her when exploring the city."
+    new "Gặp cô ấy khi đang khám phá trong thành phố."
 
     # game/variables/replays.rpy:774
     old "Explore together with her."
-    new "Explore together with her."
+    new "Khám phá cùng cô ấy."
 
     # game/variables/replays.rpy:800
     old "Meet her while exploring the city. (Rachel {love}affection{/love} 7+)"
-    new "Meet her while exploring the city. (Rachel {love}affection{/love} 7+)"
-
+    new "Gặp cô ấy trong khi đang khám phá thành phố. (Rachel {love}độ yêu mến{/love} 7+)"

@@ -245,11 +245,10 @@ translate vietnamese alice_wakeup_sex_7ec019f4_1:
 
     # th "Time to get up, it's afternoon already.."
     th "Đến lúc dậy thôi, chiều rồi..."
-# TODO: Translation updated at 2023-04-11 07:48
+#: Translation updated at 2023-04-11 07:48
 
 # game/characters/alice/wakeup_sex.rpy:78
 translate vietnamese alice_wakeup_sex_047bb6e2:
 
     # me "I sure am, who is the best daddy?"
-    me "I sure am, who is the best daddy?"
-
+    me "Tất nhiên rồi, ai là bạn trai tuyệt nhất nào?"

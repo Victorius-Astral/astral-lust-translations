@@ -16,7 +16,7 @@ translate vietnamese grace_nightmare_1a69ad5d:
 translate vietnamese grace_nightmare_1ab62f2f:
 
     # th "What should I do?" nointeract
-    th "What should I do?" nointeract
+    th "Mình nên làm gì?" nointeract
 
 # game/characters/grace/nightmare.rpy:19
 translate vietnamese grace_nightmare_part2_834651b1:
@@ -76,7 +76,7 @@ translate vietnamese grace_nightmare_part2_2d1b7242:
 translate vietnamese grace_nightmare_part2_f59855b8:
 
     # grace "Can I stay here?" nointeract
-    grace "Can I stay here?" nointeract
+    grace "Em ở lại được không?" nointeract
 
 # game/characters/grace/nightmare.rpy:52
 translate vietnamese grace_nightmare_part2_b90b4f54:
@@ -112,7 +112,7 @@ translate vietnamese grace_nightmare_part2_48d481bf:
 translate vietnamese grace_nightmare_part2_852078f5:
 
     # grace "Can you take me there?" nointeract
-    grace "Can you take me there?" nointeract
+    grace "Anh đưa em đến đó được không?" nointeract
 
 # game/characters/grace/nightmare.rpy:68
 translate vietnamese grace_nightmare_part2_e2bf27fa:
@@ -946,7 +946,7 @@ translate vietnamese grace_nightmare_horror_0b6c9ba3:
 translate vietnamese grace_nightmare_horror_menu_741bbedd:
 
     # th "What the fuck should I do?" nointeract
-    th "What the fuck should I do?" nointeract
+    th "Mình nên làm cái đéo gì đây?" nointeract
 
 # game/characters/grace/nightmare.rpy:399
 translate vietnamese grace_nightmare_horror_menu_dfb9a757:
@@ -1000,7 +1000,7 @@ translate vietnamese grace_nightmare_horror_menu_e963b02d:
 translate vietnamese grace_nightmare_horror_menu_2539b451:
 
     # th "Should I check?" nointeract
-    th "Should I check?" nointeract
+    th "MÌnh có nên kiểm tra không?" nointeract
 
 # game/characters/grace/nightmare.rpy:431
 translate vietnamese grace_nightmare_horror_menu_57791025:

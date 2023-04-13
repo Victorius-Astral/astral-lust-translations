@@ -10,7 +10,7 @@ translate vietnamese lexi_kitchen_date_9adcae00:
 translate vietnamese lexi_kitchen_date_b661583e:
 
     # lexi "It's quite late already, though. I won't make it for today. How about tomorrow's evening?" nointeract
-    lexi "It's quite late already, though. I won't make it for today. How about tomorrow's evening?" nointeract
+    lexi "Giờ khá muộn rồi. Bây giờ thì không được. Còn tối mai thì sao?" nointeract
 
 # game/characters/lexi/kitchen_date.rpy:76
 translate vietnamese lexi_kitchen_date_10b028b4:
@@ -694,7 +694,7 @@ translate vietnamese lexi_kitchen_date_eat_a4b8bd1f:
 translate vietnamese lexi_kitchen_date_eat_menu_5dbbee94:
 
     # th "What should I compliment?" nointeract
-    th "What should I compliment?" nointeract
+    th "Mình có nên khen không?" nointeract
 
 # game/characters/lexi/kitchen_date.rpy:381
 translate vietnamese lexi_kitchen_date_eat_menu_68fd3dab:
@@ -838,7 +838,7 @@ translate vietnamese lexi_kitchen_date_eat_menu_8aac93d2:
 translate vietnamese lexi_kitchen_date_eat_menu_0dc1b3c3:
 
     # th "What topic should we talk about?" nointeract
-    th "What topic should we talk about?" nointeract
+    th "Nên chọn chủ đề gì được?" nointeract
 
 # game/characters/lexi/kitchen_date.rpy:443
 translate vietnamese lexi_kitchen_date_eat_menu_0fee9384:
@@ -1168,7 +1168,7 @@ translate vietnamese lexi_kitchen_date_eat_next_4f06b4f5:
 translate vietnamese lexi_kitchen_date_eat_next_7894ea70:
 
     # lexi "Do you like stews?" nointeract
-    lexi "Do you like stews?" nointeract
+    lexi "Anh có thích món hầm không?" nointeract
 
 # game/characters/lexi/kitchen_date.rpy:557
 translate vietnamese lexi_kitchen_date_eat_next_1a1d3b1b:
@@ -3184,7 +3184,7 @@ translate vietnamese lexi_kitchen_date_dessert_b0daf795:
 translate vietnamese lexi_kitchen_date_dessert_343bc21f:
 
     # th "Should I take out the limited-edition ice cream I have?" nointeract
-    th "Should I take out the limited-edition ice cream I have?" nointeract
+    th "Mình có nên lấy kem phiên bản giới hạn không?" nointeract
 
 # game/characters/lexi/kitchen_date.rpy:1259
 translate vietnamese lexi_kitchen_date_dessert_07845b9f:
@@ -3388,7 +3388,7 @@ translate vietnamese lexi_kitchen_date_dessert_c12c2f68:
 translate vietnamese lexi_kitchen_date_dessert_d7496727:
 
     # th "What should we talk about?" nointeract
-    th "What should we talk about?" nointeract
+    th "Nên nói về chuyện gì được?" nointeract
 
 # game/characters/lexi/kitchen_date.rpy:1334
 translate vietnamese lexi_kitchen_date_dessert_7ff5854b:
@@ -4330,7 +4330,7 @@ translate vietnamese lexi_kitchen_date_night_together_aa93b10c:
 translate vietnamese lexi_kitchen_date_night_together_cb60d597:
 
     # th "Some fun before going to sleep sounds like a good ending of a date." nointeract
-    th "Some fun before going to sleep sounds like a good ending of a date." nointeract
+    th "Vui vẻ chút trước khi đi ngủ nghe có vẻ là một kết thúc tốt đẹp cho một buổi hẹn hò." nointeract
 
 # game/characters/lexi/kitchen_date.rpy:1715
 translate vietnamese lexi_kitchen_date_night_together_029c2722:
@@ -4474,7 +4474,7 @@ translate vietnamese lexi_kitchen_date_blowjob_45002f50:
 translate vietnamese lexi_kitchen_date_blowjob_170c0a0b:
 
     # lexi "Would you like to fuck me, [me]?" nointeract
-    lexi "Would you like to fuck me, [me]?" nointeract
+    lexi "Anh sẽ làm tình với em chứ, [me]?" nointeract
 
 # game/characters/lexi/kitchen_date.rpy:1768
 translate vietnamese lexi_kitchen_date_blowjob_09d3ce5c:
@@ -4540,7 +4540,7 @@ translate vietnamese lexi_kitchen_date_blowjob_2_76c8b268:
 translate vietnamese lexi_kitchen_date_blowjob_2_0051a73f:
 
     # th "Where do I want to cum?" nointeract
-    th "Where do I want to cum?" nointeract
+    th "Mình muốn ra ở đâu?" nointeract
 
 # game/characters/lexi/kitchen_date.rpy:1800
 translate vietnamese lexi_kitchen_date_blowjob_2_9dc78e78:
@@ -5458,7 +5458,7 @@ translate vietnamese lexi_kitchen_date_wakeup_43926b5a:
 translate vietnamese lexi_kitchen_date_wakeup_3c7160c9:
 
     # th "Should we take the shower together?" nointeract
-    th "Should we take the shower together?" nointeract
+    th "Có nên tắm chung không?" nointeract
 
 # game/characters/lexi/kitchen_date.rpy:2160
 translate vietnamese lexi_kitchen_date_wakeup_0e9812de:
@@ -6400,7 +6400,7 @@ translate vietnamese lexi_kitchen_date_grace_2a3bd032:
 translate vietnamese lexi_kitchen_date_menu_grace_ba2fc822:
 
     # grace "Do you have my rose?" nointeract
-    grace "Do you have my rose?" nointeract
+    grace "Anh có hoa hồng của em chứ?" nointeract
 
 # game/characters/lexi/kitchen_date.rpy:2513
 translate vietnamese lexi_kitchen_date_menu_grace_dff762b5:

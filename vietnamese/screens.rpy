@@ -232,7 +232,7 @@ translate vietnamese strings:
 
     # game/screens.rpy:1103
     old "Escape"
-    new "ESC"
+    new "Trốn thoát"
 
     # game/screens.rpy:1104
     old "Accesses the game menu."
@@ -368,11 +368,10 @@ translate vietnamese strings:
 
     old "Do you want to restart the game? If you don't do it, some things will not change language."
     new "Bạn có muốn khởi động lại game không? Nếu bạn không khởi động lại sẽ có vài thứ không được dịch."
-# TODO: Translation updated at 2023-04-11 07:48
+# : Translation updated at 2023-04-11 07:48
 
 translate vietnamese strings:
 
     # game/screens.rpy:658
     old "Escape {#key}"
-    new "Escape {#key}"
-
+    new "ESC {#key}"

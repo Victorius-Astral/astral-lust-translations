@@ -664,7 +664,7 @@ translate vietnamese lexi_chill_skilled_2a32ba71:
 translate vietnamese lexi_chill_skilled_e65e9451:
 
     # lexi "Do my feet turn you on?" nointeract
-    lexi "Do my feet turn you on?" nointeract
+    lexi "Chân của em làm anh nứng ư?" nointeract
 
 # game/characters/lexi/chill.rpy:229
 translate vietnamese lexi_chill_skilled_d3898766:
@@ -850,7 +850,7 @@ translate vietnamese lexi_chill_no_fun_5cdebf03:
 translate vietnamese lexi_chill_fj_4c00cf39:
 
     # th "Should I ask her to change?" nointeract
-    th "Should I ask her to change?" nointeract
+    th "Mình có nên bảo em ấy thay đồ không?" nointeract
 
 # game/characters/lexi/chill.rpy:290
 translate vietnamese lexi_chill_fj_d372aee6:

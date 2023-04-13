@@ -9,15 +9,14 @@ translate vietnamese strings:
     # game/combat/battle/Battle_screen.rpy:246
     old "End Turn"
     new "Kết thúc lượt"
-# TODO: Translation updated at 2023-04-11 07:48
+#: Translation updated at 2023-04-11 07:48
 
 translate vietnamese strings:
 
     # game/combat/battle/Battle_screen.rpy:610
     old "Victory"
-    new "Victory"
+    new "Chiến thắng"
 
     # game/combat/battle/Battle_screen.rpy:628
     old "Defeat"
-    new "Defeat"
-
+    new "Thất bại"

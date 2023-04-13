@@ -259,7 +259,7 @@ translate vietnamese sleep_grace_feet_49c77dca:
 translate vietnamese sleep_grace_menu_feet_32ce10af:
 
     # th "What should I do, though?" nointeract
-    th "What should I do, though?" nointeract
+    th "Nhưng mà mình phải làm gì đây?" nointeract
 
 # game/characters/grace/sleep.rpy:157
 translate vietnamese sleep_grace_menu_feet_a37ea2e9:
@@ -271,7 +271,7 @@ translate vietnamese sleep_grace_menu_feet_a37ea2e9:
 translate vietnamese sleep_grace_menu_feet_4954add1:
 
     # th "Maybe I should scare her a little?" nointeract
-    th "Maybe I should scare her a little?" nointeract
+    th "Có lẽ mình nên dọa cô ấy một chút?" nointeract
 
 # game/characters/grace/sleep.rpy:178
 translate vietnamese sleep_grace_feet_prank_446acf90:
@@ -565,7 +565,7 @@ translate vietnamese sleep_grace_feet_fun_c52659d3:
 translate vietnamese sleep_grace_feet_fun_95c41b66:
 
     # th "But, am I sure I want to do it?" nointeract
-    th "But, am I sure I want to do it?" nointeract
+    th "Nhưng liệu mình có chắc là mình muốn làm vậy không?" nointeract
 
 # game/characters/grace/sleep.rpy:319
 translate vietnamese sleep_grace_feet_fun_a9c28aa3:
@@ -637,7 +637,7 @@ translate vietnamese sleep_grace_feet_doit_e0a8e493:
 translate vietnamese sleep_grace_feet_doit_f8f1326b:
 
     # th "What to do?" nointeract
-    th "What to do?" nointeract
+    th "Phải làm gì đây?" nointeract
 
 # game/characters/grace/sleep.rpy:366
 translate vietnamese sleep_grace_feet_escape_20556f0f:
@@ -1039,7 +1039,7 @@ translate vietnamese sleep_grace_feet_wakeup_success_fcbc2982:
 translate vietnamese sleep_grace_feet_wakeup_success_09312edb:
 
     # th "Maybe she could change for me into something sexy." nointeract
-    th "Maybe she could change for me into something sexy." nointeract
+    th "Có lẽ em ấy có thể thay sang một bộ đồ nào đó sexy." nointeract
 
 # game/characters/grace/sleep.rpy:520
 translate vietnamese sleep_grace_feet_wakeup_success_3d03420a:

@@ -88,7 +88,7 @@ translate vietnamese mina_17_3eb2a5b1:
 translate vietnamese mina_17_5d188408:
 
     # mina "Deal?" nointeract
-    mina "Deal?" nointeract
+    mina "Thỏa thuận chứ?" nointeract
 
 # game/characters/mina/ev_17.rpy:54
 translate vietnamese mina_17_73dab3c8:
