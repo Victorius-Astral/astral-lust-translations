@@ -147,13 +147,9 @@ translate vietnamese strings:
     new "Thức ăn"
 
     # game/variables/lists/items.rpy:210
-    old "Recover {sanity} sanity."
-    new "Phục hồi {sanity} tỉnh táo."
-    
-    # game/variables/lists/items.rpy:210
     old "A small ounce of happiness."
     new "Một liều nhỏ của sự hạnh phúc."
 
     # game/variables/lists/items.rpy:210
     old "Recover {sanity} sanity."
-    new "Recover {sanity} sanity."
+    new "Phục hồi {sanity} tỉnh táo."

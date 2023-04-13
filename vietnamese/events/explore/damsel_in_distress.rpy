@@ -1264,13 +1264,13 @@ translate vietnamese damsel_in_distress_bimbo_menu_8f0f73aa:
 translate vietnamese damsel_in_distress_soldier_45f80c11:
 
     # me "You could've helped."
-    me "Cậu có thể giúp được mà."
+    me "Cô có thể giúp được mà."
 
 # game/events/explore/damsel_in_distress.rpy:514
 translate vietnamese damsel_in_distress_soldier_6d836172:
 
     # d_soldier "Sorry about that, I'm out of ammo."
-    d_soldier "Xin lỗi, tại tớ hết đạn rồi."
+    d_soldier "Xin lỗi, tại tôi hết đạn rồi."
 
 # game/events/explore/damsel_in_distress.rpy:515
 translate vietnamese damsel_in_distress_soldier_09abb041:
@@ -1282,7 +1282,7 @@ translate vietnamese damsel_in_distress_soldier_09abb041:
 translate vietnamese damsel_in_distress_soldier_bacd1cd3:
 
     # d_soldier "I wasn't born yesterday. I have nothing on me, besides my gun. Do you want it?"
-    d_soldier "Tớ không có gì trên người hết, ngoài khẩu súng của mình. Cậu có muốn nó không?"
+    d_soldier "Tôi không có gì trên người hết, ngoài khẩu súng của mình. Anh có muốn nó không?"
 
 # game/events/explore/damsel_in_distress.rpy:524
 translate vietnamese damsel_in_distress_soldier_8a807837:
@@ -1294,7 +1294,7 @@ translate vietnamese damsel_in_distress_soldier_8a807837:
 translate vietnamese damsel_in_distress_soldier_2f7c8d37:
 
     # d_soldier "No, I thank you. It was a close call."
-    d_soldier "Không, cảm ơn cậu. Đó là một tình huống rất xấu."
+    d_soldier "Không, cảm ơn Anh. Đó là một tình huống rất xấu."
 
 # game/events/explore/damsel_in_distress.rpy:526
 translate vietnamese damsel_in_distress_soldier_4095caad:
@@ -1324,13 +1324,13 @@ translate vietnamese damsel_in_distress_soldier_01282aa8:
 translate vietnamese damsel_in_distress_soldier_c8928e27:
 
     # d_soldier "Your basic instincts are so strong you'll chose boobs instead of a gun?"
-    d_soldier "Nhu cầu cơ bản của cậu rất mạnh đấy, cậu sẽ chọn ngực thay vì súng sao?"
+    d_soldier "Nhu cầu cơ bản của anh rất mạnh đấy, anh sẽ chọn ngực thay vì súng sao?"
 
 # game/events/explore/damsel_in_distress.rpy:539
 translate vietnamese damsel_in_distress_soldier_11c5b0a1:
 
     # me "Perhaps your gun would come in handy later, but I would rather have your tits in my hands now."
-    me "Có lẽ sau này súng của cậu sẽ có ích, nhưng bây giờ vếu quan trọng hơn."
+    me "Có lẽ sau này súng của cô sẽ có ích, nhưng bây giờ vếu quan trọng hơn."
 
 # game/events/explore/damsel_in_distress.rpy:540
 translate vietnamese damsel_in_distress_soldier_f7dbe288:
@@ -1354,7 +1354,7 @@ translate vietnamese damsel_in_distress_soldier_d6727bab:
 translate vietnamese damsel_in_distress_soldier_bbffe36c:
 
     # me "Great, you have nice tits. You're a beauty too."
-    me "Tuyệt, cậu có bộ ngực đẹp. Và cậu cũng rất đẹp nữa."
+    me "Tuyệt, cô có bộ ngực đẹp. Và cô cũng rất đẹp nữa."
 
 # game/events/explore/damsel_in_distress.rpy:547
 translate vietnamese damsel_in_distress_soldier_0a76e59a:
@@ -1372,13 +1372,13 @@ translate vietnamese damsel_in_distress_soldier_a2ad6d44:
 translate vietnamese damsel_in_distress_soldier_46fe7509:
 
     # d_soldier "It feels really good. Do you have a lot of experience in this?"
-    d_soldier "Rất tốt. Cậu có nhiều kinh nghiệm trong việc này không?"
+    d_soldier "Rất tốt. Anh có nhiều kinh nghiệm trong việc này không?"
 
 # game/events/explore/damsel_in_distress.rpy:550
 translate vietnamese damsel_in_distress_soldier_5b79da08:
 
     # me "You can say I'm talented."
-    me "Cậu có thể nói tớ rất tài năng."
+    me "Có thể nói là tôi rất tài năng."
 
 # game/events/explore/damsel_in_distress.rpy:551
 translate vietnamese damsel_in_distress_soldier_fcb8eb01:
@@ -1408,7 +1408,7 @@ translate vietnamese damsel_in_distress_soldier_992eb696:
 translate vietnamese damsel_in_distress_soldier_8e957f60:
 
     # d_soldier "It did, but this isn't a place to have fun, is it?"
-    d_soldier "Nó có, nhưng đây không phải là một nơi để vui chơi đâu, phải không?"
+    d_soldier "Có, nhưng đây không phải là một nơi để vui chơi đâu, phải không?"
 
 # game/events/explore/damsel_in_distress.rpy:559
 translate vietnamese damsel_in_distress_soldier_d6f4c0a5:
@@ -1420,7 +1420,7 @@ translate vietnamese damsel_in_distress_soldier_d6f4c0a5:
 translate vietnamese damsel_in_distress_soldier_6950d2ad:
 
     # d_soldier "See you, friend. If we see each other in a safer place, I'll let you play with them as much as you would like."
-    d_soldier "Hẹn gặp lại. Nếu chúng ta gặp nhau ở một nơi an toàn hơn, tôi sẽ để anh chơi với chúng nhiều như cậu muốn."
+    d_soldier "Hẹn gặp lại. Nếu chúng ta gặp nhau ở một nơi an toàn hơn, tôi sẽ để anh chơi với chúng nhiều như anh muốn."
 
 # game/events/explore/damsel_in_distress.rpy:566
 translate vietnamese damsel_in_distress_soldier_47b003be:
@@ -1438,7 +1438,7 @@ translate vietnamese damsel_in_distress_soldier_fdab3521:
 translate vietnamese damsel_in_distress_soldier_60af0091:
 
     # me "You can say yes."
-    me "cậu có thể nói có."
+    me "Cô có thể nói có."
 
 # game/events/explore/damsel_in_distress.rpy:576
 translate vietnamese damsel_in_distress_soldier_e4e2275d:
@@ -1456,19 +1456,19 @@ translate vietnamese damsel_in_distress_soldier_f46121fb:
 translate vietnamese damsel_in_distress_soldier_3372d991:
 
     # me "My priorities are a little different."
-    me "Các ưu tiên của tớ hơi khác một chút."
+    me "Những ưu tiên của tôi hơi khác một chút."
 
 # game/events/explore/damsel_in_distress.rpy:579
 translate vietnamese damsel_in_distress_soldier_e7cc036a:
 
     # d_soldier "I don't know if I should praise your for being different or scowl at you for being a pervert."
-    d_soldier "Tớ không biết mình nên khen ngợi cậu vì sự khác biệt hay cau có với anh vì cậu là một kẻ biến thái nữa."
+    d_soldier "Tôi không biết liệu mình nên khen anh vì sự khác biệt hay cau có với anh vì là một kẻ biến thái nữa."
 
 # game/events/explore/damsel_in_distress.rpy:580
 translate vietnamese damsel_in_distress_soldier_53a7947e:
 
     # me "I'm not a pervert. I just have clearly defined goals."
-    me "Tớ không phải là kẻ biến thái. Tớ chỉ có mục tiêu được xác định rõ ràng thôi."
+    me "Tôi không phải là kẻ biến thái. Tôi chỉ có mục tiêu được xác định rõ ràng thôi."
 
 # game/events/explore/damsel_in_distress.rpy:581
 translate vietnamese damsel_in_distress_soldier_105d6bb3:
@@ -1486,7 +1486,7 @@ translate vietnamese damsel_in_distress_soldier_efcf7283:
 translate vietnamese damsel_in_distress_soldier_0d65698a:
 
     # d_soldier "Yes, I can see you like them a lot."
-    d_soldier "Ừ, tôi có thể thấy cậu thích chúng rất nhiều."
+    d_soldier "Ừ, tôi có thể thấy anh thích chúng rất nhiều."
 
 # game/events/explore/damsel_in_distress.rpy:587
 translate vietnamese damsel_in_distress_soldier_540dc1d3:
@@ -1510,7 +1510,7 @@ translate vietnamese damsel_in_distress_soldier_0da6c4ba:
 translate vietnamese damsel_in_distress_soldier_a2b5ff00:
 
     # d_soldier "Soon you'll be done."
-    d_soldier "Cậu sẽ sớm ra thôi."
+    d_soldier "Anh sẽ sớm ra thôi."
 
 # game/events/explore/damsel_in_distress.rpy:594
 translate vietnamese damsel_in_distress_soldier_b077aa03:
@@ -1618,25 +1618,25 @@ translate vietnamese damsel_in_distress_soldier_ad1fd37b:
 translate vietnamese damsel_in_distress_soldier_652e1a8f:
 
     # me "You have some left."
-    me "cậu còn lại một ít."
+    me "Cô còn lại một ít kìa."
 
 # game/events/explore/damsel_in_distress.rpy:627
 translate vietnamese damsel_in_distress_soldier_d0b6f900:
 
     # d_soldier "You came a lot."
-    d_soldier "Ra nhiều đấy."
+    d_soldier "Anh ra nhiều đấy."
 
 # game/events/explore/damsel_in_distress.rpy:628
 translate vietnamese damsel_in_distress_soldier_767b8ac8:
 
     # me "Yeah, it just proves how good of a boobjob it was."
-    me "Yeah, nó chỉ chứng minh cậu làm tốt như thế nào thôi."
+    me "Ừ nó chỉ chứng minh rằng cô làm tốt như thế nào thôi."
 
 # game/events/explore/damsel_in_distress.rpy:629
 translate vietnamese damsel_in_distress_soldier_15a77dba:
 
     # d_soldier "It's good you liked it, but let's get going before more monsters come."
-    d_soldier "Thật tốt khi cậu thích nó, nhưng hãy đi trước khi quái vật đến nhiều hơn."
+    d_soldier "Thật tốt khi anh thích nó, nhưng hãy đi trước khi quái vật đến nhiều hơn."
 
 # game/events/explore/damsel_in_distress.rpy:630
 translate vietnamese damsel_in_distress_soldier_ecd768ba:

@@ -766,7 +766,7 @@ translate vietnamese w_girl1_chat_quickie_7786a88d:
 translate vietnamese w_girl1_chat_quickie_436c2f41:
 
     # w_girl1 "What's the fun without a little risk?"
-    w_girl1 "Còn gì vui nếu khoogn có chút mạo hiểm chứ?"
+    w_girl1 "Còn gì vui nếu không có chút mạo hiểm chứ?"
 
 # game/places/wanderers/crowd.rpy:397
 translate vietnamese w_girl1_chat_quickie_be7e63cf:
@@ -1198,7 +1198,7 @@ translate vietnamese w_girl1_chat_sexday_607cea08:
 translate vietnamese w_girl1_chat_sexday_83c1a1b1:
 
     # w_girl1 "Rest a while. Don't forget to lock the door before leaving. You know where to find me with the keys."
-    w_girl1 "Nghỉ ngơi một lúc ddi. Đừng quên khóa cửa trước khi rời đi. Anh biết phải tìm em ở đâu với mấy chiếc chìa khóa rồi đấy."
+    w_girl1 "Nghỉ ngơi một lúc đi. Đừng quên khóa cửa trước khi rời đi. Anh biết phải tìm em ở đâu với mấy chiếc chìa khóa rồi đấy."
 
 # game/places/wanderers/crowd.rpy:552
 translate vietnamese w_girl1_chat_sexday_95d3c3e0:
@@ -1222,7 +1222,7 @@ translate vietnamese w_girl1_chat_sexday_9370fd7a:
 translate vietnamese w_girl1_chat_sexday_66e5c988:
 
     # me "Wow. That was amazing!"
-    me "Wow. That was amazing!"
+    me "..."
 
 # game/places/wanderers/crowd.rpy:562
 translate vietnamese w_girl1_chat_sexday_245e4efb:
@@ -1234,7 +1234,7 @@ translate vietnamese w_girl1_chat_sexday_245e4efb:
 translate vietnamese w_girl1_chat_sexday_862814a9:
 
     # th "Anyway. We both got what we wanted."
-    th "DÙ sao thì cả hai đều có thứ mình muốn."
+    th "Dù sao thì cả hai đều có thứ mình muốn."
 
 # game/places/wanderers/crowd.rpy:567
 translate vietnamese w_girl1_chat_sexday_42b6c4a5:
