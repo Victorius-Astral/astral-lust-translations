@@ -248,3 +248,27 @@ translate vietnamese strings:
     old "Show in-progress languages"
     new "Show in-progress languages"
 
+# TODO: Translation updated at 2023-08-04 16:46
+
+translate vietnamese strings:
+
+    # game/screens/settings/game.rpy:117
+    old "Auto card level-up"
+    new "Auto card level-up"
+
+    # game/screens/settings/game.rpy:171
+    old "Use Base Card Name"
+    new "Use Base Card Name"
+
+    # game/screens/settings/game.rpy:171
+    old "Cards will show their stage 1 name even if it's changed later on. Ex. Strike instead of Heavy Strike."
+    new "Cards will show their stage 1 name even if it's changed later on. Ex. Strike instead of Heavy Strike."
+
+    # game/screens/settings/game.rpy:172
+    old "Use Base Card Image"
+    new "Use Base Card Image"
+
+    # game/screens/settings/game.rpy:172
+    old "Cards will show their stage 1 image even if it's changed later on."
+    new "Cards will show their stage 1 image even if it's changed later on."
+

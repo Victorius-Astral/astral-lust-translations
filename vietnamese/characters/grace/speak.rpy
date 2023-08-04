@@ -1255,3 +1255,27 @@ translate vietnamese strings:
     # game/characters/grace/speak.rpy:60
     old "Bunny >{#visible}"
     new "Thỏ >{#visible}"
+# TODO: Translation updated at 2023-08-04 16:46
+
+# game/characters/grace/speak.rpy:69
+translate vietnamese speak_grace_fun_b7b9d3c2:
+
+    # me "We need to test vampire outfit again."
+    me "We need to test vampire outfit again."
+
+# game/characters/grace/speak.rpy:72
+translate vietnamese speak_grace_fun_7402cda2:
+
+    # grace "Mm."
+    grace "Mm."
+
+translate vietnamese strings:
+
+    # game/characters/grace/speak.rpy:27
+    old "I've got a toy for you {gold}(Story){/gold}"
+    new "I've got a toy for you {gold}(Story){/gold}"
+
+    # game/characters/grace/speak.rpy:64
+    old "Vampire >{#visible}"
+    new "Vampire >{#visible}"
+

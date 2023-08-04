@@ -535,3 +535,11 @@ translate vietnamese strings:
     # game/characters/lexi/ev_9.rpy:62
     old "He definitely was a monster"
     new "Hắn chắc chắn là một con quái vật"
+# TODO: Translation updated at 2023-08-04 16:46
+
+# game/characters/lexi/ev_9.rpy:51
+translate vietnamese lexi_9_0cd40d7f:
+
+    # lexi "Dark.. I felt pure terror when looking at him, his eyes were.. They were cold.. "
+    lexi "Dark.. I felt pure terror when looking at him, his eyes were.. They were cold.. "
+

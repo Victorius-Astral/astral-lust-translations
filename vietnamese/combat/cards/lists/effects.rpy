@@ -320,3 +320,51 @@ translate vietnamese strings:
     # game/combat/cards/lists/effects.rpy:16
     old "Spirituality decreased by 1."
     new "Giảm 1 năng lượng tâm linh."
+# TODO: Translation updated at 2023-08-04 16:46
+
+translate vietnamese strings:
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "At the start of your turn, gain Block equal to {ef}Inner Energy{/ef}, consume 30% {ef}Inner Energy{/ef} each turn. Replaces other stances."
+    new "At the start of your turn, gain Block equal to {ef}Inner Energy{/ef}, consume 30% {ef}Inner Energy{/ef} each turn. Replaces other stances."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Your attacks inflict enemies with random debuffs. Consumes 1 {ef}Inner Energy{/ef} each turn to sustain itself. Replaces other stances."
+    new "Your attacks inflict enemies with random debuffs. Consumes 1 {ef}Inner Energy{/ef} each turn to sustain itself. Replaces other stances."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "At the start of your turn, increase your {ef}Inner Energy{/ef} by 25%. Replaces other stances."
+    new "At the start of your turn, increase your {ef}Inner Energy{/ef} by 25%. Replaces other stances."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "When adding {block}Block{/block}, add 3 more. Replaces other stances."
+    new "When adding {block}Block{/block}, add 3 more. Replaces other stances."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Attacks deal 2 more damage. Replaces other stances."
+    new "Attacks deal 2 more damage. Replaces other stances."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Attacks deal 1 more damage. When adding {block}Block{/block}, add 1 more. Replaces other stances."
+    new "Attacks deal 1 more damage. When adding {block}Block{/block}, add 1 more. Replaces other stances."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Inner Energy"
+    new "Inner Energy"
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Martial Art cards that deal damage, deal x more. Martial Art cards that add {block}Block{/block}, add x more. Decreases by 1 each time it's used."
+    new "Martial Art cards that deal damage, deal x more. Martial Art cards that add {block}Block{/block}, add x more. Decreases by 1 each time it's used."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Attack enemy for 35% damage taken, unavoidable. Attacker will be stunned for 1 turn. Consume 1 stack per use."
+    new "Attack enemy for 35% damage taken, unavoidable. Attacker will be stunned for 1 turn. Consume 1 stack per use."
+
+    # game/combat/cards/lists/effects.rpy:286
+    old "Rend"
+    new "Rend"
+
+    # game/combat/cards/lists/effects.rpy:286
+    old "Each unblocked attack inflicts target with x{{bad}}{}{{/bad}}. Lasts till next turn."
+    new "Each unblocked attack inflicts target with x{{bad}}{}{{/bad}}. Lasts till next turn."
+

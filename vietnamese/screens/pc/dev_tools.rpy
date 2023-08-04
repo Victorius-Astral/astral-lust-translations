@@ -99,3 +99,15 @@ translate vietnamese strings:
     # game/screens/pc/dev_tools.rpy:29
     old "Cursor"
     new "con trỏ"
+# TODO: Translation updated at 2023-08-04 16:46
+
+translate vietnamese strings:
+
+    # game/screens/pc/dev_tools.rpy:101
+    old "Show all"
+    new "Show all"
+
+    # game/screens/pc/dev_tools.rpy:137
+    old "Test unicode"
+    new "Test unicode"
+

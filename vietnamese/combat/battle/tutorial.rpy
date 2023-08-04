@@ -396,3 +396,23 @@ translate vietnamese strings:
     # game/combat/battle/tutorial.rpy:79
     old "He's going to attack again.. I fear that he might target me, could you please help me defend? Click on me to select me."
     new "Nó sẽ tấn công thêm lần nữa đấy. em sợ là nó có thể nhắm vào em đấy, anh có thể giúp em phòng thủ được không? Nhấp vào em để chọn em."
+# TODO: Translation updated at 2023-08-04 16:46
+
+translate vietnamese strings:
+
+    # game/combat/battle/tutorial.rpy:62
+    old "Great! This shield to the left of your health is a block. Each block can block one point of damage. With 5 block the werewolf won't be able to harm you at all!"
+    new "Great! This shield to the left of your health is a block. Each block can block one point of damage. With 5 block the werewolf won't be able to harm you at all!"
+
+    # game/combat/battle/tutorial.rpy:92
+    old "Great! Thanks for the buff! You must've noticed that some cards will affect enemies, and others the team. The target isn't random."
+    new "Great! Thanks for the buff! You must've noticed that some cards will affect enemies, and others the team. The target isn't random."
+
+    # game/combat/battle/tutorial.rpy:94
+    old "Targets can be single, or multiple. Read card description carefully to get a full idea about its effect."
+    new "Targets can be single, or multiple. Read card description carefully to get a full idea about its effect."
+
+    # game/combat/battle/tutorial.rpy:104
+    old "The Stab has inflicted a hunter's mark to the enemy. It will deal him +1 damage, with each attack. Hovering over effects will show you what they do."
+    new "The Stab has inflicted a hunter's mark to the enemy. It will deal him +1 damage, with each attack. Hovering over effects will show you what they do."
+

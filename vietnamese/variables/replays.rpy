@@ -2020,3 +2020,135 @@ translate vietnamese strings:
     # game/variables/replays.rpy:800
     old "Meet her while exploring the city. (Rachel {love}affection{/love} 7+)"
     new "Gặp cô ấy trong khi đang khám phá thành phố. (Rachel {love}độ yêu mến{/love} 7+)"
+# TODO: Translation updated at 2023-08-04 16:46
+
+translate vietnamese strings:
+
+    # game/variables/replays.rpy:311
+    old "Blowjob - Vampire"
+    new "Blowjob - Vampire"
+
+    # game/variables/replays.rpy:311
+    old "Have fun with Alice in Vampire outfit."
+    new "Have fun with Alice in Vampire outfit."
+
+    # game/variables/replays.rpy:311
+    old "Sex - Vampire"
+    new "Sex - Vampire"
+
+    # game/variables/replays.rpy:388
+    old "Ask Alice to make Mina an outfit."
+    new "Ask Alice to make Mina an outfit."
+
+    # game/variables/replays.rpy:388
+    old "Boobjob - Vampire"
+    new "Boobjob - Vampire"
+
+    # game/variables/replays.rpy:388
+    old "Have fun with Mina in Vampire outfit."
+    new "Have fun with Mina in Vampire outfit."
+
+    # game/variables/replays.rpy:388
+    old "69 - Vampire"
+    new "69 - Vampire"
+
+    # game/variables/replays.rpy:441
+    old "Ask Alice to make Lexi an outfit."
+    new "Ask Alice to make Lexi an outfit."
+
+    # game/variables/replays.rpy:441
+    old "Fingering - Vampire"
+    new "Fingering - Vampire"
+
+    # game/variables/replays.rpy:441
+    old "Have fun with Lexi in Vampire outfit."
+    new "Have fun with Lexi in Vampire outfit."
+
+    # game/variables/replays.rpy:441
+    old "Handjob - Vampire"
+    new "Handjob - Vampire"
+
+    # game/variables/replays.rpy:518
+    old "Ask Alice to make Grace an outfit."
+    new "Ask Alice to make Grace an outfit."
+
+    # game/variables/replays.rpy:518
+    old "Have fun with Grace in Vampire outfit."
+    new "Have fun with Grace in Vampire outfit."
+
+    # game/variables/replays.rpy:518
+    old "Footjob - Vampire"
+    new "Footjob - Vampire"
+
+    # game/variables/replays.rpy:681
+    old "BUSINESS DISTRICT"
+    new "BUSINESS DISTRICT"
+
+    # game/variables/replays.rpy:681
+    old "Discovery"
+    new "Discovery"
+
+    # game/variables/replays.rpy:681
+    old "Explore Industrial Area."
+    new "Explore Industrial Area."
+
+    # game/variables/replays.rpy:681
+    old "Damsel in Distress - Trader's Daughter"
+    new "Damsel in Distress - Trader's Daughter"
+
+    # game/variables/replays.rpy:681
+    old "Treasure Hunt - Map 3"
+    new "Treasure Hunt - Map 3"
+
+    # game/variables/replays.rpy:681
+    old "Find a map to an unknown place."
+    new "Find a map to an unknown place."
+
+    # game/variables/replays.rpy:681
+    old "INDUSTRIAL AREA"
+    new "INDUSTRIAL AREA"
+
+    # game/variables/replays.rpy:681
+    old "Explore Slums."
+    new "Explore Slums."
+
+    # game/variables/replays.rpy:681
+    old "MARKET DISTRICT"
+    new "MARKET DISTRICT"
+
+    # game/variables/replays.rpy:681
+    old "Explore Ruins."
+    new "Explore Ruins."
+
+    # game/variables/replays.rpy:681
+    old "Treasure Hunt - Map 4"
+    new "Treasure Hunt - Map 4"
+
+    # game/variables/replays.rpy:681
+    old "RESIDENTIAL DISTRICT"
+    new "RESIDENTIAL DISTRICT"
+
+    # game/variables/replays.rpy:681
+    old "RUINS"
+    new "RUINS"
+
+    # game/variables/replays.rpy:681
+    old "Explore Residential District."
+    new "Explore Residential District."
+
+    # game/variables/replays.rpy:681
+    old "SLUMS"
+    new "SLUMS"
+
+    # game/variables/replays.rpy:681
+    old "Damsel in Distress - Bandit Girl"
+    new "Damsel in Distress - Bandit Girl"
+
+    # game/variables/replays.rpy:681
+    old "Treasure Hunt - Map 1"
+    new "Treasure Hunt - Map 1"
+
+    # game/variables/replays.rpy:681
+    old "Treasure Hunt - Map 2"
+    new "Treasure Hunt - Map 2"
+

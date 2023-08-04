@@ -1588,3 +1588,53 @@ translate vietnamese exp_treasure_hunt_reward4_c6f8568d:
 
     # me "So, that was an ambush.."
     me "Vậy, đấy là một cuộc phục kích thật..."
+# TODO: Translation updated at 2023-08-04 16:46
+
+# game/events/explore/treasure_hunt.rpy:56
+translate vietnamese exp_treasure_hunt_newmap_044ffc8d:
+
+    # th "Picture? A part of it.."
+    th "Picture? A part of it.."
+
+# game/events/explore/treasure_hunt.rpy:60
+translate vietnamese exp_treasure_hunt_newmap_81eb4c07:
+
+    # th "The picture is different.."
+    th "The picture is different.."
+
+# game/events/explore/treasure_hunt.rpy:64
+translate vietnamese exp_treasure_hunt_newmap_0482ebf7:
+
+    # th "That's a third piece. What is this place?"
+    th "That's a third piece. What is this place?"
+
+# game/events/explore/treasure_hunt.rpy:68
+translate vietnamese exp_treasure_hunt_newmap_4e9fb68c:
+
+    # me "That would be the last one."
+    me "That would be the last one."
+
+# game/events/explore/treasure_hunt.rpy:69
+translate vietnamese exp_treasure_hunt_newmap_c7c37489:
+
+    # me "Looks like ruins to me."
+    me "Looks like ruins to me."
+
+# game/events/explore/treasure_hunt.rpy:175
+translate vietnamese exp_treasure_hunt_part4_401c5bd6:
+
+    # me "Mysterious chest lying in the middle of a parking?"
+    me "Mysterious chest lying in the middle of a parking?"
+
+# game/events/explore/treasure_hunt.rpy:176
+translate vietnamese exp_treasure_hunt_part4_75229b72:
+
+    # extend " Count me in, haha."
+    extend " Count me in, haha."
+
+# game/events/explore/treasure_hunt.rpy:183
+translate vietnamese exp_treasure_hunt_part4_619e9e1b:
+
+    # me "Nothing new, the same junk as everywhere."
+    me "Nothing new, the same junk as everywhere."
+

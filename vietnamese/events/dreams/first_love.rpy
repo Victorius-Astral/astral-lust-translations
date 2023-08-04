@@ -173,3 +173,11 @@ translate vietnamese strings:
     # game/events/dreams/first_love.rpy:20
     old "Have goodbye sex with her"
     new "Làm tình tạm biệt với cô ấy"
+# TODO: Translation updated at 2023-08-04 16:46
+
+# game/events/dreams/first_love.rpy:13
+translate vietnamese d_First_Love_2_2a01572e:
+
+    # me "Are you leaving for the university tomorrow?"
+    me "Are you leaving for the university tomorrow?"
+

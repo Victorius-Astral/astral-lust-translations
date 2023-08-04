@@ -1177,3 +1177,59 @@ translate vietnamese strings:
     # game/characters/succubi/b/talk.rpy:82
     old "Her name ([succB])"
     new "Tên của cô ấy ([succB])"
+# TODO: Translation updated at 2023-08-04 16:46
+
+# game/characters/succubi/b/talk.rpy:106
+translate vietnamese talk_SuccubusB_menu1_e22de997:
+
+    # succB "[succB_master]!"
+    succB "[succB_master]!"
+
+# game/characters/succubi/b/talk.rpy:107
+translate vietnamese talk_SuccubusB_menu1_3a9ea268:
+
+    # me "Go look for your sister when you're thirsty."
+    me "Go look for your sister when you're thirsty."
+
+# game/characters/succubi/b/talk.rpy:108
+translate vietnamese talk_SuccubusB_menu1_594520c7:
+
+    # me "I'll fuck you when I've got time."
+    me "I'll fuck you when I've got time."
+
+# game/characters/succubi/b/talk.rpy:112
+translate vietnamese talk_SuccubusB_menu1_fb4e5719:
+
+    # succB "My sister..."
+    succB "My sister..."
+
+# game/characters/succubi/b/talk.rpy:113
+translate vietnamese talk_SuccubusB_menu1_1dcadeda:
+
+    # extend " {small}{i}Dirty whore.{/i}{/small}"
+    extend " {small}{i}Dirty whore.{/i}{/small}"
+
+# game/characters/succubi/b/talk.rpy:114
+translate vietnamese talk_SuccubusB_menu1_9ec526c7:
+
+    # me "You won't fuck her?"
+    me "You won't fuck her?"
+
+# game/characters/succubi/b/talk.rpy:115
+translate vietnamese talk_SuccubusB_menu1_34065d97:
+
+    # succB "I will, [succB_master]."
+    succB "I will, [succB_master]."
+
+# game/characters/succubi/b/talk.rpy:116
+translate vietnamese talk_SuccubusB_menu1_d59a6b9a:
+
+    # me "Great."
+    me "Great."
+
+# game/characters/succubi/b/talk.rpy:125
+translate vietnamese talk_SuccubusB_menu1_911fa5e5:
+
+    # succB "Finally!~"
+    succB "Finally!~"
+

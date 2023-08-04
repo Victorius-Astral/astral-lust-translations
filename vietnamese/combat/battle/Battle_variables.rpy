@@ -97,3 +97,11 @@ translate vietnamese strings:
     # game/combat/battle/Battle_variables.rpy:82
     old "Deserters"
     new "lính đào ngũ"
+# TODO: Translation updated at 2023-08-04 16:46
+
+translate vietnamese strings:
+
+    # game/combat/battle/Battle_variables.rpy:82
+    old "Carlson Dojo"
+    new "Carlson Dojo"
+

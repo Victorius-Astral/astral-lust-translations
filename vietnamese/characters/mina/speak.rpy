@@ -869,3 +869,89 @@ translate vietnamese strings:
     # game/characters/mina/speak.rpy:43
     old "I'll get you the vodka you wanted {gold}(Story){/gold}"
     new "Anh sẽ đưa cho em chai rượu mà em muốn {gold}(Cốt Truyện){/gold}"
+# TODO: Translation updated at 2023-08-04 16:46
+
+# game/characters/mina/speak.rpy:163
+translate vietnamese speak_mina_fun_78455acf:
+
+    # me "You up for some bloodsucker fun?"
+    me "You up for some bloodsucker fun?"
+
+# game/characters/mina/speak.rpy:167
+translate vietnamese speak_mina_fun_72db6938:
+
+    # mina "Always."
+    mina "Always."
+
+# game/characters/mina/speak.rpy:178
+translate vietnamese speak_mina_fun_0039ba42:
+
+    # me "How about you use your perfect tits for something nice again?"
+    me "How about you use your perfect tits for something nice again?"
+
+# game/characters/mina/speak.rpy:182
+translate vietnamese speak_mina_fun_4e2a8876:
+
+    # mina "..."
+    mina "..."
+
+# game/characters/mina/speak.rpy:183
+translate vietnamese speak_mina_fun_5ece6d23:
+
+    # mina "What do you want me to wear?"
+    mina "What do you want me to wear?"
+
+# game/characters/mina/speak.rpy:205
+translate vietnamese speak_mina_fun_a4c5cb54:
+
+    # mina "Day off. I'm taking a day off. 'Kay?"
+    mina "Day off. I'm taking a day off. 'Kay?"
+
+# game/characters/mina/speak.rpy:206
+translate vietnamese speak_mina_fun_c76d319b:
+
+    # me "'Key."
+    me "'Key."
+
+# game/characters/mina/speak.rpy:207
+translate vietnamese speak_mina_fun_499e08eb:
+
+    # mina "Sweet."
+    mina "Sweet."
+
+# game/characters/mina/speak.rpy:219
+translate vietnamese speak_mina_fun_37318634:
+
+    # mina "Not today, bro."
+    mina "Not today, bro."
+
+# game/characters/mina/speak.rpy:220
+translate vietnamese speak_mina_fun_043b6a09:
+
+    # mina "I'm too tired."
+    mina "I'm too tired."
+
+# game/characters/mina/speak.rpy:226
+translate vietnamese speak_mina_fun_59119599:
+
+    # mina "Yes?"
+    mina "Yes?"
+
+# game/characters/mina/speak.rpy:230
+translate vietnamese speak_mina_fun_35dfbcf5:
+
+    # mina "Is it about Lexi?!"
+    mina "Is it about Lexi?!"
+
+# game/characters/mina/speak.rpy:231
+translate vietnamese speak_mina_fun_016b9631:
+
+    # me "No?"
+    me "No?"
+
+# game/characters/mina/speak.rpy:233
+translate vietnamese speak_mina_fun_f76ed5c9:
+
+    # mina "Oh.. What do you want to know then?"
+    mina "Oh.. What do you want to know then?"
+

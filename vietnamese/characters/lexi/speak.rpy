@@ -763,3 +763,101 @@ translate vietnamese strings:
     # game/characters/lexi/speak.rpy:68
     old "Why is your laptop locked? {gold}(Story){/gold}"
     new "Tại sao laptop của em lại bị khóa vậy? {gold}(Cốt Truyện){/gold}"
+# TODO: Translation updated at 2023-08-04 16:46
+
+# game/characters/lexi/speak.rpy:173
+translate vietnamese speak_lexi_fun_7b55fc13:
+
+    # me "I think we need to get that vampire outfit out of the closet."
+    me "I think we need to get that vampire outfit out of the closet."
+
+# game/characters/lexi/speak.rpy:177
+translate vietnamese speak_lexi_fun_47a150da:
+
+    # lexi "What do you have on mind?"
+    lexi "What do you have on mind?"
+
+# game/characters/lexi/speak.rpy:191
+translate vietnamese speak_lexi_fun_30dcbc86:
+
+    # lexi "You have only one thing on mind, don't you?"
+    lexi "You have only one thing on mind, don't you?"
+
+# game/characters/lexi/speak.rpy:192
+translate vietnamese speak_lexi_fun_888effc0:
+
+    # me "Perhaps, but it's your fault."
+    me "Perhaps, but it's your fault."
+
+# game/characters/lexi/speak.rpy:197
+translate vietnamese speak_lexi_fun_e67fd712:
+
+    # lexi "How so?"
+    lexi "How so?"
+
+# game/characters/lexi/speak.rpy:198
+translate vietnamese speak_lexi_fun_af81b1bc:
+
+    # me "It's your hand that I can't forget."
+    me "It's your hand that I can't forget."
+
+# game/characters/lexi/speak.rpy:203
+translate vietnamese speak_lexi_fun_d7760fc7:
+
+    # lexi "..."
+    lexi "..."
+
+# game/characters/lexi/speak.rpy:204
+translate vietnamese speak_lexi_fun_2112600a:
+
+    # lexi "You are impossible."
+    lexi "You are impossible."
+
+# game/characters/lexi/speak.rpy:205
+translate vietnamese speak_lexi_fun_cc9b06cd:
+
+    # me "You won't let me suffer, will you?"
+    me "You won't let me suffer, will you?"
+
+# game/characters/lexi/speak.rpy:210
+translate vietnamese speak_lexi_fun_5b7bb2e7:
+
+    # lexi ".. Fine, but let's go to your room."
+    lexi ".. Fine, but let's go to your room."
+
+# game/characters/lexi/speak.rpy:211
+translate vietnamese speak_lexi_fun_d59a6b9a:
+
+    # me "Great."
+    me "Great."
+
+# game/characters/lexi/speak.rpy:212
+translate vietnamese speak_lexi_fun_bde96860:
+
+    # lexi "What do you want me to wear?"
+    lexi "What do you want me to wear?"
+
+# game/characters/lexi/speak.rpy:222
+translate vietnamese speak_lexi_fun_21aa2165:
+
+    # lexi "Alright. I can't wait."
+    lexi "Alright. I can't wait."
+
+# game/characters/lexi/speak.rpy:223
+translate vietnamese speak_lexi_fun_7c380e1d:
+
+    # lexi "Should I change?"
+    lexi "Should I change?"
+
+# game/characters/lexi/speak.rpy:249
+translate vietnamese speak_lexi_fun_7be108b9:
+
+    # lexi "Sure! What do you want to know?"
+    lexi "Sure! What do you want to know?"
+
+translate vietnamese strings:
+
+    # game/characters/lexi/speak.rpy:167
+    old "Back{#return}"
+    new "Back{#return}"
+

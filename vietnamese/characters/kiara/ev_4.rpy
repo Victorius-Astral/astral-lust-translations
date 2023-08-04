@@ -425,3 +425,11 @@ translate vietnamese kiara_4_c1b138e6:
 
     # kiara "Sit on the floor."
     kiara "Nằm xuống sàn đi."
+# TODO: Translation updated at 2023-08-04 16:46
+
+# game/characters/kiara/ev_4.rpy:74
+translate vietnamese kiara_4_e615e445:
+
+    # kiara "Everything originates from 'It', as so 'It' is a part of everything."
+    kiara "Everything originates from 'It', as so 'It' is a part of everything."
+
