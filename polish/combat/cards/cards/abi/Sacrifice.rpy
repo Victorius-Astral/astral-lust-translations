@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/abi/Sacrifice.rpy:6
     old "Sacrifice"
-    new "Sacrifice"
+    new "Poświęcenie{#mtl}{#tl}"
 

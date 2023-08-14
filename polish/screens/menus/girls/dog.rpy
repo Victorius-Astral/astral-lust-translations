@@ -4,8 +4,8 @@ translate polish strings:
 
     # game/screens/menus/girls/dog.rpy:18
     old "{gold}[dog] (Dog){/gold}"
-    new "{gold}[dog] (Pies){/gold}"
+    new "{gold}[dog] (Ciasta){/gold}{#mtl}{#tl}"
 
     # game/screens/menus/girls/dog.rpy:21
     old "{gold}[dog]{/gold}"
-    new "{gold}[dog]{/gold}"
+    new "{gold}[dog]{/gold}{#mtl}{#tl}"

@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/abi/Flirtatious_Look.rpy:6
     old "Flirtatious Look"
-    new "Flirtatious Look"
+    new "Zalotne spojrzenie{#mtl}{#tl}"
 

@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/screens/utility/youDied.rpy:6
     old "YOU DIED"
-    new "YOU DIED"
+    new "UMARŁEŚ{#mtl}{#tl}"
 

@@ -4,4 +4,4 @@ translate polish strings:
 
     # game/variables/characters/prisoners.rpy:1
     old "Succubus"
-    new "Sukub"
+    new "Sukub{#mtl}{#tl}"

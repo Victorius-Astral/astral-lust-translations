@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/off/Bite.rpy:6
     old "Bite"
-    new "Bite"
+    new "Ugryzienie{#mtl}{#tl}"
 

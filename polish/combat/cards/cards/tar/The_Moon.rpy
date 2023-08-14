@@ -4,9 +4,9 @@ translate polish strings:
 
     # game/combat/cards/cards/tar/The_Moon.rpy:6
     old "The Moon"
-    new "The Moon"
+    new "Księżyc{#mtl}{#tl}"
 
     # game/combat/cards/cards/tar/The_Moon.rpy:27
     old "physical"
-    new "physical"
+    new "fizyczny{#mtl}{#tl}"
 

@@ -4,4 +4,4 @@ translate polish strings:
 
     # game/variables/characters/unknown.rpy:10
     old "???"
-    new "???"
+    new "???{#mtl}{#tl}"

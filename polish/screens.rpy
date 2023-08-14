@@ -365,3 +365,11 @@ translate polish strings:
 # TODO:
     old "Do you want to restart the game? If you don't do it, some things will not change language."
     new "Do you want to restart the game? If you don't do it, some things will not change language."
+# TODO: Translation updated at 2023-08-14 07:25
+
+translate polish strings:
+
+    # game/screens.rpy:658
+    old "Escape {#key}"
+    new "Escape {#key}"
+

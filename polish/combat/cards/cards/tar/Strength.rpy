@@ -4,9 +4,9 @@ translate polish strings:
 
     # game/combat/cards/cards/tar/Strength.rpy:6
     old "Strength"
-    new "Strength"
+    new "Wytrzymałość{#mtl}{#tl}"
 
     # game/combat/cards/cards/tar/Strength.rpy:35
     old "your strength ({}) - wisdom ({})"
-    new "your strength ({}) - wisdom ({})"
+    new "twoja siła ({}) - mądrość ({}){#mtl}{#tl}"
 

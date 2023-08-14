@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/abi/Insanity.rpy:6
     old "Insanity"
-    new "Insanity"
+    new "Niepoczytalność{#mtl}{#tl}"
 

@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/abi/Blacksmith.rpy:6
     old "Blacksmith"
-    new "Blacksmith"
+    new "Kowal{#mtl}{#tl}"
 

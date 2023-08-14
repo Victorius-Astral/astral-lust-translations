@@ -4,35 +4,35 @@ translate polish strings:
 
     # game/screens/utility/keymap.rpy:6
     old "Displays help."
-    new "Wyświetl pomoc."
+    new "Wyświetl pomoc.{#mtl}{#tl}"
 
     # game/screens/utility/keymap.rpy:10
     old "Quick Save"
-    new "Szybki zapis"
+    new "Szybki zapis{#mtl}{#tl}"
 
     # game/screens/utility/keymap.rpy:14
     old "Quick Load"
-    new "Szybkie wczytanie"
+    new "Szybkie wczytanie{#mtl}{#tl}"
 
     # game/screens/utility/keymap.rpy:18
     old "Opens inventory."
-    new "Ekwipunek"
+    new "Ekwipunk{#mtl}{#tl}"
 
     # game/screens/utility/keymap.rpy:22
     old "Shows character statistics menu."
-    new "Postać"
+    new "Postać{#mtl}{#tl}"
 
     # game/screens/utility/keymap.rpy:26
     old "Shows player deck."
-    new "Talia"
+    new "Talia{#mtl}{#tl}"
 
     # game/screens/utility/keymap.rpy:34
     old "Opens journal."
-    new "Notatnik"
+    new "Notatnik{#mtl}{#tl}"
 
     # game/screens/utility/keymap.rpy:38
     old "Opens character relations menu."
-    new "Relacje"
+    new "Relacje{#mtl}{#tl}"
 
 # Translation updated at 2022-01-31 15:20
 
@@ -40,24 +40,24 @@ translate polish strings:
 
     # game/screens/utility/keymap.rpy:42
     old "End turn in combat."
-    new "Zakończ turę w walce."
+    new "Ostateczna walka.{#mtl}{#tl}"
 
     # game/screens/utility/keymap.rpy:46
     old "Open/Close map."
-    new "Otwórz/Zamknij mapę."
+    new "Otwórz/Zamknij mapę.{#mtl}{#tl}"
 
     # game/screens/utility/keymap.rpy:50
     old "Toggle interaction menu."
-    new "Przełącz menu interakcji."
+    new "Przełącz menu interakcji.{#mtl}{#tl}"
 
     # game/screens/utility/keymap.rpy:54
     old "Toggle task menu."
-    new "Przełącz menu zadań."
+    new "przełącz menu zadań.{#mtl}{#tl}"
 # TODO: Translation updated at 2022-08-20 13:48
 
 translate polish strings:
 
     # game/screens/utility/keymap.rpy:18
     old "Shows character & inventory menu."
-    new "Shows character & inventory menu."
+    new "Pokazuje menu postaci i ekwipunku.{#mtl}{#tl}"
 

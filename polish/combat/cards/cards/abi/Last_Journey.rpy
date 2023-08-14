@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/abi/Last_Journey.rpy:39
     old "The Last Journey"
-    new "The Last Journey"
+    new "Ostatnia podróż{#mtl}{#tl}"
 

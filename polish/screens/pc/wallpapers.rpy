@@ -4,8 +4,8 @@ translate polish strings:
 
     # game/screens/pc/wallpapers.rpy:18
     old "Insert code"
-    new "Wprowadź kod"
+    new "Wprowadź kod{#mtl}{#tl}"
 
     # game/screens/pc/wallpapers.rpy:36
     old "Blocked in SFW Mode"
-    new "Zablokowane w trybie SFW"
+    new "Zablokowane w grudniu SFW{#mtl}{#tl}"

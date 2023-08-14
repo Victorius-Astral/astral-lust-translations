@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/tar/Death.rpy:6
     old "Death"
-    new "Death"
+    new "Śmierć{#mtl}{#tl}"
 

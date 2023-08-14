@@ -4,4 +4,4 @@ translate polish strings:
 
     # game/variables/lists/supporters.rpy:64
     old "Supported by: "
-    new "Wspierane przez: "
+    new "Wspierane przez: {#mtl}{#tl}"

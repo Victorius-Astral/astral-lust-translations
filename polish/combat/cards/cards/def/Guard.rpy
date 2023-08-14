@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/def/Guard.rpy:6
     old "Guard"
-    new "Guard"
+    new "Strażnik{#mtl}{#tl}"
 

@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/abi/Seduce.rpy:6
     old "Seduce"
-    new "Seduce"
+    new "Uwieść{#mtl}{#tl}"
 

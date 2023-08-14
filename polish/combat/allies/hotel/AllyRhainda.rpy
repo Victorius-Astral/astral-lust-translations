@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/allies/hotel/AllyRhainda.rpy:7
     old "[rhainda]"
-    new "[rhainda]"
+    new "[rhainda]{#mtl}{#tl}"
 

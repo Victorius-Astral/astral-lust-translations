@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/abi/Empower.rpy:6
     old "Empower"
-    new "Empower"
+    new "Umożliwiać{#mtl}{#tl}"
 

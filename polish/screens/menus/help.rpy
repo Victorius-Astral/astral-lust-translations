@@ -4,4 +4,4 @@ translate polish strings:
 
     # game/screens/menus/help.rpy:4
     old "Beginner Guide"
-    new "Poradnik dla Początkujących"
+    new "Poradnik dla Początkujących{#mtl}{#tl}"

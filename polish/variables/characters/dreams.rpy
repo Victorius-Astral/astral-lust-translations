@@ -4,12 +4,12 @@ translate polish strings:
 
     # game/variables/characters/dreams.rpy:1
     old "Charlotte"
-    new "Charlotte"
+    new "Charlotte{#mtl}{#tl}"
 
     # game/variables/characters/dreams.rpy:2
     old "Devil"
-    new "Diabeł"
+    new "Diabeł{#mtl}{#tl}"
 
     # game/variables/characters/dreams.rpy:3
     old "Secretary"
-    new "Sekretarka"
+    new "Sekretarka{#mtl}{#tl}"

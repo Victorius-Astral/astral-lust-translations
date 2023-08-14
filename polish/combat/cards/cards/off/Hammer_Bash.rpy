@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/off/Hammer_Bash.rpy:6
     old "Hammer Bash"
-    new "Hammer Bash"
+    new "Uderzenie młotem{#mtl}{#tl}"
 

@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/off/Stab.rpy:6
     old "Stab"
-    new "Stab"
+    new "Zasztyletować{#mtl}{#tl}"
 

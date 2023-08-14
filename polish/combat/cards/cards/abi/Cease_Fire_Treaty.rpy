@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/abi/Cease_Fire_Treaty.rpy:6
     old "Cease Fire Treaty"
-    new "Cease Fire Treaty"
+    new "Traktat o zawieszeniu ognia{#mtl}{#tl}"
 

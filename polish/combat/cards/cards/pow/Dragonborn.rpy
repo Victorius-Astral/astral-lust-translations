@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/pow/Dragonborn.rpy:6
     old "Dragonborn"
-    new "Dragonborn"
+    new "Zrodzony ze smoka{#mtl}{#tl}"
 

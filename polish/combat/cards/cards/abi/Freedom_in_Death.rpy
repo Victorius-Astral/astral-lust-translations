@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/abi/Freedom_in_Death.rpy:6
     old "Freedom in Death"
-    new "Freedom in Death"
+    new "Wolność w śmierci{#mtl}{#tl}"
 

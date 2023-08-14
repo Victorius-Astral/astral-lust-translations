@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/abi/Outside.rpy:6
     old "Outside {#card}"
-    new "Outside {#card}"
+    new "Na zewnątrz {#card}{#mtl}{#tl}"
 

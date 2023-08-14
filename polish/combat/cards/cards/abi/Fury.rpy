@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/abi/Fury.rpy:6
     old "Fury"
-    new "Fury"
+    new "Furia{#mtl}{#tl}"
 

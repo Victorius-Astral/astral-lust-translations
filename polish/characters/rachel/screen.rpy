@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/characters/rachel/screen.rpy:8
     old "Favor:"
-    new "Favor:"
+    new "Przychylność:{#mtl}{#tl}"
 

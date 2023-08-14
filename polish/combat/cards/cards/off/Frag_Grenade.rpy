@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/off/Frag_Grenade.rpy:6
     old "Frag Grenade"
-    new "Frag Grenade"
+    new "Granat odłamkowy{#mtl}{#tl}"
 

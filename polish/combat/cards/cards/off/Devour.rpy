@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/off/Devour.rpy:6
     old "Devour"
-    new "Devour"
+    new "Pożerać{#mtl}{#tl}"
 

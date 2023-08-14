@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/off/Snipe.rpy:6
     old "Snipe"
-    new "Snipe"
+    new "Bekas{#mtl}{#tl}"
 

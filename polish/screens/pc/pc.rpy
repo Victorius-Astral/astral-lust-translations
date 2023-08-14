@@ -4,35 +4,35 @@ translate polish strings:
 
     # game/screens/pc/pc.rpy:3
     old "Collectibles"
-    new "Znajdźki"
+    new "Znajdźki{#mtl}{#tl}"
 
     # game/screens/pc/pc.rpy:3
     old "Wallpapers"
-    new "Tapety"
+    new "Tapety{#mtl}{#tl}"
 
     # game/screens/pc/pc.rpy:3
     old "Debug Menu"
-    new "Menu Debug"
+    new "Debugowanie menu{#mtl}{#tl}"
 
     # game/screens/pc/pc.rpy:3
     old "Replay Menu"
-    new "Powtórki"
+    new "Powtórki{#mtl}{#tl}"
 
     # game/screens/pc/pc.rpy:3
     old "Insert Code"
-    new "Wprowadź Kod"
+    new "Wprowadź Kod{#mtl}{#tl}"
 
     # game/screens/pc/pc.rpy:14
     old "What's new"
-    new "Co nowego?"
+    new "Co nowego?{#mtl}{#tl}"
 
     # game/screens/pc/pc.rpy:14
     old "Show all existing cards"
-    new "Pokaż wszystkie istniejące karty"
+    new "Pokaż wszystkie dostępne karty{#mtl}{#tl}"
 
     # game/screens/pc/pc.rpy:99
     old "|{#pcSeparator}"
-    new "|{#pcSeparator}"
+    new "{#pcSeparator}|{#mtl}{#tl}"
 
 # Translation updated at 2022-02-16 09:42
 
@@ -40,12 +40,12 @@ translate polish strings:
 
     # game/screens/pc/pc.rpy:3
     old "Difficulty Settings"
-    new "Ustawienia Trudności"
+    new "Ustawienia trudności{#mtl}{#tl}"
 # TODO: Translation updated at 2022-08-20 13:48
 
 translate polish strings:
 
     # game/screens/pc/pc.rpy:3
     old "Developer Tools"
-    new "Developer Tools"
+    new "Narzędzia deweloperskie{#mtl}{#tl}"
 

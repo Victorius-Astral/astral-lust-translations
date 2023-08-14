@@ -4,9 +4,9 @@ translate polish strings:
 
     # game/screens/menu/craft.rpy:79
     old "Smithing"
-    new "Smithing"
+    new "Kowalstwo{#mtl}{#tl}"
 
     # game/screens/menu/craft.rpy:79
     old "Assemble"
-    new "Assemble"
+    new "Gromadzić się{#mtl}{#tl}"
 

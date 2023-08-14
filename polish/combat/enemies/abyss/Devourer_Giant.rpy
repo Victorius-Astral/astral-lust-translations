@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/enemies/abyss/Devourer_Giant.rpy:7
     old "Devourer Giant"
-    new "Devourer Giant"
+    new "Pożeracz Gigant{#mtl}{#tl}"
 

@@ -4,227 +4,227 @@ translate polish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "2F Corridor"
-    new "Korytarz - Pierwsze Piętro"
+    new "Korytarz - Pierwsze Piętro{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "TV"
-    new "TV"
+    new "telewizja{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[alice]"
-    new "[alice]"
+    new "[alice]{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "1F Corridor"
-    new "Korytarz - Parter"
+    new "Korytarz - Parter{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Prisoners"
-    new "Więźniowie"
+    new "Więźniowie{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[grace]"
-    new "[grace]"
+    new "[grace]{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[dog]"
-    new "[dog]"
+    new "[dog]{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Your Room"
-    new "Twój pokój"
+    new "Twój pokój{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[lexi]'s & [mina]'s Room"
-    new "Pokój - [lexi] oraz [mina]"
+    new "Pokój - [lexi] [mina]{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[alice] Room"
-    new "Pokój - [alice]"
+    new "Pokój - [alice]{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[grace] Room"
-    new "Pokój - [grace]"
+    new "Pokój - [grace]{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "3rd Floor"
-    new "Korytarz - Drugie Piętro"
+    new "Korytarz – Drugie Piętro{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Cupboard"
-    new "Szafka"
+    new "Szafka{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Other side"
-    new "Druga strona"
+    new "Druga strona{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "2nd Floor"
-    new "Pierwsze Piętro"
+    new "Pierwsze Piętro{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[savenia]'s Room"
-    new "Pokój - [savenia]"
+    new "Pokój - [savenia]{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "F2 Corridor"
-    new "Korytarz - Pierwsze Piętro"
+    new "Korytarz - Pierwsze Piętro{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Barbell Bench"
-    new "Ławka ze sztangą"
+    new "Ławka ze sztangą{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Stationary Bike"
-    new "Rower stacjonarny"
+    new "Rower stacjonarny{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Obstacle"
-    new "Przeszkoda"
+    new "Przeszkoda{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "F1 Corridor"
-    new "Korytarz - Parter"
+    new "Korytarz - Parter{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Fridge"
-    new "Lodówka"
+    new "Lodówka{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[lexi] & [grace]"
-    new "[lexi] i [grace]"
+    new "[lexi] & [grace]{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[cat]"
-    new "[cat]"
+    new "[cat]{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Documents"
-    new "Dokumenty"
+    new "Dokumenty{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Laptop"
-    new "Laptop"
+    new "Laptop{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Books (Left)"
-    new "Książki (Lewa)"
+    new "Książki (Lewa){#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Books (Right)"
-    new "Książki (Prawa)"
+    new "Książki (Prawa){#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Door"
-    new "Drzwi"
+    new "Drzwi{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[kiara]"
-    new "[kiara]"
+    new "[kiara]{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[mt]"
-    new "[mt]"
+    new "[mt]{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Outside Door"
-    new "Drzwi wejściowe"
+    new "drzwi pochodzenia{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Expansions"
-    new "Dobudówki"
+    new "Dobudówki{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Counter"
-    new "Lada"
+    new "Łada{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Bike"
-    new "Motocykl"
+    new "motocykl{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[rachel]"
-    new "[rachel]"
+    new "[rachel]{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[lola]"
-    new "[lola]"
+    new "[lola]{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "PC"
-    new "Komputer"
+    new "Komputer{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Mirror"
-    new "Lustro"
+    new "połysk{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Rubik's Cube"
-    new "Kostka Rubika"
+    new "Kostka Rubika{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Books"
-    new "Książki"
+    new "Książki{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Altar"
-    new "Ołtarz"
+    new "Ołtarz{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Chest"
-    new "Skrzynia"
+    new "Skrzyni{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Gray Cupboard"
-    new "Szara szafka"
+    new "Szara szafka{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "White Cupboard"
-    new "Biała szafka"
+    new "Biała Szafka{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Wardrobe"
-    new "Szafa"
+    new "Szafa{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Test Notifications"
-    new "Test powiadomień"
+    new "Testuj{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "3F Corridor"
-    new "Korytarz - Drugie Piętro"
+    new "Korytarz – Drugie Piętro{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[savenia]"
-    new "[savenia]"
+    new "[savenia]{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Gun Workshop"
-    new "Warsztat Rusznikarza"
+    new "Warsztat Rusznikarza{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Brothel"
-    new "Burdel"
+    new "Burdel{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Main Plaza"
-    new "Plac Główny"
+    new "Plac Główny{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[lola] Room"
-    new "Pokój - [lola]"
+    new "Pokój - [lola]{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[lil_fox]"
-    new "[lil_fox]"
+    new "[lil_fox]{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:367
     old "Interact:"
-    new "Użyj:"
+    new "Użyj:{#mtl}{#tl}"
 
     # game/screens/gui/interactionMenu.rpy:387
     old "*Toggle with '{b}I{/b}' key"
-    new "*Przełącz za pomocą '{b}I{/b}'"
+    new "* przełącz za pomoc '{b}I{/b}'{#mtl}{#tl}"
 
 # Translation updated at 2022-02-16 09:42
 
@@ -232,12 +232,11 @@ translate polish strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[rhainda] & [lil_fox]"
-    new "[rhainda] i [lil_fox]"
+    new "[rhainda] & [lil_fox]{#mtl}{#tl}"
 # TODO: Translation updated at 2022-11-13 15:23
 
 translate polish strings:
 
     # game/screens/gui/interactionMenu.rpy:76
     old "[alice] & [grace]"
-    new "[alice] & [grace]"
-
+    new "[alice] & [grace]{#mtl}{#tl}"

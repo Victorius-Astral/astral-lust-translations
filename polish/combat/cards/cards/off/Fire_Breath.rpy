@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/off/Fire_Breath.rpy:6
     old "Fire Breath"
-    new "Fire Breath"
+    new "Oddech Ognia{#mtl}{#tl}"
 

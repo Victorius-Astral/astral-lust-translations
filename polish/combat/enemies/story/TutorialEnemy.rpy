@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/enemies/story/TutorialEnemy.rpy:7
     old "Sick Werewolf"
-    new "Sick Werewolf"
+    new "Chory wilkołak{#mtl}{#tl}"
 

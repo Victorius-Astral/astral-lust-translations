@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/abi/Bug_of_Destiny.rpy:6
     old "Bug of Destiny"
-    new "Bug of Destiny"
+    new "Bug Przeznaczenia{#mtl}{#tl}"
 

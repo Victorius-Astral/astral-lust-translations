@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/abi/Hypnotise.rpy:6
     old "Hypnotise"
-    new "Hypnotise"
+    new "Zahipnotyzować{#mtl}{#tl}"
 

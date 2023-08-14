@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/def/Healing.rpy:6
     old "Healing"
-    new "Healing"
+    new "Gojenie : zdrowienie{#mtl}{#tl}"
 

@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/tar/The_World.rpy:6
     old "The World"
-    new "The World"
+    new "Świat{#mtl}{#tl}"
 

@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/off/Thors_Fury.rpy:6
     old "Thor's Fury"
-    new "Thor's Fury"
+    new "Furia Thora{#mtl}{#tl}"
 

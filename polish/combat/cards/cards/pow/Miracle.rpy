@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/pow/Miracle.rpy:6
     old "Miracle"
-    new "Miracle"
+    new "Cud{#mtl}{#tl}"
 

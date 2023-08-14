@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/off/Fireball.rpy:6
     old "Fireball"
-    new "Fireball"
+    new "Kula ognia{#mtl}{#tl}"
 

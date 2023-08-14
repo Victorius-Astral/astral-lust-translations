@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/enemies/neutral/Giant_Spider.rpy:7
     old "Giant Spider"
-    new "Giant Spider"
+    new "Gigantyczny Pająk{#mtl}{#tl}"
 

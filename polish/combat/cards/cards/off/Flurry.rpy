@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/off/Flurry.rpy:6
     old "Flurry"
-    new "Flurry"
+    new "Poruszenie{#mtl}{#tl}"
 

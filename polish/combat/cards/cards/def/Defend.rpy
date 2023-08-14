@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/def/Defend.rpy:6
     old "Defend"
-    new "Defend"
+    new "Bronić{#mtl}{#tl}"
 

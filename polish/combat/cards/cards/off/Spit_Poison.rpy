@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/off/Spit_Poison.rpy:6
     old "Spit Poison"
-    new "Spit Poison"
+    new "Pluć trucizną{#mtl}{#tl}"
 

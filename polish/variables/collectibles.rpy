@@ -4,33 +4,33 @@ translate polish strings:
 
     # game/variables/collectibles.rpy:11
     old "Location: Player's room"
-    new "Location: Player's room"
+    new "Lokacja: pokój gracza{#mtl}{#tl}"
 
     # game/variables/collectibles.rpy:11
     old "Location: Lexi & Mina's room"
-    new "Location: Lexi & Mina's room"
+    new "Lokalizacja: Pokój Lexi i Miny{#mtl}{#tl}"
 
     # game/variables/collectibles.rpy:11
     old "Location: Second floor corridor"
-    new "Location: Second floor corridor"
+    new "Lokalizacja: Korytarz drugiego piętra{#mtl}{#tl}"
 
     # game/variables/collectibles.rpy:11
     old "Location: Second floor corridor, other side"
-    new "Location: Second floor corridor, other side"
+    new "Lokalizacja: Korytarz drugiego piętra, druga strona{#mtl}{#tl}"
 
     # game/variables/collectibles.rpy:11
     old "Location: Grace's room"
-    new "Location: Grace's room"
+    new "Lokalizacja: Pokój Grace{#mtl}{#tl}"
 
     # game/variables/collectibles.rpy:11
     old "Location: Alice's room"
-    new "Location: Alice's room"
+    new "Lokalizacja: pokój Alicji{#mtl}{#tl}"
 
     # game/variables/collectibles.rpy:11
     old "Location: Lobby"
-    new "Location: Lobby"
+    new "Lokalizacja: lobby{#mtl}{#tl}"
 
     # game/variables/collectibles.rpy:11
     old "Location: Library"
-    new "Location: Library"
+    new "Miejsce: Biblioteka{#mtl}{#tl}"
 

@@ -4,77 +4,85 @@ translate polish strings:
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Unknown"
-    new "Unknown"
+    new "Nieznany{#mtl}{#tl}"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Human"
-    new "Human"
+    new "Człowiek{#mtl}{#tl}"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Dragon"
-    new "Dragon"
+    new "smok{#mtl}{#tl}"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Spider"
-    new "Spider"
+    new "Pająk{#mtl}{#tl}"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Crab"
-    new "Crab"
+    new "Krab{#mtl}{#tl}"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Flamingo"
-    new "Flamingo"
+    new "Flaming{#mtl}{#tl}"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Manticore"
-    new "Manticore"
+    new "Mantikora{#mtl}{#tl}"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Werewolf"
-    new "Werewolf"
+    new "Wilkołak{#mtl}{#tl}"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Ghoul"
-    new "Ghoul"
+    new "Wampir{#mtl}{#tl}"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Abomination"
-    new "Abomination"
+    new "Wstręt{#mtl}{#tl}"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Fox Tribe"
-    new "Fox Tribe"
+    new "Plemię Lisów{#mtl}{#tl}"
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Beast"
-    new "Beast"
+    new "Bestia{#mtl}{#tl}"
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Monster"
-    new "Monster"
+    new "Potwór{#mtl}{#tl}"
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Undead"
-    new "Undead"
+    new "Nieumarły{#mtl}{#tl}"
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Demon"
-    new "Demon"
+    new "Demon{#mtl}{#tl}"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "The Abyss"
-    new "The Abyss"
+    new "Otchłań{#mtl}{#tl}"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Horde"
-    new "Horde"
+    new "Horda{#mtl}{#tl}"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Outlaws"
-    new "Outlaws"
+    new "Banici{#mtl}{#tl}"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Deserters"
-    new "Deserters"
+    new "Dezerterzy{#mtl}{#tl}"
+
+# TODO: Translation updated at 2023-08-14 07:25
+
+translate polish strings:
+
+    # game/combat/battle/Battle_variables.rpy:82
+    old "Carlson Dojo"
+    new "Carlson Dojo"
 

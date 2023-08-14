@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/functions/trade/move_goods.rpy:17
     old "Error - no place to move items to."
-    new "Error - no place to move items to."
+    new "Błąd - brak miejsca do przeniesienia elementów.{#mtl}{#tl}"
 

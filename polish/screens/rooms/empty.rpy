@@ -4,4 +4,4 @@
 translate polish room_empty_ad0e4410:
 
     # "This room is currently unoccupied, you need to find a girl to live in this room."
-    "Ten pokój jest obecnie pusty, musisz znaleźć kogoś by go zamieszkał."
+    "Ten pokój jest obecnie pusty, znajdź kogoś, kto go zamieszkał.{#mtl}{#tl}"

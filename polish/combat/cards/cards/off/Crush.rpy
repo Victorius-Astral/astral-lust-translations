@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/off/Crush.rpy:6
     old "Crush"
-    new "Crush"
+    new "Zmiażdżyć{#mtl}{#tl}"
 

@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/tar/The_Emperor.rpy:6
     old "The Emperor"
-    new "The Emperor"
+    new "Cesarz{#mtl}{#tl}"
 

@@ -4,4 +4,4 @@ translate polish strings:
 
     # game/screens/gui/main_menu.rpy:92
     old "Legacy (Black Hole)"
-    new "Dziedzictwo (Czarna dziura)"
+    new "Dziedzictwo (Czarna dziura){#mtl}{#tl}"

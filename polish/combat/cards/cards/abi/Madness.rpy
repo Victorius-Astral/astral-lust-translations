@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/abi/Madness.rpy:6
     old "Madness"
-    new "Madness"
+    new "Szaleństwo{#mtl}{#tl}"
 

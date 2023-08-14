@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/off/Headbutt.rpy:6
     old "Headbutt"
-    new "Headbutt"
+    new "Uderzenie głową{#mtl}{#tl}"
 

@@ -4,4 +4,4 @@ translate polish strings:
 
     # game/variables/characters/main.rpy:5
     old "Savenia"
-    new "Savenia"
+    new "Savenia{#mtl}{#tl}"

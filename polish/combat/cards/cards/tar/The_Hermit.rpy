@@ -4,29 +4,29 @@ translate polish strings:
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:6
     old "The Hermit"
-    new "The Hermit"
+    new "Pustelnik{#mtl}{#tl}"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "intelligence"
-    new "intelligence"
+    new "inteligencja{#mtl}{#tl}"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "vitality"
-    new "vitality"
+    new "witalność{#mtl}{#tl}"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "charisma"
-    new "charisma"
+    new "charyzma{#mtl}{#tl}"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "agility"
-    new "agility"
+    new "zwinność{#mtl}{#tl}"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "wisdom"
-    new "wisdom"
+    new "mądrość{#mtl}{#tl}"
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "strength"
-    new "strength"
+    new "wytrzymałość{#mtl}{#tl}"
 

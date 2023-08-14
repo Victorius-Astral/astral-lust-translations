@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/battle/functions/effects/dodge.rpy:16
     old "{agi}Dodged{/agi}"
-    new "{agi}Dodged{/agi}"
+    new "{agi}Uniknięto{/agi}{#mtl}{#tl}"
 

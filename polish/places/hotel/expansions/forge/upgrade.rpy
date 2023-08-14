@@ -4,5 +4,5 @@
 translate polish forge_upgrade_e0592c43:
 
     # "WiP - Cards upgrades coming soon."
-    "WiP - Cards upgrades coming soon."
+    "WiP - Aktualizacje kart już wkrótce.{#mtl}{#tl}"
 

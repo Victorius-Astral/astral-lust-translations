@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/tar/The_Fool.rpy:6
     old "The Fool"
-    new "The Fool"
+    new "Głupiec{#mtl}{#tl}"
 

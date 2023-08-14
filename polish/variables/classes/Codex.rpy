@@ -4,8 +4,8 @@ translate polish strings:
 
     # game/variables/classes/Codex.rpy:20
     old "Entry updated - {}."
-    new "Wpis zaktualizowany - {}."
+    new "Wpis zaaktualizowany - {}.{{#tl}}"
 
     # game/variables/classes/Codex.rpy:31
     old "Entry added - {}."
-    new "Wpis dodany - {}."
+    new "Wpis dodany - {}.{{#tl}}"

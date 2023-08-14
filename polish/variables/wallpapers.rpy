@@ -4,402 +4,402 @@ translate polish strings:
 
     # game/variables/wallpapers.rpy:26
     old "Jan 2021 1"
-    new "Sty 2021 1"
+    new "Styczeń 2021 1{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:32
     old "Jan 2021 2"
-    new "Sty 2021 2"
+    new "Styczeń 2021 2{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:38
     old "Jan 2021 3"
-    new "Sty 2021 3"
+    new "Styczeń 2021 3{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:44
     old "Jan 2021 4"
-    new "Sty 2021 4"
+    new "Styczeń 2021 4{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:50
     old "Jan 2021 5"
-    new "Sty 2021 5"
+    new "Styczeń 2021 5{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:56
     old "Feb 2021 1"
-    new "Lut 2021 1"
+    new "Lut 2021 1{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:62
     old "Feb 2021 2"
-    new "Lut 2021 2"
+    new "Lut 2021 2{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:68
     old "Feb 2021 3"
-    new "Lut 2021 3"
+    new "Lut 2021 3{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:74
     old "Feb 2021 4"
-    new "Lut 2021 4"
+    new "Lut 2021 4{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:80
     old "Feb 2021 5"
-    new "Lut 2021 5"
+    new "Lut 2021 5{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:86
     old "Alice x Mina Gym"
-    new "Alice x Mina Sala Gimnastyczna"
+    new "Alice x Mina Sala Gimnastyczna{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:92
     old "Succubus Naked"
-    new "Nagi Sukub"
+    new "Nagi Sukub{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:98
     old "Succubus Underwear"
-    new "Sukub w Bieliźnie"
+    new "Sukub w Bieliźnie{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:104
     old "Succubus Clothed"
-    new "Ubrany Sukub"
+    new "Ubrany Sukub{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:110
     old "Mar 2021 1"
-    new "Mar 2021 1"
+    new "marzec 2021 1{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:116
     old "Mar 2021 2"
-    new "Mar 2021 2"
+    new "marzec 2021 2{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:122
     old "Mar 2021 3"
-    new "Mar 2021 3"
+    new "marzec 2021 3{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:128
     old "Mar 2021 4"
-    new "Mar 2021 4"
+    new "marzec 2021 4{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:134
     old "Mar 2021 5"
-    new "Mar 2021 5"
+    new "marzec 2021 5{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:140
     old "Apr 2021 1"
-    new "Kwi 2021 1"
+    new "Kwi 2021 1{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:146
     old "Apr 2021 2"
-    new "Kwi 2021 2"
+    new "Kwi 2021 2{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:152
     old "Apr 2021 3"
-    new "Kwi 2021 3"
+    new "Kwi 2021 3{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:158
     old "Apr 2021 4"
-    new "Kwi 2021 4"
+    new "Kwi 2021 4{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:164
     old "Apr 2021 5"
-    new "Kwi 2021 5"
+    new "Kwi 2021 5{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:170
     old "May 2021 1"
-    new "Maj 2021 1"
+    new "Maj 2021 1{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:176
     old "May 2021 2"
-    new "Maj 2021 2"
+    new "Maj 2021 2{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:182
     old "May 2021 3"
-    new "Maj 2021 3"
+    new "Maj 2021 3{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:188
     old "May 2021 4"
-    new "Maj 2021 4"
+    new "Maj 2021 4{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:194
     old "May 2021 5"
-    new "Maj 2021 5"
+    new "Maj 2021 5{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:200
     old "Secret 1"
-    new "Sekret 1"
+    new "Sekret 1{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:206
     old "Secret 2"
-    new "Sekret 2"
+    new "Sekret 2{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:218
     old "Badass Savenia"
-    new "Kozacka Savenia"
+    new "Kozacka Savenia{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:224
     old "June 2021 1"
-    new "Cze 2021 1"
+    new "Cze 2021 1{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:230
     old "June 2021 2"
-    new "Cze 2021 2"
+    new "Cze 2021 2{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:236
     old "June 2021 3"
-    new "Cze 2021 3"
+    new "Cze 2021 3{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:242
     old "June 2021 4"
-    new "Cze 2021 4"
+    new "Cze 2021 4{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:248
     old "June 2021 5"
-    new "Cze 2021 5"
+    new "Cze 2021 5{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:254
     old "July 2021 1"
-    new "Lip 2021 1"
+    new "Warga 2021 1{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:260
     old "July 2021 2"
-    new "Lip 2021 2"
+    new "Warga 2021 2{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:266
     old "July 2021 3"
-    new "Lip 2021 3"
+    new "Warga 2021 3{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:272
     old "July 2021 4"
-    new "Lip 2021 4"
+    new "Warga 2021 4{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:278
     old "July 2021 5"
-    new "Lip 2021 5"
+    new "Warga 2021 5{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:284
     old "Aug 2021 1"
-    new "Sie 2021 1"
+    new "Sie 2021 1{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:290
     old "Aug 2021 2"
-    new "Sie 2021 2"
+    new "Sie 2021 2{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:296
     old "Aug 2021 3"
-    new "Sie 2021 3"
+    new "Sie 2021 3{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:302
     old "Aug 2021 4"
-    new "Sie 2021 4"
+    new "Sie 2021 4{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:308
     old "Aug 2021 5"
-    new "Sie 2021 5"
+    new "Sie 2021 5{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:314
     old "Sep 2021 1"
-    new "Wrz 2021 1"
+    new "Wrz 2021 1{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:320
     old "Sep 2021 2"
-    new "Wrz 2021 2"
+    new "Wrz 2021 2{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:326
     old "Sep 2021 3"
-    new "Wrz 2021 3"
+    new "Wrz 2021 3{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:332
     old "Sep 2021 4"
-    new "Wrz 2021 4"
+    new "Wrz 2021 4{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:338
     old "Sep 2021 5"
-    new "Wrz 2021 5"
+    new "Wrz 2021 5{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:350
     old "Midnight Kiss - Topless"
-    new "Pocałunek o Północy - Topless"
+    new "Pocałunek o Północy - Topless{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:358
     old "Oct 2021 1"
-    new "Paź 2021 1"
+    new "Paź 2021 1{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:359
     old "Oct 2021 2"
-    new "Paź 2021 2"
+    new "Paź 2021 2{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:360
     old "Oct 2021 3"
-    new "Paź 2021 3"
+    new "Paź 2021 3{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:361
     old "Oct 2021 4"
-    new "Paź 2021 4"
+    new "Paź 2021 4{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:362
     old "Oct 2021 5"
-    new "Paź 2021 5"
+    new "Paź 2021 5{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:365
     old "Nov 2021 1"
-    new "Lis 2021 1"
+    new "Lis 2021 1{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:366
     old "Nov 2021 2"
-    new "Lis 2021 2"
+    new "Lis 2021 2{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:367
     old "Nov 2021 3"
-    new "Lis 2021 3"
+    new "Lis 2021 3{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:368
     old "Nov 2021 4"
-    new "Lis 2021 4"
+    new "Lis 2021 4{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:369
     old "Nov 2021 5"
-    new "Lis 2021 5"
+    new "Lis 2021 5{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:372
     old "Dec 2021 1"
-    new "Gru 2021 1"
+    new "Gru 2021 1{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:373
     old "Dec 2021 2"
-    new "Gru 2021 2"
+    new "Gru 2021 2{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:374
     old "Dec 2021 3"
-    new "Gru 2021 3"
+    new "Gru 2021 3{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:375
     old "Dec 2021 4"
-    new "Gru 2021 4"
+    new "Gru 2021 4{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:376
     old "Dec 2021 5"
-    new "Gru 2021 5"
+    new "Gru 2021 5{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:378
     old "Christmas 2021 Postcard"
-    new "Pocztówka Bożonarodzeniowa 2021"
+    new "Pocztówka Bożonarodzeniowa 2021{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:384
     old "Valentines 2022 Collage"
-    new "Walentynki 2022 - Kolaż"
+    new "Walentynki 2022 - Kolaż{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:385
     old "Alice Valentine 1"
-    new "Walentynka Alice 1"
+    new "Walentynka Alicja 1{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:386
     old "Alice Valentine 2"
-    new "Walentynka Alice 2"
+    new "Walentynka Alicja 2{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:387
     old "Alice Valentine 3"
-    new "Walentynka Alice 3"
+    new "Walentynka Alicja 3{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:388
     old "Alice Valentine 4"
-    new "Walentynka Alice 4"
+    new "Walentynka Alicja 4{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:389
     old "Alice Valentine 5"
-    new "Walentynka Alice 5"
+    new "Walentynka Alicja 5{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:398
     old "October 2021"
-    new "Październik 2021"
+    new "Październik 2021{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:398
     old "November 2021"
-    new "Listopad 2021"
+    new "Listopad 2021{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:398
     old "December 2021"
-    new "Grudzień 2021"
+    new "Grudzień 2021{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:398
     old "Year 2021"
-    new "Rok 2021"
+    new "Rok 2021{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:398
     old "Valentines 2022"
-    new "Walentynki 2022"
+    new "Walentynki 2022{#mtl}{#tl}"
 # TODO: Translation updated at 2022-08-20 13:48
 
 translate polish strings:
 
     # game/variables/wallpapers.rpy:24
     old "Patreon"
-    new "Patreon"
+    new "Patreon{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:24
     old "Combat"
-    new "Combat"
+    new "Walka{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:24
     old "Collectible"
-    new "Collectible"
+    new "Kolekcjonerska{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:24
     old "Postcard"
-    new "Postcard"
+    new "Pocztówka{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:24
     old "Patreon - Time Limited"
-    new "Patreon - Time Limited"
+    new "Patreon — ograniczony czasowo{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:24
     old "Time Limited"
-    new "Time Limited"
+    new "Ograniczony czasowo{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:24
     old "Mod"
-    new "Mod"
+    new "mod{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:431
     old "Swimmer Fox"
-    new "Swimmer Fox"
+    new "Pływak Lis{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:438
     old "Swimmer Fox - Topless"
-    new "Swimmer Fox - Topless"
+    new "Pływak Lis - Topless{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:445
     old "Bunny Gracie"
-    new "Bunny Gracie"
+    new "Króliczek Gracie{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:452
     old "Little Fox Adventure"
-    new "Little Fox Adventure"
+    new "Przygoda Małego Lisa{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:482
     old "Aug 2022 1"
-    new "Aug 2022 1"
+    new "sierpień 2022 1{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:483
     old "Aug 2022 2"
-    new "Aug 2022 2"
+    new "sierpień 2022 2{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:484
     old "Aug 2022 3"
-    new "Aug 2022 3"
+    new "sierpień 2022 3{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:485
     old "Aug 2022 4"
-    new "Aug 2022 4"
+    new "sierpień 2022 4{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:486
     old "Aug 2022 5"
-    new "Aug 2022 5"
+    new "sierpień 2022 5{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:493
     old "June 2022 Postcard"
-    new "June 2022 Postcard"
+    new "Czerwiec 2022 Pocztówka{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:517
     old "July 2022"
-    new "July 2022"
+    new "lipiec 2022 r{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:517
     old "August 2022"
-    new "August 2022"
+    new "sierpień 2022{#mtl}{#tl}"
 
 # TODO: Translation updated at 2022-11-13 15:23
 
@@ -407,25 +407,25 @@ translate polish strings:
 
     # game/variables/wallpapers.rpy:473
     old "Landscape 1"
-    new "Landscape 1"
+    new "Krajobraz 1{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:480
     old "Landscape 2"
-    new "Landscape 2"
+    new "Krajobraz 2{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:487
     old "Landscape 3"
-    new "Landscape 3"
+    new "Krajobraz 3{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:494
     old "Abstract 1"
-    new "Abstract 1"
+    new "Streszczenie 1{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:501
     old "Abstract 2"
-    new "Abstract 2"
+    new "Streszczenie 2{#mtl}{#tl}"
 
     # game/variables/wallpapers.rpy:508
     old "Abstract 3"
-    new "Abstract 3"
+    new "Streszczenie 3{#mtl}{#tl}"
 

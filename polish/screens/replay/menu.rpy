@@ -4,7 +4,7 @@ translate polish strings:
 
     # game/screens/replay/menu.rpy:69
     old "--- Locked ---"
-    new "--- Locked ---"
+    new "--- Zablokowany ---{#mtl}{#tl}"
 
 # TODO: Translation updated at 2022-01-31 15:20
 
@@ -12,5 +12,5 @@ translate polish strings:
 
     # game/screens/replay/menu.rpy:56
     old "No image"
-    new "No image"
+    new "Brak obrazka{#mtl}{#tl}"
 

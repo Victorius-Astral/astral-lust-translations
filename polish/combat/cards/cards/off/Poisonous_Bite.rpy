@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/off/Poisonous_Bite.rpy:6
     old "Poisonous Bite"
-    new "Poisonous Bite"
+    new "Trujący Ukąszenie{#mtl}{#tl}"
 

@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/tar/The_Tower.rpy:6
     old "The Tower"
-    new "The Tower"
+    new "Wieża{#mtl}{#tl}"
 

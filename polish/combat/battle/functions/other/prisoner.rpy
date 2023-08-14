@@ -4,13 +4,12 @@ translate polish strings:
 
     # game/combat/battle/functions/other/prisoner.rpy:18
     old "Do you want to catch the enemy?"
-    new "Do you want to catch the enemy?"
+    new "Chcesz złapać wroga?{#mtl}{#tl}"
 
     # game/combat/battle/functions/other/prisoner.rpy:19
     old "Catch {}"
-    new "Catch {}"
+    new "Uwięź {}{{#mtl}}{{#tl}}"
 
     # game/combat/battle/functions/other/prisoner.rpy:19
     old "Kill"
-    new "Kill"
-
+    new "Zabić{#mtl}{#tl}"

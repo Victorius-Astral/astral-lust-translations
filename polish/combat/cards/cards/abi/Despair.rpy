@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/abi/Despair.rpy:6
     old "Despair"
-    new "Despair"
+    new "Rozpacz{#mtl}{#tl}"
 

@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/abi/Dragon_Roar.rpy:6
     old "Dragon Roar"
-    new "Dragon Roar"
+    new "Smoczy Ryk{#mtl}{#tl}"
 
