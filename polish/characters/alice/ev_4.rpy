@@ -1,278 +1,272 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
-# game/characters/alice/ev_4.rpy:9
+# game/characters/alice/ev_4.rpy:8
 translate polish alice_4_131c6a3a:
 
     # "A soft, wet feeling slowly wakes you up from your dreams."
-    "Miękkie uczucie wilgoci powoli budzi cię ze snu.{#mtl}{#tl}"
+    "A soft, wet feeling slowly wakes you up from your dreams."
 
-# game/characters/alice/ev_4.rpy:10
+# game/characters/alice/ev_4.rpy:9
 translate polish alice_4_3a514469:
 
     # th "What is going on? It feels so nice.."
-    th "Co się dzieje? Czuje się tak miło..{#mtl}{#tl}"
+    th "What is going on? It feels so nice.."
 
-# game/characters/alice/ev_4.rpy:11
+# game/characters/alice/ev_4.rpy:21
 translate polish alice_4_f9e0fb50:
 
     # u_alice "Mmffmm."
-    u_alice "mmfmm.{#mtl}{#tl}"
+    u_alice "Mmffmm."
 
-# game/characters/alice/ev_4.rpy:12
+# game/characters/alice/ev_4.rpy:22
 translate polish alice_4_40694db1:
 
     # "You slowly open your eyes."
-    "Powoli otwierasz oczy.{#mtl}{#tl}"
+    "You slowly open your eyes."
 
-# game/characters/alice/ev_4.rpy:14
+# game/characters/alice/ev_4.rpy:24
 translate polish alice_4_9c39106f:
 
     # th "Shit it's [alice]!"
-    th "Cholera to jest [alice]!{#mtl}{#tl}"
+    th "Shit it's [alice]!"
 
-# game/characters/alice/ev_4.rpy:16
+# game/characters/alice/ev_4.rpy:30
 translate polish alice_4_c00df9d9:
 
     # alice "Nnnnmm~"
-    alice "Nnnnmm~{#mtl}{#tl}"
+    alice "Nnnnmm~"
 
-# game/characters/alice/ev_4.rpy:17
+# game/characters/alice/ev_4.rpy:31
 translate polish alice_4_8cf97514:
 
     # th "She's blowing me!"
-    th "Ona mnie obciąga!{#mtl}{#tl}"
+    th "She's blowing me!"
 
-# game/characters/alice/ev_4.rpy:18
+# game/characters/alice/ev_4.rpy:32
 translate polish alice_4_4098db4f:
 
     # "As [alice] continues to envelop your manhood in her soft, tender mouth you feel indescribable pleasure."
-    "jako [alice] nadal otulając swoją męskość swoimi miękkimi, czułymi ustami poczujesz nieopisaną przyjemność.{#mtl}{#tl}"
+    "As [alice] continues to envelop your manhood in her soft, tender mouth you feel indescribable pleasure."
 
-# game/characters/alice/ev_4.rpy:19
+# game/characters/alice/ev_4.rpy:36
 translate polish alice_4_530cb419:
 
     # alice "Mmmmnn~"
-    alice "Mmmmm~{#mtl}{#tl}"
+    alice "Mmmmnn~"
 
-# game/characters/alice/ev_4.rpy:20
+# game/characters/alice/ev_4.rpy:37
 translate polish alice_4_c5a013b4:
 
     # th "Fuck! So good!"
-    th "Pierdolić! Tak dobrze!{#mtl}{#tl}"
+    th "Fuck! So good!"
 
-# game/characters/alice/ev_4.rpy:23
+# game/characters/alice/ev_4.rpy:40
 translate polish alice_4_fea5e951:
 
     # me "Hey [alice].."
-    me "Hej [alice]..{#mtl}{#tl}"
+    me "Hey [alice].."
 
-# game/characters/alice/ev_4.rpy:26
+# game/characters/alice/ev_4.rpy:44
 translate polish alice_4_7eb2787f:
 
     # alice "Hey~"
-    alice "Hej~{#mtl}{#tl}"
+    alice "Hey~"
 
-# game/characters/alice/ev_4.rpy:28
+# game/characters/alice/ev_4.rpy:48
 translate polish alice_4_7a7cdb4b:
 
     # "With that she returns to your manhood."
-    "Z tym ona wraca do twojej męskości.{#mtl}{#tl}"
+    "With that she returns to your manhood."
 
-# game/characters/alice/ev_4.rpy:29
+# game/characters/alice/ev_4.rpy:49
 translate polish alice_4_89025964:
 
     # me "That's all you're gonna say? Not that I'm complaining."
-    me "Tylko tyle powiesz? Nie żebym narzekał.{#mtl}{#tl}"
+    me "That's all you're gonna say? Not that I'm complaining."
 
-# game/characters/alice/ev_4.rpy:30
+# game/characters/alice/ev_4.rpy:53
 translate polish alice_4_17a7cdad:
 
     # alice "Mmffmm~"
-    alice "Mmffmm~{#mtl}{#tl}"
+    alice "Mmffmm~"
 
-# game/characters/alice/ev_4.rpy:31
+# game/characters/alice/ev_4.rpy:54
 translate polish alice_4_eee7258e:
 
     # "She ignores your question and continues to pleasure you with even greater eagerness."
-    "Ignoruje twoje pytanie i nadal sprawia ci przyjemność z jeszcze większym zapałem.{#mtl}{#tl}"
+    "She ignores your question and continues to pleasure you with even greater eagerness."
 
-# game/characters/alice/ev_4.rpy:35
+# game/characters/alice/ev_4.rpy:58
 translate polish alice_4_790ac4ed:
 
     # th "Guess I'll just lay back and enjoy it."
-    th "Chyba po prostu się położę i będę się tym cieszyć.{#mtl}{#tl}"
+    th "Guess I'll just lay back and enjoy it."
 
-# game/characters/alice/ev_4.rpy:36
+# game/characters/alice/ev_4.rpy:61
 translate polish alice_4_17a7cdad_1:
 
     # alice "Mmffmm~"
-    alice "Mmffmm~{#mtl}{#tl}"
+    alice "Mmffmm~"
 
-# game/characters/alice/ev_4.rpy:37
+# game/characters/alice/ev_4.rpy:62
 translate polish alice_4_55fb9cd8:
 
     # th "Fuck it's like I'm in heaven!"
-    th "Kurwa, jak w niebie!{#mtl}{#tl}"
+    th "Fuck it's like I'm in heaven!"
 
-# game/characters/alice/ev_4.rpy:45
+# game/characters/alice/ev_4.rpy:69
 translate polish alice_4_1_5683bc63:
 
     # "[alice] blows you even more passionately bringing you to the edge!"
-    "[alice] wieje cię jeszcze bardziej namiętnie, doprowadzając do krawędzi!{#mtl}{#tl}"
+    "[alice] blows you even more passionately bringing you to the edge!"
 
-# game/characters/alice/ev_4.rpy:46
+# game/characters/alice/ev_4.rpy:73
 translate polish alice_4_1_c00df9d9:
 
     # alice "Nnnnmm~"
-    alice "Nnnnmm~{#mtl}{#tl}"
+    alice "Nnnnmm~"
 
-# game/characters/alice/ev_4.rpy:47
+# game/characters/alice/ev_4.rpy:74
 translate polish alice_4_1_fd29b35c:
 
     # me "Nnngh.."
-    me "Nnngh..{#mtl}{#tl}"
+    me "Nnngh.."
 
-# game/characters/alice/ev_4.rpy:48
+# game/characters/alice/ev_4.rpy:75
 translate polish alice_4_1_77cf2f99:
 
     # "You feel so good, you can barely think straight."
-    "Czujesz się tak dobrze, że ledwo trzeźwo myślisz.{#mtl}{#tl}"
+    "You feel so good, you can barely think straight."
 
-# game/characters/alice/ev_4.rpy:49
+# game/characters/alice/ev_4.rpy:76
 translate polish alice_4_1_aeddd870:
 
     # me "Ohhh.."
-    me "Ohhh..{#mtl}{#tl}"
+    me "Ohhh.."
 
-# game/characters/alice/ev_4.rpy:50
+# game/characters/alice/ev_4.rpy:80
 translate polish alice_4_1_9c8d6101:
 
     # alice "Mmmm~"
-    alice "Mmm~{#mtl}{#tl}"
+    alice "Mmmm~"
 
-# game/characters/alice/ev_4.rpy:52
+# game/characters/alice/ev_4.rpy:84
 translate polish alice_4_1_c9e889cf:
 
     # me "Fuck! I'm cumming!"
-    me "Pierdolić! Dochodzę!{#mtl}{#tl}"
+    me "Fuck! I'm cumming!"
 
-# game/characters/alice/ev_4.rpy:53
+# game/characters/alice/ev_4.rpy:85
 translate polish alice_4_1_c69dd89e:
 
     # "Hearing that you're about to cum makes [alice] take you even deeper!"
-    "Słysząc, że masz zamiar dojść, sprawia, że ​​[alice] zabierz cię jeszcze głębiej!{#mtl}{#tl}"
+    "Hearing that you're about to cum makes [alice] take you even deeper!"
 
-# game/characters/alice/ev_4.rpy:55
-translate polish alice_4_1_2f3d23c6:
-
-    # "You are cumming!"
-    "Cumujesz!{#mtl}{#tl}"
-
-# game/characters/alice/ev_4.rpy:57
+# game/characters/alice/ev_4.rpy:90
 translate polish alice_4_1_d2df6683:
 
     # alice "Mmhhm!"
-    alice "Mmhm!{#mtl}{#tl}"
+    alice "Mmhhm!"
 
-# game/characters/alice/ev_4.rpy:58
+# game/characters/alice/ev_4.rpy:91
 translate polish alice_4_1_366b9cf9:
 
     # "It seems your load was too much for [alice] as she clearly gags."
-    "Wygląda na to, że obciążenie było zbyt duże dla [alice] jak ona wyraźnie knebluje.{#mtl}{#tl}"
+    "It seems your load was too much for [alice] as she clearly gags."
 
-# game/characters/alice/ev_4.rpy:60
+# game/characters/alice/ev_4.rpy:95
 translate polish alice_4_1_43c29e43:
 
     # alice "Mmm!"
-    alice "mmm!{#mtl}{#tl}"
+    alice "Mmm!"
 
-# game/characters/alice/ev_4.rpy:63
+# game/characters/alice/ev_4.rpy:100
 translate polish alice_4_1_0b60a0c3:
 
     # alice "Hehe~"
-    alice "Hehe~{#mtl}{#tl}"
+    alice "Hehe~"
 
-# game/characters/alice/ev_4.rpy:64
+# game/characters/alice/ev_4.rpy:101
 translate polish alice_4_1_9a2d86a0:
 
     # "[alice] shows you her empty mouth and looks at you expectantly as if waiting for you to praise her."
-    "[alice] pokazuje ci swoje puste usta i patrzy na ciebie wyczekująco, jakby czekała, aż ją pochwalisz.{#mtl}{#tl}"
+    "[alice] shows you her empty mouth and looks at you expectantly as if waiting for you to praise her."
 
-# game/characters/alice/ev_4.rpy:67
+# game/characters/alice/ev_4.rpy:107
 translate polish alice_4_1_42d922c5:
 
     # th "She actually swallowed it all!"
-    th "Właściwie połknęła wszystko!{#mtl}{#tl}"
+    th "She actually swallowed it all!"
 
-# game/characters/alice/ev_4.rpy:72
+# game/characters/alice/ev_4.rpy:112
 translate polish alice_4_1_c805dcde:
 
     # alice "Mmm."
-    alice "mmm.{#mtl}{#tl}"
+    alice "Mmm."
 
-# game/characters/alice/ev_4.rpy:73
+# game/characters/alice/ev_4.rpy:113
 translate polish alice_4_1_ca8804c7:
 
     # me "To what do I owe the pleasure?"
-    me "Czemu zawdzięczam przyjemność?{#mtl}{#tl}"
+    me "To what do I owe the pleasure?"
 
-# game/characters/alice/ev_4.rpy:75
+# game/characters/alice/ev_4.rpy:115
 translate polish alice_4_1_b1c46a00:
 
     # alice "I told you to wait for it~"
-    alice "Mówiłem ci, żebyś na to zaczekał~{#mtl}{#tl}"
+    alice "I told you to wait for it~"
 
-# game/characters/alice/ev_4.rpy:76
+# game/characters/alice/ev_4.rpy:116
 translate polish alice_4_1_b14c49f7:
 
     # "Giving you one final look, she leaves your room."
-    "Rzuca ci ostatnie spojrzenie i opuszcza twój pokój.{#mtl}{#tl}"
+    "Giving you one final look, she leaves your room."
 
-# game/characters/alice/ev_4.rpy:78
+# game/characters/alice/ev_4.rpy:118
 translate polish alice_4_1_409ae55d:
 
     # th "She can play with me like that more.. like everyday."
-    th "Ona może bawić się ze mną tak bardziej.. jak codziennie.{#mtl}{#tl}"
+    th "She can play with me like that more.. like everyday."
 
-# game/characters/alice/ev_4.rpy:85
+# game/characters/alice/ev_4.rpy:125
 translate polish alice_4_1_b94a6a0f:
 
     # alice "Hmph!"
-    alice "hmf!{#mtl}{#tl}"
+    alice "Hmph!"
 
-# game/characters/alice/ev_4.rpy:86
+# game/characters/alice/ev_4.rpy:126
 translate polish alice_4_1_9dcfa7da:
 
     # "At your words [alice] pouts cutely, she is unhappy though."
-    "Na twoje słowa [alice] dąsa się uroczo, ale jest nieszczęśliwa.{#mtl}{#tl}"
+    "At your words [alice] pouts cutely, she is unhappy though."
 
-# game/characters/alice/ev_4.rpy:87
+# game/characters/alice/ev_4.rpy:127
 translate polish alice_4_1_b14c49f7_1:
 
     # "Giving you one final look, she leaves your room."
-    "Rzuca ci ostatnie spojrzenie i opuszcza twój pokój.{#mtl}{#tl}"
+    "Giving you one final look, she leaves your room."
 
-# game/characters/alice/ev_4.rpy:89
+# game/characters/alice/ev_4.rpy:129
 translate polish alice_4_1_c0b9b273:
 
     # th "She can play with me like that more.. like every day."
-    th "Ona może bawić się ze mną tak bardziej.. jak każdego dnia.{#mtl}{#tl}"
+    th "She can play with me like that more.. like every day."
 
 translate polish strings:
 
-    # game/characters/alice/ev_4.rpy:21
+    # game/characters/alice/ev_4.rpy:38
     old "Say hi"
-    new "Powiedz cześć{#mtl}{#tl}"
+    new "Say hi"
 
-    # game/characters/alice/ev_4.rpy:21
+    # game/characters/alice/ev_4.rpy:38
     old "Pretend to sleep"
-    new "Udawaj, że śpisz{#mtl}{#tl}"
+    new "Pretend to sleep"
 
-    # game/characters/alice/ev_4.rpy:68
+    # game/characters/alice/ev_4.rpy:108
     old "Good girl, that was amazing!"
-    new "Dobra dziewczyna, to było niesamowite!{#mtl}{#tl}"
+    new "Good girl, that was amazing!"
 
-    # game/characters/alice/ev_4.rpy:68
+    # game/characters/alice/ev_4.rpy:108
     old "Could be better"
-    new "Może być lepiej{#mtl}{#tl}"
+    new "Could be better"
 

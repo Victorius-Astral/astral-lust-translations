@@ -1,8 +1,8 @@
-﻿# TODO: Translation updated at 2021-07-11 16:45
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
     # game/characters/cat/speak.rpy:2
     old "Pat"
-    new "Poklepać{#mtl}{#tl}"
+    new "Pat"
 

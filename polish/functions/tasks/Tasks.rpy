@@ -1,43 +1,40 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
-    # game/functions/tasks/Tasks.rpy:109
+    # game/functions/tasks/Tasks.rpy:154
     old "Task"
-    new "Zadanie{#mtl}{#tl}"
-
-    # game/functions/tasks/Tasks.rpy:140
-    old "{} week"
-    new "{} tydzień{{#mtl}}{{#tl}}"
-
-    # game/functions/tasks/Tasks.rpy:143
-    old "{} weeks"
-    new "{} tygodnie{{#mtl}}{{#tl}}"
-
-    # game/functions/tasks/Tasks.rpy:150
-    old "{} day"
-    new "{} dzień{{#mtl}}{{#tl}}"
-
-    # game/functions/tasks/Tasks.rpy:153
-    old "{} days"
-    new "{} dni{{#mtl}}{{#tl}}"
-
-    # game/functions/tasks/Tasks.rpy:158
-    old "{} period"
-    new "{} okres{{#mtl}}{{#tl}}"
-
-    # game/functions/tasks/Tasks.rpy:161
-    old "{} periods"
-    new "{} okresy{{#mtl}}{{#tl}}"
-
-    # game/functions/tasks/Tasks.rpy:165
-    old "Completed"
-    new "Zakończony{#mtl}{#tl}"
-
-# TODO: Translation updated at 2022-08-20 13:48
-
-translate polish strings:
+    new "Task"
 
     # game/functions/tasks/Tasks.rpy:181
     old "Blocked"
-    new "Zablokowany{#mtl}{#tl}"
+    new "Blocked"
+
+    # game/functions/tasks/Tasks.rpy:188
+    old "{} week"
+    new "{} week"
+
+    # game/functions/tasks/Tasks.rpy:191
+    old "{} weeks"
+    new "{} weeks"
+
+    # game/functions/tasks/Tasks.rpy:198
+    old "{} day"
+    new "{} day"
+
+    # game/functions/tasks/Tasks.rpy:201
+    old "{} days"
+    new "{} days"
+
+    # game/functions/tasks/Tasks.rpy:206
+    old "{} period"
+    new "{} period"
+
+    # game/functions/tasks/Tasks.rpy:209
+    old "{} periods"
+    new "{} periods"
+
+    # game/functions/tasks/Tasks.rpy:213
+    old "Completed"
+    new "Completed"
+

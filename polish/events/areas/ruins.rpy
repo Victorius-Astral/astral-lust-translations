@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-14 07:25
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/events/areas/ruins.rpy:30
 translate polish exp_unlock_ruins_abbbc6b4:

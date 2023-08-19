@@ -1,26 +1,16 @@
-﻿# Translation updated at 2022-01-31 15:20
-
-translate polish strings:
-
-    # game/variables/classes/Trader.rpy:408
-    old "Trade successful"
-    new "Handel udany{#mtl}{#tl}"
-
-    # game/variables/classes/Trader.rpy:417
-    old "Player goods are worth too little"
-    new "Twoje dobre są warte wiele{#mtl}{#tl}"
-# TODO: Translation updated at 2022-08-20 13:48
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
     # game/variables/classes/Trader.rpy:11
     old "Trader"
-    new "Handlowiec{#mtl}{#tl}"
+    new "Trader"
 
-    # game/variables/classes/Trader.rpy:347
+    # game/variables/classes/Trader.rpy:350
     old "Relations with {} increased by {:.1f}"
-    new "Relacje z {} wzrosły o {:.1f}{{#tl}}"
+    new "Relations with {} increased by {:.1f}"
 
-    # game/variables/classes/Trader.rpy:354
+    # game/variables/classes/Trader.rpy:357
     old " (MAX)"
-    new " (MAKS.){#mtl}{#tl}"
+    new " (MAX)"
+

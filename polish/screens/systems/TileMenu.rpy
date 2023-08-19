@@ -1,35 +1,24 @@
-﻿# Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
-    # game/screens/systems/TileMenu.rpy:58
+    # game/screens/systems/TileMenu.rpy:60
     old "Item"
-    new "Przedmiot{#mtl}{#tl}"
+    new "Item"
 
-    # game/screens/systems/TileMenu.rpy:120
+    # game/screens/systems/TileMenu.rpy:141
     old "Crafting"
-    new "Wytwarzanie{#mtl}{#tl}"
+    new "Crafting"
 
-    # game/screens/systems/TileMenu.rpy:120
+    # game/screens/systems/TileMenu.rpy:141
     old "*This item was crafted already.*"
-    new "*Ten przedmiot został już stworzony.*{#mtl}{#tl}"
+    new "*This item was crafted already.*"
 
-    # game/screens/systems/TileMenu.rpy:201
-    old "Materials:"
-    new "Materiały:{#mtl}{#tl}"
-
-    # game/screens/systems/TileMenu.rpy:224
-    old "Required:"
-    new "Wymagania:{#mtl}{#tl}"
-
-    # game/screens/systems/TileMenu.rpy:279
-    old "*Click to lock the selection."
-    new "*Naciśnij, aby zablokować wybór.{#mtl}{#tl}"
-# TODO: Translation updated at 2022-08-20 13:48
-
-translate polish strings:
-
-    # game/screens/systems/TileMenu.rpy:196
+    # game/screens/systems/TileMenu.rpy:214
     old "*Click to create."
-    new "* Kliknij, aby utworzyć.{#mtl}{#tl}"
+    new "*Click to create."
+
+    # game/screens/systems/TileMenu.rpy:263
+    old "Required:"
+    new "Required:"
 

@@ -1,32 +1,32 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
     # game/functions/tasks/list.rpy:3
     old "Cook dinner"
-    new "ugotować kolację{#mtl}{#tl}"
+    new "Cook dinner"
 
     # game/functions/tasks/list.rpy:10
     old "Scavenge - Materials"
-    new "Zbieranie - Materiały{#mtl}{#tl}"
+    new "Scavenge - Materials"
 
     # game/functions/tasks/list.rpy:10
     old "Scavenge - Caps"
-    new "Zbieranie — Czapki{#mtl}{#tl}"
+    new "Scavenge - Caps"
 
     # game/functions/tasks/list.rpy:21
     old "Tidy up the boxes"
-    new "Zrób porządek w pudełkach{#mtl}{#tl}"
+    new "Tidy up the boxes"
 
     # game/functions/tasks/list.rpy:29
     old "Get combat gear"
-    new "Zdobądź sprzęt bojowy{#mtl}{#tl}"
+    new "Get combat gear"
 
     # game/functions/tasks/list.rpy:29
     old "Dismantle clothes"
-    new "Zdejmij ubranie{#mtl}{#tl}"
+    new "Dismantle clothes"
 
     # game/functions/tasks/list.rpy:29
     old "Reinforce coat"
-    new "Płaszcz wzmacniający{#mtl}{#tl}"
+    new "Reinforce coat"
 

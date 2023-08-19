@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-14 07:25
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/events/activities/check_door.rpy:42
 translate polish check_door_peace_8cc360b8:

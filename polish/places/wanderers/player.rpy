@@ -1,18 +1,18 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
-# game/places/wanderers/player.rpy:41
+# game/places/wanderers/player.rpy:40
 translate polish room_wanderers_player_sleep_62d1a43b:
 
     # "You feel full of energy."
-    "Czujesz się pełen energii.{#mtl}{#tl}"
+    "You feel full of energy."
 
 translate polish strings:
 
-    # game/places/wanderers/player.rpy:2
+    # game/places/wanderers/player.rpy:4
     old "What do you want to do?"
-    new "Co chcesz robić?{#mtl}{#tl}"
+    new "What do you want to do?"
 
-    # game/places/wanderers/player.rpy:2
+    # game/places/wanderers/player.rpy:4
     old "Storage/Crafting"
-    new "Przechowywanie/Rzemiosło{#mtl}{#tl}"
+    new "Storage/Crafting"
 

@@ -1,1396 +1,1238 @@
-﻿# TODO: Translation updated at 2021-07-11 16:45
+﻿# TODO: Translation updated at 2023-08-19 18:18
+
+# game/characters/mina/kiss.rpy:17
+translate polish mina_kiss_100ef60d:
+
+    # mina "You pervert! What are you asking of such an innocent girl like me?"
+    mina "You pervert! What are you asking of such an innocent girl like me?"
 
 # game/characters/mina/kiss.rpy:18
-translate polish mina_kiss_234bc9f5:
+translate polish mina_kiss_e4095f14:
 
-    # mina "You pervert! What are you asking of such innocent girl like me?"
-    mina "Ty zboczeńcu! O co prosisz taką niewinną dziewczynę jak ja?{#mtl}{#tl}"
+    # me "This face looks silly, not innocent."
+    me "This face looks silly, not innocent."
 
-# game/characters/mina/kiss.rpy:19
-translate polish mina_kiss_8c203421:
-
-    # me "This face looks silly not innocent."
-    me "Ta twarz wygląda głupio, a nie niewinnie.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:24
+# game/characters/mina/kiss.rpy:22
 translate polish mina_kiss_45465181:
 
     # mina "Silly? Me? I'm a super serious person."
-    mina "Głupi? Ja? Jestem mega poważną osobą.{#mtl}{#tl}"
+    mina "Silly? Me? I'm a super serious person."
 
-# game/characters/mina/kiss.rpy:25
+# game/characters/mina/kiss.rpy:23
 translate polish mina_kiss_b40c8749:
 
     # me "Why have I never noticed?"
-    me "Dlaczego nigdy nie zauważyłem?{#mtl}{#tl}"
+    me "Why have I never noticed?"
 
-# game/characters/mina/kiss.rpy:30
+# game/characters/mina/kiss.rpy:27
 translate polish mina_kiss_54b0f4aa:
 
     # mina "You must be blind."
-    mina "Musisz być ślepy.{#mtl}{#tl}"
+    mina "You must be blind."
 
-# game/characters/mina/kiss.rpy:31
+# game/characters/mina/kiss.rpy:28
 translate polish mina_kiss_3820771a:
 
     # me "..."
-    me "...{#mtl}{#tl}"
+    me "..."
 
-# game/characters/mina/kiss.rpy:36
+# game/characters/mina/kiss.rpy:32
 translate polish mina_kiss_926f5549:
 
     # mina "But towards your idea.."
-    mina "Ale w kierunku twojego pomysłu..{#mtl}{#tl}"
+    mina "But towards your idea.."
 
-# game/characters/mina/kiss.rpy:51
-translate polish mina_kiss_80fda75e:
+# game/characters/mina/kiss.rpy:46
+translate polish mina_kiss_3dc18494:
 
-    # mina "So you've fallen for me."
-    mina "Więc zakochałeś się we mnie.{#mtl}{#tl}"
+    # mina "So, you've fallen for me."
+    mina "So, you've fallen for me."
 
-# game/characters/mina/kiss.rpy:52
+# game/characters/mina/kiss.rpy:47
 translate polish mina_kiss_8da6b8aa:
 
     # mina "Gotta admit, I kind of expected that. I'm smoking hot, after all."
-    mina "Muszę przyznać, że trochę się tego spodziewałem. W końcu jestem gorąca.{#mtl}{#tl}"
+    mina "Gotta admit, I kind of expected that. I'm smoking hot, after all."
 
-# game/characters/mina/kiss.rpy:53
+# game/characters/mina/kiss.rpy:48
 translate polish mina_kiss_3820771a_1:
 
     # me "..."
-    me "...{#mtl}{#tl}"
+    me "..."
 
-# game/characters/mina/kiss.rpy:58
+# game/characters/mina/kiss.rpy:52
 translate polish mina_kiss_e2947378:
 
     # mina "Sorry pal, I have my mind set on Alice."
-    mina "Przepraszam kolego, myślę o Alice.{#mtl}{#tl}"
+    mina "Sorry pal, I have my mind set on Alice."
 
-# game/characters/mina/kiss.rpy:61
+# game/characters/mina/kiss.rpy:55
 translate polish mina_kiss_de8f1345:
 
     # me "Didn't you say something about friends with benefits?"
-    me "Czy nie mówiłeś coś o przyjaciołach z korzyściami?{#mtl}{#tl}"
+    me "Didn't you say something about friends with benefits?"
 
-# game/characters/mina/kiss.rpy:66
+# game/characters/mina/kiss.rpy:59
 translate polish mina_kiss_423d3d98:
 
     # mina "When did I say that?"
-    mina "Kiedy to powiedziałem?{#mtl}{#tl}"
+    mina "When did I say that?"
 
-# game/characters/mina/kiss.rpy:67
+# game/characters/mina/kiss.rpy:60
 translate polish mina_kiss_0e841363:
 
     # me "When we had lap talk."
-    me "Kiedy rozmawialiśmy na kolanach.{#mtl}{#tl}"
+    me "When we had lap talk."
 
-# game/characters/mina/kiss.rpy:72
-translate polish mina_kiss_c99e2f30:
+# game/characters/mina/kiss.rpy:64
+translate polish mina_kiss_7f8cdfca:
 
-    # mina "Oh, you mean when we talked on the sofa, yeah I remember."
-    mina "Och, masz na myśli, kiedy rozmawialiśmy na kanapie, tak, pamiętam.{#mtl}{#tl}"
+    # mina "Oh, you mean when we talked on the sofa. Yes, I remember."
+    mina "Oh, you mean when we talked on the sofa. Yes, I remember."
 
-# game/characters/mina/kiss.rpy:73
+# game/characters/mina/kiss.rpy:65
 translate polish mina_kiss_e0e6851b:
 
     # mina "Benefits don't include romantic kisses."
-    mina "Korzyści nie obejmują romantycznych pocałunków.{#mtl}{#tl}"
+    mina "Benefits don't include romantic kisses."
 
-# game/characters/mina/kiss.rpy:74
+# game/characters/mina/kiss.rpy:66
 translate polish mina_kiss_427500b6:
 
     # me "It can be friend kiss."
-    me "Może to być przyjacielski pocałunek.{#mtl}{#tl}"
+    me "It can be friend kiss."
 
-# game/characters/mina/kiss.rpy:75
+# game/characters/mina/kiss.rpy:67
 translate polish mina_kiss_10887779:
 
-    # mina "There are no friend kisses, buzzer."
-    mina "Nie ma przyjacielskich pocałunków, brzęczyku.{#mtl}{#tl}"
+    # mina "There are no friend kisses, silly." id mina_kiss_10887779
+    mina "There are no friend kisses, silly." id mina_kiss_10887779
 
-# game/characters/mina/kiss.rpy:76
+# game/characters/mina/kiss.rpy:68
 translate polish mina_kiss_64178814:
 
     # me "Whatever you say."
-    me "Cokolwiek powiesz.{#mtl}{#tl}"
+    me "Whatever you say."
 
-# game/characters/mina/kiss.rpy:81
-translate polish mina_kiss_85e0c347:
+# game/characters/mina/kiss.rpy:74
+translate polish mina_kiss_260be9f0:
 
-    # me "I don't question it, I just offer some nice time."
-    me "Nie kwestionuję tego, po prostu oferuję miło spędzony czas.{#mtl}{#tl}"
+    # me "I don't question it. I just offered some fun time."
+    me "I don't question it. I just offered some fun time."
 
-# game/characters/mina/kiss.rpy:86
+# game/characters/mina/kiss.rpy:78
 translate polish mina_kiss_f4459823:
 
     # mina "It's not gonna work buddy."
-    mina "To nie zadziała kolego.{#mtl}{#tl}"
+    mina "It's not gonna work buddy."
 
-# game/characters/mina/kiss.rpy:87
+# game/characters/mina/kiss.rpy:79
 translate polish mina_kiss_c0f69bf7:
 
     # me "Think about it."
-    me "Pomyśl o tym.{#mtl}{#tl}"
+    me "Think about it."
 
-# game/characters/mina/kiss.rpy:88
+# game/characters/mina/kiss.rpy:80
 translate polish mina_kiss_6afb1484:
 
     # mina "I will."
-    mina "Będę.{#mtl}{#tl}"
+    mina "I will."
 
-# game/characters/mina/kiss.rpy:89
+# game/characters/mina/kiss.rpy:81
 translate polish mina_kiss_cf484019:
 
     # th "We're not close enough for that, but I'm sure we'll get there one day."
-    th "Nie jesteśmy na to wystarczająco blisko, ale jestem pewien, że pewnego dnia tam dotrzemy.{#mtl}{#tl}"
+    th "We're not close enough for that, but I'm sure we'll get there one day."
 
-# game/characters/mina/kiss.rpy:98
-translate polish mina_kiss_friend_route_37b7838e:
+# game/characters/mina/kiss.rpy:90
+translate polish mina_kiss_friend_route_2f351f33:
 
-    # mina "We are buddies, why involve things like kisses?"
-    mina "Jesteśmy kumplami, po co mieszać takie rzeczy jak pocałunki?{#mtl}{#tl}"
+    # mina "We are buddies. Why involve things like kisses?"
+    mina "We are buddies. Why involve things like kisses?"
 
-# game/characters/mina/kiss.rpy:99
-translate polish mina_kiss_friend_route_534a229b:
+# game/characters/mina/kiss.rpy:91
+translate polish mina_kiss_friend_route_532c77d6:
 
-    # me "I think it would help our friendship grow stronger."
-    me "Myślę, że pomogłoby to umocnić naszą przyjaźń.{#mtl}{#tl}"
+    # me "I think it would help our friendship grow stronger!"
+    me "I think it would help our friendship grow stronger!"
 
-# game/characters/mina/kiss.rpy:104
-translate polish mina_kiss_friend_route_0190170e:
+# game/characters/mina/kiss.rpy:95
+translate polish mina_kiss_friend_route_b09878ce:
 
-    # mina "Now that's a bullshit."
-    mina "Teraz to bzdura.{#mtl}{#tl}"
+    # mina "Now that's bullshit."
+    mina "Now that's bullshit."
 
-# game/characters/mina/kiss.rpy:105
+# game/characters/mina/kiss.rpy:96
 translate polish mina_kiss_friend_route_e1d2bdee:
 
     # me "Think about it, besties often kiss, to try things, and stuff."
-    me "Pomyśl o tym, bestie często się całują, aby spróbować różnych rzeczy i takie tam.{#mtl}{#tl}"
+    me "Think about it, besties often kiss, to try things, and stuff."
 
-# game/characters/mina/kiss.rpy:106
+# game/characters/mina/kiss.rpy:97
 translate polish mina_kiss_friend_route_6c09a4c4:
 
     # mina "Yeah, it can happen.. between girls."
-    mina "Tak, to może się zdarzyć... między dziewczynami.{#mtl}{#tl}"
+    mina "Yeah, it can happen.. between girls."
 
-# game/characters/mina/kiss.rpy:107
+# game/characters/mina/kiss.rpy:98
 translate polish mina_kiss_friend_route_fd9528c5:
 
-    # me "You're sexist [mina]."
-    me "Jesteś seksistą [mina].{#mtl}{#tl}"
+    # me "You're sexist, [mina]." id mina_kiss_friend_route_fd9528c5
+    me "You're sexist, [mina]." id mina_kiss_friend_route_fd9528c5
 
-# game/characters/mina/kiss.rpy:112
-translate polish mina_kiss_friend_route_e9fae0bd:
+# game/characters/mina/kiss.rpy:102
+translate polish mina_kiss_friend_route_a22a35a4:
 
-    # mina "What are you going to do about this."
-    mina "Co zamierzasz z tym zrobić.{#mtl}{#tl}"
+    # mina "What are you going to do about that?" id mina_kiss_friend_route_a22a35a4
+    mina "What are you going to do about that?" id mina_kiss_friend_route_a22a35a4
 
-# game/characters/mina/kiss.rpy:113
+# game/characters/mina/kiss.rpy:103
 translate polish mina_kiss_friend_route_7e4b2962:
 
     # me "I think I should spank your ass."
-    me "Myślę, że powinienem dać ci klapsa w dupę.{#mtl}{#tl}"
+    me "I think I should spank your ass."
 
-# game/characters/mina/kiss.rpy:114
+# game/characters/mina/kiss.rpy:104
 translate polish mina_kiss_friend_route_1cee5deb:
 
     # mina "Try, and I'll kick you right in the face."
-    mina "Spróbuj, a kopnę cię prosto w twarz.{#mtl}{#tl}"
+    mina "Try, and I'll kick you right in the face."
 
-# game/characters/mina/kiss.rpy:115
+# game/characters/mina/kiss.rpy:105
 translate polish mina_kiss_friend_route_4c394eaf:
 
     # me "Face, as if you could raise your leg so high."
-    me "Twarz, jakbyś mógł podnieść nogę tak wysoko.{#mtl}{#tl}"
+    me "Face, as if you could raise your leg so high."
 
-# game/characters/mina/kiss.rpy:116
+# game/characters/mina/kiss.rpy:106
 translate polish mina_kiss_friend_route_bfeb130a:
 
     # mina "Wanna try?"
-    mina "Chcę spróbować?{#mtl}{#tl}"
+    mina "Wanna try?"
 
-# game/characters/mina/kiss.rpy:117
+# game/characters/mina/kiss.rpy:107
 translate polish mina_kiss_friend_route_19d6ade9:
 
     # me "Yeah, sure. Show me what you've got."
-    me "Jasne. Pokaż mi co dostałeś.{#mtl}{#tl}"
+    me "Yeah, sure. Show me what you've got."
 
-# game/characters/mina/kiss.rpy:120
+# game/characters/mina/kiss.rpy:110
 translate polish mina_kiss_friend_route_8dfbb8c0:
 
     # mina "Ready to have your skull broken?"
-    mina "Gotowy na pęknięcie czaszki?{#mtl}{#tl}"
+    mina "Ready to have your skull broken?"
 
-# game/characters/mina/kiss.rpy:121
+# game/characters/mina/kiss.rpy:111
 translate polish mina_kiss_friend_route_92dc9ede:
 
     # me "How dangerous."
-    me "Jak niebezpieczne.{#mtl}{#tl}"
+    me "How dangerous."
 
-# game/characters/mina/kiss.rpy:122
-translate polish mina_kiss_friend_route_158aff41:
+# game/characters/mina/kiss.rpy:112
+translate polish mina_kiss_friend_route_49d9cd27:
 
-    # mina "You laugh, and in a while you'll be crying."
-    mina "Śmiejesz się, a za chwilę będziesz płakać.{#mtl}{#tl}"
+    # mina "You laugh, and in a while, you'll be crying."
+    mina "You laugh, and in a while, you'll be crying."
 
-# game/characters/mina/kiss.rpy:123
+# game/characters/mina/kiss.rpy:113
 translate polish mina_kiss_friend_route_64d2fea2:
 
     # me "Show me."
-    me "Pokaż mi.{#mtl}{#tl}"
+    me "Show me."
 
-# game/characters/mina/kiss.rpy:126
+# game/characters/mina/kiss.rpy:116
 translate polish mina_kiss_friend_route_b50030d2:
 
     # me "Whoa!"
-    me "wow!{#mtl}{#tl}"
+    me "Whoa!"
 
-# game/characters/mina/kiss.rpy:130
+# game/characters/mina/kiss.rpy:120
 translate polish mina_kiss_friend_route_790b546c:
 
     # "{agi}[[Agility check passed]{/agi}"
-    "{agi}[[Kontrola sprawności zaliczona]{/agi}{#mtl}{#tl}"
+    "{agi}[[Agility check passed]{/agi}"
 
-# game/characters/mina/kiss.rpy:131
+# game/characters/mina/kiss.rpy:121
 translate polish mina_kiss_friend_route_fe3fda16:
 
     # mina "Eh?"
-    mina "co?{#mtl}{#tl}"
+    mina "Eh?"
 
-# game/characters/mina/kiss.rpy:132
-translate polish mina_kiss_friend_route_6fa5b323:
+# game/characters/mina/kiss.rpy:122
+translate polish mina_kiss_friend_route_d435e0c2:
 
-    # me "Now, now, now. Not good enough."
-    me "Teraz teraz teraz. Nie wystarczająco dobre.{#mtl}{#tl}"
+    # me "Now, now, now. Not good enough." id mina_kiss_friend_route_d435e0c2
+    me "Now, now, now. Not good enough." id mina_kiss_friend_route_d435e0c2
 
-# game/characters/mina/kiss.rpy:135
+# game/characters/mina/kiss.rpy:125
 translate polish mina_kiss_friend_route_929b9081:
 
     # mina "Hehe.. How about letting my leg go?"
-    mina "Hehe.. Co powiesz na puszczenie mojej nogi?{#mtl}{#tl}"
+    mina "Hehe.. How about letting my leg go?"
 
-# game/characters/mina/kiss.rpy:136
+# game/characters/mina/kiss.rpy:126
 translate polish mina_kiss_friend_route_ce57ca7d:
 
     # me "After you tried to kick me just now?"
-    me "Po tym, jak próbowałeś mnie kopnąć przed chwilą?{#mtl}{#tl}"
+    me "After you tried to kick me just now?"
 
-# game/characters/mina/kiss.rpy:137
+# game/characters/mina/kiss.rpy:127
 translate polish mina_kiss_friend_route_b3bf44b4:
 
     # mina "Yeah?"
-    mina "Tak?{#mtl}{#tl}"
+    mina "Yeah?"
 
-# game/characters/mina/kiss.rpy:143
-translate polish mina_kiss_friend_route_03f4da46:
+# game/characters/mina/kiss.rpy:133
+translate polish mina_kiss_friend_route_6530978f:
 
-    # mina "Now that's aaawkward~"
-    mina "Teraz to jest niezręczne~{#mtl}{#tl}"
+    # mina "Now, that's aaawkward~"
+    mina "Now, that's aaawkward~"
 
-# game/characters/mina/kiss.rpy:144
+# game/characters/mina/kiss.rpy:134
 translate polish mina_kiss_friend_route_7765978f:
 
     # me "Yeah, karate kid."
-    me "Tak, dzieciaku karate.{#mtl}{#tl}"
+    me "Yeah, karate kid."
 
-# game/characters/mina/kiss.rpy:145
+# game/characters/mina/kiss.rpy:135
 translate polish mina_kiss_friend_route_aad73c0f:
 
     # mina "Haha.."
-    mina "Ha ha..{#mtl}{#tl}"
+    mina "Haha.."
 
-# game/characters/mina/kiss.rpy:146
-translate polish mina_kiss_friend_route_b565a20e:
+# game/characters/mina/kiss.rpy:136
+translate polish mina_kiss_friend_route_afab8cdd:
 
-    # me "So what about.."
-    me "Więc co z ..{#mtl}{#tl}"
+    # me "So, what about-?" id mina_kiss_friend_route_afab8cdd
+    me "So, what about-?" id mina_kiss_friend_route_afab8cdd
 
-# game/characters/mina/kiss.rpy:149
+# game/characters/mina/kiss.rpy:139
 translate polish mina_kiss_friend_route_91955ea4:
 
     # mina "I don't feel like talking with you anymore.."
-    mina "Nie mam ochoty już z tobą rozmawiać..{#mtl}{#tl}"
+    mina "I don't feel like talking with you anymore.."
 
-# game/characters/mina/kiss.rpy:150
+# game/characters/mina/kiss.rpy:140
 translate polish mina_kiss_friend_route_f048855d:
 
     # me "Thanks?"
-    me "Dzięki?{#mtl}{#tl}"
+    me "Thanks?"
 
-# game/characters/mina/kiss.rpy:151
+# game/characters/mina/kiss.rpy:141
 translate polish mina_kiss_friend_route_4e2a8876:
 
     # mina "..."
-    mina "...{#mtl}{#tl}"
+    mina "..."
 
-# game/characters/mina/kiss.rpy:158
+# game/characters/mina/kiss.rpy:149
 translate polish mina_kiss_friend_route_2927d7fa:
 
     # mina "H-Hey!"
-    mina "H-Hej!{#mtl}{#tl}"
+    mina "H-Hey!"
 
-# game/characters/mina/kiss.rpy:161
+# game/characters/mina/kiss.rpy:152
 translate polish mina_kiss_friend_route_ce43eb64:
 
     # mina "What are you doing, buddy?"
-    mina "Co robisz, kolego?{#mtl}{#tl}"
+    mina "What are you doing, buddy?"
 
-# game/characters/mina/kiss.rpy:162
+# game/characters/mina/kiss.rpy:153
 translate polish mina_kiss_friend_route_a0c647a8:
 
     # me "Getting what is mine."
-    me "Zdobycie tego, co moje.{#mtl}{#tl}"
+    me "Getting what is mine."
 
-# game/characters/mina/kiss.rpy:163
+# game/characters/mina/kiss.rpy:154
 translate polish mina_kiss_friend_route_fe3fda16_1:
 
     # mina "Eh?"
-    mina "co?{#mtl}{#tl}"
+    mina "Eh?"
 
-# game/characters/mina/kiss.rpy:166
+# game/characters/mina/kiss.rpy:157
 translate polish mina_kiss_friend_route_ddc7ef59:
 
     # mina "Mhmm!!"
-    mina "Mhm!!{#mtl}{#tl}"
+    mina "Mhmm!!"
 
-# game/characters/mina/kiss.rpy:176
+# game/characters/mina/kiss.rpy:168
 translate polish mina_kiss_friend_route_8330bbfd:
 
-    # mina "H-Hey, pal.. What the hell was it?"
-    mina "H-Hej, kolego.. Co to do cholery było?{#mtl}{#tl}"
+    # mina "H-Hey, pal.. What the hell was that?" id mina_kiss_friend_route_8330bbfd
+    mina "H-Hey, pal.. What the hell was that?" id mina_kiss_friend_route_8330bbfd
 
-# game/characters/mina/kiss.rpy:177
+# game/characters/mina/kiss.rpy:169
 translate polish mina_kiss_friend_route_7cfce1a1:
 
     # me "Winner's reward."
-    me "Nagroda zwycięzcy.{#mtl}{#tl}"
+    me "Winner's reward."
 
-# game/characters/mina/kiss.rpy:178
-translate polish mina_kiss_friend_route_b781ff68:
+# game/characters/mina/kiss.rpy:170
+translate polish mina_kiss_friend_route_86caa441:
 
-    # mina "I'm not some reward.."
-    mina "nie jestem jakąś nagrodą..{#mtl}{#tl}"
+    # mina "I'm not some reward.." id mina_kiss_friend_route_86caa441
+    mina "I'm not some reward.." id mina_kiss_friend_route_86caa441
 
-# game/characters/mina/kiss.rpy:181
+# game/characters/mina/kiss.rpy:173
 translate polish mina_kiss_friend_route_7b558d55:
 
     # mina "But, the kiss. How was it?"
-    mina "Ale pocałunek. Jak to było?{#mtl}{#tl}"
+    mina "But, the kiss. How was it?"
 
-# game/characters/mina/kiss.rpy:182
+# game/characters/mina/kiss.rpy:174
 translate polish mina_kiss_friend_route_d739e388:
 
     # me "It was a nice reward."
-    me "To była niezła nagroda.{#mtl}{#tl}"
+    me "It was a nice reward."
 
-# game/characters/mina/kiss.rpy:185
+# game/characters/mina/kiss.rpy:177
 translate polish mina_kiss_friend_route_3d4173cd:
 
     # mina "Of course, that's me after all."
-    mina "Oczywiście, to w końcu ja.{#mtl}{#tl}"
+    mina "Of course, that's me after all."
 
-# game/characters/mina/kiss.rpy:186
+# game/characters/mina/kiss.rpy:178
 translate polish mina_kiss_friend_route_8f08030c:
 
     # me "Haha, yes."
-    me "Haha tak.{#mtl}{#tl}"
+    me "Haha, yes."
 
-# game/characters/mina/kiss.rpy:189
+# game/characters/mina/kiss.rpy:181
 translate polish mina_kiss_friend_route_cfd5ac91:
 
     # mina "Help me stand up."
-    mina "Pomóż mi wstać.{#mtl}{#tl}"
+    mina "Help me stand up."
 
-# game/characters/mina/kiss.rpy:192
+# game/characters/mina/kiss.rpy:184
 translate polish mina_kiss_friend_route_bb65008d:
 
     # mina "Thanks."
-    mina "Dzięki.{#mtl}{#tl}"
+    mina "Thanks."
 
-# game/characters/mina/kiss.rpy:198
-translate polish mina_kiss_friend_route_724ce286:
+# game/characters/mina/kiss.rpy:187
+translate polish mina_kiss_friend_route_c611e6c3:
 
-    # "{agi}[[Agility check failed]{/agi}"
-    "{agi}[[Sprawdzenie sprawności nie powiodło się]{/agi}{#mtl}{#tl}"
+    # mina "Next time, I'll get you."
+    mina "Next time, I'll get you."
 
-# game/characters/mina/kiss.rpy:199
-translate polish mina_kiss_friend_route_d086e5a2:
+# game/characters/mina/kiss.rpy:188
+translate polish mina_kiss_friend_route_ad99c039:
 
-    # me "Wha..?!"
-    me "co..?!{#mtl}{#tl}"
+    # me "Good luck, loser."
+    me "Good luck, loser."
 
-# game/characters/mina/kiss.rpy:202
-translate polish mina_kiss_friend_route_838fd430:
-
-    # mina "{quiet}Oopsie~{/quiet}"
-    mina "{quiet}Ups~{/quiet}{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:203
-translate polish mina_kiss_friend_route_5f9b772e:
-
-    # "...."
-    "....{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:204
-translate polish mina_kiss_friend_route_0877306f:
-
-    # mina "{small}[me]! Wake up!{/small}"
-    mina "{small}[me]! Obudź się!{/small}{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:205
-translate polish mina_kiss_friend_route_8560ec4e:
-
-    # mina "{small}Buddy! Earth to [me]!{/small}"
-    mina "{small}Kolega! Ziemia do [me]!{/small}{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:206
-translate polish mina_kiss_friend_route_1754bda1:
-
-    # mina "He's not waking up.."
-    mina "on się nie budzi..{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:207
-translate polish mina_kiss_friend_route_7c6d2aff:
-
-    # mina "Now that's awkward."
-    mina "Teraz to jest niezręczne.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:208
+# game/characters/mina/kiss.rpy:189
 translate polish mina_kiss_friend_route_4e2a8876_1:
 
     # mina "..."
-    mina "...{#mtl}{#tl}"
+    mina "..."
 
-# game/characters/mina/kiss.rpy:209
+# game/characters/mina/kiss.rpy:196
+translate polish mina_kiss_friend_route_724ce286:
+
+    # "{agi}[[Agility check failed]{/agi}"
+    "{agi}[[Agility check failed]{/agi}"
+
+# game/characters/mina/kiss.rpy:197
+translate polish mina_kiss_friend_route_d086e5a2:
+
+    # me "Wha-?!" id mina_kiss_friend_route_d086e5a2
+    me "Wha-?!" id mina_kiss_friend_route_d086e5a2
+
+# game/characters/mina/kiss.rpy:200
+translate polish mina_kiss_friend_route_838fd430:
+
+    # mina "{quiet}Oopsie~{/quiet}"
+    mina "{quiet}Oopsie~{/quiet}"
+
+# game/characters/mina/kiss.rpy:201
+translate polish mina_kiss_friend_route_5f9b772e:
+
+    # "...."
+    "...."
+
+# game/characters/mina/kiss.rpy:202
+translate polish mina_kiss_friend_route_0877306f:
+
+    # mina "{small}[me]! Wake up!{/small}"
+    mina "{small}[me]! Wake up!{/small}"
+
+# game/characters/mina/kiss.rpy:203
+translate polish mina_kiss_friend_route_8560ec4e:
+
+    # mina "{small}Buddy! Earth to [me]!{/small}"
+    mina "{small}Buddy! Earth to [me]!{/small}"
+
+# game/characters/mina/kiss.rpy:204
+translate polish mina_kiss_friend_route_1754bda1:
+
+    # mina "He's not waking up.."
+    mina "He's not waking up.."
+
+# game/characters/mina/kiss.rpy:205
+translate polish mina_kiss_friend_route_79fe1a52:
+
+    # mina "Now, that's awkward."
+    mina "Now, that's awkward."
+
+# game/characters/mina/kiss.rpy:206
+translate polish mina_kiss_friend_route_4e2a8876_2:
+
+    # mina "..."
+    mina "..."
+
+# game/characters/mina/kiss.rpy:207
 translate polish mina_kiss_friend_route_20c73366:
 
     # "*Slap*"
-    "*Policzkować*{#mtl}{#tl}"
+    "*Slap*"
 
-# game/characters/mina/kiss.rpy:212
+# game/characters/mina/kiss.rpy:210
 translate polish mina_kiss_friend_route_291064eb:
 
     # me "What the hell?!"
-    me "Co do cholery?!{#mtl}{#tl}"
+    me "What the hell?!"
 
-# game/characters/mina/kiss.rpy:213
+# game/characters/mina/kiss.rpy:211
 translate polish mina_kiss_friend_route_64f49c83:
 
     # mina "You woke up!"
-    mina "Obudziłeś się!{#mtl}{#tl}"
+    mina "You woke up!"
 
-# game/characters/mina/kiss.rpy:214
+# game/characters/mina/kiss.rpy:212
 translate polish mina_kiss_friend_route_f1958134:
 
     # me "What's wrong with you two, do you sisters have slapping fetish?"
-    me "Co jest z wami nie tak, czy wasze siostry mają fetysz z klapsami?{#mtl}{#tl}"
+    me "What's wrong with you two, do you sisters have slapping fetish?"
 
-# game/characters/mina/kiss.rpy:217
+# game/characters/mina/kiss.rpy:215
 translate polish mina_kiss_friend_route_16409b21:
 
     # mina "Hitting you is a nice entertainment."
-    mina "Bicie cię to niezła rozrywka.{#mtl}{#tl}"
+    mina "Hitting you is a nice entertainment."
 
-# game/characters/mina/kiss.rpy:218
+# game/characters/mina/kiss.rpy:216
 translate polish mina_kiss_friend_route_1e985307:
 
     # me "Go to hell.."
-    me "Idź do diabła..{#mtl}{#tl}"
+    me "Go to hell.."
 
-# game/characters/mina/kiss.rpy:219
+# game/characters/mina/kiss.rpy:217
 translate polish mina_kiss_friend_route_dcfea443:
 
     # mina "Words of a loser."
-    mina "Słowa przegranego.{#mtl}{#tl}"
+    mina "Words of a loser."
 
-# game/characters/mina/kiss.rpy:222
+# game/characters/mina/kiss.rpy:220
 translate polish mina_kiss_friend_route_4d5a8574:
 
     # me "I'm going out."
-    me "Wychodzę.{#mtl}{#tl}"
+    me "I'm going out."
 
-# game/characters/mina/kiss.rpy:223
+# game/characters/mina/kiss.rpy:221
 translate polish mina_kiss_friend_route_49901398:
 
     # mina "Bye, bye, buddy~"
-    mina "Pa, pa, kolego~{#mtl}{#tl}"
+    mina "Bye, bye, buddy~"
 
-# game/characters/mina/kiss.rpy:224
+# game/characters/mina/kiss.rpy:222
 translate polish mina_kiss_friend_route_3820771a:
 
     # me "..."
-    me "...{#mtl}{#tl}"
+    me "..."
 
-# game/characters/mina/kiss.rpy:227
+# game/characters/mina/kiss.rpy:225
 translate polish mina_kiss_friend_route_04292c66:
 
     # mina "I believe in you!"
-    mina "Wierzę w Ciebie!{#mtl}{#tl}"
+    mina "I believe in you!"
 
-# game/characters/mina/kiss.rpy:228
+# game/characters/mina/kiss.rpy:226
 translate polish mina_kiss_friend_route_3820771a_1:
 
     # me "..."
-    me "...{#mtl}{#tl}"
+    me "..."
 
-# game/characters/mina/kiss.rpy:231
+# game/characters/mina/kiss.rpy:229
 translate polish mina_kiss_friend_route_35babb03:
 
     # mina "Next time, you won't get knocked out cold, mate."
-    mina "Następnym razem nie zostaniesz znokautowany, stary.{#mtl}{#tl}"
+    mina "Next time, you won't get knocked out cold, mate."
 
-# game/characters/mina/kiss.rpy:232
+# game/characters/mina/kiss.rpy:230
 translate polish mina_kiss_friend_route_3820771a_2:
 
     # me "..."
-    me "...{#mtl}{#tl}"
+    me "..."
 
-# game/characters/mina/kiss.rpy:240
+# game/characters/mina/kiss.rpy:238
 translate polish mina_kiss_menu1_4bf79351:
 
     # mina "You returned to try your luck again?"
-    mina "Wróciłeś, by spróbować szczęścia jeszcze raz?{#mtl}{#tl}"
+    mina "You returned to try your luck again?"
 
-# game/characters/mina/kiss.rpy:243
+# game/characters/mina/kiss.rpy:241
 translate polish mina_kiss_menu1_80e8bfb0:
 
     # mina "What are you doing?!"
-    mina "Co robisz?!{#mtl}{#tl}"
+    mina "What are you doing?!"
 
-# game/characters/mina/kiss.rpy:250
+# game/characters/mina/kiss.rpy:249
 translate polish mina_kiss_menu1_39ebe689:
 
     # mina "Mghmm?!"
-    mina "Mghmm?!{#mtl}{#tl}"
+    mina "Mghmm?!"
 
-# game/characters/mina/kiss.rpy:255
+# game/characters/mina/kiss.rpy:254
 translate polish mina_kiss_menu1_6d7a36b7:
 
     # mina "What was it?!"
-    mina "Co to było?!{#mtl}{#tl}"
+    mina "What was it?!"
 
-# game/characters/mina/kiss.rpy:256
+# game/characters/mina/kiss.rpy:255
 translate polish mina_kiss_menu1_806cfc4e:
 
     # me "Payback."
-    me "Zemsta.{#mtl}{#tl}"
+    me "Payback."
 
-# game/characters/mina/kiss.rpy:259
+# game/characters/mina/kiss.rpy:258
 translate polish mina_kiss_menu1_94249516:
 
     # mina "You're unbelievable.."
-    mina "Jesteś niewiarygodny..{#mtl}{#tl}"
+    mina "You're unbelievable.."
 
-# game/characters/mina/kiss.rpy:262
+# game/characters/mina/kiss.rpy:261
 translate polish mina_kiss_menu1_8bce548e:
 
     # mina "Are you leaving just like this?"
-    mina "Odchodzisz tak po prostu?{#mtl}{#tl}"
+    mina "Are you leaving just like this?"
 
-# game/characters/mina/kiss.rpy:263
+# game/characters/mina/kiss.rpy:262
 translate polish mina_kiss_menu1_ecd768ba:
 
     # me "Yeah."
-    me "Tak.{#mtl}{#tl}"
+    me "Yeah."
 
-# game/characters/mina/kiss.rpy:264
+# game/characters/mina/kiss.rpy:263
 translate polish mina_kiss_menu1_5f34c4d9:
 
     # mina "Man, you're acting weirder than usually.."
-    mina "Człowieku, zachowujesz się dziwniej niż zwykle..{#mtl}{#tl}"
+    mina "Man, you're acting weirder than usually.."
 
 # game/characters/mina/kiss.rpy:271
 translate polish mina_kiss_menu1_865fd06e:
 
     # th "{cor}Not a fucking chance..{/cor}"
-    th "{cor}Nie ma kurwa szans..{/cor}{#mtl}{#tl}"
+    th "{cor}Not a fucking chance..{/cor}"
 
 # game/characters/mina/kiss.rpy:275
 translate polish mina_kiss_menu1_5e807d39:
 
     # th "I will get back on her next time.."
-    th "Odezwę się do niej następnym razem..{#mtl}{#tl}"
+    th "I will get back on her next time.."
 
-# game/characters/mina/kiss.rpy:288
+# game/characters/mina/kiss.rpy:289
 translate polish mina_kiss_love_route_28a91c33:
 
     # mina "How could I say no? Since you asked so nicely.."
-    mina "Jak mógłbym odmówić? skoro tak ładnie prosisz..{#mtl}{#tl}"
+    mina "How could I say no? Since you asked so nicely.."
 
-# game/characters/mina/kiss.rpy:289
+# game/characters/mina/kiss.rpy:290
 translate polish mina_kiss_love_route_7d50beae:
 
     # th "Did I ask.. nicely?"
-    th "Czy ładnie poprosiłem?{#mtl}{#tl}"
+    th "Did I ask.. nicely?"
 
 # game/characters/mina/kiss.rpy:294
 translate polish mina_kiss_love_route_056808e0:
 
     # mina "What's up with this doubtful face?"
-    mina "O co chodzi z tą wątpliwą twarzą?{#mtl}{#tl}"
+    mina "What's up with this doubtful face?"
 
 # game/characters/mina/kiss.rpy:295
 translate polish mina_kiss_love_route_3cdc3ea6:
 
     # me "No, nothing."
-    me "Nie nic.{#mtl}{#tl}"
+    me "No, nothing."
 
-# game/characters/mina/kiss.rpy:300
+# game/characters/mina/kiss.rpy:299
 translate polish mina_kiss_love_route_2b5c15d7:
 
     # mina "Great."
-    mina "Świetnie.{#mtl}{#tl}"
+    mina "Great."
 
-# game/characters/mina/kiss.rpy:305
+# game/characters/mina/kiss.rpy:303
 translate polish mina_kiss_love_route_8e5f125a:
 
     # mina "I have an idea!"
-    mina "Mam pomysł!{#mtl}{#tl}"
+    mina "I have an idea!"
 
-# game/characters/mina/kiss.rpy:306
+# game/characters/mina/kiss.rpy:304
 translate polish mina_kiss_love_route_82b1ab5d:
 
     # me "Yeah? You seem pretty excited about it."
-    me "Tak? Wydajesz się być tym bardzo podekscytowany.{#mtl}{#tl}"
+    me "Yeah? You seem pretty excited about it."
 
-# game/characters/mina/kiss.rpy:307
+# game/characters/mina/kiss.rpy:305
 translate polish mina_kiss_love_route_281d5683:
 
     # mina "Let's make a contest."
-    mina "Zróbmy konkurs.{#mtl}{#tl}"
+    mina "Let's make a contest."
 
-# game/characters/mina/kiss.rpy:308
+# game/characters/mina/kiss.rpy:306
 translate polish mina_kiss_love_route_c2739e5a:
 
     # me "I'm all ears."
-    me "Zamieniam się w słuch.{#mtl}{#tl}"
+    me "I'm all ears."
 
-# game/characters/mina/kiss.rpy:309
-translate polish mina_kiss_love_route_825e0784:
-
-    # mina "We'll be kissing until one of us has orgasm, he'll be the loser."
-    mina "Będziemy się całować, dopóki jedno z nas nie osiągnie orgazmu, przegra.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:310
-translate polish mina_kiss_love_route_69810c86:
-
-    # me "She will be."
-    me "Ona będzie.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:315
-translate polish mina_kiss_love_route_10698b7d:
-
-    # mina "We will see."
-    mina "Zobaczymy.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:320
-translate polish mina_kiss_love_route_fc7da0ec:
-
-    # mina "The loser will make the other cum with their mouth."
-    mina "Przegrany doprowadzi drugiego do orgazmu swoimi ustami.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:321
-translate polish mina_kiss_love_route_9084992e:
-
-    # mina "What do you think about this little contest?"
-    mina "Co sądzisz o tym małym konkursie?{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:334
-translate polish mina_kiss_love_route_657689da:
-
-    # mina "So you admit defeat?"
-    mina "Więc przyznajesz się do porażki?{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:335
-translate polish mina_kiss_love_route_6a89e9b1:
-
-    # me "What? Never. I just have better things to do."
-    me "Co? Nigdy. Po prostu mam lepsze rzeczy do roboty.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:336
-translate polish mina_kiss_love_route_8bc7e0d4:
-
-    # mina "Mhm. I tooootally believe you."
-    mina "mhm Za bardzo ci wierzę.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:337
-translate polish mina_kiss_love_route_cf00319f:
-
-    # me "Think what you want."
-    me "Myśl co chcesz.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:338
-translate polish mina_kiss_love_route_6626934c:
-
-    # me "Besides, is it a no?"
-    me "Poza tym, czy to nie?{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:343
-translate polish mina_kiss_love_route_6456fc67:
-
-    # mina "No."
-    mina "NIE.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:344
-translate polish mina_kiss_love_route_f51b7278:
-
-    # me "You mean it is a no, or is it not no?"
-    me "Masz na myśli, że to nie, czy nie nie?{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:349
-translate polish mina_kiss_love_route_dc4af8d9:
-
-    # mina "It's a no no?"
-    mina "To nie nie?{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:354
-translate polish mina_kiss_love_route_83dfe8ce:
-
-    # mina "Gosh, you ask too much."
-    mina "Gosiu, za dużo wymagasz.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:364
-translate polish mina_kiss_love_route_bf4cf71a:
-
-    # mina "Mnnn~"
-    mina "Mnn~{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:367
-translate polish mina_kiss_love_route_c833cbfe:
-
-    # mina "Nnn.."
-    mina "Nnn..{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:370
-translate polish mina_kiss_love_route_fe72b142:
-
-    # mina "Not bad, mate, not bad."
-    mina "Nieźle, kolego, nieźle.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:371
-translate polish mina_kiss_love_route_3b913cad:
-
-    # me "You too, not bad."
-    me "Ty też, nieźle.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:374
-translate polish mina_kiss_love_route_7eab3647:
-
-    # mina "Haha."
-    mina "Ha ha.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:375
-translate polish mina_kiss_love_route_88eab5f5:
-
-    # me "Haha."
-    me "Ha ha.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:384
-translate polish mina_kiss_contest_a5085fa6:
-
-    # mina "Whoa. Look at that confident guy, I'm definitely not letting you win."
-    mina "Wow. Spójrz na tego pewnego siebie faceta, zdecydowanie nie pozwolę ci wygrać.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:385
-translate polish mina_kiss_contest_7ad7e62d:
-
-    # me "I fear you won't have a choice in this matter."
-    me "Obawiam się, że nie będziesz miał wyboru w tej sprawie.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:386
-translate polish mina_kiss_contest_11f98402:
-
-    # mina "You'll get your pants messy before you even realize it's over."
-    mina "Pobrudzisz spodnie, zanim zdasz sobie sprawę, że to koniec.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:387
-translate polish mina_kiss_contest_08306c35:
-
-    # me "We will see who will get messy."
-    me "Zobaczymy, kto będzie miał bałagan.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:390
-translate polish mina_kiss_contest_50061ee2:
-
-    # mina "Mmm~"
-    mina "Mmm~{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:393
-translate polish mina_kiss_contest_920e0069:
-
-    # me "Ah~"
-    me "Ach~{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:396
-translate polish mina_kiss_contest_93aef44d:
-
-    # mina "Nnnnn~"
-    mina "Nnnn~{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:399
-translate polish mina_kiss_contest_78577789:
-
-    # mina "Ah!~"
-    mina "Ach!~{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:406
-translate polish mina_kiss_contest_3ef579da:
-
-    # mina "Mnnnhh~~"
-    mina "Mnnnhhh~~{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:407
-translate polish mina_kiss_contest_e5427742:
-
-    # me "Ahm.."
-    me "Ahm..{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:408
-translate polish mina_kiss_contest_96b30d43:
-
-    # th "Shit, that's so hot."
-    th "Cholera, to takie gorące.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:411
-translate polish mina_kiss_contest_41df5087:
-
-    # mina "Ahh~"
-    mina "Ach~{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:414
-translate polish mina_kiss_contest_dc2fb426:
-
-    # mina "Yes~"
-    mina "Tak~{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:417
-translate polish mina_kiss_contest_1c986469:
-
-    # "{vit}[[Vitality check passed]{/vit}"
-    "{vit}[[Kontrola witalności zaliczona]{/vit}{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:421
-translate polish mina_kiss_contest_9876dc98:
-
-    # "{vit}[[Vitality check failed]{/vit}"
-    "{vit}[[Kontrola witalności nie powiodła się]{/vit}{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:422
-translate polish mina_kiss_contest_c9c91388:
-
-    # th "Shit, I'm close.."
-    th "Cholera, jestem blisko..{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:428
-translate polish mina_kiss_contest_failed_0d2807f8:
-
-    # mina "Ahnnn~"
-    mina "Ahnnn~{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:429
-translate polish mina_kiss_contest_failed_8a3a7d5f:
-
-    # me "Eh!"
-    me "Ech!{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:432
-translate polish mina_kiss_contest_failed_b986ab2e:
-
-    # mina "Oh. Look at that."
-    mina "Oh. Spójrz na to.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:433
-translate polish mina_kiss_contest_failed_9cf668f8:
-
-    # me "Seems I lost.."
-    me "Wydaje mi się, że przegrałem..{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:434
-translate polish mina_kiss_contest_failed_0258d3c8:
-
-    # mina "You did."
-    mina "Zrobiłeś.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:437
-translate polish mina_kiss_contest_failed_fcca4d0e:
-
-    # mina "So now.."
-    mina "Więc teraz..{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:440
-translate polish mina_kiss_contest_failed_4c3d6b01:
-
-    # mina "It's time for my reward."
-    mina "Czas na moją nagrodę.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:443
-translate polish mina_kiss_contest_failed_0d186d34:
-
-    # mina "Give it your all, [me]. I want to lose it."
-    mina "Daj z siebie wszystko, [me]. Chcę to stracić.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:446
-translate polish mina_kiss_contest_failed_42e85dfa:
-
-    # me "I owe you this."
-    me "Jestem ci to winien.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:454
-translate polish mina_kiss_contest_failed_fc8d3e57:
-
-    # mina "Ohh~"
-    mina "Och~{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:459
-translate polish mina_kiss_contest_failed_6d93913d:
-
-    # mina "[me].. You're good at this.."
-    mina "[me].. Jesteś w tym dobry..{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:460
-translate polish mina_kiss_contest_failed_03504aef:
-
-    # me "I'm a man of many talents."
-    me "Jestem człowiekiem wielu talentów.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:461
-translate polish mina_kiss_contest_failed_06f5d5ea:
-
-    # mina "Yes!"
-    mina "Tak!{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:469
-translate polish mina_kiss_contest_failed_78577789:
-
-    # mina "Ah!~"
-    mina "Ach!~{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:470
-translate polish mina_kiss_contest_failed_1b056ba8:
-
-    # mina "[me]! I-I'm cumming!"
-    mina "[me]! Dochodzę do siebie!{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:471
-translate polish mina_kiss_contest_failed_902b4472:
-
-    # me "Yeah, let it go [mina], cum for me."
-    me "Tak, odpuść [mina], spuść się dla mnie.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:474
-translate polish mina_kiss_contest_failed_d7c7f9af:
-
-    # mina "Aaahh!"
-    mina "Aaaaa!{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:477
-translate polish mina_kiss_contest_failed_7c9a4d51:
-
-    # mina "So worth it.."
-    mina "Jest tego warte..{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:478
-translate polish mina_kiss_contest_failed_a8e20b11:
-
-    # me "Haha, seems I did a good job."
-    me "Haha, wygląda na to, że wykonałem dobrą robotę.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:479
-translate polish mina_kiss_contest_failed_a9f0ff9b:
-
-    # mina "Very good job."
-    mina "Bardzo dobra robota.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:482
-translate polish mina_kiss_contest_failed_194e3022:
-
-    # mina "Ahh.. I'm so exhausted now."
-    mina "Ahh.. Jestem teraz tak wyczerpany.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:490
-translate polish mina_kiss_contest_won_e085c086:
-
-    # mina "Ahnn~"
-    mina "Ahn~{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:491
-translate polish mina_kiss_contest_won_b273d15b:
-
-    # me "Ah.."
-    me "Ach..{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:492
-translate polish mina_kiss_contest_won_e56a8183:
-
-    # th "She won't last long."
-    th "Ona nie wytrzyma długo.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:493
-translate polish mina_kiss_contest_won_792d3c85:
-
-    # th "Maybe I should let her win, it's not like licking her pussy is a punishment."
-    th "Może powinienem pozwolić jej wygrać, to nie tak, że lizanie jej cipki jest karą.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:500
-translate polish mina_kiss_contest_won_bb0aaa81:
-
-    # th "It's time to let go resisting the pleasure."
-    th "Nadszedł czas, aby puścić opór przyjemności.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:506
-translate polish mina_kiss_contest_reward_a128430a:
-
-    # mina "Aaaa~"
-    mina "Aaa~{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:509
-translate polish mina_kiss_contest_reward_42a730fb:
-
-    # mina "Ahh!!"
-    mina "Ach!!{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:512
-translate polish mina_kiss_contest_reward_fcce2f1c:
-
-    # mina "Gosh.. You win, I'm so tired.."
-    mina "Boże.. Wygrałeś, jestem taki zmęczony..{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:515
-translate polish mina_kiss_contest_reward_a941518d:
-
-    # me "Now it's time to get my reward."
-    me "Teraz czas na moją nagrodę.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:523
-translate polish mina_kiss_contest_reward_392ff79c:
-
-    # mina "*Slurp*"
-    mina "*siorko*{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:524
-translate polish mina_kiss_contest_reward_60a41942:
-
-    # mina "Mghmm."
-    mina "Mghmm.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:525
-translate polish mina_kiss_contest_reward_bfd7ff45:
-
-    # me "Ah.. You're doing it great."
-    me "Ach.. Robisz to świetnie.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:531
-translate polish mina_kiss_contest_reward_fa55ab8d:
-
-    # mina "Tsshanks."
-    mina "Tsshanks.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:539
-translate polish mina_kiss_contest_reward_270743aa:
-
-    # me "Oh? You liked the praise."
-    me "Oh? Podobała ci się pochwała.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:540
-translate polish mina_kiss_contest_reward_69beddfd:
-
-    # me "Ah! Good."
-    me "Ach! Dobry.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:541
-translate polish mina_kiss_contest_reward_3dfb103d:
-
-    # mina "Mhmm."
-    mina "Mhm.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:542
-translate polish mina_kiss_contest_reward_18523a0c:
-
-    # me "I'm coming!"
-    me "Idę!{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:543
-translate polish mina_kiss_contest_reward_887a9e8f:
-
-    # mina "Mhm~"
-    mina "Mhm~{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:546
-translate polish mina_kiss_contest_reward_01575332:
-
-    # mina "Mghm!"
-    mina "Mghm!{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:547
-translate polish mina_kiss_contest_reward_b273d15b:
-
-    # me "Ah.."
-    me "Ach..{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:550
-translate polish mina_kiss_contest_reward_60f8e07e:
-
-    # me "Great. That was great [mina]."
-    me "Świetnie. To było świetne [mina].{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:553
-translate polish mina_kiss_contest_reward_bb65008d:
-
-    # mina "Thanks."
-    mina "Dzięki.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:556
-translate polish mina_kiss_contest_reward_14c5e195:
-
-    # mina "You're the one losing next time."
-    mina "To ty przegrywasz następnym razem.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:557
-translate polish mina_kiss_contest_reward_aa1c8065:
-
-    # me "Good luck, maybe I'll let you win."
-    me "Powodzenia, może pozwolę ci wygrać.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:558
-translate polish mina_kiss_contest_reward_54b6e29f:
-
-    # mina "We will see about that."
-    mina "Zobaczymy.{#mtl}{#tl}"
-
-translate polish strings:
-
-    # game/characters/mina/kiss.rpy:139
-    old "Let her go"
-    new "Zostaw ją{#mtl}{#tl}"
-
-    # game/characters/mina/kiss.rpy:139
-    old "Winner takes all, get your kiss"
-    new "Zwycięzca bierze wszystko, zdobądź swój pocałunek{#mtl}{#tl}"
-
-    # game/characters/mina/kiss.rpy:236
-    old "{cor}[[Madness]{/cor} Let her know her place"
-    new "{cor}[[Szaleństwo]{/cor} Niech zna swoje miejsce{#mtl}{#tl}"
-
-    # game/characters/mina/kiss.rpy:236
-    old "Leave in shame"
-    new "Odejdź ze wstydu{#mtl}{#tl}"
-
-    # game/characters/mina/kiss.rpy:323
-    old "Hell yeah, I'm in, stretch your mouth well, you'll need to keep it wide open for a long time"
-    new "Do diabła, jestem za, dobrze rozciągnij usta, będziesz musiał trzymać je szeroko otwarte przez długi czas{#mtl}{#tl}"
-
-    # game/characters/mina/kiss.rpy:323
-    old "I'll think about it, how about a simple kiss in a meanwhile"
-    new "Pomyślę o tym, co powiesz na zwykły pocałunek w międzyczasie{#mtl}{#tl}"
-
-    # game/characters/mina/kiss.rpy:495
-    old "Let her win"
-    new "Niech wygra{#mtl}{#tl}"
-
-# TODO: Translation updated at 2022-01-31 15:20
-
-# game/characters/mina/kiss.rpy:19
-translate polish mina_kiss_100ef60d:
-
-    # mina "You pervert! What are you asking of such an innocent girl like me?"
-    mina "Ty zboczeńcu! O co prosisz taką niewinną dziewczynę jak ja?{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:20
-translate polish mina_kiss_e4095f14:
-
-    # me "This face looks silly, not innocent."
-    me "Ta twarz wygląda głupio, nie niewinnie.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:52
-translate polish mina_kiss_3dc18494:
-
-    # mina "So, you've fallen for me."
-    mina "Więc zakochałeś się we mnie.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:73
-translate polish mina_kiss_7f8cdfca:
-
-    # mina "Oh, you mean when we talked on the sofa. Yes, I remember."
-    mina "Och, masz na myśli, kiedy rozmawialiśmy na kanapie. Tak pamiętam.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:82
-translate polish mina_kiss_260be9f0:
-
-    # me "I don't question it. I just offered some fun time."
-    me "nie kwestionuję tego. Po prostu zaoferowałem trochę zabawy.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:99
-translate polish mina_kiss_friend_route_2f351f33:
-
-    # mina "We are buddies. Why involve things like kisses?"
-    mina "jesteśmy kumplami. Po co mieszać rzeczy takie jak pocałunki?{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:100
-translate polish mina_kiss_friend_route_532c77d6:
-
-    # me "I think it would help our friendship grow stronger!"
-    me "Myślę, że to pomogłoby naszej przyjaźni stać się silniejszą!{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:105
-translate polish mina_kiss_friend_route_b09878ce:
-
-    # mina "Now that's bullshit."
-    mina "Teraz to bzdura.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:113
-translate polish mina_kiss_friend_route_a22a35a4:
-
-    # mina "What are you going to do about that."
-    mina "Co zamierzasz z tym zrobić.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:123
-translate polish mina_kiss_friend_route_49d9cd27:
-
-    # mina "You laugh, and in a while, you'll be crying."
-    mina "Śmiejesz się, a za chwilę będziesz płakać.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:133
-translate polish mina_kiss_friend_route_d435e0c2:
-
-    # me "Now, now, now. Not a good enough."
-    me "Teraz teraz teraz. Nie wystarczająco dobre.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:144
-translate polish mina_kiss_friend_route_6530978f:
-
-    # mina "Now, that's aaawkward~"
-    mina "Teraz, to jest niezręczne~{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:147
-translate polish mina_kiss_friend_route_afab8cdd:
-
-    # me "So, what about.."
-    me "Więc co z ..{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:180
-translate polish mina_kiss_friend_route_86caa441:
-
-    # mina "I'm not some reward.. "
-    mina "nie jestem jakąś nagrodą..{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:197
-translate polish mina_kiss_friend_route_c611e6c3:
-
-    # mina "Next time, I'll get you."
-    mina "Następnym razem cię dorwę.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:198
-translate polish mina_kiss_friend_route_ad99c039:
-
-    # me "Good luck, loser."
-    me "Powodzenia, przegrany.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:214
-translate polish mina_kiss_friend_route_79fe1a52:
-
-    # mina "Now, that's awkward."
-    mina "To niezręczne.{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:215
-translate polish mina_kiss_friend_route_4e2a8876_2:
-
-    # mina "..."
-    mina "...{#mtl}{#tl}"
-
-# game/characters/mina/kiss.rpy:317
+# game/characters/mina/kiss.rpy:307
 translate polish mina_kiss_love_route_8cf106ed:
 
     # mina "We'll be kissing until one of us has an orgasm. He will be the loser."
-    mina "Będziemy się całować, dopóki jedno z nas nie dostanie orgazmu. On będzie przegranym.{#mtl}{#tl}"
+    mina "We'll be kissing until one of us has an orgasm. He will be the loser."
 
-# game/characters/mina/kiss.rpy:447
+# game/characters/mina/kiss.rpy:308
+translate polish mina_kiss_love_route_69810c86:
+
+    # me "She will be."
+    me "She will be."
+
+# game/characters/mina/kiss.rpy:312
+translate polish mina_kiss_love_route_10698b7d:
+
+    # mina "We will see."
+    mina "We will see."
+
+# game/characters/mina/kiss.rpy:316
+translate polish mina_kiss_love_route_fc7da0ec:
+
+    # mina "The loser will make the other cum with their mouth."
+    mina "The loser will make the other cum with their mouth."
+
+# game/characters/mina/kiss.rpy:317
+translate polish mina_kiss_love_route_9084992e:
+
+    # mina "What do you think about this little contest?"
+    mina "What do you think about this little contest?"
+
+# game/characters/mina/kiss.rpy:329
+translate polish mina_kiss_love_route_657689da:
+
+    # mina "So you admit defeat?"
+    mina "So you admit defeat?"
+
+# game/characters/mina/kiss.rpy:330
+translate polish mina_kiss_love_route_6a89e9b1:
+
+    # me "What? Never. I just have better things to do."
+    me "What? Never. I just have better things to do."
+
+# game/characters/mina/kiss.rpy:331
+translate polish mina_kiss_love_route_8bc7e0d4:
+
+    # mina "Mhm. I tooootally believe you."
+    mina "Mhm. I tooootally believe you."
+
+# game/characters/mina/kiss.rpy:332
+translate polish mina_kiss_love_route_cf00319f:
+
+    # me "Think what you want."
+    me "Think what you want."
+
+# game/characters/mina/kiss.rpy:333
+translate polish mina_kiss_love_route_6626934c:
+
+    # me "Besides, is it a no?"
+    me "Besides, is it a no?"
+
+# game/characters/mina/kiss.rpy:337
+translate polish mina_kiss_love_route_6456fc67:
+
+    # mina "No."
+    mina "No."
+
+# game/characters/mina/kiss.rpy:338
+translate polish mina_kiss_love_route_f51b7278:
+
+    # me "You mean it is a no, or is it not no?"
+    me "You mean it is a no, or is it not no?"
+
+# game/characters/mina/kiss.rpy:342
+translate polish mina_kiss_love_route_dc4af8d9:
+
+    # mina "It's a no no?"
+    mina "It's a no no?"
+
+# game/characters/mina/kiss.rpy:346
+translate polish mina_kiss_love_route_83dfe8ce:
+
+    # mina "Gosh, you ask too much."
+    mina "Gosh, you ask too much."
+
+# game/characters/mina/kiss.rpy:357
+translate polish mina_kiss_love_route_bf4cf71a:
+
+    # mina "Mnnn~"
+    mina "Mnnn~"
+
+# game/characters/mina/kiss.rpy:360
+translate polish mina_kiss_love_route_c833cbfe:
+
+    # mina "Nnn.."
+    mina "Nnn.."
+
+# game/characters/mina/kiss.rpy:363
+translate polish mina_kiss_love_route_fe72b142:
+
+    # mina "Not bad, mate, not bad."
+    mina "Not bad, mate, not bad."
+
+# game/characters/mina/kiss.rpy:364
+translate polish mina_kiss_love_route_3b913cad:
+
+    # me "You too, not bad."
+    me "You too, not bad."
+
+# game/characters/mina/kiss.rpy:367
+translate polish mina_kiss_love_route_7eab3647:
+
+    # mina "Haha."
+    mina "Haha."
+
+# game/characters/mina/kiss.rpy:368
+translate polish mina_kiss_love_route_88eab5f5:
+
+    # me "Haha."
+    me "Haha."
+
+# game/characters/mina/kiss.rpy:377
+translate polish mina_kiss_contest_a5085fa6:
+
+    # mina "Whoa. Look at that confident guy, I'm definitely not letting you win."
+    mina "Whoa. Look at that confident guy, I'm definitely not letting you win."
+
+# game/characters/mina/kiss.rpy:378
+translate polish mina_kiss_contest_7ad7e62d:
+
+    # me "I fear you won't have a choice in this matter."
+    me "I fear you won't have a choice in this matter."
+
+# game/characters/mina/kiss.rpy:379
+translate polish mina_kiss_contest_11f98402:
+
+    # mina "You'll get your pants messy before you even realize it's over."
+    mina "You'll get your pants messy before you even realize it's over."
+
+# game/characters/mina/kiss.rpy:380
+translate polish mina_kiss_contest_08306c35:
+
+    # me "We will see who will get messy."
+    me "We will see who will get messy."
+
+# game/characters/mina/kiss.rpy:385
+translate polish mina_kiss_contest_50061ee2:
+
+    # mina "Mmm~"
+    mina "Mmm~"
+
+# game/characters/mina/kiss.rpy:388
+translate polish mina_kiss_contest_920e0069:
+
+    # me "Ah~"
+    me "Ah~"
+
+# game/characters/mina/kiss.rpy:393
+translate polish mina_kiss_contest_93aef44d:
+
+    # mina "Nnnnn~"
+    mina "Nnnnn~"
+
+# game/characters/mina/kiss.rpy:396
+translate polish mina_kiss_contest_78577789:
+
+    # mina "Ah!~"
+    mina "Ah!~"
+
+# game/characters/mina/kiss.rpy:404
+translate polish mina_kiss_contest_3ef579da:
+
+    # mina "Mnnnhh~~"
+    mina "Mnnnhh~~"
+
+# game/characters/mina/kiss.rpy:405
+translate polish mina_kiss_contest_e5427742:
+
+    # me "Ahm.."
+    me "Ahm.."
+
+# game/characters/mina/kiss.rpy:406
+translate polish mina_kiss_contest_96b30d43:
+
+    # th "Shit, that's so hot."
+    th "Shit, that's so hot."
+
+# game/characters/mina/kiss.rpy:409
+translate polish mina_kiss_contest_41df5087:
+
+    # mina "Ahh~"
+    mina "Ahh~"
+
+# game/characters/mina/kiss.rpy:412
+translate polish mina_kiss_contest_dc2fb426:
+
+    # mina "Yes~"
+    mina "Yes~"
+
+# game/characters/mina/kiss.rpy:415
+translate polish mina_kiss_contest_1c986469:
+
+    # "{vit}[[Vitality check passed]{/vit}"
+    "{vit}[[Vitality check passed]{/vit}"
+
+# game/characters/mina/kiss.rpy:419
+translate polish mina_kiss_contest_9876dc98:
+
+    # "{vit}[[Vitality check failed]{/vit}"
+    "{vit}[[Vitality check failed]{/vit}"
+
+# game/characters/mina/kiss.rpy:420
+translate polish mina_kiss_contest_c9c91388:
+
+    # th "Shit, I'm close.."
+    th "Shit, I'm close.."
+
+# game/characters/mina/kiss.rpy:426
+translate polish mina_kiss_contest_failed_0d2807f8:
+
+    # mina "Ahnnn~"
+    mina "Ahnnn~"
+
+# game/characters/mina/kiss.rpy:427
+translate polish mina_kiss_contest_failed_8a3a7d5f:
+
+    # me "Eh!"
+    me "Eh!"
+
+# game/characters/mina/kiss.rpy:430
 translate polish mina_kiss_contest_failed_55176ae3:
 
     # mina "Oh! Look at that."
-    mina "Oh! Spójrz na to.{#mtl}{#tl}"
+    mina "Oh! Look at that."
 
-# game/characters/mina/kiss.rpy:458
+# game/characters/mina/kiss.rpy:431
+translate polish mina_kiss_contest_failed_9cf668f8:
+
+    # me "Seems I lost.."
+    me "Seems I lost.."
+
+# game/characters/mina/kiss.rpy:432
+translate polish mina_kiss_contest_failed_0258d3c8:
+
+    # mina "You did."
+    mina "You did."
+
+# game/characters/mina/kiss.rpy:435
+translate polish mina_kiss_contest_failed_fcca4d0e:
+
+    # mina "So now.."
+    mina "So now.."
+
+# game/characters/mina/kiss.rpy:438
+translate polish mina_kiss_contest_failed_4c3d6b01:
+
+    # mina "It's time for my reward."
+    mina "It's time for my reward."
+
+# game/characters/mina/kiss.rpy:441
 translate polish mina_kiss_contest_failed_e9a71358:
 
     # mina "Give it your all, [me]. Let it be worth it."
-    mina "Daj z siebie wszystko, [me]. Niech to będzie tego warte.{#mtl}{#tl}"
+    mina "Give it your all, [me]. Let it be worth it."
 
-# game/characters/mina/kiss.rpy:459
+# game/characters/mina/kiss.rpy:442
 translate polish mina_kiss_contest_failed_2beb98cc:
 
     # me "Of course, I owe you this."
-    me "Oczywiście, jestem ci to winien.{#mtl}{#tl}"
+    me "Of course, I owe you this."
 
-# game/characters/mina/kiss.rpy:475
+# game/characters/mina/kiss.rpy:446
+translate polish mina_kiss_contest_failed_fc8d3e57:
+
+    # mina "Ohh~"
+    mina "Ohh~"
+
+# game/characters/mina/kiss.rpy:452
+translate polish mina_kiss_contest_failed_6d93913d:
+
+    # mina "[me].. You're good at this.."
+    mina "[me].. You're good at this.."
+
+# game/characters/mina/kiss.rpy:453
+translate polish mina_kiss_contest_failed_03504aef:
+
+    # me "I'm a man of many talents."
+    me "I'm a man of many talents."
+
+# game/characters/mina/kiss.rpy:454
 translate polish mina_kiss_contest_failed_8ba89177:
 
     # mina "Yeah, I can tell."
-    mina "Tak, mogę powiedzieć.{#mtl}{#tl}"
+    mina "Yeah, I can tell."
 
-# game/characters/mina/kiss.rpy:485
+# game/characters/mina/kiss.rpy:458
+translate polish mina_kiss_contest_failed_78577789:
+
+    # mina "Ah!~"
+    mina "Ah!~"
+
+# game/characters/mina/kiss.rpy:459
+translate polish mina_kiss_contest_failed_1b056ba8:
+
+    # mina "[me]! I-I'm cumming!"
+    mina "[me]! I-I'm cumming!"
+
+# game/characters/mina/kiss.rpy:460
 translate polish mina_kiss_contest_failed_acfd95eb:
 
     # me "Yeah, cum for me, [mina]."
-    me "Tak, spuść się dla mnie, [mina].{#mtl}{#tl}"
+    me "Yeah, cum for me, [mina]."
 
-# game/characters/mina/kiss.rpy:527
+# game/characters/mina/kiss.rpy:463
+translate polish mina_kiss_contest_failed_d7c7f9af:
+
+    # mina "Aaahh!"
+    mina "Aaahh!"
+
+# game/characters/mina/kiss.rpy:466
+translate polish mina_kiss_contest_failed_7c9a4d51:
+
+    # mina "So worth it.."
+    mina "So worth it.."
+
+# game/characters/mina/kiss.rpy:467
+translate polish mina_kiss_contest_failed_a8e20b11:
+
+    # me "Haha, seems I did a good job."
+    me "Haha, seems I did a good job."
+
+# game/characters/mina/kiss.rpy:468
+translate polish mina_kiss_contest_failed_a9f0ff9b:
+
+    # mina "Very good job."
+    mina "Very good job."
+
+# game/characters/mina/kiss.rpy:471
+translate polish mina_kiss_contest_failed_194e3022:
+
+    # mina "Ahh.. I'm so exhausted now."
+    mina "Ahh.. I'm so exhausted now."
+
+# game/characters/mina/kiss.rpy:480
+translate polish mina_kiss_contest_won_e085c086:
+
+    # mina "Ahnn~"
+    mina "Ahnn~"
+
+# game/characters/mina/kiss.rpy:481
+translate polish mina_kiss_contest_won_b273d15b:
+
+    # me "Ah.."
+    me "Ah.."
+
+# game/characters/mina/kiss.rpy:482
+translate polish mina_kiss_contest_won_e56a8183:
+
+    # th "She won't last long."
+    th "She won't last long."
+
+# game/characters/mina/kiss.rpy:483
+translate polish mina_kiss_contest_won_792d3c85:
+
+    # th "Maybe I should let her win, it's not like licking her pussy is a punishment."
+    th "Maybe I should let her win, it's not like licking her pussy is a punishment."
+
+# game/characters/mina/kiss.rpy:490
+translate polish mina_kiss_contest_won_bb0aaa81:
+
+    # th "It's time to let go resisting the pleasure."
+    th "It's time to let go resisting the pleasure."
+
+# game/characters/mina/kiss.rpy:496
+translate polish mina_kiss_contest_reward_a128430a:
+
+    # mina "Aaaa~"
+    mina "Aaaa~"
+
+# game/characters/mina/kiss.rpy:499
+translate polish mina_kiss_contest_reward_42a730fb:
+
+    # mina "Ahh!!"
+    mina "Ahh!!"
+
+# game/characters/mina/kiss.rpy:502
+translate polish mina_kiss_contest_reward_fcce2f1c:
+
+    # mina "Gosh.. You win, I'm so tired.."
+    mina "Gosh.. You win, I'm so tired.."
+
+# game/characters/mina/kiss.rpy:503
 translate polish mina_kiss_contest_reward_42ead177:
 
     # me "Now it's time to get my reward. Don't forget to lose some clothes."
-    me "Teraz czas na moją nagrodę. Nie zapomnij zgubić trochę ubrań.{#mtl}{#tl}"
+    me "Now it's time to get my reward. Don't forget to lose some clothes."
 
-# game/characters/mina/kiss.rpy:536
+# game/characters/mina/kiss.rpy:507
+translate polish mina_kiss_contest_reward_392ff79c:
+
+    # mina "*Slurp*"
+    mina "*Slurp*"
+
+# game/characters/mina/kiss.rpy:508
 translate polish mina_kiss_contest_reward_f02b4a04:
 
     # me "Only top?"
-    me "Tylko góra?{#mtl}{#tl}"
+    me "Only top?"
 
-# game/characters/mina/kiss.rpy:537
+# game/characters/mina/kiss.rpy:509
 translate polish mina_kiss_contest_reward_cfdee94f:
 
     # mina "Mhhgmm."
-    mina "Mhgmm.{#mtl}{#tl}"
+    mina "Mhhgmm."
 
-# game/characters/mina/kiss.rpy:538
+# game/characters/mina/kiss.rpy:510
 translate polish mina_kiss_contest_reward_cad1fd2b:
 
     # me "You try to say that it's not like I can see it anyway?"
-    me "Próbujesz powiedzieć, że i tak tego nie widzę?{#mtl}{#tl}"
+    me "You try to say that it's not like I can see it anyway?"
 
-# game/characters/mina/kiss.rpy:540
+# game/characters/mina/kiss.rpy:511
+translate polish mina_kiss_contest_reward_60a41942:
+
+    # mina "Mghmm."
+    mina "Mghmm."
+
+# game/characters/mina/kiss.rpy:512
 translate polish mina_kiss_contest_reward_ab468352:
 
     # me "Don't doubt my imagination. I can imagine your boobs before my eyes."
-    me "Nie wątp w moją wyobraźnię. Wyobrażam sobie twoje cycki przed oczami.{#mtl}{#tl}"
+    me "Don't doubt my imagination. I can imagine your boobs before my eyes."
 
-# game/characters/mina/kiss.rpy:541
+# game/characters/mina/kiss.rpy:513
 translate polish mina_kiss_contest_reward_4e2a8876:
 
     # mina "..."
-    mina "...{#mtl}{#tl}"
+    mina "..."
 
-# game/characters/mina/kiss.rpy:574
+# game/characters/mina/kiss.rpy:514
+translate polish mina_kiss_contest_reward_bfd7ff45:
+
+    # me "Ah.. You're doing it great."
+    me "Ah.. You're doing it great."
+
+# game/characters/mina/kiss.rpy:521
+translate polish mina_kiss_contest_reward_fa55ab8d:
+
+    # mina "Tsshanks."
+    mina "Tsshanks."
+
+# game/characters/mina/kiss.rpy:525
+translate polish mina_kiss_contest_reward_270743aa:
+
+    # me "Oh? You liked the praise."
+    me "Oh? You liked the praise."
+
+# game/characters/mina/kiss.rpy:526
+translate polish mina_kiss_contest_reward_69beddfd:
+
+    # me "Ah! Good."
+    me "Ah! Good."
+
+# game/characters/mina/kiss.rpy:527
+translate polish mina_kiss_contest_reward_3dfb103d:
+
+    # mina "Mhmm."
+    mina "Mhmm."
+
+# game/characters/mina/kiss.rpy:528
+translate polish mina_kiss_contest_reward_18523a0c:
+
+    # me "I'm coming!"
+    me "I'm coming!"
+
+# game/characters/mina/kiss.rpy:529
+translate polish mina_kiss_contest_reward_887a9e8f:
+
+    # mina "Mhm~"
+    mina "Mhm~"
+
+# game/characters/mina/kiss.rpy:532
+translate polish mina_kiss_contest_reward_01575332:
+
+    # mina "Mghm!"
+    mina "Mghm!"
+
+# game/characters/mina/kiss.rpy:533
+translate polish mina_kiss_contest_reward_b273d15b:
+
+    # me "Ah.."
+    me "Ah.."
+
+# game/characters/mina/kiss.rpy:536
+translate polish mina_kiss_contest_reward_60f8e07e:
+
+    # me "Great. That was great [mina]."
+    me "Great. That was great [mina]."
+
+# game/characters/mina/kiss.rpy:539
+translate polish mina_kiss_contest_reward_bb65008d:
+
+    # mina "Thanks."
+    mina "Thanks."
+
+# game/characters/mina/kiss.rpy:542
 translate polish mina_kiss_contest_reward_31eb3894:
 
     # mina "You're the one losing next time, though."
-    mina "Ale to ty przegrywasz następnym razem.{#mtl}{#tl}"
+    mina "You're the one losing next time, though."
+
+# game/characters/mina/kiss.rpy:543
+translate polish mina_kiss_contest_reward_aa1c8065:
+
+    # me "Good luck, maybe I'll let you win."
+    me "Good luck, maybe I'll let you win."
+
+# game/characters/mina/kiss.rpy:544
+translate polish mina_kiss_contest_reward_54b6e29f:
+
+    # mina "We will see about that."
+    mina "We will see about that."
 
 translate polish strings:
 
-    # game/characters/mina/kiss.rpy:243
+    # game/characters/mina/kiss.rpy:129
+    old "Let her go"
+    new "Let her go"
+
+    # game/characters/mina/kiss.rpy:129
+    old "Winner takes all, get your kiss"
+    new "Winner takes all, get your kiss"
+
+    # game/characters/mina/kiss.rpy:234
     old "Let her know her place {cor}[[Madness]{/cor}"
-    new "Daj jej znać swoje miejsce {cor}[[Szaleństwo]{/cor}{#mtl}{#tl}"
+    new "Let her know her place {cor}[[Madness]{/cor}"
 
-    # game/characters/mina/kiss.rpy:331
+    # game/characters/mina/kiss.rpy:234
+    old "Leave in shame"
+    new "Leave in shame"
+
+    # game/characters/mina/kiss.rpy:319
     old "Hell yeah, I'm in. Stretch your mouth well. You'll need to keep it wide open for a long time"
-    new "Cholera, tak, wchodzę. Dobrze rozciągnij usta. Będziesz musiał trzymać go szeroko otwartego przez długi czas{#mtl}{#tl}"
+    new "Hell yeah, I'm in. Stretch your mouth well. You'll need to keep it wide open for a long time"
 
-# TODO: Translation updated at 2022-02-16 09:42
-
-translate polish strings:
-
-    # game/characters/mina/kiss.rpy:331
+    # game/characters/mina/kiss.rpy:319
     old "I'll think about it. How about a simple kiss in the meanwhile"
-    new "Pomyślę o tym. Co powiesz na zwykły pocałunek w międzyczasie{#mtl}{#tl}"
+    new "I'll think about it. How about a simple kiss in the meanwhile"
+
+    # game/characters/mina/kiss.rpy:485
+    old "Let her win"
+    new "Let her win"
 

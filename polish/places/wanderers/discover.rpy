@@ -1,398 +1,398 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
-# game/places/wanderers/discover.rpy:5
+# game/places/wanderers/discover.rpy:13
 translate polish discover_wanderers_65fc5510:
 
     # "Gunshots break the silence."
-    "Strzały przerywają ciszę.{#mtl}{#tl}"
+    "Gunshots break the silence."
 
-# game/places/wanderers/discover.rpy:6
+# game/places/wanderers/discover.rpy:14
 translate polish discover_wanderers_8198f605:
 
     # th "Someone's in trouble.."
-    th "Ktoś ma kłopoty..{#mtl}{#tl}"
+    th "Someone's in trouble.."
 
-# game/places/wanderers/discover.rpy:7
+# game/places/wanderers/discover.rpy:15
 translate polish discover_wanderers_ca2e464b:
 
     # th "Should I check it out?"
-    th "Czy powinienem to sprawdzić?{#mtl}{#tl}"
+    th "Should I check it out?"
 
-# game/places/wanderers/discover.rpy:14
+# game/places/wanderers/discover.rpy:22
 translate polish discover_wanderers_e2560b69:
 
     # th "That's not my business."
-    th "To nie moja sprawa.{#mtl}{#tl}"
+    th "That's not my business."
 
-# game/places/wanderers/discover.rpy:19
+# game/places/wanderers/discover.rpy:27
 translate polish discover_wanderers_part2_1e41129d:
 
     # "You soon find the source of the shots."
-    "Wkrótce znajdziesz źródło strzałów.{#mtl}{#tl}"
+    "You soon find the source of the shots."
 
-# game/places/wanderers/discover.rpy:22
+# game/places/wanderers/discover.rpy:30
 translate polish discover_wanderers_part2_25b4b7c0:
 
     # th "Hmm.. Should I help him?"
-    th "Hmm.. Powinienem mu pomóc?{#mtl}{#tl}"
+    th "Hmm.. Should I help him?"
 
-# game/places/wanderers/discover.rpy:25
+# game/places/wanderers/discover.rpy:33
 translate polish discover_wanderers_part2_f4807aa2:
 
     # th "Seems I don't have a choice now.."
-    th "Wygląda na to, że nie mam teraz wyboru..{#mtl}{#tl}"
+    th "Seems I don't have a choice now.."
 
-# game/places/wanderers/discover.rpy:31
+# game/places/wanderers/discover.rpy:39
 translate polish discover_wanderers_win_acfe05be:
 
     # u_governor "Hah. You're not bad my friend."
-    u_governor "Hah. Nie jesteś zły przyjacielu.{#mtl}{#tl}"
+    u_governor "Hah. You're not bad my friend."
 
-# game/places/wanderers/discover.rpy:34
+# game/places/wanderers/discover.rpy:42
 translate polish discover_wanderers_win_109d9d71:
 
     # me "You are not too bad yourself."
-    me "Sam nie jesteś taki zły.{#mtl}{#tl}"
+    me "You are not too bad yourself."
 
-# game/places/wanderers/discover.rpy:35
+# game/places/wanderers/discover.rpy:43
 translate polish discover_wanderers_win_d839f1bd:
 
     # u_governor "Let's go."
-    u_governor "Chodźmy.{#mtl}{#tl}"
+    u_governor "Let's go."
 
-# game/places/wanderers/discover.rpy:36
+# game/places/wanderers/discover.rpy:44
 translate polish discover_wanderers_win_2b5f54cc:
 
     # me "Where?"
-    me "Gdzie?{#mtl}{#tl}"
+    me "Where?"
 
-# game/places/wanderers/discover.rpy:37
+# game/places/wanderers/discover.rpy:45
 translate polish discover_wanderers_win_3219fc3c:
 
     # u_governor "Away, there is a nest nearby, and soon there will be dozens of them."
-    u_governor "Daleko, w pobliżu jest gniazdo, a wkrótce będą ich dziesiątki.{#mtl}{#tl}"
+    u_governor "Away, there is a nest nearby, and soon there will be dozens of them."
 
-# game/places/wanderers/discover.rpy:38
+# game/places/wanderers/discover.rpy:46
 translate polish discover_wanderers_win_2529f3eb:
 
     # me "Oh, shit. Alright, after you!"
-    me "O cholera. Dobra, po tobie!{#mtl}{#tl}"
+    me "Oh, shit. Alright, after you!"
 
-# game/places/wanderers/discover.rpy:41
+# game/places/wanderers/discover.rpy:49
 translate polish discover_wanderers_win_e7938e38:
 
     # me "Do you know any safe place nearby?"
-    me "Znasz jakieś bezpieczne miejsce w pobliżu?{#mtl}{#tl}"
+    me "Do you know any safe place nearby?"
 
-# game/places/wanderers/discover.rpy:42
+# game/places/wanderers/discover.rpy:50
 translate polish discover_wanderers_win_d5f8bdf6:
 
     # u_governor "Of course, it'll be night soon, and I've seen what happens to people that stay out there at night. Believe me, I don't want to be one of them."
-    u_governor "Oczywiście wkrótce zapadnie noc, a widziałem, co się dzieje z ludźmi, którzy zostają tam w nocy. Uwierz mi, nie chcę być jednym z nich.{#mtl}{#tl}"
+    u_governor "Of course, it'll be night soon, and I've seen what happens to people that stay out there at night. Believe me, I don't want to be one of them."
 
-# game/places/wanderers/discover.rpy:45
+# game/places/wanderers/discover.rpy:53
 translate polish discover_wanderers_win_16fce20f:
 
     # me "How fa.."
-    me "jak fa..{#mtl}{#tl}"
+    me "How fa.."
 
-# game/places/wanderers/discover.rpy:48
+# game/places/wanderers/discover.rpy:56
 translate polish discover_wanderers_win_b68452fb:
 
     # "Tremendous roars echo from behind you."
-    "Ogromne ryki odbijają się echem za tobą.{#mtl}{#tl}"
+    "Tremendous roars echo from behind you."
 
-# game/places/wanderers/discover.rpy:51
+# game/places/wanderers/discover.rpy:59
 translate polish discover_wanderers_win_c89f3dc6:
 
     # me "Shit! What the fuck is that?!"
-    me "Gówno! Co to kurwa jest?!{#mtl}{#tl}"
+    me "Shit! What the fuck is that?!"
 
-# game/places/wanderers/discover.rpy:52
+# game/places/wanderers/discover.rpy:60
 translate polish discover_wanderers_win_a721d6b4:
 
     # u_governor "We call it Abaddon! Don't worry, it won't pursue us for long. It also fears the night."
-    u_governor "Nazywamy to Abaddonem! Nie martw się, nie będzie nas długo ścigać. Boi się też nocy.{#mtl}{#tl}"
+    u_governor "We call it Abaddon! Don't worry, it won't pursue us for long. It also fears the night."
 
-# game/places/wanderers/discover.rpy:55
+# game/places/wanderers/discover.rpy:63
 translate polish discover_wanderers_win_28eb48a0:
 
     # me "What the hell is it?"
-    me "Co to jest do cholery?{#mtl}{#tl}"
+    me "What the hell is it?"
 
-# game/places/wanderers/discover.rpy:56
+# game/places/wanderers/discover.rpy:64
 translate polish discover_wanderers_win_4cd32798:
 
     # u_governor "Time is tight. Don't talk, run!"
-    u_governor "Czas jest napięty. Nie mów, biegnij!{#mtl}{#tl}"
+    u_governor "Time is tight. Don't talk, run!"
 
-# game/places/wanderers/discover.rpy:63
+# game/places/wanderers/discover.rpy:71
 translate polish discover_wanderers_win_a58e9d67:
 
-    # "After a long time you finally stop in small shanty town."
-    "Po długim czasie w końcu zatrzymujesz się w małym slumsach.{#mtl}{#tl}"
+    # "After a long time you finally stop in a small shanty town." id discover_wanderers_win_a58e9d67
+    "After a long time you finally stop in a small shanty town." id discover_wanderers_win_a58e9d67
 
-# game/places/wanderers/discover.rpy:64
+# game/places/wanderers/discover.rpy:72
 translate polish discover_wanderers_win_a310548c:
 
     # me "Ahh... *Cough* My lungs.."
-    me "Ahh... *Kaszle* Moje płuca..{#mtl}{#tl}"
+    me "Ahh... *Cough* My lungs.."
 
-# game/places/wanderers/discover.rpy:65
+# game/places/wanderers/discover.rpy:73
 translate polish discover_wanderers_win_8f076c8d:
 
     # th "Shit, I'm so tired.."
-    th "Cholera, jestem taka zmęczona..{#mtl}{#tl}"
+    th "Shit, I'm so tired.."
 
-# game/places/wanderers/discover.rpy:66
+# game/places/wanderers/discover.rpy:74
 translate polish discover_wanderers_win_b5c22da3:
 
     # u_governor "Aaa.. It was a close call."
-    u_governor "Aaa.. Było blisko.{#mtl}{#tl}"
+    u_governor "Aaa.. It was a close call."
 
-# game/places/wanderers/discover.rpy:69
+# game/places/wanderers/discover.rpy:77
 translate polish discover_wanderers_win_df426f64:
 
     # me "It's time to talk, don't you think? Let's go inside."
-    me "Czas porozmawiać, nie sądzisz? Wejdźmy do środka.{#mtl}{#tl}"
+    me "It's time to talk, don't you think? Let's go inside."
 
-# game/places/wanderers/discover.rpy:70
+# game/places/wanderers/discover.rpy:78
 translate polish discover_wanderers_win_618f7ce2:
 
     # u_governor "Don't worry, the fog can't enter into the hideout."
-    u_governor "Nie martw się, mgła nie może przedostać się do kryjówki.{#mtl}{#tl}"
+    u_governor "Don't worry, the fog can't enter into the hideout."
 
-# game/places/wanderers/discover.rpy:71
+# game/places/wanderers/discover.rpy:79
 translate polish discover_wanderers_win_314086b3:
 
     # me "What?"
-    me "Co?{#mtl}{#tl}"
+    me "What?"
 
-# game/places/wanderers/discover.rpy:77
+# game/places/wanderers/discover.rpy:85
 translate polish discover_wanderers_win_ab5eea35:
 
     # u_governor "I also don't know the reason, but fog avoids this place. It avoids all places humans hide, but you have probably already noticed."
-    u_governor "Nie znam też powodu, ale mgła omija to miejsce. Omija wszystkie miejsca, w których ukrywają się ludzie, ale pewnie już to zauważyłeś.{#mtl}{#tl}"
+    u_governor "I also don't know the reason, but fog avoids this place. It avoids all places humans hide, but you have probably already noticed."
 
-# game/places/wanderers/discover.rpy:78
+# game/places/wanderers/discover.rpy:86
 translate polish discover_wanderers_win_effb048c:
 
     # me "But everything is in the open."
-    me "Ale wszystko jest otwarte.{#mtl}{#tl}"
+    me "But everything is in the open."
 
-# game/places/wanderers/discover.rpy:79
+# game/places/wanderers/discover.rpy:87
 translate polish discover_wanderers_win_4fb61e3a:
 
     # u_governor "It is."
-    u_governor "To jest.{#mtl}{#tl}"
+    u_governor "It is."
 
-# game/places/wanderers/discover.rpy:80
+# game/places/wanderers/discover.rpy:88
 translate polish discover_wanderers_win_b2f20a8e:
 
     # me "That's fucked.. This whole situation is fucked up."
-    me "To jest popieprzone.. Cała ta sytuacja jest popieprzona.{#mtl}{#tl}"
+    me "That's fucked.. This whole situation is fucked up."
 
-# game/places/wanderers/discover.rpy:83
+# game/places/wanderers/discover.rpy:91
 translate polish discover_wanderers_win_09b8ddaf:
 
     # governor "It is indeed. Let me introduce myself, I'm the governor of this hideout."
-    governor "W rzeczy samej. Pozwólcie, że się przedstawię, jestem zarządcą tej kryjówki.{#mtl}{#tl}"
+    governor "It is indeed. Let me introduce myself, I'm the governor of this hideout."
 
-# game/places/wanderers/discover.rpy:84
+# game/places/wanderers/discover.rpy:92
 translate polish discover_wanderers_win_a265d218:
 
     # governor "While we wanderers are free spirits, this place is a safe haven one can use to trade and rest."
-    governor "Chociaż my, wędrowcy, jesteśmy wolnymi duchami, to miejsce jest bezpieczną przystanią, w której można handlować i odpoczywać.{#mtl}{#tl}"
+    governor "While we wanderers are free spirits, this place is a safe haven one can use to trade and rest."
 
-# game/places/wanderers/discover.rpy:87
+# game/places/wanderers/discover.rpy:95
 translate polish discover_wanderers_win_9204eebd:
 
     # me "Wanderers?"
-    me "Wędrowcy?{#mtl}{#tl}"
+    me "Wanderers?"
 
-# game/places/wanderers/discover.rpy:89
+# game/places/wanderers/discover.rpy:97
 translate polish discover_wanderers_win_ec126fe2:
 
     # governor "Yes, the wanderers consist of independent groups of people that help each other survive. You can think of us as a faction."
-    governor "Tak, wędrowcy składają się z niezależnych grup ludzi, którzy pomagają sobie nawzajem przetrwać. Możesz myśleć o nas jako o frakcji.{#mtl}{#tl}"
+    governor "Yes, the wanderers consist of independent groups of people that help each other survive. You can think of us as a faction."
 
-# game/places/wanderers/discover.rpy:90
+# game/places/wanderers/discover.rpy:98
 translate polish discover_wanderers_win_46d27802:
 
     # me "I see."
-    me "Widzę.{#mtl}{#tl}"
+    me "I see."
 
-# game/places/wanderers/discover.rpy:92
+# game/places/wanderers/discover.rpy:100
 translate polish discover_wanderers_win_f991a53c:
 
     # me "But if wanderers are independent groups of people, what's up with the hideout and governor thing?"
-    me "Ale jeśli wędrowcy to niezależne grupy ludzi, to o co chodzi z tą kryjówką i gubernatorem?{#mtl}{#tl}"
+    me "But if wanderers are independent groups of people, what's up with the hideout and governor thing?"
 
-# game/places/wanderers/discover.rpy:95
+# game/places/wanderers/discover.rpy:103
 translate polish discover_wanderers_win_dcdb7b98:
 
     # governor "Haha, this place is one of a kind."
-    governor "Haha, to miejsce jest jedyne w swoim rodzaju.{#mtl}{#tl}"
+    governor "Haha, this place is one of a kind."
 
-# game/places/wanderers/discover.rpy:98
+# game/places/wanderers/discover.rpy:106
 translate polish discover_wanderers_win_8027bf6c:
 
-    # governor "I wanted a place like this to appear, so I built it from the scratch. Later more people joined, and it grew to what it is now."
-    governor "Chciałem, żeby powstało takie miejsce, więc zbudowałem je od podstaw. Później dołączyło więcej osób i rozrosło się do tego, czym jest teraz.{#mtl}{#tl}"
+    # governor "I wanted a place like this to appear, so I built it from scratch. Later more people joined, and it grew to what it is now." id discover_wanderers_win_8027bf6c
+    governor "I wanted a place like this to appear, so I built it from scratch. Later more people joined, and it grew to what it is now." id discover_wanderers_win_8027bf6c
 
-# game/places/wanderers/discover.rpy:99
+# game/places/wanderers/discover.rpy:107
 translate polish discover_wanderers_win_5331fc6c:
 
     # governor "It's a free trade outpost and safehouse. It's not a needy group, but you can help out wherever you want. You're also free to leave anytime."
-    governor "To placówka wolnego handlu i kryjówka. Nie jest to grupa potrzebująca, ale możesz pomagać gdzie tylko chcesz. Możesz też w każdej chwili wyjść.{#mtl}{#tl}"
+    governor "It's a free trade outpost and safehouse. It's not a needy group, but you can help out wherever you want. You're also free to leave anytime."
 
-# game/places/wanderers/discover.rpy:100
+# game/places/wanderers/discover.rpy:108
 translate polish discover_wanderers_win_3f14e1ac:
 
     # me "I see. I think I understand now. So what should I call you?"
-    me "Widzę. Myślę, że teraz rozumiem. Więc jak mam cię nazywać?{#mtl}{#tl}"
+    me "I see. I think I understand now. So what should I call you?"
 
-# game/places/wanderers/discover.rpy:103
+# game/places/wanderers/discover.rpy:111
 translate polish discover_wanderers_win_df1a4e9b:
 
     # governor "Call me [governor], no one's called me any different since The End began. I've already abandoned my old name."
-    governor "Mów mi [governor], nikt nie nazywał mnie inaczej od początku The End. Porzuciłem już swoje stare imię.{#mtl}{#tl}"
+    governor "Call me [governor], no one's called me any different since The End began. I've already abandoned my old name."
 
-# game/places/wanderers/discover.rpy:104
+# game/places/wanderers/discover.rpy:112
 translate polish discover_wanderers_win_1de8d0c4:
 
     # me "Fine then, [governor]. I'm [me]."
-    me "W porządku, [governor]. jestem [me].{#mtl}{#tl}"
+    me "Fine then, [governor]. I'm [me]."
 
-# game/places/wanderers/discover.rpy:107
+# game/places/wanderers/discover.rpy:115
 translate polish discover_wanderers_win_2509e37b:
 
     # governor "It's nice to meet you, [me]."
-    governor "Miło cię poznać, [me].{#mtl}{#tl}"
+    governor "It's nice to meet you, [me]."
 
-# game/places/wanderers/discover.rpy:108
+# game/places/wanderers/discover.rpy:116
 translate polish discover_wanderers_win_87b3c51c:
 
     # governor "Also, thank you for your help. I would be hard pressed to return before night if not for you."
-    governor "Dziękuję również za pomoc. Gdyby nie ty, trudno byłoby mi wrócić przed nocą.{#mtl}{#tl}"
+    governor "Also, thank you for your help. I would be hard pressed to return before night if not for you."
 
-# game/places/wanderers/discover.rpy:109
+# game/places/wanderers/discover.rpy:117
 translate polish discover_wanderers_win_2797c9ff:
 
     # me "I do what I can."
-    me "Robię co mogę.{#mtl}{#tl}"
+    me "I do what I can."
 
-# game/places/wanderers/discover.rpy:113
+# game/places/wanderers/discover.rpy:121
 translate polish discover_wanderers_win_4a6d623b:
 
     # governor "Take this."
-    governor "Weź to.{#mtl}{#tl}"
+    governor "Take this."
 
-# game/places/wanderers/discover.rpy:114
+# game/places/wanderers/discover.rpy:122
 translate polish discover_wanderers_win_40e60644:
 
     # me "Are those.."
-    me "Czy te..{#mtl}{#tl}"
+    me "Are those.."
 
-# game/places/wanderers/discover.rpy:117
+# game/places/wanderers/discover.rpy:125
 translate polish discover_wanderers_win_d02b95ea:
 
     # governor "Bottle caps? Yes, they are."
-    governor "Kapsle? Tak, oni są.{#mtl}{#tl}"
+    governor "Bottle caps? Yes, they are."
 
-# game/places/wanderers/discover.rpy:118
+# game/places/wanderers/discover.rpy:126
 translate polish discover_wanderers_win_23be24fb:
 
     # me "Thanks.."
-    me "Dzięki..{#mtl}{#tl}"
+    me "Thanks.."
 
-# game/places/wanderers/discover.rpy:119
+# game/places/wanderers/discover.rpy:127
 translate polish discover_wanderers_win_cf3a6cd0:
 
     # th "What the hell am I supposed to do with them?"
-    th "Co do diabła mam z nimi zrobić?{#mtl}{#tl}"
+    th "What the hell am I supposed to do with them?"
 
-# game/places/wanderers/discover.rpy:122
+# game/places/wanderers/discover.rpy:130
 translate polish discover_wanderers_win_9c3fc517:
 
     # governor "A pity you can't see your face!"
-    governor "Szkoda, że ​​nie widać swojej twarzy!{#mtl}{#tl}"
+    governor "A pity you can't see your face!"
 
-# game/places/wanderers/discover.rpy:123
+# game/places/wanderers/discover.rpy:131
 translate polish discover_wanderers_win_12190c3a:
 
     # me "Haha.. Sorry.."
-    me "Haha przepraszam..{#mtl}{#tl}"
+    me "Haha.. Sorry.."
 
-# game/places/wanderers/discover.rpy:126
+# game/places/wanderers/discover.rpy:134
 translate polish discover_wanderers_win_c5d28f49:
 
     # governor "These are our local currency. They are accepted by all wanderers."
-    governor "To nasza lokalna waluta. Są akceptowane przez wszystkich wędrowców.{#mtl}{#tl}"
+    governor "These are our local currency. They are accepted by all wanderers."
 
-# game/places/wanderers/discover.rpy:127
+# game/places/wanderers/discover.rpy:135
 translate polish discover_wanderers_win_225ecd31:
 
     # me "Oh, they will be useful then."
-    me "Oj przydają się wtedy.{#mtl}{#tl}"
+    me "Oh, they will be useful then."
 
-# game/places/wanderers/discover.rpy:130
+# game/places/wanderers/discover.rpy:138
 translate polish discover_wanderers_win_acb81293:
 
     # governor "Come, I'll take you to a place you can stay at."
-    governor "Chodź, zabiorę cię do miejsca, w którym możesz się zatrzymać.{#mtl}{#tl}"
+    governor "Come, I'll take you to a place you can stay at."
 
-# game/places/wanderers/discover.rpy:131
+# game/places/wanderers/discover.rpy:139
 translate polish discover_wanderers_win_12cf7b69:
 
     # me "Thanks."
-    me "Dzięki.{#mtl}{#tl}"
+    me "Thanks."
 
-# game/places/wanderers/discover.rpy:137
+# game/places/wanderers/discover.rpy:145
 translate polish discover_wanderers_win_d611ebaa:
 
     # governor "It's not much, but it's better than nothing. The first room is yours."
-    governor "To niewiele, ale lepsze to niż nic. Pierwszy pokój jest twój.{#mtl}{#tl}"
+    governor "It's not much, but it's better than nothing. The first room is yours."
 
-# game/places/wanderers/discover.rpy:138
+# game/places/wanderers/discover.rpy:146
 translate polish discover_wanderers_win_a0a697c9:
 
     # me "Thank you."
-    me "Dziękuję.{#mtl}{#tl}"
+    me "Thank you."
 
-# game/places/wanderers/discover.rpy:141
+# game/places/wanderers/discover.rpy:149
 translate polish discover_wanderers_win_650ce5b6:
 
     # governor "You can stay here anytime. Normally one needs to pay for a night at the motel, but you saved my ass today. Let that stay between us."
-    governor "Możesz tu zostać w każdej chwili. Normalnie trzeba zapłacić za noc w motelu, ale dzisiaj uratowałeś mi tyłek. Niech to zostanie między nami.{#mtl}{#tl}"
+    governor "You can stay here anytime. Normally one needs to pay for a night at the motel, but you saved my ass today. Let that stay between us."
 
-# game/places/wanderers/discover.rpy:142
+# game/places/wanderers/discover.rpy:150
 translate polish discover_wanderers_win_b5c73233:
 
     # me "Sure thing, [governor], and thank you, I appreciate your hospitality."
-    me "Jasne, [governor], i dziękuję, doceniam twoją gościnność.{#mtl}{#tl}"
+    me "Sure thing, [governor], and thank you, I appreciate your hospitality."
 
-# game/places/wanderers/discover.rpy:145
+# game/places/wanderers/discover.rpy:153
 translate polish discover_wanderers_win_636d1176:
 
     # governor "It's the least I can do. Alright, my friend, I believe we both need to rest. We'll speak again soon."
-    governor "Przynajmniej tyle mogę zrobić. W porządku, przyjacielu, uważam, że oboje potrzebujemy odpoczynku. Wkrótce znów porozmawiamy.{#mtl}{#tl}"
+    governor "It's the least I can do. Alright, my friend, I believe we both need to rest. We'll speak again soon."
 
-# game/places/wanderers/discover.rpy:146
+# game/places/wanderers/discover.rpy:154
 translate polish discover_wanderers_win_0ec0d987:
 
-    # me "Yeah, that was very tiring evening. See you."
-    me "Tak, to był bardzo męczący wieczór. Do zobaczenia.{#mtl}{#tl}"
+    # me "Yeah, that was a very tiring evening. See you." id discover_wanderers_win_0ec0d987
+    me "Yeah, that was a very tiring evening. See you." id discover_wanderers_win_0ec0d987
 
-# game/places/wanderers/discover.rpy:147
+# game/places/wanderers/discover.rpy:155
 translate polish discover_wanderers_win_6309f547:
 
     # governor "Sleep well, friend."
-    governor "Śpij dobrze, przyjacielu.{#mtl}{#tl}"
+    governor "Sleep well, friend."
 
-# game/places/wanderers/discover.rpy:150
+# game/places/wanderers/discover.rpy:158
 translate polish discover_wanderers_win_e4e5e3cf:
 
-    # th "Ahh.. That was really tiring day. This guy [governor] seems nice enough. I think we'll be able to get along just fine."
-    th "Ahh.. To był naprawdę męczący dzień. Ten facet [governor] wydaje się wystarczająco miły. Myślę, że będziemy w stanie się dobrze dogadać.{#mtl}{#tl}"
+    # th "Ahh.. That was really tiring day. This [governor] guy seems nice enough. I think we'll be able to get along just fine." id discover_wanderers_win_e4e5e3cf
+    th "Ahh.. That was really tiring day. This [governor] guy seems nice enough. I think we'll be able to get along just fine." id discover_wanderers_win_e4e5e3cf
 

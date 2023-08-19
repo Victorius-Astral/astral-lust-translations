@@ -1,40 +1,36 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
-    # game/combat/cards/Card.rpy:94
-    old "There is no tip with id: "
-    new "Nie ma napiwku z id:{#mtl}{#tl}"
-
-    # game/combat/cards/Card.rpy:94
-    old ", card: "
-    new ", karta:{#mtl}{#tl}"
-
-# TODO: Translation updated at 2022-08-20 13:48
-
-translate polish strings:
-
-    # game/combat/cards/Card.rpy:34
+    # game/combat/cards/Card.rpy:27
     old "Sorry, you have faulty card in inventory. Card -> "
-    new "Przepraszamy, masz wadliwą kartę w ekwipunku. Karta ->{#mtl}{#tl}"
+    new "Sorry, you have faulty card in inventory. Card -> "
 
-    # game/combat/cards/Card.rpy:73
+    # game/combat/cards/Card.rpy:66
     old "Error generating card description!"
-    new "Błąd generowania opisu karty!{#mtl}{#tl}"
+    new "Error generating card description!"
 
-    # game/combat/cards/Card.rpy:74
+    # game/combat/cards/Card.rpy:67
     old "\n Missing generate_description() method."
-    new "\n Brak metody generate_description().{#mtl}{#tl}"
+    new "\n Missing generate_description() method."
 
-    # game/combat/cards/Card.rpy:259
+    # game/combat/cards/Card.rpy:91
+    old "There is no tip with id: "
+    new "There is no tip with id: "
+
+    # game/combat/cards/Card.rpy:91
+    old ", card: "
+    new ", card: "
+
+    # game/combat/cards/Card.rpy:238
     old " true"
-    new " PRAWDA{#mtl}{#tl}"
+    new " true"
 
-    # game/combat/cards/Card.rpy:262
+    # game/combat/cards/Card.rpy:241
     old " unblockable"
-    new " nie do zablokowania{#mtl}{#tl}"
+    new " unblockable"
 
-    # game/combat/cards/Card.rpy:265
+    # game/combat/cards/Card.rpy:244
     old " unavoidable"
-    new " nieunikniony{#mtl}{#tl}"
+    new " unavoidable"
 

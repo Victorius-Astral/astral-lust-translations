@@ -1,375 +1,256 @@
-﻿# Translation updated at 2021-05-12 09:24
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
-    # game/screens.rpy:251
+    # game/screens.rpy:193
+    old "CONFIRM"
+    new "CONFIRM"
+
+    # game/screens.rpy:236
     old "Back"
-    new "Wróć"
+    new "Back"
 
-    # game/screens.rpy:252
+    # game/screens.rpy:237
     old "History"
-    new "Historia"
+    new "History"
 
-    # game/screens.rpy:253
+    # game/screens.rpy:238
     old "Skip"
-    new "Pomiń"
+    new "Skip"
 
-    # game/screens.rpy:254
+    # game/screens.rpy:239
     old "Auto"
     new "Auto"
 
-    # game/screens.rpy:255
+    # game/screens.rpy:240
     old "Save"
-    new "Zapis"
+    new "Save"
 
-    # game/screens.rpy:256
+    # game/screens.rpy:241
     old "Q.Save"
-    new "S.Zapis"
+    new "Q.Save"
 
-    # game/screens.rpy:257
+    # game/screens.rpy:242
     old "Q.Load"
-    new "S.Wczytanie"
+    new "Q.Load"
 
-    # game/screens.rpy:258
+    # game/screens.rpy:243
     old "Settings"
-    new "Ustawienia"
+    new "Settings"
 
-    # game/screens.rpy:299
-    old "Start"
-    new "Nowa Gra"
-
-    # game/screens.rpy:307
+    # game/screens.rpy:292
     old "Load"
-    new "Wczytaj"
+    new "Load"
 
-    # game/screens.rpy:313
-    old "End Replay"
-    new "Zakończ Powtórkę"
-
-    # game/screens.rpy:317
-    old "Main Menu"
-    new "Menu Główne"
-
-    # game/screens.rpy:319
-    old "Credits"
-    new "O Grze"
-
-    # game/screens.rpy:328
-    old "Help"
-    new "Pomoc"
-
-    # game/screens.rpy:334
-    old "Quit"
-    new "Wyjdź"
-
-    # game/screens.rpy:479
-    old "Return"
-    new "Wróć"
-
-    # game/screens.rpy:563
-    old "Version [config.version!t]\n"
-    new "Wersja [config.version!t]\n"
-
-    # game/screens.rpy:582
-    old "\nMade with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new "\nStworzone z {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-
-    # game/screens.rpy:624
+    # game/screens.rpy:297
     old "Page {}"
-    new "Strona {}"
+    new "Page {}"
 
-    # game/screens.rpy:624
+    # game/screens.rpy:297
     old "Automatic saves"
-    new "Automatyczne zapisy"
+    new "Automatic saves"
 
-    # game/screens.rpy:624
+    # game/screens.rpy:297
     old "Quick saves"
-    new "Szybkie zapisy"
+    new "Quick saves"
 
-    # game/screens.rpy:666
+    # game/screens.rpy:339
     old "{#file_time}%A, %B %d %Y, %H:%M"
     new "{#file_time}%A, %B %d %Y, %H:%M"
 
-    # game/screens.rpy:666
+    # game/screens.rpy:339
     old "empty slot"
-    new "puste miejsce"
+    new "empty slot"
 
-    # game/screens.rpy:683
+    # game/screens.rpy:356
     old "<"
     new "<"
 
-    # game/screens.rpy:686
+    # game/screens.rpy:359
     old "{#auto_page}A"
     new "{#auto_page}A"
 
-    # game/screens.rpy:689
+    # game/screens.rpy:362
     old "{#quick_page}Q"
     new "{#quick_page}Q"
 
-    # game/screens.rpy:695
+    # game/screens.rpy:368
     old ">"
     new ">"
 
-    # game/screens.rpy:749
+    # game/screens.rpy:422
     old "Game"
-    new "Gra"
+    new "Game"
 
-    # game/screens.rpy:750
+    # game/screens.rpy:423
     old "Video"
-    new "Wideo"
+    new "Video"
 
-    # game/screens.rpy:751
+    # game/screens.rpy:424
     old "Sound"
-    new "Dźwięk"
+    new "Sound"
 
-    # game/screens.rpy:752
+    # game/screens.rpy:425
     old "Music"
-    new "Muzyka"
+    new "Music"
 
-    # game/screens.rpy:884
+    # game/screens.rpy:429
+    old "Mods"
+    new "Mods"
+
+    # game/screens.rpy:556
     old "The dialogue history is empty."
-    new "Historia dialogów jest pusta."
+    new "The dialogue history is empty."
 
-    # game/screens.rpy:954
+    # game/screens.rpy:617
+    old "Help"
+    new "Help"
+
+    # game/screens.rpy:626
     old "Keyboard"
-    new "Klawiatura"
+    new "Keyboard"
 
-    # game/screens.rpy:955
+    # game/screens.rpy:627
     old "Mouse"
-    new "Myszka"
+    new "Mouse"
 
-    # game/screens.rpy:958
+    # game/screens.rpy:630
     old "Gamepad"
-    new "Kontroler"
+    new "Gamepad"
 
-    # game/screens.rpy:974
+    # game/screens.rpy:632
+    old "Astral Lust"
+    new "Astral Lust"
+
+    # game/screens.rpy:646
     old "Enter {#key}"
     new "Enter {#key}"
 
-    # game/screens.rpy:975
+    # game/screens.rpy:647
     old "Advances dialogue and activates the interface."
-    new "Kontynuuje dialog i włącza interfejs."
+    new "Advances dialogue and activates the interface."
 
-    # game/screens.rpy:978
+    # game/screens.rpy:650
     old "Space"
     new "Space"
 
-    # game/screens.rpy:979
+    # game/screens.rpy:651
     old "Advances dialogue without selecting choices."
-    new "Kontynuuje dialog bez dokonywania wyborów."
+    new "Advances dialogue without selecting choices."
 
-    # game/screens.rpy:982
+    # game/screens.rpy:654
     old "Arrow Keys"
-    new "Strzałki"
+    new "Arrow Keys"
 
-    # game/screens.rpy:983
+    # game/screens.rpy:655
     old "Navigate the interface."
-    new "Nawiguj interfejs."
-
-    # game/screens.rpy:986
-    old "Escape"
-    new "Escape"
-
-    # game/screens.rpy:987
-    old "Accesses the game menu."
-    new "Wejdź do menu głównego."
-
-    # game/screens.rpy:990
-    old "Ctrl"
-    new "Ctrl"
-
-    # game/screens.rpy:991
-    old "Skips dialogue while held down."
-    new "Pomija dialogi gdy jest wciśnięty."
-
-    # game/screens.rpy:994
-    old "Tab"
-    new "Tab"
-
-    # game/screens.rpy:995
-    old "Toggles dialogue skipping."
-    new "Przełącza pomijanie dialogów."
-
-    # game/screens.rpy:998
-    old "Page Up"
-    new "Page Up"
-
-    # game/screens.rpy:999
-    old "Rolls back to earlier dialogue."
-    new "Wraca do poprzedniego dialogu."
-
-    # game/screens.rpy:1002
-    old "Page Down"
-    new "Page Down"
-
-    # game/screens.rpy:1003
-    old "Rolls forward to later dialogue."
-    new "Przechodzi do następnego dialogu."
-
-    # game/screens.rpy:1007
-    old "Hides the user interface."
-    new "Ukrywa interfejs."
-
-    # game/screens.rpy:1011
-    old "Takes a screenshot."
-    new "Robi zrzut ekranu."
-
-    # game/screens.rpy:1015
-    old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "Przełącza asystenta {a=https://www.renpy.org/l/voicing}głosowego{/a}."
-
-    # game/screens.rpy:1021
-    old "Left Click"
-    new "Lewy Przycisk Myszy"
-
-    # game/screens.rpy:1025
-    old "Middle Click"
-    new "Środkowy Przycisk Myszy"
-
-    # game/screens.rpy:1029
-    old "Right Click"
-    new "Prawy Przycisk Myszy"
-
-    # game/screens.rpy:1033
-    old "Mouse Wheel Up\nClick Rollback Side"
-    new "Kólko myszy w górę\nNaciśnij stronę powrotu"
-
-    # game/screens.rpy:1037
-    old "Mouse Wheel Down"
-    new "Kółko myszy w dół"
-
-    # game/screens.rpy:1044
-    old "Right Trigger\nA/Bottom Button"
-    new "Prawy Trigger\nA/Dolny Button"
-
-    # game/screens.rpy:1048
-    old "Left Trigger\nLeft Shoulder"
-    new "Lewy Trigger\nLewy Shoulder"
-
-    # game/screens.rpy:1052
-    old "Right Shoulder"
-    new "Prawy Shoulder"
-
-    # game/screens.rpy:1057
-    old "D-Pad, Sticks"
-    new "D-Pad, Analogi"
-
-    # game/screens.rpy:1061
-    old "Start, Guide"
-    new "Start, Poradnik"
-
-    # game/screens.rpy:1065
-    old "Y/Top Button"
-    new "Y/Górny Button"
-
-    # game/screens.rpy:1068
-    old "Calibrate"
-    new "Kalibruj"
-
-    # game/screens.rpy:1133
-    old "Yes"
-    new "Tak"
-
-    # game/screens.rpy:1134
-    old "No"
-    new "Nie"
-
-    # game/screens.rpy:1180
-    old "Skipping"
-    new "Pomijanie"
-
-    # game/screens.rpy:1405
-    old "Menu"
-    new "Menu"
-
-# Translation updated at 2021-05-15 14:21
-
-translate polish strings:
-
-    # game/screens.rpy:595
-    old "{color=#FF424D}Game can develop thanks to all my Patrons!{/color}"
-    new "{color=#FF424D}Gra może się rozwijać dzięki wszystkim moim Patronom!{/color}"
-
-    # game/screens.rpy:596
-    old "{color=#FF424D}\nHigh tier Patrons:{/color}"
-    new "{color=#FF424D}\nPatroni wysokiej rangi:{/color}"
-
-    # game/screens.rpy:598
-    old "{color=#00ffb6}\nEditor: Strectmar{/color}"
-    new "{color=#00ffb6}\nEdytor: Strectmar{/color}"
-
-    # game/screens.rpy:600
-    old "\n\nMusic: {a=https://www.bensound.com}www.bensound.com{/a}, {a=https://www.zapsplat.com}www.zapsplat.com{/a}"
-    new "\n\nMuzyka: {a=https://www.bensound.com}www.bensound.com{/a}, {a=https://www.zapsplat.com}www.zapsplat.com{/a}"
-
-    # game/screens.rpy:601
-    old "\nSounds: {a=https://www.zapsplat.com}www.zapsplat.com{/a}"
-    new "\nDźwięki: {a=https://www.zapsplat.com}www.zapsplat.com{/a}"
-
-    # game/screens.rpy:602
-    old "\nIcons: {a=https://www.game-icons.net}Lorc, Dealpouite, Guard13007, sbed and Faithtoken (some icons merged with other icons) from Game-icons.net{/a} under {a=https://creativecommons.org/licenses/by/3.0/}CC BY 3.0{/a}, {a=https://www.iconpacks.net}iconpacks.net{/a}, {a=https://www.freepik.com}Freepik{/a} from {a=https://www.flaticon.com/}www.flaticon.com{/a}"
-    new "\nIkony: {a=https://www.game-icons.net}Lorc, Dealpouite, Guard13007, sbed and Faithtoken (niektóre ikony połączone) z Game-icons.net{/a} pod {a=https://creativecommons.org/licenses/by/3.0/}CC BY 3.0{/a}, {a=https://www.iconpacks.net}iconpacks.net{/a}, {a=https://www.freepik.com}Freepik{/a} z {a=https://www.flaticon.com/}www.flaticon.com{/a}"
-
-    # game/screens.rpy:603
-    old "\nArt: Niklaus, Victorius, {a=https://www.pixabay.com}www.pixabay.com{/a}"
-    new "\nGrafika: Niklaus, Victorius, {a=https://www.pixabay.com}www.pixabay.com{/a}"
-
-    # game/screens.rpy:604
-    old "\nCreepypasta: Ashley Rose Wellman (phone calls), Andrew LaBelle (shower), Mycool of The Fear Collective (sleep), Ryan Brennaman (gravedigger)"
-    new "\nCreepypasta: Ashley Rose Wellman (telefony), Andrew LaBelle (prysznic), Mycool of The Fear Collective (sen), Ryan Brennaman (grabarz)"
-
-    # game/screens.rpy:605
-    old "\nModels made in {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} by {a=http://www.illusion.jp}Illusion{/a}"
-    new "\nModele zrobione w {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} od {a=http://www.illusion.jp}Illusion{/a}"
-
-# Translation updated at 2021-05-17 12:54
-
-translate polish strings:
-
-    # game/screens.rpy:610
-    old "\n\n{quiet}Legal:\nAstral Lust is the intellectual property of Victorius.\nVictorius can be contacted through Discord (https://discord.gg/rvnBC39USx) or Patreon (https://www.patreon.com/Victorius).\n\n(a) Permission is granted for this material to be shared for non-commercial purposes provided that this statement appears in the reproduced materials.\n(b) You may NOT sell these files or modify these files to sell, either grouped together or separately.\n(c) You may NOT remove or alter the credit of the creator as it is shown here and in the game's files.\n(d) You may redistribute these files (Astral Lust) as Astral Lust for free. Given a credit to the developer (Victorius) is provided.{/quiet}"
-    new "\n\n{quiet}Prawne:\nAstral Lust jest własnością intelektualną Victorius'a.\nZ Victoriusem można skontaktować się poprzez Discord (https://discord.gg/rvnBC39USx), lub Patreon (https://www.patreon.com/Victorius).\n\n(a) Udzielono zgodę na udostępnianie tego materiału w celach niekomercyjnych o ile te zapiski pojawią się z rozprowadzanych materiałach.\n(b) Nie możesz sprzedawać, lub modyfikować w celach komercyjnym tych plików, zarówno oddzielnie jak i grupowo.\n(c) Nie możesz usuwać ani zmieniać atrybucji twórcy, zarówno jak pokazano w grze jak i w plikach.\n(d) Możesz rozpowszechniać te pliki (Astral Lust) jako Astral Lust za darmo. Pod warunkiem atrybucji developera (Victorius).{/quiet}"
-
-# Translation updated at 2021-07-11 16:45
-
-translate polish strings:
-
-    # game/screens.rpy:346
-    old "Check for Updates"
-    new "Sprawdź aktualizacje"
-
-    # game/screens.rpy:443
-    old "About"
-    new "O Grze"
-
-# Translation updated at 2022-01-31 15:20
-
-translate polish strings:
-
-    # game/screens.rpy:423
-    old "Resume"
-    new "Wznów"
-
-    # game/screens.rpy:806
-    old "Mods"
-    new "Mody"
-
-# Translation updated at 2022-02-16 09:42
-
-translate polish strings:
-
-    # game/screens.rpy:189
-    old "CONFIRM"
-    new "ZATWIERDŹ"
-
-# TODO:
-    old "Do you want to restart the game? If you don't do it, some things will not change language."
-    new "Do you want to restart the game? If you don't do it, some things will not change language."
-# TODO: Translation updated at 2023-08-14 07:25
-
-translate polish strings:
+    new "Navigate the interface."
 
     # game/screens.rpy:658
     old "Escape {#key}"
     new "Escape {#key}"
+
+    # game/screens.rpy:659
+    old "Accesses the game menu."
+    new "Accesses the game menu."
+
+    # game/screens.rpy:662
+    old "Ctrl"
+    new "Ctrl"
+
+    # game/screens.rpy:663
+    old "Skips dialogue while held down."
+    new "Skips dialogue while held down."
+
+    # game/screens.rpy:666
+    old "Tab"
+    new "Tab"
+
+    # game/screens.rpy:667
+    old "Toggles dialogue skipping."
+    new "Toggles dialogue skipping."
+
+    # game/screens.rpy:670
+    old "Page Up"
+    new "Page Up"
+
+    # game/screens.rpy:671
+    old "Rolls back to earlier dialogue."
+    new "Rolls back to earlier dialogue."
+
+    # game/screens.rpy:674
+    old "Page Down"
+    new "Page Down"
+
+    # game/screens.rpy:675
+    old "Rolls forward to later dialogue."
+    new "Rolls forward to later dialogue."
+
+    # game/screens.rpy:679
+    old "Hides the user interface."
+    new "Hides the user interface."
+
+    # game/screens.rpy:683
+    old "Takes a screenshot."
+    new "Takes a screenshot."
+
+    # game/screens.rpy:687
+    old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    new "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+
+    # game/screens.rpy:693
+    old "Left Click"
+    new "Left Click"
+
+    # game/screens.rpy:697
+    old "Middle Click"
+    new "Middle Click"
+
+    # game/screens.rpy:701
+    old "Right Click"
+    new "Right Click"
+
+    # game/screens.rpy:705
+    old "Mouse Wheel Up\nClick Rollback Side"
+    new "Mouse Wheel Up\nClick Rollback Side"
+
+    # game/screens.rpy:709
+    old "Mouse Wheel Down"
+    new "Mouse Wheel Down"
+
+    # game/screens.rpy:716
+    old "Right Trigger\nA/Bottom Button"
+    new "Right Trigger\nA/Bottom Button"
+
+    # game/screens.rpy:720
+    old "Left Trigger\nLeft Shoulder"
+    new "Left Trigger\nLeft Shoulder"
+
+    # game/screens.rpy:724
+    old "Right Shoulder"
+    new "Right Shoulder"
+
+    # game/screens.rpy:729
+    old "D-Pad, Sticks"
+    new "D-Pad, Sticks"
+
+    # game/screens.rpy:733
+    old "Start, Guide"
+    new "Start, Guide"
+
+    # game/screens.rpy:737
+    old "Y/Top Button"
+    new "Y/Top Button"
+
+    # game/screens.rpy:740
+    old "Calibrate"
+    new "Calibrate"
+
+    # game/screens.rpy:788
+    old "Skipping"
+    new "Skipping"
+
+    # game/screens.rpy:973
+    old "Menu"
+    new "Menu"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-14 07:25
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/places/wanderers/hunter.rpy:42
 translate polish theHunter_speak_menu1_e986a031:

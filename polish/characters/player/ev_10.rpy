@@ -1,326 +1,326 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
-# game/characters/player/ev_10.rpy:6
+# game/characters/player/ev_10.rpy:4
 translate polish main_10_c0147db6:
 
     # "You appear in the library."
-    "Pojawiasz się w bibliotece.{#mtl}{#tl}"
+    "You appear in the library."
 
-# game/characters/player/ev_10.rpy:9
+# game/characters/player/ev_10.rpy:7
 translate polish main_10_f93a653c:
 
     # kiara "Aest.."
-    kiara "est..{#mtl}{#tl}"
+    kiara "Aest.."
 
-# game/characters/player/ev_10.rpy:10
+# game/characters/player/ev_10.rpy:8
 translate polish main_10_811d26b4:
 
     # th "What?"
-    th "Co?{#mtl}{#tl}"
+    th "What?"
 
-# game/characters/player/ev_10.rpy:13
+# game/characters/player/ev_10.rpy:11
 translate polish main_10_935c38df:
 
     # "Before she managed to finish speaking, everything turns hazy and dark."
-    "Zanim zdążyła skończyć mówić, wszystko staje się zamglone i ciemne.{#mtl}{#tl}"
+    "Before she managed to finish speaking, everything turns hazy and dark."
 
-# game/characters/player/ev_10.rpy:14
+# game/characters/player/ev_10.rpy:12
 translate polish main_10_0bdebd06:
 
     # kiara "..har!!"
-    kiara "..har!!{#mtl}{#tl}"
+    kiara "..har!!"
 
-# game/characters/player/ev_10.rpy:17
+# game/characters/player/ev_10.rpy:15
 translate polish main_10_48373a16:
 
     # "[kiara] appears before you."
-    "[kiara] pojawia się przed tobą.{#mtl}{#tl}"
+    "[kiara] appears before you."
 
-# game/characters/player/ev_10.rpy:18
+# game/characters/player/ev_10.rpy:16
 translate polish main_10_d591b1fc:
 
     # kiara "..."
-    kiara "...{#mtl}{#tl}"
+    kiara "..."
 
-# game/characters/player/ev_10.rpy:19
+# game/characters/player/ev_10.rpy:17
 translate polish main_10_0550ca6a:
 
     # me "[kiara]? Everything alright? What happened?"
-    me "[kiara]? Wszystko w porządku? Co się stało?{#mtl}{#tl}"
+    me "[kiara]? Everything alright? What happened?"
 
-# game/characters/player/ev_10.rpy:22
+# game/characters/player/ev_10.rpy:20
 translate polish main_10_56d7e266:
 
     # kiara "You're a troublemaker indeed.."
-    kiara "Rzeczywiście jesteś kłopotliwy..{#mtl}{#tl}"
+    kiara "You're a troublemaker indeed.."
 
-# game/characters/player/ev_10.rpy:23
+# game/characters/player/ev_10.rpy:21
 translate polish main_10_1f877649:
 
     # me "What do you mean?"
-    me "Co masz na myśli?{#mtl}{#tl}"
+    me "What do you mean?"
 
-# game/characters/player/ev_10.rpy:26
+# game/characters/player/ev_10.rpy:24
 translate polish main_10_a7c360d3:
 
     # "She doesn't respond, instead she keeps looking at your chest."
-    "Nie odpowiada, zamiast tego patrzy na twoją klatkę piersiową.{#mtl}{#tl}"
+    "She doesn't respond, instead she keeps looking at your chest."
 
-# game/characters/player/ev_10.rpy:27
+# game/characters/player/ev_10.rpy:25
 translate polish main_10_9b6cbb87:
 
     # kiara "It's been a long time.. Aharon.."
-    kiara "Minęło dużo czasu.. Aaronie..{#mtl}{#tl}"
+    kiara "It's been a long time.. Aharon.."
 
-# game/characters/player/ev_10.rpy:28
+# game/characters/player/ev_10.rpy:26
 translate polish main_10_a6efcc57:
 
     # th "Aharon?!"
-    th "Aaronie?!{#mtl}{#tl}"
+    th "Aharon?!"
 
-# game/characters/player/ev_10.rpy:29
+# game/characters/player/ev_10.rpy:27
 translate polish main_10_44206426:
 
     # aharon "You're still as stupid as you were back then."
-    aharon "Nadal jesteś tak głupi jak wtedy.{#mtl}{#tl}"
+    aharon "You're still as stupid as you were back then."
 
-# game/characters/player/ev_10.rpy:30
+# game/characters/player/ev_10.rpy:28
 translate polish main_10_d591b1fc_1:
 
     # kiara "..."
-    kiara "...{#mtl}{#tl}"
+    kiara "..."
 
-# game/characters/player/ev_10.rpy:33
+# game/characters/player/ev_10.rpy:31
 translate polish main_10_d20f144f:
 
     # "A pair of hands slither from inside of you!"
-    "Para rąk wyślizguje się z twojego wnętrza!{#mtl}{#tl}"
+    "A pair of hands slither from inside of you!"
 
-# game/characters/player/ev_10.rpy:35
+# game/characters/player/ev_10.rpy:33
 translate polish main_10_0947a521:
 
     # me "What the fuck is happening?!"
-    me "Co się kurwa dzieje?!{#mtl}{#tl}"
+    me "What the fuck is happening?!"
 
-# game/characters/player/ev_10.rpy:38
+# game/characters/player/ev_10.rpy:36
 translate polish main_10_84fb9c44:
 
     # "You try to move, yet something seems to be binding you entirely."
-    "Próbujesz się poruszyć, ale coś wydaje się cię całkowicie wiązać.{#mtl}{#tl}"
+    "You try to move, yet something seems to be binding you entirely."
 
-# game/characters/player/ev_10.rpy:39
+# game/characters/player/ev_10.rpy:37
 translate polish main_10_98b6ec89:
 
     # aharon "You still don't understand that the Eldritch Keeper will always remain only a keeper."
-    aharon "Nadal nie rozumiesz, że Opiekun Eldritch zawsze pozostanie tylko Strażnikiem.{#mtl}{#tl}"
+    aharon "You still don't understand that the Eldritch Keeper will always remain only a keeper."
 
-# game/characters/player/ev_10.rpy:42
+# game/characters/player/ev_10.rpy:40
 translate polish main_10_b21ae33a:
 
     # kiara "You're insane, Aharon. Everything you do is filled with madness."
-    kiara "Jesteś szalony, Aaronie. Wszystko, co robisz, jest pełne szaleństwa.{#mtl}{#tl}"
+    kiara "You're insane, Aharon. Everything you do is filled with madness."
 
-# game/characters/player/ev_10.rpy:45
+# game/characters/player/ev_10.rpy:43
 translate polish main_10_f4703699:
 
     # aharon "To be God is to be mad. You should understand this after becoming an Angel."
-    aharon "Być Bogiem to być szaleńcem. Powinieneś to zrozumieć po zostaniu Aniołem.{#mtl}{#tl}"
+    aharon "To be God is to be mad. You should understand this after becoming an Angel."
 
-# game/characters/player/ev_10.rpy:46
+# game/characters/player/ev_10.rpy:44
 translate polish main_10_d591b1fc_2:
 
     # kiara "..."
-    kiara "...{#mtl}{#tl}"
+    kiara "..."
 
-# game/characters/player/ev_10.rpy:49
+# game/characters/player/ev_10.rpy:47
 translate polish main_10_13515c68:
 
     # aharon "It's useless to wait for It, It can't hear your prayers."
-    aharon "Nie ma sensu czekać na To, Ono nie może usłyszeć twoich modlitw.{#mtl}{#tl}"
+    aharon "It's useless to wait for It, It can't hear your prayers."
 
-# game/characters/player/ev_10.rpy:50
+# game/characters/player/ev_10.rpy:48
 translate polish main_10_d591b1fc_3:
 
     # kiara "..."
-    kiara "...{#mtl}{#tl}"
+    kiara "..."
 
-# game/characters/player/ev_10.rpy:51
+# game/characters/player/ev_10.rpy:49
 translate polish main_10_26041395:
 
-    # kiara "You aren't here to deal with me, or I would be a puppet already, so what do you want."
-    kiara "Nie jesteś tu, żeby się mną zajmować, inaczej byłbym już marionetką, więc czego chcesz.{#mtl}{#tl}"
+    # kiara "You are not here to deal with me, or I would be a puppet already. What do you want?" id main_10_26041395
+    kiara "You are not here to deal with me, or I would be a puppet already. What do you want?" id main_10_26041395
 
-# game/characters/player/ev_10.rpy:52
+# game/characters/player/ev_10.rpy:50
 translate polish main_10_fd605157:
 
     # aharon "You'll help me locate the Whispers of the Cosmos."
-    aharon "Pomożesz mi zlokalizować Szepty Kosmosu.{#mtl}{#tl}"
+    aharon "You'll help me locate the Whispers of the Cosmos."
 
-# game/characters/player/ev_10.rpy:55
+# game/characters/player/ev_10.rpy:53
 translate polish main_10_78928ca5:
 
     # kiara "You're insane! We'll both lose control on the spot!"
-    kiara "Jesteś szalony! Obaj stracimy kontrolę na miejscu!{#mtl}{#tl}"
+    kiara "You're insane! We'll both lose control on the spot!"
 
-# game/characters/player/ev_10.rpy:56
+# game/characters/player/ev_10.rpy:54
 translate polish main_10_adaaface:
 
     # aharon "Its blessing will save us from damnation."
-    aharon "Jego błogosławieństwo ocali nas od potępienia.{#mtl}{#tl}"
+    aharon "Its blessing will save us from damnation."
 
-# game/characters/player/ev_10.rpy:57
+# game/characters/player/ev_10.rpy:55
 translate polish main_10_0813bec6:
 
     # kiara "You sick lunatic, your god doesn't exist!"
-    kiara "Ty chory wariacie, twój bóg nie istnieje!{#mtl}{#tl}"
+    kiara "You sick lunatic, your god doesn't exist!"
 
-# game/characters/player/ev_10.rpy:58
+# game/characters/player/ev_10.rpy:56
 translate polish main_10_066b166a:
 
     # kiara "It has not once responded to you for all these millennia. Why do you still keep your faith in It?"
-    kiara "Nie odpowiedziało wam ani razu przez te wszystkie tysiąclecia. Dlaczego wciąż w to wierzysz?{#mtl}{#tl}"
+    kiara "It has not once responded to you for all these millennia. Why do you still keep your faith in It?"
 
-# game/characters/player/ev_10.rpy:59
+# game/characters/player/ev_10.rpy:57
 translate polish main_10_c9ad8a7b:
 
     # kiara "You're a King of Angels, how can you be so blind and naive?"
-    kiara "Jesteś Królem Aniołów, jak możesz być tak ślepy i naiwny?{#mtl}{#tl}"
+    kiara "You're a King of Angels, how can you be so blind and naive?"
 
-# game/characters/player/ev_10.rpy:60
+# game/characters/player/ev_10.rpy:58
 translate polish main_10_88c27c64:
 
     # aharon "Just because God doesn't speak to the worms, doesn't mean It doesn't exist."
-    aharon "To, że Bóg nie przemawia do robaków, nie oznacza, że ​​On nie istnieje.{#mtl}{#tl}"
+    aharon "Just because God doesn't speak to the worms, doesn't mean It doesn't exist."
 
-# game/characters/player/ev_10.rpy:63
+# game/characters/player/ev_10.rpy:61
 translate polish main_10_461790cf:
 
     # kiara "You're thoroughly insane.."
-    kiara "Jesteś totalnie szalony..{#mtl}{#tl}"
+    kiara "You're thoroughly insane.."
 
-# game/characters/player/ev_10.rpy:64
+# game/characters/player/ev_10.rpy:62
 translate polish main_10_b2c8b27d:
 
     # aharon "Let's go."
-    aharon "Chodźmy.{#mtl}{#tl}"
+    aharon "Let's go."
 
-# game/characters/player/ev_10.rpy:65
+# game/characters/player/ev_10.rpy:63
 translate polish main_10_8e94f749:
 
     # kiara "And if I refuse?"
-    kiara "A jeśli odmówię?{#mtl}{#tl}"
+    kiara "And if I refuse?"
 
-# game/characters/player/ev_10.rpy:66
+# game/characters/player/ev_10.rpy:64
 translate polish main_10_5645acbe:
 
     # aharon "I'll turn you into a puppet and use your abilities to find it."
-    aharon "Zamienię cię w marionetkę i użyję twoich zdolności, by ją znaleźć.{#mtl}{#tl}"
+    aharon "I'll turn you into a puppet and use your abilities to find it."
 
-# game/characters/player/ev_10.rpy:69
+# game/characters/player/ev_10.rpy:67
 translate polish main_10_542e5da7:
 
     # kiara "... Very well.."
-    kiara "... Bardzo dobrze..{#mtl}{#tl}"
+    kiara "... Very well.."
 
-# game/characters/player/ev_10.rpy:72
+# game/characters/player/ev_10.rpy:70
 translate polish main_10_2f580e85:
 
     # me "[kiara]?"
-    me "[kiara]?{#mtl}{#tl}"
+    me "[kiara]?"
 
-# game/characters/player/ev_10.rpy:75
+# game/characters/player/ev_10.rpy:73
 translate polish main_10_f96a35ec:
 
     # "Everything seems to return to normal."
-    "Wszystko wydaje się wracać do normy.{#mtl}{#tl}"
+    "Everything seems to return to normal."
 
-# game/characters/player/ev_10.rpy:78
+# game/characters/player/ev_10.rpy:76
 translate polish main_10_3b96c802:
 
     # "Your legs weak, you have fallen to the ground."
-    "Twoje nogi są słabe, upadłeś na ziemię.{#mtl}{#tl}"
+    "Your legs weak, you have fallen to the ground."
 
-# game/characters/player/ev_10.rpy:79
+# game/characters/player/ev_10.rpy:77
 translate polish main_10_eed3f1d3:
 
     # th "What the fuck was that?!"
-    th "Co to kurwa było?!{#mtl}{#tl}"
+    th "What the fuck was that?!"
 
-# game/characters/player/ev_10.rpy:81
+# game/characters/player/ev_10.rpy:79
 translate polish main_10_bcdc56f0:
 
     # kiara "I'll send you back. I hope we have a chance to meet again, but next time come alone.."
-    kiara "Odeślę cię z powrotem. Mam nadzieję, że jeszcze się spotkamy, ale następnym razem przyjdź sam..{#mtl}{#tl}"
+    kiara "I'll send you back. I hope we have a chance to meet again, but next time come alone.."
 
-# game/characters/player/ev_10.rpy:82
+# game/characters/player/ev_10.rpy:80
 translate polish main_10_4989fe05:
 
     # me "I.."
-    me "I..{#mtl}{#tl}"
+    me "I.."
 
-# game/characters/player/ev_10.rpy:85
+# game/characters/player/ev_10.rpy:83
 translate polish main_10_a6fcb974:
 
     # "You didn't finish as you appeared back in your room."
-    "Nie dokończyłeś, gdy pojawiłeś się z powrotem w swoim pokoju.{#mtl}{#tl}"
+    "You didn't finish as you appeared back in your room."
 
-# game/characters/player/ev_10.rpy:86
+# game/characters/player/ev_10.rpy:84
 translate polish main_10_3820771a:
 
     # me "..."
-    me "...{#mtl}{#tl}"
+    me "..."
 
-# game/characters/player/ev_10.rpy:89
+# game/characters/player/ev_10.rpy:87
 translate polish main_10_506616c6:
 
     # th "Fuck!! Was He inside of me the whole time?!"
-    th "Pierdolić!! Czy był we mnie cały czas?!{#mtl}{#tl}"
+    th "Fuck!! Was He inside of me the whole time?!"
 
-# game/characters/player/ev_10.rpy:92
+# game/characters/player/ev_10.rpy:90
 translate polish main_10_1c65dd79:
 
     # th "Fuck!! Was he inside of me the whole time?!"
-    th "Pierdolić!! Czy on był we mnie cały czas?!{#mtl}{#tl}"
+    th "Fuck!! Was he inside of me the whole time?!"
 
-# game/characters/player/ev_10.rpy:94
+# game/characters/player/ev_10.rpy:92
 translate polish main_10_3820771a_1:
 
     # me "..."
-    me "...{#mtl}{#tl}"
+    me "..."
 
-# game/characters/player/ev_10.rpy:96
+# game/characters/player/ev_10.rpy:94
 translate polish main_10_3820771a_2:
 
     # me "..."
-    me "...{#mtl}{#tl}"
+    me "..."
 
-# game/characters/player/ev_10.rpy:99
+# game/characters/player/ev_10.rpy:97
 translate polish main_10_3820771a_3:
 
     # me "..."
-    me "...{#mtl}{#tl}"
+    me "..."
 
-# game/characters/player/ev_10.rpy:100
+# game/characters/player/ev_10.rpy:98
 translate polish main_10_8341e13d:
 
     # me "I hope you'll be alright [kiara].. I'm so sorry.."
-    me "Mam nadzieję, że wszystko będzie w porządku [kiara].. Tak mi przykro..{#mtl}{#tl}"
+    me "I hope you'll be alright [kiara].. I'm so sorry.."
 
-# game/characters/player/ev_10.rpy:101
+# game/characters/player/ev_10.rpy:99
 translate polish main_10_485d5cda:
 
     # me "I wanted to become powerful, to protect those dear to me, but I've brought harm to a friend again.."
-    me "Chciałem stać się potężny, aby chronić tych, którzy są mi drodzy, ale znowu skrzywdziłem przyjaciela..{#mtl}{#tl}"
+    me "I wanted to become powerful, to protect those dear to me, but I've brought harm to a friend again.."
 
-# game/characters/player/ev_10.rpy:102
+# game/characters/player/ev_10.rpy:100
 translate polish main_10_3211a260:
 
     # me "I'm.. pathetic.."
-    me "Jestem żałosny..{#mtl}{#tl}"
+    me "I'm.. pathetic.."
 
-# game/characters/player/ev_10.rpy:103
+# game/characters/player/ev_10.rpy:101
 translate polish main_10_be7aa58b:
 
     # me "...."
-    me "....{#mtl}{#tl}"
+    me "...."
 

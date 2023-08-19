@@ -1,36 +1,36 @@
-﻿# TODO: Translation updated at 2022-08-20 13:48
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
     # game/variables/collectibles.rpy:11
     old "Location: Player's room"
-    new "Lokacja: pokój gracza{#mtl}{#tl}"
+    new "Location: Player's room"
 
     # game/variables/collectibles.rpy:11
     old "Location: Lexi & Mina's room"
-    new "Lokalizacja: Pokój Lexi i Miny{#mtl}{#tl}"
+    new "Location: Lexi & Mina's room"
 
     # game/variables/collectibles.rpy:11
     old "Location: Second floor corridor"
-    new "Lokalizacja: Korytarz drugiego piętra{#mtl}{#tl}"
+    new "Location: Second floor corridor"
 
     # game/variables/collectibles.rpy:11
     old "Location: Second floor corridor, other side"
-    new "Lokalizacja: Korytarz drugiego piętra, druga strona{#mtl}{#tl}"
+    new "Location: Second floor corridor, other side"
 
     # game/variables/collectibles.rpy:11
     old "Location: Grace's room"
-    new "Lokalizacja: Pokój Grace{#mtl}{#tl}"
+    new "Location: Grace's room"
 
     # game/variables/collectibles.rpy:11
     old "Location: Alice's room"
-    new "Lokalizacja: pokój Alicji{#mtl}{#tl}"
+    new "Location: Alice's room"
 
     # game/variables/collectibles.rpy:11
     old "Location: Lobby"
-    new "Lokalizacja: lobby{#mtl}{#tl}"
+    new "Location: Lobby"
 
     # game/variables/collectibles.rpy:11
     old "Location: Library"
-    new "Miejsce: Biblioteka{#mtl}{#tl}"
+    new "Location: Library"
 

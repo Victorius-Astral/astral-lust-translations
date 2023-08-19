@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/grace/tasks.rpy:6
 translate polish task_grace_dinner_0f12734e:
@@ -60,85 +60,85 @@ translate polish task_grace_dinner_7402cda2:
     # grace "Mm."
     grace "Mm."
 
-# game/characters/grace/tasks.rpy:42
+# game/characters/grace/tasks.rpy:44
 translate polish task_grace_dinner_8756bf37:
 
     # grace "Do you want me to do anything else?"
     grace "Do you want me to do anything else?"
 
-# game/characters/grace/tasks.rpy:53
+# game/characters/grace/tasks.rpy:55
 translate polish task_grace_dinner_00baac62:
 
     # grace "Hmph."
     grace "Hmph."
 
-# game/characters/grace/tasks.rpy:54
+# game/characters/grace/tasks.rpy:56
 translate polish task_grace_dinner_20faf515:
 
     # me "One needs to know how to accept criticism, [grace]."
     me "One needs to know how to accept criticism, [grace]."
 
-# game/characters/grace/tasks.rpy:55
+# game/characters/grace/tasks.rpy:57
 translate polish task_grace_dinner_c5c1599c:
 
     # grace "I'm not talking with you."
     grace "I'm not talking with you."
 
-# game/characters/grace/tasks.rpy:56
+# game/characters/grace/tasks.rpy:58
 translate polish task_grace_dinner_bf653935:
 
     # me "Ehh.."
     me "Ehh.."
 
-# game/characters/grace/tasks.rpy:57
+# game/characters/grace/tasks.rpy:59
 translate polish task_grace_dinner_d2dc14d3:
 
     # me "I was just kidding with you. It tastes great."
     me "I was just kidding with you. It tastes great."
 
-# game/characters/grace/tasks.rpy:58
+# game/characters/grace/tasks.rpy:60
 translate polish task_grace_dinner_fdb4e830:
 
     # grace "..."
     grace "..."
 
-# game/characters/grace/tasks.rpy:64
+# game/characters/grace/tasks.rpy:66
 translate polish task_grace_dinner_80ce394c:
 
     # me "Thanks for the food."
     me "Thanks for the food."
 
-# game/characters/grace/tasks.rpy:65
+# game/characters/grace/tasks.rpy:67
 translate polish task_grace_dinner_7402cda2_1:
 
     # grace "Mm."
     grace "Mm."
 
-# game/characters/grace/tasks.rpy:76
+# game/characters/grace/tasks.rpy:80
 translate polish task_grace_dinner_f6e2127e:
 
     # grace "Hmph! You're bad!"
     grace "Hmph! You're bad!"
 
-# game/characters/grace/tasks.rpy:77
+# game/characters/grace/tasks.rpy:81
 translate polish task_grace_dinner_cd77df1e:
 
     # me "Easy.."
     me "Easy.."
 
-# game/characters/grace/tasks.rpy:81
+# game/characters/grace/tasks.rpy:85
 translate polish task_grace_dinner_e429a452:
 
     # grace "Don't eat if you don't want to."
     grace "Don't eat if you don't want to."
 
-# game/characters/grace/tasks.rpy:82
+# game/characters/grace/tasks.rpy:86
 translate polish task_grace_dinner_cf29543c:
 
     # me "Whatever."
     me "Whatever."
 
-# game/characters/grace/tasks.rpy:83
+# game/characters/grace/tasks.rpy:87
 translate polish task_grace_dinner_fdb4e830_1:
 
     # grace "..."

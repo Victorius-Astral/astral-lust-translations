@@ -1,86 +1,94 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Unknown"
-    new "Nieznany{#mtl}{#tl}"
+    new "Unknown"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Human"
-    new "Człowiek{#mtl}{#tl}"
+    new "Human"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Dragon"
-    new "smok{#mtl}{#tl}"
+    new "Dragon"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Spider"
-    new "Pająk{#mtl}{#tl}"
+    new "Spider"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Crab"
-    new "Krab{#mtl}{#tl}"
+    new "Crab"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Flamingo"
-    new "Flaming{#mtl}{#tl}"
+    new "Flamingo"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Manticore"
-    new "Mantikora{#mtl}{#tl}"
+    new "Manticore"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Werewolf"
-    new "Wilkołak{#mtl}{#tl}"
+    new "Werewolf"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Ghoul"
-    new "Wampir{#mtl}{#tl}"
+    new "Ghoul"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Abomination"
-    new "Wstręt{#mtl}{#tl}"
+    new "Abomination"
 
     # game/combat/battle/Battle_variables.rpy:55
-    old "Fox Tribe"
-    new "Plemię Lisów{#mtl}{#tl}"
+    old "Orc"
+    new "Orc"
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Beast"
-    new "Bestia{#mtl}{#tl}"
+    new "Beast"
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Monster"
-    new "Potwór{#mtl}{#tl}"
+    new "Monster"
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Undead"
-    new "Nieumarły{#mtl}{#tl}"
+    new "Undead"
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Demon"
-    new "Demon{#mtl}{#tl}"
+    new "Demon"
+
+    # game/combat/battle/Battle_variables.rpy:82
+    old "Neutral"
+    new "Neutral"
+
+    # game/combat/battle/Battle_variables.rpy:82
+    old "Jade Hotel"
+    new "Jade Hotel"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "The Abyss"
-    new "Otchłań{#mtl}{#tl}"
+    new "The Abyss"
+
+    # game/combat/battle/Battle_variables.rpy:82
+    old "Wanderers"
+    new "Wanderers"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Horde"
-    new "Horda{#mtl}{#tl}"
+    new "Horde"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Outlaws"
-    new "Banici{#mtl}{#tl}"
+    new "Outlaws"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Deserters"
-    new "Dezerterzy{#mtl}{#tl}"
-
-# TODO: Translation updated at 2023-08-14 07:25
-
-translate polish strings:
+    new "Deserters"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Carlson Dojo"

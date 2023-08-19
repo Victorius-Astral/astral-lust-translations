@@ -1,20 +1,20 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
-    # game/combat/decks/DeckSelect.rpy:30
+    # game/combat/decks/DeckSelect.rpy:38
     old "Deck Selection"
-    new "Wybór talii{#mtl}{#tl}"
+    new "Deck Selection"
 
-    # game/combat/decks/DeckSelect.rpy:46
+    # game/combat/decks/DeckSelect.rpy:56
     old "Confirm"
-    new "Potwierdzać{#mtl}{#tl}"
+    new "Confirm"
 
-    # game/combat/decks/DeckSelect.rpy:65
+    # game/combat/decks/DeckSelect.rpy:115
     old "* Hover outside to see enemies"
-    new "* Najedź kursorem na zewnątrz, aby zobaczyć wrogów{#mtl}{#tl}"
+    new "* Hover outside to see enemies"
 
-    # game/combat/decks/DeckSelect.rpy:130
+    # game/combat/decks/DeckSelect.rpy:226
     old "* Click outside to toggle enemies view"
-    new "* Kliknij na zewnątrz, aby przełączyć widok wrogów{#mtl}{#tl}"
+    new "* Click outside to toggle enemies view"
 

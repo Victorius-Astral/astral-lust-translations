@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-14 07:25
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/mina/vampire.rpy:26
 translate polish mina_vampire_create_7e8594ec:

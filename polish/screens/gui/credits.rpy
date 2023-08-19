@@ -1,125 +1,140 @@
-# Translation updated at 2022-02-17 20:50
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
-    # game/screens/gui/credits.rpy:48
-    old "\nSupporters:"
-    new "\nWspierający:{#mtl}{#tl}"
+    # game/screens/gui/credits.rpy:15
+    old "Credits"
+    new "Credits"
 
-    # game/screens/gui/credits.rpy:53
-    old "\nLead Designer"
-    new "\nGłówny Projektant{#mtl}{#tl}"
+    # game/screens/gui/credits.rpy:23
+    old "\n\n{quiet}Legal:\nAstral Lust is the intellectual property of Victorius.\nVictorius can be contacted through Discord (https://discord.gg/rvnBC39USx) or Patreon (https://www.patreon.com/Victorius).\n\n(a) Permission is granted for this material to be shared for non-commercial purposes provided that this statement appears in the reproduced materials.\n(b) You may NOT sell these files or modify these files to sell, either grouped together or separately.\n(c) You may NOT remove or alter the credit of the creator as it is shown here and in the game's files.\n(d) You may redistribute these files (Astral Lust) as Astral Lust for free. Given a credit to the developer (Victorius) is provided.{/quiet}"
+    new "\n\n{quiet}Legal:\nAstral Lust is the intellectual property of Victorius.\nVictorius can be contacted through Discord (https://discord.gg/rvnBC39USx) or Patreon (https://www.patreon.com/Victorius).\n\n(a) Permission is granted for this material to be shared for non-commercial purposes provided that this statement appears in the reproduced materials.\n(b) You may NOT sell these files or modify these files to sell, either grouped together or separately.\n(c) You may NOT remove or alter the credit of the creator as it is shown here and in the game's files.\n(d) You may redistribute these files (Astral Lust) as Astral Lust for free. Given a credit to the developer (Victorius) is provided.{/quiet}"
 
-    # game/screens/gui/credits.rpy:56
-    old "\nLead Programmer"
-    new "\nGłówny programista{#mtl}{#tl}"
-
-    # game/screens/gui/credits.rpy:59
-    old "\nLead Writer"
-    new "\nGłówny Pisarz{#mtl}{#tl}"
-
-    # game/screens/gui/credits.rpy:60
-    old "Still Victorius"
-    new "Nadala Victoriusa{#mtl}{#tl}"
-
-    # game/screens/gui/credits.rpy:62
-    old "\nWriter"
-    new "\nPisarz{#mtl}{#tl}"
-
-    # game/screens/gui/credits.rpy:65
-    old "\nText Editor:"
-    new "\nRedaktor:{#mtl}{#tl}"
-
-    # game/screens/gui/credits.rpy:68
-    old "\nTranslation"
-    new "\nTłumaczenia{#mtl}{#tl}"
-
-    # game/screens/gui/credits.rpy:71
-    old "\nMusic"
-    new "\nMuzyka{#mtl}{#tl}"
-
-    # game/screens/gui/credits.rpy:74
-    old "\nSound"
-    new "\nDźwięk{#mtl}{#tl}"
-
-    # game/screens/gui/credits.rpy:77
-    old "\nIcons"
-    new "\nIkona{#mtl}{#tl}"
-    # game/screens/gui/credits.rpy:80
-    old "\nArt"
-    new "\nGrafika{#mtl}{#tl}"
-
-    # game/screens/gui/credits.rpy:83
-    old "\nCreepypasta"
-    new "\nCreepypasta{#mtl}{#tl}"
-
-    # game/screens/gui/credits.rpy:84
-    old "Ashley Rose Wellman (phone calls), Andrew LaBelle (shower), Mycool of The Fear Collective (sleep), Ryan Brennaman (gravedigger)"
-    new "Ashley Rose Wellman (rozmowy telefoniczne), Andrew LaBelle (prysznic), Mycool z The Fear Collective (sen), Ryan Brennaman (grabarz){#mtl}{#tl}"
-
-    # game/screens/gui/credits.rpy:86
-    old "\nContributed Code"
-    new "\nWprowadzono kod{#mtl}{#tl}"
-
-    # game/screens/gui/credits.rpy:89
-    old "\nPublic Relations"
-    new "\nRelacje Publiczne{#mtl}{#tl}"
-
-    # game/screens/gui/credits.rpy:92
-    old "\nCommunity Manager:"
-    new "\nMenedżer Społeczności:{#mtl}{#tl}"
-# TODO: Translation updated at 2022-08-20 13:48
-
-translate polish strings:
+    # game/screens/gui/credits.rpy:28
+    old "\nMade with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
+    new "\nMade with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/screens/gui/credits.rpy:49
     old "Version [config.version!t]"
-    new "Wersja [config.version!t]{#mtl}{#tl}"
+    new "Version [config.version!t]"
 
     # game/screens/gui/credits.rpy:49
     old "Supporters:"
-    new "Zwolennicy:{#mtl}{#tl}"
+    new "Supporters:"
 
     # game/screens/gui/credits.rpy:49
     old "Lead Designer"
-    new "Główny projektant{#mtl}{#tl}"
+    new "Lead Designer"
 
     # game/screens/gui/credits.rpy:49
     old "Lead Programmer"
-    new "Główny programista{#mtl}{#tl}"
+    new "Lead Programmer"
 
     # game/screens/gui/credits.rpy:49
     old "Lead Writer"
-    new "Główny pisarz{#mtl}{#tl}"
+    new "Lead Writer"
 
     # game/screens/gui/credits.rpy:49
     old "Writer"
-    new "Pisarz{#mtl}{#tl}"
+    new "Writer"
 
     # game/screens/gui/credits.rpy:49
     old "Text Editor:"
-    new "Edytor tekstu:{#mtl}{#tl}"
+    new "Text Editor:"
 
     # game/screens/gui/credits.rpy:49
     old "Translation"
-    new "Tłumaczenie{#mtl}{#tl}"
+    new "Translation"
 
     # game/screens/gui/credits.rpy:49
     old "Icons"
-    new "Ikony{#mtl}{#tl}"
+    new "Icons"
 
     # game/screens/gui/credits.rpy:49
     old "Art"
-    new "Sztuka{#mtl}{#tl}"
+    new "Art"
 
     # game/screens/gui/credits.rpy:49
     old "Creepypasta"
-    new "Creepypasty{#mtl}{#tl}"
+    new "Creepypasta"
 
     # game/screens/gui/credits.rpy:49
     old "Contributed Code"
-    new "Kod przekazany{#mtl}{#tl}"
+    new "Contributed Code"
 
     # game/screens/gui/credits.rpy:49
     old "Models made in {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} by {a=http://www.illusion.jp}Illusion{/a}"
-    new "Modele wykonane w {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} przez {a=http://www.illusion.jp}Iluzję{/a}{#mtl}{#tl}"
+    new "Models made in {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} by {a=http://www.illusion.jp}Illusion{/a}"
+
+    # game/screens/gui/credits.rpy:128
+    old "Version [config.version!t]\n"
+    new "Version [config.version!t]\n"
+
+    # game/screens/gui/credits.rpy:131
+    old "\nSupporters:"
+    new "\nSupporters:"
+
+    # game/screens/gui/credits.rpy:136
+    old "\nLead Designer"
+    new "\nLead Designer"
+
+    # game/screens/gui/credits.rpy:139
+    old "\nLead Programmer"
+    new "\nLead Programmer"
+
+    # game/screens/gui/credits.rpy:142
+    old "\nLead Writer"
+    new "\nLead Writer"
+
+    # game/screens/gui/credits.rpy:143
+    old "Still Victorius"
+    new "Still Victorius"
+
+    # game/screens/gui/credits.rpy:145
+    old "\nWriter"
+    new "\nWriter"
+
+    # game/screens/gui/credits.rpy:148
+    old "\nText Editor:"
+    new "\nText Editor:"
+
+    # game/screens/gui/credits.rpy:151
+    old "\nTranslation"
+    new "\nTranslation"
+
+    # game/screens/gui/credits.rpy:154
+    old "\nMusic"
+    new "\nMusic"
+
+    # game/screens/gui/credits.rpy:157
+    old "\nSound"
+    new "\nSound"
+
+    # game/screens/gui/credits.rpy:160
+    old "\nIcons"
+    new "\nIcons"
+
+    # game/screens/gui/credits.rpy:163
+    old "\nArt"
+    new "\nArt"
+
+    # game/screens/gui/credits.rpy:166
+    old "\nCreepypasta"
+    new "\nCreepypasta"
+
+    # game/screens/gui/credits.rpy:169
+    old "\nContributed Code"
+    new "\nContributed Code"
+
+    # game/screens/gui/credits.rpy:172
+    old "\nPublic Relations"
+    new "\nPublic Relations"
+
+    # game/screens/gui/credits.rpy:175
+    old "\nCommunity Manager:"
+    new "\nCommunity Manager:"
+
+    # game/screens/gui/credits.rpy:179
+    old "\nModels made in {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} by {a=http://www.illusion.jp}Illusion{/a}"
+    new "\nModels made in {a=https://dlsoft.dmm.co.jp/detail/illusion_0030/}Honey Select 2{/a} by {a=http://www.illusion.jp}Illusion{/a}"
+

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-14 07:25
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/events/areas/ruins/sexshop.rpy:7
 translate polish ruins_sexshop_ce0f07bc:

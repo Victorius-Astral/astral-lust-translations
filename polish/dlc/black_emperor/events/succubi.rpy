@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-14 07:25
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/dlc/black_emperor/events/succubi.rpy:84
 translate polish catch_SuccubusC_7244ec59:
@@ -59,6 +59,70 @@ translate polish strings:
     # game/dlc/black_emperor/events/succubi.rpy:25
     old "{gold}[succC]{/gold}"
     new "{gold}[succC]{/gold}"
+
+    # game/dlc/black_emperor/events/succubi.rpy:27
+    old "\nEmotions"
+    new "\nEmotions"
+
+    # game/dlc/black_emperor/events/succubi.rpy:29
+    old "• {lust}Lust: "
+    new "• {lust}Lust: "
+
+    # game/dlc/black_emperor/events/succubi.rpy:30
+    old "• {lust}Critical lust: 100{/lust}"
+    new "• {lust}Critical lust: 100{/lust}"
+
+    # game/dlc/black_emperor/events/succubi.rpy:34
+    old "\nStatistics"
+    new "\nStatistics"
+
+    # game/dlc/black_emperor/events/succubi.rpy:36
+    old "• Blowjob: "
+    new "• Blowjob: "
+
+    # game/dlc/black_emperor/events/succubi.rpy:37
+    old "• Footjob: "
+    new "• Footjob: "
+
+    # game/dlc/black_emperor/events/succubi.rpy:38
+    old "• Vaginal: "
+    new "• Vaginal: "
+
+    # game/dlc/black_emperor/events/succubi.rpy:39
+    old "• Anal: "
+    new "• Anal: "
+
+    # game/dlc/black_emperor/events/succubi.rpy:40
+    old "• Cunnilingus: "
+    new "• Cunnilingus: "
+
+    # game/dlc/black_emperor/events/succubi.rpy:41
+    old "• BDSM: "
+    new "• BDSM: "
+
+    # game/dlc/black_emperor/events/succubi.rpy:42
+    old "• Orgasm Denial: "
+    new "• Orgasm Denial: "
+
+    # game/dlc/black_emperor/events/succubi.rpy:43
+    old "• Threesome: "
+    new "• Threesome: "
+
+    # game/dlc/black_emperor/events/succubi.rpy:44
+    old "• Lesbian: "
+    new "• Lesbian: "
+
+    # game/dlc/black_emperor/events/succubi.rpy:45
+    old "• Creampie: "
+    new "• Creampie: "
+
+    # game/dlc/black_emperor/events/succubi.rpy:46
+    old "• Came inside: "
+    new "• Came inside: "
+
+    # game/dlc/black_emperor/events/succubi.rpy:47
+    old "• Came outside: "
+    new "• Came outside: "
 
     # game/dlc/black_emperor/events/succubi.rpy:126
     old "Have fun >"

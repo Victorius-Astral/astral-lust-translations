@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-14 07:25
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/events/areas/slums.rpy:42
 translate polish exp_unlock_slums_8f68a858:
@@ -337,6 +337,10 @@ translate polish exp_unlock_slums_stash_248279fa:
     extend " This guy had a lot of good stuff hidden."
 
 translate polish strings:
+
+    # game/events/areas/slums.rpy:31
+    old "Bandit Girl"
+    new "Bandit Girl"
 
     # game/events/areas/slums.rpy:75
     old "Bandits"

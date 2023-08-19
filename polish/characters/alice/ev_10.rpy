@@ -1,634 +1,630 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
-# game/characters/alice/ev_10.rpy:14
+# game/characters/alice/ev_10.rpy:12
 translate polish alice_10_f60efb3c:
 
     # alice "Mhm, I feel much better now, thank you."
-    alice "Mhm, czuję się już dużo lepiej, dziękuję.{#mtl}{#tl}"
+    alice "Mhm, I feel much better now, thank you."
 
-# game/characters/alice/ev_10.rpy:15
+# game/characters/alice/ev_10.rpy:13
 translate polish alice_10_b10eb982:
 
     # me "I'm happy to be of help."
-    me "Cieszę się, że mogę pomóc.{#mtl}{#tl}"
+    me "I'm happy to be of help."
 
-# game/characters/alice/ev_10.rpy:20
+# game/characters/alice/ev_10.rpy:18
 translate polish alice_10_a318e8a3:
 
     # alice "You didn't come to ask this little girl to do anything naughty, right, mister?"
-    alice "Nie przyszedł pan prosić tę małą dziewczynkę o zrobienie czegoś niegrzecznego, prawda, proszę pana?{#mtl}{#tl}"
+    alice "You didn't come to ask this little girl to do anything naughty, right, mister?"
 
-# game/characters/alice/ev_10.rpy:21
+# game/characters/alice/ev_10.rpy:19
 translate polish alice_10_0faaa5ed:
 
     # me "Ha, you wish."
-    me "Ha, chciałbyś.{#mtl}{#tl}"
+    me "Ha, you wish."
 
-# game/characters/alice/ev_10.rpy:22
+# game/characters/alice/ev_10.rpy:20
 translate polish alice_10_647087e1:
 
     # alice "You don't want to then? That's good, I almost undressed for you.."
-    alice "Nie chcesz wtedy? To dobrze, prawie się dla ciebie rozebrałem..{#mtl}{#tl}"
+    alice "You don't want to then? That's good, I almost undressed for you.."
 
-# game/characters/alice/ev_10.rpy:23
+# game/characters/alice/ev_10.rpy:21
 translate polish alice_10_b920e932:
 
     # me "I never said I don't want to."
-    me "Nigdy nie powiedziałem, że nie chcę.{#mtl}{#tl}"
+    me "I never said I don't want to."
 
-# game/characters/alice/ev_10.rpy:24
+# game/characters/alice/ev_10.rpy:22
 translate polish alice_10_6b62c458:
 
     # alice "Oh?"
-    alice "Oh?{#mtl}{#tl}"
+    alice "Oh?"
 
-# game/characters/alice/ev_10.rpy:25
+# game/characters/alice/ev_10.rpy:23
 translate polish alice_10_cad5c0e5:
 
     # me "Don't tell me you're not horny right now."
-    me "Nie mów mi, że nie jesteś teraz napalony.{#mtl}{#tl}"
+    me "Don't tell me you're not horny right now."
 
-# game/characters/alice/ev_10.rpy:26
+# game/characters/alice/ev_10.rpy:24
 translate polish alice_10_8aecc055:
 
     # alice "What are you saying, mister.. I'm daddy's girl, I'm sooo innocent and well behaved.."
-    alice "Co ty mówisz, proszę pana.. Jestem córeczką tatusia, jestem taka niewinna i grzeczna..{#mtl}{#tl}"
+    alice "What are you saying, mister.. I'm daddy's girl, I'm sooo innocent and well behaved.."
 
-# game/characters/alice/ev_10.rpy:27
+# game/characters/alice/ev_10.rpy:25
 translate polish alice_10_19382b2b:
 
     # me "Yeah, I'm sure you want to come to this daddy."
-    me "Tak, jestem pewien, że chcesz przyjść do tego tatusia.{#mtl}{#tl}"
+    me "Yeah, I'm sure you want to come to this daddy."
 
-# game/characters/alice/ev_10.rpy:32
+# game/characters/alice/ev_10.rpy:30
 translate polish alice_10_41c9654b:
 
     # alice "Look, you've made me hot. Don't be naughty, daddy."
-    alice "Spójrz, rozgrzałeś mnie. Nie bądź niegrzeczny, tato.{#mtl}{#tl}"
+    alice "Look, you've made me hot. Don't be naughty, daddy."
 
-# game/characters/alice/ev_10.rpy:33
+# game/characters/alice/ev_10.rpy:31
 translate polish alice_10_dcfafa9f:
 
     # th "I love this roleplay."
-    th "Uwielbiam tę rolę.{#mtl}{#tl}"
+    th "I love this roleplay."
 
-# game/characters/alice/ev_10.rpy:34
+# game/characters/alice/ev_10.rpy:32
 translate polish alice_10_6149eefe:
 
     # me "You see, honey, daddy's horny."
-    me "Widzisz, kochanie, tatuś jest napalony.{#mtl}{#tl}"
+    me "You see, honey, daddy's horny."
 
-# game/characters/alice/ev_10.rpy:35
+# game/characters/alice/ev_10.rpy:33
 translate polish alice_10_07054fc4:
 
     # alice "Oh? What will we do with that?"
-    alice "Oh? Co z tym zrobimy?{#mtl}{#tl}"
+    alice "Oh? What will we do with that?"
 
-# game/characters/alice/ev_10.rpy:36
+# game/characters/alice/ev_10.rpy:34
 translate polish alice_10_7f987bd6:
 
     # me "The question is what you will do with that?"
-    me "Pytanie co z tym zrobisz?{#mtl}{#tl}"
+    me "The question is what you will do with that?"
 
-# game/characters/alice/ev_10.rpy:41
+# game/characters/alice/ev_10.rpy:39
 translate polish alice_10_d4e22fe8:
 
     # alice "[alice]? But I don't know what to do, daddy.."
-    alice "[alice]? Ale nie wiem co robić, tatusiu...{#mtl}{#tl}"
+    alice "[alice]? But I don't know what to do, daddy.."
 
-# game/characters/alice/ev_10.rpy:42
+# game/characters/alice/ev_10.rpy:40
 translate polish alice_10_3bd7c746:
 
     # me "I'm sure you'll work something out."
-    me "Jestem pewien, że coś wymyślisz.{#mtl}{#tl}"
+    me "I'm sure you'll work something out."
 
-# game/characters/alice/ev_10.rpy:47
+# game/characters/alice/ev_10.rpy:45
 translate polish alice_10_1854abac:
 
     # alice "Hmmm.. How about you lie down, daddy? [alice], will take care of you."
-    alice "Hmmm.. A może położysz się, tatusiu? [alice], zaopiekuje się tobą.{#mtl}{#tl}"
+    alice "Hmmm.. How about you lie down, daddy? [alice], will take care of you."
 
-# game/characters/alice/ev_10.rpy:50
+# game/characters/alice/ev_10.rpy:60
 translate polish alice_10_da600f48:
 
     # "You lie down."
-    "połóż się.{#mtl}{#tl}"
+    "You lie down."
 
-# game/characters/alice/ev_10.rpy:51
+# game/characters/alice/ev_10.rpy:61
 translate polish alice_10_61660bd0:
 
     # me "[alice]?"
-    me "[alice]?{#mtl}{#tl}"
+    me "[alice]?"
 
-# game/characters/alice/ev_10.rpy:52
+# game/characters/alice/ev_10.rpy:62
 translate polish alice_10_5ea2f352:
 
     # alice "Give me a moment, daddy! Don't look!"
-    alice "Daj mi chwilę, tatusiu! nie patrz!{#mtl}{#tl}"
+    alice "Give me a moment, daddy! Don't look!"
 
-# game/characters/alice/ev_10.rpy:53
+# game/characters/alice/ev_10.rpy:63
 translate polish alice_10_cd1dda61:
 
     # me "Take your time, but don't make daddy wait too long."
-    me "Nie spiesz się, ale nie każ tatusiowi czekać zbyt długo.{#mtl}{#tl}"
+    me "Take your time, but don't make daddy wait too long."
 
-# game/characters/alice/ev_10.rpy:54
+# game/characters/alice/ev_10.rpy:64
 translate polish alice_10_95b3f10d:
 
     # alice "Of course, daddy."
-    alice "Oczywiście, tatusiu.{#mtl}{#tl}"
+    alice "Of course, daddy."
 
-# game/characters/alice/ev_10.rpy:59
+# game/characters/alice/ev_10.rpy:69
 translate polish alice_10_3bf869f9:
 
     # "Soon [alice] stands before you, in a nightdress."
-    "Wkrótce [alice] stoi przed tobą w koszuli nocnej.{#mtl}{#tl}"
+    "Soon [alice] stands before you, in a nightdress."
 
-# game/characters/alice/ev_10.rpy:60
+# game/characters/alice/ev_10.rpy:70
 translate polish alice_10_9c6fbd7b:
 
     # alice "Do you like my nightdress daddy?"
-    alice "Podoba ci się mój tatuś w koszuli nocnej?{#mtl}{#tl}"
+    alice "Do you like my nightdress daddy?"
 
-# game/characters/alice/ev_10.rpy:61
+# game/characters/alice/ev_10.rpy:71
 translate polish alice_10_4befe67e:
 
     # me "It's lovely."
-    me "To jest piękne.{#mtl}{#tl}"
+    me "It's lovely."
 
-# game/characters/alice/ev_10.rpy:64
+# game/characters/alice/ev_10.rpy:74
 translate polish alice_10_7839452d:
 
     # alice "Thank you daddy."
-    alice "Dziękuję tatusiu.{#mtl}{#tl}"
+    alice "Thank you daddy."
 
-# game/characters/alice/ev_10.rpy:67
+# game/characters/alice/ev_10.rpy:77
 translate polish alice_10_32f12d93:
 
     # alice "Let's play daddy."
-    alice "Pobawmy się w tatę.{#mtl}{#tl}"
+    alice "Let's play daddy."
 
-# game/characters/alice/ev_10.rpy:68
+# game/characters/alice/ev_10.rpy:78
 translate polish alice_10_c854a4d6:
 
     # me "I said, don't let me wait."
-    me "Powiedziałem, nie pozwól mi czekać.{#mtl}{#tl}"
+    me "I said, don't let me wait."
 
-# game/characters/alice/ev_10.rpy:69
+# game/characters/alice/ev_10.rpy:79
 translate polish alice_10_95b3f10d_1:
 
     # alice "Of course, daddy."
-    alice "Oczywiście, tatusiu.{#mtl}{#tl}"
+    alice "Of course, daddy."
 
-# game/characters/alice/ev_10.rpy:78
+# game/characters/alice/ev_10.rpy:87
 translate polish alice_10_1073ebf4:
 
     # "[alice] started to blow you. Her little tongue dancing around your shaft like a snake."
-    "[alice] zaczął cię dmuchać. Jej mały język tańczy wokół twojego penisa jak wąż.{#mtl}{#tl}"
+    "[alice] started to blow you. Her little tongue dancing around your shaft like a snake."
 
-# game/characters/alice/ev_10.rpy:79
+# game/characters/alice/ev_10.rpy:88
 translate polish alice_10_4feccafa:
 
     # me "Mmm. Good girl."
-    me "mmm. Dobra dziewczynka.{#mtl}{#tl}"
+    me "Mmm. Good girl."
 
-# game/characters/alice/ev_10.rpy:80
+# game/characters/alice/ev_10.rpy:91
 translate polish alice_10_74da33f9:
 
     # alice "Mghmm."
-    alice "Mghmm.{#mtl}{#tl}"
+    alice "Mghmm."
 
-# game/characters/alice/ev_10.rpy:81
+# game/characters/alice/ev_10.rpy:92
 translate polish alice_10_947a6876:
 
     # me "Wait."
-    me "Czekać.{#mtl}{#tl}"
+    me "Wait."
 
-# game/characters/alice/ev_10.rpy:84
+# game/characters/alice/ev_10.rpy:96
 translate polish alice_10_b5b680d1:
 
     # alice "Did [alice] do something wrong, daddy?"
-    alice "Czy [alice] zrobić coś nie tak, tatusiu?{#mtl}{#tl}"
+    alice "Did [alice] do something wrong, daddy?"
 
-# game/characters/alice/ev_10.rpy:85
+# game/characters/alice/ev_10.rpy:97
 translate polish alice_10_819df3d4:
 
     # me "No. But I think it's time to do something else."
-    me "Nie. Ale myślę, że czas zrobić coś innego.{#mtl}{#tl}"
+    me "No. But I think it's time to do something else."
 
-# game/characters/alice/ev_10.rpy:88
+# game/characters/alice/ev_10.rpy:100
 translate polish alice_10_ed3fbe5c:
 
     # alice "What do you want to do?"
-    alice "Co chcesz robić?{#mtl}{#tl}"
+    alice "What do you want to do?"
 
-# game/characters/alice/ev_10.rpy:89
+# game/characters/alice/ev_10.rpy:101
 translate polish alice_10_10253644:
 
     # me "I want to make you my woman."
-    me "Chcę uczynić cię moją kobietą.{#mtl}{#tl}"
+    me "I want to make you my woman."
 
-# game/characters/alice/ev_10.rpy:92
+# game/characters/alice/ev_10.rpy:104
 translate polish alice_10_0cbf2496:
 
     # alice "You want to.."
-    alice "Chcesz..{#mtl}{#tl}"
+    alice "You want to.."
 
-# game/characters/alice/ev_10.rpy:93
+# game/characters/alice/ev_10.rpy:105
 translate polish alice_10_78419f13:
 
     # me "Let's have sex, [alice]."
-    me "Uprawiajmy seks, [alice].{#mtl}{#tl}"
+    me "Let's have sex, [alice]."
 
-# game/characters/alice/ev_10.rpy:94
+# game/characters/alice/ev_10.rpy:106
 translate polish alice_10_74f05a4e:
 
     # alice "..."
-    alice "...{#mtl}{#tl}"
+    alice "..."
 
-# game/characters/alice/ev_10.rpy:97
+# game/characters/alice/ev_10.rpy:109
 translate polish alice_10_0b19baa3:
 
     # alice "I-I.."
-    alice "ja-ja..{#mtl}{#tl}"
+    alice "I-I.."
 
-# game/characters/alice/ev_10.rpy:101
+# game/characters/alice/ev_10.rpy:113
 translate polish alice_10_9ee2f291:
 
     # me "You're my girlfriend [alice], I want us to become even closer."
-    me "Jesteś moją dziewczyną [alice], chcę, żebyśmy się jeszcze bardziej zbliżyli.{#mtl}{#tl}"
+    me "You're my girlfriend [alice], I want us to become even closer."
 
-# game/characters/alice/ev_10.rpy:104
+# game/characters/alice/ev_10.rpy:116
 translate polish alice_10_a68a493e:
 
     # me "I love you."
-    me "Kocham cię.{#mtl}{#tl}"
+    me "I love you."
 
-# game/characters/alice/ev_10.rpy:107
+# game/characters/alice/ev_10.rpy:119
 translate polish alice_10_d24ffae9:
 
     # alice "Do you, really love me?"
-    alice "Czy naprawdę mnie kochasz?{#mtl}{#tl}"
+    alice "Do you, really love me?"
 
-# game/characters/alice/ev_10.rpy:108
+# game/characters/alice/ev_10.rpy:120
 translate polish alice_10_3c16d757:
 
     # me "Of course, babe. I love you, Alice."
-    me "Oczywiście kochana. Kocham cię, Alicjo.{#mtl}{#tl}"
+    me "Of course, babe. I love you, Alice."
 
-# game/characters/alice/ev_10.rpy:111
+# game/characters/alice/ev_10.rpy:123
 translate polish alice_10_b4d47dae:
 
     # alice "I love you too."
-    alice "Ja też cię kocham.{#mtl}{#tl}"
+    alice "I love you too."
 
-# game/characters/alice/ev_10.rpy:112
+# game/characters/alice/ev_10.rpy:124
 translate polish alice_10_aa93b10c:
 
     # me "Good girl."
-    me "Dobra dziewczynka.{#mtl}{#tl}"
+    me "Good girl."
 
-# game/characters/alice/ev_10.rpy:116
+# game/characters/alice/ev_10.rpy:128
 translate polish alice_10_5df87efc:
 
     # me "Don't be scared. Don't you like me?"
-    me "Nie bój się. nie lubisz mnie?{#mtl}{#tl}"
+    me "Don't be scared. Don't you like me?"
 
-# game/characters/alice/ev_10.rpy:119
+# game/characters/alice/ev_10.rpy:131
 translate polish alice_10_02353eea:
 
     # alice "I do, I like you very much.."
-    alice "tak, bardzo mi sie podobasz..{#mtl}{#tl}"
+    alice "I do, I like you very much.."
 
-# game/characters/alice/ev_10.rpy:120
+# game/characters/alice/ev_10.rpy:132
 translate polish alice_10_a46fa32c:
 
     # me "I like you too."
-    me "Też cię lubię.{#mtl}{#tl}"
+    me "I like you too."
 
-# game/characters/alice/ev_10.rpy:123
+# game/characters/alice/ev_10.rpy:135
 translate polish alice_10_bc0b8d6a:
 
     # me "Let's be together, as a couple."
-    me "Bądźmy razem, jako para.{#mtl}{#tl}"
+    me "Let's be together, as a couple."
 
-# game/characters/alice/ev_10.rpy:126
+# game/characters/alice/ev_10.rpy:138
 translate polish alice_10_f6361cdf:
 
     # alice "Will you give up on the other girls for me?"
-    alice "Zrezygnujesz dla mnie z innych dziewczyn?{#mtl}{#tl}"
+    alice "Will you give up on the other girls for me?"
 
-# game/characters/alice/ev_10.rpy:131
+# game/characters/alice/ev_10.rpy:143
 translate polish alice_10_ae1387b4:
 
     # alice "I know that's a lie."
-    alice "Wiem, że to kłamstwo.{#mtl}{#tl}"
+    alice "I know that's a lie."
 
-# game/characters/alice/ev_10.rpy:132
+# game/characters/alice/ev_10.rpy:144
 translate polish alice_10_4989fe05:
 
-    # me "I.."
-    me "I..{#mtl}{#tl}"
+    # me "I-" id alice_10_4989fe05
+    me "I-" id alice_10_4989fe05
 
-# game/characters/alice/ev_10.rpy:133
+# game/characters/alice/ev_10.rpy:145
 translate polish alice_10_f9e82162:
 
     # alice "Shh.."
-    alice "Ciii..{#mtl}{#tl}"
+    alice "Shh.."
 
-# game/characters/alice/ev_10.rpy:135
+# game/characters/alice/ev_10.rpy:147
 translate polish alice_10_6c5774fc:
 
     # alice "It's okay. Thank you for saying this, though."
-    alice "Jest w porządku. Dziękuję jednak, że to powiedziałeś.{#mtl}{#tl}"
+    alice "It's okay. Thank you for saying this, though."
 
-# game/characters/alice/ev_10.rpy:140
+# game/characters/alice/ev_10.rpy:152
 translate polish alice_10_9c49b15d:
 
     # alice "I know."
-    alice "Ja wiem.{#mtl}{#tl}"
+    alice "I know."
 
-# game/characters/alice/ev_10.rpy:141
+# game/characters/alice/ev_10.rpy:153
 translate polish alice_10_49584483:
 
     # me "I'm sorry."
-    me "Przepraszam.{#mtl}{#tl}"
+    me "I'm sorry."
 
-# game/characters/alice/ev_10.rpy:142
+# game/characters/alice/ev_10.rpy:154
 translate polish alice_10_a33519d3:
 
     # alice "That's alright. I knew it for some time already."
-    alice "Jest w porządku. Wiedziałem to już od jakiegoś czasu.{#mtl}{#tl}"
+    alice "That's alright. I knew it for some time already."
 
-# game/characters/alice/ev_10.rpy:147
+# game/characters/alice/ev_10.rpy:159
 translate polish alice_10_part2_365e3b53:
 
     # me "Will you let me be your man?"
-    me "Czy pozwolisz mi być twoim mężczyzną?{#mtl}{#tl}"
+    me "Will you let me be your man?"
 
-# game/characters/alice/ev_10.rpy:148
+# game/characters/alice/ev_10.rpy:160
 translate polish alice_10_part2_74f05a4e:
 
     # alice "..."
-    alice "...{#mtl}{#tl}"
+    alice "..."
 
-# game/characters/alice/ev_10.rpy:156
+# game/characters/alice/ev_10.rpy:168
 translate polish alice_10_part3_974176ba:
 
     # alice "Fuck your little girlfriend, daddy~"
-    alice "Pieprz swoją małą dziewczynkę, tatusiu~{#mtl}{#tl}"
+    alice "Fuck your little girlfriend, daddy~"
 
-# game/characters/alice/ev_10.rpy:157
+# game/characters/alice/ev_10.rpy:169
 translate polish alice_10_part3_aa93b10c:
 
     # me "Good girl."
-    me "Dobra dziewczynka.{#mtl}{#tl}"
+    me "Good girl."
 
-# game/characters/alice/ev_10.rpy:158
+# game/characters/alice/ev_10.rpy:172
 translate polish alice_10_part3_f968e0b2:
 
     # alice "Mhm~"
-    alice "Mhm~{#mtl}{#tl}"
+    alice "Mhm~"
 
-# game/characters/alice/ev_10.rpy:168
+# game/characters/alice/ev_10.rpy:176
 translate polish alice_10_part3_f32f628a:
 
     # "You don't wait and instead enter her wet pussy in a blink of an eye."
-    "Nie czekasz i zamiast tego wchodzisz w jej mokrą cipkę w mgnieniu oka.{#mtl}{#tl}"
+    "You don't wait and instead enter her wet pussy in a blink of an eye."
 
-# game/characters/alice/ev_10.rpy:169
+# game/characters/alice/ev_10.rpy:180
 translate polish alice_10_part3_63fefc72:
 
     # alice "Ahmnmm!!~"
-    alice "Ahmmm!!~{#mtl}{#tl}"
+    alice "Ahmnmm!!~"
 
-# game/characters/alice/ev_10.rpy:170
+# game/characters/alice/ev_10.rpy:181
 translate polish alice_10_part3_1e0a78fd:
 
     # "[alice] let out a loud shout filled with a little bit of pain suppressed by the pleasure."
-    "[alice] wydał z siebie głośny okrzyk przepełniony odrobiną bólu stłumionego przez przyjemność.{#mtl}{#tl}"
+    "[alice] let out a loud shout filled with a little bit of pain suppressed by the pleasure."
 
-# game/characters/alice/ev_10.rpy:171
+# game/characters/alice/ev_10.rpy:185
 translate polish alice_10_part3_38c341ab:
 
     # alice "Mhmnhn~"
-    alice "Mhmn~{#mtl}{#tl}"
+    alice "Mhmnhn~"
 
-# game/characters/alice/ev_10.rpy:172
+# game/characters/alice/ev_10.rpy:189
 translate polish alice_10_part3_a80d6c56:
 
     # alice "Fuck~ Fuck me, daddy! Fuck your little girl~ It feels so good!"
-    alice "Kurwa~ Pieprz mnie, tatusiu! Pieprz swoją małą dziewczynkę~ To takie dobre uczucie!{#mtl}{#tl}"
+    alice "Fuck~ Fuck me, daddy! Fuck your little girl~ It feels so good!"
 
-# game/characters/alice/ev_10.rpy:173
+# game/characters/alice/ev_10.rpy:190
 translate polish alice_10_part3_3951cfbc:
 
     # me "Ahh! You're so tight.."
-    me "Ach! Jesteś taki ciasny..{#mtl}{#tl}"
+    me "Ahh! You're so tight.."
 
-# game/characters/alice/ev_10.rpy:174
+# game/characters/alice/ev_10.rpy:191
 translate polish alice_10_part3_8bf5efba:
 
     # "Her pussy is exceptionally tight, it's hard to move, but at the same time it's beyond nice."
-    "Jej cipka jest wyjątkowo ciasna, trudno nią się poruszać, ale jednocześnie jest to więcej niż przyjemne.{#mtl}{#tl}"
+    "Her pussy is exceptionally tight, it's hard to move, but at the same time it's beyond nice."
 
-# game/characters/alice/ev_10.rpy:184
+# game/characters/alice/ev_10.rpy:196
 translate polish alice_10_part3_388a1480:
 
     # alice "Ahmn~"
-    alice "Ahm~{#mtl}{#tl}"
+    alice "Ahmn~"
 
-# game/characters/alice/ev_10.rpy:185
+# game/characters/alice/ev_10.rpy:198
 translate polish alice_10_part3_40976ab2:
 
     # me "Ohh.."
-    me "Och..{#mtl}{#tl}"
+    me "Ohh.."
 
-# game/characters/alice/ev_10.rpy:187
+# game/characters/alice/ev_10.rpy:200
 translate polish alice_10_part3_981bc7a1:
 
     # alice "Your dick is the best, daddy~"
-    alice "Twój kutas jest najlepszy, tatusiu~{#mtl}{#tl}"
+    alice "Your dick is the best, daddy~"
 
-# game/characters/alice/ev_10.rpy:188
+# game/characters/alice/ev_10.rpy:205
 translate polish alice_10_part3_b4257d71:
 
     # alice "Fuck me more, harder!"
-    alice "Pieprz mnie więcej, mocniej!{#mtl}{#tl}"
+    alice "Fuck me more, harder!"
 
-# game/characters/alice/ev_10.rpy:198
+# game/characters/alice/ev_10.rpy:211
 translate polish alice_10_part3_ad1fcfae:
 
     # alice "Ahhmn!!~"
-    alice "Ahhm!!~{#mtl}{#tl}"
+    alice "Ahhmn!!~"
 
-# game/characters/alice/ev_10.rpy:199
+# game/characters/alice/ev_10.rpy:212
 translate polish alice_10_part3_4ff42f79:
 
     # me "How could I say no to my little girl."
-    me "Jak mogłem odmówić mojej małej dziewczynce.{#mtl}{#tl}"
+    me "How could I say no to my little girl."
 
-# game/characters/alice/ev_10.rpy:200
+# game/characters/alice/ev_10.rpy:216
 translate polish alice_10_part3_cf76ec19:
 
     # alice "Mmmmm~"
-    alice "Mmmmm~{#mtl}{#tl}"
+    alice "Mmmmm~"
 
-# game/characters/alice/ev_10.rpy:201
+# game/characters/alice/ev_10.rpy:217
 translate polish alice_10_part3_79dfe51e:
 
     # alice "I'm close!~"
-    alice "Jestem blisko!~{#mtl}{#tl}"
+    alice "I'm close!~"
 
-# game/characters/alice/ev_10.rpy:209
+# game/characters/alice/ev_10.rpy:226
 translate polish alice_10_part3_2f3d23c6:
 
     # "You are cumming!"
-    "Cumujesz!{#mtl}{#tl}"
+    "You are cumming!"
 
-# game/characters/alice/ev_10.rpy:210
+# game/characters/alice/ev_10.rpy:228
 translate polish alice_10_part3_7459a238:
 
     # alice "Ahmnn~"
-    alice "Ahmn~{#mtl}{#tl}"
+    alice "Ahmnn~"
 
-# game/characters/alice/ev_10.rpy:216
+# game/characters/alice/ev_10.rpy:235
 translate polish alice_10_part3_5d2f0ca8:
 
     # alice "Ahh.."
-    alice "Ahh..{#mtl}{#tl}"
+    alice "Ahh.."
 
-# game/characters/alice/ev_10.rpy:217
+# game/characters/alice/ev_10.rpy:236
 translate polish alice_10_part3_4f5b42dd:
 
     # alice "S-Sooo gooood, daddy~"
-    alice "S-taki dobry, tatusiu~{#mtl}{#tl}"
+    alice "S-Sooo gooood, daddy~"
 
-# game/characters/alice/ev_10.rpy:218
+# game/characters/alice/ev_10.rpy:237
 translate polish alice_10_part3_5cf833a6:
 
     # me "I'm happy I got my little girlfriend happy."
-    me "Cieszę się, że uszczęśliwiłem moją małą dziewczynkę.{#mtl}{#tl}"
+    me "I'm happy I got my little girlfriend happy."
 
-# game/characters/alice/ev_10.rpy:224
+# game/characters/alice/ev_10.rpy:244
 translate polish alice_10_part3_41370fb2:
 
     # alice "I want to sleep, [me]. I'm tired."
-    alice "Chcę spać, [me]. Jestem zmęczony.{#mtl}{#tl}"
+    alice "I want to sleep, [me]. I'm tired."
 
-# game/characters/alice/ev_10.rpy:225
+# game/characters/alice/ev_10.rpy:245
 translate polish alice_10_part3_89aa34d6:
 
     # me "Want me to stay?"
-    me "Chcesz, żebym został?{#mtl}{#tl}"
+    me "Want me to stay?"
 
-# game/characters/alice/ev_10.rpy:226
+# game/characters/alice/ev_10.rpy:246
 translate polish alice_10_part3_c2cf6768:
 
     # alice "That's sweet, but no need."
-    alice "To słodkie, ale nie ma takiej potrzeby.{#mtl}{#tl}"
+    alice "That's sweet, but no need."
 
-# game/characters/alice/ev_10.rpy:227
+# game/characters/alice/ev_10.rpy:247
 translate polish alice_10_part3_b88f58d8:
 
     # me "As you wish, dear."
-    me "Jak sobie życzysz mój drogi.{#mtl}{#tl}"
+    me "As you wish, dear."
 
-# game/characters/alice/ev_10.rpy:228
+# game/characters/alice/ev_10.rpy:250
 translate polish alice_10_part3_ce111e9e:
 
     # alice "Mm."
-    alice "mmm{#mtl}{#tl}"
+    alice "Mm."
 
-# game/characters/alice/ev_10.rpy:229
+# game/characters/alice/ev_10.rpy:251
 translate polish alice_10_part3_8e0312e6:
 
     # "You leave her to rest."
-    "Zostawiasz ją, żeby odpoczęła.{#mtl}{#tl}"
+    "You leave her to rest."
 
-# game/characters/alice/ev_10.rpy:241
+# game/characters/alice/ev_10.rpy:270
 translate polish alice_10_part3_2f3d23c6_1:
 
     # "You are cumming!"
-    "Cumujesz!{#mtl}{#tl}"
+    "You are cumming!"
 
-# game/characters/alice/ev_10.rpy:247
+# game/characters/alice/ev_10.rpy:277
 translate polish alice_10_part3_5d2f0ca8_1:
 
     # alice "Ahh.."
-    alice "Ahh..{#mtl}{#tl}"
+    alice "Ahh.."
 
-# game/characters/alice/ev_10.rpy:248
+# game/characters/alice/ev_10.rpy:280
 translate polish alice_10_part3_4f5b42dd_1:
 
     # alice "S-Sooo gooood, daddy~"
-    alice "S-taki dobry, tatusiu~{#mtl}{#tl}"
+    alice "S-Sooo gooood, daddy~"
 
-# game/characters/alice/ev_10.rpy:249
+# game/characters/alice/ev_10.rpy:281
 translate polish alice_10_part3_5cf833a6_1:
 
     # me "I'm happy I got my little girlfriend happy."
-    me "Cieszę się, że uszczęśliwiłem moją małą dziewczynkę.{#mtl}{#tl}"
+    me "I'm happy I got my little girlfriend happy."
 
-# game/characters/alice/ev_10.rpy:255
+# game/characters/alice/ev_10.rpy:287
 translate polish alice_10_part3_41370fb2_1:
 
     # alice "I want to sleep, [me]. I'm tired."
-    alice "Chcę spać, [me]. Jestem zmęczony.{#mtl}{#tl}"
+    alice "I want to sleep, [me]. I'm tired."
 
-# game/characters/alice/ev_10.rpy:256
+# game/characters/alice/ev_10.rpy:288
 translate polish alice_10_part3_89aa34d6_1:
 
     # me "Want me to stay?"
-    me "Chcesz, żebym został?{#mtl}{#tl}"
+    me "Want me to stay?"
 
-# game/characters/alice/ev_10.rpy:257
+# game/characters/alice/ev_10.rpy:289
 translate polish alice_10_part3_c2cf6768_1:
 
     # alice "That's sweet, but no need."
-    alice "To słodkie, ale nie ma takiej potrzeby.{#mtl}{#tl}"
+    alice "That's sweet, but no need."
 
-# game/characters/alice/ev_10.rpy:258
+# game/characters/alice/ev_10.rpy:290
 translate polish alice_10_part3_b88f58d8_1:
 
     # me "As you wish, dear."
-    me "Jak sobie życzysz mój drogi.{#mtl}{#tl}"
+    me "As you wish, dear."
 
-# game/characters/alice/ev_10.rpy:259
+# game/characters/alice/ev_10.rpy:293
 translate polish alice_10_part3_ce111e9e_1:
 
     # alice "Mm."
-    alice "mmm{#mtl}{#tl}"
+    alice "Mm."
 
-# game/characters/alice/ev_10.rpy:260
+# game/characters/alice/ev_10.rpy:294
 translate polish alice_10_part3_8e0312e6_1:
 
     # "You leave her to rest."
-    "Zostawiasz ją, żeby odpoczęła.{#mtl}{#tl}"
-
-translate polish strings:
-
-    # game/characters/alice/ev_10.rpy:128
-    old "Of course, only you matter to me"
-    new "Oczywiście, tylko ty się dla mnie liczysz{#mtl}{#tl}"
-
-    # game/characters/alice/ev_10.rpy:128
-    old "Sorry, I can't do this"
-    new "Przepraszam, nie mogę tego zrobić{#mtl}{#tl}"
-
-    # game/characters/alice/ev_10.rpy:204
-    old "Cum inside"
-    new "Sperma w środku{#mtl}{#tl}"
-
-    # game/characters/alice/ev_10.rpy:204
-    old "Cum outside"
-    new "Dyplom na zewnątrz{#mtl}{#tl}"
-
-# TODO: Translation updated at 2022-01-31 15:20
+    "You leave her to rest."
 
 translate polish strings:
 
     # game/characters/alice/ev_10.rpy:49
     old "She's officially my girl now."
-    new "Jest teraz oficjalnie moją dziewczyną.{#mtl}{#tl}"
+    new "She's officially my girl now."
+
+    # game/characters/alice/ev_10.rpy:140
+    old "Of course, only you matter to me"
+    new "Of course, only you matter to me"
+
+    # game/characters/alice/ev_10.rpy:140
+    old "Sorry, I can't do this"
+    new "Sorry, I can't do this"
+
+    # game/characters/alice/ev_10.rpy:219
+    old "Cum inside"
+    new "Cum inside"
+
+    # game/characters/alice/ev_10.rpy:219
+    old "Cum outside"
+    new "Cum outside"
 

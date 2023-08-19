@@ -1,368 +1,372 @@
-﻿# TODO: Translation updated at 2022-02-16 09:42
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
-# game/characters/kiara/threesome_1.rpy:66
+# game/characters/kiara/threesome_1.rpy:86
 translate polish kiara_threesome_1_27d8e24f:
 
     # me "Whoah?! What the hell?"
-    me "Kto?! Co do cholery?{#mtl}{#tl}"
+    me "Whoah?! What the hell?"
 
-# game/characters/kiara/threesome_1.rpy:67
+# game/characters/kiara/threesome_1.rpy:87
 translate polish kiara_threesome_1_aca246a9:
 
     # kiara "I can make a second me, of course I can make a second you."
-    kiara "Mogę zrobić drugiego mnie, oczywiście, że mogę zrobić drugiego ciebie.{#mtl}{#tl}"
+    kiara "I can make a second me, of course I can make a second you."
 
-# game/characters/kiara/threesome_1.rpy:68
+# game/characters/kiara/threesome_1.rpy:88
 translate polish kiara_threesome_1_3820771a:
 
     # me "..."
-    me "...{#mtl}{#tl}"
+    me "..."
 
-# game/characters/kiara/threesome_1.rpy:69
+# game/characters/kiara/threesome_1.rpy:89
 translate polish kiara_threesome_1_0f24edbf:
 
     # kiara "Do you want to join us?"
-    kiara "Chcesz do nas dołączyć?{#mtl}{#tl}"
+    kiara "Do you want to join us?"
 
-# game/characters/kiara/threesome_1.rpy:70
+# game/characters/kiara/threesome_1.rpy:90
 translate polish kiara_threesome_1_be9c3b62:
 
     # me "That's me.."
-    me "To ja..{#mtl}{#tl}"
+    me "That's me.."
 
-# game/characters/kiara/threesome_1.rpy:71
+# game/characters/kiara/threesome_1.rpy:91
 translate polish kiara_threesome_1_456751a4:
 
     # kiara "Physically, yes."
-    kiara "Fizycznie tak.{#mtl}{#tl}"
+    kiara "Physically, yes."
 
-# game/characters/kiara/threesome_1.rpy:72
+# game/characters/kiara/threesome_1.rpy:92
 translate polish kiara_threesome_1_3249e740:
 
     # me "That's weird."
-    me "To jest dziwne.{#mtl}{#tl}"
+    me "That's weird."
 
-# game/characters/kiara/threesome_1.rpy:73
+# game/characters/kiara/threesome_1.rpy:93
 translate polish kiara_threesome_1_7844a580:
 
     # kiara "You're free to leave then."
-    kiara "W takim razie możesz wyjść.{#mtl}{#tl}"
+    kiara "You're free to leave then."
 
-# game/characters/kiara/threesome_1.rpy:74
+# game/characters/kiara/threesome_1.rpy:94
 translate polish kiara_threesome_1_83d0c447:
 
     # me "Do you often fuck my clone?"
-    me "Czy często pieprzysz mojego klona?{#mtl}{#tl}"
+    me "Do you often fuck my clone?"
 
-# game/characters/kiara/threesome_1.rpy:75
+# game/characters/kiara/threesome_1.rpy:95
 translate polish kiara_threesome_1_40723b27:
 
     # kiara "No, it's no fun if the original doesn't participate."
-    kiara "Nie, to nie jest zabawne, jeśli oryginał nie uczestniczy.{#mtl}{#tl}"
+    kiara "No, it's no fun if the original doesn't participate."
 
-# game/characters/kiara/threesome_1.rpy:76
+# game/characters/kiara/threesome_1.rpy:96
 translate polish kiara_threesome_1_8566f0df:
 
     # me "You said I can leave you two.."
-    me "Powiedziałeś, że mogę zostawić was dwoje..{#mtl}{#tl}"
+    me "You said I can leave you two.."
 
-# game/characters/kiara/threesome_1.rpy:77
+# game/characters/kiara/threesome_1.rpy:97
 translate polish kiara_threesome_1_d254de82:
 
     # kiara "It's your fault for making me so horny."
-    kiara "To twoja wina, że ​​tak mnie podniecasz.{#mtl}{#tl}"
+    kiara "It's your fault for making me so horny."
 
-# game/characters/kiara/threesome_1.rpy:78
+# game/characters/kiara/threesome_1.rpy:98
 translate polish kiara_threesome_1_f580a9e7:
 
     # me "But you just cummed twice.."
-    me "Ale skończyłeś dwa razy..{#mtl}{#tl}"
+    me "But you just cummed twice.."
 
-# game/characters/kiara/threesome_1.rpy:81
+# game/characters/kiara/threesome_1.rpy:101
 translate polish kiara_threesome_1_7dc35976:
 
     # kiara "So? Do you want to join?" nointeract
-    kiara "Więc? Chcesz dołączyć?{#mtl}{#tl}" nointeract
+    kiara "So? Do you want to join?" nointeract
 
-# game/characters/kiara/threesome_1.rpy:87
+# game/characters/kiara/threesome_1.rpy:107
 translate polish kiara_threesome_1_5257a991:
 
     # kiara "You don't know what you lose."
-    kiara "Nie wiesz, co tracisz.{#mtl}{#tl}"
+    kiara "You don't know what you lose."
 
-# game/characters/kiara/threesome_1.rpy:88
+# game/characters/kiara/threesome_1.rpy:108
 translate polish kiara_threesome_1_d66bbce2:
 
     # me "Well, have fun I guess."
-    me "Cóż, baw się dobrze.{#mtl}{#tl}"
+    me "Well, have fun I guess."
 
-# game/characters/kiara/threesome_1.rpy:89
+# game/characters/kiara/threesome_1.rpy:109
 translate polish kiara_threesome_1_570a1883:
 
     # me "It's too much for me, though. Send me home."
-    me "To jednak dla mnie za dużo. Wyślij mnie do domu.{#mtl}{#tl}"
+    me "It's too much for me, though. Send me home."
 
-# game/characters/kiara/threesome_1.rpy:90
+# game/characters/kiara/threesome_1.rpy:110
 translate polish kiara_threesome_1_9bf635c0:
 
     # kiara "Haha, okay."
-    kiara "Ha ha, okej.{#mtl}{#tl}"
+    kiara "Haha, okay."
 
-# game/characters/kiara/threesome_1.rpy:94
+# game/characters/kiara/threesome_1.rpy:114
 translate polish kiara_threesome_1_762abff7:
 
     # me "Oh?"
-    me "Oh?{#mtl}{#tl}"
+    me "Oh?"
 
-# game/characters/kiara/threesome_1.rpy:95
+# game/characters/kiara/threesome_1.rpy:115
 translate polish kiara_threesome_1_0ccfd8f0:
 
     # kiara "I said it's not fun without an original."
-    kiara "Powiedziałem, że bez oryginału nie ma zabawy.{#mtl}{#tl}"
+    kiara "I said it's not fun without an original."
 
-# game/characters/kiara/threesome_1.rpy:96
+# game/characters/kiara/threesome_1.rpy:116
 translate polish kiara_threesome_1_a295f1e0:
 
     # me "I certainly feel relieved, though."
-    me "Chociaż na pewno czuję ulgę.{#mtl}{#tl}"
+    me "I certainly feel relieved, though."
 
-# game/characters/kiara/threesome_1.rpy:106
+# game/characters/kiara/threesome_1.rpy:126
 translate polish kiara_threesome_1_part2_a1d67fee:
 
     # me "I can't believe I'm going to have a threesome with myself..."
-    me "Nie mogę uwierzyć, że będę uprawiać trójkąt ze sobą...{#mtl}{#tl}"
+    me "I can't believe I'm going to have a threesome with myself..."
 
-# game/characters/kiara/threesome_1.rpy:107
+# game/characters/kiara/threesome_1.rpy:127
 translate polish kiara_threesome_1_part2_47566410:
 
     # kiara "Hehe~"
-    kiara "Hehe~{#mtl}{#tl}"
+    kiara "Hehe~"
 
-# game/characters/kiara/threesome_1.rpy:108
+# game/characters/kiara/threesome_1.rpy:128
 translate polish kiara_threesome_1_part2_e87c2ec1:
 
     # me "You're a little slut, [kiara]."
-    me "Jesteś małą dziwką, [kiara].{#mtl}{#tl}"
+    me "You're a little slut, [kiara]."
 
-# game/characters/kiara/threesome_1.rpy:109
+# game/characters/kiara/threesome_1.rpy:129
 translate polish kiara_threesome_1_part2_167e7b0a:
 
     # kiara "You're no better."
-    kiara "Nie jesteś lepszy.{#mtl}{#tl}"
+    kiara "You're no better."
 
-# game/characters/kiara/threesome_1.rpy:110
+# game/characters/kiara/threesome_1.rpy:130
 translate polish kiara_threesome_1_part2_a5a617b5:
 
     # me "Indeed, let's fall into deprivation together."
-    me "Rzeczywiście, popadnijmy razem w niedostatek.{#mtl}{#tl}"
+    me "Indeed, let's fall into deprivation together."
 
-# game/characters/kiara/threesome_1.rpy:117
+# game/characters/kiara/threesome_1.rpy:137
 translate polish kiara_threesome_1_slow_3509a77a:
 
     # me "Is he controlled by you?"
-    me "Czy jest przez ciebie kontrolowany?{#mtl}{#tl}"
+    me "Is he controlled by you?"
 
-# game/characters/kiara/threesome_1.rpy:118
+# game/characters/kiara/threesome_1.rpy:138
 translate polish kiara_threesome_1_slow_5d0a28b6:
 
     # kiara "Not exactly. I do exert some influence over him, but he acts on your own instincts."
-    kiara "Nie dokładnie. Wywieram na niego pewien wpływ, ale on kieruje się twoimi instynktami.{#mtl}{#tl}"
+    kiara "Not exactly. I do exert some influence over him, but he acts on your own instincts."
 
-# game/characters/kiara/threesome_1.rpy:119
+# game/characters/kiara/threesome_1.rpy:139
 translate polish kiara_threesome_1_slow_5717619f:
 
     # me "My instincts are to get laid?"
-    me "Mam instynkt, żeby się położyć?{#mtl}{#tl}"
+    me "My instincts are to get laid?"
 
-# game/characters/kiara/threesome_1.rpy:120
+# game/characters/kiara/threesome_1.rpy:140
 translate polish kiara_threesome_1_slow_32579e54:
 
     # kiara "Haha, when presented with a horny lady, that's the only thing you can think about."
-    kiara "Haha, kiedy przedstawiasz napaloną damę, to jedyna rzecz, o której możesz myśleć.{#mtl}{#tl}"
+    kiara "Haha, when presented with a horny lady, that's the only thing you can think about."
 
-# game/characters/kiara/threesome_1.rpy:121
+# game/characters/kiara/threesome_1.rpy:141
 translate polish kiara_threesome_1_slow_e291320b:
 
     # me "Heh.. That's about correct."
-    me "Heh .. To mniej więcej poprawne.{#mtl}{#tl}"
+    me "Heh.. That's about correct."
 
-# game/characters/kiara/threesome_1.rpy:122
+# game/characters/kiara/threesome_1.rpy:142
 translate polish kiara_threesome_1_slow_76659e58:
 
     # kiara "Any more questions? I think I should occupy my mouth with something yours."
-    kiara "Jakieś pytania? Myślę, że powinienem zająć usta czymś twoim.{#mtl}{#tl}"
+    kiara "Any more questions? I think I should occupy my mouth with something yours."
 
-# game/characters/kiara/threesome_1.rpy:123
+# game/characters/kiara/threesome_1.rpy:143
 translate polish kiara_threesome_1_slow_5444bbba:
 
     # me "Hahaha, no more questions."
-    me "Hahaha, nie ma więcej pytań.{#mtl}{#tl}"
+    me "Hahaha, no more questions."
 
-# game/characters/kiara/threesome_1.rpy:129
+# game/characters/kiara/threesome_1.rpy:150
 translate polish kiara_threesome_1_fast_58e7dd3b:
 
     # me "Mmm~"
-    me "Mmm~{#mtl}{#tl}"
+    me "Mmm~"
 
-# game/characters/kiara/threesome_1.rpy:130
+# game/characters/kiara/threesome_1.rpy:151
 translate polish kiara_threesome_1_fast_76d93f33:
 
     # kiara "*Slurp*"
-    kiara "*siorko*{#mtl}{#tl}"
+    kiara "*Slurp*"
 
-# game/characters/kiara/threesome_1.rpy:131
+# game/characters/kiara/threesome_1.rpy:152
 translate polish kiara_threesome_1_fast_1eb4b37d:
 
     # me "That feels amazing!"
-    me "To niesamowite uczucie!{#mtl}{#tl}"
+    me "That feels amazing!"
 
-# game/characters/kiara/threesome_1.rpy:132
+# game/characters/kiara/threesome_1.rpy:153
 translate polish kiara_threesome_1_fast_0c149909:
 
     # kiara "Mghhhmm~"
-    kiara "Mghhhmm~{#mtl}{#tl}"
+    kiara "Mghhhmm~"
 
-# game/characters/kiara/threesome_1.rpy:133
+# game/characters/kiara/threesome_1.rpy:154
 translate polish kiara_threesome_1_fast_4c1a91e0:
 
     # me "I don't understand you dear."
-    me "Nie rozumiem Cię kochanie.{#mtl}{#tl}"
+    me "I don't understand you dear."
 
-# game/characters/kiara/threesome_1.rpy:134
+# game/characters/kiara/threesome_1.rpy:155
 translate polish kiara_threesome_1_fast_16bed77e:
 
     # me "But I must praise - you're a great cock sucker!"
-    me "Ale muszę pochwalić - jesteś wielkim frajerem!{#mtl}{#tl}"
+    me "But I must praise - you're a great cock sucker!"
 
-# game/characters/kiara/threesome_1.rpy:135
+# game/characters/kiara/threesome_1.rpy:156
 translate polish kiara_threesome_1_fast_890cda84:
 
     # kiara "Ahh~"
-    kiara "Ach~{#mtl}{#tl}"
+    kiara "Ahh~"
 
-# game/characters/kiara/threesome_1.rpy:141
+# game/characters/kiara/threesome_1.rpy:163
 translate polish kiara_threesome_1_before_27cd89bb:
 
     # me "Huh, his turn?"
-    me "Hm, jego kolej?{#mtl}{#tl}"
+    me "Huh, his turn?"
 
-# game/characters/kiara/threesome_1.rpy:142
+# game/characters/kiara/threesome_1.rpy:164
 translate polish kiara_threesome_1_before_649e69f9:
 
     # me "He's just a copy, you should focus on me, instead."
-    me "On jest tylko kopią, zamiast tego powinieneś skupić się na mnie.{#mtl}{#tl}"
+    me "He's just a copy, you should focus on me, instead."
 
-# game/characters/kiara/threesome_1.rpy:143
+# game/characters/kiara/threesome_1.rpy:165
 translate polish kiara_threesome_1_before_22573613:
 
     # kiara "Haha~"
-    kiara "haha~{#mtl}{#tl}"
+    kiara "Haha~"
 
-# game/characters/kiara/threesome_1.rpy:144
+# game/characters/kiara/threesome_1.rpy:166
 translate polish kiara_threesome_1_before_a1d9aa06:
 
     # me "Are you laughing at me?"
-    me "Śmiejesz się ze mnie?{#mtl}{#tl}"
+    me "Are you laughing at me?"
 
-# game/characters/kiara/threesome_1.rpy:145
+# game/characters/kiara/threesome_1.rpy:167
 translate polish kiara_threesome_1_before_76d93f33:
 
     # kiara "*Slurp*"
-    kiara "*siorko*{#mtl}{#tl}"
+    kiara "*Slurp*"
 
-# game/characters/kiara/threesome_1.rpy:146
+# game/characters/kiara/threesome_1.rpy:168
 translate polish kiara_threesome_1_before_2e1c2c3b:
 
     # me "Well, anyway. I'm super close, [kiara]."
-    me "Cóż, w każdym razie. Jestem bardzo blisko, [kiara].{#mtl}{#tl}"
+    me "Well, anyway. I'm super close, [kiara]."
 
-# game/characters/kiara/threesome_1.rpy:147
+# game/characters/kiara/threesome_1.rpy:169
 translate polish kiara_threesome_1_before_3a9ec282:
 
     # me "Yeah baby, just like that."
-    me "Tak kochanie, właśnie tak.{#mtl}{#tl}"
+    me "Yeah baby, just like that."
 
-# game/characters/kiara/threesome_1.rpy:155
+# game/characters/kiara/threesome_1.rpy:178
 translate polish kiara_threesome_1_cum_6346d250:
 
     # kiara "Give me a treat boys!"
-    kiara "Dajcie mi poczęstunek chłopcy!{#mtl}{#tl}"
+    kiara "Give me a treat boys!"
 
-# game/characters/kiara/threesome_1.rpy:156
+# game/characters/kiara/threesome_1.rpy:180
 translate polish kiara_threesome_1_cum_166d9144:
 
     # me "Ahh!"
-    me "Ach!{#mtl}{#tl}"
+    me "Ahh!"
 
-# game/characters/kiara/threesome_1.rpy:157
+# game/characters/kiara/threesome_1.rpy:181
 translate polish kiara_threesome_1_cum_5a71fa26:
 
     # "[me]'s Image" "Ahhn!"
-    "Obraz [me]" "Ach!{#mtl}{#tl}"
+    "[me]'s Image" "Ahhn!"
 
-# game/characters/kiara/threesome_1.rpy:161
+# game/characters/kiara/threesome_1.rpy:185
 translate polish kiara_threesome_1_cum_0bdc9f23:
 
     # kiara "Hahaha~"
-    kiara "Hahaha~{#mtl}{#tl}"
+    kiara "Hahaha~"
 
-# game/characters/kiara/threesome_1.rpy:162
+# game/characters/kiara/threesome_1.rpy:186
 translate polish kiara_threesome_1_cum_725115e2:
 
     # kiara "So sticky.."
-    kiara "Tak lepki..{#mtl}{#tl}"
+    kiara "So sticky.."
 
-# game/characters/kiara/threesome_1.rpy:163
+# game/characters/kiara/threesome_1.rpy:187
 translate polish kiara_threesome_1_cum_4a3c72a1:
 
     # kiara "Love it!"
-    kiara "Kocham to!{#mtl}{#tl}"
+    kiara "Love it!"
 
-# game/characters/kiara/threesome_1.rpy:167
+# game/characters/kiara/threesome_1.rpy:191
 translate polish kiara_threesome_1_cum_ceef5310:
 
     # kiara "Ready for the finish?"
-    kiara "Gotowy na finisz?{#mtl}{#tl}"
+    kiara "Ready for the finish?"
 
-# game/characters/kiara/threesome_1.rpy:168
+# game/characters/kiara/threesome_1.rpy:192
 translate polish kiara_threesome_1_cum_69bca68b:
 
     # me "What? You want me to cum again?!"
-    me "Co? Chcesz, żebym znów się spuścił?!{#mtl}{#tl}"
+    me "What? You want me to cum again?!"
 
-# game/characters/kiara/threesome_1.rpy:169
+# game/characters/kiara/threesome_1.rpy:193
 translate polish kiara_threesome_1_cum_d90d408f:
 
     # kiara "This time fill me with your seed."
-    kiara "Tym razem napełnij mnie swoim nasieniem.{#mtl}{#tl}"
+    kiara "This time fill me with your seed."
 
-# game/characters/kiara/threesome_1.rpy:170
+# game/characters/kiara/threesome_1.rpy:194
 translate polish kiara_threesome_1_cum_be7aa58b:
 
     # me "...."
-    me "....{#mtl}{#tl}"
+    me "...."
 
-# game/characters/kiara/threesome_1.rpy:171
+# game/characters/kiara/threesome_1.rpy:195
 translate polish kiara_threesome_1_cum_14c89a04:
 
     # th "I'm going to die today.."
-    th "dzisiaj umrę..{#mtl}{#tl}"
+    th "I'm going to die today.."
 
-# game/characters/kiara/threesome_1.rpy:175
+# game/characters/kiara/threesome_1.rpy:199
 translate polish kiara_threesome_1_cum_26a6ed40:
 
     # kiara "Play with my fragile body, make me yours. Own me, fuck me, ravage me. Again and again. I want to be yours tonight."
-    kiara "Baw się moim kruchym ciałem, uczyń mnie swoją. Posiadaj mnie, pieprz mnie, zniszcz mnie. Znowu i znowu. Chcę być twoja tej nocy.{#mtl}{#tl}"
+    kiara "Play with my fragile body, make me yours. Own me, fuck me, ravage me. Again and again. I want to be yours tonight."
 
-# game/characters/kiara/threesome_1.rpy:176
+# game/characters/kiara/threesome_1.rpy:200
 translate polish kiara_threesome_1_cum_8874e819:
 
     # th "On the second thought dying doesn't sound so bad.."
-    th "Z drugiej strony umieranie nie brzmi tak źle..{#mtl}{#tl}"
+    th "On the second thought dying doesn't sound so bad.."
 
 translate polish strings:
 
-    # game/characters/kiara/threesome_1.rpy:80
+    # game/characters/kiara/threesome_1.rpy:100
+    old "Fuck it, I'm in"
+    new "Fuck it, I'm in"
+
+    # game/characters/kiara/threesome_1.rpy:100
     old "I'll pass"
-    new "przejdę{#mtl}{#tl}"
+    new "I'll pass"
 

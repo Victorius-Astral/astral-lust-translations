@@ -1,15 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-13 15:23
-
-translate polish strings:
-
-    # game/combat/cards/CardManager.rpy:164
-    old "{} has evolved!"
-    new "{} ewoluował!{{#mtl}}{{#tl}}"
-
-    # game/combat/cards/CardManager.rpy:165
-    old "Stage: "
-    new "Scena:{#mtl}{#tl}"
-# TODO: Translation updated at 2023-08-14 07:25
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
@@ -24,6 +13,10 @@ translate polish strings:
     # game/combat/cards/CardManager.rpy:180
     old "Unknown card property: {}"
     new "Unknown card property: {}"
+
+    # game/combat/cards/CardManager.rpy:395
+    old "Name"
+    new "Name"
 
     # game/combat/cards/CardManager.rpy:673
     old "Format can't find value in description kwargs for description of card: {}. Description: {}"
@@ -140,6 +133,10 @@ translate polish strings:
     # game/combat/cards/CardManager.rpy:1967
     old "{} evolved!"
     new "{} evolved!"
+
+    # game/combat/cards/CardManager.rpy:1968
+    old "Stage: "
+    new "Stage: "
 
     # game/combat/cards/CardManager.rpy:1971
     old "{} unlocked!"

@@ -1,32 +1,32 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Ordinary"
-    new "Zwykły{#mtl}{#tl}"
+    new "Ordinary"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Extraordinary"
-    new "Nadzwyczajny{#mtl}{#tl}"
+    new "Extraordinary"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Mythical"
-    new "Mityczny{#mtl}{#tl}"
+    new "Mythical"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Angelic"
-    new "Anielski{#mtl}{#tl}"
+    new "Angelic"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Divine"
-    new "Boski{#mtl}{#tl}"
+    new "Divine"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Tarot"
-    new "Tarot{#mtl}{#tl}"
+    new "Tarot"
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Unique"
-    new "Unikalny{#mtl}{#tl}"
+    new "Unique"
 

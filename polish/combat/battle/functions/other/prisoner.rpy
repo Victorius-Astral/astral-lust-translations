@@ -1,15 +1,16 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
-    # game/combat/battle/functions/other/prisoner.rpy:18
+    # game/combat/battle/functions/other/prisoner.rpy:21
     old "Do you want to catch the enemy?"
-    new "Chcesz złapać wroga?{#mtl}{#tl}"
+    new "Do you want to catch the enemy?"
 
-    # game/combat/battle/functions/other/prisoner.rpy:19
+    # game/combat/battle/functions/other/prisoner.rpy:22
     old "Catch {}"
-    new "Uwięź {}{{#mtl}}{{#tl}}"
+    new "Catch {}"
 
-    # game/combat/battle/functions/other/prisoner.rpy:19
+    # game/combat/battle/functions/other/prisoner.rpy:22
     old "Kill"
-    new "Zabić{#mtl}{#tl}"
+    new "Kill"
+

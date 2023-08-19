@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-14 07:25
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/places/dojo/adepts.rpy:57
 translate polish speak_adam_fc4bd9e5:

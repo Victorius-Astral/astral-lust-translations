@@ -1,78 +1,72 @@
-﻿# Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
-    # game/variables/classes/Player.rpy:148
+    # game/variables/classes/Player.rpy:151
     old "{} deteriorated ({})"
-    new "{} pogorszył się ({}){{#mtl}}{{#tl}}"
+    new "{} deteriorated ({})"
 
-    # game/variables/classes/Player.rpy:156
+    # game/variables/classes/Player.rpy:159
     old "{} improved ({})"
-    new "{} poprawiłeś się ({}){{#mtl}}{{#tl}}"
+    new "{} improved ({})"
 
-    # game/variables/classes/Player.rpy:166
+    # game/variables/classes/Player.rpy:169
     old "Agility"
-    new "Zwinność{#mtl}{#tl}"
+    new "Agility"
 
-    # game/variables/classes/Player.rpy:180
+    # game/variables/classes/Player.rpy:183
     old "Vitality"
-    new "Witalność{#mtl}{#tl}"
+    new "Vitality"
 
-    # game/variables/classes/Player.rpy:187
+    # game/variables/classes/Player.rpy:190
     old "Wisdom"
-    new "Mądrość{#mtl}{#tl}"
+    new "Wisdom"
 
-    # game/variables/classes/Player.rpy:194
+    # game/variables/classes/Player.rpy:197
     old "Intelligence"
-    new "inteligencja{#mtl}{#tl}"
+    new "Intelligence"
 
-    # game/variables/classes/Player.rpy:201
+    # game/variables/classes/Player.rpy:204
     old "Charisma"
-    new "Charyzma{#mtl}{#tl}"
-
-    # game/variables/classes/Player.rpy:209
-    old "{} was raised by {} {}."
-    new "{} tłumaczenie angielskie o {} {}.{{#mtl}}{{#tl}}"
+    new "Charisma"
 
     # game/variables/classes/Player.rpy:212
+    old "{} was raised by {} {}."
+    new "{} was raised by {} {}."
+
+    # game/variables/classes/Player.rpy:215
     old " points"
-    new " punkty{#mtl}{#tl}"
+    new " points"
 
-    # game/variables/classes/Player.rpy:214
+    # game/variables/classes/Player.rpy:217
     old " point"
-    new " punkt{#mtl}{#tl}"
+    new " point"
 
-    # game/variables/classes/Player.rpy:226
+    # game/variables/classes/Player.rpy:229
     old "{} can't be raised any further."
-    new "{} nie może zostać wyżej podwyższona.{{#mtl}}{{#tl}}"
-
-    # game/variables/classes/Player.rpy:278
-    old "Health +30.\nSanity +5%"
-    new "Zdrowie +30.\nZdrowie +5%{#mtl}{#tl}"
-
-    # game/variables/classes/Player.rpy:299
-    old "Sanity + {}% \nCurrent sanity: {}%"
-    new "Poczytalność + {}% \nObecna Poczytalność: {}%{{#mtl}}{{#tl}}"
-
-    # game/variables/classes/Player.rpy:303
-    old "Sanity - {}% \nCurrent sanity: {}%"
-    new "Poczytalność - {}% \nObecna Poczytalność: {}%{{#mtl}}{{#tl}}"
-
-    # game/variables/classes/Player.rpy:327
-    old "Corruption + {}% \nCurrent corruption: {}%"
-    new "Korupcja + {}% \nObecna korupcja: {}%{{#mtl}}{{#tl}}"
+    new "{} can't be raised any further."
 
     # game/variables/classes/Player.rpy:331
+    old "Sanity + {}% \nCurrent sanity: {}%"
+    new "Sanity + {}% \nCurrent sanity: {}%"
+
+    # game/variables/classes/Player.rpy:335
+    old "Sanity - {}% \nCurrent sanity: {}%"
+    new "Sanity - {}% \nCurrent sanity: {}%"
+
+    # game/variables/classes/Player.rpy:361
+    old "Corruption + {}% \nCurrent corruption: {}%"
+    new "Corruption + {}% \nCurrent corruption: {}%"
+
+    # game/variables/classes/Player.rpy:365
     old "Corruption - {}% \nCurrent corruption: {}%"
-    new "Korupcja - {}% \nObecna korupcja: {}%{{#mtl}}{{#tl}}"
+    new "Corruption - {}% \nCurrent corruption: {}%"
 
-    # game/variables/classes/Player.rpy:378
+    # game/variables/classes/Player.rpy:412
     old "Killed a human:\nCorruption + {}% \nSanity - {}% \n\nCurrent corruption: {}% \nCurrent sanity: {}%"
-    new "Zabito człowieka:\nKorupcja + {}% \nPoczytalność - {}% \n\nObecna korupcja: {}% \Poczytalność: {}%{{#mtl}}{{#tl}}"
-# TODO: Translation updated at 2022-11-13 15:23
+    new "Killed a human:\nCorruption + {}% \nSanity - {}% \n\nCurrent corruption: {}% \nCurrent sanity: {}%"
 
-translate polish strings:
-
-    # game/variables/classes/Player.rpy:514
+    # game/variables/classes/Player.rpy:517
     old "Lost {} {{vit}}health ({}/{}){{/vit}}."
-    new "Zagubiony {} {{vit}}zdrowie ({}/{}){{/vit}}.{{#mtl}}{{#tl}}"
+    new "Lost {} {{vit}}health ({}/{}){{/vit}}."
+

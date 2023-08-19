@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-14 07:25
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/places/dojo/unlock.rpy:5
 translate polish carlson_dojo_unlock_859c06ae:

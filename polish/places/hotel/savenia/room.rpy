@@ -1,14 +1,14 @@
-﻿# TODO: Translation updated at 2021-07-11 16:45
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
-# game/places/hotel/savenia/room.rpy:4
+# game/places/hotel/savenia/room.rpy:5
 translate polish room_hotel_savenia_d86e264b:
 
     # "It's late so you leave."
-    "Jest późno, więc wychodzisz.{#mtl}{#tl}"
+    "It's late so you leave."
 
-# game/places/hotel/savenia/room.rpy:8
+# game/places/hotel/savenia/room.rpy:9
 translate polish room_hotel_savenia_69408d7b:
 
     # th "I should let her rest today."
-    th "Powinienem dać jej dzisiaj odpocząć.{#mtl}{#tl}"
+    th "I should let her rest today."
 

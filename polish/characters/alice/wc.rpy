@@ -1,540 +1,540 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
-# game/characters/alice/wc.rpy:11
+# game/characters/alice/wc.rpy:12
 translate polish wc_alice_140e23eb:
 
     # th "[alice]."
-    th "[alice].{#mtl}{#tl}"
+    th "[alice]."
 
-# game/characters/alice/wc.rpy:14
+# game/characters/alice/wc.rpy:15
 translate polish wc_alice_c27fabf8:
 
     # th "Should I re.. Ohh.."
-    th "Czy powinienem ponownie... Ohh..{#mtl}{#tl}"
+    th "Should I re.. Ohh.."
 
-# game/characters/alice/wc.rpy:17
+# game/characters/alice/wc.rpy:18
 translate polish wc_alice_3820771a:
 
     # me "..."
-    me "...{#mtl}{#tl}"
+    me "..."
 
-# game/characters/alice/wc.rpy:20
+# game/characters/alice/wc.rpy:21
 translate polish wc_alice_a9323aa1:
 
     # alice "Care to give an explanation? Or are you not even trying to justify peeping on me?"
-    alice "Chcesz złożyć wyjaśnienia? A może nawet nie próbujesz usprawiedliwić podglądania mnie?{#mtl}{#tl}"
+    alice "Care to give an explanation? Or are you not even trying to justify peeping on me?"
 
-# game/characters/alice/wc.rpy:26
+# game/characters/alice/wc.rpy:27
 translate polish wc_alice_023d97dc:
 
     # "{color=#FF958F}[[Relationship check passed]{/color}"
-    "{color=#FF958F}[[Kontrola powiązań zakończona pomyślnie]{/color}{#mtl}{#tl}"
+    "{color=#FF958F}[[Relationship check passed]{/color}"
 
-# game/characters/alice/wc.rpy:27
+# game/characters/alice/wc.rpy:28
 translate polish wc_alice_a6167a27:
 
     # alice "What?"
-    alice "Co?{#mtl}{#tl}"
+    alice "What?"
 
-# game/characters/alice/wc.rpy:28
+# game/characters/alice/wc.rpy:29
 translate polish wc_alice_ff74becb:
 
     # me "You're my babe, [alice]. You can always be at ease with me around, no matter the place."
-    me "Jesteś moim kochaniem, [alice]. Ze mną zawsze możesz czuć się swobodnie, bez względu na miejsce.{#mtl}{#tl}"
+    me "You're my babe, [alice]. You can always be at ease with me around, no matter the place."
 
-# game/characters/alice/wc.rpy:31
+# game/characters/alice/wc.rpy:32
 translate polish wc_alice_eb463745:
 
     # alice "But I'm using a toilet.."
-    alice "Ale korzystam z toalety..{#mtl}{#tl}"
+    alice "But I'm using a toilet.."
 
-# game/characters/alice/wc.rpy:32
+# game/characters/alice/wc.rpy:33
 translate polish wc_alice_6120c272:
 
     # me "We are so close, there is no need to be ashamed."
-    me "Jesteśmy tak blisko, że nie ma się czego wstydzić.{#mtl}{#tl}"
+    me "We are so close, there is no need to be ashamed."
 
-# game/characters/alice/wc.rpy:35
+# game/characters/alice/wc.rpy:36
 translate polish wc_alice_879e62b7:
 
     # alice "It's awkward.."
-    alice "To niezręczne..{#mtl}{#tl}"
+    alice "It's awkward.."
 
-# game/characters/alice/wc.rpy:38
+# game/characters/alice/wc.rpy:39
 translate polish wc_alice_efb5e00f:
 
     # alice "Do you really have to come closer?"
-    alice "Czy naprawdę musisz podejść bliżej?{#mtl}{#tl}"
+    alice "Do you really have to come closer?"
 
-# game/characters/alice/wc.rpy:39
+# game/characters/alice/wc.rpy:40
 translate polish wc_alice_7f36f1fd:
 
     # me "I do. Take off your hand."
-    me "Ja robię. Zdejmij rękę.{#mtl}{#tl}"
+    me "I do. Take off your hand."
 
-# game/characters/alice/wc.rpy:42
+# game/characters/alice/wc.rpy:43
 translate polish wc_alice_ff3ea7a3:
 
     # me "Further away."
-    me "Dalej.{#mtl}{#tl}"
+    me "Further away."
 
-# game/characters/alice/wc.rpy:43
+# game/characters/alice/wc.rpy:44
 translate polish wc_alice_74f05a4e:
 
     # alice "..."
-    alice "...{#mtl}{#tl}"
+    alice "..."
 
-# game/characters/alice/wc.rpy:46
+# game/characters/alice/wc.rpy:47
 translate polish wc_alice_aa93b10c:
 
     # me "Good girl."
-    me "Dobra dziewczynka.{#mtl}{#tl}"
+    me "Good girl."
 
-# game/characters/alice/wc.rpy:49
+# game/characters/alice/wc.rpy:50
 translate polish wc_alice_f599eec6:
 
     # alice "Can you look away?"
-    alice "Czy możesz odwrócić wzrok?{#mtl}{#tl}"
-
-# game/characters/alice/wc.rpy:52
-translate polish wc_alice_30e6ea26:
-
-    # "You place your hand on her cheek, she without any resistance, leans her face against your palm."
-    "Kładziesz dłoń na jej policzku, ona bez oporu opiera twarz o Twoją dłoń.{#mtl}{#tl}"
+    alice "Can you look away?"
 
 # game/characters/alice/wc.rpy:53
+translate polish wc_alice_30e6ea26:
+
+    # "You place your hand on her cheek. She, without any resistance, leans her face against your palm." id wc_alice_30e6ea26
+    "You place your hand on her cheek. She, without any resistance, leans her face against your palm." id wc_alice_30e6ea26
+
+# game/characters/alice/wc.rpy:54
 translate polish wc_alice_d8805dfa:
 
     # me "Your my lovely, beautiful, darling. You're mine, and you don't need to be ashamed or afraid with me by your side."
-    me "Jesteś moja kochana, piękna, kochana. Jesteś mój i nie musisz się wstydzić ani bać ze mną u twojego boku.{#mtl}{#tl}"
+    me "Your my lovely, beautiful, darling. You're mine, and you don't need to be ashamed or afraid with me by your side."
 
-# game/characters/alice/wc.rpy:56
+# game/characters/alice/wc.rpy:57
 translate polish wc_alice_14de9ef1:
 
     # alice "Compliment me more."
-    alice "Komplementuj mnie bardziej.{#mtl}{#tl}"
+    alice "Compliment me more."
 
-# game/characters/alice/wc.rpy:57
+# game/characters/alice/wc.rpy:58
 translate polish wc_alice_1d445196:
 
     # me "Haha. Look at her, how eager for compliments she is."
-    me "Ha ha. Spójrz na nią, jaka jest chętna na komplementy.{#mtl}{#tl}"
+    me "Haha. Look at her, how eager for compliments she is."
 
-# game/characters/alice/wc.rpy:58
+# game/characters/alice/wc.rpy:59
 translate polish wc_alice_74631f0a:
 
     # me "You're the best, the most beautiful, the cutest, the most adorable girl in the world."
-    me "Jesteś najlepszą, najpiękniejszą, najsłodszą, najbardziej uroczą dziewczyną na świecie.{#mtl}{#tl}"
+    me "You're the best, the most beautiful, the cutest, the most adorable girl in the world."
 
-# game/characters/alice/wc.rpy:60
+# game/characters/alice/wc.rpy:61
 translate polish wc_alice_0b60a0c3:
 
     # alice "Hehe~"
-    alice "Hehe~{#mtl}{#tl}"
+    alice "Hehe~"
 
-# game/characters/alice/wc.rpy:63
+# game/characters/alice/wc.rpy:64
 translate polish wc_alice_0781252c:
 
     # alice "I know you for long enough."
-    alice "Znam cię wystarczająco długo.{#mtl}{#tl}"
+    alice "I know you for long enough."
 
-# game/characters/alice/wc.rpy:64
+# game/characters/alice/wc.rpy:65
 translate polish wc_alice_1f877649:
 
     # me "What do you mean?"
-    me "Co masz na myśli?{#mtl}{#tl}"
-
-# game/characters/alice/wc.rpy:67
-translate polish wc_alice_d378f6f9:
-
-    # alice "You have some dirty thoughs in your mind right now."
-    alice "Masz teraz w głowie brudne myśli.{#mtl}{#tl}"
+    me "What do you mean?"
 
 # game/characters/alice/wc.rpy:68
-translate polish wc_alice_debafdc7:
+translate polish wc_alice_d378f6f9:
 
-    # me "Are you talking about yourself?"
-    me "Mówisz o sobie?{#mtl}{#tl}"
+    # alice "You have some dirty thoughts in your mind right now." id wc_alice_d378f6f9
+    alice "You have some dirty thoughts in your mind right now." id wc_alice_d378f6f9
 
 # game/characters/alice/wc.rpy:69
+translate polish wc_alice_debafdc7:
+
+    # me "Aren't you talking about yourself?" id wc_alice_debafdc7
+    me "Aren't you talking about yourself?" id wc_alice_debafdc7
+
+# game/characters/alice/wc.rpy:70
 translate polish wc_alice_f968e0b2:
 
     # alice "Mhm~"
-    alice "Mhm~{#mtl}{#tl}"
+    alice "Mhm~"
 
-# game/characters/alice/wc.rpy:72
+# game/characters/alice/wc.rpy:73
 translate polish wc_alice_73d54940:
 
     # alice "I'm done. I hope you enjoyed the show."
-    alice "Skończyłem. Mam nadzieję, że podobało ci się przedstawienie.{#mtl}{#tl}"
+    alice "I'm done. I hope you enjoyed the show."
 
-# game/characters/alice/wc.rpy:73
+# game/characters/alice/wc.rpy:74
 translate polish wc_alice_5b7d742c:
 
     # me "Not as much as looking at your adorable face."
-    me "Nie tak bardzo, jak patrzenie na twoją uroczą twarz.{#mtl}{#tl}"
+    me "Not as much as looking at your adorable face."
 
-# game/characters/alice/wc.rpy:76
+# game/characters/alice/wc.rpy:77
 translate polish wc_alice_ce111e9e:
 
     # alice "Mm."
-    alice "mmm{#mtl}{#tl}"
+    alice "Mm."
 
-# game/characters/alice/wc.rpy:79
+# game/characters/alice/wc.rpy:80
 translate polish wc_alice_72cf8075:
 
     # alice "Mhm. Time to go, perverted boyfriend."
-    alice "mhm Czas iść, zboczony chłopaku.{#mtl}{#tl}"
+    alice "Mhm. Time to go, perverted boyfriend."
 
-# game/characters/alice/wc.rpy:80
+# game/characters/alice/wc.rpy:81
 translate polish wc_alice_59c5a7e2:
 
     # me "Said [alice]."
-    me "Powiedział [alice].{#mtl}{#tl}"
+    me "Said [alice]."
 
-# game/characters/alice/wc.rpy:84
+# game/characters/alice/wc.rpy:85
 translate polish wc_alice_5c1bf8d4:
 
     # "{color=#FF958F}[[Relationship check failed]{/color}"
-    "{color=#FF958F}[[Sprawdzanie powiązań nie powiodło się]{/color}{#mtl}{#tl}"
+    "{color=#FF958F}[[Relationship check failed]{/color}"
 
-# game/characters/alice/wc.rpy:86
+# game/characters/alice/wc.rpy:87
 translate polish wc_alice_e65786c5:
 
     # alice "I'm not your dear, go."
-    alice "Nie jestem twoją kochaną, idź.{#mtl}{#tl}"
+    alice "I'm not your dear, go."
 
-# game/characters/alice/wc.rpy:87
+# game/characters/alice/wc.rpy:88
 translate polish wc_alice_3820771a_1:
 
     # me "..."
-    me "...{#mtl}{#tl}"
+    me "..."
 
-# game/characters/alice/wc.rpy:88
+# game/characters/alice/wc.rpy:89
 translate polish wc_alice_437bdac6:
 
     # th "I've pissed her a lot now.."
-    th "Bardzo ją teraz wkurzyłem..{#mtl}{#tl}"
+    th "I've pissed her a lot now.."
 
-# game/characters/alice/wc.rpy:94
+# game/characters/alice/wc.rpy:95
 translate polish wc_alice_6534439d:
 
     # alice "Go now, alright?"
-    alice "Idź już, dobrze?{#mtl}{#tl}"
+    alice "Go now, alright?"
 
-# game/characters/alice/wc.rpy:95
+# game/characters/alice/wc.rpy:96
 translate polish wc_alice_5385b15a:
 
     # me "Yeah sure, I'm sorry for walking on you."
-    me "Jasne, przepraszam, że po tobie szedłem.{#mtl}{#tl}"
+    me "Yeah sure, I'm sorry for walking on you."
 
-# game/characters/alice/wc.rpy:99
+# game/characters/alice/wc.rpy:100
 translate polish wc_alice_704fc0ff:
 
     # me "I'm sor.."
-    me "przepraszam..{#mtl}{#tl}"
+    me "I'm sor.."
 
-# game/characters/alice/wc.rpy:101
+# game/characters/alice/wc.rpy:102
 translate polish wc_alice_5e24d098:
 
     # alice "We both know, you're not, go now."
-    alice "Oboje wiemy, że nie jesteś, idź teraz.{#mtl}{#tl}"
+    alice "We both know, you're not, go now."
 
-# game/characters/alice/wc.rpy:102
+# game/characters/alice/wc.rpy:103
 translate polish wc_alice_3820771a_2:
 
     # me "..."
-    me "...{#mtl}{#tl}"
+    me "..."
 
-# game/characters/alice/wc.rpy:113
+# game/characters/alice/wc.rpy:114
 translate polish wc_alice_menu1_6b62c458:
 
     # alice "Oh?"
-    alice "Oh?{#mtl}{#tl}"
+    alice "Oh?"
 
-# game/characters/alice/wc.rpy:119
+# game/characters/alice/wc.rpy:120
 translate polish wc_alice_menu1_74f05a4e:
 
     # alice "..."
-    alice "...{#mtl}{#tl}"
+    alice "..."
 
-# game/characters/alice/wc.rpy:122
+# game/characters/alice/wc.rpy:123
 translate polish wc_alice_menu1_7192fee5:
 
     # alice "You're so indecisive.."
-    alice "Jesteś taki niezdecydowany..{#mtl}{#tl}"
+    alice "You're so indecisive.."
 
-# game/characters/alice/wc.rpy:125
+# game/characters/alice/wc.rpy:126
 translate polish wc_alice_menu1_befa1e13:
 
     # alice "Alright. We are good to go."
-    alice "W porządku. Jesteśmy gotowi do drogi.{#mtl}{#tl}"
+    alice "Alright. We are good to go."
 
-# game/characters/alice/wc.rpy:126
+# game/characters/alice/wc.rpy:127
 translate polish wc_alice_menu1_9acad2a0:
 
     # me "Great. Let's go."
-    me "Świetnie. Chodźmy.{#mtl}{#tl}"
+    me "Great. Let's go."
 
-# game/characters/alice/wc.rpy:134
+# game/characters/alice/wc.rpy:135
 translate polish wc_alice_leave_3ddd50d1:
 
     # alice "Aaand.."
-    alice "Aaand..{#mtl}{#tl}"
+    alice "Aaand.."
 
-# game/characters/alice/wc.rpy:137
+# game/characters/alice/wc.rpy:138
 translate polish wc_alice_leave_32749e6e:
 
     # alice "Ready. We are good to go."
-    alice "Gotowy. Jesteśmy gotowi do drogi.{#mtl}{#tl}"
+    alice "Ready. We are good to go."
 
-# game/characters/alice/wc.rpy:138
+# game/characters/alice/wc.rpy:139
 translate polish wc_alice_leave_9acad2a0:
 
     # me "Great. Let's go."
-    me "Świetnie. Chodźmy.{#mtl}{#tl}"
+    me "Great. Let's go."
 
-# game/characters/alice/wc.rpy:142
+# game/characters/alice/wc.rpy:143
 translate polish wc_alice_anal_b2b71f00:
 
     # me "You emptied your bladder, now let's balance things out by filling your anus."
-    me "Opróżniłeś swój pęcherz, teraz zrównoważmy sytuację, wypełniając odbyt.{#mtl}{#tl}"
+    me "You emptied your bladder, now let's balance things out by filling your anus."
 
-# game/characters/alice/wc.rpy:143
+# game/characters/alice/wc.rpy:144
 translate polish wc_alice_anal_9bc2bc8d:
 
     # alice "That was literally the lamest thing I've heard my whole life."
-    alice "To była dosłownie najgłupsza rzecz, jaką słyszałem przez całe życie.{#mtl}{#tl}"
+    alice "That was literally the lamest thing I've heard my whole life."
 
-# game/characters/alice/wc.rpy:144
+# game/characters/alice/wc.rpy:145
 translate polish wc_alice_anal_19e9ba92:
 
     # me "You're lame.."
-    me "Jesteś lamą..{#mtl}{#tl}"
+    me "You're lame.."
 
-# game/characters/alice/wc.rpy:165
+# game/characters/alice/wc.rpy:166
 translate polish wc_alice_anal_8fc657d8:
 
     # "{color=#FF958F}[tes]{/color}"
-    "{color=#FF958F}[tes]{/color}{#mtl}{#tl}"
+    "{color=#FF958F}[tes]{/color}"
 
-# game/characters/alice/wc.rpy:166
+# game/characters/alice/wc.rpy:167
 translate polish wc_alice_anal_6022c328:
 
     # "You get [alice] on the top of you in no time."
-    "Dostajesz [alice] w mgnieniu oka.{#mtl}{#tl}"
+    "You get [alice] on the top of you in no time."
 
-# game/characters/alice/wc.rpy:173
+# game/characters/alice/wc.rpy:171
 translate polish wc_alice_anal_bb533c0a:
 
     # alice "A-Ahh~"
-    alice "A-Ah~{#mtl}{#tl}"
+    alice "A-Ahh~"
 
-# game/characters/alice/wc.rpy:174
+# game/characters/alice/wc.rpy:172
 translate polish wc_alice_anal_d8a80f0a:
 
     # me "You good?"
-    me "dobrze?{#mtl}{#tl}"
+    me "You good?"
 
-# game/characters/alice/wc.rpy:175
+# game/characters/alice/wc.rpy:173
 translate polish wc_alice_anal_7b0e5233:
 
     # alice "Yes~ I love this feeling. You're indeed filling me to the brim.."
-    alice "Tak~ Kocham to uczucie. Naprawdę wypełniasz mnie po brzegi..{#mtl}{#tl}"
+    alice "Yes~ I love this feeling. You're indeed filling me to the brim.."
 
-# game/characters/alice/wc.rpy:182
+# game/characters/alice/wc.rpy:177
 translate polish wc_alice_anal_66e6de5d:
 
     # "[alice] moves up and down without stop."
-    "[alice] porusza się w górę i w dół bez zatrzymania.{#mtl}{#tl}"
+    "[alice] moves up and down without stop."
 
-# game/characters/alice/wc.rpy:183
+# game/characters/alice/wc.rpy:178
 translate polish wc_alice_anal_475833b2:
 
     # alice "Mnnghm~"
-    alice "Mnnghm~{#mtl}{#tl}"
+    alice "Mnnghm~"
 
-# game/characters/alice/wc.rpy:184
+# game/characters/alice/wc.rpy:179
 translate polish wc_alice_anal_1a002905:
 
     # me "Ahmm."
-    me "Ahmm.{#mtl}{#tl}"
+    me "Ahmm."
 
-# game/characters/alice/wc.rpy:191
+# game/characters/alice/wc.rpy:183
 translate polish wc_alice_anal_8bd24074:
 
     # me "You're such a good girl.."
-    me "Jesteś taką dobrą dziewczyną..{#mtl}{#tl}"
+    me "You're such a good girl.."
 
-# game/characters/alice/wc.rpy:192
+# game/characters/alice/wc.rpy:184
 translate polish wc_alice_anal_d05d9434:
 
     # alice "You tell me this often lately."
-    alice "Ostatnio często mi to mówisz.{#mtl}{#tl}"
+    alice "You tell me this often lately."
 
-# game/characters/alice/wc.rpy:193
+# game/characters/alice/wc.rpy:185
 translate polish wc_alice_anal_abc5fffe:
 
     # me "Because it's so true."
-    me "Bo to takie prawdziwe.{#mtl}{#tl}"
+    me "Because it's so true."
 
-# game/characters/alice/wc.rpy:195
+# game/characters/alice/wc.rpy:187
 translate polish wc_alice_anal_f809b8b8:
 
     # alice "Ahmn~ Yeah, I'm your good, little girl."
-    alice "Ahmn~ Tak, jestem twoją dobrą dziewczynką.{#mtl}{#tl}"
+    alice "Ahmn~ Yeah, I'm your good, little girl."
 
-# game/characters/alice/wc.rpy:202
+# game/characters/alice/wc.rpy:191
 translate polish wc_alice_anal_dd9636c7:
 
     # me "Ahh.."
-    me "Ahh..{#mtl}{#tl}"
+    me "Ahh.."
 
-# game/characters/alice/wc.rpy:203
+# game/characters/alice/wc.rpy:192
 translate polish wc_alice_anal_ddb4a347:
 
     # alice "Ohhmnn~"
-    alice "Ohhmn~{#mtl}{#tl}"
+    alice "Ohhmnn~"
 
-# game/characters/alice/wc.rpy:204
+# game/characters/alice/wc.rpy:193
 translate polish wc_alice_anal_c2c40d59:
 
     # alice "Ahmn!~"
-    alice "Ach!~{#mtl}{#tl}"
+    alice "Ahmn!~"
 
-# game/characters/alice/wc.rpy:206
+# game/characters/alice/wc.rpy:195
 translate polish wc_alice_anal_5ee012cf:
 
     # "With each moan, [alice] is becoming louder and louder."
-    "Z każdym jękiem [alice] staje się coraz głośniejszy.{#mtl}{#tl}"
+    "With each moan, [alice] is becoming louder and louder."
 
-# game/characters/alice/wc.rpy:207
+# game/characters/alice/wc.rpy:196
 translate polish wc_alice_anal_8636fa96:
 
     # alice "I'm coming!~"
-    alice "nadchodzę!~{#mtl}{#tl}"
+    alice "I'm coming!~"
 
-# game/characters/alice/wc.rpy:210
+# game/characters/alice/wc.rpy:199
 translate polish wc_alice_anal_f1f6e6e3:
 
     # alice "Ahmmnn!~"
-    alice "Ahmmnn!~{#mtl}{#tl}"
+    alice "Ahmmnn!~"
 
-# game/characters/alice/wc.rpy:211
+# game/characters/alice/wc.rpy:200
 translate polish wc_alice_anal_1cc49010:
 
     # "Her ass squirms taking you over the edge."
-    "Jej tyłek wije się, doprowadzając cię do krawędzi.{#mtl}{#tl}"
+    "Her ass squirms taking you over the edge."
 
-# game/characters/alice/wc.rpy:214
+# game/characters/alice/wc.rpy:203
 translate polish wc_alice_anal_166d9144:
 
     # me "Ahh!"
-    me "Ach!{#mtl}{#tl}"
+    me "Ahh!"
 
-# game/characters/alice/wc.rpy:215
+# game/characters/alice/wc.rpy:204
 translate polish wc_alice_anal_988469f3:
 
     # alice "Ahmmm!~"
-    alice "Ahmm!~{#mtl}{#tl}"
+    alice "Ahmmm!~"
 
-# game/characters/alice/wc.rpy:216
+# game/characters/alice/wc.rpy:205
 translate polish wc_alice_anal_5fbffdab:
 
     # alice "Ahh... So good.."
-    alice "Ahh... tak dobrze..{#mtl}{#tl}"
+    alice "Ahh... So good.."
 
-# game/characters/alice/wc.rpy:223
+# game/characters/alice/wc.rpy:209
 translate polish wc_alice_anal_29f05ea7:
 
     # "You pull your dick out of her."
-    "Wyciągasz z niej penisa.{#mtl}{#tl}"
+    "You pull your dick out of her."
 
-# game/characters/alice/wc.rpy:224
+# game/characters/alice/wc.rpy:210
 translate polish wc_alice_anal_d2c5eb61:
 
     # "Your semen flows down her pussy."
-    "Twoje nasienie spływa po jej cipce.{#mtl}{#tl}"
+    "Your semen flows down her pussy."
 
-# game/characters/alice/wc.rpy:225
+# game/characters/alice/wc.rpy:211
 translate polish wc_alice_anal_dd9636c7_1:
 
     # me "Ahh.."
-    me "Ahh..{#mtl}{#tl}"
+    me "Ahh.."
 
-# game/characters/alice/wc.rpy:228
+# game/characters/alice/wc.rpy:214
 translate polish wc_alice_anal_280743f5:
 
     # alice "You always make me tired."
-    alice "Zawsze mnie męczysz.{#mtl}{#tl}"
+    alice "You always make me tired."
 
-# game/characters/alice/wc.rpy:229
+# game/characters/alice/wc.rpy:215
 translate polish wc_alice_anal_9dc4fbb6:
 
     # me "Haha. You always make me happy."
-    me "Ha ha. Zawsze mnie uszczęśliwiasz.{#mtl}{#tl}"
+    me "Haha. You always make me happy."
 
-# game/characters/alice/wc.rpy:230
+# game/characters/alice/wc.rpy:216
 translate polish wc_alice_anal_9538ef88:
 
     # alice "Hm.. I'm happy with you too."
-    alice "Hm.. Ja też się z tobą cieszę.{#mtl}{#tl}"
+    alice "Hm.. I'm happy with you too."
 
-# game/characters/alice/wc.rpy:231
+# game/characters/alice/wc.rpy:217
 translate polish wc_alice_anal_4d8bc13c:
 
     # "You rest for a while in each other's arms."
-    "Odpoczywacie chwilę w swoich ramionach.{#mtl}{#tl}"
+    "You rest for a while in each other's arms."
 
-# game/characters/alice/wc.rpy:232
+# game/characters/alice/wc.rpy:218
 translate polish wc_alice_anal_be04c739:
 
     # alice "Time to go."
-    alice "Czas iść.{#mtl}{#tl}"
+    alice "Time to go."
 
-# game/characters/alice/wc.rpy:233
+# game/characters/alice/wc.rpy:219
 translate polish wc_alice_anal_ecd768ba:
 
     # me "Yeah."
-    me "Tak.{#mtl}{#tl}"
+    me "Yeah."
 
-# game/characters/alice/wc.rpy:237
+# game/characters/alice/wc.rpy:228
 translate polish wc_alice_anal_8fc657d8_1:
 
     # "{color=#FF958F}[tes]{/color}"
-    "{color=#FF958F}[tes]{/color}{#mtl}{#tl}"
+    "{color=#FF958F}[tes]{/color}"
 
-# game/characters/alice/wc.rpy:238
+# game/characters/alice/wc.rpy:229
 translate polish wc_alice_anal_1df8f043:
 
     # alice "Pfft~ You're dreaming, darling."
-    alice "Pfft~ Śnisz, kochanie.{#mtl}{#tl}"
+    alice "Pfft~ You're dreaming, darling."
 
-# game/characters/alice/wc.rpy:239
+# game/characters/alice/wc.rpy:230
 translate polish wc_alice_anal_3820771a:
 
     # me "..."
-    me "...{#mtl}{#tl}"
+    me "..."
 
 translate polish strings:
 
-    # game/characters/alice/wc.rpy:22
+    # game/characters/alice/wc.rpy:23
     old "Get used to it, dear"
-    new "Przyzwyczaj się, kochanie{#mtl}{#tl}"
+    new "Get used to it, dear"
 
-    # game/characters/alice/wc.rpy:22
+    # game/characters/alice/wc.rpy:23
     old "I'm sorry"
-    new "Przepraszam{#mtl}{#tl}"
+    new "I'm sorry"
 
-    # game/characters/alice/wc.rpy:111
+    # game/characters/alice/wc.rpy:112
     old "Don't put your pants on"
-    new "Nie zakładaj spodni{#mtl}{#tl}"
+    new "Don't put your pants on"
 
-    # game/characters/alice/wc.rpy:114
+    # game/characters/alice/wc.rpy:115
     old "Anal"
-    new "Analny{#mtl}{#tl}"
+    new "Anal"
 
-    # game/characters/alice/wc.rpy:114
+    # game/characters/alice/wc.rpy:115
     old "Nevermind"
-    new "Nieważne{#mtl}{#tl}"
+    new "Nevermind"
 

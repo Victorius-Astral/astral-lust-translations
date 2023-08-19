@@ -1,164 +1,164 @@
-﻿# TODO: Translation updated at 2022-02-16 09:42
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
-# game/characters/kiara/sex_3.rpy:66
+# game/characters/kiara/sex_3.rpy:86
 translate polish kiara_sex_3_7d231049:
 
     # kiara "Take me."
-    kiara "Weź mnie.{#mtl}{#tl}"
+    kiara "Take me."
 
-# game/characters/kiara/sex_3.rpy:67
+# game/characters/kiara/sex_3.rpy:87
 translate polish kiara_sex_3_be96644c:
 
     # me "Quite direct."
-    me "Całkiem bezpośrednio.{#mtl}{#tl}"
+    me "Quite direct."
 
-# game/characters/kiara/sex_3.rpy:68
+# game/characters/kiara/sex_3.rpy:88
 translate polish kiara_sex_3_5cdaf53d:
 
     # kiara "You could be more direct too."
-    kiara "Mógłbyś też być bardziej bezpośredni.{#mtl}{#tl}"
+    kiara "You could be more direct too."
 
-# game/characters/kiara/sex_3.rpy:72
+# game/characters/kiara/sex_3.rpy:92
 translate polish kiara_sex_3_9174182d:
 
     # kiara "Mmm.."
-    kiara "mmm..{#mtl}{#tl}"
+    kiara "Mmm.."
 
-# game/characters/kiara/sex_3.rpy:73
+# game/characters/kiara/sex_3.rpy:93
 translate polish kiara_sex_3_0662da38:
 
     # me "Allusion taken."
-    me "Zajęta aluzja.{#mtl}{#tl}"
+    me "Allusion taken."
 
-# game/characters/kiara/sex_3.rpy:80
+# game/characters/kiara/sex_3.rpy:102
 translate polish kiara_sex_3_slow_3700946f:
 
     # kiara "Ahh!"
-    kiara "Ach!{#mtl}{#tl}"
+    kiara "Ahh!"
 
-# game/characters/kiara/sex_3.rpy:81
+# game/characters/kiara/sex_3.rpy:104
 translate polish kiara_sex_3_slow_a882d9c5:
 
     # kiara "Harder."
-    kiara "Trudniej.{#mtl}{#tl}"
+    kiara "Harder."
 
-# game/characters/kiara/sex_3.rpy:82
+# game/characters/kiara/sex_3.rpy:108
 translate polish kiara_sex_3_slow_a82e9386:
 
     # kiara "Harder!"
-    kiara "Trudniej!{#mtl}{#tl}"
+    kiara "Harder!"
 
-# game/characters/kiara/sex_3.rpy:83
+# game/characters/kiara/sex_3.rpy:109
 translate polish kiara_sex_3_slow_a1747982:
 
     # me "What a whore. But, well. I'll ravage your pussy!"
-    me "Co za dziwka. Ale cóż. Zniszczę twoją cipkę!{#mtl}{#tl}"
+    me "What a whore. But, well. I'll ravage your pussy!"
 
-# game/characters/kiara/sex_3.rpy:89
+# game/characters/kiara/sex_3.rpy:117
 translate polish kiara_sex_3_fast_0fcad096:
 
     # kiara "Fuck! That's nice!"
-    kiara "Pierdolić! To miłe!{#mtl}{#tl}"
+    kiara "Fuck! That's nice!"
 
-# game/characters/kiara/sex_3.rpy:90
+# game/characters/kiara/sex_3.rpy:118
 translate polish kiara_sex_3_fast_9bc97625:
 
     # me "Haaa.."
-    me "Haaa..{#mtl}{#tl}"
+    me "Haaa.."
 
-# game/characters/kiara/sex_3.rpy:91
+# game/characters/kiara/sex_3.rpy:122
 translate polish kiara_sex_3_fast_ca9ebf78:
 
     # kiara "Ahh!~"
-    kiara "Ach!~{#mtl}{#tl}"
+    kiara "Ahh!~"
 
-# game/characters/kiara/sex_3.rpy:92
+# game/characters/kiara/sex_3.rpy:123
 translate polish kiara_sex_3_fast_b7a83025:
 
     # me "Fuck."
-    me "Pierdolić.{#mtl}{#tl}"
+    me "Fuck."
 
-# game/characters/kiara/sex_3.rpy:93
+# game/characters/kiara/sex_3.rpy:124
 translate polish kiara_sex_3_fast_6afa0f8d:
 
     # kiara "How do I feel?"
-    kiara "Jak się czuję?{#mtl}{#tl}"
+    kiara "How do I feel?"
 
-# game/characters/kiara/sex_3.rpy:94
+# game/characters/kiara/sex_3.rpy:125
 translate polish kiara_sex_3_fast_4218bd69:
 
     # me "Tight."
-    me "Obcisły.{#mtl}{#tl}"
+    me "Tight."
 
-# game/characters/kiara/sex_3.rpy:100
+# game/characters/kiara/sex_3.rpy:132
 translate polish kiara_sex_3_before_3c013828:
 
     # kiara "Mmm!"
-    kiara "mmm!{#mtl}{#tl}"
+    kiara "Mmm!"
 
-# game/characters/kiara/sex_3.rpy:101
+# game/characters/kiara/sex_3.rpy:136
 translate polish kiara_sex_3_before_04d8c388:
 
     # kiara "Ahh!!"
-    kiara "Ach!!{#mtl}{#tl}"
+    kiara "Ahh!!"
 
-# game/characters/kiara/sex_3.rpy:102
+# game/characters/kiara/sex_3.rpy:140
 translate polish kiara_sex_3_before_5db79423:
 
     # kiara "Ohhh!"
-    kiara "Och!{#mtl}{#tl}"
+    kiara "Ohhh!"
 
-# game/characters/kiara/sex_3.rpy:110
+# game/characters/kiara/sex_3.rpy:149
 translate polish kiara_sex_3_cum_a5db8232:
 
     # kiara "Ahhhh!!"
-    kiara "Ahhhh!!{#mtl}{#tl}"
+    kiara "Ahhhh!!"
 
-# game/characters/kiara/sex_3.rpy:114
+# game/characters/kiara/sex_3.rpy:153
 translate polish kiara_sex_3_cum_8eda3dd3:
 
     # me "Oh.."
-    me "Oh..{#mtl}{#tl}"
+    me "Oh.."
 
-# game/characters/kiara/sex_3.rpy:115
+# game/characters/kiara/sex_3.rpy:157
 translate polish kiara_sex_3_cum_98654294:
 
     # kiara "That felt great."
-    kiara "To było świetne.{#mtl}{#tl}"
+    kiara "That felt great."
 
-# game/characters/kiara/sex_3.rpy:116
+# game/characters/kiara/sex_3.rpy:158
 translate polish kiara_sex_3_cum_6b9f946a:
 
     # me "It did."
-    me "Tak było.{#mtl}{#tl}"
+    me "It did."
 
-# game/characters/kiara/sex_3.rpy:120
+# game/characters/kiara/sex_3.rpy:162
 translate polish kiara_sex_3_cum_6a316fd6:
 
     # kiara "Mmm."
-    kiara "mmm.{#mtl}{#tl}"
+    kiara "Mmm."
 
-# game/characters/kiara/sex_3.rpy:124
+# game/characters/kiara/sex_3.rpy:166
 translate polish kiara_sex_3_cum_0d6e2182:
 
     # kiara "It's the appropriate time for us to clothe ourselves."
-    kiara "To odpowiedni czas, abyśmy się ubrali.{#mtl}{#tl}"
+    kiara "It's the appropriate time for us to clothe ourselves."
 
-# game/characters/kiara/sex_3.rpy:125
+# game/characters/kiara/sex_3.rpy:167
 translate polish kiara_sex_3_cum_b22dad99:
 
     # me "Are you afraid of being caught?"
-    me "Boisz się, że zostaniesz złapany?{#mtl}{#tl}"
+    me "Are you afraid of being caught?"
 
-# game/characters/kiara/sex_3.rpy:126
+# game/characters/kiara/sex_3.rpy:168
 translate polish kiara_sex_3_cum_951bdf8a:
 
     # kiara "Haha, no."
-    kiara "Haha nie.{#mtl}{#tl}"
+    kiara "Haha, no."
 
-# game/characters/kiara/sex_3.rpy:127
+# game/characters/kiara/sex_3.rpy:169
 translate polish kiara_sex_3_cum_de7c1f1f:
 
     # kiara "Now take you dick out, and get your clothes on."
-    kiara "A teraz wyjmij swojego kutasa i ubierz się.{#mtl}{#tl}"
+    kiara "Now take you dick out, and get your clothes on."
 

@@ -1,648 +1,648 @@
-﻿# TODO: Translation updated at 2022-08-20 13:48
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/lola/ev_3.rpy:19
 translate polish lola_3_6881df0c:
 
     # me "Hey, [lola]. What's up?"
-    me "Hej, [lola]. Co słychać?{#mtl}{#tl}"
+    me "Hey, [lola]. What's up?"
 
 # game/characters/lola/ev_3.rpy:20
 translate polish lola_3_0af6c5a8:
 
     # lola "..."
-    lola "...{#mtl}{#tl}"
+    lola "..."
 
 # game/characters/lola/ev_3.rpy:21
 translate polish lola_3_0d1d6ee3:
 
     # me "[lola]?"
-    me "[lola]?{#mtl}{#tl}"
+    me "[lola]?"
 
 # game/characters/lola/ev_3.rpy:25
 translate polish lola_3_80110436:
 
     # lola "Yes?"
-    lola "Tak?{#mtl}{#tl}"
+    lola "Yes?"
 
 # game/characters/lola/ev_3.rpy:29
 translate polish lola_3_48522402:
 
     # lola "Oh, it's you."
-    lola "Och, to ty.{#mtl}{#tl}"
+    lola "Oh, it's you."
 
 # game/characters/lola/ev_3.rpy:30
 translate polish lola_3_c7d87fe5:
 
     # me "Everything alright?"
-    me "Wszystko w porządku?{#mtl}{#tl}"
+    me "Everything alright?"
 
 # game/characters/lola/ev_3.rpy:34
 translate polish lola_3_f737123f:
 
     # lola "I'm not sure."
-    lola "Nie jestem pewny.{#mtl}{#tl}"
+    lola "I'm not sure."
 
 # game/characters/lola/ev_3.rpy:35
 translate polish lola_3_1f877649:
 
     # me "What do you mean?"
-    me "Co masz na myśli?{#mtl}{#tl}"
+    me "What do you mean?"
 
 # game/characters/lola/ev_3.rpy:36
 translate polish lola_3_f8ee6939:
 
     # lola "I have a severe headache."
-    lola "Mam silny ból głowy.{#mtl}{#tl}"
+    lola "I have a severe headache."
 
 # game/characters/lola/ev_3.rpy:37
 translate polish lola_3_d43611f6:
 
     # me "I see. Do you need some painkillers?"
-    me "Widzę. Potrzebujesz środków przeciwbólowych?{#mtl}{#tl}"
+    me "I see. Do you need some painkillers?"
 
 # game/characters/lola/ev_3.rpy:38
 translate polish lola_3_0bf85ec6:
 
     # lola "It won't help."
-    lola "To nie pomoże.{#mtl}{#tl}"
+    lola "It won't help."
 
 # game/characters/lola/ev_3.rpy:39
 translate polish lola_3_5848ccb8:
 
     # me "Oh? Why is that?"
-    me "Oh? Dlaczego?{#mtl}{#tl}"
+    me "Oh? Why is that?"
 
 # game/characters/lola/ev_3.rpy:43
 translate polish lola_3_15cba3e2:
 
     # lola "It doesn't matter. Wanna fool around?"
-    lola "To nie ma znaczenia. Chcesz się wygłupiać?{#mtl}{#tl}"
+    lola "It doesn't matter. Wanna fool around?"
 
 # game/characters/lola/ev_3.rpy:44
 translate polish lola_3_b5ef3a6c:
 
     # me "Direct. Are you sure you're up for fun?"
-    me "Bezpośredni. Jesteś pewien, że chcesz się zabawić?{#mtl}{#tl}"
+    me "Direct. Are you sure you're up for fun?"
 
 # game/characters/lola/ev_3.rpy:45
 translate polish lola_3_9825d9e4:
 
     # lola "Yeah. It'll help me forget about the pain."
-    lola "Tak. Pomoże mi zapomnieć o bólu.{#mtl}{#tl}"
+    lola "Yeah. It'll help me forget about the pain."
 
 # game/characters/lola/ev_3.rpy:49
 translate polish lola_3_a92aa74f:
 
     # lola "Come."
-    lola "Przychodzić.{#mtl}{#tl}"
+    lola "Come."
 
 # game/characters/lola/ev_3.rpy:50
 translate polish lola_3_5f28ca4c:
 
     # me "I have a feeling you're different today."
-    me "Mam wrażenie, że jesteś dzisiaj inny.{#mtl}{#tl}"
+    me "I have a feeling you're different today."
 
 # game/characters/lola/ev_3.rpy:54
 translate polish lola_3_d4593e59:
 
     # lola "It's just the pain. Nothing to worry about. It'll disappear soon enough."
-    lola "To tylko ból. Nie ma się o co martwić. Niedługo zniknie.{#mtl}{#tl}"
+    lola "It's just the pain. Nothing to worry about. It'll disappear soon enough."
 
 # game/characters/lola/ev_3.rpy:55
 translate polish lola_3_3820771a:
 
     # me "..."
-    me "...{#mtl}{#tl}"
+    me "..."
 
 # game/characters/lola/ev_3.rpy:59
 translate polish lola_3_3a8b6c1c:
 
     # lola "Sit down."
-    lola "Usiądź.{#mtl}{#tl}"
+    lola "Sit down."
 
 # game/characters/lola/ev_3.rpy:63
 translate polish lola_3_f51bd375:
 
     # lola "My hands or feet? Pick."
-    lola "Moje ręce czy stopy? Wybierać.{#mtl}{#tl}"
+    lola "My hands or feet? Pick."
 
 # game/characters/lola/ev_3.rpy:64
 translate polish lola_3_7011bfbd:
 
     # me "Heh, I even have a choice?"
-    me "Heh, w ogóle mam wybór?{#mtl}{#tl}"
+    me "Heh, I even have a choice?"
 
 # game/characters/lola/ev_3.rpy:68
 translate polish lola_3_ee7cf6c5:
 
     # lola "Consider it carefully. You wouldn't want to miss out."
-    lola "Rozważ to dokładnie. Nie chciałbyś przegapić.{#mtl}{#tl}"
+    lola "Consider it carefully. You wouldn't want to miss out."
 
 # game/characters/lola/ev_3.rpy:69
 translate polish lola_3_327140d4:
 
     # me "You make it look like there was also a boobjob on the table."
-    me "Sprawiasz, że wygląda to tak, jakby na stole był też boobjob.{#mtl}{#tl}"
+    me "You make it look like there was also a boobjob on the table."
 
 # game/characters/lola/ev_3.rpy:70
 translate polish lola_3_6b1232d7:
 
     # lola "I just want you to get horny."
-    lola "Chcę tylko, żebyś się podniecił.{#mtl}{#tl}"
+    lola "I just want you to get horny."
 
 # game/characters/lola/ev_3.rpy:74
 translate polish lola_3_8f691af6:
 
     # lola "Does it work?"
-    lola "Czy to działa?{#mtl}{#tl}"
+    lola "Does it work?"
 
 # game/characters/lola/ev_3.rpy:75
 translate polish lola_3_efd11542:
 
     # me "What do you think?"
-    me "Co myślisz?{#mtl}{#tl}"
+    me "What do you think?"
 
 # game/characters/lola/ev_3.rpy:79
 translate polish lola_3_270421e0:
 
     # lola "You're here, that says enough."
-    lola "Jesteś tutaj, to mówi wystarczająco dużo.{#mtl}{#tl}"
+    lola "You're here, that says enough."
 
 # game/characters/lola/ev_3.rpy:80
 translate polish lola_3_0df9463a:
 
     # me "Good point."
-    me "Słuszna uwaga.{#mtl}{#tl}"
+    me "Good point."
 
 # game/characters/lola/ev_3.rpy:84
 translate polish lola_3_b7c5599c:
 
     # lola "Take a good look."
-    lola "Przyjrzyj się dobrze.{#mtl}{#tl}"
+    lola "Take a good look."
 
 # game/characters/lola/ev_3.rpy:85
 translate polish lola_3_591dda2b:
 
     # me "Oh, I did. Great view."
-    me "Och, zrobiłem to. Świetny widok.{#mtl}{#tl}"
+    me "Oh, I did. Great view."
 
 # game/characters/lola/ev_3.rpy:88
 translate polish lola_3_619430e4:
 
     # lola "Great. Now that you're hard, what do you want me to do?" nointeract
-    lola "Świetnie. Teraz, kiedy jesteś twardy, co chcesz, żebym zrobił?{#mtl}{#tl}" nointeract
+    lola "Great. Now that you're hard, what do you want me to do?" nointeract
 
 # game/characters/lola/ev_3.rpy:98
 translate polish lola_3_fun1_5c79fab8:
 
     # me "Mmmm.."
-    me "mmm..{#mtl}{#tl}"
+    me "Mmmm.."
 
 # game/characters/lola/ev_3.rpy:99
 translate polish lola_3_fun1_4b7fd1c0:
 
     # me "You're good at this. Especially for someone so inexperienced."
-    me "Jesteś w tym dobry. Zwłaszcza dla kogoś tak niedoświadczonego.{#mtl}{#tl}"
+    me "You're good at this. Especially for someone so inexperienced."
 
 # game/characters/lola/ev_3.rpy:100
 translate polish lola_3_fun1_8f0788cc:
 
     # lola "Experience is subjective. Some people just need a moment to grasp something."
-    lola "Doświadczenie jest subiektywne. Niektórzy potrzebują chwili, żeby coś pojąć.{#mtl}{#tl}"
+    lola "Experience is subjective. Some people just need a moment to grasp something."
 
 # game/characters/lola/ev_3.rpy:101
 translate polish lola_3_fun1_49d5be38:
 
     # lola "Be it natural talent, or... other factors."
-    lola "Czy to naturalny talent, czy... inne czynniki.{#mtl}{#tl}"
+    lola "Be it natural talent, or... other factors."
 
 # game/characters/lola/ev_3.rpy:102
 translate polish lola_3_fun1_558a6942:
 
     # me "Other factors?"
-    me "Inne czynniki?{#mtl}{#tl}"
+    me "Other factors?"
 
 # game/characters/lola/ev_3.rpy:108
 translate polish lola_3_fun2_87b5ddf6:
 
     # lola "Focus on the pleasure."
-    lola "Skoncentruj się na przyjemności.{#mtl}{#tl}"
+    lola "Focus on the pleasure."
 
 # game/characters/lola/ev_3.rpy:109
 translate polish lola_3_fun2_069c0b02:
 
     # me "Good idea."
-    me "Dobry pomysł.{#mtl}{#tl}"
+    me "Good idea."
 
 # game/characters/lola/ev_3.rpy:110
 translate polish lola_3_fun2_1e2c80a2:
 
     # me "And fuck, it's really nice."
-    me "I kurwa, to jest naprawdę miłe.{#mtl}{#tl}"
+    me "And fuck, it's really nice."
 
 # game/characters/lola/ev_3.rpy:111
 translate polish lola_3_fun2_c0e9464f:
 
     # lola "Haha."
-    lola "Ha ha.{#mtl}{#tl}"
+    lola "Haha."
 
 # game/characters/lola/ev_3.rpy:112
 translate polish lola_3_fun2_268c44fc:
 
     # me "Mmm.."
-    me "mmm..{#mtl}{#tl}"
+    me "Mmm.."
 
 # game/characters/lola/ev_3.rpy:113
 translate polish lola_3_fun2_1660d826:
 
     # lola "Let's do a little change."
-    lola "Zróbmy małą zmianę.{#mtl}{#tl}"
+    lola "Let's do a little change."
 
 # game/characters/lola/ev_3.rpy:119
 translate polish lola_3_fun3_9af8048e:
 
     # me "Niiice!"
-    me "Nic!{#mtl}{#tl}"
+    me "Niiice!"
 
 # game/characters/lola/ev_3.rpy:120
 translate polish lola_3_fun3_2122b811:
 
     # lola "Mmm.. Nice feeling."
-    lola "Mmm.. Miłe uczucie.{#mtl}{#tl}"
+    lola "Mmm.. Nice feeling."
 
 # game/characters/lola/ev_3.rpy:121
 translate polish lola_3_fun3_bac1cb40:
 
     # me "Huh?"
-    me "co?{#mtl}{#tl}"
+    me "Huh?"
 
 # game/characters/lola/ev_3.rpy:122
 translate polish lola_3_fun3_f727aea0:
 
     # lola "Nothing. It's just that my headache is fading away."
-    lola "Nic. Po prostu mój ból głowy zanika.{#mtl}{#tl}"
+    lola "Nothing. It's just that my headache is fading away."
 
 # game/characters/lola/ev_3.rpy:123
 translate polish lola_3_fun3_73032268:
 
     # me "Good news."
-    me "Dobre wieści.{#mtl}{#tl}"
+    me "Good news."
 
 # game/characters/lola/ev_3.rpy:124
 translate polish lola_3_fun3_b8f23b47:
 
     # lola "Again. Focus."
-    lola "Ponownie. Centrum.{#mtl}{#tl}"
+    lola "Again. Focus."
 
 # game/characters/lola/ev_3.rpy:125
 translate polish lola_3_fun3_9bd645c3:
 
     # me "Huh? Okay."
-    me "co? Dobra.{#mtl}{#tl}"
+    me "Huh? Okay."
 
 # game/characters/lola/ev_3.rpy:126
 translate polish lola_3_fun3_127ae008:
 
     # th "She's acting weirder than usual."
-    th "Zachowuje się dziwniej niż zwykle.{#mtl}{#tl}"
+    th "She's acting weirder than usual."
 
 # game/characters/lola/ev_3.rpy:132
 translate polish lola_3_fun4_dd9636c7:
 
     # me "Ahh.."
-    me "Ahh..{#mtl}{#tl}"
+    me "Ahh.."
 
 # game/characters/lola/ev_3.rpy:133
 translate polish lola_3_fun4_2c63f614:
 
     # lola "Haha. Cum, cum for me!"
-    lola "Ha ha. Spuść się, spuść się dla mnie!{#mtl}{#tl}"
+    lola "Haha. Cum, cum for me!"
 
 # game/characters/lola/ev_3.rpy:134
 translate polish lola_3_fun4_57f0a9e0:
 
     # me "Fuck!"
-    me "Pierdolić!{#mtl}{#tl}"
+    me "Fuck!"
 
 # game/characters/lola/ev_3.rpy:142
 translate polish lola_3_hand_eefcae21:
 
     # me "You look hot."
-    me "Wyglądasz gorąco.{#mtl}{#tl}"
+    me "You look hot."
 
 # game/characters/lola/ev_3.rpy:143
 translate polish lola_3_hand_7c4a27e1:
 
     # lola "You look tasty."
-    lola "Wyglądasz smacznie.{#mtl}{#tl}"
+    lola "You look tasty."
 
 # game/characters/lola/ev_3.rpy:144
 translate polish lola_3_hand_3826ab92:
 
     # me "Tasty? Haha, you pervert."
-    me "Smaczny? Haha, ty zboczeńcu.{#mtl}{#tl}"
+    me "Tasty? Haha, you pervert."
 
 # game/characters/lola/ev_3.rpy:145
 translate polish lola_3_hand_f4c52084:
 
     # me "Have a piece."
-    me "Zjedz kawałek.{#mtl}{#tl}"
+    me "Have a piece."
 
 # game/characters/lola/ev_3.rpy:146
 translate polish lola_3_hand_8977b43c:
 
     # lola "With pleasure."
-    lola "Z przyjemnością.{#mtl}{#tl}"
+    lola "With pleasure."
 
 # game/characters/lola/ev_3.rpy:159
 translate polish lola_3_hand_166d9144:
 
     # me "Ahh!"
-    me "Ach!{#mtl}{#tl}"
+    me "Ahh!"
 
-# game/characters/lola/ev_3.rpy:166
+# game/characters/lola/ev_3.rpy:167
 translate polish lola_3_hand_5021510c:
 
     # me "That was nice."
-    me "To było ładne.{#mtl}{#tl}"
+    me "That was nice."
 
-# game/characters/lola/ev_3.rpy:170
+# game/characters/lola/ev_3.rpy:171
 translate polish lola_3_hand_2d592c6c:
 
     # lola "And my headache is gone. Good."
-    lola "I mój ból głowy zniknął. Dobry.{#mtl}{#tl}"
+    lola "And my headache is gone. Good."
 
-# game/characters/lola/ev_3.rpy:171
+# game/characters/lola/ev_3.rpy:172
 translate polish lola_3_hand_1731ff24:
 
     # me "Happy to hear that."
-    me "Szczęśliwy słysząc, że.{#mtl}{#tl}"
+    me "Happy to hear that."
 
-# game/characters/lola/ev_3.rpy:172
+# game/characters/lola/ev_3.rpy:173
 translate polish lola_3_hand_69b7d5ff:
 
     # me "That was a nice handjob."
-    me "To była niezła ręczna robota.{#mtl}{#tl}"
+    me "That was a nice handjob."
 
-# game/characters/lola/ev_3.rpy:173
+# game/characters/lola/ev_3.rpy:174
 translate polish lola_3_hand_6c79a09e:
 
     # lola "Thanks."
-    lola "Dzięki.{#mtl}{#tl}"
+    lola "Thanks."
 
-# game/characters/lola/ev_3.rpy:184
+# game/characters/lola/ev_3.rpy:185
 translate polish lola_3_feet_8b2dddb6:
 
     # me "Have you ever done this before?" id lola_3_feet_8b2dddb6
-    me "Czy kiedykolwiek to robiłeś?{#mtl}{#tl}" id lola_3_feet_8b2dddb6
+    me "Have you ever done this before?" id lola_3_feet_8b2dddb6
 
-# game/characters/lola/ev_3.rpy:185
+# game/characters/lola/ev_3.rpy:186
 translate polish lola_3_feet_d5822ca5:
 
     # lola "You should know I did not."
-    lola "Powinieneś wiedzieć, że nie.{#mtl}{#tl}"
+    lola "You should know I did not."
 
-# game/characters/lola/ev_3.rpy:186
+# game/characters/lola/ev_3.rpy:187
 translate polish lola_3_feet_e9764eda:
 
     # me "Right."
-    me "Prawidłowy.{#mtl}{#tl}"
+    me "Right."
 
-# game/characters/lola/ev_3.rpy:187
+# game/characters/lola/ev_3.rpy:188
 translate polish lola_3_feet_19958bfd:
 
     # lola "Don't worry, I've seen it in movies."
-    lola "Nie martw się, widziałem to na filmach.{#mtl}{#tl}"
+    lola "Don't worry, I've seen it in movies."
 
-# game/characters/lola/ev_3.rpy:200
+# game/characters/lola/ev_3.rpy:201
 translate polish lola_3_feet_166d9144:
 
     # me "Ahh!"
-    me "Ach!{#mtl}{#tl}"
+    me "Ahh!"
 
-# game/characters/lola/ev_3.rpy:207
+# game/characters/lola/ev_3.rpy:209
 translate polish lola_3_feet_4ea52f42:
 
     # lola "You shoot far."
-    lola "Strzelasz daleko.{#mtl}{#tl}"
+    lola "You shoot far."
 
-# game/characters/lola/ev_3.rpy:208
+# game/characters/lola/ev_3.rpy:210
 translate polish lola_3_feet_d438c59d:
 
     # me "That was a nice evening."
-    me "To był miły wieczór.{#mtl}{#tl}"
+    me "That was a nice evening."
 
-# game/characters/lola/ev_3.rpy:212
+# game/characters/lola/ev_3.rpy:214
 translate polish lola_3_feet_638a4054:
 
     # lola "My headache is gone. Great."
-    lola "Mój ból głowy zniknął. Świetnie.{#mtl}{#tl}"
+    lola "My headache is gone. Great."
 
-# game/characters/lola/ev_3.rpy:213
+# game/characters/lola/ev_3.rpy:215
 translate polish lola_3_feet_723320b3:
 
     # me "Oh, nice."
-    me "Och, miło.{#mtl}{#tl}"
+    me "Oh, nice."
 
-# game/characters/lola/ev_3.rpy:214
+# game/characters/lola/ev_3.rpy:216
 translate polish lola_3_feet_e0e71568:
 
     # me "Thanks for the footjob."
-    me "Dzięki za foot fetysz.{#mtl}{#tl}"
+    me "Thanks for the footjob."
 
-# game/characters/lola/ev_3.rpy:215
+# game/characters/lola/ev_3.rpy:217
 translate polish lola_3_feet_64cc8b50:
 
     # lola "No problem."
-    lola "Bez problemu.{#mtl}{#tl}"
+    lola "No problem."
 
-# game/characters/lola/ev_3.rpy:222
+# game/characters/lola/ev_3.rpy:224
 translate polish lola_3_feet_95feaa55:
 
     # th "What a hot view. Maybe I should ask for more?" nointeract
-    th "Co za gorący widok. Może powinienem prosić o więcej?{#mtl}{#tl}" nointeract
+    th "What a hot view. Maybe I should ask for more?" nointeract
 
-# game/characters/lola/ev_3.rpy:232
+# game/characters/lola/ev_3.rpy:234
 translate polish lola_3_sex_cefda0cf:
 
     # me "How about we have some more fun."
-    me "Co powiesz na to, żebyśmy się jeszcze trochę pobawili.{#mtl}{#tl}"
+    me "How about we have some more fun."
 
-# game/characters/lola/ev_3.rpy:236
+# game/characters/lola/ev_3.rpy:238
 translate polish lola_3_sex_f754d928:
 
     # lola "I want to rest, so you have to handle yourself."
-    lola "Chcę odpocząć, więc musisz sobie radzić.{#mtl}{#tl}"
+    lola "I want to rest, so you have to handle yourself."
 
-# game/characters/lola/ev_3.rpy:237
+# game/characters/lola/ev_3.rpy:239
 translate polish lola_3_sex_f531536a:
 
     # lola "Feel free to do whatever you want to me."
-    lola "Nie krępuj się robić ze mną, co chcesz.{#mtl}{#tl}"
+    lola "Feel free to do whatever you want to me."
 
-# game/characters/lola/ev_3.rpy:241
+# game/characters/lola/ev_3.rpy:243
 translate polish lola_3_sex_8b408a7c:
 
     # th "Damn."
-    th "Cholera.{#mtl}{#tl}"
+    th "Damn."
 
-# game/characters/lola/ev_3.rpy:242
+# game/characters/lola/ev_3.rpy:244
 translate polish lola_3_sex_b31b22e7:
 
     # me "You don't need to tell me twice."
-    me "Nie musisz mi dwa razy powtarzać.{#mtl}{#tl}"
+    me "You don't need to tell me twice."
 
-# game/characters/lola/ev_3.rpy:246
+# game/characters/lola/ev_3.rpy:248
 translate polish lola_3_sex_6d073ed2:
 
     # lola "Mhm~"
-    lola "Mhm~{#mtl}{#tl}"
+    lola "Mhm~"
 
-# game/characters/lola/ev_3.rpy:247
+# game/characters/lola/ev_3.rpy:249
 translate polish lola_3_sex_00dac8ab:
 
     # lola "I have one request."
-    lola "Mam jedną prośbę.{#mtl}{#tl}"
+    lola "I have one request."
 
-# game/characters/lola/ev_3.rpy:248
+# game/characters/lola/ev_3.rpy:250
 translate polish lola_3_sex_2930e26f:
 
     # me "Yes?"
-    me "Tak?{#mtl}{#tl}"
+    me "Yes?"
 
-# game/characters/lola/ev_3.rpy:249
+# game/characters/lola/ev_3.rpy:251
 translate polish lola_3_sex_c19610eb:
 
     # lola "I want to get creampied."
-    lola "Chcę dostać spermę w środku.{#mtl}{#tl}"
+    lola "I want to get creampied."
 
-# game/characters/lola/ev_3.rpy:250
+# game/characters/lola/ev_3.rpy:252
 translate polish lola_3_sex_8be20cfb:
 
     # me "How direct, haha."
-    me "Jakie bezpośrednie, hehe.{#mtl}{#tl}"
+    me "How direct, haha."
 
-# game/characters/lola/ev_3.rpy:254
+# game/characters/lola/ev_3.rpy:256
 translate polish lola_3_sex_7b92df5b:
 
     # lola "Mmm!"
-    lola "mmm!{#mtl}{#tl}"
+    lola "Mmm!"
 
-# game/characters/lola/ev_3.rpy:255
+# game/characters/lola/ev_3.rpy:257
 translate polish lola_3_sex_d8f41dc8:
 
     # me "I'll fill you to the brim."
-    me "Wypełnię cię po brzegi.{#mtl}{#tl}"
+    me "I'll fill you to the brim."
 
-# game/characters/lola/ev_3.rpy:256
+# game/characters/lola/ev_3.rpy:258
 translate polish lola_3_sex_fb51e16f:
 
     # lola "Great. Thank you."
-    lola "Świetnie. Dziękuję.{#mtl}{#tl}"
+    lola "Great. Thank you."
 
-# game/characters/lola/ev_3.rpy:260
+# game/characters/lola/ev_3.rpy:262
 translate polish lola_3_sex_166d9144:
 
     # me "Ahh!"
-    me "Ach!{#mtl}{#tl}"
+    me "Ahh!"
 
-# game/characters/lola/ev_3.rpy:261
+# game/characters/lola/ev_3.rpy:263
 translate polish lola_3_sex_1170d26f:
 
     # th "She's so big at the front, but hell, she's damn tight down there."
-    th "Jest taka duża z przodu, ale do diabła, tam jest cholernie ciasna.{#mtl}{#tl}"
+    th "She's so big at the front, but hell, she's damn tight down there."
 
-# game/characters/lola/ev_3.rpy:265
+# game/characters/lola/ev_3.rpy:267
 translate polish lola_3_sex_582726fe:
 
     # lola "That's the relax I love."
-    lola "To relaks, który kocham.{#mtl}{#tl}"
+    lola "That's the relax I love."
 
-# game/characters/lola/ev_3.rpy:266
+# game/characters/lola/ev_3.rpy:268
 translate polish lola_3_sex_6b59b6f4:
 
     # me "Do you know what I love?"
-    me "Czy wiesz, co kocham?{#mtl}{#tl}"
+    me "Do you know what I love?"
 
-# game/characters/lola/ev_3.rpy:267
+# game/characters/lola/ev_3.rpy:269
 translate polish lola_3_sex_0553fe80:
 
     # lola "My pussy?"
-    lola "Moja cipka?{#mtl}{#tl}"
+    lola "My pussy?"
 
-# game/characters/lola/ev_3.rpy:268
+# game/characters/lola/ev_3.rpy:270
 translate polish lola_3_sex_9a03a6d2:
 
     # me "Haha, that too. What I love is cumming!"
-    me "Ha ha, to też. To, co kocham, to cumming!{#mtl}{#tl}"
+    me "Haha, that too. What I love is cumming!"
 
-# game/characters/lola/ev_3.rpy:276
+# game/characters/lola/ev_3.rpy:279
 translate polish lola_3_sex_a22eb0aa:
 
     # me "Ahhh!"
-    me "Ach!{#mtl}{#tl}"
+    me "Ahhh!"
 
-# game/characters/lola/ev_3.rpy:277
+# game/characters/lola/ev_3.rpy:280
 translate polish lola_3_sex_81c46e2a:
 
     # lola "Ohh~"
-    lola "Och~{#mtl}{#tl}"
+    lola "Ohh~"
 
-# game/characters/lola/ev_3.rpy:281
+# game/characters/lola/ev_3.rpy:284
 translate polish lola_3_sex_7416b4ca:
 
     # lola "Oh.. I love the warm semen inside."
-    lola "Och.. Uwielbiam ciepłą spermę w środku.{#mtl}{#tl}"
+    lola "Oh.. I love the warm semen inside."
 
-# game/characters/lola/ev_3.rpy:282
+# game/characters/lola/ev_3.rpy:285
 translate polish lola_3_sex_88eab5f5:
 
     # me "Haha."
-    me "Ha ha.{#mtl}{#tl}"
+    me "Haha."
 
-# game/characters/lola/ev_3.rpy:283
+# game/characters/lola/ev_3.rpy:286
 translate polish lola_3_sex_2c07aa5e:
 
     # me "Now, it's really time for me to go."
-    me "Teraz już naprawdę czas na mnie.{#mtl}{#tl}"
+    me "Now, it's really time for me to go."
 
-# game/characters/lola/ev_3.rpy:284
+# game/characters/lola/ev_3.rpy:287
 translate polish lola_3_sex_261e06de:
 
     # lola "Thanks for the fun."
-    lola "Dzięki za zabawę.{#mtl}{#tl}"
+    lola "Thanks for the fun."
 
-# game/characters/lola/ev_3.rpy:285
+# game/characters/lola/ev_3.rpy:288
 translate polish lola_3_sex_6a729aa7:
 
     # me "Haha, thank you, too."
-    me "Haha, ja też dziękuję.{#mtl}{#tl}"
+    me "Haha, thank you, too."
 
-# game/characters/lola/ev_3.rpy:291
+# game/characters/lola/ev_3.rpy:294
 translate polish lola_3_fun5_a6d64fea:
 
     # lola "Now that it's gone, I can finally rest in peace."
-    lola "Teraz, kiedy już go nie ma, mogę w końcu odpocząć w spokoju.{#mtl}{#tl}"
+    lola "Now that it's gone, I can finally rest in peace."
 
-# game/characters/lola/ev_3.rpy:292
+# game/characters/lola/ev_3.rpy:295
 translate polish lola_3_fun5_ed32a802:
 
     # me "Got it. Take care."
-    me "Rozumiem. Dbać o siebie.{#mtl}{#tl}"
+    me "Got it. Take care."
 
-# game/characters/lola/ev_3.rpy:293
+# game/characters/lola/ev_3.rpy:296
 translate polish lola_3_fun5_74eaa57d:
 
     # lola "Till next time."
-    lola "Do następnego razu.{#mtl}{#tl}"
+    lola "Till next time."
 
 translate polish strings:
 
-    # game/characters/lola/ev_3.rpy:221
+    # game/characters/lola/ev_3.rpy:223
     old "Ask her for sex"
-    new "Zaproś ją na seks{#mtl}{#tl}"
+    new "Ask her for sex"
 
-    # game/characters/lola/ev_3.rpy:221
+    # game/characters/lola/ev_3.rpy:223
     old "Let her rest"
-    new "Pozwól jej odpocząć{#mtl}{#tl}"
+    new "Let her rest"
 

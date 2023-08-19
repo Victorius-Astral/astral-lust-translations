@@ -1,37 +1,10 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
-    # game/combat/decks/DecksMenu.rpy:30
-    old "Right click - destroy a card"
-    new "Kliknij prawym przyciskiem myszy - zniszcz kartę{#mtl}{#tl}"
-
-    # game/combat/decks/DecksMenu.rpy:68
-    old "Do you want to destroy {} card?"
-    new "Czy chcesz zniszczyć {} karta?{{#mtl}}{{#tl}}"
-
-    # game/combat/decks/DecksMenu.rpy:68
-    old "Destroyed {} card."
-    new "Zniszczony {} karta.{{#mtl}}{{#tl}}"
-
-    # game/combat/decks/DecksMenu.rpy:68
-    old "You need at least 11 not exhaustible cards in all decks to destroy a card!"
-    new "Potrzebujesz co najmniej 11 niewyczerpywalnych kart we wszystkich taliach, aby zniszczyć kartę!{#mtl}{#tl}"
-
-    # game/combat/decks/DecksMenu.rpy:93
-    old "You need at least 11 cards in all decks to destroy a card!"
-    new "Potrzebujesz co najmniej 11 kart we wszystkich taliach, aby zniszczyć kartę!{#mtl}{#tl}"
-
-# TODO: Translation updated at 2022-08-20 13:48
-
-translate polish strings:
-
-    # game/combat/decks/DecksMenu.rpy:55
+    # game/combat/decks/DecksMenu.rpy:131
     old "Close"
-    new "Zamknąć{#mtl}{#tl}"
-# TODO: Translation updated at 2023-08-14 07:25
-
-translate polish strings:
+    new "Close"
 
     # game/combat/decks/DecksMenu.rpy:317
     old "Change amount of cards shown at once."

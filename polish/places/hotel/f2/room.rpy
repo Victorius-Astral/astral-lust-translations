@@ -1,54 +1,46 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
-# game/places/hotel/f2/room.rpy:3
-translate polish room_hotel_f2_cc506d76:
-
-    # "Second floor blocked. In future version you'll be able to rebuild the second floor to make rooms for new girls."
-    "Drugie piętro zablokowane. W przyszłej wersji będziesz mógł przebudować drugie piętro, aby zrobić pokoje dla nowych dziewczyn.{#mtl}{#tl}"
-
-# TODO: Translation updated at 2021-07-11 16:45
-
-# game/places/hotel/f2/room.rpy:27
+# game/places/hotel/f2/room.rpy:29
 translate polish room_hotel_f2_873b9e9f:
 
     # "It's too late."
-    "Jest już za późno.{#mtl}{#tl}"
+    "It's too late."
 
-# game/places/hotel/f2/room.rpy:36
+# game/places/hotel/f2/room.rpy:38
 translate polish room_hotel_f2_3688fcdf:
 
     # "Insufficient materials!"
-    "Za mało materiałów!{#mtl}{#tl}"
+    "Insufficient materials!"
 
-# game/places/hotel/f2/room.rpy:46
+# game/places/hotel/f2/room.rpy:48
 translate polish room_hotel_f2_built_6ba8bb46:
 
     # me "Let me take a look at the final effect."
-    me "Zapraszam do obejrzenia efektu końcowego.{#mtl}{#tl}"
+    me "Let me take a look at the final effect."
 
-# game/places/hotel/f2/room.rpy:50
+# game/places/hotel/f2/room.rpy:52
 translate polish room_hotel_f2_built_f7ac33b2:
 
-    # me "Not bad, it is slightly smaller than the other floors, but it's better that way."
-    me "Nieźle, jest nieco mniejszy niż pozostałe piętra, ale tak jest lepiej.{#mtl}{#tl}"
+    # me "Not bad. It is slightly smaller than the other floors, but it's better that way." id room_hotel_f2_built_f7ac33b2
+    me "Not bad. It is slightly smaller than the other floors, but it's better that way." id room_hotel_f2_built_f7ac33b2
 
-# game/places/hotel/f2/room.rpy:51
+# game/places/hotel/f2/room.rpy:53
 translate polish room_hotel_f2_built_8527fa66:
 
     # me "Now I only need to find people to live in these rooms."
-    me "Teraz muszę tylko znaleźć ludzi do zamieszkania w tych pokojach.{#mtl}{#tl}"
+    me "Now I only need to find people to live in these rooms."
 
 translate polish strings:
 
-    # game/places/hotel/f2/room.rpy:22
+    # game/places/hotel/f2/room.rpy:24
     old "Do you want to build next hotel floor? (30 Stone, 15 Wood, 15 Metal)"
-    new "Chcesz zbudować kolejne piętro hotelu? (30 Kamienia, 15 Drewna, 15 Metalu){#mtl}{#tl}"
+    new "Do you want to build next hotel floor? (30 Stone, 15 Wood, 15 Metal)"
 
-# TODO: Translation updated at 2022-01-31 15:20
-
-translate polish strings:
+    # game/places/hotel/f2/room.rpy:24
+    old "Build"
+    new "Build"
 
     # game/places/hotel/f2/room.rpy:47
     old "Hotel expanded successfully!"
-    new "Hotel pomyślnie rozbudowany!{#mtl}{#tl}"
+    new "Hotel expanded successfully!"
 

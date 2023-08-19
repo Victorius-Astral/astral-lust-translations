@@ -1,34 +1,24 @@
-# Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
-    # game/variables/classes/Being.rpy:1116
+    # game/variables/classes/Being.rpy:1475
     old "Health +{} ({}/{})"
-    new "Zdrowie +{} ({}/{}){{#tl}}"
-# TODO: Translation updated at 2022-08-20 13:48
+    new "Health +{} ({}/{})"
 
-translate polish strings:
-
-    # game/variables/classes/Being.rpy:1590
-    old "Buff granted: {buff} {{image={image}}} ({amount})"
-    new "Przyznano wzmocnienie: {buff} {{image={image}}} ({amount}){{#tl}}"
-
-# TODO: Translation updated at 2022-11-13 15:23
-
-translate polish strings:
-
-    # game/variables/classes/Being.rpy:1598
+    # game/variables/classes/Being.rpy:1951
     old "Effect granted: {buff2} {{image={image2}}} ({amount})\\Effect removed: {buff} {{image={image}}}"
-    new "Przyznano efekt: {buff2} {{image={image2}}} ({amount})\\Usunięto efekt: {buff} {{image={image}}}{{#tl}}"
+    new "Effect granted: {buff2} {{image={image2}}} ({amount})\\Effect removed: {buff} {{image={image}}}"
 
-    # game/variables/classes/Being.rpy:1603
+    # game/variables/classes/Being.rpy:1956
     old "Effect reduced: {buff} {{image={image}}} ({amount})"
-    new "Zredukowano efekt: {buff} {{image={image}}} ({amount}){{#tl}}"
+    new "Effect reduced: {buff} {{image={image}}} ({amount})"
 
-    # game/variables/classes/Being.rpy:1608
+    # game/variables/classes/Being.rpy:1961
     old "Effect removed: {buff} {{image={image}}}"
-    new "Usunięto efekt: {buff} {{image={image}}}{{#tl}}"
+    new "Effect removed: {buff} {{image={image}}}"
 
-    # game/variables/classes/Being.rpy:1627
+    # game/variables/classes/Being.rpy:1980
     old "Effect granted: {buff} {{image={image}}} ({amount})"
-    new "Przyznany efekt: {buff} {{image={image}}} ({amount}){{#tl}}"
+    new "Effect granted: {buff} {{image={image}}} ({amount})"
+

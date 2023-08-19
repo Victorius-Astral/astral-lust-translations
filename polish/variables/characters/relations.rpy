@@ -1,15 +1,12 @@
-﻿# Translation updated at 2021-05-15 14:21
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
     # game/variables/characters/relations.rpy:1
     old "sister"
-    new "siostra{#mtl}{#tl}"
+    new "sister"
 
     # game/variables/characters/relations.rpy:2
     old "sis"
-    new "siostrzyczka{#mtl}{#tl}"
+    new "sis"
 
-    # game/variables/characters/relations.rpy:5
-    old "Master"
-    new "Panie{#mtl}{#tl}"

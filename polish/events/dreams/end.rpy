@@ -1,8 +1,8 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/events/dreams/end.rpy:4
 translate polish dream_end_a85086ed:
 
     # "The images dim as the dream fades."
-    "Obrazy bledną, gdy sen zanika.{#mtl}{#tl}"
+    "The images dim as the dream fades."
 

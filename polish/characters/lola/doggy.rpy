@@ -1,224 +1,224 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
-# game/characters/lola/doggy.rpy:10
+# game/characters/lola/doggy.rpy:12
 translate polish lola_doggy_bc7f21d0:
 
     # lola "Get naked."
-    lola "Rozbierz się.{#mtl}{#tl}"
+    lola "Get naked."
 
-# game/characters/lola/doggy.rpy:11
+# game/characters/lola/doggy.rpy:13
 translate polish lola_doggy_3820771a:
 
     # me "..."
-    me "...{#mtl}{#tl}"
+    me "..."
 
-# game/characters/lola/doggy.rpy:14
+# game/characters/lola/doggy.rpy:16
 translate polish lola_doggy_776aaa3d:
 
     # me "Your turn."
-    me "Twoja kolej.{#mtl}{#tl}"
+    me "Your turn."
 
-# game/characters/lola/doggy.rpy:17
+# game/characters/lola/doggy.rpy:19
 translate polish lola_doggy_6efce1fd:
 
     # me "No wasted words, right?"
-    me "Bez zbędnych słów, prawda?{#mtl}{#tl}"
+    me "No wasted words, right?"
 
-# game/characters/lola/doggy.rpy:20
+# game/characters/lola/doggy.rpy:22
 translate polish lola_doggy_51cd3edc:
 
     # lola "Why waste time talking, when we can fuck?"
-    lola "Po co marnować czas na rozmowy, skoro możemy się pieprzyć?{#mtl}{#tl}"
+    lola "Why waste time talking, when we can fuck?"
 
-# game/characters/lola/doggy.rpy:21
+# game/characters/lola/doggy.rpy:23
 translate polish lola_doggy_f561bbee:
 
-    # me "Can't deny.."
-    me "nie mogę zaprzeczyć..{#mtl}{#tl}"
+    # me "Can't deny-" id lola_doggy_f561bbee
+    me "Can't deny-" id lola_doggy_f561bbee
 
-# game/characters/lola/doggy.rpy:24
+# game/characters/lola/doggy.rpy:26
 translate polish lola_doggy_fc2d1489:
 
     # lola "Fuck me. Hard."
-    lola "Pieprz mnie. Twardy.{#mtl}{#tl}"
+    lola "Fuck me. Hard."
 
-# game/characters/lola/doggy.rpy:25
+# game/characters/lola/doggy.rpy:27
 translate polish lola_doggy_daa90337:
 
     # me "That's what I'm here for."
-    me "Po to tutaj jestem.{#mtl}{#tl}"
+    me "That's what I'm here for."
 
-# game/characters/lola/doggy.rpy:33
+# game/characters/lola/doggy.rpy:31
 translate polish lola_doggy_c2c116f3:
 
     # lola "Ahhhnnn!"
-    lola "Ahhnnn!{#mtl}{#tl}"
+    lola "Ahhhnnn!"
 
-# game/characters/lola/doggy.rpy:34
+# game/characters/lola/doggy.rpy:32
 translate polish lola_doggy_4d83a86e:
 
     # me "Uhh."
-    me "Uhh.{#mtl}{#tl}"
+    me "Uhh."
 
-# game/characters/lola/doggy.rpy:35
+# game/characters/lola/doggy.rpy:33
 translate polish lola_doggy_7457938f:
 
     # th "Shit, she is soaking wet.."
-    th "Cholera, ona jest mokra..{#mtl}{#tl}"
+    th "Shit, she is soaking wet.."
 
-# game/characters/lola/doggy.rpy:36
+# game/characters/lola/doggy.rpy:34
 translate polish lola_doggy_05ac0f8a:
 
     # lola "Harder!"
-    lola "Trudniej!{#mtl}{#tl}"
+    lola "Harder!"
 
-# game/characters/lola/doggy.rpy:37
+# game/characters/lola/doggy.rpy:35
 translate polish lola_doggy_eca6a1fd:
 
     # me "W-What? We've just started."
-    me "C-co? Właśnie zaczęliśmy.{#mtl}{#tl}"
+    me "W-What? We've just started."
 
-# game/characters/lola/doggy.rpy:38
+# game/characters/lola/doggy.rpy:36
 translate polish lola_doggy_05ac0f8a_1:
 
     # lola "Harder!"
-    lola "Trudniej!{#mtl}{#tl}"
+    lola "Harder!"
 
-# game/characters/lola/doggy.rpy:39
+# game/characters/lola/doggy.rpy:37
 translate polish lola_doggy_3820771a_1:
 
     # me "..."
-    me "...{#mtl}{#tl}"
+    me "..."
 
-# game/characters/lola/doggy.rpy:47
+# game/characters/lola/doggy.rpy:41
 translate polish lola_doggy_c8418daf:
 
     # me "Ahh."
-    me "Ahh.{#mtl}{#tl}"
+    me "Ahh."
 
-# game/characters/lola/doggy.rpy:48
+# game/characters/lola/doggy.rpy:42
 translate polish lola_doggy_7362326b:
 
     # lola "Mmmm!"
-    lola "mmm!{#mtl}{#tl}"
+    lola "Mmmm!"
 
-# game/characters/lola/doggy.rpy:49
+# game/characters/lola/doggy.rpy:43
 translate polish lola_doggy_2bc21288:
 
     # lola "Harder!!"
-    lola "mocniej!!{#mtl}{#tl}"
+    lola "Harder!!"
 
-# game/characters/lola/doggy.rpy:57
+# game/characters/lola/doggy.rpy:47
 translate polish lola_doggy_4073ab8d:
 
     # th "What is wrong with her?"
-    th "Co jest z nią nie tak?{#mtl}{#tl}"
+    th "What is wrong with her?"
 
-# game/characters/lola/doggy.rpy:58
+# game/characters/lola/doggy.rpy:48
 translate polish lola_doggy_933f9edf:
 
     # lola "Ahmm!"
-    lola "Ahmm!{#mtl}{#tl}"
+    lola "Ahmm!"
 
-# game/characters/lola/doggy.rpy:59
+# game/characters/lola/doggy.rpy:49
 translate polish lola_doggy_ee1ad726:
 
     # me "You're taking my breath away!"
-    me "Zapierasz mi dech w piersiach!{#mtl}{#tl}"
+    me "You're taking my breath away!"
 
-# game/characters/lola/doggy.rpy:60
+# game/characters/lola/doggy.rpy:50
 translate polish lola_doggy_2bc21288_1:
 
     # lola "Harder!!"
-    lola "mocniej!!{#mtl}{#tl}"
+    lola "Harder!!"
 
-# game/characters/lola/doggy.rpy:61
+# game/characters/lola/doggy.rpy:51
 translate polish lola_doggy_3820771a_2:
 
     # me "..."
-    me "...{#mtl}{#tl}"
+    me "..."
 
-# game/characters/lola/doggy.rpy:70
+# game/characters/lola/doggy.rpy:57
 translate polish lola_doggy_d3430968:
 
     # lola "Ahhh!!! That's so good!!!"
-    lola "Ahhh!!! To jest tak dobre!!!{#mtl}{#tl}"
+    lola "Ahhh!!! That's so good!!!"
 
-# game/characters/lola/doggy.rpy:71
+# game/characters/lola/doggy.rpy:58
 translate polish lola_doggy_f266a8d6:
 
     # me "Yeah it is."
-    me "Tak jest.{#mtl}{#tl}"
+    me "Yeah it is."
 
-# game/characters/lola/doggy.rpy:72
+# game/characters/lola/doggy.rpy:59
 translate polish lola_doggy_2a85d52b:
 
     # th "I will die.."
-    th "Umrę..{#mtl}{#tl}"
+    th "I will die.."
 
-# game/characters/lola/doggy.rpy:80
+# game/characters/lola/doggy.rpy:63
 translate polish lola_doggy_166d9144:
 
     # me "Ahh!"
-    me "Ach!{#mtl}{#tl}"
+    me "Ahh!"
 
-# game/characters/lola/doggy.rpy:81
+# game/characters/lola/doggy.rpy:64
 translate polish lola_doggy_ecd1bbdc:
 
     # lola "Haha! Ahh!"
-    lola "Ha ha! Ach!{#mtl}{#tl}"
+    lola "Haha! Ahh!"
 
-# game/characters/lola/doggy.rpy:82
+# game/characters/lola/doggy.rpy:65
 translate polish lola_doggy_248636b3:
 
     # th "I can't hold it back anymore."
-    th "Nie mogę tego dłużej powstrzymywać.{#mtl}{#tl}"
+    th "I can't hold it back anymore."
 
-# game/characters/lola/doggy.rpy:85
+# game/characters/lola/doggy.rpy:68
 translate polish lola_doggy_a22eb0aa:
 
     # me "Ahhh!"
-    me "Ach!{#mtl}{#tl}"
+    me "Ahhh!"
 
-# game/characters/lola/doggy.rpy:86
+# game/characters/lola/doggy.rpy:69
 translate polish lola_doggy_2421bf32:
 
     # lola "Ahhnn!!"
-    lola "Ahhn!!{#mtl}{#tl}"
+    lola "Ahhnn!!"
 
-# game/characters/lola/doggy.rpy:89
+# game/characters/lola/doggy.rpy:72
 translate polish lola_doggy_b2cd1c61:
 
     # lola "Ah.. Nice."
-    lola "Ach.. Fajnie.{#mtl}{#tl}"
+    lola "Ah.. Nice."
 
-# game/characters/lola/doggy.rpy:90
+# game/characters/lola/doggy.rpy:73
 translate polish lola_doggy_09f17666:
 
     # me "I almost died just now."
-    me "Prawie umarłem przed chwilą.{#mtl}{#tl}"
+    me "I almost died just now."
 
-# game/characters/lola/doggy.rpy:91
+# game/characters/lola/doggy.rpy:74
 translate polish lola_doggy_bed02dbd:
 
     # lola "That only means that it was great."
-    lola "To tylko oznacza, że ​​było wspaniale.{#mtl}{#tl}"
+    lola "That only means that it was great."
 
-# game/characters/lola/doggy.rpy:100
+# game/characters/lola/doggy.rpy:84
 translate polish lola_doggy_bdcaf2ec:
 
     # lola "Great, now that I'm satisfied, it's time for you to go."
-    lola "Świetnie, skoro już jestem usatysfakcjonowany, czas na ciebie.{#mtl}{#tl}"
+    lola "Great, now that I'm satisfied, it's time for you to go."
 
-# game/characters/lola/doggy.rpy:103
+# game/characters/lola/doggy.rpy:88
 translate polish lola_doggy_227b0c03:
 
     # me "Huh, I was treated like.. a sex toy?"
-    me "Huh, zostałem potraktowany jak… zabawka erotyczna?{#mtl}{#tl}"
+    me "Huh, I was treated like.. a sex toy?"
 
-# game/characters/lola/doggy.rpy:104
+# game/characters/lola/doggy.rpy:89
 translate polish lola_doggy_3820771a_3:
 
     # me "..."
-    me "...{#mtl}{#tl}"
+    me "..."
 

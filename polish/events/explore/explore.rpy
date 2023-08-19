@@ -1,12 +1,10 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
-# game/events/explore/explore.rpy:9
+# game/events/explore/explore.rpy:51
 translate polish explore_6b1e9b63:
 
     # "You walk down the foggy road looking for anything of interest."
     "You walk down the foggy road looking for anything of interest."
-
-# TODO: Translation updated at 2023-08-14 07:25
 
 translate polish strings:
 

@@ -1,32 +1,26 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/places/hotel/expansions/gym/vit.rpy:5
 translate polish gym_vit_873b9e9f:
 
     # "It's too late."
-    "Jest już za późno.{#mtl}{#tl}"
+    "It's too late."
 
-# game/places/hotel/expansions/gym/vit.rpy:13
+# game/places/hotel/expansions/gym/vit.rpy:16
 translate polish gym_vit_4a739fa7:
 
-    # "You train your vitality."
-    "Trenujesz witalność.{#mtl}{#tl}"
+    # "You train your vitality." id gym_vit_4a739fa7
+    "You train your vitality." id gym_vit_4a739fa7
 
-# game/places/hotel/expansions/gym/vit.rpy:17
-translate polish gym_vit_4a739fa7_1:
-
-    # "You train your vitality."
-    "Trenujesz witalność.{#mtl}{#tl}"
-
-# game/places/hotel/expansions/gym/vit.rpy:22
+# game/places/hotel/expansions/gym/vit.rpy:21
 translate polish gym_vit_ac89b13d:
 
     # "You feel tired after training today, don't push yourself."
-    "Czujesz się zmęczony po dzisiejszym treningu, nie forsuj się.{#mtl}{#tl}"
+    "You feel tired after training today, don't push yourself."
 
 translate polish strings:
 
     # game/places/hotel/expansions/gym/vit.rpy:2
     old "Train vitality"
-    new "Trenuj witalność{#mtl}{#tl}"
+    new "Train vitality"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-14 07:25
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/lexi/vampire.rpy:26
 translate polish lexi_vampire_create_eb3e1042:

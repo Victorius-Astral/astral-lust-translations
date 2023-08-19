@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-14 07:25
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
@@ -9,6 +9,10 @@ translate polish strings:
     # game/dlc/black_emperor/mechanics/items.rpy:4
     old "Currency used by the Black Empire."
     new "Currency used by the Black Empire."
+
+    # game/dlc/black_emperor/mechanics/items.rpy:4
+    old "Currency"
+    new "Currency"
 
     # game/dlc/black_emperor/mechanics/items.rpy:5
     old "Silver Coin"
@@ -21,6 +25,10 @@ translate polish strings:
     # game/dlc/black_emperor/mechanics/items.rpy:11
     old "Imperial Casket"
     new "Imperial Casket"
+
+    # game/dlc/black_emperor/mechanics/items.rpy:11
+    old "Can be opened with {}."
+    new "Can be opened with {}."
 
     # game/dlc/black_emperor/mechanics/items.rpy:12
     old "Casket"

@@ -1,22 +1,24 @@
-﻿# Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
     # game/screens/gui/notify.rpy:58
     old "Test of Middle notification"
-    new "Test środkowego powiadomienia{#mtl}{#tl}"
+    new "Test of Middle notification"
 
     # game/screens/gui/notify.rpy:61
     old "Test of {} #{r}."
-    new "Test {} #{r}.{{#mtl}}{{#tl}}"
-# TODO: Translation updated at 2022-08-20 13:48
+    new "Test of {} #{r}."
 
-translate polish strings:
+    # game/screens/gui/notify.rpy:61
+    old "Notifications"
+    new "Notifications"
 
     # game/screens/gui/notify.rpy:69
     old "Dark - Black"
-    new "Ciemny czarny{#mtl}{#tl}"
+    new "Dark - Black"
 
     # game/screens/gui/notify.rpy:69
     old "Dark - Paper"
-    new "Ciemny - Papier{#mtl}{#tl}"
+    new "Dark - Paper"
+

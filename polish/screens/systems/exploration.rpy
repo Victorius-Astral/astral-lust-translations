@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-14 07:25
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
@@ -29,4 +29,8 @@ translate polish strings:
     # game/screens/systems/exploration.rpy:2
     old "Wanderer's Hideout"
     new "Wanderer's Hideout"
+
+    # game/screens/systems/exploration.rpy:67
+    old "???"
+    new "???"
 

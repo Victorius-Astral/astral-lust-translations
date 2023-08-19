@@ -1,6 +1,10 @@
-﻿# TODO: Translation updated at 2023-08-14 07:25
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
+
+    # game/combat/cards/cards/summoning.rpy:6
+    old "Delusions"
+    new "Delusions"
 
     # game/combat/cards/cards/summoning.rpy:35
     old "Hatchling"

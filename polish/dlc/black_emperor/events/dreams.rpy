@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-14 07:25
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/dlc/black_emperor/events/dreams.rpy:21
 translate polish BE_dream_black_emperor_1e30ef0c:
@@ -587,6 +587,10 @@ translate polish strings:
     # game/dlc/black_emperor/events/dreams.rpy:8
     old "Combat Training"
     new "Combat Training"
+
+    # game/dlc/black_emperor/events/dreams.rpy:9
+    old "Charlotte"
+    new "Charlotte"
 
     # game/dlc/black_emperor/events/dreams.rpy:39
     old "Concubine"

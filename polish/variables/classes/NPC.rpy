@@ -1,50 +1,48 @@
-﻿# Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
-
-    # game/variables/classes/NPC.rpy:90
-    old "{}'s trust + {}"
-    new "Zaufanie {} + {}{{#mtl}}{{#tl}}"
 
     # game/variables/classes/NPC.rpy:99
+    old "{}'s trust + {}"
+    new "{}'s trust + {}"
+
+    # game/variables/classes/NPC.rpy:108
     old "{}'s trust - {}"
-    new "Zaufanie {} - {}{{#mtl}}{{#tl}}"
+    new "{}'s trust - {}"
 
-    # game/variables/classes/NPC.rpy:114
+    # game/variables/classes/NPC.rpy:123
     old "{}'s submission + {}"
-    new "Uległość {} + {}{{#mtl}}{{#tl}}"
+    new "{}'s submission + {}"
 
-    # game/variables/classes/NPC.rpy:124
+    # game/variables/classes/NPC.rpy:133
     old "{}'s submission - {}"
-    new "Uległość {} - {}{{#mtl}}{{#tl}}"
+    new "{}'s submission - {}"
 
-    # game/variables/classes/NPC.rpy:148
+    # game/variables/classes/NPC.rpy:163
     old "{} outfit unlocked ({})."
-    new "{} ubranie odblokowane ({}).{{#mtl}}{{#tl}}"
+    new "{} outfit unlocked ({})."
 
-    # game/variables/classes/NPC.rpy:174
+    # game/variables/classes/NPC.rpy:188
     old "{}'s lust + {}"
-    new "Pożądanie {} + {}{{#mtl}}{{#tl}}"
+    new "{}'s lust + {}"
 
-    # game/variables/classes/NPC.rpy:184
+    # game/variables/classes/NPC.rpy:198
     old "{}'s lust - {}"
-    new "Pożądanie {} - {}{{#mtl}}{{#tl}}"
+    new "{}'s lust - {}"
 
-    # game/variables/classes/NPC.rpy:211
+    # game/variables/classes/NPC.rpy:225
     old "{}'s affection + {}"
-    new "Sympatia {} + {}{{#mtl}}{{#tl}}"
+    new "{}'s affection + {}"
 
-    # game/variables/classes/NPC.rpy:220
+    # game/variables/classes/NPC.rpy:234
     old "{}'s affection - {}"
-    new "Sympatia {} - {}{{#mtl}}{{#tl}}"
-# TODO: Translation updated at 2022-08-20 13:48
+    new "{}'s affection - {}"
 
-translate polish strings:
-
-    # game/variables/classes/NPC.rpy:360
+    # game/variables/classes/NPC.rpy:363
     old "{} is angry!"
-    new "{} jest zły!{{#mtl}}{{#tl}}"
+    new "{} is angry!"
 
-    # game/variables/classes/NPC.rpy:366
+    # game/variables/classes/NPC.rpy:369
     old "{} calmed down and is no longer angry at you!"
-    new "{} uspokoił się i nie jest już na ciebie zły!{{#mtl}}{{#tl}}"
+    new "{} calmed down and is no longer angry at you!"
+

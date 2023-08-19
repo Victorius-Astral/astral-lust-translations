@@ -1,12 +1,10 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
-# game/places/hotel/alice/room.rpy:3
+# game/places/hotel/alice/room.rpy:5
 translate polish room_hotel_alice_d86e264b:
 
     # "It's late so you leave."
-    "Jest późno, więc wychodzisz.{#mtl}{#tl}"
-
-# TODO: Translation updated at 2023-08-14 07:25
+    "It's late so you leave."
 
 # game/places/hotel/alice/room.rpy:10
 translate polish room_hotel_alice_da3378eb:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-14 07:25
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/places/dojo/carlson.rpy:32
 translate polish speak_carlson_85420891:

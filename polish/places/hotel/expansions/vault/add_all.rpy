@@ -1,8 +1,8 @@
-﻿# TODO: Translation updated at 2022-08-20 13:48
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
     # game/places/hotel/expansions/vault/add_all.rpy:19
     old "Vault full"
-    new "Skarbiec pełny{#mtl}{#tl}"
+    new "Vault full"
 

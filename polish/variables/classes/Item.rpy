@@ -1,19 +1,20 @@
-﻿# TODO: Translation updated at 2022-08-20 13:48
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
-    # game/variables/classes/Item.rpy:52
+    # game/variables/classes/Item.rpy:53
     old "To open {{b}}{{color={}}}{}{{/color}}{{/b}} you need to have {} {{b}}{{color={}}}{}s{{/color}}{{/b}}"
-    new "Aby otworzyć {{b}}{{color={}}}{}{{/color}}{{/b}} musisz mieć {} {{b}}{{color={}}}{}s{{/color}}{{/b}}{{#mtl}}{{#tl}}"
+    new "To open {{b}}{{color={}}}{}{{/color}}{{/b}} you need to have {} {{b}}{{color={}}}{}s{{/color}}{{/b}}"
 
-    # game/variables/classes/Item.rpy:55
+    # game/variables/classes/Item.rpy:56
     old "To open {{b}}{{color={}}}{}{{/color}}{{/b}} you need to have {} {{b}}{{color={}}}{}{{/color}}{{/b}}"
-    new "Aby otworzyć {{b}}{{color={}}}{}{{/color}}{{/b}} musisz mieć {} {{b}}{{color={}}}{}{{/color}}{{/b}}{{#mtl}}{{#tl}}"
+    new "To open {{b}}{{color={}}}{}{{/color}}{{/b}} you need to have {} {{b}}{{color={}}}{}{{/color}}{{/b}}"
 
-    # game/variables/classes/Item.rpy:75
+    # game/variables/classes/Item.rpy:83
     old "Item description."
-    new "Opis przedmiotu.{#mtl}{#tl}"
+    new "Item description."
 
-    # game/variables/classes/Item.rpy:167
+    # game/variables/classes/Item.rpy:175
     old "Use: "
-    new "Używać:{#mtl}{#tl}"
+    new "Use: "
+
