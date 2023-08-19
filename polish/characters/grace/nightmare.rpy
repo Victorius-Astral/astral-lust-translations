@@ -592,7 +592,7 @@ translate polish grace_nightmare_part3_d8769c30:
 translate polish grace_nightmare_part3_aa93b10c:
 
     # me "Good girl."
-    me "Good girl."
+    me "Dobra dziewczynka.{#mtl}{#tl}"
 
 # game/characters/grace/nightmare.rpy:245
 translate polish grace_nightmare_part3_baf8f4db:
@@ -616,7 +616,7 @@ translate polish grace_nightmare_part3_ae649623:
 translate polish grace_nightmare_part3_efddab09:
 
     # me "I'm sorry to hear that."
-    me "I'm sorry to hear that."
+    me "Przykro mi to słyszeć.{#mtl}{#tl}"
 
 # game/characters/grace/nightmare.rpy:252
 translate polish grace_nightmare_part3_8ab9ce79:
@@ -766,7 +766,7 @@ translate polish grace_nightmare_part4_f167a158:
 translate polish grace_nightmare_part4_0c650e21:
 
     # grace "Why did you wake me up? I had a great dream."
-    grace "Why did you wake me up? I had a great dream."
+    grace "Dlaczego mnie obudziłeś? miałem świetny sen.{#mtl}{#tl}"
 
 # game/characters/grace/nightmare.rpy:314
 translate polish grace_nightmare_part4_8c74e0e2:
@@ -880,7 +880,7 @@ translate polish grace_nightmare_part4_dae62df0:
 translate polish grace_nightmare_part4_6b62055f:
 
     # grace "Bye bye!"
-    grace "Bye bye!"
+    grace "Cześć cześć!{#mtl}{#tl}"
 
 # game/characters/grace/nightmare.rpy:360
 translate polish grace_nightmare_part4_69e8fca2:
@@ -982,7 +982,7 @@ translate polish grace_nightmare_horror_menu_bae95342:
 translate polish grace_nightmare_horror_menu_48c1e588:
 
     # "*Creak*"
-    "*Creak*"
+    "*Skrzyp*{#mtl}{#tl}"
 
 # game/characters/grace/nightmare.rpy:420
 translate polish grace_nightmare_horror_menu_9e60c288:
@@ -1036,53 +1036,53 @@ translate polish grace_nightmare_horror_end_6ccbac6e:
 translate polish grace_nightmare_horror_end_ee71ee81:
 
     # "*Bang*"
-    "*Bang*"
+    "*Bum*{#mtl}{#tl}"
 
 # game/characters/grace/nightmare.rpy:473
 translate polish grace_nightmare_horror_end_767c72ae:
 
     # "*Clang*"
-    "*Clang*"
+    "*Brzęk*{#mtl}{#tl}"
 
 translate polish strings:
 
     # game/characters/grace/nightmare.rpy:8
     old "Ask who it is"
-    new "Ask who it is"
+    new "Zapytaj, kto to jest.{#mtl}{#tl}"
 
     # game/characters/grace/nightmare.rpy:42
     old "Sure, [grace]"
-    new "Sure, [grace]"
+    new "Pewnie, [grace]{#mtl}{#tl}"
 
     # game/characters/grace/nightmare.rpy:42
     old "Why don't you go sleep with Alice?"
-    new "Why don't you go sleep with Alice?"
+    new "Dlaczego nie pójdziesz spać z alice?{#mtl}{#tl}"
 
     # game/characters/grace/nightmare.rpy:62
     old "Go by yourself"
-    new "Go by yourself"
+    new "Idź sam{#mtl}{#tl}"
 
     # game/characters/grace/nightmare.rpy:142
     old "Check the wardrobe"
-    new "Check the wardrobe"
+    new "Sprawdź szafę{#mtl}{#tl}"
 
     # game/characters/grace/nightmare.rpy:142
     old "Talk your way out of this"
-    new "Talk your way out of this"
+    new "Próbuj się wybronić{#mtl}{#tl}"
 
     # game/characters/grace/nightmare.rpy:396
     old "Ask if someone is there"
-    new "Ask if someone is there"
+    new "Zapytaj, czy ktoś tam jest{#mtl}{#tl}"
 
     # game/characters/grace/nightmare.rpy:396
     old "Look behind you"
-    new "Look behind you"
+    new "Spójrz za siebie{#mtl}{#tl}"
 
     # game/characters/grace/nightmare.rpy:396
     old "Try to ignore it, and return to sleep"
-    new "Try to ignore it, and return to sleep"
+    new "Próbuj zignorować to i wróć do snu{#mtl}{#tl}"
 
     # game/characters/grace/nightmare.rpy:423
     old "It's safe, I can finally sleep"
-    new "It's safe, I can finally sleep"
+    new "Jest bezpiecznie, w końcu mogę spać{#mtl}{#tl}"
 

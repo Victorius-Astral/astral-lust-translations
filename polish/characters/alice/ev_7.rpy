@@ -608,105 +608,105 @@ translate polish strings:
 
     # game/characters/alice/ev_7.rpy:115
     old "Can I pay with a kiss?"
-    new "Can I pay with a kiss?"
+    new "Czy mogę zapłacić pocałunkiem?{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:146
     old "Kiss her"
-    new "Kiss her"
+    new "Pocałuj ją{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:146
     old "Not for free"
-    new "Not for free"
+    new "Nie za darmo{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:204
     old "What goes up but never ever comes down?"
-    new "What goes up but never ever comes down?"
+    new "Co idzie w górę, ale nigdy nie schodzi w dół?{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:208
     old "age"
-    new "age"
+    new "wiek{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:214
     old "What is always coming, but never arrives?"
-    new "What is always coming, but never arrives?"
+    new "Co zawsze nadchodzi, ale nigdy nie przychodzi?{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:218
     old "tomorrow"
-    new "tomorrow"
+    new "jutro{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:224
     old "What kind of tree can you carry in your hand?"
-    new "What kind of tree can you carry in your hand?"
+    new "Jaki rodzaj drzewa można nosić w dłoni?{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:228
     old "palm"
-    new "palm"
+    new "palma{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:234
     old "Some months have 31 days, others have 30 days. How many have 28 days?"
-    new "Some months have 31 days, others have 30 days. How many have 28 days?"
+    new "Niektóre miesiące mają 31 dni, inne mają 30 dni. ile miesięcy ma 28 dni?{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:238
     old "all"
-    new "all"
+    new "wszystkie{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:238
     old "12"
-    new "12"
+    new "12{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:244
     old "Which room has no walls?"
-    new "Which room has no walls?"
+    new "Który pokój nie ma ścian?{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:248
     old "mushroom"
-    new "mushroom"
+    new "grzyb{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:255
     old "Solve: 2 + 2 * 2"
-    new "Solve: 2 + 2 * 2"
+    new "Rozwiąż: 2 + 2 * 2{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:259
     old "6"
-    new "6"
+    new "6{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:259
     old "six"
-    new "six"
+    new "sześć{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:265
     old "What year had World War II began?"
-    new "What year had World War II began?"
+    new "W którym roku rozpoczęła się ii wojna światowa?{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:269
     old "1939"
-    new "1939"
+    new "1939{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:278
     old "Solve: 1 + 1"
-    new "Solve: 1 + 1"
+    new "Rozwiąż: 1 + 1{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:282
     old "2"
-    new "2"
+    new "2{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:282
     old "two"
-    new "two"
+    new "dwa{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:285
     old "3"
-    new "3"
+    new "3{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:285
     old "three"
-    new "three"
+    new "trzy{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:303
     old "Repeat: Help me."
-    new "Repeat: Help me."
+    new "Powtórz: pomóż mi.{#mtl}{#tl}"
 
     # game/characters/alice/ev_7.rpy:307
     old "help me"
-    new "help me"
+    new "pomóż mi{#mtl}{#tl}"
 

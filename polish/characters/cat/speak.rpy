@@ -4,5 +4,4 @@ translate polish strings:
 
     # game/characters/cat/speak.rpy:2
     old "Pat"
-    new "Pat"
-
+    new "Pogłaskaj.{#tl}"

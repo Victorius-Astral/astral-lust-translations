@@ -286,59 +286,59 @@ translate polish alice_sex_1_part3_8e0312e6:
 translate polish alice_sex_1_part3_2f3d23c6_1:
 
     # "You are cumming!"
-    "You are cumming!"
+    "Jesteś blisko!{#mtl}{#tl}"
 
 # game/characters/alice/sex_1.rpy:176
 translate polish alice_sex_1_part3_5d2f0ca8_1:
 
     # alice "Ahh.."
-    alice "Ahh.."
+    alice "Ahh..{#mtl}{#tl}"
 
 # game/characters/alice/sex_1.rpy:179
 translate polish alice_sex_1_part3_4f5b42dd_1:
 
     # alice "S-Sooo gooood, daddy~"
-    alice "S-Sooo gooood, daddy~"
+    alice "T-tak dobrze, tatusiu~{#mtl}{#tl}"
 
 # game/characters/alice/sex_1.rpy:180
 translate polish alice_sex_1_part3_5cf833a6_1:
 
     # me "I'm happy I got my little girlfriend happy."
-    me "I'm happy I got my little girlfriend happy."
+    me "Cieszę się, że sprawiłem mojej małej dziewczynce przyjemność.{#mtl}{#tl}"
 
 # game/characters/alice/sex_1.rpy:184
 translate polish alice_sex_1_part3_41370fb2_1:
 
     # alice "I want to sleep, [me]. I'm tired."
-    alice "I want to sleep, [me]. I'm tired."
+    alice "Chcę się położyć, [me]. jestem zmęczony.{#mtl}{#tl}"
 
 # game/characters/alice/sex_1.rpy:185
 translate polish alice_sex_1_part3_89aa34d6_1:
 
     # me "Want me to stay?"
-    me "Want me to stay?"
+    me "Chcesz, żebym został?{#mtl}{#tl}"
 
 # game/characters/alice/sex_1.rpy:186
 translate polish alice_sex_1_part3_c2cf6768_1:
 
     # alice "That's sweet, but no need."
-    alice "That's sweet, but no need."
+    alice "To miłe, ale nie trzeba.{#mtl}{#tl}"
 
 # game/characters/alice/sex_1.rpy:187
 translate polish alice_sex_1_part3_b88f58d8_1:
 
     # me "As you wish, dear."
-    me "As you wish, dear."
+    me "Jak sobie życzysz, kochanie.{#mtl}{#tl}"
 
 # game/characters/alice/sex_1.rpy:190
 translate polish alice_sex_1_part3_ce111e9e_1:
 
     # alice "Mm."
-    alice "Mm."
+    alice "Mm.{#mtl}{#tl}"
 
 # game/characters/alice/sex_1.rpy:191
 translate polish alice_sex_1_part3_8e0312e6_1:
 
     # "You leave her to rest."
-    "You leave her to rest."
+    "Zostawiasz ją odpocząć.{#mtl}{#tl}"
 
