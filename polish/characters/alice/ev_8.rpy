@@ -10,7 +10,7 @@ translate polish alice_8_54226dc9:
 translate polish alice_8_05acec03:
 
     # th "I'm lucky as always."
-    th "I'm lucky as always."
+    th "Może teraz nauczysz się nie podglądać niewinnych, małych dziewcząt jak ja.{#mtl}{#tl}"
 
 # game/characters/alice/ev_8.rpy:24
 translate polish alice_8_c063322e:
