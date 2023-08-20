@@ -4,123 +4,123 @@ translate polish strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new "Self-voicing disabled."
+    new "Wyłączono odczyt głosowy.{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new "Clipboard voicing enabled. "
+    new "Włączono odczyt z schowka. {#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new "Self-voicing enabled. "
+    new "Włączono odczyt głosowy. {#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new "bar"
+    new "pasek{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new "selected"
+    new "wybrany{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new "viewport"
+    new "widok{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new "horizontal scroll"
+    new "przewijanie poziome{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new "vertical scroll"
+    new "przewijanie pionowe{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new "activate"
+    new "aktywuj{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new "deactivate"
+    new "dezaktywuj{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
-    new "increase"
+    new "zwiększ{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
-    new "decrease"
+    new "zmniejsz{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:138
     old "Font Override"
-    new "Font Override"
+    new "Zastąp czcionkę{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:142
     old "Default"
-    new "Default"
+    new "Domyślna{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:146
     old "DejaVu Sans"
-    new "DejaVu Sans"
+    new "Dejavu sans{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:150
     old "Opendyslexic"
-    new "Opendyslexic"
+    new "Opendyslexic{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:156
     old "Text Size Scaling"
-    new "Text Size Scaling"
+    new "Skalowanie rozmiaru tekstu{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:162
     old "Reset"
-    new "Reset"
+    new "Resetuj{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:168
     old "Line Spacing Scaling"
-    new "Line Spacing Scaling"
+    new "Skalowanie odstępów między wierszami{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
-    new "High Contrast Text"
+    new "Tekst o wysokim kontraście{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:182
     old "Enable"
-    new "Enable"
+    new "Włącz{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:186
     old "Disable"
-    new "Disable"
+    new "Wyłącz{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
-    new "Self-Voicing"
+    new "Odczyt głosowy{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:197
     old "Off"
-    new "Off"
+    new "Wyłącz{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:201
     old "Text-to-speech"
-    new "Text-to-speech"
+    new "Tekst na mowę{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:205
     old "Clipboard"
-    new "Clipboard"
+    new "Schowek{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:209
     old "Debug"
-    new "Debug"
+    new "Debugowanie{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:215
     old "Self-Voicing Volume Drop"
-    new "Self-Voicing Volume Drop"
+    new "Obniż głośność odczytu głosowego{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:224
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
+    new "Opcje w tym menu mają na celu poprawę dostępności. niektóre z nich mogą nie działać we wszystkich grach, a niektóre kombinacje opcji mogą uniemożliwić grę. nie jest to problem z grą ani silnikiem. aby uzyskać najlepsze rezultaty przy zmianie czcionek, spróbuj zachować ten sam rozmiar tekstu, jaki był pierwotnie.{#mtl}{#tl}"
 
     # renpy/common/00accessibility.rpy:229
     old "Return"
-    new "Return"
+    new "Powrót{#mtl}{#tl}"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"

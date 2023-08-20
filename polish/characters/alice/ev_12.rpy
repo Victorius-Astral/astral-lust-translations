@@ -560,5 +560,5 @@ translate polish strings:
 
     # game/characters/alice/ev_12.rpy:29
     old "Agree"
-    new "Agree"
+    new "Zgadzam się.{#mtl}{#tl}"
 
