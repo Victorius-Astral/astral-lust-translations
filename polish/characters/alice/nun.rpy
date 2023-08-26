@@ -250,7 +250,7 @@ translate polish alice_nun_sex_5293670d:
 translate polish alice_nun_sex_42470175:
 
     # alice "Don't speak~ Repent in silence."
-    alice "Don't speak~ Repent in silence."
+    alice "Nie mów~ skrep się w ciszy.{#mtl}{#tl}"
 
 # game/characters/alice/nun.rpy:152
 translate polish alice_nun_sex_f12ab542:
@@ -772,7 +772,7 @@ translate polish alice_nun_footjob_f830f9b2:
 translate polish alice_nun_footjob_6d849ba9:
 
     # alice "Go on."
-    alice "Go on."
+    alice "No dalej.{#mtl}{#tl}"
 
 # game/characters/alice/nun.rpy:357
 translate polish alice_nun_footjob_88eab5f5:
@@ -958,7 +958,7 @@ translate polish alice_nun_footjob_72ab1467:
 translate polish alice_nun_footjob_8e1a69bb:
 
     # alice "Are you not going to call me arrogant now?"
-    alice "Are you not going to call me arrogant now?"
+    alice "Czy teraz nie zamierzasz mnie nazwać aroganckim?{#mtl}{#tl}"
 
 # game/characters/alice/nun.rpy:419
 translate polish alice_nun_footjob_96089dab:
@@ -1150,9 +1150,9 @@ translate polish strings:
 
     # game/characters/alice/nun.rpy:405
     old "Thighs"
-    new "Thighs"
+    new "Uda{#mtl}{#tl}"
 
     # game/characters/alice/nun.rpy:405
     old "I prefer what's in between"
-    new "I prefer what's in between"
+    new "Wolę to, co jest pomiędzy.{#mtl}{#tl}"
 
