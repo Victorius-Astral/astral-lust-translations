@@ -1,94 +1,90 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
     # game/variables/help.rpy:3
     old "{gold}{big}Congratulations! You've caught your first succubus!{/big}{/gold}\n"
-    new "{gold}{big}Gratulacje! Złapałeś swojego pierwszego sukuba!{/big}{/gold}\n"
+    new "{gold}{big}Congratulations! You've caught your first succubus!{/big}{/gold}\n"
 
     # game/variables/help.rpy:3
     old "You can visit her in the dungeon. Her lust will be increasing everyday, all pets need attention, she's no different."
-    new "Możesz ją odwiedzić w lochach. Jej pożądanie będzie rosnąc każdego dnia, wszystkie zwierzaki potrzebują troski, ona nie jest inna."
+    new "You can visit her in the dungeon. Her lust will be increasing everyday, all pets need attention, she's no different."
 
     # game/variables/help.rpy:3
     old "Play with her, or wait for her lust to reach the critical point.. What will she do once her lust goes over the roof?"
-    new "Baw się z nią lub czekaj, aż jej pożądanie osiągnie punkt krytyczny.. Co zrobi gdy będzie napalona poza skalę?"
+    new "Play with her, or wait for her lust to reach the critical point.. What will she do once her lust goes over the roof?"
 
     # game/variables/help.rpy:3
     old "{lust}Will she run? Will she cheat on you? I know, but you don't have this privilege. Do you have the balls to check?{/lust}"
-    new "{lust}Ucieknie? Zacznie Cię zdradzać? Ja wiem, ale ty nie masz tego przywileju. Masz jaja to sprawdzić?{/lust}"
+    new "{lust}Will she run? Will she cheat on you? I know, but you don't have this privilege. Do you have the balls to check?{/lust}"
 
     # game/variables/help.rpy:3
     old "1. You can view help by pressing 'Q'. As you play, you'll unlock new tutorials."
-    new "1. Możesz zobaczyć Pomoc naciskając 'Q'. W trakcie rozgrywki będziesz odblokowywał nowe samouczki."
+    new "1. You can view help by pressing 'Q'. As you play, you'll unlock new tutorials."
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}2. Not all dangers can be overcome at the beginning. Hide and run.{/color}"
-    new "{color=#45B6FE}2. Nie będziesz w stanie przezwyciężyć wszystkich niebezpieczeństw na początku. Chowaj się i uciekaj.{/color}"
+    new "{color=#45B6FE}2. Not all dangers can be overcome at the beginning. Hide and run.{/color}"
 
     # game/variables/help.rpy:3
     old "3. In this broken world idiom \"curiosity killed a cat\" is something you should take to heart."
-    new "3. W tym zepsutym świecie, powiedzenie \"ciekawość zabiła kota\" jest czymś co powinieneś wziąć do serca."
+    new "3. In this broken world idiom \"curiosity killed a cat\" is something you should take to heart."
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}4. Help Lexi to unlock exploration.{/color}"
-    new "{color=#45B6FE}4. Pomóż Lexi, aby odblokować eksplorację.{/color}"
+    new "{color=#45B6FE}4. Help Lexi to unlock exploration.{/color}"
 
     # game/variables/help.rpy:3
     old "5. Menus can be displayed either by keys 1-6 or by expanding the menu in top right corner."
-    new "5. Menu można wyświetlić zarówno przyciskami '1-6' lub rozwijając menu w prawym górnym rogu."
+    new "5. Menus can be displayed either by keys 1-6 or by expanding the menu in top right corner."
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}6. If you are stuck check out the journal (key '5') for tips.{/color}"
-    new "{color=#45B6FE}6. Jeśli nie wiesz co robić dalej, sprawdź notatnik (przycisk '5') po podpowiedzi.{/color}"
+    new "{color=#45B6FE}6. If you are stuck check out the journal (key '5') for tips.{/color}"
 
     # game/variables/help.rpy:3
     old "7. To start girls events, you need to either talk to them or to be in a right place at the right time."
-    new "7. Aby rozpocząć zdarzenie fabularne dziewczyn musisz albo z nią porozmawiać, albo być w odpowiednim miejscu o odpowiednim czasie."
+    new "7. To start girls events, you need to either talk to them or to be in a right place at the right time."
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}8. Some events have other conditions like having other girl affection above some value.{/color}"
-    new "{color=#45B6FE}8. Niektóre wydarzenia mają inne wymagania jak sympatia innej dziewczyny powyżej danego poziomu.{/color}"
+    new "{color=#45B6FE}8. Some events have other conditions like having other girl affection above some value.{/color}"
 
     # game/variables/help.rpy:3
     old "9. Every girl can have only one story event any given day."
-    new "9. Każda dziewczyna może mieć tylko JEDNO wydarzenie fabularne każdego dnia."
+    new "9. Every girl can have only one story event any given day."
 
     # game/variables/help.rpy:3
     old "{color=#45B6FE}10. Later events require girls to trust you. You can increase girls trust by doing repeatable events with them.{/color}"
-    new "{color=#45B6FE}10. Późniejsze wydarzenia wymagają zaufania dziewczyn. Możesz zwiększyć ich zaufanie poprzez powtarzalne wydarzenia.{/color}"
+    new "{color=#45B6FE}10. Later events require girls to trust you. You can increase girls trust by doing repeatable events with them.{/color}"
 
     # game/variables/help.rpy:3
     old "11. You can expand your hotel at lobby counter, build vault as quick as possible to store materials you find."
-    new "11. Możesz rozbudować swój hotel na ladzie w lobby. Szybko wybuduj skarbiec by chować tam materiały, które zdobędziesz."
+    new "11. You can expand your hotel at lobby counter, build vault as quick as possible to store materials you find."
 
     # game/variables/help.rpy:3
-    old "{color=#45B6FE}14. You can find collectibles to unlock additional pictures on pc. Look for golden condoms and condom packs.{/color}"
-    new "{color=#45B6FE}14. Możesz znaleźć znajdźki aby odblokować dodatkowe obrazki na komputerze. Szukaj złotych kondomów i paczek kondomów.{/color}"
+    old "{color=#45B6FE}12. If sanity reaches 0% or corruption 100% it's game over. Be careful.{/color}"
+    new "{color=#45B6FE}12. If sanity reaches 0% or corruption 100% it's game over. Be careful.{/color}"
 
     # game/variables/help.rpy:3
-    old "Forge allows you to do four things:"
-    new "Kuźnia pozwala na cztery rzeczy:"
+    old "13. You can find collectibles to unlock additional pictures on pc. Look for golden condoms and condom packs."
+    new "13. You can find collectibles to unlock additional pictures on pc. Look for golden condoms and condom packs."
+
+    # game/variables/help.rpy:3
+    old "Forge allows you to do mostly two things:"
+    new "Forge allows you to do mostly two things:"
 
     # game/variables/help.rpy:3
     old " • Craft cards"
-    new " • Tworzenie kart"
-
-    # game/variables/help.rpy:3
-    old " • Upgrade cards (Soon)"
-    new " • Ulepszanie kart (Wkrótce)"
-
-    # game/variables/help.rpy:3
-    old " • Destroy unwanted cards"
-    new " • Niszczenie niechcianych kart"
+    new " • Craft cards"
 
     # game/variables/help.rpy:3
     old " • Upgrade other rooms"
-    new " • Ulepszanie innych pokoi"
+    new " • Upgrade other rooms"
 
     # game/variables/help.rpy:3
     old "\nTry clicking on various forge utilities, like anvil."
-    new "\nSpóbuj kliknąć na różne przyrządy kowalskie, jak kowadło."
+    new "\nTry clicking on various forge utilities, like anvil."
 
     # game/variables/help.rpy:3
     old "You can get various materials from defeated monsters, you can also buy some stuff from traders."
@@ -149,58 +145,6 @@ translate polish strings:
     # game/variables/help.rpy:3
     old "Once vault reaches 4th level, it will also allow to make gun related cards in a gun assembly station."
     new "Once vault reaches 4th level, it will also allow to make gun related cards in a gun assembly station."
-
-    # game/variables/help.rpy:3
-    old "Generally you need to think what effect would be the best among cards on hand, it's like all other card games (poker, Macao, etc.)."
-    new "Generally you need to think what effect would be the best among cards on hand, it's like all other card games (poker, Macao, etc.)."
-
-    # game/variables/help.rpy:3
-    old "You need to think logically what is the best card to play in a given situation. Your objective is to kill the enemy."
-    new "You need to think logically what is the best card to play in a given situation. Your objective is to kill the enemy."
-
-    # game/variables/help.rpy:3
-    old "You press card, and effect written on it happens."
-    new "You press card, and effect written on it happens."
-
-    # game/variables/help.rpy:3
-    old "\n{gold}In most cases enemy deals more damage than you, and has more health.{/gold}"
-    new "\n{gold}In most cases enemy deals more damage than you, and has more health.{/gold}"
-
-    # game/variables/help.rpy:3
-    old "{gold}That's why, when his intention is to attack, you use cards that add block, to decrease damage.{/gold}"
-    new "{gold}That's why, when his intention is to attack, you use cards that add block, to decrease damage.{/gold}"
-
-    # game/variables/help.rpy:3
-    old "{gold}You have base 3 energy, and most cards cost 1, so you can play 3 cards a turn (4 if you max your wisdom).{/gold}"
-    new "{gold}You have base 3 energy, and most cards cost 1, so you can play 3 cards a turn (4 if you max your wisdom).{/gold}"
-
-    # game/variables/help.rpy:3
-    old "{gold}Most weaker enemies deal under 10 damage. If you play 2 Defend cards, you'll block all damage, then you've got one free energy to use offensive card like Strike or Shot.{/gold}"
-    new "{gold}Most weaker enemies deal under 10 damage. If you play 2 Defend cards, you'll block all damage, then you've got one free energy to use offensive card like Strike or Shot.{/gold}"
-
-    # game/variables/help.rpy:3
-    old "{gold}That way after a few turns enemy will die, and you won't lose much hp.{/gold}"
-    new "{gold}That way after a few turns enemy will die, and you won't lose much hp.{/gold}"
-
-    # game/variables/help.rpy:3
-    old "{gold}Each turn you'll get different cards, so depending on cards, you must use other ones.{/gold}"
-    new "{gold}Each turn you'll get different cards, so depending on cards, you must use other ones.{/gold}"
-
-    # game/variables/help.rpy:3
-    old "\n{color=#45B6FE}Block decreases damage received by 1 per stack (so 5 Block, decreases damage by 5), Block resets on new turn.{/color}"
-    new "\n{color=#45B6FE}Block decreases damage received by 1 per stack (so 5 Block, decreases damage by 5), Block resets on new turn.{/color}"
-
-    # game/variables/help.rpy:3
-    old "{color=#45B6FE}If you hover over card or status effects, the tooltip explaining status effects will show.{/color}"
-    new "{color=#45B6FE}If you hover over card or status effects, the tooltip explaining status effects will show.{/color}"
-
-    # game/variables/help.rpy:3
-    old "{color=#45B6FE}You get better cards for defeating enemies, and on death your deck resets.{/color}"
-    new "{color=#45B6FE}You get better cards for defeating enemies, and on death your deck resets.{/color}"
-
-    # game/variables/help.rpy:3
-    old "Check {a=https://discord.gg/rvnBC39USx}Discord{/a} #fight-tutorial channel for additional tips, strategies, and builds."
-    new "Check {a=https://discord.gg/rvnBC39USx}Discord{/a} #fight-tutorial channel for additional tips, strategies, and builds."
 
     # game/variables/help.rpy:3
     old "{gold}{big}You have met Lola, goth hotel owner.{/big}{/gold}"
@@ -278,38 +222,15 @@ translate polish strings:
     old "From time to time you can meet Mysterious Trader at the library, offering tarot cards for special coins."
     new "From time to time you can meet Mysterious Trader at the library, offering tarot cards for special coins."
 
-# TODO: Translation updated at 2021-05-15 22:53
-
-translate polish strings:
-
     # game/variables/help.rpy:3
     old "This is character menu, here you can check your state. Most of stats find their use, most can help in combat, many can help you to unlock additional content, by making successful checks."
     new "This is character menu, here you can check your state. Most of stats find their use, most can help in combat, many can help you to unlock additional content, by making successful checks."
 
     # game/variables/help.rpy:3
     old "You can check what any given thing does, just hover over it, and tooltip explaining this stat will appear."
-    new "You can check what any given thing do, just hover over it, and tooltip explaining this stat will appear."
+    new "You can check what any given thing does, just hover over it, and tooltip explaining this stat will appear."
 
     # game/variables/help.rpy:3
     old "{gold}Remember, raising your stats can increase your combat ability dramatically!{/gold}"
-    new "{gold}Pamiętaj! Polepszanie swoich statystyk może drastycznie zwiększyć twoją sprawność bojową!{/gold}"
+    new "{gold}Remember, raising your stats can increase your combat ability dramatically!{/gold}"
 
-# Translation updated at 2021-07-11 16:45
-
-translate polish strings:
-
-    # game/variables/help.rpy:3
-    old "13. You can find collectibles to unlock additional pictures on pc. Look for golden condoms and condom packs."
-    new "13. Możesz szukać znajdziek, aby odblokować dodatkowe zdjęcia na komputerze. Szukaj złote kondomy i paczki kondomów."
-
-# Translation updated at 2022-01-31 15:20
-
-translate polish strings:
-
-    # game/variables/help.rpy:3
-    old "{color=#45B6FE}12. If sanity reaches 0% or corruption 100% it's game over. Be careful.{/color}"
-    new "{color=#45B6FE}12. Przegrasz jeśli zdrowie psychiczne osiągnie 0%, albo korupcja osiągnie 100%. Bądź ostrożny.{/color}"
-
-    # game/variables/help.rpy:3
-    old "Forge allows you to do mostly two things:"
-    new "Kuźnia pozwala głównie na dwie rzeczy:"

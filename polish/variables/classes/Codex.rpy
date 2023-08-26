@@ -1,11 +1,12 @@
-﻿# Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
     # game/variables/classes/Codex.rpy:20
     old "Entry updated - {}."
-    new "Wpis zaktualizowany - {}."
+    new "Entry updated - {}."
 
-    # game/variables/classes/Codex.rpy:31
+    # game/variables/classes/Codex.rpy:29
     old "Entry added - {}."
-    new "Wpis dodany - {}."
+    new "Entry added - {}."
+

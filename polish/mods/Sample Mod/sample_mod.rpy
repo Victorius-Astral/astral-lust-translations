@@ -1,77 +1,86 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
-# game/mods/Sample Mod/sample_mod.rpy:15
+# game/mods/Sample Mod/sample_mod.rpy:150
 translate polish d_Sample_Dream_0_8cdda6e0:
 
-    # "Weird stickman dances before your eyes."
-    "Weird stickman dances before your eyes."
+    # "Weird stickman dances before your eyes." id d_Sample_Dream_0_8cdda6e0
+    "Weird stickman dances before your eyes." id d_Sample_Dream_0_8cdda6e0
 
-# game/mods/Sample Mod/sample_mod.rpy:18
+# game/mods/Sample Mod/sample_mod.rpy:153
 translate polish d_Sample_Dream_0_6106590e:
 
-    # me "What the hell?"
-    me "What the hell?"
+    # me "What the hell?" id d_Sample_Dream_0_6106590e
+    me "What the hell?" id d_Sample_Dream_0_6106590e
 
-# game/mods/Sample Mod/sample_mod.rpy:21
+# game/mods/Sample Mod/sample_mod.rpy:156
 translate polish d_Sample_Dream_0_9f4aeda0:
 
-    # sample_stickman "Go on, dance with me!"
-    sample_stickman "Go on, dance with me!"
+    # sample_stickman "Go on, dance with me!" id d_Sample_Dream_0_9f4aeda0
+    sample_stickman "Go on, dance with me!" id d_Sample_Dream_0_9f4aeda0
 
-# game/mods/Sample Mod/sample_mod.rpy:23
+# game/mods/Sample Mod/sample_mod.rpy:158
 translate polish d_Sample_Dream_0_3820771a:
 
-    # me "..."
-    me "..."
+    # me "..." id d_Sample_Dream_0_3820771a
+    me "..." id d_Sample_Dream_0_3820771a
 
-# game/mods/Sample Mod/sample_mod.rpy:24
+# game/mods/Sample Mod/sample_mod.rpy:159
 translate polish d_Sample_Dream_0_7de70658:
 
-    # me "What is wrong with me to have a dream like that?"
-    me "What is wrong with me to have a dream like that?"
+    # me "What is wrong with me to have a dream like that?" id d_Sample_Dream_0_7de70658
+    me "What is wrong with me to have a dream like that?" id d_Sample_Dream_0_7de70658
 
-# game/mods/Sample Mod/sample_mod.rpy:26
+# game/mods/Sample Mod/sample_mod.rpy:161
 translate polish d_Sample_Dream_0_d2d05186:
 
-    # sample_stickman "What are you waiting for?"
-    sample_stickman "What are you waiting for?"
+    # sample_stickman "What are you waiting for?" id d_Sample_Dream_0_d2d05186
+    sample_stickman "What are you waiting for?" id d_Sample_Dream_0_d2d05186
 
-# game/mods/Sample Mod/sample_mod.rpy:34
+# game/mods/Sample Mod/sample_mod.rpy:169
 translate polish d_Sample_Dream_0_8df2e8c6:
 
-    # "You dance along with it."
-    "You dance along with it."
+    # "You dance along with it." id d_Sample_Dream_0_8df2e8c6
+    "You dance along with it." id d_Sample_Dream_0_8df2e8c6
 
-# game/mods/Sample Mod/sample_mod.rpy:35
+# game/mods/Sample Mod/sample_mod.rpy:170
 translate polish d_Sample_Dream_0_f4b14bf4:
 
-    # th "What the hell I'm doing?"
-    th "What the hell I'm doing?"
+    # th "What the hell am I doing?" id d_Sample_Dream_0_f4b14bf4
+    th "What the hell am I doing?" id d_Sample_Dream_0_f4b14bf4
 
-# game/mods/Sample Mod/sample_mod.rpy:44
+# game/mods/Sample Mod/sample_mod.rpy:179
 translate polish d_Sample_Dream_0_e3ee1aff:
 
-    # "You stay silent, not answering to any of it invites."
-    "You stay silent, not answering to any of it invites."
+    # "You stay silent, not answering to any of it invites." id d_Sample_Dream_0_e3ee1aff
+    "You stay silent, not answering to any of it invites." id d_Sample_Dream_0_e3ee1aff
 
 translate polish strings:
 
-    # game/mods/Sample Mod/sample_mod.rpy:29
+    # game/mods/Sample Mod/sample_mod.rpy:11
+    old "Slice"
+    new "Slice"
+
+    # game/mods/Sample Mod/sample_mod.rpy:123
+    old "Dream - Dancing Stickman"
+    new "Dream - Dancing Stickman"
+
+    # game/mods/Sample Mod/sample_mod.rpy:124
+    old "Enabled"
+    new "Enabled"
+
+    # game/mods/Sample Mod/sample_mod.rpy:125
+    old "Disabled"
+    new "Disabled"
+
+    # game/mods/Sample Mod/sample_mod.rpy:128
+    old "Sample Mod"
+    new "Sample Mod"
+
+    # game/mods/Sample Mod/sample_mod.rpy:164
     old "Dance"
     new "Dance"
 
-    # game/mods/Sample Mod/sample_mod.rpy:29
+    # game/mods/Sample Mod/sample_mod.rpy:164
     old "Stay put"
     new "Stay put"
 
-# Translation updated at 2022-01-31 15:20
-
-translate polish strings:
-
-    # game/mods/Sample Mod/sample_mod.rpy:19
-    old "Sample Mod"
-    new "Przykładowy Mod"
-
-    # game/mods/Sample Mod/sample_mod.rpy:127
-    old "Dream - Dancing Stickman"
-    new "Sen - Tańczący Patyczak"

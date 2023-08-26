@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/rachel/ev_7.rpy:9
 translate polish rachel_7_c04e1dc2:
@@ -153,8 +153,8 @@ translate polish rachel_7_fe203686:
 # game/characters/rachel/ev_7.rpy:74
 translate polish rachel_7_4f5658e1:
 
-    # rachel "I'm not a whore to buy me with some materials."
-    rachel "I'm not a whore to buy me with some materials."
+    # rachel "I'm not a whore to be bought with some materials." id rachel_7_4f5658e1
+    rachel "I'm not a whore to be bought with some materials." id rachel_7_4f5658e1
 
 # game/characters/rachel/ev_7.rpy:75
 translate polish rachel_7_3614256f:

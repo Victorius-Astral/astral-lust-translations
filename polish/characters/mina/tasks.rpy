@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/mina/tasks.rpy:5
 translate polish task_mina_tidyup_e7832ca0:
@@ -54,13 +54,13 @@ translate polish task_mina_tidyup_1289e087:
     # mina "Do you need more help?"
     mina "Do you need more help?"
 
-# game/characters/mina/tasks.rpy:29
+# game/characters/mina/tasks.rpy:31
 translate polish task_mina_tidyup_2e08bb50:
 
     # me "Could you find more stuff for me again?"
     me "Could you find more stuff for me again?"
 
-# game/characters/mina/tasks.rpy:30
+# game/characters/mina/tasks.rpy:32
 translate polish task_mina_tidyup_8c9a7caf:
 
     # mina "Sure mate."

@@ -1,8 +1,8 @@
-﻿# TODO: Translation updated at 2022-08-20 13:48
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
-    # game/combat/battle/functions/other/loot.rpy:85
-    old "In decks: "
-    new "In decks: "
+    # game/combat/battle/functions/other/loot.rpy:84
+    old "Error: Looting - Unknown card: {}"
+    new "Error: Looting - Unknown card: {}"
 

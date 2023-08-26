@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/mina/vault.rpy:6
 translate polish mina_vault_speak_d04023c6:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/kiara/help.rpy:9
 translate polish kiara_help_bd349d98:
@@ -54,19 +54,19 @@ translate polish kiara_help_20bb527d:
     # kiara "Good, your payment."
     kiara "Good, your payment."
 
-# game/characters/kiara/help.rpy:62
+# game/characters/kiara/help.rpy:64
 translate polish kiara_help_f72d18fd:
 
     # "She hands you a package."
     "She hands you a package."
 
-# game/characters/kiara/help.rpy:68
+# game/characters/kiara/help.rpy:70
 translate polish kiara_help_08f9b214:
 
     # kiara "Thanks for your help."
     kiara "Thanks for your help."
 
-# game/characters/kiara/help.rpy:69
+# game/characters/kiara/help.rpy:71
 translate polish kiara_help_29966661:
 
     # "She returns to her work."

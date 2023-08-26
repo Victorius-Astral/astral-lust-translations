@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/savenia/ev_3.rpy:4
 translate polish savenia_3_0416811d:
@@ -135,8 +135,8 @@ translate polish savenia_3_part2_0bb59dde:
 # game/characters/savenia/ev_3.rpy:54
 translate polish savenia_3_part2_9bbe5648:
 
-    # me "Whatever. Let's go back. You sho.."
-    me "Whatever. Let's go back. You sho.."
+    # me "Whatever, let's go back. You sho-" id savenia_3_part2_9bbe5648
+    me "Whatever, let's go back. You sho-" id savenia_3_part2_9bbe5648
 
 # game/characters/savenia/ev_3.rpy:57
 translate polish savenia_3_part2_e8f1bc60:

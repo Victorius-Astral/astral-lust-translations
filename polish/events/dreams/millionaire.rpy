@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/events/dreams/millionaire.rpy:11
 translate polish d_Millionaire_2_5dd3ff77:
@@ -57,8 +57,8 @@ translate polish d_Millionaire_2_aa0ea6e3:
 # game/events/dreams/millionaire.rpy:29
 translate polish d_Millionaire_2_ba54e75b:
 
-    # th "How could have I forget him?"
-    th "How could have I forget him?"
+    # th "How could I have forgotten him?" id d_Millionaire_2_ba54e75b
+    th "How could I have forgotten him?" id d_Millionaire_2_ba54e75b
 
 # game/events/dreams/millionaire.rpy:37
 translate polish d_Millionaire_2_47186f78:
@@ -171,8 +171,8 @@ translate polish d_Millionaire_2_menu1_3d10a40f:
 # game/events/dreams/millionaire.rpy:82
 translate polish d_Millionaire_2_menu1_a92ae4fc:
 
-    # th "My friend? Did I have a friend called Aharon?"
-    th "My friend? Did I have a friend called Aharon?"
+    # th "My friend? Do I have a friend called Aharon?" id d_Millionaire_2_menu1_a92ae4fc
+    th "My friend? Do I have a friend called Aharon?" id d_Millionaire_2_menu1_a92ae4fc
 
 # game/events/dreams/millionaire.rpy:87
 translate polish d_Millionaire_2_menu1_d4bf123b:
@@ -204,175 +204,175 @@ translate polish d_Millionaire_2_bj_8608b322:
     # secretary "Sorry, sir."
     secretary "Sorry, sir."
 
-# game/events/dreams/millionaire.rpy:125
+# game/events/dreams/millionaire.rpy:117
 translate polish d_Millionaire_2_bj_a579ca00:
 
     # me "Ah."
     me "Ah."
 
-# game/events/dreams/millionaire.rpy:126
+# game/events/dreams/millionaire.rpy:118
 translate polish d_Millionaire_2_bj_d2d4cbd8:
 
     # secretary "Mghmm."
     secretary "Mghmm."
 
-# game/events/dreams/millionaire.rpy:127
+# game/events/dreams/millionaire.rpy:119
 translate polish d_Millionaire_2_bj_29add286:
 
     # me "That's it, take it deeper."
     me "That's it, take it deeper."
 
-# game/events/dreams/millionaire.rpy:143
+# game/events/dreams/millionaire.rpy:127
 translate polish d_Millionaire_2_bj_8688b6e8:
 
     # me "Ah!"
     me "Ah!"
 
-# game/events/dreams/millionaire.rpy:144
+# game/events/dreams/millionaire.rpy:128
 translate polish d_Millionaire_2_bj_32846572:
 
     # th "It was the best decision in my life to hire her."
     th "It was the best decision in my life to hire her."
 
-# game/events/dreams/millionaire.rpy:145
+# game/events/dreams/millionaire.rpy:129
 translate polish d_Millionaire_2_bj_f9f64f53:
 
     # secretary "Mmmm."
     secretary "Mmmm."
 
-# game/events/dreams/millionaire.rpy:146
+# game/events/dreams/millionaire.rpy:130
 translate polish d_Millionaire_2_bj_3d27a9e4:
 
     # me "That's it baby."
     me "That's it baby."
 
-# game/events/dreams/millionaire.rpy:154
+# game/events/dreams/millionaire.rpy:138
 translate polish d_Millionaire_2_bj_166d9144:
 
     # me "Ahh!"
     me "Ahh!"
 
-# game/events/dreams/millionaire.rpy:155
+# game/events/dreams/millionaire.rpy:139
 translate polish d_Millionaire_2_bj_d8ec784d:
 
     # secretary "Mghmm!"
     secretary "Mghmm!"
 
-# game/events/dreams/millionaire.rpy:163
+# game/events/dreams/millionaire.rpy:147
 translate polish d_Millionaire_2_bj_f3aacdf8:
 
     # me "We let him wait long enough, invite him in."
     me "We let him wait long enough, invite him in."
 
-# game/events/dreams/millionaire.rpy:164
+# game/events/dreams/millionaire.rpy:148
 translate polish d_Millionaire_2_bj_bfb0face:
 
     # secretary "Yes, sir."
     secretary "Yes, sir."
 
-# game/events/dreams/millionaire.rpy:169
+# game/events/dreams/millionaire.rpy:153
 translate polish d_Millionaire_2_part2_70a0e022:
 
-    # "After a while your secretary returns, this time not alone."
-    "After a while your secretary returns, this time not alone."
+    # "After a while your secretary returns, not alone this time." id d_Millionaire_2_part2_70a0e022
+    "After a while your secretary returns, not alone this time." id d_Millionaire_2_part2_70a0e022
 
-# game/events/dreams/millionaire.rpy:172
+# game/events/dreams/millionaire.rpy:156
 translate polish d_Millionaire_2_part2_de86f8b2:
 
     # me "Mr. Aharon! How are you? It's nice to see you."
     me "Mr. Aharon! How are you? It's nice to see you."
 
-# game/events/dreams/millionaire.rpy:175
+# game/events/dreams/millionaire.rpy:159
 translate polish d_Millionaire_2_part2_7347409e:
 
     # aharon "..."
     aharon "..."
 
-# game/events/dreams/millionaire.rpy:176
+# game/events/dreams/millionaire.rpy:160
 translate polish d_Millionaire_2_part2_2ee16fc6:
 
     # me "Sit, please."
     me "Sit, please."
 
-# game/events/dreams/millionaire.rpy:179
+# game/events/dreams/millionaire.rpy:163
 translate polish d_Millionaire_2_part2_52f03cb9:
 
     # me "Now, can you tell me the reason for your visit?"
     me "Now, can you tell me the reason for your visit?"
 
-# game/events/dreams/millionaire.rpy:180
+# game/events/dreams/millionaire.rpy:164
 translate polish d_Millionaire_2_part2_7670b800:
 
     # aharon "I can hear Him whispering into my ears.."
     aharon "I can hear Him whispering into my ears.."
 
-# game/events/dreams/millionaire.rpy:181
+# game/events/dreams/millionaire.rpy:165
 translate polish d_Millionaire_2_part2_83ffb3f2:
 
     # me "Sorry, but I don't understand.."
     me "Sorry, but I don't understand.."
 
-# game/events/dreams/millionaire.rpy:184
+# game/events/dreams/millionaire.rpy:168
 translate polish d_Millionaire_2_part2_2587460a:
 
     # aharon "One day, you will.."
     aharon "One day, you will.."
 
-# game/events/dreams/millionaire.rpy:185
+# game/events/dreams/millionaire.rpy:169
 translate polish d_Millionaire_2_part2_3820771a:
 
     # me "..."
     me "..."
 
-# game/events/dreams/millionaire.rpy:188
+# game/events/dreams/millionaire.rpy:172
 translate polish d_Millionaire_2_part2_77d3d3e5:
 
-    # aharon "If you had a chance to achieve everything you ever wished to, spend eternity with the people you love, if you had a chance to be happy.."
-    aharon "If you had a chance to achieve everything you ever wished to, spend eternity with the people you love, if you had a chance to be happy.."
+    # aharon "If you had a chance to achieve everything you ever wished to, spend eternity with the people you love if you had a chance to be happy.." id d_Millionaire_2_part2_77d3d3e5
+    aharon "If you had a chance to achieve everything you ever wished to, spend eternity with the people you love if you had a chance to be happy.." id d_Millionaire_2_part2_77d3d3e5
 
-# game/events/dreams/millionaire.rpy:189
+# game/events/dreams/millionaire.rpy:173
 translate polish d_Millionaire_2_part2_a80f6b69:
 
-    # aharon "If you don't do it, you'll remain alone forever, all these you love will leave, and forget you."
-    aharon "If you don't do it, you'll remain alone forever, all these you love will leave, and forget you."
+    # aharon "If you don’t do it, you’ll remain alone forever, all those you love will leave, and forget you." id d_Millionaire_2_part2_a80f6b69
+    aharon "If you don’t do it, you’ll remain alone forever, all those you love will leave, and forget you." id d_Millionaire_2_part2_a80f6b69
 
-# game/events/dreams/millionaire.rpy:190
+# game/events/dreams/millionaire.rpy:174
 translate polish d_Millionaire_2_part2_699be028:
 
     # aharon "But doing it would mean your loved ones would need to live in a fake happiness, in a world created from the lie."
     aharon "But doing it would mean your loved ones would need to live in a fake happiness, in a world created from the lie."
 
-# game/events/dreams/millionaire.rpy:191
+# game/events/dreams/millionaire.rpy:175
 translate polish d_Millionaire_2_part2_e9226b31:
 
     # aharon "With despair, and fear weaved into their very being.."
     aharon "With despair, and fear weaved into their very being.."
 
-# game/events/dreams/millionaire.rpy:194
+# game/events/dreams/millionaire.rpy:178
 translate polish d_Millionaire_2_part2_d95d9a83:
 
     # aharon "Would you still do it?"
     aharon "Would you still do it?"
 
-# game/events/dreams/millionaire.rpy:195
+# game/events/dreams/millionaire.rpy:179
 translate polish d_Millionaire_2_part2_3820771a_1:
 
     # me "..."
     me "..."
 
-# game/events/dreams/millionaire.rpy:200
+# game/events/dreams/millionaire.rpy:184
 translate polish d_Millionaire_2_part2_81137867:
 
     # aharon "We are not that much different.."
     aharon "We are not that much different.."
 
-# game/events/dreams/millionaire.rpy:201
+# game/events/dreams/millionaire.rpy:185
 translate polish d_Millionaire_2_part2_c209fdc5:
 
     # me "Pardon?"
     me "Pardon?"
 
-# game/events/dreams/millionaire.rpy:206
+# game/events/dreams/millionaire.rpy:190
 translate polish d_Millionaire_2_part2_e53ba8fc:
 
     # aharon "Is that so.."
@@ -404,27 +404,7 @@ translate polish strings:
     old "Get on your knees"
     new "Get on your knees"
 
-    # game/events/dreams/millionaire.rpy:196
+    # game/events/dreams/millionaire.rpy:180
     old "Will I?"
     new "Will I?"
-
-# TODO: Translation updated at 2022-01-31 15:20
-
-# game/events/dreams/millionaire.rpy:82
-translate polish d_Millionaire_2_menu1_8004a140:
-
-    # th "My friend? Do I have a friend called Aharon?"
-    th "My friend? Do I have a friend called Aharon?"
-
-# game/events/dreams/millionaire.rpy:169
-translate polish d_Millionaire_2_part2_32f410cf:
-
-    # "After a while your secretary returns, this time, not alone."
-    "After a while your secretary returns, this time, not alone."
-
-# game/events/dreams/millionaire.rpy:188
-translate polish d_Millionaire_2_part2_7c2ac7f4:
-
-    # aharon "If you had a chance to achieve everything you ever wished to, spend eternity with the people you love if you had a chance to be happy.."
-    aharon "If you had a chance to achieve everything you ever wished to, spend eternity with the people you love if you had a chance to be happy.."
 

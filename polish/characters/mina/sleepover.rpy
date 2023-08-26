@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/mina/sleepover.rpy:17
 translate polish sleep_with_mina_3c72ebde:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-08-20 13:48
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/mina/ev_18.rpy:8
 translate polish mina_18_b2f60cdd:
@@ -1207,4 +1207,16 @@ translate polish strings:
     # game/characters/mina/ev_18.rpy:17
     old "I feel like shit"
     new "I feel like shit"
+
+    # game/characters/mina/ev_18.rpy:178
+    old "Rachel"
+    new "Rachel"
+
+    # game/characters/mina/ev_18.rpy:178
+    old "Little Fox"
+    new "Little Fox"
+
+    # game/characters/mina/ev_18.rpy:178
+    old "Rhainda"
+    new "Rhainda"
 

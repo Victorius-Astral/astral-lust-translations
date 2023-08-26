@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-07-11 16:45
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/savenia/ev_2.rpy:3
 translate polish savenia_2_ced88caa:
@@ -19,10 +19,10 @@ translate polish savenia_2_096a88cb:
     me "What's up with all this stuff?"
 
 # game/characters/savenia/ev_2.rpy:8
-translate polish savenia_2_d3ebcffc:
+translate polish savenia_2_eb926d58:
 
-    # savenia "I have found it outside."
-    savenia "I have found it outside."
+    # savenia "I found it outside."
+    savenia "I found it outside."
 
 # game/characters/savenia/ev_2.rpy:9
 translate polish savenia_2_3ce3a4ef:
@@ -57,8 +57,8 @@ translate polish savenia_2_c5637f0a:
 # game/characters/savenia/ev_2.rpy:16
 translate polish savenia_2_2756ab01:
 
-    # me "You can't.. How did you.."
-    me "You can't.. How did you.."
+    # me "You can't.. How did you-" id savenia_2_2756ab01
+    me "You can't.. How did you-" id savenia_2_2756ab01
 
 # game/characters/savenia/ev_2.rpy:19
 translate polish savenia_2_848b0633:
@@ -75,8 +75,8 @@ translate polish savenia_2_ae67358c:
 # game/characters/savenia/ev_2.rpy:23
 translate polish savenia_2_fd3214d4:
 
-    # savenia "Say it again, you bas.."
-    savenia "Say it again, you bas.."
+    # savenia "Say it again, you bas-" id savenia_2_fd3214d4
+    savenia "Say it again, you bas-" id savenia_2_fd3214d4
 
 # game/characters/savenia/ev_2.rpy:26
 translate polish savenia_2_1ee7c058:
@@ -103,10 +103,10 @@ translate polish savenia_2_c6e565bd:
     savenia "I just need something to work as crutches, and I'm good to go."
 
 # game/characters/savenia/ev_2.rpy:34
-translate polish savenia_2_c56cec4c:
+translate polish savenia_2_1824a874:
 
-    # me "And if something attacked you?"
-    me "And if something attacked you?"
+    # me "And what if something attacks you?"
+    me "And what if something attacks you?"
 
 # game/characters/savenia/ev_2.rpy:37
 translate polish savenia_2_4347736c:
@@ -115,10 +115,10 @@ translate polish savenia_2_4347736c:
     savenia "Hah, I can kill anything, one hand will be enough."
 
 # game/characters/savenia/ev_2.rpy:38
-translate polish savenia_2_bc4a0bc6:
+translate polish savenia_2_4b97e755:
 
-    # me "Listen, I didn't save your sorry ass, for you to go die outside."
-    me "Listen, I didn't save your sorry ass, for you to go die outside."
+    # me "Listen, I didn't save your sorry ass for you to go die outside."
+    me "Listen, I didn't save your sorry ass for you to go die outside."
 
 # game/characters/savenia/ev_2.rpy:39
 translate polish savenia_2_c5637f0a_2:
@@ -133,10 +133,10 @@ translate polish savenia_2_550cf08b:
     savenia "I will pay you back."
 
 # game/characters/savenia/ev_2.rpy:43
-translate polish savenia_2_02bd377a:
+translate polish savenia_2_eb18db01:
 
-    # me "You won't do so after you die, so think a little, in your current state even Grace could beat you."
-    me "You won't do so after you die, so think a little, in your current state even Grace could beat you."
+    # me "You won't after you die, so think a little. In your current state, even Grace could beat you."
+    me "You won't after you die, so think a little. In your current state, even Grace could beat you."
 
 # game/characters/savenia/ev_2.rpy:46
 translate polish savenia_2_e6ae4567:
@@ -145,16 +145,16 @@ translate polish savenia_2_e6ae4567:
     savenia "Grace?"
 
 # game/characters/savenia/ev_2.rpy:47
-translate polish savenia_2_c191f855:
+translate polish savenia_2_ae8bec24:
 
-    # me "Yeah, Grace, it will hit hard once you get to know her. Hungry?"
-    me "Yeah, Grace, it will hit hard once you get to know her. Hungry?"
+    # me "Yeah, Grace. It will hit hard, once you get to know her. Hungry?"
+    me "Yeah, Grace. It will hit hard, once you get to know her. Hungry?"
 
 # game/characters/savenia/ev_2.rpy:50
 translate polish savenia_2_20e8e47f:
 
-    # savenia "I have found some food outside."
-    savenia "I have found some food outside."
+    # savenia "I found some food outside." id savenia_2_20e8e47f
+    savenia "I found some food outside." id savenia_2_20e8e47f
 
 # game/characters/savenia/ev_2.rpy:51
 translate polish savenia_2_0fa90437:
@@ -207,8 +207,8 @@ translate polish savenia_2_3adf8efc:
 # game/characters/savenia/ev_2.rpy:61
 translate polish savenia_2_3e46a61b:
 
-    # me "Her leg is injured, and she has trouble walking, she's going to stay with us for some time."
-    me "Her leg is injured, and she has trouble walking, she's going to stay with us for some time."
+    # me "Her leg is injured, and she has trouble walking, so she's going to stay with us for some time." id savenia_2_3e46a61b
+    me "Her leg is injured, and she has trouble walking, so she's going to stay with us for some time." id savenia_2_3e46a61b
 
 # game/characters/savenia/ev_2.rpy:64
 translate polish savenia_2_d7760fc7:
@@ -229,22 +229,22 @@ translate polish savenia_2_34b3e937:
     savenia "Hello."
 
 # game/characters/savenia/ev_2.rpy:71
-translate polish savenia_2_0be203ec:
+translate polish savenia_2_4a55dee9:
 
-    # alice "Alice, I would like to warn you, if you try anything, I'll shot you dead."
-    alice "Alice, I would like to warn you, if you try anything, I'll shot you dead."
+    # alice "Alice. I would like to warn you, if you try anything, I'll shoot you dead." id savenia_2_4a55dee9
+    alice "Alice. I would like to warn you, if you try anything, I'll shoot you dead." id savenia_2_4a55dee9
 
 # game/characters/savenia/ev_2.rpy:74
-translate polish savenia_2_15dfee3e:
+translate polish savenia_2_0e3a6874:
 
-    # th "Atmosphere is so tense, I can almost feel it weighting down on my shoulders."
-    th "Atmosphere is so tense, I can almost feel it weighting down on my shoulders."
+    # th "Atmosphere is so tense, I can almost feel it weighing down on my shoulders."
+    th "Atmosphere is so tense, I can almost feel it weighing down on my shoulders."
 
 # game/characters/savenia/ev_2.rpy:75
-translate polish savenia_2_cb863574:
+translate polish savenia_2_9516b88f:
 
-    # savenia "Noted, he saved me, I won't try anything funny."
-    savenia "Noted, he saved me, I won't try anything funny."
+    # savenia "Noted. He saved me, so I won't try anything funny."
+    savenia "Noted. He saved me, so I won't try anything funny."
 
 # game/characters/savenia/ev_2.rpy:76
 translate polish savenia_2_2a45381b:
@@ -271,10 +271,10 @@ translate polish savenia_2_7402cda2:
     grace "Mm."
 
 # game/characters/savenia/ev_2.rpy:84
-translate polish savenia_2_5759370e:
+translate polish savenia_2_1c3a7dda:
 
-    # savenia "So this is Grace?"
-    savenia "So this is Grace?"
+    # savenia "So, this is Grace?"
+    savenia "So, this is Grace?"
 
 # game/characters/savenia/ev_2.rpy:87
 translate polish savenia_2_7402cda2_1:
@@ -403,10 +403,10 @@ translate polish savenia_2_ce1b998a:
     me "I know it's unexpected."
 
 # game/characters/savenia/ev_2.rpy:122
-translate polish savenia_2_ebc7fc62:
+translate polish savenia_2_9e46178a:
 
-    # lexi "You should have asked us. Where was in your brain when you brought her here?"
-    lexi "You should have asked us. Where was in your brain when you brought her here?"
+    # lexi "You should have asked us. Where was your brain when you brought her here?"
+    lexi "You should have asked us. Where was your brain when you brought her here?"
 
 # game/characters/savenia/ev_2.rpy:125
 translate polish savenia_2_7e911e1a:
@@ -415,10 +415,10 @@ translate polish savenia_2_7e911e1a:
     grace "She's not nice."
 
 # game/characters/savenia/ev_2.rpy:128
-translate polish savenia_2_320243a4:
+translate polish savenia_2_0924d9df:
 
-    # alice "It's obvious she's dangerous, bandit or deserter considering her clothes."
-    alice "It's obvious she's dangerous, bandit or deserter considering her clothes."
+    # alice "It's obvious she's dangerous. Bandit or deserter considering her clothes."
+    alice "It's obvious she's dangerous. Bandit or deserter considering her clothes."
 
 # game/characters/savenia/ev_2.rpy:129
 translate polish savenia_2_a3c3ef55:
@@ -427,16 +427,16 @@ translate polish savenia_2_a3c3ef55:
     alice "She's got a whole arsenal on her shelf.."
 
 # game/characters/savenia/ev_2.rpy:132
-translate polish savenia_2_acfc0b5c:
+translate polish savenia_2_db647eb8:
 
-    # mina "She can't be trusted, who knows if her people are already on their way over here."
-    mina "She can't be trusted, who knows if her people are already on their way over here."
+    # mina "We can't trust her. Who knows if her people are already on their way over here."
+    mina "We can't trust her. Who knows if her people are already on their way over here."
 
 # game/characters/savenia/ev_2.rpy:134
-translate polish savenia_2_d382a08e:
+translate polish savenia_2_ced9f1eb:
 
-    # me "I don't know.. I just felt I must help her, while she's obviously dangerous, she doesn't seem to mean us any harm."
-    me "I don't know.. I just felt I must help her, while she's obviously dangerous, she doesn't seem to mean us any harm."
+    # me "I don't know.. I just felt I had to help her, and while she's obviously dangerous, she doesn't seem to mean us any harm."
+    me "I don't know.. I just felt I had to help her, and while she's obviously dangerous, she doesn't seem to mean us any harm."
 
 # game/characters/savenia/ev_2.rpy:137
 translate polish savenia_2_77138365:
@@ -445,10 +445,10 @@ translate polish savenia_2_77138365:
     th "That must be fucking Author.."
 
 # game/characters/savenia/ev_2.rpy:139
-translate polish savenia_2_bafd601f:
+translate polish savenia_2_fba54b77:
 
-    # me "She seems to be very useful, if she helps us scavenging, we will have much easier time, perhaps Lexi won't need to risk everyday."
-    me "She seems to be very useful, if she helps us scavenging, we will have much easier time, perhaps Lexi won't need to risk everyday."
+    # me "She seems to be very useful. If she helps us scavenging, we will have a much easier time, and perhaps Lexi won't need to risk it everyday."
+    me "She seems to be very useful. If she helps us scavenging, we will have a much easier time, and perhaps Lexi won't need to risk it everyday."
 
 # game/characters/savenia/ev_2.rpy:142
 translate polish savenia_2_91190df3:
@@ -457,10 +457,10 @@ translate polish savenia_2_91190df3:
     mina "That would be excellent.."
 
 # game/characters/savenia/ev_2.rpy:143
-translate polish savenia_2_01e1e627:
+translate polish savenia_2_8b5af7b6:
 
-    # lexi "I will never trust the likes of her, perhaps it was her people that tried to assault my [lex_min]!"
-    lexi "I will never trust the likes of her, perhaps it was her people that tried to assault my [lex_min]!"
+    # lexi "I will never trust the likes of her. It could've been her people that tried to assault my [lex_min]!"
+    lexi "I will never trust the likes of her. It could've been her people that tried to assault my [lex_min]!"
 
 # game/characters/savenia/ev_2.rpy:146
 translate polish savenia_2_4e2a8876:
@@ -469,22 +469,22 @@ translate polish savenia_2_4e2a8876:
     mina "..."
 
 # game/characters/savenia/ev_2.rpy:147
-translate polish savenia_2_e6c2aed5:
+translate polish savenia_2_215afc03:
 
-    # me "I think she looks like member of biker gang, unlike these dirty bastards."
-    me "I think she looks like member of biker gang, unlike these dirty bastards."
+    # me "I think she looks like member of a biker gang, unlike these dirty bastards."
+    me "I think she looks like member of a biker gang, unlike these dirty bastards."
 
 # game/characters/savenia/ev_2.rpy:150
-translate polish savenia_2_a3f9b4a6:
+translate polish savenia_2_94a88543:
 
-    # alice "Yeah, she's got a lot of leather on her."
-    alice "Yeah, she's got a lot of leather on her."
+    # alice "Yeah, she has got a lot of leather on her."
+    alice "Yeah, she has got a lot of leather on her."
 
 # game/characters/savenia/ev_2.rpy:151
 translate polish savenia_2_1fa4a683:
 
-    # me "I've found her lying down beside a bike."
-    me "I've found her lying down beside a bike."
+    # me "I found her lying down beside a bike." id savenia_2_1fa4a683
+    me "I found her lying down beside a bike." id savenia_2_1fa4a683
 
 # game/characters/savenia/ev_2.rpy:154
 translate polish savenia_2_6f65b047:
@@ -511,10 +511,10 @@ translate polish savenia_2_ffab79db:
     mina "She's here already.."
 
 # game/characters/savenia/ev_2.rpy:160
-translate polish savenia_2_40e653ba:
+translate polish savenia_2_2f145949:
 
-    # mina "We need to keep our eyes open, what else is there to do? Kill her? Throw her out?"
-    mina "We need to keep our eyes open, what else is there to do? Kill her? Throw her out?"
+    # mina "We need to keep our eyes open; what else is there to do? Kill her? Throw her out?"
+    mina "We need to keep our eyes open; what else is there to do? Kill her? Throw her out?"
 
 # game/characters/savenia/ev_2.rpy:161
 translate polish savenia_2_58c9594e:
@@ -523,10 +523,10 @@ translate polish savenia_2_58c9594e:
     lexi "I'll do what is needed to keep us safe.."
 
 # game/characters/savenia/ev_2.rpy:162
-translate polish savenia_2_037db377:
+translate polish savenia_2_9c97e59b:
 
-    # mina "I know, Lex. But she's injured, throwing her out is the same as killing her, we won't be better than bandits if we did it."
-    mina "I know, Lex. But she's injured, throwing her out is the same as killing her, we won't be better than bandits if we did it."
+    # mina "I know, Lex, but she's injured. Throwing her out is the same as killing her, and we wouldn't be better than bandits if we did that." id savenia_2_9c97e59b
+    mina "I know, Lex, but she's injured. Throwing her out is the same as killing her, and we wouldn't be better than bandits if we did that." id savenia_2_9c97e59b
 
 # game/characters/savenia/ev_2.rpy:163
 translate polish savenia_2_bb22f645:
@@ -561,232 +561,8 @@ translate polish savenia_2_8878a303:
 # game/characters/savenia/ev_2.rpy:176
 translate polish savenia_2_e87ba418:
 
-    # th "It was tense, it's good we have it settled already. I hope they can at least communicate with each other."
-    th "It was tense, it's good we have it settled already. I hope they can at least communicate with each other."
-
-# game/characters/savenia/ev_2.rpy:179
-translate polish savenia_2_4d94b262:
-
-    # savenia "So you didn't tell them about me, before?"
-    savenia "So you didn't tell them about me, before?"
-
-# game/characters/savenia/ev_2.rpy:180
-translate polish savenia_2_8e5b7f35:
-
-    # me "So obvious?"
-    me "So obvious?"
-
-# game/characters/savenia/ev_2.rpy:181
-translate polish savenia_2_020885d7:
-
-    # savenia "As hell. They looked like they would want to tear both you and me to pieces."
-    savenia "As hell. They looked like they would want to tear both you and me to pieces."
-
-# game/characters/savenia/ev_2.rpy:182
-translate polish savenia_2_5b569b46:
-
-    # me "They weren't very happy with this surprise.."
-    me "They weren't very happy with this surprise.."
-
-# game/characters/savenia/ev_2.rpy:183
-translate polish savenia_2_038b5675:
-
-    # savenia "It would be weird if they were."
-    savenia "It would be weird if they were."
-
-# game/characters/savenia/ev_2.rpy:184
-translate polish savenia_2_5db98aca:
-
-    # me "True."
-    me "True."
-
-# game/characters/savenia/ev_2.rpy:189
-translate polish savenia_2_d59032a6:
-
-    # savenia "[me]. Look, I'm grateful for you bringing me here, I won't make trouble for anyone, after I find my bike, I'll leave."
-    savenia "[me]. Look, I'm grateful for you bringing me here, I won't make trouble for anyone, after I find my bike, I'll leave."
-
-# game/characters/savenia/ev_2.rpy:190
-translate polish savenia_2_7a0f946a:
-
-    # savenia "Before this, I'll make sure to earn my stay."
-    savenia "Before this, I'll make sure to earn my stay."
-
-# game/characters/savenia/ev_2.rpy:191
-translate polish savenia_2_b3a30fa4:
-
-    # me "Let your leg get better first."
-    me "Let your leg get better first."
-
-# game/characters/savenia/ev_2.rpy:192
-translate polish savenia_2_1ee6f661:
-
-    # savenia "Don't worry about me, I know what I'm doing."
-    savenia "Don't worry about me, I know what I'm doing."
-
-# game/characters/savenia/ev_2.rpy:193
-translate polish savenia_2_84068191:
-
-    # me "I hope so. They'll accept you with time, also don't be mean to Grace, she won't be able to take it."
-    me "I hope so. They'll accept you with time, also don't be mean to Grace, she won't be able to take it."
-
-# game/characters/savenia/ev_2.rpy:194
-translate polish savenia_2_b304d0f9:
-
-    # savenia "I have noticed."
-    savenia "I have noticed."
-
-# game/characters/savenia/ev_2.rpy:195
-translate polish savenia_2_5a460fde:
-
-    # me "Alright, rest, if you need to seek bathroom or kitchen, go to the bottom floor, and turn right."
-    me "Alright, rest, if you need to seek bathroom or kitchen, go to the bottom floor, and turn right."
-
-# game/characters/savenia/ev_2.rpy:198
-translate polish savenia_2_47601737:
-
-    # savenia "Got it."
-    savenia "Got it."
-
-# game/characters/savenia/ev_2.rpy:199
-translate polish savenia_2_95555a4a:
-
-    # me "Do you need me to find you something as crutches?"
-    me "Do you need me to find you something as crutches?"
-
-# game/characters/savenia/ev_2.rpy:200
-translate polish savenia_2_cf44c9f5:
-
-    # savenia "I already found something."
-    savenia "I already found something."
-
-# game/characters/savenia/ev_2.rpy:201
-translate polish savenia_2_0bb902a2:
-
-    # me "Great. See ya."
-    me "Great. See ya."
-
-# game/characters/savenia/ev_2.rpy:202
-translate polish savenia_2_0ed012b0:
-
-    # savenia "Take care."
-    savenia "Take care."
-
-# TODO: Translation updated at 2022-01-31 15:20
-
-# game/characters/savenia/ev_2.rpy:8
-translate polish savenia_2_eb926d58:
-
-    # savenia "I found it outside."
-    savenia "I found it outside."
-
-# game/characters/savenia/ev_2.rpy:34
-translate polish savenia_2_1824a874:
-
-    # me "And what if something attacks you?"
-    me "And what if something attacks you?"
-
-# game/characters/savenia/ev_2.rpy:38
-translate polish savenia_2_4b97e755:
-
-    # me "Listen, I didn't save your sorry ass for you to go die outside."
-    me "Listen, I didn't save your sorry ass for you to go die outside."
-
-# game/characters/savenia/ev_2.rpy:43
-translate polish savenia_2_eb18db01:
-
-    # me "You won't after you die, so think a little. In your current state, even Grace could beat you."
-    me "You won't after you die, so think a little. In your current state, even Grace could beat you."
-
-# game/characters/savenia/ev_2.rpy:47
-translate polish savenia_2_ae8bec24:
-
-    # me "Yeah, Grace. It will hit hard, once you get to know her. Hungry?"
-    me "Yeah, Grace. It will hit hard, once you get to know her. Hungry?"
-
-# game/characters/savenia/ev_2.rpy:71
-translate polish savenia_2_4a55dee9:
-
-    # alice "Alice, I would like to warn you, if you try anything, I'll shoot you dead."
-    alice "Alice, I would like to warn you, if you try anything, I'll shoot you dead."
-
-# game/characters/savenia/ev_2.rpy:74
-translate polish savenia_2_0e3a6874:
-
-    # th "Atmosphere is so tense, I can almost feel it weighing down on my shoulders."
-    th "Atmosphere is so tense, I can almost feel it weighing down on my shoulders."
-
-# game/characters/savenia/ev_2.rpy:75
-translate polish savenia_2_9516b88f:
-
-    # savenia "Noted. He saved me, so I won't try anything funny."
-    savenia "Noted. He saved me, so I won't try anything funny."
-
-# game/characters/savenia/ev_2.rpy:84
-translate polish savenia_2_1c3a7dda:
-
-    # savenia "So, this is Grace?"
-    savenia "So, this is Grace?"
-
-# game/characters/savenia/ev_2.rpy:122
-translate polish savenia_2_9e46178a:
-
-    # lexi "You should have asked us. Where was your brain when you brought her here?"
-    lexi "You should have asked us. Where was your brain when you brought her here?"
-
-# game/characters/savenia/ev_2.rpy:128
-translate polish savenia_2_0924d9df:
-
-    # alice "It's obvious she's dangerous. Bandit or deserter considering her clothes."
-    alice "It's obvious she's dangerous. Bandit or deserter considering her clothes."
-
-# game/characters/savenia/ev_2.rpy:132
-translate polish savenia_2_db647eb8:
-
-    # mina "We can't trust her. Who knows if her people are already on their way over here."
-    mina "We can't trust her. Who knows if her people are already on their way over here."
-
-# game/characters/savenia/ev_2.rpy:134
-translate polish savenia_2_ced9f1eb:
-
-    # me "I don't know.. I just felt I had to help her, and while she's obviously dangerous, she doesn't seem to mean us any harm."
-    me "I don't know.. I just felt I had to help her, and while she's obviously dangerous, she doesn't seem to mean us any harm."
-
-# game/characters/savenia/ev_2.rpy:139
-translate polish savenia_2_fba54b77:
-
-    # me "She seems to be very useful. If she helps us scavenging, we will have a much easier time, and perhaps Lexi won't need to risk it everyday."
-    me "She seems to be very useful. If she helps us scavenging, we will have a much easier time, and perhaps Lexi won't need to risk it everyday."
-
-# game/characters/savenia/ev_2.rpy:143
-translate polish savenia_2_8b5af7b6:
-
-    # lexi "I will never trust the likes of her. It could've been her people that tried to assault my [lex_min]!"
-    lexi "I will never trust the likes of her. It could've been her people that tried to assault my [lex_min]!"
-
-# game/characters/savenia/ev_2.rpy:147
-translate polish savenia_2_215afc03:
-
-    # me "I think she looks like member of a biker gang, unlike these dirty bastards."
-    me "I think she looks like member of a biker gang, unlike these dirty bastards."
-
-# game/characters/savenia/ev_2.rpy:150
-translate polish savenia_2_94a88543:
-
-    # alice "Yeah, she has got a lot of leather on her."
-    alice "Yeah, she has got a lot of leather on her."
-
-# game/characters/savenia/ev_2.rpy:160
-translate polish savenia_2_2f145949:
-
-    # mina "We need to keep our eyes open; what else is there to do? Kill her? Throw her out?"
-    mina "We need to keep our eyes open; what else is there to do? Kill her? Throw her out?"
-
-# game/characters/savenia/ev_2.rpy:162
-translate polish savenia_2_9c97e59b:
-
-    # mina "I know, Lex, but she's injured, throwing her out is the same as killing her. We wouldn't be better than bandits, if we did it."
-    mina "I know, Lex, but she's injured, throwing her out is the same as killing her. We wouldn't be better than bandits, if we did it."
+    # th "It was tense, but it's good we have it settled already. I hope they can at least communicate with each other." id savenia_2_e87ba418
+    th "It was tense, but it's good we have it settled already. I hope they can at least communicate with each other." id savenia_2_e87ba418
 
 # game/characters/savenia/ev_2.rpy:179
 translate polish savenia_2_fc2f4e95:
@@ -806,11 +582,41 @@ translate polish savenia_2_d916da9d:
     # savenia "Like hell, they looked like they would want to tear both you and me to pieces."
     savenia "Like hell, they looked like they would want to tear both you and me to pieces."
 
+# game/characters/savenia/ev_2.rpy:182
+translate polish savenia_2_5b569b46:
+
+    # me "They weren't very happy with this surprise.."
+    me "They weren't very happy with this surprise.."
+
+# game/characters/savenia/ev_2.rpy:183
+translate polish savenia_2_038b5675:
+
+    # savenia "It would be weird if they were."
+    savenia "It would be weird if they were."
+
+# game/characters/savenia/ev_2.rpy:184
+translate polish savenia_2_5db98aca:
+
+    # me "True."
+    me "True."
+
 # game/characters/savenia/ev_2.rpy:190
 translate polish savenia_2_27383a00:
 
     # savenia "[me]. Look, I'm grateful for you bringing me here and I won't make trouble for anyone. After I find my bike, I'll leave."
     savenia "[me]. Look, I'm grateful for you bringing me here and I won't make trouble for anyone. After I find my bike, I'll leave."
+
+# game/characters/savenia/ev_2.rpy:191
+translate polish savenia_2_7a0f946a:
+
+    # savenia "Before this, I'll make sure to earn my stay."
+    savenia "Before this, I'll make sure to earn my stay."
+
+# game/characters/savenia/ev_2.rpy:192
+translate polish savenia_2_b3a30fa4:
+
+    # me "Let your leg get better first."
+    me "Let your leg get better first."
 
 # game/characters/savenia/ev_2.rpy:193
 translate polish savenia_2_592f976e:
@@ -835,4 +641,34 @@ translate polish savenia_2_09962f88:
 
     # me "Alright, rest, and if you need to seek bathroom or kitchen, go to the bottom floor and turn right."
     me "Alright, rest, and if you need to seek bathroom or kitchen, go to the bottom floor and turn right."
+
+# game/characters/savenia/ev_2.rpy:199
+translate polish savenia_2_47601737:
+
+    # savenia "Got it."
+    savenia "Got it."
+
+# game/characters/savenia/ev_2.rpy:200
+translate polish savenia_2_95555a4a:
+
+    # me "Do you need me to find you something as crutches?"
+    me "Do you need me to find you something as crutches?"
+
+# game/characters/savenia/ev_2.rpy:201
+translate polish savenia_2_cf44c9f5:
+
+    # savenia "I already found something."
+    savenia "I already found something."
+
+# game/characters/savenia/ev_2.rpy:202
+translate polish savenia_2_0bb902a2:
+
+    # me "Great. See ya."
+    me "Great. See ya."
+
+# game/characters/savenia/ev_2.rpy:203
+translate polish savenia_2_0ed012b0:
+
+    # savenia "Take care."
+    savenia "Take care."
 

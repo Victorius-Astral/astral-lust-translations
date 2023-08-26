@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
@@ -49,10 +49,6 @@ translate polish strings:
     # game/combat/cards/lists/tips.rpy:1
     old "\n________________"
     new "\n________________"
-
-# TODO: Translation updated at 2022-02-16 09:42
-
-translate polish strings:
 
     # game/combat/cards/lists/tips.rpy:1
     old "{{small}}{{patreon1}}Anniversary - 19th January{{/patreon1}}{{/small}}"

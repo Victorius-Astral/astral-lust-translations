@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/little fox/ev_3.rpy:26
 translate polish lil_fox_3_9d382d40:
@@ -393,8 +393,8 @@ translate polish lil_fox_3_alice_affc901a:
 # game/characters/little fox/ev_3.rpy:180
 translate polish lil_fox_3_alice_641a8d87:
 
-    # alice "I'll need materials. [me] go and get 30 leather for your sidekick."
-    alice "I'll need materials. [me] go and get 30 leather for your sidekick."
+    # alice "I'll need materials. [me], go and get 30 leather for your sidekick." id lil_fox_3_alice_641a8d87
+    alice "I'll need materials. [me], go and get 30 leather for your sidekick." id lil_fox_3_alice_641a8d87
 
 # game/characters/little fox/ev_3.rpy:184
 translate polish lil_fox_3_alice_a8ee3e2a:
@@ -777,8 +777,8 @@ translate polish lil_fox_3_alice_5204f50a:
 # game/characters/little fox/ev_3.rpy:317
 translate polish lil_fox_3_alice_e753c77e:
 
-    # rachel "Seems she was right you would follow them."
-    rachel "Seems she was right you would follow them."
+    # rachel "Seems she was right; you were going to follow them." id lil_fox_3_alice_e753c77e
+    rachel "Seems she was right; you were going to follow them." id lil_fox_3_alice_e753c77e
 
 # game/characters/little fox/ev_3.rpy:318
 translate polish lil_fox_3_alice_3820771a_1:

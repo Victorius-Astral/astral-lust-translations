@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/rhainda/ev_2.rpy:10
 translate polish rhainda_2_7e496c80:
@@ -147,8 +147,8 @@ translate polish rhainda_2_2aff8a3b:
 # game/characters/rhainda/ev_2.rpy:61
 translate polish rhainda_2_6b513ad4:
 
-    # rhainda "And what's the difference between me living in a house?"
-    rhainda "And what's the difference between me living in a house?"
+    # rhainda "And how's that different from me living in a house?" id rhainda_2_6b513ad4
+    rhainda "And how's that different from me living in a house?" id rhainda_2_6b513ad4
 
 # game/characters/rhainda/ev_2.rpy:62
 translate polish rhainda_2_976712b3:
@@ -243,8 +243,8 @@ translate polish rhainda_2_3aa87825:
 # game/characters/rhainda/ev_2.rpy:89
 translate polish rhainda_2_d85bd8a0:
 
-    # me "So you are after the toys, what about your 'hunts'?"
-    me "So you are after the toys, what about your 'hunts'?"
+    # me "So you are after the toys, but what about your 'hunts'?" id rhainda_2_d85bd8a0
+    me "So you are after the toys, but what about your 'hunts'?" id rhainda_2_d85bd8a0
 
 # game/characters/rhainda/ev_2.rpy:93
 translate polish rhainda_2_e8106c6e:
@@ -471,8 +471,8 @@ translate polish rhainda_2_3820771a_5:
 # game/characters/rhainda/ev_2.rpy:179
 translate polish rhainda_2_0d88039e:
 
-    # rhainda "Add Little Fox and you have two hot chicks in one place, much better than one."
-    rhainda "Add Little Fox and you have two hot chicks in one place, much better than one."
+    # rhainda "Add Little Fox and you have two hot chicks in one place. Much better than one!" id rhainda_2_0d88039e
+    rhainda "Add Little Fox and you have two hot chicks in one place. Much better than one!" id rhainda_2_0d88039e
 
 # game/characters/rhainda/ev_2.rpy:180
 translate polish rhainda_2_b8155f9a:

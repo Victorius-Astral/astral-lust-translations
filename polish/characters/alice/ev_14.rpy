@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-07-11 16:45
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/alice/ev_14.rpy:12
 translate polish alice_14_c61c6c36:
@@ -37,16 +37,16 @@ translate polish alice_14_ad31009f:
     alice "And really, you don't have better ways to use your materials?"
 
 # game/characters/alice/ev_14.rpy:28
-translate polish alice_14_bc2b82cb:
+translate polish alice_14_402f0fee:
 
-    # alice "You've even build a playroom. Fucking playroom, [me]."
-    alice "You've even build a playroom. Fucking playroom, [me]."
+    # alice "You've even built a playroom. A fucking playroom, [me]."
+    alice "You've even built a playroom. A fucking playroom, [me]."
 
 # game/characters/alice/ev_14.rpy:33
-translate polish alice_14_5f1b672e:
+translate polish alice_14_754668c5:
 
-    # alice "And the worst thing? You didn't invite ME!"
-    alice "And the worst thing? You didn't invite ME!"
+    # alice "And the worst part? You didn't invite ME!"
+    alice "And the worst part? You didn't invite ME!"
 
 # game/characters/alice/ev_14.rpy:34
 translate polish alice_14_0873721e:
@@ -111,160 +111,160 @@ translate polish alice_14_part2_237582ec:
 # game/characters/alice/ev_14.rpy:80
 translate polish alice_14_part2_8d7fd32f:
 
-    # alice "I would like to do something, we didn't do before."
-    alice "I would like to do something, we didn't do before."
+    # alice "I would like to do something that we haven't done before." id alice_14_part2_8d7fd32f
+    alice "I would like to do something that we haven't done before." id alice_14_part2_8d7fd32f
 
-# game/characters/alice/ev_14.rpy:93
+# game/characters/alice/ev_14.rpy:96
 translate polish alice_14_part2_da61283f:
 
     # alice "Something that will make me lose myself and scream your name. Something that will throw me out of my feet."
     alice "Something that will make me lose myself and scream your name. Something that will throw me out of my feet."
 
-# game/characters/alice/ev_14.rpy:94
+# game/characters/alice/ev_14.rpy:97
 translate polish alice_14_part2_a9d7bf98:
 
     # me "I think I got an idea.."
     me "I think I got an idea.."
 
-# game/characters/alice/ev_14.rpy:99
+# game/characters/alice/ev_14.rpy:102
 translate polish alice_14_part2_c7e67419:
 
     # alice "What is it?"
     alice "What is it?"
 
-# game/characters/alice/ev_14.rpy:100
+# game/characters/alice/ev_14.rpy:103
 translate polish alice_14_part2_cadd1e0c:
 
     # me "Hehe, that's a surprise.."
     me "Hehe, that's a surprise.."
 
-# game/characters/alice/ev_14.rpy:105
+# game/characters/alice/ev_14.rpy:108
 translate polish alice_14_part2_9e40943f:
 
     # alice "I love surprises."
     alice "I love surprises."
 
-# game/characters/alice/ev_14.rpy:106
-translate polish alice_14_part2_9f2ac2b4:
+# game/characters/alice/ev_14.rpy:109
+translate polish alice_14_part2_1e9b6953:
 
-    # me "Then put some trust in me, and close your eyes, don't open them, before I tell you so."
-    me "Then put some trust in me, and close your eyes, don't open them, before I tell you so."
+    # me "Then put some trust in me and close your eyes. Don't open them before I tell you to." id alice_14_part2_1e9b6953
+    me "Then put some trust in me and close your eyes. Don't open them before I tell you to." id alice_14_part2_1e9b6953
 
-# game/characters/alice/ev_14.rpy:111
+# game/characters/alice/ev_14.rpy:114
 translate polish alice_14_part2_4b95af6f:
 
     # alice "Alright, I trust you, [me]. Do whatever you want with me."
     alice "Alright, I trust you, [me]. Do whatever you want with me."
 
-# game/characters/alice/ev_14.rpy:112
+# game/characters/alice/ev_14.rpy:115
 translate polish alice_14_part2_3352070d:
 
     # me "Haha, don't tempt me."
     me "Haha, don't tempt me."
 
-# game/characters/alice/ev_14.rpy:113
+# game/characters/alice/ev_14.rpy:116
 translate polish alice_14_part2_f38d9210:
 
     # me "Let's start with undressing you...."
     me "Let's start with undressing you...."
 
-# game/characters/alice/ev_14.rpy:117
+# game/characters/alice/ev_14.rpy:120
 translate polish alice_14_part2_d009a09d:
 
     # alice "Cold.. What is it?"
     alice "Cold.. What is it?"
 
-# game/characters/alice/ev_14.rpy:118
+# game/characters/alice/ev_14.rpy:121
 translate polish alice_14_part2_5a013792:
 
     # me "Patience."
     me "Patience."
 
-# game/characters/alice/ev_14.rpy:119
+# game/characters/alice/ev_14.rpy:122
 translate polish alice_14_part2_64d2cba3:
 
     # alice "And why did you bind my hands?"
     alice "And why did you bind my hands?"
 
-# game/characters/alice/ev_14.rpy:120
+# game/characters/alice/ev_14.rpy:123
 translate polish alice_14_part2_f96fadd5:
 
     # me "Are you scared?"
     me "Are you scared?"
 
-# game/characters/alice/ev_14.rpy:121
+# game/characters/alice/ev_14.rpy:124
 translate polish alice_14_part2_292612fa:
 
     # alice "A little, it feels weird."
     alice "A little, it feels weird."
 
-# game/characters/alice/ev_14.rpy:122
+# game/characters/alice/ev_14.rpy:125
 translate polish alice_14_part2_48ddd1ae:
 
     # me "You wanted something new."
     me "You wanted something new."
 
-# game/characters/alice/ev_14.rpy:123
+# game/characters/alice/ev_14.rpy:126
 translate polish alice_14_part2_82bdeeda:
 
     # me "Alright, open your eyes."
     me "Alright, open your eyes."
 
-# game/characters/alice/ev_14.rpy:127
+# game/characters/alice/ev_14.rpy:130
 translate polish alice_14_part2_40325204:
 
     # alice "Oh? What is it?"
     alice "Oh? What is it?"
 
-# game/characters/alice/ev_14.rpy:128
+# game/characters/alice/ev_14.rpy:131
 translate polish alice_14_part2_a6b77de4:
 
     # me "It's called wooden horse."
     me "It's called wooden horse."
 
-# game/characters/alice/ev_14.rpy:132
+# game/characters/alice/ev_14.rpy:135
 translate polish alice_14_part2_a915c093:
 
     # alice "And, ummm.. What's its use?"
     alice "And, ummm.. What's its use?"
 
-# game/characters/alice/ev_14.rpy:133
+# game/characters/alice/ev_14.rpy:136
 translate polish alice_14_part2_9ca4bd2b:
 
     # me "You're light, so it might not be obvious yet, but worry not, you'll figure it out soon enough."
     me "You're light, so it might not be obvious yet, but worry not, you'll figure it out soon enough."
 
-# game/characters/alice/ev_14.rpy:134
+# game/characters/alice/ev_14.rpy:137
 translate polish alice_14_part2_2fe6da5c:
 
     # alice "Oh? My weight matters?"
     alice "Oh? My weight matters?"
 
-# game/characters/alice/ev_14.rpy:138
+# game/characters/alice/ev_14.rpy:141
 translate polish alice_14_part2_0f4b199c:
 
     # alice "I think I've figured it out."
     alice "I think I've figured it out."
 
-# game/characters/alice/ev_14.rpy:139
+# game/characters/alice/ev_14.rpy:142
 translate polish alice_14_part2_1dbe2ddc:
 
     # me "Good."
     me "Good."
 
-# game/characters/alice/ev_14.rpy:143
+# game/characters/alice/ev_14.rpy:146
 translate polish alice_14_part2_28d63b25:
 
     # alice "If I'm to be honest, being bound by you like this.. is hot."
     alice "If I'm to be honest, being bound by you like this.. is hot."
 
-# game/characters/alice/ev_14.rpy:144
+# game/characters/alice/ev_14.rpy:147
 translate polish alice_14_part2_a68f7064:
 
     # me "Believe me, the hot part is only beginning. Time for you to move your hips."
     me "Believe me, the hot part is only beginning. Time for you to move your hips."
 
-# game/characters/alice/ev_14.rpy:145
+# game/characters/alice/ev_14.rpy:149
 translate polish alice_14_part2_24b7b2f8:
 
     # alice "Mm~"
@@ -279,24 +279,4 @@ translate polish strings:
     # game/characters/alice/ev_14.rpy:47
     old "Nah"
     new "Nah"
-
-# TODO: Translation updated at 2022-01-31 15:20
-
-# game/characters/alice/ev_14.rpy:28
-translate polish alice_14_402f0fee:
-
-    # alice "You've even built a playroom. A fucking playroom, [me]."
-    alice "You've even built a playroom. A fucking playroom, [me]."
-
-# game/characters/alice/ev_14.rpy:33
-translate polish alice_14_754668c5:
-
-    # alice "And the worst part? You didn't invite ME!"
-    alice "And the worst part? You didn't invite ME!"
-
-# game/characters/alice/ev_14.rpy:109
-translate polish alice_14_part2_1e9b6953:
-
-    # me "Then put some trust in me, and close your eyes, don't open them before I tell you to."
-    me "Then put some trust in me, and close your eyes, don't open them before I tell you to."
 

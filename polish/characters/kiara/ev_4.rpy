@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-02-16 09:42
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/kiara/ev_4.rpy:9
 translate polish kiara_4_6199ea21:
@@ -277,10 +277,10 @@ translate polish kiara_4_1f877649:
     me "What do you mean?"
 
 # game/characters/kiara/ev_4.rpy:74
-translate polish kiara_4_320ed5b6:
+translate polish kiara_4_e615e445:
 
-    # kiara "Everything originates from it, as so it's a part of everything."
-    kiara "Everything originates from it, as so it's a part of everything."
+    # kiara "Everything originates from 'It', as so 'It' is a part of everything."
+    kiara "Everything originates from 'It', as so 'It' is a part of everything."
 
 # game/characters/kiara/ev_4.rpy:75
 translate polish kiara_4_4b9060f0:
@@ -339,8 +339,8 @@ translate polish kiara_4_31a15b9c:
 # game/characters/kiara/ev_4.rpy:84
 translate polish kiara_4_254fa476:
 
-    # kiara "The more characteristics you gather, the more you'll crave for characteristics. You'll have an intense desire to devour all Creators 'essence'."
-    kiara "The more characteristics you gather, the more you'll crave for characteristics. You'll have an intense desire to devour all Creators 'essence'."
+    # kiara "The more characteristics you gather, the more you'll crave for characteristics. You'll have an intense desire to devour all of the Creator's 'essence'." id kiara_4_254fa476
+    kiara "The more characteristics you gather, the more you'll crave for characteristics. You'll have an intense desire to devour all of the Creator's 'essence'." id kiara_4_254fa476
 
 # game/characters/kiara/ev_4.rpy:85
 translate polish kiara_4_c81e7755:

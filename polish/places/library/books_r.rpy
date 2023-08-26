@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/places/library/books_r.rpy:6
 translate polish room_library_books_r_da92f362:

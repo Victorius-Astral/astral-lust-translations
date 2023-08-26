@@ -1,62 +1,38 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
-    # game/screens/settings/sound.rpy:8
-    old "Notifications"
-    new "Notifications"
-
-    # game/screens/settings/sound.rpy:9
-    old "Emotions"
-    new "Emotions"
-
-    # game/screens/settings/sound.rpy:10
-    old "Level Up"
-    new "Level Up"
-
-    # game/screens/settings/sound.rpy:11
-    old "Codex"
-    new "Codex"
-
-    # game/screens/settings/sound.rpy:20
-    old "Music Volume"
-    new "Music Volume"
-
-    # game/screens/settings/sound.rpy:27
-    old "Sound Volume"
-    new "Sound Volume"
-
-    # game/screens/settings/sound.rpy:33
-    old "Test"
-    new "Test"
-
-    # game/screens/settings/sound.rpy:37
-    old "Voice Volume"
-    new "Voice Volume"
-
-    # game/screens/settings/sound.rpy:48
-    old "Mute All"
-    new "Mute All"
-
-# TODO: Translation updated at 2022-08-20 13:48
-
-translate polish strings:
-
-    # game/screens/settings/sound.rpy:12
+    # game/screens/settings/sound.rpy:13
     old "General"
     new "General"
 
-    # game/screens/settings/sound.rpy:13
+    # game/screens/settings/sound.rpy:14
     old "Play sound when window is minimized"
     new "Play sound when window is minimized"
-
-# TODO: Translation updated at 2022-11-13 15:23
-
-translate polish strings:
 
     # game/screens/settings/sound.rpy:15
     old "Play whispers sound"
     new "Play whispers sound"
+
+    # game/screens/settings/sound.rpy:20
+    old "Emotions"
+    new "Emotions"
+
+    # game/screens/settings/sound.rpy:21
+    old "Level Up"
+    new "Level Up"
+
+    # game/screens/settings/sound.rpy:31
+    old "Music Volume"
+    new "Music Volume"
+
+    # game/screens/settings/sound.rpy:38
+    old "Sound Volume"
+    new "Sound Volume"
+
+    # game/screens/settings/sound.rpy:44
+    old "Test"
+    new "Test"
 
     # game/screens/settings/sound.rpy:46
     old "Battle Volume"
@@ -65,4 +41,12 @@ translate polish strings:
     # game/screens/settings/sound.rpy:51
     old "NSFW Volume"
     new "NSFW Volume"
+
+    # game/screens/settings/sound.rpy:58
+    old "Voice Volume"
+    new "Voice Volume"
+
+    # game/screens/settings/sound.rpy:69
+    old "Mute All"
+    new "Mute All"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-13 15:23
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/screens/systems/rituals.rpy:557
 translate polish performRituals_d805e427:

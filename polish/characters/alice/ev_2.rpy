@@ -1,156 +1,156 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
-# game/characters/alice/ev_2.rpy:6
+# game/characters/alice/ev_2.rpy:4
 translate polish alice_2_68ab42c9:
 
     # "You open your eyes ready to start your day only to find [alice] staring at you!"
     "You open your eyes ready to start your day only to find [alice] staring at you!"
 
-# game/characters/alice/ev_2.rpy:7
+# game/characters/alice/ev_2.rpy:5
 translate polish alice_2_61660bd0:
 
     # me "[alice]?"
     me "[alice]?"
 
-# game/characters/alice/ev_2.rpy:9
+# game/characters/alice/ev_2.rpy:7
 translate polish alice_2_6b2a5354:
 
     # alice "Yes?"
     alice "Yes?"
 
-# game/characters/alice/ev_2.rpy:10
+# game/characters/alice/ev_2.rpy:8
 translate polish alice_2_bef19229:
 
     # me "Umm.. What are you doing here?"
     me "Umm.. What are you doing here?"
 
-# game/characters/alice/ev_2.rpy:12
+# game/characters/alice/ev_2.rpy:10
 translate polish alice_2_2a144350:
 
     # alice "Looking at you, why?"
     alice "Looking at you, why?"
 
-# game/characters/alice/ev_2.rpy:13
+# game/characters/alice/ev_2.rpy:11
 translate polish alice_2_3820771a:
 
     # me "..."
     me "..."
 
-# game/characters/alice/ev_2.rpy:14
+# game/characters/alice/ev_2.rpy:12
 translate polish alice_2_74f05a4e:
 
     # alice "..."
     alice "..."
 
-# game/characters/alice/ev_2.rpy:15
+# game/characters/alice/ev_2.rpy:13
 translate polish alice_2_727794f4:
 
     # "You look at each other for a minute, and you start feeling awkward."
     "You look at each other for a minute, and you start feeling awkward."
 
-# game/characters/alice/ev_2.rpy:16
+# game/characters/alice/ev_2.rpy:14
 translate polish alice_2_95db7dd8:
 
     # me "Can I help you with something?"
     me "Can I help you with something?"
 
-# game/characters/alice/ev_2.rpy:18
+# game/characters/alice/ev_2.rpy:16
 translate polish alice_2_22fd8dc4:
 
     # alice "No."
     alice "No."
 
-# game/characters/alice/ev_2.rpy:19
+# game/characters/alice/ev_2.rpy:17
 translate polish alice_2_256ee0b6:
 
     # th "She is toying with me again!"
     th "She is toying with me again!"
 
-# game/characters/alice/ev_2.rpy:20
+# game/characters/alice/ev_2.rpy:18
 translate polish alice_2_ff123162:
 
     # me "Then why did you come here?"
     me "Then why did you come here?"
 
-# game/characters/alice/ev_2.rpy:22
+# game/characters/alice/ev_2.rpy:20
 translate polish alice_2_0af0f079:
 
     # "Irritation in your voice seems to make her smile wider."
     "Irritation in your voice seems to make her smile wider."
 
-# game/characters/alice/ev_2.rpy:23
+# game/characters/alice/ev_2.rpy:21
 translate polish alice_2_22d568a4:
 
     # alice "Take a guess."
     alice "Take a guess."
 
-# game/characters/alice/ev_2.rpy:24
+# game/characters/alice/ev_2.rpy:22
 translate polish alice_2_33367e39:
 
     # th "Maybe I should take revenge on her?"
     th "Maybe I should take revenge on her?"
 
-# game/characters/alice/ev_2.rpy:32
+# game/characters/alice/ev_2.rpy:30
 translate polish alice_2_2eaa7b94:
 
     # alice "Do you take me for some kind of whore?"
     alice "Do you take me for some kind of whore?"
 
-# game/characters/alice/ev_2.rpy:33
+# game/characters/alice/ev_2.rpy:31
 translate polish alice_2_d61fc031:
 
     # th "I think I overdid it."
     th "I think I overdid it."
 
-# game/characters/alice/ev_2.rpy:34
+# game/characters/alice/ev_2.rpy:32
 translate polish alice_2_1c520ba9:
 
     # me "N-No, sorry I went overboard."
     me "N-No, sorry I went overboard."
 
-# game/characters/alice/ev_2.rpy:36
+# game/characters/alice/ev_2.rpy:34
 translate polish alice_2_684cff90:
 
     # alice "You did."
     alice "You did."
 
-# game/characters/alice/ev_2.rpy:42
+# game/characters/alice/ev_2.rpy:41
 translate polish alice_2_7ef9d6b1:
 
     # alice "{color=#FF958F}[[Charisma check passed]{/color} Sure, why not."
     alice "{color=#FF958F}[[Charisma check passed]{/color} Sure, why not."
 
-# game/characters/alice/ev_2.rpy:43
+# game/characters/alice/ev_2.rpy:42
 translate polish alice_2_a5fcc5f8:
 
     # th "She actually agreed!"
     th "She actually agreed!"
 
-# game/characters/alice/ev_2.rpy:45
+# game/characters/alice/ev_2.rpy:44
 translate polish alice_2_7fc0500f:
 
     # "You don't need to wait for long as she crawls up to you, right into your arms."
     "You don't need to wait for long as she crawls up to you, right into your arms."
 
-# game/characters/alice/ev_2.rpy:47
+# game/characters/alice/ev_2.rpy:46
 translate polish alice_2_7a16247e:
 
     # me "Comfy?"
     me "Comfy?"
 
-# game/characters/alice/ev_2.rpy:49
+# game/characters/alice/ev_2.rpy:48
 translate polish alice_2_1ac8e5c0:
 
     # alice "Very."
     alice "Very."
 
-# game/characters/alice/ev_2.rpy:51
+# game/characters/alice/ev_2.rpy:50
 translate polish alice_2_daababf4:
 
     # "You don't speak anymore, silently enjoying each other's warmth."
     "You don't speak anymore, silently enjoying each other's warmth."
 
-# game/characters/alice/ev_2.rpy:52
+# game/characters/alice/ev_2.rpy:51
 translate polish alice_2_13dffb78:
 
     # "After a long while."
@@ -336,43 +336,43 @@ translate polish alice_2_1b_cdb4ee28:
     # "Her suggestive look doesn't escape your eyes."
     "Her suggestive look doesn't escape your eyes."
 
-# game/characters/alice/ev_2.rpy:112
+# game/characters/alice/ev_2.rpy:114
 translate polish alice_2_1b_65164b51:
 
     # th "She means sex doesn't she?!"
     th "She means sex doesn't she?!"
 
-# game/characters/alice/ev_2.rpy:114
+# game/characters/alice/ev_2.rpy:116
 translate polish alice_2_1b_30a2663a:
 
     # alice "Bye bye!"
     alice "Bye bye!"
 
-# game/characters/alice/ev_2.rpy:115
+# game/characters/alice/ev_2.rpy:117
 translate polish alice_2_1b_9fcd09a4:
 
     # "[alice] stands up so fast that you don't even manage to react."
     "[alice] stands up so fast that you don't even manage to react."
 
-# game/characters/alice/ev_2.rpy:117
+# game/characters/alice/ev_2.rpy:119
 translate polish alice_2_1b_ad25ac73:
 
     # th "Wait what?"
     th "Wait what?"
 
-# game/characters/alice/ev_2.rpy:119
+# game/characters/alice/ev_2.rpy:121
 translate polish alice_2_1b_b36fc6d7:
 
     # "With that she gets up quickly and hops out of your room all smiles."
     "With that she gets up quickly and hops out of your room all smiles."
 
-# game/characters/alice/ev_2.rpy:120
+# game/characters/alice/ev_2.rpy:122
 translate polish alice_2_1b_3820771a:
 
     # me "..."
     me "..."
 
-# game/characters/alice/ev_2.rpy:121
+# game/characters/alice/ev_2.rpy:123
 translate polish alice_2_1b_a1bd72ac:
 
     # th "This girl's gonna be the end of me.."
@@ -380,23 +380,19 @@ translate polish alice_2_1b_a1bd72ac:
 
 translate polish strings:
 
-    # game/characters/alice/ev_2.rpy:25
+    # game/characters/alice/ev_2.rpy:23
     old "You need a dick, that's why you're here"
     new "You need a dick, that's why you're here"
 
-    # game/characters/alice/ev_2.rpy:25
+    # game/characters/alice/ev_2.rpy:23
     old "You came to check how comfy my bed is"
     new "You came to check how comfy my bed is"
 
-    # game/characters/alice/ev_2.rpy:25
+    # game/characters/alice/ev_2.rpy:23
     old "I won't play your games"
     new "I won't play your games"
 
-# TODO: Translation updated at 2022-01-31 15:20
-
-translate polish strings:
-
-    # game/characters/alice/ev_2.rpy:84
+    # game/characters/alice/ev_2.rpy:86
     old "Toying with me seems to be her hobby."
     new "Toying with me seems to be her hobby."
 

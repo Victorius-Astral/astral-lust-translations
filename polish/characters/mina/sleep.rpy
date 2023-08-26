@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/mina/sleep.rpy:9
 translate polish sleep_mina_d9d5c037:
@@ -87,8 +87,8 @@ translate polish sleep_mina_cd2558a6:
 # game/characters/mina/sleep.rpy:32
 translate polish sleep_mina_82014252:
 
-    # mina "He had come for a sleepover."
-    mina "He had come for a sleepover."
+    # mina "He came for a sleepover." id sleep_mina_82014252
+    mina "He came for a sleepover." id sleep_mina_82014252
 
 # game/characters/mina/sleep.rpy:33
 translate polish sleep_mina_811d26b4:
@@ -162,247 +162,247 @@ translate polish sleep_mina_3820771a_1:
     # me "..."
     me "..."
 
-# game/characters/mina/sleep.rpy:65
+# game/characters/mina/sleep.rpy:62
 translate polish sleep_mina_sleepover_45f7e42f:
 
     # mina "Let's get ours tops off, he'll sleep better this way."
     mina "Let's get ours tops off, he'll sleep better this way."
 
-# game/characters/mina/sleep.rpy:66
+# game/characters/mina/sleep.rpy:63
 translate polish sleep_mina_sleepover_9949e16f:
 
     # lexi "Alright."
     lexi "Alright."
 
-# game/characters/mina/sleep.rpy:67
+# game/characters/mina/sleep.rpy:64
 translate polish sleep_mina_sleepover_2f3a6be4:
 
     # th "[mina], I love you.."
     th "[mina], I love you.."
 
-# game/characters/mina/sleep.rpy:70
+# game/characters/mina/sleep.rpy:67
 translate polish sleep_mina_sleepover_0cf88260:
 
-    # "Very soon, you sleep entagled by the topless [lex_min]s."
-    "Very soon, you sleep entagled by the topless [lex_min]s."
+    # "Very soon, you sleep entangled by the topless [lex_min]s." id sleep_mina_sleepover_0cf88260
+    "Very soon, you sleep entangled by the topless [lex_min]s." id sleep_mina_sleepover_0cf88260
 
-# game/characters/mina/sleep.rpy:74
+# game/characters/mina/sleep.rpy:71
 translate polish sleep_mina_sleepover_a438821f:
 
     # mina "Ahm.."
     mina "Ahm.."
 
-# game/characters/mina/sleep.rpy:77
+# game/characters/mina/sleep.rpy:74
 translate polish sleep_mina_sleepover_850c35ab:
 
     # mina "Lexi?"
     mina "Lexi?"
 
-# game/characters/mina/sleep.rpy:78
+# game/characters/mina/sleep.rpy:75
 translate polish sleep_mina_sleepover_bb41bfa5:
 
     # lexi "Mm?"
     lexi "Mm?"
 
-# game/characters/mina/sleep.rpy:81
+# game/characters/mina/sleep.rpy:78
 translate polish sleep_mina_sleepover_8df4f09c:
 
     # mina "I like him a lot. He's a perfect match for you."
     mina "I like him a lot. He's a perfect match for you."
 
-# game/characters/mina/sleep.rpy:82
+# game/characters/mina/sleep.rpy:79
 translate polish sleep_mina_sleepover_77f3b97a:
 
     # lexi "He's nice."
     lexi "He's nice."
 
-# game/characters/mina/sleep.rpy:83
+# game/characters/mina/sleep.rpy:80
 translate polish sleep_mina_sleepover_7383f08f:
 
     # mina "Only nice?"
     mina "Only nice?"
 
-# game/characters/mina/sleep.rpy:84
+# game/characters/mina/sleep.rpy:81
 translate polish sleep_mina_sleepover_c01792dd:
 
     # lexi "And handsome."
     lexi "And handsome."
 
-# game/characters/mina/sleep.rpy:85
+# game/characters/mina/sleep.rpy:82
 translate polish sleep_mina_sleepover_5c3b66d5:
 
     # mina "You're not being honest, [lex_min]."
     mina "You're not being honest, [lex_min]."
 
-# game/characters/mina/sleep.rpy:86
+# game/characters/mina/sleep.rpy:83
 translate polish sleep_mina_sleepover_d7760fc7:
 
     # lexi "..."
     lexi "..."
 
-# game/characters/mina/sleep.rpy:87
+# game/characters/mina/sleep.rpy:84
 translate polish sleep_mina_sleepover_a706aa80:
 
     # mina "His hand's on your pussy, and you don't even care."
     mina "His hand's on your pussy, and you don't even care."
 
-# game/characters/mina/sleep.rpy:89
+# game/characters/mina/sleep.rpy:86
 translate polish sleep_mina_sleepover_c61d9a49:
 
     # lexi "Alright, I get it, stop.."
     lexi "Alright, I get it, stop.."
 
-# game/characters/mina/sleep.rpy:90
+# game/characters/mina/sleep.rpy:87
 translate polish sleep_mina_sleepover_6d7ec808:
 
     # lexi "I need to go out."
     lexi "I need to go out."
 
-# game/characters/mina/sleep.rpy:91
+# game/characters/mina/sleep.rpy:88
 translate polish sleep_mina_sleepover_efa3a58e:
 
     # mina "Be careful, I can't lose you."
     mina "Be careful, I can't lose you."
 
-# game/characters/mina/sleep.rpy:92
+# game/characters/mina/sleep.rpy:89
 translate polish sleep_mina_sleepover_6efabc3c:
 
     # lexi "Don't worry. Love you."
     lexi "Don't worry. Love you."
 
-# game/characters/mina/sleep.rpy:93
+# game/characters/mina/sleep.rpy:90
 translate polish sleep_mina_sleepover_7d8ad4a0:
 
     # mina "I love you too, [lex_min]."
     mina "I love you too, [lex_min]."
 
-# game/characters/mina/sleep.rpy:96
+# game/characters/mina/sleep.rpy:93
 translate polish sleep_mina_sleepover_502455c4:
 
     # "The girls stand up to prepare for the day."
     "The girls stand up to prepare for the day."
 
-# game/characters/mina/sleep.rpy:100
+# game/characters/mina/sleep.rpy:97
 translate polish sleep_mina_sleepover_02064b8c:
 
     # "Very soon, you sleep entangled by the [lex_min]s."
     "Very soon, you sleep entangled by the [lex_min]s."
 
-# game/characters/mina/sleep.rpy:104
+# game/characters/mina/sleep.rpy:101
 translate polish sleep_mina_sleepover_a438821f_1:
 
     # mina "Ahm.."
     mina "Ahm.."
 
-# game/characters/mina/sleep.rpy:107
+# game/characters/mina/sleep.rpy:104
 translate polish sleep_mina_sleepover_850c35ab_1:
 
     # mina "Lexi?"
     mina "Lexi?"
 
-# game/characters/mina/sleep.rpy:108
+# game/characters/mina/sleep.rpy:105
 translate polish sleep_mina_sleepover_bb41bfa5_1:
 
     # lexi "Mm?"
     lexi "Mm?"
 
-# game/characters/mina/sleep.rpy:112
+# game/characters/mina/sleep.rpy:109
 translate polish sleep_mina_sleepover_8df4f09c_1:
 
     # mina "I like him a lot. He's a perfect match for you."
     mina "I like him a lot. He's a perfect match for you."
 
-# game/characters/mina/sleep.rpy:113
+# game/characters/mina/sleep.rpy:110
 translate polish sleep_mina_sleepover_77f3b97a_1:
 
     # lexi "He's nice."
     lexi "He's nice."
 
-# game/characters/mina/sleep.rpy:114
+# game/characters/mina/sleep.rpy:111
 translate polish sleep_mina_sleepover_7383f08f_1:
 
     # mina "Only nice?"
     mina "Only nice?"
 
-# game/characters/mina/sleep.rpy:115
+# game/characters/mina/sleep.rpy:112
 translate polish sleep_mina_sleepover_c01792dd_1:
 
     # lexi "And handsome."
     lexi "And handsome."
 
-# game/characters/mina/sleep.rpy:116
+# game/characters/mina/sleep.rpy:113
 translate polish sleep_mina_sleepover_5c3b66d5_1:
 
     # mina "You're not being honest, [lex_min]."
     mina "You're not being honest, [lex_min]."
 
-# game/characters/mina/sleep.rpy:117
+# game/characters/mina/sleep.rpy:114
 translate polish sleep_mina_sleepover_d7760fc7_1:
 
     # lexi "..."
     lexi "..."
 
-# game/characters/mina/sleep.rpy:118
+# game/characters/mina/sleep.rpy:115
 translate polish sleep_mina_sleepover_f3427e27:
 
     # mina "His hand's on your pussy and you don't even care."
     mina "His hand's on your pussy and you don't even care."
 
-# game/characters/mina/sleep.rpy:120
+# game/characters/mina/sleep.rpy:117
 translate polish sleep_mina_sleepover_c61d9a49_1:
 
     # lexi "Alright, I get it, stop.."
     lexi "Alright, I get it, stop.."
 
-# game/characters/mina/sleep.rpy:121
+# game/characters/mina/sleep.rpy:118
 translate polish sleep_mina_sleepover_6d7ec808_1:
 
     # lexi "I need to go out."
     lexi "I need to go out."
 
-# game/characters/mina/sleep.rpy:122
+# game/characters/mina/sleep.rpy:119
 translate polish sleep_mina_sleepover_efa3a58e_1:
 
     # mina "Be careful, I can't lose you."
     mina "Be careful, I can't lose you."
 
-# game/characters/mina/sleep.rpy:123
+# game/characters/mina/sleep.rpy:120
 translate polish sleep_mina_sleepover_6efabc3c_1:
 
     # lexi "Don't worry. Love you."
     lexi "Don't worry. Love you."
 
-# game/characters/mina/sleep.rpy:124
+# game/characters/mina/sleep.rpy:121
 translate polish sleep_mina_sleepover_7d8ad4a0_1:
 
     # mina "I love you too, [lex_min]."
     mina "I love you too, [lex_min]."
 
-# game/characters/mina/sleep.rpy:127
+# game/characters/mina/sleep.rpy:124
 translate polish sleep_mina_sleepover_502455c4_1:
 
     # "The girls stand up to prepare for the day."
     "The girls stand up to prepare for the day."
 
-# game/characters/mina/sleep.rpy:130
+# game/characters/mina/sleep.rpy:127
 translate polish sleep_mina_sleepover_0872129d:
 
     # "They left you alone on the bed."
     "They left you alone on the bed."
 
-# game/characters/mina/sleep.rpy:133
+# game/characters/mina/sleep.rpy:130
 translate polish sleep_mina_sleepover_5d7b4895:
 
     # "Soon you start waking up."
     "Soon you start waking up."
 
-# game/characters/mina/sleep.rpy:142
+# game/characters/mina/sleep.rpy:139
 translate polish sleep_mina_sleepover_61c5f1ea:
 
     # me "[lexi]?"
     me "[lexi]?"
 
-# game/characters/mina/sleep.rpy:145
+# game/characters/mina/sleep.rpy:142
 translate polish sleep_mina_sleepover_f89e2a02:
 
     # me "[mina]?"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/places/wanderers/brothel.rpy:39
 translate polish wanderers_brothel_753a405b:
@@ -99,8 +99,8 @@ translate polish wanderers_brothel_menu1_58db956b:
 # game/places/wanderers/brothel.rpy:87
 translate polish wanderers_brothel_menu1_bac46347:
 
-    # madam_hof "Maybe we should start over, I'm Madam Hof."
-    madam_hof "Maybe we should start over, I'm [madam_hof]."
+    # madam_hof "Maybe we should start over, I'm [madam_hof!t]." id wanderers_brothel_menu1_bac46347
+    madam_hof "Maybe we should start over, I'm [madam_hof!t]." id wanderers_brothel_menu1_bac46347
 
 # game/places/wanderers/brothel.rpy:88
 translate polish wanderers_brothel_menu1_fb30c850:
@@ -111,8 +111,8 @@ translate polish wanderers_brothel_menu1_fb30c850:
 # game/places/wanderers/brothel.rpy:91
 translate polish wanderers_brothel_menu1_f7f0483e:
 
-    # madam_hof "Nice to met you, [me]. You look like someone that could become a regular."
-    madam_hof "Nice to met you, [me]. You look like someone that could become a regular."
+    # madam_hof "Nice to meet you, [me]. You look like someone that could become a regular." id wanderers_brothel_menu1_f7f0483e
+    madam_hof "Nice to meet you, [me]. You look like someone that could become a regular." id wanderers_brothel_menu1_f7f0483e
 
 # game/places/wanderers/brothel.rpy:92
 translate polish wanderers_brothel_menu1_c3d85c42:
@@ -183,8 +183,8 @@ translate polish wanderers_brothel_menu1_58db956b_1:
 # game/places/wanderers/brothel.rpy:121
 translate polish wanderers_brothel_menu1_1ce08715:
 
-    # madam_hof "Maybe we should start over. I'm [madam_hof!t]."
-    madam_hof "Maybe we should start over. I'm [madam_hof!t]."
+    # madam_hof "Maybe we should start over. I'm [madam_hof!t]." id wanderers_brothel_menu1_1ce08715
+    madam_hof "Maybe we should start over. I'm [madam_hof!t]." id wanderers_brothel_menu1_1ce08715
 
 # game/places/wanderers/brothel.rpy:122
 translate polish wanderers_brothel_menu1_fb30c850_1:
@@ -210,25 +210,25 @@ translate polish wanderers_brothel_menu1_ee714e66_1:
     # madam_hof "So what can I do for you, [me]?"
     madam_hof "So what can I do for you, [me]?"
 
-# game/places/wanderers/brothel.rpy:185
+# game/places/wanderers/brothel.rpy:184
 translate polish wanderers_brothel_photos_f5c3110e:
 
     # madam_hof "Of course, boy. Here, take a look."
     madam_hof "Of course, boy. Here, take a look."
 
-# game/places/wanderers/brothel.rpy:195
+# game/places/wanderers/brothel.rpy:194
 translate polish wanderers_brothel_photos_fd5639b3:
 
     # madam_hof "Are you interested in any of my girls?"
     madam_hof "Are you interested in any of my girls?"
 
-# game/places/wanderers/brothel.rpy:196
+# game/places/wanderers/brothel.rpy:195
 translate polish wanderers_brothel_photos_8a65bc6b:
 
     # me "Perhaps."
     me "Perhaps."
 
-# game/places/wanderers/brothel.rpy:197
+# game/places/wanderers/brothel.rpy:196
 translate polish wanderers_brothel_photos_bb02fcce:
 
     # madam_hof "If the one you like is not available, feel free to check another time."
@@ -252,6 +252,10 @@ translate polish strings:
     old "Foxy"
     new "Foxy"
 
+    # game/places/wanderers/brothel.rpy:23
+    old "Madam Hof"
+    new "Madam Hof"
+
     # game/places/wanderers/brothel.rpy:56
     old "Booth"
     new "Booth"
@@ -259,11 +263,8 @@ translate polish strings:
     # game/places/wanderers/brothel.rpy:56
     old "Can I take a look at your girls before paying?"
     new "Can I take a look at your girls before paying?"
-# TODO: Translation updated at 2022-08-20 13:48
 
-translate polish strings:
-
-    # game/places/wanderers/brothel.rpy:23
-    old "Madam Hof"
-    new "Madam Hof"
+    # game/places/wanderers/brothel.rpy:186
+    old "Close Album"
+    new "Close Album"
 

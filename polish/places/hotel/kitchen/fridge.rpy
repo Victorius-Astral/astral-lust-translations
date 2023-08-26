@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/places/hotel/kitchen/fridge.rpy:4
 translate polish room_kitchen_fridge_9a36674d:
@@ -12,7 +12,7 @@ translate polish room_kitchen_fridge_59aedc41:
     # "You ate something."
     "You ate something."
 
-# game/places/hotel/kitchen/fridge.rpy:19
+# game/places/hotel/kitchen/fridge.rpy:20
 translate polish room_kitchen_fridge_7f4a876f:
 
     # "Eating at night is bad for your health."

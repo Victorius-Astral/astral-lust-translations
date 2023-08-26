@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/places/hotel/player/white_cupboard.rpy:9
 translate polish room_player_white_cupboard_menu1_ede1ba9a:

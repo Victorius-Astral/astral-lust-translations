@@ -1,0 +1,43 @@
+﻿# TODO: Translation updated at 2022-04-15 11:20
+
+translate chinese strings:
+
+    # renpy/common/00accessibility.rpy:28
+    old "Self-voicing disabled."
+    new "自动语音已禁用。"
+
+    # renpy/common/00accessibility.rpy:29
+    old "Clipboard voicing enabled. "
+    new "剪切板语音已启用。"
+
+
+translate chinese strings:
+
+    # renpy/common/00action_other.rpy:662
+    old "Open [text] directory."
+    new "Open [text] directory."
+
+    # renpy/common/00preferences.rpy:535
+    old "mute main"
+    new "mute main"
+
+    # _("Bandit") "This is a {{b}}{test}{{/b}}."
+    _("Bandit") "This is a {{b}}{test}{{/b}}."
+
+    # "Bandit" " A second {i} one {/i}. "
+    "Bandit" " A second {i} one {/i}. "
+
+    # alice "End \"test\"." who_color=alice["color"]
+    alice "End \"test\"." who_color=alice["color"]
+
+    # laga "[test] {of}: {something}"
+    laga "[test] {of}: {something}"
+
+
+"""
+import importlib.util
+module_path = 'C://AL//RenpyTL//src//translator.py'
+spec = importlib.util.spec_from_file_location("tl", module_path)
+tl = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(tl)
+"""

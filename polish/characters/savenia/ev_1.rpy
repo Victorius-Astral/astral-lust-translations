@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-07-11 16:45
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/savenia/ev_1.rpy:5
 translate polish savenia_1_ea8f4408:
@@ -25,10 +25,10 @@ translate polish savenia_1_64395719:
     th "She is breathing.."
 
 # game/characters/savenia/ev_1.rpy:15
-translate polish savenia_1_b735bf24:
+translate polish savenia_1_53d66eac:
 
-    # "Her gear makes you wonder if she was in an army, she definitely doesn't look like someone you would want to fuck around with."
-    "Her gear makes you wonder if she was in an army, she definitely doesn't look like someone you would want to fuck around with."
+    # "Her gear makes you wonder if she was in an army. She doesn't look like someone you would want to fuck around with."
+    "Her gear makes you wonder if she was in an army. She doesn't look like someone you would want to fuck around with."
 
 # game/characters/savenia/ev_1.rpy:16
 translate polish savenia_1_ade2bace:
@@ -37,10 +37,10 @@ translate polish savenia_1_ade2bace:
     th "I should take her with me, she seems.. useful."
 
 # game/characters/savenia/ev_1.rpy:19
-translate polish savenia_1_dfd9173b:
+translate polish savenia_1_3372340a:
 
-    # me "Wait.. Why the fuck, I'm taking her with me just like that?"
-    me "Wait.. Why the fuck, I'm taking her with me just like that?"
+    # me "Wait.. Why the fuck am I taking her with me just like that?"
+    me "Wait.. Why the fuck am I taking her with me just like that?"
 
 # game/characters/savenia/ev_1.rpy:20
 translate polish savenia_1_20c718a7:
@@ -49,10 +49,10 @@ translate polish savenia_1_20c718a7:
     me "What's wrong with me?"
 
 # game/characters/savenia/ev_1.rpy:21
-translate polish savenia_1_6f328631:
+translate polish savenia_1_8780c390:
 
-    # th "She seems useful though.."
-    th "She seems useful though.."
+    # th "She seems useful, though.."
+    th "She seems useful, though.."
 
 # game/characters/savenia/ev_1.rpy:22
 translate polish savenia_1_ca81caec:
@@ -97,10 +97,10 @@ translate polish savenia_1_01f70a7e:
     th "Time to check for injuries under clothes."
 
 # game/characters/savenia/ev_1.rpy:37
-translate polish savenia_1_1672eab9:
+translate polish savenia_1_5441e40b:
 
-    # th "If she wakes up it would be awkward."
-    th "If she wakes up it would be awkward."
+    # th "If she wakes up, it'll be awkward."
+    th "If she wakes up, it'll be awkward."
 
 # game/characters/savenia/ev_1.rpy:40
 translate polish savenia_1_b50030d2:
@@ -133,10 +133,10 @@ translate polish savenia_1_f3f2f20b:
     u_savenia "Heh, you think I need anyone to save me? I can manage on my own!"
 
 # game/characters/savenia/ev_1.rpy:51
-translate polish savenia_1_0a5b8d74:
+translate polish savenia_1_2d280c26:
 
-    # me "Yeah, sure. You were lying unconscious in a middle of a street."
-    me "Yeah, sure. You were lying unconscious in a middle of a street."
+    # me "Yeah, sure. You were lying unconscious in the middle of a street."
+    me "Yeah, sure. You were lying unconscious in the middle of a street."
 
 # game/characters/savenia/ev_1.rpy:52
 translate polish savenia_1_30a0c721:
@@ -163,10 +163,10 @@ translate polish savenia_1_e7ab5908:
     u_savenia "You have somehow found this place.."
 
 # game/characters/savenia/ev_1.rpy:58
-translate polish savenia_1_61420592:
+translate polish savenia_1_987c4f15:
 
-    # me "Go find it on your own, I can tell you general direction."
-    me "Go find it on your own, I can tell you general direction."
+    # me "Go find it on your own, I can tell you the general directions."
+    me "Go find it on your own, I can tell you the general directions."
 
 # game/characters/savenia/ev_1.rpy:59
 translate polish savenia_1_30a0c721_1:
@@ -181,10 +181,10 @@ translate polish savenia_1_edaba36a:
     u_savenia "Who are you?"
 
 # game/characters/savenia/ev_1.rpy:63
-translate polish savenia_1_816ae220:
+translate polish savenia_1_6649141a:
 
-    # me "[me], and this is Jade Hotel community."
-    me "[me], and this is Jade Hotel community."
+    # me "[me], and this is the Jade Hotel community."
+    me "[me], and this is the Jade Hotel community."
 
 # game/characters/savenia/ev_1.rpy:64
 translate polish savenia_1_b52d093b:
@@ -193,10 +193,10 @@ translate polish savenia_1_b52d093b:
     u_savenia "I have never heard of it.."
 
 # game/characters/savenia/ev_1.rpy:65
-translate polish savenia_1_d5a51e06:
+translate polish savenia_1_de61d85d:
 
-    # me "You are?"
-    me "You are?"
+    # me "And you are?"
+    me "And you are?"
 
 # game/characters/savenia/ev_1.rpy:68
 translate polish savenia_1_bd1cd138:
@@ -211,16 +211,16 @@ translate polish savenia_1_138102d9:
     me "Yeah.. Got it.."
 
 # game/characters/savenia/ev_1.rpy:70
-translate polish savenia_1_df28ca97:
+translate polish savenia_1_43facc7b:
 
-    # th "Outlaws? So she's a bandit then?"
-    th "Outlaws? So she's a bandit then?"
+    # th "Outlaws? So, she's a bandit then?"
+    th "Outlaws? So, she's a bandit then?"
 
 # game/characters/savenia/ev_1.rpy:73
-translate polish savenia_1_804e0c4f:
+translate polish savenia_1_9fd36bb0:
 
-    # savenia "I'll go back. Tell me, where is my bike."
-    savenia "I'll go back. Tell me, where is my bike."
+    # savenia "I'll go back. Tell me, where is my bike?"
+    savenia "I'll go back. Tell me, where is my bike?"
 
 # game/characters/savenia/ev_1.rpy:74
 translate polish savenia_1_ee87a484:
@@ -295,10 +295,10 @@ translate polish savenia_1_0ed43306:
     me "How stubborn.."
 
 # game/characters/savenia/ev_1.rpy:98
-translate polish savenia_1_4419af62:
+translate polish savenia_1_002f279e:
 
-    # me "I will carry you to a room where you can sleep."
-    me "I will carry you to a room where you can sleep."
+    # me "I will carry you to a room, where you can sleep."
+    me "I will carry you to a room, where you can sleep."
 
 # game/characters/savenia/ev_1.rpy:99
 translate polish savenia_1_9b54969b:
@@ -307,10 +307,10 @@ translate polish savenia_1_9b54969b:
     th "I still don't know why I've brought her here.. She seems dangerous.."
 
 # game/characters/savenia/ev_1.rpy:102
-translate polish savenia_1_6b10e8bf:
+translate polish savenia_1_151e6eac:
 
-    # savenia "I said I got it!"
-    savenia "I said I got it!"
+    # savenia "I said, I got it!"
+    savenia "I said, I got it!"
 
 # game/characters/savenia/ev_1.rpy:103
 translate polish savenia_1_8418747a:
@@ -319,10 +319,10 @@ translate polish savenia_1_8418747a:
     me "Fine.."
 
 # game/characters/savenia/ev_1.rpy:104
-translate polish savenia_1_0499f63f:
+translate polish savenia_1_f85cedd7:
 
-    # th "Is she going to jump on one leg?"
-    th "Is she going to jump on one leg?"
+    # th "Is she going to jump on a single leg?"
+    th "Is she going to jump on a single leg?"
 
 # game/characters/savenia/ev_1.rpy:105
 translate polish savenia_1_1512d978:
@@ -347,84 +347,4 @@ translate polish savenia_1_8952b9d4:
 
     # th "With her leg, she wouldn't be able to hurt anyone. At least for now."
     th "With her leg, she wouldn't be able to hurt anyone. At least for now."
-
-# TODO: Translation updated at 2022-01-31 15:20
-
-# game/characters/savenia/ev_1.rpy:15
-translate polish savenia_1_53d66eac:
-
-    # "Her gear makes you wonder if she was in an army. She doesn't look like someone you would want to fuck around with."
-    "Her gear makes you wonder if she was in an army. She doesn't look like someone you would want to fuck around with."
-
-# game/characters/savenia/ev_1.rpy:19
-translate polish savenia_1_3372340a:
-
-    # me "Wait.. Why the fuck am I taking her with me just like that?"
-    me "Wait.. Why the fuck am I taking her with me just like that?"
-
-# game/characters/savenia/ev_1.rpy:21
-translate polish savenia_1_8780c390:
-
-    # th "She seems useful, though.."
-    th "She seems useful, though.."
-
-# game/characters/savenia/ev_1.rpy:37
-translate polish savenia_1_5441e40b:
-
-    # th "If she wakes up, it'll be awkward."
-    th "If she wakes up, it'll be awkward."
-
-# game/characters/savenia/ev_1.rpy:51
-translate polish savenia_1_2d280c26:
-
-    # me "Yeah, sure. You were lying unconscious in the middle of a street."
-    me "Yeah, sure. You were lying unconscious in the middle of a street."
-
-# game/characters/savenia/ev_1.rpy:58
-translate polish savenia_1_987c4f15:
-
-    # me "Go find it on your own, I can tell you the general directions."
-    me "Go find it on your own, I can tell you the general directions."
-
-# game/characters/savenia/ev_1.rpy:63
-translate polish savenia_1_6649141a:
-
-    # me "[me], and this is the Jade Hotel community."
-    me "[me], and this is the Jade Hotel community."
-
-# game/characters/savenia/ev_1.rpy:65
-translate polish savenia_1_de61d85d:
-
-    # me "And you are?"
-    me "And you are?"
-
-# game/characters/savenia/ev_1.rpy:70
-translate polish savenia_1_43facc7b:
-
-    # th "Outlaws? So, she's a bandit then?"
-    th "Outlaws? So, she's a bandit then?"
-
-# game/characters/savenia/ev_1.rpy:73
-translate polish savenia_1_9fd36bb0:
-
-    # savenia "I'll go back. Tell me, where is my bike?"
-    savenia "I'll go back. Tell me, where is my bike?"
-
-# game/characters/savenia/ev_1.rpy:98
-translate polish savenia_1_002f279e:
-
-    # me "I will carry you to a room, where you can sleep."
-    me "I will carry you to a room, where you can sleep."
-
-# game/characters/savenia/ev_1.rpy:102
-translate polish savenia_1_151e6eac:
-
-    # savenia "I said, I got it!"
-    savenia "I said, I got it!"
-
-# game/characters/savenia/ev_1.rpy:104
-translate polish savenia_1_f85cedd7:
-
-    # th "Is she going to jump on a single leg?"
-    th "Is she going to jump on a single leg?"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-08-20 13:48
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/little fox/explore/stash.rpy:34
 translate polish lil_fox_exp_stash_30f6f575:
@@ -13,10 +13,10 @@ translate polish lil_fox_exp_stash_14a11f17:
     me "You sure?"
 
 # game/characters/little fox/explore/stash.rpy:39
-translate polish lil_fox_exp_stash_f7dac5d7:
+translate polish lil_fox_exp_stash_a3cdd5e7:
 
-    # lil_fox "Yes, 100% sure!"
-    lil_fox "Yes, 100% sure!"
+    # lil_fox "Yes, 100%% sure!"
+    lil_fox "Yes, 100%% sure!"
 
 # game/characters/little fox/explore/stash.rpy:40
 translate polish lil_fox_exp_stash_c4f507fa:
@@ -333,12 +333,4 @@ translate polish strings:
     # game/characters/little fox/explore/stash.rpy:83
     old "Do not play her games {love}(Protect your girl's good name+){/love}"
     new "Do not play her games {love}(Protect your girl's good name+){/love}"
-
-# TODO: Translation updated at 2022-11-13 15:23
-
-# game/characters/little fox/explore/stash.rpy:39
-translate polish lil_fox_exp_stash_a3cdd5e7:
-
-    # lil_fox "Yes, 100%% sure!"
-    lil_fox "Yes, 100%% sure!"
 

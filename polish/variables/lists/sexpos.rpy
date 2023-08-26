@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
@@ -25,6 +25,10 @@ translate polish strings:
     # game/variables/lists/sexpos.rpy:3
     old "Kiss - Lesbian"
     new "Kiss - Lesbian"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Kiss - Sitting"
+    new "Kiss - Sitting"
 
     # game/variables/lists/sexpos.rpy:3
     old "Vaginal - Cowgirl"
@@ -57,6 +61,18 @@ translate polish strings:
     # game/variables/lists/sexpos.rpy:3
     old "Vaginal - Lifting"
     new "Vaginal - Lifting"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Vaginal - Reverse Doggy"
+    new "Vaginal - Reverse Doggy"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Vaginal - Facing each Other"
+    new "Vaginal - Facing each Other"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Vaginal - Behind"
+    new "Vaginal - Behind"
 
     # game/variables/lists/sexpos.rpy:3
     old "Anal - Doggy"
@@ -139,6 +155,10 @@ translate polish strings:
     new "Footjob - Sitting"
 
     # game/variables/lists/sexpos.rpy:3
+    old "Footjob - Sleeping"
+    new "Footjob - Sleeping"
+
+    # game/variables/lists/sexpos.rpy:3
     old "Thighjob - Standing"
     new "Thighjob - Standing"
 
@@ -169,6 +189,10 @@ translate polish strings:
     # game/variables/lists/sexpos.rpy:3
     old "Cunnilingus - Cowgirl"
     new "Cunnilingus - Cowgirl"
+
+    # game/variables/lists/sexpos.rpy:3
+    old "Cunnilingus - Against the Counter"
+    new "Cunnilingus - Against the Counter"
 
     # game/variables/lists/sexpos.rpy:3
     old "Masturbation - Sitting"
@@ -219,6 +243,10 @@ translate polish strings:
     new "Massage - Lesbian"
 
     # game/variables/lists/sexpos.rpy:3
+    old "Rubbing - Cowgirl"
+    new "Rubbing - Cowgirl"
+
+    # game/variables/lists/sexpos.rpy:3
     old "BDSM - Wooden Horse"
     new "BDSM - Wooden Horse"
 
@@ -233,40 +261,4 @@ translate polish strings:
     # game/variables/lists/sexpos.rpy:3
     old "Group - Threesome - Two Females"
     new "Group - Threesome - Two Females"
-
-# TODO: Translation updated at 2022-08-20 13:48
-
-translate polish strings:
-
-    # game/variables/lists/sexpos.rpy:3
-    old "Kiss - Sitting"
-    new "Kiss - Sitting"
-
-    # game/variables/lists/sexpos.rpy:3
-    old "Vaginal - Reverse Doggy"
-    new "Vaginal - Reverse Doggy"
-
-    # game/variables/lists/sexpos.rpy:3
-    old "Vaginal - Facing each Other"
-    new "Vaginal - Facing each Other"
-
-    # game/variables/lists/sexpos.rpy:3
-    old "Footjob - Sleeping"
-    new "Footjob - Sleeping"
-
-    # game/variables/lists/sexpos.rpy:3
-    old "Cunnilingus - Against the Counter"
-    new "Cunnilingus - Against the Counter"
-
-    # game/variables/lists/sexpos.rpy:3
-    old "Rubbing - Cowgirl"
-    new "Rubbing - Cowgirl"
-
-# TODO: Translation updated at 2022-11-13 15:23
-
-translate polish strings:
-
-    # game/variables/lists/sexpos.rpy:3
-    old "Vaginal - Behind"
-    new "Vaginal - Behind"
 

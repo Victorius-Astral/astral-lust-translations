@@ -1,59 +1,52 @@
-# Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
-    # game/variables/classes/Astral.rpy:95
+    # game/variables/classes/Astral.rpy:198
     old "Insert wallpaper code"
-    new "Wpisz kod tapety"
+    new "Insert wallpaper code"
 
-    # game/variables/classes/Astral.rpy:106
+    # game/variables/classes/Astral.rpy:209
     old "Code correct, unlocked wallpaper: '{}'"
-    new "Kod poprawny, odblokowano tapetę: '{}'"
+    new "Code correct, unlocked wallpaper: '{}'"
 
-    # game/variables/classes/Astral.rpy:122
+    # game/variables/classes/Astral.rpy:225
     old "Warning: Non existent wallpaper {} in {} group."
-    new "Uwaga: Nieistniejąca tapeta {} w grupie {}."
+    new "Warning: Non existent wallpaper {} in {} group."
 
-    # game/variables/classes/Astral.rpy:124
+    # game/variables/classes/Astral.rpy:227
     old "Code correct, unlocked group of wallpapers: '{}'"
-    new "Kod poprawny, odblokowano grupę tapet: '{}'"
+    new "Code correct, unlocked group of wallpapers: '{}'"
 
-    # game/variables/classes/Astral.rpy:129
+    # game/variables/classes/Astral.rpy:232
     old "Code doesn't match any wallpaper."
-    new "Kod nie pasuje do żadnej tapety."
+    new "Code doesn't match any wallpaper."
 
-    # game/variables/classes/Astral.rpy:311
-    old "This is the end of {who} story in {ver}. This story will be continued soon! You can check for news, and new version on my {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreon{{/a}}{{/patreon1}}."
-    new "To koniec historii fabularnej {who} w wersji {ver}. Ta historia będzie kontynuowana wkrótce! Możesz sprawdzić aktualności i nowe wersje na naszym {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreonie{{/a}}{{/patreon1}}."
-
-    # game/variables/classes/Astral.rpy:488
-    old "Unique cards obtained: {}"
-    new "Unikalne karty zdobyte: {}"
-
-    # game/variables/classes/Astral.rpy:492
-    old "Unique card obtained: {}"
-    new "Unikalna karta zdobyta: {}"
-
-    # game/variables/classes/Astral.rpy:509
-    old "HELP"
-    new "POMOC"
-# TODO: Translation updated at 2022-08-20 13:48
-
-translate polish strings:
-
-    # game/variables/classes/Astral.rpy:391
+    # game/variables/classes/Astral.rpy:420
     old "her"
     new "her"
 
-    # game/variables/classes/Astral.rpy:393
+    # game/variables/classes/Astral.rpy:422
     old "This is the end of {who} story in {ver}. The game remains in the active development, though! If you want to check or get new releases, or you just want to support Astral Lust check our {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreon{{/a}}{{/patreon1}}! Have fun :)"
     new "This is the end of {who} story in {ver}. The game remains in the active development, though! If you want to check or get new releases, or you just want to support Astral Lust check our {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreon{{/a}}{{/patreon1}}! Have fun :)"
 
-    # game/variables/classes/Astral.rpy:480
+    # game/variables/classes/Astral.rpy:522
     old "Lost items:"
     new "Lost items:"
 
-    # game/variables/classes/Astral.rpy:490
+    # game/variables/classes/Astral.rpy:532
     old "\n • {{color={color}}}{amount}{{/color}} {{image={image}}}"
     new "\n • {{color={color}}}{amount}{{/color}} {{image={image}}}"
+
+    # game/variables/classes/Astral.rpy:704
+    old "Unique cards obtained: {}"
+    new "Unique cards obtained: {}"
+
+    # game/variables/classes/Astral.rpy:708
+    old "Unique card obtained: {}"
+    new "Unique card obtained: {}"
+
+    # game/variables/classes/Astral.rpy:725
+    old "HELP"
+    new "HELP"
 

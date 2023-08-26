@@ -1,32 +1,30 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
-# game/places/hotel/alice/tv.rpy:2
-translate polish room_alice_tv_6f9990bf:
+# game/places/hotel/alice/tv.rpy:17
+translate polish room_alice_tv_bd0f6867:
 
-    # "WiP, will be available in 0.1.6."
-    "WiP, will be available in 0.1.6."
+    # th "It's too late for that."
+    th "It's too late for that."
 
-# TODO: Translation updated at 2021-05-15 14:21
-
-# game/places/hotel/alice/tv.rpy:29
+# game/places/hotel/alice/tv.rpy:37
 translate polish room_alice_tv_porn_4890b747:
 
     # th "That's some nice movie [alice] got here!"
     th "That's some nice movie [alice] got here!"
 
-# game/places/hotel/alice/tv.rpy:31
+# game/places/hotel/alice/tv.rpy:39
 translate polish room_alice_tv_porn_4421e066:
 
     # th "I will have something to think about at night, haha."
     th "I will have something to think about at night, haha."
 
-# game/places/hotel/alice/tv.rpy:42
-translate polish room_alice_tv_series_7b976997:
+# game/places/hotel/alice/tv.rpy:51
+translate polish room_alice_tv_series_4474b87a:
 
-    # th "We used that problems like in those series are important. How foolish we were."
-    th "We used that problems like in those series are important. How foolish we were."
+    # th "We used to think that problems like in those series are important. How foolish we were."
+    th "We used to think that problems like in those series are important. How foolish we were."
 
-# game/places/hotel/alice/tv.rpy:43
+# game/places/hotel/alice/tv.rpy:52
 translate polish room_alice_tv_series_9a5b5aa0:
 
     # th "It was quite nice, though."
@@ -34,27 +32,11 @@ translate polish room_alice_tv_series_9a5b5aa0:
 
 translate polish strings:
 
-    # game/places/hotel/alice/tv.rpy:7
+    # game/places/hotel/alice/tv.rpy:22
     old "Watch porn"
     new "Watch porn"
 
-    # game/places/hotel/alice/tv.rpy:7
+    # game/places/hotel/alice/tv.rpy:22
     old "Watch series"
     new "Watch series"
-
-# TODO: Translation updated at 2021-05-16 02:21
-
-# game/places/hotel/alice/tv.rpy:15
-translate polish room_alice_tv_bd0f6867:
-
-    # th "It's too late for that."
-    th "It's too late for that."
-
-# TODO: Translation updated at 2021-07-11 16:45
-
-# game/places/hotel/alice/tv.rpy:53
-translate polish room_alice_tv_series_4474b87a:
-
-    # th "We used to think that problems like in those series are important. How foolish we were."
-    th "We used to think that problems like in those series are important. How foolish we were."
 

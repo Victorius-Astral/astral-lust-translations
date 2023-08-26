@@ -1,4 +1,4 @@
-﻿# Translation updated at 2021-07-11 16:45
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
@@ -10,100 +10,41 @@ translate polish strings:
     old "{gold}[alice]{/gold}"
     new "{gold}[alice]{/gold}"
 
-    # game/screens/menus/girls/alice.rpy:25
-    old "\nEmotions"
-    new "\nEmocje"
+    # game/screens/menus/girls/alice.rpy:23
+    old "Nicknames: Al"
+    new "Nicknames: Al"
 
     # game/screens/menus/girls/alice.rpy:27
     old "• {love}Affection: "
-    new "• {love}Sympatia: "
+    new "• {love}Affection: "
 
     # game/screens/menus/girls/alice.rpy:28
     old "• {trust}Trust: "
-    new "• {trust}Zaufanie: "
-
-    # game/screens/menus/girls/alice.rpy:29
-    old "• {lust}Lust: "
-    new "• {lust}Pożądanie: "
+    new "• {trust}Trust: "
 
     # game/screens/menus/girls/alice.rpy:30
     old "• {subm}Submission: "
-    new "• {subm}Uległość: "
+    new "• {subm}Submission: "
 
     # game/screens/menus/girls/alice.rpy:33
     old "• {love}Relationship: girlfriend{/love}"
-    new "• {love}Relacje: dziewczyna{/love}"
+    new "• {love}Relationship: girlfriend{/love}"
 
     # game/screens/menus/girls/alice.rpy:36
     old "• {love}Relationship: none{/love}"
-    new "• {love}Relacje: żadne{/love}"
-
-    # game/screens/menus/girls/alice.rpy:38
-    old "\nStatistics"
-    new "\nStatystyki"
+    new "• {love}Relationship: none{/love}"
 
     # game/screens/menus/girls/alice.rpy:40
     old "• Kisses: "
-    new "• Pocałunki: "
+    new "• Kisses: "
 
     # game/screens/menus/girls/alice.rpy:43
     old "• Massage: "
-    new "• Masaże: "
-
-    # game/screens/menus/girls/alice.rpy:44
-    old "• Blowjob: "
-    new "• Blowjob: "
-
-    # game/screens/menus/girls/alice.rpy:45
-    old "• Footjob: "
-    new "• Footjob: "
-
-    # game/screens/menus/girls/alice.rpy:46
-    old "• Vaginal: "
-    new "• Sex - Cipka: "
-
-    # game/screens/menus/girls/alice.rpy:47
-    old "• Anal: "
-    new "• Anal: "
-
-    # game/screens/menus/girls/alice.rpy:48
-    old "• Cunnilingus: "
-    new "• Cunnilingus: "
-
-    # game/screens/menus/girls/alice.rpy:49
-    old "• Sleep sex: "
-    new "• Seks podczas snu: "
-
-    # game/screens/menus/girls/alice.rpy:50
-    old "• BDSM plays: "
-    new "• Zabawy BDSM: "
-
-    # game/screens/menus/girls/alice.rpy:51
-    old "• Creampie: "
-    new "• Creampie: "
-
-    # game/screens/menus/girls/alice.rpy:52
-    old "• Came inside: "
-    new "• Doszedłeś w środku: "
-
-    # game/screens/menus/girls/alice.rpy:53
-    old "• Came outside: "
-    new "• Doszedłeś na zewnątrz: "
-
-# Translation updated at 2022-01-31 15:20
-
-translate polish strings:
-
-    # game/screens/menus/girls/alice.rpy:23
-    old "Nicknames: Al"
-    new "Ksywki: Al"
+    new "• Massage: "
 
     # game/screens/menus/girls/alice.rpy:44
     old "• Masturbation: "
-    new "• Masturbacja: "
-# TODO: Translation updated at 2022-08-20 13:48
-
-translate polish strings:
+    new "• Masturbation: "
 
     # game/screens/menus/girls/alice.rpy:45
     old "• Dildo: "
@@ -112,4 +53,16 @@ translate polish strings:
     # game/screens/menus/girls/alice.rpy:46
     old "• Rubbing: "
     new "• Rubbing: "
+
+    # game/screens/menus/girls/alice.rpy:48
+    old "• Boobjob: "
+    new "• Boobjob: "
+
+    # game/screens/menus/girls/alice.rpy:53
+    old "• Sleep sex: "
+    new "• Sleep sex: "
+
+    # game/screens/menus/girls/alice.rpy:54
+    old "• BDSM plays: "
+    new "• BDSM plays: "
 

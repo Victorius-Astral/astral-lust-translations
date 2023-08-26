@@ -1,7 +1,8 @@
-﻿# Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
-    # game/mods/templates/enemy.rpy:7
-    old "TEMPLATE"
-    new "WZÓR"
+    # game/mods/templates/enemy.rpy:9
+    old "TemplateEnemy"
+    new "TemplateEnemy"
+

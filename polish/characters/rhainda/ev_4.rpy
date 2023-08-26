@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-08-20 13:48
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/rhainda/ev_4.rpy:8
 translate polish rhainda_4_33288464:

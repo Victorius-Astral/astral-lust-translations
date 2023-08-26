@@ -1,4 +1,4 @@
-﻿# Translation updated at 2021-07-11 16:45
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
@@ -9,3 +9,4 @@ translate polish strings:
     # game/screens/menus/girls/lola.rpy:21
     old "{gold}[lola]{/gold}"
     new "{gold}[lola]{/gold}"
+

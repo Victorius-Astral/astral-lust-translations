@@ -1,4 +1,4 @@
-﻿# Translation updated at 2021-07-11 16:45
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
@@ -10,6 +10,3 @@ translate polish strings:
     old "{gold}[kiara]{/gold}"
     new "{gold}[kiara]{/gold}"
 
-    # game/screens/menus/girls/kiara.rpy:34
-    old "• Threesome: "
-    new "• Trójkąt: "

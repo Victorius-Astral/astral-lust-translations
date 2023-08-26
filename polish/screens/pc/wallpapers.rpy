@@ -1,11 +1,12 @@
-﻿# Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
-    # game/screens/pc/wallpapers.rpy:18
+    # game/screens/pc/wallpapers.rpy:47
     old "Insert code"
-    new "Wprowadź kod"
+    new "Insert code"
 
-    # game/screens/pc/wallpapers.rpy:36
+    # game/screens/pc/wallpapers.rpy:66
     old "Blocked in SFW Mode"
-    new "Zablokowane w trybie SFW"
+    new "Blocked in SFW Mode"
+

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/grace/ev_5.rpy:3
 translate polish grace_5_d65363e4:
@@ -105,8 +105,8 @@ translate polish grace_5_06b4b459:
 # game/characters/grace/ev_5.rpy:52
 translate polish grace_5_95f93169:
 
-    # "As you see her contentended face you must admit that talking with yourself before the mirror is actually having some effect."
-    "As you see her contentended face you must admit that talking with yourself before the mirror is actually having some effect."
+    # "As you see her contented face you must admit that talking with yourself before the mirror is actually having some effect." id grace_5_95f93169
+    "As you see her contented face you must admit that talking with yourself before the mirror is actually having some effect." id grace_5_95f93169
 
 # game/characters/grace/ev_5.rpy:57
 translate polish grace_5_4540d3de:
@@ -426,301 +426,301 @@ translate polish grace_5_2_f563f0f2:
     # grace "Oh.."
     grace "Oh.."
 
-# game/characters/grace/ev_5.rpy:164
+# game/characters/grace/ev_5.rpy:162
 translate polish grace_5_3_30772e4b:
 
     # "[grace] appears to be thinking about what you just told her."
     "[grace] appears to be thinking about what you just told her."
 
-# game/characters/grace/ev_5.rpy:165
+# game/characters/grace/ev_5.rpy:163
 translate polish grace_5_3_b3ac3ac2:
 
     # th "I'll probably die of old age if I wait for her to finish thinking. I better change the subject."
     th "I'll probably die of old age if I wait for her to finish thinking. I better change the subject."
 
-# game/characters/grace/ev_5.rpy:166
+# game/characters/grace/ev_5.rpy:164
 translate polish grace_5_3_5301cb46:
 
     # me "Are you sad often?"
     me "Are you sad often?"
 
-# game/characters/grace/ev_5.rpy:168
+# game/characters/grace/ev_5.rpy:166
 translate polish grace_5_3_faee3d5c:
 
     # grace "Sometimes, especially when I miss my mom."
     grace "Sometimes, especially when I miss my mom."
 
-# game/characters/grace/ev_5.rpy:169
+# game/characters/grace/ev_5.rpy:167
 translate polish grace_5_3_ed8340bf:
 
     # me "Did you try the method that Alice told you about?"
     me "Did you try the method that Alice told you about?"
 
-# game/characters/grace/ev_5.rpy:171
+# game/characters/grace/ev_5.rpy:169
 translate polish grace_5_3_3299205a:
 
     # grace "No."
     grace "No."
 
-# game/characters/grace/ev_5.rpy:172
+# game/characters/grace/ev_5.rpy:170
 translate polish grace_5_3_83087c50:
 
     # me "Why?"
     me "Why?"
 
-# game/characters/grace/ev_5.rpy:174
+# game/characters/grace/ev_5.rpy:172
 translate polish grace_5_3_b5f77652:
 
     # grace "I don't know how to do massage.."
     grace "I don't know how to do massage.."
 
-# game/characters/grace/ev_5.rpy:175
+# game/characters/grace/ev_5.rpy:173
 translate polish grace_5_3_3820771a:
 
     # me "..."
     me "..."
 
-# game/characters/grace/ev_5.rpy:176
+# game/characters/grace/ev_5.rpy:174
 translate polish grace_5_3_c72de88f:
 
     # th "It seems it's time for me to shine."
     th "It seems it's time for me to shine."
 
-# game/characters/grace/ev_5.rpy:177
+# game/characters/grace/ev_5.rpy:175
 translate polish grace_5_3_da0696bb:
 
     # me "How about I show you?"
     me "How about I show you?"
 
-# game/characters/grace/ev_5.rpy:179
+# game/characters/grace/ev_5.rpy:177
 translate polish grace_5_3_a86b373d:
 
     # grace "Will you?!"
     grace "Will you?!"
 
-# game/characters/grace/ev_5.rpy:180
+# game/characters/grace/ev_5.rpy:178
 translate polish grace_5_3_692e274a:
 
     # "You’re a little taken aback by her excitement."
     "You’re a little taken aback by her excitement."
 
-# game/characters/grace/ev_5.rpy:181
+# game/characters/grace/ev_5.rpy:179
 translate polish grace_5_3_362045cc:
 
     # th "Shouldn't she have at least a little bit of resistance?"
     th "Shouldn't she have at least a little bit of resistance?"
 
-# game/characters/grace/ev_5.rpy:182
+# game/characters/grace/ev_5.rpy:180
 translate polish grace_5_3_fca811a5:
 
     # me "Sure."
     me "Sure."
 
-# game/characters/grace/ev_5.rpy:184
+# game/characters/grace/ev_5.rpy:182
 translate polish grace_5_3_416225eb:
 
     # "As you move your hand to her breasts, she moves away and looks at you with hostility."
     "As you move your hand to her breasts, she moves away and looks at you with hostility."
 
-# game/characters/grace/ev_5.rpy:185
+# game/characters/grace/ev_5.rpy:183
 translate polish grace_5_3_3e4dbdb1:
 
     # grace "What are you doing?"
     grace "What are you doing?"
 
-# game/characters/grace/ev_5.rpy:186
+# game/characters/grace/ev_5.rpy:184
 translate polish grace_5_3_a20f4300:
 
     # me "You wanted me to show you how to massage your boobs didn't you?"
     me "You wanted me to show you how to massage your boobs didn't you?"
 
-# game/characters/grace/ev_5.rpy:187
+# game/characters/grace/ev_5.rpy:185
 translate polish grace_5_3_4defc628:
 
-    # grace "Yes, but why are you trying to touch my tities?"
-    grace "Yes, but why are you trying to touch my tities?"
+    # grace "Yes, but why are you trying to touch my titties?" id grace_5_3_4defc628
+    grace "Yes, but why are you trying to touch my titties?" id grace_5_3_4defc628
 
-# game/characters/grace/ev_5.rpy:188
+# game/characters/grace/ev_5.rpy:186
 translate polish grace_5_3_470f8bfe:
 
     # me "Then on whose breasts should I teach you?"
     me "Then on whose breasts should I teach you?"
 
-# game/characters/grace/ev_5.rpy:190
+# game/characters/grace/ev_5.rpy:188
 translate polish grace_5_3_8ddb25bb:
 
     # grace "Yours of course."
     grace "Yours of course."
 
-# game/characters/grace/ev_5.rpy:191
+# game/characters/grace/ev_5.rpy:189
 translate polish grace_5_3_43caceda:
 
     # "You are totally stunned and start to question life again."
     "You are totally stunned and start to question life again."
 
-# game/characters/grace/ev_5.rpy:192
+# game/characters/grace/ev_5.rpy:190
 translate polish grace_5_3_3820771a_1:
 
     # me "..."
     me "..."
 
-# game/characters/grace/ev_5.rpy:193
+# game/characters/grace/ev_5.rpy:191
 translate polish grace_5_3_da8d82af:
 
     # me "[grace] look at my chest. Do you see anything that I can massage there?"
     me "[grace] look at my chest. Do you see anything that I can massage there?"
 
-# game/characters/grace/ev_5.rpy:195
+# game/characters/grace/ev_5.rpy:193
 translate polish grace_5_3_0865daa2:
 
     # "[grace] stares intently at your chest."
     "[grace] stares intently at your chest."
 
-# game/characters/grace/ev_5.rpy:196
+# game/characters/grace/ev_5.rpy:194
 translate polish grace_5_3_f971b7a1:
 
     # grace "No.. then on whose breasts will you teach me?"
     grace "No.. then on whose breasts will you teach me?"
 
-# game/characters/grace/ev_5.rpy:197
+# game/characters/grace/ev_5.rpy:195
 translate polish grace_5_3_e26d5cbc:
 
     # me "Yours."
     me "Yours."
 
-# game/characters/grace/ev_5.rpy:199
+# game/characters/grace/ev_5.rpy:197
 translate polish grace_5_3_2e6e096d:
 
     # grace "Mine?"
     grace "Mine?"
 
-# game/characters/grace/ev_5.rpy:200
+# game/characters/grace/ev_5.rpy:198
 translate polish grace_5_3_83e3debe:
 
     # me "Yes, there is only two of us here right?"
     me "Yes, there is only two of us here right?"
 
-# game/characters/grace/ev_5.rpy:202
+# game/characters/grace/ev_5.rpy:200
 translate polish grace_5_3_05acdccf:
 
     # grace "Right.."
     grace "Right.."
 
-# game/characters/grace/ev_5.rpy:203
+# game/characters/grace/ev_5.rpy:201
 translate polish grace_5_3_901b2cd2:
 
     # me "So, do you want me to show you or not?"
     me "So, do you want me to show you or not?"
 
-# game/characters/grace/ev_5.rpy:205
+# game/characters/grace/ev_5.rpy:203
 translate polish grace_5_3_50057455:
 
     # grace "I.. umm.."
     grace "I.. umm.."
 
-# game/characters/grace/ev_5.rpy:206
+# game/characters/grace/ev_5.rpy:204
 translate polish grace_5_3_65576544:
 
     # "[grace] seems to be going through a serious internal conflict right now and you give her time to decide."
     "[grace] seems to be going through a serious internal conflict right now and you give her time to decide."
 
-# game/characters/grace/ev_5.rpy:208
+# game/characters/grace/ev_5.rpy:206
 translate polish grace_5_3_f349071d:
 
     # grace "Show me."
     grace "Show me."
 
-# game/characters/grace/ev_5.rpy:209
+# game/characters/grace/ev_5.rpy:207
 translate polish grace_5_3_096d4546:
 
     # th "That's what you call resolve girl!"
     th "That's what you call resolve girl!"
 
-# game/characters/grace/ev_5.rpy:211
+# game/characters/grace/ev_5.rpy:209
 translate polish grace_5_3_7d43c0b1:
 
     # "You walk behind her and she seems really nervous."
     "You walk behind her and she seems really nervous."
 
-# game/characters/grace/ev_5.rpy:212
+# game/characters/grace/ev_5.rpy:210
 translate polish grace_5_3_1580a1b3:
 
     # grace "W-Will I be alright?"
     grace "W-Will I be alright?"
 
-# game/characters/grace/ev_5.rpy:213
+# game/characters/grace/ev_5.rpy:211
 translate polish grace_5_3_3820771a_2:
 
     # me "..."
     me "..."
 
-# game/characters/grace/ev_5.rpy:214
+# game/characters/grace/ev_5.rpy:212
 translate polish grace_5_3_6d393ba3:
 
-    # me "Yes [grace] I would never hurt you."
-    me "Yes [grace] I would never hurt you."
+    # me "Yes [grace], I would never hurt you." id grace_5_3_6d393ba3
+    me "Yes [grace], I would never hurt you." id grace_5_3_6d393ba3
 
-# game/characters/grace/ev_5.rpy:217
+# game/characters/grace/ev_5.rpy:215
 translate polish grace_5_3_24a1678c:
 
     # grace "Promise?"
     grace "Promise?"
 
-# game/characters/grace/ev_5.rpy:218
+# game/characters/grace/ev_5.rpy:216
 translate polish grace_5_3_a4ff4620:
 
     # me "Promise."
     me "Promise."
 
-# game/characters/grace/ev_5.rpy:226
+# game/characters/grace/ev_5.rpy:230
 translate polish grace_5_3_d5a5a329:
 
     # "You don't wait anymore and start your massage."
     "You don't wait anymore and start your massage."
 
-# game/characters/grace/ev_5.rpy:227
+# game/characters/grace/ev_5.rpy:231
 translate polish grace_5_3_059ab5c6:
 
     # th "It's supposed to be a lesson.. should I teach her?"
     th "It's supposed to be a lesson.. should I teach her?"
 
-# game/characters/grace/ev_5.rpy:228
+# game/characters/grace/ev_5.rpy:232
 translate polish grace_5_3_91cf8f8d:
 
     # grace "Mmnnn!"
     grace "Mmnnn!"
 
-# game/characters/grace/ev_5.rpy:229
+# game/characters/grace/ev_5.rpy:233
 translate polish grace_5_3_b0704eeb:
 
     # "Hearing her pleasured moan you quickly make up your mind."
     "Hearing her pleasured moan you quickly make up your mind."
 
-# game/characters/grace/ev_5.rpy:230
+# game/characters/grace/ev_5.rpy:234
 translate polish grace_5_3_edbdcf4c:
 
     # th "No chance! If I teach her then she won't need me for this anymore."
     th "No chance! If I teach her then she won't need me for this anymore."
 
-# game/characters/grace/ev_5.rpy:231
+# game/characters/grace/ev_5.rpy:235
 translate polish grace_5_3_97c49a83:
 
     # grace "Mmmn~"
     grace "Mmmn~"
 
-# game/characters/grace/ev_5.rpy:233
+# game/characters/grace/ev_5.rpy:237
 translate polish grace_5_3_e98f43f8:
 
     # grace "This feels soooo nice!"
     grace "This feels soooo nice!"
 
-# game/characters/grace/ev_5.rpy:234
+# game/characters/grace/ev_5.rpy:238
 translate polish grace_5_3_8617a015:
 
     # me "Now you'll feel even better."
     me "Now you'll feel even better."
 
-# game/characters/grace/ev_5.rpy:235
+# game/characters/grace/ev_5.rpy:239
 translate polish grace_5_3_e247a6de:
 
     # grace "Impossibleee~"
@@ -768,55 +768,49 @@ translate polish grace_5_3_2cdc3abb:
     # th "Don't tell me she's about to cum.."
     th "Don't tell me she's about to cum.."
 
-# game/characters/grace/ev_5.rpy:253
+# game/characters/grace/ev_5.rpy:252
 translate polish grace_5_3_b03adb9a:
 
     # "[grace] is cumming!"
     "[grace] is cumming!"
 
-# game/characters/grace/ev_5.rpy:257
-translate polish grace_5_3_b03adb9a_1:
-
-    # "[grace] is cumming!"
-    "[grace] is cumming!"
-
-# game/characters/grace/ev_5.rpy:261
+# game/characters/grace/ev_5.rpy:260
 translate polish grace_5_3_fcad209e:
 
     # me "Phew.. that was intense. [grace], you good?"
     me "Phew.. that was intense. [grace], you good?"
 
-# game/characters/grace/ev_5.rpy:263
+# game/characters/grace/ev_5.rpy:262
 translate polish grace_5_3_575e7252:
 
     # grace "Veeeery good! Teehehe~"
     grace "Veeeery good! Teehehe~"
 
-# game/characters/grace/ev_5.rpy:264
+# game/characters/grace/ev_5.rpy:263
 translate polish grace_5_3_78f3ce98:
 
     # "As [grace] giggles playfully you wonder if she could perhaps be a nympho deep down."
     "As [grace] giggles playfully you wonder if she could perhaps be a nympho deep down."
 
-# game/characters/grace/ev_5.rpy:265
+# game/characters/grace/ev_5.rpy:264
 translate polish grace_5_3_23b3c433:
 
     # grace "I'm soo tired. I want to sleeeep."
     grace "I'm soo tired. I want to sleeeep."
 
-# game/characters/grace/ev_5.rpy:267
+# game/characters/grace/ev_5.rpy:266
 translate polish grace_5_3_5ad7632a:
 
     # "You take her to bed, and she falls asleep immediately."
     "You take her to bed, and she falls asleep immediately."
 
-# game/characters/grace/ev_5.rpy:268
+# game/characters/grace/ev_5.rpy:267
 translate polish grace_5_3_a7bc8e61:
 
     # th "Can't complain, that was nice. A pity that only she came.."
     th "Can't complain, that was nice. A pity that only she came.."
 
-# game/characters/grace/ev_5.rpy:269
+# game/characters/grace/ev_5.rpy:268
 translate polish grace_5_3_96dc44ef:
 
     # th "Next time I need to remind her that one needs to return favors."

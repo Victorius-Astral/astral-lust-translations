@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/rachel/ev_8.rpy:9
 translate polish rachel_8_0b4367c3:
@@ -357,8 +357,8 @@ translate polish rachel_8_e6f74af9:
 # game/characters/rachel/ev_8.rpy:123
 translate polish rachel_8_1ddabf6a:
 
-    # me "And you've awakened when.."
-    me "And you've awakened when.."
+    # me "And you had awakened when..." id rachel_8_1ddabf6a
+    me "And you had awakened when..." id rachel_8_1ddabf6a
 
 # game/characters/rachel/ev_8.rpy:128
 translate polish rachel_8_6d2ddbff:
@@ -381,8 +381,8 @@ translate polish rachel_8_4b900029:
 # game/characters/rachel/ev_8.rpy:131
 translate polish rachel_8_a17d2c69:
 
-    # me "That's crazy."
-    me "That's crazy."
+    # me "This's crazy." id rachel_8_a17d2c69
+    me "This's crazy." id rachel_8_a17d2c69
 
 # game/characters/rachel/ev_8.rpy:132
 translate polish rachel_8_bc282cea:

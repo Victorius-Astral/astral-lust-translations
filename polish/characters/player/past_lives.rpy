@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/player/past_lives.rpy:11
 translate polish past_lives_28919c8a:
@@ -619,6 +619,18 @@ translate polish past_lives_part2_2c29724c:
     me "What the?!"
 
 translate polish strings:
+
+    # game/characters/player/past_lives.rpy:3
+    old "Man"
+    new "Man"
+
+    # game/characters/player/past_lives.rpy:98
+    old "Grace"
+    new "Grace"
+
+    # game/characters/player/past_lives.rpy:98
+    old "Savenia"
+    new "Savenia"
 
     # game/characters/player/past_lives.rpy:98
     old "Akasha"

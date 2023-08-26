@@ -1,40 +1,36 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
-    # game/combat/cards/Card.rpy:94
-    old "There is no tip with id: "
-    new "There is no tip with id: "
-
-    # game/combat/cards/Card.rpy:94
-    old ", card: "
-    new ", card: "
-
-# TODO: Translation updated at 2022-08-20 13:48
-
-translate polish strings:
-
-    # game/combat/cards/Card.rpy:34
+    # game/combat/cards/Card.rpy:27
     old "Sorry, you have faulty card in inventory. Card -> "
     new "Sorry, you have faulty card in inventory. Card -> "
 
-    # game/combat/cards/Card.rpy:73
+    # game/combat/cards/Card.rpy:66
     old "Error generating card description!"
     new "Error generating card description!"
 
-    # game/combat/cards/Card.rpy:74
+    # game/combat/cards/Card.rpy:67
     old "\n Missing generate_description() method."
     new "\n Missing generate_description() method."
 
-    # game/combat/cards/Card.rpy:259
+    # game/combat/cards/Card.rpy:91
+    old "There is no tip with id: "
+    new "There is no tip with id: "
+
+    # game/combat/cards/Card.rpy:91
+    old ", card: "
+    new ", card: "
+
+    # game/combat/cards/Card.rpy:238
     old " true"
     new " true"
 
-    # game/combat/cards/Card.rpy:262
+    # game/combat/cards/Card.rpy:241
     old " unblockable"
     new " unblockable"
 
-    # game/combat/cards/Card.rpy:265
+    # game/combat/cards/Card.rpy:244
     old " unavoidable"
     new " unavoidable"
 

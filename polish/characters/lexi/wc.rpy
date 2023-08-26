@@ -1,54 +1,32 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
-# game/characters/lexi/wc.rpy:3
+# game/characters/lexi/wc.rpy:6
 translate polish wc_lexi_2aaf4428:
 
     # th "Lexi. She looks at me.."
-    th "Lexi. She looks at me.."
+    th "Lexi. patrzy na mnie..{#mtl}{#tl}"
 
-# game/characters/lexi/wc.rpy:4
+# game/characters/lexi/wc.rpy:7
 translate polish wc_lexi_1998487c:
 
-    # me "Sorry, I thought it was unoccu.."
-    me "Sorry, I thought it was unoccu.."
+    # me "Sorry, I thought it was unoccu-" id wc_lexi_1998487c
+    me "Przepraszam, myślałem, że jest puste.{#mtl}{#tl}" id wc_lexi_1998487c
 
-# game/characters/lexi/wc.rpy:8
+# game/characters/lexi/wc.rpy:13
 translate polish wc_lexi_a0fce02b:
 
     # lexi "Are you leaving or not?"
-    lexi "Are you leaving or not?"
+    lexi "Czy wychodzisz czy nie?{#mtl}{#tl}"
 
-# game/characters/lexi/wc.rpy:9
+# game/characters/lexi/wc.rpy:14
 translate polish wc_lexi_b847dfb7:
 
     # me "Sorry."
-    me "Sorry."
-
-# game/characters/lexi/wc.rpy:10
-translate polish wc_lexi_d6bf257e:
-
-    # lexi "Ahh.."
-    lexi "Ahh.."
-
-# game/characters/lexi/wc.rpy:11
-translate polish wc_lexi_2e39132c:
-
-    # "You leave."
-    "You leave."
-
-# TODO: Translation updated at 2022-01-31 15:20
-
-# game/characters/lexi/wc.rpy:7
-translate polish wc_lexi_5a823cce:
-
-    # me "Sorry, I thought it was unoccu-"
-    me "Sorry, I thought it was unoccu-"
-
-# TODO: Translation updated at 2022-11-13 15:23
+    me "Przepraszam.{#mtl}{#tl}"
 
 # game/characters/lexi/wc.rpy:15
 translate polish wc_lexi_a08584a1:
 
     # lexi "Ehh.."
-    lexi "Ehh.."
+    lexi "Ehh..{#mtl}{#tl}"
 

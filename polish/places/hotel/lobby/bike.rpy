@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/places/hotel/lobby/bike.rpy:3
 translate polish room_lobby_bike_5a41daaa:
@@ -15,6 +15,6 @@ translate polish room_lobby_bike_f3b7a612:
 # game/places/hotel/lobby/bike.rpy:5
 translate polish room_lobby_bike_e60a7be4:
 
-    # me "Maybe Savenia will take me for a ride after she's better, I really don't get how could it be safe."
-    me "Maybe Savenia will take me for a ride after she's better, I really don't get how could it be safe."
+    # me "Maybe Savenia will take me for a ride after she's better. I really don't get how could it be safe." id room_lobby_bike_e60a7be4
+    me "Maybe Savenia will take me for a ride after she's better. I really don't get how could it be safe." id room_lobby_bike_e60a7be4
 

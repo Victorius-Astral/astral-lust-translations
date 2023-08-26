@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/kiara/ev_2.rpy:6
 translate polish kiara_2_325a0512:
@@ -33,8 +33,8 @@ translate polish kiara_2_55beb49e:
 # game/characters/kiara/ev_2.rpy:12
 translate polish kiara_2_92d5f8c6:
 
-    # kiara "I would reward you with an ability, it would stay with you even after death."
-    kiara "I would reward you with an ability, it would stay with you even after death."
+    # kiara "I would reward you with an ability, and it would stay with you even after death." id kiara_2_92d5f8c6
+    kiara "I would reward you with an ability, and it would stay with you even after death." id kiara_2_92d5f8c6
 
 # game/characters/kiara/ev_2.rpy:13
 translate polish kiara_2_2d9d1337:
@@ -234,55 +234,55 @@ translate polish kiara_2_4_00d8e3ad:
     # "You died."
     "You died."
 
-# game/characters/kiara/ev_2.rpy:127
+# game/characters/kiara/ev_2.rpy:125
 translate polish kiara_2_5_f660d172:
 
     # me "So?"
     me "So?"
 
-# game/characters/kiara/ev_2.rpy:129
+# game/characters/kiara/ev_2.rpy:127
 translate polish kiara_2_5_024d892b:
 
     # kiara "I failed."
     kiara "I failed."
 
-# game/characters/kiara/ev_2.rpy:130
+# game/characters/kiara/ev_2.rpy:128
 translate polish kiara_2_5_a66aeb6f:
 
     # me "You failed?"
     me "You failed?"
 
-# game/characters/kiara/ev_2.rpy:131
+# game/characters/kiara/ev_2.rpy:129
 translate polish kiara_2_5_adf915d5:
 
     # kiara "Yes, I tried to shift the place you resurrect to be here, in my demesne.. My interference didn't even cause a ripple in the process."
     kiara "Yes, I tried to shift the place you resurrect to be here, in my demesne.. My interference didn't even cause a ripple in the process."
 
-# game/characters/kiara/ev_2.rpy:132
+# game/characters/kiara/ev_2.rpy:130
 translate polish kiara_2_5_44883df8:
 
     # me "What does all this mean?"
     me "What does all this mean?"
 
-# game/characters/kiara/ev_2.rpy:134
+# game/characters/kiara/ev_2.rpy:132
 translate polish kiara_2_5_91dcd6f3:
 
     # kiara "Whatever makes you resurrect is beyond anything I have ever faced."
     kiara "Whatever makes you resurrect is beyond anything I have ever faced."
 
-# game/characters/kiara/ev_2.rpy:135
+# game/characters/kiara/ev_2.rpy:133
 translate polish kiara_2_5_e8619711:
 
     # me "So.. powerful?"
     me "So.. powerful?"
 
-# game/characters/kiara/ev_2.rpy:137
+# game/characters/kiara/ev_2.rpy:135
 translate polish kiara_2_5_74dcbd7d:
 
     # kiara "Yes."
     kiara "Yes."
 
-# game/characters/kiara/ev_2.rpy:140
+# game/characters/kiara/ev_2.rpy:138
 translate polish kiara_2_5_ea65756c:
 
     # kiara "Still, you kept your end of the deal, I shall do the same."
@@ -323,8 +323,8 @@ translate polish strings:
     new "I don't want to do this"
 
     # game/characters/kiara/ev_2.rpy:72
-    old "Yes, but only if you help me to retain everything I have"
-    new "Yes, but only if you help me to retain everything I have"
+    old "Yes, if you keep my stuff safe for me"
+    new "Yes, if you keep my stuff safe for me"
 
     # game/characters/kiara/ev_2.rpy:72
     old "I need to think about it again"
@@ -333,12 +333,4 @@ translate polish strings:
     # game/characters/kiara/ev_2.rpy:72
     old "Explain it to me again"
     new "Explain it to me again"
-
-# TODO: Translation updated at 2021-07-11 16:45
-
-translate polish strings:
-
-    # game/characters/kiara/ev_2.rpy:72
-    old "Yes, if you keep my stuff safe for me"
-    new "Yes, if you keep my stuff safe for me"
 

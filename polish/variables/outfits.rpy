@@ -1,109 +1,14 @@
-﻿# Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
     # game/variables/outfits.rpy:3
-    old "School"
-    new "Szkoła"
-
-    # game/variables/outfits.rpy:3
-    old "Night Gown"
-    new "Koszula Nocna"
-
-    # game/variables/outfits.rpy:3
-    old "Pajamas"
-    new "Piżama"
-
-    # game/variables/outfits.rpy:3
-    old "Nightwear"
-    new "Strój Nocny"
-
-    # game/variables/outfits.rpy:3
-    old "Nympho"
-    new "Nimfomanka"
-
-    # game/variables/outfits.rpy:3
-    old "Party Girl"
-    new "Imprezowiczka"
-
-    # game/variables/outfits.rpy:3
-    old "Angel"
-    new "Anioł"
-
-    # game/variables/outfits.rpy:3
-    old "Traditional"
-    new "Tradycyjny"
-
-    # game/variables/outfits.rpy:3
-    old "Cum Stealer"
-    new "Złodziejka Nasienia"
-
-    # game/variables/outfits.rpy:3
-    old "Magical Girl"
-    new "Czarodziejka"
-
-    # game/variables/outfits.rpy:78
-    old "Affection: {}"
-    new "Przywiązanie: {}"
-
-    # game/variables/outfits.rpy:78
-    old "Corruption: {}"
-    new "Korupcja: {}"
-
-    # game/variables/outfits.rpy:78
-    old "Lust: {}"
-    new "Pożądanie: {}"
-
-    # game/variables/outfits.rpy:84
-    old "It won't provide warmth, but it'll at least cover private areas."
-    new "Nie zapewni ciepła, ale chociaż zakryje obszary prywatne."
-
-    # game/variables/outfits.rpy:84
-    old "Come, daddy~ Your little girl has homework to do~"
-    new "Chodź tatusiu~ Twoja dziewczynka ma zadanie do odrobienia~"
-
-    # game/variables/outfits.rpy:84
-    old "It's [grace]'s job to clean the place, but [alice] is always happy to learn new stuff!"
-    new "To zadanie [grace], aby sprzątać, ale [alice] jest zawsze szczęśliwa ucząc się nowych rzeczy."
-
-    # game/variables/outfits.rpy:84
-    old "No one wants [lexi] to get corrupted, but I bet you would like to know how she would look with a few tentacles on her body."
-    new "Nikt nie chce korupcji [lexi], ale pójdę o zakład, że chciałbyś zobaczyć ją z kilkoma mackami na jej ciele."
-
-    # game/variables/outfits.rpy:84
-    old "She's an Angel. Literally. She doesn't seem to grow wings, though. Let's change that."
-    new "Jest Aniołem. Dosłownie. Jednak najwyraźniej nie ma skrzydeł, pora to zmienić."
-
-    # game/variables/outfits.rpy:84
-    old "[kiara] would definitely love modern disco parties. It might be just a dream in Asthar, but you can still give her appropriate dress."
-    new "[kiara] na pewno pokochałaby współczesne dyskoteki. Jest to tylko sen w Asthar, ale nadal możesz dać jej odpowiednią sukienkę."
-
-    # game/variables/outfits.rpy:84
-    old "Hundreds of years of holding back, and now she's hornier than ever."
-    new "Setki lat wstrzemięźliwości, teraz jest bardziej napalona niż kiedykolwiek wcześniej."
-
-# Translation updated at 2022-02-16 09:42
-
-translate polish strings:
-
-    # game/variables/outfits.rpy:3
-    old "Cheongsam"
-    new "Cheongsam"
-# TODO: Translation updated at 2022-08-20 13:48
-
-translate polish strings:
+    old "Shower"
+    new "Shower"
 
     # game/variables/outfits.rpy:3
     old "Nun"
     new "Nun"
-
-    # game/variables/outfits.rpy:92
-    old "In the corruption filled Asthar, even the nuns are filled with unholy thoughts."
-    new "In the corruption filled Asthar, even the nuns are filled with unholy thoughts."
-
-# TODO: Translation updated at 2022-11-13 15:23
-
-translate polish strings:
 
     # game/variables/outfits.rpy:3
     old "Playmate"
@@ -114,22 +19,94 @@ translate polish strings:
     new "Xmas"
 
     # game/variables/outfits.rpy:3
+    old "Pajamas"
+    new "Pajamas"
+
+    # game/variables/outfits.rpy:3
     old "Bunny"
     new "Bunny"
+
+    # game/variables/outfits.rpy:3
+    old "Cum Stealer"
+    new "Cum Stealer"
 
     # game/variables/outfits.rpy:3
     old "Magician"
     new "Magician"
 
-    # game/variables/outfits.rpy:129
+    # game/variables/outfits.rpy:48
+    old "Night Gown"
+    new "Night Gown"
+
+    # game/variables/outfits.rpy:48
+    old "Nightwear"
+    new "Nightwear"
+
+    # game/variables/outfits.rpy:48
+    old "Traditional"
+    new "Traditional"
+
+    # game/variables/outfits.rpy:48
+    old "Magical Girl"
+    new "Magical Girl"
+
+    # game/variables/outfits.rpy:48
+    old "Cheongsam"
+    new "Cheongsam"
+
+    # game/variables/outfits.rpy:133
+    old "Affection: {}"
+    new "Affection: {}"
+
+    # game/variables/outfits.rpy:133
+    old "Corruption: {}"
+    new "Corruption: {}"
+
+    # game/variables/outfits.rpy:133
+    old "Lust: {}"
+    new "Lust: {}"
+
+    # game/variables/outfits.rpy:133
     old "Trust: {}"
     new "Trust: {}"
 
-    # game/variables/outfits.rpy:129
+    # game/variables/outfits.rpy:133
     old "Had sex: {} times"
     new "Had sex: {} times"
 
-    # game/variables/outfits.rpy:137
+    # game/variables/outfits.rpy:141
+    old "It won't provide warmth, but it'll at least cover private areas."
+    new "It won't provide warmth, but it'll at least cover private areas."
+
+    # game/variables/outfits.rpy:141
+    old "Come, daddy~ Your little girl has homework to do~"
+    new "Come, daddy~ Your little girl has homework to do~"
+
+    # game/variables/outfits.rpy:141
+    old "It's [grace]'s job to clean the place, but [alice] is always happy to learn new stuff!"
+    new "It's [grace]'s job to clean the place, but [alice] is always happy to learn new stuff!"
+
+    # game/variables/outfits.rpy:141
+    old "In the corruption filled Asthar, even the nuns are filled with unholy thoughts."
+    new "In the corruption filled Asthar, even the nuns are filled with unholy thoughts."
+
+    # game/variables/outfits.rpy:141
+    old "No one wants [lexi] to get corrupted, but I bet you would like to know how she would look with a few tentacles on her body."
+    new "No one wants [lexi] to get corrupted, but I bet you would like to know how she would look with a few tentacles on her body."
+
+    # game/variables/outfits.rpy:141
     old "Give her a carrot and make her happy."
     new "Give her a carrot and make her happy."
+
+    # game/variables/outfits.rpy:141
+    old "She's an Angel. Literally. She doesn't seem to grow wings, though. Let's change that."
+    new "She's an Angel. Literally. She doesn't seem to grow wings, though. Let's change that."
+
+    # game/variables/outfits.rpy:141
+    old "[kiara] would definitely love modern disco parties. It might be just a dream in Asthar, but you can still give her appropriate dress."
+    new "[kiara] would definitely love modern disco parties. It might be just a dream in Asthar, but you can still give her appropriate dress."
+
+    # game/variables/outfits.rpy:141
+    old "Hundreds of years of holding back, and now she's hornier than ever."
+    new "Hundreds of years of holding back, and now she's hornier than ever."
 

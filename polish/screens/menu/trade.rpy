@@ -1,8 +1,8 @@
-﻿# TODO: Translation updated at 2022-08-20 13:48
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
-    # game/screens/menu/trade.rpy:127
+    # game/screens/menu/trade.rpy:121
     old "Relations:"
     new "Relations:"
 

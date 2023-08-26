@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-07-11 16:45
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/alice/ev_13.rpy:4
 translate polish alice_13_61660bd0:
@@ -37,10 +37,10 @@ translate polish alice_13_0afbcd02:
     alice "Ah.."
 
 # game/characters/alice/ev_13.rpy:16
-translate polish alice_13_92bcfb91:
+translate polish alice_13_c4a7f2e0:
 
-    # alice "You piss me of. Like, veeery much."
-    alice "You piss me of. Like, veeery much."
+    # alice "You piss me off. Like, a loooot."
+    alice "You piss me off. Like, a loooot."
 
 # game/characters/alice/ev_13.rpy:17
 translate polish alice_13_a6a79e45:
@@ -240,11 +240,7 @@ translate polish strings:
     old "I love you"
     new "I love you"
 
-# TODO: Translation updated at 2022-01-31 15:20
-
-# game/characters/alice/ev_13.rpy:16
-translate polish alice_13_c4a7f2e0:
-
-    # alice "You piss me off. Like, a loooot."
-    alice "You piss me off. Like, a loooot."
+    # game/characters/alice/ev_13.rpy:67
+    old "..."
+    new "..."
 

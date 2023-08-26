@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/events/activities/pyjamas_party.rpy:16
 translate polish girl_night_10ba0bee:
@@ -145,10 +145,10 @@ translate polish girl_night_part2_61660bd0:
     me "[alice]?"
 
 # game/events/activities/pyjamas_party.rpy:66
-translate polish girl_night_part2_52380aa6:
+translate polish girl_night_part2_b0665fe2:
 
-    # alice "Come in."
-    alice "Come in."
+    # alice "Come on in."
+    alice "Come on in."
 
 # game/events/activities/pyjamas_party.rpy:69
 translate polish girl_night_part2_abf7a0b7:
@@ -199,10 +199,10 @@ translate polish girl_night_part2_972e5503:
     th "Why am I even here?"
 
 # game/events/activities/pyjamas_party.rpy:79
-translate polish girl_night_part2_0ed628cf:
+translate polish girl_night_part2_aa95ca6f:
 
-    # me "So what were you talking about."
-    me "So what were you talking about."
+    # me "So, what were you talking about."
+    me "So, what were you talking about."
 
 # game/events/activities/pyjamas_party.rpy:82
 translate polish girl_night_part2_25dabf8f:
@@ -223,10 +223,10 @@ translate polish girl_night_part2_e365ec7a:
     me "You were talking about me."
 
 # game/events/activities/pyjamas_party.rpy:87
-translate polish girl_night_part2_2ba1b39a:
+translate polish girl_night_part2_379863b3:
 
-    # grace "Mm. Alice was telling us stories about your.."
-    grace "Mm. Alice was telling us stories about your.."
+    # grace "Mm... Alice was telling us stories about your.."
+    grace "Mm... Alice was telling us stories about your.."
 
 # game/events/activities/pyjamas_party.rpy:88
 translate polish girl_night_part2_685d0518:
@@ -403,10 +403,10 @@ translate polish girl_night_part2_d1d43b0a:
     th "Alice.. you're dead..."
 
 # game/events/activities/pyjamas_party.rpy:133
-translate polish girl_night_part2_d9183c9c:
+translate polish girl_night_part2_0f14419f:
 
-    # alice "So well, I'll get going."
-    alice "So well, I'll get going."
+    # alice "So, well, I'll get going."
+    alice "So, well, I'll get going."
 
 # game/events/activities/pyjamas_party.rpy:134
 translate polish girl_night_part2_30258169:
@@ -481,10 +481,10 @@ translate polish girl_night_part2_5c123134:
     grace "{small}Most of them..{/small}"
 
 # game/events/activities/pyjamas_party.rpy:156
-translate polish girl_night_part2_e89eb89d:
+translate polish girl_night_part2_595855e9:
 
-    # alice "You won't let bad man to touch your titties, right?"
-    alice "You won't let bad man to touch your titties, right?"
+    # alice "You won't let a bad man to touch your titties, right?"
+    alice "You won't let a bad man to touch your titties, right?"
 
 # game/events/activities/pyjamas_party.rpy:157
 translate polish girl_night_part2_3820771a_2:
@@ -763,10 +763,10 @@ translate polish girl_night_part2_ac4c3a56:
     me "Now, now. Don't be angry, I was just joking with you."
 
 # game/events/activities/pyjamas_party.rpy:238
-translate polish girl_night_part2_0452124f:
+translate polish girl_night_part2_088d41c0:
 
-    # grace "I see. That was funny hehe."
-    grace "I see. That was funny hehe."
+    # grace "I see. That was funny... hehe."
+    grace "I see. That was funny... hehe."
 
 # game/events/activities/pyjamas_party.rpy:239
 translate polish girl_night_part2_1ca6c0ef:
@@ -775,10 +775,10 @@ translate polish girl_night_part2_1ca6c0ef:
     th "Yeah, I'm dying of laughter.. I have an idea, though."
 
 # game/events/activities/pyjamas_party.rpy:240
-translate polish girl_night_part2_eabf8e58:
+translate polish girl_night_part2_07081ead:
 
-    # me "How would I know, you're not turning into a werewolf?"
-    me "How would I know, you're not turning into a werewolf?"
+    # me "How would I know you're not turning into a werewolf?"
+    me "How would I know you're not turning into a werewolf?"
 
 # game/events/activities/pyjamas_party.rpy:243
 translate polish girl_night_part2_d2d8ae59:
@@ -1021,10 +1021,10 @@ translate polish girl_night_undress3_4e2a8876:
     mina "..."
 
 # game/events/activities/pyjamas_party.rpy:335
-translate polish girl_night_undress3_9757709b:
+translate polish girl_night_undress3_546d6a8f:
 
-    # th "Why does [mina] looks at me like with this?"
-    th "Why does [mina] looks at me like with this?"
+    # th "Why does [mina] looks at me like this?"
+    th "Why does [mina] looks at me like this?"
 
 # game/events/activities/pyjamas_party.rpy:336
 translate polish girl_night_undress3_0da22ed4:
@@ -1045,10 +1045,10 @@ translate polish girl_night_undress3_64c52efe:
     me "What for?"
 
 # game/events/activities/pyjamas_party.rpy:339
-translate polish girl_night_undress3_2f841bd4:
+translate polish girl_night_undress3_38037552:
 
-    # mina "Don't bullshit me, you're going to find some reasons for us all to undress. I want an ice cream."
-    mina "Don't bullshit me, you're going to find some reasons for us all to undress. I want an ice cream."
+    # mina "Don't bullshit me, you're going to find some other reasons for us all to undress. I want an ice cream."
+    mina "Don't bullshit me, you're going to find some other reasons for us all to undress. I want an ice cream."
 
 # game/events/activities/pyjamas_party.rpy:340
 translate polish girl_night_undress3_adf1224d:
@@ -1119,8 +1119,8 @@ translate polish girl_night_undress4_5f7a4392:
 # game/events/activities/pyjamas_party.rpy:374
 translate polish girl_night_undress4_02621109:
 
-    # alice "I want a cloth."
-    alice "I want a cloth."
+    # alice "I want a cloth." id girl_night_undress4_02621109
+    alice "I want a cloth." id girl_night_undress4_02621109
 
 # game/events/activities/pyjamas_party.rpy:375
 translate polish girl_night_undress4_5f4aa1ad:
@@ -1171,10 +1171,10 @@ translate polish girl_night_undress5_7b9fe782:
     th "[mina].."
 
 # game/events/activities/pyjamas_party.rpy:402
-translate polish girl_night_undress5_2ab81640:
+translate polish girl_night_undress5_587de244:
 
-    # alice "I want some fur. But leather will do too."
-    alice "I want some fur. But leather will do too."
+    # alice "I want some fur, but leather will do too."
+    alice "I want some fur, but leather will do too."
 
 # game/events/activities/pyjamas_party.rpy:403
 translate polish girl_night_undress5_3820771a:
@@ -1441,10 +1441,10 @@ translate polish girl_night_undress8_2ed86d5e:
     th "You should return my ice cream.."
 
 # game/events/activities/pyjamas_party.rpy:532
-translate polish girl_night_undress8_ac3bbb56:
+translate polish girl_night_undress8_c20e7406:
 
-    # alice "Now that you've eyed us enough, I think it's time you go to sleep."
-    alice "Now that you've eyed us enough, I think it's time you go to sleep."
+    # alice "Now, that you've eyed us enough, I think it's time for you go to sleep."
+    alice "Now, that you've eyed us enough, I think it's time for you go to sleep."
 
 # game/events/activities/pyjamas_party.rpy:533
 translate polish girl_night_undress8_f84fd2f2:
@@ -1465,10 +1465,10 @@ translate polish girl_night_undress8_be33ddff:
     me "You can't do this to me."
 
 # game/events/activities/pyjamas_party.rpy:540
-translate polish girl_night_undress8_374e7a88:
+translate polish girl_night_undress8_d7015565:
 
-    # alice "I can, and I do."
-    alice "I can, and I do."
+    # alice "I can, and I will."
+    alice "I can, and I will."
 
 # game/events/activities/pyjamas_party.rpy:541
 translate polish girl_night_undress8_dc41ff9d:
@@ -1573,10 +1573,10 @@ translate polish girl_night_undress8_ffa90095:
     me "Fine."
 
 # game/events/activities/pyjamas_party.rpy:570
-translate polish girl_night_undress8_4b682339:
+translate polish girl_night_undress8_c4ab0232:
 
-    # "You tell them of your encounters for the whole hour."
-    "You tell them of your encounters for the whole hour."
+    # "You tell them about your encounters for the whole hour."
+    "You tell them about your encounters for the whole hour."
 
 # game/events/activities/pyjamas_party.rpy:573
 translate polish girl_night_undress8_5d0d0193:
@@ -1603,10 +1603,10 @@ translate polish girl_night_undress8_990797a9:
     me "No, no. I've really defeated a cultist with one look."
 
 # game/events/activities/pyjamas_party.rpy:577
-translate polish girl_night_undress8_03de5801:
+translate polish girl_night_undress8_d7c2182b:
 
-    # th "I've forced him to commit suicide with my murderous gaze, yeah, I remember it was like this.."
-    th "I've forced him to commit suicide with my murderous gaze, yeah, I remember it was like this.."
+    # th "I've forced him to commit suicide with my murderous gaze, yeah. I remember it was like this.."
+    th "I've forced him to commit suicide with my murderous gaze, yeah. I remember it was like this.."
 
 # game/events/activities/pyjamas_party.rpy:578
 translate polish girl_night_undress8_7aaefab2:
@@ -1681,10 +1681,10 @@ translate polish girl_night_undress8_2d741e02:
     me "I might not be little, but it would still make me sleep better."
 
 # game/events/activities/pyjamas_party.rpy:605
-translate polish girl_night_undress8_9c2b5ada:
+translate polish girl_night_undress8_ea01fdb6:
 
-    # grace "*Muah*"
-    grace "*Muah*"
+    # grace "*Mwah*"
+    grace "*Mwah*"
 
 # game/events/activities/pyjamas_party.rpy:608
 translate polish girl_night_undress8_8065de9f:
@@ -1807,10 +1807,10 @@ translate polish girl_night_undress8_e3b456e2:
     me "Time to sleep."
 
 # game/events/activities/pyjamas_party.rpy:657
-translate polish girl_night_sleep_68a8d7f9:
+translate polish girl_night_sleep_44a82e18:
 
-    # me "Alright I've had enough, I'm going to sleep."
-    me "Alright I've had enough, I'm going to sleep."
+    # me "Alright, I've had enough. I'm going to sleep."
+    me "Alright, I've had enough. I'm going to sleep."
 
 # game/events/activities/pyjamas_party.rpy:660
 translate polish girl_night_sleep_6b62055f:
@@ -1947,101 +1947,4 @@ translate polish strings:
     # game/events/activities/pyjamas_party.rpy:483
     old "No diamonds for you"
     new "No diamonds for you"
-# TODO: Translation updated at 2022-01-31 15:20
-
-# game/events/activities/pyjamas_party.rpy:66
-translate polish girl_night_part2_b0665fe2:
-
-    # alice "Come on in."
-    alice "Come on in."
-
-# game/events/activities/pyjamas_party.rpy:79
-translate polish girl_night_part2_aa95ca6f:
-
-    # me "So, what were you talking about."
-    me "So, what were you talking about."
-
-# game/events/activities/pyjamas_party.rpy:87
-translate polish girl_night_part2_379863b3:
-
-    # grace "Mm... Alice was telling us stories about your.."
-    grace "Mm... Alice was telling us stories about your.."
-
-# game/events/activities/pyjamas_party.rpy:133
-translate polish girl_night_part2_0f14419f:
-
-    # alice "So, well, I'll get going."
-    alice "So, well, I'll get going."
-
-# game/events/activities/pyjamas_party.rpy:156
-translate polish girl_night_part2_595855e9:
-
-    # alice "You won't let a bad man to touch your titties, right?"
-    alice "You won't let a bad man to touch your titties, right?"
-
-# game/events/activities/pyjamas_party.rpy:238
-translate polish girl_night_part2_088d41c0:
-
-    # grace "I see. That was funny... hehe."
-    grace "I see. That was funny... hehe."
-
-# game/events/activities/pyjamas_party.rpy:240
-translate polish girl_night_part2_07081ead:
-
-    # me "How would I know you're not turning into a werewolf?"
-    me "How would I know you're not turning into a werewolf?"
-
-# game/events/activities/pyjamas_party.rpy:335
-translate polish girl_night_undress3_546d6a8f:
-
-    # th "Why does [mina] looks at me like this?"
-    th "Why does [mina] looks at me like this?"
-
-# game/events/activities/pyjamas_party.rpy:339
-translate polish girl_night_undress3_38037552:
-
-    # mina "Don't bullshit me, you're going to find some other reasons for us all to undress. I want an ice cream."
-    mina "Don't bullshit me, you're going to find some other reasons for us all to undress. I want an ice cream."
-
-# game/events/activities/pyjamas_party.rpy:402
-translate polish girl_night_undress5_587de244:
-
-    # alice "I want some fur, but leather will do too."
-    alice "I want some fur, but leather will do too."
-
-# game/events/activities/pyjamas_party.rpy:532
-translate polish girl_night_undress8_c20e7406:
-
-    # alice "Now, that you've eyed us enough, I think it's time for you go to sleep."
-    alice "Now, that you've eyed us enough, I think it's time for you go to sleep."
-
-# game/events/activities/pyjamas_party.rpy:540
-translate polish girl_night_undress8_d7015565:
-
-    # alice "I can, and I will."
-    alice "I can, and I will."
-
-# game/events/activities/pyjamas_party.rpy:570
-translate polish girl_night_undress8_c4ab0232:
-
-    # "You tell them about your encounters for the whole hour."
-    "You tell them about your encounters for the whole hour."
-
-# game/events/activities/pyjamas_party.rpy:577
-translate polish girl_night_undress8_d7c2182b:
-
-    # th "I've forced him to commit suicide with my murderous gaze, yeah. I remember it was like this.."
-    th "I've forced him to commit suicide with my murderous gaze, yeah. I remember it was like this.."
-
-# game/events/activities/pyjamas_party.rpy:605
-translate polish girl_night_undress8_ea01fdb6:
-
-    # grace "*Mwah*"
-    grace "*Mwah*"
-
-# game/events/activities/pyjamas_party.rpy:657
-translate polish girl_night_sleep_44a82e18:
-
-    # me "Alright, I've had enough. I'm going to sleep."
-    me "Alright, I've had enough. I'm going to sleep."
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
@@ -17,4 +17,12 @@ translate polish strings:
     # game/combat/cards/lists/types.rpy:3
     old "Power"
     new "Power"
+
+    # game/combat/cards/lists/types.rpy:3
+    old "Martial Art"
+    new "Martial Art"
+
+    # game/combat/cards/lists/types.rpy:3
+    old "Summoning"
+    new "Summoning"
 

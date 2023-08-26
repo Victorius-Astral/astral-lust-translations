@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
@@ -43,8 +43,8 @@ translate polish strings:
     new "Abomination"
 
     # game/combat/battle/Battle_variables.rpy:55
-    old "Fox Tribe"
-    new "Fox Tribe"
+    old "Orc"
+    new "Orc"
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Beast"
@@ -63,8 +63,20 @@ translate polish strings:
     new "Demon"
 
     # game/combat/battle/Battle_variables.rpy:82
+    old "Neutral"
+    new "Neutral"
+
+    # game/combat/battle/Battle_variables.rpy:82
+    old "Jade Hotel"
+    new "Jade Hotel"
+
+    # game/combat/battle/Battle_variables.rpy:82
     old "The Abyss"
     new "The Abyss"
+
+    # game/combat/battle/Battle_variables.rpy:82
+    old "Wanderers"
+    new "Wanderers"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Horde"
@@ -77,4 +89,8 @@ translate polish strings:
     # game/combat/battle/Battle_variables.rpy:82
     old "Deserters"
     new "Deserters"
+
+    # game/combat/battle/Battle_variables.rpy:82
+    old "Carlson Dojo"
+    new "Carlson Dojo"
 

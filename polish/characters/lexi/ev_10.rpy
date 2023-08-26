@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-07-11 16:45
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/lexi/ev_10.rpy:3
 translate polish lexi_10_99b0a49a:
@@ -199,10 +199,10 @@ translate polish lexi_10_24533048:
     me "You should start caring about yourself."
 
 # game/characters/lexi/ev_10.rpy:62
-translate polish lexi_10_c24c9162:
+translate polish lexi_10_d1abe798:
 
-    # lexi "After she's safe I can consider it."
-    lexi "After she's safe I can consider it."
+    # lexi "After she's safe, I can consider it."
+    lexi "After she's safe, I can consider it."
 
 # game/characters/lexi/ev_10.rpy:63
 translate polish lexi_10_1287b742:
@@ -217,10 +217,10 @@ translate polish lexi_10_3e794d44:
     lexi "Haha, I'm just a good [lex_min!t]."
 
 # game/characters/lexi/ev_10.rpy:67
-translate polish lexi_10_6360a484:
+translate polish lexi_10_f6ac03b3:
 
-    # me "Good [lex_min!t] won't think about dying, and leaving her [lex_min!t] alone."
-    me "Good [lex_min!t] won't think about dying, and leaving her [lex_min!t] alone."
+    # me "A good [lex_min!t], won't think about dying, and leaving her [lex_min!t] alone." id lexi_10_f6ac03b3
+    me "A good [lex_min!t], won't think about dying, and leaving her [lex_min!t] alone." id lexi_10_f6ac03b3
 
 # game/characters/lexi/ev_10.rpy:70
 translate polish lexi_10_d46b0878:
@@ -255,8 +255,8 @@ translate polish lexi_10_819a9741:
 # game/characters/lexi/ev_10.rpy:79
 translate polish lexi_10_41adc5ef:
 
-    # lexi "I can't let yo.."
-    lexi "I can't let yo.."
+    # lexi "I can't let yo-" id lexi_10_41adc5ef
+    lexi "I can't let yo-" id lexi_10_41adc5ef
 
 # game/characters/lexi/ev_10.rpy:80
 translate polish lexi_10_cc609b12:
@@ -295,10 +295,10 @@ translate polish lexi_10_ec7cb02f:
     lexi "I'm happy you're here."
 
 # game/characters/lexi/ev_10.rpy:90
-translate polish lexi_10_7a95674c:
+translate polish lexi_10_acbc0ff7:
 
-    # me "I'm happy to be here with all of you."
-    me "I'm happy to be here with all of you."
+    # me "I'm happy to be here, with all of you."
+    me "I'm happy to be here, with all of you."
 
 # game/characters/lexi/ev_10.rpy:91
 translate polish lexi_10_d4d939db:
@@ -343,10 +343,10 @@ translate polish lexi_10_417b8e75:
     th "The food here will last for a long time."
 
 # game/characters/lexi/ev_10.rpy:112
-translate polish lexi_10_c9609aaa:
+translate polish lexi_10_d731bc0c:
 
-    # th "Alright, bag full, time to go back."
-    th "Alright, bag full, time to go back."
+    # th "Alright, a bag full, time to go back."
+    th "Alright, a bag full, time to go back."
 
 # game/characters/lexi/ev_10.rpy:115
 translate polish lexi_10_ab156556:
@@ -367,10 +367,10 @@ translate polish lexi_10_965a27b1:
     lexi "I was waiting for you."
 
 # game/characters/lexi/ev_10.rpy:126
-translate polish lexi_10_27b9cea8:
+translate polish lexi_10_20a565e8:
 
-    # me "Scared I won't make it, or are you so hungry already?"
-    me "Scared I won't make it, or are you so hungry already?"
+    # me "Scared I won't make it or are you so hungry already?"
+    me "Scared I won't make it or are you so hungry already?"
 
 # game/characters/lexi/ev_10.rpy:129
 translate polish lexi_10_a87124fa:
@@ -425,36 +425,4 @@ translate polish lexi_10_70dac702:
 
     # lexi "Mm."
     lexi "Mm."
-
-# TODO: Translation updated at 2022-01-31 15:20
-
-# game/characters/lexi/ev_10.rpy:62
-translate polish lexi_10_d1abe798:
-
-    # lexi "After she's safe, I can consider it."
-    lexi "After she's safe, I can consider it."
-
-# game/characters/lexi/ev_10.rpy:67
-translate polish lexi_10_f6ac03b3:
-
-    # me "Good [lex_min!t], won't think about dying, and leaving her [lex_min!t] alone."
-    me "Good [lex_min!t], won't think about dying, and leaving her [lex_min!t] alone."
-
-# game/characters/lexi/ev_10.rpy:90
-translate polish lexi_10_acbc0ff7:
-
-    # me "I'm happy to be here, with all of you."
-    me "I'm happy to be here, with all of you."
-
-# game/characters/lexi/ev_10.rpy:112
-translate polish lexi_10_d731bc0c:
-
-    # th "Alright, a bag full, time to go back."
-    th "Alright, a bag full, time to go back."
-
-# game/characters/lexi/ev_10.rpy:126
-translate polish lexi_10_20a565e8:
-
-    # me "Scared I won't make it or are you so hungry already?"
-    me "Scared I won't make it or are you so hungry already?"
 

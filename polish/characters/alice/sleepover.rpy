@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-07-11 16:45
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/alice/sleepover.rpy:27
 translate polish sleep_with_alice_dbce692f:

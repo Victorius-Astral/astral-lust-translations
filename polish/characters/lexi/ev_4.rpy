@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/lexi/ev_4.rpy:3
 translate polish lexi_4_b58cf092:
@@ -222,13 +222,13 @@ translate polish lexi_4_2_99044e15:
     # lexi "{size=-10}I understand.{/size}"
     lexi "{size=-10}I understand.{/size}"
 
-# game/characters/lexi/ev_4.rpy:101
+# game/characters/lexi/ev_4.rpy:99
 translate polish lexi_4_3_889d57ab:
 
     # lexi "I need to sleep, I must go out to look for food tomorrow at dawn so that we can have breakfast."
     lexi "I need to sleep, I must go out to look for food tomorrow at dawn so that we can have breakfast."
 
-# game/characters/lexi/ev_4.rpy:104
+# game/characters/lexi/ev_4.rpy:102
 translate polish lexi_4_3_4885640c:
 
     # lexi "Thanks for keeping me company."
@@ -237,8 +237,8 @@ translate polish lexi_4_3_4885640c:
 translate polish strings:
 
     # game/characters/lexi/ev_4.rpy:14
-    old "Don't worry with me here you're safe"
-    new "Don't worry with me here you're safe"
+    old "Don't worry, with me here, you're safe"
+    new "Don't worry, with me here, you're safe"
 
     # game/characters/lexi/ev_4.rpy:14
     old "Is there anything good here to begin with?"
@@ -257,26 +257,6 @@ translate polish strings:
     new "Let it go"
 
     # game/characters/lexi/ev_4.rpy:72
-    old "I promise"
-    new "I promise"
-
-    # game/characters/lexi/ev_4.rpy:72
     old "I can't promise anything"
     new "I can't promise anything"
-
-# TODO: Translation updated at 2022-01-31 15:20
-
-translate polish strings:
-
-    # game/characters/lexi/ev_4.rpy:14
-    old "Don't worry with, me here you're safe"
-    new "Don't worry with, me here you're safe"
-
-# TODO: Translation updated at 2022-02-16 09:42
-
-translate polish strings:
-
-    # game/characters/lexi/ev_4.rpy:14
-    old "Don't worry, with me here, you're safe"
-    new "Don't worry, with me here, you're safe"
 

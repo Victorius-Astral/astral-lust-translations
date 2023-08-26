@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/rachel/ev_1.rpy:12
 translate polish rachel_1_3ab3935c:
@@ -273,8 +273,8 @@ translate polish rachel_1_part3_e97e6023:
 # game/characters/rachel/ev_1.rpy:121
 translate polish rachel_1_part3_bee8a9fb:
 
-    # rachel "Why do you trust me? We were enemies a while ago."
-    rachel "Why do you trust me? We were enemies a while ago."
+    # rachel "Why do you trust me? We were enemies just now." id rachel_1_part3_bee8a9fb
+    rachel "Why do you trust me? We were enemies just now." id rachel_1_part3_bee8a9fb
 
 # game/characters/rachel/ev_1.rpy:122
 translate polish rachel_1_part3_9e269d17:
@@ -309,8 +309,8 @@ translate polish rachel_1_part3_b8877e27:
 # game/characters/rachel/ev_1.rpy:127
 translate polish rachel_1_part3_14e679ae:
 
-    # rachel "Yes. Truth is you're the only person that I can turn to. ."
-    rachel "Yes. Truth is you're the only person that I can turn to. ."
+    # rachel "Yes. Truth is you're the only person that I can turn to.." id rachel_1_part3_14e679ae
+    rachel "Yes. Truth is you're the only person that I can turn to.." id rachel_1_part3_14e679ae
 
 # game/characters/rachel/ev_1.rpy:128
 translate polish rachel_1_part3_9a502b4d:

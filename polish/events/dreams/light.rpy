@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/events/dreams/light.rpy:3
 translate polish d_Light_0_dc96b2ba:
 
-    # "Your nearly blinded by the light as you open your eyes."
-    "Your nearly blinded by the light as you open your eyes."
+    # "You're nearly blinded by the light as you open your eyes." id d_Light_0_dc96b2ba
+    "You're nearly blinded by the light as you open your eyes." id d_Light_0_dc96b2ba
 
 # game/events/dreams/light.rpy:4
 translate polish d_Light_0_016c1ed4:

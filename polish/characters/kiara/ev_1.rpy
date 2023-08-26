@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/kiara/ev_1.rpy:6
 translate polish kiara_1_40f451d7:
@@ -324,79 +324,79 @@ translate polish kiara_1_1_cfa8bc1c:
     # me "Ha! You wish."
     me "Ha! You wish."
 
-# game/characters/kiara/ev_1.rpy:103
+# game/characters/kiara/ev_1.rpy:101
 translate polish kiara_1_2_222a2073:
 
     # me "You aren't going to ask me about what makes me resurrect?"
     me "You aren't going to ask me about what makes me resurrect?"
 
-# game/characters/kiara/ev_1.rpy:105
+# game/characters/kiara/ev_1.rpy:103
 translate polish kiara_1_2_d4b8f4a5:
 
     # kiara "No, you should understand that knowing some things is worse than knowing nothing at all."
     kiara "No, you should understand that knowing some things is worse than knowing nothing at all."
 
-# game/characters/kiara/ev_1.rpy:106
+# game/characters/kiara/ev_1.rpy:104
 translate polish kiara_1_2_ab802b4a:
 
     # me "If you don't know, then how can you be sure it's better not to know?"
     me "If you don't know, then how can you be sure it's better not to know?"
 
-# game/characters/kiara/ev_1.rpy:107
+# game/characters/kiara/ev_1.rpy:105
 translate polish kiara_1_2_9479f6e8:
 
-    # kiara "I can't see through this miracle and its origin, there is a large chance that its origin is much higher than me."
-    kiara "I can't see through this miracle and its origin, there is a large chance that its origin is much higher than me."
+    # kiara "I can't see through this miracle and its origin, so there is a large chance that its origin is much higher than me." id kiara_1_2_9479f6e8
+    kiara "I can't see through this miracle and its origin, so there is a large chance that its origin is much higher than me." id kiara_1_2_9479f6e8
 
-# game/characters/kiara/ev_1.rpy:108
+# game/characters/kiara/ev_1.rpy:106
 translate polish kiara_1_2_acafa846:
 
     # me "Won't it be okay? It's not like we are holding a ritual or using honorary names."
     me "Won't it be okay? It's not like we are holding a ritual or using honorary names."
 
-# game/characters/kiara/ev_1.rpy:110
+# game/characters/kiara/ev_1.rpy:108
 translate polish kiara_1_2_df845387:
 
     # kiara "When you do the ritual and pray to me I hear your voice whispering into my ears. The call is faint, but I can connect to you through it."
     kiara "When you do the ritual and pray to me I hear your voice whispering into my ears. The call is faint, but I can connect to you through it."
 
-# game/characters/kiara/ev_1.rpy:112
+# game/characters/kiara/ev_1.rpy:110
 translate polish kiara_1_2_b807f797:
 
     # kiara "But for some extremely potent beings just a random thought about something involving them would be like a scream right into their ears."
     kiara "But for some extremely potent beings just a random thought about something involving them would be like a scream right into their ears."
 
-# game/characters/kiara/ev_1.rpy:113
+# game/characters/kiara/ev_1.rpy:111
 translate polish kiara_1_2_dad453d0:
 
     # kiara "Not taking into an account that for Them a mortal knowing Their name is an insult in itself. Would you like it if someone screamed beside your ear?"
     kiara "Not taking into an account that for Them a mortal knowing Their name is an insult in itself. Would you like it if someone screamed beside your ear?"
 
-# game/characters/kiara/ev_1.rpy:114
+# game/characters/kiara/ev_1.rpy:112
 translate polish kiara_1_2_24bb0e45:
 
     # me "I wouldn't.."
     me "I wouldn't.."
 
-# game/characters/kiara/ev_1.rpy:115
+# game/characters/kiara/ev_1.rpy:113
 translate polish kiara_1_2_418c7ea2:
 
     # kiara "So you should understand, don't talk about Them, don't think about Them and never insult or slight Them."
     kiara "So you should understand, don't talk about Them, don't think about Them and never insult or slight Them."
 
-# game/characters/kiara/ev_1.rpy:116
+# game/characters/kiara/ev_1.rpy:114
 translate polish kiara_1_2_5dfb3613:
 
     # me "It's so.. sick.."
     me "It's so.. sick.."
 
-# game/characters/kiara/ev_1.rpy:119
+# game/characters/kiara/ev_1.rpy:117
 translate polish kiara_1_2_fe95e44a:
 
     # kiara "Hihi, you remind me of myself when I just entered the supernatural world."
     kiara "Hihi, you remind me of myself when I just entered the supernatural world."
 
-# game/characters/kiara/ev_1.rpy:121
+# game/characters/kiara/ev_1.rpy:119
 translate polish kiara_1_2_ad99b337:
 
     # kiara "You'll get used to it."
@@ -404,25 +404,25 @@ translate polish kiara_1_2_ad99b337:
 
 translate polish strings:
 
-    # game/characters/kiara/ev_1.rpy:76
-    old "I understood nothing at all"
-    new "I understood nothing at all"
-
-    # game/characters/kiara/ev_1.rpy:76
-    old "No, I get it"
-    new "No, I get it"
-
-# TODO: Translation updated at 2022-01-31 15:20
-
-translate polish strings:
+    # game/characters/kiara/ev_1.rpy:8
+    old "Kiara"
+    new "Kiara"
 
     # game/characters/kiara/ev_1.rpy:8
     old "She knows things about me, maybe even things I don't know about myself."
     new "She knows things about me, maybe even things I don't know about myself."
 
     # game/characters/kiara/ev_1.rpy:42
+    old "Throdog R'luhhor"
+    new "Throdog R'luhhor"
+
+    # game/characters/kiara/ev_1.rpy:42
     old "Kiara claims It to be terrifying beyond her imagination."
     new "Kiara claims It to be terrifying beyond her imagination."
+
+    # game/characters/kiara/ev_1.rpy:53
+    old "Higher Beings"
+    new "Higher Beings"
 
     # game/characters/kiara/ev_1.rpy:53
     old "There are many ways to resurrect, among them: miracles, awakening inside someone, replacing someone, reappearing from one's order, a loophole in time."
@@ -435,6 +435,14 @@ translate polish strings:
     # game/characters/kiara/ev_1.rpy:70
     old "It seems I'm resurrecting through it."
     new "It seems I'm resurrecting through it."
+
+    # game/characters/kiara/ev_1.rpy:76
+    old "I understood nothing at all"
+    new "I understood nothing at all"
+
+    # game/characters/kiara/ev_1.rpy:76
+    old "No, I get it"
+    new "No, I get it"
 
     # game/characters/kiara/ev_1.rpy:109
     old "For some extremely potent beings just a random thought about something involving them would be like screaming right into their ears."

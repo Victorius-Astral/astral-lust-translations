@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-07-11 16:45
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/lexi/kiss.rpy:10
 translate polish lexi_kiss_3ad64407:
@@ -37,10 +37,10 @@ translate polish lexi_kiss_61c6c230:
     me "That's a tradition."
 
 # game/characters/lexi/kiss.rpy:24
-translate polish lexi_kiss_2a348193:
+translate polish lexi_kiss_2e9132c7:
 
-    # lexi "You should watch more movies, besides, world is over, traditions are also over."
-    lexi "You should watch more movies, besides, world is over, traditions are also over."
+    # lexi "You should watch more movies, besides, the world is over, traditions are also over."
+    lexi "You should watch more movies, besides, the world is over, traditions are also over."
 
 # game/characters/lexi/kiss.rpy:25
 translate polish lexi_kiss_18641f49:
@@ -55,10 +55,10 @@ translate polish lexi_kiss_95e17dc9:
     me "You mean you will make my life a hell if I don't?"
 
 # game/characters/lexi/kiss.rpy:31
-translate polish lexi_kiss_5c9372ba:
+translate polish lexi_kiss_3fffbcdf:
 
-    # lexi "Nope, but I will make it into a heaven if you do."
-    lexi "Nope, but I will make it into a heaven if you do."
+    # lexi "Nope, but I will make it into a heaven, if you do."
+    lexi "Nope, but I will make it into a heaven, if you do."
 
 # game/characters/lexi/kiss.rpy:32
 translate polish lexi_kiss_9d96124c:
@@ -123,8 +123,8 @@ translate polish lexi_kiss_eb07716b:
 # game/characters/lexi/kiss.rpy:65
 translate polish lexi_kiss_0f07c677:
 
-    # me "Maybe I.."
-    me "Maybe I.."
+    # me "Maybe I-" id lexi_kiss_0f07c677
+    me "Maybe I-" id lexi_kiss_0f07c677
 
 # game/characters/lexi/kiss.rpy:66
 translate polish lexi_kiss_74605eaf:
@@ -157,10 +157,10 @@ translate polish lexi_kiss_1d6675d0:
     lexi "What were you doing today?"
 
 # game/characters/lexi/kiss.rpy:71
-translate polish lexi_kiss_ab43d171:
+translate polish lexi_kiss_6805e8b6:
 
-    # me "Now you're playing with me.."
-    me "Now you're playing with me.."
+    # me "Now, you're playing with me.."
+    me "Now, you're playing with me.."
 
 # game/characters/lexi/kiss.rpy:72
 translate polish lexi_kiss_bd14a3c4:
@@ -183,8 +183,8 @@ translate polish lexi_kiss_2193a987:
 # game/characters/lexi/kiss.rpy:75
 translate polish lexi_kiss_4f462946:
 
-    # me "Ahh.. I'm too.."
-    me "Ahh.. I'm too.."
+    # me "Ahh.. I'm too-" id lexi_kiss_4f462946
+    me "Ahh.. I'm too-" id lexi_kiss_4f462946
 
 # game/characters/lexi/kiss.rpy:76
 translate polish lexi_kiss_1b6dca8e:
@@ -192,157 +192,157 @@ translate polish lexi_kiss_1b6dca8e:
     # "You didn't manage to finish as [lexi]'s lips cover yours."
     "You didn't manage to finish as [lexi]'s lips cover yours."
 
-# game/characters/lexi/kiss.rpy:86
+# game/characters/lexi/kiss.rpy:87
 translate polish lexi_kiss_e43eb9e6:
 
     # lexi "*Smooch*"
     lexi "*Smooch*"
 
-# game/characters/lexi/kiss.rpy:90
+# game/characters/lexi/kiss.rpy:91
 translate polish lexi_kiss_b273d15b:
 
     # me "Ah.."
     me "Ah.."
 
-# game/characters/lexi/kiss.rpy:91
+# game/characters/lexi/kiss.rpy:92
 translate polish lexi_kiss_76c8b268:
 
     # lexi "Mmm~"
     lexi "Mmm~"
 
-# game/characters/lexi/kiss.rpy:94
+# game/characters/lexi/kiss.rpy:95
 translate polish lexi_kiss_d7760fc7:
 
     # lexi "..."
     lexi "..."
 
-# game/characters/lexi/kiss.rpy:95
+# game/characters/lexi/kiss.rpy:96
 translate polish lexi_kiss_93de64ff:
 
     # me "It was worth it."
     me "It was worth it."
 
-# game/characters/lexi/kiss.rpy:98
+# game/characters/lexi/kiss.rpy:99
 translate polish lexi_kiss_0236feaf:
 
     # lexi "I know, haha."
     lexi "I know, haha."
 
-# game/characters/lexi/kiss.rpy:101
+# game/characters/lexi/kiss.rpy:102
 translate polish lexi_kiss_b36c223b:
 
     # me "You're really spoiling me."
     me "You're really spoiling me."
 
-# game/characters/lexi/kiss.rpy:102
+# game/characters/lexi/kiss.rpy:103
 translate polish lexi_kiss_8080a1b1:
 
     # lexi "Yeah, I just felt like it."
     lexi "Yeah, I just felt like it."
 
-# game/characters/lexi/kiss.rpy:103
+# game/characters/lexi/kiss.rpy:104
 translate polish lexi_kiss_7736d785:
 
     # me "I'm not complaining."
     me "I'm not complaining."
 
-# game/characters/lexi/kiss.rpy:106
-translate polish lexi_kiss_8f42578a:
+# game/characters/lexi/kiss.rpy:107
+translate polish lexi_kiss_1b9e2c1e:
 
-    # "You stay in each other arms for a few minutes."
-    "You stay in each other arms for a few minutes."
+    # "You stayed in each other arms for a few minutes."
+    "You stayed in each other arms for a few minutes."
 
-# game/characters/lexi/kiss.rpy:109
+# game/characters/lexi/kiss.rpy:110
 translate polish lexi_kiss_76c8b268_1:
 
     # lexi "Mmm~"
     lexi "Mmm~"
 
-# game/characters/lexi/kiss.rpy:112
+# game/characters/lexi/kiss.rpy:113
 translate polish lexi_kiss_cf744273:
 
     # lexi "Haha."
     lexi "Haha."
 
-# game/characters/lexi/kiss.rpy:121
+# game/characters/lexi/kiss.rpy:123
 translate polish lexi_kiss_e1db38e3:
 
     # lexi "You lose soooo much.."
     lexi "You lose soooo much.."
 
-# game/characters/lexi/kiss.rpy:122
+# game/characters/lexi/kiss.rpy:124
 translate polish lexi_kiss_0bb22e51:
 
     # me "Close your eyes, and I'll take you to heavens."
     me "Close your eyes, and I'll take you to heavens."
 
-# game/characters/lexi/kiss.rpy:127
+# game/characters/lexi/kiss.rpy:129
 translate polish lexi_kiss_9df41fe2:
 
     # lexi "Don't use my own words against me."
     lexi "Don't use my own words against me."
 
-# game/characters/lexi/kiss.rpy:128
+# game/characters/lexi/kiss.rpy:130
 translate polish lexi_kiss_930031f3:
 
     # me "Heh, you asked for it."
     me "Heh, you asked for it."
 
-# game/characters/lexi/kiss.rpy:133
+# game/characters/lexi/kiss.rpy:135
 translate polish lexi_kiss_842ddc56:
 
     # lexi "You'll come back."
     lexi "You'll come back."
 
-# game/characters/lexi/kiss.rpy:134
+# game/characters/lexi/kiss.rpy:136
 translate polish lexi_kiss_86bfc80d:
 
     # me "You wish."
     me "You wish."
 
-# game/characters/lexi/kiss.rpy:139
+# game/characters/lexi/kiss.rpy:141
+translate polish lexi_kiss_1806f0f4:
+
+    # me "Now, that's really sexist."
+    me "Now, that's really sexist."
+
+# game/characters/lexi/kiss.rpy:142
 translate polish lexi_kiss_3878cd52:
 
     # lexi "Mom once told me guys think with their dicks. If they like you, they will stay."
     lexi "Mom once told me guys think with their dicks. If they like you, they will stay."
 
-# game/characters/lexi/kiss.rpy:140
-translate polish lexi_kiss_5178bffe:
-
-    # me "Now that's really sexist."
-    me "Now that's really sexist."
-
-# game/characters/lexi/kiss.rpy:141
+# game/characters/lexi/kiss.rpy:143
 translate polish lexi_kiss_13804454:
 
     # lexi "You are the best example that this is right."
     lexi "You are the best example that this is right."
 
-# game/characters/lexi/kiss.rpy:142
+# game/characters/lexi/kiss.rpy:144
 translate polish lexi_kiss_2bc9ee22:
 
     # me "I'm leaving, though."
     me "I'm leaving, though."
 
-# game/characters/lexi/kiss.rpy:147
+# game/characters/lexi/kiss.rpy:149
 translate polish lexi_kiss_b60903f1:
 
     # lexi "But you'll come back."
     lexi "But you'll come back."
 
-# game/characters/lexi/kiss.rpy:148
-translate polish lexi_kiss_c019ad7e:
+# game/characters/lexi/kiss.rpy:150
+translate polish lexi_kiss_cd9e73df:
 
-    # me "I really don't understand where does your confidence come from."
-    me "I really don't understand where does your confidence come from."
+    # me "I really don't understand, where does your confidence came from?" id lexi_kiss_cd9e73df
+    me "I really don't understand, where does your confidence came from?" id lexi_kiss_cd9e73df
 
-# game/characters/lexi/kiss.rpy:153
+# game/characters/lexi/kiss.rpy:155
 translate polish lexi_kiss_9a531a63:
 
     # lexi "I just know that, no matter what, when there is something new to do with me, you'll come running."
     lexi "I just know that, no matter what, when there is something new to do with me, you'll come running."
 
-# game/characters/lexi/kiss.rpy:154
+# game/characters/lexi/kiss.rpy:156
 translate polish lexi_kiss_3820771a:
 
     # me "..."
@@ -357,42 +357,4 @@ translate polish strings:
     # game/characters/lexi/kiss.rpy:57
     old "Nah, I'm a traditionalist"
     new "Nah, I'm a traditionalist"
-
-# TODO: Translation updated at 2022-01-31 15:20
-
-# game/characters/lexi/kiss.rpy:24
-translate polish lexi_kiss_2e9132c7:
-
-    # lexi "You should watch more movies, besides, the world is over, traditions are also over."
-    lexi "You should watch more movies, besides, the world is over, traditions are also over."
-
-# game/characters/lexi/kiss.rpy:31
-translate polish lexi_kiss_3fffbcdf:
-
-    # lexi "Nope, but I will make it into a heaven, if you do."
-    lexi "Nope, but I will make it into a heaven, if you do."
-
-# game/characters/lexi/kiss.rpy:71
-translate polish lexi_kiss_6805e8b6:
-
-    # me "Now, you're playing with me.."
-    me "Now, you're playing with me.."
-
-# game/characters/lexi/kiss.rpy:107
-translate polish lexi_kiss_1b9e2c1e:
-
-    # "You stayed in each other arms for a few minutes."
-    "You stayed in each other arms for a few minutes."
-
-# game/characters/lexi/kiss.rpy:140
-translate polish lexi_kiss_1806f0f4:
-
-    # me "Now, that's really sexist."
-    me "Now, that's really sexist."
-
-# game/characters/lexi/kiss.rpy:149
-translate polish lexi_kiss_cd9e73df:
-
-    # me "I really don't understand, where does your confidence came from."
-    me "I really don't understand, where does your confidence came from."
 

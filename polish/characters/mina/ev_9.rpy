@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/mina/ev_9.rpy:3
 translate polish mina_9_280ebf25:
@@ -105,8 +105,8 @@ translate polish mina_9_1878332a:
 # game/characters/mina/ev_9.rpy:31
 translate polish mina_9_f2d5d6e6:
 
-    # th "Is she still have those nightmares?"
-    th "Is she still have those nightmares?"
+    # th "Is she still having those nightmares?" id mina_9_f2d5d6e6
+    th "Is she still having those nightmares?" id mina_9_f2d5d6e6
 
 # game/characters/mina/ev_9.rpy:32
 translate polish mina_9_ad733c76:
@@ -198,301 +198,301 @@ translate polish mina_9_part2_a6d3c032:
     # mina "That's good."
     mina "That's good."
 
-# game/characters/mina/ev_9.rpy:90
+# game/characters/mina/ev_9.rpy:88
 translate polish mina_9_part3_68c3b1ab:
 
     # "You two lie in bed without words. After a while you close your eyes."
     "You two lie in bed without words. After a while you close your eyes."
 
-# game/characters/mina/ev_9.rpy:92
+# game/characters/mina/ev_9.rpy:90
 translate polish mina_9_part3_2009f816:
 
     # mina "[me]? Are you asleep?"
     mina "[me]? Are you asleep?"
 
-# game/characters/mina/ev_9.rpy:93
+# game/characters/mina/ev_9.rpy:91
 translate polish mina_9_part3_62e30384:
 
     # me "Not yet, what's up?"
     me "Not yet, what's up?"
 
-# game/characters/mina/ev_9.rpy:94
+# game/characters/mina/ev_9.rpy:92
 translate polish mina_9_part3_990d43db:
 
     # mina "I'm cold."
     mina "I'm cold."
 
-# game/characters/mina/ev_9.rpy:96
+# game/characters/mina/ev_9.rpy:94
 translate polish mina_9_part3_eeace4d9:
 
     # "You open your eyes."
     "You open your eyes."
 
-# game/characters/mina/ev_9.rpy:97
+# game/characters/mina/ev_9.rpy:95
 translate polish mina_9_part3_a600fae5:
 
     # me "I'll get you a blanket."
     me "I'll get you a blanket."
 
-# game/characters/mina/ev_9.rpy:98
+# game/characters/mina/ev_9.rpy:96
 translate polish mina_9_part3_798af37f:
 
     # mina "Wait, can you.. hold me instead?"
     mina "Wait, can you.. hold me instead?"
 
-# game/characters/mina/ev_9.rpy:99
+# game/characters/mina/ev_9.rpy:97
 translate polish mina_9_part3_0ad95b3b:
 
     # th "What is happening? Is this one of those odd dreams?"
     th "What is happening? Is this one of those odd dreams?"
 
-# game/characters/mina/ev_9.rpy:100
+# game/characters/mina/ev_9.rpy:98
 translate polish mina_9_part3_fca811a5:
 
     # me "Sure."
     me "Sure."
 
-# game/characters/mina/ev_9.rpy:102
+# game/characters/mina/ev_9.rpy:100
 translate polish mina_9_part3_3c46aedd:
 
     # me "Is it better now?"
     me "Is it better now?"
 
-# game/characters/mina/ev_9.rpy:103
+# game/characters/mina/ev_9.rpy:101
 translate polish mina_9_part3_dc66998e:
 
     # mina "Mm, but can you hug me tighter?"
     mina "Mm, but can you hug me tighter?"
 
-# game/characters/mina/ev_9.rpy:104
+# game/characters/mina/ev_9.rpy:102
 translate polish mina_9_part3_3820771a:
 
     # me "..."
     me "..."
 
-# game/characters/mina/ev_9.rpy:106
+# game/characters/mina/ev_9.rpy:104
 translate polish mina_9_part3_2d71e5d9:
 
     # "Instead of answering you pull her closer."
     "Instead of answering you pull her closer."
 
-# game/characters/mina/ev_9.rpy:107
+# game/characters/mina/ev_9.rpy:105
 translate polish mina_9_part3_0167e649:
 
     # mina "Thank you."
     mina "Thank you."
 
-# game/characters/mina/ev_9.rpy:109
+# game/characters/mina/ev_9.rpy:107
 translate polish mina_9_part3_ace7aacf:
 
     # "She gently wraps her arms around you."
     "She gently wraps her arms around you."
 
-# game/characters/mina/ev_9.rpy:110
+# game/characters/mina/ev_9.rpy:108
 translate polish mina_9_part3_2cdd9b36:
 
     # "Before long you hear her breathing become lighter."
     "Before long you hear her breathing become lighter."
 
-# game/characters/mina/ev_9.rpy:111
+# game/characters/mina/ev_9.rpy:109
 translate polish mina_9_part3_9f754e59:
 
     # th "It seems she has fallen asleep."
     th "It seems she has fallen asleep."
 
-# game/characters/mina/ev_9.rpy:113
+# game/characters/mina/ev_9.rpy:111
 translate polish mina_9_part3_070fb580:
 
     # "You follow her example and enter the world of dreams."
     "You follow her example and enter the world of dreams."
 
-# game/characters/mina/ev_9.rpy:115
+# game/characters/mina/ev_9.rpy:113
 translate polish mina_9_part3_bd41f4a5:
 
     # "You are roused by something moving in your arms."
     "You are roused by something moving in your arms."
 
-# game/characters/mina/ev_9.rpy:116
+# game/characters/mina/ev_9.rpy:114
 translate polish mina_9_part3_e400afeb:
 
     # th "Mina?"
     th "Mina?"
 
-# game/characters/mina/ev_9.rpy:117
+# game/characters/mina/ev_9.rpy:115
 translate polish mina_9_part3_952a0824:
 
-    # mina "{size=-15}No, don't do this, please! No!{/size}"
-    mina "{size=-15}No, don't do this, please! No!{/size}"
+    # mina "{quiet}No, don't do this, please! No!{/quiet}" id mina_9_part3_952a0824
+    mina "{quiet}No, don't do this, please! No!{/quiet}" id mina_9_part3_952a0824
 
-# game/characters/mina/ev_9.rpy:118
+# game/characters/mina/ev_9.rpy:116
 translate polish mina_9_part3_8b61b922:
 
     # th "She is having a nightmare.."
     th "She is having a nightmare.."
 
-# game/characters/mina/ev_9.rpy:120
+# game/characters/mina/ev_9.rpy:118
 translate polish mina_9_part3_8c695518:
 
-    # me "Shhh, I'm here with you. Ill keep you safe, everything is alright."
-    me "Shhh, I'm here with you. Ill keep you safe, everything is alright."
+    # me "Shhh, I’m here with you. I’ll keep you safe, everything is alright." id mina_9_part3_8c695518
+    me "Shhh, I’m here with you. I’ll keep you safe, everything is alright." id mina_9_part3_8c695518
 
-# game/characters/mina/ev_9.rpy:121
+# game/characters/mina/ev_9.rpy:119
 translate polish mina_9_part3_b4e776d8:
 
     # "Your voice seems to reach her as she calms down a little."
     "Your voice seems to reach her as she calms down a little."
 
-# game/characters/mina/ev_9.rpy:122
+# game/characters/mina/ev_9.rpy:120
 translate polish mina_9_part3_7911d747:
 
-    # mina "{size=-10}Thnnk uu.{/size}"
-    mina "{size=-10}Thnnk uu.{/size}"
+    # mina "{small}Thnnk uu.{/small}" id mina_9_part3_7911d747
+    mina "{small}Thnnk uu.{/small}" id mina_9_part3_7911d747
 
-# game/characters/mina/ev_9.rpy:123
+# game/characters/mina/ev_9.rpy:121
 translate polish mina_9_part3_c15afaa7:
 
     # me "You are safe now."
     me "You are safe now."
 
-# game/characters/mina/ev_9.rpy:125
+# game/characters/mina/ev_9.rpy:123
 translate polish mina_9_part3_d4a8fa8f:
 
     # "You kept looking at her for an hour, unable to fall asleep."
     "You kept looking at her for an hour, unable to fall asleep."
 
-# game/characters/mina/ev_9.rpy:126
+# game/characters/mina/ev_9.rpy:124
 translate polish mina_9_part3_7a16f995:
 
     # th "She looks rather sweet when she's asleep."
     th "She looks rather sweet when she's asleep."
 
-# game/characters/mina/ev_9.rpy:127
+# game/characters/mina/ev_9.rpy:125
 translate polish mina_9_part3_bbe0db14:
 
     # th "I hope she'll find some peace soon."
     th "I hope she'll find some peace soon."
 
-# game/characters/mina/ev_9.rpy:129
+# game/characters/mina/ev_9.rpy:127
 translate polish mina_9_part3_f167f1f8:
 
     # "Finally, you have joined [mina] in dreamland."
     "Finally, you have joined [mina] in dreamland."
 
-# game/characters/mina/ev_9.rpy:132
+# game/characters/mina/ev_9.rpy:130
 translate polish mina_9_part3_b928af58:
 
     # "When you wake up, [mina] is still sleeping."
     "When you wake up, [mina] is still sleeping."
 
-# game/characters/mina/ev_9.rpy:134
+# game/characters/mina/ev_9.rpy:132
 translate polish mina_9_part3_8d830a81:
 
     # th "If I'm careful, I'll be able to get up without bothering her."
     th "If I'm careful, I'll be able to get up without bothering her."
 
-# game/characters/mina/ev_9.rpy:136
+# game/characters/mina/ev_9.rpy:134
 translate polish mina_9_part3_b756d7d1:
 
     # "You were trying hard not to wake her up, but you still failed."
     "You were trying hard not to wake her up, but you still failed."
 
-# game/characters/mina/ev_9.rpy:137
+# game/characters/mina/ev_9.rpy:135
 translate polish mina_9_part3_adcfab35:
 
     # mina "[me]?"
     mina "[me]?"
 
-# game/characters/mina/ev_9.rpy:138
+# game/characters/mina/ev_9.rpy:136
 translate polish mina_9_part3_0e315580:
 
     # "Her sleepy voice makes you feel guilty."
     "Her sleepy voice makes you feel guilty."
 
-# game/characters/mina/ev_9.rpy:139
+# game/characters/mina/ev_9.rpy:137
 translate polish mina_9_part3_7a824bfa:
 
     # me "Sorry for disturbing you."
     me "Sorry for disturbing you."
 
-# game/characters/mina/ev_9.rpy:141
+# game/characters/mina/ev_9.rpy:139
 translate polish mina_9_part3_2c2da3aa:
 
     # mina "Why are you here?"
     mina "Why are you here?"
 
-# game/characters/mina/ev_9.rpy:142
+# game/characters/mina/ev_9.rpy:140
 translate polish mina_9_part3_6b40c90d:
 
     # me "It's my room."
     me "It's my room."
 
-# game/characters/mina/ev_9.rpy:148
+# game/characters/mina/ev_9.rpy:146
 translate polish mina_9_part3_90b0ba75:
 
     # mina "Right, I remember now."
     mina "Right, I remember now."
 
-# game/characters/mina/ev_9.rpy:149
+# game/characters/mina/ev_9.rpy:147
 translate polish mina_9_part3_d81a8fd5:
 
     # me "How did you sleep?"
     me "How did you sleep?"
 
-# game/characters/mina/ev_9.rpy:151
+# game/characters/mina/ev_9.rpy:149
 translate polish mina_9_part3_eaf852f3:
 
     # mina "I haven't slept so sound in a long time. Thank you!"
     mina "I haven't slept so sound in a long time. Thank you!"
 
-# game/characters/mina/ev_9.rpy:152
+# game/characters/mina/ev_9.rpy:150
 translate polish mina_9_part3_2731166e:
 
     # me "No need for thanks, I'm happy to help."
     me "No need for thanks, I'm happy to help."
 
-# game/characters/mina/ev_9.rpy:154
+# game/characters/mina/ev_9.rpy:152
 translate polish mina_9_part3_e3c9e246:
 
     # "You sit down."
     "You sit down."
 
-# game/characters/mina/ev_9.rpy:155
+# game/characters/mina/ev_9.rpy:153
 translate polish mina_9_part3_f3dedc82:
 
     # mina "Can I come again?"
     mina "Can I come again?"
 
-# game/characters/mina/ev_9.rpy:156
+# game/characters/mina/ev_9.rpy:154
 translate polish mina_9_part3_9c41f054:
 
     # me "Sure, you know the way."
     me "Sure, you know the way."
 
-# game/characters/mina/ev_9.rpy:158
+# game/characters/mina/ev_9.rpy:156
 translate polish mina_9_part3_8285d091:
 
     # "She gives you a cute smile."
     "She gives you a cute smile."
 
-# game/characters/mina/ev_9.rpy:160
+# game/characters/mina/ev_9.rpy:158
 translate polish mina_9_part3_af1aae71:
 
     # mina "I'll get going, I'm sure you have many things to do."
     mina "I'll get going, I'm sure you have many things to do."
 
-# game/characters/mina/ev_9.rpy:161
+# game/characters/mina/ev_9.rpy:159
 translate polish mina_9_part3_4095caad:
 
     # me "See you."
     me "See you."
 
-# game/characters/mina/ev_9.rpy:163
+# game/characters/mina/ev_9.rpy:161
 translate polish mina_9_part3_48c2d59c:
 
     # mina "Mm. Bye."
     mina "Mm. Bye."
 
-# game/characters/mina/ev_9.rpy:166
+# game/characters/mina/ev_9.rpy:164
 translate polish mina_9_part3_9a170974:
 
     # "[mina] left your room."
@@ -503,10 +503,6 @@ translate polish strings:
     # game/characters/mina/ev_9.rpy:7
     old "Answer"
     new "Answer"
-
-    # game/characters/mina/ev_9.rpy:7
-    old "Ignore it"
-    new "Ignore it"
 
     # game/characters/mina/ev_9.rpy:35
     old "You can stay"
@@ -523,10 +519,6 @@ translate polish strings:
     # game/characters/mina/ev_9.rpy:71
     old "Not at all"
     new "Not at all"
-
-# TODO: Translation updated at 2022-01-31 15:20
-
-translate polish strings:
 
     # game/characters/mina/ev_9.rpy:163
     old "She wanted to sleep with me saying I make her feel secure. I promised her I would welcome her again."

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/grace/ev_2.rpy:3
 translate polish grace_2_37163545:
@@ -153,14 +153,14 @@ translate polish grace_2_3820771a_2:
 # game/characters/grace/ev_2.rpy:38
 translate polish grace_2_5a66446b:
 
-    # th "This won't get my anywhere. I need to change the topic. What should I talk about?"
-    th "This won't get my anywhere. I need to change the topic. What should I talk about?"
+    # th "This won't get me anywhere. I need to change the topic. What should I talk about?" id grace_2_5a66446b
+    th "This won't get me anywhere. I need to change the topic. What should I talk about?" id grace_2_5a66446b
 
 # game/characters/grace/ev_2.rpy:41
 translate polish grace_2_menu_6183dd66:
 
-    # th "I was supossed to change topic. I should't ask about her mother. It'll only make things worse."
-    th "I was supossed to change topic. I should't ask about her mother. It'll only make things worse."
+    # th "I was supposed to change topic. I shouldn't ask about her mother. It'll only make things worse." id grace_2_menu_6183dd66
+    th "I was supposed to change topic. I shouldn't ask about her mother. It'll only make things worse." id grace_2_menu_6183dd66
 
 # game/characters/grace/ev_2.rpy:44
 translate polish grace_2_menu_4c25c4d7:
@@ -183,256 +183,260 @@ translate polish grace_2_menu_4be56140:
 # game/characters/grace/ev_2.rpy:48
 translate polish grace_2_menu_c79f2d5f:
 
-    # me "No, I just.. Nevermind."
-    me "No, I just.. Nevermind."
+    # me "No, I just.. Nevermind.." id grace_2_menu_c79f2d5f
+    me "No, I just.. Nevermind.." id grace_2_menu_c79f2d5f
 
-# game/characters/grace/ev_2.rpy:58
+# game/characters/grace/ev_2.rpy:56
 translate polish grace_2_1_deea571a:
 
     # me "You like flowers don't you?"
     me "You like flowers don't you?"
 
-# game/characters/grace/ev_2.rpy:61
+# game/characters/grace/ev_2.rpy:59
 translate polish grace_2_1_5084ff6e:
 
-    # grace "Yes! I love flowers! And trees and bushes and ..."
-    grace "Yes! I love flowers! And trees and bushes and ..."
+    # grace "Yes! I love flowers! And trees and bushes and-" id grace_2_1_5084ff6e
+    grace "Yes! I love flowers! And trees and bushes and-" id grace_2_1_5084ff6e
 
-# game/characters/grace/ev_2.rpy:62
+# game/characters/grace/ev_2.rpy:60
 translate polish grace_2_1_ee66e53f:
 
     # "As she continues to mention every single type of plant, you blank out. Honestly, you're quite shocked by her enthusiasm. After a long while the tirade ceases."
     "As she continues to mention every single type of plant, you blank out. Honestly, you're quite shocked by her enthusiasm. After a long while the tirade ceases."
 
-# game/characters/grace/ev_2.rpy:63
+# game/characters/grace/ev_2.rpy:61
 translate polish grace_2_1_db357f42:
 
     # me "Why do you like them so much?"
     me "Why do you like them so much?"
 
-# game/characters/grace/ev_2.rpy:65
+# game/characters/grace/ev_2.rpy:63
 translate polish grace_2_1_72898796:
 
     # grace "They're my friends. It's normal to love your friends right?"
     grace "They're my friends. It's normal to love your friends right?"
 
-# game/characters/grace/ev_2.rpy:66
+# game/characters/grace/ev_2.rpy:64
 translate polish grace_2_1_c04272f1:
 
     # th "Her reasoning is a bit.."
     th "Her reasoning is a bit.."
 
-# game/characters/grace/ev_2.rpy:67
+# game/characters/grace/ev_2.rpy:65
 translate polish grace_2_1_7ffe6199:
 
     # me "What about your human friends?"
     me "What about your human friends?"
 
-# game/characters/grace/ev_2.rpy:69
+# game/characters/grace/ev_2.rpy:67
 translate polish grace_2_1_17c430b0:
 
     # grace "Oh.. Since I arrived at the hotel, I became friends with Alice, Lexi and Mina."
     grace "Oh.. Since I arrived at the hotel, I became friends with Alice, Lexi and Mina."
 
-# game/characters/grace/ev_2.rpy:71
+# game/characters/grace/ev_2.rpy:69
 translate polish grace_2_1_b2f2bff1:
 
     # grace "I love them too!"
     grace "I love them too!"
 
-# game/characters/grace/ev_2.rpy:72
+# game/characters/grace/ev_2.rpy:70
 translate polish grace_2_1_dfb83e4a:
 
     # me "What about your friends before The End?"
     me "What about your friends before The End?"
 
-# game/characters/grace/ev_2.rpy:74
+# game/characters/grace/ev_2.rpy:72
 translate polish grace_2_1_18b5dbea:
 
     # grace "I already said I love all my plants!"
     grace "I already said I love all my plants!"
 
-# game/characters/grace/ev_2.rpy:75
+# game/characters/grace/ev_2.rpy:73
 translate polish grace_2_1_3820771a:
 
     # me "..."
     me "..."
 
-# game/characters/grace/ev_2.rpy:76
+# game/characters/grace/ev_2.rpy:74
 translate polish grace_2_1_f6e83197:
 
     # me "What about human friends?"
     me "What about human friends?"
 
-# game/characters/grace/ev_2.rpy:78
+# game/characters/grace/ev_2.rpy:76
 translate polish grace_2_1_ece5ea0c:
 
     # grace "Oh, so that's what you're asking. I didn't have any human friends."
     grace "Oh, so that's what you're asking. I didn't have any human friends."
 
-# game/characters/grace/ev_2.rpy:79
+# game/characters/grace/ev_2.rpy:77
 translate polish grace_2_1_36438e3c:
 
     # me "Not even at school?"
     me "Not even at school?"
 
-# game/characters/grace/ev_2.rpy:81
+# game/characters/grace/ev_2.rpy:79
 translate polish grace_2_1_1ad9c43d:
 
     # grace "I was learning at home. Mom said that only she knows what's best for me, and she won't leave me alone with strangers because they may hurt me."
     grace "I was learning at home. Mom said that only she knows what's best for me, and she won't leave me alone with strangers because they may hurt me."
 
-# game/characters/grace/ev_2.rpy:82
+# game/characters/grace/ev_2.rpy:80
 translate polish grace_2_1_e54cff66:
 
-    # th "It seems that her mother is quite a weird one. Overprotective parents don't understand that they're harming their children instead of helping them."
-    th "It seems that her mother is quite a weird one. Overprotective parents don't understand that they're harming their children instead of helping them."
+    # th "It seems that her mother is quite a weird one. Overprotective parents don't understand that they're hurting their children instead of helping them." id grace_2_1_e54cff66
+    th "It seems that her mother is quite a weird one. Overprotective parents don't understand that they're hurting their children instead of helping them." id grace_2_1_e54cff66
 
-# game/characters/grace/ev_2.rpy:83
+# game/characters/grace/ev_2.rpy:81
 translate polish grace_2_1_ba656130:
 
     # th "[grace] probably never left her home before The End."
     th "[grace] probably never left her home before The End."
 
-# game/characters/grace/ev_2.rpy:84
+# game/characters/grace/ev_2.rpy:82
 translate polish grace_2_1_bfa90d41:
 
     # me "Didn't you play around with neighbor kids when you were little?"
     me "Didn't you play around with neighbor kids when you were little?"
 
-# game/characters/grace/ev_2.rpy:85
+# game/characters/grace/ev_2.rpy:83
 translate polish grace_2_1_57b92095:
 
     # grace "No, Mommy never allowed me, she said that they'll make me bad."
     grace "No, Mommy never allowed me, she said that they'll make me bad."
 
-# game/characters/grace/ev_2.rpy:86
+# game/characters/grace/ev_2.rpy:84
 translate polish grace_2_1_476760e2:
 
     # th "I lack words for her mother. I wonder what happened to her."
     th "I lack words for her mother. I wonder what happened to her."
 
-# game/characters/grace/ev_2.rpy:87
+# game/characters/grace/ev_2.rpy:85
 translate polish grace_2_1_4e451c5e:
 
     # me "What happened to your mom?"
     me "What happened to your mom?"
 
-# game/characters/grace/ev_2.rpy:89
+# game/characters/grace/ev_2.rpy:87
 translate polish grace_2_1_e792089f:
 
     # grace "She left me here."
     grace "She left me here."
 
-# game/characters/grace/ev_2.rpy:90
+# game/characters/grace/ev_2.rpy:88
 translate polish grace_2_1_83087c50:
 
     # me "Why?"
     me "Why?"
 
-# game/characters/grace/ev_2.rpy:91
+# game/characters/grace/ev_2.rpy:89
 translate polish grace_2_1_979a2de3:
 
     # grace "She told me that I was a big girl and big girls need to live on their own."
     grace "She told me that I was a big girl and big girls need to live on their own."
 
-# game/characters/grace/ev_2.rpy:93
+# game/characters/grace/ev_2.rpy:91
 translate polish grace_2_1_913c8f7c:
 
     # th "Isn't it a tad too different from how she behaved before The End?"
     th "Isn't it a tad too different from how she behaved before The End?"
 
-# game/characters/grace/ev_2.rpy:94
+# game/characters/grace/ev_2.rpy:92
 translate polish grace_2_1_49584483:
 
     # me "I'm sorry."
     me "I'm sorry."
 
-# game/characters/grace/ev_2.rpy:96
+# game/characters/grace/ev_2.rpy:94
 translate polish grace_2_1_e69cab3d:
 
     # grace "No need! Mom said she would come back to see me when I learn how to live on my own."
     grace "No need! Mom said she would come back to see me when I learn how to live on my own."
 
-# game/characters/grace/ev_2.rpy:97
+# game/characters/grace/ev_2.rpy:95
 translate polish grace_2_1_41c8cfcc:
 
     # me "That's good then."
     me "That's good then."
 
-# game/characters/grace/ev_2.rpy:98
+# game/characters/grace/ev_2.rpy:96
 translate polish grace_2_1_f37ba371:
 
     # th "It's totally not. Although I don't know why she would leave [grace] here, her return doesn't spell anything good. Neither for me nor [grace]."
     th "It's totally not. Although I don't know why she would leave [grace] here, her return doesn't spell anything good. Neither for me nor [grace]."
 
-# game/characters/grace/ev_2.rpy:101
+# game/characters/grace/ev_2.rpy:99
 translate polish grace_2_1_24ac6622:
 
     # grace "Yes! I can't wait to see her again! I miss her so much!"
     grace "Yes! I can't wait to see her again! I miss her so much!"
 
-# game/characters/grace/ev_2.rpy:103
+# game/characters/grace/ev_2.rpy:101
 translate polish grace_2_1_d00d2579:
 
     # "[grace] continues to look at you from head to toe as if to measure you. You wonder what she's thinking about."
     "[grace] continues to look at you from head to toe as if to measure you. You wonder what she's thinking about."
 
-# game/characters/grace/ev_2.rpy:106
+# game/characters/grace/ev_2.rpy:104
 translate polish grace_2_1_848845f3:
 
     # grace "Maybe you are not that bad after all.."
     grace "Maybe you are not that bad after all.."
 
-# game/characters/grace/ev_2.rpy:107
+# game/characters/grace/ev_2.rpy:105
 translate polish grace_2_1_613fbba6:
 
     # th "Uhh.. It seems that it worked."
     th "Uhh.. It seems that it worked."
 
-# game/characters/grace/ev_2.rpy:109
+# game/characters/grace/ev_2.rpy:107
 translate polish grace_2_1_51283d8f:
 
     # grace "Are you sure you're male?"
     grace "Are you sure you're male?"
 
-# game/characters/grace/ev_2.rpy:110
+# game/characters/grace/ev_2.rpy:108
 translate polish grace_2_1_3820771a_1:
 
     # me "..."
     me "..."
 
-# game/characters/grace/ev_2.rpy:111
+# game/characters/grace/ev_2.rpy:109
 translate polish grace_2_1_058ebf9d:
 
     # th "I'm done."
     th "I'm done."
 
-# game/characters/grace/ev_2.rpy:112
+# game/characters/grace/ev_2.rpy:110
 translate polish grace_2_1_f0e36bb4:
 
     # me "I need to go."
     me "I need to go."
 
-# game/characters/grace/ev_2.rpy:114
+# game/characters/grace/ev_2.rpy:112
 translate polish grace_2_1_336e7ae6:
 
     # grace "Bye! Come to see me again!"
     grace "Bye! Come to see me again!"
 
-# game/characters/grace/ev_2.rpy:115
+# game/characters/grace/ev_2.rpy:113
 translate polish grace_2_1_357ea562:
 
     # th "At least she doesn't hate me anymore."
     th "At least she doesn't hate me anymore."
 
-# game/characters/grace/ev_2.rpy:116
+# game/characters/grace/ev_2.rpy:114
 translate polish grace_2_1_c48cf75d:
 
     # "You leave [grace] to her plants and go outside."
     "You leave [grace] to her plants and go outside."
 
 translate polish strings:
+
+    # game/characters/grace/ev_2.rpy:20
+    old "Her mother seems to be an extreme, militant feminist. It was her that instilled the hatred for men in Grace."
+    new "Her mother seems to be an extreme, militant feminist. It was her that instilled the hatred for men in Grace."
 
     # game/characters/grace/ev_2.rpy:39
     old "Ask about her mom"
@@ -445,32 +449,6 @@ translate polish strings:
     # game/characters/grace/ev_2.rpy:39
     old "Ask about her flowers"
     new "Ask about her flowers"
-
-# TODO: Translation updated at 2022-01-31 15:20
-
-# game/characters/grace/ev_2.rpy:38
-translate polish grace_2_dd6e1385:
-
-    # th "This won't get me anywhere. I need to change the topic. What should I talk about?"
-    th "This won't get me anywhere. I need to change the topic. What should I talk about?"
-
-# game/characters/grace/ev_2.rpy:59
-translate polish grace_2_1_937794d5:
-
-    # grace "Yes! I love flowers! And trees and bushes and-"
-    grace "Yes! I love flowers! And trees and bushes and-"
-
-# game/characters/grace/ev_2.rpy:80
-translate polish grace_2_1_64ea0ee0:
-
-    # th "It seems that her mother is quite a weird one. Overprotective parents don't understand that they're hurting their children instead of helping them."
-    th "It seems that her mother is quite a weird one. Overprotective parents don't understand that they're hurting their children instead of helping them."
-
-translate polish strings:
-
-    # game/characters/grace/ev_2.rpy:20
-    old "Her mother seems to be an extreme, militant feminist. It was her that instilled the hatred for men in Grace."
-    new "Her mother seems to be an extreme, militant feminist. It was her that instilled the hatred for men in Grace."
 
     # game/characters/grace/ev_2.rpy:58
     old "She's obsessed with any sort of plant. I can utilize this to my advantage and get more familiar with her."

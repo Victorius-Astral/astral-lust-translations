@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-11-13 15:23
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/events/dreams/sleep_paralysis.rpy:20
 translate polish d_Sleep_Paralysis_1_71bf607c:

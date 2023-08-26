@@ -1,240 +1,210 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
-# game/places/wanderers/prostitutes/amanda.rpy:16
+# game/places/wanderers/prostitutes/amanda.rpy:13
 translate polish w_booth_amanda_2c482652:
 
-    # amanda "Hello, [me_amanda]. I'm at your service."
-    amanda "Hello, [me_amanda]. I'm at your service."
+    # amanda "Hello, [me_amanda!t]. I'm at your service." id w_booth_amanda_2c482652
+    amanda "Hello, [me_amanda!t]. I'm at your service." id w_booth_amanda_2c482652
 
-# game/places/wanderers/prostitutes/amanda.rpy:27
+# game/places/wanderers/prostitutes/amanda.rpy:24
 translate polish w_booth_amanda_menu1_0cb75142:
 
-    # amanda "Of course, [me_amanda]."
-    amanda "Of course, [me_amanda]."
+    # amanda "Of course, [me_amanda!t]." id w_booth_amanda_menu1_0cb75142
+    amanda "Of course, [me_amanda!t]." id w_booth_amanda_menu1_0cb75142
 
-# game/places/wanderers/prostitutes/amanda.rpy:32
+# game/places/wanderers/prostitutes/amanda.rpy:29
 translate polish w_booth_amanda_menu1_04f4733b:
 
     # amanda "You won't get refund."
     amanda "You won't get refund."
 
-# game/places/wanderers/prostitutes/amanda.rpy:33
+# game/places/wanderers/prostitutes/amanda.rpy:30
 translate polish w_booth_amanda_menu1_3cdbfa0d:
 
     # me "I see.."
     me "I see.."
 
-# game/places/wanderers/prostitutes/amanda.rpy:37
+# game/places/wanderers/prostitutes/amanda.rpy:34
 translate polish w_booth_amanda_menu1_cda50697:
 
-    # amanda "Take care, [me_amanda]."
-    amanda "Take care, [me_amanda]."
+    # amanda "Take care, [me_amanda!t]." id w_booth_amanda_menu1_cda50697
+    amanda "Take care, [me_amanda!t]." id w_booth_amanda_menu1_cda50697
 
-# game/places/wanderers/prostitutes/amanda.rpy:42
+# game/places/wanderers/prostitutes/amanda.rpy:39
 translate polish w_booth_amanda_menu1_0aa909f6:
 
-    # amanda "Thank you for choosing to stay with me, [me_amanda]."
-    amanda "Thank you for choosing to stay with me, [me_amanda]."
+    # amanda "Thank you for choosing to stay with me, [me_amanda!t]." id w_booth_amanda_menu1_0aa909f6
+    amanda "Thank you for choosing to stay with me, [me_amanda!t]." id w_booth_amanda_menu1_0aa909f6
 
-# game/places/wanderers/prostitutes/amanda.rpy:51
+# game/places/wanderers/prostitutes/amanda.rpy:48
 translate polish w_booth_amanda_end_72823134:
 
     # "[amanda] left."
     "[amanda] left."
 
-# game/places/wanderers/prostitutes/amanda.rpy:53
+# game/places/wanderers/prostitutes/amanda.rpy:50
 translate polish w_booth_amanda_end_b1d0189a:
 
     # th "It was quite nice."
     th "It was quite nice."
 
-# game/places/wanderers/prostitutes/amanda.rpy:54
+# game/places/wanderers/prostitutes/amanda.rpy:51
 translate polish w_booth_amanda_end_299cdfad:
 
     # th "Time for me to go, though."
     th "Time for me to go, though."
 
-# game/places/wanderers/prostitutes/amanda.rpy:68
+# game/places/wanderers/prostitutes/amanda.rpy:63
 translate polish w_booth_amanda_dt_5082cb2d:
 
     # "[amanda] doesn't waste time, and starts to blow you right away."
     "[amanda] doesn't waste time, and starts to blow you right away."
 
-# game/places/wanderers/prostitutes/amanda.rpy:78
+# game/places/wanderers/prostitutes/amanda.rpy:69
 translate polish w_booth_amanda_dt_slow_caad1bd4:
 
     # me "Damn, girl, enthusiastic aren't you."
     me "Damn, girl, enthusiastic aren't you."
 
-# game/places/wanderers/prostitutes/amanda.rpy:79
+# game/places/wanderers/prostitutes/amanda.rpy:70
 translate polish w_booth_amanda_dt_slow_0b46abb9:
 
     # amanda "Mhmm."
     amanda "Mhmm."
 
-# game/places/wanderers/prostitutes/amanda.rpy:80
+# game/places/wanderers/prostitutes/amanda.rpy:71
 translate polish w_booth_amanda_dt_slow_e54fec88:
 
     # me "Ohh.. More, babe."
     me "Ohh.. More, babe."
 
-# game/places/wanderers/prostitutes/amanda.rpy:81
+# game/places/wanderers/prostitutes/amanda.rpy:72
 translate polish w_booth_amanda_dt_slow_237b88e9:
 
     # amanda "Mghm."
     amanda "Mghm."
 
-# game/places/wanderers/prostitutes/amanda.rpy:82
+# game/places/wanderers/prostitutes/amanda.rpy:73
 translate polish w_booth_amanda_dt_slow_832a3332:
 
     # me "Don't stop."
     me "Don't stop."
 
-# game/places/wanderers/prostitutes/amanda.rpy:98
+# game/places/wanderers/prostitutes/amanda.rpy:82
 translate polish w_booth_amanda_dt_fast_9a2e227d:
 
     # me "Ahh. That's nice."
     me "Ahh. That's nice."
 
-# game/places/wanderers/prostitutes/amanda.rpy:99
+# game/places/wanderers/prostitutes/amanda.rpy:83
 translate polish w_booth_amanda_dt_fast_237b88e9:
 
     # amanda "Mghm."
     amanda "Mghm."
 
-# game/places/wanderers/prostitutes/amanda.rpy:100
+# game/places/wanderers/prostitutes/amanda.rpy:84
 translate polish w_booth_amanda_dt_fast_5919fd22:
 
     # me "Yeah, just like that."
     me "Yeah, just like that."
 
-# game/places/wanderers/prostitutes/amanda.rpy:101
+# game/places/wanderers/prostitutes/amanda.rpy:85
 translate polish w_booth_amanda_dt_fast_2d2dd2c2:
 
     # "Her warm mouth keeps sucking on your dick like it's made of candy."
     "Her warm mouth keeps sucking on your dick like it's made of candy."
 
-# game/places/wanderers/prostitutes/amanda.rpy:102
+# game/places/wanderers/prostitutes/amanda.rpy:86
 translate polish w_booth_amanda_dt_fast_aba72b93:
 
     # me "Ahh! You know how to use your tongue.."
     me "Ahh! You know how to use your tongue.."
 
-# game/places/wanderers/prostitutes/amanda.rpy:103
+# game/places/wanderers/prostitutes/amanda.rpy:87
 translate polish w_booth_amanda_dt_fast_c722aaf5:
 
     # amanda "Mmmghm."
     amanda "Mmmghm."
 
-# game/places/wanderers/prostitutes/amanda.rpy:122
+# game/places/wanderers/prostitutes/amanda.rpy:102
 translate polish w_booth_amanda_dt_before_5115f097:
 
     # amanda "Mgghm!"
     amanda "Mgghm!"
 
-# game/places/wanderers/prostitutes/amanda.rpy:123
+# game/places/wanderers/prostitutes/amanda.rpy:103
 translate polish w_booth_amanda_dt_before_993b1122:
 
     # "[amanda] takes your dick really deep. Her gag reflex must be nonexistent."
     "[amanda] takes your dick really deep. Her gag reflex must be nonexistent."
 
-# game/places/wanderers/prostitutes/amanda.rpy:124
+# game/places/wanderers/prostitutes/amanda.rpy:104
 translate polish w_booth_amanda_dt_before_3f6eeae6:
 
     # me "Nice! Ahh!"
     me "Nice! Ahh!"
 
-# game/places/wanderers/prostitutes/amanda.rpy:125
+# game/places/wanderers/prostitutes/amanda.rpy:105
 translate polish w_booth_amanda_dt_before_f86e4ecc:
 
     # amanda "Mmmm!"
     amanda "Mmmm!"
 
-# game/places/wanderers/prostitutes/amanda.rpy:126
+# game/places/wanderers/prostitutes/amanda.rpy:106
 translate polish w_booth_amanda_dt_before_b353ee2a:
 
     # "Your dick is throbbing, your breath short. You can cum anytime."
     "Your dick is throbbing, your breath short. You can cum anytime."
 
-# game/places/wanderers/prostitutes/amanda.rpy:148
-translate polish w_booth_amanda_dt_before2_5115f097:
-
-    # amanda "Mgghm!"
-    amanda "Mgghm!"
-
-# game/places/wanderers/prostitutes/amanda.rpy:149
-translate polish w_booth_amanda_dt_before2_993b1122:
-
-    # "[amanda] takes your dick really deep. Her gag reflex must be nonexistent."
-    "[amanda] takes your dick really deep. Her gag reflex must be nonexistent."
-
-# game/places/wanderers/prostitutes/amanda.rpy:150
-translate polish w_booth_amanda_dt_before2_3f6eeae6:
-
-    # me "Nice! Ahh!"
-    me "Nice! Ahh!"
-
-# game/places/wanderers/prostitutes/amanda.rpy:151
-translate polish w_booth_amanda_dt_before2_f86e4ecc:
-
-    # amanda "Mmmm!"
-    amanda "Mmmm!"
-
-# game/places/wanderers/prostitutes/amanda.rpy:152
-translate polish w_booth_amanda_dt_before2_b353ee2a:
-
-    # "Your dick is throbbing, your breath short. You can cum anytime."
-    "Your dick is throbbing, your breath short. You can cum anytime."
-
-# game/places/wanderers/prostitutes/amanda.rpy:169
+# game/places/wanderers/prostitutes/amanda.rpy:120
 translate polish w_booth_amanda_dt_cum_372a4323:
 
     # "You're cumming!"
     "You're cumming!"
 
-# game/places/wanderers/prostitutes/amanda.rpy:170
+# game/places/wanderers/prostitutes/amanda.rpy:121
 translate polish w_booth_amanda_dt_cum_3217e8b9:
 
     # me "Ahh!!"
     me "Ahh!!"
 
-# game/places/wanderers/prostitutes/amanda.rpy:171
+# game/places/wanderers/prostitutes/amanda.rpy:122
 translate polish w_booth_amanda_dt_cum_83b8d24c:
 
     # amanda "Ahmmm!!"
     amanda "Ahmmm!!"
 
-# game/places/wanderers/prostitutes/amanda.rpy:179
+# game/places/wanderers/prostitutes/amanda.rpy:130
 translate polish w_booth_amanda_dt_cum_00e07095:
 
-    # amanda "I hope you liked your blowjob, [me_amanda]."
-    amanda "I hope you liked your blowjob, [me_amanda]."
+    # amanda "I hope you liked your blowjob, [me_amanda!t]." id w_booth_amanda_dt_cum_00e07095
+    amanda "I hope you liked your blowjob, [me_amanda!t]." id w_booth_amanda_dt_cum_00e07095
 
-# game/places/wanderers/prostitutes/amanda.rpy:180
+# game/places/wanderers/prostitutes/amanda.rpy:131
 translate polish w_booth_amanda_dt_cum_6c57e085:
 
     # me "I did, you're quite the talent."
     me "I did, you're quite the talent."
 
-# game/places/wanderers/prostitutes/amanda.rpy:181
+# game/places/wanderers/prostitutes/amanda.rpy:132
 translate polish w_booth_amanda_dt_cum_8d3d317d:
 
     # amanda "Thank you. I need to go, though. I hope you'll choose me again."
     amanda "Thank you. I need to go, though. I hope you'll choose me again."
 
-# game/places/wanderers/prostitutes/amanda.rpy:182
+# game/places/wanderers/prostitutes/amanda.rpy:133
 translate polish w_booth_amanda_dt_cum_fca811a5:
 
     # me "Sure."
     me "Sure."
 
-# game/places/wanderers/prostitutes/amanda.rpy:183
+# game/places/wanderers/prostitutes/amanda.rpy:134
 translate polish w_booth_amanda_dt_cum_cda50697:
 
-    # amanda "Take care, [me_amanda]."
-    amanda "Take care, [me_amanda]."
+    # amanda "Take care, [me_amanda!t]." id w_booth_amanda_dt_cum_cda50697
+    amanda "Take care, [me_amanda!t]." id w_booth_amanda_dt_cum_cda50697
 
-# game/places/wanderers/prostitutes/amanda.rpy:184
+# game/places/wanderers/prostitutes/amanda.rpy:135
 translate polish w_booth_amanda_dt_cum_9370fd7a:
 
     # me "See ya."
@@ -242,35 +212,27 @@ translate polish w_booth_amanda_dt_cum_9370fd7a:
 
 translate polish strings:
 
-    # game/places/wanderers/prostitutes/amanda.rpy:18
+    # game/places/wanderers/prostitutes/amanda.rpy:15
     old "Deepthroat"
     new "Deepthroat"
 
-    # game/places/wanderers/prostitutes/amanda.rpy:18
+    # game/places/wanderers/prostitutes/amanda.rpy:15
     old "Call me.."
     new "Call me.."
 
-    # game/places/wanderers/prostitutes/amanda.rpy:18
+    # game/places/wanderers/prostitutes/amanda.rpy:15
     old "I've changed my mind"
     new "I've changed my mind"
 
-    # game/places/wanderers/prostitutes/amanda.rpy:35
-    old "I'm sure"
-    new "I'm sure"
+    # game/places/wanderers/prostitutes/amanda.rpy:21
+    old "I want you to call me.."
+    new "I want you to call me.."
 
-# TODO: Translation updated at 2022-02-16 09:42
-
-translate polish strings:
-
-    # game/places/wanderers/prostitutes/amanda.rpy:2
+    # game/places/wanderers/prostitutes/amanda.rpy:22
     old "sir"
     new "sir"
 
-# TODO: Translation updated at 2022-08-20 13:48
-
-translate polish strings:
-
-    # game/places/wanderers/prostitutes/amanda.rpy:24
-    old "I want you to call me.."
-    new "I want you to call me.."
+    # game/places/wanderers/prostitutes/amanda.rpy:32
+    old "I'm sure"
+    new "I'm sure"
 

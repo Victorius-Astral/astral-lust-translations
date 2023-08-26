@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
@@ -265,10 +265,6 @@ translate polish strings:
     # game/variables/lists/error_messages.rpy:3
     old "Error playing card! \n Missing play() method."
     new "Error playing card! \n Missing play() method."
-
-# TODO: Translation updated at 2022-02-16 09:42
-
-translate polish strings:
 
     # game/variables/lists/error_messages.rpy:3
     old "Movie '{file}' doesn't exist!"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/places/hotel/lexi/document.rpy:7
 translate polish room_lexi_document_555f6ad9:

@@ -1,258 +1,312 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
-# game/characters/succubi/a/talk.rpy:26
+# game/characters/succubi/a/talk.rpy:29
 translate polish talk_SuccubusA_9d4e3500:
 
     # succA "How can I serve you [succA_master]?"
     succA "How can I serve you [succA_master]?"
 
-# game/characters/succubi/a/talk.rpy:68
+# game/characters/succubi/a/talk.rpy:71
 translate polish talk_SuccubusA_menu1_2da51337:
 
     # "You need to first build a playroom."
     "You need to first build a playroom."
 
-# game/characters/succubi/a/talk.rpy:74
+# game/characters/succubi/a/talk.rpy:78
 translate polish talk_SuccubusA_menu1_bfd474d7:
 
     # succA "Mnnmn~"
     succA "Mnnmn~"
 
-# game/characters/succubi/a/talk.rpy:75
+# game/characters/succubi/a/talk.rpy:79
 translate polish talk_SuccubusA_menu1_3ae0f06e:
 
     # "You two last in a romantic kiss for a while."
     "You two last in a romantic kiss for a while."
 
-# game/characters/succubi/a/talk.rpy:77
+# game/characters/succubi/a/talk.rpy:81
 translate polish talk_SuccubusA_menu1_48c5eac2:
 
     # succA "Thank you, [succA_master]."
     succA "Thank you, [succA_master]."
 
-# game/characters/succubi/a/talk.rpy:87
+# game/characters/succubi/a/talk.rpy:88
+translate polish talk_SuccubusA_menu1_1f4496c8:
+
+    # succA "N-N-No... {i}Please~{/i}"
+    succA "N-N-No... {i}Please~{/i}"
+
+# game/characters/succubi/a/talk.rpy:89
+translate polish talk_SuccubusA_menu1_63edbd73:
+
+    # extend " You can't do this to me, [succA_master]!"
+    extend " You can't do this to me, [succA_master]!"
+
+# game/characters/succubi/a/talk.rpy:90
+translate polish talk_SuccubusA_menu1_a6489b56:
+
+    # me "Relax. I don't want you to control yourself. Go play with your sister."
+    me "Relax. I don't want you to control yourself. Go play with your sister."
+
+# game/characters/succubi/a/talk.rpy:94
+translate polish talk_SuccubusA_menu1_d93e33d1:
+
+    # succA "I don't like that bitch."
+    succA "I don't like that bitch."
+
+# game/characters/succubi/a/talk.rpy:95
+translate polish talk_SuccubusA_menu1_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/characters/succubi/a/talk.rpy:99
+translate polish talk_SuccubusA_menu1_4224ad97:
+
+    # succA "Okay, [succA_master]."
+    succA "Okay, [succA_master]."
+
+# game/characters/succubi/a/talk.rpy:108
+translate polish talk_SuccubusA_menu1_bf9cca2b:
+
+    # succA "{i}*Cmoch*{/i}"
+    succA "{i}*Cmoch*{/i}"
+
+# game/characters/succubi/a/talk.rpy:112
+translate polish talk_SuccubusA_menu1_55b2ff56:
+
+    # succA "Thank you, [succA_master]!~"
+    succA "Thank you, [succA_master]!~"
+
+# game/characters/succubi/a/talk.rpy:113
+translate polish talk_SuccubusA_menu1_1dbe2ddc:
+
+    # me "Good."
+    me "Good."
+
+# game/characters/succubi/a/talk.rpy:125
 translate polish talk_SuccubusA_menu1_60539a1f:
 
     # succA "As you wish, [succA_master]."
     succA "As you wish, [succA_master]."
 
-# game/characters/succubi/a/talk.rpy:95
+# game/characters/succubi/a/talk.rpy:133
 translate polish talk_SuccubusA_menu1_d19e0967:
 
     # succA "Understood, this one is [succA] from now on."
     succA "Understood, this one is [succA] from now on."
 
-# game/characters/succubi/a/talk.rpy:100
+# game/characters/succubi/a/talk.rpy:138
 translate polish talk_SuccubusA_menu1_f819b0c1:
 
     # succA "Why don't we fuck first?"
     succA "Why don't we fuck first?"
 
-# game/characters/succubi/a/talk.rpy:101
+# game/characters/succubi/a/talk.rpy:139
 translate polish talk_SuccubusA_menu1_2e39132c:
 
     # "You leave."
     "You leave."
 
-# game/characters/succubi/a/talk.rpy:113
+# game/characters/succubi/a/talk.rpy:145
 translate polish talk_SuccubusA_wall_2051ef6f:
 
     # "She took off her skirt and panties before you could even react. Feeling invited, you press her against the wall, fucking her brains out."
     "She took off her skirt and panties before you could even react. Feeling invited, you press her against the wall, fucking her brains out."
 
-# game/characters/succubi/a/talk.rpy:114
+# game/characters/succubi/a/talk.rpy:146
 translate polish talk_SuccubusA_wall_e688f28a:
 
     # succA "Ahh~"
     succA "Ahh~"
 
-# game/characters/succubi/a/talk.rpy:115
+# game/characters/succubi/a/talk.rpy:147
 translate polish talk_SuccubusA_wall_02e346ef:
 
     # succA "Harder. Fuck me harder, [succA_master]!"
     succA "Harder. Fuck me harder, [succA_master]!"
 
-# game/characters/succubi/a/talk.rpy:125
+# game/characters/succubi/a/talk.rpy:151
 translate polish talk_SuccubusA_wall_e0548bb0:
 
     # succA "Ahmmn~"
     succA "Ahmmn~"
 
-# game/characters/succubi/a/talk.rpy:126
+# game/characters/succubi/a/talk.rpy:152
 translate polish talk_SuccubusA_wall_400dcb62:
 
     # "You shove your dick in and out, for a long time while listening to melody of [succA]'s moans."
     "You shove your dick in and out, for a long time while listening to melody of [succA]'s moans."
 
-# game/characters/succubi/a/talk.rpy:127
+# game/characters/succubi/a/talk.rpy:153
 translate polish talk_SuccubusA_wall_8f8984f5:
 
     # succA "Ahhh!"
     succA "Ahhh!"
 
-# game/characters/succubi/a/talk.rpy:128
+# game/characters/succubi/a/talk.rpy:154
 translate polish talk_SuccubusA_wall_1625bd35:
 
     # succA "Make me lose my mind~ Deeper, I beg you! Deeper!"
     succA "Make me lose my mind~ Deeper, I beg you! Deeper!"
 
-# game/characters/succubi/a/talk.rpy:138
+# game/characters/succubi/a/talk.rpy:158
 translate polish talk_SuccubusA_wall_43bb58c0:
 
     # me "Hah, as you wish."
     me "Hah, as you wish."
 
-# game/characters/succubi/a/talk.rpy:139
+# game/characters/succubi/a/talk.rpy:159
 translate polish talk_SuccubusA_wall_0b119de2:
 
     # succA "Mnnnhh!!~"
     succA "Mnnnhh!!~"
 
-# game/characters/succubi/a/talk.rpy:140
+# game/characters/succubi/a/talk.rpy:160
 translate polish talk_SuccubusA_wall_1a8f4c0c:
 
     # "She screams in the wildest passion, without caring about anything."
     "She screams in the wildest passion, without caring about anything."
 
-# game/characters/succubi/a/talk.rpy:141
+# game/characters/succubi/a/talk.rpy:161
 translate polish talk_SuccubusA_wall_dd9636c7:
 
     # me "Ahh.."
     me "Ahh.."
 
-# game/characters/succubi/a/talk.rpy:142
+# game/characters/succubi/a/talk.rpy:162
 translate polish talk_SuccubusA_wall_a088fea0:
 
     # succA "Mhmm~"
     succA "Mhmm~"
 
-# game/characters/succubi/a/talk.rpy:143
+# game/characters/succubi/a/talk.rpy:163
 translate polish talk_SuccubusA_wall_a820ff53:
 
     # succA "Fill me with your seed, [succA_master]."
     succA "Fill me with your seed, [succA_master]."
 
-# game/characters/succubi/a/talk.rpy:144
+# game/characters/succubi/a/talk.rpy:164
 translate polish talk_SuccubusA_wall_6c322301:
 
     # succA "I beg you, give your little bitch this honor~"
     succA "I beg you, give your little bitch this honor~"
 
-# game/characters/succubi/a/talk.rpy:147
+# game/characters/succubi/a/talk.rpy:168
 translate polish talk_SuccubusA_wall_164377d5:
 
     # me "Mhm!"
     me "Mhm!"
 
-# game/characters/succubi/a/talk.rpy:148
+# game/characters/succubi/a/talk.rpy:169
 translate polish talk_SuccubusA_wall_a1649698:
 
     # succA "Ahhh!~"
     succA "Ahhh!~"
 
-# game/characters/succubi/a/talk.rpy:149
+# game/characters/succubi/a/talk.rpy:170
 translate polish talk_SuccubusA_wall_2fe48fbd:
 
     # "You don't let her down, and cum inside her, filling her womb to the brim."
     "You don't let her down, and cum inside her, filling her womb to the brim."
 
-# game/characters/succubi/a/talk.rpy:152
+# game/characters/succubi/a/talk.rpy:174
 translate polish talk_SuccubusA_wall_cf6b1bdd:
 
     # me "Happy?"
     me "Happy?"
 
-# game/characters/succubi/a/talk.rpy:153
+# game/characters/succubi/a/talk.rpy:175
 translate polish talk_SuccubusA_wall_1a77eb1f:
 
     # succA "Ahh.. Ahh.. Yes.."
     succA "Ahh.. Ahh.. Yes.."
 
-# game/characters/succubi/a/talk.rpy:154
+# game/characters/succubi/a/talk.rpy:176
 translate polish talk_SuccubusA_wall_e5cf4eca:
 
     # succA "Thank you for your gift, [succA_master]~"
     succA "Thank you for your gift, [succA_master]~"
 
-# game/characters/succubi/a/talk.rpy:173
+# game/characters/succubi/a/talk.rpy:190
 translate polish talk_SuccubusA_cowgirl_cf4d3977:
 
     # "She starts fucking you without hesitation."
     "She starts fucking you without hesitation."
 
-# game/characters/succubi/a/talk.rpy:174
+# game/characters/succubi/a/talk.rpy:191
 translate polish talk_SuccubusA_cowgirl_7573347a:
 
-    # me "What an horny bitch you are.."
-    me "What an horny bitch you are.."
+    # me "What a horny bitch you are.." id talk_SuccubusA_cowgirl_7573347a
+    me "What a horny bitch you are.." id talk_SuccubusA_cowgirl_7573347a
 
-# game/characters/succubi/a/talk.rpy:175
+# game/characters/succubi/a/talk.rpy:192
 translate polish talk_SuccubusA_cowgirl_84d035d1:
 
     # succA "Yes. I'm your little horny bitch, [succA_master]."
     succA "Yes. I'm your little horny bitch, [succA_master]."
 
-# game/characters/succubi/a/talk.rpy:185
+# game/characters/succubi/a/talk.rpy:196
 translate polish talk_SuccubusA_cowgirl_b581fa2e:
 
     # succA "MnnHahaha~"
     succA "MnnHahaha~"
 
-# game/characters/succubi/a/talk.rpy:186
+# game/characters/succubi/a/talk.rpy:197
 translate polish talk_SuccubusA_cowgirl_30fec4cd:
 
     # "She laughs and moans at the same time, resulting in a strange but arousing sound."
     "She laughs and moans at the same time, resulting in a strange but arousing sound."
 
-# game/characters/succubi/a/talk.rpy:187
+# game/characters/succubi/a/talk.rpy:198
 translate polish talk_SuccubusA_cowgirl_c3dd8958:
 
     # succA "Hardeeer~ [succA_master]!~"
     succA "Hardeeer~ [succA_master]!~"
 
-# game/characters/succubi/a/talk.rpy:197
+# game/characters/succubi/a/talk.rpy:202
 translate polish talk_SuccubusA_cowgirl_2c0962b0:
 
     # me "Ahhhn~"
     me "Ahhhn~"
 
-# game/characters/succubi/a/talk.rpy:198
+# game/characters/succubi/a/talk.rpy:203
 translate polish talk_SuccubusA_cowgirl_1f6f16a7:
 
     # succA "Ohmm~"
     succA "Ohmm~"
 
-# game/characters/succubi/a/talk.rpy:199
+# game/characters/succubi/a/talk.rpy:204
 translate polish talk_SuccubusA_cowgirl_ff085947:
 
     # me "Your pussy is perfect. It wraps around my dick in such unexplainable ways.."
     me "Your pussy is perfect. It wraps around my dick in such unexplainable ways.."
 
-# game/characters/succubi/a/talk.rpy:200
+# game/characters/succubi/a/talk.rpy:205
 translate polish talk_SuccubusA_cowgirl_005c8f81:
 
     # succA "Thank you, [succA_master]. It makes me happy that you're happy with your toy."
     succA "Thank you, [succA_master]. It makes me happy that you're happy with your toy."
 
-# game/characters/succubi/a/talk.rpy:210
+# game/characters/succubi/a/talk.rpy:209
 translate polish talk_SuccubusA_cowgirl_049d62db:
 
     # succA "Annmnn!~"
     succA "Annmnn!~"
 
-# game/characters/succubi/a/talk.rpy:211
+# game/characters/succubi/a/talk.rpy:210
 translate polish talk_SuccubusA_cowgirl_dd9636c7:
 
     # me "Ahh.."
     me "Ahh.."
 
-# game/characters/succubi/a/talk.rpy:212
+# game/characters/succubi/a/talk.rpy:211
 translate polish talk_SuccubusA_cowgirl_ac5a9f9a:
 
     # me "You're going to milk me dry.."
     me "You're going to milk me dry.."
 
-# game/characters/succubi/a/talk.rpy:213
+# game/characters/succubi/a/talk.rpy:212
 translate polish talk_SuccubusA_cowgirl_1e1fd1d3:
 
     # succA "Yessss! Cum for me! Fill me up! [succA_master]!!"
@@ -402,763 +456,763 @@ translate polish talk_SuccubusA_horse_7577b485:
     # succA "Oh.."
     succA "Oh.."
 
-# game/characters/succubi/a/talk.rpy:264
+# game/characters/succubi/a/talk.rpy:258
 translate polish talk_SuccubusA_horse_fb5779cf:
 
     # "Soon she starts to move on her own."
     "Soon she starts to move on her own."
 
-# game/characters/succubi/a/talk.rpy:265
+# game/characters/succubi/a/talk.rpy:259
 translate polish talk_SuccubusA_horse_c220a796:
 
     # succA "Ayyy~"
     succA "Ayyy~"
 
-# game/characters/succubi/a/talk.rpy:266
+# game/characters/succubi/a/talk.rpy:260
 translate polish talk_SuccubusA_horse_a24e7e19:
 
     # me "Why are you moving?"
     me "Why are you moving?"
 
-# game/characters/succubi/a/talk.rpy:267
+# game/characters/succubi/a/talk.rpy:261
 translate polish talk_SuccubusA_horse_2eb9105c:
 
     # succA "I couldn't stop myself.."
     succA "I couldn't stop myself.."
 
-# game/characters/succubi/a/talk.rpy:268
+# game/characters/succubi/a/talk.rpy:262
 translate polish talk_SuccubusA_horse_c8c03786:
 
     # succA "So sorry, I can't hold it."
     succA "So sorry, I can't hold it."
 
-# game/characters/succubi/a/talk.rpy:269
+# game/characters/succubi/a/talk.rpy:263
 translate polish talk_SuccubusA_horse_ed168caf:
 
     # me "Stop!"
     me "Stop!"
 
-# game/characters/succubi/a/talk.rpy:273
+# game/characters/succubi/a/talk.rpy:267
 translate polish talk_SuccubusA_horse_705970e6:
 
     # "Although she stops, you can see on her face that she wants to continue very much."
     "Although she stops, you can see on her face that she wants to continue very much."
 
-# game/characters/succubi/a/talk.rpy:274
+# game/characters/succubi/a/talk.rpy:268
 translate polish talk_SuccubusA_horse_cbf52c57:
 
     # succA "Why?"
     succA "Why?"
 
-# game/characters/succubi/a/talk.rpy:275
+# game/characters/succubi/a/talk.rpy:269
 translate polish talk_SuccubusA_horse_41f713ed:
 
     # me "It's not a sex game, it's a punishment."
     me "It's not a sex game, it's a punishment."
 
-# game/characters/succubi/a/talk.rpy:276
+# game/characters/succubi/a/talk.rpy:270
 translate polish talk_SuccubusA_horse_356dc3c2:
 
     # succA "Punishment? Was I a bad pet?"
     succA "Punishment? Was I a bad pet?"
 
-# game/characters/succubi/a/talk.rpy:277
+# game/characters/succubi/a/talk.rpy:271
 translate polish talk_SuccubusA_horse_319c0364:
 
     # th "You're the perfect pet.."
     th "You're the perfect pet.."
 
-# game/characters/succubi/a/talk.rpy:278
+# game/characters/succubi/a/talk.rpy:272
 translate polish talk_SuccubusA_horse_5506bb2f:
 
     # me "Do you question my will?"
     me "Do you question my will?"
 
-# game/characters/succubi/a/talk.rpy:279
+# game/characters/succubi/a/talk.rpy:273
 translate polish talk_SuccubusA_horse_eced3335:
 
     # succA "No! Sorry, [succA_master]."
     succA "No! Sorry, [succA_master]."
 
-# game/characters/succubi/a/talk.rpy:282
+# game/characters/succubi/a/talk.rpy:276
 translate polish talk_SuccubusA_horse_1b929018_1:
 
     # succA "[succA_master]?"
     succA "[succA_master]?"
 
-# game/characters/succubi/a/talk.rpy:283
+# game/characters/succubi/a/talk.rpy:277
 translate polish talk_SuccubusA_horse_314086b3:
 
     # me "What?"
     me "What?"
 
-# game/characters/succubi/a/talk.rpy:284
+# game/characters/succubi/a/talk.rpy:278
 translate polish talk_SuccubusA_horse_f288a2c6:
 
     # succA "Will you fuck me now?"
     succA "Will you fuck me now?"
 
-# game/characters/succubi/a/talk.rpy:285
+# game/characters/succubi/a/talk.rpy:279
 translate polish talk_SuccubusA_horse_6e50d3ef_1:
 
     # me "No."
     me "No."
 
-# game/characters/succubi/a/talk.rpy:286
+# game/characters/succubi/a/talk.rpy:280
 translate polish talk_SuccubusA_horse_05fae8cd:
 
     # succA "I feel you want to."
     succA "I feel you want to."
 
-# game/characters/succubi/a/talk.rpy:287
+# game/characters/succubi/a/talk.rpy:281
 translate polish talk_SuccubusA_horse_6f1c613d:
 
     # th "Fucking superpowers.."
     th "Fucking superpowers.."
 
-# game/characters/succubi/a/talk.rpy:291
+# game/characters/succubi/a/talk.rpy:288
 translate polish talk_SuccubusA_horse_d90dfd81:
 
     # succA "Yes! Thank you!"
     succA "Yes! Thank you!"
 
-# game/characters/succubi/a/talk.rpy:292
+# game/characters/succubi/a/talk.rpy:289
 translate polish talk_SuccubusA_horse_12f705f2:
 
     # me "What an eager thing you are.."
     me "What an eager thing you are.."
 
-# game/characters/succubi/a/talk.rpy:293
+# game/characters/succubi/a/talk.rpy:290
 translate polish talk_SuccubusA_horse_ca181cb5:
 
     # succA "I'm your favourite toy, right, [succA_master]??"
     succA "I'm your favourite toy, right, [succA_master]??"
 
-# game/characters/succubi/a/talk.rpy:294
+# game/characters/succubi/a/talk.rpy:291
 translate polish talk_SuccubusA_horse_8e0289e9:
 
     # me "Do you want to talk or fuck?"
     me "Do you want to talk or fuck?"
 
-# game/characters/succubi/a/talk.rpy:295
+# game/characters/succubi/a/talk.rpy:292
 translate polish talk_SuccubusA_horse_c196b42b:
 
     # succA "Please, fuck me hard, [succA_master]."
     succA "Please, fuck me hard, [succA_master]."
 
-# game/characters/succubi/a/talk.rpy:296
+# game/characters/succubi/a/talk.rpy:293
 translate polish talk_SuccubusA_horse_fb98509b:
 
     # me "Thought so."
     me "Thought so."
 
-# game/characters/succubi/a/talk.rpy:302
+# game/characters/succubi/a/talk.rpy:299
 translate polish talk_SuccubusA_horse_951da034:
 
     # succA "[succA_master]!"
     succA "[succA_master]!"
 
-# game/characters/succubi/a/talk.rpy:303
+# game/characters/succubi/a/talk.rpy:300
 translate polish talk_SuccubusA_horse_a1feb5d0:
 
     # me "Let's go back."
     me "Let's go back."
 
-# game/characters/succubi/a/talk.rpy:304
+# game/characters/succubi/a/talk.rpy:301
 translate polish talk_SuccubusA_horse_1d47ca5c:
 
     # succA "[succA_master]~"
     succA "[succA_master]~"
 
-# game/characters/succubi/a/talk.rpy:305
+# game/characters/succubi/a/talk.rpy:302
 translate polish talk_SuccubusA_horse_6e50d3ef_2:
 
     # me "No."
     me "No."
 
-# game/characters/succubi/a/talk.rpy:307
+# game/characters/succubi/a/talk.rpy:304
 translate polish talk_SuccubusA_horse_ab2452a2:
 
     # succA "..."
     succA "..."
 
-# game/characters/succubi/a/talk.rpy:312
+# game/characters/succubi/a/talk.rpy:309
 translate polish talk_SuccubusA_bj69_d0fe333a:
 
     # "[succA] takes position on the top of you."
     "[succA] takes position on the top of you."
 
-# game/characters/succubi/a/talk.rpy:313
+# game/characters/succubi/a/talk.rpy:310
 translate polish talk_SuccubusA_bj69_9aa0d5ec:
 
     # succA "I can't wait to play with your dick [succA_master]~"
     succA "I can't wait to play with your dick [succA_master]~"
 
-# game/characters/succubi/a/talk.rpy:314
+# game/characters/succubi/a/talk.rpy:311
 translate polish talk_SuccubusA_bj69_cb137f3f:
 
     # succA "Please, use my mouth as you wish~"
     succA "Please, use my mouth as you wish~"
 
-# game/characters/succubi/a/talk.rpy:324
+# game/characters/succubi/a/talk.rpy:315
 translate polish talk_SuccubusA_bj69_d9b3035a:
 
     # "You start licking each other at the same time."
     "You start licking each other at the same time."
 
-# game/characters/succubi/a/talk.rpy:325
+# game/characters/succubi/a/talk.rpy:316
 translate polish talk_SuccubusA_bj69_07ad76d7:
 
     # succA "Haha~"
     succA "Haha~"
 
-# game/characters/succubi/a/talk.rpy:326
+# game/characters/succubi/a/talk.rpy:317
 translate polish talk_SuccubusA_bj69_d16d9cd3:
 
     # "Sometimes, while playing with your dick, she giggles innocently, like a child that's playing with her favorite toy."
     "Sometimes, while playing with your dick, she giggles innocently, like a child that's playing with her favorite toy."
 
-# game/characters/succubi/a/talk.rpy:336
+# game/characters/succubi/a/talk.rpy:321
 translate polish talk_SuccubusA_bj69_fae0b530:
 
     # "*Slurp*"
     "*Slurp*"
 
-# game/characters/succubi/a/talk.rpy:337
+# game/characters/succubi/a/talk.rpy:322
 translate polish talk_SuccubusA_bj69_18b84c11:
 
     # "Not only the taste, but even the scent of her pussy drives you mad, it's intoxicating."
     "Not only the taste, but even the scent of her pussy drives you mad, it's intoxicating."
 
-# game/characters/succubi/a/talk.rpy:338
+# game/characters/succubi/a/talk.rpy:323
 translate polish talk_SuccubusA_bj69_8fe51fde:
 
     # me "Shit, you taste unbelievably good. You're even more addicting than drugs."
     me "Shit, you taste unbelievably good. You're even more addicting than drugs."
 
-# game/characters/succubi/a/talk.rpy:339
+# game/characters/succubi/a/talk.rpy:324
 translate polish talk_SuccubusA_bj69_ec4c8b97:
 
     # succA "Do I? Thank you, [succA_master]."
     succA "Do I? Thank you, [succA_master]."
 
-# game/characters/succubi/a/talk.rpy:349
+# game/characters/succubi/a/talk.rpy:328
 translate polish talk_SuccubusA_bj69_dc90d4c6:
 
     # "It seems she had enough of foreplay and took your manhood inside her wet, warm mouth."
     "It seems she had enough of foreplay and took your manhood inside her wet, warm mouth."
 
-# game/characters/succubi/a/talk.rpy:350
+# game/characters/succubi/a/talk.rpy:329
 translate polish talk_SuccubusA_bj69_87b3f67e:
 
     # me "Nice!"
     me "Nice!"
 
-# game/characters/succubi/a/talk.rpy:351
+# game/characters/succubi/a/talk.rpy:330
 translate polish talk_SuccubusA_bj69_951806cb:
 
     # succA "Ahmm~"
     succA "Ahmm~"
 
-# game/characters/succubi/a/talk.rpy:352
+# game/characters/succubi/a/talk.rpy:331
 translate polish talk_SuccubusA_bj69_4ac893c6:
 
     # succA "Ahhnm~"
     succA "Ahhnm~"
 
-# game/characters/succubi/a/talk.rpy:353
+# game/characters/succubi/a/talk.rpy:332
 translate polish talk_SuccubusA_bj69_c8b1d9e2:
 
-    # "Her soft tongue dances around your shaft, you've reached unexplainable levels of ectasy."
-    "Her soft tongue dances around your shaft, you've reached unexplainable levels of ectasy."
+    # "Her soft tongue dances around your shaft, you've reached unexplainable levels of ecstasy." id talk_SuccubusA_bj69_c8b1d9e2
+    "Her soft tongue dances around your shaft, you've reached unexplainable levels of ecstasy." id talk_SuccubusA_bj69_c8b1d9e2
 
-# game/characters/succubi/a/talk.rpy:363
+# game/characters/succubi/a/talk.rpy:336
 translate polish talk_SuccubusA_bj69_166d9144:
 
     # me "Ahh!"
     me "Ahh!"
 
-# game/characters/succubi/a/talk.rpy:364
+# game/characters/succubi/a/talk.rpy:337
 translate polish talk_SuccubusA_bj69_680e0922:
 
     # "You thought it couldn't possibly be any better. She quickly corrects that notion."
     "You thought it couldn't possibly be any better. She quickly corrects that notion."
 
-# game/characters/succubi/a/talk.rpy:365
+# game/characters/succubi/a/talk.rpy:338
 translate polish talk_SuccubusA_bj69_d90b06dc:
 
     # "Not wanting to be indebted, your tongue enters inside of her as deep as possible."
     "Not wanting to be indebted, your tongue enters inside of her as deep as possible."
 
-# game/characters/succubi/a/talk.rpy:366
+# game/characters/succubi/a/talk.rpy:339
 translate polish talk_SuccubusA_bj69_3757a34c:
 
     # succA "Mggmmhmh~"
     succA "Mggmmhmh~"
 
-# game/characters/succubi/a/talk.rpy:367
+# game/characters/succubi/a/talk.rpy:340
 translate polish talk_SuccubusA_bj69_04c216dd:
 
     # "Her muffled moans show that she appreciates your hard work on her pussy."
     "Her muffled moans show that she appreciates your hard work on her pussy."
 
-# game/characters/succubi/a/talk.rpy:370
+# game/characters/succubi/a/talk.rpy:343
 translate polish talk_SuccubusA_bj69_48774259:
 
     # "Feeling you're cumming she takes you whole, you feel your dick going deep down her throat."
     "Feeling you're cumming she takes you whole, you feel your dick going deep down her throat."
 
-# game/characters/succubi/a/talk.rpy:371
+# game/characters/succubi/a/talk.rpy:344
 translate polish talk_SuccubusA_bj69_a22eb0aa:
 
     # me "Ahhh!"
     me "Ahhh!"
 
-# game/characters/succubi/a/talk.rpy:372
+# game/characters/succubi/a/talk.rpy:345
 translate polish talk_SuccubusA_bj69_3a560bf7:
 
     # "Your orgasm didn't keep your tongue from her lips for long."
     "Your orgasm didn't keep your tongue from her lips for long."
 
-# game/characters/succubi/a/talk.rpy:373
+# game/characters/succubi/a/talk.rpy:346
 translate polish talk_SuccubusA_bj69_776aaa3d:
 
     # me "Your turn."
     me "Your turn."
 
-# game/characters/succubi/a/talk.rpy:376
+# game/characters/succubi/a/talk.rpy:349
 translate polish talk_SuccubusA_bj69_c1dc0d1d:
 
     # succA "Ahmhnn!!"
     succA "Ahmhnn!!"
 
-# game/characters/succubi/a/talk.rpy:378
+# game/characters/succubi/a/talk.rpy:351
 translate polish talk_SuccubusA_bj69_2b5de976:
 
-    # "She's screaming in ectasy with your cum dripping from her mouth."
-    "She's screaming in ectasy with your cum dripping from her mouth."
+    # "She's screaming in ecstasy with your cum dripping from her mouth." id talk_SuccubusA_bj69_2b5de976
+    "She's screaming in ecstasy with your cum dripping from her mouth." id talk_SuccubusA_bj69_2b5de976
 
-# game/characters/succubi/a/talk.rpy:379
+# game/characters/succubi/a/talk.rpy:352
 translate polish talk_SuccubusA_bj69_f8121732:
 
     # succA "[succA_master]!!"
     succA "[succA_master]!!"
 
-# game/characters/succubi/a/talk.rpy:385
+# game/characters/succubi/a/talk.rpy:361
 translate polish talk_SuccubusA_bj69_bc4a1961:
 
     # succA "Sooo gooood~"
     succA "Sooo gooood~"
 
-# game/characters/succubi/a/talk.rpy:386
+# game/characters/succubi/a/talk.rpy:362
 translate polish talk_SuccubusA_bj69_26c62502:
 
     # me "It seems you're quite happy."
     me "It seems you're quite happy."
 
-# game/characters/succubi/a/talk.rpy:387
+# game/characters/succubi/a/talk.rpy:363
 translate polish talk_SuccubusA_bj69_7ad4499e:
 
-    # succA "Mm~ You know how to treaure your toy, [succA_master]."
-    succA "Mm~ You know how to treaure your toy, [succA_master]."
+    # succA "Mm~ You know how to treasure your toy, [succA_master]." id talk_SuccubusA_bj69_7ad4499e
+    succA "Mm~ You know how to treasure your toy, [succA_master]." id talk_SuccubusA_bj69_7ad4499e
 
-# game/characters/succubi/a/talk.rpy:388
+# game/characters/succubi/a/talk.rpy:364
 translate polish talk_SuccubusA_bj69_f2073bfb:
 
     # "You two lie like this for half an hour."
     "You two lie like this for half an hour."
 
-# game/characters/succubi/a/talk.rpy:389
+# game/characters/succubi/a/talk.rpy:365
 translate polish talk_SuccubusA_bj69_f732a5ee:
 
     # "*Snore*"
     "*Snore*"
 
-# game/characters/succubi/a/talk.rpy:390
+# game/characters/succubi/a/talk.rpy:366
 translate polish talk_SuccubusA_bj69_3820771a:
 
     # me "..."
     me "..."
 
-# game/characters/succubi/a/talk.rpy:391
+# game/characters/succubi/a/talk.rpy:367
 translate polish talk_SuccubusA_bj69_6e77ea9a:
 
     # me "Get up. We need to go back."
     me "Get up. We need to go back."
 
-# game/characters/succubi/a/talk.rpy:392
+# game/characters/succubi/a/talk.rpy:368
 translate polish talk_SuccubusA_bj69_25aa21a2:
 
     # succA "Wha? Oh, of course [succA_master]. Give me a minute."
     succA "Wha? Oh, of course [succA_master]. Give me a minute."
 
-# game/characters/succubi/a/talk.rpy:393
+# game/characters/succubi/a/talk.rpy:369
 translate polish talk_SuccubusA_bj69_8852db11:
 
     # me "Now."
     me "Now."
 
-# game/characters/succubi/a/talk.rpy:394
+# game/characters/succubi/a/talk.rpy:370
 translate polish talk_SuccubusA_bj69_9975da22:
 
     # succA "Yes, sorry."
     succA "Yes, sorry."
 
-# game/characters/succubi/a/talk.rpy:400
+# game/characters/succubi/a/talk.rpy:376
 translate polish talk_SuccubusA_anal_missionary_552b0064:
 
     # "[succA] lies down and spreads her legs, eagerly waiting for you to fuck her."
     "[succA] lies down and spreads her legs, eagerly waiting for you to fuck her."
 
-# game/characters/succubi/a/talk.rpy:401
+# game/characters/succubi/a/talk.rpy:377
 translate polish talk_SuccubusA_anal_missionary_df668511:
 
     # succA "Umm, can you fuck me, please?"
     succA "Umm, can you fuck me, please?"
 
-# game/characters/succubi/a/talk.rpy:402
+# game/characters/succubi/a/talk.rpy:378
 translate polish talk_SuccubusA_anal_missionary_ccbed107:
 
     # succA "Let's fuck like savages, [succA_master]. Fuck me hard."
     succA "Let's fuck like savages, [succA_master]. Fuck me hard."
 
-# game/characters/succubi/a/talk.rpy:412
+# game/characters/succubi/a/talk.rpy:382
 translate polish talk_SuccubusA_anal_missionary_aa96c22f:
 
     # succA "Ahhh~"
     succA "Ahhh~"
 
-# game/characters/succubi/a/talk.rpy:413
+# game/characters/succubi/a/talk.rpy:383
 translate polish talk_SuccubusA_anal_missionary_d05fc634:
 
     # me "You don't need to repeat yourself."
     me "You don't need to repeat yourself."
 
-# game/characters/succubi/a/talk.rpy:414
+# game/characters/succubi/a/talk.rpy:384
 translate polish talk_SuccubusA_anal_missionary_0ada9ff4:
 
     # succA "Ahaha~ Fuck me! I love it!"
     succA "Ahaha~ Fuck me! I love it!"
 
-# game/characters/succubi/a/talk.rpy:415
+# game/characters/succubi/a/talk.rpy:385
 translate polish talk_SuccubusA_anal_missionary_588947f4:
 
     # me "We've just began and you've already lost it?"
     me "We've just began and you've already lost it?"
 
-# game/characters/succubi/a/talk.rpy:416
+# game/characters/succubi/a/talk.rpy:386
 translate polish talk_SuccubusA_anal_missionary_79b21271:
 
     # succA "Yes! Deeper! Harder!"
     succA "Yes! Deeper! Harder!"
 
-# game/characters/succubi/a/talk.rpy:426
+# game/characters/succubi/a/talk.rpy:390
 translate polish talk_SuccubusA_anal_missionary_b092929b:
 
     # succA "Thank you!~"
     succA "Thank you!~"
 
-# game/characters/succubi/a/talk.rpy:427
+# game/characters/succubi/a/talk.rpy:391
 translate polish talk_SuccubusA_anal_missionary_101d6c55:
 
     # me "Shit, you're one unquenchable bitch, aren't you."
     me "Shit, you're one unquenchable bitch, aren't you."
 
-# game/characters/succubi/a/talk.rpy:428
+# game/characters/succubi/a/talk.rpy:392
 translate polish talk_SuccubusA_anal_missionary_475de97b:
 
     # succA "Yess~ I'm your little bitch, so fuck me [succA_master]~ Fuck me!"
     succA "Yess~ I'm your little bitch, so fuck me [succA_master]~ Fuck me!"
 
-# game/characters/succubi/a/talk.rpy:438
+# game/characters/succubi/a/talk.rpy:396
 translate polish talk_SuccubusA_anal_missionary_db5e3da4:
 
     # succA "Ahhm~"
     succA "Ahhm~"
 
-# game/characters/succubi/a/talk.rpy:439
+# game/characters/succubi/a/talk.rpy:397
 translate polish talk_SuccubusA_anal_missionary_83c1442b:
 
     # succA "More~ More~ More~"
     succA "More~ More~ More~"
 
-# game/characters/succubi/a/talk.rpy:440
+# game/characters/succubi/a/talk.rpy:398
 translate polish talk_SuccubusA_anal_missionary_8b4efb19:
 
     # me "Holy shit, if you continue moaning like that I'll cum right now.."
     me "Holy shit, if you continue moaning like that I'll cum right now.."
 
-# game/characters/succubi/a/talk.rpy:441
+# game/characters/succubi/a/talk.rpy:399
 translate polish talk_SuccubusA_anal_missionary_926e855a:
 
     # succA "Noo! Don't cum, fuck me more~! Please, fuck me more!"
     succA "Noo! Don't cum, fuck me more~! Please, fuck me more!"
 
-# game/characters/succubi/a/talk.rpy:451
+# game/characters/succubi/a/talk.rpy:403
 translate polish talk_SuccubusA_anal_missionary_2bdae3d6:
 
     # "Her moans don't help, you're on the edge and you'll cum in no time."
     "Her moans don't help, you're on the edge and you'll cum in no time."
 
-# game/characters/succubi/a/talk.rpy:452
+# game/characters/succubi/a/talk.rpy:404
 translate polish talk_SuccubusA_anal_missionary_c8418daf:
 
     # me "Ahh."
     me "Ahh."
 
-# game/characters/succubi/a/talk.rpy:453
+# game/characters/succubi/a/talk.rpy:405
 translate polish talk_SuccubusA_anal_missionary_90977ec3:
 
     # succA "Mnnm!~"
     succA "Mnnm!~"
 
-# game/characters/succubi/a/talk.rpy:454
+# game/characters/succubi/a/talk.rpy:406
 translate polish talk_SuccubusA_anal_missionary_b5ceda6b:
 
     # me "I can't hold it anymore!"
     me "I can't hold it anymore!"
 
-# game/characters/succubi/a/talk.rpy:455
+# game/characters/succubi/a/talk.rpy:407
 translate polish talk_SuccubusA_anal_missionary_3417023e:
 
     # succA "Fill me, [succA_master]!!"
     succA "Fill me, [succA_master]!!"
 
-# game/characters/succubi/a/talk.rpy:462
+# game/characters/succubi/a/talk.rpy:416
 translate polish talk_SuccubusA_anal_missionary_951806cb:
 
     # succA "Ahmm~"
     succA "Ahmm~"
 
-# game/characters/succubi/a/talk.rpy:463
+# game/characters/succubi/a/talk.rpy:417
 translate polish talk_SuccubusA_anal_missionary_166d9144:
 
     # me "Ahh!"
     me "Ahh!"
 
-# game/characters/succubi/a/talk.rpy:466
+# game/characters/succubi/a/talk.rpy:420
 translate polish talk_SuccubusA_anal_missionary_fbe648cf:
 
     # "You're both tired after cumming."
     "You're both tired after cumming."
 
-# game/characters/succubi/a/talk.rpy:467
+# game/characters/succubi/a/talk.rpy:421
 translate polish talk_SuccubusA_anal_missionary_d13e57e1:
 
     # succA "It was sooo goood.."
     succA "It was sooo goood.."
 
-# game/characters/succubi/a/talk.rpy:468
+# game/characters/succubi/a/talk.rpy:422
 translate polish talk_SuccubusA_anal_missionary_f603b43f:
 
     # succA "You're the best, [succA_master]."
     succA "You're the best, [succA_master]."
 
-# game/characters/succubi/a/talk.rpy:471
+# game/characters/succubi/a/talk.rpy:425
 translate polish talk_SuccubusA_anal_missionary_b087646b:
 
     # me "Stand up, we need to go back."
     me "Stand up, we need to go back."
 
-# game/characters/succubi/a/talk.rpy:472
+# game/characters/succubi/a/talk.rpy:426
 translate polish talk_SuccubusA_anal_missionary_84122898:
 
     # succA "Mm~"
     succA "Mm~"
 
-# game/characters/succubi/a/talk.rpy:473
+# game/characters/succubi/a/talk.rpy:427
 translate polish talk_SuccubusA_anal_missionary_6189071e:
 
     # succA "Just a while longer."
     succA "Just a while longer."
 
-# game/characters/succubi/a/talk.rpy:474
+# game/characters/succubi/a/talk.rpy:428
 translate polish talk_SuccubusA_anal_missionary_36af0eb9:
 
     # "You give her a while to rest."
     "You give her a while to rest."
 
-# game/characters/succubi/a/talk.rpy:482
+# game/characters/succubi/a/talk.rpy:436
 translate polish talk_SuccubusA_anal_missionary_2f3d23c6:
 
     # "You are cumming!"
     "You are cumming!"
 
-# game/characters/succubi/a/talk.rpy:483
+# game/characters/succubi/a/talk.rpy:437
 translate polish talk_SuccubusA_anal_missionary_166d9144_1:
 
     # me "Ahh!"
     me "Ahh!"
 
-# game/characters/succubi/a/talk.rpy:486
+# game/characters/succubi/a/talk.rpy:440
 translate polish talk_SuccubusA_anal_missionary_d13e57e1_1:
 
     # succA "It was sooo goood.."
     succA "It was sooo goood.."
 
-# game/characters/succubi/a/talk.rpy:487
+# game/characters/succubi/a/talk.rpy:441
 translate polish talk_SuccubusA_anal_missionary_8e951ab6:
 
     # succA "You're the best, [succA_master]~"
     succA "You're the best, [succA_master]~"
 
-# game/characters/succubi/a/talk.rpy:490
+# game/characters/succubi/a/talk.rpy:444
 translate polish talk_SuccubusA_anal_missionary_b087646b_1:
 
     # me "Stand up, we need to go back."
     me "Stand up, we need to go back."
 
-# game/characters/succubi/a/talk.rpy:491
+# game/characters/succubi/a/talk.rpy:445
 translate polish talk_SuccubusA_anal_missionary_84122898_1:
 
     # succA "Mm~"
     succA "Mm~"
 
-# game/characters/succubi/a/talk.rpy:492
+# game/characters/succubi/a/talk.rpy:446
 translate polish talk_SuccubusA_anal_missionary_6189071e_1:
 
     # succA "Just a while longer."
     succA "Just a while longer."
 
-# game/characters/succubi/a/talk.rpy:493
+# game/characters/succubi/a/talk.rpy:447
 translate polish talk_SuccubusA_anal_missionary_36af0eb9_1:
 
     # "You give her a while to rest."
     "You give her a while to rest."
 
-# game/characters/succubi/a/talk.rpy:506
+# game/characters/succubi/a/talk.rpy:458
 translate polish talk_SuccubusA_end_64e5ff43:
 
     # succA "I'm ready to go back, [succA_master]."
     succA "I'm ready to go back, [succA_master]."
 
-# game/characters/succubi/a/talk.rpy:507
+# game/characters/succubi/a/talk.rpy:459
 translate polish talk_SuccubusA_end_45bb1cef:
 
     # me "Great. Didn't you forget about something?"
     me "Great. Didn't you forget about something?"
 
-# game/characters/succubi/a/talk.rpy:512
+# game/characters/succubi/a/talk.rpy:463
 translate polish talk_SuccubusA_end_39e0b862:
 
     # succA "Thank you [succA_master]. I love you. You're the best."
     succA "Thank you [succA_master]. I love you. You're the best."
 
-# game/characters/succubi/a/talk.rpy:513
+# game/characters/succubi/a/talk.rpy:464
 translate polish talk_SuccubusA_end_da7b0846:
 
     # me "Good girl. Let's go back."
     me "Good girl. Let's go back."
 
-# game/characters/succubi/a/talk.rpy:519
+# game/characters/succubi/a/talk.rpy:469
 translate polish talk_SuccubusA_end_b800c362:
 
     # succA "Thank you for taking me back, [succA_master]. Can I get a kiss?"
     succA "Thank you for taking me back, [succA_master]. Can I get a kiss?"
 
-# game/characters/succubi/a/talk.rpy:526
+# game/characters/succubi/a/talk.rpy:475
 translate polish talk_SuccubusA_end_1f785fd6:
 
     # "You kiss her passionately, her tongue instantly enters your mouth."
     "You kiss her passionately, her tongue instantly enters your mouth."
 
-# game/characters/succubi/a/talk.rpy:527
+# game/characters/succubi/a/talk.rpy:476
 translate polish talk_SuccubusA_end_5c564adc:
 
     # succA "Mnnn~"
     succA "Mnnn~"
 
-# game/characters/succubi/a/talk.rpy:533
+# game/characters/succubi/a/talk.rpy:481
 translate polish talk_SuccubusA_end_fa282ea0:
 
     # succA "Thank you so much [succA_master]!"
     succA "Thank you so much [succA_master]!"
 
-# game/characters/succubi/a/talk.rpy:537
+# game/characters/succubi/a/talk.rpy:486
 translate polish talk_SuccubusA_end_6e50d3ef:
 
     # me "No."
     me "No."
 
-# game/characters/succubi/a/talk.rpy:540
+# game/characters/succubi/a/talk.rpy:490
 translate polish talk_SuccubusA_end_0656d65d:
 
     # succA "Oh.. Of course, [succA_master]."
     succA "Oh.. Of course, [succA_master]."
 
-# game/characters/succubi/a/talk.rpy:553
+# game/characters/succubi/a/talk.rpy:500
 translate polish talk_SuccubusA_end_cell_3cf182fa:
 
     # me "Shit, that was good.."
     me "Shit, that was good.."
 
-# game/characters/succubi/a/talk.rpy:554
+# game/characters/succubi/a/talk.rpy:501
 translate polish talk_SuccubusA_end_cell_10b5eacc:
 
     # succA "[succA_master], let's fuck again."
     succA "[succA_master], let's fuck again."
 
-# game/characters/succubi/a/talk.rpy:555
+# game/characters/succubi/a/talk.rpy:502
 translate polish talk_SuccubusA_end_cell_cfa3ac3e:
 
     # me "Next time, I'm tired."
     me "Next time, I'm tired."
 
-# game/characters/succubi/a/talk.rpy:560
+# game/characters/succubi/a/talk.rpy:506
 translate polish talk_SuccubusA_end_cell_aeab8843:
 
     # succA "Pleaseeee~"
     succA "Pleaseeee~"
 
-# game/characters/succubi/a/talk.rpy:561
+# game/characters/succubi/a/talk.rpy:507
 translate polish talk_SuccubusA_end_cell_6e50d3ef:
 
     # me "No."
     me "No."
 
-# game/characters/succubi/a/talk.rpy:564
+# game/characters/succubi/a/talk.rpy:510
 translate polish talk_SuccubusA_end_cell_f2b6639f:
 
     # me "And I told you to call me [succA_master]."
     me "And I told you to call me [succA_master]."
 
-# game/characters/succubi/a/talk.rpy:569
+# game/characters/succubi/a/talk.rpy:514
 translate polish talk_SuccubusA_end_cell_4d1b8c78:
 
     # succA "I-I will cry.."
     succA "I-I will cry.."
 
-# game/characters/succubi/a/talk.rpy:570
+# game/characters/succubi/a/talk.rpy:515
 translate polish talk_SuccubusA_end_cell_54ec7033:
 
     # me "Don't you dare cry.."
     me "Don't you dare cry.."
 
-# game/characters/succubi/a/talk.rpy:575
+# game/characters/succubi/a/talk.rpy:519
 translate polish talk_SuccubusA_end_cell_aa274668:
 
     # succA "Please?~ "
     succA "Please?~ "
 
-# game/characters/succubi/a/talk.rpy:579
+# game/characters/succubi/a/talk.rpy:523
 translate polish talk_SuccubusA_end_cell_c976a3a6:
 
     # th "Shit! I can't resist her."
     th "Shit! I can't resist her."
 
-# game/characters/succubi/a/talk.rpy:583
+# game/characters/succubi/a/talk.rpy:527
 translate polish talk_SuccubusA_end_cell_cc93ce23:
 
     # me "I said no."
     me "I said no."
 
-# game/characters/succubi/a/talk.rpy:584
+# game/characters/succubi/a/talk.rpy:528
 translate polish talk_SuccubusA_end_cell_02eb392b:
 
     # succA "Buut.."
     succA "Buut.."
 
-# game/characters/succubi/a/talk.rpy:585
+# game/characters/succubi/a/talk.rpy:529
 translate polish talk_SuccubusA_end_cell_47f414c6:
 
     # "You don't let her finish and leave before she changes your mind."
@@ -1166,63 +1220,63 @@ translate polish talk_SuccubusA_end_cell_47f414c6:
 
 translate polish strings:
 
-    # game/characters/succubi/a/talk.rpy:30
+    # game/characters/succubi/a/talk.rpy:33
     old "Playroom"
     new "Playroom"
 
-    # game/characters/succubi/a/talk.rpy:30
+    # game/characters/succubi/a/talk.rpy:33
+    old "Stop coming to me when you're horny"
+    new "Stop coming to me when you're horny"
+
+    # game/characters/succubi/a/talk.rpy:33
+    old "Come look for me when you're thirsty again"
+    new "Come look for me when you're thirsty again"
+
+    # game/characters/succubi/a/talk.rpy:33
     old "Change names"
     new "Change names"
 
-    # game/characters/succubi/a/talk.rpy:32
+    # game/characters/succubi/a/talk.rpy:35
     old "Threesome with [succB]"
     new "Threesome with [succB]"
 
-    # game/characters/succubi/a/talk.rpy:32
+    # game/characters/succubi/a/talk.rpy:35
     old "Against a wall"
     new "Against a wall"
 
-    # game/characters/succubi/a/talk.rpy:32
-    old "Cowgirl"
-    new "Cowgirl"
-
-    # game/characters/succubi/a/talk.rpy:44
+    # game/characters/succubi/a/talk.rpy:47
     old "69"
     new "69"
 
-    # game/characters/succubi/a/talk.rpy:44
-    old "Wooden Horse"
-    new "Wooden Horse"
-
-    # game/characters/succubi/a/talk.rpy:44
+    # game/characters/succubi/a/talk.rpy:47
     old "Anal Missionary"
     new "Anal Missionary"
 
-    # game/characters/succubi/a/talk.rpy:46
+    # game/characters/succubi/a/talk.rpy:49
     old "Lesbian"
     new "Lesbian"
 
-    # game/characters/succubi/a/talk.rpy:81
+    # game/characters/succubi/a/talk.rpy:119
     old "How she address you ([succA_master])"
     new "How she address you ([succA_master])"
 
-    # game/characters/succubi/a/talk.rpy:81
+    # game/characters/succubi/a/talk.rpy:119
     old "Her name ([succA])"
     new "Her name ([succA])"
 
-    # game/characters/succubi/a/talk.rpy:289
-    old "Fuck her"
-    new "Fuck her"
-
-    # game/characters/succubi/a/talk.rpy:576
-    old "Fuck her again"
-    new "Fuck her again"
-
-# TODO: Translation updated at 2022-11-13 15:23
-
-translate polish strings:
-
-    # game/characters/succubi/a/talk.rpy:85
+    # game/characters/succubi/a/talk.rpy:122
     old "How should she call you?"
     new "How should she call you?"
+
+    # game/characters/succubi/a/talk.rpy:123
+    old "Master"
+    new "Master"
+
+    # game/characters/succubi/a/talk.rpy:131
+    old "Succubus"
+    new "Succubus"
+
+    # game/characters/succubi/a/talk.rpy:520
+    old "Fuck her again"
+    new "Fuck her again"
 

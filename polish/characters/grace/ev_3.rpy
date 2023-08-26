@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/grace/ev_3.rpy:3
 translate polish grace_3_84233d58:
@@ -84,103 +84,103 @@ translate polish grace_3_51c29516:
     # grace "Of course she is! Mom is the best, nothing could have happened to her!"
     grace "Of course she is! Mom is the best, nothing could have happened to her!"
 
-# game/characters/grace/ev_3.rpy:41
+# game/characters/grace/ev_3.rpy:39
 translate polish grace_3_1_c76c1218:
 
     # grace "But it's been a month already."
     grace "But it's been a month already."
 
-# game/characters/grace/ev_3.rpy:42
+# game/characters/grace/ev_3.rpy:40
 translate polish grace_3_1_3820771a:
 
     # me "..."
     me "..."
 
-# game/characters/grace/ev_3.rpy:43
+# game/characters/grace/ev_3.rpy:41
 translate polish grace_3_1_5c10abe0:
 
     # "You spend a while together looking at the street outside in silence. A few minutes later, [grace] abruptly breaks the silence."
     "You spend a while together looking at the street outside in silence. A few minutes later, [grace] abruptly breaks the silence."
 
-# game/characters/grace/ev_3.rpy:45
+# game/characters/grace/ev_3.rpy:43
 translate polish grace_3_1_7e9f1f37:
 
     # grace "Mom said that I can't go outside alone and Lexi doesn't want to go with me. So.."
     grace "Mom said that I can't go outside alone and Lexi doesn't want to go with me. So.."
 
-# game/characters/grace/ev_3.rpy:46
+# game/characters/grace/ev_3.rpy:44
 translate polish grace_3_1_ab73cf63:
 
     # "As you see her eyes looking at you expectantly, you have a premonition that something bad is about to happen."
     "As you see her eyes looking at you expectantly, you have a premonition that something bad is about to happen."
 
-# game/characters/grace/ev_3.rpy:47
+# game/characters/grace/ev_3.rpy:45
 translate polish grace_3_1_642ef4f7:
 
     # th "Does she want me to go out with her to find her mother? If I disagree she would be sad but I can't agree either."
     th "Does she want me to go out with her to find her mother? If I disagree she would be sad but I can't agree either."
 
-# game/characters/grace/ev_3.rpy:49
+# game/characters/grace/ev_3.rpy:47
 translate polish grace_3_1_4e101807:
 
     # th "Her mother would ruin my life here for sure and I could forget about talking with [grace] again."
     th "Her mother would ruin my life here for sure and I could forget about talking with [grace] again."
 
-# game/characters/grace/ev_3.rpy:52
+# game/characters/grace/ev_3.rpy:50
 translate polish grace_3_1_7cadaf64:
 
     # grace "S-So, if you met her outside can you tell her that I miss her very much?"
     grace "S-So, if you met her outside can you tell her that I miss her very much?"
 
-# game/characters/grace/ev_3.rpy:53
+# game/characters/grace/ev_3.rpy:51
 translate polish grace_3_1_ea986f7b:
 
     # th "Uhh.. It seems I was worried for nothing."
     th "Uhh.. It seems I was worried for nothing."
 
-# game/characters/grace/ev_3.rpy:54
+# game/characters/grace/ev_3.rpy:52
 translate polish grace_3_1_6419bba8:
 
     # me "Sure [grace] I'll tell her if I ever meet her!"
     me "Sure [grace] I'll tell her if I ever meet her!"
 
-# game/characters/grace/ev_3.rpy:57
+# game/characters/grace/ev_3.rpy:55
 translate polish grace_3_1_442f607d:
 
     # grace "Thank you!"
     grace "Thank you!"
 
-# game/characters/grace/ev_3.rpy:59
+# game/characters/grace/ev_3.rpy:57
 translate polish grace_3_1_f1d0f6c4:
 
     # "[grace] throws herself at you like a child with a new toy, full of innocence and expectation."
     "[grace] throws herself at you like a child with a new toy, full of innocence and expectation."
 
-# game/characters/grace/ev_3.rpy:61
+# game/characters/grace/ev_3.rpy:59
 translate polish grace_3_1_e17e84eb:
 
     # "The hug took only a brief moment as she seemed to realize something and looked at you with all seriousness she could muster under her excitement."
     "The hug took only a brief moment as she seemed to realize something and looked at you with all seriousness she could muster under her excitement."
 
-# game/characters/grace/ev_3.rpy:62
+# game/characters/grace/ev_3.rpy:60
 translate polish grace_3_1_8083abc2:
 
     # grace "But you're still not getting into my panties!"
     grace "But you're still not getting into my panties!"
 
-# game/characters/grace/ev_3.rpy:63
+# game/characters/grace/ev_3.rpy:61
 translate polish grace_3_1_56c6a2af:
 
     # me "Sure, have it your way [grace]."
     me "Sure, have it your way [grace]."
 
-# game/characters/grace/ev_3.rpy:66
+# game/characters/grace/ev_3.rpy:64
 translate polish grace_3_1_b25b848b:
 
     # th "For now."
     th "For now."
 
-# game/characters/grace/ev_3.rpy:67
+# game/characters/grace/ev_3.rpy:65
 translate polish grace_3_1_1be3b7d3:
 
     # "You turn around and leave her to her own thoughts."
@@ -199,10 +199,6 @@ translate polish strings:
     # game/characters/grace/ev_3.rpy:18
     old "I'm sure she's alright"
     new "I'm sure she's alright"
-
-# TODO: Translation updated at 2022-01-31 15:20
-
-translate polish strings:
 
     # game/characters/grace/ev_3.rpy:49
     old "She wants me to convey her words to her mother if I were to encounter her outside."

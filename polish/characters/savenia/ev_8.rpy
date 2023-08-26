@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-31 15:20
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/savenia/ev_8.rpy:35
 translate polish savenia_8_36c0a7a5:
@@ -355,10 +355,6 @@ translate polish savenia_8_cum_be7aa58b:
     me "...."
 
 translate polish strings:
-
-    # game/characters/savenia/ev_8.rpy:78
-    old "Fuck it, I'm in"
-    new "Fuck it, I'm in"
 
     # game/characters/savenia/ev_8.rpy:78
     old "Let's stop here"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-08-20 13:48
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 # game/characters/little fox/explore/nothing.rpy:5
 translate polish lil_fox_exp_noting_5837027d:

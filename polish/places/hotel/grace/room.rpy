@@ -1,12 +1,10 @@
-﻿# TODO: Translation updated at 2021-05-12 10:09
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
-# game/places/hotel/grace/room.rpy:3
+# game/places/hotel/grace/room.rpy:5
 translate polish room_hotel_grace_d86e264b:
 
     # "It's late so you leave."
     "It's late so you leave."
-
-# TODO: Translation updated at 2022-08-20 13:48
 
 # game/places/hotel/grace/room.rpy:9
 translate polish room_hotel_grace_3f723f72:

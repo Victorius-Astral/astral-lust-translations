@@ -1,4 +1,4 @@
-﻿# Translation updated at 2021-07-11 16:45
+﻿# TODO: Translation updated at 2023-08-19 18:18
 
 translate polish strings:
 
@@ -6,18 +6,3 @@ translate polish strings:
     old "{gold}[succA]{/gold}"
     new "{gold}[succA]{/gold}"
 
-    # game/screens/menus/girls/succa.rpy:22
-    old "• {lust}Critical lust: 100{/lust}"
-    new "• {lust}Krytyczne pożądanie: 100{/lust}"
-
-    # game/screens/menus/girls/succa.rpy:33
-    old "• BDSM: "
-    new "• BDSM: "
-
-    # game/screens/menus/girls/succa.rpy:34
-    old "• Orgasm Denial: "
-    new "• Wstrzymywanie Orgazmu: "
-
-    # game/screens/menus/girls/succa.rpy:36
-    old "• Lesbian: "
-    new "• Lesbijskie: "
