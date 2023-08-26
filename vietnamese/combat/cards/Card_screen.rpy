@@ -5,15 +5,14 @@ translate vietnamese strings:
     # game/combat/cards/Card_screen.rpy:324
     old "Play card"
     new "Chơi bài"
-# TODO: Translation updated at 2023-08-04 16:46
+# : Translation updated at 2023-08-04 16:46
 
 translate vietnamese strings:
 
     # game/combat/cards/Card_screen.rpy:225
     old "Evolve"
-    new "Evolve"
+    new "Tiến hóa"
 
     # game/combat/cards/Card_screen.rpy:245
     old " / max"
-    new " / max"
-
+    new " / tối đa"

@@ -396,23 +396,22 @@ translate vietnamese strings:
     # game/combat/battle/tutorial.rpy:79
     old "He's going to attack again.. I fear that he might target me, could you please help me defend? Click on me to select me."
     new "Nó sẽ tấn công thêm lần nữa đấy. em sợ là nó có thể nhắm vào em đấy, anh có thể giúp em phòng thủ được không? Nhấp vào em để chọn em."
-# TODO: Translation updated at 2023-08-04 16:46
+# : Translation updated at 2023-08-04 16:46
 
 translate vietnamese strings:
 
     # game/combat/battle/tutorial.rpy:62
     old "Great! This shield to the left of your health is a block. Each block can block one point of damage. With 5 block the werewolf won't be able to harm you at all!"
-    new "Great! This shield to the left of your health is a block. Each block can block one point of damage. With 5 block the werewolf won't be able to harm you at all!"
+    new "Tuyệt! Lá chắn bên trái máu của anh là một tầng. Mỗi tầng có thể chặn một điểm sát thương. Với 5 tầng, người sói sẽ không thể làm hại anh được nữa!"
 
     # game/combat/battle/tutorial.rpy:92
     old "Great! Thanks for the buff! You must've noticed that some cards will affect enemies, and others the team. The target isn't random."
-    new "Great! Thanks for the buff! You must've noticed that some cards will affect enemies, and others the team. The target isn't random."
+    new "Tuyệt! Cảm ơn vì cái buff! Anh hẳn đã nhận thấy rằng một số thẻ sẽ ảnh hưởng đến kẻ thù và những thẻ khác sẽ ảnh hưởng đến cả đội. Mục tiêu không phải ngẫu nhiên."
 
     # game/combat/battle/tutorial.rpy:94
     old "Targets can be single, or multiple. Read card description carefully to get a full idea about its effect."
-    new "Targets can be single, or multiple. Read card description carefully to get a full idea about its effect."
+    new "Mục tiêu có thể là một hoặc nhiều mục tiêu. Đọc mô tả thẻ cẩn thận để hiểu đầy đủ về tác dụng của nó."
 
     # game/combat/battle/tutorial.rpy:104
     old "The Stab has inflicted a hunter's mark to the enemy. It will deal him +1 damage, with each attack. Hovering over effects will show you what they do."
-    new "The Stab has inflicted a hunter's mark to the enemy. It will deal him +1 damage, with each attack. Hovering over effects will show you what they do."
-
+    new "Đâm đã đính kèm dấu hiệu thợ săn cho kẻ thù. Nó sẽ gây cho hắn +1 sát thương với mỗi đòn tấn công. Di chuột qua các hiệu ứng sẽ cho anh thấy chúng làm gì."
