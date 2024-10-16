@@ -1,256 +1,256 @@
-﻿# TODO: Translation updated at 2024-10-16 04:34
+﻿# TODO: Translation updated at 2024-10-17 01:25
 
 translate polish strings:
 
     # game/screens.rpy:196
     old "CONFIRM"
-    new "POTWIERDŹ{#mtl}{#tl}"
+    new "CONFIRM"
 
     # game/screens.rpy:239
     old "Back"
-    new "Wstecz{#mtl}{#tl}"
+    new "Back"
 
     # game/screens.rpy:240
     old "History"
-    new "Historia{#mtl}{#tl}"
+    new "History"
 
     # game/screens.rpy:241
     old "Skip"
-    new "Pomiń{#mtl}{#tl}"
+    new "Skip"
 
     # game/screens.rpy:242
     old "Auto"
-    new "Auto{#mtl}{#tl}"
+    new "Auto"
 
     # game/screens.rpy:243
     old "Save"
-    new "Zapisz{#mtl}{#tl}"
+    new "Save"
 
     # game/screens.rpy:244
     old "Q.Save"
-    new "Szybki zapis{#mtl}{#tl}"
+    new "Q.Save"
 
     # game/screens.rpy:245
     old "Q.Load"
-    new "Szybkie wczytanie{#mtl}{#tl}"
+    new "Q.Load"
 
     # game/screens.rpy:246
     old "Settings"
-    new "Ustawienia{#mtl}{#tl}"
+    new "Settings"
 
     # game/screens.rpy:295
     old "Load"
-    new "Wczytaj{#mtl}{#tl}"
+    new "Load"
 
     # game/screens.rpy:300
     old "Page {}"
-    new "Strona {}{{#mtl}}{{#tl}}"
+    new "Page {}"
 
     # game/screens.rpy:300
     old "Automatic saves"
-    new "Automatyczne zapisy{#mtl}{#tl}"
+    new "Automatic saves"
 
     # game/screens.rpy:300
     old "Quick saves"
-    new "Szybkie zapisy{#mtl}{#tl}"
+    new "Quick saves"
 
     # game/screens.rpy:342
     old "{#file_time}%A, %B %d %Y, %H:%M"
-    new "{#file_time}%A, %B %d %Y, %H:%M{#mtl}{#tl}"
+    new "{#file_time}%A, %B %d %Y, %H:%M"
 
     # game/screens.rpy:342
     old "empty slot"
-    new "puste miejsce{#mtl}{#tl}"
+    new "empty slot"
 
     # game/screens.rpy:359
     old "<"
-    new "<{#mtl}{#tl}"
+    new "<"
 
     # game/screens.rpy:361
     old "{#auto_page}A"
-    new "{#auto_page}A{#mtl}{#tl}"
+    new "{#auto_page}A"
 
     # game/screens.rpy:364
     old "{#quick_page}Q"
-    new "{#quick_page}Q{#mtl}{#tl}"
+    new "{#quick_page}Q"
 
     # game/screens.rpy:370
     old ">"
-    new ">{#mtl}{#tl}"
+    new ">"
 
     # game/screens.rpy:424
     old "Game"
-    new "Gra{#mtl}{#tl}"
+    new "Game"
 
     # game/screens.rpy:425
     old "Video"
-    new "Wideo{#mtl}{#tl}"
+    new "Video"
 
     # game/screens.rpy:426
     old "Sound"
-    new "Dźwięk{#mtl}{#tl}"
+    new "Sound"
 
     # game/screens.rpy:427
     old "Music"
-    new "Muzyka{#mtl}{#tl}"
+    new "Music"
 
     # game/screens.rpy:431
     old "Mods"
-    new "Mody{#mtl}{#tl}"
+    new "Mods"
 
     # game/screens.rpy:558
     old "The dialogue history is empty."
-    new "Historia dialogu jest pusta.{#mtl}{#tl}"
+    new "The dialogue history is empty."
 
     # game/screens.rpy:619
     old "Help"
-    new "Pomoc{#mtl}{#tl}"
+    new "Help"
 
     # game/screens.rpy:628
     old "Keyboard"
-    new "Klawiatura{#mtl}{#tl}"
+    new "Keyboard"
 
     # game/screens.rpy:629
     old "Mouse"
-    new "Mysz{#mtl}{#tl}"
+    new "Mouse"
 
     # game/screens.rpy:632
     old "Gamepad"
-    new "Gamepad{#mtl}{#tl}"
+    new "Gamepad"
 
     # game/screens.rpy:634
     old "Astral Lust"
-    new "Astral Lust{#mtl}{#tl}"
+    new "Astral Lust"
 
     # game/screens.rpy:648
     old "Enter {#key}"
-    new "Wprowadź {#key}{#mtl}{#tl}"
+    new "Enter {#key}"
 
     # game/screens.rpy:649
     old "Advances dialogue and activates the interface."
-    new "Przechodzi do dialogu i aktywuje interfejs.{#mtl}{#tl}"
+    new "Advances dialogue and activates the interface."
 
     # game/screens.rpy:652
     old "Space"
-    new "Spacja{#mtl}{#tl}"
+    new "Space"
 
     # game/screens.rpy:653
     old "Advances dialogue without selecting choices."
-    new "Przechodzi do dialogu bez wybierania opcji.{#mtl}{#tl}"
+    new "Advances dialogue without selecting choices."
 
     # game/screens.rpy:656
     old "Arrow Keys"
-    new "Klawisze strzałek{#mtl}{#tl}"
+    new "Arrow Keys"
 
     # game/screens.rpy:657
     old "Navigate the interface."
-    new "Nawiguj po interfejsie.{#mtl}{#tl}"
+    new "Navigate the interface."
 
     # game/screens.rpy:660
     old "Escape {#key}"
-    new "Escape {#key}{#mtl}{#tl}"
+    new "Escape {#key}"
 
     # game/screens.rpy:661
     old "Accesses the game menu."
-    new "Dostęp do menu gry.{#mtl}{#tl}"
+    new "Accesses the game menu."
 
     # game/screens.rpy:664
     old "Ctrl"
-    new "Ctrl{#mtl}{#tl}"
+    new "Ctrl"
 
     # game/screens.rpy:665
     old "Skips dialogue while held down."
-    new "Pomija dialog, gdy przytrzymany.{#mtl}{#tl}"
+    new "Skips dialogue while held down."
 
     # game/screens.rpy:668
     old "Tab"
-    new "Tab{#mtl}{#tl}"
+    new "Tab"
 
     # game/screens.rpy:669
     old "Toggles dialogue skipping."
-    new "Przełącza pomijanie dialogu.{#mtl}{#tl}"
+    new "Toggles dialogue skipping."
 
     # game/screens.rpy:672
     old "Page Up"
-    new "Page Up{#mtl}{#tl}"
+    new "Page Up"
 
     # game/screens.rpy:673
     old "Rolls back to earlier dialogue."
-    new "Cofa do wcześniejszego dialogu.{#mtl}{#tl}"
+    new "Rolls back to earlier dialogue."
 
     # game/screens.rpy:676
     old "Page Down"
-    new "Page Down{#mtl}{#tl}"
+    new "Page Down"
 
     # game/screens.rpy:677
     old "Rolls forward to later dialogue."
-    new "Przewija do późniejszego dialogu.{#mtl}{#tl}"
+    new "Rolls forward to later dialogue."
 
     # game/screens.rpy:681
     old "Hides the user interface."
-    new "Ukrywa interfejs użytkownika.{#mtl}{#tl}"
+    new "Hides the user interface."
 
     # game/screens.rpy:685
     old "Takes a screenshot."
-    new "Robi zrzut ekranu.{#mtl}{#tl}"
+    new "Takes a screenshot."
 
     # game/screens.rpy:689
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "Przełącza asystujące {a=https://www.renpy.org/l/voicing}samowypowiadanie{/a}.{#mtl}{#tl}"
+    new "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
 
     # game/screens.rpy:695
     old "Left Click"
-    new "Lewy przycisk myszy{#mtl}{#tl}"
+    new "Left Click"
 
     # game/screens.rpy:699
     old "Middle Click"
-    new "Środkowy przycisk myszy{#mtl}{#tl}"
+    new "Middle Click"
 
     # game/screens.rpy:703
     old "Right Click"
-    new "Prawy przycisk myszy{#mtl}{#tl}"
+    new "Right Click"
 
     # game/screens.rpy:707
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "Kółko myszy do góry\nKliknij stronę cofania{#mtl}{#tl}"
+    new "Mouse Wheel Up\nClick Rollback Side"
 
     # game/screens.rpy:711
     old "Mouse Wheel Down"
-    new "Kółko myszy w dół{#mtl}{#tl}"
+    new "Mouse Wheel Down"
 
     # game/screens.rpy:718
     old "Right Trigger\nA/Bottom Button"
-    new "Prawy spust\nA/Dolny przycisk{#mtl}{#tl}"
+    new "Right Trigger\nA/Bottom Button"
 
     # game/screens.rpy:722
     old "Left Trigger\nLeft Shoulder"
-    new "Lewy spust\nLewe ramię{#mtl}{#tl}"
+    new "Left Trigger\nLeft Shoulder"
 
     # game/screens.rpy:726
     old "Right Shoulder"
-    new "Prawe ramię{#mtl}{#tl}"
+    new "Right Shoulder"
 
     # game/screens.rpy:731
     old "D-Pad, Sticks"
-    new "D-Pad, Gałki{#mtl}{#tl}"
+    new "D-Pad, Sticks"
 
     # game/screens.rpy:735
     old "Start, Guide"
-    new "Start, Przewodnik{#mtl}{#tl}"
+    new "Start, Guide"
 
     # game/screens.rpy:739
     old "Y/Top Button"
-    new "Y/Górny przycisk{#mtl}{#tl}"
+    new "Y/Top Button"
 
     # game/screens.rpy:742
     old "Calibrate"
-    new "Kalibruj{#mtl}{#tl}"
+    new "Calibrate"
 
     # game/screens.rpy:790
     old "Skipping"
-    new "Pomijanie{#mtl}{#tl}"
+    new "Skipping"
 
     # game/screens.rpy:975
     old "Menu"
-    new "Menu{#mtl}{#tl}"
+    new "Menu"
 

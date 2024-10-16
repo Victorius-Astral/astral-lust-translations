@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-10-16 04:34
+﻿# TODO: Translation updated at 2024-10-17 01:25
 
 # game/dlc/black_emperor/events/dreams.rpy:21
 translate polish BE_dream_black_emperor_1e30ef0c:

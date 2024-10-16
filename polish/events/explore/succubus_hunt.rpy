@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-10-16 04:34
+﻿# TODO: Translation updated at 2024-10-17 01:25
 
 # game/events/explore/succubus_hunt.rpy:27
 translate polish succubus_hunt_1959104f:
