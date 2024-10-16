@@ -105,9 +105,8 @@ translate vietnamese strings:
 
     # game/screens/pc/dev_tools.rpy:101
     old "Show all"
-    new "Show all"
+    new "Hiện tất cả"
 
     # game/screens/pc/dev_tools.rpy:137
     old "Test unicode"
     new "Test unicode"
-

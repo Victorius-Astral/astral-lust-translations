@@ -51,11 +51,10 @@ translate vietnamese strings:
     # game/variables/classes/Inventory.rpy:71
     old "Missing {} {}"
     new "Thiếu {} {}"
-# TODO: Translation updated at 2023-08-04 16:46
+# : Translation updated at 2023-08-04 16:46
 
 translate vietnamese strings:
 
     # game/variables/classes/Inventory.rpy:33
     old "Error looting items, unknown item: {}"
-    new "Error looting items, unknown item: {}"
-
+    new "Lỗi Nhặt đồ, đồ không rõ nguồn gốc: {}"

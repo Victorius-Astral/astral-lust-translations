@@ -2404,14 +2404,14 @@ translate vietnamese strings:
 
     # game/characters/alice/speak.rpy:171
     old "Playmate {#visible}"
-    new "Playmate {#visible}"
-# TODO: Translation updated at 2023-08-04 16:46
+    new "Bạn chịch {#visible}"
+# : Translation updated at 2023-08-04 16:46
 
 # game/characters/alice/speak.rpy:198
 translate vietnamese speak_alice_menuev9_15096fb7:
 
     # alice "Get ready for a love bite~"
-    alice "Get ready for a love bite~"
+    alice "Hãy chuẩn bị cho một cú cắn yêu đi~"
 
 # game/characters/alice/speak.rpy:199
 translate vietnamese speak_alice_menuev9_88eab5f5:
@@ -2423,5 +2423,4 @@ translate vietnamese strings:
 
     # game/characters/alice/speak.rpy:171
     old "Vampire {#visible}"
-    new "Vampire {#visible}"
-
+    new "Ma cà rồng {#visible}"

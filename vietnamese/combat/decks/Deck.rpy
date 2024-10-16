@@ -21,11 +21,10 @@ translate vietnamese strings:
     old "{}, {}"
     new "{}, {}"
 
-# TODO: Translation updated at 2023-08-04 16:46
+# : Translation updated at 2023-08-04 16:46
 
 translate vietnamese strings:
 
     # game/combat/decks/Deck.rpy:95
     old "You have reachead a maximum of this card in a single deck! Card evolution might increase the limit."
-    new "You have reachead a maximum of this card in a single deck! Card evolution might increase the limit."
-
+    new "Bạn đã đạt đến mức tối đa của thẻ này trong một bộ bài! Tiến hóa thẻ có thể tăng giới hạn."

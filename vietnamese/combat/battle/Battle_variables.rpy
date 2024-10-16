@@ -40,7 +40,7 @@ translate vietnamese strings:
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Abomination"
-    new "Abomination"
+    new "Biến dị"
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Succubus"
@@ -84,7 +84,7 @@ translate vietnamese strings:
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Horde"
-    new "Horde"
+    new "Bầy đàn"
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Cult of the Black"
@@ -97,11 +97,10 @@ translate vietnamese strings:
     # game/combat/battle/Battle_variables.rpy:82
     old "Deserters"
     new "lính đào ngũ"
-# TODO: Translation updated at 2023-08-04 16:46
+# : Translation updated at 2023-08-04 16:46
 
 translate vietnamese strings:
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Carlson Dojo"
-    new "Carlson Dojo"
-
+    new "võ đường Carlson"

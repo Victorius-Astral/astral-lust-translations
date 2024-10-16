@@ -346,7 +346,7 @@ translate vietnamese lexi_brings_food_69b7980c:
 translate vietnamese lexi_brings_food_7b26a8cb:
 
     # th "Are you a stray dog?"
-    th "Em là chó hoang sao?"
+    th "Em là chó hay gì?"
 
 # game/events/activities/lexi_brings_food.rpy:171
 translate vietnamese lexi_brings_food_0e9b6fb9:

@@ -17,15 +17,14 @@ translate vietnamese strings:
     # game/combat/cards/lists/types.rpy:3
     old "Power"
     new "Năng lực"
-# TODO: Translation updated at 2023-08-04 16:46
+# : Translation updated at 2023-08-04 16:46
 
 translate vietnamese strings:
 
     # game/combat/cards/lists/types.rpy:3
     old "Martial Art"
-    new "Martial Art"
+    new "Võ thuật"
 
     # game/combat/cards/lists/types.rpy:3
     old "Summoning"
-    new "Summoning"
-
+    new "Triệu hồi"

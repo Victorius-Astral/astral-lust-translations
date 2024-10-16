@@ -71,11 +71,10 @@ translate vietnamese strings:
     # game/mods/Sample Mod/sample_mod.rpy:127
     old "Dream - Dancing Stickman"
     new "Giấc mơ - người que quạt chả"
-# TODO: Translation updated at 2023-08-04 16:46
+# : Translation updated at 2023-08-04 16:46
 
 translate vietnamese strings:
 
     # game/mods/Sample Mod/sample_mod.rpy:11
     old "Slice"
-    new "Slice"
-
+    new "Cắt"

@@ -16,11 +16,11 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/tips.rpy:1
     old "{{b}}{{u}}True damage{{/u}}{{/b}}\n{{small}}Hits through {{ef}}Block{{/ef}}, doesn't trigger {{ef}}Thorns{{/ef}}, can harm {{ef}}Invulnerable{{/ef}} beings.{{/small}}"
-    new "{{b}}{{u}}Sát thương chuẩn{{/u}}{{/b}}\n{{small}}Đánh xuyên qua {{ef}}Giáp{{/ef}}, mà không kích hoạt {{ef}}phản đòn{{/ef}}, có thể gây hại cho {{ef}}cả mục tiêu bất khả chiến bại{{/ef}} beings.{{/small}}"
+    new "{{b}}{{u}}Sát thương chuẩn{{/u}}{{/b}}\n{{small}}Đánh xuyên qua {{ef}}Giáp{{/ef}}, mà không kích hoạt {{ef}}phản đòn{{/ef}}, có thể gây hại cho cả mục tiêu {{ef}}bất khả chiến bại{{/ef}}.{{/small}}"
 
     # game/combat/cards/lists/tips.rpy:1
     old "\n________________\n From: {mod_name}"
-    new "\n________________\n From: {mod_name}"
+    new "\n________________\n Từ: {mod_name}"
 
     # game/combat/cards/lists/tips.rpy:1
     old "\n________________\n {{patreon1}}Thank you for support!{{/patreon1}}"
