@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/audio/Sounds.rpy:16
     old "Audio file doesn't exist! Path: {}"
-    new "Audio file doesn't exist! Path: {}"
+    new "Plik audio nie istnieje! Ścieżka: {}{{#mtl}}{{#tl}}"
 
