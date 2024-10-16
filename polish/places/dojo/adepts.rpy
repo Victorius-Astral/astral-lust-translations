@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/places/dojo/adepts.rpy:57
 translate polish speak_adam_fc4bd9e5:
@@ -925,10 +925,6 @@ translate polish strings:
     # game/places/dojo/adepts.rpy:118
     old "What's your sequence?"
     new "What's your sequence?"
-
-    # game/places/dojo/adepts.rpy:118
-    old "< Back"
-    new "< Back"
 
     # game/places/dojo/adepts.rpy:243
     old "Jill"

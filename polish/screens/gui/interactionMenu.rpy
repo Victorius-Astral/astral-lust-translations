@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 translate polish strings:
 
@@ -231,6 +231,10 @@ translate polish strings:
     new "Brothel"
 
     # game/screens/gui/interactionMenu.rpy:76
+    old "Men"
+    new "Men"
+
+    # game/screens/gui/interactionMenu.rpy:76
     old "Main Plaza"
     new "Main Plaza"
 
@@ -246,11 +250,31 @@ translate polish strings:
     old "[rhainda] & [lil_fox]"
     new "[rhainda] & [lil_fox]"
 
-    # game/screens/gui/interactionMenu.rpy:371
+    # game/screens/gui/interactionMenu.rpy:76
+    old "[carlson]"
+    new "[carlson]"
+
+    # game/screens/gui/interactionMenu.rpy:76
+    old "[adam]"
+    new "[adam]"
+
+    # game/screens/gui/interactionMenu.rpy:76
+    old "[amber]"
+    new "[amber]"
+
+    # game/screens/gui/interactionMenu.rpy:76
+    old "[jill]"
+    new "[jill]"
+
+    # game/screens/gui/interactionMenu.rpy:76
+    old "[maric]"
+    new "[maric]"
+
+    # game/screens/gui/interactionMenu.rpy:399
     old "Interact:"
     new "Interact:"
 
-    # game/screens/gui/interactionMenu.rpy:389
+    # game/screens/gui/interactionMenu.rpy:417
     old "*Toggle with '{b}I{/b}' key"
     new "*Toggle with '{b}I{/b}' key"
 

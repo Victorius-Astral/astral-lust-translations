@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/characters/kiara/help.rpy:9
 translate polish kiara_help_bd349d98:

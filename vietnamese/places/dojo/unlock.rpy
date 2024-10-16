@@ -490,5 +490,4 @@ translate vietnamese carlson_dojo_unlock_a74f2358:
 translate vietnamese carlson_dojo_unlock_e8644fe4:
 
     # carlson "{/i}Mm.{/i}"
-    carlson "{/i}Mm.{/i}"
-
+    carlson "{i}Mm.{/i}"

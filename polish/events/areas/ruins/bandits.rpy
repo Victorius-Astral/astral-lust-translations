@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/events/areas/ruins/bandits.rpy:25
 translate polish explore_banditsA_dd0855a5:

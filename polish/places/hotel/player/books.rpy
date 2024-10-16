@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/places/hotel/player/books.rpy:5
 translate polish room_player_books_873b9e9f:

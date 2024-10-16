@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/events/areas/res/house.rpy:10
 translate polish exp_house_e1102e0a:
@@ -89,10 +89,6 @@ translate polish strings:
     # game/events/areas/res/house.rpy:15
     old "Loot the house"
     new "Loot the house"
-
-    # game/events/areas/res/house.rpy:49
-    old "Attack him"
-    new "Attack him"
 
     # game/events/areas/res/house.rpy:49
     old "Can I look around?"

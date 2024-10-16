@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 translate polish strings:
 
@@ -99,6 +99,10 @@ translate polish strings:
     new "She asked me to get 2 ice creams for our date, I should return to her when I get them to arrange a date."
 
     # game/variables/tips.rpy:4
+    old "I'm getting concerned about her mental wellbeing, I should ask her about it."
+    new "I'm getting concerned about her mental wellbeing, I should ask her about it."
+
+    # game/variables/tips.rpy:4
     old "Let's say hello and wait for her to find me."
     new "Let's say hello and wait for her to find me."
 
@@ -159,6 +163,14 @@ translate polish strings:
     new "I need to get vodka for her."
 
     # game/variables/tips.rpy:4
+    old "We could drink again in a few days. I need to find booze."
+    new "We could drink again in a few days. I need to find booze."
+
+    # game/variables/tips.rpy:4
+    old "Her drinking is getting a little off-hand. I wonder when Lexi will start having issues with it."
+    new "Her drinking is getting a little off-hand. I wonder when Lexi will start having issues with it."
+
+    # game/variables/tips.rpy:4
     old "I should prepare before coming out of my room."
     new "I should prepare before coming out of my room."
 
@@ -203,8 +215,8 @@ translate polish strings:
     new "Maybe I should take a day off to chill out in my room from time to time."
 
     # game/variables/tips.rpy:4
-    old "I have a feeling something big is gonna happen soon. (need Alice and Little Fox waiting for progress with other girls)"
-    new "I have a feeling something big is gonna happen soon. (need Alice and Little Fox waiting for progress with other girls)"
+    old "I have a feeling something big is gonna happen soon. (Needs Little Fox, Alice & Rachel storylines progress to a certain point)"
+    new "I have a feeling something big is gonna happen soon. (Needs Little Fox, Alice & Rachel storylines progress to a certain point)"
 
     # game/variables/tips.rpy:4
     old "I should go and say hello."

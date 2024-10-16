@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/characters/mina/ev_15.rpy:5
 translate polish mina_15_254ef8fd:
@@ -211,10 +211,10 @@ translate polish mina_15_part2_6454d8a7:
     me "Do you have glasses?"
 
 # game/characters/mina/ev_15.rpy:83
-translate polish mina_15_part2_20eeb56b:
+translate polish mina_15_part2_6e9f5707:
 
-    # mina "No, I forgot to take them.. Let's just drink directly from the bottle."
-    mina "No, I forgot to take them.. Let's just drink directly from the bottle."
+    # mina "Nope. Let's just drink straight from the bottle."
+    mina "Nope. Let's just drink straight from the bottle."
 
 # game/characters/mina/ev_15.rpy:84
 translate polish mina_15_part2_2a96245d:

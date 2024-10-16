@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/characters/lola/speak.rpy:9
 translate polish speak_lola_71e311ae:

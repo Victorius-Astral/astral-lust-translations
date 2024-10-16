@@ -1,100 +1,100 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/characters/alice/anal_1.rpy:12
 translate polish alice_anal_1_4877092e:
 
     # "You enter her. She's incredibly tight, yet you went in without problem."
-    "Wchodzisz w nią. jest niesamowicie ciasna, ale weszłeś bez problemu.{#mtl}{#tl}"
+    "You enter her. She's incredibly tight, yet you went in without problem."
 
 # game/characters/alice/anal_1.rpy:17
 translate polish alice_anal_1_df37bd7e:
 
     # alice "Mnmm~"
-    alice "Mnmm ~{#mtl}{#tl}"
+    alice "Mnmm~"
 
 # game/characters/alice/anal_1.rpy:18
 translate polish alice_anal_1_ff41d66b:
 
     # me "Fuck! You are tight."
-    me "Kurwa! jesteś ciasna.{#mtl}{#tl}"
+    me "Fuck! You are tight."
 
 # game/characters/alice/anal_1.rpy:24
 translate polish alice_anal_1_007f1501:
 
     # alice "Fuck me~ Fuck me~ I want you soooo much!"
-    alice "Ruchasz się mocniej.{#mtl}{#tl}"
+    alice "Fuck me~ Fuck me~ I want you soooo much!"
 
 # game/characters/alice/anal_1.rpy:29
 translate polish alice_anal_1_7f7259f6:
 
     # "You start moving harder."
-    "Ahh ~{#mtl}{#tl}"
+    "You start moving harder."
 
 # game/characters/alice/anal_1.rpy:33
 translate polish alice_anal_1_117a772e:
 
     # alice "Ahh~"
-    alice "Yeeesss ~{#mtl}{#tl}"
+    alice "Ahh~"
 
 # game/characters/alice/anal_1.rpy:38
 translate polish alice_anal_1_617fc709:
 
     # alice "Yeeesss~"
-    alice "Jej dzikie jęki sprawiają, że twoje pragnienie płonie jeszcze intensywniej.{#mtl}{#tl}"
+    alice "Yeeesss~"
 
 # game/characters/alice/anal_1.rpy:39
 translate polish alice_anal_1_6015a7a4:
 
     # me "Her wild moans make your desire burn even more intensely."
-    me "Czyja jesteś dziewczyną?{#mtl}{#tl}"
+    me "Her wild moans make your desire burn even more intensely."
 
 # game/characters/alice/anal_1.rpy:40
 translate polish alice_anal_1_a91a69ba:
 
     # me "Whose girl are you?"
-    me "Twoją dziewczyną! jestem twoja ~{#mtl}{#tl}"
+    me "Whose girl are you?"
 
 # game/characters/alice/anal_1.rpy:44
 translate polish alice_anal_1_f8d4a858:
 
     # alice "Your girl! I'm yours~"
-    alice "Dobra dziewczyna.{#mtl}{#tl}"
+    alice "Your girl! I'm yours~"
 
 # game/characters/alice/anal_1.rpy:45
 translate polish alice_anal_1_aa93b10c:
 
     # me "Good girl."
-    me "Więcej ~ jeszcze trochę ~{#mtl}{#tl}"
+    me "Good girl."
 
 # game/characters/alice/anal_1.rpy:49
 translate polish alice_anal_1_3d79359c:
 
     # alice "More~ Just a little more~"
-    alice "Ahhh ~{#mtl}{#tl}"
+    alice "More~ Just a little more~"
 
 # game/characters/alice/anal_1.rpy:60
 translate polish alice_anal_1_46acb026:
 
     # "You are cumming together with [alice]!"
-    "Nie czujesz się zmęczony po orgazmie, ale [alice] wydaje się całkowicie wyczerpana.{#mtl}{#tl}"
+    "You are cumming together with [alice]!"
 
 # game/characters/alice/anal_1.rpy:63
 translate polish alice_anal_1_2ec231b7:
 
     # alice "Ahhh~"
-    alice "Wszystko w porządku?{#mtl}{#tl}"
+    alice "Ahhh~"
 
 # game/characters/alice/anal_1.rpy:66
 translate polish alice_anal_1_d0de85e1:
 
     # "You don't feel tired after coming, but [alice] appears absolutely exhausted."
-    "[alice]?{#mtl}{#tl}"
+    "You don't feel tired after coming, but [alice] appears absolutely exhausted."
 
 # game/characters/alice/anal_1.rpy:67
 translate polish alice_anal_1_8b6f0399:
 
     # me "You okay?"
-    me "Wygląda na to, że zasnęła.{#mtl}{#tl}"
+    me "You okay?"
 
 # game/characters/alice/anal_1.rpy:70
 translate polish alice_anal_1_1eda25ab:

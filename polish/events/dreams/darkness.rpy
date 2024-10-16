@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/events/dreams/darkness.rpy:14
 translate polish d_Darkness_1_b62e2976:

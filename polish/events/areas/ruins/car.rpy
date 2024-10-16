@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/events/areas/ruins/car.rpy:3
 translate polish explore_car_a6cc1030:
@@ -24,13 +24,13 @@ translate polish explore_car_ab450b06:
     # "You quickly pack your loot and leave while your luck still persists."
     "You quickly pack your loot and leave while your luck still persists."
 
-# game/events/areas/ruins/car.rpy:19
+# game/events/areas/ruins/car.rpy:20
 translate polish explore_car_200a6b08:
 
     # me "Luck is not on my side today it seems."
     me "Luck is not on my side today it seems."
 
-# game/events/areas/ruins/car.rpy:21
+# game/events/areas/ruins/car.rpy:22
 translate polish explore_car_4d993435:
 
     # "You quickly leave least something finds its way to you."

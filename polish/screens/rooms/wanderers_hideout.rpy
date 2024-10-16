@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 translate polish strings:
 
@@ -34,15 +34,11 @@ translate polish strings:
     old "Cook's Son"
     new "Cook's Son"
 
-    # game/screens/rooms/wanderers_hideout.rpy:39
-    old "The Hunter"
-    new "The Hunter"
-
-    # game/screens/rooms/wanderers_hideout.rpy:41
+    # game/screens/rooms/wanderers_hideout.rpy:42
     old "Man{#wanderer1}"
     new "Man{#wanderer1}"
 
-    # game/screens/rooms/wanderers_hideout.rpy:42
+    # game/screens/rooms/wanderers_hideout.rpy:43
     old "Scavenger{#wanderer1}"
     new "Scavenger{#wanderer1}"
 

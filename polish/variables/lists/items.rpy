@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 translate polish strings:
 
@@ -230,25 +230,25 @@ translate polish strings:
     old "Essentials when it comes to setting up a ritual."
     new "Essentials when it comes to setting up a ritual."
 
-    # game/variables/lists/items.rpy:82
-    old "Antibiotics"
-    new "Antibiotics"
-
-    # game/variables/lists/items.rpy:82
-    old "You can use them to fight sickness. After The End they became rare, and thus valuable."
-    new "You can use them to fight sickness. After The End they became rare, and thus valuable."
-
-    # game/variables/lists/items.rpy:82
-    old "Quest Item"
-    new "Quest Item"
-
-    # game/variables/lists/items.rpy:83
+    # game/variables/lists/items.rpy:80
     old "Rose"
     new "Rose"
 
-    # game/variables/lists/items.rpy:83
+    # game/variables/lists/items.rpy:80
     old "Grace's favorite flower."
     new "Grace's favorite flower."
+
+    # game/variables/lists/items.rpy:83
+    old "Sex Toys"
+    new "Sex Toys"
+
+    # game/variables/lists/items.rpy:83
+    old "Assorted sex toys."
+    new "Assorted sex toys."
+
+    # game/variables/lists/items.rpy:83
+    old "Quest Item"
+    new "Quest Item"
 
     # game/variables/lists/items.rpy:86
     old "Sigil of the Black"
@@ -367,16 +367,8 @@ translate polish strings:
     new "Recover {sanity} sanity."
 
     # game/variables/lists/items.rpy:216
-    old "Vodka"
-    new "Vodka"
-
-    # game/variables/lists/items.rpy:216
     old "Tastes horrible, although it doesn't stop people all over the world to enjoy drinking it."
     new "Tastes horrible, although it doesn't stop people all over the world to enjoy drinking it."
-
-    # game/variables/lists/items.rpy:217
-    old "Wine"
-    new "Wine"
 
     # game/variables/lists/items.rpy:217
     old "A bottle of cheap wine."
@@ -434,71 +426,79 @@ translate polish strings:
     old "You made a pact with 'Him'. You are to return before 'His' unholy visage."
     new "You made a pact with 'Him'. You are to return before 'His' unholy visage."
 
-    # game/variables/lists/items.rpy:274
+    # game/variables/lists/items.rpy:268
+    old "Antibiotics"
+    new "Antibiotics"
+
+    # game/variables/lists/items.rpy:268
+    old "You can use them to fight sickness. After The End they became rare, and thus valuable."
+    new "You can use them to fight sickness. After The End they became rare, and thus valuable."
+
+    # game/variables/lists/items.rpy:276
     old "Gold Key"
     new "Gold Key"
 
-    # game/variables/lists/items.rpy:275
+    # game/variables/lists/items.rpy:277
     old "Artefact Key"
     new "Artefact Key"
 
-    # game/variables/lists/items.rpy:278
+    # game/variables/lists/items.rpy:280
     old "Big Iron Chest"
     new "Big Iron Chest"
 
-    # game/variables/lists/items.rpy:279
+    # game/variables/lists/items.rpy:281
     old "Ancient Chest"
     new "Ancient Chest"
 
-    # game/variables/lists/items.rpy:280
+    # game/variables/lists/items.rpy:282
     old "Ornate Chest"
     new "Ornate Chest"
 
-    # game/variables/lists/items.rpy:281
+    # game/variables/lists/items.rpy:283
     old "Chest of the Great Old Ones"
     new "Chest of the Great Old Ones"
 
-    # game/variables/lists/items.rpy:281
+    # game/variables/lists/items.rpy:283
     old "Can be opened with 5 {}s."
     new "Can be opened with 5 {}s."
 
-    # game/variables/lists/items.rpy:284
+    # game/variables/lists/items.rpy:286
     old "Chocolate Bar"
     new "Chocolate Bar"
 
-    # game/variables/lists/items.rpy:285
+    # game/variables/lists/items.rpy:287
     old "Apple"
     new "Apple"
 
-    # game/variables/lists/items.rpy:286
+    # game/variables/lists/items.rpy:288
     old "Cheese"
     new "Cheese"
 
-    # game/variables/lists/items.rpy:287
+    # game/variables/lists/items.rpy:289
     old "Milk"
     new "Milk"
 
-    # game/variables/lists/items.rpy:288
+    # game/variables/lists/items.rpy:290
     old "Meat"
     new "Meat"
 
-    # game/variables/lists/items.rpy:289
+    # game/variables/lists/items.rpy:291
     old "Pear"
     new "Pear"
 
-    # game/variables/lists/items.rpy:290
+    # game/variables/lists/items.rpy:292
     old "Strawberry"
     new "Strawberry"
 
-    # game/variables/lists/items.rpy:291
+    # game/variables/lists/items.rpy:293
     old "Onion"
     new "Onion"
 
-    # game/variables/lists/items.rpy:292
+    # game/variables/lists/items.rpy:294
     old "Gooseberry"
     new "Gooseberry"
 
-    # game/variables/lists/items.rpy:293
+    # game/variables/lists/items.rpy:295
     old "Cherry"
     new "Cherry"
 

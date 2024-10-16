@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/characters/rachel/ev_7.rpy:9
 translate polish rachel_7_c04e1dc2:

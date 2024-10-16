@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/places/hotel/player/pc.rpy:22
 translate polish pc_no_debug_b13c1e0c:

@@ -1,126 +1,130 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 translate polish strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new "Wyłączono odczyt głosowy.{#mtl}{#tl}"
+    new "Self-voicing disabled."
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new "Włączono odczyt z schowka. {#mtl}{#tl}"
+    new "Clipboard voicing enabled. "
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new "Włączono odczyt głosowy. {#mtl}{#tl}"
+    new "Self-voicing enabled. "
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new "pasek{#mtl}{#tl}"
+    new "bar"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new "wybrany{#mtl}{#tl}"
+    new "selected"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new "widok{#mtl}{#tl}"
+    new "viewport"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new "przewijanie poziome{#mtl}{#tl}"
+    new "horizontal scroll"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new "przewijanie pionowe{#mtl}{#tl}"
+    new "vertical scroll"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new "aktywuj{#mtl}{#tl}"
+    new "activate"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new "dezaktywuj{#mtl}{#tl}"
+    new "deactivate"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
-    new "zwiększ{#mtl}{#tl}"
+    new "increase"
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
-    new "zmniejsz{#mtl}{#tl}"
+    new "decrease"
 
     # renpy/common/00accessibility.rpy:138
     old "Font Override"
-    new "Zastąp czcionkę{#mtl}{#tl}"
+    new "Font Override"
 
     # renpy/common/00accessibility.rpy:142
     old "Default"
-    new "Domyślna{#mtl}{#tl}"
+    new "Default"
 
     # renpy/common/00accessibility.rpy:146
     old "DejaVu Sans"
-    new "Dejavu sans{#mtl}{#tl}"
+    new "DejaVu Sans"
 
     # renpy/common/00accessibility.rpy:150
     old "Opendyslexic"
-    new "Opendyslexic{#mtl}{#tl}"
+    new "Opendyslexic"
 
     # renpy/common/00accessibility.rpy:156
     old "Text Size Scaling"
-    new "Skalowanie rozmiaru tekstu{#mtl}{#tl}"
+    new "Text Size Scaling"
 
     # renpy/common/00accessibility.rpy:162
     old "Reset"
-    new "Resetuj{#mtl}{#tl}"
+    new "Reset"
 
     # renpy/common/00accessibility.rpy:168
     old "Line Spacing Scaling"
-    new "Skalowanie odstępów między wierszami{#mtl}{#tl}"
+    new "Line Spacing Scaling"
 
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
-    new "Tekst o wysokim kontraście{#mtl}{#tl}"
+    new "High Contrast Text"
 
     # renpy/common/00accessibility.rpy:182
     old "Enable"
-    new "Włącz{#mtl}{#tl}"
+    new "Enable"
 
     # renpy/common/00accessibility.rpy:186
     old "Disable"
-    new "Wyłącz{#mtl}{#tl}"
+    new "Disable"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
-    new "Odczyt głosowy{#mtl}{#tl}"
+    new "Self-Voicing"
 
     # renpy/common/00accessibility.rpy:197
     old "Off"
-    new "Wyłącz{#mtl}{#tl}"
+    new "Off"
 
     # renpy/common/00accessibility.rpy:201
     old "Text-to-speech"
-    new "Tekst na mowę{#mtl}{#tl}"
+    new "Text-to-speech"
 
     # renpy/common/00accessibility.rpy:205
     old "Clipboard"
-    new "Schowek{#mtl}{#tl}"
+    new "Clipboard"
 
     # renpy/common/00accessibility.rpy:209
     old "Debug"
-    new "Debugowanie{#mtl}{#tl}"
+    new "Debug"
 
     # renpy/common/00accessibility.rpy:215
+    old "Voice Volume"
+    new "Voice Volume"
+
+    # renpy/common/00accessibility.rpy:223
     old "Self-Voicing Volume Drop"
-    new "Obniż głośność odczytu głosowego{#mtl}{#tl}"
+    new "Self-Voicing Volume Drop"
 
-    # renpy/common/00accessibility.rpy:224
+    # renpy/common/00accessibility.rpy:234
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new "Opcje w tym menu mają na celu poprawę dostępności. niektóre z nich mogą nie działać we wszystkich grach, a niektóre kombinacje opcji mogą uniemożliwić grę. nie jest to problem z grą ani silnikiem. aby uzyskać najlepsze rezultaty przy zmianie czcionek, spróbuj zachować ten sam rozmiar tekstu, jaki był pierwotnie.{#mtl}{#tl}"
+    new "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
 
-    # renpy/common/00accessibility.rpy:229
+    # renpy/common/00accessibility.rpy:239
     old "Return"
-    new "Powrót{#mtl}{#tl}"
+    new "Return"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
@@ -274,577 +278,529 @@ translate polish strings:
     old "{#month_short}Dec"
     new "{#month_short}Dec"
 
-    # renpy/common/00action_file.rpy:250
+    # renpy/common/00action_file.rpy:258
     old "%b %d, %H:%M"
     new "%b %d, %H:%M"
 
-    # renpy/common/00action_file.rpy:364
+    # renpy/common/00action_file.rpy:378
     old "Save slot %s: [text]"
     new "Save slot %s: [text]"
 
-    # renpy/common/00action_file.rpy:445
+    # renpy/common/00action_file.rpy:461
     old "Load slot %s: [text]"
     new "Load slot %s: [text]"
 
-    # renpy/common/00action_file.rpy:498
+    # renpy/common/00action_file.rpy:514
     old "Delete slot [text]"
     new "Delete slot [text]"
 
-    # renpy/common/00action_file.rpy:577
+    # renpy/common/00action_file.rpy:593
     old "File page auto"
     new "File page auto"
 
-    # renpy/common/00action_file.rpy:579
+    # renpy/common/00action_file.rpy:595
     old "File page quick"
     new "File page quick"
 
-    # renpy/common/00action_file.rpy:581
+    # renpy/common/00action_file.rpy:597
     old "File page [text]"
     new "File page [text]"
 
-    # renpy/common/00action_file.rpy:780
+    # renpy/common/00action_file.rpy:796
     old "Next file page."
     new "Next file page."
 
-    # renpy/common/00action_file.rpy:852
+    # renpy/common/00action_file.rpy:868
     old "Previous file page."
     new "Previous file page."
 
-    # renpy/common/00action_file.rpy:913
+    # renpy/common/00action_file.rpy:929
     old "Quick save complete."
     new "Quick save complete."
 
-    # renpy/common/00action_file.rpy:931
+    # renpy/common/00action_file.rpy:944
     old "Quick save."
     new "Quick save."
 
-    # renpy/common/00action_file.rpy:950
+    # renpy/common/00action_file.rpy:963
     old "Quick load."
     new "Quick load."
 
-    # renpy/common/00action_other.rpy:381
+    # renpy/common/00action_other.rpy:383
     old "Language [text]"
     new "Language [text]"
 
-    # renpy/common/00action_other.rpy:703
+    # renpy/common/00action_other.rpy:724
     old "Open [text] directory."
     new "Open [text] directory."
 
-    # renpy/common/00director.rpy:708
+    # renpy/common/00director.rpy:705
     old "The interactive director is not enabled here."
     new "The interactive director is not enabled here."
 
-    # renpy/common/00director.rpy:1481
+    # renpy/common/00director.rpy:1504
     old "⬆"
     new "⬆"
 
-    # renpy/common/00director.rpy:1487
+    # renpy/common/00director.rpy:1510
     old "⬇"
     new "⬇"
 
-    # renpy/common/00director.rpy:1551
+    # renpy/common/00director.rpy:1574
     old "Done"
     new "Done"
 
-    # renpy/common/00director.rpy:1561
+    # renpy/common/00director.rpy:1584
     old "(statement)"
     new "(statement)"
 
-    # renpy/common/00director.rpy:1562
+    # renpy/common/00director.rpy:1585
     old "(tag)"
     new "(tag)"
 
-    # renpy/common/00director.rpy:1563
+    # renpy/common/00director.rpy:1586
     old "(attributes)"
     new "(attributes)"
 
-    # renpy/common/00director.rpy:1564
+    # renpy/common/00director.rpy:1587
     old "(transform)"
     new "(transform)"
 
-    # renpy/common/00director.rpy:1589
+    # renpy/common/00director.rpy:1612
     old "(transition)"
     new "(transition)"
 
-    # renpy/common/00director.rpy:1601
+    # renpy/common/00director.rpy:1624
     old "(channel)"
     new "(channel)"
 
-    # renpy/common/00director.rpy:1602
+    # renpy/common/00director.rpy:1625
     old "(filename)"
     new "(filename)"
 
-    # renpy/common/00director.rpy:1631
+    # renpy/common/00director.rpy:1654
     old "Change"
     new "Change"
 
-    # renpy/common/00director.rpy:1633
+    # renpy/common/00director.rpy:1656
     old "Add"
     new "Add"
 
-    # renpy/common/00director.rpy:1636
+    # renpy/common/00director.rpy:1659
     old "Cancel"
     new "Cancel"
 
-    # renpy/common/00director.rpy:1639
+    # renpy/common/00director.rpy:1662
     old "Remove"
     new "Remove"
 
-    # renpy/common/00director.rpy:1674
+    # renpy/common/00director.rpy:1697
     old "Statement:"
     new "Statement:"
 
-    # renpy/common/00director.rpy:1695
+    # renpy/common/00director.rpy:1718
     old "Tag:"
     new "Tag:"
 
-    # renpy/common/00director.rpy:1711
+    # renpy/common/00director.rpy:1734
     old "Attributes:"
     new "Attributes:"
 
-    # renpy/common/00director.rpy:1729
+    # renpy/common/00director.rpy:1745
+    old "Click to toggle attribute, right click to toggle negative attribute."
+    new "Click to toggle attribute, right click to toggle negative attribute."
+
+    # renpy/common/00director.rpy:1757
     old "Transforms:"
     new "Transforms:"
 
-    # renpy/common/00director.rpy:1748
+    # renpy/common/00director.rpy:1768
+    old "Click to set transform, right click to add to transform list."
+    new "Click to set transform, right click to add to transform list."
+
+    # renpy/common/00director.rpy:1780
     old "Behind:"
     new "Behind:"
 
-    # renpy/common/00director.rpy:1767
+    # renpy/common/00director.rpy:1789
+    old "Click to set, right click to add to behind list."
+    new "Click to set, right click to add to behind list."
+
+    # renpy/common/00director.rpy:1801
     old "Transition:"
     new "Transition:"
 
-    # renpy/common/00director.rpy:1785
+    # renpy/common/00director.rpy:1819
     old "Channel:"
     new "Channel:"
 
-    # renpy/common/00director.rpy:1803
+    # renpy/common/00director.rpy:1837
     old "Audio Filename:"
     new "Audio Filename:"
 
-    # renpy/common/00gui.rpy:445
+    # renpy/common/00gui.rpy:446
     old "Are you sure?"
     new "Are you sure?"
 
-    # renpy/common/00gui.rpy:446
+    # renpy/common/00gui.rpy:447
     old "Are you sure you want to delete this save?"
     new "Are you sure you want to delete this save?"
 
-    # renpy/common/00gui.rpy:447
+    # renpy/common/00gui.rpy:448
     old "Are you sure you want to overwrite your save?"
     new "Are you sure you want to overwrite your save?"
 
-    # renpy/common/00gui.rpy:448
+    # renpy/common/00gui.rpy:449
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
     new "Loading will lose unsaved progress.\nAre you sure you want to do this?"
 
-    # renpy/common/00gui.rpy:449
+    # renpy/common/00gui.rpy:450
     old "Are you sure you want to quit?"
     new "Are you sure you want to quit?"
 
-    # renpy/common/00gui.rpy:450
+    # renpy/common/00gui.rpy:451
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
     new "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
 
-    # renpy/common/00gui.rpy:451
+    # renpy/common/00gui.rpy:452
     old "Are you sure you want to end the replay?"
     new "Are you sure you want to end the replay?"
 
-    # renpy/common/00gui.rpy:452
+    # renpy/common/00gui.rpy:453
     old "Are you sure you want to begin skipping?"
     new "Are you sure you want to begin skipping?"
 
-    # renpy/common/00gui.rpy:453
+    # renpy/common/00gui.rpy:454
     old "Are you sure you want to skip to the next choice?"
     new "Are you sure you want to skip to the next choice?"
 
-    # renpy/common/00gui.rpy:454
+    # renpy/common/00gui.rpy:455
     old "Are you sure you want to skip unseen dialogue to the next choice?"
     new "Are you sure you want to skip unseen dialogue to the next choice?"
 
-    # renpy/common/00keymap.rpy:310
+    # renpy/common/00gui.rpy:456
+    old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+    new "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+
+    # renpy/common/00gui.rpy:457
+    old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+    new "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+
+    # renpy/common/00keymap.rpy:322
     old "Failed to save screenshot as %s."
     new "Failed to save screenshot as %s."
 
-    # renpy/common/00keymap.rpy:322
+    # renpy/common/00keymap.rpy:334
     old "Saved screenshot as %s."
     new "Saved screenshot as %s."
 
-    # renpy/common/00library.rpy:230
+    # renpy/common/00library.rpy:248
     old "Skip Mode"
     new "Skip Mode"
 
-    # renpy/common/00library.rpy:316
+    # renpy/common/00library.rpy:335
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
     new "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
 
-    # renpy/common/00preferences.rpy:259
+    # renpy/common/00preferences.rpy:271
     old "display"
     new "display"
 
-    # renpy/common/00preferences.rpy:271
+    # renpy/common/00preferences.rpy:287
     old "transitions"
     new "transitions"
 
-    # renpy/common/00preferences.rpy:280
+    # renpy/common/00preferences.rpy:296
     old "skip transitions"
     new "skip transitions"
 
-    # renpy/common/00preferences.rpy:282
+    # renpy/common/00preferences.rpy:298
     old "video sprites"
     new "video sprites"
 
-    # renpy/common/00preferences.rpy:291
+    # renpy/common/00preferences.rpy:307
     old "show empty window"
     new "show empty window"
 
-    # renpy/common/00preferences.rpy:300
+    # renpy/common/00preferences.rpy:316
     old "text speed"
     new "text speed"
 
-    # renpy/common/00preferences.rpy:308
+    # renpy/common/00preferences.rpy:324
     old "joystick"
     new "joystick"
 
-    # renpy/common/00preferences.rpy:308
+    # renpy/common/00preferences.rpy:324
     old "joystick..."
     new "joystick..."
 
-    # renpy/common/00preferences.rpy:315
+    # renpy/common/00preferences.rpy:331
     old "skip"
     new "skip"
 
-    # renpy/common/00preferences.rpy:318
+    # renpy/common/00preferences.rpy:334
     old "skip unseen [text]"
     new "skip unseen [text]"
 
-    # renpy/common/00preferences.rpy:323
+    # renpy/common/00preferences.rpy:339
     old "skip unseen text"
     new "skip unseen text"
 
-    # renpy/common/00preferences.rpy:325
+    # renpy/common/00preferences.rpy:341
     old "begin skipping"
     new "begin skipping"
 
-    # renpy/common/00preferences.rpy:329
+    # renpy/common/00preferences.rpy:345
     old "after choices"
     new "after choices"
 
-    # renpy/common/00preferences.rpy:336
+    # renpy/common/00preferences.rpy:352
     old "skip after choices"
     new "skip after choices"
 
-    # renpy/common/00preferences.rpy:338
+    # renpy/common/00preferences.rpy:354
     old "auto-forward time"
     new "auto-forward time"
 
-    # renpy/common/00preferences.rpy:352
+    # renpy/common/00preferences.rpy:368
     old "auto-forward"
     new "auto-forward"
 
-    # renpy/common/00preferences.rpy:359
+    # renpy/common/00preferences.rpy:375
     old "Auto forward"
     new "Auto forward"
 
-    # renpy/common/00preferences.rpy:362
+    # renpy/common/00preferences.rpy:378
     old "auto-forward after click"
     new "auto-forward after click"
 
-    # renpy/common/00preferences.rpy:371
+    # renpy/common/00preferences.rpy:387
     old "automatic move"
     new "automatic move"
 
-    # renpy/common/00preferences.rpy:380
+    # renpy/common/00preferences.rpy:396
     old "wait for voice"
     new "wait for voice"
 
-    # renpy/common/00preferences.rpy:389
+    # renpy/common/00preferences.rpy:405
     old "voice sustain"
     new "voice sustain"
 
-    # renpy/common/00preferences.rpy:398
+    # renpy/common/00preferences.rpy:414
     old "self voicing"
     new "self voicing"
 
-    # renpy/common/00preferences.rpy:407
+    # renpy/common/00preferences.rpy:423
     old "self voicing volume drop"
     new "self voicing volume drop"
 
-    # renpy/common/00preferences.rpy:415
+    # renpy/common/00preferences.rpy:431
     old "clipboard voicing"
     new "clipboard voicing"
 
-    # renpy/common/00preferences.rpy:424
+    # renpy/common/00preferences.rpy:440
     old "debug voicing"
     new "debug voicing"
 
-    # renpy/common/00preferences.rpy:433
+    # renpy/common/00preferences.rpy:449
     old "emphasize audio"
     new "emphasize audio"
 
-    # renpy/common/00preferences.rpy:442
+    # renpy/common/00preferences.rpy:458
     old "rollback side"
     new "rollback side"
 
-    # renpy/common/00preferences.rpy:452
+    # renpy/common/00preferences.rpy:468
     old "gl powersave"
     new "gl powersave"
 
-    # renpy/common/00preferences.rpy:458
+    # renpy/common/00preferences.rpy:474
     old "gl framerate"
     new "gl framerate"
 
-    # renpy/common/00preferences.rpy:461
+    # renpy/common/00preferences.rpy:477
     old "gl tearing"
     new "gl tearing"
 
-    # renpy/common/00preferences.rpy:464
+    # renpy/common/00preferences.rpy:480
     old "font transform"
     new "font transform"
 
-    # renpy/common/00preferences.rpy:467
+    # renpy/common/00preferences.rpy:483
     old "font size"
     new "font size"
 
-    # renpy/common/00preferences.rpy:475
+    # renpy/common/00preferences.rpy:491
     old "font line spacing"
     new "font line spacing"
 
-    # renpy/common/00preferences.rpy:483
+    # renpy/common/00preferences.rpy:499
     old "system cursor"
     new "system cursor"
 
-    # renpy/common/00preferences.rpy:492
+    # renpy/common/00preferences.rpy:508
     old "renderer menu"
     new "renderer menu"
 
-    # renpy/common/00preferences.rpy:495
+    # renpy/common/00preferences.rpy:511
     old "accessibility menu"
     new "accessibility menu"
 
-    # renpy/common/00preferences.rpy:498
+    # renpy/common/00preferences.rpy:514
     old "high contrast text"
     new "high contrast text"
 
-    # renpy/common/00preferences.rpy:507
+    # renpy/common/00preferences.rpy:523
     old "audio when minimized"
     new "audio when minimized"
 
-    # renpy/common/00preferences.rpy:527
+    # renpy/common/00preferences.rpy:532
+    old "audio when unfocused"
+    new "audio when unfocused"
+
+    # renpy/common/00preferences.rpy:541
+    old "web cache preload"
+    new "web cache preload"
+
+    # renpy/common/00preferences.rpy:556
+    old "voice after game menu"
+    new "voice after game menu"
+
+    # renpy/common/00preferences.rpy:575
     old "main volume"
     new "main volume"
 
-    # renpy/common/00preferences.rpy:528
+    # renpy/common/00preferences.rpy:576
     old "music volume"
     new "music volume"
 
-    # renpy/common/00preferences.rpy:529
+    # renpy/common/00preferences.rpy:577
     old "sound volume"
     new "sound volume"
 
-    # renpy/common/00preferences.rpy:530
+    # renpy/common/00preferences.rpy:578
     old "voice volume"
     new "voice volume"
 
-    # renpy/common/00preferences.rpy:531
+    # renpy/common/00preferences.rpy:579
     old "mute main"
     new "mute main"
 
-    # renpy/common/00preferences.rpy:532
+    # renpy/common/00preferences.rpy:580
     old "mute music"
     new "mute music"
 
-    # renpy/common/00preferences.rpy:533
+    # renpy/common/00preferences.rpy:581
     old "mute sound"
     new "mute sound"
 
-    # renpy/common/00preferences.rpy:534
+    # renpy/common/00preferences.rpy:582
     old "mute voice"
     new "mute voice"
 
-    # renpy/common/00preferences.rpy:535
+    # renpy/common/00preferences.rpy:583
     old "mute all"
     new "mute all"
 
-    # renpy/common/00preferences.rpy:616
+    # renpy/common/00preferences.rpy:657
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
     new "Clipboard voicing enabled. Press 'shift+C' to disable."
 
-    # renpy/common/00preferences.rpy:618
+    # renpy/common/00preferences.rpy:659
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
     new "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
 
-    # renpy/common/00preferences.rpy:620
+    # renpy/common/00preferences.rpy:661
     old "Self-voicing enabled. Press 'v' to disable."
     new "Self-voicing enabled. Press 'v' to disable."
 
-    # renpy/common/_compat/gamemenu.rpym:198
-    old "Empty Slot."
-    new "Empty Slot."
+    # renpy/common/00speechbubble.rpy:344
+    old "Speech Bubble Editor"
+    new "Speech Bubble Editor"
 
-    # renpy/common/_compat/gamemenu.rpym:355
-    old "Previous"
-    new "Previous"
+    # renpy/common/00speechbubble.rpy:349
+    old "(hide)"
+    new "(hide)"
 
-    # renpy/common/_compat/gamemenu.rpym:362
-    old "Next"
-    new "Next"
+    # renpy/common/00sync.rpy:70
+    old "Sync downloaded."
+    new "Sync downloaded."
 
-    # renpy/common/_compat/preferences.rpym:428
-    old "Joystick Mapping"
-    new "Joystick Mapping"
+    # renpy/common/00sync.rpy:190
+    old "Could not connect to the Ren'Py Sync server."
+    new "Could not connect to the Ren'Py Sync server."
 
-    # renpy/common/_developer/developer.rpym:38
-    old "Developer Menu"
-    new "Developer Menu"
+    # renpy/common/00sync.rpy:192
+    old "The Ren'Py Sync server timed out."
+    new "The Ren'Py Sync server timed out."
 
-    # renpy/common/_developer/developer.rpym:43
-    old "Interactive Director (D)"
-    new "Interactive Director (D)"
+    # renpy/common/00sync.rpy:194
+    old "An unknown error occurred while connecting to the Ren'Py Sync server."
+    new "An unknown error occurred while connecting to the Ren'Py Sync server."
 
-    # renpy/common/_developer/developer.rpym:45
-    old "Reload Game (Shift+R)"
-    new "Reload Game (Shift+R)"
+    # renpy/common/00sync.rpy:267
+    old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
+    new "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
 
-    # renpy/common/_developer/developer.rpym:47
-    old "Console (Shift+O)"
-    new "Console (Shift+O)"
+    # renpy/common/00sync.rpy:412
+    old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
+    new "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
 
-    # renpy/common/_developer/developer.rpym:49
-    old "Variable Viewer"
-    new "Variable Viewer"
+    # renpy/common/00sync.rpy:431
+    old "The sync ID is not in the correct format."
+    new "The sync ID is not in the correct format."
 
-    # renpy/common/_developer/developer.rpym:51
-    old "Image Location Picker"
-    new "Image Location Picker"
+    # renpy/common/00sync.rpy:451
+    old "The sync could not be decrypted."
+    new "The sync could not be decrypted."
 
-    # renpy/common/_developer/developer.rpym:53
-    old "Filename List"
-    new "Filename List"
+    # renpy/common/00sync.rpy:474
+    old "The sync belongs to a different game."
+    new "The sync belongs to a different game."
 
-    # renpy/common/_developer/developer.rpym:57
-    old "Show Image Load Log (F4)"
-    new "Show Image Load Log (F4)"
+    # renpy/common/00sync.rpy:479
+    old "The sync contains a file with an invalid name."
+    new "The sync contains a file with an invalid name."
 
-    # renpy/common/_developer/developer.rpym:60
-    old "Hide Image Load Log (F4)"
-    new "Hide Image Load Log (F4)"
+    # renpy/common/00sync.rpy:532
+    old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
+    new "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
 
-    # renpy/common/_developer/developer.rpym:63
-    old "Image Attributes"
-    new "Image Attributes"
+    # renpy/common/00sync.rpy:540
+    old "Yes"
+    new "Yes"
 
-    # renpy/common/_developer/developer.rpym:90
-    old "[name] [attributes] (hidden)"
-    new "[name] [attributes] (hidden)"
+    # renpy/common/00sync.rpy:541
+    old "No"
+    new "No"
 
-    # renpy/common/_developer/developer.rpym:94
-    old "[name] [attributes]"
-    new "[name] [attributes]"
+    # renpy/common/00sync.rpy:561
+    old "Enter Sync ID"
+    new "Enter Sync ID"
 
-    # renpy/common/_developer/developer.rpym:143
-    old "Nothing to inspect."
-    new "Nothing to inspect."
+    # renpy/common/00sync.rpy:572
+    old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
+    new "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
 
-    # renpy/common/_developer/developer.rpym:154
-    old "Hide deleted"
-    new "Hide deleted"
+    # renpy/common/00sync.rpy:599
+    old "Sync Success"
+    new "Sync Success"
 
-    # renpy/common/_developer/developer.rpym:154
-    old "Show deleted"
-    new "Show deleted"
+    # renpy/common/00sync.rpy:602
+    old "The Sync ID is:"
+    new "The Sync ID is:"
 
-    # renpy/common/_developer/developer.rpym:278
-    old "Return to the developer menu"
-    new "Return to the developer menu"
+    # renpy/common/00sync.rpy:608
+    old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
+    new "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
 
-    # renpy/common/_developer/developer.rpym:443
-    old "Rectangle: %r"
-    new "Rectangle: %r"
+    # renpy/common/00sync.rpy:612
+    old "Continue"
+    new "Continue"
 
-    # renpy/common/_developer/developer.rpym:448
-    old "Mouse position: %r"
-    new "Mouse position: %r"
-
-    # renpy/common/_developer/developer.rpym:453
-    old "Right-click or escape to quit."
-    new "Right-click or escape to quit."
-
-    # renpy/common/_developer/developer.rpym:485
-    old "Rectangle copied to clipboard."
-    new "Rectangle copied to clipboard."
-
-    # renpy/common/_developer/developer.rpym:488
-    old "Position copied to clipboard."
-    new "Position copied to clipboard."
-
-    # renpy/common/_developer/developer.rpym:506
-    old "Type to filter: "
-    new "Type to filter: "
-
-    # renpy/common/_developer/developer.rpym:633
-    old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-    new "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-
-    # renpy/common/_developer/developer.rpym:637
-    old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-    new "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-
-    # renpy/common/_developer/developer.rpym:647
-    old "✔ "
-    new "✔ "
-
-    # renpy/common/_developer/developer.rpym:650
-    old "✘ "
-    new "✘ "
-
-    # renpy/common/_developer/developer.rpym:655
-    old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-    new "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-
-    # renpy/common/_developer/inspector.rpym:38
-    old "Displayable Inspector"
-    new "Displayable Inspector"
-
-    # renpy/common/_developer/inspector.rpym:61
-    old "Size"
-    new "Size"
-
-    # renpy/common/_developer/inspector.rpym:65
-    old "Style"
-    new "Style"
-
-    # renpy/common/_developer/inspector.rpym:71
-    old "Location"
-    new "Location"
-
-    # renpy/common/_developer/inspector.rpym:122
-    old "Inspecting Styles of [displayable_name!q]"
-    new "Inspecting Styles of [displayable_name!q]"
-
-    # renpy/common/_developer/inspector.rpym:139
-    old "displayable:"
-    new "displayable:"
-
-    # renpy/common/_developer/inspector.rpym:145
-    old "        (no properties affect the displayable)"
-    new "        (no properties affect the displayable)"
-
-    # renpy/common/_developer/inspector.rpym:147
-    old "        (default properties omitted)"
-    new "        (default properties omitted)"
-
-    # renpy/common/_developer/inspector.rpym:185
-    old "<repr() failed>"
-    new "<repr() failed>"
-
-    # renpy/common/_layout/classic_load_save.rpym:170
-    old "a"
-    new "a"
-
-    # renpy/common/_layout/classic_load_save.rpym:179
-    old "q"
-    new "q"
+    # renpy/common/00sync.rpy:634
+    old "Sync Error"
+    new "Sync Error"
 
     # renpy/common/00iap.rpy:219
     old "Contacting App Store\nPlease Wait..."

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 translate polish strings:
 
@@ -30,7 +30,11 @@ translate polish strings:
     old "Wanderer's Hideout"
     new "Wanderer's Hideout"
 
-    # game/screens/systems/exploration.rpy:67
+    # game/screens/systems/exploration.rpy:29
+    old "Path of Destiny"
+    new "Path of Destiny"
+
+    # game/screens/systems/exploration.rpy:83
     old "???"
     new "???"
 

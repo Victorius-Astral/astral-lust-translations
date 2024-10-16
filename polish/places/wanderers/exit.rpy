@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/places/wanderers/exit.rpy:6
 translate polish wanderers_exit_menu1_df3b8a27:

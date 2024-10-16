@@ -1156,7 +1156,7 @@ translate spanish midnight_kiss_part4_a70a3176:
 translate spanish midnight_kiss_part4_37648be1:
 
     # "You sit beside [demeter] after putting your pants on."
-    "Te sientas al lado de [Demeter] después de ponerte los pantalones."
+    "Te sientas al lado de [demeter] después de ponerte los pantalones."
 
 # game/events/explore/midnight_kiss.rpy:580
 translate spanish midnight_kiss_part4_c96bfc2d:

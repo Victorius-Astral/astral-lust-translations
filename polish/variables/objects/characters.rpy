@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 translate polish strings:
 
@@ -61,4 +61,12 @@ translate polish strings:
     # game/variables/objects/characters.rpy:93
     old "Chimera"
     new "Chimera"
+
+    # game/variables/objects/characters.rpy:96
+    old "Psychiatrist"
+    new "Psychiatrist"
+
+    # game/variables/objects/characters.rpy:97
+    old "Alkimakos"
+    new "Alkimakos"
 

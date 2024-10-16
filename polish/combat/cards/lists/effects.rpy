@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 translate polish strings:
 
@@ -27,12 +27,12 @@ translate polish strings:
     new "Heal for x% damage dealt to enemies."
 
     # game/combat/cards/lists/effects.rpy:17
-    old "Regeneration"
-    new "Regeneration"
+    old "Sanity Rending"
+    new "Sanity Rending"
 
     # game/combat/cards/lists/effects.rpy:17
-    old "Each turn heal for {}x health. Decreases by {} after taking damage."
-    new "Each turn heal for {}x health. Decreases by {} after taking damage."
+    old "Each unblocked attack decreases target's sanity by X."
+    new "Each unblocked attack decreases target's sanity by X."
 
     # game/combat/cards/lists/effects.rpy:17
     old "Resurrect"
@@ -119,6 +119,14 @@ translate polish strings:
     new "Attacks deal 1 more damage. When adding {block}Block{/block}, add 1 more. Replaces other stances."
 
     # game/combat/cards/lists/effects.rpy:17
+    old "Split"
+    new "Split"
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Will split into two entities upon true death."
+    new "Will split into two entities upon true death."
+
+    # game/combat/cards/lists/effects.rpy:17
     old "Inner Energy"
     new "Inner Energy"
 
@@ -147,8 +155,8 @@ translate polish strings:
     new "Burning"
 
     # game/combat/cards/lists/effects.rpy:17
-    old "Each turn deals {} damage and decreases Regeneration by {}. Lasts {}x turns."
-    new "Each turn deals {} damage and decreases Regeneration by {}. Lasts {}x turns."
+    old "Each turn deals {} damage and decreases {{trust}}Regeneration{{/trust}} by {}. Lasts {}x turns."
+    new "Each turn deals {} damage and decreases {{trust}}Regeneration{{/trust}} by {}. Lasts {}x turns."
 
     # game/combat/cards/lists/effects.rpy:17
     old "Frail"
@@ -163,8 +171,8 @@ translate polish strings:
     new "Poison"
 
     # game/combat/cards/lists/effects.rpy:17
-    old "Each turn deals {}x damage. +{:.0%} damage if target has Bleeding. Decreases by {} every turn. Negates Regeneration."
-    new "Each turn deals {}x damage. +{:.0%} damage if target has Bleeding. Decreases by {} every turn. Negates Regeneration."
+    old "Each turn deals {}x damage. +{:.0%} damage if target has Bleeding. Decreases by {} every turn. Negates {{trust}}Regeneration{{/trust}}."
+    new "Each turn deals {}x damage. +{:.0%} damage if target has Bleeding. Decreases by {} every turn. Negates {{trust}}Regeneration{{/trust}}."
 
     # game/combat/cards/lists/effects.rpy:17
     old "Stun"
@@ -294,47 +302,71 @@ translate polish strings:
     old "Can't play tarot cards for x turns."
     new "Can't play tarot cards for x turns."
 
-    # game/combat/cards/lists/effects.rpy:286
+    # game/combat/cards/lists/effects.rpy:296
     old "Illusive"
     new "Illusive"
 
-    # game/combat/cards/lists/effects.rpy:286
+    # game/combat/cards/lists/effects.rpy:296
     old "Gain x% Dodge each turn."
     new "Gain x% Dodge each turn."
 
-    # game/combat/cards/lists/effects.rpy:286
+    # game/combat/cards/lists/effects.rpy:296
     old "Spikes"
     new "Spikes"
 
-    # game/combat/cards/lists/effects.rpy:286
+    # game/combat/cards/lists/effects.rpy:296
     old "Gain {}x Thorns every turn."
     new "Gain {}x Thorns every turn."
 
-    # game/combat/cards/lists/effects.rpy:286
+    # game/combat/cards/lists/effects.rpy:296
     old "Gain {}x Strength every turn."
     new "Gain {}x Strength every turn."
 
-    # game/combat/cards/lists/effects.rpy:286
+    # game/combat/cards/lists/effects.rpy:296
     old "Armor"
     new "Armor"
 
-    # game/combat/cards/lists/effects.rpy:286
+    # game/combat/cards/lists/effects.rpy:296
     old "Each turn increase block by {}x."
     new "Each turn increase block by {}x."
 
-    # game/combat/cards/lists/effects.rpy:286
+    # game/combat/cards/lists/effects.rpy:296
     old "Rend"
     new "Rend"
 
-    # game/combat/cards/lists/effects.rpy:286
+    # game/combat/cards/lists/effects.rpy:296
     old "Each unblocked attack inflicts target with x{{bad}}{}{{/bad}}. Lasts till next turn."
     new "Each unblocked attack inflicts target with x{{bad}}{}{{/bad}}. Lasts till next turn."
 
-    # game/combat/cards/lists/effects.rpy:321
+    # game/combat/cards/lists/effects.rpy:296
+    old "Flammable"
+    new "Flammable"
+
+    # game/combat/cards/lists/effects.rpy:296
+    old "Damage caused by {{ef}}{}{{/ef}} doubled."
+    new "Damage caused by {{ef}}{}{{/ef}} doubled."
+
+    # game/combat/cards/lists/effects.rpy:296
+    old "Innate Regeneration"
+    new "Innate Regeneration"
+
+    # game/combat/cards/lists/effects.rpy:296
+    old "Each turn heal for {}x health. {{bad}}{}{{/bad}} halves regeneration."
+    new "Each turn heal for {}x health. {{bad}}{}{{/bad}} halves regeneration."
+
+    # game/combat/cards/lists/effects.rpy:296
+    old "Regeneration"
+    new "Regeneration"
+
+    # game/combat/cards/lists/effects.rpy:296
+    old "Each turn heal for {}x health. Decreases by {} after taking unblocked damage."
+    new "Each turn heal for {}x health. Decreases by {} after taking unblocked damage."
+
+    # game/combat/cards/lists/effects.rpy:349
     old "Dragon's Might"
     new "Dragon's Might"
 
-    # game/combat/cards/lists/effects.rpy:321
+    # game/combat/cards/lists/effects.rpy:349
     old "Each attack inflicts {}x {}, and {}x {}."
     new "Each attack inflicts {}x {}, and {}x {}."
 

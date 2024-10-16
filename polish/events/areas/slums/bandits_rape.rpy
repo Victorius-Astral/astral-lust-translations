@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/events/areas/slums/bandits_rape.rpy:16
 translate polish exp_bandits_rape_149d1468:

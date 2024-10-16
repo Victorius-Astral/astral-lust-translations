@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/characters/mina/tj_1.rpy:30
 translate polish mina_tj_1_dcd97c6e:

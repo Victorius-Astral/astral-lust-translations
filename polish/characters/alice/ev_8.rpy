@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/characters/alice/ev_8.rpy:22
 translate polish alice_8_54226dc9:
@@ -10,7 +10,7 @@ translate polish alice_8_54226dc9:
 translate polish alice_8_05acec03:
 
     # th "I'm lucky as always."
-    th "Może teraz nauczysz się nie podglądać niewinnych, małych dziewcząt jak ja.{#mtl}{#tl}"
+    th "I'm lucky as always."
 
 # game/characters/alice/ev_8.rpy:24
 translate polish alice_8_c063322e:

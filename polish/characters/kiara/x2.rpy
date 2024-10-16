@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/characters/kiara/x2.rpy:22
 translate polish kiara_x2_9392e68d:
@@ -204,33 +204,39 @@ translate polish kiara_x2_cum_0c4e60cf:
     # me "Satisfied?"
     me "Satisfied?"
 
-# game/characters/kiara/x2.rpy:105
+# game/characters/kiara/x2.rpy:108
 translate polish kiara_x2_cum_de8e9977:
 
     # kiara "Yes, what about you?"
     kiara "Yes, what about you?"
 
-# game/characters/kiara/x2.rpy:106
+# game/characters/kiara/x2.rpy:109
 translate polish kiara_x2_cum_53796a65:
 
     # me "Obviously, the whole experience was out of this world."
     me "Obviously, the whole experience was out of this world."
 
-# game/characters/kiara/x2.rpy:110
+# game/characters/kiara/x2.rpy:113
 translate polish kiara_x2_cum_bc4debf1:
 
     # kiara "Hihi. We can do this anytime."
     kiara "Hihi. We can do this anytime."
 
-# game/characters/kiara/x2.rpy:111
+# game/characters/kiara/x2.rpy:114
 translate polish kiara_x2_cum_cd9c33d9:
 
     # me "That's great."
     me "That's great."
 
-# game/characters/kiara/x2.rpy:117
+# game/characters/kiara/x2.rpy:120
 translate polish kiara_x2_cum_41bd298d:
 
     # kiara "I know, come back when you're horny. I'll be happy to have sex again."
     kiara "I know, come back when you're horny. I'll be happy to have sex again."
+
+translate polish strings:
+
+    # game/characters/kiara/x2.rpy:151
+    old "Next"
+    new "Next"
 

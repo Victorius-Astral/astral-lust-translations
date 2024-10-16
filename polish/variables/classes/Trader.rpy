@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 translate polish strings:
 
@@ -6,11 +6,11 @@ translate polish strings:
     old "Trader"
     new "Trader"
 
-    # game/variables/classes/Trader.rpy:350
+    # game/variables/classes/Trader.rpy:354
     old "Relations with {} increased by {:.1f}"
     new "Relations with {} increased by {:.1f}"
 
-    # game/variables/classes/Trader.rpy:357
+    # game/variables/classes/Trader.rpy:361
     old " (MAX)"
     new " (MAX)"
 

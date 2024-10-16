@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/characters/grace/speak.rpy:6
 translate polish speak_grace_fdb4e830:
@@ -16,1089 +16,1089 @@ translate polish speak_grace_1cb97f49:
 translate polish speak_grace_menu_angry_04cf02be:
 
     # grace "Hi."
-    grace "Łatwo! nie chcę cię zranić.{#mtl}{#tl}"
+    grace "Hi."
 
 # game/characters/grace/speak.rpy:25
 translate polish speak_grace_menu_angry_e579606d:
 
     # grace "What do you want?"
-    grace "Nie?{#mtl}{#tl}"
+    grace "What do you want?"
 
-# game/characters/grace/speak.rpy:69
+# game/characters/grace/speak.rpy:66
 translate polish speak_grace_fun_b7b9d3c2:
 
     # me "We need to test vampire outfit again."
-    me "Naprawdę nie, patrz, tu razem mieszkamy, dlaczego miałbym cię skrzywdzić?{#mtl}{#tl}"
+    me "We need to test vampire outfit again."
 
-# game/characters/grace/speak.rpy:72
+# game/characters/grace/speak.rpy:69
 translate polish speak_grace_fun_7402cda2:
 
     # grace "Mm."
-    grace "To chyba ma sens...{#mtl}{#tl}"
+    grace "Mm."
 
-# game/characters/grace/speak.rpy:100
+# game/characters/grace/speak.rpy:97
 translate polish speak_grace_fun_b50ba9c2:
 
     # grace "You are not getting into my panties!"
-    grace "Chyba?{#mtl}{#tl}"
+    grace "You are not getting into my panties!"
 
-# game/characters/grace/speak.rpy:101
+# game/characters/grace/speak.rpy:98
 translate polish speak_grace_fun_3820771a:
 
     # me "..."
     me "..."
 
-# game/characters/grace/speak.rpy:102
+# game/characters/grace/speak.rpy:99
 translate polish speak_grace_fun_bbec7c9c:
 
     # me "It's not that [grace]."
-    me "Tak, nie jestem pewien...{#mtl}{#tl}"
+    me "It's not that [grace]."
 
-# game/characters/grace/speak.rpy:105
+# game/characters/grace/speak.rpy:102
 translate polish speak_grace_fun_4fdef178:
 
     # grace "Then what do you want to ask?"
-    grace "Patrzysz na nią w ciszy, mrugając.{#mtl}{#tl}"
+    grace "Then what do you want to ask?"
 
-# game/characters/grace/speak.rpy:110
+# game/characters/grace/speak.rpy:107
 translate polish speak_grace_fun_c93091b8:
 
     # grace "What is it?"
-    grace "Nie. dlaczego miałbym?{#mtl}{#tl}"
+    grace "What is it?"
 
-# game/characters/grace/speak.rpy:131
+# game/characters/grace/speak.rpy:128
 translate polish speak_grace_menu2_7402cda2:
 
     # grace "Mm."
-    grace "Co w tym takiego złego?{#mtl}{#tl}"
+    grace "Mm."
 
-# game/characters/grace/speak.rpy:154
+# game/characters/grace/speak.rpy:151
 translate polish speak_grace_tasks_006dd55f:
 
     # grace "Why?"
-    grace "Mężczyźni.{#mtl}{#tl}"
+    grace "Why?"
 
-# game/characters/grace/speak.rpy:155
+# game/characters/grace/speak.rpy:152
 translate polish speak_grace_tasks_8cae3884:
 
     # me "Don't think about it, it's not your forte."
-    me "Chyba powinienem się tego spodziewać...{#mtl}{#tl}"
+    me "Don't think about it, it's not your forte."
 
-# game/characters/grace/speak.rpy:159
+# game/characters/grace/speak.rpy:156
 translate polish speak_grace_tasks_4f8c08bc:
 
     # grace "You're mean!"
-    grace "Och... był miły dla mnie od momentu, w którym tu przyjechałam.{#mtl}{#tl}"
+    grace "You're mean!"
 
-# game/characters/grace/speak.rpy:160
+# game/characters/grace/speak.rpy:157
 translate polish speak_grace_tasks_07e3bccf:
 
     # me "Now, now."
-    me "Pozostali już tu byli, więc myślałam, że to dobre miejsce, jeśli mogę uniknąć jacka.{#mtl}{#tl}"
+    me "Now, now."
 
-# game/characters/grace/speak.rpy:164
+# game/characters/grace/speak.rpy:161
 translate polish speak_grace_tasks_75bb3fc1:
 
     # grace "I'm not talking with you!"
-    grace "Czy coś zrobił, czy...?{#mtl}{#tl}"
+    grace "I'm not talking with you!"
 
-# game/characters/grace/speak.rpy:165
+# game/characters/grace/speak.rpy:162
 translate polish speak_grace_tasks_282f3876:
 
     # me "Hahaha!"
-    me "Nie, ale był mężczyzną.{#mtl}{#tl}"
+    me "Hahaha!"
 
-# game/characters/grace/speak.rpy:166
+# game/characters/grace/speak.rpy:163
 translate polish speak_grace_tasks_69b7980c:
 
     # grace "Grr.."
-    grace "Tak podejrzewałem.{#mtl}{#tl}"
+    grace "Grr.."
 
-# game/characters/grace/speak.rpy:175
+# game/characters/grace/speak.rpy:172
 translate polish speak_grace_tasks_379d3df7:
 
     # grace "Are you hungry?"
-    grace "Ale chciałabym, żeby mama też tu została, żeby go poznać...{#mtl}{#tl}"
+    grace "Are you hungry?"
 
-# game/characters/grace/speak.rpy:176
+# game/characters/grace/speak.rpy:173
 translate polish speak_grace_tasks_5661069d:
 
     # me "Yeah, a little bit."
-    me "Co masz na myśli? wiem, że wolałabyś, żeby była tu z tobą, ale żeby go poznać?{#mtl}{#tl}"
+    me "Yeah, a little bit."
 
-# game/characters/grace/speak.rpy:180
+# game/characters/grace/speak.rpy:177
 translate polish speak_grace_tasks_d5e0c168:
 
     # grace "Don't worry. I'll make you a super delicious dinner. You'll be happy."
-    grace "Po prostu myślałam, żeby to było miłe...{#mtl}{#tl}"
+    grace "Don't worry. I'll make you a super delicious dinner. You'll be happy."
 
-# game/characters/grace/speak.rpy:181
+# game/characters/grace/speak.rpy:178
 translate polish speak_grace_tasks_0801ac6d:
 
     # me "Thank you, [grace]."
-    me "Myślisz, że by się polubili?{#mtl}{#tl}"
+    me "Thank you, [grace]."
 
-# game/characters/grace/speak.rpy:182
+# game/characters/grace/speak.rpy:179
 translate polish speak_grace_tasks_e44dad77:
 
     # grace "I'm happy to help with what I can."
-    grace "Myślę, że mama też by go polubiła. no, odpowiadając na twoje pytanie, jack wychodził i zbierał jak lexi.{#mtl}{#tl}"
+    grace "I'm happy to help with what I can."
 
-# game/characters/grace/speak.rpy:198
+# game/characters/grace/speak.rpy:195
 translate polish speak_grace_tasks_7402cda2:
 
     # grace "Mm."
-    grace "A ty nie próbowałeś z nim porozmawiać?{#mtl}{#tl}"
+    grace "Mm."
 
-# game/characters/grace/speak.rpy:204
+# game/characters/grace/speak.rpy:201
 translate polish speak_grace_massage_76adcc2b:
 
     # me "Want me to massage you again?"
-    me "Tylko wtedy, gdy musiałem...{#mtl}{#tl}"
+    me "Want me to massage you again?"
 
-# game/characters/grace/speak.rpy:207
+# game/characters/grace/speak.rpy:204
 translate polish speak_grace_massage_0b272415:
 
     # grace "Yes!"
-    grace "A kiedy to było?{#mtl}{#tl}"
+    grace "Yes!"
 
-# game/characters/grace/speak.rpy:208
+# game/characters/grace/speak.rpy:205
 translate polish speak_grace_massage_45d27aa4:
 
     # th "Haha, look at how happy she is."
-    th "Kiedy gotowałem dla niego. zawsze chwalił moje jedzenie.{#mtl}{#tl}"
+    th "Haha, look at how happy she is."
 
-# game/characters/grace/speak.rpy:212
+# game/characters/grace/speak.rpy:209
 translate polish speak_grace_massage_6d9a637d:
 
     # grace "Go on, what are you waiting for?"
-    grace "To ma sens. zastanawiałem się, jak miał okazję być miły dla ciebie, skoro go unikałeś.{#mtl}{#tl}"
+    grace "Go on, what are you waiting for?"
 
-# game/characters/grace/speak.rpy:213
+# game/characters/grace/speak.rpy:210
 translate polish speak_grace_massage_62db251b:
 
     # me "Eager aren't you?"
-    me "Nie miałem tego na myśli, ale...{#mtl}{#tl}"
+    me "Eager aren't you?"
 
-# game/characters/grace/speak.rpy:214
+# game/characters/grace/speak.rpy:211
 translate polish speak_grace_massage_5cc6eb23:
 
     # grace "Mm. Will it be better if I change?"
-    grace "Był mężczyzną, tak. przynajmniej mógł jeść twoje smakołyki.{#mtl}{#tl}"
+    grace "Mm. Will it be better if I change?"
 
-# game/characters/grace/speak.rpy:220
+# game/characters/grace/speak.rpy:217
 translate polish speak_grace_massage_f1042ef4:
 
     # grace "What should I wear?"
-    grace "Mm.{#mtl}{#tl}"
+    grace "What should I wear?"
 
-# game/characters/grace/speak.rpy:236
+# game/characters/grace/speak.rpy:233
 translate polish speak_grace_fingering_4db6798c:
 
     # grace "Do you have more roses?"
-    grace "Mimo to nie jestem pewien, dlaczego mama zostawiła mnie tu z mężczyzną...{#mtl}{#tl}"
+    grace "Do you have more roses?"
 
-# game/characters/grace/speak.rpy:239
+# game/characters/grace/speak.rpy:236
 translate polish speak_grace_fingering_a64783a6:
 
     # me "I do, do you want it?"
-    me "Tak, to dziwne.{#mtl}{#tl}"
+    me "I do, do you want it?"
 
-# game/characters/grace/speak.rpy:244
+# game/characters/grace/speak.rpy:241
 translate polish speak_grace_fingering_0b272415:
 
     # grace "Yes!"
-    grace "Ale przynajmniej mogłeś poznać dobrego mężczyznę.{#mtl}{#tl}"
+    grace "Yes!"
 
-# game/characters/grace/speak.rpy:249
+# game/characters/grace/speak.rpy:246
 translate polish speak_grace_fingering_83a79eb2:
 
     # grace "In exchange, you can play with my pussy again.."
-    grace "Tak...{#mtl}{#tl}"
+    grace "In exchange, you can play with my pussy again.."
 
-# game/characters/grace/speak.rpy:250
+# game/characters/grace/speak.rpy:247
 translate polish speak_grace_fingering_3323f07b:
 
     # th "So that's what you're after."
-    th "Mm!{#mtl}{#tl}"
+    th "So that's what you're after."
 
-# game/characters/grace/speak.rpy:251
+# game/characters/grace/speak.rpy:248
 translate polish speak_grace_fingering_74d04ae6:
 
     # me "Naughty girl.."
-    me "Po co do cholery się uśmiechasz, idioto?{#mtl}{#tl}"
+    me "Naughty girl.."
 
-# game/characters/grace/speak.rpy:252
+# game/characters/grace/speak.rpy:249
 translate polish speak_grace_fingering_fdb4e830:
 
     # grace "..."
     grace "..."
 
-# game/characters/grace/speak.rpy:253
+# game/characters/grace/speak.rpy:250
 translate polish speak_grace_fingering_53ac63d5:
 
     # grace "You don't want to play with my pussy?"
-    grace "Dostałeś to, na co zasłużyłeś.{#mtl}{#tl}"
+    grace "You don't want to play with my pussy?"
 
-# game/characters/grace/speak.rpy:254
+# game/characters/grace/speak.rpy:251
 translate polish speak_grace_fingering_ca7043fe:
 
     # me "I've never said I don't want to."
-    me "Nie próbuj znów na mnie sikać. albo znów się zmoczysz.{#mtl}{#tl}"
+    me "I've never said I don't want to."
 
-# game/characters/grace/speak.rpy:256
+# game/characters/grace/speak.rpy:253
 translate polish speak_grace_fingering_fe801ad0:
 
     # me "Here you go."
-    me "To groźba?{#mtl}{#tl}"
+    me "Here you go."
 
-# game/characters/grace/speak.rpy:262
+# game/characters/grace/speak.rpy:259
 translate polish speak_grace_fingering_7776fda0:
 
     # grace "Yay!"
-    grace "Mm!{#mtl}{#tl}"
+    grace "Yay!"
 
-# game/characters/grace/speak.rpy:263
+# game/characters/grace/speak.rpy:260
 translate polish speak_grace_fingering_9d2d3ac0:
 
     # th "I wonder if she's more happy about the rose or me playing with her pussy.."
-    th "Wiem, że tego chcesz.{#mtl}{#tl}"
+    th "I wonder if she's more happy about the rose or me playing with her pussy.."
 
-# game/characters/grace/speak.rpy:269
+# game/characters/grace/speak.rpy:266
 translate polish speak_grace_fingering_1ccc40b4:
 
     # me "Sorry, I don't have any."
     me "Sorry, I don't have any."
 
-# game/characters/grace/speak.rpy:274
+# game/characters/grace/speak.rpy:271
 translate polish speak_grace_fingering_7b71b640:
 
     # grace "Ohh.."
-    grace "Jesteś zły.{#mtl}{#tl}"
+    grace "Ohh.."
 
-# game/characters/grace/speak.rpy:279
+# game/characters/grace/speak.rpy:276
 translate polish speak_grace_fingering_0a928bf9:
 
     # grace "Hmmm.."
-    grace "W takim razie powinieneś ją wziąć, tym bardziej, nie pozwól, żeby trafiła w złe ręce.{#mtl}{#tl}"
+    grace "Hmmm.."
 
-# game/characters/grace/speak.rpy:280
+# game/characters/grace/speak.rpy:277
 translate polish speak_grace_fingering_62b3f61a:
 
     # th "What is she thinking about?"
-    th "Hmmm...{#mtl}{#tl}"
+    th "What is she thinking about?"
 
-# game/characters/grace/speak.rpy:285
+# game/characters/grace/speak.rpy:282
 translate polish speak_grace_fingering_7402cda2:
 
     # grace "Mm."
-    grace "No dalej, nie oszukuj się. spójrz na nią, chce, żebyś ją wziął.{#mtl}{#tl}"
+    grace "Mm."
 
-# game/characters/grace/speak.rpy:286
+# game/characters/grace/speak.rpy:283
 translate polish speak_grace_fingering_3820771a:
 
     # me "..."
     me "..."
 
-# game/characters/grace/speak.rpy:287
+# game/characters/grace/speak.rpy:284
 translate polish speak_grace_fingering_6192f284:
 
     # th "I'm lost."
-    th "Daj~{#mtl}{#tl}"
+    th "I'm lost."
 
-# game/characters/grace/speak.rpy:292
+# game/characters/grace/speak.rpy:289
 translate polish speak_grace_fingering_aa3967a5:
 
     # grace "Times are hard and we need to help each other."
-    grace "Oczywiście. proszę.{#mtl}{#tl}"
+    grace "Times are hard and we need to help each other."
 
-# game/characters/grace/speak.rpy:293
+# game/characters/grace/speak.rpy:290
 translate polish speak_grace_fingering_66689589:
 
     # th "Are you quoting someone? [lexi]?"
-    th "Hehe~ może jednak nie jesteś taki zły...{#mtl}{#tl}"
+    th "Are you quoting someone? [lexi]?"
 
-# game/characters/grace/speak.rpy:294
+# game/characters/grace/speak.rpy:291
 translate polish speak_grace_fingering_c6e059ba:
 
     # grace "So even though you don't have rose, I'll still pay you. To help you.. We need to help each other, right?"
-    grace "Jesteś naprawdę prostolinijny...{#mtl}{#tl}"
+    grace "So even though you don't have rose, I'll still pay you. To help you.. We need to help each other, right?"
 
-# game/characters/grace/speak.rpy:295
+# game/characters/grace/speak.rpy:292
 translate polish speak_grace_fingering_314086b3:
 
     # me "What?"
-    me "Dobrze się czujemy?{#mtl}{#tl}"
+    me "What?"
 
-# game/characters/grace/speak.rpy:296
+# game/characters/grace/speak.rpy:293
 translate polish speak_grace_fingering_24eb705e:
 
     # grace "So you can play with my pussy, I don't need you to give me rose, I'm helping you out."
-    grace "Mm.{#mtl}{#tl}"
+    grace "So you can play with my pussy, I don't need you to give me rose, I'm helping you out."
 
-# game/characters/grace/speak.rpy:297
+# game/characters/grace/speak.rpy:294
 translate polish speak_grace_fingering_3820771a_1:
 
     # me "..."
     me "..."
 
-# game/characters/grace/speak.rpy:298
+# game/characters/grace/speak.rpy:295
 translate polish speak_grace_fingering_59acfe01:
 
     # th "Look at her.. She's asking me to finger her with such righteousness.. And she made it sound like she's helping me.."
-    th "Fajnie.{#mtl}{#tl}"
+    th "Look at her.. She's asking me to finger her with such righteousness.. And she made it sound like she's helping me.."
 
-# game/characters/grace/speak.rpy:299
+# game/characters/grace/speak.rpy:296
 translate polish speak_grace_fingering_7150badd:
 
     # th "Who taught her this? Don't tell she came up with it herself.. I'm actually impressed."
-    th "O czym chcesz porozmawiać?{#mtl}{#tl}"
+    th "Who taught her this? Don't tell she came up with it herself.. I'm actually impressed."
 
-# game/characters/grace/speak.rpy:304
+# game/characters/grace/speak.rpy:301
 translate polish speak_grace_fingering_f1042ef4:
 
     # grace "What should I wear?"
     grace "What should I wear?"
 
-# game/characters/grace/speak.rpy:319
+# game/characters/grace/speak.rpy:316
 translate polish speak_grace_boobjob_96b66108:
 
     # grace "I don't want to get dirty.."
-    grace "Możesz przynajmniej na mnie spojrzeć?{#mtl}{#tl}"
+    grace "I don't want to get dirty.."
 
-# game/characters/grace/speak.rpy:320
+# game/characters/grace/speak.rpy:317
 translate polish speak_grace_boobjob_4c608055:
 
     # me "Such is life, [grace]. It can be hard, but think of my smile."
-    me "Jesteś zły.{#mtl}{#tl}"
+    me "Such is life, [grace]. It can be hard, but think of my smile."
 
-# game/characters/grace/speak.rpy:321
+# game/characters/grace/speak.rpy:318
 translate polish speak_grace_boobjob_8e76b51e:
 
     # grace "It doesn't help."
-    grace "Wiem. zrobiłem coś złego, ale nie mogę się poprawić sam. potrzebuję, żebyś uczyniła ze mnie lepszą osobę.{#mtl}{#tl}"
+    grace "It doesn't help."
 
-# game/characters/grace/speak.rpy:322
+# game/characters/grace/speak.rpy:319
 translate polish speak_grace_boobjob_a2552b81:
 
     # me "You won't do it?"
-    me "Naprawdę?{#mtl}{#tl}"
+    me "You won't do it?"
 
-# game/characters/grace/speak.rpy:323
+# game/characters/grace/speak.rpy:320
 translate polish speak_grace_boobjob_29fac845:
 
     # grace "I will."
-    grace "Tak, nie dam rady sam.{#mtl}{#tl}"
+    grace "I will."
 
-# game/characters/grace/speak.rpy:324
+# game/characters/grace/speak.rpy:321
 translate polish speak_grace_boobjob_e74c4459:
 
     # me "Sweet."
-    me "Lexi powiedziała mi, że powinniśmy sobie pomagać.{#mtl}{#tl}"
+    me "Sweet."
 
-# game/characters/grace/speak.rpy:328
+# game/characters/grace/speak.rpy:325
 translate polish speak_grace_boobjob_7cbd3365:
 
     # grace "Do you want me to change clothes?"
-    grace "Widzisz?{#mtl}{#tl}"
+    grace "Do you want me to change clothes?"
 
-# game/characters/grace/speak.rpy:347
+# game/characters/grace/speak.rpy:344
 translate polish speak_grace_flowers_0b272415:
 
     # grace "Yes!"
     grace "Yes!"
 
-# game/characters/grace/speak.rpy:348
+# game/characters/grace/speak.rpy:345
 translate polish speak_grace_flowers_269a6960:
 
     # "You both quickly start working."
-    "Oczywiście!{#mtl}{#tl}"
+    "You both quickly start working."
 
-# game/characters/grace/speak.rpy:352
+# game/characters/grace/speak.rpy:349
 translate polish speak_grace_flowers_30262b93:
 
     # grace "Drink, drink and grow so big like me~"
     grace "Drink, drink and grow so big like me~"
 
-# game/characters/grace/speak.rpy:353
+# game/characters/grace/speak.rpy:350
 translate polish speak_grace_flowers_b1e02715:
 
     # "[grace] hums and sings weird songs under her breath when watering flowers."
-    "Mm.{#mtl}{#tl}"
+    "[grace] hums and sings weird songs under her breath when watering flowers."
 
-# game/characters/grace/speak.rpy:354
+# game/characters/grace/speak.rpy:351
 translate polish speak_grace_flowers_db249b8e:
 
     # th "What a silly song.."
-    th "Więc o czym chciałeś porozmawiać?{#mtl}{#tl}"
+    th "What a silly song.."
 
-# game/characters/grace/speak.rpy:358
+# game/characters/grace/speak.rpy:355
 translate polish speak_grace_flowers_49f926c4:
 
     # "You help [grace] with the flowers for a few hours."
-    "Wszyscy popełniamy błędy. to, co zrobiłem, to tylko błąd.{#mtl}{#tl}"
+    "You help [grace] with the flowers for a few hours."
 
-# game/characters/grace/speak.rpy:362
+# game/characters/grace/speak.rpy:359
 translate polish speak_grace_flowers_cc2b23f6:
 
     # grace "Thank you for your help."
-    grace "Jesteś po prostu zły.{#mtl}{#tl}"
+    grace "Thank you for your help."
 
-# game/characters/grace/speak.rpy:363
+# game/characters/grace/speak.rpy:360
 translate polish speak_grace_flowers_ba30a310:
 
     # me "Sure, glad to help."
     me "Sure, glad to help."
 
-# game/characters/grace/speak.rpy:364
+# game/characters/grace/speak.rpy:361
 translate polish speak_grace_flowers_dcad29a9:
 
     # grace "Mm. You can come help again.. if you want.."
-    grace "Wygląda na to, że nie będzie tak łatwo.{#mtl}{#tl}"
+    grace "Mm. You can come help again.. if you want.."
 
-# game/characters/grace/speak.rpy:365
+# game/characters/grace/speak.rpy:362
 translate polish speak_grace_flowers_ebf5834d:
 
     # me "Sure, I'll come when I have time."
     me "Sure, I'll come when I have time."
 
-# game/characters/grace/speak.rpy:366
+# game/characters/grace/speak.rpy:363
 translate polish speak_grace_flowers_239f05d2:
 
     # "You leave her room."
-    "Powiedz jej o randce{#mtl}{#tl}"
+    "You leave her room."
 
-# game/characters/grace/speak.rpy:373
+# game/characters/grace/speak.rpy:370
 translate polish speak_grace_question1_68f89794:
 
     # grace "I cook and clean."
-    grace "Potrzebuję, żebyś ugotował dla mnie i lexi kolację{#mtl}{#tl}"
+    grace "I cook and clean."
 
-# game/characters/grace/speak.rpy:374
+# game/characters/grace/speak.rpy:371
 translate polish speak_grace_question1_ddeadc52:
 
     # me "So you are a maid?"
     me "So you are a maid?"
 
-# game/characters/grace/speak.rpy:377
+# game/characters/grace/speak.rpy:374
 translate polish speak_grace_question1_d91dc239:
 
     # grace "Maid? No one called me that before."
     grace "Maid? No one called me that before."
 
-# game/characters/grace/speak.rpy:378
+# game/characters/grace/speak.rpy:375
 translate polish speak_grace_question1_d6a569c1:
 
     # me "Oh really? Then what were you doing before The End?"
     me "Oh really? Then what were you doing before The End?"
 
-# game/characters/grace/speak.rpy:381
+# game/characters/grace/speak.rpy:378
 translate polish speak_grace_question1_da5f0958:
 
     # grace "I lived with my mom."
     grace "I lived with my mom."
 
-# game/characters/grace/speak.rpy:382
+# game/characters/grace/speak.rpy:379
 translate polish speak_grace_question1_9c9d72a6:
 
     # me "I mean did you have a job?"
-    me "Mam kilka pytań{#mtl}{#tl}"
+    me "I mean did you have a job?"
 
-# game/characters/grace/speak.rpy:383
+# game/characters/grace/speak.rpy:380
 translate polish speak_grace_question1_e4b03787:
 
     # grace "No, only mommy was working."
-    grace "Stroje >{#mtl}{#tl}"
+    grace "No, only mommy was working."
 
-# game/characters/grace/speak.rpy:384
+# game/characters/grace/speak.rpy:381
 translate polish speak_grace_question1_5c984960:
 
     # me "Why is that?"
-    me "Masowanie piersi{#mtl}{#tl}"
+    me "Why is that?"
 
-# game/characters/grace/speak.rpy:387
+# game/characters/grace/speak.rpy:384
 translate polish speak_grace_question1_c0df14f5:
 
     # grace "She said I needed to first learn how to protect myself outside."
-    grace "Palcowanie{#mtl}{#tl}"
+    grace "She said I needed to first learn how to protect myself outside."
 
-# game/characters/grace/speak.rpy:388
+# game/characters/grace/speak.rpy:385
 translate polish speak_grace_question1_38294bd5:
 
     # grace "What about you?"
-    grace "Rozgrzewka{#mtl}{#tl}"
+    grace "What about you?"
 
-# game/characters/grace/speak.rpy:389
+# game/characters/grace/speak.rpy:386
 translate polish speak_grace_question1_6cbe62fc:
 
     # me "I was a programmer."
     me "I was a programmer."
 
-# game/characters/grace/speak.rpy:392
+# game/characters/grace/speak.rpy:389
 translate polish speak_grace_question1_8dde2a5c:
 
     # grace "Programmer?"
     grace "Programmer?"
 
-# game/characters/grace/speak.rpy:393
+# game/characters/grace/speak.rpy:390
 translate polish speak_grace_question1_24b10797:
 
     # me "Yeah, is there something wrong?"
-    me "Ty... ty... na mnie sikałeś...{#mtl}{#tl}"
+    me "Yeah, is there something wrong?"
 
-# game/characters/grace/speak.rpy:396
+# game/characters/grace/speak.rpy:393
 translate polish speak_grace_question1_56ba5b30:
 
     # grace "I don't know.."
-    grace "Czy kiedykolwiek miałeś chłopaka?{#mtl}{#tl}"
+    grace "I don't know.."
 
-# game/characters/grace/speak.rpy:397
+# game/characters/grace/speak.rpy:394
 translate polish speak_grace_question1_1f877649:
 
     # me "What do you mean?"
     me "What do you mean?"
 
-# game/characters/grace/speak.rpy:398
+# game/characters/grace/speak.rpy:395
 translate polish speak_grace_question1_1b1cdc4f:
 
     # grace "What does a programmer do?"
     grace "What does a programmer do?"
 
-# game/characters/grace/speak.rpy:399
+# game/characters/grace/speak.rpy:396
 translate polish speak_grace_question1_3820771a:
 
     # me "..."
     me "..."
 
-# game/characters/grace/speak.rpy:400
+# game/characters/grace/speak.rpy:397
 translate polish speak_grace_question1_14fd9d44:
 
     # me "You don't know?"
     me "You don't know?"
 
-# game/characters/grace/speak.rpy:403
+# game/characters/grace/speak.rpy:400
 translate polish speak_grace_question1_3299205a:
 
     # grace "No."
     grace "No."
 
-# game/characters/grace/speak.rpy:404
+# game/characters/grace/speak.rpy:401
 translate polish speak_grace_question1_87ee411e:
 
     # me "A programmer writes code. I was making apps for pc."
     me "A programmer writes code. I was making apps for pc."
 
-# game/characters/grace/speak.rpy:405
+# game/characters/grace/speak.rpy:402
 translate polish speak_grace_question1_7f66f38f:
 
     # grace "Oh. Like games?"
     grace "Oh. Like games?"
 
-# game/characters/grace/speak.rpy:406
+# game/characters/grace/speak.rpy:403
 translate polish speak_grace_question1_0b4348e5:
 
     # me "Yes [grace], like games."
     me "Yes [grace], like games."
 
-# game/characters/grace/speak.rpy:409
+# game/characters/grace/speak.rpy:406
 translate polish speak_grace_question1_07c63863:
 
     # grace "I understand now."
     grace "I understand now."
 
-# game/characters/grace/speak.rpy:415
+# game/characters/grace/speak.rpy:412
 translate polish speak_grace_question2_2215c0a8:
 
     # grace "I'm 21 years old."
     grace "I'm 21 years old."
 
-# game/characters/grace/speak.rpy:418
+# game/characters/grace/speak.rpy:415
 translate polish speak_grace_question2_d53c31f3:
 
     # grace "Why do you want to know?"
     grace "Why do you want to know?"
 
-# game/characters/grace/speak.rpy:419
+# game/characters/grace/speak.rpy:416
 translate polish speak_grace_question2_23e72364:
 
     # me "What could I possibly do with this information?"
     me "What could I possibly do with this information?"
 
-# game/characters/grace/speak.rpy:420
+# game/characters/grace/speak.rpy:417
 translate polish speak_grace_question2_b9914670:
 
     # grace "Mom said that men like young girls like me. They will deceive and hurt me, so I need to be careful."
     grace "Mom said that men like young girls like me. They will deceive and hurt me, so I need to be careful."
 
-# game/characters/grace/speak.rpy:421
+# game/characters/grace/speak.rpy:418
 translate polish speak_grace_question2_3820771a:
 
     # me "..."
     me "..."
 
-# game/characters/grace/speak.rpy:424
+# game/characters/grace/speak.rpy:421
 translate polish speak_grace_question2_58241895:
 
     # grace "I won't let you hurt me!"
     grace "I won't let you hurt me!"
 
-# game/characters/grace/speak.rpy:425
+# game/characters/grace/speak.rpy:422
 translate polish speak_grace_question2_6c21d776:
 
     # me "Easy! I don't want to hurt you."
     me "Easy! I don't want to hurt you."
 
-# game/characters/grace/speak.rpy:428
+# game/characters/grace/speak.rpy:425
 translate polish speak_grace_question2_31adfb28:
 
     # grace "You don't?"
     grace "You don't?"
 
-# game/characters/grace/speak.rpy:429
+# game/characters/grace/speak.rpy:426
 translate polish speak_grace_question2_33de0b5c:
 
     # me "I really don't, look we are living here together why would I want to hurt you?"
     me "I really don't, look we are living here together why would I want to hurt you?"
 
-# game/characters/grace/speak.rpy:432
+# game/characters/grace/speak.rpy:429
 translate polish speak_grace_question2_5eca745d:
 
     # grace "That probably makes sense.."
     grace "That probably makes sense.."
 
-# game/characters/grace/speak.rpy:433
+# game/characters/grace/speak.rpy:430
 translate polish speak_grace_question2_75dc07f4:
 
     # me "Probably?"
     me "Probably?"
 
-# game/characters/grace/speak.rpy:436
+# game/characters/grace/speak.rpy:433
 translate polish speak_grace_question2_1bf59c17:
 
     # grace "Yes, I'm not sure.."
     grace "Yes, I'm not sure.."
 
-# game/characters/grace/speak.rpy:437
+# game/characters/grace/speak.rpy:434
 translate polish speak_grace_question2_e617fb0d:
 
     # "You stare at her in silence blinking."
     "You stare at her in silence blinking."
 
-# game/characters/grace/speak.rpy:444
+# game/characters/grace/speak.rpy:441
 translate polish speak_grace_question3_1e845bf6:
 
     # grace "No. Why would I?"
     grace "No. Why would I?"
 
-# game/characters/grace/speak.rpy:445
+# game/characters/grace/speak.rpy:442
 translate polish speak_grace_question3_8fc65ceb:
 
     # me "What's so bad about it?"
     me "What's so bad about it?"
 
-# game/characters/grace/speak.rpy:446
+# game/characters/grace/speak.rpy:443
 translate polish speak_grace_question3_9a27bde0:
 
     # grace "Men."
     grace "Men."
 
-# game/characters/grace/speak.rpy:447
+# game/characters/grace/speak.rpy:444
 translate polish speak_grace_question3_3820771a:
 
     # me "..."
     me "..."
 
-# game/characters/grace/speak.rpy:448
+# game/characters/grace/speak.rpy:445
 translate polish speak_grace_question3_a38e9307:
 
     # th "I guess I should have expected that.."
     th "I guess I should have expected that.."
 
-# game/characters/grace/speak.rpy:457
+# game/characters/grace/speak.rpy:454
 translate polish speak_grace_question_jack_ea6a034f:
 
     # grace "Oh.. He was nice to me from the moment I got here."
     grace "Oh.. He was nice to me from the moment I got here."
 
-# game/characters/grace/speak.rpy:458
+# game/characters/grace/speak.rpy:455
 translate polish speak_grace_question_jack_f5024d73:
 
     # grace "The others were here already, so I thought this place would be good, if I could avoid Jack."
     grace "The others were here already, so I thought this place would be good, if I could avoid Jack."
 
-# game/characters/grace/speak.rpy:459
+# game/characters/grace/speak.rpy:456
 translate polish speak_grace_question_jack_895f7cbe:
 
     # me "Did he do something or..?"
     me "Did he do something or..?"
 
-# game/characters/grace/speak.rpy:463
+# game/characters/grace/speak.rpy:460
 translate polish speak_grace_question_jack_ef19fb5a:
 
     # grace "No, but he was a man."
     grace "No, but he was a man."
 
-# game/characters/grace/speak.rpy:464
+# game/characters/grace/speak.rpy:461
 translate polish speak_grace_question_jack_5642c726:
 
     # me "I guessed as much."
     me "I guessed as much."
 
-# game/characters/grace/speak.rpy:468
+# game/characters/grace/speak.rpy:465
 translate polish speak_grace_question_jack_9303bab5:
 
     # grace "But I would've liked for mommy to stay here too to know him.."
     grace "But I would've liked for mommy to stay here too to know him.."
 
-# game/characters/grace/speak.rpy:469
+# game/characters/grace/speak.rpy:466
 translate polish speak_grace_question_jack_9abe26ea:
 
     # me "What do you mean? I know you would rather have her here with you, but to know him?"
     me "What do you mean? I know you would rather have her here with you, but to know him?"
 
-# game/characters/grace/speak.rpy:470
+# game/characters/grace/speak.rpy:467
 translate polish speak_grace_question_jack_db1198b3:
 
     # grace "I just thought it would've been nice.."
     grace "I just thought it would've been nice.."
 
-# game/characters/grace/speak.rpy:471
+# game/characters/grace/speak.rpy:468
 translate polish speak_grace_question_jack_6b8c28f7:
 
     # me "You think they would've gotten along?"
     me "You think they would've gotten along?"
 
-# game/characters/grace/speak.rpy:475
+# game/characters/grace/speak.rpy:472
 translate polish speak_grace_question_jack_af8f55a9:
 
     # grace "I think mommy would come to like him too. Well, answering your question Jack just went out and scavenge like Lexi."
     grace "I think mommy would come to like him too. Well, answering your question Jack just went out and scavenge like Lexi."
 
-# game/characters/grace/speak.rpy:476
+# game/characters/grace/speak.rpy:473
 translate polish speak_grace_question_jack_b5166170:
 
     # me "And you didn't try to talk to him?"
     me "And you didn't try to talk to him?"
 
-# game/characters/grace/speak.rpy:477
+# game/characters/grace/speak.rpy:474
 translate polish speak_grace_question_jack_61d89277:
 
     # grace "Only when I had to.."
     grace "Only when I had to.."
 
-# game/characters/grace/speak.rpy:478
+# game/characters/grace/speak.rpy:475
 translate polish speak_grace_question_jack_c33a6080:
 
     # me "And.. when was that?"
     me "And.. when was that?"
 
-# game/characters/grace/speak.rpy:479
+# game/characters/grace/speak.rpy:476
 translate polish speak_grace_question_jack_836ff1d4:
 
     # grace "When I cooked for him. He always complimented my food."
     grace "When I cooked for him. He always complimented my food."
 
-# game/characters/grace/speak.rpy:480
+# game/characters/grace/speak.rpy:477
 translate polish speak_grace_question_jack_68f13cdb:
 
     # me "Makes sense. I wondered how he got the chance to be nice to you, if you were avoiding him."
     me "Makes sense. I wondered how he got the chance to be nice to you, if you were avoiding him."
 
-# game/characters/grace/speak.rpy:484
+# game/characters/grace/speak.rpy:481
 translate polish speak_grace_question_jack_c9d6f63f:
 
     # grace "I didn't really mean to, but.."
     grace "I didn't really mean to, but.."
 
-# game/characters/grace/speak.rpy:485
+# game/characters/grace/speak.rpy:482
 translate polish speak_grace_question_jack_55385ad2:
 
     # me "He was a man, yes. At least he was getting to eat your delicacies."
     me "He was a man, yes. At least he was getting to eat your delicacies."
 
-# game/characters/grace/speak.rpy:489
+# game/characters/grace/speak.rpy:486
 translate polish speak_grace_question_jack_7402cda2:
 
     # grace "Mm."
     grace "Mm."
 
-# game/characters/grace/speak.rpy:493
+# game/characters/grace/speak.rpy:490
 translate polish speak_grace_question_jack_d4e25f43:
 
     # grace "Still, I'm not really sure why mommy just left me here with a man.."
     grace "Still, I'm not really sure why mommy just left me here with a man.."
 
-# game/characters/grace/speak.rpy:494
+# game/characters/grace/speak.rpy:491
 translate polish speak_grace_question_jack_905b2ca2:
 
     # me "Yeah, that's weird."
     me "Yeah, that's weird."
 
-# game/characters/grace/speak.rpy:495
+# game/characters/grace/speak.rpy:492
 translate polish speak_grace_question_jack_92ff5187:
 
     # me "But at least you got to meet a good man."
     me "But at least you got to meet a good man."
 
-# game/characters/grace/speak.rpy:496
+# game/characters/grace/speak.rpy:493
 translate polish speak_grace_question_jack_40671e0c:
 
     # grace "Yes.."
     grace "Yes.."
 
-# game/characters/grace/speak.rpy:504
+# game/characters/grace/speak.rpy:501
 translate polish speak_grace_question_peed_d8769c30:
 
     # grace "Mm!"
     grace "Mm!"
 
-# game/characters/grace/speak.rpy:505
+# game/characters/grace/speak.rpy:502
 translate polish speak_grace_question_peed_3820771a:
 
     # me "..."
     me "..."
 
-# game/characters/grace/speak.rpy:506
+# game/characters/grace/speak.rpy:503
 translate polish speak_grace_question_peed_ee6edc1c:
 
     # me "What the hell are you smiling for idiot?"
     me "What the hell are you smiling for idiot?"
 
-# game/characters/grace/speak.rpy:507
+# game/characters/grace/speak.rpy:504
 translate polish speak_grace_question_peed_b3f72d3b:
 
     # grace "You got what you deserved."
     grace "You got what you deserved."
 
-# game/characters/grace/speak.rpy:511
+# game/characters/grace/speak.rpy:508
 translate polish speak_grace_question_peed_d2d9ebea:
 
     # grace "Don't try to pee on me again. Or you'll get wet again."
     grace "Don't try to pee on me again. Or you'll get wet again."
 
-# game/characters/grace/speak.rpy:512
+# game/characters/grace/speak.rpy:509
 translate polish speak_grace_question_peed_685d0266:
 
     # me "Is that a threat?"
     me "Is that a threat?"
 
-# game/characters/grace/speak.rpy:516
+# game/characters/grace/speak.rpy:513
 translate polish speak_grace_question_peed_d8769c30_1:
 
     # grace "Mm!"
     grace "Mm!"
 
-# game/characters/grace/speak.rpy:517
+# game/characters/grace/speak.rpy:514
 translate polish speak_grace_question_peed_be7aa58b:
 
     # me "...."
     me "...."
 
-# game/characters/grace/speak.rpy:523
+# game/characters/grace/speak.rpy:520
 translate polish speak_grace_apology_rose_fdb4e830:
 
     # grace "..."
     grace "..."
 
-# game/characters/grace/speak.rpy:524
+# game/characters/grace/speak.rpy:521
 translate polish speak_grace_apology_rose_01a0cb8d:
 
     # me "I know you want it."
     me "I know you want it."
 
-# game/characters/grace/speak.rpy:525
+# game/characters/grace/speak.rpy:522
 translate polish speak_grace_apology_rose_fdb4e830_1:
 
     # grace "..."
     grace "..."
 
-# game/characters/grace/speak.rpy:526
+# game/characters/grace/speak.rpy:523
 translate polish speak_grace_apology_rose_b7d6b3b0:
 
     # me "[grace], a rose. Lively and beautiful just like you."
     me "[grace], a rose. Lively and beautiful just like you."
 
-# game/characters/grace/speak.rpy:527
+# game/characters/grace/speak.rpy:524
 translate polish speak_grace_apology_rose_6d39208d:
 
     # grace "You're bad."
     grace "You're bad."
 
-# game/characters/grace/speak.rpy:528
+# game/characters/grace/speak.rpy:525
 translate polish speak_grace_apology_rose_730ffbec:
 
     # me "Then you should take it, even more, don't let it fall into bad hands."
     me "Then you should take it, even more, don't let it fall into bad hands."
 
-# game/characters/grace/speak.rpy:532
+# game/characters/grace/speak.rpy:529
 translate polish speak_grace_apology_rose_0a928bf9:
 
     # grace "Hmmm.."
     grace "Hmmm.."
 
-# game/characters/grace/speak.rpy:533
+# game/characters/grace/speak.rpy:530
 translate polish speak_grace_apology_rose_45649d40:
 
     # me "Come on, don't lie to yourself. Look at it, it wants you to get it."
     me "Come on, don't lie to yourself. Look at it, it wants you to get it."
 
-# game/characters/grace/speak.rpy:537
+# game/characters/grace/speak.rpy:534
 translate polish speak_grace_apology_rose_d68a5b2e:
 
     # grace "Gimme~"
     grace "Gimme~"
 
-# game/characters/grace/speak.rpy:538
+# game/characters/grace/speak.rpy:535
 translate polish speak_grace_apology_rose_202a8b31:
 
     # me "Of course. Here."
     me "Of course. Here."
 
-# game/characters/grace/speak.rpy:547
+# game/characters/grace/speak.rpy:544
 translate polish speak_grace_apology_rose_e8954ecc:
 
     # grace "Hehe~ Maybe you're not that bad after all.."
     grace "Hehe~ Maybe you're not that bad after all.."
 
-# game/characters/grace/speak.rpy:548
+# game/characters/grace/speak.rpy:545
 translate polish speak_grace_apology_rose_cf49bb42:
 
     # th "You're really simple-minded.."
     th "You're really simple-minded.."
 
-# game/characters/grace/speak.rpy:549
+# game/characters/grace/speak.rpy:546
 translate polish speak_grace_apology_rose_001b179c:
 
     # me "Are we good?"
     me "Are we good?"
 
-# game/characters/grace/speak.rpy:550
+# game/characters/grace/speak.rpy:547
 translate polish speak_grace_apology_rose_7402cda2:
 
     # grace "Mm."
     grace "Mm."
 
-# game/characters/grace/speak.rpy:551
+# game/characters/grace/speak.rpy:548
 translate polish speak_grace_apology_rose_eee72d0b:
 
     # me "Cool."
     me "Cool."
 
-# game/characters/grace/speak.rpy:552
+# game/characters/grace/speak.rpy:549
 translate polish speak_grace_apology_rose_858191de:
 
     # grace "What do you want to talk about?"
     grace "What do you want to talk about?"
 
-# game/characters/grace/speak.rpy:557
+# game/characters/grace/speak.rpy:554
 translate polish speak_grace_apology_8e055792:
 
     # me "I'm really sorry, [grace]."
     me "I'm really sorry, [grace]."
 
-# game/characters/grace/speak.rpy:558
+# game/characters/grace/speak.rpy:555
 translate polish speak_grace_apology_fdb4e830:
 
     # grace "..."
     grace "..."
 
-# game/characters/grace/speak.rpy:559
+# game/characters/grace/speak.rpy:556
 translate polish speak_grace_apology_b6616c50:
 
     # me "Can you at least look at me?"
     me "Can you at least look at me?"
 
-# game/characters/grace/speak.rpy:560
+# game/characters/grace/speak.rpy:557
 translate polish speak_grace_apology_6d39208d:
 
     # grace "You're bad."
     grace "You're bad."
 
-# game/characters/grace/speak.rpy:563
+# game/characters/grace/speak.rpy:560
 translate polish speak_grace_apology_913b1252:
 
     # me "I know. I did bad, but I can't get better by myself. I need you to make me a better person."
     me "I know. I did bad, but I can't get better by myself. I need you to make me a better person."
 
-# game/characters/grace/speak.rpy:567
+# game/characters/grace/speak.rpy:564
 translate polish speak_grace_apology_3c71d638:
 
     # grace "Really?"
     grace "Really?"
 
-# game/characters/grace/speak.rpy:568
+# game/characters/grace/speak.rpy:565
 translate polish speak_grace_apology_960a60a5:
 
     # me "Yes, I can't do this on my own."
     me "Yes, I can't do this on my own."
 
-# game/characters/grace/speak.rpy:569
+# game/characters/grace/speak.rpy:566
 translate polish speak_grace_apology_744a58bd:
 
     # grace "Lexi told me we should help each other."
     grace "Lexi told me we should help each other."
 
-# game/characters/grace/speak.rpy:570
+# game/characters/grace/speak.rpy:567
 translate polish speak_grace_apology_1603e86f:
 
     # me "You see?"
     me "You see?"
 
-# game/characters/grace/speak.rpy:577
+# game/characters/grace/speak.rpy:574
 translate polish speak_grace_apology_e0b768cd:
 
     # grace "Alright, I'll give you a chance, but you need to treasure it! [[{cha}Charisma check{/cha} {trust}passed{/trust}]"
     grace "Alright, I'll give you a chance, but you need to treasure it! [[{cha}Charisma check{/cha} {trust}passed{/trust}]"
 
-# game/characters/grace/speak.rpy:578
+# game/characters/grace/speak.rpy:575
 translate polish speak_grace_apology_1f739f41:
 
     # me "Of course!"
     me "Of course!"
 
-# game/characters/grace/speak.rpy:579
+# game/characters/grace/speak.rpy:576
 translate polish speak_grace_apology_664443c7:
 
     # me "Thanks [grace]!"
     me "Thanks [grace]!"
 
-# game/characters/grace/speak.rpy:583
+# game/characters/grace/speak.rpy:580
 translate polish speak_grace_apology_7402cda2:
 
     # grace "Mm."
     grace "Mm."
 
-# game/characters/grace/speak.rpy:584
+# game/characters/grace/speak.rpy:581
 translate polish speak_grace_apology_816d1fb8:
 
     # grace "So, what have you wanted to talk about?"
     grace "So, what have you wanted to talk about?"
 
-# game/characters/grace/speak.rpy:588
+# game/characters/grace/speak.rpy:585
 translate polish speak_grace_apology_8b75b555:
 
     # me "We all make mistakes. What I did was just a mistake."
     me "We all make mistakes. What I did was just a mistake."
 
-# game/characters/grace/speak.rpy:589
+# game/characters/grace/speak.rpy:586
 translate polish speak_grace_apology_10a50ae0:
 
     # grace "You're just bad."
     grace "You're just bad."
 
-# game/characters/grace/speak.rpy:590
+# game/characters/grace/speak.rpy:587
 translate polish speak_grace_apology_d25d47b9:
 
     # me "[grace].."
     me "[grace].."
 
-# game/characters/grace/speak.rpy:591
+# game/characters/grace/speak.rpy:588
 translate polish speak_grace_apology_cffb0b45:
 
     # grace "You did it because you're mean, I don't want to talk with you. [[{cha}Charisma check{/cha} {bad}failed{/bad}]"
     grace "You did it because you're mean, I don't want to talk with you. [[{cha}Charisma check{/cha} {bad}failed{/bad}]"
 
-# game/characters/grace/speak.rpy:592
+# game/characters/grace/speak.rpy:589
 translate polish speak_grace_apology_a586aebf:
 
     # th "Seems it won't be that easy."
@@ -1120,15 +1120,15 @@ translate polish strings:
 
     # game/characters/grace/speak.rpy:27
     old "Do you like roses? {gold}(Story){/gold}"
-    new "Do you like roses? {gold}(Story){/gold}{#tl}"
+    new "Do you like roses? {gold}(Story){/gold}"
 
     # game/characters/grace/speak.rpy:27
     old "I've got a toy for you {gold}(Story){/gold}"
-    new "I've got a toy for you {gold}(Story){/gold}{#tl}"
+    new "I've got a toy for you {gold}(Story){/gold}"
 
     # game/characters/grace/speak.rpy:27
     old "Want me to help you with your flowers? {gold}(Story){/gold}"
-    new "Want me to help you with your flowers? {gold}(Story){/gold}{#tl}"
+    new "Want me to help you with your flowers? {gold}(Story){/gold}"
 
     # game/characters/grace/speak.rpy:27
     old "Want me to help you with your flowers? {trust}(Trust+){/trust}"
@@ -1150,59 +1150,59 @@ translate polish strings:
     old "I have some questions"
     new "I have some questions"
 
-    # game/characters/grace/speak.rpy:62
+    # game/characters/grace/speak.rpy:59
     old "Outfits >"
     new "Outfits >"
 
-    # game/characters/grace/speak.rpy:62
+    # game/characters/grace/speak.rpy:59
     old "Massage breasts"
     new "Massage breasts"
 
-    # game/characters/grace/speak.rpy:62
+    # game/characters/grace/speak.rpy:59
     old "Fingering"
     new "Fingering"
 
-    # game/characters/grace/speak.rpy:62
+    # game/characters/grace/speak.rpy:59
     old "Boobjob"
     new "Boobjob"
 
-    # game/characters/grace/speak.rpy:64
+    # game/characters/grace/speak.rpy:61
     old "Bunny >{#visible}"
     new "Bunny >{#visible}"
 
-    # game/characters/grace/speak.rpy:64
+    # game/characters/grace/speak.rpy:61
     old "Vampire >{#visible}"
     new "Vampire >{#visible}"
 
-    # game/characters/grace/speak.rpy:112
+    # game/characters/grace/speak.rpy:109
     old "You.. You.. peed on me.."
     new "You.. You.. peed on me.."
 
-    # game/characters/grace/speak.rpy:112
+    # game/characters/grace/speak.rpy:109
     old "How old are you?"
-    new "How old are you?{#tl}"
+    new "How old are you?"
 
-    # game/characters/grace/speak.rpy:112
+    # game/characters/grace/speak.rpy:109
     old "Have you ever had a boyfriend?"
     new "Have you ever had a boyfriend?"
 
-    # game/characters/grace/speak.rpy:148
+    # game/characters/grace/speak.rpy:145
     old "Cook a dinner (Duration: [graceTasks.cookDiner.duration]) {vit}(Health+){/vit}{trust}(Buff+){/trust} {#visible}"
     new "Cook a dinner (Duration: [graceTasks.cookDiner.duration]) {vit}(Health+){/vit}{trust}(Buff+){/trust} {#visible}"
 
-    # game/characters/grace/speak.rpy:209
+    # game/characters/grace/speak.rpy:206
     old "Standing"
     new "Standing"
 
-    # game/characters/grace/speak.rpy:209
+    # game/characters/grace/speak.rpy:206
     old "Bed"
     new "Bed"
 
-    # game/characters/grace/speak.rpy:372
+    # game/characters/grace/speak.rpy:369
     old "She is the maid at the Jade Hotel. She cooks and cleans."
     new "She is the maid at the Jade Hotel. She cooks and cleans."
 
-    # game/characters/grace/speak.rpy:414
+    # game/characters/grace/speak.rpy:411
     old "She is 21 years old."
-    new "She is 21 years old.{#tl}"
+    new "She is 21 years old."
 

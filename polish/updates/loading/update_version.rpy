@@ -1,16 +1,16 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 translate polish strings:
 
-    # game/updates/loading/update_version.rpy:8
+    # game/updates/loading/update_version.rpy:6
     old "Save version: "
     new "Save version: "
 
-    # game/updates/loading/update_version.rpy:20
+    # game/updates/loading/update_version.rpy:18
     old "Save update finished."
     new "Save update finished."
 
-    # game/updates/loading/update_version.rpy:25
+    # game/updates/loading/update_version.rpy:22
     old "Apply patch: "
     new "Apply patch: "
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/characters/little fox/explore/bandits.rpy:42
 translate polish lil_fox_exp_bandits_d75693e1:

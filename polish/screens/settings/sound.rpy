@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 translate polish strings:
 
@@ -41,10 +41,6 @@ translate polish strings:
     # game/screens/settings/sound.rpy:51
     old "NSFW Volume"
     new "NSFW Volume"
-
-    # game/screens/settings/sound.rpy:58
-    old "Voice Volume"
-    new "Voice Volume"
 
     # game/screens/settings/sound.rpy:69
     old "Mute All"

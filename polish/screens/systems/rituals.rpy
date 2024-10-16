@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/screens/systems/rituals.rpy:557
 translate polish performRituals_d805e427:
@@ -93,8 +93,8 @@ translate polish performRituals_AharonReply_d8e214f6:
 # game/screens/systems/rituals.rpy:715
 translate polish performRituals_AharonReply_76c32b77:
 
-    # "Aharon has cast his gaze over."
-    "Aharon has cast his gaze over."
+    # "Aharon has cast His gaze over." id performRituals_AharonReply_76c32b77
+    "Aharon has cast His gaze over." id performRituals_AharonReply_76c32b77
 
 # game/screens/systems/rituals.rpy:802
 translate polish performRituals_DemeterReply_44c961e6:

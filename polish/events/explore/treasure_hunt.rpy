@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/events/explore/treasure_hunt.rpy:56
 translate polish exp_treasure_hunt_newmap_044ffc8d:

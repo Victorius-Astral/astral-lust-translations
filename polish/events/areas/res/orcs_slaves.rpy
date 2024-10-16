@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/events/areas/res/orcs_slaves.rpy:14
 translate polish exp_orcs_slaves_58ee952d:

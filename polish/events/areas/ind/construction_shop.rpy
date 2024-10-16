@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/events/areas/ind/construction_shop.rpy:41
 translate polish explore_construction_shop_1ae0b4e9:

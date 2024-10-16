@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/characters/succubi/a/talk.rpy:29
 translate polish talk_SuccubusA_9d4e3500:

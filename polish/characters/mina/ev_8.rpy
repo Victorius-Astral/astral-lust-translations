@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/characters/mina/ev_8.rpy:12
 translate polish mina_8_16cf47a5:
@@ -120,541 +120,553 @@ translate polish mina_8_menu1_f88f7bd0:
     # mina "A little bit. But I figured it was going to end up like this."
     mina "A little bit. But I figured it was going to end up like this."
 
-# game/characters/mina/ev_8.rpy:57
+# game/characters/mina/ev_8.rpy:59
 translate polish mina_8_menu1_098fd679:
 
     # mina "I got a second kiss, though."
     mina "I got a second kiss, though."
 
-# game/characters/mina/ev_8.rpy:58
+# game/characters/mina/ev_8.rpy:60
 translate polish mina_8_menu1_57d36342:
 
     # me "You got what?"
     me "You got what?"
 
-# game/characters/mina/ev_8.rpy:60
+# game/characters/mina/ev_8.rpy:63
+translate polish mina_8_menu1_9eb8552f:
+
+    # mina "I finally kissed Alice!"
+    mina "I finally kissed Alice!"
+
+# game/characters/mina/ev_8.rpy:64
+translate polish mina_8_menu1_5c21254e:
+
+    # me "You did what?"
+    me "You did what?"
+
+# game/characters/mina/ev_8.rpy:67
 translate polish mina_8_menu1_0d8b4dde:
 
     # mina "Yeah, you heard it right. Are you jealous?"
     mina "Yeah, you heard it right. Are you jealous?"
 
-# game/characters/mina/ev_8.rpy:64
+# game/characters/mina/ev_8.rpy:71
 translate polish mina_8_menu1_845755e6:
 
     # mina "Haha, good for you."
     mina "Haha, good for you."
 
-# game/characters/mina/ev_8.rpy:65
+# game/characters/mina/ev_8.rpy:72
 translate polish mina_8_menu1_3820771a:
 
     # me "..."
     me "..."
 
-# game/characters/mina/ev_8.rpy:67
+# game/characters/mina/ev_8.rpy:74
 translate polish mina_8_menu1_281aae67:
 
     # mina "Don't get upset [me], all's fair in love and war."
     mina "Don't get upset [me], all's fair in love and war."
 
-# game/characters/mina/ev_8.rpy:68
+# game/characters/mina/ev_8.rpy:75
 translate polish mina_8_menu1_b03d0bff:
 
     # me "Thanks for the reminder.."
     me "Thanks for the reminder.."
 
-# game/characters/mina/ev_8.rpy:70
+# game/characters/mina/ev_8.rpy:77
 translate polish mina_8_menu1_af18c310:
 
     # mina "Haha~"
     mina "Haha~"
 
-# game/characters/mina/ev_8.rpy:71
+# game/characters/mina/ev_8.rpy:78
 translate polish mina_8_menu1_50f5d9a0:
 
     # me "So before you piss yourself, let me describe some things I did with Alice."
     me "So before you piss yourself, let me describe some things I did with Alice."
 
-# game/characters/mina/ev_8.rpy:73
+# game/characters/mina/ev_8.rpy:80
 translate polish mina_8_menu1_4fe1ce7e:
 
     # mina "What? No! I don't want to!"
     mina "What? No! I don't want to!"
 
-# game/characters/mina/ev_8.rpy:74
+# game/characters/mina/ev_8.rpy:81
 translate polish mina_8_menu1_df62272f:
 
     # me "Too late, so we.."
     me "Too late, so we.."
 
-# game/characters/mina/ev_8.rpy:76
+# game/characters/mina/ev_8.rpy:83
 translate polish mina_8_menu1_6b472dcd:
 
     # "She covers your mouth with her hand."
     "She covers your mouth with her hand."
 
-# game/characters/mina/ev_8.rpy:77
+# game/characters/mina/ev_8.rpy:84
 translate polish mina_8_menu1_7d6707a7:
 
     # me "Mghm."
     me "Mghm."
 
-# game/characters/mina/ev_8.rpy:79
+# game/characters/mina/ev_8.rpy:86
 translate polish mina_8_menu1_c6e1bc96:
 
     # mina "What are you saying [me]? I can't understand you."
     mina "What are you saying [me]? I can't understand you."
 
-# game/characters/mina/ev_8.rpy:80
+# game/characters/mina/ev_8.rpy:87
 translate polish mina_8_menu1_ed2f78a2:
 
     # me "Mghmn."
     me "Mghmn."
 
-# game/characters/mina/ev_8.rpy:81
+# game/characters/mina/ev_8.rpy:88
 translate polish mina_8_menu1_25f7c923:
 
     # mina "Oh, you want to hear how her lips tasted?"
     mina "Oh, you want to hear how her lips tasted?"
 
-# game/characters/mina/ev_8.rpy:82
+# game/characters/mina/ev_8.rpy:89
 translate polish mina_8_menu1_731c453a:
 
     # me "Yoo lihhle bhmhm."
     me "Yoo lihhle bhmhm."
 
-# game/characters/mina/ev_8.rpy:85
+# game/characters/mina/ev_8.rpy:92
 translate polish mina_8_menu1_361ff73e:
 
     # mina "So her lips tasted like cherry, sweet and delicate. I still feel that velvet texture on my lips. As if it just happened. I felt soooo hot when she kissed me, my panties got soaking wet.."
     mina "So her lips tasted like cherry, sweet and delicate. I still feel that velvet texture on my lips. As if it just happened. I felt soooo hot when she kissed me, my panties got soaking wet.."
 
-# game/characters/mina/ev_8.rpy:86
+# game/characters/mina/ev_8.rpy:93
 translate polish mina_8_menu1_a090df6d:
 
     # me "Enoght."
     me "Enoght."
 
-# game/characters/mina/ev_8.rpy:88
+# game/characters/mina/ev_8.rpy:95
 translate polish mina_8_menu1_3820771a_1:
 
     # me "..."
     me "..."
 
-# game/characters/mina/ev_8.rpy:90
+# game/characters/mina/ev_8.rpy:97
 translate polish mina_8_menu1_ea61e618:
 
     # mina "Hehe~"
     mina "Hehe~"
 
-# game/characters/mina/ev_8.rpy:95
+# game/characters/mina/ev_8.rpy:102
 translate polish mina_8_menu1_0b855850:
 
     # mina "Really?"
     mina "Really?"
 
-# game/characters/mina/ev_8.rpy:96
+# game/characters/mina/ev_8.rpy:103
 translate polish mina_8_menu1_ecd768ba:
 
     # me "Yeah."
     me "Yeah."
 
-# game/characters/mina/ev_8.rpy:97
+# game/characters/mina/ev_8.rpy:104
 translate polish mina_8_menu1_52622cbc:
 
     # mina "You don't mind?"
     mina "You don't mind?"
 
-# game/characters/mina/ev_8.rpy:98
+# game/characters/mina/ev_8.rpy:105
 translate polish mina_8_menu1_6e50d3ef:
 
     # me "No."
     me "No."
 
-# game/characters/mina/ev_8.rpy:99
+# game/characters/mina/ev_8.rpy:106
 translate polish mina_8_menu1_d39611d8:
 
     # mina "Not at all?"
     mina "Not at all?"
 
-# game/characters/mina/ev_8.rpy:100
+# game/characters/mina/ev_8.rpy:107
 translate polish mina_8_menu1_3820771a_2:
 
     # me "..."
     me "..."
 
-# game/characters/mina/ev_8.rpy:102
+# game/characters/mina/ev_8.rpy:109
 translate polish mina_8_menu1_3a71b281:
 
     # mina "???"
     mina "???"
 
-# game/characters/mina/ev_8.rpy:103
+# game/characters/mina/ev_8.rpy:110
 translate polish mina_8_menu1_051d9d5e:
 
     # me "I really don't mind."
     me "I really don't mind."
 
-# game/characters/mina/ev_8.rpy:104
+# game/characters/mina/ev_8.rpy:111
 translate polish mina_8_menu1_4e2a8876:
 
     # mina "..."
     mina "..."
 
-# game/characters/mina/ev_8.rpy:106
+# game/characters/mina/ev_8.rpy:113
 translate polish mina_8_menu1_51483b6c:
 
     # mina "Ah! I know."
     mina "Ah! I know."
 
-# game/characters/mina/ev_8.rpy:108
+# game/characters/mina/ev_8.rpy:115
 translate polish mina_8_menu1_53e7155a:
 
     # "[mina] silently looks at you, nodding."
     "[mina] silently looks at you, nodding."
 
-# game/characters/mina/ev_8.rpy:109
+# game/characters/mina/ev_8.rpy:116
 translate polish mina_8_menu1_314086b3:
 
     # me "What?"
     me "What?"
 
-# game/characters/mina/ev_8.rpy:111
+# game/characters/mina/ev_8.rpy:118
 translate polish mina_8_menu1_c4135555:
 
     # mina "Don't worry, I also like thinking of two girls fooling around."
     mina "Don't worry, I also like thinking of two girls fooling around."
 
-# game/characters/mina/ev_8.rpy:112
+# game/characters/mina/ev_8.rpy:119
 translate polish mina_8_menu1_3820771a_3:
 
     # me "..."
     me "..."
 
-# game/characters/mina/ev_8.rpy:122
+# game/characters/mina/ev_8.rpy:129
 translate polish mina_8_part2_bfe1d4e7:
 
     # me "So, how did it happen?"
     me "So, how did it happen?"
 
-# game/characters/mina/ev_8.rpy:124
+# game/characters/mina/ev_8.rpy:131
 translate polish mina_8_part2_a8c567e9:
 
     # mina "We were eating dinner with Grace and Lexi. We were talking about, you know, girl stuff."
     mina "We were eating dinner with Grace and Lexi. We were talking about, you know, girl stuff."
 
-# game/characters/mina/ev_8.rpy:125
+# game/characters/mina/ev_8.rpy:132
 translate polish mina_8_part2_beb2ced1:
 
     # me "Mm."
     me "Mm."
 
-# game/characters/mina/ev_8.rpy:126
+# game/characters/mina/ev_8.rpy:133
 translate polish mina_8_part2_c3385e97:
 
     # mina "When we were discussing this one TV drama Grace suddenly asked if kisses feel good."
     mina "When we were discussing this one TV drama Grace suddenly asked if kisses feel good."
 
-# game/characters/mina/ev_8.rpy:127
+# game/characters/mina/ev_8.rpy:134
 translate polish mina_8_part2_9fd2ae9d:
 
     # me "I think I understand what happened next."
     me "I think I understand what happened next."
 
-# game/characters/mina/ev_8.rpy:128
+# game/characters/mina/ev_8.rpy:135
 translate polish mina_8_part2_8c7bc08e:
 
     # me "No wait, why did YOU kiss Alice?"
     me "No wait, why did YOU kiss Alice?"
 
-# game/characters/mina/ev_8.rpy:130
+# game/characters/mina/ev_8.rpy:137
 translate polish mina_8_part2_f4f27d92:
 
     # mina "Because I'm smart."
     mina "Because I'm smart."
 
-# game/characters/mina/ev_8.rpy:131
+# game/characters/mina/ev_8.rpy:138
 translate polish mina_8_part2_004f1cca:
 
     # me "Yeah, sure, you're a smartass. So what did you do?"
     me "Yeah, sure, you're a smartass. So what did you do?"
 
-# game/characters/mina/ev_8.rpy:133
+# game/characters/mina/ev_8.rpy:140
 translate polish mina_8_part2_48fc201f:
 
     # mina "Alice naturally confirmed, but Grace thought it was gross. Because of, you know, men and all."
     mina "Alice naturally confirmed, but Grace thought it was gross. Because of, you know, men and all."
 
-# game/characters/mina/ev_8.rpy:134
+# game/characters/mina/ev_8.rpy:141
 translate polish mina_8_part2_a57d116f:
 
     # me "Yeah, that's Grace for you."
     me "Yeah, that's Grace for you."
 
-# game/characters/mina/ev_8.rpy:135
+# game/characters/mina/ev_8.rpy:142
 translate polish mina_8_part2_4afdad5e:
 
     # mina "So I said that you don't need a man to enjoy a kiss."
     mina "So I said that you don't need a man to enjoy a kiss."
 
-# game/characters/mina/ev_8.rpy:136
+# game/characters/mina/ev_8.rpy:143
 translate polish mina_8_part2_1892f1c4:
 
     # me "And you told Alice to demonstrate it with you."
     me "And you told Alice to demonstrate it with you."
 
-# game/characters/mina/ev_8.rpy:138
+# game/characters/mina/ev_8.rpy:145
 translate polish mina_8_part2_507a0ae6:
 
     # mina "Exactly!"
     mina "Exactly!"
 
-# game/characters/mina/ev_8.rpy:139
+# game/characters/mina/ev_8.rpy:146
 translate polish mina_8_part2_94fbeeb5:
 
     # me "What about Grace?"
     me "What about Grace?"
 
-# game/characters/mina/ev_8.rpy:141
+# game/characters/mina/ev_8.rpy:148
 translate polish mina_8_part2_1cc3b9c9:
 
     # mina "Oh, she said it looked fun.."
     mina "Oh, she said it looked fun.."
 
-# game/characters/mina/ev_8.rpy:142
+# game/characters/mina/ev_8.rpy:149
 translate polish mina_8_part2_6def3077:
 
     # me "No, you didn't.. With Grace? ..."
     me "No, you didn't.. With Grace? ..."
 
-# game/characters/mina/ev_8.rpy:145
+# game/characters/mina/ev_8.rpy:152
 translate polish mina_8_part2_bb8de8e1:
 
     # mina "I did. Alice too. Try imagining this scene. Like heaven isn't it? Three beauties pressing their lovely lips on each other. Kissing with innocence and.."
     mina "I did. Alice too. Try imagining this scene. Like heaven isn't it? Three beauties pressing their lovely lips on each other. Kissing with innocence and.."
 
-# game/characters/mina/ev_8.rpy:146
+# game/characters/mina/ev_8.rpy:153
 translate polish mina_8_part2_d05d4851:
 
     # me "What innocence? You were there.."
     me "What innocence? You were there.."
 
-# game/characters/mina/ev_8.rpy:148
+# game/characters/mina/ev_8.rpy:155
 translate polish mina_8_part2_d4b62cbd:
 
     # mina "Is that a hardon you have down there?"
     mina "Is that a hardon you have down there?"
 
-# game/characters/mina/ev_8.rpy:149
+# game/characters/mina/ev_8.rpy:156
 translate polish mina_8_part2_6e50d3ef:
 
     # me "No."
     me "No."
 
-# game/characters/mina/ev_8.rpy:151
+# game/characters/mina/ev_8.rpy:158
 translate polish mina_8_part2_eb8f5190:
 
     # mina "You wish you were there, am I right?"
     mina "You wish you were there, am I right?"
 
-# game/characters/mina/ev_8.rpy:152
+# game/characters/mina/ev_8.rpy:159
 translate polish mina_8_part2_1fec2a47:
 
     # th "It's obvious."
     th "It's obvious."
 
-# game/characters/mina/ev_8.rpy:153
+# game/characters/mina/ev_8.rpy:160
 translate polish mina_8_part2_d243ddad:
 
     # me "Who knows."
     me "Who knows."
 
-# game/characters/mina/ev_8.rpy:155
+# game/characters/mina/ev_8.rpy:162
 translate polish mina_8_part2_87f8ed47:
 
     # mina "A certain part of you knows."
     mina "A certain part of you knows."
 
-# game/characters/mina/ev_8.rpy:156
+# game/characters/mina/ev_8.rpy:163
 translate polish mina_8_part2_b273d15b:
 
     # me "Ah.."
     me "Ah.."
 
-# game/characters/mina/ev_8.rpy:162
+# game/characters/mina/ev_8.rpy:169
 translate polish mina_8_part3_68402d49:
 
     # mina "Alice."
     mina "Alice."
 
-# game/characters/mina/ev_8.rpy:163
+# game/characters/mina/ev_8.rpy:170
 translate polish mina_8_part3_fa5cc437:
 
     # me "She doesn't want to talk with you anymore?"
     me "She doesn't want to talk with you anymore?"
 
-# game/characters/mina/ev_8.rpy:164
+# game/characters/mina/ev_8.rpy:171
 translate polish mina_8_part3_f2c9df01:
 
     # mina "That's not it. I miss her the moment she leaves my sight."
     mina "That's not it. I miss her the moment she leaves my sight."
 
-# game/characters/mina/ev_8.rpy:165
+# game/characters/mina/ev_8.rpy:172
 translate polish mina_8_part3_7c70c455:
 
     # me "Wow, someone is knee deep in.."
     me "Wow, someone is knee deep in.."
 
-# game/characters/mina/ev_8.rpy:168
+# game/characters/mina/ev_8.rpy:175
 translate polish mina_8_part3_24156de4:
 
     # mina "I am. Regrettably, Alice doesn't reciprocate my feelings."
     mina "I am. Regrettably, Alice doesn't reciprocate my feelings."
 
-# game/characters/mina/ev_8.rpy:173
+# game/characters/mina/ev_8.rpy:180
 translate polish mina_8_part3_c5b4fd68:
 
     # mina "Ahh.. You are probably right."
     mina "Ahh.. You are probably right."
 
-# game/characters/mina/ev_8.rpy:174
+# game/characters/mina/ev_8.rpy:181
 translate polish mina_8_part3_31fe7224:
 
     # me "When you are heartbroken, you can always come to me. I'll welcome you with open arms."
     me "When you are heartbroken, you can always come to me. I'll welcome you with open arms."
 
-# game/characters/mina/ev_8.rpy:176
+# game/characters/mina/ev_8.rpy:183
 translate polish mina_8_part3_8adb431e:
 
     # mina "Thanks for the offer, I won't take it, though. You are not my type, sorry."
     mina "Thanks for the offer, I won't take it, though. You are not my type, sorry."
 
-# game/characters/mina/ev_8.rpy:177
+# game/characters/mina/ev_8.rpy:184
 translate polish mina_8_part3_78288cbd:
 
     # me "My arms would be open to you as a friend. We are friends, aren't we?"
     me "My arms would be open to you as a friend. We are friends, aren't we?"
 
-# game/characters/mina/ev_8.rpy:180
+# game/characters/mina/ev_8.rpy:187
 translate polish mina_8_part3_af6e02a5:
 
     # mina "We are. Alright, when it ends I will come to cry myself out in your arms."
     mina "We are. Alright, when it ends I will come to cry myself out in your arms."
 
-# game/characters/mina/ev_8.rpy:184
+# game/characters/mina/ev_8.rpy:191
 translate polish mina_8_part4_6dad6507:
 
     # me "Aside from Alice, do you need anything?"
     me "Aside from Alice, do you need anything?"
 
-# game/characters/mina/ev_8.rpy:186
+# game/characters/mina/ev_8.rpy:193
 translate polish mina_8_part4_f411d028:
 
     # mina "No, I'm fine. Wait, do you have any ice cream on you?"
     mina "No, I'm fine. Wait, do you have any ice cream on you?"
 
-# game/characters/mina/ev_8.rpy:191
+# game/characters/mina/ev_8.rpy:198
 translate polish mina_8_part4_863905d4:
 
     # mina "Thanks!"
     mina "Thanks!"
 
-# game/characters/mina/ev_8.rpy:193
+# game/characters/mina/ev_8.rpy:200
 translate polish mina_8_part4_2aa52e25:
 
     # "She puts the container on the floor."
     "She puts the container on the floor."
 
-# game/characters/mina/ev_8.rpy:196
+# game/characters/mina/ev_8.rpy:203
 translate polish mina_8_part4_85e3f544:
 
     # mina "I can't wait to devour it."
     mina "I can't wait to devour it."
 
-# game/characters/mina/ev_8.rpy:201
+# game/characters/mina/ev_8.rpy:208
 translate polish mina_8_part4_e9c55a93:
 
     # mina "That's a shame."
     mina "That's a shame."
 
-# game/characters/mina/ev_8.rpy:205
+# game/characters/mina/ev_8.rpy:212
 translate polish mina_8_part5_eae68d01:
 
     # me "Aside from ice cream, are you sure you don't need anything else?"
     me "Aside from ice cream, are you sure you don't need anything else?"
 
-# game/characters/mina/ev_8.rpy:207
+# game/characters/mina/ev_8.rpy:214
 translate polish mina_8_part5_e85bbfd6:
 
     # mina "Don't be a nag [me]. I already told you I was fine."
     mina "Don't be a nag [me]. I already told you I was fine."
 
-# game/characters/mina/ev_8.rpy:214
+# game/characters/mina/ev_8.rpy:221
 translate polish mina_8_part6_a8153bcf:
 
     # mina "Aww, you just got here."
     mina "Aww, you just got here."
 
-# game/characters/mina/ev_8.rpy:215
+# game/characters/mina/ev_8.rpy:222
 translate polish mina_8_part6_bf3cffda:
 
     # me "Sorry, I have some other things to do. I promise I'll visit you again."
     me "Sorry, I have some other things to do. I promise I'll visit you again."
 
-# game/characters/mina/ev_8.rpy:217
+# game/characters/mina/ev_8.rpy:224
 translate polish mina_8_part6_0c9c5d64:
 
     # mina "Pinky promise?"
     mina "Pinky promise?"
 
-# game/characters/mina/ev_8.rpy:221
+# game/characters/mina/ev_8.rpy:228
 translate polish mina_8_part6_51cd7a5c:
 
     # mina "Hmph."
     mina "Hmph."
 
-# game/characters/mina/ev_8.rpy:223
+# game/characters/mina/ev_8.rpy:230
 translate polish mina_8_part6_de6b9071:
 
     # mina "What are you still doing here?"
     mina "What are you still doing here?"
 
-# game/characters/mina/ev_8.rpy:224
+# game/characters/mina/ev_8.rpy:231
 translate polish mina_8_part6_3820771a:
 
     # me "..."
     me "..."
 
-# game/characters/mina/ev_8.rpy:225
+# game/characters/mina/ev_8.rpy:232
 translate polish mina_8_part6_83e3dd28:
 
     # th "You just said that I was leaving too soon.."
     th "You just said that I was leaving too soon.."
 
-# game/characters/mina/ev_8.rpy:231
+# game/characters/mina/ev_8.rpy:238
 translate polish mina_8_part6_4a38891d:
 
     # mina "Great!"
     mina "Great!"
 
-# game/characters/mina/ev_8.rpy:235
+# game/characters/mina/ev_8.rpy:242
 translate polish mina_8_part6_98861a02:
 
     # "Mina throws herself at you."
     "Mina throws herself at you."
 
-# game/characters/mina/ev_8.rpy:236
+# game/characters/mina/ev_8.rpy:243
 translate polish mina_8_part6_0311d1e2:
 
     # "Her soft lips make your mind go blank."
     "Her soft lips make your mind go blank."
 
-# game/characters/mina/ev_8.rpy:238
+# game/characters/mina/ev_8.rpy:245
 translate polish mina_8_part6_1abb7396:
 
     # mina "Sealed, hehe~"
     mina "Sealed, hehe~"
 
-# game/characters/mina/ev_8.rpy:244
+# game/characters/mina/ev_8.rpy:251
 translate polish mina_8_part7_23f01cd2:
 
     # "You leave the room."
@@ -682,31 +694,31 @@ translate polish strings:
     old "I told her I did it with Alice. She wasn't angry, though."
     new "I told her I did it with Alice. She wasn't angry, though."
 
-    # game/characters/mina/ev_8.rpy:61
+    # game/characters/mina/ev_8.rpy:68
     old "Hell yes!"
     new "Hell yes!"
 
-    # game/characters/mina/ev_8.rpy:61
+    # game/characters/mina/ev_8.rpy:68
     old "Nah, I'm happy for you"
     new "Nah, I'm happy for you"
 
-    # game/characters/mina/ev_8.rpy:166
+    # game/characters/mina/ev_8.rpy:173
     old "Love"
     new "Love"
 
-    # game/characters/mina/ev_8.rpy:166
+    # game/characters/mina/ev_8.rpy:173
     old "Shit"
     new "Shit"
 
-    # game/characters/mina/ev_8.rpy:187
+    # game/characters/mina/ev_8.rpy:194
     old "Sure, take it"
     new "Sure, take it"
 
-    # game/characters/mina/ev_8.rpy:218
+    # game/characters/mina/ev_8.rpy:225
     old "Don't be a child"
     new "Don't be a child"
 
-    # game/characters/mina/ev_8.rpy:218
+    # game/characters/mina/ev_8.rpy:225
     old "Promise"
     new "Promise"
 

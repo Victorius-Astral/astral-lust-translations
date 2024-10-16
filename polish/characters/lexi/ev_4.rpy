@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/characters/lexi/ev_4.rpy:3
 translate polish lexi_4_b58cf092:
@@ -247,14 +247,6 @@ translate polish strings:
     # game/characters/lexi/ev_4.rpy:14
     old "You should think less"
     new "You should think less"
-
-    # game/characters/lexi/ev_4.rpy:53
-    old "Insist"
-    new "Insist"
-
-    # game/characters/lexi/ev_4.rpy:53
-    old "Let it go"
-    new "Let it go"
 
     # game/characters/lexi/ev_4.rpy:72
     old "I can't promise anything"

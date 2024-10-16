@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/characters/mina/kiss.rpy:17
 translate polish mina_kiss_100ef60d:
@@ -1207,10 +1207,6 @@ translate polish mina_kiss_contest_reward_54b6e29f:
     mina "We will see about that."
 
 translate polish strings:
-
-    # game/characters/mina/kiss.rpy:129
-    old "Let her go"
-    new "Let her go"
 
     # game/characters/mina/kiss.rpy:129
     old "Winner takes all, get your kiss"

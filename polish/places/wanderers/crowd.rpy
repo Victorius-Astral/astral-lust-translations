@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/places/wanderers/crowd.rpy:28
 translate polish w_soldier1_chat_25d53f25:
@@ -1781,8 +1781,8 @@ translate polish strings:
     new "Are you a prostitute?"
 
     # game/places/wanderers/crowd.rpy:258
-    old "Let me see your stock"
-    new "Let me see your stock"
+    old "{image=tradeTextImg} Let me see your stock"
+    new "{image=tradeTextImg} Let me see your stock"
 
     # game/places/wanderers/crowd.rpy:258
     old "Maybe some fun?"

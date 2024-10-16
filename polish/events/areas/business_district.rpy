@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/events/areas/business_district.rpy:36
 translate polish exp_unlock_business_district_ac645fdb:
@@ -29,6 +29,12 @@ translate polish exp_unlock_business_district_bf8a6abf:
 
     # extend " I might be surprised, though."
     extend " I might be surprised, though."
+
+# game/events/areas/business_district.rpy:55
+translate polish explore_business_district_6b1e9b63:
+
+    # "You walk down the foggy road looking for anything of interest."
+    "You walk down the foggy road looking for anything of interest."
 
 translate polish strings:
 

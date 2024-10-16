@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 translate polish strings:
 
@@ -45,6 +45,10 @@ translate polish strings:
     # game/combat/battle/Battle_variables.rpy:55
     old "Orc"
     new "Orc"
+
+    # game/combat/battle/Battle_variables.rpy:71
+    old "None"
+    new "None"
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Beast"

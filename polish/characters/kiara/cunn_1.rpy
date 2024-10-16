@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-08-19 18:18
+﻿# TODO: Translation updated at 2024-10-16 04:34
 
 # game/characters/kiara/cunn_1.rpy:86
 translate polish kiara_cunn_1_4c5b6ca0:
