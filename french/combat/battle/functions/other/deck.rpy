@@ -6,3 +6,11 @@ translate french strings:
     old "{} was lost!"
     new "{} a été perdu!"
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+translate french strings:
+
+    # game/combat/battle/functions/other/deck.rpy:9
+    old "All cards in {} had their experience descreased!"
+    new "All cards in {} had their experience descreased!"
+

@@ -598,3 +598,11 @@ translate french strings:
     # game/characters/alice/ev_3.rpy:146
     old "She brought me to watch her back when she went out to get a.. \"friend\"...."
     new "Elle m'a emmené pour monter la garde quand elle est sortie pour chercher un.. \"ami\"...."
+# TODO: Translation updated at 2024-10-18 07:37
+
+translate french strings:
+
+    # game/characters/alice/ev_3.rpy:146
+    old "She brought me to watch her back when she went out to get a.. 'friend'...."
+    new "She brought me to watch her back when she went out to get a.. 'friend'...."
+

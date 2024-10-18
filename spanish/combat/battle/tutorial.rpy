@@ -385,3 +385,23 @@ translate spanish strings:
     # game/combat/battle/tutorial.rpy:356
     old "Follow the tutorial! It's not the time to end the turn yet."
     new "¡Sigue el tutorial! Todavía no es el momento de terminar el turno."
+# TODO: Translation updated at 2024-10-18 07:38
+
+translate spanish strings:
+
+    # game/combat/battle/tutorial.rpy:62
+    old "Great! This shield to the left of your health is a block. Each block can block one point of damage. With 5 block the werewolf won't be able to harm you at all!"
+    new "Great! This shield to the left of your health is a block. Each block can block one point of damage. With 5 block the werewolf won't be able to harm you at all!"
+
+    # game/combat/battle/tutorial.rpy:92
+    old "Great! Thanks for the buff! You must've noticed that some cards will affect enemies, and others the team. The target isn't random."
+    new "Great! Thanks for the buff! You must've noticed that some cards will affect enemies, and others the team. The target isn't random."
+
+    # game/combat/battle/tutorial.rpy:94
+    old "Targets can be single, or multiple. Read card description carefully to get a full idea about its effect."
+    new "Targets can be single, or multiple. Read card description carefully to get a full idea about its effect."
+
+    # game/combat/battle/tutorial.rpy:104
+    old "The Stab has inflicted a hunter's mark to the enemy. It will deal him +1 damage, with each attack. Hovering over effects will show you what they do."
+    new "The Stab has inflicted a hunter's mark to the enemy. It will deal him +1 damage, with each attack. Hovering over effects will show you what they do."
+

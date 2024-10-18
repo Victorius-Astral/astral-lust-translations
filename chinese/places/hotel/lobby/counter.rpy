@@ -424,3 +424,29 @@ translate chinese strings:
     old "Vault T8 (40 Stone, 40 Metal, 5 Gold Nugget, 3 Gold Bar, 3 Diamond, 2 Orcish Steel)"
     new "Vault T8 (40 Stone, 40 Metal, 5 Gold Nugget, 3 Gold Bar, 3 Diamond, 2 Orcish Steel)"
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+# game/places/hotel/lobby/counter.rpy:78
+translate chinese room_lobby_counter_d6fe7e01:
+
+    # "Forge gives access to card removal and crafting. It's required to upgrade expansions."
+    "Forge gives access to card removal and crafting. It's required to upgrade expansions."
+
+# game/places/hotel/lobby/counter.rpy:311
+translate chinese room_lobby_counter_873b9e9f_12:
+
+    # "It's too late."
+    "It's too late."
+
+# game/places/hotel/lobby/counter.rpy:328
+translate chinese room_lobby_counter_3688fcdf_12:
+
+    # "Insufficient materials!"
+    "Insufficient materials!"
+
+translate chinese strings:
+
+    # game/places/hotel/lobby/counter.rpy:5
+    old "Build next floor (30 Stone, 15 Wood, 15 Metal)"
+    new "Build next floor (30 Stone, 15 Wood, 15 Metal)"
+

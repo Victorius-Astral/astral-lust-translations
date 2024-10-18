@@ -809,3 +809,11 @@ translate spanish strings:
     # game/characters/kiara/speak.rpy:320
     old "Lying"
     new "Recostada"
+# TODO: Translation updated at 2024-10-18 07:38
+
+translate spanish strings:
+
+    # game/characters/kiara/speak.rpy:29
+    old "Do you know any psychiatrist {gold}(Story){/gold}"
+    new "Do you know any psychiatrist {gold}(Story){/gold}"
+

@@ -174,3 +174,11 @@ translate chinese strings:
     old "Have goodbye sex with her"
     new "Have goodbye sex with her"
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+# game/events/dreams/first_love.rpy:13
+translate chinese d_First_Love_2_2a01572e:
+
+    # me "Are you leaving for the university tomorrow?"
+    me "Are you leaving for the university tomorrow?"
+

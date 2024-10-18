@@ -12,3 +12,11 @@ translate vietnamese strings:
     # game/events/explore/explore.rpy:45
     old "Unknown City"
     new "Thành phố không xác định"
+# TODO: Translation updated at 2024-10-18 07:35
+
+# game/events/explore/explore.rpy:73
+translate vietnamese random_explore_6b1e9b63:
+
+    # "You walk down the foggy road looking for anything of interest."
+    "You walk down the foggy road looking for anything of interest."
+

@@ -29,3 +29,11 @@ translate vietnamese strings:
     # game/screens/systems/exploration.rpy:2
     old "Wanderer's Hideout"
     new "Nơi trú ẩn của người du mục"
+# TODO: Translation updated at 2024-10-18 07:35
+
+translate vietnamese strings:
+
+    # game/screens/systems/exploration.rpy:29
+    old "Path of Destiny"
+    new "Path of Destiny"
+

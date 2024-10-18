@@ -349,3 +349,65 @@ translate vietnamese strings:
     # game/places/wanderers/hunter.rpy:125
     old "Learn"
     new "Học"
+# TODO: Translation updated at 2024-10-18 07:35
+
+# game/places/wanderers/hunter.rpy:66
+translate vietnamese theHunter_speak_firstmeeting_5758ee8c:
+
+    # theHunter "You've met 'Him', right?"
+    theHunter "You've met 'Him', right?"
+
+# game/places/wanderers/hunter.rpy:68
+translate vietnamese theHunter_speak_firstmeeting_b7c57f45:
+
+    # theHunter "Leader of the Cult of the Black."
+    theHunter "Leader of the Cult of the Black."
+
+# game/places/wanderers/hunter.rpy:73
+translate vietnamese theHunter_speak_firstmeeting_c57d19b9:
+
+    # theHunter "You must've experienced 'His' horror."
+    theHunter "You must've experienced 'His' horror."
+
+# game/places/wanderers/hunter.rpy:75
+translate vietnamese theHunter_speak_firstmeeting_695105eb:
+
+    # theHunter "You did. But only a glimpse."
+    theHunter "You did. But only a glimpse."
+
+# game/places/wanderers/hunter.rpy:77
+translate vietnamese theHunter_speak_firstmeeting_3a5f1cca:
+
+    # theHunter "Because you merely feel silent once I mentioned 'Him'."
+    theHunter "Because you merely feel silent once I mentioned 'Him'."
+
+# game/places/wanderers/hunter.rpy:78
+translate vietnamese theHunter_speak_firstmeeting_988bb5a7:
+
+    # theHunter "If you've seen 'His' true horror, you would fall into panic at a mere mention of 'Him'."
+    theHunter "If you've seen 'His' true horror, you would fall into panic at a mere mention of 'Him'."
+
+# game/places/wanderers/hunter.rpy:81
+translate vietnamese theHunter_speak_firstmeeting_ff5ca5e2:
+
+    # theHunter "You underestimate 'Him'. If 'He' wanted to spy on you, 'His' parasites would be crawling through your body already."
+    theHunter "You underestimate 'Him'. If 'He' wanted to spy on you, 'His' parasites would be crawling through your body already."
+
+# game/places/wanderers/hunter.rpy:83
+translate vietnamese theHunter_speak_firstmeeting_b1dd1c52:
+
+    # theHunter "I'm no longer a member of the cult."
+    theHunter "I'm no longer a member of the cult."
+
+# game/places/wanderers/hunter.rpy:85
+translate vietnamese theHunter_speak_firstmeeting_4899d547:
+
+    # theHunter "Heh, I ran away."
+    theHunter "Heh, I ran away."
+
+# game/places/wanderers/hunter.rpy:87
+translate vietnamese theHunter_speak_firstmeeting_0546f729:
+
+    # theHunter "'He' wouldn't bother with the likes of me. Much less chase me."
+    theHunter "'He' wouldn't bother with the likes of me. Much less chase me."
+

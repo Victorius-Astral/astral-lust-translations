@@ -4459,3 +4459,495 @@ translate spanish grace_13_c3120170:
 
     # grace "No. I just wanted to talk with you."
     grace "No. Sólo quería hablar contigo."
+# TODO: Translation updated at 2024-10-18 07:38
+
+# game/characters/grace/ev_13.rpy:80
+translate spanish grace_13_c373e9fb:
+
+    # th "Wow, she's much more lively lately. I must say I like it."
+    th "Wow, she's much more lively lately. I must say I like it."
+
+# game/characters/grace/ev_13.rpy:84
+translate spanish grace_13_80a0a6aa:
+
+    # grace "I dreamed of Dad again."
+    grace "I dreamed of Dad again."
+
+# game/characters/grace/ev_13.rpy:128
+translate spanish grace_13_30dc82aa:
+
+    # grace "I'll tell Dad I want to go."
+    grace "I'll tell Dad I want to go."
+
+# game/characters/grace/ev_13.rpy:176
+translate spanish grace_13_c264f3c6:
+
+    # th "Yeah, seems she wanted to agree, she just needed someone to assure her of this."
+    th "Yeah, seems she wanted to agree, she just needed someone to assure her of this."
+
+# game/characters/grace/ev_13.rpy:204
+translate spanish grace_13_part2_3f341f79:
+
+    # th "I don't have a dildo, though. [alice] has a few.. Am I going to ask my girlfriend for a dildo? No way.. She would kill me."
+    th "I don't have a dildo, though. [alice] has a few.. Am I going to ask my girlfriend for a dildo? No way.. She would kill me."
+
+# game/characters/grace/ev_13.rpy:222
+translate spanish grace_13_part2_03cef65a:
+
+    # me "I don't have any toy like this. I'll go ask Alice to give us one, okay?"
+    me "I don't have any toy like this. I'll go ask Alice to give us one, okay?"
+
+# game/characters/grace/ev_13.rpy:239
+translate spanish grace_13_part2_179e0b92:
+
+    # th "How the hell would I know? It doesn't seem like something like this, though."
+    th "How the hell would I know? It doesn't seem like something like this, though."
+
+# game/characters/grace/ev_13.rpy:261
+translate spanish grace_13_part2_1a7e32a1:
+
+    # th "What do I do now?" nointeract
+    th "What do I do now?" nointeract
+
+# game/characters/grace/ev_13.rpy:269
+translate spanish grace_13_part2_dfbe25a9:
+
+    # th "I remember we went to that one sex shop back then, maybe there is something left."
+    th "I remember we went to that one sex shop back then, maybe there is something left."
+
+# game/characters/grace/ev_13.rpy:270
+translate spanish grace_13_part2_7c8ef787:
+
+    # th "It's worth a try."
+    th "It's worth a try."
+
+# game/characters/grace/ev_13.rpy:271
+translate spanish grace_13_part2_9cec3909:
+
+    # me "I'm going outside."
+    me "I'm going outside."
+
+# game/characters/grace/ev_13.rpy:272
+translate spanish grace_13_part2_8baa1074:
+
+    # alice "'Kay. Be careful, okay?"
+    alice "'Kay. Be careful, okay?"
+
+# game/characters/grace/ev_13.rpy:273
+translate spanish grace_13_part2_52187447:
+
+    # me "Of course."
+    me "Of course."
+
+# game/characters/grace/ev_13.rpy:274
+translate spanish grace_13_part2_226aa1a6:
+
+    # alice "Or, do you want me to come with you?"
+    alice "Or, do you want me to come with you?"
+
+# game/characters/grace/ev_13.rpy:275
+translate spanish grace_13_part2_6ad95a51:
+
+    # me "No need."
+    me "No need."
+
+# game/characters/grace/ev_13.rpy:276
+translate spanish grace_13_part2_6ac4a210:
+
+    # extend " It's stealthier on my own."
+    extend " It's stealthier on my own."
+
+# game/characters/grace/ev_13.rpy:278
+translate spanish grace_13_part2_5cdebf03:
+
+    # me "Bye."
+    me "Bye."
+
+# game/characters/grace/ev_13.rpy:279
+translate spanish grace_13_part2_a1260934:
+
+    # alice "Take care."
+    alice "Take care."
+
+# game/characters/grace/ev_13.rpy:283
+translate spanish grace_13_part2_714a08f3:
+
+    # th "I need to get a dildo for [grace] outside."
+    th "I need to get a dildo for [grace] outside."
+
+# game/characters/grace/ev_13.rpy:284
+translate spanish grace_13_part2_a844efae:
+
+    # th "Looking for the sex shop I visited with Alice previously might be a way to go."
+    th "Looking for the sex shop I visited with Alice previously might be a way to go."
+
+# game/characters/grace/ev_13.rpy:292
+translate spanish grace_13_part2_27911c6e:
+
+    # grace "Do you have it?"
+    grace "Do you have it?"
+
+# game/characters/grace/ev_13.rpy:293
+translate spanish grace_13_part2_8238eeed:
+
+    # me "No. I'm going to need to find it outside."
+    me "No. I'm going to need to find it outside."
+
+# game/characters/grace/ev_13.rpy:298
+translate spanish grace_13_part2_007f351d:
+
+    # extend " Be cautious, you're more important than this."
+    extend " Be cautious, you're more important than this."
+
+# game/characters/grace/ev_13.rpy:299
+translate spanish grace_13_part2_3778c9c2:
+
+    # me "Don't worry, [grace]. I got it."
+    me "Don't worry, [grace]. I got it."
+
+# game/characters/grace/ev_13.rpy:314
+translate spanish grace_13_part2_29ce5339:
+
+    # th "Fuckin' knew it. Well, no need to deny it. That was not the brightest idea in the first place."
+    th "Fuckin' knew it. Well, no need to deny it. That was not the brightest idea in the first place."
+
+# game/characters/grace/ev_13.rpy:315
+translate spanish grace_13_part2_322e455b:
+
+    # me "That was my intention."
+    me "That was my intention."
+
+# game/characters/grace/ev_13.rpy:325
+translate spanish grace_13_part2_d779f523:
+
+    # "You stand there embarrassed and awkward. You really have no idea what to say."
+    "You stand there embarrassed and awkward. You really have no idea what to say."
+
+# game/characters/grace/ev_13.rpy:326
+translate spanish grace_13_part2_e5e0a28c:
+
+    # th "I've let her down..."
+    th "I've let her down..."
+
+# game/characters/grace/ev_13.rpy:333
+translate spanish grace_13_part2_6a745453:
+
+    # alice "You've awakened in a place full of beauties, and they're even interested in you, you have no one to contend with. Even better, you found yourself a super beautiful girlfriend."
+    alice "You've awakened in a place full of beauties, and they're even interested in you, you have no one to contend with. Even better, you found yourself a super beautiful girlfriend."
+
+# game/characters/grace/ev_13.rpy:336
+translate spanish grace_13_part2_b389f34b:
+
+    # alice "I don't even want to strangle you. I'm too tired for this. Your luck is so bullshit that I'm starting to consider if you're not some weird monster."
+    alice "I don't even want to strangle you. I'm too tired for this. Your luck is so bullshit that I'm starting to consider if you're not some weird monster."
+
+# game/characters/grace/ev_13.rpy:337
+translate spanish grace_13_part2_76b1e420:
+
+    # th "It really looks eerie now that she mentions it. Is it not too many coincidences?"
+    th "It really looks eerie now that she mentions it. Is it not too many coincidences?"
+
+# game/characters/grace/ev_13.rpy:372
+translate spanish grace_13_part2_cf8600ad:
+
+    # th "I really put her off today.. It won't end arguing with her now."
+    th "I really put her off today.. It won't end arguing with her now."
+
+# game/characters/grace/ev_13.rpy:378
+translate spanish grace_13_part2_fa2328a6:
+
+    # me "I'm not doing that."
+    me "I'm not doing that."
+
+# game/characters/grace/ev_13.rpy:379
+translate spanish grace_13_part2_27e27189:
+
+    # alice "You do this to me and can't even take a small punishment?"
+    alice "You do this to me and can't even take a small punishment?"
+
+# game/characters/grace/ev_13.rpy:380
+translate spanish grace_13_part2_7451398e:
+
+    # me "I have my pride."
+    me "I have my pride."
+
+# game/characters/grace/ev_13.rpy:381
+translate spanish grace_13_part2_78b27f10:
+
+    # alice "You of all people speak about pride?"
+    alice "You of all people speak about pride?"
+
+# game/characters/grace/ev_13.rpy:382
+translate spanish grace_13_part2_5e44f7c3:
+
+    # alice "You do this to me, and now you won't even..."
+    alice "You do this to me, and now you won't even..."
+
+# game/characters/grace/ev_13.rpy:386
+translate spanish grace_13_part2_3bde1a3b:
+
+    # alice "Nevermind."
+    alice "Nevermind."
+
+# game/characters/grace/ev_13.rpy:387
+translate spanish grace_13_part2_e6ab57f7:
+
+    # alice "Take your shitty dildo."
+    alice "Take your shitty dildo."
+
+# game/characters/grace/ev_13.rpy:388
+translate spanish grace_13_part2_2a9a2089:
+
+    # me "Alice..."
+    me "Alice..."
+
+# game/characters/grace/ev_13.rpy:393
+translate spanish grace_13_part2_40295011:
+
+    # alice "Just leave me alone."
+    alice "Just leave me alone."
+
+# game/characters/grace/ev_13.rpy:397
+translate spanish grace_13_part2_85dc2a51:
+
+    # th "I hurt her..."
+    th "I hurt her..."
+
+# game/characters/grace/ev_13.rpy:398
+translate spanish grace_13_part2_4c148cb4:
+
+    # th "Seriously hurt her..."
+    th "Seriously hurt her..."
+
+# game/characters/grace/ev_13.rpy:404
+translate spanish grace_13_part2_5d06bbd8:
+
+    # grace "Are you alright?"
+    grace "Are you alright?"
+
+# game/characters/grace/ev_13.rpy:405
+translate spanish grace_13_part2_9ffb929d:
+
+    # extend " You look sad..."
+    extend " You look sad..."
+
+# game/characters/grace/ev_13.rpy:406
+translate spanish grace_13_part2_a7a1ee32:
+
+    # me "I'm okay."
+    me "I'm okay."
+
+# game/characters/grace/ev_13.rpy:407
+translate spanish grace_13_part2_932c328e:
+
+    # grace "It doesn't matter you didn't find it."
+    grace "It doesn't matter you didn't find it."
+
+# game/characters/grace/ev_13.rpy:408
+translate spanish grace_13_part2_a744ab57:
+
+    # me "No, no. That's not it. I got it."
+    me "No, no. That's not it. I got it."
+
+# game/characters/grace/ev_13.rpy:412
+translate spanish grace_13_part2_e317127f:
+
+    # grace "Why are you sad, then?"
+    grace "Why are you sad, then?"
+
+# game/characters/grace/ev_13.rpy:413
+translate spanish grace_13_part2_f4189b97:
+
+    # me "{i}*Sigh*{/i}"
+    me "{i}*Sigh*{/i}"
+
+# game/characters/grace/ev_13.rpy:414
+translate spanish grace_13_part2_cdb228d4:
+
+    # extend " That's adult stuff, you wouldn't understand."
+    extend " That's adult stuff, you wouldn't understand."
+
+# game/characters/grace/ev_13.rpy:419
+translate spanish grace_13_part2_a226a318:
+
+    # extend " Can I help somehow?"
+    extend " Can I help somehow?"
+
+# game/characters/grace/ev_13.rpy:420
+translate spanish grace_13_part2_8e27ac59:
+
+    # me "No, I must get over it myself."
+    me "No, I must get over it myself."
+
+# game/characters/grace/ev_13.rpy:421
+translate spanish grace_13_part2_93d5aa2a:
+
+    # me "Here."
+    me "Here."
+
+# game/characters/grace/ev_13.rpy:425
+translate spanish grace_13_part2_fb1b5575:
+
+    # grace "Thank you."
+    grace "Thank you."
+
+# game/characters/grace/ev_13.rpy:426
+translate spanish grace_13_part2_bf878d6f:
+
+    # me "Don't be sad. You remember how Alice used it, right?"
+    me "Don't be sad. You remember how Alice used it, right?"
+
+# game/characters/grace/ev_13.rpy:428
+translate spanish grace_13_part2_c587c735:
+
+    # me "Do the same and it'll work."
+    me "Do the same and it'll work."
+
+# game/characters/grace/ev_13.rpy:429
+translate spanish grace_13_part2_7402cda2_3:
+
+    # grace "Mm."
+    grace "Mm."
+
+# game/characters/grace/ev_13.rpy:430
+translate spanish grace_13_part2_ec2cba21:
+
+    # "You two stare at each other in a depressing silence for a minute."
+    "You two stare at each other in a depressing silence for a minute."
+
+# game/characters/grace/ev_13.rpy:431
+translate spanish grace_13_part2_61d82079:
+
+    # me "Are you not going?"
+    me "Are you not going?"
+
+# game/characters/grace/ev_13.rpy:432
+translate spanish grace_13_part2_10c791fc:
+
+    # grace "You're sad..."
+    grace "You're sad..."
+
+# game/characters/grace/ev_13.rpy:433
+translate spanish grace_13_part2_445f82e7:
+
+    # me "It's alright."
+    me "It's alright."
+
+# game/characters/grace/ev_13.rpy:434
+translate spanish grace_13_part2_221ab8e4:
+
+    # extend " I want to be alone for a while."
+    extend " I want to be alone for a while."
+
+# game/characters/grace/ev_13.rpy:440
+translate spanish grace_13_part2_0f97c633:
+
+    # "She doesn't answer and just hugs you tightly."
+    "She doesn't answer and just hugs you tightly."
+
+# game/characters/grace/ev_13.rpy:442
+translate spanish grace_13_part2_25067732:
+
+    # th "She's such a lovely girl."
+    th "She's such a lovely girl."
+
+# game/characters/grace/ev_13.rpy:446
+translate spanish grace_13_part2_7d05efc8:
+
+    # "After a while, she leaves without a word."
+    "After a while, she leaves without a word."
+
+# game/characters/grace/ev_13.rpy:447
+translate spanish grace_13_part2_f4189b97_1:
+
+    # me "{i}*Sigh*{/i}"
+    me "{i}*Sigh*{/i}"
+
+# game/characters/grace/ev_13.rpy:457
+translate spanish grace_13_part2_7b657e95:
+
+    # th "Maybe it's because it's a public place and an uncommon situation, but my balls feel cold."
+    th "Maybe it's because it's a public place and an uncommon situation, but my balls feel cold."
+
+# game/characters/grace/ev_13.rpy:744
+translate spanish grace_13_part2_7402cda2_4:
+
+    # grace "Mm."
+    grace "Mm."
+
+# game/characters/grace/ev_13.rpy:745
+translate spanish grace_13_part2_3820771a_8:
+
+    # me "..."
+    me "..."
+
+# game/characters/grace/ev_13.rpy:758
+translate spanish grace_13_part2_3822f84b_2:
+
+    # alice "Yeah."
+    alice "Yeah."
+
+# game/characters/grace/ev_13.rpy:759
+translate spanish grace_13_part2_7402cda2_5:
+
+    # grace "Mm."
+    grace "Mm."
+
+# game/characters/grace/ev_13.rpy:764
+translate spanish grace_13_part2_7402cda2_6:
+
+    # grace "Mm."
+    grace "Mm."
+
+# game/characters/grace/ev_13.rpy:829
+translate spanish grace_13_part2_a18c65d1_2:
+
+    # grace "I see."
+    grace "I see."
+
+# game/characters/grace/ev_13.rpy:1168
+translate spanish grace_13_part3_3000e102:
+
+    # alice "You're surprisingly well-behaved today."
+    alice "You're surprisingly well-behaved today."
+
+# game/characters/grace/ev_13.rpy:1273
+translate spanish grace_13_part3_4dcdea40:
+
+    # alice "That's the role of a girlfriend. To know her naughty boy's every thought."
+    alice "That's the role of a girlfriend. To know her naughty boy's every thought."
+
+# game/characters/grace/ev_13.rpy:1293
+translate spanish grace_13_part3_ad0770c3:
+
+    # alice "Go wash, both of you."
+    alice "Go wash, both of you."
+
+# game/characters/grace/ev_13.rpy:1388
+translate spanish grace_13_part3_41998aa0:
+
+    # me "You love trouble, don't you?"
+    me "You love trouble, don't you?"
+
+translate spanish strings:
+
+    # game/characters/grace/ev_13.rpy:260
+    old "Ask her for a dildo"
+    new "Ask her for a dildo"
+
+    # game/characters/grace/ev_13.rpy:260
+    old "Try to find one outside"
+    new "Try to find one outside"
+
+    # game/characters/grace/ev_13.rpy:374
+    old "Do you let her take control?"
+    new "Do you let her take control?"
+
+    # game/characters/grace/ev_13.rpy:374
+    old "I'm not doing that!"
+    new "I'm not doing that!"
+
+    # game/characters/grace/ev_13.rpy:374
+    old "Let her vent"
+    new "Let her vent"
+

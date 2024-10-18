@@ -536,3 +536,11 @@ translate chinese strings:
     old "He definitely was a monster"
     new "He definitely was a monster"
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+# game/characters/lexi/ev_9.rpy:51
+translate chinese lexi_9_0cd40d7f:
+
+    # lexi "Dark.. I felt pure terror when looking at him, his eyes were.. They were cold.. "
+    lexi "Dark.. I felt pure terror when looking at him, his eyes were.. They were cold.. "
+

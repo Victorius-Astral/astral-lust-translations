@@ -243,3 +243,11 @@ translate chinese alice_wakeup_sex_7ec019f4_1:
     # th "Time to get up, it's afternoon already.."
     th "该起床了，已经下午了.."
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+# game/characters/alice/wakeup_sex.rpy:78
+translate chinese alice_wakeup_sex_047bb6e2:
+
+    # me "I sure am, who is the best daddy?"
+    me "I sure am, who is the best daddy?"
+

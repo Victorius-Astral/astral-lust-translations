@@ -1255,3 +1255,195 @@ translate french strings:
     old "I'll get you the vodka you wanted {gold}(Story){/gold}"
     new "I'll get you the vodka you wanted {gold}(Story){/gold}"
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+# game/characters/mina/speak.rpy:149
+translate french speak_mina_fun_78455acf:
+
+    # me "You up for some bloodsucker fun?"
+    me "You up for some bloodsucker fun?"
+
+# game/characters/mina/speak.rpy:153
+translate french speak_mina_fun_72db6938:
+
+    # mina "Always."
+    mina "Always."
+
+# game/characters/mina/speak.rpy:164
+translate french speak_mina_fun_0039ba42:
+
+    # me "How about you use your perfect tits for something nice again?"
+    me "How about you use your perfect tits for something nice again?"
+
+# game/characters/mina/speak.rpy:168
+translate french speak_mina_fun_4e2a8876:
+
+    # mina "..."
+    mina "..."
+
+# game/characters/mina/speak.rpy:169
+translate french speak_mina_fun_5ece6d23:
+
+    # mina "What do you want me to wear?"
+    mina "What do you want me to wear?"
+
+# game/characters/mina/speak.rpy:191
+translate french speak_mina_fun_a4c5cb54:
+
+    # mina "Day off. I'm taking a day off. 'Kay?"
+    mina "Day off. I'm taking a day off. 'Kay?"
+
+# game/characters/mina/speak.rpy:192
+translate french speak_mina_fun_c76d319b:
+
+    # me "'Key."
+    me "'Key."
+
+# game/characters/mina/speak.rpy:193
+translate french speak_mina_fun_499e08eb:
+
+    # mina "Sweet."
+    mina "Sweet."
+
+# game/characters/mina/speak.rpy:205
+translate french speak_mina_fun_37318634:
+
+    # mina "Not today, bro."
+    mina "Not today, bro."
+
+# game/characters/mina/speak.rpy:206
+translate french speak_mina_fun_043b6a09:
+
+    # mina "I'm too tired."
+    mina "I'm too tired."
+
+# game/characters/mina/speak.rpy:212
+translate french speak_mina_fun_59119599:
+
+    # mina "Yes?"
+    mina "Yes?"
+
+# game/characters/mina/speak.rpy:216
+translate french speak_mina_fun_35dfbcf5:
+
+    # mina "Is it about Lexi?!"
+    mina "Is it about Lexi?!"
+
+# game/characters/mina/speak.rpy:217
+translate french speak_mina_fun_016b9631:
+
+    # me "No?"
+    me "No?"
+
+# game/characters/mina/speak.rpy:219
+translate french speak_mina_fun_f76ed5c9:
+
+    # mina "Oh.. What do you want to know then?"
+    mina "Oh.. What do you want to know then?"
+
+# game/characters/mina/speak.rpy:299
+translate french speak_mina_menu2_16835a21:
+
+    # mina "You're not going to forget, are you?"
+    mina "You're not going to forget, are you?"
+
+# game/characters/mina/speak.rpy:300
+translate french speak_mina_menu2_de1956f8:
+
+    # me "I don't think so, no."
+    me "I don't think so, no."
+
+# game/characters/mina/speak.rpy:301
+translate french speak_mina_menu2_7c3891d8:
+
+    # mina "Great..."
+    mina "Great..."
+
+# game/characters/mina/speak.rpy:302
+translate french speak_mina_menu2_b32b5950:
+
+    # me "Hahaha."
+    me "Hahaha."
+
+# game/characters/mina/speak.rpy:303
+translate french speak_mina_menu2_7c3891d8_1:
+
+    # mina "Great..."
+    mina "Great..."
+
+# game/characters/mina/speak.rpy:310
+translate french speak_mina_menu2_9e340d0d:
+
+    # mina "What are you talking about?"
+    mina "What are you talking about?"
+
+# game/characters/mina/speak.rpy:311
+translate french speak_mina_menu2_f3fa62f2:
+
+    # me "Do you want me to get you some milk outside?"
+    me "Do you want me to get you some milk outside?"
+
+# game/characters/mina/speak.rpy:315
+translate french speak_mina_menu2_9dd145fa:
+
+    # mina "No..."
+    mina "No..."
+
+# game/characters/mina/speak.rpy:316
+translate french speak_mina_menu2_12c5e4fa:
+
+    # extend " She didn't..."
+    extend " She didn't..."
+
+# game/characters/mina/speak.rpy:317
+translate french speak_mina_menu2_6fd51326:
+
+    # me "She did."
+    me "She did."
+
+# game/characters/mina/speak.rpy:321
+translate french speak_mina_menu2_c4cac894:
+
+    # mina "I'm going to stragle her!"
+    mina "I'm going to stragle her!"
+
+# game/characters/mina/speak.rpy:322
+translate french speak_mina_menu2_5be37c90:
+
+    # me "Hahaha!~"
+    me "Hahaha!~"
+
+# game/characters/mina/speak.rpy:326
+translate french speak_mina_menu2_ae742543:
+
+    # mina "Great. Just great."
+    mina "Great. Just great."
+
+# game/characters/mina/speak.rpy:327
+translate french speak_mina_menu2_4a52fbfc:
+
+    # mina "Another one..."
+    mina "Another one..."
+
+# game/characters/mina/speak.rpy:328
+translate french speak_mina_menu2_21eb4978:
+
+    # mina "Ehhh... I hate you both."
+    mina "Ehhh... I hate you both."
+
+# game/characters/mina/speak.rpy:329
+translate french speak_mina_menu2_d8f22304:
+
+    # me "Haha, sure."
+    me "Haha, sure."
+
+translate french strings:
+
+    # game/characters/mina/speak.rpy:47
+    old "Wanna drink again? {gold}(Story){/gold}"
+    new "Wanna drink again? {gold}(Story){/gold}"
+
+    # game/characters/mina/speak.rpy:221
+    old "You're quite an amazing actress"
+    new "You're quite an amazing actress"
+

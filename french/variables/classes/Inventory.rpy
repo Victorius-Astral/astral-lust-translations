@@ -18,3 +18,11 @@ translate french strings:
     old "Lost all items."
     new "Tous les objets perdus."
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+translate french strings:
+
+    # game/variables/classes/Inventory.rpy:33
+    old "Error looting items, unknown item: {}"
+    new "Error looting items, unknown item: {}"
+

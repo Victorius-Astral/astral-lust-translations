@@ -1158,3 +1158,227 @@ translate chinese strings:
     old "mute main"
     new "mute main"
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+translate chinese strings:
+
+    # renpy/common/00accessibility.rpy:121
+    old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+
+    # renpy/common/00accessibility.rpy:198
+    old "Self-voicing support is limited when using a touch screen."
+    new "Self-voicing support is limited when using a touch screen."
+
+    # renpy/common/00director.rpy:1752
+    old "Click to toggle attribute, right click to toggle negative attribute."
+    new "Click to toggle attribute, right click to toggle negative attribute."
+
+    # renpy/common/00director.rpy:1775
+    old "Click to set transform, right click to add to transform list."
+    new "Click to set transform, right click to add to transform list."
+
+    # renpy/common/00director.rpy:1776
+    old "Customize director.transforms to add more transforms."
+    new "Customize director.transforms to add more transforms."
+
+    # renpy/common/00director.rpy:1799
+    old "Click to set, right click to add to behind list."
+    new "Click to set, right click to add to behind list."
+
+    # renpy/common/00director.rpy:1821
+    old "Click to set."
+    new "Click to set."
+
+    # renpy/common/00director.rpy:1822
+    old "Customize director.transitions to add more transitions."
+    new "Customize director.transitions to add more transitions."
+
+    # renpy/common/00director.rpy:1845
+    old "Customize director.audio_channels to add more channels."
+    new "Customize director.audio_channels to add more channels."
+
+    # renpy/common/00gui.rpy:454
+    old "Are you sure you want to continue where you left off?"
+    new "Are you sure you want to continue where you left off?"
+
+    # renpy/common/00gui.rpy:459
+    old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+    new "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+
+    # renpy/common/00gui.rpy:460
+    old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+    new "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+
+    # renpy/common/00preferences.rpy:440
+    old "self voicing enable"
+    new "self voicing enable"
+
+    # renpy/common/00preferences.rpy:442
+    old "self voicing disable"
+    new "self voicing disable"
+
+    # renpy/common/00preferences.rpy:457
+    old "clipboard voicing enable"
+    new "clipboard voicing enable"
+
+    # renpy/common/00preferences.rpy:459
+    old "clipboard voicing disable"
+    new "clipboard voicing disable"
+
+    # renpy/common/00preferences.rpy:466
+    old "debug voicing enable"
+    new "debug voicing enable"
+
+    # renpy/common/00preferences.rpy:468
+    old "debug voicing disable"
+    new "debug voicing disable"
+
+    # renpy/common/00preferences.rpy:555
+    old "audio when unfocused"
+    new "audio when unfocused"
+
+    # renpy/common/00preferences.rpy:564
+    old "web cache preload"
+    new "web cache preload"
+
+    # renpy/common/00preferences.rpy:579
+    old "voice after game menu"
+    new "voice after game menu"
+
+    # renpy/common/00preferences.rpy:588
+    old "restore window position"
+    new "restore window position"
+
+    # renpy/common/00preferences.rpy:597
+    old "reset"
+    new "reset"
+
+    # renpy/common/00speechbubble.rpy:416
+    old "Speech Bubble Editor"
+    new "Speech Bubble Editor"
+
+    # renpy/common/00speechbubble.rpy:421
+    old "(hide)"
+    new "(hide)"
+
+    # renpy/common/00speechbubble.rpy:432
+    old "(clear retained bubbles)"
+    new "(clear retained bubbles)"
+
+    # renpy/common/00sync.rpy:70
+    old "Sync downloaded."
+    new "Sync downloaded."
+
+    # renpy/common/00sync.rpy:193
+    old "Could not connect to the Ren'Py Sync server."
+    new "Could not connect to the Ren'Py Sync server."
+
+    # renpy/common/00sync.rpy:195
+    old "The Ren'Py Sync server timed out."
+    new "The Ren'Py Sync server timed out."
+
+    # renpy/common/00sync.rpy:197
+    old "An unknown error occurred while connecting to the Ren'Py Sync server."
+    new "An unknown error occurred while connecting to the Ren'Py Sync server."
+
+    # renpy/common/00sync.rpy:213
+    old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
+    new "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
+
+    # renpy/common/00sync.rpy:316
+    old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
+    new "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
+
+    # renpy/common/00sync.rpy:335
+    old "The sync ID is not in the correct format."
+    new "The sync ID is not in the correct format."
+
+    # renpy/common/00sync.rpy:355
+    old "The sync could not be decrypted."
+    new "The sync could not be decrypted."
+
+    # renpy/common/00sync.rpy:378
+    old "The sync belongs to a different game."
+    new "The sync belongs to a different game."
+
+    # renpy/common/00sync.rpy:383
+    old "The sync contains a file with an invalid name."
+    new "The sync contains a file with an invalid name."
+
+    # renpy/common/00sync.rpy:440
+    old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
+    new "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
+
+    # renpy/common/00sync.rpy:472
+    old "Enter Sync ID"
+    new "Enter Sync ID"
+
+    # renpy/common/00sync.rpy:483
+    old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
+    new "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
+
+    # renpy/common/00sync.rpy:513
+    old "Sync Success"
+    new "Sync Success"
+
+    # renpy/common/00sync.rpy:516
+    old "The Sync ID is:"
+    new "The Sync ID is:"
+
+    # renpy/common/00sync.rpy:522
+    old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
+    new "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
+
+    # renpy/common/00sync.rpy:551
+    old "Sync Error"
+    new "Sync Error"
+
+    # renpy/common/00translation.rpy:63
+    old "Translation identifier: [identifier]"
+    new "Translation identifier: [identifier]"
+
+    # renpy/common/00translation.rpy:84
+    old " translates [tl.filename]:[tl.linenumber]"
+    new " translates [tl.filename]:[tl.linenumber]"
+
+    # renpy/common/00translation.rpy:101
+    old "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\n{color=#fff}Copied to clipboard.{/color}"
+
+    # renpy/common/00updater.rpy:505
+    old "No update methods found."
+    new "No update methods found."
+
+    # renpy/common/00updater.rpy:552
+    old "Could not download file list: "
+    new "Could not download file list: "
+
+    # renpy/common/00updater.rpy:555
+    old "File list digest does not match."
+    new "File list digest does not match."
+
+    # renpy/common/00updater.rpy:2080
+    old "Preparing to download the game data."
+    new "Preparing to download the game data."
+
+    # renpy/common/00updater.rpy:2082
+    old "Downloading the game data."
+    new "Downloading the game data."
+
+    # renpy/common/00updater.rpy:2084
+    old "The game data has been downloaded."
+    new "The game data has been downloaded."
+
+    # renpy/common/00updater.rpy:2086
+    old "An error occured when trying to download game data:"
+    new "An error occured when trying to download game data:"
+
+    # renpy/common/00updater.rpy:2091
+    old "This game cannot be run until the game data has been downloaded."
+    new "This game cannot be run until the game data has been downloaded."
+
+    # renpy/common/00updater.rpy:2098
+    old "Retry"
+    new "Retry"
+

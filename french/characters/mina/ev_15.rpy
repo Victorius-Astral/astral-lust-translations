@@ -1887,3 +1887,11 @@ translate french strings:
     # game/characters/mina/ev_15.rpy:451
     old "[[This choice has major impact on a story! It can't be reversed!]"
     new "[[Ce choix a un impact énorme sur l'une des histoires! Il ne peut pas être inversé!]"
+# TODO: Translation updated at 2024-10-18 07:37
+
+# game/characters/mina/ev_15.rpy:83
+translate french mina_15_part2_6e9f5707:
+
+    # mina "Nope. Let's just drink straight from the bottle."
+    mina "Nope. Let's just drink straight from the bottle."
+

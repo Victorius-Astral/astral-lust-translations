@@ -442,3 +442,11 @@ translate vietnamese strings:
     # game/places/hotel/lobby/counter.rpy:5
     old "Build next floor (30 Stone, 15 Wood, 15 Metal)"
     new "Xây tầng tiếp theo (30 đá, 15 gỗ, 15 sắt)"
+# TODO: Translation updated at 2024-10-18 07:35
+
+# game/places/hotel/lobby/counter.rpy:78
+translate vietnamese room_lobby_counter_d6fe7e01:
+
+    # "Forge gives access to card removal and crafting. It's required to upgrade expansions."
+    "Forge gives access to card removal and crafting. It's required to upgrade expansions."
+

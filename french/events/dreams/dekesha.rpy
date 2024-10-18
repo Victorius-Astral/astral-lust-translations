@@ -690,3 +690,11 @@ translate french d_Dekesha_by_Darrdorack_2_sex_aef18e13:
     # dekesha "What the fuck do you think you're doing, asshole?!"
     dekesha "Qu'est-ce que tu crois que tu fais, connard?!"
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+translate french strings:
+
+    # game/events/dreams/dekesha.rpy:48
+    old "Leave the bar"
+    new "Leave the bar"
+

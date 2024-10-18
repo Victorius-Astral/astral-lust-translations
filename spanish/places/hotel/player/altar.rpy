@@ -157,3 +157,11 @@ translate spanish strings:
     # game/places/hotel/player/altar.rpy:2
     old "Perform a ritual{#visible}"
     new "Realiza un ritual{#visible}"
+# TODO: Translation updated at 2024-10-18 07:38
+
+translate spanish strings:
+
+    # game/places/hotel/player/altar.rpy:2
+    old "Seek help for Lexi with Aharon {gold}(Story){/gold}"
+    new "Seek help for Lexi with Aharon {gold}(Story){/gold}"
+

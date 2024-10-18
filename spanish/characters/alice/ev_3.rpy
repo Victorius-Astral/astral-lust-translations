@@ -598,3 +598,11 @@ translate spanish strings:
     # game/characters/alice/ev_3.rpy:146
     old "She brought me to watch her back when she went out to get a.. \"friend\"...."
     new "Ella me trajo para hacer de guardia cuando salía a buscar un... \"amigo\"...."
+# TODO: Translation updated at 2024-10-18 07:38
+
+translate spanish strings:
+
+    # game/characters/alice/ev_3.rpy:146
+    old "She brought me to watch her back when she went out to get a.. 'friend'...."
+    new "She brought me to watch her back when she went out to get a.. 'friend'...."
+

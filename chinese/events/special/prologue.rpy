@@ -5022,3 +5022,47 @@ translate chinese prologue_lexi1_618b6156:
     # lexi "They were overrun by monsters. Most monsters, army was able to deal with, but some of them.."
     lexi "They were overrun by monsters. Most monsters, army was able to deal with, but some of them.."
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+translate chinese strings:
+
+    # game/events/special/prologue.rpy:1350
+    old "This is the community I have awakened to. It's inhabited by four girls: Alice, Grace, Lexi and Mina."
+    new "This is the community I have awakened to. It's inhabited by four girls: Alice, Grace, Lexi and Mina."
+
+    # game/events/special/prologue.rpy:1351
+    old "She's the first person I met after awakening, she discovered me sleeping on her sofa."
+    new "She's the first person I met after awakening, she discovered me sleeping on her sofa."
+
+    # game/events/special/prologue.rpy:1352
+    old "She's the scavenger in the Jade Hotel."
+    new "She's the scavenger in the Jade Hotel."
+
+    # game/events/special/prologue.rpy:1354
+    old "Cultists performed a grand ritual to make The End descend."
+    new "Cultists performed a grand ritual to make The End descend."
+
+    # game/events/special/prologue.rpy:1355
+    old "While most sites are down, the internet is somehow working."
+    new "While most sites are down, the internet is somehow working."
+
+    # game/events/special/prologue.rpy:1356
+    old "Radio doesn't work. Most of humanity is gone, government and army have fallen. There is no salvation and no hope."
+    new "Radio doesn't work. Most of humanity is gone, government and army have fallen. There is no salvation and no hope."
+
+    # game/events/special/prologue.rpy:1357
+    old "The remnants of the human race have gathered in communities."
+    new "The remnants of the human race have gathered in communities."
+
+    # game/events/special/prologue.rpy:1358
+    old "Monsters wander outside devouring anyone they encounter. For unknown reasons they never enter communities."
+    new "Monsters wander outside devouring anyone they encounter. For unknown reasons they never enter communities."
+
+    # game/events/special/prologue.rpy:1359
+    old "I have awakened one year after The End broke loose. What happened to me during the past year?"
+    new "I have awakened one year after The End broke loose. What happened to me during the past year?"
+
+    # game/events/special/prologue.rpy:1360
+    old "It's online shopping service created by Hed the Gamer. They provide express delivery. I can access it from the pc in my room."
+    new "It's online shopping service created by Hed the Gamer. They provide express delivery. I can access it from the pc in my room."
+

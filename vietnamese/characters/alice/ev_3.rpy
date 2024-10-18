@@ -612,3 +612,11 @@ translate vietnamese strings:
     # game/characters/alice/ev_3.rpy:146
     old "She brought me to watch her back when she went out to get a.. \"friend\"...."
     new "Alice đưa mình theo để hộ tống cô ấy lấy một... \"người bạn\"...."
+# TODO: Translation updated at 2024-10-18 07:35
+
+translate vietnamese strings:
+
+    # game/characters/alice/ev_3.rpy:146
+    old "She brought me to watch her back when she went out to get a.. 'friend'...."
+    new "She brought me to watch her back when she went out to get a.. 'friend'...."
+

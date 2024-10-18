@@ -94,3 +94,15 @@ translate french strings:
     old "Without sound"
     new "Without sound"
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+translate french strings:
+
+    # game/screens/pc/dev_tools.rpy:101
+    old "Show all"
+    new "Show all"
+
+    # game/screens/pc/dev_tools.rpy:137
+    old "Test unicode"
+    new "Test unicode"
+

@@ -246,3 +246,11 @@ translate french alice_wakeup_sex_7ec019f4_1:
     # th "Time to get up, it's afternoon already.."
     th "Il est temps de se lever, c'est déjà l'après-midi.."
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+# game/characters/alice/wakeup_sex.rpy:78
+translate french alice_wakeup_sex_047bb6e2:
+
+    # me "I sure am, who is the best daddy?"
+    me "I sure am, who is the best daddy?"
+

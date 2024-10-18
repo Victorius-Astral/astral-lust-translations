@@ -286,3 +286,11 @@ translate french strings:
     old "Menu"
     new "Menu"
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+translate french strings:
+
+    # game/screens.rpy:660
+    old "Escape {#key}"
+    new "Escape {#key}"
+

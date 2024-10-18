@@ -368,3 +368,59 @@ translate vietnamese strings:
     old "Each unblocked attack inflicts target with x{{bad}}{}{{/bad}}. Lasts till next turn."
     new "Each unblocked attack inflicts target with x{{bad}}{}{{/bad}}. Lasts till next turn."
 
+# TODO: Translation updated at 2024-10-18 07:35
+
+translate vietnamese strings:
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Sanity Rending"
+    new "Sanity Rending"
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Each unblocked attack decreases target's sanity by X."
+    new "Each unblocked attack decreases target's sanity by X."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "At the start of your turn, gain Block equal to {{ef}}Inner Energy{{/ef}}, consume {:.0%} {{ef}}Inner Energy{{/ef}} each turn. Replaces other stances."
+    new "At the start of your turn, gain Block equal to {{ef}}Inner Energy{{/ef}}, consume {:.0%} {{ef}}Inner Energy{{/ef}} each turn. Replaces other stances."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "At the start of your turn, increase your {{ef}}Inner Energy{{/ef}} by {:.0%}. Replaces other stances."
+    new "At the start of your turn, increase your {{ef}}Inner Energy{{/ef}} by {:.0%}. Replaces other stances."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Split"
+    new "Split"
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Will split into two entities upon true death."
+    new "Will split into two entities upon true death."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Each turn deals {} damage and decreases {{trust}}Regeneration{{/trust}} by {}. Lasts {}x turns."
+    new "Each turn deals {} damage and decreases {{trust}}Regeneration{{/trust}} by {}. Lasts {}x turns."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Each turn deals {}x damage. +{:.0%} damage if target has Bleeding. Decreases by {} every turn. Negates {{trust}}Regeneration{{/trust}}."
+    new "Each turn deals {}x damage. +{:.0%} damage if target has Bleeding. Decreases by {} every turn. Negates {{trust}}Regeneration{{/trust}}."
+
+    # game/combat/cards/lists/effects.rpy:296
+    old "Flammable"
+    new "Flammable"
+
+    # game/combat/cards/lists/effects.rpy:296
+    old "Damage caused by {{ef}}{}{{/ef}} doubled."
+    new "Damage caused by {{ef}}{}{{/ef}} doubled."
+
+    # game/combat/cards/lists/effects.rpy:296
+    old "Innate Regeneration"
+    new "Innate Regeneration"
+
+    # game/combat/cards/lists/effects.rpy:296
+    old "Each turn heal for {}x health. {{bad}}{}{{/bad}} halves regeneration."
+    new "Each turn heal for {}x health. {{bad}}{}{{/bad}} halves regeneration."
+
+    # game/combat/cards/lists/effects.rpy:296
+    old "Each turn heal for {}x health. Decreases by {} after taking unblocked damage."
+    new "Each turn heal for {}x health. Decreases by {} after taking unblocked damage."
+

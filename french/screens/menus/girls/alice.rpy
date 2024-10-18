@@ -114,3 +114,11 @@ translate french strings:
     old "• Rubbing: "
     new "• Rubbing: "
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+translate french strings:
+
+    # game/screens/menus/girls/alice.rpy:23
+    old "Nicknames: "
+    new "Nicknames: "
+

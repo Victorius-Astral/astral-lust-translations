@@ -22,3 +22,15 @@ translate chinese strings:
     old "Decks are correct."
     new "牌组符合准则。"
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+translate chinese strings:
+
+    # game/combat/decks/Decks.rpy:128
+    old "{} needs at least {} not exhaustible, non destroyable cards!"
+    new "{} needs at least {} not exhaustible, non destroyable cards!"
+
+    # game/combat/decks/Decks.rpy:159
+    old "Card '{}' got {}XP."
+    new "Card '{}' got {}XP."
+

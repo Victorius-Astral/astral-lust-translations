@@ -362,3 +362,23 @@ translate french strings:
     old "We should chit chat sometimes."
     new "We should chit chat sometimes."
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+translate french strings:
+
+    # game/variables/tips.rpy:4
+    old "I'm getting concerned about her mental wellbeing, I should ask her about it."
+    new "I'm getting concerned about her mental wellbeing, I should ask her about it."
+
+    # game/variables/tips.rpy:4
+    old "We could drink again in a few days. I need to find booze."
+    new "We could drink again in a few days. I need to find booze."
+
+    # game/variables/tips.rpy:4
+    old "Her drinking is getting a little off-hand. I wonder when Lexi will start having issues with it."
+    new "Her drinking is getting a little off-hand. I wonder when Lexi will start having issues with it."
+
+    # game/variables/tips.rpy:4
+    old "I have a feeling something big is gonna happen soon. (Needs Little Fox, Alice & Rachel storylines progress to a certain point)"
+    new "I have a feeling something big is gonna happen soon. (Needs Little Fox, Alice & Rachel storylines progress to a certain point)"
+

@@ -51,3 +51,11 @@ translate spanish strings:
     # game/variables/classes/Inventory.rpy:71
     old "Missing {} {}"
     new "No hay {} {}"
+# TODO: Translation updated at 2024-10-18 07:38
+
+translate spanish strings:
+
+    # game/variables/classes/Inventory.rpy:33
+    old "Error looting items, unknown item: {}"
+    new "Error looting items, unknown item: {}"
+

@@ -426,3 +426,11 @@ translate french kiara_4_c1b138e6:
     # kiara "sit on the floor."
     kiara "asseyez-vous par terre."
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+# game/characters/kiara/ev_4.rpy:74
+translate french kiara_4_e615e445:
+
+    # kiara "Everything originates from 'It', as so 'It' is a part of everything."
+    kiara "Everything originates from 'It', as so 'It' is a part of everything."
+

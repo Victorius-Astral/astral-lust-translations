@@ -110,3 +110,11 @@ translate vietnamese strings:
     # game/places/hotel/player/altar.rpy:2
     old "Perform a ritual{#visible}"
     new "Thực hiện nghi lễ{#visible}"
+# TODO: Translation updated at 2024-10-18 07:35
+
+translate vietnamese strings:
+
+    # game/places/hotel/player/altar.rpy:2
+    old "Seek help for Lexi with Aharon {gold}(Story){/gold}"
+    new "Seek help for Lexi with Aharon {gold}(Story){/gold}"
+

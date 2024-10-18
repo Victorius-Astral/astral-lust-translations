@@ -1807,3 +1807,11 @@ translate vietnamese strings:
     # game/places/wanderers/crowd.rpy:691
     old "Fuck off"
     new "Cút, địt mẹ mày"
+# TODO: Translation updated at 2024-10-18 07:35
+
+translate vietnamese strings:
+
+    # game/places/wanderers/crowd.rpy:258
+    old "{image=tradeTextImg} Let me see your stock"
+    new "{image=tradeTextImg} Let me see your stock"
+

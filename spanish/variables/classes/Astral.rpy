@@ -69,3 +69,15 @@ translate spanish strings:
     # game/variables/classes/Astral.rpy:490
     old "\n • {{color={color}}}{amount}{{/color}} {{image={image}}}"
     new "\n • {{color={color}}}{amount}{{/color}} {{image={image}}}"
+# TODO: Translation updated at 2024-10-18 07:38
+
+translate spanish strings:
+
+    # game/variables/classes/Astral.rpy:233
+    old "Code already claimed on this save."
+    new "Code already claimed on this save."
+
+    # game/variables/classes/Astral.rpy:242
+    old "Code '{}' not found, try again, codes are case sensitive."
+    new "Code '{}' not found, try again, codes are case sensitive."
+

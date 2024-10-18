@@ -264,3 +264,11 @@ translate french strings:
     old "Can I take a look at your girls before paying?"
     new "Je peux jeter un coup d'oeil à vos filles avant de payer?"
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+translate french strings:
+
+    # game/places/wanderers/brothel.rpy:186
+    old "Close Album"
+    new "Close Album"
+

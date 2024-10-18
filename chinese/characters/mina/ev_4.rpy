@@ -1408,3 +1408,99 @@ translate chinese strings:
     old "What would you do if you could do anything?"
     new "What would you do if you could do anything?"
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+# game/characters/mina/ev_4.rpy:545
+translate chinese mina_4_6_4a8b9abb:
+
+    # me "How about we stop for today girls? We can always pick this up again another time."
+    me "How about we stop for today girls? We can always pick this up again another time."
+
+# game/characters/mina/ev_4.rpy:552
+translate chinese mina_4_6_67add2ae:
+
+    # alice "I think that would be it?"
+    alice "I think that would be it?"
+
+# game/characters/mina/ev_4.rpy:553
+translate chinese mina_4_6_2b65bb6c:
+
+    # me "Let's call it a day."
+    me "Let's call it a day."
+
+# game/characters/mina/ev_4.rpy:568
+translate chinese mina_4_6_nokiss_eb8e2ea4:
+
+    # th "Let's pretend I thought she wanted a question."
+    th "Let's pretend I thought she wanted a question."
+
+# game/characters/mina/ev_4.rpy:569
+translate chinese mina_4_6_nokiss_53cd8c8b:
+
+    # me "What's the hottest thing about a girl?"
+    me "What's the hottest thing about a girl?"
+
+# game/characters/mina/ev_4.rpy:570
+translate chinese mina_4_6_nokiss_75a460bf:
+
+    # alice "I wanted a dare, you know?"
+    alice "I wanted a dare, you know?"
+
+# game/characters/mina/ev_4.rpy:575
+translate chinese mina_4_6_nokiss_7ec63537:
+
+    # me "I dare you to answer my question."
+    me "I dare you to answer my question."
+
+# game/characters/mina/ev_4.rpy:576
+translate chinese mina_4_6_nokiss_4576afd8:
+
+    # "While [mina]'s expression didn't change. Still, you feel her disappointment."
+    "While [mina]'s expression didn't change. Still, you feel her disappointment."
+
+# game/characters/mina/ev_4.rpy:577
+translate chinese mina_4_6_nokiss_60781667:
+
+    # alice "Shameless."
+    alice "Shameless."
+
+# game/characters/mina/ev_4.rpy:578
+translate chinese mina_4_6_nokiss_1fa9aa29:
+
+    # extend " Anyway."
+    extend " Anyway."
+
+# game/characters/mina/ev_4.rpy:579
+translate chinese mina_4_6_nokiss_5cb8787a:
+
+    # alice "The hottest thing about a girl is her tits!"
+    alice "The hottest thing about a girl is her tits!"
+
+# game/characters/mina/ev_4.rpy:580
+translate chinese mina_4_6_nokiss_3a45d1d8:
+
+    # mina "Big or small?"
+    mina "Big or small?"
+
+# game/characters/mina/ev_4.rpy:581
+translate chinese mina_4_6_nokiss_9912c212:
+
+    # alice "Obvious. Tiny are the best!"
+    alice "Obvious. Tiny are the best!"
+
+# game/characters/mina/ev_4.rpy:582
+translate chinese mina_4_6_nokiss_88eab5f5:
+
+    # me "Haha."
+    me "Haha."
+
+translate chinese strings:
+
+    # game/characters/mina/ev_4.rpy:495
+    old "Make out with Mina"
+    new "Make out with Mina"
+
+    # game/characters/mina/ev_4.rpy:495
+    old "Ask her a question"
+    new "Ask her a question"
+

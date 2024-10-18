@@ -104,3 +104,11 @@ translate vietnamese strings:
     # game/combat/battle/Battle_variables.rpy:82
     old "Carlson Dojo"
     new "võ đường Carlson"
+# TODO: Translation updated at 2024-10-18 07:35
+
+translate vietnamese strings:
+
+    # game/combat/battle/Battle_variables.rpy:71
+    old "None"
+    new "None"
+

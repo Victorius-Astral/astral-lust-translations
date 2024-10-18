@@ -491,3 +491,11 @@ translate vietnamese carlson_dojo_unlock_e8644fe4:
 
     # carlson "{/i}Mm.{/i}"
     carlson "{i}Mm.{/i}"
+# TODO: Translation updated at 2024-10-18 07:35
+
+# game/places/dojo/unlock.rpy:133
+translate vietnamese carlson_dojo_unlock_00e630e1:
+
+    # carlson "{i}Mm.{/i}"
+    carlson "{i}Mm.{/i}"
+

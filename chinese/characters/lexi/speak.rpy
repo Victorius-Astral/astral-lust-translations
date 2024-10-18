@@ -678,3 +678,517 @@ translate chinese strings:
     old "Are you sure? You might lose your current preparations."
     new "Are you sure? You might lose your current preparations."
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+# game/characters/lexi/speak.rpy:187
+translate chinese speak_lexi_fun_7b55fc13:
+
+    # me "I think we need to get that vampire outfit out of the closet."
+    me "I think we need to get that vampire outfit out of the closet."
+
+# game/characters/lexi/speak.rpy:191
+translate chinese speak_lexi_fun_47a150da:
+
+    # lexi "What do you have on mind?"
+    lexi "What do you have on mind?"
+
+# game/characters/lexi/speak.rpy:205
+translate chinese speak_lexi_fun_30dcbc86:
+
+    # lexi "You have only one thing on mind, don't you?"
+    lexi "You have only one thing on mind, don't you?"
+
+# game/characters/lexi/speak.rpy:206
+translate chinese speak_lexi_fun_888effc0:
+
+    # me "Perhaps, but it's your fault."
+    me "Perhaps, but it's your fault."
+
+# game/characters/lexi/speak.rpy:210
+translate chinese speak_lexi_fun_e67fd712:
+
+    # lexi "How so?"
+    lexi "How so?"
+
+# game/characters/lexi/speak.rpy:211
+translate chinese speak_lexi_fun_af81b1bc:
+
+    # me "It's your hand that I can't forget."
+    me "It's your hand that I can't forget."
+
+# game/characters/lexi/speak.rpy:215
+translate chinese speak_lexi_fun_d7760fc7:
+
+    # lexi "..."
+    lexi "..."
+
+# game/characters/lexi/speak.rpy:216
+translate chinese speak_lexi_fun_2112600a:
+
+    # lexi "You are impossible."
+    lexi "You are impossible."
+
+# game/characters/lexi/speak.rpy:217
+translate chinese speak_lexi_fun_cc9b06cd:
+
+    # me "You won't let me suffer, will you?"
+    me "You won't let me suffer, will you?"
+
+# game/characters/lexi/speak.rpy:221
+translate chinese speak_lexi_fun_5b7bb2e7:
+
+    # lexi ".. Fine, but let's go to your room."
+    lexi ".. Fine, but let's go to your room."
+
+# game/characters/lexi/speak.rpy:222
+translate chinese speak_lexi_fun_d59a6b9a:
+
+    # me "Great."
+    me "Great."
+
+# game/characters/lexi/speak.rpy:223
+translate chinese speak_lexi_fun_bde96860:
+
+    # lexi "What do you want me to wear?"
+    lexi "What do you want me to wear?"
+
+# game/characters/lexi/speak.rpy:232
+translate chinese speak_lexi_fun_21aa2165:
+
+    # lexi "Alright. I can't wait."
+    lexi "Alright. I can't wait."
+
+# game/characters/lexi/speak.rpy:233
+translate chinese speak_lexi_fun_7c380e1d:
+
+    # lexi "Should I change?"
+    lexi "Should I change?"
+
+# game/characters/lexi/speak.rpy:260
+translate chinese speak_lexi_fun_7be108b9:
+
+    # lexi "Sure! What do you want to know?"
+    lexi "Sure! What do you want to know?"
+
+# game/characters/lexi/speak.rpy:308
+translate chinese speak_lexi_menu2_2e54f668:
+
+    # lexi "He's great. I always feel calm around him."
+    lexi "He's great. I always feel calm around him."
+
+# game/characters/lexi/speak.rpy:309
+translate chinese speak_lexi_menu2_2af4ebe1:
+
+    # me "That's good to hear."
+    me "That's good to hear."
+
+# game/characters/lexi/speak.rpy:310
+translate chinese speak_lexi_menu2_68d182f6:
+
+    # lexi "He's helping me, [me]. I feel it. I'm getting better."
+    lexi "He's helping me, [me]. I feel it. I'm getting better."
+
+# game/characters/lexi/speak.rpy:311
+translate chinese speak_lexi_menu2_a8a618ba:
+
+    # me "That's all I wanted to hear."
+    me "That's all I wanted to hear."
+
+# game/characters/lexi/speak.rpy:487
+translate chinese speak_lexi_night_e551e124:
+
+    # lexi "Hey, [me]."
+    lexi "Hey, [me]."
+
+# game/characters/lexi/speak.rpy:488
+translate chinese speak_lexi_night_57c86fdc:
+
+    # me "How are you feeling?"
+    me "How are you feeling?"
+
+# game/characters/lexi/speak.rpy:489
+translate chinese speak_lexi_night_7c3cb03b:
+
+    # lexi "A little upset..."
+    lexi "A little upset..."
+
+# game/characters/lexi/speak.rpy:490
+translate chinese speak_lexi_night_50c26b48:
+
+    # lexi "Have you found the psychologist?"
+    lexi "Have you found the psychologist?"
+
+# game/characters/lexi/speak.rpy:491
+translate chinese speak_lexi_night_12d7d1c1:
+
+    # me "Not yet."
+    me "Not yet."
+
+# game/characters/lexi/speak.rpy:492
+translate chinese speak_lexi_night_9949e16f:
+
+    # lexi "Alright."
+    lexi "Alright."
+
+# game/characters/lexi/speak.rpy:502
+translate chinese speak_lexi_night_chat_4d3d664c:
+
+    # lexi "No, not really."
+    lexi "No, not really."
+
+# game/characters/lexi/speak.rpy:503
+translate chinese speak_lexi_night_chat_d30b5c9a:
+
+    # me "Anything. Please, let me help you."
+    me "Anything. Please, let me help you."
+
+# game/characters/lexi/speak.rpy:504
+translate chinese speak_lexi_night_chat_61d44759:
+
+    # lexi "There really is nothing I need..."
+    lexi "There really is nothing I need..."
+
+# game/characters/lexi/speak.rpy:505
+translate chinese speak_lexi_night_chat_5a913dd1:
+
+    # lexi "I just need to think everything through."
+    lexi "I just need to think everything through."
+
+# game/characters/lexi/speak.rpy:506
+translate chinese speak_lexi_night_chat_31b4ec89:
+
+    # me "Alright..."
+    me "Alright..."
+
+# game/characters/lexi/speak.rpy:526
+translate chinese speak_lexi_night_chat_14ff8ce1:
+
+    # lexi "I'm not really in the mood."
+    lexi "I'm not really in the mood."
+
+# game/characters/lexi/speak.rpy:527
+translate chinese speak_lexi_night_chat_27fe9e96:
+
+    # me "Right, I don't know why I asked... Sorry for that..."
+    me "Right, I don't know why I asked... Sorry for that..."
+
+# game/characters/lexi/speak.rpy:528
+translate chinese speak_lexi_night_chat_78072ed3:
+
+    # lexi "No problem."
+    lexi "No problem."
+
+# game/characters/lexi/speak.rpy:536
+translate chinese speak_lexi_night_blanket_start_aedb6cde:
+
+    # lexi "Have you ever made a blanket fort?" nointeract
+    lexi "Have you ever made a blanket fort?" nointeract
+
+# game/characters/lexi/speak.rpy:544
+translate chinese speak_lexi_night_blanket_start_d9c562b3:
+
+    # lexi "Really?"
+    lexi "Really?"
+
+# game/characters/lexi/speak.rpy:545
+translate chinese speak_lexi_night_blanket_start_5872c97c:
+
+    # me "Yea."
+    me "Yea."
+
+# game/characters/lexi/speak.rpy:549
+translate chinese speak_lexi_night_blanket_start_a6b4c6b1:
+
+    # lexi "You lost a lot!"
+    lexi "You lost a lot!"
+
+# game/characters/lexi/speak.rpy:554
+translate chinese speak_lexi_night_blanket_00d3f878:
+
+    # lexi "We used to do it often when we were little."
+    lexi "We used to do it often when we were little."
+
+# game/characters/lexi/speak.rpy:555
+translate chinese speak_lexi_night_blanket_57ec5801:
+
+    # lexi "One day, the day after my birthday, we decided to build an ultimate fort."
+    lexi "One day, the day after my birthday, we decided to build an ultimate fort."
+
+# game/characters/lexi/speak.rpy:556
+translate chinese speak_lexi_night_blanket_3c92050d:
+
+    # lexi "We turned the whole living room into a big fort."
+    lexi "We turned the whole living room into a big fort."
+
+# game/characters/lexi/speak.rpy:557
+translate chinese speak_lexi_night_blanket_4d8a07e6:
+
+    # lexi "We had teddy bears chamber, sweets storage, doll house, and more."
+    lexi "We had teddy bears chamber, sweets storage, doll house, and more."
+
+# game/characters/lexi/speak.rpy:558
+translate chinese speak_lexi_night_blanket_378a82a8:
+
+    # me "Haha, sounds really amazing."
+    me "Haha, sounds really amazing."
+
+# game/characters/lexi/speak.rpy:559
+translate chinese speak_lexi_night_blanket_2cf201c5:
+
+    # lexi "Yes! And then... parents returned home."
+    lexi "Yes! And then... parents returned home."
+
+# game/characters/lexi/speak.rpy:560
+translate chinese speak_lexi_night_blanket_c4b25792:
+
+    # lexi "When they saw the living room, haha~"
+    lexi "When they saw the living room, haha~"
+
+# game/characters/lexi/speak.rpy:561
+translate chinese speak_lexi_night_blanket_a980c389:
+
+    # me "I can imagine their expressions."
+    me "I can imagine their expressions."
+
+# game/characters/lexi/speak.rpy:562
+translate chinese speak_lexi_night_blanket_bb3ec6cd:
+
+    # lexi "They were not angry, but we had to make space for them to enter home anyway."
+    lexi "They were not angry, but we had to make space for them to enter home anyway."
+
+# game/characters/lexi/speak.rpy:563
+translate chinese speak_lexi_night_blanket_46ed909a:
+
+    # me "Ouch."
+    me "Ouch."
+
+# game/characters/lexi/speak.rpy:564
+translate chinese speak_lexi_night_blanket_074e394b:
+
+    # lexi "I hold this memory dear. I miss these years."
+    lexi "I hold this memory dear. I miss these years."
+
+# game/characters/lexi/speak.rpy:565
+translate chinese speak_lexi_night_blanket_ecd768ba:
+
+    # me "Yeah."
+    me "Yeah."
+
+# game/characters/lexi/speak.rpy:570
+translate chinese speak_lexi_night_schoolplay_8a890e4e:
+
+    # lexi "Mina played in a school play once."
+    lexi "Mina played in a school play once."
+
+# game/characters/lexi/speak.rpy:571
+translate chinese speak_lexi_night_schoolplay_2d414dda:
+
+    # me "Oh? I'm intrigued."
+    me "Oh? I'm intrigued."
+
+# game/characters/lexi/speak.rpy:572
+translate chinese speak_lexi_night_schoolplay_45a64e2c:
+
+    # lexi "She even had a lead role."
+    lexi "She even had a lead role."
+
+# game/characters/lexi/speak.rpy:573
+translate chinese speak_lexi_night_schoolplay_97222ad0:
+
+    # me "Nice. I didn't expect that from her."
+    me "Nice. I didn't expect that from her."
+
+# game/characters/lexi/speak.rpy:574
+translate chinese speak_lexi_night_schoolplay_345c89ec:
+
+    # lexi "She was nervous. Like really nervous back then."
+    lexi "She was nervous. Like really nervous back then."
+
+# game/characters/lexi/speak.rpy:575
+translate chinese speak_lexi_night_schoolplay_d47c9c11:
+
+    # me "Understandable."
+    me "Understandable."
+
+# game/characters/lexi/speak.rpy:579
+translate chinese speak_lexi_night_schoolplay_e87a03dc:
+
+    # lexi "And she did it!"
+    lexi "And she did it!"
+
+# game/characters/lexi/speak.rpy:580
+translate chinese speak_lexi_night_schoolplay_314086b3:
+
+    # me "What?"
+    me "What?"
+
+# game/characters/lexi/speak.rpy:581
+translate chinese speak_lexi_night_schoolplay_076c7412:
+
+    # lexi "I was laughing at her for this for the next two years!"
+    lexi "I was laughing at her for this for the next two years!"
+
+# game/characters/lexi/speak.rpy:582
+translate chinese speak_lexi_night_schoolplay_68bf8bd2:
+
+    # me "What did she do?"
+    me "What did she do?"
+
+# game/characters/lexi/speak.rpy:583
+translate chinese speak_lexi_night_schoolplay_ef7278b1:
+
+    # lexi "She always gets annoyed whenever I mention it!"
+    lexi "She always gets annoyed whenever I mention it!"
+
+# game/characters/lexi/speak.rpy:584
+translate chinese speak_lexi_night_schoolplay_0f497f6d:
+
+    # me "Hey, don't let me quesing!"
+    me "Hey, don't let me quesing!"
+
+# game/characters/lexi/speak.rpy:585
+translate chinese speak_lexi_night_schoolplay_43b5c14f:
+
+    # lexi "Haha, she-she spilled milk all over her costume!"
+    lexi "Haha, she-she spilled milk all over her costume!"
+
+# game/characters/lexi/speak.rpy:586
+translate chinese speak_lexi_night_schoolplay_0dc257c1:
+
+    # me "What? Hahaha, this idiot."
+    me "What? Hahaha, this idiot."
+
+# game/characters/lexi/speak.rpy:587
+translate chinese speak_lexi_night_schoolplay_576d8123:
+
+    # lexi "Five minutes before her entrance."
+    lexi "Five minutes before her entrance."
+
+# game/characters/lexi/speak.rpy:588
+translate chinese speak_lexi_night_schoolplay_0b3c449c:
+
+    # me "Oh gosh. This must've been a disaster."
+    me "Oh gosh. This must've been a disaster."
+
+# game/characters/lexi/speak.rpy:589
+translate chinese speak_lexi_night_schoolplay_dbf2641c:
+
+    # lexi "Haha, it was. Oh, it was."
+    lexi "Haha, it was. Oh, it was."
+
+# game/characters/lexi/speak.rpy:593
+translate chinese speak_lexi_night_schoolplay_26d1d806:
+
+    # lexi "It turned from a drama play to a comedy once she entered the stage."
+    lexi "It turned from a drama play to a comedy once she entered the stage."
+
+# game/characters/lexi/speak.rpy:594
+translate chinese speak_lexi_night_schoolplay_a0d78ee3:
+
+    # lexi "The best of all? Her costume was 90%% black."
+    lexi "The best of all? Her costume was 90%% black."
+
+# game/characters/lexi/speak.rpy:595
+translate chinese speak_lexi_night_schoolplay_4dda3394:
+
+    # me "Imaginable. I don't know if I would even walk out like this."
+    me "Imaginable. I don't know if I would even walk out like this."
+
+# game/characters/lexi/speak.rpy:596
+translate chinese speak_lexi_night_schoolplay_3a5d31d4:
+
+    # lexi "We did the best we could to clean this up before her entrance, but the effects were minimal."
+    lexi "We did the best we could to clean this up before her entrance, but the effects were minimal."
+
+# game/characters/lexi/speak.rpy:597
+translate chinese speak_lexi_night_schoolplay_aa7ad52a:
+
+    # lexi "She was so nervous because of this that she made a few mistakes in her lines."
+    lexi "She was so nervous because of this that she made a few mistakes in her lines."
+
+# game/characters/lexi/speak.rpy:598
+translate chinese speak_lexi_night_schoolplay_64f6c70f:
+
+    # lexi "Oh... Mina's never taken part in a play again."
+    lexi "Oh... Mina's never taken part in a play again."
+
+# game/characters/lexi/speak.rpy:599
+translate chinese speak_lexi_night_schoolplay_cd344dfe:
+
+    # me "I can understand why."
+    me "I can understand why."
+
+# game/characters/lexi/speak.rpy:605
+translate chinese speak_lexi_night_phone_9b9bb031:
+
+    # lexi "You might not believe it, but once she was looking for ten minutes for a phone."
+    lexi "You might not believe it, but once she was looking for ten minutes for a phone."
+
+# game/characters/lexi/speak.rpy:606
+translate chinese speak_lexi_night_phone_9c8a51dd:
+
+    # me "Why would I not believe it?"
+    me "Why would I not believe it?"
+
+# game/characters/lexi/speak.rpy:610
+translate chinese speak_lexi_night_phone_65022a82:
+
+    # lexi "Cause she had it in her hand the whole time!"
+    lexi "Cause she had it in her hand the whole time!"
+
+# game/characters/lexi/speak.rpy:611
+translate chinese speak_lexi_night_phone_f30030bc:
+
+    # me "Wha- Hahaha~"
+    me "Wha- Hahaha~"
+
+# game/characters/lexi/speak.rpy:612
+translate chinese speak_lexi_night_phone_ee36dd89:
+
+    # me "What a silly girl..."
+    me "What a silly girl..."
+
+# game/characters/lexi/speak.rpy:616
+translate chinese speak_lexi_night_phone_09838fc4:
+
+    # lexi "Haha, yeah."
+    lexi "Haha, yeah."
+
+translate chinese strings:
+
+    # game/characters/lexi/speak.rpy:70
+    old "Invite the psychiatrist for her {gold}(Story){/gold}"
+    new "Invite the psychiatrist for her {gold}(Story){/gold}"
+
+    # game/characters/lexi/speak.rpy:70
+    old "I'm worried about you {gold}(Story){/gold}"
+    new "I'm worried about you {gold}(Story){/gold}"
+
+    # game/characters/lexi/speak.rpy:181
+    old "Back{#return}"
+    new "Back{#return}"
+
+    # game/characters/lexi/speak.rpy:262
+    old "How do you feel about your psychiatrist?"
+    new "How do you feel about your psychiatrist?"
+
+    # game/characters/lexi/speak.rpy:494
+    old "> Chat"
+    new "> Chat"
+
+    # game/characters/lexi/speak.rpy:494
+    old "> Fun"
+    new "> Fun"
+
+    # game/characters/lexi/speak.rpy:497
+    old "Is there anything I can do for you?"
+    new "Is there anything I can do for you?"
+
+    # game/characters/lexi/speak.rpy:497
+    old "Tell me some childhood stories with you and Mina"
+    new "Tell me some childhood stories with you and Mina"
+
+    # game/characters/lexi/speak.rpy:497
+    old "< Back"
+    new "< Back"
+

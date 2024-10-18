@@ -712,3 +712,17 @@ translate vietnamese strings:
     # game/characters/mina/ev_8.rpy:41
     old "I told her I did it with Alice. She wasn't angry, though."
     new "Tôi đã nói với cô ấy rằng tôi đã làm điều đó với Alice. Tuy nhiên, cô ấy không tức giận."
+# TODO: Translation updated at 2024-10-18 07:35
+
+# game/characters/mina/ev_8.rpy:63
+translate vietnamese mina_8_menu1_9eb8552f:
+
+    # mina "I finally kissed Alice!"
+    mina "I finally kissed Alice!"
+
+# game/characters/mina/ev_8.rpy:64
+translate vietnamese mina_8_menu1_5c21254e:
+
+    # me "You did what?"
+    me "You did what?"
+

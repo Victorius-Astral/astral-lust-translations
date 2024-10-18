@@ -100,3 +100,35 @@ translate chinese strings:
     old "Succubus Hunt"
     new "Succubus Hunt"
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+# game/places/hotel/lobby/door.rpy:34
+translate chinese room_lobby_door_menu1_0c2fbd36:
+
+    # th "No, it's waiting for it. I would be at the disadvantage."
+    th "No, it's waiting for it. I would be at the disadvantage."
+
+# game/places/hotel/lobby/door.rpy:37
+translate chinese room_lobby_door_menu1_89ba71df:
+
+    # th "Going after monsters at night doesn't seem like a good idea."
+    th "Going after monsters at night doesn't seem like a good idea."
+
+# game/places/hotel/lobby/door.rpy:89
+translate chinese room_lobby_door_explore_2a7c717b:
+
+    # th "I should wait for the day before going out. It's too dangerous now."
+    th "I should wait for the day before going out. It's too dangerous now."
+
+# game/places/hotel/lobby/door.rpy:110
+translate chinese room_lobby_door_wanderers_2a7c717b:
+
+    # th "I should wait for the day before going out. It's too dangerous now."
+    th "I should wait for the day before going out. It's too dangerous now."
+
+translate chinese strings:
+
+    # game/places/hotel/lobby/door.rpy:22
+    old "Take a look outside"
+    new "Take a look outside"
+

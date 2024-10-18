@@ -22,3 +22,15 @@ translate french strings:
     old "Decks are correct."
     new "Les Decks sont corrects."
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+translate french strings:
+
+    # game/combat/decks/Decks.rpy:128
+    old "{} needs at least {} not exhaustible, non destroyable cards!"
+    new "{} needs at least {} not exhaustible, non destroyable cards!"
+
+    # game/combat/decks/Decks.rpy:159
+    old "Card '{}' got {}XP."
+    new "Card '{}' got {}XP."
+

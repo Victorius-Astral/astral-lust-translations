@@ -1742,3 +1742,539 @@ translate french strings:
     old "SUCCUBUS B ([succubB.name])"
     new "SUCCUBUS B ([succubB.name])"
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+translate french strings:
+
+    # game/variables/replays.rpy:337
+    old "Blowjob - Vampire"
+    new "Blowjob - Vampire"
+
+    # game/variables/replays.rpy:337
+    old "Have fun with Alice in Vampire outfit."
+    new "Have fun with Alice in Vampire outfit."
+
+    # game/variables/replays.rpy:337
+    old "Sex - Vampire"
+    new "Sex - Vampire"
+
+    # game/variables/replays.rpy:414
+    old "Drinking again (Friend)"
+    new "Drinking again (Friend)"
+
+    # game/variables/replays.rpy:414
+    old "Drinking again (Love)"
+    new "Drinking again (Love)"
+
+    # game/variables/replays.rpy:414
+    old "Drinking Problem"
+    new "Drinking Problem"
+
+    # game/variables/replays.rpy:414
+    old "Sleep - No Lexi"
+    new "Sleep - No Lexi"
+
+    # game/variables/replays.rpy:414
+    old "Peep at her sleep when Lexi is not there."
+    new "Peep at her sleep when Lexi is not there."
+
+    # game/variables/replays.rpy:414
+    old "Sleep Drunk - Wake Up"
+    new "Sleep Drunk - Wake Up"
+
+    # game/variables/replays.rpy:414
+    old "Check on her when she's sleeping after drinking."
+    new "Check on her when she's sleeping after drinking."
+
+    # game/variables/replays.rpy:414
+    old "Sleep Drunk - Cop a Feel"
+    new "Sleep Drunk - Cop a Feel"
+
+    # game/variables/replays.rpy:414
+    old "Ask Alice to make Mina an outfit."
+    new "Ask Alice to make Mina an outfit."
+
+    # game/variables/replays.rpy:414
+    old "Boobjob - Vampire"
+    new "Boobjob - Vampire"
+
+    # game/variables/replays.rpy:414
+    old "Have fun with Mina in Vampire outfit."
+    new "Have fun with Mina in Vampire outfit."
+
+    # game/variables/replays.rpy:414
+    old "69 - Vampire"
+    new "69 - Vampire"
+
+    # game/variables/replays.rpy:473
+    old "Worries"
+    new "Worries"
+
+    # game/variables/replays.rpy:473
+    old "Psychological Problem"
+    new "Psychological Problem"
+
+    # game/variables/replays.rpy:473
+    old "First Session (Kiara)"
+    new "First Session (Kiara)"
+
+    # game/variables/replays.rpy:473
+    old "Seek aid for her with Kiara."
+    new "Seek aid for her with Kiara."
+
+    # game/variables/replays.rpy:473
+    old "First Session (Alkimakos)"
+    new "First Session (Alkimakos)"
+
+    # game/variables/replays.rpy:473
+    old "Seek aid for her with Aharon."
+    new "Seek aid for her with Aharon."
+
+    # game/variables/replays.rpy:473
+    old "Ask Alice to make Lexi an outfit."
+    new "Ask Alice to make Lexi an outfit."
+
+    # game/variables/replays.rpy:473
+    old "Fingering - Vampire"
+    new "Fingering - Vampire"
+
+    # game/variables/replays.rpy:473
+    old "Have fun with Lexi in Vampire outfit."
+    new "Have fun with Lexi in Vampire outfit."
+
+    # game/variables/replays.rpy:473
+    old "Handjob - Vampire"
+    new "Handjob - Vampire"
+
+    # game/variables/replays.rpy:554
+    old "Ask Alice to make Grace an outfit."
+    new "Ask Alice to make Grace an outfit."
+
+    # game/variables/replays.rpy:554
+    old "Have fun with Grace in Vampire outfit."
+    new "Have fun with Grace in Vampire outfit."
+
+    # game/variables/replays.rpy:554
+    old "Footjob - Vampire"
+    new "Footjob - Vampire"
+
+    # game/variables/replays.rpy:717
+    old "BUSINESS DISTRICT"
+    new "BUSINESS DISTRICT"
+
+    # game/variables/replays.rpy:717
+    old "Discovery"
+    new "Discovery"
+
+    # game/variables/replays.rpy:717
+    old "Explore Industrial Area."
+    new "Explore Industrial Area."
+
+    # game/variables/replays.rpy:717
+    old "Damsel in Distress - Trader's Daughter"
+    new "Damsel in Distress - Trader's Daughter"
+
+    # game/variables/replays.rpy:717
+    old "Treasure Hunt - Map 3"
+    new "Treasure Hunt - Map 3"
+
+    # game/variables/replays.rpy:717
+    old "Find a map to an unknown place."
+    new "Find a map to an unknown place."
+
+    # game/variables/replays.rpy:717
+    old "INDUSTRIAL AREA"
+    new "INDUSTRIAL AREA"
+
+    # game/variables/replays.rpy:717
+    old "Explore Slums."
+    new "Explore Slums."
+
+    # game/variables/replays.rpy:717
+    old "Car I"
+    new "Car I"
+
+    # game/variables/replays.rpy:717
+    old "Search an abandoned car."
+    new "Search an abandoned car."
+
+    # game/variables/replays.rpy:717
+    old "Car II"
+    new "Car II"
+
+    # game/variables/replays.rpy:717
+    old "Car III"
+    new "Car III"
+
+    # game/variables/replays.rpy:717
+    old "Truck I"
+    new "Truck I"
+
+    # game/variables/replays.rpy:717
+    old "Loot an overturned truck."
+    new "Loot an overturned truck."
+
+    # game/variables/replays.rpy:717
+    old "Truck II"
+    new "Truck II"
+
+    # game/variables/replays.rpy:717
+    old "Truck III"
+    new "Truck III"
+
+    # game/variables/replays.rpy:717
+    old "Truck IV"
+    new "Truck IV"
+
+    # game/variables/replays.rpy:717
+    old "MARKET DISTRICT"
+    new "MARKET DISTRICT"
+
+    # game/variables/replays.rpy:717
+    old "Explore Ruins."
+    new "Explore Ruins."
+
+    # game/variables/replays.rpy:717
+    old "Treasure Hunt - Map 4"
+    new "Treasure Hunt - Map 4"
+
+    # game/variables/replays.rpy:717
+    old "RESIDENTIAL DISTRICT"
+    new "RESIDENTIAL DISTRICT"
+
+    # game/variables/replays.rpy:717
+    old "Carlson, the Pugilist"
+    new "Carlson, the Pugilist"
+
+    # game/variables/replays.rpy:717
+    old "Find a dojo in the apocalyptic world."
+    new "Find a dojo in the apocalyptic world."
+
+    # game/variables/replays.rpy:717
+    old "RUINS"
+    new "RUINS"
+
+    # game/variables/replays.rpy:717
+    old "Explore Residential District."
+    new "Explore Residential District."
+
+    # game/variables/replays.rpy:717
+    old "SLUMS"
+    new "SLUMS"
+
+    # game/variables/replays.rpy:717
+    old "Clueless"
+    new "Clueless"
+
+    # game/variables/replays.rpy:717
+    old "Find nothing."
+    new "Find nothing."
+
+    # game/variables/replays.rpy:717
+    old "Damsel in Distress - Bandit Girl"
+    new "Damsel in Distress - Bandit Girl"
+
+    # game/variables/replays.rpy:717
+    old "Looter Corpses I"
+    new "Looter Corpses I"
+
+    # game/variables/replays.rpy:717
+    old "Find bandit victims."
+    new "Find bandit victims."
+
+    # game/variables/replays.rpy:717
+    old "Looter Corpses II"
+    new "Looter Corpses II"
+
+    # game/variables/replays.rpy:717
+    old "Bandit Corpses I"
+    new "Bandit Corpses I"
+
+    # game/variables/replays.rpy:717
+    old "Find monster victims."
+    new "Find monster victims."
+
+    # game/variables/replays.rpy:717
+    old "Bandit Corpses II"
+    new "Bandit Corpses II"
+
+    # game/variables/replays.rpy:717
+    old "Bandit Corpses III"
+    new "Bandit Corpses III"
+
+    # game/variables/replays.rpy:717
+    old "Treasure Hunt - Map 1"
+    new "Treasure Hunt - Map 1"
+
+    # game/variables/replays.rpy:717
+    old "Treasure Hunt - Map 2"
+    new "Treasure Hunt - Map 2"
+
+    # game/variables/replays.rpy:801
+    old "TRADERS"
+    new "TRADERS"
+
+    # game/variables/replays.rpy:801
+    old "Meet - Alex"
+    new "Meet - Alex"
+
+    # game/variables/replays.rpy:801
+    old "Meet a petite middleman selling other's harvest for the first time."
+    new "Meet a petite middleman selling other's harvest for the first time."
+
+    # game/variables/replays.rpy:801
+    old "Meet - Cook"
+    new "Meet - Cook"
+
+    # game/variables/replays.rpy:801
+    old "Meet the local cook for the first time."
+    new "Meet the local cook for the first time."
+
+    # game/variables/replays.rpy:801
+    old "Meet - Hunter"
+    new "Meet - Hunter"
+
+    # game/variables/replays.rpy:801
+    old "Meet the cult's deserter for the first time."
+    new "Meet the cult's deserter for the first time."
+
+    # game/variables/replays.rpy:801
+    old "Quickie - Alex"
+    new "Quickie - Alex"
+
+    # game/variables/replays.rpy:801
+    old "Manage to obtain Alex affection."
+    new "Manage to obtain Alex affection."
+
+    # game/variables/replays.rpy:801
+    old "Sex - Alex"
+    new "Sex - Alex"
+
+    # game/variables/replays.rpy:801
+    old "Sleepover - Alex"
+    new "Sleepover - Alex"
+
+    # game/variables/replays.rpy:801
+    old "Stay the night at Alex place."
+    new "Stay the night at Alex place."
+
+    # game/variables/replays.rpy:801
+    old "MISCELLANEOUS"
+    new "MISCELLANEOUS"
+
+    # game/variables/replays.rpy:801
+    old "Chat - Beggar 1"
+    new "Chat - Beggar 1"
+
+    # game/variables/replays.rpy:801
+    old "Speak with the beggar."
+    new "Speak with the beggar."
+
+    # game/variables/replays.rpy:801
+    old "Chat - Cook Daughter"
+    new "Chat - Cook Daughter"
+
+    # game/variables/replays.rpy:801
+    old "Speak with the girl."
+    new "Speak with the girl."
+
+    # game/variables/replays.rpy:801
+    old "Chat - Cook Son"
+    new "Chat - Cook Son"
+
+    # game/variables/replays.rpy:801
+    old "Speak with the boy."
+    new "Speak with the boy."
+
+    # game/variables/replays.rpy:801
+    old "Chat - Soldier 1"
+    new "Chat - Soldier 1"
+
+    # game/variables/replays.rpy:801
+    old "Speak with the guard."
+    new "Speak with the guard."
+
+    # game/variables/replays.rpy:801
+    old "Chat - Soldier 2"
+    new "Chat - Soldier 2"
+
+    # game/variables/replays.rpy:801
+    old "Chat - Soldier 2 (night)"
+    new "Chat - Soldier 2 (night)"
+
+    # game/variables/replays.rpy:801
+    old "Speak with the guard on the night duty."
+    new "Speak with the guard on the night duty."
+
+    # game/variables/replays.rpy:801
+    old "Chat - Soldier 3"
+    new "Chat - Soldier 3"
+
+    # game/variables/replays.rpy:801
+    old "Chat - Soldier 3 (night)"
+    new "Chat - Soldier 3 (night)"
+
+    # game/variables/replays.rpy:801
+    old "Chat - Soldier 4"
+    new "Chat - Soldier 4"
+
+    # game/variables/replays.rpy:801
+    old "Shady Business 1"
+    new "Shady Business 1"
+
+    # game/variables/replays.rpy:801
+    old "Overhear about the suspicious deal with scavengers."
+    new "Overhear about the suspicious deal with scavengers."
+
+    # game/variables/replays.rpy:801
+    old "Shady Business 2"
+    new "Shady Business 2"
+
+    # game/variables/replays.rpy:801
+    old "Shady Business 3"
+    new "Shady Business 3"
+
+    # game/variables/replays.rpy:851
+    old "Door - Aharon"
+    new "Door - Aharon"
+
+    # game/variables/replays.rpy:851
+    old "Check the entrance door at night."
+    new "Check the entrance door at night."
+
+    # game/variables/replays.rpy:851
+    old "Door - Monster Disappearance"
+    new "Door - Monster Disappearance"
+
+    # game/variables/replays.rpy:851
+    old "Make sure the unwanted observer at night didn't enter."
+    new "Make sure the unwanted observer at night didn't enter."
+
+    # game/variables/replays.rpy:851
+    old "Door - Monster"
+    new "Door - Monster"
+
+    # game/variables/replays.rpy:851
+    old "Door - Mother"
+    new "Door - Mother"
+
+    # game/variables/replays.rpy:851
+    old "Door - Peace (Day)"
+    new "Door - Peace (Day)"
+
+    # game/variables/replays.rpy:851
+    old "Check the entrance door during the day."
+    new "Check the entrance door during the day."
+
+    # game/variables/replays.rpy:851
+    old "Door - Peace (Night)"
+    new "Door - Peace (Night)"
+
+    # game/variables/replays.rpy:851
+    old "Door - Stickman"
+    new "Door - Stickman"
+
+    # game/variables/replays.rpy:851
+    old "DOJO"
+    new "DOJO"
+
+    # game/variables/replays.rpy:851
+    old "Meet [maric]"
+    new "Meet [maric]"
+
+    # game/variables/replays.rpy:851
+    old "Get acquintances with an adept."
+    new "Get acquintances with an adept."
+
+    # game/variables/replays.rpy:851
+    old "Meet [jill]"
+    new "Meet [jill]"
+
+    # game/variables/replays.rpy:851
+    old "Meet [amber]"
+    new "Meet [amber]"
+
+    # game/variables/replays.rpy:851
+    old "Meet [adam]"
+    new "Meet [adam]"
+
+    # game/variables/replays.rpy:851
+    old "Get acquintances with a martial artist."
+    new "Get acquintances with a martial artist."
+
+    # game/variables/replays.rpy:851
+    old "Mopped the Floor with [adam]"
+    new "Mopped the Floor with [adam]"
+
+    # game/variables/replays.rpy:851
+    old "Win the spar with [adam]."
+    new "Win the spar with [adam]."
+
+    # game/variables/replays.rpy:851
+    old "Spar with [adam] - Lost"
+    new "Spar with [adam] - Lost"
+
+    # game/variables/replays.rpy:851
+    old "Lose the spar with [adam]."
+    new "Lose the spar with [adam]."
+
+    # game/variables/replays.rpy:851
+    old "Spar with [maric] - Won"
+    new "Spar with [maric] - Won"
+
+    # game/variables/replays.rpy:851
+    old "Win the spar with [maric]."
+    new "Win the spar with [maric]."
+
+    # game/variables/replays.rpy:851
+    old "Spar with [maric] - Lost"
+    new "Spar with [maric] - Lost"
+
+    # game/variables/replays.rpy:851
+    old "Lose the spar with [maric]."
+    new "Lose the spar with [maric]."
+
+    # game/variables/replays.rpy:877
+    old "Kiss Grace goodnight on the evening in her room. {mad}DO NOT STOP!!{/mad}"
+    new "Kiss Grace goodnight on the evening in her room. {mad}DO NOT STOP!!{/mad}"
+
+    # game/variables/replays.rpy:877
+    old "Die and get influenced till you are yourself no more."
+    new "Die and get influenced till you are yourself no more."
+
+    # game/variables/replays.rpy:877
+    old "Get totally corrupted."
+    new "Get totally corrupted."
+
+    # game/variables/replays.rpy:877
+    old "Lose all your sanity."
+    new "Lose all your sanity."
+
+    # game/variables/replays.rpy:877
+    old "Get to the bottom of the supernatural case involving the wardrobe in your room."
+    new "Get to the bottom of the supernatural case involving the wardrobe in your room."
+
+    # game/variables/replays.rpy:877
+    old "The Night"
+    new "The Night"
+
+    # game/variables/replays.rpy:877
+    old "Defeat a boss available to {gold}Veteran{/gold} Discord server's users."
+    new "Defeat a boss available to {gold}Veteran{/gold} Discord server's users."
+
+    # game/variables/replays.rpy:877
+    old "Sleep between 19th December & 6th January. (Max one event each {b}real{/b} day)"
+    new "Sleep between 19th December & 6th January. (Max one event each {b}real{/b} day)"
+
+    # game/variables/replays.rpy:922
+    old "Meet her when exploring the city."
+    new "Meet her when exploring the city."
+
+    # game/variables/replays.rpy:922
+    old "Explore together with her."
+    new "Explore together with her."
+
+    # game/variables/replays.rpy:948
+    old "Meet her while exploring the city. (Rachel {love}affection{/love} 7+)"
+    new "Meet her while exploring the city. (Rachel {love}affection{/love} 7+)"
+

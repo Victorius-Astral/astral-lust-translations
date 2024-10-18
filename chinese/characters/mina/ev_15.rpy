@@ -1692,3 +1692,11 @@ translate chinese strings:
     old "I was drunk"
     new "I was drunk"
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+# game/characters/mina/ev_15.rpy:83
+translate chinese mina_15_part2_6e9f5707:
+
+    # mina "Nope. Let's just drink straight from the bottle."
+    mina "Nope. Let's just drink straight from the bottle."
+

@@ -805,3 +805,11 @@ translate french strings:
     old "Lying"
     new "Lying"
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+translate french strings:
+
+    # game/characters/kiara/speak.rpy:29
+    old "Do you know any psychiatrist {gold}(Story){/gold}"
+    new "Do you know any psychiatrist {gold}(Story){/gold}"
+

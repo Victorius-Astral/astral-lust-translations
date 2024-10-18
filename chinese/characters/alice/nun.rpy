@@ -1150,3 +1150,11 @@ translate chinese strings:
     old "I prefer what's in between"
     new "I prefer what's in between"
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+# game/characters/alice/nun.rpy:459
+translate chinese alice_nun_footjob2_d4c720a0:
+
+    # me "Thanks. You're the best."
+    me "Thanks. You're the best."
+

@@ -594,3 +594,11 @@ translate chinese strings:
     old "She brought me to watch her back when she went out to get a.. \"friend\"...."
     new "她带我出去，看着她带回来了一个“朋友”……"
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+translate chinese strings:
+
+    # game/characters/alice/ev_3.rpy:146
+    old "She brought me to watch her back when she went out to get a.. 'friend'...."
+    new "She brought me to watch her back when she went out to get a.. 'friend'...."
+

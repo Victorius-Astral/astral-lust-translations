@@ -18,3 +18,15 @@ translate french strings:
     old "Power"
     new "Puissance"
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+translate french strings:
+
+    # game/combat/cards/lists/types.rpy:3
+    old "Martial Art"
+    new "Martial Art"
+
+    # game/combat/cards/lists/types.rpy:3
+    old "Summoning"
+    new "Summoning"
+

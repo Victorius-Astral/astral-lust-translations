@@ -138,3 +138,11 @@ translate french strings:
     old "Perform Ritual"
     new "Perform Ritual"
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+translate french strings:
+
+    # game/functions/buffs/list.rpy:39
+    old "Your mind is heavy, your thoughts sluggish. The actions you'll be able to perform in battle will be less. This effect is decreased by resting and is removed when sleeping."
+    new "Your mind is heavy, your thoughts sluggish. The actions you'll be able to perform in battle will be less. This effect is decreased by resting and is removed when sleeping."
+

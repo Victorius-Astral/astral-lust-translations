@@ -287,3 +287,11 @@
 # TODO:
     old "Do you want to restart the game? If you don't do it, some things will not change language."
     new "Do you want to restart the game? If you don't do it, some things will not change language."
+# TODO: Translation updated at 2024-10-18 07:40
+
+translate chinese strings:
+
+    # game/screens.rpy:660
+    old "Escape {#key}"
+    new "Escape {#key}"
+

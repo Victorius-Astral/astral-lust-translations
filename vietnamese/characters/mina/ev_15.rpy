@@ -1764,3 +1764,11 @@ translate vietnamese mina_15_part3_a2339b36:
 
     # me "That's not it Mina. You should know how much I want you, but not like this."
     me "Không phải vậy đâu Mina. Em biết anh muốn em nhiều đến mức nào mà, nhưng không phải như thế này."
+# TODO: Translation updated at 2024-10-18 07:35
+
+# game/characters/mina/ev_15.rpy:83
+translate vietnamese mina_15_part2_6e9f5707:
+
+    # mina "Nope. Let's just drink straight from the bottle."
+    mina "Nope. Let's just drink straight from the bottle."
+

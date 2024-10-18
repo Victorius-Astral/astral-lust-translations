@@ -510,3 +510,95 @@ translate vietnamese strings:
     # game/screens/utility/what_new.rpy:247
     old "You can find these two cuties working together on afternoons."
     new "Bạn có thể tìm thấy hai người này làm việc cùng nhau vào các buổi chiều."
+# TODO: Translation updated at 2024-10-18 07:35
+
+translate vietnamese strings:
+
+    # game/screens/utility/what_new.rpy:186
+    old "{b}Area Based Exploration{/b}"
+    new "{b}Area Based Exploration{/b}"
+
+    # game/screens/utility/what_new.rpy:187
+    old "{b}We've heard you!{/b} The greatest change in 0.3.0 was your suggestion! Exploration was split into areas, each area comes with its own events, story events also require you to explore appropriate area. Don't worry, map's feature of highlighting places with events was extended to work in Explore Map, too."
+    new "{b}We've heard you!{/b} The greatest change in 0.3.0 was your suggestion! Exploration was split into areas, each area comes with its own events, story events also require you to explore appropriate area. Don't worry, map's feature of highlighting places with events was extended to work in Explore Map, too."
+
+    # game/screens/utility/what_new.rpy:194
+    old "{b}Exploration Events{/b}"
+    new "{b}Exploration Events{/b}"
+
+    # game/screens/utility/what_new.rpy:195
+    old "A total of twelve new exploration events was introduced to expand upon the new exploration mechanic."
+    new "A total of twelve new exploration events was introduced to expand upon the new exploration mechanic."
+
+    # game/screens/utility/what_new.rpy:204
+    old "{b}Card Evolution System{/b}"
+    new "{b}Card Evolution System{/b}"
+
+    # game/screens/utility/what_new.rpy:205
+    old "{b}Level Up your cards!{/b} Further improve your might to face new horrifying foes."
+    new "{b}Level Up your cards!{/b} Further improve your might to face new horrifying foes."
+
+    # game/screens/utility/what_new.rpy:217
+    old "{b}More sex scenes got sfx!{/b} This includes: Alice, Kiara & Lexi scenes, also part of Grace scenes."
+    new "{b}More sex scenes got sfx!{/b} This includes: Alice, Kiara & Lexi scenes, also part of Grace scenes."
+
+    # game/screens/utility/what_new.rpy:222
+    old "{b}Wanderer Hideout{/b}"
+    new "{b}Wanderer Hideout{/b}"
+
+    # game/screens/utility/what_new.rpy:223
+    old "{b}Breath of life came to the Wanderer's Hideout!{/b} 12 new characters were added there. All of them can be talked with, 3 of them are traders. There are 2 new sex scenes there!"
+    new "{b}Breath of life came to the Wanderer's Hideout!{/b} 12 new characters were added there. All of them can be talked with, 3 of them are traders. There are 2 new sex scenes there!"
+
+    # game/screens/utility/what_new.rpy:232
+    old "{b}Lexi 16th Event{/b}"
+    new "{b}Lexi 16th Event{/b}"
+
+    # game/screens/utility/what_new.rpy:240
+    old "{b}Mina 19th Event{/b}"
+    new "{b}Mina 19th Event{/b}"
+
+    # game/screens/utility/what_new.rpy:248
+    old "{b}New outfits{/b}"
+    new "{b}New outfits{/b}"
+
+    # game/screens/utility/what_new.rpy:249
+    old "New outfits for Alice, Grace, Lexi & Mina! Each comes with 2 unique sex scenes."
+    new "New outfits for Alice, Grace, Lexi & Mina! Each comes with 2 unique sex scenes."
+
+    # game/screens/utility/what_new.rpy:258
+    old "{b}Carlson Dojo{/b}"
+    new "{b}Carlson Dojo{/b}"
+
+    # game/screens/utility/what_new.rpy:259
+    old "A new location to discover! Fight martial artists, learn their abilities and dominate your foes with new card type - Martial Arts!"
+    new "A new location to discover! Fight martial artists, learn their abilities and dominate your foes with new card type - Martial Arts!"
+
+    # game/screens/utility/what_new.rpy:268
+    old "{b}New Enemies, Arenas & AI Improvements{/b}"
+    new "{b}New Enemies, Arenas & AI Improvements{/b}"
+
+    # game/screens/utility/what_new.rpy:269
+    old "Eight new enemies & four new random combat arenas were introduced. Enemies include end-game foes as well as early-game ones. Enemies AI was improved! There are currently 2 intelligence levels introduced."
+    new "Eight new enemies & four new random combat arenas were introduced. Enemies include end-game foes as well as early-game ones. Enemies AI was improved! There are currently 2 intelligence levels introduced."
+
+    # game/screens/utility/what_new.rpy:279
+    old "{b}New Card Types{/b}"
+    new "{b}New Card Types{/b}"
+
+    # game/screens/utility/what_new.rpy:280
+    old "24 new cards among two new card types - Summoning & Martial Art cards!"
+    new "24 new cards among two new card types - Summoning & Martial Art cards!"
+
+    # game/screens/utility/what_new.rpy:291
+    old "{b}New status effects{/b}"
+    new "{b}New status effects{/b}"
+
+    # game/screens/utility/what_new.rpy:292
+    old "Thirteen new status effects were added! Many of them are related to the new Martial Art cards. New enemies also use them, Dragon's regeneration was changed to innate regeneration."
+    new "Thirteen new status effects were added! Many of them are related to the new Martial Art cards. New enemies also use them, Dragon's regeneration was changed to innate regeneration."
+
+    # game/screens/utility/what_new.rpy:314
+    old "Other events, features, mechanics, QoL, fixes and changes were made. You can find them all in the following changelog."
+    new "Other events, features, mechanics, QoL, fixes and changes were made. You can find them all in the following changelog."
+

@@ -266,3 +266,11 @@ translate spanish strings:
     # game/places/wanderers/brothel.rpy:23
     old "Madam Hof"
     new "Madam Hof"
+# TODO: Translation updated at 2024-10-18 07:38
+
+translate spanish strings:
+
+    # game/places/wanderers/brothel.rpy:186
+    old "Close Album"
+    new "Close Album"
+

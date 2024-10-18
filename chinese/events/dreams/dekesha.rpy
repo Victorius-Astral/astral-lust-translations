@@ -646,3 +646,11 @@ translate chinese strings:
     old "Fuck her, let her know how good dick feels"
     new "Fuck her, let her know how good dick feels"
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+translate chinese strings:
+
+    # game/events/dreams/dekesha.rpy:48
+    old "Leave the bar"
+    new "Leave the bar"
+

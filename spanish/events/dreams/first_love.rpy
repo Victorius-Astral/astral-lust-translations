@@ -173,3 +173,11 @@ translate spanish strings:
     # game/events/dreams/first_love.rpy:20
     old "Have goodbye sex with her"
     new "Ten sexo de despedida con ella "
+# TODO: Translation updated at 2024-10-18 07:38
+
+# game/events/dreams/first_love.rpy:13
+translate spanish d_First_Love_2_2a01572e:
+
+    # me "Are you leaving for the university tomorrow?"
+    me "Are you leaving for the university tomorrow?"
+

@@ -396,3 +396,11 @@ translate spanish strings:
 
     old "Do you want to restart the game? If you don't do it, some things will not change language."
     new "¿Quieres reiniciar el juego? Si no lo haces, algunas cosas no cambiarán de lenguaje."
+# TODO: Translation updated at 2024-10-18 07:38
+
+translate spanish strings:
+
+    # game/screens.rpy:660
+    old "Escape {#key}"
+    new "Escape {#key}"
+

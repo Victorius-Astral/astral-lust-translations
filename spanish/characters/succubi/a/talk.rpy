@@ -1224,3 +1224,69 @@ translate spanish strings:
     # game/characters/succubi/a/talk.rpy:85
     old "How should she call you?"
     new "¿Cómo debería llamarte?"
+# TODO: Translation updated at 2024-10-18 07:38
+
+# game/characters/succubi/a/talk.rpy:88
+translate spanish talk_SuccubusA_menu1_1f4496c8:
+
+    # succA "N-N-No... {i}Please~{/i}"
+    succA "N-N-No... {i}Please~{/i}"
+
+# game/characters/succubi/a/talk.rpy:89
+translate spanish talk_SuccubusA_menu1_63edbd73:
+
+    # extend " You can't do this to me, [succA_master]!"
+    extend " You can't do this to me, [succA_master]!"
+
+# game/characters/succubi/a/talk.rpy:90
+translate spanish talk_SuccubusA_menu1_a6489b56:
+
+    # me "Relax. I don't want you to control yourself. Go play with your sister."
+    me "Relax. I don't want you to control yourself. Go play with your sister."
+
+# game/characters/succubi/a/talk.rpy:94
+translate spanish talk_SuccubusA_menu1_d93e33d1:
+
+    # succA "I don't like that bitch."
+    succA "I don't like that bitch."
+
+# game/characters/succubi/a/talk.rpy:95
+translate spanish talk_SuccubusA_menu1_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/characters/succubi/a/talk.rpy:99
+translate spanish talk_SuccubusA_menu1_4224ad97:
+
+    # succA "Okay, [succA_master]."
+    succA "Okay, [succA_master]."
+
+# game/characters/succubi/a/talk.rpy:108
+translate spanish talk_SuccubusA_menu1_bf9cca2b:
+
+    # succA "{i}*Cmoch*{/i}"
+    succA "{i}*Cmoch*{/i}"
+
+# game/characters/succubi/a/talk.rpy:112
+translate spanish talk_SuccubusA_menu1_55b2ff56:
+
+    # succA "Thank you, [succA_master]!~"
+    succA "Thank you, [succA_master]!~"
+
+# game/characters/succubi/a/talk.rpy:113
+translate spanish talk_SuccubusA_menu1_1dbe2ddc:
+
+    # me "Good."
+    me "Good."
+
+translate spanish strings:
+
+    # game/characters/succubi/a/talk.rpy:33
+    old "Stop coming to me when you're horny"
+    new "Stop coming to me when you're horny"
+
+    # game/characters/succubi/a/talk.rpy:33
+    old "Come look for me when you're thirsty again"
+    new "Come look for me when you're thirsty again"
+

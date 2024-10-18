@@ -173,3 +173,11 @@ translate french strings:
     # game/events/dreams/first_love.rpy:20
     old "Have goodbye sex with her"
     new "Avoir des relations sexuelles d'adieu avec elle"
+# TODO: Translation updated at 2024-10-18 07:37
+
+# game/events/dreams/first_love.rpy:13
+translate french d_First_Love_2_2a01572e:
+
+    # me "Are you leaving for the university tomorrow?"
+    me "Are you leaving for the university tomorrow?"
+

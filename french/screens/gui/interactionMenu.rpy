@@ -282,3 +282,31 @@ translate french strings:
     old "[alice] & [grace]"
     new "[alice] & [grace]"
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+translate french strings:
+
+    # game/screens/gui/interactionMenu.rpy:76
+    old "Men"
+    new "Men"
+
+    # game/screens/gui/interactionMenu.rpy:76
+    old "[carlson]"
+    new "[carlson]"
+
+    # game/screens/gui/interactionMenu.rpy:76
+    old "[adam]"
+    new "[adam]"
+
+    # game/screens/gui/interactionMenu.rpy:76
+    old "[amber]"
+    new "[amber]"
+
+    # game/screens/gui/interactionMenu.rpy:76
+    old "[jill]"
+    new "[jill]"
+
+    # game/screens/gui/interactionMenu.rpy:76
+    old "[maric]"
+    new "[maric]"
+

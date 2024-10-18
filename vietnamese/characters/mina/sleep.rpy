@@ -417,3 +417,299 @@ translate vietnamese strings:
     # game/characters/mina/sleep.rpy:3
     old "Play with her"
     new "Chơi với cô ấy"
+# TODO: Translation updated at 2024-10-18 07:35
+
+# game/characters/mina/sleep.rpy:85
+translate vietnamese sleep_mina_nolexi_1f56e355:
+
+    # mina "No, no."
+    mina "No, no."
+
+# game/characters/mina/sleep.rpy:86
+translate vietnamese sleep_mina_nolexi_63280a2d:
+
+    # me "Eh?"
+    me "Eh?"
+
+# game/characters/mina/sleep.rpy:87
+translate vietnamese sleep_mina_nolexi_785ab8b8:
+
+    # mina "This hand goes back."
+    mina "This hand goes back."
+
+# game/characters/mina/sleep.rpy:91
+translate vietnamese sleep_mina_nolexi_2ddc3f46:
+
+    # me "You're awake?"
+    me "You're awake?"
+
+# game/characters/mina/sleep.rpy:92
+translate vietnamese sleep_mina_nolexi_b9c4bb6d:
+
+    # mina "Sadly. I've got a problem, you see?"
+    mina "Sadly. I've got a problem, you see?"
+
+# game/characters/mina/sleep.rpy:93
+translate vietnamese sleep_mina_nolexi_7fa1af1f:
+
+    # me "What problem?"
+    me "What problem?"
+
+# game/characters/mina/sleep.rpy:94
+translate vietnamese sleep_mina_nolexi_a14e3c1e:
+
+    # mina "One creep not letting me sleep."
+    mina "One creep not letting me sleep."
+
+# game/characters/mina/sleep.rpy:95
+translate vietnamese sleep_mina_nolexi_7397df86:
+
+    # me "Oh."
+    me "Oh."
+
+# game/characters/mina/sleep.rpy:96
+translate vietnamese sleep_mina_nolexi_894b5d4b:
+
+    # mina "Goodnight."
+    mina "Goodnight."
+
+# game/characters/mina/sleep.rpy:97
+translate vietnamese sleep_mina_nolexi_1470daea:
+
+    # me "Goodnight..."
+    me "Goodnight..."
+
+# game/characters/mina/sleep.rpy:197
+translate vietnamese mina_drunk_sleep_f4db6b67:
+
+    # "You can feel a subtle liquor smell."
+    "You can feel a subtle liquor smell."
+
+# game/characters/mina/sleep.rpy:198
+translate vietnamese mina_drunk_sleep_255b4557:
+
+    # me "You alive?"
+    me "You alive?"
+
+# game/characters/mina/sleep.rpy:199
+translate vietnamese mina_drunk_sleep_4e2a8876:
+
+    # mina "..."
+    mina "..."
+
+# game/characters/mina/sleep.rpy:200
+translate vietnamese mina_drunk_sleep_7ebc28bd:
+
+    # "You wait for a few seconds, no reply comes out of her."
+    "You wait for a few seconds, no reply comes out of her."
+
+# game/characters/mina/sleep.rpy:201
+translate vietnamese mina_drunk_sleep_86460b53:
+
+    # th "She's done for so much I doubt she would realize even if I threw her off the bed."
+    th "She's done for so much I doubt she would realize even if I threw her off the bed."
+
+# game/characters/mina/sleep.rpy:204
+translate vietnamese mina_drunk_sleep_c565146f:
+
+    # th "What should I do with her?" nointeract
+    th "What should I do with her?" nointeract
+
+# game/characters/mina/sleep.rpy:219
+translate vietnamese mina_drunk_sleep_wakeup_6143032b:
+
+    # me "[mina]!"
+    me "[mina]!"
+
+# game/characters/mina/sleep.rpy:220
+translate vietnamese mina_drunk_sleep_wakeup_70bf342e:
+
+    # me "Wake up!"
+    me "Wake up!"
+
+# game/characters/mina/sleep.rpy:221
+translate vietnamese mina_drunk_sleep_wakeup_58c857ef:
+
+    # mina "Mm..."
+    mina "Mm..."
+
+# game/characters/mina/sleep.rpy:222
+translate vietnamese mina_drunk_sleep_wakeup_88cb9036:
+
+    # "It seems your efforts have some results - [mina] appears to be waking up."
+    "It seems your efforts have some results - [mina] appears to be waking up."
+
+# game/characters/mina/sleep.rpy:226
+translate vietnamese mina_drunk_sleep_wakeup_e002f7eb:
+
+    # mina "What?"
+    mina "What?"
+
+# game/characters/mina/sleep.rpy:227
+translate vietnamese mina_drunk_sleep_wakeup_cbb79ad9:
+
+    # me "Go do something better with your life, you'll sleep at night."
+    me "Go do something better with your life, you'll sleep at night."
+
+# game/characters/mina/sleep.rpy:228
+translate vietnamese mina_drunk_sleep_wakeup_4e2a8876:
+
+    # mina "..."
+    mina "..."
+
+# game/characters/mina/sleep.rpy:232
+translate vietnamese mina_drunk_sleep_wakeup_3820771a:
+
+    # me "..."
+    me "..."
+
+# game/characters/mina/sleep.rpy:233
+translate vietnamese mina_drunk_sleep_wakeup_26d4ba48:
+
+    # me "{loud}[mina]!{/loud}"
+    me "{loud}[mina]!{/loud}"
+
+# game/characters/mina/sleep.rpy:237
+translate vietnamese mina_drunk_sleep_wakeup_3b1063b7:
+
+    # mina "My ears..."
+    mina "My ears..."
+
+# game/characters/mina/sleep.rpy:238
+translate vietnamese mina_drunk_sleep_wakeup_ad5ee6f0:
+
+    # mina "Just let me sleep, man."
+    mina "Just let me sleep, man."
+
+# game/characters/mina/sleep.rpy:241
+translate vietnamese mina_drunk_sleep_wakeup_4f52afa7:
+
+    # "{trust}[[Charisma check passed]{/trust}"
+    "{trust}[[Charisma check passed]{/trust}"
+
+# game/characters/mina/sleep.rpy:242
+translate vietnamese mina_drunk_sleep_wakeup_624f3afc:
+
+    # me "Would you rather Lexi wake you up?"
+    me "Would you rather Lexi wake you up?"
+
+# game/characters/mina/sleep.rpy:246
+translate vietnamese mina_drunk_sleep_wakeup_f9d5db02:
+
+    # mina "Fiiine."
+    mina "Fiiine."
+
+# game/characters/mina/sleep.rpy:247
+translate vietnamese mina_drunk_sleep_wakeup_ff8bb52b:
+
+    # mina "You're no fun."
+    mina "You're no fun."
+
+# game/characters/mina/sleep.rpy:248
+translate vietnamese mina_drunk_sleep_wakeup_d59a6b9a:
+
+    # me "Great."
+    me "Great."
+
+# game/characters/mina/sleep.rpy:253
+translate vietnamese mina_drunk_sleep_wakeup_cb1f1620:
+
+    # "{bad}[[Charisma check failed]{/bad}"
+    "{bad}[[Charisma check failed]{/bad}"
+
+# game/characters/mina/sleep.rpy:257
+translate vietnamese mina_drunk_sleep_wakeup_875081f6:
+
+    # mina "Night~"
+    mina "Night~"
+
+# game/characters/mina/sleep.rpy:258
+translate vietnamese mina_drunk_sleep_wakeup_363ff633:
+
+    # me "It's still day..."
+    me "It's still day..."
+
+# game/characters/mina/sleep.rpy:259
+translate vietnamese mina_drunk_sleep_wakeup_d6a6427c:
+
+    # mina "Day~"
+    mina "Day~"
+
+# game/characters/mina/sleep.rpy:260
+translate vietnamese mina_drunk_sleep_wakeup_285f2beb:
+
+    # "Three seconds after finishing her breathing becomes softer, she has fallen asleep."
+    "Three seconds after finishing her breathing becomes softer, she has fallen asleep."
+
+# game/characters/mina/sleep.rpy:261
+translate vietnamese mina_drunk_sleep_wakeup_f560dd16:
+
+    # me "Ehh..."
+    me "Ehh..."
+
+# game/characters/mina/sleep.rpy:269
+translate vietnamese mina_drunk_sleep_feel_20c73366:
+
+    # "*Slap*"
+    "*Slap*"
+
+# game/characters/mina/sleep.rpy:270
+translate vietnamese mina_drunk_sleep_feel_5812d7f4:
+
+    # "You slap her ass making her give out a soft moan."
+    "You slap her ass making her give out a soft moan."
+
+# game/characters/mina/sleep.rpy:271
+translate vietnamese mina_drunk_sleep_feel_5b54c5e0:
+
+    # mina "Nn~"
+    mina "Nn~"
+
+# game/characters/mina/sleep.rpy:272
+translate vietnamese mina_drunk_sleep_feel_0492a65c:
+
+    # th "She's not getting up."
+    th "She's not getting up."
+
+# game/characters/mina/sleep.rpy:276
+translate vietnamese mina_drunk_sleep_feel_8c6a31c9:
+
+    # me "Nice."
+    me "Nice."
+
+# game/characters/mina/sleep.rpy:277
+translate vietnamese mina_drunk_sleep_feel_2cc3709d:
+
+    # th "She has a shapely, firm ass. It's the right balance between firm and soft."
+    th "She has a shapely, firm ass. It's the right balance between firm and soft."
+
+# game/characters/mina/sleep.rpy:278
+translate vietnamese mina_drunk_sleep_feel_87ff7a46:
+
+    # th "How did she get it? Gym? Horse riding?"
+    th "How did she get it? Gym? Horse riding?"
+
+# game/characters/mina/sleep.rpy:282
+translate vietnamese mina_drunk_sleep_feel_c73c2c39:
+
+    # "You squeeze her ass for a while."
+    "You squeeze her ass for a while."
+
+# game/characters/mina/sleep.rpy:283
+translate vietnamese mina_drunk_sleep_feel_50061ee2:
+
+    # mina "Mmm~"
+    mina "Mmm~"
+
+# game/characters/mina/sleep.rpy:284
+translate vietnamese mina_drunk_sleep_feel_c84b038b:
+
+    # th "Alright, I've had enough playing around."
+    th "Alright, I've had enough playing around."
+
+translate vietnamese strings:
+
+    # game/characters/mina/sleep.rpy:203
+    old "Wake up"
+    new "Wake up"
+

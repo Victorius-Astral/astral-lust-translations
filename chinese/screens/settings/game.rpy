@@ -207,3 +207,27 @@ translate chinese strings:
     old "Show in-progress languages"
     new "Show in-progress languages"
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+translate chinese strings:
+
+    # game/screens/settings/game.rpy:109
+    old "Auto card level-up"
+    new "Auto card level-up"
+
+    # game/screens/settings/game.rpy:163
+    old "Use Base Card Name"
+    new "Use Base Card Name"
+
+    # game/screens/settings/game.rpy:163
+    old "Cards will show their stage 1 name even if it's changed later on. Ex. Strike instead of Heavy Strike."
+    new "Cards will show their stage 1 name even if it's changed later on. Ex. Strike instead of Heavy Strike."
+
+    # game/screens/settings/game.rpy:164
+    old "Use Base Card Image"
+    new "Use Base Card Image"
+
+    # game/screens/settings/game.rpy:164
+    old "Cards will show their stage 1 image even if it's changed later on."
+    new "Cards will show their stage 1 image even if it's changed later on."
+

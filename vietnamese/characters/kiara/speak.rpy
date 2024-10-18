@@ -821,3 +821,11 @@ translate vietnamese strings:
     # game/characters/kiara/speak.rpy:320
     old "Lying"
     new "Nằm"
+# TODO: Translation updated at 2024-10-18 07:35
+
+translate vietnamese strings:
+
+    # game/characters/kiara/speak.rpy:29
+    old "Do you know any psychiatrist {gold}(Story){/gold}"
+    new "Do you know any psychiatrist {gold}(Story){/gold}"
+

@@ -142,3 +142,11 @@ translate spanish strings:
     # game/functions/buffs/list.rpy:188
     old "Perform Ritual"
     new "Realizar Ritual"
+# TODO: Translation updated at 2024-10-18 07:38
+
+translate spanish strings:
+
+    # game/functions/buffs/list.rpy:39
+    old "Your mind is heavy, your thoughts sluggish. The actions you'll be able to perform in battle will be less. This effect is decreased by resting and is removed when sleeping."
+    new "Your mind is heavy, your thoughts sluggish. The actions you'll be able to perform in battle will be less. This effect is decreased by resting and is removed when sleeping."
+

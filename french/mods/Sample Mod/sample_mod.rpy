@@ -80,3 +80,11 @@ translate french strings:
     old "Stay put"
     new "Ne bouge pas"
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+translate french strings:
+
+    # game/mods/Sample Mod/sample_mod.rpy:11
+    old "Slice"
+    new "Slice"
+

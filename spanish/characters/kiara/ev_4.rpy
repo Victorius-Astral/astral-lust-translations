@@ -425,3 +425,11 @@ translate spanish kiara_4_c1b138e6:
 
     # kiara "Sit on the floor."
     kiara "Siéntate en el piso."
+# TODO: Translation updated at 2024-10-18 07:38
+
+# game/characters/kiara/ev_4.rpy:74
+translate spanish kiara_4_e615e445:
+
+    # kiara "Everything originates from 'It', as so 'It' is a part of everything."
+    kiara "Everything originates from 'It', as so 'It' is a part of everything."
+

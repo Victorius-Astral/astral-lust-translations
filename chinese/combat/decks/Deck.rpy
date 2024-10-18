@@ -18,3 +18,15 @@ translate chinese strings:
     old "Cards in {}:"
     new "卡牌在 {}:"
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+translate chinese strings:
+
+    # game/combat/decks/Deck.rpy:95
+    old "You have reachead a maximum of this card in a single deck! Card evolution might increase the limit."
+    new "You have reachead a maximum of this card in a single deck! Card evolution might increase the limit."
+
+    # game/combat/decks/Deck.rpy:118
+    old "This card is locked."
+    new "This card is locked."
+

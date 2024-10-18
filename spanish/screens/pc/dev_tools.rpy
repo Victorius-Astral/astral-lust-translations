@@ -99,3 +99,15 @@ translate spanish strings:
     # game/screens/pc/dev_tools.rpy:29
     old "Cursor"
     new "Cursor"
+# TODO: Translation updated at 2024-10-18 07:38
+
+translate spanish strings:
+
+    # game/screens/pc/dev_tools.rpy:101
+    old "Show all"
+    new "Show all"
+
+    # game/screens/pc/dev_tools.rpy:137
+    old "Test unicode"
+    new "Test unicode"
+

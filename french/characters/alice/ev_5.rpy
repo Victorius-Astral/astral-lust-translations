@@ -445,3 +445,11 @@ translate french alice_5_2_5c6f5e7b:
 
     # alice "Ahhhmm!~"
     alice "¡Ahhhmm!~"
+# TODO: Translation updated at 2024-10-18 07:37
+
+# game/characters/alice/ev_5.rpy:11
+translate french alice_5_fd8849a6:
+
+    # "{color=#800080}[[Need 5%% Corruption]{/color} Perform indecent deeds to increase corruption. Peep at girls bath, kill human enemies, encounter corruption."
+    "{color=#800080}[[Need 5%% Corruption]{/color} Perform indecent deeds to increase corruption. Peep at girls bath, kill human enemies, encounter corruption."
+

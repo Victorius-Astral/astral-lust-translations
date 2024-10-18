@@ -1449,3 +1449,53 @@ translate french strings:
     # game/events/explore/treasure_hunt.rpy:540
     old "Bullshit + 1"
     new "Mentir + 1"
+# TODO: Translation updated at 2024-10-18 07:37
+
+# game/events/explore/treasure_hunt.rpy:56
+translate french exp_treasure_hunt_newmap_044ffc8d:
+
+    # th "Picture? A part of it.."
+    th "Picture? A part of it.."
+
+# game/events/explore/treasure_hunt.rpy:60
+translate french exp_treasure_hunt_newmap_81eb4c07:
+
+    # th "The picture is different.."
+    th "The picture is different.."
+
+# game/events/explore/treasure_hunt.rpy:64
+translate french exp_treasure_hunt_newmap_0482ebf7:
+
+    # th "That's a third piece. What is this place?"
+    th "That's a third piece. What is this place?"
+
+# game/events/explore/treasure_hunt.rpy:68
+translate french exp_treasure_hunt_newmap_4e9fb68c:
+
+    # me "That would be the last one."
+    me "That would be the last one."
+
+# game/events/explore/treasure_hunt.rpy:69
+translate french exp_treasure_hunt_newmap_c7c37489:
+
+    # me "Looks like ruins to me."
+    me "Looks like ruins to me."
+
+# game/events/explore/treasure_hunt.rpy:175
+translate french exp_treasure_hunt_part4_401c5bd6:
+
+    # me "Mysterious chest lying in the middle of a parking?"
+    me "Mysterious chest lying in the middle of a parking?"
+
+# game/events/explore/treasure_hunt.rpy:176
+translate french exp_treasure_hunt_part4_75229b72:
+
+    # extend " Count me in, haha."
+    extend " Count me in, haha."
+
+# game/events/explore/treasure_hunt.rpy:183
+translate french exp_treasure_hunt_part4_619e9e1b:
+
+    # me "Nothing new, the same junk as everywhere."
+    me "Nothing new, the same junk as everywhere."
+

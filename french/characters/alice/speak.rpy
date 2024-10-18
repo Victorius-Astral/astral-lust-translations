@@ -3099,3 +3099,23 @@ translate french strings:
     old "Pyjamas"
     new "Pyjamas"
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+# game/characters/alice/speak.rpy:195
+translate french speak_alice_menuev9_15096fb7:
+
+    # alice "Get ready for a love bite~"
+    alice "Get ready for a love bite~"
+
+# game/characters/alice/speak.rpy:196
+translate french speak_alice_menuev9_88eab5f5:
+
+    # me "Haha."
+    me "Haha."
+
+translate french strings:
+
+    # game/characters/alice/speak.rpy:168
+    old "Vampire {#visible}"
+    new "Vampire {#visible}"
+

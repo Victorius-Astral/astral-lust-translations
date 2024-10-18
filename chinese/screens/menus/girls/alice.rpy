@@ -112,3 +112,11 @@ translate chinese strings:
     old "• Rubbing: "
     new "• Rubbing: "
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+translate chinese strings:
+
+    # game/screens/menus/girls/alice.rpy:23
+    old "Nicknames: "
+    new "Nicknames: "
+

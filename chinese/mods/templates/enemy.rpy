@@ -6,3 +6,11 @@ translate chinese strings:
     old "TEMPLATE"
     new "TEMPLATE"
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+translate chinese strings:
+
+    # game/mods/templates/enemy.rpy:9
+    old "TemplateEnemy"
+    new "TemplateEnemy"
+

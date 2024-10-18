@@ -102,3 +102,15 @@ translate french strings:
     old "Deserters"
     new "Déserteurs"
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+translate french strings:
+
+    # game/combat/battle/Battle_variables.rpy:71
+    old "None"
+    new "None"
+
+    # game/combat/battle/Battle_variables.rpy:82
+    old "Carlson Dojo"
+    new "Carlson Dojo"
+

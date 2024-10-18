@@ -28,3 +28,11 @@ translate vietnamese strings:
     # game/combat/decks/Deck.rpy:95
     old "You have reachead a maximum of this card in a single deck! Card evolution might increase the limit."
     new "Bạn đã đạt đến mức tối đa của thẻ này trong một bộ bài! Tiến hóa thẻ có thể tăng giới hạn."
+# TODO: Translation updated at 2024-10-18 07:35
+
+translate vietnamese strings:
+
+    # game/combat/decks/Deck.rpy:118
+    old "This card is locked."
+    new "This card is locked."
+

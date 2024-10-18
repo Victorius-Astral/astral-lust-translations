@@ -2152,3 +2152,203 @@ translate vietnamese strings:
     old "Treasure Hunt - Map 2"
     new "Treasure Hunt - Map 2"
 
+# TODO: Translation updated at 2024-10-18 07:35
+
+translate vietnamese strings:
+
+    # game/variables/replays.rpy:414
+    old "Drinking again (Friend)"
+    new "Drinking again (Friend)"
+
+    # game/variables/replays.rpy:414
+    old "Drinking again (Love)"
+    new "Drinking again (Love)"
+
+    # game/variables/replays.rpy:414
+    old "Drinking Problem"
+    new "Drinking Problem"
+
+    # game/variables/replays.rpy:414
+    old "Sleep - No Lexi"
+    new "Sleep - No Lexi"
+
+    # game/variables/replays.rpy:414
+    old "Peep at her sleep when Lexi is not there."
+    new "Peep at her sleep when Lexi is not there."
+
+    # game/variables/replays.rpy:414
+    old "Sleep Drunk - Wake Up"
+    new "Sleep Drunk - Wake Up"
+
+    # game/variables/replays.rpy:414
+    old "Check on her when she's sleeping after drinking."
+    new "Check on her when she's sleeping after drinking."
+
+    # game/variables/replays.rpy:414
+    old "Sleep Drunk - Cop a Feel"
+    new "Sleep Drunk - Cop a Feel"
+
+    # game/variables/replays.rpy:473
+    old "Worries"
+    new "Worries"
+
+    # game/variables/replays.rpy:473
+    old "Psychological Problem"
+    new "Psychological Problem"
+
+    # game/variables/replays.rpy:473
+    old "First Session (Kiara)"
+    new "First Session (Kiara)"
+
+    # game/variables/replays.rpy:473
+    old "Seek aid for her with Kiara."
+    new "Seek aid for her with Kiara."
+
+    # game/variables/replays.rpy:473
+    old "First Session (Alkimakos)"
+    new "First Session (Alkimakos)"
+
+    # game/variables/replays.rpy:473
+    old "Seek aid for her with Aharon."
+    new "Seek aid for her with Aharon."
+
+    # game/variables/replays.rpy:717
+    old "Car I"
+    new "Car I"
+
+    # game/variables/replays.rpy:717
+    old "Search an abandoned car."
+    new "Search an abandoned car."
+
+    # game/variables/replays.rpy:717
+    old "Car II"
+    new "Car II"
+
+    # game/variables/replays.rpy:717
+    old "Car III"
+    new "Car III"
+
+    # game/variables/replays.rpy:717
+    old "Truck I"
+    new "Truck I"
+
+    # game/variables/replays.rpy:717
+    old "Loot an overturned truck."
+    new "Loot an overturned truck."
+
+    # game/variables/replays.rpy:717
+    old "Truck II"
+    new "Truck II"
+
+    # game/variables/replays.rpy:717
+    old "Truck III"
+    new "Truck III"
+
+    # game/variables/replays.rpy:717
+    old "Truck IV"
+    new "Truck IV"
+
+    # game/variables/replays.rpy:717
+    old "Carlson, the Pugilist"
+    new "Carlson, the Pugilist"
+
+    # game/variables/replays.rpy:717
+    old "Find a dojo in the apocalyptic world."
+    new "Find a dojo in the apocalyptic world."
+
+    # game/variables/replays.rpy:717
+    old "Clueless"
+    new "Clueless"
+
+    # game/variables/replays.rpy:717
+    old "Find nothing."
+    new "Find nothing."
+
+    # game/variables/replays.rpy:717
+    old "Looter Corpses I"
+    new "Looter Corpses I"
+
+    # game/variables/replays.rpy:717
+    old "Find bandit victims."
+    new "Find bandit victims."
+
+    # game/variables/replays.rpy:717
+    old "Looter Corpses II"
+    new "Looter Corpses II"
+
+    # game/variables/replays.rpy:717
+    old "Bandit Corpses I"
+    new "Bandit Corpses I"
+
+    # game/variables/replays.rpy:717
+    old "Find monster victims."
+    new "Find monster victims."
+
+    # game/variables/replays.rpy:717
+    old "Bandit Corpses II"
+    new "Bandit Corpses II"
+
+    # game/variables/replays.rpy:717
+    old "Bandit Corpses III"
+    new "Bandit Corpses III"
+
+    # game/variables/replays.rpy:851
+    old "DOJO"
+    new "DOJO"
+
+    # game/variables/replays.rpy:851
+    old "Meet [maric]"
+    new "Meet [maric]"
+
+    # game/variables/replays.rpy:851
+    old "Get acquintances with an adept."
+    new "Get acquintances with an adept."
+
+    # game/variables/replays.rpy:851
+    old "Meet [jill]"
+    new "Meet [jill]"
+
+    # game/variables/replays.rpy:851
+    old "Meet [amber]"
+    new "Meet [amber]"
+
+    # game/variables/replays.rpy:851
+    old "Meet [adam]"
+    new "Meet [adam]"
+
+    # game/variables/replays.rpy:851
+    old "Get acquintances with a martial artist."
+    new "Get acquintances with a martial artist."
+
+    # game/variables/replays.rpy:851
+    old "Mopped the Floor with [adam]"
+    new "Mopped the Floor with [adam]"
+
+    # game/variables/replays.rpy:851
+    old "Win the spar with [adam]."
+    new "Win the spar with [adam]."
+
+    # game/variables/replays.rpy:851
+    old "Spar with [adam] - Lost"
+    new "Spar with [adam] - Lost"
+
+    # game/variables/replays.rpy:851
+    old "Lose the spar with [adam]."
+    new "Lose the spar with [adam]."
+
+    # game/variables/replays.rpy:851
+    old "Spar with [maric] - Won"
+    new "Spar with [maric] - Won"
+
+    # game/variables/replays.rpy:851
+    old "Win the spar with [maric]."
+    new "Win the spar with [maric]."
+
+    # game/variables/replays.rpy:851
+    old "Spar with [maric] - Lost"
+    new "Spar with [maric] - Lost"
+
+    # game/variables/replays.rpy:851
+    old "Lose the spar with [maric]."
+    new "Lose the spar with [maric]."
+

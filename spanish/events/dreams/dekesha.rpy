@@ -688,3 +688,11 @@ translate spanish d_Dekesha_by_Darrdorack_2_sex_aef18e13:
 
     # dekesha "What the fuck do you think you're doing, asshole?!"
     dekesha "What the fuck do you think you're doing, asshole?!"
+# TODO: Translation updated at 2024-10-18 07:38
+
+translate spanish strings:
+
+    # game/events/dreams/dekesha.rpy:48
+    old "Leave the bar"
+    new "Leave the bar"
+

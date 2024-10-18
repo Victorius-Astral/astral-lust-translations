@@ -790,3 +790,11 @@ translate chinese strings:
     old "Lying"
     new "Lying"
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+translate chinese strings:
+
+    # game/characters/kiara/speak.rpy:29
+    old "Do you know any psychiatrist {gold}(Story){/gold}"
+    new "Do you know any psychiatrist {gold}(Story){/gold}"
+

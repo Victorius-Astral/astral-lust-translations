@@ -27,5 +27,12 @@ translate spanish python:
 translate chinese python:
     restoreFonts()
 
+    fonts["itim"] = fonts["brygada"]
+
 translate polish python:
     restoreFonts()
+
+    fonts["philosopher"] = fonts["brygada"]
+    fonts["barcodeText"] = fonts["brygada"]
+    fonts["noto_serif_sc"] = fonts["brygada"]
+    fonts["fredericka"] = fonts["brygada"]

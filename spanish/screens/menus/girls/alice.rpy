@@ -116,3 +116,11 @@ translate spanish strings:
     # game/screens/menus/girls/alice.rpy:46
     old "• Rubbing: "
     new "• Frotar: "
+# TODO: Translation updated at 2024-10-18 07:38
+
+translate spanish strings:
+
+    # game/screens/menus/girls/alice.rpy:23
+    old "Nicknames: "
+    new "Nicknames: "
+

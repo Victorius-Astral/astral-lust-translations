@@ -83,3 +83,11 @@ translate spanish strings:
     # game/mods/Sample Mod/sample_mod.rpy:129
     old "Disabled"
     new "Dsactivado"
+# TODO: Translation updated at 2024-10-18 07:38
+
+translate spanish strings:
+
+    # game/mods/Sample Mod/sample_mod.rpy:11
+    old "Slice"
+    new "Slice"
+

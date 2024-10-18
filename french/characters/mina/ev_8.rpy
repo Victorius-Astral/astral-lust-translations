@@ -713,3 +713,17 @@ translate french strings:
     # game/characters/mina/ev_8.rpy:41
     old "I told her I did it with Alice. She wasn't angry, though."
     new "Je lui ai dit que je l'avais fait avec Alice. Cependant, elle n'était pas en colère."
+# TODO: Translation updated at 2024-10-18 07:37
+
+# game/characters/mina/ev_8.rpy:63
+translate french mina_8_menu1_9eb8552f:
+
+    # mina "I finally kissed Alice!"
+    mina "I finally kissed Alice!"
+
+# game/characters/mina/ev_8.rpy:64
+translate french mina_8_menu1_5c21254e:
+
+    # me "You did what?"
+    me "You did what?"
+

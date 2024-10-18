@@ -535,3 +535,11 @@ translate spanish strings:
     # game/characters/lexi/ev_9.rpy:64
     old "He definitely was a monster"
     new "Definitivamente era un monstruo"
+# TODO: Translation updated at 2024-10-18 07:38
+
+# game/characters/lexi/ev_9.rpy:51
+translate spanish lexi_9_0cd40d7f:
+
+    # lexi "Dark.. I felt pure terror when looking at him, his eyes were.. They were cold.. "
+    lexi "Dark.. I felt pure terror when looking at him, his eyes were.. They were cold.. "
+

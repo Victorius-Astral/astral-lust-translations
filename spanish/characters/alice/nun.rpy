@@ -1150,3 +1150,11 @@ translate spanish strings:
     # game/characters/alice/nun.rpy:364
     old "I prefer what's in between"
     new "Prefiero lo que está en el medio"
+# TODO: Translation updated at 2024-10-18 07:38
+
+# game/characters/alice/nun.rpy:459
+translate spanish alice_nun_footjob2_d4c720a0:
+
+    # me "Thanks. You're the best."
+    me "Thanks. You're the best."
+

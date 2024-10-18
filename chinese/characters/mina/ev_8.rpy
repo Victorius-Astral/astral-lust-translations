@@ -710,3 +710,17 @@ translate chinese strings:
     old "Promise"
     new "Promise"
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+# game/characters/mina/ev_8.rpy:63
+translate chinese mina_8_menu1_9eb8552f:
+
+    # mina "I finally kissed Alice!"
+    mina "I finally kissed Alice!"
+
+# game/characters/mina/ev_8.rpy:64
+translate chinese mina_8_menu1_5c21254e:
+
+    # me "You did what?"
+    me "You did what?"
+

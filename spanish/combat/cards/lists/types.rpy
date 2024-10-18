@@ -17,3 +17,15 @@ translate spanish strings:
     # game/combat/cards/lists/types.rpy:3
     old "Power"
     new "Poder"
+# TODO: Translation updated at 2024-10-18 07:38
+
+translate spanish strings:
+
+    # game/combat/cards/lists/types.rpy:3
+    old "Martial Art"
+    new "Martial Art"
+
+    # game/combat/cards/lists/types.rpy:3
+    old "Summoning"
+    new "Summoning"
+

@@ -282,3 +282,103 @@ translate french strings:
     old "Each attack inflicts {}x {}, and {}x {}."
     new "Chaque attaque inflige {}x {}, et {}x {}."
 
+# TODO: Translation updated at 2024-10-18 07:37
+
+translate french strings:
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Sanity Rending"
+    new "Sanity Rending"
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Each unblocked attack decreases target's sanity by X."
+    new "Each unblocked attack decreases target's sanity by X."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "At the start of your turn, gain Block equal to {{ef}}Inner Energy{{/ef}}, consume {:.0%} {{ef}}Inner Energy{{/ef}} each turn. Replaces other stances."
+    new "At the start of your turn, gain Block equal to {{ef}}Inner Energy{{/ef}}, consume {:.0%} {{ef}}Inner Energy{{/ef}} each turn. Replaces other stances."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Your attacks inflict enemies with random debuffs. Consumes 1 {ef}Inner Energy{/ef} each turn to sustain itself. Replaces other stances."
+    new "Your attacks inflict enemies with random debuffs. Consumes 1 {ef}Inner Energy{/ef} each turn to sustain itself. Replaces other stances."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "At the start of your turn, increase your {{ef}}Inner Energy{{/ef}} by {:.0%}. Replaces other stances."
+    new "At the start of your turn, increase your {{ef}}Inner Energy{{/ef}} by {:.0%}. Replaces other stances."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "When adding {block}Block{/block}, add 3 more. Replaces other stances."
+    new "When adding {block}Block{/block}, add 3 more. Replaces other stances."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Attacks deal 2 more damage. Replaces other stances."
+    new "Attacks deal 2 more damage. Replaces other stances."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Attacks deal 1 more damage. When adding {block}Block{/block}, add 1 more. Replaces other stances."
+    new "Attacks deal 1 more damage. When adding {block}Block{/block}, add 1 more. Replaces other stances."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Split"
+    new "Split"
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Will split into two entities upon true death."
+    new "Will split into two entities upon true death."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Inner Energy"
+    new "Inner Energy"
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Martial Art cards that deal damage, deal x more. Martial Art cards that add {block}Block{/block}, add x more. Decreases by 1 each time it's used."
+    new "Martial Art cards that deal damage, deal x more. Martial Art cards that add {block}Block{/block}, add x more. Decreases by 1 each time it's used."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Attack enemy for 35% damage taken, unavoidable. Attacker will be stunned for 1 turn. Consume 1 stack per use."
+    new "Attack enemy for 35% damage taken, unavoidable. Attacker will be stunned for 1 turn. Consume 1 stack per use."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Each turn deals {} damage and decreases {{trust}}Regeneration{{/trust}} by {}. Lasts {}x turns."
+    new "Each turn deals {} damage and decreases {{trust}}Regeneration{{/trust}} by {}. Lasts {}x turns."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Each turn deals {}x damage. +{:.0%} damage if target has Bleeding. Decreases by {} every turn. Negates {{trust}}Regeneration{{/trust}}."
+    new "Each turn deals {}x damage. +{:.0%} damage if target has Bleeding. Decreases by {} every turn. Negates {{trust}}Regeneration{{/trust}}."
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Tired"
+    new "Tired"
+
+    # game/combat/cards/lists/effects.rpy:17
+    old "Spirituality decreased by 1."
+    new "Spirituality decreased by 1."
+
+    # game/combat/cards/lists/effects.rpy:296
+    old "Rend"
+    new "Rend"
+
+    # game/combat/cards/lists/effects.rpy:296
+    old "Each unblocked attack inflicts target with x{{bad}}{}{{/bad}}. Lasts till next turn."
+    new "Each unblocked attack inflicts target with x{{bad}}{}{{/bad}}. Lasts till next turn."
+
+    # game/combat/cards/lists/effects.rpy:296
+    old "Flammable"
+    new "Flammable"
+
+    # game/combat/cards/lists/effects.rpy:296
+    old "Damage caused by {{ef}}{}{{/ef}} doubled."
+    new "Damage caused by {{ef}}{}{{/ef}} doubled."
+
+    # game/combat/cards/lists/effects.rpy:296
+    old "Innate Regeneration"
+    new "Innate Regeneration"
+
+    # game/combat/cards/lists/effects.rpy:296
+    old "Each turn heal for {}x health. {{bad}}{}{{/bad}} halves regeneration."
+    new "Each turn heal for {}x health. {{bad}}{}{{/bad}} halves regeneration."
+
+    # game/combat/cards/lists/effects.rpy:296
+    old "Each turn heal for {}x health. Decreases by {} after taking unblocked damage."
+    new "Each turn heal for {}x health. Decreases by {} after taking unblocked damage."
+

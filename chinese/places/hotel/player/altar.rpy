@@ -112,3 +112,11 @@ translate chinese strings:
     old "Perform a ritual{#visible}"
     new "Perform a ritual{#visible}"
 
+# TODO: Translation updated at 2024-10-18 07:40
+
+translate chinese strings:
+
+    # game/places/hotel/player/altar.rpy:2
+    old "Seek help for Lexi with Aharon {gold}(Story){/gold}"
+    new "Seek help for Lexi with Aharon {gold}(Story){/gold}"
+

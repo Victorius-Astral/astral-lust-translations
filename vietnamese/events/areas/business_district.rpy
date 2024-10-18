@@ -36,3 +36,11 @@ translate vietnamese strings:
     old "New area unlocked: {}"
     new "New area unlocked: {}"
 
+# TODO: Translation updated at 2024-10-18 07:35
+
+# game/events/areas/business_district.rpy:55
+translate vietnamese explore_business_district_6b1e9b63:
+
+    # "You walk down the foggy road looking for anything of interest."
+    "You walk down the foggy road looking for anything of interest."
+
