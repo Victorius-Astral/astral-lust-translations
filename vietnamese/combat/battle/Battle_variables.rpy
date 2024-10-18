@@ -4,111 +4,111 @@ translate vietnamese strings:
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Unknown"
-    new "không xác định"
+    new "không xác định" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Human"
-    new "loài người"
+    new "loài người" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Dragon"
-    new "Rồng"
+    new "Rồng" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Spider"
-    new "Nhện"
+    new "Nhện" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Crab"
-    new "Cua"
+    new "Cua" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Flamingo"
-    new "Trym hồng hạc"
+    new "Trym hồng hạc" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Manticore"
-    new "Manticore"
+    new "Manticore" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Werewolf"
-    new "Người sói"
+    new "Người sói" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Ghoul"
-    new "Ngạ quỷ"
+    new "Ngạ quỷ" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Abomination"
-    new "Biến dị"
+    new "Biến dị" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Succubus"
-    new "Succubus"
+    new "Succubus" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Orc"
-    new "Orc"
+    new "Orc" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Fox Tribe"
-    new "Tộc Sói"
+    new "Tộc Sói" # TL
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Beast"
-    new "Quái thú"
+    new "Quái thú" # TL
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Monster"
-    new "Quái vật"
+    new "Quái vật" # TL
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Undead"
-    new "Undead"
+    new "Xác sống" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Demon"
-    new "Quỷ"
+    new "Quỷ" # TL
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Jade Hotel"
-    new "Khách sạn Jade"
+    new "Khách sạn Jade" # TL
 
     # game/combat/battle/Battle_variables.rpy:82
     old "The Abyss"
-    new "Vực thẳm"
+    new "Vực thẳm" # TL
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Wanderers"
-    new "Người du mục"
+    new "Người du mục" # TL
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Horde"
-    new "Bầy đàn"
+    new "Bầy đàn" # TL
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Cult of the Black"
-    new "Giáo phái bóng đêm"
+    new "Giáo phái bóng đêm" # TL
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Outlaws"
-    new "Kẻ ngoài vòng pháp luật"
+    new "Kẻ ngoài vòng pháp luật" # TL
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Deserters"
-    new "lính đào ngũ"
+    new "lính đào ngũ" # TL
 # : Translation updated at 2023-08-04 16:46
 
 translate vietnamese strings:
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Carlson Dojo"
-    new "võ đường Carlson"
+    new "võ đường Carlson" # TL
 # TODO: Translation updated at 2024-10-18 07:35
 
 translate vietnamese strings:
 
     # game/combat/battle/Battle_variables.rpy:71
     old "None"
-    new "None"
+    new "Không có" # TL # Victorius - AI
 

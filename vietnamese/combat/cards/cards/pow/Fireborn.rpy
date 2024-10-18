@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/pow/Fireborn.rpy:6
     old "Fireborn"
-    new "Hỏa Hồn"
+    new "Hỏa Hồn" # TL

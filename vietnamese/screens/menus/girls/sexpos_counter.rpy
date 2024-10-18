@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/sexpos_counter.rpy:9
     old "\nExperience"
-    new "\nKinh nghiệm"
+    new "\nKinh nghiệm" # TL

@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/abi/Sacrifice.rpy:6
     old "Sacrifice"
-    new "Hiến Tế"
+    new "Hiến Tế" # TL

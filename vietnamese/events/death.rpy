@@ -10,19 +10,19 @@ translate vietnamese death_2_3522c826:
 translate vietnamese death_2_f16959ca:
 
     # th "I'll never get used to this.."
-    th "Mình sẽ không bao giờ quen với điều này..."
+    th "Mình sẽ không bao giờ quen với điều này..." # TL
 
 # game/events/death.rpy:52
 translate vietnamese death_2_6c20ad7b:
 
     # th "Death.. the end of a life story."
-    th "Cái chết... kết thúc của một câu chuyện cuộc đời."
+    th "Cái chết... kết thúc của một câu chuyện cuộc đời." # TL
 
 # game/events/death.rpy:53
 translate vietnamese death_2_a5d97ab8:
 
     # th "Well for me it's more like a new chapter."
-    th "Đối với mình, nó giống như một chương mới hơn."
+    th "Đối với mình, nó giống như một chương mới hơn." # TL
 
 # game/events/death.rpy:57
 translate vietnamese death_2_15f7e11d:
@@ -34,19 +34,19 @@ translate vietnamese death_2_15f7e11d:
 translate vietnamese death_2_9bdae326:
 
     # th "Is it I or is it He.."
-    th "Là tôi hay là anh ấy..."
+    th "Là tôi hay là anh ấy..." # TL
 
 # game/events/death.rpy:64
 translate vietnamese death_2_281345e5:
 
     # th "It's been ten times if I count correctly.."
-    th "Đã mười lần rồi nếu mình đếm đúng..."
+    th "Đã mười lần rồi nếu mình đếm đúng..." # TL
 
 # game/events/death.rpy:65
 translate vietnamese death_2_97ac1ef1:
 
     # th "Life and death are indeed just like a story. Before The End I would never think like that.. Well, that's some character progression haha."
-    th "Sự sống và cái chết quả thực chỉ như một câu chuyện. Trước khi kết thúc, mình sẽ không bao giờ nghĩ như vậy... Chà, đó cũng chỉ là một số diễn tiến của nhân vật thôi haha."
+    th "Sự sống và cái chết quả thực chỉ như một câu chuyện. Trước khi kết thúc, mình sẽ không bao giờ nghĩ như vậy... Chà, đó cũng chỉ là một số diễn tiến của nhân vật thôi haha." # TL
 
 # game/events/death.rpy:69
 translate vietnamese death_2_3522c826_1:
@@ -58,25 +58,25 @@ translate vietnamese death_2_3522c826_1:
 translate vietnamese death_2_04c5e3ac:
 
     # th "I wonder if I'm still myself or someone else entirely.."
-    th "Mình tự hỏi liệu mình có còn là chính mình hay là một ai khác hoàn toàn..."
+    th "Mình tự hỏi liệu mình có còn là chính mình hay là một ai khác hoàn toàn..." # TL
 
 # game/events/death.rpy:76
 translate vietnamese death_2_7af7c337:
 
     # th "Ahh.. I'm becoming numb to it.."
-    th "Ahh... Mình đang trở nên tê liệt với nó..."
+    th "Ahh... Mình đang trở nên tê liệt với nó..." # TL
 
 # game/events/death.rpy:77
 translate vietnamese death_2_f71d89ea:
 
     # th "Death is indeed the end of one story and beginning of another."
-    th "Cái chết thực sự là kết thúc của một câu chuyện và bắt đầu của một câu chuyện khác."
+    th "Cái chết thực sự là kết thúc của một câu chuyện và bắt đầu của một câu chuyện khác." # TL
 
 # game/events/death.rpy:81
 translate vietnamese death_2_4be85466:
 
     # me "Who is the protagonist of this story? Is it I or is it you Author?"
-    me "Nhân vật chính của câu chuyện này là ai? Là mình? Hay là thằng tác giả?"
+    me "Nhân vật chính của câu chuyện này là ai? Là mình? Hay là thằng tác giả?" # TL
 
 # game/events/death.rpy:82
 translate vietnamese death_2_3820771a:
@@ -88,22 +88,22 @@ translate vietnamese death_2_3820771a:
 translate vietnamese death_2_71b0464e:
 
     # me "Don't reply if you don't want to.."
-    me "Đừng trả lời nếu bạn không muốn..."
+    me "Đừng trả lời nếu bạn không muốn..." # TL
 
 # game/events/death.rpy:92
 translate vietnamese death_2_d27a766d:
 
     # "You feel as Author influences you, making you a bit more like Him."
-    "Bạn cảm thấy như Tác giả ảnh hưởng đến bạn, khiến bạn giống Ngài hơn một chút."
+    "Bạn cảm thấy như Tác giả ảnh hưởng đến bạn, khiến bạn giống Ngài hơn một chút." # TL
 
 # game/events/death.rpy:96
 translate vietnamese death_2_b8f501e3:
 
     # "You get up from your bed after a while."
-    "Bạn đứng dậy khỏi giường sau một lúc."
+    "Bạn đứng dậy khỏi giường sau một lúc." # TL
 
 translate vietnamese strings:
 
     # game/events/death.rpy:31
     old "You died"
-    new "Bạn đã chết"
+    new "Bạn đã chết" # TL

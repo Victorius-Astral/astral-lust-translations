@@ -4,7 +4,7 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/cat.rpy:18
     old "{gold}[cat] (Cat){/gold}"
-    new "{gold}[cat] (Mèo){/gold}"
+    new "{gold}[cat] (Mèo){/gold}" # TL
 
     # game/screens/menus/girls/cat.rpy:21
     old "{gold}[cat]{/gold}"
@@ -12,4 +12,4 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/cat.rpy:30
     old "• Pats: "
-    new "• Vuốt ve: "
+    new "• Vuốt ve: " # TL

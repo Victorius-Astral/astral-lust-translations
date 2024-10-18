@@ -4,61 +4,61 @@
 translate vietnamese catch_SuccubusA_76b4d1c2:
 
     # succA "You aren't going to kill me?"
-    succA "Anh không định giết tôi sao?"
+    succA "Anh không định giết tôi sao?" # TL
 
 # game/characters/succubi/a/catch.rpy:8
 translate vietnamese catch_SuccubusA_6e50d3ef:
 
     # me "No."
-    me "Không."
+    me "Không." # TL
 
 # game/characters/succubi/a/catch.rpy:9
 translate vietnamese catch_SuccubusA_cbf52c57:
 
     # succA "Why?"
-    succA "Tại sao?"
+    succA "Tại sao?" # TL
 
 # game/characters/succubi/a/catch.rpy:10
 translate vietnamese catch_SuccubusA_053bbcf5:
 
     # me "I want you."
-    me "Ta muốn ngươi."
+    me "Ta muốn ngươi." # TL
 
 # game/characters/succubi/a/catch.rpy:11
 translate vietnamese catch_SuccubusA_bad8c747:
 
     # th "There is something about her that makes me want to posses her."
-    th "Có điều gì đó ở cô ta khiến mình muốn sở hữu cô ta."
+    th "Có điều gì đó ở cô ta khiến mình muốn sở hữu cô ta." # TL
 
 # game/characters/succubi/a/catch.rpy:13
 translate vietnamese catch_SuccubusA_8f49a133:
 
     # succA "Understood, [succA_master]."
-    succA "Đã rõ thưa [succA_master]."
+    succA "Đã rõ thưa [succA_master]." # TL
 
 # game/characters/succubi/a/catch.rpy:14
 translate vietnamese catch_SuccubusA_2632e92c:
 
     # me "Wait, that's all?"
-    me "Đợi đã, vậy thôi á?"
+    me "Đợi đã, vậy thôi á?" # TL
 
 # game/characters/succubi/a/catch.rpy:15
 translate vietnamese catch_SuccubusA_f532f69a:
 
     # succA "What else do you want, [succA_master]?"
-    succA "Ngài có muốn gì khác không [succA_master]?"
+    succA "Ngài có muốn gì khác không [succA_master]?" # TL
 
 # game/characters/succubi/a/catch.rpy:16
 translate vietnamese catch_SuccubusA_3906f78c:
 
     # me "Aren't you going to resist?"
-    me "Cô không phản kháng lại sao?"
+    me "Cô không phản kháng lại sao?" # TL
 
 # game/characters/succubi/a/catch.rpy:17
 translate vietnamese catch_SuccubusA_b7dd744e:
 
     # succA "You've defeated me. By right, I belong to you now."
-    succA "Anh đã đánh bại em. Nên bây giờ em thuộc về anh."
+    succA "Anh đã đánh bại em. Nên bây giờ em thuộc về anh." # TL
 
 # game/characters/succubi/a/catch.rpy:18
 translate vietnamese catch_SuccubusA_3820771a:
@@ -70,43 +70,43 @@ translate vietnamese catch_SuccubusA_3820771a:
 translate vietnamese catch_SuccubusA_5b5f8de5:
 
     # succA "There is one thing, [succA_master]..."
-    succA "Có một thứ nữa đấy [succA_master]..."
+    succA "Có một thứ nữa đấy [succA_master]..." # TL
 
 # game/characters/succubi/a/catch.rpy:20
 translate vietnamese catch_SuccubusA_377d2a79:
 
     # me "Umm... what is it?"
-    me "Umm... nó là gì?"
+    me "Umm... nó là gì?" # TL
 
 # game/characters/succubi/a/catch.rpy:22
 translate vietnamese catch_SuccubusA_7626af2c:
 
     # succA "Can you kiss me? It's how you declare ownership of my kind."
-    succA "Ngài có thể hôn em chứ? Đó là cách ngài tuyên bố quyền sở hữu của loài của em."
+    succA "Ngài có thể hôn em chứ? Đó là cách ngài tuyên bố quyền sở hữu của loài của em." # TL
 
 # game/characters/succubi/a/catch.rpy:23
 translate vietnamese catch_SuccubusA_35057afe:
 
     # me "Sure..."
-    me "Chắc chắn rồi..."
+    me "Chắc chắn rồi..." # TL
 
 # game/characters/succubi/a/catch.rpy:25
 translate vietnamese catch_SuccubusA_8b5c3d85:
 
     # succA "Ahnm~"
-    succA "Ahnm~"
+    succA "Ahnm~" # TL # Victorius - AI
 
 # game/characters/succubi/a/catch.rpy:26
 translate vietnamese catch_SuccubusA_d38e90e1:
 
     # "Her moans show that she enjoys your kiss very much."
-    "Tiếng rên rỉ của cô ấy cho thấy cô ấy rất thích nụ hôn của bạn."
+    "Tiếng rên rỉ của cô ấy cho thấy cô ấy rất thích nụ hôn của bạn." # TL
 
 # game/characters/succubi/a/catch.rpy:28
 translate vietnamese catch_SuccubusA_4424f452:
 
     # succA "Now I'm yours, [succA_master]."
-    succA "Bây em em là của [succA_master]."
+    succA "Bây em em là của [succA_master]." # TL
 
 # game/characters/succubi/a/catch.rpy:29
 translate vietnamese catch_SuccubusA_3820771a_1:
@@ -118,46 +118,46 @@ translate vietnamese catch_SuccubusA_3820771a_1:
 translate vietnamese catch_SuccubusA_c8fbdbc7:
 
     # me "You'll be staying imprisoned."
-    me "Ngươi sẽ bị giam cầm."
+    me "Ngươi sẽ bị giam cầm." # TL
 
 # game/characters/succubi/a/catch.rpy:31
 translate vietnamese catch_SuccubusA_e9c19380:
 
     # succA "Yes, [succA_master]."
-    succA "Vâng thưa [succA_master]."
+    succA "Vâng thưa [succA_master]." # TL
 
 # game/characters/succubi/a/catch.rpy:32
 translate vietnamese catch_SuccubusA_d16737b1:
 
     # me "Follow me. Right, what's your name?"
-    me "Theo ta. Phải rồi, tên của cô là gì?"
+    me "Theo ta. Phải rồi, tên của cô là gì?" # TL
 
 # game/characters/succubi/a/catch.rpy:33
 translate vietnamese catch_SuccubusA_24d26564:
 
     # succA "I don't have a name, do you want to choose one for me?"
-    succA "Em không có tên, ngài có muốn chọn cho em một cái tên không?"
+    succA "Em không có tên, ngài có muốn chọn cho em một cái tên không?" # TL
 
 # game/characters/succubi/a/catch.rpy:40
 translate vietnamese catch_SuccubusA_5b937818:
 
     # succA "As you wish [succA_master]. This one is [succA] from now on."
-    succA "Như ngài muốn [succA_master]. Em là [succA] kể từ bây giờ."
+    succA "Như ngài muốn [succA_master]. Em là [succA] kể từ bây giờ." # TL
 
 translate vietnamese strings:
 
     # game/characters/succubi/a/catch.rpy:21
     old "Succubi"
-    new "Succubi"
+    new "Succubi" # TL # Victorius - AI
 
     # game/characters/succubi/a/catch.rpy:21
     old "I've caught a succubus. She says I can become her master with a kiss."
-    new "Tôi đã bắt được một succubus. Cô ta nói tôi có thể trở thành chủ nhân của cô ta bằng một nụ hôn."
+    new "Tôi đã bắt được một succubus. Cô ta nói tôi có thể trở thành chủ nhân của cô ta bằng một nụ hôn." # TL
 
     # game/characters/succubi/a/catch.rpy:37
     old "How should she be called?"
-    new "Cô ấy nên được gọi như thế nào?"
+    new "Cô ấy nên được gọi như thế nào?" # TL
 
     # game/characters/succubi/a/catch.rpy:44
     old "You've caught a succubus! She is going to live in the dungeon from now on."
-    new "Bạn đã bắt được một succubus! Cô ấy sẽ sống trong Ngục tối kể từ bây giờ."
+    new "Bạn đã bắt được một succubus! Cô ấy sẽ sống trong Ngục tối kể từ bây giờ." # TL

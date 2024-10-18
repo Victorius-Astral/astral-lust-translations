@@ -4,11 +4,11 @@ translate vietnamese strings:
 
     # game/screens/utility/langauge.rpy:1
     old "Spanish"
-    new "Spanish"
+    new "Tiếng Tây Ban Nha" # TL # Victorius - AI
 
     # game/screens/utility/langauge.rpy:1
     old "Vietnamese"
-    new "Vietnamese"
+    new "Tiếng Việt" # TL # Victorius - AI
 
 # : Translation updated at 2022-08-13 15:58
 
@@ -16,4 +16,4 @@ translate vietnamese strings:
 
     # game/screens/utility/langauge.rpy:30
     old "Language"
-    new "Ngôn ngữ"
+    new "Ngôn ngữ" # TL

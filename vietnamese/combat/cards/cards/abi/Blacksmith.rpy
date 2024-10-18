@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/abi/Blacksmith.rpy:6
     old "Blacksmith"
-    new "Thợ Rèn"
+    new "Thợ Rèn" # TL

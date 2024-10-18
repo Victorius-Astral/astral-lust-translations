@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/screens/menu/vault.rpy:113
     old "Stored:"
-    new "Lưu trữ:"
+    new "Lưu trữ:" # TL

@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/off/Fireworks.rpy:12
     old "Fireworks"
-    new "Pháo Hoa"
+    new "Pháo Hoa" # TL

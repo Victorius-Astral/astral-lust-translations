@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/abi/Seduce.rpy:6
     old "Seduce"
-    new "Dụ Dỗ"
+    new "Dụ Dỗ" # TL

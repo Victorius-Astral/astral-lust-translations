@@ -4,274 +4,274 @@
 translate vietnamese alice_4_131c6a3a:
 
     # "A soft, wet feeling slowly wakes you up from your dreams."
-    "Một cảm giác mềm mại, ẩm ướt từ từ đánh thức bạn khỏi giấc mơ."
+    "Một cảm giác mềm mại, ẩm ướt từ từ đánh thức bạn khỏi giấc mơ." # TL
 
 # game/characters/alice/ev_4.rpy:10
 translate vietnamese alice_4_3a514469:
 
     # th "What is going on? It feels so nice.."
-    th "Cái gì đang xảy ra vậy? Phê quá..."
+    th "Cái gì đang xảy ra vậy? Phê quá..." # TL
 
 # game/characters/alice/ev_4.rpy:22
 translate vietnamese alice_4_f9e0fb50:
 
     # u_alice "Mmffmm."
-    u_alice "Mmffmm."
+    u_alice "Mmffmm." # TL # Victorius - AI
 
 # game/characters/alice/ev_4.rpy:23
 translate vietnamese alice_4_40694db1:
 
     # "You slowly open your eyes."
-    "Bạn từ từ mở mắt."
+    "Bạn từ từ mở mắt." # TL
 
 # game/characters/alice/ev_4.rpy:25
 translate vietnamese alice_4_9c39106f:
 
     # th "Shit it's [alice]!"
-    th "Đó là [alice]!"
+    th "Đó là [alice]!" # TL
 
 # game/characters/alice/ev_4.rpy:27
 translate vietnamese alice_4_c00df9d9:
 
     # alice "Nnnnmm~"
-    alice "Nnnnmm~"
+    alice "Nnnnmm~" # TL # Victorius - AI
 
 # game/characters/alice/ev_4.rpy:28
 translate vietnamese alice_4_8cf97514:
 
     # th "She's blowing me!"
-    th "Em ấy đang thổi kèn cho mình!"
+    th "Em ấy đang thổi kèn cho mình!" # TL
 
 # game/characters/alice/ev_4.rpy:29
 translate vietnamese alice_4_4098db4f:
 
     # "As [alice] continues to envelop your manhood in her soft, tender mouth you feel indescribable pleasure."
-    "Khi [alice] tiếp tục bao bọc cái cần tăng dân số của bạn trong khuôn miệng mềm mại, dịu dàng của cô ấy, bạn cảm thấy sung sướng không thể tả."
+    "Khi [alice] tiếp tục bao bọc cái cần tăng dân số của bạn trong khuôn miệng mềm mại, dịu dàng của cô ấy, bạn cảm thấy sung sướng không thể tả." # TL
 
 # game/characters/alice/ev_4.rpy:30
 translate vietnamese alice_4_530cb419:
 
     # alice "Mmmmnn~"
-    alice "Mmmmnn~"
+    alice "Mmmmnn~" # TL # Victorius - AI
 
 # game/characters/alice/ev_4.rpy:31
 translate vietnamese alice_4_c5a013b4:
 
     # th "Fuck! So good!"
-    th "Mẹ nó! Tuyệt quá!"
+    th "Mẹ nó! Tuyệt quá!" # TL
 
 # game/characters/alice/ev_4.rpy:34
 translate vietnamese alice_4_fea5e951:
 
     # me "Hey [alice].."
-    me "Hế lu [alice]."
+    me "Hế lu [alice]." # TL
 
 # game/characters/alice/ev_4.rpy:37
 translate vietnamese alice_4_7eb2787f:
 
     # alice "Hey~"
-    alice "Chào anh~"
+    alice "Chào anh~" # TL
 
 # game/characters/alice/ev_4.rpy:39
 translate vietnamese alice_4_7a7cdb4b:
 
     # "With that she returns to your manhood."
-    "Sau đó, cô ấy trở lại với công việc chính."
+    "Sau đó, cô ấy trở lại với công việc chính." # TL
 
 # game/characters/alice/ev_4.rpy:40
 translate vietnamese alice_4_89025964:
 
     # me "That's all you're gonna say? Not that I'm complaining."
-    me "Đó là tất cả những gì em nói hả? Cũng Không hẳn là anh phàn nàn về việc đó đâu."
+    me "Đó là tất cả những gì em nói hả? Cũng Không hẳn là anh phàn nàn về việc đó đâu." # TL
 
 # game/characters/alice/ev_4.rpy:41
 translate vietnamese alice_4_17a7cdad:
 
     # alice "Mmffmm~"
-    alice "Mmffmm~"
+    alice "Mmffmm~" # TL # Victorius - AI
 
 # game/characters/alice/ev_4.rpy:42
 translate vietnamese alice_4_eee7258e:
 
     # "She ignores your question and continues to pleasure you with even greater eagerness."
-    "Cô ấy phớt lờ câu hỏi của bạn và tiếp tục làm hài lòng bạn với một sự háo hức hơn cả."
+    "Cô ấy phớt lờ câu hỏi của bạn và tiếp tục làm hài lòng bạn với một sự háo hức hơn cả." # TL
 
 # game/characters/alice/ev_4.rpy:46
 translate vietnamese alice_4_790ac4ed:
 
     # th "Guess I'll just lay back and enjoy it."
-    th "Đoán là mình sẽ nằm xuống và tận hưởng nó vậy ."
+    th "Đoán là mình sẽ nằm xuống và tận hưởng nó vậy ." # TL
 
 # game/characters/alice/ev_4.rpy:47
 translate vietnamese alice_4_17a7cdad_1:
 
     # alice "Mmffmm~"
-    alice "Mmffmm~"
+    alice "Mmffmm~" # TL # Victorius - AI
 
 # game/characters/alice/ev_4.rpy:48
 translate vietnamese alice_4_55fb9cd8:
 
     # th "Fuck it's like I'm in heaven!"
-    th "ohhh, giống như mình đang ở trên thiên đường vậy!"
+    th "ohhh, giống như mình đang ở trên thiên đường vậy!" # TL
 
 # game/characters/alice/ev_4.rpy:54
 translate vietnamese alice_4_1_5683bc63:
 
     # "[alice] blows you even more passionately bringing you to the edge!"
-    "[alice] thổi kèn bạn một cách say mê hơn nữa đưa bạn đến giới hạn!"
+    "[alice] thổi kèn bạn một cách say mê hơn nữa đưa bạn đến giới hạn!" # TL
 
 # game/characters/alice/ev_4.rpy:55
 translate vietnamese alice_4_1_c00df9d9:
 
     # alice "Nnnnmm~"
-    alice "Nnnnmm~"
+    alice "Nnnnmm~" # TL # Victorius - AI
 
 # game/characters/alice/ev_4.rpy:56
 translate vietnamese alice_4_1_fd29b35c:
 
     # me "Nnngh.."
-    me "Nnngh..."
+    me "Nnngh..." # TL
 
 # game/characters/alice/ev_4.rpy:57
 translate vietnamese alice_4_1_77cf2f99:
 
     # "You feel so good, you can barely think straight."
-    "Bạn cảm thấy quá phê, bạn hầu như không thể nghĩ nổi gì nữa."
+    "Bạn cảm thấy quá phê, bạn hầu như không thể nghĩ nổi gì nữa." # TL
 
 # game/characters/alice/ev_4.rpy:58
 translate vietnamese alice_4_1_aeddd870:
 
     # me "Ohhh.."
-    me "Ohh..."
+    me "Ohh..." # TL
 
 # game/characters/alice/ev_4.rpy:59
 translate vietnamese alice_4_1_9c8d6101:
 
     # alice "Mmmm~"
-    alice "Mmmm~"
+    alice "Mmmm~" # TL # Victorius - AI
 
 # game/characters/alice/ev_4.rpy:61
 translate vietnamese alice_4_1_c9e889cf:
 
     # me "Fuck! I'm cumming!"
-    me "Anh, sắp ra rồi!"
+    me "Anh, sắp ra rồi!" # TL
 
 # game/characters/alice/ev_4.rpy:62
 translate vietnamese alice_4_1_c69dd89e:
 
     # "Hearing that you're about to cum makes [alice] take you even deeper!"
-    "Nghe thấy bạn sắp ra [alice] còn đưa vào sâu hơn nữa!"
+    "Nghe thấy bạn sắp ra [alice] còn đưa vào sâu hơn nữa!" # TL
 
 # game/characters/alice/ev_4.rpy:64
 translate vietnamese alice_4_1_2f3d23c6:
 
     # "You are cumming!"
-    "Bạn đang ra!"
+    "Bạn đang ra!" # TL
 
 # game/characters/alice/ev_4.rpy:66
 translate vietnamese alice_4_1_d2df6683:
 
     # alice "Mmhhm!"
-    alice "Mmhhm!"
+    alice "Mmhhm!" # TL # Victorius - AI
 
 # game/characters/alice/ev_4.rpy:67
 translate vietnamese alice_4_1_366b9cf9:
 
     # "It seems your load was too much for [alice] as she clearly gags."
-    "Có vẻ như sữa chua của bạn quá nhiều cho [alice] khiến cô ấy nghẹn đôi chút."
+    "Có vẻ như sữa chua của bạn quá nhiều cho [alice] khiến cô ấy nghẹn đôi chút." # TL
 
 # game/characters/alice/ev_4.rpy:69
 translate vietnamese alice_4_1_43c29e43:
 
     # alice "Mmm!"
-    alice "Mmm!"
+    alice "Mmm!" # TL # Victorius - AI
 
 # game/characters/alice/ev_4.rpy:72
 translate vietnamese alice_4_1_0b60a0c3:
 
     # alice "Hehe~"
-    alice "Hehe~"
+    alice "Hehe~" # TL # Victorius - AI
 
 # game/characters/alice/ev_4.rpy:73
 translate vietnamese alice_4_1_9a2d86a0:
 
     # "[alice] shows you her empty mouth and looks at you expectantly as if waiting for you to praise her."
-    "[alice] cho bạn thấy cái miệng trống rỗng của cô ấy và nhìn bạn đầy mong đợi như thể đang chờ bạn khen ngợi cô ấy."
+    "[alice] cho bạn thấy cái miệng trống rỗng của cô ấy và nhìn bạn đầy mong đợi như thể đang chờ bạn khen ngợi cô ấy." # TL
 
 # game/characters/alice/ev_4.rpy:79
 translate vietnamese alice_4_1_42d922c5:
 
     # th "She actually swallowed it all!"
-    th "em ấy thực sự đã nuốt tất cả!"
+    th "em ấy thực sự đã nuốt tất cả!" # TL
 
 # game/characters/alice/ev_4.rpy:84
 translate vietnamese alice_4_1_c805dcde:
 
     # alice "Mmm."
-    alice "Mmm."
+    alice "Mmm." # TL # Victorius - AI
 
 # game/characters/alice/ev_4.rpy:85
 translate vietnamese alice_4_1_ca8804c7:
 
     # me "To what do I owe the pleasure?"
-    me "Anh nợ em cái gì cho cuộc vui này đây?"
+    me "Anh nợ em cái gì cho cuộc vui này đây?" # TL
 
 # game/characters/alice/ev_4.rpy:87
 translate vietnamese alice_4_1_b1c46a00:
 
     # alice "I told you to wait for it~"
-    alice "Em đã nói với anh là hãy đợi đi~"
+    alice "Em đã nói với anh là hãy đợi đi~" # TL
 
 # game/characters/alice/ev_4.rpy:88
 translate vietnamese alice_4_1_b14c49f7:
 
     # "Giving you one final look, she leaves your room."
-    "Nhìn bạn một cái nữa, và rời khỏi phòng của bạn."
+    "Nhìn bạn một cái nữa, và rời khỏi phòng của bạn." # TL
 
 # game/characters/alice/ev_4.rpy:90
 translate vietnamese alice_4_1_409ae55d:
 
     # th "She can play with me like that more.. like everyday."
-    th "Em ấy có thể chơi đùa với mình như vậy nhiều hơn... mỗi ngày cũng được."
+    th "Em ấy có thể chơi đùa với mình như vậy nhiều hơn... mỗi ngày cũng được." # TL
 
 # game/characters/alice/ev_4.rpy:97
 translate vietnamese alice_4_1_b94a6a0f:
 
     # alice "Hmph!"
-    alice "Hmph!"
+    alice "Hmph!" # TL # Victorius - AI
 
 # game/characters/alice/ev_4.rpy:98
 translate vietnamese alice_4_1_9dcfa7da:
 
     # "At your words [alice] pouts cutely, she is unhappy though."
-    "[alice] bĩu môi dễ thương, mặc dù cô ấy không vui."
+    "[alice] bĩu môi dễ thương, mặc dù cô ấy không vui." # TL
 
 # game/characters/alice/ev_4.rpy:99
 translate vietnamese alice_4_1_b14c49f7_1:
 
     # "Giving you one final look, she leaves your room."
-    "Nhìn bạn một lần cuối, cô ấy rời khỏi phòng của bạn."
+    "Nhìn bạn một lần cuối, cô ấy rời khỏi phòng của bạn." # TL
 
 # game/characters/alice/ev_4.rpy:101
 translate vietnamese alice_4_1_c0b9b273:
 
     # th "She can play with me like that more.. like every day."
-    th "Em ấy có thể chơi đùa với mình như vậy nhiều hơn... mỗi ngày."
+    th "Em ấy có thể chơi đùa với mình như vậy nhiều hơn... mỗi ngày." # TL
 
 translate vietnamese strings:
 
     # game/characters/alice/ev_4.rpy:32
     old "Say hi"
-    new "Nói câu chào"
+    new "Nói câu chào" # TL
 
     # game/characters/alice/ev_4.rpy:32
     old "Pretend to sleep"
-    new "Giả vờ ngủ"
+    new "Giả vờ ngủ" # TL
 
     # game/characters/alice/ev_4.rpy:80
     old "Good girl, that was amazing!"
-    new "tuyệt lắm, amazing gút chóp em!"
+    new "tuyệt lắm, amazing gút chóp em!" # TL
 
     # game/characters/alice/ev_4.rpy:80
     old "Could be better"
-    new "Đã có thể tốt hơn thế này"
+    new "Đã có thể tốt hơn thế này" # TL

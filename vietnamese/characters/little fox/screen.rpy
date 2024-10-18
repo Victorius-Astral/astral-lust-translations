@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/characters/little fox/screen.rpy:9
     old "Hunger:"
-    new "Cơn đói:"
+    new "Cơn đói:" # TL

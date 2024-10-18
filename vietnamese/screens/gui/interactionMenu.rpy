@@ -4,11 +4,11 @@ translate vietnamese strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "2F Corridor"
-    new "Hành lang tầng 2"
+    new "Hành lang tầng 2" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "TV"
-    new "TV"
+    new "TV" # TL # Victorius - AI
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[alice]"
@@ -16,11 +16,11 @@ translate vietnamese strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "1F Corridor"
-    new "Hành lang tầng 1"
+    new "Hành lang tầng 1" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Prisoners"
-    new "Tù nhân"
+    new "Tù nhân" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[grace]"
@@ -32,67 +32,67 @@ translate vietnamese strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Your Room"
-    new "Phòng mình"
+    new "Phòng mình" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[lexi]'s & [mina]'s Room"
-    new "[lexi]'s & [mina]'s Room"
+    new "Phòng của [lexi] & [mina]" # TL # Victorius - AI
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[alice] Room"
-    new "Phòng [alice]"
+    new "Phòng [alice]" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[grace] Room"
-    new "Phòng [grace]"
+    new "Phòng [grace]" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "3rd Floor"
-    new "Tầng 3"
+    new "Tầng 3" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Cupboard"
-    new "Ngăn kéo"
+    new "Ngăn kéo" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Other side"
-    new "mặt khác"
+    new "mặt khác" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "2nd Floor"
-    new "Tầng 2"
+    new "Tầng 2" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[savenia]'s Room"
-    new "Phòng [savenia]"
+    new "Phòng [savenia]" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "F2 Corridor"
-    new "Hành lang tầng 2"
+    new "Hành lang tầng 2" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Barbell Bench"
-    new "Đẩy tạ"
+    new "Đẩy tạ" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Stationary Bike"
-    new "Xe đạp"
+    new "Xe đạp" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Obstacle"
-    new "Nhảy"
+    new "Nhảy" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "F1 Corridor"
-    new "Hành lang tầng 1"
+    new "Hành lang tầng 1" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Fridge"
-    new "Tủ lạnh"
+    new "Tủ lạnh" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[lexi] & [grace]"
-    new "[lexi] & [grace]"
+    new "[lexi] & [grace]" # TL # Victorius - AI
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[cat]"
@@ -100,23 +100,23 @@ translate vietnamese strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Documents"
-    new "Tại liệu"
+    new "Tại liệu" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Laptop"
-    new "Laptop"
+    new "Laptop" # TL # Victorius - AI
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Books (Left)"
-    new "Sách (trái)"
+    new "Sách (trái)" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Books (Right)"
-    new "Sách (phải)"
+    new "Sách (phải)" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Door"
-    new "Cửa"
+    new "Cửa" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[kiara]"
@@ -128,19 +128,19 @@ translate vietnamese strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Outside Door"
-    new "Cửa ngoài"
+    new "Cửa ngoài" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Expansions"
-    new "Mở rộng"
+    new "Mở rộng" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Counter"
-    new "Quầy"
+    new "Quầy" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Bike"
-    new "Xe"
+    new "Xe" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[rachel]"
@@ -152,47 +152,47 @@ translate vietnamese strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "PC"
-    new "PC"
+    new "PC" # TL # Victorius - AI
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Mirror"
-    new "Gương"
+    new "Gương" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Rubik's Cube"
-    new "Rubik"
+    new "Rubik" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Books"
-    new "Sách"
+    new "Sách" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Altar"
-    new "Bàn thờ"
+    new "Bàn thờ" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Chest"
-    new "Rương"
+    new "Rương" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Gray Cupboard"
-    new "Ngăn kéo xám"
+    new "Ngăn kéo xám" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "White Cupboard"
-    new "Ngăn kéo trắng"
+    new "Ngăn kéo trắng" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Wardrobe"
-    new "Tủ đồ"
+    new "Tủ đồ" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Test Notifications"
-    new "Kiểm tra thông báo"
+    new "Kiểm tra thông báo" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "3F Corridor"
-    new "Hành lang tầng 3"
+    new "Hành lang tầng 3" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[savenia]"
@@ -200,42 +200,42 @@ translate vietnamese strings:
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Gun Workshop"
-    new "Bàn chế súng"
+    new "Bàn chế súng" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Brothel"
-    new "Nhà thổ"
+    new "Nhà thổ" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "Main Plaza"
-    new "Trung Tâm"
+    new "Trung Tâm" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[lola] Room"
-    new "Phòng [lola]"
+    new "Phòng [lola]" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[lil_fox]"
-    new "Tiểu Cáo"
+    new "Tiểu Cáo" # TL
 
     # game/screens/gui/interactionMenu.rpy:75
     old "[rhainda] & [lil_fox]"
-    new "[rhainda] & Tiểu Cáo"
+    new "[rhainda] & Tiểu Cáo" # TL
 
     # game/screens/gui/interactionMenu.rpy:369
     old "Interact:"
-    new "Tương tác:"
+    new "Tương tác:" # TL
 
     # game/screens/gui/interactionMenu.rpy:389
     old "*Toggle with '{b}I{/b}' key"
-    new "*BẬT TẮT BẰNG PHÍM '{b} i {/b}'"
+    new "*BẬT TẮT BẰNG PHÍM '{b} i {/b}'" # TL
 # : Translation updated at 2022-11-13 15:18
 
 translate vietnamese strings:
 
     # game/screens/gui/interactionMenu.rpy:76
     old "[alice] & [grace]"
-    new "[alice] & [grace]"
+    new "[alice] & [grace]" # TL # Victorius - AI
 
 # TODO: Translation updated at 2024-10-18 07:35
 
@@ -243,7 +243,7 @@ translate vietnamese strings:
 
     # game/screens/gui/interactionMenu.rpy:76
     old "Men"
-    new "Men"
+    new "Đàn ông" # TL # Victorius - AI
 
     # game/screens/gui/interactionMenu.rpy:76
     old "[carlson]"

@@ -4,5 +4,5 @@ translate vietnamese strings:
 
     # game/variables/characters/prologue.rpy:1
     old "Radio"
-    new "Radio"
+    new "Radio" # TL # Victorius - AI
 

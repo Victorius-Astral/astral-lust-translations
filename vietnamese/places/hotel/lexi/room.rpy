@@ -4,4 +4,4 @@
 translate vietnamese room_hotel_lexi_d86e264b:
 
     # "It's late so you leave."
-    "Đã muộn nên bạn rời đi."
+    "Đã muộn nên bạn rời đi." # TL

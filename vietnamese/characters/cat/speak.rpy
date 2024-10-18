@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/characters/cat/speak.rpy:2
     old "Pat"
-    new "Nựng"
+    new "Nựng" # TL

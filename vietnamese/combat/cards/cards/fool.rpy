@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/fool.rpy:6
     old "Trickster"
-    new "Kẻ lừa đảo"
+    new "Kẻ lừa đảo" # TL

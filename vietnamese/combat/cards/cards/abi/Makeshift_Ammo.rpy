@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/abi/Makeshift_Ammo.rpy:6
     old "Makeshift Ammo"
-    new "Viên Đạn Tạm Thời"
+    new "Viên Đạn Tạm Thời" # TL

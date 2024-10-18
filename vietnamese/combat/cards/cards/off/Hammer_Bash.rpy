@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/off/Hammer_Bash.rpy:6
     old "Hammer Bash"
-    new "Đập Búa"
+    new "Đập Búa" # TL

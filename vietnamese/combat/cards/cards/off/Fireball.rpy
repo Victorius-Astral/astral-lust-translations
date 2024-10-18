@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/off/Fireball.rpy:6
     old "Fireball"
-    new "Hỏa Cầu"
+    new "Hỏa Cầu" # TL

@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/variables/lists/supporters.rpy:68
     old "Supported by: "
-    new "Được hỗ trợ bởi: "
+    new "Được hỗ trợ bởi: " # TL

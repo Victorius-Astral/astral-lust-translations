@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/enemies/cult/Cultist_Saber.rpy:7
     old "Cultist"
-    new "Kẻ cuồng đạo"
+    new "Kẻ cuồng đạo" # TL

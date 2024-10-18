@@ -4,4 +4,4 @@
 translate vietnamese explore_return_ab156556:
 
     # "You go down the foggy road and find your way back."
-    "Bạn tiến tới con đường đầy sương mù và tìm đường trở về."
+    "Bạn tiến tới con đường đầy sương mù và tìm đường trở về." # TL

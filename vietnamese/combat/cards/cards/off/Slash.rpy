@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/off/Slash.rpy:6
     old "Slash"
-    new "Chém"
+    new "Chém" # TL

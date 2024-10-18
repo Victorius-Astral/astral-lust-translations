@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/abi/Madness.rpy:6
     old "Madness"
-    new "Điên Loạn"
+    new "Điên Loạn" # TL

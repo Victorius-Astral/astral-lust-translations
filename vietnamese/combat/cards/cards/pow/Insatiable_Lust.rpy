@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/pow/Insatiable_Lust.rpy:6
     old "Insatiable Lust"
-    new "Ham Muốn Vô Độ"
+    new "Ham Muốn Vô Độ" # TL

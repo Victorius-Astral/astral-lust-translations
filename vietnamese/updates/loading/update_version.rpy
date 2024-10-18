@@ -4,15 +4,15 @@ translate vietnamese strings:
 
     # game/updates/loading/update_version.rpy:6
     old "Save version: "
-    new "Lưu phiên bản: "
+    new "Lưu phiên bản: " # TL
 
     # game/updates/loading/update_version.rpy:88
     old "Apply patch: "
-    new "Sử dụng bản vá: "
+    new "Sử dụng bản vá: " # TL
 # : Translation updated at 2022-02-26 15:07
 
 translate vietnamese strings:
 
     # game/updates/loading/update_version.rpy:75
     old "Save update finished."
-    new "Đã lưu cập nhật xong."
+    new "Đã lưu cập nhật xong." # TL

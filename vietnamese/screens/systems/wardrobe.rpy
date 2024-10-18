@@ -4,5 +4,5 @@ translate vietnamese strings:
 
     # game/screens/systems/wardrobe.rpy:52
     old "{gold}--- Outfits ---{/gold}\n"
-    new "{gold}--- Outfits ---{/gold}\n"
+    new "{gold}--- Trang phục ---{/gold}\n" # TL # Victorius - AI
 

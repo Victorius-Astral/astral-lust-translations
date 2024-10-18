@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/enemies/abyss/Devourer_Giant.rpy:7
     old "Devourer Giant"
-    new "Người khổng lồ abyss"
+    new "Người khổng lồ abyss" # TL

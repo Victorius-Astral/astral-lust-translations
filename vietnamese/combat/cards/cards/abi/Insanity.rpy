@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/abi/Insanity.rpy:6
     old "Insanity"
-    new "Chứng điên loạn"
+    new "Chứng điên loạn" # TL

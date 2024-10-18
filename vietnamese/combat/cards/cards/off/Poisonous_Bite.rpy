@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/off/Poisonous_Bite.rpy:6
     old "Poisonous Bite"
-    new "Nanh Độc"
+    new "Nanh Độc" # TL

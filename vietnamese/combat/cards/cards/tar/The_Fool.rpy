@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_Fool.rpy:6
     old "The Fool"
-    new "Chàng Khờ"
+    new "Chàng Khờ" # TL

@@ -4,49 +4,49 @@
 translate vietnamese room_player_altar_1c156d3b:
 
     # "You look at the altar from all sides and compliment its craftsmanship."
-    "Bạn nhìn bàn thờ từ mọi phía và khen ngợi sự khéo léo của nó."
+    "Bạn nhìn bàn thờ từ mọi phía và khen ngợi sự khéo léo của nó." # TL
 
 # game/places/hotel/player/altar.rpy:18
 translate vietnamese room_player_altar_6c96b5fe:
 
     # "It's simply exquisite. You can't point to any flaw in it."
-    "Nó chỉ đơn giản là tinh tế. Bạn không thể chỉ ra bất kỳ sai sót nào trong đó."
+    "Nó chỉ đơn giản là tinh tế. Bạn không thể chỉ ra bất kỳ sai sót nào trong đó." # TL
 
 # game/places/hotel/player/altar.rpy:19
 translate vietnamese room_player_altar_04b01469:
 
     # "As you continue looking at it, you feel the need to fall to your knees and pray."
-    "Khi bạn tiếp tục nhìn vào nó, bạn cảm thấy cần phải quỳ xuống và cầu nguyện."
+    "Khi bạn tiếp tục nhìn vào nó, bạn cảm thấy cần phải quỳ xuống và cầu nguyện." # TL
 
 # game/places/hotel/player/altar.rpy:21
 translate vietnamese room_player_altar_ff051e5d:
 
     # th "I wonder to whom it is dedicated."
-    th "Không biết nó được làm cho ai nữa."
+    th "Không biết nó được làm cho ai nữa." # TL
 
 # game/places/hotel/player/altar.rpy:25
 translate vietnamese room_player_altar_38b3b4bf:
 
     # "You carefully check the knife. It's exquisite."
-    "Bạn kiểm tra cẩn thận con dao. Nó thật tinh tế."
+    "Bạn kiểm tra cẩn thận con dao. Nó thật tinh tế." # TL
 
 # game/places/hotel/player/altar.rpy:26
 translate vietnamese room_player_altar_3d8530f1:
 
     # th "I wonder what its purpose is."
-    th "Mình tự hỏi mục đích của nó là gì."
+    th "Mình tự hỏi mục đích của nó là gì." # TL
 
 # game/places/hotel/player/altar.rpy:28
 translate vietnamese room_player_altar_ec767004:
 
     # "For some weird reason you feel lighter."
-    "Vì một lý do kỳ lạ nào đó mà bạn cảm thấy nhẹ nhàng hơn."
+    "Vì một lý do kỳ lạ nào đó mà bạn cảm thấy nhẹ nhàng hơn." # TL
 
 # game/places/hotel/player/altar.rpy:43
 translate vietnamese room_player_altar_kiara_da7c91f7:
 
     # me "What did I want to say?"
-    me "Mình muốn nói gì nhỉ?"
+    me "Mình muốn nói gì nhỉ?" # TL
 
 # game/places/hotel/player/altar.rpy:44
 translate vietnamese room_player_altar_kiara_3820771a:
@@ -58,63 +58,63 @@ translate vietnamese room_player_altar_kiara_3820771a:
 translate vietnamese room_player_altar_kiara_1228f336:
 
     # me "Weird..."
-    me "Kỳ lạ..."
+    me "Kỳ lạ..." # TL
 
 # game/places/hotel/player/altar.rpy:56
 translate vietnamese room_player_altar_kiara_97991f8f:
 
     # "There is no response."
-    "Không có phản hồi."
+    "Không có phản hồi." # TL
 
 # game/places/hotel/player/altar.rpy:57
 translate vietnamese room_player_altar_kiara_fac33955:
 
     # me "Perhaps I should wait more. I hope she's alright."
-    me "Có lẽ mình nên đợi thêm. Tôi hy vọng cô ấy ổn."
+    me "Có lẽ mình nên đợi thêm. Tôi hy vọng cô ấy ổn." # TL
 
 # game/places/hotel/player/altar.rpy:61
 translate vietnamese room_player_altar_kiara_02089ca2:
 
     # me "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar."
-    me "Kẻ truy cầu tri thức, Con mắt của những bí mật, Asthar sử ký giả."
+    me "Kẻ truy cầu tri thức, Con mắt của những bí mật, Asthar sử ký giả." # TL
 
 # game/places/hotel/player/altar.rpy:62
 translate vietnamese room_player_altar_kiara_365931bb:
 
     # me "Open the gates to your kingdom."
-    me "Mở ra cánh cổng đến với vương quốc của ngươi."
+    me "Mở ra cánh cổng đến với vương quốc của ngươi." # TL
 
 # game/places/hotel/player/altar.rpy:64
 translate vietnamese room_player_altar_kiara_97991f8f_1:
 
     # "There is no response."
-    "Không có phản hồi."
+    "Không có phản hồi." # TL
 
 translate vietnamese strings:
 
     # game/places/hotel/player/altar.rpy:2
     old "Pray"
-    new "Cầu nguyện"
+    new "Cầu nguyện" # TL
 
     # game/places/hotel/player/altar.rpy:2
     old "Check altar"
-    new "Kiểm tra bàn thờ"
+    new "Kiểm tra bàn thờ" # TL
 
     # game/places/hotel/player/altar.rpy:2
     old "Check the knife"
-    new "Kiểm tra dao"
+    new "Kiểm tra dao" # TL
 # : Translation updated at 2022-09-15 16:10
 
 translate vietnamese strings:
 
     # game/places/hotel/player/altar.rpy:2
     old "Perform a ritual{#visible}"
-    new "Thực hiện nghi lễ{#visible}"
+    new "Thực hiện nghi lễ{#visible}" # TL
 # TODO: Translation updated at 2024-10-18 07:35
 
 translate vietnamese strings:
 
     # game/places/hotel/player/altar.rpy:2
     old "Seek help for Lexi with Aharon {gold}(Story){/gold}"
-    new "Seek help for Lexi with Aharon {gold}(Story){/gold}"
+    new "Tìm kiếm sự giúp đỡ cho Lexi với Aharon {gold}(Câu chuyện){/gold}" # TL # Victorius - AI
 

@@ -4,17 +4,17 @@ translate vietnamese strings:
 
     # game/mods/modes/debug/cards.rpy:16
     old "Add:"
-    new "Add:"
+    new "Thêm:" # TL # Victorius - AI
 
     # game/mods/modes/debug/cards.rpy:17
     old "Tarot Deck"
-    new "Tarot Deck"
+    new "Bộ bài Tarot" # TL # Victorius - AI
 
     # game/mods/modes/debug/cards.rpy:18
     old "Cultist Loot"
-    new "Cultist Loot"
+    new "Chiến lợi phẩm của giáo phái" # TL # Victorius - AI
 
     # game/mods/modes/debug/cards.rpy:27
     old "Cards added."
-    new "Cards added."
+    new "Thẻ đã được thêm." # TL # Victorius - AI
 

@@ -4,8 +4,8 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/summoning.rpy:35
     old "Hatchling"
-    new "Ấp"
+    new "Ấp" # TL
 
     # game/combat/cards/cards/summoning.rpy:71
     old "Flock of Birds"
-    new "Đàn chim"
+    new "Đàn chim" # TL

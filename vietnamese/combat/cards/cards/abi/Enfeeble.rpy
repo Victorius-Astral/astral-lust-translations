@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/abi/Enfeeble.rpy:6
     old "Enfeeble"
-    new "Yếu Đuối"
+    new "Yếu Đuối" # TL

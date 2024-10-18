@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/characters/rachel/screen.rpy:8
     old "Favor:"
-    new "ân huệ:"
+    new "ân huệ:" # TL

@@ -4,79 +4,79 @@ translate vietnamese strings:
 
     # game/screens/settings/video.rpy:11
     old "Display"
-    new "hiển thị"
+    new "hiển thị" # TL
 
     # game/screens/settings/video.rpy:12
     old "Window"
-    new "Cửa sổ"
+    new "Cửa sổ" # TL
 
     # game/screens/settings/video.rpy:13
     old "Fullscreen"
-    new "Toàn màn hình"
+    new "Toàn màn hình" # TL
 
     # game/screens/settings/video.rpy:18
     old "Power Save Mode"
-    new "Chế độ tiết kiệm năng lượng"
+    new "Chế độ tiết kiệm năng lượng" # TL
 
     # game/screens/settings/video.rpy:28
     old "Frame Skip"
-    new "Bỏ qua khung"
+    new "Bỏ qua khung" # TL
 
     # game/screens/settings/video.rpy:38
     old "Animations"
-    new "Ảnh động"
+    new "Ảnh động" # TL
 
     # game/screens/settings/video.rpy:40
     old "Animated Arenas"
-    new "Các khu vực động"
+    new "Các khu vực động" # TL
 
     # game/screens/settings/video.rpy:41
     old "Animated People"
-    new "Người động"
+    new "Người động" # TL
 
     # game/screens/settings/video.rpy:42
     old "Animated Wallpapers"
-    new "Hình nền động"
+    new "Hình nền động" # TL
 
     # game/screens/settings/video.rpy:43
     old "Animated Scenes"
-    new "Cảnh động"
+    new "Cảnh động" # TL
 
     # game/screens/settings/video.rpy:47
     old "Memory"
-    new "Bộ nhớ"
+    new "Bộ nhớ" # TL
 
     # game/screens/settings/video.rpy:48
     old "Cache Surfaces"
-    new "Bề mặt Bộ nhớ đệm"
+    new "Bề mặt Bộ nhớ đệm" # TL
 
     # game/screens/settings/video.rpy:62
     old "Memory Usage"
-    new "Sử dụng bộ nhớ"
+    new "Sử dụng bộ nhớ" # TL
 
     # game/screens/settings/video.rpy:66
     old "Image cache size: [persistent.cache_size]MB RAM.\nDefault 1000, consider increasing to 2000 if using 4K version."
-    new "Kích thước hình ảnh bộ nhớ bộ nhớ đệm: [persistent.cache_size]MB RAM.\nMặc định 1000, xem xét tăng lên 2000 nếu sử dụng phiên bản 4K."
+    new "Kích thước hình ảnh bộ nhớ bộ nhớ đệm: [persistent.cache_size]MB RAM.\nMặc định 1000, xem xét tăng lên 2000 nếu sử dụng phiên bản 4K." # TL
 
     # game/screens/settings/video.rpy:67
     old "Can store {images} full screen images."
-    new "Có thể lưu trữ {images} hình ảnh toàn màn hình."
+    new "Có thể lưu trữ {images} hình ảnh toàn màn hình." # TL
 
     # game/screens/settings/video.rpy:70
     old "Image cache size: [persistent.cache_size]MB RAM, [persistent.cache_size]MB GRAM.\nDefault 1000, consider increasing to 2000 if using 4K version."
-    new "Kích thước Bộ nhớ đệm hình ảnh: [persistent.cache_size]MB RAM, [persistent.cache_size]MB GRAM.\nMặc định 1000, xem xét tăng lên 2000 nếu sử dụng phiên bản 4K."
+    new "Kích thước Bộ nhớ đệm hình ảnh: [persistent.cache_size]MB RAM, [persistent.cache_size]MB GRAM.\nMặc định 1000, xem xét tăng lên 2000 nếu sử dụng phiên bản 4K." # TL
 
     # game/screens/settings/video.rpy:73
     old "\nIf set too large, this can waste memory. In most cases waste of memory is {b}NOT{/b} a problem\nIf set too small, images can be repeatedly loaded, hurting performance."
-    new "\nNếu đặt quá nhiều, điều này có thể lãng phí bộ nhớ. Trong hầu hết các trường hợp, lãng phí bộ nhớ {b}KHÔNG {/b} phải là vấn đề\nnếu Nếu đặt quá nhỏ, hình ảnh có thể được tải lại nhiều lần, làm ảnh hưởng đến hiệu suất."
+    new "\nNếu đặt quá nhiều, điều này có thể lãng phí bộ nhớ. Trong hầu hết các trường hợp, lãng phí bộ nhớ {b}KHÔNG {/b} phải là vấn đề\nnếu Nếu đặt quá nhỏ, hình ảnh có thể được tải lại nhiều lần, làm ảnh hưởng đến hiệu suất." # TL
 
     # game/screens/settings/video.rpy:74
     old "\nNeeds restart."
-    new "\nCần khởi động lại."
+    new "\nCần khởi động lại." # TL
 # : Translation updated at 2022-05-11 01:55
 
 translate vietnamese strings:
 
     # game/screens/settings/video.rpy:56
     old "Main Menu Images"
-    new "Hình ảnh menu chính"
+    new "Hình ảnh menu chính" # TL

@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/abi/Despair.rpy:6
     old "Despair"
-    new "Tuyệt vọng"
+    new "Tuyệt vọng" # TL

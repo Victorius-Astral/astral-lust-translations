@@ -4,20 +4,20 @@ translate vietnamese strings:
 
     # game/combat/battle/Battle.rpy:259
     old "Skipped battle"
-    new "Bỏ qua trận chiến"
+    new "Bỏ qua trận chiến" # TL
 
     # game/combat/battle/Battle.rpy:912
     old "To attempt escape you need {} spirit."
-    new "Để cố gắng trốn thoát, bạn cần {} linh hồn."
+    new "Để cố gắng trốn thoát, bạn cần {} linh hồn." # TL
 
     # game/combat/battle/Battle.rpy:917
     old "You can't escape from this combat."
-    new "Bạn không thể thoát khỏi cuộc chiến này."
+    new "Bạn không thể thoát khỏi cuộc chiến này." # TL
 
     # game/combat/battle/Battle.rpy:943
     old "Escaped successfully."
-    new "Đã thoát thành công."
+    new "Đã thoát thành công." # TL
 
     # game/combat/battle/Battle.rpy:957
     old "Failed to escape."
-    new "Trốn thoát thất bại."
+    new "Trốn thoát thất bại." # TL

@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/abi/Veil_of_Shadows.rpy:6
     old "Veil of Shadows"
-    new "Màn Che Bóng Đêm"
+    new "Màn Che Bóng Đêm" # TL

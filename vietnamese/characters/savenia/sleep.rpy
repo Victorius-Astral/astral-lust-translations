@@ -4,4 +4,4 @@
 translate vietnamese sleep_savenia_c6f14d4e:
 
     # th "Yeah, I'm not tired of living yet."
-    th "Mình vẫn chưa chán sống đâu."
+    th "Mình vẫn chưa chán sống đâu." # TL

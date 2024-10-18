@@ -4,5 +4,5 @@ translate vietnamese strings:
 
     # game/screens/gui/quick_toolbar.rpy:87
     old "Map"
-    new "Map"
+    new "Bản đồ" # TL # Victorius - AI
 

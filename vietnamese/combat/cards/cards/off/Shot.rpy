@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/off/Shot.rpy:6
     old "Shot"
-    new "Bắn"
+    new "Bắn" # TL

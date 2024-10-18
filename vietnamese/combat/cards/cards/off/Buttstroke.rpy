@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/off/Buttstroke.rpy:6
     old "Buttstroke"
-    new "Báng Súng"
+    new "Báng Súng" # TL

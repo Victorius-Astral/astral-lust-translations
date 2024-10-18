@@ -4,4 +4,4 @@
 translate vietnamese dream_end_a85086ed:
 
     # "The images dim as the dream fades."
-    "Những hình ảnh trở nên mờ ảo khi giấc mơ phai dần đi."
+    "Những hình ảnh trở nên mờ ảo khi giấc mơ phai dần đi." # TL

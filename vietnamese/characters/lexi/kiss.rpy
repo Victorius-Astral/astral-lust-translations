@@ -4,211 +4,211 @@
 translate vietnamese lexi_kiss_3ad64407:
 
     # lexi "Close your eyes."
-    lexi "Nhắm mắt lại đi."
+    lexi "Nhắm mắt lại đi." # TL
 
 # game/characters/lexi/kiss.rpy:11
 translate vietnamese lexi_kiss_ef5ffb43:
 
     # me "Why don't you do it instead?"
-    me "Tại sao em không làm điều đó đi?"
+    me "Tại sao em không làm điều đó đi?" # TL
 
 # game/characters/lexi/kiss.rpy:16
 translate vietnamese lexi_kiss_20c6742c:
 
     # lexi "Why me?"
-    lexi "Tại sao lại là em?"
+    lexi "Tại sao lại là em?" # TL
 
 # game/characters/lexi/kiss.rpy:17
 translate vietnamese lexi_kiss_bc4ac6f4:
 
     # me "Isn't it usually like this? Girl closes her eyes and guy kisses her."
-    me "Không phải nó thường như thế này sao? Cô gái nhắm mắt và chàng trai hôn cô ấy."
+    me "Không phải nó thường như thế này sao? Cô gái nhắm mắt và chàng trai hôn cô ấy." # TL
 
 # game/characters/lexi/kiss.rpy:22
 translate vietnamese lexi_kiss_90428b98:
 
     # lexi "That's sexist."
-    lexi "Đó là phân biệt giới tính."
+    lexi "Đó là phân biệt giới tính." # TL
 
 # game/characters/lexi/kiss.rpy:23
 translate vietnamese lexi_kiss_61c6c230:
 
     # me "That's a tradition."
-    me "Truyền thống đó em."
+    me "Truyền thống đó em." # TL
 
 # game/characters/lexi/kiss.rpy:24
 translate vietnamese lexi_kiss_2a348193:
 
     # lexi "You should watch more movies, besides, world is over, traditions are also over."
-    lexi "Anh nên xem nhiều phim hơn, ngoài ra, thế giới đã kết thúc rồi, truyền thống cũng vậy."
+    lexi "Anh nên xem nhiều phim hơn, ngoài ra, thế giới đã kết thúc rồi, truyền thống cũng vậy." # TL
 
 # game/characters/lexi/kiss.rpy:25
 translate vietnamese lexi_kiss_18641f49:
 
     # lexi "Trust me, and close your eyes. I'll make you realize how nice it is to listen to a girl's wish."
-    lexi "Hãy tin em, và nhắm mắt lại. Em sẽ làm cho anh nhận ra rằng thật tuyệt biết bao khi lắng nghe một cô gái."
+    lexi "Hãy tin em, và nhắm mắt lại. Em sẽ làm cho anh nhận ra rằng thật tuyệt biết bao khi lắng nghe một cô gái." # TL
 
 # game/characters/lexi/kiss.rpy:26
 translate vietnamese lexi_kiss_95e17dc9:
 
     # me "You mean you will make my life a hell if I don't?"
-    me "Ý em là em sẽ biến cuộc sống của anh thành địa ngục nếu anh không làm vậy?"
+    me "Ý em là em sẽ biến cuộc sống của anh thành địa ngục nếu anh không làm vậy?" # TL
 
 # game/characters/lexi/kiss.rpy:31
 translate vietnamese lexi_kiss_5c9372ba:
 
     # lexi "Nope, but I will make it into a heaven if you do."
-    lexi "Không, nhưng em sẽ biến nó thành thiên đường nếu anh làm thế."
+    lexi "Không, nhưng em sẽ biến nó thành thiên đường nếu anh làm thế." # TL
 
 # game/characters/lexi/kiss.rpy:32
 translate vietnamese lexi_kiss_9d96124c:
 
     # me "You are truly confident in your kisses."
-    me "Em có vẻ tự tin vào nụ hôn của mình đấy."
+    me "Em có vẻ tự tin vào nụ hôn của mình đấy." # TL
 
 # game/characters/lexi/kiss.rpy:37
 translate vietnamese lexi_kiss_f8b50cde:
 
     # lexi "I might not be experienced, but I'm sure you will be happy."
-    lexi "Em có thể không có kinh nghiệm, nhưng em chắc chắn anh sẽ hạnh phúc."
+    lexi "Em có thể không có kinh nghiệm, nhưng em chắc chắn anh sẽ hạnh phúc." # TL
 
 # game/characters/lexi/kiss.rpy:38
 translate vietnamese lexi_kiss_83087c50:
 
     # me "Why?"
-    me "Tại sao?"
+    me "Tại sao?" # TL
 
 # game/characters/lexi/kiss.rpy:43
 translate vietnamese lexi_kiss_05d267c4:
 
     # lexi "Because you like me."
-    lexi "Bởi vì anh thích em."
+    lexi "Bởi vì anh thích em." # TL
 
 # game/characters/lexi/kiss.rpy:44
 translate vietnamese lexi_kiss_c0824c05:
 
     # me "Oh? Look at that, what makes you so sure about it?"
-    me "Oh? Nhìn kìa, điều gì khiến em chắc chắn về điều đó như vậy?"
+    me "Oh? Nhìn kìa, điều gì khiến em chắc chắn về điều đó như vậy?" # TL
 
 # game/characters/lexi/kiss.rpy:49
 translate vietnamese lexi_kiss_2a0ba5f0:
 
     # lexi "For what other reason would you ask me to kiss you?"
-    lexi "Vậy Vì lý do gì mà anh yêu cầu em hôn anh?"
+    lexi "Vậy Vì lý do gì mà anh yêu cầu em hôn anh?" # TL
 
 # game/characters/lexi/kiss.rpy:50
 translate vietnamese lexi_kiss_b2ad0b8f:
 
     # me "Fair point."
-    me "Hợp lý đấy."
+    me "Hợp lý đấy." # TL
 
 # game/characters/lexi/kiss.rpy:55
 translate vietnamese lexi_kiss_6c0415f8:
 
     # lexi "So?"
-    lexi "Vậy?"
+    lexi "Vậy?" # TL
 
 # game/characters/lexi/kiss.rpy:62
 translate vietnamese lexi_kiss_d0c62723:
 
     # me "Show me what heaven is like."
-    me "Cho anh thấy thiên đường là như thế nào đi."
+    me "Cho anh thấy thiên đường là như thế nào đi." # TL
 
 # game/characters/lexi/kiss.rpy:63
 translate vietnamese lexi_kiss_eb07716b:
 
     # lexi "Haha, don't be impatient, [me]."
-    lexi "Haha, đừng nóng vội, [me]."
+    lexi "Haha, đừng nóng vội, [me]." # TL
 
 # game/characters/lexi/kiss.rpy:65
 translate vietnamese lexi_kiss_0f07c677:
 
     # me "Maybe I.."
-    me "Có lẽ anh..."
+    me "Có lẽ anh..." # TL
 
 # game/characters/lexi/kiss.rpy:66
 translate vietnamese lexi_kiss_74605eaf:
 
     # lexi "Keep your eyes closed."
-    lexi "Nhắm mắt lại."
+    lexi "Nhắm mắt lại." # TL
 
 # game/characters/lexi/kiss.rpy:67
 translate vietnamese lexi_kiss_ffa90095:
 
     # me "Fine."
-    me "Fine."
+    me "Được rồi." # TL # Victorius - AI
 
 # game/characters/lexi/kiss.rpy:68
 translate vietnamese lexi_kiss_c0ec243f:
 
     # lexi "Let's talk."
-    lexi "Chúng ta hãy nói chuyện đi."
+    lexi "Chúng ta hãy nói chuyện đi." # TL
 
 # game/characters/lexi/kiss.rpy:69
 translate vietnamese lexi_kiss_314086b3:
 
     # me "What?"
-    me "Cái gì?"
+    me "Cái gì?" # TL
 
 # game/characters/lexi/kiss.rpy:70
 translate vietnamese lexi_kiss_1d6675d0:
 
     # lexi "What were you doing today?"
-    lexi "Hôm nay anh đã làm gì nhiều rồi?"
+    lexi "Hôm nay anh đã làm gì nhiều rồi?" # TL
 
 # game/characters/lexi/kiss.rpy:71
 translate vietnamese lexi_kiss_ab43d171:
 
     # me "Now you're playing with me.."
-    me "Giờ em lại chơi đùa với anh..."
+    me "Giờ em lại chơi đùa với anh..." # TL
 
 # game/characters/lexi/kiss.rpy:72
 translate vietnamese lexi_kiss_bd14a3c4:
 
     # lexi "Hehe."
-    lexi "Hehe."
+    lexi "Hehe." # TL # Victorius - AI
 
 # game/characters/lexi/kiss.rpy:73
 translate vietnamese lexi_kiss_9401900d:
 
     # me "You surely have your fun.."
-    me "Em đang tận hưởng thú vui của mình nhỉ..."
+    me "Em đang tận hưởng thú vui của mình nhỉ..." # TL
 
 # game/characters/lexi/kiss.rpy:74
 translate vietnamese lexi_kiss_2193a987:
 
     # lexi "I do."
-    lexi "Em đang đây."
+    lexi "Em đang đây." # TL
 
 # game/characters/lexi/kiss.rpy:75
 translate vietnamese lexi_kiss_4f462946:
 
     # me "Ahh.. I'm too.."
-    me "Ahh... Anh c..."
+    me "Ahh... Anh c..." # TL
 
 # game/characters/lexi/kiss.rpy:76
 translate vietnamese lexi_kiss_1b6dca8e:
 
     # "You didn't manage to finish as [lexi]'s lips cover yours."
-    "Bạn đã không thể nói hết vì môi của [lexi] che hết môi của bạn."
+    "Bạn đã không thể nói hết vì môi của [lexi] che hết môi của bạn." # TL
 
 # game/characters/lexi/kiss.rpy:87
 translate vietnamese lexi_kiss_e43eb9e6:
 
     # lexi "*Smooch*"
-    lexi "*Chụt*"
+    lexi "*Chụt*" # TL
 
 # game/characters/lexi/kiss.rpy:91
 translate vietnamese lexi_kiss_b273d15b:
 
     # me "Ah.."
-    me "Ah..."
+    me "Ah..." # TL
 
 # game/characters/lexi/kiss.rpy:92
 translate vietnamese lexi_kiss_76c8b268:
 
     # lexi "Mmm~"
-    lexi "Mmm~"
+    lexi "Mmm~" # TL # Victorius - AI
 
 # game/characters/lexi/kiss.rpy:95
 translate vietnamese lexi_kiss_d7760fc7:
@@ -220,127 +220,127 @@ translate vietnamese lexi_kiss_d7760fc7:
 translate vietnamese lexi_kiss_93de64ff:
 
     # me "It was worth it."
-    me "Nó cũng đáng đấy."
+    me "Nó cũng đáng đấy." # TL
 
 # game/characters/lexi/kiss.rpy:99
 translate vietnamese lexi_kiss_0236feaf:
 
     # lexi "I know, haha."
-    lexi "Em biết, haha."
+    lexi "Em biết, haha." # TL
 
 # game/characters/lexi/kiss.rpy:102
 translate vietnamese lexi_kiss_b36c223b:
 
     # me "You're really spoiling me."
-    me "Em đang thực sự làm hư anh đấy."
+    me "Em đang thực sự làm hư anh đấy." # TL
 
 # game/characters/lexi/kiss.rpy:103
 translate vietnamese lexi_kiss_8080a1b1:
 
     # lexi "Yeah, I just felt like it."
-    lexi "Yeah, em cảm thấy thích nó."
+    lexi "Yeah, em cảm thấy thích nó." # TL
 
 # game/characters/lexi/kiss.rpy:104
 translate vietnamese lexi_kiss_7736d785:
 
     # me "I'm not complaining."
-    me "Anh không phàn nàn đâu."
+    me "Anh không phàn nàn đâu." # TL
 
 # game/characters/lexi/kiss.rpy:107
 translate vietnamese lexi_kiss_8f42578a:
 
     # "You stay in each other arms for a few minutes."
-    "Bạn hãy ở trong vòng tay nhau trong vài phút."
+    "Bạn hãy ở trong vòng tay nhau trong vài phút." # TL
 
 # game/characters/lexi/kiss.rpy:110
 translate vietnamese lexi_kiss_76c8b268_1:
 
     # lexi "Mmm~"
-    lexi "Mmm~"
+    lexi "Mmm~" # TL # Victorius - AI
 
 # game/characters/lexi/kiss.rpy:113
 translate vietnamese lexi_kiss_cf744273:
 
     # lexi "Haha."
-    lexi "Haha."
+    lexi "Haha." # TL # Victorius - AI
 
 # game/characters/lexi/kiss.rpy:122
 translate vietnamese lexi_kiss_e1db38e3:
 
     # lexi "You lose soooo much..."
-    lexi "Anh mất rất nhiều..."
+    lexi "Anh mất rất nhiều..." # TL
 
 # game/characters/lexi/kiss.rpy:123
 translate vietnamese lexi_kiss_0bb22e51:
 
     # me "Close your eyes, and I'll take you to heavens."
-    me "Nhắm mắt lại đi, và anh sẽ đưa em đến thiên đường."
+    me "Nhắm mắt lại đi, và anh sẽ đưa em đến thiên đường." # TL
 
 # game/characters/lexi/kiss.rpy:128
 translate vietnamese lexi_kiss_9df41fe2:
 
     # lexi "Don't use my own words against me."
-    lexi "Đừng dùng những lời của em để chống lại em."
+    lexi "Đừng dùng những lời của em để chống lại em." # TL
 
 # game/characters/lexi/kiss.rpy:129
 translate vietnamese lexi_kiss_930031f3:
 
     # me "Heh, you asked for it."
-    me "Heh, em đã yêu cầu nó đấy."
+    me "Heh, em đã yêu cầu nó đấy." # TL
 
 # game/characters/lexi/kiss.rpy:134
 translate vietnamese lexi_kiss_842ddc56:
 
     # lexi "You'll come back."
-    lexi "Anh sẽ quay lại thôi."
+    lexi "Anh sẽ quay lại thôi." # TL
 
 # game/characters/lexi/kiss.rpy:135
 translate vietnamese lexi_kiss_86bfc80d:
 
     # me "You wish."
-    me "Mơ đi."
+    me "Mơ đi." # TL
 
 # game/characters/lexi/kiss.rpy:140
 translate vietnamese lexi_kiss_3878cd52:
 
     # lexi "Mom once told me guys think with their dicks. If they like you, they will stay."
-    lexi "Mẹ đã từng nói với em rằng con trai hãy suy nghĩ bằng cặc của họ. Nếu họ thích, họ sẽ ở lại."
+    lexi "Mẹ đã từng nói với em rằng con trai hãy suy nghĩ bằng cặc của họ. Nếu họ thích, họ sẽ ở lại." # TL
 
 # game/characters/lexi/kiss.rpy:141
 translate vietnamese lexi_kiss_5178bffe:
 
     # me "Now that's really sexist."
-    me "Bây giờ đó thực sự là phân biệt giới tính đấy."
+    me "Bây giờ đó thực sự là phân biệt giới tính đấy." # TL
 
 # game/characters/lexi/kiss.rpy:142
 translate vietnamese lexi_kiss_13804454:
 
     # lexi "You are the best example that this is right."
-    lexi "Anh là ví dụ tốt nhất cho thấy điều này là đúng."
+    lexi "Anh là ví dụ tốt nhất cho thấy điều này là đúng." # TL
 
 # game/characters/lexi/kiss.rpy:143
 translate vietnamese lexi_kiss_2bc9ee22:
 
     # me "I'm leaving, though."
-    me "Tôi đi đây."
+    me "Tôi đi đây." # TL
 
 # game/characters/lexi/kiss.rpy:148
 translate vietnamese lexi_kiss_b60903f1:
 
     # lexi "But you'll come back."
-    lexi "Rồi anh sẽ trở lại thôi."
+    lexi "Rồi anh sẽ trở lại thôi." # TL
 
 # game/characters/lexi/kiss.rpy:149
 translate vietnamese lexi_kiss_c019ad7e:
 
     # me "I really don't understand where does your confidence come from."
-    me "Anh thực sự không hiểu sự tự tin của em đến từ đâu."
+    me "Anh thực sự không hiểu sự tự tin của em đến từ đâu." # TL
 
 # game/characters/lexi/kiss.rpy:154
 translate vietnamese lexi_kiss_9a531a63:
 
     # lexi "I just know that, no matter what, when there is something new to do with me, you'll come running."
-    lexi "Em chỉ biết rằng, dù có gì đi nữa, khi có điều gì đó mới để làm với em, anh sẽ chạy đến lập tức."
+    lexi "Em chỉ biết rằng, dù có gì đi nữa, khi có điều gì đó mới để làm với em, anh sẽ chạy đến lập tức." # TL
 
 # game/characters/lexi/kiss.rpy:155
 translate vietnamese lexi_kiss_3820771a:
@@ -352,45 +352,45 @@ translate vietnamese strings:
 
     # game/characters/lexi/kiss.rpy:57
     old "Alright, I'll close my eyes"
-    new "Được rồi, anh sẽ nhắm mắt lại"
+    new "Được rồi, anh sẽ nhắm mắt lại" # TL
 
     # game/characters/lexi/kiss.rpy:57
     old "Nah, I'm a traditionalist"
-    new "Nah, anh là người theo chủ nghĩa truyền thống"
+    new "Nah, anh là người theo chủ nghĩa truyền thống" # TL
 # : Translation updated at 2022-02-06 08:10
 
 # game/characters/lexi/kiss.rpy:24
 translate vietnamese lexi_kiss_2e9132c7:
 
     # lexi "You should watch more movies, besides, the world is over, traditions are also over."
-    lexi "Anh nên xem nhiều phim hơn, ngoài ra, thế giới đã kết thúc rồi, truyền thống cũng vậy."
+    lexi "Anh nên xem nhiều phim hơn, ngoài ra, thế giới đã kết thúc rồi, truyền thống cũng vậy." # TL
 
 # game/characters/lexi/kiss.rpy:31
 translate vietnamese lexi_kiss_3fffbcdf:
 
     # lexi "Nope, but I will make it into a heaven, if you do."
-    lexi "Không, nhưng em sẽ biến nó thành thiên đường nếu anh làm thế."
+    lexi "Không, nhưng em sẽ biến nó thành thiên đường nếu anh làm thế." # TL
 
 # game/characters/lexi/kiss.rpy:71
 translate vietnamese lexi_kiss_6805e8b6:
 
     # me "Now, you're playing with me.."
-    me "Giờ thid em lại chơi đùa với anh..."
+    me "Giờ thid em lại chơi đùa với anh..." # TL
 
 # game/characters/lexi/kiss.rpy:107
 translate vietnamese lexi_kiss_1b9e2c1e:
 
     # "You stayed in each other arms for a few minutes."
-    "Bạn ở trong vòng tay của nhau trong vài phút."
+    "Bạn ở trong vòng tay của nhau trong vài phút." # TL
 
 # game/characters/lexi/kiss.rpy:140
 translate vietnamese lexi_kiss_1806f0f4:
 
     # me "Now, that's really sexist."
-    me "Bây giờ thì, đó là sự phân biệt giới tính đấy"
+    me "Bây giờ thì, đó là sự phân biệt giới tính đấy" # TL
 
 # game/characters/lexi/kiss.rpy:149
 translate vietnamese lexi_kiss_cd9e73df:
 
     # me "I really don't understand, where does your confidence came from."
-    me "Tôi thực sự không hiểu, sự tự tin của bạn đến từ đâu."
+    me "Tôi thực sự không hiểu, sự tự tin của bạn đến từ đâu." # TL

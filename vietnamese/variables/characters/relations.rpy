@@ -4,12 +4,12 @@ translate vietnamese strings:
 
     # game/variables/characters/relations.rpy:1
     old "sister"
-    new "chị"
+    new "chị" # TL
 
     # game/variables/characters/relations.rpy:2
     old "sis"
-    new "em gái"
+    new "em gái" # TL
 
     # game/variables/characters/relations.rpy:5
     old "Master"
-    new "Chủ nhân"
+    new "Chủ nhân" # TL

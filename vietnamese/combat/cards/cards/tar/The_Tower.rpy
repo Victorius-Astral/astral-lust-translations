@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_Tower.rpy:6
     old "The Tower"
-    new "Tòa Tháp"
+    new "Tòa Tháp" # TL

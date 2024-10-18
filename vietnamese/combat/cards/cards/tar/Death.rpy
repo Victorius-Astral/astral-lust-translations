@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/Death.rpy:6
     old "Death"
-    new "Cái Chết"
+    new "Cái Chết" # TL

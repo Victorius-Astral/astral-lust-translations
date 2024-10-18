@@ -4,72 +4,72 @@ translate vietnamese strings:
 
     # game/variables/maps.rpy:3
     old "Bedroom"
-    new "Phòng ngủ"
+    new "Phòng ngủ" # TL
 
     # game/variables/maps.rpy:3
     old "Front Door"
-    new "Cửa trước"
+    new "Cửa trước" # TL
 
     # game/variables/maps.rpy:3
     old "Lobby"
-    new "Sảnh"
+    new "Sảnh" # TL
 
     # game/variables/maps.rpy:3
     old "Library"
-    new "Thư viện"
+    new "Thư viện" # TL
 
     # game/variables/maps.rpy:3
     old "Second Floor"
-    new "Tầng 2"
+    new "Tầng 2" # TL
 
     # game/variables/maps.rpy:3
     old "Alice Room"
-    new "Phòng Alice"
+    new "Phòng Alice" # TL
 
     # game/variables/maps.rpy:3
     old "Grace Room"
-    new "Phòng Grace"
+    new "Phòng Grace" # TL
 
     # game/variables/maps.rpy:3
     old "Lexi & Mina Room"
-    new "Phòng Lexi & Mina "
+    new "Phòng Lexi & Mina " # TL
 
     # game/variables/maps.rpy:3
     old "Third Floor"
-    new "Tầng 3"
+    new "Tầng 3" # TL
 
     # game/variables/maps.rpy:3
     old "Savenia Room"
-    new "Phòng Savenia"
+    new "Phòng Savenia" # TL
 
     # game/variables/maps.rpy:3
     old "Bath"
-    new "Phòng tắm"
+    new "Phòng tắm" # TL
 
     # game/variables/maps.rpy:3
     old "Kitchen"
-    new "Bếp"
+    new "Bếp" # TL
 
     # game/variables/maps.rpy:3
     old "Toilet"
-    new "Nhà vệ sinh"
+    new "Nhà vệ sinh" # TL
 
     # game/variables/maps.rpy:3
     old "First Floor"
-    new "tầng dưới"
+    new "tầng dưới" # TL
 
     # game/variables/maps.rpy:46
     old "Main Square"
-    new "Khu trung tâm"
+    new "Khu trung tâm" # TL
 
     # game/variables/maps.rpy:46
     old "Motel"
-    new "Phòng trọ"
+    new "Phòng trọ" # TL
 
     # game/variables/maps.rpy:46
     old "Lola Room"
-    new "Phòng Lola"
+    new "Phòng Lola" # TL
 
     # game/variables/maps.rpy:46
     old "Hotel"
-    new "Khách sạn"
+    new "Khách sạn" # TL

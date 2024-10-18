@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/variables/classes/Sounds.rpy:14
     old "Audio file doesn't exist! Path: {}"
-    new "Tệp âm thanh không tồn tại! Path: {}"
+    new "Tệp âm thanh không tồn tại! Path: {}" # TL

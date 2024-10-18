@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/off/Sweep.rpy:6
     old "Sweep"
-    new "Vung Rìu"
+    new "Vung Rìu" # TL

@@ -4,12 +4,12 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/offensive.rpy:6
     old "Strong Bite"
-    new "Cắn mạnh"
+    new "Cắn mạnh" # TL
 
     # game/combat/cards/cards/offensive.rpy:6
     old "Vicious Bite"
-    new "Vết cắn hung ác"
+    new "Vết cắn hung ác" # TL
 
     # game/combat/cards/cards/offensive.rpy:6
     old "Beast Bite"
-    new "Cắn như con chó dại"
+    new "Cắn như con chó dại" # TL

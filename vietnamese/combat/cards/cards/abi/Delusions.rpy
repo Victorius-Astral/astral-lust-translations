@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/abi/Delusions.rpy:55
     old "Delusions"
-    new "Ảo Mộng"
+    new "Ảo Mộng" # TL

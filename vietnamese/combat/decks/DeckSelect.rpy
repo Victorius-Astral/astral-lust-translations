@@ -4,19 +4,19 @@ translate vietnamese strings:
 
     # game/combat/decks/DeckSelect.rpy:30
     old "Deck Selection"
-    new "Chọn bộ bài"
+    new "Chọn bộ bài" # TL
 
     # game/combat/decks/DeckSelect.rpy:46
     old "Confirm"
-    new "Xác nhận"
+    new "Xác nhận" # TL
 
     # game/combat/decks/DeckSelect.rpy:65
     old "* Hover outside to see enemies"
-    new "* Di chuột ra ngoài để xem kẻ thù"
+    new "* Di chuột ra ngoài để xem kẻ thù" # TL
 # : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
     # game/combat/decks/DeckSelect.rpy:130
     old "* Click outside to toggle enemies view"
-    new "* Nhấp vào bên ngoài để chuyển đổi chế độ xem kẻ thù"
+    new "* Nhấp vào bên ngoài để chuyển đổi chế độ xem kẻ thù" # TL

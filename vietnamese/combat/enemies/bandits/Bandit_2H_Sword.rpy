@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/enemies/bandits/Bandit_2H_Sword.rpy:7
     old "Bandit"
-    new "Giang hồ"
+    new "Giang hồ" # TL

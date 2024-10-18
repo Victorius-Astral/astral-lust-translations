@@ -4,7 +4,7 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/mina.rpy:18
     old "{gold}[mina] (Mina){/gold}"
-    new "{gold}[mina] (Mina){/gold}"
+    new "{gold}[mina] (Mina){/gold}" # TL # Victorius - AI
 
     # game/screens/menus/girls/mina.rpy:21
     old "{gold}[mina]{/gold}"
@@ -12,12 +12,12 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/mina.rpy:30
     old "• Route: None"
-    new "• Route: không có"
+    new "• Route: không có" # TL
 
     # game/screens/menus/girls/mina.rpy:33
     old "• Route: {love}Love{/love}"
-    new "• Route: {love}tình nhân{/love}"
+    new "• Route: {love}tình nhân{/love}" # TL
 
     # game/screens/menus/girls/mina.rpy:36
     old "• Route: {trust}Friendship{/trust}"
-    new "• Route: {trust}Bạn bè{/trust}"
+    new "• Route: {trust}Bạn bè{/trust}" # TL

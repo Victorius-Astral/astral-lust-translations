@@ -4,15 +4,15 @@ translate vietnamese strings:
 
     # game/combat/decks/Deck.rpy:10
     old "Deck"
-    new "Bộ bài"
+    new "Bộ bài" # TL
 
     # game/combat/decks/Deck.rpy:89
     old "Card '{}' added to the {}"
-    new "Lá bài '{}' đã được thêm vào {}"
+    new "Lá bài '{}' đã được thêm vào {}" # TL
 
     # game/combat/decks/Deck.rpy:207
     old "Cards in {}:"
-    new "Lá bài ở {}:"
+    new "Lá bài ở {}:" # TL
 # : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
@@ -27,12 +27,12 @@ translate vietnamese strings:
 
     # game/combat/decks/Deck.rpy:95
     old "You have reachead a maximum of this card in a single deck! Card evolution might increase the limit."
-    new "Bạn đã đạt đến mức tối đa của thẻ này trong một bộ bài! Tiến hóa thẻ có thể tăng giới hạn."
+    new "Bạn đã đạt đến mức tối đa của thẻ này trong một bộ bài! Tiến hóa thẻ có thể tăng giới hạn." # TL
 # TODO: Translation updated at 2024-10-18 07:35
 
 translate vietnamese strings:
 
     # game/combat/decks/Deck.rpy:118
     old "This card is locked."
-    new "This card is locked."
+    new "Thẻ này đã bị khóa." # TL # Victorius - AI
 

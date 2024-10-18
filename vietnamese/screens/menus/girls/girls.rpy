@@ -4,7 +4,7 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/girls.rpy:26
     old "{color=#FFD700}----- Main -----{/color}"
-    new "{color=#FFD700}----- Chính -----{/color}"
+    new "{color=#FFD700}----- Chính -----{/color}" # TL
 
     # game/screens/menus/girls/girls.rpy:37
     old "???{#girlsMenu}"
@@ -12,8 +12,8 @@ translate vietnamese strings:
 
     # game/screens/menus/girls/girls.rpy:42
     old "\n{color=#FFD700}----- Side -----{/color}"
-    new "\n{color=#FFD700}----- Phụ -----{/color}"
+    new "\n{color=#FFD700}----- Phụ -----{/color}" # TL
 
     # game/screens/menus/girls/girls.rpy:58
     old "\n{color=#FFD700}----- Other -----{/color}"
-    new "\n{color=#FFD700}----- Khác -----{/color}"
+    new "\n{color=#FFD700}----- Khác -----{/color}" # TL

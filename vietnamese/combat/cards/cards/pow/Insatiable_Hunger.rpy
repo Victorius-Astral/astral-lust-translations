@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/pow/Insatiable_Hunger.rpy:6
     old "Insatiable Hunger"
-    new "Cơn Đói Vô Độ"
+    new "Cơn Đói Vô Độ" # TL

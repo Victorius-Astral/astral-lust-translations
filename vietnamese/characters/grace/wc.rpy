@@ -4,91 +4,91 @@
 translate vietnamese wc_grace_ec263df9:
 
     # "It's [grace]!"
-    "Đó là [grace]!"
+    "Đó là [grace]!" # TL
 
 # game/characters/grace/wc.rpy:7
 translate vietnamese wc_grace_e39eb760:
 
     # th "Should I stay? She'll notice me in no time.."
-    th "Mình có nên ở lại không? Em ấy sẽ chú ý đến mình mất..."
+    th "Mình có nên ở lại không? Em ấy sẽ chú ý đến mình mất..." # TL
 
 # game/characters/grace/wc.rpy:11
 translate vietnamese wc_grace_8c399beb:
 
     # grace "Ahh!"
-    grace "Ahh!"
+    grace "Ahh!" # TL # Victorius - AI
 
 # game/characters/grace/wc.rpy:12
 translate vietnamese wc_grace_355b1338:
 
     # "As expected, she found you quickly."
-    "Đúng như dự đoán, em ấy nhanh chóng nhìn thấy bạn."
+    "Đúng như dự đoán, em ấy nhanh chóng nhìn thấy bạn." # TL
 
 # game/characters/grace/wc.rpy:13
 translate vietnamese wc_grace_d6adba8f:
 
     # th "What now? I'm not sure I thought this over.."
-    th "Gì nữa? Mình không chắc mình đã nghĩ kỹ về điều này..."
+    th "Gì nữa? Mình không chắc mình đã nghĩ kỹ về điều này..." # TL
 
 # game/characters/grace/wc.rpy:26
 translate vietnamese wc_grace_dislike_b4ef0c5c:
 
     # grace "Can't you see I'm here?"
-    grace "Anh không thể thấy em đang ở đây à?"
+    grace "Anh không thể thấy em đang ở đây à?" # TL
 
 # game/characters/grace/wc.rpy:27
 translate vietnamese wc_grace_dislike_1c29c52e:
 
     # me "Sorry, I got stunned a little, I mean no offense."
-    me "Xin lỗi, anh hơi choáng váng, anh không có ý gì đâu."
+    me "Xin lỗi, anh hơi choáng váng, anh không có ý gì đâu." # TL
 
 # game/characters/grace/wc.rpy:28
 translate vietnamese wc_grace_dislike_f9616106:
 
     # grace "Umm.."
-    grace "Umm..."
+    grace "Umm..." # TL
 
 # game/characters/grace/wc.rpy:29
 translate vietnamese wc_grace_dislike_403be896:
 
     # me "Sorry, I'm leaving."
-    me "Xin lỗi, anh đi đây."
+    me "Xin lỗi, anh đi đây." # TL
 
 # game/characters/grace/wc.rpy:30
 translate vietnamese wc_grace_dislike_7402cda2:
 
     # grace "Mm."
-    grace "Mm."
+    grace "Mm." # TL # Victorius - AI
 
 # game/characters/grace/wc.rpy:37
 translate vietnamese wc_grace_hate_b6b7b3db:
 
     # grace "Get out!!"
-    grace "Ra ngoài!!"
+    grace "Ra ngoài!!" # TL
 
 # game/characters/grace/wc.rpy:38
 translate vietnamese wc_grace_hate_e25a941d:
 
     # me "I didn't mea.."
-    me "Anh không cố..."
+    me "Anh không cố..." # TL
 
 # game/characters/grace/wc.rpy:39
 translate vietnamese wc_grace_hate_f9a6ae3b:
 
     # grace "OUT!!"
-    grace "RA!!"
+    grace "RA!!" # TL
 
 # game/characters/grace/wc.rpy:40
 translate vietnamese wc_grace_hate_c8063796:
 
     # th "Shit."
-    th "Shit."
+    th "Chết tiệt." # TL # Victorius - AI
 
 # game/characters/grace/wc.rpy:42
 translate vietnamese wc_grace_hate_78fc3991:
 
     # grace "Men.. Mommy was right."
-    grace "Đàn ông... mẹ đã đúng."
+    grace "Đàn ông... mẹ đã đúng." # TL
 
 # game/characters/grace/wc.rpy:43
 translate vietnamese wc_grace_hate_3820771a:
@@ -100,10 +100,10 @@ translate vietnamese wc_grace_hate_3820771a:
 translate vietnamese wc_grace_hate_16d4093b:
 
     # "You leave quickly."
-    "Bạn nhanh chóng rời đi."
+    "Bạn nhanh chóng rời đi." # TL
 
 translate vietnamese strings:
 
     # game/characters/grace/wc.rpy:8
     old "Return quietly"
-    new "lặng lẽ quay đi"
+    new "lặng lẽ quay đi" # TL

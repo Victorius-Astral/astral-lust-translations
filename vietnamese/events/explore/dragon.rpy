@@ -4,100 +4,100 @@
 translate vietnamese exp_dragon_2790a268:
 
     # "You hear the roars coming from above."
-    "Bạn nghe thấy những tiếng gầm thét từ trên cao."
+    "Bạn nghe thấy những tiếng gầm thét từ trên cao." # TL
 
 # game/events/explore/dragon.rpy:21
 translate vietnamese exp_dragon_5fc377e2:
 
     # th "What the hell is this?"
-    th "Cái quái gì đây?"
+    th "Cái quái gì đây?" # TL
 
 # game/events/explore/dragon.rpy:25
 translate vietnamese exp_dragon_menu1_c2b0f572:
 
     # "You take cover."
-    "Bạn núp đi."
+    "Bạn núp đi." # TL
 
 # game/events/explore/dragon.rpy:27
 translate vietnamese exp_dragon_menu1_640d483f:
 
     # "After few minutes the roars disappear."
-    "Sau vài phút tiếng gầm biến mất."
+    "Sau vài phút tiếng gầm biến mất." # TL
 
 # game/events/explore/dragon.rpy:29
 translate vietnamese exp_dragon_menu1_15bb0951:
 
     # th "It should be safe now."
-    th "Bây giờ an toàn rồi."
+    th "Bây giờ an toàn rồi." # TL
 
 # game/events/explore/dragon.rpy:35
 translate vietnamese exp_dragon_menu1_0150d28d:
 
     # "{color=#32CD32}[[Agility check passed]{/color}"
-    "{color=#32CD32}[[Độ nhanh nhẹn đạt yêu cầu]{/color}"
+    "{color=#32CD32}[[Độ nhanh nhẹn đạt yêu cầu]{/color}" # TL
 
 # game/events/explore/dragon.rpy:37
 translate vietnamese exp_dragon_menu1_34670094:
 
     # "You run as fast as you can."
-    "Bạn chạy nhanh nhất có thể."
+    "Bạn chạy nhanh nhất có thể." # TL
 
 # game/events/explore/dragon.rpy:40
 translate vietnamese exp_dragon_menu1_7bcbccdd:
 
     # "Soon the roars fade away."
-    "Chẳng bao lâu sau những tiếng gầm rú tan biến."
+    "Chẳng bao lâu sau những tiếng gầm rú tan biến." # TL
 
 # game/events/explore/dragon.rpy:41
 translate vietnamese exp_dragon_menu1_201a1cea:
 
     # th "It seems I've escaped safely."
-    th "Có vẻ như mình đã trốn thoát an toàn."
+    th "Có vẻ như mình đã trốn thoát an toàn." # TL
 
 # game/events/explore/dragon.rpy:46
 translate vietnamese exp_dragon_menu1_7f084409:
 
     # "{color=#32CD32}[[Agility check failed]{/color}"
-    "{color=#32CD32}[[Độ nhanh nhẹn không đủ]{/color}"
+    "{color=#32CD32}[[Độ nhanh nhẹn không đủ]{/color}" # TL
 
 # game/events/explore/dragon.rpy:48
 translate vietnamese exp_dragon_menu1_34670094_1:
 
     # "You run as fast as you can."
-    "Bạn chạy nhanh nhất có thể."
+    "Bạn chạy nhanh nhất có thể." # TL
 
 # game/events/explore/dragon.rpy:50
 translate vietnamese exp_dragon_menu1_9c6ce3fb:
 
     # "You feel as tremendous force hits your back."
-    "Bạn cảm thấy như có thứ gì đó cực lớn đập vào lưng bạn."
+    "Bạn cảm thấy như có thứ gì đó cực lớn đập vào lưng bạn." # TL
 
 # game/events/explore/dragon.rpy:57
 translate vietnamese exp_dragon_menu1_a32dd0dc:
 
     # "You shoot at the sky."
-    "Bạn bắn lên bầu trời."
+    "Bạn bắn lên bầu trời." # TL
 
 # game/events/explore/dragon.rpy:59
 translate vietnamese exp_dragon_menu1_fc37d187:
 
     # "Something descends from above."
-    "Thứ gì đó từ trên cao đáp xuống."
+    "Thứ gì đó từ trên cao đáp xuống." # TL
 
 # game/events/explore/dragon.rpy:62
 translate vietnamese exp_dragon_menu1_0be58ff0:
 
     # "The earth trembles as it lands."
-    "Mặt đất rung chuyển khi nó tiếp đất."
+    "Mặt đất rung chuyển khi nó tiếp đất." # TL
 
 # game/events/explore/dragon.rpy:66
 translate vietnamese exp_dragon_menu1_8ac0fff7:
 
     # "You don't have anything to shoot with."
-    "Bạn không có bất cứ thứ gì để bắn."
+    "Bạn không có bất cứ thứ gì để bắn." # TL
 
 translate vietnamese strings:
 
     # game/events/explore/dragon.rpy:22
     old "Shoot at the sky {#visible}"
-    new "Bắn lên trên trời {#visible}"
+    new "Bắn lên trên trời {#visible}" # TL

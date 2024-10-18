@@ -4,22 +4,22 @@
 translate vietnamese gym_vit_873b9e9f:
 
     # "It's too late."
-    "Bây giờ muộn rồi."
+    "Bây giờ muộn rồi." # TL
 
 # game/places/hotel/expansions/gym/vit.rpy:16
 translate vietnamese gym_vit_4a739fa7:
 
     # "You train your vitality." id gym_vit_4a739fa7
-    "Bạn rèn luyện Sinh lực của mình." id gym_vit_4a739fa7
+    "Bạn rèn luyện Sinh lực của mình." id gym_vit_4a739fa7 # TL
 
 # game/places/hotel/expansions/gym/vit.rpy:21
 translate vietnamese gym_vit_ac89b13d:
 
     # "You feel tired after training today, don't push yourself."
-    "Bạn cảm thấy mệt mỏi sau khi tập luyện hôm nay, đừng thúc ép bản thân."
+    "Bạn cảm thấy mệt mỏi sau khi tập luyện hôm nay, đừng thúc ép bản thân." # TL
 
 translate vietnamese strings:
 
     # game/places/hotel/expansions/gym/vit.rpy:2
     old "Train vitality"
-    new "Rèn luyện Sinh lực"
+    new "Rèn luyện Sinh lực" # TL

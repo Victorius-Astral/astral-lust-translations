@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/enemies/neutral/Giant_Spider.rpy:7
     old "Giant Spider"
-    new "Nhện khổng lồ"
+    new "Nhện khổng lồ" # TL

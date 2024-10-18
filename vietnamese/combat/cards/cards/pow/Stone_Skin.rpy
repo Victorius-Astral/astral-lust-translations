@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/pow/Stone_Skin.rpy:6
     old "Stone Skin"
-    new "Mình Đồng Da Sắt"
+    new "Mình Đồng Da Sắt" # TL

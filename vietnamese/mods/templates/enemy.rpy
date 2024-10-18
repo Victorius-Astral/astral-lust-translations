@@ -4,7 +4,7 @@ translate vietnamese strings:
 
     # game/mods/templates/enemy.rpy:7
     old "TEMPLATE"
-    new "TEMPLATE"
+    new "MẪU" # TL # Victorius - AI
 
 # TODO: Translation updated at 2023-08-04 16:46
 
@@ -12,5 +12,5 @@ translate vietnamese strings:
 
     # game/mods/templates/enemy.rpy:9
     old "TemplateEnemy"
-    new "TemplateEnemy"
+    new "MẫuKẻThù" # TL # Victorius - AI
 

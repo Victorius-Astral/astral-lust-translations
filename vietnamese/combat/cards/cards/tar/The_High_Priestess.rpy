@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_High_Priestess.rpy:6
     old "The High Priestess"
-    new "Nữ Thượng Tế"
+    new "Nữ Thượng Tế" # TL

@@ -4,8 +4,8 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/ability.rpy:673
     old "Hypnotize"
-    new "Thôi miên"
+    new "Thôi miên" # TL
 
     # game/combat/cards/cards/ability.rpy:880
     old "Last Journey"
-    new "Hàng trình cuối"
+    new "Hàng trình cuối" # TL

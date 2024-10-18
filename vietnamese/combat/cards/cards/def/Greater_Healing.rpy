@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/def/Greater_Healing.rpy:6
     old "Greater Healing"
-    new "Hồi Máu Trung Cấp"
+    new "Hồi Máu Trung Cấp" # TL

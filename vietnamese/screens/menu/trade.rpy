@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/screens/menu/trade.rpy:155
     old "Relations:"
-    new "Quan hệ:"
+    new "Quan hệ:" # TL

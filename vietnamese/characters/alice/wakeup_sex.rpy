@@ -4,199 +4,199 @@
 translate vietnamese alice_wakeup_sex_7459a238:
 
     # alice "Ahmnn~"
-    alice "Ahmnn~"
+    alice "Ahmnn~" # TL # Victorius - AI
 
 # game/characters/alice/wakeup_sex.rpy:12
 translate vietnamese alice_wakeup_sex_cf2026c6:
 
     # th "[alice]? This feeling.."
-    th "[alice]? Cảm giác này..."
+    th "[alice]? Cảm giác này..." # TL
 
 # game/characters/alice/wakeup_sex.rpy:19
 translate vietnamese alice_wakeup_sex_d72a0bf0:
 
     # th "Fuck! I knew it!"
-    th "Hehe! biết ngay mà!"
+    th "Hehe! biết ngay mà!" # TL
 
 # game/characters/alice/wakeup_sex.rpy:20
 translate vietnamese alice_wakeup_sex_dce1ba28:
 
     # alice "Ahhn~ Heya, daddy~"
-    alice "Ahhn~ Heya, daddy~"
+    alice "Ahhn~ Chào, bố~" # TL # Victorius - AI
 
 # game/characters/alice/wakeup_sex.rpy:21
 translate vietnamese alice_wakeup_sex_e27846d2:
 
     # me "Hello there, darling."
-    me "Xin chào em yêu."
+    me "Xin chào em yêu." # TL
 
 # game/characters/alice/wakeup_sex.rpy:22
 translate vietnamese alice_wakeup_sex_12a2fe04:
 
     # alice "You wanted me to wake you up. Mnnhmm~"
-    alice "Anh muốn em đánh thức anh. Mnnhmm~"
+    alice "Anh muốn em đánh thức anh. Mnnhmm~" # TL
 
 # game/characters/alice/wakeup_sex.rpy:23
 translate vietnamese alice_wakeup_sex_42da9e55:
 
     # me "I did indeed ask you that, good job."
-    me "Anh nhờ em điều đó mà làm tốt lắm."
+    me "Anh nhờ em điều đó mà làm tốt lắm." # TL
 
 # game/characters/alice/wakeup_sex.rpy:24
 translate vietnamese alice_wakeup_sex_0b60a0c3:
 
     # alice "Hehe~"
-    alice "Hehe~"
+    alice "Hehe~" # TL # Victorius - AI
 
 # game/characters/alice/wakeup_sex.rpy:31
 translate vietnamese alice_wakeup_sex_631a30a6:
 
     # alice "Mnnhm~"
-    alice "Mnnhm~"
+    alice "Mnnhm~" # TL # Victorius - AI
 
 # game/characters/alice/wakeup_sex.rpy:32
 translate vietnamese alice_wakeup_sex_a22eb0aa:
 
     # me "Ahhh!"
-    me "Ahhh!"
+    me "Ahhh!" # TL # Victorius - AI
 
 # game/characters/alice/wakeup_sex.rpy:33
 translate vietnamese alice_wakeup_sex_ff0dc255:
 
     # "Her tight pussy wraps around your dick."
-    "Âm hộ chặt của cổ quấn quanh thằng nhỏ của bạn."
+    "Âm hộ chặt của cổ quấn quanh thằng nhỏ của bạn." # TL
 
 # game/characters/alice/wakeup_sex.rpy:35
 translate vietnamese alice_wakeup_sex_fb554a98:
 
     # alice "Your dick is the best, daddy~!"
-    alice "con cặc của anh là tuyệt nhất~!"
+    alice "con cặc của anh là tuyệt nhất~!" # TL
 
 # game/characters/alice/wakeup_sex.rpy:42
 translate vietnamese alice_wakeup_sex_ac2f5672:
 
     # me "You're the best!"
-    me "Em là tuyệt nhất!"
+    me "Em là tuyệt nhất!" # TL
 
 # game/characters/alice/wakeup_sex.rpy:43
 translate vietnamese alice_wakeup_sex_e0f33f65:
 
     # alice "I know! Ahh!"
-    alice "Em biết! Ahh!"
+    alice "Em biết! Ahh!" # TL
 
 # game/characters/alice/wakeup_sex.rpy:50
 translate vietnamese alice_wakeup_sex_3989105e:
 
     # "You feel your orgasm coming."
-    "Bạn cảm thấy cực khoái đang đến gần."
+    "Bạn cảm thấy cực khoái đang đến gần." # TL
 
 # game/characters/alice/wakeup_sex.rpy:51
 translate vietnamese alice_wakeup_sex_92d553fb:
 
     # me "I'm about to cum!"
-    me "Anh sắp xuất tinh rồi!"
+    me "Anh sắp xuất tinh rồi!" # TL
 
 # game/characters/alice/wakeup_sex.rpy:52
 translate vietnamese alice_wakeup_sex_05e694c8:
 
     # alice "Cum inside, fill me, daddy~!"
-    alice "Xuất tinh vào trong đi, lấp đầy em đi daddy~!"
+    alice "Xuất tinh vào trong đi, lấp đầy em đi daddy~!" # TL
 
 # game/characters/alice/wakeup_sex.rpy:62
 translate vietnamese alice_wakeup_sex_9edee612:
 
     # me "Ahhhh!"
-    me "Ahhhh!"
+    me "Ahhhh!" # TL # Victorius - AI
 
 # game/characters/alice/wakeup_sex.rpy:63
 translate vietnamese alice_wakeup_sex_5533f925:
 
     # alice "Ahmmn~!"
-    alice "Ahmmn~!"
+    alice "Ahmmn~!" # TL # Victorius - AI
 
 # game/characters/alice/wakeup_sex.rpy:66
 translate vietnamese alice_wakeup_sex_04a5a874:
 
     # alice "You're so good to me, daddy~"
-    alice "Tuyệt lắm~"
+    alice "Tuyệt lắm~" # TL
 
 # game/characters/alice/wakeup_sex.rpy:67
 translate vietnamese alice_wakeup_sex_cfe22bf6:
 
     # me "I surely am, who is the best daddy?"
-    me "Tất nhiên rồi, ai là bạn trai tuyệt nhất nào?"
+    me "Tất nhiên rồi, ai là bạn trai tuyệt nhất nào?" # TL
 
 # game/characters/alice/wakeup_sex.rpy:70
 translate vietnamese alice_wakeup_sex_3b2a1d8f:
 
     # alice "[me] is the best daddy."
-    alice "[me] là bạn trai tốt nhất."
+    alice "[me] là bạn trai tốt nhất." # TL
 
 # game/characters/alice/wakeup_sex.rpy:71
 translate vietnamese alice_wakeup_sex_aa93b10c:
 
     # me "Good girl."
-    me "Tốt."
+    me "Tốt." # TL
 
 # game/characters/alice/wakeup_sex.rpy:74
 translate vietnamese alice_wakeup_sex_e061a7ed:
 
     # alice "I need to get going, though. I've got many things to do."
-    alice "Tuy nhiên, em cần phải đi. Em có nhiều việc phải làm lắm."
+    alice "Tuy nhiên, em cần phải đi. Em có nhiều việc phải làm lắm." # TL
 
 # game/characters/alice/wakeup_sex.rpy:75
 translate vietnamese alice_wakeup_sex_decdc482:
 
     # me "Alright, remember to come play with daddy from time to time."
-    me "Được rồi, thỉnh thoảng nhớ đến chơi với anh nha."
+    me "Được rồi, thỉnh thoảng nhớ đến chơi với anh nha." # TL
 
 # game/characters/alice/wakeup_sex.rpy:78
 translate vietnamese alice_wakeup_sex_1d652677:
 
     # alice "Of course daddy. Alice will come play with you again."
-    alice "Tất nhiên rồi daddy. Alice sẽ lại chơi với anh."
+    alice "Tất nhiên rồi daddy. Alice sẽ lại chơi với anh." # TL
 
 # game/characters/alice/wakeup_sex.rpy:81
 translate vietnamese alice_wakeup_sex_3b94b0d1:
 
     # "[alice] went to deal with her own things."
-    "[alice] đi giải quyết những việc riêng của cô ấy."
+    "[alice] đi giải quyết những việc riêng của cô ấy." # TL
 
 # game/characters/alice/wakeup_sex.rpy:82
 translate vietnamese alice_wakeup_sex_7ec019f4:
 
     # th "Time to get up, it's afternoon already.."
-    th "Đến lúc dậy thôi, chiều rồi..."
+    th "Đến lúc dậy thôi, chiều rồi..." # TL
 
 # game/characters/alice/wakeup_sex.rpy:88
 translate vietnamese alice_wakeup_sex_9edee612_1:
 
     # me "Ahhhh!"
-    me "Ahhhh!"
+    me "Ahhhh!" # TL # Victorius - AI
 
 # game/characters/alice/wakeup_sex.rpy:92
 translate vietnamese alice_wakeup_sex_29d0a9b6:
 
     # alice "Daddy~ Why didn't you fill me? I was soooo close~"
-    alice "Daddy~ Tại sao anh không lấp đầy em? Em đã rất gần rồi mà~"
+    alice "Daddy~ Tại sao anh không lấp đầy em? Em đã rất gần rồi mà~" # TL
 
 # game/characters/alice/wakeup_sex.rpy:93
 translate vietnamese alice_wakeup_sex_dfcddf81:
 
     # me "You need to first deserve a reward."
-    me "Trước tiên em cần phải xứng đáng để được thưởng đã."
+    me "Trước tiên em cần phải xứng đáng để được thưởng đã." # TL
 
 # game/characters/alice/wakeup_sex.rpy:96
 translate vietnamese alice_wakeup_sex_a2ade314:
 
     # alice "No fun.."
-    alice "Không vui..."
+    alice "Không vui..." # TL
 
 # game/characters/alice/wakeup_sex.rpy:97
 translate vietnamese alice_wakeup_sex_6d414a0a:
 
     # me "Work hard, young lady."
-    me "Làm việc chăm chỉ lên, cô gái trẻ."
+    me "Làm việc chăm chỉ lên, cô gái trẻ." # TL
 
 # game/characters/alice/wakeup_sex.rpy:100
 translate vietnamese alice_wakeup_sex_74f05a4e:
@@ -208,47 +208,47 @@ translate vietnamese alice_wakeup_sex_74f05a4e:
 translate vietnamese alice_wakeup_sex_426b0330:
 
     # me "Shouldn't you thank me for fucking you?"
-    me "Em đáng lẽ nên cảm ơn anh vì đã địt em"
+    me "Em đáng lẽ nên cảm ơn anh vì đã địt em" # TL
 
 # game/characters/alice/wakeup_sex.rpy:104
 translate vietnamese alice_wakeup_sex_58223bae:
 
     # alice "No fun, [me]. You're no fun at all, I'm out. Let's see who will miss who first."
-    alice "Không vui đâu [me]. Anh không vui chút nào, em đi đây. Để xem ai sẽ nhớ ai trước."
+    alice "Không vui đâu [me]. Anh không vui chút nào, em đi đây. Để xem ai sẽ nhớ ai trước." # TL
 
 # game/characters/alice/wakeup_sex.rpy:105
 translate vietnamese alice_wakeup_sex_669ef487:
 
     # me "I'm missing you already."
-    me "Chưa gì anh đã nhớ em rồi."
+    me "Chưa gì anh đã nhớ em rồi." # TL
 
 # game/characters/alice/wakeup_sex.rpy:106
 translate vietnamese alice_wakeup_sex_22033369:
 
     # alice "I know~"
-    alice "Em biết~"
+    alice "Em biết~" # TL
 
 # game/characters/alice/wakeup_sex.rpy:109
 translate vietnamese alice_wakeup_sex_b49b2821:
 
     # "[alice] went out leaving you alone."
-    "[alice] đi ra ngoài để lại bạn một mình."
+    "[alice] đi ra ngoài để lại bạn một mình." # TL
 
 # game/characters/alice/wakeup_sex.rpy:110
 translate vietnamese alice_wakeup_sex_3cdf7951:
 
     # th "This lass.."
-    th "Cô gái này..."
+    th "Cô gái này..." # TL
 
 # game/characters/alice/wakeup_sex.rpy:111
 translate vietnamese alice_wakeup_sex_7ec019f4_1:
 
     # th "Time to get up, it's afternoon already.."
-    th "Đến lúc dậy thôi, chiều rồi..."
+    th "Đến lúc dậy thôi, chiều rồi..." # TL
 #: Translation updated at 2023-04-11 07:48
 
 # game/characters/alice/wakeup_sex.rpy:78
 translate vietnamese alice_wakeup_sex_047bb6e2:
 
     # me "I sure am, who is the best daddy?"
-    me "Tất nhiên rồi, ai là bạn trai tuyệt nhất nào?"
+    me "Tất nhiên rồi, ai là bạn trai tuyệt nhất nào?" # TL

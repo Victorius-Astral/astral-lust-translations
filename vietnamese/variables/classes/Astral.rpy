@@ -4,46 +4,46 @@ translate vietnamese strings:
 
     # game/variables/classes/Astral.rpy:79
     old "Insert wallpaper code"
-    new "Nhập mã hình nền"
+    new "Nhập mã hình nền" # TL
 
     # game/variables/classes/Astral.rpy:90
     old "Code correct, unlocked wallpaper: '{}'"
-    new "Mã chính xác, hình nền đã mở khóa: '{}'"
+    new "Mã chính xác, hình nền đã mở khóa: '{}'" # TL
 
     # game/variables/classes/Astral.rpy:106
     old "Warning: Non existent wallpaper {} in {} group."
-    new "Cảnh báo: Hình nền không tồn tại {} trong {} nhóm."
+    new "Cảnh báo: Hình nền không tồn tại {} trong {} nhóm." # TL
 
     # game/variables/classes/Astral.rpy:108
     old "Code correct, unlocked group of wallpapers: '{}'"
-    new "Mã chính xác, nhóm hình nền đã mở khóa: '{}'"
+    new "Mã chính xác, nhóm hình nền đã mở khóa: '{}'" # TL
 
     # game/variables/classes/Astral.rpy:113
     old "Code doesn't match any wallpaper."
-    new "Mã không khớp với bất kỳ hình nền nào."
+    new "Mã không khớp với bất kỳ hình nền nào." # TL
 
     # game/variables/classes/Astral.rpy:257
     old "This is the end of {who} story in {ver}, this story will be continued soon! You can check for news, and new version on my {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreon{{/a}}{{/patreon1}}."
-    new "Đây là kết thúc của {who} trong phiên bản {ver}, câu chuyện này sẽ được tiếp tục sớm! Bạn có thể kiểm tra tin tức và phiên bản mới trên {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreon{{/a}}{{/patreon1}}."
+    new "Đây là kết thúc của {who} trong phiên bản {ver}, câu chuyện này sẽ được tiếp tục sớm! Bạn có thể kiểm tra tin tức và phiên bản mới trên {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreon{{/a}}{{/patreon1}}." # TL
 
     # game/variables/classes/Astral.rpy:443
     old "Unique cards obtained: {}"
-    new "Đã mở khóa những thẻ Độc nhất: {}"
+    new "Đã mở khóa những thẻ Độc nhất: {}" # TL
 
     # game/variables/classes/Astral.rpy:447
     old "Unique card obtained: {}"
-    new "Đã mở khóa thẻ Độc nhất: {}"
+    new "Đã mở khóa thẻ Độc nhất: {}" # TL
 
     # game/variables/classes/Astral.rpy:463
     old "HELP"
-    new "GIÚP ĐỠ"
+    new "GIÚP ĐỠ" # TL
 # : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
     # game/variables/classes/Astral.rpy:311
     old "This is the end of {who} story in {ver}. This story will be continued soon! You can check for news, and new version on my {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreon{{/a}}{{/patreon1}}."
-    new "Đây là kết thúc cốt truyện của {who} ở bản {ver}. Câu chuyện này sẽ được tiếp tục sớm thôi! Bạn có thể kiểm tra tin tức và phiên bản mới trên {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreon{{/a}}{{/patreon1}}."
+    new "Đây là kết thúc cốt truyện của {who} ở bản {ver}. Câu chuyện này sẽ được tiếp tục sớm thôi! Bạn có thể kiểm tra tin tức và phiên bản mới trên {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreon{{/a}}{{/patreon1}}." # TL
 
 # : Translation updated at 2022-04-17 12:12
 
@@ -51,25 +51,25 @@ translate vietnamese strings:
 
     # game/variables/classes/Astral.rpy:314
     old "her"
-    new "Cô ấy"
+    new "Cô ấy" # TL
 
     # game/variables/classes/Astral.rpy:316
     old "This is the end of {who} story in {ver}. The game remains in the active development, though! If you want to check or get new releases, or you just want to support Astral Lust check our {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreon{{/a}}{{/patreon1}}! Have fun :)"
-    new "Đây là kết thúc cốt truyện của {who} ở bản {ver}. Tuy nhiên, trò chơi vẫn đang trong quá trình phát triển tích cực! Nếu bạn muốn kiểm tra hoặc tải các bản phát hành mới, hoặc bạn chỉ muốn hỗ trợ Astral Lust, hãy kiểm tra {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreon{{/a}}{{/patreon1}}! Vui vẻ nha :)"
+    new "Đây là kết thúc cốt truyện của {who} ở bản {ver}. Tuy nhiên, trò chơi vẫn đang trong quá trình phát triển tích cực! Nếu bạn muốn kiểm tra hoặc tải các bản phát hành mới, hoặc bạn chỉ muốn hỗ trợ Astral Lust, hãy kiểm tra {{patreon1}}{{a=https://www.patreon.com/Victorius}}Patreon{{/a}}{{/patreon1}}! Vui vẻ nha :)" # TL
 # : Translation updated at 2022-06-15 06:52
 
 translate vietnamese strings:
 
     # game/variables/classes/Astral.rpy:465
     old "Lost items:"
-    new "Vật Phẩm thất lạc:"
+    new "Vật Phẩm thất lạc:" # TL
 # : Translation updated at 2022-08-13 15:58
 
 translate vietnamese strings:
 
     # game/variables/classes/Astral.rpy:490
     old "\n • {{color={color}}}{amount}{{/color}} {{image={image}}}"
-    new "\n • {{color={color}}}{amount}{{/color}} {{image={image}}}"
+    new "\n • {{color={color}}}{amount}{{/color}} {{image={image}}}" # TL # Victorius - AI
 
 # TODO: Translation updated at 2024-10-18 07:35
 
@@ -77,9 +77,9 @@ translate vietnamese strings:
 
     # game/variables/classes/Astral.rpy:233
     old "Code already claimed on this save."
-    new "Code already claimed on this save."
+    new "Mã đã được sử dụng trong bản lưu này." # TL # Victorius - AI
 
     # game/variables/classes/Astral.rpy:242
     old "Code '{}' not found, try again, codes are case sensitive."
-    new "Code '{}' not found, try again, codes are case sensitive."
+    new "Không tìm thấy mã '{}', thử lại, mã phân biệt chữ hoa chữ thường." # TL # Victorius - AI
 

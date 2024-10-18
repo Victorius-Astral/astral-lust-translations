@@ -4,27 +4,27 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/types.rpy:3
     old "Offensive"
-    new "Tấn công"
+    new "Tấn công" # TL
 
     # game/combat/cards/lists/types.rpy:3
     old "Defensive"
-    new "Phòng thủ"
+    new "Phòng thủ" # TL
 
     # game/combat/cards/lists/types.rpy:3
     old "Ability"
-    new "Kỹ Năng"
+    new "Kỹ Năng" # TL
 
     # game/combat/cards/lists/types.rpy:3
     old "Power"
-    new "Năng lực"
+    new "Năng lực" # TL
 # : Translation updated at 2023-08-04 16:46
 
 translate vietnamese strings:
 
     # game/combat/cards/lists/types.rpy:3
     old "Martial Art"
-    new "Võ thuật"
+    new "Võ thuật" # TL
 
     # game/combat/cards/lists/types.rpy:3
     old "Summoning"
-    new "Triệu hồi"
+    new "Triệu hồi" # TL

@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/off/Bite.rpy:6
     old "Bite"
-    new "Cắn"
+    new "Cắn" # TL

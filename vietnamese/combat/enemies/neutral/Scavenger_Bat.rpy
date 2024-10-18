@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/enemies/neutral/Scavenger_Bat.rpy:7
     old "Scavenger"
-    new "Người loot đồ dạo"
+    new "Người loot đồ dạo" # TL

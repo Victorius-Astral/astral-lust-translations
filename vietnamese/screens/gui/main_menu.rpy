@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/screens/gui/main_menu.rpy:92
     old "Legacy (Black Hole)"
-    new "Di sản (Hố đen)"
+    new "Di sản (Hố đen)" # TL

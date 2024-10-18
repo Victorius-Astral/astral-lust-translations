@@ -4,11 +4,11 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_Moon.rpy:27
     old "physical"
-    new "Vật lý"
+    new "Vật lý" # TL
 # : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_Moon.rpy:6
     old "The Moon"
-    new "Mặt Trăng"
+    new "Mặt Trăng" # TL

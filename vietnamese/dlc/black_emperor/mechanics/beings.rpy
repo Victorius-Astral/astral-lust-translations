@@ -4,12 +4,12 @@ translate vietnamese strings:
 
     # game/dlc/black_emperor/mechanics/beings.rpy:9
     old "Warrior"
-    new "Võ sĩ"
+    new "Võ sĩ" # TL
 
     # game/dlc/black_emperor/mechanics/beings.rpy:90
     old "Elite Warrior"
-    new "Chiến binh ưu tú"
+    new "Chiến binh ưu tú" # TL
 
     # game/dlc/black_emperor/mechanics/beings.rpy:122
     old "Hunter"
-    new "Thợ săn"
+    new "Thợ săn" # TL

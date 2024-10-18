@@ -4,35 +4,35 @@ translate vietnamese strings:
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Ordinary"
-    new "Bình thường"
+    new "Bình thường" # TL
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Extraordinary"
-    new "Hiếm"
+    new "Hiếm" # TL
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Legendary"
-    new "Huyền thoại"
+    new "Huyền thoại" # TL
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Angelic"
-    new "thiên thần"
+    new "thiên thần" # TL
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Divine"
-    new "Divine"
+    new "Thần thánh" # TL # Victorius - AI
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Tarot"
-    new "Tarot"
+    new "Tarot" # TL # Victorius - AI
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Unique"
-    new "Độc nhất"
+    new "Độc nhất" # TL
 # : Translation updated at 2022-02-06 08:10
 
 translate vietnamese strings:
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Mythical"
-    new "Thần thoại"
+    new "Thần thoại" # TL

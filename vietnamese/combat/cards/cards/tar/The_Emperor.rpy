@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/The_Emperor.rpy:6
     old "The Emperor"
-    new "Hoàng Đế"
+    new "Hoàng Đế" # TL

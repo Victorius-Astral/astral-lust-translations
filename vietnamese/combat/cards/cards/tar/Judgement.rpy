@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/Judgement.rpy:6
     old "Judgement"
-    new "Phán Xét"
+    new "Phán Xét" # TL

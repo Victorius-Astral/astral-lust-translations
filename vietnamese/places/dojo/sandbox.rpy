@@ -4,4 +4,4 @@
 translate vietnamese carlson_dojo_f7deac80:
 
     # "You return to the hotel before the night arrives."
-    "Bạn trở về khách sạn trước khi màn đêm kịp đến."
+    "Bạn trở về khách sạn trước khi màn đêm kịp đến." # TL

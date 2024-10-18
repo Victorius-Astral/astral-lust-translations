@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/abi/Roar.rpy:6
     old "Roar"
-    new "Gầm Thét"
+    new "Gầm Thét" # TL

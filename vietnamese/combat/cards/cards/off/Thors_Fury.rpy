@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/off/Thors_Fury.rpy:6
     old "Thor's Fury"
-    new "Thor Cuồng Nộ"
+    new "Thor Cuồng Nộ" # TL

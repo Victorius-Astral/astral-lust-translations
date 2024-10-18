@@ -4,8 +4,8 @@ translate vietnamese strings:
 
     # game/screens/utility/sound_warning.rpy:9
     old "WARNING"
-    new "CẢNH BÁO"
+    new "CẢNH BÁO" # TL
 
     # game/screens/utility/sound_warning.rpy:10
     old "This game features NSFW sounds, the use of headphones is advised."
-    new "Trò chơi này đã có âm thanh chịt chọt, nên sử dụng tai nghe tránh làm phiền xóm làng."
+    new "Trò chơi này đã có âm thanh chịt chọt, nên sử dụng tai nghe tránh làm phiền xóm làng." # TL

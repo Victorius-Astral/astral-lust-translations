@@ -4,19 +4,19 @@ translate vietnamese strings:
 
     # game/combat/battle/Battle_screen.rpy:190
     old "Turn [battle.turn]."
-    new "Lượt [battle.turn]."
+    new "Lượt [battle.turn]." # TL
 
     # game/combat/battle/Battle_screen.rpy:246
     old "End Turn"
-    new "Kết thúc lượt"
+    new "Kết thúc lượt" # TL
 #: Translation updated at 2023-04-11 07:48
 
 translate vietnamese strings:
 
     # game/combat/battle/Battle_screen.rpy:610
     old "Victory"
-    new "Chiến thắng"
+    new "Chiến thắng" # TL
 
     # game/combat/battle/Battle_screen.rpy:628
     old "Defeat"
-    new "Thất bại"
+    new "Thất bại" # TL

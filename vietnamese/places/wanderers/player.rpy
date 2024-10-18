@@ -4,18 +4,18 @@
 translate vietnamese room_wanderers_player_sleep_62d1a43b:
 
     # "You feel full of energy."
-    "Bạn cảm thấy tràn đầy năng lượng."
+    "Bạn cảm thấy tràn đầy năng lượng." # TL
 
 translate vietnamese strings:
 
     # game/places/wanderers/player.rpy:4
     old "What do you want to do?"
-    new "Bạn muốn làm gì?"
+    new "Bạn muốn làm gì?" # TL
 
     # game/places/wanderers/player.rpy:4
     old "Sleep"
-    new "Ngủ"
+    new "Ngủ" # TL
 
     # game/places/wanderers/player.rpy:4
     old "Storage/Crafting"
-    new "Kho/Chế tạo"
+    new "Kho/Chế tạo" # TL

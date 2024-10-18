@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/abi/Ritual.rpy:6
     old "Ritual"
-    new "Nghi Lễ"
+    new "Nghi Lễ" # TL

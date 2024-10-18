@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/enemies/story/TutorialEnemy.rpy:7
     old "Sick Werewolf"
-    new "Người sói bị nghiện"
+    new "Người sói bị nghiện" # TL

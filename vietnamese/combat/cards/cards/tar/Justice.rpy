@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/Justice.rpy:6
     old "Justice"
-    new "Công Lý"
+    new "Công Lý" # TL

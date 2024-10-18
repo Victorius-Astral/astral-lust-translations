@@ -4,16 +4,16 @@ translate vietnamese strings:
 
     # game/variables/characters/dreams.rpy:1
     old "Charlotte"
-    new "Charlotte"
+    new "Charlotte" # TL # Victorius - AI
 
     # game/variables/characters/dreams.rpy:2
     old "Devil"
-    new "Quỷ"
+    new "Quỷ" # TL
 
     # game/variables/characters/dreams.rpy:3
     old "Secretary"
-    new "Thư ký"
+    new "Thư ký" # TL
 
     # game/variables/characters/dreams.rpy:4
     old "Dekesha"
-    new "Dekesha"
+    new "Dekesha" # TL # Victorius - AI

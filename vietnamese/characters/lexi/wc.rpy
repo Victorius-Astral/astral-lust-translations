@@ -4,42 +4,42 @@
 translate vietnamese wc_lexi_2aaf4428:
 
     # th "Lexi. She looks at me.."
-    th "Lexi. Cô ấy nhìn mình..."
+    th "Lexi. Cô ấy nhìn mình..." # TL
 
 # game/characters/lexi/wc.rpy:7
 translate vietnamese wc_lexi_1998487c:
 
     # me "Sorry, I thought it was unoccu.."
-    me "Xin lỗi, anh nghĩ l..."
+    me "Xin lỗi, anh nghĩ l..." # TL
 
 # game/characters/lexi/wc.rpy:11
 translate vietnamese wc_lexi_a0fce02b:
 
     # lexi "Are you leaving or not?"
-    lexi "Anh có đi hay không?"
+    lexi "Anh có đi hay không?" # TL
 
 # game/characters/lexi/wc.rpy:12
 translate vietnamese wc_lexi_b847dfb7:
 
     # me "Sorry."
-    me "Xin lỗi."
+    me "Xin lỗi." # TL
 
 # game/characters/lexi/wc.rpy:13
 translate vietnamese wc_lexi_d6bf257e:
 
     # lexi "Ahh.."
-    lexi "Ahh..."
+    lexi "Ahh..." # TL
 
 # game/characters/lexi/wc.rpy:14
 translate vietnamese wc_lexi_2e39132c:
 
     # "You leave."
-    "Bạn rời đi."
+    "Bạn rời đi." # TL
 # : Translation updated at 2022-11-13 15:18
 
 # game/characters/lexi/wc.rpy:15
 translate vietnamese wc_lexi_a08584a1:
 
     # lexi "Ehh.."
-    lexi "Ehh.."
+    lexi "Ehh.." # TL # Victorius - AI
 

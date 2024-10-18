@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/enemies/neutral/Dragon_on_Volcanic_Fumes.rpy:7
     old "Dragon on Volcanic Fumes"
-    new "Rồng núi lửa"
+    new "Rồng núi lửa" # TL

@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/abi/Antidote.rpy:6
     old "Antidote"
-    new "Thuốc Giải Độc"
+    new "Thuốc Giải Độc" # TL

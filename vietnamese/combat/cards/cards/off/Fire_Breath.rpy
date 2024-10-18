@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/off/Fire_Breath.rpy:6
     old "Fire Breath"
-    new "Hơi Thở Của Lửa"
+    new "Hơi Thở Của Lửa" # TL

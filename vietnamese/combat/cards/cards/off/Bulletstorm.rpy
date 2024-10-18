@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/off/Bulletstorm.rpy:6
     old "Bulletstorm"
-    new "Bão Đạn"
+    new "Bão Đạn" # TL

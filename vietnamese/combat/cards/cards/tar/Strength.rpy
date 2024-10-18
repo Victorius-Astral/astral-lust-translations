@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/tar/Strength.rpy:35
     old "your strength ({}) - wisdom ({})"
-    new "sức mạnh của bạn ({}) - sự thông thái ({})"
+    new "sức mạnh của bạn ({}) - sự thông thái ({})" # TL

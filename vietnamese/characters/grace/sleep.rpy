@@ -4,292 +4,292 @@
 translate vietnamese sleep_grace_758caa3e:
 
     # th "What a silly girl, even asleep."
-    th "Đúng là một cô gái ngớ ngẩn, thậm chí còn đang ngủ."
+    th "Đúng là một cô gái ngớ ngẩn, thậm chí còn đang ngủ." # TL
 
 # game/characters/grace/sleep.rpy:10
 translate vietnamese sleep_grace_d4f6e4b2:
 
     # th "Now, carefully.."
-    th "Bây giờ, cẩn thận..."
+    th "Bây giờ, cẩn thận..." # TL
 
 # game/characters/grace/sleep.rpy:32
 translate vietnamese sleep_grace_boobs_f302dcdd:
 
     # "Be it curiosity or lust, you can't contain yourself."
-    "Dù là tò mò hay ham muốn, bạn không thể kìm chế được bản thân."
+    "Dù là tò mò hay ham muốn, bạn không thể kìm chế được bản thân." # TL
 
 # game/characters/grace/sleep.rpy:33
 translate vietnamese sleep_grace_boobs_e4c279a7:
 
     # th "Damn, they are perfect fit for my hand, like they were made for it."
-    th "Damn, chúng hoàn toàn phù hợp với bàn tay của mình, giống như chúng được tạo ra cho nó."
+    th "Damn, chúng hoàn toàn phù hợp với bàn tay của mình, giống như chúng được tạo ra cho nó." # TL
 
 # game/characters/grace/sleep.rpy:36
 translate vietnamese sleep_grace_boobs_2d182abe:
 
     # th "Shit! She's waking up!"
-    th "Shit! Cô ấy đang thức dậy!"
+    th "Shit! Cô ấy đang thức dậy!" # TL
 
 # game/characters/grace/sleep.rpy:42
 translate vietnamese sleep_grace_boobs_fd0fcf4a:
 
     # "You two look at each other in awkward silence."
-    "Hai người nhìn nhau trong im lặng và khó xử."
+    "Hai người nhìn nhau trong im lặng và khó xử." # TL
 
 # game/characters/grace/sleep.rpy:45
 translate vietnamese sleep_grace_boobs_0d70e1bb:
 
     # "You took your hand off, but it was already too late."
-    "Bạn bỏ tay ra, nhưng đã quá muộn."
+    "Bạn bỏ tay ra, nhưng đã quá muộn." # TL
 
 # game/characters/grace/sleep.rpy:59
 translate vietnamese sleep_grace_boobs_hate_37713c06:
 
     # grace "What are you doing here?!"
-    grace "Anh đang làm gì ở đây?!"
+    grace "Anh đang làm gì ở đây?!" # TL
 
 # game/characters/grace/sleep.rpy:60
 translate vietnamese sleep_grace_boobs_hate_29428c38:
 
     # th "Isn't it pretty self explanatory?"
-    th "Nó không phải là một thứ có thê giải thích?"
+    th "Nó không phải là một thứ có thê giải thích?" # TL
 
 # game/characters/grace/sleep.rpy:61
 translate vietnamese sleep_grace_boobs_hate_8164aecf:
 
     # me "I wanted to ask you something."
-    me "Anh muốn hỏi em một vài thứ."
+    me "Anh muốn hỏi em một vài thứ." # TL
 
 # game/characters/grace/sleep.rpy:62
 translate vietnamese sleep_grace_boobs_hate_3978df3e:
 
     # grace "I don't want to speak with you! Get out!"
-    grace "Em không muốn nói chuyện với anh! Ra ngoài!"
+    grace "Em không muốn nói chuyện với anh! Ra ngoài!" # TL
 
 # game/characters/grace/sleep.rpy:66
 translate vietnamese sleep_grace_boobs_hate_465c9bf3:
 
     # th "It's impossible that she didn't notice I was feeling up her boob.."
-    th "Không thể nào mà em ấy không nhận ra mình đang sờ vếu em ấy..."
+    th "Không thể nào mà em ấy không nhận ra mình đang sờ vếu em ấy..." # TL
 
 # game/characters/grace/sleep.rpy:67
 translate vietnamese sleep_grace_boobs_hate_cff9fbde:
 
     # me "I'm going.."
-    me "Tôi đang đi đấy..."
+    me "Tôi đang đi đấy..." # TL
 
 # game/characters/grace/sleep.rpy:68
 translate vietnamese sleep_grace_boobs_hate_f0485cd8:
 
     # grace "Don't return."
-    grace "Đừng trở lại."
+    grace "Đừng trở lại." # TL
 
 # game/characters/grace/sleep.rpy:69
 translate vietnamese sleep_grace_boobs_hate_53a93808:
 
     # me "Alright.."
-    me "Được rồi..."
+    me "Được rồi..." # TL
 
 # game/characters/grace/sleep.rpy:72
 translate vietnamese sleep_grace_boobs_hate_d6278b8d:
 
     # th "She's sleeping already.."
-    th "Em ấy đã ngủ rồi..."
+    th "Em ấy đã ngủ rồi..." # TL
 
 # game/characters/grace/sleep.rpy:73
 translate vietnamese sleep_grace_boobs_hate_bb1cd8ef:
 
     # th "She didn't even wait for me to walk out.. Can she be really as clueless as she appears to be?"
-    th "Em ấy thậm chí còn không đợi mình bước ra ngoài... Liệu em ấy có thể thực sự vô can như vẻ ngoài của mình không?"
+    th "Em ấy thậm chí còn không đợi mình bước ra ngoài... Liệu em ấy có thể thực sự vô can như vẻ ngoài của mình không?" # TL
 
 # game/characters/grace/sleep.rpy:81
 translate vietnamese sleep_grace_boobs_dislike_ab2c39ee:
 
     # grace "What are you doing? Can't you wake me up otherwise?"
-    grace "Anh đang làm gì đấy? Anh không thể đánh thức em bằng cách khác à?"
+    grace "Anh đang làm gì đấy? Anh không thể đánh thức em bằng cách khác à?" # TL
 
 # game/characters/grace/sleep.rpy:82
 translate vietnamese sleep_grace_boobs_dislike_c8f4e6d4:
 
     # th "Wake you up? Does she think I wanted to wake her up?"
-    th "Đánh thức? Em ấy có nghĩ rằng mình muốn đánh thức em ấy không?"
+    th "Đánh thức? Em ấy có nghĩ rằng mình muốn đánh thức em ấy không?" # TL
 
 # game/characters/grace/sleep.rpy:83
 translate vietnamese sleep_grace_boobs_dislike_b847dfb7:
 
     # me "Sorry."
-    me "Xin lỗi."
+    me "Xin lỗi." # TL
 
 # game/characters/grace/sleep.rpy:84
 translate vietnamese sleep_grace_boobs_dislike_77da546f:
 
     # grace "I don't know what do you want, but I want to sleep. Leave me alone."
-    grace "Em không biết anh muốn gì, nhưng em muốn ngủ. Để em yên."
+    grace "Em không biết anh muốn gì, nhưng em muốn ngủ. Để em yên." # TL
 
 # game/characters/grace/sleep.rpy:87
 translate vietnamese sleep_grace_boobs_dislike_83cfa82f:
 
     # me "Of course.."
-    me "Tất nhiên..."
+    me "Tất nhiên..." # TL
 
 # game/characters/grace/sleep.rpy:88
 translate vietnamese sleep_grace_boobs_dislike_61bfa6df:
 
     # me "Sleep tight."
-    me "Ngủ ngon."
+    me "Ngủ ngon." # TL
 
 # game/characters/grace/sleep.rpy:91
 translate vietnamese sleep_grace_boobs_dislike_d6278b8d:
 
     # th "She's sleeping already.."
-    th "em ấy đã ngủ rồi..."
+    th "em ấy đã ngủ rồi..." # TL
 
 # game/characters/grace/sleep.rpy:92
 translate vietnamese sleep_grace_boobs_dislike_9b10ccb0:
 
     # th "Is she not going to wait for me to leave?"
-    th "Em ấy sẽ không đợi mình rời đi?"
+    th "Em ấy sẽ không đợi mình rời đi?" # TL
 
 # game/characters/grace/sleep.rpy:99
 translate vietnamese sleep_grace_boobs_like_1393076f:
 
     # grace "Are you massaging my boobs?"
-    grace "Anh đang xoa bóp ngực của em phải không??"
+    grace "Anh đang xoa bóp ngực của em phải không??" # TL
 
 # game/characters/grace/sleep.rpy:100
 translate vietnamese sleep_grace_boobs_like_7350c644:
 
     # me "Yes.."
-    me "Ừ..."
+    me "Ừ..." # TL
 
 # game/characters/grace/sleep.rpy:101
 translate vietnamese sleep_grace_boobs_like_fb1b5575:
 
     # grace "Thank you."
-    grace "Cảm ơn."
+    grace "Cảm ơn." # TL
 
 # game/characters/grace/sleep.rpy:102
 translate vietnamese sleep_grace_boobs_like_7a0ddb59:
 
     # th "Is she serious?"
-    th "Nghiêm túc hả?"
+    th "Nghiêm túc hả?" # TL
 
 # game/characters/grace/sleep.rpy:103
 translate vietnamese sleep_grace_boobs_like_f61e1b37:
 
     # grace "I'm sleepy, let's do this some other day. Alright?"
-    grace "Em buồn ngủ lắm, chúng ta hãy làm điều này vào lúc khác đi. Được chứ?"
+    grace "Em buồn ngủ lắm, chúng ta hãy làm điều này vào lúc khác đi. Được chứ?" # TL
 
 # game/characters/grace/sleep.rpy:104
 translate vietnamese sleep_grace_boobs_like_34b2a15c:
 
     # me ".. Yeah, sure. Sleep tight, [grace]."
-    me "... Ừ chắc chắn rồi. Ngủ ngon, [grace]."
+    me "... Ừ chắc chắn rồi. Ngủ ngon, [grace]." # TL
 
 # game/characters/grace/sleep.rpy:107
 translate vietnamese sleep_grace_boobs_like_a612e28c:
 
     # grace "I will. Bye~"
-    grace "Em sẽ. Bye~"
+    grace "Em sẽ. Bye~" # TL
 
 # game/characters/grace/sleep.rpy:108
 translate vietnamese sleep_grace_boobs_like_98085549:
 
     # me "See ya.."
-    me "Gặp em sau..."
+    me "Gặp em sau..." # TL
 
 # game/characters/grace/sleep.rpy:109
 translate vietnamese sleep_grace_boobs_like_7402cda2:
 
     # grace "Mm."
-    grace "Mm."
+    grace "Mm." # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:112
 translate vietnamese sleep_grace_boobs_like_d6278b8d:
 
     # th "She's sleeping already.."
-    th "Em ấy ngủ rồi..."
+    th "Em ấy ngủ rồi..." # TL
 
 translate vietnamese strings:
 
     # game/characters/grace/sleep.rpy:3
     old "Closer"
-    new "Gần hơn"
+    new "Gần hơn" # TL
 
     # game/characters/grace/sleep.rpy:7
     old "Open her pajamas"
-    new "Cởi bộ đồ ngủ"
+    new "Cởi bộ đồ ngủ" # TL
 
     # game/characters/grace/sleep.rpy:12
     old "Touch her boobs"
-    new "Chạm vào ngực em ấy"
+    new "Chạm vào ngực em ấy" # TL
 # : Translation updated at 2022-04-17 12:11
 
 # game/characters/grace/sleep.rpy:20
 translate vietnamese sleep_grace_menu_start_2421422e:
 
     # th "That's not the best idea. I should let her rest already."
-    th "Đó không phải là một ý tưởng hay đâu. Mình nên để em ấy nghỉ ."
+    th "Đó không phải là một ý tưởng hay đâu. Mình nên để em ấy nghỉ ." # TL
 
 # game/characters/grace/sleep.rpy:26
 translate vietnamese sleep_grace_menu_start_758caa3e:
 
     # th "What a silly girl, even asleep."
-    th "Thật là một cô gái ngốc nghếch, kẻ cả trong lúc ngủ ."
+    th "Thật là một cô gái ngốc nghếch, kẻ cả trong lúc ngủ ." # TL
 
 # game/characters/grace/sleep.rpy:30
 translate vietnamese sleep_grace_menu_start_d4f6e4b2:
 
     # th "Now, carefully.."
-    th "Giờ thì, cẩn thận nào.."
+    th "Giờ thì, cẩn thận nào.." # TL
 
 # game/characters/grace/sleep.rpy:147
 translate vietnamese sleep_grace_feet_34f64667:
 
     # th "She has a nice body, even her feet look nice."
-    th "Em ấy có một cơ thể đẹp, ngay cả chân của em ấy nhìn cũng đẹp nữa."
+    th "Em ấy có một cơ thể đẹp, ngay cả chân của em ấy nhìn cũng đẹp nữa." # TL
 
 # game/characters/grace/sleep.rpy:148
 translate vietnamese sleep_grace_feet_49c77dca:
 
     # th "Adorable, just like her."
-    th "Đáng yêu, y hệt như em ấy."
+    th "Đáng yêu, y hệt như em ấy." # TL
 
 # game/characters/grace/sleep.rpy:151
 translate vietnamese sleep_grace_menu_feet_32ce10af:
 
     # th "What should I do, though?" nointeract
-    th "Nhưng mà mình phải làm gì đây?" nointeract
+    th "Nhưng mà mình phải làm gì đây?" nointeract # TL
 
 # game/characters/grace/sleep.rpy:157
 translate vietnamese sleep_grace_menu_feet_a37ea2e9:
 
     # th "Man, I feel mischievous, though."
-    th "Nhưng mình cảm thấy tội lỗi quá."
+    th "Nhưng mình cảm thấy tội lỗi quá." # TL
 
 # game/characters/grace/sleep.rpy:160
 translate vietnamese sleep_grace_menu_feet_4954add1:
 
     # th "Maybe I should scare her a little?" nointeract
-    th "Có lẽ mình nên dọa cô ấy một chút?" nointeract
+    th "Có lẽ mình nên dọa cô ấy một chút?" nointeract # TL
 
 # game/characters/grace/sleep.rpy:178
 translate vietnamese sleep_grace_feet_prank_446acf90:
 
     # th "Haha, she's gonna hate me."
-    th "Haha, em ấy sẽ ghét mình mất."
+    th "Haha, em ấy sẽ ghét mình mất." # TL
 
 # game/characters/grace/sleep.rpy:182
 translate vietnamese sleep_grace_feet_prank_a2753f52:
 
     # grace "Aaahh?!"
-    grace "Aaahh?!"
+    grace "Aaahh?!" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:186
 translate vietnamese sleep_grace_feet_prank_e5c009bf:
 
     # me "Hello there."
-    me "Chào đằng ấy."
+    me "Chào đằng ấy." # TL
 
 # game/characters/grace/sleep.rpy:187
 translate vietnamese sleep_grace_feet_prank_fdb4e830:
@@ -301,7 +301,7 @@ translate vietnamese sleep_grace_feet_prank_fdb4e830:
 translate vietnamese sleep_grace_feet_prank_892987a1:
 
     # me "Did you sleep well?"
-    me "Em có ngủ ngon không?"
+    me "Em có ngủ ngon không?" # TL
 
 # game/characters/grace/sleep.rpy:192
 translate vietnamese sleep_grace_feet_prank_fdb4e830_1:
@@ -313,13 +313,13 @@ translate vietnamese sleep_grace_feet_prank_fdb4e830_1:
 translate vietnamese sleep_grace_feet_prank_abbbc6b4:
 
     # me "Hmm?"
-    me "Hmm?"
+    me "Hmm?" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:200
 translate vietnamese sleep_grace_feet_prank_8e41a3f0:
 
     # me "What are you looking for?"
-    me "Em đang tìm cái gì vậy?"
+    me "Em đang tìm cái gì vậy?" # TL
 
 # game/characters/grace/sleep.rpy:204
 translate vietnamese sleep_grace_feet_prank_1002c14a:
@@ -331,145 +331,145 @@ translate vietnamese sleep_grace_feet_prank_1002c14a:
 translate vietnamese sleep_grace_feet_prank_82f72174:
 
     # me "What do you need this broom for?"
-    me "Em cần cái chổi để làm gì vậy?"
+    me "Em cần cái chổi để làm gì vậy?" # TL
 
 # game/characters/grace/sleep.rpy:212
 translate vietnamese sleep_grace_feet_prank_8eda3dd3:
 
     # me "Oh.."
-    me "Oh.."
+    me "Oh.." # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:216
 translate vietnamese sleep_grace_feet_prank_44d18205:
 
     # grace "IDIOT!!"
-    grace "ĐỒ XẤU XA!!"
+    grace "ĐỒ XẤU XA!!" # TL
 
 # game/characters/grace/sleep.rpy:217
 translate vietnamese sleep_grace_feet_prank_57f0a9e0:
 
     # me "Fuck!"
-    me "Địt!"
+    me "Địt!" # TL
 
 # game/characters/grace/sleep.rpy:221
 translate vietnamese sleep_grace_feet_prank_d0b2a94a:
 
     # me "My head..."
-    me "Đầu của mình..."
+    me "Đầu của mình..." # TL
 
 # game/characters/grace/sleep.rpy:225
 translate vietnamese sleep_grace_feet_prank_96f26d45:
 
     # grace "I thought it's a monster! You can't scare me like this!"
-    grace "Em còn tưởng anh là quái vật đấy! Đừng dọa em như vậy nữa!"
+    grace "Em còn tưởng anh là quái vật đấy! Đừng dọa em như vậy nữa!" # TL
 
 # game/characters/grace/sleep.rpy:226
 translate vietnamese sleep_grace_feet_prank_2352c002:
 
     # me "Sorry.. That was not the smartest thing I did."
-    me "Xin lỗi... nước đi này của anh hơi sai."
+    me "Xin lỗi... nước đi này của anh hơi sai." # TL
 
 # game/characters/grace/sleep.rpy:230
 translate vietnamese sleep_grace_feet_prank_9d03f792:
 
     # grace "Why did you do that?"
-    grace "Tại sao anh lại làm vậy?"
+    grace "Tại sao anh lại làm vậy?" # TL
 
 # game/characters/grace/sleep.rpy:231
 translate vietnamese sleep_grace_feet_prank_3dc427b9:
 
     # me "I wanted to pull a prank on you."
-    me "ANh chỉ muốn đùa em một chút thôi."
+    me "ANh chỉ muốn đùa em một chút thôi." # TL
 
 # game/characters/grace/sleep.rpy:232
 translate vietnamese sleep_grace_feet_prank_90e4d63e:
 
     # grace "You wanted to scare me for fun?"
-    grace "Anh muososn dọa em chỉ để cho vui thôi á?"
+    grace "Anh muososn dọa em chỉ để cho vui thôi á?" # TL
 
 # game/characters/grace/sleep.rpy:233
 translate vietnamese sleep_grace_feet_prank_59104044:
 
     # me "Kind of.."
-    me "Kiểu vậy.."
+    me "Kiểu vậy.." # TL
 
 # game/characters/grace/sleep.rpy:234
 translate vietnamese sleep_grace_feet_prank_67e6c0e1:
 
     # grace "I see.."
-    grace "Em hiểu rồi.."
+    grace "Em hiểu rồi.." # TL
 
 # game/characters/grace/sleep.rpy:238
 translate vietnamese sleep_grace_feet_prank_c1694488:
 
     # me "H-Hey!"
-    me "N-Này!"
+    me "N-Này!" # TL
 
 # game/characters/grace/sleep.rpy:242
 translate vietnamese sleep_grace_feet_prank_6aba83f5:
 
     # me "Argh!"
-    me "Argh!"
+    me "Argh!" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:248
 translate vietnamese sleep_grace_feet_prank_821979ca:
 
     # "Along with the hit to your head, everything fades to black. With the sounds being washed out."
-    "Sau khi bị ăn một phát vào đầu, mọi thứ chuyển sang màu đen. Âm thanh bắt đầu phai dần đi."
+    "Sau khi bị ăn một phát vào đầu, mọi thứ chuyển sang màu đen. Âm thanh bắt đầu phai dần đi." # TL
 
 # game/characters/grace/sleep.rpy:249
 translate vietnamese sleep_grace_feet_prank_2f84edf7:
 
     # "A long time passed before you begin regaining consciousness."
-    "Một lúc sau bạn bắt đầu tỉnh lại."
+    "Một lúc sau bạn bắt đầu tỉnh lại." # TL
 
 # game/characters/grace/sleep.rpy:255
 translate vietnamese sleep_grace_feet_prank_dd9636c7:
 
     # me "Ahh.."
-    me "Ahh.."
+    me "Ahh.." # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:256
 translate vietnamese sleep_grace_feet_prank_676bedb5:
 
     # me "What the hell happened?"
-    me "Chuyện quái gì đã xảy ra vậy?"
+    me "Chuyện quái gì đã xảy ra vậy?" # TL
 
 # game/characters/grace/sleep.rpy:257
 translate vietnamese sleep_grace_feet_prank_a2527b37:
 
     # me "I scared [grace]. Then, she hit me unconscious.. with a broom.."
-    me "Mình dọa [grace]. Rồi, em ấy đánh mình bất tỉnh... bằng một cái chổi.."
+    me "Mình dọa [grace]. Rồi, em ấy đánh mình bất tỉnh... bằng một cái chổi.." # TL
 
 # game/characters/grace/sleep.rpy:261
 translate vietnamese sleep_grace_feet_prank_41484b78:
 
     # me "What the fuck? Is she a humanoid monster or what? Such strength.."
-    me "Cái đíu gì vậy? Em ấy là một con quái vật hình người hay sao? Cái sức mạnh như vậy..."
+    me "Cái đíu gì vậy? Em ấy là một con quái vật hình người hay sao? Cái sức mạnh như vậy..." # TL
 
 # game/characters/grace/sleep.rpy:265
 translate vietnamese sleep_grace_feet_prank_225d05ea:
 
     # me "Oh, shit. My head.."
-    me "Đậu má. Đầu của mình.."
+    me "Đậu má. Đầu của mình.." # TL
 
 # game/characters/grace/sleep.rpy:266
 translate vietnamese sleep_grace_feet_prank_36d99f9e:
 
     # me "[grace]. You should be going out to fight monsters with me. Her slender shape hides a monstrous power."
-    me "[grace]. Em nên ra ngoài để đánh quái vật với anh. Dáng người mảnh mai của em ấy ẩn chứa một sức mạnh to lớn."
+    me "[grace]. Em nên ra ngoài để đánh quái vật với anh. Dáng người mảnh mai của em ấy ẩn chứa một sức mạnh to lớn." # TL
 
 # game/characters/grace/sleep.rpy:270
 translate vietnamese sleep_grace_feet_prank_80e83a3b:
 
     # me "Was I unconscious for long?"
-    me "Mình đã bất tỉnh lâu chưa?"
+    me "Mình đã bất tỉnh lâu chưa?" # TL
 
 # game/characters/grace/sleep.rpy:271
 translate vietnamese sleep_grace_feet_prank_cc5c7691:
 
     # me "Hmm.."
-    me "Hmm.."
+    me "Hmm.." # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:275
 translate vietnamese sleep_grace_feet_prank_3820771a:
@@ -481,31 +481,31 @@ translate vietnamese sleep_grace_feet_prank_3820771a:
 translate vietnamese sleep_grace_feet_prank_1e14e917:
 
     # grace "Hello."
-    grace "Xin chào."
+    grace "Xin chào." # TL
 
 # game/characters/grace/sleep.rpy:280
 translate vietnamese sleep_grace_feet_prank_50f4a088:
 
     # me "Hey."
-    me "Hey."
+    me "Này." # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:281
 translate vietnamese sleep_grace_feet_prank_745242bf:
 
     # "You two stand looking at each other for a minute, and you can't help but start feeling awkward."
-    "Cả hai đứng nhìn nhau trong một phút, và bạn không thể không bắt đầu cảm thấy khó xử."
+    "Cả hai đứng nhìn nhau trong một phút, và bạn không thể không bắt đầu cảm thấy khó xử." # TL
 
 # game/characters/grace/sleep.rpy:282
 translate vietnamese sleep_grace_feet_prank_b0005a51:
 
     # me "Umm.."
-    me "Umm.."
+    me "Umm.." # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:286
 translate vietnamese sleep_grace_feet_prank_f451fe54:
 
     # grace "Did you sleep well?"
-    grace "Anh có ngủ ngon không?"
+    grace "Anh có ngủ ngon không?" # TL
 
 # game/characters/grace/sleep.rpy:287
 translate vietnamese sleep_grace_feet_prank_3820771a_1:
@@ -517,31 +517,31 @@ translate vietnamese sleep_grace_feet_prank_3820771a_1:
 translate vietnamese sleep_grace_feet_prank_a479137b:
 
     # me "Yeah. Thanks for asking.."
-    me "Ừ. Cảm ơn vì đã hỏi..."
+    me "Ừ. Cảm ơn vì đã hỏi..." # TL
 
 # game/characters/grace/sleep.rpy:289
 translate vietnamese sleep_grace_feet_prank_f0e36bb4:
 
     # me "I need to go."
-    me "Anh cần phải đi rồi."
+    me "Anh cần phải đi rồi." # TL
 
 # game/characters/grace/sleep.rpy:290
 translate vietnamese sleep_grace_feet_prank_7402cda2:
 
     # grace "Mm."
-    grace "Mm."
+    grace "Mm." # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:294
 translate vietnamese sleep_grace_feet_prank_9e529b65:
 
     # th "[grace] made fun of me. [grace].."
-    th "[grace] giễu cợt mình. [grace]..."
+    th "[grace] giễu cợt mình. [grace]..." # TL
 
 # game/characters/grace/sleep.rpy:295
 translate vietnamese sleep_grace_feet_prank_baf8f4db:
 
     # grace "Hehe~"
-    grace "Hehe~"
+    grace "Hehe~" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:296
 translate vietnamese sleep_grace_feet_prank_3820771a_2:
@@ -553,133 +553,133 @@ translate vietnamese sleep_grace_feet_prank_3820771a_2:
 translate vietnamese sleep_grace_feet_fun_f34d30c8:
 
     # th "I wonder what expression she would made if she woke up."
-    th "Mình tự hỏi em ấy sẽ phản ứng như thế nào nếu em ấy thức dậy."
+    th "Mình tự hỏi em ấy sẽ phản ứng như thế nào nếu em ấy thức dậy." # TL
 
 # game/characters/grace/sleep.rpy:309
 translate vietnamese sleep_grace_feet_fun_c52659d3:
 
     # th "Okay, ready to go."
-    th "Được rồi đi thôi."
+    th "Được rồi đi thôi." # TL
 
 # game/characters/grace/sleep.rpy:312
 translate vietnamese sleep_grace_feet_fun_95c41b66:
 
     # th "But, am I sure I want to do it?" nointeract
-    th "Nhưng liệu mình có chắc là mình muốn làm vậy không?" nointeract
+    th "Nhưng liệu mình có chắc là mình muốn làm vậy không?" nointeract # TL
 
 # game/characters/grace/sleep.rpy:319
 translate vietnamese sleep_grace_feet_fun_a9c28aa3:
 
     # me "Better safe than sorry."
-    me "Mà cẩn tắc vô áy náy."
+    me "Mà cẩn tắc vô áy náy." # TL
 
 # game/characters/grace/sleep.rpy:323
 translate vietnamese sleep_grace_feet_fun_af597a13:
 
     # me "Back to the start. What to do with your little feet, [grace]?"
-    me "Trở lại chủ đẻ chính nào. Anh phải làm gì với cái chân nhỏ bé của em đây [grace]?"
+    me "Trở lại chủ đẻ chính nào. Anh phải làm gì với cái chân nhỏ bé của em đây [grace]?" # TL
 
 # game/characters/grace/sleep.rpy:329
 translate vietnamese sleep_grace_feet_doit_a1f96677:
 
     # th "They say we live only once."
-    th "Thầy Huấn đã nói rồi. Liều thì ăn nhiều không liều thì ăn ít."
+    th "Thầy Huấn đã nói rồi. Liều thì ăn nhiều không liều thì ăn ít." # TL
 
 # game/characters/grace/sleep.rpy:332
 translate vietnamese sleep_grace_feet_doit_77990fe2:
 
     # th "Well.. Maybe not in my case."
-    th "Chà... có lẽ không phải trong trường hợp của mình."
+    th "Chà... có lẽ không phải trong trường hợp của mình." # TL
 
 # game/characters/grace/sleep.rpy:336
 translate vietnamese sleep_grace_feet_doit_852029c4:
 
     # th "Not too fast, not too slow. Just right."
-    th "Không quá nhanh không quá chậm. Nhọe nhoàng thôi."
+    th "Không quá nhanh không quá chậm. Nhọe nhoàng thôi." # TL
 
 # game/characters/grace/sleep.rpy:340
 translate vietnamese sleep_grace_feet_doit_a4540456:
 
     # grace "Mmn?"
-    grace "Mmn?"
+    grace "Mmn?" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:341
 translate vietnamese sleep_grace_feet_doit_20deb929:
 
     # me "Shh~"
-    me "Suỵttt~"
+    me "Suỵttt~" # TL
 
 # game/characters/grace/sleep.rpy:342
 translate vietnamese sleep_grace_feet_doit_f93fc6ce:
 
     # me "Sleep, baby girl. Just sleep."
-    me "Ngủ đi em, ngủ đi."
+    me "Ngủ đi em, ngủ đi." # TL
 
 # game/characters/grace/sleep.rpy:343
 translate vietnamese sleep_grace_feet_doit_cea3d9ce:
 
     # grace "Mmm.."
-    grace "Mmm..."
+    grace "Mmm..." # TL
 
 # game/characters/grace/sleep.rpy:344
 translate vietnamese sleep_grace_feet_doit_4775e104:
 
     # th "That was close. But if I continue she'll wake up sooner or later."
-    th "Mẹ. Tí thì niệm rồi. Nhưng nếu mình còn tiếp tục thì em ấy sẽ thức dậy mất."
+    th "Mẹ. Tí thì niệm rồi. Nhưng nếu mình còn tiếp tục thì em ấy sẽ thức dậy mất." # TL
 
 # game/characters/grace/sleep.rpy:345
 translate vietnamese sleep_grace_feet_doit_e0a8e493:
 
     # th "The risk makes it more exciting, though."
-    th "Nhưng sự mạo hiểm lại khiến mình kích thích hơn."
+    th "Nhưng sự mạo hiểm lại khiến mình kích thích hơn." # TL
 
 # game/characters/grace/sleep.rpy:351
 translate vietnamese sleep_grace_feet_doit_f8f1326b:
 
     # th "What to do?" nointeract
-    th "Phải làm gì đây?" nointeract
+    th "Phải làm gì đây?" nointeract # TL
 
 # game/characters/grace/sleep.rpy:366
 translate vietnamese sleep_grace_feet_escape_20556f0f:
 
     # me "{small}Fuck. I'm so hard right now.{/small}"
-    me "{small}Đù má. Mình nứng quá rồi.{/small}"
+    me "{small}Đù má. Mình nứng quá rồi.{/small}" # TL
 
 # game/characters/grace/sleep.rpy:367
 translate vietnamese sleep_grace_feet_escape_3e964463:
 
     # th "Ehh.. That was a bad idea."
-    th "Ehh... Đó là một ý tưởng tồi."
+    th "Ehh... Đó là một ý tưởng tồi." # TL
 
 # game/characters/grace/sleep.rpy:374
 translate vietnamese sleep_grace_feet_end_93531434:
 
     # me "Mmm.. Just a while longer."
-    me "Mmm... Một chút nữa thôi."
+    me "Mmm... Một chút nữa thôi." # TL
 
 # game/characters/grace/sleep.rpy:375
 translate vietnamese sleep_grace_feet_end_4a8a1513:
 
     # th "I can't say that I have it bad here, though."
-    th "Nhưng mà..."
+    th "Nhưng mà..." # TL
 
 # game/characters/grace/sleep.rpy:376
 translate vietnamese sleep_grace_feet_end_199c4f56:
 
     # th "Why would I resort to doing this night 'adventure'?"
-    th "Tại sao mình lại đi thực hiện cuộc 'phiêu lưu' vào đêm này vậy?"
+    th "Tại sao mình lại đi thực hiện cuộc 'phiêu lưu' vào đêm này vậy?" # TL
 
 # game/characters/grace/sleep.rpy:377
 translate vietnamese sleep_grace_feet_end_bbc83673:
 
     # th "Eh, I can't be helped. We all have our quirks."
-    th "Eh."
+    th "Eh." # TL
 
 # game/characters/grace/sleep.rpy:383
 translate vietnamese sleep_grace_feet_end_07c31502:
 
     # grace "What's going on?"
-    grace "Chuyện gì đang xảy ra vậy?"
+    grace "Chuyện gì đang xảy ra vậy?" # TL
 
 # game/characters/grace/sleep.rpy:387
 translate vietnamese sleep_grace_feet_end_3820771a:
@@ -691,181 +691,181 @@ translate vietnamese sleep_grace_feet_end_3820771a:
 translate vietnamese sleep_grace_feet_end_71ab2ef0:
 
     # th "What the fuck did I expect?"
-    th "Mình mong đợi cái đíu gì vậy?"
+    th "Mình mong đợi cái đíu gì vậy?" # TL
 
 # game/characters/grace/sleep.rpy:389
 translate vietnamese sleep_grace_feet_end_2d81b83b:
 
     # grace "[me]? What are you doing?"
-    grace "[me]? Anh đang làm gì thế?"
+    grace "[me]? Anh đang làm gì thế?" # TL
 
 # game/characters/grace/sleep.rpy:390
 translate vietnamese sleep_grace_feet_end_058ebf9d:
 
     # th "I'm done."
-    th "Thôi xong."
+    th "Thôi xong." # TL
 
 # game/characters/grace/sleep.rpy:394
 translate vietnamese sleep_grace_feet_end_8fcec24a:
 
     # me "I was just.."
-    me "Anh chỉ..."
+    me "Anh chỉ..." # TL
 
 # game/characters/grace/sleep.rpy:395
 translate vietnamese sleep_grace_feet_end_80139a88:
 
     # grace "Why is your thing out? Y-You.."
-    grace "Tại sao cái thứ đó của anh lại thò ra ngoài thế kia? Anh..."
+    grace "Tại sao cái thứ đó của anh lại thò ra ngoài thế kia? Anh..." # TL
 
 # game/characters/grace/sleep.rpy:396
 translate vietnamese sleep_grace_feet_end_93363f9a:
 
     # me "Hey, that's not what it looks like!"
-    me "Không phải là như em nghĩ đâu!"
+    me "Không phải là như em nghĩ đâu!" # TL
 
 # game/characters/grace/sleep.rpy:400
 translate vietnamese sleep_grace_feet_end_d6797681:
 
     # grace "You tried to pee on me?!"
-    grace "Anh định tè vào người em hả?!"
+    grace "Anh định tè vào người em hả?!" # TL
 
 # game/characters/grace/sleep.rpy:401
 translate vietnamese sleep_grace_feet_end_93ba30a6:
 
     # me "Eh? What?"
-    me "Eh? Cái gì?"
+    me "Eh? Cái gì?" # TL
 
 # game/characters/grace/sleep.rpy:406
 translate vietnamese sleep_grace_feet_end_83ba2779:
 
     # grace "YOU ARE BAD!!"
-    grace "ANH THẬT LÀ XẤU XA!!"
+    grace "ANH THẬT LÀ XẤU XA!!" # TL
 
 # game/characters/grace/sleep.rpy:407
 translate vietnamese sleep_grace_feet_end_2a52ea7d:
 
     # th "It's good that I'm not the biggest idiot here, though."
-    th "Thật tốt vì mình không phải là người ngốc nhất ở đây."
+    th "Thật tốt vì mình không phải là người ngốc nhất ở đây." # TL
 
 # game/characters/grace/sleep.rpy:408
 translate vietnamese sleep_grace_feet_end_3959047c:
 
     # me "[grace], list-"
-    me "[grace], Nghe n-"
+    me "[grace], Nghe n-" # TL
 
 # game/characters/grace/sleep.rpy:409
 translate vietnamese sleep_grace_feet_end_4e55c466:
 
     # grace "Get out!"
-    grace "Ra ngoài!"
+    grace "Ra ngoài!" # TL
 
 # game/characters/grace/sleep.rpy:410
 translate vietnamese sleep_grace_feet_end_4fa3f40d:
 
     # me "Okay, okay. I'm sorry."
-    me "Được rồi, được rồi. Anh xin lỗi."
+    me "Được rồi, được rồi. Anh xin lỗi." # TL
 
 # game/characters/grace/sleep.rpy:411
 translate vietnamese sleep_grace_feet_end_00cf3065:
 
     # grace "Out!"
-    grace "Ra!"
+    grace "Ra!" # TL
 
 # game/characters/grace/sleep.rpy:412
 translate vietnamese sleep_grace_feet_end_b7051bd1:
 
     # me "I'm really sorry, it was just a joke."
-    me "Anh thật sự rất xin lỗi, nó chỉ là một trò đùa thôi."
+    me "Anh thật sự rất xin lỗi, nó chỉ là một trò đùa thôi." # TL
 
 # game/characters/grace/sleep.rpy:413
 translate vietnamese sleep_grace_feet_end_b9a76ef4:
 
     # grace "Grr!"
-    grace "Grr!"
+    grace "Grr!" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:420
 translate vietnamese sleep_grace_feet_end_b38e8b9a:
 
     # me "Okay, okay. I'm going back."
-    me "Được rồi, được rồi. Anh đi đây."
+    me "Được rồi, được rồi. Anh đi đây." # TL
 
 # game/characters/grace/sleep.rpy:421
 translate vietnamese sleep_grace_feet_end_98f52fa9:
 
     # th "That was close, shit. I should apologize to her tomorrow, or she would not forget about it easily."
-    th "Tí nữa thì. Mình nên xin lỗi em ấy vào ngày mai, nếu không em ấy sẽ không quên vụ này đi đâu."
+    th "Tí nữa thì. Mình nên xin lỗi em ấy vào ngày mai, nếu không em ấy sẽ không quên vụ này đi đâu." # TL
 
 # game/characters/grace/sleep.rpy:430
 translate vietnamese sleep_grace_feet_wakeup_57c0d8a4:
 
     # me "[grace]. Wake up!"
-    me "[grace]. Dậy đi!"
+    me "[grace]. Dậy đi!" # TL
 
 # game/characters/grace/sleep.rpy:434
 translate vietnamese sleep_grace_feet_wakeup_484d7f53:
 
     # grace "Nn. Sleep."
-    grace "Nn. Ngủ."
+    grace "Nn. Ngủ." # TL
 
 # game/characters/grace/sleep.rpy:435
 translate vietnamese sleep_grace_feet_wakeup_1e904823:
 
     # me "No sleeping, I need your help!"
-    me "Không ngủ nữa, anh cần sự giúp đỡ của em!"
+    me "Không ngủ nữa, anh cần sự giúp đỡ của em!" # TL
 
 # game/characters/grace/sleep.rpy:436
 translate vietnamese sleep_grace_feet_wakeup_82bac58a:
 
     # grace "My help?"
-    grace "Sự giúp đỡ của em?"
+    grace "Sự giúp đỡ của em?" # TL
 
 # game/characters/grace/sleep.rpy:437
 translate vietnamese sleep_grace_feet_wakeup_ecd768ba:
 
     # me "Yeah."
-    me "Yeah."
+    me "Ừ." # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:438
 translate vietnamese sleep_grace_feet_wakeup_ad7e2c35:
 
     # grace "Alright.."
-    grace "Được thôi.."
+    grace "Được thôi.." # TL
 
 # game/characters/grace/sleep.rpy:442
 translate vietnamese sleep_grace_feet_wakeup_2c36057a:
 
     # me "I need you to make me happy."
-    me "Anh cần em làm cho anh hạnh phúc."
+    me "Anh cần em làm cho anh hạnh phúc." # TL
 
 # game/characters/grace/sleep.rpy:443
 translate vietnamese sleep_grace_feet_wakeup_3b0864f8:
 
     # grace "How?"
-    grace "Bằng cách nào?"
+    grace "Bằng cách nào?" # TL
 
 # game/characters/grace/sleep.rpy:444
 translate vietnamese sleep_grace_feet_wakeup_3520217d:
 
     # me "By moving your feet on my penis."
-    me "Bằng cách di chuyển chân của em trên dương vật của anh."
+    me "Bằng cách di chuyển chân của em trên dương vật của anh." # TL
 
 # game/characters/grace/sleep.rpy:445
 translate vietnamese sleep_grace_feet_wakeup_fecf9699:
 
     # grace "How is it going to make you happy?"
-    grace "Nó làm cho anh hạnh phúc kiểu gì được?"
+    grace "Nó làm cho anh hạnh phúc kiểu gì được?" # TL
 
 # game/characters/grace/sleep.rpy:446
 translate vietnamese sleep_grace_feet_wakeup_cdec3200:
 
     # me "It just will, don't worry."
-    me "Tất nhiên là được mà, đừng lo."
+    me "Tất nhiên là được mà, đừng lo." # TL
 
 # game/characters/grace/sleep.rpy:447
 translate vietnamese sleep_grace_feet_wakeup_56b4464f:
 
     # grace "You are weird."
-    grace "Anh thật là kỳ lạ."
+    grace "Anh thật là kỳ lạ." # TL
 
 # game/characters/grace/sleep.rpy:448
 translate vietnamese sleep_grace_feet_wakeup_d25d47b9:
@@ -877,85 +877,85 @@ translate vietnamese sleep_grace_feet_wakeup_d25d47b9:
 translate vietnamese sleep_grace_feet_wakeup_1780e30f:
 
     # grace "I said that I'll do it only once!"
-    grace "Em đã nói là em chỉ làm có một lần thôi mà!"
+    grace "Em đã nói là em chỉ làm có một lần thôi mà!" # TL
 
 # game/characters/grace/sleep.rpy:456
 translate vietnamese sleep_grace_feet_wakeup_88497b33:
 
     # me "[grace]. Do it for me. We are friends. Are we?"
-    me "[grace]. Hãy làm vì anh đi. Chúng ta là bạn mà, phải không?"
+    me "[grace]. Hãy làm vì anh đi. Chúng ta là bạn mà, phải không?" # TL
 
 # game/characters/grace/sleep.rpy:457
 translate vietnamese sleep_grace_feet_wakeup_c578d8fa:
 
     # grace "We are.."
-    grace "Ừ..."
+    grace "Ừ..." # TL
 
 # game/characters/grace/sleep.rpy:458
 translate vietnamese sleep_grace_feet_wakeup_f660d172:
 
     # me "So?"
-    me "Nên?"
+    me "Nên?" # TL
 
 # game/characters/grace/sleep.rpy:462
 translate vietnamese sleep_grace_feet_wakeup_4ac05ac9:
 
     # grace "Next time!"
-    grace "Lần sau đi!"
+    grace "Lần sau đi!" # TL
 
 # game/characters/grace/sleep.rpy:463
 translate vietnamese sleep_grace_feet_wakeup_53a93808:
 
     # me "Alright.."
-    me "Được rồi.."
+    me "Được rồi.." # TL
 
 # game/characters/grace/sleep.rpy:464
 translate vietnamese sleep_grace_feet_wakeup_072a1e15:
 
     # grace "*Snore*~"
-    grace "*Khò*~"
+    grace "*Khò*~" # TL
 
 # game/characters/grace/sleep.rpy:465
 translate vietnamese sleep_grace_feet_wakeup_a4a8a909:
 
     # me "That was quick.."
-    me "Nha vãi..."
+    me "Nha vãi..." # TL
 
 # game/characters/grace/sleep.rpy:466
 translate vietnamese sleep_grace_feet_wakeup_4c5161fe:
 
     # me "Sleep tight, [grace]."
-    me "Ngủ ngon nha, [grace]."
+    me "Ngủ ngon nha, [grace]." # TL
 
 # game/characters/grace/sleep.rpy:467
 translate vietnamese sleep_grace_feet_wakeup_1f502322:
 
     # grace "Mm. Bye~"
-    grace "Mm. Bye~"
+    grace "Mm. Tạm biệt~" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:468
 translate vietnamese sleep_grace_feet_wakeup_7f9a0ce2:
 
     # th "Is she.. pretending to sleep?"
-    th "Em ấy... giả vờ ngủ sao?"
+    th "Em ấy... giả vờ ngủ sao?" # TL
 
 # game/characters/grace/sleep.rpy:481
 translate vietnamese sleep_grace_feet_wakeup_4f6146a8:
 
     # grace "Sleep! [[{cha}Charisma check{/cha} {bad}failed{/bad}]"
-    grace "Ngủ! [[{cha}Sức thu hút{/cha} {bad}không đủ{/bad}]"
+    grace "Ngủ! [[{cha}Sức thu hút{/cha} {bad}không đủ{/bad}]" # TL
 
 # game/characters/grace/sleep.rpy:482
 translate vietnamese sleep_grace_feet_wakeup_1140b3b1:
 
     # me "Hear me ou-"
-    me "Nghe anh n-"
+    me "Nghe anh n-" # TL
 
 # game/characters/grace/sleep.rpy:483
 translate vietnamese sleep_grace_feet_wakeup_e29df427:
 
     # grace "*Snore*"
-    grace "*Khò*"
+    grace "*Khò*" # TL
 
 # game/characters/grace/sleep.rpy:484
 translate vietnamese sleep_grace_feet_wakeup_3820771a:
@@ -967,13 +967,13 @@ translate vietnamese sleep_grace_feet_wakeup_3820771a:
 translate vietnamese sleep_grace_feet_wakeup_0bb8000d:
 
     # me "Eh, sleep tight."
-    me "Ể, Ngủ ngon."
+    me "Ể, Ngủ ngon." # TL
 
 # game/characters/grace/sleep.rpy:486
 translate vietnamese sleep_grace_feet_wakeup_7402cda2:
 
     # grace "Mm."
-    grace "Mm."
+    grace "Mm." # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:487
 translate vietnamese sleep_grace_feet_wakeup_3820771a_1:
@@ -985,433 +985,433 @@ translate vietnamese sleep_grace_feet_wakeup_3820771a_1:
 translate vietnamese sleep_grace_feet_wakeup_success_a81a152a:
 
     # grace "Does it have to be now, can't it wait till morning? [[{cha}Charisma check{/cha} {trust}passed{/trust}]"
-    grace "Có nhất thiết phải là bây giờ không, sáng mai làm không được à? [[{cha}Charisma check{/cha} {trust}passed{/trust}]"
+    grace "Có nhất thiết phải là bây giờ không, sáng mai làm không được à? [[{cha}Charisma check{/cha} {trust}passed{/trust}]" # TL
 
 # game/characters/grace/sleep.rpy:495
 translate vietnamese sleep_grace_feet_wakeup_success_4227a8f5:
 
     # me "No, [grace]. If it waits the opportunity will be lost."
-    me "Không đâu [grace]. Nếu phải chờ đợi thì cơ hội sẽ vụt mất đấy."
+    me "Không đâu [grace]. Nếu phải chờ đợi thì cơ hội sẽ vụt mất đấy." # TL
 
 # game/characters/grace/sleep.rpy:496
 translate vietnamese sleep_grace_feet_wakeup_success_48db2330:
 
     # grace "I see. Alright, but only this once!"
-    grace "Được rồi, nhưng mà chỉ lần này thôi đấy!"
+    grace "Được rồi, nhưng mà chỉ lần này thôi đấy!" # TL
 
 # game/characters/grace/sleep.rpy:497
 translate vietnamese sleep_grace_feet_wakeup_success_aa93b10c:
 
     # me "Good girl."
-    me "Ngoan lắm."
+    me "Ngoan lắm." # TL
 
 # game/characters/grace/sleep.rpy:501
 translate vietnamese sleep_grace_feet_wakeup_success_7182db8a:
 
     # grace "Mm~"
-    grace "Mm~"
+    grace "Mm~" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:502
 translate vietnamese sleep_grace_feet_wakeup_success_59b3cf74:
 
     # grace "Come, sit down."
-    grace "Đến đây, ngồi xuống đi."
+    grace "Đến đây, ngồi xuống đi." # TL
 
 # game/characters/grace/sleep.rpy:506
 translate vietnamese sleep_grace_feet_wakeup_success_fd10ac84:
 
     # grace "Umm.. Is there any special way I should be doing it?"
-    grace "Umm... Có cái gì đặc biệt mà em nên làm không ?"
+    grace "Umm... Có cái gì đặc biệt mà em nên làm không ?" # TL
 
 # game/characters/grace/sleep.rpy:507
 translate vietnamese sleep_grace_feet_wakeup_success_83d4f365:
 
     # me "Not really. Just move your feet up and down, it will feel good."
-    me "Cũng không hẳn. Chỉ cần cần dùng chân của em di chuyển lên xuống là được rồi."
+    me "Cũng không hẳn. Chỉ cần cần dùng chân của em di chuyển lên xuống là được rồi." # TL
 
 # game/characters/grace/sleep.rpy:508
 translate vietnamese sleep_grace_feet_wakeup_success_fcbc2982:
 
     # th "Well, just looking at you feels good, though. Now that I think of it."
-    th "Tuy nhiên, chỉ cần nhìn vào em cũng cảm thấy dễ chịu rồi."
+    th "Tuy nhiên, chỉ cần nhìn vào em cũng cảm thấy dễ chịu rồi." # TL
 
 # game/characters/grace/sleep.rpy:511
 translate vietnamese sleep_grace_feet_wakeup_success_09312edb:
 
     # th "Maybe she could change for me into something sexy." nointeract
-    th "Có lẽ em ấy có thể thay sang một bộ đồ nào đó sexy." nointeract
+    th "Có lẽ em ấy có thể thay sang một bộ đồ nào đó sexy." nointeract # TL
 
 # game/characters/grace/sleep.rpy:520
 translate vietnamese sleep_grace_feet_wakeup_success_3d03420a:
 
     # grace "Change?"
-    grace "Thay đồ á?"
+    grace "Thay đồ á?" # TL
 
 # game/characters/grace/sleep.rpy:521
 translate vietnamese sleep_grace_feet_wakeup_success_bc215822:
 
     # me "Yeah, I think it's gonna be nice."
-    me "Đúng rồi, anh nghĩ là vậy sẽ tốt hơn."
+    me "Đúng rồi, anh nghĩ là vậy sẽ tốt hơn." # TL
 
 # game/characters/grace/sleep.rpy:522
 translate vietnamese sleep_grace_feet_wakeup_success_098faf91:
 
     # grace "I want to sleep.. I don't want to change at all."
-    grace "Em muốn ngủ. Em không muốn thay đồ một chút nào hết."
+    grace "Em muốn ngủ. Em không muốn thay đồ một chút nào hết." # TL
 
 # game/characters/grace/sleep.rpy:523
 translate vietnamese sleep_grace_feet_wakeup_success_14617965:
 
     # me "Do it, just for me, [grace]."
-    me "Làm điều này cho anh đi [grace]."
+    me "Làm điều này cho anh đi [grace]." # TL
 
 # game/characters/grace/sleep.rpy:524
 translate vietnamese sleep_grace_feet_wakeup_success_51a52b10:
 
     # grace "I don't know. I'm tired, can't we just get this over with?"
-    grace "Em không biết nữa. Em đang mệt lắm, chúng ta làm cho qua chuyện này được không?"
+    grace "Em không biết nữa. Em đang mệt lắm, chúng ta làm cho qua chuyện này được không?" # TL
 
 # game/characters/grace/sleep.rpy:525
 translate vietnamese sleep_grace_feet_wakeup_success_ed62defc:
 
     # me "Just take of your pants, and put stocking on. It's not a lot of work. I'm sure you can do it for me."
-    me "Em chỉ cần cởi quần, và mặc tất dài vào là được. Nó không phải là quá nhiều việc hay gì đâu. Anh chắc là em em có thể làm điều này cho anh mà."
+    me "Em chỉ cần cởi quần, và mặc tất dài vào là được. Nó không phải là quá nhiều việc hay gì đâu. Anh chắc là em em có thể làm điều này cho anh mà." # TL
 
 # game/characters/grace/sleep.rpy:529
 translate vietnamese sleep_grace_feet_wakeup_success_f0022717:
 
     # grace "Mm.. I can do it."
-    grace "Mm... Em có thể làm việc đó."
+    grace "Mm... Em có thể làm việc đó." # TL
 
 # game/characters/grace/sleep.rpy:530
 translate vietnamese sleep_grace_feet_wakeup_success_991e0aee:
 
     # me "Good girl, I knew I can count of you."
-    me "Ngoan lắm, anh biết là có thể trông cậy vòa em mà."
+    me "Ngoan lắm, anh biết là có thể trông cậy vòa em mà." # TL
 
 # game/characters/grace/sleep.rpy:534
 translate vietnamese sleep_grace_feet_wakeup_success_d8769c30:
 
     # grace "Mm!"
-    grace "Mm!"
+    grace "Mm!" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:538
 translate vietnamese sleep_grace_feet_wakeup_success_504b9f10:
 
     # grace "Give me a second." id sleep_grace_feet_wakeup_success_504b9f10
-    grace "Đợi em một chút." id sleep_grace_feet_wakeup_success_504b9f10
+    grace "Đợi em một chút." id sleep_grace_feet_wakeup_success_504b9f10 # TL
 
 # game/characters/grace/sleep.rpy:539
 translate vietnamese sleep_grace_feet_wakeup_success_ecb6f2f9:
 
     # me "Take your time."
-    me "Cứ thong thả đi."
+    me "Cứ thong thả đi." # TL
 
 # game/characters/grace/sleep.rpy:543
 translate vietnamese sleep_grace_feet_wakeup_success_d8517269:
 
     # grace "Done. Do I look better?"
-    grace "Xong. Nhìn em có tốt hơn chưa?"
+    grace "Xong. Nhìn em có tốt hơn chưa?" # TL
 
 # game/characters/grace/sleep.rpy:544
 translate vietnamese sleep_grace_feet_wakeup_success_8f2ec2d9:
 
     # me "Turn around."
-    me "Quay ra đằng sau đi."
+    me "Quay ra đằng sau đi." # TL
 
 # game/characters/grace/sleep.rpy:548
 translate vietnamese sleep_grace_feet_wakeup_success_35dbd28b:
 
     # th "That ass, though."
-    th "Quả giò này."
+    th "Quả giò này." # TL
 
 # game/characters/grace/sleep.rpy:552
 translate vietnamese sleep_grace_feet_wakeup_success_6becca11:
 
     # grace "What do you think?"
-    grace "Anh nghĩ sao?"
+    grace "Anh nghĩ sao?" # TL
 
 # game/characters/grace/sleep.rpy:553
 translate vietnamese sleep_grace_feet_wakeup_success_723f275b:
 
     # me "Extraterrestrial."
-    me "Ra gì đấy."
+    me "Ra gì đấy." # TL
 
 # game/characters/grace/sleep.rpy:557
 translate vietnamese sleep_grace_feet_wakeup_success_02296825:
 
     # grace "What does it mean?"
-    grace "Là sao?"
+    grace "Là sao?" # TL
 
 # game/characters/grace/sleep.rpy:558
 translate vietnamese sleep_grace_feet_wakeup_success_5a05995f:
 
     # me "Extraterrestrial means out of this world."
-    me "Nó có nghĩa là em rất đẹp."
+    me "Nó có nghĩa là em rất đẹp." # TL
 
 # game/characters/grace/sleep.rpy:559
 translate vietnamese sleep_grace_feet_wakeup_success_19cdc3bc:
 
     # grace "Oh."
-    grace "Oh."
+    grace "Ồ." # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:564
 translate vietnamese sleep_grace_feet_wakeup_success_baf8f4db:
 
     # grace "Hehe~"
-    grace "Hehe~"
+    grace "Hehe~" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:565
 translate vietnamese sleep_grace_feet_wakeup_success_daed0a9b:
 
     # th "Haha, she's so easy to please."
-    th "Haha, Em ấy rất dễ nịnh."
+    th "Haha, Em ấy rất dễ nịnh." # TL
 
 # game/characters/grace/sleep.rpy:573
 translate vietnamese sleep_grace_feet_wakeup_success2_b7adc4ab:
 
     # me "Can you let me see your titties?"
-    me "Em cho thể cho anh nhìn ngực đợc không?"
+    me "Em cho thể cho anh nhìn ngực đợc không?" # TL
 
 # game/characters/grace/sleep.rpy:577
 translate vietnamese sleep_grace_feet_wakeup_success2_006dd55f:
 
     # grace "Why?"
-    grace "Tại sao?"
+    grace "Tại sao?" # TL
 
 # game/characters/grace/sleep.rpy:578
 translate vietnamese sleep_grace_feet_wakeup_success2_3c0c4155:
 
     # me "Looking at them makes me happy. They are just like you, beautiful."
-    me "Nhìn vòa chúng sẽ khiến anh hạnh phúc. Chúng rất đẹp, y hệt như em vậy."
+    me "Nhìn vòa chúng sẽ khiến anh hạnh phúc. Chúng rất đẹp, y hệt như em vậy." # TL
 
 # game/characters/grace/sleep.rpy:583
 translate vietnamese sleep_grace_feet_wakeup_success2_baf8f4db:
 
     # grace "Hehe~"
-    grace "Hehe~"
+    grace "Hehe~" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:587
 translate vietnamese sleep_grace_feet_wakeup_success2_b32a8382:
 
     # grace "Here!"
-    grace "Đây!"
+    grace "Đây!" # TL
 
 # game/characters/grace/sleep.rpy:588
 translate vietnamese sleep_grace_feet_wakeup_success2_8adfafd8:
 
     # me "Thanks, [grace]."
-    me "Cảm ơn, [grace]."
+    me "Cảm ơn, [grace]." # TL
 
 # game/characters/grace/sleep.rpy:589
 translate vietnamese sleep_grace_feet_wakeup_success2_7adae981:
 
     # grace "Do I start moving?"
-    grace "Em bắt đầu di chuyển được chưa?"
+    grace "Em bắt đầu di chuyển được chưa?" # TL
 
 # game/characters/grace/sleep.rpy:590
 translate vietnamese sleep_grace_feet_wakeup_success2_acb1531a:
 
     # me "Yeah, that would be perfect."
-    me "Ừ, bắt đầu đi em."
+    me "Ừ, bắt đầu đi em." # TL
 
 # game/characters/grace/sleep.rpy:591
 translate vietnamese sleep_grace_feet_wakeup_success2_d8769c30:
 
     # grace "Mm!"
-    grace "Mm!"
+    grace "Mm!" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:595
 translate vietnamese sleep_grace_feet_wakeup_success2_b8eab702:
 
     # th "Good goddess, what I was sneaking around for?"
-    th "Lậy chúa trên cao, mình phải lén lút để làm cái gì cơ chứ?"
+    th "Lậy chúa trên cao, mình phải lén lút để làm cái gì cơ chứ?" # TL
 
 # game/characters/grace/sleep.rpy:596
 translate vietnamese sleep_grace_feet_wakeup_success2_676bb29c:
 
     # th "This cutie did this out of her own volition."
-    th "Cô gái dễ thương này đã làm điều này vì ý muốn của mình."
+    th "Cô gái dễ thương này đã làm điều này vì ý muốn của mình." # TL
 
 # game/characters/grace/sleep.rpy:597
 translate vietnamese sleep_grace_feet_wakeup_success2_26f92791:
 
     # grace "Am I doing it right?"
-    grace "Em có làm đúng không?"
+    grace "Em có làm đúng không?" # TL
 
 # game/characters/grace/sleep.rpy:598
 translate vietnamese sleep_grace_feet_wakeup_success2_042ade4d:
 
     # me "Yeah. You are great, [grace]."
-    me "Có, em làm tốt lắm, [grace]."
+    me "Có, em làm tốt lắm, [grace]." # TL
 
 # game/characters/grace/sleep.rpy:599
 translate vietnamese sleep_grace_feet_wakeup_success2_baf8f4db_1:
 
     # grace "Hehe~"
-    grace "Hehe~"
+    grace "Hehe~" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:600
 translate vietnamese sleep_grace_feet_wakeup_success2_58e7dd3b:
 
     # me "Mmm~"
-    me "Mmm~"
+    me "Mmm~" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:601
 translate vietnamese sleep_grace_feet_wakeup_success2_46cb65ee:
 
     # "You couldn't help it as a moan escaped your mouth."
-    "Không thể cưỡng lại được, một tiếng rên thoát ra khỏi miệng bạn."
+    "Không thể cưỡng lại được, một tiếng rên thoát ra khỏi miệng bạn." # TL
 
 # game/characters/grace/sleep.rpy:602
 translate vietnamese sleep_grace_feet_wakeup_success2_5f53a66e:
 
     # "Not only what she does, but how she looks makes it so good."
-    "Không chỉ những gì em ấy làm, mà cả vẻ ngoài của cũng khiến nó trở nên tuyệt vời."
+    "Không chỉ những gì em ấy làm, mà cả vẻ ngoài của cũng khiến nó trở nên tuyệt vời." # TL
 
 # game/characters/grace/sleep.rpy:603
 translate vietnamese sleep_grace_feet_wakeup_success2_b2b688a6:
 
     # "[grace] is beautiful, her body slender and her feet well shaped. Truly a little angel out of the dreamland."
-    "[grace] em ấy rất xinh đẹp, thân hình mảnh mai và một một cặp giờ đầy đặn. Thực sự là một thiên thần nhỏ đến từ cõi mộng mơ."
+    "[grace] em ấy rất xinh đẹp, thân hình mảnh mai và một một cặp giờ đầy đặn. Thực sự là một thiên thần nhỏ đến từ cõi mộng mơ." # TL
 
 # game/characters/grace/sleep.rpy:607
 translate vietnamese sleep_grace_feet_wakeup_success2_7d84168d:
 
     # grace "Does it feel better if I do it like this?"
-    grace "Có cảm thấy tốt hơn không nếu em làm như thế này?"
+    grace "Có cảm thấy tốt hơn không nếu em làm như thế này?" # TL
 
 # game/characters/grace/sleep.rpy:608
 translate vietnamese sleep_grace_feet_wakeup_success2_268c44fc:
 
     # me "Mmm.."
-    me "Mmm..."
+    me "Mmm..." # TL
 
 # game/characters/grace/sleep.rpy:609
 translate vietnamese sleep_grace_feet_wakeup_success2_abc10971:
 
     # me "Yeah, that's a good direction. That was a smart move."
-    me "Yeah, nước đi hay đấy."
+    me "Yeah, nước đi hay đấy." # TL
 
 # game/characters/grace/sleep.rpy:610
 translate vietnamese sleep_grace_feet_wakeup_success2_baf8f4db_2:
 
     # grace "Hehe~"
-    grace "Hehe~"
+    grace "Hehe~" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:611
 translate vietnamese sleep_grace_feet_wakeup_success2_152d58f0:
 
     # grace "I have an idea!"
-    grace "Em có ý này!"
+    grace "Em có ý này!" # TL
 
 # game/characters/grace/sleep.rpy:612
 translate vietnamese sleep_grace_feet_wakeup_success2_762abff7:
 
     # me "Oh?"
-    me "Oh?"
+    me "Ồ?" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:616
 translate vietnamese sleep_grace_feet_wakeup_success2_46d27802:
 
     # me "I see."
-    me "Anh hiểu rồi."
+    me "Anh hiểu rồi." # TL
 
 # game/characters/grace/sleep.rpy:617
 translate vietnamese sleep_grace_feet_wakeup_success2_8d2cdf64:
 
     # me "Ahh~"
-    me "Ahh~"
+    me "Ahh~" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:618
 translate vietnamese sleep_grace_feet_wakeup_success2_b4d39cf4:
 
     # grace "How is it?"
-    grace "Thế nào?"
+    grace "Thế nào?" # TL
 
 # game/characters/grace/sleep.rpy:619
 translate vietnamese sleep_grace_feet_wakeup_success2_7d04037a:
 
     # me "It's nice, very nice, actually."
-    me "Tuyệt lắm, tuyệt lắm."
+    me "Tuyệt lắm, tuyệt lắm." # TL
 
 # game/characters/grace/sleep.rpy:620
 translate vietnamese sleep_grace_feet_wakeup_success2_baf8f4db_3:
 
     # grace "Hehe~"
-    grace "Hehe~"
+    grace "Hehe~" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:621
 translate vietnamese sleep_grace_feet_wakeup_success2_aac9cd1d:
 
     # grace "But.."
-    grace "Nhưng..."
+    grace "Nhưng..." # TL
 
 # game/characters/grace/sleep.rpy:622
 translate vietnamese sleep_grace_feet_wakeup_success2_475af766:
 
     # me "What's wrong?"
-    me "Có chuyện gì vậy?"
+    me "Có chuyện gì vậy?" # TL
 
 # game/characters/grace/sleep.rpy:623
 translate vietnamese sleep_grace_feet_wakeup_success2_9fd6b876:
 
     # grace "How long do I do this?"
-    grace "Em phải làm vậy trong bao lâu nữa?"
+    grace "Em phải làm vậy trong bao lâu nữa?" # TL
 
 # game/characters/grace/sleep.rpy:624
 translate vietnamese sleep_grace_feet_wakeup_success2_2b95eaa3:
 
     # me "Just a little longer, dear. Can you manage?"
-    me "Chỉ một chút nữa thôi. Em làm được chứ?"
+    me "Chỉ một chút nữa thôi. Em làm được chứ?" # TL
 
 # game/characters/grace/sleep.rpy:625
 translate vietnamese sleep_grace_feet_wakeup_success2_d8769c30_1:
 
     # grace "Mm!"
-    grace "Mm!"
+    grace "Mm!" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:626
 translate vietnamese sleep_grace_feet_wakeup_success2_aa93b10c:
 
     # me "Good girl."
-    me "Cô gái ngoan."
+    me "Cô gái ngoan." # TL
 
 # game/characters/grace/sleep.rpy:627
 translate vietnamese sleep_grace_feet_wakeup_success2_7182db8a:
 
     # grace "Mm~"
-    grace "Mm~"
+    grace "Mm~" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:628
 translate vietnamese sleep_grace_feet_wakeup_success2_53d7c715:
 
     # me "I'm about to-"
-    me "Anh sắ-"
+    me "Anh sắ-" # TL
 
 # game/characters/grace/sleep.rpy:632
 translate vietnamese sleep_grace_feet_wakeup_success2_8688b6e8:
 
     # me "Ah!"
-    me "Ah!"
+    me "Ah!" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:633
 translate vietnamese sleep_grace_feet_wakeup_success2_40c8b247:
 
     # grace "Ehh?!"
-    grace "Ehh?!"
+    grace "Ehh?!" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:637
 translate vietnamese sleep_grace_feet_wakeup_success2_6396f118:
 
     # me "Nice. I feel better already."
-    me "Tuyệt. Anh cảm thấy tốt hơn rồi."
+    me "Tuyệt. Anh cảm thấy tốt hơn rồi." # TL
 
 # game/characters/grace/sleep.rpy:638
 translate vietnamese sleep_grace_feet_wakeup_success2_89ef2618:
 
     # me "You alright?"
-    me "Em ổn chứ?"
+    me "Em ổn chứ?" # TL
 
 # game/characters/grace/sleep.rpy:639
 translate vietnamese sleep_grace_feet_wakeup_success2_fdb4e830:
@@ -1423,135 +1423,135 @@ translate vietnamese sleep_grace_feet_wakeup_success2_fdb4e830:
 translate vietnamese sleep_grace_feet_wakeup_success2_d022c643:
 
     # grace "Gross.."
-    grace "Gớm..."
+    grace "Gớm..." # TL
 
 # game/characters/grace/sleep.rpy:644
 translate vietnamese sleep_grace_feet_wakeup_success2_ad5b707e:
 
     # me "Maybe a little."
-    me "Có lẽ là một chút."
+    me "Có lẽ là một chút." # TL
 
 # game/characters/grace/sleep.rpy:645
 translate vietnamese sleep_grace_feet_wakeup_success2_f701c407:
 
     # grace "Sticky.."
-    grace "Nhớp nháp..."
+    grace "Nhớp nháp..." # TL
 
 # game/characters/grace/sleep.rpy:646
 translate vietnamese sleep_grace_feet_wakeup_success2_592cb6eb:
 
     # me "Yeah. Do you want me to help you wipe it out?"
-    me "Ừ. Muốn anh giúp em lau nó đi không?"
+    me "Ừ. Muốn anh giúp em lau nó đi không?" # TL
 
 # game/characters/grace/sleep.rpy:647
 translate vietnamese sleep_grace_feet_wakeup_success2_7402cda2:
 
     # grace "Mm."
-    grace "Mm."
+    grace "Mm." # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:651
 translate vietnamese sleep_grace_feet_wakeup_success2_c9c63017:
 
     # grace "I feel so sticky."
-    grace "Em thấy dính quá."
+    grace "Em thấy dính quá." # TL
 
 # game/characters/grace/sleep.rpy:652
 translate vietnamese sleep_grace_feet_wakeup_success2_470d5d5e:
 
     # me "Do you want to shower?"
-    me "Em muốn tắm không?"
+    me "Em muốn tắm không?" # TL
 
 # game/characters/grace/sleep.rpy:653
 translate vietnamese sleep_grace_feet_wakeup_success2_0d42eb61:
 
     # grace "Sleep.."
-    grace "Ngủ..."
+    grace "Ngủ..." # TL
 
 # game/characters/grace/sleep.rpy:654
 translate vietnamese sleep_grace_feet_wakeup_success2_c7140273:
 
     # me "Okay, sleep, you will shower early morning."
-    me "Được rồi, ngủ đi, sáng mai em sẽ tắm vậy."
+    me "Được rồi, ngủ đi, sáng mai em sẽ tắm vậy." # TL
 
 # game/characters/grace/sleep.rpy:655
 translate vietnamese sleep_grace_feet_wakeup_success2_6efa2c51:
 
     # grace "I think that's a good idea."
-    grace "Ý tưởng hay đấy."
+    grace "Ý tưởng hay đấy." # TL
 
 # game/characters/grace/sleep.rpy:659
 translate vietnamese sleep_grace_feet_wakeup_success2_c72b062c:
 
     # me "Night."
-    me "Ngủ ngon."
+    me "Ngủ ngon." # TL
 
 # game/characters/grace/sleep.rpy:663
 translate vietnamese sleep_grace_feet_wakeup_success2_cfa8f0ff:
 
     # grace "Night~"
-    grace "Ngủ ngon~"
+    grace "Ngủ ngon~" # TL
 
 # game/characters/grace/sleep.rpy:664
 translate vietnamese sleep_grace_feet_wakeup_success2_8d49a220:
 
     # me "{small}How cute..{/small}"
-    me "{small}Thật dễ thương...{/small}"
+    me "{small}Thật dễ thương...{/small}" # TL
 
 # game/characters/grace/sleep.rpy:668
 translate vietnamese sleep_grace_feet_wakeup_success2_baf8f4db_4:
 
     # grace "Hehe~"
-    grace "Hehe~"
+    grace "Hehe~" # TL # Victorius - AI
 
 translate vietnamese strings:
 
     # game/characters/grace/sleep.rpy:32
     old "Turn to her feet"
-    new "Quay sang chân em ấy"
+    new "Quay sang chân em ấy" # TL
 
     # game/characters/grace/sleep.rpy:150
     old "Take them into your hands"
-    new "Bỏ chúng vào tay bạn"
+    new "Bỏ chúng vào tay bạn" # TL
 
     # game/characters/grace/sleep.rpy:150
     old "Turn back to the top"
-    new "Quay lại phần trên"
+    new "Quay lại phần trên" # TL
 
     # game/characters/grace/sleep.rpy:159
     old "Getting off is a better idea"
-    new "Cởi ra là một ý kiến hay hơn"
+    new "Cởi ra là một ý kiến hay hơn" # TL
 
     # game/characters/grace/sleep.rpy:159
     old "Scare her"
-    new "Dạo em ấy"
+    new "Dạo em ấy" # TL
 
     # game/characters/grace/sleep.rpy:159
     old "Put them back"
-    new "Mặc lại vào"
+    new "Mặc lại vào" # TL
 
     # game/characters/grace/sleep.rpy:311
     old "Do it"
-    new "Làm luôn"
+    new "Làm luôn" # TL
 
     # game/characters/grace/sleep.rpy:311
     old "Don't do it"
-    new "Thôi"
+    new "Thôi" # TL
 
     # game/characters/grace/sleep.rpy:350
     old "End it"
-    new "Kết thúc"
+    new "Kết thúc" # TL
 
     # game/characters/grace/sleep.rpy:350
     old "Wake her up, and ask her to give you a footjob"
-    new "Gọi em ấy dậy, và nhờ em ấy footjob"
+    new "Gọi em ấy dậy, và nhờ em ấy footjob" # TL
 
     # game/characters/grace/sleep.rpy:510
     old "Forget it, it's good to be content with what I have"
-    new "Quên đi, thật tốt khi bằng lòng với những gì mà mình có"
+    new "Quên đi, thật tốt khi bằng lòng với những gì mà mình có" # TL
 
     # game/characters/grace/sleep.rpy:510
     old "Ask her to change [[{cha}Charisma{/cha}] {#visible}"
-    new "Yêu cầu em ấy thay đồ [[{cha}Sức Thu Hút{/cha}] {#visible}"
+    new "Yêu cầu em ấy thay đồ [[{cha}Sức Thu Hút{/cha}] {#visible}" # TL
 
 # : Translation updated at 2022-05-11 01:55
 
@@ -1559,59 +1559,59 @@ translate vietnamese strings:
 translate vietnamese sleep_grace_feet_wakeup_success_dfd3e757:
 
     # me "Could you show me your titties?"
-    me "Em có thể show vếu cho anh được không?"
+    me "Em có thể show vếu cho anh được không?" # TL
 
 # game/characters/grace/sleep.rpy:510
 translate vietnamese sleep_grace_feet_wakeup_success_006dd55f:
 
     # grace "Why?"
-    grace "Tại sao?"
+    grace "Tại sao?" # TL
 
 # game/characters/grace/sleep.rpy:511
 translate vietnamese sleep_grace_feet_wakeup_success_d262f08f:
 
     # me "They're really pretty and I like seeing them."
-    me "Chúng rất đẹp và anh muốn nhìn thấy chúng."
+    me "Chúng rất đẹp và anh muốn nhìn thấy chúng." # TL
 
 # game/characters/grace/sleep.rpy:517
 translate vietnamese sleep_grace_feet_wakeup_success_937b40ef:
 
     # th "Wow, you're really simple to please."
-    th "Wow, em rất dễ để làm hài lòng đấy."
+    th "Wow, em rất dễ để làm hài lòng đấy." # TL
 
 # game/characters/grace/sleep.rpy:536
 translate vietnamese sleep_grace_feet_wakeup_success_644ab18b:
 
     # me "Just take of your pajamas, and put on the over knee socks. It's not a lot of work. I'm sure you can do it for me."
-    me "Cứ cởi đồ ngủ của em ra đi, và mặc thêm cái tất dài vào. Đấy không phải việc quá khó khăn. Anh chắc là em sẽ có thể làm cho anh được mà."
+    me "Cứ cởi đồ ngủ của em ra đi, và mặc thêm cái tất dài vào. Đấy không phải việc quá khó khăn. Anh chắc là em sẽ có thể làm cho anh được mà." # TL
 
 # game/characters/grace/sleep.rpy:555
 translate vietnamese sleep_grace_feet_wakeup_success_ef8296eb:
 
     # th "Wow.."
-    th "Wow.."
+    th "Wow.." # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:576
 translate vietnamese sleep_grace_feet_wakeup_success_baf8f4db_1:
 
     # grace "Hehe~"
-    grace "Hehe~"
+    grace "Hehe~" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:577
 translate vietnamese sleep_grace_feet_wakeup_success_bf93d14b:
 
     # th "Haha, what a cutie."
-    th "Haha, thật là dễ thương."
+    th "Haha, thật là dễ thương." # TL
 
 # game/characters/grace/sleep.rpy:650
 translate vietnamese sleep_grace_feet_wakeup_success2_1547105b:
 
     # me "I wiped it already, though."
-    me "Tuy nhiên mình lại lau hết đi rồi."
+    me "Tuy nhiên mình lại lau hết đi rồi." # TL
 # : Translation updated at 2022-06-10 08:06
 
 translate vietnamese strings:
 
     # game/characters/grace/sleep.rpy:32
     old "Turn to her feet {#visible}"
-    new "Quay sang chân em ấy {#visible}"
+    new "Quay sang chân em ấy {#visible}" # TL

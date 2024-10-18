@@ -4,4 +4,4 @@
 translate vietnamese room_library_door_5ae9413c:
 
     # "Coming soon."
-    "Sắp ra mắt."
+    "Sắp ra mắt." # TL

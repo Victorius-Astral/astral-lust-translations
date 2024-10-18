@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/cards/cards/off/Retaliate.rpy:6
     old "Retaliate"
-    new "Phản kích"
+    new "Phản kích" # TL

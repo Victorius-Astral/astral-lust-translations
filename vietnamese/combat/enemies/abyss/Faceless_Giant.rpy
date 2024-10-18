@@ -4,4 +4,4 @@ translate vietnamese strings:
 
     # game/combat/enemies/abyss/Faceless_Giant.rpy:7
     old "Faceless Giant"
-    new "Người khổng lồ không mặt"
+    new "Người khổng lồ không mặt" # TL
