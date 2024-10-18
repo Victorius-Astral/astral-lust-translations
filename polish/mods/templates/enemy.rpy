@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/mods/templates/enemy.rpy:9
     old "TemplateEnemy"
-    new "TemplateEnemy"
+    new "WzórWroga" # TL # Victorius - AI
 

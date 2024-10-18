@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/battle/functions/other/loot.rpy:86
     old "Error: Looting - Unknown card: {}"
-    new "Error: Looting - Unknown card: {}"
+    new "Błąd: Grabież - Nieznana karta: {}" # TL # Victorius - AI
 

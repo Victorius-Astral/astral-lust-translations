@@ -4,5 +4,5 @@
 translate polish dream_end_a85086ed:
 
     # "The images dim as the dream fades."
-    "The images dim as the dream fades."
+    "Obrazy przyciemniają się, gdy sen zanika." # TL # Victorius - AI
 

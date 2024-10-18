@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/screens/menu/trade.rpy:121
     old "Relations:"
-    new "Relations:"
+    new "Relacje:" # TL # Victorius - AI
 

@@ -4,103 +4,103 @@
 translate polish savenia_7_c8e5b142:
 
     # me "Savenia?"
-    me "Savenia?"
+    me "Savenia?" # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:30
 translate polish savenia_7_dba39cdf:
 
     # savenia "Hey, [me]."
-    savenia "Hey, [me]."
+    savenia "Hej, [me]." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:31
 translate polish savenia_7_37963366:
 
     # me "I didn't expect this. Have you lost your way in the fog?"
-    me "I didn't expect this. Have you lost your way in the fog?"
+    me "Nie spodziewałem się tego. Zgubiłaś się we mgle?" # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:32
 translate polish savenia_7_76096beb:
 
     # savenia "No."
-    savenia "No."
+    savenia "Nie." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:33
 translate polish savenia_7_b2658a22:
 
     # me "What happened?"
-    me "What happened?"
+    me "Co się stało?" # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:37
 translate polish savenia_7_8687de4a:
 
     # savenia "There was no one there. The whole place was a mess, so they must've left in a hurry."
-    savenia "There was no one there. The whole place was a mess, so they must've left in a hurry."
+    savenia "Nikogo tam nie było. Całe miejsce było w nieładzie, więc musieli szybko się ewakuować." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:38
 translate polish savenia_7_13aeb509:
 
     # me "Shit, were they attacked by monsters?"
-    me "Shit, were they attacked by monsters?"
+    me "Cholera, czy zostali zaatakowani przez potwory?" # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:39
 translate polish savenia_7_3072ec88:
 
     # savenia "I don't know. There were no signs of combat. There was no blood."
-    savenia "I don't know. There were no signs of combat. There was no blood."
+    savenia "Nie wiem. Nie było żadnych śladów walki. Nie było krwi." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:40
 translate polish savenia_7_cc5c7691:
 
     # me "Hmm.."
-    me "Hmm.."
+    me "Hmm.." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:41
 translate polish savenia_7_8f50c067:
 
     # savenia "I've tried following after them."
-    savenia "I've tried following after them."
+    savenia "Próbowałam ich śledzić." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:42
 translate polish savenia_7_85fe1685:
 
     # me "Without any luck, I guess."
-    me "Without any luck, I guess."
+    me "Bez powodzenia, jak sądzę." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:43
 translate polish savenia_7_0cb5abfa:
 
     # savenia "Yeah."
-    savenia "Yeah."
+    savenia "Tak." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:47
 translate polish savenia_7_b13d8037:
 
     # savenia "I tracked them for four days, but the tracks were cut off."
-    savenia "I tracked them for four days, but the tracks were cut off."
+    savenia "Śledziłam ich przez cztery dni, ale ślady się urwały." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:48
 translate polish savenia_7_49584483:
 
     # me "I'm sorry."
-    me "I'm sorry."
+    me "Przykro mi." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:49
 translate polish savenia_7_ad79ed40:
 
     # savenia "There were no bodies along the road. They should be alive."
-    savenia "There were no bodies along the road. They should be alive."
+    savenia "Nie było ciał wzdłuż drogi. Powinni być żywi." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:53
 translate polish savenia_7_03bee461:
 
     # savenia "But.."
-    savenia "But.."
+    savenia "Ale.." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:54
 translate polish savenia_7_f8bbda9b:
 
     # me "But, you couldn't find them."
-    me "But, you couldn't find them."
+    me "Ale nie mogłaś ich znaleźć." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:55
 translate polish savenia_7_c5637f0a:
@@ -112,55 +112,55 @@ translate polish savenia_7_c5637f0a:
 translate polish savenia_7_ca3de137:
 
     # savenia "I returned to our club and stayed there for some time. Ultimately, there was nothing left there. It was no longer safe."
-    savenia "I returned to our club and stayed there for some time. Ultimately, there was nothing left there. It was no longer safe."
+    savenia "Wróciłam do naszego klubu i zostałam tam przez jakiś czas. Ostatecznie nie było tam już nic. To miejsce przestało być bezpieczne." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:60
 translate polish savenia_7_a8631638:
 
     # savenia "I've got no other place to go, so I came back."
-    savenia "I've got no other place to go, so I came back."
+    savenia "Nie mam innego miejsca, do którego mogłabym pójść, więc wróciłam." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:65
 translate polish savenia_7_df3001ef:
 
     # savenia "..Can I stay here? I can go on with supply runs and do other dangerous jobs."
-    savenia "..Can I stay here? I can go on with supply runs and do other dangerous jobs."
+    savenia "..Czy mogę tu zostać? Mogę chodzić po zapasy i wykonywać inne niebezpieczne zadania." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:66
 translate polish savenia_7_836e5728:
 
     # me "I didn't bring you here in the first place just to throw you out now."
-    me "I didn't bring you here in the first place just to throw you out now."
+    me "Nie sprowadziłem cię tutaj, żeby teraz cię wyrzucać." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:67
 translate polish savenia_7_99a34865:
 
     # me "But, you will need to gain the girls' trust. Show them you mean no harm."
-    me "But, you will need to gain the girls' trust. Show them you mean no harm."
+    me "Ale będziesz musiała zdobyć zaufanie dziewczyn. Pokaż im, że nie masz złych zamiarów." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:72
 translate polish savenia_7_8e65cb30:
 
     # savenia "I got it. Thank you, [me]."
-    savenia "I got it. Thank you, [me]."
+    savenia "Zrozumiałam. Dziękuję, [me]." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:73
 translate polish savenia_7_a1a23cab:
 
     # me "No problem."
-    me "No problem."
+    me "Nie ma sprawy." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:74
 translate polish savenia_7_88faa38f:
 
     # lexi "Now, that's unexpected..."
-    lexi "Now, that's unexpected..."
+    lexi "To zaskakujące..." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:80
 translate polish savenia_7_7e4ac8bf:
 
     # me "Lexi.."
-    me "Lexi.."
+    me "Lexi.." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:81
 translate polish savenia_7_0f18306f:
@@ -172,43 +172,43 @@ translate polish savenia_7_0f18306f:
 translate polish savenia_7_6a204a5a:
 
     # savenia "Hey."
-    savenia "Hey."
+    savenia "Hej." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:83
 translate polish savenia_7_63a3da75:
 
     # lexi "Hello.."
-    lexi "Hello.."
+    lexi "Cześć.." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:84
 translate polish savenia_7_2e37485b:
 
     # lexi "I'm going out for food. We need to talk, after I get back, [me]."
-    lexi "I'm going out for food. We need to talk, after I get back, [me]."
+    lexi "Idę po jedzenie. Musimy porozmawiać, jak wrócę, [me]." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:85
 translate polish savenia_7_d6f4c0a5:
 
     # me "Alright."
-    me "Alright."
+    me "W porządku." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:89
 translate polish savenia_7_f73b9f21:
 
     # savenia "I'll go with you."
-    savenia "I'll go with you."
+    savenia "Pójdę z tobą." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:90
 translate polish savenia_7_5fa3d81d:
 
     # lexi "Why?"
-    lexi "Why?"
+    lexi "Dlaczego?" # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:91
 translate polish savenia_7_5a21a096:
 
     # savenia "I know you don't want me here. I want to change your mind."
-    savenia "I know you don't want me here. I want to change your mind."
+    savenia "Wiem, że nie chcesz mnie tutaj. Chcę zmienić twoje zdanie." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:92
 translate polish savenia_7_d7760fc7:
@@ -220,25 +220,25 @@ translate polish savenia_7_d7760fc7:
 translate polish savenia_7_aaad57b1:
 
     # savenia "Whatever you might think of me, I'm a veteran scavenger and fighter."
-    savenia "Whatever you might think of me, I'm a veteran scavenger and fighter."
+    savenia "Niezależnie od tego, co o mnie myślisz, jestem doświadczonym zbieraczem i wojownikiem." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:94
 translate polish savenia_7_d043d1b8:
 
     # savenia "Not only we will be able to bring back more, but we will also be safer and faster with my bike."
-    savenia "Not only we will be able to bring back more, but we will also be safer and faster with my bike."
+    savenia "Nie tylko będziemy w stanie przynieść więcej, ale także będziemy bezpieczniejsi i szybsi z moim motocyklem." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:95
 translate polish savenia_7_9d85b574:
 
     # lexi "The monsters would hear us."
-    lexi "The monsters would hear us."
+    lexi "Potwory by nas usłyszały." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:96
 translate polish savenia_7_3b4e5da9:
 
     # savenia "Before they approach, we would be far away."
-    savenia "Before they approach, we would be far away."
+    savenia "Zanim się zbliżą, będziemy daleko." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:97
 translate polish savenia_7_d7760fc7_1:
@@ -250,53 +250,53 @@ translate polish savenia_7_d7760fc7_1:
 translate polish savenia_7_4b72b231:
 
     # lexi "Alright.. I'm leading, though."
-    lexi "Alright.. I'm leading, though."
+    lexi "Dobrze.. Ale ja prowadzę." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:99
 translate polish savenia_7_f84645e1:
 
     # me "Alright?"
-    me "Alright?"
+    me "W porządku?" # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:100
 translate polish savenia_7_5c298aa7:
 
     # savenia "Alright."
-    savenia "Alright."
+    savenia "W porządku." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:104
 translate polish savenia_7_1042ace8:
 
     # lexi "Let's go. [me], take care of the place."
-    lexi "Let's go. [me], take care of the place."
+    lexi "Chodźmy. [me], zajmij się miejscem." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:105
 translate polish savenia_7_2e18990f:
 
     # th "So, she means - 'do something if I get stabbed in the back'."
-    th "So, she means - 'do something if I get stabbed in the back'."
+    th "Więc, ona ma na myśli - 'zrób coś, jeśli zostanę dźgnięty w plecy'." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:106
 translate polish savenia_7_3c72d66e:
 
     # me "Alright. You two be careful out there."
-    me "Alright. You two be careful out there."
+    me "Dobrze. Uważajcie na siebie." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:107
 translate polish savenia_7_e274a3c3:
 
     # savenia "Sure."
-    savenia "Sure."
+    savenia "Pewnie." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:111
 translate polish savenia_7_fd25e01e:
 
     # th "I hope they get along well. It could be a good way for [savenia] to earn her place here."
-    th "I hope they get along well. It could be a good way for [savenia] to earn her place here."
+    th "Mam nadzieję, że się dogadają. To może być dobry sposób dla [savenia], żeby zdobyć swoje miejsce tutaj." # TL # Victorius - AI
 
 # game/characters/savenia/ev_7.rpy:112
 translate polish savenia_7_e5a99df0:
 
     # me "Let's close the door."
-    me "Let's close the door."
+    me "Zamknijmy drzwi." # TL # Victorius - AI
 

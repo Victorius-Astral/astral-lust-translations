@@ -4,97 +4,97 @@ translate polish strings:
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Unknown"
-    new "Unknown"
+    new "Nieznany" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Human"
-    new "Human"
+    new "Człowiek" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Dragon"
-    new "Dragon"
+    new "Smok" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Spider"
-    new "Spider"
+    new "Pająk" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Crab"
-    new "Crab"
+    new "Krab" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Flamingo"
-    new "Flamingo"
+    new "Flaming" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Manticore"
-    new "Manticore"
+    new "Mantykora" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Werewolf"
-    new "Werewolf"
+    new "Wilkołak" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Ghoul"
-    new "Ghoul"
+    new "Ghoul" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Abomination"
-    new "Abomination"
+    new "Abominacja" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Orc"
-    new "Orc"
+    new "Ork" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:71
     old "None"
-    new "None"
+    new "Żaden" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Beast"
-    new "Beast"
+    new "Bestia" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Monster"
-    new "Monster"
+    new "Potwór" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Undead"
-    new "Undead"
+    new "Nieumarły" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Demon"
-    new "Demon"
+    new "Demon" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Neutral"
-    new "Neutral"
+    new "Neutralny" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Jade Hotel"
-    new "Jade Hotel"
+    new "Hotel Jadeitowy" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:82
     old "The Abyss"
-    new "The Abyss"
+    new "Otchłań" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Wanderers"
-    new "Wanderers"
+    new "Wędrowcy" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Horde"
-    new "Horde"
+    new "Horda" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Outlaws"
-    new "Outlaws"
+    new "Banici" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Deserters"
-    new "Deserters"
+    new "Dezerterzy" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Carlson Dojo"
-    new "Carlson Dojo"
+    new "Dojo Carlsona" # TL # Victorius - AI
 

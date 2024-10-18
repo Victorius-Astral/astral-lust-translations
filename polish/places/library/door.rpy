@@ -4,5 +4,5 @@
 translate polish room_library_door_5ae9413c:
 
     # "Coming soon."
-    "Coming soon."
+    "Już wkrótce." # TL # Victorius - AI
 

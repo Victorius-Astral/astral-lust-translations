@@ -4,33 +4,33 @@ translate polish strings:
 
     # game/functions/tasks/screens.rpy:150
     old "Repeat"
-    new "Repeat"
+    new "Powtórz" # TL # Victorius - AI
 
     # game/functions/tasks/screens.rpy:151
     old "Silent"
-    new "Silent"
+    new "Cisza" # TL # Victorius - AI
 
     # game/functions/tasks/screens.rpy:163
     old "Task Settings"
-    new "Task Settings"
+    new "Ustawienia zadań" # TL # Victorius - AI
 
     # game/functions/tasks/screens.rpy:164
     old "Toggle tasks menu with '{b}T{/b}' key"
-    new "Toggle tasks menu with '{b}T{/b}' key"
+    new "Przełącz menu zadań klawiszem '{b}T{/b}'" # TL # Victorius - AI
 
     # game/functions/tasks/screens.rpy:167
     old "Set new tasks"
-    new "Set new tasks"
+    new "Ustaw nowe zadania" # TL # Victorius - AI
 
     # game/functions/tasks/screens.rpy:172
     old "Set all tasks"
-    new "Set all tasks"
+    new "Ustaw wszystkie zadania" # TL # Victorius - AI
 
     # game/functions/tasks/screens.rpy:175
     old "On"
-    new "On"
+    new "Włącz" # TL # Victorius - AI
 
     # game/functions/tasks/screens.rpy:176
     old "/"
-    new "/"
+    new "/" # TL # Victorius - AI
 

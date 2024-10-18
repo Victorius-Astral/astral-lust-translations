@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/screens/menu/vault.rpy:112
     old "Stored:"
-    new "Stored:"
+    new "Przechowywane:" # TL # Victorius - AI
 

@@ -4,5 +4,5 @@
 translate polish sleep_savenia_c6f14d4e:
 
     # th "Yeah, I'm not tired of living yet."
-    th "Yeah, I'm not tired of living yet."
+    th "Tak, jeszcze nie jestem zmęczony życiem." # TL # Victorius - AI
 

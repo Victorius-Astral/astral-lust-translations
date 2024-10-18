@@ -4,5 +4,5 @@
 translate polish room_hotel_wc_1ccf6df0:
 
     # "It seems someone is inside."
-    "It seems someone is inside."
+    "Wygląda na to, że ktoś jest w środku." # TL # Victorius - AI
 

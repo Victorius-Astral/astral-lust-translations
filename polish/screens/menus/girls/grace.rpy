@@ -4,7 +4,7 @@ translate polish strings:
 
     # game/screens/menus/girls/grace.rpy:18
     old "{gold}[grace] (Grace){/gold}"
-    new "{gold}[grace] (Grace){/gold}"
+    new "{gold}[grace] (Grace){/gold}" # TL # Victorius - AI
 
     # game/screens/menus/girls/grace.rpy:21
     old "{gold}[grace]{/gold}"
@@ -12,13 +12,12 @@ translate polish strings:
 
     # game/screens/menus/girls/grace.rpy:23
     old "Nicknames: Gracie"
-    new "Nicknames: Gracie"
+    new "Nicknames: Gracie" # TL # Victorius - AI
 
     # game/screens/menus/girls/grace.rpy:42
     old "• Handjob: "
-    new "• Handjob: "
+    new "• Ręczna robota: " # TL # Victorius - AI
 
     # game/screens/menus/girls/grace.rpy:44
     old "• Thighjob: "
-    new "• Thighjob: "
-
+    new "• Udojob: " # TL # Victorius - AI

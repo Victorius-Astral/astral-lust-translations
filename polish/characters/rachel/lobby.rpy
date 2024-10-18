@@ -4,5 +4,5 @@
 translate polish rachel_sleep_lobby_ebf3f51d:
 
     # th "I shouldn't wake her up. I can talk with her tomorrow."
-    th "I shouldn't wake her up. I can talk with her tomorrow."
+    th "Nie powinienem jej budzić. Mogę porozmawiać z nią jutro." # TL # Victorius - AI
 

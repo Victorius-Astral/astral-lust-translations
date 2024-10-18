@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/cards/cards/fool.rpy:6
     old "Trickster"
-    new "Trickster"
+    new "Trickster" # TL # Victorius - AI
 

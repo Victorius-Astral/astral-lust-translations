@@ -4,13 +4,13 @@ translate polish strings:
 
     # game/combat/cards/cards/summoning.rpy:6
     old "Delusions"
-    new "Delusions"
+    new "Złudzenia" # TL # Victorius - AI
 
     # game/combat/cards/cards/summoning.rpy:35
     old "Hatchling"
-    new "Hatchling"
+    new "Pisklę" # TL # Victorius - AI
 
     # game/combat/cards/cards/summoning.rpy:71
     old "Flock of Birds"
-    new "Flock of Birds"
+    new "Stado Ptaków" # TL # Victorius - AI
 

@@ -4,17 +4,17 @@ translate polish strings:
 
     # game/screens/gui/main_menu.rpy:92
     old "Legacy (Black Hole)"
-    new "Legacy (Black Hole)"
+    new "Dziedzictwo (Czarna Dziura)" # TL # Victorius - AI
 
     # game/screens/gui/main_menu.rpy:154
     old "Resume"
-    new "Resume"
+    new "Wznów" # TL # Victorius - AI
 
     # game/screens/gui/main_menu.rpy:162
     old "About"
-    new "About"
+    new "O grze" # TL # Victorius - AI
 
     # game/screens/gui/main_menu.rpy:175
     old "Quit"
-    new "Quit"
+    new "Zakończ" # TL # Victorius - AI
 

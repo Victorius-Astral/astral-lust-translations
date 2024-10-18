@@ -4,25 +4,25 @@ translate polish strings:
 
     # game/combat/cards/lists/types.rpy:3
     old "Offensive"
-    new "Offensive"
+    new "Ofensywa" # TL # Victorius - AI
 
     # game/combat/cards/lists/types.rpy:3
     old "Defensive"
-    new "Defensive"
+    new "Obrona" # TL # Victorius - AI
 
     # game/combat/cards/lists/types.rpy:3
     old "Ability"
-    new "Ability"
+    new "Umiejętność" # TL # Victorius - AI
 
     # game/combat/cards/lists/types.rpy:3
     old "Power"
-    new "Power"
+    new "Moc" # TL # Victorius - AI
 
     # game/combat/cards/lists/types.rpy:3
     old "Martial Art"
-    new "Martial Art"
+    new "Sztuka walki" # TL # Victorius - AI
 
     # game/combat/cards/lists/types.rpy:3
     old "Summoning"
-    new "Summoning"
+    new "Przywoływanie" # TL # Victorius - AI
 

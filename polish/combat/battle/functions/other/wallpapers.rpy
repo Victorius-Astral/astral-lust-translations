@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/combat/battle/functions/other/wallpapers.rpy:29
     old "Congratulations! You have unlocked a wallpaper - {}"
-    new "Congratulations! You have unlocked a wallpaper - {}"
+    new "Gratulacje! Odblokowałeś tapetę - {}" # TL # Victorius - AI
 

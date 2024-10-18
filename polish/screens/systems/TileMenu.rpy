@@ -4,21 +4,21 @@ translate polish strings:
 
     # game/screens/systems/TileMenu.rpy:60
     old "Item"
-    new "Item"
+    new "Przedmiot" # TL # Victorius - AI
 
     # game/screens/systems/TileMenu.rpy:141
     old "Crafting"
-    new "Crafting"
+    new "Rzemiosło" # TL # Victorius - AI
 
     # game/screens/systems/TileMenu.rpy:141
     old "*This item was crafted already.*"
-    new "*This item was crafted already.*"
+    new "*Ten przedmiot został już wykonany.*" # TL # Victorius - AI
 
     # game/screens/systems/TileMenu.rpy:214
     old "*Click to create."
-    new "*Click to create."
+    new "*Kliknij, aby stworzyć.*" # TL # Victorius - AI
 
     # game/screens/systems/TileMenu.rpy:263
     old "Required:"
-    new "Required:"
+    new "Wymagane:" # TL # Victorius - AI
 

@@ -4,13 +4,13 @@ translate polish strings:
 
     # game/variables/classes/Trader.rpy:11
     old "Trader"
-    new "Trader"
+    new "Handlarz" # TL # Victorius - AI
 
     # game/variables/classes/Trader.rpy:354
     old "Relations with {} increased by {:.1f}"
-    new "Relations with {} increased by {:.1f}"
+    new "Relacje z {} wzrosły o {:.1f}" # TL # Victorius - AI
 
     # game/variables/classes/Trader.rpy:361
     old " (MAX)"
-    new " (MAX)"
+    new " (MAKS)" # TL # Victorius - AI
 

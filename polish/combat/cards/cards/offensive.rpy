@@ -4,125 +4,125 @@ translate polish strings:
 
     # game/combat/cards/cards/offensive.rpy:6
     old "Bite"
-    new "Bite"
+    new "Ugryzienie" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:6
     old "Strong Bite"
-    new "Strong Bite"
+    new "Silne Ugryzienie" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:6
     old "Vicious Bite"
-    new "Vicious Bite"
+    new "Zaciekłe Ugryzienie" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:6
     old "Beast Bite"
-    new "Beast Bite"
+    new "Bestialskie Ugryzienie" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:52
     old "Bulletstorm"
-    new "Bulletstorm"
+    new "Grad Kul" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:101
     old "Buttstroke"
-    new "Buttstroke"
+    new "Uderzenie Kolbą" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:141
     old "Crush"
-    new "Crush"
+    new "Zmiażdżenie" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:182
     old "Devour"
-    new "Devour"
+    new "Pożarcie" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:223
     old "Fire Breath"
-    new "Fire Breath"
+    new "Ognisty Oddech" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:263
     old "Fireball"
-    new "Fireball"
+    new "Kula Ognia" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:304
     old "Fireworks"
-    new "Fireworks"
+    new "Fajerwerki" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:333
     old "Flurry"
-    new "Flurry"
+    new "Furia" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:374
     old "Frag Grenade"
-    new "Frag Grenade"
+    new "Granat Odłamkowy" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:416
     old "Hammer Bash"
-    new "Hammer Bash"
+    new "Uderzenie Młotem" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:464
     old "Headbutt"
-    new "Headbutt"
+    new "Zderzenie Czołem" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:505
     old "Kiara's Gambit"
-    new "Kiara's Gambit"
+    new "Kiara's Gambit" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:534
     old "Kick"
-    new "Kick"
+    new "Kopnięcie" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:574
     old "Lunge"
-    new "Lunge"
+    new "Sztych" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:616
     old "Poisonous Bite"
-    new "Poisonous Bite"
+    new "Trujące Ugryzienie" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:657
     old "Shot"
-    new "Shot"
+    new "Strzał" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:695
     old "Slash"
-    new "Slash"
+    new "Cięcie" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:735
     old "Snipe"
-    new "Snipe"
+    new "Snajperski Strzał" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:777
     old "Spit Poison"
-    new "Spit Poison"
+    new "Plucie Trucizną" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:816
     old "Stab"
-    new "Stab"
+    new "Dźgnięcie" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:856
     old "Strike"
-    new "Strike"
+    new "Cios" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:856
     old "Precise Strike"
-    new "Precise Strike"
+    new "Precyzyjny Cios" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:856
     old "Heavy Strike"
-    new "Heavy Strike"
+    new "Mocny Cios" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:856
     old "Preventive Strike"
-    new "Preventive Strike"
+    new "Zapobiegawczy Cios" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:856
     old "Deadly Strike"
-    new "Deadly Strike"
+    new "Śmiertelny Cios" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:904
     old "Sweep"
-    new "Sweep"
+    new "Zamiatanie" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:944
     old "Thor's Fury"
-    new "Thor's Fury"
+    new "Furia Thora" # TL # Victorius - AI
 

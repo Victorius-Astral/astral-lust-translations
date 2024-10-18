@@ -4,29 +4,29 @@ translate polish strings:
 
     # game/functions/tasks/list.rpy:3
     old "Cook dinner"
-    new "Cook dinner"
+    new "Ugotuj obiad" # TL # Victorius - AI
 
     # game/functions/tasks/list.rpy:10
     old "Scavenge - Materials"
-    new "Scavenge - Materials"
+    new "Zbieraj - Materiały" # TL # Victorius - AI
 
     # game/functions/tasks/list.rpy:10
     old "Scavenge - Caps"
-    new "Scavenge - Caps"
+    new "Zbieraj - Kapsle" # TL # Victorius - AI
 
     # game/functions/tasks/list.rpy:21
     old "Tidy up the boxes"
-    new "Tidy up the boxes"
+    new "Posprzątaj pudełka" # TL # Victorius - AI
 
     # game/functions/tasks/list.rpy:29
     old "Get combat gear"
-    new "Get combat gear"
+    new "Zdobądź sprzęt bojowy" # TL # Victorius - AI
 
     # game/functions/tasks/list.rpy:29
     old "Dismantle clothes"
-    new "Dismantle clothes"
+    new "Rozmontuj ubrania" # TL # Victorius - AI
 
     # game/functions/tasks/list.rpy:29
     old "Reinforce coat"
-    new "Reinforce coat"
+    new "Wzmocnij płaszcz" # TL # Victorius - AI
 

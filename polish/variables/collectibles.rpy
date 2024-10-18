@@ -4,33 +4,33 @@ translate polish strings:
 
     # game/variables/collectibles.rpy:11
     old "Location: Player's room"
-    new "Location: Player's room"
+    new "Lokalizacja: Pokój gracza" # TL # Victorius - AI
 
     # game/variables/collectibles.rpy:11
     old "Location: Lexi & Mina's room"
-    new "Location: Lexi & Mina's room"
+    new "Lokalizacja: Pokój Lexi i Miny" # TL # Victorius - AI
 
     # game/variables/collectibles.rpy:11
     old "Location: Second floor corridor"
-    new "Location: Second floor corridor"
+    new "Lokalizacja: Korytarz na drugim piętrze" # TL # Victorius - AI
 
     # game/variables/collectibles.rpy:11
     old "Location: Second floor corridor, other side"
-    new "Location: Second floor corridor, other side"
+    new "Lokalizacja: Korytarz na drugim piętrze, druga strona" # TL # Victorius - AI
 
     # game/variables/collectibles.rpy:11
     old "Location: Grace's room"
-    new "Location: Grace's room"
+    new "Lokalizacja: Pokój Grace" # TL # Victorius - AI
 
     # game/variables/collectibles.rpy:11
     old "Location: Alice's room"
-    new "Location: Alice's room"
+    new "Lokalizacja: Pokój Alice" # TL # Victorius - AI
 
     # game/variables/collectibles.rpy:11
     old "Location: Lobby"
-    new "Location: Lobby"
+    new "Lokalizacja: Hol" # TL # Victorius - AI
 
     # game/variables/collectibles.rpy:11
     old "Location: Library"
-    new "Location: Library"
+    new "Lokalizacja: Biblioteka" # TL # Victorius - AI
 

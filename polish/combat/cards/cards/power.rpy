@@ -4,61 +4,61 @@ translate polish strings:
 
     # game/combat/cards/cards/power.rpy:6
     old "Bulletproof Vest"
-    new "Bulletproof Vest"
+    new "Kamizelka kuloodporna" # TL # Victorius - AI
 
     # game/combat/cards/cards/power.rpy:48
     old "Dragonborn"
-    new "Dragonborn"
+    new "Smocze Dziecię" # TL # Victorius - AI
 
     # game/combat/cards/cards/power.rpy:87
     old "Fireborn"
-    new "Fireborn"
+    new "Dziecię Ognia" # TL # Victorius - AI
 
     # game/combat/cards/cards/power.rpy:127
     old "Freedom"
-    new "Freedom"
+    new "Wolność" # TL # Victorius - AI
 
     # game/combat/cards/cards/power.rpy:169
     old "Giant"
-    new "Giant"
+    new "Olbrzym" # TL # Victorius - AI
 
     # game/combat/cards/cards/power.rpy:209
     old "Heart of Flames"
-    new "Heart of Flames"
+    new "Serce Płomieni" # TL # Victorius - AI
 
     # game/combat/cards/cards/power.rpy:250
     old "Horde Weapons"
-    new "Horde Weapons"
+    new "Broń Hordy" # TL # Victorius - AI
 
     # game/combat/cards/cards/power.rpy:290
     old "Insatiable Hunger"
-    new "Insatiable Hunger"
+    new "Nienasycony Głód" # TL # Victorius - AI
 
     # game/combat/cards/cards/power.rpy:331
     old "Insatiable Lust"
-    new "Insatiable Lust"
+    new "Nienasycona Żądza" # TL # Victorius - AI
 
     # game/combat/cards/cards/power.rpy:370
     old "Lycanthropy"
-    new "Lycanthropy"
+    new "Likantropia" # TL # Victorius - AI
 
     # game/combat/cards/cards/power.rpy:411
     old "Miracle"
-    new "Miracle"
+    new "Cud" # TL # Victorius - AI
 
     # game/combat/cards/cards/power.rpy:452
     old "Mutate"
-    new "Mutate"
+    new "Mutacja" # TL # Victorius - AI
 
     # game/combat/cards/cards/power.rpy:492
     old "Stone Skin"
-    new "Stone Skin"
+    new "Kamienna Skóra" # TL # Victorius - AI
 
     # game/combat/cards/cards/power.rpy:534
     old "Unshakable"
-    new "Unshakable"
+    new "Niewzruszony" # TL # Victorius - AI
 
     # game/combat/cards/cards/power.rpy:575
     old "Vampirism"
-    new "Vampirism"
+    new "Wampiryzm" # TL # Victorius - AI
 

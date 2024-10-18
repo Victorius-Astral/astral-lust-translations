@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/dlc/arkai_academy/outfits.rpy:2
     old "Schoolgirl"
-    new "Schoolgirl"
+    new "Szkolna dziewczyna" # TL # Victorius - AI
 

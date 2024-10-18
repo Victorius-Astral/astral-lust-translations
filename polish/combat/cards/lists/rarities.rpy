@@ -4,29 +4,29 @@ translate polish strings:
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Ordinary"
-    new "Ordinary"
+    new "Zwykły" # TL # Victorius - AI
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Extraordinary"
-    new "Extraordinary"
+    new "Niezwykły" # TL # Victorius - AI
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Mythical"
-    new "Mythical"
+    new "Mityczny" # TL # Victorius - AI
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Angelic"
-    new "Angelic"
+    new "Anielski" # TL # Victorius - AI
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Divine"
-    new "Divine"
+    new "Boski" # TL # Victorius - AI
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Tarot"
-    new "Tarot"
+    new "Tarot" # TL # Victorius - AI
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Unique"
-    new "Unique"
+    new "Unikalny" # TL # Victorius - AI
 

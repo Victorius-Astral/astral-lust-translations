@@ -4,9 +4,9 @@ translate polish strings:
 
     # game/screens/gui/navigation.rpy:33
     old "End Replay"
-    new "End Replay"
+    new "Zakończ powtórkę" # TL # Victorius - AI
 
     # game/screens/gui/navigation.rpy:37
     old "Main Menu"
-    new "Main Menu"
+    new "Menu główne" # TL # Victorius - AI
 

@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/characters/little fox/screen.rpy:9
     old "Hunger:"
-    new "Hunger:"
+    new "Głód:" # TL # Victorius - AI
 

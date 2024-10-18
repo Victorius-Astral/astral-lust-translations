@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/functions/secret.rpy:3
     old "Wallpaper 'Secret 2' unlocked!"
-    new "Wallpaper 'Secret 2' unlocked!"
+    new "Tapeta 'Secret 2' odblokowana!" # TL # Victorius - AI
 

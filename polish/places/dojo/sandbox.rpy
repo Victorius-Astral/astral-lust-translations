@@ -4,5 +4,5 @@
 translate polish carlson_dojo_f7deac80:
 
     # "You return to the hotel before the night arrives."
-    "You return to the hotel before the night arrives."
+    "Wracasz do hotelu przed nadejściem nocy." # TL # Victorius - AI
 

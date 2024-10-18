@@ -4,37 +4,37 @@ translate polish strings:
 
     # game/functions/tasks/Tasks.rpy:154
     old "Task"
-    new "Task"
+    new "Zadanie" # TL # Victorius - AI
 
     # game/functions/tasks/Tasks.rpy:181
     old "Blocked"
-    new "Blocked"
+    new "Zablokowane" # TL # Victorius - AI
 
     # game/functions/tasks/Tasks.rpy:188
     old "{} week"
-    new "{} week"
+    new "{} tydzień" # TL # Victorius - AI
 
     # game/functions/tasks/Tasks.rpy:191
     old "{} weeks"
-    new "{} weeks"
+    new "{} tygodnie" # TL # Victorius - AI
 
     # game/functions/tasks/Tasks.rpy:198
     old "{} day"
-    new "{} day"
+    new "{} dzień" # TL # Victorius - AI
 
     # game/functions/tasks/Tasks.rpy:201
     old "{} days"
-    new "{} days"
+    new "{} dni" # TL # Victorius - AI
 
     # game/functions/tasks/Tasks.rpy:206
     old "{} period"
-    new "{} period"
+    new "{} okres" # TL # Victorius - AI
 
     # game/functions/tasks/Tasks.rpy:209
     old "{} periods"
-    new "{} periods"
+    new "{} okresy" # TL # Victorius - AI
 
     # game/functions/tasks/Tasks.rpy:213
     old "Completed"
-    new "Completed"
+    new "Zakończone" # TL # Victorius - AI
 

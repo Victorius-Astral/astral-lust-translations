@@ -4,9 +4,9 @@ translate polish strings:
 
     # game/variables/classes/Codex.rpy:20
     old "Entry updated - {}."
-    new "Entry updated - {}."
+    new "Wpis zaktualizowany - {}." # TL # Victorius - AI
 
     # game/variables/classes/Codex.rpy:29
     old "Entry added - {}."
-    new "Entry added - {}."
+    new "Wpis dodany - {}." # TL # Victorius - AI
 

@@ -4,5 +4,5 @@ translate polish strings:
 
     # game/screens/gui/quick_toolbar.rpy:97
     old "Map"
-    new "Map"
+    new "Mapa" # TL # Victorius - AI
 

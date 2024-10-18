@@ -4,5 +4,5 @@
 translate polish room_hotel_lexi_d86e264b:
 
     # "It's late so you leave."
-    "It's late so you leave."
+    "Jest późno, więc wychodzisz." # TL # Victorius - AI
 
