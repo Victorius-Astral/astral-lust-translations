@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/abi/Sacrifice.rpy:6
     old "Sacrifice"
-    new "Sacrifice"
+    new "Sacrifice" # TL # Victorius - AI
 

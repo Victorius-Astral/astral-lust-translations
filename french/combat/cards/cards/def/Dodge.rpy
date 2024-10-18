@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/def/Dodge.rpy:6
     old "Dodge"
-    new "Esquiver"
+    new "Esquiver" # TL
 

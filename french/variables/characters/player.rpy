@@ -4,5 +4,5 @@ translate french strings:
 
     # game/variables/characters/player.rpy:4
     old "Thoughts"
-    new "Pensées"
+    new "Pensées" # TL
 

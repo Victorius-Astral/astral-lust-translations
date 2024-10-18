@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/abi/Hypnotise.rpy:6
     old "Hypnotise"
-    new "Hypnotiser"
+    new "Hypnotiser" # TL
 

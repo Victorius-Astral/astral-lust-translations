@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/tar/The_High_Priestess.rpy:6
     old "The High Priestess"
-    new "La Grande Prêtresse"
+    new "La Grande Prêtresse" # TL
 

@@ -4,9 +4,9 @@ translate french strings:
 
     # game/combat/cards/cards/tar/The_Empress.rpy:6
     old "The Empress"
-    new "L'Impératrice"
+    new "L'Impératrice" # TL
 
     # game/combat/cards/cards/tar/The_Empress.rpy:39
     old "(10 - the lowest mental attribute ({}) )"
-    new "(10 - l'attribut mental le plus bas ({}) )"
+    new "(10 - l'attribut mental le plus bas ({}) )" # TL
 

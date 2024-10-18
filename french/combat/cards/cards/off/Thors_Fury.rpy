@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/off/Thors_Fury.rpy:6
     old "Thor's Fury"
-    new "Fureur de Thor"
+    new "Fureur de Thor" # TL
 

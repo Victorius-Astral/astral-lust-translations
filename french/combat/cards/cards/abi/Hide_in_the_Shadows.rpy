@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/abi/Hide_in_the_Shadows.rpy:6
     old "Hide in the Shadows"
-    new "Se cacher dans l'ombre"
+    new "Se cacher dans l'ombre" # TL
 

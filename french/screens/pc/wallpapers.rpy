@@ -4,13 +4,13 @@ translate french strings:
 
     # game/screens/pc/wallpapers.rpy:39
     old "Insert code"
-    new "Insérer un code"
+    new "Insérer un code" # TL
 
     # game/screens/pc/wallpapers.rpy:57
     old "Blocked in SFW Mode"
-    new "Bloqué en mode Prude"
+    new "Bloqué en mode Prude" # TL
 
     # ajout manuel
     old "Yes"
-    new "Oui"
+    new "Oui" # TL
 

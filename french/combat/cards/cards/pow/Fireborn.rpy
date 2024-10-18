@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/pow/Fireborn.rpy:6
     old "Fireborn"
-    new "Naissance du feu"
+    new "Naissance du feu" # TL
 

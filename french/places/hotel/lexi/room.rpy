@@ -4,5 +4,5 @@
 translate french room_hotel_lexi_d86e264b:
 
     # "It's late so you leave."
-    "Il est tard, alors vous partez."
+    "Il est tard, alors vous partez." # TL
 

@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/abi/Blacksmith.rpy:6
     old "Blacksmith"
-    new "Forgeron"
+    new "Forgeron" # TL
 

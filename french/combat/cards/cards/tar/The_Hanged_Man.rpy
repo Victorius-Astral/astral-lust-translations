@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/tar/The_Hanged_Man.rpy:6
     old "The Hanged Man"
-    new "Le Pendu"
+    new "Le Pendu" # TL
 

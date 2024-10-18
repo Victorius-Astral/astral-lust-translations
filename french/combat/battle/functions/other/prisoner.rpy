@@ -4,13 +4,13 @@ translate french strings:
 
     # game/combat/battle/functions/other/prisoner.rpy:18
     old "Do you want to catch the enemy?"
-    new "Voulez-vous attraper l'ennemi?"
+    new "Voulez-vous attraper l'ennemi?" # TL
 
     # game/combat/battle/functions/other/prisoner.rpy:19
     old "Catch {}"
-    new "Attraper {}"
+    new "Attraper {}" # TL
 
     # game/combat/battle/functions/other/prisoner.rpy:19
     old "Kill"
-    new "Tuer"
+    new "Tuer" # TL
 

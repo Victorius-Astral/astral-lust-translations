@@ -4,9 +4,9 @@ translate french strings:
 
     # game/combat/cards/cards/tar/The_Moon.rpy:6
     old "The Moon"
-    new "La Lune"
+    new "La Lune" # TL
 
     # game/combat/cards/cards/tar/The_Moon.rpy:27
     old "physical"
-    new "physique"
+    new "physique" # TL
 

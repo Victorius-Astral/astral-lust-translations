@@ -4,5 +4,5 @@ translate french strings:
 
     # game/screens/menus/help.rpy:4
     old "Beginner Guide"
-    new "Guide du débutant"
+    new "Guide du débutant" # TL
 

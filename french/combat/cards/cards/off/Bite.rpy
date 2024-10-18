@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/off/Bite.rpy:6
     old "Bite"
-    new "Mordre"
+    new "Mordre" # TL
 

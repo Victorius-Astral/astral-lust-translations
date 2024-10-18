@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/abi/Despair.rpy:6
     old "Despair"
-    new "Désespoir"
+    new "Désespoir" # TL
 

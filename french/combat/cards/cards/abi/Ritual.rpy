@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/abi/Ritual.rpy:6
     old "Ritual"
-    new "Rituel"
+    new "Rituel" # TL
 

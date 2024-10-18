@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/battle/functions/effects/dodge.rpy:16
     old "{agi}Dodged{/agi}"
-    new "{agi}Esquivé{/agi}"
+    new "{agi}Esquivé{/agi}" # TL
 

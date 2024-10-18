@@ -4,103 +4,103 @@ translate french strings:
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Unknown"
-    new "Inconnu"
+    new "Inconnu" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Human"
-    new "Humain"
+    new "Humain" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Dragon"
-    new "Dragon"
+    new "Dragon" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Spider"
-    new "Araignée"
+    new "Araignée" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Crab"
-    new "Crabe"
+    new "Crabe" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Flamingo"
-    new "Flamant"
+    new "Flamant" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Manticore"
-    new "Manticore"
+    new "Manticore" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Werewolf"
-    new "Loup-garou"
+    new "Loup-garou" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Ghoul"
-    new "Goule"
+    new "Goule" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Abomination"
-    new "Abomination"
+    new "Abomination" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Succubus"
-    new "Succube"
+    new "Succube" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Orc"
-    new "Orc"
+    new "Orc" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Fox Tribe"
-    new "Tribu des renards"
+    new "Tribu des renards" # TL
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Beast"
-    new "Bête"
+    new "Bête" # TL
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Monster"
-    new "Monstre"
+    new "Monstre" # TL
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Undead"
-    new "Mort-vivant"
+    new "Mort-vivant" # TL
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Demon"
-    new "Démon"
+    new "Démon" # TL
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Neutral"
-    new "Neutre"
+    new "Neutre" # TL
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Jade Hotel"
-    new "Hôtel de Jade"
+    new "Hôtel de Jade" # TL
 
     # game/combat/battle/Battle_variables.rpy:82
     old "The Abyss"
-    new "L'abîme"
+    new "L'abîme" # TL
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Wanderers"
-    new "Vagabonds"
+    new "Vagabonds" # TL
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Horde"
-    new "Horde"
+    new "Horde" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Cult of the Black"
-    new "Le Culte du Noir"
+    new "Le Culte du Noir" # TL
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Outlaws"
-    new "Hors-la-loi"
+    new "Hors-la-loi" # TL
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Deserters"
-    new "Déserteurs"
+    new "Déserteurs" # TL
 
 # TODO: Translation updated at 2024-10-18 07:37
 
@@ -108,9 +108,9 @@ translate french strings:
 
     # game/combat/battle/Battle_variables.rpy:71
     old "None"
-    new "None"
+    new "Aucun" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Carlson Dojo"
-    new "Carlson Dojo"
+    new "Carlson Dojo" # TL # Victorius - AI
 

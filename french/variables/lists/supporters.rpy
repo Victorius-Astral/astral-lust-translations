@@ -4,5 +4,5 @@ translate french strings:
 
     # game/variables/lists/supporters.rpy:71
     old "Supported by: "
-    new "Soutenu par: "
+    new "Soutenu par: " # TL
 

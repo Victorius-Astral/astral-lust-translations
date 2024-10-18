@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/pow/Insatiable_Hunger.rpy:6
     old "Insatiable Hunger"
-    new "Faim insatiable"
+    new "Faim insatiable" # TL
 

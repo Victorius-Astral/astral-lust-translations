@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/off/Strike.rpy:6
     old "Strike"
-    new "Strike"
+    new "Frappe" # TL # Victorius - AI
 

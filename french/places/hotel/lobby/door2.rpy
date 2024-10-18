@@ -4,21 +4,21 @@ translate french strings:
 
     # game/places/hotel/lobby/door2.rpy:2
     old "Gym"
-    new "Gym"
+    new "Salle de sport" # TL # Victorius - AI
 
     # game/places/hotel/lobby/door2.rpy:2
     old "Forge"
-    new "Forge"
+    new "Forge" # TL # Victorius - AI
 
     # game/places/hotel/lobby/door2.rpy:2
     old "Dungeon"
-    new "Donjon"
+    new "Donjon" # TL
 
     # game/places/hotel/lobby/door2.rpy:2
     old "Vault"
-    new "Chambre forte"
+    new "Chambre forte" # TL
 
     # game/places/hotel/lobby/door2.rpy:2
     old "Fox Shrine"
-    new "Sanctuaire du renard"
+    new "Sanctuaire du renard" # TL
 

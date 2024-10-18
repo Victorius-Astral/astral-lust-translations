@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/enemies/neutral/Giant_Spider.rpy:7
     old "Giant Spider"
-    new "Araignée géante"
+    new "Araignée géante" # TL
 

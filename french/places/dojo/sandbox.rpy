@@ -4,5 +4,5 @@
 translate french carlson_dojo_f7deac80:
 
     # "You return to the hotel before the night arrives."
-    "You return to the hotel before the night arrives."
+    "Vous retournez à l'hôtel avant que la nuit n'arrive." # TL # Victorius - AI
 

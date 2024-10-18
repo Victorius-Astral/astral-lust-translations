@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/pow/Lycantrophy.rpy:6
     old "Lycanthropy"
-    new "Lycanthropie"
+    new "Lycanthropie" # TL
 

@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/enemies/bandits/Bandit_Captain.rpy:7
     old "Bandit Captain"
-    new "Capitaine des bandits"
+    new "Capitaine des bandits" # TL
 

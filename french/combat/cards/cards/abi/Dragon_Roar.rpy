@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/abi/Dragon_Roar.rpy:6
     old "Dragon Roar"
-    new "Rugissement de dragon"
+    new "Rugissement de dragon" # TL
 

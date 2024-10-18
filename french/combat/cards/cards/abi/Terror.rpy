@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/abi/Terror.rpy:6
     old "Terror"
-    new "Terreur"
+    new "Terreur" # TL
 

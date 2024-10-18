@@ -4,5 +4,5 @@
 translate french room_f1_lexi_54340ad2:
 
     # th "Why would I enter at this hour? I should return earlier."
-    th "Pourquoi est-ce que j'entre à cette heure-ci? Je devrais rentrer plus tôt."
+    th "Pourquoi est-ce que j'entre à cette heure-ci? Je devrais rentrer plus tôt." # TL
 

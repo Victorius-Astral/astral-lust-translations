@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/off/Kick.rpy:6
     old "Kick"
-    new "Coup de pied"
+    new "Coup de pied" # TL
 

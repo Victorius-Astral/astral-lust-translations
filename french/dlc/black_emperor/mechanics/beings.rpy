@@ -4,13 +4,13 @@ translate french strings:
 
     # game/dlc/black_emperor/mechanics/beings.rpy:9
     old "Warrior"
-    new "Warrior"
+    new "Guerrier" # TL # Victorius - AI
 
     # game/dlc/black_emperor/mechanics/beings.rpy:90
     old "Elite Warrior"
-    new "Elite Warrior"
+    new "Guerrier d'élite" # TL # Victorius - AI
 
     # game/dlc/black_emperor/mechanics/beings.rpy:122
     old "Hunter"
-    new "Hunter"
+    new "Chasseur" # TL # Victorius - AI
 

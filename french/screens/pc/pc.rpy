@@ -4,35 +4,35 @@ translate french strings:
 
     # game/screens/pc/pc.rpy:3
     old "Collectibles"
-    new "Objets à collectionner"
+    new "Objets à collectionner" # TL
 
     # game/screens/pc/pc.rpy:3
     old "Wallpapers"
-    new "Fonds d'écran"
+    new "Fonds d'écran" # TL
 
     # game/screens/pc/pc.rpy:3
     old "Debug Menu"
-    new "Menu Debug"
+    new "Menu Debug" # TL
 
     # game/screens/pc/pc.rpy:3
     old "Replay Menu"
-    new "Menu Replay"
+    new "Menu Replay" # TL
 
     # game/screens/pc/pc.rpy:3
     old "Insert Code"
-    new "Insérer le code"
+    new "Insérer le code" # TL
 
     # game/screens/pc/pc.rpy:3
     old "Difficulty Settings"
-    new "Paramètres de difficulté"
+    new "Paramètres de difficulté" # TL
 
     # game/screens/pc/pc.rpy:15
     old "What's new"
-    new "Nouveautés"
+    new "Nouveautés" # TL
 
     # game/screens/pc/pc.rpy:15
     old "Show all existing cards"
-    new "Afficher toutes les cartes existantes"
+    new "Afficher toutes les cartes existantes" # TL
 
     # game/screens/pc/pc.rpy:103
     old "|{#pcSeparator}"
@@ -44,5 +44,5 @@ translate french strings:
 
     # game/screens/pc/pc.rpy:3
     old "Developer Tools"
-    new "Developer Tools"
+    new "Outils de développement" # TL # Victorius - AI
 

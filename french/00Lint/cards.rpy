@@ -4,5 +4,5 @@ translate french strings:
 
     # game/00Lint/cards.rpy:25
     old "Card's frame is not a composite. Card: {card}"
-    new "Card's frame is not a composite. Card: {card}"
+    new "Le cadre de la carte n'est pas un composite. Carte : {card}" # TL # Victorius - AI
 

@@ -4,23 +4,23 @@
 translate french gym_agi_873b9e9f:
 
     # "It's too late."
-    "C'est trop tard."
+    "C'est trop tard." # TL
 
 # game/places/hotel/expansions/gym/agi.rpy:16
 translate french gym_agi_d97ffb99:
 
     # "You train your agility." id gym_agi_d97ffb99
-    "Entraîne ton agilité." id gym_agi_d97ffb99
+    "Entraîne ton agilité." id gym_agi_d97ffb99 # TL
 
 # game/places/hotel/expansions/gym/agi.rpy:21
 translate french gym_agi_ac89b13d:
 
     # "You feel tired after training today, don't push yourself."
-    "Tu te sens fatigué après l'entraînement d'aujourd'hui, ne te force pas."
+    "Tu te sens fatigué après l'entraînement d'aujourd'hui, ne te force pas." # TL
 
 translate french strings:
 
     # game/places/hotel/expansions/gym/agi.rpy:2
     old "Train agility"
-    new "Entraîner l'agilité"
+    new "Entraîner l'agilité" # TL
 

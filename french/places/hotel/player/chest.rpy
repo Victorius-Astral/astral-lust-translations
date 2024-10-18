@@ -4,5 +4,5 @@
 translate french room_player_chest_73762281:
 
     # "You need to first build a vault."
-    "Vous devez d'abord construire un coffre-fort."
+    "Vous devez d'abord construire un coffre-fort." # TL
 

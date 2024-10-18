@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/tar/Judgement.rpy:6
     old "Judgement"
-    new "Jugement"
+    new "Jugement" # TL
 

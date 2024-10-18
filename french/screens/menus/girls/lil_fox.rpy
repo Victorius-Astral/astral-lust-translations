@@ -4,11 +4,11 @@ translate french strings:
 
     # game/screens/menus/girls/lil_fox.rpy:21
     old "Little Fox"
-    new "Petit Renard"
+    new "Petit Renard" # TL
 
     # game/screens/menus/girls/lil_fox.rpy:22
     old "{gold}[lil_fox] (Little Fox){/gold}"
-    new "{gold}[lil_fox] (Petit Renard){/gold}"
+    new "{gold}[lil_fox] (Petit Renard){/gold}" # TL
 
     # game/screens/menus/girls/lil_fox.rpy:25
     old "{gold}[lil_fox]{/gold}"
@@ -20,7 +20,7 @@ translate french strings:
 
     # game/screens/menus/girls/lil_fox.rpy:22
     old "{gold}[lil_fox!t] (Little Fox){/gold}"
-    new "{gold}[lil_fox!t] (Little Fox){/gold}"
+    new "{gold}[lil_fox!t] (Petit Renard){/gold}" # TL # Victorius - AI
 
     # game/screens/menus/girls/lil_fox.rpy:25
     old "{gold}[lil_fox!t]{/gold}"

@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/abi/Insanity.rpy:6
     old "Insanity"
-    new "La folie"
+    new "La folie" # TL
 

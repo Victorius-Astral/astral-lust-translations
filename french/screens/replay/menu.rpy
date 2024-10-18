@@ -4,9 +4,9 @@ translate french strings:
 
     # game/screens/replay/menu.rpy:56
     old "No image"
-    new "Aucune image"
+    new "Aucune image" # TL
 
     # game/screens/replay/menu.rpy:77
     old "--- Locked ---"
-    new "--- Verrouillé ---"
+    new "--- Verrouillé ---" # TL
 

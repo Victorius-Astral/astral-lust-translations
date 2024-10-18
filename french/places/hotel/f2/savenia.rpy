@@ -4,5 +4,5 @@
 translate french room_f2_savenia_54340ad2:
 
     # th "Why would I enter at this hour? I should return earlier."
-    th "Pourquoi suis-je entré à cette heure-ci? Je devrais rentrer plus tôt."
+    th "Pourquoi suis-je entré à cette heure-ci? Je devrais rentrer plus tôt." # TL
 

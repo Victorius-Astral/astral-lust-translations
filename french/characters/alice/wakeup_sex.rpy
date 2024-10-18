@@ -4,199 +4,199 @@
 translate french alice_wakeup_sex_7459a238:
 
     # alice "Ahmnn~"
-    alice "Ahmnn~"
+    alice "Ahmnn~" # TL # Victorius - AI
 
 # game/characters/alice/wakeup_sex.rpy:9
 translate french alice_wakeup_sex_cf2026c6:
 
     # th "[alice]? This feeling.."
-    th "[alice]? Ce sentiment.."
+    th "[alice]? Ce sentiment.." # TL
 
 # game/characters/alice/wakeup_sex.rpy:16
 translate french alice_wakeup_sex_d72a0bf0:
 
     # th "Fuck! I knew it!"
-    th "Putain ! Je le savais !"
+    th "Putain ! Je le savais !" # TL
 
 # game/characters/alice/wakeup_sex.rpy:17
 translate french alice_wakeup_sex_dce1ba28:
 
     # alice "Ahhn~ Heya, daddy~"
-    alice "Ahhn~ Heya, papa~"
+    alice "Ahhn~ Heya, papa~" # TL
 
 # game/characters/alice/wakeup_sex.rpy:18
 translate french alice_wakeup_sex_e27846d2:
 
     # me "Hello there, darling."
-    me "Bonjour, ma chérie."
+    me "Bonjour, ma chérie." # TL
 
 # game/characters/alice/wakeup_sex.rpy:19
 translate french alice_wakeup_sex_12a2fe04:
 
     # alice "You wanted me to wake you up. Mnnhmm~"
-    alice "Tu voulais que je te réveille. Mnnhmm~"
+    alice "Tu voulais que je te réveille. Mnnhmm~" # TL
 
 # game/characters/alice/wakeup_sex.rpy:20
 translate french alice_wakeup_sex_42da9e55:
 
     # me "I did indeed ask you that, good job."
-    me "Je vous ai en effet demandé ça, bon travail."
+    me "Je vous ai en effet demandé ça, bon travail." # TL
 
 # game/characters/alice/wakeup_sex.rpy:21
 translate french alice_wakeup_sex_0b60a0c3:
 
     # alice "Hehe~"
-    alice "Hehe~"
+    alice "Hehe~" # TL # Victorius - AI
 
 # game/characters/alice/wakeup_sex.rpy:28
 translate french alice_wakeup_sex_631a30a6:
 
     # alice "Mnnhm~"
-    alice "Mnnhm~"
+    alice "Mnnhm~" # TL # Victorius - AI
 
 # game/characters/alice/wakeup_sex.rpy:29
 translate french alice_wakeup_sex_a22eb0aa:
 
     # me "Ahhh!"
-    me "Ahhh!"
+    me "Ahhh!" # TL # Victorius - AI
 
 # game/characters/alice/wakeup_sex.rpy:30
 translate french alice_wakeup_sex_ff0dc255:
 
     # "Her tight pussy wraps around your dick."
-    "Sa chatte serrée s'enroule autour de ta queue."
+    "Sa chatte serrée s'enroule autour de ta queue." # TL
 
 # game/characters/alice/wakeup_sex.rpy:32
 translate french alice_wakeup_sex_fb554a98:
 
     # alice "Your dick is the best, daddy~!"
-    alice "Ta queue est la meilleure, papa~!"
+    alice "Ta queue est la meilleure, papa~!" # TL
 
 # game/characters/alice/wakeup_sex.rpy:39
 translate french alice_wakeup_sex_ac2f5672:
 
     # me "You're the best!"
-    me "Tu es la meilleure!"
+    me "Tu es la meilleure!" # TL
 
 # game/characters/alice/wakeup_sex.rpy:40
 translate french alice_wakeup_sex_e0f33f65:
 
     # alice "I know! Ahh!"
-    alice "Je sais.! Ahh!"
+    alice "Je sais.! Ahh!" # TL
 
 # game/characters/alice/wakeup_sex.rpy:47
 translate french alice_wakeup_sex_3989105e:
 
     # "You feel your orgasm coming."
-    "Vous sentez votre orgasme arriver."
+    "Vous sentez votre orgasme arriver." # TL
 
 # game/characters/alice/wakeup_sex.rpy:48
 translate french alice_wakeup_sex_92d553fb:
 
     # me "I'm about to cum!"
-    me "Je suis sur le point de jouir !"
+    me "Je suis sur le point de jouir !" # TL
 
 # game/characters/alice/wakeup_sex.rpy:49
 translate french alice_wakeup_sex_05e694c8:
 
     # alice "Cum inside, fill me, daddy~!"
-    alice "Jouis à l'intérieur, remplis-moi, papa~!"
+    alice "Jouis à l'intérieur, remplis-moi, papa~!" # TL
 
 # game/characters/alice/wakeup_sex.rpy:57
 translate french alice_wakeup_sex_9edee612:
 
     # me "Ahhhh!"
-    me "Ahhhh!"
+    me "Ahhhh!" # TL # Victorius - AI
 
 # game/characters/alice/wakeup_sex.rpy:58
 translate french alice_wakeup_sex_5533f925:
 
     # alice "Ahmmn~!"
-    alice "Ahmmn~!"
+    alice "Ahmmn~!" # TL # Victorius - AI
 
 # game/characters/alice/wakeup_sex.rpy:61
 translate french alice_wakeup_sex_04a5a874:
 
     # alice "You're so good to me, daddy~"
-    alice "Tu es si bon avec moi, papa.~"
+    alice "Tu es si bon avec moi, papa.~" # TL
 
 # game/characters/alice/wakeup_sex.rpy:62
 translate french alice_wakeup_sex_cfe22bf6:
 
     # me "I surely am, who is the best daddy?"
-    me "Je suis sûrement, qui est le meilleur papa?"
+    me "Je suis sûrement, qui est le meilleur papa?" # TL
 
 # game/characters/alice/wakeup_sex.rpy:65
 translate french alice_wakeup_sex_3b2a1d8f:
 
     # alice "[me] is the best daddy."
-    alice "[me] est le meilleur papa."
+    alice "[me] est le meilleur papa." # TL
 
 # game/characters/alice/wakeup_sex.rpy:66
 translate french alice_wakeup_sex_aa93b10c:
 
     # me "Good girl."
-    me "Bonne fille."
+    me "Bonne fille." # TL
 
 # game/characters/alice/wakeup_sex.rpy:69
 translate french alice_wakeup_sex_e061a7ed:
 
     # alice "I need to get going, though. I've got many things to do."
-    alice "Je dois y aller, cependant. J'ai beaucoup de choses à faire."
+    alice "Je dois y aller, cependant. J'ai beaucoup de choses à faire." # TL
 
 # game/characters/alice/wakeup_sex.rpy:70
 translate french alice_wakeup_sex_decdc482:
 
     # me "Alright, remember to come play with daddy from time to time."
-    me "D'accord, souviens-toi de venir jouer avec papa de temps en temps.."
+    me "D'accord, souviens-toi de venir jouer avec papa de temps en temps.." # TL
 
 # game/characters/alice/wakeup_sex.rpy:73
 translate french alice_wakeup_sex_1d652677:
 
     # alice "Of course daddy. Alice will come play with you again."
-    alice "Bien sûr, papa. Alice viendra encore jouer avec toi."
+    alice "Bien sûr, papa. Alice viendra encore jouer avec toi." # TL
 
 # game/characters/alice/wakeup_sex.rpy:76
 translate french alice_wakeup_sex_3b94b0d1:
 
     # "[alice] went to deal with her own things."
-    "[alice] est allée s'occuper de ses propres affaires."
+    "[alice] est allée s'occuper de ses propres affaires." # TL
 
 # game/characters/alice/wakeup_sex.rpy:77
 translate french alice_wakeup_sex_7ec019f4:
 
     # th "Time to get up, it's afternoon already.."
-    th "Il est temps de se lever, c'est déjà l'après-midi.."
+    th "Il est temps de se lever, c'est déjà l'après-midi.." # TL
 
 # game/characters/alice/wakeup_sex.rpy:83
 translate french alice_wakeup_sex_9edee612_1:
 
     # me "Ahhhh!"
-    me "Ahhhh!"
+    me "Ahhhh!" # TL # Victorius - AI
 
 # game/characters/alice/wakeup_sex.rpy:87
 translate french alice_wakeup_sex_29d0a9b6:
 
     # alice "Daddy~ Why didn't you fill me? I was soooo close~"
-    alice "Papa~ Pourquoi tu ne m'as pas rempli ? J'étais si proche~"
+    alice "Papa~ Pourquoi tu ne m'as pas rempli ? J'étais si proche~" # TL
 
 # game/characters/alice/wakeup_sex.rpy:88
 translate french alice_wakeup_sex_dfcddf81:
 
     # me "You need to first deserve a reward."
-    me "Vous devez d'abord mériter une récompense."
+    me "Vous devez d'abord mériter une récompense." # TL
 
 # game/characters/alice/wakeup_sex.rpy:91
 translate french alice_wakeup_sex_a2ade314:
 
     # alice "No fun.."
-    alice "Pas drôle."
+    alice "Pas drôle." # TL
 
 # game/characters/alice/wakeup_sex.rpy:92
 translate french alice_wakeup_sex_6d414a0a:
 
     # me "Work hard, young lady."
-    me "Travaillez dur, jeune fille."
+    me "Travaillez dur, jeune fille." # TL
 
 # game/characters/alice/wakeup_sex.rpy:95
 translate french alice_wakeup_sex_74f05a4e:
@@ -208,43 +208,43 @@ translate french alice_wakeup_sex_74f05a4e:
 translate french alice_wakeup_sex_426b0330:
 
     # me "Shouldn't you thank me for fucking you?"
-    me "Tu ne devrais pas me remercier de t'avoir baisé ?"
+    me "Tu ne devrais pas me remercier de t'avoir baisé ?" # TL
 
 # game/characters/alice/wakeup_sex.rpy:99
 translate french alice_wakeup_sex_58223bae:
 
     # alice "No fun, [me]. You're no fun at all, I'm out. Let's see who will miss who first."
-    alice "Pas drôle, [me]. Tu n'es pas drôle du tout, je m'en vais. Voyons d'abord qui va manquer à qui."
+    alice "Pas drôle, [me]. Tu n'es pas drôle du tout, je m'en vais. Voyons d'abord qui va manquer à qui." # TL
 
 # game/characters/alice/wakeup_sex.rpy:100
 translate french alice_wakeup_sex_669ef487:
 
     # me "I'm missing you already."
-    me "Tu me manques déjà."
+    me "Tu me manques déjà." # TL
 
 # game/characters/alice/wakeup_sex.rpy:101
 translate french alice_wakeup_sex_22033369:
 
     # alice "I know~"
-    alice "Je sais.~"
+    alice "Je sais.~" # TL
 
 # game/characters/alice/wakeup_sex.rpy:104
 translate french alice_wakeup_sex_b49b2821:
 
     # "[alice] went out leaving you alone."
-    "[alice] est sorti en te laissant seule."
+    "[alice] est sorti en te laissant seule." # TL
 
 # game/characters/alice/wakeup_sex.rpy:105
 translate french alice_wakeup_sex_3cdf7951:
 
     # th "This lass.."
-    th "Cette jeune fille.."
+    th "Cette jeune fille.." # TL
 
 # game/characters/alice/wakeup_sex.rpy:106
 translate french alice_wakeup_sex_7ec019f4_1:
 
     # th "Time to get up, it's afternoon already.."
-    th "Il est temps de se lever, c'est déjà l'après-midi.."
+    th "Il est temps de se lever, c'est déjà l'après-midi.." # TL
 
 # TODO: Translation updated at 2024-10-18 07:37
 
@@ -252,5 +252,5 @@ translate french alice_wakeup_sex_7ec019f4_1:
 translate french alice_wakeup_sex_047bb6e2:
 
     # me "I sure am, who is the best daddy?"
-    me "I sure am, who is the best daddy?"
+    me "Bien sûr, qui est le meilleur papa ?" # TL # Victorius - AI
 

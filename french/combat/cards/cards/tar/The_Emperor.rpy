@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/tar/The_Emperor.rpy:6
     old "The Emperor"
-    new "L'Empereur"
+    new "L'Empereur" # TL
 

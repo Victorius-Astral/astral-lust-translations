@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/abi/Sharpening.rpy:6
     old "Sharpening"
-    new "Aiguiser"
+    new "Aiguiser" # TL
 

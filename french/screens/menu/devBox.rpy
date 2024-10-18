@@ -4,13 +4,13 @@ translate french strings:
 
     # game/screens/menu/devBox.rpy:45
     old "Creator's Magic Box"
-    new "Boîte à magie du créateur"
+    new "Boîte à magie du créateur" # TL
 
     # game/screens/menu/devBox.rpy:107
     old "What is destined will certainly happen."
-    new "Ce qui est destiné arrivera certainement."
+    new "Ce qui est destiné arrivera certainement." # TL
 
     # game/screens/menu/devBox.rpy:141
     old "Inventory"
-    new "Inventaire"
+    new "Inventaire" # TL
 

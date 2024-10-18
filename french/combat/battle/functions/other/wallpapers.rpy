@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/battle/functions/other/wallpapers.rpy:24
     old "Congratulations! You have unlocked a wallpaper - {}"
-    new "Félicitations! Tu as déverrouillé un fond d'écran - {}"
+    new "Félicitations! Tu as déverrouillé un fond d'écran - {}" # TL
 

@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/pow/Dragonborn.rpy:6
     old "Dragonborn"
-    new "Naissance du dragon"
+    new "Naissance du dragon" # TL
 

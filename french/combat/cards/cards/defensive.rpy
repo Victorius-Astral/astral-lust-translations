@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/defensive.rpy:201
     old "Heal"
-    new "Heal"
+    new "Guéris" # TL # Victorius - AI
 

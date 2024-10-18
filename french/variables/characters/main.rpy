@@ -4,5 +4,5 @@ translate french strings:
 
     # game/variables/characters/main.rpy:5
     old "Savenia"
-    new "Savenia"
+    new "Savenia" # TL # Victorius - AI
 

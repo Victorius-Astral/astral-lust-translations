@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/abi/Last_Journey.rpy:39
     old "The Last Journey"
-    new "Le dernier voyage"
+    new "Le dernier voyage" # TL
 

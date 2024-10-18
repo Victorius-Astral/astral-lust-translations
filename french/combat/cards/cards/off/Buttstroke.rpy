@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/off/Buttstroke.rpy:6
     old "Buttstroke"
-    new "Coup de fouet"
+    new "Coup de fouet" # TL
 

@@ -4,36 +4,36 @@ translate french strings:
 
     # added manual
     old "abyssal blood"
-    new "sang abyssal"
+    new "sang abyssal" # TL
 
     # added manual
     old "black bone"
-    new "os noir"
+    new "os noir" # TL
 
     # added manual
     old "maddened heart"
-    new "coeur en colère"
+    new "coeur en colère" # TL
 
     # added manual
     old "dragon scale"
-    new "écaille de dragon"
+    new "écaille de dragon" # TL
 
     # added manual
     old "frozen screams"
-    new "cristaux"
+    new "cristaux" # TL
 
     # added manual
     old "squirming stomach"
-    new "boyeaux"
+    new "boyeaux" # TL
 
     # added manual
     old "dragon bone"
-    new "os de dragon"
+    new "os de dragon" # TL
 
     # added manual
     old "carapace"
-    new "carapace"
+    new "carapace" # TL # Victorius - AI
 
     # added manual
     old "orcish steel"
-    new "acier d'orc"
+    new "acier d'orc" # TL

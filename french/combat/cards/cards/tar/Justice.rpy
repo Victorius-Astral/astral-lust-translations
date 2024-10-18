@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/tar/Justice.rpy:6
     old "Justice"
-    new "Justice"
+    new "Justice" # TL # Victorius - AI
 

@@ -4,5 +4,5 @@ translate french strings:
 
     # game/places/hotel/expansions/vault/add_all.rpy:19
     old "Vault full"
-    new "Chambre forte pleine"
+    new "Chambre forte pleine" # TL
 

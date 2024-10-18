@@ -4,7 +4,7 @@ translate french strings:
 
     # game/screens/menus/girls/girls.rpy:35
     old "{color=#FFD700}----- Main -----{/color}"
-    new "{color=#FFD700}----- Principal -----{/color}"
+    new "{color=#FFD700}----- Principal -----{/color}" # TL
 
     # game/screens/menus/girls/girls.rpy:47
     old "???{#girlsMenu}"
@@ -12,9 +12,9 @@ translate french strings:
 
     # game/screens/menus/girls/girls.rpy:53
     old "\n{color=#FFD700}----- Side -----{/color}"
-    new "\n{color=#FFD700}----- Côté -----{/color}"
+    new "\n{color=#FFD700}----- Côté -----{/color}" # TL
 
     # game/screens/menus/girls/girls.rpy:71
     old "\n{color=#FFD700}----- Other -----{/color}"
-    new "\n{color=#FFD700}----- Autre -----{/color}"
+    new "\n{color=#FFD700}----- Autre -----{/color}" # TL
 

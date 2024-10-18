@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/pow/Heart_of_Flames.rpy:6
     old "Heart of Flames"
-    new "Cœur de flammes"
+    new "Cœur de flammes" # TL
 

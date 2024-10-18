@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/off/Shot.rpy:6
     old "Shot"
-    new "Tir"
+    new "Tir" # TL
 

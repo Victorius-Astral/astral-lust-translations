@@ -4,5 +4,5 @@
 translate french room_empty_ad0e4410:
 
     # "This room is currently unoccupied, you need to find a girl to live in this room."
-    "Cette pièce est actuellement inoccupée, vous devez trouver une fille pour vivre dans cette pièce."
+    "Cette pièce est actuellement inoccupée, vous devez trouver une fille pour vivre dans cette pièce." # TL
 

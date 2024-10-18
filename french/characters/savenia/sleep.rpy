@@ -4,4 +4,4 @@
 translate french sleep_savenia_c6f14d4e:
 
     # th "Yeah, I'm not tired of living yet."
-    th "ouais, je ne suis pas encore fatigué de vivre."
+    th "ouais, je ne suis pas encore fatigué de vivre." # TL

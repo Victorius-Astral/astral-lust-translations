@@ -4,4 +4,4 @@
 translate french forge_upgrade_e0592c43:
 
     # "WiP - Cards upgrades coming soon."
-    "VIP - Des améliorations seront bientôt apportées aux cartes."
+    "VIP - Des améliorations seront bientôt apportées aux cartes." # TL

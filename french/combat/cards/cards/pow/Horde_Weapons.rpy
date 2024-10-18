@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/pow/Horde_Weapons.rpy:6
     old "Horde Weapons"
-    new "Armes de la Horde"
+    new "Armes de la Horde" # TL
 

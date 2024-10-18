@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/enemies/story/TutorialEnemy.rpy:7
     old "Sick Werewolf"
-    new "Loup-garou malade"
+    new "Loup-garou malade" # TL
 

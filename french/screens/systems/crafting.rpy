@@ -4,24 +4,24 @@ translate french strings:
 
     # game/screens/systems/crafting.rpy:12
     old "Item"
-    new "Objet"
+    new "Objet" # TL
 
     # game/screens/systems/crafting.rpy:97
     old "Crafting"
-    new "Développement"
+    new "Développement" # TL
 
     # game/screens/systems/crafting.rpy:172
     old "Materials:"
-    new "Matériaux:"
+    new "Matériaux:" # TL
 
     # game/screens/systems/crafting.rpy:195
     old "Required:"
-    new "Requis:"
+    new "Requis:" # TL
 
     # game/screens/systems/crafting.rpy:222
     old "Weave"
-    new "Tissu"
+    new "Tissu" # TL
 
     # game/screens/systems/crafting.rpy:232
     old "*This item was crafted already.*"
-    new "*Cet article a déjà été préparé.*"
+    new "*Cet article a déjà été préparé.*" # TL

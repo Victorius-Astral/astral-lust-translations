@@ -4,13 +4,13 @@ translate french strings:
 
     # game/variables/classes/Trader.rpy:11
     old "Trader"
-    new "Commerçer"
+    new "Commerçer" # TL
 
     # game/variables/classes/Trader.rpy:347
     old "Relations with {} increased by {:.1f}"
-    new "Les relations avec {} ont été améliorées de {:.1f}"
+    new "Les relations avec {} ont été améliorées de {:.1f}" # TL
 
     # game/variables/classes/Trader.rpy:354
     old " (MAX)"
-    new " (MAX)"
+    new " (MAX)" # TL # Victorius - AI
 

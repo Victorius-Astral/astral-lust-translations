@@ -4,9 +4,9 @@ translate french strings:
 
     # game/combat/cards/cards/ability.rpy:687
     old "Hypnotize"
-    new "Hypnotize"
+    new "Hypnotiser" # TL # Victorius - AI
 
     # game/combat/cards/cards/ability.rpy:895
     old "Last Journey"
-    new "Last Journey"
+    new "Dernier Voyage" # TL # Victorius - AI
 

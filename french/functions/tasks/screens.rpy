@@ -4,37 +4,37 @@ translate french strings:
 
     # game/functions/tasks/screens.rpy:99
     old "Tasks"
-    new "Tâches"
+    new "Tâches" # TL
 
     # game/functions/tasks/screens.rpy:134
     old "Repeat"
-    new "Répéter"
+    new "Répéter" # TL
 
     # game/functions/tasks/screens.rpy:135
     old "Silent"
-    new "Silencieux"
+    new "Silencieux" # TL
 
     # game/functions/tasks/screens.rpy:147
     old "Task Settings"
-    new "Paramètres des tâches"
+    new "Paramètres des tâches" # TL
 
     # game/functions/tasks/screens.rpy:148
     old "Toggle tasks menu with '{b}T{/b}' key"
-    new "Basculer le menu des tâches avec la touche '{b}T{/b}'."
+    new "Basculer le menu des tâches avec la touche '{b}T{/b}'." # TL
 
     # game/functions/tasks/screens.rpy:151
     old "Set new tasks"
-    new "Définir de nouvelles tâches"
+    new "Définir de nouvelles tâches" # TL
 
     # game/functions/tasks/screens.rpy:156
     old "Set all tasks"
-    new "Définir toutes les tâches"
+    new "Définir toutes les tâches" # TL
 
     # game/functions/tasks/screens.rpy:159
     old "On"
-    new "Sur"
+    new "Sur" # TL
 
     # game/functions/tasks/screens.rpy:160
     old "/"
-    new "/"
+    new "/" # TL # Victorius - AI
 

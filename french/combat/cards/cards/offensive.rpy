@@ -4,29 +4,29 @@ translate french strings:
 
     # game/combat/cards/cards/offensive.rpy:63
     old "Strong Bite"
-    new "Strong Bite"
+    new "Morsure Puissante" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:63
     old "Vicious Bite"
-    new "Vicious Bite"
+    new "Morsure Vicieuse" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:63
     old "Beast Bite"
-    new "Beast Bite"
+    new "Morsure de Bête" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:1021
     old "Precise Strike"
-    new "Precise Strike"
+    new "Coup Précis" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:1021
     old "Heavy Strike"
-    new "Heavy Strike"
+    new "Coup Lourd" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:1021
     old "Preventive Strike"
-    new "Preventive Strike"
+    new "Coup Préventif" # TL # Victorius - AI
 
     # game/combat/cards/cards/offensive.rpy:1021
     old "Deadly Strike"
-    new "Deadly Strike"
+    new "Coup Mortel" # TL # Victorius - AI
 

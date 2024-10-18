@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/enemies/abyss/Stickman.rpy:7
     old "Stickman"
-    new "Stickman"
+    new "Stickman" # TL # Victorius - AI
 

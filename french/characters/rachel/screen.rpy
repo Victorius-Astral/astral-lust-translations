@@ -4,4 +4,4 @@ translate french strings:
 
     # game/characters/rachel/screen.rpy:8
     old "Favor:"
-    new "Faveur:"
+    new "Faveur:" # TL

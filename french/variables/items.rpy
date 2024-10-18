@@ -4,116 +4,116 @@ translate french strings:
 
     # game/variables/items.rpy:4
     old "Cloth"
-    new "Tissu"
+    new "Tissu" # TL
 
     # game/variables/items.rpy:4
     old "Coal"
-    new "Charbon"
+    new "Charbon" # TL
 
     # game/variables/items.rpy:4
     old "Fur"
-    new "Fourrure"
+    new "Fourrure" # TL
 
     # game/variables/items.rpy:4
     old "Bone"
-    new "Os"
+    new "Os" # TL
 
     # game/variables/items.rpy:4
     old "Venom"
-    new "Poison"
+    new "Poison" # TL
 
     # game/variables/items.rpy:4
     old "Leather"
-    new "Cuir"
+    new "Cuir" # TL
 
     # game/variables/items.rpy:4
     old "Feather"
-    new "Plume"
+    new "Plume" # TL
 
     # game/variables/items.rpy:4
     old "Carapace"
-    new "Carapace"
+    new "Carapace" # TL # Victorius - AI
 
     # game/variables/items.rpy:4
     old "Abyssal Blood"
-    new "Sang Abyssal"
+    new "Sang Abyssal" # TL
 
     # game/variables/items.rpy:4
     old "Black Bone"
-    new "Os Noir"
+    new "Os Noir" # TL
 
     # game/variables/items.rpy:4
     old "Maddened Heart"
-    new "Coeur en Colère"
+    new "Coeur en Colère" # TL
 
     # game/variables/items.rpy:4
     old "Gun Parts"
-    new "Parties d'Armes"
+    new "Parties d'Armes" # TL
 
     # game/variables/items.rpy:4
     old "Dragon Bone"
-    new "Os de Dragon"
+    new "Os de Dragon" # TL
 
     # game/variables/items.rpy:4
     old "Dragon Scale"
-    new "Écaille de Dragon"
+    new "Écaille de Dragon" # TL
 
     # game/variables/items.rpy:4
     old "Dragon Heart"
-    new "Coeur de Dragon"
+    new "Coeur de Dragon" # TL
 
     # game/variables/items.rpy:4
     old "Succubus Wing"
-    new "Aile de succube"
+    new "Aile de succube" # TL
 
     # game/variables/items.rpy:4
     old "Squirming Stomach"
-    new "Boyeaux"
+    new "Boyeaux" # TL
 
     # game/variables/items.rpy:4
     old "Ghoul Tooth"
-    new "Dent de Goule"
+    new "Dent de Goule" # TL
 
     # game/variables/items.rpy:4
     old "Sigil of the Black"
-    new "Le sceau du Noir"
+    new "Le sceau du Noir" # TL
 
     # game/variables/items.rpy:4
     old "Mysterious Coin"
-    new "Pièce Mystérieuse"
+    new "Pièce Mystérieuse" # TL
 
     # game/variables/items.rpy:4
     old "Currency"
-    new "Monnaie"
+    new "Monnaie" # TL
 
     # game/variables/items.rpy:4
     old "Cap"
-    new "Capsule"
+    new "Capsule" # TL
 
     # game/variables/items.rpy:4
     old "Gold Bar"
-    new "Lingot D'Or"
+    new "Lingot D'Or" # TL
 
     # game/variables/items.rpy:4
     old "Gold Nugget"
-    new "Pépite D'Or"
+    new "Pépite D'Or" # TL
 
     # game/variables/items.rpy:4
     old "Diamond"
-    new "Diamant"
+    new "Diamant" # TL
 
     # game/variables/items.rpy:4
     old "Ice Creams"
-    new "Crème Glaçée"
+    new "Crème Glaçée" # TL
 
     # game/variables/items.rpy:4
     old "Quest"
-    new "Quête"
+    new "Quête" # TL
 
     # game/variables/items.rpy:4
     old "Rose"
-    new "Rose"
+    new "Rose" # TL # Victorius - AI
 
     # game/variables/items.rpy:4
     old "Antibiotics"
-    new "Antibiotiques"
+    new "Antibiotiques" # TL

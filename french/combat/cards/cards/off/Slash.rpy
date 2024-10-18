@@ -4,4 +4,4 @@ translate french strings:
 
     # game/combat/cards/cards/off/Slash.rpy:6
     old "Slash"
-    new "Slash"
+    new "Slash" # TL # Victorius - AI

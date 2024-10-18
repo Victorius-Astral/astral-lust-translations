@@ -4,4 +4,4 @@
 translate french explore_return_ab156556:
 
     # "You go down the foggy road and find your way back."
-    "Vous descendez la route à travers le brouillard et trouvez le chemin du retour."
+    "Vous descendez la route à travers le brouillard et trouvez le chemin du retour." # TL

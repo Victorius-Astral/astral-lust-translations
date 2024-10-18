@@ -4,9 +4,9 @@ translate french strings:
 
     # game/combat/cards/cards/tar/Strength.rpy:6
     old "Strength"
-    new "Force"
+    new "Force" # TL
 
     # game/combat/cards/cards/tar/Strength.rpy:35
     old "your strength ({}) - wisdom ({})"
-    new "votre force ({}) - votre sagesse ({})"
+    new "votre force ({}) - votre sagesse ({})" # TL
 

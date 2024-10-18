@@ -4,5 +4,5 @@ translate french strings:
 
     # game/screens/utility/youDied.rpy:6
     old "YOU DIED"
-    new "YOU DIED"
+    new "VOUS ÊTES MORT" # TL # Victorius - AI
 

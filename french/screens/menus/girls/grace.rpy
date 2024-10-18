@@ -4,7 +4,7 @@ translate french strings:
 
     # game/screens/menus/girls/grace.rpy:20
     old "{gold}[grace] (Grace){/gold}"
-    new "{gold}[grace] (Grâce){/gold}"
+    new "{gold}[grace] (Grâce){/gold}" # TL
 
     # game/screens/menus/girls/grace.rpy:23
     old "{gold}[grace]{/gold}"
@@ -12,13 +12,13 @@ translate french strings:
 
     # game/screens/menus/girls/grace.rpy:25
     old "Nicknames: Gracie"
-    new "Surnoms: Gracie"
+    new "Surnoms: Gracie" # TL
 
     # game/screens/menus/girls/grace.rpy:41
     old "• Handjob: "
-    new "• Branlette: "
+    new "• Branlette: " # TL
 
     # game/screens/menus/girls/grace.rpy:43
     old "• Thighjob: "
-    new "• Branlette des pieds: "
+    new "• Branlette des pieds: " # TL
 

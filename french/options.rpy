@@ -4,5 +4,5 @@ translate french strings:
 
     # game/options.rpy:30
     old "Astral Lust"
-    new "Astral Lust"
+    new "Astral Lust" # TL # Victorius - AI
 

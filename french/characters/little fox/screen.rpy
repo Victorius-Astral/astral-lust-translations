@@ -4,5 +4,5 @@ translate french strings:
 
     # game/characters/little fox/screen.rpy:9
     old "Hunger:"
-    new "Faim:"
+    new "Faim:" # TL
 

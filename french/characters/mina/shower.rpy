@@ -4,31 +4,31 @@
 translate french shower_mina_3823605a:
 
     # "It's [mina], she's taking a shower."
-    "C'est [mina], elle prend une douche."
+    "C'est [mina], elle prend une douche." # TL
 
 # game/characters/mina/shower.rpy:11
 translate french shower_mina_190b0568:
 
     # "You look at her for a while."
-    "Tu la regardes pendant un moment."
+    "Tu la regardes pendant un moment." # TL
 
 # game/characters/mina/shower.rpy:12
 translate french shower_mina_e64f16bc:
 
     # th "She has killer body.."
-    th "Elle a un corps de folie.."
+    th "Elle a un corps de folie.." # TL
 
 # game/characters/mina/shower.rpy:13
 translate french shower_mina_d4536b57:
 
     # th "I wish I could stay longer, but she would probably notice me."
-    th "J'aimerais pouvoir rester plus longtemps, mais elle me remarquerait probablement."
+    th "J'aimerais pouvoir rester plus longtemps, mais elle me remarquerait probablement." # TL
 
 # game/characters/mina/shower.rpy:17
 translate french shower_mina_4dd73ec4:
 
     # "Indeed, she noticed you quickly."
-    "En fait, elle t'a remarqué rapidement."
+    "En fait, elle t'a remarqué rapidement." # TL
 
 # game/characters/mina/shower.rpy:18
 translate french shower_mina_adcfab35:
@@ -40,28 +40,28 @@ translate french shower_mina_adcfab35:
 translate french shower_mina_4989fe05:
 
     # me "I.."
-    me "Je.."
+    me "Je.." # TL
 
 # game/characters/mina/shower.rpy:22
 translate french shower_mina_d97f5fcc:
 
     # mina "Listen, I don't want you to peek at me, it's creepy."
-    mina "Ecoute, je ne veux pas que tu m'espionnes, c'est flippant."
+    mina "Ecoute, je ne veux pas que tu m'espionnes, c'est flippant." # TL
 
 # game/characters/mina/shower.rpy:23
 translate french shower_mina_b847dfb7:
 
     # me "Sorry."
-    me "Je suis désolé."
+    me "Je suis désolé." # TL
 
 # game/characters/mina/shower.rpy:24
 translate french shower_mina_805fa57f:
 
     # th "Time to go, why has gotten into me to think it was a good idea."
-    th "Il est temps d'y aller, qu'est-ce qui m'a pris de penser que c'était une bonne idée ?"
+    th "Il est temps d'y aller, qu'est-ce qui m'a pris de penser que c'était une bonne idée ?" # TL
 
 # game/characters/mina/shower.rpy:30
 translate french shower_mina_096af15a:
 
     # "You have sneakily left the bathroom."
-    "Tu t'es faufilé hors de la salle de bain."
+    "Tu t'es faufilé hors de la salle de bain." # TL

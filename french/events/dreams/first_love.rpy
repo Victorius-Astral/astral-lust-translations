@@ -4,115 +4,115 @@
 translate french d_First_Love_2_ce6c0469:
 
     # th "Charlotte?"
-    th "Charlotte?"
+    th "Charlotte ?" # TL # Victorius - AI
 
 # game/events/dreams/first_love.rpy:8
 translate french d_First_Love_2_cf1d91a7:
 
     # charlotte "Yes? What are you waiting for, [me]?"
-    charlotte "Oui? Qu'est-ce que vous attendez de [me]?"
+    charlotte "Oui? Qu'est-ce que vous attendez de [me]?" # TL
 
 # game/events/dreams/first_love.rpy:9
 translate french d_First_Love_2_027bc502:
 
     # th "Is this a dream?"
-    th "Est-ce un rêve?"
+    th "Est-ce un rêve?" # TL
 
 # game/events/dreams/first_love.rpy:10
 translate french d_First_Love_2_40db55fd:
 
     # th "I remember now, this was the last time I saw her. Charlotte, my first love.."
-    th "Maintenant je me souviens, c'était la dernière fois que je l'ai vue. Charlotte, mon premier amour.."
+    th "Maintenant je me souviens, c'était la dernière fois que je l'ai vue. Charlotte, mon premier amour.." # TL
 
 # game/events/dreams/first_love.rpy:12
 translate french d_First_Love_2_c8e30735:
 
     # charlotte "Are you alright? Something happened?"
-    charlotte "Tu vas bien? Quelque chose ne va pas?"
+    charlotte "Tu vas bien? Quelque chose ne va pas?" # TL
 
 # game/events/dreams/first_love.rpy:13
 translate french d_First_Love_2_669cf7fc:
 
     # me "You are leaving for university tomorrow?"
-    me "Tu vas à l'université demain?"
+    me "Tu vas à l'université demain?" # TL
 
 # game/events/dreams/first_love.rpy:15
 translate french d_First_Love_2_1ea97e2b:
 
     # charlotte "Yes.. Are you sick?"
-    charlotte "Oui... Tu es malade?"
+    charlotte "Oui... Tu es malade?" # TL
 
 # game/events/dreams/first_love.rpy:16
 translate french d_First_Love_2_5a1ca627:
 
     # me "No, I'm fine."
-    me "Non, Je vais bien."
+    me "Non, Je vais bien." # TL
 
 # game/events/dreams/first_love.rpy:18
 translate french d_First_Love_2_b1598f4c:
 
     # charlotte "I know you worry, but it's not like we won't see each other again. I'll be returning every month."
-    charlotte "Je sais que tu es inquiet, mais ce n'est pas comme si on ne se reverrait plus. Je reviendrais tous les mois."
+    charlotte "Je sais que tu es inquiet, mais ce n'est pas comme si on ne se reverrait plus. Je reviendrais tous les mois." # TL
 
 # game/events/dreams/first_love.rpy:19
 translate french d_First_Love_2_5760c233:
 
     # th "I know it's a lie Charlie.."
-    th "Je sais que c'est un mensonge, Charlie..."
+    th "Je sais que c'est un mensonge, Charlie..." # TL
 
 # game/events/dreams/first_love.rpy:23
 translate french d_First_Love_2_61ad819e:
 
     # charlotte "Mmm~ You are so big."
-    charlotte "Mmm~ Tu es si grand."
+    charlotte "Mmm~ Tu es si grand." # TL
 
 # game/events/dreams/first_love.rpy:24
 translate french d_First_Love_2_ccb904e6:
 
     # me "Do you like it?"
-    me "Ça te plaît?"
+    me "Ça te plaît?" # TL
 
 # game/events/dreams/first_love.rpy:25
 translate french d_First_Love_2_98aaf761:
 
     # charlotte "Yes, it stretches my pussy so much."
-    charlotte "Oui, ça étire tellement ma chatte."
+    charlotte "Oui, ça étire tellement ma chatte." # TL
 
 # game/events/dreams/first_love.rpy:32
 translate french d_First_Love_2_e6566f03:
 
     # charlotte "Ahn, Ah!"
-    charlotte "Ahn, Ah!"
+    charlotte "Ahn, Ah !" # TL # Victorius - AI
 
 # game/events/dreams/first_love.rpy:33
 translate french d_First_Love_2_7809c0ea:
 
     # charlotte "You dick is the best~"
-    charlotte "Ton pénis est le meilleur~"
+    charlotte "Ton pénis est le meilleur~" # TL
 
 # game/events/dreams/first_love.rpy:40
 translate french d_First_Love_2_598d5769:
 
     # charlotte "Uhnhaa!"
-    charlotte "Uhnhaa!"
+    charlotte "Uhnhaa !" # TL # Victorius - AI
 
 # game/events/dreams/first_love.rpy:41
 translate french d_First_Love_2_6c433234:
 
     # charlotte "Theeere, that feels great!"
-    charlotte "Lààààà, ça fait du bien!"
+    charlotte "Lààààà, ça fait du bien!" # TL
 
 # game/events/dreams/first_love.rpy:48
 translate french d_First_Love_2_c7d48742:
 
     # charlotte "It's waaay too gooood!"
-    charlotte "C'est tellement boooonnnn!"
+    charlotte "C'est tellement boooonnnn!" # TL
 
 # game/events/dreams/first_love.rpy:49
 translate french d_First_Love_2_444867b3:
 
     # charlotte "Nh~"
-    charlotte "Nh~"
+    charlotte "Nh~" # TL # Victorius - AI
 
 # game/events/dreams/first_love.rpy:50
 translate french d_First_Love_2_057172bb:
@@ -124,37 +124,37 @@ translate french d_First_Love_2_057172bb:
 translate french d_First_Love_2_2f3d23c6:
 
     # "You are cumming!"
-    "Vous jouissez!"
+    "Vous jouissez!" # TL
 
 # game/events/dreams/first_love.rpy:57
 translate french d_First_Love_2_a8019067:
 
     # charlotte "Haa.. Haa.."
-    charlotte "Haa... Haa..."
+    charlotte "Haa... Haa..." # TL
 
 # game/events/dreams/first_love.rpy:59
 translate french d_First_Love_2_15d3cc4e:
 
     # charlotte "Je t'aime, [me]."
-    charlotte "Je t'aime, [me]."
+    charlotte "Je t'aime, [me]." # TL # Victorius - AI
 
 # game/events/dreams/first_love.rpy:60
 translate french d_First_Love_2_a5dc2303:
 
     # me "Je t'aime too, Charlie."
-    me "Moi aussi je t'aime, Charlie."
+    me "Moi aussi je t'aime, Charlie." # TL
 
 # game/events/dreams/first_love.rpy:64
 translate french d_First_Love_2_be4cfbc5:
 
     # me "I need to go Charlie."
-    me "Je dois y aller, Charlie."
+    me "Je dois y aller, Charlie." # TL
 
 # game/events/dreams/first_love.rpy:66
 translate french d_First_Love_2_28dad0e1:
 
     # charlotte "Hey, don't be sad, Je t'aime [me]."
-    charlotte "Hé, ne sois pas triste, je t'aime [me]."
+    charlotte "Hé, ne sois pas triste, je t'aime [me]." # TL
 
 # game/events/dreams/first_love.rpy:67
 translate french d_First_Love_2_3820771a:
@@ -166,18 +166,18 @@ translate french d_First_Love_2_3820771a:
 translate french d_First_Love_2_a5dc2303_1:
 
     # me "Je t'aime too, Charlie."
-    me "Moi aussi je t'aime, Charlie."
+    me "Moi aussi je t'aime, Charlie." # TL
 
 translate french strings:
 
     # game/events/dreams/first_love.rpy:20
     old "Have goodbye sex with her"
-    new "Avoir des relations sexuelles d'adieu avec elle"
+    new "Avoir des relations sexuelles d'adieu avec elle" # TL
 # TODO: Translation updated at 2024-10-18 07:37
 
 # game/events/dreams/first_love.rpy:13
 translate french d_First_Love_2_2a01572e:
 
     # me "Are you leaving for the university tomorrow?"
-    me "Are you leaving for the university tomorrow?"
+    me "Tu pars pour l'université demain ?" # TL # Victorius - AI
 

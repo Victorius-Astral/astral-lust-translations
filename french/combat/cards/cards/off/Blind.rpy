@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/off/Blind.rpy:6
     old "Blind"
-    new "Aveugle"
+    new "Aveugle" # TL
 

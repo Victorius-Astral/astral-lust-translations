@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/abi/Flirtatious_Look.rpy:6
     old "Flirtatious Look"
-    new "Regard flirteur"
+    new "Regard flirteur" # TL
 

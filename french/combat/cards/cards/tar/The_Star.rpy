@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/tar/The_Star.rpy:6
     old "The Star"
-    new "L'étoile"
+    new "L'étoile" # TL
 

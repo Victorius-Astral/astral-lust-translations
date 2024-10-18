@@ -4,4 +4,4 @@
 translate french rachel_sleep_lobby_ebf3f51d:
 
     # th "I shouldn't wake her up. I can talk with her tomorrow."
-    th "Je ne devrais pas la réveiller. Je peux lui parler demain."
+    th "Je ne devrais pas la réveiller. Je peux lui parler demain." # TL

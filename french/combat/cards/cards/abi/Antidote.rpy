@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/abi/Antidote.rpy:6
     old "Antidote"
-    new "Antidote"
+    new "Antidote" # TL # Victorius - AI
 

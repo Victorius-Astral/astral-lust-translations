@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/tar/The_Tower.rpy:6
     old "The Tower"
-    new "La Tour"
+    new "La Tour" # TL
 

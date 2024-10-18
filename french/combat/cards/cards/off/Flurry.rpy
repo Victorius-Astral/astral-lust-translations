@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/off/Flurry.rpy:6
     old "Flurry"
-    new "Flurry"
+    new "Flurry" # TL # Victorius - AI
 

@@ -4,23 +4,23 @@
 translate french room_player_books_873b9e9f:
 
     # "It's too late."
-    "C'est trop tard."
+    "C'est trop tard." # TL
 
 # game/places/hotel/player/books.rpy:17
 translate french room_player_books_eae89651:
 
     # "You read books for a few hours." id room_player_books_eae89651
-    "Tu lis des livres pendant quelques heures." id room_player_books_eae89651
+    "Tu lis des livres pendant quelques heures." id room_player_books_eae89651 # TL
 
 # game/places/hotel/player/books.rpy:22
 translate french room_player_books_e94b717b:
 
     # "Your head hurts after stressing out so much today, you need rest."
-    "Vous avez mal à la tête après avoir tant stressé aujourd'hui, vous avez besoin de repos."
+    "Vous avez mal à la tête après avoir tant stressé aujourd'hui, vous avez besoin de repos." # TL
 
 translate french strings:
 
     # game/places/hotel/player/books.rpy:2
     old "Read books"
-    new "Lire les livres"
+    new "Lire les livres" # TL
 

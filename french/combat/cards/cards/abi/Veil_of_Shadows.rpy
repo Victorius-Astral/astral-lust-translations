@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/abi/Veil_of_Shadows.rpy:6
     old "Veil of Shadows"
-    new "Voile d'ombres"
+    new "Voile d'ombres" # TL
 

@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/enemies/neutral/Crab.rpy:7
     old "Giant Crab"
-    new "Crabe Géant"
+    new "Crabe Géant" # TL
 

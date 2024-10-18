@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/allies/story/AllyTraderDaughter.rpy:8
     old "Trader's Daughter"
-    new "La fille du commerçant"
+    new "La fille du commerçant" # TL
 

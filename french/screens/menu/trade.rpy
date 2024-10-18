@@ -4,5 +4,5 @@ translate french strings:
 
     # game/screens/menu/trade.rpy:127
     old "Relations:"
-    new "Relations:"
+    new "Relations :" # TL # Victorius - AI
 

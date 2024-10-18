@@ -4,5 +4,5 @@ translate french strings:
 
     # game/functions/collect_col.rpy:4
     old "You have found collectible nr. {}"
-    new "Vous avez trouvé le collectible nr. {}"
+    new "Vous avez trouvé le collectible nr. {}" # TL
 

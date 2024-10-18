@@ -4,17 +4,17 @@ translate french strings:
 
     # game/variables/characters/dreams.rpy:1
     old "Charlotte"
-    new "Charlotte"
+    new "Charlotte" # TL # Victorius - AI
 
     # game/variables/characters/dreams.rpy:2
     old "Devil"
-    new "Diable"
+    new "Diable" # TL
 
     # game/variables/characters/dreams.rpy:3
     old "Secretary"
-    new "Secrétaire"
+    new "Secrétaire" # TL
 
     # game/variables/characters/dreams.rpy:4
     old "Dekesha"
-    new "Dekesha"
+    new "Dekesha" # TL # Victorius - AI
 

@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/off/Fire_Breath.rpy:6
     old "Fire Breath"
-    new "Souffle de feu"
+    new "Souffle de feu" # TL
 

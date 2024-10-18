@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/pow/Vampirism.rpy:6
     old "Vampirism"
-    new "Vampirisme"
+    new "Vampirisme" # TL
 

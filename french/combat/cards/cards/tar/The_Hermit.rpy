@@ -4,29 +4,29 @@ translate french strings:
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:6
     old "The Hermit"
-    new "L'Hermite"
+    new "L'Hermite" # TL
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "intelligence"
-    new "intelligence"
+    new "intelligence" # TL # Victorius - AI
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "vitality"
-    new "vitalité"
+    new "vitalité" # TL
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "charisma"
-    new "charisme"
+    new "charisme" # TL
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "agility"
-    new "agilité"
+    new "agilité" # TL
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "wisdom"
-    new "sagesse"
+    new "sagesse" # TL
 
     # game/combat/cards/cards/tar/The_Hermit.rpy:44
     old "strength"
-    new "force"
+    new "force" # TL
 

@@ -4,5 +4,5 @@ translate french strings:
 
     # game/screens/menu/vault.rpy:114
     old "Stored:"
-    new "Stock:"
+    new "Stock:" # TL
 

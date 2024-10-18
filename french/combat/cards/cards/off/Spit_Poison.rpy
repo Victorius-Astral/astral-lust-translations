@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/off/Spit_Poison.rpy:6
     old "Spit Poison"
-    new "Cracher du poison"
+    new "Cracher du poison" # TL
 

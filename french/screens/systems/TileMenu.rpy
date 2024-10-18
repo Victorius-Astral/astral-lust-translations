@@ -5,5 +5,5 @@ translate french strings:
 
     # game/screens/systems/TileMenu.rpy:214
     old "*Click to create."
-    new "*Click to create."
+    new "*Cliquez pour créer." # TL # Victorius - AI
 

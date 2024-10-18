@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/off/Snipe.rpy:6
     old "Snipe"
-    new "Bécassine"
+    new "Bécassine" # TL
 

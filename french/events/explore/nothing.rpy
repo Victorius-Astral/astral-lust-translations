@@ -4,4 +4,4 @@
 translate french explore_nothing_5a73d5f2:
 
     # "You search for a long time, but nothing catches your eye."
-    "Vous cherchez longtemps, mais rien n'attire votre attention."
+    "Vous cherchez longtemps, mais rien n'attire votre attention." # TL

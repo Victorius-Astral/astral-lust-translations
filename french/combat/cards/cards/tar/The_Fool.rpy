@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/tar/The_Fool.rpy:6
     old "The Fool"
-    new "Le Fou"
+    new "Le Fou" # TL
 

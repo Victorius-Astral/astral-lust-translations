@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/pow/Mutate.rpy:6
     old "Mutate"
-    new "Mutant"
+    new "Mutant" # TL
 

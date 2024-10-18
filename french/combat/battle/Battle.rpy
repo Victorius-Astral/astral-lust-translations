@@ -4,21 +4,21 @@ translate french strings:
 
     # game/combat/battle/Battle.rpy:259
     old "Skipped battle"
-    new "Bataille manquée"
+    new "Bataille manquée" # TL
 
     # game/combat/battle/Battle.rpy:970
     old "To attempt escape you need {} spirit."
-    new "Pour tenter de vous échapper, vous avez besoin de {} esprit."
+    new "Pour tenter de vous échapper, vous avez besoin de {} esprit." # TL
 
     # game/combat/battle/Battle.rpy:975
     old "You can't escape from this combat."
-    new "Tu ne peux pas t'échapper de ce combat."
+    new "Tu ne peux pas t'échapper de ce combat." # TL
 
     # game/combat/battle/Battle.rpy:1001
     old "Escaped successfully."
-    new "Échappé avec succès."
+    new "Échappé avec succès." # TL
 
     # game/combat/battle/Battle.rpy:1015
     old "Failed to escape."
-    new "Échec de l'évasion."
+    new "Échec de l'évasion." # TL
 

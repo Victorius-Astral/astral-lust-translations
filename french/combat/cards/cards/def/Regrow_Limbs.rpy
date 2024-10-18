@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/def/Regrow_Limbs.rpy:6
     old "Regrow Limbs"
-    new "Régénération des membres"
+    new "Régénération des membres" # TL
 

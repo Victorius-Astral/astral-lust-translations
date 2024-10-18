@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/off/Headbutt.rpy:6
     old "Headbutt"
-    new "Coup de tête"
+    new "Coup de tête" # TL
 

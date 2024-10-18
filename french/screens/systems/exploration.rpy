@@ -4,33 +4,33 @@ translate french strings:
 
     # game/screens/systems/exploration.rpy:2
     old "Slums"
-    new "Slums"
+    new "Bidonvilles" # TL # Victorius - AI
 
     # game/screens/systems/exploration.rpy:2
     old "Market District"
-    new "Market District"
+    new "Quartier du Marché" # TL # Victorius - AI
 
     # game/screens/systems/exploration.rpy:2
     old "Residential District"
-    new "Residential District"
+    new "Quartier Résidentiel" # TL # Victorius - AI
 
     # game/screens/systems/exploration.rpy:2
     old "Business District"
-    new "Business District"
+    new "Quartier d'Affaires" # TL # Victorius - AI
 
     # game/screens/systems/exploration.rpy:2
     old "Industrial Area"
-    new "Industrial Area"
+    new "Zone Industrielle" # TL # Victorius - AI
 
     # game/screens/systems/exploration.rpy:2
     old "Ruins"
-    new "Ruins"
+    new "Ruines" # TL # Victorius - AI
 
     # game/screens/systems/exploration.rpy:2
     old "Wanderer's Hideout"
-    new "Wanderer's Hideout"
+    new "Repaire du Vagabond" # TL # Victorius - AI
 
     # game/screens/systems/exploration.rpy:29
     old "Path of Destiny"
-    new "Path of Destiny"
+    new "Chemin du Destin" # TL # Victorius - AI
 

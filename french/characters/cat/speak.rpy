@@ -4,5 +4,5 @@ translate french strings:
 
     # game/characters/cat/speak.rpy:2
     old "Pat"
-    new "Tapoter"
+    new "Tapoter" # TL
 

@@ -4,35 +4,35 @@ translate french strings:
 
     # game/functions/tasks/Tasks.rpy:108
     old "Task"
-    new "Tâche"
+    new "Tâche" # TL
 
     # game/functions/tasks/Tasks.rpy:139
     old "{} week"
-    new "{} semaine"
+    new "{} semaine" # TL
 
     # game/functions/tasks/Tasks.rpy:142
     old "{} weeks"
-    new "{} semaines"
+    new "{} semaines" # TL
 
     # game/functions/tasks/Tasks.rpy:149
     old "{} day"
-    new "{} jour"
+    new "{} jour" # TL
 
     # game/functions/tasks/Tasks.rpy:152
     old "{} days"
-    new "{} jours"
+    new "{} jours" # TL
 
     # game/functions/tasks/Tasks.rpy:157
     old "{} period"
-    new "{} période"
+    new "{} période" # TL
 
     # game/functions/tasks/Tasks.rpy:160
     old "{} periods"
-    new "{} périodes"
+    new "{} périodes" # TL
 
     # game/functions/tasks/Tasks.rpy:164
     old "Completed"
-    new "Terminé"
+    new "Terminé" # TL
 
 # TODO: Translation updated at 2022-11-13 15:21
 
@@ -40,5 +40,5 @@ translate french strings:
 
     # game/functions/tasks/Tasks.rpy:181
     old "Blocked"
-    new "Blocked"
+    new "Bloqué" # TL # Victorius - AI
 

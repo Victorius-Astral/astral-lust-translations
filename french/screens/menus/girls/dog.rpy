@@ -4,7 +4,7 @@ translate french strings:
 
     # game/screens/menus/girls/dog.rpy:18
     old "{gold}[dog] (Dog){/gold}"
-    new "{gold}[dog] (Chien){/gold}"
+    new "{gold}[dog] (Chien){/gold}" # TL
 
     # game/screens/menus/girls/dog.rpy:21
     old "{gold}[dog]{/gold}"

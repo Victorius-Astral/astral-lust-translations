@@ -4,5 +4,5 @@
 translate french room_library_door_5ae9413c:
 
     # "Coming soon."
-    "C'est pour bientôt."
+    "C'est pour bientôt." # TL
 

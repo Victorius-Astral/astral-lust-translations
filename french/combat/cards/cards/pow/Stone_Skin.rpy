@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/pow/Stone_Skin.rpy:6
     old "Stone Skin"
-    new "Peau de pierre"
+    new "Peau de pierre" # TL
 

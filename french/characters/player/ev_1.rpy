@@ -4,7 +4,7 @@
 translate french main_1_3fc06b79:
 
     # "You feel yourself floating weightlessly for a long time.. Suddenly you hear someone calling your name from somewhere behind you. You open your eyes, but you are greeted only with darkness."
-    "Vous avez l'impression de flotter en apesanteur pendant un long moment.. Soudain, vous entendez quelqu'un crier votre nom de quelque part derrière vous. Vous ouvrez les yeux, mais seules les ténèbres vous accueillent"
+    "Vous avez l'impression de flotter en apesanteur pendant un long moment.. Soudain, vous entendez quelqu'un crier votre nom de quelque part derrière vous. Vous ouvrez les yeux, mais seules les ténèbres vous accueillent" # TL
 
 # game/characters/player/ev_1.rpy:5
 translate french main_1_6af8758a:
@@ -16,162 +16,162 @@ translate french main_1_6af8758a:
 translate french main_1_b02fb48a:
 
     # th "Who's there?"
-    th "Qui est là ?"
+    th "Qui est là ?" # TL
 
 # game/characters/player/ev_1.rpy:7
 translate french main_1_53aeecf5:
 
     # u_lexi "Look at me [me]."
-    u_lexi "Regardez-moi, [me]."
+    u_lexi "Regardez-moi, [me]." # TL
 
 # game/characters/player/ev_1.rpy:8
 translate french main_1_c26cdfa9:
 
     # "This voice sounds familiar. You're sure you have heard it before.."
-    "Cette voix me semble familière. Sûr que vous l'avez déjà entendu..."
+    "Cette voix me semble familière. Sûr que vous l'avez déjà entendu..." # TL
 
 # game/characters/player/ev_1.rpy:14
 translate french main_1_4664a170:
 
     # th "This is too weird. I don't want to know what or who is calling me."
-    th "C'est très rare. Je ne veux pas savoir qui ou quoi m'appelle."
+    th "C'est très rare. Je ne veux pas savoir qui ou quoi m'appelle." # TL
 
 # game/characters/player/ev_1.rpy:15
 translate french main_1_8d917b68:
 
     # "You close your eyes and the voice begins to fade into the distance."
-    "Vous fermez les yeux et la voix commence à s'estomper dans le lointain."
+    "Vous fermez les yeux et la voix commence à s'estomper dans le lointain." # TL
 
 # game/characters/player/ev_1.rpy:16
 translate french main_1_c0240879:
 
     # "When you open your eyes again, you're back at the hotel."
-    "Quand vous rouvrez les yeux, vous êtes de retour à l'hôtel."
+    "Quand vous rouvrez les yeux, vous êtes de retour à l'hôtel." # TL
 
 # game/characters/player/ev_1.rpy:20
 translate french main_1_1_d5b34f49:
 
     # "As you slowly turn around you're met with a truly beautiful sight!"
-    "Lorsque vous vous retournez lentement, vous êtes confrontés à une vue vraiment magnifique !"
+    "Lorsque vous vous retournez lentement, vous êtes confrontés à une vue vraiment magnifique !" # TL
 
 # game/characters/player/ev_1.rpy:22
 translate french main_1_1_845eb188:
 
     # "It's [lexi]! And she is naked!"
-    "C'est [lexi]! Et elle est nue!"
+    "C'est [lexi]! Et elle est nue!" # TL
 
 # game/characters/player/ev_1.rpy:23
 translate french main_1_1_b5029d9f:
 
     # me "[lexi] what are you doing here? Where are we?"
-    me "[lexi] Que faites-vous ici? Où sommes-nous?"
+    me "[lexi] Que faites-vous ici? Où sommes-nous?" # TL
 
 # game/characters/player/ev_1.rpy:25
 translate french main_1_1_8f991265:
 
     # "Ignoring your questions, she smiles and comes closer."
-    "Ignorant vos questions, elle sourit et s'approche."
+    "Ignorant vos questions, elle sourit et s'approche." # TL
 
 # game/characters/player/ev_1.rpy:26
 translate french main_1_1_30dfb50f:
 
     # "She drifts closer to you in the inky void."
-    "Elle se rapproche de vous dans le vide."
+    "Elle se rapproche de vous dans le vide." # TL
 
 # game/characters/player/ev_1.rpy:28
 translate french main_1_1_0ae422f2:
 
     # lexi "Go on. I know that you want to touch me. I don't mind."
-    lexi "Allons-y. Je sais que tu veux me toucher. Ça ne me dérange pas."
+    lexi "Allons-y. Je sais que tu veux me toucher. Ça ne me dérange pas." # TL
 
 # game/characters/player/ev_1.rpy:31
 translate french main_1_1_161f0404:
 
     # th "I simply can't resist those puppies."
-    th "Je ne peux pas résister à ça."
+    th "Je ne peux pas résister à ça." # TL
 
 # game/characters/player/ev_1.rpy:35
 translate french main_1_1_63ba18e1:
 
     # lexi "Mmm.."
-    lexi "Mmm..."
+    lexi "Mmm..." # TL
 
 # game/characters/player/ev_1.rpy:37
 translate french main_1_1_547b7cf8:
 
     # lexi "Yeees.. More.."
-    lexi "Ooouuuiii.. Encore.."
+    lexi "Ooouuuiii.. Encore.." # TL
 
 # game/characters/player/ev_1.rpy:38
 translate french main_1_1_9350e5e1:
 
     # "[lexi] melts under your touch. Her desire makes your own desire to start to burn."
-    "[lexi] fond sous votre contact. Son désir fait que votre propre désir commence à brûler."
+    "[lexi] fond sous votre contact. Son désir fait que votre propre désir commence à brûler." # TL
 
 # game/characters/player/ev_1.rpy:40
 translate french main_1_1_60683787:
 
     # "[lexi] suddenly takes a step back."
-    "[lexi] prend soudainement du recul."
+    "[lexi] prend soudainement du recul." # TL
 
 # game/characters/player/ev_1.rpy:41
 translate french main_1_1_4a95aca6:
 
     # me "W-Why?"
-    me "P-Pourquoi?"
+    me "P-Pourquoi?" # TL
 
 # game/characters/player/ev_1.rpy:43
 translate french main_1_1_2170db39:
 
     # "[lexi] smiles brightly at your question."
-    "[lexi] sourit brillamment à votre question."
+    "[lexi] sourit brillamment à votre question." # TL
 
 # game/characters/player/ev_1.rpy:44
 translate french main_1_1_f137d1ac:
 
     # lexi "Wake up."
-    lexi "Réveille-toi."
+    lexi "Réveille-toi." # TL
 
 # game/characters/player/ev_1.rpy:48
 translate french main_1_1_8f8d3e04:
 
     # th "Something is really wrong here. I need to resist this desire."
-    th "Quelque chose ne va vraiment pas ici. Je dois résister à ce désir."
+    th "Quelque chose ne va vraiment pas ici. Je dois résister à ce désir." # TL
 
 # game/characters/player/ev_1.rpy:50
 translate french main_1_1_2d4bd7f5:
 
     # "Seeing your resolve [lexi] smiles even more."
-    "En voyant votre détermination, [lexi] sourit encore plus."
+    "En voyant votre détermination, [lexi] sourit encore plus." # TL
 
 # game/characters/player/ev_1.rpy:51
 translate french main_1_1_7441b7b9:
 
     # lexi "Next time then."
-    lexi "La prochaine fois alors."
+    lexi "La prochaine fois alors." # TL
 
 # game/characters/player/ev_1.rpy:52
 translate french main_1_1_f137d1ac_1:
 
     # lexi "Wake up."
-    lexi "Réveille-toi."
+    lexi "Réveille-toi." # TL
 
 # game/characters/player/ev_1.rpy:65
 translate french main_1_2_251ccb3e:
 
     # th "What was that dream? It felt so real.."
-    th "Quel était ce rêve? C'était si réel.."
+    th "Quel était ce rêve? C'était si réel.." # TL
 
 translate french strings:
 
     # game/characters/player/ev_1.rpy:9
     old "Turn around"
-    new "Se retourner"
+    new "Se retourner" # TL
 
     # game/characters/player/ev_1.rpy:9
     old "Don't do this"
-    new "Ne pas faire ça."
+    new "Ne pas faire ça." # TL
 
     # game/characters/player/ev_1.rpy:29
     old "Touch her"
-    new "La toucher"
+    new "La toucher" # TL

@@ -10,19 +10,19 @@ translate french death_2_3522c826:
 translate french death_2_f16959ca:
 
     # th "I'll never get used to this.."
-    th "Je ne m'habituerai jamais à ça..."
+    th "Je ne m'habituerai jamais à ça..." # TL
 
 # game/events/death.rpy:54
 translate french death_2_6c20ad7b:
 
     # th "Death.. the end of a life story."
-    th "Mourir.. la fin d'une histoire de vie."
+    th "Mourir.. la fin d'une histoire de vie." # TL
 
 # game/events/death.rpy:55
 translate french death_2_a5d97ab8:
 
     # th "Well for me it's more like a new chapter."
-    th "Eh bien, pour moi, c'est plus comme un nouveau chapitre."
+    th "Eh bien, pour moi, c'est plus comme un nouveau chapitre." # TL
 
 # game/events/death.rpy:57
 translate french death_2_15f7e11d:
@@ -34,19 +34,19 @@ translate french death_2_15f7e11d:
 translate french death_2_9bdae326:
 
     # th "Is it I or is it He.."
-    th "C'est Moi ou c'est Lui.."
+    th "C'est Moi ou c'est Lui.." # TL
 
 # game/events/death.rpy:61
 translate french death_2_281345e5:
 
     # th "It's been ten times if I count correctly.."
-    th "C'est arrivé dix fois si je compte bien.."
+    th "C'est arrivé dix fois si je compte bien.." # TL
 
 # game/events/death.rpy:62
 translate french death_2_97ac1ef1:
 
     # th "Life and death are indeed just like a story. Before The End I would never think like that.. Well, that's some character progression haha."
-    th "La vie et la mort sont en fait comme une histoire. Avant La Fin, je ne penserais jamais comme ça... Eh bien, c'est un développement de personnage haha."
+    th "La vie et la mort sont en fait comme une histoire. Avant La Fin, je ne penserais jamais comme ça... Eh bien, c'est un développement de personnage haha." # TL
 
 # game/events/death.rpy:64
 translate french death_2_3522c826_1:
@@ -58,25 +58,25 @@ translate french death_2_3522c826_1:
 translate french death_2_04c5e3ac:
 
     # th "I wonder if I'm still myself or someone else entirely.."
-    th "Je me demande si je suis toujours moi-même ou quelqu'un de complètement différent.."
+    th "Je me demande si je suis toujours moi-même ou quelqu'un de complètement différent.." # TL
 
 # game/events/death.rpy:68
 translate french death_2_7af7c337:
 
     # th "Ahh.. I'm becoming numb to it.."
-    th "Ahh... Je deviens engourdi à l'idée de mourir.."
+    th "Ahh... Je deviens engourdi à l'idée de mourir.." # TL
 
 # game/events/death.rpy:69
 translate french death_2_f71d89ea:
 
     # th "Death is indeed the end of one story and beginning of another."
-    th "La mort est en fait la fin d'une histoire et le début d'une autre."
+    th "La mort est en fait la fin d'une histoire et le début d'une autre." # TL
 
 # game/events/death.rpy:71
 translate french death_2_4be85466:
 
     # me "Who is the protagonist of this story? Is it I or is it you Author?"
-    me "Qui est le protagoniste de cette histoire? Est-ce moi ou vous l'auteur?"
+    me "Qui est le protagoniste de cette histoire? Est-ce moi ou vous l'auteur?" # TL
 
 # game/events/death.rpy:72
 translate french death_2_3820771a:
@@ -88,19 +88,19 @@ translate french death_2_3820771a:
 translate french death_2_71b0464e:
 
     # me "Don't reply if you don't want to.."
-    me "Ne répondez pas si vous ne voyez pas de quoi.."
+    me "Ne répondez pas si vous ne voyez pas de quoi.." # TL
 
 # game/events/death.rpy:78
 translate french death_2_d27a766d:
 
     # "You feel as Author influences you, making you a bit more like Him."
-    "Vous sentez que l'Auteur vous influence, vous faisant un peu plus comme Lui."
+    "Vous sentez que l'Auteur vous influence, vous faisant un peu plus comme Lui." # TL
 
 # game/events/death.rpy:81
 translate french death_2_b8f501e3:
 
     # "You get up from your bed after a while."
-    "Vous sortez du lit au bout d'un moment."
+    "Vous sortez du lit au bout d'un moment." # TL
 
 # : Translation updated at 2022-01-25 22:41
 
@@ -108,4 +108,4 @@ translate french strings:
 
     # game/events/death.rpy:31
     old "You died"
-    new "Vous êtes mort"
+    new "Vous êtes mort" # TL

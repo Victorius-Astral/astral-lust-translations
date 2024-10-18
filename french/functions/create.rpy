@@ -4,8 +4,8 @@ translate french strings:
 
     # game/functions/create.rpy:31
     old "Gun Assembly Station"
-    new "Station d'assemblage d'armes"
+    new "Station d'assemblage d'armes" # TL
 
     # game/functions/create.rpy:206
     old "Table level insufficient!"
-    new "¡Niveau de table insuffisant!"
+    new "¡Niveau de table insuffisant!" # TL

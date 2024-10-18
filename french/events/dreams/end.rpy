@@ -4,4 +4,4 @@
 translate french dream_end_a85086ed:
 
     # "The images dim as the dream fades."
-    "Les images s'assombrissent à mesure que le rêve s'estompe."
+    "Les images s'assombrissent à mesure que le rêve s'estompe." # TL

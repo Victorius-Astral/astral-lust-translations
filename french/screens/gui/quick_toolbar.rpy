@@ -4,5 +4,5 @@ translate french strings:
 
     # game/screens/gui/quick_toolbar.rpy:96
     old "Map"
-    new "Map"
+    new "Carte" # TL # Victorius - AI
 

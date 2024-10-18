@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/off/Fireworks.rpy:12
     old "Fireworks"
-    new "Feu d'artifice"
+    new "Feu d'artifice" # TL
 

@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/pow/Unshakable.rpy:6
     old "Unshakable"
-    new "Inébranlable"
+    new "Inébranlable" # TL
 

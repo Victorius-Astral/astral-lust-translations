@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/abi/Act_of_Creation.rpy:6
     old "Act of Creation"
-    new "Acte de création"
+    new "Acte de création" # TL
 

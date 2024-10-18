@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/abi/Seduce.rpy:6
     old "Seduce"
-    new "Séduire"
+    new "Séduire" # TL
 

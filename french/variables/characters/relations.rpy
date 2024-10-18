@@ -4,13 +4,13 @@ translate french strings:
 
     # game/variables/characters/relations.rpy:1
     old "sister"
-    new "sœur"
+    new "sœur" # TL
 
     # game/variables/characters/relations.rpy:2
     old "sis"
-    new "sœurette"
+    new "sœurette" # TL
 
     # game/variables/characters/relations.rpy:5
     old "Master"
-    new "Maître"
+    new "Maître" # TL
 

@@ -4,9 +4,9 @@ translate french strings:
 
     # game/variables/classes/Codex.rpy:20
     old "Entry updated - {}."
-    new "Entrée mise à jour - {}."
+    new "Entrée mise à jour - {}." # TL
 
     # game/variables/classes/Codex.rpy:29
     old "Entry added - {}."
-    new "Entrée ajoutée - {}."
+    new "Entrée ajoutée - {}." # TL
 

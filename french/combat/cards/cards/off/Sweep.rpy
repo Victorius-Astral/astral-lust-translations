@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/off/Sweep.rpy:6
     old "Sweep"
-    new "Balayer"
+    new "Balayer" # TL
 

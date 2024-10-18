@@ -4,29 +4,29 @@ translate french strings:
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Ordinary"
-    new "Ordinaire"
+    new "Ordinaire" # TL
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Extraordinary"
-    new "Extraordinaire"
+    new "Extraordinaire" # TL
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Mythical"
-    new "Mythique"
+    new "Mythique" # TL
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Angelic"
-    new "Angélique"
+    new "Angélique" # TL
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Divine"
-    new "Divin"
+    new "Divin" # TL
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Tarot"
-    new "Tarot"
+    new "Tarot" # TL # Victorius - AI
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Unique"
-    new "Unique"
+    new "Unique" # TL # Victorius - AI
 

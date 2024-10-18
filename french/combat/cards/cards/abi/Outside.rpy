@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/abi/Outside.rpy:6
     old "Outside {#card}"
-    new "Outside {#card}"
+    new "Dehors {#card}" # TL # Victorius - AI
 

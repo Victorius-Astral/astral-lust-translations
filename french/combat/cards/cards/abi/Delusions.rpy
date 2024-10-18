@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/abi/Delusions.rpy:55
     old "Delusions"
-    new "Délires"
+    new "Délires" # TL
 

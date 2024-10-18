@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/off/Kiaras_Gambit.rpy:6
     old "Kiara's Gambit"
-    new "Gambit de Kiara"
+    new "Gambit de Kiara" # TL
 

@@ -4,23 +4,23 @@
 translate french room_wanderers_player_sleep_62d1a43b:
 
     # "You feel full of energy."
-    "Vous vous sentez plein d'énergie."
+    "Vous vous sentez plein d'énergie." # TL
 
 translate french strings:
 
     # game/places/wanderers/player.rpy:4
     old "What do you want to do?"
-    new "Que voulez-vous faire?"
+    new "Que voulez-vous faire?" # TL
 
     # game/places/wanderers/player.rpy:4
     old "Sleep"
-    new "Dormir"
+    new "Dormir" # TL
 
     # game/places/wanderers/player.rpy:4
     old "Rest"
-    new "Se reposer"
+    new "Se reposer" # TL
 
     # game/places/wanderers/player.rpy:4
     old "Storage/Crafting"
-    new "Stockage/artisanat"
+    new "Stockage/artisanat" # TL
 

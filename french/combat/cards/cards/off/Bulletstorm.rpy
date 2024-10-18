@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/off/Bulletstorm.rpy:6
     old "Bulletstorm"
-    new "Tempête de balles"
+    new "Tempête de balles" # TL
 

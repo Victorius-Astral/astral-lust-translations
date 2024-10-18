@@ -4,5 +4,5 @@ translate french strings:
 
     # game/combat/cards/cards/abi/Infection.rpy:6
     old "Infection"
-    new "Infection"
+    new "Infection" # TL # Victorius - AI
 

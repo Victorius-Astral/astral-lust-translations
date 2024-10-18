@@ -4,7 +4,7 @@
 translate french kiara_2_325a0512:
 
     # kiara "I can kill you."
-    kiara "Je peux te tuer."
+    kiara "Je peux te tuer." # TL
 
 # game/characters/kiara/ev_2.rpy:7
 translate french kiara_2_3820771a:
@@ -16,323 +16,323 @@ translate french kiara_2_3820771a:
 translate french kiara_2_a2f16c7c:
 
     # me "You know what, I'm good by myself."
-    me "Tu sais quoi, je vais bien tout seul."
+    me "Tu sais quoi, je vais bien tout seul." # TL
 
 # game/characters/kiara/ev_2.rpy:10
 translate french kiara_2_9c266e67:
 
     # kiara "So you don't want my help?"
-    kiara "Alors tu ne vois pas ce qu'est mon aide?"
+    kiara "Alors tu ne vois pas ce qu'est mon aide?" # TL
 
 # game/characters/kiara/ev_2.rpy:11
 translate french kiara_2_55beb49e:
 
     # me "How is dying going to help me?"
-    me "En quoi mourir va-t-il m'aider?"
+    me "En quoi mourir va-t-il m'aider?" # TL
 
 # game/characters/kiara/ev_2.rpy:12
 translate french kiara_2_92d5f8c6:
 
     # kiara "I would reward you with an ability, it would stay with you even after death."
-    kiara "Il vous récompenserait avec une compétence, et il resterait avec vous même après la mort."
+    kiara "Il vous récompenserait avec une compétence, et il resterait avec vous même après la mort." # TL
 
 # game/characters/kiara/ev_2.rpy:13
 translate french kiara_2_2d9d1337:
 
     # th "I'm going to let her kill me? For a reward? Isn't it trading human life? I would resurrect, though.."
-    th "Vais-je le laisser me tuer? Pour une récompense? N'est-ce pas échanger des vies humaines? cependant, il ressusciterait..."
+    th "Vais-je le laisser me tuer? Pour une récompense? N'est-ce pas échanger des vies humaines? cependant, il ressusciterait..." # TL
 
 # game/characters/kiara/ev_2.rpy:23
 translate french kiara_2_d5bc90a1:
 
     # kiara "Find me when you change your mind."
-    kiara "Cherchez-moi quand vous changerez d'avis."
+    kiara "Cherchez-moi quand vous changerez d'avis." # TL
 
 # game/characters/kiara/ev_2.rpy:30
 translate french kiara_2_9e5dc382:
 
     # kiara "You'll change your mind."
-    kiara "Vous allez changer d'avis."
+    kiara "Vous allez changer d'avis." # TL
 
 # game/characters/kiara/ev_2.rpy:36
 translate french kiara_2_1_2a66a67e:
 
     # kiara "It seems you have changed your mind."
-    kiara "Vous semblez avoir changé d'avis."
+    kiara "Vous semblez avoir changé d'avis." # TL
 
 # game/characters/kiara/ev_2.rpy:37
 translate french kiara_2_1_5494f9e9:
 
     # me "Go on, laugh all you want."
-    me "Allez, ris autant que tu veux."
+    me "Allez, ris autant que tu veux." # TL
 
 # game/characters/kiara/ev_2.rpy:39
 translate french kiara_2_1_3890a251:
 
     # kiara "Oh? I won't. So let me explain what it's about."
-    kiara "Oh? Je ne le ferai pas, alors laissez-moi vous expliquer de quoi il s'agit."
+    kiara "Oh? Je ne le ferai pas, alors laissez-moi vous expliquer de quoi il s'agit." # TL
 
 # game/characters/kiara/ev_2.rpy:44
 translate french kiara_2_2_13eef262:
 
     # kiara "As you already know, I would kill you."
-    kiara "Comme vous le savez, je vous tuerais."
+    kiara "Comme vous le savez, je vous tuerais." # TL
 
 # game/characters/kiara/ev_2.rpy:45
 translate french kiara_2_2_64c52efe:
 
     # me "What for?"
-    me "Pour quoi faire?"
+    me "Pour quoi faire?" # TL
 
 # game/characters/kiara/ev_2.rpy:47
 translate french kiara_2_2_23db65f7:
 
     # kiara "I want to know why you didn't contract any mental illness after your mind was removed from your spiritual body."
-    kiara "Je veux savoir pourquoi vous n'avez contracté aucune maladie mentale après que votre esprit a été retiré de votre corps spirituel."
+    kiara "Je veux savoir pourquoi vous n'avez contracté aucune maladie mentale après que votre esprit a été retiré de votre corps spirituel." # TL
 
 # game/characters/kiara/ev_2.rpy:48
 translate french kiara_2_2_ff09ba6b:
 
     # me "I understand what you want to do, but why do you want to know this so much?"
-    me "Je comprends ce que Vous voulez faire, mais pourquoi voulez-vous le savoir autant?"
+    me "Je comprends ce que Vous voulez faire, mais pourquoi voulez-vous le savoir autant?" # TL
 
 # game/characters/kiara/ev_2.rpy:49
 translate french kiara_2_2_fc073ced:
 
     # kiara "Your resurrection challenges everything I know about mysticism. I simply want to clarify some things."
-    kiara "Ta résurrection défie tout ce que je sais sur le mysticisme. Je veux juste clarifier quelques choses."
+    kiara "Ta résurrection défie tout ce que je sais sur le mysticisme. Je veux juste clarifier quelques choses." # TL
 
 # game/characters/kiara/ev_2.rpy:50
 translate french kiara_2_2_cff809f4:
 
     # me "Curiosity is dangerous."
-    me "La curiosité est dangereuse."
+    me "La curiosité est dangereuse." # TL
 
 # game/characters/kiara/ev_2.rpy:52
 translate french kiara_2_2_3a4307cd:
 
     # kiara "You don't need to teach me things I taught you myself."
-    kiara "Tu n'as pas besoin de m'apprendre des choses que je t'ai apprises moi-même."
+    kiara "Tu n'as pas besoin de m'apprendre des choses que je t'ai apprises moi-même." # TL
 
 # game/characters/kiara/ev_2.rpy:54
 translate french kiara_2_2_34b699de:
 
     # kiara "Don't worry I can do this without drawing any attention."
-    kiara "Ne vous inquiétez pas, je peux le faire sans attirer l'attention."
+    kiara "Ne vous inquiétez pas, je peux le faire sans attirer l'attention." # TL
 
 # game/characters/kiara/ev_2.rpy:55
 translate french kiara_2_2_65051c26:
 
     # kiara "Do you want to try?"
-    kiara "Tu veux essayer?"
+    kiara "Tu veux essayer?" # TL
 
 # game/characters/kiara/ev_2.rpy:59
 translate french kiara_2_2_0adf44a8:
 
     # kiara "Don't worry. You won't be losing on this deal."
-    kiara "Ne vous inquiétez pas. Vous ne perdrez pas dans cet accord."
+    kiara "Ne vous inquiétez pas. Vous ne perdrez pas dans cet accord." # TL
 
 # game/characters/kiara/ev_2.rpy:65
 translate french kiara_2_2_b37b7830:
 
     # kiara "Very well, come when you change your mind."
-    kiara "D'accord, viens quand tu changeras d'avis."
+    kiara "D'accord, viens quand tu changeras d'avis." # TL
 
 # game/characters/kiara/ev_2.rpy:71
 translate french kiara_2_3_650bd7c0:
 
     # kiara "Are you ready?"
-    kiara "Prêts?"
+    kiara "Prêts?" # TL
 
 # game/characters/kiara/ev_2.rpy:79
 translate french kiara_2_menu_6f0d74f4:
 
     # "{color=#FF958F}[[Charisma check passed]{/color}"
-    "{color=#FF958F}[[Charisma check passed!t]{/color}"
+    "{color=#FF958F}[[Charisma check passed!t]{/color}" # TL
 
 # game/characters/kiara/ev_2.rpy:80
 translate french kiara_2_menu_f7548ce0:
 
     # kiara "Very well."
-    kiara "Très bien."
+    kiara "Très bien." # TL
 
 # game/characters/kiara/ev_2.rpy:84
 translate french kiara_2_menu_2282bb54:
 
     # "{color=#FF958F}[[Charisma check failed]{/color}"
-    "{color=#FF958F}[[Charisma check failed!t]{/color}"
+    "{color=#FF958F}[[Charisma check failed!t]{/color}" # TL
 
 # game/characters/kiara/ev_2.rpy:85
 translate french kiara_2_menu_af1c2606:
 
     # kiara "Sorry, but that's impossible."
-    kiara "Je suis désolé, mais c'est impossible."
+    kiara "Je suis désolé, mais c'est impossible." # TL
 
 # game/characters/kiara/ev_2.rpy:89
 translate french kiara_2_menu_eb2230b9:
 
     # kiara "As you wish."
-    kiara "J'ai besoin de réfléchir à nouveau."
+    kiara "J'ai besoin de réfléchir à nouveau." # TL
 
 # game/characters/kiara/ev_2.rpy:98
 translate french kiara_2_4_d1a54e0f:
 
     # kiara "Are you ready to die?"
-    kiara "Es-tu prêt à mourir?"
+    kiara "Es-tu prêt à mourir?" # TL
 
 # game/characters/kiara/ev_2.rpy:99
 translate french kiara_2_4_fc6af92a:
 
     # me "Do it."
-    me "Fais-le."
+    me "Fais-le." # TL
 
 # game/characters/kiara/ev_2.rpy:100
 translate french kiara_2_4_3a1766c2:
 
     # th "I wonder, how is she.. Abner Doubleday invented the game known as baseball in Cooperstown, New York, during the summer of 1839."
-    th "Je me demande comment ça va se passer... Abner Doubleday a inventé le jeu connu sous le nom de baseball à Cooperstown, New York, au cours de l'été 1839."
+    th "Je me demande comment ça va se passer... Abner Doubleday a inventé le jeu connu sous le nom de baseball à Cooperstown, New York, au cours de l'été 1839." # TL
 
 # game/characters/kiara/ev_2.rpy:101
 translate french kiara_2_4_e7631c58:
 
     # th "While General Electric built the first electric toaster for the home in 1909, it was 10 years later when Minnesota mechanic Charles Strite created an easy-to-use toaster designed for restaurants."
-    th "Alors que General Electric a construit le premier grille-pain électrique pour la maison en 1909, c'est 10 ans plus tard que le mécanicien du Minnesota Charles Strite a créé un grille-pain facile à utiliser conçu pour les restaurants."
+    th "Alors que General Electric a construit le premier grille-pain électrique pour la maison en 1909, c'est 10 ans plus tard que le mécanicien du Minnesota Charles Strite a créé un grille-pain facile à utiliser conçu pour les restaurants." # TL
 
 # game/characters/kiara/ev_2.rpy:102
 translate french kiara_2_4_1512df73:
 
     # th "Percy Spencer invented the first microwave oven after World War II from radar technology developed during the war. Named the 'Radarange', it was first sold in 1946."
-    th "Percy Spencer a inventé le premier four à micro-ondes après la Seconde Guerre mondiale à partir de la technologie radar développée pendant la guerre. Appelé 'Radarange', il a été vendu pour la première fois en 1946."
+    th "Percy Spencer a inventé le premier four à micro-ondes après la Seconde Guerre mondiale à partir de la technologie radar développée pendant la guerre. Appelé 'Radarange', il a été vendu pour la première fois en 1946." # TL
 
 # game/characters/kiara/ev_2.rpy:103
 translate french kiara_2_4_631bf33d:
 
     # th "Winchester Mystery House: 24,000 square feet, 10,000 windows, 2,000 doors, 52 skylights, 47 fireplaces, 40 bedrooms, 40 staircases, 13 bathrooms, six kitchens, three elevators, two basements and one shower."
-    th "Winchester Mystery House: 24 000 pieds carrés, 10 000 fenêtres, 2 000 portes, 52 puits de lumière, 47 cheminées, 40 chambres, 40 escaliers, 13 salles de bains, six cuisines, trois ascenseurs, deux sous-sols et une douche."
+    th "Winchester Mystery House: 24 000 pieds carrés, 10 000 fenêtres, 2 000 portes, 52 puits de lumière, 47 cheminées, 40 chambres, 40 escaliers, 13 salles de bains, six cuisines, trois ascenseurs, deux sous-sols et une douche." # TL
 
 # game/characters/kiara/ev_2.rpy:105
 translate french kiara_2_4_aacfde5d:
 
     # "Random knowledge fills your mind, you can't think, you can't react, and the only thing you can feel is a red hot spike piercing your temples."
-    "La connaissance aléatoire remplit votre esprit, vous ne pouvez pas penser, vous ne pouvez pas réagir, et la seule chose que vous pouvez ressentir est un pieu brûlant qui vous perce les tempes."
+    "La connaissance aléatoire remplit votre esprit, vous ne pouvez pas penser, vous ne pouvez pas réagir, et la seule chose que vous pouvez ressentir est un pieu brûlant qui vous perce les tempes." # TL
 
 # game/characters/kiara/ev_2.rpy:107
 translate french kiara_2_4_c908f24e:
 
     # th "Firearms expert Julian Hatcher studied falling bullets in the 1920s and calculated that .30 caliber rounds reach terminal velocities of 300 feet per second (90 m/s). A bullet traveling at only 200 feet per second (61 m/s) to 330 feet per second (100 m/s) can penetrate human skin."
-    th "L'expert en armes à feu Julian Hatcher a étudié les balles qui tombaient dans les années 1920 et a calculé ce calibre.30 atteignent des vitesses terminales de 300 pieds par seconde (90 m/s). Une balle se déplaçant à seulement 200 pieds par seconde (61 m/s) à 330 pieds par seconde (100 m/s) peut pénétrer la peau humaine."
+    th "L'expert en armes à feu Julian Hatcher a étudié les balles qui tombaient dans les années 1920 et a calculé ce calibre.30 atteignent des vitesses terminales de 300 pieds par seconde (90 m/s). Une balle se déplaçant à seulement 200 pieds par seconde (61 m/s) à 330 pieds par seconde (100 m/s) peut pénétrer la peau humaine." # TL
 
 # game/characters/kiara/ev_2.rpy:109
 translate french kiara_2_4_f815b6a0:
 
     # th "West Virginia became a state following the Wheeling Conventions of 1861, in which 50 northwestern counties of Virginia decided to break away from Virginia during the American Civil War. The new state was admitted to the Union on June 20, 1863, and was a key Civil War border state."
-    th "La Virginie-Occidentale est devenue un État après les Conventions de Wheeling de 1861, dans lesquelles 50 comtés du nord-ouest de la Virginie ont décidé de faire sécession de la Virginie pendant la guerre de Sécession. Le nouvel État a été admis dans l'Union le 20 juin 1863 et a été un État frontalier clé de la guerre civile."
+    th "La Virginie-Occidentale est devenue un État après les Conventions de Wheeling de 1861, dans lesquelles 50 comtés du nord-ouest de la Virginie ont décidé de faire sécession de la Virginie pendant la guerre de Sécession. Le nouvel État a été admis dans l'Union le 20 juin 1863 et a été un État frontalier clé de la guerre civile." # TL
 
 # game/characters/kiara/ev_2.rpy:114
 translate french kiara_2_4_00d8e3ad:
 
     # "You died."
-    "Mourir."
+    "Mourir." # TL
 
 # game/characters/kiara/ev_2.rpy:127
 translate french kiara_2_5_f660d172:
 
     # me "So?"
-    me "Et alors?"
+    me "Et alors?" # TL
 
 # game/characters/kiara/ev_2.rpy:129
 translate french kiara_2_5_024d892b:
 
     # kiara "I failed."
-    kiara "Échouer."
+    kiara "Échouer." # TL
 
 # game/characters/kiara/ev_2.rpy:130
 translate french kiara_2_5_a66aeb6f:
 
     # me "You failed?"
-    me "T'as raté?"
+    me "T'as raté?" # TL
 
 # game/characters/kiara/ev_2.rpy:131
 translate french kiara_2_5_adf915d5:
 
     # kiara "Yes, I tried to shift the place you resurrect to be here, in my demesne.. My interference didn't even cause a ripple in the process."
-    kiara "Oui, j'ai essayé de changer l'endroit où tu ressuscites en cet endroit, dans mon domaine... Mon interférence n'a même pas provoqué d'ondulation dans le processus."
+    kiara "Oui, j'ai essayé de changer l'endroit où tu ressuscites en cet endroit, dans mon domaine... Mon interférence n'a même pas provoqué d'ondulation dans le processus." # TL
 
 # game/characters/kiara/ev_2.rpy:132
 translate french kiara_2_5_44883df8:
 
     # me "What does all this mean?"
-    me "Qu'est-ce que tout cela signifie?"
+    me "Qu'est-ce que tout cela signifie?" # TL
 
 # game/characters/kiara/ev_2.rpy:134
 translate french kiara_2_5_91dcd6f3:
 
     # kiara "Whatever makes you resurrect is beyond anything I have ever faced."
-    kiara "Tout ce qui te fait ressusciter est au-delà de tout ce que j'ai jamais affronté."
+    kiara "Tout ce qui te fait ressusciter est au-delà de tout ce que j'ai jamais affronté." # TL
 
 # game/characters/kiara/ev_2.rpy:135
 translate french kiara_2_5_e8619711:
 
     # me "So.. powerful?"
-    me "Si... puissant?"
+    me "Si... puissant?" # TL
 
 # game/characters/kiara/ev_2.rpy:137
 translate french kiara_2_5_74dcbd7d:
 
     # kiara "Yes."
-    kiara "Oui."
+    kiara "Oui." # TL
 
 # game/characters/kiara/ev_2.rpy:140
 translate french kiara_2_5_ea65756c:
 
     # kiara "Still, you kept your end of the deal, I shall do the same."
-    kiara "Pourtant, tu as gardé ta part du marché, je ferai de même."
+    kiara "Pourtant, tu as gardé ta part du marché, je ferai de même." # TL
 
 # game/characters/kiara/ev_2.rpy:142
 translate french kiara_2_5_f590f124:
 
     # "You feel a sharp pain as some new knowledge appears inside your mind."
-    "vous ressentez une douleur aiguë lorsqu'une nouvelle connaissance apparaît dans votre esprit."
+    "vous ressentez une douleur aiguë lorsqu'une nouvelle connaissance apparaît dans votre esprit." # TL
 
 # game/characters/kiara/ev_2.rpy:143
 translate french kiara_2_5_2ae7cc0d:
 
     # me "Thanks, I feel it."
-    me "merci, je le sens."
+    me "merci, je le sens." # TL
 
 translate french strings:
 
     # game/characters/kiara/ev_2.rpy:14
     old "Tell me more"
-    new "Dis-m'en plus"
+    new "Dis-m'en plus" # TL
 
     # game/characters/kiara/ev_2.rpy:14
     old "I'm uninterested"
-    new "Retenir votre souffle"
+    new "Retenir votre souffle" # TL
 
     # game/characters/kiara/ev_2.rpy:14
     old "You know what, fuck yourself"
-    new "Tu sais quoi, va te faire foutre"
+    new "Tu sais quoi, va te faire foutre" # TL
 
     # game/characters/kiara/ev_2.rpy:56
     old "I'm in, but this ability better be good"
-    new "Je suis dedans, mais cette compétence ferait mieux d'être bonne"
+    new "Je suis dedans, mais cette compétence ferait mieux d'être bonne" # TL
 
     # game/characters/kiara/ev_2.rpy:56
     old "I don't want to do this"
-    new "Je ne veux pas faire ça"
+    new "Je ne veux pas faire ça" # TL
 
     # game/characters/kiara/ev_2.rpy:72
     old "Yes, but only if you help me to retain everything I have"
-    new "Oui, mais seulement si tu m'aides à garder tout ce que j'ai"
+    new "Oui, mais seulement si tu m'aides à garder tout ce que j'ai" # TL
 
     # game/characters/kiara/ev_2.rpy:72
     old "I need to think about it again"
-    new "J'ai besoin de réfléchir à nouveauo"
+    new "J'ai besoin de réfléchir à nouveauo" # TL
 
     # game/characters/kiara/ev_2.rpy:72
     old "Explain it to me again"
-    new "Explique-le-moi encore"
+    new "Explique-le-moi encore" # TL
 
 # TODO: Translation updated at 2022-01-25 22:41
 
@@ -340,4 +340,4 @@ translate french strings:
 
     # game/characters/kiara/ev_2.rpy:72
     old "Yes, if you keep my stuff safe for me"
-    new "oui, si tu prends soin de mes affaires pour moi"
+    new "oui, si tu prends soin de mes affaires pour moi" # TL
