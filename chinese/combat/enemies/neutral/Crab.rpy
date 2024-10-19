@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/combat/enemies/neutral/Crab.rpy:7
     old "Giant Crab"
-    new "Giant Crab"
+    new "巨型螃蟹" # TL # Victorius - AI
 

@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/characters/cat/speak.rpy:2
     old "Pat"
-    new "Pat"
+    new "Pat" # TL # Victorius - AI
 

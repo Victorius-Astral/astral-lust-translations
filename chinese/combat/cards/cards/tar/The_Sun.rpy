@@ -2,5 +2,5 @@
 
     # game/combat/cards/cards/tar/The_Sun.rpy:6
     old "The Sun"
-    new "太阳"
+    new "太阳" # TL
 

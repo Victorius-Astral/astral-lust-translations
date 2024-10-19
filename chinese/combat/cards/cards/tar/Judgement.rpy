@@ -2,5 +2,5 @@
 
     # game/combat/cards/cards/tar/Judgement.rpy:6
     old "Judgement"
-    new "审判"
+    new "审判" # TL
 

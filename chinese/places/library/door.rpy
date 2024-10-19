@@ -4,5 +4,5 @@
 translate chinese room_library_door_5ae9413c:
 
     # "Coming soon."
-    "Coming soon."
+    "即将推出。" # TL # Victorius - AI
 

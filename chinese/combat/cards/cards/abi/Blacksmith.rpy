@@ -2,5 +2,5 @@
 
     # game/combat/cards/cards/abi/Blacksmith.rpy:6
     old "Blacksmith"
-    new "铁匠"
+    new "铁匠" # TL
 

@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/functions/secret.rpy:3
     old "Wallpaper 'Secret 2' unlocked!"
-    new "壁纸 '秘密 2' 已解锁!"
+    new "壁纸 '秘密 2' 已解锁!" # TL
 

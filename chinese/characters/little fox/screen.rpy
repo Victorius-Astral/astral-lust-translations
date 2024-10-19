@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/characters/little fox/screen.rpy:9
     old "Hunger:"
-    new "Hunger:"
+    new "饥饿：" # TL # Victorius - AI
 

@@ -105,8 +105,8 @@ translate spanish prologue_7f51072c:
 # game/events/special/prologue.rpy:60
 translate spanish prologue_a3ed5a4a:
 
-    # u_throdog "Ahhai ngluii ot Mgehye'lloig mgahnnn ephaii Y' ahor hup nafl'fhtagn ya fhtagn syha'h."
-    u_throdog "Ahhai ngluii ot Mgehye'lloig mgahnnn ephaii Y' ahor hup nafl'fhtagn ya fhtagn syha'h."
+    # u_throdog "Ahhai ngluii ot Mgehye'lloig mgahnnn ephaii Y' ahor hup nafl'fhtagn ya fhtagn syha'h. {#noTL}"
+    u_throdog "Ahhai ngluii ot Mgehye'lloig mgahnnn ephaii Y' ahor hup nafl'fhtagn ya fhtagn syha'h. {#noTL}"
 
 # game/events/special/prologue.rpy:64
 translate spanish prologue_ba7b9907:

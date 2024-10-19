@@ -4,5 +4,5 @@
 translate chinese room_hotel_lexi_d86e264b:
 
     # "It's late so you leave."
-    "It's late so you leave."
+    "天色已晚，所以你离开了。" # TL # Victorius - AI
 

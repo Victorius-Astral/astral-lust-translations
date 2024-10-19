@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/combat/enemies/neutral/Giant_Spider.rpy:7
     old "Giant Spider"
-    new "Giant Spider"
+    new "巨型蜘蛛" # TL # Victorius - AI
 

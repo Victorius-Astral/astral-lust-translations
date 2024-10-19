@@ -2,5 +2,5 @@
 
     # game/combat/cards/cards/off/Flurry.rpy:6
     old "Flurry"
-    new "密集攻击"
+    new "密集攻击" # TL
 

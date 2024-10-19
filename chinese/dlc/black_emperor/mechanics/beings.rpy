@@ -4,13 +4,13 @@ translate chinese strings:
 
     # game/dlc/black_emperor/mechanics/beings.rpy:9
     old "Warrior"
-    new "Warrior"
+    new "战士" # TL # Victorius - AI
 
     # game/dlc/black_emperor/mechanics/beings.rpy:90
     old "Elite Warrior"
-    new "Elite Warrior"
+    new "精英战士" # TL # Victorius - AI
 
     # game/dlc/black_emperor/mechanics/beings.rpy:122
     old "Hunter"
-    new "Hunter"
+    new "猎人" # TL # Victorius - AI
 

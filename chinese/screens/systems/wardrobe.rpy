@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/screens/systems/wardrobe.rpy:52
     old "{gold}--- Outfits ---{/gold}\n"
-    new "{gold}--- Outfits ---{/gold}\n"
+    new "{gold}--- 服装 ---{/gold}\n" # TL # Victorius - AI
 

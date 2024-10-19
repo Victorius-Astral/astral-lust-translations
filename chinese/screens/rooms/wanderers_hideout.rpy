@@ -4,41 +4,41 @@ translate chinese strings:
 
     # game/screens/rooms/wanderers_hideout.rpy:24
     old "Guard{#wanderer1}"
-    new "Guard{#wanderer1}"
+    new "守卫{#wanderer1}" # TL # Victorius - AI
 
     # game/screens/rooms/wanderers_hideout.rpy:25
     old "Guard{#wanderer2}"
-    new "Guard{#wanderer2}"
+    new "守卫{#wanderer2}" # TL # Victorius - AI
 
     # game/screens/rooms/wanderers_hideout.rpy:26
     old "Guard{#wanderer3}"
-    new "Guard{#wanderer3}"
+    new "守卫{#wanderer3}" # TL # Victorius - AI
 
     # game/screens/rooms/wanderers_hideout.rpy:27
     old "Guard{#wanderer4}"
-    new "Guard{#wanderer4}"
+    new "守卫{#wanderer4}" # TL # Victorius - AI
 
     # game/screens/rooms/wanderers_hideout.rpy:29
     old "Woman{#wanderer1}"
-    new "Woman{#wanderer1}"
+    new "女人{#wanderer1}" # TL # Victorius - AI
 
     # game/screens/rooms/wanderers_hideout.rpy:31
     old "Cook"
-    new "Cook"
+    new "厨师" # TL # Victorius - AI
 
     # game/screens/rooms/wanderers_hideout.rpy:32
     old "Cook's Daughter"
-    new "Cook's Daughter"
+    new "厨师的女儿" # TL # Victorius - AI
 
     # game/screens/rooms/wanderers_hideout.rpy:33
     old "Cook's Son"
-    new "Cook's Son"
+    new "厨师的儿子" # TL # Victorius - AI
 
     # game/screens/rooms/wanderers_hideout.rpy:42
     old "Man{#wanderer1}"
-    new "Man{#wanderer1}"
+    new "男人{#wanderer1}" # TL # Victorius - AI
 
     # game/screens/rooms/wanderers_hideout.rpy:43
     old "Scavenger{#wanderer1}"
-    new "Scavenger{#wanderer1}"
+    new "拾荒者{#wanderer1}" # TL # Victorius - AI
 

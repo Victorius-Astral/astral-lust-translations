@@ -2,5 +2,5 @@
 
     # game/combat/allies/story/AllyTraderDaughter.rpy:8
     old "Trader's Daughter"
-    new "商人的女儿"
+    new "商人的女儿" # TL
 

@@ -2,5 +2,5 @@
 
     # game/combat/cards/cards/abi/Enfeeble.rpy:6
     old "Enfeeble"
-    new "衰弱"
+    new "衰弱" # TL
 

@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/combat/cards/cards/defensive.rpy:201
     old "Heal"
-    new "Heal"
+    new "治疗" # TL # Victorius - AI
 

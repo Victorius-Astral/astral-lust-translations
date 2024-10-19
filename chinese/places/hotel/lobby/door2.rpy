@@ -4,17 +4,17 @@ translate chinese strings:
 
     # game/places/hotel/lobby/door2.rpy:2
     old "Forge"
-    new "Forge"
+    new "锻造" # TL # Victorius - AI
 
     # game/places/hotel/lobby/door2.rpy:2
     old "Dungeon"
-    new "Dungeon"
+    new "地牢" # TL # Victorius - AI
 
     # game/places/hotel/lobby/door2.rpy:2
     old "Vault"
-    new "Vault"
+    new "金库" # TL # Victorius - AI
 
     # game/places/hotel/lobby/door2.rpy:2
     old "Fox Shrine"
-    new "Fox Shrine"
+    new "狐狸神社" # TL # Victorius - AI
 

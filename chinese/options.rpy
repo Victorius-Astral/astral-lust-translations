@@ -2,5 +2,5 @@
 
     # game/options.rpy:30
     old "Astral Lust"
-    new "超然之欲"
+    new "超然之欲" # TL
 

@@ -2,19 +2,19 @@
 
     # game/variables/objects/characters.rpy:6
     old "Thoughts"
-    new "内心想法"
+    new "内心想法" # TL
 
     # game/variables/objects/characters.rpy:33
     old "Lola"
-    new "Lola"
+    new "Lola" # TL # Victorius - AI
 
     # game/variables/objects/characters.rpy:36
     old "Demeter"
-    new "Demeter"
+    new "德墨忒尔" # TL # Victorius - AI
 
     # game/variables/objects/characters.rpy:40
     old "Rachel"
-    new "Rachel"
+    new "瑞秋" # TL # Victorius - AI
 
     # game/variables/objects/characters.rpy:44
     old "[Lil_Fox.name]"
@@ -26,47 +26,47 @@
 
     # game/variables/objects/characters.rpy:51
     old "Charlotte"
-    new "Charlotte"
+    new "夏洛特" # TL # Victorius - AI
 
     # game/variables/objects/characters.rpy:52
     old "Devil"
-    new "魔王"
+    new "魔王" # TL
 
     # game/variables/objects/characters.rpy:53
     old "Secretary"
-    new "秘书"
+    new "秘书" # TL
 
     # game/variables/objects/characters.rpy:54
     old "Dekesha"
-    new "Dekesha"
+    new "德凯莎" # TL # Victorius - AI
 
     # game/variables/objects/characters.rpy:57
     old "Madman"
-    new "疯子"
+    new "疯子" # TL
 
     # game/variables/objects/characters.rpy:61
     old "Bandit Leader"
-    new "强盗首领"
+    new "强盗首领" # TL
 
     # game/variables/objects/characters.rpy:67
     old "Woman"
-    new "女人"
+    new "女人" # TL
 
     # game/variables/objects/characters.rpy:69
     old "Something"
-    new "某物"
+    new "某物" # TL
 
     # game/variables/objects/characters.rpy:70
     old "Radio"
-    new "广播"
+    new "广播" # TL
 
     # game/variables/objects/characters.rpy:73
     old "Governor"
-    new "总督"
+    new "总督" # TL
 
     # game/variables/objects/characters.rpy:77
     old "Chimera"
-    new "Chimera"
+    new "奇美拉" # TL # Victorius - AI
 
 # TODO: Translation updated at 2024-10-18 07:40
 
@@ -74,9 +74,9 @@ translate chinese strings:
 
     # game/variables/objects/characters.rpy:96
     old "Psychiatrist"
-    new "Psychiatrist"
+    new "精神科医生" # TL # Victorius - AI
 
     # game/variables/objects/characters.rpy:97
     old "Alkimakos"
-    new "Alkimakos"
+    new "阿尔基玛科斯" # TL # Victorius - AI
 

@@ -2,5 +2,5 @@
 
     # game/screens/menus/girls/sexpos_counter.rpy:11
     old "\nExperience"
-    new "\n经验"
+    new "\n经验" # TL
 

@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/combat/enemies/abyss/Devourer_Giant.rpy:7
     old "Devourer Giant"
-    new "Devourer Giant"
+    new "吞噬者巨人" # TL # Victorius - AI
 

@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/combat/cards/cards/fool.rpy:7
     old "Trickster"
-    new "Trickster"
+    new "骗子" # TL # Victorius - AI
 

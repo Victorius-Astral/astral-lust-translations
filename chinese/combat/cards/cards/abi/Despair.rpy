@@ -2,5 +2,5 @@
 
     # game/combat/cards/cards/abi/Despair.rpy:6
     old "Despair"
-    new "绝望"
+    new "绝望" # TL
 

@@ -2,7 +2,7 @@
 
     # game/screens/menus/girls/kiara.rpy:18
     old "{gold}[kiara] (Kiara){/gold}"
-    new "{gold}[kiara] (Kiara){/gold}"
+    new "{gold}[kiara] (琪亚拉){/gold}" # TL # Victorius - AI
 
     # game/screens/menus/girls/kiara.rpy:21
     old "{gold}[kiara]{/gold}"
@@ -10,5 +10,5 @@
 
     # game/screens/menus/girls/kiara.rpy:34
     old "• Threesome: "
-    new "• 双飞："
+    new "• 双飞：" # TL
 

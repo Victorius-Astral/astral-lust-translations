@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/combat/enemies/story/TutorialEnemy.rpy:7
     old "Sick Werewolf"
-    new "Sick Werewolf"
+    new "生病的狼人" # TL # Victorius - AI
 

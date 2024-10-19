@@ -4,5 +4,5 @@
 translate chinese room_wanderers_lola_651a7221:
 
     # th "I shouldn't disturb her at night."
-    th "I shouldn't disturb her at night."
+    th "我不应该在晚上打扰她。" # TL # Victorius - AI
 

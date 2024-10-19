@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/combat/cards/lists/properties.rpy:3
     old "Card"
-    new "Card"
+    new "卡片" # TL # Victorius - AI
 

@@ -2,5 +2,5 @@
 
     # game/combat/cards/cards/def/Healing.rpy:6
     old "Healing"
-    new "治疗"
+    new "治疗" # TL
 

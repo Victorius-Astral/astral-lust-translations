@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/00Lint/wallpapers.rpy:18
     old "Wallpaper {wallpaper} doesn't have a correct amount of fields."
-    new "Wallpaper {wallpaper} doesn't have a correct amount of fields."
+    new "Wallpaper {wallpaper} 的字段数量不正确。" # TL # Victorius - AI
 

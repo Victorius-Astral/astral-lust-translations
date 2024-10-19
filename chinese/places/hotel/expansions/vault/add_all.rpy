@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/places/hotel/expansions/vault/add_all.rpy:19
     old "Vault full"
-    new "Vault full"
+    new "保险库已满" # TL # Victorius - AI
 

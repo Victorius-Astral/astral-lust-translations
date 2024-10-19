@@ -2,11 +2,11 @@
 
     # game/screens/menus/girls/lil_fox.rpy:21
     old "Little Fox"
-    new "Little Fox"
+    new "小狐狸" # TL # Victorius - AI
 
     # game/screens/menus/girls/lil_fox.rpy:22
     old "{gold}[lil_fox] (Little Fox){/gold}"
-    new "{gold}[lil_fox] (Little Fox){/gold}"
+    new "{gold}[lil_fox] (小狐狸){/gold}" # TL # Victorius - AI
 
     # game/screens/menus/girls/lil_fox.rpy:25
     old "{gold}[lil_fox]{/gold}"
@@ -18,7 +18,7 @@ translate chinese strings:
 
     # game/screens/menus/girls/lil_fox.rpy:22
     old "{gold}[lil_fox!t] (Little Fox){/gold}"
-    new "{gold}[lil_fox!t] (Little Fox){/gold}"
+    new "{gold}[lil_fox!t] (小狐狸){/gold}" # TL # Victorius - AI
 
     # game/screens/menus/girls/lil_fox.rpy:25
     old "{gold}[lil_fox!t]{/gold}"

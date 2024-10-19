@@ -2,5 +2,5 @@
 
     # game/combat/cards/cards/abi/Sacrifice.rpy:6
     old "Sacrifice"
-    new "献祭"
+    new "献祭" # TL
 

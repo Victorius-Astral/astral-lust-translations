@@ -2,5 +2,5 @@
 
     # game/screens/gui/quick_toolbar.rpy:87
     old "Map"
-    new "地图"
+    new "地图" # TL
 

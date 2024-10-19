@@ -2,5 +2,5 @@
 
     # game/combat/cards/cards/off/Kick.rpy:6
     old "Kick"
-    new "踢"
+    new "踢" # TL
 

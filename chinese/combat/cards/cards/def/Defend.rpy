@@ -2,5 +2,5 @@
 
     # game/combat/cards/cards/def/Defend.rpy:6
     old "Defend"
-    new "防御"
+    new "防御" # TL
 

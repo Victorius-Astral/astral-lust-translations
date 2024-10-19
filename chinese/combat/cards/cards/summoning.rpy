@@ -4,9 +4,9 @@ translate chinese strings:
 
     # game/combat/cards/cards/summoning.rpy:35
     old "Hatchling"
-    new "Hatchling"
+    new "雏鸟" # TL # Victorius - AI
 
     # game/combat/cards/cards/summoning.rpy:71
     old "Flock of Birds"
-    new "Flock of Birds"
+    new "鸟群" # TL # Victorius - AI
 

@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/combat/enemies/abyss/Faceless_Giant.rpy:7
     old "Faceless Giant"
-    new "Faceless Giant"
+    new "无脸巨人" # TL # Victorius - AI
 

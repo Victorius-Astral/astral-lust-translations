@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/combat/enemies/story/Corrupted_Rachel.rpy:7
     old "Corrupted Fox"
-    new "Corrupted Fox"
+    new "损坏的狐狸" # TL # Victorius - AI
 

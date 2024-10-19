@@ -4,5 +4,5 @@
 translate chinese room_f1_lexi_54340ad2:
 
     # th "Why would I enter at this hour? I should return earlier."
-    th "Why would I enter at this hour? I should return earlier."
+    th "我为什么要在这个时候进去？我应该早点回来的。" # TL # Victorius - AI
 

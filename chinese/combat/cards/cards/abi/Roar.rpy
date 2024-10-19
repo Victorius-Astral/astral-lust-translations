@@ -2,5 +2,5 @@
 
     # game/combat/cards/cards/abi/Roar.rpy:6
     old "Roar"
-    new "咆哮"
+    new "咆哮" # TL
 

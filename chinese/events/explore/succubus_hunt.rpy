@@ -4,5 +4,5 @@
 translate chinese succubus_hunt_1959104f:
 
     # "You walk down the foggy road looking for succubi to catch."
-    "You walk down the foggy road looking for succubi to catch."
+    "你走在雾蒙蒙的道路上，寻找魅魔。" # TL # Victorius - AI
 

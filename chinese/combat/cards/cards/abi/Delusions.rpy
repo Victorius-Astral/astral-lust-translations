@@ -2,5 +2,5 @@
 
     # game/combat/cards/cards/abi/Delusions.rpy:55
     old "Delusions"
-    new "错觉"
+    new "错觉" # TL
 

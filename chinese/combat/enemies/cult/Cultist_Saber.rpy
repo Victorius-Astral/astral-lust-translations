@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/combat/enemies/cult/Cultist_Saber.rpy:7
     old "Cultist"
-    new "Cultist"
+    new "邪教徒" # TL # Victorius - AI
 

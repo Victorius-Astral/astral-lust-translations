@@ -2,9 +2,9 @@
 
     # game/screens/replay/menu.rpy:56
     old "No image"
-    new "没有图片"
+    new "没有图片" # TL
 
     # game/screens/replay/menu.rpy:77
     old "--- Locked ---"
-    new "--- 未解锁 ---"
+    new "--- 未解锁 ---" # TL
 

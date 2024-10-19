@@ -4,9 +4,9 @@ translate chinese strings:
 
     # game/combat/cards/cards/ability.rpy:687
     old "Hypnotize"
-    new "Hypnotize"
+    new "催眠" # TL # Victorius - AI
 
     # game/combat/cards/cards/ability.rpy:895
     old "Last Journey"
-    new "Last Journey"
+    new "最后的旅程" # TL # Victorius - AI
 

@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/characters/rachel/screen.rpy:8
     old "Favor:"
-    new "Favor:"
+    new "帮个忙：" # TL # Victorius - AI
 

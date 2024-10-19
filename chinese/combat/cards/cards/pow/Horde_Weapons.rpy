@@ -2,5 +2,5 @@
 
     # game/combat/cards/cards/pow/Horde_Weapons.rpy:6
     old "Horde Weapons"
-    new "部落武器"
+    new "部落武器" # TL
 

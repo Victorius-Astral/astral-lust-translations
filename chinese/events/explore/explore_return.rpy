@@ -4,5 +4,5 @@
 translate chinese explore_return_ab156556:
 
     # "You go down the foggy road and find your way back."
-    "You go down the foggy road and find your way back."
+    "你沿着雾蒙蒙的道路走下去，找到了回去的路。" # TL # Victorius - AI
 

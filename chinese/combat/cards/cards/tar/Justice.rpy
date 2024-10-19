@@ -2,5 +2,5 @@
 
     # game/combat/cards/cards/tar/Justice.rpy:6
     old "Justice"
-    new "公平"
+    new "公平" # TL
 

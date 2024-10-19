@@ -4,5 +4,5 @@
 translate chinese room_hotel_wc_1ccf6df0:
 
     # "It seems someone is inside."
-    "It seems someone is inside."
+    "似乎有人在里面。" # TL # Victorius - AI
 

@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/combat/enemies/abyss/Stickman.rpy:7
     old "Stickman"
-    new "Stickman"
+    new "火柴人" # TL # Victorius - AI
 

@@ -2,5 +2,5 @@
 
     # game/combat/cards/cards/off/Stab.rpy:6
     old "Stab"
-    new "刺"
+    new "刺" # TL
 

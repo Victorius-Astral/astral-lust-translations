@@ -4,5 +4,5 @@
 translate chinese dream_end_a85086ed:
 
     # "The images dim as the dream fades."
-    "The images dim as the dream fades."
+    "画面渐渐暗淡，梦境逐渐消逝。" # TL # Victorius - AI
 

@@ -2,5 +2,5 @@
 
     # game/combat/cards/cards/tar/The_Emperor.rpy:6
     old "The Emperor"
-    new "皇帝"
+    new "皇帝" # TL
 
