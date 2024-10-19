@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/off/Poisonous_Bite.rpy:6
     old "Poisonous Bite"
-    new "Mordedura Venenosa"
+    new "Mordedura Venenosa" # TL

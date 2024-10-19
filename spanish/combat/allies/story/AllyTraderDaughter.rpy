@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/allies/story/AllyTraderDaughter.rpy:8
     old "Trader's Daughter"
-    new "Hija del Comerciante"
+    new "Hija del Comerciante" # TL

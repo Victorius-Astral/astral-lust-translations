@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/abi/Roar.rpy:6
     old "Roar"
-    new "Rugido"
+    new "Rugido" # TL

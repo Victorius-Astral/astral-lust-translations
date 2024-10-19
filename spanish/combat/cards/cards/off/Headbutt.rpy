@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/off/Headbutt.rpy:6
     old "Headbutt"
-    new "Cabezazo"
+    new "Cabezazo" # TL

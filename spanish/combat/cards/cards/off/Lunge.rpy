@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/off/Lunge.rpy:6
     old "Lunge"
-    new "Embestir"
+    new "Embestir" # TL

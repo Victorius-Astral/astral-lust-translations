@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/enemies/bandits/Bandit_Captain.rpy:7
     old "Bandit Captain"
-    new "Capitán Bandido"
+    new "Capitán Bandido" # TL

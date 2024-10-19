@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/tar/Justice.rpy:6
     old "Justice"
-    new "Justicia"
+    new "Justicia" # TL

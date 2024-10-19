@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/abi/Veil_of_Shadows.rpy:6
     old "Veil of Shadows"
-    new "Velo de Sombras"
+    new "Velo de Sombras" # TL

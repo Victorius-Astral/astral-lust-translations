@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/abi/Delusions.rpy:55
     old "Delusions"
-    new "Alucinaciones"
+    new "Alucinaciones" # TL

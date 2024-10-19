@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/def/Guard.rpy:6
     old "Guard"
-    new "Guardia"
+    new "Guardia" # TL

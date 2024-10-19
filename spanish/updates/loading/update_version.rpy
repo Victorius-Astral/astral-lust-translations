@@ -4,15 +4,15 @@ translate spanish strings:
 
     # game/updates/loading/update_version.rpy:6
     old "Save version: "
-    new "Versión de partida: "
+    new "Versión de partida: " # TL
 
     # game/updates/loading/update_version.rpy:88
     old "Apply patch: "
-    new "Aplicar patch: "
+    new "Aplicar patch: " # TL
 # : Translation updated at 2022-02-26 14:57
 
 translate spanish strings:
 
     # game/updates/loading/update_version.rpy:75
     old "Save update finished."
-    new "Actualización de partida finalizada."
+    new "Actualización de partida finalizada." # TL

@@ -70,7 +70,7 @@ translate chinese w_soldier2_chat_night_20325f9f:
 translate chinese w_soldier2_chat_night_822187f1:
 
     # w_soldier2 "You're too {i}smart{/i} for your own good."
-    w_soldier2 "You're too {i}smart{/i} for your own good."
+    w_soldier2 "你真是聪明反被聪明误。" # TL # Victorius - AI
 
 # game/places/wanderers/crowd.rpy:71
 translate chinese w_soldier2_chat_day_157eabd6:
@@ -736,7 +736,7 @@ translate chinese w_girl1_chat_fun_ebc36ab2:
 translate chinese w_girl1_chat_big_dick_0cc3072c:
 
     # w_girl1 "I didn't expect you to be {i}that{/i} big."
-    w_girl1 "I didn't expect you to be {i}that{/i} big."
+    w_girl1 "我没想到你会那么大。" # TL # Victorius - AI
 
 # game/places/wanderers/crowd.rpy:384
 translate chinese w_girl1_chat_big_dick_79ba1b75:
@@ -820,7 +820,7 @@ translate chinese w_girl1_chat_quickie_89ef2618:
 translate chinese w_girl1_chat_quickie_10c88613:
 
     # w_girl1 "Y-Yeah. I kinda forgot how big {i}you{/i} are."
-    w_girl1 "Y-Yeah. I kinda forgot how big {i}you{/i} are."
+    w_girl1 "是啊，我有点忘了你有多大了。" # TL
 
 # game/places/wanderers/crowd.rpy:418
 translate chinese w_girl1_chat_quickie_ac6d22c0:
@@ -1030,13 +1030,13 @@ translate chinese w_girl1_chat_sex_d54940ae:
 translate chinese w_girl1_chat_sex_65d53641:
 
     # w_girl1 "{i}Ohh~{/i}"
-    w_girl1 "{i}Ohh~{/i}"
+    w_girl1 "{i}哦~{/i}" # TL # Victorius - AI
 
 # game/places/wanderers/crowd.rpy:499
 translate chinese w_girl1_chat_sex_abe59c57:
 
     # me "{i}Oh!{/i}"
-    me "{i}Oh!{/i}"
+    me "{i}哦！{/i}" # TL # Victorius - AI
 
 # game/places/wanderers/crowd.rpy:500
 translate chinese w_girl1_chat_sex_8353bca1:
@@ -1054,7 +1054,7 @@ translate chinese w_girl1_chat_sex_80c98de0:
 translate chinese w_girl1_chat_sex_53bafaea:
 
     # w_girl1 "{i}{small}Ahh~{/small}{/i}"
-    w_girl1 "{i}{small}Ahh~{/small}{/i}"
+    w_girl1 "{i}{small}啊~{/small}{/i}" # TL # Victorius - AI
 
 # game/places/wanderers/crowd.rpy:506
 translate chinese w_girl1_chat_sex_f73f1908:
@@ -1078,7 +1078,7 @@ translate chinese w_girl1_chat_sex_f99f26eb:
 translate chinese w_girl1_chat_sex_caaf2404:
 
     # w_girl1 "How about... {i}{big}that!{/big}{/i}"
-    w_girl1 "How about... {i}{big}that!{/big}{/i}"
+    w_girl1 "这个怎么样！" # TL # Victorius - AI
 
 # game/places/wanderers/crowd.rpy:513
 translate chinese w_girl1_chat_sex_adb91003:
@@ -1138,7 +1138,7 @@ translate chinese w_girl1_chat_sex_909caece:
 translate chinese w_girl1_chat_sex_d48b64d3:
 
     # me "{i}G-Got it!{/i}"
-    me "{i}G-Got it!{/i}"
+    me "{i}明白了！{/i}" # TL # Victorius - AI
 
 # game/places/wanderers/crowd.rpy:528
 translate chinese w_girl1_chat_sex_166d9144:
@@ -1156,7 +1156,7 @@ translate chinese w_girl1_chat_sex_530a927d:
 translate chinese w_girl1_chat_sex_b4616b19:
 
     # me "{i}Haa...{/i}"
-    me "{i}Haa...{/i}"
+    me "{i}哈...{/i}" # TL # Victorius - AI
 
 # game/places/wanderers/crowd.rpy:534
 translate chinese w_girl1_chat_sex_8d4718da:
@@ -1252,7 +1252,7 @@ translate chinese w_girl1_chat_sexday_aea3396b:
 translate chinese w_girl1_chat_sexday_822f5757:
 
     # me "{i}*Yawn*{/i}"
-    me "{i}*Yawn*{/i}"
+    me "{i}*哈欠*{/i}" # TL # Victorius - AI
 
 # game/places/wanderers/crowd.rpy:577
 translate chinese w_girl1_chat_sexday_1f6b6eae:
@@ -1504,7 +1504,7 @@ translate chinese w_girl1_chat_sexsleep_3f54baf3:
 translate chinese w_girl1_chat_sexsleep_9a9046a2:
 
     # w_girl1 "{i}*Sigh*{/i}"
-    w_girl1 "{i}*Sigh*{/i}"
+    w_girl1 "{i}*叹气*{/i}" # TL # Victorius - AI
 
 # game/places/wanderers/crowd.rpy:650
 translate chinese w_girl1_chat_sexsleep_07537cad:
@@ -1612,13 +1612,13 @@ translate chinese w_man_scavenger1_chat_first_fd0f8fb4:
 translate chinese w_man_scavenger1_chat_first_c8508c58:
 
     # w_man1 "What about the {i}goods{/i}?"
-    w_man1 "What about the {i}goods{/i}?"
+    w_man1 "货物呢？" # TL # Victorius - AI
 
 # game/places/wanderers/crowd.rpy:750
 translate chinese w_man_scavenger1_chat_first_f447fee5:
 
     # w_man2 "We're still looking through the boxes. It might take a few days to find {i}it{/i}."
-    w_man2 "We're still looking through the boxes. It might take a few days to find {i}it{/i}."
+    w_man2 "我们还在翻箱子。可能需要几天才能找到它。" # TL # Victorius - AI
 
 # game/places/wanderers/crowd.rpy:751
 translate chinese w_man_scavenger1_chat_first_b10840b2:
@@ -1648,7 +1648,7 @@ translate chinese w_man_scavenger1_chat_first_ec8e2fb7:
 translate chinese w_man_scavenger1_chat_second_42ceae1d:
 
     # w_man2 "We got the {i}goods{/i}."
-    w_man2 "We got the {i}goods{/i}."
+    w_man2 "我们拿到货物了。" # TL # Victorius - AI
 
 # game/places/wanderers/crowd.rpy:767
 translate chinese w_man_scavenger1_chat_second_d7dac838:
@@ -1678,7 +1678,7 @@ translate chinese w_man_scavenger1_chat_third_c58088f1:
 translate chinese w_man_scavenger1_chat_third_c0770ad8:
 
     # w_man2 "Did you check the {i}goods{/i}?"
-    w_man2 "Did you check the {i}goods{/i}?"
+    w_man2 "你检查货物了吗？" # TL # Victorius - AI
 
 # game/places/wanderers/crowd.rpy:781
 translate chinese w_man_scavenger1_chat_third_9b19ba98:
@@ -1782,7 +1782,7 @@ translate chinese strings:
 
     # game/places/wanderers/crowd.rpy:258
     old "{image=tradeTextImg} Let me see your stock"
-    new "{image=tradeTextImg} Let me see your stock"
+    new "{image=tradeTextImg} 让我看看你的库存" # TL # Victorius - AI
 
     # game/places/wanderers/crowd.rpy:258
     old "Maybe some fun?"
@@ -1803,4 +1803,3 @@ translate chinese strings:
     # game/places/wanderers/crowd.rpy:691
     old "Fuck off"
     new "滚开" # TL # Victorius - AI
-

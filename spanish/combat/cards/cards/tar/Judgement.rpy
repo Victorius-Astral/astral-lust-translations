@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/tar/Judgement.rpy:6
     old "Judgement"
-    new "Juicio"
+    new "Juicio" # TL

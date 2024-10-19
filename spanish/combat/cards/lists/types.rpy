@@ -4,28 +4,28 @@ translate spanish strings:
 
     # game/combat/cards/lists/types.rpy:3
     old "Offensive"
-    new "Ofensiva"
+    new "Ofensiva" # TL
 
     # game/combat/cards/lists/types.rpy:3
     old "Defensive"
-    new "Defensiva"
+    new "Defensiva" # TL
 
     # game/combat/cards/lists/types.rpy:3
     old "Ability"
-    new "Habilidad"
+    new "Habilidad" # TL
 
     # game/combat/cards/lists/types.rpy:3
     old "Power"
-    new "Poder"
+    new "Poder" # TL
 # TODO: Translation updated at 2024-10-18 07:38
 
 translate spanish strings:
 
     # game/combat/cards/lists/types.rpy:3
     old "Martial Art"
-    new "Martial Art"
+    new "Arte Marcial" # TL # Victorius - AI
 
     # game/combat/cards/lists/types.rpy:3
     old "Summoning"
-    new "Summoning"
+    new "Invocación" # TL # Victorius - AI
 

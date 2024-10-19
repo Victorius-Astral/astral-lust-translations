@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/enemies/abyss/Stickman.rpy:7
     old "Stickman"
-    new "Hombre Palo"
+    new "Hombre Palo" # TL

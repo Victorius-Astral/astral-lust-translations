@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/pow/Heart_of_Flames.rpy:6
     old "Heart of Flames"
-    new "Corazón de Llamas"
+    new "Corazón de Llamas" # TL

@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/enemies/story/TutorialEnemy.rpy:7
     old "Sick Werewolf"
-    new "Hombre Lobo enfermo"
+    new "Hombre Lobo enfermo" # TL

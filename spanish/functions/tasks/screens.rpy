@@ -4,32 +4,32 @@ translate spanish strings:
 
     # game/functions/tasks/screens.rpy:134
     old "Repeat"
-    new "Repetir"
+    new "Repetir" # TL
 
     # game/functions/tasks/screens.rpy:135
     old "Silent"
-    new "Silencioso"
+    new "Silencioso" # TL
 
     # game/functions/tasks/screens.rpy:147
     old "Task Settings"
-    new "Configuración de tareas"
+    new "Configuración de tareas" # TL
 
     # game/functions/tasks/screens.rpy:148
     old "Toggle tasks menu with '{b}T{/b}' key"
-    new "Alternar el menú de tareas con tecla '{b}T{/b}'"
+    new "Alternar el menú de tareas con tecla '{b}T{/b}'" # TL
 
     # game/functions/tasks/screens.rpy:151
     old "Set new tasks"
-    new "Establecer nuevas tareas"
+    new "Establecer nuevas tareas" # TL
 
     # game/functions/tasks/screens.rpy:156
     old "Set all tasks"
-    new "Establecer todas las tareas"
+    new "Establecer todas las tareas" # TL
 
     # game/functions/tasks/screens.rpy:159
     old "On"
-    new "Encendido"
+    new "Encendido" # TL
 
     # game/functions/tasks/screens.rpy:160
     old "/"
-    new "/"
+    new "/" # TL # Victorius - AI

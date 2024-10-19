@@ -4,28 +4,28 @@
 translate spanish room_player_books_873b9e9f:
 
     # "It's too late."
-    "Es demasiado tarde."
+    "Es demasiado tarde." # TL
 
 # game/places/hotel/player/books.rpy:13
 translate spanish room_player_books_eae89651:
 
     # "You read books for a few hours."
-    "Lees libros por unas horas."
+    "Lees libros por unas horas." # TL
 
 # game/places/hotel/player/books.rpy:16
 translate spanish room_player_books_eae89651_1:
 
     # "You read books for a few hours."
-    "Lees libros por unas horas."
+    "Lees libros por unas horas." # TL
 
 # game/places/hotel/player/books.rpy:22
 translate spanish room_player_books_e94b717b:
 
     # "Your head hurts after stressing out so much today, you need rest."
-    "Tu cabeza duele después de estresarte tanto por hoy, y necesitas descansar."
+    "Tu cabeza duele después de estresarte tanto por hoy, y necesitas descansar." # TL
 
 translate spanish strings:
 
     # game/places/hotel/player/books.rpy:2
     old "Read books"
-    new "Leer libros"
+    new "Leer libros" # TL

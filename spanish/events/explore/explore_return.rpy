@@ -4,4 +4,4 @@
 translate spanish explore_return_ab156556:
 
     # "You go down the foggy road and find your way back."
-    "Vas por el camino entre la niebla y encuentras el camino de regreso."
+    "Vas por el camino entre la niebla y encuentras el camino de regreso." # TL

@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/variables/characters/prisoners.rpy:1
     old "Succubus"
-    new "Succubus"
+    new "Súcubo" # TL # Victorius - AI

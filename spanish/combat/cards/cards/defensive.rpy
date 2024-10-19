@@ -4,5 +4,5 @@ translate spanish strings:
 
     # game/combat/cards/cards/defensive.rpy:201
     old "Heal"
-    new "Heal"
+    new "Curar" # TL # Victorius - AI
 

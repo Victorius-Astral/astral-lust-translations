@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/screens/menus/girls/grace.rpy:18
     old "{gold}[grace] (Grace){/gold}"
-    new "{gold}[grace] (Grace){/gold}"
+    new "{gold}[grace] (Grace){/gold}" # TL # Victorius - AI
 
     # game/screens/menus/girls/grace.rpy:21
     old "{gold}[grace]{/gold}"
@@ -12,11 +12,11 @@ translate spanish strings:
 
     # game/screens/menus/girls/grace.rpy:39
     old "• Handjob: "
-    new "• Con manos: "
+    new "• Con manos: " # TL
 
     # game/screens/menus/girls/grace.rpy:41
     old "• Thighjob: "
-    new "• Con muslos: "
+    new "• Con muslos: " # TL
 
 # : Translation updated at 2022-01-29 20:12
 
@@ -24,4 +24,4 @@ translate spanish strings:
 
     # game/screens/menus/girls/grace.rpy:23
     old "Nicknames: Gracie"
-    new "Nicknames: Gracie"
+    new "Apodos: Gracie" # TL # Victorius - AI

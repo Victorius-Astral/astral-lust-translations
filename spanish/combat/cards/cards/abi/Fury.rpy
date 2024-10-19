@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/abi/Fury.rpy:6
     old "Fury"
-    new "Furia"
+    new "Furia" # TL

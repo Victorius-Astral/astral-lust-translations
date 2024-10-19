@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/screens/menus/girls/savenia.rpy:18
     old "{gold}[savenia] (Savenia){/gold}"
-    new "{gold}[savenia] (Savenia){/gold}"
+    new "{gold}[savenia] (Savenia){/gold}" # TL # Victorius - AI
 
     # game/screens/menus/girls/savenia.rpy:21
     old "{gold}[savenia]{/gold}"

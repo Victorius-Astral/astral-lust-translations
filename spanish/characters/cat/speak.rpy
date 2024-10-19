@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/characters/cat/speak.rpy:2
     old "Pat"
-    new "Acaricia"
+    new "Acaricia" # TL

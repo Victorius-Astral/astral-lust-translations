@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/tar/Death.rpy:6
     old "Death"
-    new "Muerte"
+    new "Muerte" # TL

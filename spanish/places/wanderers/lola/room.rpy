@@ -4,4 +4,4 @@
 translate spanish room_wanderers_lola_651a7221:
 
     # th "I shouldn't disturb her at night."
-    th "No debería molestarla por la noche."
+    th "No debería molestarla por la noche." # TL

@@ -4,92 +4,92 @@ translate spanish strings:
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Unknown"
-    new "Desaparecido"
+    new "Desaparecido" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Human"
-    new "Humano"
+    new "Humano" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Dragon"
-    new "Dragón"
+    new "Dragón" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Spider"
-    new "Araña"
+    new "Araña" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Crab"
-    new "Cangrejo"
+    new "Cangrejo" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Flamingo"
-    new "Flamenco"
+    new "Flamenco" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Manticore"
-    new "Mantícora"
+    new "Mantícora" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Werewolf"
-    new "Hombre Lobo"
+    new "Hombre Lobo" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Ghoul"
-    new "Ghoul"
+    new "Ghoul" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Abomination"
-    new "Abominación"
+    new "Abominación" # TL
 
     # game/combat/battle/Battle_variables.rpy:55
     old "Fox Tribe"
-    new "Tribu Zorro"
+    new "Tribu Zorro" # TL
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Beast"
-    new "Bestia"
+    new "Bestia" # TL
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Monster"
-    new "Monstruo"
+    new "Monstruo" # TL
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Undead"
-    new "No Muerto"
+    new "No Muerto" # TL
 
     # game/combat/battle/Battle_variables.rpy:71
     old "Demon"
-    new "Demonio"
+    new "Demonio" # TL
 
     # game/combat/battle/Battle_variables.rpy:82
     old "The Abyss"
-    new "El Abismo"
+    new "El Abismo" # TL
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Horde"
-    new "Horda"
+    new "Horda" # TL
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Cult of the Black"
-    new "Culto de Negro"
+    new "Culto de Negro" # TL
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Outlaws"
-    new "Forajidos"
+    new "Forajidos" # TL
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Deserters"
-    new "Desertores"
+    new "Desertores" # TL
 # TODO: Translation updated at 2024-10-18 07:38
 
 translate spanish strings:
 
     # game/combat/battle/Battle_variables.rpy:71
     old "None"
-    new "None"
+    new "Ninguno" # TL # Victorius - AI
 
     # game/combat/battle/Battle_variables.rpy:82
     old "Carlson Dojo"
-    new "Carlson Dojo"
+    new "Carlson Dojo" # TL # Victorius - AI
 

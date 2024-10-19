@@ -4,82 +4,82 @@ translate spanish strings:
 
     # game/screens/settings/video.rpy:11
     old "Display"
-    new "Mostrar"
+    new "Mostrar" # TL
 
     # game/screens/settings/video.rpy:12
     old "Window"
-    new "Ventana"
+    new "Ventana" # TL
 
     # game/screens/settings/video.rpy:13
     old "Fullscreen"
-    new "Pantalla Completa"
+    new "Pantalla Completa" # TL
 
     # game/screens/settings/video.rpy:17
     old "Animations"
-    new "Animaciones"
+    new "Animaciones" # TL
 
     # game/screens/settings/video.rpy:18
     old "Animated Arenas"
-    new "Arenas Animadas"
+    new "Arenas Animadas" # TL
 
     # game/screens/settings/video.rpy:19
     old "Animated People"
-    new "Gente Animada"
+    new "Gente Animada" # TL
 
     # game/screens/settings/video.rpy:20
     old "Animated Wallpapers"
-    new "Wallpapers Animados"
+    new "Wallpapers Animados" # TL
 
     # game/screens/settings/video.rpy:21
     old "Animated Scenes"
-    new "Escenas Animadas"
+    new "Escenas Animadas" # TL
 
     # game/screens/settings/video.rpy:25
     old "Memory"
-    new "Memoria"
+    new "Memoria" # TL
 
     # game/screens/settings/video.rpy:26
     old "Cache Surfaces"
-    new "Superficies de Caché"
+    new "Superficies de Caché" # TL
 
     # game/screens/settings/video.rpy:31
     old "Memory Usage"
-    new "Uso de Memoria"
+    new "Uso de Memoria" # TL
 # : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 
     # game/screens/settings/video.rpy:18
     old "Power Save Mode"
-    new "Modo de Ahorro de Energía"
+    new "Modo de Ahorro de Energía" # TL
 
     # game/screens/settings/video.rpy:28
     old "Frame Skip"
-    new "Saltar Fotograma"
+    new "Saltar Fotograma" # TL
 
     # game/screens/settings/video.rpy:66
     old "Image cache size: [persistent.cache_size]MB RAM.\nDefault 1000, consider increasing to 2000 if using 4K version."
-    new "Tamaño de caché de imagen: [persistent.cache_size]MB RAM.\n1000 de defecto, considere aumentar a 2000 si usa la versión 4K."
+    new "Tamaño de caché de imagen: [persistent.cache_size]MB RAM.\n1000 de defecto, considere aumentar a 2000 si usa la versión 4K." # TL
 
     # game/screens/settings/video.rpy:67
     old "Can store {images} full screen images."
-    new "Puede almacenar {images} imágenes de pantalla completa."
+    new "Puede almacenar {images} imágenes de pantalla completa." # TL
 
     # game/screens/settings/video.rpy:70
     old "Image cache size: [persistent.cache_size]MB RAM, [persistent.cache_size]MB GRAM.\nDefault 1000, consider increasing to 2000 if using 4K version."
-    new "Tamaño de caché de imagen: [persistent.cache_size]MB RAM, [persistent.cache_size]MB GRAM.\n1000 de defecto, considere aumentar a 2000 si usa la versión 4K."
+    new "Tamaño de caché de imagen: [persistent.cache_size]MB RAM, [persistent.cache_size]MB GRAM.\n1000 de defecto, considere aumentar a 2000 si usa la versión 4K." # TL
 
     # game/screens/settings/video.rpy:73
     old "\nIf set too large, this can waste memory. In most cases waste of memory is {b}NOT{/b} a problem\nIf set too small, images can be repeatedly loaded, hurting performance."
-    new "\nSi el valor es demasiado alto, puede desperdiciar memoria. En la mayoría de los casos {b}NO{/b} es un problema\nSi el valor es demasiado bajo, las imágenes pueden cargarse repetidamente, lo que perjudica el rendimiento."
+    new "\nSi el valor es demasiado alto, puede desperdiciar memoria. En la mayoría de los casos {b}NO{/b} es un problema\nSi el valor es demasiado bajo, las imágenes pueden cargarse repetidamente, lo que perjudica el rendimiento." # TL
 
     # game/screens/settings/video.rpy:74
     old "\nNeeds restart."
-    new "\nNecesita reinicio."
+    new "\nNecesita reinicio." # TL
 # : Translation updated at 2022-04-23 12:58
 
 translate spanish strings:
 
     # game/screens/settings/video.rpy:56
     old "Main Menu Images"
-    new "Imágenes de menú principal"
+    new "Imágenes de menú principal" # TL

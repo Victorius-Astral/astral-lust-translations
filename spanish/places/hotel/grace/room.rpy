@@ -4,23 +4,23 @@
 translate spanish room_hotel_grace_d86e264b:
 
     # "It's late so you leave."
-    "Es tarde así que te vas."
+    "Es tarde así que te vas." # TL
 # : Translation updated at 2022-03-30 13:03
 
 # game/places/hotel/grace/room.rpy:9
 translate spanish room_hotel_grace_3f723f72:
 
     # grace "Grrr~"
-    grace "Grrr~"
+    grace "Grrr~" # TL # Victorius - AI
 
 # game/places/hotel/grace/room.rpy:10
 translate spanish room_hotel_grace_f8bb8e20:
 
     # me "{small}Are you a dog?{/small}"
-    me "{small}¿Eres un perro?{/small}"
+    me "{small}¿Eres un perro?{/small}" # TL
 
 # game/places/hotel/grace/room.rpy:11
 translate spanish room_hotel_grace_99b9d8b4:
 
     # th "Seems she still remembers the last time.."
-    th "Parece que todavía recuerda la última vez..."
+    th "Parece que todavía recuerda la última vez..." # TL

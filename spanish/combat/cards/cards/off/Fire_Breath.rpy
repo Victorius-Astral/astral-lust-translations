@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/off/Fire_Breath.rpy:6
     old "Fire Breath"
-    new "Aliento de Fuego"
+    new "Aliento de Fuego" # TL

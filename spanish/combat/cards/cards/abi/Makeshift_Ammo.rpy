@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/abi/Makeshift_Ammo.rpy:6
     old "Makeshift Ammo"
-    new "Munición Improvisada"
+    new "Munición Improvisada" # TL

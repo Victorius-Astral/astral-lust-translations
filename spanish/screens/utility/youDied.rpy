@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/screens/utility/youDied.rpy:6
     old "YOU DIED"
-    new "HAS MUERTO"
+    new "HAS MUERTO" # TL

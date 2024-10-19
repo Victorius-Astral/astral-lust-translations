@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/pow/Fireborn.rpy:6
     old "Fireborn"
-    new "Nacido en Fuego"
+    new "Nacido en Fuego" # TL

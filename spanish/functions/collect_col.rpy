@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/functions/collect_col.rpy:4
     old "You have found collectible nr. {}"
-    new "Has encontrado al coleccionable nr. {}"
+    new "Has encontrado al coleccionable nr. {}" # TL

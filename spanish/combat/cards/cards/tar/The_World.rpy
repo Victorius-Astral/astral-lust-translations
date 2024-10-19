@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/tar/The_World.rpy:6
     old "The World"
-    new "El Mundo"
+    new "El Mundo" # TL

@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/off/Fireball.rpy:6
     old "Fireball"
-    new "Bola de Fuego"
+    new "Bola de Fuego" # TL

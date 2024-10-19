@@ -4,43 +4,43 @@
 translate spanish alice_6_ffe72fa7:
 
     # "As you enter the gym, [alice] is there."
-    "Cuando entras al gimnasio, [alice] está ahí."
+    "Cuando entras al gimnasio, [alice] está ahí." # TL
 
 # game/characters/alice/ev_6.rpy:13
 translate spanish alice_6_f8d46a92:
 
     # alice "Hello there~"
-    alice "Hola~"
+    alice "Hola~" # TL
 
 # game/characters/alice/ev_6.rpy:14
 translate spanish alice_6_5a059109:
 
     # alice "You came here to train?"
-    alice "¿Viniste a entrenar?"
+    alice "¿Viniste a entrenar?" # TL
 
 # game/characters/alice/ev_6.rpy:15
 translate spanish alice_6_e8a11934:
 
     # me "Isn't it obvious?"
-    me "¿No es obvio?"
+    me "¿No es obvio?" # TL
 
 # game/characters/alice/ev_6.rpy:17
 translate spanish alice_6_c0e87b2b:
 
     # alice "Well, maybe you just came to peek at me.."
-    alice "Bueno, tal vez solo viniste a espiarme..."
+    alice "Bueno, tal vez solo viniste a espiarme..." # TL
 
 # game/characters/alice/ev_6.rpy:18
 translate spanish alice_6_1f56af50:
 
     # me "I wouldn't do some.."
-    me "No haría algo.."
+    me "No haría algo.." # TL
 
 # game/characters/alice/ev_6.rpy:19
 translate spanish alice_6_0a2ec3a3:
 
     # alice ".. again."
-    alice ".. otra vez."
+    alice ".. otra vez." # TL
 
 # game/characters/alice/ev_6.rpy:20
 translate spanish alice_6_3820771a:
@@ -52,169 +52,169 @@ translate spanish alice_6_3820771a:
 translate spanish alice_6_c56c0a67:
 
     # me "Alright, my bad, I'm sorry for back then."
-    me "Está bien, mi culpa, lo siento por lo de entonces."
+    me "Está bien, mi culpa, lo siento por lo de entonces." # TL
 
 # game/characters/alice/ev_6.rpy:23
 translate spanish alice_6_0dc74d24:
 
     # alice "No need, I ended up enjoying your peeking after all~"
-    alice "No es necesario, terminé disfrutando cómo me mirabas después de todo~"
+    alice "No es necesario, terminé disfrutando cómo me mirabas después de todo~" # TL
 
 # game/characters/alice/ev_6.rpy:24
 translate spanish alice_6_69f2c3b1:
 
     # me "Wait, don't tell me you are going to masturbate here."
-    me "Espera, no me digas que te vas a masturbar aquí."
+    me "Espera, no me digas que te vas a masturbar aquí." # TL
 
 # game/characters/alice/ev_6.rpy:26
 translate spanish alice_6_633a1a62:
 
     # alice "What do you take me for, a camgirl? I have some decency left you know?"
-    alice "¿Por qué me tomas, una camgirl? Me queda algo de decencia ¿sabes?"
+    alice "¿Por qué me tomas, una camgirl? Me queda algo de decencia ¿sabes?" # TL
 
 # game/characters/alice/ev_6.rpy:30
 translate spanish alice_6_e739bfca:
 
     # alice "Yeees. Do you really have to ask?"
-    alice "Siii. ¿Realmente debes preguntar?"
+    alice "Siii. ¿Realmente debes preguntar?" # TL
 
 # game/characters/alice/ev_6.rpy:31
 translate spanish alice_6_246b0afc:
 
     # me "I see it as it is."
-    me "Lo veo como es."
+    me "Lo veo como es." # TL
 
 # game/characters/alice/ev_6.rpy:33
 translate spanish alice_6_78ec1cd2:
 
     # alice "Ahh, screw you."
-    alice "Ahh, que te jodan."
+    alice "Ahh, que te jodan." # TL
 
 # game/characters/alice/ev_6.rpy:34
 translate spanish alice_6_382501ba:
 
     # me "Haha someone got pissed."
-    me "Haha alguien se enojó."
+    me "Haha alguien se enojó." # TL
 
 # game/characters/alice/ev_6.rpy:35
 translate spanish alice_6_fd1133d6:
 
     # alice "Shut up, will you?"
-    alice "Cállate, ¿quieres?"
+    alice "Cállate, ¿quieres?" # TL
 
 # game/characters/alice/ev_6.rpy:36
 translate spanish alice_6_a5ccc06a:
 
     # me "How could I say no to my good little girl."
-    me "¿Cómo podría decirle que no a mi buena chica?"
+    me "¿Cómo podría decirle que no a mi buena chica?" # TL
 
 # game/characters/alice/ev_6.rpy:37
 translate spanish alice_6_38c43ffc:
 
     # alice "Argh."
-    alice "Argh."
+    alice "Argh." # TL # Victorius - AI
 
 # game/characters/alice/ev_6.rpy:38
 translate spanish alice_6_8bb43492:
 
     # me "One-one."
-    me "Uno-a-uno."
+    me "Uno-a-uno." # TL
 
 # game/characters/alice/ev_6.rpy:40
 translate spanish alice_6_b49c3cc1:
 
     # alice "You're bullying me again.."
-    alice "Me estás haciendo bullying de nuevo..."
+    alice "Me estás haciendo bullying de nuevo..." # TL
 
 # game/characters/alice/ev_6.rpy:41
 translate spanish alice_6_49609981:
 
     # me "Now, now only little girls cry."
-    me "Ahora, ahora solo las nenitas lloran."
+    me "Ahora, ahora solo las nenitas lloran." # TL
 
 # game/characters/alice/ev_6.rpy:43
 translate spanish alice_6_623b3093:
 
     # alice "Go die."
-    alice "Muérete."
+    alice "Muérete." # TL
 
 # game/characters/alice/ev_6.rpy:45
 translate spanish alice_6_88eab5f5:
 
     # me "Haha."
-    me "Haha."
+    me "Jaja." # TL # Victorius - AI
 
 # game/characters/alice/ev_6.rpy:46
 translate spanish alice_6_15d0258d:
 
     # th "Got her this time."
-    th "La tengo esta vez."
+    th "La tengo esta vez." # TL
 
 # game/characters/alice/ev_6.rpy:54
 translate spanish alice_6_279f2471:
 
     # alice "I know, right?"
-    alice "Lo sé, ¿verdad?"
+    alice "Lo sé, ¿verdad?" # TL
 
 # game/characters/alice/ev_6.rpy:56
 translate spanish alice_6_072f77c9:
 
     # alice "Guys would kill to see me play with myself."
-    alice "Los chicos matarían por verme jugar conmigo misma."
+    alice "Los chicos matarían por verme jugar conmigo misma." # TL
 
 # game/characters/alice/ev_6.rpy:57
 translate spanish alice_6_89864444:
 
     # me "I would join them for sure."
-    me "Seguro estaría entre ellos."
+    me "Seguro estaría entre ellos." # TL
 
 # game/characters/alice/ev_6.rpy:59
 translate spanish alice_6_c660857e:
 
     # alice "No need, I would let you help me with the show."
-    alice "No haría falta, dejaría que me ayudes con el programa."
+    alice "No haría falta, dejaría que me ayudes con el programa." # TL
 
 # game/characters/alice/ev_6.rpy:60
 translate spanish alice_6_48a6dbc9:
 
     # me "Oh. I would gladly take the offer."
-    me "Oh. Aceptaría la oferta con mucho gusto."
+    me "Oh. Aceptaría la oferta con mucho gusto." # TL
 
 # game/characters/alice/ev_6.rpy:62
 translate spanish alice_6_4dd9f3d2:
 
     # alice "As a cameraman."
-    alice "Como camarógrafo."
+    alice "Como camarógrafo." # TL
 
 # game/characters/alice/ev_6.rpy:63
 translate spanish alice_6_3ae655a5:
 
     # me "You would beg me to play with you."
-    me "Me suplicarías que jugara contigo."
+    me "Me suplicarías que jugara contigo." # TL
 
 # game/characters/alice/ev_6.rpy:68
 translate spanish alice_6_988c3ef0:
 
     # alice "You wish."
-    alice "Ya quisieras."
+    alice "Ya quisieras." # TL
 
 # game/characters/alice/ev_6.rpy:69
 translate spanish alice_6_87a76aa3:
 
     # me "Are you sure?"
-    me "¿Segura?"
+    me "¿Segura?" # TL
 
 # game/characters/alice/ev_6.rpy:71
 translate spanish alice_6_7c82e351:
 
     # alice "Who knows.."
-    alice "¿Quién sabe...?"
+    alice "¿Quién sabe...?" # TL
 
 # game/characters/alice/ev_6.rpy:76
 translate spanish alice_6_2644c289:
 
     # alice "What's up with this lack of an answer?"
-    alice "¿Qué pasa con esta falta de respuesta?"
+    alice "¿Qué pasa con esta falta de respuesta?" # TL
 
 # game/characters/alice/ev_6.rpy:77
 translate spanish alice_6_3820771a_1:
@@ -226,137 +226,137 @@ translate spanish alice_6_3820771a_1:
 translate spanish alice_6_477dd792:
 
     # alice "Fine, whatever."
-    alice "Bien, lo que sea."
+    alice "Bien, lo que sea." # TL
 
 # game/characters/alice/ev_6.rpy:84
 translate spanish alice_6_1_a46c9944:
 
     # alice "So you're here to train, right?"
-    alice "Así que estás aquí para entrenar, ¿verdad?"
+    alice "Así que estás aquí para entrenar, ¿verdad?" # TL
 
 # game/characters/alice/ev_6.rpy:85
 translate spanish alice_6_1_d01e1146:
 
     # me "Mhm."
-    me "Mhm."
+    me "Mhm." # TL # Victorius - AI
 
 # game/characters/alice/ev_6.rpy:86
 translate spanish alice_6_1_618c87bd:
 
     # alice "Do you want to train with me?"
-    alice "¿Quieres entrenar conmigo?"
+    alice "¿Quieres entrenar conmigo?" # TL
 
 # game/characters/alice/ev_6.rpy:87
 translate spanish alice_6_1_5c0b92a4:
 
     # me "Why not."
-    me "¿Por qué no?"
+    me "¿Por qué no?" # TL
 
 # game/characters/alice/ev_6.rpy:89
 translate spanish alice_6_1_d180988e:
 
     # alice "Great."
-    alice "Estupendo."
+    alice "Estupendo." # TL
 
 # game/characters/alice/ev_6.rpy:93
 translate spanish alice_6_1_8b6a2d62:
 
     # "You train with [alice]."
-    "Entrenas con [alice]."
+    "Entrenas con [alice]." # TL
 
 # game/characters/alice/ev_6.rpy:99
 translate spanish alice_6_1_41fe1b9a:
 
     # alice "By the way, thanks for building a gym. I missed it a lot."
-    alice "Por cierto, gracias por construir un gimnasio. Lo extrañé mucho."
+    alice "Por cierto, gracias por construir un gimnasio. Lo extrañé mucho." # TL
 
 # game/characters/alice/ev_6.rpy:100
 translate spanish alice_6_1_d9ae1796:
 
     # me "Did you frequent it a lot before?"
-    me "¿Solías usarlo a menudo?"
+    me "¿Solías usarlo a menudo?" # TL
 
 # game/characters/alice/ev_6.rpy:102
 translate spanish alice_6_1_9b2c4cb4:
 
     # alice "It's not that, working out makes me tranquil. I like this feeling a lot."
-    alice "No es eso. Hacer ejercicio me tranquiliza. Esta sensación me gusta mucho."
+    alice "No es eso. Hacer ejercicio me tranquiliza. Esta sensación me gusta mucho." # TL
 
 # game/characters/alice/ev_6.rpy:103
 translate spanish alice_6_1_d0137f8e:
 
     # me "I thought you would rather go crazy."
-    me "Pensé que preferirías volverte loca."
+    me "Pensé que preferirías volverte loca." # TL
 
 # game/characters/alice/ev_6.rpy:105
 translate spanish alice_6_1_835d9cb0:
 
     # alice "Haha, that sounds like me, but no matter what it's nice to rest once in a while from all this craziness."
-    alice "Haha, eso suena como yo, pero no importa lo que sea, es bueno descansar de vez en cuando de toda esta locura."
+    alice "Haha, eso suena como yo, pero no importa lo que sea, es bueno descansar de vez en cuando de toda esta locura." # TL
 
 # game/characters/alice/ev_6.rpy:106
 translate spanish alice_6_1_41b8d64f:
 
     # me "Yeah, it's nice to take a brake after having hard times."
-    me "Sí, es bueno tomarse un descanso después de pasar momentos difíciles."
+    me "Sí, es bueno tomarse un descanso después de pasar momentos difíciles." # TL
 
 # game/characters/alice/ev_6.rpy:107
 translate spanish alice_6_1_3822f84b:
 
     # alice "Yeah."
-    alice "Sí."
+    alice "Sí." # TL
 
 # game/characters/alice/ev_6.rpy:108
 translate spanish alice_6_1_9bd0606b:
 
     # "You spend the rest of training in silence."
-    "Pasas el resto del entrenamiento en silencio..."
+    "Pasas el resto del entrenamiento en silencio..." # TL
 
 # game/characters/alice/ev_6.rpy:111
 translate spanish alice_6_1_d763bd4b:
 
     # alice "Thanks for keeping me company."
-    alice "Gracias por hacerme compañía."
+    alice "Gracias por hacerme compañía." # TL
 
 # game/characters/alice/ev_6.rpy:112
 translate spanish alice_6_1_a4fbccf1:
 
     # me "Always at your service."
-    me "Siempre a tu servicio."
+    me "Siempre a tu servicio." # TL
 
 # game/characters/alice/ev_6.rpy:114
 translate spanish alice_6_1_e3bdb375:
 
     # alice "Don't regret those words later."
-    alice "No te arrepientas de esas palabras más tarde."
+    alice "No te arrepientas de esas palabras más tarde." # TL
 
 # game/characters/alice/ev_6.rpy:115
 translate spanish alice_6_1_59182cf8:
 
     # me "I won't."
-    me "No lo haré."
+    me "No lo haré." # TL
 
 # game/characters/alice/ev_6.rpy:117
 translate spanish alice_6_1_eafb2535:
 
     # alice "See ya."
-    alice "Nos vemos."
+    alice "Nos vemos." # TL
 
 # game/characters/alice/ev_6.rpy:119
 translate spanish alice_6_1_a288f97b:
 
     # "[alice] left."
-    "[alice] se fue."
+    "[alice] se fue." # TL
 
 translate spanish strings:
 
     # game/characters/alice/ev_6.rpy:28
     old "You do?"
-    new "¿Te queda? ¿En serio?"
+    new "¿Te queda? ¿En serio?" # TL
 
     # game/characters/alice/ev_6.rpy:28
     old "You would make a great camgirl"
-    new "Serías una gran camgirl"
+    new "Serías una gran camgirl" # TL
 
     # game/characters/alice/ev_6.rpy:28
     old "..."
@@ -368,4 +368,4 @@ translate spanish strings:
 
     # game/characters/alice/ev_6.rpy:90
     old "She trains at the gym from time to time. It makes her tranquil. I can accompany her if I want."
-    new "Ella entrena en el gimnasio de vez en cuando. La deja tranquila. Puedo acompañarla si quiero."
+    new "Ella entrena en el gimnasio de vez en cuando. La deja tranquila. Puedo acompañarla si quiero." # TL

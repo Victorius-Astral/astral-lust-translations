@@ -4,31 +4,31 @@
 translate spanish sleep_alice_23ee33cd:
 
     # th "[alice].. [alice].. Little, horny [alice].."
-    th "[alice]... [alice]... Pequeña, cachonda [alice]..."
+    th "[alice]... [alice]... Pequeña, cachonda [alice]..." # TL
 
 # game/characters/alice/sleep.rpy:10
 translate spanish sleep_alice_9ebac051:
 
     # th "She looks so innocent when asleep."
-    th "Se ve tan inocente cuando duerme."
+    th "Se ve tan inocente cuando duerme." # TL
 
 # game/characters/alice/sleep.rpy:12
 translate spanish sleep_alice_3fb5372e:
 
     # th "Little, blue sleeping angel. If I didn't know her better, I would believe it."
-    th "Una pequeña, durmiente ángel azul. Si no la conociera mejor, lo creería."
+    th "Una pequeña, durmiente ángel azul. Si no la conociera mejor, lo creería." # TL
 
 # game/characters/alice/sleep.rpy:16
 translate spanish sleep_alice_f4e11991:
 
     # th "Her skin is so soft.. I wonder how she does it in the apocalypse."
-    th "Su piel es tan suave... Me pregunto cómo lo hace en el apocalipsis."
+    th "Su piel es tan suave... Me pregunto cómo lo hace en el apocalipsis." # TL
 
 # game/characters/alice/sleep.rpy:19
 translate spanish sleep_alice_26d391f2:
 
     # alice "Ym?"
-    alice "¿Ym?"
+    alice "¿Ym?" # TL
 
 # game/characters/alice/sleep.rpy:22
 translate spanish sleep_alice_3820771a:
@@ -40,37 +40,37 @@ translate spanish sleep_alice_3820771a:
 translate spanish sleep_alice_2c0a3960:
 
     # th "She didn't kill me previously, this time it won't be very bad.. Probably."
-    th "Ella no me mató antes, esta vez no será tan malo... Probablemente."
+    th "Ella no me mató antes, esta vez no será tan malo... Probablemente." # TL
 
 # game/characters/alice/sleep.rpy:28
 translate spanish sleep_alice_e83b84f9:
 
     # alice "[me]?"
-    alice "¿[me]?"
+    alice "¿[me]?" # TL
 
 # game/characters/alice/sleep.rpy:31
 translate spanish sleep_alice_6ac6e842:
 
     # alice "Why am I not surprised?"
-    alice "¿Por qué no me sorprende?"
+    alice "¿Por qué no me sorprende?" # TL
 
 # game/characters/alice/sleep.rpy:32
 translate spanish sleep_alice_3e644d6e:
 
     # me "Maybe you have superpowers."
-    me "Tal vez tienes superpoderes."
+    me "Tal vez tienes superpoderes." # TL
 
 # game/characters/alice/sleep.rpy:35
 translate spanish sleep_alice_97e71df6:
 
     # alice "Yeah, I'm super girl."
-    alice "Sí, soy una súper chica."
+    alice "Sí, soy una súper chica." # TL
 
 # game/characters/alice/sleep.rpy:37
 translate spanish sleep_alice_09c10c4a:
 
     # alice "So how about I kick your ass?"
-    alice "Entonces, ¿qué tal si te pateo el trasero?"
+    alice "Entonces, ¿qué tal si te pateo el trasero?" # TL
 
 # game/characters/alice/sleep.rpy:38
 translate spanish sleep_alice_3820771a_1:
@@ -82,360 +82,360 @@ translate spanish sleep_alice_3820771a_1:
 translate spanish sleep_alice_3b33b360:
 
     # alice "Let me sleep, have you never heard of a beauty sleep?"
-    alice "Déjame dormir, ¿nunca has oído hablar del sueño de belleza?"
+    alice "Déjame dormir, ¿nunca has oído hablar del sueño de belleza?" # TL
 
 # game/characters/alice/sleep.rpy:53
 translate spanish sleep_alice_leave_7adba209:
 
     # me "Sorry. I will leave you."
-    me "Lo siento. Te dejaré."
+    me "Lo siento. Te dejaré." # TL
 
 # game/characters/alice/sleep.rpy:54
 translate spanish sleep_alice_leave_1f6fdc10:
 
     # alice "Good boy."
-    alice "Buen chico."
+    alice "Buen chico." # TL
 
 # game/characters/alice/sleep.rpy:60
 translate spanish sleep_alice_sleepover_023d97dc:
 
     # "{color=#FF958F}[[Relationship check passed]{/color}"
-    "{color=#FF958F}[[Relación suficiente]{/color}"
+    "{color=#FF958F}[[Relación suficiente]{/color}" # TL
 
 # game/characters/alice/sleep.rpy:62
 translate spanish sleep_alice_sleepover_df5048c5:
 
     # alice "It didn't look like you were thinking about sleeping just now.."
-    alice "Justo ahora, no parecía que estuvieras pensando en dormir..."
+    alice "Justo ahora, no parecía que estuvieras pensando en dormir..." # TL
 
 # game/characters/alice/sleep.rpy:63
 translate spanish sleep_alice_sleepover_8fe57fc8:
 
     # me "It just came to me."
-    me "Se me acaba de ocurrir."
+    me "Se me acaba de ocurrir." # TL
 
 # game/characters/alice/sleep.rpy:64
 translate spanish sleep_alice_sleepover_6d562db5:
 
     # alice "Alright, I guess, I can spare you some space."
-    alice "Está bien, supongo, puedo dejarte algo de espacio."
+    alice "Está bien, supongo, puedo dejarte algo de espacio." # TL
 
 # game/characters/alice/sleep.rpy:67
 translate spanish sleep_alice_sleepover_122bb5f7:
 
     # alice "Comfy?"
-    alice "¿Cómodo?"
+    alice "¿Cómodo?" # TL
 
 # game/characters/alice/sleep.rpy:68
 translate spanish sleep_alice_sleepover_6fd65820:
 
     # me "Very."
-    me "Mucho."
+    me "Mucho." # TL
 
 # game/characters/alice/sleep.rpy:71
 translate spanish sleep_alice_sleepover_ecaae7e2:
 
     # alice "Night."
-    alice "Noches."
+    alice "Noches." # TL
 
 # game/characters/alice/sleep.rpy:72
 translate spanish sleep_alice_sleepover_c72b062c:
 
     # me "Night."
-    me "Noches."
+    me "Noches." # TL
 
 # game/characters/alice/sleep.rpy:75
 translate spanish sleep_alice_sleepover_bebfed96:
 
     # "[alice] snuggles into you."
-    "[alice] se acurruca contra ti."
+    "[alice] se acurruca contra ti." # TL
 
 # game/characters/alice/sleep.rpy:85
 translate spanish sleep_alice_sleepover_7c64d06f:
 
     # me "Good morning, sunshine."
-    me "Buenos días, solcito."
+    me "Buenos días, solcito." # TL
 
 # game/characters/alice/sleep.rpy:86
 translate spanish sleep_alice_sleepover_888d33a4:
 
     # alice "Morning."
-    alice "Buenos días."
+    alice "Buenos días." # TL
 
 # game/characters/alice/sleep.rpy:87
 translate spanish sleep_alice_sleepover_312ba666:
 
     # me "How was yo.. wait.."
-    me "¿Cómo dormis-? espera..."
+    me "¿Cómo dormis-? espera..." # TL
 
 # game/characters/alice/sleep.rpy:90
 translate spanish sleep_alice_sleepover_ea2c91fb:
 
     # me "Why are you naked?"
-    me "¿Por qué estás desnuda?"
+    me "¿Por qué estás desnuda?" # TL
 
 # game/characters/alice/sleep.rpy:93
 translate spanish sleep_alice_sleepover_e3a2f8cc:
 
     # alice "You don't like it?"
-    alice "¿No te gusta?"
+    alice "¿No te gusta?" # TL
 
 # game/characters/alice/sleep.rpy:94
 translate spanish sleep_alice_sleepover_463a3296:
 
     # me "I do, I'm surprised, that's all."
-    me "Sí, solo estoy sorprendido."
+    me "Sí, solo estoy sorprendido." # TL
 
 # game/characters/alice/sleep.rpy:97
 translate spanish sleep_alice_sleepover_799ded38:
 
     # alice "I wanted to make sure my handsome boy wakes up on the right foot."
-    alice "Quería asegurarme de que mi chico guapo se despertara con el pie derecho."
+    alice "Quería asegurarme de que mi chico guapo se despertara con el pie derecho." # TL
 
 # game/characters/alice/sleep.rpy:98
 translate spanish sleep_alice_sleepover_19c66564:
 
     # me "I like where it is goin'."
-    me "Me gusta a dónde vamos."
+    me "Me gusta a dónde vamos." # TL
 
 # game/characters/alice/sleep.rpy:99
 translate spanish sleep_alice_sleepover_4d75666d:
 
     # alice "You surely do."
-    alice "Seguro que te gusta."
+    alice "Seguro que te gusta." # TL
 
 # game/characters/alice/sleep.rpy:104
 translate spanish sleep_alice_sleepover_5c1bf8d4:
 
     # "{color=#FF958F}[[Relationship check failed]{/color}"
-    "{color=#FF958F}[[Relación insuficiente]{/color}"
+    "{color=#FF958F}[[Relación insuficiente]{/color}" # TL
 
 # game/characters/alice/sleep.rpy:105
 translate spanish sleep_alice_sleepover_619217b5:
 
     # alice "How about you sleep in your own bed?"
-    alice "¿Qué tal si duermes en tu propia cama?"
+    alice "¿Qué tal si duermes en tu propia cama?" # TL
 
 # game/characters/alice/sleep.rpy:106
 translate spanish sleep_alice_sleepover_efe24489:
 
     # me "I guess I don't have a choice, do I?"
-    me "Supongo que no tengo otra opción, ¿verdad?"
+    me "Supongo que no tengo otra opción, ¿verdad?" # TL
 
 # game/characters/alice/sleep.rpy:107
 translate spanish sleep_alice_sleepover_a3dd2bc6:
 
     # alice "Not this time."
-    alice "No esta vez."
+    alice "No esta vez." # TL
 
 # game/characters/alice/sleep.rpy:108
 translate spanish sleep_alice_sleepover_fdd6494c:
 
     # th "This time?"
-    th "¿Esta vez?"
+    th "¿Esta vez?" # TL
 
 # game/characters/alice/sleep.rpy:109
 translate spanish sleep_alice_sleepover_d006677a:
 
     # alice "Are you going to hold my thigh for long?"
-    alice "¿Vas a sostener mi muslo por mucho tiempo?"
+    alice "¿Vas a sostener mi muslo por mucho tiempo?" # TL
 
 # game/characters/alice/sleep.rpy:114
 translate spanish sleep_alice_hj_5dd074dc:
 
     # me "How did you undress me without waking me up?"
-    me "¿Cómo me desnudaste sin despertarme?"
+    me "¿Cómo me desnudaste sin despertarme?" # TL
 
 # game/characters/alice/sleep.rpy:117
 translate spanish sleep_alice_hj_c2861e65:
 
     # alice "Secret~ Let me just tell, you could learn a lot from me about dealing with sleeping people."
-    alice "Secreto~ Déjame decirte, podrías aprender mucho de mí sobre cómo tratar con personas dormidas."
+    alice "Secreto~ Déjame decirte, podrías aprender mucho de mí sobre cómo tratar con personas dormidas." # TL
 
 # game/characters/alice/sleep.rpy:118
 translate spanish sleep_alice_hj_43ab313c:
 
     # me "This, I can see. I'll make sure to be a good student, professor."
-    me "Eso, lo puedo ver. Me aseguraré de ser un buen estudiante, profesora."
+    me "Eso, lo puedo ver. Me aseguraré de ser un buen estudiante, profesora." # TL
 
 # game/characters/alice/sleep.rpy:119
 translate spanish sleep_alice_hj_511a40af:
 
     # alice "Good boy, but first, let's deal with this big problem we have here."
-    alice "Buen chico, pero primero, abordemos este gran problema que tenemos aquí."
+    alice "Buen chico, pero primero, abordemos este gran problema que tenemos aquí." # TL
 
 # game/characters/alice/sleep.rpy:120
 translate spanish sleep_alice_hj_69cf01ff:
 
     # me "Brilliant idea."
-    me "Brillante idea."
+    me "Brillante idea." # TL
 
 # game/characters/alice/sleep.rpy:127
 translate spanish sleep_alice_hj_3260d0a2:
 
     # "[alice] starts to move her palm over your dick while her tongue plays with your nipple, sending sparks of electricity down your spine."
-    "[alice] comienza a mover la palma de su mano sobre tu pene mientras su lengua juega con tu pezón, enviando chispas de electricidad por tu columna."
+    "[alice] comienza a mover la palma de su mano sobre tu pene mientras su lengua juega con tu pezón, enviando chispas de electricidad por tu columna." # TL
 
 # game/characters/alice/sleep.rpy:128
 translate spanish sleep_alice_hj_90fb30f1:
 
     # me "Ohh.. You're good at this."
-    me "Ohh... Eres buena en esto."
+    me "Ohh... Eres buena en esto." # TL
 
 # game/characters/alice/sleep.rpy:129
 translate spanish sleep_alice_hj_2de21fb9:
 
     # alice "Haha~"
-    alice "Haha~"
+    alice "Jaja~" # TL # Victorius - AI
 
 # game/characters/alice/sleep.rpy:130
 translate spanish sleep_alice_hj_b03afed4:
 
     # alice "Praise me more."
-    alice "Elógiame más."
+    alice "Elógiame más." # TL
 
 # game/characters/alice/sleep.rpy:137
 translate spanish sleep_alice_hj_426d91d6:
 
     # "As if wanting to give you a reason to praise her, she starts to lick your nipple in another gentler way."
-    "Como si quisiera darte una razón para elogiarla, comienza a lamer tu pezón de otra manera más suave."
+    "Como si quisiera darte una razón para elogiarla, comienza a lamer tu pezón de otra manera más suave." # TL
 
 # game/characters/alice/sleep.rpy:139
 translate spanish sleep_alice_hj_e83e91e9:
 
     # "It gives you a sensual, almost spiritual, feeling of happiness and purity."
-    "Te da un sentimiento sensual, casi espiritual, de felicidad y pureza."
+    "Te da un sentimiento sensual, casi espiritual, de felicidad y pureza." # TL
 
 # game/characters/alice/sleep.rpy:140
 translate spanish sleep_alice_hj_166d9144:
 
     # me "Ahh!"
-    me "¡Ahh!"
+    me "¡Ahh!" # TL
 
 # game/characters/alice/sleep.rpy:141
 translate spanish sleep_alice_hj_fd220f70:
 
     # alice "Hehe~ Where is my praise?"
-    alice "Hehe~ ¿Dónde están mis elogios?"
+    alice "Hehe~ ¿Dónde están mis elogios?" # TL
 
 # game/characters/alice/sleep.rpy:142
 translate spanish sleep_alice_hj_4e84449c:
 
     # me "Good girl! You're the best."
-    me "¡Buena chica! Eres la mejor."
+    me "¡Buena chica! Eres la mejor." # TL
 
 # game/characters/alice/sleep.rpy:143
 translate spanish sleep_alice_hj_22033369:
 
     # alice "I know~"
-    alice "Lo sé~"
+    alice "Lo sé~" # TL
 
 # game/characters/alice/sleep.rpy:150
 translate spanish sleep_alice_hj_0f0ba74d:
 
     # "You just lie back, eyes closed, enjoying this extraterrestrial feeling."
-    "Simplemente recuéstate, con los ojos cerrados, disfrutando de esta sensación fuera de este mundo."
+    "Simplemente recuéstate, con los ojos cerrados, disfrutando de esta sensación fuera de este mundo." # TL
 
 # game/characters/alice/sleep.rpy:151
 translate spanish sleep_alice_hj_bf045400:
 
     # me "Very.. good.. girl.."
-    me "Muy... buena... chica..."
+    me "Muy... buena... chica..." # TL
 
 # game/characters/alice/sleep.rpy:152
 translate spanish sleep_alice_hj_4040ff0d:
 
     # alice "Haha~ I love it when you praise me."
-    alice "Haha~ Me encanta cuando me alabas."
+    alice "Haha~ Me encanta cuando me alabas." # TL
 
 # game/characters/alice/sleep.rpy:159
 translate spanish sleep_alice_hj_1735f07e:
 
     # me "I'm close, babe."
-    me "Estoy cerca, nena."
+    me "Estoy cerca, nena." # TL
 
 # game/characters/alice/sleep.rpy:160
 translate spanish sleep_alice_hj_5ee5ec93:
 
     # alice "Cum for me. But, please don't get any on my ceiling. I'm too short to clean there."
-    alice "Córrete para mí. Pero, por favor, no lo hagas en mi techo. Soy demasiado baja para limpiar ahí."
+    alice "Córrete para mí. Pero, por favor, no lo hagas en mi techo. Soy demasiado baja para limpiar ahí." # TL
 
 # game/characters/alice/sleep.rpy:161
 translate spanish sleep_alice_hj_4a8ccba2:
 
     # me "Hahaha. Don't worry if I get any, I'll raise you to clean it."
-    me "Hahaha. No te preocupes si llego ahí, te levantaré para que lo limpies."
+    me "Hahaha. No te preocupes si llego ahí, te levantaré para que lo limpies." # TL
 
 # game/characters/alice/sleep.rpy:162
 translate spanish sleep_alice_hj_43242706:
 
     # alice "Deal."
-    alice "Trato."
+    alice "Trato." # TL
 
 # game/characters/alice/sleep.rpy:167
 translate spanish sleep_alice_hj_ae2cb410:
 
     # me "Ahhmn!"
-    me "¡Ahhmn!"
+    me "¡Ahhmn!" # TL
 
 # game/characters/alice/sleep.rpy:170
 translate spanish sleep_alice_hj_bfe648fc:
 
     # alice "It seems I only need to clean my bed, and the floor."
-    alice "Parece que solo necesito limpiar mi cama y el piso."
+    alice "Parece que solo necesito limpiar mi cama y el piso." # TL
 
 # game/characters/alice/sleep.rpy:171
 translate spanish sleep_alice_hj_1ef2dafc:
 
     # me "I'll try harder next time."
-    me "Me esforzaré más la próxima vez."
+    me "Me esforzaré más la próxima vez." # TL
 
 # game/characters/alice/sleep.rpy:174
 translate spanish sleep_alice_hj_de080d43:
 
     # alice "Please, don't. I really don't want to clean the ceiling."
-    alice "Por favor, no lo hagas. Realmente no quiero limpiar el techo."
+    alice "Por favor, no lo hagas. Realmente no quiero limpiar el techo." # TL
 
 # game/characters/alice/sleep.rpy:181
 translate spanish sleep_alice_sleepover_end_97fe4c4a:
 
     # alice "Alright, I'm going to prepare for the day."
-    alice "Muy bien, me voy a preparar para el día."
+    alice "Muy bien, me voy a preparar para el día." # TL
 
 # game/characters/alice/sleep.rpy:182
 translate spanish sleep_alice_sleepover_end_cdd7aae0:
 
     # me "Mm. See you."
-    me "Mm. Nos vemos."
+    me "Mm. Nos vemos." # TL
 
 # game/characters/alice/sleep.rpy:183
 translate spanish sleep_alice_sleepover_end_4b7e1b8b:
 
     # alice "Mhm. I hope we see each other really soon, in similar dress-code."
-    alice "Mhm. Espero que nos veamos muy pronto, vestidos igual."
+    alice "Mhm. Espero que nos veamos muy pronto, vestidos igual." # TL
 
 # game/characters/alice/sleep.rpy:184
 translate spanish sleep_alice_sleepover_end_2a78d98e:
 
     # me "I'll take that invitation for sure."
-    me "Seguro que te tomo la palabra."
+    me "Seguro que te tomo la palabra." # TL
 
 # game/characters/alice/sleep.rpy:185
 translate spanish sleep_alice_sleepover_end_46d4138c:
 
     # alice "I don't doubt that. Don't make me wait too long."
-    alice "No lo dudo. No me hagas esperar demasiado."
+    alice "No lo dudo. No me hagas esperar demasiado." # TL
 
 translate spanish strings:
 
     # game/characters/alice/sleep.rpy:13
     old "Spread her legs"
-    new "Abre sus piernas"
+    new "Abre sus piernas" # TL
 
     # game/characters/alice/sleep.rpy:13
     old "Leave"
-    new "Vete"
+    new "Vete" # TL
 
     # game/characters/alice/sleep.rpy:41
     old "I want to sleep with you"
-    new "Quiero dormir contigo"
+    new "Quiero dormir contigo" # TL

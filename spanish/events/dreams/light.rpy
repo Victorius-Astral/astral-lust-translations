@@ -4,22 +4,22 @@
 translate spanish d_Light_0_dc96b2ba:
 
     # "Your nearly blinded by the light as you open your eyes."
-    "Estás casi cegado por la luz cuando abres los ojos."
+    "Estás casi cegado por la luz cuando abres los ojos." # TL
 
 # game/events/dreams/light.rpy:4
 translate spanish d_Light_0_016c1ed4:
 
     # "The light illuminates the world."
-    "La luz ilumina el mundo."
+    "La luz ilumina el mundo." # TL
 
 # game/events/dreams/light.rpy:5
 translate spanish d_Light_0_8c48ad31:
 
     # "You float amidst the clouds and enjoy the light shining on you."
-    "Flotas entre las nubes y disfrutas de la luz que te ilumina."
+    "Flotas entre las nubes y disfrutas de la luz que te ilumina." # TL
 
 # game/events/dreams/light.rpy:7
 translate spanish d_Light_0_f325f26a:
 
     # "You feel purified."
-    "Te sientes purificado."
+    "Te sientes purificado." # TL

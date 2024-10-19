@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/battle/functions/play_card/check_spirit.rpy:10
     old "You don't have enough energy."
-    new "No tienes suficiente energía."
+    new "No tienes suficiente energía." # TL

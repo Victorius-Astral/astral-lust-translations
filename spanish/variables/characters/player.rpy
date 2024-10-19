@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/variables/characters/player.rpy:4
     old "Thoughts"
-    new "Pensamientos"
+    new "Pensamientos" # TL

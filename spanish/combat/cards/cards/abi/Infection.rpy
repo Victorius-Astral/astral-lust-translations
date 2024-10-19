@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/abi/Infection.rpy:6
     old "Infection"
-    new "Infección"
+    new "Infección" # TL

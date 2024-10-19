@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/off/Devour.rpy:6
     old "Devour"
-    new "Devorar"
+    new "Devorar" # TL

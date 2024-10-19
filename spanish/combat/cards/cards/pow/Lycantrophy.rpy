@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/pow/Lycantrophy.rpy:6
     old "Lycanthropy"
-    new "Licantropía"
+    new "Licantropía" # TL

@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/pow/Stone_Skin.rpy:6
     old "Stone Skin"
-    new "Piel de Piedra"
+    new "Piel de Piedra" # TL

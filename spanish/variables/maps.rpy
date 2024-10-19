@@ -4,48 +4,48 @@ translate spanish strings:
 
     # game/variables/maps.rpy:3
     old "Bedroom"
-    new "Habitación"
+    new "Habitación" # TL
 
     # game/variables/maps.rpy:3
     old "Front Door"
-    new "Puerta Frontal"
+    new "Puerta Frontal" # TL
 
     # game/variables/maps.rpy:3
     old "Library"
-    new "Biblioteca"
+    new "Biblioteca" # TL
 
     # game/variables/maps.rpy:3
     old "Second Floor"
-    new "Segundo Piso"
+    new "Segundo Piso" # TL
 
     # game/variables/maps.rpy:3
     old "Alice Room"
-    new "Habitación de Alice"
+    new "Habitación de Alice" # TL
 
     # game/variables/maps.rpy:3
     old "Grace Room"
-    new "Habitación de Grace"
+    new "Habitación de Grace" # TL
 
     # game/variables/maps.rpy:3
     old "Lexi & Mina Room"
-    new "Habitación de Lexi & Mina"
+    new "Habitación de Lexi & Mina" # TL
 
     # game/variables/maps.rpy:3
     old "Third Floor"
-    new "Third Floor"
+    new "Tercer Piso" # TL # Victorius - AI
 
     # game/variables/maps.rpy:3
     old "Savenia Room"
-    new "Habitación de Savenia"
+    new "Habitación de Savenia" # TL
 
     # game/variables/maps.rpy:3
     old "First Floor"
-    new "Primer Piso"
+    new "Primer Piso" # TL
 
     # game/variables/maps.rpy:46
     old "Main Square"
-    new "Plaza Principal"
+    new "Plaza Principal" # TL
 
     # game/variables/maps.rpy:46
     old "Lola Room"
-    new "Habitación de Lola"
+    new "Habitación de Lola" # TL

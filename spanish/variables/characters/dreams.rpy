@@ -4,12 +4,12 @@ translate spanish strings:
 
     # game/variables/characters/dreams.rpy:1
     old "Charlotte"
-    new "Charlotte"
+    new "Charlotte" # TL # Victorius - AI
 
     # game/variables/characters/dreams.rpy:2
     old "Devil"
-    new "Diablo"
+    new "Diablo" # TL
 
     # game/variables/characters/dreams.rpy:3
     old "Secretary"
-    new "Secretaria"
+    new "Secretaria" # TL

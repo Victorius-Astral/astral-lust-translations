@@ -4,110 +4,110 @@
 translate spanish room_player_altar_a864fc90:
 
     # me "What have I wanted to say?"
-    me "¿Qué he querido decir?"
+    me "¿Qué he querido decir?" # TL
 
 # game/places/hotel/player/altar.rpy:13
 translate spanish room_player_altar_0dd984d6:
 
     # me ".. Weird..."
-    me "... Raro..."
+    me "... Raro..." # TL
 
 # game/places/hotel/player/altar.rpy:24
 translate spanish room_player_altar_63569e9c:
 
     # "There is no respone."
-    "No hay respuesta."
+    "No hay respuesta." # TL
 
 # game/places/hotel/player/altar.rpy:25
 translate spanish room_player_altar_fac33955:
 
     # me "Perhaps I should wait more. I hope she's alright."
-    me "Quizás debería esperar más. Espero que esté bien."
+    me "Quizás debería esperar más. Espero que esté bien." # TL
 
 # game/places/hotel/player/altar.rpy:29
 translate spanish room_player_altar_02089ca2:
 
     # me "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar."
-    me "Buscador de Sabiduría, Ojo de Secretos, Guardián del Conocimiento de Asthar."
+    me "Buscador de Sabiduría, Ojo de Secretos, Guardián del Conocimiento de Asthar." # TL
 
 # game/places/hotel/player/altar.rpy:32
 translate spanish room_player_altar_365931bb:
 
     # me "Open the gates to your kingdom."
-    me "Abre las puertas a tu reino."
+    me "Abre las puertas a tu reino." # TL
 
 # game/places/hotel/player/altar.rpy:34
 translate spanish room_player_altar_97991f8f:
 
     # "There is no response."
-    "No hay respuesta."
+    "No hay respuesta." # TL
 
 # game/places/hotel/player/altar.rpy:45
 translate spanish room_player_altar_1c156d3b:
 
     # "You look at the altar from all sides and compliment its craftsmanship."
-    "Miras el altar desde todos los lados y elogias su artesanía."
+    "Miras el altar desde todos los lados y elogias su artesanía." # TL
 
 # game/places/hotel/player/altar.rpy:46
 translate spanish room_player_altar_6c96b5fe:
 
     # "It's simply exquisite. You can't point to any flaw in it."
-    "Es simplemente exquisito. No se puede señalar ningún defecto."
+    "Es simplemente exquisito. No se puede señalar ningún defecto." # TL
 
 # game/places/hotel/player/altar.rpy:47
 translate spanish room_player_altar_04b01469:
 
     # "As you continue looking at it, you feel the need to fall to your knees and pray."
-    "Mientras continúas mirándolo, sientes la necesidad de arrodillarte y orar."
+    "Mientras continúas mirándolo, sientes la necesidad de arrodillarte y orar." # TL
 
 # game/places/hotel/player/altar.rpy:49
 translate spanish room_player_altar_ff051e5d:
 
     # th "I wonder to whom it is dedicated."
-    th "Me pregunto a quién estará dedicado."
+    th "Me pregunto a quién estará dedicado." # TL
 
 # game/places/hotel/player/altar.rpy:53
 translate spanish room_player_altar_38b3b4bf:
 
     # "You carefully check the knife. It's exquisite."
-    "Revisas cuidadosamente el cuchillo. Es exquisito."
+    "Revisas cuidadosamente el cuchillo. Es exquisito." # TL
 
 # game/places/hotel/player/altar.rpy:54
 translate spanish room_player_altar_3d8530f1:
 
     # th "I wonder what its purpose is."
-    th "Me pregunto cuál es su propósito."
+    th "Me pregunto cuál es su propósito." # TL
 
 # game/places/hotel/player/altar.rpy:56
 translate spanish room_player_altar_ec767004:
 
     # "For some weird reason you feel lighter."
-    "Por alguna razón te sientes más ligero."
+    "Por alguna razón te sientes más ligero." # TL
 
 translate spanish strings:
 
     # game/places/hotel/player/altar.rpy:2
     old "Pray"
-    new "Orar"
+    new "Orar" # TL
 
     # game/places/hotel/player/altar.rpy:2
     old "Check altar"
-    new "Revisa el altar"
+    new "Revisa el altar" # TL
 
     # game/places/hotel/player/altar.rpy:2
     old "Check the knife"
-    new "Revisa el cuchillo "
+    new "Revisa el cuchillo " # TL
 
     # game/places/hotel/player/altar.rpy:30
     old "Open the gates to your kingdom."
-    new "Abre las puertas a tu reino."
+    new "Abre las puertas a tu reino." # TL
 # : Translation updated at 2022-01-25 22:41
 
 # game/places/hotel/player/altar.rpy:43
 translate spanish room_player_altar_kiara_da7c91f7:
 
     # me "What did I want to say?"
-    me "¿Qué he querido decir?"
+    me "¿Qué he querido decir?" # TL
 
 # game/places/hotel/player/altar.rpy:44
 translate spanish room_player_altar_kiara_3820771a:
@@ -119,49 +119,49 @@ translate spanish room_player_altar_kiara_3820771a:
 translate spanish room_player_altar_kiara_1228f336:
 
     # me "Weird..."
-    me "Raro..."
+    me "Raro..." # TL
 
 # game/places/hotel/player/altar.rpy:56
 translate spanish room_player_altar_kiara_97991f8f:
 
     # "There is no response."
-    "No hay respuesta."
+    "No hay respuesta." # TL
 
 # game/places/hotel/player/altar.rpy:57
 translate spanish room_player_altar_kiara_fac33955:
 
     # me "Perhaps I should wait more. I hope she's alright."
-    me "Quizás debería esperar más. Espero que esté bien."
+    me "Quizás debería esperar más. Espero que esté bien." # TL
 
 # game/places/hotel/player/altar.rpy:61
 translate spanish room_player_altar_kiara_02089ca2:
 
     # me "Seeker of Wisdom, Eye of Secrets, Lorekeeper of Asthar."
-    me "Buscador de Sabiduría, Ojo de Secretos, Guardián del Conocimiento de Asthar."
+    me "Buscador de Sabiduría, Ojo de Secretos, Guardián del Conocimiento de Asthar." # TL
 
 # game/places/hotel/player/altar.rpy:62
 translate spanish room_player_altar_kiara_365931bb:
 
     # me "Open the gates to your kingdom."
-    me "Abre las puertas a tu reino."
+    me "Abre las puertas a tu reino." # TL
 
 # game/places/hotel/player/altar.rpy:64
 translate spanish room_player_altar_kiara_97991f8f_1:
 
     # "There is no response."
-    "No hay respuesta."
+    "No hay respuesta." # TL
 # : Translation updated at 2022-09-23 12:55
 
 translate spanish strings:
 
     # game/places/hotel/player/altar.rpy:2
     old "Perform a ritual{#visible}"
-    new "Realiza un ritual{#visible}"
+    new "Realiza un ritual{#visible}" # TL
 # TODO: Translation updated at 2024-10-18 07:38
 
 translate spanish strings:
 
     # game/places/hotel/player/altar.rpy:2
     old "Seek help for Lexi with Aharon {gold}(Story){/gold}"
-    new "Seek help for Lexi with Aharon {gold}(Story){/gold}"
+    new "Buscar ayuda para Lexi con Aharon {gold}(Historia){/gold}" # TL # Victorius - AI
 

@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/characters/rachel/screen.rpy:8
     old "Favor:"
-    new "Favor:"
+    new "Favor:" # TL # Victorius - AI

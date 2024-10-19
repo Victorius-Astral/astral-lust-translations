@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/off/Flurry.rpy:6
     old "Flurry"
-    new "Ráfaga"
+    new "Ráfaga" # TL

@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/pow/Giant.rpy:6
     old "Giant"
-    new "Gigante"
+    new "Gigante" # TL

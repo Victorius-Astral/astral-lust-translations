@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/tar/The_Star.rpy:6
     old "The Star"
-    new "La Estrella"
+    new "La Estrella" # TL

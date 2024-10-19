@@ -4,37 +4,37 @@ translate spanish strings:
 
     # game/combat/monsters.rpy:3
     old "Wicked One"
-    new "Wicked One"
+    new "Malvado" # TL # Victorius - AI
 
     # game/combat/monsters.rpy:267
     old "Screecher"
-    new "Screecher"
+    new "Chillón" # TL # Victorius - AI
 
     # game/combat/monsters.rpy:368
     old "Corrupted Matron"
-    new "Corrupted Matron"
+    new "Matrona Corrupta" # TL # Victorius - AI
 
     # game/combat/monsters.rpy:448
     old "Meat Mushroom"
-    new "Meat Mushroom"
+    new "Hongo de Carne" # TL # Victorius - AI
 
     # game/combat/monsters.rpy:519
     old "Blood Mushroom"
-    new "Blood Mushroom"
+    new "Hongo de Sangre" # TL # Victorius - AI
 
     # game/combat/monsters.rpy:584
     old "Walker"
-    new "Walker"
+    new "Caminante" # TL # Victorius - AI
 
     # game/combat/monsters.rpy:678
     old "Elder Walker"
-    new "Elder Walker"
+    new "Caminante Anciano" # TL # Victorius - AI
 
     # game/combat/monsters.rpy:791
     old "Young Walker"
-    new "Young Walker"
+    new "Caminante Joven" # TL # Victorius - AI
 
     # game/combat/monsters.rpy:799
     old "Black Walker"
-    new "Black Walker"
+    new "Caminante Negro" # TL # Victorius - AI
 

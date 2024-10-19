@@ -4,4 +4,4 @@
 translate spanish dream_end_a85086ed:
 
     # "The images dim as the dream fades."
-    "Las imágenes se oscurecen mientras el sueño se desvanece."
+    "Las imágenes se oscurecen mientras el sueño se desvanece." # TL

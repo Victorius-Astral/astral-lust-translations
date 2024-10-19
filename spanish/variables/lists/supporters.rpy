@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/variables/lists/supporters.rpy:69
     old "Supported by: "
-    new "Apoyado por: "
+    new "Apoyado por: " # TL

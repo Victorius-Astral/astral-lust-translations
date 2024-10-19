@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/screens/menu/vault.rpy:113
     old "Stored:"
-    new "Almacenado:"
+    new "Almacenado:" # TL

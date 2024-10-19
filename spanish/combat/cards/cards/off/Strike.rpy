@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/off/Strike.rpy:6
     old "Strike"
-    new "Golpe"
+    new "Golpe" # TL

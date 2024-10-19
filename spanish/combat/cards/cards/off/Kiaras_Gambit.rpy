@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/off/Kiaras_Gambit.rpy:6
     old "Kiara's Gambit"
-    new "Gambito de Kiara"
+    new "Gambito de Kiara" # TL

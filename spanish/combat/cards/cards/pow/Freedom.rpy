@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/pow/Freedom.rpy:6
     old "Freedom"
-    new "Libertad"
+    new "Libertad" # TL

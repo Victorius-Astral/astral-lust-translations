@@ -4,4 +4,4 @@
 translate spanish sleep_savenia_c6f14d4e:
 
     # th "Yeah, I'm not tired of living yet."
-    th "Si, no estoy cansado de vivir todavía."
+    th "Si, no estoy cansado de vivir todavía." # TL

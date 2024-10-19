@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/pow/Bulletproof_Vest.rpy:6
     old "Bulletproof Vest"
-    new "Chaleco Antibalas"
+    new "Chaleco Antibalas" # TL

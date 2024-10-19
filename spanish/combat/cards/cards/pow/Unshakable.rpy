@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/pow/Unshakable.rpy:6
     old "Unshakable"
-    new "Inquebrantable"
+    new "Inquebrantable" # TL

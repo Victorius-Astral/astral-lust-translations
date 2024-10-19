@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/characters/little fox/screen.rpy:9
     old "Hunger:"
-    new "Hambre:"
+    new "Hambre:" # TL

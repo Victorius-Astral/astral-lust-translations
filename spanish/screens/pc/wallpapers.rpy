@@ -4,12 +4,12 @@ translate spanish strings:
 
     # game/screens/pc/wallpapers.rpy:18
     old "Insert code"
-    new "Inserta código"
+    new "Inserta código" # TL
 
     # game/screens/pc/wallpapers.rpy:22
     old "Wallpapers"
-    new "Fondos de pantalla"
+    new "Fondos de pantalla" # TL
 
     # game/screens/pc/wallpapers.rpy:36
     old "Blocked in SFW Mode"
-    new "Bloqueado en Modo SFW"
+    new "Bloqueado en Modo SFW" # TL

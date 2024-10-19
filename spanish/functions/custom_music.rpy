@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/functions/custom_music.rpy:58
     old "You need to have at least one song selected."
-    new "Necesitas tener al menos una canción seleccionada."
+    new "Necesitas tener al menos una canción seleccionada." # TL

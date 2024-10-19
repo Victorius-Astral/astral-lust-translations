@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/abi/Seduce.rpy:6
     old "Seduce"
-    new "Seducir"
+    new "Seducir" # TL

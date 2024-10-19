@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/screens/menus/girls/rhainda.rpy:17
     old "{gold}[rhainda] (Rhainda){/gold}"
-    new "{gold}[rhainda] (Rhainda){/gold}"
+    new "{gold}[rhainda] (Rhainda){/gold}" # TL # Victorius - AI
 
     # game/screens/menus/girls/rhainda.rpy:20
     old "{gold}[rhainda]{/gold}"
@@ -12,19 +12,19 @@ translate spanish strings:
 
     # game/screens/menus/girls/rhainda.rpy:30
     old "\nSettings"
-    new "\nConfguraciones"
+    new "\nConfguraciones" # TL
 
     # game/screens/menus/girls/rhainda.rpy:33
     old "• Rhainda x Little Fox\n  Content (Enabled)"
-    new "• Rhainda x Little Fox\n  Contenido (Activado)"
+    new "• Rhainda x Little Fox\n  Contenido (Activado)" # TL
 
     # game/screens/menus/girls/rhainda.rpy:35
     old "• Rhainda x Little Fox\n  Content (Disabled)"
-    new "• Rhainda x Little Fox\n  Contenido (Desactivado)"
+    new "• Rhainda x Little Fox\n  Contenido (Desactivado)" # TL
 # : Translation updated at 2022-03-05 18:26
 
 translate spanish strings:
 
     # game/screens/menus/girls/rhainda.rpy:23
     old "Real-Life Model: Rhainda {a=https://discord.gg/rvnBC39USx}(AL Discord){/a}"
-    new "Modelo en la Vida Real: Rhainda {a=https://discord.gg/rvnBC39USx}(AL Discord){/a}"
+    new "Modelo en la Vida Real: Rhainda {a=https://discord.gg/rvnBC39USx}(AL Discord){/a}" # TL

@@ -4,9 +4,9 @@ translate spanish strings:
 
     # game/combat/cards/cards/ability.rpy:687
     old "Hypnotize"
-    new "Hypnotize"
+    new "Hipnotizar" # TL # Victorius - AI
 
     # game/combat/cards/cards/ability.rpy:895
     old "Last Journey"
-    new "Last Journey"
+    new "Último Viaje" # TL # Victorius - AI
 

@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/abi/Hide_in_the_Shadows.rpy:6
     old "Hide in the Shadows"
-    new "Esconderse en las Sombras"
+    new "Esconderse en las Sombras" # TL

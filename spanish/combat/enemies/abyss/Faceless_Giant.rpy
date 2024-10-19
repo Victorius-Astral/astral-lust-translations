@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/enemies/abyss/Faceless_Giant.rpy:7
     old "Faceless Giant"
-    new "Gigante Sin Cara"
+    new "Gigante Sin Cara" # TL

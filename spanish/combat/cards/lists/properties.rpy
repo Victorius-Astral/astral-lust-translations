@@ -4,5 +4,5 @@ translate spanish strings:
 
     # game/combat/cards/lists/properties.rpy:3
     old "Card"
-    new "Card"
+    new "Tarjeta" # TL # Victorius - AI
 

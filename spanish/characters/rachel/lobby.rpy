@@ -4,4 +4,4 @@
 translate spanish rachel_sleep_lobby_ebf3f51d:
 
     # th "I shouldn't wake her up. I can talk with her tomorrow."
-    th "No debería despertarla. Puedo hablar con ella mañana."
+    th "No debería despertarla. Puedo hablar con ella mañana." # TL

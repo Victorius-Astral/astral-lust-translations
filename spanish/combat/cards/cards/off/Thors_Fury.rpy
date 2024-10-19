@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/off/Thors_Fury.rpy:6
     old "Thor's Fury"
-    new "Furia Thor"
+    new "Furia Thor" # TL

@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/abi/Antidote.rpy:6
     old "Antidote"
-    new "Antídoto"
+    new "Antídoto" # TL

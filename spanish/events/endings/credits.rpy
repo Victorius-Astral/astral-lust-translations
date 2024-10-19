@@ -4,16 +4,16 @@ translate spanish strings:
 
     # game/events/endings/credits.rpy:3
     old "You perished.\n\n{small}What remains of you is just some insignificant remnants in the endless river of time.{/small}"
-    new "Pereciste.\n\n{small}Lo que queda de ti son solo algunos restos insignificantes en el interminable río del tiempo.{/small}"
+    new "Pereciste.\n\n{small}Lo que queda de ti son solo algunos restos insignificantes en el interminable río del tiempo.{/small}" # TL
 
     # game/events/endings/credits.rpy:3
     old "Thank you for playing Astral Lust!"
-    new "¡Gracias por jugar a Astral Lust!"
+    new "¡Gracias por jugar a Astral Lust!" # TL
 
     # game/events/endings/credits.rpy:57
     old "Prefix"
-    new "Prefijo"
+    new "Prefijo" # TL
 
     # game/events/endings/credits.rpy:57
     old "Suffix"
-    new "Sufijo"
+    new "Sufijo" # TL

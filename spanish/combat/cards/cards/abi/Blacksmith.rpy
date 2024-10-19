@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/abi/Blacksmith.rpy:6
     old "Blacksmith"
-    new "Herrero"
+    new "Herrero" # TL

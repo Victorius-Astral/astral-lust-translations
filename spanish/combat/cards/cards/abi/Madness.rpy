@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/abi/Madness.rpy:6
     old "Madness"
-    new "Demencia"
+    new "Demencia" # TL

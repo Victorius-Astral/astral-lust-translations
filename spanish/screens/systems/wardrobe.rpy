@@ -4,5 +4,5 @@ translate spanish strings:
 
     # game/screens/systems/wardrobe.rpy:52
     old "{gold}--- Outfits ---{/gold}\n"
-    new "{gold}--- Outfits ---{/gold}\n"
+    new "{gold}--- Atuendos ---{/gold}\n" # TL # Victorius - AI
 

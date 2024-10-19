@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/enemies/neutral/Giant_Spider.rpy:7
     old "Giant Spider"
-    new "Araña Gigante"
+    new "Araña Gigante" # TL

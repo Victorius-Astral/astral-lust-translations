@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/off/Bite.rpy:6
     old "Bite"
-    new "Mordida"
+    new "Mordida" # TL

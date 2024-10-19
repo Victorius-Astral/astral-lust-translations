@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/abi/Outside.rpy:6
     old "Outside {#card}"
-    new "Exterior {#card}"
+    new "Exterior {#card}" # TL

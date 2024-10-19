@@ -4,19 +4,19 @@ translate spanish strings:
 
     # game/places/hotel/lobby/door2.rpy:2
     old "Forge"
-    new "Forja"
+    new "Forja" # TL
 
     # game/places/hotel/lobby/door2.rpy:2
     old "Dungeon"
-    new "Calabozo"
+    new "Calabozo" # TL
 
     # game/places/hotel/lobby/door2.rpy:2
     old "Vault"
-    new "Bóveda"
+    new "Bóveda" # TL
 # : Translation updated at 2022-01-25 22:41
 
 translate spanish strings:
 
     # game/places/hotel/lobby/door2.rpy:2
     old "Fox Shrine"
-    new "Santuario del Zorro"
+    new "Santuario del Zorro" # TL

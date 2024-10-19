@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/off/Crush.rpy:6
     old "Crush"
-    new "Aplastar"
+    new "Aplastar" # TL

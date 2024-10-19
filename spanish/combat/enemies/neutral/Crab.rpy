@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/enemies/neutral/Crab.rpy:7
     old "Giant Crab"
-    new "Cangrejo"
+    new "Cangrejo" # TL

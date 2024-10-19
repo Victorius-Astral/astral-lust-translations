@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/enemies/abyss/Devourer_Giant.rpy:7
     old "Devourer Giant"
-    new "Gigante Devorador"
+    new "Gigante Devorador" # TL

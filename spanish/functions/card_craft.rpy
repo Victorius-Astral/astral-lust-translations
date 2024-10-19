@@ -4,8 +4,8 @@ translate spanish strings:
 
     # game/functions/card_craft.rpy:9
     old "Card crafted successfully!"
-    new "¡Carta creada exitosamente!"
+    new "¡Carta creada exitosamente!" # TL
 
     # game/functions/card_craft.rpy:12
     old "Not enough materials!"
-    new "¡Materiales insuficientes!"
+    new "¡Materiales insuficientes!" # TL

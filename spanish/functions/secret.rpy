@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/functions/secret.rpy:3
     old "Wallpaper 'Secret 2' unlocked!"
-    new "¡Wallpaper 'Secreto 2' desbloqueado!"
+    new "¡Wallpaper 'Secreto 2' desbloqueado!" # TL

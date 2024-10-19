@@ -4,8 +4,8 @@ translate spanish strings:
 
     # game/variables/classes/Codex.rpy:20
     old "Entry updated - {}."
-    new "Nota actualizada - {}."
+    new "Nota actualizada - {}." # TL
 
     # game/variables/classes/Codex.rpy:31
     old "Entry added - {}."
-    new "Nota añadida - {}."
+    new "Nota añadida - {}." # TL

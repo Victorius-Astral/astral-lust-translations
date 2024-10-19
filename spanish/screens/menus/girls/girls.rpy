@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/screens/menus/girls/girls.rpy:26
     old "{color=#FFD700}----- Main -----{/color}"
-    new "{color=#FFD700}----- Principales -----{/color}"
+    new "{color=#FFD700}----- Principales -----{/color}" # TL
 
     # game/screens/menus/girls/girls.rpy:37
     old "???{#girlsMenu}"
@@ -12,8 +12,8 @@ translate spanish strings:
 
     # game/screens/menus/girls/girls.rpy:42
     old "\n{color=#FFD700}----- Side -----{/color}"
-    new "\n{color=#FFD700}----- Secundarias -----{/color}"
+    new "\n{color=#FFD700}----- Secundarias -----{/color}" # TL
 
     # game/screens/menus/girls/girls.rpy:58
     old "\n{color=#FFD700}----- Other -----{/color}"
-    new "\n{color=#FFD700}----- Otros -----{/color}"
+    new "\n{color=#FFD700}----- Otros -----{/color}" # TL

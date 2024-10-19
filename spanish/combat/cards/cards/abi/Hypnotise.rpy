@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/abi/Hypnotise.rpy:6
     old "Hypnotise"
-    new "Hipnotizar"
+    new "Hipnotizar" # TL

@@ -4,9 +4,9 @@ translate spanish strings:
 
     # game/combat/cards/cards/summoning.rpy:35
     old "Hatchling"
-    new "Hatchling"
+    new "Polluelo" # TL # Victorius - AI
 
     # game/combat/cards/cards/summoning.rpy:71
     old "Flock of Birds"
-    new "Flock of Birds"
+    new "Bandada de Pájaros" # TL # Victorius - AI
 

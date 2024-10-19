@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/off/Fireworks.rpy:12
     old "Fireworks"
-    new "Fuegos Artificiales"
+    new "Fuegos Artificiales" # TL

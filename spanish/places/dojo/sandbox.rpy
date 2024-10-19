@@ -4,5 +4,5 @@
 translate spanish carlson_dojo_f7deac80:
 
     # "You return to the hotel before the night arrives."
-    "You return to the hotel before the night arrives."
+    "Vuelves al hotel antes de que llegue la noche." # TL # Victorius - AI
 

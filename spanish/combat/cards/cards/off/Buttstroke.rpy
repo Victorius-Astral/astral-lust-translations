@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/off/Buttstroke.rpy:6
     old "Buttstroke"
-    new "Culatazo"
+    new "Culatazo" # TL

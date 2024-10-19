@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/screens/menu/trade.rpy:155
     old "Relations:"
-    new "Relaciones:"
+    new "Relaciones:" # TL

@@ -4,223 +4,223 @@
 translate spanish kiara_fj_1_650bc78a:
 
     # kiara "I can't say that's my favorite thing to do."
-    kiara "No puedo decir que sea lo que más me gustaría hacer."
+    kiara "No puedo decir que sea lo que más me gustaría hacer." # TL
 
 # game/characters/kiara/fj_1.rpy:67
 translate spanish kiara_fj_1_2ea338d7:
 
     # me "Oh? Are you disturbed by it?"
-    me "¿Oh? ¿Te perturba?"
+    me "¿Oh? ¿Te perturba?" # TL
 
 # game/characters/kiara/fj_1.rpy:68
 translate spanish kiara_fj_1_69d43922:
 
     # kiara "No, but this kind of play is fun only to a single party."
-    kiara "No, pero este tipo de juego es divertido solo para una sola parte."
+    kiara "No, pero este tipo de juego es divertido solo para una sola parte." # TL
 
 # game/characters/kiara/fj_1.rpy:69
 translate spanish kiara_fj_1_9f69a92a:
 
     # me "I can lick you off after this."
-    me "Puedo lamerte después de esto."
+    me "Puedo lamerte después de esto." # TL
 
 # game/characters/kiara/fj_1.rpy:73
 translate spanish kiara_fj_1_44cd995f:
 
     # kiara "Good idea."
-    kiara "Buena idea."
+    kiara "Buena idea." # TL
 
 # game/characters/kiara/fj_1.rpy:74
 translate spanish kiara_fj_1_3e7a30ec:
 
     # me "Shall we?"
-    me "¿Empezamos?"
+    me "¿Empezamos?" # TL
 
 # game/characters/kiara/fj_1.rpy:75
 translate spanish kiara_fj_1_0e1c4334:
 
     # kiara "Of course."
-    kiara "Por supuesto."
+    kiara "Por supuesto." # TL
 
 # game/characters/kiara/fj_1.rpy:85
 translate spanish kiara_fj_1_slow_8c6a31c9:
 
     # me "Nice."
-    me "Genial."
+    me "Genial." # TL
 
 # game/characters/kiara/fj_1.rpy:86
 translate spanish kiara_fj_1_slow_ff11f02d:
 
     # kiara "Is it your fetish?"
-    kiara "¿Es tu fetiche?"
+    kiara "¿Es tu fetiche?" # TL
 
 # game/characters/kiara/fj_1.rpy:87
 translate spanish kiara_fj_1_slow_49e402db:
 
     # me "You mean feet?"
-    me "¿Hablas de los pies?"
+    me "¿Hablas de los pies?" # TL
 
 # game/characters/kiara/fj_1.rpy:91
 translate spanish kiara_fj_1_slow_4551b4a4:
 
     # kiara "Yes. Do you have foot fetish?" nointeract
-    kiara "Sí. ¿Tienes fetiche de pies?" nointeract
+    kiara "Sí. ¿Tienes fetiche de pies?" nointeract # TL
 
 # game/characters/kiara/fj_1.rpy:100
 translate spanish kiara_fj_1_slow_b1300d1d:
 
     # kiara "Yes. Do you have foot fetish?"
-    kiara "Sí. ¿Tienes fetiche de pies?"
+    kiara "Sí. ¿Tienes fetiche de pies?" # TL
 
 # game/characters/kiara/fj_1.rpy:103
 translate spanish kiara_fj_1_slow_0806beeb:
 
     # me "I do have the foot fetish."
-    me "Sí, tengo el fetiche por los pies."
+    me "Sí, tengo el fetiche por los pies." # TL
 
 # game/characters/kiara/fj_1.rpy:104
 translate spanish kiara_fj_1_slow_cda2cac4:
 
     # kiara "You're the first person with it I know."
-    kiara "Eres la primera persona con eso que conozco."
+    kiara "Eres la primera persona con eso que conozco." # TL
 
 # game/characters/kiara/fj_1.rpy:105
 translate spanish kiara_fj_1_slow_fc6883fb:
 
     # me "Do you know a lot of people?"
-    me "¿Conoces a mucha gente?"
+    me "¿Conoces a mucha gente?" # TL
 
 # game/characters/kiara/fj_1.rpy:106
 translate spanish kiara_fj_1_slow_a9e99b6c:
 
     # kiara "No, I used to. But it's a thing of the past."
-    kiara "No, solía hacerlo. Pero es cosa del pasado."
+    kiara "No, solía hacerlo. Pero es cosa del pasado." # TL
 
 # game/characters/kiara/fj_1.rpy:107
 translate spanish kiara_fj_1_slow_49584483:
 
     # me "I'm sorry."
-    me "Lo lamento."
+    me "Lo lamento." # TL
 
 # game/characters/kiara/fj_1.rpy:108
 translate spanish kiara_fj_1_slow_05591a7d:
 
     # kiara "Power always comes with a price."
-    kiara "El poder siempre tiene un precio."
+    kiara "El poder siempre tiene un precio." # TL
 
 # game/characters/kiara/fj_1.rpy:111
 translate spanish kiara_fj_1_slow_e5a53670:
 
     # me "No, that's not my kind of thing."
-    me "No, no es lo mío."
+    me "No, no es lo mío." # TL
 
 # game/characters/kiara/fj_1.rpy:112
 translate spanish kiara_fj_1_slow_db5fb4ad:
 
     # kiara "Then?"
-    kiara "¿Entonces?"
+    kiara "¿Entonces?" # TL
 
 # game/characters/kiara/fj_1.rpy:113
 translate spanish kiara_fj_1_slow_57d00dd4:
 
     # me "I just felt like getting a footjob today."
-    me "Simplemente tuve ganas de sentir tus pies hoy."
+    me "Simplemente tuve ganas de sentir tus pies hoy." # TL
 
 # game/characters/kiara/fj_1.rpy:114
 translate spanish kiara_fj_1_slow_36f9f2e0:
 
     # kiara "I see. It's normal to have various desires."
-    kiara "Ya veo. Es normal tener varios deseos."
+    kiara "Ya veo. Es normal tener varios deseos." # TL
 
 # game/characters/kiara/fj_1.rpy:120
 translate spanish kiara_fj_1_fast_9f633d98:
 
     # kiara "Do you like it more?"
-    kiara "¿Te gusta más?"
+    kiara "¿Te gusta más?" # TL
 
 # game/characters/kiara/fj_1.rpy:121
 translate spanish kiara_fj_1_fast_898c683e:
 
     # me "Yeah, it's great."
-    me "Sí, es genial."
+    me "Sí, es genial." # TL
 
 # game/characters/kiara/fj_1.rpy:122
 translate spanish kiara_fj_1_fast_583f989e:
 
     # kiara "Heh.. Good for you."
-    kiara "Heh... Bien por ti."
+    kiara "Heh... Bien por ti." # TL
 
 # game/characters/kiara/fj_1.rpy:123
 translate spanish kiara_fj_1_fast_d08da5c0:
 
     # me "Don't be anxious, you're next."
-    me "No te angusties, tú eres el siguiente."
+    me "No te angusties, tú eres el siguiente." # TL
 
 # game/characters/kiara/fj_1.rpy:124
 translate spanish kiara_fj_1_fast_7df1c4fd:
 
     # kiara "I can't wait."
-    kiara "No puedo esperar."
+    kiara "No puedo esperar." # TL
 
 # game/characters/kiara/fj_1.rpy:125
 translate spanish kiara_fj_1_fast_0ee6f885:
 
     # me "You can go faster if you're so impatient."
-    me "Puedes ir más rápido si eres tan impaciente."
+    me "Puedes ir más rápido si eres tan impaciente." # TL
 
 # game/characters/kiara/fj_1.rpy:126
 translate spanish kiara_fj_1_fast_08330bf7:
 
     # kiara "I might just take your offer."
-    kiara "Puede que tome tu oferta."
+    kiara "Puede que tome tu oferta." # TL
 
 # game/characters/kiara/fj_1.rpy:132
 translate spanish kiara_fj_1_before_9301c799:
 
     # me "It feels really good [kiara].."
-    me "Se siente muy bien [kiara]..."
+    me "Se siente muy bien [kiara]..." # TL
 
 # game/characters/kiara/fj_1.rpy:133
 translate spanish kiara_fj_1_before_14baf83f:
 
     # kiara "Haha, I'm talented it seems."
-    kiara "Haha, parece que tengo talento."
+    kiara "Haha, parece que tengo talento." # TL
 
 # game/characters/kiara/fj_1.rpy:134
 translate spanish kiara_fj_1_before_be25cadc:
 
     # me "Oh, that's for sure. I wish I could ravage you right now."
-    me "Oh, eso es seguro. Desearía poder destrozarte ahora mismo."
+    me "Oh, eso es seguro. Desearía poder destrozarte ahora mismo." # TL
 
 # game/characters/kiara/fj_1.rpy:138
 translate spanish kiara_fj_1_before_07c6ce16:
 
     # kiara "Why? Don't you do it, then?" nointeract
-    kiara "¿Por qué? ¿Entonces, no lo haces?" nointeract
+    kiara "¿Por qué? ¿Entonces, no lo haces?" nointeract # TL
 
 # game/characters/kiara/fj_1.rpy:147
 translate spanish kiara_fj_1_before_cb628dec:
 
     # kiara "Why? Don't you do it, then?"
-    kiara "¿Por qué? ¿Entonces, no lo haces?"
+    kiara "¿Por qué? ¿Entonces, no lo haces?" # TL
 
 # game/characters/kiara/fj_1.rpy:148
 translate spanish kiara_fj_1_before_89749cf5:
 
     # me "Maybe the next time."
-    me "Quizás la próxima vez."
+    me "Quizás la próxima vez." # TL
 
 # game/characters/kiara/fj_1.rpy:150
 translate spanish kiara_fj_1_before_10596009:
 
     # kiara "You said you wanted to ravage me.."
-    kiara "Dijiste que querías destrozarme..."
+    kiara "Dijiste que querías destrozarme..." # TL
 
 # game/characters/kiara/fj_1.rpy:151
 translate spanish kiara_fj_1_before_10fa88f0:
 
     # me "If I do what I wish to do, I will have nothing to wish for. It's good to have dreams."
-    me "Si hago lo que deseo hacer, no tendré nada que desear. Es bueno tener sueños."
+    me "Si hago lo que deseo hacer, no tendré nada que desear. Es bueno tener sueños." # TL
 
 # game/characters/kiara/fj_1.rpy:152
 translate spanish kiara_fj_1_before_aaf8f088:
@@ -232,132 +232,132 @@ translate spanish kiara_fj_1_before_aaf8f088:
 translate spanish kiara_fj_1_before_9a413171:
 
     # me "I'm close."
-    me "Estoy cerca."
+    me "Estoy cerca." # TL
 
 # game/characters/kiara/fj_1.rpy:154
 translate spanish kiara_fj_1_before_a131396c:
 
     # kiara "Cum, soak me in your seed. I'm so wet.."
-    kiara "Vente, dame tu semilla. Estoy tan mojada..."
+    kiara "Vente, dame tu semilla. Estoy tan mojada..." # TL
 
 # game/characters/kiara/fj_1.rpy:155
 translate spanish kiara_fj_1_before_88eab5f5:
 
     # me "Haha."
-    me "Haha."
+    me "Jaja." # TL # Victorius - AI
 
 # game/characters/kiara/fj_1.rpy:156
 translate spanish kiara_fj_1_before_a1e5f7f2:
 
     # kiara "You're gonna deal with my wet pussy soon enough."
-    kiara "Vas a lidiar con mi coño mojado muy pronto."
+    kiara "Vas a lidiar con mi coño mojado muy pronto." # TL
 
 # game/characters/kiara/fj_1.rpy:164
 translate spanish kiara_fj_1_cum_57f0a9e0:
 
     # me "Fuck!"
-    me "¡Mierda!"
+    me "¡Mierda!" # TL
 
 # game/characters/kiara/fj_1.rpy:168
 translate spanish kiara_fj_1_cum_e9e779e0:
 
     # kiara "Happy?"
-    kiara "¿Feliz?"
+    kiara "¿Feliz?" # TL
 
 # game/characters/kiara/fj_1.rpy:169
 translate spanish kiara_fj_1_cum_6fd65820:
 
     # me "Very."
-    me "Mucho."
+    me "Mucho." # TL
 
 # game/characters/kiara/fj_1.rpy:170
 translate spanish kiara_fj_1_cum_489ba8eb:
 
     # kiara "Time for you to return a favor."
-    kiara "Es hora de que me devuelvas un favor."
+    kiara "Es hora de que me devuelvas un favor." # TL
 
 # game/characters/kiara/fj_1.rpy:171
 translate spanish kiara_fj_1_cum_66b4063c:
 
     # me "Give me a while to appreciate this feeling."
-    me "Dame un tiempo para apreciar esta sensación."
+    me "Dame un tiempo para apreciar esta sensación." # TL
 
 # game/characters/kiara/fj_1.rpy:172
 translate spanish kiara_fj_1_cum_0e1c4334:
 
     # kiara "Of course."
-    kiara "Por supuesto."
+    kiara "Por supuesto." # TL
 
 # game/characters/kiara/fj_1.rpy:173
 translate spanish kiara_fj_1_cum_dd9636c7:
 
     # me "Ahh.."
-    me "Ahh..."
+    me "Ahh..." # TL
 
 # game/characters/kiara/fj_1.rpy:174
 translate spanish kiara_fj_1_cum_64186bde:
 
     # me "Why is the feeling so brief?"
-    me "¿Por qué la sensación es tan breve?"
+    me "¿Por qué la sensación es tan breve?" # TL
 
 # game/characters/kiara/fj_1.rpy:175
 translate spanish kiara_fj_1_cum_549b3758:
 
     # kiara "That's biologically based."
-    kiara "Eso tiene una base biológica."
+    kiara "Eso tiene una base biológica." # TL
 
 # game/characters/kiara/fj_1.rpy:176
 translate spanish kiara_fj_1_cum_9a9f56ff:
 
     # me "I know. Women can have longer orgasms if I remember right."
-    me "Lo sé. Las mujeres pueden tener orgasmos más largos si no recuerdo mal."
+    me "Lo sé. Las mujeres pueden tener orgasmos más largos si no recuerdo mal." # TL
 
 # game/characters/kiara/fj_1.rpy:177
 translate spanish kiara_fj_1_cum_73740ae0:
 
     # kiara "Yes, we can theoretically even two minutes long."
-    kiara "Sí, teóricamente podemos tener unos de hasta incluso dos minutos."
+    kiara "Sí, teóricamente podemos tener unos de hasta incluso dos minutos." # TL
 
 # game/characters/kiara/fj_1.rpy:178
 translate spanish kiara_fj_1_cum_63c96087:
 
     # me "You can also have many orgasms in a row."
-    me "También pueden tener muchos orgasmos seguidos."
+    me "También pueden tener muchos orgasmos seguidos." # TL
 
 # game/characters/kiara/fj_1.rpy:179
 translate spanish kiara_fj_1_cum_8d0c2b08:
 
     # kiara "That's true too. You're a stallion, I'm sure you can ejaculate a few times in a short period of time."
-    kiara "Eso también es cierto. Eres un semental, estoy segura de que puedes eyacular un par de veces en un corto período de tiempo."
+    kiara "Eso también es cierto. Eres un semental, estoy segura de que puedes eyacular un par de veces en un corto período de tiempo." # TL
 
 # game/characters/kiara/fj_1.rpy:180
 translate spanish kiara_fj_1_cum_cfd35359:
 
     # me "That goes without a doubt."
-    me "Sin lugar a dudas."
+    me "Sin lugar a dudas." # TL
 
 # game/characters/kiara/fj_1.rpy:184
 translate spanish kiara_fj_1_cum_c1fdcd53:
 
     # me "Alright come here."
-    me "Está bien, ven aquí."
+    me "Está bien, ven aquí." # TL
 
 # game/characters/kiara/fj_1.rpy:185
 translate spanish kiara_fj_1_cum_04baa2fa:
 
     # kiara "Finally."
-    kiara "Finalmente."
+    kiara "Finalmente." # TL
 
 translate spanish strings:
 
     # game/characters/kiara/fj_1.rpy:90
     old "I do"
-    new "Si"
+    new "Si" # TL
 
     # game/characters/kiara/fj_1.rpy:90
     old "Nope"
-    new "Nope"
+    new "Nope" # TL # Victorius - AI
 
     # game/characters/kiara/fj_1.rpy:137
     old "Now is not the time"
-    new "Ahora no es el momento"
+    new "Ahora no es el momento" # TL

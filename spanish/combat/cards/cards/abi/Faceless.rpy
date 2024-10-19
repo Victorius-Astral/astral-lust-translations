@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/abi/Faceless.rpy:6
     old "Faceless"
-    new "Sin cara"
+    new "Sin cara" # TL

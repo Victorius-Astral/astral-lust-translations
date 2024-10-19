@@ -4,8 +4,8 @@ translate spanish strings:
 
     # game/functions/modding/triggers.rpy:110
     old "One of your mods' code is broken! It's not recommended to ignore the problem.\nFault at trigger -> "
-    new "¡Uno de los códigos de tus mods está roto! Se recomienda no ignorarlo.\nProblema en gatillo -> "
+    new "¡Uno de los códigos de tus mods está roto! Se recomienda no ignorarlo.\nProblema en gatillo -> " # TL
 
     # game/functions/modding/triggers.rpy:110
     old "\nload order -> "
-    new "\norden de carga -> "
+    new "\norden de carga -> " # TL

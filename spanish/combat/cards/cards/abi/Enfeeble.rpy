@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/abi/Enfeeble.rpy:6
     old "Enfeeble"
-    new "Debilitar"
+    new "Debilitar" # TL

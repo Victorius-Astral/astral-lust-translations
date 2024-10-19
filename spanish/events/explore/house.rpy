@@ -4,49 +4,49 @@
 translate spanish exp_house_e1102e0a:
 
     # "You see an intact house. Do you want to enter?"
-    "Ves una casa intacta. ¿Quieres entrar?"
+    "Ves una casa intacta. ¿Quieres entrar?" # TL
 
 # game/events/explore/house.rpy:7
 translate spanish exp_house_5472e93c:
 
     # "You enter, it looks safe."
-    "Entras, y parece seguro."
+    "Entras, y parece seguro." # TL
 
 # game/events/explore/house.rpy:23
 translate spanish exp_house_var0_8ad069c3:
 
     # "You loot anything useful in the house."
-    "Saqueas cualquier cosa útil en la casa."
+    "Saqueas cualquier cosa útil en la casa." # TL
 
 # game/events/explore/house.rpy:25
 translate spanish exp_house_var0_e8e08310:
 
     # th "Time to go before something happens."
-    th "Es hora de ir antes de que suceda algo."
+    th "Es hora de ir antes de que suceda algo." # TL
 
 # game/events/explore/house.rpy:30
 translate spanish exp_house_var1_816dfd34:
 
     # "There is a man sitting there."
-    "Hay un hombre sentado."
+    "Hay un hombre sentado." # TL
 
 # game/events/explore/house.rpy:31
 translate spanish exp_house_var1_51f0387f:
 
     # th "Not good."
-    th "Ésto no es bueno."
+    th "Ésto no es bueno." # TL
 
 # game/events/explore/house.rpy:32
 translate spanish exp_house_var1_737062c3:
 
     # cultist "Hello there, [me]."
-    cultist "Hola, [me]."
+    cultist "Hola, [me]." # TL
 
 # game/events/explore/house.rpy:34
 translate spanish exp_house_var1_7e3c5b78:
 
     # me "How do you know my name?!"
-    me "¡¿Cómo sabes mi nombre?!"
+    me "¡¿Cómo sabes mi nombre?!" # TL
 
 # game/events/explore/house.rpy:35
 translate spanish exp_house_var1_d4bce437:
@@ -58,42 +58,42 @@ translate spanish exp_house_var1_d4bce437:
 translate spanish exp_house_var1_a5c233fd:
 
     # cultist "Go on."
-    cultist "Adelante."
+    cultist "Adelante." # TL
 
 # game/events/explore/house.rpy:44
 translate spanish exp_house_var1_15169ee4:
 
     # "You go further, he doesn't stop you."
-    "Continúas caminando, él no te detiene."
+    "Continúas caminando, él no te detiene." # TL
 
 # game/events/explore/house.rpy:49
 translate spanish exp_house_var1_8e6bc7e7:
 
     # "You quickly left the house."
-    "Rápidamente dejas la casa."
+    "Rápidamente dejas la casa." # TL
 
 # game/events/explore/house.rpy:54
 translate spanish exp_house_var2_ff0ee8f2:
 
     # me ".. Hey?"
-    me "...¿Hey?"
+    me "...¿Hey?" # TL
 
 # game/events/explore/house.rpy:56
 translate spanish exp_house_var2_36eff8f8:
 
     # "The monster attacks you!"
-    "¡El monstruo te ataca!"
+    "¡El monstruo te ataca!" # TL
 
 translate spanish strings:
 
     # game/events/explore/house.rpy:8
     old "Loot the house"
-    new "Saquea la casa"
+    new "Saquea la casa" # TL
 
     # game/events/explore/house.rpy:37
     old "Attack him"
-    new "Atácalo"
+    new "Atácalo" # TL
 
     # game/events/explore/house.rpy:37
     old "Can I look around?"
-    new "¿Puedo echar un vistazo?"
+    new "¿Puedo echar un vistazo?" # TL

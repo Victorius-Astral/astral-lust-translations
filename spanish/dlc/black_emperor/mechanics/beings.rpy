@@ -4,13 +4,13 @@ translate spanish strings:
 
     # game/dlc/black_emperor/mechanics/beings.rpy:9
     old "Warrior"
-    new "Warrior"
+    new "Guerrero" # TL # Victorius - AI
 
     # game/dlc/black_emperor/mechanics/beings.rpy:90
     old "Elite Warrior"
-    new "Elite Warrior"
+    new "Guerrero de élite" # TL # Victorius - AI
 
     # game/dlc/black_emperor/mechanics/beings.rpy:122
     old "Hunter"
-    new "Hunter"
+    new "Cazador" # TL # Victorius - AI
 

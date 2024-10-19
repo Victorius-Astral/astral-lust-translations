@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/off/Slash.rpy:6
     old "Slash"
-    new "Cortar"
+    new "Cortar" # TL

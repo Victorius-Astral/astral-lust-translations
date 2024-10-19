@@ -4,4 +4,4 @@
 translate spanish room_hotel_wc_1ccf6df0:
 
     # "It seems someone is inside."
-    "Parece que hay alguien adentro."
+    "Parece que hay alguien adentro." # TL

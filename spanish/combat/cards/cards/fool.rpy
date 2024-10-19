@@ -4,5 +4,5 @@ translate spanish strings:
 
     # game/combat/cards/cards/fool.rpy:7
     old "Trickster"
-    new "Trickster"
+    new "Trickster" # TL # Victorius - AI
 

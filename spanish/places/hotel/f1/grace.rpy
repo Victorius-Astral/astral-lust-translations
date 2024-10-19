@@ -4,10 +4,10 @@
 translate spanish room_f1_grace_1dbf3d6e:
 
     # th "I should first get to know the room owner before barging in."
-    th "Antes de irrumpir, debería conocer primero a la dueña de la habitación."
+    th "Antes de irrumpir, debería conocer primero a la dueña de la habitación." # TL
 
 # game/places/hotel/f1/grace.rpy:15
 translate spanish room_f1_grace_54340ad2:
 
     # th "Why would I enter at this hour? I should return earlier."
-    th "¿Por qué entraría a esta hora? Debería regresar más temprano."
+    th "¿Por qué entraría a esta hora? Debería regresar más temprano." # TL

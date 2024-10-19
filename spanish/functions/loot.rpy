@@ -4,5 +4,5 @@ translate spanish strings:
 
     # game/functions/loot.rpy:38
     old "Error looting items, unknown lootlist/item: {}"
-    new "Error looting items, unknown lootlist/item: {}"
+    new "Error al saquear objetos, lista de botín/objeto desconocido: {}" # TL # Victorius - AI
 

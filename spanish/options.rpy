@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/options.rpy:24
     old "Astral Lust"
-    new "Astral Lust"
+    new "Lujuria Astral" # TL # Victorius - AI

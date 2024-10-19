@@ -4,8 +4,8 @@ translate spanish strings:
 
     # game/screens/utility/sound_warning.rpy:9
     old "WARNING"
-    new "ADVERTENCIA"
+    new "ADVERTENCIA" # TL
 
     # game/screens/utility/sound_warning.rpy:10
     old "This game features NSFW sounds, the use of headphones is advised."
-    new "Este juego presenta sonidos NSFW (No aptos para el trabajo) y se recomienda el uso de auriculares."
+    new "Este juego presenta sonidos NSFW (No aptos para el trabajo) y se recomienda el uso de auriculares." # TL

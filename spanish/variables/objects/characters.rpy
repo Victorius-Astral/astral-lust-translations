@@ -4,9 +4,9 @@ translate spanish strings:
 
     # game/variables/objects/characters.rpy:96
     old "Psychiatrist"
-    new "Psychiatrist"
+    new "Psiquiatra" # TL # Victorius - AI
 
     # game/variables/objects/characters.rpy:97
     old "Alkimakos"
-    new "Alkimakos"
+    new "Alkimakos" # TL # Victorius - AI
 

@@ -4,14 +4,14 @@
 translate spanish room_wanderers_player_sleep_62d1a43b:
 
     # "You feel full of energy."
-    "Te sientes lleno de energía."
+    "Te sientes lleno de energía." # TL
 
 translate spanish strings:
 
     # game/places/wanderers/player.rpy:2
     old "What do you want to do?"
-    new "¿Qué quieres hacer?"
+    new "¿Qué quieres hacer?" # TL
 
     # game/places/wanderers/player.rpy:2
     old "Storage/Crafting"
-    new "Almacenamiento/Crear"
+    new "Almacenamiento/Crear" # TL

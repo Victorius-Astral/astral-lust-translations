@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/abi/Despair.rpy:6
     old "Despair"
-    new "Desesperación"
+    new "Desesperación" # TL

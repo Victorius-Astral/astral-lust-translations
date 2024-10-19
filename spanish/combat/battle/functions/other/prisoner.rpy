@@ -4,12 +4,12 @@ translate spanish strings:
 
     # game/combat/battle/functions/other/prisoner.rpy:18
     old "Do you want to catch the enemy?"
-    new "¿Quieres atrapar al enemigo?"
+    new "¿Quieres atrapar al enemigo?" # TL
 
     # game/combat/battle/functions/other/prisoner.rpy:19
     old "Catch {}"
-    new "Capturar {}"
+    new "Capturar {}" # TL
 
     # game/combat/battle/functions/other/prisoner.rpy:19
     old "Kill"
-    new "Matar"
+    new "Matar" # TL

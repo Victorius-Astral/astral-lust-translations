@@ -4,28 +4,28 @@ translate spanish strings:
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Ordinary"
-    new "Ordinaria"
+    new "Ordinaria" # TL
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Extraordinary"
-    new "Extraordinaria"
+    new "Extraordinaria" # TL
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Mythical"
-    new "Mítica"
+    new "Mítica" # TL
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Angelic"
-    new "Angelical"
+    new "Angelical" # TL
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Divine"
-    new "Divina"
+    new "Divina" # TL
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Tarot"
-    new "Tarot"
+    new "Tarot" # TL # Victorius - AI
 
     # game/combat/cards/lists/rarities.rpy:1
     old "Unique"
-    new "Única"
+    new "Única" # TL

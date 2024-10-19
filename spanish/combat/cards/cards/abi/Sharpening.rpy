@@ -4,4 +4,4 @@ translate spanish strings:
 
     # game/combat/cards/cards/abi/Sharpening.rpy:6
     old "Sharpening"
-    new "Afilar"
+    new "Afilar" # TL

@@ -4,4 +4,4 @@
 translate spanish room_player_chest_73762281:
 
     # "You need to first build a vault."
-    "Primero necesitas construir una Bóveda."
+    "Primero necesitas construir una Bóveda." # TL
