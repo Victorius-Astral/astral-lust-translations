@@ -694,7 +694,7 @@ translate chinese grace_play_house_question2_85cd6061:
 translate chinese grace_play_house_question2_cf459f34:
 
     # grace "The first row takes a whole 1cm of height. The remaining seven rows take around 14\% less. If I remember correctly, it was around 0.866cm."
-    grace "第一排占用了整整1厘米的高度。剩下的七排大约减少了14%。如果我没记错，大约是0.866厘米。" # TL # Victorius - AI
+    grace "第一排占用了整整1厘米的高度。剩下的七排大约减少了14%%。如果我没记错，大约是0.866厘米。" # TL # Victorius - AI
 
 # game/characters/grace/play_house.rpy:257
 translate chinese grace_play_house_question2_61a42408:
@@ -1397,4 +1397,3 @@ translate chinese strings:
     # game/characters/grace/play_house.rpy:198
     old "mother"
     new "母亲" # TL # Victorius - AI
-

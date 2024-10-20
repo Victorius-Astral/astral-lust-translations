@@ -1178,7 +1178,7 @@ translate vietnamese speak_lexi_night_schoolplay_26d1d806:
 translate vietnamese speak_lexi_night_schoolplay_a0d78ee3:
 
     # lexi "The best of all? Her costume was 90%% black."
-    lexi "Điều tốt nhất là gì? Trang phục của cô ấy 90% màu đen." # TL # Victorius - AI
+    lexi "Điều tốt nhất là gì? Trang phục của cô ấy 90%% màu đen." # TL # Victorius - AI
 
 # game/characters/lexi/speak.rpy:595
 translate vietnamese speak_lexi_night_schoolplay_4dda3394:
@@ -1275,4 +1275,3 @@ translate vietnamese strings:
     # game/characters/lexi/speak.rpy:497
     old "Tell me some childhood stories with you and Mina"
     new "Kể cho tôi một số câu chuyện thời thơ ấu của bạn và Mina" # TL # Victorius - AI
-

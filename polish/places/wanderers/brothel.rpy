@@ -10,7 +10,7 @@ translate polish wanderers_brothel_753a405b:
 translate polish wanderers_brothel_5e87e989:
 
     # madam_hof "It seems you've took a liking to our girls, I'll give you 5% discount on all future visits."
-    madam_hof "Wygląda na to, że polubiłeś nasze dziewczyny, dam ci 5% zniżki na wszystkie przyszłe wizyty." # TL # Victorius - AI
+    madam_hof "Wygląda na to, że polubiłeś nasze dziewczyny, dam ci 5%% zniżki na wszystkie przyszłe wizyty." # TL # Victorius - AI
 
 # game/places/wanderers/brothel.rpy:43
 translate polish wanderers_brothel_12cf7b69:
@@ -22,7 +22,7 @@ translate polish wanderers_brothel_12cf7b69:
 translate polish wanderers_brothel_ce34d8e9:
 
     # madam_hof "It seems I was right about you being a regular. Let's increase your discount to 15% instead."
-    madam_hof "Wygląda na to, że miałam rację co do tego, że będziesz stałym bywalcem. Zwiększmy twoją zniżkę do 15%." # TL # Victorius - AI
+    madam_hof "Wygląda na to, że miałam rację co do tego, że będziesz stałym bywalcem. Zwiększmy twoją zniżkę do 15%%." # TL # Victorius - AI
 
 # game/places/wanderers/brothel.rpy:48
 translate polish wanderers_brothel_48ce703f:
@@ -34,7 +34,7 @@ translate polish wanderers_brothel_48ce703f:
 translate polish wanderers_brothel_427075a6:
 
     # madam_hof "Our girls keep talking about you, you're quite a stallion. Let me give you 25% discount."
-    madam_hof "Nasze dziewczyny ciągle o tobie mówią, jesteś niezłym ogierem. Dam ci 25% zniżki." # TL # Victorius - AI
+    madam_hof "Nasze dziewczyny ciągle o tobie mówią, jesteś niezłym ogierem. Dam ci 25%% zniżki." # TL # Victorius - AI
 
 # game/places/wanderers/brothel.rpy:53
 translate polish wanderers_brothel_1522ce89:
@@ -267,4 +267,3 @@ translate polish strings:
     # game/places/wanderers/brothel.rpy:186
     old "Close Album"
     new "Zamknij album" # TL # Victorius - AI
-

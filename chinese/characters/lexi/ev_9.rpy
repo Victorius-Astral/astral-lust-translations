@@ -108,12 +108,6 @@ translate chinese lexi_9_fe345a76:
     # mina "At the same time [me] appeared among them, but he was.."
     mina "与此同时，[me]出现在它们中间，但他.." # TL # Victorius - AI
 
-# game/characters/lexi/ev_9.rpy:51
-translate chinese lexi_9_e36dbf32:
-
-    # lexi "Dark.. I felt pure fear when looking at him, his eyes were.. They were cold.. "
-    lexi "黑暗.. 看着他时我感到纯粹的恐惧，他的眼睛是.. 它们是冰冷的.. " # TL # Victorius - AI
-
 # game/characters/lexi/ev_9.rpy:56
 translate chinese lexi_9_421dfcdf:
 
@@ -543,4 +537,3 @@ translate chinese lexi_9_0cd40d7f:
 
     # lexi "Dark.. I felt pure terror when looking at him, his eyes were.. They were cold.. "
     lexi "黑暗.. 看着他时我感到纯粹的恐惧，他的眼睛是.. 它们是冰冷的.. " # TL # Victorius - AI
-

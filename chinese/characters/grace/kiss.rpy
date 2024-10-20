@@ -2094,30 +2094,6 @@ translate chinese grace_kiss_bad_end_895ed079:
     # "'His' hand is like steel pincers, clutching your throat, depriving you of ability to breathe." id grace_kiss_bad_end_895ed079
     "“他”的手像钢钳一样，紧紧抓住你的喉咙，让你无法呼吸。" id grace_kiss_bad_end_895ed079 # TL # Victorius - AI
 
-# game/characters/grace/kiss.rpy:990
-translate chinese grace_kiss_bad_end_86c05d51:
-
-    # victorius "This is not your place to comment, child. Scram."
-    victorius "这不是你该评论的地方，孩子。滚。" # TL # Victorius - AI
-
-# game/characters/grace/kiss.rpy:991
-translate chinese grace_kiss_bad_end_5f9b772e:
-
-    # "...."
-    "...."
-
-# game/characters/grace/kiss.rpy:994
-translate chinese grace_kiss_bad_end_1a8455ce:
-
-    # victorius "I said {loud}SCRAM!!{/loud}"
-    victorius "我说{loud}滚！！{/loud}" # TL # Victorius - AI
-
-# game/characters/grace/kiss.rpy:995
-translate chinese grace_kiss_bad_end_1cf2df39:
-
-    # "Argh!!!"
-    "啊！！！" # TL # Victorius - AI
-
 # game/characters/grace/kiss.rpy:996
 translate chinese grace_kiss_bad_end_3820771a:
 
@@ -2593,4 +2569,3 @@ translate chinese grace_kiss_bad_end_4944b87a:
 
     # victorius "But there is no salvation waiting for you."
     victorius "但没有救赎在等着你。" # TL # Victorius - AI
-

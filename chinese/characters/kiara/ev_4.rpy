@@ -276,12 +276,6 @@ translate chinese kiara_4_1f877649:
     # me "What do you mean?"
     me "你是什么意思？" # TL # Victorius - AI
 
-# game/characters/kiara/ev_4.rpy:74
-translate chinese kiara_4_320ed5b6:
-
-    # kiara "Everything originates from it, as so it's a part of everything."
-    kiara "一切都源于它，所以它是万物的一部分。" # TL # Victorius - AI
-
 # game/characters/kiara/ev_4.rpy:75
 translate chinese kiara_4_4b9060f0:
 
@@ -433,4 +427,3 @@ translate chinese kiara_4_e615e445:
 
     # kiara "Everything originates from 'It', as so 'It' is a part of everything."
     kiara "一切都源于“它”，因此“它”是万物的一部分。" # TL # Victorius - AI
-

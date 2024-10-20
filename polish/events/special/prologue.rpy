@@ -3298,7 +3298,7 @@ translate polish prologue_ask_lexi_d974887e:
 translate polish prologue_ask_lexi_786152c8:
 
     # me "Fuck, 50%% unemployment rate?"
-    me "Cholera, 50% bezrobocia?" # TL # Victorius - AI
+    me "Cholera, 50%% bezrobocia?" # TL # Victorius - AI
 
 # game/events/special/prologue.rpy:1204
 translate polish prologue_ask_lexi_0cd46d6e:
@@ -3745,4 +3745,3 @@ translate polish strings:
     # game/events/special/prologue.rpy:1360
     old "It's online shopping service created by Hed the Gamer. They provide express delivery. I can access it from the pc in my room."
     new "To usługa zakupów online stworzona przez Hed the Gamer. Oferują ekspresową dostawę. Mogę uzyskać do niej dostęp z komputera w moim pokoju." # TL # Victorius - AI
-

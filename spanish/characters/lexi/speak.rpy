@@ -1570,7 +1570,7 @@ translate spanish speak_lexi_night_schoolplay_26d1d806:
 translate spanish speak_lexi_night_schoolplay_a0d78ee3:
 
     # lexi "The best of all? Her costume was 90%% black."
-    lexi "¿Lo mejor de todo? Su disfraz era 90% negro." # TL # Victorius - AI
+    lexi "¿Lo mejor de todo? Su disfraz era 90%% negro." # TL # Victorius - AI
 
 # game/characters/lexi/speak.rpy:595
 translate spanish speak_lexi_night_schoolplay_4dda3394:
@@ -1675,4 +1675,3 @@ translate spanish strings:
     # game/characters/lexi/speak.rpy:497
     old "< Back"
     new "< Atrás" # TL # Victorius - AI
-

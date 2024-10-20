@@ -24,12 +24,6 @@ translate chinese alice_5_1e7409fe:
     # th "Should I take a look?"
     th "我该去看看吗？" # TL # Victorius - AI
 
-# game/characters/alice/ev_5.rpy:11
-translate chinese alice_5_97e3a8ce:
-
-    # "{color=#800080}[[Need 5\% Corruption]{/color} Kill human enemies to increase corruption."
-    "{color=#800080}[[需要5\%堕落]{/color} 杀死人类敌人以增加堕落。" # TL # Victorius - AI
-
 # game/characters/alice/ev_5.rpy:12
 translate chinese alice_5_cc3ee69f:
 
@@ -430,4 +424,3 @@ translate chinese strings:
     # game/characters/alice/ev_5.rpy:205
     old "Cuddle with her"
     new "与她依偎" # TL # Victorius - AI
-

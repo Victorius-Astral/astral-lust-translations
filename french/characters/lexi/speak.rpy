@@ -1549,7 +1549,7 @@ translate french speak_lexi_night_schoolplay_26d1d806:
 translate french speak_lexi_night_schoolplay_a0d78ee3:
 
     # lexi "The best of all? Her costume was 90%% black."
-    lexi "Le meilleur de tout ? Son costume était noir à 90%." # TL # Victorius - AI
+    lexi "Le meilleur de tout ? Son costume était noir à 90%%." # TL # Victorius - AI
 
 # game/characters/lexi/speak.rpy:595
 translate french speak_lexi_night_schoolplay_4dda3394:
@@ -1654,4 +1654,3 @@ translate french strings:
     # game/characters/lexi/speak.rpy:497
     old "< Back"
     new "< Retour" # TL # Victorius - AI
-

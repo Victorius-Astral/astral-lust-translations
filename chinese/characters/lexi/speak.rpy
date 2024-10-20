@@ -6,12 +6,6 @@ translate chinese speak_lexi_b267fd29:
     # lexi "Hey, what's up?" id speak_lexi_b267fd29
     lexi "嘿，怎么样？" id speak_lexi_b267fd29 # TL # Victorius - AI
 
-# game/characters/lexi/speak.rpy:31
-translate chinese speak_lexi_menu1_6057173a:
-
-    # "She already told me what to do. Perhaps I should go back, there might still be food there."
-    "她已经告诉我该怎么做了。也许我应该回去，那里可能还有食物。" # TL # Victorius - AI
-
 # game/characters/lexi/speak.rpy:46
 translate chinese speak_lexi_menu1_1f45fd8a:
 
@@ -161,84 +155,6 @@ translate chinese speak_lexi_menu1_5cdebf03:
 
     # me "Bye."
     me "再见。" # TL # Victorius - AI
-
-# game/characters/lexi/speak.rpy:115
-translate chinese speak_lexi_menu1_30dcbc86:
-
-    # lexi "You have only one thing on mind, don't you?"
-    lexi "你心里只有一件事，不是吗？" # TL # Victorius - AI
-
-# game/characters/lexi/speak.rpy:116
-translate chinese speak_lexi_menu1_888effc0:
-
-    # me "Perhaps, but it's your fault."
-    me "也许，但这是你的错。" # TL # Victorius - AI
-
-# game/characters/lexi/speak.rpy:121
-translate chinese speak_lexi_menu1_e67fd712:
-
-    # lexi "How so?"
-    lexi "怎么会？" # TL # Victorius - AI
-
-# game/characters/lexi/speak.rpy:122
-translate chinese speak_lexi_menu1_af81b1bc:
-
-    # me "It's your hand that I can't forget."
-    me "是你的手让我无法忘怀。" # TL # Victorius - AI
-
-# game/characters/lexi/speak.rpy:127
-translate chinese speak_lexi_menu1_d7760fc7:
-
-    # lexi "..."
-    lexi "..."
-
-# game/characters/lexi/speak.rpy:128
-translate chinese speak_lexi_menu1_2112600a:
-
-    # lexi "You are impossible."
-    lexi "你真是不可理喻。" # TL # Victorius - AI
-
-# game/characters/lexi/speak.rpy:129
-translate chinese speak_lexi_menu1_cc9b06cd:
-
-    # me "You won't let me suffer, will you?"
-    me "你不会让我受苦吧？" # TL # Victorius - AI
-
-# game/characters/lexi/speak.rpy:134
-translate chinese speak_lexi_menu1_5b7bb2e7:
-
-    # lexi ".. Fine, but let's go to your room."
-    lexi ".. 好吧，但我们去你的房间。" # TL # Victorius - AI
-
-# game/characters/lexi/speak.rpy:135
-translate chinese speak_lexi_menu1_d59a6b9a:
-
-    # me "Great."
-    me "太好了。" # TL # Victorius - AI
-
-# game/characters/lexi/speak.rpy:136
-translate chinese speak_lexi_menu1_bde96860:
-
-    # lexi "What do you want me to wear?"
-    lexi "你想让我穿什么？" # TL # Victorius - AI
-
-# game/characters/lexi/speak.rpy:146
-translate chinese speak_lexi_menu1_21aa2165:
-
-    # lexi "Alright. I can't wait."
-    lexi "好的。我等不及了。" # TL # Victorius - AI
-
-# game/characters/lexi/speak.rpy:147
-translate chinese speak_lexi_menu1_7c380e1d:
-
-    # lexi "Should I change?"
-    lexi "我该换衣服吗？" # TL # Victorius - AI
-
-# game/characters/lexi/speak.rpy:167
-translate chinese speak_lexi_menu1_7be108b9:
-
-    # lexi "Sure! What do you want to know?"
-    lexi "当然！你想知道什么？" # TL # Victorius - AI
 
 # game/characters/lexi/speak.rpy:173
 translate chinese speak_lexi_menu2_7229f95d:
@@ -1086,7 +1002,7 @@ translate chinese speak_lexi_night_schoolplay_26d1d806:
 translate chinese speak_lexi_night_schoolplay_a0d78ee3:
 
     # lexi "The best of all? Her costume was 90%% black."
-    lexi "最棒的是？她的服装90%是黑色的。" # TL # Victorius - AI
+    lexi "最棒的是？她的服装90%%是黑色的。" # TL # Victorius - AI
 
 # game/characters/lexi/speak.rpy:595
 translate chinese speak_lexi_night_schoolplay_4dda3394:
@@ -1191,4 +1107,3 @@ translate chinese strings:
     # game/characters/lexi/speak.rpy:497
     old "< Back"
     new "< 返回" # TL # Victorius - AI
-

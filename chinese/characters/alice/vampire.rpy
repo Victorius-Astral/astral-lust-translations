@@ -100,7 +100,7 @@ translate chinese alice_vampire_create_2c11e2f5:
 translate chinese alice_vampire_create_08d46144:
 
     # alice "One optics shop had a 100%% off for the whole assortment, lens included."
-    alice "一家眼镜店的所有商品，包括镜片，打了100%的折扣。" # TL # Victorius - AI
+    alice "一家眼镜店的所有商品，包括镜片，打了100%%的折扣。" # TL # Victorius - AI
 
 # game/characters/alice/vampire.rpy:61
 translate chinese alice_vampire_create_f98a124e:
@@ -775,4 +775,3 @@ translate chinese strings:
     # game/characters/alice/vampire.rpy:301
     old "Decline"
     new "拒绝" # TL # Victorius - AI
-

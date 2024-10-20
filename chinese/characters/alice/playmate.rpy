@@ -690,18 +690,6 @@ translate chinese alice_playmate_dildo2_406b6388:
     # alice "Byeee~"
     alice "拜~" # TL # Victorius - AI
 
-# game/characters/alice/playmate.rpy:306
-translate chinese alice_playmate_sixnine_328998ba:
-
-    # alice "Let's go to the playroom to play."
-    alice "我们去游戏室玩吧。" # TL # Victorius - AI
-
-# game/characters/alice/playmate.rpy:307
-translate chinese alice_playmate_sixnine_069c0b02:
-
-    # me "Good idea."
-    me "好主意。" # TL # Victorius - AI
-
 translate chinese strings:
 
     # game/characters/alice/playmate.rpy:56
@@ -715,4 +703,3 @@ translate chinese strings:
     # game/characters/alice/playmate.rpy:241
     old "Continue with a dildo"
     new "继续用假阳具" # TL # Victorius - AI
-

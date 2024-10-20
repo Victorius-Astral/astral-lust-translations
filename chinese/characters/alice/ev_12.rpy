@@ -390,12 +390,6 @@ translate chinese alice_12_part2_ac2f5672:
     # me "You're the best!"
     me "你是最棒的！" # TL # Victorius - AI
 
-# game/characters/alice/ev_12.rpy:146
-translate chinese alice_12_part2_e0f33f65:
-
-    # alice "I know! Ahh!"
-    alice "我知道！啊！" # TL # Victorius - AI
-
 # game/characters/alice/ev_12.rpy:150
 translate chinese alice_12_part2_3989105e:
 
@@ -567,4 +561,3 @@ translate chinese strings:
     # game/characters/alice/ev_12.rpy:29
     old "Agree"
     new "同意" # TL # Victorius - AI
-

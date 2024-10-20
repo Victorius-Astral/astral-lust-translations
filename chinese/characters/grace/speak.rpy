@@ -24,36 +24,6 @@ translate chinese speak_grace_menu_angry_e579606d:
     # grace "What do you want?"
     grace "你想要什么？" # TL # Victorius - AI
 
-# game/characters/grace/speak.rpy:72
-translate chinese speak_grace_menu1_b50ba9c2:
-
-    # grace "You are not getting into my panties!"
-    grace "你别想进我的内裤！" # TL # Victorius - AI
-
-# game/characters/grace/speak.rpy:73
-translate chinese speak_grace_menu1_3820771a:
-
-    # me "..."
-    me "..."
-
-# game/characters/grace/speak.rpy:74
-translate chinese speak_grace_menu1_bbec7c9c:
-
-    # me "It's not that [grace]."
-    me "不是那样的，[grace]。" # TL # Victorius - AI
-
-# game/characters/grace/speak.rpy:77
-translate chinese speak_grace_menu1_4fdef178:
-
-    # grace "Then what do you want to ask?"
-    grace "那你想问什么？" # TL # Victorius - AI
-
-# game/characters/grace/speak.rpy:82
-translate chinese speak_grace_menu1_c93091b8:
-
-    # grace "What is it?"
-    grace "是什么？" # TL # Victorius - AI
-
 # game/characters/grace/speak.rpy:100
 translate chinese speak_grace_menu2_7402cda2:
 
@@ -864,12 +834,6 @@ translate chinese speak_grace_apology_rose_6d39208d:
     # grace "You're bad."
     grace "你真坏。" # TL # Victorius - AI
 
-# game/characters/grace/speak.rpy:476
-translate chinese speak_grace_apology_rose_ecd7b870:
-
-    # me "Then you should take it even more, don't let in lay in bad hands."
-    me "那你更应该拿着，不要让它落入坏人手中。" # TL # Victorius - AI
-
 # game/characters/grace/speak.rpy:480
 translate chinese speak_grace_apology_rose_0a928bf9:
 
@@ -899,12 +863,6 @@ translate chinese speak_grace_apology_rose_e8954ecc:
 
     # grace "Hehe~ Maybe you're not that bad after all.."
     grace "嘿嘿~ 也许你其实没那么坏.." # TL # Victorius - AI
-
-# game/characters/grace/speak.rpy:494
-translate chinese speak_grace_apology_rose_eeb4d777:
-
-    # th "You're really simple minded.."
-    th "你真是单纯.." # TL # Victorius - AI
 
 # game/characters/grace/speak.rpy:495
 translate chinese speak_grace_apology_rose_001b179c:
@@ -1263,4 +1221,3 @@ translate chinese strings:
     # game/characters/grace/speak.rpy:61
     old "Vampire >{#visible}"
     new "吸血鬼 >{#visible}" # TL # Victorius - AI
-

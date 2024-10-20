@@ -16,7 +16,7 @@ translate french lil_fox_exp_stash_14a11f17:
 translate french lil_fox_exp_stash_a3cdd5e7:
 
     # lil_fox "Yes, 100%% sure!"
-    lil_fox "Oui, sûr à 100% !" # TL # Victorius - AI
+    lil_fox "Oui, sûr à 100%% !" # TL # Victorius - AI
 
 # game/characters/little fox/explore/stash.rpy:40
 translate french lil_fox_exp_stash_c4f507fa:
@@ -333,4 +333,3 @@ translate french strings:
     # game/characters/little fox/explore/stash.rpy:83
     old "Do not play her games {love}(Protect your girl's good name+){/love}"
     new "Ne joue pas à ses jeux {love}(Protège le bon nom de ta copine+){/love}" # TL # Victorius - AI
-

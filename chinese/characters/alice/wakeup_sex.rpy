@@ -118,12 +118,6 @@ translate chinese alice_wakeup_sex_04a5a874:
     # alice "You're so good to me, daddy~"
     alice "你对我真好, 爸比~" # TL
 
-# game/characters/alice/wakeup_sex.rpy:59
-translate chinese alice_wakeup_sex_cfe22bf6:
-
-    # me "I surely am, who is the best daddy?"
-    me "当然, 谁是你最好的爸比？" # TL
-
 # game/characters/alice/wakeup_sex.rpy:62
 translate chinese alice_wakeup_sex_3b2a1d8f:
 
@@ -250,4 +244,3 @@ translate chinese alice_wakeup_sex_047bb6e2:
 
     # me "I sure am, who is the best daddy?"
     me "我当然是，谁是最好的爸爸？" # TL # Victorius - AI
-

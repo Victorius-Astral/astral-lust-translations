@@ -1044,12 +1044,6 @@ translate chinese sleep_grace_feet_wakeup_success_51a52b10:
     # grace "I don't know. I'm tired, can't we just get this over with?"
     grace "我不知道。我累了，不能就这样结束吗？" # TL # Victorius - AI
 
-# game/characters/grace/sleep.rpy:525
-translate chinese sleep_grace_feet_wakeup_success_ed62defc:
-
-    # me "Just take of your pants, and put stocking on. It's not a lot of work. I'm sure you can do it for me."
-    me "只要脱掉裤子，穿上长袜。没多少工作。我相信你能为我做到。" # TL # Victorius - AI
-
 # game/characters/grace/sleep.rpy:529
 translate chinese sleep_grace_feet_wakeup_success_f0022717:
 
@@ -1134,47 +1128,11 @@ translate chinese sleep_grace_feet_wakeup_success_baf8f4db:
     # grace "Hehe~"
     grace "呵呵~" # TL # Victorius - AI
 
-# game/characters/grace/sleep.rpy:565
-translate chinese sleep_grace_feet_wakeup_success_daed0a9b:
-
-    # th "Haha, she's so easy to please."
-    th "哈哈，她真容易取悦。" # TL # Victorius - AI
-
-# game/characters/grace/sleep.rpy:573
-translate chinese sleep_grace_feet_wakeup_success2_b7adc4ab:
-
-    # me "Can you let me see your titties?"
-    me "你能让我看看你的胸部吗？" # TL # Victorius - AI
-
-# game/characters/grace/sleep.rpy:577
-translate chinese sleep_grace_feet_wakeup_success2_006dd55f:
-
-    # grace "Why?"
-    grace "为什么？" # TL # Victorius - AI
-
-# game/characters/grace/sleep.rpy:578
-translate chinese sleep_grace_feet_wakeup_success2_3c0c4155:
-
-    # me "Looking at them makes me happy. They are just like you, beautiful."
-    me "看着它们让我开心。它们就像你一样，美丽。" # TL # Victorius - AI
-
 # game/characters/grace/sleep.rpy:583
 translate chinese sleep_grace_feet_wakeup_success2_baf8f4db:
 
     # grace "Hehe~"
     grace "呵呵~" # TL # Victorius - AI
-
-# game/characters/grace/sleep.rpy:587
-translate chinese sleep_grace_feet_wakeup_success2_b32a8382:
-
-    # grace "Here!"
-    grace "给你！" # TL # Victorius - AI
-
-# game/characters/grace/sleep.rpy:588
-translate chinese sleep_grace_feet_wakeup_success2_8adfafd8:
-
-    # me "Thanks, [grace]."
-    me "谢谢，[grace]。" # TL # Victorius - AI
 
 # game/characters/grace/sleep.rpy:589
 translate chinese sleep_grace_feet_wakeup_success2_7adae981:
@@ -1470,12 +1428,6 @@ translate chinese sleep_grace_feet_wakeup_success2_8d49a220:
     # me "{small}How cute..{/small}"
     me "{small}真可爱..{/small}" # TL # Victorius - AI
 
-# game/characters/grace/sleep.rpy:668
-translate chinese sleep_grace_feet_wakeup_success2_baf8f4db_4:
-
-    # grace "Hehe~"
-    grace "呵呵~" # TL # Victorius - AI
-
 translate chinese strings:
 
     # game/characters/grace/sleep.rpy:16
@@ -1605,4 +1557,3 @@ translate chinese strings:
     # game/characters/grace/sleep.rpy:32
     old "Turn to her feet {#visible}"
     new "转向她的脚 {#visible}" # TL # Victorius - AI
-

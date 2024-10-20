@@ -48,12 +48,6 @@ translate chinese grace_13_12e4a6de:
     # me "Sooo.. do you need me for anything?"
     me "那么.. 你需要我帮忙吗？" # TL # Victorius - AI
 
-# game/characters/grace/ev_13.rpy:57
-translate chinese grace_13_879ccf9a:
-
-    # grace "No. I just wanted to walk with you."
-    grace "没有。我只是想和你一起走走。" # TL # Victorius - AI
-
 # game/characters/grace/ev_13.rpy:58
 translate chinese grace_13_538e43d2:
 
@@ -95,18 +89,6 @@ translate chinese grace_13_baf8f4db:
 
     # grace "Hehe~"
     grace "呵呵~" # TL # Victorius - AI
-
-# game/characters/grace/ev_13.rpy:74
-translate chinese grace_13_b42a1174:
-
-    # th "Wow, she's really much more lively lately. I must say I like it."
-    th "哇，她最近真的活泼多了。我得说我喜欢这样。" # TL # Victorius - AI
-
-# game/characters/grace/ev_13.rpy:78
-translate chinese grace_13_b6cde7cc:
-
-    # grace "I dreamed of dad again."
-    grace "我又梦见爸爸了。" # TL # Victorius - AI
 
 # game/characters/grace/ev_13.rpy:79
 translate chinese grace_13_9da649e7:
@@ -252,12 +234,6 @@ translate chinese grace_13_79cd81f8:
     # grace "It indeed sounds fun!"
     grace "听起来确实很有趣！" # TL # Victorius - AI
 
-# game/characters/grace/ev_13.rpy:122
-translate chinese grace_13_e2e24277:
-
-    # grace "I'll tell dad I want to go."
-    grace "我要告诉爸爸我想去。" # TL # Victorius - AI
-
 # game/characters/grace/ev_13.rpy:123
 translate chinese grace_13_6d55f1f2:
 
@@ -372,12 +348,6 @@ translate chinese grace_13_fb1b5575:
     # grace "Thank you."
     grace "谢谢你。" # TL # Victorius - AI
 
-# game/characters/grace/ev_13.rpy:170
-translate chinese grace_13_f7977ca7:
-
-    # th "Yeah, seems she wanted to agree, she just needed someone to assure her in this."
-    th "是啊，看来她想同意，只是需要有人在这方面给她信心。" # TL # Victorius - AI
-
 # game/characters/grace/ev_13.rpy:171
 translate chinese grace_13_d311f457:
 
@@ -462,12 +432,6 @@ translate chinese grace_13_part2_46d27802:
     # me "I see."
     me "我明白了。" # TL # Victorius - AI
 
-# game/characters/grace/ev_13.rpy:198
-translate chinese grace_13_part2_41708845:
-
-    # th "I don't have a dildo, though. [alice] has it.. Am I going to ask my girlfriend for a dildo? No way.. She would kill me."
-    th "我没有假阳具。[alice]有.. 我是要去问我女朋友要个假阳具吗？不可能.. 她会杀了我的。" # TL # Victorius - AI
-
 # game/characters/grace/ev_13.rpy:202
 translate chinese grace_13_part2_b68aadd2:
 
@@ -534,12 +498,6 @@ translate chinese grace_13_part2_5b8f0a20:
     # grace "Mm?"
     grace "嗯？" # TL # Victorius - AI
 
-# game/characters/grace/ev_13.rpy:216
-translate chinese grace_13_part2_64d36e83:
-
-    # me "I don't have any toy like this. I'll go ask Alice to lend us one, okay?"
-    me "我没有这样的玩具。我去问Alice借一个，好吗？" # TL # Victorius - AI
-
 # game/characters/grace/ev_13.rpy:220
 translate chinese grace_13_part2_d8769c30:
 
@@ -599,12 +557,6 @@ translate chinese grace_13_part2_93532362:
 
     # th "Is a dildo something you would lend others anyway?"
     th "假阳具是你会借给别人的东西吗？" # TL # Victorius - AI
-
-# game/characters/grace/ev_13.rpy:233
-translate chinese grace_13_part2_5606d722:
-
-    # th "How the hell would I know. It doesn't seem like something like this, though."
-    th "我怎么知道。看起来不像是这样的东西。" # TL # Victorius - AI
 
 # game/characters/grace/ev_13.rpy:234
 translate chinese grace_13_part2_c419bf4e_1:
@@ -690,18 +642,6 @@ translate chinese grace_13_part2_11e450b2:
     # alice "And the second.. Don't fucking tell me you're about to ask me for a dildo.."
     alice "其次.. 别告诉我你要问我借假阳具.." # TL # Victorius - AI
 
-# game/characters/grace/ev_13.rpy:259
-translate chinese grace_13_part2_7f043228:
-
-    # th "Fuckin' knew it. Well, no need to deny it. I can't hide it now."
-    th "该死的，我就知道。好吧，不需要否认。我现在无法隐瞒。" # TL # Victorius - AI
-
-# game/characters/grace/ev_13.rpy:260
-translate chinese grace_13_part2_d1c81aea:
-
-    # me "That was my intention..."
-    me "那是我的意图..." # TL # Victorius - AI
-
 # game/characters/grace/ev_13.rpy:261
 translate chinese grace_13_part2_5219b67a:
 
@@ -738,12 +678,6 @@ translate chinese grace_13_part2_85cf281f:
     # alice "Please tell me you have an excuse.."
     alice "请告诉我你有理由.." # TL # Victorius - AI
 
-# game/characters/grace/ev_13.rpy:270
-translate chinese grace_13_part2_00ecc5d8:
-
-    # "You stand there embarrassed and awkward. You really have no idea what to say, you feel you've let her down."
-    "你站在那里尴尬又不知所措。你真的不知道该说什么，你觉得你让她失望了。" # TL # Victorius - AI
-
 # game/characters/grace/ev_13.rpy:271
 translate chinese grace_13_part2_74f05a4e:
 
@@ -762,12 +696,6 @@ translate chinese grace_13_part2_545b287b:
     # me "Eh? Why?"
     me "呃？为什么？" # TL # Victorius - AI
 
-# game/characters/grace/ev_13.rpy:277
-translate chinese grace_13_part2_65782285:
-
-    # alice "You've awakened in a place full of beauties, and they're even interested in you, you have no one to contend with you. Even better, you found yourself a super beautiful girlfriend."
-    alice "你在一个充满美女的地方醒来，她们甚至对你感兴趣，你没有人与你竞争。更好的是，你找到了一个超级漂亮的女朋友。" # TL # Victorius - AI
-
 # game/characters/grace/ev_13.rpy:278
 translate chinese grace_13_part2_7eaed955:
 
@@ -779,12 +707,6 @@ translate chinese grace_13_part2_ec305398:
 
     # alice "Then she went out to get herself some new toys. And just then you've come to ask her for a dildo for your lover. Just as she found a new one.."
     alice "然后她出去给自己买了一些新玩具。就在这时，你来问她要一个假阳具给你的情人。就在她找到一个新的时.." # TL # Victorius - AI
-
-# game/characters/grace/ev_13.rpy:280
-translate chinese grace_13_part2_71db0299:
-
-    # alice "I don't even want to strangle you. I'm too tired for it. Your luck is so bullshit that I'm starting to consider if you're not some weird monster."
-    alice "我甚至不想掐死你。我太累了。你的运气太扯淡了，我开始怀疑你是不是个怪物。" # TL # Victorius - AI
 
 # game/characters/grace/ev_13.rpy:281
 translate chinese grace_13_part2_49584483:
@@ -954,23 +876,11 @@ translate chinese grace_13_part2_a6167a27:
     # alice "What?"
     alice "什么？" # TL # Victorius - AI
 
-# game/characters/grace/ev_13.rpy:315
-translate chinese grace_13_part2_00d560a8:
-
-    # th "I really put her off today.. It won't end well if I go against her today."
-    th "今天我真的让她失望了.. 如果我今天和她对抗不会有好结果。" # TL # Victorius - AI
-
 # game/characters/grace/ev_13.rpy:319
 translate chinese grace_13_part2_6bce4849:
 
     # "You don't think much, and do as she says. A short while later you're nude already."
     "你没想太多，照她说的做了。不久后你已经赤裸了。" # TL # Victorius - AI
-
-# game/characters/grace/ev_13.rpy:320
-translate chinese grace_13_part2_544bba76:
-
-    # th "Maybe it's because it's a public place and uncommon situation, but my balls feel cold."
-    th "也许是因为这是个公共场合和不寻常的情况，但我的蛋蛋感觉很冷。" # TL # Victorius - AI
 
 # game/characters/grace/ev_13.rpy:321
 translate chinese grace_13_part2_cff0202c:
@@ -3408,12 +3318,6 @@ translate chinese grace_13_part3_57e47cc1:
     # me "That's great, darling."
     me "太好了，亲爱的。" # TL # Victorius - AI
 
-# game/characters/grace/ev_13.rpy:1031
-translate chinese grace_13_part3_ba8ec1dc:
-
-    # alice "You're surprisingly well behaved today."
-    alice "你今天表现得出乎意料的好。" # TL # Victorius - AI
-
 # game/characters/grace/ev_13.rpy:1032
 translate chinese grace_13_part3_bda2382b:
 
@@ -3822,12 +3726,6 @@ translate chinese grace_13_part3_3dbeea99:
     # me "You know me best."
     me "你最了解我。" # TL # Victorius - AI
 
-# game/characters/grace/ev_13.rpy:1136
-translate chinese grace_13_part3_95086e4a:
-
-    # alice "That's the role of a girlfriend. To know her naughty boy every thought."
-    alice "那是女朋友的角色。了解她淘气男孩的每一个想法。" # TL # Victorius - AI
-
 # game/characters/grace/ev_13.rpy:1137
 translate chinese grace_13_part3_2848b69e:
 
@@ -3863,12 +3761,6 @@ translate chinese grace_13_part3_949f1153:
 
     # alice "Of course."
     alice "当然。" # TL # Victorius - AI
-
-# game/characters/grace/ev_13.rpy:1156
-translate chinese grace_13_part3_8803198f:
-
-    # alice "Go wash yourselves, both of you."
-    alice "去洗洗，你们两个。" # TL # Victorius - AI
 
 # game/characters/grace/ev_13.rpy:1157
 translate chinese grace_13_part3_ec072534:
@@ -4217,12 +4109,6 @@ translate chinese grace_13_part3_8e2a2ff6:
 
     # alice "You're the biggest troublemaker I ever met."
     alice "你是我见过的最大麻烦制造者。" # TL # Victorius - AI
-
-# game/characters/grace/ev_13.rpy:1247
-translate chinese grace_13_part3_684e01be:
-
-    # me "You love trouble, don't you."
-    me "你喜欢麻烦，不是吗。" # TL # Victorius - AI
 
 # game/characters/grace/ev_13.rpy:1248
 translate chinese grace_13_part3_0a1ce2c7:
@@ -4951,4 +4837,3 @@ translate chinese strings:
     # game/characters/grace/ev_13.rpy:374
     old "Let her vent"
     new "让她发泄" # TL # Victorius - AI
-

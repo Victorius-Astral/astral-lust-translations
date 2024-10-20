@@ -54,23 +54,11 @@ translate chinese mina_1_83087c50:
     # me "Why?"
     me "为什么？" # TL # Victorius - AI
 
-# game/characters/mina/ev_1.rpy:18
-translate chinese mina_1_e8898be8:
-
-    # mina "I feel curious about the first man that my sis brought home."
-    mina "我对我姐姐带回家的第一个男人感到好奇。" # TL # Victorius - AI
-
 # game/characters/mina/ev_1.rpy:19
 translate chinese mina_1_3820771a_1:
 
     # me "..."
     me "..."
-
-# game/characters/mina/ev_1.rpy:20
-translate chinese mina_1_d6bd76d1:
-
-    # th "I'm just speechless."
-    th "我简直无语。" # TL # Victorius - AI
 
 # game/characters/mina/ev_1.rpy:22
 translate chinese mina_1_90952fbb:
@@ -83,12 +71,6 @@ translate chinese mina_1_5bd9deae:
 
     # mina "Hmph! Fine!"
     mina "哼！好吧！" # TL # Victorius - AI
-
-# game/characters/mina/ev_1.rpy:32
-translate chinese mina_1_0e7fdcb1:
-
-    # "{size=+20}*Bang{/size}"
-    "{size=+20}*砰{/size}" # TL # Victorius - AI
 
 # game/characters/mina/ev_1.rpy:33
 translate chinese mina_1_eb470c14:
@@ -423,4 +405,3 @@ translate chinese strings:
     # game/characters/mina/ev_1.rpy:23
     old "Isn't that also your bed?"
     new "那不也是你的床吗？" # TL # Victorius - AI
-

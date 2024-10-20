@@ -694,7 +694,7 @@ translate polish grace_play_house_question2_85cd6061:
 translate polish grace_play_house_question2_cf459f34:
 
     # grace "The first row takes a whole 1cm of height. The remaining seven rows take around 14%% less. If I remember correctly, it was around 0.866cm."
-    grace "Pierwszy rząd zajmuje cały 1 cm wysokości. Pozostałe siedem rzędów zajmuje około 14% mniej. Jeśli dobrze pamiętam, to było około 0,866 cm." # TL # Victorius - AI
+    grace "Pierwszy rząd zajmuje cały 1 cm wysokości. Pozostałe siedem rzędów zajmuje około 14%% mniej. Jeśli dobrze pamiętam, to było około 0,866 cm." # TL # Victorius - AI
 
 # game/characters/grace/play_house.rpy:257
 translate polish grace_play_house_question2_61a42408:
@@ -1393,4 +1393,3 @@ translate polish strings:
     # game/characters/grace/play_house.rpy:267
     old "A mother is 21 years older than her child. In 6 years the child will be 5 times younger than mother. Where is the father?"
     new "Matka jest o 21 lat starsza od swojego dziecka. Za 6 lat dziecko będzie 5 razy młodsze od matki. Gdzie jest ojciec?" # TL # Victorius - AI
-

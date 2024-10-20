@@ -24,18 +24,6 @@ translate chinese wc_lexi_b847dfb7:
     # me "Sorry."
     me "抱歉。" # TL # Victorius - AI
 
-# game/characters/lexi/wc.rpy:13
-translate chinese wc_lexi_d6bf257e:
-
-    # lexi "Ahh.."
-    lexi "啊.." # TL # Victorius - AI
-
-# game/characters/lexi/wc.rpy:14
-translate chinese wc_lexi_2e39132c:
-
-    # "You leave."
-    "你离开了。" # TL # Victorius - AI
-
 # TODO: Translation updated at 2022-11-13 15:21
 
 # game/characters/lexi/wc.rpy:15
@@ -43,4 +31,3 @@ translate chinese wc_lexi_a08584a1:
 
     # lexi "Ehh.."
     lexi "唉.." # TL # Victorius - AI
-

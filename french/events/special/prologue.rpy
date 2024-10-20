@@ -3298,7 +3298,7 @@ translate french prologue_ask_lexi_d974887e:
 translate french prologue_ask_lexi_786152c8:
 
     # me "Fuck, 50%% unemployment rate?"
-    me "Merde, taux de chômage à 50 % ?" # TL # Victorius - AI
+    me "Merde, taux de chômage à 50 %% ?" # TL # Victorius - AI
 
 # game/events/special/prologue.rpy:1204
 translate french prologue_ask_lexi_0cd46d6e:
@@ -3681,4 +3681,3 @@ translate french strings:
     # game/events/special/prologue.rpy:1146
     old "Electricity and water"
     new "Électricité et eau" # TL # Victorius - AI
-

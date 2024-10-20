@@ -12,12 +12,6 @@ translate chinese lil_fox_exp_stash_14a11f17:
     # me "You sure?"
     me "你确定吗？" # TL # Victorius - AI
 
-# game/characters/little fox/explore/stash.rpy:39
-translate chinese lil_fox_exp_stash_f7dac5d7:
-
-    # lil_fox "Yes, 100% sure!"
-    lil_fox "是的，100%确定！" # TL # Victorius - AI
-
 # game/characters/little fox/explore/stash.rpy:40
 translate chinese lil_fox_exp_stash_c4f507fa:
 
@@ -341,4 +335,3 @@ translate chinese lil_fox_exp_stash_a3cdd5e7:
 
     # lil_fox "Yes, 100%% sure!"
     lil_fox "是的，100%%确定！" # TL # Victorius - AI
-

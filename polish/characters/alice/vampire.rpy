@@ -100,7 +100,7 @@ translate polish alice_vampire_create_2c11e2f5:
 translate polish alice_vampire_create_08d46144:
 
     # alice "One optics shop had a 100%% off for the whole assortment, lens included."
-    alice "Jeden sklep optyczny miał 100% zniżki na cały asortyment, w tym soczewki." # TL # Victorius - AI
+    alice "Jeden sklep optyczny miał 100%% zniżki na cały asortyment, w tym soczewki." # TL # Victorius - AI
 
 # game/characters/alice/vampire.rpy:61
 translate polish alice_vampire_create_f98a124e:
@@ -775,4 +775,3 @@ translate polish strings:
     # game/characters/alice/vampire.rpy:301
     old "Decline"
     new "Odmów" # TL # Victorius - AI
-

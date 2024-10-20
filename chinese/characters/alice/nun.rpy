@@ -1074,12 +1074,6 @@ translate chinese alice_nun_footjob2_3e031c52:
     # me "Ahh.. Nice."
     me "啊.. 不错。" # TL # Victorius - AI
 
-# game/characters/alice/nun.rpy:418
-translate chinese alice_nun_footjob2_a4491cc2:
-
-    # me "Tnanks. You're the best."
-    me "谢谢。你是最棒的。" # TL # Victorius - AI
-
 # game/characters/alice/nun.rpy:419
 translate chinese alice_nun_footjob2_208e29bb:
 
@@ -1157,4 +1151,3 @@ translate chinese alice_nun_footjob2_d4c720a0:
 
     # me "Thanks. You're the best."
     me "谢谢。你是最棒的。" # TL # Victorius - AI
-
