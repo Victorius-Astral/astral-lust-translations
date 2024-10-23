@@ -4,7 +4,7 @@
 translate polish alice_anal_1_4877092e:
 
     # "You enter her. She's incredibly tight, yet you went in without problem."
-    "Wchodzisz w nią. Jest niesamowicie ciasna, ale wszedłeś bez problemu." # TL # Victorius - AI
+    "Wsadzasz w nią. Jest niesamowicie ciasna, ale wsadziłeś bez problemu." # TL # 
 
 # game/characters/alice/anal_1.rpy:17
 translate polish alice_anal_1_df37bd7e:
@@ -22,7 +22,7 @@ translate polish alice_anal_1_ff41d66b:
 translate polish alice_anal_1_007f1501:
 
     # alice "Fuck me~ Fuck me~ I want you soooo much!"
-    alice "Pieprz mnie~ Pieprz mnie~ Chcę cię tak bardzo!" # TL # Victorius - AI
+    alice "Ruchaj mnie~ Ruchaj mnie~ Chcę cię taaak bardzo!" # TL # 
 
 # game/characters/alice/anal_1.rpy:29
 translate polish alice_anal_1_7f7259f6:
@@ -76,7 +76,7 @@ translate polish alice_anal_1_3d79359c:
 translate polish alice_anal_1_46acb026:
 
     # "You are cumming together with [alice]!"
-    "Dochodzi razem z [alice]!" # TL # Victorius - AI
+    "Dochodzicie razem z [alice]!" # TL # 
 
 # game/characters/alice/anal_1.rpy:63
 translate polish alice_anal_1_2ec231b7:
@@ -88,7 +88,7 @@ translate polish alice_anal_1_2ec231b7:
 translate polish alice_anal_1_d0de85e1:
 
     # "You don't feel tired after coming, but [alice] appears absolutely exhausted."
-    "Nie czujesz się zmęczony po dojściu, ale [alice] wydaje się całkowicie wyczerpana." # TL # Victorius - AI
+    "Nie czujesz się zmęczony po dojściu, ale [alice] wydaje się całkowicie wykończona." # TL # 
 
 # game/characters/alice/anal_1.rpy:67
 translate polish alice_anal_1_8b6f0399:
@@ -106,7 +106,7 @@ translate polish alice_anal_1_1eda25ab:
 translate polish alice_anal_1_ae7efb49:
 
     # "She only groans wordlessly."
-    "Tylko jęczy bez słowa." # TL # Victorius - AI
+    "Tylko jęka bez słowa." # TL # Victorius - AI
 
 # game/characters/alice/anal_1.rpy:76
 translate polish alice_anal_1_61660bd0:
@@ -142,7 +142,7 @@ translate polish alice_anal_1_34cff1b3:
 translate polish alice_anal_1_8d5c5cb3:
 
     # th "She appears so innocent right now, totally unlike her usual playful self."
-    th "Wygląda teraz tak niewinnie, zupełnie inaczej niż jej zwykłe figlarne 'ja'." # TL # Victorius - AI
+    th "Wygląda teraz tak niewinnie, zupełnie inaczej niż jej zwykłe wesołe 'ja'." # TL # 
 
 # game/characters/alice/anal_1.rpy:89
 translate polish alice_anal_1_b109c02e:
