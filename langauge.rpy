@@ -3,13 +3,17 @@ default persistent.show_hidden_languages = False
 
 init python:
 
-    # image, language name, language ID, completion %, Public
-    available_languages[None] = ("united-states", _("English"), True)
-    available_languages["spanish"] = ("spain", _("Spanish"), True)
-    available_languages["french"] = ("france", _("French"), True)
-    available_languages["vietnamese"] = ("vietnam", _("Vietnamese"), True)
-    available_languages["polish"] = ("poland", _("Polish"), True)
-    available_languages["chinese"] = ("china", _("Chinese"), False)
+    # langauge, translated language
+    available_languages[None] = ("English", "English")
+    available_languages["spanish"] = ("Spanish", "Español")
+    available_languages["french"] = ("French", "Français")
+    available_languages["vietnamese"] = ("Vietnamese", "Tiếng Việt")
+    available_languages["polish"] = ("Polish", "Polski")
+    available_languages["chinese"] = ("Chinese (Simplified)", "{font=fonts/NotoSerifSC-Regular.otf}中文 (简体){/font}")
+    available_languages["chinese_traditional"] = ("Chinese (Traditional)", "{font=fonts/NotoSerifSC-Regular.otf}中文 (繁體){/font}")
+    available_languages["italian"] = ("Italian", "Italiano")
+    available_languages["portuguese"] = ("Portuguese", "Português")
+    available_languages["german"] = ("German", "Deutsch")
 
     def getLanguage():
         global available_languages
@@ -30,9 +34,11 @@ init -1 python:
         victorius.who_args["font"] = fonts["nanum_pen"]
         victorius.what_args["font"] = fonts["nanum_pen"]
 
-        gui.text_font = fonts["itim"]
-        gui.name_text_font = fonts["itim"]
-        gui.interface_text_font = fonts["itim"]
+        fonts["noto_serif_sc"] = "fonts/NotoSerifSC-Regular.otf"
+        fonts["itim"] = "fonts/Itim-Regular.ttf"
+        fonts["brygada"] = "fonts/Brygada1918-Regular.ttf"
+
+        gui.system_font = gui.main_font = gui.text_font = gui.name_text_font = gui.interface_text_font = gui.button_text_font = gui.choice_button_text_font = fonts["itim"]
 
     def overrideFont(font):
         global gui
@@ -62,11 +68,16 @@ translate chinese python:
     fonts["itim"] = fonts["noto_serif_sc"]
     overrideFont(fonts["noto_serif_sc"])
 
+translate chinese_traditional python:
+    restoreFonts()
+    fonts["brygada"] = fonts["noto_serif_sc"]
+    fonts["itim"] = fonts["noto_serif_sc"]
+    overrideFont(fonts["noto_serif_sc"])
+
 
 translate polish python:
     restoreFonts()
 
     fonts["philosopher"] = fonts["brygada"]
-    fonts["barcodeText"] = fonts["brygada"]
     fonts["noto_serif_sc"] = fonts["brygada"]
     fonts["fredericka"] = fonts["brygada"]
