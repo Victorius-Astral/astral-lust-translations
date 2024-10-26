@@ -4,7 +4,7 @@ translate polish strings:
 
     # game/updates/codex.rpy:22
     old "She brought me to watch her back when she went out to get a.. \"friend\"...."
-    new "Zabrała mnie, żebym jej pilnował, kiedy wychodziła po... \'przyjaciela\'...." # TL # Victorius - AI
+    new "Zabrała mnie, żebym jej pilnował, kiedy wychodziła po... \'przyjaciela\'...." # TL # Victorius - AI test
 
     # game/updates/codex.rpy:34
     old "This silly girl seems to despise men to the bone. I wonder why?"
