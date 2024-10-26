@@ -1,64 +1,63 @@
-﻿# TODO: Translation updated at 2024-10-18 07:35
+# TODO: Translation updated at 2024-10-18 07:35
 
 # game/characters/lexi/ev_17.rpy:9
 translate vietnamese lexi_17_7c7ee36d:
 
     # me "I've found someone that could help you."
-    me "Tôi đã tìm thấy ai đó có thể giúp bạn." # TL # Victorius - AI
+    me "Anh đã tìm thấy người có thể giúp em." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:13
 translate vietnamese lexi_17_d9c562b3:
 
     # lexi "Really?"
-    lexi "Thật sao?" # TL # Victorius - AI
+    lexi "Thật không ạ?" # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:14
 translate vietnamese lexi_17_ecd768ba:
 
     # me "Yeah."
-    me "Ừ." # TL # Victorius - AI
+    me "Đúng vậy." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:15
 translate vietnamese lexi_17_0b622a01:
 
     # lexi "When are they coming? Or do I go to them? Who is it?"
-    lexi "Khi nào họ đến? Hay tôi phải đến gặp họ? Là ai vậy?" # TL # Victorius - AI
+    lexi "Người đó là ai? Người đó ở đâu? Người đó sẽ đến đây? Hay em phải đến gặp người đó? " # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:16
 translate vietnamese lexi_17_0d02e060:
 
     # me "Easy. They can arrive whenever you want."
-    me "Bình tĩnh. Họ có thể đến bất cứ khi nào bạn muốn." # TL # Victorius - AI
+    me "Em bình tĩnh đã. Người đó có thể đến bất cứ lúc nào em muốn gặp." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:17
 translate vietnamese lexi_17_cee6037d:
 
     # lexi "Uh? How come?"
-    lexi "Hả? Sao lại vậy?" # TL # Victorius - AI
+    lexi "Hả? Sao lại như vậy?" # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:18
 translate vietnamese lexi_17_81b0cb17:
 
     # me "You'll understand when you see."
-    me "Bạn sẽ hiểu khi bạn thấy." # TL # Victorius - AI
+    me "Đến lúc đó, Em sẽ hiểu." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:19
 translate vietnamese lexi_17_1652faca:
 
     # lexi "When are we doing it?"
-    lexi "Khi nào chúng ta làm điều đó?" # TL # Victorius - AI
-
+    lexi "Vậy khi nào chúng ta có thể gặp được ?" # TL # ZipX
 # game/characters/lexi/ev_17.rpy:20
 translate vietnamese lexi_17_47a4177e:
 
     # me "How about now?"
-    me "Bây giờ thì sao?" # TL # Victorius - AI
+    me "Nếu ngay bây giờ em thấy sao?" # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:21
 translate vietnamese lexi_17_130e85cd:
 
     # lexi "Right now?"
-    lexi "Ngay bây giờ?" # TL # Victorius - AI
+    lexi "Ngay bây giờ á?" # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:22
 translate vietnamese lexi_17_e60b9470:
@@ -88,73 +87,73 @@ translate vietnamese lexi_17_2930e26f:
 translate vietnamese lexi_17_f46c03a7:
 
     # lexi "Thank you."
-    lexi "Cảm ơn bạn." # TL # Victorius - AI
+    lexi "Cảm ơn Anh." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:33
 translate vietnamese lexi_17_175237b4:
 
     # me "I hope you'll get better, soon."
-    me "Tôi hy vọng bạn sẽ sớm khá hơn." # TL # Victorius - AI
+    me "Anh hy vọng em sẽ thấy tốt hơn." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:37
 translate vietnamese lexi_17_c796dbc6:
 
     # lexi "How do we call this person?"
-    lexi "Chúng ta gọi người này là gì?" # TL # Victorius - AI
+    lexi "Chúng ta gọi người đó như thế nào [me]?" # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:38
 translate vietnamese lexi_17_8af9d82b:
 
     # me "Are you alright? You look unsure."
-    me "Bạn ổn chứ? Bạn trông có vẻ không chắc chắn." # TL # Victorius - AI
+    me "Em không sao chứ? Trông em có vẻ không bối rối ?." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:39
 translate vietnamese lexi_17_f7d1c8e8:
 
     # lexi "I'm nervous. It's too sudden... I've never..."
-    lexi "Tôi lo lắng. Quá đột ngột... Tôi chưa bao giờ..." # TL # Victorius - AI
+    lexi "Em hơi lo lắng. Quá đột ngột... và Em chưa bao giờ..." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:40
 translate vietnamese lexi_17_b967d88d:
 
     # me "Hey, [lexi]. I'm here."
-    me "Này, [lexi]. Tôi ở đây." # TL # Victorius - AI
+    me "Này, [lexi]. Có anh ở đây, em cứ bình tĩnh." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:45
 translate vietnamese lexi_17_ac0fea5c:
 
     # lexi "Yeah. Let's do this."
-    lexi "Ừ. Hãy làm điều này." # TL # Victorius - AI
+    lexi "Vâng ạ. Cám ơn anh, Chúng ta bắt đầu được rồi." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:48
 translate vietnamese lexi_17_f917159d:
 
     # me "Let's go to your room, first."
-    me "Hãy đi đến phòng của bạn trước." # TL # Victorius - AI
+    me "Giờ chúng ta về phòng của em trước đã." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:49
 translate vietnamese lexi_17_1836de33_1:
 
     # lexi "Okay."
-    lexi "Được rồi." # TL # Victorius - AI
+    lexi "Vâng ạ." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:53
 translate vietnamese lexi_17_3c795b3c:
-
+a
     # lexi "What now? How do we get this person here?"
-    lexi "Bây giờ thì sao? Làm thế nào để chúng ta đưa người này đến đây?" # TL # Victorius - AI
+    lexi "Bây giờ thì sao? Làm thế nào để gặp được người đó?, [me]" # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:68
 translate vietnamese lexi_17_ask_lexi_08ca5766:
 
     # lexi "What do you mean?"
-    lexi "Ý bạn là sao?" # TL # Victorius - AI
+    lexi "Ý anh là sao?" # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:69
 translate vietnamese lexi_17_ask_lexi_fdb67b12:
 
     # me "You know what I mean."
-    me "Bạn biết ý tôi mà." # TL # Victorius - AI
+    me "Em biết ý tôi mà." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:70
 translate vietnamese lexi_17_ask_lexi_d7760fc7:
@@ -166,55 +165,55 @@ translate vietnamese lexi_17_ask_lexi_d7760fc7:
 translate vietnamese lexi_17_ask_lexi_5ffeab23:
 
     # lexi "I'm good [me]. I mean it."
-    lexi "Tôi ổn [me]. Tôi thực sự nghĩ vậy." # TL # Victorius - AI
+    lexi "Em ổn [me]. Em thực sự nghĩ vậy." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:75
 translate vietnamese lexi_17_ask_lexi_9d4c3bbe:
 
     # me "I know what I see."
-    me "Tôi biết những gì tôi thấy." # TL # Victorius - AI
+    me "Em biết những gì tôi thấy." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:79
 translate vietnamese lexi_17_ask_lexi_18d89329:
 
     # me "And the worst thing is, I don't know how to help you..."
-    me "Và điều tồi tệ nhất là, tôi không biết làm thế nào để giúp bạn..." # TL # Victorius - AI
+    me "Và điều tồi tệ nhất là, Anh không biết làm thế nào để giúp em..." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:80
 translate vietnamese lexi_17_ask_lexi_85882a36:
 
     # lexi "It's alright. I'll deal with it..."
-    lexi "Không sao đâu. Tôi sẽ tự giải quyết..." # TL # Victorius - AI
+    lexi "Không sao đâu. Em sẽ tự giải quyết..." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:81
 translate vietnamese lexi_17_ask_lexi_66f1a8ca:
 
     # me "I want to help you. I need to help you."
-    me "Tôi muốn giúp bạn. Tôi cần giúp bạn." # TL # Victorius - AI
+    me "Anh muốn giúp bạn. Anh cần giúp bạn." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:82
 translate vietnamese lexi_17_ask_lexi_3a82341b:
 
     # lexi "B-But... I don't know how you could do that..."
-    lexi "Nhưng... Tôi không biết bạn có thể làm điều đó như thế nào..." # TL # Victorius - AI
+    lexi "Nhưng... Em không biết Anh có thể làm điều đó như thế nào..." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:83
 translate vietnamese lexi_17_ask_lexi_9e84077e:
 
     # me "I will find a professional to help you."
-    me "Tôi sẽ tìm một chuyên gia để giúp bạn." # TL # Victorius - AI
+    me "Anh sẽ tìm một chuyên gia để giúp Em." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:84
 translate vietnamese lexi_17_ask_lexi_e2f0d1f3:
 
     # lexi "Where?"
-    lexi "Ở đâu?" # TL # Victorius - AI
+    lexi "Anh tìm Ở đâu?" # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:85
 translate vietnamese lexi_17_ask_lexi_e0d2493d:
 
     # me "I have some ideas, I just need to know if you would allow me to help you."
-    me "Tôi có vài ý tưởng, tôi chỉ cần biết nếu bạn cho phép tôi giúp bạn." # TL # Victorius - AI
+    me "Anh có vài ý tưởng, Anh chỉ cần em cho phép Anh giúp em." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:86
 translate vietnamese lexi_17_ask_lexi_d7760fc7_1:
@@ -238,7 +237,7 @@ translate vietnamese lexi_17_ask_lexi_bda8ec47:
 translate vietnamese lexi_17_ask_lexi_65d184c8:
 
     # me "Thank you, [lexi]. I will help you at all costs."
-    me "Cảm ơn bạn, [lexi]. Tôi sẽ giúp bạn bằng mọi giá." # TL # Victorius - AI
+    me "Cảm ơn Em, [lexi]. Anh sẽ giúp em bằng mọi giá." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:93
 translate vietnamese lexi_17_ask_lexi_429f5949:
@@ -316,7 +315,7 @@ translate vietnamese lexi_17_ask_aharon_6176c1fa:
 translate vietnamese lexi_17_ask_aharon_c9270ca6:
 
     # me "My friend, uh, Lexi seems to have a trauma. It's getting bad, I'm getting worried about her."
-    me "Bạn của tôi, uh, Lexi dường như có một chấn thương. Nó đang trở nên tồi tệ, tôi đang lo lắng về cô ấy." # TL # Victorius - AI
+    me "Bạn của tôi, Vang, Lexi dường như có một chấn thương. Nó đang trở nên tồi tệ, tôi đang lo lắng về cô ấy." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:120
 translate vietnamese lexi_17_ask_aharon_4de573c1:
@@ -340,7 +339,7 @@ translate vietnamese lexi_17_ask_aharon_f2be00f3:
 translate vietnamese lexi_17_ask_aharon_de75e1fd:
 
     # th "Was He checking on her just now?"
-    th "Ngài vừa kiểm tra cô ấy ngay bây giờ sao?" # TL # Victorius - AI
+    th "Ngài vừa kiểm tra cô ấy ngay lúc này sao?" # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:124
 translate vietnamese lexi_17_ask_aharon_a8977b09:
@@ -370,13 +369,13 @@ translate vietnamese lexi_17_ask_aharon_46b9f1a5:
 translate vietnamese lexi_17_ask_aharon_880c8e33:
 
     # me "{small}Thank you.{/small}"
-    me "{small}Cảm ơn bạn.{/small}" # TL # Victorius - AI
+    me "{small}Cảm ơn Ngài.{/small}" # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:140
 translate vietnamese lexi_17_ask_kiara_4873b341:
 
     # kiara "You need a psychiatrist?"
-    kiara "Bạn cần một bác sĩ tâm thần?" # TL # Victorius - AI
+    kiara "Anh cần một bác sĩ tâm thần?" # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:141
 translate vietnamese lexi_17_ask_kiara_025e3ae1:
@@ -388,7 +387,7 @@ translate vietnamese lexi_17_ask_kiara_025e3ae1:
 translate vietnamese lexi_17_ask_kiara_f5b51642:
 
     # kiara "One of the girls from your hotel?"
-    kiara "Một trong những cô gái từ khách sạn của bạn?" # TL # Victorius - AI
+    kiara "Một trong những cô gái từ khách sạn của Anh?" # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:146
 translate vietnamese lexi_17_ask_kiara_e60b9470:
@@ -400,13 +399,13 @@ translate vietnamese lexi_17_ask_kiara_e60b9470:
 translate vietnamese lexi_17_ask_kiara_edfa1b79:
 
     # kiara "I could help you out."
-    kiara "Tôi có thể giúp bạn." # TL # Victorius - AI
+    kiara "Tôi có thể giúp Anh." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:148
 translate vietnamese lexi_17_ask_kiara_4f229520:
 
     # me "That's great. Thank you."
-    me "Tuyệt vời. Cảm ơn bạn." # TL # Victorius - AI
+    me "Tuyệt vời. Cảm ơn Cô." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:149
 translate vietnamese lexi_17_ask_kiara_4151fa9f:
@@ -424,7 +423,7 @@ translate vietnamese lexi_17_ask_kiara_f02b2eb1:
 translate vietnamese lexi_17_ask_kiara_3e525b41:
 
     # me "That's all I could ask for. Thank you."
-    me "Đó là tất cả những gì tôi có thể yêu cầu. Cảm ơn bạn." # TL # Victorius - AI
+    me "Đó là tất cả những gì tôi có thể yêu cầu. Cảm ơn Cô." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:152
 translate vietnamese lexi_17_ask_kiara_36b6c0a1:
@@ -442,7 +441,7 @@ translate vietnamese lexi_17_ask_kiara_9671ab30:
 translate vietnamese lexi_17_ask_kiara_f0b2b836:
 
     # kiara "I can't hear you at night, that's all."
-    kiara "Tôi không thể nghe bạn vào ban đêm, đó là tất cả." # TL # Victorius - AI
+    kiara "Tôi không thể nghe Anh vào ban đêm, đó là tất cả." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:155
 translate vietnamese lexi_17_ask_kiara_a1c73fe1:
@@ -454,13 +453,13 @@ translate vietnamese lexi_17_ask_kiara_a1c73fe1:
 translate vietnamese lexi_17_summoned_surprise_70e99e2b:
 
     # lexi "Wha- How?!"
-    lexi "Cái gì- Làm sao?!" # TL # Victorius - AI
+    lexi "Chuyện gì thế- Làm sao?!" # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:165
 translate vietnamese lexi_17_summoned_surprise_8c7f2002:
 
     # lexi "Who are you?!"
-    lexi "Bạn là ai?!" # TL # Victorius - AI
+    lexi "Ông là ai?!" # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:173
 translate vietnamese lexi_17_wait_fa68e5d7:
@@ -496,91 +495,91 @@ translate vietnamese lexi_17_wait_fc6395f0:
 translate vietnamese lexi_17_start_aharon_6189a0e7:
 
     # me "{big}Aharon.{/big}"
-    me "{big}Aharon.{/big}" # TL # Victorius - AI
+    me "{big}Aharon. Đến lúc rồi{/big}" # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:187
 translate vietnamese lexi_17_start_aharon_945a73bc:
 
     # lexi "What?"
-    lexi "Gì?" # TL # Victorius - AI
+    lexi "Cái gì thế ?" # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:193
 translate vietnamese lexi_17_start_aharon_d933754e:
 
     # me "Easy, Lexi. That's the guy."
-    me "Bình tĩnh, Lexi. Đó là người đó." # TL # Victorius - AI
+    me "Hãy bình tĩnh, Lexi. Ông ấy là người mà anh nói với em." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:194
 translate vietnamese lexi_17_start_aharon_b4bd730e:
 
     # th "I believe..."
-    th "Tôi tin..." # TL # Victorius - AI
+    th "Em ấy khá kích động khi ông ấy xuất hiện..." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:195
 translate vietnamese lexi_17_start_aharon_d8444154:
 
     # lexi "But..."
-    lexi "Nhưng..." # TL # Victorius - AI
+    lexi "Nhưng, Bằng cách nào?..." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:199
 translate vietnamese lexi_17_start_aharon_1f3c54fc:
 
     # psych "Don't worry, I'm here to help you."
-    psych "Đừng lo lắng, tôi ở đây để giúp bạn." # TL # Victorius - AI
+    psych "Đừng lo lắng, bình tĩnh, tôi đến đây để giúp cô." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:200
 translate vietnamese lexi_17_start_aharon_f584891a:
 
     # psych "What's your name?"
-    psych "Tên bạn là gì?" # TL # Victorius - AI
+    psych "Tên cô là gì?" # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:201
 translate vietnamese lexi_17_start_aharon_5f919395:
 
     # lexi "Lexi..."
-    lexi "Lexi..." # TL # Victorius - AI
+    lexi "Lexi...Lexi ạ" # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:202
 translate vietnamese lexi_17_start_aharon_73ed791e:
 
     # "She calms down almost immediately after he opens his mouth."
-    "Cô ấy bình tĩnh lại gần như ngay lập tức sau khi ông ấy mở miệng." # TL # Victorius - AI
+    "Em ấy bình tĩnh lại gần như ngay lập tức ngay sau khi ông ấy bắt đầu nói." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:203
 translate vietnamese lexi_17_start_aharon_39fc42b6:
 
     # "As if the questions regarding his appearance stopped bothering her."
-    "Như thể những câu hỏi về ngoại hình của ông ấy đã không còn làm phiền cô ấy." # TL # Victorius - AI
+    "Như thể việc ông ấy bỗng nhiên xuất hiện ở đây đã không còn làm cô ấy bận tâm." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:204
 translate vietnamese lexi_17_start_aharon_482c827d:
 
     # lexi "Are you, Aharon?"
-    lexi "Bạn có phải là Aharon không?" # TL # Victorius - AI
+    lexi "Vậy, Ông là Aharon?" # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:205
 translate vietnamese lexi_17_start_aharon_6955d665:
 
     # alkimakos "No. You might call me [alkimakos]."
-    alkimakos "Không. Bạn có thể gọi tôi là [alkimakos]." # TL # Victorius - AI
+    alkimakos "À Không. Cô có thể gọi tôi là [alkimakos]." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:206
 translate vietnamese lexi_17_start_aharon_ad2b4f7b:
 
     # lexi "Pleased to meet you, Mr. [alkimakos]."
-    lexi "Rất vui được gặp bạn, ông [alkimakos]." # TL # Victorius - AI
+    lexi "Vâng, Rất vui được gặp Ông, ông [alkimakos]." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:207
 translate vietnamese lexi_17_start_aharon_ab93be7b:
 
     # alkimakos "The pleasure is on my side."
-    alkimakos "Niềm vui là của tôi." # TL # Victorius - AI
+    alkimakos "Rất vui khi được gặp cô, Cô Lexi." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:208
 translate vietnamese lexi_17_start_aharon_0fe14937:
 
     # lexi "Where does your name come from? It doesn't sound like it's from the modern times. At least not from places I know."
-    lexi "Tên của bạn xuất phát từ đâu? Nó không giống như từ thời hiện đại. Ít nhất không phải từ những nơi tôi biết." # TL # Victorius - AI
+    lexi "Tên của ông nghe rất lạ? Có vẻ như không phải từ thời hiện đại. Ít nhất không phải từ những gì tôi biết." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:209
 translate vietnamese lexi_17_start_aharon_e6cdc69c:
@@ -592,37 +591,37 @@ translate vietnamese lexi_17_start_aharon_e6cdc69c:
 translate vietnamese lexi_17_start_aharon_8b9d1572:
 
     # alkimakos "So, you're [me]."
-    alkimakos "Vậy, bạn là [me]." # TL # Victorius - AI
+    alkimakos "Vậy, cậu là [me]." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:214
 translate vietnamese lexi_17_start_aharon_ab26ebf6:
 
     # me "That's me."
-    me "Đó là tôi." # TL # Victorius - AI
+    me "Đúng vậy, tôi là [me]." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:215
 translate vietnamese lexi_17_start_aharon_a028b2b1:
 
     # alkimakos "I've heard a lot about you."
-    alkimakos "Tôi đã nghe rất nhiều về bạn." # TL # Victorius - AI
+    alkimakos "Tôi đã nghe rất nhiều về cậu." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:216
 translate vietnamese lexi_17_start_aharon_9f867740:
 
     # me "You did?"
-    me "Bạn đã sao?" # TL # Victorius - AI
+    me "Đã nghe?... " # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:217
 translate vietnamese lexi_17_start_aharon_521641cc:
 
     # alkimakos "He keeps attention to your journey."
-    alkimakos "Ngài ấy chú ý đến hành trình của bạn." # TL # Victorius - AI
+    alkimakos "Ngài ấy đã chú ý đến hành trình của cậu." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:218
 translate vietnamese lexi_17_start_aharon_248e66e0:
 
     # me "Who are you?"
-    me "Bạn là ai?" # TL # Victorius - AI
+    me "Ngài ấy là ai? Và Ông là ai?" # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:219
 translate vietnamese lexi_17_start_aharon_578b1486:
@@ -634,7 +633,7 @@ translate vietnamese lexi_17_start_aharon_578b1486:
 translate vietnamese lexi_17_start_aharon_85e6a5e3:
 
     # th "Cult's Elder? That's an Angel!"
-    th "Trưởng lão của giáo phái? Đó là một Thiên thần!" # TL # Victorius - AI
+    th "Trưởng lão của giáo phái? Là một Thiên thần!" # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:221
 translate vietnamese lexi_17_start_aharon_a381bb13:
@@ -646,7 +645,7 @@ translate vietnamese lexi_17_start_aharon_a381bb13:
 translate vietnamese lexi_17_start_aharon_3c028cd9:
 
     # alkimakos "Thousands of years ago, when I was born, there was no concept of surnames."
-    alkimakos "Hàng ngàn năm trước, khi tôi sinh ra, không có khái niệm về họ." # TL # Victorius - AI
+    alkimakos "Từ hàng ngàn năm trước, khi tôi sinh ra, Hiện tại không còn ai biết về nó." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:223
 translate vietnamese lexi_17_start_aharon_03529c28:
@@ -664,7 +663,7 @@ translate vietnamese lexi_17_start_aharon_e9dec4bb:
 translate vietnamese lexi_17_start_aharon_ca6768ed:
 
     # lexi "You indeed don't look thousands of years old."
-    lexi "Bạn thực sự không trông giống hàng ngàn năm tuổi." # TL # Victorius - AI
+    lexi "Ông thực sự trông không giống người sống hàng ngàn năm tuổi." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:229
 translate vietnamese lexi_17_start_aharon_64719014:
@@ -676,7 +675,7 @@ translate vietnamese lexi_17_start_aharon_64719014:
 translate vietnamese lexi_17_start_aharon_9ab75312:
 
     # me "Is that your power?"
-    me "Đó có phải là sức mạnh của bạn không?" # TL # Victorius - AI
+    me "Đó có phải là sức mạnh của Ông không?" # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:231
 translate vietnamese lexi_17_start_aharon_fed8d62d:
@@ -706,13 +705,13 @@ translate vietnamese lexi_17_start_aharon_66f75589:
 translate vietnamese lexi_17_start_aharon_b135a98d:
 
     # me "Uh..."
-    me "Uh..." # TL # Victorius - AI
+    me "Vâng?..." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:242
 translate vietnamese lexi_17_start_aharon_a44ff73a:
 
     # lexi "[me], please. I-I need to do it alone."
-    lexi "[me], làm ơn. Tôi-I cần làm điều đó một mình." # TL # Victorius - AI
+    lexi "[me], làm ơn. Em...Em cần làm điều đó một mình." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:243
 translate vietnamese lexi_17_start_aharon_d6f4c0a5:
@@ -724,19 +723,19 @@ translate vietnamese lexi_17_start_aharon_d6f4c0a5:
 translate vietnamese lexi_17_start_aharon_7a55b89a:
 
     # me "It's going to be good, Lexi."
-    me "Nó sẽ tốt thôi, Lexi." # TL # Victorius - AI
+    me "Nó sẽ ổn thôi, Lexi." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:245
 translate vietnamese lexi_17_start_aharon_8bed54ed:
 
     # lexi "I know, in fact, I already feel better. That's weird, but I like it."
-    lexi "Tôi biết, thực tế, tôi đã cảm thấy tốt hơn. Thật kỳ lạ, nhưng tôi thích nó." # TL # Victorius - AI
+    lexi "Em biết, thực tế, Em đã cảm thấy tốt hơn. Thật kỳ lạ, nhưng em thích nó." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:246
 translate vietnamese lexi_17_start_aharon_1be7c9e9:
 
     # th "This guy, this Angel, He should be able to help her, right?"
-    th "Người này, Thiên thần này, Ngài ấy nên có thể giúp cô ấy, đúng không?" # TL # Victorius - AI
+    th "Ông ấy, Ngài Thiên thần, Ngài ấy có thể giúp cô ấy, đúng không?" # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:252
 translate vietnamese lexi_17_start_aharon_475c1efa:
@@ -754,7 +753,7 @@ translate vietnamese lexi_17_start_aharon_3c2cd5fc:
 translate vietnamese lexi_17_start_aharon_9b76c03f:
 
     # me "You mean?"
-    me "Ý bạn là?" # TL # Victorius - AI
+    me "Ý Ông là?" # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:255
 translate vietnamese lexi_17_start_aharon_01a00655:
@@ -772,13 +771,13 @@ translate vietnamese lexi_17_start_aharon_46fce91c:
 translate vietnamese lexi_17_start_aharon_2e9d25b4:
 
     # alkimakos "That's something only she could tell you, it's not my place to do so."
-    alkimakos "Đó là điều chỉ cô ấy có thể nói với bạn, không phải là vị trí của tôi để làm điều đó." # TL # Victorius - AI
+    alkimakos "Đó là điều chỉ cô ấy có thể nói với cậu, không phải là vị trí mà tôi có thể làm điều đó." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:258
 translate vietnamese lexi_17_start_aharon_02354970:
 
     # me "I need to know."
-    me "Tôi cần biết." # TL # Victorius - AI
+    me "Nhưng, Tôi cần biết." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:259
 translate vietnamese lexi_17_start_aharon_8e4bb0d4:
@@ -790,13 +789,13 @@ translate vietnamese lexi_17_start_aharon_8e4bb0d4:
 translate vietnamese lexi_17_start_aharon_cb3a7582:
 
     # alkimakos "If you want to help her, treat her like normal. Right now what she needs is normalcy. Only she can help herself."
-    alkimakos "Nếu bạn muốn giúp cô ấy, hãy đối xử với cô ấy như bình thường. Ngay bây giờ điều cô ấy cần là sự bình thường. Chỉ có cô ấy mới có thể giúp chính mình." # TL # Victorius - AI
+    alkimakos "Nếu cậu muốn giúp cô ấy, hãy đối xử với cô ấy như bình thường. Ngay bây giờ điều cô ấy cần là sự bình thường. Chỉ có cô ấy mới có thể giúp chính mình." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:261
 translate vietnamese lexi_17_start_aharon_7840244c:
 
     # me "Does it mean you failed?"
-    me "Điều đó có nghĩa là bạn đã thất bại?" # TL # Victorius - AI
+    me "Điều đó có nghĩa là Ông đã thất bại?" # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:262
 translate vietnamese lexi_17_start_aharon_caffde6a:
@@ -814,7 +813,7 @@ translate vietnamese lexi_17_start_aharon_40f64e23:
 translate vietnamese lexi_17_start_aharon_e285728b:
 
     # me "I see... I thought your powers would solve it all at once. Like if by a swing of a magic wand."
-    me "Tôi hiểu... Tôi nghĩ sức mạnh của bạn sẽ giải quyết tất cả ngay lập tức. Như thể bằng một cái vung đũa phép." # TL # Victorius - AI
+    me "Tôi hiểu... Tôi nghĩ sức mạnh của Ông sẽ giải quyết tất cả ngay lập tức. Như thể bằng một cái vung đũa phép." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:265
 translate vietnamese lexi_17_start_aharon_06cb37de:
@@ -832,7 +831,7 @@ translate vietnamese lexi_17_start_aharon_57c2568b:
 translate vietnamese lexi_17_start_aharon_6ec04295:
 
     # alkimakos "That is too dangerous in the current environment. That is also not something you would want to do to a person you care about."
-    alkimakos "Điều đó quá nguy hiểm trong môi trường hiện tại. Đó cũng không phải là điều bạn muốn làm với một người bạn quan tâm." # TL # Victorius - AI
+    alkimakos "Điều đó quá nguy hiểm trong thời điểm hiện tại. Đó cũng không phải là điều cậu muốn làm với một người cậu quan tâm." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:268
 translate vietnamese lexi_17_start_aharon_46d27802:
@@ -880,7 +879,7 @@ translate vietnamese lexi_17_start_aharon_5fcedba8:
 translate vietnamese lexi_17_start_aharon_8cb32425:
 
     # me "Thank you. It means the world to me."
-    me "Cảm ơn bạn. Điều đó có ý nghĩa rất lớn đối với tôi." # TL # Victorius - AI
+    me "Cảm ơn Ông. Điều đó có ý nghĩa rất lớn đối với tôi." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:276
 translate vietnamese lexi_17_start_aharon_b6308b41:
@@ -898,13 +897,13 @@ translate vietnamese lexi_17_start_aharon_2aa11679:
 translate vietnamese lexi_17_start_aharon_589e9a74:
 
     # me "Alright. Again, Thank you."
-    me "Được rồi. Một lần nữa, cảm ơn bạn." # TL # Victorius - AI
+    me "Được rồi. Một lần nữa, cảm ơn Ông." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:282
 translate vietnamese lexi_17_start_aharon_611b1c3e:
 
     # "The Angel disappears before you, leaving just as abruptly as He appeared."
-    "Thiên thần biến mất trước mặt bạn, rời đi đột ngột như khi Ngài xuất hiện." # TL # Victorius - AI
+    "Ngài Thiên thần biến mất trước mặt bạn, rời đi đột ngột như khi Ngài xuất hiện." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:283
 translate vietnamese lexi_17_start_aharon_97a121db:
@@ -952,25 +951,25 @@ translate vietnamese lexi_17_start_kiara_b0b12456:
 translate vietnamese lexi_17_start_kiara_637b770d:
 
     # lexi "Uh... You're right, I guess."
-    lexi "Uh... Bạn đúng, tôi đoán vậy." # TL # Victorius - AI
+    lexi "Uh... Ông nói đúng, tôi cũng nghĩ vậy." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:305
 translate vietnamese lexi_17_start_kiara_ff220df0:
 
     # th "She agreed with him just like that?"
-    th "Cô ấy đồng ý với anh ấy như vậy sao?" # TL # Victorius - AI
+    th "Cô ấy đồng ý với ông ấy như vậy sao?" # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:306
 translate vietnamese lexi_17_start_kiara_5412e085:
 
     # psych "I can feel the turmoil in your mind."
-    psych "Tôi có thể cảm nhận sự xáo trộn trong tâm trí bạn." # TL # Victorius - AI
+    psych "Tôi có thể cảm nhận sự xáo trộn trong tâm trí cô." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:307
 translate vietnamese lexi_17_start_kiara_6e826d40:
 
     # lexi "Can you help me? Are you a psychologist?"
-    lexi "Bạn có thể giúp tôi không? Bạn có phải là nhà tâm lý học không?" # TL # Victorius - AI
+    lexi "ông có thể giúp tôi không? ông có phải là nhà tâm lý học không?" # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:308
 translate vietnamese lexi_17_start_kiara_f1186d2d:
@@ -982,7 +981,7 @@ translate vietnamese lexi_17_start_kiara_f1186d2d:
 translate vietnamese lexi_17_start_kiara_f584891a:
 
     # psych "What's your name?"
-    psych "Tên bạn là gì?" # TL # Victorius - AI
+    psych "Tên cô là gì?" # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:310
 translate vietnamese lexi_17_start_kiara_ac50af09:
@@ -994,13 +993,13 @@ translate vietnamese lexi_17_start_kiara_ac50af09:
 translate vietnamese lexi_17_start_kiara_ea8476af:
 
     # psych "Lexi, don't worry, we'll take care of your problems."
-    psych "Lexi, đừng lo lắng, chúng ta sẽ giải quyết vấn đề của bạn." # TL # Victorius - AI
+    psych "Lexi, đừng lo lắng, chúng ta sẽ giải quyết vấn đề của cô." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:315
 translate vietnamese lexi_17_start_kiara_5e735b8b:
 
     # psych "Please, leave us alone."
-    psych "Làm ơn, để chúng tôi một mình." # TL # Victorius - AI
+    psych "Làm ơn, hãy để chúng tôi một mình." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:316
 translate vietnamese lexi_17_start_kiara_95d3c3e0:
@@ -1012,25 +1011,25 @@ translate vietnamese lexi_17_start_kiara_95d3c3e0:
 translate vietnamese lexi_17_start_kiara_6e344f8c:
 
     # me "Lexi, are you alright?"
-    me "Lexi, bạn ổn chứ?" # TL # Victorius - AI
+    me "Lexi, em ổn chứ?" # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:321
 translate vietnamese lexi_17_start_kiara_0ea11224:
 
     # lexi "Yeah. Let's try. I have good feelings about this."
-    lexi "Ừ. Hãy thử xem. Tôi có cảm giác tốt về điều này." # TL # Victorius - AI
+    lexi "Vâng. Hãy thử xem. Em có cảm giác tốt về điều này." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:322
 translate vietnamese lexi_17_start_kiara_3508684d:
 
     # me "I'm cheering for you."
-    me "Tôi cổ vũ cho bạn." # TL # Victorius - AI
+    me "Anh cổ vũ cho em." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:323
 translate vietnamese lexi_17_start_kiara_f46c03a7:
 
     # lexi "Thank you."
-    lexi "Cảm ơn bạn." # TL # Victorius - AI
+    lexi "Cảm ơn anh." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:324
 translate vietnamese lexi_17_start_kiara_2f869c75:
@@ -1084,7 +1083,7 @@ translate vietnamese lexi_17_start_kiara_fe002ff1:
 translate vietnamese lexi_17_start_kiara_216de5ec:
 
     # me "Kiara? I assume you're listening."
-    me "Kiara? Tôi cho rằng bạn đang lắng nghe." # TL # Victorius - AI
+    me "Kiara? Tôi cho rằng cô đang lắng nghe." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:339
 translate vietnamese lexi_17_start_kiara_d0ca437a:
@@ -1096,7 +1095,7 @@ translate vietnamese lexi_17_start_kiara_d0ca437a:
 translate vietnamese lexi_17_start_kiara_a0a697c9:
 
     # me "Thank you."
-    me "Cảm ơn bạn." # TL # Victorius - AI
+    me "Cảm ơn Ngài." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:341
 translate vietnamese lexi_17_start_kiara_86d63d4b:
@@ -1138,7 +1137,7 @@ translate vietnamese lexi_17_start_kiara_4cd6c756:
 translate vietnamese lexi_17_start_kiara_368b0f3a:
 
     # psych "Such knowledge wouldn't help either her or you. She'll tell her when she's ready to let it go."
-    psych "Kiến thức như vậy sẽ không giúp ích cho cô ấy hoặc bạn. Cô ấy sẽ nói khi cô ấy sẵn sàng buông bỏ nó." # TL # Victorius - AI
+    psych "Kiến thức như vậy sẽ không giúp ích cho cô ấy hoặc cậu. Cô ấy sẽ nói khi cô ấy sẵn sàng buông bỏ nó." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:348
 translate vietnamese lexi_17_start_kiara_c42e92bd:
@@ -1174,7 +1173,7 @@ translate vietnamese lexi_17_start_kiara_2e973291:
 translate vietnamese lexi_17_start_kiara_a0a697c9_1:
 
     # me "Thank you."
-    me "Cảm ơn bạn." # TL # Victorius - AI
+    me "Cảm ơn Ngài." # TL # Victorius - AI
 
 # game/characters/lexi/ev_17.rpy:360
 translate vietnamese lexi_17_start_kiara_a2a8ca3e:
@@ -1216,7 +1215,7 @@ translate vietnamese lexi_17_start_kiara_49584483:
 translate vietnamese lexi_17_start_kiara_f2cb0167:
 
     # kiara "When you're living for as long as I had, death becomes inseparable and normal."
-    kiara "Khi bạn sống lâu như tôi đã, cái chết trở thành không thể tách rời và bình thường." # TL # Victorius - AI
+    kiara "Khi Anh đã sống lâu như tôi, cái chết trở thành không thể tách rời và bình thường." # TL # ZipX
 
 # game/characters/lexi/ev_17.rpy:367
 translate vietnamese lexi_17_start_kiara_7be3a6bb:
