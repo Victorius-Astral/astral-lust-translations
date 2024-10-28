@@ -22,7 +22,7 @@ translate polish alice_bj2_eb95e18a:
 translate polish alice_bj2_e9f56da6:
 
     # "Her inviting mouth feels out of this world."
-    "Jej zachęcające usta są nie z tego świata." # TL # Victorius - AI
+    "Jej pociągające usta są nie z tego świata." # TL # TyskiDzik
 
 # game/characters/alice/bj_2.rpy:32
 translate polish alice_bj2_cf463697:
@@ -64,19 +64,19 @@ translate polish alice_bj2_cc8b5551:
 translate polish alice_bj2_880e428d:
 
     # "You can barely understand what she says."
-    "Ledwo rozumiesz, co mówi." # TL # Victorius - AI
+    "Ledwo jesteś w stanie zrozumieć co mówi." # TL # TyskiDzIk
 
 # game/characters/alice/bj_2.rpy:48
 translate polish alice_bj2_c2f1672e:
 
     # me "Fuck, I'm going to!"
-    me "Cholera, zaraz będę!" # TL # Victorius - AI
+    me "Kurwa, zaraz dojdę!" # TL # TyskiDzik
 
 # game/characters/alice/bj_2.rpy:52
 translate polish alice_bj2_2f3d23c6:
 
     # "You are cumming!"
-    "Dochodzi!" # TL # Victorius - AI
+    "Dochodzisz!" # TL # TyskiDzik
 
 # game/characters/alice/bj_2.rpy:56
 translate polish alice_bj2_74da33f9:
@@ -88,17 +88,17 @@ translate polish alice_bj2_74da33f9:
 translate polish alice_bj2_83bc6bb3:
 
     # "[alice] gags for a while and finally spits out all of your seed into her hands."
-    "[alice] dławi się przez chwilę, aż w końcu wypluwa całe twoje nasienie na dłonie." # TL # Victorius - AI
+    "[alice] dławi się przez chwilę, aż w końcu wypluwa całe twoje nasienie na jej dłonie." # TL # Victorius - AI
 
 # game/characters/alice/bj_2.rpy:61
 translate polish alice_bj2_b9bc022e:
 
     # alice "You came sooo much hehe~"
-    alice "Wylałeś się taaak bardzo hehe~" # TL # Victorius - AI
+    alice "Spuściłeś się taaak mocno, hehe~" # TL # TyskiDzik
 
 # game/characters/alice/bj_2.rpy:62
 translate polish alice_bj2_5cb454dc:
 
     # "You rest for a while and leave her to clean herself."
-    "Odpoczywasz chwilę i zostawiasz ją, by się oczyściła." # TL # Victorius - AI
+    "Odpoczywasz przez chwilę i zostawiasz ją, by się oczyściła." # TL # Victorius - AI
 
