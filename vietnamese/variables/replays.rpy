@@ -2352,3 +2352,11 @@ translate vietnamese strings:
     old "Lose the spar with [maric]."
     new "Thua trận đấu với [maric]." # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:44
+
+translate vietnamese strings:
+
+    # game/variables/replays.rpy:642
+    old "Have a good dream."
+    new "Chúc mơ đẹp." # TL # Victorius - AI
+

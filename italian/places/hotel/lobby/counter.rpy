@@ -440,3 +440,29 @@ translate italian strings:
     old "Vault T8 (40 Stone, 40 Metal, 5 Gold Nugget, 3 Gold Bar, 3 Diamond, 2 Orcish Steel)"
     new "Caveau T8 (40 Pietra, 40 Metallo, 5 Pepite d'Oro, 3 Lingotti d'Oro, 3 Diamanti, 2 Acciaio Orchesco)" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:28
+
+# game/places/hotel/lobby/counter.rpy:32
+translate italian room_lobby_counter_765ad082:
+
+    # "Vault allows you to store materials inside. They won't disappear on death. Can store 25 items."
+    "Vault ti permette di conservare i materiali all'interno. Non scompariranno alla morte. Può conservare 25 oggetti." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:245
+translate italian room_lobby_counter_b2e45921:
+
+    # "Increase capacity to 150 items. Currency no longer takes space in the vault."
+    "Aumenta la capacità a 150 oggetti. La valuta non occupa più spazio nel vault." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:275
+translate italian room_lobby_counter_4c5deea2:
+
+    # "Increase capacity to 350 items {small}(+100%% space per tier){/small}."
+    "Aumenta la capacità a 350 oggetti {small}(+100%% spazio per livello){/small}." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:304
+translate italian room_lobby_counter_b902bc1a:
+
+    # "Increase capacity to 600 units {small}(+100%% space per tier){/small}."
+    "Aumenta la capacità a 600 unità {small}(+100%% spazio per livello){/small}." # TL # Victorius - AI
+

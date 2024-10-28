@@ -450,3 +450,29 @@ translate french strings:
     old "Build next floor (30 Stone, 15 Wood, 15 Metal)"
     new "Construire l'étage suivant (30 Pierre, 15 Bois, 15 Métal)" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:29
+
+# game/places/hotel/lobby/counter.rpy:32
+translate french room_lobby_counter_765ad082:
+
+    # "Vault allows you to store materials inside. They won't disappear on death. Can store 25 items."
+    "Le coffre vous permet de stocker des matériaux à l'intérieur. Ils ne disparaîtront pas à la mort. Peut stocker 25 objets." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:245
+translate french room_lobby_counter_b2e45921:
+
+    # "Increase capacity to 150 items. Currency no longer takes space in the vault."
+    "Augmentez la capacité à 150 objets. La monnaie ne prend plus de place dans le coffre." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:275
+translate french room_lobby_counter_4c5deea2:
+
+    # "Increase capacity to 350 items {small}(+100%% space per tier){/small}."
+    "Augmentez la capacité à 350 objets {small}(+100%% d'espace par niveau){/small}." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:304
+translate french room_lobby_counter_b902bc1a:
+
+    # "Increase capacity to 600 units {small}(+100%% space per tier){/small}."
+    "Augmentez la capacité à 600 unités {small}(+100%% d'espace par niveau){/small}." # TL # Victorius - AI
+

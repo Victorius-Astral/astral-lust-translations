@@ -2118,3 +2118,11 @@ translate italian strings:
     old "Secret"
     new "Segreto" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:28
+
+translate italian strings:
+
+    # game/variables/replays.rpy:642
+    old "Have a good dream."
+    new "Fai un bel sogno." # TL # Victorius - AI
+

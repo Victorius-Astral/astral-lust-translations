@@ -234,3 +234,11 @@ translate italian strings:
     old "{gold}Remember, raising your stats can increase your combat ability dramatically!{/gold}"
     new "{gold}Ricorda, aumentare le tue statistiche può aumentare drammaticamente la tua abilità in combattimento!{/gold}" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:28
+
+translate italian strings:
+
+    # game/variables/help.rpy:3
+    old "{gold}Vault can be upgraded!{/gold} You can do this once forge was built, at the lobby counter."
+    new "{gold}Il caveau può essere potenziato!{/gold} Puoi farlo una volta che la forgia è stata costruita, al bancone della hall." # TL # Victorius - AI
+

@@ -440,3 +440,29 @@ translate polish strings:
     old "Vault T8 (40 Stone, 40 Metal, 5 Gold Nugget, 3 Gold Bar, 3 Diamond, 2 Orcish Steel)"
     new "Skarbiec T8 (40 Kamienia, 40 Metalu, 5 Złote Nuggety, 3 Złote Sztabki, 3 Diamenty, 2 Orkowej Stali)" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:31
+
+# game/places/hotel/lobby/counter.rpy:32
+translate polish room_lobby_counter_765ad082:
+
+    # "Vault allows you to store materials inside. They won't disappear on death. Can store 25 items."
+    "Skarbiec pozwala na przechowywanie materiałów wewnątrz. Nie znikną po śmierci. Można przechowywać 25 przedmiotów." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:245
+translate polish room_lobby_counter_b2e45921:
+
+    # "Increase capacity to 150 items. Currency no longer takes space in the vault."
+    "Zwiększ pojemność do 150 przedmiotów. Waluta nie zajmuje już miejsca w skarbcu." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:275
+translate polish room_lobby_counter_4c5deea2:
+
+    # "Increase capacity to 350 items {small}(+100%% space per tier){/small}."
+    "Zwiększ pojemność do 350 przedmiotów {small}(+100%% miejsca na poziom){/small}." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:304
+translate polish room_lobby_counter_b902bc1a:
+
+    # "Increase capacity to 600 units {small}(+100%% space per tier){/small}."
+    "Zwiększ pojemność do 600 jednostek {small}(+100%% miejsca na poziom){/small}." # TL # Victorius - AI
+

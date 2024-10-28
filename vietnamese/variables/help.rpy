@@ -258,3 +258,11 @@ translate vietnamese strings:
     # game/variables/help.rpy:3
     old "{color=#45B6FE}12. If sanity reaches 0% or corruption 100% it's game over. Be careful.{/color}"
     new "{color=#45B6FE}12. Nếu độ tỉnh táo chỉ còn 0% hoặc sa đọa chạm mức 100% thì trò chơi kết thúc. Hãy cẩn thận.{/color}" # TL
+# TODO: Translation updated at 2024-10-26 16:44
+
+translate vietnamese strings:
+
+    # game/variables/help.rpy:3
+    old "{gold}Vault can be upgraded!{/gold} You can do this once forge was built, at the lobby counter."
+    new "{gold}Kho bạc có thể được nâng cấp!{/gold} Bạn có thể thực hiện điều này sau khi lò rèn được xây dựng, tại quầy lễ tân." # TL # Victorius - AI
+

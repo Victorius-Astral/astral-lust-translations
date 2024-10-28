@@ -2114,3 +2114,11 @@ translate polish strings:
     old "Secret"
     new "Tajemnica" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:31
+
+translate polish strings:
+
+    # game/variables/replays.rpy:642
+    old "Have a good dream."
+    new "Miej piękny sen." # TL # Victorius - AI
+

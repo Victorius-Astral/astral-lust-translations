@@ -450,3 +450,29 @@ translate chinese strings:
     old "Build next floor (30 Stone, 15 Wood, 15 Metal)"
     new "建造下一层（30个石头，15个木材，15个金属）" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:42
+
+# game/places/hotel/lobby/counter.rpy:32
+translate chinese room_lobby_counter_765ad082:
+
+    # "Vault allows you to store materials inside. They won't disappear on death. Can store 25 items."
+    "保险库允许您存储物品。死亡时不会消失。可以存储25个物品。" # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:245
+translate chinese room_lobby_counter_b2e45921:
+
+    # "Increase capacity to 150 items. Currency no longer takes space in the vault."
+    "增加容量至150个物品。货币不再占用保险库空间。" # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:275
+translate chinese room_lobby_counter_4c5deea2:
+
+    # "Increase capacity to 350 items {small}(+100%% space per tier){/small}."
+    "增加容量至350个物品 {small}(每级增加100%%空间){/small}。" # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:304
+translate chinese room_lobby_counter_b902bc1a:
+
+    # "Increase capacity to 600 units {small}(+100%% space per tier){/small}."
+    "增加容量至600个单位 {small}(每级增加100%%空间){/small}。" # TL # Victorius - AI
+

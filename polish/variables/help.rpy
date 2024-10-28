@@ -234,3 +234,11 @@ translate polish strings:
     old "{gold}Remember, raising your stats can increase your combat ability dramatically!{/gold}"
     new "{gold}Pamiętaj, że podnoszenie statystyk może znacznie zwiększyć Twoje zdolności bojowe!{/gold}" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:31
+
+translate polish strings:
+
+    # game/variables/help.rpy:3
+    old "{gold}Vault can be upgraded!{/gold} You can do this once forge was built, at the lobby counter."
+    new "{gold}Skarbiec można ulepszyć!{/gold} Możesz to zrobić, gdy tylko kuźnia zostanie zbudowana, przy ladzie w holu." # TL # Victorius - AI
+

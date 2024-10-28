@@ -440,3 +440,29 @@ translate german strings:
     old "Vault T8 (40 Stone, 40 Metal, 5 Gold Nugget, 3 Gold Bar, 3 Diamond, 2 Orcish Steel)"
     new "Tresor T8 (40 Stein, 40 Metall, 5 Goldnugget, 3 Goldbarren, 3 Diamant, 2 orkischer Stahl)" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:45
+
+# game/places/hotel/lobby/counter.rpy:32
+translate german room_lobby_counter_765ad082:
+
+    # "Vault allows you to store materials inside. They won't disappear on death. Can store 25 items."
+    "Der Tresor ermöglicht es Ihnen, Materialien darin zu lagern. Sie verschwinden nicht bei Tod. Kann 25 Gegenstände lagern." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:245
+translate german room_lobby_counter_b2e45921:
+
+    # "Increase capacity to 150 items. Currency no longer takes space in the vault."
+    "Kapazität auf 150 Gegenstände erhöhen. Währung nimmt keinen Platz mehr im Tresor ein." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:275
+translate german room_lobby_counter_4c5deea2:
+
+    # "Increase capacity to 350 items {small}(+100%% space per tier){/small}."
+    "Kapazität auf 350 Gegenstände erhöhen {small}(+100%% Platz pro Stufe){/small}." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:304
+translate german room_lobby_counter_b902bc1a:
+
+    # "Increase capacity to 600 units {small}(+100%% space per tier){/small}."
+    "Kapazität auf 600 Einheiten erhöhen {small}(+100%% Platz pro Stufe){/small}." # TL # Victorius - AI
+

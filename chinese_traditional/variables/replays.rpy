@@ -2118,3 +2118,11 @@ translate chinese_traditional strings:
     old "Secret"
     new "秘密" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:43
+
+translate chinese_traditional strings:
+
+    # game/variables/replays.rpy:642
+    old "Have a good dream."
+    new "做個好夢。" # TL # Victorius - AI
+

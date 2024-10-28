@@ -450,3 +450,29 @@ translate vietnamese room_lobby_counter_d6fe7e01:
     # "Forge gives access to card removal and crafting. It's required to upgrade expansions."
     "Forge cung cấp quyền truy cập vào việc loại bỏ và chế tác thẻ. Nó cần thiết để nâng cấp các phần mở rộng." # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:44
+
+# game/places/hotel/lobby/counter.rpy:32
+translate vietnamese room_lobby_counter_765ad082:
+
+    # "Vault allows you to store materials inside. They won't disappear on death. Can store 25 items."
+    "Kho cho phép bạn lưu trữ vật liệu bên trong. Chúng sẽ không biến mất khi chết. Có thể lưu trữ 25 vật phẩm." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:245
+translate vietnamese room_lobby_counter_b2e45921:
+
+    # "Increase capacity to 150 items. Currency no longer takes space in the vault."
+    "Tăng dung lượng lên 150 vật phẩm. Tiền tệ không còn chiếm chỗ trong kho nữa." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:275
+translate vietnamese room_lobby_counter_4c5deea2:
+
+    # "Increase capacity to 350 items {small}(+100%% space per tier){/small}."
+    "Tăng dung lượng lên 350 vật phẩm {small}(+100%% không gian mỗi cấp){/small}." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:304
+translate vietnamese room_lobby_counter_b902bc1a:
+
+    # "Increase capacity to 600 units {small}(+100%% space per tier){/small}."
+    "Tăng dung lượng lên 600 đơn vị {small}(+100%% không gian mỗi cấp){/small}." # TL # Victorius - AI
+

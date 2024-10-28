@@ -1801,3 +1801,11 @@ translate polish strings:
     old "Rest"
     new "Odpoczynek" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:31
+
+translate polish strings:
+
+    # game/characters/alice/speak.rpy:18
+    old "Kiss {lust}(Lust+){/lust}"
+    new "Całuj {lust}(Pożądanie+){/lust}" # TL # Victorius - AI
+

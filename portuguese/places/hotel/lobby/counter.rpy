@@ -440,3 +440,29 @@ translate portuguese strings:
     old "Vault T8 (40 Stone, 40 Metal, 5 Gold Nugget, 3 Gold Bar, 3 Diamond, 2 Orcish Steel)"
     new "Cofre T8 (40 Pedra, 40 Metal, 5 Pepitas de Ouro, 3 Barras de Ouro, 3 Diamantes, 2 Aço Orc)" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:46
+
+# game/places/hotel/lobby/counter.rpy:32
+translate portuguese room_lobby_counter_765ad082:
+
+    # "Vault allows you to store materials inside. They won't disappear on death. Can store 25 items."
+    "O Cofre permite que você armazene materiais dentro dele. Eles não desaparecerão ao morrer. Pode armazenar 25 itens." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:245
+translate portuguese room_lobby_counter_b2e45921:
+
+    # "Increase capacity to 150 items. Currency no longer takes space in the vault."
+    "Aumente a capacidade para 150 itens. Moeda não ocupa mais espaço no cofre." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:275
+translate portuguese room_lobby_counter_4c5deea2:
+
+    # "Increase capacity to 350 items {small}(+100%% space per tier){/small}."
+    "Aumente a capacidade para 350 itens {small}(+100%% de espaço por nível){/small}." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:304
+translate portuguese room_lobby_counter_b902bc1a:
+
+    # "Increase capacity to 600 units {small}(+100%% space per tier){/small}."
+    "Aumente a capacidade para 600 unidades {small}(+100%% de espaço por nível){/small}." # TL # Victorius - AI
+

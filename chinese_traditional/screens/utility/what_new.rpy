@@ -562,3 +562,35 @@ translate chinese_traditional strings:
     old "{b}Other changes{/b}\nThere is a lot of other changes, both big and small. Many gui elements were made bigger, some new things were added, including secret event. Wallpapers & collectibles screens will load >90% faster now. A lot of issues were fixed."
     new "{b}其他更改{/b}\n還有很多其他變化，無論大小。許多GUI元素被放大，添加了一些新內容，包括秘密事件。牆紙和收藏品屏幕的加載速度將提高90%%以上。修復了很多問題。" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:43
+
+translate chinese_traditional strings:
+
+    # game/screens/utility/what_new.rpy:210
+    old "Version 0.3.1 brings a wealth of new content, gameplay improvements, and fixes to further enhance your experience."
+    new "版本 0.3.1 帶來了豐富的新內容、遊戲性改進和修正，以進一步提升您的體驗。" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:215
+    old "{b}Major Additions{/b}"
+    new "{b}主要新增{/b}" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:216
+    old "In this update, we’ve expanded the game with full translations, including Polish (without symbols for now) and new languages like Vietnamese, French, Spanish, Chinese, Portuguese, Italian, and German. Alongside this, 61 new card levels and 12 new card variants have been added, giving players even more strategies to explore. A new enemy, the Wicked One, joins the fight, accompanied by a unique status effect, Sanity Rending. To improve convenience, an auto-save feature has been introduced, saving your progress every night."
+    new "在此更新中，我們擴展了遊戲的完整翻譯，包括目前不含符號的波蘭語，以及越南語、法語、西班牙語、中文、葡萄牙語、義大利語和德語等新語言。此外，新增了 61 個新卡牌等級和 12 個新卡牌變體，讓玩家有更多策略可以探索。新的敵人「邪惡者」加入戰鬥，並伴隨著獨特的狀態效果「理智崩壞」。為了提高便利性，我們引入了自動保存功能，每晚保存您的進度。" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:221
+    old "{b}New Events{/b}"
+    new "{b}新事件{/b}" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:222
+    old "We’ve also enriched the narrative with Lexi’s 17th event and a new conversation topic for her, while Mina’s 20th event further expands her storyline. The Industrial District now features a new exploration event with four variants, adding more depth to your exploration."
+    new "我們還豐富了劇情，新增了 Lexi 的第 17 個事件及一個新的對話主題，而 Mina 的第 20 個事件進一步擴展了她的故事線。工業區現在有一個新的探索事件，包含四種變體，為您的探索增添更多深度。" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:227
+    old "{b}Changes & Fixes{/b}"
+    new "{b}變更與修正{/b}" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:228
+    old "Beyond new content, several changes have been made to balance the game and address issues. The damage of Blood and Meat Mushrooms has been buffed, and enemies now drop rare cards more frequently. Numerous translation issues have been fixed, ensuring a more polished experience across languages. We’ve also improved the mobile user interface, enhancing tooltips and making item management more intuitive. Finally, fixes for many bugs round out this update."
+    new "除了新內容之外，我們還進行了多項更改以平衡遊戲並解決問題。血液和肉類蘑菇的傷害已增強，敵人現在更頻繁地掉落稀有卡牌。修正了許多翻譯問題，確保各語言的體驗更加完善。我們還改進了移動裝置的用戶界面，增強了工具提示並使物品管理更直觀。最後，修復了許多錯誤，完成了此次更新。" # TL # Victorius - AI
+

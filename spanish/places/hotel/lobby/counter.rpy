@@ -702,3 +702,29 @@ translate spanish strings:
     old "Build next floor (30 Stone, 15 Wood, 15 Metal)"
     new "Construir el siguiente piso (30 Piedra, 15 Madera, 15 Metal)" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:30
+
+# game/places/hotel/lobby/counter.rpy:32
+translate spanish room_lobby_counter_765ad082:
+
+    # "Vault allows you to store materials inside. They won't disappear on death. Can store 25 items."
+    "La bóveda te permite almacenar materiales dentro. No desaparecerán al morir. Puede almacenar 25 artículos." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:245
+translate spanish room_lobby_counter_b2e45921:
+
+    # "Increase capacity to 150 items. Currency no longer takes space in the vault."
+    "Aumenta la capacidad a 150 artículos. La moneda ya no ocupa espacio en la bóveda." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:275
+translate spanish room_lobby_counter_4c5deea2:
+
+    # "Increase capacity to 350 items {small}(+100%% space per tier){/small}."
+    "Aumenta la capacidad a 350 artículos {small}(+100%% de espacio por nivel){/small}." # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:304
+translate spanish room_lobby_counter_b902bc1a:
+
+    # "Increase capacity to 600 units {small}(+100%% space per tier){/small}."
+    "Aumenta la capacidad a 600 unidades {small}(+100%% de espacio por nivel){/small}." # TL # Victorius - AI
+

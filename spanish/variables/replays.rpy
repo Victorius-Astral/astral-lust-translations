@@ -2433,3 +2433,11 @@ translate spanish strings:
     old "Meet her while exploring the city. (Rachel {love}affection{/love} 7+)"
     new "Conócela al explorar la ciudad. (Rachel {love}afecto{/love} 7+)" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:30
+
+translate spanish strings:
+
+    # game/variables/replays.rpy:642
+    old "Have a good dream."
+    new "Que tengas un buen sueño." # TL # Victorius - AI
+

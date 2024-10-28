@@ -1798,3 +1798,11 @@ translate german strings:
     old "Rest"
     new "Ausruhen" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:45
+
+translate german strings:
+
+    # game/characters/alice/speak.rpy:18
+    old "Kiss {lust}(Lust+){/lust}"
+    new "Kuss {lust}(Lust+){/lust}" # TL # Victorius - AI
+

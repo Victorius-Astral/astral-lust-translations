@@ -440,3 +440,29 @@ translate chinese_traditional strings:
     old "Vault T8 (40 Stone, 40 Metal, 5 Gold Nugget, 3 Gold Bar, 3 Diamond, 2 Orcish Steel)"
     new "保險庫 T8（40石頭，40金屬，5金塊，3金條，3鑽石，2獸人鋼）" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:43
+
+# game/places/hotel/lobby/counter.rpy:32
+translate chinese_traditional room_lobby_counter_765ad082:
+
+    # "Vault allows you to store materials inside. They won't disappear on death. Can store 25 items."
+    "保險庫允許您存放材料。死亡時不會消失。可以存放25個物品。" # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:245
+translate chinese_traditional room_lobby_counter_b2e45921:
+
+    # "Increase capacity to 150 items. Currency no longer takes space in the vault."
+    "將容量增加到150個物品。貨幣不再佔用保險庫空間。" # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:275
+translate chinese_traditional room_lobby_counter_4c5deea2:
+
+    # "Increase capacity to 350 items {small}(+100%% space per tier){/small}."
+    "將容量增加到350個物品 {small}(每級增加100%%空間){/small}。" # TL # Victorius - AI
+
+# game/places/hotel/lobby/counter.rpy:304
+translate chinese_traditional room_lobby_counter_b902bc1a:
+
+    # "Increase capacity to 600 units {small}(+100%% space per tier){/small}."
+    "將容量增加到600個單位 {small}(每級增加100%%空間){/small}。" # TL # Victorius - AI
+

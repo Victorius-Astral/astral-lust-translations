@@ -232,3 +232,11 @@
     old "{gold}Remember, raising your stats can increase your combat ability dramatically!{/gold}"
     new "{gold}记住，提高你的属性可以显著提高你的战斗能力!{/gold}" # TL
 
+# TODO: Translation updated at 2024-10-26 16:42
+
+translate chinese strings:
+
+    # game/variables/help.rpy:3
+    old "{gold}Vault can be upgraded!{/gold} You can do this once forge was built, at the lobby counter."
+    new "{gold}金库可以升级！{/gold} 你可以在锻造完成后，在大厅柜台进行升级。" # TL # Victorius - AI
+

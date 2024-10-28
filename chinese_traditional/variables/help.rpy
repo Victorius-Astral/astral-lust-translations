@@ -234,3 +234,11 @@ translate chinese_traditional strings:
     old "{gold}Remember, raising your stats can increase your combat ability dramatically!{/gold}"
     new "{gold}記住，提高你的屬性可以顯著提高你的戰鬥能力！{/gold}" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:43
+
+translate chinese_traditional strings:
+
+    # game/variables/help.rpy:3
+    old "{gold}Vault can be upgraded!{/gold} You can do this once forge was built, at the lobby counter."
+    new "{gold}金庫可以升級！{/gold} 你可以在鍛造完成後，在大廳櫃檯進行升級。" # TL # Victorius - AI
+

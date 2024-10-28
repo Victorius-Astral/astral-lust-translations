@@ -1798,3 +1798,11 @@ translate italian strings:
     old "Rest"
     new "Riposo" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:28
+
+translate italian strings:
+
+    # game/characters/alice/speak.rpy:18
+    old "Kiss {lust}(Lust+){/lust}"
+    new "Bacio {lust}(Lussuria+){/lust}" # TL # Victorius - AI
+

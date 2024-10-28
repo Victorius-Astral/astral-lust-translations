@@ -570,3 +570,35 @@ translate french strings:
     old "Other events, features, mechanics, QoL, fixes and changes were made. You can find them all in the following changelog."
     new "D'autres événements, fonctionnalités, mécaniques, améliorations de la qualité de vie, corrections et changements ont été faits. Vous pouvez les trouver tous dans le changelog suivant." # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:29
+
+translate french strings:
+
+    # game/screens/utility/what_new.rpy:210
+    old "Version 0.3.1 brings a wealth of new content, gameplay improvements, and fixes to further enhance your experience."
+    new "La version 0.3.1 apporte une richesse de nouveaux contenus, des améliorations de gameplay et des correctifs pour améliorer encore votre expérience." # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:215
+    old "{b}Major Additions{/b}"
+    new "{b}Ajouts Majeurs{/b}" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:216
+    old "In this update, we’ve expanded the game with full translations, including Polish (without symbols for now) and new languages like Vietnamese, French, Spanish, Chinese, Portuguese, Italian, and German. Alongside this, 61 new card levels and 12 new card variants have been added, giving players even more strategies to explore. A new enemy, the Wicked One, joins the fight, accompanied by a unique status effect, Sanity Rending. To improve convenience, an auto-save feature has been introduced, saving your progress every night."
+    new "Dans cette mise à jour, nous avons élargi le jeu avec des traductions complètes, y compris le polonais (sans symboles pour l'instant) et de nouvelles langues comme le vietnamien, le français, l'espagnol, le chinois, le portugais, l'italien et l'allemand. Parallèlement à cela, 61 nouveaux niveaux de cartes et 12 nouvelles variantes de cartes ont été ajoutés, offrant aux joueurs encore plus de stratégies à explorer. Un nouvel ennemi, le Méchant, rejoint le combat, accompagné d'un effet de statut unique, Déchirure de la Sanité. Pour améliorer la commodité, une fonction de sauvegarde automatique a été introduite, enregistrant votre progression chaque nuit." # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:221
+    old "{b}New Events{/b}"
+    new "{b}Nouveaux Événements{/b}" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:222
+    old "We’ve also enriched the narrative with Lexi’s 17th event and a new conversation topic for her, while Mina’s 20th event further expands her storyline. The Industrial District now features a new exploration event with four variants, adding more depth to your exploration."
+    new "Nous avons également enrichi le récit avec le 17ème événement de Lexi et un nouveau sujet de conversation pour elle, tandis que le 20ème événement de Mina développe davantage son histoire. Le Quartier Industriel propose désormais un nouvel événement d'exploration avec quatre variantes, ajoutant plus de profondeur à votre exploration." # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:227
+    old "{b}Changes & Fixes{/b}"
+    new "{b}Changements & Correctifs{/b}" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:228
+    old "Beyond new content, several changes have been made to balance the game and address issues. The damage of Blood and Meat Mushrooms has been buffed, and enemies now drop rare cards more frequently. Numerous translation issues have been fixed, ensuring a more polished experience across languages. We’ve also improved the mobile user interface, enhancing tooltips and making item management more intuitive. Finally, fixes for many bugs round out this update."
+    new "Au-delà du nouveau contenu, plusieurs changements ont été apportés pour équilibrer le jeu et résoudre des problèmes. Les dégâts des Champignons de Sang et de Viande ont été augmentés, et les ennemis lâchent désormais des cartes rares plus fréquemment. De nombreux problèmes de traduction ont été corrigés, garantissant une expérience plus fluide dans toutes les langues. Nous avons également amélioré l'interface utilisateur mobile, en améliorant les infobulles et en rendant la gestion des objets plus intuitive. Enfin, des correctifs pour de nombreux bugs complètent cette mise à jour." # TL # Victorius - AI
+

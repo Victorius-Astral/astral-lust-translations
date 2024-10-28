@@ -1798,3 +1798,11 @@ translate portuguese strings:
     old "Rest"
     new "Descansar" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:46
+
+translate portuguese strings:
+
+    # game/characters/alice/speak.rpy:18
+    old "Kiss {lust}(Lust+){/lust}"
+    new "Beijar {lust}(Luxúria+){/lust}" # TL # Victorius - AI
+

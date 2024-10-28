@@ -2278,3 +2278,11 @@ translate french strings:
     old "Meet her while exploring the city. (Rachel {love}affection{/love} 7+)"
     new "Rencontre-la en explorant la ville. (Rachel {love}affection{/love} 7+)" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:29
+
+translate french strings:
+
+    # game/variables/replays.rpy:642
+    old "Have a good dream."
+    new "Fais de beaux rêves." # TL # Victorius - AI
+

@@ -591,3 +591,35 @@ translate spanish strings:
     old "Other events, features, mechanics, QoL, fixes and changes were made. You can find them all in the following changelog."
     new "Se hicieron otros eventos, características, mecánicas, mejoras de calidad de vida, correcciones y cambios. Puedes encontrarlos todos en el siguiente registro de cambios." # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:30
+
+translate spanish strings:
+
+    # game/screens/utility/what_new.rpy:210
+    old "Version 0.3.1 brings a wealth of new content, gameplay improvements, and fixes to further enhance your experience."
+    new "La versión 0.3.1 trae una gran cantidad de nuevo contenido, mejoras en la jugabilidad y correcciones para mejorar aún más tu experiencia." # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:215
+    old "{b}Major Additions{/b}"
+    new "{b}Adiciones Principales{/b}" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:216
+    old "In this update, we’ve expanded the game with full translations, including Polish (without symbols for now) and new languages like Vietnamese, French, Spanish, Chinese, Portuguese, Italian, and German. Alongside this, 61 new card levels and 12 new card variants have been added, giving players even more strategies to explore. A new enemy, the Wicked One, joins the fight, accompanied by a unique status effect, Sanity Rending. To improve convenience, an auto-save feature has been introduced, saving your progress every night."
+    new "En esta actualización, hemos ampliado el juego con traducciones completas, incluyendo polaco (sin símbolos por ahora) y nuevos idiomas como vietnamita, francés, español, chino, portugués, italiano y alemán. Junto a esto, se han añadido 61 nuevos niveles de cartas y 12 nuevas variantes de cartas, ofreciendo a los jugadores aún más estrategias para explorar. Un nuevo enemigo, el Malvado, se une a la lucha, acompañado de un efecto de estado único, Desgarramiento de Cordura. Para mejorar la comodidad, se ha introducido una función de guardado automático, guardando tu progreso cada noche." # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:221
+    old "{b}New Events{/b}"
+    new "{b}Nuevos Eventos{/b}" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:222
+    old "We’ve also enriched the narrative with Lexi’s 17th event and a new conversation topic for her, while Mina’s 20th event further expands her storyline. The Industrial District now features a new exploration event with four variants, adding more depth to your exploration."
+    new "También hemos enriquecido la narrativa con el 17º evento de Lexi y un nuevo tema de conversación para ella, mientras que el 20º evento de Mina expande aún más su historia. El Distrito Industrial ahora cuenta con un nuevo evento de exploración con cuatro variantes, añadiendo más profundidad a tu exploración." # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:227
+    old "{b}Changes & Fixes{/b}"
+    new "{b}Cambios y Correcciones{/b}" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:228
+    old "Beyond new content, several changes have been made to balance the game and address issues. The damage of Blood and Meat Mushrooms has been buffed, and enemies now drop rare cards more frequently. Numerous translation issues have been fixed, ensuring a more polished experience across languages. We’ve also improved the mobile user interface, enhancing tooltips and making item management more intuitive. Finally, fixes for many bugs round out this update."
+    new "Más allá del nuevo contenido, se han realizado varios cambios para equilibrar el juego y abordar problemas. Se ha mejorado el daño de los Hongos de Sangre y Carne, y los enemigos ahora dejan caer cartas raras con más frecuencia. Se han corregido numerosos problemas de traducción, asegurando una experiencia más pulida en todos los idiomas. También hemos mejorado la interfaz de usuario móvil, mejorando las descripciones emergentes y haciendo la gestión de objetos más intuitiva. Finalmente, las correcciones de muchos errores completan esta actualización." # TL # Victorius - AI
+

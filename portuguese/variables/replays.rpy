@@ -2118,3 +2118,11 @@ translate portuguese strings:
     old "Secret"
     new "Secreto" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:46
+
+translate portuguese strings:
+
+    # game/variables/replays.rpy:642
+    old "Have a good dream."
+    new "Tenha um bom sonho." # TL # Victorius - AI
+

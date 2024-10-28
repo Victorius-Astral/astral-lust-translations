@@ -3745,3 +3745,23 @@ translate polish strings:
     # game/events/special/prologue.rpy:1360
     old "It's online shopping service created by Hed the Gamer. They provide express delivery. I can access it from the pc in my room."
     new "To usługa zakupów online stworzona przez Hed the Gamer. Oferują ekspresową dostawę. Mogę uzyskać do niej dostęp z komputera w moim pokoju." # TL # Victorius - AI
+# TODO: Translation updated at 2024-10-26 16:31
+
+# game/events/special/prologue.rpy:100
+translate polish prologue_3ace8964:
+
+    # u_throdog "Ahhai ngluii ot Mgehye'lloig mgahnnn ephaii Y' ahor hup nafl'fhtagn ya fhtagn syha'h. {#noTL}"
+    u_throdog "Ahhai ngluii ot Mgehye'lloig mgahnnn ephaii Y' ahor hup nafl'fhtagn ya fhtagn syha'h. {#noTL}"
+
+# game/events/special/prologue.rpy:108
+translate polish prologue_ab303857:
+
+    # u_throdog "Y' ymg' goka ya haiagl llll ymg' ahor mgahnnn shuggnglui. {#noTL}"
+    u_throdog "Y' ymg' goka ya haiagl llll ymg' ahor mgahnnn shuggnglui. {#noTL}"
+
+# game/events/special/prologue.rpy:112
+translate polish prologue_ef8b5a51:
+
+    # u_throdog "Thou ahor nafl mgah'n'ghft n'gha mgep Y' mgr'luhah ephaii l' tharanak mgkadishtu lloiggshogg, mgehye'lloig ng n'ghaor'nafhor ph'nglui syha'h cosmos. {#noTL}"
+    u_throdog "Thou ahor nafl mgah'n'ghft n'gha mgep Y' mgr'luhah ephaii l' tharanak mgkadishtu lloiggshogg, mgehye'lloig ng n'ghaor'nafhor ph'nglui syha'h cosmos. {#noTL}"
+

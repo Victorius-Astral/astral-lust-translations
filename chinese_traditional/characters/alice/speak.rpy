@@ -1798,3 +1798,11 @@ translate chinese_traditional strings:
     old "Rest"
     new "休息" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:43
+
+translate chinese_traditional strings:
+
+    # game/characters/alice/speak.rpy:18
+    old "Kiss {lust}(Lust+){/lust}"
+    new "親吻 {lust}(慾望+){/lust}" # TL # Victorius - AI
+

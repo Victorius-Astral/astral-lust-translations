@@ -234,3 +234,11 @@ translate german strings:
     old "{gold}Remember, raising your stats can increase your combat ability dramatically!{/gold}"
     new "{gold}Denke daran, das Erhöhen deiner Statistiken kann deine Kampffähigkeit dramatisch steigern!{/gold}" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:45
+
+translate german strings:
+
+    # game/variables/help.rpy:3
+    old "{gold}Vault can be upgraded!{/gold} You can do this once forge was built, at the lobby counter."
+    new "{gold}Tresor kann aufgerüstet werden!{/gold} Du kannst dies tun, sobald die Schmiede gebaut wurde, am Empfangsschalter." # TL # Victorius - AI
+

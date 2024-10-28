@@ -234,3 +234,11 @@ translate portuguese strings:
     old "{gold}Remember, raising your stats can increase your combat ability dramatically!{/gold}"
     new "{gold}Lembre-se, aumentar suas estatísticas pode aumentar dramaticamente sua capacidade de combate!{/gold}" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:46
+
+translate portuguese strings:
+
+    # game/variables/help.rpy:3
+    old "{gold}Vault can be upgraded!{/gold} You can do this once forge was built, at the lobby counter."
+    new "{gold}Cofre pode ser melhorado!{/gold} Você pode fazer isso assim que a forja for construída, no balcão do saguão." # TL # Victorius - AI
+

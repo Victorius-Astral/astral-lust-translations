@@ -582,3 +582,35 @@ translate chinese strings:
     old "Other events, features, mechanics, QoL, fixes and changes were made. You can find them all in the following changelog."
     new "其他事件、功能、机制、生活质量改进、修复和变化都已完成。您可以在以下更新日志中找到它们。" # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:42
+
+translate chinese strings:
+
+    # game/screens/utility/what_new.rpy:210
+    old "Version 0.3.1 brings a wealth of new content, gameplay improvements, and fixes to further enhance your experience."
+    new "版本0.3.1带来了丰富的新内容、游戏性改进和修复，以进一步提升您的体验。" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:215
+    old "{b}Major Additions{/b}"
+    new "{b}主要新增内容{/b}" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:216
+    old "In this update, we’ve expanded the game with full translations, including Polish (without symbols for now) and new languages like Vietnamese, French, Spanish, Chinese, Portuguese, Italian, and German. Alongside this, 61 new card levels and 12 new card variants have been added, giving players even more strategies to explore. A new enemy, the Wicked One, joins the fight, accompanied by a unique status effect, Sanity Rending. To improve convenience, an auto-save feature has been introduced, saving your progress every night."
+    new "在此更新中，我们扩展了游戏的完整翻译，包括波兰语（目前不含符号）和越南语、法语、西班牙语、中文、葡萄牙语、意大利语和德语等新语言。此外，增加了61个新的卡牌等级和12个新的卡牌变体，给予玩家更多的策略探索。一位新敌人，恶者，加入了战斗，伴随着一个独特的状态效果，理智崩溃。为了提高便利性，引入了自动保存功能，每晚保存您的进度。" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:221
+    old "{b}New Events{/b}"
+    new "{b}新事件{/b}" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:222
+    old "We’ve also enriched the narrative with Lexi’s 17th event and a new conversation topic for her, while Mina’s 20th event further expands her storyline. The Industrial District now features a new exploration event with four variants, adding more depth to your exploration."
+    new "我们还丰富了故事情节，增加了Lexi的第17个事件和一个新的对话话题，同时Mina的第20个事件进一步扩展了她的故事线。工业区现在有一个新的探索事件，包含四个变体，为您的探索增添了更多深度。" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:227
+    old "{b}Changes & Fixes{/b}"
+    new "{b}更改与修复{/b}" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:228
+    old "Beyond new content, several changes have been made to balance the game and address issues. The damage of Blood and Meat Mushrooms has been buffed, and enemies now drop rare cards more frequently. Numerous translation issues have been fixed, ensuring a more polished experience across languages. We’ve also improved the mobile user interface, enhancing tooltips and making item management more intuitive. Finally, fixes for many bugs round out this update."
+    new "除了新内容外，还进行了多项更改以平衡游戏并解决问题。血液和肉类蘑菇的伤害得到了增强，敌人现在更频繁地掉落稀有卡牌。修复了许多翻译问题，确保各语言体验更为完善。我们还改进了移动用户界面，增强了工具提示并使物品管理更直观。最后，修复了许多错误，为此次更新画上了圆满的句号。" # TL # Victorius - AI
+

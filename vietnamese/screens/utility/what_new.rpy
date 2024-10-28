@@ -602,3 +602,35 @@ translate vietnamese strings:
     old "Other events, features, mechanics, QoL, fixes and changes were made. You can find them all in the following changelog."
     new "Các sự kiện khác, tính năng, cơ chế, cải thiện chất lượng cuộc sống, sửa lỗi và thay đổi đã được thực hiện. Bạn có thể tìm thấy tất cả trong nhật ký thay đổi sau." # TL # Victorius - AI
 
+# TODO: Translation updated at 2024-10-26 16:44
+
+translate vietnamese strings:
+
+    # game/screens/utility/what_new.rpy:210
+    old "Version 0.3.1 brings a wealth of new content, gameplay improvements, and fixes to further enhance your experience."
+    new "Phiên bản 0.3.1 mang đến một lượng lớn nội dung mới, cải thiện lối chơi, và sửa lỗi để nâng cao trải nghiệm của bạn." # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:215
+    old "{b}Major Additions{/b}"
+    new "{b}Bổ Sung Chính{/b}" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:216
+    old "In this update, we’ve expanded the game with full translations, including Polish (without symbols for now) and new languages like Vietnamese, French, Spanish, Chinese, Portuguese, Italian, and German. Alongside this, 61 new card levels and 12 new card variants have been added, giving players even more strategies to explore. A new enemy, the Wicked One, joins the fight, accompanied by a unique status effect, Sanity Rending. To improve convenience, an auto-save feature has been introduced, saving your progress every night."
+    new "Trong bản cập nhật này, chúng tôi đã mở rộng trò chơi với các bản dịch đầy đủ, bao gồm tiếng Ba Lan (tạm thời không có ký hiệu) và các ngôn ngữ mới như tiếng Việt, tiếng Pháp, tiếng Tây Ban Nha, tiếng Trung, tiếng Bồ Đào Nha, tiếng Ý và tiếng Đức. Cùng với đó, 61 cấp độ thẻ mới và 12 biến thể thẻ mới đã được thêm vào, mang đến cho người chơi nhiều chiến lược hơn để khám phá. Một kẻ thù mới, Wicked One, tham gia cuộc chiến, kèm theo hiệu ứng trạng thái độc đáo, Sanity Rending. Để cải thiện sự tiện lợi, tính năng tự động lưu đã được giới thiệu, lưu tiến trình của bạn mỗi đêm." # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:221
+    old "{b}New Events{/b}"
+    new "{b}Sự Kiện Mới{/b}" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:222
+    old "We’ve also enriched the narrative with Lexi’s 17th event and a new conversation topic for her, while Mina’s 20th event further expands her storyline. The Industrial District now features a new exploration event with four variants, adding more depth to your exploration."
+    new "Chúng tôi cũng đã làm phong phú thêm cốt truyện với sự kiện thứ 17 của Lexi và một chủ đề trò chuyện mới cho cô ấy, trong khi sự kiện thứ 20 của Mina mở rộng thêm câu chuyện của cô. Khu Công Nghiệp hiện có một sự kiện khám phá mới với bốn biến thể, tăng thêm chiều sâu cho việc khám phá của bạn." # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:227
+    old "{b}Changes & Fixes{/b}"
+    new "{b}Thay Đổi & Sửa Lỗi{/b}" # TL # Victorius - AI
+
+    # game/screens/utility/what_new.rpy:228
+    old "Beyond new content, several changes have been made to balance the game and address issues. The damage of Blood and Meat Mushrooms has been buffed, and enemies now drop rare cards more frequently. Numerous translation issues have been fixed, ensuring a more polished experience across languages. We’ve also improved the mobile user interface, enhancing tooltips and making item management more intuitive. Finally, fixes for many bugs round out this update."
+    new "Ngoài nội dung mới, một số thay đổi đã được thực hiện để cân bằng trò chơi và giải quyết các vấn đề. Sát thương của Nấm Máu và Nấm Thịt đã được tăng cường, và kẻ thù hiện rơi ra thẻ hiếm thường xuyên hơn. Nhiều vấn đề dịch thuật đã được khắc phục, đảm bảo trải nghiệm mượt mà hơn trên các ngôn ngữ. Chúng tôi cũng đã cải thiện giao diện người dùng trên di động, nâng cao các chú giải công cụ và làm cho việc quản lý vật phẩm trở nên trực quan hơn. Cuối cùng, sửa lỗi cho nhiều lỗi đã hoàn thiện bản cập nhật này." # TL # Victorius - AI
+
