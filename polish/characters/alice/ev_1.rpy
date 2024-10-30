@@ -52,7 +52,7 @@ translate polish alice_1_1_aacc5270:
 translate polish alice_1_1_0ae7cc52:
 
     # "Taking a step forward you are greeted with a sight you won't forget for a long time."
-    "Stawiając krok naprzód, witasz się z widokiem, którego nie zapomnisz przez długi czas." # TL # Victorius - AI
+    "Stawiając krok naprzód, wita cię widok, którego nie zapomnisz przez długi czas." # TL # TyskiDzik 
 
 # game/characters/alice/ev_1.rpy:42
 translate polish alice_1_1_ec40802e:
@@ -82,7 +82,7 @@ translate polish alice_1_1_3bacd45d:
 translate polish alice_1_1_e269123d:
 
     # th "Fuck!"
-    th "Cholera!" # TL # Victorius - AI
+    th "Kurwa." # TL # TyskiDzik
 
 # game/characters/alice/ev_1.rpy:56
 translate polish alice_1_1_66fe3ee0:
@@ -112,7 +112,7 @@ translate polish alice_1_1_2b1cfc68:
 translate polish alice_1_1_ef0be3f4:
 
     # th "Fuck, fuck, fuck, I'm done, she'll kill me."
-    th "Cholera, cholera, cholera, jestem skończony, ona mnie zabije." # TL # Victorius - AI
+    th "Kurwa, kurwa, kurwa, jestem skończony, ona mnie zabije." # TL # TyskiDzik
 
 # game/characters/alice/ev_1.rpy:65
 translate polish alice_1_1_9e39cfd5:
@@ -124,7 +124,7 @@ translate polish alice_1_1_9e39cfd5:
 translate polish alice_1_1_cbaa04c9:
 
     # "You're about to start your escape, but then you realize there is nowhere to escape to!"
-    "Zamierzasz zacząć ucieczkę, ale potem zdajesz sobie sprawę, że nie ma dokąd uciec!" # TL # Victorius - AI
+    "Zamierzasz zacząć uciekać, ale potem zdajesz sobie sprawę, że nie ma dokąd uciec!" # TyskiDzik
 
 # game/characters/alice/ev_1.rpy:69
 translate polish alice_1_1_e1923206:
@@ -142,19 +142,19 @@ translate polish alice_1_1_2572a6ad:
 translate polish alice_1_1_3e560b0e:
 
     # "You decided it was not a good idea and turned back."
-    "Zdecydowałeś, że to nie był dobry pomysł i zawróciłeś." # TL # Victorius - AI
+    "Zdecydowałeś, że to nie najlepszy pomysł i zawróciłeś." # TL # TyskiDzik
 
 # game/characters/alice/ev_1.rpy:82
 translate polish alice_1_2_0ead946a:
 
     # "You wait only for a minute, but it feels like an eternity to you."
-    "Czekasz tylko minutę, ale dla ciebie to wieczność." # TL # Victorius - AI
+    "Czekasz tylko minutę, ale czujesz jakby mnieła wieczność." # TL # TyskiDzik
 
 # game/characters/alice/ev_1.rpy:83
 translate polish alice_1_2_6cbb5942:
 
     # th "Was I ever this nervous before? It's sooo awkward, I guess I can forget about living here now.."
-    th "Czy kiedykolwiek byłem tak zdenerwowany? To takie niezręczne, chyba mogę zapomnieć o mieszkaniu tutaj.." # TL # Victorius - AI
+    th "Czy kiedykolwiek byłem tak nerwowy? To takie niezręczne, chyba mogę zapomnieć o mieszkaniu tutaj.." # TL # TyskiDzik
 
 # game/characters/alice/ev_1.rpy:85
 translate polish alice_1_2_53a52211:
@@ -178,7 +178,7 @@ translate polish alice_1_2_6a26a629:
 translate polish alice_1_2_a7b21877:
 
     # u_alice "So you are [me] I guess?"
-    u_alice "Więc jesteś [me], jak sądzę?" # TL # Victorius - AI
+    u_alice "Zgaduję że jesteś [me]?" # TL # TyskiDzik
 
 # game/characters/alice/ev_1.rpy:91
 translate polish alice_1_2_e60b9470:
@@ -244,7 +244,7 @@ translate polish alice_1_2_811d26b4:
 translate polish alice_1_2_5ec3c743:
 
     # alice "You're such a bully mister. I think I'll cry."
-    alice "Jesteś takim łobuzem, panie. Myślę, że się rozpłaczę." # TL # Victorius - AI
+    alice "Jesteś takim łobuzem, panie. Myślę, że się popłaczę." # TL # TyskiDzik
 
 # game/characters/alice/ev_1.rpy:106
 translate polish alice_1_2_3820771a:
@@ -280,13 +280,13 @@ translate polish alice_1_2_c31e4a0c:
 translate polish alice_1_2_5e2eafcb:
 
     # alice ".. buuut I guess you'll owe me one."
-    alice ".. ale myślę, że będziesz mi coś winien." # TL # Victorius - AI
+    alice ".. aaale myślę, że będziesz mi coś winien." # TL # Victorius - AI
 
 # game/characters/alice/ev_1.rpy:114
 translate polish alice_1_2_5495be7b:
 
     # th "I'm in the wrong here. I can only agree, hope she doesn't want me to do anything dangerous."
-    th "Jestem tutaj w błędzie. Mogę tylko się zgodzić, mam nadzieję, że nie chce, żebym zrobił coś niebezpiecznego." # TL # Victorius - AI
+    th "Moja wina. Nie mogę się nie zgodzić, mam nadzieję, że nie chce, żebym zrobił coś niebezpiecznego." # TL # TyskiDzik
 
 # game/characters/alice/ev_1.rpy:115
 translate polish alice_1_2_d1c58f2e:
