@@ -139,7 +139,7 @@ translate vietnamese lexi_17_1836de33_1:
 
 # game/characters/lexi/ev_17.rpy:53
 translate vietnamese lexi_17_3c795b3c:
-a
+
     # lexi "What now? How do we get this person here?"
     lexi "Bây giờ thì sao? Làm thế nào để gặp được người đó?, [me]" # TL # ZipX
 
@@ -1228,4 +1228,3 @@ translate vietnamese lexi_17_start_kiara_3820771a:
 
     # me "..."
     me "..."
-
