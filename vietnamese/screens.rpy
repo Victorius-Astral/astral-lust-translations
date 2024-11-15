@@ -147,10 +147,6 @@ translate vietnamese strings:
     new "Lưu nhanh" # TL
 
     # game/screens.rpy:784
-    old "{#file_time}%A, %B %d %Y, %H:%M"
-    new "{#file_time}%A, %B %d %Y, %H:%M" # TL # Victorius - AI
-
-    # game/screens.rpy:784
     old "empty slot"
     new "chỗ trống" # TL
 

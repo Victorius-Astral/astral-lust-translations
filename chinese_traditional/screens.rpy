@@ -55,10 +55,6 @@ translate chinese_traditional strings:
     new "快速保存" # TL # Victorius - AI
 
     # game/screens.rpy:342
-    old "{#file_time}%A, %B %d %Y, %H:%M"
-    new "{#file_time}%%A, %%B %%d %%Y, %%H:%%M" # TL # Victorius - AI
-
-    # game/screens.rpy:342
     old "empty slot"
     new "空槽" # TL # Victorius - AI
 
@@ -249,4 +245,3 @@ translate chinese_traditional strings:
     # game/screens.rpy:975
     old "Menu"
     new "選單" # TL # Victorius - AI
-

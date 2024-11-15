@@ -55,10 +55,6 @@ translate portuguese strings:
     new "Saves rápidos" # TL # Victorius - AI
 
     # game/screens.rpy:342
-    old "{#file_time}%A, %B %d %Y, %H:%M"
-    new "{#file_time}%%A, %%B %%d %%Y, %%H:%%M" # TL # Victorius - AI
-
-    # game/screens.rpy:342
     old "empty slot"
     new "slot vazio" # TL # Victorius - AI
 
@@ -249,4 +245,3 @@ translate portuguese strings:
     # game/screens.rpy:975
     old "Menu"
     new "Menu" # TL # Victorius - AI
-

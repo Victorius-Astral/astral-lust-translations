@@ -93,10 +93,6 @@
     new "快速保存记录" # TL
 
     # game/screens.rpy:662
-    old "{#file_time}%A, %B %d %Y, %H:%M"
-    new "{#file_time}%A, %B %d %Y, %H:%M" # TL # Victorius - AI
-
-    # game/screens.rpy:662
     old "empty slot"
     new "空槽" # TL # Victorius - AI
 
@@ -294,4 +290,3 @@ translate chinese strings:
     # game/screens.rpy:660
     old "Escape {#key}"
     new "Escape {#key}" # TL # Victorius - AI
-

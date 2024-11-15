@@ -55,10 +55,6 @@ translate german strings:
     new "Schnellspeicherstände" # TL # Victorius - AI
 
     # game/screens.rpy:342
-    old "{#file_time}%A, %B %d %Y, %H:%M"
-    new "{#file_time}%%A, %%B %%d %%Y, %%H:%%M" # TL # Victorius - AI
-
-    # game/screens.rpy:342
     old "empty slot"
     new "leerer Slot" # TL # Victorius - AI
 
@@ -249,4 +245,3 @@ translate german strings:
     # game/screens.rpy:975
     old "Menu"
     new "Menü" # TL # Victorius - AI
-

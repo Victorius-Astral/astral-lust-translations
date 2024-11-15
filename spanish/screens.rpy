@@ -87,10 +87,6 @@ translate spanish strings:
     new "Guardados rápidos" # TL
 
     # game/screens.rpy:666
-    old "{#file_time}%A, %B %d %Y, %H:%M"
-    new "{#file_time}%A, %B %d %Y, %H:%M" # TL # Victorius - AI
-
-    # game/screens.rpy:666
     old "empty slot"
     new "vacío" # TL
 
@@ -403,4 +399,3 @@ translate spanish strings:
     # game/screens.rpy:660
     old "Escape {#key}"
     new "Escapar {#key}" # TL # Victorius - AI
-

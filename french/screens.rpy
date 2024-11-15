@@ -95,10 +95,6 @@ translate french strings:
     new "Sauvegardes rapides" # TL
 
     # game/screens.rpy:662
-    old "{#file_time}%A, %B %d %Y, %H:%M"
-    new "{#file_time}%A, %B %d %Y, %H:%M" # TL # Victorius - AI
-
-    # game/screens.rpy:662
     old "empty slot"
     new "emplacement vide" # TL
 
@@ -293,4 +289,3 @@ translate french strings:
     # game/screens.rpy:660
     old "Escape {#key}"
     new "Échap {#key}" # TL # Victorius - AI
-

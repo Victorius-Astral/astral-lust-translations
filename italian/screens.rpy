@@ -55,10 +55,6 @@ translate italian strings:
     new "Salvataggi rapidi" # TL # Victorius - AI
 
     # game/screens.rpy:342
-    old "{#file_time}%A, %B %d %Y, %H:%M"
-    new "{#file_time}%%A, %%B %%d %%Y, %%H:%%M" # TL # Victorius - AI
-
-    # game/screens.rpy:342
     old "empty slot"
     new "slot vuoto" # TL # Victorius - AI
 
@@ -249,4 +245,3 @@ translate italian strings:
     # game/screens.rpy:975
     old "Menu"
     new "Menu" # TL # Victorius - AI
-
