@@ -34,7 +34,7 @@ translate polish alice_cunn1_5e89a703:
 translate polish alice_cunn1_6de696ef:
 
     # "She seems to melt under your service."
-    "Zdaje się topnieć pod twoją obsługą." # TL # Victorius - AI
+    "Ona topnieję pod twoją obsługą." # TL # TyskiDzik 
 
 # game/characters/alice/cunn_1.rpy:39
 translate polish alice_cunn1_f2b053cf:
@@ -46,7 +46,7 @@ translate polish alice_cunn1_f2b053cf:
 translate polish alice_cunn1_dbd8e68f:
 
     # alice "Ahhh! More, lick me more!"
-    alice "Ahhh! Więcej, liż mnie więcej!" # TL # Victorius - AI
+    alice "Ahhh! Mocniej, liż mnie mocniej!" # TL # TyskiDzik # dziwnie brzmiało 
 
 # game/characters/alice/cunn_1.rpy:44
 translate polish alice_cunn1_5245ff49:
@@ -64,7 +64,7 @@ translate polish alice_cunn1_830b5768:
 translate polish alice_cunn1_29b76d86:
 
     # "As she calls your name so playfully in her moans your dick is about to burst from your pants."
-    "Gdy tak zabawnie wymawia twoje imię w swoich jękach, twój kutas zaraz eksploduje z twoich spodni." # TL # Victorius - AI
+    "Sposób w jaki wymawia twoje imię w swoich jękach, powoduje że twój kutas zaraz eksploduje z twoich spodni." # TL # TyskiDzik
 
 # game/characters/alice/cunn_1.rpy:54
 translate polish alice_cunn1_f795fb20:
@@ -82,7 +82,7 @@ translate polish alice_cunn1_8fda8a83:
 translate polish alice_cunn1_50b23672:
 
     # th "Shit, I wish I could fuck her right now!"
-    th "Cholera, chciałbym móc ją teraz pieprzyć!" # TL # Victorius - AI
+    th "Cholera, chciałbym móc ją teraz wyruchać!" # TL # TyskiDzik
 
 # game/characters/alice/cunn_1.rpy:65
 translate polish alice_cunn1_42c3730b:
